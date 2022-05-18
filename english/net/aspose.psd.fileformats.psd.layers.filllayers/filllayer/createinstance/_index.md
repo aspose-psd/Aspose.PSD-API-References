@@ -22,6 +22,34 @@ public static FillLayer CreateInstance(FillType fillType)
 
 Returns a new instance of the [`FillLayer`](../../filllayer) class by type of fill.
 
+### Examples
+
+The following example demonstrates how to add the FillLayer type layer at runtime.
+
+```csharp
+[C#]
+
+string outputFilePath = "output.psd";
+
+using (var image = new PsdImage(100, 100))
+{
+    FillLayer colorFillLayer = FillLayer.CreateInstance(FillType.Color);
+    colorFillLayer.DisplayName = "Color Fill Layer";
+    image.AddLayer(colorFillLayer);
+
+    FillLayer gradientFillLayer = FillLayer.CreateInstance(FillType.Gradient);
+    gradientFillLayer.DisplayName = "Gradient Fill Layer";
+    image.AddLayer(gradientFillLayer);
+
+    FillLayer patternFillLayer = FillLayer.CreateInstance(FillType.Pattern);
+    patternFillLayer.DisplayName = "Pattern Fill Layer";
+    patternFillLayer.Opacity = 50;
+    image.AddLayer(patternFillLayer);
+
+    image.Save(outputFilePath);
+}
+```
+
 ### See Also
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype)

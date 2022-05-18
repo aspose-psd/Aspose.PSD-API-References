@@ -3,7 +3,7 @@ title: TiffImageException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 590
+weight: 610
 url: /net/aspose.psd.coreexceptions.imageformats/tiffimageexception/
 ---
 ## TiffImageException class
@@ -27,7 +27,7 @@ public class TiffImageException : ImageException
 
 | Name | Description |
 | --- | --- |
-| [OptionsError](optionserror) { get; } | Gets the tiff options error. |
+| [OptionsError](../../aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror) { get; } | Gets the tiff options error. |
 
 ### See Also
 

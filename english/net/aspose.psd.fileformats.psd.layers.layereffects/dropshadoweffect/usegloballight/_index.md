@@ -3,7 +3,7 @@ title: UseGlobalLight
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/
 ---
 ## DropShadowEffect.UseGlobalLight property

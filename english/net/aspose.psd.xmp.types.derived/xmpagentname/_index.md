@@ -3,7 +3,7 @@ title: XmpAgentName
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5940
+weight: 5990
 url: /net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
 ## XmpAgentName class
@@ -19,6 +19,18 @@ public sealed class XmpAgentName : XmpText
 | Name | Description |
 | --- | --- |
 | [XmpAgentName](xmpagentname)(string) | Initializes a new instance of the [`XmpAgentName`](../xmpagentname) class. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value) { get; set; } | Gets or sets the text value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

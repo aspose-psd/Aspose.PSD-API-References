@@ -3,7 +3,7 @@ title: IImageCreatorDescriptor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4210
+weight: 4260
 url: /net/aspose.psd/iimagecreatordescriptor/
 ---
 ## IImageCreatorDescriptor interface
@@ -18,8 +18,8 @@ public interface IImageCreatorDescriptor : IImageDescriptor
 
 | Name | Description |
 | --- | --- |
-| [CanCreate](cancreate)(ImageOptionsBase) | Determines whether image creator can create a new image using the *imageOptions*. |
-| [CreateInstance](createinstance)() | Creates a new creator instance. |
+| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate)(ImageOptionsBase) | Determines whether image creator can create a new image using the *imageOptions*. |
+| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance)() | Creates a new creator instance. |
 
 ### See Also
 

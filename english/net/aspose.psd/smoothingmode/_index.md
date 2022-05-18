@@ -3,7 +3,7 @@ title: SmoothingMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5370
+weight: 5420
 url: /net/aspose.psd/smoothingmode/
 ---
 ## SmoothingMode enumeration

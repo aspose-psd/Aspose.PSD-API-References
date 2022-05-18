@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Resources
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains PSD file format resource entities.
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.psd.fileformats.psd.resources/
 ---
 The namespace contains PSD file format resource entities.
@@ -12,43 +12,43 @@ The namespace contains PSD file format resource entities.
 
 | Class | Description |
 | --- | --- |
-| class [BackgroundColorResource](./backgroundcolorresource) | The resource with border information of image print settings. |
-| class [BorderInformationResource](./borderinformationresource) | The resource with border information of image print settings. |
-| class [CaptionDigestResource](./captiondigestresource) | CaptionDigest resource |
-| class [ColorHalftoneInformationResource](./colorhalftoneinformationresource) | Halftoning resource |
-| class [ColorTransferFunctionsResource](./colortransferfunctionsresource) | Color transfer resource |
-| class [DocumentSpecificIdsResource](./documentspecificidsresource) | Document Specific Ids resource |
-| class [FixedPointDecimal](./fixedpointdecimal) | Fixed-point decimal, with 16-bit integer and 16-bit fraction. |
-| class [GlobalAltitudeResource](./globalaltituderesource) | Global altitude resource |
-| class [GlobalAngleResource](./globalangleresource) | Global angle resource |
-| class [GridAndGuidesResouce](./gridandguidesresouce) | Represents the grid and guides resource. |
-| class [GuideResource](./guideresource) | The guide resource block. |
-| class [IccProfileResource](./iccprofileresource) | Represents the ICC profile resource. |
-| class [IccUntaggedResource](./iccuntaggedresource) | Icc untagged resource |
-| class [LayerGroupInformationResource](./layergroupinformationresource) | Layer group information resource |
-| class [LayerGroupsEnabledResource](./layergroupsenabledresource) | Layer groups enabled resource |
-| class [LayerSelectionIdsResource](./layerselectionidsresource) | Layer selection ids resource |
-| class [LayerStateInformationResource](./layerstateinformationresource) | Layer state information resource |
-| class [PixelAspectRatioResource](./pixelaspectratioresource) | Pixel aspect ration resource |
-| class [PrintFlagsResource](./printflagsresource) | Print flags resource |
-| class [PrintScaleResource](./printscaleresource) | Print Scale resource |
-| class [QuickMaskInformationResource](./quickmaskinformationresource) | Quick mask information resource |
-| class [ResolutionInfoResource](./resolutioninforesource) | The resolution info resource |
-| class [Thumbnail4Resource](./thumbnail4resource) | Represents the thumbnail resource for psd 4.0. |
-| class [ThumbnailResource](./thumbnailresource) | The thumbnail resource block. |
-| class [TransparencyIndexResource](./transparencyindexresource) | The transparency index resource block. |
-| class [UnicodeAlphaNamesResource](./unicodealphanamesresource) | Unicode alpha names resource |
-| class [UnknownResource](./unknownresource) | The unknown resource. When a resource block is not recognized then this resource block is created. |
-| class [UrlListResource](./urllistresource) | Url list resource |
-| class [VersionInfoResource](./versioninforesource) | Version Info resource |
-| class [WatermarkResource](./watermarkresource) | Watermark resource |
-| class [WorkingPathResource](./workingpathresource) | Working path resource. |
-| class [XmpResource](./xmpresource) | Represents the XMP metadata resource. |
+| [BackgroundColorResource](./backgroundcolorresource) | The resource with border information of image print settings. |
+| [BorderInformationResource](./borderinformationresource) | The resource with border information of image print settings. |
+| [CaptionDigestResource](./captiondigestresource) | CaptionDigest resource |
+| [ColorHalftoneInformationResource](./colorhalftoneinformationresource) | Halftoning resource |
+| [ColorTransferFunctionsResource](./colortransferfunctionsresource) | Color transfer resource |
+| [DocumentSpecificIdsResource](./documentspecificidsresource) | Document Specific Ids resource |
+| [FixedPointDecimal](./fixedpointdecimal) | Fixed-point decimal, with 16-bit integer and 16-bit fraction. |
+| [GlobalAltitudeResource](./globalaltituderesource) | Global altitude resource |
+| [GlobalAngleResource](./globalangleresource) | Global angle resource |
+| [GridAndGuidesResouce](./gridandguidesresouce) | Represents the grid and guides resource. |
+| [GuideResource](./guideresource) | The guide resource block. |
+| [IccProfileResource](./iccprofileresource) | Represents the ICC profile resource. |
+| [IccUntaggedResource](./iccuntaggedresource) | Icc untagged resource |
+| [LayerGroupInformationResource](./layergroupinformationresource) | Layer group information resource |
+| [LayerGroupsEnabledResource](./layergroupsenabledresource) | Layer groups enabled resource |
+| [LayerSelectionIdsResource](./layerselectionidsresource) | Layer selection ids resource |
+| [LayerStateInformationResource](./layerstateinformationresource) | Layer state information resource |
+| [PixelAspectRatioResource](./pixelaspectratioresource) | Pixel aspect ration resource |
+| [PrintFlagsResource](./printflagsresource) | Print flags resource |
+| [PrintScaleResource](./printscaleresource) | Print Scale resource |
+| [QuickMaskInformationResource](./quickmaskinformationresource) | Quick mask information resource |
+| [ResolutionInfoResource](./resolutioninforesource) | The resolution info resource |
+| [Thumbnail4Resource](./thumbnail4resource) | Represents the thumbnail resource for psd 4.0. |
+| [ThumbnailResource](./thumbnailresource) | The thumbnail resource block. |
+| [TransparencyIndexResource](./transparencyindexresource) | The transparency index resource block. |
+| [UnicodeAlphaNamesResource](./unicodealphanamesresource) | Unicode alpha names resource |
+| [UnknownResource](./unknownresource) | The unknown resource. When a resource block is not recognized then this resource block is created. |
+| [UrlListResource](./urllistresource) | Url list resource |
+| [VersionInfoResource](./versioninforesource) | Version Info resource |
+| [WatermarkResource](./watermarkresource) | Watermark resource |
+| [WorkingPathResource](./workingpathresource) | Working path resource. |
+| [XmpResource](./xmpresource) | Represents the XMP metadata resource. |
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
-| enum [GuideDirection](./guidedirection) | The guide direction. |
-| enum [ThumbnailFormat](./thumbnailformat) | Specifies thumbnail data format. |
+| [GuideDirection](./guidedirection) | The guide direction. |
+| [ThumbnailFormat](./thumbnailformat) | Specifies thumbnail data format. |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->

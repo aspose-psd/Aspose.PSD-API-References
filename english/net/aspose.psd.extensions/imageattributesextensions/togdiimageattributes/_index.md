@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
+Converts the [`ImageAttributes`](../../../aspose.psd/imageattributes) to the ImageAttributes.
+
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageAttributes | ImageAttributes | The [`ImageAttributes`](../../../aspose.psd/imageattributes) to convert. |
+
+## Return Value
+
+The converted ImageAttributes.
 
 ### See Also
 

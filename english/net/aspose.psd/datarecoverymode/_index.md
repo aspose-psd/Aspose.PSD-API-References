@@ -3,7 +3,7 @@ title: DataRecoveryMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 710
+weight: 730
 url: /net/aspose.psd/datarecoverymode/
 ---
 ## DataRecoveryMode enumeration

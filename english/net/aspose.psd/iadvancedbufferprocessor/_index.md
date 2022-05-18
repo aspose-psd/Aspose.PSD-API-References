@@ -3,7 +3,7 @@ title: IAdvancedBufferProcessor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4160
+weight: 4210
 url: /net/aspose.psd/iadvancedbufferprocessor/
 ---
 ## IAdvancedBufferProcessor interface
@@ -18,8 +18,8 @@ public interface IAdvancedBufferProcessor : IBufferProcessor
 
 | Name | Description |
 | --- | --- |
-| [FinishRow](finishrow)() | Finishes the row. |
-| [FinishRows](finishrows)(int) | Finishes the rows. |
+| [FinishRow](../../aspose.psd/iadvancedbufferprocessor/finishrow)() | Finishes the row. |
+| [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows)(int) | Finishes the rows. |
 
 ### See Also
 

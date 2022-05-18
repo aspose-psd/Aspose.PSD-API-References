@@ -3,7 +3,7 @@ title: KnownColor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4840
+weight: 4890
 url: /net/aspose.psd/knowncolor/
 ---
 ## KnownColor enumeration

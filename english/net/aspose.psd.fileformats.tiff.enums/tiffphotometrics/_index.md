@@ -3,7 +3,7 @@ title: TiffPhotometrics
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3920
+weight: 3970
 url: /net/aspose.psd.fileformats.tiff.enums/tiffphotometrics/
 ---
 ## TiffPhotometrics enumeration

@@ -3,7 +3,7 @@ title: PattResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2730
+weight: 2780
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
 ## PattResource class
@@ -25,17 +25,18 @@ public class PattResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [Patterns](patterns) { get; set; } | Gets or sets the patterns data; |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the layer resource signature. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length) { get; } | Gets the layer resource length in bytes. |
+| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns) { get; set; } | Gets or sets the patterns data; |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature) { get; } | Gets the layer resource signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource block data. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save)(StreamContainer, int) | Saves the resource block data. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

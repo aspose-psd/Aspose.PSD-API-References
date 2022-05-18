@@ -3,7 +3,7 @@ title: XmpElementBase
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 6040
+weight: 6090
 url: /net/aspose.psd.xmp/xmpelementbase/
 ---
 ## XmpElementBase class
@@ -18,12 +18,12 @@ public abstract class XmpElementBase : IEquatable<XmpElementBase>
 
 | Name | Description |
 | --- | --- |
-| virtual [AddAttribute](addattribute)(string, string) | Adds the attribute. |
-| virtual [ClearAttributes](clearattributes)() | Removes all attributes. |
-| override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| [Equals](equals)(XmpElementBase) | Indicates whether the current object is equal to another object of the same type. |
-| virtual [GetAttribute](getattribute)(string) | Gets the attribute. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
+| virtual [AddAttribute](../../aspose.psd.xmp/xmpelementbase/addattribute)(string, string) | Adds the attribute. |
+| virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes)() | Removes all attributes. |
+| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| [Equals](../../aspose.psd.xmp/xmpelementbase/equals)(XmpElementBase) | Indicates whether the current object is equal to another object of the same type. |
+| virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute)(string) | Gets the attribute. |
+| override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode)() | Returns a hash code for this instance. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ColorMap
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.psd/colormap/
 ---
 ## ColorMap class
@@ -24,8 +24,8 @@ public sealed class ColorMap
 
 | Name | Description |
 | --- | --- |
-| [NewColor](newcolor) { get; set; } | Gets or sets the new [`Color`](../color) structure to which to convert. |
-| [OldColor](oldcolor) { get; set; } | Gets or sets the existing [`Color`](../color) structure to be converted. |
+| [NewColor](../../aspose.psd/colormap/newcolor) { get; set; } | Gets or sets the new [`Color`](../color) structure to which to convert. |
+| [OldColor](../../aspose.psd/colormap/oldcolor) { get; set; } | Gets or sets the existing [`Color`](../color) structure to be converted. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: IColorPalette
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4190
+weight: 4240
 url: /net/aspose.psd/icolorpalette/
 ---
 ## IColorPalette interface
@@ -18,19 +18,19 @@ public interface IColorPalette
 
 | Name | Description |
 | --- | --- |
-| [Argb32Entries](argb32entries) { get; } | Gets an array of 32-bit ARGB structures. |
-| [Entries](entries) { get; } | Gets an array of [`Color`](../color) structures. |
-| [EntriesCount](entriescount) { get; } | Gets the entries count. |
-| [IsCompactPalette](iscompactpalette) { get; } | Gets a value indicating whether compact palette is used. |
+| [Argb32Entries](../../aspose.psd/icolorpalette/argb32entries) { get; } | Gets an array of 32-bit ARGB structures. |
+| [Entries](../../aspose.psd/icolorpalette/entries) { get; } | Gets an array of [`Color`](../color) structures. |
+| [EntriesCount](../../aspose.psd/icolorpalette/entriescount) { get; } | Gets the entries count. |
+| [IsCompactPalette](../../aspose.psd/icolorpalette/iscompactpalette) { get; } | Gets a value indicating whether compact palette is used. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetArgb32Color](getargb32color)(int) | Gets the 32-bit ARGB palette color by index. |
-| [GetColor](getcolor)(int) | Gets the palette color by index. |
-| [GetNearestColorIndex](getnearestcolorindex)(Color) | Gets the index of the nearest color. |
-| [GetNearestColorIndex](getnearestcolorindex)(int) | Gets the index of the nearest 32-bit ARGB color. |
+| [GetArgb32Color](../../aspose.psd/icolorpalette/getargb32color)(int) | Gets the 32-bit ARGB palette color by index. |
+| [GetColor](../../aspose.psd/icolorpalette/getcolor)(int) | Gets the palette color by index. |
+| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex)(Color) | Gets the index of the nearest color. |
+| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex)(int) | Gets the index of the nearest 32-bit ARGB color. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ClassID
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2240
+weight: 2280
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/classid/
 ---
 ## ClassID class
@@ -29,15 +29,15 @@ public class ClassID
 
 | Name | Description |
 | --- | --- |
-| [Bytes](bytes) { get; } | Gets the bytes representing class ID. |
-| [ClassName](classname) { get; } | Gets the class name as ASCII encoding. |
-| [Length](length) { get; } | Gets the class ID length in bytes. |
+| [Bytes](../../aspose.psd.fileformats.psd.layers.layerresources/classid/bytes) { get; } | Gets the bytes representing class ID. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/classid/classname) { get; } | Gets the class name as ASCII encoding. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/classid/length) { get; } | Gets the class ID length in bytes. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Save](save)(StreamContainer) | Saves the class information to the specified stream container. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/classid/save)(StreamContainer) | Saves the class information to the specified stream container. |
 
 ### See Also
 

@@ -8,9 +8,16 @@ url: /net/aspose.psd/rasterimage/savecmyk32pixels/
 ---
 ## RasterImage.SaveCmyk32Pixels method
 
+Saves the pixels.
+
 ```csharp
 public void SaveCmyk32Pixels(Rectangle rectangle, int[] pixels)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rectangle | Rectangle | The rectangle to save pixels to. |
+| pixels | Int32[] | The CMYK pixels presented as the 32-bit integer values. |
 
 ### See Also
 

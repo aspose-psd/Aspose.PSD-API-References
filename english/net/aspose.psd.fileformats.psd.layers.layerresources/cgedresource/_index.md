@@ -3,7 +3,7 @@ title: CgEdResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2230
+weight: 2270
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
 ## CgEdResource class
@@ -24,22 +24,24 @@ public class CgEdResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| [Auto](auto) { get; set; } | Gets or sets a value indicating whether this [`CgEdResource`](../cgedresource) is automatic. |
-| [Brightness](brightness) { get; set; } | Gets or sets the brightness. |
-| [Contrast](contrast) { get; set; } | Gets or sets the contrast. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| [LabColor](labcolor) { get; set; } | Gets or sets a value indicating whether [lab color] is used. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [MeanValueForBrightnessAndContrast](meanvalueforbrightnessandcontrast) { get; set; } | Gets or sets the mean value for brightness and contrast. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| [UseLegacy](uselegacy) { get; set; } | Gets or sets a value indicating whether [use legacy]. |
-| [Version](version) { get; set; } | Gets or sets the version. |
+| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto) { get; set; } | Gets or sets a value indicating whether this [`CgEdResource`](../cgedresource) is automatic. |
+| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness) { get; set; } | Gets or sets the brightness. |
+| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast) { get; set; } | Gets or sets the contrast. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key) { get; } | Gets the layer resource key. |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor) { get; set; } | Gets or sets a value indicating whether [lab color] is used. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length) { get; } | Gets the layer resource length in bytes. |
+| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast) { get; set; } | Gets or sets the mean value for brightness and contrast. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
+| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy) { get; set; } | Gets or sets a value indicating whether [use legacy]. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version) { get; set; } | Gets or sets the version. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

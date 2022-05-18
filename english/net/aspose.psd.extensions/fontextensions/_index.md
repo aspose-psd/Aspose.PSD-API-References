@@ -3,7 +3,7 @@ title: FontExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1070
+weight: 1090
 url: /net/aspose.psd.extensions/fontextensions/
 ---
 ## FontExtensions class
@@ -18,8 +18,8 @@ public static class FontExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiFont](togdifont)(Font) |  |
-| static [ToGdiFont](togdifont)(Font, GraphicsUnit) |  |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont)(Font) | Converts the [`Font`](../../aspose.psd/font) to the Font. |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont)(Font, GraphicsUnit) | Converts the [`Font`](../../aspose.psd/font) to the Font. |
 
 ### See Also
 

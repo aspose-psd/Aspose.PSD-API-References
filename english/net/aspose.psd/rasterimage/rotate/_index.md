@@ -8,9 +8,23 @@ url: /net/aspose.psd/rasterimage/rotate/
 ---
 ## RasterImage.Rotate method (1 of 2)
 
+Rotate image around the center.
+
 ```csharp
 public virtual void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| angle | Single | The rotate angle in degrees. Positive values will rotate clockwise. |
+| resizeProportionally | Boolean | if set to `true` you will have your image size changed according to rotated rectangle (corner points) projections in other case that leaves dimensions untouched and only internal image contents are rotated. |
+| backgroundColor | Color | Color of the background. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| NotImplementedException |  |
 
 ### See Also
 
@@ -23,9 +37,15 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 
 ## RasterImage.Rotate method (2 of 2)
 
+Rotate image around the center.
+
 ```csharp
 public virtual void Rotate(float angle)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| angle | Single | The rotate angle in degrees. Positive values will rotate clockwise. |
 
 ### See Also
 

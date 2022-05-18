@@ -3,7 +3,7 @@ title: ExifWhiteBalance
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 950
+weight: 970
 url: /net/aspose.psd.exif.enums/exifwhitebalance/
 ---
 ## ExifWhiteBalance enumeration

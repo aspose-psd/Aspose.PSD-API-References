@@ -3,7 +3,7 @@ title: AsyncTask
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.psd.asynctask/asynctask/
 ---
 ## AsyncTask class
@@ -18,8 +18,8 @@ public static class AsyncTask
 
 | Name | Description |
 | --- | --- |
-| static [Create](create)(AsyncTaskAction) | Creates the asynchronous task without any result. |
-| static [Create](create)(AsyncTaskFunc) | Creates the asynchronous task with generic type result. |
+| static [Create](../../aspose.psd.asynctask/asynctask/create)(AsyncTaskAction) | Creates the asynchronous task without any result. |
+| static [Create](../../aspose.psd.asynctask/asynctask/create)(AsyncTaskFunc) | Creates the asynchronous task with generic type result. |
 
 ### See Also
 

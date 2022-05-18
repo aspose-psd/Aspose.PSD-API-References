@@ -3,7 +3,7 @@ title: BlendRange
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1800
+weight: 1830
 url: /net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
 ## BlendRange class
@@ -24,8 +24,8 @@ public sealed class BlendRange
 
 | Name | Description |
 | --- | --- |
-| [Destination](destination) { get; set; } | Gets or sets the destination blend range. |
-| [Source](source) { get; set; } | Gets or sets the source blend range. |
+| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination) { get; set; } | Gets or sets the destination blend range. |
+| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source) { get; set; } | Gets or sets the source blend range. |
 
 ### See Also
 

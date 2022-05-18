@@ -3,7 +3,7 @@ title: ColorOverlayEffect
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2020
+weight: 2050
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/
 ---
 ## ColorOverlayEffect class
@@ -18,10 +18,11 @@ public class ColorOverlayEffect : ILayerEffect
 
 | Name | Description |
 | --- | --- |
-| [BlendMode](blendmode) { get; set; } | Gets or sets the blend mode. |
-| [Color](color) { get; set; } | Gets or sets the color. |
-| [IsVisible](isvisible) { get; set; } | Gets or sets a value indicating whether this instance is visible. |
-| [Opacity](opacity) { get; set; } | Gets or sets the opacity. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/blendmode) { get; set; } | Gets or sets the blend mode. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color) { get; set; } | Gets or sets the color. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/effecttype) { get; } | Gets a type of effect |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible) { get; set; } | Gets or sets a value indicating whether this instance is visible. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity) { get; set; } | Gets or sets the opacity. |
 
 ### See Also
 

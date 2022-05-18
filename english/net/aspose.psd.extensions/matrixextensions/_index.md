@@ -3,7 +3,7 @@ title: MatrixExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1110
+weight: 1130
 url: /net/aspose.psd.extensions/matrixextensions/
 ---
 ## MatrixExtensions class
@@ -18,7 +18,7 @@ public static class MatrixExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiMatrix](togdimatrix)(Matrix) |  |
+| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix)(Matrix) | Converts the [`Matrix`](../../aspose.psd/matrix) to the Matrix. |
 
 ### See Also
 

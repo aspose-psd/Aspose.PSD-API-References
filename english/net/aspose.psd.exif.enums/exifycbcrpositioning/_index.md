@@ -3,7 +3,7 @@ title: ExifYCbCrPositioning
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 960
+weight: 980
 url: /net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
 ## ExifYCbCrPositioning enumeration

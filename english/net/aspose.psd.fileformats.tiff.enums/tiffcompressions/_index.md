@@ -3,7 +3,7 @@ title: TiffCompressions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3850
+weight: 3900
 url: /net/aspose.psd.fileformats.tiff.enums/tiffcompressions/
 ---
 ## TiffCompressions enumeration

@@ -3,7 +3,7 @@ title: IPartialRawDataLoader
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4340
+weight: 4390
 url: /net/aspose.psd/ipartialrawdataloader/
 ---
 ## IPartialRawDataLoader interface
@@ -18,8 +18,8 @@ public interface IPartialRawDataLoader
 
 | Name | Description |
 | --- | --- |
-| [Process](process)(Rectangle, byte[], Point, Point) | Processes the loaded data. |
-| [Process](process)(Rectangle, byte[], Point, Point, LoadOptions) | Processes the loaded data. |
+| [Process](../../aspose.psd/ipartialrawdataloader/process)(Rectangle, byte[], Point, Point) | Processes the loaded data. |
+| [Process](../../aspose.psd/ipartialrawdataloader/process)(Rectangle, byte[], Point, Point, LoadOptions) | Processes the loaded data. |
 
 ### See Also
 

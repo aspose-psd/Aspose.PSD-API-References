@@ -3,7 +3,7 @@ title: LinkResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2580
+weight: 2630
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/
 ---
 ## LinkResource class
@@ -18,18 +18,20 @@ public abstract class LinkResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| [DataSourceCount](datasourcecount) { get; } | Gets the count of link data sources which can be accessed by the indexer. |
-| [IsEmpty](isempty) { get; } | Gets a value indicating whether this link resource instance is empty. |
-| [Item](item) { get; } | Gets the [`LinkDataSource`](../linkdatasource) at the specified index which is the link data source unique identifier.. |
-| override [Length](length) { get; } | Gets the PSD global link resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the PSD format version. |
-| override [Signature](signature) { get; } | Gets the PSD global link resource signature. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount) { get; } | Gets the count of link data sources which can be accessed by the indexer. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | Gets a value indicating whether this link resource instance is empty. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/item) { get; } | Gets the [`LinkDataSource`](../linkdatasource) at the specified index which is the link data source unique identifier.. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length) { get; } | Gets the PSD global link resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | Gets the PSD format version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature) { get; } | Gets the PSD global link resource signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource block data. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | Saves the resource block data. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

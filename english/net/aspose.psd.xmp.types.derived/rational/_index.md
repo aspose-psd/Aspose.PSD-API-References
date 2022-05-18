@@ -3,7 +3,7 @@ title: Rational
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5920
+weight: 5970
 url: /net/aspose.psd.xmp.types.derived/rational/
 ---
 ## Rational class
@@ -24,15 +24,15 @@ public class Rational : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Denominator](denominator) { get; set; } | Gets or sets the denominator. |
-| [FloatValue](floatvalue) { get; } | Gets the float value. |
-| [Numerator](numerator) { get; } | Gets the numerator. |
+| [Denominator](../../aspose.psd.xmp.types.derived/rational/denominator) { get; set; } | Gets or sets the denominator. |
+| [FloatValue](../../aspose.psd.xmp.types.derived/rational/floatvalue) { get; } | Gets the float value. |
+| [Numerator](../../aspose.psd.xmp.types.derived/rational/numerator) { get; } | Gets the numerator. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets thestring contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation)() | Gets thestring contained value in XMP format. |
 
 ### See Also
 

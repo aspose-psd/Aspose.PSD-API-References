@@ -3,7 +3,7 @@ title: ColorChannelFlag
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.psd/colorchannelflag/
 ---
 ## ColorChannelFlag enumeration

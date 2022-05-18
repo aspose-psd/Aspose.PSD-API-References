@@ -8,9 +8,15 @@ url: /net/aspose.psd/rasterimage/adjustbrightness/
 ---
 ## RasterImage.AdjustBrightness method
 
+Adjust of a brightness for image.
+
 ```csharp
 public virtual void AdjustBrightness(int brightness)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brightness | Int32 | Brightness value. |
 
 ### See Also
 

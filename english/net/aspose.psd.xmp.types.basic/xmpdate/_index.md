@@ -3,7 +3,7 @@ title: XmpDate
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5750
+weight: 5800
 url: /net/aspose.psd.xmp.types.basic/xmpdate/
 ---
 ## XmpDate class
@@ -25,14 +25,14 @@ public sealed class XmpDate : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Format](format) { get; } | Gets the format string for current value. |
-| [Value](value) { get; set; } | Gets or sets the date value. |
+| [Format](../../aspose.psd.xmp.types.basic/xmpdate/format) { get; } | Gets the format string for current value. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpdate/value) { get; set; } | Gets or sets the date value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Returns string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation)() | Returns string contained value in XMP format. |
 
 ## Other Members
 

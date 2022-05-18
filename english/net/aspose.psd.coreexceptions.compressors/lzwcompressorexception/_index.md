@@ -3,7 +3,7 @@ title: LzwCompressorException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 430
+weight: 450
 url: /net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/
 ---
 ## LzwCompressorException class

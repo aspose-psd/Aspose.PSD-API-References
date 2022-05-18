@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/penextensions/togdipen/
 ---
 ## PenExtensions.ToGdiPen method
 
+Converts the [`Pen`](../../../aspose.psd/pen) to the Pen.
+
 ```csharp
 public static Pen ToGdiPen(Pen pen)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pen | Pen | The [`Pen`](../../../aspose.psd/pen) to convert. |
+
+## Return Value
+
+The converted Pen.
 
 ### See Also
 

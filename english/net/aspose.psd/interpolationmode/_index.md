@@ -3,7 +3,7 @@ title: InterpolationMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4830
+weight: 4880
 url: /net/aspose.psd/interpolationmode/
 ---
 ## InterpolationMode enumeration

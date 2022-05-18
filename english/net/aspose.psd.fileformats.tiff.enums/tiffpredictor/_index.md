@@ -3,7 +3,7 @@ title: TiffPredictor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3940
+weight: 3990
 url: /net/aspose.psd.fileformats.tiff.enums/tiffpredictor/
 ---
 ## TiffPredictor enumeration

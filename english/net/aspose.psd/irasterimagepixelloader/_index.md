@@ -3,7 +3,7 @@ title: IRasterImagePixelLoader
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4370
+weight: 4420
 url: /net/aspose.psd/irasterimagepixelloader/
 ---
 ## IRasterImagePixelLoader interface
@@ -18,7 +18,7 @@ public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 
 | Name | Description |
 | --- | --- |
-| [LoadPartialPixels](loadpartialpixels)(Rectangle, IPartialPixelLoader) | Loads pixels partially (by blocks). |
+| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels)(Rectangle, IPartialPixelLoader) | Loads pixels partially (by blocks). |
 
 ### See Also
 

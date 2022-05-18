@@ -3,7 +3,7 @@ title: PsdImageResourceException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 580
+weight: 600
 url: /net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/
 ---
 ## PsdImageResourceException class
@@ -25,7 +25,7 @@ public class PsdImageResourceException : PsdImageException
 
 | Name | Description |
 | --- | --- |
-| [Resource](resource) { get; } | Gets the psd resource which caused this exception. |
+| [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource) { get; } | Gets the psd resource which caused this exception. |
 
 ### See Also
 

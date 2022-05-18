@@ -19,6 +19,25 @@ public void Resize(int newWidth, int newHeight)
 | newWidth | Int32 | The new width. |
 | newHeight | Int32 | The new height. |
 
+### Examples
+
+The following example demonstrates how to resize PSD image and result we get by Aspose.PSD
+
+```csharp
+[C#]
+
+string sourceFileName = "1.psd";
+string exportPathPsd = "ResizeTest.psd";
+string exportPathPng = "ResizeTest.png";
+
+using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
+{
+    image.Resize(160, 120);
+    image.Save(exportPathPsd, new PsdOptions());
+    image.Save(exportPathPng, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+}
+```
+
 ### See Also
 
 * class [Image](../../image)

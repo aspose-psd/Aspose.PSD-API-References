@@ -3,7 +3,7 @@ title: XmpException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 670
+weight: 690
 url: /net/aspose.psd.coreexceptions/xmpexception/
 ---
 ## XmpException class

@@ -3,7 +3,7 @@ title: BaseFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1830
+weight: 1860
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
 ## BaseFillSettings class
@@ -18,7 +18,7 @@ public abstract class BaseFillSettings : IFillSettings
 
 | Name | Description |
 | --- | --- |
-| abstract [FillType](filltype) { get; } | Gets the type of the fill. |
+| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype) { get; } | Gets the type of the fill. |
 
 ### See Also
 

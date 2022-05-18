@@ -3,7 +3,7 @@ title: PenType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5020
+weight: 5070
 url: /net/aspose.psd/pentype/
 ---
 ## PenType enumeration

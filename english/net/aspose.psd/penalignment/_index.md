@@ -3,7 +3,7 @@ title: PenAlignment
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5010
+weight: 5060
 url: /net/aspose.psd/penalignment/
 ---
 ## PenAlignment enumeration

@@ -3,7 +3,7 @@ title: Save
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 380
+weight: 370
 url: /net/aspose.psd.fileformats.psd.layers/layer/save/
 ---
 ## Layer.Save method (1 of 4)

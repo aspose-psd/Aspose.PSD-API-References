@@ -3,7 +3,7 @@ title: LnsrResourceType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2630
+weight: 2680
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
 ## LnsrResourceType enumeration

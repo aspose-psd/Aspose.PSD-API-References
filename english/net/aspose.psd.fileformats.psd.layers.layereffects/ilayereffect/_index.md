@@ -3,7 +3,7 @@ title: ILayerEffect
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2050
+weight: 2080
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/
 ---
 ## ILayerEffect interface
@@ -18,9 +18,10 @@ public interface ILayerEffect
 
 | Name | Description |
 | --- | --- |
-| [BlendMode](blendmode) { get; set; } | Gets or sets the blend mode. |
-| [IsVisible](isvisible) { get; set; } | Gets or sets a value indicating whether this instance is visible. |
-| [Opacity](opacity) { get; set; } | Gets or sets the opacity where 255 = 100% |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode) { get; set; } | Gets or sets the blend mode. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/effecttype) { get; } | Gets a type of effect |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible) { get; set; } | Gets or sets a value indicating whether this instance is visible. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity) { get; set; } | Gets or sets the opacity where 255 = 100% |
 
 ### See Also
 

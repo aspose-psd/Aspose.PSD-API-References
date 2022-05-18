@@ -3,7 +3,7 @@ title: ImageLoadersRegistry
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4580
+weight: 4630
 url: /net/aspose.psd/imageloadersregistry/
 ---
 ## ImageLoadersRegistry class
@@ -18,20 +18,20 @@ public static class ImageLoadersRegistry
 
 | Name | Description |
 | --- | --- |
-| static [RegisteredDescriptors](registereddescriptors) { get; } | Gets the registered descriptors. |
-| static [RegisteredFormats](registeredformats) { get; } | Gets the registered image loading formats. |
+| static [RegisteredDescriptors](../../aspose.psd/imageloadersregistry/registereddescriptors) { get; } | Gets the registered descriptors. |
+| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats) { get; } | Gets the registered image loading formats. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateFirstSupportedLoader](createfirstsupportedloader)(Stream, LoadOptions) | Creates the first found loader suitable for the specified *stream* and optionally the *loadOptions*. |
-| static [GetFirstSupportedDescriptor](getfirstsupporteddescriptor)(Stream, LoadOptions) | Gets the fist found supported descriptor suitable for the specified *stream* and optionally the *loadOptions*. |
-| static [GetFirstSupportedDescriptorByFileFormat](getfirstsupporteddescriptorbyfileformat)(FileFormat) | Gets the first supported file format by its type name. |
-| static [GetFirstSupportedDescriptorByTypeName](getfirstsupporteddescriptorbytypename)(string) | Gets the first supported descriptor by its type name. |
-| static [Register](register)(IImageLoaderDescriptor) | Registers the specified image loader descriptor. |
-| static [RegisterLoader](registerloader)(IImageLoaderDescriptor) | Registers the loader. |
-| static [UnregisterLoader](unregisterloader)(IImageLoaderDescriptor) | Unregisters the loader. |
+| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader)(Stream, LoadOptions) | Creates the first found loader suitable for the specified *stream* and optionally the *loadOptions*. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor)(Stream, LoadOptions) | Gets the fist found supported descriptor suitable for the specified *stream* and optionally the *loadOptions*. |
+| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat)(FileFormat) | Gets the first supported file format by its type name. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename)(string) | Gets the first supported descriptor by its type name. |
+| static [Register](../../aspose.psd/imageloadersregistry/register)(IImageLoaderDescriptor) | Registers the specified image loader descriptor. |
+| static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader)(IImageLoaderDescriptor) | Registers the loader. |
+| static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader)(IImageLoaderDescriptor) | Unregisters the loader. |
 
 ### See Also
 

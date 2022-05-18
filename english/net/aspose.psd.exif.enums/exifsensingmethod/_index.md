@@ -3,7 +3,7 @@ title: ExifSensingMethod
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 920
+weight: 940
 url: /net/aspose.psd.exif.enums/exifsensingmethod/
 ---
 ## ExifSensingMethod enumeration

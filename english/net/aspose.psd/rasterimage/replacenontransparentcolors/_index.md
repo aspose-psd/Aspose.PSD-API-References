@@ -8,9 +8,15 @@ url: /net/aspose.psd/rasterimage/replacenontransparentcolors/
 ---
 ## RasterImage.ReplaceNonTransparentColors method (1 of 2)
 
+Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges. Note: if you use it on images without transparency, all colors will be replaced with a single one.
+
 ```csharp
 public void ReplaceNonTransparentColors(Color newColor)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newColor | Color | New color to replace non transparent colors with. |
 
 ### See Also
 
@@ -23,9 +29,15 @@ public void ReplaceNonTransparentColors(Color newColor)
 
 ## RasterImage.ReplaceNonTransparentColors method (2 of 2)
 
+Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges. Note: if you use it on images without transparency, all colors will be replaced with a single one.
+
 ```csharp
 public virtual void ReplaceNonTransparentColors(int newColorArgb)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newColorArgb | Int32 | New color ARGB value to replace non transparent colors with. |
 
 ### See Also
 

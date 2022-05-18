@@ -3,7 +3,7 @@ title: Hue2Resource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2390
+weight: 2430
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 ---
 ## Hue2Resource class
@@ -25,21 +25,23 @@ public class Hue2Resource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| [Colorize](colorize) { get; set; } | Gets or sets a value indicating whether this [`Hue2Resource`](../hue2resource) is colorize. |
-| [Hue](hue) { get; set; } | Gets or sets the master hue. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [Lightness](lightness) { get; set; } | Gets or sets the master lightness. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| [Ranges](ranges) { get; } | Gets the ranges of Hue/Saturation Adjustment Layer. Ranges in PS can change names if range is changed, so we should work by index |
-| [Saturation](saturation) { get; set; } | Gets or sets the master saturation. |
-| [Version](version) { get; } | Gets the version. Default is 2 |
+| [Colorize](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize) { get; set; } | Gets or sets a value indicating whether this [`Hue2Resource`](../hue2resource) is colorize. |
+| [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue) { get; set; } | Gets or sets the master hue. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length) { get; } | Gets the layer resource length in bytes. |
+| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness) { get; set; } | Gets or sets the master lightness. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/psdversion) { get; } | Gets the psd version. |
+| [Ranges](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges) { get; } | Gets the ranges of Hue/Saturation Adjustment Layer. Ranges in PS can change names if range is changed, so we should work by index |
+| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation) { get; set; } | Gets or sets the master saturation. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version) { get; } | Gets the version. Default is 2 |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

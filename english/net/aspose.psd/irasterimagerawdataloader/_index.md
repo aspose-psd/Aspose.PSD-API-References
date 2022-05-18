@@ -3,7 +3,7 @@ title: IRasterImageRawDataLoader
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4380
+weight: 4430
 url: /net/aspose.psd/irasterimagerawdataloader/
 ---
 ## IRasterImageRawDataLoader interface
@@ -18,14 +18,14 @@ public interface IRasterImageRawDataLoader
 
 | Name | Description |
 | --- | --- |
-| [IsRawDataAvailable](israwdataavailable) { get; } | Gets a value indicating whether raw data loading is supported. |
-| [RawDataSettings](rawdatasettings) { get; } | Gets the current raw data settings. Note when using these settings the data loads without conversion. |
+| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable) { get; } | Gets a value indicating whether raw data loading is supported. |
+| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings) { get; } | Gets the current raw data settings. Note when using these settings the data loads without conversion. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [LoadRawData](loadrawdata)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Loads raw data. |
+| [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Loads raw data. |
 
 ### See Also
 

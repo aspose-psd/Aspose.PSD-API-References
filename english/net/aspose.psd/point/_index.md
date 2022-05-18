@@ -3,7 +3,7 @@ title: Point
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5060
+weight: 5110
 url: /net/aspose.psd/point/
 ---
 ## Point structure
@@ -26,31 +26,31 @@ public struct Point
 
 | Name | Description |
 | --- | --- |
-| static [Empty](empty) { get; } | Gets a new instance of the [`Point`](../point) structure that has [`X`](./x) and [`Y`](./y) values set to zero. |
-| [IsEmpty](isempty) { get; } | Gets a value indicating whether this [`Point`](../point) is empty. |
-| [X](x) { get; set; } | Gets or sets the x-coordinate of this [`Point`](../point). |
-| [Y](y) { get; set; } | Gets or sets the y-coordinate of this [`Point`](../point). |
+| static [Empty](../../aspose.psd/point/empty) { get; } | Gets a new instance of the [`Point`](../point) structure that has [`X`](./x) and [`Y`](./y) values set to zero. |
+| [IsEmpty](../../aspose.psd/point/isempty) { get; } | Gets a value indicating whether this [`Point`](../point) is empty. |
+| [X](../../aspose.psd/point/x) { get; set; } | Gets or sets the x-coordinate of this [`Point`](../point). |
+| [Y](../../aspose.psd/point/y) { get; set; } | Gets or sets the y-coordinate of this [`Point`](../point). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Add](add)(Point, Size) | Adds the specified [`Size`](../size) to the specified [`Point`](../point). |
-| static [Ceiling](ceiling)(PointF) | Converts the specified [`PointF`](../pointf) to a [`Point`](../point) by rounding the values of the [`PointF`](../pointf) to the next higher integer values. |
-| static [Round](round)(PointF) | Converts the specified [`PointF`](../pointf) to a [`Point`](../point) object by rounding the [`Point`](../point) values to the nearest integer. |
-| static [Subtract](subtract)(Point, Size) | Returns the result of subtracting specified [`Size`](../size) from the specified [`Point`](../point). |
-| static [Truncate](truncate)(PointF) | Converts the specified [`PointF`](../pointf) to a [`Point`](../point) by truncating the values of the [`Point`](../point). |
-| override [Equals](equals)(object) | Specifies whether this [`Point`](../point) contains the same coordinates as the specified Object. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this [`Point`](../point). |
-| [Offset](offset)(Point) | Translates this [`Point`](../point) by the specified [`Point`](../point). |
-| [Offset](offset)(int, int) | Translates this [`Point`](../point) by the specified amount. |
-| override [ToString](tostring)() | Converts this [`Point`](../point) to a human-readable string. |
-| [operator +](op_addition) | Translates a [`Point`](../point) by a given [`Size`](../size). |
-| [operator ==](op_equality) | Compares two [`Point`](../point) objects. The result specifies whether the values of the [`X`](./x) and [`Y`](./y) properties of the two [`Point`](../point) objects are equal. |
-| [explicit operator](op_explicit) | Converts the specified [`Point`](../point) structure to a [`Size`](../size) structure. |
-| [implicit operator](op_implicit) | Converts the specified [`Point`](../point) structure to the [`PointF`](../pointf) structure. |
-| [operator !=](op_inequality) | Compares two [`Point`](../point) objects. The result specifies whether the values of the [`X`](./x) or [`Y`](./y) properties of the two [`Point`](../point) objects are unequal. |
-| [operator -](op_subtraction) | Translates a [`Point`](../point) by the negative of a given [`Size`](../size). |
+| static [Add](../../aspose.psd/point/add)(Point, Size) | Adds the specified [`Size`](../size) to the specified [`Point`](../point). |
+| static [Ceiling](../../aspose.psd/point/ceiling)(PointF) | Converts the specified [`PointF`](../pointf) to a [`Point`](../point) by rounding the values of the [`PointF`](../pointf) to the next higher integer values. |
+| static [Round](../../aspose.psd/point/round)(PointF) | Converts the specified [`PointF`](../pointf) to a [`Point`](../point) object by rounding the [`Point`](../point) values to the nearest integer. |
+| static [Subtract](../../aspose.psd/point/subtract)(Point, Size) | Returns the result of subtracting specified [`Size`](../size) from the specified [`Point`](../point). |
+| static [Truncate](../../aspose.psd/point/truncate)(PointF) | Converts the specified [`PointF`](../pointf) to a [`Point`](../point) by truncating the values of the [`Point`](../point). |
+| override [Equals](../../aspose.psd/point/equals)(object) | Specifies whether this [`Point`](../point) contains the same coordinates as the specified Object. |
+| override [GetHashCode](../../aspose.psd/point/gethashcode)() | Returns a hash code for this [`Point`](../point). |
+| [Offset](../../aspose.psd/point/offset)(Point) | Translates this [`Point`](../point) by the specified [`Point`](../point). |
+| [Offset](../../aspose.psd/point/offset)(int, int) | Translates this [`Point`](../point) by the specified amount. |
+| override [ToString](../../aspose.psd/point/tostring)() | Converts this [`Point`](../point) to a human-readable string. |
+| [operator +](../../aspose.psd/point/op_addition) | Translates a [`Point`](../point) by a given [`Size`](../size). |
+| [operator ==](../../aspose.psd/point/op_equality) | Compares two [`Point`](../point) objects. The result specifies whether the values of the [`X`](./x) and [`Y`](./y) properties of the two [`Point`](../point) objects are equal. |
+| [explicit operator](../../aspose.psd/point/op_explicit) | Converts the specified [`Point`](../point) structure to a [`Size`](../size) structure. |
+| [implicit operator](../../aspose.psd/point/op_implicit) | Converts the specified [`Point`](../point) structure to the [`PointF`](../pointf) structure. |
+| [operator !=](../../aspose.psd/point/op_inequality) | Compares two [`Point`](../point) objects. The result specifies whether the values of the [`X`](./x) or [`Y`](./y) properties of the two [`Point`](../point) objects are unequal. |
+| [operator -](../../aspose.psd/point/op_subtraction) | Translates a [`Point`](../point) by the negative of a given [`Size`](../size). |
 
 ### See Also
 

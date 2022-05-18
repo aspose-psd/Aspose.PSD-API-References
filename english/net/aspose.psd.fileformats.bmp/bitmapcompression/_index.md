@@ -3,7 +3,7 @@ title: BitmapCompression
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1290
+weight: 1310
 url: /net/aspose.psd.fileformats.bmp/bitmapcompression/
 ---
 ## BitmapCompression enumeration

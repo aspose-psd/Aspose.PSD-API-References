@@ -3,7 +3,7 @@ title: ClblResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2250
+weight: 2290
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/
 ---
 ## ClblResource class
@@ -26,8 +26,24 @@ public class ClblResource : BooleanResource
 
 | Name | Description |
 | --- | --- |
-| [BlendClippedElements](blendclippedelements) { get; set; } | Gets or sets a value indicating whether [blend clipped elements]. |
-| override [Key](key) { get; } | Gets the layer resource key. |
+| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements) { get; set; } | Gets or sets a value indicating whether [blend clipped elements]. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature) { get; } | Gets the signature. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save)(StreamContainer, int) | Saves the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [TypeToolKey](typetoolkey) | The type tool info key. |
 
 ### See Also
 

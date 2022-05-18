@@ -3,7 +3,7 @@ title: ResourceBlock.ResourceBlockState
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3440
+weight: 3490
 url: /net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
 ## ResourceBlock.ResourceBlockState enumeration

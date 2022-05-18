@@ -3,7 +3,7 @@ title: DeflateCompressorException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 420
+weight: 440
 url: /net/aspose.psd.coreexceptions.compressors/deflatecompressorexception/
 ---
 ## DeflateCompressorException class

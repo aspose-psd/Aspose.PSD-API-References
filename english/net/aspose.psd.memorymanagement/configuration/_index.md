@@ -3,7 +3,7 @@ title: Configuration
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4910
+weight: 4960
 url: /net/aspose.psd.memorymanagement/configuration/
 ---
 ## Configuration class
@@ -18,7 +18,7 @@ public static class Configuration
 
 | Name | Description |
 | --- | --- |
-| static [BufferSizeHint](buffersizehint) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
 
 ### See Also
 

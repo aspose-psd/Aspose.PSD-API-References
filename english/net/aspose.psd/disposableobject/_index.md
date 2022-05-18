@@ -3,7 +3,7 @@ title: DisposableObject
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 730
+weight: 750
 url: /net/aspose.psd/disposableobject/
 ---
 ## DisposableObject class
@@ -24,13 +24,13 @@ public class DisposableObject : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Disposed](disposed) { get; } | Gets a value indicating whether this instance is disposed. |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Gets a value indicating whether this instance is disposed. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Disposes the current instance. |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | Disposes the current instance. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: RgbMixerChannel
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1780
+weight: 1810
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
 ## RgbMixerChannel class
@@ -18,9 +18,16 @@ public class RgbMixerChannel : MixerChannel
 
 | Name | Description |
 | --- | --- |
-| [Blue](blue) { get; set; } | Gets or sets the blue. |
-| [Green](green) { get; set; } | Gets or sets the green. |
-| [Red](red) { get; set; } | Gets or sets the red. |
+| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue) { get; set; } | Gets or sets the blue. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant) { get; set; } | Gets or sets the constant.of channel. |
+| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green) { get; set; } | Gets or sets the green. |
+| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red) { get; set; } | Gets or sets the red. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata)() | Gets the raw data. |
 
 ### See Also
 

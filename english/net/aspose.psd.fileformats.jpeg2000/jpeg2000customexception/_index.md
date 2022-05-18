@@ -3,7 +3,7 @@ title: Jpeg2000CustomException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1530
+weight: 1550
 url: /net/aspose.psd.fileformats.jpeg2000/jpeg2000customexception/
 ---
 ## Jpeg2000CustomException class

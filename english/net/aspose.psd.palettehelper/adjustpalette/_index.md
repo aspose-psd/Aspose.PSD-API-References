@@ -3,7 +3,7 @@ title: AdjustPalette
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4980
+weight: 5030
 url: /net/aspose.psd.palettehelper/adjustpalette/
 ---
 ## AdjustPalette class

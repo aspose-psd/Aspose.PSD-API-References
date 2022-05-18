@@ -3,7 +3,7 @@ title: PattResourceData
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2740
+weight: 2790
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
 ## PattResourceData class
@@ -24,21 +24,21 @@ public sealed class PattResourceData
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; } | Gets the height. |
-| [ImageMode](imagemode) { get; } | Gets the image mode. |
-| [Length](length) { get; } | Gets the length of the pattern. |
-| [Name](name) { get; set; } | Gets or sets the name. |
-| [PatternData](patterndata) { get; } | Gets the pattern data. |
-| [PatternId](patternid) { get; set; } | Gets or sets the pattern identifier. |
-| [Version](version) { get; } | Gets the version. |
-| [Width](width) { get; } | Gets the width. |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height) { get; } | Gets the height. |
+| [ImageMode](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/imagemode) { get; } | Gets the image mode. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length) { get; } | Gets the length of the pattern. |
+| [Name](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name) { get; set; } | Gets or sets the name. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patterndata) { get; } | Gets the pattern data. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid) { get; set; } | Gets or sets the pattern identifier. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/version) { get; } | Gets the version. |
+| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width) { get; } | Gets the width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Save](save)(StreamContainer) | Saves the pattern data. |
-| [SetPattern](setpattern)(int[], Rectangle) | Sets the pattern. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save)(StreamContainer) | Saves the pattern data. |
+| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern)(int[], Rectangle) | Sets the pattern. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: CmykColor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.psd/cmykcolor/
 ---
 ## CmykColor structure
@@ -18,20 +18,20 @@ public struct CmykColor
 
 | Name | Description |
 | --- | --- |
-| static [Empty](empty) { get; } | Gets the empty. |
-| [C](c) { get; } | Gets the cyan component value of this [`Color`](../color) structure. |
-| [IsEmpty](isempty) { get; } | Gets a value indicating whether this [`Color`](../color) structure is uninitialized. |
-| [K](k) { get; } | Gets the black component value of this [`Color`](../color) structure. |
-| [M](m) { get; } | Gets the magenta component value of this [`Color`](../color) structure. |
-| [Y](y) { get; } | Gets the yellow component value of this [`Color`](../color) structure. |
+| static [Empty](../../aspose.psd/cmykcolor/empty) { get; } | Gets the empty. |
+| [C](../../aspose.psd/cmykcolor/c) { get; } | Gets the cyan component value of this [`Color`](../color) structure. |
+| [IsEmpty](../../aspose.psd/cmykcolor/isempty) { get; } | Gets a value indicating whether this [`Color`](../color) structure is uninitialized. |
+| [K](../../aspose.psd/cmykcolor/k) { get; } | Gets the black component value of this [`Color`](../color) structure. |
+| [M](../../aspose.psd/cmykcolor/m) { get; } | Gets the magenta component value of this [`Color`](../color) structure. |
+| [Y](../../aspose.psd/cmykcolor/y) { get; } | Gets the yellow component value of this [`Color`](../color) structure. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| override [GetHashCode](gethashcode)() | The get hash code. |
-| [ToValue](tovalue)() | The to value. |
+| override [Equals](../../aspose.psd/cmykcolor/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| override [GetHashCode](../../aspose.psd/cmykcolor/gethashcode)() | The get hash code. |
+| [ToValue](../../aspose.psd/cmykcolor/tovalue)() | The to value. |
 
 ### See Also
 

@@ -8,9 +8,15 @@ url: /net/aspose.psd/rasterimage/getskewangle/
 ---
 ## RasterImage.GetSkewAngle method
 
+Gets the skew angle. This method is applicable to scanned text documents, to determine the skew angle when scanning.
+
 ```csharp
 public float GetSkewAngle()
 ```
+
+## Return Value
+
+The skew angle, in degrees.
 
 ### See Also
 

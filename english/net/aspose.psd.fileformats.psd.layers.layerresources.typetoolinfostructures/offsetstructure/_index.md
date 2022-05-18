@@ -3,7 +3,7 @@ title: OffsetStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3030
+weight: 3080
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/
 ---
 ## OffsetStructure class
@@ -24,11 +24,26 @@ public sealed class OffsetStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| [ClassID](classid) { get; set; } | Gets or sets the class ID. |
-| [ClassName](classname) { get; set; } | Gets or sets the class name. |
-| override [Key](key) { get; } | Gets the structure key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
-| [Value](value) { get; set; } | Gets or sets the integer value. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classid) { get; set; } | Gets or sets the class ID. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classname) { get; set; } | Gets or sets the class name. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/key) { get; } | Gets the structure key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value) { get; set; } | Gets or sets the integer value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [StructureKey](structurekey) | Identifies the structure key. |
 
 ### See Also
 

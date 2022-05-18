@@ -3,7 +3,7 @@ title: BuildVersionInfo
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.psd/buildversioninfo/
 ---
 ## BuildVersionInfo class

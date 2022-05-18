@@ -3,7 +3,7 @@ title: TiffDataTypes
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3860
+weight: 3910
 url: /net/aspose.psd.fileformats.tiff.enums/tiffdatatypes/
 ---
 ## TiffDataTypes enumeration

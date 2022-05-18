@@ -3,7 +3,7 @@ title: PenExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1120
+weight: 1140
 url: /net/aspose.psd.extensions/penextensions/
 ---
 ## PenExtensions class
@@ -18,7 +18,7 @@ public static class PenExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiPen](togdipen)(Pen) |  |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen)(Pen) | Converts the [`Pen`](../../aspose.psd/pen) to the Pen. |
 
 ### See Also
 

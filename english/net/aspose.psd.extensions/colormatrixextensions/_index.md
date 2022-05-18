@@ -3,7 +3,7 @@ title: ColorMatrixExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1050
+weight: 1070
 url: /net/aspose.psd.extensions/colormatrixextensions/
 ---
 ## ColorMatrixExtensions class
@@ -18,7 +18,7 @@ public static class ColorMatrixExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiColorMatrix](togdicolormatrix)(ColorMatrix) |  |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix)(ColorMatrix) | Converts the [`ColorMatrix`](../../aspose.psd/colormatrix) to the ColorMatrix. |
 
 ### See Also
 

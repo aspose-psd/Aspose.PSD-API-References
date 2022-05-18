@@ -3,7 +3,7 @@ title: PhysicalUnit
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3670
+weight: 3720
 url: /net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
 ## PhysicalUnit enumeration

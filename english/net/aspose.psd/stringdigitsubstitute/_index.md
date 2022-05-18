@@ -3,7 +3,7 @@ title: StringDigitSubstitute
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5460
+weight: 5510
 url: /net/aspose.psd/stringdigitsubstitute/
 ---
 ## StringDigitSubstitute enumeration

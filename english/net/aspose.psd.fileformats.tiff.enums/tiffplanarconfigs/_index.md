@@ -3,7 +3,7 @@ title: TiffPlanarConfigs
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3930
+weight: 3980
 url: /net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
 ## TiffPlanarConfigs enumeration

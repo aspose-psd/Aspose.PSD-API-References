@@ -3,7 +3,7 @@ title: VibAResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3170
+weight: 3220
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 ---
 ## VibAResource class
@@ -24,23 +24,61 @@ public class VibAResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| [Saturation](saturation) { get; set; } | Gets or sets saturation value |
-| [Vibrance](vibrance) { get; set; } | Gets or sets vibrance value |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion) { get; } | Gets the psd version. |
+| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation) { get; set; } | Gets or sets saturation value |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
+| [Vibrance](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance) { get; set; } | Gets or sets vibrance value |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
 | const [TypeToolKey](typetoolkey) | The type tool info key. |
+
+### Examples
+
+The following code example demonstrates the support of the VibAResource resource.
+
+```csharp
+[C#]
+
+// Example of the support of read and write Vibration Resource at runtime.
+string sourceFileName = "VibranceResource.psd";
+string outputFileName = "out_VibranceResource.psd";
+
+using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+{
+    foreach (var layer in image.Layers)
+    {
+        foreach (var resource in layer.Resources)
+        {
+            if (resource is VibAResource)
+            {
+                var vibranceResource = (VibAResource)resource;
+
+                int vibranceValue =  vibranceResource.Vibrance;
+                int saturationValue = vibranceResource.Saturation;
+
+                vibranceResource.Vibrance = vibranceValue * 2;
+                vibranceResource.Saturation = saturationValue * 2;
+
+                break;
+            }
+        }
+    }
+
+    image.Save(outputFileName);
+}
+```
 
 ### See Also
 

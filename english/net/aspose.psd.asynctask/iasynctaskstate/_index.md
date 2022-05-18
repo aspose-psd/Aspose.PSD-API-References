@@ -3,7 +3,7 @@ title: IAsyncTaskState
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.asynctask/iasynctaskstate/
 ---
 ## IAsyncTaskState interface
@@ -18,14 +18,14 @@ public interface IAsyncTaskState
 
 | Name | Description |
 | --- | --- |
-| [IsCanceled](iscanceled) { get; } | Gets a value indicating whether the asynchronous task is canceled. |
-| [Progress](progress) { get; } | Gets the progress of the asynchronous task. |
+| [IsCanceled](../../aspose.psd.asynctask/iasynctaskstate/iscanceled) { get; } | Gets a value indicating whether the asynchronous task is canceled. |
+| [Progress](../../aspose.psd.asynctask/iasynctaskstate/progress) { get; } | Gets the progress of the asynchronous task. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SetProgress](setprogress)(int) | Sets the progress of the asynchronous task. |
+| [SetProgress](../../aspose.psd.asynctask/iasynctaskstate/setprogress)(int) | Sets the progress of the asynchronous task. |
 
 ### See Also
 

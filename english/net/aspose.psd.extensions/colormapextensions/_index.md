@@ -3,7 +3,7 @@ title: ColorMapExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1040
+weight: 1060
 url: /net/aspose.psd.extensions/colormapextensions/
 ---
 ## ColorMapExtensions class
@@ -18,8 +18,8 @@ public static class ColorMapExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiColorMap](togdicolormap)(ColorMap) |  |
-| static [ToGdiColorMaps](togdicolormaps)(ColorMap[]) |  |
+| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap)(ColorMap) | Converts the [`ColorMap`](../../aspose.psd/colormap) to the ColorMap. |
+| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps)(ColorMap[]) | Converts the [`ColorMap`](../../aspose.psd/colormap) array to the ColorMap array. |
 
 ### See Also
 

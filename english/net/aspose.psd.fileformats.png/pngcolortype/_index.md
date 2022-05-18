@@ -3,7 +3,7 @@ title: PngColorType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1560
+weight: 1580
 url: /net/aspose.psd.fileformats.png/pngcolortype/
 ---
 ## PngColorType enumeration

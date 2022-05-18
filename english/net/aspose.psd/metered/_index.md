@@ -3,7 +3,7 @@ title: Metered
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4920
+weight: 4970
 url: /net/aspose.psd/metered/
 ---
 ## Metered class
@@ -26,10 +26,10 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| [SetMeteredKey](setmeteredkey)(string, string) | Sets metered public and private key |
-| static [GetConsumptionCredit](getconsumptioncredit)() | Gets consumption credit |
-| static [GetConsumptionQuantity](getconsumptionquantity)() | Gets consumption file size |
+| override [Equals](../../aspose.psd/metered/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| [SetMeteredKey](../../aspose.psd/metered/setmeteredkey)(string, string) | Sets metered public and private key |
+| static [GetConsumptionCredit](../../aspose.psd/metered/getconsumptioncredit)() | Gets consumption credit |
+| static [GetConsumptionQuantity](../../aspose.psd/metered/getconsumptionquantity)() | Gets consumption file size |
 
 ### Examples
 

@@ -3,7 +3,7 @@ title: CustomLineCap
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 680
+weight: 700
 url: /net/aspose.psd/customlinecap/
 ---
 ## CustomLineCap class
@@ -26,19 +26,19 @@ public class CustomLineCap
 
 | Name | Description |
 | --- | --- |
-| [BaseCap](basecap) { get; set; } | Gets or sets the [`LineCap`](../linecap) enumeration on which this [`CustomLineCap`](../customlinecap) is based. |
-| [BaseInset](baseinset) { get; set; } | Gets or sets the distance between the cap and the line. |
-| [FillPath](fillpath) { get; set; } | Gets or sets the object that defines the fill for the custom cap. |
-| [StrokeJoin](strokejoin) { get; set; } | Gets or sets the [`LineJoin`](../linejoin) enumeration that determines how lines that compose this [`CustomLineCap`](../customlinecap) object are joined. |
-| [StrokePath](strokepath) { get; set; } | Gets or sets the object that defines the outline of the custom cap. |
-| [WidthScale](widthscale) { get; set; } | Gets or sets the amount by which to scale this [`CustomLineCap`](../customlinecap) Class object with respect to the width of the Pen object. |
+| [BaseCap](../../aspose.psd/customlinecap/basecap) { get; set; } | Gets or sets the [`LineCap`](../linecap) enumeration on which this [`CustomLineCap`](../customlinecap) is based. |
+| [BaseInset](../../aspose.psd/customlinecap/baseinset) { get; set; } | Gets or sets the distance between the cap and the line. |
+| [FillPath](../../aspose.psd/customlinecap/fillpath) { get; set; } | Gets or sets the object that defines the fill for the custom cap. |
+| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin) { get; set; } | Gets or sets the [`LineJoin`](../linejoin) enumeration that determines how lines that compose this [`CustomLineCap`](../customlinecap) object are joined. |
+| [StrokePath](../../aspose.psd/customlinecap/strokepath) { get; set; } | Gets or sets the object that defines the outline of the custom cap. |
+| [WidthScale](../../aspose.psd/customlinecap/widthscale) { get; set; } | Gets or sets the amount by which to scale this [`CustomLineCap`](../customlinecap) Class object with respect to the width of the Pen object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetStrokeCaps](getstrokecaps)(out LineCap, out LineCap) | Gets the caps used to start and end lines that make up this custom cap. |
-| [SetStrokeCaps](setstrokecaps)(LineCap, LineCap) | Sets the caps used to start and end lines that make up this custom cap. |
+| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps)(out LineCap, out LineCap) | Gets the caps used to start and end lines that make up this custom cap. |
+| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps)(LineCap, LineCap) | Sets the caps used to start and end lines that make up this custom cap. |
 
 ### See Also
 

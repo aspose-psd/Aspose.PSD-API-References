@@ -18,6 +18,22 @@ public PathStructure(ClassID keyName)
 | --- | --- | --- |
 | keyName | ClassID | The key name. |
 
+### Examples
+
+The following code demonstrates ability to load file with PathStructure structure.
+
+```csharp
+[C#]
+
+string srcFile = "shirt-color.psd";
+string output = "output.psd";
+
+using (PsdImage image = (PsdImage)Image.Load(srcFile))
+{
+    image.Save(output);
+}
+```
+
 ### See Also
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid)

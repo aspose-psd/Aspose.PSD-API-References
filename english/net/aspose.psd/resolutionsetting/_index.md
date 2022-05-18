@@ -3,7 +3,7 @@ title: ResolutionSetting
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5180
+weight: 5230
 url: /net/aspose.psd/resolutionsetting/
 ---
 ## ResolutionSetting class
@@ -25,8 +25,8 @@ public class ResolutionSetting
 
 | Name | Description |
 | --- | --- |
-| [HorizontalResolution](horizontalresolution) { get; set; } | Gets or sets the horizontal resolution. |
-| [VerticalResolution](verticalresolution) { get; set; } | Gets or sets the vertical resolution. |
+| [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution) { get; set; } | Gets or sets the horizontal resolution. |
+| [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution) { get; set; } | Gets or sets the vertical resolution. |
 
 ### See Also
 

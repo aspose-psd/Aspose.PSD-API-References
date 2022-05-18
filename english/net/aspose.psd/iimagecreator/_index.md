@@ -3,7 +3,7 @@ title: IImageCreator
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4200
+weight: 4250
 url: /net/aspose.psd/iimagecreator/
 ---
 ## IImageCreator interface
@@ -18,7 +18,7 @@ public interface IImageCreator
 
 | Name | Description |
 | --- | --- |
-| [Create](create)(StreamContainer, ImageOptionsBase, int, int) | Creates a new image instance with *imageOptions*. |
+| [Create](../../aspose.psd/iimagecreator/create)(StreamContainer, ImageOptionsBase, int, int) | Creates a new image instance with *imageOptions*. |
 
 ### See Also
 

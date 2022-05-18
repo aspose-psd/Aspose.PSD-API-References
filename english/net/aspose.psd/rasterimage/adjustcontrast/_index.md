@@ -8,9 +8,15 @@ url: /net/aspose.psd/rasterimage/adjustcontrast/
 ---
 ## RasterImage.AdjustContrast method
 
+Image contrasting
+
 ```csharp
 public virtual void AdjustContrast(float contrast)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| contrast | Single | Contrast value (in range [-100; 100]) |
 
 ### See Also
 

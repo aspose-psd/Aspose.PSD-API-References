@@ -3,7 +3,7 @@ title: TypeToolStyleInfo
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3140
+weight: 3190
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 ---
 ## TypeToolStyleInfo class
@@ -24,21 +24,21 @@ public class TypeToolStyleInfo
 
 | Name | Description |
 | --- | --- |
-| [AutoKern](autokern) { get; set; } | Gets or sets a value indicating whether auto kerning is on or off. |
-| [BaseShiftValue](baseshiftvalue) { get; set; } | Gets or sets the base shift value. |
-| [FaceMarkValue](facemarkvalue) { get; set; } | Gets or sets the face mark value. |
-| [KerningValue](kerningvalue) { get; set; } | Gets or sets the kerning value. |
-| [LeadingValue](leadingvalue) { get; set; } | Gets or sets the leading value. |
-| [MarkValue](markvalue) { get; set; } | Gets or sets the mark value. |
-| [RotateDown](rotatedown) { get; set; } | Gets or sets a value indicating whether it is a rotate down style. |
-| [SizeValue](sizevalue) { get; set; } | Gets or sets the size value. |
-| [TrackingValue](trackingvalue) { get; set; } | Gets or sets the tracking value. |
+| [AutoKern](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern) { get; set; } | Gets or sets a value indicating whether auto kerning is on or off. |
+| [BaseShiftValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue) { get; set; } | Gets or sets the base shift value. |
+| [FaceMarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue) { get; set; } | Gets or sets the face mark value. |
+| [KerningValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue) { get; set; } | Gets or sets the kerning value. |
+| [LeadingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue) { get; set; } | Gets or sets the leading value. |
+| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue) { get; set; } | Gets or sets the mark value. |
+| [RotateDown](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown) { get; set; } | Gets or sets a value indicating whether it is a rotate down style. |
+| [SizeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue) { get; set; } | Gets or sets the size value. |
+| [TrackingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue) { get; set; } | Gets or sets the tracking value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Save](save)(StreamContainer, int) | Saves the [`TypeToolFontInfo`](../typetoolfontinfo) information to the specified stream container. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save)(StreamContainer, int) | Saves the [`TypeToolFontInfo`](../typetoolfontinfo) information to the specified stream container. |
 
 ### See Also
 

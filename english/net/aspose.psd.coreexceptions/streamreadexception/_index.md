@@ -3,7 +3,7 @@ title: StreamReadException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 660
+weight: 680
 url: /net/aspose.psd.coreexceptions/streamreadexception/
 ---
 ## StreamReadException class
@@ -27,8 +27,8 @@ public class StreamReadException : FrameworkException
 
 | Name | Description |
 | --- | --- |
-| [ActualReadCount](actualreadcount) { get; } | Gets the actual read bytes count. |
-| [ExpectedReadCount](expectedreadcount) { get; } | Gets the expected read bytes count. |
+| [ActualReadCount](../../aspose.psd.coreexceptions/streamreadexception/actualreadcount) { get; } | Gets the actual read bytes count. |
+| [ExpectedReadCount](../../aspose.psd.coreexceptions/streamreadexception/expectedreadcount) { get; } | Gets the expected read bytes count. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ILayerResourceLoader
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1980
+weight: 2010
 url: /net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
 ## ILayerResourceLoader interface
@@ -18,8 +18,8 @@ public interface ILayerResourceLoader
 
 | Name | Description |
 | --- | --- |
-| [CanLoad](canload)(StreamContainer, int) | Determines whether layer resource can be loaded from the specified [`StreamContainer`](../../aspose.psd/streamcontainer). |
-| [Load](load)(StreamContainer, int) | Loads the [`LayerResource`](../layerresource). |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload)(StreamContainer, int) | Determines whether layer resource can be loaded from the specified [`StreamContainer`](../../aspose.psd/streamcontainer). |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load)(StreamContainer, int) | Loads the [`LayerResource`](../layerresource). |
 
 ### See Also
 

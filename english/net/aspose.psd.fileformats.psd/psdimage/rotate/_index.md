@@ -18,6 +18,45 @@ public override void Rotate(float angle)
 | --- | --- | --- |
 | angle | Single | The rotate angle in degrees. Positive values will rotate clockwise. |
 
+### Examples
+
+The following code demonstrates ability to rotate the image by specific angle value.
+
+```csharp
+[C#]
+
+string sourceFileName = "TheHat.psd";
+var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
+
+// Whole image rotating
+using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+{
+    for (int i = 0; i < 4; i++)
+    {
+        int angle = i * 45;
+        image.Rotate(angle);
+
+        string outFileName = "TheHatRotated" + angle + ".png";
+
+        image.Save(outFileName, pngOptions);
+    }
+}
+
+// Layer rotating
+using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+{
+    for (int i = 0; i < 4; i++)
+    {
+        int angle = i * 45;
+        image.Layers[1].Rotate(angle);
+
+        string outFileName = "TheHatLayerRotated" + angle + ".png";
+
+        image.Save(outFileName, pngOptions);
+    }
+}
+```
+
 ### See Also
 
 * class [PsdImage](../../psdimage)

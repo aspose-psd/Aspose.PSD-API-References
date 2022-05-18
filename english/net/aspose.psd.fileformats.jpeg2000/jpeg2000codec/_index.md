@@ -3,7 +3,7 @@ title: Jpeg2000Codec
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1520
+weight: 1540
 url: /net/aspose.psd.fileformats.jpeg2000/jpeg2000codec/
 ---
 ## Jpeg2000Codec enumeration

@@ -3,7 +3,7 @@ title: UseGlobalLight
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/
 ---
 ## InnerShadowEffect.UseGlobalLight property

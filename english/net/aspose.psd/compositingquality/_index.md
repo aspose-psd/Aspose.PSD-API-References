@@ -3,7 +3,7 @@ title: CompositingQuality
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 400
+weight: 420
 url: /net/aspose.psd/compositingquality/
 ---
 ## CompositingQuality enumeration

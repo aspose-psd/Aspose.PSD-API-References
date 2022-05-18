@@ -3,7 +3,7 @@ title: VectorPathRecordFactory
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1390
+weight: 1410
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
 ## VectorPathRecordFactory class
@@ -24,7 +24,7 @@ public class VectorPathRecordFactory
 
 | Name | Description |
 | --- | --- |
-| [ProducePathRecord](producepathrecord)(byte[]) | Produces the path record. |
+| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord)(byte[]) | Produces the path record. |
 
 ### See Also
 

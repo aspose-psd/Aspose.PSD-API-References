@@ -3,7 +3,7 @@ title: MergeLayerTo
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 370
+weight: 360
 url: /net/aspose.psd.fileformats.psd.layers/layer/mergelayerto/
 ---
 ## Layer.MergeLayerTo method

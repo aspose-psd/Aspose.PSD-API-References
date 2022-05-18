@@ -3,7 +3,7 @@ title: WarpMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5530
+weight: 5580
 url: /net/aspose.psd/warpmode/
 ---
 ## WarpMode enumeration

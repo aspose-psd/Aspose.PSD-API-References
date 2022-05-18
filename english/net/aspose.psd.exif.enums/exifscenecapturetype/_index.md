@@ -3,7 +3,7 @@ title: ExifSceneCaptureType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 910
+weight: 930
 url: /net/aspose.psd.exif.enums/exifscenecapturetype/
 ---
 ## ExifSceneCaptureType enumeration

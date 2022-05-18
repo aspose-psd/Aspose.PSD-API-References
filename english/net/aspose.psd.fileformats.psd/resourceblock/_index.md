@@ -3,7 +3,7 @@ title: ResourceBlock
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3430
+weight: 3480
 url: /net/aspose.psd.fileformats.psd/resourceblock/
 ---
 ## ResourceBlock class
@@ -18,19 +18,19 @@ public abstract class ResourceBlock
 
 | Name | Description |
 | --- | --- |
-| abstract [DataSize](datasize) { get; } | Gets the resource data size in bytes. |
-| [ID](id) { get; set; } | Gets or sets the unique identifier for the resource. |
-| abstract [MinimalVersion](minimalversion) { get; } | Gets the minimal required PSD version. |
-| [Name](name) { get; set; } | Gets or sets the resource name. Pascal string, padded to make the size even (a null name consists of two bytes of 0). |
-| [Signature](signature) { get; } | Gets the resource signature. Should be always '8BIM'. |
-| [Size](size) { get; } | Gets the resource block size in bytes including its data. |
+| abstract [DataSize](../../aspose.psd.fileformats.psd/resourceblock/datasize) { get; } | Gets the resource data size in bytes. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Gets or sets the unique identifier for the resource. |
+| abstract [MinimalVersion](../../aspose.psd.fileformats.psd/resourceblock/minimalversion) { get; } | Gets the minimal required PSD version. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Gets or sets the resource name. Pascal string, padded to make the size even (a null name consists of two bytes of 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Gets the resource signature. Should be always '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Gets the resource block size in bytes including its data. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Save](save)(StreamContainer) | Saves the resource block to the specified stream. |
-| virtual [ValidateValues](validatevalues)() | Validates the resource values. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | Saves the resource block to the specified stream. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | Validates the resource values. |
 
 ## Other Members
 

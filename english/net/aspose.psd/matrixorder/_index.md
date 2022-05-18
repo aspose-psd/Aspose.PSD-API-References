@@ -3,7 +3,7 @@ title: MatrixOrder
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4900
+weight: 4950
 url: /net/aspose.psd/matrixorder/
 ---
 ## MatrixOrder enumeration

@@ -3,7 +3,7 @@ title: ColorQuantizationMethod
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.psd/colorquantizationmethod/
 ---
 ## ColorQuantizationMethod enumeration

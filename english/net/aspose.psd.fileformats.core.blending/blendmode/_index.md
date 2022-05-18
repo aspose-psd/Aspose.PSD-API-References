@@ -3,7 +3,7 @@ title: BlendMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1300
+weight: 1320
 url: /net/aspose.psd.fileformats.core.blending/blendmode/
 ---
 ## BlendMode enumeration

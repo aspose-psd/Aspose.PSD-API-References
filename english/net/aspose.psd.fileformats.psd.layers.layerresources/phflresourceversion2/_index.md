@@ -3,7 +3,7 @@ title: PhflResourceVersion2
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2760
+weight: 2810
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/
 ---
 ## PhflResourceVersion2 class
@@ -25,22 +25,26 @@ public class PhflResourceVersion2 : PhflResource
 
 | Name | Description |
 | --- | --- |
-| [ColorSpace](colorspace) { get; } | Gets the color space. |
-| [ComponentA](componenta) { get; set; } | Gets or sets the A component of color |
-| [ComponentB](componentb) { get; set; } | Gets or sets the B component |
-| [ComponentL](componentl) { get; set; } | Gets or sets the L component of color |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Version](version) { get; } | Gets the version. |
+| [ColorSpace](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/colorspace) { get; } | Gets the color space. |
+| [ComponentA](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componenta) { get; set; } | Gets or sets the A component of color |
+| [ComponentB](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentb) { get; set; } | Gets or sets the B component |
+| [ComponentL](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentl) { get; set; } | Gets or sets the L component of color |
+| [Density](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/density) { get; set; } | Gets or sets the density. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/length) { get; } | Gets the layer resource length in bytes. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity) { get; set; } | Gets or sets a value indicating whether [preserve luminosity]. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
+| override [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/version) { get; } | Gets the version. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetRgbColor](getrgbcolor)() | Gets the color. |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
-| override [SetRgbColor](setrgbcolor)(Color) | Sets the RGB color. |
+| override [GetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/getrgbcolor)() | Gets the color. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [SetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/setrgbcolor)(Color) | Sets the RGB color. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

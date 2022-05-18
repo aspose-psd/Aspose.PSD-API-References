@@ -3,7 +3,7 @@ title: GradientType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1890
+weight: 1920
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
 ## GradientType enumeration

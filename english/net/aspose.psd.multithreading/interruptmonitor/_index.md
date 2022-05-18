@@ -3,7 +3,7 @@ title: InterruptMonitor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4930
+weight: 4980
 url: /net/aspose.psd.multithreading/interruptmonitor/
 ---
 ## InterruptMonitor class
@@ -24,14 +24,14 @@ public class InterruptMonitor
 
 | Name | Description |
 | --- | --- |
-| static [ThreadLocalInstance](threadlocalinstance) { get; set; } | Gets or sets the InterruptMonitor instance which is unique for each thread. |
-| [IsInterrupted](isinterrupted) { get; } | Gets the value indicating whether operations should be interrupted. |
+| static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance) { get; set; } | Gets or sets the InterruptMonitor instance which is unique for each thread. |
+| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted) { get; } | Gets the value indicating whether operations should be interrupted. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Interrupt](interrupt)() | Sends a request to interrupt operations. |
+| [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt)() | Sends a request to interrupt operations. |
 
 ### See Also
 

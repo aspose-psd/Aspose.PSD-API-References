@@ -3,7 +3,7 @@ title: Source
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5380
+weight: 5430
 url: /net/aspose.psd/source/
 ---
 ## Source class
@@ -18,7 +18,7 @@ public abstract class Source
 
 | Name | Description |
 | --- | --- |
-| abstract [GetStreamContainer](getstreamcontainer)() | Gets the stream container. |
+| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer)() | Gets the stream container. |
 
 ### See Also
 

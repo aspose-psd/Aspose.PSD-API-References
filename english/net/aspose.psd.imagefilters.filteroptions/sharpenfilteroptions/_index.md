@@ -3,7 +3,7 @@ title: SharpenFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4540
+weight: 4590
 url: /net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
 ## SharpenFilterOptions class
@@ -25,8 +25,10 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 | Name | Description |
 | --- | --- |
-| [Sigma](sigma) { get; set; } | Gets or sets the sigma. |
-| [Size](size) { get; set; } | Gets or sets the size. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias) { get; set; } | Gets or sets the bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor) { get; set; } | Gets or sets the factor. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma) { get; set; } | Gets or sets the sigma. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size) { get; set; } | Gets or sets the size. |
 
 ### See Also
 

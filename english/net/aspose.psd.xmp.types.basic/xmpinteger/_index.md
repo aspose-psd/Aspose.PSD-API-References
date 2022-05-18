@@ -3,7 +3,7 @@ title: XmpInteger
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5760
+weight: 5810
 url: /net/aspose.psd.xmp.types.basic/xmpinteger/
 ---
 ## XmpInteger class
@@ -26,13 +26,13 @@ public sealed class XmpInteger : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpinteger/value) { get; set; } | Gets or sets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

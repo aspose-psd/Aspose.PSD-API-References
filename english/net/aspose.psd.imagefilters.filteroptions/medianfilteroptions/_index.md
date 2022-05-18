@@ -3,7 +3,7 @@ title: MedianFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4520
+weight: 4570
 url: /net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
 ## MedianFilterOptions class
@@ -24,7 +24,7 @@ public class MedianFilterOptions : FilterOptionsBase
 
 | Name | Description |
 | --- | --- |
-| [Size](size) { get; set; } | Gets or sets the size. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size) { get; set; } | Gets or sets the size. |
 
 ### See Also
 

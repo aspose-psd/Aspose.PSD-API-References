@@ -3,7 +3,7 @@ title: IXmlValue
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5550
+weight: 5600
 url: /net/aspose.psd.xmp/ixmlvalue/
 ---
 ## IXmlValue interface
@@ -18,7 +18,7 @@ public interface IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [GetXmlValue](getxmlvalue)() | Converts XMP value to the XML representation. |
+| [GetXmlValue](../../aspose.psd.xmp/ixmlvalue/getxmlvalue)() | Converts XMP value to the XML representation. |
 
 ### See Also
 

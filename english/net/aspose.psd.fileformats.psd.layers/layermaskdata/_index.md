@@ -3,7 +3,7 @@ title: LayerMaskData
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2130
+weight: 2170
 url: /net/aspose.psd.fileformats.psd.layers/layermaskdata/
 ---
 ## LayerMaskData class
@@ -18,15 +18,15 @@ public abstract class LayerMaskData
 
 | Name | Description |
 | --- | --- |
-| [Bottom](bottom) { get; set; } | Gets or sets the bottom layer mask position. |
-| [DataSize](datasize) { get; } | Gets the size of the layer mask mask data. |
-| [DefaultColor](defaultcolor) { get; set; } | Gets or sets the default color. |
-| [Flags](flags) { get; set; } | Gets or sets the layer mask flags. |
-| [ImageData](imagedata) { get; set; } | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
-| [Left](left) { get; set; } | Gets or sets the left layer mask position. |
-| [MaskRectangle](maskrectangle) { get; set; } | Gets or sets the mask [`Rectangle`](../../aspose.psd/rectangle) of the layer mask in the PSD file. It takes left, right, top and bottom properties and creates [`Rectangle`](../../aspose.psd/rectangle) |
-| [Right](right) { get; set; } | Gets or sets the right layer mask position. |
-| [Top](top) { get; set; } | Gets or sets the top layer mask position. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom) { get; set; } | Gets or sets the bottom layer mask position. |
+| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize) { get; } | Gets the size of the layer mask mask data. |
+| [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor) { get; set; } | Gets or sets the default color. |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags) { get; set; } | Gets or sets the layer mask flags. |
+| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata) { get; set; } | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
+| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left) { get; set; } | Gets or sets the left layer mask position. |
+| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle) { get; set; } | Gets or sets the mask [`Rectangle`](../../aspose.psd/rectangle) of the layer mask in the PSD file. It takes left, right, top and bottom properties and creates [`Rectangle`](../../aspose.psd/rectangle) |
+| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right) { get; set; } | Gets or sets the right layer mask position. |
+| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top) { get; set; } | Gets or sets the top layer mask position. |
 
 ### See Also
 

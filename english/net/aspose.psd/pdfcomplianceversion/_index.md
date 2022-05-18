@@ -3,7 +3,7 @@ title: PdfComplianceVersion
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4990
+weight: 5040
 url: /net/aspose.psd/pdfcomplianceversion/
 ---
 ## PdfComplianceVersion enumeration

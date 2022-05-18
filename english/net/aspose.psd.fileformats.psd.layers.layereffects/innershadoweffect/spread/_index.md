@@ -3,7 +3,7 @@ title: Spread
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/
 ---
 ## InnerShadowEffect.Spread property

@@ -3,7 +3,7 @@ title: LayerMaskDataFull
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2140
+weight: 2180
 url: /net/aspose.psd.fileformats.psd.layers/layermaskdatafull/
 ---
 ## LayerMaskDataFull class
@@ -24,14 +24,23 @@ public sealed class LayerMaskDataFull : LayerMaskData
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](backgroundcolor) { get; set; } | Gets or sets the background color. |
-| [EnclosingBottom](enclosingbottom) { get; set; } | Gets or sets the enclosing bottom raster mask position in the PSD image layer. |
-| [EnclosingLeft](enclosingleft) { get; set; } | Gets or sets the enclosing left raster mask position in the PSD file layer. |
-| [EnclosingRight](enclosingright) { get; set; } | Gets or sets the enclosing right raster mask position in the PSD file layer. |
-| [EnclosingTop](enclosingtop) { get; set; } | Gets or sets the enclosing top position of the raster mask in the PSD image layer. |
-| [RealFlags](realflags) { get; set; } | Gets or sets the layer mask flags that is used for user / raster mask. For vector mask the Flags property is used. |
-| [UserMaskData](usermaskdata) { get; set; } | Gets or sets the user (raster) mask data of a layer in the PSD file. (There is a raterized vector mask in the MaskData property). |
-| [UserMaskRectangle](usermaskrectangle) { get; set; } | Gets or sets the user mask (enclosing) rectangle in the PSD image layer.. |
+| [BackgroundColor](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor) { get; set; } | Gets or sets the background color. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom) { get; set; } | Gets or sets the bottom layer mask position. |
+| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize) { get; } | Gets the size of the layer mask mask data. |
+| [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor) { get; set; } | Gets or sets the default color. |
+| [EnclosingBottom](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingbottom) { get; set; } | Gets or sets the enclosing bottom raster mask position in the PSD image layer. |
+| [EnclosingLeft](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingleft) { get; set; } | Gets or sets the enclosing left raster mask position in the PSD file layer. |
+| [EnclosingRight](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright) { get; set; } | Gets or sets the enclosing right raster mask position in the PSD file layer. |
+| [EnclosingTop](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingtop) { get; set; } | Gets or sets the enclosing top position of the raster mask in the PSD image layer. |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags) { get; set; } | Gets or sets the layer mask flags. |
+| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata) { get; set; } | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
+| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left) { get; set; } | Gets or sets the left layer mask position. |
+| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle) { get; set; } | Gets or sets the mask [`Rectangle`](../../aspose.psd/rectangle) of the layer mask in the PSD file. It takes left, right, top and bottom properties and creates [`Rectangle`](../../aspose.psd/rectangle) |
+| [RealFlags](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags) { get; set; } | Gets or sets the layer mask flags that is used for user / raster mask. For vector mask the Flags property is used. |
+| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right) { get; set; } | Gets or sets the right layer mask position. |
+| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top) { get; set; } | Gets or sets the top layer mask position. |
+| [UserMaskData](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskdata) { get; set; } | Gets or sets the user (raster) mask data of a layer in the PSD file. (There is a raterized vector mask in the MaskData property). |
+| [UserMaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskrectangle) { get; set; } | Gets or sets the user mask (enclosing) rectangle in the PSD image layer.. |
 
 ### See Also
 

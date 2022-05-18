@@ -3,7 +3,7 @@ title: CmlsResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2260
+weight: 2300
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/
 ---
 ## CmlsResource class
@@ -24,16 +24,17 @@ public class CmlsResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the signature. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/signature) { get; } | Gets the signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

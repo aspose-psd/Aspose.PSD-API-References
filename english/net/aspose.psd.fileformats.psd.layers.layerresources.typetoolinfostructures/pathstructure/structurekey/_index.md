@@ -14,6 +14,22 @@ Identifies the structure key.
 public const int StructureKey;
 ```
 
+### Examples
+
+The following code demonstrates ability to load file with PathStructure structure.
+
+```csharp
+[C#]
+
+string srcFile = "shirt-color.psd";
+string output = "output.psd";
+
+using (PsdImage image = (PsdImage)Image.Load(srcFile))
+{
+    image.Save(output);
+}
+```
+
 ### See Also
 
 * class [PathStructure](../../pathstructure)

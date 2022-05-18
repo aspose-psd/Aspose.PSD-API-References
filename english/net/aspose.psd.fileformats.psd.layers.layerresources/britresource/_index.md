@@ -3,7 +3,7 @@ title: BritResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2220
+weight: 2260
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 ---
 ## BritResource class
@@ -26,13 +26,27 @@ public class BritResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| [Brightness](brightness) { get; set; } | Gets or sets the brightness. |
-| [Contrast](contrast) { get; set; } | Gets or sets the contrast. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| [LabColor](labcolor) { get; set; } | Gets or sets a value indicating whether [lab color]. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [MeanValueForBrightnessAndContrast](meanvalueforbrightnessandcontrast) { get; set; } | Gets or sets the mean value for brightness and contrast. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
+| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness) { get; set; } | Gets or sets the brightness. |
+| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast) { get; set; } | Gets or sets the contrast. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/key) { get; } | Gets the layer resource key. |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor) { get; set; } | Gets or sets a value indicating whether [lab color]. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/length) { get; } | Gets the layer resource length in bytes. |
+| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast) { get; set; } | Gets or sets the mean value for brightness and contrast. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [TypeToolKey](typetoolkey) | The type tool info key. |
 
 ### See Also
 

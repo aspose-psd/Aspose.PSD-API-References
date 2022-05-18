@@ -3,7 +3,7 @@ title: CurvResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2280
+weight: 2320
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/
 ---
 ## CurvResource class
@@ -25,19 +25,21 @@ public class CurvResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| [IsDataStoredDiscretely](isdatastoreddiscretely) { get; set; } | Gets or sets a value indicating whether this instance is data stored discrete. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
+| [IsDataStoredDiscretely](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely) { get; set; } | Gets or sets a value indicating whether this instance is data stored discrete. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetActiveManager](getactivemanager)() | Gets the active manager. |
-| [GetChannelData](getchanneldata)(int) | Gets the channel data. |
-| [GetCurveManager](getcurvemanager)() | Gets the curve manager. |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| [GetActiveManager](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/getactivemanager)() | Gets the active manager. |
+| [GetChannelData](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/getchanneldata)(int) | Gets the channel data. |
+| [GetCurveManager](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager)() | Gets the curve manager. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/curvresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

@@ -3,7 +3,7 @@ title: ObjectWithBounds
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4960
+weight: 5010
 url: /net/aspose.psd/objectwithbounds/
 ---
 ## ObjectWithBounds class
@@ -18,15 +18,15 @@ public abstract class ObjectWithBounds
 
 | Name | Description |
 | --- | --- |
-| abstract [Bounds](bounds) { get; } | Gets the object's bounds. |
+| abstract [Bounds](../../aspose.psd/objectwithbounds/bounds) { get; } | Gets the object's bounds. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [GetBounds](getbounds)(Matrix) | Gets the object's bounds. |
-| abstract [GetBounds](getbounds)(Matrix, Pen) | Gets the object's bounds. |
-| abstract [Transform](transform)(Matrix) | Applies the specified transformation to the shape. |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds)(Matrix) | Gets the object's bounds. |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds)(Matrix, Pen) | Gets the object's bounds. |
+| abstract [Transform](../../aspose.psd/objectwithbounds/transform)(Matrix) | Applies the specified transformation to the shape. |
 
 ### See Also
 

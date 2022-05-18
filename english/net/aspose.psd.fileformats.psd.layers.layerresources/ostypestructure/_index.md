@@ -3,7 +3,7 @@ title: OSTypeStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2710
+weight: 2760
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
 ## OSTypeStructure class
@@ -24,17 +24,17 @@ public abstract class OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| abstract [Key](key) { get; } | Gets the structure key. |
-| [KeyName](keyname) { get; set; } | Gets or sets the key name. |
-| abstract [Length](length) { get; } | Gets the [`OSTypeStructure`](../ostypestructure) length in bytes. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key) { get; } | Gets the structure key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length) { get; } | Gets the [`OSTypeStructure`](../ostypestructure) length in bytes. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [GetHeaderLength](getheaderlength)() | Gets the header length. |
-| [Save](save)(StreamContainer) | Saves the structure to the specified stream container. |
-| [SaveWithoutKeyName](savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: TextShape
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5340
+weight: 5390
 url: /net/aspose.psd.shapes/textshape/
 ---
 ## TextShape class
@@ -25,21 +25,27 @@ public sealed class TextShape : RectangleProjectedShape
 
 | Name | Description |
 | --- | --- |
-| override [Bounds](bounds) { get; } | Gets the object's bounds. |
-| override [Center](center) { get; } | Gets the shape's center. |
-| [Font](font) { get; set; } | Gets or sets the font used to draw the text. |
-| override [HasSegments](hassegments) { get; } | Gets a value indicating whether shape has segments. |
-| override [Segments](segments) { get; } | Gets the shape segments. |
-| [Text](text) { get; set; } | Gets or sets the drawn text. |
-| [TextFormat](textformat) { get; set; } | Gets or sets the text format. |
+| override [Bounds](../../aspose.psd.shapes/textshape/bounds) { get; } | Gets the object's bounds. |
+| override [Center](../../aspose.psd.shapes/textshape/center) { get; } | Gets the shape's center. |
+| [Font](../../aspose.psd.shapes/textshape/font) { get; set; } | Gets or sets the font used to draw the text. |
+| override [HasSegments](../../aspose.psd.shapes/textshape/hassegments) { get; } | Gets a value indicating whether shape has segments. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | Gets the left bottom rectangle point. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | Gets the left top rectangle point. |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | Gets the rectangle height. |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | Gets the rectangle width. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | Gets the right bottom rectangle point. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | Gets the right top rectangle point. |
+| override [Segments](../../aspose.psd.shapes/textshape/segments) { get; } | Gets the shape segments. |
+| [Text](../../aspose.psd.shapes/textshape/text) { get; set; } | Gets or sets the drawn text. |
+| [TextFormat](../../aspose.psd.shapes/textshape/textformat) { get; set; } | Gets or sets the text format. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetBounds](getbounds)(Matrix) | Gets the object's bounds. |
-| override [GetBounds](getbounds)(Matrix, Pen) | Gets the object's bounds. |
-| override [Transform](transform)(Matrix) | Applies the specified transformation to the shape. |
+| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds)(Matrix) | Gets the object's bounds. |
+| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds)(Matrix, Pen) | Gets the object's bounds. |
+| override [Transform](../../aspose.psd.shapes/textshape/transform)(Matrix) | Applies the specified transformation to the shape. |
 
 ### See Also
 

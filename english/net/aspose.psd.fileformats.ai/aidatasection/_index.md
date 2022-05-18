@@ -3,7 +3,7 @@ title: AiDataSection
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1200
+weight: 1220
 url: /net/aspose.psd.fileformats.ai/aidatasection/
 ---
 ## AiDataSection class
@@ -14,11 +14,18 @@ The Ai format Data Section
 public class AiDataSection : DisposableObject
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Gets a value indicating whether this instance is disposed. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetData](getdata)() | Gets the string data. |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | Disposes the current instance. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata)() | Gets the string data. |
 
 ### See Also
 

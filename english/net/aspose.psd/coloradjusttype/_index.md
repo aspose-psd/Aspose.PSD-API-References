@@ -3,7 +3,7 @@ title: ColorAdjustType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.psd/coloradjusttype/
 ---
 ## ColorAdjustType enumeration

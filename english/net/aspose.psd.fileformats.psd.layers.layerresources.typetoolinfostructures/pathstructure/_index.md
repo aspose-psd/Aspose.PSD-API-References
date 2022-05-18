@@ -3,7 +3,7 @@ title: PathStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3040
+weight: 3090
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/
 ---
 ## PathStructure class
@@ -24,10 +24,41 @@ public sealed class PathStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the structure key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
-| [Path](path) { get; set; } | Gets or sets the path. |
-| [Prefix](prefix) { get; set; } | Gets or sets the path prefix. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/key) { get; } | Gets the structure key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [Path](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path) { get; set; } | Gets or sets the path. |
+| [Prefix](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix) { get; set; } | Gets or sets the path prefix. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [StructureKey](structurekey) | Identifies the structure key. |
+
+### Examples
+
+The following code demonstrates ability to load file with PathStructure structure.
+
+```csharp
+[C#]
+
+string srcFile = "shirt-color.psd";
+string output = "output.psd";
+
+using (PsdImage image = (PsdImage)Image.Load(srcFile))
+{
+    image.Save(output);
+}
+```
 
 ### See Also
 

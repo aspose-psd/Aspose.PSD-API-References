@@ -3,7 +3,7 @@ title: RectangleExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1140
+weight: 1160
 url: /net/aspose.psd.extensions/rectangleextensions/
 ---
 ## RectangleExtensions class
@@ -18,9 +18,9 @@ public static class RectangleExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiRectangle](togdirectangle)(Rectangle) | Converts the [`Rectangle`](../../aspose.psd/rectangle) to the Rectangle. |
-| static [ToGdiRectangle](togdirectangle)(RectangleF) | Converts the [`RectangleF`](../../aspose.psd/rectanglef) to the Rectangle. |
-| static [UnionWith](unionwith)(RectangleF, RectangleF) | Unions two rectangle. |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle)(Rectangle) | Converts the [`Rectangle`](../../aspose.psd/rectangle) to the Rectangle. |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle)(RectangleF) | Converts the [`RectangleF`](../../aspose.psd/rectanglef) to the Rectangle. |
+| static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith)(RectangleF, RectangleF) | Unions two rectangle. |
 
 ### See Also
 

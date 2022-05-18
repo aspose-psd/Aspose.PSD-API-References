@@ -3,7 +3,7 @@ title: ColorMatrixFlag
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.psd/colormatrixflag/
 ---
 ## ColorMatrixFlag enumeration

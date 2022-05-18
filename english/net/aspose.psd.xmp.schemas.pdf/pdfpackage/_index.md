@@ -3,7 +3,7 @@ title: PdfPackage
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5590
+weight: 5640
 url: /net/aspose.psd.xmp.schemas.pdf/pdfpackage/
 ---
 ## PdfPackage class
@@ -20,15 +20,32 @@ public sealed class PdfPackage : XmpPackage
 | --- | --- |
 | [PdfPackage](pdfpackage)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Gets or sets the Object with the specified key. |
+| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | Gets the keys in XMP package. |
+| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | Gets the namespace URI. |
+| [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | Gets the prefix. |
+| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace) { get; } | Gets the XML namespace. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [AddValue](addvalue)(string, string) | Adds string property. |
-| [SetKeywords](setkeywords)(string) | Sets the keywords. |
-| [SetPdfVersion](setpdfversion)(string) | Sets the PDF version. |
-| [SetProducer](setproducer)(string) | Sets the name of the tool that created Pdf. |
-| [SetTrapped](settrapped)(bool) | Sets the trapped. |
+| override [AddValue](../../aspose.psd.xmp.schemas.pdf/pdfpackage/addvalue)(string, string) | Adds string property. |
+| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | Clears this instance. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Determines whether the specified key contains key. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Returns an enumerator that iterates through the collection. |
+| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | Converts XMP value to the XML representation. |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | Remove the value with the specified key. |
+| [SetKeywords](../../aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords)(string) | Sets the keywords. |
+| [SetPdfVersion](../../aspose.psd.xmp.schemas.pdf/pdfpackage/setpdfversion)(string) | Sets the PDF version. |
+| [SetProducer](../../aspose.psd.xmp.schemas.pdf/pdfpackage/setproducer)(string) | Sets the name of the tool that created Pdf. |
+| [SetTrapped](../../aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped)(bool) | Sets the trapped. |
+| virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue)(string, IXmlValue) | Sets the value. |
+| virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) | Sets the XMP type value. |
 
 ### See Also
 

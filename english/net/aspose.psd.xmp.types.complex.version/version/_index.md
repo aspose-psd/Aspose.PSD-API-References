@@ -3,7 +3,7 @@ title: Version
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5910
+weight: 5960
 url: /net/aspose.psd.xmp.types.complex.version/version/
 ---
 ## Version class
@@ -24,17 +24,19 @@ public sealed class Version : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Comments](comments) { get; set; } | Gets or sets the comments. |
-| [ModifiedDate](modifieddate) { get; set; } | Gets or sets the modified date. |
-| [Modifier](modifier) { get; set; } | Gets or sets the modifier. |
-| [VersionEvent](versionevent) { get; set; } | Gets or sets the [`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent). |
-| [VersionText](versiontext) { get; set; } | Gets or sets the version text. |
+| [Comments](../../aspose.psd.xmp.types.complex.version/version/comments) { get; set; } | Gets or sets the comments. |
+| [ModifiedDate](../../aspose.psd.xmp.types.complex.version/version/modifieddate) { get; set; } | Gets or sets the modified date. |
+| [Modifier](../../aspose.psd.xmp.types.complex.version/version/modifier) { get; set; } | Gets or sets the modifier. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | Gets the default namespace URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | Gets the prefix. |
+| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent) { get; set; } | Gets or sets the [`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent). |
+| [VersionText](../../aspose.psd.xmp.types.complex.version/version/versiontext) { get; set; } | Gets or sets the version text. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.version/version/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

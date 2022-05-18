@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/regionextensions/togdiregion/
 ---
 ## RegionExtensions.ToGdiRegion method
 
+Converts the [`Region`](../../../aspose.psd/region) to the Region.
+
 ```csharp
 public static Region ToGdiRegion(Region region)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| region | Region | The [`Region`](../../../aspose.psd/region) to convert. |
+
+## Return Value
+
+The converted Region.
 
 ### See Also
 

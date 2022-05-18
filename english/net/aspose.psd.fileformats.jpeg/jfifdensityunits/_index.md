@@ -3,7 +3,7 @@ title: JfifDensityUnits
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1460
+weight: 1480
 url: /net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 ---
 ## JfifDensityUnits enumeration

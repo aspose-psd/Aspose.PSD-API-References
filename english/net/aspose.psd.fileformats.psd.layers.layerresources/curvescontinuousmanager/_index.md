@@ -3,7 +3,7 @@ title: CurvesContinuousManager
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2290
+weight: 2330
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
 ## CurvesContinuousManager class
@@ -20,15 +20,21 @@ public sealed class CurvesContinuousManager : CurvesManager
 | --- | --- |
 | [CurvesContinuousManager](curvescontinuousmanager)(int) | Initializes a new instance of the [`CurvesContinuousManager`](../curvescontinuousmanager) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount) { get; } | Gets the maximum channel count. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddCurvePoint](addcurvepoint)(int, byte, byte) | Adds the point of curve. |
-| [GetCurvePointByIndex](getcurvepointbyindex)(int, int) | Gets the curve point by index. |
-| [GetCurvePointCount](getcurvepointcount)(int) | Gets the curve point count. |
-| [RemoveCurvePoint](removecurvepoint)(int, int) | Removes the point of curve. |
-| [UpdateCurvePoint](updatecurvepoint)(int, int, byte, byte) | Updates the point of curve. |
+| [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint)(int, byte, byte) | Adds the point of curve. |
+| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex)(int, int) | Gets the curve point by index. |
+| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount)(int) | Gets the curve point count. |
+| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint)(int, int) | Removes the point of curve. |
+| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint)(int, int, byte, byte) | Updates the point of curve. |
 
 ### See Also
 

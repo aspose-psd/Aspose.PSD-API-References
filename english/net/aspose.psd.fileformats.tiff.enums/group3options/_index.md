@@ -3,7 +3,7 @@ title: Group3Options
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3820
+weight: 3870
 url: /net/aspose.psd.fileformats.tiff.enums/group3options/
 ---
 ## Group3Options enumeration

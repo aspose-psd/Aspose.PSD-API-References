@@ -3,7 +3,7 @@ title: ExifProperties
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 980
+weight: 1000
 url: /net/aspose.psd.exif/exifproperties/
 ---
 ## ExifProperties enumeration

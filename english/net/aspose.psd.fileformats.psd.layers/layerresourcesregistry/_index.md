@@ -3,7 +3,7 @@ title: LayerResourcesRegistry
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3210
+weight: 3260
 url: /net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
 ## LayerResourcesRegistry class
@@ -18,17 +18,17 @@ public static class LayerResourcesRegistry
 
 | Name | Description |
 | --- | --- |
-| static [RegisteredDescriptors](registereddescriptors) { get; } | Gets the registered descriptors. |
+| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors) { get; } | Gets the registered descriptors. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [GetFirstSupportedDescriptor](getfirstsupporteddescriptor)(Stream, int) | Gets the first supported opener descriptor. |
-| static [GetFirstSupportedDescriptorByTypeName](getfirstsupporteddescriptorbytypename)(string) | Gets the first supported descriptor by its type name. |
-| static [LoadResourceByFirstSupportedDescriptor](loadresourcebyfirstsupporteddescriptor)(Stream, int) | Loads [`LayerResource`](../layerresource) using first found opener suitable for the specified *stream*. |
-| static [RegisterOpener](registeropener)(ILayerResourceLoader) | Registers the opener. |
-| static [UnregisterOpener](unregisteropener)(ILayerResourceLoader) | Unregisters the opener. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor)(Stream, int) | Gets the first supported opener descriptor. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename)(string) | Gets the first supported descriptor by its type name. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor)(Stream, int) | Loads [`LayerResource`](../layerresource) using first found opener suitable for the specified *stream*. |
+| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener)(ILayerResourceLoader) | Registers the opener. |
+| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener)(ILayerResourceLoader) | Unregisters the opener. |
 
 ### See Also
 

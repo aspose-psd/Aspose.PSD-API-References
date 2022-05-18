@@ -8,6 +8,8 @@ url: /net/aspose.psd/rasterimage/normalizeangle/
 ---
 ## RasterImage.NormalizeAngle method (1 of 2)
 
+Normalizes the angle. This method is applicable to scanned text documents to get rid of the skewed scan. This method uses [`GetSkewAngle`](../getskewangle) and [`Rotate`](../rotate) methods.
+
 ```csharp
 public void NormalizeAngle()
 ```
@@ -22,9 +24,16 @@ public void NormalizeAngle()
 
 ## RasterImage.NormalizeAngle method (2 of 2)
 
+Normalizes the angle. This method is applicable to scanned text documents to get rid of the skewed scan. This method uses [`GetSkewAngle`](../getskewangle) and [`Rotate`](../rotate) methods.
+
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resizeProportionally | Boolean | if set to `true` you will have your image size changed according to rotated rectangle (corner points) projections in other case that leaves dimensions untouched and only internal image contents are rotated. |
+| backgroundColor | Color | Color of the background. |
 
 ### See Also
 

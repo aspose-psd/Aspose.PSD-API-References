@@ -3,7 +3,7 @@ title: LimitMemoryException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 630
+weight: 650
 url: /net/aspose.psd.coreexceptions/limitmemoryexception/
 ---
 ## LimitMemoryException class
@@ -27,7 +27,7 @@ public class LimitMemoryException : OutOfMemoryException
 
 | Name | Description |
 | --- | --- |
-| [ReduceMemoryFactor](reducememoryfactor) { get; set; } | Gets or sets the reduce memory factor. |
+| [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor) { get; set; } | Gets or sets the reduce memory factor. |
 
 ### See Also
 

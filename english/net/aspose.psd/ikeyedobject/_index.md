@@ -3,7 +3,7 @@ title: IKeyedObject
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4280
+weight: 4330
 url: /net/aspose.psd/ikeyedobject/
 ---
 ## IKeyedObject interface
@@ -18,7 +18,7 @@ public interface IKeyedObject
 
 | Name | Description |
 | --- | --- |
-| [Key](key) { get; } | Gets the object key. |
+| [Key](../../aspose.psd/ikeyedobject/key) { get; } | Gets the object key. |
 
 ### See Also
 

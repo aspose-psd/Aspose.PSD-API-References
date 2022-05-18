@@ -3,7 +3,7 @@ title: ColorRangeHsl
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2270
+weight: 2310
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/
 ---
 ## ColorRangeHsl class
@@ -25,22 +25,22 @@ public class ColorRangeHsl
 
 | Name | Description |
 | --- | --- |
-| [Hue](hue) { get; set; } | Gets or sets the hue. |
-| [LeftBorder](leftborder) { get; set; } | Gets or sets the left border. |
-| [Lightness](lightness) { get; set; } | Gets or sets the lightness. |
-| [MostLeftBorder](mostleftborder) { get; set; } | Gets or sets the most left border. |
-| [MostRightBorder](mostrightborder) { get; set; } | Gets or sets the most right border. |
-| [RightBorder](rightborder) { get; set; } | Gets or sets the right border. |
-| [Saturation](saturation) { get; set; } | Gets or sets the saturation. |
+| [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue) { get; set; } | Gets or sets the hue. |
+| [LeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder) { get; set; } | Gets or sets the left border. |
+| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness) { get; set; } | Gets or sets the lightness. |
+| [MostLeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostleftborder) { get; set; } | Gets or sets the most left border. |
+| [MostRightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder) { get; set; } | Gets or sets the most right border. |
+| [RightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/rightborder) { get; set; } | Gets or sets the right border. |
+| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation) { get; set; } | Gets or sets the saturation. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetRangeCoefficient](getrangecoefficient)(double) | Gets the range Coefficient. |
-| [IsHueInBigRange](ishueinbigrange)(double) | Determines whether is hue in big range. |
-| [IsHueInSmallRange](ishueinsmallrange)(double) | Determines whether hue in small range. |
-| [Save](save)(StreamContainer) | Saves data to the specified stream container. |
+| [GetRangeCoefficient](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient)(double) | Gets the range Coefficient. |
+| [IsHueInBigRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange)(double) | Determines whether is hue in big range. |
+| [IsHueInSmallRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange)(double) | Determines whether hue in small range. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save)(StreamContainer) | Saves data to the specified stream container. |
 
 ### See Also
 

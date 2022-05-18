@@ -3,7 +3,7 @@ title: FillMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4060
+weight: 4110
 url: /net/aspose.psd/fillmode/
 ---
 ## FillMode enumeration

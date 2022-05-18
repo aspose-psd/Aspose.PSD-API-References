@@ -3,7 +3,7 @@ title: LevelChannel
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2510
+weight: 2550
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
 ## LevelChannel class
@@ -18,11 +18,11 @@ public class LevelChannel
 
 | Name | Description |
 | --- | --- |
-| [InputHighlightLevel](inputhighlightlevel) { get; set; } | Gets or sets the input highlight level. |
-| [InputMidtoneLevel](inputmidtonelevel) { get; set; } | Gets or sets the input midtone level float. |
-| [InputShadowLevel](inputshadowlevel) { get; set; } | Gets or sets the input shadow level. |
-| [OutputHighlightLevel](outputhighlightlevel) { get; set; } | Gets or sets the output highlight level. |
-| [OutputShadowLevel](outputshadowlevel) { get; set; } | Gets or sets the output shadow level. |
+| [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel) { get; set; } | Gets or sets the input highlight level. |
+| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel) { get; set; } | Gets or sets the input midtone level float. |
+| [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel) { get; set; } | Gets or sets the input shadow level. |
+| [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel) { get; set; } | Gets or sets the output highlight level. |
+| [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel) { get; set; } | Gets or sets the output shadow level. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ExifCustomRendered
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 800
+weight: 820
 url: /net/aspose.psd.exif.enums/exifcustomrendered/
 ---
 ## ExifCustomRendered enumeration

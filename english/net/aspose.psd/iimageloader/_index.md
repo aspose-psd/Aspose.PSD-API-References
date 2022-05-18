@@ -3,7 +3,7 @@ title: IImageLoader
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4250
+weight: 4300
 url: /net/aspose.psd/iimageloader/
 ---
 ## IImageLoader interface
@@ -18,7 +18,7 @@ public interface IImageLoader
 
 | Name | Description |
 | --- | --- |
-| [Load](load)(StreamContainer, LoadOptions) | Opens a new image with *loadOptions*. |
+| [Load](../../aspose.psd/iimageloader/load)(StreamContainer, LoadOptions) | Opens a new image with *loadOptions*. |
 
 ### See Also
 

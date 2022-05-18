@@ -3,7 +3,7 @@ title: XmpTrailerPi
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 6110
+weight: 6160
 url: /net/aspose.psd.xmp/xmptrailerpi/
 ---
 ## XmpTrailerPi class
@@ -25,16 +25,16 @@ public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [IsWritable](iswritable) { get; set; } | Gets or sets a value indicating whether this instance is writable. |
+| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable) { get; set; } | Gets or sets a value indicating whether this instance is writable. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| [Equals](equals)(XmpTrailerPi) | Indicates whether the current object is equal to another object of the same type. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| [GetXmlValue](getxmlvalue)() | Converts xmp value to the xml representation. |
+| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| [Equals](../../aspose.psd.xmp/xmptrailerpi/equals)(XmpTrailerPi) | Indicates whether the current object is equal to another object of the same type. |
+| override [GetHashCode](../../aspose.psd.xmp/xmptrailerpi/gethashcode)() | Returns a hash code for this instance. |
+| [GetXmlValue](../../aspose.psd.xmp/xmptrailerpi/getxmlvalue)() | Converts xmp value to the xml representation. |
 
 ### Remarks
 

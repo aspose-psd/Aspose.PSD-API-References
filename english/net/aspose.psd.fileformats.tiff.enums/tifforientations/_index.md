@@ -3,7 +3,7 @@ title: TiffOrientations
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3910
+weight: 3960
 url: /net/aspose.psd.fileformats.tiff.enums/tifforientations/
 ---
 ## TiffOrientations enumeration

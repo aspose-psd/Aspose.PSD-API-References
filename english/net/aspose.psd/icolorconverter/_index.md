@@ -3,7 +3,7 @@ title: IColorConverter
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4180
+weight: 4230
 url: /net/aspose.psd/icolorconverter/
 ---
 ## IColorConverter interface
@@ -18,7 +18,7 @@ public interface IColorConverter
 
 | Name | Description |
 | --- | --- |
-| [Convert](convert)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | Converts the passed data to the output format. |
+| [Convert](../../aspose.psd/icolorconverter/convert)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | Converts the passed data to the output format. |
 
 ### See Also
 

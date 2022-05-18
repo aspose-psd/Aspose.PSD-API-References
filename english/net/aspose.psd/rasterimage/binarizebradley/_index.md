@@ -8,9 +8,16 @@ url: /net/aspose.psd/rasterimage/binarizebradley/
 ---
 ## RasterImage.BinarizeBradley method (1 of 2)
 
+Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding
+
 ```csharp
 public virtual void BinarizeBradley(double brightnessDifference, int windowSize)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brightnessDifference | Double | The brightness difference between pixel and the average of an s x s window of pixels centered around this pixel. |
+| windowSize | Int32 | The size of s x s window of pixels centered around this pixel |
 
 ### See Also
 
@@ -22,9 +29,15 @@ public virtual void BinarizeBradley(double brightnessDifference, int windowSize)
 
 ## RasterImage.BinarizeBradley method (2 of 2)
 
+Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding
+
 ```csharp
 public virtual void BinarizeBradley(double brightnessDifference)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brightnessDifference | Double | The brightness difference between pixel and the average of an s x s window of pixels centered around this pixel. |
 
 ### See Also
 

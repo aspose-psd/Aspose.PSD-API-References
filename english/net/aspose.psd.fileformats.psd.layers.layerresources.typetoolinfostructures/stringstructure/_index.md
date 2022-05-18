@@ -3,7 +3,7 @@ title: StringStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3080
+weight: 3130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/
 ---
 ## StringStructure class
@@ -25,9 +25,24 @@ public sealed class StringStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/key) { get; } | Gets the key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/value) { get; set; } | Gets or sets the value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [StructureKey](structurekey) | Identifies the structure key. |
 
 ### See Also
 

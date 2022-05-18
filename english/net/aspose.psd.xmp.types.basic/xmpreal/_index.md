@@ -3,7 +3,7 @@ title: XmpReal
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5770
+weight: 5820
 url: /net/aspose.psd.xmp.types.basic/xmpreal/
 ---
 ## XmpReal class
@@ -25,13 +25,13 @@ public sealed class XmpReal : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets float the value. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value) { get; set; } | Gets or sets float the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

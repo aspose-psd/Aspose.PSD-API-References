@@ -3,7 +3,7 @@ title: JpegLsPresetCodingParameters
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1500
+weight: 1520
 url: /net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/
 ---
 ## JpegLsPresetCodingParameters class
@@ -24,11 +24,11 @@ public class JpegLsPresetCodingParameters
 
 | Name | Description |
 | --- | --- |
-| [MaximumSampleValue](maximumsamplevalue) { get; set; } | Gets or sets the maximum possible value for any image sample in a scan. This must be greater than or equal to the actual maximum value for the components in a scan. |
-| [ResetValue](resetvalue) { get; set; } | Gets or sets the value at which the counters A, B, and N are halved. |
-| [Threshold1](threshold1) { get; set; } | Gets or sets the first quantization threshold value for the local gradients. |
-| [Threshold2](threshold2) { get; set; } | Gets or sets the second quantization threshold value for the local gradients. |
-| [Threshold3](threshold3) { get; set; } | Gets or sets the third quantization threshold value for the local gradients. |
+| [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue) { get; set; } | Gets or sets the maximum possible value for any image sample in a scan. This must be greater than or equal to the actual maximum value for the components in a scan. |
+| [ResetValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue) { get; set; } | Gets or sets the value at which the counters A, B, and N are halved. |
+| [Threshold1](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1) { get; set; } | Gets or sets the first quantization threshold value for the local gradients. |
+| [Threshold2](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2) { get; set; } | Gets or sets the second quantization threshold value for the local gradients. |
+| [Threshold3](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold3) { get; set; } | Gets or sets the third quantization threshold value for the local gradients. |
 
 ### See Also
 

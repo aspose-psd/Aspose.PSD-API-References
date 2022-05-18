@@ -3,7 +3,7 @@ title: LayerFlags
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2110
+weight: 2150
 url: /net/aspose.psd.fileformats.psd.layers/layerflags/
 ---
 ## LayerFlags enumeration

@@ -3,7 +3,7 @@ title: EnumeratedDescriptorStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2980
+weight: 3030
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/
 ---
 ## EnumeratedDescriptorStructure class
@@ -24,10 +24,25 @@ public class EnumeratedDescriptorStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| [EnumName](enumname) { get; set; } | Gets or sets the enum name. |
-| override [Key](key) { get; } | Gets the key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
-| [TypeID](typeid) { get; set; } | Gets or sets the type ID. |
+| [EnumName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumname) { get; set; } | Gets or sets the enum name. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/key) { get; } | Gets the key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [TypeID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid) { get; set; } | Gets or sets the type ID. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [StructureKey](structurekey) | The enumerated descriptor key. |
 
 ### See Also
 

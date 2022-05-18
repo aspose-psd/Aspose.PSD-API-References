@@ -3,7 +3,7 @@ title: FileFormatExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1060
+weight: 1080
 url: /net/aspose.psd.extensions/fileformatextensions/
 ---
 ## FileFormatExtensions class
@@ -18,7 +18,7 @@ public static class FileFormatExtensions
 
 | Name | Description |
 | --- | --- |
-| static [IsSingleFormatDefined](issingleformatdefined)(FileFormat) | Determines whether single file format is defined. |
+| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined)(FileFormat) | Determines whether single file format is defined. |
 
 ### See Also
 

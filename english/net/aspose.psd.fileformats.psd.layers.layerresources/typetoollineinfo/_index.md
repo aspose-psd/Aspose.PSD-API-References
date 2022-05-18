@@ -3,7 +3,7 @@ title: TypeToolLineInfo
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3130
+weight: 3180
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
 ## TypeToolLineInfo class
@@ -24,13 +24,13 @@ public class TypeToolLineInfo
 
 | Name | Description |
 | --- | --- |
-| [Char](char) { get; set; } | Gets or sets the char. |
+| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char) { get; set; } | Gets or sets the char. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Save](save)(StreamContainer, int) | Saves the [`TypeToolLineInfo`](../typetoollineinfo) information to the specified stream container. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save)(StreamContainer, int) | Saves the [`TypeToolLineInfo`](../typetoollineinfo) information to the specified stream container. |
 
 ### See Also
 

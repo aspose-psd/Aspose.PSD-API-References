@@ -3,7 +3,7 @@ title: ColorMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5790
+weight: 5840
 url: /net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
 ## ColorMode enumeration

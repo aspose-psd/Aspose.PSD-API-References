@@ -3,7 +3,7 @@ title: FixedPointDecimal
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3510
+weight: 3560
 url: /net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
 ## FixedPointDecimal class
@@ -26,14 +26,14 @@ public class FixedPointDecimal
 
 | Name | Description |
 | --- | --- |
-| [Fraction](fraction) { get; set; } | Gets or sets the fraction. |
-| [Integer](integer) { get; set; } | Gets or sets the integer. |
+| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction) { get; set; } | Gets or sets the fraction. |
+| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer) { get; set; } | Gets or sets the integer. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToDouble](todouble)() | Converts current fixed point decimal to double. |
+| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble)() | Converts current fixed point decimal to double. |
 
 ### See Also
 

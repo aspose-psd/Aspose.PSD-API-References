@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/graphicspathextensions/togdigraphicspath/
 ---
 ## GraphicsPathExtensions.ToGdiGraphicsPath method
 
+Converts the [`GraphicsPath`](../../../aspose.psd/graphicspath) to the GraphicsPath.
+
 ```csharp
 public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| graphicsPath | GraphicsPath | The graphics path to convert. |
+
+## Return Value
+
+The converted GraphicsPath.
 
 ### See Also
 

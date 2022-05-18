@@ -3,7 +3,7 @@ title: JpegLoadException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 530
+weight: 550
 url: /net/aspose.psd.coreexceptions.imageformats/jpegloadexception/
 ---
 ## JpegLoadException class
@@ -27,7 +27,7 @@ public class JpegLoadException : JpegException
 
 | Name | Description |
 | --- | --- |
-| [Reason](reason) { get; set; } | Gets or sets the reason of error. |
+| [Reason](../../aspose.psd.coreexceptions.imageformats/jpegloadexception/reason) { get; set; } | Gets or sets the reason of error. |
 
 ### See Also
 

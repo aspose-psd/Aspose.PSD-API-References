@@ -8,9 +8,15 @@ url: /net/aspose.psd/rasterimage/binarizefixed/
 ---
 ## RasterImage.BinarizeFixed method
 
+Binarization of an image with predefined threshold
+
 ```csharp
 public virtual void BinarizeFixed(byte threshold)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| threshold | Byte | Threshold value. If corresponding gray value of a pixel is greater than threshold, a value of 255 will be assigned to it, 0 otherwise. |
 
 ### See Also
 

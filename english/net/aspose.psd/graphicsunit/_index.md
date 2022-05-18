@@ -3,7 +3,7 @@ title: GraphicsUnit
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4130
+weight: 4180
 url: /net/aspose.psd/graphicsunit/
 ---
 ## GraphicsUnit enumeration

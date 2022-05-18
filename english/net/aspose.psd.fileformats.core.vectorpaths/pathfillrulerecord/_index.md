@@ -3,7 +3,7 @@ title: PathFillRuleRecord
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1360
+weight: 1380
 url: /net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
 ## PathFillRuleRecord class
@@ -25,7 +25,7 @@ public class PathFillRuleRecord : VectorPathRecord
 
 | Name | Description |
 | --- | --- |
-| override [Type](type) { get; } | Gets the type. |
+| override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type) { get; } | Gets the type. |
 
 ### See Also
 

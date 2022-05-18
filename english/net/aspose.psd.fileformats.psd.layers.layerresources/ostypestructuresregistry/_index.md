@@ -3,7 +3,7 @@ title: OSTypeStructuresRegistry
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2720
+weight: 2770
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/
 ---
 ## OSTypeStructuresRegistry class
@@ -18,17 +18,17 @@ public static class OSTypeStructuresRegistry
 
 | Name | Description |
 | --- | --- |
-| static [RegisteredDescriptors](registereddescriptors) { get; } | Gets the registered descriptors. |
+| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors) { get; } | Gets the registered descriptors. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [GetFirstSupportedDescriptor](getfirstsupporteddescriptor)(Stream) | Gets the first supported opener descriptor. |
-| static [GetFirstSupportedDescriptorByTypeName](getfirstsupporteddescriptorbytypename)(string) | Gets the first supported descriptor by its type name. |
-| static [LoadResourceByFirstSupportedDescriptor](loadresourcebyfirstsupporteddescriptor)(Stream) | Loads [`OSTypeStructure`](../ostypestructure) using first found opener suitable for the specified *stream*. |
-| static [RegisterOpener](registeropener)(IOSTypeStructureLoader) | Registers the opener. |
-| static [UnregisterOpener](unregisteropener)(IOSTypeStructureLoader) | Unregisters the opener. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor)(Stream) | Gets the first supported opener descriptor. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename)(string) | Gets the first supported descriptor by its type name. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor)(Stream) | Loads [`OSTypeStructure`](../ostypestructure) using first found opener suitable for the specified *stream*. |
+| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener)(IOSTypeStructureLoader) | Registers the opener. |
+| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener)(IOSTypeStructureLoader) | Unregisters the opener. |
 
 ### See Also
 

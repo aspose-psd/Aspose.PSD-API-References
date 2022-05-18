@@ -3,7 +3,7 @@ title: GaussianBlurFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4510
+weight: 4560
 url: /net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
 ## GaussianBlurFilterOptions class
@@ -25,8 +25,10 @@ public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 
 | Name | Description |
 | --- | --- |
-| [Radius](radius) { get; set; } | Gets or sets the radius. |
-| [Sigma](sigma) { get; set; } | Gets or sets the sigma. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias) { get; set; } | Gets or sets the bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor) { get; set; } | Gets or sets the factor. |
+| [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius) { get; set; } | Gets or sets the radius. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma) { get; set; } | Gets or sets the sigma. |
 
 ### See Also
 

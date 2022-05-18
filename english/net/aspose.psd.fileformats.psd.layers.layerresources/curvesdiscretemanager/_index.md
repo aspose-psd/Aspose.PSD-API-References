@@ -3,7 +3,7 @@ title: CurvesDiscreteManager
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2300
+weight: 2340
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
 ## CurvesDiscreteManager class
@@ -14,14 +14,20 @@ Manager for Curves Adjustment Layer that manipulates pixels' map
 public sealed class CurvesDiscreteManager : CurvesManager
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount) { get; } | Gets the maximum channel count. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetValueInPosition](getvalueinposition)(int, byte) | Gets the value in position. |
-| [SetToDefaultValueInPosition](settodefaultvalueinposition)(int, byte) | Sets to default value in position. |
-| [SetValueInPosition](setvalueinposition)(int, byte, byte) | Sets the value in position. |
-| [SetValueOfWholeChannel](setvalueofwholechannel)(int, byte[]) | Sets the value of whole channel. |
+| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition)(int, byte) | Gets the value in position. |
+| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition)(int, byte) | Sets to default value in position. |
+| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition)(int, byte, byte) | Sets the value in position. |
+| [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel)(int, byte[]) | Sets the value of whole channel. |
 
 ### See Also
 

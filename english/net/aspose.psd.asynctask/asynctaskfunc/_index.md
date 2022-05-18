@@ -3,7 +3,7 @@ title: AsyncTaskFunc
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.psd.asynctask/asynctaskfunc/
 ---
 ## AsyncTaskFunc delegate

@@ -3,7 +3,7 @@ title: BilateralSmoothingFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4460
+weight: 4510
 url: /net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/
 ---
 ## BilateralSmoothingFilterOptions class
@@ -25,11 +25,11 @@ public class BilateralSmoothingFilterOptions : FilterOptionsBase
 
 | Name | Description |
 | --- | --- |
-| [ColorFactor](colorfactor) { get; set; } | Gets or sets the color factor. |
-| [ColorPower](colorpower) { get; set; } | Gets or sets the color power. |
-| [Size](size) { get; set; } | Gets or sets the size of the kernel. |
-| [SpatialFactor](spatialfactor) { get; set; } | Gets or sets the spatial factor. |
-| [SpatialPower](spatialpower) { get; set; } | Gets or sets the spatial power. |
+| [ColorFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor) { get; set; } | Gets or sets the color factor. |
+| [ColorPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower) { get; set; } | Gets or sets the color power. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size) { get; set; } | Gets or sets the size of the kernel. |
+| [SpatialFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor) { get; set; } | Gets or sets the spatial factor. |
+| [SpatialPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower) { get; set; } | Gets or sets the spatial power. |
 
 ### See Also
 

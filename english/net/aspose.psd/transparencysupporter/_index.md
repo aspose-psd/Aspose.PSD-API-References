@@ -3,7 +3,7 @@ title: TransparencySupporter
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5510
+weight: 5560
 url: /net/aspose.psd/transparencysupporter/
 ---
 ## TransparencySupporter class
@@ -24,7 +24,7 @@ public class TransparencySupporter
 
 | Name | Description |
 | --- | --- |
-| [Opacity](opacity) { get; set; } | Gets or sets the object's opacity. The value should be between 0 and 1. Value of 0 means that object is fully visible, value of 1 means the object is fully opaque. |
+| [Opacity](../../aspose.psd/transparencysupporter/opacity) { get; set; } | Gets or sets the object's opacity. The value should be between 0 and 1. Value of 0 means that object is fully visible, value of 1 means the object is fully opaque. |
 
 ### See Also
 

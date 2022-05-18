@@ -3,7 +3,7 @@ title: JpegLsInterleaveMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1490
+weight: 1510
 url: /net/aspose.psd.fileformats.jpeg/jpeglsinterleavemode/
 ---
 ## JpegLsInterleaveMode enumeration

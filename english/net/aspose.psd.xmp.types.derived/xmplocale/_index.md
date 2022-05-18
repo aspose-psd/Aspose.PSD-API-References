@@ -3,7 +3,7 @@ title: XmpLocale
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5970
+weight: 6020
 url: /net/aspose.psd.xmp.types.derived/xmplocale/
 ---
 ## XmpLocale class
@@ -19,6 +19,18 @@ public sealed class XmpLocale : XmpText
 | Name | Description |
 | --- | --- |
 | [XmpLocale](xmplocale)(string) | Initializes a new instance of the [`XmpLocale`](../xmplocale) class. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value) { get; set; } | Gets or sets the text value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### Remarks
 

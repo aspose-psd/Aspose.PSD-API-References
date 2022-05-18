@@ -3,7 +3,7 @@ title: CmykMixerChannel
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1680
+weight: 1710
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/
 ---
 ## CmykMixerChannel class
@@ -24,10 +24,17 @@ public class CmykMixerChannel : MixerChannel
 
 | Name | Description |
 | --- | --- |
-| [Black](black) { get; set; } | Gets or sets the black. |
-| [Cyan](cyan) { get; set; } | Gets or sets the cyan. |
-| [Magenta](magenta) { get; set; } | Gets or sets the magenta. |
-| [Yellow](yellow) { get; set; } | Gets or sets the yellow. |
+| [Black](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black) { get; set; } | Gets or sets the black. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant) { get; set; } | Gets or sets the constant.of channel. |
+| [Cyan](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan) { get; set; } | Gets or sets the cyan. |
+| [Magenta](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta) { get; set; } | Gets or sets the magenta. |
+| [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow) { get; set; } | Gets or sets the yellow. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata)() | Gets the raw data. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: IIndexedColorConverter
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4270
+weight: 4320
 url: /net/aspose.psd/iindexedcolorconverter/
 ---
 ## IIndexedColorConverter interface
@@ -18,7 +18,7 @@ public interface IIndexedColorConverter
 
 | Name | Description |
 | --- | --- |
-| [FillIndexedtoIndexedMap](fillindexedtoindexedmap)(byte[], PixelDataFormat, PixelDataFormat) | Fills the indexed to indexed image conversion map. |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap)(byte[], PixelDataFormat, PixelDataFormat) | Fills the indexed to indexed image conversion map. |
 
 ### See Also
 

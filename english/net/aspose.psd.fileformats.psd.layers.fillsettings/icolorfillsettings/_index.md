@@ -3,7 +3,7 @@ title: IColorFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1900
+weight: 1930
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
 ## IColorFillSettings interface
@@ -18,7 +18,7 @@ public interface IColorFillSettings : IFillSettings
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; set; } | Gets or sets the color. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color) { get; set; } | Gets or sets the color. |
 
 ### See Also
 

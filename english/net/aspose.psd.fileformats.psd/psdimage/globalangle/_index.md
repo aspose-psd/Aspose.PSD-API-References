@@ -14,6 +14,22 @@ Gets or sets the global angle.
 public int GlobalAngle { get; set; }
 ```
 
+### Examples
+
+The following code demonstrates support for the PsdImage.GlobalAngle property to change the global angle value.
+
+```csharp
+[C#]
+
+// When DropShadowEffect.UseGlobalLight property is 'true', then DropShadowEffect object use angle value from PsdImage.GlobalAngle property.
+
+using (PsdImage image = (PsdImage)Image.Load("4.psd"))
+{
+    image.GlobalAngle = 30;
+    image.Save("output.psd");
+}
+```
+
 ### See Also
 
 * class [PsdImage](../../psdimage)

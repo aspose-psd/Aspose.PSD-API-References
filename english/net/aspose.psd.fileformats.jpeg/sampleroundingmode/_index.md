@@ -3,7 +3,7 @@ title: SampleRoundingMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1510
+weight: 1530
 url: /net/aspose.psd.fileformats.jpeg/sampleroundingmode/
 ---
 ## SampleRoundingMode enumeration

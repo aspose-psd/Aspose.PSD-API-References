@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4100
+weight: 4150
 url: /net/aspose.psd/fontstyle/
 ---
 ## FontStyle enumeration

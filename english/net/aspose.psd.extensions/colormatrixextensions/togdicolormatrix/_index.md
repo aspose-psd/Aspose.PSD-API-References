@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/colormatrixextensions/togdicolormatrix/
 ---
 ## ColorMatrixExtensions.ToGdiColorMatrix method
 
+Converts the [`ColorMatrix`](../../../aspose.psd/colormatrix) to the ColorMatrix.
+
 ```csharp
 public static ColorMatrix ToGdiColorMatrix(ColorMatrix colorMatrix)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colorMatrix | ColorMatrix | The color matrix to convert. |
+
+## Return Value
+
+The converted ColorMatrix.
 
 ### See Also
 

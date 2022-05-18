@@ -3,7 +3,7 @@ title: ResolutionUnit
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3680
+weight: 3730
 url: /net/aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/
 ---
 ## ResolutionUnit enumeration

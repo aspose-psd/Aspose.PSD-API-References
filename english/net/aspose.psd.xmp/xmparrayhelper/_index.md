@@ -3,7 +3,7 @@ title: XmpArrayHelper
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 6020
+weight: 6070
 url: /net/aspose.psd.xmp/xmparrayhelper/
 ---
 ## XmpArrayHelper class
@@ -18,7 +18,7 @@ public static class XmpArrayHelper
 
 | Name | Description |
 | --- | --- |
-| static [GetRdfCode](getrdfcode)(XmpArrayType) | Gets the RDF code for specific [`XmpArrayType`](../xmparraytype). |
+| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode)(XmpArrayType) | Gets the RDF code for specific [`XmpArrayType`](../xmparraytype). |
 
 ### See Also
 

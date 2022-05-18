@@ -3,7 +3,7 @@ title: IRasterImageArgb32PixelLoader
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4360
+weight: 4410
 url: /net/aspose.psd/irasterimageargb32pixelloader/
 ---
 ## IRasterImageArgb32PixelLoader interface
@@ -18,7 +18,7 @@ public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
 
 | Name | Description |
 | --- | --- |
-| [LoadPartialArgb32Pixels](loadpartialargb32pixels)(Rectangle, IPartialArgb32PixelLoader) | Loads 32-bit ARGB pixels partially (by blocks). |
+| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels)(Rectangle, IPartialArgb32PixelLoader) | Loads 32-bit ARGB pixels partially (by blocks). |
 
 ### See Also
 

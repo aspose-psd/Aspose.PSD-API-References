@@ -3,7 +3,7 @@ title: OperationInterruptedException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 640
+weight: 660
 url: /net/aspose.psd.coreexceptions/operationinterruptedexception/
 ---
 ## OperationInterruptedException class

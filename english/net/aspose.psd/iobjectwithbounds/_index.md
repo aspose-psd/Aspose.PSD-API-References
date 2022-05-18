@@ -3,7 +3,7 @@ title: IObjectWithBounds
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4290
+weight: 4340
 url: /net/aspose.psd/iobjectwithbounds/
 ---
 ## IObjectWithBounds interface
@@ -18,10 +18,10 @@ public interface IObjectWithBounds
 
 | Name | Description |
 | --- | --- |
-| [Bounds](bounds) { get; } | Gets the object bounds. |
-| [Height](height) { get; } | Gets the object height. |
-| [Size](size) { get; } | Gets the object size. |
-| [Width](width) { get; } | Gets the object width. |
+| [Bounds](../../aspose.psd/iobjectwithbounds/bounds) { get; } | Gets the object bounds. |
+| [Height](../../aspose.psd/iobjectwithbounds/height) { get; } | Gets the object height. |
+| [Size](../../aspose.psd/iobjectwithbounds/size) { get; } | Gets the object size. |
+| [Width](../../aspose.psd/iobjectwithbounds/width) { get; } | Gets the object width. |
 
 ### See Also
 

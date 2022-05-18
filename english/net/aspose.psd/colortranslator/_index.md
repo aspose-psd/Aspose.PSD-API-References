@@ -3,7 +3,7 @@ title: ColorTranslator
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.psd/colortranslator/
 ---
 ## ColorTranslator class
@@ -18,12 +18,12 @@ public sealed class ColorTranslator
 
 | Name | Description |
 | --- | --- |
-| static [FromHtml](fromhtml)(string) | Takes color from the HTML color. |
-| static [FromOle](fromole)(int) | Takes color from the OLE color. |
-| static [FromWin32](fromwin32)(int) | Takes color from the HTML color. |
-| static [ToHtml](tohtml)(Color) | Creates HTML color from the color. |
-| static [ToOle](toole)(Color) | Translates OLE color to color. |
-| static [ToWin32](towin32)(Color) | Translates the color to win32 color. |
+| static [FromHtml](../../aspose.psd/colortranslator/fromhtml)(string) | Takes color from the HTML color. |
+| static [FromOle](../../aspose.psd/colortranslator/fromole)(int) | Takes color from the OLE color. |
+| static [FromWin32](../../aspose.psd/colortranslator/fromwin32)(int) | Takes color from the HTML color. |
+| static [ToHtml](../../aspose.psd/colortranslator/tohtml)(Color) | Creates HTML color from the color. |
+| static [ToOle](../../aspose.psd/colortranslator/toole)(Color) | Translates OLE color to color. |
+| static [ToWin32](../../aspose.psd/colortranslator/towin32)(Color) | Translates the color to win32 color. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ProjectType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5670
+weight: 5720
 url: /net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
 ## ProjectType enumeration

@@ -3,7 +3,7 @@ title: IGradientTransparencyPoint
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1930
+weight: 1960
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/
 ---
 ## IGradientTransparencyPoint interface
@@ -18,9 +18,9 @@ public interface IGradientTransparencyPoint
 
 | Name | Description |
 | --- | --- |
-| [Location](location) { get; set; } | Gets or sets the location. |
-| [MedianPointLocation](medianpointlocation) { get; set; } | Gets or sets the median point location. |
-| [Opacity](opacity) { get; set; } | Gets or sets the opacity. |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location) { get; set; } | Gets or sets the location. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation) { get; set; } | Gets or sets the median point location. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity) { get; set; } | Gets or sets the opacity. |
 
 ### See Also
 

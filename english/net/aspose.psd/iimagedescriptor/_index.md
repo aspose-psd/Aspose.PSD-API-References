@@ -3,7 +3,7 @@ title: IImageDescriptor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4220
+weight: 4270
 url: /net/aspose.psd/iimagedescriptor/
 ---
 ## IImageDescriptor interface
@@ -18,7 +18,7 @@ public interface IImageDescriptor
 
 | Name | Description |
 | --- | --- |
-| [SupportedFormat](supportedformat) { get; } | Gets the supported format. |
+| [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat) { get; } | Gets the supported format. |
 
 ### See Also
 

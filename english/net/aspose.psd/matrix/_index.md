@@ -3,7 +3,7 @@ title: Matrix
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4890
+weight: 4940
 url: /net/aspose.psd/matrix/
 ---
 ## Matrix class
@@ -28,35 +28,35 @@ public class Matrix
 
 | Name | Description |
 | --- | --- |
-| [Elements](elements) { get; } | Gets an array of floating-point values that represents the elements of this [`Matrix`](../matrix). |
-| [M11](m11) { get; } | Gets the matrix element at first row first column. Represents scale along X axis. |
-| [M12](m12) { get; } | Gets the matrix element at first row second column. Represents shear along Y axis. |
-| [M21](m21) { get; } | Gets the matrix element at second row first column. Represents shear along X axis. |
-| [M22](m22) { get; } | Gets the matrix element at second row second column. Represents scale along Y axis. |
-| [M31](m31) { get; } | Gets the matrix element at third row first column. Represents translation along X axis. |
-| [M32](m32) { get; } | Gets the matrix element at third row first column. Represents translation along Y axis. |
+| [Elements](../../aspose.psd/matrix/elements) { get; } | Gets an array of floating-point values that represents the elements of this [`Matrix`](../matrix). |
+| [M11](../../aspose.psd/matrix/m11) { get; } | Gets the matrix element at first row first column. Represents scale along X axis. |
+| [M12](../../aspose.psd/matrix/m12) { get; } | Gets the matrix element at first row second column. Represents shear along Y axis. |
+| [M21](../../aspose.psd/matrix/m21) { get; } | Gets the matrix element at second row first column. Represents shear along X axis. |
+| [M22](../../aspose.psd/matrix/m22) { get; } | Gets the matrix element at second row second column. Represents scale along Y axis. |
+| [M31](../../aspose.psd/matrix/m31) { get; } | Gets the matrix element at third row first column. Represents translation along X axis. |
+| [M32](../../aspose.psd/matrix/m32) { get; } | Gets the matrix element at third row first column. Represents translation along Y axis. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified Object is equal to this instance. |
-| [GetElements](getelements)() | Gets the copy of matrix elements. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| [Multiply](multiply)(Matrix) | Multiplies this Matrix by the matrix specified in the matrix parameter using (default) Prepend order. |
-| [Multiply](multiply)(Matrix, MatrixOrder) | Multiplies this Matrix by the matrix specified in the matrix parameter, and in the order specified in the order parameter. |
-| [Reset](reset)() | Resets this Matrix to have the elements of the identity matrix. |
-| [Rotate](rotate)(float) | Applies a clockwise rotation of an amount specified in the angle parameter, around the origin (zero x and y coordinates) for this Matrix in the default (Prepend) order. |
-| [Rotate](rotate)(float, MatrixOrder) | Applies a clockwise rotation of an amount specified in the angle parameter, around the origin (zero x and y coordinates) for this Matrix in the specified order. |
-| [RotateAt](rotateat)(float, PointF) | Applies a clockwise rotation about the specified point to this Matrix in the default (Prepend) order. |
-| [RotateAt](rotateat)(float, PointF, MatrixOrder) | Applies a clockwise rotation about the specified point to this Matrix in the specified order. |
-| [Scale](scale)(float, float) | Applies the specified scale vector (scaleX and scaleY) to this Matrix using (default) Prepend order. |
-| [Scale](scale)(float, float, MatrixOrder) | Applies the specified scale vector (scaleX and scaleY) to this [`Matrix`](../matrix) using the specified order. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
-| [TransformPoints](transformpoints)(PointF[]) | Applies the geometric transform represented by this [`Matrix`](../matrix) to a specified array of points. |
-| [Translate](translate)(float, float) | Applies the specified translation vector to this [`Matrix`](../matrix) using (default) Prepend order. |
-| [Translate](translate)(float, float, MatrixOrder) | Applies the specified translation vector to this Matrix in the specified order. |
-| static [Equals](equals)(Matrix, Matrix) | Determines whether two matrixes are equal. |
+| override [Equals](../../aspose.psd/matrix/equals)(object) | Determines whether the specified Object is equal to this instance. |
+| [GetElements](../../aspose.psd/matrix/getelements)() | Gets the copy of matrix elements. |
+| override [GetHashCode](../../aspose.psd/matrix/gethashcode)() | Returns a hash code for this instance. |
+| [Multiply](../../aspose.psd/matrix/multiply)(Matrix) | Multiplies this Matrix by the matrix specified in the matrix parameter using (default) Prepend order. |
+| [Multiply](../../aspose.psd/matrix/multiply)(Matrix, MatrixOrder) | Multiplies this Matrix by the matrix specified in the matrix parameter, and in the order specified in the order parameter. |
+| [Reset](../../aspose.psd/matrix/reset)() | Resets this Matrix to have the elements of the identity matrix. |
+| [Rotate](../../aspose.psd/matrix/rotate)(float) | Applies a clockwise rotation of an amount specified in the angle parameter, around the origin (zero x and y coordinates) for this Matrix in the default (Prepend) order. |
+| [Rotate](../../aspose.psd/matrix/rotate)(float, MatrixOrder) | Applies a clockwise rotation of an amount specified in the angle parameter, around the origin (zero x and y coordinates) for this Matrix in the specified order. |
+| [RotateAt](../../aspose.psd/matrix/rotateat)(float, PointF) | Applies a clockwise rotation about the specified point to this Matrix in the default (Prepend) order. |
+| [RotateAt](../../aspose.psd/matrix/rotateat)(float, PointF, MatrixOrder) | Applies a clockwise rotation about the specified point to this Matrix in the specified order. |
+| [Scale](../../aspose.psd/matrix/scale)(float, float) | Applies the specified scale vector (scaleX and scaleY) to this Matrix using (default) Prepend order. |
+| [Scale](../../aspose.psd/matrix/scale)(float, float, MatrixOrder) | Applies the specified scale vector (scaleX and scaleY) to this [`Matrix`](../matrix) using the specified order. |
+| override [ToString](../../aspose.psd/matrix/tostring)() | Returns a String that represents this instance. |
+| [TransformPoints](../../aspose.psd/matrix/transformpoints)(PointF[]) | Applies the geometric transform represented by this [`Matrix`](../matrix) to a specified array of points. |
+| [Translate](../../aspose.psd/matrix/translate)(float, float) | Applies the specified translation vector to this [`Matrix`](../matrix) using (default) Prepend order. |
+| [Translate](../../aspose.psd/matrix/translate)(float, float, MatrixOrder) | Applies the specified translation vector to this Matrix in the specified order. |
+| static [Equals](../../aspose.psd/matrix/equals)(Matrix, Matrix) | Determines whether two matrixes are equal. |
 
 ## Other Members
 

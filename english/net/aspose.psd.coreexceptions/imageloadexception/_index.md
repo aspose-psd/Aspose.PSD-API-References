@@ -3,7 +3,7 @@ title: ImageLoadException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 600
+weight: 620
 url: /net/aspose.psd.coreexceptions/imageloadexception/
 ---
 ## ImageLoadException class

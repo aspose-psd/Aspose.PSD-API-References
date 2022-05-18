@@ -3,7 +3,7 @@ title: Opacity
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/
 ---
 ## InnerShadowEffect.Opacity property

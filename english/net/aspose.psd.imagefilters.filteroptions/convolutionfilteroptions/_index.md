@@ -3,7 +3,7 @@ title: ConvolutionFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4470
+weight: 4520
 url: /net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
 ## ConvolutionFilterOptions class
@@ -24,8 +24,8 @@ public abstract class ConvolutionFilterOptions : FilterOptionsBase
 
 | Name | Description |
 | --- | --- |
-| [Bias](bias) { get; set; } | Gets or sets the bias. |
-| [Factor](factor) { get; set; } | Gets or sets the factor. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias) { get; set; } | Gets or sets the bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor) { get; set; } | Gets or sets the factor. |
 
 ### See Also
 

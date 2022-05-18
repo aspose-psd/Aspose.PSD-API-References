@@ -3,7 +3,7 @@ title: ColorExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1030
+weight: 1050
 url: /net/aspose.psd.extensions/colorextensions/
 ---
 ## ColorExtensions class
@@ -18,8 +18,8 @@ public static class ColorExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiColor](togdicolor)(Color) | Converts the [`Color`](../../aspose.psd/color) to the Color. |
-| static [ToGdiColors](togdicolors)(Color[]) | Converts the [`Color`](../../aspose.psd/color) array to the Color array. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor)(Color) | Converts the [`Color`](../../aspose.psd/color) to the Color. |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors)(Color[]) | Converts the [`Color`](../../aspose.psd/color) array to the Color array. |
 
 ### See Also
 

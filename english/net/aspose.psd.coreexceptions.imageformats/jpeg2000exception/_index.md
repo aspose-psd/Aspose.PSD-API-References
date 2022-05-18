@@ -3,7 +3,7 @@ title: Jpeg2000Exception
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 510
+weight: 530
 url: /net/aspose.psd.coreexceptions.imageformats/jpeg2000exception/
 ---
 ## Jpeg2000Exception class

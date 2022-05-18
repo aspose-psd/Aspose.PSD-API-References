@@ -8,9 +8,16 @@ url: /net/aspose.psd/rasterimage/filter/
 ---
 ## RasterImage.Filter method
 
+Filters the specified rectangle.
+
 ```csharp
 public virtual void Filter(Rectangle rectangle, FilterOptionsBase options)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rectangle | Rectangle | The rectangle. |
+| options | FilterOptionsBase | The options. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: DashStyle
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 700
+weight: 720
 url: /net/aspose.psd/dashstyle/
 ---
 ## DashStyle enumeration

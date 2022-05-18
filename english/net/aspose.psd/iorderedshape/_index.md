@@ -3,7 +3,7 @@ title: IOrderedShape
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4300
+weight: 4350
 url: /net/aspose.psd/iorderedshape/
 ---
 ## IOrderedShape interface
@@ -18,15 +18,15 @@ public interface IOrderedShape
 
 | Name | Description |
 | --- | --- |
-| [EndPoint](endpoint) { get; } | Gets the ending shape point. |
-| [IsClosed](isclosed) { get; set; } | Gets or sets a value indicating whether ordered shape is closed. When processing closed ordered shape the starting and ending points have no meaning. |
-| [StartPoint](startpoint) { get; } | Gets the starting shape point. |
+| [EndPoint](../../aspose.psd/iorderedshape/endpoint) { get; } | Gets the ending shape point. |
+| [IsClosed](../../aspose.psd/iorderedshape/isclosed) { get; set; } | Gets or sets a value indicating whether ordered shape is closed. When processing closed ordered shape the starting and ending points have no meaning. |
+| [StartPoint](../../aspose.psd/iorderedshape/startpoint) { get; } | Gets the starting shape point. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Reverse](reverse)() | Reverses the order of points for this shape. |
+| [Reverse](../../aspose.psd/iorderedshape/reverse)() | Reverses the order of points for this shape. |
 
 ### See Also
 

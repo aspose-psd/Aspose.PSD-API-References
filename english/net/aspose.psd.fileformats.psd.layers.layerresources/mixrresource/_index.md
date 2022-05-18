@@ -3,7 +3,7 @@ title: MixrResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2690
+weight: 2740
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/
 ---
 ## MixrResource class
@@ -25,18 +25,21 @@ public sealed class MixrResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [Monochrome](monochrome) { get; set; } | Gets or sets a value indicating whether this [`MixrResource`](../mixrresource) is monochrome. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| [Version](version) { get; set; } | Gets or sets the version. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/length) { get; } | Gets the layer resource length in bytes. |
+| [Monochrome](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome) { get; set; } | Gets or sets a value indicating whether this [`MixrResource`](../mixrresource) is monochrome. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version) { get; set; } | Gets or sets the version. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetChannelInfo](getchannelinfo)(int) | Gets the channel information raw data |
-| [SetChannelInfo](setchannelinfo)(int, byte[]) | Sets the channel information. |
+| [GetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo)(int) | Gets the channel information raw data |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| [SetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/setchannelinfo)(int, byte[]) | Sets the channel information. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

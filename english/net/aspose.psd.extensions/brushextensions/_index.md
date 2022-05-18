@@ -3,7 +3,7 @@ title: BrushExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1010
+weight: 1030
 url: /net/aspose.psd.extensions/brushextensions/
 ---
 ## BrushExtensions class
@@ -18,7 +18,7 @@ public static class BrushExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiBrush](togdibrush)(Brush) |  |
+| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush)(Brush) | Converts the [`Brush`](../../aspose.psd/brush) to the Brush. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: LayerBlendingRangesData
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2000
+weight: 2030
 url: /net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
 ## LayerBlendingRangesData class
@@ -24,9 +24,9 @@ public sealed class LayerBlendingRangesData
 
 | Name | Description |
 | --- | --- |
-| [ChannelBlendRanges](channelblendranges) { get; set; } | Gets or sets the channel blend ranges. |
-| [CompositeBlendRange](compositeblendrange) { get; set; } | Gets or sets the composite blend ranges. |
-| [Length](length) { get; } | Gets the length of layer blending ranges data in bytes. |
+| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges) { get; set; } | Gets or sets the channel blend ranges. |
+| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange) { get; set; } | Gets or sets the composite blend ranges. |
+| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length) { get; } | Gets the length of layer blending ranges data in bytes. |
 
 ### See Also
 

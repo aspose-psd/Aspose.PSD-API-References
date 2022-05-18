@@ -3,7 +3,7 @@ title: BezierSegment
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5240
+weight: 5290
 url: /net/aspose.psd.shapesegments/beziersegment/
 ---
 ## BezierSegment class
@@ -24,8 +24,10 @@ public sealed class BezierSegment : LineSegment
 
 | Name | Description |
 | --- | --- |
-| [FirstControlPoint](firstcontrolpoint) { get; } | Gets the first control point of a bezier spline. |
-| [SecondControlPoint](secondcontrolpoint) { get; } | Gets the second control point of a bezier spline. |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint) { get; } | Gets the ending point. |
+| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint) { get; } | Gets the first control point of a bezier spline. |
+| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint) { get; } | Gets the second control point of a bezier spline. |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint) { get; } | Gets the starting point. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ImageAttributesExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1090
+weight: 1110
 url: /net/aspose.psd.extensions/imageattributesextensions/
 ---
 ## ImageAttributesExtensions class
@@ -18,7 +18,7 @@ public static class ImageAttributesExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiImageAttributes](togdiimageattributes)(ImageAttributes) |  |
+| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes)(ImageAttributes) | Converts the [`ImageAttributes`](../../aspose.psd/imageattributes) to the ImageAttributes. |
 
 ### See Also
 

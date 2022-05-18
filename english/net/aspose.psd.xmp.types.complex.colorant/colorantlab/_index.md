@@ -3,7 +3,7 @@ title: ColorantLab
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5830
+weight: 5880
 url: /net/aspose.psd.xmp.types.complex.colorant/colorantlab/
 ---
 ## ColorantLab class
@@ -25,15 +25,20 @@ public sealed class ColorantLab : ColorantBase
 
 | Name | Description |
 | --- | --- |
-| [A](a) { get; set; } | Gets or sets the A component. |
-| [B](b) { get; set; } | Gets or sets the B component. |
-| [L](l) { get; set; } | Gets or sets the L component. |
+| [A](../../aspose.psd.xmp.types.complex.colorant/colorantlab/a) { get; set; } | Gets or sets the A component. |
+| [B](../../aspose.psd.xmp.types.complex.colorant/colorantlab/b) { get; set; } | Gets or sets the B component. |
+| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype) { get; set; } | Gets or sets the type of the color. |
+| [L](../../aspose.psd.xmp.types.complex.colorant/colorantlab/l) { get; set; } | Gets or sets the L component. |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode) { get; } | Gets [`ColorMode`](../colormode). |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | Gets the default namespace URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | Gets the prefix. |
+| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname) { get; set; } | Gets or sets the name of the swatch. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantlab/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ## Other Members
 

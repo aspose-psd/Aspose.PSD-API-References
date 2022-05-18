@@ -3,7 +3,7 @@ title: TextFontInfo
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3370
+weight: 3420
 url: /net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 ---
 ## TextFontInfo class
@@ -18,12 +18,12 @@ public sealed class TextFontInfo
 
 | Name | Description |
 | --- | --- |
-| [FamilyName](familyname) { get; } | Gets font family name |
-| [FontType](fonttype) { get; } | Gets the type of the font. |
-| [PostScriptName](postscriptname) { get; } | Gets the PostScript name |
-| [Script](script) { get; } | Gets the script. |
-| [Style](style) { get; } | Gets font style parsed from subfamily name |
-| [Synthetic](synthetic) { get; } | Gets a value indicating whether this FontInformation is synthetic. |
+| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname) { get; } | Gets font family name |
+| [FontType](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype) { get; } | Gets the type of the font. |
+| [PostScriptName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname) { get; } | Gets the PostScript name |
+| [Script](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/script) { get; } | Gets the script. |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style) { get; } | Gets font style parsed from subfamily name |
+| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic) { get; } | Gets a value indicating whether this FontInformation is synthetic. |
 
 ### See Also
 

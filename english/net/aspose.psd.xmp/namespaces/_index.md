@@ -3,7 +3,7 @@ title: Namespaces
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5570
+weight: 5620
 url: /net/aspose.psd.xmp/namespaces/
 ---
 ## Namespaces class

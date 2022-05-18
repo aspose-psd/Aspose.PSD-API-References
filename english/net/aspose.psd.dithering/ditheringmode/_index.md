@@ -3,7 +3,7 @@ title: DitheringMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 740
+weight: 760
 url: /net/aspose.psd.dithering/ditheringmode/
 ---
 ## DitheringMode class
@@ -24,9 +24,9 @@ public class DitheringMode
 
 | Name | Description |
 | --- | --- |
-| [Bits](bits) { get; set; } | The sampling factor of dithered image. |
-| [CustomPalette](custompalette) { get; set; } | The custom palette for dithering. |
-| [Method](method) { get; set; } | Dithering algorithm selection. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits) { get; set; } | The sampling factor of dithered image. |
+| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette) { get; set; } | The custom palette for dithering. |
+| [Method](../../aspose.psd.dithering/ditheringmode/method) { get; set; } | Dithering algorithm selection. |
 
 ### See Also
 

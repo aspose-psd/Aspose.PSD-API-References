@@ -3,7 +3,7 @@ title: TiffNewSubFileTypes
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3900
+weight: 3950
 url: /net/aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/
 ---
 ## TiffNewSubFileTypes enumeration

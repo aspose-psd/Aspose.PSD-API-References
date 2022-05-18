@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/colormapextensions/togdicolormap/
 ---
 ## ColorMapExtensions.ToGdiColorMap method
 
+Converts the [`ColorMap`](../../../aspose.psd/colormap) to the ColorMap.
+
 ```csharp
 public static ColorMap ToGdiColorMap(ColorMap colorMap)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colorMap | ColorMap | The color map to convert. |
+
+## Return Value
+
+The converted ColorMap.
 
 ### See Also
 

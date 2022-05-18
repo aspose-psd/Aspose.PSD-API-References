@@ -3,7 +3,7 @@ title: IImageExporterDescriptor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4240
+weight: 4290
 url: /net/aspose.psd/iimageexporterdescriptor/
 ---
 ## IImageExporterDescriptor interface
@@ -18,8 +18,8 @@ public interface IImageExporterDescriptor : IImageDescriptor
 
 | Name | Description |
 | --- | --- |
-| [CanExport](canexport)(Image, ImageOptionsBase) | Determines whether image exporter can export the specified image to the specified image format specified by save options. |
-| [CreateInstance](createinstance)() | Creates a new exporter instance. |
+| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport)(Image, ImageOptionsBase) | Determines whether image exporter can export the specified image to the specified image format specified by save options. |
+| [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance)() | Creates a new exporter instance. |
 
 ### See Also
 

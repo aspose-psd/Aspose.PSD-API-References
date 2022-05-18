@@ -3,7 +3,7 @@ title: SeekOrigin
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5210
+weight: 5260
 url: /net/aspose.psd/seekorigin/
 ---
 ## SeekOrigin enumeration

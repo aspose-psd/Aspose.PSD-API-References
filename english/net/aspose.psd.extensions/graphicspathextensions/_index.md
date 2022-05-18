@@ -3,7 +3,7 @@ title: GraphicsPathExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1080
+weight: 1100
 url: /net/aspose.psd.extensions/graphicspathextensions/
 ---
 ## GraphicsPathExtensions class
@@ -18,7 +18,7 @@ public static class GraphicsPathExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiGraphicsPath](togdigraphicspath)(GraphicsPath) |  |
+| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath)(GraphicsPath) | Converts the [`GraphicsPath`](../../aspose.psd/graphicspath) to the GraphicsPath. |
 
 ### See Also
 

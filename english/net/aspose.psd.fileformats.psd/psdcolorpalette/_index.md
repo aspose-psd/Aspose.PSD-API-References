@@ -3,7 +3,7 @@ title: PsdColorPalette
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3400
+weight: 3450
 url: /net/aspose.psd.fileformats.psd/psdcolorpalette/
 ---
 ## PsdColorPalette class
@@ -34,26 +34,26 @@ public class PsdColorPalette : IPsdColorPalette
 
 | Name | Description |
 | --- | --- |
-| [Argb32Entries](argb32entries) { get; } | Gets an array of 32-bit ARGB colors. |
-| [Entries](entries) { get; } | Gets an array of [`Color`](../../aspose.psd/color) structures. |
-| [EntriesCount](entriescount) { get; } | Gets the entries count. |
-| [HasTransparentColor](hastransparentcolor) { get; } | Gets a value indicating whether transparent color exists. |
-| [IsCompactPalette](iscompactpalette) { get; } | Gets a value indicating whether compact it palette. |
-| [RawEntries](rawentries) { get; } | Gets the raw color palette entries data. |
-| [RawEntriesCount](rawentriescount) { get; } | Gets the raw color palette entries count. |
-| [TransparentColor](transparentcolor) { get; } | Gets the transparent color. |
-| [TransparentIndex](transparentindex) { get; } | Gets the index of the transparent color. |
+| [Argb32Entries](../../aspose.psd.fileformats.psd/psdcolorpalette/argb32entries) { get; } | Gets an array of 32-bit ARGB colors. |
+| [Entries](../../aspose.psd.fileformats.psd/psdcolorpalette/entries) { get; } | Gets an array of [`Color`](../../aspose.psd/color) structures. |
+| [EntriesCount](../../aspose.psd.fileformats.psd/psdcolorpalette/entriescount) { get; } | Gets the entries count. |
+| [HasTransparentColor](../../aspose.psd.fileformats.psd/psdcolorpalette/hastransparentcolor) { get; } | Gets a value indicating whether transparent color exists. |
+| [IsCompactPalette](../../aspose.psd.fileformats.psd/psdcolorpalette/iscompactpalette) { get; } | Gets a value indicating whether compact it palette. |
+| [RawEntries](../../aspose.psd.fileformats.psd/psdcolorpalette/rawentries) { get; } | Gets the raw color palette entries data. |
+| [RawEntriesCount](../../aspose.psd.fileformats.psd/psdcolorpalette/rawentriescount) { get; } | Gets the raw color palette entries count. |
+| [TransparentColor](../../aspose.psd.fileformats.psd/psdcolorpalette/transparentcolor) { get; } | Gets the transparent color. |
+| [TransparentIndex](../../aspose.psd.fileformats.psd/psdcolorpalette/transparentindex) { get; } | Gets the index of the transparent color. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CopyPalette](copypalette)(IColorPalette) | Copies the palette. |
-| static [CopyPalette](copypalette)(IColorPalette, bool) | Copies the palette. |
-| [GetArgb32Color](getargb32color)(int) | Gets the 32-bit ARGB palette color by index. |
-| [GetColor](getcolor)(int) | Gets the palette color by index. |
-| [GetNearestColorIndex](getnearestcolorindex)(Color) | Gets the index of the nearest color. |
-| [GetNearestColorIndex](getnearestcolorindex)(int) | Gets the index of the nearest color. |
+| static [CopyPalette](../../aspose.psd.fileformats.psd/psdcolorpalette/copypalette)(IColorPalette) | Copies the palette. |
+| static [CopyPalette](../../aspose.psd.fileformats.psd/psdcolorpalette/copypalette)(IColorPalette, bool) | Copies the palette. |
+| [GetArgb32Color](../../aspose.psd.fileformats.psd/psdcolorpalette/getargb32color)(int) | Gets the 32-bit ARGB palette color by index. |
+| [GetColor](../../aspose.psd.fileformats.psd/psdcolorpalette/getcolor)(int) | Gets the palette color by index. |
+| [GetNearestColorIndex](../../aspose.psd.fileformats.psd/psdcolorpalette/getnearestcolorindex)(Color) | Gets the index of the nearest color. |
+| [GetNearestColorIndex](../../aspose.psd.fileformats.psd/psdcolorpalette/getnearestcolorindex)(int) | Gets the index of the nearest color. |
 
 ### See Also
 

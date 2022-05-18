@@ -3,7 +3,7 @@ title: ShallowCopy
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 390
+weight: 380
 url: /net/aspose.psd.fileformats.psd.layers/layer/shallowcopy/
 ---
 ## Layer.ShallowCopy method

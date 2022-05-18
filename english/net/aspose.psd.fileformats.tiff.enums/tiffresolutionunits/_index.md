@@ -3,7 +3,7 @@ title: TiffResolutionUnits
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3950
+weight: 4000
 url: /net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
 ## TiffResolutionUnits enumeration

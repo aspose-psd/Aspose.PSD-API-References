@@ -3,7 +3,7 @@ title: IImageExporter
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4230
+weight: 4280
 url: /net/aspose.psd/iimageexporter/
 ---
 ## IImageExporter interface
@@ -18,8 +18,8 @@ public interface IImageExporter
 
 | Name | Description |
 | --- | --- |
-| [Export](export)(Image, Stream, ImageOptionsBase) | Exports the specified image data into specified data format. |
-| [Export](export)(Image, Stream, ImageOptionsBase, Rectangle) | Exports the specified image data into specified data format. |
+| [Export](../../aspose.psd/iimageexporter/export)(Image, Stream, ImageOptionsBase) | Exports the specified image data into specified data format. |
+| [Export](../../aspose.psd/iimageexporter/export)(Image, Stream, ImageOptionsBase, Rectangle) | Exports the specified image data into specified data format. |
 
 ### See Also
 

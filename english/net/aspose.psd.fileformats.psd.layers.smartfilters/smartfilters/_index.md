@@ -3,7 +3,7 @@ title: SmartFilters
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3290
+weight: 3340
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/
 ---
 ## SmartFilters class
@@ -18,18 +18,18 @@ public class SmartFilters
 
 | Name | Description |
 | --- | --- |
-| [Filters](filters) { get; set; } | Gets or sets the smart filters. |
-| [IsEnabled](isenabled) { get; } | Gets the is enabled status of the smart filter mask. |
-| [IsMaskEnabled](ismaskenabled) { get; } | Gets the is mask enabled status of the smart filter. |
-| [IsMaskExtendWithWhite](ismaskextendwithwhite) { get; } | Gets the is mask exted with white status of the smart filter. |
-| [IsMaskLinked](ismasklinked) { get; } | Gets the is mask linked status of the smart filter. |
-| [IsValidAtPosition](isvalidatposition) { get; } | Gets the is valid at position status of the smart filter. |
+| [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters) { get; set; } | Gets or sets the smart filters. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled) { get; } | Gets the is enabled status of the smart filter mask. |
+| [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled) { get; } | Gets the is mask enabled status of the smart filter. |
+| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite) { get; } | Gets the is mask exted with white status of the smart filter. |
+| [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked) { get; } | Gets the is mask linked status of the smart filter. |
+| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition) { get; } | Gets the is valid at position status of the smart filter. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [UpdateResourceValues](updateresourcevalues)() | Updates the smart filter data into the [`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource). |
+| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues)() | Updates the smart filter data into the [`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource). |
 
 ### See Also
 

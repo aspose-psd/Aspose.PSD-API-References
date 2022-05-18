@@ -3,7 +3,7 @@ title: GradientTransparencyPoint
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1880
+weight: 1910
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
 ## GradientTransparencyPoint class
@@ -24,9 +24,9 @@ public class GradientTransparencyPoint : IGradientTransparencyPoint
 
 | Name | Description |
 | --- | --- |
-| [Location](location) { get; set; } | Gets or sets the location. |
-| [MedianPointLocation](medianpointlocation) { get; set; } | Gets or sets the median point location. |
-| [Opacity](opacity) { get; set; } | Gets or sets the color. |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location) { get; set; } | Gets or sets the location. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation) { get; set; } | Gets or sets the median point location. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity) { get; set; } | Gets or sets the color. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: StringTrimming
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5490
+weight: 5540
 url: /net/aspose.psd/stringtrimming/
 ---
 ## StringTrimming enumeration

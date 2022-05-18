@@ -3,7 +3,7 @@ title: DescriptorStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2960
+weight: 3010
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/
 ---
 ## DescriptorStructure class
@@ -24,17 +24,20 @@ public class DescriptorStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| [ClassID](classid) { get; set; } | Gets or sets the class ID. |
-| [ClassName](classname) { get; set; } | Gets or sets the class name. |
-| override [Key](key) { get; } | Gets the structure key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
-| [Structures](structures) { get; set; } | Gets or sets the structures. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classid) { get; set; } | Gets or sets the class ID. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classname) { get; set; } | Gets or sets the class name. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/key) { get; } | Gets the structure key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures) { get; set; } | Gets or sets the structures. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetHeaderLength](getheaderlength)() | Gets the header length. |
+| override [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
 
 ## Other Members
 

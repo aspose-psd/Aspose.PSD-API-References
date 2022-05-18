@@ -3,7 +3,7 @@ title: GraphicsOptions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4620
+weight: 4670
 url: /net/aspose.psd.imageoptions/graphicsoptions/
 ---
 ## GraphicsOptions class
@@ -24,9 +24,9 @@ public class GraphicsOptions
 
 | Name | Description |
 | --- | --- |
-| [InterpolationMode](interpolationmode) { get; set; } | Gets or sets interpolation mode. |
-| [SmoothingMode](smoothingmode) { get; set; } | Gets or sets smoothing mode. |
-| [TextRenderingHint](textrenderinghint) { get; set; } | Gets or sets text rendering hint. |
+| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode) { get; set; } | Gets or sets interpolation mode. |
+| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode) { get; set; } | Gets or sets smoothing mode. |
+| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint) { get; set; } | Gets or sets text rendering hint. |
 
 ### See Also
 

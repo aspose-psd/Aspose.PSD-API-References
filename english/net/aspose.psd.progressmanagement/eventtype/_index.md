@@ -3,7 +3,7 @@ title: EventType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5090
+weight: 5140
 url: /net/aspose.psd.progressmanagement/eventtype/
 ---
 ## EventType enumeration

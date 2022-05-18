@@ -3,7 +3,7 @@ title: TiffSampleFormats
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3960
+weight: 4010
 url: /net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
 ## TiffSampleFormats enumeration

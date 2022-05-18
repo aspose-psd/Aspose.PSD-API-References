@@ -3,7 +3,7 @@ title: ImageExportersRegistry
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4430
+weight: 4480
 url: /net/aspose.psd/imageexportersregistry/
 ---
 ## ImageExportersRegistry class
@@ -18,18 +18,18 @@ public static class ImageExportersRegistry
 
 | Name | Description |
 | --- | --- |
-| static [RegisteredExporterDescriptors](registeredexporterdescriptors) { get; } | Gets the registered exporter descriptors. |
-| static [RegisteredFormats](registeredformats) { get; } | Gets the registered export formats. |
+| static [RegisteredExporterDescriptors](../../aspose.psd/imageexportersregistry/registeredexporterdescriptors) { get; } | Gets the registered exporter descriptors. |
+| static [RegisteredFormats](../../aspose.psd/imageexportersregistry/registeredformats) { get; } | Gets the registered export formats. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateFirstSupportedExporter](createfirstsupportedexporter)(Image, ImageOptionsBase) | Creates the first found exporter suitable for the specified save options and image. |
-| static [GetFirstSupportedDescriptor](getfirstsupporteddescriptor)(Image, ImageOptionsBase) | Gets the fist found supported descriptor suitable for the specified save options and image. |
-| static [Register](register)(IImageExporterDescriptor) | Registers the specified image exporter descriptor. |
-| static [RegisterExporter](registerexporter)(IImageExporterDescriptor) | Registers the exporter. |
-| static [UnregisterExporter](unregisterexporter)(IImageExporterDescriptor) | Unregisters the exporter. |
+| static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter)(Image, ImageOptionsBase) | Creates the first found exporter suitable for the specified save options and image. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor)(Image, ImageOptionsBase) | Gets the fist found supported descriptor suitable for the specified save options and image. |
+| static [Register](../../aspose.psd/imageexportersregistry/register)(IImageExporterDescriptor) | Registers the specified image exporter descriptor. |
+| static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter)(IImageExporterDescriptor) | Registers the exporter. |
+| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter)(IImageExporterDescriptor) | Unregisters the exporter. |
 
 ### See Also
 

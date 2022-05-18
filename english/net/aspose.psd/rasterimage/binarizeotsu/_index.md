@@ -8,6 +8,8 @@ url: /net/aspose.psd/rasterimage/binarizeotsu/
 ---
 ## RasterImage.BinarizeOtsu method
 
+Binarization of an image with Otsu thresholding
+
 ```csharp
 public virtual void BinarizeOtsu()
 ```

@@ -3,7 +3,7 @@ title: FxrpResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2370
+weight: 2410
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/
 ---
 ## FxrpResource class
@@ -26,18 +26,19 @@ public class FxrpResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the signature. |
-| [X](x) { get; set; } | Gets or sets the x of reference point |
-| [Y](y) { get; set; } | Gets or sets the y of reference point |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature) { get; } | Gets the signature. |
+| [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x) { get; set; } | Gets or sets the x of reference point |
+| [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y) { get; set; } | Gets or sets the y of reference point |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save)(StreamContainer, int) | Saves to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

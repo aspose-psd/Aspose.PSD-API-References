@@ -3,7 +3,7 @@ title: EvalException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 770
+weight: 790
 url: /net/aspose.psd.evalute/evalexception/
 ---
 ## EvalException class
@@ -18,7 +18,7 @@ public class EvalException : Exception
 
 | Name | Description |
 | --- | --- |
-| override [Message](message) { get; } | Gets the message associated with this exception |
+| override [Message](../../aspose.psd.evalute/evalexception/message) { get; } | Gets the message associated with this exception |
 
 ### See Also
 

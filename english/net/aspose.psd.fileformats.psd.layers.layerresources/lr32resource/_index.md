@@ -3,7 +3,7 @@ title: Lr32Resource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2650
+weight: 2700
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/
 ---
 ## Lr32Resource class
@@ -24,17 +24,18 @@ public class Lr32Resource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| [Layers](layers) { get; set; } | Gets or sets the layers. |
-| override [Length](length) { get; } | Gets the length. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the signature. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key) { get; } | Gets the layer resource key. |
+| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers) { get; set; } | Gets or sets the layers. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/length) { get; } | Gets the length. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/signature) { get; } | Gets the signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the layer record. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/save)(StreamContainer, int) | Saves the layer record. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

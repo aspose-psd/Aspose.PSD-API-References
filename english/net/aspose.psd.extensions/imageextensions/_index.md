@@ -3,7 +3,7 @@ title: ImageExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1100
+weight: 1120
 url: /net/aspose.psd.extensions/imageextensions/
 ---
 ## ImageExtensions class

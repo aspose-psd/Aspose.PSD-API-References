@@ -3,7 +3,7 @@ title: CharacterSet
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.psd/characterset/
 ---
 ## CharacterSet enumeration

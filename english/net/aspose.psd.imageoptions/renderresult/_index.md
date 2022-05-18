@@ -3,7 +3,7 @@ title: RenderResult
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4730
+weight: 4780
 url: /net/aspose.psd.imageoptions/renderresult/
 ---
 ## RenderResult class
@@ -24,8 +24,8 @@ public class RenderResult
 
 | Name | Description |
 | --- | --- |
-| [Message](message) { get; set; } | Gets or sets string message |
-| [RenderCode](rendercode) { get; set; } | Gets or sets code of error |
+| [Message](../../aspose.psd.imageoptions/renderresult/message) { get; set; } | Gets or sets string message |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode) { get; set; } | Gets or sets code of error |
 
 ### See Also
 

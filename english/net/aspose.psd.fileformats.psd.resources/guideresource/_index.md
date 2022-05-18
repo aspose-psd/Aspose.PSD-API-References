@@ -3,7 +3,7 @@ title: GuideResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3560
+weight: 3610
 url: /net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
 ## GuideResource class
@@ -24,8 +24,8 @@ public sealed class GuideResource
 
 | Name | Description |
 | --- | --- |
-| [Direction](direction) { get; set; } | Gets or sets the direction of guide. |
-| [Location](location) { get; set; } | Gets or sets the location of guide in document coordinates. |
+| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction) { get; set; } | Gets or sets the direction of guide. |
+| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location) { get; set; } | Gets or sets the location of guide in document coordinates. |
 
 ### See Also
 

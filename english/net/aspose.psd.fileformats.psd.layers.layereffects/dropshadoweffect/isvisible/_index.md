@@ -3,7 +3,7 @@ title: IsVisible
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/
 ---
 ## DropShadowEffect.IsVisible property

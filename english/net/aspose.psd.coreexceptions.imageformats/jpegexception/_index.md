@@ -3,7 +3,7 @@ title: JpegException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 520
+weight: 540
 url: /net/aspose.psd.coreexceptions.imageformats/jpegexception/
 ---
 ## JpegException class

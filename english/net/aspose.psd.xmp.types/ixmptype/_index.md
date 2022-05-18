@@ -3,7 +3,7 @@ title: IXmpType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5990
+weight: 6040
 url: /net/aspose.psd.xmp.types/ixmptype/
 ---
 ## IXmpType interface
@@ -18,7 +18,7 @@ public interface IXmpType
 
 | Name | Description |
 | --- | --- |
-| [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

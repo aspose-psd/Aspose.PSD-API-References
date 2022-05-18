@@ -3,7 +3,7 @@ title: ExifMeteringMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 880
+weight: 900
 url: /net/aspose.psd.exif.enums/exifmeteringmode/
 ---
 ## ExifMeteringMode enumeration

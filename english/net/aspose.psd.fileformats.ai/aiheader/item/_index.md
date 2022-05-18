@@ -14,9 +14,9 @@ Gets or sets the String with the specified property name.
 public string this[string propertyName] { get; set; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| propertyName |  | Name of the property. |
+| Parameter | Description |
+| --- | --- |
+| propertyName | Name of the property. |
 
 ## Property Value
 

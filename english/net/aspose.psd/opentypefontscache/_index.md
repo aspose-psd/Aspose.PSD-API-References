@@ -3,7 +3,7 @@ title: OpenTypeFontsCache
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4970
+weight: 5020
 url: /net/aspose.psd/opentypefontscache/
 ---
 ## OpenTypeFontsCache class
@@ -18,7 +18,7 @@ public static class OpenTypeFontsCache
 
 | Name | Description |
 | --- | --- |
-| static [UpdateCache](updatecache)() |  |
+| static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache)() |  |
 
 ### See Also
 

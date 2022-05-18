@@ -3,7 +3,7 @@ title: StringFormat
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5470
+weight: 5520
 url: /net/aspose.psd/stringformat/
 ---
 ## StringFormat class
@@ -26,25 +26,27 @@ public sealed class StringFormat : DisposableObject
 
 | Name | Description |
 | --- | --- |
-| static [GenericDefault](genericdefault) { get; } | Gets a generic default [`StringFormat`](../stringformat) object. |
-| static [GenericTypographic](generictypographic) { get; } | Gets a generic typographic [`StringFormat`](../stringformat) object. |
-| [Alignment](alignment) { get; set; } | Gets or sets text alignment information on the vertical plane. |
-| [DigitSubstitutionLanguage](digitsubstitutionlanguage) { get; set; } | Gets or sets the language that is used when local digits are substituted for western digits. |
-| [DigitSubstitutionMethod](digitsubstitutionmethod) { get; set; } | Gets or sets the method to be used for digit substitution. |
-| [FirstTabOffset](firsttaboffset) { get; } | Gets the number of spaces between the beginning of a line of text and the first tab stop. |
-| [FormatFlags](formatflags) { get; set; } | Gets or sets a [`StringFormatFlags`](../stringformatflags) enumeration that contains formatting information. |
-| [HotkeyPrefix](hotkeyprefix) { get; set; } | Gets or sets the [`HotkeyPrefix`](../hotkeyprefix) object for this [`StringFormat`](../stringformat) object. |
-| [LineAlignment](linealignment) { get; set; } | Gets or sets the line alignment on the horizontal plane. |
-| [TabStops](tabstops) { get; } | Gets an array of distances between tab stops in the units specified by the [`PageUnit`](../graphics/pageunit) property. |
-| [Trimming](trimming) { get; set; } | Gets or sets the [`StringTrimming`](../stringtrimming) enumeration for this [`StringFormat`](../stringformat) object. |
+| static [GenericDefault](../../aspose.psd/stringformat/genericdefault) { get; } | Gets a generic default [`StringFormat`](../stringformat) object. |
+| static [GenericTypographic](../../aspose.psd/stringformat/generictypographic) { get; } | Gets a generic typographic [`StringFormat`](../stringformat) object. |
+| [Alignment](../../aspose.psd/stringformat/alignment) { get; set; } | Gets or sets text alignment information on the vertical plane. |
+| [DigitSubstitutionLanguage](../../aspose.psd/stringformat/digitsubstitutionlanguage) { get; set; } | Gets or sets the language that is used when local digits are substituted for western digits. |
+| [DigitSubstitutionMethod](../../aspose.psd/stringformat/digitsubstitutionmethod) { get; set; } | Gets or sets the method to be used for digit substitution. |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Gets a value indicating whether this instance is disposed. |
+| [FirstTabOffset](../../aspose.psd/stringformat/firsttaboffset) { get; } | Gets the number of spaces between the beginning of a line of text and the first tab stop. |
+| [FormatFlags](../../aspose.psd/stringformat/formatflags) { get; set; } | Gets or sets a [`StringFormatFlags`](../stringformatflags) enumeration that contains formatting information. |
+| [HotkeyPrefix](../../aspose.psd/stringformat/hotkeyprefix) { get; set; } | Gets or sets the [`HotkeyPrefix`](../hotkeyprefix) object for this [`StringFormat`](../stringformat) object. |
+| [LineAlignment](../../aspose.psd/stringformat/linealignment) { get; set; } | Gets or sets the line alignment on the horizontal plane. |
+| [TabStops](../../aspose.psd/stringformat/tabstops) { get; } | Gets an array of distances between tab stops in the units specified by the [`PageUnit`](../graphics/pageunit) property. |
+| [Trimming](../../aspose.psd/stringformat/trimming) { get; set; } | Gets or sets the [`StringTrimming`](../stringtrimming) enumeration for this [`StringFormat`](../stringformat) object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [DeepClone](deepclone)() | Creates a deep clone of this [`StringFormat`](../stringformat) object. |
-| [SetTabStops](settabstops)(float, float[]) | Sets tab stops for this [`StringFormat`](../stringformat) object. |
-| override [ToString](tostring)() | Converts this [`StringFormat`](../stringformat) object to a human-readable string. |
+| [DeepClone](../../aspose.psd/stringformat/deepclone)() | Creates a deep clone of this [`StringFormat`](../stringformat) object. |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | Disposes the current instance. |
+| [SetTabStops](../../aspose.psd/stringformat/settabstops)(float, float[]) | Sets tab stops for this [`StringFormat`](../stringformat) object. |
+| override [ToString](../../aspose.psd/stringformat/tostring)() | Converts this [`StringFormat`](../stringformat) object to a human-readable string. |
 
 ### See Also
 

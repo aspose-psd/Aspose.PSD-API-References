@@ -3,7 +3,7 @@ title: PointExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1130
+weight: 1150
 url: /net/aspose.psd.extensions/pointextensions/
 ---
 ## PointExtensions class
@@ -18,9 +18,9 @@ public static class PointExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiPoint](togdipoint)(PointF) | Converts the [`PointF`](../../aspose.psd/pointf) to PointF. |
-| static [ToGdiPoints](togdipoints)(PointF[]) | Converts the [`PointF`](../../aspose.psd/pointf) array to the PointF array. |
-| static [ToPointsArray](topointsarray)(Point[]) | Converts the [`Point`](../../aspose.psd/point) array to the [`PointF`](../../aspose.psd/pointf) array. |
+| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint)(PointF) | Converts the [`PointF`](../../aspose.psd/pointf) to PointF. |
+| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints)(PointF[]) | Converts the [`PointF`](../../aspose.psd/pointf) array to the PointF array. |
+| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray)(Point[]) | Converts the [`Point`](../../aspose.psd/point) array to the [`PointF`](../../aspose.psd/pointf) array. |
 
 ### See Also
 

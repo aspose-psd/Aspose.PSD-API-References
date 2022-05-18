@@ -3,7 +3,7 @@ title: IObjectWithSizeF
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4820
+weight: 4870
 url: /net/aspose.psd.interfaces/iobjectwithsizef/
 ---
 ## IObjectWithSizeF interface
@@ -18,9 +18,9 @@ public interface IObjectWithSizeF
 
 | Name | Description |
 | --- | --- |
-| [HeightF](heightf) { get; } | Gets the object height, in inches. |
-| [SizeF](sizef) { get; } | Gets the object size, in inches. |
-| [WidthF](widthf) { get; } | Gets the object width, in inches. |
+| [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf) { get; } | Gets the object height, in inches. |
+| [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef) { get; } | Gets the object size, in inches. |
+| [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf) { get; } | Gets the object width, in inches. |
 
 ### See Also
 

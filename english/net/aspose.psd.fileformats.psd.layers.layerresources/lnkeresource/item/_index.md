@@ -14,9 +14,9 @@ Gets the [`LiFeDataSource`](../../lifedatasource) at the specified index.
 public LiFeDataSource this[int index] { get; }
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index |  | The index. |
+| Parameter | Description |
+| --- | --- |
+| index | The index. |
 
 ## Return Value
 

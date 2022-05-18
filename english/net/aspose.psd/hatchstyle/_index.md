@@ -3,7 +3,7 @@ title: HatchStyle
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4140
+weight: 4190
 url: /net/aspose.psd/hatchstyle/
 ---
 ## HatchStyle enumeration

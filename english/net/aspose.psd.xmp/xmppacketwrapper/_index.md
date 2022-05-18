@@ -3,7 +3,7 @@ title: XmpPacketWrapper
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 6090
+weight: 6140
 url: /net/aspose.psd.xmp/xmppacketwrapper/
 ---
 ## XmpPacketWrapper class
@@ -25,21 +25,21 @@ public class XmpPacketWrapper
 
 | Name | Description |
 | --- | --- |
-| [HeaderPi](headerpi) { get; } | Gets the header processing instruction. |
-| [Meta](meta) { get; set; } | Gets the XMP meta. Optional. |
-| [Packages](packages) { get; } | Gets array of [`XmpPackage`](../xmppackage) inside XMP. |
-| [PackagesCount](packagescount) { get; } | Gets amount of packages inside XMP structure. |
-| [TrailerPi](trailerpi) { get; } | Gets the trailer processing instruction. |
+| [HeaderPi](../../aspose.psd.xmp/xmppacketwrapper/headerpi) { get; } | Gets the header processing instruction. |
+| [Meta](../../aspose.psd.xmp/xmppacketwrapper/meta) { get; set; } | Gets the XMP meta. Optional. |
+| [Packages](../../aspose.psd.xmp/xmppacketwrapper/packages) { get; } | Gets array of [`XmpPackage`](../xmppackage) inside XMP. |
+| [PackagesCount](../../aspose.psd.xmp/xmppacketwrapper/packagescount) { get; } | Gets amount of packages inside XMP structure. |
+| [TrailerPi](../../aspose.psd.xmp/xmppacketwrapper/trailerpi) { get; } | Gets the trailer processing instruction. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddPackage](addpackage)(XmpPackage) | Adds the package. |
-| [ClearPackages](clearpackages)() | Removes all [`XmpPackage`](../xmppackage) inside XMP. |
-| [ContainsPackage](containspackage)(string) | Determines whethere package is exist in xmp wrapper. |
-| [GetPackage](getpackage)(string) | Gets package by namespace URI. |
-| [RemovePackage](removepackage)(XmpPackage) | Removes the XMP package. |
+| [AddPackage](../../aspose.psd.xmp/xmppacketwrapper/addpackage)(XmpPackage) | Adds the package. |
+| [ClearPackages](../../aspose.psd.xmp/xmppacketwrapper/clearpackages)() | Removes all [`XmpPackage`](../xmppackage) inside XMP. |
+| [ContainsPackage](../../aspose.psd.xmp/xmppacketwrapper/containspackage)(string) | Determines whethere package is exist in xmp wrapper. |
+| [GetPackage](../../aspose.psd.xmp/xmppacketwrapper/getpackage)(string) | Gets package by namespace URI. |
+| [RemovePackage](../../aspose.psd.xmp/xmppacketwrapper/removepackage)(XmpPackage) | Removes the XMP package. |
 
 ### Remarks
 

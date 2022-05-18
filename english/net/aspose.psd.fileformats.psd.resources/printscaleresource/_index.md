@@ -3,7 +3,7 @@ title: PrintScaleResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3650
+weight: 3700
 url: /net/aspose.psd.fileformats.psd.resources/printscaleresource/
 ---
 ## PrintScaleResource class
@@ -24,12 +24,23 @@ public sealed class PrintScaleResource : ResourceBlock
 
 | Name | Description |
 | --- | --- |
-| override [DataSize](datasize) { get; } | Gets the resource data size in bytes. |
-| override [MinimalVersion](minimalversion) { get; } | Gets the minimal required PSD version. |
-| [Scale](scale) { get; set; } | Gets or sets the scale. |
-| [Style](style) { get; set; } | Gets or sets the style. |
-| [XLocation](xlocation) { get; set; } | Gets or sets the x location. |
-| [YLocation](ylocation) { get; set; } | Gets or sets the y location. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/printscaleresource/datasize) { get; } | Gets the resource data size in bytes. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Gets or sets the unique identifier for the resource. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/printscaleresource/minimalversion) { get; } | Gets the minimal required PSD version. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Gets or sets the resource name. Pascal string, padded to make the size even (a null name consists of two bytes of 0). |
+| [Scale](../../aspose.psd.fileformats.psd.resources/printscaleresource/scale) { get; set; } | Gets or sets the scale. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Gets the resource signature. Should be always '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Gets the resource block size in bytes including its data. |
+| [Style](../../aspose.psd.fileformats.psd.resources/printscaleresource/style) { get; set; } | Gets or sets the style. |
+| [XLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/xlocation) { get; set; } | Gets or sets the x location. |
+| [YLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/ylocation) { get; set; } | Gets or sets the y location. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | Saves the resource block to the specified stream. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | Validates the resource values. |
 
 ### See Also
 

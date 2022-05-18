@@ -3,7 +3,7 @@ title: CompressorException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 410
+weight: 430
 url: /net/aspose.psd.coreexceptions/compressorexception/
 ---
 ## CompressorException class

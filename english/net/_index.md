@@ -37,6 +37,7 @@ is_root: true
 | [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](./aspose.psd.fileformats.psd.layers.fillsettings) | The namespace contains Fill Layers Settings |
 | [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](./aspose.psd.fileformats.psd.layers.layereffects) | The namespace contains Layer Effects wrappers |
 | [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](./aspose.psd.fileformats.psd.layers.layerresources) | The namespace contains PSD file format entities contained in layers. |
+| [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](./aspose.psd.fileformats.psd.layers.layerresources.lfx2resources) | The namespace contains [`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource) linked classes |
 | [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](./aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures) | The namespace contains PSD file format type tool resource entities. |
 | [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](./aspose.psd.fileformats.psd.layers.smartfilters) | The namespace contains PSD file format entities contained in layers. |
 | [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](./aspose.psd.fileformats.psd.layers.smartfilters.rendering) | The namespace contains PSD file format entities contained in layers. |

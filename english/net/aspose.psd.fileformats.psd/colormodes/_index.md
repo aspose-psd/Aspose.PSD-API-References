@@ -3,7 +3,7 @@ title: ColorModes
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1590
+weight: 1610
 url: /net/aspose.psd.fileformats.psd/colormodes/
 ---
 ## ColorModes enumeration

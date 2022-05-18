@@ -3,7 +3,7 @@ title: AudioChannelType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5640
+weight: 5690
 url: /net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 ---
 ## AudioChannelType class
@@ -18,18 +18,18 @@ public sealed class AudioChannelType
 
 | Name | Description |
 | --- | --- |
-| static [Audio16Channel](audio16channel) { get; } | Gets the 16 audio channel. |
-| static [Audio51](audio51) { get; } | Gets the 5.1 audio channel. |
-| static [Audio71](audio71) { get; } | Gets the 7.1 audio channel. |
-| static [Mono](mono) { get; } | Gets the mono audio channel. |
-| static [OtherChannel](otherchannel) { get; } | Gets the other channel. |
-| static [Stereo](stereo) { get; } | Gets the stereo audio channel. |
+| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel) { get; } | Gets the 16 audio channel. |
+| static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51) { get; } | Gets the 5.1 audio channel. |
+| static [Audio71](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71) { get; } | Gets the 7.1 audio channel. |
+| static [Mono](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono) { get; } | Gets the mono audio channel. |
+| static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel) { get; } | Gets the other channel. |
+| static [Stereo](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo) { get; } | Gets the stereo audio channel. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

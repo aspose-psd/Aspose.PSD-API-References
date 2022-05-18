@@ -3,7 +3,7 @@ title: ExifSubjectDistanceRange
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 930
+weight: 950
 url: /net/aspose.psd.exif.enums/exifsubjectdistancerange/
 ---
 ## ExifSubjectDistanceRange enumeration

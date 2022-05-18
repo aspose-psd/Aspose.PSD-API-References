@@ -18,6 +18,22 @@ public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 
 The created invert layer
 
+### Examples
+
+The following code demonstrates support for the InvertAdjustmentLayer and how to add InvertAdjustmentLayer.
+
+```csharp
+[C#]
+
+var filePath = "InvertStripes_before.psd";
+var outputPath = "InvertStripes_after.psd";
+using (var im = (PsdImage)Image.Load(filePath))
+{
+    im.AddInvertAdjustmentLayer();
+    im.Save(outputPath);
+}
+```
+
 ### See Also
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer)

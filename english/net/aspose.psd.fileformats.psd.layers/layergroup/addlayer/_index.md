@@ -18,6 +18,55 @@ public void AddLayer(Layer layer)
 | --- | --- | --- |
 | layer | Layer | The layer. |
 
+### Examples
+
+The following example demonstrates how you can add Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif images as layers to PsdImage
+
+```csharp
+[C#]
+
+string outputFilePath = "PsdResult.psd";
+
+var filesList = new string[]
+{
+    "PsdExample.psd",
+    "BmpExample.bmp",
+    "GifExample.gif",
+    "Jpeg2000Example.jpf",
+    "JpegExample.jpg",
+    "PngExample.png",
+    "TiffExample.tif",
+};
+
+using (var image = new PsdImage(200, 200))
+{
+    foreach (var fileName in filesList)
+    {
+        string filePath = fileName;
+        using (var stream = new FileStream(filePath, FileMode.Open))
+        {
+            Layer layer = null;
+            try
+            {
+                layer = new Layer(stream);
+                image.AddLayer(layer);
+            }
+            catch (Exception e)
+            {
+                if (layer != null)
+                {
+                    layer.Dispose();
+                }
+
+                throw e;
+            }
+        }
+    }
+
+    image.Save(outputFilePath);
+}
+```
+
 ### See Also
 
 * class [Layer](../../layer)

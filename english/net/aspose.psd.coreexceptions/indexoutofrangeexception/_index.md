@@ -3,7 +3,7 @@ title: IndexOutOFRangeException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 620
+weight: 640
 url: /net/aspose.psd.coreexceptions/indexoutofrangeexception/
 ---
 ## IndexOutOFRangeException class

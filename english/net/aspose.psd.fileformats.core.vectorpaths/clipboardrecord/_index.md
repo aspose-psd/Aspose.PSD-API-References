@@ -3,7 +3,7 @@ title: ClipboardRecord
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1320
+weight: 1340
 url: /net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/
 ---
 ## ClipboardRecord class
@@ -25,9 +25,9 @@ public class ClipboardRecord : VectorPathRecord
 
 | Name | Description |
 | --- | --- |
-| [BoundingRect](boundingrect) { get; set; } | Gets or sets the bounding rect. |
-| [Resolution](resolution) { get; set; } | Gets or sets the resolution. |
-| override [Type](type) { get; } | Gets the type. |
+| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect) { get; set; } | Gets or sets the bounding rect. |
+| [Resolution](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution) { get; set; } | Gets or sets the resolution. |
+| override [Type](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type) { get; } | Gets the type. |
 
 ### See Also
 

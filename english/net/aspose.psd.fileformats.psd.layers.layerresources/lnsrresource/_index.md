@@ -3,7 +3,7 @@ title: LnsrResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2620
+weight: 2670
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
 ## LnsrResource class
@@ -25,18 +25,19 @@ public class LnsrResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| [Data](data) { get; } | Gets the raw data. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the signature. |
-| [Value](value) { get; } | Gets the value as LnsrResourceType if corresponding enum is described. Otherwise return Unknown |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data) { get; } | Gets the raw data. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature) { get; } | Gets the signature. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value) { get; } | Gets the value as LnsrResourceType if corresponding enum is described. Otherwise return Unknown |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save)(StreamContainer, int) | Saves the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

@@ -3,7 +3,7 @@ title: VectorPathRecord
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1380
+weight: 1400
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/
 ---
 ## VectorPathRecord class
@@ -18,7 +18,7 @@ public abstract class VectorPathRecord
 
 | Name | Description |
 | --- | --- |
-| abstract [Type](type) { get; } | Gets the type. |
+| abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type) { get; } | Gets the type. |
 
 ### See Also
 

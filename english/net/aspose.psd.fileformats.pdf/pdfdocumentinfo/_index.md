@@ -3,7 +3,7 @@ title: PdfDocumentInfo
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1550
+weight: 1570
 url: /net/aspose.psd.fileformats.pdf/pdfdocumentinfo/
 ---
 ## PdfDocumentInfo class
@@ -24,10 +24,10 @@ public class PdfDocumentInfo
 
 | Name | Description |
 | --- | --- |
-| [Author](author) { get; set; } | Gets or sets author of the document. |
-| [Keywords](keywords) { get; set; } | Gets or sets keywords of the document. |
-| [Subject](subject) { get; set; } | Gets or sets subject of the document. |
-| [Title](title) { get; set; } | Gets or sets title of the document. |
+| [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author) { get; set; } | Gets or sets author of the document. |
+| [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords) { get; set; } | Gets or sets keywords of the document. |
+| [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject) { get; set; } | Gets or sets subject of the document. |
+| [Title](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/title) { get; set; } | Gets or sets title of the document. |
 
 ### See Also
 

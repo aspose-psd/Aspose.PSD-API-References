@@ -3,7 +3,7 @@ title: ColorType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5800
+weight: 5850
 url: /net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
 ## ColorType enumeration

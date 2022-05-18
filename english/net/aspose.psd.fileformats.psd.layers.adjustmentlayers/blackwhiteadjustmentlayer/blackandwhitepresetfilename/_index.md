@@ -18,6 +18,36 @@ public string BlackAndWhitePresetFileName { get; set; }
 
 The black and white preset file name.
 
+### Examples
+
+The following example demonstrates how you can manipulate the black white adjustment layer properties in Aspose.PSD
+
+```csharp
+[C#]
+
+sourceFileName = "BlackWhiteAdjustmentLayerStripesMask.psd";
+outputFileName = "OutputBlackWhiteAdjustmentLayerStripesMask.psd";
+using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+{
+    var blwhLayer = (BlackWhiteAdjustmentLayer)image.Layers[1];
+
+    blwhLayer.Reds = 15;
+    blwhLayer.Yellows = 25;
+    blwhLayer.Greens = 35;
+    blwhLayer.Cyans = 10;
+    blwhLayer.Blues = 50;
+    blwhLayer.Magentas = 105;
+    blwhLayer.UseTint = true;
+    blwhLayer.BwPresetKind = 4;
+    blwhLayer.BlackAndWhitePresetFileName = "bwPresetFileName";
+    blwhLayer.TintColorRed = 60;
+    blwhLayer.TintColorGreen = 80;
+    blwhLayer.TintColorBlue = 200;
+
+    image.Save(outputFileName, new PsdOptions());
+}
+```
+
 ### See Also
 
 * class [BlackWhiteAdjustmentLayer](../../blackwhiteadjustmentlayer)

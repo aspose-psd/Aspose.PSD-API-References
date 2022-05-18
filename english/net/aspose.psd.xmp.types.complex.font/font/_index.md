@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5870
+weight: 5920
 url: /net/aspose.psd.xmp.types.complex.font/font/
 ---
 ## Font class
@@ -25,20 +25,22 @@ public sealed class Font : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [ChildFontFiles](childfontfiles) { get; set; } | Gets or sets the array of file names for the fonts that make up a composite font. |
-| [FontFace](fontface) { get; set; } | Gets or sets the font face. |
-| [FontFamily](fontfamily) { get; set; } | Gets or sets the font family. |
-| [FontFileName](fontfilename) { get; set; } | Gets or sets the font file name without full path. |
-| [FontName](fontname) { get; set; } | Gets or sets the PostScript font name. |
-| [FontType](fonttype) { get; set; } | Gets or sets the font type. |
-| [IsComposite](iscomposite) { get; set; } | Gets or sets a value indicating whether this font is composite. |
-| [Version](version) { get; set; } | Gets or sets the font version. |
+| [ChildFontFiles](../../aspose.psd.xmp.types.complex.font/font/childfontfiles) { get; set; } | Gets or sets the array of file names for the fonts that make up a composite font. |
+| [FontFace](../../aspose.psd.xmp.types.complex.font/font/fontface) { get; set; } | Gets or sets the font face. |
+| [FontFamily](../../aspose.psd.xmp.types.complex.font/font/fontfamily) { get; set; } | Gets or sets the font family. |
+| [FontFileName](../../aspose.psd.xmp.types.complex.font/font/fontfilename) { get; set; } | Gets or sets the font file name without full path. |
+| [FontName](../../aspose.psd.xmp.types.complex.font/font/fontname) { get; set; } | Gets or sets the PostScript font name. |
+| [FontType](../../aspose.psd.xmp.types.complex.font/font/fonttype) { get; set; } | Gets or sets the font type. |
+| [IsComposite](../../aspose.psd.xmp.types.complex.font/font/iscomposite) { get; set; } | Gets or sets a value indicating whether this font is composite. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | Gets the default namespace URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | Gets the prefix. |
+| [Version](../../aspose.psd.xmp.types.complex.font/font/version) { get; set; } | Gets or sets the font version. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.font/font/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

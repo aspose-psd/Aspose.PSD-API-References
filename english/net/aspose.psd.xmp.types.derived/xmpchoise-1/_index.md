@@ -1,9 +1,9 @@
 ---
-title: XmpChoise<T>
+title: XmpChoiseT
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5950
+weight: 6000
 url: /net/aspose.psd.xmp.types.derived/xmpchoise-1/
 ---
 ## XmpChoise&lt;T&gt; class
@@ -14,9 +14,9 @@ Represents a value from vocabulary of values.
 public class XmpChoise<T> : XmpTypeBase
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| T |  | The type of elements. |
+| Parameter | Description |
+| --- | --- |
+| T | The type of elements. |
 
 ## Constructors
 
@@ -28,13 +28,13 @@ public class XmpChoise<T> : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [IsOpen](isopen) { get; set; } | Gets or sets a value indicating whether the preferred values can be extended. |
+| [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise`1/isopen) { get; set; } | Gets or sets a value indicating whether the preferred values can be extended. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise`1/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

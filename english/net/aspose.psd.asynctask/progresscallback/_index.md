@@ -3,7 +3,7 @@ title: ProgressCallback
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.psd.asynctask/progresscallback/
 ---
 ## ProgressCallback delegate

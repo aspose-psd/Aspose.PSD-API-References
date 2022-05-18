@@ -3,7 +3,7 @@ title: TypeToolFontInfo
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2900
+weight: 2950
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/
 ---
 ## TypeToolFontInfo class
@@ -24,21 +24,21 @@ public class TypeToolFontInfo
 
 | Name | Description |
 | --- | --- |
-| [DesignAxes](designaxes) { get; set; } | Gets or sets the design axes vector to follow. |
-| [DesignVectorValue](designvectorvalue) { get; set; } | Gets or sets the design vector value. |
-| [FontFamily](fontfamily) { get; set; } | Gets or sets the font family. |
-| [FontName](fontname) { get; set; } | Gets or sets the font name. |
-| [FontStyle](fontstyle) { get; set; } | Gets or sets the font style name. |
-| [FontTypeData](fonttypedata) { get; set; } | Gets or sets the font type data. |
-| [Length](length) { get; } | Gets the length. |
-| [MarkValue](markvalue) { get; set; } | Gets or sets the mark value. |
-| [ScriptValue](scriptvalue) { get; set; } | Gets or sets the script value. |
+| [DesignAxes](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes) { get; set; } | Gets or sets the design axes vector to follow. |
+| [DesignVectorValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue) { get; set; } | Gets or sets the design vector value. |
+| [FontFamily](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily) { get; set; } | Gets or sets the font family. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontname) { get; set; } | Gets or sets the font name. |
+| [FontStyle](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontstyle) { get; set; } | Gets or sets the font style name. |
+| [FontTypeData](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fonttypedata) { get; set; } | Gets or sets the font type data. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length) { get; } | Gets the length. |
+| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/markvalue) { get; set; } | Gets or sets the mark value. |
+| [ScriptValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue) { get; set; } | Gets or sets the script value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Save](save)(StreamContainer) | Saves the [`TypeToolFontInfo`](../typetoolfontinfo) information to the specified stream container. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save)(StreamContainer) | Saves the [`TypeToolFontInfo`](../typetoolfontinfo) information to the specified stream container. |
 
 ### See Also
 

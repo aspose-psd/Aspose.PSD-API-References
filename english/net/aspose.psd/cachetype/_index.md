@@ -3,7 +3,7 @@ title: CacheType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.psd/cachetype/
 ---
 ## CacheType enumeration

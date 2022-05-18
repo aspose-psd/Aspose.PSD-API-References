@@ -3,7 +3,7 @@ title: RotateFlipType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5200
+weight: 5250
 url: /net/aspose.psd/rotatefliptype/
 ---
 ## RotateFlipType enumeration

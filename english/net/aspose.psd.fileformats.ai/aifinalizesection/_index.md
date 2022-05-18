@@ -3,7 +3,7 @@ title: AiFinalizeSection
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1210
+weight: 1230
 url: /net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
 ## AiFinalizeSection class
@@ -13,6 +13,12 @@ The Ai format Finalize Section
 ```csharp
 public sealed class AiFinalizeSection : AiSection
 ```
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata)() | Gets the string data. |
 
 ### See Also
 

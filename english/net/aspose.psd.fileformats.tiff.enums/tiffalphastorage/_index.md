@@ -3,7 +3,7 @@ title: TiffAlphaStorage
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3830
+weight: 3880
 url: /net/aspose.psd.fileformats.tiff.enums/tiffalphastorage/
 ---
 ## TiffAlphaStorage enumeration

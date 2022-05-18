@@ -3,7 +3,7 @@ title: JpegCompressionColorMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1470
+weight: 1490
 url: /net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 ---
 ## JpegCompressionColorMode enumeration

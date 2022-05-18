@@ -3,7 +3,7 @@ title: LuniResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2670
+weight: 2720
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/
 ---
 ## LuniResource class
@@ -24,17 +24,18 @@ public class LuniResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [Name](name) { get; set; } | Gets or sets the name. |
-| override [PsdVersion](psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](signature) { get; } | Gets the layer resource signature. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/length) { get; } | Gets the layer resource length in bytes. |
+| [Name](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/name) { get; set; } | Gets or sets the name. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/signature) { get; } | Gets the layer resource signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/save)(StreamContainer, int) | Saves the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

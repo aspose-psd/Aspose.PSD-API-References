@@ -3,7 +3,7 @@ title: RdOptimizationError
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 650
+weight: 670
 url: /net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
 ## RdOptimizationError class

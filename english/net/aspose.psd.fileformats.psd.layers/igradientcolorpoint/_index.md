@@ -3,7 +3,7 @@ title: IGradientColorPoint
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1970
+weight: 2000
 url: /net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
 ## IGradientColorPoint interface
@@ -18,9 +18,9 @@ public interface IGradientColorPoint
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; set; } | Gets or sets the color. |
-| [Location](location) { get; set; } | Gets or sets the location. |
-| [MedianPointLocation](medianpointlocation) { get; set; } | Gets or sets the median point location. |
+| [Color](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/color) { get; set; } | Gets or sets the color. |
+| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location) { get; set; } | Gets or sets the location. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation) { get; set; } | Gets or sets the median point location. |
 
 ### See Also
 

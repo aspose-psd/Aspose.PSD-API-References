@@ -3,7 +3,7 @@ title: Image.ImageOperation
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4400
+weight: 4450
 url: /net/aspose.psd/image.imageoperation/
 ---
 ## Image.ImageOperation enumeration

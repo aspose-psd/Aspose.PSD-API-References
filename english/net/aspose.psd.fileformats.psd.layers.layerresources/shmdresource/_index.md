@@ -3,7 +3,7 @@ title: ShmdResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2830
+weight: 2880
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 ---
 ## ShmdResource class
@@ -25,17 +25,18 @@ public class ShmdResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| [LayerCreatedDateTime](layercreateddatetime) { get; set; } | Gets or sets the layer created time. If Layer created time not specified then returns new DateTime(0) |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the signature. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/key) { get; } | Gets the layer resource key. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime) { get; set; } | Gets or sets the layer created time. If Layer created time not specified then returns new DateTime(0) |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/signature) { get; } | Gets the signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save)(StreamContainer, int) | Saves the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

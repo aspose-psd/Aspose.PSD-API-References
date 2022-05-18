@@ -3,7 +3,7 @@ title: BooleanResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2210
+weight: 2250
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/
 ---
 ## BooleanResource class
@@ -18,15 +18,17 @@ public abstract class BooleanResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the signature. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature) { get; } | Gets the signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save)(StreamContainer, int) | Saves the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

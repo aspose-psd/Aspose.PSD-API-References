@@ -3,7 +3,7 @@ title: RawDataSettings
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5130
+weight: 5180
 url: /net/aspose.psd/rawdatasettings/
 ---
 ## RawDataSettings class
@@ -24,13 +24,13 @@ public class RawDataSettings
 
 | Name | Description |
 | --- | --- |
-| [ColorPalette](colorpalette) { get; set; } | Gets or sets the color palette |
-| [CustomColorConverter](customcolorconverter) { get; set; } | Gets or sets the custom color converter |
-| [DitheringMethod](ditheringmethod) { get; set; } | Gets or sets the dithering method to use for raw data conversion |
-| [FallbackIndex](fallbackindex) { get; set; } | Gets or sets the fallback index to use when palette index is out of bounds |
-| [IndexedColorConverter](indexedcolorconverter) { get; set; } | Gets or sets the indexed color converter |
-| [LineSize](linesize) { get; set; } | Gets or sets the pixels line size in bytes for raw data processing |
-| [PixelDataFormat](pixeldataformat) { get; set; } | Gets or sets the pixel data format |
+| [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette) { get; set; } | Gets or sets the color palette |
+| [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter) { get; set; } | Gets or sets the custom color converter |
+| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod) { get; set; } | Gets or sets the dithering method to use for raw data conversion |
+| [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex) { get; set; } | Gets or sets the fallback index to use when palette index is out of bounds |
+| [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter) { get; set; } | Gets or sets the indexed color converter |
+| [LineSize](../../aspose.psd/rawdatasettings/linesize) { get; set; } | Gets or sets the pixels line size in bytes for raw data processing |
+| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat) { get; set; } | Gets or sets the pixel data format |
 
 ### See Also
 

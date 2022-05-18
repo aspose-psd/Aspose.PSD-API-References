@@ -3,7 +3,7 @@ title: ResourceRef
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5890
+weight: 5940
 url: /net/aspose.psd.xmp.types.complex.resourceref/resourceref/
 ---
 ## ResourceRef class
@@ -24,10 +24,18 @@ public sealed class ResourceRef : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [AlternatePaths](alternatepaths) { get; set; } | Gets or sets the array of alternate path. |
-| [DocumentUri](documenturi) { get; set; } | Gets or sets the document URI. |
-| [FilePathUri](filepathuri) { get; set; } | Gets or sets the file path URI. |
-| [InstanceId](instanceid) { get; set; } | Gets or sets the instance identifier. |
+| [AlternatePaths](../../aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths) { get; set; } | Gets or sets the array of alternate path. |
+| [DocumentUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi) { get; set; } | Gets or sets the document URI. |
+| [FilePathUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri) { get; set; } | Gets or sets the file path URI. |
+| [InstanceId](../../aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid) { get; set; } | Gets or sets the instance identifier. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | Gets the default namespace URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | Gets the prefix. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

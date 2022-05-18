@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4880
+weight: 4930
 url: /net/aspose.psd/loadoptions/
 ---
 ## LoadOptions class
@@ -24,11 +24,11 @@ public class LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [BufferSizeHint](buffersizehint) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
-| [DataBackgroundColor](databackgroundcolor) { get; set; } | Gets or sets the [`Image`](../image) background [`Color`](../color). |
-| [DataRecoveryMode](datarecoverymode) { get; set; } | Gets or sets the data recovery mode. |
-| [ProgressEventHandler](progresseventhandler) { get; set; } | Gets or sets the progress event handler. |
-| [UseIccProfileConversion](useiccprofileconversion) { get; set; } | Gets or sets a value indicating whether ICC profile conversion should be applied. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor) { get; set; } | Gets or sets the [`Image`](../image) background [`Color`](../color). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode) { get; set; } | Gets or sets the data recovery mode. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler) { get; set; } | Gets or sets the progress event handler. |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion) { get; set; } | Gets or sets a value indicating whether ICC profile conversion should be applied. |
 
 ### See Also
 

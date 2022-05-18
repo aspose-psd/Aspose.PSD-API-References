@@ -3,7 +3,7 @@ title: UnknownSmartFilter
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3300
+weight: 3350
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/
 ---
 ## UnknownSmartFilter class
@@ -18,8 +18,20 @@ public sealed class UnknownSmartFilter : SmartFilter
 
 | Name | Description |
 | --- | --- |
-| override [FilterId](filterid) { get; } | Gets the smart filter type identifier. |
-| override [Name](name) { get; } | Gets the smart filter name. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode) { get; set; } | Gets or sets the blending mode. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid) { get; } | Gets the smart filter type identifier. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | Gets or sets the is enabled status of the smart filter. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name) { get; } | Gets the smart filter name. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity) { get; set; } | Gets or sets the opacity value of smart filter. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | The source descriptor structure with smart filter data. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | Applies the current filter to input [`RasterImage`](../../aspose.psd/rasterimage) image. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | Applies the current filter to input [`Layer`](../../aspose.psd.fileformats.psd.layers/layer) mask data. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | Makes the memberwise clone of the current instance of the type. |
 
 ### See Also
 

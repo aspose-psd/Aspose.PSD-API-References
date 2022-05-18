@@ -3,7 +3,7 @@ title: Time
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5680
+weight: 5730
 url: /net/aspose.psd.xmp.schemas.xmpdm/time/
 ---
 ## Time class
@@ -24,14 +24,14 @@ public sealed class Time : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Scale](scale) { get; set; } | Gets or sets scale for the time value. |
-| [Value](value) { get; set; } | Gets or sets time value in the specified scale. |
+| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale) { get; set; } | Gets or sets scale for the time value. |
+| [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value) { get; set; } | Gets or sets time value in the specified scale. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

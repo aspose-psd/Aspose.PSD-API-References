@@ -3,7 +3,7 @@ title: IntRange
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4810
+weight: 4860
 url: /net/aspose.psd/intrange/
 ---
 ## IntRange class
@@ -26,14 +26,14 @@ public class IntRange
 
 | Name | Description |
 | --- | --- |
-| [Range](range) { get; set; } | Gets or sets the range. |
+| [Range](../../aspose.psd/intrange/range) { get; set; } | Gets or sets the range. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetArrayOneItemFromIndex](getarrayoneitemfromindex)(int) | Returns one item array from specified index |
-| static [GetRange](getrange)(int, int, int) | Gets the count range of int elements starting at start |
+| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex)(int) | Returns one item array from specified index |
+| static [GetRange](../../aspose.psd/intrange/getrange)(int, int, int) | Gets the count range of int elements starting at start |
 
 ### See Also
 

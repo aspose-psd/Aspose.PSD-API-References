@@ -8,9 +8,17 @@ url: /net/aspose.psd/rasterimage/resize/
 ---
 ## RasterImage.Resize method (1 of 2)
 
+Resizes the image.
+
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newWidth | Int32 | The new width. |
+| newHeight | Int32 | The new height. |
+| resizeType | ResizeType | The resize type. |
 
 ### See Also
 
@@ -23,9 +31,17 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 ## RasterImage.Resize method (2 of 2)
 
+Resizes the image with extended options.
+
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newWidth | Int32 | The new width. |
+| newHeight | Int32 | The new height. |
+| settings | ImageResizeSettings | The resize settings. |
 
 ### See Also
 

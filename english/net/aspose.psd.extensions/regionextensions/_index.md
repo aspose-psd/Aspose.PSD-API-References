@@ -3,7 +3,7 @@ title: RegionExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1150
+weight: 1170
 url: /net/aspose.psd.extensions/regionextensions/
 ---
 ## RegionExtensions class
@@ -18,7 +18,7 @@ public static class RegionExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiRegion](togdiregion)(Region) |  |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion)(Region) | Converts the [`Region`](../../aspose.psd/region) to the Region. |
 
 ### See Also
 

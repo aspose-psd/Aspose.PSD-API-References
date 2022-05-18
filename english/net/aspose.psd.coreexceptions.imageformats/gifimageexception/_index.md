@@ -3,7 +3,7 @@ title: GifImageException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 500
+weight: 520
 url: /net/aspose.psd.coreexceptions.imageformats/gifimageexception/
 ---
 ## GifImageException class

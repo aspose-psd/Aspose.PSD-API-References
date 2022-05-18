@@ -3,7 +3,7 @@ title: JFIFData
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1450
+weight: 1470
 url: /net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
 ## JFIFData class
@@ -24,11 +24,11 @@ public sealed class JFIFData
 
 | Name | Description |
 | --- | --- |
-| [DensityUnits](densityunits) { get; set; } | Gets or sets the density units. |
-| [Thumbnail](thumbnail) { get; set; } | Gets or sets the thumbnail. |
-| [Version](version) { get; set; } | Gets or sets the version. |
-| [XDensity](xdensity) { get; set; } | Gets or sets the x density. |
-| [YDensity](ydensity) { get; set; } | Gets or sets the y density. |
+| [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits) { get; set; } | Gets or sets the density units. |
+| [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail) { get; set; } | Gets or sets the thumbnail. |
+| [Version](../../aspose.psd.fileformats.jpeg/jfifdata/version) { get; set; } | Gets or sets the version. |
+| [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity) { get; set; } | Gets or sets the x density. |
+| [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity) { get; set; } | Gets or sets the y density. |
 
 ### See Also
 

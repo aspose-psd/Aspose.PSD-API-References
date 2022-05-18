@@ -3,7 +3,7 @@ title: BmpImageException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 490
+weight: 510
 url: /net/aspose.psd.coreexceptions.imageformats/bmpimageexception/
 ---
 ## BmpImageException class

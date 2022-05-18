@@ -3,7 +3,7 @@ title: FileFormat
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1190
+weight: 1210
 url: /net/aspose.psd/fileformat/
 ---
 ## FileFormat enumeration

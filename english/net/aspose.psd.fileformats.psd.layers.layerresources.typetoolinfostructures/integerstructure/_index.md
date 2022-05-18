@@ -3,7 +3,7 @@ title: IntegerStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3000
+weight: 3050
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/
 ---
 ## IntegerStructure class
@@ -24,9 +24,24 @@ public sealed class IntegerStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
-| [Value](value) { get; set; } | Gets or sets an integer value. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/key) { get; } | Gets the key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value) { get; set; } | Gets or sets an integer value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [StructureKey](structurekey) | The integer structure key. |
 
 ### See Also
 

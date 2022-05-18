@@ -3,7 +3,7 @@ title: StringFormatFlags
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5480
+weight: 5530
 url: /net/aspose.psd/stringformatflags/
 ---
 ## StringFormatFlags enumeration

@@ -3,7 +3,7 @@ title: XmpHeaderPi
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 6050
+weight: 6100
 url: /net/aspose.psd.xmp/xmpheaderpi/
 ---
 ## XmpHeaderPi class
@@ -25,16 +25,16 @@ public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [Guid](guid) { get; set; } | Represents Header Guid. |
+| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid) { get; set; } | Represents Header Guid. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| [Equals](equals)(XmpHeaderPi) | Indicates whether the current object is equal to another object of the same type. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| [GetXmlValue](getxmlvalue)() | Converts XMP value to the XML representation. |
+| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals)(XmpHeaderPi) | Indicates whether the current object is equal to another object of the same type. |
+| override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode)() | Returns a hash code for this instance. |
+| [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue)() | Converts XMP value to the XML representation. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: FXidResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2340
+weight: 2380
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
 ## FXidResource class
@@ -24,18 +24,19 @@ public sealed class FXidResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| [FilterEffectMasks](filtereffectmasks) { get; } | Gets the filter effect masks. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](signature) { get; } | Gets the layer resource signature. |
-| [Version](version) { get; } | Gets the version. |
+| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks) { get; } | Gets the filter effect masks. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/signature) { get; } | Gets the layer resource signature. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version) { get; } | Gets the version. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 
@@ -43,6 +44,53 @@ public sealed class FXidResource : LayerResource
 | --- | --- |
 | const [FEidTypeToolKey](feidtypetoolkey) | The type tool info key FEid. |
 | const [FXidTypeToolKey](fxidtypetoolkey) | The type tool info key FXid. |
+
+### Examples
+
+This example demonstrates how to get and set properties of the FXidResource resource.
+
+```csharp
+[C#]
+
+string inputFilePath = "psdnet414_3.psd";
+string output = "out_psdnet414_3.psd";
+
+int resLength = 1144;
+int maskLength = 369;
+
+void AssertAreEqual(object expected, object actual, string message = null)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new FormatException(message ?? "Objects are not equal.");
+    }
+}
+
+using (var psdImage = (PsdImage)Image.Load(inputFilePath))
+{
+    FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
+
+    AssertAreEqual(resLength, fXidResource.Length);
+    foreach (var maskData in fXidResource.FilterEffectMasks)
+    {
+        AssertAreEqual(maskLength, maskData.Length);
+    }
+
+    psdImage.Save(output);
+}
+
+// check after saving
+using (var psdImage = (PsdImage)Image.Load(output))
+{
+    FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
+
+    AssertAreEqual(resLength, fXidResource.Length);
+    foreach (var maskData in fXidResource.FilterEffectMasks)
+    {
+        AssertAreEqual(maskLength, maskData.Length);
+    }
+}
+```
 
 ### See Also
 

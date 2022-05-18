@@ -106,6 +106,52 @@ public ClassID(string classID, bool isZeroLength)
 | classID | String | The class ID in ASCII encoding. |
 | isZeroLength | Boolean | if set to `true` [is zero length]. |
 
+### Examples
+
+This example demonstrates that that the layer, imported from an image, is converted to smart object layer and the saved PSD file is correct.
+
+```csharp
+[C#]
+
+// Tests that the layer, imported from an image, is converted to smart object layer and the saved PSD file is correct.
+
+string outputFilePath = outputFolder + @"\layerTest2.psd";
+string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
+using (PsdImage image = (PsdImage)Image.Load(baseFolder + @"\layerTest1.psd"))
+{
+    string layerFilePath = baseFolder + @"\picture.jpg";
+    using (var stream = new FileStream(layerFilePath, FileMode.Open))
+    {
+        Layer layer = null;
+        try
+        {
+            layer = new Layer(stream);
+            image.AddLayer(layer);
+        }
+        catch (Exception)
+        {
+            if (layer != null)
+            {
+                layer.Dispose();
+            }
+
+            throw;
+        }
+
+        var layer2 = image.Layers[2];
+        var layer3 = image.SmartObjectProvider.ConvertToSmartObject(image.Layers.Length - 1);
+        var bounds = layer3.Bounds;
+        layer3.Left = (image.Width - layer3.Width) / 2;
+        layer3.Top = layer2.Top;
+        layer3.Right = layer3.Left + bounds.Width;
+        layer3.Bottom = layer3.Top + bounds.Height;
+
+        image.Save(outputFilePath);
+        image.Save(outputPngFilePath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+    }
+}
+```
+
 ### See Also
 
 * class [ClassID](../../classid)

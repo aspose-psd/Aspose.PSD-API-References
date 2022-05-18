@@ -3,7 +3,7 @@ title: XmpMimeType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5980
+weight: 6030
 url: /net/aspose.psd.xmp.types.derived/xmpmimetype/
 ---
 ## XmpMimeType class
@@ -19,6 +19,18 @@ public sealed class XmpMimeType : XmpText
 | Name | Description |
 | --- | --- |
 | [XmpMimeType](xmpmimetype)(string) | Initializes a new instance of the [`XmpMimeType`](../xmpmimetype) class. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value) { get; set; } | Gets or sets the text value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### Remarks
 

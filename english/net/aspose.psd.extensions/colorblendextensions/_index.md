@@ -3,7 +3,7 @@ title: ColorBlendExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1020
+weight: 1040
 url: /net/aspose.psd.extensions/colorblendextensions/
 ---
 ## ColorBlendExtensions class
@@ -18,7 +18,7 @@ public static class ColorBlendExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiColorBlend](togdicolorblend)(ColorBlend) |  |
+| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend)(ColorBlend) | Converts the [`ColorBlend`](../../aspose.psd/colorblend) to ColorBlend. |
 
 ### See Also
 

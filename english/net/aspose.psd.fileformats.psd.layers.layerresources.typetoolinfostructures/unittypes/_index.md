@@ -3,7 +3,7 @@ title: UnitTypes
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3110
+weight: 3160
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/
 ---
 ## UnitTypes enumeration

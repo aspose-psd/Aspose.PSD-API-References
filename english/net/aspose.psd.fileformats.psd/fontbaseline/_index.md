@@ -3,7 +3,7 @@ title: FontBaseline
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1610
+weight: 1630
 url: /net/aspose.psd.fileformats.psd/fontbaseline/
 ---
 ## FontBaseline enumeration

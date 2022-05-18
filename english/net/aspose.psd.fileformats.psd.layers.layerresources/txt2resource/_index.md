@@ -3,7 +3,7 @@ title: Txt2Resource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2890
+weight: 2940
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/
 ---
 ## Txt2Resource class
@@ -24,19 +24,20 @@ public class Txt2Resource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| [Data](data) { get; set; } | Gets or sets the data. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](signature) { get; } | Gets the layer resource signature. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data) { get; set; } | Gets or sets the data. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/signature) { get; } | Gets the layer resource signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddTextRecord](addtextrecord)(string, RectangleF) | Adds the text record to Resource and returns id of text record. |
-| [GetTextData](gettextdata)() | Gets the text record from resource data. |
-| override [Save](save)(StreamContainer, int) | Saves the specified stream container. |
+| [AddTextRecord](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord)(string, RectangleF) | Adds the text record to Resource and returns id of text record. |
+| [GetTextData](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata)() | Gets the text record from resource data. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/save)(StreamContainer, int) | Saves the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

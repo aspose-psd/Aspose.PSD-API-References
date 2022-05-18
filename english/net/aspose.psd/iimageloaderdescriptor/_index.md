@@ -3,7 +3,7 @@ title: IImageLoaderDescriptor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4260
+weight: 4310
 url: /net/aspose.psd/iimageloaderdescriptor/
 ---
 ## IImageLoaderDescriptor interface
@@ -18,8 +18,8 @@ public interface IImageLoaderDescriptor : IImageDescriptor
 
 | Name | Description |
 | --- | --- |
-| [CanLoad](canload)(StreamContainer, LoadOptions) | Determines whether image loader can read a new image from the specified stream and optionally using the *loadOptions*. |
-| [CreateInstance](createinstance)() | Creates a new loader instance. |
+| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload)(StreamContainer, LoadOptions) | Determines whether image loader can read a new image from the specified stream and optionally using the *loadOptions*. |
+| [CreateInstance](../../aspose.psd/iimageloaderdescriptor/createinstance)() | Creates a new loader instance. |
 
 ### See Also
 

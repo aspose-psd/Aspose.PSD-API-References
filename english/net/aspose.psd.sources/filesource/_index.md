@@ -3,7 +3,7 @@ title: FileSource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5410
+weight: 5460
 url: /net/aspose.psd.sources/filesource/
 ---
 ## FileSource class
@@ -18,7 +18,13 @@ public abstract class FileSource : Source
 
 | Name | Description |
 | --- | --- |
-| abstract [IsTemporal](istemporal) { get; } | Gets a value indicating whether file will be temporal. |
+| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal) { get; } | Gets a value indicating whether file will be temporal. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer)() | Gets the stream container. |
 
 ### See Also
 

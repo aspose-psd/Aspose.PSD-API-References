@@ -3,7 +3,7 @@ title: SoCoResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2860
+weight: 2910
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
 ## SoCoResource class
@@ -24,23 +24,73 @@ public class SoCoResource : FillLayerResource
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; set; } | Gets the RGB color . |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](signature) { get; } | Gets the layer resource signature. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color) { get; set; } | Gets the RGB color . |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature) { get; } | Gets the layer resource signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
 | const [TypeToolKey](typetoolkey) | The type tool info key. |
+
+### Examples
+
+The following example demonstrates how you edit SoCoResource (Layer Resource for Color Fill Layer)
+
+```csharp
+[C#]
+
+string sourceFile = "ColorFillLayer.psd";
+string outputFile = "SoCoResource_Edited.psd";
+
+// Load an existing image into an instance of PsdImage class
+var im = (PsdImage)Image.Load(sourceFile);
+
+using (im)
+{
+    foreach (var layer in im.Layers)
+    {
+        // Finding of FillLayer
+        if (layer is FillLayer)
+        {
+            var fillLayer = (FillLayer)layer;
+            foreach (var resource in fillLayer.Resources)
+            {
+                // Finding of SoCoResource in Layer Resource List
+                if (resource is SoCoResource)
+                {
+                    var socoResource = (SoCoResource)resource;
+                    var expectedColor = Color.FromArgb(63, 83, 141);
+                    
+                    if ((expectedColor.R != socoResource.Color.R) ||
+                        (expectedColor.G != socoResource.Color.G) ||
+                        (expectedColor.B != socoResource.Color.B) ||
+                        (expectedColor.A != socoResource.Color.A))
+                    {
+                        throw new Exception("Unexpected color");
+                    }
+
+                    // Setting the SoCoResource Color property
+                    socoResource.Color = Color.Red;
+                    break;
+                }
+            }
+            break;
+        }
+        im.Save(outputFile);
+    }
+}
+```
 
 ### See Also
 

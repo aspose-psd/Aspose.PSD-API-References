@@ -3,7 +3,7 @@ title: PngFilterType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1570
+weight: 1590
 url: /net/aspose.psd.fileformats.png/pngfiltertype/
 ---
 ## PngFilterType enumeration

@@ -3,7 +3,7 @@ title: CurvesManager
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2310
+weight: 2350
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
 ## CurvesManager class
@@ -24,7 +24,7 @@ public abstract class CurvesManager
 
 | Name | Description |
 | --- | --- |
-| [MaxChannelCount](maxchannelcount) { get; } | Gets the maximum channel count. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount) { get; } | Gets the maximum channel count. |
 
 ### See Also
 

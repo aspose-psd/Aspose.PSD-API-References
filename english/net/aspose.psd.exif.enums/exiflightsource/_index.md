@@ -3,7 +3,7 @@ title: ExifLightSource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 870
+weight: 890
 url: /net/aspose.psd.exif.enums/exiflightsource/
 ---
 ## ExifLightSource enumeration

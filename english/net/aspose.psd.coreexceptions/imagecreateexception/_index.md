@@ -3,7 +3,7 @@ title: ImageCreateException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 470
+weight: 490
 url: /net/aspose.psd.coreexceptions/imagecreateexception/
 ---
 ## ImageCreateException class

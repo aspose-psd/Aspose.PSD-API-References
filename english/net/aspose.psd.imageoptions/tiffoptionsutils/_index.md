@@ -3,7 +3,7 @@ title: TiffOptionsUtils
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4760
+weight: 4810
 url: /net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
 ## TiffOptionsUtils class
@@ -24,7 +24,7 @@ public class TiffOptionsUtils
 
 | Name | Description |
 | --- | --- |
-| static [GetValidTagsCount](getvalidtagscount)(TiffDataType[]) | Gets the valid tags count. |
+| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount)(TiffDataType[]) | Gets the valid tags count. |
 
 ### See Also
 

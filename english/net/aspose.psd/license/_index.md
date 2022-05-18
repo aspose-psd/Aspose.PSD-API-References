@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4850
+weight: 4900
 url: /net/aspose.psd/license/
 ---
 ## License class
@@ -24,8 +24,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](setlicense)(Stream) | Licenses the component. |
-| [SetLicense](setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.psd/license/setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.psd/license/setlicense)(string) | Licenses the component. |
 
 ### Examples
 

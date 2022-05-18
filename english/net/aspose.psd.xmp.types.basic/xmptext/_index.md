@@ -3,7 +3,7 @@ title: XmpText
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5780
+weight: 5830
 url: /net/aspose.psd.xmp.types.basic/xmptext/
 ---
 ## XmpText class
@@ -24,13 +24,13 @@ public class XmpText : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets the text value. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value) { get; set; } | Gets or sets the text value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

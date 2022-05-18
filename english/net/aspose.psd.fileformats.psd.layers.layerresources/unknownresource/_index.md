@@ -3,7 +3,7 @@ title: UnknownResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3150
+weight: 3200
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
 ## UnknownResource class
@@ -24,17 +24,18 @@ public class UnknownResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| [Data](data) { get; set; } | Gets or sets the data. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](signature) { get; } | Gets the layer resource signature. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data) { get; set; } | Gets or sets the data. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature) { get; } | Gets the layer resource signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save)(StreamContainer, int) | Saves the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

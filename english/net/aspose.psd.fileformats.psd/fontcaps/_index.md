@@ -3,7 +3,7 @@ title: FontCaps
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1620
+weight: 1640
 url: /net/aspose.psd.fileformats.psd/fontcaps/
 ---
 ## FontCaps enumeration

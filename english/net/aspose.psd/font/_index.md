@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4080
+weight: 4130
 url: /net/aspose.psd/font/
 ---
 ## Font class
@@ -29,24 +29,57 @@ public sealed class Font
 
 | Name | Description |
 | --- | --- |
-| [Bold](bold) { get; } | Gets a value indicating whether this [`Font`](../font) is bold. |
-| [CharacterSet](characterset) { get; } | Gets a byte value that specifies the character set that this [`Font`](../font) uses. |
-| [Italic](italic) { get; } | Gets a value indicating whether this [`Font`](../font) is italic. |
-| [Name](name) { get; } | Gets the face name of this [`Font`](../font). |
-| [Size](size) { get; } | Gets the em-size of this [`Font`](../font) measured in the units specified by the [`Unit`](./unit) property. |
-| [Strikeout](strikeout) { get; } | Gets a value indicating whether this [`Font`](../font) specifies a horizontal line through the font. |
-| [Style](style) { get; } | Gets style information for this [`Font`](../font). |
-| [Underline](underline) { get; } | Gets a value indicating whether this [`Font`](../font) is underlined. |
-| [Unit](unit) { get; } | Gets the unit of measure for this [`Font`](../font). |
+| [Bold](../../aspose.psd/font/bold) { get; } | Gets a value indicating whether this [`Font`](../font) is bold. |
+| [CharacterSet](../../aspose.psd/font/characterset) { get; } | Gets a byte value that specifies the character set that this [`Font`](../font) uses. |
+| [Italic](../../aspose.psd/font/italic) { get; } | Gets a value indicating whether this [`Font`](../font) is italic. |
+| [Name](../../aspose.psd/font/name) { get; } | Gets the face name of this [`Font`](../font). |
+| [Size](../../aspose.psd/font/size) { get; } | Gets the em-size of this [`Font`](../font) measured in the units specified by the [`Unit`](./unit) property. |
+| [Strikeout](../../aspose.psd/font/strikeout) { get; } | Gets a value indicating whether this [`Font`](../font) specifies a horizontal line through the font. |
+| [Style](../../aspose.psd/font/style) { get; } | Gets style information for this [`Font`](../font). |
+| [Underline](../../aspose.psd/font/underline) { get; } | Gets a value indicating whether this [`Font`](../font) is underlined. |
+| [Unit](../../aspose.psd/font/unit) { get; } | Gets the unit of measure for this [`Font`](../font). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [DeepClone](deepclone)() | Creates an exact deep copy of this [`Font`](../font). |
-| override [Equals](equals)(object) | Indicates whether the specified object is a [`Font`](../font) and has the same property values as this [`Font`](../font). |
-| override [GetHashCode](gethashcode)() | Gets the hash code for this [`Font`](../font). |
-| override [ToString](tostring)() | Returns a human-readable string representation of this [`Font`](../font). |
+| [DeepClone](../../aspose.psd/font/deepclone)() | Creates an exact deep copy of this [`Font`](../font). |
+| override [Equals](../../aspose.psd/font/equals)(object) | Indicates whether the specified object is a [`Font`](../font) and has the same property values as this [`Font`](../font). |
+| override [GetHashCode](../../aspose.psd/font/gethashcode)() | Gets the hash code for this [`Font`](../font). |
+| override [ToString](../../aspose.psd/font/tostring)() | Returns a human-readable string representation of this [`Font`](../font). |
+
+### Examples
+
+This example demonstrates the use of Font and SolidBrush class to draw strings on Image surface. The example creates a new Image and draw shapes using Figures and GraphicsPath
+
+```csharp
+[C#]
+
+//Creates an instance of Image
+using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
+{
+    //Creates and initialize an instance of Graphics class
+    Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
+
+    //Clears Graphics surface
+    graphics.Clear(Color.Wheat);
+
+    //Creates an instance of Font
+    Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
+
+    //Create an instance of SolidBrush having Red Color
+    Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
+
+    //Draw a String
+    graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
+
+    // create export options.
+    Aspose.PSD.ImageOptions.GifOptions options = new Aspose.PSD.ImageOptions.GifOptions();
+
+    // save all changes
+    image.Save("C:\\temp\\output.gif", options);
+}
+```
 
 ### See Also
 

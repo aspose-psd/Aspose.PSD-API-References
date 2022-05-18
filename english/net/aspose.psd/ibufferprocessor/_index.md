@@ -3,7 +3,7 @@ title: IBufferProcessor
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4170
+weight: 4220
 url: /net/aspose.psd/ibufferprocessor/
 ---
 ## IBufferProcessor interface
@@ -18,7 +18,7 @@ public interface IBufferProcessor
 
 | Name | Description |
 | --- | --- |
-| [ProcessBuffer](processbuffer)(byte[], int) | Processes the buffer. |
+| [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer)(byte[], int) | Processes the buffer. |
 
 ### See Also
 

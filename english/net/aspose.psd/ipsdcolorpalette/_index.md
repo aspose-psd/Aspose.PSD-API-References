@@ -3,7 +3,7 @@ title: IPsdColorPalette
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4350
+weight: 4400
 url: /net/aspose.psd/ipsdcolorpalette/
 ---
 ## IPsdColorPalette interface
@@ -18,11 +18,11 @@ public interface IPsdColorPalette : IColorPalette
 
 | Name | Description |
 | --- | --- |
-| [HasTransparentColor](hastransparentcolor) { get; } | Gets a value indicating whether transparent color exists. |
-| [RawEntries](rawentries) { get; } | Gets the raw color palette entries data. |
-| [RawEntriesCount](rawentriescount) { get; } | Gets the raw color palette entries count. |
-| [TransparentColor](transparentcolor) { get; } | Gets the transparent color. |
-| [TransparentIndex](transparentindex) { get; } | Gets the index of the transparent color. |
+| [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor) { get; } | Gets a value indicating whether transparent color exists. |
+| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries) { get; } | Gets the raw color palette entries data. |
+| [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount) { get; } | Gets the raw color palette entries count. |
+| [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor) { get; } | Gets the transparent color. |
+| [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex) { get; } | Gets the index of the transparent color. |
 
 ### See Also
 

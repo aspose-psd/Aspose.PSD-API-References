@@ -3,7 +3,7 @@ title: AiHeader
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1230
+weight: 1250
 url: /net/aspose.psd.fileformats.ai/aiheader/
 ---
 ## AiHeader class
@@ -18,18 +18,18 @@ public sealed class AiHeader
 
 | Name | Description |
 | --- | --- |
-| [BoundingBox](boundingbox) { get; set; } | Gets or sets the bounding box. |
-| [ColorUsage](colorusage) { get; set; } | Gets or sets the color usage. |
-| [CreationDate](creationdate) { get; set; } | Gets or sets the creation date. |
-| [Creator](creator) { get; set; } | Gets or sets the creator. |
-| [DocumentPreview](documentpreview) { get; set; } | Gets or sets the document preview. |
-| [DocumentProcessColors](documentprocesscolors) { get; set; } | Gets or sets the document process colors. |
-| [DocumentProcSets](documentprocsets) { get; set; } | Gets or sets the document proc sets. |
-| [For](for) { get; set; } | Gets or sets for. |
-| [Item](item) { get; set; } | Gets or sets the String with the specified property name. |
-| [TemplateBox](templatebox) { get; set; } | Gets or sets the template box. |
-| [TileBox](tilebox) { get; set; } | Gets or sets the tile box. |
-| [Title](title) { get; set; } | Gets or sets the title. |
+| [BoundingBox](../../aspose.psd.fileformats.ai/aiheader/boundingbox) { get; set; } | Gets or sets the bounding box. |
+| [ColorUsage](../../aspose.psd.fileformats.ai/aiheader/colorusage) { get; set; } | Gets or sets the color usage. |
+| [CreationDate](../../aspose.psd.fileformats.ai/aiheader/creationdate) { get; set; } | Gets or sets the creation date. |
+| [Creator](../../aspose.psd.fileformats.ai/aiheader/creator) { get; set; } | Gets or sets the creator. |
+| [DocumentPreview](../../aspose.psd.fileformats.ai/aiheader/documentpreview) { get; set; } | Gets or sets the document preview. |
+| [DocumentProcessColors](../../aspose.psd.fileformats.ai/aiheader/documentprocesscolors) { get; set; } | Gets or sets the document process colors. |
+| [DocumentProcSets](../../aspose.psd.fileformats.ai/aiheader/documentprocsets) { get; set; } | Gets or sets the document proc sets. |
+| [For](../../aspose.psd.fileformats.ai/aiheader/for) { get; set; } | Gets or sets for. |
+| [Item](../../aspose.psd.fileformats.ai/aiheader/item) { get; set; } | Gets or sets the String with the specified property name. |
+| [TemplateBox](../../aspose.psd.fileformats.ai/aiheader/templatebox) { get; set; } | Gets or sets the template box. |
+| [TileBox](../../aspose.psd.fileformats.ai/aiheader/tilebox) { get; set; } | Gets or sets the tile box. |
+| [Title](../../aspose.psd.fileformats.ai/aiheader/title) { get; set; } | Gets or sets the title. |
 
 ### See Also
 

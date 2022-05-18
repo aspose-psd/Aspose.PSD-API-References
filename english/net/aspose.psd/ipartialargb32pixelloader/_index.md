@@ -3,7 +3,7 @@ title: IPartialArgb32PixelLoader
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4310
+weight: 4360
 url: /net/aspose.psd/ipartialargb32pixelloader/
 ---
 ## IPartialArgb32PixelLoader interface
@@ -18,7 +18,7 @@ public interface IPartialArgb32PixelLoader
 
 | Name | Description |
 | --- | --- |
-| [Process](process)(Rectangle, int[], Point, Point) | Processes the loaded pixels. |
+| [Process](../../aspose.psd/ipartialargb32pixelloader/process)(Rectangle, int[], Point, Point) | Processes the loaded pixels. |
 
 ### See Also
 

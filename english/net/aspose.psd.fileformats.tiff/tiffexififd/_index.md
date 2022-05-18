@@ -3,7 +3,7 @@ title: TiffExifIfd
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4020
+weight: 4070
 url: /net/aspose.psd.fileformats.tiff/tiffexififd/
 ---
 ## TiffExifIfd class
@@ -25,8 +25,8 @@ public class TiffExifIfd
 
 | Name | Description |
 | --- | --- |
-| [HasValue](hasvalue) { get; } | Gets a value indicating whether this instance has value. |
-| [Offset](offset) { get; set; } | Gets or sets the pointer to EXIF IFD. |
+| [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue) { get; } | Gets a value indicating whether this instance has value. |
+| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset) { get; set; } | Gets or sets the pointer to EXIF IFD. |
 
 ### Remarks
 

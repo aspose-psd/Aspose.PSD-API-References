@@ -3,7 +3,7 @@ title: IsVisible
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible/
 ---
 ## ILayerEffect.IsVisible property

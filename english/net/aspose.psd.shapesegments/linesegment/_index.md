@@ -3,7 +3,7 @@ title: LineSegment
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5250
+weight: 5300
 url: /net/aspose.psd.shapesegments/linesegment/
 ---
 ## LineSegment class
@@ -24,8 +24,8 @@ public class LineSegment : ShapeSegment
 
 | Name | Description |
 | --- | --- |
-| override [EndPoint](endpoint) { get; } | Gets the ending point. |
-| override [StartPoint](startpoint) { get; } | Gets the starting point. |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint) { get; } | Gets the ending point. |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint) { get; } | Gets the starting point. |
 
 ### See Also
 

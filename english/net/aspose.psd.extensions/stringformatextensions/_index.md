@@ -3,7 +3,7 @@ title: StringFormatExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1170
+weight: 1190
 url: /net/aspose.psd.extensions/stringformatextensions/
 ---
 ## StringFormatExtensions class
@@ -18,7 +18,7 @@ public static class StringFormatExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiStringFormat](togdistringformat)(StringFormat) |  |
+| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat)(StringFormat) | Converts the [`StringFormat`](../../aspose.psd/stringformat) to the StringFormat. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: AiSetupSection
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1280
+weight: 1300
 url: /net/aspose.psd.fileformats.ai/aisetupsection/
 ---
 ## AiSetupSection class
@@ -13,6 +13,12 @@ The Ai format Setup Section
 ```csharp
 public sealed class AiSetupSection : AiSection
 ```
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata)() | Gets the string data. |
 
 ### See Also
 

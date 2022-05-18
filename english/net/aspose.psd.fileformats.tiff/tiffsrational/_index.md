@@ -3,7 +3,7 @@ title: TiffSRational
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4040
+weight: 4090
 url: /net/aspose.psd.fileformats.tiff/tiffsrational/
 ---
 ## TiffSRational class
@@ -26,22 +26,22 @@ public class TiffSRational
 
 | Name | Description |
 | --- | --- |
-| [Denominator](denominator) { get; } | Gets the denominator. |
-| [Nominator](nominator) { get; } | Gets the nominator. |
-| [Value](value) { get; } | Gets the float value. |
-| [ValueD](valued) { get; } | Gets the double value. |
+| [Denominator](../../aspose.psd.fileformats.tiff/tiffsrational/denominator) { get; } | Gets the denominator. |
+| [Nominator](../../aspose.psd.fileformats.tiff/tiffsrational/nominator) { get; } | Gets the nominator. |
+| [Value](../../aspose.psd.fileformats.tiff/tiffsrational/value) { get; } | Gets the float value. |
+| [ValueD](../../aspose.psd.fileformats.tiff/tiffsrational/valued) { get; } | Gets the double value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [ApproximateFraction](approximatefraction)(double) | Approximates the provided value to a fraction. |
-| static [ApproximateFraction](approximatefraction)(float) | Approximates the provided value to a fraction. |
-| static [ApproximateFraction](approximatefraction)(double, double) | Approximates the provided value to a fraction. |
-| static [ApproximateFraction](approximatefraction)(float, double) | Approximates the provided value to a fraction. |
-| override [Equals](equals)(object) | Determines whether the specified Object is equal to this instance. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction)(double) | Approximates the provided value to a fraction. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction)(float) | Approximates the provided value to a fraction. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction)(double, double) | Approximates the provided value to a fraction. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction)(float, double) | Approximates the provided value to a fraction. |
+| override [Equals](../../aspose.psd.fileformats.tiff/tiffsrational/equals)(object) | Determines whether the specified Object is equal to this instance. |
+| override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffsrational/gethashcode)() | Returns a hash code for this instance. |
+| override [ToString](../../aspose.psd.fileformats.tiff/tiffsrational/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

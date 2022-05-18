@@ -3,7 +3,7 @@ title: PathOperations
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1370
+weight: 1390
 url: /net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
 ## PathOperations enumeration
@@ -22,6 +22,41 @@ public enum PathOperations
 | CombineShapes | `1` | Combine Shapes (OR operation). This is default value in Photoshop. |
 | SubtractFrontShape | `2` | Subtract Front Shape (NOT operation). |
 | IntersectShapeAreas | `3` | Intersect Shape Areas (AND operation). |
+
+### Examples
+
+The following code example demonstrates the support of new LengthRecord properties, PathOperations (boolean operations), ShapeIndex and BezierKnotRecordsCount.
+
+```csharp
+[C#]
+
+string sourceFilePath = "PathOperationsShape.psd";
+string outputFilePath = "out_PathOperationsShape.psd";
+
+using (var im = (PsdImage)Image.Load(sourceFilePath))
+{
+    VsmsResource resource = null;
+    foreach (var layerResource in im.Layers[1].Resources)
+    {
+        if (layerResource is VsmsResource)
+        {
+            resource = (VsmsResource)layerResource;
+            break;
+        }
+    }
+
+    LengthRecord lengthRecord0 = (LengthRecord)resource.Paths[2];
+    LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
+    LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
+
+    // Here we changin the way to combining betwen shapes.
+    lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
+    lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
+    lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
+
+    im.Save(outputFilePath);
+}
+```
 
 ### See Also
 

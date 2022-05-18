@@ -3,7 +3,7 @@ title: ImageSaveException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 610
+weight: 630
 url: /net/aspose.psd.coreexceptions/imagesaveexception/
 ---
 ## ImageSaveException class

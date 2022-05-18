@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/brushextensions/togdibrush/
 ---
 ## BrushExtensions.ToGdiBrush method
 
+Converts the [`Brush`](../../../aspose.psd/brush) to the Brush.
+
 ```csharp
 public static Brush ToGdiBrush(Brush brush)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brush | Brush | The [`Brush`](../../../aspose.psd/brush) to convert. |
+
+## Return Value
+
+The converted Brush.
 
 ### See Also
 

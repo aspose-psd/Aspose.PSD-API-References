@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/colorblendextensions/togdicolorblend/
 ---
 ## ColorBlendExtensions.ToGdiColorBlend method
 
+Converts the [`ColorBlend`](../../../aspose.psd/colorblend) to ColorBlend.
+
 ```csharp
 public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colorBlend | ColorBlend | The color blend. |
+
+## Return Value
+
+The converted ColorBlend.
 
 ### See Also
 

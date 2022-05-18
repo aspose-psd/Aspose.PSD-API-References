@@ -3,7 +3,7 @@ title: TiffByteOrder
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3840
+weight: 3890
 url: /net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 ---
 ## TiffByteOrder enumeration

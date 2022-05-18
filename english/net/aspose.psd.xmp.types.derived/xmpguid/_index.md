@@ -3,7 +3,7 @@ title: XmpGuid
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5960
+weight: 6010
 url: /net/aspose.psd.xmp.types.derived/xmpguid/
 ---
 ## XmpGuid class
@@ -25,14 +25,14 @@ public sealed class XmpGuid : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Prefix](prefix) { get; set; } | Gets or sets the prefix like uuid. |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix) { get; set; } | Gets or sets the prefix like uuid. |
+| [Value](../../aspose.psd.xmp.types.derived/xmpguid/value) { get; set; } | Gets or sets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

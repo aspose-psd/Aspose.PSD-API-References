@@ -3,7 +3,7 @@ title: XmpBoolean
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5740
+weight: 5790
 url: /net/aspose.psd.xmp.types.basic/xmpboolean/
 ---
 ## XmpBoolean class
@@ -26,13 +26,13 @@ public sealed class XmpBoolean : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Value](value) { get; set; } | Gets or sets a value indicating whether this [`XmpBoolean`](../xmpboolean) is value. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value) { get; set; } | Gets or sets a value indicating whether this [`XmpBoolean`](../xmpboolean) is value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Returns string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation)() | Returns string contained value in XMP format. |
 
 ### See Also
 

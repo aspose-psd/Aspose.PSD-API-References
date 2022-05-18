@@ -3,7 +3,7 @@ title: BlncResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2190
+weight: 2230
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
 ## BlncResource class
@@ -24,25 +24,27 @@ public class BlncResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| [HighlightsCyanRedBalance](highlightscyanredbalance) { get; set; } | Gets or sets the Highlights Cyan Red Balance. |
-| [HighlightsMagentaGreenBalance](highlightsmagentagreenbalance) { get; set; } | Gets or sets the Highlights Magenta Green Balance. |
-| [HighlightsYellowBlueBalance](highlightsyellowbluebalance) { get; set; } | Gets or sets the Highlights Yellow Blue Balance. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [MidtonesCyanRedBalance](midtonescyanredbalance) { get; set; } | Gets or sets the Midtones Cyan Red Balance. |
-| [MidtonesMagentaGreenBalance](midtonesmagentagreenbalance) { get; set; } | Gets or sets the Midtones Magenta Green Balance. |
-| [MidtonesYellowBlueBalance](midtonesyellowbluebalance) { get; set; } | Gets or sets the Midtones Yellow Blue Balance. |
-| [PreserveLuminosity](preserveluminosity) { get; set; } | Gets or sets a value indicating whether this [`BlncResource`](../blncresource) preserves luminosity. |
-| override [PsdVersion](psdversion) { get; } | Gets the PSD version. |
-| [ShadowsCyanRedBalance](shadowscyanredbalance) { get; set; } | Gets or sets the Shadows Cyan Red Balance. |
-| [ShadowsMagentaGreenBalance](shadowsmagentagreenbalance) { get; set; } | Gets or sets the Shadows Magenta Green Balance. |
-| [ShadowsYellowBlueBalance](shadowsyellowbluebalance) { get; set; } | Gets or sets the Shadows Yellow Blue Balance. |
+| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance) { get; set; } | Gets or sets the Highlights Cyan Red Balance. |
+| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance) { get; set; } | Gets or sets the Highlights Magenta Green Balance. |
+| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance) { get; set; } | Gets or sets the Highlights Yellow Blue Balance. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length) { get; } | Gets the layer resource length in bytes. |
+| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance) { get; set; } | Gets or sets the Midtones Cyan Red Balance. |
+| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance) { get; set; } | Gets or sets the Midtones Magenta Green Balance. |
+| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance) { get; set; } | Gets or sets the Midtones Yellow Blue Balance. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity) { get; set; } | Gets or sets a value indicating whether this [`BlncResource`](../blncresource) preserves luminosity. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion) { get; } | Gets the PSD version. |
+| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance) { get; set; } | Gets or sets the Shadows Cyan Red Balance. |
+| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance) { get; set; } | Gets or sets the Shadows Magenta Green Balance. |
+| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance) { get; set; } | Gets or sets the Shadows Yellow Blue Balance. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

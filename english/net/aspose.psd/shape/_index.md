@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5220
+weight: 5270
 url: /net/aspose.psd/shape/
 ---
 ## Shape class
@@ -18,9 +18,18 @@ public abstract class Shape : ObjectWithBounds
 
 | Name | Description |
 | --- | --- |
-| abstract [Center](center) { get; } | Gets the shape's center. |
-| abstract [HasSegments](hassegments) { get; } | Gets a value indicating whether shape has segments. |
-| abstract [Segments](segments) { get; } | Gets the shape segments. |
+| abstract [Bounds](../../aspose.psd/objectwithbounds/bounds) { get; } | Gets the object's bounds. |
+| abstract [Center](../../aspose.psd/shape/center) { get; } | Gets the shape's center. |
+| abstract [HasSegments](../../aspose.psd/shape/hassegments) { get; } | Gets a value indicating whether shape has segments. |
+| abstract [Segments](../../aspose.psd/shape/segments) { get; } | Gets the shape segments. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds)(Matrix) | Gets the object's bounds. |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds)(Matrix, Pen) | Gets the object's bounds. |
+| abstract [Transform](../../aspose.psd/objectwithbounds/transform)(Matrix) | Applies the specified transformation to the shape. |
 
 ### See Also
 

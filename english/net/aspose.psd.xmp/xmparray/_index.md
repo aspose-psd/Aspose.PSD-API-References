@@ -3,7 +3,7 @@ title: XmpArray
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 6010
+weight: 6060
 url: /net/aspose.psd.xmp/xmparray/
 ---
 ## XmpArray class
@@ -25,15 +25,15 @@ public class XmpArray : IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [Values](values) { get; } | Gets array of values inside [`XmpArray`](../xmparray). |
+| [Values](../../aspose.psd.xmp/xmparray/values) { get; } | Gets array of values inside [`XmpArray`](../xmparray). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddItem](additem)(string) | Adds new item. |
-| [GetXmlValue](getxmlvalue)() | Converts XMP value to the XML representation. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [AddItem](../../aspose.psd.xmp/xmparray/additem)(string) | Adds new item. |
+| [GetXmlValue](../../aspose.psd.xmp/xmparray/getxmlvalue)() | Converts XMP value to the XML representation. |
+| override [ToString](../../aspose.psd.xmp/xmparray/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: MixerChannel
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1750
+weight: 1780
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
 ## MixerChannel class
@@ -18,13 +18,13 @@ public abstract class MixerChannel
 
 | Name | Description |
 | --- | --- |
-| [Constant](constant) { get; set; } | Gets or sets the constant.of channel. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant) { get; set; } | Gets or sets the constant.of channel. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetRawData](getrawdata)() | Gets the raw data. |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata)() | Gets the raw data. |
 
 ### See Also
 

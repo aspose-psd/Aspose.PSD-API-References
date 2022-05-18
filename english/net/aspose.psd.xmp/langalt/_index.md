@@ -3,7 +3,7 @@ title: LangAlt
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5560
+weight: 5610
 url: /net/aspose.psd.xmp/langalt/
 ---
 ## LangAlt class
@@ -25,9 +25,9 @@ public class LangAlt : IXmlValue
 
 | Name | Description |
 | --- | --- |
-| virtual [AddLanguage](addlanguage)(string, string) | Adds the language. |
-| [GetXmlValue](getxmlvalue)() | Converts XMP value to the XML representation. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage)(string, string) | Adds the language. |
+| [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue)() | Converts XMP value to the XML representation. |
+| override [ToString](../../aspose.psd.xmp/langalt/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

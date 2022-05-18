@@ -3,7 +3,7 @@ title: DataMissmatchError
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 450
+weight: 470
 url: /net/aspose.psd.coreexceptions/datamissmatcherror/
 ---
 ## DataMissmatchError class

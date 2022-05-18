@@ -3,7 +3,7 @@ title: CmykColorHelper
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.psd/cmykcolorhelper/
 ---
 ## CmykColorHelper class
@@ -18,28 +18,28 @@ public static class CmykColorHelper
 
 | Name | Description |
 | --- | --- |
-| static [FromComponents](fromcomponents)(int, int, int, int) | Creates CMYK from a 32-bit cyan, magenta, yellow and black values. |
-| static [GetC](getc)(int) | Gets the cyan component value. |
-| static [GetK](getk)(int) | Gets the black component value. |
-| static [GetM](getm)(int) | Gets the magenta component value. |
-| static [GetY](gety)(int) | Gets the yellow component value. |
-| static [ToArgb](toargb)(int) | The conversion from CMYK color to ARGB color. |
-| static [ToArgb](toargb)(int[]) | The conversion from CMYK colors to ARGB colors. |
-| static [ToArgb32](toargb32)(int[]) | The conversion from CMYK colors to ARGB colors. |
-| static [ToArgbIcc](toargbicc)(int) | The conversion from CMYK color to ARGB Color using Icc conversion with default profiles. |
-| static [ToArgbIcc](toargbicc)(int[]) | The conversion from CMYK colors to ARGB colors using Icc conversion with default profiles. |
-| static [ToArgbIcc](toargbicc)(int, Stream, Stream) | The conversion from CMYK color to ARGB color using Icc conversion with custom profile. |
-| static [ToArgbIcc](toargbicc)(int[], Stream, Stream) | The conversion from CMYK colors to ARGB colors using Icc conversion with custom profiles. |
-| static [ToCmyk](tocmyk)(Color) | The conversion from ARGB color to CMYK color. |
-| static [ToCmyk](tocmyk)(Color[]) | The conversion from ARGB colors to CMYK colors. |
-| static [ToCmyk](tocmyk)(int) | The conversion from ARGB color to CMYK color. |
-| static [ToCmyk](tocmyk)(int[]) | The conversion from ARGB colors to CMYK colors. |
-| static [ToCmykBytes](tocmykbytes)(int[], int, int) | Converts RGB to CMYK. |
-| static [ToCmykIcc](tocmykicc)(Color) | The conversion from ARGB color to CMYK color using Icc conversion with default profiles. |
-| static [ToCmykIcc](tocmykicc)(Color[]) | The conversion from ARGB colors to CMYK colors using Icc conversion with default profiles. |
-| static [ToCmykIcc](tocmykicc)(Color, Stream, Stream) | The conversion from ARGB color to CMYK color using Icc conversion with custom profiles. |
-| static [ToCmykIcc](tocmykicc)(Color[], Stream, Stream) | The conversion from ARGB colors to CMYK colors using Icc conversion with custom profiles. |
-| static [ToCmykIccBytes](tocmykiccbytes)(int[], int, int, Stream, Stream) | Converts RGB to CMYK using custom ICC profiles. |
+| static [FromComponents](../../aspose.psd/cmykcolorhelper/fromcomponents)(int, int, int, int) | Creates CMYK from a 32-bit cyan, magenta, yellow and black values. |
+| static [GetC](../../aspose.psd/cmykcolorhelper/getc)(int) | Gets the cyan component value. |
+| static [GetK](../../aspose.psd/cmykcolorhelper/getk)(int) | Gets the black component value. |
+| static [GetM](../../aspose.psd/cmykcolorhelper/getm)(int) | Gets the magenta component value. |
+| static [GetY](../../aspose.psd/cmykcolorhelper/gety)(int) | Gets the yellow component value. |
+| static [ToArgb](../../aspose.psd/cmykcolorhelper/toargb)(int) | The conversion from CMYK color to ARGB color. |
+| static [ToArgb](../../aspose.psd/cmykcolorhelper/toargb)(int[]) | The conversion from CMYK colors to ARGB colors. |
+| static [ToArgb32](../../aspose.psd/cmykcolorhelper/toargb32)(int[]) | The conversion from CMYK colors to ARGB colors. |
+| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc)(int) | The conversion from CMYK color to ARGB Color using Icc conversion with default profiles. |
+| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc)(int[]) | The conversion from CMYK colors to ARGB colors using Icc conversion with default profiles. |
+| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc)(int, Stream, Stream) | The conversion from CMYK color to ARGB color using Icc conversion with custom profile. |
+| static [ToArgbIcc](../../aspose.psd/cmykcolorhelper/toargbicc)(int[], Stream, Stream) | The conversion from CMYK colors to ARGB colors using Icc conversion with custom profiles. |
+| static [ToCmyk](../../aspose.psd/cmykcolorhelper/tocmyk)(Color) | The conversion from ARGB color to CMYK color. |
+| static [ToCmyk](../../aspose.psd/cmykcolorhelper/tocmyk)(Color[]) | The conversion from ARGB colors to CMYK colors. |
+| static [ToCmyk](../../aspose.psd/cmykcolorhelper/tocmyk)(int) | The conversion from ARGB color to CMYK color. |
+| static [ToCmyk](../../aspose.psd/cmykcolorhelper/tocmyk)(int[]) | The conversion from ARGB colors to CMYK colors. |
+| static [ToCmykBytes](../../aspose.psd/cmykcolorhelper/tocmykbytes)(int[], int, int) | Converts RGB to CMYK. |
+| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc)(Color) | The conversion from ARGB color to CMYK color using Icc conversion with default profiles. |
+| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc)(Color[]) | The conversion from ARGB colors to CMYK colors using Icc conversion with default profiles. |
+| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc)(Color, Stream, Stream) | The conversion from ARGB color to CMYK color using Icc conversion with custom profiles. |
+| static [ToCmykIcc](../../aspose.psd/cmykcolorhelper/tocmykicc)(Color[], Stream, Stream) | The conversion from ARGB colors to CMYK colors using Icc conversion with custom profiles. |
+| static [ToCmykIccBytes](../../aspose.psd/cmykcolorhelper/tocmykiccbytes)(int[], int, int, Stream, Stream) | Converts RGB to CMYK using custom ICC profiles. |
 
 ### See Also
 

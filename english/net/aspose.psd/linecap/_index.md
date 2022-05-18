@@ -3,7 +3,7 @@ title: LineCap
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4860
+weight: 4910
 url: /net/aspose.psd/linecap/
 ---
 ## LineCap enumeration

@@ -3,7 +3,7 @@ title: XmpArrayType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 6030
+weight: 6080
 url: /net/aspose.psd.xmp/xmparraytype/
 ---
 ## XmpArrayType enumeration

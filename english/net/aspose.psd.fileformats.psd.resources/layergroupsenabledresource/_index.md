@@ -3,7 +3,7 @@ title: LayerGroupsEnabledResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3600
+weight: 3650
 url: /net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/
 ---
 ## LayerGroupsEnabledResource class
@@ -24,9 +24,20 @@ public sealed class LayerGroupsEnabledResource : ResourceBlock
 
 | Name | Description |
 | --- | --- |
-| override [DataSize](datasize) { get; } | Gets the resource data size in bytes. |
-| [IDs](ids) { get; set; } | Gets or sets the i ds. |
-| override [MinimalVersion](minimalversion) { get; } | Gets the minimal required PSD version. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/layergroupsenabledresource/datasize) { get; } | Gets the resource data size in bytes. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Gets or sets the unique identifier for the resource. |
+| [IDs](../../aspose.psd.fileformats.psd.resources/layergroupsenabledresource/ids) { get; set; } | Gets or sets the i ds. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/layergroupsenabledresource/minimalversion) { get; } | Gets the minimal required PSD version. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Gets or sets the resource name. Pascal string, padded to make the size even (a null name consists of two bytes of 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Gets the resource signature. Should be always '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Gets the resource block size in bytes including its data. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | Saves the resource block to the specified stream. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | Validates the resource values. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: AddPatternOverlay
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
 ## BlendingOptions.AddPatternOverlay method

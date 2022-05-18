@@ -3,7 +3,7 @@ title: PixelDataFormat
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5030
+weight: 5080
 url: /net/aspose.psd/pixeldataformat/
 ---
 ## PixelDataFormat class
@@ -18,54 +18,54 @@ public class PixelDataFormat
 
 | Name | Description |
 | --- | --- |
-| static [Cmyk](cmyk) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 32 bits per pixel with 8 bits for each of the cyan, magenta, yellow and black. |
-| static [Cmyka](cmyka) { get; } | Gets the acmyk. |
-| static [Grayscale](grayscale) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 8 bits per pixel with 8 bits representing grayscale intensity in the 0-255 interval. |
-| static [GrayscaleAlpha](grayscalealpha) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 16 bits per pixel with 8 bits representing grayscale intensity in the 0-255 interval and additional 8 bit alpha component. |
-| static [Rgb16Bpp555](rgb16bpp555) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 16 bits per pixel with 5 bits for each of the red, green and blue, alpha is not defined. |
-| static [Rgb16Bpp565](rgb16bpp565) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 16 bits per pixel with 5 bits for red, 6 bits for green and 5 bits for blue, alpha is not defined. |
-| static [Rgb24Bpp](rgb24bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 24 bits per pixel with 8 bits for each of the alpha, red, green and blue, alpha is not defined. |
-| static [Rgb24BppPng](rgb24bpppng) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 24 bits per pixel with 8 bits for each of the alpha, red, green and blue, alpha is not defined. |
-| static [Rgb32Bpp](rgb32bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 32 bits per pixel with 8 bits for each of the alpha, red, green and blue. |
-| static [Rgba32Bpp](rgba32bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 32 bits per pixel with 8 bits for each of the alpha, red, green and blue. |
-| static [RgbIndexed1Bpp](rgbindexed1bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for indexed 1 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model. |
-| static [RgbIndexed2Bpp](rgbindexed2bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for indexed 2 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model. |
-| static [RgbIndexed4Bpp](rgbindexed4bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for indexed 4 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model. |
-| static [RgbIndexed8Bpp](rgbindexed8bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for indexed 8 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model. |
-| static [YCbCr](ycbcr) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 24 bits per pixel with 8 bits for each of the luma, blue-difference and red-difference chroma components. |
-| static [Ycck](ycck) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 32 bits per pixel with 8 bits for each of the luma, blue-difference, red-difference and black chroma components. |
-| [BitsPerPixel](bitsperpixel) { get; } | Gets the bits per pixel. |
-| [Caption](caption) { get; } | Gets the pixel data format caption. |
-| [ChannelBits](channelbits) { get; } | Gets the bits count for each channel. |
-| [ChannelsCount](channelscount) { get; } | Gets the channels count. |
-| [PixelFormat](pixelformat) { get; } | Gets the pixel format. |
+| static [Cmyk](../../aspose.psd/pixeldataformat/cmyk) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 32 bits per pixel with 8 bits for each of the cyan, magenta, yellow and black. |
+| static [Cmyka](../../aspose.psd/pixeldataformat/cmyka) { get; } | Gets the acmyk. |
+| static [Grayscale](../../aspose.psd/pixeldataformat/grayscale) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 8 bits per pixel with 8 bits representing grayscale intensity in the 0-255 interval. |
+| static [GrayscaleAlpha](../../aspose.psd/pixeldataformat/grayscalealpha) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 16 bits per pixel with 8 bits representing grayscale intensity in the 0-255 interval and additional 8 bit alpha component. |
+| static [Rgb16Bpp555](../../aspose.psd/pixeldataformat/rgb16bpp555) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 16 bits per pixel with 5 bits for each of the red, green and blue, alpha is not defined. |
+| static [Rgb16Bpp565](../../aspose.psd/pixeldataformat/rgb16bpp565) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 16 bits per pixel with 5 bits for red, 6 bits for green and 5 bits for blue, alpha is not defined. |
+| static [Rgb24Bpp](../../aspose.psd/pixeldataformat/rgb24bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 24 bits per pixel with 8 bits for each of the alpha, red, green and blue, alpha is not defined. |
+| static [Rgb24BppPng](../../aspose.psd/pixeldataformat/rgb24bpppng) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 24 bits per pixel with 8 bits for each of the alpha, red, green and blue, alpha is not defined. |
+| static [Rgb32Bpp](../../aspose.psd/pixeldataformat/rgb32bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 32 bits per pixel with 8 bits for each of the alpha, red, green and blue. |
+| static [Rgba32Bpp](../../aspose.psd/pixeldataformat/rgba32bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 32 bits per pixel with 8 bits for each of the alpha, red, green and blue. |
+| static [RgbIndexed1Bpp](../../aspose.psd/pixeldataformat/rgbindexed1bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for indexed 1 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model. |
+| static [RgbIndexed2Bpp](../../aspose.psd/pixeldataformat/rgbindexed2bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for indexed 2 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model. |
+| static [RgbIndexed4Bpp](../../aspose.psd/pixeldataformat/rgbindexed4bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for indexed 4 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model. |
+| static [RgbIndexed8Bpp](../../aspose.psd/pixeldataformat/rgbindexed8bpp) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for indexed 8 bit per color. The indexed pixel data storage is intended to allow data storage and retrieval everywhere the color palette is used. Use with caution, because may require conversion from one palette to another or from RGBA to indexed color model. |
+| static [YCbCr](../../aspose.psd/pixeldataformat/ycbcr) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 24 bits per pixel with 8 bits for each of the luma, blue-difference and red-difference chroma components. |
+| static [Ycck](../../aspose.psd/pixeldataformat/ycck) { get; } | Gets the [`PixelDataFormat`](../pixeldataformat) defined for 32 bits per pixel with 8 bits for each of the luma, blue-difference, red-difference and black chroma components. |
+| [BitsPerPixel](../../aspose.psd/pixeldataformat/bitsperpixel) { get; } | Gets the bits per pixel. |
+| [Caption](../../aspose.psd/pixeldataformat/caption) { get; } | Gets the pixel data format caption. |
+| [ChannelBits](../../aspose.psd/pixeldataformat/channelbits) { get; } | Gets the bits count for each channel. |
+| [ChannelsCount](../../aspose.psd/pixeldataformat/channelscount) { get; } | Gets the channels count. |
+| [PixelFormat](../../aspose.psd/pixeldataformat/pixelformat) { get; } | Gets the pixel format. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [GetBgr](getbgr)(int) | Gets BGR color with a specified number of bits per sample. |
-| static [GetBgra](getbgra)(int) | Gets BGRA color with a specified number of bits per sample. |
-| static [GetCieLab](getcielab)(int, int, int) | Gets CIE Lab color with a specified number of bits per sample. |
-| static [GetCmyk](getcmyk)(int) | Gets CMYK color with a specified number of bits per sample. |
-| static [GetCmyk](getcmyk)(int, int, int, int) | Gets CMYK color with a specified number of bits per sample. |
-| static [GetCmyka](getcmyka)(int, int, int, int, int) | Gets CMYKA color with a specified number of bits per sample. |
-| static [GetGrayscale](getgrayscale)(int) | Gets Grayscale color with a specified number of bits per sample. |
-| static [GetGrayscaleAlpha](getgrayscalealpha)(int) | Gets GrayscaleAlpha color with a specified number of bits per sample. |
-| static [GetGrayscaleAlpha](getgrayscalealpha)(int, int) | Gets GrayscaleAlpha color with a specified number of bits per sample. |
-| static [GetRgb](getrgb)(int) | Gets RGB color with a specified number of bits per sample. |
-| static [GetRgb](getrgb)(int, int, int) | Gets RGB color with a specified number of bits per sample. |
-| static [GetRgba](getrgba)(int) | Gets RGBA color with a specified number of bits per sample. |
-| static [GetRgba](getrgba)(int, int, int, int) | Gets RGBA color with a specified number of bits per sample. |
-| static [GetRgbIndexed](getrgbindexed)(int) | Gets BGRA indexed color with a specified number of bits per sample. |
-| static [GetYCbCr](getycbcr)(int) | Gets YCbCr color with a specified number of bits per sample. |
-| static [GetYCbCr](getycbcr)(int, int, int) | Gets YCbCr color with a specified number of bits per sample. |
-| static [GetYcck](getycck)(int) | Gets YCCK color with a specified number of bits per sample. |
-| override [Equals](equals)(object) | Determines whether the specified Object is equal to this instance. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
-| [operator ==](op_equality) | Returns result of equality for two [`PixelDataFormat`](../pixeldataformat) classes. |
-| [operator !=](op_inequality) | Returns result of non-equality for two [`PixelDataFormat`](../pixeldataformat) classes. |
+| static [GetBgr](../../aspose.psd/pixeldataformat/getbgr)(int) | Gets BGR color with a specified number of bits per sample. |
+| static [GetBgra](../../aspose.psd/pixeldataformat/getbgra)(int) | Gets BGRA color with a specified number of bits per sample. |
+| static [GetCieLab](../../aspose.psd/pixeldataformat/getcielab)(int, int, int) | Gets CIE Lab color with a specified number of bits per sample. |
+| static [GetCmyk](../../aspose.psd/pixeldataformat/getcmyk)(int) | Gets CMYK color with a specified number of bits per sample. |
+| static [GetCmyk](../../aspose.psd/pixeldataformat/getcmyk)(int, int, int, int) | Gets CMYK color with a specified number of bits per sample. |
+| static [GetCmyka](../../aspose.psd/pixeldataformat/getcmyka)(int, int, int, int, int) | Gets CMYKA color with a specified number of bits per sample. |
+| static [GetGrayscale](../../aspose.psd/pixeldataformat/getgrayscale)(int) | Gets Grayscale color with a specified number of bits per sample. |
+| static [GetGrayscaleAlpha](../../aspose.psd/pixeldataformat/getgrayscalealpha)(int) | Gets GrayscaleAlpha color with a specified number of bits per sample. |
+| static [GetGrayscaleAlpha](../../aspose.psd/pixeldataformat/getgrayscalealpha)(int, int) | Gets GrayscaleAlpha color with a specified number of bits per sample. |
+| static [GetRgb](../../aspose.psd/pixeldataformat/getrgb)(int) | Gets RGB color with a specified number of bits per sample. |
+| static [GetRgb](../../aspose.psd/pixeldataformat/getrgb)(int, int, int) | Gets RGB color with a specified number of bits per sample. |
+| static [GetRgba](../../aspose.psd/pixeldataformat/getrgba)(int) | Gets RGBA color with a specified number of bits per sample. |
+| static [GetRgba](../../aspose.psd/pixeldataformat/getrgba)(int, int, int, int) | Gets RGBA color with a specified number of bits per sample. |
+| static [GetRgbIndexed](../../aspose.psd/pixeldataformat/getrgbindexed)(int) | Gets BGRA indexed color with a specified number of bits per sample. |
+| static [GetYCbCr](../../aspose.psd/pixeldataformat/getycbcr)(int) | Gets YCbCr color with a specified number of bits per sample. |
+| static [GetYCbCr](../../aspose.psd/pixeldataformat/getycbcr)(int, int, int) | Gets YCbCr color with a specified number of bits per sample. |
+| static [GetYcck](../../aspose.psd/pixeldataformat/getycck)(int) | Gets YCCK color with a specified number of bits per sample. |
+| override [Equals](../../aspose.psd/pixeldataformat/equals)(object) | Determines whether the specified Object is equal to this instance. |
+| override [GetHashCode](../../aspose.psd/pixeldataformat/gethashcode)() | Returns a hash code for this instance. |
+| override [ToString](../../aspose.psd/pixeldataformat/tostring)() | Returns a String that represents this instance. |
+| [operator ==](../../aspose.psd/pixeldataformat/op_equality) | Returns result of equality for two [`PixelDataFormat`](../pixeldataformat) classes. |
+| [operator !=](../../aspose.psd/pixeldataformat/op_inequality) | Returns result of non-equality for two [`PixelDataFormat`](../pixeldataformat) classes. |
 
 ### See Also
 

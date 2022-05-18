@@ -3,7 +3,7 @@ title: TypeOfEntities
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4770
+weight: 4820
 url: /net/aspose.psd.imageoptions/typeofentities/
 ---
 ## TypeOfEntities enumeration

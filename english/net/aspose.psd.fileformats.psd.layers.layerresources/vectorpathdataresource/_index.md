@@ -3,7 +3,7 @@ title: VectorPathDataResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3160
+weight: 3210
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/
 ---
 ## VectorPathDataResource class
@@ -18,20 +18,65 @@ public abstract class VectorPathDataResource : LayerResource, IVectorPathData
 
 | Name | Description |
 | --- | --- |
-| [IsDisabled](isdisabled) { get; set; } | Gets or sets a value indicating whether this instance is disabled. |
-| [IsInverted](isinverted) { get; set; } | Gets or sets a value indicating whether this instance is inverted. |
-| [IsNotLinked](isnotlinked) { get; set; } | Gets or sets a value indicating whether this instance is not linked. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [Paths](paths) { get; set; } | Gets or sets the path records. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the signature. |
-| [Version](version) { get; set; } | Gets or sets the version. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | Gets or sets a value indicating whether this instance is disabled. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | Gets or sets a value indicating whether this instance is inverted. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked) { get; set; } | Gets or sets a value indicating whether this instance is not linked. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | Gets the layer resource length in bytes. |
+| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths) { get; set; } | Gets or sets the path records. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature) { get; } | Gets the signature. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version) { get; set; } | Gets or sets the version. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
+
+### Examples
+
+The following example demonstrates the support of Layer Vector Masks processing. How works the editing of paths and how Aspose.PSD draw the final image.
+
+```csharp
+[C#]
+
+string sourceFileName = "DifferentLayerMasks_Source.psd";
+string exportPath = "DifferentLayerMasks_Export.psd";
+string exportPathPng = "DifferentLayerMasks_Export.png";
+
+// Reading
+using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
+{
+    // Make changes to the vector path points
+    foreach (var layer in image.Layers)
+    {
+        foreach (var layerResource in layer.Resources)
+        {
+            var resource = layerResource as VectorPathDataResource;
+            if (resource != null)
+            {
+                foreach (var pathRecord in resource.Paths)
+                {
+                    var bezierKnotRecord = pathRecord as BezierKnotRecord;
+                    if (bezierKnotRecord != null)
+                    {
+                        Point p0 = bezierKnotRecord.Points[0];
+                        bezierKnotRecord.Points[0] = bezierKnotRecord.Points[2];
+                        bezierKnotRecord.Points[2] = p0;
+                        break;
+                    }
+                }
+            }
+        }
+    }
+
+    // Exporting
+    image.Save(exportPath);
+    image.Save(exportPathPng, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+}
+```
 
 ### See Also
 

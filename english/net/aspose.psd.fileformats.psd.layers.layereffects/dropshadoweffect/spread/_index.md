@@ -3,7 +3,7 @@ title: Spread
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/
 ---
 ## DropShadowEffect.Spread property

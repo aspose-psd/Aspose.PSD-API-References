@@ -3,7 +3,7 @@ title: ProjectLink
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5660
+weight: 5710
 url: /net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
 ## ProjectLink class
@@ -24,14 +24,14 @@ public sealed class ProjectLink : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Path](path) { get; set; } | Gets or sets full path to the project. |
-| [Type](type) { get; set; } | Gets or sets file type. |
+| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path) { get; set; } | Gets or sets full path to the project. |
+| [Type](../../aspose.psd.xmp.schemas.xmpdm/projectlink/type) { get; set; } | Gets or sets file type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Returns string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation)() | Returns string contained value in XMP format. |
 
 ### See Also
 

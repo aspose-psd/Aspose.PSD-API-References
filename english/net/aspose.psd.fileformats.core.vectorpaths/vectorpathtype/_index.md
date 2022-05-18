@@ -3,7 +3,7 @@ title: VectorPathType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1400
+weight: 1420
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
 ## VectorPathType enumeration

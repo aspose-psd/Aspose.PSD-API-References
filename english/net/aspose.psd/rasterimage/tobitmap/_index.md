@@ -8,9 +8,15 @@ url: /net/aspose.psd/rasterimage/tobitmap/
 ---
 ## RasterImage.ToBitmap method
 
+Converts raster image to the bitmap.
+
 ```csharp
 public virtual Bitmap ToBitmap()
 ```
+
+## Return Value
+
+The bitmap
 
 ### See Also
 

@@ -8,9 +8,17 @@ url: /net/aspose.psd/rasterimage/adjustgamma/
 ---
 ## RasterImage.AdjustGamma method (1 of 2)
 
+Gamma-correction of an image.
+
 ```csharp
-public virtual void AdjustGamma(float gamma)
+public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| gammaRed | Single | Gamma for red channel coefficient |
+| gammaGreen | Single | Gamma for green channel coefficient |
+| gammaBlue | Single | Gamma for blue channel coefficient |
 
 ### See Also
 
@@ -22,9 +30,15 @@ public virtual void AdjustGamma(float gamma)
 
 ## RasterImage.AdjustGamma method (2 of 2)
 
+Gamma-correction of an image.
+
 ```csharp
-public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+public virtual void AdjustGamma(float gamma)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| gamma | Single | Gamma for red, green and blue channels coefficient |
 
 ### See Also
 

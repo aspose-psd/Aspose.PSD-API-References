@@ -3,7 +3,7 @@ title: BooleanStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2940
+weight: 2990
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/
 ---
 ## BooleanStructure class
@@ -24,9 +24,24 @@ public sealed class BooleanStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the structure key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
-| [Value](value) { get; set; } | Gets or sets a boolean value. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/key) { get; } | Gets the structure key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value) { get; set; } | Gets or sets a boolean value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [StructureKey](structurekey) | Identifies the structure key. |
 
 ### See Also
 

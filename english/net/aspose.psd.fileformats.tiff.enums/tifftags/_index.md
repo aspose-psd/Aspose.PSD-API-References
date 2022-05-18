@@ -3,7 +3,7 @@ title: TiffTags
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3970
+weight: 4020
 url: /net/aspose.psd.fileformats.tiff.enums/tifftags/
 ---
 ## TiffTags enumeration

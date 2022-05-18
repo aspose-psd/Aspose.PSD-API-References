@@ -3,7 +3,7 @@ title: ListStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3010
+weight: 3060
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/
 ---
 ## ListStructure class
@@ -24,10 +24,25 @@ public sealed class ListStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| [ItemsCount](itemscount) { get; } | Gets the items count. |
-| override [Key](key) { get; } | Gets the structure key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
-| [Types](types) { get; set; } | Gets or sets the types. |
+| [ItemsCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount) { get; } | Gets the items count. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/key) { get; } | Gets the structure key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [Types](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types) { get; set; } | Gets or sets the types. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [StructureKey](structurekey) | Identifies the structure key. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: UnitStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3100
+weight: 3150
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/
 ---
 ## UnitStructure class
@@ -24,10 +24,25 @@ public sealed class UnitStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the structure key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
-| [UnitType](unittype) { get; set; } | Gets or sets the unit type. |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/key) { get; } | Gets the structure key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype) { get; set; } | Gets or sets the unit type. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value) { get; set; } | Gets or sets the value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [StructureKey](structurekey) | Identifies the structure key. |
 
 ### See Also
 

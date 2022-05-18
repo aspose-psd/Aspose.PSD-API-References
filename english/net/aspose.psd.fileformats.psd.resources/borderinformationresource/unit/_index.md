@@ -14,6 +14,37 @@ Gets or sets the border units.
 public PhysicalUnit Unit { get; set; }
 ```
 
+### Examples
+
+The following example demonstrates the support of BorderInformationResource resource.
+
+```csharp
+[C#]
+
+string sourceFilePath = "input.psd";
+string outputFilePath = "output.psd";
+
+using (var image = (PsdImage)Image.Load(sourceFilePath))
+{
+    ResourceBlock[] imageResources = image.ImageResources;
+    BorderInformationResource borderInfoResource = null;
+    foreach (var imageResource in imageResources)
+    {
+        if (imageResource is BorderInformationResource)
+        {
+            borderInfoResource = (BorderInformationResource)imageResource;
+            break;
+        }
+    }
+
+    // update BorderInformationResource
+    borderInfoResource.Width = 0.1;
+    borderInfoResource.Unit = PhysicalUnit.Inches;
+
+    image.Save(outputFilePath);
+}
+```
+
 ### See Also
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit)

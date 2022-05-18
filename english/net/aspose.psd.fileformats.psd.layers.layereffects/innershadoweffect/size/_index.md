@@ -3,7 +3,7 @@ title: Size
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/
 ---
 ## InnerShadowEffect.Size property

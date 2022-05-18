@@ -3,7 +3,7 @@ title: LevlResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2520
+weight: 2560
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 ---
 ## LevlResource class
@@ -25,16 +25,19 @@ public class LevlResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| [Version](version) { get; } | Gets the version. Default is 2 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version) { get; } | Gets the version. Default is 2 |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetChannel](getchannel)(int) | Gets the channel. |
+| [GetChannel](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel)(int) | Gets the channel. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

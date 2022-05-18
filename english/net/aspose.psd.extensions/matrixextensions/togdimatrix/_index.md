@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/matrixextensions/togdimatrix/
 ---
 ## MatrixExtensions.ToGdiMatrix method
 
+Converts the [`Matrix`](../../../aspose.psd/matrix) to the Matrix.
+
 ```csharp
 public static Matrix ToGdiMatrix(Matrix matrix)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| matrix | Matrix | The [`Matrix`](../../../aspose.psd/matrix) to convert. |
+
+## Return Value
+
+The converted Matrix.
 
 ### See Also
 

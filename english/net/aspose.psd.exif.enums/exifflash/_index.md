@@ -3,7 +3,7 @@ title: ExifFlash
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 840
+weight: 860
 url: /net/aspose.psd.exif.enums/exifflash/
 ---
 ## ExifFlash enumeration

@@ -3,7 +3,7 @@ title: LayerSectionType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2490
+weight: 2530
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
 ## LayerSectionType enumeration

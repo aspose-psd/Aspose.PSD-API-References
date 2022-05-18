@@ -3,7 +3,7 @@ title: ShapeSegment
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5230
+weight: 5280
 url: /net/aspose.psd/shapesegment/
 ---
 ## ShapeSegment class
@@ -18,8 +18,8 @@ public abstract class ShapeSegment
 
 | Name | Description |
 | --- | --- |
-| abstract [EndPoint](endpoint) { get; } | Gets the ending point. |
-| abstract [StartPoint](startpoint) { get; } | Gets the starting point. |
+| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint) { get; } | Gets the ending point. |
+| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint) { get; } | Gets the starting point. |
 
 ### See Also
 

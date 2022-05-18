@@ -3,7 +3,7 @@ title: TiffExpectedFormat
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3870
+weight: 3920
 url: /net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 ---
 ## TiffExpectedFormat enumeration

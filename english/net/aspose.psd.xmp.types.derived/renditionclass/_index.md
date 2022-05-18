@@ -3,7 +3,7 @@ title: RenditionClass
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5930
+weight: 5980
 url: /net/aspose.psd.xmp.types.derived/renditionclass/
 ---
 ## RenditionClass class
@@ -25,15 +25,15 @@ public sealed class RenditionClass : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Token](token) { get; set; } | Gets or sets the token. |
-| [Value](value) { get; set; } | Gets or sets the value. |
-| static [DefinedValues](definedvalues) { get; } | The defined values |
+| [Token](../../aspose.psd.xmp.types.derived/renditionclass/token) { get; set; } | Gets or sets the token. |
+| [Value](../../aspose.psd.xmp.types.derived/renditionclass/value) { get; set; } | Gets or sets the value. |
+| static [DefinedValues](../../aspose.psd.xmp.types.derived/renditionclass/definedvalues) { get; } | The defined values |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

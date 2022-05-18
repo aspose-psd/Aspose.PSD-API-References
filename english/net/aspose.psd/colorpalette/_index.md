@@ -3,7 +3,7 @@ title: ColorPalette
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.psd/colorpalette/
 ---
 ## ColorPalette class
@@ -27,21 +27,21 @@ public sealed class ColorPalette : IColorPalette
 
 | Name | Description |
 | --- | --- |
-| [Argb32Entries](argb32entries) { get; } | Gets an array of 32-bit ARGB structures. |
-| [Entries](entries) { get; } | Gets an array of [`Color`](../color) structures. |
-| [EntriesCount](entriescount) { get; } | Gets the entries count. |
-| [IsCompactPalette](iscompactpalette) { get; } | Gets or sets a value indicating whether compact palette is used. |
+| [Argb32Entries](../../aspose.psd/colorpalette/argb32entries) { get; } | Gets an array of 32-bit ARGB structures. |
+| [Entries](../../aspose.psd/colorpalette/entries) { get; } | Gets an array of [`Color`](../color) structures. |
+| [EntriesCount](../../aspose.psd/colorpalette/entriescount) { get; } | Gets the entries count. |
+| [IsCompactPalette](../../aspose.psd/colorpalette/iscompactpalette) { get; } | Gets or sets a value indicating whether compact palette is used. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CopyPalette](copypalette)(IColorPalette) | Copies the palette. |
-| static [CopyPalette](copypalette)(IColorPalette, bool) | Copies the palette. |
-| [GetArgb32Color](getargb32color)(int) | Gets the 32-bit ARGB palette color by index. |
-| [GetColor](getcolor)(int) | Gets the palette color by index. |
-| [GetNearestColorIndex](getnearestcolorindex)(Color) | Gets the index of the nearest color. |
-| [GetNearestColorIndex](getnearestcolorindex)(int) | Gets the index of the nearest color. |
+| static [CopyPalette](../../aspose.psd/colorpalette/copypalette)(IColorPalette) | Copies the palette. |
+| static [CopyPalette](../../aspose.psd/colorpalette/copypalette)(IColorPalette, bool) | Copies the palette. |
+| [GetArgb32Color](../../aspose.psd/colorpalette/getargb32color)(int) | Gets the 32-bit ARGB palette color by index. |
+| [GetColor](../../aspose.psd/colorpalette/getcolor)(int) | Gets the palette color by index. |
+| [GetNearestColorIndex](../../aspose.psd/colorpalette/getnearestcolorindex)(Color) | Gets the index of the nearest color. |
+| [GetNearestColorIndex](../../aspose.psd/colorpalette/getnearestcolorindex)(int) | Gets the index of the nearest color. |
 
 ### See Also
 

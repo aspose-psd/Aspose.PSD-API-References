@@ -3,7 +3,7 @@ title: LayerSectionResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2470
+weight: 2510
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
 ## LayerSectionResource class
@@ -24,19 +24,20 @@ public class LayerSectionResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| [BlendModeKey](blendmodekey) { get; set; } | Gets or sets the blend mode key. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| [SectionType](sectiontype) { get; set; } | Gets or sets the section type. |
-| override [Signature](signature) { get; } | Gets the layer resource signature. |
-| [Subtype](subtype) { get; set; } | Gets or sets the subtype. |
+| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey) { get; set; } | Gets or sets the blend mode key. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype) { get; set; } | Gets or sets the section type. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/signature) { get; } | Gets the layer resource signature. |
+| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype) { get; set; } | Gets or sets the subtype. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

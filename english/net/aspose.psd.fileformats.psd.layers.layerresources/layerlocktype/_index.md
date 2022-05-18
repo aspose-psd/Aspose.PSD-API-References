@@ -3,7 +3,7 @@ title: LayerLockType
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2460
+weight: 2500
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 ---
 ## LayerLockType enumeration

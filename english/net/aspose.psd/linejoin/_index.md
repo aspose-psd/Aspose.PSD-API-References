@@ -3,7 +3,7 @@ title: LineJoin
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4870
+weight: 4920
 url: /net/aspose.psd/linejoin/
 ---
 ## LineJoin enumeration

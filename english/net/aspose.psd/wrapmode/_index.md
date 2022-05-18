@@ -3,7 +3,7 @@ title: WrapMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5540
+weight: 5590
 url: /net/aspose.psd/wrapmode/
 ---
 ## WrapMode enumeration

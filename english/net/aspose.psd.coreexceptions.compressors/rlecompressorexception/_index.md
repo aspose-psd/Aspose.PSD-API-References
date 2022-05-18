@@ -3,7 +3,7 @@ title: RleCompressorException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 440
+weight: 460
 url: /net/aspose.psd.coreexceptions.compressors/rlecompressorexception/
 ---
 ## RleCompressorException class

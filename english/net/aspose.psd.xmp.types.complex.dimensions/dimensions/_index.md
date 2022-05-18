@@ -3,7 +3,7 @@ title: Dimensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5860
+weight: 5910
 url: /net/aspose.psd.xmp.types.complex.dimensions/dimensions/
 ---
 ## Dimensions class
@@ -25,15 +25,17 @@ public sealed class Dimensions : ComplexTypeBase
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | Gets or sets the height. |
-| [Units](units) { get; set; } | Gets or sets units. |
-| [Width](width) { get; set; } | Gets or sets the width. |
+| [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height) { get; set; } | Gets or sets the height. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | Gets the default namespace URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | Gets the prefix. |
+| [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units) { get; set; } | Gets or sets units. |
+| [Width](../../aspose.psd.xmp.types.complex.dimensions/dimensions/width) { get; set; } | Gets or sets the width. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

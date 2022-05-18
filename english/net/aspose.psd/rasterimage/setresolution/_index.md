@@ -8,9 +8,16 @@ url: /net/aspose.psd/rasterimage/setresolution/
 ---
 ## RasterImage.SetResolution method
 
+Sets the resolution for this [`RasterImage`](../../rasterimage).
+
 ```csharp
 public virtual void SetResolution(double dpiX, double dpiY)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| dpiX | Double | The horizontal resolution, in dots per inch, of the [`RasterImage`](../../rasterimage). |
+| dpiY | Double | The vertical resolution, in dots per inch, of the [`RasterImage`](../../rasterimage). |
 
 ### See Also
 

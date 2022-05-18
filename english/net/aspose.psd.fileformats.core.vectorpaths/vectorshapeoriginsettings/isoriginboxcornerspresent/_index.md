@@ -18,6 +18,30 @@ public bool IsOriginBoxCornersPresent { get; }
 
 `true` if this instance has the origin box corners property; otherwise, `false`.
 
+### Examples
+
+The following code demonstrate the ability to resize a shape layers that contains vector paths.
+
+```csharp
+[C#]
+
+string sourceFileName = "vectorShapes.psd";
+string outputFileName = "out_vectorShapes.psd";
+string sourcePath = sourceFileName;
+string outputPath = outputFileName;
+string outputPathPng = Path.ChangeExtension(outputPath, ".png");
+using (var psdImage = (PsdImage)Image.Load(sourcePath))
+{
+    foreach (var layer in psdImage.Layers)
+    {
+        layer.Resize(layer.Width * 5 / 4, layer.Height / 2);
+    }
+
+    psdImage.Save(outputPath);
+    psdImage.Save(outputPathPng, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+}
+```
+
 ### See Also
 
 * class [VectorShapeOriginSettings](../../vectorshapeoriginsettings)

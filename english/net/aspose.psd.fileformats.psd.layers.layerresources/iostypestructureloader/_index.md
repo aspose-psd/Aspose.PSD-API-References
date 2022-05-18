@@ -3,7 +3,7 @@ title: IOSTypeStructureLoader
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2400
+weight: 2440
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/
 ---
 ## IOSTypeStructureLoader interface
@@ -18,8 +18,8 @@ public interface IOSTypeStructureLoader
 
 | Name | Description |
 | --- | --- |
-| [CanLoad](canload)(StreamContainer) | Determines whether [`OSTypeStructure`](../ostypestructure) resource can be loaded from the specified [`StreamContainer`](../../aspose.psd/streamcontainer). |
-| [Load](load)(StreamContainer) | Loads the [`OSTypeStructure`](../ostypestructure). |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload)(StreamContainer) | Determines whether [`OSTypeStructure`](../ostypestructure) resource can be loaded from the specified [`StreamContainer`](../../aspose.psd/streamcontainer). |
+| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load)(StreamContainer) | Loads the [`OSTypeStructure`](../ostypestructure). |
 
 ### See Also
 

@@ -8,9 +8,19 @@ url: /net/aspose.psd.extensions/stringformatextensions/togdistringformat/
 ---
 ## StringFormatExtensions.ToGdiStringFormat method
 
+Converts the [`StringFormat`](../../../aspose.psd/stringformat) to the StringFormat.
+
 ```csharp
 public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stringFormat | StringFormat | The [`StringFormat`](../../../aspose.psd/stringformat) to convert. |
+
+## Return Value
+
+The converted StringFormat.
 
 ### See Also
 

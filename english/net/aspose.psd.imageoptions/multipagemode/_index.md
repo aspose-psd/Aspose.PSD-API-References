@@ -3,7 +3,7 @@ title: MultiPageMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4650
+weight: 4700
 url: /net/aspose.psd.imageoptions/multipagemode/
 ---
 ## MultiPageMode enumeration

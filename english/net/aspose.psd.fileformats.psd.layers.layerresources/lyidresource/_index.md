@@ -3,7 +3,7 @@ title: LyidResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2680
+weight: 2730
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
 ## LyidResource class
@@ -25,17 +25,18 @@ public class LyidResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the signature. |
-| [Value](value) { get; } | Gets the value. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature) { get; } | Gets the signature. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value) { get; } | Gets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save)(StreamContainer, int) | Saves to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

@@ -3,7 +3,7 @@ title: HotkeyPrefix
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 4150
+weight: 4200
 url: /net/aspose.psd/hotkeyprefix/
 ---
 ## HotkeyPrefix enumeration

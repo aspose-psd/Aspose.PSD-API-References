@@ -3,7 +3,7 @@ title: XmpRdfRoot
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 6100
+weight: 6150
 url: /net/aspose.psd.xmp/xmprdfroot/
 ---
 ## XmpRdfRoot class
@@ -24,9 +24,15 @@ public sealed class XmpRdfRoot : XmpElementBase, IXmlValue
 
 | Name | Description |
 | --- | --- |
-| [GetNamespaceUri](getnamespaceuri)(string) | Gets namespace URI by specific prefix. Prefix may start without xmlns. |
-| [GetXmlValue](getxmlvalue)() | Converts xmp value to the xml representation. |
-| [RegisterNamespaceUri](registernamespaceuri)(string, string) | Adds namespace uri by prefix. Prefix may start without xmlns. |
+| virtual [AddAttribute](../../aspose.psd.xmp/xmpelementbase/addattribute)(string, string) | Adds the attribute. |
+| virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes)() | Removes all attributes. |
+| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| [Equals](../../aspose.psd.xmp/xmpelementbase/equals)(XmpElementBase) | Indicates whether the current object is equal to another object of the same type. |
+| virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute)(string) | Gets the attribute. |
+| override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode)() | Returns a hash code for this instance. |
+| [GetNamespaceUri](../../aspose.psd.xmp/xmprdfroot/getnamespaceuri)(string) | Gets namespace URI by specific prefix. Prefix may start without xmlns. |
+| [GetXmlValue](../../aspose.psd.xmp/xmprdfroot/getxmlvalue)() | Converts xmp value to the xml representation. |
+| [RegisterNamespaceUri](../../aspose.psd.xmp/xmprdfroot/registernamespaceuri)(string, string) | Adds namespace uri by prefix. Prefix may start without xmlns. |
 
 ### See Also
 

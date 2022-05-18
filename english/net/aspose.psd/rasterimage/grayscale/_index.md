@@ -8,6 +8,8 @@ url: /net/aspose.psd/rasterimage/grayscale/
 ---
 ## RasterImage.Grayscale method
 
+Transformation of an image to its grayscale representation
+
 ```csharp
 public virtual void Grayscale()
 ```

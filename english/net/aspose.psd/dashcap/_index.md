@@ -3,7 +3,7 @@ title: DashCap
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 690
+weight: 710
 url: /net/aspose.psd/dashcap/
 ---
 ## DashCap enumeration

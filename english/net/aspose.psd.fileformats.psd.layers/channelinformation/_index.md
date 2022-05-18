@@ -3,7 +3,7 @@ title: ChannelInformation
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1810
+weight: 1840
 url: /net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
 ## ChannelInformation class
@@ -18,15 +18,15 @@ public class ChannelInformation
 
 | Name | Description |
 | --- | --- |
-| [ChannelInformation](channelinformation)() | The default constructor. |
+| [ChannelInformation](channelinformation)(CompressionMethod, int, int) | Initializes a new instance of the [`ChannelInformation`](../channelinformation) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ChannelID](channelid) { get; set; } | Gets or sets the channel ID. |
-| [CompressionMethod](compressionmethod) { get; set; } | Gets or sets the compression method. |
-| [Length](length) { get; } | Gets the channel length in bytes. |
+| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid) { get; set; } | Gets or sets the channel ID. |
+| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod) { get; set; } | Gets or sets the compression method. |
+| [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length) { get; } | Gets the channel length in bytes. |
 
 ### See Also
 

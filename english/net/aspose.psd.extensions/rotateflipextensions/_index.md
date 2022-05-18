@@ -3,7 +3,7 @@ title: RotateFlipExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1160
+weight: 1180
 url: /net/aspose.psd.extensions/rotateflipextensions/
 ---
 ## RotateFlipExtensions class
@@ -18,7 +18,7 @@ public static class RotateFlipExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiRotateFlipType](togdirotatefliptype)(RotateFlipType) |  |
+| static [ToGdiRotateFlipType](../../aspose.psd.extensions/rotateflipextensions/togdirotatefliptype)(RotateFlipType) | Converts Aspose.PSD.RotateFlipType to System.Drawing.RotateFlipType. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: NvrtResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2700
+weight: 2750
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
 ## NvrtResource class
@@ -25,21 +25,52 @@ public class NvrtResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the PSD version. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion) { get; } | Gets the PSD version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
 | const [TypeToolKey](typetoolkey) | The type tool info key. |
+
+### Examples
+
+The following example demonstrates how to get NvrtResource.
+
+```csharp
+[C#]
+
+string sourceFilePath = "InvertAdjustmentLayer.psd";
+NvrtResource resource = null;
+using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
+{
+    foreach (Aspose.PSD.FileFormats.Psd.Layers.Layer layer in psdImage.Layers)
+    {
+        if (layer is InvertAdjustmentLayer)
+        {
+            foreach (Aspose.PSD.FileFormats.Psd.Layers.LayerResource layerResource in layer.Resources)
+            {
+                if (layerResource is NvrtResource)
+                {
+                    // The NvrtResource is supported.
+                    resource = (NvrtResource)layerResource;
+                    break;
+                }
+            }
+        }
+    }
+}
+```
 
 ### See Also
 

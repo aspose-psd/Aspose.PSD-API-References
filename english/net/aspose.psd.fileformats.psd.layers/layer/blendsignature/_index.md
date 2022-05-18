@@ -3,7 +3,7 @@ title: BlendSignature
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 400
+weight: 390
 url: /net/aspose.psd.fileformats.psd.layers/layer/blendsignature/
 ---
 ## Layer.BlendSignature field

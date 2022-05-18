@@ -3,7 +3,7 @@ title: PixelFormat
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5040
+weight: 5090
 url: /net/aspose.psd/pixelformat/
 ---
 ## PixelFormat enumeration

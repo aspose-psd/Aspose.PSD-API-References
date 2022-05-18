@@ -8,14 +8,21 @@ url: /net/aspose.psd.fileformats.psd.layers/channelinformation/channelinformatio
 ---
 ## ChannelInformation constructor
 
-The default constructor.
+Initializes a new instance of the [`ChannelInformation`](../../channelinformation) class.
 
 ```csharp
-public ChannelInformation()
+public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int psdVersion)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| compressionMethod | CompressionMethod | The compression method. |
+| bitDepth | Int32 | The bit depth. |
+| psdVersion | Int32 | The PSD version. |
 
 ### See Also
 
+* enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod)
 * class [ChannelInformation](../../channelinformation)
 * namespace [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation)
 * assembly [Aspose.PSD](../../../)

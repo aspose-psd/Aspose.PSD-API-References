@@ -3,7 +3,7 @@ title: XmpTypeBase
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 6000
+weight: 6050
 url: /net/aspose.psd.xmp.types/xmptypebase/
 ---
 ## XmpTypeBase class
@@ -18,7 +18,7 @@ public abstract class XmpTypeBase : IXmpType
 
 | Name | Description |
 | --- | --- |
-| abstract [GetXmpRepresentation](getxmprepresentation)() | Gets the string contained value in XMP format. |
+| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation)() | Gets the string contained value in XMP format. |
 
 ### See Also
 

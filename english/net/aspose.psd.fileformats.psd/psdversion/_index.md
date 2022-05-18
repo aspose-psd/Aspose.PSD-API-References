@@ -3,7 +3,7 @@ title: PsdVersion
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3420
+weight: 3470
 url: /net/aspose.psd.fileformats.psd/psdversion/
 ---
 ## PsdVersion enumeration
@@ -20,6 +20,30 @@ public enum PsdVersion : byte
 | --- | --- | --- |
 | Psd | `1` | The default PSD version. |
 | Psb | `2` | The PSB version. |
+
+### Examples
+
+The following example shows ability to convert PSD file to PSB and vice versa.
+
+```csharp
+[C#]
+
+string sourceFilePathPsb = "2layers.psb";
+string outputFilePathPsd = "ConvertFromPsb.psd";
+using (Image img = Image.Load(sourceFilePathPsb))
+{
+    var options = new PsdOptions((PsdImage)img) { PsdVersion = PsdVersion.Psd };
+    img.Save(outputFilePathPsd, options);
+}
+
+string sourceFilePathPsd = "2layers.psd";
+string outputFilePathPsb = "ConvertFromPsd.psb";
+using (Image img = Image.Load(sourceFilePathPsd))
+{
+    var options = new PsdOptions((PsdImage)img) { PsdVersion = PsdVersion.Psb };
+    img.Save(outputFilePathPsb, options);
+}
+```
 
 ### See Also
 

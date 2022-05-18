@@ -3,7 +3,7 @@ title: ExpaResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2330
+weight: 2370
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 ---
 ## ExpaResource class
@@ -26,13 +26,27 @@ public class ExpaResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| [Exposure](exposure) { get; set; } | Gets or sets the exposure. |
-| [GammaCorrection](gammacorrection) { get; set; } | Gets or sets the gamma. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [Offset](offset) { get; set; } | Gets or sets the offset. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| [Version](version) { get; } | Gets the version. Default is 1 |
+| [Exposure](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure) { get; set; } | Gets or sets the exposure. |
+| [GammaCorrection](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection) { get; set; } | Gets or sets the gamma. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length) { get; } | Gets the layer resource length in bytes. |
+| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset) { get; set; } | Gets or sets the offset. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Gets the signature. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/version) { get; } | Gets the version. Default is 1 |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| const [TypeToolKey](typetoolkey) | The type tool info key. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Blend
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd/blend/
 ---
 ## Blend class
@@ -25,15 +25,15 @@ public sealed class Blend
 
 | Name | Description |
 | --- | --- |
-| [Factors](factors) { get; set; } | Gets or sets the array of blend factors for the gradient. |
-| [Positions](positions) { get; set; } | Gets or sets the array of blend positions for the gradient. |
+| [Factors](../../aspose.psd/blend/factors) { get; set; } | Gets or sets the array of blend factors for the gradient. |
+| [Positions](../../aspose.psd/blend/positions) { get; set; } | Gets or sets the array of blend positions for the gradient. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Tests whether the specified object is a [`Blend`](../blend) class and is equivalent to this [`Blend`](../blend) class. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
+| override [Equals](../../aspose.psd/blend/equals)(object) | Tests whether the specified object is a [`Blend`](../blend) class and is equivalent to this [`Blend`](../blend) class. |
+| override [GetHashCode](../../aspose.psd/blend/gethashcode)() | Returns a hash code for this instance. |
 
 ### Remarks
 

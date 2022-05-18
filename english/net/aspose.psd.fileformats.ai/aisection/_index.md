@@ -3,7 +3,7 @@ title: AiSection
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1270
+weight: 1290
 url: /net/aspose.psd.fileformats.ai/aisection/
 ---
 ## AiSection class
@@ -18,7 +18,7 @@ public abstract class AiSection
 
 | Name | Description |
 | --- | --- |
-| [GetData](getdata)() | Gets the string data. |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata)() | Gets the string data. |
 
 ### See Also
 

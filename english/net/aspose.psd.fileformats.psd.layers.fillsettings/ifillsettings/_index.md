@@ -3,7 +3,7 @@ title: IFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 1910
+weight: 1940
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
 ---
 ## IFillSettings interface
@@ -18,7 +18,7 @@ public interface IFillSettings
 
 | Name | Description |
 | --- | --- |
-| [FillType](filltype) { get; } | Gets the type of the fill. |
+| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype) { get; } | Gets the type of the fill. |
 
 ### See Also
 

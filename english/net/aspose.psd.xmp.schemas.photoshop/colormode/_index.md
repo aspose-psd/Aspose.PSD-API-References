@@ -3,7 +3,7 @@ title: ColorMode
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 5600
+weight: 5650
 url: /net/aspose.psd.xmp.schemas.photoshop/colormode/
 ---
 ## ColorMode enumeration

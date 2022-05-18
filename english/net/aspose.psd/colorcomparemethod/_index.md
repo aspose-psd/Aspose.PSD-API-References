@@ -3,7 +3,7 @@ title: ColorCompareMethod
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.psd/colorcomparemethod/
 ---
 ## ColorCompareMethod enumeration

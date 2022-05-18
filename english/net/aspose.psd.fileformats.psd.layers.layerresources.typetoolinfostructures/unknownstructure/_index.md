@@ -3,7 +3,7 @@ title: UnknownStructure
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 3120
+weight: 3170
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/
 ---
 ## UnknownStructure class
@@ -24,9 +24,18 @@ public sealed class UnknownStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| [Data](data) { get; set; } | Gets or sets the data. |
-| override [Key](key) { get; } | Gets the structure key. |
-| override [Length](length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data) { get; set; } | Gets or sets the data. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/key) { get; } | Gets the structure key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Gets or sets the key name. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/length) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Gets the header length. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: ImageException
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 480
+weight: 500
 url: /net/aspose.psd.coreexceptions/imageexception/
 ---
 ## ImageException class

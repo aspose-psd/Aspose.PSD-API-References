@@ -3,7 +3,7 @@ title: IopaResource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2440
+weight: 2480
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/
 ---
 ## IopaResource class
@@ -25,17 +25,18 @@ public class IopaResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| [FillOpacity](fillopacity) { get; set; } | Gets or sets the fill opacity. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](psdversion) { get; } | Gets the psd version. |
-| override [Signature](signature) { get; } | Gets the signature. |
+| [FillOpacity](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity) { get; set; } | Gets or sets the fill opacity. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length) { get; } | Gets the layer resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signature) { get; } | Gets the signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

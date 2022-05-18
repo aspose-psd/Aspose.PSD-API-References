@@ -3,7 +3,7 @@ title: Lfx2Resource
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 2530
+weight: 2570
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
 ## Lfx2Resource class
@@ -24,21 +24,22 @@ public sealed class Lfx2Resource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| [BlendMode](blendmode) { get; } | Gets the blend mode. |
-| [Data](data) { get; set; } | Gets or sets the data. |
-| [DescriptorVersion](descriptorversion) { get; } | Gets the descriptor version. |
-| [EffectColor](effectcolor) { get; } | Gets the color of the effect. |
-| override [Key](key) { get; } | Gets the layer resource key. |
-| override [Length](length) { get; } | Gets the layer resource length in bytes. |
-| [Opacity](opacity) { get; } | Gets the opacity. |
-| override [PsdVersion](psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](signature) { get; } | Gets the layer resource signature. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/blendmode) { get; } | Gets the blend mode. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/data) { get; set; } | Gets or sets the data. |
+| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion) { get; } | Gets the descriptor version. |
+| [EffectColor](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/effectcolor) { get; } | Gets the color of the effect. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/key) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/length) { get; } | Gets the layer resource length in bytes. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/opacity) { get; } | Gets the opacity. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/psdversion) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/signature) { get; } | Gets the layer resource signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

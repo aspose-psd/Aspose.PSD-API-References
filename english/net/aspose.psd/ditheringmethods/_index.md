@@ -3,7 +3,7 @@ title: DitheringMethods
 second_title: Aspose.PSD for .NET API Reference
 description: 
 type: docs
-weight: 760
+weight: 780
 url: /net/aspose.psd/ditheringmethods/
 ---
 ## DitheringMethods enumeration

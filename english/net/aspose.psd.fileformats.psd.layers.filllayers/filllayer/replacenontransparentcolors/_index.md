@@ -18,6 +18,26 @@ public override void ReplaceNonTransparentColors(int newColorArgb)
 | --- | --- | --- |
 | newColorArgb | Int32 | New color ARGB value to replace non transparent colors with. |
 
+### Examples
+
+The following code demonstrates the support of the CMYK ColorMode 16 bit and the ability to drawing by using Aspose.PSD.Graphics class.
+
+```csharp
+[C#]
+
+using (PsdImage image = (PsdImage)Image.Load("cub16bit_cmyk.psd"))
+{
+    RasterCachedImage raster = image.Layers[0];
+    Aspose.PSD.Graphics graphics = new Graphics(raster);
+    int width = raster.Width;
+    int height = raster.Height;
+    Rectangle rect = new Rectangle(width / 3, height / 3, width - (2 * (width / 3)) - 1, height - (2 * (height / 3)) - 1);
+    graphics.DrawRectangle(new Aspose.PSD.Pen(Color.DarkGray, 1), rect);
+    image.Save("output.psd");
+    image.Save("output.png", new PngOptions());
+}
+```
+
 ### See Also
 
 * class [FillLayer](../../filllayer)
