@@ -15,7 +15,7 @@ The namespace handles Adobe Illustrator (AI) file format processing.
 | [AiDataSection](./aidatasection) | The Ai format Data Section |
 | [AiFinalizeSection](./aifinalizesection) | The Ai format Finalize Section |
 | [AiHeader](./aiheader) | The Adobe illustrator File Header |
-| [AiImage](./aiimage) | The Adobe Illustrator (../AI) Image |
+| [AiImage](./aiimage) | The Adobe Illustrator (AI) Image |
 | [AiLayerSection](./ailayersection) | The Ai format Layer Section |
 | [AiRasterImageSection](./airasterimagesection) | The AI Raster Image Section |
 | [AiSection](./aisection) | The Ai format base section |

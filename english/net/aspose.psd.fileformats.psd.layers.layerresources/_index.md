@@ -17,7 +17,7 @@ The namespace contains PSD file format entities contained in layers.
 | [BlwhResource](./blwhresource) | BlwhResource class is a resource of Black and White Adjustment Layer. |
 | [BooleanResource](./booleanresource) | Class BooleanResource. It's pseudo resource. Photoshop haven't it |
 | [BritResource](./britresource) | Class BritResource. Resource of Brightness/Contrast Adjustment Layer |
-| [CgEdResource](./cgedresource) | Class CgEdResource. Content Generator Extra Data (../Photoshop CS5) |
+| [CgEdResource](./cgedresource) | Class CgEdResource. Content Generator Extra Data (Photoshop CS5) |
 | [ClassID](./classid) | The PSD Class ID object. |
 | [ClblResource](./clblresource) | Class ClblResource. This resource contains information about blending of clipped element. |
 | [CmlsResource](./cmlsresource) | Class CmlsResource. |
@@ -25,7 +25,7 @@ The namespace contains PSD file format entities contained in layers.
 | [CurvesContinuousManager](./curvescontinuousmanager) | Manager for Curves Adjustment Layer that manipulates curves |
 | [CurvesDiscreteManager](./curvesdiscretemanager) | Manager for Curves Adjustment Layer that manipulates pixels' map |
 | [CurvesManager](./curvesmanager) | Base Class to manage CurvResource |
-| [CurvResource](./curvresource) | Class CurvResource. Resource of Curves Adjustment Layer 1 byte - 0 if use curves, 1 if used pixels on map if 0 then: 2 bytes - short. Default is 1 4 bytes - int. Used only last byte by bit. First bit is for 1 channel, the Fourth bit for 4 channel for example 2 bytes - short points count 4 bytes * count of point - points of curve 2 short: first position, second height 4 bytes - word "Crv " 2 bytes - short default is 4 for Curves 4 bytes - int. Default is 1 4 bytes - point count 4 bytes * point count - points of curve 2 short: first position, second height 0-4 bytes - Leading to be fold for four if 1 then: 2 bytes - short. Default is 1 4 bytes - int. Used only last byte. One channel is in one bit. First bit is for 1 channel, the Fourth bit for 4 channel for example 256 * count of changed channels - ordered values of channel in range 0 - 255 4 bytes - word "Crv " 2 bytes - short. Default is 3 for pixels on map 4 bytes - int Channel count (../2 + 256) bytes - short 2 for channel index, 256 is ordered values of channel in range 0 - 255 |
+| [CurvResource](./curvresource) | Class CurvResource. Resource of Curves Adjustment Layer 1 byte - 0 if use curves, 1 if used pixels on map if 0 then: 2 bytes - short. Default is 1 4 bytes - int. Used only last byte by bit. First bit is for 1 channel, the Fourth bit for 4 channel for example 2 bytes - short points count 4 bytes * count of point - points of curve 2 short: first position, second height 4 bytes - word "Crv " 2 bytes - short default is 4 for Curves 4 bytes - int. Default is 1 4 bytes - point count 4 bytes * point count - points of curve 2 short: first position, second height 0-4 bytes - Leading to be fold for four if 1 then: 2 bytes - short. Default is 1 4 bytes - int. Used only last byte. One channel is in one bit. First bit is for 1 channel, the Fourth bit for 4 channel for example 256 * count of changed channels - ordered values of channel in range 0 - 255 4 bytes - word "Crv " 2 bytes - short. Default is 3 for pixels on map 4 bytes - int Channel count (2 + 256) bytes - short 2 for channel index, 256 is ordered values of channel in range 0 - 255 |
 | [CustResource](./custresource) | Class CustResource. This resource contains information about blending of clipped element. |
 | [ExpaResource](./exparesource) | Class ExpaResource. Resource of Exposure Adjustment Layer |
 | [FillLayerResource](./filllayerresource) | Base Class for fill layer resources |
@@ -41,7 +41,7 @@ The namespace contains PSD file format entities contained in layers.
 | [LclrResource](./lclrresource) | Class LclrResource. This resource contains information about color of layer in layers' list is PS. It's only |
 | [LevelChannel](./levelchannel) | Class for working with channels in Levels Adjustment Layer |
 | [LevlResource](./levlresource) | Class LevlResource. Resource of Exposure Adjustment Layer |
-| [Lfx2Resource](./lfx2resource) | Lfx2 resource (../effects resource) |
+| [Lfx2Resource](./lfx2resource) | Lfx2 resource (effects resource) |
 | [LiFdDataSource](./lifddatasource) | Defines the liFD data source class in PSD File that contains information about an embedded file. This is part of PSD File Format Manipulation API that helps to modify Adobe® Photoshop® files |
 | [LiFeDataSource](./lifedatasource) | Defines the LnkeDataSource class that contains information about external linked file. This is part of PSD File Format Manipulation API that helps to modify Adobe® Photoshop® files |
 | [LinkDataSource](./linkdatasource) | Defines the LinkDataSource class that contains information about a linked file or an asset in the PSD file. |
@@ -61,9 +61,9 @@ The namespace contains PSD file format entities contained in layers.
 | [OSTypeStructuresRegistry](./ostypestructuresregistry) | Represents the [`OSTypeStructure`](../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) resources registry. |
 | [PattResource](./pattresource) | Class PattResource. Resource with pattern data |
 | [PattResourceData](./pattresourcedata) | The class to store the pattern data for [`PattResource`](../aspose.psd.fileformats.psd.layers.layerresources/pattresource) resource. |
-| [PhflResource](./phflresource) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version (../ = 3 ) or (../ = 2 ) 12 4 bytes each for XYZ color(../Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(../Only in Version 2) 4 Density 1 Preserve Luminosity |
-| [PhflResourceVersion2](./phflresourceversion2) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version (../ = 3 ) or (../ = 2 ) 12 4 bytes each for XYZ color(../Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(../Only in Version 2) 4 Density 1 Preserve Luminosity |
-| [PhflResourceVersion3](./phflresourceversion3) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version (../ = 3 ) or (../ = 2 ) 12 4 bytes each for XYZ color(../Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(../Only in Version 2) 4 Density 1 Preserve Luminosity |
+| [PhflResource](./phflresource) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version ( = 3 ) or ( = 2 ) 12 4 bytes each for XYZ color(Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(Only in Version 2) 4 Density 1 Preserve Luminosity |
+| [PhflResourceVersion2](./phflresourceversion2) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version ( = 3 ) or ( = 2 ) 12 4 bytes each for XYZ color(Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(Only in Version 2) 4 Density 1 Preserve Luminosity |
+| [PhflResourceVersion3](./phflresourceversion3) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version ( = 3 ) or ( = 2 ) 12 4 bytes each for XYZ color(Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(Only in Version 2) 4 Density 1 Preserve Luminosity |
 | [PlacedResource](./placedresource) | Defines the PlacedResource class that contains common information about a placed layer or a smart object layer in the PSD file. Is is used to support smart object layers in the Adobe® Photoshop® images. |
 | [PlLdResource](./plldresource) | Defines the PlLdResource class that contains information about a placed layer in the PSD file. Is is used to support smart object layers in the Adobe® Photoshop® images. It was replaced by SoLdResource in the Adobe® Photoshop® CS3 |
 | [PtFlResource](./ptflresource) | Class PtFlResource. Contains Pattern Fill Layer Data. |
