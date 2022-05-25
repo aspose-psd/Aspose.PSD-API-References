@@ -14,7 +14,7 @@ Gets or sets the consecutive hyphens.
 public int ConsecutiveHyphens { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The consecutive hyphens.
 

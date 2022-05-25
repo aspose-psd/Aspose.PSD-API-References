@@ -14,7 +14,7 @@ Gets or sets the global unique identifier of the smart object layer data [`Smart
 public override Guid UniqueId { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The global unique identifier of the smart object layer data [`SmartObjectResource`](../../smartobjectresource).
 

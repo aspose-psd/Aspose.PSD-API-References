@@ -14,7 +14,7 @@ Gets or sets the settings.
 public PatternFillSettings Settings { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The settings.
 

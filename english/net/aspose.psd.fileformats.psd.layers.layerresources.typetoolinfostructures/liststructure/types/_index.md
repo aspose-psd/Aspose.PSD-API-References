@@ -14,7 +14,7 @@ Gets or sets the types.
 public OSTypeStructure[] Types { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The types.
 

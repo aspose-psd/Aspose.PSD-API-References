@@ -14,7 +14,7 @@ Gets the guide resource blocks count.
 public int GuideCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The guide resource blocks count.
 

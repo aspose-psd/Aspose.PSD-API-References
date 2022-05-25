@@ -14,7 +14,7 @@ Gets the left bottom shift.
 public double LeftBottomShift { get; }
 ```
 
-## Property Value
+### Property Value
 
 The left bottom shift.
 

@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [use this angle in all of the layer effe
 public bool UseGlobalLight { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [use global light]; otherwise, `false`.
 

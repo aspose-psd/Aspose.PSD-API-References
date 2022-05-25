@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this [`GdFlResource`](../../gdflresource
 public bool Reverse { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if reverse; otherwise, `false`.
 

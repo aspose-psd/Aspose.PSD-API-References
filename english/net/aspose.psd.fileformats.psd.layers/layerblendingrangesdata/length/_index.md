@@ -14,7 +14,7 @@ Gets the length of layer blending ranges data in bytes.
 public int Length { get; }
 ```
 
-## Property Value
+### Property Value
 
 The length of layer blending ranges data.
 

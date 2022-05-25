@@ -15,7 +15,7 @@ Layer lock options
 public enum LayerLockType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

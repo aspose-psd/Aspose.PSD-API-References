@@ -14,7 +14,7 @@ Gets or sets the JPEG options. Suitable when thumbnail resource is saved into JP
 public JpegOptions JpegOptions { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The JPEG options.
 

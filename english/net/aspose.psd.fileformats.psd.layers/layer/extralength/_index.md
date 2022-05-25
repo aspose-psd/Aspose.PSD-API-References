@@ -14,7 +14,7 @@ Gets the layer extra information length in bytes.
 public int ExtraLength { get; }
 ```
 
-## Property Value
+### Property Value
 
 The extra layer length.
 

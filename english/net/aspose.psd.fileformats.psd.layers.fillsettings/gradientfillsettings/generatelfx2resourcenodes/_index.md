@@ -14,7 +14,7 @@ Generates the LFX2 resource nodes.
 public static List<OSTypeStructure> GenerateLfx2ResourceNodes()
 ```
 
-## Return Value
+### Return Value
 
 Generated List of [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
 

@@ -14,7 +14,7 @@ Gets or sets the end indent.
 public double EndIndent { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The end indent.
 

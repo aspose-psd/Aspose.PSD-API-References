@@ -14,7 +14,7 @@ Gets the text of the layer
 public string InnerText { get; }
 ```
 
-## Property Value
+### Property Value
 
 The text.
 

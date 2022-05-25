@@ -14,7 +14,7 @@ Gets or sets the blend mode key.
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The blend mode key.
 

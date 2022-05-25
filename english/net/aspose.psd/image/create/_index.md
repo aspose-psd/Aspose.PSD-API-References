@@ -20,7 +20,7 @@ public static Image Create(ImageOptionsBase imageOptions, int width, int height)
 | width | Int32 | The width. |
 | height | Int32 | The height. |
 
-## Return Value
+### Return Value
 
 The newly created image.
 

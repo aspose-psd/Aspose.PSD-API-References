@@ -14,7 +14,7 @@ Gets or sets the channel identifier.
 public short ChannelId { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The channel identifier.
 

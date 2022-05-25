@@ -14,7 +14,7 @@ Gets the blend mode signature.
 public int BlendModeSignature { get; }
 ```
 
-## Property Value
+### Property Value
 
 The blend mode signature.
 

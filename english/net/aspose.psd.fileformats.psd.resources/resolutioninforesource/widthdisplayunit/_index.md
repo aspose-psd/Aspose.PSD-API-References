@@ -14,7 +14,7 @@ Gets or sets the width display unit.
 public PhysicalUnit WidthDisplayUnit { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The width display unit.
 

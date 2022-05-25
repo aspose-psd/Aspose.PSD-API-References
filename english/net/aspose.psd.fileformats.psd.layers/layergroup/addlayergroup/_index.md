@@ -19,7 +19,7 @@ public LayerGroup AddLayerGroup(string groupName, int index)
 | groupName | String | Name of the group. |
 | index | Int32 | The index of the layer to insert after. |
 
-## Return Value
+### Return Value
 
 Opening group layer
 

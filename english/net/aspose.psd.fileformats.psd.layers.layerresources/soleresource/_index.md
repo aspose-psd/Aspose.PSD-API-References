@@ -75,11 +75,11 @@ public class SoLeResource : SmartObjectResource
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save)(StreamContainer, int) | Saves the smart object resource to the specified stream container. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The type tool info key: 'SoLE'. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey) | The type tool info key: 'SoLE'. |
 
 ### Examples
 

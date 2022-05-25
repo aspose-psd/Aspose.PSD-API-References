@@ -14,7 +14,7 @@ Gets or sets the text version.
 public short TextVersion { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The text version.
 

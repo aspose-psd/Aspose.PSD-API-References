@@ -14,7 +14,7 @@ Gets or sets the vibrance.
 public int Vibrance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vibrance.
 

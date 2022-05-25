@@ -14,7 +14,7 @@ Gets the raw color palette entries data.
 public byte[] RawEntries { get; }
 ```
 
-## Property Value
+### Property Value
 
 The raw color palette entries data.
 

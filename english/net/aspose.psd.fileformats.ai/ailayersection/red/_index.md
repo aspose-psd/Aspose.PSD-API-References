@@ -14,7 +14,7 @@ Gets or sets the red color component.
 public int Red { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The red color component.
 

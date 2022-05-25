@@ -18,7 +18,7 @@ public LevelChannel GetChannel(int channelIndex)
 | --- | --- | --- |
 | channelIndex | Int32 | Index of the channel. |
 
-## Return Value
+### Return Value
 
 Level Data of Channel
 

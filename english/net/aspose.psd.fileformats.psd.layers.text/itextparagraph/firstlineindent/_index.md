@@ -14,7 +14,7 @@ Gets or sets the first line indent.
 public double FirstLineIndent { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The first line indent.
 

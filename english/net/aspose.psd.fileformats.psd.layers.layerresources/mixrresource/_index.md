@@ -41,11 +41,11 @@ public sealed class MixrResource : AdjustmentLayerResource
 | [SetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/setchannelinfo)(int, byte[]) | Sets the channel information. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The type tool info key. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey) | The type tool info key. |
 
 ### See Also
 

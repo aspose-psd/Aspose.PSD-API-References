@@ -14,7 +14,7 @@ Gets or sets the duration numerator.
 public int DurationNumerator { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The duration numerator.
 

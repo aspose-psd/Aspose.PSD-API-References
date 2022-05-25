@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this [`IPatternFillSettings`](../../ipat
 public bool Linked { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if linked; otherwise, `false`.
 

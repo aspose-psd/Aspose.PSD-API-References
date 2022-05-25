@@ -14,7 +14,7 @@ Creates a new smart object layer by coping this one. Notice that for embedded sm
 public SmartObjectLayer DuplicateLayer()
 ```
 
-## Return Value
+### Return Value
 
 The cloned [`SmartObjectLayer`](../../smartobjectlayer) instance.
 

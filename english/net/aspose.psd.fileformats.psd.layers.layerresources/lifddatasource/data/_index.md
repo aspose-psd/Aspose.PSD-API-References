@@ -14,7 +14,7 @@ Gets or sets the embedded smart object data in PSD file.
 public byte[] Data { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The the embedded smart object data.
 

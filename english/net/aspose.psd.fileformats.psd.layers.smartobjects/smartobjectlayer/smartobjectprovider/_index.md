@@ -14,7 +14,7 @@ Gets the smart object provider.
 public SmartObjectProvider SmartObjectProvider { get; }
 ```
 
-## Property Value
+### Property Value
 
 The smart object provider.
 

@@ -14,7 +14,7 @@ Adds the color point.
 public GradientTransparencyPoint AddTransparencyPoint()
 ```
 
-## Return Value
+### Return Value
 
 Created transparency point
 

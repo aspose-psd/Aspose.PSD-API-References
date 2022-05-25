@@ -14,7 +14,7 @@ Gets or sets the brightness. For PS range of brightness is from -150 to +150. Bu
 public int Brightness { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The brightness.
 

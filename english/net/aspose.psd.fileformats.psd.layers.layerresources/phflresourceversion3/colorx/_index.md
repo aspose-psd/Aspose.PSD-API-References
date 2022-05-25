@@ -14,7 +14,7 @@ Gets or sets the X color.
 public float ColorX { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The X color.
 

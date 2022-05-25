@@ -14,7 +14,7 @@ Gets or sets the right border.
 public short RightBorder { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The right border.
 

@@ -14,7 +14,7 @@ Gets the version of the data source in the PSD LnkE / Lnk2 resource.
 public int Version { get; }
 ```
 
-## Property Value
+### Property Value
 
 The LiFE / LiFD link data source version number.
 

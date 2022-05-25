@@ -14,7 +14,7 @@ Gets the value as LnsrResourceType if corresponding enum is described. Otherwise
 public LnsrResourceType Value { get; }
 ```
 
-## Property Value
+### Property Value
 
 The value as LnsrResourceType
 

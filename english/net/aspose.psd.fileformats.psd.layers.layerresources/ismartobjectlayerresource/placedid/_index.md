@@ -14,7 +14,7 @@ Gets or sets the unique identifier of this smart object layer data in the PSD im
 public Guid PlacedId { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The unique identifier of this smart object layer resource.
 

@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [knocks out].
 public bool KnocksOut { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [knocks out]; otherwise, `false`.
 

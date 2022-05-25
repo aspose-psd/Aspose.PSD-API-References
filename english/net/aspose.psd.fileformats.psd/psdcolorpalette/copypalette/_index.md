@@ -19,7 +19,7 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCo
 | colorPalette | IColorPalette | The color palette. |
 | useCompactPalette | Boolean | Indicating whether compact palette. |
 
-## Return Value
+### Return Value
 
 The newly created and copied palette or null if null palette passed.
 
@@ -44,7 +44,7 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette)
 | --- | --- | --- |
 | colorPalette | IColorPalette | The color palette. |
 
-## Return Value
+### Return Value
 
 The newly created and copied palette or null if null palette passed.
 

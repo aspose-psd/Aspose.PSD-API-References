@@ -14,7 +14,7 @@ Gets or sets the width of the pattern.
 public int PatternWidth { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The width of the pattern.
 

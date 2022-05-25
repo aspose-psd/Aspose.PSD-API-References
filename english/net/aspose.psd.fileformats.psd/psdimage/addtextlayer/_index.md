@@ -19,7 +19,7 @@ public TextLayer AddTextLayer(string text, Rectangle rect)
 | text | String | The layer's text. |
 | rect | Rectangle | The layer's rectangle. |
 
-## Return Value
+### Return Value
 
 Created text layer.
 

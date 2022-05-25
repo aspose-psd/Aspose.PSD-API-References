@@ -14,7 +14,7 @@ Gets or sets the count.
 public short Count { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The count.
 

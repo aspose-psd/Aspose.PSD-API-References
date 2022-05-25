@@ -14,7 +14,7 @@ Gets or sets the 32-bit ARGB thumbnail data.
 public int[] ThumbnailArgb32Data { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The 32-bit ARGB thumbnail data.
 

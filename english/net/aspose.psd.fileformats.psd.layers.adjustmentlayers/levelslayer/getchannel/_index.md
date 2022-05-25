@@ -18,7 +18,7 @@ public LevelChannel GetChannel(int index)
 | --- | --- | --- |
 | index | Int32 | The index. |
 
-## Return Value
+### Return Value
 
 [`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel) by index
 

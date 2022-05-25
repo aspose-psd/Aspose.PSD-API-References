@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this layer is a template layer.
 public bool IsTemplate { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this layer is a template; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Adds the hue/saturation adjustment layer.
 public HueSaturationLayer AddHueSaturationAdjustmentLayer()
 ```
 
-## Return Value
+### Return Value
 
 A newly created hue/saturation layer.
 

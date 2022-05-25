@@ -14,7 +14,7 @@ Gets a value indicating whether this instance has a shape invalidated property s
 public bool IsShapeInvalidatedPresent { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has a shape invalidated property set; otherwise, `false`.
 

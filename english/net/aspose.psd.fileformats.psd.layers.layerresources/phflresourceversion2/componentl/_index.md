@@ -14,7 +14,7 @@ Gets or sets the L component of color
 public short ComponentL { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The L component.
 

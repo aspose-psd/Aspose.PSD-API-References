@@ -14,7 +14,7 @@ Gets the resource data size in bytes.
 public override int DataSize { get; }
 ```
 
-## Property Value
+### Property Value
 
 The resource data size.
 

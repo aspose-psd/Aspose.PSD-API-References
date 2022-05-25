@@ -14,7 +14,7 @@ Gets or sets the bottom layer position.
 public int Bottom { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The bottom layer position.
 

@@ -14,7 +14,7 @@ Gets or sets the graphics library element name, for Adobe® Photoshop® CC Libra
 public string ElementName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The graphics library element name.
 

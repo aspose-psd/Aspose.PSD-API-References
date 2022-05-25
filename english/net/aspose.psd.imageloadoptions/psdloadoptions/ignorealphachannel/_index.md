@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [ignore alpha channel].
 public bool IgnoreAlphaChannel { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [ignore alpha channel]; otherwise, `false`.
 

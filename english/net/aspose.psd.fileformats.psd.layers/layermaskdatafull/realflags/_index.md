@@ -14,7 +14,7 @@ Gets or sets the layer mask flags that is used for user / raster mask. For vecto
 public LayerMaskFlags RealFlags { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The real layer mask flags.
 

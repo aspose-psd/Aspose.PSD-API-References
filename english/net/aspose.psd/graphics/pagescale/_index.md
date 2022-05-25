@@ -14,7 +14,7 @@ Gets or sets the scaling between world units and page units for this Aspose.PSD.
 public float PageScale { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The scaling between world units and page units for this Aspose.PSD.Graphics.
 

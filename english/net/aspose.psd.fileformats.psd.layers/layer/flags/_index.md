@@ -14,7 +14,7 @@ Gets or sets the layer flags. bit 0 = transparency protected; bit 1 = visible; b
 public LayerFlags Flags { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer flags.
 

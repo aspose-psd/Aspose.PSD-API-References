@@ -14,7 +14,7 @@ Gets or sets the horizontal placement.
 public int HorizontalPlacement { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The horizontal placement.
 

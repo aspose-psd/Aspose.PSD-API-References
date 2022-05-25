@@ -18,7 +18,7 @@ public static bool IsFontAllowed(string fontName)
 | --- | --- | --- |
 | fontName | String | Name of the font. |
 
-## Return Value
+### Return Value
 
 `true` if [is font allowed] [the specified font name]; otherwise, `false`.
 

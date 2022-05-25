@@ -14,7 +14,7 @@ Gets the class name as ASCII encoding.
 public string ClassName { get; }
 ```
 
-## Property Value
+### Property Value
 
 The class name.
 

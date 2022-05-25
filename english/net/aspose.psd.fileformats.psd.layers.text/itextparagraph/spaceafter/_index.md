@@ -14,7 +14,7 @@ Gets or sets the space after.
 public double SpaceAfter { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The space after.
 

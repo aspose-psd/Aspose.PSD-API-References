@@ -14,7 +14,7 @@ Sets the style.
 public ITextParagraph Paragraph { get; }
 ```
 
-## Property Value
+### Property Value
 
 The paragraph.
 

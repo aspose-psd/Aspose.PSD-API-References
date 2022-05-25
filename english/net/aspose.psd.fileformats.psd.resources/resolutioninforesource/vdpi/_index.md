@@ -14,7 +14,7 @@ Vertical DPI.
 public FixedPointDecimal VDpi { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vertical dpi.
 

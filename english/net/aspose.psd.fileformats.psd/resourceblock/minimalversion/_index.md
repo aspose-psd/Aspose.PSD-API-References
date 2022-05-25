@@ -14,7 +14,7 @@ Gets the minimal required PSD version.
 public abstract int MinimalVersion { get; }
 ```
 
-## Property Value
+### Property Value
 
 The minimal PSD version.
 

@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this [`IGradientFillSettings`](../../igr
 public bool Dither { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if dither; otherwise, `false`.
 

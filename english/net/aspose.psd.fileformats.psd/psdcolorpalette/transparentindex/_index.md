@@ -14,7 +14,7 @@ Gets the index of the transparent color.
 public short TransparentIndex { get; }
 ```
 
-## Property Value
+### Property Value
 
 The index of the transparent color.
 

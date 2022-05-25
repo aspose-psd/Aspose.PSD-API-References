@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this instance is position protected.
 public bool IsPositionProtected { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is position protected; otherwise, `false`.
 

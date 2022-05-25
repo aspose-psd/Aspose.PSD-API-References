@@ -14,7 +14,7 @@ Specifies thumbnail data format.
 public enum ThumbnailFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

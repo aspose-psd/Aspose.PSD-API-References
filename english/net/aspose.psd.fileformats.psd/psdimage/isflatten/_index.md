@@ -14,7 +14,7 @@ Gets a value indicating whether psd image is flattened.
 public bool IsFlatten { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is flatten; otherwise, `false`.
 

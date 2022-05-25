@@ -14,7 +14,7 @@ Gets the bits per channel.
 public int BitsPerChannel { get; }
 ```
 
-## Property Value
+### Property Value
 
 The bits per channel.
 

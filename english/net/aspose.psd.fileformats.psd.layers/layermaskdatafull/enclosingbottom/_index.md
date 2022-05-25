@@ -14,7 +14,7 @@ Gets or sets the enclosing bottom raster mask position in the PSD image layer.
 public int EnclosingBottom { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The bottom layer mask position.
 

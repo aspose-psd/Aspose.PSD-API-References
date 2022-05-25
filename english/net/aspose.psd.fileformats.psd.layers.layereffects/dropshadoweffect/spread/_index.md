@@ -14,7 +14,7 @@ Gets or sets the intensity as a percent.
 public int Spread { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The spread.
 

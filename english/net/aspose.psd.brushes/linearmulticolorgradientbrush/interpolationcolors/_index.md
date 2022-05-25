@@ -14,7 +14,7 @@ Gets or sets a [`ColorBlend`](../../../aspose.psd/colorblend) that defines a mul
 public ColorBlend InterpolationColors { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 A [`ColorBlend`](../../../aspose.psd/colorblend) that defines a multicolor linear gradient.
 

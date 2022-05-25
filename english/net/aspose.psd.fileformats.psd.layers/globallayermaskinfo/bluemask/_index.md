@@ -14,7 +14,7 @@ Gets or sets the blue mask.
 public short BlueMask { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The blue mask.
 

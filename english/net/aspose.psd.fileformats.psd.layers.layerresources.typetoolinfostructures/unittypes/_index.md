@@ -14,7 +14,7 @@ The unit types.
 public enum UnitTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -19,7 +19,7 @@ public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 | bottomLayer | Layer | The bottom layer. |
 | topLayer | Layer | The top layer. |
 
-## Return Value
+### Return Value
 
 Bottom layer after the merge
 

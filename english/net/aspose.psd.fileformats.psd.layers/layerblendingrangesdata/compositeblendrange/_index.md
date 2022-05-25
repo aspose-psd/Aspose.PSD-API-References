@@ -14,7 +14,7 @@ Gets or sets the composite blend ranges.
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The composite blend ranges.
 

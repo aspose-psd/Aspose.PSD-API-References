@@ -14,7 +14,7 @@ Gets the type of the font.
 public int FontType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the font.
 

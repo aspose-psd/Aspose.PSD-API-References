@@ -14,7 +14,7 @@ Gets the curve manager.
 public CurvesManager GetCurveManager()
 ```
 
-## Return Value
+### Return Value
 
 [`CurvesDiscreteManager`](../../curvesdiscretemanager) or [`CurvesContinuousManager`](../../curvescontinuousmanager)
 

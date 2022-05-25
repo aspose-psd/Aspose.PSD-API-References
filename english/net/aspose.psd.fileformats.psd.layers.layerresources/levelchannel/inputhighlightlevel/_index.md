@@ -14,7 +14,7 @@ Gets or sets the input highlight level.
 public short InputHighlightLevel { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The input highlight level.
 

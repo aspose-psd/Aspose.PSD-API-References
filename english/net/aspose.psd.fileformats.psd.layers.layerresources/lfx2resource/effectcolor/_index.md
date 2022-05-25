@@ -14,7 +14,7 @@ Gets the color of the effect.
 public Color EffectColor { get; }
 ```
 
-## Property Value
+### Property Value
 
 The color of the effect.
 

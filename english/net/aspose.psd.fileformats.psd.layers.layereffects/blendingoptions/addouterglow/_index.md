@@ -14,7 +14,7 @@ Adds the outer glow effect.
 public OuterGlowEffect AddOuterGlow()
 ```
 
-## Return Value
+### Return Value
 
 Created [`OuterGlowEffect`](../../outergloweffect) object
 

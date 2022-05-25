@@ -19,7 +19,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesC
 | image | RasterImage | The raster image. |
 | entriesCount | Int32 | The desired entries count. |
 
-## Return Value
+### Return Value
 
 The color palette which starts with the most frequent colors from the *image* and contains *entriesCount* entries.
 
@@ -48,7 +48,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 | destBounds | Rectangle | The destination image bounds. |
 | entriesCount | Int32 | The desired entries count. |
 
-## Return Value
+### Return Value
 
 The color palette which starts with the most frequent colors from the *image* and contains *entriesCount* entries.
 
@@ -79,7 +79,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 | entriesCount | Int32 | The desired entries count. |
 | useImagePalette | Boolean | If set, it will use its own image palette if available |
 
-## Return Value
+### Return Value
 
 The color palette which starts with the most frequent colors from the *image* and contains *entriesCount* entries.
 

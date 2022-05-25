@@ -14,7 +14,7 @@ Gets or sets the dim value as percentage. Reduces the intensity of linked images
 public int DimValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The dim value as percentage.
 

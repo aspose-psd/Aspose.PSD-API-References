@@ -14,7 +14,7 @@ Gets or sets the alpha mask.
 public short AlphaMask { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The alpha mask.
 

@@ -14,7 +14,7 @@ Gets or sets the size of the hyphenated word.
 public int HyphenatedWordSize { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The size of the hyphenated word.
 

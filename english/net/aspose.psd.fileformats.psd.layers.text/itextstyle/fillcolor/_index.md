@@ -14,7 +14,7 @@ Gets or sets the color of the fill.
 public Color FillColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color of the fill.
 

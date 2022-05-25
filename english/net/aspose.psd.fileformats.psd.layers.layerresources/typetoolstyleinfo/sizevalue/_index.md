@@ -14,7 +14,7 @@ Gets or sets the size value.
 public int SizeValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The size value.
 

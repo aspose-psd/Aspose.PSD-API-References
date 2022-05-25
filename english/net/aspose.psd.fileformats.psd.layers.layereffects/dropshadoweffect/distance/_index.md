@@ -14,7 +14,7 @@ Gets or sets the distance in pixels.
 public int Distance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The distance.
 

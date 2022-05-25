@@ -14,7 +14,7 @@ Gets font style parsed from subfamily name
 public FontStyle Style { get; }
 ```
 
-## Property Value
+### Property Value
 
 Font style parsed from subfamily name
 

@@ -14,7 +14,7 @@ Gets or sets the color usage.
 public string ColorUsage { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color usage.
 

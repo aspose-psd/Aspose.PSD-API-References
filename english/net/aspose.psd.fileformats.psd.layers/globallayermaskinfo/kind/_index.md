@@ -14,7 +14,7 @@ Gets or sets the kind. 0 = Color selected--i.e. inverted; 1 = Color protected; 1
 public byte Kind { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The kind.
 

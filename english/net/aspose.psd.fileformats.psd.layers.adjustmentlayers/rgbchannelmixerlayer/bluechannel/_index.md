@@ -14,7 +14,7 @@ Gets the blue channel.
 public RgbMixerChannel BlueChannel { get; }
 ```
 
-## Property Value
+### Property Value
 
 The blue channel.
 

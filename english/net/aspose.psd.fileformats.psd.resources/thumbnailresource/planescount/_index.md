@@ -14,7 +14,7 @@ Gets or sets the planes count.
 public short PlanesCount { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The thumbnail planes count.
 

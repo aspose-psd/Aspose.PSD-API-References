@@ -14,7 +14,7 @@ Gets or sets the color.
 public IFillSettings FillColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color.
 

@@ -14,7 +14,7 @@ Gets or sets the default color.
 public byte DefaultColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The default color.
 

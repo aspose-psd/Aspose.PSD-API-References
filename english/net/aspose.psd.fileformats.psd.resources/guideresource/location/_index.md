@@ -14,7 +14,7 @@ Gets or sets the location of guide in document coordinates.
 public int Location { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The guide location.
 

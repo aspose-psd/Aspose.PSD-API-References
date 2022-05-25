@@ -14,7 +14,7 @@ Gets the blending options.
 public BlendingOptions BlendingOptions { get; }
 ```
 
-## Property Value
+### Property Value
 
 The blending options.
 

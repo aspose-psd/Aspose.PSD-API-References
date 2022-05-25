@@ -14,7 +14,7 @@ Gets the channel length in bytes.
 public int Length { get; }
 ```
 
-## Property Value
+### Property Value
 
 The length.
 

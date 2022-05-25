@@ -14,7 +14,7 @@ Gets or sets the TY value.
 public double Ty { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The TY value.
 

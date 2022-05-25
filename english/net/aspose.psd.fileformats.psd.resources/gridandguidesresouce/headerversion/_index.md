@@ -14,7 +14,7 @@ Gets or sets the header version. This value should be always 1.
 public int HeaderVersion { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The header version.
 

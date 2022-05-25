@@ -14,7 +14,7 @@ Gets the height.
 public short Height { get; }
 ```
 
-## Property Value
+### Property Value
 
 The height.
 

@@ -19,7 +19,7 @@ public LayerResource Load(StreamContainer streamContainer, int psdVersion)
 | streamContainer | StreamContainer | The stream container to load from. |
 | psdVersion | Int32 | The PSD version. |
 
-## Return Value
+### Return Value
 
 The loaded resource.
 

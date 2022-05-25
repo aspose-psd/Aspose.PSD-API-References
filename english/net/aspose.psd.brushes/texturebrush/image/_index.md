@@ -14,7 +14,7 @@ Gets the [`Image`](../../../aspose.psd/image) object associated with this [`Text
 public Image Image { get; }
 ```
 
-## Property Value
+### Property Value
 
 An [`Image`](../../../aspose.psd/image) object that represents the image with which this [`TextureBrush`](../../texturebrush) object fills shapes.
 

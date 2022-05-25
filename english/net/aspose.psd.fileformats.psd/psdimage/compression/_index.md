@@ -14,7 +14,7 @@ Gets the compression method.
 public CompressionMethod Compression { get; }
 ```
 
-## Property Value
+### Property Value
 
 The compression.
 

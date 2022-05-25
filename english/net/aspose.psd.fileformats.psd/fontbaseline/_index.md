@@ -14,7 +14,7 @@ This is the font baseline.
 public enum FontBaseline
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

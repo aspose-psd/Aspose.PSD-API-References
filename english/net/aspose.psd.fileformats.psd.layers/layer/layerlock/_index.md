@@ -14,7 +14,7 @@ Gets or sets the layer lock. Note that if flag LayerFlags.TransparencyProtected 
 public LayerLockType LayerLock { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer lock.
 

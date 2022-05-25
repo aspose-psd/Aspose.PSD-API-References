@@ -38,12 +38,12 @@ public sealed class FXidResource : LayerResource
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [FEidTypeToolKey](feidtypetoolkey) | The type tool info key FEid. |
-| const [FXidTypeToolKey](fxidtypetoolkey) | The type tool info key FXid. |
+| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey) | The type tool info key FEid. |
+| const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey) | The type tool info key FXid. |
 
 ### Examples
 

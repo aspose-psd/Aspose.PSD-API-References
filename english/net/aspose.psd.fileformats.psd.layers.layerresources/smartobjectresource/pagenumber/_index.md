@@ -14,7 +14,7 @@ Gets or sets the page number of the smart object layer data in the PSD file.
 public override int PageNumber { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The page number of the smart object layer data.
 

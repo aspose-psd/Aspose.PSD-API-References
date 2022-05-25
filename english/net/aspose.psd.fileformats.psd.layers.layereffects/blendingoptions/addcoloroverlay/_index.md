@@ -14,7 +14,7 @@ Adds the color overlay.
 public ColorOverlayEffect AddColorOverlay()
 ```
 
-## Return Value
+### Return Value
 
 Created [`ColorOverlayEffect`](../../coloroverlayeffect) object
 

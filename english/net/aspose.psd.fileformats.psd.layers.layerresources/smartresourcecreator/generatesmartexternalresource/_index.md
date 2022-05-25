@@ -14,7 +14,7 @@ Generates the external smart object resource.
 public SoLeResource GenerateSmartExternalResource()
 ```
 
-## Return Value
+### Return Value
 
 The generated [`SoLeResource`](../../soleresource) instance.
 

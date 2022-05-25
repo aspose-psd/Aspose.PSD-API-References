@@ -14,7 +14,7 @@ Gets or sets the fill opacity.
 public byte FillOpacity { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The fill opacity.
 

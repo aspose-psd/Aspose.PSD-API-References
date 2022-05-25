@@ -14,7 +14,7 @@ Gets or sets the width of stroke effect.
 public int Size { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The width of the stroke effect.
 

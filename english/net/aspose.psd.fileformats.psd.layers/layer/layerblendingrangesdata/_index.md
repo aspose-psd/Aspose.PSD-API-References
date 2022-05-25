@@ -14,7 +14,7 @@ Gets or sets the layer blending ranges data.
 public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer blending ranges data.
 

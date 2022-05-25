@@ -18,7 +18,7 @@ public static string GetReplacementFont(string fontName)
 | --- | --- | --- |
 | fontName | String | Name of the font. |
 
-## Return Value
+### Return Value
 
 The name of replaced font
 

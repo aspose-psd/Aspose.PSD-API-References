@@ -14,7 +14,7 @@ The Photoshop auto kerning mode (distance between symbols).
 public enum AutoKerning
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

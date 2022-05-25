@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this layer is printed. Makes the artwork
 public bool IsPrinted { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this layer is printed; otherwise, `false`.
 

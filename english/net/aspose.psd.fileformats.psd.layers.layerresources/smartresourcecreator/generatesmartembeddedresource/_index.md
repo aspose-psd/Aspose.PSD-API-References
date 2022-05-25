@@ -14,7 +14,7 @@ Generates the embedded smart object resource.
 public SoLdResource GenerateSmartEmbeddedResource()
 ```
 
-## Return Value
+### Return Value
 
 The generated [`SoLdResource`](../../soldresource) instance.
 

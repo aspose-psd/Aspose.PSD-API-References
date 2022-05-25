@@ -14,7 +14,7 @@ Gets or sets the vertical placement.
 public int VerticalPlacement { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vertical placement.
 

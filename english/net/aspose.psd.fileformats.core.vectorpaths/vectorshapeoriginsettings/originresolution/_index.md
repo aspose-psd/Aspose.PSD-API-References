@@ -14,7 +14,7 @@ Gets or sets the origin resolution.
 public double OriginResolution { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The origin resolution.
 

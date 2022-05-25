@@ -14,7 +14,7 @@ Gets or sets the type of the point.
 public string PointType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the point.
 

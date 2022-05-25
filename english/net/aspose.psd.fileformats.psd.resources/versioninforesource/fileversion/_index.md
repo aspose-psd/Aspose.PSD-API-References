@@ -14,7 +14,7 @@ Gets or sets the file version.
 public uint FileVersion { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The file version.
 

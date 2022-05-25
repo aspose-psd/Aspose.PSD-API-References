@@ -14,7 +14,7 @@ Gets the effects.
 public ILayerEffect[] Effects { get; }
 ```
 
-## Property Value
+### Property Value
 
 The effects.
 

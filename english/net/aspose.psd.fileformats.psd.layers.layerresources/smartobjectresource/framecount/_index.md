@@ -14,7 +14,7 @@ Gets or sets the frame count of the smart object layer data in the PSD file.
 public int FrameCount { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The frame count of placed layer information.
 

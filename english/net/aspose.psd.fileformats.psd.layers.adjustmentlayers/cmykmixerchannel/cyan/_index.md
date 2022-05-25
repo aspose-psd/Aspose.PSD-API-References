@@ -14,7 +14,7 @@ Gets or sets the cyan.
 public short Cyan { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The cyan.
 

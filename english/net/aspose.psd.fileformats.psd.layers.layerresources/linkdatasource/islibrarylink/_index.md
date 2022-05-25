@@ -14,7 +14,7 @@ Gets a value indicating whether this PSD link data source links to the Adobe® P
 public bool IsLibraryLink { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is a Adobe® Photoshop® СС library link; otherwise, `false`.
 

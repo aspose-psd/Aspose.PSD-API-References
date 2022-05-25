@@ -14,7 +14,7 @@ Gets the row width in bytes.
 public int WidthBytes { get; }
 ```
 
-## Property Value
+### Property Value
 
 The row width in bytes.
 

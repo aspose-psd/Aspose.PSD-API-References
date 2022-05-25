@@ -14,7 +14,7 @@ Gets or sets the enclosing top position of the raster mask in the PSD image laye
 public int EnclosingTop { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The top layer mask position.
 

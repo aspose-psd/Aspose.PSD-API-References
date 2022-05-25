@@ -14,7 +14,7 @@ Gets or sets the vertical resolution, in pixels per inch, of this [`PsdImage`](.
 public override double VerticalResolution { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vertical resolution.
 

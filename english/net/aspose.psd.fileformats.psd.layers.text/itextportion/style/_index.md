@@ -14,7 +14,7 @@ Gets the style.
 public ITextStyle Style { get; }
 ```
 
-## Property Value
+### Property Value
 
 The style.
 

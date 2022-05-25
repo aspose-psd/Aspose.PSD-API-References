@@ -14,7 +14,7 @@ The guide direction.
 public enum GuideDirection : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets the global unique identifier of the data source in the PSD link resource.
 public Guid UniqueId { get; }
 ```
 
-## Property Value
+### Property Value
 
 The link unique identifier of the data source in the Adobe® Photoshop® LnkE / Lnk2 resource.
 

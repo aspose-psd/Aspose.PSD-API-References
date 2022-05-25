@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this instance has real merged data.
 public bool HasRealMergedData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has real merged data; otherwise, `false`.
 

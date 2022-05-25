@@ -14,7 +14,7 @@ Gets or sets the full path of the external file in the LiFE data source of the P
 public string FullPath { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The full file path.
 

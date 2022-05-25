@@ -14,7 +14,7 @@ Gets the finalize section.
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-## Property Value
+### Property Value
 
 The finalize section.
 

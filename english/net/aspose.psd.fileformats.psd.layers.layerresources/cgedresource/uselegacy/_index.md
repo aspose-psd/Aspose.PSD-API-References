@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [use legacy].
 public bool UseLegacy { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [use legacy]; otherwise, `false`.
 

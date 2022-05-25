@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this link data source has the file open 
 public bool HasFileOpenDescriptor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has file open descriptor; otherwise, `false`.
 

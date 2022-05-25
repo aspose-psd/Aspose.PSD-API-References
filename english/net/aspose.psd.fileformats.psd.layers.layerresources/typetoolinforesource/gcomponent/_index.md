@@ -14,7 +14,7 @@ Gets or sets the g component.
 public short GComponent { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The g component.
 

@@ -14,7 +14,7 @@ Gets or sets the color of layer.
 public SheetColorHighlightEnum Color { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color.
 

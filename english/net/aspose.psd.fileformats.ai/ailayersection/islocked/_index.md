@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this layer is locked. Prevents changes t
 public bool IsLocked { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this layer is locked; otherwise, `false`.
 

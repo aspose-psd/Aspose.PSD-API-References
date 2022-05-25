@@ -18,7 +18,7 @@ public bool IsHueInSmallRange(double hue)
 | --- | --- | --- |
 | hue | Double | The hue value. |
 
-## Return Value
+### Return Value
 
 `true` if hue in small range; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Gets or sets the font styles.
 public TypeToolStyleInfo[] Styles { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The font styles.
 

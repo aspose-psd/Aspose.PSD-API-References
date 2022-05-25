@@ -14,7 +14,7 @@ Gets or sets the width of the bleed.
 public int BleedWidth { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The width of the bleed.
 

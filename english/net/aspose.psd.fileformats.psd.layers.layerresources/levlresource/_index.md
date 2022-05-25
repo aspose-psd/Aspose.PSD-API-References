@@ -39,11 +39,11 @@ public class LevlResource : AdjustmentLayerResource
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The type tool info key. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey) | The type tool info key. |
 
 ### See Also
 

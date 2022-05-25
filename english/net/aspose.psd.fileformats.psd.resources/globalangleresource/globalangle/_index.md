@@ -14,7 +14,7 @@ Gets or sets the global angle.
 public int GlobalAngle { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The global angle.
 

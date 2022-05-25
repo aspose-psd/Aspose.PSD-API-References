@@ -14,7 +14,7 @@ Gets or sets the class ID.
 public ClassID ClassID { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The class ID.
 

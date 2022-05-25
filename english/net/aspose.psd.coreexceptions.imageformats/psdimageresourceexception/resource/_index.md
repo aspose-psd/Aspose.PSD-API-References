@@ -14,7 +14,7 @@ Gets the psd resource which caused this exception.
 public ResourceBlock Resource { get; }
 ```
 
-## Property Value
+### Property Value
 
 The resource.
 

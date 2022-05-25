@@ -14,7 +14,7 @@ Gets the type of the smart object layer content. The embedded smart object conte
 public SmartObjectType ContentType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the smart object layer content.
 

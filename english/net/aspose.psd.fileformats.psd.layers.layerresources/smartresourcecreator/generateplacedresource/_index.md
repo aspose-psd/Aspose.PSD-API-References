@@ -14,7 +14,7 @@ Generates the placed resource.
 public PlLdResource GeneratePlacedResource()
 ```
 
-## Return Value
+### Return Value
 
 The generated [`PlLdResource`](../../plldresource) instance.
 

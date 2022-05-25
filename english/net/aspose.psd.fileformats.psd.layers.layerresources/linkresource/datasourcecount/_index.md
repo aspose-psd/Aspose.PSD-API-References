@@ -14,7 +14,7 @@ Gets the count of link data sources which can be accessed by the indexer.
 public int DataSourceCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The data source count.
 

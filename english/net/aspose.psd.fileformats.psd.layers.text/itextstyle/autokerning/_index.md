@@ -14,7 +14,7 @@ Gets or sets the auto kerning.
 public AutoKerning AutoKerning { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The auto kerning between two characters.
 

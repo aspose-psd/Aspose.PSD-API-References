@@ -14,7 +14,7 @@ Gets or sets the justification.
 public JustificationMode Justification { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The justification.
 

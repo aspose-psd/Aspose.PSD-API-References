@@ -14,7 +14,7 @@ Gets or sets the opacity where 255 = 100%
 public byte Opacity { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The opacity.
 

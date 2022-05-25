@@ -14,7 +14,7 @@ Gets the magenta channel.
 public CmykMixerChannel MagentaChannel { get; }
 ```
 
-## Property Value
+### Property Value
 
 The magenta channel.
 

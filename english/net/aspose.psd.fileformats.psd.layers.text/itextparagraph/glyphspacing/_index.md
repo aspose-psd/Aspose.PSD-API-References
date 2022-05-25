@@ -14,7 +14,7 @@ Gets or sets the glyph spacing.
 public double[] GlyphSpacing { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The glyph spacing.
 

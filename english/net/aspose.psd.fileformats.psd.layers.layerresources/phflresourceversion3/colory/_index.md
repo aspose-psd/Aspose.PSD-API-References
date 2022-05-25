@@ -14,7 +14,7 @@ Gets or sets the Y color.
 public float ColorY { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Y color.
 

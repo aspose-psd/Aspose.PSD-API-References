@@ -14,7 +14,7 @@ Gets or sets the density.
 public int Density { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The density.
 

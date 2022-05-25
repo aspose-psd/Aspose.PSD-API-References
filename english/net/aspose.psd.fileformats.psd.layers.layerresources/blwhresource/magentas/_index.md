@@ -14,7 +14,7 @@ Gets or sets the magentas value.
 public int Magentas { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The magentas value.
 

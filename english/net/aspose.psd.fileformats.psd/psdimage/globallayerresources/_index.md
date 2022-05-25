@@ -14,7 +14,7 @@ Gets or sets the global layer resources.
 public LayerResource[] GlobalLayerResources { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The global layer resources.
 

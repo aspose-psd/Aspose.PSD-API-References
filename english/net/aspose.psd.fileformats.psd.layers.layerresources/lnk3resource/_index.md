@@ -39,11 +39,11 @@ public class Lnk3Resource : Lnk2Resource
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | Saves the resource block data. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The type tool info key. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey) | The type tool info key. |
 
 ### Examples
 

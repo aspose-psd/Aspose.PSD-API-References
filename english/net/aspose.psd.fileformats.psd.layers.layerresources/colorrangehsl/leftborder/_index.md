@@ -14,7 +14,7 @@ Gets or sets the left border.
 public short LeftBorder { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The left border.
 

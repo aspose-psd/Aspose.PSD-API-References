@@ -14,7 +14,7 @@ Gets the PSD channels count.
 public int ChannelsCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The PSD channels count.
 

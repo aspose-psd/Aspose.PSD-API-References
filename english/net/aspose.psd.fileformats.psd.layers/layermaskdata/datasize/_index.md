@@ -14,7 +14,7 @@ Gets the size of the layer mask mask data.
 public int DataSize { get; }
 ```
 
-## Property Value
+### Property Value
 
 The size of the layer mask mask data.
 

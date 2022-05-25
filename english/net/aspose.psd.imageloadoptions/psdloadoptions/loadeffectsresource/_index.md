@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [load effects resource] (by default reso
 public bool LoadEffectsResource { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [load effects resource]; otherwise, `false`.
 

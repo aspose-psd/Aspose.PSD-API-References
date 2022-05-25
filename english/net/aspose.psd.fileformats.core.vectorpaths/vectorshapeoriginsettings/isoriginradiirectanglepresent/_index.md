@@ -14,7 +14,7 @@ Gets a value indicating whether this instance has the origin radii rectangle pro
 public bool IsOriginRadiiRectanglePresent { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has the origin radii rectangle property; otherwise, `false`.
 

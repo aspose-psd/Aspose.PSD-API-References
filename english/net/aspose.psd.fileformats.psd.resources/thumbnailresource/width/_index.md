@@ -14,7 +14,7 @@ Gets or sets the width of thumbnail in pixels.
 public int Width { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The thumbnail width.
 

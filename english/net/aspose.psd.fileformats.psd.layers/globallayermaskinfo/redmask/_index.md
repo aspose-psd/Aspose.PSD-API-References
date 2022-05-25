@@ -14,7 +14,7 @@ Gets or sets the red mask.
 public short RedMask { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The red mask.
 

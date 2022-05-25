@@ -14,7 +14,7 @@ Gets or sets a value indicating whether the PSD asset is locked. The asset locke
 public bool AssetLockedState { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if the Adobe® Photoshop® asset is locked; otherwise, `false`.
 

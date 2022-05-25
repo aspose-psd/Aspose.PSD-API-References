@@ -14,7 +14,7 @@ Display units for horizontal resolution. This only affects the user interface; t
 public ResolutionUnit HResDisplayUnit { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The horizontal resolution display unit.
 

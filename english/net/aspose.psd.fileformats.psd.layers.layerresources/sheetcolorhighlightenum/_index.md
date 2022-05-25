@@ -14,7 +14,7 @@ Possible colors of Sheet color setting. It's UI decorative color of layer in lay
 public enum SheetColorHighlightEnum : short
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

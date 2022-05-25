@@ -14,7 +14,7 @@ Gets the [`LayerGroup`](../../layergroup) that's related to this [`SectionDivide
 public LayerGroup GetRelatedLayerGroup()
 ```
 
-## Return Value
+### Return Value
 
 The [`LayerGroup`](../../layergroup) instance.
 

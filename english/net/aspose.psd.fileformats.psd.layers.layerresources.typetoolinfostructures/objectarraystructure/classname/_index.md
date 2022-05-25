@@ -14,7 +14,7 @@ Gets or sets the object array class name.
 public string ClassName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The object array class name.
 

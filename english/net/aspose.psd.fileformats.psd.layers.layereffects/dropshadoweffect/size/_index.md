@@ -14,7 +14,7 @@ Gets or sets the blur value in pixels.
 public int Size { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The size.
 

@@ -14,7 +14,7 @@ The text alignment mode.
 public enum JustificationMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

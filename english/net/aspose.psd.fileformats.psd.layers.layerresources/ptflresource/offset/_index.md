@@ -14,7 +14,7 @@ Gets or sets the offset.
 public Point Offset { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The offset.
 

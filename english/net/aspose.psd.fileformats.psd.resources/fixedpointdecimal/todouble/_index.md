@@ -14,7 +14,7 @@ Converts current fixed point decimal to double.
 public double ToDouble()
 ```
 
-## Return Value
+### Return Value
 
 The converted value.
 

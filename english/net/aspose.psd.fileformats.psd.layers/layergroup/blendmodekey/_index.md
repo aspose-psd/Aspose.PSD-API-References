@@ -14,7 +14,7 @@ Gets or sets the blend mode key.
 public override BlendMode BlendModeKey { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The blend mode key.
 

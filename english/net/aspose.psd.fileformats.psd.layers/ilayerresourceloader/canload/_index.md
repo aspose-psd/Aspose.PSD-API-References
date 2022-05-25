@@ -19,7 +19,7 @@ public bool CanLoad(StreamContainer streamContainer, int psdVersion)
 | streamContainer | StreamContainer | The stream container. |
 | psdVersion | Int32 | The PSD version. |
 
-## Return Value
+### Return Value
 
 `true` if layer resource can be loaded from the specified [`StreamContainer`](../../../aspose.psd/streamcontainer); otherwise, `false`.
 

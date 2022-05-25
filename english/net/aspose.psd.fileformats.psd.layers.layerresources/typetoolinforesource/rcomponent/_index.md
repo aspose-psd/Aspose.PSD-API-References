@@ -14,7 +14,7 @@ Gets or sets the r component.
 public short RComponent { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The r component.
 

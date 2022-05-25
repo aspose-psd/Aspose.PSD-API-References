@@ -14,7 +14,7 @@ Gets or sets the graphics library element reference, for Adobe® Photoshop® CC 
 public string ElementRef { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The graphics library element reference.
 

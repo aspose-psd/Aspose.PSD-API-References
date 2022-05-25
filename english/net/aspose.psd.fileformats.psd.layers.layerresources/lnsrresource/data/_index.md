@@ -14,7 +14,7 @@ Gets the raw data.
 public byte[] Data { get; }
 ```
 
-## Property Value
+### Property Value
 
 The data.
 

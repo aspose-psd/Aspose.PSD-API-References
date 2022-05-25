@@ -14,7 +14,7 @@ Gets or sets the color number. -1 is the custom color value from Red, Green, Blu
 public int ColorNumber { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color number.
 

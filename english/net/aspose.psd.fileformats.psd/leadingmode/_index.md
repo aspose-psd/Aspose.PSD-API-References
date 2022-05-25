@@ -14,7 +14,7 @@ Photoshop leading mode (distance between lines)
 public enum LeadingMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

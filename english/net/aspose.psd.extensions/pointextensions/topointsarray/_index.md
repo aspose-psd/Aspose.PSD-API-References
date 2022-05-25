@@ -18,7 +18,7 @@ public static PointF[] ToPointsArray(Point[] points)
 | --- | --- | --- |
 | points | Point[] | The [`Point`](../../../aspose.psd/point) array to convert. |
 
-## Return Value
+### Return Value
 
 The converted [`PointF`](../../../aspose.psd/pointf) array.
 

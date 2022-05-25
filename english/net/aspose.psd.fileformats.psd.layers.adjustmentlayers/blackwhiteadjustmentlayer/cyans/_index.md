@@ -14,7 +14,7 @@ Gets or sets the cyans value.
 public int Cyans { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The cyans value.
 

@@ -14,7 +14,7 @@ Gets or sets the input midtone level float.
 public float InputMidtoneLevel { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The input midtone level float.
 

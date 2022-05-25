@@ -14,7 +14,7 @@ Gets or sets the start indent.
 public double StartIndent { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The start indent.
 

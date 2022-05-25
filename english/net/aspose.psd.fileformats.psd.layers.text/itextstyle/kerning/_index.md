@@ -14,7 +14,7 @@ Gets or sets the kerning.
 public int Kerning { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The kerning between two characters.
 

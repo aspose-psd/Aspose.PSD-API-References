@@ -14,7 +14,7 @@ Gets or sets the Shadows Cyan Red Balance.
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Shadows Cyan Red Balance.
 

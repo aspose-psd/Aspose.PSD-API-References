@@ -14,7 +14,7 @@ Gets a value indicating whether this link resource instance is empty.
 public bool IsEmpty { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this link resource is empty; otherwise, `false`.
 

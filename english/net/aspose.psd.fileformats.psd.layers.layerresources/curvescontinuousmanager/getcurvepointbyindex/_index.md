@@ -19,7 +19,7 @@ public Point GetCurvePointByIndex(int channelIndex, int pointIndex)
 | channelIndex | Int32 | Index of the channel. |
 | pointIndex | Int32 | Index of the point. |
 
-## Return Value
+### Return Value
 
 Curve point by index of channel
 

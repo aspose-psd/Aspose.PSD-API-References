@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this [`Hue2Resource`](../../hue2resource
 public bool Colorize { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if colorize; otherwise, `false`.
 

@@ -14,7 +14,7 @@ The layer blend mode.
 public enum BlendMode : uint
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -18,7 +18,7 @@ public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 | --- | --- | --- |
 | sourceLayer | SmartObjectLayer | The source layer. |
 
-## Return Value
+### Return Value
 
 The cloned [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) instance.
 

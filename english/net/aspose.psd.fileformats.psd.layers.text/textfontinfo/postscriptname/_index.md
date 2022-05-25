@@ -14,7 +14,7 @@ Gets the PostScript name
 public string PostScriptName { get; }
 ```
 
-## Property Value
+### Property Value
 
 PostScript name
 

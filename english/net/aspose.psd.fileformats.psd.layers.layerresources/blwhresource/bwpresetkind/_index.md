@@ -14,7 +14,7 @@ Gets or sets the black and white preset kind value.
 public int BwPresetKind { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The black and white preset kind value.
 

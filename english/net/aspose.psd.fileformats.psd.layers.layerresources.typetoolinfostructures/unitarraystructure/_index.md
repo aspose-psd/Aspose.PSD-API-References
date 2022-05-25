@@ -39,11 +39,11 @@ public sealed class UnitArrayStructure : OSTypeStructure
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [StructureKey](structurekey) | Defines the 'UnFl' [`UnitArrayStructure`](../unitarraystructure) key. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey) | Defines the 'UnFl' [`UnitArrayStructure`](../unitarraystructure) key. |
 
 ### Examples
 

@@ -14,7 +14,7 @@ The layer section type
 public enum LayerSectionType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Adds the inner shadow effect.
 public InnerShadowEffect AddInnerShadow()
 ```
 
-## Return Value
+### Return Value
 
 Created [`InnerShadowEffect`](../../innershadoweffect) object
 

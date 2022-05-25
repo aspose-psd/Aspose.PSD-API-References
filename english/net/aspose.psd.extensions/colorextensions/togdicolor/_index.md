@@ -18,7 +18,7 @@ public static Color ToGdiColor(Color color)
 | --- | --- | --- |
 | color | Color | The[`Color`](../../../aspose.psd/color) to convert. |
 
-## Return Value
+### Return Value
 
 The converted Color.
 

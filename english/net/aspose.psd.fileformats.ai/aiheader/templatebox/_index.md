@@ -14,7 +14,7 @@ Gets or sets the template box.
 public RectangleF TemplateBox { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The template box.
 

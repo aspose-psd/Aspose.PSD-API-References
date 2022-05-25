@@ -14,7 +14,7 @@ Gets or sets the channel blend ranges.
 public BlendRange[] ChannelBlendRanges { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The channel blend ranges.
 

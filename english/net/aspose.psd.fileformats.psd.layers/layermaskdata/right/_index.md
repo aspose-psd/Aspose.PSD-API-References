@@ -14,7 +14,7 @@ Gets or sets the right layer mask position.
 public int Right { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The right layer mask position.
 

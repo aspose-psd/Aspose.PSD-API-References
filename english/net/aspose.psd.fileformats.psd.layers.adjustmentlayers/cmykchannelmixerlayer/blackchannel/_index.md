@@ -14,7 +14,7 @@ Gets the black channel.
 public CmykMixerChannel BlackChannel { get; }
 ```
 
-## Property Value
+### Property Value
 
 The black channel.
 

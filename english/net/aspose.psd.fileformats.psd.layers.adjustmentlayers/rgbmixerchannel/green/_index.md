@@ -14,7 +14,7 @@ Gets or sets the green.
 public short Green { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The green.
 

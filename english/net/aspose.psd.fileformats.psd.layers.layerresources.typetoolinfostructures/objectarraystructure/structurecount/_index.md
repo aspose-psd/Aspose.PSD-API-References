@@ -14,7 +14,7 @@ Gets the object array substructure count.
 public int StructureCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The substructure count in the in the object array structure.
 

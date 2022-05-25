@@ -14,7 +14,7 @@ Gets the resource signature. Should be always '8BIM'.
 public int Signature { get; }
 ```
 
-## Property Value
+### Property Value
 
 The resource signature.
 

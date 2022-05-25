@@ -14,7 +14,7 @@ Gets the curves manager.
 public CurvesManager GetCurvesManager()
 ```
 
-## Return Value
+### Return Value
 
 [`CurvesDiscreteManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager) or [`CurvesContinuousManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager) that depends on IsDiscreteManagerUsed and IsContinuousManagerUsed property
 

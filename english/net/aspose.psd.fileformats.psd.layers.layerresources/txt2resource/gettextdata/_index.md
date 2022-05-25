@@ -14,7 +14,7 @@ Gets the text record from resource data.
 public string[] GetTextData()
 ```
 
-## Return Value
+### Return Value
 
 Array of text record
 

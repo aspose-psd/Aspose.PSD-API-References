@@ -14,7 +14,7 @@ Adds the channel mixer adjustment layer with default parameters
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 ```
 
-## Return Value
+### Return Value
 
 Added Channel Mixer Layer
 

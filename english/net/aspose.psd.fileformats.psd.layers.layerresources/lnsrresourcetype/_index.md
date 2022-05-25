@@ -14,7 +14,7 @@ Discovered Possible Lnsr Resource Types
 public enum LnsrResourceType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -21,7 +21,7 @@ public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle styleP
 | stylePrototype | ITextStyle | A style that, if not null, will be applied in the new , otherwise will be default. |
 | paragraphPrototype | ITextParagraph | A paragraph that, if not null, will be applied in the new , otherwise will be default. |
 
-## Return Value
+### Return Value
 
 Returns the new portions [`ITextPortion`](../../itextportion) based on input parameters.
 

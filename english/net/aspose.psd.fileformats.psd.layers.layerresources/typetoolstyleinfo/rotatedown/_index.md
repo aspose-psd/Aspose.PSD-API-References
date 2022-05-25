@@ -14,7 +14,7 @@ Gets or sets a value indicating whether it is a rotate down style.
 public bool RotateDown { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if it is a rotate down style; otherwise, `false`.
 

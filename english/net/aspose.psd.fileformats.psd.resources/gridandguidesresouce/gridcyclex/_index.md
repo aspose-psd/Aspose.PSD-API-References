@@ -14,7 +14,7 @@ Gets or sets the horizontal grid cycle. The default is 576.
 public int GridCycleX { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The horizontal grid cycle.
 

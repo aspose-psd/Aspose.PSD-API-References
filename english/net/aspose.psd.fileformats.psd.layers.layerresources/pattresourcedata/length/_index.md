@@ -14,7 +14,7 @@ Gets the length of the pattern.
 public int Length { get; }
 ```
 
-## Property Value
+### Property Value
 
 The length of the pattern.
 

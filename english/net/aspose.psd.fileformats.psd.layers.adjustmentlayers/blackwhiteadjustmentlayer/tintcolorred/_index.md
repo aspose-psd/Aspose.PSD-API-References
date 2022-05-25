@@ -14,7 +14,7 @@ Gets or sets the Red Tint Color double value.
 public double TintColorRed { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Red Tint Color double value.
 

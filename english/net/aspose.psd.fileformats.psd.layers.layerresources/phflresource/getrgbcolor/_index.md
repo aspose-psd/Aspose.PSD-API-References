@@ -14,7 +14,7 @@ Gets the color of the RGB.
 public abstract Color GetRgbColor()
 ```
 
-## Return Value
+### Return Value
 
 The RGB Color
 

@@ -14,7 +14,7 @@ Gets or sets the most left border.
 public short MostLeftBorder { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The most left border.
 

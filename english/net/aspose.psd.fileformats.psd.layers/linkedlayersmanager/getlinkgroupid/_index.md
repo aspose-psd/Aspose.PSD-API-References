@@ -18,7 +18,7 @@ public short GetLinkGroupId(Layer layer)
 | --- | --- | --- |
 | layer | Layer | The layer. |
 
-## Return Value
+### Return Value
 
 The link group id.
 

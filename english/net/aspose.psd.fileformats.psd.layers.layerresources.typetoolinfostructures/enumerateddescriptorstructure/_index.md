@@ -38,11 +38,11 @@ public class EnumeratedDescriptorStructure : OSTypeStructure
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [StructureKey](structurekey) | The enumerated descriptor key. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey) | The enumerated descriptor key. |
 
 ### See Also
 

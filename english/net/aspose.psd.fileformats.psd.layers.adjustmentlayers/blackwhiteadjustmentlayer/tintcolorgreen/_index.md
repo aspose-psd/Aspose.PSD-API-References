@@ -14,7 +14,7 @@ Gets or sets the Green Tint Color double value.
 public double TintColorGreen { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Green Tint Color double value.
 

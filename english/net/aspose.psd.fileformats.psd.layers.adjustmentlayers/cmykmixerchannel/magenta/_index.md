@@ -14,7 +14,7 @@ Gets or sets the magenta.
 public short Magenta { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The magenta.
 

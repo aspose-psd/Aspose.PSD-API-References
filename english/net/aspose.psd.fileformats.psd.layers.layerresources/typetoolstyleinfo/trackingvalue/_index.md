@@ -14,7 +14,7 @@ Gets or sets the tracking value.
 public int TrackingValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The tracking value.
 

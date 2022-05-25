@@ -14,7 +14,7 @@ Gets or sets the items.
 public OSTypeStructure[] Items { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The items.
 

@@ -18,7 +18,7 @@ public PixelsData Render(PixelsData pixelsData)
 | --- | --- | --- |
 | pixelsData | PixelsData | The pixels data. |
 
-## Return Value
+### Return Value
 
 Returns processed pixels data.
 

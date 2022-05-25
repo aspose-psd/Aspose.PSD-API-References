@@ -14,7 +14,7 @@ Gets or sets the decorative sheet color highlight in layers' list
 public SheetColorHighlightEnum SheetColorHighlight { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The sheet color highlight.
 

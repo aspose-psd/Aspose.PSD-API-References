@@ -14,7 +14,7 @@ Gets the raw data.
 public byte[] GetRawData()
 ```
 
-## Return Value
+### Return Value
 
 Raw byte data
 

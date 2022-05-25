@@ -14,7 +14,7 @@ The Adobe Illustrator Version
 public enum AiFormatVersion
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

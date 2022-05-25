@@ -25,7 +25,7 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
 | linked | Boolean | if set to `true` [linked]. |
 | offset | PointF | The offset. |
 
-## Return Value
+### Return Value
 
 List of [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
 

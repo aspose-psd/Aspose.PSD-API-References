@@ -14,7 +14,7 @@ Gets or sets the resource name. Pascal string, padded to make the size even (a n
 public string Name { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The resource name.
 

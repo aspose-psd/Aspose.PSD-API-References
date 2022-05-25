@@ -14,7 +14,7 @@ Gets or sets the Shadows YellowBlue Balance.
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Shadows Yellow Blue Balance.
 

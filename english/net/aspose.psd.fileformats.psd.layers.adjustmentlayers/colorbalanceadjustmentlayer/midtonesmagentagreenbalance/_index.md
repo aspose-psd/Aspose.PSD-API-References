@@ -14,7 +14,7 @@ Gets or sets the Midtones Magenta Green Balance.
 public short MidtonesMagentaGreenBalance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Midtones Magenta Green Balance.
 

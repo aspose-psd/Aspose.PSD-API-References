@@ -14,7 +14,7 @@ Gets the master channel.
 public LevelChannel MasterChannel { get; }
 ```
 
-## Property Value
+### Property Value
 
 The master channel.
 

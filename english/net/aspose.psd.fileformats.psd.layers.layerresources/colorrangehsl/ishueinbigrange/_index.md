@@ -18,7 +18,7 @@ public bool IsHueInBigRange(double hue)
 | --- | --- | --- |
 | hue | Double | The hue value. |
 
-## Return Value
+### Return Value
 
 `true` if hue in big range; otherwise, `false`.
 

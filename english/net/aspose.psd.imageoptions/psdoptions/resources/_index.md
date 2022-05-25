@@ -14,7 +14,7 @@ Gets or sets the psd resources.
 public ResourceBlock[] Resources { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The psd resources.
 

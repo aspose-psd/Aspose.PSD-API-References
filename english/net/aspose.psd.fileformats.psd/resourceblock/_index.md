@@ -32,12 +32,17 @@ public abstract class ResourceBlock
 | [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | Saves the resource block to the specified stream. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | Validates the resource values. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [ResouceBlockMeSaSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature) | The resource signature of ImageReady. |
+| const [ResouceBlockSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblocksignature) | The regular Photoshop resource signature. |
+
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| const [ResouceBlockMeSaSignature](resouceblockmesasignature) | The resource signature of ImageReady. |
-| const [ResouceBlockSignature](resouceblocksignature) | The regular Photoshop resource signature. |
 | enum [ResourceBlockState](resourceblock.resourceblockstate) | Represents resource block state. |
 
 ### See Also

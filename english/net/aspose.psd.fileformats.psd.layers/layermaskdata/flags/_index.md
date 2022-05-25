@@ -14,7 +14,7 @@ Gets or sets the layer mask flags.
 public LayerMaskFlags Flags { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer mask flags.
 

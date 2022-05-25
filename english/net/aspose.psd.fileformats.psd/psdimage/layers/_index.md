@@ -14,7 +14,7 @@ Gets or sets the PSD layers.
 public Layer[] Layers { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The PSD layers.
 

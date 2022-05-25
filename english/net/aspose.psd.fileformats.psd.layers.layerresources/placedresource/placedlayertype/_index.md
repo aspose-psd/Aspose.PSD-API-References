@@ -14,7 +14,7 @@ Gets or sets the type of the placed layer in the PSD file.
 public virtual PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the placed layer.
 

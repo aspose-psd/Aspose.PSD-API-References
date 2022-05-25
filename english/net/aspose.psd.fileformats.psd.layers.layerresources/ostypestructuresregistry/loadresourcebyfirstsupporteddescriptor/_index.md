@@ -18,7 +18,7 @@ public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stre
 | --- | --- | --- |
 | stream | Stream | The stream. |
 
-## Return Value
+### Return Value
 
 The loaded [`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource) or null if no opener is found.
 

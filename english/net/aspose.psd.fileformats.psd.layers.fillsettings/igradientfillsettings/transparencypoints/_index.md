@@ -14,7 +14,7 @@ Gets the transparency points.
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The transparency points.
 

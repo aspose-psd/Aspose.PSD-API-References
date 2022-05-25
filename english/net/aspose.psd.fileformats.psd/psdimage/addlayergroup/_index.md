@@ -20,7 +20,7 @@ public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour
 | index | Int32 | The index of the layer to insert after. |
 | startBehaviour | Boolean | if set to `true` [start behaviour] than group will be in open state on start up, otherwise in minimized state. |
 
-## Return Value
+### Return Value
 
 Opening group layer
 

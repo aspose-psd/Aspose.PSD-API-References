@@ -14,7 +14,7 @@ Adds the Levels adjustment layer.
 public LevelsLayer AddLevelsAdjustmentLayer()
 ```
 
-## Return Value
+### Return Value
 
 A newly created Levels layer
 

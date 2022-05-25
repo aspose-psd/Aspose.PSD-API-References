@@ -14,7 +14,7 @@ Gets or sets the bounds of the placed layer in the PSD file.
 public Rectangle Bounds { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The placed layer bounds.
 

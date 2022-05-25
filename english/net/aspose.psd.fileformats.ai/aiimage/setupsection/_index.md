@@ -14,7 +14,7 @@ Gets the setup section.
 public AiSetupSection SetupSection { get; }
 ```
 
-## Property Value
+### Property Value
 
 The setup section.
 

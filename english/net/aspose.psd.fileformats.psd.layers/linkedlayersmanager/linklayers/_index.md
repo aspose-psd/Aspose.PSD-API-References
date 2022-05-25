@@ -18,7 +18,7 @@ public short LinkLayers(Layer[] layers)
 | --- | --- | --- |
 | layers | Layer[] | The layers. |
 
-## Return Value
+### Return Value
 
 The link group id.
 

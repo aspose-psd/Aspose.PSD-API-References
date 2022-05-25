@@ -14,7 +14,7 @@ Gets or sets the descriptor version.
 public int DescriptorVersion { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The descriptor version.
 

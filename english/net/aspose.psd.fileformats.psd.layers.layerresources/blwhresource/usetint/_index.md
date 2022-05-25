@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [tint color] is used.
 public bool UseTint { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if used [tint color]; otherwise, `false`.
 

@@ -14,11 +14,11 @@ Gets an array of [`Color`](../../../aspose.psd/color) structures.
 public Color[] Entries { get; }
 ```
 
-## Return Value
+### Return Value
 
 The array of [`Color`](../../../aspose.psd/color) structure that make up this [`ColorPalette`](../../../aspose.psd/colorpalette).
 
-## Property Value
+### Property Value
 
 The entries.
 

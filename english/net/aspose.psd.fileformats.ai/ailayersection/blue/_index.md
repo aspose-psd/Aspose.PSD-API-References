@@ -14,7 +14,7 @@ Gets or sets the blue color component.
 public int Blue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The blue color component.
 

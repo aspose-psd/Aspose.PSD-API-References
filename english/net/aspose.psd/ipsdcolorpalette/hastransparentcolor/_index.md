@@ -14,7 +14,7 @@ Gets a value indicating whether transparent color exists.
 public bool HasTransparentColor { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if transparent color exists; otherwise, `false`.
 

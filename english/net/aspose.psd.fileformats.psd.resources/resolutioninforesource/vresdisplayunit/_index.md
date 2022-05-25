@@ -14,7 +14,7 @@ Display units for vertical resolution.
 public ResolutionUnit VResDisplayUnit { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vertical resolution display unit.
 

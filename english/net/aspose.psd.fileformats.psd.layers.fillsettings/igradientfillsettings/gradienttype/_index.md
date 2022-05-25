@@ -14,7 +14,7 @@ Gets or sets the type of the gradient.
 public GradientType GradientType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the gradient.
 

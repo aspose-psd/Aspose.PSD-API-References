@@ -14,7 +14,7 @@ Gets or sets the top location of the placed layer in the PSD image.
 public double Top { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The top location of the placed layer.
 

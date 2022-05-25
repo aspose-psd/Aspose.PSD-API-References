@@ -14,7 +14,7 @@ Gets or sets the resolution measure unit of the smart object layer data in the P
 public UnitTypes ResolutionUnit { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The resolution measure unit of the smart object layer.
 

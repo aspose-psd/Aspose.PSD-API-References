@@ -14,7 +14,7 @@ Gets or sets the perspective other value of the placed layer in the PSD file.
 public double PerspectiveOther { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The perspective other value of the placed layer.
 

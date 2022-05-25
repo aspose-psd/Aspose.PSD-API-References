@@ -14,7 +14,7 @@ Gets or sets the automatic leading.
 public double AutoLeading { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The automatic leading.
 

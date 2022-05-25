@@ -14,7 +14,7 @@ Gets or sets the smart object content's bounds.
 public Rectangle ContentsBounds { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The smart object bounds.
 

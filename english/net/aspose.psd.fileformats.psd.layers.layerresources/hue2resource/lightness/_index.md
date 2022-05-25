@@ -14,7 +14,7 @@ Gets or sets the master lightness.
 public short Lightness { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The master lightness.
 

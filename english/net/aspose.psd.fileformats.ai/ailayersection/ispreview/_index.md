@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this layer is preview. Displays the artw
 public bool IsPreview { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this layer is preview; otherwise, `false`.
 

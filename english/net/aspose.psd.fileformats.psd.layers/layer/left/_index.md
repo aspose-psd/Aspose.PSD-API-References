@@ -14,7 +14,7 @@ Gets or sets the left layer position.
 public int Left { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The left layer position.
 

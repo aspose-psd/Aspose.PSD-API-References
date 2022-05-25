@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this [`MixrResource`](../../mixrresource
 public bool Monochrome { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if monochrome; otherwise, `false`.
 

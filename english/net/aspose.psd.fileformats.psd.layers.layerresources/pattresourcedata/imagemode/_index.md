@@ -14,7 +14,7 @@ Gets the image mode.
 public ColorModes ImageMode { get; }
 ```
 
-## Property Value
+### Property Value
 
 The image mode.
 

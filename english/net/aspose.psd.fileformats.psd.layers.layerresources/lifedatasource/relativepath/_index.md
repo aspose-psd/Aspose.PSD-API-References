@@ -14,7 +14,7 @@ Gets or sets the relative path of the external file in the LiFE data source of t
 public string RelativePath { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The relative file path.
 

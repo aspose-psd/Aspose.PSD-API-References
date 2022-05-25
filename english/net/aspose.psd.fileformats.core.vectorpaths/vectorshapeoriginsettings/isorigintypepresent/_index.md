@@ -14,7 +14,7 @@ Gets a value indicating whether this instance has origin type property.
 public bool IsOriginTypePresent { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has origin type property; otherwise, `false`.
 

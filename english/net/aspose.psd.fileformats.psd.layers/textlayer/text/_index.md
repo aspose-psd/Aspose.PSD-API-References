@@ -14,7 +14,7 @@ Gets the text.
 public string Text { get; }
 ```
 
-## Property Value
+### Property Value
 
 The text.
 

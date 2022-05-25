@@ -43,11 +43,11 @@ public class TiffSRational
 | override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffsrational/gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.psd.fileformats.tiff/tiffsrational/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [Epsilon](epsilon) | The epsilon for fraction calculation |
+| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon) | The epsilon for fraction calculation |
 
 ### See Also
 

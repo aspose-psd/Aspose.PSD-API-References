@@ -14,7 +14,7 @@ Gets or sets the alpha names.
 public string AlphaNames { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The alpha names.
 

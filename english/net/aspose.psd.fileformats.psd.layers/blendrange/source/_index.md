@@ -14,7 +14,7 @@ Gets or sets the source blend range.
 public int Source { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The source blend range.
 

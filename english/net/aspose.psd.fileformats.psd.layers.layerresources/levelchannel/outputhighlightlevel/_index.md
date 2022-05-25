@@ -14,7 +14,7 @@ Gets or sets the output highlight level.
 public short OutputHighlightLevel { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The output highlight level.
 

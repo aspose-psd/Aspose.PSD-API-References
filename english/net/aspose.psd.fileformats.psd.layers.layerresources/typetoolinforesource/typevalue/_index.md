@@ -14,7 +14,7 @@ Gets or sets the type value.
 public short TypeValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type value.
 

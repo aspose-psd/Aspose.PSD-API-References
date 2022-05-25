@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this [`ITextParagraph`](../../itextparag
 public bool Hanging { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if hanging; otherwise, `false`.
 

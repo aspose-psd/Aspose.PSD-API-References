@@ -14,7 +14,7 @@ Gets or sets the char.
 public char Char { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The char.
 

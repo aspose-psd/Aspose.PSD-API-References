@@ -14,7 +14,7 @@ Gets the resource data.
 public byte[] Data { get; }
 ```
 
-## Property Value
+### Property Value
 
 The resource data.
 

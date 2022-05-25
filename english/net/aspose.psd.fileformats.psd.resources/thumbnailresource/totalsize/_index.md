@@ -14,7 +14,7 @@ Gets the total data size.
 public int TotalSize { get; }
 ```
 
-## Property Value
+### Property Value
 
 The total data size.
 

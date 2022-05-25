@@ -14,7 +14,7 @@ Gets or sets the texts.
 public string[] Texts { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The texts.
 

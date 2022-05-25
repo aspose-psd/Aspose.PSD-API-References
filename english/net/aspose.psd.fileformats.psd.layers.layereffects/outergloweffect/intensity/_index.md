@@ -14,7 +14,7 @@ Gets or sets the angle in degrees.
 public int Intensity { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The angle.
 

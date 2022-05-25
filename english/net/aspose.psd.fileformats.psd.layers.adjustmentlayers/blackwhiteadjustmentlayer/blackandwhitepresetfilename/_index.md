@@ -14,7 +14,7 @@ Gets or sets the black and white preset file name.
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The black and white preset file name.
 

@@ -14,7 +14,7 @@ Gets the items.
 public ITextPortion[] Items { get; }
 ```
 
-## Property Value
+### Property Value
 
 The items.
 

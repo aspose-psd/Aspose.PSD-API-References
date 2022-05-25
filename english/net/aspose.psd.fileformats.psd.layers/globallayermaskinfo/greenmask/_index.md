@@ -14,7 +14,7 @@ Gets or sets the green mask.
 public short GreenMask { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The green mask.
 

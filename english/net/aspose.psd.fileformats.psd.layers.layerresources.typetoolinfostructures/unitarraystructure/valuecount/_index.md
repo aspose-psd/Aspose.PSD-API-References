@@ -14,7 +14,7 @@ Gets the value count.
 public int ValueCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The value count in the unit array structure.
 

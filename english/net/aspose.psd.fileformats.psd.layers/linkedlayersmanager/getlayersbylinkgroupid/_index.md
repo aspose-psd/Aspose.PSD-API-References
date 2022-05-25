@@ -18,7 +18,7 @@ public Layer[] GetLayersByLinkGroupId(short linkGroupId)
 | --- | --- | --- |
 | linkGroupId | Int16 | The link group id. |
 
-## Return Value
+### Return Value
 
 The layers array.
 

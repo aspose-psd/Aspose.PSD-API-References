@@ -14,7 +14,7 @@ Gets or sets the vertical resolution, in pixels per inch, of this [`RasterImage`
 public override bool HasAlpha { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has alpha; otherwise, `false`.
 

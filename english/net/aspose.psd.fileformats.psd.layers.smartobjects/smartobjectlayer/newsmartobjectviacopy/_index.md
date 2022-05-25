@@ -14,7 +14,7 @@ Creates a new smart object layer by coping this one. Reproduces `Layer -&gt; Sma
 public SmartObjectLayer NewSmartObjectViaCopy()
 ```
 
-## Return Value
+### Return Value
 
 The cloned [`SmartObjectLayer`](../../smartobjectlayer) instance.
 

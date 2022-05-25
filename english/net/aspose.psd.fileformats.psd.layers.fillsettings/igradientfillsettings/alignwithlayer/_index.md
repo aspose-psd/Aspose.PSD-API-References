@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [align with layer].
 public bool AlignWithLayer { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [align with layer]; otherwise, `false`.
 

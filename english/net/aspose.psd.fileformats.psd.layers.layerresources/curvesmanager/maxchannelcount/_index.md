@@ -14,7 +14,7 @@ Gets the maximum channel count.
 public int MaxChannelCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The maximum channel count.
 

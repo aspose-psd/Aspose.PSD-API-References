@@ -14,7 +14,7 @@ Gets or sets the RGB color of filter.
 public Color Color { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color.
 

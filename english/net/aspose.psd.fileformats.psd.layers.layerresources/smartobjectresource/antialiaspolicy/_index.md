@@ -14,7 +14,7 @@ Gets or sets the anti alias policy of the smart object layer data in the PSD ima
 public override int AntiAliasPolicy { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The anti alias policy of the smart object layer data.
 

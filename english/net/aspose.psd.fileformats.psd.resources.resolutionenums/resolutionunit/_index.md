@@ -14,7 +14,7 @@ The resolution info resolution unit
 public enum ResolutionUnit
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

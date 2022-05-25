@@ -14,7 +14,7 @@ Gets or sets the Offset. For PS range of Offset is from -0.5 to +0.5
 public float Offset { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Offset.
 

@@ -14,7 +14,7 @@ Gets or sets the version.
 public uint Version { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The version.
 

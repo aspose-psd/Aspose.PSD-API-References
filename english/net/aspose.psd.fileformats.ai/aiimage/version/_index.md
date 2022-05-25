@@ -14,7 +14,7 @@ Gets the version of Adobe Illustrator format
 public AiFormatVersion Version { get; }
 ```
 
-## Property Value
+### Property Value
 
 The version.
 

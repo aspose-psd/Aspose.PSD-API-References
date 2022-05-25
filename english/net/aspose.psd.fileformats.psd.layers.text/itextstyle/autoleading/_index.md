@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [automatic leading].
 public bool AutoLeading { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [automatic leading]; otherwise, `false`.
 

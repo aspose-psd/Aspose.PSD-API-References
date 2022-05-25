@@ -14,7 +14,7 @@ Gets or sets the transform matrix of the smart object layer data in the PSD file
 public override double[] TransformMatrix { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The transform matrix of the smart object layer data.
 

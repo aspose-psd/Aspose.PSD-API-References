@@ -14,7 +14,7 @@ The Fill Type
 public enum FillType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

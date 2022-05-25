@@ -14,7 +14,7 @@ Gets the red channel.
 public RgbMixerChannel RedChannel { get; }
 ```
 
-## Property Value
+### Property Value
 
 The red channel.
 

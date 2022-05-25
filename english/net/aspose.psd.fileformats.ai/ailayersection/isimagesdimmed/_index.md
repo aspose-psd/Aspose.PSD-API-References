@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this layer is dimmed. Reduces the intens
 public bool IsImagesDimmed { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this layer is dimmed; otherwise, `false`.
 

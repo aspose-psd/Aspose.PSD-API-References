@@ -14,7 +14,7 @@ Gets or sets the point location on gradient.
 public int Location { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The location.
 

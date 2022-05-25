@@ -14,7 +14,7 @@ Gets or sets a boolean value.
 public bool Value { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 A boolean value.
 

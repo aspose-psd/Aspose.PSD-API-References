@@ -14,7 +14,7 @@ Gets or sets the top layer mask position.
 public int Top { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The top layer mask position.
 

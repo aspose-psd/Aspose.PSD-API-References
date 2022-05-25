@@ -14,7 +14,7 @@ Adds the color point.
 public GradientColorPoint AddColorPoint()
 ```
 
-## Return Value
+### Return Value
 
 Created color point
 

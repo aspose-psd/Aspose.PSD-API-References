@@ -14,7 +14,7 @@ Gets or sets the file creator in the PSD format LnkE / Lnk2 resource.
 public string FileCreator { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The file creator that PSD LiFE / LiFD data source contains.
 

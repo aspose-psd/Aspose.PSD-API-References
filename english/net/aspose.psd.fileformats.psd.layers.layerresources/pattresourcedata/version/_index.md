@@ -14,7 +14,7 @@ Gets the version.
 public int Version { get; }
 ```
 
-## Property Value
+### Property Value
 
 The version.
 

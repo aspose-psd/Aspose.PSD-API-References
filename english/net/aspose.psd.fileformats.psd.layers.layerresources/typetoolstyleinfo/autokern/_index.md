@@ -14,7 +14,7 @@ Gets or sets a value indicating whether auto kerning is on or off.
 public bool AutoKern { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if auto kerning is on; otherwise, `false`.
 

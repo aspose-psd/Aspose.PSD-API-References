@@ -14,7 +14,7 @@ Gets the ranges of Hue/Saturation Adjustment Layer. Ranges in PS can change name
 public ColorRangeHsl[] Ranges { get; }
 ```
 
-## Property Value
+### Property Value
 
 The ranges.
 

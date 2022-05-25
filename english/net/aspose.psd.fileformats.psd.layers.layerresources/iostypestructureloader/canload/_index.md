@@ -18,7 +18,7 @@ public bool CanLoad(StreamContainer streamContainer)
 | --- | --- | --- |
 | streamContainer | StreamContainer | The stream container. |
 
-## Return Value
+### Return Value
 
 `true` if [`OSTypeStructure`](../../ostypestructure) resource can be loaded from the specified [`StreamContainer`](../../../aspose.psd/streamcontainer); otherwise, `false`.
 

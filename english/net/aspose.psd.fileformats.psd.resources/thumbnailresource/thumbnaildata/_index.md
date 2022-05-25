@@ -14,7 +14,7 @@ Gets or sets the thumbnail data.
 public Color[] ThumbnailData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The thumbnail data.
 

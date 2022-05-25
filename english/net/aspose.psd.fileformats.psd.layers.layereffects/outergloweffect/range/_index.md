@@ -14,7 +14,7 @@ Gets or sets the noise.
 public int Range { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The noise.
 

@@ -14,7 +14,7 @@ Gets or sets the fraction.
 public int Fraction { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The fraction.
 

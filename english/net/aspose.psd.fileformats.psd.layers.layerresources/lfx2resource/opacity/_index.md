@@ -14,7 +14,7 @@ Gets the opacity.
 public double Opacity { get; }
 ```
 
-## Property Value
+### Property Value
 
 The opacity.
 

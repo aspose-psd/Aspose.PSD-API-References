@@ -14,7 +14,7 @@ Gets or sets the median point location.
 public int MedianPointLocation { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The median point location.
 

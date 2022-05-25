@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this instance is composite protected.
 public bool IsCompositeProtected { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is composite protected; otherwise, `false`.
 

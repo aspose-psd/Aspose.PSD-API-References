@@ -14,7 +14,7 @@ Gets or sets a value indicating whether the layer is visible
 public bool IsVisible { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is visible; otherwise, `false`.
 

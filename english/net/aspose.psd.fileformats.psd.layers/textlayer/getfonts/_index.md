@@ -14,7 +14,7 @@ Gets the fonts set of the text layer.
 public TextFontInfo[] GetFonts()
 ```
 
-## Return Value
+### Return Value
 
 The fonts set of the text layer.
 

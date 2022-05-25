@@ -14,7 +14,7 @@ Gets or sets the mask [`Rectangle`](../../../aspose.psd/rectangle) of the layer 
 public Rectangle MaskRectangle { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The mask rectangle.
 

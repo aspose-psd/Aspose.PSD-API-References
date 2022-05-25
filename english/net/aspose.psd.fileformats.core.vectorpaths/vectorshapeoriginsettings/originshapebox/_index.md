@@ -14,7 +14,7 @@ Gets or sets the origin shape bounding box.
 public VectorShapeBoundingBox OriginShapeBox { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The origin shape box.
 

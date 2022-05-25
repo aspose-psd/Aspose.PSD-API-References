@@ -14,7 +14,7 @@ Gets or sets the black.
 public short Black { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The black.
 

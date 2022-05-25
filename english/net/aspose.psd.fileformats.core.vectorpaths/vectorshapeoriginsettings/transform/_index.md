@@ -14,7 +14,7 @@ Gets or sets the transformation matrix.
 public VectorShapeTransform Transform { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The transformation matrix.
 

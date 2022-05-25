@@ -14,7 +14,7 @@ Gets the version. Default is 2 or 3
 public abstract short Version { get; }
 ```
 
-## Property Value
+### Property Value
 
 The version.
 

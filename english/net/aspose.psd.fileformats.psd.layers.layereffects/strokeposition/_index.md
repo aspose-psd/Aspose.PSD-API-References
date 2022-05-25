@@ -14,7 +14,7 @@ The position setting controls the alignment of your stroke to the layer it's app
 public enum StrokePosition : short
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

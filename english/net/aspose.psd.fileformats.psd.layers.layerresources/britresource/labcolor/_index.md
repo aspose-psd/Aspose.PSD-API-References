@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [lab color].
 public bool LabColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [lab color]; otherwise, `false`.
 

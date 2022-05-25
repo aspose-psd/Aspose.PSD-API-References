@@ -14,7 +14,7 @@ Gets or sets the asset modified time, for Adobe® Photoshop® СС Libraries ass
 public double AssetModTime { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The asset modified time.
 

@@ -21,7 +21,7 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
 | offset | Single | The offset. |
 | gammaCorrection | Single | The gamma correction. |
 
-## Return Value
+### Return Value
 
 Created Exposure Adjustment Layer
 

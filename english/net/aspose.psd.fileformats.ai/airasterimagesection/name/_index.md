@@ -14,7 +14,7 @@ Gets the name of the raster image.
 public string Name { get; }
 ```
 
-## Property Value
+### Property Value
 
 The name of the raster image.
 

@@ -14,7 +14,7 @@ Gets or sets the type ID.
 public ClassID TypeID { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type ID.
 

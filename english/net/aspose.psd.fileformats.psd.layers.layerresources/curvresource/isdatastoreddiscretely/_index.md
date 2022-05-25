@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this instance is data stored discrete.
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is data stored discrete; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Gets or sets the yellow.
 public short Yellow { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The yellow.
 

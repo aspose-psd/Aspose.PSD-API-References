@@ -14,7 +14,7 @@ Gets or sets the color of the stroke.
 public Color StrokeColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color of the stroke.
 

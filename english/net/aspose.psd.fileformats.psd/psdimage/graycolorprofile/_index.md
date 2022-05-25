@@ -14,7 +14,7 @@ Gets or sets the GRAY (monochrome) color profile for Grayscale PSD images.
 public StreamSource GrayColorProfile { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The GRAY (monochrome) color profile.
 

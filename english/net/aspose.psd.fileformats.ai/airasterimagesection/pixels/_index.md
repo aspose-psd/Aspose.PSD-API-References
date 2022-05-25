@@ -14,7 +14,7 @@ Gets the array of int color pixels.
 public int[] Pixels { get; }
 ```
 
-## Property Value
+### Property Value
 
 The array of int color pixels.
 

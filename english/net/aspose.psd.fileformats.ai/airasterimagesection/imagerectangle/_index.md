@@ -14,7 +14,7 @@ Gets the image rectangle.
 public Rectangle ImageRectangle { get; }
 ```
 
-## Property Value
+### Property Value
 
 The image rectangle.
 

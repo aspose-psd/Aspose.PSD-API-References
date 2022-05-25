@@ -14,7 +14,7 @@ Gets or sets the contrast.
 public int Contrast { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The contrast.
 

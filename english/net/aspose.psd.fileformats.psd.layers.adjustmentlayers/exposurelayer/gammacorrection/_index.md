@@ -14,7 +14,7 @@ Gets or sets the GammaCorrection. For PS range of GammaCorrection is from 9.99 t
 public float GammaCorrection { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The GammaCorrection.
 

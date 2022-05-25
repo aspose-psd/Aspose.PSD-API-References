@@ -14,7 +14,7 @@ Gets or sets the left.
 public double Left { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The left.
 

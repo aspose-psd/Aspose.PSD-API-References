@@ -18,7 +18,7 @@ public double GetRangeCoefficient(double hue)
 | --- | --- | --- |
 | hue | Double | The hue value. |
 
-## Return Value
+### Return Value
 
 Saturation range coefficient.
 

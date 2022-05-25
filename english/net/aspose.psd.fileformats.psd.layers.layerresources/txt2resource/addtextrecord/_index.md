@@ -19,7 +19,7 @@ public int AddTextRecord(string text, RectangleF bounds)
 | text | String | The record text. |
 | bounds | RectangleF | The bounds. |
 
-## Return Value
+### Return Value
 
 Returns Id of text record for resource
 

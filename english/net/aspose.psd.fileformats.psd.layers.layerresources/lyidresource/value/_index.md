@@ -14,7 +14,7 @@ Gets the value.
 public int Value { get; }
 ```
 
-## Property Value
+### Property Value
 
 The value.
 

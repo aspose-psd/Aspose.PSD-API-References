@@ -14,7 +14,7 @@ Gets or sets the V order value of the placed layer in the PSD file.
 public int VOrder { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The V order value of the placed layer.
 

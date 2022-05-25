@@ -14,7 +14,7 @@ Gets or sets the face mark value.
 public short FaceMarkValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The face mark value.
 

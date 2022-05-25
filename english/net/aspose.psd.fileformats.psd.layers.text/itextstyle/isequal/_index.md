@@ -18,7 +18,7 @@ public bool IsEqual(ITextStyle style)
 | --- | --- | --- |
 | style | ITextStyle | The style. |
 
-## Return Value
+### Return Value
 
 `true` if the specified style is equal; otherwise, `false`.
 

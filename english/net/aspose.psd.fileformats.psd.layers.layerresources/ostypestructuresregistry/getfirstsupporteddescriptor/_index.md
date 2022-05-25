@@ -18,7 +18,7 @@ public static IOSTypeStructureLoader GetFirstSupportedDescriptor(Stream stream)
 | --- | --- | --- |
 | stream | Stream | The stream. |
 
-## Return Value
+### Return Value
 
 The layer resource loader descriptor or null if no loader descriptor supported for such stream.
 

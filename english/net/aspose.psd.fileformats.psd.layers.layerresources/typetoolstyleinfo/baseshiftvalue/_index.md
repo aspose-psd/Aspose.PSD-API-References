@@ -14,7 +14,7 @@ Gets or sets the base shift value.
 public int BaseShiftValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The base shift value.
 

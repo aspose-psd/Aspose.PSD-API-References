@@ -14,7 +14,7 @@ Gets or sets the Highlights Yellow Blue Balance.
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Highlights Yellow Blue Balance.
 

@@ -38,13 +38,13 @@ public class PattResource : LayerResource
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save)(StreamContainer, int) | Saves the resource block data. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The 'Patt' type tool info key for 8-bits. |
-| const [TypeToolKey2](typetoolkey2) | The 'Pat2' type tool info key for 16-bits. |
-| const [TypeToolKey3](typetoolkey3) | The 'Pat3' type tool info key for 32-bits. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey) | The 'Patt' type tool info key for 8-bits. |
+| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2) | The 'Pat2' type tool info key for 16-bits. |
+| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3) | The 'Pat3' type tool info key for 32-bits. |
 
 ### See Also
 

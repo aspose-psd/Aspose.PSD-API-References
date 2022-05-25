@@ -14,7 +14,7 @@ Gets or sets the gradient interval.
 public double GradientInterval { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The gradient interval.
 

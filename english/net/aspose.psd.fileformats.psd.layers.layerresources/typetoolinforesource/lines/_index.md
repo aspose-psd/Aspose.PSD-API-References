@@ -14,7 +14,7 @@ Gets or sets the lines.
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The lines.
 

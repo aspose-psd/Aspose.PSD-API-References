@@ -14,7 +14,7 @@ Gets or sets the type tool version.
 public short Version { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type tool version.
 

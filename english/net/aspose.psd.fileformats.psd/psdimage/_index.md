@@ -180,11 +180,11 @@ public sealed class PsdImage : RasterCachedImage
 | [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline)(int, int[]) | Writes the whole scan line to the specified scan line index. |
 | [WriteScanLine](../../aspose.psd/rasterimage/writescanline)(int, Color[]) | Writes the whole scan line to the specified scan line index. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [DefaultVersion](defaultversion) | The default PSD version. |
+| const [DefaultVersion](../../aspose.psd.fileformats.psd/psdimage/defaultversion) | The default PSD version. |
 
 ### Examples
 

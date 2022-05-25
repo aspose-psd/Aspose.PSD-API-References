@@ -14,7 +14,7 @@ Gets or sets the scale factor.
 public int ScaleFactor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The scale factor.
 

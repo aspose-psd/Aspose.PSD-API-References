@@ -14,7 +14,7 @@ Gets or sets the exposure.
 public float Exposure { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The exposure.
 

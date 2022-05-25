@@ -18,7 +18,7 @@ public bool IsEqual(ITextParagraph paragraph)
 | --- | --- | --- |
 | paragraph | ITextParagraph | The paragraph. |
 
-## Return Value
+### Return Value
 
 `true` if the specified paragraph is equal; otherwise, `false`.
 

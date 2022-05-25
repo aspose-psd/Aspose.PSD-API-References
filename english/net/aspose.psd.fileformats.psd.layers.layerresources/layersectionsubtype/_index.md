@@ -14,7 +14,7 @@ The section subtype
 public enum LayerSectionSubtype
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

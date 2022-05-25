@@ -14,7 +14,7 @@ Gets or sets the TX value.
 public double Tx { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The TX value.
 

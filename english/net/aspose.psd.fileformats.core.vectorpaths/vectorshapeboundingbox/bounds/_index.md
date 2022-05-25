@@ -14,7 +14,7 @@ Gets or sets the bounds of the shape bounding box.
 public Rectangle Bounds { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The shape bounding box bounds.
 

@@ -14,7 +14,7 @@ Gets or sets the background color.
 public byte BackgroundColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The background color.
 

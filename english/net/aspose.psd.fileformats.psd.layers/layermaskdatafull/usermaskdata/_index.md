@@ -14,7 +14,7 @@ Gets or sets the user (raster) mask data of a layer in the PSD file. (There is a
 public byte[] UserMaskData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer image data in the PSD image.
 

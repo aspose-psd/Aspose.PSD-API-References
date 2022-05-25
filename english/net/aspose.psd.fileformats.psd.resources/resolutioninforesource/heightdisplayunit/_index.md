@@ -14,7 +14,7 @@ Gets or sets the height display unit.
 public PhysicalUnit HeightDisplayUnit { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The height display unit.
 

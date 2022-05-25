@@ -18,11 +18,11 @@ public LinkDataSource this[Guid index] { get; }
 | --- | --- |
 | index | The index as link data source unique identifier. |
 
-## Return Value
+### Return Value
 
 The [`LinkDataSource`](../../linkdatasource) instance.
 
-## Property Value
+### Property Value
 
 The [`LinkDataSource`](../../linkdatasource).
 

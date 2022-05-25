@@ -14,7 +14,7 @@ Gets or sets the Highlights Magenta Green Balance.
 public short HighlightsMagentaGreenBalance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Highlights Magenta Green Balance.
 

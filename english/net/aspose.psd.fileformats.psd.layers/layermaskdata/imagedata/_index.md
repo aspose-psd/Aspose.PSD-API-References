@@ -14,7 +14,7 @@ Gets or sets the layer mask data (or combined / final mask if there is a vector 
 public byte[] ImageData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer mask data in the PSD image.
 

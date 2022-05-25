@@ -19,7 +19,7 @@ public static LayerResource LoadResourceByFirstSupportedDescriptor(Stream stream
 | stream | Stream | The stream. |
 | psdVersion | Int32 | The PSD version. |
 
-## Return Value
+### Return Value
 
 The loaded [`LayerResource`](../../layerresource) or null if no opener is found.
 

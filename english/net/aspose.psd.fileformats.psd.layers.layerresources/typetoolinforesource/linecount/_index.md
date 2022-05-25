@@ -14,7 +14,7 @@ Gets the line count.
 public short LineCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The line count.
 

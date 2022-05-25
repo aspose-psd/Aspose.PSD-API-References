@@ -14,7 +14,7 @@ Gets or sets the substructures in the object array structure.
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The substructures in the object array structure.
 

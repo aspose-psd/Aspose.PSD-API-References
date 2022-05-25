@@ -14,7 +14,7 @@ Gets the resource block size in bytes including its data.
 public int Size { get; }
 ```
 
-## Property Value
+### Property Value
 
 The resource block size.
 

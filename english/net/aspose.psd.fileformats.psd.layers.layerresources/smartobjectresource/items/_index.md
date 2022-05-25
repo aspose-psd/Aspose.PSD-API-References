@@ -14,7 +14,7 @@ Gets or sets the descriptor items of the smart object layer data in the PSD file
 public override OSTypeStructure[] Items { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The descriptor items of placed layer information.
 

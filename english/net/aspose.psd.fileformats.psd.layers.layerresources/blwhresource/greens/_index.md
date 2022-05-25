@@ -14,7 +14,7 @@ Gets or sets the greens value.
 public int Greens { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The greens value.
 

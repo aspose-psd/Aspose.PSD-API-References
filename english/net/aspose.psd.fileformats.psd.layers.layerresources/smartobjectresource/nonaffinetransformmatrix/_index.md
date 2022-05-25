@@ -14,7 +14,7 @@ Gets or sets the non affine transform matrix of the smart object layer data in t
 public double[] NonAffineTransformMatrix { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The non affine transform matrix of the smart object layer.
 

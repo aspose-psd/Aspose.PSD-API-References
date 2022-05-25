@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this instance warp style is custom. If t
 public bool IsCustom { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if the placed layer has custom style; otherwise, `false`.
 

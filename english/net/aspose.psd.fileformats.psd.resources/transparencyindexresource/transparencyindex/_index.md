@@ -14,7 +14,7 @@ Gets or sets the transparency color index.
 public short TransparencyIndex { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The transparency color index.
 

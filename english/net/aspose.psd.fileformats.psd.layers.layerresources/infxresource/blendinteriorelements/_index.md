@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [blend interior elements].
 public bool BlendInteriorElements { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [blend interior elements]; otherwise, `false`.
 

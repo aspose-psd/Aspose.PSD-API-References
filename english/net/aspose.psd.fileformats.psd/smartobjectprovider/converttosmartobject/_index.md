@@ -18,7 +18,7 @@ public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 | --- | --- | --- |
 | layerNumbers | Int32[] | The layer numbers. |
 
-## Return Value
+### Return Value
 
 The created [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) instance.
 
@@ -49,7 +49,7 @@ public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
 | --- | --- | --- |
 | layers | Layer[] | The layers. |
 
-## Return Value
+### Return Value
 
 The created [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) instance.
 

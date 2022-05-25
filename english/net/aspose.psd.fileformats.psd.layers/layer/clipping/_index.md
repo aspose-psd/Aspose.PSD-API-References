@@ -14,7 +14,7 @@ Gets or sets the layer clipping. 0 = base, 1 = non-base.
 public byte Clipping { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer clipping.
 

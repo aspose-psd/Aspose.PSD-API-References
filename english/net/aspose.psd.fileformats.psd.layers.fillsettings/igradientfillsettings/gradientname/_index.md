@@ -14,7 +14,7 @@ Gets or sets the name of the gradient.
 public string GradientName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The name of the gradient.
 

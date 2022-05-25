@@ -14,7 +14,7 @@ Gets a value indicating whether this instance has origin resolution property.
 public bool IsOriginResolutionPresent { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has origin resolution property; otherwise, `false`.
 

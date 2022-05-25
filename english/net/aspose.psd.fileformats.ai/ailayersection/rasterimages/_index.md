@@ -14,7 +14,7 @@ Gets the raster images.
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-## Property Value
+### Property Value
 
 The raster images.
 

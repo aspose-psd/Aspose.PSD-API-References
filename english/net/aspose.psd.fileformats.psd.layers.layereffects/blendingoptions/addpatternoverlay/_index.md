@@ -14,7 +14,7 @@ Adds the Pattern overlay.
 public PatternOverlayEffect AddPatternOverlay()
 ```
 
-## Return Value
+### Return Value
 
 Created [`PatternOverlayEffect`](../../patternoverlayeffect) object
 

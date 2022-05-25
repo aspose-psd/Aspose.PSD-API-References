@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [use read only mode]. This is read-only 
 public bool ReadOnlyMode { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [use photoshop compatibility mode]; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Gets or sets the left location of the placed layer in the PSD file.
 public double Left { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The left location of the placed layer.
 

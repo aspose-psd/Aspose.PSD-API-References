@@ -14,7 +14,7 @@ Gets or sets the YY value.
 public double Yy { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The YY value.
 

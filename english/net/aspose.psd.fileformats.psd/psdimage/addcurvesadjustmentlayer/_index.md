@@ -14,7 +14,7 @@ Adds the Curves Adjustment layer.
 public CurvesLayer AddCurvesAdjustmentLayer()
 ```
 
-## Return Value
+### Return Value
 
 Created [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer) Layer
 

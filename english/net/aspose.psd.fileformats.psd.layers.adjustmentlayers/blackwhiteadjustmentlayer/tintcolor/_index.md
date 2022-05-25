@@ -14,7 +14,7 @@ Gets or sets the Tint Color value.
 public int TintColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Tint Color value.
 

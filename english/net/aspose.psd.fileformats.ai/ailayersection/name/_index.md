@@ -14,7 +14,7 @@ Gets or sets the layer name. Specifies the name of the item as it appears in the
 public string Name { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer name.
 

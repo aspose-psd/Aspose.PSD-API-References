@@ -14,7 +14,7 @@ Gets the offset X.
 public double OffsetX { get; }
 ```
 
-## Property Value
+### Property Value
 
 The offset X.
 

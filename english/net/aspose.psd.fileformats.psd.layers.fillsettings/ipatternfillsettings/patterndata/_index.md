@@ -14,7 +14,7 @@ Gets or sets the pattern data.
 public int[] PatternData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The pattern data.
 

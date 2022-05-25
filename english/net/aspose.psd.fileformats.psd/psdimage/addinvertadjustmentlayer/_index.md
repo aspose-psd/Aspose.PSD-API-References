@@ -14,7 +14,7 @@ Adds an invert adjustment layer.
 public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 ```
 
-## Return Value
+### Return Value
 
 The created invert layer
 

@@ -14,7 +14,7 @@ Gets or sets the input shadow level.
 public short InputShadowLevel { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The input shadow level.
 

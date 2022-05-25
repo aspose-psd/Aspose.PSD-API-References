@@ -14,7 +14,7 @@ Gets or sets a component.
 public short AComponent { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 a component.
 

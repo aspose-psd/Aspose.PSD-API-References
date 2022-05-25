@@ -14,7 +14,7 @@ Gets or sets the contrast. For PS range of contrast is from -50 to +100. But we 
 public int Contrast { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The contrast.
 

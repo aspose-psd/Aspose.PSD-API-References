@@ -14,7 +14,7 @@ Gets or sets the density of filter
 public int Density { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The density.
 

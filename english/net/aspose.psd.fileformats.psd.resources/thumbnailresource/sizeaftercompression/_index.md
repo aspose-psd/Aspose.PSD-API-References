@@ -14,7 +14,7 @@ Gets or sets the size after compression. Used for consistency check.
 public int SizeAfterCompression { get; }
 ```
 
-## Property Value
+### Property Value
 
 The size after compression.
 

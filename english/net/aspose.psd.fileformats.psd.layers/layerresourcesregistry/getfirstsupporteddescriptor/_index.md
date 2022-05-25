@@ -19,7 +19,7 @@ public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, in
 | stream | Stream | The stream. |
 | psdVersion | Int32 | The PSD version. |
 
-## Return Value
+### Return Value
 
 The layer resource loader descriptor or null if no loader descriptor supported for such stream.
 

@@ -39,11 +39,11 @@ public class Txt2Resource : LayerResource
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/save)(StreamContainer, int) | Saves the specified stream container. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The type tool info key. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/typetoolkey) | The type tool info key. |
 
 ### See Also
 

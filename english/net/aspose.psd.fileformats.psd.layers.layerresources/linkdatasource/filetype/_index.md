@@ -14,7 +14,7 @@ Gets or sets the type of the embedded or external file which Adobe® Photoshop®
 public string FileType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the embedded or external linked file.
 

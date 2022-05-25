@@ -14,7 +14,7 @@ Gets or sets enabled AntiAliasing effect
 public bool IsAntiAliasing { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The distance.
 

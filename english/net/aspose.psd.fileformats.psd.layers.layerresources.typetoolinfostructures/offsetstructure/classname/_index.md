@@ -14,7 +14,7 @@ Gets or sets the class name.
 public string ClassName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The class name.
 

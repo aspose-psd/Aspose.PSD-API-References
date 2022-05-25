@@ -14,7 +14,7 @@ Gets or sets the size of the external file in the LiFE data source of the PSD Ln
 public long FileSize { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The file size.
 

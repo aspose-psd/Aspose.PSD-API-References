@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this instance is continuous manager used
 public bool IsContinuousManagerUsed { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is continuous manager used; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Gets the color points.
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color points.
 

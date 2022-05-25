@@ -14,11 +14,11 @@ Gets an array of 32-bit ARGB colors.
 public int[] Argb32Entries { get; }
 ```
 
-## Return Value
+### Return Value
 
 The array of 32-bit ARGB structure that make up this [`ColorPalette`](../../../aspose.psd/colorpalette).
 
-## Property Value
+### Property Value
 
 The entries.
 

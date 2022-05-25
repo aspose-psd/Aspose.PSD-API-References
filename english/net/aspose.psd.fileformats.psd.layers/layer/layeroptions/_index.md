@@ -14,7 +14,7 @@ Gets the layer options.
 public PsdOptions LayerOptions { get; }
 ```
 
-## Property Value
+### Property Value
 
 The layer options.
 

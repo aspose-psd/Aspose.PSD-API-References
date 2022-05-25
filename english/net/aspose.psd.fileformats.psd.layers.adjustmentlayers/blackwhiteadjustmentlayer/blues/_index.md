@@ -14,7 +14,7 @@ Gets or sets the blues value.
 public int Blues { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The blues value.
 

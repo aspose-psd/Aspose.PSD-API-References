@@ -14,7 +14,7 @@ Gets the active manager.
 public CurvesManager GetActiveManager()
 ```
 
-## Return Value
+### Return Value
 
 Active manager
 

@@ -14,7 +14,7 @@ Gets or sets the bits pixel.
 public short BitsPixel { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The thumbnail bits pixel.
 

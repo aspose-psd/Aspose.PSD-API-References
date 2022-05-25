@@ -14,7 +14,7 @@ Gets or sets the design axes vector to follow.
 public int DesignAxes { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The design axes vector to follow.
 

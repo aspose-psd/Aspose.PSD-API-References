@@ -14,7 +14,7 @@ Gets or sets a [`WrapMode`](../../../aspose.psd/wrapmode) enumeration that indic
 public WrapMode WrapMode { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 A [`WrapMode`](../../../aspose.psd/wrapmode) that specifies how fills drawn with this [`TransformBrush`](../../transformbrush) are tiled.
 

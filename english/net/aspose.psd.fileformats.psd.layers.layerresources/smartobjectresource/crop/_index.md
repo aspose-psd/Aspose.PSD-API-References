@@ -14,7 +14,7 @@ Gets or sets the crop of the smart object layer data in the PSD image.
 public int Crop { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The crop value of placed layer information.
 

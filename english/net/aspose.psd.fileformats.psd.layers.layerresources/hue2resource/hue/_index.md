@@ -14,7 +14,7 @@ Gets or sets the master hue.
 public short Hue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The master hue.
 

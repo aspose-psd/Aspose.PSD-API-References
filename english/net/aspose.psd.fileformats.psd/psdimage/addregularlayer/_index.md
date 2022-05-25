@@ -14,7 +14,7 @@ Adds a new regular layer.
 public Layer AddRegularLayer()
 ```
 
-## Return Value
+### Return Value
 
 Created regular layer.
 

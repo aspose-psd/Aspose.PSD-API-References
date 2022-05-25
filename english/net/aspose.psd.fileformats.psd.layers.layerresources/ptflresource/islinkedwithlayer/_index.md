@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this instance is linked with layer.
 public bool IsLinkedWithLayer { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is linked with layer; otherwise, `false`.
 

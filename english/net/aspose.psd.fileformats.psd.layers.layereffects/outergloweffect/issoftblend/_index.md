@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [knocks out].
 public bool IsSoftBlend { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [knocks out]; otherwise, `false`.
 

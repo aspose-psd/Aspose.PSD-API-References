@@ -14,7 +14,7 @@ Gets the [`Rectangle`](../../../aspose.psd/rectangle) associated with this [`Tex
 public RectangleF ImageRectangle { get; }
 ```
 
-## Property Value
+### Property Value
 
 The [`Rectangle`](../../../aspose.psd/rectangle).
 

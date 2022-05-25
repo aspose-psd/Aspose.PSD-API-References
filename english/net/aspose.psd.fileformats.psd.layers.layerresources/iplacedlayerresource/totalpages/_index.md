@@ -14,7 +14,7 @@ Gets or sets the total pages of the placed layer in the PSD file.
 public int TotalPages { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The total pages of the placed layer.
 

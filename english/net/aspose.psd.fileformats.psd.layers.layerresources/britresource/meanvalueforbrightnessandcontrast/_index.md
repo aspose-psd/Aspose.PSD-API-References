@@ -14,7 +14,7 @@ Gets or sets the mean value for brightness and contrast.
 public short MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The mean value for brightness and contrast.
 

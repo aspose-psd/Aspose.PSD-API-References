@@ -14,7 +14,7 @@ Gets a value indicating whether this instance is visible in group(If layer is no
 public virtual bool IsVisibleInGroup { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is visible in group; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Gets or sets the global unique identifier of the or smart object placed layer in
 public Guid UniqueId { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The unique identifier of the placed layer.
 

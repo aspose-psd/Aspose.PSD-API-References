@@ -14,7 +14,7 @@ Gets or sets the post hyphen.
 public int PostHyphen { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The post hyphen.
 

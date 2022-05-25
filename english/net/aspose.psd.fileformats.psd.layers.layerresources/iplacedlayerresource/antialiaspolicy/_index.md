@@ -14,7 +14,7 @@ Gets or sets the anti alias policy of the placed layer in the PSD image.
 public int AntiAliasPolicy { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The anti alias policy of the placed layer.
 

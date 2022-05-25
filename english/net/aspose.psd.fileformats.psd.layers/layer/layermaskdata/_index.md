@@ -14,7 +14,7 @@ Gets or sets the layer mask data.
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer mask data.
 

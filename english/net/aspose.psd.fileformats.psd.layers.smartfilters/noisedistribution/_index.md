@@ -14,7 +14,7 @@ The distribution of noise filter.
 public enum NoiseDistribution
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

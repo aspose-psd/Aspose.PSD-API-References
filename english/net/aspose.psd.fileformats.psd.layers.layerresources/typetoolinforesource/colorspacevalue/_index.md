@@ -14,7 +14,7 @@ Gets or sets the color space value.
 public short ColorSpaceValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The color space value.
 

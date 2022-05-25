@@ -14,7 +14,7 @@ Gets a value indicating whether this instance has the rectangle property.
 public bool IsOriginShapeBBoxPresent { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance has the origin shape rectangle property; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Makes the memberwise clone of the current instance of the type.
 public SmartFilter Clone()
 ```
 
-## Return Value
+### Return Value
 
 Returns the memberwise clone of the current instance of the type.
 

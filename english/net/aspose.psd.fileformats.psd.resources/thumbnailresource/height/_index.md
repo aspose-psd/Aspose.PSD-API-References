@@ -14,7 +14,7 @@ Gets or sets the height of thumbnail in pixels.
 public int Height { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The thumbnail height.
 

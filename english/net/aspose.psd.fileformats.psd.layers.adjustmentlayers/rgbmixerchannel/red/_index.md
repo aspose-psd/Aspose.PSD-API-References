@@ -14,7 +14,7 @@ Gets or sets the red.
 public short Red { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The red.
 

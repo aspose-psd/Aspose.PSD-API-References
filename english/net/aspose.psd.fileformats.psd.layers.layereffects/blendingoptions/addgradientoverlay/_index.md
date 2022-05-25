@@ -14,7 +14,7 @@ Adds the Gradient overlay.
 public GradientOverlayEffect AddGradientOverlay()
 ```
 
-## Return Value
+### Return Value
 
 Created [`GradientOverlayEffect`](../../gradientoverlayeffect) object
 

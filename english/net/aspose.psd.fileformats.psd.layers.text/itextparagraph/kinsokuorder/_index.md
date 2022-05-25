@@ -14,7 +14,7 @@ Gets or sets the kinsoku order.
 public int KinsokuOrder { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The kinsoku order.
 

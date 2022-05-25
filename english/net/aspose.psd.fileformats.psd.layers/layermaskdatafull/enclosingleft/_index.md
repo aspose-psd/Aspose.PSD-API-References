@@ -14,7 +14,7 @@ Gets or sets the enclosing left raster mask position in the PSD file layer.
 public int EnclosingLeft { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The left layer mask position.
 

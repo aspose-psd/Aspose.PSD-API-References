@@ -14,7 +14,7 @@ Gets or sets the PSD image resources.
 public ResourceBlock[] ImageResources { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The PSD image resources.
 

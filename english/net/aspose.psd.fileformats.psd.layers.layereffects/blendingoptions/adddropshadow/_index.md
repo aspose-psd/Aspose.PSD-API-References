@@ -14,7 +14,7 @@ Adds the drop shadow effect.
 public DropShadowEffect AddDropShadow()
 ```
 
-## Return Value
+### Return Value
 
 Created [`DropShadowEffect`](../../dropshadoweffect) object
 

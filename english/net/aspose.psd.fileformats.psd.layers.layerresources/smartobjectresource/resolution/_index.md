@@ -14,7 +14,7 @@ Gets or sets the resolution of the smart object layer data in the PSD file.
 public double Resolution { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The resolution of the smart object layer.
 

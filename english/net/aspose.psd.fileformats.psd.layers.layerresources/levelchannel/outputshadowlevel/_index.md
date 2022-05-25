@@ -14,7 +14,7 @@ Gets or sets the output shadow level.
 public short OutputShadowLevel { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The output shadow level.
 

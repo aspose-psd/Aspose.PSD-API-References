@@ -14,7 +14,7 @@ Represents the psd file format color modes.
 public enum ColorModes : short
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

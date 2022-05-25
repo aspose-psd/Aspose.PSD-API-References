@@ -14,7 +14,7 @@ Represents resource block state.
 public enum ResourceBlockState
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

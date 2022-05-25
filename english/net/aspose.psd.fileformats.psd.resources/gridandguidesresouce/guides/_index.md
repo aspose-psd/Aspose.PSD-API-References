@@ -14,7 +14,7 @@ Gets or sets the guides.
 public GuideResource[] Guides { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The guides.
 

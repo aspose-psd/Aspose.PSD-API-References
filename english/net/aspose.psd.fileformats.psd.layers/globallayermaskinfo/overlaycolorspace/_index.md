@@ -14,7 +14,7 @@ Gets or sets the overlay color space (undocumented value).
 public short OverlayColorSpace { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The overlay color space.
 

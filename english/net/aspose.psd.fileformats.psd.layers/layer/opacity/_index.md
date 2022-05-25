@@ -14,7 +14,7 @@ Gets or sets the layer opacity. 0 = transparent, 255 = opaque.
 public byte Opacity { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer opacity.
 

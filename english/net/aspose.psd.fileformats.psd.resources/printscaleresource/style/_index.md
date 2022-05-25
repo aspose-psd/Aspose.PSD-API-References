@@ -14,7 +14,7 @@ Gets or sets the style.
 public short Style { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The style.
 

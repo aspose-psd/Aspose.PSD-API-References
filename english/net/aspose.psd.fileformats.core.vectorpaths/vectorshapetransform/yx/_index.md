@@ -14,7 +14,7 @@ Gets or sets the YX value.
 public double Yx { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The YX value.
 

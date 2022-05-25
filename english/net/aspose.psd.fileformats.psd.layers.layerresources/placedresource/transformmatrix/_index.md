@@ -14,7 +14,7 @@ Gets or sets the transform matrix of the placed layer in the PSD file.
 public virtual double[] TransformMatrix { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The transform matrix of the placed layer.
 

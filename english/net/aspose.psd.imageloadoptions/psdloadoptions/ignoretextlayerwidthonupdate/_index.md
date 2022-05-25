@@ -14,7 +14,7 @@ Gets or sets a value indicating whether PSD text layer fixed width will be ignor
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [ignore text layer width]; otherwise, `false`.
 

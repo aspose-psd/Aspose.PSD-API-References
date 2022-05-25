@@ -14,7 +14,7 @@ Gets or sets the graphics library AdobeStockId, for Adobe® Photoshop® CC Libra
 public string AdobeStockId { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The graphics library Adobe Stock Identifier.
 

@@ -14,7 +14,7 @@ Gets or sets the smart object content's source.
 public LinkDataSource ContentsSource { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The smart object data source.
 

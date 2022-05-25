@@ -14,7 +14,7 @@ Gets or sets the horizontal mesh points of the placed layer in the PSD file.
 public double[] HorizontalMeshPoints { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The horizontal mesh points of the placed layer.
 

@@ -14,7 +14,7 @@ Gets or sets the design vector value.
 public int DesignVectorValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The design vector value.
 

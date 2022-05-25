@@ -38,13 +38,13 @@ public sealed class ClassStructure : OSTypeStructure
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [StructureKeyClss](structurekeyclss) | Identifies the structure key. |
-| const [StructureKeyGlbc](structurekeyglbc) | Identifies the structure key. |
-| const [StructureKeyType](structurekeytype) | Identifies the structure key. |
+| const [StructureKeyClss](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/structurekeyclss) | Identifies the structure key. |
+| const [StructureKeyGlbc](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/structurekeyglbc) | Identifies the structure key. |
+| const [StructureKeyType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/structurekeytype) | Identifies the structure key. |
 
 ### See Also
 

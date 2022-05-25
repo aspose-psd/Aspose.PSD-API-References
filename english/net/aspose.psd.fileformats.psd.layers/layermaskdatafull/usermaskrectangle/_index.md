@@ -14,7 +14,7 @@ Gets or sets the user mask (enclosing) rectangle in the PSD image layer..
 public Rectangle UserMaskRectangle { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The user mask [`Rectangle`](../../../aspose.psd/rectangle).
 

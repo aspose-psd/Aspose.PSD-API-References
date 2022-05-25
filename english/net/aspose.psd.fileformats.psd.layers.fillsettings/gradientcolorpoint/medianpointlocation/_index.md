@@ -14,7 +14,7 @@ Gets or sets the median gradient point location.
 public int MedianPointLocation { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The median point location.
 

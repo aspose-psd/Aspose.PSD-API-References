@@ -14,7 +14,7 @@ The resoulutionInfo physical unit enum
 public enum PhysicalUnit
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [every line composer].
 public bool EveryLineComposer { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [every line composer]; otherwise, `false`.
 

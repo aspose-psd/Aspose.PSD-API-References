@@ -14,7 +14,7 @@ Gets the original ID of the currently selected Comp for the child document, whic
 public int OriginalCompId { get; }
 ```
 
-## Property Value
+### Property Value
 
 The original ID of the currently selected comp for the child document, which will be -1 if none are selected.
 

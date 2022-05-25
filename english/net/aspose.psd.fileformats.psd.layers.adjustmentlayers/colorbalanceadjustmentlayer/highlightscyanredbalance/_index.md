@@ -14,7 +14,7 @@ Gets or sets the Highlights Cyan Red Balance.
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Highlights Cyan Red Balance.
 

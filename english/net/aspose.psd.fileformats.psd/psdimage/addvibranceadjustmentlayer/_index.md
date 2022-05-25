@@ -14,7 +14,7 @@ Adds the Vibrance adjustment layer.
 public VibranceLayer AddVibranceAdjustmentLayer()
 ```
 
-## Return Value
+### Return Value
 
 A newly created Vibrance layer.
 

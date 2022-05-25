@@ -14,7 +14,7 @@ Gets the header length.
 public override int GetHeaderLength()
 ```
 
-## Return Value
+### Return Value
 
 The header length
 

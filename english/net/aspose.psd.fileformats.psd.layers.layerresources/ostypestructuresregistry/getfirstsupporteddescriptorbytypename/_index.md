@@ -19,7 +19,7 @@ public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
 | --- | --- | --- |
 | descriptorTypeName | String | The descriptor type name. |
 
-## Return Value
+### Return Value
 
 The first found opener descriptor or null if not such descriptor is found.
 

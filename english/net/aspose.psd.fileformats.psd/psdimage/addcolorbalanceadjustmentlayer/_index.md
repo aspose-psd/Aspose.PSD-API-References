@@ -14,7 +14,7 @@ Adds the color balance adjustment layer.
 public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
 ```
 
-## Return Value
+### Return Value
 
 A newly created color balance layer.
 

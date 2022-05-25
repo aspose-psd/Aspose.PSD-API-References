@@ -14,7 +14,7 @@ Gets or sets the Midtones Yellow Blue Balance.
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Midtones Yellow Blue Balance.
 

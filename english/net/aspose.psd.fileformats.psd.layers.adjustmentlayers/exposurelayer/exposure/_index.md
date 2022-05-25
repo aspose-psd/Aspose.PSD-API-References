@@ -14,7 +14,7 @@ Gets or sets the Exposure. For PS range of Exposure is from -20 to +20.
 public float Exposure { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Exposure.
 

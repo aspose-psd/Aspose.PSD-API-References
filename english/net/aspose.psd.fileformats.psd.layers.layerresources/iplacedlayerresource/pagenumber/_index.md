@@ -14,7 +14,7 @@ Gets or sets the page number of the placed layer in the PSD file.
 public int PageNumber { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The page number of the placed layer.
 

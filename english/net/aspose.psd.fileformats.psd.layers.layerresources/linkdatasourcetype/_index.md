@@ -14,7 +14,7 @@ Defines the LinkDataSourceType enumeration for the data sources in the PSD link 
 public enum LinkDataSourceType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

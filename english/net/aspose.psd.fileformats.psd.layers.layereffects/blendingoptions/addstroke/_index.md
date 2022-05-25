@@ -18,7 +18,7 @@ public StrokeEffect AddStroke(FillType fillType)
 | --- | --- | --- |
 | fillType | FillType | The type of fill to fill the stroke. |
 
-## Return Value
+### Return Value
 
 Created [`StrokeEffect`](../../strokeeffect) object.
 

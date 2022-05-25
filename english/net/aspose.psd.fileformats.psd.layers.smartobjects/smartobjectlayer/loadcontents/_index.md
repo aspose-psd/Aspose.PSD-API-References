@@ -18,7 +18,7 @@ public Image LoadContents(LoadOptions options)
 | --- | --- | --- |
 | options | LoadOptions | The options. |
 
-## Return Value
+### Return Value
 
 The loaded [`Image`](../../../aspose.psd/image) smart object instance.
 

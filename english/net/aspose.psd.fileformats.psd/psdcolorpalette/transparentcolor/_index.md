@@ -14,7 +14,7 @@ Gets the transparent color.
 public Color TransparentColor { get; }
 ```
 
-## Property Value
+### Property Value
 
 The transparent color.
 

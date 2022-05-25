@@ -14,7 +14,7 @@ Gets the original file name of the data source in the Adobe® Photoshop® global
 public string OriginalFileName { get; }
 ```
 
-## Property Value
+### Property Value
 
 The original file name in the PSD format LnkE / Lnk2 resource.
 

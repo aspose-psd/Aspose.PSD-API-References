@@ -14,7 +14,7 @@ Gets or sets the fill opacity.
 public int FillOpacity { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The fill opacity in range from 0 to 100
 

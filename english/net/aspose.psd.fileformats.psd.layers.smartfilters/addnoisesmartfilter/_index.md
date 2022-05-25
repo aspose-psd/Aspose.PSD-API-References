@@ -42,11 +42,11 @@ public sealed class AddNoiseSmartFilter : SmartFilter
 | [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | Applies the current filter to input [`Layer`](../../aspose.psd.fileformats.psd.layers/layer) mask data. |
 | [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | Makes the memberwise clone of the current instance of the type. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [FilterType](filtertype) | The identifier of current smart filter. |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype) | The identifier of current smart filter. |
 
 ### Examples
 

@@ -14,7 +14,7 @@ Gets a value indicating whether this FontInformation is synthetic.
 public bool Synthetic { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if synthetic; otherwise, `false`.
 

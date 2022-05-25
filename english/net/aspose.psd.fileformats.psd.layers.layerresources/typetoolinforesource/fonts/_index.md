@@ -14,7 +14,7 @@ Gets or sets the fonts.
 public TypeToolFontInfo[] Fonts { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The fonts.
 

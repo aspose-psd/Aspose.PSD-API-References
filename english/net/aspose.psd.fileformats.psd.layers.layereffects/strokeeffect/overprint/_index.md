@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this [`StrokeEffect`](../../strokeeffect
 public bool Overprint { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if it must blend stroke against current layer contents; otherwise, `false`.
 

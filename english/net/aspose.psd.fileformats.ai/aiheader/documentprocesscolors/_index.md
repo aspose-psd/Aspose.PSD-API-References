@@ -14,7 +14,7 @@ Gets or sets the document process colors.
 public string DocumentProcessColors { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The document process colors.
 

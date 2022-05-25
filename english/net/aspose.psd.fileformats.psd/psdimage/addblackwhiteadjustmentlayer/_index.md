@@ -14,7 +14,7 @@ Adds the black white adjustment layer.
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 ```
 
-## Return Value
+### Return Value
 
 The created black white adjustment layer.
 

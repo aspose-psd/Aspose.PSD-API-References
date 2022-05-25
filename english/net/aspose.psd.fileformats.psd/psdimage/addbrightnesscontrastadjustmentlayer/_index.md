@@ -19,7 +19,7 @@ public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightne
 | brightness | Int32 | The brightness. |
 | contrast | Int32 | The contrast. |
 
-## Return Value
+### Return Value
 
 Created brightness/contrast layer
 

@@ -14,7 +14,7 @@ Horizontal DPI.
 public FixedPointDecimal HDpi { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The horizontal dpi.
 

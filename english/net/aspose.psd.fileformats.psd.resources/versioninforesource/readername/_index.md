@@ -14,7 +14,7 @@ Gets or sets the name of the reader.
 public string ReaderName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The name of the reader.
 

@@ -14,7 +14,7 @@ Gets or sets the layer resources.
 public LayerResource[] Resources { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer resources.
 

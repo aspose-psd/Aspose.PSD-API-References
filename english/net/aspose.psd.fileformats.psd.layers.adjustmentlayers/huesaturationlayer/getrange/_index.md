@@ -18,7 +18,7 @@ public ColorRangeHsl GetRange(int index)
 | --- | --- | --- |
 | index | Int32 | The index. |
 
-## Return Value
+### Return Value
 
 Color Range Hsl
 

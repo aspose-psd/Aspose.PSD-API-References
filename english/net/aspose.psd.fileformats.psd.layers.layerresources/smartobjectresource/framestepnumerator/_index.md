@@ -14,7 +14,7 @@ Gets or sets the frame step numerator.
 public int FrameStepNumerator { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The frame step numerator.
 

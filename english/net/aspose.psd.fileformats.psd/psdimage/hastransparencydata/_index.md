@@ -14,7 +14,7 @@ Gets or sets a value indicating whether first alpha channel contains the transpa
 public bool HasTransparencyData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if first alpha channel contains the transparency data for the merged result when specifying layers data; otherwise, `false`.
 

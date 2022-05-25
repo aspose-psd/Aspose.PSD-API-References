@@ -18,7 +18,7 @@ public byte[] GetChannelData(int channelIndex)
 | --- | --- | --- |
 | channelIndex | Int32 | Index of the channel. |
 
-## Return Value
+### Return Value
 
 Channel data
 

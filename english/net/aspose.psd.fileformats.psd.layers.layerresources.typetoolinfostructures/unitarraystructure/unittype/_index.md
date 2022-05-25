@@ -14,7 +14,7 @@ Gets or sets the measure unit type of the [`UnitArrayStructure`](../../unitarray
 public UnitTypes UnitType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The measure unit type.
 

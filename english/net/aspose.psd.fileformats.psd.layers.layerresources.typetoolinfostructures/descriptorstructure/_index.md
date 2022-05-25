@@ -39,11 +39,11 @@ public class DescriptorStructure : OSTypeStructure
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Saves the structure to the specified stream container. |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Saves the structure to the specified stream container. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [StructureKey](structurekey) | Identifies the structure key. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structurekey) | Identifies the structure key. |
 
 ### See Also
 

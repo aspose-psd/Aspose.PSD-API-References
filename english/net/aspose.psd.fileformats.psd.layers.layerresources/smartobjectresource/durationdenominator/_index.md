@@ -14,7 +14,7 @@ Gets or sets the duration denominator.
 public int DurationDenominator { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The duration denominator.
 

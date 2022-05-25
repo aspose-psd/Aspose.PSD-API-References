@@ -14,7 +14,7 @@ Gets the version of the placed layer in the PSD file, usually 3.
 public int Version { get; }
 ```
 
-## Property Value
+### Property Value
 
 The placed layer version.
 

@@ -49,11 +49,11 @@ public class PngOptions : ImageOptionsBase
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Clones this instance. |
 | [Dispose](../../aspose.psd/disposableobject/dispose)() | Disposes the current instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [DefaultCompressionLevel](defaultcompressionlevel) | The default compression level. |
+| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel) | The default compression level. |
 
 ### Examples
 

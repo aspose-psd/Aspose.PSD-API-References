@@ -14,7 +14,7 @@ Gets or sets the Tint Color ARGB value.
 public int TintColor { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Tint Color ARGB value.
 

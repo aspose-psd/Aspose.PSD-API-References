@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [automatic hyphenate].
 public bool AutoHyphenate { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [automatic hyphenate]; otherwise, `false`.
 

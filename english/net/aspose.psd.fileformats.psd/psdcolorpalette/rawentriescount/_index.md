@@ -14,7 +14,7 @@ Gets the raw color palette entries count.
 public int RawEntriesCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The raw color palette entries count.
 

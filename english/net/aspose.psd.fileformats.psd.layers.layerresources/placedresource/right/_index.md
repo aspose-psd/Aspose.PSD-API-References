@@ -14,7 +14,7 @@ Gets or sets the right location of the placed layer in the PSD file.
 public double Right { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The right location of the placed layer.
 

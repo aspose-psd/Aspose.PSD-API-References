@@ -14,7 +14,7 @@ Gets or sets the horizontal offset.
 public double HorizontalOffset { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The horizontal offset.
 

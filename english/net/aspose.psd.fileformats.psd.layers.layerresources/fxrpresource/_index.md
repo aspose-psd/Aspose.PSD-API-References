@@ -40,11 +40,11 @@ public class FxrpResource : LayerResource
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save)(StreamContainer, int) | Saves to the specified stream container. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The type tool info key. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey) | The type tool info key. |
 
 ### See Also
 

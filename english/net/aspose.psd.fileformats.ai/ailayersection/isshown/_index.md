@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this layer is shown. Displays all artwor
 public bool IsShown { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this layer is shown; otherwise, `false`.
 

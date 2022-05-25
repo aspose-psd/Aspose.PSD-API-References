@@ -14,7 +14,7 @@ Gets or sets the gamma.
 public float GammaCorrection { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The gamma.
 

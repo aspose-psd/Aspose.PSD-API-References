@@ -42,11 +42,11 @@ public class LspfResource : LayerResource
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The type tool info key 1819504742 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey) | The type tool info key 1819504742 |
 
 ### See Also
 

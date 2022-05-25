@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this instance is transparency protected.
 public bool IsTransparencyProtected { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is transparency protected; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Gets or sets the last write date and time of the external file in the LiFE data 
 public DateTime Date { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The the last write date and time of the external file.
 

@@ -14,7 +14,7 @@ Produces the new portion with default parameters
 public ITextPortion ProducePortion()
 ```
 
-## Return Value
+### Return Value
 
 Reference to newly created [`ITextPortion`](../../itextportion).
 

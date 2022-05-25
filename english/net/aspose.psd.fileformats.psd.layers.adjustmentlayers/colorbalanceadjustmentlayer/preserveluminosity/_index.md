@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this [`BlncResource`](../../../aspose.ps
 public bool PreserveLuminosity { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if it preserves luminosity; otherwise, `false`.
 

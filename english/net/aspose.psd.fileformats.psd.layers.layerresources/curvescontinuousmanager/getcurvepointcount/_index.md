@@ -18,7 +18,7 @@ public int GetCurvePointCount(int channelIndex)
 | --- | --- | --- |
 | channelIndex | Int32 | Index of the channel. |
 
-## Return Value
+### Return Value
 
 Count of Curve Point in channel
 

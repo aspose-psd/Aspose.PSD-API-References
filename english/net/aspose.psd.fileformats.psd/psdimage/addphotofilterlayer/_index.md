@@ -18,7 +18,7 @@ public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 | --- | --- | --- |
 | color | Color | The color. |
 
-## Return Value
+### Return Value
 
 Created PhotoFilter Layer
 

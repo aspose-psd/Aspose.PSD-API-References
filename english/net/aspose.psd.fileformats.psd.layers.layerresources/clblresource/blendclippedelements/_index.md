@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [blend clipped elements].
 public bool BlendClippedElements { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [blend clipped elements]; otherwise, `false`.
 

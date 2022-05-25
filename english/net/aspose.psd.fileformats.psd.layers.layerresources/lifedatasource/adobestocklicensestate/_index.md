@@ -14,7 +14,7 @@ Gets the state of the adobe stock license if available, for Adobe® Photoshop® 
 public string AdobeStockLicenseState { get; }
 ```
 
-## Property Value
+### Property Value
 
 The state of the adobe stock license or empty string if it is not available.
 

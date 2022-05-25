@@ -14,7 +14,7 @@ Gets or sets the bottom location of the placed layer in the PSD image.
 public double Bottom { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The bottom location of the placed layer.
 

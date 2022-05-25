@@ -18,7 +18,7 @@ public static bool CanLoad(string filePath)
 | --- | --- | --- |
 | filePath | String | The file path. |
 
-## Return Value
+### Return Value
 
 `true` if image can be loaded from the specified file; otherwise, `false`.
 
@@ -43,7 +43,7 @@ public static bool CanLoad(string filePath, LoadOptions loadOptions)
 | filePath | String | The file path. |
 | loadOptions | LoadOptions | The load options. |
 
-## Return Value
+### Return Value
 
 `true` if image can be loaded from the specified file; otherwise, `false`.
 
@@ -68,7 +68,7 @@ public static bool CanLoad(Stream stream)
 | --- | --- | --- |
 | stream | Stream | The stream to load from. |
 
-## Return Value
+### Return Value
 
 `true` if image can be loaded from the specified stream; otherwise, `false`.
 
@@ -93,7 +93,7 @@ public static bool CanLoad(Stream stream, LoadOptions loadOptions)
 | stream | Stream | The stream to load from. |
 | loadOptions | LoadOptions | The load options. |
 
-## Return Value
+### Return Value
 
 `true` if image can be loaded from the specified stream; otherwise, `false`.
 

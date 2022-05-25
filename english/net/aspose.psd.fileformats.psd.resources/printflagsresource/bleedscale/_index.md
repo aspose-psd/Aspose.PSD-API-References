@@ -14,7 +14,7 @@ Gets or sets the bleed scale.
 public short BleedScale { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The bleed scale.
 

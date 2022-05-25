@@ -14,7 +14,7 @@ Gets or sets the smart object layer contents. The embedded smart object contents
 public byte[] Contents { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The byte[] smart object layer contents.
 

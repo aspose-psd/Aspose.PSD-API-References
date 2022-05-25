@@ -14,7 +14,7 @@ Gets or sets the leading value.
 public int LeadingValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The leading value.
 

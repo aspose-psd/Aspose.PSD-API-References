@@ -14,7 +14,7 @@ Gets or sets the constant.of channel.
 public short Constant { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The constant.
 

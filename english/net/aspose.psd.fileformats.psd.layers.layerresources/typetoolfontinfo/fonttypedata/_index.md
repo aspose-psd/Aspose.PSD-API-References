@@ -14,7 +14,7 @@ Gets or sets the font type data.
 public int FontTypeData { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The font type data.
 

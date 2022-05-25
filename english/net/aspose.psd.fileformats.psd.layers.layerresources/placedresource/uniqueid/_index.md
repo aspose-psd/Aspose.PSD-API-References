@@ -14,7 +14,7 @@ Gets or sets the global unique identifier of the placed layer in the PSD image.
 public virtual Guid UniqueId { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The unique identifier of the placed layer.
 

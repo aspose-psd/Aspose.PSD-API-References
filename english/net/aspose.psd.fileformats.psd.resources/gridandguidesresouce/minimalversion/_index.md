@@ -14,7 +14,7 @@ Gets the minimal required psd version.
 public override int MinimalVersion { get; }
 ```
 
-## Property Value
+### Property Value
 
 The minimal psd version.
 

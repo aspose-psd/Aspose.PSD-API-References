@@ -14,7 +14,7 @@ Gets or sets a value indicating whether this instance is mask empty.
 public bool IsMaskEmpty { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is mask empty; otherwise, `false`.
 

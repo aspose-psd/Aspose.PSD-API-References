@@ -14,7 +14,7 @@ Gets or sets the U order value of the placed layer in the PSD file.
 public int UOrder { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The U order value of the placed layer.
 

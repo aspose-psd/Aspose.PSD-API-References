@@ -172,12 +172,12 @@ public class Layer : RasterCachedImage
 | [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline)(int, int[]) | Writes the whole scan line to the specified scan line index. |
 | [WriteScanLine](../../aspose.psd/rasterimage/writescanline)(int, Color[]) | Writes the whole scan line to the specified scan line index. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [BlendSignature](blendsignature) | Represents blend mode signature. |
-| const [LayerHeaderSize](layerheadersize) | The layer header size. |
+| const [BlendSignature](../../aspose.psd.fileformats.psd.layers/layer/blendsignature) | Represents blend mode signature. |
+| const [LayerHeaderSize](../../aspose.psd.fileformats.psd.layers/layer/layerheadersize) | The layer header size. |
 
 ### See Also
 

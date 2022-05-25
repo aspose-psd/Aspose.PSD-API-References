@@ -18,7 +18,7 @@ public static PointF[] ToGdiPoints(PointF[] points)
 | --- | --- | --- |
 | points | PointF[] | The [`PointF`](../../../aspose.psd/pointf) array to convert. |
 
-## Return Value
+### Return Value
 
 The converted PointF array.
 

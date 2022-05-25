@@ -18,7 +18,7 @@ public OSTypeStructure Load(StreamContainer streamContainer)
 | --- | --- | --- |
 | streamContainer | StreamContainer | The stream container to load from. |
 
-## Return Value
+### Return Value
 
 The loaded [`OSTypeStructure`](../../ostypestructure) resource.
 

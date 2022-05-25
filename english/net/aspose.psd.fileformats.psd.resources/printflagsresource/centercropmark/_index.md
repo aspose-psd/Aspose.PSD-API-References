@@ -14,7 +14,7 @@ Gets or sets the center crop mark.
 public byte CenterCropMark { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The center crop mark.
 

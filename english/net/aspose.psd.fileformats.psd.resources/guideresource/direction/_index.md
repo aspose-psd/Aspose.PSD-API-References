@@ -14,7 +14,7 @@ Gets or sets the direction of guide.
 public GuideDirection Direction { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The direction of guide.
 

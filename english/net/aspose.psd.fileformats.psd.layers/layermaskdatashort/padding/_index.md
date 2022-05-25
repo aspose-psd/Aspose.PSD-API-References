@@ -14,7 +14,7 @@ Gets or sets the layer mask padding.
 public short Padding { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The layer mask padding.
 

@@ -14,7 +14,7 @@ Gets or sets the total pages number of the smart object layer data in the PSD fi
 public override int TotalPages { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The total pages number of the smart object layer data.
 

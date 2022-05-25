@@ -18,7 +18,7 @@ public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttribut
 | --- | --- | --- |
 | imageAttributes | ImageAttributes | The [`ImageAttributes`](../../../aspose.psd/imageattributes) to convert. |
 
-## Return Value
+### Return Value
 
 The converted ImageAttributes.
 

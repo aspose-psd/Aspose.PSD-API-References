@@ -14,7 +14,7 @@ Gets the RGB color .
 public Color Color { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 The RGB Color
 

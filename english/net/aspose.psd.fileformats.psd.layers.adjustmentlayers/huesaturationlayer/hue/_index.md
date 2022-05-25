@@ -14,7 +14,7 @@ Gets or sets the hue.
 public short Hue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The hue.
 

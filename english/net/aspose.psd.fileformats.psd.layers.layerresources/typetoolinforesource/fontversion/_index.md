@@ -14,7 +14,7 @@ Gets or sets the font version.
 public short FontVersion { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The font version.
 

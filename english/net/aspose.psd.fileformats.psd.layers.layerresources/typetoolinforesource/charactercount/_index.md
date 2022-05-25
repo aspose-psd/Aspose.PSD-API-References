@@ -14,7 +14,7 @@ Gets or sets the character count.
 public int CharacterCount { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The character count.
 

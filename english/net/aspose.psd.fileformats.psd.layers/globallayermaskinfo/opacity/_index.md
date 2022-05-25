@@ -14,7 +14,7 @@ Gets or sets global layers opacity. 0 = transparent, 100 = opaque.
 public short Opacity { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The global layers opacity.
 

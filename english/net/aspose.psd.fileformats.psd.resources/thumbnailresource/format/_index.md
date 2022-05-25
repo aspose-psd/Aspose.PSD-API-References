@@ -14,7 +14,7 @@ Gets or sets the thumbnail data format.
 public ThumbnailFormat Format { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The thumbnail data format.
 

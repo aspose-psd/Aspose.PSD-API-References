@@ -14,7 +14,7 @@ Gets or sets a value indicating whether [use disk for load effects resource] (by
 public bool UseDiskForLoadEffectsResource { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [use disk for load effects resource]; otherwise, `false`.
 

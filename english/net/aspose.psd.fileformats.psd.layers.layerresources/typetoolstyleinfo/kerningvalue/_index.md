@@ -14,7 +14,7 @@ Gets or sets the kerning value.
 public int KerningValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The kerning value.
 

@@ -14,7 +14,7 @@ Gets or sets the channel information.
 public ChannelInformation[] ChannelInformation { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The channel information.
 

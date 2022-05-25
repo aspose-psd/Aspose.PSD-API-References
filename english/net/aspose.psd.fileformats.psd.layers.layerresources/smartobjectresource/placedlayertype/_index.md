@@ -14,7 +14,7 @@ Gets or sets the type of the smart object layer data in the PSD file.
 public override PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the smart object layer data.
 

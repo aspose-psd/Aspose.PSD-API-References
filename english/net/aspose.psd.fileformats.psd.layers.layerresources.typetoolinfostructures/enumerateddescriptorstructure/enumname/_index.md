@@ -14,7 +14,7 @@ Gets or sets the enum name.
 public ClassID EnumName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The enum name.
 

@@ -14,7 +14,7 @@ Gets or sets the name of the external or embedded file in the PSD link resource 
 public string FileName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The name of the external or embedded file.
 

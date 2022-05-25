@@ -14,7 +14,7 @@ Gets the Adobe® Photoshop® global link data source type that can be one of the
 public LinkDataSourceType Type { get; }
 ```
 
-## Property Value
+### Property Value
 
 The PSD link data source type.
 

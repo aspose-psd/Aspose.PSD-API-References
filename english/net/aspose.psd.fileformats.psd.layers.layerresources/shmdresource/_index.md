@@ -38,12 +38,12 @@ public class ShmdResource : LayerResource
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save)(StreamContainer, int) | Saves the specified stream container. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SubResourceHeaderLength](subresourceheaderlength) | The sub resource header length |
-| const [TypeToolKey](typetoolkey) | The type tool info key. |
+| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength) | The sub resource header length |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey) | The type tool info key. |
 
 ### See Also
 

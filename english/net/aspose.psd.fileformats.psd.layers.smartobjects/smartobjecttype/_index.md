@@ -14,7 +14,7 @@ Defines the SmartObjectType enumeration for smart object content type
 public enum SmartObjectType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

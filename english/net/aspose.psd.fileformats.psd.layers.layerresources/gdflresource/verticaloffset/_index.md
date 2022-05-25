@@ -14,7 +14,7 @@ Gets or sets the vertical offset.
 public double VerticalOffset { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vertical offset.
 

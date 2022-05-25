@@ -14,7 +14,7 @@ Gets or sets the vertical grid cycle. The default is 576.
 public int GridCycleY { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vertical grid cycle.
 

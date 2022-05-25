@@ -14,7 +14,7 @@ Gets or sets the b component.
 public short BComponent { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The b component.
 

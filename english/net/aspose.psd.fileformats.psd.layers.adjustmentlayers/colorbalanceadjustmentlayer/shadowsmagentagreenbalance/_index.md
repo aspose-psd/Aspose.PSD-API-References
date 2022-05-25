@@ -14,7 +14,7 @@ Gets or sets the Shadows Magenta Green Balance.
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Shadows Magenta Green Balance.
 

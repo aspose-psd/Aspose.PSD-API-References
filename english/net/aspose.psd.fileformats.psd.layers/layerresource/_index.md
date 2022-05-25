@@ -30,12 +30,12 @@ public abstract class LayerResource
 | abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [PsbResourceSignature](psbresourcesignature) | The PSB-specific resource signature. |
-| const [ResourceSignature](resourcesignature) | The common resource signature. |
+| const [PsbResourceSignature](../../aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature) | The PSB-specific resource signature. |
+| const [ResourceSignature](../../aspose.psd.fileformats.psd.layers/layerresource/resourcesignature) | The common resource signature. |
 
 ### See Also
 

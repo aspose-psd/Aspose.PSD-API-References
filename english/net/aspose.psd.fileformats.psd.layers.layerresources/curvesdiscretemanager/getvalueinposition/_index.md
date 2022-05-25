@@ -19,7 +19,7 @@ public byte GetValueInPosition(int channelIndex, byte position)
 | channelIndex | Int32 | Index of the channel. |
 | position | Byte | The position. |
 
-## Return Value
+### Return Value
 
 Value of curve by its position
 

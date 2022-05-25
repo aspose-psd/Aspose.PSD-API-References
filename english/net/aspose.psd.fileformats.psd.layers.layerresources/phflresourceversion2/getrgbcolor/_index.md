@@ -14,7 +14,7 @@ Gets the color.
 public override Color GetRgbColor()
 ```
 
-## Return Value
+### Return Value
 
 The RGB color
 

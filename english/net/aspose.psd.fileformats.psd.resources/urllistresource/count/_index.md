@@ -14,7 +14,7 @@ Gets or sets the count.
 public int Count { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The count.
 

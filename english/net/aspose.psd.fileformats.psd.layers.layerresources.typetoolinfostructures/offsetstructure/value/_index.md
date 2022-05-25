@@ -14,7 +14,7 @@ Gets or sets the integer value.
 public int Value { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The integer value.
 

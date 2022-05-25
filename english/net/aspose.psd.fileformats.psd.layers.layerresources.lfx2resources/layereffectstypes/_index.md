@@ -14,7 +14,7 @@ Layer blending effects
 public enum LayerEffectsTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

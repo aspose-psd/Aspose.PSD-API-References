@@ -18,7 +18,7 @@ public static FillLayer CreateInstance(FillType fillType)
 | --- | --- | --- |
 | fillType | FillType | The type of fill layer. |
 
-## Return Value
+### Return Value
 
 Returns a new instance of the [`FillLayer`](../../filllayer) class by type of fill.
 

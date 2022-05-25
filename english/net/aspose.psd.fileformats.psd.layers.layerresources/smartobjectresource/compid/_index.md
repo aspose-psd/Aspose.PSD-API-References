@@ -14,7 +14,7 @@ Gets or sets the ID of the currently selected comp for the child document, which
 public int CompId { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The ID of the currently selected comp for the child document in the PSD image, which will be -1 if none are selected.
 

@@ -14,7 +14,7 @@ Gets the version.
 public override short Version { get; }
 ```
 
-## Property Value
+### Property Value
 
 The version.
 

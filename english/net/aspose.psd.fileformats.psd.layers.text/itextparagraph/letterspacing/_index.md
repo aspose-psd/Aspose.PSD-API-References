@@ -14,7 +14,7 @@ Gets or sets the letter spacing.
 public double[] LetterSpacing { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The letter spacing.
 

@@ -14,7 +14,7 @@ Gets the layer's channels count.
 public ushort ChannelsCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The layer's channels count.
 

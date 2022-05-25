@@ -14,7 +14,7 @@ Gets or sets a copy [`Matrix`](../../../aspose.psd/matrix) that defines a local 
 public Matrix Transform { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 A copy of the [`Matrix`](../../../aspose.psd/matrix) that defines a geometric transform that applies only to fills drawn with this [`TransformBrush`](../../transformbrush).
 

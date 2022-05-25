@@ -14,7 +14,7 @@ Gets or sets the destination blend range.
 public int Destination { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The destination blend range.
 

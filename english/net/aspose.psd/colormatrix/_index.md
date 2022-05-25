@@ -58,13 +58,13 @@ public sealed class ColorMatrix
 | --- | --- |
 | [GetMatrix](../../aspose.psd/colormatrix/getmatrix)() | Gets the matrix values. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [MatrixDimensionElementsCount](matrixdimensionelementscount) | The number of elements in matrix dimension. |
-| const [MatrixDimensionsCount](matrixdimensionscount) | The number of matrix dimensions. |
-| const [MatrixTotalElementsCount](matrixtotalelementscount) | The total number of elements in the matrix. |
+| const [MatrixDimensionElementsCount](../../aspose.psd/colormatrix/matrixdimensionelementscount) | The number of elements in matrix dimension. |
+| const [MatrixDimensionsCount](../../aspose.psd/colormatrix/matrixdimensionscount) | The number of matrix dimensions. |
+| const [MatrixTotalElementsCount](../../aspose.psd/colormatrix/matrixtotalelementscount) | The total number of elements in the matrix. |
 
 ### See Also
 

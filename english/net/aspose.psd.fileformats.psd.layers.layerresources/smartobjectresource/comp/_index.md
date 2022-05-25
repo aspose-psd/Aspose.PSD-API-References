@@ -14,7 +14,7 @@ Gets or sets the comp value of the smart object layer data in the PSD file. [Lay
 public int Comp { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The comp value, is -1 if none.
 

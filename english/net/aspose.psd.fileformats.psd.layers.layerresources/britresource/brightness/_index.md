@@ -14,7 +14,7 @@ Gets or sets the brightness.
 public short Brightness { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The brightness.
 

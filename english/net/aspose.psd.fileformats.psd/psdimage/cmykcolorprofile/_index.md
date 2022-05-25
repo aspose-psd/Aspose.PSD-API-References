@@ -14,7 +14,7 @@ Gets or sets the CMYK color profile for CMYK PSD images. Must be in pair with Rg
 public StreamSource CmykColorProfile { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The CMYK color profile.
 

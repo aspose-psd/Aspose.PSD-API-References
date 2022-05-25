@@ -14,7 +14,7 @@ Gets or sets the saturation.
 public short Saturation { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The saturation.
 

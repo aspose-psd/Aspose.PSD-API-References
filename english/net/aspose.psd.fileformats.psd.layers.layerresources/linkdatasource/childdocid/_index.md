@@ -14,7 +14,7 @@ Gets or sets the child document identifier in the liFE or liFD data source of th
 public string ChildDocId { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The child document identifier in the liFE or liFD data source of the PSD Lnk2 / LnkE resource.
 
