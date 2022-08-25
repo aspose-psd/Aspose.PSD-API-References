@@ -3,7 +3,7 @@ title: PositioningTypes
 second_title: Aspose.PSD for .NET API 参考
 description: 图形场景的定位和尺寸类型
 type: docs
-weight: 4770
+weight: 4820
 url: /zh/net/aspose.psd.imageoptions/positioningtypes/
 ---
 ## PositioningTypes enumeration

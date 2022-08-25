@@ -1,14 +1,14 @@
 ---
 title: FilterEffectMaskData
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаFilterEffectMaskDataaspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata.
+description: Инициализирует новый экземплярFilterEffectMaskDataaspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/filtereffectmaskdata/
 ---
 ## FilterEffectMaskData constructor
 
-Инициализирует новый экземпляр класса[`FilterEffectMaskData`](../../filtereffectmaskdata).
+Инициализирует новый экземпляр[`FilterEffectMaskData`](../../filtereffectmaskdata) класс.
 
 ```csharp
 public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, int maxChannels, 
@@ -18,14 +18,14 @@ public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, i
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| guid | String | Указатель ресурса. |
+| guid | String | Путеводитель по ресурсу. |
 | rectangle | Rectangle | Прямоугольник каналов. |
 | pixelsDepth | Int32 | Глубина пикселей. |
 | maxChannels | Int32 | Максимальное значение каналов. |
 | channels | ChannelInformation[] | Каналы. |
 | userMask | ChannelInformation | Маска пользователя. |
-| maskRectangle | Rectangle | Прямоугольник маски листа. |
-| sheetMask | ChannelInformation | Маска листа. |
+| maskRectangle | Rectangle | Прямоугольник листовой маски. |
+| sheetMask | ChannelInformation | Листовая маска. |
 
 ### Примеры
 

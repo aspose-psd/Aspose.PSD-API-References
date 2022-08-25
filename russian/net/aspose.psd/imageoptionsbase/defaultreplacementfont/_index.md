@@ -1,14 +1,14 @@
 ---
 title: DefaultReplacementFont
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает замещающий шрифт по умолчанию шрифт который будет использоваться для отрисовки текста при экспорте в растр если существующий шрифт слоя в PSD-файле не представлен в системе. Чтобы взять правильное имя шрифта по умолчанию можно использовать следующий фрагмент кода System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily семейства  col.Families string defaultFontName  family0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName 
+description: Получает или устанавливает шрифт замены по умолчанию шрифт который будет использоваться для рисования текста при экспорте в растр если существующий шрифт слоя в файле PSD не представлен в системе. Чтобы взять правильное имя шрифта по умолчанию можно использовать следующий фрагмент кода  System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily семейства  col.Families string defaultFontName  семейства0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName 
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/imageoptionsbase/defaultreplacementfont/
 ---
 ## ImageOptionsBase.DefaultReplacementFont property
 
-Получает или задает замещающий шрифт по умолчанию (шрифт, который будет использоваться для отрисовки текста при экспорте в растр, если существующий шрифт слоя в PSD-файле не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });
+Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });
 
 ```csharp
 public virtual string DefaultReplacementFont { get; set; }

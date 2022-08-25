@@ -1,14 +1,14 @@
 ---
 title: Jpeg2000Codec
 second_title: Aspose.PSD for .NET API 参考
-description: 表示 JPEG2000 图像类型
+description: 代表JPEG2000图像类型
 type: docs
 weight: 1540
 url: /zh/net/aspose.psd.fileformats.jpeg2000/jpeg2000codec/
 ---
 ## Jpeg2000Codec enumeration
 
-表示 JPEG2000 图像类型
+代表JPEG2000图像类型
 
 ```csharp
 public enum Jpeg2000Codec

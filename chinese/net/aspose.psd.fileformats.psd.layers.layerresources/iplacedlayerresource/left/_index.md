@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置放置图层在 PSD 文件中的左侧位置
+description: 获取或设置放置图层在PSD文件中的左侧位置
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/
 ---
 ## IPlacedLayerResource.Left property
 
-获取或设置放置图层在 PSD 文件中的左侧位置。
+获取或设置放置图层在PSD文件中的左侧位置。
 
 ```csharp
 public double Left { get; set; }

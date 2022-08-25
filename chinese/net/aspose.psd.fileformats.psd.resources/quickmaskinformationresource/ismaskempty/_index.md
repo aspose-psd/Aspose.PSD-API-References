@@ -1,14 +1,14 @@
 ---
 title: IsMaskEmpty
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此实例是否为空掩码
+description: 获取或设置一个值指示此实例是否为掩码空
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty/
 ---
 ## QuickMaskInformationResource.IsMaskEmpty property
 
-获取或设置一个值，该值指示此实例是否为空掩码。
+获取或设置一个值，指示此实例是否为掩码空。
 
 ```csharp
 public bool IsMaskEmpty { get; set; }
@@ -16,7 +16,7 @@ public bool IsMaskEmpty { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例为空掩码；否则，` false` 。
+`真的`如果此实例为掩码空；否则，`错误的` .
 
 ### 也可以看看
 

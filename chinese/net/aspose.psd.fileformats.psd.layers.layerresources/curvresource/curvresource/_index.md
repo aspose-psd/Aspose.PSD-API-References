@@ -1,14 +1,14 @@
 ---
 title: CurvResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化CurvResourceaspose.psd.fileformats.psd.layers.layerresources/curvresource类的新实例
+description: 初始化CurvResourceaspose.psd.fileformats.psd.layers.layerresources/curvresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/curvresource/
 ---
 ## CurvResource(int) {#constructor_1}
 
-初始化[`CurvResource`](../../curvresource)类的新实例。
+初始化[`CurvResource`](../../curvresource)类.
 
 ```csharp
 public CurvResource(int maxChannelCount)
@@ -28,7 +28,7 @@ public CurvResource(int maxChannelCount)
 
 ## CurvResource(byte[]) {#constructor}
 
-初始化[`CurvResource`](../../curvresource)类的新实例。
+初始化[`CurvResource`](../../curvresource)类.
 
 ```csharp
 public CurvResource(byte[] bytes)

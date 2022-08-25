@@ -16,7 +16,7 @@ public void UpdateLayerData()
 
 ### 例子
 
-以下示例演示了通过 ITextPortion 的从右到左语言的文本对齐工作正常。
+下面的示例演示了通过 ITextPortion 的从右到左语言的文本对齐工作正常。
 
 ```csharp
 [C#]
@@ -36,7 +36,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-下面的示例演示了如何在 Aspose.PSD 的一个文本图层中渲染不同的样式
+以下示例演示了如何在 Aspose.PSD 的一个文本层中呈现不同的样式
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: TileWidth
 second_title: Aspose.PSD for .NET API 参考
-description: 获取 ot 设置平铺宽度
+description: 获取 ot 设置图块宽度
 type: docs
 weight: 550
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/tilewidth/
 ---
 ## TiffOptions.TileWidth property
 
-获取 ot 设置平铺宽度。
+获取 ot 设置图块宽度。
 
 ```csharp
 public uint TileWidth { get; set; }

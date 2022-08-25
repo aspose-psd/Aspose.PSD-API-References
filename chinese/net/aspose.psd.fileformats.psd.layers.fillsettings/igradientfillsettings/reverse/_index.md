@@ -1,14 +1,14 @@
 ---
 title: Reverse
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此IGradientFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings是否为反向
+description: 获取或设置一个值该值指示是否IGradientFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings是反向的
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse/
 ---
 ## IGradientFillSettings.Reverse property
 
-获取或设置一个值，该值指示此[`IGradientFillSettings`](../../igradientfillsettings)是否为反向。
+获取或设置一个值，该值指示是否[`IGradientFillSettings`](../../igradientfillsettings)是反向的。
 
 ```csharp
 public bool Reverse { get; set; }
@@ -16,11 +16,11 @@ public bool Reverse { get; set; }
 
 ### 适当的价值
 
-` true` 如果反向；否则，` false` 。
+`真的`如果反转；否则，`错误的` .
 
 ### 例子
 
-以下示例演示了渐变填充层支持和 IGradientFillSettings 编辑选项。
+以下示例演示了渐变填充图层支持和 IGradientFillSettings 编辑选项。
 
 ```csharp
 [C#]

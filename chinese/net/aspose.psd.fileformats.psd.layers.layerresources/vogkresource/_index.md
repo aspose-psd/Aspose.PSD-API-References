@@ -1,14 +1,14 @@
 ---
 title: VogkResource
 second_title: Aspose.PSD for .NET API 参考
-description: 向量起始数据资源
+description: 向量源数据资源
 type: docs
-weight: 3260
+weight: 3310
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/
 ---
 ## VogkResource class
 
-向量起始数据资源。
+向量源数据资源。
 
 ```csharp
 public sealed class VogkResource : LayerResource
@@ -18,14 +18,14 @@ public sealed class VogkResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VogkResource](vogkresource)() | 初始化[`VogkResource`](../vogkresource)类的新实例。 |
+| [VogkResource](vogkresource)() | 初始化[`VogkResource`](../vogkresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | [ShapeOriginSettings](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings) { get; set; } | 获取或设置形状原点设置。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/signature) { get; } | 获取图层资源签名。 |
@@ -36,7 +36,7 @@ public sealed class VogkResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
@@ -46,7 +46,7 @@ public sealed class VogkResource : LayerResource
 
 ### 例子
 
-下面的例子演示了对 VogkResource 资源的支持。
+以下示例演示了对 VogkResource 资源的支持。
 
 ```csharp
 [C#]

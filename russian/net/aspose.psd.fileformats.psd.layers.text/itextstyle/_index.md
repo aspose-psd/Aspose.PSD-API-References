@@ -3,7 +3,7 @@ title: ITextStyle
 second_title: Справочник по Aspose.PSD для .NET API
 description: Интерфейс для работы со стилем текста
 type: docs
-weight: 3430
+weight: 3480
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
 ## ITextStyle interface
@@ -18,13 +18,13 @@ public interface ITextStyle
 
 | Имя | Описание |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning) { get; set; } | Получает или устанавливает автоматический кернинг. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning) { get; set; } | Получает или задает автоматический кернинг. |
 | [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading) { get; set; } | Получает или задает значение, указывающее, используется ли [автоматический интерлиньяж]. |
 | [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift) { get; set; } | Базовый сдвиг. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates) { get; set; } | Контекстные варианты, используемые для соединения букв. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates) { get; set; } | Контекстные альтернативы, используемые для соединения букв вместе. |
 | [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures) { get; set; } | Дискреционные лигатуры, используемые для соединения букв, особенно в рукописных шрифтах. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold) { get; set; } | Получает или задает, что искусственный жирный шрифт включен. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic) { get; set; } | Получает или задает, что искусственный жирный шрифт включен. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold) { get; set; } | Получает или устанавливает, что искусственный полужирный шрифт включен. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic) { get; set; } | Получает или устанавливает, что искусственный полужирный шрифт включен. |
 | [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor) { get; set; } | Получает или задает цвет заливки. |
 | [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline) { get; set; } | Базовая линия шрифта. |
 | [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps) { get; set; } | Заглавные буквы шрифта. |
@@ -32,16 +32,16 @@ public interface ITextStyle
 | [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname) { get; set; } | Получает или задает имя шрифта. |
 | [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize) { get; set; } | Получает или задает размер шрифта. |
 | [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions) { get; set; } | Символы дробей можно заменить специальным глифом. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers) { get; set; } | Получает или задает значение, указывающее, используются ли [числа на хинди]. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers) { get; set; } | Получает или задает значение, указывающее, являются ли [числа на хинди]. |
 | [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale) { get; set; } | Масштаб по горизонтали. |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning) { get; set; } | Получает или устанавливает кернинг. |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning) { get; set; } | Получает или задает кернинг. |
 | [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex) { get; } | Получает индекс языка. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading) { get; set; } | Получает или задает начальный элемент. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading) { get; set; } | Получает или устанавливает начальный. |
 | [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures) { get; set; } | Стандартные контекстные лигатуры, используемые для соединения букв. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough) { get; set; } | Получает или задает значение, указывающее, [перечеркнуто ли]. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough) { get; set; } | Получает или задает значение, указывающее, будет ли [перечеркнуто]. |
 | [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor) { get; set; } | Получает или задает цвет обводки. |
 | [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking) { get; set; } | Получает или задает отслеживание. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline) { get; set; } | Получает или задает значение, указывающее, [подчеркнуто ли]. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline) { get; set; } | Получает или задает значение, указывающее, является ли [подчеркивание]. |
 | [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale) { get; set; } | Вертикальный масштаб. |
 
 ## Методы
@@ -53,7 +53,7 @@ public interface ITextStyle
 
 ### Примеры
 
-В следующем примере показано, как может отображать разные стили в одном текстовом слое в Aspose.PSD
+В следующем примере показано, как можно визуализировать разные стили в одном текстовом слое в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -99,12 +99,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Следующий код демонстрирует, как получить размер шрифта для любой части текста в текстовом слое.
+Следующий код демонстрирует, как получить размер шрифта для любой текстовой части в текстовом слое.
 
 ```csharp
 [C#]
 
-// Извлечен неверный размер шрифта 
+// Извлечен неправильный размер шрифта 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -149,7 +149,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-В следующем примере кода демонстрируется редактирование частей текста и стиля их текста.
+В следующем примере кода показано редактирование текстовых частей и стиля их текста.
 
 ```csharp
 [C#]

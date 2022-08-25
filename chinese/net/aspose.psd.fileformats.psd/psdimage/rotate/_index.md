@@ -20,7 +20,7 @@ public override void Rotate(float angle)
 
 ### 例子
 
-以下代码演示了将图像旋转特定角度值的能力。
+以下代码演示了按特定角度值旋转图像的能力。
 
 ```csharp
 [C#]
@@ -76,8 +76,8 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | angle | Single | 以度为单位的旋转角度。正值将顺时针旋转。 |
-| resizeProportionally | Boolean | 如果设置为` true` 在其他情况下，您将根据旋转的矩形（角点）投影更改图像大小保持尺寸不变，仅旋转内部图像内容。 |
-| backgroundColor | Color | 背景颜色。 |
+| resizeProportionally | Boolean | 如果设置为`真的`您将根据旋转的矩形（角点）投影更改图像大小，在其他情况下保持尺寸不变并且仅旋转内部图像内容。 |
+| backgroundColor | Color | 背景的颜色。 |
 
 ### 也可以看看
 

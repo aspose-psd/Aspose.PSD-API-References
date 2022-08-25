@@ -1,14 +1,14 @@
 ---
 title: IsOriginIndexPresent
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一个值该值指示此实例是否具有源索引属性
+description: 获取一个值该值指示此实例是否具有原点索引属性
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/
 ---
 ## VectorShapeOriginSettings.IsOriginIndexPresent property
 
-获取一个值，该值指示此实例是否具有源索引属性。
+获取一个值，该值指示此实例是否具有原点索引属性。
 
 ```csharp
 public bool IsOriginIndexPresent { get; }
@@ -16,7 +16,7 @@ public bool IsOriginIndexPresent { get; }
 
 ### 适当的价值
 
-` true` 如果此实例具有源索引属性；否则，` false` 。
+`真的`如果此实例具有原点索引属性；否则，`错误的` .
 
 ### 也可以看看
 

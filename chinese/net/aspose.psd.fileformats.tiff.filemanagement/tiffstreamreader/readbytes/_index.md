@@ -17,9 +17,9 @@ public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | array | Byte[] | 要填充的数组。 |
-| arrayIndex | Int32 | 开始放入值的数组索引。 |
+| arrayIndex | Int32 | 开始将值放入的数组索引。 |
 | position | Int64 | 要读取的流位置。 |
-| count | Int64 | 要读取的元素计数。 |
+| count | Int64 | 元素计数阅读。 |
 
 ### 返回值
 

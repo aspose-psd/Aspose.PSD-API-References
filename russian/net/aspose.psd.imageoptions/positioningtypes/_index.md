@@ -3,7 +3,7 @@ title: PositioningTypes
 second_title: Справочник по Aspose.PSD для .NET API
 description: Типы позиционирования и размера для графической сцены.
 type: docs
-weight: 4770
+weight: 4820
 url: /ru/net/aspose.psd.imageoptions/positioningtypes/
 ---
 ## PositioningTypes enumeration
@@ -19,7 +19,7 @@ public enum PositioningTypes
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | DefinedByDocument | `0` | Абсолютное положение на странице, определяемое настройками страницы документа. |
-| DefinedByOptions | `1` | Абсолютное позиционирование на странице, определяемое настройками страницы параметров. |
+| DefinedByOptions | `1` | Абсолютное положение на странице, определяемое настройками страницы параметров. |
 | Relative | `2` | Относительное расположение и размер. Определяется границей всех графических объектов. |
 
 ### Смотрите также

@@ -1,14 +1,14 @@
 ---
 title: PhflResource
 second_title: Aspose.PSD for .NET API 参考
-description: PhflResource 类曝光调整层资源 2 版本   3  或   2  12 XYZ 颜色各 4 个字节仅在版本 3 中 10 后跟 2 个字节的颜色空间由 4  2 字节颜色分量仅在版本 2 中 4 密度 1 保留亮度
+description: 类 PhflResource曝光调整层资源 2 版本   3  或   2  12 XYZ 颜色各 4 字节仅在版本 3 中 10 2 字节颜色空间后跟 4  2 字节颜色分量仅在版本 2 中 4 密度 1 保持亮度
 type: docs
-weight: 2820
+weight: 2870
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/
 ---
 ## PhflResource class
 
-PhflResource 类。曝光调整层资源 2 版本 ( = 3 ) 或 ( = 2 ) 12 XYZ 颜色各 4 个字节（仅在版本 3 中） 10 后跟 2 个字节的颜色空间由 4 * 2 字节颜色分量（仅在版本 2 中） 4 密度 1 保留亮度
+类 PhflResource。曝光调整层资源 2 版本 ( = 3 ) 或 ( = 2 ) 12 XYZ 颜色各 4 字节（仅在版本 3 中） 10 2 字节颜色空间后跟 4 * 2 字节颜色分量（仅在版本 2 中） 4 密度 1 保持亮度
 
 ```csharp
 public abstract class PhflResource : AdjustmentLayerResource
@@ -19,12 +19,12 @@ public abstract class PhflResource : AdjustmentLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | [Density](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/density) { get; set; } | 获取或设置密度。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/key) { get; } | 获取层资源密钥。 |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity) { get; set; } | 获取或设置一个值，指示是否[保持亮度]。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/key) { get; } | 获取图层资源键。 |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length) { get; } | 以字节为单位获取层资源长度。 |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity) { get; set; } | 获取或设置一个值，指示是否[保持亮度]. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | 获取签名。 |
-| abstract [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/version) { get; } | 获取版本。默认为 2 或 3 |
+| abstract [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/version) { get; } | 获取版本。默认值为 2 或 3 |
 
 ## 方法
 
@@ -33,7 +33,7 @@ public abstract class PhflResource : AdjustmentLayerResource
 | abstract [GetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor)() | 获取 RGB 的颜色。 |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
 | abstract [SetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrgbcolor)(Color) | 设置 RGB 颜色。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

@@ -1,14 +1,14 @@
 ---
 title: MinA
 second_title: Aspose.PSD for .NET API 参考
-description: A 分量最小值
+description: 最小A分量值
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/colorantlab/mina/
 ---
 ## ColorantLab.MinA field
 
-A 分量最小值
+最小A分量值
 
 ```csharp
 public const int MinA;

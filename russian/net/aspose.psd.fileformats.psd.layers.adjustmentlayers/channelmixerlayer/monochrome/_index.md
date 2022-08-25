@@ -1,14 +1,14 @@
 ---
 title: Monochrome
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этотChannelMixerLayeraspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayerмонохромным.
+description: Получает или задает значение указывающее является ли этоChannelMixerLayeraspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer монохромный.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/monochrome/
 ---
 ## ChannelMixerLayer.Monochrome property
 
-Получает или задает значение, указывающее, является ли этот[`ChannelMixerLayer`](../../channelmixerlayer)монохромным.
+Получает или задает значение, указывающее, является ли это[`ChannelMixerLayer`](../../channelmixerlayer) монохромный.
 
 ```csharp
 public bool Monochrome { get; set; }
@@ -16,7 +16,7 @@ public bool Monochrome { get; set; }
 
 ### Стоимость имущества
 
-` true` если монохромный; в противном случае` false` .
+`истинный` если монохромный; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

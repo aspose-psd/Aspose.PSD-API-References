@@ -1,14 +1,14 @@
 ---
 title: Font
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет определенный формат для текста включая начертание шрифта размер и атрибуты стиля. Этот класс не может быть унаследован.
+description: Определяет определенный формат текста включая начертание шрифта размер и атрибуты стиля. Этот класс не может быть унаследован.
 type: docs
-weight: 4160
+weight: 4210
 url: /ru/net/aspose.psd/font/
 ---
 ## Font class
 
-Определяет определенный формат для текста, включая начертание шрифта, размер и атрибуты стиля. Этот класс не может быть унаследован.
+Определяет определенный формат текста, включая начертание шрифта, размер и атрибуты стиля. Этот класс не может быть унаследован.
 
 ```csharp
 public sealed class Font
@@ -18,39 +18,39 @@ public sealed class Font
 
 | Имя | Описание |
 | --- | --- |
-| [Font](font#constructor)(Font, FontStyle) | Инициализирует новый[`Font`](../font)который использует указанный существующий[`Font`](../font)и[`FontStyle`](../fontstyle)перечисление. |
-| [Font](font#constructor_1)(string, float) | Инициализирует новый шрифт[`Font`](../font)указанного размера. Набор символов установлен наDefault, графический модуль наPoint, стиль шрифта наRegular. |
-| [Font](font#constructor_2)(string, float, FontStyle) | Инициализирует новый[`Font`](../font)с использованием указанного размера и стиля. Набор символов установлен наDefault, графический модуль наPoint. |
-| [Font](font#constructor_5)(string, float, GraphicsUnit) | Инициализирует новый[`Font`](../font)с использованием указанного размера и единицы измерения. Набор символов установлен наDefault, стиль установлен наRegular. |
-| [Font](font#constructor_3)(string, float, FontStyle, GraphicsUnit) | Инициализирует новый[`Font`](../font)с использованием указанного размера, стиля и единицы измерения. |
-| [Font](font#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Инициализирует новый[`Font`](../font)с использованием указанного размера, стиля, единицы измерения и набора символов. |
+| [Font](font#constructor)(Font, FontStyle) | Инициализирует новый[`Font`](../font) который использует указанный существующий[`Font`](../font) а также[`FontStyle`](../fontstyle) перечисление. |
+| [Font](font#constructor_1)(string, float) | Инициализирует новый[`Font`](../font) используя заданный размер. Набор символов установлен наDefault , графический блок кPoint , стиль шрифта дляRegular . |
+| [Font](font#constructor_2)(string, float, FontStyle) | Инициализирует новый[`Font`](../font) с использованием определенного размера и стиля. Набор символов установлен наDefault , графический блок кPoint . |
+| [Font](font#constructor_5)(string, float, GraphicsUnit) | Инициализирует новый[`Font`](../font) используя указанный размер и единицу измерения. Набор символов установлен наDefault стиль установлен наRegular . |
+| [Font](font#constructor_3)(string, float, FontStyle, GraphicsUnit) | Инициализирует новый[`Font`](../font) используя указанный размер, стиль и единицу измерения. |
+| [Font](font#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Инициализирует новый[`Font`](../font) используя указанный размер, стиль, единицу измерения и набор символов. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Bold](../../aspose.psd/font/bold) { get; } | Получает значение, указывающее, является ли шрифт[`Font`](../font)полужирным. |
-| [CharacterSet](../../aspose.psd/font/characterset) { get; } | Получает значение байта, указывающее набор символов, который использует этот[`Font`](../font). |
-| [Italic](../../aspose.psd/font/italic) { get; } | Получает значение, указывающее, является ли шрифт[`Font`](../font)курсивным. |
-| [Name](../../aspose.psd/font/name) { get; } | Получает имя шрифта этого[`Font`](../font). |
-| [Size](../../aspose.psd/font/size) { get; } | Получает размер em этого[`Font`](../font)в единицах, указанных[`Unit`](./unit)свойство. |
-| [Strikeout](../../aspose.psd/font/strikeout) { get; } | Получает значение, указывающее, указывает ли этот[`Font`](../font)горизонтальная линия через шрифт. |
-| [Style](../../aspose.psd/font/style) { get; } | Получает информацию о стиле для этого[`Font`](../font). |
-| [Underline](../../aspose.psd/font/underline) { get; } | Получает значение, указывающее, подчеркнут ли этот[`Font`](../font). |
-| [Unit](../../aspose.psd/font/unit) { get; } | Получает единицу измерения для этого[`Font`](../font). |
+| [Bold](../../aspose.psd/font/bold) { get; } | Получает значение, указывающее, является ли это[`Font`](../font) выделен жирным шрифтом. |
+| [CharacterSet](../../aspose.psd/font/characterset) { get; } | Получает значение байта, указывающее набор символов, который[`Font`](../font) использует. |
+| [Italic](../../aspose.psd/font/italic) { get; } | Получает значение, указывающее, является ли это[`Font`](../font)выделено курсивом. |
+| [Name](../../aspose.psd/font/name) { get; } | Получает имя лица этого[`Font`](../font) . |
+| [Size](../../aspose.psd/font/size) { get; } | Получает размер em этого[`Font`](../font) измеряется в единицах, указанных[`Unit`](./unit) свойство. |
+| [Strikeout](../../aspose.psd/font/strikeout) { get; } | Получает значение, указывающее, является ли это[`Font`](../font) определяет горизонтальную линию через шрифт. |
+| [Style](../../aspose.psd/font/style) { get; } | Получает информацию о стиле для этого[`Font`](../font) . |
+| [Underline](../../aspose.psd/font/underline) { get; } | Получает значение, указывающее, является ли это[`Font`](../font) подчеркнуто. |
+| [Unit](../../aspose.psd/font/unit) { get; } | Получает единицу измерения для этого[`Font`](../font) . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [DeepClone](../../aspose.psd/font/deepclone)() | Создает точную глубокую копию этого[`Font`](../font). |
-| override [Equals](../../aspose.psd/font/equals)(object) | Указывает, является ли указанный объект шрифтом[`Font`](../font)и имеет ли те же значения свойств, что и этотШрифт. |
-| override [GetHashCode](../../aspose.psd/font/gethashcode)() | Получает хеш-код для этого[`Font`](../font). |
-| override [ToString](../../aspose.psd/font/tostring)() | Возвращает удобочитаемое строковое представление этого[`Font`](../font). |
+| [DeepClone](../../aspose.psd/font/deepclone)() | Создает точную глубокую копию этого[`Font`](../font) . |
+| override [Equals](../../aspose.psd/font/equals)(object) | Указывает, является ли указанный объект[`Font`](../font) и имеет те же значения свойств, что и этот[`Font`](../font) . |
+| override [GetHashCode](../../aspose.psd/font/gethashcode)() | Получает хэш-код для этого[`Font`](../font) . |
+| override [ToString](../../aspose.psd/font/tostring)() | Возвращает удобочитаемое строковое представление этого[`Font`](../font) . |
 
 ### Примеры
 
-Этот пример демонстрирует использование класса Font и SolidBrush для рисования строк на поверхности изображения. В примере создается новое изображение и рисуются фигуры с использованием Figures и GraphicsPath
+В этом примере демонстрируется использование класса Font и SolidBrush для рисования строк на поверхности изображения. В примере создается новое изображение и рисуются фигуры с использованием Figures и GraphicsPath.
 
 ```csharp
 [C#]

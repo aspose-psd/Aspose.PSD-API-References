@@ -1,14 +1,14 @@
 ---
 title: FxrpResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс FxrpResource. Контрольная точка слоя
+description: Класс FxrpResource. Контрольная точка layer
 type: docs
-weight: 2430
+weight: 2470
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/
 ---
 ## FxrpResource class
 
-Класс FxrpResource. Контрольная точка слоя
+Класс FxrpResource. Контрольная точка layer
 
 ```csharp
 public class FxrpResource : LayerResource
@@ -18,9 +18,9 @@ public class FxrpResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [FxrpResource](fxrpresource#constructor)() | Инициализирует новый экземпляр класса[`FxrpResource`](../fxrpresource). |
-| [FxrpResource](fxrpresource#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`FxrpResource`](../fxrpresource). С пользовательским или неизвестным значением |
-| [FxrpResource](fxrpresource#constructor_2)(double, double) | Инициализирует новый экземпляр класса[`FxrpResource`](../fxrpresource). |
+| [FxrpResource](fxrpresource#constructor)() | Инициализирует новый экземпляр[`FxrpResource`](../fxrpresource) класс. |
+| [FxrpResource](fxrpresource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`FxrpResource`](../fxrpresource) class. С пользовательским или неизвестным значением |
+| [FxrpResource](fxrpresource#constructor_2)(double, double) | Инициализирует новый экземпляр[`FxrpResource`](../fxrpresource) класс. |
 
 ## Характеристики
 
@@ -28,23 +28,23 @@ public class FxrpResource : LayerResource
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature) { get; } | Получает подпись. |
-| [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x) { get; set; } | Получает или устанавливает x контрольной точки |
-| [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y) { get; set; } | Получает или задает y опорной точки |
+| [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x) { get; set; } | Получает или задает x контрольной точки |
+| [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y) { get; set; } | Получает или задает y контрольной точки |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save)(StreamContainer, int) | Сохраняет в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

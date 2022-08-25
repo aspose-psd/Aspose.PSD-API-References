@@ -16,7 +16,7 @@ public short ShadowsMagentaGreenBalance { get; set; }
 
 ### 适当的价值
 
-阴影品红色绿色平衡。
+阴影洋红色绿色平衡。
 
 ### 也可以看看
 

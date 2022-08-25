@@ -1,14 +1,14 @@
 ---
 title: HDpi
 second_title: Aspose.PSD for .NET API 参考
-description: 水平 DPI
+description: 水平 DPI.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 ---
 ## ResolutionInfoResource.HDpi property
 
-水平 DPI。
+水平 DPI.
 
 ```csharp
 public FixedPointDecimal HDpi { get; set; }
@@ -16,7 +16,7 @@ public FixedPointDecimal HDpi { get; set; }
 
 ### 适当的价值
 
-水平 dpi。
+水平 dpi.
 
 ### 也可以看看
 

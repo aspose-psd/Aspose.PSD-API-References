@@ -1,14 +1,14 @@
 ---
 title: MultiplyTransform
 second_title: Aspose.PSD for .NET API 参考
-description: 将表示此Graphicsaspose.psd/graphics的局部几何变换的Matrixaspose.psd/matrix乘以指定的Matrixaspose.psd/matrix通过添加指定的Matrixaspose.psd/matrix
+description: 乘以Matrixaspose.psd/matrix表示这个的局部几何变换Graphicsaspose.psd/graphics由指定的Matrixaspose.psd/matrix通过预先指定Matrixaspose.psd/matrix .
 type: docs
 weight: 420
 url: /zh/net/aspose.psd/graphics/multiplytransform/
 ---
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-将表示此[`Graphics`](../../graphics)的局部几何变换的[`Matrix`](../../matrix)乘以指定的[`Matrix`](../../matrix)通过添加指定的[`Matrix`](../../matrix)。
+乘以[`Matrix`](../../matrix)表示这个的局部几何变换[`Graphics`](../../graphics)由指定的[`Matrix`](../../matrix)通过预先指定[`Matrix`](../../matrix) .
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
@@ -16,7 +16,7 @@ public void MultiplyTransform(Matrix matrix)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix)乘以几何变换。 |
+| matrix | Matrix | 这[`Matrix`](../../matrix)乘以几何变换。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void MultiplyTransform(Matrix matrix)
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-将表示此[`Graphics`](../../graphics)的局部几何变换的[`Matrix`](../../matrix)乘以指定的[`Matrix`](../../matrix)按指定顺序。
+乘以[`Matrix`](../../matrix)表示这个的局部几何变换[`Graphics`](../../graphics)由指定的[`Matrix`](../../matrix)按指定顺序。
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
@@ -37,8 +37,8 @@ public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix)乘以几何变换。 |
-| order | MatrixOrder | [`MatrixOrder`](../../matrixorder)指定两个矩阵相乘的顺序。 |
+| matrix | Matrix | 这[`Matrix`](../../matrix)乘以几何变换。 |
+| order | MatrixOrder | 一个[`MatrixOrder`](../../matrixorder)指定两个矩阵相乘的顺序。 |
 
 ### 也可以看看
 

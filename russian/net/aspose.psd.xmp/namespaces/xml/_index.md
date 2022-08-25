@@ -1,14 +1,14 @@
 ---
 title: Xml
 second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен Xml.
+description: Пространство имен XML.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp/namespaces/xml/
 ---
 ## Namespaces.Xml field
 
-Пространство имен Xml.
+Пространство имен XML.
 
 ```csharp
 public const string Xml;

@@ -1,14 +1,14 @@
 ---
 title: InputMidtoneLevel
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает плавающее значение входного среднего тона.
+description: Получает или задает входной уровень среднего тона с плавающей запятой.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/
 ---
 ## LevelChannel.InputMidtoneLevel property
 
-Получает или задает плавающее значение входного среднего тона.
+Получает или задает входной уровень среднего тона с плавающей запятой.
 
 ```csharp
 public float InputMidtoneLevel { get; set; }
@@ -16,13 +16,13 @@ public float InputMidtoneLevel { get; set; }
 
 ### Стоимость имущества
 
-Уровень входного среднего тона плавает.
+Плавающий уровень входного среднего тона.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Input Midtone Level может быть установлен только в диапазоне от 0,01 до 9,99 |
+| ArgumentOutOfRangeException | Уровень входного среднего тона можно установить только в диапазоне от 0,01 до 9,99. |
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: GetArgb32Color
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает 32-битный цвет палитры ARGB по индексу.
+description: Получает 32битный цвет палитры ARGB по индексу.
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd/psdcolorpalette/getargb32color/
@@ -20,13 +20,13 @@ public int GetArgb32Color(int index)
 
 ### Возвращаемое значение
 
-Запись цветовой палитры, заданная*index*.
+Запись цветовой палитры, заданная параметром*index*.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | , если указанная цветовая палитра*index*находится вне диапазона элементов палитры. |
+| ArgumentOutOfRangeException | если цветовая палитра*index* указано вне диапазона элементов палитры. |
 
 ### Смотрите также
 

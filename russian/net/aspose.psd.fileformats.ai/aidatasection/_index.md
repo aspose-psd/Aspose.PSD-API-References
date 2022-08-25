@@ -1,14 +1,14 @@
 ---
 title: AiDataSection
 second_title: Справочник по Aspose.PSD для .NET API
-description: Раздел данных формата Ai
+description: Раздел данных формата AI
 type: docs
 weight: 1220
 url: /ru/net/aspose.psd.fileformats.ai/aidatasection/
 ---
 ## AiDataSection class
 
-Раздел данных формата Ai
+Раздел данных формата AI
 
 ```csharp
 public class AiDataSection : DisposableObject

@@ -1,14 +1,14 @@
 ---
 title: EnumeratedDescriptorStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Структура перечисляемого дескриптора.
+description: Перечисленная структура дескриптора.
 type: docs
-weight: 3050
+weight: 3100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/
 ---
 ## EnumeratedDescriptorStructure class
 
-Структура перечисляемого дескриптора.
+Перечисленная структура дескриптора.
 
 ```csharp
 public class EnumeratedDescriptorStructure : OSTypeStructure
@@ -18,7 +18,7 @@ public class EnumeratedDescriptorStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [EnumeratedDescriptorStructure](enumerateddescriptorstructure)(ClassID, ClassID, ClassID) | Инициализирует новый экземпляр класса[`EnumeratedDescriptorStructure`](../enumerateddescriptorstructure). |
+| [EnumeratedDescriptorStructure](enumerateddescriptorstructure)(ClassID, ClassID, ClassID) | Инициализирует новый экземпляр[`EnumeratedDescriptorStructure`](../enumerateddescriptorstructure) класс. |
 
 ## Характеристики
 
@@ -27,7 +27,7 @@ public class EnumeratedDescriptorStructure : OSTypeStructure
 | [EnumName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumname) { get; set; } | Получает или задает имя перечисления. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/key) { get; } | Получает ключ. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 | [TypeID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid) { get; set; } | Получает или задает идентификатор типа. |
 
 ## Методы

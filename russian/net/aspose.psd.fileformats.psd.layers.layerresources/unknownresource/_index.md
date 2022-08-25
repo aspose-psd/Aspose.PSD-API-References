@@ -3,7 +3,7 @@ title: UnknownResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Неизвестный ресурс.
 type: docs
-weight: 3220
+weight: 3270
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
 ## UnknownResource class
@@ -18,13 +18,13 @@ public class UnknownResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [UnknownResource](unknownresource)(int, int) | Инициализирует новый экземпляр класса[`UnknownResource`](../unknownresource). |
+| [UnknownResource](unknownresource)(int, int) | Инициализирует новый экземпляр[`UnknownResource`](../unknownresource) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data) { get; set; } | Получает или задает данные. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data) { get; set; } | Получает или устанавливает данные. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/psdversion) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
@@ -35,7 +35,7 @@ public class UnknownResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

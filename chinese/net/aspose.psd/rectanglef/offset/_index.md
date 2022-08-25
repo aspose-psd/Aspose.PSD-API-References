@@ -16,7 +16,7 @@ public void Offset(PointF pos)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pos | PointF | 位置偏移量。 |
+| pos | PointF | 抵消位置的金额。 |
 
 ### 也可以看看
 

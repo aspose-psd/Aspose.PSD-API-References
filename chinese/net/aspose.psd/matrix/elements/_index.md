@@ -1,14 +1,14 @@
 ---
 title: Elements
 second_title: Aspose.PSD for .NET API 参考
-description: 获取表示此Matrixaspose.psd/matrix元素的浮点值数组
+description: 获取表示此元素的浮点值数组Matrixaspose.psd/matrix .
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/matrix/elements/
 ---
 ## Matrix.Elements property
 
-获取表示此[`Matrix`](../../matrix)元素的浮点值数组。
+获取表示此元素的浮点值数组[`Matrix`](../../matrix) .
 
 ```csharp
 public float[] Elements { get; }
@@ -16,7 +16,7 @@ public float[] Elements { get; }
 
 ### 适当的价值
 
-表示此[`Matrix`](../../matrix)元素的浮点值数组。
+表示 this 元素的浮点值数组[`Matrix`](../../matrix).
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public VectorShapeTransform Transform { get; set; }
 
 ### Стоимость имущества
 
-Матрица преобразования.
+Матрица трансформации.
 
 ### Примеры
 
@@ -48,7 +48,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners для ShapeOriginSettings в ресурсе Vogk для FillLayer в файле PSD.
+В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners ShapeOriginSettings в ресурсе Vogk FillLayer в PSD-файле.
 
 ```csharp
 [C#]

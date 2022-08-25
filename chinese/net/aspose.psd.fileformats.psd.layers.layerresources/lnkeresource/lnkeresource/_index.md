@@ -1,14 +1,14 @@
 ---
 title: LnkeResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LnkeResourceaspose.psd.fileformats.psd.layers.layerresources/lnkeresource类的新实例
+description: 初始化LnkeResourceaspose.psd.fileformats.psd.layers.layerresources/lnkeresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
 ## LnkeResource() {#constructor}
 
-初始化[`LnkeResource`](../../lnkeresource)类的新实例。
+初始化[`LnkeResource`](../../lnkeresource)类.
 
 ```csharp
 public LnkeResource()
@@ -24,7 +24,7 @@ public LnkeResource()
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-初始化[`LnkeResource`](../../lnkeresource)类的新实例。
+初始化[`LnkeResource`](../../lnkeresource)类.
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)

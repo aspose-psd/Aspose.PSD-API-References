@@ -1,14 +1,14 @@
 ---
 title: BezierKnotRecord
 second_title: Aspose.PSD for .NET API 参考
-description: Bezier Knot Record Class
+description: 贝塞尔结记录类
 type: docs
 weight: 1330
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
 ## BezierKnotRecord class
 
-Bezier Knot Record Class
+贝塞尔结记录类
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -18,18 +18,18 @@ public class BezierKnotRecord : VectorPathRecord
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord#constructor)() | 初始化[`BezierKnotRecord`](../bezierknotrecord)类的新实例。 |
-| [BezierKnotRecord](bezierknotrecord#constructor_1)(byte[]) | 初始化[`BezierKnotRecord`](../bezierknotrecord)类的新实例。 |
+| [BezierKnotRecord](bezierknotrecord#constructor)() | 初始化[`BezierKnotRecord`](../bezierknotrecord)类. |
+| [BezierKnotRecord](bezierknotrecord#constructor_1)(byte[]) | 初始化[`BezierKnotRecord`](../bezierknotrecord)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed) { get; set; } | 获取或设置一个值，该值指示此实例是否关闭。 |
+| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed) { get; set; } | 获取或设置一个值，指示此实例是否关闭。 |
 | [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked) { get; set; } | 获取或设置一个值，该值指示此实例是否已链接。 |
 | [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen) { get; set; } | 获取或设置一个指示此实例是否打开的值。 |
 | [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints) { get; set; } | 获取或设置路径点。 |
-| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points) { get; set; } | 获取或设置点。 |
+| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points) { get; set; } | 获取或设置点数。 |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type) { get; } | 获取类型。 |
 
 ### 例子
@@ -111,7 +111,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-下面的例子演示了对 VsmsResource 资源加载的支持。路径的编辑是如何工作的。
+以下示例演示了对 VsmsResource 资源加载的支持。路径的编辑是如何工作的。
 
 ```csharp
 [C#]

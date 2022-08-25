@@ -16,7 +16,7 @@ public static Color SkyBlue { get; }
 
 ### 适当的价值
 
-[`Color`](../../color)代表系统定义的颜色。
+一个[`Color`](../../color)表示系统定义的颜色。
 
 ### 也可以看看
 

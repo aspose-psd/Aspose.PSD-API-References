@@ -20,7 +20,7 @@ public int ConsecutiveHyphens { get; set; }
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

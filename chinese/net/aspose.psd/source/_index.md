@@ -3,7 +3,7 @@ title: Source
 second_title: Aspose.PSD for .NET API 参考
 description: 源用于包含对象管道的所有相关信息
 type: docs
-weight: 5460
+weight: 5510
 url: /zh/net/aspose.psd/source/
 ---
 ## Source class

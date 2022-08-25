@@ -1,14 +1,14 @@
 ---
 title: GetCloseImagePalette
 second_title: Aspose.PSD for .NET API 参考
-description: 从光栅图像中获取调色板对图像进行调色以防图像没有调色板如果调色板存在它将被用来代替执行计算
+description: 从光栅图像中获取调色板调色图像以防图像没有调色板如果调色板存在它将被用来代替执行计算
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/colorpalettehelper/getcloseimagepalette/
 ---
 ## GetCloseImagePalette(RasterImage, int) {#getcloseimagepalette_2}
 
-从光栅图像中获取调色板（对图像进行调色），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。
+从光栅图像中获取调色板（调色图像），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesCount)
@@ -21,7 +21,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesC
 
 ### 返回值
 
-从*image*中最常用的颜色开始的调色板，包含*entriesCount*条目。
+从最常见的颜色开始的调色板*image*并包含*entriesCount*条目.
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesC
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int) {#getcloseimagepalette}
 
-从光栅图像中获取调色板（对图像进行调色），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。
+从光栅图像中获取调色板（调色图像），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
@@ -50,7 +50,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 
 ### 返回值
 
-从*image*中最常用的颜色开始的调色板，包含*entriesCount*条目。
+从最常见的颜色开始的调色板*image*并包含*entriesCount*条目.
 
 ### 也可以看看
 
@@ -65,7 +65,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int, bool) {#getcloseimagepalette_1}
 
-从光栅图像中获取调色板（对图像进行调色），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。
+从光栅图像中获取调色板（调色图像），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
@@ -81,7 +81,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 
 ### 返回值
 
-以*image*中最常见的颜色，并包含*entriesCount*条目。
+从最常见的颜色开始的调色板*image*并包含*entriesCount*条目.
 
 ### 也可以看看
 

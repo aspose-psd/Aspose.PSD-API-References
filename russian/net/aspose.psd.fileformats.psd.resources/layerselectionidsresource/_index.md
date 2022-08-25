@@ -1,14 +1,14 @@
 ---
 title: LayerSelectionIdsResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Ресурс идентификаторов выбора слоя
+description: Идентификаторы выбора слоя resource
 type: docs
-weight: 3690
+weight: 3740
 url: /ru/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/
 ---
 ## LayerSelectionIdsResource class
 
-Ресурс идентификаторов выбора слоя
+Идентификаторы выбора слоя resource
 
 ```csharp
 public sealed class LayerSelectionIdsResource : ResourceBlock
@@ -24,14 +24,14 @@ public sealed class LayerSelectionIdsResource : ResourceBlock
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.psd.fileformats.psd.resources/layerselectionidsresource/count) { get; set; } | Получает или задает счетчик. |
+| [Count](../../aspose.psd.fileformats.psd.resources/layerselectionidsresource/count) { get; set; } | Получает или задает количество. |
 | override [DataSize](../../aspose.psd.fileformats.psd.resources/layerselectionidsresource/datasize) { get; } | Получает размер данных ресурса в байтах. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
-| [LayerIds](../../aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids) { get; set; } | Получает или задает идентификаторы слоев. |
+| [LayerIds](../../aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids) { get; set; } | Получает или задает идентификаторы слоя. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/layerselectionidsresource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 
 ## Методы
 

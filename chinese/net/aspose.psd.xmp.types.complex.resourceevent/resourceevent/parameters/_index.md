@@ -1,14 +1,14 @@
 ---
 title: Parameters
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置操作的附加描述
+description: 获取或设置动作的附加描述
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/
 ---
 ## ResourceEvent.Parameters property
 
-获取或设置操作的附加描述。
+获取或设置动作的附加描述。
 
 ```csharp
 public string Parameters { get; set; }
@@ -16,7 +16,7 @@ public string Parameters { get; set; }
 
 ### 适当的价值
 
-动作的附加描述。
+动作的附加说明。
 
 ### 也可以看看
 

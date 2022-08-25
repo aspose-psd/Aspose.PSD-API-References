@@ -1,14 +1,14 @@
 ---
 title: BooleanResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс BooleanResource. Это псевдоресурс. В Photoshop нет
+description: Класс BooleanResource. Это псевдоресурс. В фотошопе нет
 type: docs
-weight: 2270
+weight: 2310
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/
 ---
 ## BooleanResource class
 
-Класс BooleanResource. Это псевдоресурс. В Photoshop нет
+Класс BooleanResource. Это псевдоресурс. В фотошопе нет
 
 ```csharp
 public abstract class BooleanResource : LayerResource
@@ -20,7 +20,7 @@ public abstract class BooleanResource : LayerResource
 | --- | --- |
 | abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature) { get; } | Получает подпись. |
 
 ## Методы
@@ -28,7 +28,7 @@ public abstract class BooleanResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

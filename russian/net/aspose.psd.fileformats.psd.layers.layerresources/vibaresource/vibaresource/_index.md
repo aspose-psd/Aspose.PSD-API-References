@@ -1,14 +1,14 @@
 ---
 title: VibAResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаVibAResourceaspose.psd.fileformats.psd.layers.layerresources/vibaresource.
+description: Инициализирует новый экземплярVibAResourceaspose.psd.fileformats.psd.layers.layerresources/vibaresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibaresource/
 ---
 ## VibAResource constructor
 
-Инициализирует новый экземпляр класса[`VibAResource`](../../vibaresource).
+Инициализирует новый экземпляр[`VibAResource`](../../vibaresource) класс.
 
 ```csharp
 public VibAResource()

@@ -1,14 +1,14 @@
 ---
 title: AiHeader
 second_title: Справочник по Aspose.PSD для .NET API
-description: Заголовок файла Adobe illustrator
+description: Заголовок файла Adobe Illustrator
 type: docs
 weight: 1250
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/
 ---
 ## AiHeader class
 
-Заголовок файла Adobe illustrator
+Заголовок файла Adobe Illustrator
 
 ```csharp
 public sealed class AiHeader
@@ -23,10 +23,10 @@ public sealed class AiHeader
 | [CreationDate](../../aspose.psd.fileformats.ai/aiheader/creationdate) { get; set; } | Получает или задает дату создания. |
 | [Creator](../../aspose.psd.fileformats.ai/aiheader/creator) { get; set; } | Получает или задает создателя. |
 | [DocumentPreview](../../aspose.psd.fileformats.ai/aiheader/documentpreview) { get; set; } | Получает или задает предварительный просмотр документа. |
-| [DocumentProcessColors](../../aspose.psd.fileformats.ai/aiheader/documentprocesscolors) { get; set; } | Получает или задает рабочие цвета документа. |
-| [DocumentProcSets](../../aspose.psd.fileformats.ai/aiheader/documentprocsets) { get; set; } | Получает или задает наборы процедур документа. |
-| [For](../../aspose.psd.fileformats.ai/aiheader/for) { get; set; } | Получает или устанавливает для. |
-| [Item](../../aspose.psd.fileformats.ai/aiheader/item) { get; set; } | Получает или задаетStringс указанным именем свойства. |
+| [DocumentProcessColors](../../aspose.psd.fileformats.ai/aiheader/documentprocesscolors) { get; set; } | Получает или задает цвета обработки документа. |
+| [DocumentProcSets](../../aspose.psd.fileformats.ai/aiheader/documentprocsets) { get; set; } | Получает или задает наборы процессов документа. |
+| [For](../../aspose.psd.fileformats.ai/aiheader/for) { get; set; } | Получает или задает для. |
+| [Item](../../aspose.psd.fileformats.ai/aiheader/item) { get; set; } | Получает или задаетString с указанным именем свойства. |
 | [TemplateBox](../../aspose.psd.fileformats.ai/aiheader/templatebox) { get; set; } | Получает или задает поле шаблона. |
 | [TileBox](../../aspose.psd.fileformats.ai/aiheader/tilebox) { get; set; } | Получает или задает поле плитки. |
 | [Title](../../aspose.psd.fileformats.ai/aiheader/title) { get; set; } | Получает или устанавливает заголовок. |

@@ -1,14 +1,14 @@
 ---
 title: NewSmartObjectViaCopy
 second_title: Aspose.PSD for .NET API 参考
-description: 通过应对这一层来创建一个新的智能对象层 再现图层-gt智能对象 -gt通过 Adobe Photoshop 的复制功能创建新的智能对象 请注意它仅对嵌入的智能对象启用因为嵌入的图像也会被复制 如果要共享嵌入的图像请使用DuplicateLayeraspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer方法
+description: 通过处理这一层来创建一个新的智能对象层 复制 Adobe 的层 gt 智能对象 gt 通过复制创建新的智能对象功能也是复制的 如果要共享嵌入的图像使用DuplicateLayeraspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer方法.
 type: docs
 weight: 120
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy/
 ---
 ## SmartObjectLayer.NewSmartObjectViaCopy method
 
-通过应对这一层来创建一个新的智能对象层。 再现`图层-&gt;智能对象 -&gt;通过 Adobe® Photoshop® 的复制功能创建新的智能对象。 请注意，它仅对嵌入的智能对象启用，因为嵌入的图像也会被复制。 如果要共享嵌入的图像，请使用[`DuplicateLayer`](../duplicatelayer)方法。
+通过处理这一层来创建一个新的智能对象层。 复制 Adobe 的“层 -&gt; 智能对象 -&gt; 通过复制创建新的智能对象”功能。也是复制的。 如果要共享嵌入的图像使用[`DuplicateLayer`](../duplicatelayer)方法.
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy()

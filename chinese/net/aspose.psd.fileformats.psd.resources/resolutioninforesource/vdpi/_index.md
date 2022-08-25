@@ -1,14 +1,14 @@
 ---
 title: VDpi
 second_title: Aspose.PSD for .NET API 参考
-description: 垂直 DPI
+description: 垂直 DPI.
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vdpi/
 ---
 ## ResolutionInfoResource.VDpi property
 
-垂直 DPI。
+垂直 DPI.
 
 ```csharp
 public FixedPointDecimal VDpi { get; set; }
@@ -16,7 +16,7 @@ public FixedPointDecimal VDpi { get; set; }
 
 ### 适当的价值
 
-垂直 dpi。
+垂直 dpi.
 
 ### 也可以看看
 

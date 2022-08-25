@@ -3,7 +3,7 @@ title: FixedPointDecimal
 second_title: Aspose.PSD for .NET API 参考
 description: 定点十进制16 位整数和 16 位小数
 type: docs
-weight: 3590
+weight: 3640
 url: /zh/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
 ## FixedPointDecimal class
@@ -18,9 +18,9 @@ public class FixedPointDecimal
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal#constructor)(double) | 初始化[`FixedPointDecimal`](../fixedpointdecimal)类的新实例。 |
-| [FixedPointDecimal](fixedpointdecimal#constructor_2)(long) | 初始化[`FixedPointDecimal`](../fixedpointdecimal)类的新实例。将 32 位整数的高位字和低位字拆分为定点数。 |
-| [FixedPointDecimal](fixedpointdecimal#constructor_1)(int, int) | 初始化[`FixedPointDecimal`](../fixedpointdecimal)类的新实例。 |
+| [FixedPointDecimal](fixedpointdecimal#constructor)(double) | 初始化[`FixedPointDecimal`](../fixedpointdecimal)类. |
+| [FixedPointDecimal](fixedpointdecimal#constructor_2)(long) | 初始化[`FixedPointDecimal`](../fixedpointdecimal)班级。将32位整数的高低字拆分成定点数。 |
+| [FixedPointDecimal](fixedpointdecimal#constructor_1)(int, int) | 初始化[`FixedPointDecimal`](../fixedpointdecimal)类. |
 
 ## 特性
 

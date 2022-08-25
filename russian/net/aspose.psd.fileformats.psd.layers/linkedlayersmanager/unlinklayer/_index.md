@@ -22,12 +22,12 @@ public void UnlinkLayer(Layer layer)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Уровень нулевой. |
+| ArgumentNullException | Слой нулевой. |
 | ArgumentException | Контейнер слоя должен быть таким же, как текущий PsdImage. |
 
 ### Примеры
 
-В следующем примере показано, как можно управлять связанными слоями в Aspose.PSD
+В следующем примере показано, как вы можете манипулировать связанными слоями в Aspose.PSD.
 
 ```csharp
 [C#]

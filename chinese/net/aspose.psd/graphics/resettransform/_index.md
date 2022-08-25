@@ -1,14 +1,14 @@
 ---
 title: ResetTransform
 second_title: Aspose.PSD for .NET API 参考
-description: 将Transformaspose.psd/graphics/transform属性重置为标识
+description: 重置Transformaspose.psd/graphics/transform身份的属性.
 type: docs
 weight: 430
 url: /zh/net/aspose.psd/graphics/resettransform/
 ---
 ## Graphics.ResetTransform method
 
-将[`Transform`](../transform)属性重置为标识。
+重置[`Transform`](../transform)身份的属性.
 
 ```csharp
 public void ResetTransform()

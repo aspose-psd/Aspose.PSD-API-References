@@ -3,7 +3,7 @@ title: IPartialRawDataLoader
 second_title: Aspose.PSD for .NET API 参考
 description: 部分数据加载器
 type: docs
-weight: 4420
+weight: 4470
 url: /zh/net/aspose.psd/ipartialrawdataloader/
 ---
 ## IPartialRawDataLoader interface

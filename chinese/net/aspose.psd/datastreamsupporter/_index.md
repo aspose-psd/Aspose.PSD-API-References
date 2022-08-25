@@ -19,16 +19,16 @@ public abstract class DataStreamSupporter : DisposableObject
 | 姓名 | 描述 |
 | --- | --- |
 | [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer) { get; } | 获取对象的数据流。 |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
-| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached) { get; } | 获取一个值，表示当前是否缓存了对象的数据，不需要读取数据。 |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
+| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached) { get; } | 获取一个值，表示对象的数据当前是否被缓存，不需要读取数据。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata)() | 缓存数据并确保不会从底层[`DataStreamContainer`](./datastreamcontainer)执行额外的数据加载。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save#save)() | 将对象的数据保存到当前的[`DataStreamSupporter`](../datastreamsupporter)。 |
+| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata)() | 缓存数据并确保不会从底层执行额外的数据加载[`DataStreamContainer`](./datastreamcontainer) . |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save#save)() | 将对象的数据保存到当前[`DataStreamSupporter`](../datastreamsupporter) . |
 | [Save](../../aspose.psd/datastreamsupporter/save#save_1)(Stream) | 将对象的数据保存到指定的流中。 |
 | [Save](../../aspose.psd/datastreamsupporter/save#save_2)(string) | 将对象的数据保存到指定的文件位置。 |
 | virtual [Save](../../aspose.psd/datastreamsupporter/save#save_3)(string, bool) | 将对象的数据保存到指定的文件位置。 |

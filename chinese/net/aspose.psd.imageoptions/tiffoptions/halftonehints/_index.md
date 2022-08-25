@@ -22,8 +22,8 @@ public ushort[] HalfToneHints { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 值 |
-| ArgumentOutOfRangeException | 值；半色调提示数组长度必须为等于 2。 |
+| ArgumentNullException | 价值 |
+| ArgumentOutOfRangeException | 值；半色调提示数组长度必须等于 2。 |
 
 ### 也可以看看
 

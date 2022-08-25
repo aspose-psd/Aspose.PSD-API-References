@@ -1,14 +1,14 @@
 ---
 title: TypeUniformScale
 second_title: Aspose.PSD for .NET API 参考
-description: 在不改变 向量之间的角度的情况下统一比例将向量的长度在 x 和 y 方向上乘以相同的数量  此标志位与 TypeGeneralScale 标志互斥
+description: 统一比例将向量的长度在 x 和 y 方向上乘以相同的量 而不会改变 向量之间的角度 此标志位与 TypeGeneralScale 标志互斥
 type: docs
 weight: 290
 url: /zh/net/aspose.psd/matrix/typeuniformscale/
 ---
 ## Matrix.TypeUniformScale field
 
-在不改变 向量之间的角度的情况下，统一比例将向量的长度在 x 和 y 方向上乘以相同的数量 。 此标志位与 TypeGeneralScale 标志互斥。
+统一比例将向量的长度在 x 和 y 方向上乘以相同的量 而不会改变 向量之间的角度。 此标志位与 TypeGeneralScale 标志互斥。
 
 ```csharp
 public const int TypeUniformScale;

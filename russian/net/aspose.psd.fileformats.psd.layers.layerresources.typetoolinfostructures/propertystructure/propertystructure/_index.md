@@ -1,14 +1,14 @@
 ---
 title: PropertyStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPropertyStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure.
+description: Инициализирует новый экземплярPropertyStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/propertystructure/
 ---
 ## PropertyStructure constructor
 
-Инициализирует новый экземпляр класса[`PropertyStructure`](../../propertystructure).
+Инициализирует новый экземпляр[`PropertyStructure`](../../propertystructure) класс.
 
 ```csharp
 public PropertyStructure(ClassID keyName, ClassID classID, ClassID keyID)

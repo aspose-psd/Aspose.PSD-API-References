@@ -16,7 +16,7 @@ public short Yellow { get; set; }
 
 ### 适当的价值
 
-黄色。
+黄色.
 
 ### 也可以看看
 

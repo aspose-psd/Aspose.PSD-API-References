@@ -3,7 +3,7 @@ title: RenderErrorCode
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет возможные отсутствующие разделы в файле САПР
 type: docs
-weight: 4800
+weight: 4850
 url: /ru/net/aspose.psd.imageoptions/rendererrorcode/
 ---
 ## RenderErrorCode enumeration
@@ -21,7 +21,7 @@ public enum RenderErrorCode
 | MissingHeader | `0` | Заголовок отсутствует |
 | MissingLayouts | `1` | Информация о макетах отсутствует |
 | MissingBlocks | `2` | Информация о блоке отсутствует |
-| MissingDimensionStyles | `3` | Информация о размерных стилях отсутствует |
+| MissingDimensionStyles | `3` | Отсутствует информация о размерных стилях |
 | MissingStyles | `4` | Информация о стилях отсутствует |
 
 ### Смотрите также

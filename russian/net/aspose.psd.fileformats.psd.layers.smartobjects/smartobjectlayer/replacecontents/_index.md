@@ -1,7 +1,7 @@
 ---
 title: ReplaceContents
 second_title: Справочник по Aspose.PSD для .NET API
-description: Заменяет содержимое смарт-объекта встроенное в слой смарт-объекта.
+description: Заменяет содержимое смартобъекта встроенное в слой смартобъекта.
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
@@ -115,7 +115,7 @@ public void ReplaceContents(Image image, ResolutionSetting resolution)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | image | Image | Изображение. |
-| разрешение | ResolutionSetting | Настройки разрешения. Если null, будет использоваться разрешение изображения. |
+| resolution | ResolutionSetting | Настройки разрешения. Если null, будет использоваться разрешение изображения. |
 
 ### Исключения
 
@@ -175,7 +175,7 @@ public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | linkedPath | String | Связанный путь. |
-| разрешение | ResolutionSetting | Настройки разрешения. Если null, будет использоваться разрешение изображения. |
+| resolution | ResolutionSetting | Настройки разрешения. Если null, будет использоваться разрешение изображения. |
 
 ### Примеры
 

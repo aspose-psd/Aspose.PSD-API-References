@@ -1,14 +1,14 @@
 ---
 title: ClassStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ClassStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure类的新实例
+description: 初始化ClassStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classstructure/
 ---
 ## ClassStructure constructor
 
-初始化[`ClassStructure`](../../classstructure)类的新实例。
+初始化[`ClassStructure`](../../classstructure)类.
 
 ```csharp
 public ClassStructure(ClassID keyName, ClassID classID, int structureKey)

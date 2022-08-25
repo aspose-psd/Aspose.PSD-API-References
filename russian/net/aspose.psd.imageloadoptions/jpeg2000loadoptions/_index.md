@@ -3,7 +3,7 @@ title: Jpeg2000LoadOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Опции загрузки JPEG2000
 type: docs
-weight: 4640
+weight: 4690
 url: /ru/net/aspose.psd.imageloadoptions/jpeg2000loadoptions/
 ---
 ## Jpeg2000LoadOptions class
@@ -18,16 +18,16 @@ public class Jpeg2000LoadOptions : LoadOptions
 
 | Имя | Описание |
 | --- | --- |
-| [Jpeg2000LoadOptions](jpeg2000loadoptions)() | Инициализирует новый экземпляр класса[`Jpeg2000LoadOptions`](../jpeg2000loadoptions). |
+| [Jpeg2000LoadOptions](jpeg2000loadoptions)() | Инициализирует новый экземпляр[`Jpeg2000LoadOptions`](../jpeg2000loadoptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint) { get; set; } | Получает или устанавливает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor) { get; set; } | Получает или задает[`Image`](../../aspose.psd/image)background[`Color`](../../aspose.psd/color). |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor) { get; set; } | Получает или задает[`Image`](../../aspose.psd/image) фон[`Color`](../../aspose.psd/color) . |
 | [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode) { get; set; } | Получает или задает режим восстановления данных. |
-| [MaximumDecodingTime](../../aspose.psd.imageloadoptions/jpeg2000loadoptions/maximumdecodingtime) { get; set; } | Получает или задает максимальное время декодирования в секундах (эту опцию можно использовать на очень медленных машинах с памятью, чтобы предотвратить зависание процесса на очень больших изображениях - разрешение более 5500x6500 пикселей). |
+| [MaximumDecodingTime](../../aspose.psd.imageloadoptions/jpeg2000loadoptions/maximumdecodingtime) { get; set; } | Получает или задает максимальное время декодирования в секундах (эту опцию можно использовать на очень медленных машинах с памятью, чтобы предотвратить зависание процесса на очень больших изображениях — разрешение более 5500x6500 пикселей). |
 | [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler) { get; set; } | Получает или задает обработчик события выполнения. |
 | [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion) { get; set; } | Получает или задает значение, указывающее, следует ли применять преобразование профиля ICC. |
 

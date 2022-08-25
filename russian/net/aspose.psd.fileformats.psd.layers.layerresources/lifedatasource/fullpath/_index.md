@@ -22,7 +22,7 @@ public string FullPath { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Вы не можете получить доступ к свойству FullPath, оно доступно только для источника данных LIFE |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Вы не можете получить доступ к свойству FullPath, оно доступно только для жизненных данных source |
 
 ### Примеры
 

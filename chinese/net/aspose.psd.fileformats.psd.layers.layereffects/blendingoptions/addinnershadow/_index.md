@@ -16,7 +16,7 @@ public InnerShadowEffect AddInnerShadow()
 
 ### 返回值
 
-已创建[`InnerShadowEffect`](../../innershadoweffect)对象
+已创建[`InnerShadowEffect`](../../innershadoweffect)object
 
 ### 也可以看看
 

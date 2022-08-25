@@ -20,7 +20,7 @@ public GradientType GradientType { get; set; }
 
 ### 例子
 
-以下代码使用不同类型的渐变保存图像，并展示了如何在 Aspose.PSD 中绘制渐变。
+以下代码使用不同类型的渐变保存图像，并展示了 Aspose.PSD 如何绘制渐变。
 
 ```csharp
 [C#]

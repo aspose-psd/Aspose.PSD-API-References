@@ -1,14 +1,14 @@
 ---
 title: IPatternFillSettings
 second_title: Aspose.PSD for .NET API 参考
-description: 图案填充设置界面
+description: 图案填充设置接口
 type: docs
-weight: 1970
+weight: 2010
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
 ## IPatternFillSettings interface
 
-图案填充设置界面
+图案填充设置接口
 
 ```csharp
 public interface IPatternFillSettings : IFillSettings
@@ -18,20 +18,20 @@ public interface IPatternFillSettings : IFillSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移。 |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked) { get; set; } | 获取或设置一个值，该值指示此[`IPatternFillSettings`](../ipatternfillsettings)是否已链接。 |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移量。 |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked) { get; set; } | 获取或设置一个值，该值指示是否[`IPatternFillSettings`](../ipatternfillsettings)已链接。 |
 | [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata) { get; set; } | 获取或设置模式数据。 |
 | [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight) { get; set; } | 获取或设置图案的高度。 |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid) { get; set; } | 获取或设置模式标识符。 |
 | [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname) { get; set; } | 获取或设置模式的名称。 |
 | [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth) { get; set; } | 获取或设置图案的宽度。 |
 | [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype) { get; set; } | 获取或设置点的类型。 |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale) { get; set; } | 获取或设置比例。 |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale) { get; set; } | 获取或设置比例尺。 |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset) { get; set; } | 获取或设置垂直偏移量。 |
 
 ### 例子
 
-下面的代码保存了带有图案填充层的图像，并演示了 Aspose.PSD 如何渲染图案。
+以下代码保存带有图案填充图层的图像，并演示了 Aspose.PSD 如何呈现图案。
 
 ```csharp
 [C#]

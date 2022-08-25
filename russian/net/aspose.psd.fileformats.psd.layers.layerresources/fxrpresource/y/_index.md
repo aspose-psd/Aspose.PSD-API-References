@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает y опорной точки
+description: Получает или задает y контрольной точки
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
 ## FxrpResource.Y property
 
-Получает или задает y опорной точки
+Получает или задает y контрольной точки
 
 ```csharp
 public double Y { get; set; }
@@ -16,7 +16,7 @@ public double Y { get; set; }
 
 ### Стоимость имущества
 
-Y контрольной точки
+Y опорной точки
 
 ### Смотрите также
 

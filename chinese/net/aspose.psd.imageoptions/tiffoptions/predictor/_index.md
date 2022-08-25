@@ -16,7 +16,7 @@ public TiffPredictor Predictor { get; set; }
 
 ### 适当的价值
 
-预测变量类型。
+预测器类型。
 
 ### 也可以看看
 

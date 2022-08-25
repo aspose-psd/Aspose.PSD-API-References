@@ -16,17 +16,17 @@ public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| layerNumbers | Int32[] | 图层编号。 |
+| layerNumbers | Int32[] | 层数。 |
 
 ### 返回值
 
-创建的[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)实例。
+创建的[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)实例.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 没有要转换的图层。 或 层数超出范围。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 没有要转换的层。 或 层数超出范围。 |
 
 ### 也可以看看
 
@@ -51,7 +51,7 @@ public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
 
 ### 返回值
 
-创建的[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)实例。
+创建的[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)实例.
 
 ### 例外
 

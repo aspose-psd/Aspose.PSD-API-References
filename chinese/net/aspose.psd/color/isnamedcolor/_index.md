@@ -1,14 +1,14 @@
 ---
 title: IsNamedColor
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一个值该值指示此Coloraspose.psd/color结构是命名颜色还是PSD的成员KnownColor枚举
+description: 获取一个值该值指示这是否Coloraspose.psd/color结构是一个命名的颜色或成员KnownColoraspose.psd/knowncolor枚举.
 type: docs
 weight: 1510
 url: /zh/net/aspose.psd/color/isnamedcolor/
 ---
 ## Color.IsNamedColor property
 
-获取一个值，该值指示此[`Color`](../../color)结构是命名颜色还是PSD的成员。KnownColor枚举。
+获取一个值，该值指示这是否[`Color`](../../color)结构是一个命名的颜色或成员[`KnownColor`](../../knowncolor)枚举.
 
 ```csharp
 public bool IsNamedColor { get; }
@@ -16,7 +16,7 @@ public bool IsNamedColor { get; }
 
 ### 适当的价值
 
-如果此[`Color`](../../color)是使用String)方法或[`FromKnownColor`](../fromknowncolor)方法；否则为假。
+如果这是真的[`Color`](../../color)是通过使用任一创建的[`FromName`](../fromname)方法或[`FromKnownColor`](../fromknowncolor)方法;否则为假。
 
 ### 也可以看看
 

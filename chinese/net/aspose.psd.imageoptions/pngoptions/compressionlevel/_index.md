@@ -1,14 +1,14 @@
 ---
 title: CompressionLevel
 second_title: Aspose.PSD for .NET API 参考
-description: png 图像压缩级别在 0-9 范围内其中 9 为最大压缩0 为存储模式
+description: png 图片压缩级别在 09 范围内其中 9 为最大压缩0 为存储模式
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.imageoptions/pngoptions/compressionlevel/
 ---
 ## PngOptions.CompressionLevel property
 
-png 图像压缩级别在 0-9 范围内，其中 9 为最大压缩，0 为存储模式。
+png 图片压缩级别在 0-9 范围内，其中 9 为最大压缩，0 为存储模式。
 
 ```csharp
 public int CompressionLevel { get; set; }

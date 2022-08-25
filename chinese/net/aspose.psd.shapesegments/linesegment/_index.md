@@ -1,14 +1,14 @@
 ---
 title: LineSegment
 second_title: Aspose.PSD for .NET API 参考
-description: 表示从特定点直接到下一点的段
+description: 表示从特定点直接到下一个点的段
 type: docs
-weight: 5330
+weight: 5380
 url: /zh/net/aspose.psd.shapesegments/linesegment/
 ---
 ## LineSegment class
 
-表示从特定点直接到下一点的段。
+表示从特定点直接到下一个点的段。
 
 ```csharp
 public class LineSegment : ShapeSegment
@@ -18,13 +18,13 @@ public class LineSegment : ShapeSegment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LineSegment](linesegment)(PointF, PointF) | 初始化[`LineSegment`](../linesegment)类的新实例。 |
+| [LineSegment](linesegment)(PointF, PointF) | 初始化[`LineSegment`](../linesegment)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint) { get; } | 获取结束点。 |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint) { get; } | 获取终点。 |
 | override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint) { get; } | 获取起点。 |
 
 ### 也可以看看

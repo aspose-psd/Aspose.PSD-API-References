@@ -1,14 +1,14 @@
 ---
 title: NonGenericList
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаNonGenericListaspose.psd/nongenericlist.
+description: Инициализирует новый экземплярNonGenericListaspose.psd/nongenericlist класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/nongenericlist/nongenericlist/
 ---
 ## NonGenericList constructor
 
-Инициализирует новый экземпляр класса[`NonGenericList`](../../nongenericlist).
+Инициализирует новый экземпляр[`NonGenericList`](../../nongenericlist) класс.
 
 ```csharp
 public NonGenericList(IList list)

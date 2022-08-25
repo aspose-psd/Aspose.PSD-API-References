@@ -1,7 +1,7 @@
 ---
 title: BlackAndWhitePresetFileName
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает имя файла предустановленных черно-белых изображений.
+description: Получает или задает имя файла предустановленных чернобелых изображений.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename/

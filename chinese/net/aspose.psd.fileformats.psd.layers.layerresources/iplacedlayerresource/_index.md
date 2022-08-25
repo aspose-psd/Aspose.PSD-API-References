@@ -1,14 +1,14 @@
 ---
 title: IPlacedLayerResource
 second_title: Aspose.PSD for .NET API 参考
-description: 定义 IPlacedLayerResource 接口该接口包含有关 PSD 文件中放置层的信息 是一个标记界面用于在 Adobe Photoshop 图像中指定 PlLdSold 和 Sole 资源 用于支持 Adobe Photoshop 图像中的智能对象层
+description: 定义 IPlacedLayerResource 接口该接口包含有关 PSD 文件中放置层的信息 是一个标记接口用于在 Adobe Photoshop 图像中指定 PlLdSold 和 Sole 资源 用于支持智能对象层Adobe Photoshop 图像
 type: docs
-weight: 2470
+weight: 2510
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
 ## IPlacedLayerResource interface
 
-定义 IPlacedLayerResource 接口，该接口包含有关 PSD 文件中放置层的信息。 是一个标记界面，用于在 Adobe® Photoshop® 图像中指定 PlLd、Sold 和 Sole 资源。 用于支持 Adobe® Photoshop® 图像中的智能对象层。
+定义 IPlacedLayerResource 接口，该接口包含有关 PSD 文件中放置层的信息。 是一个标记接口，用于在 Adobe® Photoshop® 图像中指定 PlLd、Sold 和 Sole 资源。 用于支持智能对象层Adobe® Photoshop® 图像。
 
 ```csharp
 public interface IPlacedLayerResource
@@ -18,29 +18,29 @@ public interface IPlacedLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy) { get; set; } | 获取或设置PSD图像中放置图层的反锯齿策略。 |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom) { get; set; } | 获取或设置放置图层在 PSD 图像中的底部位置。 |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds) { get; set; } | 获取或设置 PSD 文件中放置层的边界。 |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints) { get; set; } | 获取或设置 PSD 文件中放置层的水平网格点。 |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit) { get; set; } | 获取或设置水平网格点的度量单位。 |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom) { get; set; } | 获取或设置一个值，该值指示此实例扭曲样式是否为自定义。 如果为真则包含网格点。如果设置为 false，它会删除网格点。 |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy) { get; set; } | 获取或设置PSD图像中放置图层的抗锯齿策略。 |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom) { get; set; } | 获取或设置放置图层在PSD图像中的底部位置。 |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds) { get; set; } | 获取或设置PSD文件中放置层的边界。 |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints) { get; set; } | 获取或设置PSD文件中放置图层的水平网格点。 |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit) { get; set; } | 获取或设置水平网格点的测量单位。 |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom) { get; set; } | 获取或设置一个值，该值指示此实例扭曲样式是否为自定义。 如果为 true，则包含网格点。如果设置为 false，它会删除网格点。 |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items) { get; set; } | 获取或设置经线项目。 |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left) { get; set; } | 获取或设置放置图层在 PSD 文件中的左侧位置。 |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber) { get; set; } | 获取或设置放置图层在 PSD 文件中的页码。 |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left) { get; set; } | 获取或设置放置图层在PSD文件中的左侧位置。 |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber) { get; set; } | 获取或设置放置图层在PSD文件中的页码。 |
 | [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective) { get; set; } | 获取或设置PSD文件中放置图层的透视值。 |
 | [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother) { get; set; } | 获取或设置PSD文件中放置图层的透视其他值。 |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype) { get; set; } | 获取或设置 PSD 文件中放置图层的类型。 |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right) { get; set; } | 获取或设置放置图层在 PSD 文件中的正确位置。 |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype) { get; set; } | 获取或设置PSD文件中放置图层的类型。 |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right) { get; set; } | 获取或设置放置图层在PSD文件中的正确位置。 |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top) { get; set; } | 获取或设置放置图层在 PSD 图像中的顶部位置。 |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages) { get; set; } | 获取或设置 PSD 文件中放置图层的总页数。 |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages) { get; set; } | 获取或设置PSD文件中放置图层的总页数。 |
 | [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix) { get; set; } | 获取或设置PSD文件中放置图层的变换矩阵。 |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid) { get; set; } | 获取或设置 PSD 图像中的或智能对象放置层的全局唯一标识符。 |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder) { get; set; } | 获取或设置 PSD 文件中放置图层的 U 阶值。 |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value) { get; set; } | 获取或设置 PSD 图像中放置层的扭曲值。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version) { get; } | 获取PSD文件中放置图层的版本，一般为3-5。 |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints) { get; set; } | 获取或设置 PSD 文件中放置层的水平网格点。 |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid) { get; set; } | 获取或设置PSD图像中智能对象放置层的全局唯一标识符。 |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder) { get; set; } | 获取或设置PSD文件中放置图层的U阶值 |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value) { get; set; } | 获取或设置PSD图像中放置图层的warp值。 |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version) { get; } | 获取PSD文件中放置图层的版本，一般为3-5. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints) { get; set; } | 获取或设置PSD文件中放置图层的水平网格点。 |
 | [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit) { get; set; } | 获取或设置垂直网格点的测量单位。 |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder) { get; set; } | 获取或设置 PSD 文件中放置图层的 V 阶值。 |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder) { get; set; } | 获取或设置PSD文件中放置图层的V阶值。 |
 
 ### 例子
 

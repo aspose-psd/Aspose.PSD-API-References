@@ -3,7 +3,7 @@ title: StrokeEffect
 second_title: Aspose.PSD for .NET API 参考
 description: PSD 图层的 Adobe Photoshop 笔触效果
 type: docs
-weight: 2130
+weight: 2170
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
 ## StrokeEffect class
@@ -21,15 +21,15 @@ public class StrokeEffect : ILayerEffect
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode) { get; set; } | 获取或设置混合模式。 |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype) { get; } | 获取一种效果 |
 | [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings) { get; set; } | 获取或设置填充设置。 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible) { get; set; } | 获取或设置一个值，指示此实例是否可见。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible) { get; set; } | 获取或设置一个指示此实例是否可见的值。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity) { get; set; } | 获取或设置不透明度。 |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint) { get; set; } | 获取或设置一个值，该值指示此[`StrokeEffect`](../strokeeffect)是否会将笔触与当前图层内容混合。 |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position) { get; set; } | 获取或设置笔触效果的位置，以控制笔触与 PSD 图层内容的对齐方式。 值可以是Inside以在 PSD 图层内容内绘制描边， 或Outside绘制 PSD 图层内容的笔划， 和Center在内部和外部绘制笔触。 |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint) { get; set; } | 获取或设置一个值，该值指示是否[`StrokeEffect`](../strokeeffect)将描边与当前图层内容混合。 |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position) { get; set; } | 获取或设置描边效果的位置来控制你的描边与PSD图层内容的对齐方式。 的值可以是Inside在 PSD 图层内容中绘制笔划， 或Outside绘制 PSD 图层内容的描边， 和Center在内外画笔画。 |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size) { get; set; } | 获取或设置描边效果的宽度。 |
 
 ### 例子
 
-以下代码示例显示了使用颜色填充渲染描边效果。
+下面的代码示例显示了使用颜色填充渲染描边效果。
 
 ```csharp
 [C#]
@@ -61,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-以下代码演示了对填充类型 - 颜色的笔触效果图层的支持。
+以下代码演示了对具有填充类型 - 颜色的笔触效果图层的支持。
 
 ```csharp
 [C#]
@@ -229,7 +229,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-以下代码演示了对填充类型 - 渐变的笔触效果图层的支持。
+以下代码演示了对具有填充类型 - 渐变的笔触效果图层的支持。
 
 ```csharp
 [C#]

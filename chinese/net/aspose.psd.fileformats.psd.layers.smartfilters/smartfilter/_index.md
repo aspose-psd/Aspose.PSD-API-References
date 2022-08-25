@@ -3,7 +3,7 @@ title: SmartFilter
 second_title: Aspose.PSD for .NET API 参考
 description: 处理智能过滤器基本逻辑的类
 type: docs
-weight: 3350
+weight: 3400
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/
 ---
 ## SmartFilter class
@@ -18,7 +18,7 @@ public abstract class SmartFilter : ICloneable
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SmartFilter](smartfilter)() | 初始化[`SmartFilter`](../smartfilter)类的新实例。 |
+| [SmartFilter](smartfilter)() | 初始化[`SmartFilter`](../smartfilter)类. |
 
 ## 特性
 
@@ -29,15 +29,15 @@ public abstract class SmartFilter : ICloneable
 | [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | 获取或设置智能过滤器的启用状态。 |
 | abstract [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name) { get; } | 获取智能过滤器名称。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity) { get; set; } | 获取或设置智能滤镜的不透明度值。 |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | 带有智能过滤数据的源描述符结构。 |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | 带有智能过滤器数据的源描述符结构。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | 将当前过滤器应用于输入[`RasterImage`](../../aspose.psd/rasterimage)图像。 |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | 将当前过滤器应用到输入[`Layer`](../../aspose.psd.fileformats.psd.layers/layer)蒙版数据。 |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | 对该类型的当前实例进行成员克隆。 |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | 将当前过滤器应用于输入[`RasterImage`](../../aspose.psd/rasterimage)图像. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | 将当前过滤器应用于输入[`Layer`](../../aspose.psd.fileformats.psd.layers/layer)掩码数据. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | 生成当前类型实例的成员克隆。 |
 
 ### 例子
 

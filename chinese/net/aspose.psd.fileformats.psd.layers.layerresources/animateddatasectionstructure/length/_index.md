@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.PSD for .NET API 参考
-description: 获取OSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure长度以字节为单位
+description: 获取OSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure字节长度
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/
 ---
 ## AnimatedDataSectionStructure.Length property
 
-获取[`OSTypeStructure`](../../ostypestructure)长度（以字节为单位）。
+获取[`OSTypeStructure`](../../ostypestructure)字节长度。
 
 ```csharp
 public override int Length { get; }

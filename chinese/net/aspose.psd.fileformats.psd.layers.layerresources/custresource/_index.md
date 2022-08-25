@@ -1,14 +1,14 @@
 ---
 title: CustResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 CustResource 此资源包含有关剪辑元素混合的信息
+description: 类 CustResource. 此资源包含有关剪辑元素混合的信息
 type: docs
-weight: 2380
+weight: 2420
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
 ## CustResource class
 
-类 CustResource。 此资源包含有关剪辑元素混合的信息。
+类 CustResource. 此资源包含有关剪辑元素混合的信息。
 
 ```csharp
 public class CustResource : LayerResource
@@ -18,16 +18,16 @@ public class CustResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CustResource](custresource#constructor)() | 初始化[`CustResource`](../custresource)类的新实例。 |
-| [CustResource](custresource#constructor_1)(byte[]) | 初始化[`CustResource`](../custresource)类的新实例。 |
+| [CustResource](custresource#constructor)() | 初始化[`CustResource`](../custresource)类. |
+| [CustResource](custresource#constructor_1)(byte[]) | 初始化[`CustResource`](../custresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/key) { get; } | 获取层资源密钥。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/key) { get; } | 获取图层资源键。 |
 | [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime) { get; set; } | 获取或设置图层创建日期。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/signature) { get; } | 获取签名。 |
 
@@ -36,7 +36,7 @@ public class CustResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

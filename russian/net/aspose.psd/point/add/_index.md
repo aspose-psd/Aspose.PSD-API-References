@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Справочник по Aspose.PSD для .NET API
-description: Добавляет указанныйSizeaspose.psd/sizeк указанномуPointaspose.psd/point.
+description: Добавляет указанныйSizeaspose.psd/size к указанномуPointaspose.psd/point .
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/point/add/
 ---
 ## Point.Add method
 
-Добавляет указанный[`Size`](../../size)к указанному[`Point`](../../point).
+Добавляет указанный[`Size`](../../size) к указанному[`Point`](../../point) .
 
 ```csharp
 public static Point Add(Point point, Size size)
@@ -16,12 +16,12 @@ public static Point Add(Point point, Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point)для добавления. |
-| size | Size | [`Size`](../../size)для добавления к*point*. |
+| point | Point | [`Point`](../../point) добавить к. |
+| size | Size | [`Size`](../../size) добавить к*point*. |
 
 ### Возвращаемое значение
 
-[`Point`](../../point)результат операции сложения.
+[`Point`](../../point) это результат операции сложения.
 
 ### Смотрите также
 

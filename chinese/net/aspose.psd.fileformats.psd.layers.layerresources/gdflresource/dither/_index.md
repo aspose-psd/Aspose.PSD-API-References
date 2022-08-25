@@ -1,14 +1,14 @@
 ---
 title: Dither
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此GdFlResourceaspose.psd.fileformats.psd.layers.layerresources/gdflresource是否抖动
+description: 获取或设置一个值该值指示是否GdFlResourceaspose.psd.fileformats.psd.layers.layerresources/gdflresource是抖动.
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
 ## GdFlResource.Dither property
 
-获取或设置一个值，该值指示此[`GdFlResource`](../../gdflresource)是否抖动。
+获取或设置一个值，该值指示是否[`GdFlResource`](../../gdflresource)是抖动.
 
 ```csharp
 public bool Dither { get; set; }
@@ -16,11 +16,11 @@ public bool Dither { get; set; }
 
 ### 适当的价值
 
-` true` 如果抖动；否则，` false` 。
+`真的`如果抖动；否则，`错误的` .
 
 ### 例子
 
-下面的例子演示了对 GdFlResource 资源加载的支持。
+以下示例演示了对 GdFlResource 资源加载的支持。
 
 ```csharp
 [C#]

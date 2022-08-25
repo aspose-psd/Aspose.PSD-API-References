@@ -1,14 +1,14 @@
 ---
 title: Segments
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает целые сегменты фигуры.
+description: Получает все сегменты фигуры.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/figure/segments/
 ---
 ## Figure.Segments property
 
-Получает целые сегменты фигуры.
+Получает все сегменты фигуры.
 
 ```csharp
 public ShapeSegment[] Segments { get; }

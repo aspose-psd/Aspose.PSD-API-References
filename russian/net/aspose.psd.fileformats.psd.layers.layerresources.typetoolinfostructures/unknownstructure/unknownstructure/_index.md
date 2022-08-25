@@ -1,14 +1,14 @@
 ---
 title: UnknownStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаUnknownStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure.
+description: Инициализирует новый экземплярUnknownStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/unknownstructure/
 ---
 ## UnknownStructure constructor
 
-Инициализирует новый экземпляр класса[`UnknownStructure`](../../unknownstructure).
+Инициализирует новый экземпляр[`UnknownStructure`](../../unknownstructure) класс.
 
 ```csharp
 public UnknownStructure(ClassID keyName, int key)
@@ -16,7 +16,7 @@ public UnknownStructure(ClassID keyName, int key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 | key | Int32 | Ключ структуры. |
 
 ### Смотрите также

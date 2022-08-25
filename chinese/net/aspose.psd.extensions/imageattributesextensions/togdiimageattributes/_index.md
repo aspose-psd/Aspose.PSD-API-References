@@ -1,14 +1,14 @@
 ---
 title: ToGdiImageAttributes
 second_title: Aspose.PSD for .NET API 参考
-description: 将ImageAttributesaspose.psd/imageattributes转换为ImageAttributes
+description: 转换ImageAttributesaspose.psd/imageattributes到ImageAttributes .
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-将[`ImageAttributes`](../../../aspose.psd/imageattributes)转换为ImageAttributes。
+转换[`ImageAttributes`](../../../aspose.psd/imageattributes)到ImageAttributes .
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
@@ -16,11 +16,11 @@ public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttribut
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | 要转换的[`ImageAttributes`](../../../aspose.psd/imageattributes)。 |
+| imageAttributes | ImageAttributes | 这[`ImageAttributes`](../../../aspose.psd/imageattributes)转换。 |
 
 ### 返回值
 
-转换后的ImageAttributes。
+转换的ImageAttributes.
 
 ### 也可以看看
 

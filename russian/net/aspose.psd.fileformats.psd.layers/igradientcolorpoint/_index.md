@@ -3,7 +3,7 @@ title: IGradientColorPoint
 second_title: Справочник по Aspose.PSD для .NET API
 description: Базовый интерфейс для настроек заливки
 type: docs
-weight: 2000
+weight: 2040
 url: /ru/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
 ## IGradientColorPoint interface

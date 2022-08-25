@@ -3,7 +3,7 @@ title: Aspose.PSD.ImageLoadOptions
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含不同的文件格式加载选项
 type: docs
-weight: 400
+weight: 410
 url: /zh/net/aspose.psd.imageloadoptions/
 ---
 命名空间包含不同的文件格式加载选项。

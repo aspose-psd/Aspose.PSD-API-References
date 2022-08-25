@@ -1,14 +1,14 @@
 ---
 title: ToGdiImageAttributes
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПреобразуетImageAttributesaspose.psd/imageattributesвImageAttributes.
+description: ПреобразуетImageAttributesaspose.psd/imageattributes кImageAttributes .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-Преобразует[`ImageAttributes`](../../../aspose.psd/imageattributes)вImageAttributes.
+Преобразует[`ImageAttributes`](../../../aspose.psd/imageattributes) кImageAttributes .
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
@@ -16,7 +16,7 @@ public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttribut
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | [`ImageAttributes`](../../../aspose.psd/imageattributes)для преобразования. |
+| imageAttributes | ImageAttributes | [`ImageAttributes`](../../../aspose.psd/imageattributes) конвертировать. |
 
 ### Возвращаемое значение
 

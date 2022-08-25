@@ -18,7 +18,7 @@ public enum FontBaseline
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 无基线值 |
+| None | `0` | 没有基线值 |
 | Superscript | `1` | 上标基线。 |
 | Subscript | `2` | 下标基线。 |
 

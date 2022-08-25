@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.PSD for .NET API 参考
-description: 测试obj是否是一个RectangleFaspose.psd/rectanglef与RectangleF
+description: 测试是否obj是一个RectangleFaspose.psd/rectanglef与此相同的位置和大小RectangleFaspose.psd/rectanglef .
 type: docs
 weight: 200
 url: /zh/net/aspose.psd/rectanglef/equals/
 ---
 ## RectangleF.Equals method
 
-测试*obj*是否是一个[`RectangleF`](../../rectanglef)与RectangleF。
+测试是否*obj*是一个[`RectangleF`](../../rectanglef)与此相同的位置和大小[`RectangleF`](../../rectanglef) .
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | Object进行测试。 |
+| obj | Object | 这Object去测试。 |
 
 ### 返回值
 
-如果*obj*是[`RectangleF`](../../rectanglef)及其 X、Y、宽度和高度属性，则此方法返回 true等于此[`RectangleF`](../../rectanglef)的相应属性；否则为假。
+此方法返回 true 如果*obj*是一个[`RectangleF`](../../rectanglef)并且它的 X、Y、Width 和 Height 属性等于 this 的对应属性[`RectangleF`](../../rectanglef);否则为假。
 
 ### 也可以看看
 

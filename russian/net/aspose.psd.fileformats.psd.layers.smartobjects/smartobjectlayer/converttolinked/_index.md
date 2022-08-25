@@ -1,7 +1,7 @@
 ---
 title: ConvertToLinked
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует этот встроенный смарт-объект в связанный смарт-объект.
+description: Преобразует этот встроенный смартобъект в связанный смартобъект.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/

@@ -16,7 +16,7 @@ public int VerticalOffset { get; set; }
 
 ### 适当的价值
 
-垂直偏移。
+垂直偏移量。
 
 ### 也可以看看
 

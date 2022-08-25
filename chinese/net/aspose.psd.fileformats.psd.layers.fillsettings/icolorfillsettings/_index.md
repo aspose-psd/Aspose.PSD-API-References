@@ -3,7 +3,7 @@ title: IColorFillSettings
 second_title: Aspose.PSD for .NET API 参考
 description: 填充设置的基本接口
 type: docs
-weight: 1930
+weight: 1970
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
 ## IColorFillSettings interface

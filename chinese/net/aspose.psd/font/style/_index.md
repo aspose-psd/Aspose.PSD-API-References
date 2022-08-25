@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Aspose.PSD for .NET API 参考
-description: 获取此Fontaspose.psd/font的样式信息
+description: 获取这个的样式信息Fontaspose.psd/font .
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/font/style/
 ---
 ## Font.Style property
 
-获取此[`Font`](../../font)的样式信息。
+获取这个的样式信息[`Font`](../../font) .
 
 ```csharp
 public FontStyle Style { get; }
@@ -16,7 +16,7 @@ public FontStyle Style { get; }
 
 ### 适当的价值
 
-一个[`FontStyle`](../../fontstyle)枚举，包含此[`Font`](../../font) 的样式信息.
+一个[`FontStyle`](../../fontstyle)包含此样式信息的枚举[`Font`](../../font).
 
 ### 也可以看看
 

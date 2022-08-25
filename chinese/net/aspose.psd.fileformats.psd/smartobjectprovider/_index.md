@@ -1,14 +1,14 @@
 ---
 title: SmartObjectProvider
 second_title: Aspose.PSD for .NET API 参考
-description: 定义提供从 PSD 文件及其内容的全局链接资源获取/设置数据源的智能对象提供程序
+description: 定义提供从 PSD 文件的全局链接资源及其内容获取/设置数据源的智能对象提供程序
 type: docs
-weight: 3890
+weight: 3940
 url: /zh/net/aspose.psd.fileformats.psd/smartobjectprovider/
 ---
 ## SmartObjectProvider class
 
-定义提供从 PSD 文件及其内容的全局链接资源获取/设置数据源的智能对象提供程序。
+定义提供从 PSD 文件的全局链接资源及其内容获取/设置数据源的智能对象提供程序。
 
 ```csharp
 public class SmartObjectProvider
@@ -21,7 +21,7 @@ public class SmartObjectProvider
 | [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject#converttosmartobject_1)(params int[]) | 将图层转换为嵌入式智能对象。 |
 | [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject#converttosmartobject)(Layer[]) | 将图层转换为嵌入式智能对象。 |
 | [EmbedAllLinked](../../aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked)() | 在图像中嵌入所有链接的智能对象。 |
-| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy)(SmartObjectLayer) | 通过处理源层创建新的智能对象层。 |
+| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy)(SmartObjectLayer) | 通过处理源层创建一个新的智能对象层。 |
 | [UpdateAllModifiedContent](../../aspose.psd.fileformats.psd/smartobjectprovider/updateallmodifiedcontent)() | 更新图像中所有修改的智能对象的内容。 |
 
 ### 例子

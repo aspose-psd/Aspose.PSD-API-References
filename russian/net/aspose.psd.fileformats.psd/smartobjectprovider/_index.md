@@ -1,14 +1,14 @@
 ---
 title: SmartObjectProvider
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет провайдера смарт-объекта обеспечивающего получение/установку источников данных из ресурсов глобальной ссылки PSD-файла и их содержимого.
+description: Определяет провайдера смартобъекта обеспечивающего получение/настройку источников данных из ресурсов глобальных ссылок PSDфайла и их содержимого.
 type: docs
-weight: 3890
+weight: 3940
 url: /ru/net/aspose.psd.fileformats.psd/smartobjectprovider/
 ---
 ## SmartObjectProvider class
 
-Определяет провайдера смарт-объекта, обеспечивающего получение/установку источников данных из ресурсов глобальной ссылки PSD-файла и их содержимого.
+Определяет провайдера смарт-объекта, обеспечивающего получение/настройку источников данных из ресурсов глобальных ссылок PSD-файла и их содержимого.
 
 ```csharp
 public class SmartObjectProvider
@@ -20,7 +20,7 @@ public class SmartObjectProvider
 | --- | --- |
 | [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject#converttosmartobject_1)(params int[]) | Преобразует слои во встроенный смарт-объект. |
 | [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject#converttosmartobject)(Layer[]) | Преобразует слои во встроенный смарт-объект. |
-| [EmbedAllLinked](../../aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked)() | Встраивает в изображение все связанные смарт-объекты. |
+| [EmbedAllLinked](../../aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked)() | Встраивает все связанные смарт-объекты в изображение. |
 | [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy)(SmartObjectLayer) | Создает новый слой смарт-объекта, копируя исходный. |
 | [UpdateAllModifiedContent](../../aspose.psd.fileformats.psd/smartobjectprovider/updateallmodifiedcontent)() | Обновляет содержимое всех измененных смарт-объектов на изображении. |
 

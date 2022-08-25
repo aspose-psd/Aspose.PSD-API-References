@@ -1,14 +1,14 @@
 ---
 title: TypeToolKey
 second_title: Справочник по Aspose.PSD для .NET API
-description: Клавиша информации о типе инструмента.
+description: Информационный ключ типа инструмента.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey/
 ---
 ## PhflResource.TypeToolKey field
 
-Клавиша информации о типе инструмента.
+Информационный ключ типа инструмента.
 
 ```csharp
 public const int TypeToolKey;

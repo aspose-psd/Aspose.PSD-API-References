@@ -1,14 +1,14 @@
 ---
 title: LnkeResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLnkeResourceaspose.psd.fileformats.psd.layers.layerresources/lnkeresource.
+description: Инициализирует новый экземплярLnkeResourceaspose.psd.fileformats.psd.layers.layerresources/lnkeresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
 ## LnkeResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`LnkeResource`](../../lnkeresource).
+Инициализирует новый экземпляр[`LnkeResource`](../../lnkeresource) класс.
 
 ```csharp
 public LnkeResource()
@@ -24,7 +24,7 @@ public LnkeResource()
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LnkeResource`](../../lnkeresource).
+Инициализирует новый экземпляр[`LnkeResource`](../../lnkeresource) класс.
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)

@@ -1,14 +1,14 @@
 ---
 title: Font
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаFontaspose.psd.xmp.types.complex.font/font.
+description: Инициализирует новый экземплярFontaspose.psd.xmp.types.complex.font/font класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/font/
 ---
 ## Font() {#constructor}
 
-Инициализирует новый экземпляр класса[`Font`](../../font).
+Инициализирует новый экземпляр[`Font`](../../font) класс.
 
 ```csharp
 public Font()
@@ -24,7 +24,7 @@ public Font()
 
 ## Font(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Font`](../../font).
+Инициализирует новый экземпляр[`Font`](../../font) класс.
 
 ```csharp
 public Font(string fontFamily)

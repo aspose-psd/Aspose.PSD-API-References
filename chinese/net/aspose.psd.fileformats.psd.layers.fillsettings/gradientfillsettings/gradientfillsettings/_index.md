@@ -1,14 +1,14 @@
 ---
 title: GradientFillSettings
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化GradientFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings类的新实例
+description: 初始化GradientFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientfillsettings/
 ---
 ## GradientFillSettings constructor
 
-初始化[`GradientFillSettings`](../../gradientfillsettings)类的新实例。
+初始化[`GradientFillSettings`](../../gradientfillsettings)类.
 
 ```csharp
 public GradientFillSettings()

@@ -1,14 +1,14 @@
 ---
 title: RegisterExporter
 second_title: Aspose.PSD for .NET API 参考
-description: 注册导出器
+description: 注册出口商
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/imageexportersregistry/registerexporter/
 ---
 ## ImageExportersRegistry.RegisterExporter method
 
-注册导出器。
+注册出口商。
 
 ```csharp
 public static void RegisterExporter(IImageExporterDescriptor exporterDescriptor)

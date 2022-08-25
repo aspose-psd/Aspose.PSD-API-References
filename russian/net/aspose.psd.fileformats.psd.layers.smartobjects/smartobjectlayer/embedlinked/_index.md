@@ -1,7 +1,7 @@
 ---
 title: EmbedLinked
 second_title: Справочник по Aspose.PSD для .NET API
-description: Встраивает связанный смарт-объект в этот слой.
+description: Встраивает связанный смартобъект в этот слой.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/embedlinked/

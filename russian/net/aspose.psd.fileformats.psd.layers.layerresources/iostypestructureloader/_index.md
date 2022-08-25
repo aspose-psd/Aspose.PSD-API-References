@@ -1,14 +1,14 @@
 ---
 title: IOSTypeStructureLoader
 second_title: Справочник по Aspose.PSD для .NET API
-description: Загрузчик ресурсовOSTypeStructure./ostypestructure.
+description: OSTypeStructure./ostypestructure загрузчик ресурсов.
 type: docs
-weight: 2460
+weight: 2500
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/
 ---
 ## IOSTypeStructureLoader interface
 
-Загрузчик ресурсов[`OSTypeStructure`](../ostypestructure).
+[`OSTypeStructure`](../ostypestructure) загрузчик ресурсов.
 
 ```csharp
 public interface IOSTypeStructureLoader
@@ -18,8 +18,8 @@ public interface IOSTypeStructureLoader
 
 | Имя | Описание |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload)(StreamContainer) | Определяет, может ли ресурс[`OSTypeStructure`](../ostypestructure)быть загружен из указанного[`StreamContainer`](../../aspose.psd/streamcontainer). |
-| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load)(StreamContainer) | Загружает[`OSTypeStructure`](../ostypestructure). |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload)(StreamContainer) | Определяет,[`OSTypeStructure`](../ostypestructure) ресурс может быть загружен из указанного[`StreamContainer`](../../aspose.psd/streamcontainer) . |
+| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load)(StreamContainer) | Загружает[`OSTypeStructure`](../ostypestructure) . |
 
 ### Смотрите также
 

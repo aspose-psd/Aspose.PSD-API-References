@@ -1,14 +1,14 @@
 ---
 title: Register
 second_title: Справочник по Aspose.PSD для .NET API
-description: Регистрирует указанный дескриптор экспортера изображения.
+description: Регистрирует указанный дескриптор экспортера изображений.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/imageexportersregistry/register/
 ---
 ## ImageExportersRegistry.Register method
 
-Регистрирует указанный дескриптор экспортера изображения.
+Регистрирует указанный дескриптор экспортера изображений.
 
 ```csharp
 public static void Register(IImageExporterDescriptor imageExporterDescriptor)

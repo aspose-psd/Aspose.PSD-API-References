@@ -1,14 +1,14 @@
 ---
 title: UnitArrayStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 定义包含Double值数组及其度量单位的 UnitArrayStructure 类 用于 PSD 文件资源通常由ObjectArrayStructure./objectarraystructure使用
+description: 定义持有的 UnitArrayStructure 类Doublevalues 数组及其度量单位 用于 PSD 文件资源中通常由ObjectArrayStructure./objectarraystructure .
 type: docs
-weight: 3160
+weight: 3210
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
 ## UnitArrayStructure class
 
-定义包含Double值数组及其度量单位的 UnitArrayStructure 类。 用于 PSD 文件资源，通常由[`ObjectArrayStructure`](../objectarraystructure)使用。
+定义持有的 UnitArrayStructure 类Doublevalues 数组及其度量单位。 用于 PSD 文件资源中，通常由[`ObjectArrayStructure`](../objectarraystructure) .
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -18,16 +18,16 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure)(ClassID, UnitTypes, double[]) | 初始化[`UnitArrayStructure`](../unitarraystructure)类的新实例。 |
+| [UnitArrayStructure](unitarraystructure)(ClassID, UnitTypes, double[]) | 初始化[`UnitArrayStructure`](../unitarraystructure)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key) { get; } | 获取本单元数组结构键。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key) { get; } | 获取本单元数组结构key. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype) { get; set; } | 获取或设置[`UnitArrayStructure`](../unitarraystructure)值的度量单位类型。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype) { get; set; } | 获取或设置度量单位类型[`UnitArrayStructure`](../unitarraystructure)值. |
 | [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount) { get; } | 获取值计数。 |
 | [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values) { get; set; } | 获取或设置单位数组结构值。 |
 
@@ -43,7 +43,7 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey) | 定义“UnFl”[`UnitArrayStructure`](../unitarraystructure)键。 |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey) | 定义“UnFl”[`UnitArrayStructure`](../unitarraystructure)关键. |
 
 ### 例子
 

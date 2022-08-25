@@ -16,11 +16,11 @@ public SheetColorHighlightEnum Color { get; set; }
 
 ### 适当的价值
 
-颜色。
+颜色.
 
 ### 例子
 
-以下示例演示了如何在 Aspose.PSD 中更改工作表颜色突出显示（工作表颜色设置）
+以下示例演示如何更改 Aspose.PSD 中的工作表颜色突出显示（工作表颜色设置）
 
 ```csharp
 [C#]

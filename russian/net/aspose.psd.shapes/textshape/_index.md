@@ -1,14 +1,14 @@
 ---
 title: TextShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет фигуру текста.
+description: Представляет текстовую фигуру.
 type: docs
-weight: 5420
+weight: 5470
 url: /ru/net/aspose.psd.shapes/textshape/
 ---
 ## TextShape class
 
-Представляет фигуру текста.
+Представляет текстовую фигуру.
 
 ```csharp
 public sealed class TextShape : RectangleProjectedShape
@@ -18,8 +18,8 @@ public sealed class TextShape : RectangleProjectedShape
 
 | Имя | Описание |
 | --- | --- |
-| [TextShape](textshape#constructor)() | Инициализирует новый экземпляр класса[`TextShape`](../textshape). |
-| [TextShape](textshape#constructor_1)(string, RectangleF, Font, StringFormat) | Инициализирует новый экземпляр класса[`TextShape`](../textshape). |
+| [TextShape](textshape#constructor)() | Инициализирует новый экземпляр[`TextShape`](../textshape) класс. |
+| [TextShape](textshape#constructor_1)(string, RectangleF, Font, StringFormat) | Инициализирует новый экземпляр[`TextShape`](../textshape) класс. |
 
 ## Характеристики
 

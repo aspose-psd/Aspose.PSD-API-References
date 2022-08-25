@@ -1,14 +1,14 @@
 ---
 title: PngOptions
 second_title: Aspose.PSD for .NET API 参考
-description: png 文件格式创建选项
+description: png 文件格式创建选项.
 type: docs
-weight: 4760
+weight: 4810
 url: /zh/net/aspose.psd.imageoptions/pngoptions/
 ---
 ## PngOptions class
 
-png 文件格式创建选项。
+png 文件格式创建选项.
 
 ```csharp
 public class PngOptions : ImageOptionsBase
@@ -18,8 +18,8 @@ public class PngOptions : ImageOptionsBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PngOptions](pngoptions#constructor)() | 初始化[`PngOptions`](../pngoptions)类的新实例。 |
-| [PngOptions](pngoptions#constructor_1)(PngOptions) | 初始化[`PngOptions`](../pngoptions)类的新实例。 |
+| [PngOptions](pngoptions#constructor)() | 初始化[`PngOptions`](../pngoptions)类. |
+| [PngOptions](pngoptions#constructor_1)(PngOptions) | 初始化[`PngOptions`](../pngoptions)类. |
 
 ## 特性
 
@@ -28,17 +28,17 @@ public class PngOptions : ImageOptionsBase
 | [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth) { get; set; } | 位深度。 |
 | [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | 获取或设置缓冲区大小提示，该提示定义了所有内部缓冲区的最大允许大小。 |
 | [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype) { get; set; } | 获取或设置颜色的类型。 |
-| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel) { get; set; } | png 图像压缩级别在 0-9 范围内，其中 9 为最大压缩，0 为存储模式。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（如果系统中未显示 PSD 文件中的现有图层字体，则在导出为栅格时用于绘制文本的字体）。 下一个代码片段可以使用默认字体的正确名称： System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] 系列 = col.Families; 字符串 defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
+| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel) { get; set; } | png 图片压缩级别在 0-9 范围内，其中 9 为最大压缩，0 为存储模式。 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果 PSD 文件中的现有图层字体未在系统中显示）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
 | [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype) { get; set; } | 获取或设置 png 文件保存过程中使用的过滤器类型。 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]。 |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | 多页选项 |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | 获取或设置调色板。 |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | 获取或设置进度事件处理程序。 |
-| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive) { get; set; } | 获取或设置一个值，该值指示此[`PngOptions`](../pngoptions)是否为渐进式。 |
+| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive) { get; set; } | 获取或设置一个值，该值指示是否[`PngOptions`](../pngoptions)是进步的。 |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | 获取或设置分辨率设置。 |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置创建图像的源。 |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置要在其中创建图像的源。 |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | 获取或设置矢量光栅化选项。 |
 | override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata) { get; set; } | 获取或设置 XMP 元数据容器。 |
 
@@ -47,7 +47,7 @@ public class PngOptions : ImageOptionsBase
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | 克隆此实例。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
 
 ## 字段
 
@@ -57,7 +57,7 @@ public class PngOptions : ImageOptionsBase
 
 ### 例子
 
-以下示例演示了如何将 AI 文件导出为 Aspose.PSD 中的 PSD 和 PNG 格式
+以下示例演示了如何在 Aspose.PSD 中将 AI 文件导出为 PSD 和 PNG 格式
 
 ```csharp
 [C#]
@@ -71,7 +71,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-本示例演示如何使用 SaveOptions 命名空间中的不同类进行导出。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
+此示例演示了将 SaveOptions 命名空间中的不同类用于导出目的。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
 
 ```csharp
 [C#]
@@ -96,7 +96,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-以下示例演示如何在 Aspose.PSD 中使用 PassThrough 图层混合模式
+以下示例演示了如何在 Aspose.PSD 中使用 PassThrough 图层混合模式
 
 ```csharp
 [C#]
@@ -137,7 +137,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示文档转换进度正常工作，无一例外。
+以下示例演示了文档转换进度正常且无异常。
 
 ```csharp
 [C#]

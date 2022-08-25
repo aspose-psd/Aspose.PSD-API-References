@@ -3,7 +3,7 @@ title: CgEdResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс CgEdResource. Дополнительные данные генератора контента Photoshop CS5
 type: docs
-weight: 2290
+weight: 2330
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
 ## CgEdResource class
@@ -24,14 +24,14 @@ public class CgEdResource : AdjustmentLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto) { get; set; } | Получает или задает значение, указывающее, является ли это[`CgEdResource`](../cgedresource)автоматическим. |
+| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto) { get; set; } | Получает или задает значение, указывающее, является ли это[`CgEdResource`](../cgedresource) автоматически. |
 | [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness) { get; set; } | Получает или устанавливает яркость. |
 | [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast) { get; set; } | Получает или устанавливает контрастность. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key) { get; } | Получает ключ ресурса слоя. |
 | [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor) { get; set; } | Получает или задает значение, указывающее, используется ли [лабораторный цвет]. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast) { get; set; } | Получает или задает среднее значение яркости и контрастности. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Получает подпись. |
 | [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy) { get; set; } | Получает или задает значение, указывающее, следует ли [использовать устаревшее]. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version) { get; set; } | Получает или задает версию. |
@@ -41,13 +41,13 @@ public class CgEdResource : AdjustmentLayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

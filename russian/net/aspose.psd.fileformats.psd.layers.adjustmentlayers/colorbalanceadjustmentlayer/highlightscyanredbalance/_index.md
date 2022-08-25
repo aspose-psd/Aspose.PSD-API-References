@@ -1,14 +1,14 @@
 ---
 title: HighlightsCyanRedBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает баланс голубого и красного в светлых участках.
+description: Получает или задает баланс светлоголубого и красного цветов.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightscyanredbalance/
 ---
 ## ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance property
 
-Получает или задает баланс голубого и красного в светлых участках.
+Получает или задает баланс светло-голубого и красного цветов.
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
@@ -16,13 +16,13 @@ public short HighlightsCyanRedBalance { get; set; }
 
 ### Стоимость имущества
 
-Основные моменты Голубой Красный Баланс.
+Основные моменты Cyan Red Balance.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Highlights Cyan Red Баланс должен быть в диапазоне от -100 до +100 . |
+| ArgumentOutOfRangeException | Баланс сине-красного цвета светлых участков должен находиться в диапазоне от -100 до +100. |
 
 ### Примеры
 

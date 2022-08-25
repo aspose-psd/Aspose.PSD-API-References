@@ -16,7 +16,7 @@ public int FrameStepNumerator { get; set; }
 
 ### 适当的价值
 
-帧步长分子。
+帧步数分子.
 
 ### 也可以看看
 

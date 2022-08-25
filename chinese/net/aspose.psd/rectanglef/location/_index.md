@@ -1,14 +1,14 @@
 ---
 title: Location
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此RectangleFaspose.psd/rectanglef结构的左上角坐标
+description: 获取或设置this的左上角坐标RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/rectanglef/location/
 ---
 ## RectangleF.Location property
 
-获取或设置此[`RectangleF`](../../rectanglef)结构的左上角坐标。
+获取或设置this的左上角坐标[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public PointF Location { get; set; }
@@ -16,7 +16,7 @@ public PointF Location { get; set; }
 
 ### 返回值
 
-[`PointF`](../../pointf)表示此PSD的左上角。RectangleF结构。
+一个[`PointF`](../../pointf)表示这个的左上角[`RectangleF`](../../rectanglef)结构体。
 
 ### 也可以看看
 

@@ -1,7 +1,7 @@
 ---
 title: GammaCorrection
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает гамма-коррекцию. Для PS диапазон GammaCorrection составляет от 999 до 001
+description: Получает или задает гаммакоррекцию. Для PS диапазон GammaCorrection составляет от 999 до 001
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/gammacorrection/
@@ -16,7 +16,7 @@ public float GammaCorrection { get; set; }
 
 ### Стоимость имущества
 
-GammaCorrection.
+Гамма-коррекция.
 
 ### Смотрите также
 

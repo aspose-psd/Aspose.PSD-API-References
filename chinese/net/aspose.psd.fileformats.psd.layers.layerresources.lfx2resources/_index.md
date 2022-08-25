@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含Lfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource链接类
 type: docs
-weight: 270
+weight: 280
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/
 ---
 命名空间包含[`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource)链接类

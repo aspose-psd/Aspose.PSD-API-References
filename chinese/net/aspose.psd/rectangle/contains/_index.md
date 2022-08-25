@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PSD for .NET API 参考
-description: 确定指定点是否包含在此Rectangleaspose.psd/rectangle结构中
+description: 确定指定点是否包含在此范围内Rectangleaspose.psd/rectangle结构.
 type: docs
 weight: 220
 url: /zh/net/aspose.psd/rectangle/contains/
 ---
 ## Contains(int, int) {#contains_2}
 
-确定指定点是否包含在此[`Rectangle`](../../rectangle)结构中。
+确定指定点是否包含在此范围内[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public bool Contains(int x, int y)
@@ -21,7 +21,7 @@ public bool Contains(int x, int y)
 
 ### 返回值
 
-如果*x*和*y*定义的点包含在此PSD中，则此方法返回true。矩形结构；否则为假。
+如果定义的点由*x*和*y*包含在这个[`Rectangle`](../../rectangle)结构体;否则为假。
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public bool Contains(int x, int y)
 
 ## Contains(Point) {#contains}
 
-确定指定点是否包含在此[`Rectangle`](../../rectangle)结构中。
+确定指定点是否包含在此范围内[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public bool Contains(Point point)
@@ -41,11 +41,11 @@ public bool Contains(Point point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point)进行测试。 |
+| point | Point | 这[`Point`](../../point)去测试。 |
 
 ### 返回值
 
-如果*point*表示的点包含在此[`Rectangle`](../../rectangle)结构中，则此方法返回true；否则为假。
+如果表示的点由此方法返回 true*point*包含在这个[`Rectangle`](../../rectangle)结构体;否则为假。
 
 ### 也可以看看
 
@@ -58,7 +58,7 @@ public bool Contains(Point point)
 
 ## Contains(Rectangle) {#contains_1}
 
-确定由*rect*表示的矩形区域是否完全包含在此[`Rectangle`](../../rectangle)结构中。
+确定矩形区域是否由*rect*完全包含在这个[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public bool Contains(Rectangle rect)
@@ -66,11 +66,11 @@ public bool Contains(Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle)进行测试。 |
+| rect | Rectangle | 这[`Rectangle`](../../rectangle)去测试。 |
 
 ### 返回值
 
-如果*rect*表示的矩形区域完全包含在此[`Rectangle`](../../rectangle)结构中，则此方法返回true；否则为假。
+如果矩形区域由*rect*完全包含在这个[`Rectangle`](../../rectangle)结构体;否则为假。
 
 ### 也可以看看
 

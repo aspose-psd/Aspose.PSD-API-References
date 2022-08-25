@@ -20,7 +20,7 @@ public LevelChannel GetChannel(int channelIndex)
 
 ### Возвращаемое значение
 
-Данные уровня канала
+Уровень данных канала
 
 ### Смотрите также
 

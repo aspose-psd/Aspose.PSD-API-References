@@ -1,14 +1,14 @@
 ---
 title: GraphicsPath
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаGraphicsPathaspose.psd/graphicspath.
+description: Инициализирует новый экземплярGraphicsPathaspose.psd/graphicspath класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/graphicspath/graphicspath/
 ---
 ## GraphicsPath() {#constructor}
 
-Инициализирует новый экземпляр класса[`GraphicsPath`](../../graphicspath).
+Инициализирует новый экземпляр[`GraphicsPath`](../../graphicspath) класс.
 
 ```csharp
 public GraphicsPath()
@@ -24,7 +24,7 @@ public GraphicsPath()
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`GraphicsPath`](../../graphicspath).
+Инициализирует новый экземпляр[`GraphicsPath`](../../graphicspath) класс.
 
 ```csharp
 public GraphicsPath(Figure[] figures)
@@ -45,7 +45,7 @@ public GraphicsPath(Figure[] figures)
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`GraphicsPath`](../../graphicspath).
+Инициализирует новый экземпляр[`GraphicsPath`](../../graphicspath) класс.
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
@@ -68,7 +68,7 @@ public GraphicsPath(Figure[] figures, FillMode fillMode)
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`GraphicsPath`](../../graphicspath).
+Инициализирует новый экземпляр[`GraphicsPath`](../../graphicspath) класс.
 
 ```csharp
 public GraphicsPath(FillMode fillMode)

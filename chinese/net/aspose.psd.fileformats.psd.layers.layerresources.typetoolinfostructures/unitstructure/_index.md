@@ -3,7 +3,7 @@ title: UnitStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 单元结构
 type: docs
-weight: 3170
+weight: 3220
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/
 ---
 ## UnitStructure class
@@ -18,7 +18,7 @@ public sealed class UnitStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UnitStructure](unitstructure)(ClassID) | 初始化[`UnitStructure`](../unitstructure)类的新实例。 |
+| [UnitStructure](unitstructure)(ClassID) | 初始化[`UnitStructure`](../unitstructure)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public sealed class UnitStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 | [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype) { get; set; } | 获取或设置单位类型。 |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value) { get; set; } | 获取或设置值。 |
 

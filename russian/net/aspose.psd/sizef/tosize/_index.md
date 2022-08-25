@@ -1,14 +1,14 @@
 ---
 title: ToSize
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует структуруSizeFaspose.psd/sizefв структуруSizeaspose.psd/sizeс усеченными значениями размера.
+description: ПреобразуетSizeFaspose.psd/sizef кSizeaspose.psd/size структура с усеченными значениями размера.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/sizef/tosize/
 ---
 ## SizeF.ToSize method
 
-Преобразует структуру[`SizeF`](../../sizef)в структуру[`Size`](../../size)с усеченными значениями размера.
+Преобразует[`SizeF`](../../sizef) к[`Size`](../../size) структура с усеченными значениями размера.
 
 ```csharp
 public Size ToSize()
@@ -16,7 +16,7 @@ public Size ToSize()
 
 ### Возвращаемое значение
 
-Возвращает структуру[`Size`](../../size).
+Возвращает[`Size`](../../size) структура.
 
 ### Смотрите также
 

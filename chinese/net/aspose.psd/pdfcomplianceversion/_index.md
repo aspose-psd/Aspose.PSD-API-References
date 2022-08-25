@@ -3,7 +3,7 @@ title: PdfComplianceVersion
 second_title: Aspose.PSD for .NET API 参考
 description: 指定输出文件的 PDF 合规级别
 type: docs
-weight: 5070
+weight: 5120
 url: /zh/net/aspose.psd/pdfcomplianceversion/
 ---
 ## PdfComplianceVersion enumeration

@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПолучаетLiFdDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifddatasourceпо указанному индексу.
+description: ПолучаетLiFdDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifddatasource по указанному индексу.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/
 ---
 ## Lnk2Resource indexer
 
-Получает[`LiFdDataSource`](../../lifddatasource)по указанному индексу.
+Получает[`LiFdDataSource`](../../lifddatasource) по указанному индексу.
 
 ```csharp
 public LiFdDataSource this[int index] { get; }
@@ -20,11 +20,11 @@ public LiFdDataSource this[int index] { get; }
 
 ### Возвращаемое значение
 
-Экземпляр[`LiFdDataSource`](../../lifddatasource).
+[`LiFdDataSource`](../../lifddatasource) экземпляр.
 
 ### Стоимость имущества
 
-The[`LiFdDataSource`](../../lifddatasource).
+[`LiFdDataSource`](../../lifddatasource) .
 
 ### Примеры
 

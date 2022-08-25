@@ -1,14 +1,14 @@
 ---
 title: Lnk2Resource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLnk2Resourceaspose.psd.fileformats.psd.layers.layerresources/lnk2resource.
+description: Инициализирует новый экземплярLnk2Resourceaspose.psd.fileformats.psd.layers.layerresources/lnk2resource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/lnk2resource/
 ---
 ## Lnk2Resource constructor
 
-Инициализирует новый экземпляр класса[`Lnk2Resource`](../../lnk2resource).
+Инициализирует новый экземпляр[`Lnk2Resource`](../../lnk2resource) класс.
 
 ```csharp
 public Lnk2Resource()

@@ -1,14 +1,14 @@
 ---
 title: Patterns
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置形态数据
+description: 获取或设置模式数据
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/
 ---
 ## PattResource.Patterns property
 
-获取或设置形态数据；
+获取或设置模式数据；
 
 ```csharp
 public PattResourceData[] Patterns { get; set; }

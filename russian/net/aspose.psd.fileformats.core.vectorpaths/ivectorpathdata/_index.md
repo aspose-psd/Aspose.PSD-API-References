@@ -19,14 +19,14 @@ public interface IVectorPathData
 | Имя | Описание |
 | --- | --- |
 | [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled) { get; set; } | Получает или задает значение, указывающее, отключен ли этот экземпляр. |
-| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted) { get; set; } | Получает или задает значение, указывающее, инвертирован ли данный экземпляр. |
+| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted) { get; set; } | Получает или задает значение, указывающее, инвертирован ли этот экземпляр. |
 | [IsNotLinked](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked) { get; set; } | Получает или задает значение, указывающее, не связан ли этот экземпляр. |
 | [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths) { get; set; } | Получает или задает записи пути. |
 | [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version) { get; set; } | Получает или задает версию. |
 
 ### Примеры
 
-Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для корректной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
 
 ```csharp
 [C#]

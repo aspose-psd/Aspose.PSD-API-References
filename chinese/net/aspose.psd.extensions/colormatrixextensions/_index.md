@@ -1,14 +1,14 @@
 ---
 title: ColorMatrixExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: ColorMatrix../aspose.psd/colormatrix扩展方法
+description: 的ColorMatrix../aspose.psd/colormatrix扩展方法.
 type: docs
 weight: 1070
 url: /zh/net/aspose.psd.extensions/colormatrixextensions/
 ---
 ## ColorMatrixExtensions class
 
-[`ColorMatrix`](../../aspose.psd/colormatrix)扩展方法。
+的[`ColorMatrix`](../../aspose.psd/colormatrix)扩展方法.
 
 ```csharp
 public static class ColorMatrixExtensions
@@ -18,7 +18,7 @@ public static class ColorMatrixExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix)(ColorMatrix) | 将[`ColorMatrix`](../../aspose.psd/colormatrix)转换为ColorMatrix。 |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix)(ColorMatrix) | 转换[`ColorMatrix`](../../aspose.psd/colormatrix)到ColorMatrix . |
 
 ### 也可以看看
 

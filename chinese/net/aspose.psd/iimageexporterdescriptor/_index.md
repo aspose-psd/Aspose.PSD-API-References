@@ -1,14 +1,14 @@
 ---
 title: IImageExporterDescriptor
 second_title: Aspose.PSD for .NET API 参考
-description: 表示图像导出器描述符导出器描述符用于克服在内存中包含每个导出器实例 和多线程问题的必要性
+description: 表示图像导出器描述符导出器描述符用于克服在内存中包含每个导出器 instance 和多线程问题的必要性
 type: docs
-weight: 4320
+weight: 4370
 url: /zh/net/aspose.psd/iimageexporterdescriptor/
 ---
 ## IImageExporterDescriptor interface
 
-表示图像导出器描述符。导出器描述符用于克服在内存中包含每个导出器实例 和多线程问题的必要性。
+表示图像导出器描述符。导出器描述符用于克服在内存中包含每个导出器 instance 和多线程问题的必要性。
 
 ```csharp
 public interface IImageExporterDescriptor : IImageDescriptor
@@ -18,7 +18,7 @@ public interface IImageExporterDescriptor : IImageDescriptor
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport)(Image, ImageOptionsBase) | 确定图像导出器是否可以将指定图像导出为保存选项指定的指定图像格式。 |
+| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport)(Image, ImageOptionsBase) | 决定图片导出器是否可以将指定图片导出为保存选项指定的指定图片格式 |
 | [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance)() | 创建一个新的导出器实例。 |
 
 ### 也可以看看

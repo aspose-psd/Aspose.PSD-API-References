@@ -1,14 +1,14 @@
 ---
 title: CanLoad
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет может ли ресурсOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructureбыть загружен из указанногоStreamContaineraspose.psd/streamcontainer.
+description: ОпределяетOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure ресурс может быть загружен из указанногоStreamContaineraspose.psd/streamcontainer .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/
 ---
 ## IOSTypeStructureLoader.CanLoad method
 
-Определяет, может ли ресурс[`OSTypeStructure`](../../ostypestructure)быть загружен из указанного[`StreamContainer`](../../../aspose.psd/streamcontainer).
+Определяет,[`OSTypeStructure`](../../ostypestructure) ресурс может быть загружен из указанного[`StreamContainer`](../../../aspose.psd/streamcontainer) .
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer)
@@ -20,7 +20,7 @@ public bool CanLoad(StreamContainer streamContainer)
 
 ### Возвращаемое значение
 
-` true` if[`OSTypeStructure`](../../ostypestructure)ресурс может быть загружен из указанного[`StreamContainer`](../../../aspose.psd/streamcontainer); в противном случае` false` .
+`истинный` если[`OSTypeStructure`](../../ostypestructure) ресурс может быть загружен из указанного[`StreamContainer`](../../../aspose.psd/streamcontainer) ; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

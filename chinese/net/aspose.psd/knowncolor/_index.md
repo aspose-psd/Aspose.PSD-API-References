@@ -3,7 +3,7 @@ title: KnownColor
 second_title: Aspose.PSD for .NET API 参考
 description: 指定已知的系统颜色
 type: docs
-weight: 4920
+weight: 4970
 url: /zh/net/aspose.psd/knowncolor/
 ---
 ## KnownColor enumeration

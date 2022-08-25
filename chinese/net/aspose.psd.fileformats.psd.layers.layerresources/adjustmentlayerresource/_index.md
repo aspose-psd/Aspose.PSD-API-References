@@ -1,14 +1,14 @@
 ---
 title: AdjustmentLayerResource
 second_title: Aspose.PSD for .NET API 参考
-description: 调整图层资源的基类
+description: 调整层资源的基类
 type: docs
-weight: 2230
+weight: 2270
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/
 ---
 ## AdjustmentLayerResource class
 
-调整图层资源的基类
+调整层资源的基类
 
 ```csharp
 public abstract class AdjustmentLayerResource : LayerResource
@@ -18,8 +18,8 @@ public abstract class AdjustmentLayerResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | 获取层资源密钥。 |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | 获取图层资源键。 |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | 获取签名。 |
 
@@ -28,7 +28,7 @@ public abstract class AdjustmentLayerResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

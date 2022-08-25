@@ -25,8 +25,8 @@ public sealed class HatchBrush : Brush
 | 姓名 | 描述 |
 | --- | --- |
 | [BackgroundColor](../../aspose.psd.brushes/hatchbrush/backgroundcolor) { get; set; } | 获取或设置阴影线之间的空间颜色。 |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
-| [ForegroundColor](../../aspose.psd.brushes/hatchbrush/foregroundcolor) { get; set; } | 获取或设置阴影线的颜色。 |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
+| [ForegroundColor](../../aspose.psd.brushes/hatchbrush/foregroundcolor) { get; set; } | 获取或设置影线的颜色。 |
 | [HatchStyle](../../aspose.psd.brushes/hatchbrush/hatchstyle) { get; set; } | 获取或设置此画笔的阴影样式。 |
 | [Opacity](../../aspose.psd/brush/opacity) { get; set; } | 获取或设置画笔不透明度。该值应介于 0 和 1 之间。值 0 表示画笔完全可见，值 1 表示画笔完全不透明。 |
 
@@ -34,8 +34,8 @@ public sealed class HatchBrush : Brush
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | 创建当前[`Brush`](../../aspose.psd/brush)的新深层克隆。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | 创建当前的新深层克隆[`Brush`](../../aspose.psd/brush) . |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
 
 ### 例子
 

@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.FillSettings
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含填充层设置
 type: docs
-weight: 240
+weight: 250
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/
 ---
 命名空间包含填充层设置
@@ -24,9 +24,9 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/
 | --- | --- |
 | [IColorFillSettings](./icolorfillsettings) | 填充设置的基本接口 |
 | [IFillSettings](./ifillsettings) | 填充设置的基本接口 |
-| [IGradientFillSettings](./igradientfillsettings) | 填充设置的基本界面 |
+| [IGradientFillSettings](./igradientfillsettings) | 填充设置的基本接口 |
 | [IGradientTransparencyPoint](./igradienttransparencypoint) | 填充设置的基本接口 |
-| [IPatternFillSettings](./ipatternfillsettings) | 图案填充设置界面 |
+| [IPatternFillSettings](./ipatternfillsettings) | 图案填充设置接口 |
 ## 枚举
 
 | 枚举 | 描述 |

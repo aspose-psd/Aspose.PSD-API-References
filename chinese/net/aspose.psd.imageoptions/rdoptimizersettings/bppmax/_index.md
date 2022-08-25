@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/bppmax/
 ---
 ## RdOptimizerSettings.BppMax property
 
-获取或设置要考虑的最大 R 值，以每像素位数为单位
+获取或设置要考虑的最大 R 值（以每像素位数为单位）
 
 ```csharp
 public double BppMax { get; set; }
@@ -16,7 +16,7 @@ public double BppMax { get; set; }
 
 ### 适当的价值
 
-最大 R以每像素位数为单位考虑的值。
+考虑的最大 R 值（以每像素位数为单位）。
 
 ### 也可以看看
 

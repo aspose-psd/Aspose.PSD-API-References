@@ -1,14 +1,14 @@
 ---
 title: BlendingOptions
 second_title: Aspose.PSD for .NET API 参考
-description: BlendingOptions它是 Lfx2Resource 的包装器它为图层效果提供 API
+description: 混合选项它是 Lfx2Resource 的包装器它为图层 effects 提供 api
 type: docs
-weight: 2040
+weight: 2080
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
 ## BlendingOptions class
 
-BlendingOptions。它是 Lfx2Resource 的包装器，它为图层效果提供 API
+混合选项。它是 Lfx2Resource 的包装器，它为图层 effects 提供 api
 
 ```csharp
 public class BlendingOptions
@@ -18,23 +18,23 @@ public class BlendingOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects) { get; } | 获取效果。 |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects) { get; } | 获得效果。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay)() | 添加颜色叠加。 |
-| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow)() | 添加投影效果。 |
-| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay)() | 添加渐变叠加。 |
+| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay)() | 添加颜色叠加层。 |
+| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow)() | 添加阴影效果。 |
+| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay)() | 添加渐变叠加层。 |
 | [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow)() | 添加内阴影效果。 |
 | [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow)() | 添加外发光效果。 |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay)() | 添加图案叠加。 |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay)() | 添加图案叠加层。 |
 | [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke)(FillType) | 添加描边效果。 |
 
 ### 例子
 
-以下代码演示了如何更改内部阴影图层效果的设置。
+以下代码演示了如何更改内阴影层效果的设置。
 
 ```csharp
 [C#]

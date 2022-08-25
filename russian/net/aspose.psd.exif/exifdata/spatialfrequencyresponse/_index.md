@@ -1,7 +1,7 @@
 ---
 title: SpatialFrequencyResponse
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает пространственно-частотную характеристику.
+description: Получает или задает пространственночастотную характеристику.
 type: docs
 weight: 960
 url: /ru/net/aspose.psd.exif/exifdata/spatialfrequencyresponse/

@@ -1,14 +1,14 @@
 ---
 title: JpegLsPresetCodingParameters
 second_title: Aspose.PSD for .NET API 参考
-description: 定义 ISO/IEC 14495-1 C.2.4.1.1 中定义的 JPEG-LS 预设编码参数 JPEG-LS 定义了一组默认参数但可以使用自定义参数 当使用这些参数时它们会被写入编码比特流因为它们是解码过程所需要的
+description: 定义 ISO/IEC 144951 C.2.4.1.1. 中定义的 JPEGLS 预设编码参数 JPEGLS 定义了一组默认参数但可以使用自定义参数 使用这些参数时会写入进入编码的比特流因为它们是解码过程所需要的
 type: docs
 weight: 1520
 url: /zh/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/
 ---
 ## JpegLsPresetCodingParameters class
 
-定义 ISO/IEC 14495-1, C.2.4.1.1 中定义的 JPEG-LS 预设编码参数。 JPEG-LS 定义了一组默认参数，但可以使用自定义参数。 当使用这些参数时，它们会被写入编码比特流，因为它们是解码过程所需要的。
+定义 ISO/IEC 14495-1, C.2.4.1.1. 中定义的 JPEG-LS 预设编码参数。 JPEG-LS 定义了一组默认参数，但可以使用自定义参数。 使用这些参数时会写入进入编码的比特流，因为它们是解码过程所需要的。
 
 ```csharp
 public class JpegLsPresetCodingParameters
@@ -27,7 +27,7 @@ public class JpegLsPresetCodingParameters
 | [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue) { get; set; } | 获取或设置扫描中任何图像样本的最大可能值。 这必须大于或等于扫描中组件的实际最大值。 |
 | [ResetValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue) { get; set; } | 获取或设置计数器 A、B 和 N 减半的值。 |
 | [Threshold1](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1) { get; set; } | 获取或设置局部梯度的第一个量化阈值。 |
-| [Threshold2](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2) { get; set; } | 获取或设置局部梯度的第二量化阈值。 |
+| [Threshold2](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2) { get; set; } | 获取或设置局部梯度的第二个量化阈值。 |
 | [Threshold3](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold3) { get; set; } | 获取或设置局部梯度的第三个量化阈值。 |
 
 ### 也可以看看

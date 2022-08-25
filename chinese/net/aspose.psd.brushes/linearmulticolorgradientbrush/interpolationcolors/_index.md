@@ -1,14 +1,14 @@
 ---
 title: InterpolationColors
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置定义多色线性渐变的ColorBlendaspose.psd/colorblend
+description: 获取或设置一个ColorBlendaspose.psd/colorblend定义多色线性渐变
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.brushes/linearmulticolorgradientbrush/interpolationcolors/
 ---
 ## LinearMulticolorGradientBrush.InterpolationColors property
 
-获取或设置定义多色线性渐变的[`ColorBlend`](../../../aspose.psd/colorblend)。
+获取或设置一个[`ColorBlend`](../../../aspose.psd/colorblend)定义多色线性渐变。
 
 ```csharp
 public ColorBlend InterpolationColors { get; set; }
@@ -16,7 +16,7 @@ public ColorBlend InterpolationColors { get; set; }
 
 ### 适当的价值
 
-一个定义多色线性渐变的[`ColorBlend`](../../../aspose.psd/colorblend)。
+一个[`ColorBlend`](../../../aspose.psd/colorblend)定义多色线性渐变。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Normalize
 second_title: Aspose.PSD for .NET API 参考
-description: 标准化矩形使其宽度和高度为正左小于右上小于下
+description: 通过使矩形的宽度和高度为正值left 小于 right 和 top 小于 bottom 来规范化矩形
 type: docs
 weight: 230
 url: /zh/net/aspose.psd/rectanglef/normalize/
 ---
 ## RectangleF.Normalize method
 
-标准化矩形，使其宽度和高度为正，左小于右，上小于下。
+通过使矩形的宽度和高度为正值、left 小于 right 和 top 小于 bottom 来规范化矩形。
 
 ```csharp
 public void Normalize()

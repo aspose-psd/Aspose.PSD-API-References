@@ -16,7 +16,7 @@ public LayerMaskFlags RealFlags { get; set; }
 
 ### 适当的价值
 
-真正的图层蒙版标志。
+真正的图层掩码标志。
 
 ### 也可以看看
 

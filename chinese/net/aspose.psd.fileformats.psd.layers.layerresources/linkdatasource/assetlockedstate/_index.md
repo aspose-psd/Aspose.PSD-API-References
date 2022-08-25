@@ -1,14 +1,14 @@
 ---
 title: AssetLockedState
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个指示 PSD 资源是否被锁定的值 Adobe Photoshop СС 库资源的资源锁定状态
+description: 获取或设置一个值指示 PSD 资源是否被锁定 资源锁定状态用于 Adobe Photoshop СС 库资源
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/
 ---
 ## LinkDataSource.AssetLockedState property
 
-获取或设置一个指示 PSD 资源是否被锁定的值。 Adobe® Photoshop® СС 库资源的资源锁定状态。
+获取或设置一个值，指示 PSD 资源是否被锁定。 资源锁定状态，用于 Adobe® Photoshop® СС 库资源。
 
 ```csharp
 public bool AssetLockedState { get; set; }
@@ -16,13 +16,13 @@ public bool AssetLockedState { get; set; }
 
 ### 适当的价值
 
-` true` 如果 Adobe® Photoshop® 资源被锁定；否则，` false` 。
+`真的`如果 Adobe® Photoshop® 资源被锁定；否则，`错误的` .
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 AssetLockedState 属性，它仅适用于 liFE 或 liFE 数据源使用版本 7。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 AssetLockedState 属性，它仅适用于版本 7 的 liFE 或 liFE 数据源。 |
 
 ### 也可以看看
 

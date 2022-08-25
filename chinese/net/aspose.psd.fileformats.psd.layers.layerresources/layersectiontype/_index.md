@@ -3,7 +3,7 @@ title: LayerSectionType
 second_title: Aspose.PSD for .NET API 参考
 description: 图层截面类型
 type: docs
-weight: 2550
+weight: 2590
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
 ## LayerSectionType enumeration
@@ -18,10 +18,10 @@ public enum LayerSectionType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Layer | `0` | 图层。 |
+| Layer | `0` | 层。 |
 | OpenFolder | `1` | 打开的文件夹。 |
 | ClosedFolder | `2` | 关闭的文件夹。 |
-| SectionDivider | `3` | 部分分隔符。 |
+| SectionDivider | `3` | 部分分隔符. |
 
 ### 也可以看看
 

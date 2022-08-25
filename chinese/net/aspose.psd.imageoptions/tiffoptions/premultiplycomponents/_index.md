@@ -16,7 +16,7 @@ public bool PremultiplyComponents { get; set; }
 
 ### 适当的价值
 
-` true` 如果必须预乘分量；否则，` false` 。
+`真的`如果组件必须预乘；否则，`错误的` .
 
 ### 也可以看看
 

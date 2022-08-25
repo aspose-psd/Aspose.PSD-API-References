@@ -1,14 +1,14 @@
 ---
 title: CurvesDiscreteManager
 second_title: Aspose.PSD for .NET API 参考
-description: 曲线调整层管理器用于处理像素映射
+description: 用于操作像素映射的曲线调整层管理器
 type: docs
-weight: 2360
+weight: 2400
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
 ## CurvesDiscreteManager class
 
-曲线调整层管理器，用于处理像素映射
+用于操作像素映射的曲线调整层管理器
 
 ```csharp
 public sealed class CurvesDiscreteManager : CurvesManager
@@ -24,9 +24,9 @@ public sealed class CurvesDiscreteManager : CurvesManager
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition)(int, byte) | 获取位置值。 |
+| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition)(int, byte) | 获取位置的值。 |
 | [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition)(int, byte) | 在位置设置为默认值。 |
-| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition)(int, byte, byte) | 设置位置值。 |
+| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition)(int, byte, byte) | 设置位置的值。 |
 | [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel)(int, byte[]) | 设置整个通道的值。 |
 
 ### 也可以看看

@@ -3,7 +3,7 @@ title: CmlsResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс CmlsResource.
 type: docs
-weight: 2320
+weight: 2360
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/
 ---
 ## CmlsResource class
@@ -18,7 +18,7 @@ public class CmlsResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [CmlsResource](cmlsresource)(byte[]) | Инициализирует новый экземпляр класса[`CmlsResource`](../cmlsresource). |
+| [CmlsResource](cmlsresource)(byte[]) | Инициализирует новый экземпляр[`CmlsResource`](../cmlsresource) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public class CmlsResource : LayerResource
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/signature) { get; } | Получает подпись. |
 
 ## Методы
@@ -34,13 +34,13 @@ public class CmlsResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

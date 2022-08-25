@@ -1,14 +1,14 @@
 ---
 title: DrawPolygon
 second_title: Aspose.PSD for .NET API 参考
-description: 绘制由PointFaspose.psd/pointf结构数组定义的多边形
+description: 绘制由数组定义的多边形PointFaspose.psd/pointf结构.
 type: docs
 weight: 290
 url: /zh/net/aspose.psd/graphics/drawpolygon/
 ---
 ## DrawPolygon(Pen, PointF[]) {#drawpolygon}
 
-绘制由[`PointF`](../../pointf)结构数组定义的多边形。
+绘制由数组定义的多边形[`PointF`](../../pointf)结构.
 
 ```csharp
 public void DrawPolygon(Pen pen, PointF[] points)
@@ -17,13 +17,13 @@ public void DrawPolygon(Pen pen, PointF[] points)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen)确定多边形的颜色、宽度和样式。 |
-| points | PointF[] | 表示多边形顶点的[`PointF`](../../pointf)结构数组。 |
+| points | PointF[] | 数组[`PointF`](../../pointf)表示多边形顶点的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 - 或 - *points*为空。 |
+| ArgumentNullException | *pen*为空。 -或- *points*一片空白。 |
 
 ### 也可以看看
 
@@ -37,7 +37,7 @@ public void DrawPolygon(Pen pen, PointF[] points)
 
 ## DrawPolygon(Pen, Point[]) {#drawpolygon_1}
 
-绘制由[`Point`](../../point)结构数组定义的多边形。
+绘制由数组定义的多边形[`Point`](../../point)结构.
 
 ```csharp
 public void DrawPolygon(Pen pen, Point[] points)
@@ -46,13 +46,13 @@ public void DrawPolygon(Pen pen, Point[] points)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen)确定多边形的颜色、宽度和样式。 |
-| points | Point[] | 表示多边形顶点的[`Point`](../../point)结构数组。 |
+| points | Point[] | 数组[`Point`](../../point)表示多边形顶点的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 

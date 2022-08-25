@@ -1,14 +1,14 @@
 ---
 title: FlatArrayException
 second_title: Aspose.PSD for .NET API 参考
-description: FlatArray类的特殊例外
+description: 特殊例外FlatArray类.
 type: docs
-weight: 4150
+weight: 4200
 url: /zh/net/aspose.psd.flatarray.exceptions/flatarrayexception/
 ---
 ## FlatArrayException class
 
-FlatArray类的特殊例外。
+特殊例外FlatArray类.
 
 ```csharp
 public class FlatArrayException : Exception

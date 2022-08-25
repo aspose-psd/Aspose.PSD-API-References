@@ -1,14 +1,14 @@
 ---
 title: Resize
 second_title: Справочник по Aspose.PSD для .NET API
-description: Изменяет размер изображения. По умолчанию используетсяLeftTopToLeftTop.
+description: Изменяет размер изображения. По умолчаниюLeftTopToLeftTopиспользуется.
 type: docs
 weight: 190
 url: /ru/net/aspose.psd/image/resize/
 ---
 ## Resize(int, int) {#resize}
 
-Изменяет размер изображения. По умолчанию используетсяLeftTopToLeftTop.
+Изменяет размер изображения. По умолчаниюLeftTopToLeftTopиспользуется.
 
 ```csharp
 public void Resize(int newWidth, int newHeight)
@@ -21,7 +21,7 @@ public void Resize(int newWidth, int newHeight)
 
 ### Примеры
 
-В следующем примере показано, как изменить размер PSD-изображения и результат, который мы получаем с помощью Aspose.PSD
+В следующем примере показано, как изменить размер PSD-изображения и результат, который мы получаем с помощью Aspose.PSD.
 
 ```csharp
 [C#]

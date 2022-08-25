@@ -16,11 +16,11 @@ public Layer AddRegularLayer()
 
 ### 返回值
 
-已创建常规图层。
+创建常规层。
 
 ### 例子
 
-下面的代码展示了如何将新生成的常规图层添加到 PsdImage 中。
+以下代码展示了如何将新生成的常规图层添加到 PsdImage。
 
 ```csharp
 [C#]

@@ -31,7 +31,7 @@ public int GetChannelsHash()
 /// <typeparam name="T"></typeparam>
 /// <param name="image">Изображение.</param>
 /// <param name="name">Имя.</param>
-/// <возвращает></возвращает>
+/// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
     var layers = image.Layers;

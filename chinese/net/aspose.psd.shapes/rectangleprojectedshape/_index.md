@@ -3,7 +3,7 @@ title: RectangleProjectedShape
 second_title: Aspose.PSD for .NET API 参考
 description: 表示投影到特定方向的矩形上的形状 由可以在空间中旋转的四个点指定保持相同的边长和相邻边之间的 90 度
 type: docs
-weight: 5400
+weight: 5450
 url: /zh/net/aspose.psd.shapes/rectangleprojectedshape/
 ---
 ## RectangleProjectedShape class
@@ -18,8 +18,8 @@ public abstract class RectangleProjectedShape : Shape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RectangleProjectedShape](rectangleprojectedshape#constructor)() | 初始化[`RectangleProjectedShape`](../rectangleprojectedshape)类的新实例。 |
-| [RectangleProjectedShape](rectangleprojectedshape#constructor_1)(RectangleF) | 初始化[`RectangleProjectedShape`](../rectangleprojectedshape)类的新实例。 |
+| [RectangleProjectedShape](rectangleprojectedshape#constructor)() | 初始化[`RectangleProjectedShape`](../rectangleprojectedshape)类. |
+| [RectangleProjectedShape](rectangleprojectedshape#constructor_1)(RectangleF) | 初始化[`RectangleProjectedShape`](../rectangleprojectedshape)类. |
 
 ## 特性
 
@@ -27,13 +27,13 @@ public abstract class RectangleProjectedShape : Shape
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds) { get; } | 获取对象的边界。 |
 | override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center) { get; } | 获取形状的中心。 |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | 获取表示形状是否有段的值。 |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | 获取一个表示形状是否有段的值。 |
 | [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | 获取左下角矩形点。 |
 | [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | 获取左上角矩形点。 |
 | [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | 获取矩形高度。 |
 | [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | 获取矩形宽度。 |
 | [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | 获取右下角矩形点。 |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上矩形点。 |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上角的矩形点。 |
 | abstract [Segments](../../aspose.psd/shape/segments) { get; } | 获取形状段。 |
 
 ## 方法

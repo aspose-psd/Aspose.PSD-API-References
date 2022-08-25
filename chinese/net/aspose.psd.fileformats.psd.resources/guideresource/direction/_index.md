@@ -1,14 +1,14 @@
 ---
 title: Direction
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置导向方向
+description: 获取或设置指南的方向
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.resources/guideresource/direction/
 ---
 ## GuideResource.Direction property
 
-获取或设置导向方向。
+获取或设置指南的方向。
 
 ```csharp
 public GuideDirection Direction { get; set; }

@@ -16,7 +16,7 @@ public TiffPhotometrics Photometric { get; set; }
 
 ### 适当的价值
 
-光度。
+光度学.
 
 ### 也可以看看
 

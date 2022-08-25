@@ -3,7 +3,7 @@ title: EllipseShape
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет форму эллипса.
 type: docs
-weight: 5370
+weight: 5420
 url: /ru/net/aspose.psd.shapes/ellipseshape/
 ---
 ## EllipseShape class
@@ -18,8 +18,8 @@ public class EllipseShape : RectangleShape
 
 | Имя | Описание |
 | --- | --- |
-| [EllipseShape](ellipseshape#constructor)() | Инициализирует новый экземпляр класса[`EllipseShape`](../ellipseshape). |
-| [EllipseShape](ellipseshape#constructor_1)(RectangleF) | Инициализирует новый экземпляр класса[`EllipseShape`](../ellipseshape). |
+| [EllipseShape](ellipseshape#constructor)() | Инициализирует новый экземпляр[`EllipseShape`](../ellipseshape) класс. |
+| [EllipseShape](ellipseshape#constructor_1)(RectangleF) | Инициализирует новый экземпляр[`EllipseShape`](../ellipseshape) класс. |
 
 ## Характеристики
 
@@ -46,7 +46,7 @@ public class EllipseShape : RectangleShape
 
 ### Примеры
 
-В этом примере создается новое изображение и рисуются различные фигуры с использованием Figures и GraphicsPath на поверхности изображения
+В этом примере создается новое изображение и рисуются различные фигуры с помощью Figures и GraphicsPath на поверхности изображения.
 
 ```csharp
 [C#]

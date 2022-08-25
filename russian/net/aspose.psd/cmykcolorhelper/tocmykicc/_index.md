@@ -1,14 +1,14 @@
 ---
 title: ToCmykIcc
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразование цветов ARGB в цвета CMYK с использованием преобразования Icc с пользовательскими профилями.
+description: Преобразование цветов ARGB в цвета CMYK с помощью преобразования Icc с пользовательскими профилями.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/cmykcolorhelper/tocmykicc/
 ---
 ## ToCmykIcc(Color[], Stream, Stream) {#tocmykicc_3}
 
-Преобразование цветов ARGB в цвета CMYK с использованием преобразования Icc с пользовательскими профилями.
+Преобразование цветов ARGB в цвета CMYK с помощью преобразования Icc с пользовательскими профилями.
 
 ```csharp
 public static int[] ToCmykIcc(Color[] pixels, Stream rgbIccStream, Stream cmykIccStream)
@@ -16,7 +16,7 @@ public static int[] ToCmykIcc(Color[] pixels, Stream rgbIccStream, Stream cmykIc
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| пиксели | Color[] | Цвета ARGB. |
+| pixels | Color[] | Цвета ARGB. |
 | rgbIccStream | Stream | Поток, содержащий профиль RGB Icc. |
 | cmykIccStream | Stream | Поток, содержащий профиль CMYK Icc. |
 
@@ -43,7 +43,7 @@ public static int[] ToCmykIcc(Color[] pixels)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| пиксели | Color[] | Цвета ARGB. |
+| pixels | Color[] | Цвета ARGB. |
 
 ### Возвращаемое значение
 
@@ -60,7 +60,7 @@ public static int[] ToCmykIcc(Color[] pixels)
 
 ## ToCmykIcc(Color) {#tocmykicc}
 
-Преобразование из цвета ARGB в цвет CMYK с использованием преобразования Icc с профилями по умолчанию.
+Преобразование цвета ARGB в цвет CMYK с использованием преобразования Icc с профилями по умолчанию.
 
 ```csharp
 public static int ToCmykIcc(Color pixel)
@@ -72,7 +72,7 @@ public static int ToCmykIcc(Color pixel)
 
 ### Возвращаемое значение
 
-Цвет CMYK, представленный как 32-битное целочисленное значение.
+Цвет CMYK, представленный в виде 32-битного целого числа.
 
 ### Смотрите также
 
@@ -85,7 +85,7 @@ public static int ToCmykIcc(Color pixel)
 
 ## ToCmykIcc(Color, Stream, Stream) {#tocmykicc_1}
 
-Преобразование из цвета ARGB в цвет CMYK с использованием преобразования Icc с пользовательскими профилями.
+Преобразование цвета ARGB в цвет CMYK с помощью преобразования Icc с пользовательскими профилями.
 
 ```csharp
 public static int ToCmykIcc(Color pixel, Stream rgbIccStream, Stream cmykIccStream)
@@ -99,7 +99,7 @@ public static int ToCmykIcc(Color pixel, Stream rgbIccStream, Stream cmykIccStre
 
 ### Возвращаемое значение
 
-Цвет CMYK, представленный как 32-битное целочисленное значение.
+Цвет CMYK, представленный в виде 32-битного целого числа.
 
 ### Смотрите также
 

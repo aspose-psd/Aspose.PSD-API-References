@@ -3,7 +3,7 @@ title: WorkingPathResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Ресурс рабочего пути.
 type: docs
-weight: 3870
+weight: 3920
 url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/
 ---
 ## WorkingPathResource class
@@ -18,7 +18,7 @@ public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
 
 | Имя | Описание |
 | --- | --- |
-| [WorkingPathResource](workingpathresource)(byte[]) | Инициализирует новый экземпляр класса[`WorkingPathResource`](../workingpathresource). |
+| [WorkingPathResource](workingpathresource)(byte[]) | Инициализирует новый экземпляр[`WorkingPathResource`](../workingpathresource) класс. |
 
 ## Характеристики
 
@@ -27,13 +27,13 @@ public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
 | override [DataSize](../../aspose.psd.fileformats.psd.resources/workingpathresource/datasize) { get; } | Получает размер данных ресурса в байтах. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
 | [IsDisabled](../../aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled) { get; set; } | Получает или задает значение, указывающее, отключен ли этот экземпляр. |
-| [IsInverted](../../aspose.psd.fileformats.psd.resources/workingpathresource/isinverted) { get; set; } | Получает или задает значение, указывающее, инвертирован ли данный экземпляр. |
+| [IsInverted](../../aspose.psd.fileformats.psd.resources/workingpathresource/isinverted) { get; set; } | Получает или задает значение, указывающее, инвертирован ли этот экземпляр. |
 | [IsNotLinked](../../aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked) { get; set; } | Получает или задает значение, указывающее, не связан ли этот экземпляр. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
 | [Paths](../../aspose.psd.fileformats.psd.resources/workingpathresource/paths) { get; set; } | Получает или задает записи пути. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 | [Version](../../aspose.psd.fileformats.psd.resources/workingpathresource/version) { get; set; } | Получает или задает версию. |
 
 ## Методы
@@ -45,7 +45,7 @@ public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
 
 ### Примеры
 
-Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для корректной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
 
 ```csharp
 [C#]

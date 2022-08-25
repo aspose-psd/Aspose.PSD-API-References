@@ -1,14 +1,14 @@
 ---
 title: PhysicalUnit
 second_title: Aspose.PSD for .NET API 参考
-description: resoulutionInfo 物理单元枚举
+description: resoulutionInfo物理单元enum
 type: docs
-weight: 3750
+weight: 3800
 url: /zh/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
 ## PhysicalUnit enumeration
 
-resoulutionInfo 物理单元枚举
+resoulutionInfo物理单元enum
 
 ```csharp
 public enum PhysicalUnit
@@ -21,7 +21,7 @@ public enum PhysicalUnit
 | Inches | `1` | 英寸 |
 | Centimeters | `2` | 厘米 |
 | Points | `3` | 积分 |
-| Picas | `4` | picas 单位 |
+| Picas | `4` | 皮卡单位 |
 | Columns | `5` | 列 |
 
 ### 也可以看看

@@ -32,7 +32,7 @@ public void SetNoOp(ColorAdjustType type)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype)的一个元素，指定关闭颜色校正的类别。 |
+| type | ColorAdjustType | 一个元素[`ColorAdjustType`](../../coloradjusttype)指定关闭颜色校正的类别。 |
 
 ### 也可以看看
 

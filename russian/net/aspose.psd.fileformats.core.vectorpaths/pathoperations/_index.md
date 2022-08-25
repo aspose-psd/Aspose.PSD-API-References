@@ -1,14 +1,14 @@
 ---
 title: PathOperations
 second_title: Справочник по Aspose.PSD для .NET API
-description: Операции объединения фигур контура логические операции.
+description: Операции для объединения фигур пути логические операции.
 type: docs
 weight: 1390
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
 ## PathOperations enumeration
 
-Операции объединения фигур контура (логические операции).
+Операции для объединения фигур пути (логические операции).
 
 ```csharp
 public enum PathOperations

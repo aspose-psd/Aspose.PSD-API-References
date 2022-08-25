@@ -1,14 +1,14 @@
 ---
 title: Round
 second_title: Aspose.PSD for .NET API 参考
-description: 通过舍入将指定的PointFaspose.psd/pointf 转换为Pointaspose.psd/point对象TAspose.PSD.Point值到最接近的整数
+description: 转换指定的PointFaspose.psd/pointf到一个Pointaspose.psd/point通过四舍五入的对象Pointaspose.psd/point值到最接近的整数
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/point/round/
 ---
 ## Point.Round method
 
-通过舍入将指定的[`PointF`](../../pointf) 转换为[`Point`](../../point)对象T:Aspose.PSD.Point值到最接近的整数。
+转换指定的[`PointF`](../../pointf)到一个[`Point`](../../point)通过四舍五入的对象[`Point`](../../point)值到最接近的整数。
 
 ```csharp
 public static Point Round(PointF point)
@@ -16,11 +16,11 @@ public static Point Round(PointF point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf)要转换。 |
+| point | PointF | 这[`PointF`](../../pointf)转换。 |
 
 ### 返回值
 
-[`Point`](../../point)此方法转换为。
+这[`Point`](../../point)此方法转换为。
 
 ### 也可以看看
 

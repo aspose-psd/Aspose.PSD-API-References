@@ -1,14 +1,14 @@
 ---
 title: RegisterLoader
 second_title: Aspose.PSD for .NET API 参考
-description: 注册加载器
+description: 注册加载程序
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/imageloadersregistry/registerloader/
 ---
 ## ImageLoadersRegistry.RegisterLoader method
 
-注册加载器。
+注册加载程序。
 
 ```csharp
 public static void RegisterLoader(IImageLoaderDescriptor loaderDescriptor)
@@ -16,7 +16,7 @@ public static void RegisterLoader(IImageLoaderDescriptor loaderDescriptor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | 要注册的加载程序描述符。 |
+| loaderDescriptor | IImageLoaderDescriptor | 要注册的加载器描述符。 |
 
 ### 也可以看看
 

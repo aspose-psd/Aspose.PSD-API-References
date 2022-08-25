@@ -16,7 +16,7 @@ public Color BackgroundColor { get; set; }
 
 ### 适当的价值
 
-阴影线之间的空间颜色。
+阴影线之间的空间的颜色。
 
 ### 也可以看看
 

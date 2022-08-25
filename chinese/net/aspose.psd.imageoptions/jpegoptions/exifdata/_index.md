@@ -1,14 +1,14 @@
 ---
 title: ExifData
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 exif 数据容器
+description: 获取或设置exif数据容器
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 ---
 ## JpegOptions.ExifData property
 
-获取或设置 exif 数据容器
+获取或设置exif数据容器
 
 ```csharp
 public JpegExifData ExifData { get; set; }

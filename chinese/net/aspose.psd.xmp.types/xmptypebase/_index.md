@@ -3,7 +3,7 @@ title: XmpTypeBase
 second_title: Aspose.PSD for .NET API 参考
 description: 表示基本 XMP 类型的基类
 type: docs
-weight: 6080
+weight: 6130
 url: /zh/net/aspose.psd.xmp.types/xmptypebase/
 ---
 ## XmpTypeBase class

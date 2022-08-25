@@ -1,14 +1,14 @@
 ---
 title: SheetColorHighlight
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает выделение цветом декоративного листа в списке слоев
+description: Получает или задает выделение цвета декоративного листа в списке слоев
 type: docs
 weight: 300
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/
 ---
 ## Layer.SheetColorHighlight property
 
-Получает или устанавливает выделение цветом декоративного листа в списке слоев
+Получает или задает выделение цвета декоративного листа в списке слоев
 
 ```csharp
 public SheetColorHighlightEnum SheetColorHighlight { get; set; }

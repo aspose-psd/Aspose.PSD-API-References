@@ -1,7 +1,7 @@
 ---
 title: ContentsBounds
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает границы содержимого смарт-объекта.
+description: Получает или задает границы содержимого смартобъекта.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentsbounds/

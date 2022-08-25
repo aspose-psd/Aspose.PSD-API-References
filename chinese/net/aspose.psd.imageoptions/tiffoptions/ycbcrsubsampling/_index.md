@@ -23,7 +23,7 @@ YCbCr 光度计的子采样因子。
 | 例外 | （健康）状况 |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception) | 无效的字段长度。 YCbCrSubsampling 字段必须包含两个值。 |
-| ArgumentNullException | 值 |
+| ArgumentNullException | 价值 |
 
 ### 也可以看看
 

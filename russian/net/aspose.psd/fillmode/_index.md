@@ -3,7 +3,7 @@ title: FillMode
 second_title: Справочник по Aspose.PSD для .NET API
 description: Указывает как заполняется внутренняя часть замкнутого контура.
 type: docs
-weight: 4140
+weight: 4190
 url: /ru/net/aspose.psd/fillmode/
 ---
 ## FillMode enumeration
@@ -18,8 +18,8 @@ public enum FillMode
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Alternate | `0` | Задает альтернативный режим заполнения. |
-| Winding | `1` | Задает режим заполнения обмотки. |
+| Alternate | `0` | Указывает альтернативный режим заполнения. |
+| Winding | `1` | Определяет режим заполнения обмотки. |
 
 ### Смотрите также
 

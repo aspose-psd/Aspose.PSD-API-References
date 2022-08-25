@@ -1,14 +1,14 @@
 ---
 title: Layer
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化Layeraspose.psd.fileformats.psd.layers/layer类的新实例延迟初始化的构造函数
+description: 初始化Layeraspose.psd.fileformats.psd.layers/layer班级延迟初始化的构造函数.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
 ## Layer() {#constructor}
 
-初始化[`Layer`](../../layer)类的新实例。延迟初始化的构造函数。
+初始化[`Layer`](../../layer)班级。延迟初始化的构造函数.
 
 ```csharp
 public Layer()
@@ -55,7 +55,7 @@ using (var image = new PsdImage(width, height))
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-初始化[`Layer`](../../layer)类的新实例。
+初始化[`Layer`](../../layer)类.
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
@@ -63,8 +63,8 @@ public Layer(RasterImage image, bool disposeImage = false)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | RasterImage | 图像。 |
-| disposeImage | Boolean | 如果设置为` true` [处置图像]。 |
+| image | RasterImage | 图片。 |
+| disposeImage | Boolean | 如果设置为`真的` [处置图像]。 |
 
 ### 例子
 
@@ -111,7 +111,7 @@ using (var image = new PsdImage(200, 200))
 
 ## Layer(Stream) {#constructor_3}
 
-初始化[`Layer`](../../layer)类的新实例。
+初始化[`Layer`](../../layer)类.
 
 ```csharp
 public Layer(Stream stream)
@@ -123,7 +123,7 @@ public Layer(Stream stream)
 
 ### 例子
 
-以下示例演示如何添加 Bmp、Jpeg、Jpeg2000、Png、 Psd、Tiff、Gif 图像作为图层到 PsdImage
+以下示例演示如何将 Bmp、Jpeg、Jpeg2000、Png、Psd、Tiff、Gif 图像作为图层添加到 PsdImage
 
 ```csharp
 [C#]
@@ -180,7 +180,7 @@ using (var image = new PsdImage(200, 200))
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-从字节数组初始化[`Layer`](../../layer)类的新实例。
+初始化[`Layer`](../../layer)来自字节数组的类。
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
@@ -198,7 +198,7 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 字节数组不能为空 或 字节数组长度必须等界尺寸（bounds.Width * bounds.Height） |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 字节数组不能为空 或 字节数组长度必须等于边界尺寸（bounds.Width * bounds.Height） |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: BwPresetKind
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает предустановленное значение вида черно-белого изображения.
+description: Получает или задает значение предустановленного вида чернобелого изображения.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind/
 ---
 ## BlwhResource.BwPresetKind property
 
-Получает или задает предустановленное значение вида черно-белого изображения.
+Получает или задает значение предустановленного вида черно-белого изображения.
 
 ```csharp
 public int BwPresetKind { get; set; }

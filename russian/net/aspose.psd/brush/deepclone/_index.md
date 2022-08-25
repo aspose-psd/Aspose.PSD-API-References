@@ -1,14 +1,14 @@
 ---
 title: DeepClone
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает новый глубокий клон текущегоBrushaspose.psd/brush.
+description: Создает новый глубокий клон текущегоBrushaspose.psd/brush .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/brush/deepclone/
 ---
 ## Brush.DeepClone method
 
-Создает новый глубокий клон текущего[`Brush`](../../brush).
+Создает новый глубокий клон текущего[`Brush`](../../brush) .
 
 ```csharp
 public virtual Brush DeepClone()
@@ -16,7 +16,7 @@ public virtual Brush DeepClone()
 
 ### Возвращаемое значение
 
-Новый[`Brush`](../../brush)который является глубоким клоном этого[`Brush`](../../brush)Экземпляр.
+новый[`Brush`](../../brush) который является глубоким клоном этого[`Brush`](../../brush) пример.
 
 ### Смотрите также
 

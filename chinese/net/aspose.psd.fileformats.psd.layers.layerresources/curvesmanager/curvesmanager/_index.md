@@ -1,14 +1,14 @@
 ---
 title: CurvesManager
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化CurvesManageraspose.psd.fileformats.psd.layers.layerresources/curvesmanager类的新实例
+description: 初始化CurvesManageraspose.psd.fileformats.psd.layers.layerresources/curvesmanager类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/curvesmanager/
 ---
 ## CurvesManager constructor
 
-初始化[`CurvesManager`](../../curvesmanager)类的新实例。
+初始化[`CurvesManager`](../../curvesmanager)类.
 
 ```csharp
 public CurvesManager(int maxChannelCount)

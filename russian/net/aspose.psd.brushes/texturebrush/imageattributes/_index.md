@@ -1,14 +1,14 @@
 ---
 title: ImageAttributes
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает атрибутImageAttributesaspose.psd.brushes/texturebrush/imageattributes связанный с этимТекстурнаякисть.
+description: ПолучаетImageAttributesaspose.psd.brushes/texturebrush/imageattributes связанные с этимTextureBrushaspose.psd.brushes/texturebrush .
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.brushes/texturebrush/imageattributes/
 ---
 ## TextureBrush.ImageAttributes property
 
-Получает атрибут`ImageAttributes`, связанный с этимТекстурнаякисть.
+Получает`ImageAttributes` связанные с этим[`TextureBrush`](../../texturebrush) .
 
 ```csharp
 public ImageAttributes ImageAttributes { get; }

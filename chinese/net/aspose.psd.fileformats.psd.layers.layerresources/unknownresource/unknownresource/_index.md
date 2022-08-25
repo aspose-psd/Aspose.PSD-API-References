@@ -1,14 +1,14 @@
 ---
 title: UnknownResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化UnknownResourceaspose.psd.fileformats.psd.layers.layerresources/unknownresource类的新实例
+description: 初始化UnknownResourceaspose.psd.fileformats.psd.layers.layerresources/unknownresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/unknownresource/
 ---
 ## UnknownResource constructor
 
-初始化[`UnknownResource`](../../unknownresource)类的新实例。
+初始化[`UnknownResource`](../../unknownresource)类.
 
 ```csharp
 public UnknownResource(int signature, int key)

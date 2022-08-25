@@ -16,7 +16,7 @@ public short Cyan { get; set; }
 
 ### 适当的价值
 
-青色。
+青色.
 
 ### 也可以看看
 

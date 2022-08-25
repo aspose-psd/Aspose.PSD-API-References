@@ -1,14 +1,14 @@
 ---
 title: StringStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаStringStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure.
+description: Инициализирует новый экземплярStringStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/stringstructure/
 ---
 ## StringStructure(ClassID) {#constructor}
 
-Инициализирует новый экземпляр класса[`StringStructure`](../../stringstructure).
+Инициализирует новый экземпляр[`StringStructure`](../../stringstructure) класс.
 
 ```csharp
 public StringStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public StringStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public StringStructure(ClassID keyName)
 
 ## StringStructure(ClassID, string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`StringStructure`](../../stringstructure)со значением.
+Инициализирует новый экземпляр[`StringStructure`](../../stringstructure)класс со значением.
 
 ```csharp
 public StringStructure(ClassID keyName, string value)
@@ -37,7 +37,7 @@ public StringStructure(ClassID keyName, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 | value | String | Значение. |
 
 ### Примеры

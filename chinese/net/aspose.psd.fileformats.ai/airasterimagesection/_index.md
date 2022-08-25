@@ -25,12 +25,12 @@ public sealed class AiRasterImageSection
 | [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name) { get; } | 获取光栅图像的名称。 |
 | [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx) { get; } | 获取偏移量 X。 |
 | [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety) { get; } | 获取偏移量 Y。 |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels) { get; } | 获取 int 颜色像素数组。 |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels) { get; } | 获取 int 颜色像素的数组。 |
 | [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width) { get; } | 获取宽度。 |
 
 ### 例子
 
-以下代码演示如何在 AI 格式文件中加载光栅图像的设置。
+以下代码演示了如何在 AI 格式文件中加载光栅图像的设置。
 
 ```csharp
 [C#]

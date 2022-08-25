@@ -3,7 +3,7 @@ title: VectorPathDataResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс VectorPathDataResource. Этот ресурс содержит информацию о маске векторного слоя
 type: docs
-weight: 3230
+weight: 3280
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/
 ---
 ## VectorPathDataResource class
@@ -19,12 +19,12 @@ public abstract class VectorPathDataResource : LayerResource, IVectorPathData
 | Имя | Описание |
 | --- | --- |
 | [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | Получает или задает значение, указывающее, отключен ли этот экземпляр. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | Получает или задает значение, указывающее, инвертирован ли данный экземпляр. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | Получает или задает значение, указывающее, инвертирован ли этот экземпляр. |
 | [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked) { get; set; } | Получает или задает значение, указывающее, не связан ли этот экземпляр. |
 | abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths) { get; set; } | Получает или задает записи пути. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature) { get; } | Получает подпись. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version) { get; set; } | Получает или задает версию. |
 
@@ -33,11 +33,11 @@ public abstract class VectorPathDataResource : LayerResource, IVectorPathData
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Примеры
 
-Следующий пример демонстрирует поддержку обработки векторных масок слоя. Как работает редактирование контуров и как Aspose.PSD рисует финальное изображение.
+В следующем примере демонстрируется поддержка обработки векторных масок слоя. Как работает редактирование контуров и как Aspose.PSD рисует финальное изображение.
 
 ```csharp
 [C#]

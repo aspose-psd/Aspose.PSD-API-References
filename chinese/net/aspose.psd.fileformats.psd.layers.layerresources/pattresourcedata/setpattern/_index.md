@@ -17,7 +17,7 @@ public void SetPattern(int[] pixels, Rectangle bounds)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | pixels | Int32[] | 像素。 |
-| bounds | Rectangle | 边界。 |
+| bounds | Rectangle | 界限。 |
 
 ### 例外
 

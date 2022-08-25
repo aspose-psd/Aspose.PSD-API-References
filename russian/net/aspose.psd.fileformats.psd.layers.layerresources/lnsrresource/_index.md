@@ -3,7 +3,7 @@ title: LnsrResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс lnsrResource.
 type: docs
-weight: 2690
+weight: 2730
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
 ## LnsrResource class
@@ -18,8 +18,8 @@ public class LnsrResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [LnsrResource](lnsrresource#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`LnsrResource`](../lnsrresource). С пользовательским или неизвестным значением |
-| [LnsrResource](lnsrresource#constructor)(LnsrResourceType) | Инициализирует новый экземпляр класса[`LnsrResource`](../lnsrresource). |
+| [LnsrResource](lnsrresource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`LnsrResource`](../lnsrresource) class. С пользовательским или неизвестным значением |
+| [LnsrResource](lnsrresource#constructor)(LnsrResourceType) | Инициализирует новый экземпляр[`LnsrResource`](../lnsrresource) класс. |
 
 ## Характеристики
 
@@ -28,22 +28,22 @@ public class LnsrResource : LayerResource
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data) { get; } | Получает необработанные данные. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature) { get; } | Получает подпись. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value) { get; } | Получает значение как LnsrResourceType, если описано соответствующее перечисление. В противном случае вернуть Unknown |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value) { get; } | Получает значение LnsrResourceType, если описано соответствующее перечисление. В противном случае возвращает Unknown |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

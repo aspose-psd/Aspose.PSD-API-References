@@ -1,14 +1,14 @@
 ---
 title: DrawRectangles
 second_title: Aspose.PSD for .NET API 参考
-description: 绘制一系列由RectangleFaspose.psd/rectanglef结构指定的矩形
+description: 绘制一系列由指定的矩形RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 310
 url: /zh/net/aspose.psd/graphics/drawrectangles/
 ---
 ## DrawRectangles(Pen, RectangleF[]) {#drawrectangles}
 
-绘制一系列由[`RectangleF`](../../rectanglef)结构指定的矩形。
+绘制一系列由指定的矩形[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public void DrawRectangles(Pen pen, RectangleF[] rects)
@@ -16,14 +16,14 @@ public void DrawRectangles(Pen pen, RectangleF[] rects)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定矩形轮廓的颜色、宽度和样式。 |
-| rects | RectangleF[] | [`RectangleF`](../../rectanglef)结构的数组，表示要绘制的矩形。 |
+| pen | Pen | [`Pen`](../../pen)它决定了矩形轮廓的颜色、宽度和样式。 |
+| rects | RectangleF[] | 数组[`RectangleF`](../../rectanglef)表示要绘制的矩形的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 - 或 - *rects*为空。 |
+| ArgumentNullException | *pen*为空。 -或- *rects*一片空白。 |
 
 ### 也可以看看
 
@@ -37,7 +37,7 @@ public void DrawRectangles(Pen pen, RectangleF[] rects)
 
 ## DrawRectangles(Pen, Rectangle[]) {#drawrectangles_1}
 
-绘制一系列由[`Rectangle`](../../rectangle)结构指定的矩形。
+绘制一系列由指定的矩形[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public void DrawRectangles(Pen pen, Rectangle[] rects)
@@ -45,14 +45,14 @@ public void DrawRectangles(Pen pen, Rectangle[] rects)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定矩形轮廓的颜色、宽度和样式。 |
-| rects | Rectangle[] | [`Rectangle`](../../rectangle)结构的数组，表示要绘制的矩形。 |
+| pen | Pen | [`Pen`](../../pen)它决定了矩形轮廓的颜色、宽度和样式。 |
+| rects | Rectangle[] | 数组[`Rectangle`](../../rectangle)表示要绘制的矩形的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 - 或 - *rects*为空。 |
+| ArgumentNullException | *pen*为空。 -或- *rects*一片空白。 |
 
 ### 例子
 

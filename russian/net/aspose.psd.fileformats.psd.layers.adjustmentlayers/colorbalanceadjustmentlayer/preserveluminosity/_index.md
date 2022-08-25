@@ -1,14 +1,14 @@
 ---
 title: PreserveLuminosity
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее сохраняет ли этотBlncResourceaspose.psd.fileformats.psd.layers.layerresources/blncresourceяркость.
+description: Получает или задает значение указывающее является ли этоBlncResourceaspose.psd.fileformats.psd.layers.layerresources/blncresource сохраняет яркость.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/preserveluminosity/
 ---
 ## ColorBalanceAdjustmentLayer.PreserveLuminosity property
 
-Получает или задает значение, указывающее, сохраняет ли этот[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource)яркость.
+Получает или задает значение, указывающее, является ли это[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource) сохраняет яркость.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
@@ -16,7 +16,7 @@ public bool PreserveLuminosity { get; set; }
 
 ### Стоимость имущества
 
-` true` если сохраняет светимость; в противном случае` false` .
+`истинный` если он сохраняет светимость; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 

@@ -1,14 +1,14 @@
 ---
 title: FixedPointDecimal
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化FixedPointDecimalaspose.psd.fileformats.psd.resources/fixedpointdecimal类的新实例
+description: 初始化FixedPointDecimalaspose.psd.fileformats.psd.resources/fixedpointdecimal类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fixedpointdecimal/
 ---
 ## FixedPointDecimal(int, int) {#constructor_1}
 
-初始化[`FixedPointDecimal`](../../fixedpointdecimal)类的新实例。
+初始化[`FixedPointDecimal`](../../fixedpointdecimal)类.
 
 ```csharp
 public FixedPointDecimal(int integer, int fraction)
@@ -29,7 +29,7 @@ public FixedPointDecimal(int integer, int fraction)
 
 ## FixedPointDecimal(long) {#constructor_2}
 
-初始化[`FixedPointDecimal`](../../fixedpointdecimal)类的新实例。将 32 位整数的高位字和低位字拆分为定点数。
+初始化[`FixedPointDecimal`](../../fixedpointdecimal)班级。将32位整数的高低字拆分成定点数。
 
 ```csharp
 public FixedPointDecimal(long value)
@@ -37,7 +37,7 @@ public FixedPointDecimal(long value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Int64 | 值。 |
+| value | Int64 | 价值。 |
 
 ### 也可以看看
 
@@ -49,7 +49,7 @@ public FixedPointDecimal(long value)
 
 ## FixedPointDecimal(double) {#constructor}
 
-初始化[`FixedPointDecimal`](../../fixedpointdecimal)类的新实例。
+初始化[`FixedPointDecimal`](../../fixedpointdecimal)类.
 
 ```csharp
 public FixedPointDecimal(double value)
@@ -57,7 +57,7 @@ public FixedPointDecimal(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 值。 |
+| value | Double | 价值。 |
 
 ### 例外
 

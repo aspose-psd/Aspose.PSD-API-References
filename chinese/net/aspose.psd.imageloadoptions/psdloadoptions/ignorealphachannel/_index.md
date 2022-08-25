@@ -1,14 +1,14 @@
 ---
 title: IgnoreAlphaChannel
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否忽略 alpha 通道
+description: 获取或设置一个值指示是否忽略 alpha 通道.
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/
 ---
 ## PsdLoadOptions.IgnoreAlphaChannel property
 
-获取或设置一个值，指示是否[忽略 alpha 通道]。
+获取或设置一个值，指示是否[忽略 alpha 通道].
 
 ```csharp
 public bool IgnoreAlphaChannel { get; set; }
@@ -16,7 +16,7 @@ public bool IgnoreAlphaChannel { get; set; }
 
 ### 适当的价值
 
-` true` if [忽略 alpha 通道]；否则，` false` 。
+`真的` if [忽略 alpha 通道];否则，`错误的` .
 
 ### 也可以看看
 

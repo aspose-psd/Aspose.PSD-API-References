@@ -1,14 +1,14 @@
 ---
 title: DrawLine
 second_title: Aspose.PSD for .NET API 参考
-description: 绘制一条连接两个Pointaspose.psd/point结构的线
+description: 画一条线连接两个Pointaspose.psd/point结构.
 type: docs
 weight: 250
 url: /zh/net/aspose.psd/graphics/drawline/
 ---
 ## DrawLine(Pen, Point, Point) {#drawline}
 
-绘制一条连接两个[`Point`](../../point)结构的线。
+画一条线连接两个[`Point`](../../point)结构.
 
 ```csharp
 public void DrawLine(Pen pen, Point point1, Point point2)
@@ -16,15 +16,15 @@ public void DrawLine(Pen pen, Point point1, Point point2)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定线条的颜色、宽度和样式。 |
-| point1 | Point | [`Point`](../../point)结构，表示要连接的第一个点。 |
-| point2 | Point | [`Point`](../../point)结构，表示要连接的第二个点。 |
+| pen | Pen | [`Pen`](../../pen)它决定了线条的颜色、宽度和样式。 |
+| point1 | Point | [`Point`](../../point)表示要连接的第一个点的结构。 |
+| point2 | Point | [`Point`](../../point)表示要连接的第二个点的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -38,7 +38,7 @@ public void DrawLine(Pen pen, Point point1, Point point2)
 
 ## DrawLine(Pen, PointF, PointF) {#drawline_1}
 
-绘制一条连接两个[`PointF`](../../pointf)结构的线。
+画一条线连接两个[`PointF`](../../pointf)结构.
 
 ```csharp
 public void DrawLine(Pen pen, PointF point1, PointF point2)
@@ -46,15 +46,15 @@ public void DrawLine(Pen pen, PointF point1, PointF point2)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定线条的颜色、宽度和样式。 |
-| point1 | PointF | [`PointF`](../../pointf)结构，表示要连接的第一个点。 |
-| point2 | PointF | [`PointF`](../../pointf)结构，表示要连接的第二个点。 |
+| pen | Pen | [`Pen`](../../pen)它决定了线条的颜色、宽度和样式。 |
+| point1 | PointF | [`PointF`](../../pointf)表示要连接的第一个点的结构。 |
+| point2 | PointF | [`PointF`](../../pointf)表示要连接的第二个点的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -68,7 +68,7 @@ public void DrawLine(Pen pen, PointF point1, PointF point2)
 
 ## DrawLine(Pen, int, int, int, int) {#drawline_2}
 
-绘制一条连接坐标对指定的两个点的线。
+绘制一条连接由坐标对指定的两个点的线。
 
 ```csharp
 public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
@@ -76,7 +76,7 @@ public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定线条的颜色、宽度和样式。 |
+| pen | Pen | [`Pen`](../../pen)它决定了线条的颜色、宽度和样式。 |
 | x1 | Int32 | 第一个点的 x 坐标。 |
 | y1 | Int32 | 第一个点的 y 坐标。 |
 | x2 | Int32 | 第二个点的 x 坐标。 |
@@ -86,7 +86,7 @@ public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -99,7 +99,7 @@ public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
 
 ## DrawLine(Pen, float, float, float, float) {#drawline_3}
 
-绘制一条连接坐标对指定的两个点的线。
+绘制一条连接由坐标对指定的两个点的线。
 
 ```csharp
 public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
@@ -107,7 +107,7 @@ public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定线条的颜色、宽度和样式。 |
+| pen | Pen | [`Pen`](../../pen)它决定了线条的颜色、宽度和样式。 |
 | x1 | Single | 第一个点的 x 坐标。 |
 | y1 | Single | 第一个点的 y 坐标。 |
 | x2 | Single | 第二个点的 x 坐标。 |
@@ -117,7 +117,7 @@ public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 

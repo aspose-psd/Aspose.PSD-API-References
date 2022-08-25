@@ -3,7 +3,7 @@ title: Jpeg2000Options
 second_title: Aspose.PSD for .NET API 参考
 description: Jpeg2000 文件格式选项
 type: docs
-weight: 4710
+weight: 4760
 url: /zh/net/aspose.psd.imageoptions/jpeg2000options/
 ---
 ## Jpeg2000Options class
@@ -18,26 +18,26 @@ public class Jpeg2000Options : ImageOptionsBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Jpeg2000Options](jpeg2000options#constructor)() | 初始化[`Jpeg2000Options`](../jpeg2000options)类的新实例。 |
-| [Jpeg2000Options](jpeg2000options#constructor_1)(Jpeg2000Options) | 初始化[`Jpeg2000Options`](../jpeg2000options)类的新实例。 |
+| [Jpeg2000Options](jpeg2000options#constructor)() | 初始化[`Jpeg2000Options`](../jpeg2000options)类. |
+| [Jpeg2000Options](jpeg2000options#constructor_1)(Jpeg2000Options) | 初始化[`Jpeg2000Options`](../jpeg2000options)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | 获取或设置缓冲区大小提示，该提示定义了所有内部缓冲区的最大允许大小。 |
-| [Codec](../../aspose.psd.imageoptions/jpeg2000options/codec) { get; set; } | 获取或设置 JPEG2000 编解码器 |
+| [Codec](../../aspose.psd.imageoptions/jpeg2000options/codec) { get; set; } | 获取或设置JPEG2000编解码器 |
 | [Comments](../../aspose.psd.imageoptions/jpeg2000options/comments) { get; set; } | 获取或设置 Jpeg 注释标记。 |
-| [CompressionRatios](../../aspose.psd.imageoptions/jpeg2000options/compressionratios) { get; set; } | 获取或设置压缩比数组。 连续层的不同压缩比。 为每个质量级别指定的速率是所需的 压缩因子。 需要降低比率。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（如果系统中未显示 PSD 文件中的现有图层字体，则在导出为栅格时用于绘制文本的字体）。 下一个代码片段可以使用默认字体的正确名称： System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] 系列 = col.Families; 字符串 defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]。 |
+| [CompressionRatios](../../aspose.psd.imageoptions/jpeg2000options/compressionratios) { get; set; } | 获取或设置压缩比数组。 连续层的不同压缩比。 为每个质量级别指定的速率是期望的 压缩因子。 需要减小的比率。 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果 PSD 文件中的现有图层字体未在系统中显示）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]. |
 | [Irreversible](../../aspose.psd.imageoptions/jpeg2000options/irreversible) { get; set; } | 获取或设置一个值，该值指示是使用不可逆的 DWT 9-7（真）还是使用无损 DWT 5-3 压缩（默认）。 |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | 多页选项 |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | 获取或设置调色板。 |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | 获取或设置进度事件处理程序。 |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | 获取或设置分辨率设置。 |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置创建图像的源。 |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置要在其中创建图像的源。 |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | 获取或设置矢量光栅化选项。 |
 | override [XmpData](../../aspose.psd.imageoptions/jpeg2000options/xmpdata) { get; set; } | 获取或设置 XMP 元数据容器。 |
 
@@ -46,11 +46,11 @@ public class Jpeg2000Options : ImageOptionsBase
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | 克隆此实例。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
 
 ### 例子
 
-此示例演示如何使用 SaveOptions 命名空间中的不同类进行导出。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
+此示例演示了将 SaveOptions 命名空间中的不同类用于导出目的。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
 
 ```csharp
 [C#]

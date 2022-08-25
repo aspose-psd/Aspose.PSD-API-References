@@ -1,14 +1,14 @@
 ---
 title: ImageResizeSettings
 second_title: Aspose.PSD for .NET API 参考
-description: 图片调整大小设置类
+description: 图像调整大小设置类
 type: docs
-weight: 4880
+weight: 4930
 url: /zh/net/aspose.psd/imageresizesettings/
 ---
 ## ImageResizeSettings class
 
-图片调整大小设置类
+图像调整大小设置类
 
 ```csharp
 public class ImageResizeSettings
@@ -25,8 +25,8 @@ public class ImageResizeSettings
 | 姓名 | 描述 |
 | --- | --- |
 | [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod) { get; set; } | 获取或设置颜色比较方法。 |
-| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod) { get; set; } | 获取或设置颜色量化方式。 |
-| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount) { get; set; } | 获取或设置条目数 |
+| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod) { get; set; } | 获取或设置颜色量化方法 |
+| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount) { get; set; } | 获取或设置条目计数 |
 | [FilterType](../../aspose.psd/imageresizesettings/filtertype) { get; set; } | 获取或设置过滤器的类型。 |
 | [Mode](../../aspose.psd/imageresizesettings/mode) { get; set; } | 获取或设置插值模式。 |
 

@@ -3,7 +3,7 @@ title: DoubleStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Двойная структура.
 type: docs
-weight: 3040
+weight: 3090
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/
 ---
 ## DoubleStructure class
@@ -18,7 +18,7 @@ public sealed class DoubleStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [DoubleStructure](doublestructure)(ClassID) | Инициализирует новый экземпляр класса[`DoubleStructure`](../doublestructure). |
+| [DoubleStructure](doublestructure)(ClassID) | Инициализирует новый экземпляр[`DoubleStructure`](../doublestructure) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public sealed class DoubleStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value) { get; set; } | Получает или задает двойное значение. |
 
 ## Методы

@@ -1,14 +1,14 @@
 ---
 title: Contents
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает содержимое слоя смарт-объекта. Содержимое встроенного смарт-объекта представляет собой файл встроенного необработанного изображенияDataaspose.psd.fileformats.psd.layers.layerresources/lifddatasource/dataи его свойства. Содержимое связанного смарт-объекта  это необработанное содержимое связанного файла изображения если оно доступно и его свойстваLiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource. Мы не поддерживаем загрузку из графической библиотеки Adobe Photoshop когдаIsLibraryLinkaspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylinkимеет значение true . Для файлов с обычными ссылками сначала используемRelativePathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepathдля поиска файла относительно на путь к исходному изображениюSourceImagePath если он недоступен смотрим наFullPathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath если нет то ищем файл ссылки в той же директории где наш образSourceImagePath.
+description: Получает или задает содержимое слоя смартобъекта. Содержимое встроенного смартобъекта представляет собой встроенный файл необработанного изображенияDataaspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data и его свойства. Содержимое связанного смартобъекта  это необработанное содержимое связанного файла изображения если оно доступно и его свойстваLiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource . Мы не поддерживаем загрузку из графической библиотеки Adobe Photoshop  приIsLibraryLinkaspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink верно. Для обычных файлов ссылок сначала используетсяRelativePathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath искать файл относительно пути к исходному изображениюSourceImagePath  если нет в наличии смотримFullPathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath  если нет то ищем файл ссылки в той же директории где наш образSourceImagePath .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
 ## SmartObjectLayer.Contents property
 
-Получает или задает содержимое слоя смарт-объекта. Содержимое встроенного смарт-объекта представляет собой файл встроенного необработанного изображения:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data)и его свойства. Содержимое связанного смарт-объекта — это необработанное содержимое связанного файла изображения, если оно доступно, и его свойства:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource). Мы не поддерживаем загрузку из графической библиотеки Adobe� Photoshop�, когда[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink)имеет значение true . Для файлов с обычными ссылками сначала используем[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath)для поиска файла относительно на путь к исходному изображениюSourceImagePath, если он недоступен смотрим на[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath), если нет то ищем файл ссылки в той же директории где наш образ:SourceImagePath.
+Получает или задает содержимое слоя смарт-объекта. Содержимое встроенного смарт-объекта представляет собой встроенный файл необработанного изображения:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data) и его свойства. Содержимое связанного смарт-объекта — это необработанное содержимое связанного файла изображения, если оно доступно, и его свойства:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource) . Мы не поддерживаем загрузку из графической библиотеки Adobe� Photoshop� � при[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink) верно. Для обычных файлов ссылок сначала используется[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath) искать файл относительно пути к исходному изображениюSourceImagePath , если нет в наличии смотрим[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath) , если нет то ищем файл ссылки в той же директории где наш образ:SourceImagePath .
 
 ```csharp
 public byte[] Contents { get; set; }
@@ -16,7 +16,7 @@ public byte[] Contents { get; set; }
 
 ### Стоимость имущества
 
-Содержимое слояbyte[]смарт-объекта.
+byte[] содержимое слоя смарт-объекта.
 
 ### Исключения
 

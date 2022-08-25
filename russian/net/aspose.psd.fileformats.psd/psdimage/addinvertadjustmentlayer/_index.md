@@ -20,7 +20,7 @@ public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 
 ### Примеры
 
-Следующий код демонстрирует поддержку InvertAdjustmentLayer и как добавить InvertAdjustmentLayer.
+Следующий код демонстрирует поддержку InvertAdjustmentLayer и способ добавления InvertAdjustmentLayer.
 
 ```csharp
 [C#]

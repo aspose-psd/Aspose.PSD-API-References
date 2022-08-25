@@ -1,14 +1,14 @@
 ---
 title: ReplaceContents
 second_title: Aspose.PSD for .NET API 参考
-description: 替换嵌入在智能对象层中的智能对象内容
+description: 替换智能对象层中嵌入的智能对象内容
 type: docs
 weight: 140
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
 ---
 ## ReplaceContents(Image) {#replacecontents}
 
-替换嵌入在智能对象层中的智能对象内容。
+替换智能对象层中嵌入的智能对象内容。
 
 ```csharp
 public void ReplaceContents(Image image)
@@ -16,7 +16,7 @@ public void ReplaceContents(Image image)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Image | 图像。 |
+| image | Image | 图片。 |
 
 ### 例子
 
@@ -106,7 +106,7 @@ foreach (FileFormat format in formats)
 
 ## ReplaceContents(Image, ResolutionSetting) {#replacecontents_1}
 
-替换嵌入在智能对象层中的智能对象内容。
+替换智能对象层中嵌入的智能对象内容。
 
 ```csharp
 public void ReplaceContents(Image image, ResolutionSetting resolution)
@@ -114,18 +114,18 @@ public void ReplaceContents(Image image, ResolutionSetting resolution)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | Image | 图像。 |
+| image | Image | 图片。 |
 | resolution | ResolutionSetting | 分辨率设置。如果为 null，则将使用图像分辨率。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 只能替换嵌入的智能对象。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 只能替换嵌入式智能对象。 |
 
 ### 例子
 
-此示例演示当新内容文件具有不同的分辨率时，ReplaceContents 方法可以正常工作。
+此示例演示 ReplaceContents 方法在新内容文件具有不同分辨率时正常工作。
 
 ```csharp
 [C#]
@@ -166,7 +166,7 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 
 ## ReplaceContents(string, ResolutionSetting) {#replacecontents_3}
 
-将内容替换为文件。 之后不需要调用UpdateModifiedContent 方法。
+将内容替换为文件。 之后无需调用UpdateModifiedContent 方法。
 
 ```csharp
 public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
@@ -174,12 +174,12 @@ public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| linkedPath | String | 链接路径。 |
+| linkedPath | String | 链接的路径。 |
 | resolution | ResolutionSetting | 分辨率设置。如果为 null，则将使用图像分辨率。 |
 
 ### 例子
 
-此示例演示了当新内容文件具有不同的分辨率时，ReplaceContents 方法可以正常工作。
+此示例演示 ReplaceContents 方法在新内容文件具有不同分辨率时正常工作。
 
 ```csharp
 [C#]
@@ -219,7 +219,7 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 
 ## ReplaceContents(string) {#replacecontents_2}
 
-将内容替换为文件。 之后不需要调用UpdateModifiedContent 方法。
+将内容替换为文件。 之后无需调用UpdateModifiedContent 方法。
 
 ```csharp
 public void ReplaceContents(string linkedPath)
@@ -227,7 +227,7 @@ public void ReplaceContents(string linkedPath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| linkedPath | String | 链接路径。 |
+| linkedPath | String | 链接的路径。 |
 
 ### 例子
 

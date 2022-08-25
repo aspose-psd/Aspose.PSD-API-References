@@ -1,14 +1,14 @@
 ---
 title: Saturation
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение насыщенности
+description: Получает или устанавливает значение насыщенности
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation/
 ---
 ## VibAResource.Saturation property
 
-Получает или задает значение насыщенности
+Получает или устанавливает значение насыщенности
 
 ```csharp
 public int Saturation { get; set; }

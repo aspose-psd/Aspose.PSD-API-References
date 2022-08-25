@@ -3,7 +3,7 @@ title: TiffExifIfd
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс каталога файлов изображений TIFF Exif.
 type: docs
-weight: 4100
+weight: 4150
 url: /ru/net/aspose.psd.fileformats.tiff/tiffexififd/
 ---
 ## TiffExifIfd class
@@ -18,8 +18,8 @@ public class TiffExifIfd
 
 | Имя | Описание |
 | --- | --- |
-| [TiffExifIfd](tiffexififd#constructor)() | Инициализирует новый экземпляр класса[`TiffExifIfd`](../tiffexififd). |
-| [TiffExifIfd](tiffexififd#constructor_1)(uint) | Инициализирует новый экземпляр класса[`TiffExifIfd`](../tiffexififd). |
+| [TiffExifIfd](tiffexififd#constructor)() | Инициализирует новый экземпляр[`TiffExifIfd`](../tiffexififd) класс. |
+| [TiffExifIfd](tiffexififd#constructor_1)(uint) | Инициализирует новый экземпляр[`TiffExifIfd`](../tiffexififd) класс. |
 
 ## Характеристики
 
@@ -30,7 +30,7 @@ public class TiffExifIfd
 
 ### Примечания
 
-Инкапсулирует указатель на Exif IFD. Совместимость Exif IFD имеет ту же структуру, что и IFD, указанный в TIFF. однако обычно он не содержит данных изображения, как в случае TIFF. Подробнее см. http://www.exiv2.org/tags.html и http://www.awaresystems.be/imaging/tiff/tifftags/exififd.html.
+Инкапсулирует указатель на Exif IFD. Совместимость Exif IFD имеет ту же структуру, что и IFD, указанный в TIFF. однако обычно он не содержит данных изображения, как в случае TIFF. См. http://www.exiv2.org/tags.html и http://www.awaresystems.be/imaging/tiff/tifftags/exififd .html для более подробной информации.
 
 ### Смотрите также
 

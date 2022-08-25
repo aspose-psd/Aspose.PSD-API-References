@@ -16,7 +16,7 @@ public short Black { get; set; }
 
 ### 适当的价值
 
-黑色。
+黑色的.
 
 ### 也可以看看
 

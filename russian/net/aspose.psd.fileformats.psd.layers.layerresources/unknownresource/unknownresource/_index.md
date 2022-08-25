@@ -1,14 +1,14 @@
 ---
 title: UnknownResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаUnknownResourceaspose.psd.fileformats.psd.layers.layerresources/unknownresource.
+description: Инициализирует новый экземплярUnknownResourceaspose.psd.fileformats.psd.layers.layerresources/unknownresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/unknownresource/
 ---
 ## UnknownResource constructor
 
-Инициализирует новый экземпляр класса[`UnknownResource`](../../unknownresource).
+Инициализирует новый экземпляр[`UnknownResource`](../../unknownresource) класс.
 
 ```csharp
 public UnknownResource(int signature, int key)

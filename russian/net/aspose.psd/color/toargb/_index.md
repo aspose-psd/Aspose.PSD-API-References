@@ -1,14 +1,14 @@
 ---
 title: ToArgb
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает 32-битное значение ARGB этойColoraspose.psd/colorструктуры.
+description: Получает 32битное значение ARGB этогоColoraspose.psd/colorструктура.
 type: docs
 weight: 1590
 url: /ru/net/aspose.psd/color/toargb/
 ---
 ## Color.ToArgb method
 
-Получает 32-битное значение ARGB этой[`Color`](../../color)структуры.
+Получает 32-битное значение ARGB этого[`Color`](../../color)структура.
 
 ```csharp
 public int ToArgb()

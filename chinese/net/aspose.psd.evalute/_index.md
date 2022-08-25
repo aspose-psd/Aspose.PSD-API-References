@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.Evalute
 second_title: Aspose.PSD for .NET API 参考
-description: 命名空间 DIB 标头处理
+description: 命名空间DIB头处理
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.evalute/
 ---
-命名空间 DIB 标头处理。
+命名空间DIB头处理。
 
 ## 课程
 

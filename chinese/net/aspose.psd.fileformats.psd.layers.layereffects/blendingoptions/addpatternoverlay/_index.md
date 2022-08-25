@@ -1,14 +1,14 @@
 ---
 title: AddPatternOverlay
 second_title: Aspose.PSD for .NET API 参考
-description: 添加图案叠加
+description: 添加图案叠加层
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
 ## BlendingOptions.AddPatternOverlay method
 
-添加图案叠加。
+添加图案叠加层。
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
@@ -16,7 +16,7 @@ public PatternOverlayEffect AddPatternOverlay()
 
 ### 返回值
 
-已创建[`PatternOverlayEffect`](../../patternoverlayeffect)对象
+已创建[`PatternOverlayEffect`](../../patternoverlayeffect)object
 
 ### 也可以看看
 

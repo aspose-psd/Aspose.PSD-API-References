@@ -1,14 +1,14 @@
 ---
 title: RegisterOpener
 second_title: Aspose.PSD for .NET API 参考
-description: 注册开启者
+description: 注册开瓶器
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener/
 ---
 ## LayerResourcesRegistry.RegisterOpener method
 
-注册开启者。
+注册开瓶器。
 
 ```csharp
 public static void RegisterOpener(ILayerResourceLoader openerDescriptor)
@@ -16,7 +16,7 @@ public static void RegisterOpener(ILayerResourceLoader openerDescriptor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| openerDescriptor | ILayerResourceLoader | 要注册的开启程序描述符。 |
+| openerDescriptor | ILayerResourceLoader | 要注册的开启者描述符。 |
 
 ### 也可以看看
 

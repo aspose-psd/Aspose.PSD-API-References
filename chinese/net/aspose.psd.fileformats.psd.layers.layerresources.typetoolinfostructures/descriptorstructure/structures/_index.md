@@ -1,14 +1,14 @@
 ---
 title: Structures
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置结构
+description: 获取或设置结构数组的副本
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures/
 ---
 ## DescriptorStructure.Structures property
 
-获取或设置结构。
+获取或设置结构数组的副本。
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
@@ -16,7 +16,7 @@ public OSTypeStructure[] Structures { get; set; }
 
 ### 适当的价值
 
-结构。
+结构.
 
 ### 也可以看看
 

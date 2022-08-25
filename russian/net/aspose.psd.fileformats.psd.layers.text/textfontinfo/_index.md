@@ -3,7 +3,7 @@ title: TextFontInfo
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет информацию о шрифте. Этот класс не может быть унаследован.
 type: docs
-weight: 3440
+weight: 3490
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 ---
 ## TextFontInfo class
@@ -22,8 +22,8 @@ public sealed class TextFontInfo
 | [FontType](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype) { get; } | Получает тип шрифта. |
 | [PostScriptName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname) { get; } | Получает имя PostScript |
 | [Script](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/script) { get; } | Получает скрипт. |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style) { get; } | Получает стиль шрифта, проанализированный из имени подсемейства |
-| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic) { get; } | Получает значение, указывающее, является ли этотFontInformationсинтетическим. |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style) { get; } | Получает стиль шрифта, проанализированный из подсемейства name |
+| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic) { get; } | Получает значение, указывающее, является ли этоFontInformation синтетический. |
 
 ### Смотрите также
 

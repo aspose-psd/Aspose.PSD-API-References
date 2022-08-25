@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает координату y этогоPointFaspose.psd/pointf.
+description: Получает или задает координату y этогоPointFaspose.psd/pointf .
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/pointf/y/
 ---
 ## PointF.Y property
 
-Получает или задает координату y этого[`PointF`](../../pointf).
+Получает или задает координату y этого[`PointF`](../../pointf) .
 
 ```csharp
 public float Y { get; set; }

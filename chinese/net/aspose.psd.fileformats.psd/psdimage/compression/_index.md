@@ -1,14 +1,14 @@
 ---
 title: Compression
 second_title: Aspose.PSD for .NET API 参考
-description: 获取压缩方法
+description: 获取压缩方式
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/compression/
 ---
 ## PsdImage.Compression property
 
-获取压缩方法。
+获取压缩方式。
 
 ```csharp
 public CompressionMethod Compression { get; }

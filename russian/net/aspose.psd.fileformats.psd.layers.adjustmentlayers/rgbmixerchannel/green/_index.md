@@ -1,14 +1,14 @@
 ---
 title: Green
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает зеленый цвет.
+description: Получает или задает зеленый цвет.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/
 ---
 ## RgbMixerChannel.Green property
 
-Получает или устанавливает зеленый цвет.
+Получает или задает зеленый цвет.
 
 ```csharp
 public short Green { get; set; }

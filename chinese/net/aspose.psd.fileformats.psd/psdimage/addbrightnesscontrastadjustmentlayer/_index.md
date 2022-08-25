@@ -1,14 +1,14 @@
 ---
 title: AddBrightnessContrastAdjustmentLayer
 second_title: Aspose.PSD for .NET API 参考
-description: 添加亮度/对比度调整层
+description: 添加亮度/对比度调整图层
 type: docs
 weight: 300
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
-添加亮度/对比度调整层。
+添加亮度/对比度调整图层。
 
 ```csharp
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
@@ -17,7 +17,7 @@ public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightne
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | brightness | Int32 | 亮度。 |
-| contrast | Int32 | 对比度。 |
+| contrast | Int32 | 对比。 |
 
 ### 返回值
 

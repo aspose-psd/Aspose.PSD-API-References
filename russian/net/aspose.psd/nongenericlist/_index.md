@@ -3,7 +3,7 @@ title: NonGenericList
 second_title: Справочник по Aspose.PSD для .NET API
 description: Необщий список объектов
 type: docs
-weight: 5030
+weight: 5080
 url: /ru/net/aspose.psd/nongenericlist/
 ---
 ## NonGenericList class
@@ -18,32 +18,32 @@ public class NonGenericList : IList
 
 | Имя | Описание |
 | --- | --- |
-| [NonGenericList](nongenericlist)(IList) | Инициализирует новый экземпляр класса[`NonGenericList`](../nongenericlist). |
+| [NonGenericList](nongenericlist)(IList) | Инициализирует новый экземпляр[`NonGenericList`](../nongenericlist) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.psd/nongenericlist/count) { get; } | Получает количество элементов, содержащихся в коллекцииICollection. |
-| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize) { get; } | Получает значение, указывающее, имеет лиIListфиксированный размер. |
-| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly) { get; } | Получает значение, указывающее, доступен лиIListтолько для чтения. |
-| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized) { get; } | Получает значение, указывающее, является ли доступ кICollectionсинхронизированным (потокобезопасным). |
+| [Count](../../aspose.psd/nongenericlist/count) { get; } | Получает количество элементов, содержащихся вICollection . |
+| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize) { get; } | Получает значение, указывающее,IList имеет фиксированный размер. |
+| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly) { get; } | Получает значение, указывающее,IList доступен только для чтения. |
+| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized) { get; } | Получает значение, указывающее, доступен ли доступ кICollection синхронизирован (потокобезопасный). |
 | [Item](../../aspose.psd/nongenericlist/item) { get; set; } | Получает или задает элемент по указанному индексу. |
-| [SyncRoot](../../aspose.psd/nongenericlist/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа кICollection. |
+| [SyncRoot](../../aspose.psd/nongenericlist/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа кICollection . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.psd/nongenericlist/add)(object) | Добавляет элемент вIList. |
-| [Clear](../../aspose.psd/nongenericlist/clear)() | Удаляет все элементы изIList. |
-| [Contains](../../aspose.psd/nongenericlist/contains)(object) | Определяет, содержит лиIListопределенное значение. |
-| [CopyTo](../../aspose.psd/nongenericlist/copyto)(Array, int) | Копирует элементыICollectionвArray, начиная с определенногоArrayindex. |
+| [Add](../../aspose.psd/nongenericlist/add)(object) | Добавляет элемент вIList . |
+| [Clear](../../aspose.psd/nongenericlist/clear)() | Удаляет все элементы изIList . |
+| [Contains](../../aspose.psd/nongenericlist/contains)(object) | Определяет,IList содержит определенное значение. |
+| [CopyTo](../../aspose.psd/nongenericlist/copyto)(Array, int) | Копирует элементыICollection чтобыArray , начиная с определенногоArray индекс. |
 | [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
-| [IndexOf](../../aspose.psd/nongenericlist/indexof)(object) | Определяет индекс определенного элемента вIList. |
-| [Insert](../../aspose.psd/nongenericlist/insert)(int, object) | Вставляет элемент вIListпо указанному индексу. |
-| [Remove](../../aspose.psd/nongenericlist/remove)(object) | Удаляет первое вхождение определенного объекта изIList. |
-| [RemoveAt](../../aspose.psd/nongenericlist/removeat)(int) | Удаляет элементIListпо указанному индексу. |
+| [IndexOf](../../aspose.psd/nongenericlist/indexof)(object) | Определяет индекс конкретного элемента вIList . |
+| [Insert](../../aspose.psd/nongenericlist/insert)(int, object) | Вставляет элемент вIList по указанному индексу. |
+| [Remove](../../aspose.psd/nongenericlist/remove)(object) | Удаляет первое вхождение определенного объекта изIList . |
+| [RemoveAt](../../aspose.psd/nongenericlist/removeat)(int) | УдаляетIList элемент по указанному индексу. |
 
 ### Смотрите также
 

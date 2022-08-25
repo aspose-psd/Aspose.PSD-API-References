@@ -1,14 +1,14 @@
 ---
 title: JpegOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает параметры JPEG. Подходит когда ресурс эскиза сохраняется только в формате файла JPEG. Этот параметр не действует если задан формат RAW.
+description: Получает или задает параметры JPEG. Подходит когда ресурс эскиза сохраняется только в формате файла JPEG. Этот параметр не действует если определен формат RAW.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions/
 ---
 ## ThumbnailResource.JpegOptions property
 
-Получает или задает параметры JPEG. Подходит, когда ресурс эскиза сохраняется только в формате файла JPEG. Этот параметр не действует, если задан формат RAW.
+Получает или задает параметры JPEG. Подходит, когда ресурс эскиза сохраняется только в формате файла JPEG. Этот параметр не действует, если определен формат RAW.
 
 ```csharp
 public JpegOptions JpegOptions { get; set; }

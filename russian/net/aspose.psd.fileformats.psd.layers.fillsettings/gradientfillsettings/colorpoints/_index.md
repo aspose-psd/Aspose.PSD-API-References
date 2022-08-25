@@ -16,7 +16,7 @@ public IGradientColorPoint[] ColorPoints { get; set; }
 
 ### Стоимость имущества
 
-Цвет точек.
+Очки цвета.
 
 ### Смотрите также
 

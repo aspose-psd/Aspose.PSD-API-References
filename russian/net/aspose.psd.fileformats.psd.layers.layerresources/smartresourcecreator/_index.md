@@ -1,9 +1,9 @@
 ---
 title: SmartResourceCreator
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс SmartResourceCreator который может создавать ресурсы PlLd SoLd и SoLe. Используется для поддержки слоев смарт-объектов в изображениях Adobe Photoshop.
+description: Определяет класс SmartResourceCreator который может создавать ресурсы PlLd SoLd и SoLe. Используется для поддержки слоев смартобъектов в изображениях Adobe Photoshop.
 type: docs
-weight: 2920
+weight: 2970
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
 ## SmartResourceCreator class
@@ -18,9 +18,9 @@ public class SmartResourceCreator
 
 | Имя | Описание |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator#constructor)() | Инициализирует новый экземпляр класса[`SmartResourceCreator`](../smartresourcecreator). |
-| [SmartResourceCreator](smartresourcecreator#constructor_1)(PlacedResource) | Инициализирует новый экземпляр класса[`SmartResourceCreator`](../smartresourcecreator) с заданным шаблоном. |
-| [SmartResourceCreator](smartresourcecreator#constructor_2)(bool, bool) | Инициализирует новый экземпляр класса[`SmartResourceCreator`](../smartresourcecreator). |
+| [SmartResourceCreator](smartresourcecreator#constructor)() | Инициализирует новый экземпляр[`SmartResourceCreator`](../smartresourcecreator) класс. |
+| [SmartResourceCreator](smartresourcecreator#constructor_1)(PlacedResource) | Инициализирует новый экземпляр[`SmartResourceCreator`](../smartresourcecreator) class с заданным шаблоном. |
+| [SmartResourceCreator](smartresourcecreator#constructor_2)(bool, bool) | Инициализирует новый экземпляр[`SmartResourceCreator`](../smartresourcecreator) класс. |
 
 ## Методы
 
@@ -32,7 +32,7 @@ public class SmartResourceCreator
 
 ### Примеры
 
-Следующий код демонстрирует поддержку Ресурсы SoLEResource, SmartObjectResource и PlacedResource.
+Следующий код демонстрирует поддержку ресурсов SoLEResource, SmartObjectResource и PlacedResource.
 
 ```csharp
 [C#]

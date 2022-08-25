@@ -3,7 +3,7 @@ title: LayerResourcesRegistry
 second_title: Aspose.PSD for .NET API 参考
 description: 为 PSD 文件加载定义图层资源注册表
 type: docs
-weight: 3280
+weight: 3330
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
 ## LayerResourcesRegistry class
@@ -26,8 +26,8 @@ public static class LayerResourcesRegistry
 | --- | --- |
 | static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor)(Stream, int) | 获取第一个支持的开启器描述符。 |
 | static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename)(string) | 通过类型名称获取第一个支持的描述符。 |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor)(Stream, int) | 加载[`LayerResource`](../layerresource)使用适合指定*stream*的第一个打开器。 |
-| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener)(ILayerResourceLoader) | 注册开启者。 |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor)(Stream, int) | 加载[`LayerResource`](../layerresource)使用第一个找到的适合指定的开瓶器*stream* . |
+| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener)(ILayerResourceLoader) | 注册开瓶器。 |
 | static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener)(ILayerResourceLoader) | 取消注册开启程序。 |
 
 ### 也可以看看

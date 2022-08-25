@@ -1,14 +1,14 @@
 ---
 title: MaskRectangle
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает маскуRectangleaspose.psd/rectangleмаски слоя в файле PSD. Он принимает свойства left right top и bottom и создаетRectangleaspose.psd/rectangle
+description: Получает или устанавливает маскуRectangleaspose.psd/rectangleмаски слоя в файле PSD. Он принимает левые правые верхние и нижние свойства и создаетRectangleaspose.psd/rectangle
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
 ## LayerMaskData.MaskRectangle property
 
-Получает или задает маску[`Rectangle`](../../../aspose.psd/rectangle)маски слоя в файле PSD. Он принимает свойства left, right, top и bottom и создает[`Rectangle`](../../../aspose.psd/rectangle)
+Получает или устанавливает маску[`Rectangle`](../../../aspose.psd/rectangle)маски слоя в файле PSD. Он принимает левые, правые, верхние и нижние свойства и создает[`Rectangle`](../../../aspose.psd/rectangle)
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }

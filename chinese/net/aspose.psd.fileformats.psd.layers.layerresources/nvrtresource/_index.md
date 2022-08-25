@@ -1,14 +1,14 @@
 ---
 title: NvrtResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 NvrtResource反转调整层的资源
+description: 类 NvrtResource反转调整层资源.
 type: docs
-weight: 2770
+weight: 2820
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
 ## NvrtResource class
 
-类 NvrtResource。反转调整层的资源。
+类 NvrtResource。反转调整层资源.
 
 ```csharp
 public class NvrtResource : AdjustmentLayerResource
@@ -18,15 +18,15 @@ public class NvrtResource : AdjustmentLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [NvrtResource](nvrtresource#constructor)() | 初始化[`NvrtResource`](../nvrtresource)类的新实例。 |
-| [NvrtResource](nvrtresource#constructor_1)(byte[]) | 初始化[`NvrtResource`](../nvrtresource)类的新实例。 |
+| [NvrtResource](nvrtresource#constructor)() | 初始化[`NvrtResource`](../nvrtresource)类. |
+| [NvrtResource](nvrtresource#constructor_1)(byte[]) | 初始化[`NvrtResource`](../nvrtresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion) { get; } | 获取 PSD 版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | 获取签名。 |
 
@@ -35,7 +35,7 @@ public class NvrtResource : AdjustmentLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
@@ -45,7 +45,7 @@ public class NvrtResource : AdjustmentLayerResource
 
 ### 例子
 
-下面的例子演示了如何获取NvrtResource。
+以下示例演示如何获取 NvrtResource。
 
 ```csharp
 [C#]

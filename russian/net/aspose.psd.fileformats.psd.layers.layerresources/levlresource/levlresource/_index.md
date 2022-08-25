@@ -1,14 +1,14 @@
 ---
 title: LevlResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLevlResourceaspose.psd.fileformats.psd.layers.layerresources/levlresource. Поддерживается в цветовых режимах GrayScale Duotone RGB CMYK Lab 2 байта - Версия 2 29  10 байтов - Наборы уровней записи с 5 короткими целыми числами 4 байта - заголовок Lvls начинается с индекса 292 2 байта - версия 3 2 байта - количество общая запись уровня 10  Общее количество - 29 Нулевое окончание ресурса Lvls должно быть свернуто и для четырех
+description: Инициализирует новый экземплярLevlResourceaspose.psd.fileformats.psd.layers.layerresources/levlresource class. Поддерживается в режимах GrayScale Duotone RGB CMYK Lab. 2 байта  Версия 3 2 байта  Счетчик общего уровня record 10  Общий счет  29 Нулевой конец ресурса Lvls должен быть сложен на четыре too
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/levlresource/
 ---
 ## LevlResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LevlResource`](../../levlresource). Поддерживается в цветовых режимах GrayScale, Duotone, RGB, CMYK, Lab 2 байта - Версия (=2) 29 * 10 байтов - Наборы уровней записи с 5 короткими целыми числами 4 байта - заголовок Lvls (начинается с индекса 292) 2 байта - версия (=3) 2 байта - количество общая запись уровня 10 * (Общее количество - 29) Нулевое окончание ресурса Lvls должно быть свернуто и для четырех
+Инициализирует новый экземпляр[`LevlResource`](../../levlresource) class. Поддерживается в режимах GrayScale, Duotone, RGB, CMYK, Lab. 2 байта - Версия (=3) 2 байта - Счетчик общего уровня record 10 * (Общий счет - 29) Нулевой конец ресурса Lvls должен быть сложен на четыре too
 
 ```csharp
 public LevlResource(byte[] bytes)
@@ -28,7 +28,7 @@ public LevlResource(byte[] bytes)
 
 ## LevlResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`LevlResource`](../../levlresource).
+Инициализирует новый экземпляр[`LevlResource`](../../levlresource) класс.
 
 ```csharp
 public LevlResource()

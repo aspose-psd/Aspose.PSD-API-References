@@ -1,14 +1,14 @@
 ---
 title: Saturation
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает основную насыщенность.
+description: Получает или устанавливает основную насыщенность.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
 ## Hue2Resource.Saturation property
 
-Получает или задает основную насыщенность.
+Получает или устанавливает основную насыщенность.
 
 ```csharp
 public short Saturation { get; set; }

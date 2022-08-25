@@ -16,7 +16,7 @@ public double HorizontalScale { get; set; }
 
 ### 例子
 
-下面的代码演示了对新 ITextStyle 属性的支持。
+下面的代码演示了对新 ITextStyle 属性的支持的支持。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: WorkingPathResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化WorkingPathResourceaspose.psd.fileformats.psd.resources/workingpathresource类的新实例
+description: 初始化WorkingPathResourceaspose.psd.fileformats.psd.resources/workingpathresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
 ## WorkingPathResource constructor
 
-初始化[`WorkingPathResource`](../../workingpathresource)类的新实例。
+初始化[`WorkingPathResource`](../../workingpathresource)类.
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
@@ -16,11 +16,11 @@ public WorkingPathResource(byte[] dataBytes)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dataBytes | Byte[] | 向量路径的数据。 |
+| dataBytes | Byte[] | 矢量路径的数据。 |
 
 ### 例子
 
-这个例子演示了 PsdImage.ImageResources 中的“WorkingPathResource”资源的支持，以便正确进行裁剪操作。
+此示例演示了对 PsdImage.ImageResources 中的“WorkingPathResource”资源的支持，以便正确进行裁剪操作。
 
 ```csharp
 [C#]

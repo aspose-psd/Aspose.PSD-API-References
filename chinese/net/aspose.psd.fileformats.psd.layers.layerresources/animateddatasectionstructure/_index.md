@@ -1,14 +1,14 @@
 ---
 title: AnimatedDataSectionStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 带有动画数据的部分
+description: 动画数据部分
 type: docs
-weight: 2240
+weight: 2280
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
 ## AnimatedDataSectionStructure class
 
-带有动画数据的部分。
+动画数据部分。
 
 ```csharp
 public class AnimatedDataSectionStructure : OSTypeStructure
@@ -21,7 +21,7 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items) { get; } | 获取或设置动画数据节结构。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length) { get; } | 获取[`OSTypeStructure`](../ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length) { get; } | 获取[`OSTypeStructure`](../ostypestructure)字节长度。 |
 
 ## 方法
 
@@ -35,7 +35,75 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey) | 标识 AnD 的结构键。 |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey) | 标识AnDs的结构键 |
+
+### 例子
+
+以下代码演示了如何在动画数据的时间轴框架中设置/更新延迟时间。
+
+```csharp
+[C#]
+
+string sourceFile = "3_animated.psd";
+string outputPsd = "output_3_animated.psd";
+
+T FindStructure<T>(IEnumerable<OSTypeStructure> structures, string keyName) where T : OSTypeStructure
+{
+    foreach (var structure in structures)
+    {
+        if (structure.KeyName.ClassName == keyName)
+        {
+            return structure as T;
+        }
+    }
+
+    return null;
+}
+
+OSTypeStructure[] AddOrReplaceStructure(IEnumerable<OSTypeStructure> structures, OSTypeStructure newStructure)
+{
+    List<OSTypeStructure> listOfStructures = new List<OSTypeStructure>(structures);
+
+    for (int i = 0; i < listOfStructures.Count; i++)
+    {
+        OSTypeStructure structure = listOfStructures[i];
+        if (structure.KeyName.ClassName == newStructure.KeyName.ClassName)
+        {
+            listOfStructures.RemoveAt(i);
+            break;
+        }
+    }
+
+    listOfStructures.Add(newStructure);
+
+    return listOfStructures.ToArray();
+}
+
+using (PsdImage image = (PsdImage)Image.Load(sourceFile))
+{
+    foreach (var imageResource in image.ImageResources)
+    {
+        if (imageResource is AnimatedDataSectionResource)
+        {
+            var animatedData =
+                (AnimatedDataSectionStructure) (imageResource as AnimatedDataSectionResource).AnimatedDataSection;
+            var framesList = FindStructure<ListStructure>(animatedData.Items, "FrIn");
+
+            var frame1 = (DescriptorStructure)framesList.Types[1];
+
+            // 创建帧延迟记录，其值为 100 厘秒，等于 1 秒。
+            var frameDelay = new IntegerStructure(new ClassID("FrDl"));
+            frameDelay.Value = 100; // 以厘秒为单位设置时间。
+
+            frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
+
+            break;
+        }
+    }
+
+    image.Save(outputPsd);
+}
+```
 
 ### 也可以看看
 

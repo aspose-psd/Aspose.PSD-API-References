@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задаетStringс указанным именем свойства.
+description: Получает или задаетString с указанным именем свойства.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
 ## AiHeader indexer
 
-Получает или задаетStringс указанным именем свойства.
+Получает или задаетString с указанным именем свойства.
 
 ```csharp
 public string this[string propertyName] { get; set; }
@@ -16,11 +16,11 @@ public string this[string propertyName] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| propertyName | Имя свойства. |
+| propertyName | Название свойства. |
 
 ### Стоимость имущества
 
-TheString.
+String .
 
 ### Смотрите также
 

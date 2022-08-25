@@ -14,6 +14,74 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/an
 public AnimatedDataSectionStructure AnimatedDataSection { get; }
 ```
 
+### Примеры
+
+В следующем коде показано, как установить/обновить время задержки в кадре временной шкалы анимированных данных.
+
+```csharp
+[C#]
+
+string sourceFile = "3_animated.psd";
+string outputPsd = "output_3_animated.psd";
+
+T FindStructure<T>(IEnumerable<OSTypeStructure> structures, string keyName) where T : OSTypeStructure
+{
+    foreach (var structure in structures)
+    {
+        if (structure.KeyName.ClassName == keyName)
+        {
+            return structure as T;
+        }
+    }
+
+    return null;
+}
+
+OSTypeStructure[] AddOrReplaceStructure(IEnumerable<OSTypeStructure> structures, OSTypeStructure newStructure)
+{
+    List<OSTypeStructure> listOfStructures = new List<OSTypeStructure>(structures);
+
+    for (int i = 0; i < listOfStructures.Count; i++)
+    {
+        OSTypeStructure structure = listOfStructures[i];
+        if (structure.KeyName.ClassName == newStructure.KeyName.ClassName)
+        {
+            listOfStructures.RemoveAt(i);
+            break;
+        }
+    }
+
+    listOfStructures.Add(newStructure);
+
+    return listOfStructures.ToArray();
+}
+
+using (PsdImage image = (PsdImage)Image.Load(sourceFile))
+{
+    foreach (var imageResource in image.ImageResources)
+    {
+        if (imageResource is AnimatedDataSectionResource)
+        {
+            var animatedData =
+                (AnimatedDataSectionStructure) (imageResource as AnimatedDataSectionResource).AnimatedDataSection;
+            var framesList = FindStructure<ListStructure>(animatedData.Items, "FrIn");
+
+            var frame1 = (DescriptorStructure)framesList.Types[1];
+
+            // Создает запись задержки кадра со значением 100 сантисекунд, что равно 1 секунде.
+            var frameDelay = new IntegerStructure(new ClassID("FrDl"));
+            frameDelay.Value = 100; // установить время в сантисекундах.
+
+            frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
+
+            break;
+        }
+    }
+
+    image.Save(outputPsd);
+}
+```
+
 ### Смотрите также
 
 * class [AnimatedDataSectionStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure)

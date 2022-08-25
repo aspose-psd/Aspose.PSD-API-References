@@ -16,7 +16,7 @@ public float GammaCorrection { get; set; }
 
 ### 适当的价值
 
-GammaCorrection。
+伽玛校正.
 
 ### 也可以看看
 

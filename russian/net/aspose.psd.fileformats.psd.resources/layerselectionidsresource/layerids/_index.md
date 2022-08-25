@@ -1,14 +1,14 @@
 ---
 title: LayerIds
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает идентификаторы слоев.
+description: Получает или задает идентификаторы слоя.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids/
 ---
 ## LayerSelectionIdsResource.LayerIds property
 
-Получает или задает идентификаторы слоев.
+Получает или задает идентификаторы слоя.
 
 ```csharp
 public int[] LayerIds { get; set; }

@@ -3,7 +3,7 @@ title: VibAResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Ресурс VibA.
 type: docs
-weight: 3240
+weight: 3290
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 ---
 ## VibAResource class
@@ -18,7 +18,7 @@ public class VibAResource : AdjustmentLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [VibAResource](vibaresource)() | Инициализирует новый экземпляр класса[`VibAResource`](../vibaresource). |
+| [VibAResource](vibaresource)() | Инициализирует новый экземпляр[`VibAResource`](../vibaresource) класс. |
 
 ## Характеристики
 
@@ -26,27 +26,27 @@ public class VibAResource : AdjustmentLayerResource
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion) { get; } | Получает версию в формате psd. |
-| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation) { get; set; } | Получает или задает значение насыщенности |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion) { get; } | Получает версию psd. |
+| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation) { get; set; } | Получает или устанавливает значение насыщенности |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Получает подпись. |
-| [Vibrance](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance) { get; set; } | Получает или задает значение вибрации |
+| [Vibrance](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance) { get; set; } | Получает или устанавливает значение вибрации |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 
-Следующий пример кода демонстрирует поддержку ресурса VibAResource.
+В следующем примере кода демонстрируется поддержка ресурса VibAResource.
 
 ```csharp
 [C#]

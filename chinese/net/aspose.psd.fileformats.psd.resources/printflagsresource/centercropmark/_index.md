@@ -16,7 +16,7 @@ public byte CenterCropMark { get; set; }
 
 ### 适当的价值
 
-中心裁切标记。
+中心裁剪标记。
 
 ### 也可以看看
 

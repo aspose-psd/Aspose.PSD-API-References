@@ -1,14 +1,14 @@
 ---
 title: ColorExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: Color../aspose.psd/color扩展方法
+description: 的Color../aspose.psd/color扩展方法.
 type: docs
 weight: 1050
 url: /zh/net/aspose.psd.extensions/colorextensions/
 ---
 ## ColorExtensions class
 
-[`Color`](../../aspose.psd/color)扩展方法。
+的[`Color`](../../aspose.psd/color)扩展方法.
 
 ```csharp
 public static class ColorExtensions
@@ -18,8 +18,8 @@ public static class ColorExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor)(Color) | 将[`Color`](../../aspose.psd/color)转换为Color。 |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors)(Color[]) | 将[`Color`](../../aspose.psd/color)数组转换为Color数组。 |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor)(Color) | 转换[`Color`](../../aspose.psd/color)到Color . |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors)(Color[]) | 转换[`Color`](../../aspose.psd/color)数组到Color数组. |
 
 ### 也可以看看
 

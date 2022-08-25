@@ -1,14 +1,14 @@
 ---
 title: Keys
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает объект ICollection содержащий ключи IDictionaryобъект.
+description: Получает ICollection объект содержащий ключи IDictionary объект.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/nongenericdictionary/keys/
 ---
 ## NonGenericDictionary.Keys property
 
-Получает объект ICollection, содержащий ключи IDictionaryобъект.
+Получает ICollection объект, содержащий ключи IDictionary объект.
 
 ```csharp
 public ICollection Keys { get; }
@@ -16,7 +16,7 @@ public ICollection Keys { get; }
 
 ### Возвращаемое значение
 
-ОбъектICollection, содержащий ключиIDictionaryобъект.
+АнICollection объект, содержащий ключиIDictionary объект.
 
 ### Смотрите также
 

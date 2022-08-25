@@ -1,14 +1,14 @@
 ---
 title: LayerSectionType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Тип раздела слоя
+description: Раздел слоя type
 type: docs
-weight: 2550
+weight: 2590
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
 ## LayerSectionType enumeration
 
-Тип раздела слоя
+Раздел слоя type
 
 ```csharp
 public enum LayerSectionType

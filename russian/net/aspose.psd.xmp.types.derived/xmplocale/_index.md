@@ -3,7 +3,7 @@ title: XmpLocale
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет код языка.
 type: docs
-weight: 6050
+weight: 6100
 url: /ru/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
 ## XmpLocale class
@@ -18,7 +18,7 @@ public sealed class XmpLocale : XmpText
 
 | Имя | Описание |
 | --- | --- |
-| [XmpLocale](xmplocale)(string) | Инициализирует новый экземпляр класса[`XmpLocale`](../xmplocale). |
+| [XmpLocale](xmplocale)(string) | Инициализирует новый экземпляр[`XmpLocale`](../xmplocale) класс. |
 
 ## Характеристики
 

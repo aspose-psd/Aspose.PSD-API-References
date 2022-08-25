@@ -16,14 +16,14 @@ public void DrawImage(Point location, RasterImage image)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| location | Point | 位置。 |
+| location | Point | 那个地点。 |
 | image | RasterImage | 图片。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 位置必须为非负数 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 位置必须是非负数 |
 
 ### 也可以看看
 

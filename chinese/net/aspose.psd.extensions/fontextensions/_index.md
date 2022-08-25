@@ -1,14 +1,14 @@
 ---
 title: FontExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: 包含Font../aspose.psd/font类的扩展方法
+description: 包含扩展方法Font../aspose.psd/font类.
 type: docs
 weight: 1090
 url: /zh/net/aspose.psd.extensions/fontextensions/
 ---
 ## FontExtensions class
 
-包含[`Font`](../../aspose.psd/font)类的扩展方法。
+包含扩展方法[`Font`](../../aspose.psd/font)类.
 
 ```csharp
 public static class FontExtensions
@@ -18,8 +18,8 @@ public static class FontExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont#togdifont)(Font) | 将[`Font`](../../aspose.psd/font)转换为Font。 |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont#togdifont_1)(Font, GraphicsUnit) | 将[`Font`](../../aspose.psd/font)转换为Font。 |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont#togdifont)(Font) | 转换[`Font`](../../aspose.psd/font)到Font . |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont#togdifont_1)(Font, GraphicsUnit) | 转换[`Font`](../../aspose.psd/font)到Font . |
 
 ### 也可以看看
 

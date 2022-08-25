@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Возвращает хэш-код для этойPointFaspose.psd/pointfструктуры.
+description: Возвращает хешкод для этогоPointFaspose.psd/pointfструктура.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/pointf/gethashcode/
 ---
 ## PointF.GetHashCode method
 
-Возвращает хэш-код для этой[`PointF`](../../pointf)структуры.
+Возвращает хеш-код для этого[`PointF`](../../pointf)структура.
 
 ```csharp
 public override int GetHashCode()
@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Целочисленное значение, указывающее хеш-значение для этой[`PointF`](../../pointf)структуры.
+Целочисленное значение, указывающее хеш-значение для этого[`PointF`](../../pointf) структура.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: ITextParagraph
 second_title: Aspose.PSD for .NET API 参考
-description: 处理段落的界面
+description: 使用paragraph 的界面
 type: docs
-weight: 3410
+weight: 3460
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
 ## ITextParagraph interface
 
-处理段落的界面
+使用paragraph 的界面
 
 ```csharp
 public interface ITextParagraph
@@ -18,17 +18,17 @@ public interface ITextParagraph
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate) { get; set; } | 获取或设置一个值，指示是否[自动连字符]。 |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate) { get; set; } | 获取或设置一个值，指示是否[自动连字符]. |
 | [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading) { get; set; } | 获取或设置自动行距。 |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari) { get; set; } | 获取或设置一个值，该值指示此[`ITextParagraph`](../itextparagraph)是否为 burasagiri。 |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari) { get; set; } | 获取或设置一个值，该值指示是否[`ITextParagraph`](../itextparagraph)是burasagiri. |
 | [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens) { get; set; } | 获取或设置连续的连字符。 |
 | [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent) { get; set; } | 获取或设置结束缩进。 |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer) { get; set; } | 获取或设置一个值，表示是否[每行作曲家]。 |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent) { get; set; } | 获取或设置第一行缩进。 |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer) { get; set; } | 获取或设置一个值，指示是否[每行作曲家]. |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent) { get; set; } | 获取或设置首行缩进。 |
 | [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing) { get; set; } | 获取或设置字形间距。 |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging) { get; set; } | 获取或设置一个值，该值指示此[`ITextParagraph`](../itextparagraph)是否挂起。 |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging) { get; set; } | 获取或设置一个值，该值指示是否[`ITextParagraph`](../itextparagraph)正在挂起。 |
 | [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize) { get; set; } | 获取或设置连字符的大小。 |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification) { get; set; } | 获取或设置对正。 |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification) { get; set; } | 获取或设置对齐方式。 |
 | [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder) { get; set; } | 获取或设置 kinsoku 顺序。 |
 | [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype) { get; set; } | 获取或设置前导的类型。 |
 | [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing) { get; set; } | 获取或设置字母间距。 |
@@ -49,7 +49,7 @@ public interface ITextParagraph
 
 ### 例子
 
-下面的例子演示了通过ITextPortion的Text Alignment for right-to-left语言工作正常。
+下面的示例演示了通过 ITextPortion 的从右到左语言的文本对齐工作正常。
 
 ```csharp
 [C#]

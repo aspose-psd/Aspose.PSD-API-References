@@ -1,14 +1,14 @@
 ---
 title: RawEntries
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает необработанные данные записей цветовой палитры.
+description: Получает данные необработанных записей цветовой палитры.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/ipsdcolorpalette/rawentries/
 ---
 ## IPsdColorPalette.RawEntries property
 
-Получает необработанные данные записей цветовой палитры.
+Получает данные необработанных записей цветовой палитры.
 
 ```csharp
 public byte[] RawEntries { get; }
@@ -16,7 +16,7 @@ public byte[] RawEntries { get; }
 
 ### Стоимость имущества
 
-Данные ввода исходной цветовой палитры.
+Данные ввода необработанной цветовой палитры.
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: LayerEffectsTypes
 second_title: Aspose.PSD for .NET API 参考
 description: 图层混合效果
 type: docs
-weight: 2600
+weight: 2640
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
 ## LayerEffectsTypes enumeration
@@ -18,15 +18,15 @@ public enum LayerEffectsTypes
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| DropShadow | `0` | 阴影 |
+| DropShadow | `0` | 投影 |
 | OuterGlow | `1` | 外发光 |
 | PatternOverlay | `2` | 图案叠加 |
 | GradientOverlay | `3` | 渐变叠加 |
 | ColorOverlay | `4` | 颜色叠加 |
 | Satin | `5` | 缎面效果类型 |
 | InnerGlow | `6` | 内发光 |
-| InnerShadow | `7` | 内影 |
-| Stroke | `8` | 中风 |
+| InnerShadow | `7` | 内部阴影 |
+| Stroke | `8` | 笔画 |
 | BevelEmboss | `9` | 斜面浮雕 |
 
 ### 例子

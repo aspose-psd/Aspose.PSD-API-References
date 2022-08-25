@@ -1,14 +1,14 @@
 ---
 title: SetFontsFolder
 second_title: Aspose.PSD for .NET API 参考
-description: 这是SetFontsFoldersaspose.psd/fontsettings/setfontsfolders的快捷方式用于仅设置一个字体目录 没有对字体文件夹进行检查
+description: 这是一个快捷方式SetFontsFoldersaspose.psd/fontsettings/setfontsfolders只设置一个字体目录 没有对字体文件夹进行检查
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/fontsettings/setfontsfolder/
 ---
 ## FontSettings.SetFontsFolder method
 
-这是[`SetFontsFolders`](../setfontsfolders)的快捷方式，用于仅设置一个字体目录。 没有对字体文件夹进行检查。
+这是一个快捷方式[`SetFontsFolders`](../setfontsfolders)只设置一个字体目录。 没有对字体文件夹进行检查。
 
 ```csharp
 public static void SetFontsFolder(string fontFolder)

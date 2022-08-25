@@ -1,14 +1,14 @@
 ---
 title: Apply
 second_title: Справочник по Aspose.PSD для .NET API
-description: Применяет текущий фильтр к входномуRasterImageaspose.psd/rasterimageизображению.
+description: Применяет текущий фильтр ко входуRasterImageaspose.psd/rasterimage изображение.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/
 ---
 ## SmartFilter.Apply method
 
-Применяет текущий фильтр к входному[`RasterImage`](../../../aspose.psd/rasterimage)изображению.
+Применяет текущий фильтр ко входу[`RasterImage`](../../../aspose.psd/rasterimage) изображение.
 
 ```csharp
 public void Apply(RasterImage rasterImage)

@@ -3,7 +3,7 @@ title: FillMode
 second_title: Aspose.PSD for .NET API 参考
 description: 指定如何填充封闭路径的内部
 type: docs
-weight: 4140
+weight: 4190
 url: /zh/net/aspose.psd/fillmode/
 ---
 ## FillMode enumeration

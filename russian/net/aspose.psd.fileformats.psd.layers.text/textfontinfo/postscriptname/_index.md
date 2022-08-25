@@ -16,7 +16,7 @@ public string PostScriptName { get; }
 
 ### Стоимость имущества
 
-PostScript имя
+Имя PostScript
 
 ### Смотрите также
 

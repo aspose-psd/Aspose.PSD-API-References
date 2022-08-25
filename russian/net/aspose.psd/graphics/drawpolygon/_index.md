@@ -1,14 +1,14 @@
 ---
 title: DrawPolygon
 second_title: Справочник по Aspose.PSD для .NET API
-description: Рисует полигон определяемый массивом структурPointFaspose.psd/pointf.
+description: Рисует многоугольник определяемый массивомPointFaspose.psd/pointf структуры.
 type: docs
 weight: 290
 url: /ru/net/aspose.psd/graphics/drawpolygon/
 ---
 ## DrawPolygon(Pen, PointF[]) {#drawpolygon}
 
-Рисует полигон, определяемый массивом структур[`PointF`](../../pointf).
+Рисует многоугольник, определяемый массивом[`PointF`](../../pointf) структуры.
 
 ```csharp
 public void DrawPolygon(Pen pen, PointF[] points)
@@ -16,14 +16,14 @@ public void DrawPolygon(Pen pen, PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль полигон. |
-| points | PointF[] | Массив структур[`PointF`](../../pointf), представляющих вершины многоугольника. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль полигона. |
+| points | PointF[] | Массив[`PointF`](../../pointf) структуры, представляющие вершины многоугольника. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. -или- *points*равно null. |
+| ArgumentNullException | *pen* равно null. -или- *points* нулевой. |
 
 ### Смотрите также
 
@@ -37,7 +37,7 @@ public void DrawPolygon(Pen pen, PointF[] points)
 
 ## DrawPolygon(Pen, Point[]) {#drawpolygon_1}
 
-Рисует многоугольник, определяемый массивом структур[`Point`](../../point).
+Рисует многоугольник, определяемый массивом[`Point`](../../point) структуры.
 
 ```csharp
 public void DrawPolygon(Pen pen, Point[] points)
@@ -45,14 +45,14 @@ public void DrawPolygon(Pen pen, Point[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль полигон. |
-| points | Point[] | Массив структур[`Point`](../../point), представляющих вершины многоугольника. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль полигона. |
+| points | Point[] | Массив[`Point`](../../point) структуры, представляющие вершины многоугольника. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 

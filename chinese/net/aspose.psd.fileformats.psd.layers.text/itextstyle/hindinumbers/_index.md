@@ -1,14 +1,14 @@
 ---
 title: HindiNumbers
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否印地语数字
+description: 获取或设置一个值指示是否 印地语数字.
 type: docs
 weight: 150
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/
 ---
 ## ITextStyle.HindiNumbers property
 
-获取或设置一个值，指示是否[印地语数字]。
+获取或设置一个值，指示是否 [印地语数字].
 
 ```csharp
 public bool HindiNumbers { get; set; }
@@ -16,11 +16,11 @@ public bool HindiNumbers { get; set; }
 
 ### 适当的价值
 
-` true` if [印地语数字]；否则，` false` 。
+`真的` if [印地语数字]；否则，`错误的` .
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: Lnk3Resource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLnk3Resourceaspose.psd.fileformats.psd.layers.layerresources/lnk3resource.
+description: Инициализирует новый экземплярLnk3Resourceaspose.psd.fileformats.psd.layers.layerresources/lnk3resource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/lnk3resource/
 ---
 ## Lnk3Resource constructor
 
-Инициализирует новый экземпляр класса[`Lnk3Resource`](../../lnk3resource).
+Инициализирует новый экземпляр[`Lnk3Resource`](../../lnk3resource) класс.
 
 ```csharp
 public Lnk3Resource()

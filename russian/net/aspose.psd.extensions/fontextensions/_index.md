@@ -1,14 +1,14 @@
 ---
 title: FontExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Содержит методы расширения для классаFont../aspose.psd/font.
+description: Содержит методы расширения дляFont../aspose.psd/font класс.
 type: docs
 weight: 1090
 url: /ru/net/aspose.psd.extensions/fontextensions/
 ---
 ## FontExtensions class
 
-Содержит методы расширения для класса[`Font`](../../aspose.psd/font).
+Содержит методы расширения для[`Font`](../../aspose.psd/font) класс.
 
 ```csharp
 public static class FontExtensions
@@ -18,8 +18,8 @@ public static class FontExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont#togdifont)(Font) | Преобразует[`Font`](../../aspose.psd/font)вFont. |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont#togdifont_1)(Font, GraphicsUnit) | Преобразует[`Font`](../../aspose.psd/font)вFont. |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont#togdifont)(Font) | Преобразует[`Font`](../../aspose.psd/font) кFont . |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont#togdifont_1)(Font, GraphicsUnit) | Преобразует[`Font`](../../aspose.psd/font) кFont . |
 
 ### Смотрите также
 

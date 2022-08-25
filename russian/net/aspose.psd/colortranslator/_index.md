@@ -1,14 +1,14 @@
 ---
 title: ColorTranslator
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует цвета в и из структур GDI Color. Этот класс не может быть унаследован.
+description: Преобразует цвета в структуры GDI Color и обратно. Этот класс не может быть унаследован.
 type: docs
 weight: 400
 url: /ru/net/aspose.psd/colortranslator/
 ---
 ## ColorTranslator class
 
-Преобразует цвета в и из структур GDI+ Color. Этот класс не может быть унаследован.
+Преобразует цвета в структуры GDI+ Color и обратно. Этот класс не может быть унаследован.
 
 ```csharp
 public sealed class ColorTranslator

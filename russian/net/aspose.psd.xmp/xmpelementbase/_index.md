@@ -3,7 +3,7 @@ title: XmpElementBase
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет базовый элемент xmp содержащий атрибуты.
 type: docs
-weight: 6120
+weight: 6170
 url: /ru/net/aspose.psd.xmp/xmpelementbase/
 ---
 ## XmpElementBase class
@@ -20,7 +20,7 @@ public abstract class XmpElementBase : IEquatable<XmpElementBase>
 | --- | --- |
 | virtual [AddAttribute](../../aspose.psd.xmp/xmpelementbase/addattribute)(string, string) | Добавляет атрибут. |
 | virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes)() | Удаляет все атрибуты. |
-| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals#equals_1)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
+| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals#equals_1)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
 | [Equals](../../aspose.psd.xmp/xmpelementbase/equals#equals)(XmpElementBase) | Указывает, равен ли текущий объект другому объекту того же типа. |
 | virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute)(string) | Получает атрибут. |
 | override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode)() | Возвращает хэш-код для этого экземпляра. |

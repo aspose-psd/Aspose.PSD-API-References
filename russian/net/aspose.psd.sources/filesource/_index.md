@@ -3,7 +3,7 @@ title: FileSource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет источник файлов способный манипулировать файлами.
 type: docs
-weight: 5490
+weight: 5540
 url: /ru/net/aspose.psd.sources/filesource/
 ---
 ## FileSource class

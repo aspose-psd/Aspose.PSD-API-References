@@ -1,14 +1,14 @@
 ---
 title: Packages
 second_title: Aspose.PSD for .NET API 参考
-description: 在 XMP 中获取XmpPackageaspose.psd.xmp/xmppackage的数组
+description: 获取数组XmpPackageaspose.psd.xmp/xmppackage在 XMP. 里面
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp/xmppacketwrapper/packages/
 ---
 ## XmpPacketWrapper.Packages property
 
-在 XMP 中获取[`XmpPackage`](../../xmppackage)的数组。
+获取数组[`XmpPackage`](../../xmppackage)在 XMP. 里面
 
 ```csharp
 public XmpPackage[] Packages { get; }
@@ -16,7 +16,7 @@ public XmpPackage[] Packages { get; }
 
 ### 适当的价值
 
-XMP 中[`XmpPackage`](../../xmppackage)的数组。
+的数组[`XmpPackage`](../../xmppackage)在 XMP. 里面
 
 ### 也可以看看
 

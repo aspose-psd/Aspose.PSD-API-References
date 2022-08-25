@@ -1,14 +1,14 @@
 ---
 title: HorizontalMeshPointUnit
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置水平网格点的度量单位
+description: 获取或设置水平网格点的测量单位
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/
 ---
 ## PlacedResource.HorizontalMeshPointUnit property
 
-获取或设置水平网格点的度量单位。
+获取或设置水平网格点的测量单位。
 
 ```csharp
 public UnitTypes HorizontalMeshPointUnit { get; set; }
@@ -16,7 +16,7 @@ public UnitTypes HorizontalMeshPointUnit { get; set; }
 
 ### 适当的价值
 
-水平网格点的度量单位。
+水平网格点的测量单位。
 
 ### 也可以看看
 

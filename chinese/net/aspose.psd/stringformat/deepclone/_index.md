@@ -1,14 +1,14 @@
 ---
 title: DeepClone
 second_title: Aspose.PSD for .NET API 参考
-description: 创建此StringFormataspose.psd/stringformat对象的深层克隆
+description: 创建这个的深层克隆StringFormataspose.psd/stringformat对象.
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/stringformat/deepclone/
 ---
 ## StringFormat.DeepClone method
 
-创建此[`StringFormat`](../../stringformat)对象的深层克隆。
+创建这个的深层克隆[`StringFormat`](../../stringformat)对象.
 
 ```csharp
 public StringFormat DeepClone()
@@ -16,7 +16,7 @@ public StringFormat DeepClone()
 
 ### 返回值
 
-当前[`StringFormat`](../../stringformat)的深层克隆。
+当前的深层克隆[`StringFormat`](../../stringformat) .
 
 ### 也可以看看
 

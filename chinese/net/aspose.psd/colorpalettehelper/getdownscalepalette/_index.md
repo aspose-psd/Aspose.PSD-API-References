@@ -20,7 +20,7 @@ public static ColorPalette GetDownscalePalette(RasterImage image)
 
 ### 返回值
 
-[`ColorPalette`](../../colorpalette)。
+的[`ColorPalette`](../../colorpalette) .
 
 ### 也可以看看
 

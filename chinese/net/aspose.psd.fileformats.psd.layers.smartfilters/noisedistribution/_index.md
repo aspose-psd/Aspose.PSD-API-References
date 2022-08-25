@@ -3,7 +3,7 @@ title: NoiseDistribution
 second_title: Aspose.PSD for .NET API 参考
 description: 噪声滤波器的分布
 type: docs
-weight: 3330
+weight: 3380
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
 ## NoiseDistribution enumeration

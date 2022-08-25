@@ -1,14 +1,14 @@
 ---
 title: OSTypeStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure.
+description: Инициализирует новый экземплярOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ostypestructure/
 ---
 ## OSTypeStructure constructor
 
-Инициализирует новый экземпляр класса[`OSTypeStructure`](../../ostypestructure).
+Инициализирует новый экземпляр[`OSTypeStructure`](../../ostypestructure) класс.
 
 ```csharp
 public OSTypeStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public OSTypeStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 

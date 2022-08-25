@@ -1,14 +1,14 @@
 ---
 title: Round
 second_title: Aspose.PSD for .NET API 参考
-description: 通过舍入T将指定的RectangleFaspose.psd/rectanglef 转换为Rectangleaspose.psd/rectangleAspose.PSD.RectangleF值到最接近的整数值
+description: 转换指定的RectangleFaspose.psd/rectanglef到一个Rectangleaspose.psd/rectangle通过四舍五入RectangleFaspose.psd/rectanglef值到最接近的整数值
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/rectangle/round/
 ---
 ## Rectangle.Round method
 
-通过舍入T将指定的[`RectangleF`](../../rectanglef) 转换为[`Rectangle`](../../rectangle):Aspose.PSD.RectangleF值到最接近的整数值。
+转换指定的[`RectangleF`](../../rectanglef)到一个[`Rectangle`](../../rectangle)通过四舍五入[`RectangleF`](../../rectanglef)值到最接近的整数值。
 
 ```csharp
 public static Rectangle Round(RectangleF value)
@@ -16,11 +16,11 @@ public static Rectangle Round(RectangleF value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | RectangleF | 要转换的[`RectangleF`](../../rectanglef)。 |
+| value | RectangleF | 这[`RectangleF`](../../rectanglef)被转换。 |
 
 ### 返回值
 
-一个新的[`Rectangle`](../../rectangle)。
+一个新的[`Rectangle`](../../rectangle).
 
 ### 也可以看看
 

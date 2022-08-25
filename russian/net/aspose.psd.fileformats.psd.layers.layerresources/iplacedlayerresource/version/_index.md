@@ -1,7 +1,7 @@
 ---
 title: Version
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает версию размещенного слоя в файле PSD обычно 3-5.
+description: Получает версию размещенного слоя в файле PSD обычно 35.
 type: docs
 weight: 200
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/

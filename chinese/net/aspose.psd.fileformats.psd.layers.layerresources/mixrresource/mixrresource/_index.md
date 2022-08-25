@@ -1,14 +1,14 @@
 ---
 title: MixrResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化MixrResourceaspose.psd.fileformats.psd.layers.layerresources/mixrresource类的新实例 PSD 格式规范包含以下说明 2 版本  1 2 单色 20 RGB 或 CMYK 颜色加上混合器设置的常数 4  2 字节的颜色和 2 字节的常量
+description: 初始化MixrResourceaspose.psd.fileformats.psd.layers.layerresources/mixrresource class. PSD 格式规范包含以下描述 2 版本   1 2 Monochrome 20 RGB 或 CMYK 颜色加上混合器设置的常量 4  2 字节的颜色和 2 字节的常量
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/mixrresource/
 ---
 ## MixrResource() {#constructor}
 
-初始化[`MixrResource`](../../mixrresource)类的新实例。 PSD 格式规范包含以下说明： 2 版本 (= 1) 2 单色 20 RGB 或 CMYK 颜色加上混合器设置的常数。 4 * 2 字节的颜色和 2 字节的常量。
+初始化[`MixrResource`](../../mixrresource) class. PSD 格式规范包含以下描述： 2 版本 ( = 1) 2 Monochrome 20 RGB 或 CMYK 颜色加上混合器设置的常量。 4 * 2 字节的颜色和 2 字节的常量。
 
 ```csharp
 public MixrResource()
@@ -24,7 +24,7 @@ public MixrResource()
 
 ## MixrResource(byte[]) {#constructor_1}
 
-初始化[`MixrResource`](../../mixrresource)类的新实例。 PSD 格式规范包含以下说明： 2 版本 (= 1) 2 单色 20 RGB 或 CMYK 颜色加上混合器设置的常数。 4 * 2 字节的颜色和 2 字节的常量。
+初始化[`MixrResource`](../../mixrresource) class. PSD 格式规范包含以下描述： 2 版本 ( = 1) 2 Monochrome 20 RGB 或 CMYK 颜色加上混合器设置的常量。 4 * 2 字节的颜色和 2 字节的常量。
 
 ```csharp
 public MixrResource(byte[] data)

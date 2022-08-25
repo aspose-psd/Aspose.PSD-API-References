@@ -1,14 +1,14 @@
 ---
 title: Synthetic
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее является ли этотFontInformationсинтетическим.
+description: Получает значение указывающее является ли этоFontInformation синтетический.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/
 ---
 ## TextFontInfo.Synthetic property
 
-Получает значение, указывающее, является ли этотFontInformationсинтетическим.
+Получает значение, указывающее, является ли этоFontInformation синтетический.
 
 ```csharp
 public bool Synthetic { get; }
@@ -16,7 +16,7 @@ public bool Synthetic { get; }
 
 ### Стоимость имущества
 
-` true` если синтетический; в противном случае` false` .
+`истинный` если синтетический; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

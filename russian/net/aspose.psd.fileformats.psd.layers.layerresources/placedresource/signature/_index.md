@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает подпись ресурса Placed.
+description: Получает подпись размещенного ресурса.
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature/
 ---
 ## PlacedResource.Signature property
 
-Получает подпись ресурса Placed.
+Получает подпись размещенного ресурса.
 
 ```csharp
 public override int Signature { get; }

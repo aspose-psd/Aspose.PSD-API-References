@@ -1,14 +1,14 @@
 ---
 title: Reverse
 second_title: Справочник по Aspose.PSD для .NET API
-description: Меняет порядок фигур фигур и точек в каждой фигуре этогоGraphicsPathaspose.psd/graphicspathна обратный.
+description: Меняет порядок фигур фигур и точек в каждой фигуре этого изображения на противоположный.GraphicsPathaspose.psd/graphicspath .
 type: docs
 weight: 160
 url: /ru/net/aspose.psd/graphicspath/reverse/
 ---
 ## GraphicsPath.Reverse method
 
-Меняет порядок фигур, фигур и точек в каждой фигуре этого[`GraphicsPath`](../../graphicspath)на обратный.
+Меняет порядок фигур, фигур и точек в каждой фигуре этого изображения на противоположный.[`GraphicsPath`](../../graphicspath) .
 
 ```csharp
 public void Reverse()

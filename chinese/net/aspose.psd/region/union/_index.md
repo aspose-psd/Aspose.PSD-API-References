@@ -1,14 +1,14 @@
 ---
 title: Union
 second_title: Aspose.PSD for .NET API 参考
-description: 将此Regionaspose.psd/region更新为自身与指定RectangleFaspose.psd/rectanglef结构的并集
+description: 更新这个Regionaspose.psd/region到自身和指定的联合RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 140
 url: /zh/net/aspose.psd/region/union/
 ---
 ## Union(RectangleF) {#union_2}
 
-将此[`Region`](../../region)更新为自身与指定[`RectangleF`](../../rectanglef)结构的并集。
+更新这个[`Region`](../../region)到自身和指定的联合[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public void Union(RectangleF rect)
@@ -16,7 +16,7 @@ public void Union(RectangleF rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)结构与[`Region`](../../region) 结合. |
+| rect | RectangleF | 这[`RectangleF`](../../rectanglef)与此结合的结构[`Region`](../../region). |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void Union(RectangleF rect)
 
 ## Union(Rectangle) {#union_1}
 
-将此[`Region`](../../region)更新为自身与指定[`Rectangle`](../../rectangle)结构的并集。
+更新这个[`Region`](../../region)到自身和指定的联合[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public void Union(Rectangle rect)
@@ -37,7 +37,7 @@ public void Union(Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle)结构与[`Region`](../../region) 结合. |
+| rect | Rectangle | 这[`Rectangle`](../../rectangle)与此结合的结构[`Region`](../../region). |
 
 ### 也可以看看
 
@@ -50,7 +50,7 @@ public void Union(Rectangle rect)
 
 ## Union(GraphicsPath) {#union}
 
-将此[`Region`](../../region)更新为自身和指定的[`GraphicsPath`](../../graphicspath)的并集。
+更新这个[`Region`](../../region)到自身和指定的联合[`GraphicsPath`](../../graphicspath) .
 
 ```csharp
 public void Union(GraphicsPath path)
@@ -58,13 +58,13 @@ public void Union(GraphicsPath path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath)与此[`Region`](../../region)联合. |
+| path | GraphicsPath | 这[`GraphicsPath`](../../graphicspath)与此联合[`Region`](../../region). |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *path*为空。 |
+| ArgumentNullException | *path*一片空白。 |
 
 ### 也可以看看
 
@@ -77,7 +77,7 @@ public void Union(GraphicsPath path)
 
 ## Union(Region) {#union_3}
 
-将此[`Region`](../../region)更新为自身与指定[`Region`](../../region)的并集。
+更新这个[`Region`](../../region)到自身和指定的联合[`Region`](../../region) .
 
 ```csharp
 public void Union(Region region)
@@ -85,13 +85,13 @@ public void Union(Region region)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | [`Region`](../../region)与此[`Region`](../../region)联合. |
+| region | Region | 这[`Region`](../../region)与此联合[`Region`](../../region). |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *region*为空。 |
+| ArgumentNullException | *region*一片空白。 |
 
 ### 也可以看看
 

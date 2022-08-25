@@ -1,14 +1,14 @@
 ---
 title: SetComment
 second_title: Aspose.PSD for .NET API 参考
-description: 设置注释
+description: 设置评论
 type: docs
 weight: 150
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment/
 ---
 ## XmpDynamicMediaPackage.SetComment method
 
-设置注释。
+设置评论。
 
 ```csharp
 public void SetComment(string comment)

@@ -3,7 +3,7 @@ title: Version
 second_title: Справочник по Aspose.PSD для .NET API
 description: Описывает одну версию документа.
 type: docs
-weight: 5990
+weight: 6040
 url: /ru/net/aspose.psd.xmp.types.complex.version/version/
 ---
 ## Version class
@@ -29,7 +29,7 @@ public sealed class Version : ComplexTypeBase
 | [Modifier](../../aspose.psd.xmp.types.complex.version/version/modifier) { get; set; } | Получает или устанавливает модификатор. |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | Получает URI пространства имен по умолчанию. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | Получает префикс. |
-| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent) { get; set; } | Получает или задает[`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent). |
+| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent) { get; set; } | Получает или задает[`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent) . |
 | [VersionText](../../aspose.psd.xmp.types.complex.version/version/versiontext) { get; set; } | Получает или задает текст версии. |
 
 ## Методы

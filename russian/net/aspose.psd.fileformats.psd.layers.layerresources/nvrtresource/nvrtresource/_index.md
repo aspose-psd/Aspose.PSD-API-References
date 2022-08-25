@@ -1,14 +1,14 @@
 ---
 title: NvrtResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаNvrtResourceaspose.psd.fileformats.psd.layers.layerresources/nvrtresource.
+description: Инициализирует новый экземплярNvrtResourceaspose.psd.fileformats.psd.layers.layerresources/nvrtresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
 ## NvrtResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`NvrtResource`](../../nvrtresource).
+Инициализирует новый экземпляр[`NvrtResource`](../../nvrtresource) класс.
 
 ```csharp
 public NvrtResource()
@@ -24,7 +24,7 @@ public NvrtResource()
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`NvrtResource`](../../nvrtresource).
+Инициализирует новый экземпляр[`NvrtResource`](../../nvrtresource) класс.
 
 ```csharp
 public NvrtResource(byte[] data)

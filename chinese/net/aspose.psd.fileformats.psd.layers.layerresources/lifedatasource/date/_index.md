@@ -22,7 +22,7 @@ public DateTime Date { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 Date 属性，它仅适用于具有版本的生命数据源3 或更大 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 Date 属性，它仅适用于版本 3 或更高版本的 liFE 数据源 |
 
 ### 例子
 

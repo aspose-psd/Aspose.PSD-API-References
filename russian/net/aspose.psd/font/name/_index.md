@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает имя шрифта этогоFontaspose.psd/font.
+description: Получает имя лица этогоFontaspose.psd/font .
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/font/name/
 ---
 ## Font.Name property
 
-Получает имя шрифта этого[`Font`](../../font).
+Получает имя лица этого[`Font`](../../font) .
 
 ```csharp
 public string Name { get; }

@@ -3,7 +3,7 @@ title: XmpChoiseT
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет значение из словаря значений.
 type: docs
-weight: 6030
+weight: 6080
 url: /ru/net/aspose.psd.xmp.types.derived/xmpchoise-1/
 ---
 ## XmpChoise&lt;T&gt; class

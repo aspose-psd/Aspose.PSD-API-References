@@ -1,14 +1,14 @@
 ---
 title: AlignWithLayer
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否与图层对齐
+description: 获取或设置一个值该值指示是否与图层对齐
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/
 ---
 ## PtFlResource.AlignWithLayer property
 
-获取或设置一个值，指示是否[与图层对齐]。
+获取或设置一个值，该值指示是否[与图层对齐]。
 
 ```csharp
 public bool AlignWithLayer { get; set; }
@@ -16,7 +16,7 @@ public bool AlignWithLayer { get; set; }
 
 ### 适当的价值
 
-` true` if [与图层对齐]；否则，` false` 。
+`真的` if [与图层对齐];否则，`错误的` .
 
 ### 例子
 

@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 图像中放置层的扭曲值
+description: 获取或设置PSD图像中放置图层的warp值
 type: docs
 weight: 190
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/
 ---
 ## IPlacedLayerResource.Value property
 
-获取或设置 PSD 图像中放置层的扭曲值。
+获取或设置PSD图像中放置图层的warp值。
 
 ```csharp
 public double Value { get; set; }
@@ -16,7 +16,7 @@ public double Value { get; set; }
 
 ### 适当的价值
 
-放置层的扭曲值。
+放置层的warp值。
 
 ### 也可以看看
 

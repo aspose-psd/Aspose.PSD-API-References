@@ -1,14 +1,14 @@
 ---
 title: AddShape
 second_title: Aspose.PSD for .NET API 参考
-description: 向图窗添加形状
+description: 为图形添加形状
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/figure/addshape/
 ---
 ## Figure.AddShape method
 
-向图窗添加形状。
+为图形添加形状。
 
 ```csharp
 public void AddShape(Shape shape)

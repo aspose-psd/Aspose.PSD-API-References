@@ -1,14 +1,14 @@
 ---
 title: DataMissmatchError
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаDataMissmatchErroraspose.psd.coreexceptions/datamissmatcherror.
+description: Инициализирует новый экземплярDataMissmatchErroraspose.psd.coreexceptions/datamissmatcherror класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/datamissmatcherror/datamissmatcherror/
 ---
 ## DataMissmatchError constructor
 
-Инициализирует новый экземпляр класса[`DataMissmatchError`](../../datamissmatcherror).
+Инициализирует новый экземпляр[`DataMissmatchError`](../../datamissmatcherror) класс.
 
 ```csharp
 public DataMissmatchError(string message)

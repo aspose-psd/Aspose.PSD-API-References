@@ -1,14 +1,14 @@
 ---
 title: HighlightsMagentaGreenBalance
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置高光洋红色绿色平衡
+description: 获取或设置Highlights Magenta Green Balance
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/
 ---
 ## BlncResource.HighlightsMagentaGreenBalance property
 
-获取或设置高光洋红色绿色平衡。
+获取或设置Highlights Magenta Green Balance。
 
 ```csharp
 public short HighlightsMagentaGreenBalance { get; set; }
@@ -16,7 +16,7 @@ public short HighlightsMagentaGreenBalance { get; set; }
 
 ### 适当的价值
 
-亮点洋红色绿色平衡。
+洋红色绿色平衡的亮点。
 
 ### 也可以看看
 

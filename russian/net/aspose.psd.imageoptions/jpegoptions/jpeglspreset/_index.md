@@ -1,7 +1,7 @@
 ---
 title: JpegLsPreset
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает предустановленные параметры JPEG-LS.
+description: Получает или задает предустановленные параметры JPEGLS.
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/jpeglspreset/

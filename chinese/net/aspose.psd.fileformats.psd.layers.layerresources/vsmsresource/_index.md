@@ -1,14 +1,14 @@
 ---
 title: VsmsResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 VsmsResource 此资源包含有关矢量图层蒙版的信息
+description: 类 VsmsResource. 该资源包含有关矢量图层掩码的信息
 type: docs
-weight: 3270
+weight: 3320
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 ---
 ## VsmsResource class
 
-类 VsmsResource。 此资源包含有关矢量图层蒙版的信息
+类 VsmsResource. 该资源包含有关矢量图层掩码的信息
 
 ```csharp
 public class VsmsResource : VectorPathDataResource
@@ -18,18 +18,18 @@ public class VsmsResource : VectorPathDataResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VsmsResource](vsmsresource#constructor)() | 初始化[`VsmsResource`](../vsmsresource)类的新实例。 |
-| [VsmsResource](vsmsresource#constructor_1)(byte[]) | 初始化[`VsmsResource`](../vsmsresource)类的新实例。 |
+| [VsmsResource](vsmsresource#constructor)() | 初始化[`VsmsResource`](../vsmsresource)类. |
+| [VsmsResource](vsmsresource#constructor_1)(byte[]) | 初始化[`VsmsResource`](../vsmsresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | 获取或设置一个值，指示该实例是否被禁用。 |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | 获取或设置一个值，该值指示此实例是否被禁用。 |
 | [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | 获取或设置一个值，指示此实例是否反转。 |
 | [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked) { get; set; } | 获取或设置一个值，该值指示此实例是否未链接。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths) { get; set; } | 获取或设置路径记录。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature) { get; } | 获取签名。 |
@@ -40,7 +40,7 @@ public class VsmsResource : VectorPathDataResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
@@ -50,7 +50,7 @@ public class VsmsResource : VectorPathDataResource
 
 ### 例子
 
-下面的例子演示了对VsmsResource资源加载的支持。路径的编辑是如何工作的。
+以下示例演示了对 VsmsResource 资源加载的支持。路径的编辑是如何工作的。
 
 ```csharp
 [C#]

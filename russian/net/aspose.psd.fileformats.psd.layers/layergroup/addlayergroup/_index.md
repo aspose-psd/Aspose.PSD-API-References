@@ -16,7 +16,7 @@ public LayerGroup AddLayerGroup(string groupName, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| groupName | String | Имя группы. |
+| groupName | String | Название группы. |
 | index | Int32 | Индекс слоя для вставки после. |
 
 ### Возвращаемое значение
@@ -25,7 +25,7 @@ public LayerGroup AddLayerGroup(string groupName, int index)
 
 ### Примеры
 
-Следующий пример демонстрирует добавление группы слоев в другую группу слоев.
+В следующем примере показано добавление LayerGroup в другую LayerGroup.
 
 ```csharp
 [C#]

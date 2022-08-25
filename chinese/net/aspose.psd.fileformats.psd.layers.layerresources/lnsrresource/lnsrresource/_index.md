@@ -1,14 +1,14 @@
 ---
 title: LnsrResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LnsrResourceaspose.psd.fileformats.psd.layers.layerresources/lnsrresource类的新实例
+description: 初始化LnsrResourceaspose.psd.fileformats.psd.layers.layerresources/lnsrresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/lnsrresource/
 ---
 ## LnsrResource(LnsrResourceType) {#constructor}
 
-初始化[`LnsrResource`](../../lnsrresource)类的新实例。
+初始化[`LnsrResource`](../../lnsrresource)类.
 
 ```csharp
 public LnsrResource(LnsrResourceType lnsrResourceType)
@@ -35,7 +35,7 @@ public LnsrResource(LnsrResourceType lnsrResourceType)
 
 ## LnsrResource(byte[]) {#constructor_1}
 
-初始化[`LnsrResource`](../../lnsrresource)类的新实例。 具有自定义或未知值
+初始化[`LnsrResource`](../../lnsrresource) class. 具有自定义或未知值
 
 ```csharp
 public LnsrResource(byte[] bytes)

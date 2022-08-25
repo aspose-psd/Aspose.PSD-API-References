@@ -16,7 +16,7 @@ public const int StructureKey;
 
 ### 例子
 
-以下代码演示了加载具有 PathStructure 结构的文件的能力。
+以下代码演示了使用 PathStructure 结构加载文件的能力。
 
 ```csharp
 [C#]

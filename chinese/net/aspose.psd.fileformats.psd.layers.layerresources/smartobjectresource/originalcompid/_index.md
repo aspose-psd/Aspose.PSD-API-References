@@ -1,14 +1,14 @@
 ---
 title: OriginalCompId
 second_title: Aspose.PSD for .NET API 参考
-description: 获取子文档当前选中的 Comp 的原始 ID如果没有选中则为 -1 此属性获取 PSD 文件中智能对象层的原始层 Comp 选择标识符 智能对象中的图层组合https//helpx.adobe.com/photoshop/using/layer-comps.html
+description: 获取子文档当前选择的 Comp 的原始 ID如果没有选择则为 1 此属性获取 PSD 文件中智能对象层的原始层 Comp 选择标识符 智能对象中的图层组合https//helpx.adobe.com/photoshop/using/layercomps.html
 type: docs
 weight: 140
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/
 ---
 ## SmartObjectResource.OriginalCompId property
 
-获取子文档当前选中的 Comp 的原始 ID，如果没有选中则为 -1。 此属性获取 PSD 文件中智能对象层的原始层 Comp 选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+获取子文档当前选择的 Comp 的原始 ID，如果没有选择，则为 -1。 此属性获取 PSD 文件中智能对象层的原始层 Comp 选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int OriginalCompId { get; }
@@ -16,7 +16,7 @@ public int OriginalCompId { get; }
 
 ### 适当的价值
 
-PSD 图像中子文档当前选择的 comp 的原始 ID，如果没有选择，则为 -1。
+PSD图片中子文档当前选中的comp的原始ID，如果没有选中则为-1。
 
 ### 例子
 

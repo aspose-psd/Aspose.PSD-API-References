@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Types.Complex.Colorant
 second_title: Справочник по Aspose.PSD для .NET API
 description: Пространство имен содержит классы представляющие структуры содержащие характеристики красителя образца используемого в документе.
 type: docs
-weight: 610
+weight: 620
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/
 ---
 Пространство имен содержит классы, представляющие структуры, содержащие характеристики красителя (образца), используемого в документе.

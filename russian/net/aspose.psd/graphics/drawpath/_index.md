@@ -1,14 +1,14 @@
 ---
 title: DrawPath
 second_title: Справочник по Aspose.PSD для .NET API
-description: РисуетGraphicsPathaspose.psd/graphicspath.
+description: РисуетGraphicsPathaspose.psd/graphicspath .
 type: docs
 weight: 270
 url: /ru/net/aspose.psd/graphics/drawpath/
 ---
 ## Graphics.DrawPath method
 
-Рисует[`GraphicsPath`](../../graphicspath).
+Рисует[`GraphicsPath`](../../graphicspath) .
 
 ```csharp
 public void DrawPath(Pen pen, GraphicsPath path)
@@ -16,18 +16,18 @@ public void DrawPath(Pen pen, GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль путь. |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath)рисовать. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль пути. |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath) рисовать. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. -или- *путь*равно нулю. |
+| ArgumentNullException | *pen* равно null. -или- *path* нулевой. |
 
 ### Примеры
 
-В этих примерах классы GraphicsPath и Graphics используются для создания фигур на поверхности изображения и управления ими. Пример создает новое изображение и рисует пути с помощью класса GraphicsPath. В конце вызывается метод DrawPath, предоставляемый классом Graphics, для отображения путей на поверхности. Наконец, изображение экспортируется в формат файла Tiff.
+В этих примерах используются GraphicsPath и класс Graphics для создания и управления рисунками на поверхности изображения. Пример создает новое изображение и рисует пути с помощью класса GraphicsPath. В конце вызывается метод DrawPath, предоставляемый классом Graphics, для отображения путей на поверхности. Наконец, изображение экспортируется в формат файла Tiff.
 
 ```csharp
 [C#]

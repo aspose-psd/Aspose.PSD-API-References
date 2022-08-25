@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Types.Complex.Thumbnail
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含作为文件缩略图的类
 type: docs
-weight: 660
+weight: 670
 url: /zh/net/aspose.psd.xmp.types.complex.thumbnail/
 ---
 命名空间包含作为文件缩略图的类。

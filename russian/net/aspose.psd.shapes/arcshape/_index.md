@@ -3,7 +3,7 @@ title: ArcShape
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет форму дуги.
 type: docs
-weight: 5340
+weight: 5390
 url: /ru/net/aspose.psd.shapes/arcshape/
 ---
 ## ArcShape class
@@ -18,9 +18,9 @@ public sealed class ArcShape : PieShape, IOrderedShape
 
 | Имя | Описание |
 | --- | --- |
-| [ArcShape](arcshape#constructor)() | Инициализирует новый экземпляр класса[`ArcShape`](../arcshape). |
-| [ArcShape](arcshape#constructor_1)(RectangleF, float, float) | Инициализирует новый экземпляр класса[`ArcShape`](../arcshape). |
-| [ArcShape](arcshape#constructor_2)(RectangleF, float, float, bool) | Инициализирует новый экземпляр класса[`ArcShape`](../arcshape). |
+| [ArcShape](arcshape#constructor)() | Инициализирует новый экземпляр[`ArcShape`](../arcshape) класс. |
+| [ArcShape](arcshape#constructor_1)(RectangleF, float, float) | Инициализирует новый экземпляр[`ArcShape`](../arcshape) класс. |
+| [ArcShape](arcshape#constructor_2)(RectangleF, float, float, bool) | Инициализирует новый экземпляр[`ArcShape`](../arcshape) класс. |
 
 ## Характеристики
 
@@ -53,7 +53,7 @@ public sealed class ArcShape : PieShape, IOrderedShape
 
 ### Примеры
 
-В этом примере создается новое изображение и рисуются различные фигуры с использованием Figures и GraphicsPath на поверхности изображения
+В этом примере создается новое изображение и рисуются различные фигуры с помощью Figures и GraphicsPath на поверхности изображения.
 
 ```csharp
 [C#]

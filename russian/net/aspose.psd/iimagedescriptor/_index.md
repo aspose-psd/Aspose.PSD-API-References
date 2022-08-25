@@ -3,7 +3,7 @@ title: IImageDescriptor
 second_title: Справочник по Aspose.PSD для .NET API
 description: Дескриптор изображения. Содержит базовые свойства и методы для всех остальных типов дескрипторов изображений.
 type: docs
-weight: 4300
+weight: 4350
 url: /ru/net/aspose.psd/iimagedescriptor/
 ---
 ## IImageDescriptor interface

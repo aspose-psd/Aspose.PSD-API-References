@@ -1,14 +1,14 @@
 ---
 title: VogkResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаVogkResourceaspose.psd.fileformats.psd.layers.layerresources/vogkresource.
+description: Инициализирует новый экземплярVogkResourceaspose.psd.fileformats.psd.layers.layerresources/vogkresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/vogkresource/
 ---
 ## VogkResource constructor
 
-Инициализирует новый экземпляр класса[`VogkResource`](../../vogkresource).
+Инициализирует новый экземпляр[`VogkResource`](../../vogkresource) класс.
 
 ```csharp
 public VogkResource()

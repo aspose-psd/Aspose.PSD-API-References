@@ -1,14 +1,14 @@
 ---
 title: AsyncTaskProgress
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化AsyncTaskProgressaspose.psd.asynctask/asynctaskprogress类的新实例
+description: 初始化AsyncTaskProgressaspose.psd.asynctask/asynctaskprogress类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.asynctask/asynctaskprogress/asynctaskprogress/
 ---
 ## AsyncTaskProgress constructor
 
-初始化[`AsyncTaskProgress`](../../asynctaskprogress)类的新实例。
+初始化[`AsyncTaskProgress`](../../asynctaskprogress)类.
 
 ```csharp
 public AsyncTaskProgress(int progressPercentage, TimeSpan duration)

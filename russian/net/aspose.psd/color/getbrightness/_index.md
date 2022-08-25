@@ -1,14 +1,14 @@
 ---
 title: GetBrightness
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение яркости оттенка-насыщенности-яркости HSB для этой структурыColoraspose.psd/color.
+description: Получает значение яркости оттенканасыщенностияркости HSB для этогоColoraspose.psd/colorструктура.
 type: docs
 weight: 1550
 url: /ru/net/aspose.psd/color/getbrightness/
 ---
 ## Color.GetBrightness method
 
-Получает значение яркости оттенка-насыщенности-яркости (HSB) для этой структуры[`Color`](../../color).
+Получает значение яркости оттенка-насыщенности-яркости (HSB) для этого[`Color`](../../color)структура.
 
 ```csharp
 public float GetBrightness()

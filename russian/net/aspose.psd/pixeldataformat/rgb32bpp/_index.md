@@ -1,14 +1,14 @@
 ---
 title: Rgb32Bpp
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПолучаетPixelDataFormataspose.psd/pixeldataformatопределенный для 32 бит на пиксель с 8 битами для каждого из альфа красного зеленого и синий.
+description: ПолучаетPixelDataFormataspose.psd/pixeldataformat определяется для 32 бит на пиксель с 8 битами для каждого из альфа красного зеленого и синего.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/pixeldataformat/rgb32bpp/
 ---
 ## PixelDataFormat.Rgb32Bpp property
 
-Получает[`PixelDataFormat`](../../pixeldataformat)определенный для 32 бит на пиксель с 8 битами для каждого из альфа, красного, зеленого и синий.
+Получает[`PixelDataFormat`](../../pixeldataformat) определяется для 32 бит на пиксель с 8 битами для каждого из альфа, красного, зеленого и синего.
 
 ```csharp
 public static PixelDataFormat Rgb32Bpp { get; }
@@ -16,7 +16,7 @@ public static PixelDataFormat Rgb32Bpp { get; }
 
 ### Стоимость имущества
 
-Формат[`PixelDataFormat`](../../pixeldataformat)определен для 32 бит на пиксель с 8 битами для каждого из альфа, красного, зеленого и синего.
+[`PixelDataFormat`](../../pixeldataformat) определяется для 32 бит на пиксель с 8 битами для каждого из альфа, красного, зеленого и синего.
 
 ### Смотрите также
 

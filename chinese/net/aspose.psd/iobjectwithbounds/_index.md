@@ -3,7 +3,7 @@ title: IObjectWithBounds
 second_title: Aspose.PSD for .NET API 参考
 description: 表示有边界的对象
 type: docs
-weight: 4370
+weight: 4420
 url: /zh/net/aspose.psd/iobjectwithbounds/
 ---
 ## IObjectWithBounds interface

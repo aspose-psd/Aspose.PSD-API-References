@@ -1,14 +1,14 @@
 ---
 title: Xor
 second_title: Aspose.PSD for .NET API 参考
-description: 将此Regionaspose.psd/region更新为并集减去其自身与指定RectangleFaspose.psd/rectanglef的交集结构体
+description: 更新这个Regionaspose.psd/region到并集减去自身与指定的交集RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 150
 url: /zh/net/aspose.psd/region/xor/
 ---
 ## Xor(RectangleF) {#xor_2}
 
-将此[`Region`](../../region)更新为并集减去其自身与指定[`RectangleF`](../../rectanglef)的交集结构体。
+更新这个[`Region`](../../region)到并集减去自身与指定的交集[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public void Xor(RectangleF rect)
@@ -16,7 +16,7 @@ public void Xor(RectangleF rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)结构与此[`Region`](../../region) 异或. |
+| rect | RectangleF | 这[`RectangleF`](../../rectanglef)与此异或的结构[`Region`](../../region). |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void Xor(RectangleF rect)
 
 ## Xor(Rectangle) {#xor_1}
 
-将此[`Region`](../../region)更新为并集减去其自身与指定[`Rectangle`](../../rectangle)的交集结构体。
+更新这个[`Region`](../../region)到并集减去自身与指定的交集[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public void Xor(Rectangle rect)
@@ -37,7 +37,7 @@ public void Xor(Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle)结构与此[`Region`](../../region) 异或. |
+| rect | Rectangle | 这[`Rectangle`](../../rectangle)与此异或的结构[`Region`](../../region). |
 
 ### 也可以看看
 
@@ -50,7 +50,7 @@ public void Xor(Rectangle rect)
 
 ## Xor(GraphicsPath) {#xor}
 
-将此[`Region`](../../region)更新为并集减去其自身与指定[`GraphicsPath`](../../graphicspath)的交集.
+更新这个[`Region`](../../region)到并集减去自身与指定的交集[`GraphicsPath`](../../graphicspath) .
 
 ```csharp
 public void Xor(GraphicsPath path)
@@ -58,7 +58,7 @@ public void Xor(GraphicsPath path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath)与此[`Region`](../../region)异或. |
+| path | GraphicsPath | 这[`GraphicsPath`](../../graphicspath)与此异或[`Region`](../../region). |
 
 ### 例外
 
@@ -77,7 +77,7 @@ public void Xor(GraphicsPath path)
 
 ## Xor(Region) {#xor_3}
 
-将此[`Region`](../../region)更新为并集减去其自身与指定[`Region`](../../region)的交集.
+更新这个[`Region`](../../region)到并集减去自身与指定的交集[`Region`](../../region) .
 
 ```csharp
 public void Xor(Region region)
@@ -85,7 +85,7 @@ public void Xor(Region region)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | [`Region`](../../region)与此[`Region`](../../region)异或. |
+| region | Region | 这[`Region`](../../region)与此异或[`Region`](../../region). |
 
 ### 例外
 

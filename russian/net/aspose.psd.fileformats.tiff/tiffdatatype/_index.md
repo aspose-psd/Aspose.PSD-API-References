@@ -1,14 +1,14 @@
 ---
 title: TiffDataType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Тип данных tiff.
+description: Тип данных TIFF.
 type: docs
-weight: 4090
+weight: 4140
 url: /ru/net/aspose.psd.fileformats.tiff/tiffdatatype/
 ---
 ## TiffDataType class
 
-Тип данных tiff.
+Тип данных TIFF.
 
 ```csharp
 public abstract class TiffDataType : IComparable
@@ -32,9 +32,9 @@ public abstract class TiffDataType : IComparable
 | Имя | Описание |
 | --- | --- |
 | static [ReadTag](../../aspose.psd.fileformats.tiff/tiffdatatype/readtag)(TiffStreamReader, long) | Считывает данные тега. |
-| [CompareTo](../../aspose.psd.fileformats.tiff/tiffdatatype/compareto)(object) | Сравнивает текущий экземпляр с другим объектом того же типа и возвращает целое число, указывающее, предшествует ли текущий экземпляр, следует ли за ним или находится в той же позиции в порядке сортировки как другой объект. |
+| [CompareTo](../../aspose.psd.fileformats.tiff/tiffdatatype/compareto)(object) | Сравнивает текущий экземпляр с другим объектом того же типа и возвращает целое число, указывающее, предшествует ли текущий экземпляр, следует за ним или находится в той же позиции в порядке сортировки, что и другой объект. |
 | virtual [DeepClone](../../aspose.psd.fileformats.tiff/tiffdatatype/deepclone)() | Выполняет глубокое клонирование этого экземпляра. |
-| override [ToString](../../aspose.psd.fileformats.tiff/tiffdatatype/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.tiff/tiffdatatype/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 | abstract [WriteAdditionalData](../../aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata)(TiffStreamWriter) | Записывает дополнительные данные тега. |
 | [WriteTag](../../aspose.psd.fileformats.tiff/tiffdatatype/writetag)(TiffStreamWriter, long) | Записывает данные тега. |
 

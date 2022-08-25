@@ -1,7 +1,7 @@
 ---
 title: Create8Bit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает 8-битную цветовую палитру.
+description: Создает 8битную цветовую палитру.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/colorpalettehelper/create8bit/

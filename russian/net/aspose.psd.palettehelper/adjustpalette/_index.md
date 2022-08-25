@@ -3,7 +3,7 @@ title: AdjustPalette
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс настройки цветовой палитры
 type: docs
-weight: 5060
+weight: 5110
 url: /ru/net/aspose.psd.palettehelper/adjustpalette/
 ---
 ## AdjustPalette class

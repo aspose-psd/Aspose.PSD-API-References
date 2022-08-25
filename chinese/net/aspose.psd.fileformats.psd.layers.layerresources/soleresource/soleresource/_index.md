@@ -1,14 +1,14 @@
 ---
 title: SoLeResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化SoLeResourceaspose.psd.fileformats.psd.layers.layerresources/soleresource类的新实例
+description: 初始化SoLeResourceaspose.psd.fileformats.psd.layers.layerresources/soleresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/soleresource/
 ---
 ## SoLeResource(Guid, bool, bool) {#constructor_1}
 
-初始化[`SoLeResource`](../../soleresource)类的新实例。
+初始化[`SoLeResource`](../../soleresource)类.
 
 ```csharp
 public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
@@ -16,9 +16,9 @@ public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| uniqueId | Guid | 放置图层数据的唯一标识符[`PlLdResource`](../../plldresource)。 |
-| isCustom | Boolean | 如果设置为` true` [是自定义的]。 |
-| hasCompInfo | Boolean | 如果设置为` true` [有comp信息]。 |
+| uniqueId | Guid | 放置图层数据的唯一标识符[`PlLdResource`](../../plldresource). |
+| isCustom | Boolean | 如果设置为`真的` [是习惯的]。 |
+| hasCompInfo | Boolean | 如果设置为`真的` [有补偿信息]。 |
 
 ### 也可以看看
 
@@ -30,7 +30,7 @@ public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 
 ## SoLeResource() {#constructor}
 
-初始化[`SoLeResource`](../../soleresource)类的新实例。
+初始化[`SoLeResource`](../../soleresource)类.
 
 ```csharp
 public SoLeResource()

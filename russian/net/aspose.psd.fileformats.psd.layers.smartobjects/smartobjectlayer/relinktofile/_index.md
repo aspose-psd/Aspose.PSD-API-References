@@ -1,7 +1,7 @@
 ---
 title: RelinkToFile
 second_title: Справочник по Aspose.PSD для .NET API
-description: Повторно связывает связанный смарт-объект с новым файлом. После этого нет необходимости вызывать метод UpdateModifiedContent.
+description: Повторно связывает связанный смартобъект с новым файлом. После этого нет необходимости вызывать метод UpdateModifiedContent.
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/relinktofile/

@@ -1,14 +1,14 @@
 ---
 title: ColorExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Методы расширенияColor../aspose.psd/color.
+description: Color../aspose.psd/color методы расширения.
 type: docs
 weight: 1050
 url: /ru/net/aspose.psd.extensions/colorextensions/
 ---
 ## ColorExtensions class
 
-Методы расширения[`Color`](../../aspose.psd/color).
+[`Color`](../../aspose.psd/color) методы расширения.
 
 ```csharp
 public static class ColorExtensions
@@ -18,8 +18,8 @@ public static class ColorExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor)(Color) | Преобразует[`Color`](../../aspose.psd/color)вColor. |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors)(Color[]) | Преобразует массив[`Color`](../../aspose.psd/color)в массивColorмножество. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor)(Color) | Преобразует[`Color`](../../aspose.psd/color) кColor . |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors)(Color[]) | Преобразует[`Color`](../../aspose.psd/color) массив кColor массив. |
 
 ### Смотрите также
 

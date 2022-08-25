@@ -1,14 +1,14 @@
 ---
 title: ComponentB
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает компонент B
+description: Получает или задает компонент B
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentb/
 ---
 ## PhflResourceVersion2.ComponentB property
 
-Получает или устанавливает компонент B
+Получает или задает компонент B
 
 ```csharp
 public short ComponentB { get; set; }
@@ -16,7 +16,7 @@ public short ComponentB { get; set; }
 
 ### Стоимость имущества
 
-компонент B.
+Компонент B.
 
 ### Исключения
 

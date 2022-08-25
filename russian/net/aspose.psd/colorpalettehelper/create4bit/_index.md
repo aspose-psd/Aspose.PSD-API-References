@@ -1,7 +1,7 @@
 ---
 title: Create4Bit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает 4-битную цветовую палитру.
+description: Создает 4битную цветовую палитру.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/colorpalettehelper/create4bit/

@@ -3,7 +3,7 @@ title: SmartResourceCreator
 second_title: Aspose.PSD for .NET API 参考
 description: 定义可以创建 PlLdSoLd 和 SoLe 资源的 SmartResourceCreator 类 用于支持 Adobe Photoshop 图像中的智能对象层
 type: docs
-weight: 2920
+weight: 2970
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
 ## SmartResourceCreator class
@@ -18,9 +18,9 @@ public class SmartResourceCreator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator#constructor)() | 初始化[`SmartResourceCreator`](../smartresourcecreator)类的新实例。 |
-| [SmartResourceCreator](smartresourcecreator#constructor_1)(PlacedResource) | 使用给定模板初始化[`SmartResourceCreator`](../smartresourcecreator)类 的新实例。 |
-| [SmartResourceCreator](smartresourcecreator#constructor_2)(bool, bool) | 初始化[`SmartResourceCreator`](../smartresourcecreator)类的新实例。 |
+| [SmartResourceCreator](smartresourcecreator#constructor)() | 初始化[`SmartResourceCreator`](../smartresourcecreator)类. |
+| [SmartResourceCreator](smartresourcecreator#constructor_1)(PlacedResource) | 初始化[`SmartResourceCreator`](../smartresourcecreator) class 使用给定的模板。 |
+| [SmartResourceCreator](smartresourcecreator#constructor_2)(bool, bool) | 初始化[`SmartResourceCreator`](../smartresourcecreator)类. |
 
 ## 方法
 
@@ -338,6 +338,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### 也可以看看
 
 * class [PlLdResource](../plldresource)
+* class [SoLdResource](../soldresource)
 * class [SoLeResource](../soleresource)
 * 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
 * 部件 [Aspose.PSD](../../)

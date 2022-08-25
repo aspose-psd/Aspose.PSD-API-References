@@ -1,14 +1,14 @@
 ---
 title: ITextPortion
 second_title: Справочник по Aspose.PSD для .NET API
-description: Интерфейс для управления частями текста
+description: Интерфейс для управления текстовыми частями
 type: docs
-weight: 3420
+weight: 3470
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextportion/
 ---
 ## ITextPortion interface
 
-Интерфейс для управления частями текста
+Интерфейс для управления текстовыми частями
 
 ```csharp
 public interface ITextPortion
@@ -24,7 +24,7 @@ public interface ITextPortion
 
 ### Примеры
 
-Следующий пример демонстрирует, что текст Выравнивание через ITextPortion для языков с письмом справа налево работает корректно.
+В следующем примере показано, что выравнивание текста с помощью ITextPortion для языков с письмом справа налево работает правильно.
 
 ```csharp
 [C#]
@@ -44,7 +44,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-В следующем примере показано, как можно отображать разные стили в одном текстовом слое в Aspose.PSD
+В следующем примере показано, как можно визуализировать разные стили в одном текстовом слое в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -95,7 +95,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 ```csharp
 [C#]
 
-// Извлечен неверный размер шрифта 
+// Извлечен неправильный размер шрифта 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -140,7 +140,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-В следующем примере кода демонстрируется редактирование частей текста и стиля их текста.
+В следующем примере кода показано редактирование текстовых частей и стиля их текста.
 
 ```csharp
 [C#]

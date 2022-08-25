@@ -1,14 +1,14 @@
 ---
 title: LayerLock
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置图层锁定 请注意如果设置了标志 LayerFlags.TransparencyProtected它将被层锁定标志覆盖 要返回LayerFlags.TransparencyProtected标志需要申请层选项layer.Flags x7C LayerFlags.TransparencyProtected
+description: 获取或设置图层锁定 注意如果设置了LayerFlags.TransparencyProtected标志它将被图层锁定标志覆盖 返回LayerFlags.TransparencyProtected标志需要申请图层选项layer.Flags x7C LayerFlags.TransparencyProtected
 type: docs
 weight: 210
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/layerlock/
 ---
 ## Layer.LayerLock property
 
-获取或设置图层锁定。 请注意，如果设置了标志 LayerFlags.TransparencyProtected，它将被层锁定标志覆盖。 要返回LayerFlags.TransparencyProtected标志需要申请层选项layer.Flags &#x7C;= LayerFlags.TransparencyProtected
+获取或设置图层锁定。 注意如果设置了LayerFlags.TransparencyProtected标志，它将被图层锁定标志覆盖。 返回LayerFlags.TransparencyProtected标志需要申请图层选项layer.Flags &#x7C;= LayerFlags.TransparencyProtected
 
 ```csharp
 public LayerLockType LayerLock { get; set; }
@@ -16,7 +16,7 @@ public LayerLockType LayerLock { get; set; }
 
 ### 适当的价值
 
-层锁.
+层锁。
 
 ### 也可以看看
 

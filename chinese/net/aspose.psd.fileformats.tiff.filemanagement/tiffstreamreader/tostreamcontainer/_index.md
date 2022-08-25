@@ -1,14 +1,14 @@
 ---
 title: ToStreamContainer
 second_title: Aspose.PSD for .NET API 参考
-description: 将基础数据转换为流容器
+description: 将底层数据转换为流容器
 type: docs
 weight: 230
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer/
 ---
 ## TiffStreamReader.ToStreamContainer method
 
-将基础数据转换为流容器。
+将底层数据转换为流容器。
 
 ```csharp
 public StreamContainer ToStreamContainer(long startPosition)
@@ -20,7 +20,7 @@ public StreamContainer ToStreamContainer(long startPosition)
 
 ### 返回值
 
-[`StreamContainer`](../../../aspose.psd/streamcontainer)带有转换后的数据。
+这[`StreamContainer`](../../../aspose.psd/streamcontainer)带有转换后的数据。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ColorBlendExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: 包含ColorBlend../aspose.psd/colorblend扩展方法
+description: 包含ColorBlend../aspose.psd/colorblend扩展方法.
 type: docs
 weight: 1040
 url: /zh/net/aspose.psd.extensions/colorblendextensions/
 ---
 ## ColorBlendExtensions class
 
-包含[`ColorBlend`](../../aspose.psd/colorblend)扩展方法。
+包含[`ColorBlend`](../../aspose.psd/colorblend)扩展方法.
 
 ```csharp
 public static class ColorBlendExtensions
@@ -18,7 +18,7 @@ public static class ColorBlendExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend)(ColorBlend) | 将[`ColorBlend`](../../aspose.psd/colorblend)转换为ColorBlend。 |
+| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend)(ColorBlend) | 转换[`ColorBlend`](../../aspose.psd/colorblend)至ColorBlend . |
 
 ### 也可以看看
 

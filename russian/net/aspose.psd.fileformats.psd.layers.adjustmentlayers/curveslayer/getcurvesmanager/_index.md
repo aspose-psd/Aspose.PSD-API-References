@@ -16,7 +16,7 @@ public CurvesManager GetCurvesManager()
 
 ### Возвращаемое значение
 
-[`CurvesDiscreteManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager)или[`CurvesContinuousManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager)это зависит от свойств IsDiscreteManagerUsed и IsContinuousManagerUsed
+[`CurvesDiscreteManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager) или же[`CurvesContinuousManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager) это зависит от свойств IsDiscreteManagerUsed и IsContinuousManagerUsed.
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public void SetFileDataRate(Rational rate)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rate | Rational | 文件数据速率，以兆字节每秒为单位。 |
+| rate | Rational | 以兆字节每秒为单位的文件数据速率。 |
 
 ### 也可以看看
 

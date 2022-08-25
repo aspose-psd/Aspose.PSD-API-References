@@ -1,14 +1,14 @@
 ---
 title: IsMonochromatic
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение монохромный.
+description: Получает или задает значение монохроматического.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/
 ---
 ## AddNoiseSmartFilter.IsMonochromatic property
 
-Получает или задает значение монохромный.
+Получает или задает значение монохроматического.
 
 ```csharp
 public bool IsMonochromatic { get; set; }

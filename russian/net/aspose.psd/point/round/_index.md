@@ -1,14 +1,14 @@
 ---
 title: Round
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует указанныйPointFaspose.psd/pointfвPointaspose.psd/pointобъекта путем округления значенийPointaspose.psd/pointдо ближайшего целого числа.
+description: Преобразует указанныйPointFaspose.psd/pointf кPointaspose.psd/point объект округляяPointaspose.psd/point значения до ближайшего целого числа.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/point/round/
 ---
 ## Point.Round method
 
-Преобразует указанный[`PointF`](../../pointf)в[`Point`](../../point)объекта путем округления значений[`Point`](../../point)до ближайшего целого числа.
+Преобразует указанный[`PointF`](../../pointf) к[`Point`](../../point) объект, округляя[`Point`](../../point) значения до ближайшего целого числа.
 
 ```csharp
 public static Point Round(PointF point)
@@ -16,11 +16,11 @@ public static Point Round(PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf)для преобразования. |
+| point | PointF | [`PointF`](../../pointf) конвертировать. |
 
 ### Возвращаемое значение
 
-[`Point`](../../point)этот метод преобразует в.
+[`Point`](../../point) этот метод преобразуется в.
 
 ### Смотрите также
 

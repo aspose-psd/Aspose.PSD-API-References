@@ -1,14 +1,14 @@
 ---
 title: ClblResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ClblResourceaspose.psd.fileformats.psd.layers.layerresources/clblresource类的新实例
+description: 初始化ClblResourceaspose.psd.fileformats.psd.layers.layerresources/clblresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
 ## ClblResource(bool) {#constructor_1}
 
-初始化[`ClblResource`](../../clblresource)类的新实例。
+初始化[`ClblResource`](../../clblresource)类.
 
 ```csharp
 public ClblResource(bool blendClippedElements)
@@ -16,7 +16,7 @@ public ClblResource(bool blendClippedElements)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| blendClippedElements | Boolean | 如果设置为` true` [混合剪裁元素]。 |
+| blendClippedElements | Boolean | 如果设置为`真的` [混合剪辑元素]。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public ClblResource(bool blendClippedElements)
 
 ## ClblResource() {#constructor}
 
-初始化[`ClblResource`](../../clblresource)类的新实例。
+初始化[`ClblResource`](../../clblresource)类.
 
 ```csharp
 public ClblResource()
@@ -44,7 +44,7 @@ public ClblResource()
 
 ## ClblResource(byte[]) {#constructor_2}
 
-初始化[`ClblResource`](../../clblresource)类的新实例。 具有自定义或未知值
+初始化[`ClblResource`](../../clblresource) class. 具有自定义或未知值
 
 ```csharp
 public ClblResource(byte[] data)

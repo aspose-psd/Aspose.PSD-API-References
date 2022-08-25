@@ -16,7 +16,7 @@ public TiffDataType[] MakerNoteData { get; }
 
 ### 适当的价值
 
-制造商票据数据。
+厂商票据数据。
 
 ### 也可以看看
 

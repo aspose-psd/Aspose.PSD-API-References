@@ -19,7 +19,7 @@ public enum ExifYCbCrPositioning
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Centered | `1` | 居中的 YCbCr |
-| CoSited | `2` | 同址 |
+| CoSited | `2` | 共址位置 |
 
 ### 也可以看看
 

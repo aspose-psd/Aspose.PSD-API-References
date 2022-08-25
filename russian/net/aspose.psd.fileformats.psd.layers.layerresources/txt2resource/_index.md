@@ -1,14 +1,14 @@
 ---
 title: Txt2Resource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс ресурсов Txt2
+description: класс ресурса Txt2
 type: docs
-weight: 2960
+weight: 3010
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/
 ---
 ## Txt2Resource class
 
-Класс ресурсов Txt2
+класс ресурса Txt2
 
 ```csharp
 public class Txt2Resource : LayerResource
@@ -24,7 +24,7 @@ public class Txt2Resource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data) { get; set; } | Получает или задает данные. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data) { get; set; } | Получает или устанавливает данные. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/psdversion) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
@@ -34,16 +34,16 @@ public class Txt2Resource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [AddTextRecord](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord)(string, RectangleF) | Добавляет текстовую запись в Ресурс и возвращает идентификатор текстовой записи. |
+| [AddTextRecord](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord)(string, RectangleF) | Добавляет текстовую запись в ресурс и возвращает идентификатор текстовой записи. |
 | [GetTextData](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata)() | Получает текстовую запись из данных ресурса. |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/save)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

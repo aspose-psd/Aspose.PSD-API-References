@@ -3,7 +3,7 @@ title: ILayerEffect
 second_title: Справочник по Aspose.PSD для .NET API
 description: Интерфейс для эффектов слоя
 type: docs
-weight: 2080
+weight: 2120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/
 ---
 ## ILayerEffect interface

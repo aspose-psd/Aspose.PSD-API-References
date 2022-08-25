@@ -1,14 +1,14 @@
 ---
 title: RectangleShape
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化RectangleShapeaspose.psd.shapes/rectangleshape类的新实例
+description: 初始化RectangleShapeaspose.psd.shapes/rectangleshape类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapes/rectangleshape/rectangleshape/
 ---
 ## RectangleShape() {#constructor}
 
-初始化[`RectangleShape`](../../rectangleshape)类的新实例。
+初始化[`RectangleShape`](../../rectangleshape)类.
 
 ```csharp
 public RectangleShape()
@@ -24,7 +24,7 @@ public RectangleShape()
 
 ## RectangleShape(RectangleF) {#constructor_1}
 
-初始化[`RectangleShape`](../../rectangleshape)类的新实例。
+初始化[`RectangleShape`](../../rectangleshape)类.
 
 ```csharp
 public RectangleShape(RectangleF rectangle)

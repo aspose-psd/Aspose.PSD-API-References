@@ -16,7 +16,7 @@ public virtual bool IsVisibleInGroup { get; }
 
 ### 适当的价值
 
-` true` 如果此实例在组中可见；否则，` false` 。
+`真的`如果此实例在组中可见；否则，`错误的` .
 
 ### 也可以看看
 

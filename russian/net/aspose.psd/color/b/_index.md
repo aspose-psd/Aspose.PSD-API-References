@@ -1,14 +1,14 @@
 ---
 title: B
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение синего компонента этойColoraspose.psd/colorструктуры.
+description: Получает значение синего компонента этогоColoraspose.psd/colorструктура.
 type: docs
 weight: 1470
 url: /ru/net/aspose.psd/color/b/
 ---
 ## Color.B property
 
-Получает значение синего компонента этой[`Color`](../../color)структуры.
+Получает значение синего компонента этого[`Color`](../../color)структура.
 
 ```csharp
 public byte B { get; }

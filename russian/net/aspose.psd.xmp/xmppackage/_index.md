@@ -3,7 +3,7 @@ title: XmpPackage
 second_title: Справочник по Aspose.PSD для .NET API
 description: Определяет класс XmpPackage представляющий базовую абстракцию для пакета XMP.
 type: docs
-weight: 6150
+weight: 6200
 url: /ru/net/aspose.psd.xmp/xmppackage/
 ---
 ## XmpPackage class
@@ -18,7 +18,7 @@ public class XmpPackage : IEnumerable<KeyValuePair<string, object>>, IXmlValue
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObjectс указанным ключом. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObject с указанным ключом. |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | Получает ключи в пакете XMP. |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | Получает префикс. |
@@ -30,8 +30,8 @@ public class XmpPackage : IEnumerable<KeyValuePair<string, object>>, IXmlValue
 | --- | --- |
 | virtual [AddValue](../../aspose.psd.xmp/xmppackage/addvalue)(string, string) | Добавляет значение. |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | Очищает этот экземпляр. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ ключ. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ key. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | Преобразует значение XMP в представление XML. |
 | virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | Удалить значение с указанным ключом. |
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue)(string, IXmlValue) | Устанавливает значение. |

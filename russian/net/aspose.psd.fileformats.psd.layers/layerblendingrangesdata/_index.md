@@ -1,14 +1,14 @@
 ---
 title: LayerBlendingRangesData
 second_title: Справочник по Aspose.PSD для .NET API
-description: Данные диапазона смешивания слоев.
+description: Данные диапазонов смешивания слоев.
 type: docs
-weight: 2030
+weight: 2070
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
 ## LayerBlendingRangesData class
 
-Данные диапазона смешивания слоев.
+Данные диапазонов смешивания слоев.
 
 ```csharp
 public sealed class LayerBlendingRangesData

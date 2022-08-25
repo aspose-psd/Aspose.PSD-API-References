@@ -3,7 +3,7 @@ title: ProgressEventHandler
 second_title: Aspose.PSD for .NET API 参考
 description: 进度事件处理函数参考
 type: docs
-weight: 5160
+weight: 5210
 url: /zh/net/aspose.psd/progresseventhandler/
 ---
 ## ProgressEventHandler delegate
@@ -16,7 +16,7 @@ public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | 进度事件处理数据。 |
+| info | ProgressEventHandlerInfo | 进度事件处理程序数据。 |
 
 ### 例子
 

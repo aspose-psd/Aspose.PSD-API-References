@@ -1,14 +1,14 @@
 ---
 title: DefaultVersion
 second_title: Aspose.PSD for .NET API 参考
-description: 默认的 PSD 版本
+description: 默认的PSD版本
 type: docs
 weight: 620
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 ---
 ## PsdImage.DefaultVersion field
 
-默认的 PSD 版本。
+默认的PSD版本。
 
 ```csharp
 public const int DefaultVersion;

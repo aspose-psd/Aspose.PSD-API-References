@@ -1,14 +1,14 @@
 ---
 title: StringFormatExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: 包含StringFormat../aspose.psd/stringformat类的扩展方法
+description: 包含扩展方法StringFormat../aspose.psd/stringformat类.
 type: docs
 weight: 1190
 url: /zh/net/aspose.psd.extensions/stringformatextensions/
 ---
 ## StringFormatExtensions class
 
-包含[`StringFormat`](../../aspose.psd/stringformat)类的扩展方法。
+包含扩展方法[`StringFormat`](../../aspose.psd/stringformat)类.
 
 ```csharp
 public static class StringFormatExtensions
@@ -18,7 +18,7 @@ public static class StringFormatExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat)(StringFormat) | 将[`StringFormat`](../../aspose.psd/stringformat)转换为StringFormat。 |
+| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat)(StringFormat) | 转换[`StringFormat`](../../aspose.psd/stringformat)到StringFormat . |
 
 ### 也可以看看
 

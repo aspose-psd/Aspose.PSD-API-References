@@ -16,7 +16,7 @@ public Color Color { get; set; }
 
 ### 适当的价值
 
-颜色。
+颜色.
 
 ### 例子
 

@@ -20,7 +20,7 @@ public VectorShapeTransform Transform { get; set; }
 
 ### 例子
 
-此示例说明如何在 PSD 图像中使用 Vogk 和矢量路径资源调整图层大小。
+此示例显示如何使用 PSD 图像中的 Vogk 和矢量路径资源调整图层的大小。
 
 ```csharp
 [C#]

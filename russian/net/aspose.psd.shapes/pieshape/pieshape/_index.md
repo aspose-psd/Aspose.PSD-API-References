@@ -1,14 +1,14 @@
 ---
 title: PieShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPieShapeaspose.psd.shapes/pieshape.
+description: Инициализирует новый экземплярPieShapeaspose.psd.shapes/pieshape класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/pieshape/pieshape/
 ---
 ## PieShape() {#constructor}
 
-Инициализирует новый экземпляр класса[`PieShape`](../../pieshape).
+Инициализирует новый экземпляр[`PieShape`](../../pieshape) класс.
 
 ```csharp
 public PieShape()
@@ -24,7 +24,7 @@ public PieShape()
 
 ## PieShape(RectangleF, float, float) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PieShape`](../../pieshape).
+Инициализирует новый экземпляр[`PieShape`](../../pieshape) класс.
 
 ```csharp
 public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)

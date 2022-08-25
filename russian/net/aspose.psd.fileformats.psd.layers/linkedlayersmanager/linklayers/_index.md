@@ -26,13 +26,13 @@ public short LinkLayers(Layer[] layers)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Слои пустые. |
+| ArgumentNullException | Слои нулевые. |
 | ArgumentException | Количество слоев должно быть больше 1. |
 | ArgumentException | Контейнер каждого слоя должен быть таким же, как текущий PsdImage. |
 
 ### Примеры
 
-В следующем примере показано, как можно управлять связанными слоями в Aspose.PSD
+В следующем примере показано, как вы можете манипулировать связанными слоями в Aspose.PSD.
 
 ```csharp
 [C#]

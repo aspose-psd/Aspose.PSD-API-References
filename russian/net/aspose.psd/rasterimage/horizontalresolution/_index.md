@@ -1,14 +1,14 @@
 ---
 title: HorizontalResolution
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает горизонтальное разрешение в пикселях на дюйм для этогоRasterImageaspose.psd/rasterimage.
+description: Получает или задает горизонтальное разрешение в пикселях на дюйм для этогоRasterImageaspose.psd/rasterimage .
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/rasterimage/horizontalresolution/
 ---
 ## RasterImage.HorizontalResolution property
 
-Получает или задает горизонтальное разрешение в пикселях на дюйм для этого[`RasterImage`](../../rasterimage).
+Получает или задает горизонтальное разрешение в пикселях на дюйм для этого[`RasterImage`](../../rasterimage) .
 
 ```csharp
 public virtual double HorizontalResolution { get; set; }

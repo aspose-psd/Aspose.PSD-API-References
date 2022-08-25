@@ -1,14 +1,14 @@
 ---
 title: Round
 second_title: Aspose.PSD for .NET API 参考
-description: 将指定的SizeFaspose.psd/sizef结构转换为Sizeaspose.psd/size结构SizeFaspose.psd/sizef结构到最接近的整数值
+description: 转换指定的SizeFaspose.psd/sizef结构为Sizeaspose.psd/size通过四舍五入的值的结构SizeFaspose.psd/sizef结构到最接近的整数值
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/size/round/
 ---
 ## Size.Round method
 
-将指定的[`SizeF`](../../sizef)结构转换为[`Size`](../../size)结构[`SizeF`](../../sizef)结构到最接近的整数值。
+转换指定的[`SizeF`](../../sizef)结构为[`Size`](../../size)通过四舍五入的值的结构[`SizeF`](../../sizef)结构到最接近的整数值。
 
 ```csharp
 public static Size Round(SizeF size)
@@ -16,11 +16,11 @@ public static Size Round(SizeF size)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| size | SizeF | 要转换的[`SizeF`](../../sizef)结构。 |
+| size | SizeF | 这[`SizeF`](../../sizef)要转换的结构。 |
 
 ### 返回值
 
-此方法转换为的[`Size`](../../size)结构。
+这[`Size`](../../size)此方法转换为的结构。
 
 ### 也可以看看
 

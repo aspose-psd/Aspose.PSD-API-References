@@ -3,7 +3,7 @@ title: VsmsResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс VsmsResource. Этот ресурс содержит информацию о маске векторного слоя
 type: docs
-weight: 3270
+weight: 3320
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 ---
 ## VsmsResource class
@@ -18,20 +18,20 @@ public class VsmsResource : VectorPathDataResource
 
 | Имя | Описание |
 | --- | --- |
-| [VsmsResource](vsmsresource#constructor)() | Инициализирует новый экземпляр класса[`VsmsResource`](../vsmsresource). |
-| [VsmsResource](vsmsresource#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`VsmsResource`](../vsmsresource). |
+| [VsmsResource](vsmsresource#constructor)() | Инициализирует новый экземпляр[`VsmsResource`](../vsmsresource) класс. |
+| [VsmsResource](vsmsresource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`VsmsResource`](../vsmsresource) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | Получает или задает значение, указывающее, отключен ли этот экземпляр. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | Получает или задает значение, указывающее, инвертирован ли данный экземпляр. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | Получает или задает значение, указывающее, инвертирован ли этот экземпляр. |
 | [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked) { get; set; } | Получает или задает значение, указывающее, не связан ли этот экземпляр. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths) { get; set; } | Получает или задает записи пути. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature) { get; } | Получает подпись. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version) { get; set; } | Получает или задает версию. |
 
@@ -40,13 +40,13 @@ public class VsmsResource : VectorPathDataResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 

@@ -1,14 +1,14 @@
 ---
 title: Structures
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает структуры.
+description: Получает или задает копию массива структур.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures/
 ---
 ## DescriptorStructure.Structures property
 
-Получает или задает структуры.
+Получает или задает копию массива структур.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }

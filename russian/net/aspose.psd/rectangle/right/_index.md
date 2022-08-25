@@ -1,14 +1,14 @@
 ---
 title: Right
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает координату x которая является суммойXaspose.psd/rectangle/xиWidthaspose.psd/rectangle/widthзначения свойств этойRectangleaspose.psd/rectangleструктуры.
+description: Получает или задает координату x которая является суммойXaspose.psd/rectangle/x а такжеWidthaspose.psd/rectangle/width значения свойств этогоRectangleaspose.psd/rectangleструктура.
 type: docs
 weight: 160
 url: /ru/net/aspose.psd/rectangle/right/
 ---
 ## Rectangle.Right property
 
-Получает или задает координату x, которая является суммой[`X`](../x)и[`Width`](../width)значения свойств этой[`Rectangle`](../../rectangle)структуры.
+Получает или задает координату x, которая является суммой[`X`](../x) а также[`Width`](../width) значения свойств этого[`Rectangle`](../../rectangle)структура.
 
 ```csharp
 public int Right { get; set; }
@@ -16,7 +16,7 @@ public int Right { get; set; }
 
 ### Стоимость имущества
 
-Координата x, которая является суммой[`X`](../x)и[`Width`](../width)этого[`Rectangle`](../../rectangle).
+Координата x, представляющая собой сумму[`X`](../x) а также[`Width`](../width) этого[`Rectangle`](../../rectangle) .
 
 ### Смотрите также
 

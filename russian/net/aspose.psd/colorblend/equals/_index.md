@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по Aspose.PSD для .NET API
-description: Проверяет является ли указанный объект классомColorBlendaspose.psd/colorblendи эквивалентен этомуColorBlendaspose.psd/colorblendкласс.
+description: Проверяет является ли указанный объектColorBlendaspose.psd/colorblend класс и эквивалентен этомуColorBlendaspose.psd/colorblend класс.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/colorblend/equals/
 ---
 ## ColorBlend.Equals method
 
-Проверяет, является ли указанный объект классом[`ColorBlend`](../../colorblend)и эквивалентен этому[`ColorBlend`](../../colorblend)класс.
+Проверяет, является ли указанный объект[`ColorBlend`](../../colorblend) класс и эквивалентен этому[`ColorBlend`](../../colorblend) класс.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Объект для проверки. |
+| obj | Object | Объект для тестирования. |
 
 ### Возвращаемое значение
 
-Истинно, если*obj*является классом[`ColorBlend`](../../colorblend), эквивалентным этому[`ColorBlend`](../../colorblend)класс; в противном случае ложно.
+Верно, если*obj* это[`ColorBlend`](../../colorblend) класс, эквивалентный этому[`ColorBlend`](../../colorblend) учебный класс; в противном случае ложно.
 
 ### Смотрите также
 

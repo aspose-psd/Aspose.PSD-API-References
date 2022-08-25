@@ -1,7 +1,7 @@
 ---
 title: GetNearestColorIndex
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает индекс ближайшего 32-битного цвета ARGB.
+description: Получает индекс ближайшего 32битного цвета ARGB.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/icolorpalette/getnearestcolorindex/

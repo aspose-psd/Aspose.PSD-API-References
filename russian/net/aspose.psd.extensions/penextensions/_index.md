@@ -1,14 +1,14 @@
 ---
 title: PenExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Содержит методы расширения дляPen../aspose.psd/penиPen.
+description: Содержит методы расширения дляPen../aspose.psd/pen а такжеPen .
 type: docs
 weight: 1140
 url: /ru/net/aspose.psd.extensions/penextensions/
 ---
 ## PenExtensions class
 
-Содержит методы расширения для[`Pen`](../../aspose.psd/pen)иPen.
+Содержит методы расширения для[`Pen`](../../aspose.psd/pen) а такжеPen .
 
 ```csharp
 public static class PenExtensions
@@ -18,7 +18,7 @@ public static class PenExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen)(Pen) | Преобразует[`Pen`](../../aspose.psd/pen)вPen. |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen)(Pen) | Преобразует[`Pen`](../../aspose.psd/pen) кPen . |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: ThumbnailFormat
 second_title: Справочник по Aspose.PSD для .NET API
 description: Определяет формат данных эскиза.
 type: docs
-weight: 3790
+weight: 3840
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 ---
 ## ThumbnailFormat enumeration
@@ -19,7 +19,7 @@ public enum ThumbnailFormat
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | KRawRgb | `0` | Необработанный формат RGB. |
-| KJpegRgb | `1` | Сжатый формат Jpeg. |
+| KJpegRgb | `1` | Сжатый формат JPEG. |
 
 ### Смотрите также
 

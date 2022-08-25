@@ -1,14 +1,14 @@
 ---
 title: ChannelsCount
 second_title: Aspose.PSD for .NET API 参考
-description: 获取层的通道数
+description: 获取图层的通道数
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
 ## Layer.ChannelsCount property
 
-获取层的通道数。
+获取图层的通道数。
 
 ```csharp
 public ushort ChannelsCount { get; }

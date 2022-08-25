@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Полученный хэш-код.
+description: Полученный хешкод.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/cmykcolor/gethashcode/
 ---
 ## CmykColor.GetHashCode method
 
-Полученный хэш-код.
+Полученный хеш-код.
 
 ```csharp
 public override int GetHashCode()
@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Int32.
+Int32 .
 
 ### Смотрите также
 

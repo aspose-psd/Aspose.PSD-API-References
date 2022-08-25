@@ -1,14 +1,14 @@
 ---
 title: Values
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает массив значений внутриXmpArrayaspose.psd.xmp/xmparray.
+description: Получает массив значений внутриXmpArrayaspose.psd.xmp/xmparray .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp/xmparray/values/
 ---
 ## XmpArray.Values property
 
-Получает массив значений внутри[`XmpArray`](../../xmparray).
+Получает массив значений внутри[`XmpArray`](../../xmparray) .
 
 ```csharp
 public string[] Values { get; }

@@ -3,7 +3,7 @@ title: IPsdColorPalette
 second_title: Справочник по Aspose.PSD для .NET API
 description: Цветовая палитра pasd
 type: docs
-weight: 4430
+weight: 4480
 url: /ru/net/aspose.psd/ipsdcolorpalette/
 ---
 ## IPsdColorPalette interface
@@ -19,7 +19,7 @@ public interface IPsdColorPalette : IColorPalette
 | Имя | Описание |
 | --- | --- |
 | [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor) { get; } | Получает значение, указывающее, существует ли прозрачный цвет. |
-| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries) { get; } | Получает необработанные данные записей цветовой палитры. |
+| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries) { get; } | Получает данные необработанных записей цветовой палитры. |
 | [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount) { get; } | Получает количество записей исходной цветовой палитры. |
 | [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor) { get; } | Получает прозрачный цвет. |
 | [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex) { get; } | Получает индекс прозрачного цвета. |

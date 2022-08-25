@@ -1,14 +1,14 @@
 ---
 title: AdjustmentLayerResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Базовый класс для ресурсов корректирующего слоя
+description: Базовый класс для ресурсов слоя настроек
 type: docs
-weight: 2230
+weight: 2270
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/
 ---
 ## AdjustmentLayerResource class
 
-Базовый класс для ресурсов корректирующего слоя
+Базовый класс для ресурсов слоя настроек
 
 ```csharp
 public abstract class AdjustmentLayerResource : LayerResource
@@ -28,7 +28,7 @@ public abstract class AdjustmentLayerResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

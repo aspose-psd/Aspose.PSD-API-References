@@ -1,14 +1,14 @@
 ---
 title: MidtonesCyanRedBalance
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置中间调青色红色平衡
+description: 获取或设置中间调青红平衡
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonescyanredbalance/
 ---
 ## ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance property
 
-获取或设置中间调青色红色平衡。
+获取或设置中间调青红平衡。
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }
@@ -22,7 +22,7 @@ public short MidtonesCyanRedBalance { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | Midtones Cyan Red Balance 必须在 -100 到 +100 的范围内。 |
+| ArgumentOutOfRangeException | 中间调青色红色平衡必须在 -100 到 +100 的范围内。 |
 
 ### 例子
 

@@ -1,7 +1,7 @@
 ---
 title: JpegLsPresetCodingParameters
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет предустановленные параметры кодирования JPEG-LS как определено в ISO/IEC 14495-1 C.2.4.1.1. JPEG-LS определяет набор параметров по умолчанию но можно использовать пользовательские параметры. При использовании эти параметры записываются в закодированный битовый поток поскольку они необходимы для процесса декодирования.
+description: Определяет предустановленные параметры кодирования JPEGLS как определено в ISO/IEC 144951 C.2.4.1.1. JPEGLS определяет набор параметров по умолчанию но можно использовать пользовательские параметры. При использовании эти параметры записываются в закодированный битовый поток поскольку они необходимы для процесса декодирования.
 type: docs
 weight: 1520
 url: /ru/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/
@@ -24,7 +24,7 @@ public class JpegLsPresetCodingParameters
 
 | Имя | Описание |
 | --- | --- |
-| [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue) { get; set; } | Получает или задает максимально возможное значение для любого образца изображения в отсканированном виде. Это значение должно быть больше или равно фактическому максимальному значению для компонентов в сканировании. |
+| [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue) { get; set; } | Получает или задает максимально возможное значение для любого образца изображения при сканировании. Оно должно быть больше или равно фактическому максимальному значению для компонентов в сканировании. |
 | [ResetValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue) { get; set; } | Получает или задает значение, при котором счетчики A, B и N уменьшаются вдвое. |
 | [Threshold1](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1) { get; set; } | Получает или задает первое пороговое значение квантования для локальных градиентов. |
 | [Threshold2](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2) { get; set; } | Получает или задает второе пороговое значение квантования для локальных градиентов. |

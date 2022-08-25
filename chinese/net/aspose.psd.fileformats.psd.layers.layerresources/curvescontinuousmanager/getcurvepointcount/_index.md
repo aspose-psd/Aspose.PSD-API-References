@@ -16,11 +16,11 @@ public int GetCurvePointCount(int channelIndex)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
+| channelIndex | Int32 | 频道索引。 |
 
 ### 返回值
 
-通道中的曲线点计数
+通道中的曲线点数
 
 ### 也可以看看
 

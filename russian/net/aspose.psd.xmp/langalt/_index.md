@@ -3,7 +3,7 @@ title: LangAlt
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет альтернативу языка XMP.
 type: docs
-weight: 5640
+weight: 5690
 url: /ru/net/aspose.psd.xmp/langalt/
 ---
 ## LangAlt class
@@ -18,8 +18,8 @@ public class LangAlt : IXmlValue
 
 | Имя | Описание |
 | --- | --- |
-| [LangAlt](langalt#constructor)() | Инициализирует новый экземпляр класса[`LangAlt`](../langalt). |
-| [LangAlt](langalt#constructor_1)(string) | Инициализирует новый экземпляр класса[`LangAlt`](../langalt). |
+| [LangAlt](langalt#constructor)() | Инициализирует новый экземпляр[`LangAlt`](../langalt) класс. |
+| [LangAlt](langalt#constructor_1)(string) | Инициализирует новый экземпляр[`LangAlt`](../langalt) класс. |
 
 ## Методы
 
@@ -27,7 +27,7 @@ public class LangAlt : IXmlValue
 | --- | --- |
 | virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage)(string, string) | Добавляет язык. |
 | [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue)() | Преобразует значение XMP в представление XML. |
-| override [ToString](../../aspose.psd.xmp/langalt/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.xmp/langalt/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置流长度以字节为单位该值比Length小了StreamContainer 构造函数中传递的起始流位置
+description: 获取或设置流长度以字节为单位这个值小于Length通过 StreamContainer 构造函数中传递的起始流位置
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/streamcontainer/length/
 ---
 ## StreamContainer.Length property
 
-获取或设置流长度（以字节为单位）。该值比Length小了StreamContainer 构造函数中传递的起始流位置。
+获取或设置流长度（以字节为单位）。这个值小于Length通过 StreamContainer 构造函数中传递的起始流位置。
 
 ```csharp
 public virtual long Length { get; set; }

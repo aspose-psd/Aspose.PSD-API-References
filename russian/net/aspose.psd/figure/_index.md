@@ -1,14 +1,14 @@
 ---
 title: Figure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Фигура. Контейнер для форм.
+description: Фигура. Контейнер для фигур.
 type: docs
 weight: 1200
 url: /ru/net/aspose.psd/figure/
 ---
 ## Figure class
 
-Фигура. Контейнер для форм.
+Фигура. Контейнер для фигур.
 
 ```csharp
 public class Figure : ObjectWithBounds
@@ -25,26 +25,26 @@ public class Figure : ObjectWithBounds
 | Имя | Описание |
 | --- | --- |
 | override [Bounds](../../aspose.psd/figure/bounds) { get; } | Получает или устанавливает границы объекта. |
-| [IsClosed](../../aspose.psd/figure/isclosed) { get; set; } | Получает или задает значение, указывающее, закрыта ли эта фигура. Замкнутая фигура будет иметь значение только в том случае, если первая и последняя фигуры являются непрерывными фигурами. В таком случае первая точка первой фигуры будет соединена прямой линией с последней точкой последней фигуры. |
-| [Segments](../../aspose.psd/figure/segments) { get; } | Получает целые сегменты фигуры. |
+| [IsClosed](../../aspose.psd/figure/isclosed) { get; set; } | Получает или задает значение, указывающее, закрыта ли эта фигура. Замкнутая фигура будет иметь значение только в том случае, если формы первой и последней фигуры являются непрерывными фигурами. В этом случае первая точка первой фигуры будет соединена прямой линией с последней точкой последней фигуры. |
+| [Segments](../../aspose.psd/figure/segments) { get; } | Получает все сегменты фигуры. |
 | [Shapes](../../aspose.psd/figure/shapes) { get; } | Получает формы фигур. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddShape](../../aspose.psd/figure/addshape)(Shape) | Добавляет фигуре форму. |
+| [AddShape](../../aspose.psd/figure/addshape)(Shape) | Добавляет форму фигуре. |
 | [AddShapes](../../aspose.psd/figure/addshapes)(Shape[]) | Добавляет к фигуре ряд фигур. |
 | override [GetBounds](../../aspose.psd/figure/getbounds#getbounds)(Matrix) | Получает границы объекта. |
 | override [GetBounds](../../aspose.psd/figure/getbounds#getbounds_1)(Matrix, Pen) | Получает границы объекта. |
-| [RemoveShape](../../aspose.psd/figure/removeshape)(Shape) | Удаляет фигуру из фигуры. |
-| [RemoveShapes](../../aspose.psd/figure/removeshapes)(Shape[]) | Удаляет диапазон фигур из фигуры. |
-| [Reverse](../../aspose.psd/figure/reverse)() | Изменяет порядок фигур и порядок точек этой фигуры на противоположный. |
+| [RemoveShape](../../aspose.psd/figure/removeshape)(Shape) | Удаляет фигуру с фигуры. |
+| [RemoveShapes](../../aspose.psd/figure/removeshapes)(Shape[]) | Удаляет диапазон фигур с фигуры. |
+| [Reverse](../../aspose.psd/figure/reverse)() | Меняет порядок форм этой фигуры и порядок точек фигуры. |
 | override [Transform](../../aspose.psd/figure/transform)(Matrix) | Применяет указанное преобразование к фигуре. |
 
 ### Примеры
 
-В этом примере используются классы GraphicsPath и Graphics для создания фигур на поверхности изображения и управления ими. Пример создает новое изображение и рисует пути с помощью класса GraphicsPath. В конце вызывается метод DrawPath, предоставляемый классом Graphics, для отображения путей на поверхности. Наконец, изображение экспортируется в формат файла Tiff.
+В этих примерах используются GraphicsPath и класс Graphics для создания и управления рисунками на поверхности изображения. Пример создает новое изображение и рисует пути с помощью класса GraphicsPath. В конце вызывается метод DrawPath, предоставляемый классом Graphics, для отображения путей на поверхности. Наконец, изображение экспортируется в формат файла Tiff.
 
 ```csharp
 [C#]

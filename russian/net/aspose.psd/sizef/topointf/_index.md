@@ -1,14 +1,14 @@
 ---
 title: ToPointF
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПреобразуетSizeFaspose.psd/sizefвPointFaspose.psd/pointf.
+description: ПреобразуетSizeFaspose.psd/sizef кPointFaspose.psd/pointf .
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/sizef/topointf/
 ---
 ## SizeF.ToPointF method
 
-Преобразует[`SizeF`](../../sizef)в[`PointF`](../../pointf).
+Преобразует[`SizeF`](../../sizef) к[`PointF`](../../pointf) .
 
 ```csharp
 public PointF ToPointF()
@@ -16,7 +16,7 @@ public PointF ToPointF()
 
 ### Возвращаемое значение
 
-Возвращает структуру[`PointF`](../../pointf).
+Возвращает[`PointF`](../../pointf) структура.
 
 ### Смотрите также
 

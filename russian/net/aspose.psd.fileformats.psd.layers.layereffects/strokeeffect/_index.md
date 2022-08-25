@@ -3,7 +3,7 @@ title: StrokeEffect
 second_title: Справочник по Aspose.PSD для .NET API
 description: Эффект обводки Adobe Photoshop для слоя PSD.
 type: docs
-weight: 2130
+weight: 2170
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
 ## StrokeEffect class
@@ -23,8 +23,8 @@ public class StrokeEffect : ILayerEffect
 | [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings) { get; set; } | Получает или задает параметры заливки. |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible) { get; set; } | Получает или задает значение, указывающее, виден ли этот экземпляр. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity) { get; set; } | Получает или задает прозрачность. |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint) { get; set; } | Получает или задает значение, указывающее, будет ли этот[`StrokeEffect`](../strokeeffect)смешивать обводку с текущее содержимое слоя. |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position) { get; set; } | Получает или задает положение эффекта обводки для управления выравниванием обводки по содержимому слоя PSD. Значение может бытьInsideдля рисования штриха внутри содержимого слоя PSD, илиOutsideдля рисования обводки вокруг содержимого слоя PSD, иCenterдля рисования обводки внутри и снаружи. |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint) { get; set; } | Получает или задает значение, указывающее, является ли это[`StrokeEffect`](../strokeeffect) смешает обводку с текущим содержимым слоя. |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position) { get; set; } | Получает или задает положение эффекта обводки для управления выравниванием обводки по содержимому слоя PSD. Значение может бытьInside чтобы нарисовать штрих внутри содержимого слоя PSD, илиOutside чтобы обвести содержимое слоя PSD, иCenter рисовать штрих как внутри, так и снаружи. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size) { get; set; } | Получает или задает ширину эффекта обводки. |
 
 ### Примеры
@@ -61,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-Следующий код демонстрирует поддержку слоя с эффектом обводки с типом заливки - Цвет.
+Следующий код демонстрирует поддержку слоя с эффектом обводки с типом заливки — Цвет.
 
 ```csharp
 [C#]
@@ -116,7 +116,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-Следующий код демонстрирует поддержку слоя с эффектом обводки с типом заливки Pattern.
+Следующий код демонстрирует поддержку слоя с эффектом обводки с типом заливки — Узор.
 
 ```csharp
 [C#]
@@ -229,7 +229,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-Следующий код демонстрирует поддержку слоя с эффектом обводки с типом заливки - Градиент.
+Следующий код демонстрирует поддержку слоя с эффектом обводки с типом заливки — Градиент.
 
 ```csharp
 [C#]

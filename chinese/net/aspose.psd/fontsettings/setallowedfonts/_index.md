@@ -1,14 +1,14 @@
 ---
 title: SetAllowedFonts
 second_title: Aspose.PSD for .NET API 参考
-description: 按字体列表限制字体使用请在限制前检查真实字体名称 将允许的字体列表设置为 Null 以删除限制
+description: 按字体列表限制字体使用请在restriction 之前检查真实字体名称 将允许的字体列表设置为Null 以删除restrictrions
 type: docs
 weight: 100
 url: /zh/net/aspose.psd/fontsettings/setallowedfonts/
 ---
 ## FontSettings.SetAllowedFonts method
 
-按字体列表限制字体使用。请在限制前检查真实字体名称 将允许的字体列表设置为 Null 以删除限制
+按字体列表限制字体使用。请在restriction 之前检查真实字体名称 将允许的字体列表设置为Null 以删除restrictrions
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)

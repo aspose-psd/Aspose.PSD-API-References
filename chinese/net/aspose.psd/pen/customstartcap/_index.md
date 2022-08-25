@@ -1,14 +1,14 @@
 ---
 title: CustomStartCap
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个自定义上限以在使用此Penaspose.psd/pen绘制的线条的开头使用
+description: 获取或设置一个自定义上限以在使用此绘制的线条的开头使用Penaspose.psd/pen .
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/pen/customstartcap/
 ---
 ## Pen.CustomStartCap property
 
-获取或设置一个自定义上限以在使用此[`Pen`](../../pen)绘制的线条的开头使用。
+获取或设置一个自定义上限以在使用此绘制的线条的开头使用[`Pen`](../../pen) .
 
 ```csharp
 public CustomLineCap CustomStartCap { get; set; }
@@ -16,13 +16,13 @@ public CustomLineCap CustomStartCap { get; set; }
 
 ### 适当的价值
 
-[`CustomLineCap`](../../customlinecap)表示使用此T绘制的线的开头使用的上限：Aspose.PSD.Pen。
+一个[`CustomLineCap`](../../customlinecap)表示用此绘制的线条开头使用的上限[`Pen`](../../pen).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | `CustomStartCap`属性设置在不可变的PSD上。Pen，例如由[`Pen`](../../pen)类返回的那些。 |
+| ArgumentException | 这`CustomStartCap`属性设置在不可变对象上[`Pen`](../../pen)，例如那些由[`Pen`](../../pen)班级。 |
 
 ### 也可以看看
 

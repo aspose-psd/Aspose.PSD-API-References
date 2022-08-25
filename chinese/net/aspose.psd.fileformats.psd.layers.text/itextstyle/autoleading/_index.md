@@ -1,14 +1,14 @@
 ---
 title: AutoLeading
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值表示是否自动领先
+description: 获取或设置一个值指示是否自动领先.
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/
 ---
 ## ITextStyle.AutoLeading property
 
-获取或设置一个值，表示是否[自动领先]。
+获取或设置一个值，指示是否[自动领先].
 
 ```csharp
 public bool AutoLeading { get; set; }
@@ -16,11 +16,11 @@ public bool AutoLeading { get; set; }
 
 ### 适当的价值
 
-` true` if [自动领先]；否则，` false` 。
+`真的` if [自动领先];否则，`错误的` .
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

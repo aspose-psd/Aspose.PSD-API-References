@@ -1,14 +1,14 @@
 ---
 title: AddTextRecord
 second_title: Справочник по Aspose.PSD для .NET API
-description: Добавляет текстовую запись в Ресурс и возвращает идентификатор текстовой записи.
+description: Добавляет текстовую запись в ресурс и возвращает идентификатор текстовой записи.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
 ## Txt2Resource.AddTextRecord method
 
-Добавляет текстовую запись в Ресурс и возвращает идентификатор текстовой записи.
+Добавляет текстовую запись в ресурс и возвращает идентификатор текстовой записи.
 
 ```csharp
 public int AddTextRecord(string text, RectangleF bounds)
@@ -21,7 +21,7 @@ public int AddTextRecord(string text, RectangleF bounds)
 
 ### Возвращаемое значение
 
-Возвращает идентификатор текстовой записи для ресурса
+Возвращает идентификатор текстовой записи для resource
 
 ### Исключения
 

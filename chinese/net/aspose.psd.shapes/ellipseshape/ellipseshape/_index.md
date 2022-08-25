@@ -1,14 +1,14 @@
 ---
 title: EllipseShape
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化EllipseShapeaspose.psd.shapes/ellipseshape类的新实例
+description: 初始化EllipseShapeaspose.psd.shapes/ellipseshape类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapes/ellipseshape/ellipseshape/
 ---
 ## EllipseShape() {#constructor}
 
-初始化[`EllipseShape`](../../ellipseshape)类的新实例。
+初始化[`EllipseShape`](../../ellipseshape)类.
 
 ```csharp
 public EllipseShape()
@@ -24,7 +24,7 @@ public EllipseShape()
 
 ## EllipseShape(RectangleF) {#constructor_1}
 
-初始化[`EllipseShape`](../../ellipseshape)类的新实例。
+初始化[`EllipseShape`](../../ellipseshape)类.
 
 ```csharp
 public EllipseShape(RectangleF rectangle)

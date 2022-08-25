@@ -3,7 +3,7 @@ title: MotionWienerFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Параметры фильтра деконволюции deblur motion
 type: docs
-weight: 4610
+weight: 4660
 url: /ru/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/
 ---
 ## MotionWienerFilterOptions class
@@ -18,19 +18,19 @@ public class MotionWienerFilterOptions : DeconvolutionFilterOptions
 
 | Имя | Описание |
 | --- | --- |
-| [MotionWienerFilterOptions](motionwienerfilteroptions)(int, double, double) | Инициализирует новый экземпляр класса[`MotionWienerFilterOptions`](../motionwienerfilteroptions). |
+| [MotionWienerFilterOptions](motionwienerfilteroptions)(int, double, double) | Инициализирует новый экземпляр[`MotionWienerFilterOptions`](../motionwienerfilteroptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Angle](../../aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/angle) { get; set; } | Получает или задает угол в градусах. |
-| [Brightness](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness) { get; set; } | Получает или устанавливает яркость. рекомендуемый диапазон 1 - 1,5 значение по умолчанию = 1,15 |
-| [Grayscale](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale) { get; set; } | Получает или задает значение, указывающее, является ли этот[`DeconvolutionFilterOptions`](../deconvolutionfilteroptions)в градациях серого. Вернуть режим оттенков серого или режим RGB. |
+| [Brightness](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness) { get; set; } | Получает или устанавливает яркость. рекомендуемый диапазон 1–1,5 значение по умолчанию = 1,15 |
+| [Grayscale](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale) { get; set; } | Получает или задает значение, указывающее, является ли это[`DeconvolutionFilterOptions`](../deconvolutionfilteroptions) в градациях серого. Вернуть режим градаций серого или режим RGB. |
 | [IsPartialLoaded](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded) { get; } | Получает значение, указывающее, загружен ли этот экземпляр частично. |
 | [Length](../../aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/length) { get; set; } | Получает или задает длину. |
 | [Smooth](../../aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth) { get; set; } | Получает или задает сглаживание. |
-| [Snr](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr) { get; set; } | Получает или устанавливает SNR (отношение сигнал/шум) рекомендуемый диапазон 0,002–0,009, значение по умолчанию = 0,007 |
+| [Snr](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr) { get; set; } | Получает или задает SNR (отношение сигнал/шум) рекомендуемый диапазон 0,002–0,009, значение по умолчанию = 0,007 |
 
 ### Смотрите также
 

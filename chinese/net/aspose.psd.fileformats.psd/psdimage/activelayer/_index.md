@@ -22,7 +22,7 @@ public Layer ActiveLayer { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception) | 图像中没有活动层和层。 |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception) | 图像中没有活动图层，也没有图层。 |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 无法设置活动图层，因为它属于另一个图像。 |
 
 ### 也可以看看

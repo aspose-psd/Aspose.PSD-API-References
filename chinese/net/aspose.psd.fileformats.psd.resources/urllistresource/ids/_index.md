@@ -1,14 +1,14 @@
 ---
 title: Ids
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 id
+description: 获取或设置ids.
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 ---
 ## UrlListResource.Ids property
 
-获取或设置 id。
+获取或设置ids.
 
 ```csharp
 public int[] Ids { get; set; }
@@ -16,7 +16,7 @@ public int[] Ids { get; set; }
 
 ### 适当的价值
 
-id。
+ids.
 
 ### 也可以看看
 

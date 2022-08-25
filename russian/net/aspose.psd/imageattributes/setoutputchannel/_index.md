@@ -1,7 +1,7 @@
 ---
 title: SetOutputChannel
 second_title: Справочник по Aspose.PSD для .NET API
-description: Устанавливает выходной канал CMYK голубой-пурпурный-желтый-черный для категории по умолчанию.
+description: Устанавливает выходной канал CMYK голубойпурпурныйжелтыйчерный для категории по умолчанию.
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/imageattributes/setoutputchannel/
@@ -16,7 +16,7 @@ public void SetOutputChannel(ColorChannelFlag flags)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| flags | ColorChannelFlag | Элемент[`ColorChannelFlag`](../../colorchannelflag), определяющий выходной канал. |
+| flags | ColorChannelFlag | Элемент[`ColorChannelFlag`](../../colorchannelflag)который определяет выходной канал. |
 
 ### Смотрите также
 
@@ -37,8 +37,8 @@ public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| flags | ColorChannelFlag | Элемент[`ColorChannelFlag`](../../colorchannelflag), определяющий выходной канал. |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype), указывающий категорию, для которой установлен выходной канал. |
+| flags | ColorChannelFlag | Элемент[`ColorChannelFlag`](../../colorchannelflag)который определяет выходной канал. |
+| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype) который указывает категорию, для которой установлен выходной канал. |
 
 ### Смотрите также
 

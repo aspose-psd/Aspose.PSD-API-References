@@ -3,7 +3,7 @@ title: FileCreateSource
 second_title: Aspose.PSD for .NET API 参考
 description: 表示创建的文件源
 type: docs
-weight: 5470
+weight: 5520
 url: /zh/net/aspose.psd.sources/filecreatesource/
 ---
 ## FileCreateSource class
@@ -18,8 +18,8 @@ public sealed class FileCreateSource : FileSource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FileCreateSource](filecreatesource#constructor)(string) | 初始化[`FileCreateSource`](../filecreatesource)类的新实例。 |
-| [FileCreateSource](filecreatesource#constructor_1)(string, bool) | 初始化[`FileCreateSource`](../filecreatesource)类的新实例。 |
+| [FileCreateSource](filecreatesource#constructor)(string) | 初始化[`FileCreateSource`](../filecreatesource)类. |
+| [FileCreateSource](filecreatesource#constructor_1)(string, bool) | 初始化[`FileCreateSource`](../filecreatesource)类. |
 
 ## 特性
 
@@ -36,7 +36,7 @@ public sealed class FileCreateSource : FileSource
 
 ### 例子
 
-这个例子演示了使用 Font 和 SolidBrush 类在图像表面上绘制字符串。该示例使用 Figures 和 GraphicsPath
+这个例子演示了使用 Font 和 SolidBrush 类在 Image 表面上绘制字符串。该示例使用 Figures 和 GraphicsPath 创建一个新的图像并绘制形状
 
 ```csharp
 [C#]

@@ -18,7 +18,7 @@ public sealed class VectorShapeTransform
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VectorShapeTransform](vectorshapetransform)() | 初始化[`VectorShapeTransform`](../vectorshapetransform)类的新实例。 |
+| [VectorShapeTransform](vectorshapetransform)() | 初始化[`VectorShapeTransform`](../vectorshapetransform)类. |
 
 ## 特性
 
@@ -33,7 +33,7 @@ public sealed class VectorShapeTransform
 
 ### 例子
 
-以下代码演示了调整包含矢量路径的形状层大小的能力。
+以下代码演示了调整包含矢量路径的形状图层大小的能力。
 
 ```csharp
 [C#]

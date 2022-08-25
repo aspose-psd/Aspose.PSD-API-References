@@ -1,14 +1,14 @@
 ---
 title: BaseCap
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此CustomLineCapaspose.psd/customlinecap所基于的LineCapaspose.psd/linecap枚举
+description: 获取或设置LineCapaspose.psd/linecap这个枚举CustomLineCapaspose.psd/customlinecap基于.
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/customlinecap/basecap/
 ---
 ## CustomLineCap.BaseCap property
 
-获取或设置此[`CustomLineCap`](../../customlinecap)所基于的[`LineCap`](../../linecap)枚举。
+获取或设置[`LineCap`](../../linecap)这个枚举[`CustomLineCap`](../../customlinecap)基于.
 
 ```csharp
 public LineCap BaseCap { get; set; }
@@ -16,7 +16,7 @@ public LineCap BaseCap { get; set; }
 
 ### 适当的价值
 
-[`LineCap`](../../linecap)枚举，这是[`CustomLineCap`](../../customlinecap)所基于的.
+这[`LineCap`](../../linecap)这个枚举[`CustomLineCap`](../../customlinecap)基于。
 
 ### 也可以看看
 

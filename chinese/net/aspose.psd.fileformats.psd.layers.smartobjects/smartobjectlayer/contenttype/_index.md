@@ -1,14 +1,14 @@
 ---
 title: ContentType
 second_title: Aspose.PSD for .NET API 参考
-description: 获取智能对象图层内容的类型 嵌入的智能对象内容是嵌入的原始图像文件Dataaspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data 链接的智能对象内容是链接图像文件的原始内容如果可用LiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource 当IsLibraryLinkaspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink为真时我们不支持从 AdobePhotoshop图形库加载 对于常规的链接文件我们首先使用RelativePathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath来查找相对于 的文件源图像路径SourceImagePath 如果它不可用我们查看FullPathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath 如果没有那么我们在图像所在的同一目录中查找链接文件SourceImagePath
+description: 获取智能对象层内容的类型 嵌入的智能对象内容是嵌入的原始图像文件Dataaspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data . 链接的智能对象内容是链接图像文件的原始内容如果可用LiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource . 我们不支持从 Adobe. Photoshop.  图形库加载时IsLibraryLinkaspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink是真的 对于常规链接文件首先我们使用RelativePathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath查找文件 relative 到源图像路径SourceImagePath 如果它不可用我们看看FullPathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath 如果不是那么我们在我们的图像所在的同一目录中查找链接文件SourceImagePath .
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/
 ---
 ## SmartObjectLayer.ContentType property
 
-获取智能对象图层内容的类型。 嵌入的智能对象内容是嵌入的原始图像文件：[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data)。 链接的智能对象内容是链接图像文件的原始内容（如果可用）：[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource)。 当[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink)为真时，我们不支持从 Adobe�Photoshop���图形库加载。 对于常规的链接文件，我们首先使用[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath)来查找相对于 的文件源图像路径SourceImagePath, 如果它不可用，我们查看[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath), 如果没有，那么我们在图像所在的同一目录中查找链接文件：SourceImagePath。
+获取智能对象层内容的类型。 嵌入的智能对象内容是嵌入的原始图像文件：[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data) . 链接的智能对象内容是链接图像文件的原始内容（如果可用）：[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource) . 我们不支持从 Adobe. Photoshop. �� 图形库加载时[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink)是真的。 对于常规链接文件，首先，我们使用[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath)查找文件 relative 到源图像路径SourceImagePath, 如果它不可用，我们看看[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath), 如果不是，那么我们在我们的图像所在的同一目录中查找链接文件：SourceImagePath .
 
 ```csharp
 public SmartObjectType ContentType { get; }
@@ -16,7 +16,7 @@ public SmartObjectType ContentType { get; }
 
 ### 适当的价值
 
-智能对象层内容的类型。
+智能对象图层内容的类型。
 
 ### 例子
 

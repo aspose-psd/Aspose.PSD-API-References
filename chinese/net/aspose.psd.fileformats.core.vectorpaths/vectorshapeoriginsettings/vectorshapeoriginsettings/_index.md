@@ -1,14 +1,14 @@
 ---
 title: VectorShapeOriginSettings
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化VectorShapeOriginSettingsaspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings类的新实例
+description: 初始化VectorShapeOriginSettingsaspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/vectorshapeoriginsettings/
 ---
 ## VectorShapeOriginSettings constructor
 
-初始化[`VectorShapeOriginSettings`](../../vectorshapeoriginsettings)类的新实例。
+初始化[`VectorShapeOriginSettings`](../../vectorshapeoriginsettings)类.
 
 ```csharp
 public VectorShapeOriginSettings()
@@ -16,7 +16,7 @@ public VectorShapeOriginSettings()
 
 ### 例子
 
-此示例演示了加载和保存带有形状图层和矢量路径的 PSD 图像可以正常工作。
+此示例演示了加载和保存具有形状层和矢量路径的 PSD 图像可以正常工作。
 
 ```csharp
 [C#]

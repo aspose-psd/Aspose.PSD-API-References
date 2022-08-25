@@ -18,8 +18,8 @@ public class Jpeg2000Exception : ImageException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Jpeg2000Exception](jpeg2000exception#constructor)(string) | 初始化[`Jpeg2000Exception`](../jpeg2000exception)类的新实例。 |
-| [Jpeg2000Exception](jpeg2000exception#constructor_1)(string, Exception) | 初始化[`Jpeg2000Exception`](../jpeg2000exception)类的新实例。 |
+| [Jpeg2000Exception](jpeg2000exception#constructor)(string) | 初始化[`Jpeg2000Exception`](../jpeg2000exception)类. |
+| [Jpeg2000Exception](jpeg2000exception#constructor_1)(string, Exception) | 初始化[`Jpeg2000Exception`](../jpeg2000exception)类. |
 
 ### 也可以看看
 

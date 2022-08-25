@@ -1,14 +1,14 @@
 ---
 title: AddPhotoFilterLayer
 second_title: Aspose.PSD for .NET API 参考
-description: 添加照片滤镜层
+description: 添加 PhotoFilter 层
 type: docs
 weight: 400
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
 ## PsdImage.AddPhotoFilterLayer method
 
-添加照片滤镜层。
+添加 PhotoFilter 层。
 
 ```csharp
 public PhotoFilterLayer AddPhotoFilterLayer(Color color)
@@ -20,7 +20,7 @@ public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 
 ### 返回值
 
-已创建照片滤镜层
+创建 PhotoFilter 层
 
 ### 也可以看看
 

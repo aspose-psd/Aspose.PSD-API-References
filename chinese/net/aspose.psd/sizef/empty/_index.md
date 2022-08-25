@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Aspose.PSD for .NET API 参考
-description: 获取具有Widthaspose.psd/sizef/width和SizeFaspose.psd/sizef结构的新实例Heightaspose.psd/sizef/height值设置为零
+description: 获取一个新的实例SizeFaspose.psd/sizef具有的结构Widthaspose.psd/sizef/width和Heightaspose.psd/sizef/height值设置为零
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/sizef/empty/
 ---
 ## SizeF.Empty property
 
-获取具有[`Width`](../width)和[`SizeF`](../../sizef)结构的新实例[`Height`](../height)值设置为零。
+获取一个新的实例[`SizeF`](../../sizef)具有的结构[`Width`](../width)和[`Height`](../height)值设置为零。
 
 ```csharp
 public static SizeF Empty { get; }

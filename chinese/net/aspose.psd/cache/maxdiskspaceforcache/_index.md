@@ -20,7 +20,7 @@ public static int MaxDiskSpaceForCache { get; set; }
 
 ### 评论
 
-值为 0 将消耗所有可用内存，并且没有上限。
+值为 0 将消耗所有可用内存并且没有上限。
 
 ### 也可以看看
 

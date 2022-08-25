@@ -1,14 +1,14 @@
 ---
 title: PsnrMax
 second_title: Aspose.PSD for .NET API 参考
-description: 获取 PSNR 最大预期值
+description: 获取 PSNR 最大期望值
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/psnrmax/
 ---
 ## RdOptimizerSettings.PsnrMax property
 
-获取 PSNR 最大预期值。
+获取 PSNR 最大期望值。
 
 ```csharp
 public int PsnrMax { get; }

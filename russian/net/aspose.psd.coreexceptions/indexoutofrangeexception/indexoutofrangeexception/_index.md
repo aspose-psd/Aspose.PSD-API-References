@@ -1,14 +1,14 @@
 ---
 title: IndexOutOFRangeException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаCompressorExceptionaspose.psd.coreexceptions/compressorexception.
+description: Инициализирует новый экземплярCompressorExceptionaspose.psd.coreexceptions/compressorexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/indexoutofrangeexception/indexoutofrangeexception/
 ---
 ## IndexOutOFRangeException(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`CompressorException`](../../compressorexception).
+Инициализирует новый экземпляр[`CompressorException`](../../compressorexception) класс.
 
 ```csharp
 public IndexOutOFRangeException(string message)
@@ -28,7 +28,7 @@ public IndexOutOFRangeException(string message)
 
 ## IndexOutOFRangeException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`CompressorException`](../../compressorexception).
+Инициализирует новый экземпляр[`CompressorException`](../../compressorexception) класс.
 
 ```csharp
 public IndexOutOFRangeException(string message, Exception innerException)

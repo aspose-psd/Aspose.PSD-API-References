@@ -1,14 +1,14 @@
 ---
 title: CompressionMethod
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置压缩方法
+description: 获取或设置压缩方式
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/
 ---
 ## ChannelInformation.CompressionMethod property
 
-获取或设置压缩方法。
+获取或设置压缩方式
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
@@ -16,7 +16,7 @@ public CompressionMethod CompressionMethod { get; set; }
 
 ### 适当的价值
 
-压缩方式。
+压缩方式.
 
 ### 也可以看看
 

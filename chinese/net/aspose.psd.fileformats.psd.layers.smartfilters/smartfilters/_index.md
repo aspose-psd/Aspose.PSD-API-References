@@ -1,14 +1,14 @@
 ---
 title: SmartFilters
 second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectLayer../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer的智能过滤器
+description: 的智能过滤器SmartObjectLayer../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer .
 type: docs
-weight: 3360
+weight: 3410
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/
 ---
 ## SmartFilters class
 
-[`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)的智能过滤器。
+的智能过滤器[`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) .
 
 ```csharp
 public class SmartFilters
@@ -21,7 +21,7 @@ public class SmartFilters
 | [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters) { get; set; } | 获取或设置智能过滤器。 |
 | [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled) { get; } | 获取智能过滤器掩码的启用状态。 |
 | [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled) { get; } | 获取智能过滤器的掩码启用状态。 |
-| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite) { get; } | 获取智能过滤器白色状态的掩码。 |
+| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite) { get; } | 获取带有智能过滤器白色状态的掩码。 |
 | [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked) { get; } | 获取智能过滤器的掩码关联状态。 |
 | [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition) { get; } | 获取智能过滤器的有效位置状态。 |
 
@@ -29,7 +29,7 @@ public class SmartFilters
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues)() | 将智能过滤器数据更新到[`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource)。 |
+| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues)() | 将智能过滤器数据更新到[`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource) . |
 
 ### 也可以看看
 

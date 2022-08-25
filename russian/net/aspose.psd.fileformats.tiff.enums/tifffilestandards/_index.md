@@ -3,7 +3,7 @@ title: TiffFileStandards
 second_title: Справочник по Aspose.PSD для .NET API
 description: Указывает стандарты формата файлов TIFF.
 type: docs
-weight: 3960
+weight: 4010
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tifffilestandards/
 ---
 ## TiffFileStandards enumeration
@@ -18,8 +18,8 @@ public enum TiffFileStandards : ushort
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Baseline | `0` | Базовый стандарт файлов TIFF 6.0. Этот стандарт официально известен как TIFF 6.0, часть 1:базовый TIFF. |
-| Extended | `1` | Расширенный стандарт файлов TIFF 6.0. Этот стандарт официально известен как расширенный TIFF 6.0, часть 2:расширения TIFF. |
+| Baseline | `0` | Базовый файловый стандарт TIFF 6.0. Этот стандарт официально известен как TIFF 6.0, часть 1: базовый TIFF. |
+| Extended | `1` | Расширенный файловый стандарт TIFF 6.0. Этот стандарт официально известен как расширенный TIFF 6.0, часть 2: расширения TIFF. |
 
 ### Смотрите также
 

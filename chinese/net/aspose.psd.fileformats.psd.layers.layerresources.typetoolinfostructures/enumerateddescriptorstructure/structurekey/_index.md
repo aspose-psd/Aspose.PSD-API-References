@@ -1,14 +1,14 @@
 ---
 title: StructureKey
 second_title: Aspose.PSD for .NET API 参考
-description: 枚举的描述符键
+description: 枚举的描述符key.
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey/
 ---
 ## EnumeratedDescriptorStructure.StructureKey field
 
-枚举的描述符键。
+枚举的描述符key.
 
 ```csharp
 public const int StructureKey;

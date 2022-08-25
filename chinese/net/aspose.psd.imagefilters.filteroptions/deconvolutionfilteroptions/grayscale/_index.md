@@ -1,14 +1,14 @@
 ---
 title: Grayscale
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此DeconvolutionFilterOptionsaspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions是否为灰度 返回灰度模式或 RGB 模式
+description: 获取或设置一个值该值指示是否DeconvolutionFilterOptionsaspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions是灰度 返回灰度模式或RGB模式
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/
 ---
 ## DeconvolutionFilterOptions.Grayscale property
 
-获取或设置一个值，该值指示此[`DeconvolutionFilterOptions`](../../deconvolutionfilteroptions)是否为灰度。 返回灰度模式或 RGB 模式。
+获取或设置一个值，该值指示是否[`DeconvolutionFilterOptions`](../../deconvolutionfilteroptions)是灰度。 返回灰度模式或RGB模式。
 
 ```csharp
 public bool Grayscale { get; set; }
@@ -16,7 +16,7 @@ public bool Grayscale { get; set; }
 
 ### 适当的价值
 
-` true` 如果是灰度；否则，` false` 。
+`真的`如果是灰度；否则，`错误的` .
 
 ### 也可以看看
 

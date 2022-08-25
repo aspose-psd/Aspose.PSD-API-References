@@ -3,7 +3,7 @@ title: AdjustPalette
 second_title: Aspose.PSD for .NET API 参考
 description: 调色板调整类
 type: docs
-weight: 5060
+weight: 5110
 url: /zh/net/aspose.psd.palettehelper/adjustpalette/
 ---
 ## AdjustPalette class

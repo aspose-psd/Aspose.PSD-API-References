@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.Xmp.Types
 second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含表示 XMP 属性值的类这些类分为三个基本类别基本类型 复杂类型和派生类型
+description: 命名空间包含表示 XMP 属性值的类它们分为三个基本类别基本类型 复杂类型和派生类型
 type: docs
-weight: 580
+weight: 590
 url: /zh/net/aspose.psd.xmp.types/
 ---
-命名空间包含表示 XMP 属性值的类，这些类分为三个基本类别：基本类型、 复杂类型和派生类型。
+命名空间包含表示 XMP 属性值的类，它们分为三个基本类别：基本类型、 复杂类型和派生类型。
 
 ## 课程
 

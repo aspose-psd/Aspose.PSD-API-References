@@ -1,14 +1,14 @@
 ---
 title: Structures
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает подструктуры в структуре массива объектов.
+description: Получает или задает копию массива структур.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
 ## ObjectArrayStructure.Structures property
 
-Получает или задает подструктуры в структуре массива объектов.
+Получает или задает копию массива структур.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }

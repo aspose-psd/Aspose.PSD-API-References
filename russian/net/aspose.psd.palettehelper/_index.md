@@ -3,7 +3,7 @@ title: Aspose.PSD.PaletteHelper
 second_title: Справочник по Aspose.PSD для .NET API
 description: Пространство имен содержит классы для настройки цветовой палитры на цвета изображения и наоборот.
 type: docs
-weight: 450
+weight: 460
 url: /ru/net/aspose.psd.palettehelper/
 ---
 Пространство имен содержит классы для настройки цветовой палитры на цвета изображения и наоборот.

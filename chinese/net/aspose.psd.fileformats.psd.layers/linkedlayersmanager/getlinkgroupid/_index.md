@@ -16,7 +16,7 @@ public short GetLinkGroupId(Layer layer)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | Layer | 图层。 |
+| layer | Layer | 层。 |
 
 ### 返回值
 

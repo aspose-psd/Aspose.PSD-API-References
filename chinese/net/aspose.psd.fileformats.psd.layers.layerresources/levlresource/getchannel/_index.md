@@ -16,11 +16,11 @@ public LevelChannel GetChannel(int channelIndex)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
+| channelIndex | Int32 | 频道索引。 |
 
 ### 返回值
 
-通道的电平数据
+通道电平数据
 
 ### 也可以看看
 

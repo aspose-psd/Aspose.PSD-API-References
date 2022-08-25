@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.PSD для .NET API
-description: Возвращает удобочитаемое строковое представление этогоFontaspose.psd/font.
+description: Возвращает удобочитаемое строковое представление этогоFontaspose.psd/font .
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/font/tostring/
 ---
 ## Font.ToString method
 
-Возвращает удобочитаемое строковое представление этого[`Font`](../../font).
+Возвращает удобочитаемое строковое представление этого[`Font`](../../font) .
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-Строка, представляющая этот[`Font`](../../font).
+Строка, представляющая это[`Font`](../../font).
 
 ### Смотрите также
 

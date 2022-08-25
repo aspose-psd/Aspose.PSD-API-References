@@ -1,14 +1,14 @@
 ---
 title: RotateFlipExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Содержит методы расширения для преобразованияRotateFlipTypeиRotateFlipType../aspose.psd/rotatefliptypeзанятия.
+description: Содержит методы расширения для преобразованияRotateFlipType иRotateFlipType../aspose.psd/rotatefliptype классы.
 type: docs
 weight: 1180
 url: /ru/net/aspose.psd.extensions/rotateflipextensions/
 ---
 ## RotateFlipExtensions class
 
-Содержит методы расширения для преобразованияRotateFlipTypeи[`RotateFlipType`](../../aspose.psd/rotatefliptype)занятия.
+Содержит методы расширения для преобразованияRotateFlipType и[`RotateFlipType`](../../aspose.psd/rotatefliptype) классы.
 
 ```csharp
 public static class RotateFlipExtensions

@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает вертикальный компонент этогоSizeaspose.psd/size.
+description: Получает или задает вертикальный компонент этогоSizeaspose.psd/size .
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/size/height/
 ---
 ## Size.Height property
 
-Получает или задает вертикальный компонент этого[`Size`](../../size).
+Получает или задает вертикальный компонент этого[`Size`](../../size) .
 
 ```csharp
 public int Height { get; set; }

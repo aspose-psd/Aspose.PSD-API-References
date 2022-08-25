@@ -16,7 +16,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新高度。 |
 | resizeType | ResizeType | 调整大小类型。 |
 
@@ -24,7 +24,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotImplementedException | &gt;未实现 |
+| NotImplementedException | &gt;未实施 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新高度。 |
 | settings | ImageResizeSettings | 调整大小设置。 |
 
@@ -53,7 +53,7 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| NotImplementedException | &gt;未实现 |
+| NotImplementedException | &gt;未实施 |
 
 ### 也可以看看
 

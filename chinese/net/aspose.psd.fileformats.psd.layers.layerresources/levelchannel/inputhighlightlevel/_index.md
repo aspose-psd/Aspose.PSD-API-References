@@ -22,7 +22,7 @@ public short InputHighlightLevel { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | 输入高亮级别只能在 "+ (this.InputShadowLevel + 2) + " 到 255 |
+| ArgumentOutOfRangeException | 输入高亮级别只能在 "+ (this.InputShadowLevel + 2) + " 到 255 的范围内设置 |
 
 ### 也可以看看
 

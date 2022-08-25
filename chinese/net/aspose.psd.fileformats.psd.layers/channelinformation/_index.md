@@ -3,7 +3,7 @@ title: ChannelInformation
 second_title: Aspose.PSD for .NET API 参考
 description: 频道信息
 type: docs
-weight: 1840
+weight: 1880
 url: /zh/net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
 ## ChannelInformation class
@@ -18,15 +18,15 @@ public class ChannelInformation
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChannelInformation](channelinformation)(CompressionMethod, int, int) | 初始化[`ChannelInformation`](../channelinformation)类的新实例。 |
+| [ChannelInformation](channelinformation)(CompressionMethod, int, int) | 初始化[`ChannelInformation`](../channelinformation)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid) { get; set; } | 获取或设置通道 ID。 |
-| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod) { get; set; } | 获取或设置压缩方法。 |
-| [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length) { get; } | 获取通道长度（以字节为单位）。 |
+| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid) { get; set; } | 获取或设置频道 ID。 |
+| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod) { get; set; } | 获取或设置压缩方式 |
+| [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length) { get; } | 以字节为单位获取通道长度。 |
 
 ### 也可以看看
 

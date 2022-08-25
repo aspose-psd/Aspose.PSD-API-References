@@ -1,14 +1,14 @@
 ---
 title: Dither
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этоGdFlResourceaspose.psd.fileformats.psd.layers.layerresources/gdflresourceдизерингом.
+description: Получает или задает значение указывающее является ли этоGdFlResourceaspose.psd.fileformats.psd.layers.layerresources/gdflresource дизеринг.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
 ## GdFlResource.Dither property
 
-Получает или задает значение, указывающее, является ли это[`GdFlResource`](../../gdflresource)дизерингом.
+Получает или задает значение, указывающее, является ли это[`GdFlResource`](../../gdflresource) дизеринг.
 
 ```csharp
 public bool Dither { get; set; }
@@ -16,11 +16,11 @@ public bool Dither { get; set; }
 
 ### Стоимость имущества
 
-` true` если дизеринг; в противном случае` false` .
+`истинный` если смущать; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 
-Следующий пример демонстрирует поддержку загрузки ресурсов GdFlResource.
+В следующем примере демонстрируется поддержка загрузки ресурсов GdFlResource.
 
 ```csharp
 [C#]

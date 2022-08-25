@@ -3,7 +3,7 @@ title: UnknownStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Неизвестная структура.
 type: docs
-weight: 3190
+weight: 3240
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/
 ---
 ## UnknownStructure class
@@ -18,16 +18,16 @@ public sealed class UnknownStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [UnknownStructure](unknownstructure)(ClassID, int) | Инициализирует новый экземпляр класса[`UnknownStructure`](../unknownstructure). |
+| [UnknownStructure](unknownstructure)(ClassID, int) | Инициализирует новый экземпляр[`UnknownStructure`](../unknownstructure) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data) { get; set; } | Получает или задает данные. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data) { get; set; } | Получает или устанавливает данные. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 
 ## Методы
 

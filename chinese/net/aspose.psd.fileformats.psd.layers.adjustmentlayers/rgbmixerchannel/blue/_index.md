@@ -16,7 +16,7 @@ public short Blue { get; set; }
 
 ### 适当的价值
 
-蓝色。
+蓝色.
 
 ### 也可以看看
 

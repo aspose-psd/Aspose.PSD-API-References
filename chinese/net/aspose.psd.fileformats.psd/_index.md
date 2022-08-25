@@ -1,21 +1,21 @@
 ---
 title: Aspose.PSD.FileFormats.Psd
 second_title: Aspose.PSD for .NET API 参考
-description: 命名空间处理 Psd 文件格式处理
+description: 命名空间处理Psd文件格式处理
 type: docs
 weight: 200
 url: /zh/net/aspose.psd.fileformats.psd/
 ---
-命名空间处理 Psd 文件格式处理。
+命名空间处理Psd文件格式处理。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
 | [PsdColorPalette](./psdcolorpalette) | PSD 调色板。 |
-| [PsdImage](./psdimage) | 定义 PsdImage 类，该类提供加载、编辑、保存 PSD 文件以及 更新属性、添加水印、执行图形操作或将一种文件格式转换为其他。 Aspose.PSD 支持作为图层导入并导出为以下格式： Png、Jpeg、Jpeg2000、Gif、Bmp、Tiff、Psd、Psb 以及导出为带有可选文本的 Pdf |
+| [PsdImage](./psdimage) | 定义 PsdImage 类，提供加载、编辑、保存 PSD 文件以及更新属性、添加水印、执行图形操作或将一种文件格式转换为另一种的能力。 Aspose.PSD 支持作为图层导入并导出到以下格式： Png、Jpeg、Jpeg2000、Gif、Bmp、Tiff、Psd、Psb 以及带有可选文本的导出到 Pdf |
 | [ResourceBlock](./resourceblock) | 资源块。 |
-| [SmartObjectProvider](./smartobjectprovider) | 定义提供从 PSD 文件及其内容的全局链接资源获取/设置数据源的智能对象提供程序。 |
+| [SmartObjectProvider](./smartobjectprovider) | 定义提供从 PSD 文件的全局链接资源及其内容获取/设置数据源的智能对象提供程序。 |
 ## 枚举
 
 | 枚举 | 描述 |

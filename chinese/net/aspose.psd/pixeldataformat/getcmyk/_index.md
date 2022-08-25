@@ -42,7 +42,7 @@ public static PixelDataFormat GetCmyk(int bitsPerCyanChannel, int bitsPerMagenta
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | bitsPerCyanChannel | Int32 | 每个青色通道的位数。 |
-| bitsPerMagentaChannel | Int32 | 每个洋红色通道的位数。 |
+| bitsPerMagentaChannel | Int32 | 每个 Magenta 通道的位数。 |
 | bitsPerYellowChannel | Int32 | 每个黄色通道的位数。 |
 | bitsPerKeyChannel | Int32 | 每个密钥通道的位数。 |
 

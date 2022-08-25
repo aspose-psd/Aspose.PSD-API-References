@@ -16,7 +16,7 @@ public void Apply(ITextParagraph paragraph)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| paragraph | ITextParagraph | 段落。 |
+| paragraph | ITextParagraph | 这段落。 |
 
 ### 例子
 

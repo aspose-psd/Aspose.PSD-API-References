@@ -3,7 +3,7 @@ title: ResourceBlock
 second_title: Aspose.PSD for .NET API 参考
 description: 资源块
 type: docs
-weight: 3500
+weight: 3550
 url: /zh/net/aspose.psd.fileformats.psd/resourceblock/
 ---
 ## ResourceBlock class
@@ -18,18 +18,18 @@ public abstract class ResourceBlock
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [DataSize](../../aspose.psd.fileformats.psd/resourceblock/datasize) { get; } | 获取资源数据大小（以字节为单位）。 |
+| abstract [DataSize](../../aspose.psd.fileformats.psd/resourceblock/datasize) { get; } | 以字节为单位获取资源数据大小。 |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | 获取或设置资源的唯一标识符。 |
 | abstract [MinimalVersion](../../aspose.psd.fileformats.psd/resourceblock/minimalversion) { get; } | 获取所需的最低 PSD 版本。 |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。 Pascal 字符串，填充以使大小均匀（空名称由两个字节的 0 组成）。 |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应始终为“8BIM”。 |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。帕斯卡字符串，填充以使大小均匀（空名称由两个字节的 0 组成）. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应该总是'8BIM'. |
 | [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | 获取资源块大小（以字节为单位），包括其数据。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定流。 |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定的流中。 |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | 验证资源值。 |
 
 ## 字段
@@ -43,7 +43,7 @@ public abstract class ResourceBlock
 
 | 姓名 | 描述 |
 | --- | --- |
-| enum [ResourceBlockState](resourceblock.resourceblockstate) | 表示资源块状态。 |
+| enum [ResourceBlockState](resourceblock.resourceblockstate) | 代表资源块状态。 |
 
 ### 也可以看看
 

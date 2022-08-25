@@ -18,27 +18,27 @@ public sealed class SolidBrush : Brush
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SolidBrush](solidbrush#constructor)() | 初始化[`SolidBrush`](../solidbrush)类的新实例。 |
-| [SolidBrush](solidbrush#constructor_1)(Color) | 初始化[`SolidBrush`](../solidbrush)类的新实例。 |
+| [SolidBrush](solidbrush#constructor)() | 初始化[`SolidBrush`](../solidbrush)类. |
+| [SolidBrush](solidbrush#constructor_1)(Color) | 初始化[`SolidBrush`](../solidbrush)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Color](../../aspose.psd.brushes/solidbrush/color) { get; set; } | 获取或设置画笔颜色。 |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
 | [Opacity](../../aspose.psd/brush/opacity) { get; set; } | 获取或设置画笔不透明度。该值应介于 0 和 1 之间。值 0 表示画笔完全可见，值 1 表示画笔完全不透明。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | 创建当前[`Brush`](../../aspose.psd/brush)的新深层克隆。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | 创建当前的新深层克隆[`Brush`](../../aspose.psd/brush) . |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
 
 ### 例子
 
-此示例使用 Graphics 类在图像表面上创建原始形状。为了演示该操作，该示例创建一个 PSD 格式的新图像，并使用 Graphics 类公开的 Draw 方法在图像表面绘制原始形状，然后将其导出为 PSD 文件格式。
+此示例使用 Graphics 类在 Image 表面上创建原始形状。为了演示该操作，该示例创建一个 PSD 格式的新图像，并使用 Graphics 类公开的 Draw 方法在图像表面绘制原始形状，然后将其导出为 PSD 文件格式。
 
 ```csharp
 [C#]

@@ -1,7 +1,7 @@
 ---
 title: JpegLsInterleaveMode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает режим чередования JPEG-LS.
+description: Получает или задает режим чередования JPEGLS.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode/

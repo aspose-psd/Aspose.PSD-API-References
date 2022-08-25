@@ -1,14 +1,14 @@
 ---
 title: TransformMatrix
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает матрицу преобразования данных слоя смарт-объекта в файле PSD.
+description: Получает или задает матрицу преобразования данных слоя смартобъекта в PSDфайле.
 type: docs
 weight: 230
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/
 ---
 ## SmartObjectResource.TransformMatrix property
 
-Получает или задает матрицу преобразования данных слоя смарт-объекта в файле PSD.
+Получает или задает матрицу преобразования данных слоя смарт-объекта в PSD-файле.
 
 ```csharp
 public override double[] TransformMatrix { get; set; }

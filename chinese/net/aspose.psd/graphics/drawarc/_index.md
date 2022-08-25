@@ -1,14 +1,14 @@
 ---
 title: DrawArc
 second_title: Aspose.PSD for .NET API 参考
-description: 绘制一条弧表示由一对坐标宽度和高度指定的椭圆的一部分
+description: 绘制表示由一对坐标宽度和高度指定的椭圆的一部分的弧
 type: docs
 weight: 160
 url: /zh/net/aspose.psd/graphics/drawarc/
 ---
 ## DrawArc(Pen, float, float, float, float, float, float) {#drawarc_3}
 
-绘制一条弧，表示由一对坐标、宽度和高度指定的椭圆的一部分。
+绘制表示由一对坐标、宽度和高度指定的椭圆的一部分的弧。
 
 ```csharp
 public void DrawArc(Pen pen, float x, float y, float width, float height, float startAngle, 
@@ -17,19 +17,19 @@ public void DrawArc(Pen pen, float x, float y, float width, float height, float 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定圆弧的颜色、宽度和样式。 |
+| pen | Pen | [`Pen`](../../pen)它决定了圆弧的颜色、宽度和样式。 |
 | x | Single | 定义椭圆的矩形左上角的 x 坐标。 |
 | y | Single | 定义椭圆的矩形左上角的 y 坐标。 |
 | width | Single | 定义椭圆的矩形的宽度。 |
 | height | Single | 定义椭圆的矩形的高度。 |
-| startAngle | Single | 从 x 轴到圆弧起点顺时针测量的角度。 |
-| sweepAngle | Single | 从*startAngle*参数顺时针测量到圆弧终点的角度。 |
+| startAngle | Single | 从 x 轴到圆弧起点顺时针测量的角度（以度为单位）。 |
+| sweepAngle | Single | 以度为单位顺时针测量的角度*startAngle*参数到弧的终点。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -42,7 +42,7 @@ public void DrawArc(Pen pen, float x, float y, float width, float height, float 
 
 ## DrawArc(Pen, RectangleF, float, float) {#drawarc_1}
 
-绘制一条弧，表示由[`RectangleF`](../../rectanglef)结构指定的椭圆的一部分。
+绘制一条弧，表示由 a 指定的椭圆的一部分[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
@@ -50,16 +50,16 @@ public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定圆弧的颜色、宽度和样式。 |
+| pen | Pen | [`Pen`](../../pen)它决定了圆弧的颜色、宽度和样式。 |
 | rect | RectangleF | [`RectangleF`](../../rectanglef)定义椭圆边界的结构。 |
-| startAngle | Single | 从 x 轴到圆弧起点顺时针测量的角度。 |
-| sweepAngle | Single | 从*startAngle*参数顺时针测量到圆弧终点的角度。 |
+| startAngle | Single | 从 x 轴到圆弧起点顺时针测量的角度（以度为单位）。 |
+| sweepAngle | Single | 以度为单位顺时针测量的角度*startAngle*参数到弧的终点。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空 |
+| ArgumentNullException | *pen*一片空白 |
 
 ### 也可以看看
 
@@ -73,7 +73,7 @@ public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 ## DrawArc(Pen, int, int, int, int, int, int) {#drawarc_2}
 
-绘制一条弧，表示由一对坐标、宽度和高度指定的椭圆的一部分。
+绘制表示由一对坐标、宽度和高度指定的椭圆的一部分的弧。
 
 ```csharp
 public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle, int sweepAngle)
@@ -81,19 +81,19 @@ public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定圆弧的颜色、宽度和样式。 |
+| pen | Pen | [`Pen`](../../pen)它决定了圆弧的颜色、宽度和样式。 |
 | x | Int32 | 定义椭圆的矩形左上角的 x 坐标。 |
 | y | Int32 | 定义椭圆的矩形左上角的 y 坐标。 |
 | width | Int32 | 定义椭圆的矩形的宽度。 |
 | height | Int32 | 定义椭圆的矩形的高度。 |
-| startAngle | Int32 | 从 x 轴到圆弧起点顺时针测量的角度。 |
-| sweepAngle | Int32 | 从*startAngle*参数顺时针测量到圆弧终点的角度。 |
+| startAngle | Int32 | 从 x 轴到圆弧起点顺时针测量的角度（以度为单位）。 |
+| sweepAngle | Int32 | 以度为单位顺时针测量的角度*startAngle*参数到弧的终点。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -106,7 +106,7 @@ public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle
 
 ## DrawArc(Pen, Rectangle, float, float) {#drawarc}
 
-绘制一条弧，表示由[`Rectangle`](../../rectangle)结构指定的椭圆的一部分。
+绘制一条弧，表示由 a 指定的椭圆的一部分[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
@@ -114,16 +114,16 @@ public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定圆弧的颜色、宽度和样式。 |
+| pen | Pen | [`Pen`](../../pen)它决定了圆弧的颜色、宽度和样式。 |
 | rect | Rectangle | [`RectangleF`](../../rectanglef)定义椭圆边界的结构。 |
-| startAngle | Single | 从 x 轴到圆弧起点顺时针测量的角度。 |
-| sweepAngle | Single | 从*startAngle*参数顺时针测量到圆弧终点的角度。 |
+| startAngle | Single | 从 x 轴到圆弧起点顺时针测量的角度（以度为单位）。 |
+| sweepAngle | Single | 以度为单位顺时针测量的角度*startAngle*参数到弧的终点。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 

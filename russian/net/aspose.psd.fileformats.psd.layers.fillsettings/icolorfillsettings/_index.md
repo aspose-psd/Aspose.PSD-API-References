@@ -3,7 +3,7 @@ title: IColorFillSettings
 second_title: Справочник по Aspose.PSD для .NET API
 description: Базовый интерфейс для настроек заливки
 type: docs
-weight: 1930
+weight: 1970
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
 ## IColorFillSettings interface

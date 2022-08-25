@@ -1,14 +1,14 @@
 ---
 title: DrawRectangle
 second_title: Aspose.PSD for .NET API 参考
-description: 绘制由RectangleFaspose.psd/rectanglef结构指定的矩形
+description: 绘制一个由 a 指定的矩形RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 300
 url: /zh/net/aspose.psd/graphics/drawrectangle/
 ---
 ## DrawRectangle(Pen, RectangleF) {#drawrectangle_1}
 
-绘制由[`RectangleF`](../../rectanglef)结构指定的矩形。
+绘制一个由 a 指定的矩形[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public void DrawRectangle(Pen pen, RectangleF rect)
@@ -16,14 +16,14 @@ public void DrawRectangle(Pen pen, RectangleF rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定矩形的颜色、宽度和样式。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)结构，表示要绘制的矩形。 |
+| pen | Pen | 一个[`Pen`](../../pen)它决定了矩形的颜色、宽度和样式。 |
+| rect | RectangleF | 一个[`RectangleF`](../../rectanglef)表示要绘制的矩形的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -37,7 +37,7 @@ public void DrawRectangle(Pen pen, RectangleF rect)
 
 ## DrawRectangle(Pen, Rectangle) {#drawrectangle}
 
-绘制由[`Rectangle`](../../rectangle)结构指定的矩形。
+绘制一个由 a 指定的矩形[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public void DrawRectangle(Pen pen, Rectangle rect)
@@ -45,14 +45,14 @@ public void DrawRectangle(Pen pen, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定矩形的颜色、宽度和样式。 |
-| rect | Rectangle | [`Rectangle`](../../rectangle)结构，表示要绘制的矩形。 |
+| pen | Pen | 一个[`Pen`](../../pen)它决定了矩形的颜色、宽度和样式。 |
+| rect | Rectangle | 一个[`Rectangle`](../../rectangle)表示要绘制的矩形的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -74,7 +74,7 @@ public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定矩形的颜色、宽度和样式。 |
+| pen | Pen | 一个[`Pen`](../../pen)它决定了矩形的颜色、宽度和样式。 |
 | x | Single | 要绘制的矩形左上角的 x 坐标。 |
 | y | Single | 要绘制的矩形左上角的 y 坐标。 |
 | width | Single | 要绘制的矩形的宽度。 |
@@ -84,7 +84,7 @@ public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -105,7 +105,7 @@ public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定矩形的颜色、宽度和样式。 |
+| pen | Pen | [`Pen`](../../pen)它决定了矩形的颜色、宽度和样式。 |
 | x | Int32 | 要绘制的矩形左上角的 x 坐标。 |
 | y | Int32 | 要绘制的矩形左上角的 y 坐标。 |
 | width | Int32 | 要绘制的矩形的宽度。 |
@@ -115,7 +115,7 @@ public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 

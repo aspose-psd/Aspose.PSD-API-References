@@ -3,7 +3,7 @@ title: TypeToolLineInfo
 second_title: Справочник по Aspose.PSD для .NET API
 description: Введите информацию о строке инструмента.
 type: docs
-weight: 3200
+weight: 3250
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
 ## TypeToolLineInfo class
@@ -24,13 +24,13 @@ public class TypeToolLineInfo
 
 | Имя | Описание |
 | --- | --- |
-| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char) { get; set; } | Получает или устанавливает символ. |
+| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char) { get; set; } | Получает или задает char. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save)(StreamContainer, int) | Сохраняет информацию[`TypeToolLineInfo`](../typetoollineinfo)в указанный контейнер потока. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save)(StreamContainer, int) | Сохраняет[`TypeToolLineInfo`](../typetoollineinfo) информация в указанный контейнер потока. |
 
 ### Смотрите также
 

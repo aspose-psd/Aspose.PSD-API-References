@@ -3,7 +3,7 @@ title: PixelsData
 second_title: Aspose.PSD for .NET API 参考
 description: 存储图像像素数据及其边界的类
 type: docs
-weight: 5130
+weight: 5180
 url: /zh/net/aspose.psd/pixelsdata/
 ---
 ## PixelsData class
@@ -18,8 +18,8 @@ public sealed class PixelsData
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PixelsData](pixelsdata#constructor)() | 初始化[`PixelsData`](../pixelsdata)类的新实例。 |
-| [PixelsData](pixelsdata#constructor_1)(int[], Rectangle) | 初始化[`PixelsData`](../pixelsdata)类的新实例。 |
+| [PixelsData](pixelsdata#constructor)() | 初始化[`PixelsData`](../pixelsdata)类. |
+| [PixelsData](pixelsdata#constructor_1)(int[], Rectangle) | 初始化[`PixelsData`](../pixelsdata)类. |
 
 ## 特性
 
@@ -30,7 +30,7 @@ public sealed class PixelsData
 
 ### 例子
 
-以下代码向您展示如何创建具有自定义渲染器的自定义智能过滤器。
+以下代码向您展示了如何创建具有自定义渲染器的自定义智能过滤器。
 
 ```csharp
 [C#]

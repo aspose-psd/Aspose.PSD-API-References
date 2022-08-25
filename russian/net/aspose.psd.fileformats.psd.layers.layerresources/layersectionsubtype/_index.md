@@ -1,14 +1,14 @@
 ---
 title: LayerSectionSubtype
 second_title: Справочник по Aspose.PSD для .NET API
-description: Подтип секции
+description: Раздел subtype
 type: docs
-weight: 2540
+weight: 2580
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
 ## LayerSectionSubtype enumeration
 
-Подтип секции
+Раздел subtype
 
 ```csharp
 public enum LayerSectionSubtype
@@ -18,9 +18,9 @@ public enum LayerSectionSubtype
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| NotUsed | `-1` | Не используется |
+| NotUsed | `-1` | Неиспользуемый |
 | Normal | `0` | Обычный |
-| SceneGroup | `1` | Группа сцены |
+| SceneGroup | `1` | Группа сцен |
 
 ### Смотрите также
 

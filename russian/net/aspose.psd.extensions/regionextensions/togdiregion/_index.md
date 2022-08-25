@@ -1,14 +1,14 @@
 ---
 title: ToGdiRegion
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПреобразуетRegionaspose.psd/regionвRegion.
+description: ПреобразуетRegionaspose.psd/region кRegion .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/regionextensions/togdiregion/
 ---
 ## RegionExtensions.ToGdiRegion method
 
-Преобразует[`Region`](../../../aspose.psd/region)вRegion.
+Преобразует[`Region`](../../../aspose.psd/region) кRegion .
 
 ```csharp
 public static Region ToGdiRegion(Region region)
@@ -16,7 +16,7 @@ public static Region ToGdiRegion(Region region)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| region | Region | [`Region`](../../../aspose.psd/region)для преобразования. |
+| region | Region | [`Region`](../../../aspose.psd/region) конвертировать. |
 
 ### Возвращаемое значение
 

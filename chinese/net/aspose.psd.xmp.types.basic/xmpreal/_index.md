@@ -1,14 +1,14 @@
 ---
 title: XmpReal
 second_title: Aspose.PSD for .NET API 参考
-description: 代表 XMP Real
+description: 表示 XMP 真实值
 type: docs
-weight: 5850
+weight: 5900
 url: /zh/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
 ## XmpReal class
 
-代表 XMP Real。
+表示 XMP 真实值。
 
 ```csharp
 public sealed class XmpReal : XmpTypeBase
@@ -18,14 +18,14 @@ public sealed class XmpReal : XmpTypeBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpReal](xmpreal#constructor)(float) | 初始化[`XmpReal`](../xmpreal)类的新实例。 |
-| [XmpReal](xmpreal#constructor_1)(string) | 初始化[`XmpReal`](../xmpreal)类的新实例。 |
+| [XmpReal](xmpreal#constructor)(float) | 初始化[`XmpReal`](../xmpreal)类. |
+| [XmpReal](xmpreal#constructor_1)(string) | 初始化[`XmpReal`](../xmpreal)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value) { get; set; } | 获取或设置浮动值。 |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value) { get; set; } | 获取或设置浮点值。 |
 
 ## 方法
 

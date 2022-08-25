@@ -1,14 +1,14 @@
 ---
 title: LinearGradientBrush
 second_title: Aspose.PSD for .NET API 参考
-description: 使用默认参数初始化LinearGradientBrushaspose.psd.brushes/lineargradientbrush类的新实例 起始颜色为黑色结束颜色为白色角度为 45 度矩形位于 00大小为 11
+description: 初始化LinearGradientBrushaspose.psd.brushes/lineargradientbrush具有默认参数的类 起始颜色为黑色结束颜色为白色角度为 45 度矩形位于 00大小为 11
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.brushes/lineargradientbrush/lineargradientbrush/
 ---
 ## LinearGradientBrush() {#constructor}
 
-使用默认参数初始化[`LinearGradientBrush`](../../lineargradientbrush)类的新实例。 起始颜色为黑色，结束颜色为白色，角度为 45 度，矩形位于 (0,0)，大小为 (1,1)。
+初始化[`LinearGradientBrush`](../../lineargradientbrush)具有默认参数的类。 起始颜色为黑色，结束颜色为白色，角度为 45 度，矩形位于 (0,0)，大小为 (1,1)。
 
 ```csharp
 public LinearGradientBrush()
@@ -24,7 +24,7 @@ public LinearGradientBrush()
 
 ## LinearGradientBrush(Point, Point, Color, Color) {#constructor_1}
 
-使用指定的点和颜色初始化[`LinearGradientBrush`](../../lineargradientbrush)类的新实例。
+初始化[`LinearGradientBrush`](../../lineargradientbrush)具有指定点和颜色的类。
 
 ```csharp
 public LinearGradientBrush(Point point1, Point point2, Color color1, Color color2)
@@ -32,10 +32,10 @@ public LinearGradientBrush(Point point1, Point point2, Color color1, Color color
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point1 | Point | [`Point`](../../../aspose.psd/point)结构，表示线性渐变的起点。 |
-| point2 | Point | [`Point`](../../../aspose.psd/point)结构，表示线性渐变的端点。 |
-| color1 | Color | [`Color`](../../../aspose.psd/color)结构，表示线性渐变的起始颜色。 |
-| color2 | Color | [`Color`](../../../aspose.psd/color)结构，表示线性渐变的结束颜色。 |
+| point1 | Point | 一个[`Point`](../../../aspose.psd/point)表示线性梯度起点的结构。 |
+| point2 | Point | 一个[`Point`](../../../aspose.psd/point)表示线性梯度端点的结构。 |
+| color1 | Color | 一个[`Color`](../../../aspose.psd/color)表示线性渐变的起始颜色的结构。 |
+| color2 | Color | 一个[`Color`](../../../aspose.psd/color)表示线性渐变的结束颜色的结构。 |
 
 ### 也可以看看
 
@@ -49,7 +49,7 @@ public LinearGradientBrush(Point point1, Point point2, Color color1, Color color
 
 ## LinearGradientBrush(PointF, PointF, Color, Color) {#constructor_2}
 
-使用指定的点和颜色初始化[`LinearGradientBrush`](../../lineargradientbrush)类的新实例。
+初始化[`LinearGradientBrush`](../../lineargradientbrush)具有指定点和颜色的类。
 
 ```csharp
 public LinearGradientBrush(PointF point1, PointF point2, Color color1, Color color2)
@@ -57,10 +57,10 @@ public LinearGradientBrush(PointF point1, PointF point2, Color color1, Color col
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point1 | PointF | [`PointF`](../../../aspose.psd/pointf)结构，表示线性渐变的起点。 |
-| point2 | PointF | [`PointF`](../../../aspose.psd/pointf)结构，表示线性渐变的端点。 |
-| color1 | Color | [`Color`](../../../aspose.psd/color)结构，表示线性渐变的起始颜色。 |
-| color2 | Color | [`Color`](../../../aspose.psd/color)结构，表示线性渐变的结束颜色。 |
+| point1 | PointF | 一个[`PointF`](../../../aspose.psd/pointf)表示线性梯度起点的结构。 |
+| point2 | PointF | 一个[`PointF`](../../../aspose.psd/pointf)表示线性梯度端点的结构。 |
+| color1 | Color | 一个[`Color`](../../../aspose.psd/color)表示线性渐变的起始颜色的结构。 |
+| color2 | Color | 一个[`Color`](../../../aspose.psd/color)表示线性渐变的结束颜色的结构。 |
 
 ### 也可以看看
 
@@ -74,7 +74,7 @@ public LinearGradientBrush(PointF point1, PointF point2, Color color1, Color col
 
 ## LinearGradientBrush(Rectangle, Color, Color, float) {#constructor_3}
 
-基于矩形、开始和结束颜色以及方向角度初始化[`LinearGradientBrush`](../../lineargradientbrush)类的新实例。
+初始化[`LinearGradientBrush`](../../lineargradientbrush)基于矩形、开始和结束颜色以及方向角的类。
 
 ```csharp
 public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float angle)
@@ -82,9 +82,9 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float ang
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | [`RectangleF`](../../../aspose.psd/rectanglef)结构，指定线性渐变的边界。 |
-| color1 | Color | [`Color`](../../../aspose.psd/color)结构，表示渐变的起始颜色。 |
-| color2 | Color | [`Color`](../../../aspose.psd/color)结构，表示渐变的结束颜色。 |
+| rect | Rectangle | 一个[`RectangleF`](../../../aspose.psd/rectanglef)指定线性梯度边界的结构。 |
+| color1 | Color | 一个[`Color`](../../../aspose.psd/color)表示渐变起始颜色的结构。 |
+| color2 | Color | 一个[`Color`](../../../aspose.psd/color)表示渐变结束颜色的结构。 |
 | angle | Single | 渐变方向线的角度，以从 x 轴顺时针方向测量的度数为单位。 |
 
 ### 也可以看看
@@ -99,7 +99,7 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float ang
 
 ## LinearGradientBrush(RectangleF, Color, Color, float) {#constructor_5}
 
-基于矩形、开始和结束颜色以及方向角度初始化[`LinearGradientBrush`](../../lineargradientbrush)类的新实例。
+初始化[`LinearGradientBrush`](../../lineargradientbrush)基于矩形、开始和结束颜色以及方向角的类。
 
 ```csharp
 public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float angle)
@@ -107,9 +107,9 @@ public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float an
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../../aspose.psd/rectanglef)结构，指定线性渐变的边界。 |
-| color1 | Color | [`Color`](../../../aspose.psd/color)结构，表示渐变的起始颜色。 |
-| color2 | Color | [`Color`](../../../aspose.psd/color)结构，表示渐变的结束颜色。 |
+| rect | RectangleF | 一个[`RectangleF`](../../../aspose.psd/rectanglef)指定线性梯度边界的结构。 |
+| color1 | Color | 一个[`Color`](../../../aspose.psd/color)表示渐变起始颜色的结构。 |
+| color2 | Color | 一个[`Color`](../../../aspose.psd/color)表示渐变结束颜色的结构。 |
 | angle | Single | 渐变方向线的角度，以从 x 轴顺时针方向测量的度数为单位。 |
 
 ### 也可以看看
@@ -124,7 +124,7 @@ public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float an
 
 ## LinearGradientBrush(Rectangle, Color, Color, float, bool) {#constructor_4}
 
-基于矩形、起始颜色和结束颜色以及方向角度初始化[`LinearGradientBrush`](../../lineargradientbrush)类的新实例。
+初始化[`LinearGradientBrush`](../../lineargradientbrush)基于矩形、开始和结束颜色以及方向角的类。
 
 ```csharp
 public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float angle, 
@@ -133,11 +133,11 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float ang
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | [`RectangleF`](../../../aspose.psd/rectanglef)结构，指定线性渐变的边界。 |
-| color1 | Color | [`Color`](../../../aspose.psd/color)结构，表示渐变的起始颜色。 |
-| color2 | Color | [`Color`](../../../aspose.psd/color)结构，表示渐变的结束颜色。 |
+| rect | Rectangle | 一个[`RectangleF`](../../../aspose.psd/rectanglef)指定线性梯度边界的结构。 |
+| color1 | Color | 一个[`Color`](../../../aspose.psd/color)表示渐变起始颜色的结构。 |
+| color2 | Color | 一个[`Color`](../../../aspose.psd/color)表示渐变结束颜色的结构。 |
 | angle | Single | 渐变方向线的角度，以从 x 轴顺时针方向测量的度数为单位。 |
-| isAngleScalable | Boolean | 如果设置为` true` 在使用此Brushes进行转换期间更改角度。线性渐变刷。 |
+| isAngleScalable | Boolean | 如果设置为`真的`在转换过程中角度会改变[`LinearGradientBrush`](../../lineargradientbrush). |
 
 ### 也可以看看
 
@@ -151,7 +151,7 @@ public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float ang
 
 ## LinearGradientBrush(RectangleF, Color, Color, float, bool) {#constructor_6}
 
-基于矩形、起始颜色和结束颜色以及方向角度初始化[`LinearGradientBrush`](../../lineargradientbrush)类的新实例。
+初始化[`LinearGradientBrush`](../../lineargradientbrush)基于矩形、开始和结束颜色以及方向角的类。
 
 ```csharp
 public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float angle, 
@@ -160,11 +160,11 @@ public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float an
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../../aspose.psd/rectanglef)结构，指定线性渐变的边界。 |
-| color1 | Color | [`Color`](../../../aspose.psd/color)结构，表示渐变的起始颜色。 |
-| color2 | Color | [`Color`](../../../aspose.psd/color)结构，表示渐变的结束颜色。 |
+| rect | RectangleF | 一个[`RectangleF`](../../../aspose.psd/rectanglef)指定线性梯度边界的结构。 |
+| color1 | Color | 一个[`Color`](../../../aspose.psd/color)表示渐变起始颜色的结构。 |
+| color2 | Color | 一个[`Color`](../../../aspose.psd/color)表示渐变结束颜色的结构。 |
 | angle | Single | 渐变方向线的角度，以从 x 轴顺时针方向测量的度数为单位。 |
-| isAngleScalable | Boolean | 如果设置为` true` 在使用此Brushes进行转换期间更改角度。线性渐变刷。 |
+| isAngleScalable | Boolean | 如果设置为`真的`在转换过程中角度会改变[`LinearGradientBrush`](../../lineargradientbrush). |
 
 ### 也可以看看
 

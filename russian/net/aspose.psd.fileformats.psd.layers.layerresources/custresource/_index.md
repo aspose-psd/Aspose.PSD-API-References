@@ -1,14 +1,14 @@
 ---
 title: CustResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс CustResource. Этот ресурс содержит информацию о смешивании обрезанного элемента.
+description: Класс CustResource. Этот ресурс содержит информацию о смешивании отсеченного элемента.
 type: docs
-weight: 2380
+weight: 2420
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
 ## CustResource class
 
-Класс CustResource. Этот ресурс содержит информацию о смешивании обрезанного элемента.
+Класс CustResource. Этот ресурс содержит информацию о смешивании отсеченного элемента.
 
 ```csharp
 public class CustResource : LayerResource
@@ -18,8 +18,8 @@ public class CustResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [CustResource](custresource#constructor)() | Инициализирует новый экземпляр класса[`CustResource`](../custresource). |
-| [CustResource](custresource#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`CustResource`](../custresource). |
+| [CustResource](custresource#constructor)() | Инициализирует новый экземпляр[`CustResource`](../custresource) класс. |
+| [CustResource](custresource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`CustResource`](../custresource) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public class CustResource : LayerResource
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/key) { get; } | Получает ключ ресурса слоя. |
 | [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime) { get; set; } | Получает или задает дату создания слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/signature) { get; } | Получает подпись. |
 
 ## Методы
@@ -36,13 +36,13 @@ public class CustResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

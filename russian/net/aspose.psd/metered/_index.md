@@ -3,14 +3,14 @@ title: Metered
 second_title: Справочник по Aspose.PSD для .NET API
 description: Предоставляет методы для установки измеренного ключа.
 type: docs
-weight: 5000
+weight: 5050
 url: /ru/net/aspose.psd/metered/
 ---
 ## Metered class
 
 Предоставляет методы для установки измеренного ключа.
 
-Обеспечивает дозированные методы для интеграции
+Предоставляет измеряемые методы для интеграции
 
 ```csharp
 public class Metered
@@ -26,14 +26,14 @@ public class Metered
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.psd/metered/equals)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
-| [SetMeteredKey](../../aspose.psd/metered/setmeteredkey)(string, string) | Устанавливает измеренный открытый и закрытый ключ |
-| static [GetConsumptionCredit](../../aspose.psd/metered/getconsumptioncredit)() | Получает кредит потребления |
+| override [Equals](../../aspose.psd/metered/equals)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
+| [SetMeteredKey](../../aspose.psd/metered/setmeteredkey)(string, string) | Устанавливает лимитированный открытый и закрытый ключ |
+| static [GetConsumptionCredit](../../aspose.psd/metered/getconsumptioncredit)() | Получает потребительский кредит |
 | static [GetConsumptionQuantity](../../aspose.psd/metered/getconsumptionquantity)() | Получает размер файла потребления |
 
 ### Примеры
 
-В этом примере будет предпринята попытка установить дозированные открытый и закрытый ключ
+В этом примере будет предпринята попытка установить лимитированный открытый и закрытый ключ
 
 ```csharp
 [C#]

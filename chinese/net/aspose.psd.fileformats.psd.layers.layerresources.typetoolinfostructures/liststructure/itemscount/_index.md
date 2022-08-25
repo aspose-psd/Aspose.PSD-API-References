@@ -1,14 +1,14 @@
 ---
 title: ItemsCount
 second_title: Aspose.PSD for .NET API 参考
-description: 获取项目计数
+description: 获取项目数
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount/
 ---
 ## ListStructure.ItemsCount property
 
-获取项目计数。
+获取项目数。
 
 ```csharp
 public int ItemsCount { get; }

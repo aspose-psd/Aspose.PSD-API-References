@@ -1,14 +1,14 @@
 ---
 title: ScriptValue
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение сценария.
+description: Получает или задает значение скрипта.
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/
 ---
 ## TypeToolFontInfo.ScriptValue property
 
-Получает или задает значение сценария.
+Получает или задает значение скрипта.
 
 ```csharp
 public short ScriptValue { get; set; }

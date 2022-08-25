@@ -1,14 +1,14 @@
 ---
 title: GuideResource
 second_title: Aspose.PSD for .NET API 参考
-description: 引导资源块
+description: 指南资源块.
 type: docs
-weight: 3640
+weight: 3690
 url: /zh/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
 ## GuideResource class
 
-引导资源块。
+指南资源块.
 
 ```csharp
 public sealed class GuideResource
@@ -24,14 +24,14 @@ public sealed class GuideResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction) { get; set; } | 获取或设置导向方向。 |
+| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction) { get; set; } | 获取或设置指南的方向。 |
 | [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location) { get; set; } | 获取或设置指南在文档坐标中的位置。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize) | 引导资源块大小。 |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize) | 指导资源块大小。 |
 
 ### 也可以看看
 

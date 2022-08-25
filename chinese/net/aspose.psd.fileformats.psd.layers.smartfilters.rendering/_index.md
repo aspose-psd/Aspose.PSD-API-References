@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含图层中包含的 PSD 文件格式实体
 type: docs
-weight: 300
+weight: 310
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/
 ---
 命名空间包含图层中包含的 PSD 文件格式实体。

@@ -1,14 +1,14 @@
 ---
 title: XPTitle
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置图像信息供 Windows 资源管理器使用
+description: 获取或设置图像信息供 Windows Explorer 使用
 type: docs
 weight: 640
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/xptitle/
 ---
 ## TiffOptions.XPTitle property
 
-获取或设置图像信息，供 Windows 资源管理器使用。
+获取或设置图像信息，供 Windows Explorer 使用。
 
 ```csharp
 public string XPTitle { get; set; }
@@ -16,7 +16,7 @@ public string XPTitle { get; set; }
 
 ### 适当的价值
 
-有关图像的信息，由 Windows 资源管理器使用。 如果存在[`ImageDescription`](../imagedescription)标签，Windows Explorer 将忽略`XPTitle`。
+有关图像的信息，供 Windows 资源管理器使用。 `XPTitle`如果[`ImageDescription`](../imagedescription)标签存在。
 
 ### 也可以看看
 

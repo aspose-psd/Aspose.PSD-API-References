@@ -1,14 +1,14 @@
 ---
 title: FrameworkException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Исключение платформы PSD. Этот класс является базовым для всех исключений Aspose.PSD. Введено для различения исключений создаваемых движком Aspose.PSD и всех других типов исключений.
+description: Исключение платформы PSD. Этот класс является базовым для всех исключений Aspose.PSD. Введен для различения исключений создаваемых механизмом Aspose.PSD и всех других типов исключений.
 type: docs
 weight: 480
 url: /ru/net/aspose.psd.coreexceptions/frameworkexception/
 ---
 ## FrameworkException class
 
-Исключение платформы PSD. Этот класс является базовым для всех исключений Aspose.PSD. Введено для различения исключений, создаваемых движком Aspose.PSD, и всех других типов исключений.
+Исключение платформы PSD. Этот класс является базовым для всех исключений Aspose.PSD. Введен для различения исключений, создаваемых механизмом Aspose.PSD, и всех других типов исключений.
 
 ```csharp
 public class FrameworkException : Exception
@@ -18,8 +18,8 @@ public class FrameworkException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [FrameworkException](frameworkexception#constructor)(string) | Инициализирует новый экземпляр класса[`FrameworkException`](../frameworkexception). |
-| [FrameworkException](frameworkexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса[`FrameworkException`](../frameworkexception). |
+| [FrameworkException](frameworkexception#constructor)(string) | Инициализирует новый экземпляр[`FrameworkException`](../frameworkexception) класс. |
+| [FrameworkException](frameworkexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`FrameworkException`](../frameworkexception) класс. |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: IXmpType
 second_title: Справочник по Aspose.PSD для .NET API
 description: Базовый интерфейс для типа XMP.
 type: docs
-weight: 6070
+weight: 6120
 url: /ru/net/aspose.psd.xmp.types/ixmptype/
 ---
 ## IXmpType interface

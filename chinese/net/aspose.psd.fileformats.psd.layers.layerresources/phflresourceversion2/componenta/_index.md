@@ -1,14 +1,14 @@
 ---
 title: ComponentA
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置颜色的 A 分量
+description: 获取或设置 color 的 A 分量
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componenta/
 ---
 ## PhflResourceVersion2.ComponentA property
 
-获取或设置颜色的 A 分量
+获取或设置 color 的 A 分量
 
 ```csharp
 public short ComponentA { get; set; }
@@ -16,7 +16,7 @@ public short ComponentA { get; set; }
 
 ### 适当的价值
 
-A 分量。
+A 组件。
 
 ### 例外
 

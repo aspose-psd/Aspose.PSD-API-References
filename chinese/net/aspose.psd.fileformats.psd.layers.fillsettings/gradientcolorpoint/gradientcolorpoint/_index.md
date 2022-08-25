@@ -1,14 +1,14 @@
 ---
 title: GradientColorPoint
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化GradientColorPointaspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint类的新实例
+description: 初始化GradientColorPointaspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/gradientcolorpoint/
 ---
 ## GradientColorPoint() {#constructor}
 
-初始化[`GradientColorPoint`](../../gradientcolorpoint)类的新实例。
+初始化[`GradientColorPoint`](../../gradientcolorpoint)类.
 
 ```csharp
 public GradientColorPoint()
@@ -24,7 +24,7 @@ public GradientColorPoint()
 
 ## GradientColorPoint(Color, int, int) {#constructor_1}
 
-初始化[`GradientColorPoint`](../../gradientcolorpoint)类的新实例。
+初始化[`GradientColorPoint`](../../gradientcolorpoint)类.
 
 ```csharp
 public GradientColorPoint(Color color, int location, int medianPointLocation)

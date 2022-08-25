@@ -20,7 +20,7 @@ public string DisplayName { get; set; }
 
 ### 例子
 
-以下示例演示了设置 DisplayName 值的能力，其中图层名称显示正确。
+下面的示例演示了设置 DisplayName 值的能力，图层名称显示正确。
 
 ```csharp
 [C#]

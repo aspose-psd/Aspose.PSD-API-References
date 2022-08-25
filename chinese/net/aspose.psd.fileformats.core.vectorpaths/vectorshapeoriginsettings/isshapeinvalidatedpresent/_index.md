@@ -16,7 +16,7 @@ public bool IsShapeInvalidatedPresent { get; }
 
 ### 适当的价值
 
-` true` 如果此实例具有无效的形状属性集；否则，` false` 。
+`真的`如果此实例的形状无效属性集；否则，`错误的` .
 
 ### 也可以看看
 

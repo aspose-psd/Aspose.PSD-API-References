@@ -1,14 +1,14 @@
 ---
 title: GetReplacementFont
 second_title: Aspose.PSD for .NET API 参考
-description: 获取最合适的替换字体 如果不允许所有替换则将返回第一个允许且可用的字体 如果没有可用的字体那么将从参数
+description: 获取最合适的替换字体 如果不允许所有替换则首先返回允许和可用的字体 如果没有可用的字体则从参数返回字体
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/fontsettings/getreplacementfont/
 ---
 ## FontSettings.GetReplacementFont method
 
-获取最合适的替换字体。 如果不允许所有替换，则将返回第一个允许且可用的字体。 如果没有可用的字体，那么将从参数
+获取最合适的替换字体。 如果不允许所有替换，则首先返回允许和可用的字体。 如果没有可用的字体，则从参数返回字体
 
 ```csharp
 public static string GetReplacementFont(string fontName)
@@ -16,7 +16,7 @@ public static string GetReplacementFont(string fontName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | 字体的名称返回字体。 |
+| fontName | String | 字体的名称。 |
 
 ### 返回值
 

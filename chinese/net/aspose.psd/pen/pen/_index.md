@@ -1,14 +1,14 @@
 ---
 title: Pen
 second_title: Aspose.PSD for .NET API 参考
-description: 使用指定颜色初始化Penaspose.psd/pen类的新实例
+description: 初始化Penaspose.psd/pen具有指定颜色的类
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/pen/pen/
 ---
 ## Pen(Color) {#constructor_2}
 
-使用指定颜色初始化[`Pen`](../../pen)类的新实例。
+初始化[`Pen`](../../pen)具有指定颜色的类。
 
 ```csharp
 public Pen(Color color)
@@ -16,7 +16,7 @@ public Pen(Color color)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | [`Color`](../color)结构，指示此Pen。 |
+| color | Color | 一个[`Color`](../color)指示此颜色的结构[`Pen`](../../pen). |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public Pen(Color color)
 
 ## Pen(Color, float) {#constructor_3}
 
-用指定的[`Color`](../color)初始化[`Pen`](../../pen)类的新实例和[`Width`](../width)属性。
+初始化[`Pen`](../../pen)具有指定的类[`Color`](../color)和[`Width`](../width)属性.
 
 ```csharp
 public Pen(Color color, float width)
@@ -37,8 +37,8 @@ public Pen(Color color, float width)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | [`Color`](../color)结构，指示此Pen。 |
-| width | Single | 表示此[`Pen`](../../pen)宽度的值。 |
+| color | Color | 一个[`Color`](../color)指示此颜色的结构[`Pen`](../../pen). |
+| width | Single | 表示此宽度的值[`Pen`](../../pen). |
 
 ### 也可以看看
 
@@ -51,7 +51,7 @@ public Pen(Color color, float width)
 
 ## Pen(Brush) {#constructor}
 
-使用指定的[`Brush`](../brush)初始化[`Pen`](../../pen)类的新实例。
+初始化[`Pen`](../../pen)具有指定的类[`Brush`](../brush) .
 
 ```csharp
 public Pen(Brush brush)
@@ -59,13 +59,13 @@ public Pen(Brush brush)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | 一个[`Brush`](../brush)，它决定了这个Pen。 |
+| brush | Brush | 一个[`Brush`](../brush)决定了这个的填充属性[`Pen`](../../pen). |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 
@@ -78,7 +78,7 @@ public Pen(Brush brush)
 
 ## Pen(Brush, float) {#constructor_1}
 
-使用指定的[`Brush`](../brush)初始化[`Pen`](../../pen)类的新实例[`Width`](../width)。
+初始化[`Pen`](../../pen)具有指定的类[`Brush`](../brush)和[`Width`](../width) .
 
 ```csharp
 public Pen(Brush brush, float width)
@@ -86,14 +86,14 @@ public Pen(Brush brush, float width)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | 一个[`Brush`](../brush)，它决定了这个PSD的特性。笔。 |
-| width | Single | 新的[`Pen`](../../pen)的宽度。 |
+| brush | Brush | 一个[`Brush`](../brush)这决定了它的特性[`Pen`](../../pen). |
+| width | Single | 新的宽度[`Pen`](../../pen). |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 

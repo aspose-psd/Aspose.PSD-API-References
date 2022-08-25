@@ -1,14 +1,14 @@
 ---
 title: DocumentProcessColors
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает рабочие цвета документа.
+description: Получает или задает цвета обработки документа.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/documentprocesscolors/
 ---
 ## AiHeader.DocumentProcessColors property
 
-Получает или задает рабочие цвета документа.
+Получает или задает цвета обработки документа.
 
 ```csharp
 public string DocumentProcessColors { get; set; }
@@ -16,7 +16,7 @@ public string DocumentProcessColors { get; set; }
 
 ### Стоимость имущества
 
-Цвета процесса документа.
+Цвета обработки документа.
 
 ### Смотрите также
 

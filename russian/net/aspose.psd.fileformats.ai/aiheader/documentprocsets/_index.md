@@ -1,14 +1,14 @@
 ---
 title: DocumentProcSets
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает наборы процедур документа.
+description: Получает или задает наборы процессов документа.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
 ## AiHeader.DocumentProcSets property
 
-Получает или задает наборы процедур документа.
+Получает или задает наборы процессов документа.
 
 ```csharp
 public string DocumentProcSets { get; set; }

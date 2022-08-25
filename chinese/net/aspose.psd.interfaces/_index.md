@@ -3,7 +3,7 @@ title: Aspose.PSD.Interfaces
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间处理 Tiff 文件格式处理
 type: docs
-weight: 420
+weight: 430
 url: /zh/net/aspose.psd.interfaces/
 ---
 命名空间处理 Tiff 文件格式处理。

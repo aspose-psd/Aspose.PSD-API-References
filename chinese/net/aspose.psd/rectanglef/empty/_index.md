@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Aspose.PSD for .NET API 参考
-description: 获取具有Xaspose.psd/rectanglef/x的RectangleFaspose.psd/rectanglef结构的新实例Yaspose.psd/rectanglef/yWidthaspose.psd/rectanglef/width和Heightaspose.psd/rectanglef/height值设置为零.
+description: 获取一个新的实例RectangleFaspose.psd/rectanglef具有的结构Xaspose.psd/rectanglef/x Yaspose.psd/rectanglef/y Widthaspose.psd/rectanglef/width和Heightaspose.psd/rectanglef/height值设置为零
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/rectanglef/empty/
 ---
 ## RectangleF.Empty property
 
-获取具有[`X`](../x)的[`RectangleF`](../../rectanglef)结构的新实例，[`Y`](../y)、[`Width`](../width)和[`Height`](../height)值设置为零.
+获取一个新的实例[`RectangleF`](../../rectanglef)具有的结构[`X`](../x) ,[`Y`](../y) ,[`Width`](../width)和[`Height`](../height)值设置为零。
 
 ```csharp
 public static RectangleF Empty { get; }

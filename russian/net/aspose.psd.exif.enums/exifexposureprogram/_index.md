@@ -1,14 +1,14 @@
 ---
 title: ExifExposureProgram
 second_title: Справочник по Aspose.PSD для .NET API
-description: exif программа экспозиции enum.
+description: программа экспонирования exif enum.
 type: docs
 weight: 840
 url: /ru/net/aspose.psd.exif.enums/exifexposureprogram/
 ---
 ## ExifExposureProgram enumeration
 
-exif программа экспозиции enum.
+программа экспонирования exif enum.
 
 ```csharp
 public enum ExifExposureProgram

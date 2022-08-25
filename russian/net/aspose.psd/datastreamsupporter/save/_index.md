@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сохраняет данные объекта в текущийDataStreamSupporteraspose.psd/datastreamsupporter.
+description: Сохраняет данные объекта в текущийDataStreamSupporteraspose.psd/datastreamsupporter .
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/datastreamsupporter/save/
 ---
 ## Save() {#save}
 
-Сохраняет данные объекта в текущий[`DataStreamSupporter`](../../datastreamsupporter).
+Сохраняет данные объекта в текущий[`DataStreamSupporter`](../../datastreamsupporter) .
 
 ```csharp
 public virtual void Save()
@@ -73,7 +73,7 @@ public virtual void Save(string filePath, bool overWrite)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filePath | String | Путь к файлу для сохранения данных объекта. |
-| overWrite | Boolean | если установлено` true` перезаписать содержимое файла, иначе произойдет добавление. |
+| overWrite | Boolean | если установлено`истинный` перезапишите содержимое файла, иначе произойдет добавление. |
 
 ### Смотрите также
 

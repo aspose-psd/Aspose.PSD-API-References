@@ -16,7 +16,7 @@ public DropShadowEffect AddDropShadow()
 
 ### Возвращаемое значение
 
-Создано[`DropShadowEffect`](../../dropshadoweffect)объект
+Создано[`DropShadowEffect`](../../dropshadoweffect) объект
 
 ### Смотрите также
 

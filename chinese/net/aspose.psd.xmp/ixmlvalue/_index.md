@@ -1,14 +1,14 @@
 ---
 title: IXmlValue
 second_title: Aspose.PSD for .NET API 参考
-description: 将 xmp 值转换为 XML 字符串表示
+description: 将 xmp 值转换为 XML 字符串表示形式
 type: docs
-weight: 5630
+weight: 5680
 url: /zh/net/aspose.psd.xmp/ixmlvalue/
 ---
 ## IXmlValue interface
 
-将 xmp 值转换为 XML 字符串表示。
+将 xmp 值转换为 XML 字符串表示形式。
 
 ```csharp
 public interface IXmlValue

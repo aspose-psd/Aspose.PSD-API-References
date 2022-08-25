@@ -16,7 +16,7 @@ public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 
 ### 返回值
 
-添加通道混合器层
+添加了通道混合器层
 
 ### 也可以看看
 

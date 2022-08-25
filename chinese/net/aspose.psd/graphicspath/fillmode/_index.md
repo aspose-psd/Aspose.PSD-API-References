@@ -1,14 +1,14 @@
 ---
 title: FillMode
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个FillModeaspose.psd/fillmode枚举该枚举确定此GraphicsPathaspose.psd/graphicspath 中形状的内部如何已填满
+description: 获取或设置一个FillModeaspose.psd/fillmode枚举它决定了这个形状的内部如何GraphicsPathaspose.psd/graphicspath已满
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/graphicspath/fillmode/
 ---
 ## GraphicsPath.FillMode property
 
-获取或设置一个[`FillMode`](../../fillmode)枚举，该枚举确定此[`GraphicsPath`](../../graphicspath) 中形状的内部如何已填满。
+获取或设置一个[`FillMode`](../../fillmode)枚举，它决定了这个形状的内部如何[`GraphicsPath`](../../graphicspath)已满。
 
 ```csharp
 public FillMode FillMode { get; set; }
@@ -16,7 +16,7 @@ public FillMode FillMode { get; set; }
 
 ### 返回值
 
-一个[`FillMode`](../../fillmode)枚举，指定此GraphicsPath已填充。
+一个[`FillMode`](../../fillmode)枚举，指定此形状的内部如何[`GraphicsPath`](../../graphicspath)已满。
 
 ### 适当的价值
 

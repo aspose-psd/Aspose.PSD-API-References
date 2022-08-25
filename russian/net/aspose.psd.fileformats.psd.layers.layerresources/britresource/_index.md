@@ -1,14 +1,14 @@
 ---
 title: BritResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс BritResource. Ресурс слоя регулировки яркости/контрастности
+description: Класс БритРесурс. Ресурс корректирующего слоя яркости/контрастности
 type: docs
-weight: 2280
+weight: 2320
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 ---
 ## BritResource class
 
-Класс BritResource. Ресурс слоя регулировки яркости/контрастности
+Класс БритРесурс. Ресурс корректирующего слоя яркости/контрастности
 
 ```csharp
 public class BritResource : AdjustmentLayerResource
@@ -18,9 +18,9 @@ public class BritResource : AdjustmentLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [BritResource](britresource#constructor)() | Инициализирует новый экземпляр класса[`BritResource`](../britresource). |
-| [BritResource](britresource#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`BritResource`](../britresource). Спецификация формата PSD содержит следующее описание: 2 Яркость 2 Контрастность 2 Среднее значение яркости и контрастности 1 Только лабораторный цвет Он не используется в современных PSD (CS5 и выше), где есть CgEd. CgEd хранит информационные свойства |
-| [BritResource](britresource#constructor_2)(short, short, short, bool) | Инициализирует новый экземпляр класса[`BritResource`](../britresource). |
+| [BritResource](britresource#constructor)() | Инициализирует новый экземпляр[`BritResource`](../britresource) класс. |
+| [BritResource](britresource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`BritResource`](../britresource)class. Спецификация формата PSD содержит следующее описание: 2 Яркость 2 Контраст 2 Среднее значение яркости и контрастности 1 Только лабораторный цвет Не используется в современном PSD (CS5 и выше), где есть CgEd. CgEd хранит информацию properties |
+| [BritResource](britresource#constructor_2)(short, short, short, bool) | Инициализирует новый экземпляр[`BritResource`](../britresource) класс. |
 
 ## Характеристики
 
@@ -32,7 +32,7 @@ public class BritResource : AdjustmentLayerResource
 | [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor) { get; set; } | Получает или задает значение, указывающее, является ли [лабораторный цвет]. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast) { get; set; } | Получает или задает среднее значение яркости и контрастности. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Получает подпись. |
 
 ## Методы
@@ -40,13 +40,13 @@ public class BritResource : AdjustmentLayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

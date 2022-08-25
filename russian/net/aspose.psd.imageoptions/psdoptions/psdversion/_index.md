@@ -1,14 +1,14 @@
 ---
 title: PsdVersion
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает версию формата файла. Это может быть ПСД или ПСБ.
+description: Получает или задает версию формата файла. Это может быть PSD или PSB.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
 ## PsdOptions.PsdVersion property
 
-Получает или задает версию формата файла. Это может быть ПСД или ПСБ.
+Получает или задает версию формата файла. Это может быть PSD или PSB.
 
 ```csharp
 public PsdVersion PsdVersion { get; set; }
@@ -20,7 +20,7 @@ public PsdVersion PsdVersion { get; set; }
 
 ### Примеры
 
-В следующем примере показана возможность преобразования PSD-файла в PSB и наоборот.
+В следующем примере показана возможность преобразования файла PSD в файл PSB и наоборот.
 
 ```csharp
 [C#]

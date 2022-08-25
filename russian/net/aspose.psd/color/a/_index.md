@@ -1,14 +1,14 @@
 ---
 title: A
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение альфа-компонента этойColoraspose.psd/colorструктуры.
+description: Получает значение альфакомпонента этогоColoraspose.psd/colorструктура.
 type: docs
 weight: 1460
 url: /ru/net/aspose.psd/color/a/
 ---
 ## Color.A property
 
-Получает значение альфа-компонента этой[`Color`](../../color)структуры.
+Получает значение альфа-компонента этого[`Color`](../../color)структура.
 
 ```csharp
 public byte A { get; }

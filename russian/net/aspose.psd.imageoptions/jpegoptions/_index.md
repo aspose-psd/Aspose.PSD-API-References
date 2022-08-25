@@ -3,7 +3,7 @@ title: JpegOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Параметры создания файла формата jpeg.
 type: docs
-weight: 4720
+weight: 4770
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/
 ---
 ## JpegOptions class
@@ -18,40 +18,40 @@ public class JpegOptions : ImageOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [JpegOptions](jpegoptions#constructor)() | Инициализирует новый экземпляр класса[`JpegOptions`](../jpegoptions). |
-| [JpegOptions](jpegoptions#constructor_1)(JpegOptions) | Инициализирует новый экземпляр класса[`JpegOptions`](../jpegoptions). |
+| [JpegOptions](jpegoptions#constructor)() | Инициализирует новый экземпляр[`JpegOptions`](../jpegoptions) класс. |
+| [JpegOptions](jpegoptions#constructor_1)(JpegOptions) | Инициализирует новый экземпляр[`JpegOptions`](../jpegoptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [BitsPerChannel](../../aspose.psd.imageoptions/jpegoptions/bitsperchannel) { get; set; } | Получает или устанавливает биты на канал для изображения JPEG без потерь. Теперь мы поддерживаем от 2 до 8 бит на канал. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или устанавливает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
 | [CmykColorProfile](../../aspose.psd.imageoptions/jpegoptions/cmykcolorprofile) { get; set; } | Целевой цветовой профиль CMYK для изображений CMYK jpeg. Используйте для сохранения изображений. Должен быть в паре с RGBColorProfile для правильного преобразования цвета. |
 | [ColorType](../../aspose.psd.imageoptions/jpegoptions/colortype) { get; set; } | Получает или задает тип цвета для изображения jpeg. |
 | [Comment](../../aspose.psd.imageoptions/jpegoptions/comment) { get; set; } | Получает или задает комментарий к файлу jpeg. |
 | [CompressionType](../../aspose.psd.imageoptions/jpegoptions/compressiontype) { get; set; } | Получает или задает тип сжатия. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или задает замещающий шрифт по умолчанию (шрифт, который будет использоваться для отрисовки текста при экспорте в растр, если существующий шрифт слоя в PSD-файле не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
 | [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
 | [ExifData](../../aspose.psd.imageoptions/jpegoptions/exifdata) { get; set; } | Получить или установить контейнер данных exif |
 | [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Получает или задает значение, указывающее, является ли [полный кадр]. |
 | [HorizontalSampling](../../aspose.psd.imageoptions/jpegoptions/horizontalsampling) { get; set; } | Получает или задает горизонтальную подвыборку для каждого компонента. |
 | [Jfif](../../aspose.psd.imageoptions/jpegoptions/jfif) { get; set; } | Получает или задает jfif. |
-| [JpegLsAllowedLossyError](../../aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror) { get; set; } | Получает или задает разность JPEG-LS, связанную для кодирования почти без потерь (параметр NEAR из спецификации JPEG-LS). |
+| [JpegLsAllowedLossyError](../../aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror) { get; set; } | Получает или задает границу разницы JPEG-LS для кодирования практически без потерь (параметр NEAR из спецификации JPEG-LS). |
 | [JpegLsInterleaveMode](../../aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode) { get; set; } | Получает или задает режим чередования JPEG-LS. |
 | [JpegLsPreset](../../aspose.psd.imageoptions/jpegoptions/jpeglspreset) { get; set; } | Получает или задает предустановленные параметры JPEG-LS. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Многостраничные параметры |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Получает или задает цветовую палитру. |
 | [PreblendAlphaIfPresent](../../aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent) { get; set; } | Получает или задает значение, указывающее, следует ли смешивать красный, зеленый и синий компоненты с фоновым цветом, если присутствует альфа-канал. |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Получает или задает обработчик события выполнения. |
-| [Quality](../../aspose.psd.imageoptions/jpegoptions/quality) { get; set; } | Получает или задает качество изображения. |
+| [Quality](../../aspose.psd.imageoptions/jpegoptions/quality) { get; set; } | Получает или устанавливает качество изображения. |
 | [RdOptSettings](../../aspose.psd.imageoptions/jpegoptions/rdoptsettings) { get; set; } | Получает или задает параметры оптимизатора удаленных рабочих столов. |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Получает или задает параметры разрешения. |
-| [ResolutionUnit](../../aspose.psd.imageoptions/jpegoptions/resolutionunit) { get; set; } | Получает или задает единицу разрешения. |
+| [ResolutionUnit](../../aspose.psd.imageoptions/jpegoptions/resolutionunit) { get; set; } | Получает или задает единицу измерения разрешения. |
 | [RgbColorProfile](../../aspose.psd.imageoptions/jpegoptions/rgbcolorprofile) { get; set; } | Целевой цветовой профиль RGB для изображений CMYK jpeg. Используйте для сохранения изображений. Должен быть в паре с CMYKColorProfile для правильного преобразования цвета. |
-| [SampleRoundingMode](../../aspose.psd.imageoptions/jpegoptions/sampleroundingmode) { get; set; } | Получает или задает режим округления выборки, чтобы подогнать 8-битное значение к n-битному значению.BitsPerChannel |
+| [SampleRoundingMode](../../aspose.psd.imageoptions/jpegoptions/sampleroundingmode) { get; set; } | Получает или задает выборочный режим округления, чтобы подогнать 8-битное значение к n-битному значению.BitsPerChannel |
 | [ScaledQuality](../../aspose.psd.imageoptions/jpegoptions/scaledquality) { get; } | Масштабированное качество. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения. |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения в. |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Получает или задает параметры векторной растеризации. |
 | [VerticalSampling](../../aspose.psd.imageoptions/jpegoptions/verticalsampling) { get; set; } | Получает или задает вертикальную подвыборку для каждого компонента. |
 | override [XmpData](../../aspose.psd.imageoptions/jpegoptions/xmpdata) { get; set; } | Получает или задает контейнер метаданных XMP. |
@@ -88,7 +88,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-Этот пример демонстрирует использование System.IO.Stream для создания нового файла образа
+В этом примере демонстрируется использование System.IO.Stream для создания нового файла изображения.
 
 ```csharp
 [C#]
@@ -110,7 +110,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 }
 ```
 
-Этот пример демонстрирует использование различных классов из пространства имен SaveOptions для целей экспорта. Изображение типа Psd загружается в экземпляр Image, а затем экспортируется в несколько форматов.
+В этом примере демонстрируется использование различных классов из пространства имен SaveOptions для целей экспорта. Изображение типа Psd загружается в экземпляр Image, а затем экспортируется в несколько форматов.
 
 ```csharp
 [C#]

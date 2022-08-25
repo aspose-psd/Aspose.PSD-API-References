@@ -1,14 +1,14 @@
 ---
 title: FXidResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化FXidResourceaspose.psd.fileformats.psd.layers.layerresources/fxidresource类的新实例
+description: 初始化FXidResourceaspose.psd.fileformats.psd.layers.layerresources/fxidresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidresource/
 ---
 ## FXidResource constructor
 
-初始化[`FXidResource`](../../fxidresource)类的新实例。
+初始化[`FXidResource`](../../fxidresource)类.
 
 ```csharp
 public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMasks)

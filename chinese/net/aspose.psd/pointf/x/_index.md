@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此PointFaspose.psd/pointf的 x 坐标
+description: 获取或设置 this 的 x 坐标PointFaspose.psd/pointf .
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/pointf/x/
 ---
 ## PointF.X property
 
-获取或设置此[`PointF`](../../pointf)的 x 坐标。
+获取或设置 this 的 x 坐标[`PointF`](../../pointf) .
 
 ```csharp
 public float X { get; set; }

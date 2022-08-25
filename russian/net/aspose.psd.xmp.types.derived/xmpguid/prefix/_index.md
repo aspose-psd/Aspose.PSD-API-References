@@ -1,14 +1,14 @@
 ---
 title: Prefix
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает префикс например uuid.
+description: Получает или задает префикс например uuid.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.derived/xmpguid/prefix/
 ---
 ## XmpGuid.Prefix property
 
-Получает или устанавливает префикс, например uuid.
+Получает или задает префикс, например uuid.
 
 ```csharp
 public string Prefix { get; set; }

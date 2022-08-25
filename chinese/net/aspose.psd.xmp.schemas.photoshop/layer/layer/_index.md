@@ -1,14 +1,14 @@
 ---
 title: Layer
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化Layeraspose.psd.xmp.schemas.photoshop/layer类的新实例
+description: 初始化Layeraspose.psd.xmp.schemas.photoshop/layer类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/layer/layer/
 ---
 ## Layer(string, string) {#constructor_1}
 
-初始化[`Layer`](../../layer)类的新实例。
+初始化[`Layer`](../../layer)类.
 
 ```csharp
 public Layer(string layerName, string layerText)
@@ -16,7 +16,7 @@ public Layer(string layerName, string layerText)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| layerName | String | 图层的名称。 |
+| layerName | String | 层的名称。 |
 | layerText | String | 图层文本。 |
 
 ### 也可以看看
@@ -29,7 +29,7 @@ public Layer(string layerName, string layerText)
 
 ## Layer() {#constructor}
 
-初始化[`Layer`](../../layer)类的新实例。
+初始化[`Layer`](../../layer)类.
 
 ```csharp
 public Layer()

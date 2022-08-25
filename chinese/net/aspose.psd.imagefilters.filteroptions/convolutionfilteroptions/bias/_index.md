@@ -16,7 +16,7 @@ public int Bias { get; set; }
 
 ### 适当的价值
 
-偏见。
+偏差。
 
 ### 也可以看看
 

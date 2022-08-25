@@ -1,14 +1,14 @@
 ---
 title: ReferenceStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаReferenceStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure.
+description: Инициализирует новый экземплярReferenceStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/referencestructure/
 ---
 ## ReferenceStructure constructor
 
-Инициализирует новый экземпляр класса[`ReferenceStructure`](../../referencestructure).
+Инициализирует новый экземпляр[`ReferenceStructure`](../../referencestructure) класс.
 
 ```csharp
 public ReferenceStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public ReferenceStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 

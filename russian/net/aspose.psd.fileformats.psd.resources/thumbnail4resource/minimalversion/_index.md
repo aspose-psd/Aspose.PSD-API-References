@@ -16,7 +16,7 @@ public override int MinimalVersion { get; }
 
 ### Стоимость имущества
 
-Минимальная psd версия.
+Минимальная версия psd.
 
 ### Смотрите также
 

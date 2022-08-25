@@ -1,14 +1,14 @@
 ---
 title: LspfResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLspfResourceaspose.psd.fileformats.psd.layers.layerresources/lspfresource. С пользовательским или неизвестным значением
+description: Инициализирует новый экземплярLspfResourceaspose.psd.fileformats.psd.layers.layerresources/lspfresource class. С пользовательским или неизвестным значением
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
 ## LspfResource(byte[]) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`LspfResource`](../../lspfresource). С пользовательским или неизвестным значением
+Инициализирует новый экземпляр[`LspfResource`](../../lspfresource) class. С пользовательским или неизвестным значением
 
 ```csharp
 public LspfResource(byte[] data)
@@ -34,7 +34,7 @@ public LspfResource(byte[] data)
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LspfResource`](../../lspfresource).
+Инициализирует новый экземпляр[`LspfResource`](../../lspfresource) класс.
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
@@ -43,9 +43,9 @@ public LspfResource(bool isTransparencyProtected, bool isCompositeProtected,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | , если установлено значение` true` [защищена прозрачность] . |
-| isCompositeProtected | Boolean | , если установлено значение` true` [защищен составной]. |
-| isPositionProtected | Boolean | , если установлено значение` true` [позиция защищена]. |
+| isTransparencyProtected | Boolean | если установлено`истинный` [защищена прозрачность]. |
+| isCompositeProtected | Boolean | если установлено`истинный` [защищено композитом]. |
+| isPositionProtected | Boolean | если установлено`истинный` [позиция защищена]. |
 
 ### Смотрите также
 
@@ -57,7 +57,7 @@ public LspfResource(bool isTransparencyProtected, bool isCompositeProtected,
 
 ## LspfResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`LspfResource`](../../lspfresource).
+Инициализирует новый экземпляр[`LspfResource`](../../lspfresource) класс.
 
 ```csharp
 public LspfResource()

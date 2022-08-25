@@ -1,14 +1,14 @@
 ---
 title: ColorMatrixExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Методы расширенияColorMatrix../aspose.psd/colormatrix.
+description: ColorMatrix../aspose.psd/colormatrix методы расширения.
 type: docs
 weight: 1070
 url: /ru/net/aspose.psd.extensions/colormatrixextensions/
 ---
 ## ColorMatrixExtensions class
 
-Методы расширения[`ColorMatrix`](../../aspose.psd/colormatrix).
+[`ColorMatrix`](../../aspose.psd/colormatrix) методы расширения.
 
 ```csharp
 public static class ColorMatrixExtensions
@@ -18,7 +18,7 @@ public static class ColorMatrixExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix)(ColorMatrix) | Преобразует[`ColorMatrix`](../../aspose.psd/colormatrix)вColorMatrix. |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix)(ColorMatrix) | Преобразует[`ColorMatrix`](../../aspose.psd/colormatrix) кColorMatrix . |
 
 ### Смотрите также
 

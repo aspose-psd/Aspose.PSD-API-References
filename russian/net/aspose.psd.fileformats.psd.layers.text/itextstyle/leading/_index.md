@@ -1,14 +1,14 @@
 ---
 title: Leading
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает начальный элемент.
+description: Получает или устанавливает начальный.
 type: docs
 weight: 190
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/leading/
 ---
 ## ITextStyle.Leading property
 
-Получает или задает начальный элемент.
+Получает или устанавливает начальный.
 
 ```csharp
 public double Leading { get; set; }
@@ -20,7 +20,7 @@ public double Leading { get; set; }
 
 ### Примеры
 
-В следующем примере кода демонстрируется редактирование частей текста и стиля их текста.
+В следующем примере кода показано редактирование текстовых частей и стиля их текста.
 
 ```csharp
 [C#]

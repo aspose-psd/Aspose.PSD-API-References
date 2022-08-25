@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает новый экземпляр структурыRectangleaspose.psd/rectangleсXaspose.psd/rectangle/xYaspose.psd/rectangle/yWidthaspose.psd/rectangle/widthиHeightравны нулю.
+description: Получает новый экземплярRectangleaspose.psd/rectangle структура которая имеетXaspose.psd/rectangle/x Yaspose.psd/rectangle/y Widthaspose.psd/rectangle/width а такжеHeightaspose.psd/rectangle/height значения равны нулю.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/rectangle/empty/
 ---
 ## Rectangle.Empty property
 
-Получает новый экземпляр структуры[`Rectangle`](../../rectangle)с[`X`](../x),[`Y`](../y),[`Width`](../width)иHeightравны нулю.
+Получает новый экземпляр[`Rectangle`](../../rectangle) структура, которая имеет[`X`](../x) ,[`Y`](../y) ,[`Width`](../width) а также[`Height`](../height) значения равны нулю.
 
 ```csharp
 public static Rectangle Empty { get; }

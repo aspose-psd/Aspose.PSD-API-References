@@ -3,7 +3,7 @@ title: ImageFilterType
 second_title: Aspose.PSD for .NET API 参考
 description: 要使用的图像过滤器
 type: docs
-weight: 4520
+weight: 4570
 url: /zh/net/aspose.psd/imagefiltertype/
 ---
 ## ImageFilterType enumeration
@@ -18,9 +18,9 @@ public enum ImageFilterType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 未使用过滤器 |
-| BigRectangular | `1` | 大矩形过滤器 |
-| SmallRectangular | `2` | 小矩形过滤器 |
+| None | `0` | 没有使用过滤器 |
+| BigRectangular | `1` | 大矩形滤镜 |
+| SmallRectangular | `2` | 小矩形滤镜 |
 
 ### 也可以看看
 

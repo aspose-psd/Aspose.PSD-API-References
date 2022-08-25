@@ -16,7 +16,7 @@ public CurvesLayer AddCurvesAdjustmentLayer()
 
 ### Возвращаемое значение
 
-Created[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer)Layer
+Созданный[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer) Слой
 
 ### Смотрите также
 

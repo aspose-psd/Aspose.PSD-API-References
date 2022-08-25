@@ -1,14 +1,14 @@
 ---
 title: ClassID
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаClassIDaspose.psd.fileformats.psd.layers.layerresources/classid.
+description: Инициализирует новый экземплярClassIDaspose.psd.fileformats.psd.layers.layerresources/classid класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
 ## ClassID(byte[]) {#constructor}
 
-Инициализирует новый экземпляр класса[`ClassID`](../../classid).
+Инициализирует новый экземпляр[`ClassID`](../../classid) класс.
 
 ```csharp
 public ClassID(byte[] classID)
@@ -28,7 +28,7 @@ public ClassID(byte[] classID)
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ClassID`](../../classid).
+Инициализирует новый экземпляр[`ClassID`](../../classid) класс.
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
@@ -37,13 +37,13 @@ public ClassID(byte[] classID, bool isZeroLength)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | classID | Byte[] | Идентификатор класса в виде последовательности байтов. |
-| isZeroLength | Boolean | , если установлено значение` true` [нулевая длина]. Записанная длина строки равна нулю, а фактическая - четырем. |
+| isZeroLength | Boolean | если установлено`истинный` [нулевая длина]. Записанная длина строки равна нулю, но фактическая длина равна четырем. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | classID имеет значение null. |
+| ArgumentNullException | идентификатор класса равен нулю. |
 
 ### Смотрите также
 
@@ -55,7 +55,7 @@ public ClassID(byte[] classID, bool isZeroLength)
 
 ## ClassID(int) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`ClassID`](../../classid).
+Инициализирует новый экземпляр[`ClassID`](../../classid) класс.
 
 ```csharp
 public ClassID(int classID)
@@ -75,7 +75,7 @@ public ClassID(int classID)
 
 ## ClassID(uint) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`ClassID`](../../classid).
+Инициализирует новый экземпляр[`ClassID`](../../classid) класс.
 
 ```csharp
 public ClassID(uint classID)
@@ -95,7 +95,7 @@ public ClassID(uint classID)
 
 ## ClassID(string, bool) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`ClassID`](../../classid).
+Инициализирует новый экземпляр[`ClassID`](../../classid) класс.
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
@@ -104,7 +104,7 @@ public ClassID(string classID, bool isZeroLength)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | classID | String | Идентификатор класса в кодировке ASCII. |
-| isZeroLength | Boolean | , если установлено значение` true` [нулевая длина]. |
+| isZeroLength | Boolean | если установлено`истинный` [нулевая длина]. |
 
 ### Примеры
 
@@ -162,7 +162,7 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 
 ## ClassID(string) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`ClassID`](../../classid).
+Инициализирует новый экземпляр[`ClassID`](../../classid) класс.
 
 ```csharp
 public ClassID(string classID)

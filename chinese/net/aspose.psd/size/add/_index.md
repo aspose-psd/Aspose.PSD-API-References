@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Aspose.PSD for .NET API 参考
-description: 将一个Sizeaspose.psd/size结构的宽度和高度添加到另一个Size的宽度和高度结构体
+description: 加一的宽和高Sizeaspose.psd/size结构到另一个的宽度和高度Sizeaspose.psd/size结构.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/size/add/
 ---
 ## Size.Add method
 
-将一个[`Size`](../../size)结构的宽度和高度添加到另一个Size的宽度和高度结构体。
+加一的宽和高[`Size`](../../size)结构到另一个的宽度和高度[`Size`](../../size)结构.
 
 ```csharp
 public static Size Add(Size size1, Size size2)
@@ -16,12 +16,12 @@ public static Size Add(Size size1, Size size2)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| size1 | Size | 要添加的第一个[`Size`](../../size)。 |
-| size2 | Size | 要添加的第二个[`Size`](../../size)。 |
+| size1 | Size | 首先[`Size`](../../size)添加。 |
+| size2 | Size | 第二[`Size`](../../size)添加。 |
 
 ### 返回值
 
-[`Size`](../../size)结构，它是加法运算的结果。
+一个[`Size`](../../size)结构是加法运算的结果。
 
 ### 也可以看看
 

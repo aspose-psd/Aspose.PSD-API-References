@@ -1,14 +1,14 @@
 ---
 title: NormalizeAngle
 second_title: Aspose.PSD for .NET API 参考
-description: 标准化角度 此方法适用于扫描的文本文档以消除倾斜扫描 此方法使用GetSkewAngleaspose.psd/rasterimage/getskewangle和Rotateaspose.psd/rasterimage/rotate方法
+description: 角度归一化 此方法适用于扫描的文本文档以消除倾斜扫描 此方法使用GetSkewAngleaspose.psd/rasterimage/getskewangle和Rotateaspose.psd/rasterimage/rotate方法.
 type: docs
 weight: 420
 url: /zh/net/aspose.psd/rasterimage/normalizeangle/
 ---
 ## NormalizeAngle() {#normalizeangle}
 
-标准化角度。 此方法适用于扫描的文本文档，以消除倾斜扫描。 此方法使用[`GetSkewAngle`](../getskewangle)和[`Rotate`](../rotate)方法。
+角度归一化。 此方法适用于扫描的文本文档，以消除倾斜扫描。 此方法使用[`GetSkewAngle`](../getskewangle)和[`Rotate`](../rotate)方法.
 
 ```csharp
 public void NormalizeAngle()
@@ -24,7 +24,7 @@ public void NormalizeAngle()
 
 ## NormalizeAngle(bool, Color) {#normalizeangle_1}
 
-标准化角度。 此方法适用于扫描的文本文档，以消除倾斜扫描。 此方法使用[`GetSkewAngle`](../getskewangle)和PSD。颜色）方法。
+角度归一化。 此方法适用于扫描的文本文档，以消除倾斜扫描。 此方法使用[`GetSkewAngle`](../getskewangle)和[`Rotate`](../rotate)方法.
 
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
@@ -32,8 +32,8 @@ public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundCo
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| resizeProportionally | Boolean | 如果设置为` true` 您将根据旋转的矩形（角点）更改图像大小其他情况下的投影不会改变尺寸并且仅旋转内部图像内容。 |
-| backgroundColor | Color | 背景颜色。 |
+| resizeProportionally | Boolean | 如果设置为`真的`您将根据旋转的矩形（角点）投影更改图像大小，在其他情况下保持尺寸不变并且仅旋转内部图像内容。 |
+| backgroundColor | Color | 背景的颜色。 |
 
 ### 也可以看看
 

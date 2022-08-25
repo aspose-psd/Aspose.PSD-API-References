@@ -16,11 +16,11 @@ public bool UseTint { get; set; }
 
 ### 适当的价值
 
-` true` 如果使用[色调颜色]；否则，` false` 。
+`真的`如果使用 [色调];否则，`错误的` .
 
 ### 例子
 
-以下示例演示如何编辑 BlwhResource。
+以下示例演示了如何编辑 BlwhResource。
 
 ```csharp
 [C#]

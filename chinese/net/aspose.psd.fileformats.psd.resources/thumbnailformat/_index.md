@@ -3,7 +3,7 @@ title: ThumbnailFormat
 second_title: Aspose.PSD for .NET API 参考
 description: 指定缩略图数据格式
 type: docs
-weight: 3790
+weight: 3840
 url: /zh/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 ---
 ## ThumbnailFormat enumeration

@@ -1,14 +1,14 @@
 ---
 title: VectorShapeRadiiRectangle
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс прямоугольников радиусов векторной формы
+description: Определяет прямоугольник радиусов векторной формы class
 type: docs
 weight: 1450
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
 ## VectorShapeRadiiRectangle class
 
-Определяет класс прямоугольников радиусов векторной формы
+Определяет прямоугольник радиусов векторной формы class
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
@@ -24,15 +24,15 @@ public sealed class VectorShapeRadiiRectangle
 
 | Имя | Описание |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft) { get; set; } | Получает или устанавливает нижнюю часть. |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright) { get; set; } | Получает или задает нижний правый угол. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion) { get; set; } | Получает или задает четырехъядерную версию значения модуля. |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft) { get; set; } | Получает или устанавливает левый верхний угол. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft) { get; set; } | Получает или задает нижнюю часть. |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright) { get; set; } | Получает или задает правый нижний угол. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion) { get; set; } | Получает или задает четырехъядерную версию значения единицы измерения. |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft) { get; set; } | Получает или задает левый верхний угол. |
 | [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright) { get; set; } | Получает или задает верхний правый угол. |
 
 ### Примеры
 
-Этот пример демонстрирует, что загрузка и сохранение PSD-изображения со слоями-фигурами и векторными путями работает корректно.
+В этом примере показано, что загрузка и сохранение изображения PSD со слоями-фигурами и векторными путями работает правильно.
 
 ```csharp
 [C#]

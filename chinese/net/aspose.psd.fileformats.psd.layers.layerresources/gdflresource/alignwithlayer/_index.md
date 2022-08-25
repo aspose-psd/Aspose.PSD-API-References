@@ -16,11 +16,11 @@ public bool AlignWithLayer { get; set; }
 
 ### 适当的价值
 
-` true` if [与图层对齐]；否则，` false` 。
+`真的` if [与图层对齐];否则，`错误的` .
 
 ### 例子
 
-下面的例子演示了对 GdFlResource 资源加载的支持。
+以下示例演示了对 GdFlResource 资源加载的支持。
 
 ```csharp
 [C#]

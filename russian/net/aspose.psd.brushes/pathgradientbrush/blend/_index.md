@@ -1,14 +1,14 @@
 ---
 title: Blend
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задаетBlendaspose.psd/blend который указывает позиции и факторы определяющие пользовательский спад для градиента.
+description: Получает или задаетBlendaspose.psd/blend который указывает позиции и факторы которые определяют пользовательский спад для градиента.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.brushes/pathgradientbrush/blend/
 ---
 ## PathGradientBrush.Blend property
 
-Получает или задает[`Blend`](../../../aspose.psd/blend), который указывает позиции и факторы, определяющие пользовательский спад для градиента.
+Получает или задает[`Blend`](../../../aspose.psd/blend) который указывает позиции и факторы, которые определяют пользовательский спад для градиента.
 
 ```csharp
 public Blend Blend { get; set; }
@@ -16,7 +16,7 @@ public Blend Blend { get; set; }
 
 ### Стоимость имущества
 
-A[`Blend`](../../../aspose.psd/blend)который представляет пользовательский спад для градиента.
+А[`Blend`](../../../aspose.psd/blend) который представляет пользовательский спад для градиента.
 
 ### Смотрите также
 

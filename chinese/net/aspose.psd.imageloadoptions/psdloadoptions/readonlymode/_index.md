@@ -16,7 +16,7 @@ public bool ReadOnlyMode { get; set; }
 
 ### 适当的价值
 
-` true` if [使用photoshop兼容模式]；否则，` false` 。
+`真的` if [使用 Photoshop 兼容模式];否则，`错误的` .
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public byte[] GetChannelData(int channelIndex)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
+| channelIndex | Int32 | 频道索引。 |
 
 ### 返回值
 

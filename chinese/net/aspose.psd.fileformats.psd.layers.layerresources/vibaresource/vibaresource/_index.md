@@ -1,14 +1,14 @@
 ---
 title: VibAResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化VibAResourceaspose.psd.fileformats.psd.layers.layerresources/vibaresource类的新实例
+description: 初始化VibAResourceaspose.psd.fileformats.psd.layers.layerresources/vibaresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibaresource/
 ---
 ## VibAResource constructor
 
-初始化[`VibAResource`](../../vibaresource)类的新实例。
+初始化[`VibAResource`](../../vibaresource)类.
 
 ```csharp
 public VibAResource()
@@ -16,7 +16,7 @@ public VibAResource()
 
 ### 例子
 
-以下代码示例演示了对 VibAResource 资源的支持。
+下面的代码示例演示了对 VibAResource 资源的支持。
 
 ```csharp
 [C#]

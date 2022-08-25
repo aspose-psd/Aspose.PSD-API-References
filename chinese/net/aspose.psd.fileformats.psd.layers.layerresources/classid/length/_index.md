@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.PSD for .NET API 参考
-description: 获取类 ID 长度以字节为单位
+description: 以字节为单位获取类 ID 长度
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/classid/length/
 ---
 ## ClassID.Length property
 
-获取类 ID 长度（以字节为单位）。
+以字节为单位获取类 ID 长度。
 
 ```csharp
 public int Length { get; }

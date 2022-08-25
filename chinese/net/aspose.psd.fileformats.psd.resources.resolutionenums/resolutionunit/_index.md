@@ -3,7 +3,7 @@ title: ResolutionUnit
 second_title: Aspose.PSD for .NET API 参考
 description: 分辨率信息分辨率单位
 type: docs
-weight: 3760
+weight: 3810
 url: /zh/net/aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/
 ---
 ## ResolutionUnit enumeration

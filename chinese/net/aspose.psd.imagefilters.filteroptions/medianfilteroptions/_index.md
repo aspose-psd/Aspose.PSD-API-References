@@ -1,14 +1,14 @@
 ---
 title: MedianFilterOptions
 second_title: Aspose.PSD for .NET API 参考
-description: 中值过滤器
+description: 中值滤波器
 type: docs
-weight: 4600
+weight: 4650
 url: /zh/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
 ## MedianFilterOptions class
 
-中值过滤器
+中值滤波器
 
 ```csharp
 public class MedianFilterOptions : FilterOptionsBase
@@ -18,7 +18,7 @@ public class MedianFilterOptions : FilterOptionsBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions)(int) | 初始化[`MedianFilterOptions`](../medianfilteroptions)类的新实例。 |
+| [MedianFilterOptions](medianfilteroptions)(int) | 初始化[`MedianFilterOptions`](../medianfilteroptions)类. |
 
 ## 特性
 

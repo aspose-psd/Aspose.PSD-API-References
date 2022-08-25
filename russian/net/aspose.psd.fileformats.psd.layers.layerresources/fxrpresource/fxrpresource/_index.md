@@ -1,14 +1,14 @@
 ---
 title: FxrpResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаFxrpResourceaspose.psd.fileformats.psd.layers.layerresources/fxrpresource.
+description: Инициализирует новый экземплярFxrpResourceaspose.psd.fileformats.psd.layers.layerresources/fxrpresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
 ## FxrpResource(double, double) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`FxrpResource`](../../fxrpresource).
+Инициализирует новый экземпляр[`FxrpResource`](../../fxrpresource) класс.
 
 ```csharp
 public FxrpResource(double x, double y)
@@ -17,7 +17,7 @@ public FxrpResource(double x, double y)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | x | Double | Координата x опорной точки |
-| y | Double | y координата опорной точки |
+| y | Double | Координата Y опорной точки |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public FxrpResource(double x, double y)
 
 ## FxrpResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`FxrpResource`](../../fxrpresource).
+Инициализирует новый экземпляр[`FxrpResource`](../../fxrpresource) класс.
 
 ```csharp
 public FxrpResource()
@@ -45,7 +45,7 @@ public FxrpResource()
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`FxrpResource`](../../fxrpresource). С пользовательским или неизвестным значением
+Инициализирует новый экземпляр[`FxrpResource`](../../fxrpresource) class. С пользовательским или неизвестным значением
 
 ```csharp
 public FxrpResource(byte[] data)

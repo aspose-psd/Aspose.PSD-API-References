@@ -1,14 +1,14 @@
 ---
 title: ChannelInformation
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает информацию о канале.
+description: Получает или устанавливает информацию о канале.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/channelinformation/
 ---
 ## Layer.ChannelInformation property
 
-Получает или задает информацию о канале.
+Получает или устанавливает информацию о канале.
 
 ```csharp
 public ChannelInformation[] ChannelInformation { get; set; }

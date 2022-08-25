@@ -1,7 +1,7 @@
 ---
 title: Items
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает элементы дескриптора данных слоя смарт-объекта в файле PSD.
+description: Получает или задает элементы дескриптора данных слоя смартобъекта в файле PSD.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/

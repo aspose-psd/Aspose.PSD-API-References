@@ -1,14 +1,14 @@
 ---
 title: GetRelatedLayerGroup
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПолучаетLayerGroupaspose.psd.fileformats.psd.layers/layergroupсвязанный с этимSectionDividerLayeraspose.psd.fileformats.psd.layers/sectiondividerlayerinstance.
+description: ПолучаетLayerGroupaspose.psd.fileformats.psd.layers/layergroup это связано с этимSectionDividerLayeraspose.psd.fileformats.psd.layers/sectiondividerlayer экземпляр.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/sectiondividerlayer/getrelatedlayergroup/
 ---
 ## SectionDividerLayer.GetRelatedLayerGroup method
 
-Получает[`LayerGroup`](../../layergroup)связанный с этим[`SectionDividerLayer`](../../sectiondividerlayer)instance.
+Получает[`LayerGroup`](../../layergroup) это связано с этим[`SectionDividerLayer`](../../sectiondividerlayer) экземпляр.
 
 ```csharp
 public LayerGroup GetRelatedLayerGroup()
@@ -16,11 +16,11 @@ public LayerGroup GetRelatedLayerGroup()
 
 ### Возвращаемое значение
 
-Экземпляр[`LayerGroup`](../../layergroup).
+[`LayerGroup`](../../layergroup) пример.
 
 ### Примеры
 
-Следующий код демонстрирует слои SectionDividerLayer и как получить связанную с ним LayerGroup.
+Следующий код демонстрирует слои SectionDividerLayer и то, как получить связанную с ним LayerGroup.
 
 ```csharp
 [C#]

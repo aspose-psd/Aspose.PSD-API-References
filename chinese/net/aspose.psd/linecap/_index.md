@@ -1,14 +1,14 @@
 ---
 title: LineCap
 second_title: Aspose.PSD for .NET API 参考
-description: 指定Pen./pen对象可以用来结束一行的可用大写样式
+description: 指定可用的帽子样式Pen./pen对象可以结束一行
 type: docs
-weight: 4940
+weight: 4990
 url: /zh/net/aspose.psd/linecap/
 ---
 ## LineCap enumeration
 
-指定[`Pen`](../pen)对象可以用来结束一行的可用大写样式。
+指定可用的帽子样式，[`Pen`](../pen)对象可以结束一行。
 
 ```csharp
 public enum LineCap
@@ -18,7 +18,7 @@ public enum LineCap
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Flat | `0` | 指定扁平线帽。 |
+| Flat | `0` | 指定平线帽。 |
 | Square | `1` | 指定方形线帽。 |
 | Round | `2` | 指定圆形线帽。 |
 | Triangle | `3` | 指定三角形线帽。 |

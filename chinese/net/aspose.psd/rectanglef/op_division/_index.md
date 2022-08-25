@@ -1,14 +1,14 @@
 ---
 title: op_Division
 second_title: Aspose.PSD for .NET API 参考
-description: 实现运算符 /
+description: 实现运算符 /.
 type: docs
 weight: 260
 url: /zh/net/aspose.psd/rectanglef/op_division/
 ---
 ## RectangleF Division operator
 
-实现运算符 /。
+实现运算符 /.
 
 ```csharp
 public static RectangleF operator /(RectangleF rectangle, float divider)
@@ -17,7 +17,7 @@ public static RectangleF operator /(RectangleF rectangle, float divider)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | rectangle | RectangleF | 矩形。 |
-| divider | Single | 分隔线。 |
+| divider | Single | 分频器。 |
 
 ### 返回值
 
@@ -27,7 +27,7 @@ public static RectangleF operator /(RectangleF rectangle, float divider)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | 除数 - 不允许除以零。 |
+| ArgumentOutOfRangeException | 除法器 - 不允许除以零。 |
 
 ### 也可以看看
 

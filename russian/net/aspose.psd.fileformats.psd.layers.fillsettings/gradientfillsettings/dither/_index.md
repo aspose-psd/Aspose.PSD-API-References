@@ -1,14 +1,14 @@
 ---
 title: Dither
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этоGradientFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettingsдизерингом.
+description: Получает или задает значение указывающее является ли этоGradientFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings дизеринг.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
 ## GradientFillSettings.Dither property
 
-Получает или задает значение, указывающее, является ли это[`GradientFillSettings`](../../gradientfillsettings)дизерингом.
+Получает или задает значение, указывающее, является ли это[`GradientFillSettings`](../../gradientfillsettings) дизеринг.
 
 ```csharp
 public bool Dither { get; set; }
@@ -16,7 +16,7 @@ public bool Dither { get; set; }
 
 ### Стоимость имущества
 
-` true` если дизеринг; в противном случае` false` .
+`истинный` если смущать; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

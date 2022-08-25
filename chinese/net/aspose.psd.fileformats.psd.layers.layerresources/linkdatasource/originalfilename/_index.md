@@ -16,7 +16,7 @@ public string OriginalFileName { get; }
 
 ### 适当的价值
 
-PSD格式的LnkE/Lnk2资源的原始文件名。
+PSD格式的原始文件名LnkE/Lnk2资源.
 
 ### 例外
 

@@ -1,14 +1,14 @@
 ---
 title: IColorConverter
 second_title: Aspose.PSD for .NET API 参考
-description: 颜色转换器
+description: 颜色转换器.
 type: docs
-weight: 4260
+weight: 4310
 url: /zh/net/aspose.psd/icolorconverter/
 ---
 ## IColorConverter interface
 
-颜色转换器。
+颜色转换器.
 
 ```csharp
 public interface IColorConverter

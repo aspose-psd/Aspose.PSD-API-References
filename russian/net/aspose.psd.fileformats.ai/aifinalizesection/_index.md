@@ -1,14 +1,14 @@
 ---
 title: AiFinalizeSection
 second_title: Справочник по Aspose.PSD для .NET API
-description: Раздел финализации формата Ai
+description: Формат AI Finalize Section
 type: docs
 weight: 1230
 url: /ru/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
 ## AiFinalizeSection class
 
-Раздел финализации формата Ai
+Формат AI Finalize Section
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection

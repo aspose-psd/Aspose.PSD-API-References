@@ -1,14 +1,14 @@
 ---
 title: MakeInfinite
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует этотRegionaspose.psd/regionобъект бесконечной внутренней частью.
+description: Инициализирует этоRegionaspose.psd/region объект в бесконечный интерьер.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/region/makeinfinite/
 ---
 ## Region.MakeInfinite method
 
-Инициализирует этот[`Region`](../../region)объект бесконечной внутренней частью.
+Инициализирует это[`Region`](../../region) объект в бесконечный интерьер.
 
 ```csharp
 public void MakeInfinite()

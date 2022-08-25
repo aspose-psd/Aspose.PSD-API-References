@@ -16,7 +16,7 @@ public short HighlightsCyanRedBalance { get; set; }
 
 ### 适当的价值
 
-亮点青色红色平衡。
+高光青红平衡.
 
 ### 例外
 

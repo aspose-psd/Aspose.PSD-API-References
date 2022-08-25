@@ -1,14 +1,14 @@
 ---
 title: IsHueInSmallRange
 second_title: Aspose.PSD for .NET API 参考
-description: 确定色调是否在小范围内
+description: 判断色相是否在小范围内
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/
 ---
 ## ColorRangeHsl.IsHueInSmallRange method
 
-确定色调是否在小范围内。
+判断色相是否在小范围内。
 
 ```csharp
 public bool IsHueInSmallRange(double hue)
@@ -20,7 +20,7 @@ public bool IsHueInSmallRange(double hue)
 
 ### 返回值
 
-` true` 如果色调在小范围内；否则，` false` 。
+`真的`如果色调在小范围内；否则，`错误的` .
 
 ### 也可以看看
 

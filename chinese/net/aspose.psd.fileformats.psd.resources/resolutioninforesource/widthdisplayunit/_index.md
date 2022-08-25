@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdi
 ---
 ## ResolutionInfoResource.WidthDisplayUnit property
 
-获取或设置宽度显示单位。
+获取或设置宽度显示单位
 
 ```csharp
 public PhysicalUnit WidthDisplayUnit { get; set; }

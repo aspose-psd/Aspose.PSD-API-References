@@ -1,14 +1,14 @@
 ---
 title: PattResourceData
 second_title: Aspose.PSD for .NET API 参考
-description: 用于存储PattResource./pattresource资源的模式数据的类
+description: 存储模式数据的类PattResource./pattresource资源.
 type: docs
-weight: 2810
+weight: 2860
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
 ## PattResourceData class
 
-用于存储[`PattResource`](../pattresource)资源的模式数据的类。
+存储模式数据的类[`PattResource`](../pattresource)资源.
 
 ```csharp
 public sealed class PattResourceData

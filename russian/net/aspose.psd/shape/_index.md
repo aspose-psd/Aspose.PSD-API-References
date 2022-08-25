@@ -3,7 +3,7 @@ title: Shape
 second_title: Справочник по Aspose.PSD для .NET API
 description: Форма. Непрерывный набор точек соединенных по определенному правилу.
 type: docs
-weight: 5300
+weight: 5350
 url: /ru/net/aspose.psd/shape/
 ---
 ## Shape class

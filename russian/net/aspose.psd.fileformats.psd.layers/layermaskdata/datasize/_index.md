@@ -1,7 +1,7 @@
 ---
 title: DataSize
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает размер данных маски слоя-маски.
+description: Получает размер данных маски слоямаски.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/datasize/
@@ -16,7 +16,7 @@ public int DataSize { get; }
 
 ### Стоимость имущества
 
-Размер данных маски слоя.
+Размер данных маски слоя-маски.
 
 ### Смотрите также
 

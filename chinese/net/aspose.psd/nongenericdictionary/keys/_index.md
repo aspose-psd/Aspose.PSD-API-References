@@ -1,14 +1,14 @@
 ---
 title: Keys
 second_title: Aspose.PSD for .NET API 参考
-description: 获取包含 System的键的 ICollection对象 Collections.IDictionary对象
+description: 获取 ICollection包含 键的对象IDictionary对象.
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/nongenericdictionary/keys/
 ---
 ## NonGenericDictionary.Keys property
 
-获取包含 System的键的 ICollection对象。 Collections.IDictionary对象。
+获取 ICollection包含 键的对象IDictionary对象.
 
 ```csharp
 public ICollection Keys { get; }
@@ -16,7 +16,7 @@ public ICollection Keys { get; }
 
 ### 返回值
 
-一个ICollection对象，包含IDictionary的键目的。
+一个ICollection包含键的对象IDictionary目的。
 
 ### 也可以看看
 

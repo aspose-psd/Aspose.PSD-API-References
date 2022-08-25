@@ -1,14 +1,14 @@
 ---
 title: Saturation
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает насыщенность.
+description: Получает или устанавливает насыщенность.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/
 ---
 ## ColorRangeHsl.Saturation property
 
-Получает или задает насыщенность.
+Получает или устанавливает насыщенность.
 
 ```csharp
 public short Saturation { get; set; }

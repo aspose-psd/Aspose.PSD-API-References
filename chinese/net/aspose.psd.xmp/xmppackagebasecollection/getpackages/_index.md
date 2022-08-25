@@ -1,14 +1,14 @@
 ---
 title: GetPackages
 second_title: Aspose.PSD for .NET API 参考
-description: 获取XmpPackageaspose.psd.xmp/xmppackage的数组
+description: 获取数组XmpPackageaspose.psd.xmp/xmppackage .
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
 ## XmpPackageBaseCollection.GetPackages method
 
-获取[`XmpPackage`](../../xmppackage)的数组。
+获取数组[`XmpPackage`](../../xmppackage) .
 
 ```csharp
 public XmpPackage[] GetPackages()
@@ -16,7 +16,7 @@ public XmpPackage[] GetPackages()
 
 ### 返回值
 
-返回 XMP 包数组。
+返回 XMP 包的数组。
 
 ### 也可以看看
 

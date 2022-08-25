@@ -3,7 +3,7 @@ title: RawDataStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Необработанная структура данных.
 type: docs
-weight: 3130
+weight: 3180
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/
 ---
 ## RawDataStructure class
@@ -18,16 +18,16 @@ public sealed class RawDataStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [RawDataStructure](rawdatastructure)(ClassID) | Инициализирует новый экземпляр класса[`RawDataStructure`](../rawdatastructure). |
+| [RawDataStructure](rawdatastructure)(ClassID) | Инициализирует новый экземпляр[`RawDataStructure`](../rawdatastructure) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data) { get; set; } | Получает или задает данные. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data) { get; set; } | Получает или устанавливает данные. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/key) { get; } | Получает ключ. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 
 ## Методы
 

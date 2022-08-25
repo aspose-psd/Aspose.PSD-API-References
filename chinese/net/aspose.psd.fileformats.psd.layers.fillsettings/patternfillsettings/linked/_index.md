@@ -1,14 +1,14 @@
 ---
 title: Linked
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此PatternFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings是否已链接
+description: 获取或设置一个值该值指示是否PatternFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings已链接
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
 ## PatternFillSettings.Linked property
 
-获取或设置一个值，该值指示此[`PatternFillSettings`](../../patternfillsettings)是否已链接。
+获取或设置一个值，该值指示是否[`PatternFillSettings`](../../patternfillsettings)已链接。
 
 ```csharp
 public bool Linked { get; set; }
@@ -16,7 +16,7 @@ public bool Linked { get; set; }
 
 ### 适当的价值
 
-` true` 如果链接；否则，` false` 。
+`真的`如果链接；否则，`错误的` .
 
 ### 例子
 

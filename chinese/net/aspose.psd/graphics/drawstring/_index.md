@@ -1,14 +1,14 @@
 ---
 title: DrawString
 second_title: Aspose.PSD for .NET API 参考
-description: 使用指定的Brushaspose.psd/brush和Fontaspose.psd/font在指定位置绘制指定文本字符串对象
+description: 在指定位置绘制指定文本字符串Brushaspose.psd/brush和Fontaspose.psd/font对象.
 type: docs
 weight: 320
 url: /zh/net/aspose.psd/graphics/drawstring/
 ---
 ## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-使用指定的[`Brush`](../../brush)和[`Font`](../../font)在指定位置绘制指定文本字符串对象。
+在指定位置绘制指定文本字符串[`Brush`](../../brush)和[`Font`](../../font)对象.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
@@ -18,7 +18,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
 | font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)确定绘制文本的颜色和纹理。 |
+| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
 | x | Single | 绘制文本左上角的 x 坐标。 |
 | y | Single | 绘制文本左上角的 y 坐标。 |
 
@@ -26,7 +26,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 - 或 - *s*为空。 |
+| ArgumentNullException | *brush*为空。 -或- *s*一片空白。 |
 
 ### 也可以看看
 
@@ -40,7 +40,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 ## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-使用指定的[`Brush`](../../brush)和[`Font`](../../font)在指定位置绘制指定文本字符串对象。
+在指定位置绘制指定文本字符串[`Brush`](../../brush)和[`Font`](../../font)对象.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
@@ -50,18 +50,18 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
 | font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)确定绘制文本的颜色和纹理。 |
+| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
 | point | PointF | [`PointF`](../../pointf)结构，指定绘制文本的左上角。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 - 或 - *s*为空。 |
+| ArgumentNullException | *brush*为空。 -或- *s*一片空白。 |
 
 ### 例子
 
-这个例子演示了使用 Font 和 SolidBrush 类在图像表面上绘制字符串。该示例使用 Figures 和 GraphicsPath
+这个例子演示了使用 Font 和 SolidBrush 类在 Image 表面上绘制字符串。该示例使用 Figures 和 GraphicsPath 创建一个新的图像并绘制形状
 
 ```csharp
 [C#]
@@ -105,7 +105,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-使用指定的[`Brush`](../../brush)和[`Font`](../../font)在指定位置绘制指定文本字符串使用指定[`StringFormat`](../../stringformat)的格式化属性的对象。
+在指定位置绘制指定文本字符串[`Brush`](../../brush)和[`Font`](../../font)使用指定格式属性的对象[`StringFormat`](../../stringformat) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
@@ -115,7 +115,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
 | font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)确定绘制文本的颜色和纹理。 |
+| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
 | x | Single | 绘制文本左上角的 x 坐标。 |
 | y | Single | 绘制文本左上角的 y 坐标。 |
 | format | StringFormat | [`StringFormat`](../../stringformat)指定应用于绘制文本的格式属性，例如行间距和对齐方式。 |
@@ -124,7 +124,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 - 或 - *s*为空。 |
+| ArgumentNullException | *brush*为空。 -或- *s*一片空白。 |
 
 ### 也可以看看
 
@@ -139,7 +139,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 ## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-使用指定的[`Brush`](../../brush)和[`Font`](../../font)在指定位置绘制指定文本字符串使用指定[`StringFormat`](../../stringformat)的格式化属性的对象。
+在指定位置绘制指定文本字符串[`Brush`](../../brush)和[`Font`](../../font)使用指定格式属性的对象[`StringFormat`](../../stringformat) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
@@ -149,7 +149,7 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
 | font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)确定绘制文本的颜色和纹理。 |
+| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
 | point | PointF | [`PointF`](../../pointf)结构，指定绘制文本的左上角。 |
 | format | StringFormat | [`StringFormat`](../../stringformat)指定应用于绘制文本的格式属性，例如行间距和对齐方式。 |
 
@@ -157,7 +157,7 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 - 或 - *s*为空。 |
+| ArgumentNullException | *brush*为空。 -或- *s*一片空白。 |
 
 ### 也可以看看
 
@@ -173,7 +173,7 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 ## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-使用指定的[`Brush`](../../brush)和[`Font`](../../font)在指定的矩形中绘制指定的文本字符串对象。
+用指定的矩形在指定的矩形中绘制指定的文本字符串[`Brush`](../../brush)和[`Font`](../../font)对象.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
@@ -183,14 +183,14 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
 | font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)确定绘制文本的颜色和纹理。 |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef)结构，指定绘制文本的位置。 |
+| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef)指定绘制文本位置的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 - 或 - *s*为空。 |
+| ArgumentNullException | *brush*为空。 -或- *s*一片空白。 |
 
 ### 也可以看看
 
@@ -205,7 +205,7 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-使用指定的[`Brush`](../../brush)和[`Font`](../../font)在指定的矩形中绘制指定的文本字符串使用指定[`StringFormat`](../../stringformat)的格式化属性的对象。
+用指定的矩形在指定的矩形中绘制指定的文本字符串[`Brush`](../../brush)和[`Font`](../../font)使用指定格式属性的对象[`StringFormat`](../../stringformat) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
@@ -216,15 +216,15 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
 | font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)确定绘制文本的颜色和纹理。 |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef)结构，指定绘制文本的位置。 |
+| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef)指定绘制文本位置的结构。 |
 | format | StringFormat | [`StringFormat`](../../stringformat)指定应用于绘制文本的格式属性，例如行间距和对齐方式。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 - 或 - *s*为空。 - 或 - *brush*为空。 |
+| ArgumentNullException | *brush*为空。 -或- *s*为空。 -或- *brush*一片空白。 |
 
 ### 也可以看看
 

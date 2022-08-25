@@ -1,14 +1,14 @@
 ---
 title: ImageExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Содержит методы расширения для преобразования на основеImageиImage../aspose.psd/image.
+description: Содержит методы расширения для преобразования на основеImage а такжеImage../aspose.psd/image .
 type: docs
 weight: 1120
 url: /ru/net/aspose.psd.extensions/imageextensions/
 ---
 ## ImageExtensions class
 
-Содержит методы расширения для преобразования на основеImageи[`Image`](../../aspose.psd/image).
+Содержит методы расширения для преобразования на основеImage а также[`Image`](../../aspose.psd/image) .
 
 ```csharp
 public static class ImageExtensions

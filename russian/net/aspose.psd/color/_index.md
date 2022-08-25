@@ -60,7 +60,7 @@ public struct Color
 | static [DeepSkyBlue](../../aspose.psd/color/deepskyblue) { get; } | Получает определенный системой цвет. |
 | static [DimGray](../../aspose.psd/color/dimgray) { get; } | Получает определенный системой цвет. |
 | static [DodgerBlue](../../aspose.psd/color/dodgerblue) { get; } | Получает определенный системой цвет. |
-| static [Empty](../../aspose.psd/color/empty) { get; } | Получает пустой[`Color`](../color). |
+| static [Empty](../../aspose.psd/color/empty) { get; } | Получает пустой[`Color`](../color) . |
 | static [Firebrick](../../aspose.psd/color/firebrick) { get; } | Получает определенный системой цвет. |
 | static [FloralWhite](../../aspose.psd/color/floralwhite) { get; } | Получает определенный системой цвет. |
 | static [ForestGreen](../../aspose.psd/color/forestgreen) { get; } | Получает определенный системой цвет. |
@@ -160,35 +160,35 @@ public struct Color
 | static [WhiteSmoke](../../aspose.psd/color/whitesmoke) { get; } | Получает определенный системой цвет. |
 | static [Yellow](../../aspose.psd/color/yellow) { get; } | Получает определенный системой цвет. |
 | static [YellowGreen](../../aspose.psd/color/yellowgreen) { get; } | Получает определенный системой цвет. |
-| [A](../../aspose.psd/color/a) { get; } | Получает значение альфа-компонента этой[`Color`](../color)структуры. |
-| [B](../../aspose.psd/color/b) { get; } | Получает значение синего компонента этой[`Color`](../color)структуры. |
-| [G](../../aspose.psd/color/g) { get; } | Получает значение зеленого компонента этой[`Color`](../color)структуры. |
-| [IsEmpty](../../aspose.psd/color/isempty) { get; } | Получает значение, указывающее, является ли эта структура[`Color`](../color)неинициализированной. |
-| [IsKnownColor](../../aspose.psd/color/isknowncolor) { get; } | Получает значение, указывающее, является ли эта структура[`Color`](../color)предопределенным цветом. Предопределенные цвета представлены элементами перечисления[`KnownColor`](../knowncolor). |
-| [IsNamedColor](../../aspose.psd/color/isnamedcolor) { get; } | Получает значение, указывающее, является ли эта структура[`Color`](../color)именованным цветом или элементом[`KnownColor`](../knowncolor)перечисление. |
-| [Name](../../aspose.psd/color/name) { get; } | Получает имя этого[`Color`](../color). |
-| [R](../../aspose.psd/color/r) { get; } | Получает значение красного компонента этой[`Color`](../color)структуры. |
+| [A](../../aspose.psd/color/a) { get; } | Получает значение альфа-компонента этого[`Color`](../color)структура. |
+| [B](../../aspose.psd/color/b) { get; } | Получает значение синего компонента этого[`Color`](../color)структура. |
+| [G](../../aspose.psd/color/g) { get; } | Получает значение зеленого компонента этого[`Color`](../color)структура. |
+| [IsEmpty](../../aspose.psd/color/isempty) { get; } | Получает значение, указывающее, является ли это[`Color`](../color) структура не инициализирована. |
+| [IsKnownColor](../../aspose.psd/color/isknowncolor) { get; } | Получает значение, указывающее, является ли это[`Color`](../color) структура предопределенного цвета. Предопределенные цвета представлены элементами[`KnownColor`](../knowncolor) перечисление. |
+| [IsNamedColor](../../aspose.psd/color/isnamedcolor) { get; } | Получает значение, указывающее, является ли это[`Color`](../color) структура является именованным цветом или членом[`KnownColor`](../knowncolor) перечисление. |
+| [Name](../../aspose.psd/color/name) { get; } | Получает имя этого[`Color`](../color) . |
+| [R](../../aspose.psd/color/r) { get; } | Получает значение красного компонента этого[`Color`](../color)структура. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [FromArgb](../../aspose.psd/color/fromargb#fromargb)(int) | Создает структуру[`Color`](../color)из 32-битного значения ARGB. |
-| static [FromArgb](../../aspose.psd/color/fromargb#fromargb_1)(int, Color) | Создает структуру[`Color`](../color)из указанного[`Color`](../color)структура, но с новым указанным альфа-значением. Хотя этот метод позволяет передавать 32-битное значение в качестве альфа-значения, значение ограничено 8 битами. |
-| static [FromArgb](../../aspose.psd/color/fromargb#fromargb_2)(int, int, int) | Создает структуру[`Color`](../color)из указанных 8-битных значений цвета (красный, зеленый и синий). Альфа-значение неявно равно 255 (полностью непрозрачно). Хотя этот метод позволяет передавать 32-битное значение для каждого компонента цвета, значение каждого компонента ограничено 8 битами. |
-| static [FromArgb](../../aspose.psd/color/fromargb#fromargb_3)(int, int, int, int) | Создает структуру[`Color`](../color)из четырех значений компонентов ARGB (альфа, красный, зеленый и синий). Хотя этот метод позволяет передавать 32-битное значение для каждого компонента, значение каждого компонента ограничено 8 битами. |
-| static [FromKnownColor](../../aspose.psd/color/fromknowncolor)(KnownColor) | Создает структуру[`Color`](../color)из указанного предопределенного цвета. |
-| static [FromName](../../aspose.psd/color/fromname)(string) | Создает структуру[`Color`](../color)из указанного имени предопределенного цвета. |
-| override [Equals](../../aspose.psd/color/equals)(object) | Проверяет, является ли указанный объект структурой[`Color`](../color)и эквивалентен ли этому[`Color`](../color)структура. |
-| [GetBrightness](../../aspose.psd/color/getbrightness)() | Получает значение яркости оттенка-насыщенности-яркости (HSB) для этой структуры[`Color`](../color). |
-| override [GetHashCode](../../aspose.psd/color/gethashcode)() | Возвращает хеш-код для этой[`Color`](../color)структуры. |
-| [GetHue](../../aspose.psd/color/gethue)() | Получает значение оттенка оттенка-насыщенности-яркости (HSB) в градусах для этой структуры[`Color`](../color). |
-| [GetSaturation](../../aspose.psd/color/getsaturation)() | Получает значение насыщенности оттенка-насыщенности-яркости (HSB) для этой структуры[`Color`](../color). |
-| [ToArgb](../../aspose.psd/color/toargb)() | Получает 32-битное значение ARGB этой[`Color`](../color)структуры. |
-| [ToKnownColor](../../aspose.psd/color/toknowncolor)() | Получает значение[`KnownColor`](../knowncolor)этого[`Color`](../color)структура. |
-| override [ToString](../../aspose.psd/color/tostring)() | Преобразует эту структуру[`Color`](../color)в удобочитаемую строку. |
-| [operator ==](../../aspose.psd/color/op_equality) | Проверяет эквивалентность двух указанных[`Color`](../color)структур. |
-| [operator !=](../../aspose.psd/color/op_inequality) | Проверяет, различаются ли две указанные[`Color`](../color)структуры. |
+| static [FromArgb](../../aspose.psd/color/fromargb#fromargb)(int) | Создает[`Color`](../color) структура из 32-битного значения ARGB. |
+| static [FromArgb](../../aspose.psd/color/fromargb#fromargb_1)(int, Color) | Создает[`Color`](../color) структура из указанного[`Color`](../color) структуру, но с новым указанным значением альфа. Хотя этот метод позволяет передавать 32-битное значение в качестве альфа-значения, значение ограничено 8 битами. |
+| static [FromArgb](../../aspose.psd/color/fromargb#fromargb_2)(int, int, int) | Создает[`Color`](../color) структура из указанных 8-битных значений цвета (красный, зеленый и синий). Альфа-значение неявно равно 255 (полностью непрозрачно). Хотя этот метод позволяет передавать 32-битное значение для каждого компонента цвета, значение каждого компонента ограничено 8 битами. |
+| static [FromArgb](../../aspose.psd/color/fromargb#fromargb_3)(int, int, int, int) | Создает[`Color`](../color) структура из четырех значений компонентов ARGB (альфа, красный, зеленый и синий). Хотя этот метод позволяет передавать 32-битное значение для каждого компонента, значение каждого компонента ограничено 8 битами. |
+| static [FromKnownColor](../../aspose.psd/color/fromknowncolor)(KnownColor) | Создает[`Color`](../color) структура из указанного предопределенного цвета. |
+| static [FromName](../../aspose.psd/color/fromname)(string) | Создает[`Color`](../color)структура из указанного имени предопределенного цвета. |
+| override [Equals](../../aspose.psd/color/equals)(object) | Проверяет, является ли указанный объект[`Color`](../color) структуру и эквивалентен этому[`Color`](../color)структура. |
+| [GetBrightness](../../aspose.psd/color/getbrightness)() | Получает значение яркости оттенка-насыщенности-яркости (HSB) для этого[`Color`](../color)структура. |
+| override [GetHashCode](../../aspose.psd/color/gethashcode)() | Возвращает хеш-код для этого[`Color`](../color)структура. |
+| [GetHue](../../aspose.psd/color/gethue)() | Получает значение оттенка оттенка-насыщенности-яркости (HSB) в градусах для данного[`Color`](../color)структура. |
+| [GetSaturation](../../aspose.psd/color/getsaturation)() | Получает значение насыщенности оттенка-насыщенности-яркости (HSB) для этого[`Color`](../color)структура. |
+| [ToArgb](../../aspose.psd/color/toargb)() | Получает 32-битное значение ARGB этого[`Color`](../color)структура. |
+| [ToKnownColor](../../aspose.psd/color/toknowncolor)() | Получает[`KnownColor`](../knowncolor) значение этого[`Color`](../color)структура. |
+| override [ToString](../../aspose.psd/color/tostring)() | Преобразует это[`Color`](../color) структуру в удобочитаемую строку. |
+| [operator ==](../../aspose.psd/color/op_equality) | Проверяет, являются ли два указанных[`Color`](../color)структуры эквивалентны. |
+| [operator !=](../../aspose.psd/color/op_inequality) | Проверяет, являются ли два указанных[`Color`](../color) структуры разные. |
 
 ### Смотрите также
 

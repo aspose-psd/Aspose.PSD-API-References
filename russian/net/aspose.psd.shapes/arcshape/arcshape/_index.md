@@ -1,14 +1,14 @@
 ---
 title: ArcShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаArcShapeaspose.psd.shapes/arcshape.
+description: Инициализирует новый экземплярArcShapeaspose.psd.shapes/arcshape класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/arcshape/arcshape/
 ---
 ## ArcShape() {#constructor}
 
-Инициализирует новый экземпляр класса[`ArcShape`](../../arcshape).
+Инициализирует новый экземпляр[`ArcShape`](../../arcshape) класс.
 
 ```csharp
 public ArcShape()
@@ -24,7 +24,7 @@ public ArcShape()
 
 ## ArcShape(RectangleF, float, float) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ArcShape`](../../arcshape).
+Инициализирует новый экземпляр[`ArcShape`](../../arcshape) класс.
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle)
@@ -47,7 +47,7 @@ public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle)
 
 ## ArcShape(RectangleF, float, float, bool) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`ArcShape`](../../arcshape).
+Инициализирует новый экземпляр[`ArcShape`](../../arcshape) класс.
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle, bool isClosed)
@@ -58,7 +58,7 @@ public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle, bool i
 | rectangle | RectangleF | Прямоугольник. |
 | startAngle | Single | Начальный угол. |
 | sweepAngle | Single | Угол развертки. |
-| isClosed | Boolean | Если установлено значение` true` , дуга закрывается. Замкнутая дуга на самом деле вырождается в эллипс. |
+| isClosed | Boolean | Если установлено`истинный` дуга закрыта. Замкнутая дуга на самом деле вырождается в эллипс. |
 
 ### Смотрите также
 

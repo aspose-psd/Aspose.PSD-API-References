@@ -17,7 +17,7 @@ public void DrawBezier(Pen pen, float x1, float y1, float x2, float y2, float x3
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль Кривая. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль кривой. |
 | x1 | Single | Координата x начальной точки кривой. |
 | y1 | Single | Y-координата начальной точки кривой. |
 | x2 | Single | Координата x первой контрольной точки кривой. |
@@ -31,7 +31,7 @@ public void DrawBezier(Pen pen, float x1, float y1, float x2, float y2, float x3
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 
@@ -44,7 +44,7 @@ public void DrawBezier(Pen pen, float x1, float y1, float x2, float y2, float x3
 
 ## DrawBezier(Pen, PointF, PointF, PointF, PointF) {#drawbezier_1}
 
-Рисует сплайн Безье, определяемый четырьмя[`PointF`](../../pointf)структурами.
+Рисует сплайн Безье, определяемый четырьмя[`PointF`](../../pointf) структуры.
 
 ```csharp
 public void DrawBezier(Pen pen, PointF pt1, PointF pt2, PointF pt3, PointF pt4)
@@ -52,17 +52,17 @@ public void DrawBezier(Pen pen, PointF pt1, PointF pt2, PointF pt3, PointF pt4)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль Кривая. |
-| pt1 | PointF | [`PointF`](../../pointf)структура, представляющая начальную точку кривой. |
-| pt2 | PointF | [`PointF`](../../pointf)структура, представляющая первую контрольную точку кривой. |
-| pt3 | PointF | [`PointF`](../../pointf)структура, представляющая вторую контрольную точку для кривой. |
-| pt4 | PointF | [`PointF`](../../pointf)структура, представляющая конечную точку кривой. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль кривой. |
+| pt1 | PointF | [`PointF`](../../pointf) структура, представляющая начальную точку кривой. |
+| pt2 | PointF | [`PointF`](../../pointf) структура, представляющая первую контрольную точку кривой. |
+| pt3 | PointF | [`PointF`](../../pointf) структура, представляющая вторую контрольную точку кривой. |
+| pt4 | PointF | [`PointF`](../../pointf) структура, представляющая конечную точку кривой. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 
@@ -76,7 +76,7 @@ public void DrawBezier(Pen pen, PointF pt1, PointF pt2, PointF pt3, PointF pt4)
 
 ## DrawBezier(Pen, Point, Point, Point, Point) {#drawbezier}
 
-Рисует сплайн Безье, определяемый четырьмя[`Point`](../../point)структурами.
+Рисует сплайн Безье, определяемый четырьмя[`Point`](../../point) структуры.
 
 ```csharp
 public void DrawBezier(Pen pen, Point pt1, Point pt2, Point pt3, Point pt4)
@@ -84,17 +84,17 @@ public void DrawBezier(Pen pen, Point pt1, Point pt2, Point pt3, Point pt4)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)структура, определяющая цвет, ширину и стиль кривой. |
-| pt1 | Point | [`Point`](../../point)структура, представляющая начальную точку кривой. |
-| pt2 | Point | [`Point`](../../point)структура, представляющая первую контрольную точку кривой. |
-| pt3 | Point | [`Point`](../../point)структура, представляющая вторую контрольную точку кривой. |
-| pt4 | Point | [`Point`](../../point)структура, представляющая конечную точку кривой. |
+| pen | Pen | [`Pen`](../../pen) структура, определяющая цвет, ширину и стиль кривой. |
+| pt1 | Point | [`Point`](../../point) структура, представляющая начальную точку кривой. |
+| pt2 | Point | [`Point`](../../point) структура, представляющая первую контрольную точку кривой. |
+| pt3 | Point | [`Point`](../../point) структура, представляющая вторую контрольную точку кривой. |
+| pt4 | Point | [`Point`](../../point) структура, представляющая конечную точку кривой. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 

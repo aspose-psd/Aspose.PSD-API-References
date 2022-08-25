@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.PSD for .NET API 参考
-description: 将类信息保存到指定的流容器
+description: 将类信息保存到指定的流容器中
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/classid/save/
 ---
 ## ClassID.Save method
 
-将类信息保存到指定的流容器。
+将类信息保存到指定的流容器中。
 
 ```csharp
 public void Save(StreamContainer streamContainer)

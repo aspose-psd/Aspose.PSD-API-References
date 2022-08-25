@@ -1,14 +1,14 @@
 ---
 title: Lines
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает строки.
+description: Получает или задает строки.
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
 ## TypeToolInfoResource.Lines property
 
-Получает или устанавливает строки.
+Получает или задает строки.
 
 ```csharp
 public TypeToolLineInfo[] Lines { get; set; }

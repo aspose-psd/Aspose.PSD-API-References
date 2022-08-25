@@ -1,14 +1,14 @@
 ---
 title: RegionExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Содержит методы расширения для классаRegion../aspose.psd/region.
+description: Содержит методы расширения дляRegion../aspose.psd/region класс.
 type: docs
 weight: 1170
 url: /ru/net/aspose.psd.extensions/regionextensions/
 ---
 ## RegionExtensions class
 
-Содержит методы расширения для класса[`Region`](../../aspose.psd/region).
+Содержит методы расширения для[`Region`](../../aspose.psd/region) класс.
 
 ```csharp
 public static class RegionExtensions
@@ -18,7 +18,7 @@ public static class RegionExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion)(Region) | Преобразует[`Region`](../../aspose.psd/region)вRegion. |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion)(Region) | Преобразует[`Region`](../../aspose.psd/region) кRegion . |
 
 ### Смотрите также
 

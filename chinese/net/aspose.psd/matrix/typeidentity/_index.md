@@ -1,14 +1,14 @@
 ---
 title: TypeIdentity
 second_title: Aspose.PSD for .NET API 参考
-description: 恒等变换是一种输出坐标 始终与输入坐标相同的变换 如果此变换不是恒等变换 类型将是常量 GENERAL_TRANSFORM 或 各种坐标的适当标志位的组合此转换执行的转换
+description: 恒等变换是一种输出坐标 始终与输入坐标相同的变换 如果此变换不是恒等变换 类型将是常量 GENERAL_TRANSFORM 或 a 适当标志位的组合此变换执行的各种坐标 转换
 type: docs
 weight: 240
 url: /zh/net/aspose.psd/matrix/typeidentity/
 ---
 ## Matrix.TypeIdentity field
 
-恒等变换是一种输出坐标 始终与输入坐标相同的变换。 如果此变换不是恒等变换， 类型将是常量 GENERAL_TRANSFORM 或 各种坐标的适当标志位的组合此转换执行的转换。
+恒等变换是一种输出坐标 始终与输入坐标相同的变换。 如果此变换不是恒等变换， 类型将是常量 GENERAL_TRANSFORM 或 a 适当标志位的组合此变换执行的各种坐标 转换。
 
 ```csharp
 public const int TypeIdentity;

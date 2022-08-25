@@ -3,7 +3,7 @@ title: ClassStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Структура класса.
 type: docs
-weight: 3020
+weight: 3070
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/
 ---
 ## ClassStructure class
@@ -18,7 +18,7 @@ public sealed class ClassStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [ClassStructure](classstructure)(ClassID, ClassID, int) | Инициализирует новый экземпляр класса[`ClassStructure`](../classstructure). |
+| [ClassStructure](classstructure)(ClassID, ClassID, int) | Инициализирует новый экземпляр[`ClassStructure`](../classstructure) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public sealed class ClassStructure : OSTypeStructure
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname) { get; set; } | Получает или задает имя класса. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 
 ## Методы
 

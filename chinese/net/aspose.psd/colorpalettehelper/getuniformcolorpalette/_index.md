@@ -1,14 +1,14 @@
 ---
 title: GetUniformColorPalette
 second_title: Aspose.PSD for .NET API 参考
-description: 获得统一的 256 调色板
+description: 获取统一的 256 调色板
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/colorpalettehelper/getuniformcolorpalette/
 ---
 ## ColorPaletteHelper.GetUniformColorPalette method
 
-获得统一的 256 调色板。
+获取统一的 256 调色板。
 
 ```csharp
 public static ColorPalette GetUniformColorPalette(RasterImage image)
@@ -20,7 +20,7 @@ public static ColorPalette GetUniformColorPalette(RasterImage image)
 
 ### 返回值
 
-[`ColorPalette`](../../colorpalette)。
+的[`ColorPalette`](../../colorpalette) .
 
 ### 也可以看看
 

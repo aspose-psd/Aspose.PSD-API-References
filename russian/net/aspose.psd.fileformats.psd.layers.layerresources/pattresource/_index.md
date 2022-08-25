@@ -1,14 +1,14 @@
 ---
 title: PattResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс PattResource. Ресурс с данными шаблона
+description: Класс PattResource. Ресурс с шаблоном data
 type: docs
-weight: 2800
+weight: 2850
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
 ## PattResource class
 
-Класс PattResource. Ресурс с данными шаблона
+Класс PattResource. Ресурс с шаблоном data
 
 ```csharp
 public class PattResource : LayerResource
@@ -18,8 +18,8 @@ public class PattResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [PattResource](pattresource#constructor)() | Инициализирует новый экземпляр класса[`PattResource`](../pattresource). |
-| [PattResource](pattresource#constructor_1)(int, PattResourceData[]) | Инициализирует новый экземпляр класса[`PattResource`](../pattresource). |
+| [PattResource](pattresource#constructor)() | Инициализирует новый экземпляр[`PattResource`](../pattresource) класс. |
+| [PattResource](pattresource#constructor_1)(int, PattResourceData[]) | Инициализирует новый экземпляр[`PattResource`](../pattresource) класс. |
 
 ## Характеристики
 
@@ -27,8 +27,8 @@ public class PattResource : LayerResource
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns) { get; set; } | Получает или устанавливает данные шаблонов; |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion) { get; } | Получает версию в формате psd. |
+| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns) { get; set; } | Получает или устанавливает данные паттернов; |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature) { get; } | Получает подпись ресурса слоя. |
 
 ## Методы
@@ -36,15 +36,15 @@ public class PattResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save)(StreamContainer, int) | Сохраняет данные блока ресурсов. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey) | Информационный ключ инструмента типа 'Patt' для 8-бит. |
-| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2) | Информационный ключ инструмента типа 'Pat2' для 16-бит. |
-| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3) | Информационный ключ инструмента типа 'Pat3' для 32-бит. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey) | Информационный ключ инструмента типа «Пэтт» для 8-бит. |
+| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2) | Информационный ключ инструмента типа «Pat2» для 16-бит. |
+| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3) | Информационный ключ инструмента типа «Pat3» для 32-бит. |
 
 ### Смотрите также
 

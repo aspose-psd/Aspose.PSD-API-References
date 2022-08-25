@@ -16,7 +16,7 @@ public SheetColorHighlightEnum SheetColorHighlight { get; set; }
 
 ### 适当的价值
 
-板颜色高亮。
+工作表颜色突出显示。
 
 ### 也可以看看
 

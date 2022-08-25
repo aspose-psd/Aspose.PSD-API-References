@@ -1,14 +1,14 @@
 ---
 title: Layer
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLayeraspose.psd.fileformats.psd.layers/layer. Конструктор для ленивой инициализации.
+description: Инициализирует новый экземплярLayeraspose.psd.fileformats.psd.layers/layer учебный класс. Конструктор для ленивой инициализации.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
 ## Layer() {#constructor}
 
-Инициализирует новый экземпляр класса[`Layer`](../../layer). Конструктор для ленивой инициализации.
+Инициализирует новый экземпляр[`Layer`](../../layer) учебный класс. Конструктор для ленивой инициализации.
 
 ```csharp
 public Layer()
@@ -16,7 +16,7 @@ public Layer()
 
 ### Примеры
 
-В следующем примере показано, как можно рисовать на только что созданном слое, если в Aspose.PSD используется версия простого конструктора
+В следующем примере показано, как можно рисовать на вновь созданном слое, если в Aspose.PSD используется версия простого конструктора.
 
 ```csharp
 [C#]
@@ -55,7 +55,7 @@ using (var image = new PsdImage(width, height))
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Layer`](../../layer).
+Инициализирует новый экземпляр[`Layer`](../../layer) класс.
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
@@ -64,7 +64,7 @@ public Layer(RasterImage image, bool disposeImage = false)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | image | RasterImage | Изображение. |
-| disposeImage | Boolean | , если установлено значение` true` [удалить изображение]. |
+| disposeImage | Boolean | если установлено`истинный` [удалить изображение]. |
 
 ### Примеры
 
@@ -111,7 +111,7 @@ using (var image = new PsdImage(200, 200))
 
 ## Layer(Stream) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`Layer`](../../layer).
+Инициализирует новый экземпляр[`Layer`](../../layer) класс.
 
 ```csharp
 public Layer(Stream stream)
@@ -123,7 +123,7 @@ public Layer(Stream stream)
 
 ### Примеры
 
-В следующем примере показано, как может добавлять изображения Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif в качестве слоев в PsdImage
+В следующем примере показано, как можно добавлять изображения Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif в качестве слоев в PsdImage.
 
 ```csharp
 [C#]
@@ -180,7 +180,7 @@ using (var image = new PsdImage(200, 200))
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Layer`](../../layer)из байтовых массивов.
+Инициализирует новый экземпляр[`Layer`](../../layer) класс из байтовых массивов.
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
@@ -198,7 +198,7 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Массивы байтов не могут быть пустыми или Длина байтовых массивов должна равняться размерам границ (bounds.Width * bounds.Height) |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Массивы байтов не могут быть пустыми или Длина массивов байтов должна равняться размерам границ (bounds.Width * bounds.Height) |
 
 ### Смотрите также
 

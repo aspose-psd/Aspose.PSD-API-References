@@ -1,14 +1,14 @@
 ---
 title: TileByteCounts
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置切片字节数
+description: 获取或设置图块字节数
 type: docs
 weight: 520
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/tilebytecounts/
 ---
 ## TiffOptions.TileByteCounts property
 
-获取或设置切片字节数。
+获取或设置图块字节数。
 
 ```csharp
 public uint[] TileByteCounts { get; set; }

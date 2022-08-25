@@ -1,14 +1,14 @@
 ---
 title: RawLineSize
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает необработанный размер строки в байтах.
+description: Получает исходный размер строки в байтах.
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/rasterimage/rawlinesize/
 ---
 ## RasterImage.RawLineSize property
 
-Получает необработанный размер строки в байтах.
+Получает исходный размер строки в байтах.
 
 ```csharp
 public virtual int RawLineSize { get; }

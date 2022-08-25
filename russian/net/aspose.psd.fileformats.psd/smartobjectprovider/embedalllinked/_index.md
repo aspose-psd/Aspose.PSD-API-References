@@ -1,14 +1,14 @@
 ---
 title: EmbedAllLinked
 second_title: Справочник по Aspose.PSD для .NET API
-description: Встраивает в изображение все связанные смарт-объекты.
+description: Встраивает все связанные смартобъекты в изображение.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked/
 ---
 ## SmartObjectProvider.EmbedAllLinked method
 
-Встраивает в изображение все связанные смарт-объекты.
+Встраивает все связанные смарт-объекты в изображение.
 
 ```csharp
 public void EmbedAllLinked()

@@ -1,14 +1,14 @@
 ---
 title: InsertPortion
 second_title: Справочник по Aspose.PSD для .NET API
-description: ВставляетITextPortionaspose.psd.fileformats.psd.layers.text/itextportionв указанную позицию
+description: ВставляетITextPortionaspose.psd.fileformats.psd.layers.text/itextportion в указанную позицию
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itext/insertportion/
 ---
 ## IText.InsertPortion method
 
-Вставляет[`ITextPortion`](../../itextportion)в указанную позицию
+Вставляет[`ITextPortion`](../../itextportion) в указанную позицию
 
 ```csharp
 public void InsertPortion(ITextPortion portion, int index)
@@ -16,12 +16,12 @@ public void InsertPortion(ITextPortion portion, int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| partion | ITextPortion | Часть. |
+| portion | ITextPortion | порция. |
 | index | Int32 | Индекс. |
 
 ### Примеры
 
-В следующем примере кода демонстрируется редактирование частей текста и стиля их текста.
+В следующем примере кода показано редактирование текстовых частей и стиля их текста.
 
 ```csharp
 [C#]

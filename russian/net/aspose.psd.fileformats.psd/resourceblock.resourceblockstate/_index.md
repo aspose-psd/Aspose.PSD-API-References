@@ -3,7 +3,7 @@ title: ResourceBlock.ResourceBlockState
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет состояние блока ресурсов.
 type: docs
-weight: 3510
+weight: 3560
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
 ## ResourceBlock.ResourceBlockState enumeration

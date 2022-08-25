@@ -1,14 +1,14 @@
 ---
 title: LinkedLayersManager
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс менеджера связанных слоев.
+description: Класс диспетчера связанных слоев.
 type: docs
-weight: 3290
+weight: 3340
 url: /ru/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
 ## LinkedLayersManager class
 
-Класс менеджера связанных слоев.
+Класс диспетчера связанных слоев.
 
 ```csharp
 public sealed class LinkedLayersManager
@@ -25,7 +25,7 @@ public sealed class LinkedLayersManager
 
 ### Примеры
 
-В следующем примере показано, как можно управлять связанными слоями в Aspose.PSD
+В следующем примере показано, как вы можете манипулировать связанными слоями в Aspose.PSD.
 
 ```csharp
 [C#]

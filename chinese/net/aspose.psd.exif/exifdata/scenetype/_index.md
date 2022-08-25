@@ -16,7 +16,7 @@ public byte SceneType { get; set; }
 
 ### 适当的价值
 
-场景类型。
+场景的类型。
 
 ### 也可以看看
 

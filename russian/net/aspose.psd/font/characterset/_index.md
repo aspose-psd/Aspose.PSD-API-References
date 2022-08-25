@@ -1,14 +1,14 @@
 ---
 title: CharacterSet
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение байта указывающее набор символов который использует этотFontaspose.psd/font.
+description: Получает значение байта указывающее набор символов которыйFontaspose.psd/font использует.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/font/characterset/
 ---
 ## Font.CharacterSet property
 
-Получает значение байта, указывающее набор символов, который использует этот[`Font`](../../font).
+Получает значение байта, указывающее набор символов, который[`Font`](../../font) использует.
 
 ```csharp
 public CharacterSet CharacterSet { get; }
@@ -16,7 +16,7 @@ public CharacterSet CharacterSet { get; }
 
 ### Стоимость имущества
 
-Набор символов, который использует этот[`Font`](../../font).
+Набор символов, который это[`Font`](../../font) использует.
 
 ### Смотрите также
 

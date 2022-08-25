@@ -42,7 +42,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示了如何在 Aspose.PSD
+以下示例演示了如何在 Aspose.PSD 中操作黑白调整图层属性
 
 ```csharp
 [C#]

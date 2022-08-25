@@ -3,7 +3,7 @@ title: TiffOptionsUtils
 second_title: Aspose.PSD for .NET API 参考
 description: tiff 文件格式选项实用程序类
 type: docs
-weight: 4840
+weight: 4890
 url: /zh/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
 ## TiffOptionsUtils class

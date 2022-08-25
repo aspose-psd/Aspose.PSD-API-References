@@ -3,7 +3,7 @@ title: EnumeratedDescriptorStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 枚举的描述符结构
 type: docs
-weight: 3050
+weight: 3100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/
 ---
 ## EnumeratedDescriptorStructure class
@@ -18,7 +18,7 @@ public class EnumeratedDescriptorStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [EnumeratedDescriptorStructure](enumerateddescriptorstructure)(ClassID, ClassID, ClassID) | 初始化[`EnumeratedDescriptorStructure`](../enumerateddescriptorstructure)类的新实例。 |
+| [EnumeratedDescriptorStructure](enumerateddescriptorstructure)(ClassID, ClassID, ClassID) | 初始化[`EnumeratedDescriptorStructure`](../enumerateddescriptorstructure)类. |
 
 ## 特性
 
@@ -27,7 +27,7 @@ public class EnumeratedDescriptorStructure : OSTypeStructure
 | [EnumName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumname) { get; set; } | 获取或设置枚举名称。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/key) { get; } | 获取密钥。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 | [TypeID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid) { get; set; } | 获取或设置类型 ID。 |
 
 ## 方法
@@ -42,7 +42,7 @@ public class EnumeratedDescriptorStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey) | 枚举的描述符键。 |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey) | 枚举的描述符key. |
 
 ### 也可以看看
 

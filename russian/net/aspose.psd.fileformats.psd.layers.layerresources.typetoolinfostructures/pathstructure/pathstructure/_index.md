@@ -1,14 +1,14 @@
 ---
 title: PathStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPathStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure.
+description: Инициализирует новый экземплярPathStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/pathstructure/
 ---
 ## PathStructure constructor
 
-Инициализирует новый экземпляр класса[`PathStructure`](../../pathstructure).
+Инициализирует новый экземпляр[`PathStructure`](../../pathstructure) класс.
 
 ```csharp
 public PathStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public PathStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Примеры
 

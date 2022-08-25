@@ -16,7 +16,7 @@ public RectangleF Rectangle { get; set; }
 
 ### 适当的价值
 
-[`RectangleF`](../../../aspose.psd/rectanglef)结构，指定渐变的起点和终点。
+一个[`RectangleF`](../../../aspose.psd/rectanglef)指定渐变的起点和终点的结构。
 
 ### 也可以看看
 

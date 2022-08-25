@@ -1,14 +1,14 @@
 ---
 title: XmpTypeResourceEvent
 second_title: Aspose.PSD for .NET API 参考
-description: XMP 资源事件 URI
+description: XMP 资源事件 URI.
 type: docs
 weight: 140
 url: /zh/net/aspose.psd.xmp/namespaces/xmptyperesourceevent/
 ---
 ## Namespaces.XmpTypeResourceEvent field
 
-XMP 资源事件 URI。
+XMP 资源事件 URI.
 
 ```csharp
 public const string XmpTypeResourceEvent;

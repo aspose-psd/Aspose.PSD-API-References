@@ -1,9 +1,9 @@
 ---
 title: ISmartObjectLayerResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет интерфейс ISmartObjectLayerResource который содержит информацию о ресурсе слоя смарт-объекта в файле PSD. Это также интерфейс разметки используемый для обозначения ресурсов Sold и Sole в изображениях Adobe Photoshop.
+description: Определяет интерфейс ISmartObjectLayerResource который содержит информацию о ресурсе слоя смартобъекта в файле PSD. Это также интерфейс разметки используемый для обозначения ресурсов Sold и Sole в изображениях Adobe Photoshop.
 type: docs
-weight: 2480
+weight: 2520
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
 ## ISmartObjectLayerResource interface

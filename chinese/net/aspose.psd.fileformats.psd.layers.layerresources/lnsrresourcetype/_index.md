@@ -3,7 +3,7 @@ title: LnsrResourceType
 second_title: Aspose.PSD for .NET API 参考
 description: 发现可能的 Lnsr 资源类型
 type: docs
-weight: 2700
+weight: 2740
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
 ## LnsrResourceType enumeration
@@ -18,11 +18,11 @@ public enum LnsrResourceType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Rend | `0` | 文本分割 |
-| Cont | `1` | 填充层的cont 例如 |
-| Bgnd | `2` | 背景层的 Bgnd |
-| Layr | `3` | 常规图像层的层 |
-| Unknown | `4` | The Unknown 用于我们没有描述枚举时的情况 |
+| Rend | `0` | text 的裂痕 |
+| Cont | `1` | 填充层的例子 |
+| Bgnd | `2` | 背景层的Bgnd |
+| Layr | `3` | 常规图像层 |
+| Unknown | `4` | The Unknown 是针对我们没有描述 enum 的情况 |
 
 ### 也可以看看
 

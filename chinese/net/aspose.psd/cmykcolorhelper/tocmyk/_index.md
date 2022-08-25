@@ -20,7 +20,7 @@ public static int[] ToCmyk(int[] argbPixels)
 
 ### 返回值
 
-CMYK 颜色显示为 32 位整数值。
+CMYK 颜色呈现为 32 位整数值。
 
 ### 也可以看看
 
@@ -40,11 +40,11 @@ public static int ToCmyk(int argbPixel)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| argbPixel | Int32 | ARGB 颜色以 32 位整数值表示。 |
+| argbPixel | Int32 | ARGB 颜色显示为 32 位整数值。 |
 
 ### 返回值
 
-CMYK 颜色显示为 32 位整数值。
+以 32 位整数值呈现的 CMYK 颜色。
 
 ### 也可以看看
 
@@ -68,7 +68,7 @@ public static int ToCmyk(Color pixel)
 
 ### 返回值
 
-CMYK 颜色显示为 32 位整数值。
+以 32 位整数值呈现的 CMYK 颜色。
 
 ### 也可以看看
 
@@ -93,7 +93,7 @@ public static int[] ToCmyk(Color[] pixels)
 
 ### 返回值
 
-CMYK 颜色显示为 32 位整数值。
+CMYK 颜色呈现为 32 位整数值。
 
 ### 也可以看看
 

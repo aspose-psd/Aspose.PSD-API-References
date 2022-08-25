@@ -1,14 +1,14 @@
 ---
 title: AutoKern
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее включено или выключено автоматическое определение кернинга.
+description: Получает или задает значение указывающее включен или выключен автоматический кернинг.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/
 ---
 ## TypeToolStyleInfo.AutoKern property
 
-Получает или задает значение, указывающее, включено или выключено автоматическое определение кернинга.
+Получает или задает значение, указывающее, включен или выключен автоматический кернинг.
 
 ```csharp
 public bool AutoKern { get; set; }
@@ -16,7 +16,7 @@ public bool AutoKern { get; set; }
 
 ### Стоимость имущества
 
-` true` если авто кернинг включен; в противном случае` false` .
+`истинный` если авто кернинг включен; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

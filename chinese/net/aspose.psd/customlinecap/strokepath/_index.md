@@ -1,14 +1,14 @@
 ---
 title: StrokePath
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置定义自定义帽的轮廓的对象
+description: 获取或设置定义自定义帽盖轮廓的对象
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/customlinecap/strokepath/
 ---
 ## CustomLineCap.StrokePath property
 
-获取或设置定义自定义帽的轮廓的对象。
+获取或设置定义自定义帽盖轮廓的对象。
 
 ```csharp
 public GraphicsPath StrokePath { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: MidtonesCyanRedBalance
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置中间调青色红色平衡
+description: 获取或设置中间调青红平衡
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/
 ---
 ## BlncResource.MidtonesCyanRedBalance property
 
-获取或设置中间调青色红色平衡。
+获取或设置中间调青红平衡。
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }

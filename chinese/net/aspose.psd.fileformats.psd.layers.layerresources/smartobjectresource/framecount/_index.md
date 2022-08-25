@@ -1,14 +1,14 @@
 ---
 title: FrameCount
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 文件中智能对象图层数据的帧数
+description: 获取或设置PSD文件中智能对象图层数据的帧数
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/
 ---
 ## SmartObjectResource.FrameCount property
 
-获取或设置 PSD 文件中智能对象图层数据的帧数。
+获取或设置PSD文件中智能对象图层数据的帧数。
 
 ```csharp
 public int FrameCount { get; set; }

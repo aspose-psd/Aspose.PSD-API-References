@@ -20,7 +20,7 @@ adobe stock 许可证的状态，如果不可用，则为空字符串。
 
 ### 例子
 
-下面的代码演示了对LnkeResource资源的支持。
+下面的代码演示了对 LnkeResource 资源的支持。
 
 ```csharp
 [C#]

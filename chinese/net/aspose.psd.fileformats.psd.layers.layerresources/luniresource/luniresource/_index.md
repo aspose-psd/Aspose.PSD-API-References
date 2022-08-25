@@ -1,14 +1,14 @@
 ---
 title: LuniResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LuniResourceaspose.psd.fileformats.psd.layers.layerresources/luniresource类的新实例
+description: 初始化LuniResourceaspose.psd.fileformats.psd.layers.layerresources/luniresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/luniresource/
 ---
 ## LuniResource constructor
 
-初始化[`LuniResource`](../../luniresource)类的新实例。
+初始化[`LuniResource`](../../luniresource)类.
 
 ```csharp
 public LuniResource()

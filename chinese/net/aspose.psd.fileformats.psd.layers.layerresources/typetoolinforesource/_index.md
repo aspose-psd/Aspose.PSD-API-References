@@ -1,14 +1,14 @@
 ---
 title: TypeToolInfoResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类型工具信息对于低于 6.0 的 PSD 版本
+description: 类型工具信息对于低于 6.0. 的 PSD 版本
 type: docs
-weight: 2990
+weight: 3040
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/
 ---
 ## TypeToolInfoResource class
 
-类型工具信息。对于低于 6.0 的 PSD 版本。
+类型工具信息。对于低于 6.0. 的 PSD 版本
 
 ```csharp
 public class TypeToolInfoResource : LayerResource
@@ -29,14 +29,14 @@ public class TypeToolInfoResource : LayerResource
 | [CharacterCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount) { get; set; } | 获取或设置字符数。 |
 | [ColorSpaceValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue) { get; set; } | 获取或设置色彩空间值。 |
 | [Fonts](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts) { get; set; } | 获取或设置字体。 |
-| [FontsCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount) { get; } | 获取字体计数。 |
+| [FontsCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount) { get; } | 获取字体数量。 |
 | [FontVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion) { get; set; } | 获取或设置字体版本。 |
-| [GComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent) { get; set; } | 获取或设置 g 分量。 |
+| [GComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent) { get; set; } | 获取或设置g分量 |
 | [HorizontalPlacement](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/horizontalplacement) { get; set; } | 获取或设置水平位置。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length) { get; } | 以字节为单位获取层资源长度。 |
 | [LineCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount) { get; } | 获取行数。 |
-| [Lines](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines) { get; set; } | 获取或设置行。 |
+| [Lines](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines) { get; set; } | 获取或设置线条。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | [RComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent) { get; set; } | 获取或设置 r 组件。 |
 | [ScaleFactor](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor) { get; set; } | 获取或设置比例因子。 |
@@ -55,7 +55,7 @@ public class TypeToolInfoResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/save)(StreamContainer, int) | 保存指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

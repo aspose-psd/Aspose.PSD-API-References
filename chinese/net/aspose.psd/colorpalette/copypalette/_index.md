@@ -17,11 +17,11 @@ public static ColorPalette CopyPalette(IColorPalette colorPalette, bool useCompa
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | colorPalette | IColorPalette | 调色板。 |
-| useCompactPalette | Boolean | 表示是否压缩调色板。 |
+| useCompactPalette | Boolean | 指示是否紧凑调色板。 |
 
 ### 返回值
 
-新创建和复制的调色板，如果 null 调色板通过，则为 null。
+新创建和复制的调色板，如果通过了 null 调色板，则为 null。
 
 ### 也可以看看
 
@@ -46,7 +46,7 @@ public static ColorPalette CopyPalette(IColorPalette colorPalette)
 
 ### 返回值
 
-新创建和复制的调色板，如果 null 调色板通过，则为 null。
+新创建和复制的调色板，如果通过了 null 调色板，则为 null。
 
 ### 也可以看看
 

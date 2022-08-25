@@ -1,14 +1,14 @@
 ---
 title: LayerMaskFlags
 second_title: Справочник по Aspose.PSD для .NET API
-description: Флаги маски слоя
+description: Маска слоя flags
 type: docs
-weight: 2210
+weight: 2250
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskflags/
 ---
 ## LayerMaskFlags enumeration
 
-Флаги маски слоя
+Маска слоя flags
 
 ```csharp
 [Flags]

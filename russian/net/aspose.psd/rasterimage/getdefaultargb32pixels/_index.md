@@ -1,7 +1,7 @@
 ---
 title: GetDefaultArgb32Pixels
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает массив 32-битных пикселей ARGB по умолчанию.
+description: Получает массив 32битных пикселей ARGB по умолчанию.
 type: docs
 weight: 280
 url: /ru/net/aspose.psd/rasterimage/getdefaultargb32pixels/

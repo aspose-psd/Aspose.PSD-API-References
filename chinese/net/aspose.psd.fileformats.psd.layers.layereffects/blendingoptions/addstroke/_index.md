@@ -16,11 +16,11 @@ public StrokeEffect AddStroke(FillType fillType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fillType | FillType | 填充描边的类型。 |
+| fillType | FillType | 填充描边的填充类型。 |
 
 ### 返回值
 
-创建[`StrokeEffect`](../../strokeeffect)对象。
+已创建[`StrokeEffect`](../../strokeeffect)对象.
 
 ### 例子
 

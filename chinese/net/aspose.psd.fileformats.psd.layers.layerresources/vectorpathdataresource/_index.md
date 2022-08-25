@@ -1,14 +1,14 @@
 ---
 title: VectorPathDataResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 VectorPathDataResource 此资源包含有关矢量图层蒙版的信息
+description: 类 VectorPathDataResource. 此资源包含有关矢量图层掩码的信息
 type: docs
-weight: 3230
+weight: 3280
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/
 ---
 ## VectorPathDataResource class
 
-类 VectorPathDataResource。 此资源包含有关矢量图层蒙版的信息
+类 VectorPathDataResource. 此资源包含有关矢量图层掩码的信息
 
 ```csharp
 public abstract class VectorPathDataResource : LayerResource, IVectorPathData
@@ -18,11 +18,11 @@ public abstract class VectorPathDataResource : LayerResource, IVectorPathData
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | 获取或设置一个值，指示该实例是否被禁用。 |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | 获取或设置一个值，该值指示此实例是否被禁用。 |
 | [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | 获取或设置一个值，指示此实例是否反转。 |
 | [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked) { get; set; } | 获取或设置一个值，该值指示此实例是否未链接。 |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths) { get; set; } | 获取或设置路径记录。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature) { get; } | 获取签名。 |
@@ -33,11 +33,11 @@ public abstract class VectorPathDataResource : LayerResource, IVectorPathData
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ### 例子
 
-The以下示例演示了对图层矢量蒙版处理的支持。路径编辑的工作原理以及 Aspose.PSD 如何绘制最终图像。
+以下示例演示了对图层矢量蒙版处理的支持。路径编辑的工作原理以及 Aspose.PSD 如何绘制最终图像。
 
 ```csharp
 [C#]

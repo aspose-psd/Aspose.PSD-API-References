@@ -3,7 +3,7 @@ title: LayerEffectsTypes
 second_title: Справочник по Aspose.PSD для .NET API
 description: Эффекты наложения слоев
 type: docs
-weight: 2600
+weight: 2640
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
 ## LayerEffectsTypes enumeration
@@ -20,18 +20,18 @@ public enum LayerEffectsTypes
 | --- | --- | --- |
 | DropShadow | `0` | Тень |
 | OuterGlow | `1` | Внешнее свечение |
-| PatternOverlay | `2` | Наложение шаблона |
+| PatternOverlay | `2` | Наложение узора |
 | GradientOverlay | `3` | Наложение градиента |
 | ColorOverlay | `4` | Наложение цвета |
-| Satin | `5` | Тип эффекта атласа |
+| Satin | `5` | Тип сатинового эффекта |
 | InnerGlow | `6` | Внутреннее свечение |
 | InnerShadow | `7` | Внутренняя тень |
-| Stroke | `8` | Ход |
+| Stroke | `8` | Инсульт |
 | BevelEmboss | `9` | Тиснение скоса |
 
 ### Примеры
 
-Следующий код демонстрирует поддержку ILayerEffect.EffectType имущество.
+Следующий код демонстрирует поддержку свойства ILayerEffect.EffectType.
 
 ```csharp
 [C#]

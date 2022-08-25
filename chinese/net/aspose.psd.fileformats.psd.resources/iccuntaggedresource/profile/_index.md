@@ -16,7 +16,7 @@ public byte Profile { get; set; }
 
 ### 适当的价值
 
-个人资料。
+配置文件.
 
 ### 也可以看看
 

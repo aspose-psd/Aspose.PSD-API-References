@@ -3,7 +3,7 @@ title: TypeToolInfo6Resource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Информация о типе инструмента. Для версии PSD выше или равной 6.0.
 type: docs
-weight: 2980
+weight: 3030
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/
 ---
 ## TypeToolInfo6Resource class
@@ -18,7 +18,7 @@ public class TypeToolInfo6Resource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [TypeToolInfo6Resource](typetoolinfo6resource)(ClassID, ClassID) | Инициализирует новый экземпляр класса[`TypeToolInfo6Resource`](../typetoolinfo6resource). |
+| [TypeToolInfo6Resource](typetoolinfo6resource)(ClassID, ClassID) | Инициализирует новый экземпляр[`TypeToolInfo6Resource`](../typetoolinfo6resource) класс. |
 
 ## Характеристики
 
@@ -38,7 +38,7 @@ public class TypeToolInfo6Resource : LayerResource
 | [TextVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion) { get; set; } | Получает или задает текстовую версию. |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top) { get; set; } | Получает или задает верхнее расположение. |
 | [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/transformmatrix) { get; set; } | Получает или задает матрицу преобразования. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/version) { get; set; } | Получает или задает версию инструмента для ввода текста. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/version) { get; set; } | Получает или задает версию инструмента типа. |
 | [WarpClassID](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassid) { get; set; } | Получает или задает идентификатор класса. |
 | [WarpClassName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassname) { get; set; } | Получает или задает имя класса деформации. |
 | [WarpDescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpdescriptorversion) { get; set; } | Получает или задает версию дескриптора деформации. |
@@ -50,13 +50,13 @@ public class TypeToolInfo6Resource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

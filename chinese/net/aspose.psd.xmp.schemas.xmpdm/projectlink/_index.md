@@ -3,7 +3,7 @@ title: ProjectLink
 second_title: Aspose.PSD for .NET API 参考
 description: 代表项目的路径
 type: docs
-weight: 5740
+weight: 5790
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
 ## ProjectLink class
@@ -31,7 +31,7 @@ public sealed class ProjectLink : XmpTypeBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation)() | 以 XMP 格式返回字符串包含的值。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 
 ### 也可以看看
 

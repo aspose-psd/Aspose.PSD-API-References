@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/
 ---
 ## ITextStyle.IsEqual method
 
-判断指定样式是否相等。
+判断指定样式是否相等
 
 ```csharp
 public bool IsEqual(ITextStyle style)
@@ -20,11 +20,11 @@ public bool IsEqual(ITextStyle style)
 
 ### 返回值
 
-` true` 如果指定的样式相等；否则，` false` 。
+`真的`如果指定的样式相等；否则，`错误的` .
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

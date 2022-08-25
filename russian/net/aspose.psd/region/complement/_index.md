@@ -1,14 +1,14 @@
 ---
 title: Complement
 second_title: Справочник по Aspose.PSD для .NET API
-description: Обновляет этот файлRegionaspose.psd/region чтобы он содержал часть указанногоСтруктураRectangleF которая не пересекается с этойRegionaspose.psd/region.
+description: Обновляет этоRegionaspose.psd/region содержать часть указанногоRectangleFaspose.psd/rectanglef структура которая не пересекается с этимRegionaspose.psd/region .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/region/complement/
 ---
 ## Complement(RectangleF) {#complement_2}
 
-Обновляет этот файл[`Region`](../../region), чтобы он содержал часть указанногоСтруктураRectangleF, которая не пересекается с этой[`Region`](../../region).
+Обновляет это[`Region`](../../region) содержать часть указанного[`RectangleF`](../../rectanglef) структура, которая не пересекается с этим[`Region`](../../region) .
 
 ```csharp
 public void Complement(RectangleF rect)
@@ -16,7 +16,7 @@ public void Complement(RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)структура, дополняющая эту[`Region`](../../region). |
+| rect | RectangleF | [`RectangleF`](../../rectanglef) структура, дополняющая это[`Region`](../../region). |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public void Complement(RectangleF rect)
 
 ## Complement(Rectangle) {#complement_1}
 
-Обновляет этот файл[`Region`](../../region), чтобы он содержал часть указанногоСтруктураRectangle, которая не пересекается с этой[`Region`](../../region).
+Обновляет это[`Region`](../../region) содержать часть указанного[`Rectangle`](../../rectangle) структура, которая не пересекается с этим[`Region`](../../region) .
 
 ```csharp
 public void Complement(Rectangle rect)
@@ -37,7 +37,7 @@ public void Complement(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Структура[`Rectangle`](../../rectangle)для дополнения этой[`Region`](../../region). |
+| rect | Rectangle | [`Rectangle`](../../rectangle) структура, дополняющая это[`Region`](../../region). |
 
 ### Смотрите также
 
@@ -50,7 +50,7 @@ public void Complement(Rectangle rect)
 
 ## Complement(GraphicsPath) {#complement}
 
-Обновляет этот файл[`Region`](../../region), чтобы он содержал часть указанного[`GraphicsPath`](../../graphicspath)который не пересекается с этим[`Region`](../../region).
+Обновляет это[`Region`](../../region) содержать часть указанного[`GraphicsPath`](../../graphicspath) что не пересекается с этим[`Region`](../../region) .
 
 ```csharp
 public void Complement(GraphicsPath path)
@@ -58,13 +58,13 @@ public void Complement(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath)в дополнение к этому[`Region`](../../region). |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath) дополнить это[`Region`](../../region). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *path*isnull. |
+| ArgumentNullException | *path* isnull. |
 
 ### Смотрите также
 
@@ -77,7 +77,7 @@ public void Complement(GraphicsPath path)
 
 ## Complement(Region) {#complement_3}
 
-Обновляет этот файл[`Region`](../../region), чтобы он содержал часть указанного[`Region`](../../region)который не пересекается с этим[`Region`](../../region).
+Обновляет это[`Region`](../../region) содержать часть указанного[`Region`](../../region) что не пересекается с этим[`Region`](../../region) .
 
 ```csharp
 public void Complement(Region region)
@@ -85,13 +85,13 @@ public void Complement(Region region)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| region | Region | Объект[`Region`](../../region)для дополнения этого[`Region`](../../region)object. |
+| region | Region | [`Region`](../../region) объект, чтобы дополнить это[`Region`](../../region) объект. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *region*isnull. |
+| ArgumentNullException | *region* isnull. |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: RgbMixerChannel
 second_title: Aspose.PSD for .NET API 参考
-description: RgbChannel它是通道原始数据的包装器用于 MixrResource
+description: RGB通道它是通道原始数据的包装器在 MixrResource 中使用
 type: docs
 weight: 1810
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
 ## RgbMixerChannel class
 
-RgbChannel。它是通道原始数据的包装器。用于 MixrResource
+RGB通道。它是通道原始数据的包装器。在 MixrResource 中使用
 
 ```csharp
 public class RgbMixerChannel : MixerChannel

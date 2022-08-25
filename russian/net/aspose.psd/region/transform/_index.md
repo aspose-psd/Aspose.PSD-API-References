@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует этотRegionaspose.psd/regionпо указанномуMatrixaspose.psd/matrix.
+description: Преобразует этоRegionaspose.psd/region указаннымMatrixaspose.psd/matrix .
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/region/transform/
 ---
 ## Region.Transform method
 
-Преобразует этот[`Region`](../../region)по указанному[`Matrix`](../../matrix).
+Преобразует это[`Region`](../../region) указанным[`Matrix`](../../matrix) .
 
 ```csharp
 public void Transform(Matrix matrix)
@@ -16,13 +16,13 @@ public void Transform(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix)для преобразования этого[`Region`](../../region). |
+| matrix | Matrix | [`Matrix`](../../matrix) с помощью которого можно преобразовать это[`Region`](../../region). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *matrix*равно нулю. |
+| ArgumentNullException | *matrix* нулевой. |
 
 ### Смотрите также
 

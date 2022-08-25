@@ -1,14 +1,14 @@
 ---
 title: ShutterSpeedValue
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение скорости затвора.
+description: Получает или устанавливает значение скорости затвора.
 type: docs
 weight: 950
 url: /ru/net/aspose.psd.exif/exifdata/shutterspeedvalue/
 ---
 ## ExifData.ShutterSpeedValue property
 
-Получает или задает значение скорости затвора.
+Получает или устанавливает значение скорости затвора.
 
 ```csharp
 public TiffSRational ShutterSpeedValue { get; set; }
@@ -16,7 +16,7 @@ public TiffSRational ShutterSpeedValue { get; set; }
 
 ### Стоимость имущества
 
-Значение выдержки.
+Значение скорости затвора.
 
 ### Смотрите также
 

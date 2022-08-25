@@ -3,7 +3,7 @@ title: LnsrResourceType
 second_title: Справочник по Aspose.PSD для .NET API
 description: Обнаружены возможные типы ресурсов Lnsr
 type: docs
-weight: 2700
+weight: 2740
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
 ## LnsrResourceType enumeration
@@ -18,10 +18,10 @@ public enum LnsrResourceType
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Rend | `0` | Разрыв текста |
-| Cont | `1` | Продолжение слоя заливки, например |
-| Bgnd | `2` | Bgnd для фонового слоя |
-| Layr | `3` | Слой для обычного слоя изображения |
+| Rend | `0` | Разрыв для text |
+| Cont | `1` | Продолжение слоя заливки для примера |
+| Bgnd | `2` | Фон для фонового слоя |
+| Layr | `3` | Слой для обычного изображения layer |
 | Unknown | `4` | Неизвестное для ситуации, когда мы не описали enum |
 
 ### Смотрите также

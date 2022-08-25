@@ -1,14 +1,14 @@
 ---
 title: Scale
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置比例
+description: 获取或设置比例尺
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
 ## IGradientFillSettings.Scale property
 
-获取或设置比例。
+获取或设置比例尺。
 
 ```csharp
 public int Scale { get; set; }
@@ -16,11 +16,11 @@ public int Scale { get; set; }
 
 ### 适当的价值
 
-比例尺。
+比例尺.
 
 ### 例子
 
-下面的例子演示了如何使用 Scale 属性来缩放 FillLayer 的渐变。
+下面的示例演示如何使用 Scale 属性对 FillLayer 进行渐变。
 
 ```csharp
 [C#]

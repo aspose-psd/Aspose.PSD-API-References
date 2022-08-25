@@ -16,7 +16,7 @@ public LayerEffectsTypes EffectType { get; }
 
 ### Примеры
 
-Следующий код демонстрирует поддержку Свойство ILayerEffect.EffectType.
+Следующий код демонстрирует поддержку свойства ILayerEffect.EffectType.
 
 ```csharp
 [C#]

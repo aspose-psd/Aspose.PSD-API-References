@@ -1,14 +1,14 @@
 ---
 title: FXidTypeToolKey
 second_title: Aspose.PSD for .NET API 参考
-description: 类型工具信息键 FXid
+description: 类型工具信息键 FXid.
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/
 ---
 ## FXidResource.FXidTypeToolKey field
 
-类型工具信息键 FXid。
+类型工具信息键 FXid.
 
 ```csharp
 public const int FXidTypeToolKey;

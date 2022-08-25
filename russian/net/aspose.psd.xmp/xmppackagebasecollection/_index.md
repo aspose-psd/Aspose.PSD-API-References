@@ -1,14 +1,14 @@
 ---
 title: XmpPackageBaseCollection
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет коллекциюXmpPackage./xmppackage.
+description: Представляет наборXmpPackage./xmppackage .
 type: docs
-weight: 6160
+weight: 6210
 url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/
 ---
 ## XmpPackageBaseCollection class
 
-Представляет коллекцию[`XmpPackage`](../xmppackage).
+Представляет набор[`XmpPackage`](../xmppackage) .
 
 ```csharp
 public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
@@ -30,11 +30,11 @@ public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add)(XmpPackage) | Добавляет новый экземпляр[`XmpPackage`](../xmppackage). |
-| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear)() | Очистить все[`XmpPackage`](../xmppackage)внутри коллекции. |
+| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add)(XmpPackage) | Добавляет новый экземпляр[`XmpPackage`](../xmppackage) . |
+| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear)() | Очистить все[`XmpPackage`](../xmppackage) внутри коллекции. |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
-| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage)(string) | Получает[`XmpPackage`](../xmppackage)по его namespaceURI. |
-| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages)() | Получить массив[`XmpPackage`](../xmppackage). |
+| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage)(string) | получает[`XmpPackage`](../xmppackage) по его namespaceURI. |
+| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages)() | Получить массив[`XmpPackage`](../xmppackage) . |
 | [Remove](../../aspose.psd.xmp/xmppackagebasecollection/remove)(XmpPackage) | Удаляет указанный пакет XMP. |
 
 ### Смотрите также

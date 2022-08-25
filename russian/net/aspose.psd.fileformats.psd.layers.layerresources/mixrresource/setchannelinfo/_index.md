@@ -23,7 +23,7 @@ public void SetChannelInfo(int channelIndex, byte[] value)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Ресурс Mixr имеет не более 4 каналов. Индекс первого канала равен 0 |
+| ArgumentException | Ресурс Mixr имеет не более 4 каналов. Индекс Первого канала равен 0 |
 
 ### Смотрите также
 

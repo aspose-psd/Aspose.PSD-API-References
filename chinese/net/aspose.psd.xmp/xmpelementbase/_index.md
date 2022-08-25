@@ -3,7 +3,7 @@ title: XmpElementBase
 second_title: Aspose.PSD for .NET API 参考
 description: 表示基本 xmp 元素包含属性
 type: docs
-weight: 6120
+weight: 6170
 url: /zh/net/aspose.psd.xmp/xmpelementbase/
 ---
 ## XmpElementBase class
@@ -20,8 +20,8 @@ public abstract class XmpElementBase : IEquatable<XmpElementBase>
 | --- | --- |
 | virtual [AddAttribute](../../aspose.psd.xmp/xmpelementbase/addattribute)(string, string) | 添加属性。 |
 | virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes)() | 删除所有属性。 |
-| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals#equals_1)(object) | 确定指定的Object是否等于此实例。 |
-| [Equals](../../aspose.psd.xmp/xmpelementbase/equals#equals)(XmpElementBase) | 表示当前对象是否等于另一个相同类型的对象。 |
+| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals#equals_1)(object) | 判断是否指定Object 等于这个实例。 |
+| [Equals](../../aspose.psd.xmp/xmpelementbase/equals#equals)(XmpElementBase) | 表示当前对象是否等于另一个同类型的对象。 |
 | virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute)(string) | 获取属性。 |
 | override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode)() | 返回此实例的哈希码。 |
 

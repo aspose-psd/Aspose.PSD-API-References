@@ -1,14 +1,14 @@
 ---
 title: SharpenFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Параметры фильтра Резкость
+description: Параметры фильтра резкости
 type: docs
-weight: 4620
+weight: 4670
 url: /ru/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
 ## SharpenFilterOptions class
 
-Параметры фильтра "Резкость"
+Параметры фильтра резкости
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
@@ -18,15 +18,15 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 | Имя | Описание |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions#constructor)() | Инициализирует новый экземпляр класса[`SharpenFilterOptions`](../sharpenfilteroptions). С настройками по умолчанию. |
-| [SharpenFilterOptions](sharpenfilteroptions#constructor_1)(int, double) | Инициализирует новый экземпляр класса[`SharpenFilterOptions`](../sharpenfilteroptions). |
+| [SharpenFilterOptions](sharpenfilteroptions#constructor)() | Инициализирует новый экземпляр[`SharpenFilterOptions`](../sharpenfilteroptions) class. С настройками по умолчанию. |
+| [SharpenFilterOptions](sharpenfilteroptions#constructor_1)(int, double) | Инициализирует новый экземпляр[`SharpenFilterOptions`](../sharpenfilteroptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias) { get; set; } | Получает или задает смещение. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor) { get; set; } | Получает или задает коэффициент. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor) { get; set; } | Получает или задает фактор. |
 | [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma) { get; set; } | Получает или задает сигму. |
 | [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size) { get; set; } | Получает или задает размер. |
 

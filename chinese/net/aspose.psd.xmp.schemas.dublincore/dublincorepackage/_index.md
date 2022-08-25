@@ -3,7 +3,7 @@ title: DublinCorePackage
 second_title: Aspose.PSD for .NET API 参考
 description: 表示 Dublic Core 架构
 type: docs
-weight: 5660
+weight: 5710
 url: /zh/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/
 ---
 ## DublinCorePackage class
@@ -24,7 +24,7 @@ public sealed class DublinCorePackage : XmpPackage
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | 获取或设置具有指定键的Object。 |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | 获取或设置Object使用指定的密钥。 |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | 获取 XMP 包中的密钥。 |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | 获取命名空间 URI。 |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | 获取前缀。 |
@@ -36,10 +36,10 @@ public sealed class DublinCorePackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue)(string, string) | 添加字符串属性。 |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | 清除此实例。 |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | 判断指定的key是否包含key。 |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | 判断指定key是否包含key。 |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | 将 XMP 值转换为 XML 表示形式。 |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | 删除具有指定键的值。 |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | 删除指定键的值。 |
 | [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor#setauthor)(string) | 添加作者。 |
 | [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor#setauthor_1)(string[]) | 添加作者。 |
 | [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription#setdescription)(LangAlt) | 添加描述。 |
@@ -55,7 +55,7 @@ public sealed class DublinCorePackage : XmpPackage
 
 ### 评论
 
-如需更多信息，请参阅：http://dublincore.org/documents/usageguide/elements.shtml。
+欲了解更多信息，请参阅：http://dublincore.org/documents/usageguide/elements.shtml.
 
 ### 也可以看看
 

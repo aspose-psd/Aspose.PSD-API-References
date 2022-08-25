@@ -16,13 +16,13 @@ public short OutputHighlightLevel { get; set; }
 
 ### Стоимость имущества
 
-Выходной уровень подсветки.
+Уровень подсветки вывода.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Уровень подсветки вывода может быть установлен только в диапазоне от " + (this.OutputShadowLevel + 2) + " до 255 |
+| ArgumentOutOfRangeException | Выходной уровень подсветки может быть установлен только в диапазоне от " + (this.OutputShadowLevel + 2) + " до 255 |
 
 ### Смотрите также
 

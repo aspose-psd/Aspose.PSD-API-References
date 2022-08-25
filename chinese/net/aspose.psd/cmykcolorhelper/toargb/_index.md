@@ -16,7 +16,7 @@ public static Color[] ToArgb(int[] cmykPixels)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cmykPixels | Int32[] | CMYK 颜色呈现为 32 位整数值。 |
+| cmykPixels | Int32[] | CMYK 颜色显示为 32 位整数值。 |
 
 ### 返回值
 
@@ -41,7 +41,7 @@ public static Color ToArgb(int cmykPixel)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cmykPixel | Int32 | CMYK 颜色呈现为 32 位整数值。 |
+| cmykPixel | Int32 | CMYK 颜色显示为 32 位整数值。 |
 
 ### 返回值
 

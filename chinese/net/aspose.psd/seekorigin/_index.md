@@ -1,14 +1,14 @@
 ---
 title: SeekOrigin
 second_title: Aspose.PSD for .NET API 参考
-description: 在StreamContainer./streamcontainer中提供代表参考点的字段以供查找
+description: 提供代表参考点的字段StreamContainer./streamcontainer寻求.
 type: docs
-weight: 5290
+weight: 5340
 url: /zh/net/aspose.psd/seekorigin/
 ---
 ## SeekOrigin enumeration
 
-在[`StreamContainer`](../streamcontainer)中提供代表参考点的字段以供查找。
+提供代表参考点的字段[`StreamContainer`](../streamcontainer)寻求.
 
 ```csharp
 public enum SeekOrigin

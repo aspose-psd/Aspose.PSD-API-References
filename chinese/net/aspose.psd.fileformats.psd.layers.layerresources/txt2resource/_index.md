@@ -1,14 +1,14 @@
 ---
 title: Txt2Resource
 second_title: Aspose.PSD for .NET API 参考
-description: Txt2 资源类
+description: txt2资源类
 type: docs
-weight: 2960
+weight: 3010
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/
 ---
 ## Txt2Resource class
 
-Txt2 资源类
+txt2资源类
 
 ```csharp
 public class Txt2Resource : LayerResource
@@ -25,8 +25,8 @@ public class Txt2Resource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data) { get; set; } | 获取或设置数据。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/signature) { get; } | 获取图层资源签名。 |
 
@@ -37,7 +37,7 @@ public class Txt2Resource : LayerResource
 | [AddTextRecord](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord)(string, RectangleF) | 将文本记录添加到 Resource 并返回文本记录的 id。 |
 | [GetTextData](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata)() | 从资源数据中获取文本记录。 |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/save)(StreamContainer, int) | 保存指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

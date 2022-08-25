@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует указанную структуруRectangleaspose.psd/rectangleвRectangleFaspose.psd/rectanglefструктура.
+description: Преобразует указанныйRectangleaspose.psd/rectangle структура кRectangleFaspose.psd/rectanglefструктура.
 type: docs
 weight: 280
 url: /ru/net/aspose.psd/rectanglef/op_implicit/
 ---
 ## RectangleF Implicit operator
 
-Преобразует указанную структуру[`Rectangle`](../../rectangle)в[`RectangleF`](../../rectanglef)структура.
+Преобразует указанный[`Rectangle`](../../rectangle) структура к[`RectangleF`](../../rectanglef)структура.
 
 ```csharp
 public static implicit operator RectangleF(Rectangle rect)
@@ -16,11 +16,11 @@ public static implicit operator RectangleF(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | Структура[`Rectangle`](../../rectangle)для преобразования. |
+| rect | Rectangle | [`Rectangle`](../../rectangle) структура для преобразования. |
 
 ### Возвращаемое значение
 
-Структура[`RectangleF`](../../rectanglef), преобразованная из указаннойПрямоугольникструктура.
+[`RectangleF`](../../rectanglef)структура, преобразованная из указанного[`Rectangle`](../../rectangle) структура.
 
 ### Смотрите также
 

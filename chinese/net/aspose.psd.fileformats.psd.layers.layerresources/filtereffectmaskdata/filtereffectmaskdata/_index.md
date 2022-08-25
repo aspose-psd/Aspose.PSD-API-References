@@ -1,14 +1,14 @@
 ---
 title: FilterEffectMaskData
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化FilterEffectMaskDataaspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata类的新实例
+description: 初始化FilterEffectMaskDataaspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/filtereffectmaskdata/
 ---
 ## FilterEffectMaskData constructor
 
-初始化[`FilterEffectMaskData`](../../filtereffectmaskdata)类的新实例。
+初始化[`FilterEffectMaskData`](../../filtereffectmaskdata)类.
 
 ```csharp
 public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, int maxChannels, 
@@ -18,14 +18,14 @@ public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, i
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| guid | String | 资源 guid。 |
+| guid | String | 资源指南。 |
 | rectangle | Rectangle | 通道矩形。 |
 | pixelsDepth | Int32 | 像素深度。 |
 | maxChannels | Int32 | 最大通道值。 |
-| channels | ChannelInformation[] | 频道。 |
+| channels | ChannelInformation[] | 渠道。 |
 | userMask | ChannelInformation | 用户掩码。 |
 | maskRectangle | Rectangle | 工作表蒙版矩形。 |
-| sheetMask | ChannelInformation | 工作表掩码。 |
+| sheetMask | ChannelInformation | 片状面膜。 |
 
 ### 例子
 

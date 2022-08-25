@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сохраняет данные изображения в основной поток.
+description: Сохраняет данные изображения в базовый поток.
 type: docs
 weight: 230
 url: /ru/net/aspose.psd/image/save/
 ---
 ## Save() {#save}
 
-Сохраняет данные изображения в основной поток.
+Сохраняет данные изображения в базовый поток.
 
 ```csharp
 public void Save()
@@ -37,7 +37,7 @@ public virtual void Save(string filePath, ImageOptionsBase options)
 
 ### Примеры
 
-В следующем примере показано, как можно экспортировать файлы Adobe Illustrator в формат PDF в Aspose.PSD
+В следующем примере показано, как вы можете экспортировать файлы Adobe Illustrator в формат PDF в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -50,7 +50,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-Следующий пример демонстрирует, что AsposePSD поддерживает экспорт файлов PSB в формат PSD.
+В следующем примере показано, что AsposePSD поддерживает экспорт файлов PSB в формат PSD.
 
 ```csharp
 [C#]
@@ -80,7 +80,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-В следующем примере показано, как вы можете экспортировать AI-файл в формат PSD и PNG в Aspose.PSD
+В следующем примере показано, как вы можете экспортировать файл AI в формат PSD и PNG в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -114,7 +114,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-В этом примере показаны простые шаги для сохранения изображения. Чтобы продемонстрировать эту операцию, мы загружаем существующий файл из некоторого места на диске, выполняем операцию поворота изображения и сохраняем изображение в формате файла Jpeg, используя путь к файлу
+В этом примере показаны простые шаги для сохранения изображения. Чтобы продемонстрировать эту операцию, мы загружаем существующий файл из некоторого места на диске, выполняем операцию поворота изображения и сохраняем изображение в формате файла Jpeg, используя путь к файлу.
 
 ```csharp
 [C#]
@@ -130,7 +130,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-Следующее Пример демонстрирует, как вы можете изменить видимость LayerGroup в Aspose.PSD
+В следующем примере показано, как можно изменить видимость LayerGroup в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -156,7 +156,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-В следующем примере показано, как вы можете рисовать на вновь созданном слое, если в Aspose используется версия простого конструктора .PSD
+В следующем примере показано, как можно рисовать на вновь созданном слое, если в Aspose.PSD используется версия простого конструктора.
 
 ```csharp
 [C#]
@@ -218,7 +218,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-В следующем примере показано, что чтение и сохранение 16-битных PSD-файлов оттенков серого в 8-битных оттенках серого работает правильно и без исключений.
+В следующем примере показано, что чтение и сохранение 16-битных файлов PSD в оттенках серого в 8-битных оттенках серого на канал работает правильно и без исключений.
 
 ```csharp
 [C#]
@@ -251,7 +251,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-В следующем примере показано, как можно использовать режим наложения слоя PassThrough в Aspose.PSD
+В следующем примере показано, как можно использовать режим наложения слоя PassThrough в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -292,7 +292,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Следующий пример демонстрирует, что процесс преобразования документов работает корректно и без исключений.
+В следующем примере показано, что процесс преобразования документов работает правильно и без исключений.
 
 ```csharp
 [C#]
@@ -418,15 +418,15 @@ public virtual void Save(string filePath, ImageOptionsBase options, Rectangle bo
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filePath | String | Путь к файлу. |
-| options | ImageOptionsBase | Опции. |
-| boundsRectangle | Rectangle | Конечный прямоугольник, ограничивающий изображение. Установите пустой прямоугольник для использования исходных границ. |
+| options | ImageOptionsBase | Варианты. |
+| boundsRectangle | Rectangle | Конечный образ ограничивает прямоугольник. Установите пустой прямоугольник для использования исходных границ. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | options |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | Image сохранение не удалось. |
+| ArgumentNullException | опции |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | Не удалось сохранить изображение. |
 
 ### Смотрите также
 
@@ -449,19 +449,19 @@ public void Save(Stream stream, ImageOptionsBase optionsBase)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток, в который сохраняются данные изображения. |
-| optionsBase | ImageOptionsBase | Параметры сохранения. |
+| optionsBase | ImageOptionsBase | Варианты сохранения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | optionsBase |
-| ArgumentException | Не удается сохранить в указанный формат, так как в настоящее время он не поддерживается.;optionsBase |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | Ошибка экспорта изображения. |
+| ArgumentNullException | вариантыБаза |
+| ArgumentException | Невозможно сохранить в указанном формате, так как в данный момент он не поддерживается.;optionsBase |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | Не удалось экспортировать изображение. |
 
 ### Примеры
 
-В этом примере показан процесс сохранения изображения в MemoryStream. Чтобы продемонстрировать эту операцию, пример загружает существующий файл из некоторого места на диске, выполняет операцию поворота изображения и сохраняет изображение в формате Gif
+В этом примере показан процесс сохранения изображения в MemoryStream. Чтобы продемонстрировать эту операцию, пример загружает существующий файл из некоторого места на диске, выполняет операцию поворота изображения и сохраняет изображение в формате Gif.
 
 ```csharp
 [C#]
@@ -501,16 +501,16 @@ public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток, в который сохраняются данные изображения. |
-| optionsBase | ImageOptionsBase | Параметры сохранения. |
-| boundsRectangle | Rectangle | Конечный прямоугольник, ограничивающий изображение. Установите пустой прямоугольник для использования исходных границ. |
+| optionsBase | ImageOptionsBase | Варианты сохранения. |
+| boundsRectangle | Rectangle | Конечный образ ограничивает прямоугольник. Установите пустой прямоугольник для использования исходных границ. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | optionsBase |
-| ArgumentException | Не удается сохранить в указанный формат, так как в настоящее время он не поддерживается.;optionsBase |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | Ошибка экспорта изображения. |
+| ArgumentNullException | вариантыБаза |
+| ArgumentException | Невозможно сохранить в указанном формате, так как в данный момент он не поддерживается.;optionsBase |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | Не удалось экспортировать изображение. |
 
 ### Смотрите также
 

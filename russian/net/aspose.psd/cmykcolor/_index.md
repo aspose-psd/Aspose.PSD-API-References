@@ -18,19 +18,19 @@ public struct CmykColor
 
 | Имя | Описание |
 | --- | --- |
-| static [Empty](../../aspose.psd/cmykcolor/empty) { get; } | Получает пустое значение. |
-| [C](../../aspose.psd/cmykcolor/c) { get; } | Получает значение голубого компонента этой[`Color`](../color)структуры. |
-| [IsEmpty](../../aspose.psd/cmykcolor/isempty) { get; } | Получает значение, указывающее, является ли эта структура[`Color`](../color)неинициализированной. |
-| [K](../../aspose.psd/cmykcolor/k) { get; } | Получает значение черного компонента этой[`Color`](../color)структуры. |
-| [M](../../aspose.psd/cmykcolor/m) { get; } | Получает значение пурпурного компонента этой[`Color`](../color)структуры. |
-| [Y](../../aspose.psd/cmykcolor/y) { get; } | Получает значение желтого компонента этой[`Color`](../color)структуры. |
+| static [Empty](../../aspose.psd/cmykcolor/empty) { get; } | Получает пустой. |
+| [C](../../aspose.psd/cmykcolor/c) { get; } | Получает значение голубого компонента этого[`Color`](../color)структура. |
+| [IsEmpty](../../aspose.psd/cmykcolor/isempty) { get; } | Получает значение, указывающее, является ли это[`Color`](../color) структура не инициализирована. |
+| [K](../../aspose.psd/cmykcolor/k) { get; } | Получает значение черного компонента этого[`Color`](../color)структура. |
+| [M](../../aspose.psd/cmykcolor/m) { get; } | Получает значение пурпурного компонента этого[`Color`](../color)структура. |
+| [Y](../../aspose.psd/cmykcolor/y) { get; } | Получает значение желтого компонента этого[`Color`](../color)структура. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.psd/cmykcolor/equals)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
-| override [GetHashCode](../../aspose.psd/cmykcolor/gethashcode)() | Полученный хэш-код. |
+| override [Equals](../../aspose.psd/cmykcolor/equals)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
+| override [GetHashCode](../../aspose.psd/cmykcolor/gethashcode)() | Полученный хеш-код. |
 | [ToValue](../../aspose.psd/cmykcolor/tovalue)() | Значение для. |
 
 ### Смотрите также

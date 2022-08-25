@@ -20,7 +20,7 @@ public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 
 ### 例子
 
-以下示例演示了渐变填充层支持和 IGradientFillSettings 编辑选项。
+以下示例演示了渐变填充图层支持和 IGradientFillSettings 编辑选项。
 
 ```csharp
 [C#]

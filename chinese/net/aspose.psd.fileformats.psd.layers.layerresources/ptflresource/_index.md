@@ -3,7 +3,7 @@ title: PtFlResource
 second_title: Aspose.PSD for .NET API 参考
 description: 类 PtFlResource包含图案填充图层数据
 type: docs
-weight: 2880
+weight: 2930
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 ## PtFlResource class
@@ -18,21 +18,21 @@ public class PtFlResource : FillLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PtFlResource](ptflresource)(string, string) | 初始化[`PtFlResource`](../ptflresource)类的新实例。 |
+| [PtFlResource](ptflresource)(string, string) | 初始化[`PtFlResource`](../ptflresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer) { get; set; } | 获取或设置一个值，指示是否[与图层对齐]。 |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer) { get; set; } | 获取或设置一个值，该值指示是否[与图层对齐]。 |
 | [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer) { get; set; } | 获取或设置一个值，该值指示此实例是否与图层链接。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset) { get; set; } | 获取或设置偏移量。 |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid) { get; set; } | 获取或设置模式标识符。 |
 | [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname) { get; set; } | 获取或设置模式的名称。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale) { get; set; } | 获取或设置比例。 |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale) { get; set; } | 获取或设置比例尺。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature) { get; } | 获取图层资源签名。 |
 
 ## 方法
@@ -40,7 +40,7 @@ public class PtFlResource : FillLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
@@ -50,7 +50,7 @@ public class PtFlResource : FillLayerResource
 
 ### 例子
 
-以下示例演示了对加载和编辑 PtFlResource 资源的支持.
+以下示例演示了对加载和编辑 PtFlResource 资源的支持。
 
 ```csharp
 [C#]

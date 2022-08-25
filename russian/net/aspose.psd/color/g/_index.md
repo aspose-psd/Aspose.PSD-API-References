@@ -1,14 +1,14 @@
 ---
 title: G
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение зеленого компонента этойColoraspose.psd/colorструктуры.
+description: Получает значение зеленого компонента этогоColoraspose.psd/colorструктура.
 type: docs
 weight: 1480
 url: /ru/net/aspose.psd/color/g/
 ---
 ## Color.G property
 
-Получает значение зеленого компонента этой[`Color`](../../color)структуры.
+Получает значение зеленого компонента этого[`Color`](../../color)структура.
 
 ```csharp
 public byte G { get; }

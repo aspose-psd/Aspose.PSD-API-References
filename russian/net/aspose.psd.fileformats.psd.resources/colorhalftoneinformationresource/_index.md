@@ -1,14 +1,14 @@
 ---
 title: ColorHalftoneInformationResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Ресурс полутонов
+description: Полутоновый ресурс
 type: docs
-weight: 3560
+weight: 3610
 url: /ru/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/
 ---
 ## ColorHalftoneInformationResource class
 
-Ресурс полутонов
+Полутоновый ресурс
 
 ```csharp
 public sealed class ColorHalftoneInformationResource : ResourceBlock
@@ -28,9 +28,9 @@ public sealed class ColorHalftoneInformationResource : ResourceBlock
 | [HalftoneData](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata) { get; set; } | Получает или задает данные полутонов. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 
 ## Методы
 

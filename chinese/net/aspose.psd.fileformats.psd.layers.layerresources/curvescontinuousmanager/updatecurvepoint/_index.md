@@ -16,7 +16,7 @@ public void UpdateCurvePoint(int channelIndex, int pointIndex, byte x, byte y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
+| channelIndex | Int32 | 频道索引。 |
 | pointIndex | Int32 | 点的索引。 |
 | x | Byte | x 位置。 |
 | y | Byte | y 位置。 |

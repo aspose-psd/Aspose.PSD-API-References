@@ -3,7 +3,7 @@ title: IText
 second_title: Справочник по Aspose.PSD для .NET API
 description: Интерфейс редактирования текста для текстовых слоев
 type: docs
-weight: 3400
+weight: 3450
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
 ## IText interface
@@ -26,15 +26,15 @@ public interface IText
 | Имя | Описание |
 | --- | --- |
 | [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion)(ITextPortion) | Добавляет часть текста в конец |
-| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion)(ITextPortion, int) | Вставляет[`ITextPortion`](../itextportion)в указанную позицию |
+| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion)(ITextPortion, int) | Вставляет[`ITextPortion`](../itextportion) в указанную позицию |
 | [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion)() | Создает новую порцию с параметрами по умолчанию |
-| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions)(string[], ITextStyle, ITextParagraph) | Создает новые части с входными параметрами или параметрами по умолчанию. |
-| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion)(int) | Удаляет часть в указанном индексе |
+| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions)(string[], ITextStyle, ITextParagraph) | Создает новые порции с входными параметрами или параметрами по умолчанию. |
+| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion)(int) | Удаляет часть в указанном index |
 | [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata)() | Обновляет данные слоя. |
 
 ### Примеры
 
-Следующий пример кода демонстрирует редактирование текстовых частей и их стиль текста.
+В следующем примере кода показано редактирование текстовых частей и стиля их текста.
 
 ```csharp
 [C#]

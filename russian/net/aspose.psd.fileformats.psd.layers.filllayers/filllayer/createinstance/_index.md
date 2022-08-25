@@ -1,14 +1,14 @@
 ---
 title: CreateInstance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создайте новый экземпляр классаFillLayeraspose.psd.fileformats.psd.layers.filllayers/filllayerпо типу заливки.
+description: Создайте новый экземплярFillLayeraspose.psd.fileformats.psd.layers.filllayers/filllayer класс по типу заливки.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
 ## FillLayer.CreateInstance method
 
-Создайте новый экземпляр класса[`FillLayer`](../../filllayer)по типу заливки.
+Создайте новый экземпляр[`FillLayer`](../../filllayer) класс по типу заливки.
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
@@ -16,11 +16,11 @@ public static FillLayer CreateInstance(FillType fillType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fillType | FillType | Тип слоя заливки. |
+| fillType | FillType | Тип заливочного слоя. |
 
 ### Возвращаемое значение
 
-Возвращает новый экземпляр класса[`FillLayer`](../../filllayer)по типу заливки .
+Возвращает новый экземпляр[`FillLayer`](../../filllayer) класс по типу заполнения.
 
 ### Примеры
 

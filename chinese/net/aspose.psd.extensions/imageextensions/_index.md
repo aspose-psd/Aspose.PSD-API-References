@@ -1,14 +1,14 @@
 ---
 title: ImageExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: 包含基于Image和Image../aspose.psd/image的转换扩展方法
+description: 包含基于转换的扩展方法Image和Image../aspose.psd/image .
 type: docs
 weight: 1120
 url: /zh/net/aspose.psd.extensions/imageextensions/
 ---
 ## ImageExtensions class
 
-包含基于Image和[`Image`](../../aspose.psd/image)的转换扩展方法。
+包含基于转换的扩展方法Image和[`Image`](../../aspose.psd/image) .
 
 ```csharp
 public static class ImageExtensions

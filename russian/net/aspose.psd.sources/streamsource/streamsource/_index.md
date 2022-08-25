@@ -1,14 +1,14 @@
 ---
 title: StreamSource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаStreamSourceaspose.psd.sources/streamsource.
+description: Инициализирует новый экземплярStreamSourceaspose.psd.sources/streamsource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.sources/streamsource/streamsource/
 ---
 ## StreamSource(Stream) {#constructor}
 
-Инициализирует новый экземпляр класса[`StreamSource`](../../streamsource).
+Инициализирует новый экземпляр[`StreamSource`](../../streamsource) класс.
 
 ```csharp
 public StreamSource(Stream stream)
@@ -16,11 +16,11 @@ public StreamSource(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, который необходимо открыть. |
+| stream | Stream | Поток открыть. |
 
 ### Примеры
 
-В этом примере показано, как загружать информацию о пикселях в массив цветов типа, манипулировать массивом и возвращать его в изображение. Для выполнения этих операций в этом примере создается новый файл изображения (в формате PSD) с использованием объекта MemoryStream.
+В этом примере показано, как загрузить информацию о пикселях в массив цвета типа, манипулировать массивом и установить его обратно в изображение. Для выполнения этих операций в этом примере создается новый файл изображения (в формате PSD) с использованием объекта MemoryStream.
 
 ```csharp
 [C#]
@@ -75,7 +75,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 
 ## StreamSource(Stream, bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`StreamSource`](../../streamsource).
+Инициализирует новый экземпляр[`StreamSource`](../../streamsource) класс.
 
 ```csharp
 public StreamSource(Stream stream, bool disposeStream)
@@ -83,12 +83,12 @@ public StreamSource(Stream stream, bool disposeStream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, который необходимо открыть. |
-| disposeStream | Boolean | если установлено значение` true` поток будет удален. |
+| stream | Stream | Поток открыть. |
+| disposeStream | Boolean | если установлено`истинный` поток будет удален. |
 
 ### Примеры
 
-Этот пример демонстрирует использование System.IO.Stream для создания нового файла образа
+В этом примере демонстрируется использование System.IO.Stream для создания нового файла изображения.
 
 ```csharp
 [C#]

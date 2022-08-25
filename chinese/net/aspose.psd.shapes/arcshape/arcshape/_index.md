@@ -1,14 +1,14 @@
 ---
 title: ArcShape
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ArcShapeaspose.psd.shapes/arcshape类的新实例
+description: 初始化ArcShapeaspose.psd.shapes/arcshape类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapes/arcshape/arcshape/
 ---
 ## ArcShape() {#constructor}
 
-初始化[`ArcShape`](../../arcshape)类的新实例。
+初始化[`ArcShape`](../../arcshape)类.
 
 ```csharp
 public ArcShape()
@@ -24,7 +24,7 @@ public ArcShape()
 
 ## ArcShape(RectangleF, float, float) {#constructor_1}
 
-初始化[`ArcShape`](../../arcshape)类的新实例。
+初始化[`ArcShape`](../../arcshape)类.
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle)
@@ -47,7 +47,7 @@ public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle)
 
 ## ArcShape(RectangleF, float, float, bool) {#constructor_2}
 
-初始化[`ArcShape`](../../arcshape)类的新实例。
+初始化[`ArcShape`](../../arcshape)类.
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle, bool isClosed)
@@ -58,7 +58,7 @@ public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle, bool i
 | rectangle | RectangleF | 矩形。 |
 | startAngle | Single | 起始角度。 |
 | sweepAngle | Single | 扫掠角。 |
-| isClosed | Boolean | 如果设置为` true` ，则弧是闭合的。闭合弧实际上退化为椭圆。 |
+| isClosed | Boolean | 如果设置为`真的`弧是闭合的。闭合弧实际上退化为椭圆。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: IBufferProcessor
 second_title: Aspose.PSD for .NET API 参考
-description: 缓冲区处理器
+description: 缓冲处理器
 type: docs
-weight: 4250
+weight: 4300
 url: /zh/net/aspose.psd/ibufferprocessor/
 ---
 ## IBufferProcessor interface
 
-缓冲区处理器。
+缓冲处理器。
 
 ```csharp
 public interface IBufferProcessor

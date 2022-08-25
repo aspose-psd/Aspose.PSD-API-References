@@ -1,14 +1,14 @@
 ---
 title: DrawRectangles
 second_title: Справочник по Aspose.PSD для .NET API
-description: Рисует ряд прямоугольников заданных структурамиRectangleFaspose.psd/rectanglef.
+description: Рисует серию прямоугольников указанныхRectangleFaspose.psd/rectanglef структуры.
 type: docs
 weight: 310
 url: /ru/net/aspose.psd/graphics/drawrectangles/
 ---
 ## DrawRectangles(Pen, RectangleF[]) {#drawrectangles}
 
-Рисует ряд прямоугольников, заданных структурами[`RectangleF`](../../rectanglef).
+Рисует серию прямоугольников, указанных[`RectangleF`](../../rectanglef) структуры.
 
 ```csharp
 public void DrawRectangles(Pen pen, RectangleF[] rects)
@@ -16,14 +16,14 @@ public void DrawRectangles(Pen pen, RectangleF[] rects)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль очертания прямоугольников. |
-| rects | RectangleF[] | Массив структур[`RectangleF`](../../rectanglef), представляющих рисуемые прямоугольники. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль контуров прямоугольников. |
+| rects | RectangleF[] | Массив[`RectangleF`](../../rectanglef) структуры, которые представляют прямоугольники для рисования. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. -или- *rects*равно null. |
+| ArgumentNullException | *pen* равно null. -или- *rects* нулевой. |
 
 ### Смотрите также
 
@@ -37,7 +37,7 @@ public void DrawRectangles(Pen pen, RectangleF[] rects)
 
 ## DrawRectangles(Pen, Rectangle[]) {#drawrectangles_1}
 
-Рисует ряд прямоугольников, заданных структурами[`Rectangle`](../../rectangle).
+Рисует серию прямоугольников, указанных[`Rectangle`](../../rectangle) структуры.
 
 ```csharp
 public void DrawRectangles(Pen pen, Rectangle[] rects)
@@ -45,14 +45,14 @@ public void DrawRectangles(Pen pen, Rectangle[] rects)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль очертания прямоугольников. |
-| rects | Rectangle[] | Массив структур[`Rectangle`](../../rectangle), которые представляют прямоугольники для рисования. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль контуров прямоугольников. |
+| rects | Rectangle[] | Массив[`Rectangle`](../../rectangle) структуры, которые представляют прямоугольники для рисования. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. -или- *rects*равно null. |
+| ArgumentNullException | *pen* равно null. -или- *rects* нулевой. |
 
 ### Примеры
 

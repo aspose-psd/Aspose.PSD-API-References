@@ -1,9 +1,9 @@
 ---
 title: IRasterImageArgb32PixelLoader
 second_title: Справочник по Aspose.PSD для .NET API
-description: 32-битный загрузчик пикселей растрового изображения ARGB.
+description: 32битный загрузчик пикселей растрового изображения ARGB.
 type: docs
-weight: 4440
+weight: 4490
 url: /ru/net/aspose.psd/irasterimageargb32pixelloader/
 ---
 ## IRasterImageArgb32PixelLoader interface

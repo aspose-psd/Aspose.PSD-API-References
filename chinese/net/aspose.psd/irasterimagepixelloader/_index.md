@@ -3,7 +3,7 @@ title: IRasterImagePixelLoader
 second_title: Aspose.PSD for .NET API 参考
 description: 光栅图像像素加载器
 type: docs
-weight: 4450
+weight: 4500
 url: /zh/net/aspose.psd/irasterimagepixelloader/
 ---
 ## IRasterImagePixelLoader interface

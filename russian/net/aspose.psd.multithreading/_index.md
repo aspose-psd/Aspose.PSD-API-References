@@ -3,7 +3,7 @@ title: Aspose.PSD.Multithreading
 second_title: Справочник по Aspose.PSD для .NET API
 description: Пространство имен содержит классы многопоточности.
 type: docs
-weight: 440
+weight: 450
 url: /ru/net/aspose.psd.multithreading/
 ---
 Пространство имен содержит классы многопоточности.

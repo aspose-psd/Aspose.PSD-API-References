@@ -16,15 +16,15 @@ public bool IsEqual(ITextParagraph paragraph)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| paragraph | ITextParagraph | 段落。 |
+| paragraph | ITextParagraph | 这段落。 |
 
 ### 返回值
 
-` true` 如果指定的段落相等；否则，` false` 。
+`真的`如果指定的段落相等；否则，`错误的` .
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

@@ -1,7 +1,7 @@
 ---
 title: ContentsSource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает источник содержимого смарт-объекта.
+description: Получает или задает источник содержимого смартобъекта.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentssource/

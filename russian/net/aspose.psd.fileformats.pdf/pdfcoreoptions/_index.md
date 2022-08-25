@@ -24,10 +24,10 @@ public class PdfCoreOptions
 
 | Имя | Описание |
 | --- | --- |
-| [BookmarksOutlineLevel](../../aspose.psd.fileformats.pdf/pdfcoreoptions/bookmarksoutlinelevel) { get; set; } | Указывает, на каком уровне структуры документа отображать объекты закладок. 0 - не отображается. 1 на первом уровне и так далее. По умолчанию 0. |
-| [ExpandedOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/expandedoutlinelevels) { get; set; } | Указывает, сколько уровней в структуре документа должно отображаться в расширенном виде при просмотре файла PDF. 0 - контур документа не расширяется. 1 - расширяются элементы первого уровня в документе и т.д. По умолчанию 0. |
-| [HeadingsOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/headingsoutlinelevels) { get; set; } | Указывает, сколько уровней элементов структуры следует включить в структуру документа. 0 - без контура, 1 - один уровень контура и т.д. По умолчанию 0. |
-| [JpegQuality](../../aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality) { get; set; } | Указывает качество сжатия JPEG для изображений (если используется сжатие JPEG). По умолчанию 95. |
+| [BookmarksOutlineLevel](../../aspose.psd.fileformats.pdf/pdfcoreoptions/bookmarksoutlinelevel) { get; set; } | Указывает, на каком уровне структуры документа отображать объекты-закладки. 0 — не отображается. 1 на первом уровне и т. д. По умолчанию 0. |
+| [ExpandedOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/expandedoutlinelevels) { get; set; } | Определяет, сколько уровней в структуре документа должно отображаться развернутым при просмотре файла PDF. 0 — структура документа не расширяется. 1 — элементы первого уровня в документе расширяются и т. д. По умолчанию 0. |
+| [HeadingsOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/headingsoutlinelevels) { get; set; } | Указывает, сколько уровней элементов структуры следует включить в структуру документа. 0 — без структуры, 1 — один уровень структуры и т. д. Значение по умолчанию: 0. |
+| [JpegQuality](../../aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality) { get; set; } | Определяет качество сжатия изображений JPEG (если используется сжатие JPEG). Значение по умолчанию: 95. |
 | [PdfCompliance](../../aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcompliance) { get; set; } | Получает или задает соответствие PDF. |
 
 ### Смотрите также

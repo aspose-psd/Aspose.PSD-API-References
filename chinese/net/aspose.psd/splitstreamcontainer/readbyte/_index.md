@@ -1,7 +1,7 @@
 ---
 title: ReadByte
 second_title: Aspose.PSD for .NET API 参考
-description: 从流中读取一个字节并将流中的位置前移一个字节如果在流的末尾则返回 -1
+description: 从流中读取一个字节并将流中的位置前移一个字节如果在流的末尾则返回 1
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/splitstreamcontainer/readbyte/

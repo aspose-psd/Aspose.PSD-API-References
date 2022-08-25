@@ -1,14 +1,14 @@
 ---
 title: Padding
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает заполнение маски слоя.
+description: Получает или задает отступ маски слоя.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
 ## LayerMaskDataShort.Padding property
 
-Получает или задает заполнение маски слоя.
+Получает или задает отступ маски слоя.
 
 ```csharp
 public short Padding { get; set; }

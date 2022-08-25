@@ -1,14 +1,14 @@
 ---
 title: LevelChannel
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс для работы с каналами в слое Levels Adjustment Layer
+description: Класс для работы с каналами в Levels Adjustment Layer
 type: docs
-weight: 2570
+weight: 2610
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
 ## LevelChannel class
 
-Класс для работы с каналами в слое Levels Adjustment Layer
+Класс для работы с каналами в Levels Adjustment Layer
 
 ```csharp
 public class LevelChannel
@@ -19,7 +19,7 @@ public class LevelChannel
 | Имя | Описание |
 | --- | --- |
 | [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel) { get; set; } | Получает или задает уровень подсветки ввода. |
-| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel) { get; set; } | Получает или задает плавающее значение входного среднего тона. |
+| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel) { get; set; } | Получает или задает входной уровень среднего тона с плавающей запятой. |
 | [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel) { get; set; } | Получает или задает входной уровень тени. |
 | [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel) { get; set; } | Получает или задает уровень подсветки вывода. |
 | [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel) { get; set; } | Получает или задает выходной уровень тени. |

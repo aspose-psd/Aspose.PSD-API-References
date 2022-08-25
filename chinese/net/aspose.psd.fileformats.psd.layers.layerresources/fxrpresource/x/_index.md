@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置参考点的 x
+description: 获取或设置参考点的x
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
 ## FxrpResource.X property
 
-获取或设置参考点的 x
+获取或设置参考点的x
 
 ```csharp
 public double X { get; set; }
@@ -16,7 +16,7 @@ public double X { get; set; }
 
 ### 适当的价值
 
-参考点的 x
+参考点的x
 
 ### 也可以看看
 

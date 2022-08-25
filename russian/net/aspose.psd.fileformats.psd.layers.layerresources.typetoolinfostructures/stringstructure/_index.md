@@ -3,7 +3,7 @@ title: StringStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Строковая структура.
 type: docs
-weight: 3150
+weight: 3200
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/
 ---
 ## StringStructure class
@@ -18,8 +18,8 @@ public sealed class StringStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [StringStructure](stringstructure#constructor)(ClassID) | Инициализирует новый экземпляр класса[`StringStructure`](../stringstructure). |
-| [StringStructure](stringstructure#constructor_1)(ClassID, string) | Инициализирует новый экземпляр класса[`StringStructure`](../stringstructure)со значением. |
+| [StringStructure](stringstructure#constructor)(ClassID) | Инициализирует новый экземпляр[`StringStructure`](../stringstructure) класс. |
+| [StringStructure](stringstructure#constructor_1)(ClassID, string) | Инициализирует новый экземпляр[`StringStructure`](../stringstructure)класс со значением. |
 
 ## Характеристики
 
@@ -27,7 +27,7 @@ public sealed class StringStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/key) { get; } | Получает ключ. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/value) { get; set; } | Получает или задает значение. |
 
 ## Методы

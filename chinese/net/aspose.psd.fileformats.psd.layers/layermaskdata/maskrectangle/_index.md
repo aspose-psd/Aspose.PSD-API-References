@@ -1,14 +1,14 @@
 ---
 title: MaskRectangle
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置PSD文件中图层蒙版的蒙版Rectangleaspose.psd/rectangle 它采用 leftrighttop 和 bottom 属性并创建Rectangleaspose.psd/rectangle
+description: 获取或设置掩码Rectangleaspose.psd/rectanglePSD 文件中的图层蒙版 它采用左右顶部和底部属性并创建Rectangleaspose.psd/rectangle
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
 ## LayerMaskData.MaskRectangle property
 
-获取或设置PSD文件中图层蒙版的蒙版[`Rectangle`](../../../aspose.psd/rectangle)。 它采用 left、right、top 和 bottom 属性并创建[`Rectangle`](../../../aspose.psd/rectangle)
+获取或设置掩码[`Rectangle`](../../../aspose.psd/rectangle)PSD 文件中的图层蒙版。 它采用左、右、顶部和底部属性并创建[`Rectangle`](../../../aspose.psd/rectangle)
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
@@ -16,7 +16,7 @@ public Rectangle MaskRectangle { get; set; }
 
 ### 适当的价值
 
-蒙版矩形.
+蒙版矩形。
 
 ### 例子
 

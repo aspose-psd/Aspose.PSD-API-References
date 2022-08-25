@@ -3,7 +3,7 @@ title: TiffRational
 second_title: Aspose.PSD for .NET API 参考
 description: tiff 有理类型
 type: docs
-weight: 4110
+weight: 4160
 url: /zh/net/aspose.psd.fileformats.tiff/tiffrational/
 ---
 ## TiffRational class
@@ -18,9 +18,9 @@ public class TiffRational
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TiffRational](tiffrational#constructor)() | 初始化[`TiffRational`](../tiffrational)类的新实例。 |
-| [TiffRational](tiffrational#constructor_1)(uint) | 初始化[`TiffRational`](../tiffrational)类的新实例。 |
-| [TiffRational](tiffrational#constructor_2)(uint, uint) | 初始化[`TiffRational`](../tiffrational)类的新实例。 |
+| [TiffRational](tiffrational#constructor)() | 初始化[`TiffRational`](../tiffrational)类. |
+| [TiffRational](tiffrational#constructor_1)(uint) | 初始化[`TiffRational`](../tiffrational)类. |
+| [TiffRational](tiffrational#constructor_2)(uint, uint) | 初始化[`TiffRational`](../tiffrational)类. |
 
 ## 特性
 
@@ -39,9 +39,9 @@ public class TiffRational
 | static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction#approximatefraction_2)(float) | 将提供的值近似为分数。 |
 | static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction#approximatefraction_1)(double, double) | 将提供的值近似为分数。 |
 | static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffrational/approximatefraction#approximatefraction_3)(float, double) | 将提供的值近似为分数。 |
-| override [Equals](../../aspose.psd.fileformats.tiff/tiffrational/equals)(object) | 确定指定的Object是否等于此实例。 |
+| override [Equals](../../aspose.psd.fileformats.tiff/tiffrational/equals)(object) | 判断是否指定Object等于这个实例。 |
 | override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffrational/gethashcode)() | 返回此实例的哈希码。 |
-| override [ToString](../../aspose.psd.fileformats.tiff/tiffrational/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.tiff/tiffrational/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

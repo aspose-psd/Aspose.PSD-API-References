@@ -16,7 +16,7 @@ public int EnclosingBottom { get; set; }
 
 ### 适当的价值
 
-底层遮罩位置。
+底层掩码位置。
 
 ### 也可以看看
 

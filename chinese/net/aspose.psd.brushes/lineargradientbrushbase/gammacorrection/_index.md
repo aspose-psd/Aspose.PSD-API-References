@@ -1,14 +1,14 @@
 ---
 title: GammaCorrection
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示是否为此LinearGradientBrushBaseaspose.psd.brushes/lineargradientbrushbase启用伽马校正
+description: 获取或设置一个值该值指示是否为此启用伽马校正LinearGradientBrushBaseaspose.psd.brushes/lineargradientbrushbase .
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.brushes/lineargradientbrushbase/gammacorrection/
 ---
 ## LinearGradientBrushBase.GammaCorrection property
 
-获取或设置一个值，该值指示是否为此[`LinearGradientBrushBase`](../../lineargradientbrushbase)启用伽马校正。
+获取或设置一个值，该值指示是否为此启用伽马校正[`LinearGradientBrushBase`](../../lineargradientbrushbase) .
 
 ```csharp
 public bool GammaCorrection { get; set; }
@@ -16,7 +16,7 @@ public bool GammaCorrection { get; set; }
 
 ### 适当的价值
 
-如果为此[`LinearGradientBrushBase`](../../lineargradientbrushbase)启用了伽玛校正，则该值为真；否则为假。
+如果为此启用了 gamma 校正，则该值为 true[`LinearGradientBrushBase`](../../lineargradientbrushbase);否则为假。
 
 ### 也可以看看
 

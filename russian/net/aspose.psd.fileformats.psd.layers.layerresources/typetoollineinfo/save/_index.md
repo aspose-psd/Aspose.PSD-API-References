@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сохраняет информациюTypeToolLineInfoaspose.psd.fileformats.psd.layers.layerresources/typetoollineinfoв указанный контейнер потока.
+description: СохраняетTypeToolLineInfoaspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo информация в указанный контейнер потока.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/
 ---
 ## TypeToolLineInfo.Save method
 
-Сохраняет информацию[`TypeToolLineInfo`](../../typetoollineinfo)в указанный контейнер потока.
+Сохраняет[`TypeToolLineInfo`](../../typetoollineinfo) информация в указанный контейнер потока.
 
 ```csharp
 public void Save(StreamContainer streamContainer, int psdVersion)

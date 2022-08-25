@@ -16,7 +16,7 @@ public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 
 ### Стоимость имущества
 
-Прямоугольник исходных радиусов.
+Исходный прямоугольник радиусов.
 
 ### Смотрите также
 

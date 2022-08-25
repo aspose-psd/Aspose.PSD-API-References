@@ -1,14 +1,14 @@
 ---
 title: LevlResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LevlResourceaspose.psd.fileformats.psd.layers.layerresources/levlresource类的新实例 支持灰度双色调RGBCMYKLab 颜色模式 2 字节 - 版本 2 29  10 字节 - 具有 5 个短整数的级别记录集 4 字节 - Lvls 标头从 292 索引开始 2 字节 - 版本 3 2 字节 - 总级别记录计数 10 总计计数 - 29 Lvls 资源的零结尾也应折叠为四个
+description: 初始化LevlResourceaspose.psd.fileformats.psd.layers.layerresources/levlresource class. 支持灰度双色调RGBCMYKLab 颜色模式 2 字节  版本 2 29  10 字节  具有 5 个短整数的级别记录集 4 字节  Lvls 标头从 292 索引开始 2 字节  版本 3 2 字节  总级别 record 10  Total Count  29 Lvls 资源的零结尾应该折叠四个 too
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/levlresource/
 ---
 ## LevlResource(byte[]) {#constructor_1}
 
-初始化[`LevlResource`](../../levlresource)类的新实例。 支持灰度、双色调、RGB、CMYK、Lab 颜色模式 2 字节 - 版本 (=2) 29 * 10 字节 - 具有 5 个短整数的级别记录集 4 字节 - Lvls 标头（从 292 索引开始） 2 字节 - 版本 (=3) 2 字节 - 总级别记录计数 10 *（总计计数 - 29) Lvls 资源的零结尾也应折叠为四个
+初始化[`LevlResource`](../../levlresource) class. 支持灰度、双色调、RGB、CMYK、Lab 颜色模式 2 字节 - 版本 (=2) 29 * 10 字节 - 具有 5 个短整数的级别记录集 4 字节 - Lvls 标头（从 292 索引开始） 2 字节 - 版本 (=3) 2 字节 - 总级别 record 10 * (Total Count - 29) Lvls 资源的零结尾应该折叠四个 too
 
 ```csharp
 public LevlResource(byte[] bytes)
@@ -28,7 +28,7 @@ public LevlResource(byte[] bytes)
 
 ## LevlResource() {#constructor}
 
-初始化[`LevlResource`](../../levlresource)类的新实例。
+初始化[`LevlResource`](../../levlresource)类.
 
 ```csharp
 public LevlResource()

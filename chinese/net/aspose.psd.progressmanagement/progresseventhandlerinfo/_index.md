@@ -1,14 +1,14 @@
 ---
 title: ProgressEventHandlerInfo
 second_title: Aspose.PSD for .NET API 参考
-description: 此类表示有关图像加载/保存/导出操作进度的信息 可在外部应用程序中用于向最终用户显示转换进度
+description: 此类表示有关图像加载/保存/导出操作进度的信息 可用于外部应用程序向最终用户显示转换进度
 type: docs
-weight: 5180
+weight: 5230
 url: /zh/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
 ## ProgressEventHandlerInfo class
 
-此类表示有关图像加载/保存/导出操作进度的信息， 可在外部应用程序中用于向最终用户显示转换进度
+此类表示有关图像加载/保存/导出操作进度的信息， 可用于外部应用程序向最终用户显示转换进度
 
 ```csharp
 public class ProgressEventHandlerInfo
@@ -25,7 +25,7 @@ public class ProgressEventHandlerInfo
 
 ### 例子
 
-下面的示例演示文档转换进度正常工作且无异常。
+以下示例演示了文档转换进度正常且无异常。
 
 ```csharp
 [C#]

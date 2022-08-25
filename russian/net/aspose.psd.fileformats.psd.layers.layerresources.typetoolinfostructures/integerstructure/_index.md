@@ -3,7 +3,7 @@ title: IntegerStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Целочисленная структура.
 type: docs
-weight: 3070
+weight: 3120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/
 ---
 ## IntegerStructure class
@@ -18,7 +18,7 @@ public sealed class IntegerStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [IntegerStructure](integerstructure)(ClassID) | Инициализирует новый экземпляр класса[`IntegerStructure`](../integerstructure). |
+| [IntegerStructure](integerstructure)(ClassID) | Инициализирует новый экземпляр[`IntegerStructure`](../integerstructure) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public sealed class IntegerStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/key) { get; } | Получает ключ. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value) { get; set; } | Получает или задает целочисленное значение. |
 
 ## Методы

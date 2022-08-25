@@ -3,7 +3,7 @@ title: TypeToolStyleInfo
 second_title: Aspose.PSD for .NET API 参考
 description: 键入工具样式信息
 type: docs
-weight: 3210
+weight: 3260
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 ---
 ## TypeToolStyleInfo class
@@ -30,7 +30,7 @@ public class TypeToolStyleInfo
 | [KerningValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue) { get; set; } | 获取或设置字距调整值。 |
 | [LeadingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue) { get; set; } | 获取或设置前导值。 |
 | [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue) { get; set; } | 获取或设置标记值。 |
-| [RotateDown](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown) { get; set; } | 获取或设置一个值，指示它是否为向下旋转样式。 |
+| [RotateDown](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown) { get; set; } | 获取或设置一个值，指示是否为向下旋转样式。 |
 | [SizeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue) { get; set; } | 获取或设置大小值。 |
 | [TrackingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue) { get; set; } | 获取或设置跟踪值。 |
 
@@ -38,7 +38,7 @@ public class TypeToolStyleInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save)(StreamContainer, int) | 将[`TypeToolFontInfo`](../typetoolfontinfo)信息保存到指定的流容器。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save)(StreamContainer, int) | 保存[`TypeToolFontInfo`](../typetoolfontinfo)信息到指定的流容器。 |
 
 ### 也可以看看
 

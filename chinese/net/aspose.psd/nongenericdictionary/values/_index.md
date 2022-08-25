@@ -1,14 +1,14 @@
 ---
 title: Values
 second_title: Aspose.PSD for .NET API 参考
-description: 获取包含 System中的值的 ICollection对象 Collections.IDictionary对象
+description: 获取 ICollection包含 中的值的对象IDictionary对象.
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/nongenericdictionary/values/
 ---
 ## NonGenericDictionary.Values property
 
-获取包含 System中的值的 ICollection对象。 Collections.IDictionary对象。
+获取 ICollection包含 中的值的对象IDictionary对象.
 
 ```csharp
 public ICollection Values { get; }
@@ -16,7 +16,7 @@ public ICollection Values { get; }
 
 ### 返回值
 
-一个ICollection对象，包含IDictionary中的值目的。
+一个ICollection包含值的对象IDictionary目的。
 
 ### 也可以看看
 

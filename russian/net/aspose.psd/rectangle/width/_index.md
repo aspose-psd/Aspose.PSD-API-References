@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает ширину этойRectangleaspose.psd/rectangleструктуры.
+description: Получает или задает ширину этогоRectangleaspose.psd/rectangleструктура.
 type: docs
 weight: 190
 url: /ru/net/aspose.psd/rectangle/width/
 ---
 ## Rectangle.Width property
 
-Получает или задает ширину этой[`Rectangle`](../../rectangle)структуры.
+Получает или задает ширину этого[`Rectangle`](../../rectangle)структура.
 
 ```csharp
 public int Width { get; set; }
@@ -16,7 +16,7 @@ public int Width { get; set; }
 
 ### Возвращаемое значение
 
-Ширина этой[`Rectangle`](../../rectangle)структуры.
+Ширина этого[`Rectangle`](../../rectangle) структура.
 
 ### Смотрите также
 

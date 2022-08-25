@@ -1,14 +1,14 @@
 ---
 title: BorderInformationResource
 second_title: Aspose.PSD for .NET API 参考
-description: 带有图像打印设置边框信息的资源
+description: 图像打印设置的带有边框信息的资源
 type: docs
-weight: 3540
+weight: 3590
 url: /zh/net/aspose.psd.fileformats.psd.resources/borderinformationresource/
 ---
 ## BorderInformationResource class
 
-带有图像打印设置边框信息的资源。
+图像打印设置的带有边框信息的资源。
 
 ```csharp
 public sealed class BorderInformationResource : ResourceBlock
@@ -24,11 +24,11 @@ public sealed class BorderInformationResource : ResourceBlock
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/borderinformationresource/datasize) { get; } | 获取资源数据大小（以字节为单位）。 |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/borderinformationresource/datasize) { get; } | 以字节为单位获取资源数据大小。 |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | 获取或设置资源的唯一标识符。 |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/borderinformationresource/minimalversion) { get; } | 获取所需的最低 PSD 版本。 |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。 Pascal 字符串，填充以使大小均匀（空名称由两个字节的 0 组成）。 |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应始终为“8BIM”。 |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。帕斯卡字符串，填充以使大小均匀（空名称由两个字节的 0 组成）. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应该总是'8BIM'. |
 | [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | 获取资源块大小（以字节为单位），包括其数据。 |
 | [Unit](../../aspose.psd.fileformats.psd.resources/borderinformationresource/unit) { get; set; } | 获取或设置边框单位。 |
 | [Width](../../aspose.psd.fileformats.psd.resources/borderinformationresource/width) { get; set; } | 获取或设置边框宽度。 |
@@ -37,12 +37,12 @@ public sealed class BorderInformationResource : ResourceBlock
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定流。 |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定的流中。 |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | 验证资源值。 |
 
 ### 例子
 
-下面的例子演示了对 BorderInformationResource 资源的支持。
+以下示例演示了对 BorderInformationResource 资源的支持。
 
 ```csharp
 [C#]

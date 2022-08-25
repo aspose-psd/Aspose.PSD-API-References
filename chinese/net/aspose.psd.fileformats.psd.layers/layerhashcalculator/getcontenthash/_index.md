@@ -20,7 +20,7 @@ public int GetContentHash()
 
 ### 例子
 
-下面的代码演示了获取不同文件中相似层的唯一哈希的 API。
+以下代码演示了用于获取不同文件中相似层的唯一哈希的 API。
 
 ```csharp
 [C#]

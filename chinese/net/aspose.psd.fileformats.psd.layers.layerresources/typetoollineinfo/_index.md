@@ -3,7 +3,7 @@ title: TypeToolLineInfo
 second_title: Aspose.PSD for .NET API 参考
 description: 键入工具线信息
 type: docs
-weight: 3200
+weight: 3250
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
 ## TypeToolLineInfo class
@@ -30,7 +30,7 @@ public class TypeToolLineInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save)(StreamContainer, int) | 将[`TypeToolLineInfo`](../typetoollineinfo)信息保存到指定的流容器。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save)(StreamContainer, int) | 保存[`TypeToolLineInfo`](../typetoollineinfo)信息到指定的流容器。 |
 
 ### 也可以看看
 

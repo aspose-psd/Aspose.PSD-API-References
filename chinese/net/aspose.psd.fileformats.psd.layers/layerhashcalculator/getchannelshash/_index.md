@@ -1,14 +1,14 @@
 ---
 title: GetChannelsHash
 second_title: Aspose.PSD for .NET API 参考
-description: 获取通道哈希
+description: 获取频道哈希值
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/
 ---
 ## LayerHashCalculator.GetChannelsHash method
 
-获取通道哈希。
+获取频道哈希值。
 
 ```csharp
 public int GetChannelsHash()
@@ -20,7 +20,7 @@ public int GetChannelsHash()
 
 ### 例子
 
-下面的代码演示了获取不同层相似层唯一哈希的 API文件。
+以下代码演示了用于获取不同文件中相似层的唯一哈希的 API。
 
 ```csharp
 [C#]

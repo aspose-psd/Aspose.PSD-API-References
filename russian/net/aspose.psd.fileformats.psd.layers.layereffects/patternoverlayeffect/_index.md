@@ -3,7 +3,7 @@ title: PatternOverlayEffect
 second_title: Справочник по Aspose.PSD для .NET API
 description: Эффект слоя узора
 type: docs
-weight: 2120
+weight: 2160
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
 ## PatternOverlayEffect class
@@ -26,7 +26,7 @@ public class PatternOverlayEffect : ILayerEffect
 
 ### Примеры
 
-Следующий код демонстрирует поддержку шаблона эффект наложения.
+Следующий код демонстрирует поддержку эффекта наложения шаблона.
 
 ```csharp
 [C#]

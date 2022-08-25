@@ -1,14 +1,14 @@
 ---
 title: IntegerStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化IntegerStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure类的新实例
+description: 初始化IntegerStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/integerstructure/
 ---
 ## IntegerStructure constructor
 
-初始化[`IntegerStructure`](../../integerstructure)类的新实例。
+初始化[`IntegerStructure`](../../integerstructure)类.
 
 ```csharp
 public IntegerStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public IntegerStructure(ClassID keyName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: StringStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化StringStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure类的新实例
+description: 初始化StringStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/stringstructure/
 ---
 ## StringStructure(ClassID) {#constructor}
 
-初始化[`StringStructure`](../../stringstructure)类的新实例。
+初始化[`StringStructure`](../../stringstructure)类.
 
 ```csharp
 public StringStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public StringStructure(ClassID keyName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public StringStructure(ClassID keyName)
 
 ## StringStructure(ClassID, string) {#constructor_1}
 
-用值初始化[`StringStructure`](../../stringstructure)类的新实例。
+初始化[`StringStructure`](../../stringstructure)具有值的类.
 
 ```csharp
 public StringStructure(ClassID keyName, string value)
@@ -37,8 +37,8 @@ public StringStructure(ClassID keyName, string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
-| value | String | 值。 |
+| keyName | ClassID | 键名。 |
+| value | String | 价值。 |
 
 ### 例子
 

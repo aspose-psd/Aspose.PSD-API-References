@@ -1,14 +1,14 @@
 ---
 title: ColorMapExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Методы расширенияColorMap../aspose.psd/colormap.
+description: ColorMap../aspose.psd/colormap методы расширения.
 type: docs
 weight: 1060
 url: /ru/net/aspose.psd.extensions/colormapextensions/
 ---
 ## ColorMapExtensions class
 
-Методы расширения[`ColorMap`](../../aspose.psd/colormap).
+[`ColorMap`](../../aspose.psd/colormap) методы расширения.
 
 ```csharp
 public static class ColorMapExtensions
@@ -18,8 +18,8 @@ public static class ColorMapExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap)(ColorMap) | Преобразует[`ColorMap`](../../aspose.psd/colormap)вColorMap. |
-| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps)(ColorMap[]) | Преобразует массив[`ColorMap`](../../aspose.psd/colormap)в массивColorMapмножество. |
+| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap)(ColorMap) | Преобразует[`ColorMap`](../../aspose.psd/colormap) кColorMap . |
+| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps)(ColorMap[]) | Преобразует[`ColorMap`](../../aspose.psd/colormap) массив кColorMap массив. |
 
 ### Смотрите также
 

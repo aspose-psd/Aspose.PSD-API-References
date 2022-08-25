@@ -3,7 +3,7 @@ title: SmoothingMode
 second_title: Aspose.PSD for .NET API 参考
 description: 指定是否对直线和曲线以及填充区域的边缘应用平滑抗锯齿
 type: docs
-weight: 5450
+weight: 5500
 url: /zh/net/aspose.psd/smoothingmode/
 ---
 ## SmoothingMode enumeration

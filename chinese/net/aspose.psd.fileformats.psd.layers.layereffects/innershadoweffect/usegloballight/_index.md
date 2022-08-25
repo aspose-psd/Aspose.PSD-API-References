@@ -16,7 +16,7 @@ public bool UseGlobalLight { get; set; }
 
 ### 适当的价值
 
-` true` if [使用全局光]；否则，` false` 。
+`真的` if [使用全局光]；否则，`错误的` .
 
 ### 也可以看看
 

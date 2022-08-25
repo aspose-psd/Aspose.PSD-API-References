@@ -1,14 +1,14 @@
 ---
 title: Color
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает цвет RGB.
+description: Получает цвет RGB .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/
 ---
 ## SoCoResource.Color property
 
-Получает цвет RGB.
+Получает цвет RGB .
 
 ```csharp
 public Color Color { get; set; }
@@ -20,7 +20,7 @@ public Color Color { get; set; }
 
 ### Примеры
 
-В следующем примере показано, как редактировать SoCoResource (Ресурс слоя для слоя заливки цветом)
+В следующем примере показано, как редактировать SoCoResource (ресурс слоя для слоя заливки цветом).
 
 ```csharp
 [C#]

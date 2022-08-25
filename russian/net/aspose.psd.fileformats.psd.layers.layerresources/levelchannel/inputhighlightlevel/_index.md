@@ -22,7 +22,7 @@ public short InputHighlightLevel { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Уровень подсветки ввода может быть установлен только в диапазоне от " + (this.InputShadowLevel + 2) + " до 255 |
+| ArgumentOutOfRangeException | Input Highlight Level может быть установлен только в диапазоне от " + (this.InputShadowLevel + 2) + " до 255 |
 
 ### Смотрите также
 

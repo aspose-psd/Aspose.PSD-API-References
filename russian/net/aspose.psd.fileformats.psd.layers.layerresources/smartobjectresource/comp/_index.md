@@ -1,7 +1,7 @@
 ---
 title: Comp
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение компоновки данных слоя смарт-объекта в PSD-файле. Композиции слоев в смарт-объектахhttps//helpx.adobe.com/photoshop/using/layer-comps.html
+description: Получает или задает значение компоновки данных слоя смартобъекта в PSDфайле. Композиции слоев в смартобъектахhttps//helpx.adobe.com/photoshop/using/layercomps.html
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/
@@ -16,7 +16,7 @@ public int Comp { get; set; }
 
 ### Стоимость имущества
 
-Значение comp равно -1, если его нет.
+Значение компенсации равно -1, если нет.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Truncate
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует указанныйPointFaspose.psd/pointfвPointaspose.psd/pointпутем усечения значенийPointaspose.psd/point.
+description: Преобразует указанныйPointFaspose.psd/pointf кPointaspose.psd/point путем усечения значенийPointaspose.psd/point .
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/point/truncate/
 ---
 ## Point.Truncate method
 
-Преобразует указанный[`PointF`](../../pointf)в[`Point`](../../point)путем усечения значений[`Point`](../../point).
+Преобразует указанный[`PointF`](../../pointf) к[`Point`](../../point) путем усечения значений[`Point`](../../point) .
 
 ```csharp
 public static Point Truncate(PointF point)
@@ -16,11 +16,11 @@ public static Point Truncate(PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf)для преобразования. |
+| point | PointF | [`PointF`](../../pointf) конвертировать. |
 
 ### Возвращаемое значение
 
-[`Point`](../../point)этот метод преобразует в.
+[`Point`](../../point) этот метод преобразуется в.
 
 ### Смотрите также
 

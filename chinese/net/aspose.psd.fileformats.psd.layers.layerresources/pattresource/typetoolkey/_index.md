@@ -1,14 +1,14 @@
 ---
 title: TypeToolKey
 second_title: Aspose.PSD for .NET API 参考
-description: 8 位的Patt类型工具信息密钥
+description: 8 位的Patt类型工具信息键
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/
 ---
 ## PattResource.TypeToolKey field
 
-8 位的“Patt”类型工具信息密钥。
+8 位的“Patt”类型工具信息键。
 
 ```csharp
 public const int TypeToolKey;

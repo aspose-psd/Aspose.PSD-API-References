@@ -3,7 +3,7 @@ title: SmartObjectType
 second_title: Aspose.PSD for .NET API 参考
 description: 定义智能对象内容类型的 SmartObjectType 枚举
 type: docs
-weight: 3390
+weight: 3440
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjecttype/
 ---
 ## SmartObjectType enumeration
@@ -18,7 +18,7 @@ public enum SmartObjectType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Embedded | `0` | 嵌入内容 |
+| Embedded | `0` | 嵌入的内容 |
 | AvailableLinked | `1` | 可用的链接文件 |
 | UnavailableLinked | `2` | 链接文件不可用 |
 | LibraryLink | `3` | Adobe® Photoshop® ÑÑ 库链接 |

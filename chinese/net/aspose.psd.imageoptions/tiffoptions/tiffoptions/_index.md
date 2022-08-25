@@ -1,14 +1,14 @@
 ---
 title: TiffOptions
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化TiffOptionsaspose.psd.imageoptions/tiffoptions类的新实例
+description: 初始化TiffOptionsaspose.psd.imageoptions/tiffoptions类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/tiffoptions/
 ---
 ## TiffOptions(TiffExpectedFormat, TiffByteOrder) {#constructor_1}
 
-初始化[`TiffOptions`](../../tiffoptions)类的新实例。
+初始化[`TiffOptions`](../../tiffoptions)类.
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
@@ -31,7 +31,7 @@ public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
 
 ## TiffOptions(TiffExpectedFormat) {#constructor}
 
-初始化[`TiffOptions`](../../tiffoptions)类的新实例。默认情况下使用 little endian 约定。
+初始化[`TiffOptions`](../../tiffoptions)班级。默认情况下使用小端约定。
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat)
@@ -52,7 +52,7 @@ public TiffOptions(TiffExpectedFormat expectedFormat)
 
 ## TiffOptions(TiffOptions) {#constructor_3}
 
-初始化[`TiffOptions`](../../tiffoptions)类的新实例。
+初始化[`TiffOptions`](../../tiffoptions)类.
 
 ```csharp
 public TiffOptions(TiffOptions options)
@@ -60,7 +60,7 @@ public TiffOptions(TiffOptions options)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| options | TiffOptions | 要从中复制的选项。 |
+| options | TiffOptions | 要复制的选项。 |
 
 ### 也可以看看
 
@@ -72,7 +72,7 @@ public TiffOptions(TiffOptions options)
 
 ## TiffOptions(TiffDataType[]) {#constructor_2}
 
-初始化[`TiffOptions`](../../tiffoptions)类的新实例。
+初始化[`TiffOptions`](../../tiffoptions)类.
 
 ```csharp
 public TiffOptions(TiffDataType[] tags)

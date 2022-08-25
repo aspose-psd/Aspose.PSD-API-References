@@ -1,14 +1,14 @@
 ---
 title: UniqueId
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 图像中智能对象层数据SmartObjectResourceaspose.psd.fileformats.psd.layers.layerresources/smartobjectresource的全局唯一标识符
+description: 获取或设置智能对象图层数据的全局唯一标识SmartObjectResourceaspose.psd.fileformats.psd.layers.layerresources/smartobjectresource在 PSD 图像中
 type: docs
 weight: 240
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/
 ---
 ## SmartObjectResource.UniqueId property
 
-获取或设置 PSD 图像中智能对象层数据[`SmartObjectResource`](../../smartobjectresource)的全局唯一标识符。
+获取或设置智能对象图层数据的全局唯一标识[`SmartObjectResource`](../../smartobjectresource)在 PSD 图像中。
 
 ```csharp
 public override Guid UniqueId { get; set; }
@@ -16,7 +16,7 @@ public override Guid UniqueId { get; set; }
 
 ### 适当的价值
 
-智能对象图层数据的全局唯一标识符LayerResources。智能对象资源。
+智能对象图层数据的全局唯一标识[`SmartObjectResource`](../../smartobjectresource) .
 
 ### 例子
 

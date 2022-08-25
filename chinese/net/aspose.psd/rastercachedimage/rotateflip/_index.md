@@ -20,7 +20,7 @@ public override void RotateFlip(RotateFlipType rotateFlipType)
 
 ### 例子
 
-下面的代码展示了如何旋转图像。
+以下代码显示了如何旋转图像。
 
 ```csharp
 [C#]

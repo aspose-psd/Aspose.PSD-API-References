@@ -1,14 +1,14 @@
 ---
 title: Strikethrough
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否删除线
+description: 获取或设置一个值指示是否删除线.
 type: docs
 weight: 210
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
 ## ITextStyle.Strikethrough property
 
-获取或设置一个值，指示是否[删除线]。
+获取或设置一个值，指示是否[删除线].
 
 ```csharp
 public bool Strikethrough { get; set; }

@@ -16,7 +16,7 @@ public string GPSDestLatitudeRef { get; set; }
 
 ### 适当的价值
 
-GPS 值，表示目的地的纬度是北纬还是南纬。
+指示目的地纬度是北纬还是南纬的 GPS 值。
 
 ### 也可以看看
 

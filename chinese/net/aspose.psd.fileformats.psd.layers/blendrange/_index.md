@@ -3,7 +3,7 @@ title: BlendRange
 second_title: Aspose.PSD for .NET API 参考
 description: 混合范围
 type: docs
-weight: 1830
+weight: 1870
 url: /zh/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
 ## BlendRange class

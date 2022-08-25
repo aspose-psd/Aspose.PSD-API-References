@@ -1,14 +1,14 @@
 ---
 title: PlacedLayerType
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 文件中放置图层的类型
+description: 获取或设置PSD文件中放置图层的类型
 type: docs
 weight: 120
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/
 ---
 ## IPlacedLayerResource.PlacedLayerType property
 
-获取或设置 PSD 文件中放置图层的类型。
+获取或设置PSD文件中放置图层的类型。
 
 ```csharp
 public PlacedLayerType PlacedLayerType { get; set; }

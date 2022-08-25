@@ -3,7 +3,7 @@ title: BooleanStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Логическая структура.
 type: docs
-weight: 3010
+weight: 3060
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/
 ---
 ## BooleanStructure class
@@ -18,7 +18,7 @@ public sealed class BooleanStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [BooleanStructure](booleanstructure)(ClassID) | Инициализирует новый экземпляр класса[`BooleanStructure`](../booleanstructure). |
+| [BooleanStructure](booleanstructure)(ClassID) | Инициализирует новый экземпляр[`BooleanStructure`](../booleanstructure) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public sealed class BooleanStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value) { get; set; } | Получает или задает логическое значение. |
 
 ## Методы

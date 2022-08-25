@@ -20,7 +20,7 @@ public virtual BlendMode BlendModeKey { get; set; }
 
 ### Примеры
 
-В следующем примере показано, как можно использовать режим наложения слоя PassThrough в Aspose.PSD
+В следующем примере показано, как можно использовать режим наложения слоя PassThrough в Aspose.PSD.
 
 ```csharp
 [C#]

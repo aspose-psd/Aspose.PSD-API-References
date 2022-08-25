@@ -1,14 +1,14 @@
 ---
 title: Source
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает источник для создания изображения.
+description: Получает или задает источник для создания изображения в.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/imageoptionsbase/source/
 ---
 ## ImageOptionsBase.Source property
 
-Получает или задает источник для создания изображения.
+Получает или задает источник для создания изображения в.
 
 ```csharp
 public Source Source { get; set; }
@@ -16,7 +16,7 @@ public Source Source { get; set; }
 
 ### Стоимость имущества
 
-Источник для создания образа.
+Источник для создания изображения.
 
 ### Смотрите также
 

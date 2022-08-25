@@ -44,7 +44,7 @@ public void LoadRawData(Rectangle rectangle, Rectangle destImageBounds,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rectangle | Rectangle | Прямоугольник, из которого загружаются необработанные данные. |
-| destImageBounds | Rectangle | Границы целевого изображения. |
+| destImageBounds | Rectangle | Границы конечного изображения. |
 | rawDataSettings | RawDataSettings | Параметры необработанных данных, используемые для загруженных данных. Обратите внимание, что если данные не в указанном формате, будет выполнено преобразование данных. |
 | rawDataLoader | IPartialRawDataLoader | Загрузчик необработанных данных. |
 

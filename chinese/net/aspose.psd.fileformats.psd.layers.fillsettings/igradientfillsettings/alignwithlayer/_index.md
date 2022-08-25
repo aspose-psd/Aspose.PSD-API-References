@@ -16,11 +16,11 @@ public bool AlignWithLayer { get; set; }
 
 ### 适当的价值
 
-` true` if [与图层对齐]；否则，` false` 。
+`真的` if [与图层对齐];否则，`错误的` .
 
 ### 例子
 
-以下示例演示了渐变填充层支持和 IGradientFillSettings 编辑选项。
+以下示例演示了渐变填充图层支持和 IGradientFillSettings 编辑选项。
 
 ```csharp
 [C#]

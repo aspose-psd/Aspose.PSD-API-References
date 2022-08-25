@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает длину ресурса для версии изображения в заголовке PSD.
+description: Получает длину ресурсов для версии изображения в заголовке PSD.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/length/
 ---
 ## Lr16Resource.Length property
 
-Получает длину ресурса для версии изображения в заголовке PSD.
+Получает длину ресурсов для версии изображения в заголовке PSD.
 
 ```csharp
 public override int Length { get; }

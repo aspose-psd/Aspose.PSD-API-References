@@ -1,14 +1,14 @@
 ---
 title: LiFeDataSource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource.
+description: Инициализирует новый экземплярLiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/lifedatasource/
 ---
 ## LiFeDataSource() {#constructor}
 
-Инициализирует новый экземпляр класса[`LiFeDataSource`](../../lifedatasource).
+Инициализирует новый экземпляр[`LiFeDataSource`](../../lifedatasource) класс.
 
 ```csharp
 public LiFeDataSource()
@@ -24,7 +24,7 @@ public LiFeDataSource()
 
 ## LiFeDataSource(int, Guid, string, string, string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LiFeDataSource`](../../lifedatasource).
+Инициализирует новый экземпляр[`LiFeDataSource`](../../lifedatasource) класс.
 
 ```csharp
 public LiFeDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 

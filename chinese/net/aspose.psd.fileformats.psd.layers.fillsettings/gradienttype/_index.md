@@ -3,7 +3,7 @@ title: GradientType
 second_title: Aspose.PSD for .NET API 参考
 description: 渐变类型
 type: docs
-weight: 1920
+weight: 1960
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
 ## GradientType enumeration
@@ -23,7 +23,7 @@ public enum GradientType
 | Angle | `2` | 角度渐变类型 |
 | Reflected | `3` | 反射梯度类型 |
 | Diamond | `4` | 菱形渐变类型 |
-| ShapeBurst | `5` | 形状突发渐变类型 |
+| ShapeBurst | `5` | 形状突发梯度类型 |
 
 ### 也可以看看
 

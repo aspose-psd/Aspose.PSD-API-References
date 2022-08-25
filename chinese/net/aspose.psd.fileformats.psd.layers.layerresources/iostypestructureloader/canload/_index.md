@@ -1,14 +1,14 @@
 ---
 title: CanLoad
 second_title: Aspose.PSD for .NET API 参考
-description: 确定是否可以从指定的PSD加载OSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure 资源.StreamContainer
+description: 确定是否OSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure资源可以从指定的加载StreamContaineraspose.psd/streamcontainer .
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/
 ---
 ## IOSTypeStructureLoader.CanLoad method
 
-确定是否可以从指定的PSD加载[`OSTypeStructure`](../../ostypestructure) 资源.StreamContainer。
+确定是否[`OSTypeStructure`](../../ostypestructure)资源可以从指定的加载[`StreamContainer`](../../../aspose.psd/streamcontainer) .
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer)
@@ -20,7 +20,7 @@ public bool CanLoad(StreamContainer streamContainer)
 
 ### 返回值
 
-` true` if[`OSTypeStructure`](../../ostypestructure)资源可以是从指定的[`StreamContainer`](../../../aspose.psd/streamcontainer)加载；否则，` false` 。
+`真的`如果[`OSTypeStructure`](../../ostypestructure)资源可以从指定的加载[`StreamContainer`](../../../aspose.psd/streamcontainer);否则，`错误的` .
 
 ### 也可以看看
 

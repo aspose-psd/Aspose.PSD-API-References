@@ -1,14 +1,14 @@
 ---
 title: LspfResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LspfResourceaspose.psd.fileformats.psd.layers.layerresources/lspfresource类的新实例 具有自定义或未知值
+description: 初始化LspfResourceaspose.psd.fileformats.psd.layers.layerresources/lspfresource class. 具有自定义或未知值
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
 ## LspfResource(byte[]) {#constructor_2}
 
-初始化[`LspfResource`](../../lspfresource)类的新实例。 具有自定义或未知值
+初始化[`LspfResource`](../../lspfresource) class. 具有自定义或未知值
 
 ```csharp
 public LspfResource(byte[] data)
@@ -34,7 +34,7 @@ public LspfResource(byte[] data)
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-初始化[`LspfResource`](../../lspfresource)类的新实例。
+初始化[`LspfResource`](../../lspfresource)类.
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
@@ -43,9 +43,9 @@ public LspfResource(bool isTransparencyProtected, bool isCompositeProtected,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | 如果设置为` true` [受透明度保护]。 |
-| isCompositeProtected | Boolean | 如果设置为` true` [受复合保护]。 |
-| isPositionProtected | Boolean | 如果设置为` true` [位置受保护]。 |
+| isTransparencyProtected | Boolean | 如果设置为`真的`[受透明度保护]。 |
+| isCompositeProtected | Boolean | 如果设置为`真的` [受复合保护]。 |
+| isPositionProtected | Boolean | 如果设置为`真的` [位置受保护]。 |
 
 ### 也可以看看
 
@@ -57,7 +57,7 @@ public LspfResource(bool isTransparencyProtected, bool isCompositeProtected,
 
 ## LspfResource() {#constructor}
 
-初始化[`LspfResource`](../../lspfresource)类的新实例。
+初始化[`LspfResource`](../../lspfresource)类.
 
 ```csharp
 public LspfResource()

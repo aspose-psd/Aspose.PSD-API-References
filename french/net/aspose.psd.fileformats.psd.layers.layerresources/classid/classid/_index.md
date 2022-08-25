@@ -1,0 +1,181 @@
+---
+title: ClassID
+second_title: Référence de l'API Aspose.PSD pour .NET
+description: Initialise une nouvelle instance duClassIDaspose.psd.fileformats.psd.layers.layerresources/classid classe.
+type: docs
+weight: 10
+url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
+---
+## ClassID(byte[]) {#constructor}
+
+Initialise une nouvelle instance du[`ClassID`](../../classid) classe.
+
+```csharp
+public ClassID(byte[] classID)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| classID | Byte[] | L'ID de classe sous forme de série d'octets. |
+
+### Voir également
+
+* class [ClassID](../../classid)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* Assemblée [Aspose.PSD](../../../)
+
+---
+
+## ClassID(byte[], bool) {#constructor_1}
+
+Initialise une nouvelle instance du[`ClassID`](../../classid) classe.
+
+```csharp
+public ClassID(byte[] classID, bool isZeroLength)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| classID | Byte[] | L'ID de classe sous forme de série d'octets. |
+| isZeroLength | Boolean | si réglé sur`vrai` [est de longueur nulle]. La longueur de chaîne enregistrée est de zéro mais la valeur réelle est de quatre. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | ID de classe est nul. |
+
+### Voir également
+
+* class [ClassID](../../classid)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* Assemblée [Aspose.PSD](../../../)
+
+---
+
+## ClassID(int) {#constructor_2}
+
+Initialise une nouvelle instance du[`ClassID`](../../classid) classe.
+
+```csharp
+public ClassID(int classID)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| classID | Int32 | L'identifiant de la classe. |
+
+### Voir également
+
+* class [ClassID](../../classid)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* Assemblée [Aspose.PSD](../../../)
+
+---
+
+## ClassID(uint) {#constructor_5}
+
+Initialise une nouvelle instance du[`ClassID`](../../classid) classe.
+
+```csharp
+public ClassID(uint classID)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| classID | UInt32 | L'identifiant de la classe. |
+
+### Voir également
+
+* class [ClassID](../../classid)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* Assemblée [Aspose.PSD](../../../)
+
+---
+
+## ClassID(string, bool) {#constructor_4}
+
+Initialise une nouvelle instance du[`ClassID`](../../classid) classe.
+
+```csharp
+public ClassID(string classID, bool isZeroLength)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| classID | String | L'ID de classe en codage ASCII. |
+| isZeroLength | Boolean | si réglé sur`vrai` [est de longueur nulle]. |
+
+### Exemples
+
+Cet exemple montre que le calque, importé à partir d'une image, est converti en calque d'objet intelligent et que le fichier PSD enregistré est correct.
+
+```csharp
+[C#]
+
+// Teste que le calque, importé à partir d'une image, est converti en calque d'objet intelligent et que le fichier PSD enregistré est correct.
+
+string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
+string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
+using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparatorChar + "layerTest1.psd"))
+{
+    string layerFilePath = baseFolder + Path.DirectorySeparatorChar + "picture.jpg";
+    using (var stream = new FileStream(layerFilePath, FileMode.Open))
+    {
+        Layer layer = null;
+        try
+        {
+            layer = new Layer(stream);
+            image.AddLayer(layer);
+        }
+        catch (Exception)
+        {
+            if (layer != null)
+            {
+                layer.Dispose();
+            }
+
+            throw;
+        }
+
+        var layer2 = image.Layers[2];
+        var layer3 = image.SmartObjectProvider.ConvertToSmartObject(image.Layers.Length - 1);
+        var bounds = layer3.Bounds;
+        layer3.Left = (image.Width - layer3.Width) / 2;
+        layer3.Top = layer2.Top;
+        layer3.Right = layer3.Left + bounds.Width;
+        layer3.Bottom = layer3.Top + bounds.Height;
+
+        image.Save(outputFilePath);
+        image.Save(outputPngFilePath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+    }
+}
+```
+
+### Voir également
+
+* class [ClassID](../../classid)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* Assemblée [Aspose.PSD](../../../)
+
+---
+
+## ClassID(string) {#constructor_3}
+
+Initialise une nouvelle instance du[`ClassID`](../../classid) classe.
+
+```csharp
+public ClassID(string classID)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| classID | String | L'ID de classe en codage ASCII. |
+
+### Voir également
+
+* class [ClassID](../../classid)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* Assemblée [Aspose.PSD](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->

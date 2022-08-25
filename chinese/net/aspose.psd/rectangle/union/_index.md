@@ -1,14 +1,14 @@
 ---
 title: Union
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一个Rectangleaspose.psd/rectangle结构其中包含两个Rectangleaspose.psd/rectangle结构的并集
+description: 得到一个Rectangleaspose.psd/rectangle包含两个并集的结构Rectangleaspose.psd/rectangle结构.
 type: docs
 weight: 100
 url: /zh/net/aspose.psd/rectangle/union/
 ---
 ## Rectangle.Union method
 
-获取一个[`Rectangle`](../../rectangle)结构，其中包含两个[`Rectangle`](../../rectangle)结构的并集。
+得到一个[`Rectangle`](../../rectangle)包含两个并集的结构[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
@@ -21,7 +21,7 @@ public static Rectangle Union(Rectangle a, Rectangle b)
 
 ### 返回值
 
-一个[`Rectangle`](../../rectangle)结构，它限制了两个[`Rectangle`](../../rectangle)结构的联合。
+一个[`Rectangle`](../../rectangle)限制两者结合的结构[`Rectangle`](../../rectangle)结构。
 
 ### 也可以看看
 

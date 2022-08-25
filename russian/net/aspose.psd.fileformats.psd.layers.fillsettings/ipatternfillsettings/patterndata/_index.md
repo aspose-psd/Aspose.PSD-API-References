@@ -1,14 +1,14 @@
 ---
 title: PatternData
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает данные шаблона.
+description: Получает или устанавливает данные шаблона.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
 ---
 ## IPatternFillSettings.PatternData property
 
-Получает или задает данные шаблона.
+Получает или устанавливает данные шаблона.
 
 ```csharp
 public int[] PatternData { get; set; }

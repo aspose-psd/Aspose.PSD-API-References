@@ -1,14 +1,14 @@
 ---
 title: SoCoResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 SoCoResource 此资源包含有关颜色填充层的信息
+description: 类 SoCoResource. 此资源包含有关颜色填充层的信息
 type: docs
-weight: 2930
+weight: 2980
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
 ## SoCoResource class
 
-类 SoCoResource。 此资源包含有关颜色填充层的信息
+类 SoCoResource. 此资源包含有关颜色填充层的信息
 
 ```csharp
 public class SoCoResource : FillLayerResource
@@ -18,15 +18,15 @@ public class SoCoResource : FillLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SoCoResource](socoresource)() | 初始化[`SoCoResource`](../socoresource)类的新实例。 |
+| [SoCoResource](socoresource)() | 初始化[`SoCoResource`](../socoresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color) { get; set; } | 获取 RGB 颜色。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color) { get; set; } | 获取 RGB 颜色 . |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature) { get; } | 获取图层资源签名。 |
 
@@ -35,7 +35,7 @@ public class SoCoResource : FillLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
@@ -45,7 +45,7 @@ public class SoCoResource : FillLayerResource
 
 ### 例子
 
-The以下示例演示如何编辑 SoCoResource（颜色填充图层的图层资源）
+以下示例演示了如何编辑 SoCoResource（颜色填充图层的图层资源）
 
 ```csharp
 [C#]

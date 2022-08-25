@@ -1,14 +1,14 @@
 ---
 title: Right
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 x 坐标即Xaspose.psd/rectanglef/x和RectangleF之和这个RectangleFaspose.psd/rectanglef 结构的.Width
+description: 获取或设置 x 坐标它是Xaspose.psd/rectanglef/x和Widthaspose.psd/rectanglef/width这个的RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/rectanglef/right/
 ---
 ## RectangleF.Right property
 
-获取或设置 x 坐标，即[`X`](../x)和RectangleF之和这个[`RectangleF`](../../rectanglef) 结构的.Width。
+获取或设置 x 坐标，它是[`X`](../x)和[`Width`](../width)这个的[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public float Right { get; set; }
@@ -16,7 +16,7 @@ public float Right { get; set; }
 
 ### 返回值
 
-x 坐标，它是[`X`](../x)和Aspose之和。此[`RectangleF`](../../rectanglef) 结构的PSD.RectangleF.Width。
+x坐标是[`X`](../x)和[`Width`](../width)这个的[`RectangleF`](../../rectanglef)结构体。
 
 ### 也可以看看
 

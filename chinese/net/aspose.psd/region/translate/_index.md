@@ -1,14 +1,14 @@
 ---
 title: Translate
 second_title: Aspose.PSD for .NET API 参考
-description: 将此Regionaspose.psd/region的坐标偏移指定的量
+description: 偏移 this 的坐标Regionaspose.psd/region按指定数量
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/region/translate/
 ---
 ## Translate(float, float) {#translate_1}
 
-将此[`Region`](../../region)的坐标偏移指定的量。
+偏移 this 的坐标[`Region`](../../region)按指定数量。
 
 ```csharp
 public void Translate(float dx, float dy)
@@ -16,8 +16,8 @@ public void Translate(float dx, float dy)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Single | 水平偏移此[`Region`](../../region)的量。 |
-| dy | Single | 垂直偏移此[`Region`](../../region)的量。 |
+| dx | Single | 抵消这一数额[`Region`](../../region)水平。 |
+| dy | Single | 抵消这一数额[`Region`](../../region)垂直。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void Translate(float dx, float dy)
 
 ## Translate(int, int) {#translate}
 
-将此[`Region`](../../region)的坐标偏移指定的量。
+偏移 this 的坐标[`Region`](../../region)按指定数量。
 
 ```csharp
 public void Translate(int dx, int dy)
@@ -37,8 +37,8 @@ public void Translate(int dx, int dy)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Int32 | 水平偏移此[`Region`](../../region)的量。 |
-| dy | Int32 | 垂直偏移此[`Region`](../../region)的量。 |
+| dx | Int32 | 抵消这一数额[`Region`](../../region)水平。 |
+| dy | Int32 | 抵消这一数额[`Region`](../../region)垂直。 |
 
 ### 也可以看看
 

@@ -16,14 +16,14 @@ public void SetChannelInfo(int channelIndex, byte[] value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
-| value | Byte[] | 值。 |
+| channelIndex | Int32 | 频道索引。 |
+| value | Byte[] | 价值。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | Mixr 资源不超过 4 个通道。第一个通道的索引为 0 |
+| ArgumentException | Mixr 资源的通道数不超过 4 个。第一个通道的索引为 0 |
 
 ### 也可以看看
 

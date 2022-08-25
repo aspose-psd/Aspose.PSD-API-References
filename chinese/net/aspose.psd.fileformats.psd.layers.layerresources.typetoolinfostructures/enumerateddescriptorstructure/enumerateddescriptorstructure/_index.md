@@ -1,14 +1,14 @@
 ---
 title: EnumeratedDescriptorStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化EnumeratedDescriptorStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure类的新实例
+description: 初始化EnumeratedDescriptorStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumerateddescriptorstructure/
 ---
 ## EnumeratedDescriptorStructure constructor
 
-初始化[`EnumeratedDescriptorStructure`](../../enumerateddescriptorstructure)类的新实例。
+初始化[`EnumeratedDescriptorStructure`](../../enumerateddescriptorstructure)类.
 
 ```csharp
 public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID enumName)
@@ -16,8 +16,8 @@ public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID en
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
-| typeID | ClassID | 类型 ID。 |
+| keyName | ClassID | 键名。 |
+| typeID | ClassID | 类型标识。 |
 | enumName | ClassID | 枚举名称。 |
 
 ### 也可以看看

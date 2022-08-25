@@ -1,14 +1,14 @@
 ---
 title: Underline
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否下划线
+description: 获取或设置一个值指示是否下划线.
 type: docs
 weight: 240
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/underline/
 ---
 ## ITextStyle.Underline property
 
-获取或设置一个值，指示是否[下划线]。
+获取或设置一个值，指示是否[下划线].
 
 ```csharp
 public bool Underline { get; set; }

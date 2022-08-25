@@ -20,7 +20,7 @@ public byte Opacity { get; set; }
 
 ### Примеры
 
-Следующий код демонстрирует использование свойства Opacity объекта DropShadowEffect.
+Следующий код демонстрирует использование свойства Opacity DropShadowEffect.
 
 ```csharp
 [C#]

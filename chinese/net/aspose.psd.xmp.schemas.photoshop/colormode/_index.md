@@ -1,14 +1,14 @@
 ---
 title: ColorMode
 second_title: Aspose.PSD for .NET API 参考
-description: 表示PhotoshopPackage./photoshoppackage中的颜色模式
+description: 表示颜色模式PhotoshopPackage./photoshoppackage .
 type: docs
-weight: 5680
+weight: 5730
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/colormode/
 ---
 ## ColorMode enumeration
 
-表示[`PhotoshopPackage`](../photoshoppackage)中的颜色模式。
+表示颜色模式[`PhotoshopPackage`](../photoshoppackage) .
 
 ```csharp
 public enum ColorMode : byte
@@ -23,9 +23,9 @@ public enum ColorMode : byte
 | IndexedColor | `2` | 索引颜色。 |
 | Rgb | `3` | RGB 颜色。 |
 | Cmyk | `4` | CMYK 颜色模式。 |
-| MultiChannel | `7` | 多通道颜色。 |
+| MultiChannel | `7` | 多通道颜色. |
 | Duotone | `8` | 双色调颜色。 |
-| LabColor | `9` | LAB 颜色。 |
+| LabColor | `9` | 实验室颜色。 |
 
 ### 也可以看看
 

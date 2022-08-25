@@ -16,8 +16,8 @@ public virtual void BinarizeBradley(double brightnessDifference, int windowSize)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brightnessDifference | Double | 像素和像素之间的亮度差异以该像素为中心的 sxs 像素窗口的平均值。 |
-| windowSize | Int32 | 以该像素为中心的像素的 sxs 窗口大小 |
+| brightnessDifference | Double | 像素与以该像素为中心的 sxs 像素窗口的平均值之间的亮度差。 |
+| windowSize | Int32 | 以该像素为中心的像素的 sxs 窗口的大小 |
 
 ### 也可以看看
 
@@ -37,7 +37,7 @@ public virtual void BinarizeBradley(double brightnessDifference)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brightnessDifference | Double | 像素和像素之间的亮度差异以该像素为中心的 sxs 像素窗口的平均值。 |
+| brightnessDifference | Double | 像素与以该像素为中心的 sxs 像素窗口的平均值之间的亮度差。 |
 
 ### 也可以看看
 

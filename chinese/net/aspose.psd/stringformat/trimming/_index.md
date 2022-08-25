@@ -1,14 +1,14 @@
 ---
 title: Trimming
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此StringFormataspose.psd/stringformat对象的StringTrimmingaspose.psd/stringtrimming枚举
+description: 获取或设置StringTrimmingaspose.psd/stringtrimming为此枚举StringFormataspose.psd/stringformat对象.
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/stringformat/trimming/
 ---
 ## StringFormat.Trimming property
 
-获取或设置此[`StringFormat`](../../stringformat)对象的[`StringTrimming`](../../stringtrimming)枚举。
+获取或设置[`StringTrimming`](../../stringtrimming)为此枚举[`StringFormat`](../../stringformat)对象.
 
 ```csharp
 public StringTrimming Trimming { get; set; }
@@ -16,7 +16,7 @@ public StringTrimming Trimming { get; set; }
 
 ### 适当的价值
 
-一个[`StringTrimming`](../../stringtrimming)枚举，指示如何使用此StringFormat绘制文本对象在超出布局矩形的边缘时被修剪。
+一个[`StringTrimming`](../../stringtrimming)指示如何使用此绘制文本的枚举[`StringFormat`](../../stringformat)当对象超出布局矩形的边缘时，它会被修剪。
 
 ### 也可以看看
 

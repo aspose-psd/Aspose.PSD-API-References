@@ -1,14 +1,14 @@
 ---
 title: Bounds
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает границы ограничительной рамки фигуры.
+description: Получает или задает границы ограничивающей рамки фигуры.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/
 ---
 ## VectorShapeBoundingBox.Bounds property
 
-Получает или задает границы ограничительной рамки фигуры.
+Получает или задает границы ограничивающей рамки фигуры.
 
 ```csharp
 public Rectangle Bounds { get; set; }
@@ -16,7 +16,7 @@ public Rectangle Bounds { get; set; }
 
 ### Стоимость имущества
 
-Ограничивающая рамка формы.
+Границы ограничивающей рамки формы.
 
 ### Смотрите также
 

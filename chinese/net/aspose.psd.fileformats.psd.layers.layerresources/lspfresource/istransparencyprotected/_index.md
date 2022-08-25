@@ -16,7 +16,7 @@ public bool IsTransparencyProtected { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例受透明保护；否则，` false` 。
+`真的`如果此实例受透明度保护；否则，`错误的` .
 
 ### 也可以看看
 

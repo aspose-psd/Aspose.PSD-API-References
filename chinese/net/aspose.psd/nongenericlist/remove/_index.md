@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Aspose.PSD for .NET API 参考
-description: 从IList中删除特定对象的第一个匹配项
+description: 从IList .
 type: docs
 weight: 150
 url: /zh/net/aspose.psd/nongenericlist/remove/
 ---
 ## NonGenericList.Remove method
 
-从IList中删除特定对象的第一个匹配项。
+从IList .
 
 ```csharp
 public void Remove(object value)
@@ -16,7 +16,7 @@ public void Remove(object value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Object | 要从IList中删除的Object。 |
+| value | Object | 这Object从IList. |
 
 ### 也可以看看
 

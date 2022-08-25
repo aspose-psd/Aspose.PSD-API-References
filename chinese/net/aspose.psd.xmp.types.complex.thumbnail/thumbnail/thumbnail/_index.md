@@ -1,14 +1,14 @@
 ---
 title: Thumbnail
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化Thumbnailaspose.psd.xmp.types.complex.thumbnail/thumbnail类的新实例
+description: 初始化Thumbnailaspose.psd.xmp.types.complex.thumbnail/thumbnail类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/thumbnail/
 ---
 ## Thumbnail() {#constructor}
 
-初始化[`Thumbnail`](../../thumbnail)类的新实例。
+初始化[`Thumbnail`](../../thumbnail)类.
 
 ```csharp
 public Thumbnail()
@@ -24,7 +24,7 @@ public Thumbnail()
 
 ## Thumbnail(int, int) {#constructor_1}
 
-初始化[`Thumbnail`](../../thumbnail)类的新实例。
+初始化[`Thumbnail`](../../thumbnail)类.
 
 ```csharp
 public Thumbnail(int width, int height)

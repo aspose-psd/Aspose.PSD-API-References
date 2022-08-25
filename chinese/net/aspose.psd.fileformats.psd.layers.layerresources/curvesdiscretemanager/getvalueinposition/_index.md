@@ -1,14 +1,14 @@
 ---
 title: GetValueInPosition
 second_title: Aspose.PSD for .NET API 参考
-description: 获取位置值
+description: 获取位置的值
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/
 ---
 ## CurvesDiscreteManager.GetValueInPosition method
 
-获取位置值。
+获取位置的值。
 
 ```csharp
 public byte GetValueInPosition(int channelIndex, byte position)
@@ -16,12 +16,12 @@ public byte GetValueInPosition(int channelIndex, byte position)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
-| position | Byte | 位置。 |
+| channelIndex | Int32 | 频道索引。 |
+| position | Byte | 立场。 |
 
 ### 返回值
 
-曲线位置的值
+曲线的位置值
 
 ### 也可以看看
 

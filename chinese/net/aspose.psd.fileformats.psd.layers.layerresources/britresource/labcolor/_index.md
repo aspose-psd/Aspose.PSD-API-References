@@ -1,14 +1,14 @@
 ---
 title: LabColor
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值表示是否实验室颜色
+description: 获取或设置一个值指示是否实验室颜色.
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/
 ---
 ## BritResource.LabColor property
 
-获取或设置一个值，表示是否[实验室颜色]。
+获取或设置一个值，指示是否[实验室颜色].
 
 ```csharp
 public bool LabColor { get; set; }
@@ -16,7 +16,7 @@ public bool LabColor { get; set; }
 
 ### 适当的价值
 
-` true` if [实验室颜色]；否则，` false` 。
+`真的`如果 [实验室颜色];否则，`错误的` .
 
 ### 也可以看看
 

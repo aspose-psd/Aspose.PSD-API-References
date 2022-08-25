@@ -3,7 +3,7 @@ title: CurvesManager
 second_title: Справочник по Aspose.PSD для .NET API
 description: Базовый класс для управления CurvResource
 type: docs
-weight: 2370
+weight: 2410
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
 ## CurvesManager class
@@ -18,7 +18,7 @@ public abstract class CurvesManager
 
 | Имя | Описание |
 | --- | --- |
-| [CurvesManager](curvesmanager)(int) | Инициализирует новый экземпляр класса[`CurvesManager`](../curvesmanager). |
+| [CurvesManager](curvesmanager)(int) | Инициализирует новый экземпляр[`CurvesManager`](../curvesmanager) класс. |
 
 ## Характеристики
 

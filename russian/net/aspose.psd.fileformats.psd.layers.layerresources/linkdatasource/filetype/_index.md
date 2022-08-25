@@ -1,14 +1,14 @@
 ---
 title: FileType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает тип встроенного или внешнего файла на который ссылается ресурс Adobe Photoshop Lnk2 / LnkE.
+description: Получает или задает тип встроенного или внешнего файла который содержит ресурс Adobe Photoshop Lnk2 / LnkE или ссылки на него.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/
 ---
 ## LinkDataSource.FileType property
 
-Получает или задает тип встроенного или внешнего файла, на который ссылается ресурс Adobe® Photoshop® Lnk2 / LnkE.
+Получает или задает тип встроенного или внешнего файла, который содержит ресурс Adobe® Photoshop® Lnk2 / LnkE или ссылки на него.
 
 ```csharp
 public string FileType { get; set; }

@@ -22,7 +22,7 @@ public string ChildDocId { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Вы не можете получить доступ к свойству ChildDocId, оно доступен только для источника данных liFE или liFD версии 5 или выше. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Вы не можете получить доступ к свойству ChildDocId, оно доступно только для источника данных liFE или liFD с версией 5 или выше. |
 
 ### Смотрите также
 

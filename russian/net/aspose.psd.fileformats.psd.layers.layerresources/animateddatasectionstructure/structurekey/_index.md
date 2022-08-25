@@ -1,14 +1,14 @@
 ---
 title: StructureKey
 second_title: Справочник по Aspose.PSD для .NET API
-description: Идентифицирует ключ структуры AnD.
+description: Идентифицирует ключ структуры AnDs.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/
 ---
 ## AnimatedDataSectionStructure.StructureKey field
 
-Идентифицирует ключ структуры AnD.
+Идентифицирует ключ структуры AnDs.
 
 ```csharp
 public const int StructureKey;

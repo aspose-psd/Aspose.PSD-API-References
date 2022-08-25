@@ -16,13 +16,13 @@ public int FillOpacity { get; set; }
 
 ### 适当的价值
 
-填充不透明度范围为 0 到 100
+填充不透明度，范围从 0 到 100
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| PsdImageArgumentException | 填充不透明度只能在 0 到 100 的范围内 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | 填充不透明度只能在 0 到 100 的范围内 |
 
 ### 也可以看看
 

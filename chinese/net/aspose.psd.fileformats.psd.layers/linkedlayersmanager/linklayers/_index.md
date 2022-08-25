@@ -1,14 +1,14 @@
 ---
 title: LinkLayers
 second_title: Aspose.PSD for .NET API 参考
-description: 链接输入层并返回 LingGroupId
+description: 链接输入层并返回 LingGroupId.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/
 ---
 ## LinkedLayersManager.LinkLayers method
 
-链接输入层并返回 LingGroupId。
+链接输入层并返回 LingGroupId.
 
 ```csharp
 public short LinkLayers(Layer[] layers)
@@ -26,9 +26,9 @@ public short LinkLayers(Layer[] layers)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 层为空。 |
-| ArgumentException | 层数必须大于1。 |
-| ArgumentException | 各层的容器图层应该与当前的 PsdImage 相同。 |
+| ArgumentNullException | 图层为空。 |
+| ArgumentException | 层数必须大于 1。 |
+| ArgumentException | 每一层的容器应该与当前的 PsdImage 相同。 |
 
 ### 例子
 

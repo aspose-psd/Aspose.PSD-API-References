@@ -1,14 +1,14 @@
 ---
 title: TypeToolKey2
 second_title: Справочник по Aspose.PSD для .NET API
-description: Информационный ключ инструмента типа Pat2 для 16-бит.
+description: Информационный ключ инструмента типа Pat2 для 16бит.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/
 ---
 ## PattResource.TypeToolKey2 field
 
-Информационный ключ инструмента типа 'Pat2' для 16-бит.
+Информационный ключ инструмента типа «Pat2» для 16-бит.
 
 ```csharp
 public const int TypeToolKey2;

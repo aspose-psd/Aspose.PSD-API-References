@@ -1,7 +1,7 @@
 ---
 title: StreamReadException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Исключение чтения потока. Возникает при сбое чтения потока из-за неправильного запроса смещения и подсчета байтов.
+description: Исключение чтения потока. Возникает при сбое чтения потока изза неправильного запроса смещения и подсчета байтов.
 type: docs
 weight: 680
 url: /ru/net/aspose.psd.coreexceptions/streamreadexception/
@@ -18,10 +18,10 @@ public class StreamReadException : FrameworkException
 
 | Имя | Описание |
 | --- | --- |
-| [StreamReadException](streamreadexception#constructor)(string) | Инициализирует новый экземпляр класса[`StreamReadException`](../streamreadexception). |
-| [StreamReadException](streamreadexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр класса[`StreamReadException`](../streamreadexception). |
-| [StreamReadException](streamreadexception#constructor_1)(string, int, int) | Инициализирует новый экземпляр класса[`StreamReadException`](../streamreadexception). |
-| [StreamReadException](streamreadexception#constructor_3)(string, Exception, int, int) | Инициализирует новый экземпляр класса[`StreamReadException`](../streamreadexception). |
+| [StreamReadException](streamreadexception#constructor)(string) | Инициализирует новый экземпляр[`StreamReadException`](../streamreadexception) класс. |
+| [StreamReadException](streamreadexception#constructor_2)(string, Exception) | Инициализирует новый экземпляр[`StreamReadException`](../streamreadexception) класс. |
+| [StreamReadException](streamreadexception#constructor_1)(string, int, int) | Инициализирует новый экземпляр[`StreamReadException`](../streamreadexception) класс. |
+| [StreamReadException](streamreadexception#constructor_3)(string, Exception, int, int) | Инициализирует новый экземпляр[`StreamReadException`](../streamreadexception) класс. |
 
 ## Характеристики
 

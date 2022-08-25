@@ -16,7 +16,7 @@ public int ChannelsCount { get; }
 
 ### 适当的价值
 
-PSD 通道计数。
+PSD 通道数。
 
 ### 也可以看看
 

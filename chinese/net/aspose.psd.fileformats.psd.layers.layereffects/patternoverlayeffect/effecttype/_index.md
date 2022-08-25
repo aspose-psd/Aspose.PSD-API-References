@@ -1,14 +1,14 @@
 ---
 title: EffectType
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一种效果类型
+description: 获取效果类型
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/
 ---
 ## PatternOverlayEffect.EffectType property
 
-获取一种效果类型
+获取效果类型
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }

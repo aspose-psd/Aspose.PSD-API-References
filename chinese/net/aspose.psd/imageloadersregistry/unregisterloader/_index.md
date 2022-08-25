@@ -1,14 +1,14 @@
 ---
 title: UnregisterLoader
 second_title: Aspose.PSD for .NET API 参考
-description: 取消注册加载程序
+description: 注销加载程序
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
 ## ImageLoadersRegistry.UnregisterLoader method
 
-取消注册加载程序。
+注销加载程序。
 
 ```csharp
 public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)

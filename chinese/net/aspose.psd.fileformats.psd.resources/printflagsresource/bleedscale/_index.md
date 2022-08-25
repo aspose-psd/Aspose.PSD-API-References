@@ -16,7 +16,7 @@ public short BleedScale { get; set; }
 
 ### 适当的价值
 
-出血刻度。
+出血量表。
 
 ### 也可以看看
 

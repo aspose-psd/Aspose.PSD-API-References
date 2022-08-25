@@ -1,14 +1,14 @@
 ---
 title: ToGdiColors
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует массивColoraspose.psd/colorв массивColorмножество.
+description: ПреобразуетColoraspose.psd/color массив кColor массив.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.extensions/colorextensions/togdicolors/
 ---
 ## ColorExtensions.ToGdiColors method
 
-Преобразует массив[`Color`](../../../aspose.psd/color)в массивColorмножество.
+Преобразует[`Color`](../../../aspose.psd/color) массив кColor массив.
 
 ```csharp
 public static Color[] ToGdiColors(Color[] colors)
@@ -16,11 +16,11 @@ public static Color[] ToGdiColors(Color[] colors)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colors | Color[] | Массив[`Color`](../../../aspose.psd/color)для преобразования. |
+| colors | Color[] | [`Color`](../../../aspose.psd/color) массив для преобразования. |
 
 ### Возвращаемое значение
 
-Преобразованный массивColor.
+ПреобразованныйColor множество.
 
 ### Смотрите также
 

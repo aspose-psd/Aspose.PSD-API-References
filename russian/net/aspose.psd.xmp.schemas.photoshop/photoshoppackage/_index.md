@@ -3,7 +3,7 @@ title: PhotoshopPackage
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет пространство имен Adobe Photoshop.
 type: docs
-weight: 5700
+weight: 5750
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/
 ---
 ## PhotoshopPackage class
@@ -24,7 +24,7 @@ public sealed class PhotoshopPackage : XmpPackage
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObjectс указанным ключом. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObject с указанным ключом. |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | Получает ключи в пакете XMP. |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | Получает префикс. |
@@ -36,12 +36,12 @@ public sealed class PhotoshopPackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue)(string, string) | Добавляет строковое свойство. |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | Очищает этот экземпляр. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ ключ. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ key. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | Преобразует значение XMP в представление XML. |
 | virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | Удалить значение с указанным ключом. |
 | [SetAuthorsPosition](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition)(string) | Устанавливает позицию авторов. |
-| [SetCaptionWriter](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter)(string) | Устанавливает автора подписи. |
+| [SetCaptionWriter](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter)(string) | Устанавливает автора титров. |
 | [SetCategory](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory)(string) | Устанавливает категорию. |
 | [SetCity](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity)(string) | Устанавливает город. |
 | [SetColorMode](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode)(ColorMode) | Устанавливает цветовой режим. |
@@ -56,7 +56,7 @@ public sealed class PhotoshopPackage : XmpPackage
 | [SetSource](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource)(string) | Устанавливает источник. |
 | [SetState](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setstate)(string) | Устанавливает состояние. |
 | [SetSupplementalCategories](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories)(string[]) | Устанавливает дополнительные категории. |
-| [SetTransmissionReference](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference)(string) | Устанавливает ссылку на передачу. |
+| [SetTransmissionReference](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference)(string) | Устанавливает ссылку передачи. |
 | [SetUrgency](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency)(int) | Устанавливает срочность. |
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue)(string, IXmlValue) | Устанавливает значение. |
 | virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) | Устанавливает значение типа XMP. |

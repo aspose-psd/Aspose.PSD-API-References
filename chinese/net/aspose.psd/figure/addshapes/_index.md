@@ -20,7 +20,7 @@ public void AddShapes(Shape[] shapes)
 
 ### 例子
 
-此示例创建一个新图像并在图像表面上使用图形和图形路径绘制各种形状
+此示例创建一个新 Image 并在 Image 表面上使用 Figures 和 GraphicsPath 绘制各种形状
 
 ```csharp
 [C#]

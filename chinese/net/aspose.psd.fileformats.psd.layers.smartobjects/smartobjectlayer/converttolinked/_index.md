@@ -16,7 +16,7 @@ public void ConvertToLinked(string linkedPath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| linkedPath | String | 链接路径。 |
+| linkedPath | String | 链接的路径。 |
 
 ### 也可以看看
 

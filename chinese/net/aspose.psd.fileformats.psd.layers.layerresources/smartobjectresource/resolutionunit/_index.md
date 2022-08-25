@@ -16,7 +16,7 @@ public UnitTypes ResolutionUnit { get; set; }
 
 ### 适当的价值
 
-智能对象层的分辨率度量单位。
+智能对象层的分辨率测量单位。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SmallRectangularFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Параметры маленького прямоугольного фильтра
+description: Маленький прямоугольный фильтр options
 type: docs
-weight: 4630
+weight: 4680
 url: /ru/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
 ## SmallRectangularFilterOptions class
 
-Параметры маленького прямоугольного фильтра
+Маленький прямоугольный фильтр options
 
 ```csharp
 public class SmallRectangularFilterOptions : FilterOptionsBase

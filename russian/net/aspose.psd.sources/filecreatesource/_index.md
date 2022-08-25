@@ -3,7 +3,7 @@ title: FileCreateSource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет источник файла для создания.
 type: docs
-weight: 5470
+weight: 5520
 url: /ru/net/aspose.psd.sources/filecreatesource/
 ---
 ## FileCreateSource class
@@ -18,8 +18,8 @@ public sealed class FileCreateSource : FileSource
 
 | Имя | Описание |
 | --- | --- |
-| [FileCreateSource](filecreatesource#constructor)(string) | Инициализирует новый экземпляр класса[`FileCreateSource`](../filecreatesource). |
-| [FileCreateSource](filecreatesource#constructor_1)(string, bool) | Инициализирует новый экземпляр класса[`FileCreateSource`](../filecreatesource). |
+| [FileCreateSource](filecreatesource#constructor)(string) | Инициализирует новый экземпляр[`FileCreateSource`](../filecreatesource) класс. |
+| [FileCreateSource](filecreatesource#constructor_1)(string, bool) | Инициализирует новый экземпляр[`FileCreateSource`](../filecreatesource) класс. |
 
 ## Характеристики
 
@@ -36,7 +36,7 @@ public sealed class FileCreateSource : FileSource
 
 ### Примеры
 
-Этот пример демонстрирует использование класса Font и SolidBrush для рисования строк на поверхности изображения. В примере создается новое изображение и рисуются фигуры с использованием Figures и GraphicsPath
+В этом примере демонстрируется использование класса Font и SolidBrush для рисования строк на поверхности изображения. В примере создается новое изображение и рисуются фигуры с использованием Figures и GraphicsPath.
 
 ```csharp
 [C#]

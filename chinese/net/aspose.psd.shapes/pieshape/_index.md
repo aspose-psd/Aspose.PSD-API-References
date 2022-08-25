@@ -1,14 +1,14 @@
 ---
 title: PieShape
 second_title: Aspose.PSD for .NET API 参考
-description: 表示饼形
+description: 代表一个饼形
 type: docs
-weight: 5380
+weight: 5430
 url: /zh/net/aspose.psd.shapes/pieshape/
 ---
 ## PieShape class
 
-表示饼形。
+代表一个饼形。
 
 ```csharp
 public class PieShape : EllipseShape
@@ -18,8 +18,8 @@ public class PieShape : EllipseShape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PieShape](pieshape#constructor)() | 初始化[`PieShape`](../pieshape)类的新实例。 |
-| [PieShape](pieshape#constructor_1)(RectangleF, float, float) | 初始化[`PieShape`](../pieshape)类的新实例。 |
+| [PieShape](pieshape#constructor)() | 初始化[`PieShape`](../pieshape)类. |
+| [PieShape](pieshape#constructor_1)(RectangleF, float, float) | 初始化[`PieShape`](../pieshape)类. |
 
 ## 特性
 
@@ -27,13 +27,13 @@ public class PieShape : EllipseShape
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds) { get; } | 获取对象的边界。 |
 | override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center) { get; } | 获取形状的中心。 |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | 获取表示形状是否有段的值。 |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | 获取一个表示形状是否有段的值。 |
 | [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | 获取左下角矩形点。 |
 | [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | 获取左上角矩形点。 |
 | [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | 获取矩形高度。 |
 | [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | 获取矩形宽度。 |
 | [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | 获取右下角矩形点。 |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上矩形点。 |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上角的矩形点。 |
 | override [Segments](../../aspose.psd.shapes/pieshape/segments) { get; } | 获取形状段。 |
 | [StartAngle](../../aspose.psd.shapes/pieshape/startangle) { get; set; } | 获取或设置起始角度。 |
 | [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle) { get; set; } | 获取或设置扫掠角。 |
@@ -48,7 +48,7 @@ public class PieShape : EllipseShape
 
 ### 例子
 
-此示例创建一个新图像并在图像表面上使用图形和图形路径绘制各种形状
+此示例创建一个新 Image 并在 Image 表面上使用 Figures 和 GraphicsPath 绘制各种形状
 
 ```csharp
 [C#]

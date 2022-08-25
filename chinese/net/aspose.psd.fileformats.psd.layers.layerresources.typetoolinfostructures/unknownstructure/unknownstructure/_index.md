@@ -1,14 +1,14 @@
 ---
 title: UnknownStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化UnknownStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure类的新实例
+description: 初始化UnknownStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/unknownstructure/
 ---
 ## UnknownStructure constructor
 
-初始化[`UnknownStructure`](../../unknownstructure)类的新实例。
+初始化[`UnknownStructure`](../../unknownstructure)类.
 
 ```csharp
 public UnknownStructure(ClassID keyName, int key)
@@ -16,7 +16,7 @@ public UnknownStructure(ClassID keyName, int key)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 | key | Int32 | 结构键。 |
 
 ### 也可以看看

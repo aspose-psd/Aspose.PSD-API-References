@@ -1,14 +1,14 @@
 ---
 title: ColorFillSettings
 second_title: Справочник по Aspose.PSD для .NET API
-description: Настройки эффекта заливки цветом
+description: Настройки эффекта цветовой заливки
 type: docs
-weight: 1870
+weight: 1910
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
 ## ColorFillSettings class
 
-Настройки эффекта заливки цветом
+Настройки эффекта цветовой заливки
 
 ```csharp
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
@@ -19,11 +19,11 @@ public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 | Имя | Описание |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color) { get; set; } | Получает или задает цвет. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype) { get; } | Тип заполнения |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype) { get; } | Тип заливки |
 
 ### Примеры
 
-Следующий код демонстрирует поддержку обводки Слой эффекта с типом заливки - Цвет.
+Следующий код демонстрирует поддержку слоя с эффектом обводки с типом заливки — Цвет.
 
 ```csharp
 [C#]

@@ -1,9 +1,9 @@
 ---
 title: BlwhResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс BlwhResource является ресурсом черно-белого корректирующего слоя.
+description: Класс BlwhResource является ресурсом чернобелого корректирующего слоя.
 type: docs
-weight: 2260
+weight: 2300
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 ---
 ## BlwhResource class
@@ -26,13 +26,13 @@ public class BlwhResource : AdjustmentLayerResource
 | --- | --- |
 | [BlackAndWhitePresetFileName](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename) { get; set; } | Получает или задает имя файла предустановленных черно-белых изображений. |
 | [Blues](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues) { get; set; } | Получает или задает значение блюза. |
-| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind) { get; set; } | Получает или задает предустановленное значение вида черно-белого изображения. |
+| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind) { get; set; } | Получает или задает значение предустановленного вида черно-белого изображения. |
 | [Cyans](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/cyans) { get; set; } | Получает или задает значение голубого цвета. |
 | [Greens](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens) { get; set; } | Получает или задает значение зелени. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | [Magentas](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas) { get; set; } | Получает или задает значение пурпурного цвета. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion) { get; } | Получает версию psd. |
 | [Reds](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds) { get; set; } | Получает или задает значение красного цвета. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Получает подпись. |
 | [TintColor](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor) { get; set; } | Получает или задает значение ARGB цвета оттенка. |
@@ -44,13 +44,13 @@ public class BlwhResource : AdjustmentLayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey) | Ключ информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey) | Клавиша информации о типе инструмента. |
 
 ### Примеры
 

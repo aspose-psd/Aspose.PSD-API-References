@@ -17,7 +17,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | streamContainer | StreamContainer | 流容器。 |
-| psdVersion | Int32 | psd 版本。 |
+| psdVersion | Int32 | psd版本。 |
 
 ### 例外
 

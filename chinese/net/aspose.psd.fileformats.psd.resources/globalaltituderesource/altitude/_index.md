@@ -1,14 +1,14 @@
 ---
 title: Altitude
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置高度
+description: 获取或设置海拔高度
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/
 ---
 ## GlobalAltitudeResource.Altitude property
 
-获取或设置高度。
+获取或设置海拔高度。
 
 ```csharp
 public int Altitude { get; set; }

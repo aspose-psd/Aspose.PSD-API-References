@@ -16,7 +16,7 @@ public int Angle { get; set; }
 
 ### 适当的价值
 
-角度。
+角度.
 
 ### 例子
 

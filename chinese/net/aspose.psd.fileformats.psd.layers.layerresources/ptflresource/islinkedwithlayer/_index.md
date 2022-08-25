@@ -16,7 +16,7 @@ public bool IsLinkedWithLayer { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例与图层链接；否则，` false` 。
+`真的`如果此实例与图层链接；否则，`错误的` .
 
 ### 例子
 

@@ -3,7 +3,7 @@ title: MultiPageMode
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет многостраничный режим
 type: docs
-weight: 4730
+weight: 4780
 url: /ru/net/aspose.psd.imageoptions/multipagemode/
 ---
 ## MultiPageMode enumeration
@@ -18,7 +18,7 @@ public enum MultiPageMode
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Pages | `0` | Индексы используемых страниц |
+| Pages | `0` | Используемые индексы страниц |
 | Titles | `1` | Используемые заголовки страниц |
 | Range | `2` | Используемый диапазон страниц |
 | AllPages | `3` | Использованы все страницы |

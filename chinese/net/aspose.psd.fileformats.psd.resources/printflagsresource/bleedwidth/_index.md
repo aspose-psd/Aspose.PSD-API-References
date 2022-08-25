@@ -1,14 +1,14 @@
 ---
 title: BleedWidth
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置出血宽度
+description: 获取或设置出血的宽度
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/
 ---
 ## PrintFlagsResource.BleedWidth property
 
-获取或设置出血宽度。
+获取或设置出血的宽度。
 
 ```csharp
 public int BleedWidth { get; set; }
@@ -16,7 +16,7 @@ public int BleedWidth { get; set; }
 
 ### 适当的价值
 
-出血宽度。
+出血的宽度。
 
 ### 也可以看看
 

@@ -13,7 +13,7 @@ url: /ru/net/aspose.psd.exif/
 | Учебный класс | Описание |
 | --- | --- |
 | [ExifData](./exifdata) | Контейнер данных EXIF. |
-| [JpegExifData](./jpegexifdata) | Контейнер данных EXIF для файлов jpeg. |
+| [JpegExifData](./jpegexifdata) | Контейнер данных EXIF для файлов JPEG. |
 | [TiffDataTypeController](./tiffdatatypecontroller) | Представляет общий класс для работы с типами данных tiff. |
 ## перечисление
 

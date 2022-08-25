@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此PointFaspose.psd/pointf的 y 坐标
+description: 获取或设置 this 的 y 坐标PointFaspose.psd/pointf .
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/pointf/y/
 ---
 ## PointF.Y property
 
-获取或设置此[`PointF`](../../pointf)的 y 坐标。
+获取或设置 this 的 y 坐标[`PointF`](../../pointf) .
 
 ```csharp
 public float Y { get; set; }

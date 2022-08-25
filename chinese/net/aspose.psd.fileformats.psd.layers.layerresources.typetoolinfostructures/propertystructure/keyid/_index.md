@@ -16,7 +16,7 @@ public ClassID KeyID { get; set; }
 
 ### 适当的价值
 
-密钥 ID。
+密钥 ID.
 
 ### 也可以看看
 

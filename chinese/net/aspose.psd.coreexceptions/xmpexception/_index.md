@@ -1,14 +1,14 @@
 ---
 title: XmpException
 second_title: Aspose.PSD for .NET API 参考
-description: XMP 具有无效结构时引发的异常
+description: XMP 结构无效时抛出的异常
 type: docs
 weight: 690
 url: /zh/net/aspose.psd.coreexceptions/xmpexception/
 ---
 ## XmpException class
 
-XMP 具有无效结构时引发的异常。
+XMP 结构无效时抛出的异常。
 
 ```csharp
 public class XmpException : FrameworkException
@@ -18,9 +18,9 @@ public class XmpException : FrameworkException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpException](xmpexception#constructor)() | 初始化[`XmpException`](../xmpexception)类的新实例。 |
-| [XmpException](xmpexception#constructor_1)(string) | 初始化[`XmpException`](../xmpexception)类的新实例。 |
-| [XmpException](xmpexception#constructor_2)(string, Exception) | 初始化[`XmpException`](../xmpexception)类的新实例。 |
+| [XmpException](xmpexception#constructor)() | 初始化[`XmpException`](../xmpexception)类. |
+| [XmpException](xmpexception#constructor_1)(string) | 初始化[`XmpException`](../xmpexception)类. |
+| [XmpException](xmpexception#constructor_2)(string, Exception) | 初始化[`XmpException`](../xmpexception)类. |
 
 ### 也可以看看
 

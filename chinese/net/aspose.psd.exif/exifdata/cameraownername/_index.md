@@ -16,7 +16,7 @@ public string CameraOwnerName { get; set; }
 
 ### 适当的价值
 
-相机所有者的名称。
+相机所有者的姓名。
 
 ### 也可以看看
 

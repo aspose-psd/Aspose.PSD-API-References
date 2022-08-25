@@ -1,14 +1,14 @@
 ---
 title: HasTransparentColors
 second_title: Aspose.PSD for .NET API 参考
-description: 确定指定调色板是否具有透明色
+description: 判断指定调色板是否有透明色
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
 ## ColorPaletteHelper.HasTransparentColors method
 
-确定指定调色板是否具有透明色。
+判断指定调色板是否有透明色。
 
 ```csharp
 public static bool HasTransparentColors(IColorPalette palette)
@@ -20,13 +20,13 @@ public static bool HasTransparentColors(IColorPalette palette)
 
 ### 返回值
 
-` true` 如果指定的调色板具有透明色；否则，` false` 。
+`真的`如果指定的调色板具有透明色；否则，`错误的` .
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *palette*为空。 |
+| ArgumentNullException | *palette*一片空白。 |
 
 ### 也可以看看
 

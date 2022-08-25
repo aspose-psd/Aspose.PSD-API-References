@@ -1,14 +1,14 @@
 ---
 title: BooleanStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаBooleanStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure.
+description: Инициализирует новый экземплярBooleanStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/booleanstructure/
 ---
 ## BooleanStructure constructor
 
-Инициализирует новый экземпляр класса[`BooleanStructure`](../../booleanstructure).
+Инициализирует новый экземпляр[`BooleanStructure`](../../booleanstructure) класс.
 
 ```csharp
 public BooleanStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public BooleanStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 

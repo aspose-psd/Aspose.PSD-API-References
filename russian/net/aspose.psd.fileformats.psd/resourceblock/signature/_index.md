@@ -1,14 +1,14 @@
 ---
 title: Signature
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает подпись ресурса. Должно быть всегда 8BIM.
+description: Получает подпись ресурса. Всегда должно быть 8BIM.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/signature/
 ---
 ## ResourceBlock.Signature property
 
-Получает подпись ресурса. Должно быть всегда «8BIM».
+Получает подпись ресурса. Всегда должно быть «8BIM».
 
 ```csharp
 public int Signature { get; }

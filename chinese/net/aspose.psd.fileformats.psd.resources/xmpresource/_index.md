@@ -3,7 +3,7 @@ title: XmpResource
 second_title: Aspose.PSD for .NET API 参考
 description: 表示 XMP 元数据资源
 type: docs
-weight: 3880
+weight: 3930
 url: /zh/net/aspose.psd.fileformats.psd.resources/xmpresource/
 ---
 ## XmpResource class
@@ -24,11 +24,11 @@ public sealed class XmpResource : ResourceBlock
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/xmpresource/datasize) { get; } | 获取资源数据大小（以字节为单位）。 |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/xmpresource/datasize) { get; } | 以字节为单位获取资源数据大小。 |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | 获取或设置资源的唯一标识符。 |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/xmpresource/minimalversion) { get; } | 获取所需的最低 psd 版本。 |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。 Pascal 字符串，填充以使大小均匀（空名称由两个字节的 0 组成）。 |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应始终为“8BIM”。 |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。帕斯卡字符串，填充以使大小均匀（空名称由两个字节的 0 组成）. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应该总是'8BIM'. |
 | [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | 获取资源块大小（以字节为单位），包括其数据。 |
 | [XmpData](../../aspose.psd.fileformats.psd.resources/xmpresource/xmpdata) { get; set; } | 获取或设置 XMP 数据容器 |
 
@@ -36,7 +36,7 @@ public sealed class XmpResource : ResourceBlock
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定流。 |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定的流中。 |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | 验证资源值。 |
 
 ### 也可以看看

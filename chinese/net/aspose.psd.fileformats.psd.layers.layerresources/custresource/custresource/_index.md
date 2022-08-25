@@ -1,14 +1,14 @@
 ---
 title: CustResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化CustResourceaspose.psd.fileformats.psd.layers.layerresources/custresource类的新实例
+description: 初始化CustResourceaspose.psd.fileformats.psd.layers.layerresources/custresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/custresource/
 ---
 ## CustResource() {#constructor}
 
-初始化[`CustResource`](../../custresource)类的新实例。
+初始化[`CustResource`](../../custresource)类.
 
 ```csharp
 public CustResource()
@@ -24,7 +24,7 @@ public CustResource()
 
 ## CustResource(byte[]) {#constructor_1}
 
-初始化[`CustResource`](../../custresource)类的新实例。
+初始化[`CustResource`](../../custresource)类.
 
 ```csharp
 public CustResource(byte[] data)

@@ -1,14 +1,14 @@
 ---
 title: Fonts
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает шрифты.
+description: Получает или устанавливает шрифты.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/
 ---
 ## TypeToolInfoResource.Fonts property
 
-Получает или задает шрифты.
+Получает или устанавливает шрифты.
 
 ```csharp
 public TypeToolFontInfo[] Fonts { get; set; }

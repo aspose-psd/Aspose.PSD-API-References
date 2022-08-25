@@ -20,7 +20,7 @@ public VectorPathRecord[] Paths { get; set; }
 
 ### 例子
 
-这个例子演示了 PsdImage.ImageResources 中的“WorkingPathResource”资源的支持，以便正确进行裁剪操作。
+此示例演示了对 PsdImage.ImageResources 中的“WorkingPathResource”资源的支持，以便正确进行裁剪操作。
 
 ```csharp
 [C#]

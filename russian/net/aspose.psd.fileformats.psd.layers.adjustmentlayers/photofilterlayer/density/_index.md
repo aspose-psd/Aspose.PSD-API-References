@@ -1,14 +1,14 @@
 ---
 title: Density
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает плотность фильтра
+description: Получает или задает плотность filter
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/density/
 ---
 ## PhotoFilterLayer.Density property
 
-Получает или устанавливает плотность фильтра
+Получает или задает плотность filter
 
 ```csharp
 public int Density { get; set; }
@@ -22,7 +22,7 @@ public int Density { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Плотность должна быть в диапазоне от 0 до 100 |
+| ArgumentOutOfRangeException | Плотность должна быть в диапазоне от 0 до 100. |
 
 ### Смотрите также
 

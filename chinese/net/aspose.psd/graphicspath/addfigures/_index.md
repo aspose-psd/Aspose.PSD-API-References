@@ -1,14 +1,14 @@
 ---
 title: AddFigures
 second_title: Aspose.PSD for .NET API 参考
-description: 添加新数字
+description: 添加新人物
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/graphicspath/addfigures/
 ---
 ## GraphicsPath.AddFigures method
 
-添加新数字。
+添加新人物。
 
 ```csharp
 public void AddFigures(Figure[] figures)
@@ -20,7 +20,7 @@ public void AddFigures(Figure[] figures)
 
 ### 例子
 
-此示例创建一个新图像并在图像表面上使用图形和图形路径绘制各种形状
+此示例创建一个新 Image 并在 Image 表面上使用 Figures 和 GraphicsPath 绘制各种形状
 
 ```csharp
 [C#]

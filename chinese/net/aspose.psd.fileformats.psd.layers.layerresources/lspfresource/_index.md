@@ -1,14 +1,14 @@
 ---
 title: LspfResource
 second_title: Aspose.PSD for .NET API 参考
-description: 图层保护设置
+description: 层保护设置
 type: docs
-weight: 2730
+weight: 2770
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/
 ---
 ## LspfResource class
 
-图层保护设置
+层保护设置
 
 ```csharp
 public class LspfResource : LayerResource
@@ -18,9 +18,9 @@ public class LspfResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LspfResource](lspfresource#constructor)() | 初始化[`LspfResource`](../lspfresource)类的新实例。 |
-| [LspfResource](lspfresource#constructor_2)(byte[]) | 初始化[`LspfResource`](../lspfresource)类的新实例。 具有自定义或未知值 |
-| [LspfResource](lspfresource#constructor_1)(bool, bool, bool) | 初始化[`LspfResource`](../lspfresource)类的新实例。 |
+| [LspfResource](lspfresource#constructor)() | 初始化[`LspfResource`](../lspfresource)类. |
+| [LspfResource](lspfresource#constructor_2)(byte[]) | 初始化[`LspfResource`](../lspfresource) class. 具有自定义或未知值 |
+| [LspfResource](lspfresource#constructor_1)(bool, bool, bool) | 初始化[`LspfResource`](../lspfresource)类. |
 
 ## 特性
 
@@ -29,8 +29,8 @@ public class LspfResource : LayerResource
 | [IsCompositeProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected) { get; set; } | 获取或设置一个值，该值指示此实例是否受复合保护。 |
 | [IsPositionProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected) { get; set; } | 获取或设置一个值，该值指示此实例是否受位置保护。 |
 | [IsTransparencyProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected) { get; set; } | 获取或设置一个值，该值指示此实例是否受透明保护。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | [LockType](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype) { get; set; } | 获取或设置锁的类型。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/signature) { get; } | 获取图层资源签名。 |
@@ -40,7 +40,7 @@ public class LspfResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

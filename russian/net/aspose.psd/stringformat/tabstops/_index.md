@@ -1,14 +1,14 @@
 ---
 title: TabStops
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает массив расстояний между позициями табуляции в единицах указанных в свойствеPageUnitaspose.psd/graphics/pageunit.
+description: Получает массив расстояний между позициями табуляции в единицах указанныхPageUnitaspose.psd/graphics/pageunit свойство.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/stringformat/tabstops/
 ---
 ## StringFormat.TabStops property
 
-Получает массив расстояний между позициями табуляции в единицах, указанных в свойстве[`PageUnit`](../../graphics/pageunit).
+Получает массив расстояний между позициями табуляции в единицах, указанных[`PageUnit`](../../graphics/pageunit) свойство.
 
 ```csharp
 public float[] TabStops { get; }
@@ -20,7 +20,7 @@ public float[] TabStops { get; }
 
 ### Примечания
 
-Введено свойство для удаленного метода GetTabStops.
+Свойство введено для удаленного метода GetTabStops.
 
 ### Смотрите также
 

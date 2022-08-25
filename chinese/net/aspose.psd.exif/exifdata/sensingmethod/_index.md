@@ -1,14 +1,14 @@
 ---
 title: SensingMethod
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置感应方式
+description: 获取或设置传感方法
 type: docs
 weight: 920
 url: /zh/net/aspose.psd.exif/exifdata/sensingmethod/
 ---
 ## ExifData.SensingMethod property
 
-获取或设置感应方式。
+获取或设置传感方法。
 
 ```csharp
 public ExifSensingMethod SensingMethod { get; set; }
@@ -16,7 +16,7 @@ public ExifSensingMethod SensingMethod { get; set; }
 
 ### 适当的价值
 
-感应方式。
+感应方式.
 
 ### 也可以看看
 

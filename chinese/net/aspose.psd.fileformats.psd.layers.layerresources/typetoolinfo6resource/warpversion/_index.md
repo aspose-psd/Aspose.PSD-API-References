@@ -16,7 +16,7 @@ public short WarpVersion { get; set; }
 
 ### 适当的价值
 
-扭曲版本。
+经线版本。
 
 ### 也可以看看
 

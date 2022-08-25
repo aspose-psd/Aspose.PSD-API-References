@@ -3,7 +3,7 @@ title: BooleanStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 布尔结构
 type: docs
-weight: 3010
+weight: 3060
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/
 ---
 ## BooleanStructure class
@@ -18,7 +18,7 @@ public sealed class BooleanStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BooleanStructure](booleanstructure)(ClassID) | 初始化[`BooleanStructure`](../booleanstructure)类的新实例。 |
+| [BooleanStructure](booleanstructure)(ClassID) | 初始化[`BooleanStructure`](../booleanstructure)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public sealed class BooleanStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value) { get; set; } | 获取或设置一个布尔值。 |
 
 ## 方法

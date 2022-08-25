@@ -16,7 +16,7 @@ public static int GetC(int cmyk)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cmyk | Int32 | CMYK 颜色呈现为 32 位整数值。 |
+| cmyk | Int32 | CMYK 颜色显示为 32 位整数值。 |
 
 ### 返回值
 

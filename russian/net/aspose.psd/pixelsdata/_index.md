@@ -3,7 +3,7 @@ title: PixelsData
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс для хранения данных пикселей изображения и их границ.
 type: docs
-weight: 5130
+weight: 5180
 url: /ru/net/aspose.psd/pixelsdata/
 ---
 ## PixelsData class
@@ -18,19 +18,19 @@ public sealed class PixelsData
 
 | Имя | Описание |
 | --- | --- |
-| [PixelsData](pixelsdata#constructor)() | Инициализирует новый экземпляр класса[`PixelsData`](../pixelsdata). |
-| [PixelsData](pixelsdata#constructor_1)(int[], Rectangle) | Инициализирует новый экземпляр класса[`PixelsData`](../pixelsdata). |
+| [PixelsData](pixelsdata#constructor)() | Инициализирует новый экземпляр[`PixelsData`](../pixelsdata) класс. |
+| [PixelsData](pixelsdata#constructor_1)(int[], Rectangle) | Инициализирует новый экземпляр[`PixelsData`](../pixelsdata) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Bounds](../../aspose.psd/pixelsdata/bounds) { get; set; } | Получает или задает границы данных пикселей. |
-| [Pixels](../../aspose.psd/pixelsdata/pixels) { get; set; } | Получает или задает данные пикселей. |
+| [Pixels](../../aspose.psd/pixelsdata/pixels) { get; set; } | Получает или задает данные о пикселях. |
 
 ### Примеры
 
-В следующем коде показано, как создать настраиваемый смарт-фильтр с настраиваемым модулем визуализации.
+В следующем коде показано, как создать настраиваемый интеллектуальный фильтр с настраиваемым модулем визуализации.
 
 ```csharp
 [C#]

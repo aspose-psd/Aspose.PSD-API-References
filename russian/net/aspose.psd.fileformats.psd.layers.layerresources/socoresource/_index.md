@@ -1,14 +1,14 @@
 ---
 title: SoCoResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс SoCoResource. Этот ресурс содержит информацию о слоях заливки цветом
+description: Класс SoCoResource. Этот ресурс содержит информацию о Color Fill Layers
 type: docs
-weight: 2930
+weight: 2980
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
 ## SoCoResource class
 
-Класс SoCoResource. Этот ресурс содержит информацию о слоях заливки цветом
+Класс SoCoResource. Этот ресурс содержит информацию о Color Fill Layers
 
 ```csharp
 public class SoCoResource : FillLayerResource
@@ -18,13 +18,13 @@ public class SoCoResource : FillLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [SoCoResource](socoresource)() | Инициализирует новый экземпляр класса[`SoCoResource`](../socoresource). |
+| [SoCoResource](socoresource)() | Инициализирует новый экземпляр[`SoCoResource`](../socoresource) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color) { get; set; } | Получает цвет RGB. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color) { get; set; } | Получает цвет RGB . |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
@@ -35,17 +35,17 @@ public class SoCoResource : FillLayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 
-В следующем примере показано, как редактировать SoCoResource (ресурс слоя для слоя заливки цветом)
+В следующем примере показано, как редактировать SoCoResource (ресурс слоя для слоя заливки цветом).
 
 ```csharp
 [C#]

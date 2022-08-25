@@ -1,14 +1,14 @@
 ---
 title: PathStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PathStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure类的新实例
+description: 初始化PathStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/pathstructure/
 ---
 ## PathStructure constructor
 
-初始化[`PathStructure`](../../pathstructure)类的新实例。
+初始化[`PathStructure`](../../pathstructure)类.
 
 ```csharp
 public PathStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public PathStructure(ClassID keyName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 
 ### 例子
 

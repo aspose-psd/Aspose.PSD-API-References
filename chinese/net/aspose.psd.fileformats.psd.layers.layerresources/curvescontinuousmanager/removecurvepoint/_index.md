@@ -16,7 +16,7 @@ public void RemoveCurvePoint(int channelIndex, int pointIndex)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
+| channelIndex | Int32 | 频道索引。 |
 | pointIndex | Int32 | 点的索引。 |
 
 ### 也可以看看

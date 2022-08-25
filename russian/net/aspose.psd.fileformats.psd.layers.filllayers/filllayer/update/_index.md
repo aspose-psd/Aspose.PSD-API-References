@@ -1,14 +1,14 @@
 ---
 title: Update
 second_title: Справочник по Aspose.PSD для .NET API
-description: Обновляет данные пикселей слоя заливки в соответствии с фактическимиIFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/ifillsettings.
+description: Обновляет данные пикселей слоя заливки в соответствии с фактическимиIFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/ifillsettings .
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
 ## FillLayer.Update method
 
-Обновляет данные пикселей слоя заливки в соответствии с фактическими[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings).
+Обновляет данные пикселей слоя заливки в соответствии с фактическими[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings) .
 
 ```csharp
 public void Update()
@@ -22,7 +22,7 @@ public void Update()
 
 ### Примеры
 
-следующий код демонстрирует поддержку слоев заливки:Заливка цветом.
+Следующий код демонстрирует поддержку слоев заливки: Заливка цветом.
 
 ```csharp
 [C#]
@@ -81,7 +81,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-Следующий код сохраняет изображения со слоем заливки узором и демонстрирует, как Aspose.PSD отображает узор.
+Следующий код сохраняет изображения со слоем заливки шаблона и демонстрирует, как Aspose.PSD отображает шаблон.
 
 ```csharp
 [C#]

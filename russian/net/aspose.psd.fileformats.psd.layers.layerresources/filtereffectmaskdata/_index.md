@@ -3,7 +3,7 @@ title: FilterEffectMaskData
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс данных маски фильтра.
 type: docs
-weight: 2420
+weight: 2460
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/
 ---
 ## FilterEffectMaskData class
@@ -18,7 +18,7 @@ public sealed class FilterEffectMaskData
 
 | Имя | Описание |
 | --- | --- |
-| [FilterEffectMaskData](filtereffectmaskdata)(string, Rectangle, int, int, ChannelInformation[], ChannelInformation, Rectangle, ChannelInformation) | Инициализирует новый экземпляр класса[`FilterEffectMaskData`](../filtereffectmaskdata). |
+| [FilterEffectMaskData](filtereffectmaskdata)(string, Rectangle, int, int, ChannelInformation[], ChannelInformation, Rectangle, ChannelInformation) | Инициализирует новый экземпляр[`FilterEffectMaskData`](../filtereffectmaskdata) класс. |
 
 ## Характеристики
 

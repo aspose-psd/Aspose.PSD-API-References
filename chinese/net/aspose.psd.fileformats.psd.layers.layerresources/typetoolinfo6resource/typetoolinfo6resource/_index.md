@@ -1,14 +1,14 @@
 ---
 title: TypeToolInfo6Resource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化TypeToolInfo6Resourceaspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource类的新实例
+description: 初始化TypeToolInfo6Resourceaspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolinfo6resource/
 ---
 ## TypeToolInfo6Resource constructor
 
-初始化[`TypeToolInfo6Resource`](../../typetoolinfo6resource)类的新实例。
+初始化[`TypeToolInfo6Resource`](../../typetoolinfo6resource)类.
 
 ```csharp
 public TypeToolInfo6Resource(ClassID classID, ClassID warpClassID)

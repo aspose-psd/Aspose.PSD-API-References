@@ -1,14 +1,14 @@
 ---
 title: ClassName
 second_title: Aspose.PSD for .NET API 参考
-description: 以 ASCII 编码获取类名
+description: 获取 ASCII 编码的类名
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classname/
 ---
 ## ClassID.ClassName property
 
-以 ASCII 编码获取类名。
+获取 ASCII 编码的类名。
 
 ```csharp
 public string ClassName { get; }

@@ -1,7 +1,7 @@
 ---
 title: AddBlackWhiteAdjustmentLayer
 second_title: Справочник по Aspose.PSD для .NET API
-description: Добавляет черно-белый корректирующий слой.
+description: Добавляет чернобелый корректирующий слой.
 type: docs
 weight: 290
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
@@ -20,7 +20,7 @@ public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 
 ### Примеры
 
-В следующем примере показано, как добавить черно-белый корректирующий слой во время выполнения в Aspose.PSD
+В следующем примере показано, как добавить черно-белый корректирующий слой во время выполнения в Aspose.PSD.
 
 ```csharp
 [C#]

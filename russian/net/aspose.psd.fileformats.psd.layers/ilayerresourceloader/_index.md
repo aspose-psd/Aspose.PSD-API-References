@@ -3,7 +3,7 @@ title: ILayerResourceLoader
 second_title: Справочник по Aspose.PSD для .NET API
 description: Загрузчик ресурсов слоя.
 type: docs
-weight: 2010
+weight: 2050
 url: /ru/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
 ## ILayerResourceLoader interface
@@ -18,8 +18,8 @@ public interface ILayerResourceLoader
 
 | Имя | Описание |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload)(StreamContainer, int) | Определяет, можно ли загрузить ресурс слоя из указанного[`StreamContainer`](../../aspose.psd/streamcontainer). |
-| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load)(StreamContainer, int) | Загружает[`LayerResource`](../layerresource). |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload)(StreamContainer, int) | Определяет, можно ли загрузить ресурс слоя из указанного[`StreamContainer`](../../aspose.psd/streamcontainer) . |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load)(StreamContainer, int) | Загружает[`LayerResource`](../layerresource) . |
 
 ### Смотрите также
 

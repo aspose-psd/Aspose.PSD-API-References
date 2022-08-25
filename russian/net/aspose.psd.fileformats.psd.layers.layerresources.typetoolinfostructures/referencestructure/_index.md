@@ -3,7 +3,7 @@ title: ReferenceStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Ссылочная структура.
 type: docs
-weight: 3140
+weight: 3190
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/
 ---
 ## ReferenceStructure class
@@ -18,16 +18,16 @@ public sealed class ReferenceStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [ReferenceStructure](referencestructure)(ClassID) | Инициализирует новый экземпляр класса[`ReferenceStructure`](../referencestructure). |
+| [ReferenceStructure](referencestructure)(ClassID) | Инициализирует новый экземпляр[`ReferenceStructure`](../referencestructure) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items) { get; set; } | Получает или задает элементы. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items) { get; set; } | Получает или задает копию массива структур. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 
 ## Методы
 

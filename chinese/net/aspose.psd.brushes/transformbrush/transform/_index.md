@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个副本Matrixaspose.psd/matrix它为此TransformBrush定义了一个局部几何变换
+description: 获取或设置一个副本Matrixaspose.psd/matrix它为此定义了一个局部几何变换TransformBrushaspose.psd.brushes/transformbrush .
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.brushes/transformbrush/transform/
 ---
 ## TransformBrush.Transform property
 
-获取或设置一个副本[`Matrix`](../../../aspose.psd/matrix)，它为此TransformBrush定义了一个局部几何变换。
+获取或设置一个副本[`Matrix`](../../../aspose.psd/matrix)它为此定义了一个局部几何变换[`TransformBrush`](../../transformbrush) .
 
 ```csharp
 public Matrix Transform { get; set; }
@@ -16,7 +16,7 @@ public Matrix Transform { get; set; }
 
 ### 返回值
 
-[`Matrix`](../../../aspose.psd/matrix)的副本，它定义了仅适用于使用此[`TransformBrush`](../../transformbrush) 绘制的填充的几何变换。
+的副本[`Matrix`](../../../aspose.psd/matrix)定义了一个几何变换，该变换仅适用于用这个绘制的填充[`TransformBrush`](../../transformbrush).
 
 ### 也可以看看
 

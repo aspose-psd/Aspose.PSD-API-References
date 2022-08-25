@@ -16,7 +16,7 @@ public PointF FocusScales { get; set; }
 
 ### 适当的价值
 
-[`PointF`](../../../aspose.psd/pointf)表示渐变衰减的焦点。
+一个[`PointF`](../../../aspose.psd/pointf)表示渐变衰减的焦点。
 
 ### 也可以看看
 

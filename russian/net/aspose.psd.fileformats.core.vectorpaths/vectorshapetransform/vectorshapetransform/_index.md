@@ -1,14 +1,14 @@
 ---
 title: VectorShapeTransform
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаVectorShapeTransformaspose.psd.fileformats.core.vectorpaths/vectorshapetransform.
+description: Инициализирует новый экземплярVectorShapeTransformaspose.psd.fileformats.core.vectorpaths/vectorshapetransform класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/vectorshapetransform/
 ---
 ## VectorShapeTransform constructor
 
-Инициализирует новый экземпляр класса[`VectorShapeTransform`](../../vectorshapetransform).
+Инициализирует новый экземпляр[`VectorShapeTransform`](../../vectorshapetransform) класс.
 
 ```csharp
 public VectorShapeTransform()
@@ -16,7 +16,7 @@ public VectorShapeTransform()
 
 ### Примеры
 
-В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners для ShapeOriginSettings в ресурсе Vogk для FillLayer в файле PSD.
+В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners ShapeOriginSettings в ресурсе Vogk FillLayer в PSD-файле.
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: VectorShapeOriginSettings
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаVectorShapeOriginSettingsaspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings.
+description: Инициализирует новый экземплярVectorShapeOriginSettingsaspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/vectorshapeoriginsettings/
 ---
 ## VectorShapeOriginSettings constructor
 
-Инициализирует новый экземпляр класса[`VectorShapeOriginSettings`](../../vectorshapeoriginsettings).
+Инициализирует новый экземпляр[`VectorShapeOriginSettings`](../../vectorshapeoriginsettings) класс.
 
 ```csharp
 public VectorShapeOriginSettings()
@@ -16,7 +16,7 @@ public VectorShapeOriginSettings()
 
 ### Примеры
 
-В этом примере показано, что загрузка и сохранение изображения PSD со слоями формы и векторными путями работает правильно.
+В этом примере показано, что загрузка и сохранение изображения PSD со слоями-фигурами и векторными путями работает правильно.
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: Vibrance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение вибрации
+description: Получает или устанавливает значение вибрации
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/
 ---
 ## VibAResource.Vibrance property
 
-Получает или задает значение вибрации
+Получает или устанавливает значение вибрации
 
 ```csharp
 public int Vibrance { get; set; }

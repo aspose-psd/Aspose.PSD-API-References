@@ -1,14 +1,14 @@
 ---
 title: ToGdiStringFormat
 second_title: Aspose.PSD for .NET API 参考
-description: 将StringFormataspose.psd/stringformat转换为StringFormat
+description: 转换StringFormataspose.psd/stringformat到StringFormat .
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/stringformatextensions/togdistringformat/
 ---
 ## StringFormatExtensions.ToGdiStringFormat method
 
-将[`StringFormat`](../../../aspose.psd/stringformat)转换为StringFormat。
+转换[`StringFormat`](../../../aspose.psd/stringformat)到StringFormat .
 
 ```csharp
 public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
@@ -16,11 +16,11 @@ public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stringFormat | StringFormat | 要转换的[`StringFormat`](../../../aspose.psd/stringformat)。 |
+| stringFormat | StringFormat | 这[`StringFormat`](../../../aspose.psd/stringformat)转换。 |
 
 ### 返回值
 
-转换后的StringFormat。
+转换的StringFormat.
 
 ### 也可以看看
 

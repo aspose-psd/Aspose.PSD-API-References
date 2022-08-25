@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Возвращает хэш-код для этойRectangleaspose.psd/rectangleструктуры.
+description: Возвращает хешкод для этогоRectangleaspose.psd/rectangleструктура.
 type: docs
 weight: 240
 url: /ru/net/aspose.psd/rectangle/gethashcode/
 ---
 ## Rectangle.GetHashCode method
 
-Возвращает хэш-код для этой[`Rectangle`](../../rectangle)структуры.
+Возвращает хеш-код для этого[`Rectangle`](../../rectangle)структура.
 
 ```csharp
 public override int GetHashCode()

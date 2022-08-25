@@ -16,7 +16,7 @@ public short Constant { get; set; }
 
 ### 适当的价值
 
-常数。
+常数.
 
 ### 也可以看看
 

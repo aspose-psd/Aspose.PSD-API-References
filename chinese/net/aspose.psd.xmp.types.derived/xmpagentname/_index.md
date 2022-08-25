@@ -3,12 +3,12 @@ title: XmpAgentName
 second_title: Aspose.PSD for .NET API 参考
 description: 代表代理名称软件组织等
 type: docs
-weight: 6020
+weight: 6070
 url: /zh/net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
 ## XmpAgentName class
 
-代表代理名称、软件组织等。
+代表代理名称、软件组织等
 
 ```csharp
 public sealed class XmpAgentName : XmpText
@@ -18,7 +18,7 @@ public sealed class XmpAgentName : XmpText
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpAgentName](xmpagentname)(string) | 初始化[`XmpAgentName`](../xmpagentname)类的新实例。 |
+| [XmpAgentName](xmpagentname)(string) | 初始化[`XmpAgentName`](../xmpagentname)类. |
 
 ## 特性
 

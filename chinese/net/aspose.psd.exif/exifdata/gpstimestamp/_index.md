@@ -16,7 +16,7 @@ public TiffRational[] GPSTimestamp { get; set; }
 
 ### 适当的价值
 
-GPS 时间为 UTC（世界协调时间）。
+GPS 时间为 UTC（协调世界时）。
 
 ### 也可以看看
 

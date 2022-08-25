@@ -1,14 +1,14 @@
 ---
 title: StrokePosition
 second_title: Aspose.PSD for .NET API 参考
-description: 位置设置控制您的笔划与其在StrokeEffect./strokeeffect中应用的图层的对齐方式
+description: 位置设置控制您的笔触与它在StrokeEffect./strokeeffect .
 type: docs
-weight: 2140
+weight: 2180
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/strokeposition/
 ---
 ## StrokePosition enumeration
 
-位置设置控制您的笔划与其在[`StrokeEffect`](../strokeeffect)中应用的图层的对齐方式。
+位置设置控制您的笔触与它在[`StrokeEffect`](../strokeeffect) .
 
 ```csharp
 public enum StrokePosition : short
@@ -18,9 +18,9 @@ public enum StrokePosition : short
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Inside | `0` | 笔触将从形状的边缘创建并向内增长，直到对象的中心。 |
-| Center | `1` | 笔划将从形状的边缘创建，并向内和向外增长。 |
-| Outside | `2` | 笔触将从形状的边缘创建，并将向外增长，远离对象。 |
+| Inside | `0` | 笔触将从形状的边缘创建并向内增长，到对象的中心。 |
+| Center | `1` | 笔触将从形状的边缘创建，并向内和向外增长。 |
+| Outside | `2` | 笔触将从形状的边缘创建并向外增长，远离对象。 |
 
 ### 例子
 

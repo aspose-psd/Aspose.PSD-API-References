@@ -1,14 +1,14 @@
 ---
 title: PropertyStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PropertyStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure类的新实例
+description: 初始化PropertyStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/propertystructure/
 ---
 ## PropertyStructure constructor
 
-初始化[`PropertyStructure`](../../propertystructure)类的新实例。
+初始化[`PropertyStructure`](../../propertystructure)类.
 
 ```csharp
 public PropertyStructure(ClassID keyName, ClassID classID, ClassID keyID)
@@ -18,7 +18,7 @@ public PropertyStructure(ClassID keyName, ClassID classID, ClassID keyID)
 | --- | --- | --- |
 | keyName | ClassID | 密钥的名称。 |
 | classID | ClassID | 类 ID。 |
-| keyID | ClassID | 密钥 ID。 |
+| keyID | ClassID | 密钥标识。 |
 
 ### 也可以看看
 

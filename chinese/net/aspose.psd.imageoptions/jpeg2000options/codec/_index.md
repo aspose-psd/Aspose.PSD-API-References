@@ -1,14 +1,14 @@
 ---
 title: Codec
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 JPEG2000 编解码器
+description: 获取或设置JPEG2000编解码器
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.imageoptions/jpeg2000options/codec/
 ---
 ## Jpeg2000Options.Codec property
 
-获取或设置 JPEG2000 编解码器
+获取或设置JPEG2000编解码器
 
 ```csharp
 public Jpeg2000Codec Codec { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: CustResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаCustResourceaspose.psd.fileformats.psd.layers.layerresources/custresource.
+description: Инициализирует новый экземплярCustResourceaspose.psd.fileformats.psd.layers.layerresources/custresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/custresource/
 ---
 ## CustResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`CustResource`](../../custresource).
+Инициализирует новый экземпляр[`CustResource`](../../custresource) класс.
 
 ```csharp
 public CustResource()
@@ -24,7 +24,7 @@ public CustResource()
 
 ## CustResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`CustResource`](../../custresource).
+Инициализирует новый экземпляр[`CustResource`](../../custresource) класс.
 
 ```csharp
 public CustResource(byte[] data)

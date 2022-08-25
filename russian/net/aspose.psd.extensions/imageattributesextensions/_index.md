@@ -1,14 +1,14 @@
 ---
 title: ImageAttributesExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Содержит методы расширения дляImageAttributes../aspose.psd/imageattributesиImageAttributes.
+description: Содержит методы расширения дляImageAttributes../aspose.psd/imageattributes а такжеImageAttributes .
 type: docs
 weight: 1110
 url: /ru/net/aspose.psd.extensions/imageattributesextensions/
 ---
 ## ImageAttributesExtensions class
 
-Содержит методы расширения для[`ImageAttributes`](../../aspose.psd/imageattributes)иImageAttributes.
+Содержит методы расширения для[`ImageAttributes`](../../aspose.psd/imageattributes) а такжеImageAttributes .
 
 ```csharp
 public static class ImageAttributesExtensions
@@ -18,7 +18,7 @@ public static class ImageAttributesExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes)(ImageAttributes) | Преобразует[`ImageAttributes`](../../aspose.psd/imageattributes)вImageAttributes. |
+| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes)(ImageAttributes) | Преобразует[`ImageAttributes`](../../aspose.psd/imageattributes) кImageAttributes . |
 
 ### Смотрите также
 

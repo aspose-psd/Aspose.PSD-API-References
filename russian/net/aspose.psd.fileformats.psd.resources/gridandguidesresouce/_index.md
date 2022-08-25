@@ -1,14 +1,14 @@
 ---
 title: GridAndGuidesResouce
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет сетку и направляет ресурсы.
+description: Представляет сетку и направляет ресурс.
 type: docs
-weight: 3620
+weight: 3670
 url: /ru/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/
 ---
 ## GridAndGuidesResouce class
 
-Представляет сетку и направляет ресурсы.
+Представляет сетку и направляет ресурс.
 
 ```csharp
 public sealed class GridAndGuidesResouce : ResourceBlock
@@ -32,9 +32,9 @@ public sealed class GridAndGuidesResouce : ResourceBlock
 | [HeaderVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion) { get; set; } | Получает или задает версию заголовка. Это значение всегда должно быть 1. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/minimalversion) { get; } | Получает минимальную требуемую версию psd. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 
 ## Методы
 

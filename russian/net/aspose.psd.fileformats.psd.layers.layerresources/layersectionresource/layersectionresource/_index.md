@@ -1,14 +1,14 @@
 ---
 title: LayerSectionResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLayerSectionResourceaspose.psd.fileformats.psd.layers.layerresources/layersectionresource.
+description: Инициализирует новый экземплярLayerSectionResourceaspose.psd.fileformats.psd.layers.layerresources/layersectionresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/layersectionresource/
 ---
 ## LayerSectionResource constructor
 
-Инициализирует новый экземпляр класса[`LayerSectionResource`](../../layersectionresource).
+Инициализирует новый экземпляр[`LayerSectionResource`](../../layersectionresource) класс.
 
 ```csharp
 public LayerSectionResource()

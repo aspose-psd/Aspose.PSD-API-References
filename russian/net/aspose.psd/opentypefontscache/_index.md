@@ -3,7 +3,7 @@ title: OpenTypeFontsCache
 second_title: Справочник по Aspose.PSD для .NET API
 description: Кэш для шрифтов OpenType установленных в системе.
 type: docs
-weight: 5050
+weight: 5100
 url: /ru/net/aspose.psd/opentypefontscache/
 ---
 ## OpenTypeFontsCache class
@@ -18,7 +18,7 @@ public static class OpenTypeFontsCache
 
 | Имя | Описание |
 | --- | --- |
-| static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache)() | &lt;inheritdoc cref="!:OpenTypeInfoCacheProcessor.UpdateFontsCache()" /&gt; |
+| static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache)() |  |
 
 ### Смотрите также
 

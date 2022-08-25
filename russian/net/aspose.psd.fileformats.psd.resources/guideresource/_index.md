@@ -1,14 +1,14 @@
 ---
 title: GuideResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Блок ресурсов справочника.
+description: Блок ресурсов руководства.
 type: docs
-weight: 3640
+weight: 3690
 url: /ru/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
 ## GuideResource class
 
-Блок ресурсов справочника.
+Блок ресурсов руководства.
 
 ```csharp
 public sealed class GuideResource

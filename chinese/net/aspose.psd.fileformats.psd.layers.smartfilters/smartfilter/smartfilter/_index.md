@@ -1,14 +1,14 @@
 ---
 title: SmartFilter
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化SmartFilteraspose.psd.fileformats.psd.layers.smartfilters/smartfilter类的新实例
+description: 初始化SmartFilteraspose.psd.fileformats.psd.layers.smartfilters/smartfilter类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/smartfilter/
 ---
 ## SmartFilter constructor
 
-初始化[`SmartFilter`](../../smartfilter)类的新实例。
+初始化[`SmartFilter`](../../smartfilter)类.
 
 ```csharp
 public SmartFilter()

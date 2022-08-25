@@ -1,14 +1,14 @@
 ---
 title: Hue2Resource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化Hue2Resourceaspose.psd.fileformats.psd.layers.layerresources/hue2resource类的新实例
+description: 初始化Hue2Resourceaspose.psd.fileformats.psd.layers.layerresources/hue2resource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue2resource/
 ---
 ## Hue2Resource() {#constructor}
 
-初始化[`Hue2Resource`](../../hue2resource)类的新实例。
+初始化[`Hue2Resource`](../../hue2resource)类.
 
 ```csharp
 public Hue2Resource()
@@ -24,7 +24,7 @@ public Hue2Resource()
 
 ## Hue2Resource(byte[]) {#constructor_1}
 
-初始化[`Hue2Resource`](../../hue2resource)类的新实例。
+初始化[`Hue2Resource`](../../hue2resource)类.
 
 ```csharp
 public Hue2Resource(byte[] data)

@@ -1,14 +1,14 @@
 ---
 title: Blend
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个Blendaspose.psd/blend它指定定义渐变自定义衰减的位置和因子
+description: 获取或设置一个Blendaspose.psd/blend指定为渐变定义自定义衰减的位置和因子
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.brushes/lineargradientbrush/blend/
 ---
 ## LinearGradientBrush.Blend property
 
-获取或设置一个[`Blend`](../../../aspose.psd/blend)，它指定定义渐变自定义衰减的位置和因子。
+获取或设置一个[`Blend`](../../../aspose.psd/blend)指定为渐变定义自定义衰减的位置和因子。
 
 ```csharp
 public Blend Blend { get; set; }
@@ -16,7 +16,7 @@ public Blend Blend { get; set; }
 
 ### 适当的价值
 
-[`Blend`](../../../aspose.psd/blend)表示渐变的自定义衰减。
+一个[`Blend`](../../../aspose.psd/blend)表示渐变的自定义衰减。
 
 ### 也可以看看
 

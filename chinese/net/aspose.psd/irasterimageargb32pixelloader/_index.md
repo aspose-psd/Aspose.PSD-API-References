@@ -3,7 +3,7 @@ title: IRasterImageArgb32PixelLoader
 second_title: Aspose.PSD for .NET API 参考
 description: 光栅图像 32 位 ARGB 像素加载器
 type: docs
-weight: 4440
+weight: 4490
 url: /zh/net/aspose.psd/irasterimageargb32pixelloader/
 ---
 ## IRasterImageArgb32PixelLoader interface

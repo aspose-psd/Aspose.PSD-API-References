@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает удобочитаемую строку которая представляет этоSizeFaspose.psd/sizef.
+description: Создает удобочитаемую строку представляющую этотSizeFaspose.psd/sizef .
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/sizef/tostring/
 ---
 ## SizeF.ToString method
 
-Создает удобочитаемую строку, которая представляет это[`SizeF`](../../sizef).
+Создает удобочитаемую строку, представляющую этот[`SizeF`](../../sizef) .
 
 ```csharp
 public override string ToString()

@@ -3,7 +3,7 @@ title: ResourceRef
 second_title: Справочник по Aspose.PSD для .NET API
 description: Используется для обозначения предыдущих версий оригиналов воспроизведений оригиналов производных документов и т. д.
 type: docs
-weight: 5970
+weight: 6020
 url: /ru/net/aspose.psd.xmp.types.complex.resourceref/resourceref/
 ---
 ## ResourceRef class

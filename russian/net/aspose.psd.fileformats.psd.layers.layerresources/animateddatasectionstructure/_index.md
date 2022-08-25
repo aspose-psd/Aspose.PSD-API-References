@@ -3,7 +3,7 @@ title: AnimatedDataSectionStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Раздел с анимированными данными.
 type: docs
-weight: 2240
+weight: 2280
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
 ## AnimatedDataSectionStructure class
@@ -21,7 +21,7 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items) { get; } | Получает или задает анимированные структуры раздела данных. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length) { get; } | Получает[`OSTypeStructure`](../ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length) { get; } | Получает[`OSTypeStructure`](../ostypestructure) длина в байтах. |
 
 ## Методы
 
@@ -35,7 +35,75 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey) | Идентифицирует ключ структуры AnD. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey) | Идентифицирует ключ структуры AnDs. |
+
+### Примеры
+
+В следующем коде показано, как установить/обновить время задержки в кадре временной шкалы анимированных данных.
+
+```csharp
+[C#]
+
+string sourceFile = "3_animated.psd";
+string outputPsd = "output_3_animated.psd";
+
+T FindStructure<T>(IEnumerable<OSTypeStructure> structures, string keyName) where T : OSTypeStructure
+{
+    foreach (var structure in structures)
+    {
+        if (structure.KeyName.ClassName == keyName)
+        {
+            return structure as T;
+        }
+    }
+
+    return null;
+}
+
+OSTypeStructure[] AddOrReplaceStructure(IEnumerable<OSTypeStructure> structures, OSTypeStructure newStructure)
+{
+    List<OSTypeStructure> listOfStructures = new List<OSTypeStructure>(structures);
+
+    for (int i = 0; i < listOfStructures.Count; i++)
+    {
+        OSTypeStructure structure = listOfStructures[i];
+        if (structure.KeyName.ClassName == newStructure.KeyName.ClassName)
+        {
+            listOfStructures.RemoveAt(i);
+            break;
+        }
+    }
+
+    listOfStructures.Add(newStructure);
+
+    return listOfStructures.ToArray();
+}
+
+using (PsdImage image = (PsdImage)Image.Load(sourceFile))
+{
+    foreach (var imageResource in image.ImageResources)
+    {
+        if (imageResource is AnimatedDataSectionResource)
+        {
+            var animatedData =
+                (AnimatedDataSectionStructure) (imageResource as AnimatedDataSectionResource).AnimatedDataSection;
+            var framesList = FindStructure<ListStructure>(animatedData.Items, "FrIn");
+
+            var frame1 = (DescriptorStructure)framesList.Types[1];
+
+            // Создает запись задержки кадра со значением 100 сантисекунд, что равно 1 секунде.
+            var frameDelay = new IntegerStructure(new ClassID("FrDl"));
+            frameDelay.Value = 100; // установить время в сантисекундах.
+
+            frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
+
+            break;
+        }
+    }
+
+    image.Save(outputPsd);
+}
+```
 
 ### Смотрите также
 

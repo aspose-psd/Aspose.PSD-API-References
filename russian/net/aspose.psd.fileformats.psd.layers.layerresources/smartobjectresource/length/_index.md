@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает длину ресурса смарт-объекта в байтах.
+description: Получает длину ресурса смартобъекта в байтах.
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/

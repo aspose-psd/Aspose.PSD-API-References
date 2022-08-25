@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures
 second_title: Справочник по Aspose.PSD для .NET API
 description: Пространство имен содержит объекты ресурсов инструментов типа файлов формата PSD.
 type: docs
-weight: 280
+weight: 290
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/
 ---
 Пространство имен содержит объекты ресурсов инструментов типа файлов формата PSD.
@@ -17,18 +17,18 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 | [ClassStructure](./classstructure) | Структура класса. |
 | [DescriptorStructure](./descriptorstructure) | Структура дескриптора |
 | [DoubleStructure](./doublestructure) | Двойная структура. |
-| [EnumeratedDescriptorStructure](./enumerateddescriptorstructure) | Структура перечисляемого дескриптора. |
-| [EnumeratedReferenceStructure](./enumeratedreferencestructure) | Перечисленная ссылочная структура. |
+| [EnumeratedDescriptorStructure](./enumerateddescriptorstructure) | Перечисленная структура дескриптора. |
+| [EnumeratedReferenceStructure](./enumeratedreferencestructure) | Нумерованная ссылочная структура. |
 | [IntegerStructure](./integerstructure) | Целочисленная структура. |
 | [ListStructure](./liststructure) | Структура списка. |
-| [ObjectArrayStructure](./objectarraystructure) | Определяет класс ObjectArrayStructure, который обычно содержит массив[`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure). Он используется в файловых ресурсах PSD, таких как PlLd Resource и SoLd Resource. |
+| [ObjectArrayStructure](./objectarraystructure) | Определяет класс ObjectArrayStructure, который обычно содержит[`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure) array. Используется в файловых ресурсах PSD, таких как PlLd Resource и SoLd Resource. |
 | [OffsetStructure](./offsetstructure) | Структура смещения. |
 | [PathStructure](./pathstructure) | Структура пути. |
-| [PropertyStructure](./propertystructure) | Структура свойства. |
+| [PropertyStructure](./propertystructure) | Структура свойств. |
 | [RawDataStructure](./rawdatastructure) | Необработанная структура данных. |
 | [ReferenceStructure](./referencestructure) | Ссылочная структура. |
 | [StringStructure](./stringstructure) | Строковая структура. |
-| [UnitArrayStructure](./unitarraystructure) | Определяет класс UnitArrayStructure, который содержитDoubleмассив значений и их единицы измерения. Он используется в файловых ресурсах PSD, обычно[`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure). |
+| [UnitArrayStructure](./unitarraystructure) | Определяет класс UnitArrayStructure, который содержитDouble массив значений и их единица измерения. Используется в файловых ресурсах PSD, обычно[`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure) . |
 | [UnitStructure](./unitstructure) | Структура юнита. |
 | [UnknownStructure](./unknownstructure) | Неизвестная структура. |
 ## перечисление

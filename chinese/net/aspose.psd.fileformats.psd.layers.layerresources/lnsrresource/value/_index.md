@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PSD for .NET API 参考
-description: 如果描述了相应的枚举则获取 LnsrResourceType 的值 否则返回 Unknown
+description: 如果描述了对应的枚举则获取 LnsrResourceType 的值 否则返回 Unknown
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/
 ---
 ## LnsrResource.Value property
 
-如果描述了相应的枚举，则获取 LnsrResourceType 的值。 否则返回 Unknown
+如果描述了对应的枚举，则获取 LnsrResourceType 的值。 否则返回 Unknown
 
 ```csharp
 public LnsrResourceType Value { get; }

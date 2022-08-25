@@ -22,11 +22,11 @@ public void SetUrgency(int urgency)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | urgency;有效范围是从 1 到 8 |
+| ArgumentOutOfRangeException | 紧急度；有效范围为 1 到 8 |
 
 ### 评论
 
-紧急情况应该在 1 到 8 点之间盛行。
+紧迫性应该从 1 到 8 处于愤怒状态。
 
 ### 也可以看看
 

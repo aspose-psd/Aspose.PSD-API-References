@@ -42,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners для ShapeOriginSettings в ресурсе Vogk для FillLayer в файле PSD.
+В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners ShapeOriginSettings в ресурсе Vogk FillLayer в PSD-файле.
 
 ```csharp
 [C#]

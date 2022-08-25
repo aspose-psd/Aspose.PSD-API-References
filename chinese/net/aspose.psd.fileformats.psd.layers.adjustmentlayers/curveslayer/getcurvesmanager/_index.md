@@ -16,7 +16,7 @@ public CurvesManager GetCurvesManager()
 
 ### 返回值
 
-[`CurvesDiscreteManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager)或[`CurvesContinuousManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager)取决于 IsDiscreteManagerUsed 和 IsContinuousManagerUsed 属性
+[`CurvesDiscreteManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager)或者[`CurvesContinuousManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager)这取决于 IsDiscreteManagerUsed 和 IsContinuousManagerUsed 属性
 
 ### 也可以看看
 

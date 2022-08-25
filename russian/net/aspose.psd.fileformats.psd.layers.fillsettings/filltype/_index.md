@@ -1,14 +1,14 @@
 ---
 title: FillType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Тип заполнения
+description: Тип заливки
 type: docs
-weight: 1880
+weight: 1920
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
 ## FillType enumeration
 
-Тип заполнения
+Тип заливки
 
 ```csharp
 public enum FillType

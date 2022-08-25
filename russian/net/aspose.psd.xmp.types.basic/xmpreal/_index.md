@@ -1,14 +1,14 @@
 ---
 title: XmpReal
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет XMP Real.
+description: Представляет реальный XMP.
 type: docs
-weight: 5850
+weight: 5900
 url: /ru/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
 ## XmpReal class
 
-Представляет XMP Real.
+Представляет реальный XMP.
 
 ```csharp
 public sealed class XmpReal : XmpTypeBase
@@ -18,8 +18,8 @@ public sealed class XmpReal : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [XmpReal](xmpreal#constructor)(float) | Инициализирует новый экземпляр класса[`XmpReal`](../xmpreal). |
-| [XmpReal](xmpreal#constructor_1)(string) | Инициализирует новый экземпляр класса[`XmpReal`](../xmpreal). |
+| [XmpReal](xmpreal#constructor)(float) | Инициализирует новый экземпляр[`XmpReal`](../xmpreal) класс. |
+| [XmpReal](xmpreal#constructor_1)(string) | Инициализирует новый экземпляр[`XmpReal`](../xmpreal) класс. |
 
 ## Характеристики
 

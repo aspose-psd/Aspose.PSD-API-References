@@ -18,8 +18,8 @@ public sealed class SolidBrush : Brush
 
 | Имя | Описание |
 | --- | --- |
-| [SolidBrush](solidbrush#constructor)() | Инициализирует новый экземпляр класса[`SolidBrush`](../solidbrush). |
-| [SolidBrush](solidbrush#constructor_1)(Color) | Инициализирует новый экземпляр класса[`SolidBrush`](../solidbrush). |
+| [SolidBrush](solidbrush#constructor)() | Инициализирует новый экземпляр[`SolidBrush`](../solidbrush) класс. |
+| [SolidBrush](solidbrush#constructor_1)(Color) | Инициализирует новый экземпляр[`SolidBrush`](../solidbrush) класс. |
 
 ## Характеристики
 
@@ -33,12 +33,12 @@ public sealed class SolidBrush : Brush
 
 | Имя | Описание |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | Создает новый глубокий клон текущего[`Brush`](../../aspose.psd/brush). |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | Создает новый глубокий клон текущего[`Brush`](../../aspose.psd/brush) . |
 | [Dispose](../../aspose.psd/disposableobject/dispose)() | Удаляет текущий экземпляр. |
 
 ### Примеры
 
-В этом примере класс Graphics используется для создания примитивных форм на поверхности изображения. Чтобы продемонстрировать операцию, в примере создается новое изображение в формате PSD и рисуются примитивные фигуры на поверхности изображения с помощью методов Draw, предоставляемых классом Graphics, а затем экспортируется в формат файла PSD.
+В этом примере класс Graphics используется для создания примитивных фигур на поверхности изображения. Чтобы продемонстрировать операцию, в примере создается новое изображение в формате PSD и рисуются примитивные фигуры на поверхности изображения с помощью методов Draw, предоставляемых классом Graphics, а затем экспортируется в формат файла PSD.
 
 ```csharp
 [C#]

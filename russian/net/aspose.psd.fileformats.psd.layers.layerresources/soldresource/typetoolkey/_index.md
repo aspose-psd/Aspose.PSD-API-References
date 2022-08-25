@@ -1,14 +1,14 @@
 ---
 title: TypeToolKey
 second_title: Справочник по Aspose.PSD для .NET API
-description: Ключ информации о типе инструментаSoLd.
+description: Информационный ключ типа инструмента SoLd.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/typetoolkey/
 ---
 ## SoLdResource.TypeToolKey field
 
-Ключ информации о типе инструмента:'SoLd'.
+Информационный ключ типа инструмента: 'SoLd'.
 
 ```csharp
 public const int TypeToolKey;

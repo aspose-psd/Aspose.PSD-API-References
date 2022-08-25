@@ -1,14 +1,14 @@
 ---
 title: ContextualAlternates
 second_title: Справочник по Aspose.PSD для .NET API
-description: Контекстные варианты используемые для соединения букв.
+description: Контекстные альтернативы используемые для соединения букв вместе.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/
 ---
 ## ITextStyle.ContextualAlternates property
 
-Контекстные варианты, используемые для соединения букв.
+Контекстные альтернативы, используемые для соединения букв вместе.
 
 ```csharp
 public bool ContextualAlternates { get; set; }

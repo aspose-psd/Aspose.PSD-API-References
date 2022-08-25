@@ -3,7 +3,7 @@ title: ResourceEvent
 second_title: Aspose.PSD for .NET API 参考
 description: 包含绘制对象的尺寸
 type: docs
-weight: 5960
+weight: 6010
 url: /zh/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/
 ---
 ## ResourceEvent class
@@ -25,11 +25,11 @@ public sealed class ResourceEvent : ComplexTypeBase
 | 姓名 | 描述 |
 | --- | --- |
 | [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action) { get; set; } | 获取或设置动作。 |
-| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate) { get; set; } | 获取或设置操作日期。 |
+| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate) { get; set; } | 获取或设置动作日期。 |
 | [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed) { get; set; } | 获取或设置自上次事件历史以来已更改的资源部分的分号分隔列表。 |
 | [InstanceId](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid) { get; set; } | 获取或设置 xmpMM:InstanceId 的值。 |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | 获取默认命名空间 URI。 |
-| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters) { get; set; } | 获取或设置操作的附加描述。 |
+| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters) { get; set; } | 获取或设置动作的附加描述。 |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | 获取前缀。 |
 | [SofwareAgentName](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname) { get; set; } | 获取或设置软件代理名称。 |
 

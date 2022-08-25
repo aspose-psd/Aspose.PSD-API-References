@@ -1,14 +1,14 @@
 ---
 title: op_Equality
 second_title: Справочник по Aspose.PSD для .NET API
-description: Проверяет равны ли две структурыSizeFaspose.psd/sizef.
+description: Проверяет являются ли дваSizeFaspose.psd/sizef структуры равны.
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/sizef/op_equality/
 ---
 ## SizeF Equality operator
 
-Проверяет, равны ли две структуры[`SizeF`](../../sizef).
+Проверяет, являются ли два[`SizeF`](../../sizef) структуры равны.
 
 ```csharp
 public static bool operator ==(SizeF size1, SizeF size2)
@@ -16,12 +16,12 @@ public static bool operator ==(SizeF size1, SizeF size2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size1 | SizeF | Структура[`SizeF`](../../sizef)в левой части оператора равенства . |
-| size2 | SizeF | Структура[`SizeF`](../../sizef)справа от оператора равенства. |
+| size1 | SizeF | [`SizeF`](../../sizef) структура в левой части оператора равенства. |
+| size2 | SizeF | [`SizeF`](../../sizef) структура справа от оператора равенства. |
 
 ### Возвращаемое значение
 
-Этот оператор возвращает true, если*size1*и*size2*имеют одинаковую ширину и высоту; в противном случае ложно.
+Этот оператор возвращает true, если*size1* а также*size2* иметь одинаковую ширину и высоту; в противном случае ложно.
 
 ### Смотрите также
 

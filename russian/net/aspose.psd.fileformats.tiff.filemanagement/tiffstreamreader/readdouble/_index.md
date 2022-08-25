@@ -1,14 +1,14 @@
 ---
 title: ReadDouble
 second_title: Справочник по Aspose.PSD для .NET API
-description: Прочитать одно двойное значение из потока.
+description: Считать одно двойное значение из потока.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/
 ---
 ## TiffStreamReader.ReadDouble method
 
-Прочитать одно двойное значение из потока.
+Считать одно двойное значение из потока.
 
 ```csharp
 public double ReadDouble(long position)

@@ -1,14 +1,14 @@
 ---
 title: IsNamedColor
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее является ли эта структураColoraspose.psd/colorименованным цветом или элементомKnownColoraspose.psd/knowncolorперечисление.
+description: Получает значение указывающее является ли этоColoraspose.psd/color структура является именованным цветом или членомKnownColoraspose.psd/knowncolor перечисление.
 type: docs
 weight: 1510
 url: /ru/net/aspose.psd/color/isnamedcolor/
 ---
 ## Color.IsNamedColor property
 
-Получает значение, указывающее, является ли эта структура[`Color`](../../color)именованным цветом или элементом[`KnownColor`](../../knowncolor)перечисление.
+Получает значение, указывающее, является ли это[`Color`](../../color) структура является именованным цветом или членом[`KnownColor`](../../knowncolor) перечисление.
 
 ```csharp
 public bool IsNamedColor { get; }
@@ -16,7 +16,7 @@ public bool IsNamedColor { get; }
 
 ### Стоимость имущества
 
-Истинно, если этот[`Color`](../../color)был создан с помощью[`FromName`](../fromname)или метод[`FromKnownColor`](../fromknowncolor); в противном случае ложно.
+Правда, если это[`Color`](../../color) был создан с использованием либо[`FromName`](../fromname) метод или[`FromKnownColor`](../fromknowncolor) метод; в противном случае ложно.
 
 ### Смотрите также
 

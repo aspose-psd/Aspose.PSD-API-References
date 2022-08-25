@@ -16,8 +16,8 @@ public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pi
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| желаемыйпрямоугольник | Rectangle | Желаемый прямоугольник. |
-| pixelLoader | IPartialPixelLoader | Загрузчик пикселей. |
+| desiredRectangle | Rectangle | Желаемый прямоугольник. |
+| pixelLoader | IPartialPixelLoader | Пиксельный загрузчик. |
 
 ### Смотрите также
 

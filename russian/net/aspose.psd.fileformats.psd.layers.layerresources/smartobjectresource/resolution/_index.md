@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает разрешение данных слоя смарт-объекта в файле PSD.
+description: Получает или задает разрешение данных слоя смартобъекта в PSDфайле.
 type: docs
 weight: 190
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/
 ---
 ## SmartObjectResource.Resolution property
 
-Получает или задает разрешение данных слоя смарт-объекта в файле PSD.
+Получает или задает разрешение данных слоя смарт-объекта в PSD-файле.
 
 ```csharp
 public double Resolution { get; set; }

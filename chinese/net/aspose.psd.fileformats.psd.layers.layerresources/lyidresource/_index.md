@@ -1,14 +1,14 @@
 ---
 title: LyidResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 LyidResource
+description: 类 LyidResource.
 type: docs
-weight: 2750
+weight: 2790
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
 ## LyidResource class
 
-类 LyidResource。
+类 LyidResource.
 
 ```csharp
 public class LyidResource : LayerResource
@@ -18,15 +18,15 @@ public class LyidResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LyidResource](lyidresource#constructor)(byte[]) | 初始化[`LyidResource`](../lyidresource)类的新实例。 具有自定义或未知值 |
-| [LyidResource](lyidresource#constructor_1)(int) | 初始化[`LyidResource`](../lyidresource)类的新实例。 |
+| [LyidResource](lyidresource#constructor)(byte[]) | 初始化[`LyidResource`](../lyidresource) class. 具有自定义或未知值 |
+| [LyidResource](lyidresource#constructor_1)(int) | 初始化[`LyidResource`](../lyidresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature) { get; } | 获取签名。 |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value) { get; } | 获取值。 |
@@ -36,7 +36,7 @@ public class LyidResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save)(StreamContainer, int) | 保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

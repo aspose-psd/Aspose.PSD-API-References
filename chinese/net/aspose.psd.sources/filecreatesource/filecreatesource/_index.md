@@ -1,14 +1,14 @@
 ---
 title: FileCreateSource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化FileCreateSourceaspose.psd.sources/filecreatesource类的新实例
+description: 初始化FileCreateSourceaspose.psd.sources/filecreatesource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.sources/filecreatesource/filecreatesource/
 ---
 ## FileCreateSource(string) {#constructor}
 
-初始化[`FileCreateSource`](../../filecreatesource)类的新实例。
+初始化[`FileCreateSource`](../../filecreatesource)类.
 
 ```csharp
 public FileCreateSource(string filePath)
@@ -20,7 +20,7 @@ public FileCreateSource(string filePath)
 
 ### 例子
 
-此示例在 BmpOptions 实例的 Source 属性指定的某个磁盘位置创建一个新图像文件。如果第二个参数没有传递给 FileCreateSource 的构造函数，则默认情况下，要创建的文件的属性 IsTemporal 设置为 True。将 IsTemporal 设置为 True，执行结束时不会将任何文件保存在磁盘上。
+此示例在 BmpOptions 实例的 Source 属性指定的某个磁盘位置创建一个新的图像文件。如果第二个参数没有传递给 FileCreateSource 的构造函数，则默认情况下，要创建的文件的属性 IsTemporal 设置为 True。将 IsTemporal 设置为 True，执行结束时不会将任何文件保存在磁盘上。
 
 ```csharp
 [C#]
@@ -51,7 +51,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 
 ## FileCreateSource(string, bool) {#constructor_1}
 
-初始化[`FileCreateSource`](../../filecreatesource)类的新实例。
+初始化[`FileCreateSource`](../../filecreatesource)类.
 
 ```csharp
 public FileCreateSource(string filePath, bool isTemporal)
@@ -60,11 +60,11 @@ public FileCreateSource(string filePath, bool isTemporal)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | filePath | String | 要创建的文件路径。 |
-| isTemporal | Boolean | 如果设置为` true` ，则创建的文件将是临时的。 |
+| isTemporal | Boolean | 如果设置为`真的`创建的文件将是临时的。 |
 
 ### 例子
 
-此示例在 PsdOptions 实例的 Source 属性指定的某个磁盘位置创建一个新图像文件。在创建实际图像之前设置 PsdOptions 实例的几个属性。特别是 Source 属性，在这种情况下指的是实际的磁盘位置。
+此示例在 PsdOptions 实例的 Source 属性指定的某个磁盘位置创建一个新的图像文件。在创建实际图像之前设置 PsdOptions 实例的几个属性。特别是 Source 属性，在这种情况下指的是实际的磁盘位置。
 
 ```csharp
 [C#]

@@ -16,7 +16,7 @@ public static List<OSTypeStructure> GenerateLfx2ResourceNodes()
 
 ### 返回值
 
-[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
+生成的列表[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
 
 ### 也可以看看
 

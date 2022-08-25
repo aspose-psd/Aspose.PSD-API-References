@@ -1,14 +1,12 @@
 ---
 title: UpdateCache
 second_title: Справочник по Aspose.PSD для .NET API
-description: ltinheritdoc crefOpenTypeInfoCacheProcessor.UpdateFontsCache /gt
+description: 
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/opentypefontscache/updatecache/
 ---
 ## OpenTypeFontsCache.UpdateCache method
-
-&lt;inheritdoc cref="!:OpenTypeInfoCacheProcessor.UpdateFontsCache()" /&gt;
 
 ```csharp
 public static void UpdateCache()

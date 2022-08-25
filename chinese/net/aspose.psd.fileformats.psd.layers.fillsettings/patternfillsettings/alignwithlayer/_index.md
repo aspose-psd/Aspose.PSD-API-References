@@ -1,14 +1,14 @@
 ---
 title: AlignWithLayer
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否与图层链接
+description: 获取或设置一个值指示是否与图层链接.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
 ## PatternFillSettings.AlignWithLayer property
 
-获取或设置一个值，指示是否[与图层链接]。
+获取或设置一个值，指示是否[与图层链接].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
@@ -16,7 +16,7 @@ public bool AlignWithLayer { get; set; }
 
 ### 适当的价值
 
-` true` if [与图层链接]；否则，` false` 。
+`真的` if [与图层链接]；否则，`错误的` .
 
 ### 例子
 

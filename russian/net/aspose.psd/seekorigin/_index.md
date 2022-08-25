@@ -1,14 +1,14 @@
 ---
 title: SeekOrigin
 second_title: Справочник по Aspose.PSD для .NET API
-description: Предоставляет поля представляющие опорные точки вStreamContainer./streamcontainerдля поиска.
+description: Предоставляет поля представляющие опорные точки вStreamContainer./streamcontainer для поиска.
 type: docs
-weight: 5290
+weight: 5340
 url: /ru/net/aspose.psd/seekorigin/
 ---
 ## SeekOrigin enumeration
 
-Предоставляет поля, представляющие опорные точки в[`StreamContainer`](../streamcontainer)для поиска.
+Предоставляет поля, представляющие опорные точки в[`StreamContainer`](../streamcontainer) для поиска.
 
 ```csharp
 public enum SeekOrigin
@@ -18,9 +18,9 @@ public enum SeekOrigin
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Begin | `0` | Задает начало потока. |
-| Current | `1` | Указывает текущую позицию в потоке. |
-| End | `2` | Указывает конец потока. |
+| Begin | `0` | Определяет начало потока. |
+| Current | `1` | Определяет текущую позицию в потоке. |
+| End | `2` | Определяет конец потока. |
 
 ### Смотрите также
 

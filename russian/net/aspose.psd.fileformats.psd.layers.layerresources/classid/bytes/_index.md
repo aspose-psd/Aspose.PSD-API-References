@@ -1,14 +1,14 @@
 ---
 title: Bytes
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает байты представляющие идентификатор класса.
+description: Получает байты представляющие ID класса.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/
 ---
 ## ClassID.Bytes property
 
-Получает байты, представляющие идентификатор класса.
+Получает байты, представляющие ID класса.
 
 ```csharp
 public byte[] Bytes { get; }

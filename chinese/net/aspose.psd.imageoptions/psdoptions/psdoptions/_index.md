@@ -1,14 +1,14 @@
 ---
 title: PsdOptions
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PsdOptionsaspose.psd.imageoptions/psdoptions类的新实例
+description: 初始化PsdOptionsaspose.psd.imageoptions/psdoptions类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imageoptions/psdoptions/psdoptions/
 ---
 ## PsdOptions() {#constructor}
 
-初始化[`PsdOptions`](../../psdoptions)类的新实例。
+初始化[`PsdOptions`](../../psdoptions)类.
 
 ```csharp
 public PsdOptions()
@@ -24,7 +24,7 @@ public PsdOptions()
 
 ## PsdOptions(PsdOptions) {#constructor_2}
 
-初始化[`PsdOptions`](../../psdoptions)类的新实例。
+初始化[`PsdOptions`](../../psdoptions)类.
 
 ```csharp
 public PsdOptions(PsdOptions options)
@@ -44,7 +44,7 @@ public PsdOptions(PsdOptions options)
 
 ## PsdOptions(PsdImage) {#constructor_1}
 
-初始化[`PsdOptions`](../../psdoptions)类的新实例。
+初始化[`PsdOptions`](../../psdoptions)类.
 
 ```csharp
 public PsdOptions(PsdImage image)
@@ -52,7 +52,7 @@ public PsdOptions(PsdImage image)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| image | PsdImage | 图像。 |
+| image | PsdImage | 图片。 |
 
 ### 也可以看看
 

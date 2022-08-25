@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует этотPointaspose.psd/pointв удобочитаемую строку.
+description: Преобразует этоPointaspose.psd/point в удобочитаемую строку.
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/point/tostring/
 ---
 ## Point.ToString method
 
-Преобразует этот[`Point`](../../point)в удобочитаемую строку.
+Преобразует это[`Point`](../../point) в удобочитаемую строку.
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-AStringкоторый представляет этот экземпляр.
+АString который представляет этот экземпляр.
 
 ### Смотрите также
 

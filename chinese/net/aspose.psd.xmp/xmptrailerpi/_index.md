@@ -1,14 +1,14 @@
 ---
 title: XmpTrailerPi
 second_title: Aspose.PSD for .NET API 参考
-description: 表示 XMP 尾处理指令
+description: 表示 XMP 预告片处理指令
 type: docs
-weight: 6190
+weight: 6240
 url: /zh/net/aspose.psd.xmp/xmptrailerpi/
 ---
 ## XmpTrailerPi class
 
-表示 XMP 尾处理指令。
+表示 XMP 预告片处理指令。
 
 ```csharp
 public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
@@ -18,31 +18,31 @@ public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpTrailerPi](xmptrailerpi#constructor)() | 初始化[`XmpTrailerPi`](../xmptrailerpi)类的新实例。 |
-| [XmpTrailerPi](xmptrailerpi#constructor_1)(bool) | 初始化[`XmpTrailerPi`](../xmptrailerpi)类的新实例。 |
+| [XmpTrailerPi](xmptrailerpi#constructor)() | 初始化[`XmpTrailerPi`](../xmptrailerpi)类. |
+| [XmpTrailerPi](xmptrailerpi#constructor_1)(bool) | 初始化[`XmpTrailerPi`](../xmptrailerpi)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable) { get; set; } | 获取或设置一个值，指示此实例是否可写。 |
+| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable) { get; set; } | 获取或设置一个指示此实例是否可写的值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals#equals_1)(object) | 确定指定的Object是否等于此实例。 |
-| [Equals](../../aspose.psd.xmp/xmptrailerpi/equals#equals)(XmpTrailerPi) | 表示当前对象是否等于另一个相同类型的对象。 |
+| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals#equals_1)(object) | 判断是否指定Object 等于这个实例。 |
+| [Equals](../../aspose.psd.xmp/xmptrailerpi/equals#equals)(XmpTrailerPi) | 表示当前对象是否等于另一个同类型的对象。 |
 | override [GetHashCode](../../aspose.psd.xmp/xmptrailerpi/gethashcode)() | 返回此实例的哈希码。 |
 | [GetXmlValue](../../aspose.psd.xmp/xmptrailerpi/getxmlvalue)() | 将 xmp 值转换为 xml 表示形式。 |
 
 ### 评论
 
-数据包扫描处理器应使用 end="w" 或 end="r" 部分来确定 XMP 可以就地修改。
+数据包扫描处理器应使用 end="w" 或 end="r" 部分来确定 XMP 是否可以就地修改。
 
 ### 例子
 
-拖车 PI 的允许形式： &lt;?xpacket end="w"?&gt;&lt;?xpacket end=" r"?&gt;
+允许的预告片 PI:
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public LayerEffectsTypes EffectType { get; }
 
 ### 例子
 
-以下代码演示如何使用 DropShadowEffect 的 Opacity 属性。
+以下代码演示了如何使用 DropShadowEffect 的 Opacity 属性。
 
 ```csharp
 [C#]

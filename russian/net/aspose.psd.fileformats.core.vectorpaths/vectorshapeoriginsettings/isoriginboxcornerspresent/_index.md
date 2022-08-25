@@ -1,14 +1,14 @@
 ---
 title: IsOriginBoxCornersPresent
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее имеет ли этот экземпляр свойство углов исходного блока.
+description: Получает значение указывающее имеет ли данный экземпляр свойство углов исходной рамки.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/
 ---
 ## VectorShapeOriginSettings.IsOriginBoxCornersPresent property
 
-Получает значение, указывающее, имеет ли этот экземпляр свойство углов исходного блока.
+Получает значение, указывающее, имеет ли данный экземпляр свойство углов исходной рамки.
 
 ```csharp
 public bool IsOriginBoxCornersPresent { get; }
@@ -16,7 +16,7 @@ public bool IsOriginBoxCornersPresent { get; }
 
 ### Стоимость имущества
 
-` true` , если этот экземпляр имеет свойство углов исходного блока; в противном случае` false` .
+`истинный` если этот экземпляр имеет свойство углов исходного блока; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 

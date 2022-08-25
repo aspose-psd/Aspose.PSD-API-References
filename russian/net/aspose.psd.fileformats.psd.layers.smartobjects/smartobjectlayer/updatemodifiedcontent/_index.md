@@ -1,14 +1,14 @@
 ---
 title: UpdateModifiedContent
 second_title: Справочник по Aspose.PSD для .NET API
-description: Обновляет кэш изображения слоя смарт-объекта измененным содержимым.
+description: Обновляет кэш изображения слоя смартобъекта с измененным содержимым.
 type: docs
 weight: 150
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/updatemodifiedcontent/
 ---
 ## SmartObjectLayer.UpdateModifiedContent method
 
-Обновляет кэш изображения слоя смарт-объекта измененным содержимым.
+Обновляет кэш изображения слоя смарт-объекта с измененным содержимым.
 
 ```csharp
 public void UpdateModifiedContent()

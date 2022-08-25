@@ -1,14 +1,14 @@
 ---
 title: AiDataSection
 second_title: Aspose.PSD for .NET API 参考
-description: Ai 格式数据段
+description: Ai格式数据段
 type: docs
 weight: 1220
 url: /zh/net/aspose.psd.fileformats.ai/aidatasection/
 ---
 ## AiDataSection class
 
-Ai 格式数据段
+Ai格式数据段
 
 ```csharp
 public class AiDataSection : DisposableObject
@@ -18,13 +18,13 @@ public class AiDataSection : DisposableObject
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata)() | 获取字符串数据。 |
 
 ### 也可以看看

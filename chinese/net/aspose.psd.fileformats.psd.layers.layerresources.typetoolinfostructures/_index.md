@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures
 second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含 PSD 文件格式类型的工具资源实体
+description: 命名空间包含PSD文件格式类型的工具资源实体
 type: docs
-weight: 280
+weight: 290
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/
 ---
-命名空间包含 PSD 文件格式类型的工具资源实体。
+命名空间包含PSD文件格式类型的工具资源实体。
 
 ## 课程
 
@@ -21,16 +21,16 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 | [EnumeratedReferenceStructure](./enumeratedreferencestructure) | 枚举引用结构。 |
 | [IntegerStructure](./integerstructure) | 整数结构。 |
 | [ListStructure](./liststructure) | 列表结构。 |
-| [ObjectArrayStructure](./objectarraystructure) | 定义 ObjectArrayStructure 类，该类通常包含[`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure)数组。 用于PSD文件资源，如PlLd Resource和SoLd Resource。 |
+| [ObjectArrayStructure](./objectarraystructure) | 定义通常持有的 ObjectArrayStructure 类[`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure)array. 用于PSD文件资源，如PlLd Resource和SoLd Resource. |
 | [OffsetStructure](./offsetstructure) | 偏移结构。 |
 | [PathStructure](./pathstructure) | 路径结构。 |
 | [PropertyStructure](./propertystructure) | 属性结构。 |
 | [RawDataStructure](./rawdatastructure) | 原始数据结构。 |
-| [ReferenceStructure](./referencestructure) | 引用结构。 |
+| [ReferenceStructure](./referencestructure) | 参考结构。 |
 | [StringStructure](./stringstructure) | 字符串结构。 |
-| [UnitArrayStructure](./unitarraystructure) | 定义包含Double值数组及其度量单位的 UnitArrayStructure 类。 用于 PSD 文件资源，通常由[`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure)使用。 |
+| [UnitArrayStructure](./unitarraystructure) | 定义持有的 UnitArrayStructure 类Doublevalues 数组及其度量单位。 用于 PSD 文件资源中，通常由[`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure) . |
 | [UnitStructure](./unitstructure) | 单元结构。 |
-| [UnknownStructure](./unknownstructure) | 未知结构。 |
+| [UnknownStructure](./unknownstructure) | 未知的结构。 |
 ## 枚举
 
 | 枚举 | 描述 |

@@ -26,7 +26,7 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | RgbMixerChannelLayer имеет не более 3 каналов. Индекс первого канала равен 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | RgbMixerChannelLayer имеет не более 3 каналов. Индекс Первого канала равен 0 |
 
 ### Смотрите также
 

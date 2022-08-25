@@ -1,14 +1,14 @@
 ---
 title: Filters
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает интеллектуальные фильтры.
+description: Получает или устанавливает интеллектуальные фильтры.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/
 ---
 ## SmartFilters.Filters property
 
-Получает или задает интеллектуальные фильтры.
+Получает или устанавливает интеллектуальные фильтры.
 
 ```csharp
 public SmartFilter[] Filters { get; set; }

@@ -3,7 +3,7 @@ title: FXidResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Ресурс Filter Effects содержит каналы маску пользователя и маску листа для интеллектуального фильтра.
 type: docs
-weight: 2400
+weight: 2440
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
 ## FXidResource class
@@ -18,7 +18,7 @@ public sealed class FXidResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [FXidResource](fxidresource)(int, int, FilterEffectMaskData[]) | Инициализирует новый экземпляр класса[`FXidResource`](../fxidresource). |
+| [FXidResource](fxidresource)(int, int, FilterEffectMaskData[]) | Инициализирует новый экземпляр[`FXidResource`](../fxidresource) класс. |
 
 ## Характеристики
 
@@ -36,14 +36,14 @@ public sealed class FXidResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey) | Тип информационного ключа инструмента FEid. |
-| const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey) | Тип информационного ключа инструмента FXid. |
+| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey) | Информационный ключ типа инструмента FEid. |
+| const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey) | Информационный ключ типа инструмента FXid. |
 
 ### Примеры
 

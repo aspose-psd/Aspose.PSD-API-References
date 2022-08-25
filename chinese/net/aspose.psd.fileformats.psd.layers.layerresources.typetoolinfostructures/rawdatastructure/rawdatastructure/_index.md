@@ -1,14 +1,14 @@
 ---
 title: RawDataStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化RawDataStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure类的新实例
+description: 初始化RawDataStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/rawdatastructure/
 ---
 ## RawDataStructure constructor
 
-初始化[`RawDataStructure`](../../rawdatastructure)类的新实例。
+初始化[`RawDataStructure`](../../rawdatastructure)类.
 
 ```csharp
 public RawDataStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public RawDataStructure(ClassID keyName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 
 ### 也可以看看
 

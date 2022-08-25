@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Возвращает хеш-код для этойColoraspose.psd/colorструктуры.
+description: Возвращает хешкод для этогоColoraspose.psd/colorструктура.
 type: docs
 weight: 1560
 url: /ru/net/aspose.psd/color/gethashcode/
 ---
 ## Color.GetHashCode method
 
-Возвращает хеш-код для этой[`Color`](../../color)структуры.
+Возвращает хеш-код для этого[`Color`](../../color)структура.
 
 ```csharp
 public override int GetHashCode()

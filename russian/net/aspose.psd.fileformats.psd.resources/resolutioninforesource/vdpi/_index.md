@@ -1,14 +1,14 @@
 ---
 title: VDpi
 second_title: Справочник по Aspose.PSD для .NET API
-description: Вертикальный DPI.
+description: Точка на дюйм по вертикали.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vdpi/
 ---
 ## ResolutionInfoResource.VDpi property
 
-Вертикальный DPI.
+Точка на дюйм по вертикали.
 
 ```csharp
 public FixedPointDecimal VDpi { get; set; }

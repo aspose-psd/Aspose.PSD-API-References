@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.PSD for .NET API 参考
-description: 测试指定的对象是否是Blendaspose.psd/blend类并且等价于这个Blendaspose.psd/blend班级
+description: 测试指定对象是否为Blendaspose.psd/blend类相当于这个Blendaspose.psd/blend类.
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/blend/equals/
 ---
 ## Blend.Equals method
 
-测试指定的对象是否是[`Blend`](../../blend)类并且等价于这个[`Blend`](../../blend)班级。
+测试指定对象是否为[`Blend`](../../blend)类，相当于这个[`Blend`](../../blend)类.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果*obj*是与此PSD等效的[`Blend`](../../blend) 类，则为真。混合类；否则为假。
+真如果*obj*是一个[`Blend`](../../blend)相当于这个的类[`Blend`](../../blend)班级;否则为假。
 
 ### 也可以看看
 

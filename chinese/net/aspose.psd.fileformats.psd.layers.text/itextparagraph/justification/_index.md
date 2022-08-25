@@ -1,14 +1,14 @@
 ---
 title: Justification
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置对正
+description: 获取或设置对齐方式
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/
 ---
 ## ITextParagraph.Justification property
 
-获取或设置对正。
+获取或设置对齐方式。
 
 ```csharp
 public JustificationMode Justification { get; set; }
@@ -20,7 +20,7 @@ public JustificationMode Justification { get; set; }
 
 ### 例子
 
-以下示例演示了通过 ITextPortion 的从右到左语言的文本对齐工作正常。
+下面的示例演示了通过 ITextPortion 的从右到左语言的文本对齐工作正常。
 
 ```csharp
 [C#]

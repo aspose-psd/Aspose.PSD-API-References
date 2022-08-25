@@ -3,7 +3,7 @@ title: Lr32Resource
 second_title: Aspose.PSD for .NET API 参考
 description: lr32 资源
 type: docs
-weight: 2720
+weight: 2760
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/
 ---
 ## Lr32Resource class
@@ -18,13 +18,13 @@ public class Lr32Resource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Lr32Resource](lr32resource)(int) | 初始化[`Lr32Resource`](../lr32resource)类的新实例。 |
+| [Lr32Resource](lr32resource)(int) | 初始化[`Lr32Resource`](../lr32resource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key) { get; } | 获取层资源密钥。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key) { get; } | 获取图层资源键。 |
 | [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers) { get; set; } | 获取或设置图层。 |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/length) { get; } | 获取长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/psdversion) { get; } | 获取psd版本。 |
@@ -35,7 +35,7 @@ public class Lr32Resource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/save)(StreamContainer, int) | 保存图层记录。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

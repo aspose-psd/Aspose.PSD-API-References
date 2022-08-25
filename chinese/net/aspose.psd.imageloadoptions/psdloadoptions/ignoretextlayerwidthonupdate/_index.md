@@ -1,14 +1,14 @@
 ---
 title: IgnoreTextLayerWidthOnUpdate
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示在 UpdateText 操作执行时是否会忽略 PSD 文本层的固定宽度
+description: 获取或设置一个值该值指示在 UpdateText 操作执行时是否会忽略 PSD 文本层固定宽度
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
-获取或设置一个值，该值指示在 UpdateText 操作执行时是否会忽略 PSD 文本层的固定宽度。
+获取或设置一个值，该值指示在 UpdateText 操作执行时是否会忽略 PSD 文本层固定宽度。
 
 ```csharp
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
@@ -16,7 +16,7 @@ public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 
 ### 适当的价值
 
-` true` if [忽略文本层宽度]；否则，` false` 。
+`真的` if [忽略文本层宽度];否则，`错误的` .
 
 ### 也可以看看
 

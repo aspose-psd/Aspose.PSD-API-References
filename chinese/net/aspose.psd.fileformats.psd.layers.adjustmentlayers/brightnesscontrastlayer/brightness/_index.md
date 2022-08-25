@@ -1,14 +1,14 @@
 ---
 title: Brightness
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置亮度 PS的亮度范围是-150到150但我们忽略了这一点
+description: 获取或设置亮度 PS的亮度范围是150到150但是我们忽略了这个
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/brightness/
 ---
 ## BrightnessContrastLayer.Brightness property
 
-获取或设置亮度。 PS的亮度范围是-150到+150。但我们忽略了这一点。
+获取或设置亮度。 PS的亮度范围是-150到+150。但是我们忽略了这个。
 
 ```csharp
 public int Brightness { get; set; }

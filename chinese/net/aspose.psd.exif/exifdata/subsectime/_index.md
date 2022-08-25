@@ -1,14 +1,14 @@
 ---
 title: SubsecTime
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 DateTime 标记的秒小数部分
+description: 获取或设置 DateTime 标记的秒数
 type: docs
 weight: 1030
 url: /zh/net/aspose.psd.exif/exifdata/subsectime/
 ---
 ## ExifData.SubsecTime property
 
-获取或设置 DateTime 标记的秒小数部分。
+获取或设置 DateTime 标记的秒数。
 
 ```csharp
 public string SubsecTime { get; set; }

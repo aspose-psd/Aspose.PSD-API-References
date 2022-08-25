@@ -1,14 +1,14 @@
 ---
 title: DateTimeDigitized
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置数字化的日期时间
+description: 获取或设置日期时间数字化
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.exif/exifdata/datetimedigitized/
 ---
 ## ExifData.DateTimeDigitized property
 
-获取或设置数字化的日期时间。
+获取或设置日期时间数字化。
 
 ```csharp
 public string DateTimeDigitized { get; set; }

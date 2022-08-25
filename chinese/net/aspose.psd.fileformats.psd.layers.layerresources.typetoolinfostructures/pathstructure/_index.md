@@ -3,7 +3,7 @@ title: PathStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 路径结构
 type: docs
-weight: 3110
+weight: 3160
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/
 ---
 ## PathStructure class
@@ -18,7 +18,7 @@ public sealed class PathStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PathStructure](pathstructure)(ClassID) | 初始化[`PathStructure`](../pathstructure)类的新实例。 |
+| [PathStructure](pathstructure)(ClassID) | 初始化[`PathStructure`](../pathstructure)类. |
 
 ## 特性
 
@@ -26,9 +26,9 @@ public sealed class PathStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 | [Path](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path) { get; set; } | 获取或设置路径。 |
-| [Prefix](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix) { get; set; } | 获取或设置路径前缀。 |
+| [Prefix](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix) { get; set; } | 获取或设置路径前缀 |
 
 ## 方法
 
@@ -46,7 +46,7 @@ public sealed class PathStructure : OSTypeStructure
 
 ### 例子
 
-以下代码演示了加载具有 PathStructure 结构的文件的能力。
+以下代码演示了使用 PathStructure 结构加载文件的能力。
 
 ```csharp
 [C#]

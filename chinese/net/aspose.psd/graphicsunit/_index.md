@@ -3,7 +3,7 @@ title: GraphicsUnit
 second_title: Aspose.PSD for .NET API 参考
 description: 指定给定数据的度量单位
 type: docs
-weight: 4210
+weight: 4260
 url: /zh/net/aspose.psd/graphicsunit/
 ---
 ## GraphicsUnit enumeration
@@ -24,7 +24,7 @@ public enum GraphicsUnit
 | Point | `3` | 将打印机的点（1/72 英寸）指定为测量单位。 |
 | Inch | `4` | 将英寸指定为测量单位。 |
 | Document | `5` | 将文档单位（1/300 英寸）指定为度量单位。 |
-| Millimeter | `6` | 指定毫米作为测量单位。 |
+| Millimeter | `6` | 指定毫米为测量单位。 |
 
 ### 也可以看看
 

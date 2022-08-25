@@ -1,7 +1,7 @@
 ---
 title: HResDisplayUnit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Единицы отображения для горизонтального разрешения. Это влияет только на пользовательский интерфейс  разрешение по-прежнему хранится в файле PSD как пиксели/дюйм.
+description: Единицы отображения для горизонтального разрешения. Это влияет только на пользовательский интерфейс  разрешение попрежнему хранится в файле PSD как пиксели/дюйм.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hresdisplayunit/

@@ -1,14 +1,14 @@
 ---
 title: IsImagesDimmed
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示该图层是否变暗 降低图层中包含的链接图像和位图图像的强度
+description: 获取或设置一个值该值指示此图层是否变暗 降低图层中包含的链接图像和位图图像的强度
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
 ## AiLayerSection.IsImagesDimmed property
 
-获取或设置一个值，指示该图层是否变暗。 降低图层中包含的链接图像和位图图像的强度。
+获取或设置一个值，该值指示此图层是否变暗。 降低图层中包含的链接图像和位图图像的强度。
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
@@ -16,11 +16,11 @@ public bool IsImagesDimmed { get; set; }
 
 ### 适当的价值
 
-` true` 如果此层变暗；否则，` false` 。
+`真的`如果该层变暗；否则，`错误的` .
 
 ### 例子
 
-以下示例演示了对 AI 格式文件中层的支持。
+以下示例演示了对 AI 格式文件中的层的支持。
 
 ```csharp
 [C#]

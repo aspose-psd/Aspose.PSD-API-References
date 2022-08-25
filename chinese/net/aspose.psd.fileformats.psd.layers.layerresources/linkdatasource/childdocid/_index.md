@@ -22,7 +22,7 @@ PSD Lnk2 / LnkE 资源的 liFE 或 liFD 数据源中的子文档标识符。
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 ChildDocId 属性，它仅适用于 liFE 或 liFD 数据版本 5 或更高版本的源。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 ChildDocId 属性，它仅适用于版本 5 或更高版本的 liFE 或 liFD 数据源。 |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: AddNoiseSmartFilter
 second_title: Справочник по Aspose.PSD для .NET API
 description: Интеллектуальный фильтр AddNoise.
 type: docs
-weight: 3310
+weight: 3360
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 ---
 ## AddNoiseSmartFilter class
@@ -18,19 +18,19 @@ public sealed class AddNoiseSmartFilter : SmartFilter
 
 | Имя | Описание |
 | --- | --- |
-| [AddNoiseSmartFilter](addnoisesmartfilter)() | Инициализирует новый экземпляр класса[`AddNoiseSmartFilter`](../addnoisesmartfilter). |
+| [AddNoiseSmartFilter](addnoisesmartfilter)() | Инициализирует новый экземпляр[`AddNoiseSmartFilter`](../addnoisesmartfilter) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise) { get; set; } | Получает или устанавливает количество значения шума. |
+| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise) { get; set; } | Получает или задает количество значений шума. |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode) { get; set; } | Получает или задает режим наложения. |
 | [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution) { get; set; } | Получает или задает распределение фильтра шума. |
 | override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid) { get; } | Получает идентификатор типа интеллектуального фильтра. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | Получает или задает включенный статус интеллектуального фильтра. |
-| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic) { get; set; } | Получает или задает значение монохромный. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name) { get; } | Получает имя интеллектуального фильтра. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | Получает или задает состояние включения интеллектуального фильтра. |
+| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic) { get; set; } | Получает или задает значение монохроматического. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name) { get; } | Получает имя смарт-фильтра. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity) { get; set; } | Получает или задает значение непрозрачности интеллектуального фильтра. |
 | [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | Структура исходного дескриптора с данными интеллектуального фильтра. |
 
@@ -38,9 +38,9 @@ public sealed class AddNoiseSmartFilter : SmartFilter
 
 | Имя | Описание |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | Применяет текущий фильтр к входному[`RasterImage`](../../aspose.psd/rasterimage)изображению. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | Применяет текущий фильтр к входным[`Layer`](../../aspose.psd.fileformats.psd.layers/layer)данным маски. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | Создает поэлементное клонирование текущего экземпляра типа. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | Применяет текущий фильтр ко входу[`RasterImage`](../../aspose.psd/rasterimage) изображение. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | Применяет текущий фильтр ко входу[`Layer`](../../aspose.psd.fileformats.psd.layers/layer) данные маски. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | Создает почленный клон текущего экземпляра типа. |
 
 ## Поля
 

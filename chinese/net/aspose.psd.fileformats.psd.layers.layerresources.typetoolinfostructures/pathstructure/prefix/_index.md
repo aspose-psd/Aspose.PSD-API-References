@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 ---
 ## PathStructure.Prefix property
 
-获取或设置路径前缀。
+获取或设置路径前缀
 
 ```csharp
 public string Prefix { get; set; }

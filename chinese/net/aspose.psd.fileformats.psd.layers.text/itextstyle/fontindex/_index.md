@@ -16,11 +16,11 @@ public int FontIndex { get; }
 
 ### 适当的价值
 
-字体。
+字体.
 
 ### 例子
 
-下面的代码演示了 Aspose.PSD 如何获取文本层内联格式的属性。
+下面的代码演示了 Aspose.PSD 如何获取文本层的内联格式的属性。
 
 ```csharp
 [C#]

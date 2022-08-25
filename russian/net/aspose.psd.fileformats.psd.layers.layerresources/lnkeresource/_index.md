@@ -1,14 +1,14 @@
 ---
 title: LnkeResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс LnkeResource который содержит информацию о внешних связанных файлах или активах в изображении формата PSD. Ресурс ссылки может содержать несколько экземпляровLiFeDataSource./lifedatasource к которым может обращаться индексатор. Это часть API-интерфейса управления форматом файлов PSD который помогает программно изменять файлы Adobe Photoshop
+description: Определяет класс LnkeResource который содержит информацию о внешних связанных файлах или ресурсах в изображении формата PSD. Ресурс ссылки может содержать несколькоLiFeDataSource./lifedatasource экземпляры к которым может обращаться индексатор. Это часть API управления форматом файлов PSD который помогает программно изменять файлы Adobe Photoshop
 type: docs
-weight: 2680
+weight: 2720
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
 ## LnkeResource class
 
-Определяет класс LnkeResource, который содержит информацию о внешних связанных файлах или активах в изображении формата PSD. Ресурс ссылки может содержать несколько экземпляров[`LiFeDataSource`](../lifedatasource), к которым может обращаться индексатор. Это часть API-интерфейса управления форматом файлов PSD, который помогает программно изменять файлы Adobe® Photoshop®
+Определяет класс LnkeResource, который содержит информацию о внешних связанных файлах или ресурсах в изображении формата PSD. Ресурс ссылки может содержать несколько[`LiFeDataSource`](../lifedatasource) экземпляры, к которым может обращаться индексатор. Это часть API управления форматом файлов PSD, который помогает программно изменять файлы Adobe® Photoshop®
 
 ```csharp
 public class LnkeResource : LinkResource
@@ -18,8 +18,8 @@ public class LnkeResource : LinkResource
 
 | Имя | Описание |
 | --- | --- |
-| [LnkeResource](lnkeresource#constructor)() | Инициализирует новый экземпляр класса[`LnkeResource`](../lnkeresource). |
-| [LnkeResource](lnkeresource#constructor_1)(LinkDataSource[]) | Инициализирует новый экземпляр класса[`LnkeResource`](../lnkeresource). |
+| [LnkeResource](lnkeresource#constructor)() | Инициализирует новый экземпляр[`LnkeResource`](../lnkeresource) класс. |
+| [LnkeResource](lnkeresource#constructor_1)(LinkDataSource[]) | Инициализирует новый экземпляр[`LnkeResource`](../lnkeresource) класс. |
 
 ## Характеристики
 
@@ -27,10 +27,10 @@ public class LnkeResource : LinkResource
 | --- | --- |
 | [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount) { get; } | Получает количество источников данных ссылок, к которым может обращаться индексатор. |
 | [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | Получает значение, указывающее, является ли этот экземпляр ресурса ссылки пустым. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item) { get; } | Получает[`LiFeDataSource`](../lifedatasource)по указанному индексу. (2 indexers) |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item) { get; } | Получает[`LiFeDataSource`](../lifedatasource) по указанному индексу. (2 indexers) |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key) { get; } | Получает ключ глобального ресурса Adobe® Photoshop®. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length) { get; } | Получает длину ресурса глобальной ссылки PSD в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | Получает версию в формате PSD. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | Получает версию формата PSD. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature) { get; } | Получает подпись ресурса глобальной ссылки PSD. |
 
 ## Методы
@@ -38,13 +38,13 @@ public class LnkeResource : LinkResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | Сохраняет данные блока ресурсов. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 

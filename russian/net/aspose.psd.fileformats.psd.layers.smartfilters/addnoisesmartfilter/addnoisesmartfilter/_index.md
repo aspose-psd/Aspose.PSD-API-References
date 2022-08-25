@@ -1,14 +1,14 @@
 ---
 title: AddNoiseSmartFilter
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаAddNoiseSmartFilteraspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter.
+description: Инициализирует новый экземплярAddNoiseSmartFilteraspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/addnoisesmartfilter/
 ---
 ## AddNoiseSmartFilter constructor
 
-Инициализирует новый экземпляр класса[`AddNoiseSmartFilter`](../../addnoisesmartfilter).
+Инициализирует новый экземпляр[`AddNoiseSmartFilter`](../../addnoisesmartfilter) класс.
 
 ```csharp
 public AddNoiseSmartFilter()

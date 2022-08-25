@@ -3,7 +3,7 @@ title: MatrixOrder
 second_title: Справочник по Aspose.PSD для .NET API
 description: Указывает порядок операций преобразования матрицы.
 type: docs
-weight: 4980
+weight: 5030
 url: /ru/net/aspose.psd/matrixorder/
 ---
 ## MatrixOrder enumeration

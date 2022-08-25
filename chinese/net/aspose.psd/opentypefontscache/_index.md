@@ -3,7 +3,7 @@ title: OpenTypeFontsCache
 second_title: Aspose.PSD for .NET API 参考
 description: 缓存系统中安装的 OpenType 字体
 type: docs
-weight: 5050
+weight: 5100
 url: /zh/net/aspose.psd/opentypefontscache/
 ---
 ## OpenTypeFontsCache class
@@ -18,7 +18,7 @@ public static class OpenTypeFontsCache
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache)() | &lt;inheritdoc cref="!:OpenTypeInfoCacheProcessor.UpdateFontsCache()" /&gt; |
+| static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache)() |  |
 
 ### 也可以看看
 

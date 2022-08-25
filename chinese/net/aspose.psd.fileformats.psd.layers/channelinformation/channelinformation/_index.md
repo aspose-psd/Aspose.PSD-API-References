@@ -1,14 +1,14 @@
 ---
 title: ChannelInformation
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ChannelInformationaspose.psd.fileformats.psd.layers/channelinformation类的新实例
+description: 初始化ChannelInformationaspose.psd.fileformats.psd.layers/channelinformation类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/channelinformation/channelinformation/
 ---
 ## ChannelInformation constructor
 
-初始化[`ChannelInformation`](../../channelinformation)类的新实例。
+初始化[`ChannelInformation`](../../channelinformation)类.
 
 ```csharp
 public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int psdVersion)
@@ -18,7 +18,7 @@ public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int
 | --- | --- | --- |
 | compressionMethod | CompressionMethod | 压缩方法。 |
 | bitDepth | Int32 | 位深度。 |
-| psdVersion | Int32 | PSD 版本。 |
+| psdVersion | Int32 | PSD版本。 |
 
 ### 也可以看看
 

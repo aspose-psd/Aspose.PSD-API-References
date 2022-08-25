@@ -1,7 +1,7 @@
 ---
 title: SetWebStatement
 second_title: Справочник по Aspose.PSD для .NET API
-description: Устанавливает веб-оператор.
+description: Устанавливает вебоператор.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/
@@ -16,7 +16,7 @@ public void SetWebStatement(string webStatementUrl)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| webStatementUrl | String | URL веб-выписки. |
+| webStatementUrl | String | URL-адрес веб-выписки. |
 
 ### Смотрите также
 

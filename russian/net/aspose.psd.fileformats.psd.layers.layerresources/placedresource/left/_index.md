@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает левое расположение размещенного слоя в файле PSD.
+description: Получает или задает левое расположение размещенного слоя в PSDфайле.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/
 ---
 ## PlacedResource.Left property
 
-Получает или задает левое расположение размещенного слоя в файле PSD.
+Получает или задает левое расположение размещенного слоя в PSD-файле.
 
 ```csharp
 public double Left { get; set; }

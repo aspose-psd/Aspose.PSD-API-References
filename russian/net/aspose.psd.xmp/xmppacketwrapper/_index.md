@@ -3,7 +3,7 @@ title: XmpPacketWrapper
 second_title: Справочник по Aspose.PSD для .NET API
 description: Содержит сериализованный пакет xmp включая заголовок и трейлер.
 type: docs
-weight: 6170
+weight: 6220
 url: /ru/net/aspose.psd.xmp/xmppacketwrapper/
 ---
 ## XmpPacketWrapper class
@@ -18,16 +18,16 @@ public class XmpPacketWrapper
 
 | Имя | Описание |
 | --- | --- |
-| [XmpPacketWrapper](xmppacketwrapper#constructor)() | Инициализирует новый экземпляр класса[`XmpPacketWrapper`](../xmppacketwrapper). |
-| [XmpPacketWrapper](xmppacketwrapper#constructor_1)(XmpHeaderPi, XmpTrailerPi, XmpMeta) | Инициализирует новый экземпляр класса[`XmpPacketWrapper`](../xmppacketwrapper). |
+| [XmpPacketWrapper](xmppacketwrapper#constructor)() | Инициализирует новый экземпляр[`XmpPacketWrapper`](../xmppacketwrapper) класс. |
+| [XmpPacketWrapper](xmppacketwrapper#constructor_1)(XmpHeaderPi, XmpTrailerPi, XmpMeta) | Инициализирует новый экземпляр[`XmpPacketWrapper`](../xmppacketwrapper) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [HeaderPi](../../aspose.psd.xmp/xmppacketwrapper/headerpi) { get; } | Получает инструкцию по обработке заголовка. |
-| [Meta](../../aspose.psd.xmp/xmppacketwrapper/meta) { get; set; } | Получает метаданные XMP. По желанию. |
-| [Packages](../../aspose.psd.xmp/xmppacketwrapper/packages) { get; } | Получает массив[`XmpPackage`](../xmppackage)внутри XMP. |
+| [Meta](../../aspose.psd.xmp/xmppacketwrapper/meta) { get; set; } | Получает метаданные XMP. Дополнительно. |
+| [Packages](../../aspose.psd.xmp/xmppacketwrapper/packages) { get; } | Получает массив[`XmpPackage`](../xmppackage) внутри XMP. |
 | [PackagesCount](../../aspose.psd.xmp/xmppacketwrapper/packagescount) { get; } | Получает количество пакетов внутри структуры XMP. |
 | [TrailerPi](../../aspose.psd.xmp/xmppacketwrapper/trailerpi) { get; } | Получает инструкцию обработки трейлера. |
 
@@ -36,14 +36,14 @@ public class XmpPacketWrapper
 | Имя | Описание |
 | --- | --- |
 | [AddPackage](../../aspose.psd.xmp/xmppacketwrapper/addpackage)(XmpPackage) | Добавляет пакет. |
-| [ClearPackages](../../aspose.psd.xmp/xmppacketwrapper/clearpackages)() | Удаляет все[`XmpPackage`](../xmppackage)внутри XMP. |
+| [ClearPackages](../../aspose.psd.xmp/xmppacketwrapper/clearpackages)() | Удаляет все[`XmpPackage`](../xmppackage) внутри XMP. |
 | [ContainsPackage](../../aspose.psd.xmp/xmppacketwrapper/containspackage)(string) | Определяет, существует ли пакет в оболочке xmp. |
 | [GetPackage](../../aspose.psd.xmp/xmppacketwrapper/getpackage)(string) | Получает пакет по URI пространства имен. |
 | [RemovePackage](../../aspose.psd.xmp/xmppacketwrapper/removepackage)(XmpPackage) | Удаляет пакет XMP. |
 
 ### Примечания
 
-Оболочка, состоящая из пары инструкций обработки XML (PI), может быть размещена вокруг rdf:RDF-элемент.
+Оболочка, состоящая из пары инструкций по обработке XML (PI), может быть размещена вокруг элемента rdf:RDF.
 
 ### Смотрите также
 

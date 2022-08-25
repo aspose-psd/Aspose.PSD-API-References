@@ -16,7 +16,7 @@ public string Text { get; }
 
 ### 适当的价值
 
-正文。
+文本.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ImageException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаImageExceptionaspose.psd.coreexceptions/imageexception.
+description: Инициализирует новый экземплярImageExceptionaspose.psd.coreexceptions/imageexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/imageexception/imageexception/
 ---
 ## ImageException(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`ImageException`](../../imageexception).
+Инициализирует новый экземпляр[`ImageException`](../../imageexception) класс.
 
 ```csharp
 public ImageException(string message)
@@ -28,7 +28,7 @@ public ImageException(string message)
 
 ## ImageException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ImageException`](../../imageexception).
+Инициализирует новый экземпляр[`ImageException`](../../imageexception) класс.
 
 ```csharp
 public ImageException(string message, Exception innerException)

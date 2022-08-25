@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по Aspose.PSD для .NET API
-description: Проверяет идентичен ли указанныйRegionaspose.psd/regionэтомуRegionaspose.psd/regionна указанной поверхности рисования.
+description: Проверяет указанныйRegionaspose.psd/region идентичен этомуRegionaspose.psd/region на указанной поверхности рисования.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/region/equals/
 ---
 ## Region.Equals method
 
-Проверяет, идентичен ли указанный[`Region`](../../region)этому[`Region`](../../region)на указанной поверхности рисования.
+Проверяет, указанный[`Region`](../../region) идентичен этому[`Region`](../../region) на указанной поверхности рисования.
 
 ```csharp
 public bool Equals(Region region, Graphics g)
@@ -16,18 +16,18 @@ public bool Equals(Region region, Graphics g)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| region | Region | [`Region`](../../region)для тестирования. |
-| g | Graphics | A[`Graphics`](../../graphics)который представляет собой поверхность для рисования. |
+| region | Region | [`Region`](../../region) тестировать. |
+| g | Graphics | А[`Graphics`](../../graphics) который представляет собой поверхность для рисования. |
 
 ### Возвращаемое значение
 
-Истинно, если внутренняя часть области идентична внутренней части этой области при преобразовании, связанном с*g*применяется параметр; в противном случае ложно.
+Истинно, если внутренняя часть области идентична внутренней части этой области, когда преобразование, связанное с*g* применяется параметр; в противном случае false.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | &lt;paramref name="g " /&gt;or&lt;paramref name=" region" /&gt; имеет значение null . |
+| ArgumentNullException | *g *или же* region* нулевой. |
 
 ### Смотрите также
 

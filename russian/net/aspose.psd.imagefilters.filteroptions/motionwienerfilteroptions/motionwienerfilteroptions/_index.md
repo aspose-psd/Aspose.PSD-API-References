@@ -1,14 +1,14 @@
 ---
 title: MotionWienerFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаMotionWienerFilterOptionsaspose.psd.imagefilters.filteroptions/motionwienerfilteroptions.
+description: Инициализирует новый экземплярMotionWienerFilterOptionsaspose.psd.imagefilters.filteroptions/motionwienerfilteroptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/motionwienerfilteroptions/
 ---
 ## MotionWienerFilterOptions constructor
 
-Инициализирует новый экземпляр класса[`MotionWienerFilterOptions`](../../motionwienerfilteroptions).
+Инициализирует новый экземпляр[`MotionWienerFilterOptions`](../../motionwienerfilteroptions) класс.
 
 ```csharp
 public MotionWienerFilterOptions(int length, double smooth, double angle)
@@ -17,7 +17,7 @@ public MotionWienerFilterOptions(int length, double smooth, double angle)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | length | Int32 | Длина. |
-| smooth | Double | Гладкость. |
+| smooth | Double | Гладкая. |
 | angle | Double | Угол в градусах. |
 
 ### Смотрите также

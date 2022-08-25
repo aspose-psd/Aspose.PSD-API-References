@@ -1,7 +1,7 @@
 ---
 title: GenerateSmartEmbeddedResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Генерирует встроенный ресурс смарт-объекта.
+description: Генерирует встроенный ресурс смартобъекта.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/
@@ -16,7 +16,7 @@ public SoLdResource GenerateSmartEmbeddedResource()
 
 ### Возвращаемое значение
 
-Сгенерированный экземпляр[`SoLdResource`](../../soldresource).
+Сгенерированный[`SoLdResource`](../../soldresource) пример.
 
 ### Смотрите также
 

@@ -1,7 +1,7 @@
 ---
 title: BlackAndWhitePresetFileName
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает имя файла предустановленных черно-белых изображений.
+description: Получает или задает имя файла предустановленных чернобелых изображений.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blackandwhitepresetfilename/
@@ -20,7 +20,7 @@ public string BlackAndWhitePresetFileName { get; set; }
 
 ### Примеры
 
-Следующий пример демонстрирует, как вы можете манипулировать свойствами корректирующего слоя черный белый в Aspose.PSD
+В следующем примере показано, как вы можете манипулировать свойствами корректирующего слоя «черно-белый» в Aspose.PSD.
 
 ```csharp
 [C#]

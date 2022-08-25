@@ -1,14 +1,14 @@
 ---
 title: SetLogComment
 second_title: Aspose.PSD for .NET API 参考
-description: 设置用户的日志注释
+description: 设置用户的日志评论
 type: docs
 weight: 270
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment/
 ---
 ## XmpDynamicMediaPackage.SetLogComment method
 
-设置用户的日志注释。
+设置用户的日志评论。
 
 ```csharp
 public void SetLogComment(string comment)

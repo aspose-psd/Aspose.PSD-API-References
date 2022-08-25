@@ -16,7 +16,7 @@ public LayerResource[] GlobalLayerResources { get; set; }
 
 ### 适当的价值
 
-全局图层资源。
+全局层资源。
 
 ### 也可以看看
 

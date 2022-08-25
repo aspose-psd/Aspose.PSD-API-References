@@ -1,14 +1,14 @@
 ---
 title: Lnk3Resource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс который содержит информацию о встроенном файле в формате PSD 32 бита на канал изображения. Ресурс ссылки может содержать несколько экземпляровLiFdDataSource./lifddatasource к которым может обращаться индексатор.
+description: Определяет класс который содержит информацию о встроенном файле в формате PSD 32 бита на канал изображения. Ресурс ссылки может содержать несколькоLiFdDataSource./lifddatasource экземпляры к которым может обращаться indexer.
 type: docs
-weight: 2670
+weight: 2710
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/
 ---
 ## Lnk3Resource class
 
-Определяет класс, который содержит информацию о встроенном файле в формате PSD 32 бита на канал изображения. Ресурс ссылки может содержать несколько экземпляров[`LiFdDataSource`](../lifddatasource), к которым может обращаться индексатор.
+Определяет класс, который содержит информацию о встроенном файле в формате PSD 32 бита на канал изображения. Ресурс ссылки может содержать несколько[`LiFdDataSource`](../lifddatasource) экземпляры, к которым может обращаться indexer.
 
 ```csharp
 public class Lnk3Resource : Lnk2Resource
@@ -18,7 +18,7 @@ public class Lnk3Resource : Lnk2Resource
 
 | Имя | Описание |
 | --- | --- |
-| [Lnk3Resource](lnk3resource)() | Инициализирует новый экземпляр класса[`Lnk3Resource`](../lnk3resource). |
+| [Lnk3Resource](lnk3resource)() | Инициализирует новый экземпляр[`Lnk3Resource`](../lnk3resource) класс. |
 
 ## Характеристики
 
@@ -26,10 +26,10 @@ public class Lnk3Resource : Lnk2Resource
 | --- | --- |
 | [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount) { get; } | Получает количество источников данных ссылок, к которым может обращаться индексатор. |
 | [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | Получает значение, указывающее, является ли этот экземпляр ресурса ссылки пустым. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item) { get; } | Получает[`LiFdDataSource`](../lifddatasource)по указанному индексу. (2 indexers) |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item) { get; } | Получает[`LiFdDataSource`](../lifddatasource) по указанному индексу. (2 indexers) |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length) { get; } | Получает длину ресурса глобальной ссылки PSD в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | Получает версию в формате PSD. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | Получает версию формата PSD. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature) { get; } | Получает подпись ресурса глобальной ссылки PSD. |
 
 ## Методы
@@ -37,13 +37,13 @@ public class Lnk3Resource : Lnk2Resource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | Сохраняет данные блока ресурсов. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 

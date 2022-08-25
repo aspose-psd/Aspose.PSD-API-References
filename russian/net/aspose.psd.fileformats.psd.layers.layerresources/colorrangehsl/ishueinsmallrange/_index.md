@@ -1,14 +1,14 @@
 ---
 title: IsHueInSmallRange
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет находится ли оттенок в маленьком диапазоне.
+description: Определяет находится ли оттенок в небольшом диапазоне.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/
 ---
 ## ColorRangeHsl.IsHueInSmallRange method
 
-Определяет, находится ли оттенок в маленьком диапазоне.
+Определяет, находится ли оттенок в небольшом диапазоне.
 
 ```csharp
 public bool IsHueInSmallRange(double hue)
@@ -20,7 +20,7 @@ public bool IsHueInSmallRange(double hue)
 
 ### Возвращаемое значение
 
-` true` если оттенок в небольшом диапазоне; в противном случае` false` .
+`истинный` если оттенок в маленьком диапазоне; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

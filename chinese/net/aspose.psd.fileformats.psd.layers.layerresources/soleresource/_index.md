@@ -1,14 +1,14 @@
 ---
 title: SoLeResource
 second_title: Aspose.PSD for .NET API 参考
-description: 定义包含有关 PSD 文件中智能对象层信息的 SoLeResource 类 用于支持 Adobe Photoshop 图像中带有外部文件链接的智能对象层
+description: 定义包含有关 PSD 文件中智能对象层信息的 SoLeResource 类 用于支持具有 Adobe Photoshop 图像中的外部文件链接的智能对象层
 type: docs
-weight: 2950
+weight: 3000
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/
 ---
 ## SoLeResource class
 
-定义包含有关 PSD 文件中智能对象层信息的 SoLeResource 类。 用于支持 Adobe® Photoshop® 图像中带有外部文件链接的智能对象层。
+定义包含有关 PSD 文件中智能对象层信息的 SoLeResource 类。 用于支持具有 Adobe® Photoshop® 图像中的外部文件链接的智能对象层。
 
 ```csharp
 public class SoLeResource : SmartObjectResource
@@ -18,68 +18,68 @@ public class SoLeResource : SmartObjectResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SoLeResource](soleresource#constructor)() | 初始化[`SoLeResource`](../soleresource)类的新实例。 |
-| [SoLeResource](soleresource#constructor_1)(Guid, bool, bool) | 初始化[`SoLeResource`](../soleresource)类的新实例。 |
+| [SoLeResource](soleresource#constructor)() | 初始化[`SoLeResource`](../soleresource)类. |
+| [SoLeResource](soleresource#constructor_1)(Guid, bool, bool) | 初始化[`SoLeResource`](../soleresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy) { get; set; } | 获取或设置PSD图像中智能对象层数据的反锯齿策略。 |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom) { get; set; } | 获取或设置放置图层在 PSD 图像中的底部位置。 |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds) { get; set; } | 获取或设置 PSD 文件中放置层的边界。 |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp) { get; set; } | 获取或设置 PSD 文件中智能对象层数据的 comp 值。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid) { get; set; } | 获取或设置子文档当前选择的comp的ID，如果没有选择则为-1。 Comps 是设计师可以创建的页面布局的组合。使用图层复合，您可以在单个 Adobe® Photoshop® 文件中创建、管理和查看布局的多个版本 。图层组合是“图层”面板状态的快照。图层组合保存三种类型的图层选项，但 此属性获取 PSD 文件中智能对象图层的图层组合选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop) { get; set; } | 获取或设置 PSD 图像中智能对象图层数据的裁剪。 |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy) { get; set; } | 获取或设置PSD图像中智能对象图层数据的抗锯齿策略。 |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom) { get; set; } | 获取或设置放置图层在PSD图像中的底部位置。 |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds) { get; set; } | 获取或设置PSD文件中放置层的边界。 |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp) { get; set; } | 获取或设置PSD文件中智能对象图层数据的comp值。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid) { get; set; } | 获取或设置子文档当前选择的组合的 ID，如果没有选择，则为 -1。 组合是设计人员可以创建的页面布局的组合。使用图层复合，您可以在单个 Adobe® Photoshop® 文件中创建、管理和查看布局的多个版本 。图层组合是“图层”面板状态的快照。图层组合保存三种类型的图层选项但是 此属性获取PSD文件中智能对象图层的图层组合选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop) { get; set; } | 获取或设置PSD图像中智能对象图层数据的裁剪。 |
 | [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator) { get; set; } | 获取或设置时长分母。 |
 | [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator) { get; set; } | 获取或设置持续时间分子。 |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount) { get; set; } | 获取或设置 PSD 文件中智能对象图层数据的帧数。 |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount) { get; set; } | 获取或设置PSD文件中智能对象图层数据的帧数。 |
 | [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator) { get; set; } | 获取或设置帧步长分母。 |
 | [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator) { get; set; } | 获取或设置帧步长分子。 |
 | [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height) { get; set; } | 获取或设置高度。 |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints) { get; set; } | 获取或设置 PSD 文件中放置层的水平网格点。 |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit) { get; set; } | 获取或设置水平网格点的度量单位。 |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom) { get; set; } | 获取或设置一个值，该值指示此实例扭曲样式是否为自定义。 如果为真则包含网格点。如果设置为 false，它会删除网格点。 |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items) { get; set; } | 获取或设置PSD文件中智能对象层数据的描述符项。 |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints) { get; set; } | 获取或设置PSD文件中放置图层的水平网格点。 |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit) { get; set; } | 获取或设置水平网格点的测量单位。 |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom) { get; set; } | 获取或设置一个值，该值指示此实例扭曲样式是否为自定义。 如果为 true，则包含网格点。如果设置为 false，它会删除网格点。 |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items) { get; set; } | 获取或设置PSD文件中智能对象图层数据的描述符项 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/key) { get; } | 获取唯一智能对象层资源密钥。 |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left) { get; set; } | 获取或设置放置图层在 PSD 文件中的左侧位置。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length) { get; } | 获取智能对象资源长度（以字节为单位）。 |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left) { get; set; } | 获取或设置放置图层在PSD文件中的左侧位置。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length) { get; } | 以字节为单位获取智能对象资源长度。 |
 | [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix) { get; set; } | 获取或设置PSD文件中智能对象图层数据的非仿射变换矩阵。 |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid) { get; } | 获取子文档当前选中的 Comp 的原始 ID，如果没有选中则为 -1。 此属性获取 PSD 文件中智能对象层的原始层 Comp 选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber) { get; set; } | 获取或设置 PSD 文件中智能对象图层数据的页码。 |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid) { get; } | 获取子文档当前选择的 Comp 的原始 ID，如果没有选择，则为 -1。 此属性获取 PSD 文件中智能对象层的原始层 Comp 选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber) { get; set; } | 获取或设置PSD文件中智能对象图层数据的页码。 |
 | [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective) { get; set; } | 获取或设置PSD文件中放置图层的透视值。 |
 | [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother) { get; set; } | 获取或设置PSD文件中放置图层的透视其他值。 |
 | [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid) { get; set; } | 获取或设置此智能对象图层数据在 PSD 图像中的唯一标识符。 |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype) { get; set; } | 获取或设置 PSD 文件中智能对象图层数据的类型。 |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype) { get; set; } | 获取或设置PSD文件中智能对象图层数据的类型。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion) { get; } | 获取智能对象资源所需的最低 psd 版本。 0 表示没有限制。 |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution) { get; set; } | 获取或设置 PSD 文件中智能对象图层数据的分辨率。 |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution) { get; set; } | 获取或设置PSD文件中智能对象图层数据的分辨率。 |
 | [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit) { get; set; } | 获取或设置PSD文件中智能对象图层数据的分辨率度量单位。 |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right) { get; set; } | 获取或设置放置图层在 PSD 文件中的正确位置。 |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right) { get; set; } | 获取或设置放置图层在PSD文件中的正确位置。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature) { get; } | 获取智能对象资源签名。 |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top) { get; set; } | 获取或设置放置图层在 PSD 图像中的顶部位置。 |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages) { get; set; } | 获取或设置 PSD 文件中智能对象图层数据的总页数。 |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages) { get; set; } | 获取或设置PSD文件中智能对象图层数据的总页数。 |
 | override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix) { get; set; } | 获取或设置PSD文件中智能对象图层数据的变换矩阵。 |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid) { get; set; } | 获取或设置 PSD 图像中智能对象层数据[`SmartObjectResource`](../smartobjectresource)的全局唯一标识符。 |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder) { get; set; } | 获取或设置 PSD 文件中放置图层的 U 阶值。 |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value) { get; set; } | 获取或设置 PSD 图像中放置层的扭曲值。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version) { get; } | 获取PSD文件中放置图层的版本，一般为3。 |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints) { get; set; } | 获取或设置 PSD 文件中放置层的水平网格点。 |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid) { get; set; } | 获取或设置智能对象图层数据的全局唯一标识[`SmartObjectResource`](../smartobjectresource)在 PSD 图像中。 |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder) { get; set; } | 获取或设置PSD文件中放置图层的U阶值 |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value) { get; set; } | 获取或设置PSD图像中放置图层的warp值。 |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version) { get; } | 获取PSD文件中放置图层的版本，一般为3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints) { get; set; } | 获取或设置PSD文件中放置图层的水平网格点。 |
 | [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit) { get; set; } | 获取或设置垂直网格点的测量单位。 |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder) { get; set; } | 获取或设置 PSD 文件中放置图层的 V 阶值。 |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder) { get; set; } | 获取或设置PSD文件中放置图层的V阶值。 |
 | [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width) { get; set; } | 获取或设置宽度。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save)(StreamContainer, int) | 将智能对象资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save)(StreamContainer, int) | 将智能对象资源保存到指定的流容器中。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey) | 类型工具信息键：'SoLE'。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey) | 类型工具信息键：'SoLE'. |
 
 ### 例子
 

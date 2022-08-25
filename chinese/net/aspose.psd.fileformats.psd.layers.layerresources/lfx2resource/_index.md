@@ -3,7 +3,7 @@ title: Lfx2Resource
 second_title: Aspose.PSD for .NET API 参考
 description: Lfx2 资源效果资源
 type: docs
-weight: 2590
+weight: 2630
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
 ## Lfx2Resource class
@@ -28,8 +28,8 @@ public sealed class Lfx2Resource : LayerResource
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/data) { get; set; } | 获取或设置数据。 |
 | [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion) { get; } | 获取描述符版本。 |
 | [EffectColor](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/effectcolor) { get; } | 获取效果的颜色。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/length) { get; } | 以字节为单位获取层资源长度。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/opacity) { get; } | 获取不透明度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/signature) { get; } | 获取图层资源签名。 |
@@ -39,7 +39,7 @@ public sealed class Lfx2Resource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

@@ -1,14 +1,14 @@
 ---
 title: EnclosingRight
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает положение правой растровой маски в слое PSD-файла.
+description: Получает или задает положение правой растровой маски в слое файла PSD.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/
 ---
 ## LayerMaskDataFull.EnclosingRight property
 
-Получает или задает положение правой растровой маски в слое PSD-файла.
+Получает или задает положение правой растровой маски в слое файла PSD.
 
 ```csharp
 public int EnclosingRight { get; set; }

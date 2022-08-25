@@ -16,11 +16,11 @@ public bool IsNotLinked { get; set; }
 
 ### Стоимость имущества
 
-` true` если этот экземпляр не связан; в противном случае` false` .
+`истинный` если этот экземпляр не связан; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 
-Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для правильной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
 
 ```csharp
 [C#]

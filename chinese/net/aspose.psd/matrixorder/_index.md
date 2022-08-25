@@ -3,7 +3,7 @@ title: MatrixOrder
 second_title: Aspose.PSD for .NET API 参考
 description: 指定矩阵变换操作的顺序
 type: docs
-weight: 4980
+weight: 5030
 url: /zh/net/aspose.psd/matrixorder/
 ---
 ## MatrixOrder enumeration

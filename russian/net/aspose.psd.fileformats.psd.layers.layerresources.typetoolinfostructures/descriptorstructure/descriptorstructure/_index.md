@@ -1,14 +1,14 @@
 ---
 title: DescriptorStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаDescriptorStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure.
+description: Инициализирует новый экземплярDescriptorStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/descriptorstructure/
 ---
 ## DescriptorStructure constructor
 
-Инициализирует новый экземпляр класса[`DescriptorStructure`](../../descriptorstructure).
+Инициализирует новый экземпляр[`DescriptorStructure`](../../descriptorstructure) класс.
 
 ```csharp
 public DescriptorStructure(ClassID keyName, ClassID classID, string className, 
@@ -17,16 +17,16 @@ public DescriptorStructure(ClassID keyName, ClassID classID, string className,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 | classID | ClassID | Идентификатор класса. |
-| className | String | Имя класса. |
+| className | String | Название класса. |
 | structures | OSTypeStructure[] | Структуры. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | classID равен null |
+| ArgumentNullException | идентификатор класса равен нулю |
 
 ### Смотрите также
 

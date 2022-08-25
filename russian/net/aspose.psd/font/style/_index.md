@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает информацию о стиле для этогоFontaspose.psd/font.
+description: Получает информацию о стиле для этогоFontaspose.psd/font .
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/font/style/
 ---
 ## Font.Style property
 
-Получает информацию о стиле для этого[`Font`](../../font).
+Получает информацию о стиле для этого[`Font`](../../font) .
 
 ```csharp
 public FontStyle Style { get; }
@@ -16,7 +16,7 @@ public FontStyle Style { get; }
 
 ### Стоимость имущества
 
-A[`FontStyle`](../../fontstyle)перечисление, которое содержит информацию о стиле для этогоШрифт.
+А[`FontStyle`](../../fontstyle) перечисление, содержащее информацию о стиле для этого[`Font`](../../font).
 
 ### Смотрите также
 

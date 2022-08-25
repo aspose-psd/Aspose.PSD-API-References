@@ -1,14 +1,14 @@
 ---
 title: IsSoftBlend
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否敲除
+description: 获取或设置一个值该值指示是否 knocks out.
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/
 ---
 ## OuterGlowEffect.IsSoftBlend property
 
-获取或设置一个值，指示是否[敲除]。
+获取或设置一个值，该值指示是否 [knocks out].
 
 ```csharp
 public bool IsSoftBlend { get; set; }
@@ -16,7 +16,7 @@ public bool IsSoftBlend { get; set; }
 
 ### 适当的价值
 
-` true` if [淘汰赛];否则，` false` 。
+`真的`如果 [淘汰赛];否则，`错误的` .
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public string FullPath { get; set; }
 
 ### 适当的价值
 
-完整文件路径。
+完整的文件路径。
 
 ### 例外
 

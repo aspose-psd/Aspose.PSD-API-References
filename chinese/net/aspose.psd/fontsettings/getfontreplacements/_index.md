@@ -16,11 +16,11 @@ public static string[] GetFontReplacements(string fontName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | 字体名称。 |
+| fontName | String | 字体的名称。 |
 
 ### 返回值
 
-所提供字体的替换名称数组
+提供的字体的替换名称数组
 
 ### 例子
 

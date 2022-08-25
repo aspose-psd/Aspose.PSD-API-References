@@ -1,14 +1,14 @@
 ---
 title: ElementName
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 Adobe Photoshop CC Libraries 的图形库元素名称
+description: 获取或设置图形库元素名称用于 Adobe Photoshop CC Libraries
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/
 ---
 ## LiFeDataSource.ElementName property
 
-获取或设置 Adobe® Photoshop® CC Libraries 的图形库元素名称。
+获取或设置图形库元素名称，用于 Adobe® Photoshop® CC Libraries。
 
 ```csharp
 public string ElementName { get; set; }
@@ -22,7 +22,7 @@ public string ElementName { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 ElementName 属性，它仅适用于 IsLibrary 时的 liFE 数据源为真 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 ElementName 属性，当 IsLibrary 为 true 时，该属性仅适用于 liFE 数据源 |
 
 ### 例子
 

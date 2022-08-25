@@ -1,14 +1,14 @@
 ---
 title: VectorShapeTransform
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化VectorShapeTransformaspose.psd.fileformats.core.vectorpaths/vectorshapetransform类的新实例
+description: 初始化VectorShapeTransformaspose.psd.fileformats.core.vectorpaths/vectorshapetransform类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/vectorshapetransform/
 ---
 ## VectorShapeTransform constructor
 
-初始化[`VectorShapeTransform`](../../vectorshapetransform)类的新实例。
+初始化[`VectorShapeTransform`](../../vectorshapetransform)类.
 
 ```csharp
 public VectorShapeTransform()

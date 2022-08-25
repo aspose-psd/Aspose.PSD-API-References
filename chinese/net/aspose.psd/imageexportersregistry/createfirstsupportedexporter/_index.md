@@ -25,7 +25,7 @@ public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOpti
 
 ### 评论
 
-第一个导出器实际上是最后一个注册的。
+第一个出口商实际上是最后一个注册的。
 
 ### 也可以看看
 

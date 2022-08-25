@@ -3,7 +3,7 @@ title: IKeyedObject
 second_title: Aspose.PSD for .NET API 参考
 description: 表示带有键的对象的接口
 type: docs
-weight: 4360
+weight: 4410
 url: /zh/net/aspose.psd/ikeyedobject/
 ---
 ## IKeyedObject interface

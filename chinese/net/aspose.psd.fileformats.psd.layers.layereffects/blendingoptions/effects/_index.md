@@ -1,14 +1,14 @@
 ---
 title: Effects
 second_title: Aspose.PSD for .NET API 参考
-description: 获取效果
+description: 获得效果
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/
 ---
 ## BlendingOptions.Effects property
 
-获取效果。
+获得效果。
 
 ```csharp
 public ILayerEffect[] Effects { get; }

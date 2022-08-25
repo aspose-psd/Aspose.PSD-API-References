@@ -3,7 +3,7 @@ title: IObjectWithSizeF
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет объект с размером выраженным в действительных числах в дюймах.
 type: docs
-weight: 4900
+weight: 4950
 url: /ru/net/aspose.psd.interfaces/iobjectwithsizef/
 ---
 ## IObjectWithSizeF interface

@@ -1,14 +1,14 @@
 ---
 title: Types
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置类型
+description: 获取或设置结构数组的副本
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types/
 ---
 ## ListStructure.Types property
 
-获取或设置类型。
+获取或设置结构数组的副本。
 
 ```csharp
 public OSTypeStructure[] Types { get; set; }

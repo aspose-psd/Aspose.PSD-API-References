@@ -1,14 +1,14 @@
 ---
 title: PhflResourceVersion3
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PhflResourceVersion3aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3类的新实例
+description: 初始化PhflResourceVersion3aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/phflresourceversion3/
 ---
 ## PhflResourceVersion3() {#constructor}
 
-初始化[`PhflResourceVersion3`](../../phflresourceversion3)类的新实例。
+初始化[`PhflResourceVersion3`](../../phflresourceversion3)类.
 
 ```csharp
 public PhflResourceVersion3()
@@ -30,7 +30,7 @@ public PhflResourceVersion3()
 
 ## PhflResourceVersion3(byte[]) {#constructor_1}
 
-初始化[`PhflResourceVersion3`](../../phflresourceversion3)类的新实例。
+初始化[`PhflResourceVersion3`](../../phflresourceversion3)类.
 
 ```csharp
 public PhflResourceVersion3(byte[] data)

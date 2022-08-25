@@ -1,14 +1,14 @@
 ---
 title: EnumeratedDescriptorStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаEnumeratedDescriptorStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure.
+description: Инициализирует новый экземплярEnumeratedDescriptorStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumerateddescriptorstructure/
 ---
 ## EnumeratedDescriptorStructure constructor
 
-Инициализирует новый экземпляр класса[`EnumeratedDescriptorStructure`](../../enumerateddescriptorstructure).
+Инициализирует новый экземпляр[`EnumeratedDescriptorStructure`](../../enumerateddescriptorstructure) класс.
 
 ```csharp
 public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID enumName)
@@ -16,7 +16,7 @@ public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID en
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 | typeID | ClassID | Идентификатор типа. |
 | enumName | ClassID | Имя перечисления. |
 

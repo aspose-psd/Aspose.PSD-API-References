@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает положение нижнего слоя.
+description: Получает или задает позицию нижнего слоя.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/bottom/
 ---
 ## Layer.Bottom property
 
-Получает или задает положение нижнего слоя.
+Получает или задает позицию нижнего слоя.
 
 ```csharp
 public int Bottom { get; set; }

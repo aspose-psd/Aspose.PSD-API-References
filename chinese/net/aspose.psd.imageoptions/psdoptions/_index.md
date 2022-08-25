@@ -1,14 +1,14 @@
 ---
 title: PsdOptions
 second_title: Aspose.PSD for .NET API 参考
-description: psd 文件格式创建选项
+description: psd文件格式创建选项.
 type: docs
-weight: 4780
+weight: 4830
 url: /zh/net/aspose.psd.imageoptions/psdoptions/
 ---
 ## PsdOptions class
 
-psd 文件格式创建选项。
+psd文件格式创建选项.
 
 ```csharp
 public class PsdOptions : ImageOptionsBase
@@ -18,9 +18,9 @@ public class PsdOptions : ImageOptionsBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PsdOptions](psdoptions#constructor)() | 初始化[`PsdOptions`](../psdoptions)类的新实例。 |
-| [PsdOptions](psdoptions#constructor_1)(PsdImage) | 初始化[`PsdOptions`](../psdoptions)类的新实例。 |
-| [PsdOptions](psdoptions#constructor_2)(PsdOptions) | 初始化[`PsdOptions`](../psdoptions)类的新实例。 |
+| [PsdOptions](psdoptions#constructor)() | 初始化[`PsdOptions`](../psdoptions)类. |
+| [PsdOptions](psdoptions#constructor_1)(PsdImage) | 初始化[`PsdOptions`](../psdoptions)类. |
+| [PsdOptions](psdoptions#constructor_2)(PsdOptions) | 初始化[`PsdOptions`](../psdoptions)类. |
 
 ## 特性
 
@@ -29,22 +29,22 @@ public class PsdOptions : ImageOptionsBase
 | [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | 获取或设置缓冲区大小提示，该提示定义了所有内部缓冲区的最大允许大小。 |
 | [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount) { get; set; } | 获取或设置每个颜色通道的位数。 |
 | [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount) { get; set; } | 获取或设置颜色通道数。 |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode) { get; set; } | 获取或设置 psd 颜色模式。 |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod) { get; set; } | 获取或设置 psd 压缩方式。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（如果系统中未显示 PSD 文件中的现有图层字体，则在导出为栅格时用于绘制文本的字体）。 下一个代码片段可以使用默认字体的正确名称： System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] 系列 = col.Families; 字符串 defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]。 |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode) { get; set; } | 获取或设置psd颜色模式。 |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod) { get; set; } | 获取或设置psd压缩方式 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果 PSD 文件中的现有图层字体未在系统中显示）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | 多页选项 |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | 获取或设置调色板。 |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | 获取或设置进度事件处理程序。 |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion) { get; set; } | 获取或设置文件格式版本。它可以是 PSD 或 PSB。 |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata) { get; set; } | 获取或设置一个值，该值指示是否 [刷新图像预览数据] - 用于最大化与其他 PSD 图像查看器的兼容性的选项。 请注意，Compact Framework 平台不支持将文本图层绘制到最终布局 |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource) { get; set; } | 获取或设置一个值，指示是否 - 删除全局文本引擎资源 - 用于一些文本分层的 psd 文件，仅在处理后无法在 Adobe Photoshop 中打开时使用（主要是与缺少字体文本层相关的）。 使用此选项后，用户需要在 Photoshop 文件中打开下一个：菜单“文本”-&gt; “处理缺少的字体”。该操作后，所有文本将再次出现。 请注意，此操作可能会导致一些最终布局更改。 |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion) { get; set; } | 获取或设置文件格式版本。它可以是 PSD 或 PSB. |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata) { get; set; } | 获取或设置一个值，指示是否 [刷新图像预览数据] - 用于最大限度地与其他 PSD 图像查看器兼容的选项。 请注意，Compact Framework 平台不支持将文本图层绘制到最终布局 |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource) { get; set; } | 获取或设置一个值，该值指示是否 - 删除全局文本引擎资源 - 用于一些文本分层的 psd 文件，仅在处理后无法在 Adobe Photoshop 中打开时使用（主要用于与文本图层相关的缺失字体）。 使用此选项后，用户需要在 Photoshop 文件中打开下一个：菜单“文本”-&gt;“处理不存在的字体”。在该操作之后，所有文本将再次出现。 请注意，此操作可能会导致一些最终布局更改。 |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | 获取或设置分辨率设置。 |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources) { get; set; } | 获取或设置 psd 资源。 |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置创建图像的源。 |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources) { get; set; } | 获取或设置psd资源 |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置要在其中创建图像的源。 |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | 获取或设置矢量光栅化选项。 |
-| [Version](../../aspose.psd.imageoptions/psdoptions/version) { get; set; } | 获取或设置 psd 文件版本。 |
+| [Version](../../aspose.psd.imageoptions/psdoptions/version) { get; set; } | 获取或设置psd文件版本。 |
 | override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata) { get; set; } | 获取或设置 XMP 数据容器 |
 
 ## 方法
@@ -52,11 +52,11 @@ public class PsdOptions : ImageOptionsBase
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | 克隆此实例。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
 
 ### 例子
 
-以下示例演示了如何将 AI 文件导出为 Aspose.PSD 中的 PSD 和 PNG 格式
+以下示例演示了如何在 Aspose.PSD 中将 AI 文件导出为 PSD 和 PNG 格式
 
 ```csharp
 [C#]
@@ -70,7 +70,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-本示例在 PsdOptions 实例的 Source 属性指定的某个磁盘位置创建一个新的 Image 文件。在创建实际图像之前设置 PsdOptions 实例的几个属性。特别是 Source 属性，在这种情况下指的是实际的磁盘位置。
+此示例在 PsdOptions 实例的 Source 属性指定的某个磁盘位置创建一个新的图像文件。在创建实际图像之前设置 PsdOptions 实例的几个属性。特别是 Source 属性，在这种情况下指的是实际的磁盘位置。
 
 ```csharp
 [C#]
@@ -92,7 +92,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 }
 ```
 
-以下示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 16 位 RGB 的工作正常且无异常。
+下面的示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 16 位 RGB 的工作正常且无异常。
 
 ```csharp
 [C#]
@@ -125,7 +125,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-以下示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 8 位灰度的工作正常且无异常。
+下面的示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 8 位灰度的工作正常且无异常。
 
 ```csharp
 [C#]
@@ -158,7 +158,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-以下示例演示如何在 Aspose.PSD 中使用 PassThrough 图层混合模式
+以下示例演示了如何在 Aspose.PSD 中使用 PassThrough 图层混合模式
 
 ```csharp
 [C#]
@@ -199,7 +199,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示文档转换进度正常工作，无一例外。
+以下示例演示了文档转换进度正常且无异常。
 
 ```csharp
 [C#]

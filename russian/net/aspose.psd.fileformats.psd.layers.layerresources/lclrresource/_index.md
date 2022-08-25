@@ -1,14 +1,14 @@
 ---
 title: LclrResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс LclrResource. Этот ресурс содержит информацию о цвете слоя в списке слоев PS. Это всего лишь
+description: Класс LclrResource. Этот ресурс содержит информацию о цвете слоя в списке слоев PS. Это только
 type: docs
-weight: 2560
+weight: 2600
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
 ## LclrResource class
 
-Класс LclrResource. Этот ресурс содержит информацию о цвете слоя в списке слоев PS. Это всего лишь
+Класс LclrResource. Этот ресурс содержит информацию о цвете слоя в списке слоев PS. Это только
 
 ```csharp
 public class LclrResource : LayerResource
@@ -18,9 +18,9 @@ public class LclrResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [LclrResource](lclrresource#constructor)() | Инициализирует новый экземпляр класса[`LclrResource`](../lclrresource). |
-| [LclrResource](lclrresource#constructor_2)(byte[]) | Инициализирует новый экземпляр класса[`LclrResource`](../lclrresource). |
-| [LclrResource](lclrresource#constructor_1)(SheetColorHighlightEnum) | Инициализирует новый экземпляр класса[`LclrResource`](../lclrresource). |
+| [LclrResource](lclrresource#constructor)() | Инициализирует новый экземпляр[`LclrResource`](../lclrresource) класс. |
+| [LclrResource](lclrresource#constructor_2)(byte[]) | Инициализирует новый экземпляр[`LclrResource`](../lclrresource) класс. |
+| [LclrResource](lclrresource#constructor_1)(SheetColorHighlightEnum) | Инициализирует новый экземпляр[`LclrResource`](../lclrresource) класс. |
 
 ## Характеристики
 
@@ -29,7 +29,7 @@ public class LclrResource : LayerResource
 | [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color) { get; set; } | Получает или задает цвет слоя. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature) { get; } | Получает подпись. |
 
 ## Методы
@@ -37,17 +37,17 @@ public class LclrResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 
-Следующий пример демонстрирует как вы можете изменить выделение цвета листа в Aspose.PSD (настройка цвета листа)
+В следующем примере показано, как можно изменить выделение цветом листа в Aspose.PSD (настройка цвета листа).
 
 ```csharp
 [C#]

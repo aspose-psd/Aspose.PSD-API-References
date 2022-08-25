@@ -1,14 +1,14 @@
 ---
 title: ColorMode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает цветовой режим psd.
+description: Получает или задает цветовой режим PSD.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.imageoptions/psdoptions/colormode/
 ---
 ## PsdOptions.ColorMode property
 
-Получает или задает цветовой режим psd.
+Получает или задает цветовой режим PSD.
 
 ```csharp
 public ColorModes ColorMode { get; set; }

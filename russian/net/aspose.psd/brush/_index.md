@@ -25,7 +25,7 @@ public abstract class Brush : DisposableObject
 
 | Имя | Описание |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | Создает новый глубокий клон текущего[`Brush`](../brush). |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | Создает новый глубокий клон текущего[`Brush`](../brush) . |
 | [Dispose](../../aspose.psd/disposableobject/dispose)() | Удаляет текущий экземпляр. |
 
 ### Смотрите также

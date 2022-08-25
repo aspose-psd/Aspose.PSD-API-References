@@ -1,14 +1,14 @@
 ---
 title: BlueMask
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置蓝色蒙版
+description: 获取或设置蓝色遮罩
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/
 ---
 ## GlobalLayerMaskInfo.BlueMask property
 
-获取或设置蓝色蒙版。
+获取或设置蓝色遮罩。
 
 ```csharp
 public short BlueMask { get; set; }

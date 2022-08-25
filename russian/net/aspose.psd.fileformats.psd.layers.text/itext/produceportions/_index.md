@@ -1,14 +1,14 @@
 ---
 title: ProducePortions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает новые части с входными параметрами или параметрами по умолчанию.
+description: Создает новые порции с входными параметрами или параметрами по умолчанию.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itext/produceportions/
 ---
 ## IText.ProducePortions method
 
-Создает новые части с входными параметрами или параметрами по умолчанию.
+Создает новые порции с входными параметрами или параметрами по умолчанию.
 
 ```csharp
 public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle stylePrototype, 
@@ -17,17 +17,17 @@ public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle styleP
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| partionsOfText | String[] | Части текста для создания новых[`ITextPortion`](../../itextportion). |
-| stylePrototype | ITextStyle | Стиль, который, если он не нулевой, будет применен в новом &lt;see. Cref="ITextPortion" /&gt;, иначе будет по умолчанию. |
-| paragraphPrototype | ITextParagraph | Абзац, который, если он не нулевой, будет применен в новом &lt;see. Cref="ITextPortion" /&gt;, иначе будет по умолчанию. |
+| portionsOfText | String[] | Части текста для создания новых[`ITextPortion`](../../itextportion). |
+| stylePrototype | ITextStyle | Стиль, который, если он не нулевой, будет применяться в новом, иначе будет значение по умолчанию. |
+| paragraphPrototype | ITextParagraph | Абзац, который, если он не нулевой, будет применяться в новом, иначе будет значение по умолчанию. |
 
 ### Возвращаемое значение
 
-Возвращает новые порции[`ITextPortion`](../../itextportion)на основе входных параметров.
+Возвращает новые порции[`ITextPortion`](../../itextportion) на основе входных параметров.
 
 ### Примеры
 
-В следующем примере показано, как можно визуализировать разные стили в одном текстовом слое в Aspose.PSD
+В следующем примере показано, как можно визуализировать разные стили в одном текстовом слое в Aspose.PSD.
 
 ```csharp
 [C#]

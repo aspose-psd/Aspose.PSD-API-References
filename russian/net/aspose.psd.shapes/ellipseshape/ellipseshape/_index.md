@@ -1,14 +1,14 @@
 ---
 title: EllipseShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаEllipseShapeaspose.psd.shapes/ellipseshape.
+description: Инициализирует новый экземплярEllipseShapeaspose.psd.shapes/ellipseshape класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/ellipseshape/ellipseshape/
 ---
 ## EllipseShape() {#constructor}
 
-Инициализирует новый экземпляр класса[`EllipseShape`](../../ellipseshape).
+Инициализирует новый экземпляр[`EllipseShape`](../../ellipseshape) класс.
 
 ```csharp
 public EllipseShape()
@@ -24,7 +24,7 @@ public EllipseShape()
 
 ## EllipseShape(RectangleF) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`EllipseShape`](../../ellipseshape).
+Инициализирует новый экземпляр[`EllipseShape`](../../ellipseshape) класс.
 
 ```csharp
 public EllipseShape(RectangleF rectangle)

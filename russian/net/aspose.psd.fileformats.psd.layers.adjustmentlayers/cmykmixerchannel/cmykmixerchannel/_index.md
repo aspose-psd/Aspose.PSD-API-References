@@ -1,14 +1,14 @@
 ---
 title: CmykMixerChannel
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаCmykMixerChannelaspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel.
+description: Инициализирует новый экземплярCmykMixerChannelaspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cmykmixerchannel/
 ---
 ## CmykMixerChannel constructor
 
-Инициализирует новый экземпляр класса[`CmykMixerChannel`](../../cmykmixerchannel).
+Инициализирует новый экземпляр[`CmykMixerChannel`](../../cmykmixerchannel) класс.
 
 ```csharp
 public CmykMixerChannel(byte[] data)

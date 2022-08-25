@@ -1,14 +1,14 @@
 ---
 title: UnitStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаUnitStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure.
+description: Инициализирует новый экземплярUnitStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unitstructure/
 ---
 ## UnitStructure constructor
 
-Инициализирует новый экземпляр класса[`UnitStructure`](../../unitstructure).
+Инициализирует новый экземпляр[`UnitStructure`](../../unitstructure) класс.
 
 ```csharp
 public UnitStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public UnitStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 

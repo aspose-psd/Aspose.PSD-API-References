@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Справочник по Aspose.PSD для .NET API
-description: Указывает содержит ли этотPointFaspose.psd/pointfте же координаты что и указанныйObject.
+description: Указывает является ли этоPointFaspose.psd/pointfсодержит те же координаты что и указанныйObject .
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/pointf/equals/
 ---
 ## PointF.Equals method
 
-Указывает, содержит ли этот[`PointF`](../../pointf)те же координаты, что и указанныйObject.
+Указывает, является ли это[`PointF`](../../pointf)содержит те же координаты, что и указанныйObject .
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Objectдля тестирования. |
+| obj | Object | Object тестировать. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает true, если*obj*является[`PointF`](../../pointf)и имеет те же координаты, что и у этого[`Point`](../../point).
+Этот метод возвращает true, если*obj* это[`PointF`](../../pointf) и имеет те же координаты, что и это[`Point`](../../point).
 
 ### Смотрите также
 

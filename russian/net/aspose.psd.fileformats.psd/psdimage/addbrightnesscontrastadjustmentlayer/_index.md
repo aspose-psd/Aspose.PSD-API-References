@@ -17,11 +17,11 @@ public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightne
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | brightness | Int32 | Яркость. |
-| контрастность | Int32 | Контрастность. |
+| contrast | Int32 | Контраст. |
 
 ### Возвращаемое значение
 
-Создан слой яркости/контраста
+Создан слой яркости/контрастности
 
 ### Смотрите также
 

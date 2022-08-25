@@ -18,8 +18,8 @@ public class JpegException : ImageException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [JpegException](jpegexception#constructor)(string) | 初始化[`JpegException`](../jpegexception)类的新实例。 |
-| [JpegException](jpegexception#constructor_1)(string, Exception) | 初始化[`JpegException`](../jpegexception)类的新实例。 |
+| [JpegException](jpegexception#constructor)(string) | 初始化[`JpegException`](../jpegexception)类. |
+| [JpegException](jpegexception#constructor_1)(string, Exception) | 初始化[`JpegException`](../jpegexception)类. |
 
 ### 也可以看看
 

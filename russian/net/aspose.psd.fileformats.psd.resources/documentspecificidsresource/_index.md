@@ -1,14 +1,14 @@
 ---
 title: DocumentSpecificIdsResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Ресурс конкретных идентификаторов документа
+description: Идентификаторы конкретных документов resource
 type: docs
-weight: 3580
+weight: 3630
 url: /ru/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/
 ---
 ## DocumentSpecificIdsResource class
 
-Ресурс конкретных идентификаторов документа
+Идентификаторы конкретных документов resource
 
 ```csharp
 public sealed class DocumentSpecificIdsResource : ResourceBlock
@@ -28,9 +28,9 @@ public sealed class DocumentSpecificIdsResource : ResourceBlock
 | [Id](../../aspose.psd.fileformats.psd.resources/documentspecificidsresource/id) { get; set; } | Получает или задает идентификатор. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/documentspecificidsresource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 
 ## Методы
 

@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置浮动值
+description: 获取或设置浮点值
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.types.basic/xmpreal/value/
 ---
 ## XmpReal.Value property
 
-获取或设置浮动值。
+获取或设置浮点值。
 
 ```csharp
 public float Value { get; set; }

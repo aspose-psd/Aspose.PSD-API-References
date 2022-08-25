@@ -3,7 +3,7 @@ title: StreamSource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет источник потока.
 type: docs
-weight: 5500
+weight: 5550
 url: /ru/net/aspose.psd.sources/streamsource/
 ---
 ## StreamSource class
@@ -18,8 +18,8 @@ public sealed class StreamSource : Source
 
 | Имя | Описание |
 | --- | --- |
-| [StreamSource](streamsource#constructor)(Stream) | Инициализирует новый экземпляр класса[`StreamSource`](../streamsource). |
-| [StreamSource](streamsource#constructor_1)(Stream, bool) | Инициализирует новый экземпляр класса[`StreamSource`](../streamsource). |
+| [StreamSource](streamsource#constructor)(Stream) | Инициализирует новый экземпляр[`StreamSource`](../streamsource) класс. |
+| [StreamSource](streamsource#constructor_1)(Stream, bool) | Инициализирует новый экземпляр[`StreamSource`](../streamsource) класс. |
 
 ## Характеристики
 
@@ -36,7 +36,7 @@ public sealed class StreamSource : Source
 
 ### Примеры
 
-В этом примере класс Graphics используется для создания примитивных форм на поверхности изображения. Чтобы продемонстрировать операцию, в примере создается новое изображение в формате PSD и рисуются примитивные фигуры на поверхности изображения с помощью методов Draw, предоставляемых классом Graphics, а затем экспортируется в формат файла PSD.
+В этом примере класс Graphics используется для создания примитивных фигур на поверхности изображения. Чтобы продемонстрировать операцию, в примере создается новое изображение в формате PSD и рисуются примитивные фигуры на поверхности изображения с помощью методов Draw, предоставляемых классом Graphics, а затем экспортируется в формат файла PSD.
 
 ```csharp
 [C#]

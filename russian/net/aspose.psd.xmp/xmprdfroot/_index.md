@@ -1,14 +1,14 @@
 ---
 title: XmpRdfRoot
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет элемент rdfRDF. Один пакет XMP должен быть сериализован с использованием одного XML-элемента rdfRDF. Содержимое элемента rdfRDF должно состоять только из нуля или более элементов rdfDescription.
+description: Представляет элемент rdfRDF. Один пакет XMP должен быть сериализован с использованием одного элемента XML rdfRDF. Содержимое элемента rdfRDF должно состоять только из нуля или более элементов rdfDescription.
 type: docs
-weight: 6180
+weight: 6230
 url: /ru/net/aspose.psd.xmp/xmprdfroot/
 ---
 ## XmpRdfRoot class
 
-Представляет элемент rdf:RDF. Один пакет XMP должен быть сериализован с использованием одного XML-элемента rdf:RDF. Содержимое элемента rdf:RDF должно состоять только из нуля или более элементов rdf:Description.
+Представляет элемент rdf:RDF. Один пакет XMP должен быть сериализован с использованием одного элемента XML rdf:RDF. Содержимое элемента rdf:RDF должно состоять только из нуля или более элементов rdf:Description.
 
 ```csharp
 public sealed class XmpRdfRoot : XmpElementBase, IXmlValue
@@ -26,7 +26,7 @@ public sealed class XmpRdfRoot : XmpElementBase, IXmlValue
 | --- | --- |
 | virtual [AddAttribute](../../aspose.psd.xmp/xmpelementbase/addattribute)(string, string) | Добавляет атрибут. |
 | virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes)() | Удаляет все атрибуты. |
-| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
+| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
 | [Equals](../../aspose.psd.xmp/xmpelementbase/equals)(XmpElementBase) | Указывает, равен ли текущий объект другому объекту того же типа. |
 | virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute)(string) | Получает атрибут. |
 | override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode)() | Возвращает хэш-код для этого экземпляра. |

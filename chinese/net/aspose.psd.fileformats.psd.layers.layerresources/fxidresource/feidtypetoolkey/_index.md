@@ -1,14 +1,14 @@
 ---
 title: FEidTypeToolKey
 second_title: Aspose.PSD for .NET API 参考
-description: 类型工具信息键 FEid
+description: 类型工具信息键 FEid.
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/
 ---
 ## FXidResource.FEidTypeToolKey field
 
-类型工具信息键 FEid。
+类型工具信息键 FEid.
 
 ```csharp
 public const int FEidTypeToolKey;

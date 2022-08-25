@@ -1,14 +1,14 @@
 ---
 title: PtFlResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPtFlResourceaspose.psd.fileformats.psd.layers.layerresources/ptflresource.
+description: Инициализирует новый экземплярPtFlResourceaspose.psd.fileformats.psd.layers.layerresources/ptflresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/ptflresource/
 ---
 ## PtFlResource constructor
 
-Инициализирует новый экземпляр класса[`PtFlResource`](../../ptflresource).
+Инициализирует новый экземпляр[`PtFlResource`](../../ptflresource) класс.
 
 ```csharp
 public PtFlResource(string patternName, string patternId)
@@ -16,7 +16,7 @@ public PtFlResource(string patternName, string patternId)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| patternName | String | Имя шаблона. |
+| patternName | String | Название узора. |
 | patternId | String | Идентификатор шаблона. |
 
 ### Смотрите также

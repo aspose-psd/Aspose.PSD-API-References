@@ -16,11 +16,11 @@ public override bool IsVisibleInGroup { get; }
 
 ### 适当的价值
 
-` true` 如果此实例在组中可见；否则，` false` 。
+`真的`如果此实例在组中可见；否则，`错误的` .
 
 ### 例子
 
-以下代码演示了SectionDividerLayer 层以及如何获取与其相关的LayerGroup。
+以下代码演示了 SectionDividerLayer 图层以及如何获取与其相关的 LayerGroup。
 
 ```csharp
 [C#]

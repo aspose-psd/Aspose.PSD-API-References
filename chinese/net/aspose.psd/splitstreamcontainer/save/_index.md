@@ -17,8 +17,8 @@ public override void Save(Stream destinationStream, int bufferSize, long length)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | destinationStream | Stream | 要将数据保存到的流。 |
-| bufferSize | Int32 | 缓冲区大小。默认情况下使用!:ReadWriteBytesCount值。 |
-| length | Int64 | 要复制的流数据长度。默认情况下，长度设置为[`Length`](../length)值。 |
+| bufferSize | Int32 | 缓冲区大小。默认!:ReadWriteBytesCount值被使用。 |
+| length | Int64 | 要复制的流数据长度。默认情况下，长度设置为[`Length`](../length)价值。 |
 
 ### 也可以看看
 

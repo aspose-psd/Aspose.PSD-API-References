@@ -1,14 +1,14 @@
 ---
 title: TypeQuadrantRotation
 second_title: Aspose.PSD for .NET API 参考
-description: 该标志位表示由该对象 定义的变换在 中执行象限旋转90 度的倍数以及其他指示的变换标志位 无论向量的原始方向如何并且 不会改变向量的长度旋转都会以相同的量 改变向量的角度 此标志位与 TypeGeneralRotation 标志互斥
+description: 此标志位表示由此对象定义的变换 执行象限旋转 90 度的某个倍数 in 除了由其他标志位指示的转换 旋转以相同的量改变向量的角度 与原始方向无关向量和没有 改变向量的长度 这个标志位与TypeGeneralRotation标志互斥
 type: docs
 weight: 270
 url: /zh/net/aspose.psd/matrix/typequadrantrotation/
 ---
 ## Matrix.TypeQuadrantRotation field
 
-该标志位表示由该对象 定义的变换在 中执行象限旋转90 度的倍数，以及其他指示的变换标志位。 无论向量的原始方向如何，并且 不会改变向量的长度，旋转都会以相同的量 改变向量的角度。 此标志位与 TypeGeneralRotation 标志互斥。
+此标志位表示由此对象定义的变换 执行象限旋转 90 度的某个倍数 in 除了由其他标志位指示的转换。 旋转以相同的量改变向量的角度 与原始方向无关向量和没有 改变向量的长度。 这个标志位与TypeGeneralRotation标志互斥。
 
 ```csharp
 public const int TypeQuadrantRotation;

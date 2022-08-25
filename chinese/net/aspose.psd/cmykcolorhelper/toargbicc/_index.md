@@ -1,14 +1,14 @@
 ---
 title: ToArgbIcc
 second_title: Aspose.PSD for .NET API 参考
-description: 使用默认配置文件的 Icc 转换将 CMYK 颜色转换为 ARGB 颜色
+description: 使用默认配置文件的 Icc 转换从 CMYK 颜色到 ARGB 颜色的转换
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/cmykcolorhelper/toargbicc/
 ---
 ## ToArgbIcc(int[]) {#toargbicc_2}
 
-使用默认配置文件的 Icc 转换将 CMYK 颜色转换为 ARGB 颜色。
+使用默认配置文件的 Icc 转换从 CMYK 颜色到 ARGB 颜色的转换。
 
 ```csharp
 public static Color[] ToArgbIcc(int[] cmykPixels)
@@ -41,7 +41,7 @@ public static Color[] ToArgbIcc(int[] cmykPixels, Stream cmykIccStream, Stream r
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cmykPixels | Int32[] | CMYK 颜色呈现为 32 位整数值。 |
+| cmykPixels | Int32[] | CMYK 颜色显示为 32 位整数值。 |
 | cmykIccStream | Stream | 包含 CMYK Icc 配置文件的流。 |
 | rgbIccStream | Stream | 包含 RGB Icc 配置文件的流。 |
 
@@ -68,7 +68,7 @@ public static Color ToArgbIcc(int cmykPixel)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cmykPixel | Int32 | CMYK 颜色呈现为 32 位整数值。 |
+| cmykPixel | Int32 | CMYK 颜色显示为 32 位整数值。 |
 
 ### 返回值
 
@@ -93,7 +93,7 @@ public static Color ToArgbIcc(int cmykPixel, Stream cmykIccStream, Stream rgbIcc
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cmykPixel | Int32 | CMYK 颜色呈现为 32 位整数值。 |
+| cmykPixel | Int32 | CMYK 颜色显示为 32 位整数值。 |
 | cmykIccStream | Stream | 包含 CMYK Icc 配置文件的流。 |
 | rgbIccStream | Stream | 包含 RGB Icc 配置文件的流。 |
 

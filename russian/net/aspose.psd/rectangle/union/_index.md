@@ -1,14 +1,14 @@
 ---
 title: Union
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает структуруRectangleaspose.psd/rectangle содержащую объединение двухПрямоугольникструктуры.
+description: ПолучаетRectangleaspose.psd/rectangle структура содержащая объединение двухRectangleaspose.psd/rectangle структуры.
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/rectangle/union/
 ---
 ## Rectangle.Union method
 
-Получает структуру[`Rectangle`](../../rectangle), содержащую объединение двухПрямоугольникструктуры.
+Получает[`Rectangle`](../../rectangle) структура, содержащая объединение двух[`Rectangle`](../../rectangle) структуры.
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
@@ -21,7 +21,7 @@ public static Rectangle Union(Rectangle a, Rectangle b)
 
 ### Возвращаемое значение
 
-A[`Rectangle`](../../rectangle)структура, ограничивающая объединение двух[`Rectangle`](../../rectangle)структуры.
+А[`Rectangle`](../../rectangle) структура, ограничивающая объединение двух[`Rectangle`](../../rectangle) структуры.
 
 ### Смотрите также
 

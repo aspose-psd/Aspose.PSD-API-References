@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters
 second_title: Справочник по Aspose.PSD для .NET API
 description: Пространство имен содержит объекты формата файла PSD содержащиеся в слоях.
 type: docs
-weight: 290
+weight: 300
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/
 ---
 Пространство имен содержит объекты формата файла PSD, содержащиеся в слоях.
@@ -13,10 +13,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/
 | Учебный класс | Описание |
 | --- | --- |
 | [AddNoiseSmartFilter](./addnoisesmartfilter) | Интеллектуальный фильтр AddNoise. |
-| [GaussianBlurSmartFilter](./gaussianblursmartfilter) | Умный фильтр GaussianBlur. |
+| [GaussianBlurSmartFilter](./gaussianblursmartfilter) | Интеллектуальный фильтр GaussianBlur. |
 | [SmartFilter](./smartfilter) | Класс для обработки базовой логики интеллектуальных фильтров. |
-| [SmartFilters](./smartfilters) | Интеллектуальные фильтры[`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer). |
-| [UnknownSmartFilter](./unknownsmartfilter) | Класс для хранения неизвестных данных смарт-фильтра. |
+| [SmartFilters](./smartfilters) | Умные фильтры[`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) . |
+| [UnknownSmartFilter](./unknownsmartfilter) | Класс для хранения неизвестных данных интеллектуального фильтра. |
 ## перечисление
 
 | перечисление | Описание |

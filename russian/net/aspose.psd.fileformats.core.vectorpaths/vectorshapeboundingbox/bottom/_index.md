@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает нижнюю часть.
+description: Получает или задает нижнюю часть.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/
 ---
 ## VectorShapeBoundingBox.Bottom property
 
-Получает или устанавливает нижнюю часть.
+Получает или задает нижнюю часть.
 
 ```csharp
 public double Bottom { get; set; }

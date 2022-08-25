@@ -3,7 +3,7 @@ title: CgEdResource
 second_title: Aspose.PSD for .NET API 参考
 description: 类 CgEdResource内容生成器额外数据 Photoshop CS5
 type: docs
-weight: 2290
+weight: 2330
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
 ## CgEdResource class
@@ -24,16 +24,16 @@ public class CgEdResource : AdjustmentLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto) { get; set; } | 获取或设置一个值，该值指示此[`CgEdResource`](../cgedresource)是否是自动的。 |
+| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto) { get; set; } | 获取或设置一个值，该值指示是否[`CgEdResource`](../cgedresource)是自动的。 |
 | [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness) { get; set; } | 获取或设置亮度。 |
 | [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast) { get; set; } | 获取或设置对比度。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key) { get; } | 获取层资源密钥。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key) { get; } | 获取图层资源键。 |
 | [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor) { get; set; } | 获取或设置一个值，指示是否使用[实验室颜色]。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast) { get; set; } | 获取或设置亮度和对比度的平均值。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | 获取签名。 |
-| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy) { get; set; } | 获取或设置一个值，指示是否[使用旧版]。 |
+| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy) { get; set; } | 获取或设置一个值，指示是否[使用旧版]. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version) { get; set; } | 获取或设置版本。 |
 
 ## 方法
@@ -41,7 +41,7 @@ public class CgEdResource : AdjustmentLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

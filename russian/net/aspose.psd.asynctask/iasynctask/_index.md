@@ -18,8 +18,8 @@ public interface IAsyncTask : IAsyncResult, IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Error](../../aspose.psd.asynctask/iasynctask/error) { get; } | Получает ошибку задачи, которая доступна после завершения задачи. |
-| [IsBusy](../../aspose.psd.asynctask/iasynctask/isbusy) { get; } | Получает значение, указывающее, выполняется ли в данный момент эта задача. |
+| [Error](../../aspose.psd.asynctask/iasynctask/error) { get; } | Получает ошибку задачи, доступную после завершения задачи. |
+| [IsBusy](../../aspose.psd.asynctask/iasynctask/isbusy) { get; } | Получает значение, указывающее, выполняется ли эта задача в данный момент. |
 | [IsCanceled](../../aspose.psd.asynctask/iasynctask/iscanceled) { get; } | Получает значение, указывающее, была ли эта задача отменена. |
 | [IsFaulted](../../aspose.psd.asynctask/iasynctask/isfaulted) { get; } | Получает значение, указывающее, была ли эта задача ошибочной. |
 | [Progress](../../aspose.psd.asynctask/iasynctask/progress) { get; } | Получает ход выполнения асинхронной задачи. |
@@ -29,8 +29,8 @@ public interface IAsyncTask : IAsyncResult, IDisposable
 
 | Имя | Описание |
 | --- | --- |
-| [Abort](../../aspose.psd.asynctask/iasynctask/abort)() | Прерывает эту задачу. Задача выполняется немедленно, с риском не освободить внутренние неуправляемые ресурсы. |
-| [Cancel](../../aspose.psd.asynctask/iasynctask/cancel)() | Отменяет эту задачу. Задача безопасно завершается управляемой остановкой алгоритма. |
+| [Abort](../../aspose.psd.asynctask/iasynctask/abort)() | Прерывает эту задачу. Задача завершается немедленно, с риском не освободить внутренние неуправляемые ресурсы. |
+| [Cancel](../../aspose.psd.asynctask/iasynctask/cancel)() | Отменяет эту задачу. Задача безопасно завершается контролируемой остановкой алгоритма. |
 | [RunAsync](../../aspose.psd.asynctask/iasynctask/runasync#runasync)() | Запускает эту задачу. |
 | [RunAsync](../../aspose.psd.asynctask/iasynctask/runasync#runasync_1)(ThreadPriority) | Запускает эту задачу. |
 | [SetCompleteCallback](../../aspose.psd.asynctask/iasynctask/setcompletecallback)(CompleteCallback) | Устанавливает полный делегат обратного вызова. |

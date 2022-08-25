@@ -18,11 +18,11 @@ public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour
 | --- | --- | --- |
 | groupName | String | 组的名称。 |
 | index | Int32 | 要插入的图层的索引。 |
-| startBehaviour | Boolean | 如果设置为` true` [启动行为]，则组将在启动时处于打开状态，否则处于最小化状态。 |
+| startBehaviour | Boolean | 如果设置为`真的` [启动行为] 组将在启动时处于打开状态，否则处于最小化状态。 |
 
 ### 返回值
 
-打开组层
+打开组图层
 
 ### 例外
 

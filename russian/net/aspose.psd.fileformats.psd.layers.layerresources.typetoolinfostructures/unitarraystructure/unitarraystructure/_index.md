@@ -1,14 +1,14 @@
 ---
 title: UnitArrayStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаUnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure.
+description: Инициализирует новый экземплярUnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
 ## UnitArrayStructure constructor
 
-Инициализирует новый экземпляр класса[`UnitArrayStructure`](../../unitarraystructure).
+Инициализирует новый экземпляр[`UnitArrayStructure`](../../unitarraystructure) класс.
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
@@ -17,8 +17,8 @@ public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | keyName | ClassID | Имя ключа. |
-| unitType | UnitTypes | Тип юнита. |
-| values | Double[] | Значения. |
+| unitType | UnitTypes | Тип агрегата. |
+| values | Double[] | Ценности. |
 
 ### Исключения
 
@@ -28,7 +28,7 @@ public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 
 ### Примеры
 
-Следующий код демонстрирует поддержку подписи ObAr и UnFl.
+Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
 ```csharp
 [C#]

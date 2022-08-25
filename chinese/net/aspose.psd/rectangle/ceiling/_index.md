@@ -1,14 +1,14 @@
 ---
 title: Ceiling
 second_title: Aspose.PSD for .NET API 参考
-description: 通过舍入RectangleFaspose.psd/rectanglef 将指定的RectangleFaspose.psd/rectanglef结构转换为Rectangleaspose.psd/rectangle结构值到下一个更高的整数值
+description: 转换指定的RectangleFaspose.psd/rectanglef结构为Rectangleaspose.psd/rectangle通过四舍五入的结构RectangleFaspose.psd/rectanglef值到下一个更高的整数值
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/rectangle/ceiling/
 ---
 ## Rectangle.Ceiling method
 
-通过舍入[`RectangleF`](../../rectanglef) 将指定的[`RectangleF`](../../rectanglef)结构转换为[`Rectangle`](../../rectangle)结构值到下一个更高的整数值。
+转换指定的[`RectangleF`](../../rectanglef)结构为[`Rectangle`](../../rectangle)通过四舍五入的结构[`RectangleF`](../../rectanglef)值到下一个更高的整数值。
 
 ```csharp
 public static Rectangle Ceiling(RectangleF value)
@@ -16,11 +16,11 @@ public static Rectangle Ceiling(RectangleF value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | RectangleF | 要转换的[`RectangleF`](../../rectanglef)结构。 |
+| value | RectangleF | 这[`RectangleF`](../../rectanglef)要转换的结构。 |
 
 ### 返回值
 
-返回一个[`Rectangle`](../../rectangle)。
+返回一个[`Rectangle`](../../rectangle).
 
 ### 也可以看看
 

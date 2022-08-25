@@ -1,14 +1,14 @@
 ---
 title: IsShapeInvalidated
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个表示形状是否无效的值
+description: 获取或设置一个表示形状是否失效的值
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/
 ---
 ## VectorShapeOriginSettings.IsShapeInvalidated property
 
-获取或设置一个表示形状是否无效的值。
+获取或设置一个表示形状是否失效的值。
 
 ```csharp
 public bool IsShapeInvalidated { get; set; }
@@ -16,7 +16,7 @@ public bool IsShapeInvalidated { get; set; }
 
 ### 例子
 
-下面的例子演示了对 VogkResource 资源的支持。
+以下示例演示了对 VogkResource 资源的支持。
 
 ```csharp
 [C#]

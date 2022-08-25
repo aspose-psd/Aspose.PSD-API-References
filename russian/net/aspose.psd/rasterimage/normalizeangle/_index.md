@@ -1,14 +1,14 @@
 ---
 title: NormalizeAngle
 second_title: Справочник по Aspose.PSD для .NET API
-description: Нормализует угол. Этот метод применим к отсканированным текстовым документам чтобы избавиться от перекоса сканирования. Этот метод используетGetSkewAngleaspose.psd/rasterimage/getskewangleиRotateaspose.psd/rasterimage/rotateметоды.
+description: Нормализует угол. Этот метод применим к отсканированным текстовым документам чтобы избавиться от перекоса сканирования. Этот метод используетGetSkewAngleaspose.psd/rasterimage/getskewangle а такжеRotateaspose.psd/rasterimage/rotate методы.
 type: docs
 weight: 420
 url: /ru/net/aspose.psd/rasterimage/normalizeangle/
 ---
 ## NormalizeAngle() {#normalizeangle}
 
-Нормализует угол. Этот метод применим к отсканированным текстовым документам, чтобы избавиться от перекоса сканирования. Этот метод использует[`GetSkewAngle`](../getskewangle)и[`Rotate`](../rotate)методы.
+Нормализует угол. Этот метод применим к отсканированным текстовым документам, чтобы избавиться от перекоса сканирования. Этот метод использует[`GetSkewAngle`](../getskewangle) а также[`Rotate`](../rotate) методы.
 
 ```csharp
 public void NormalizeAngle()
@@ -24,7 +24,7 @@ public void NormalizeAngle()
 
 ## NormalizeAngle(bool, Color) {#normalizeangle_1}
 
-Нормализует угол. Этот метод применим к отсканированным текстовым документам, чтобы избавиться от перекоса сканирования. Этот метод использует[`GetSkewAngle`](../getskewangle)и[`Rotate`](../rotate)методы.
+Нормализует угол. Этот метод применим к отсканированным текстовым документам, чтобы избавиться от перекоса сканирования. Этот метод использует[`GetSkewAngle`](../getskewangle) а также[`Rotate`](../rotate) методы.
 
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
@@ -32,7 +32,7 @@ public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundCo
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| resizeProportionally | Boolean | если установлено` true` у вас будет ваше изображение размер изменяется в соответствии с проекциями повернутого прямоугольника (угловые точки), в другом случае размеры остаются нетронутыми, и поворачивается только внутреннее содержимое изображения. |
+| resizeProportionally | Boolean | если установлено`истинный` у вас будет размер вашего изображения, измененный в соответствии с проекциями повернутого прямоугольника (угловые точки), в другом случае, который оставляет размеры нетронутыми, и поворачивается только внутреннее содержимое изображения. |
 | backgroundColor | Color | Цвет фона. |
 
 ### Смотрите также

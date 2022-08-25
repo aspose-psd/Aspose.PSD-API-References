@@ -1,14 +1,14 @@
 ---
 title: MultiplyTransform
 second_title: Справочник по Aspose.PSD для .NET API
-description: УмножаетMatrixaspose.psd/matrix которая представляет локальное геометрическое преобразование этогоGraphicsaspose.psd/graphicsуказаннымMatrixaspose.psd/matrixпутем добавления указанногоMatrixaspose.psd/matrix.
+description: УмножаетMatrixaspose.psd/matrix который представляет собой локальное геометрическое преобразование этогоGraphicsaspose.psd/graphics указаннымMatrixaspose.psd/matrix путем добавления указанногоMatrixaspose.psd/matrix .
 type: docs
 weight: 420
 url: /ru/net/aspose.psd/graphics/multiplytransform/
 ---
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-Умножает[`Matrix`](../../matrix), которая представляет локальное геометрическое преобразование этого[`Graphics`](../../graphics)указанным[`Matrix`](../../matrix)путем добавления указанного[`Matrix`](../../matrix).
+Умножает[`Matrix`](../../matrix) который представляет собой локальное геометрическое преобразование этого[`Graphics`](../../graphics) указанным[`Matrix`](../../matrix) путем добавления указанного[`Matrix`](../../matrix) .
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
@@ -16,7 +16,7 @@ public void MultiplyTransform(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix)на которую умножается геометрическое преобразование. |
+| matrix | Matrix | [`Matrix`](../../matrix) на который умножается геометрическое преобразование. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public void MultiplyTransform(Matrix matrix)
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-Умножает[`Matrix`](../../matrix), которая представляет локальное геометрическое преобразование этого[`Graphics`](../../graphics)указанным[`Matrix`](../../matrix)в указанном порядке.
+Умножает[`Matrix`](../../matrix) который представляет собой локальное геометрическое преобразование этого[`Graphics`](../../graphics) указанным[`Matrix`](../../matrix) в указанном порядке.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
@@ -37,8 +37,8 @@ public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix)на которую умножается геометрическое преобразование. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder)определяет порядок умножения двух матриц. |
+| matrix | Matrix | [`Matrix`](../../matrix) на который умножается геометрическое преобразование. |
+| order | MatrixOrder | А[`MatrixOrder`](../../matrixorder) который указывает, в каком порядке умножать две матрицы. |
 
 ### Смотрите также
 

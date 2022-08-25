@@ -1,14 +1,14 @@
 ---
 title: EnumeratedReferenceStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化EnumeratedReferenceStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure类的新实例
+description: 初始化EnumeratedReferenceStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedreferencestructure/
 ---
 ## EnumeratedReferenceStructure constructor
 
-初始化[`EnumeratedReferenceStructure`](../../enumeratedreferencestructure)类的新实例。
+初始化[`EnumeratedReferenceStructure`](../../enumeratedreferencestructure)类.
 
 ```csharp
 public EnumeratedReferenceStructure(ClassID keyName, ClassID classID, ClassID typeID, 
@@ -17,9 +17,9 @@ public EnumeratedReferenceStructure(ClassID keyName, ClassID classID, ClassID ty
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 | classID | ClassID | 类 ID。 |
-| typeID | ClassID | 类型 ID。 |
+| typeID | ClassID | 类型标识。 |
 | enumName | ClassID | 枚举名称。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: UseLegacy
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否使用旧版
+description: 获取或设置一个值指示是否使用旧版.
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
 ## CgEdResource.UseLegacy property
 
-获取或设置一个值，指示是否[使用旧版]。
+获取或设置一个值，指示是否[使用旧版].
 
 ```csharp
 public bool UseLegacy { get; set; }
@@ -16,7 +16,7 @@ public bool UseLegacy { get; set; }
 
 ### 适当的价值
 
-` true` if [使用旧版]；否则，` false` 。
+`真的` if [使用旧版];否则，`错误的` .
 
 ### 也可以看看
 

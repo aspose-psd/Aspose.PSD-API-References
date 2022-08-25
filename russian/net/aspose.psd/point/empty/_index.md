@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает новый экземпляр структурыPointaspose.psd/pointсXиYaspose.psd/point/yравны нулю.
+description: Получает новый экземплярPointaspose.psd/point структура которая имеетXaspose.psd/point/x а такжеYaspose.psd/point/y значения равны нулю.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/point/empty/
 ---
 ## Point.Empty property
 
-Получает новый экземпляр структуры[`Point`](../../point)сXи[`Y`](../y)равны нулю.
+Получает новый экземпляр[`Point`](../../point) структура, которая имеет[`X`](../x) а также[`Y`](../y) значения равны нулю.
 
 ```csharp
 public static Point Empty { get; }

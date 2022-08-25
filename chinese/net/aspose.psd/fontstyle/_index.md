@@ -3,7 +3,7 @@ title: FontStyle
 second_title: Aspose.PSD for .NET API 参考
 description: 指定应用于文本的样式信息
 type: docs
-weight: 4180
+weight: 4230
 url: /zh/net/aspose.psd/fontstyle/
 ---
 ## FontStyle enumeration
@@ -20,8 +20,8 @@ public enum FontStyle
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Regular | `0` | 普通文本。 |
-| Bold | `1` | 粗体文本。 |
-| Italic | `2` | 斜体文本。 |
+| Bold | `1` | 粗体字。 |
+| Italic | `2` | 斜体字。 |
 | Underline | `4` | 带下划线的文本。 |
 | Strikeout | `8` | 中间有一条线的文本。 |
 

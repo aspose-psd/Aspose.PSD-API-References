@@ -3,7 +3,7 @@ title: RenditionClass
 second_title: Aspose.PSD for .NET API 参考
 description: 表示 XMP 再现
 type: docs
-weight: 6010
+weight: 6060
 url: /zh/net/aspose.psd.xmp.types.derived/renditionclass/
 ---
 ## RenditionClass class
@@ -18,8 +18,8 @@ public sealed class RenditionClass : XmpTypeBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RenditionClass](renditionclass#constructor)() | 初始化[`RenditionClass`](../renditionclass)类的新实例。 |
-| [RenditionClass](renditionclass#constructor_1)(string, string) | 初始化[`RenditionClass`](../renditionclass)类的新实例。 |
+| [RenditionClass](renditionclass#constructor)() | 初始化[`RenditionClass`](../renditionclass)类. |
+| [RenditionClass](renditionclass#constructor_1)(string, string) | 初始化[`RenditionClass`](../renditionclass)类. |
 
 ## 特性
 

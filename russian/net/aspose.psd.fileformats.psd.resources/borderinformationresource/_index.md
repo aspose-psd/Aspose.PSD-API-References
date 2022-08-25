@@ -1,14 +1,14 @@
 ---
 title: BorderInformationResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Ресурс с информацией о границах настроек печати изображений.
+description: Ресурс с информацией о границах настроек печати изображения.
 type: docs
-weight: 3540
+weight: 3590
 url: /ru/net/aspose.psd.fileformats.psd.resources/borderinformationresource/
 ---
 ## BorderInformationResource class
 
-Ресурс с информацией о границах настроек печати изображений.
+Ресурс с информацией о границах настроек печати изображения.
 
 ```csharp
 public sealed class BorderInformationResource : ResourceBlock
@@ -27,10 +27,10 @@ public sealed class BorderInformationResource : ResourceBlock
 | override [DataSize](../../aspose.psd.fileformats.psd.resources/borderinformationresource/datasize) { get; } | Получает размер данных ресурса в байтах. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/borderinformationresource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
-| [Unit](../../aspose.psd.fileformats.psd.resources/borderinformationresource/unit) { get; set; } | Получает или задает единицы измерения границы. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
+| [Unit](../../aspose.psd.fileformats.psd.resources/borderinformationresource/unit) { get; set; } | Получает или задает единицы измерения границ. |
 | [Width](../../aspose.psd.fileformats.psd.resources/borderinformationresource/width) { get; set; } | Получает или задает ширину границы. |
 
 ## Методы

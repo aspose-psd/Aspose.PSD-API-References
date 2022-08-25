@@ -1,14 +1,14 @@
 ---
 title: UseDiskForLoadEffectsResource
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值表示是否使用磁盘加载特效资源默认使用磁盘加载特效资源但如果足够的话可以通过设置这个值来使用内存错误的
+description: 获取或设置一个值表示是否使用磁盘加载特效资源默认使用磁盘加载特效资源但如果足够的话可以通过设置此值来使用内存
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
 ## PsdLoadOptions.UseDiskForLoadEffectsResource property
 
-获取或设置一个值，表示是否[使用磁盘加载特效资源]（默认使用磁盘加载特效资源，但如果足够的话可以通过设置这个值来使用内存错误的）。
+获取或设置一个值，表示是否[使用磁盘加载特效资源]（默认使用磁盘加载特效资源，但如果足够的话可以通过设置此值来使用内存）。
 
 ```csharp
 public bool UseDiskForLoadEffectsResource { get; set; }
@@ -16,7 +16,7 @@ public bool UseDiskForLoadEffectsResource { get; set; }
 
 ### 适当的价值
 
-` true` if [使用磁盘加载效果资源]；否则，` false` 。
+`真的` if [使用磁盘加载效果资源];否则，`错误的` .
 
 ### 也可以看看
 

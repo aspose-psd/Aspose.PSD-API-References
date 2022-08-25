@@ -1,14 +1,14 @@
 ---
 title: AsyncTaskException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаAsyncTaskExceptionaspose.psd.asynctask/asynctaskexception.
+description: Инициализирует новый экземплярAsyncTaskExceptionaspose.psd.asynctask/asynctaskexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
 ## AsyncTaskException constructor
 
-Инициализирует новый экземпляр класса[`AsyncTaskException`](../../asynctaskexception).
+Инициализирует новый экземпляр[`AsyncTaskException`](../../asynctaskexception) класс.
 
 ```csharp
 public AsyncTaskException(string message)

@@ -3,7 +3,7 @@ title: QuickMaskInformationResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Информационный ресурс быстрой маски
 type: docs
-weight: 3740
+weight: 3790
 url: /ru/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/
 ---
 ## QuickMaskInformationResource class
@@ -29,9 +29,9 @@ public sealed class QuickMaskInformationResource : ResourceBlock
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
 | [IsMaskEmpty](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty) { get; set; } | Получает или задает значение, указывающее, является ли этот экземпляр пустой маской. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 
 ## Методы
 

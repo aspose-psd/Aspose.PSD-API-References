@@ -3,7 +3,7 @@ title: IPartialRawDataLoader
 second_title: Справочник по Aspose.PSD для .NET API
 description: Частичный загрузчик данных.
 type: docs
-weight: 4420
+weight: 4470
 url: /ru/net/aspose.psd/ipartialrawdataloader/
 ---
 ## IPartialRawDataLoader interface

@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает x-координату левого края этойRectangleaspose.psd/rectangleструктуры.
+description: Получает или задает xкоординату левого края этогоRectangleaspose.psd/rectangleструктура.
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/rectangle/left/
 ---
 ## Rectangle.Left property
 
-Получает или устанавливает x-координату левого края этой[`Rectangle`](../../rectangle)структуры.
+Получает или задает x-координату левого края этого[`Rectangle`](../../rectangle)структура.
 
 ```csharp
 public int Left { get; set; }
@@ -16,7 +16,7 @@ public int Left { get; set; }
 
 ### Стоимость имущества
 
-X-координата левого края этой[`Rectangle`](../../rectangle)структуры.
+Координата x левого края этого[`Rectangle`](../../rectangle) структура.
 
 ### Смотрите также
 

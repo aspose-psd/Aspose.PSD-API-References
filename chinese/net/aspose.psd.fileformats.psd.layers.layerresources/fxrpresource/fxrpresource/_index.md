@@ -1,14 +1,14 @@
 ---
 title: FxrpResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化FxrpResourceaspose.psd.fileformats.psd.layers.layerresources/fxrpresource类的新实例
+description: 初始化FxrpResourceaspose.psd.fileformats.psd.layers.layerresources/fxrpresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
 ## FxrpResource(double, double) {#constructor_2}
 
-初始化[`FxrpResource`](../../fxrpresource)类的新实例。
+初始化[`FxrpResource`](../../fxrpresource)类.
 
 ```csharp
 public FxrpResource(double x, double y)
@@ -16,8 +16,8 @@ public FxrpResource(double x, double y)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | 参考点x坐标 |
-| y | Double | 参考点y坐标 |
+| x | Double | 参考点的x坐标 |
+| y | Double | 参考点的y坐标 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public FxrpResource(double x, double y)
 
 ## FxrpResource() {#constructor}
 
-初始化[`FxrpResource`](../../fxrpresource)类的新实例。
+初始化[`FxrpResource`](../../fxrpresource)类.
 
 ```csharp
 public FxrpResource()
@@ -45,7 +45,7 @@ public FxrpResource()
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-初始化[`FxrpResource`](../../fxrpresource)类的新实例。 具有自定义或未知值
+初始化[`FxrpResource`](../../fxrpresource) class. 具有自定义或未知值
 
 ```csharp
 public FxrpResource(byte[] data)

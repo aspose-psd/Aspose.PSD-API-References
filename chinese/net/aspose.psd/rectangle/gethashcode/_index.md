@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Aspose.PSD for .NET API 参考
-description: 返回此Rectangleaspose.psd/rectangle结构的哈希码
+description: 返回此哈希码Rectangleaspose.psd/rectangle结构.
 type: docs
 weight: 240
 url: /zh/net/aspose.psd/rectangle/gethashcode/
 ---
 ## Rectangle.GetHashCode method
 
-返回此[`Rectangle`](../../rectangle)结构的哈希码。
+返回此哈希码[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public override int GetHashCode()

@@ -1,14 +1,14 @@
 ---
 title: MeteringMode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает режим измерения.
+description: Получает или устанавливает режим измерения.
 type: docs
 weight: 810
 url: /ru/net/aspose.psd.exif/exifdata/meteringmode/
 ---
 ## ExifData.MeteringMode property
 
-Получает или задает режим измерения.
+Получает или устанавливает режим измерения.
 
 ```csharp
 public ExifMeteringMode MeteringMode { get; set; }

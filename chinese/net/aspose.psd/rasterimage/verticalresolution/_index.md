@@ -1,14 +1,14 @@
 ---
 title: VerticalResolution
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此RasterImageaspose.psd/rasterimage的垂直分辨率以每英寸像素为单位
+description: 获取或设置此对象的垂直分辨率以每英寸像素为单位RasterImageaspose.psd/rasterimage .
 type: docs
 weight: 160
 url: /zh/net/aspose.psd/rasterimage/verticalresolution/
 ---
 ## RasterImage.VerticalResolution property
 
-获取或设置此[`RasterImage`](../../rasterimage)的垂直分辨率，以每英寸像素为单位。
+获取或设置此对象的垂直分辨率，以每英寸像素为单位[`RasterImage`](../../rasterimage) .
 
 ```csharp
 public virtual double VerticalResolution { get; set; }
@@ -20,7 +20,7 @@ public virtual double VerticalResolution { get; set; }
 
 ### 评论
 
-注意默认这个值总是96，因为不同的平台不能返回屏幕分辨率。您可以考虑使用 SetResolution 方法在一次调用中更新两个分辨率值。
+请注意，默认情况下，此值始终为 96，因为不同的平台无法返回屏幕分辨率。您可以考虑使用 SetResolution 方法在一次调用中更新两个分辨率值。
 
 ### 也可以看看
 

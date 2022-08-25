@@ -1,14 +1,14 @@
 ---
 title: MaxL
 second_title: Aspose.PSD for .NET API 参考
-description: A 分量最大值
+description: 最大A分量值
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/colorantlab/maxl/
 ---
 ## ColorantLab.MaxL field
 
-A 分量最大值
+最大A分量值
 
 ```csharp
 public const float MaxL;

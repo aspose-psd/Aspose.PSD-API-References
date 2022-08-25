@@ -1,14 +1,14 @@
 ---
 title: XmpArray
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаXmpArrayaspose.psd.xmp/xmparray.
+description: Инициализирует новый экземплярXmpArrayaspose.psd.xmp/xmparray класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmparray/xmparray/
 ---
 ## XmpArray(XmpArrayType, string[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`XmpArray`](../../xmparray).
+Инициализирует новый экземпляр[`XmpArray`](../../xmparray) класс.
 
 ```csharp
 public XmpArray(XmpArrayType type, string[] items)
@@ -30,7 +30,7 @@ public XmpArray(XmpArrayType type, string[] items)
 
 ## XmpArray(XmpArrayType) {#constructor}
 
-Инициализирует новый экземпляр класса[`XmpArray`](../../xmparray).
+Инициализирует новый экземпляр[`XmpArray`](../../xmparray) класс.
 
 ```csharp
 public XmpArray(XmpArrayType type)

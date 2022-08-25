@@ -1,14 +1,14 @@
 ---
 title: LclrResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLclrResourceaspose.psd.fileformats.psd.layers.layerresources/lclrresource.
+description: Инициализирует новый экземплярLclrResourceaspose.psd.fileformats.psd.layers.layerresources/lclrresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lclrresource/
 ---
 ## LclrResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`LclrResource`](../../lclrresource).
+Инициализирует новый экземпляр[`LclrResource`](../../lclrresource) класс.
 
 ```csharp
 public LclrResource()
@@ -24,7 +24,7 @@ public LclrResource()
 
 ## LclrResource(SheetColorHighlightEnum) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LclrResource`](../../lclrresource).
+Инициализирует новый экземпляр[`LclrResource`](../../lclrresource) класс.
 
 ```csharp
 public LclrResource(SheetColorHighlightEnum color)
@@ -45,7 +45,7 @@ public LclrResource(SheetColorHighlightEnum color)
 
 ## LclrResource(byte[]) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`LclrResource`](../../lclrresource).
+Инициализирует новый экземпляр[`LclrResource`](../../lclrresource) класс.
 
 ```csharp
 public LclrResource(byte[] data)

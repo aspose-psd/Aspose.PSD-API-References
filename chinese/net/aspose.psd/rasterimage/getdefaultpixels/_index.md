@@ -16,7 +16,7 @@ public void GetDefaultPixels(Rectangle rectangle, IPartialArgb32PixelLoader part
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 要为其获取像素的矩形。 |
+| rectangle | Rectangle | 获取像素的矩形。 |
 | partialPixelLoader | IPartialArgb32PixelLoader | 部分像素加载器。 |
 
 ### 也可以看看

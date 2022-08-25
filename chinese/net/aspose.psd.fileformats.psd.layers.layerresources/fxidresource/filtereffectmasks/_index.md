@@ -1,14 +1,14 @@
 ---
 title: FilterEffectMasks
 second_title: Aspose.PSD for .NET API 参考
-description: 获取滤镜效果蒙版
+description: 获取滤镜效果遮罩
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/
 ---
 ## FXidResource.FilterEffectMasks property
 
-获取滤镜效果蒙版。
+获取滤镜效果遮罩。
 
 ```csharp
 public FilterEffectMaskData[] FilterEffectMasks { get; }

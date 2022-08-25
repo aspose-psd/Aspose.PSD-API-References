@@ -1,14 +1,14 @@
 ---
 title: WrapMode
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个WrapModeaspose.psd/wrapmode枚举指示此TransformBrushaspose.psd.brushes/transformbrush 的环绕模式.
+description: 获取或设置一个WrapModeaspose.psd/wrapmode指示此包装模式的枚举TransformBrushaspose.psd.brushes/transformbrush .
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.brushes/transformbrush/wrapmode/
 ---
 ## TransformBrush.WrapMode property
 
-获取或设置一个[`WrapMode`](../../../aspose.psd/wrapmode)枚举，指示此[`TransformBrush`](../../transformbrush) 的环绕模式.
+获取或设置一个[`WrapMode`](../../../aspose.psd/wrapmode)指示此包装模式的枚举[`TransformBrush`](../../transformbrush) .
 
 ```csharp
 public WrapMode WrapMode { get; set; }
@@ -16,7 +16,7 @@ public WrapMode WrapMode { get; set; }
 
 ### 返回值
 
-[`WrapMode`](../../../aspose.psd/wrapmode)指定如何使用此Brushes绘制填充。TransformBrush是平铺的。
+一个[`WrapMode`](../../../aspose.psd/wrapmode)指定如何用它绘制填充[`TransformBrush`](../../transformbrush)是平铺的。
 
 ### 也可以看看
 

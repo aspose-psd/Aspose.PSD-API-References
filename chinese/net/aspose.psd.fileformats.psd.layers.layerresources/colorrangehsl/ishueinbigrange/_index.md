@@ -20,7 +20,7 @@ public bool IsHueInBigRange(double hue)
 
 ### 返回值
 
-` true` 如果色相在大范围内；否则，` false` 。
+`真的`如果色相在大范围内；否则，`错误的` .
 
 ### 也可以看看
 

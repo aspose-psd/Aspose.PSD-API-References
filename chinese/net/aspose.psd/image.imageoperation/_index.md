@@ -3,7 +3,7 @@ title: Image.ImageOperation
 second_title: Aspose.PSD for .NET API 参考
 description: 图像操作
 type: docs
-weight: 4480
+weight: 4530
 url: /zh/net/aspose.psd/image.imageoperation/
 ---
 ## Image.ImageOperation enumeration
@@ -24,10 +24,10 @@ protected enum ImageOperation
 | Filter | `3` | 过滤操作 |
 | LoadPixels | `4` | 加载像素操作 |
 | SavePixels | `5` | 保存像素操作 |
-| Crop | `6` | 裁剪操作 |
+| Crop | `6` | 作物作业 |
 | BinarizeFixed | `7` | 二值化固定操作 |
-| BinarizeOtsu | `8` | 二值化大津运算 |
-| BinarizeBradley | `9` | 二值化布拉德利运算 |
+| BinarizeOtsu | `8` | 二值化大津操作 |
+| BinarizeBradley | `9` | 二值化布拉德利操作 |
 | Grayscale | `10` | 灰度运算 |
 | AdjustBrightness | `11` | 调节亮度操作 |
 | AdjustContrast | `12` | 调整对比度操作 |

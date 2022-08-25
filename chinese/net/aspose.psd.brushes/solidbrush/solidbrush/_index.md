@@ -1,14 +1,14 @@
 ---
 title: SolidBrush
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化SolidBrushaspose.psd.brushes/solidbrush类的新实例
+description: 初始化SolidBrushaspose.psd.brushes/solidbrush类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.brushes/solidbrush/solidbrush/
 ---
 ## SolidBrush() {#constructor}
 
-初始化[`SolidBrush`](../../solidbrush)类的新实例。
+初始化[`SolidBrush`](../../solidbrush)类.
 
 ```csharp
 public SolidBrush()
@@ -24,7 +24,7 @@ public SolidBrush()
 
 ## SolidBrush(Color) {#constructor_1}
 
-初始化[`SolidBrush`](../../solidbrush)类的新实例。
+初始化[`SolidBrush`](../../solidbrush)类.
 
 ```csharp
 public SolidBrush(Color color)

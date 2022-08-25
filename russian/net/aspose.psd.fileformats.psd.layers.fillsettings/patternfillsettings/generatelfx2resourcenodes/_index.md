@@ -19,10 +19,10 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
 | --- | --- | --- |
 | pointType | String | Тип точки. |
 | color | Color | Цвет. |
-| patternName | String | Имя шаблона. |
+| patternName | String | Название узора. |
 | identifier | String | Идентификатор. |
 | scale | Double | Масштаб. |
-| linked | Boolean | , если установлено значение` true` [связано]. |
+| linked | Boolean | если установлено`истинный` [связано]. |
 | offset | PointF | Смещение. |
 
 ### Возвращаемое значение

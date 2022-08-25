@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.PSD for .NET API 参考
-description: 将TypeToolFontInfoaspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo信息保存到指定的流容器
+description: 保存TypeToolFontInfoaspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo信息到指定的流容器
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/
 ---
 ## TypeToolFontInfo.Save method
 
-将[`TypeToolFontInfo`](../../typetoolfontinfo)信息保存到指定的流容器。
+保存[`TypeToolFontInfo`](../../typetoolfontinfo)信息到指定的流容器。
 
 ```csharp
 public void Save(StreamContainer streamContainer)

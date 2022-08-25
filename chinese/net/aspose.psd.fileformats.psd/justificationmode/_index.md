@@ -24,7 +24,7 @@ public enum JustificationMode
 
 ### 例子
 
-以下代码演示了对 JustificationMode 枚举设置文本部分的文本对齐方式的支持。
+以下代码演示了对 JustificationMode 枚举的支持以设置文本部分的文本对齐方式。
 
 ```csharp
 [C#]
@@ -42,6 +42,11 @@ using (var image = (PsdImage) Image.Load(src))
     portions[0].Paragraph.Justification = JustificationMode.Left;
     portions[1].Paragraph.Justification = JustificationMode.Right;
     portions[2].Paragraph.Justification = JustificationMode.Center;
+
+    foreach (var portion in portions)
+    {
+        portion.Style.FontSize = 24;
+    }
 
     txtLayer.TextData.UpdateLayerData();
 

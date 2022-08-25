@@ -1,14 +1,14 @@
 ---
 title: PreserveLuminosity
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此BlncResourceaspose.psd.fileformats.psd.layers.layerresources/blncresource是否保留亮度
+description: 获取或设置一个值该值指示是否BlncResourceaspose.psd.fileformats.psd.layers.layerresources/blncresource保留光度.
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/preserveluminosity/
 ---
 ## ColorBalanceAdjustmentLayer.PreserveLuminosity property
 
-获取或设置一个值，该值指示此[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource)是否保留亮度。
+获取或设置一个值，该值指示是否[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource)保留光度.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
@@ -16,7 +16,7 @@ public bool PreserveLuminosity { get; set; }
 
 ### 适当的价值
 
-` true` 如果它保持亮度；否则，` false` 。
+`真的`如果它保持亮度；否则，`错误的` .
 
 ### 例子
 

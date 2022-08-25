@@ -1,14 +1,14 @@
 ---
 title: IsOriginTypePresent
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее имеет ли этот экземпляр свойство типа происхождения.
+description: Получает значение указывающее имеет ли этот экземпляр свойство типа источника.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/
 ---
 ## VectorShapeOriginSettings.IsOriginTypePresent property
 
-Получает значение, указывающее, имеет ли этот экземпляр свойство типа происхождения.
+Получает значение, указывающее, имеет ли этот экземпляр свойство типа источника.
 
 ```csharp
 public bool IsOriginTypePresent { get; }
@@ -16,7 +16,7 @@ public bool IsOriginTypePresent { get; }
 
 ### Стоимость имущества
 
-` true` если этот экземпляр имеет свойство origin type; в противном случае` false` .
+`истинный` если у этого экземпляра есть свойство типа происхождения; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

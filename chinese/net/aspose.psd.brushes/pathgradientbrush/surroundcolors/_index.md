@@ -1,14 +1,14 @@
 ---
 title: SurroundColors
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置与此PathGradientBrushaspose.psd.brushes/pathgradientbrush填充的路径中的点相对应的颜色数组
+description: 获取或设置与此路径中的点相对应的颜色数组PathGradientBrushaspose.psd.brushes/pathgradientbrush填充.
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.brushes/pathgradientbrush/surroundcolors/
 ---
 ## PathGradientBrush.SurroundColors property
 
-获取或设置与此[`PathGradientBrush`](../../pathgradientbrush)填充的路径中的点相对应的颜色数组。
+获取或设置与此路径中的点相对应的颜色数组[`PathGradientBrush`](../../pathgradientbrush)填充.
 
 ```csharp
 public Color[] SurroundColors { get; set; }
@@ -16,7 +16,7 @@ public Color[] SurroundColors { get; set; }
 
 ### 适当的价值
 
-[`Color`](../../../aspose.psd/color)结构数组，表示与此路径中每个点关联的颜色T:Aspose.PSD.Brushes.PathGradientBrush填充。
+一个数组[`Color`](../../../aspose.psd/color)表示与路径中每个点相关联的颜色的结构[`PathGradientBrush`](../../pathgradientbrush)填充。
 
 ### 也可以看看
 

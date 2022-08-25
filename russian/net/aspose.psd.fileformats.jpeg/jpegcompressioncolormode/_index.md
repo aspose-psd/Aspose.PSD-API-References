@@ -1,14 +1,14 @@
 ---
 title: JpegCompressionColorMode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Цветовой режим для изображений в формате jpeg.
+description: Цветовой режим для изображений jpeg.
 type: docs
 weight: 1490
 url: /ru/net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 ---
 ## JpegCompressionColorMode enumeration
 
-Цветовой режим для изображений в формате jpeg.
+Цветовой режим для изображений jpeg.
 
 ```csharp
 public enum JpegCompressionColorMode
@@ -21,7 +21,7 @@ public enum JpegCompressionColorMode
 | Grayscale | `0` | Изображение в градациях серого. |
 | YCbCr | `1` | Изображение YCbCr, стандартный вариант для изображений jpeg. |
 | Cmyk | `2` | 4-компонентное изображение CMYK. |
-| Ycck | `3` | Цветное jpeg-изображение ycck. Для сохранения нужен профиль icc. |
+| Ycck | `3` | Цветное jpeg-изображение ycck. Для сохранения требуется профиль icc. |
 | Rgb | `4` | Цветовой режим RGB. |
 
 ### Смотрите также

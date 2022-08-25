@@ -16,7 +16,7 @@ public void SetProgress(int progressPercentage)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| progressPercentage | Int32 | Процент выполнения. |
+| progressPercentage | Int32 | Процент прогресса. |
 
 ### Смотрите также
 

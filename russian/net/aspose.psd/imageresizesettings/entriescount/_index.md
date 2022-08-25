@@ -1,14 +1,14 @@
 ---
 title: EntriesCount
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает количество записей
+description: Получает или задает количество записей count
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/imageresizesettings/entriescount/
 ---
 ## ImageResizeSettings.EntriesCount property
 
-Получает или устанавливает количество записей
+Получает или задает количество записей count
 
 ```csharp
 public int EntriesCount { get; set; }

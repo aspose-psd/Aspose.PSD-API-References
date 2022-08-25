@@ -3,7 +3,7 @@ title: GradientColorPoint
 second_title: Aspose.PSD for .NET API 参考
 description: 渐变色点
 type: docs
-weight: 1890
+weight: 1930
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
 ## GradientColorPoint class
@@ -18,15 +18,15 @@ public class GradientColorPoint : IGradientColorPoint
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint#constructor)() | 初始化[`GradientColorPoint`](../gradientcolorpoint)类的新实例。 |
-| [GradientColorPoint](gradientcolorpoint#constructor_1)(Color, int, int) | 初始化[`GradientColorPoint`](../gradientcolorpoint)类的新实例。 |
+| [GradientColorPoint](gradientcolorpoint#constructor)() | 初始化[`GradientColorPoint`](../gradientcolorpoint)类. |
+| [GradientColorPoint](gradientcolorpoint#constructor_1)(Color, int, int) | 初始化[`GradientColorPoint`](../gradientcolorpoint)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/color) { get; set; } | 获取或设置颜色。 |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location) { get; set; } | 获取或设置渐变点的位置。 |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location) { get; set; } | 获取或设置梯度上的点位置。 |
 | [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation) { get; set; } | 获取或设置中梯度点位置。 |
 
 ### 也可以看看

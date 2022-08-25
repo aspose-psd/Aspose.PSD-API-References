@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.PSD for .NET API 参考
-description: 获取总层长度以字节为单位
+description: 以字节为单位获取总层长度
 type: docs
 weight: 250
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/length/
 ---
 ## Layer.Length property
 
-获取总层长度（以字节为单位）。
+以字节为单位获取总层长度。
 
 ```csharp
 public int Length { get; }

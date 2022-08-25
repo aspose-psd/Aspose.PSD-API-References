@@ -1,14 +1,14 @@
 ---
 title: Matrix31
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此ColorMatrixaspose.psd/colormatrix第三行第一列的元素
+description: 获取或设置 this 的第三行第一列的元素ColorMatrixaspose.psd/colormatrix .
 type: docs
 weight: 190
 url: /zh/net/aspose.psd/colormatrix/matrix31/
 ---
 ## ColorMatrix.Matrix31 property
 
-获取或设置此[`ColorMatrix`](../../colormatrix)第三行第一列的元素。
+获取或设置 this 的第三行第一列的元素[`ColorMatrix`](../../colormatrix) .
 
 ```csharp
 public float Matrix31 { get; set; }
@@ -16,7 +16,7 @@ public float Matrix31 { get; set; }
 
 ### 适当的价值
 
-此[`ColorMatrix`](../../colormatrix)第三行第一列的元素。
+this 的第三行第一列的元素[`ColorMatrix`](../../colormatrix).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Photoshop
 second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен Adobe Photoshop.
+description: пространство имен Adobe Photoshop.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp/namespaces/photoshop/
 ---
 ## Namespaces.Photoshop field
 
-Пространство имен Adobe Photoshop.
+пространство имен Adobe Photoshop.
 
 ```csharp
 public const string Photoshop;

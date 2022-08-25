@@ -1,7 +1,7 @@
 ---
 title: FilterType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Идентификатор текущего смарт-фильтра.
+description: Идентификатор текущего смартфильтра.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/

@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует указанную структуруPointaspose.psd/pointвSizeaspose.psd/sizeструктура.
+description: Преобразует указанныйPointaspose.psd/point структура кSizeaspose.psd/sizeструктура.
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/point/op_explicit/
 ---
 ## Point Explicit operator
 
-Преобразует указанную структуру[`Point`](../../point)в[`Size`](../../size)структура.
+Преобразует указанный[`Point`](../../point) структура к[`Size`](../../size)структура.
 
 ```csharp
 public static explicit operator Size(Point point)
@@ -16,11 +16,11 @@ public static explicit operator Size(Point point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point)для преобразования. |
+| point | Point | [`Point`](../../point) быть преобразованным. |
 
 ### Возвращаемое значение
 
-Размер[`Size`](../../size), полученный в результате преобразования.
+[`Size`](../../size) что получается в результате преобразования.
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public RawDataSettings RawDataSettings { get; }
 
 ### 适当的价值
 
-当前原始数据设置。
+当前的原始数据设置。
 
 ### 也可以看看
 

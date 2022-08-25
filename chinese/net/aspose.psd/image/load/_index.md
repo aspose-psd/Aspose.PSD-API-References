@@ -16,8 +16,8 @@ public static Image Load(string filePath, LoadOptions loadOptions)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 加载图像的文件路径。 |
-| loadOptions | LoadOptions | 加载选项。 |
+| filePath | String | 从中加载图像的文件路径。 |
+| loadOptions | LoadOptions | 负载选项。 |
 
 ### 返回值
 
@@ -83,7 +83,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-以下示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 16 位 RGB 的工作正常且无异常。
+下面的示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 16 位 RGB 的工作正常且无异常。
 
 ```csharp
 [C#]
@@ -116,7 +116,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-以下示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 8 位灰度的工作正常且无异常。
+下面的示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 8 位灰度的工作正常且无异常。
 
 ```csharp
 [C#]
@@ -149,7 +149,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-下面的示例演示文档转换进度正常工作且没有异常。
+以下示例演示了文档转换进度正常且无异常。
 
 ```csharp
 [C#]
@@ -274,7 +274,7 @@ public static Image Load(Stream stream, LoadOptions loadOptions)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 要从中加载图像的流。 |
-| loadOptions | LoadOptions | 加载选项。 |
+| loadOptions | LoadOptions | 负载选项。 |
 
 ### 返回值
 

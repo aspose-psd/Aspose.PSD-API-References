@@ -1,14 +1,14 @@
 ---
 title: Burasagari
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этоITextParagraphaspose.psd.fileformats.psd.layers.text/itextparagraphбурасагири.
+description: Получает или задает значение указывающее является ли этоITextParagraphaspose.psd.fileformats.psd.layers.text/itextparagraph это бурасагири.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/
 ---
 ## ITextParagraph.Burasagari property
 
-Получает или задает значение, указывающее, является ли это[`ITextParagraph`](../../itextparagraph)бурасагири.
+Получает или задает значение, указывающее, является ли это[`ITextParagraph`](../../itextparagraph) это бурасагири.
 
 ```csharp
 public bool Burasagari { get; set; }
@@ -16,11 +16,11 @@ public bool Burasagari { get; set; }
 
 ### Стоимость имущества
 
-` true` если burasagiri; в противном случае` false` .
+`истинный` если бурасагири; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 
-В следующем примере кода демонстрируется редактирование частей текста и стиля их текста.
+В следующем примере кода показано редактирование текстовых частей и стиля их текста.
 
 ```csharp
 [C#]

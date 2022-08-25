@@ -1,14 +1,14 @@
 ---
 title: AlignWithLayer
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее следует ли выравнивать со слоем.
+description: Получает или задает значение указывающее выполняется ли выравнивание со слоем.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/
 ---
 ## PtFlResource.AlignWithLayer property
 
-Получает или задает значение, указывающее, следует ли [выравнивать со слоем].
+Получает или задает значение, указывающее, выполняется ли [выравнивание со слоем].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
@@ -16,11 +16,11 @@ public bool AlignWithLayer { get; set; }
 
 ### Стоимость имущества
 
-` true` if [выровнять по слою]; в противном случае` false` .
+`истинный` если [выровнять по слою]; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 
-Следующий пример демонстрирует поддержку загрузки и редактирования ресурса PtFlResource.
+В следующем примере демонстрируется поддержка загрузки и редактирования ресурса PtFlResource.
 
 ```csharp
 [C#]

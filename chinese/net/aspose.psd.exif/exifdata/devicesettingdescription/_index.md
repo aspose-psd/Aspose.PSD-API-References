@@ -16,7 +16,7 @@ public byte[] DeviceSettingDescription { get; set; }
 
 ### 适当的价值
 
-设备设置描述。
+设备设置说明。
 
 ### 也可以看看
 

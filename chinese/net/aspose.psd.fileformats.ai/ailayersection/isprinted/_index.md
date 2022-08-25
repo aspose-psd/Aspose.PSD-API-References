@@ -1,14 +1,14 @@
 ---
 title: IsPrinted
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否打印此图层 如果为真则使图层中包含的图稿可打印
+description: 获取或设置一个值指示是否打印此图层 如果为 true则使图层中包含的图稿可打印
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
 ## AiLayerSection.IsPrinted property
 
-获取或设置一个值，指示是否打印此图层。 如果为真，则使图层中包含的图稿可打印。
+获取或设置一个值，指示是否打印此图层。 如果为 true，则使图层中包含的图稿可打印。
 
 ```csharp
 public bool IsPrinted { get; set; }
@@ -16,11 +16,11 @@ public bool IsPrinted { get; set; }
 
 ### 适当的价值
 
-` true` 如果打印此层；否则，` false` 。
+`真的`如果这一层被打印；否则，`错误的` .
 
 ### 例子
 
-以下示例演示了对 AI 格式文件中层的支持。
+以下示例演示了对 AI 格式文件中的层的支持。
 
 ```csharp
 [C#]

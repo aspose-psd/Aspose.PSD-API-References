@@ -16,11 +16,11 @@ public ITextStyle Style { get; }
 
 ### 适当的价值
 
-样式。
+风格.
 
 ### 例子
 
-下面的例子演示了如何在 Aspose.PSD 的一个文本层中渲染不同的样式
+以下示例演示了如何在 Aspose.PSD 的一个文本层中呈现不同的样式
 
 ```csharp
 [C#]
@@ -66,7 +66,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-下面的代码演示 Aspose.PSD 如何获取文本层内联格式的属性。
+下面的代码演示了 Aspose.PSD 如何获取文本层的内联格式的属性。
 
 ```csharp
 [C#]

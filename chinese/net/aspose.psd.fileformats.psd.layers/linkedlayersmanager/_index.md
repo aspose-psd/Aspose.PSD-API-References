@@ -3,7 +3,7 @@ title: LinkedLayersManager
 second_title: Aspose.PSD for .NET API 参考
 description: 链接层管理器类
 type: docs
-weight: 3290
+weight: 3340
 url: /zh/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
 ## LinkedLayersManager class
@@ -18,10 +18,10 @@ public sealed class LinkedLayersManager
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid)(short) | 通过链接组 id 获取层。 |
+| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid)(short) | 通过链接组 id 获取图层。 |
 | [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid)(Layer) | 获取与图层关联的链接组 ID。 |
-| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers)(Layer[]) | 链接输入层并返回 LingGroupId。 |
-| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer)(Layer) | 取消链接层。 |
+| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers)(Layer[]) | 链接输入层并返回 LingGroupId. |
+| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer)(Layer) | 取消链接层.. |
 
 ### 例子
 

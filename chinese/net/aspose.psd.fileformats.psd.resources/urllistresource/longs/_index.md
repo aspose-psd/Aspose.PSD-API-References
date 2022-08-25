@@ -1,14 +1,14 @@
 ---
 title: Longs
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 longs
+description: 获取或设置 longs.
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.resources/urllistresource/longs/
 ---
 ## UrlListResource.Longs property
 
-获取或设置 longs。
+获取或设置 longs.
 
 ```csharp
 public int[] Longs { get; set; }

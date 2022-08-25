@@ -1,14 +1,14 @@
 ---
 title: DimValue
 second_title: Aspose.PSD for .NET API 参考
-description: 以百分比形式获取或设置暗淡值 将图层中包含的链接图像和位图图像的强度降低到指定百分比
+description: 以百分比的形式获取或设置dim值 将图层中包含的链接图像和位图图像的强度降低到指定的百分比
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
 ## AiLayerSection.DimValue property
 
-以百分比形式获取或设置暗淡值。 将图层中包含的链接图像和位图图像的强度降低到指定百分比。
+以百分比的形式获取或设置dim值。 将图层中包含的链接图像和位图图像的强度降低到指定的百分比。
 
 ```csharp
 public int DimValue { get; set; }
@@ -20,7 +20,7 @@ public int DimValue { get; set; }
 
 ### 例子
 
-以下示例演示了对 AI 格式文件中层的支持。
+以下示例演示了对 AI 格式文件中的层的支持。
 
 ```csharp
 [C#]

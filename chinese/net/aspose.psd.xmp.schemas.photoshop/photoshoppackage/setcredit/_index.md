@@ -1,14 +1,14 @@
 ---
 title: SetCredit
 second_title: Aspose.PSD for .NET API 参考
-description: 设置功劳
+description: 设置信用
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit/
 ---
 ## PhotoshopPackage.SetCredit method
 
-设置功劳。
+设置信用。
 
 ```csharp
 public void SetCredit(string credit)

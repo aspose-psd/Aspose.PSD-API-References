@@ -1,14 +1,14 @@
 ---
 title: CmykMixerChannel
 second_title: Aspose.PSD for .NET API 参考
-description: CmykChannel它是通道原始数据的包装器用于 MixrResource
+description: CmykChannel它是通道原始数据的包装器在 MixrResource 中使用
 type: docs
 weight: 1710
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/
 ---
 ## CmykMixerChannel class
 
-CmykChannel。它是通道原始数据的包装器。用于 MixrResource
+CmykChannel。它是通道原始数据的包装器。在 MixrResource 中使用
 
 ```csharp
 public class CmykMixerChannel : MixerChannel
@@ -18,7 +18,7 @@ public class CmykMixerChannel : MixerChannel
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CmykMixerChannel](cmykmixerchannel)(byte[]) | 初始化[`CmykMixerChannel`](../cmykmixerchannel)类的新实例。 |
+| [CmykMixerChannel](cmykmixerchannel)(byte[]) | 初始化[`CmykMixerChannel`](../cmykmixerchannel)类. |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: SmartFilter
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаSmartFilteraspose.psd.fileformats.psd.layers.smartfilters/smartfilter.
+description: Инициализирует новый экземплярSmartFilteraspose.psd.fileformats.psd.layers.smartfilters/smartfilter класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/smartfilter/
 ---
 ## SmartFilter constructor
 
-Инициализирует новый экземпляр класса[`SmartFilter`](../../smartfilter).
+Инициализирует новый экземпляр[`SmartFilter`](../../smartfilter) класс.
 
 ```csharp
 public SmartFilter()

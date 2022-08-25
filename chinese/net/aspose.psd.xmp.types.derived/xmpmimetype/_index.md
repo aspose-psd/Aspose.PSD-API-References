@@ -3,7 +3,7 @@ title: XmpMimeType
 second_title: Aspose.PSD for .NET API 参考
 description: 代表 MIME 类型
 type: docs
-weight: 6060
+weight: 6110
 url: /zh/net/aspose.psd.xmp.types.derived/xmpmimetype/
 ---
 ## XmpMimeType class
@@ -18,7 +18,7 @@ public sealed class XmpMimeType : XmpText
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpMimeType](xmpmimetype)(string) | 初始化[`XmpMimeType`](../xmpmimetype)类的新实例。 |
+| [XmpMimeType](xmpmimetype)(string) | 初始化[`XmpMimeType`](../xmpmimetype)类. |
 
 ## 特性
 

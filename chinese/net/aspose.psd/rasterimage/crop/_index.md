@@ -20,7 +20,7 @@ public virtual void Crop(Rectangle rectangle)
 
 ### 例子
 
-下面的代码示例展示了如何裁剪图像并保存它。
+以下代码示例显示了如何裁剪图像并保存它。
 
 ```csharp
 [C#]
@@ -48,7 +48,7 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 
 ## Crop(int, int, int, int) {#crop_1}
 
-带班次裁剪图像。
+使用班次裁剪图像。
 
 ```csharp
 public virtual void Crop(int leftShift, int rightShift, int topShift, int bottomShift)
@@ -58,8 +58,8 @@ public virtual void Crop(int leftShift, int rightShift, int topShift, int bottom
 | --- | --- | --- |
 | leftShift | Int32 | 左移。 |
 | rightShift | Int32 | 右移。 |
-| topShift | Int32 | 顶部移位。 |
-| bottomShift | Int32 | 底部移位。 |
+| topShift | Int32 | 最高班次。 |
+| bottomShift | Int32 | 下移。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ColorChannelFlag
 second_title: Aspose.PSD for .NET API 参考
-description: 指定 CMYK青色品红色黄色黑色色彩空间中的各个通道 SetOutputChannel 方法使用此枚举
+description: 指定 CMYK青色品红色黄色黑色颜色空间中的各个通道此枚举由 SetOutputChannel 方法使用
 type: docs
 weight: 320
 url: /zh/net/aspose.psd/colorchannelflag/
 ---
 ## ColorChannelFlag enumeration
 
-指定 CMYK（青色、品红色、黄色、黑色）色彩空间中的各个通道。 SetOutputChannel 方法使用此枚举。
+指定 CMYK（青色、品红色、黄色、黑色）颜色空间中的各个通道。此枚举由 SetOutputChannel 方法使用。
 
 ```csharp
 public enum ColorChannelFlag
@@ -22,7 +22,7 @@ public enum ColorChannelFlag
 | ColorChannelM | `1` | 洋红色通道。 |
 | ColorChannelY | `2` | 黄色通道。 |
 | ColorChannelK | `3` | 黑色通道。 |
-| ColorChannelLast | `4` | 应该使用最后选择的通道。 |
+| ColorChannelLast | `4` | 应该使用最后选择的频道。 |
 
 ### 也可以看看
 

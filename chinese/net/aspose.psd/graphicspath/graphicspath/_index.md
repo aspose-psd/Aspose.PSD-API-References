@@ -1,14 +1,14 @@
 ---
 title: GraphicsPath
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化GraphicsPathaspose.psd/graphicspath类的新实例
+description: 初始化GraphicsPathaspose.psd/graphicspath类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/graphicspath/graphicspath/
 ---
 ## GraphicsPath() {#constructor}
 
-初始化[`GraphicsPath`](../../graphicspath)类的新实例。
+初始化[`GraphicsPath`](../../graphicspath)类.
 
 ```csharp
 public GraphicsPath()
@@ -24,7 +24,7 @@ public GraphicsPath()
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-初始化[`GraphicsPath`](../../graphicspath)类的新实例。
+初始化[`GraphicsPath`](../../graphicspath)类.
 
 ```csharp
 public GraphicsPath(Figure[] figures)
@@ -32,7 +32,7 @@ public GraphicsPath(Figure[] figures)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| figures | Figure[] | 要初始化的图形。 |
+| figures | Figure[] | 要初始化的数字。 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public GraphicsPath(Figure[] figures)
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-初始化[`GraphicsPath`](../../graphicspath)类的新实例。
+初始化[`GraphicsPath`](../../graphicspath)类.
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
@@ -53,7 +53,7 @@ public GraphicsPath(Figure[] figures, FillMode fillMode)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| figures | Figure[] | 要初始化的图形。 |
+| figures | Figure[] | 要初始化的数字。 |
 | fillMode | FillMode | 填充模式。 |
 
 ### 也可以看看
@@ -68,7 +68,7 @@ public GraphicsPath(Figure[] figures, FillMode fillMode)
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-初始化[`GraphicsPath`](../../graphicspath)类的新实例。
+初始化[`GraphicsPath`](../../graphicspath)类.
 
 ```csharp
 public GraphicsPath(FillMode fillMode)

@@ -1,14 +1,14 @@
 ---
 title: NvrtResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化NvrtResourceaspose.psd.fileformats.psd.layers.layerresources/nvrtresource类的新实例
+description: 初始化NvrtResourceaspose.psd.fileformats.psd.layers.layerresources/nvrtresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
 ## NvrtResource() {#constructor}
 
-初始化[`NvrtResource`](../../nvrtresource)类的新实例。
+初始化[`NvrtResource`](../../nvrtresource)类.
 
 ```csharp
 public NvrtResource()
@@ -24,7 +24,7 @@ public NvrtResource()
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-初始化[`NvrtResource`](../../nvrtresource)类的新实例。
+初始化[`NvrtResource`](../../nvrtresource)类.
 
 ```csharp
 public NvrtResource(byte[] data)

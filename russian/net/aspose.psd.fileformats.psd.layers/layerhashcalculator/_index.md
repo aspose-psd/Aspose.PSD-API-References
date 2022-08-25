@@ -3,7 +3,7 @@ title: LayerHashCalculator
 second_title: Справочник по Aspose.PSD для .NET API
 description: Калькулятор хэшей для слоев PSD. Его можно использовать для поиска одинаковых или разных слоев в разных файлах PSD
 type: docs
-weight: 2170
+weight: 2210
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
 ## LayerHashCalculator class
@@ -18,19 +18,19 @@ public class LayerHashCalculator
 
 | Имя | Описание |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator)(Layer) | Инициализирует новый экземпляр класса[`LayerHashCalculator`](../layerhashcalculator). |
+| [LayerHashCalculator](layerhashcalculator)(Layer) | Инициализирует новый экземпляр[`LayerHashCalculator`](../layerhashcalculator) класс. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash)() | Получает смешанный хэш. |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash)() | Получает смешанный хеш. |
 | [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash)() | Получает хеш каналов. |
-| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash)() | Получает хэш содержимого. |
+| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash)() | Получает хэш контента. |
 
 ### Примеры
 
-Следующий код демонстрирует API для получения уникального хэша для похожих слои в разных файлах.
+Следующий код демонстрирует API для получения уникального хэша для похожих слоев в разных файлах.
 
 ```csharp
 [C#]
@@ -41,7 +41,7 @@ public class LayerHashCalculator
 /// <typeparam name="T"></typeparam>
 /// <param name="image">Изображение.</param>
 /// <param name="name">Имя.</param>
-/// <возвращает></возвращает>
+/// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
     var layers = image.Layers;

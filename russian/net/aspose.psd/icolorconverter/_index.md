@@ -3,7 +3,7 @@ title: IColorConverter
 second_title: Справочник по Aspose.PSD для .NET API
 description: Преобразователь цвета.
 type: docs
-weight: 4260
+weight: 4310
 url: /ru/net/aspose.psd/icolorconverter/
 ---
 ## IColorConverter interface

@@ -22,7 +22,7 @@ public double[] Values { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Свойство Values не должно быть нулевым. |
+| ArgumentNullException | Свойство Values не должно быть пустым. |
 
 ### Примеры
 

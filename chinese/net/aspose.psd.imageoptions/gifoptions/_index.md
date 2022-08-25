@@ -3,7 +3,7 @@ title: GifOptions
 second_title: Aspose.PSD for .NET API 参考
 description: gif 文件格式创建选项
 type: docs
-weight: 4690
+weight: 4740
 url: /zh/net/aspose.psd.imageoptions/gifoptions/
 ---
 ## GifOptions class
@@ -18,8 +18,8 @@ public class GifOptions : ImageOptionsBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GifOptions](gifoptions#constructor)() | 初始化[`GifOptions`](../gifoptions)类的新实例。 |
-| [GifOptions](gifoptions#constructor_1)(GifOptions) | 初始化[`GifOptions`](../gifoptions)类的新实例。 |
+| [GifOptions](gifoptions#constructor)() | 初始化[`GifOptions`](../gifoptions)类. |
+| [GifOptions](gifoptions#constructor_1)(GifOptions) | 初始化[`GifOptions`](../gifoptions)类. |
 
 ## 特性
 
@@ -28,20 +28,20 @@ public class GifOptions : ImageOptionsBase
 | [BackgroundColorIndex](../../aspose.psd.imageoptions/gifoptions/backgroundcolorindex) { get; set; } | 获取或设置 GIF 背景颜色索引。 |
 | [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | 获取或设置缓冲区大小提示，该提示定义了所有内部缓冲区的最大允许大小。 |
 | [ColorResolution](../../aspose.psd.imageoptions/gifoptions/colorresolution) { get; set; } | 获取或设置 GIF 颜色分辨率。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（如果系统中未显示 PSD 文件中的现有图层字体，则在导出为栅格时用于绘制文本的字体）。 下一个代码片段可以使用默认字体的正确名称： System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] 系列 = col.Families; 字符串 defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
-| [DoPaletteCorrection](../../aspose.psd.imageoptions/gifoptions/dopalettecorrection) { get; set; } | 获取或设置一个值，指示是否应用调色板校正。 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]。 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果 PSD 文件中的现有图层字体未在系统中显示）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
+| [DoPaletteCorrection](../../aspose.psd.imageoptions/gifoptions/dopalettecorrection) { get; set; } | 获取或设置一个指示是否应用调色板校正的值。 |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]. |
 | [HasTrailer](../../aspose.psd.imageoptions/gifoptions/hastrailer) { get; set; } | 获取或设置一个值，表示 GIF 是否有预告片。 |
 | [Interlaced](../../aspose.psd.imageoptions/gifoptions/interlaced) { get; set; } | 如果图像应该隔行扫描，则为真。 |
 | [IsPaletteSorted](../../aspose.psd.imageoptions/gifoptions/ispalettesorted) { get; set; } | 获取或设置一个值，指示是否对调色板条目进行排序。 |
-| [MaxDiff](../../aspose.psd.imageoptions/gifoptions/maxdiff) { get; set; } | 获取或设置允许的最大像素差。如果大于零，将使用有损压缩。 最佳有损压缩的推荐值为 80。30 是非常轻的压缩，200 是重的。 仅引入少量损失时效果最佳，并且由于压缩算法的限制，非常高的损失级别不会带来太多收益。 允许值的范围是 [0, 1000]。 |
+| [MaxDiff](../../aspose.psd.imageoptions/gifoptions/maxdiff) { get; set; } | 获取或设置允许的最大像素差。如果大于零，将使用有损压缩。 最佳有损压缩的推荐值为 80。30 是非常轻的压缩，200 是重的。 当只引入很少的损失时效果最好，并且由于压缩算法的限制非常高的损失水平不会带来太大的收益。 允许值的范围是[0, 1000]。 |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | 多页选项 |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | 获取或设置调色板。 |
 | [PixelAspectRatio](../../aspose.psd.imageoptions/gifoptions/pixelaspectratio) { get; set; } | 获取或设置 GIF 像素纵横比。 |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | 获取或设置进度事件处理程序。 |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | 获取或设置分辨率设置。 |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置创建图像的源。 |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置要在其中创建图像的源。 |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | 获取或设置矢量光栅化选项。 |
 | override [XmpData](../../aspose.psd.imageoptions/gifoptions/xmpdata) { get; set; } | 获取或设置 XMP 元数据容器。 |
 
@@ -50,11 +50,11 @@ public class GifOptions : ImageOptionsBase
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | 克隆此实例。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
 
 ### 例子
 
-此示例演示如何使用 SaveOptions 命名空间中的不同类进行导出。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
+此示例演示了将 SaveOptions 命名空间中的不同类用于导出目的。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: WidthScale
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает величину масштабирования этого объектаCustomLineCapaspose.psd/customlinecapClass относительно шириныPenобъект.
+description: Получает или задает величину масштабирования этогоCustomLineCapaspose.psd/customlinecap Объект класса относительно шириныPen объект.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/customlinecap/widthscale/
 ---
 ## CustomLineCap.WidthScale property
 
-Получает или задает величину масштабирования этого объекта[`CustomLineCap`](../../customlinecap)Class относительно шириныPenобъект.
+Получает или задает величину масштабирования этого[`CustomLineCap`](../../customlinecap) Объект класса относительно шириныPen объект.
 
 ```csharp
 public float WidthScale { get; set; }
@@ -16,7 +16,7 @@ public float WidthScale { get; set; }
 
 ### Стоимость имущества
 
-Величина, на которую можно масштабировать ограничение.
+Сумма, на которую можно масштабировать кепку.
 
 ### Смотрите также
 

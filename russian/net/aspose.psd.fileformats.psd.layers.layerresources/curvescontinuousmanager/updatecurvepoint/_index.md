@@ -18,8 +18,8 @@ public void UpdateCurvePoint(int channelIndex, int pointIndex, byte x, byte y)
 | --- | --- | --- |
 | channelIndex | Int32 | Индекс канала. |
 | pointIndex | Int32 | Индекс точки. |
-| x | Byte | Местоположение x. |
-| y | Byte | Местоположение y. |
+| x | Byte | Расположение х. |
+| y | Byte | Местоположение Y. |
 
 ### Смотрите также
 

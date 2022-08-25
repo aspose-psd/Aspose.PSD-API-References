@@ -3,7 +3,7 @@ title: GradientColorPoint
 second_title: Справочник по Aspose.PSD для .NET API
 description: Цветовая точка градиента.
 type: docs
-weight: 1890
+weight: 1930
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
 ## GradientColorPoint class
@@ -18,8 +18,8 @@ public class GradientColorPoint : IGradientColorPoint
 
 | Имя | Описание |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint#constructor)() | Инициализирует новый экземпляр класса[`GradientColorPoint`](../gradientcolorpoint). |
-| [GradientColorPoint](gradientcolorpoint#constructor_1)(Color, int, int) | Инициализирует новый экземпляр класса[`GradientColorPoint`](../gradientcolorpoint). |
+| [GradientColorPoint](gradientcolorpoint#constructor)() | Инициализирует новый экземпляр[`GradientColorPoint`](../gradientcolorpoint) класс. |
+| [GradientColorPoint](gradientcolorpoint#constructor_1)(Color, int, int) | Инициализирует новый экземпляр[`GradientColorPoint`](../gradientcolorpoint) класс. |
 
 ## Характеристики
 
@@ -27,7 +27,7 @@ public class GradientColorPoint : IGradientColorPoint
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/color) { get; set; } | Получает или задает цвет. |
 | [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location) { get; set; } | Получает или задает положение точки на градиенте. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation) { get; set; } | Получает или задает расположение средней точки градиента. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation) { get; set; } | Получает или задает положение средней точки градиента. |
 
 ### Смотрите также
 

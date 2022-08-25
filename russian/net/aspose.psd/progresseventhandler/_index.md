@@ -1,14 +1,14 @@
 ---
 title: ProgressEventHandler
 second_title: Справочник по Aspose.PSD для .NET API
-description: Справочник по функциям обработчика событий Progress
+description: Функция обработчика событий Progress reference
 type: docs
-weight: 5160
+weight: 5210
 url: /ru/net/aspose.psd/progresseventhandler/
 ---
 ## ProgressEventHandler delegate
 
-Справочник по функциям обработчика событий Progress
+Функция обработчика событий Progress reference
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
@@ -16,11 +16,11 @@ public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | Данные обработчика событий progress . |
+| info | ProgressEventHandlerInfo | Данные обработчика события progress. |
 
 ### Примеры
 
-В следующем примере показано, что процесс преобразования документов работает корректно и без исключений.
+В следующем примере показано, что процесс преобразования документов работает правильно и без исключений.
 
 ```csharp
 [C#]

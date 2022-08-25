@@ -1,14 +1,14 @@
 ---
 title: Monochrome
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此MixrResourceaspose.psd.fileformats.psd.layers.layerresources/mixrresource是否为单色
+description: 获取或设置一个值该值指示是否MixrResourceaspose.psd.fileformats.psd.layers.layerresources/mixrresource是单色的
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome/
 ---
 ## MixrResource.Monochrome property
 
-获取或设置一个值，该值指示此[`MixrResource`](../../mixrresource)是否为单色。
+获取或设置一个值，该值指示是否[`MixrResource`](../../mixrresource)是单色的。
 
 ```csharp
 public bool Monochrome { get; set; }
@@ -16,7 +16,7 @@ public bool Monochrome { get; set; }
 
 ### 适当的价值
 
-` true` 如果是单色；否则，` false` 。
+`真的`如果是单色的；否则，`错误的` .
 
 ### 也可以看看
 

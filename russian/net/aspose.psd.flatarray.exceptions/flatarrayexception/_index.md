@@ -1,14 +1,14 @@
 ---
 title: FlatArrayException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Специальное исключение для классаFlatArray.
+description: Специальное исключение дляFlatArray класс.
 type: docs
-weight: 4150
+weight: 4200
 url: /ru/net/aspose.psd.flatarray.exceptions/flatarrayexception/
 ---
 ## FlatArrayException class
 
-Специальное исключение для классаFlatArray.
+Специальное исключение дляFlatArray класс.
 
 ```csharp
 public class FlatArrayException : Exception

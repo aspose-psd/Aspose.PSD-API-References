@@ -1,9 +1,9 @@
 ---
 title: IPartialArgb32PixelLoader
 second_title: Справочник по Aspose.PSD для .NET API
-description: Соответствует частично загруженным 32-битным пикселям ARGB.
+description: Соответствует частично загруженным 32битным пикселям ARGB.
 type: docs
-weight: 4390
+weight: 4440
 url: /ru/net/aspose.psd/ipartialargb32pixelloader/
 ---
 ## IPartialArgb32PixelLoader interface

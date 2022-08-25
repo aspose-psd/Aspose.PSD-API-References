@@ -1,14 +1,14 @@
 ---
 title: PhotographicSensitivity
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает фотографическую чувствительность.
+description: Получает или устанавливает фотографическую чувствительность.
 type: docs
 weight: 830
 url: /ru/net/aspose.psd.exif/exifdata/photographicsensitivity/
 ---
 ## ExifData.PhotographicSensitivity property
 
-Получает или задает фотографическую чувствительность.
+Получает или устанавливает фотографическую чувствительность.
 
 ```csharp
 public uint PhotographicSensitivity { get; set; }

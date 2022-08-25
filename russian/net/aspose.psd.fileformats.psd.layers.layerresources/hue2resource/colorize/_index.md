@@ -1,14 +1,14 @@
 ---
 title: Colorize
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этотHue2Resourceaspose.psd.fileformats.psd.layers.layerresources/hue2resourceраскрашиваемым.
+description: Получает или задает значение указывающее является ли этоHue2Resourceaspose.psd.fileformats.psd.layers.layerresources/hue2resource раскрасить.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/
 ---
 ## Hue2Resource.Colorize property
 
-Получает или задает значение, указывающее, является ли этот[`Hue2Resource`](../../hue2resource)раскрашиваемым.
+Получает или задает значение, указывающее, является ли это[`Hue2Resource`](../../hue2resource) раскрасить.
 
 ```csharp
 public bool Colorize { get; set; }
@@ -16,7 +16,7 @@ public bool Colorize { get; set; }
 
 ### Стоимость имущества
 
-` true` если раскрасить; в противном случае` false` .
+`истинный` если раскрасить; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

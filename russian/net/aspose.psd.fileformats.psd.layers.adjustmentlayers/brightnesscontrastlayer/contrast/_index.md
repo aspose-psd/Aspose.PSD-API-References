@@ -1,14 +1,14 @@
 ---
 title: Contrast
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает контрастность. Для PS диапазон контрастности от -50 до 100. Но мы игнорируем это.
+description: Получает или задает контрастность. Для PS диапазон контрастности от 50 до 100. Но мы игнорируем это.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
 ## BrightnessContrastLayer.Contrast property
 
-Получает или устанавливает контрастность. Для PS диапазон контрастности от -50 до +100. Но мы игнорируем это.
+Получает или задает контрастность. Для PS диапазон контрастности от -50 до +100. Но мы игнорируем это.
 
 ```csharp
 public int Contrast { get; set; }

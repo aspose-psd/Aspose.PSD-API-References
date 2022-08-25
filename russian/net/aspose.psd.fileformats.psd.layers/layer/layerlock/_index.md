@@ -1,14 +1,14 @@
 ---
 title: LayerLock
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает блокировку слоя. Обратите внимание что если флаг LayerFlags.TransparencyProtected установлен он будет перезаписан флагом блокировки слоя. Чтобы вернуть флаг LayerFlags.TransparencyProtected необходимо применить параметр слоя layer.Flags x7C LayerFlags.TransparencyProtected
+description: Получает или устанавливает блокировку слоя. Обратите внимание что если флаг LayerFlags.TransparencyProtected установлен он будет перезаписан флагом блокировки слоя.
 type: docs
 weight: 210
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layerlock/
 ---
 ## Layer.LayerLock property
 
-Получает или устанавливает блокировку слоя. Обратите внимание, что если флаг LayerFlags.TransparencyProtected установлен, он будет перезаписан флагом блокировки слоя. Чтобы вернуть флаг LayerFlags.TransparencyProtected, необходимо применить параметр слоя layer.Flags &#x7C;= LayerFlags.TransparencyProtected
+Получает или устанавливает блокировку слоя. Обратите внимание, что если флаг LayerFlags.TransparencyProtected установлен, он будет перезаписан флагом блокировки слоя.
 
 ```csharp
 public LayerLockType LayerLock { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Position
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置笔触效果的位置以控制笔触与 PSD 图层内容的对齐方式 值可以是Inside以在 PSD 图层内容内绘制描边 或Outside绘制 PSD 图层内容的笔划 和Center在内部和外部绘制笔触
+description: 获取或设置描边效果的位置来控制你的描边与PSD图层内容的对齐方式 的值可以是Inside在 PSD 图层内容中绘制笔划 或Outside绘制 PSD 图层内容的描边 和Center在内外画笔画
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/
 ---
 ## StrokeEffect.Position property
 
-获取或设置笔触效果的位置，以控制笔触与 PSD 图层内容的对齐方式。 值可以是Inside以在 PSD 图层内容内绘制描边， 或Outside绘制 PSD 图层内容的笔划， 和Center在内部和外部绘制笔触。
+获取或设置描边效果的位置来控制你的描边与PSD图层内容的对齐方式。 的值可以是Inside在 PSD 图层内容中绘制笔划， 或Outside绘制 PSD 图层内容的描边， 和Center在内外画笔画。
 
 ```csharp
 public StrokePosition Position { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DataLength
 second_title: Aspose.PSD for .NET API 参考
-description: 获取准确的数据长度以字节为单位
+description: 以字节为单位获取确切的数据长度
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength/
 ---
 ## AliasStructure.DataLength property
 
-获取准确的数据长度（以字节为单位）。
+以字节为单位获取确切的数据长度。
 
 ```csharp
 public int DataLength { get; }

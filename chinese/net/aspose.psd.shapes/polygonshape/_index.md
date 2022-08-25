@@ -3,7 +3,7 @@ title: PolygonShape
 second_title: Aspose.PSD for .NET API 参考
 description: 表示多边形形状
 type: docs
-weight: 5390
+weight: 5440
 url: /zh/net/aspose.psd.shapes/polygonshape/
 ---
 ## PolygonShape class
@@ -18,9 +18,9 @@ public class PolygonShape : Shape, IOrderedShape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PolygonShape](polygonshape#constructor)() | 初始化[`PolygonShape`](../polygonshape)类的新实例。 |
-| [PolygonShape](polygonshape#constructor_1)(PointF[]) | 初始化[`PolygonShape`](../polygonshape)类的新实例。 |
-| [PolygonShape](polygonshape#constructor_2)(PointF[], bool) | 初始化[`PolygonShape`](../polygonshape)类的新实例。 |
+| [PolygonShape](polygonshape#constructor)() | 初始化[`PolygonShape`](../polygonshape)类. |
+| [PolygonShape](polygonshape#constructor_1)(PointF[]) | 初始化[`PolygonShape`](../polygonshape)类. |
+| [PolygonShape](polygonshape#constructor_2)(PointF[], bool) | 初始化[`PolygonShape`](../polygonshape)类. |
 
 ## 特性
 
@@ -29,7 +29,7 @@ public class PolygonShape : Shape, IOrderedShape
 | override [Bounds](../../aspose.psd.shapes/polygonshape/bounds) { get; } | 获取对象的边界。 |
 | override [Center](../../aspose.psd.shapes/polygonshape/center) { get; } | 获取形状的中心。 |
 | virtual [EndPoint](../../aspose.psd.shapes/polygonshape/endpoint) { get; } | 获取结束形状点。 |
-| override [HasSegments](../../aspose.psd.shapes/polygonshape/hassegments) { get; } | 获取表示形状是否有段的值。 |
+| override [HasSegments](../../aspose.psd.shapes/polygonshape/hassegments) { get; } | 获取一个表示形状是否有段的值。 |
 | [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed) { get; set; } | 获取或设置一个表示形状是否闭合的值。 |
 | [Points](../../aspose.psd.shapes/polygonshape/points) { get; set; } | 获取或设置曲线点。 |
 | override [Segments](../../aspose.psd.shapes/polygonshape/segments) { get; } | 获取形状段。 |
@@ -46,7 +46,7 @@ public class PolygonShape : Shape, IOrderedShape
 
 ### 例子
 
-此示例创建一个新图像并在图像表面上使用图形和图形路径绘制各种形状
+此示例创建一个新 Image 并在 Image 表面上使用 Figures 和 GraphicsPath 绘制各种形状
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: HighlightsMagentaGreenBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает баланс пурпурного зеленого для светлых участков.
+description: Получает или задает баланс зеленого пурпурного для светлых участков.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightsmagentagreenbalance/
 ---
 ## ColorBalanceAdjustmentLayer.HighlightsMagentaGreenBalance property
 
-Получает или задает баланс пурпурного зеленого для светлых участков.
+Получает или задает баланс зеленого пурпурного для светлых участков.
 
 ```csharp
 public short HighlightsMagentaGreenBalance { get; set; }
@@ -16,13 +16,13 @@ public short HighlightsMagentaGreenBalance { get; set; }
 
 ### Стоимость имущества
 
-The Highlights Magenta Green Balance.
+Пурпурный баланс зеленого цвета.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Основные моменты Пурпурный Баланс зеленого должен быть в диапазоне от -100 до +100 . |
+| ArgumentOutOfRangeException | Баланс зеленого пурпурного цвета светлых участков должен находиться в диапазоне от -100 до +100. |
 
 ### Примеры
 

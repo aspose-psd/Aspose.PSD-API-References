@@ -1,7 +1,7 @@
 ---
 title: GenerateSmartExternalResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Генерирует внешний ресурс смарт-объекта.
+description: Генерирует внешний ресурс смартобъекта.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/
@@ -16,7 +16,7 @@ public SoLeResource GenerateSmartExternalResource()
 
 ### Возвращаемое значение
 
-Сгенерированный экземпляр[`SoLeResource`](../../soleresource).
+Сгенерированный[`SoLeResource`](../../soleresource) пример.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: AmountNoise
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает количество значения шума.
+description: Получает или задает количество значений шума.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
 ## AddNoiseSmartFilter.AmountNoise property
 
-Получает или устанавливает количество значения шума.
+Получает или задает количество значений шума.
 
 ```csharp
 public double AmountNoise { get; set; }

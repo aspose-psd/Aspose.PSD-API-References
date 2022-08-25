@@ -1,14 +1,14 @@
 ---
 title: VOrder
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 文件中放置图层的 V 阶值
+description: 获取或设置PSD文件中放置图层的V阶值
 type: docs
 weight: 240
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/
 ---
 ## PlacedResource.VOrder property
 
-获取或设置 PSD 文件中放置图层的 V 阶值。
+获取或设置PSD文件中放置图层的V阶值。
 
 ```csharp
 public int VOrder { get; set; }

@@ -16,7 +16,7 @@ public PlLdResource GeneratePlacedResource()
 
 ### Возвращаемое значение
 
-Сгенерированный экземпляр[`PlLdResource`](../../plldresource).
+Сгенерированный[`PlLdResource`](../../plldresource) пример.
 
 ### Смотрите также
 

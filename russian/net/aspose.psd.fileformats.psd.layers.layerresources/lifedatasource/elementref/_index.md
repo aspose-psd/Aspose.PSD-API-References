@@ -1,14 +1,14 @@
 ---
 title: ElementRef
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает ссылку на элемент графической библиотеки для библиотек Adobe Photoshop CC.
+description: Получает или задает ссылку на элемент графической библиотеки для библиотек Adobe Photoshop CC Libraries.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/
 ---
 ## LiFeDataSource.ElementRef property
 
-Получает или задает ссылку на элемент графической библиотеки для библиотек Adobe® Photoshop® CC.
+Получает или задает ссылку на элемент графической библиотеки для библиотек Adobe® Photoshop® CC Libraries.
 
 ```csharp
 public string ElementRef { get; set; }

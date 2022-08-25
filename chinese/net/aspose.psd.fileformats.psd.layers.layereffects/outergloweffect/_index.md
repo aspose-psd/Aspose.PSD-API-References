@@ -3,7 +3,7 @@ title: OuterGlowEffect
 second_title: Aspose.PSD for .NET API 参考
 description: 外发光层效果
 type: docs
-weight: 2110
+weight: 2150
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 ---
 ## OuterGlowEffect class
@@ -19,12 +19,12 @@ public class OuterGlowEffect : ILayerEffect
 | 姓名 | 描述 |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode) { get; set; } | 获取或设置混合模式。 |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype) { get; } | 获取一个效果类型 |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype) { get; } | 获取效果类型 |
 | [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor) { get; set; } | 获取或设置颜色。 |
 | [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity) { get; set; } | 以度为单位获取或设置角度。 |
 | [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing) { get; set; } | 获取或设置启用的抗锯齿效果 |
-| [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend) { get; set; } | 获取或设置一个值，指示是否[敲除]。 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible) { get; set; } | 获取或设置一个值，指示此实例是否可见。 |
+| [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend) { get; set; } | 获取或设置一个值，该值指示是否 [knocks out]. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible) { get; set; } | 获取或设置一个指示此实例是否可见的值。 |
 | [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter) { get; set; } | 获取或设置噪声。 |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise) { get; set; } | 获取或设置噪声。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity) { get; set; } | 获取或设置不透明度。 |
@@ -34,7 +34,7 @@ public class OuterGlowEffect : ILayerEffect
 
 ### 例子
 
-以下代码演示了外发光效果支持。
+以下代码演示了 OuterGlowEffect 支持。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: PhysicalUnit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Перечисление физической единицы resoulutionInfo
+description: Физический блок resoulutionInfo enum
 type: docs
-weight: 3750
+weight: 3800
 url: /ru/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
 ## PhysicalUnit enumeration
 
-Перечисление физической единицы resoulutionInfo
+Физический блок resoulutionInfo enum
 
 ```csharp
 public enum PhysicalUnit
@@ -20,8 +20,8 @@ public enum PhysicalUnit
 | --- | --- | --- |
 | Inches | `1` | Дюймы |
 | Centimeters | `2` | Сантиметры |
-| Points | `3` | Точки |
-| Picas | `4` | Устройство пикас |
+| Points | `3` | Очки |
+| Picas | `4` | Устройство Picas |
 | Columns | `5` | Столбцы |
 
 ### Смотрите также

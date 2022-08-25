@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает положение маски нижнего слоя.
+description: Получает или задает позицию маски нижнего слоя.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/bottom/
 ---
 ## LayerMaskData.Bottom property
 
-Получает или задает положение маски нижнего слоя.
+Получает или задает позицию маски нижнего слоя.
 
 ```csharp
 public int Bottom { get; set; }

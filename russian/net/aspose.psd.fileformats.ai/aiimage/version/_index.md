@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает версию формата Adobe Illustrator
+description: Получает версию Adobe Illustrator format
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/version/
 ---
 ## AiImage.Version property
 
-Получает версию формата Adobe Illustrator
+Получает версию Adobe Illustrator format
 
 ```csharp
 public AiFormatVersion Version { get; }

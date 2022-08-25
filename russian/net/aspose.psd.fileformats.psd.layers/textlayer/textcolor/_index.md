@@ -22,7 +22,7 @@ public Color TextColor { get; }
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Ошибка анализа данных компонента цвета |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Ошибка анализа данных цветового компонента |
 
 ### Смотрите также
 

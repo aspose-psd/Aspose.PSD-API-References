@@ -1,14 +1,14 @@
 ---
 title: ReplaceColor
 second_title: Aspose.PSD for .NET API 参考
-description: 用允许的差异将一种颜色替换为另一种颜色并保留原始 Alpha 值以保存平滑边缘
+description: 用允许的差异将一种颜色替换为另一种颜色并保留原始 alpha 值以保存平滑边缘
 type: docs
 weight: 450
 url: /zh/net/aspose.psd/rasterimage/replacecolor/
 ---
 ## ReplaceColor(Color, byte, Color) {#replacecolor}
 
-用允许的差异将一种颜色替换为另一种颜色，并保留原始 Alpha 值以保存平滑边缘。
+用允许的差异将一种颜色替换为另一种颜色，并保留原始 alpha 值以保存平滑边缘。
 
 ```csharp
 public void ReplaceColor(Color oldColor, byte oldColorDiff, Color newColor)
@@ -16,9 +16,9 @@ public void ReplaceColor(Color oldColor, byte oldColorDiff, Color newColor)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| oldColor | Color | 要替换的旧颜色。 |
+| oldColor | Color | 旧颜色要更换。 |
 | oldColorDiff | Byte | 允许旧颜色的差异能够扩大替换的色调。 |
-| newColor | Color | 用新颜色替换旧颜色。 |
+| newColor | Color | 用新颜色代替旧颜色。 |
 
 ### 也可以看看
 
@@ -31,7 +31,7 @@ public void ReplaceColor(Color oldColor, byte oldColorDiff, Color newColor)
 
 ## ReplaceColor(int, byte, int) {#replacecolor_1}
 
-用允许的差异将一种颜色替换为另一种颜色，并保留原始 Alpha 值以保存平滑边缘。
+用允许的差异将一种颜色替换为另一种颜色，并保留原始 alpha 值以保存平滑边缘。
 
 ```csharp
 public virtual void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)

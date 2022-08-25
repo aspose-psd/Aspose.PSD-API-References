@@ -16,7 +16,7 @@ public OuterGlowEffect AddOuterGlow()
 
 ### 返回值
 
-已创建[`OuterGlowEffect`](../../outergloweffect)对象
+已创建[`OuterGlowEffect`](../../outergloweffect)object
 
 ### 例子
 

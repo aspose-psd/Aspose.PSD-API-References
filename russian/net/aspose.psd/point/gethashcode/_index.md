@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Возвращает хэш-код для этогоPointaspose.psd/point.
+description: Возвращает хешкод для этогоPointaspose.psd/point .
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/point/gethashcode/
 ---
 ## Point.GetHashCode method
 
-Возвращает хэш-код для этого[`Point`](../../point).
+Возвращает хеш-код для этого[`Point`](../../point) .
 
 ```csharp
 public override int GetHashCode()
@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Хэш-код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хэш-таблица.
+Хэш-код для этого экземпляра, подходящий для использования в алгоритмах хеширования и структурах данных, таких как хеш-таблица.
 
 ### Смотрите также
 

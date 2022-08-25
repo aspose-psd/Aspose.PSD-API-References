@@ -1,14 +1,14 @@
 ---
 title: ColorPalette
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает цветовую палитру
+description: Получает или задает цветовую палитру
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/rawdatasettings/colorpalette/
 ---
 ## RawDataSettings.ColorPalette property
 
-Получает или устанавливает цветовую палитру
+Получает или задает цветовую палитру
 
 ```csharp
 public IColorPalette ColorPalette { get; set; }

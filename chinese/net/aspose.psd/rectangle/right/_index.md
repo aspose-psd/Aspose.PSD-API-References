@@ -1,14 +1,14 @@
 ---
 title: Right
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 x 坐标它是Xaspose.psd/rectangle/x和Rectangle之和此Rectangleaspose.psd/rectangle 结构的.Width属性值
+description: 获取或设置 x 坐标它是Xaspose.psd/rectangle/x和Widthaspose.psd/rectangle/widththis 的属性值Rectangleaspose.psd/rectangle结构.
 type: docs
 weight: 160
 url: /zh/net/aspose.psd/rectangle/right/
 ---
 ## Rectangle.Right property
 
-获取或设置 x 坐标，它是[`X`](../x)和Rectangle之和此[`Rectangle`](../../rectangle) 结构的.Width属性值。
+获取或设置 x 坐标，它是[`X`](../x)和[`Width`](../width)this 的属性值[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public int Right { get; set; }
@@ -16,7 +16,7 @@ public int Right { get; set; }
 
 ### 适当的价值
 
-x 坐标，它是[`X`](../x)和[`Width`](../width) 之和这个[`Rectangle`](../../rectangle)。
+x 坐标，即[`X`](../x)和[`Width`](../width)这个的[`Rectangle`](../../rectangle) .
 
 ### 也可以看看
 

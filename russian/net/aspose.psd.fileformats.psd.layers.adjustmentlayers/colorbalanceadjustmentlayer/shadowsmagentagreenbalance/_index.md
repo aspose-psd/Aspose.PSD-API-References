@@ -1,14 +1,14 @@
 ---
 title: ShadowsMagentaGreenBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает баланс пурпурно-зеленого в тенях.
+description: Получает или задает баланс зеленого пурпурного для теней.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsmagentagreenbalance/
 ---
 ## ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance property
 
-Получает или задает баланс пурпурно-зеленого в тенях.
+Получает или задает баланс зеленого пурпурного для теней.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
@@ -16,13 +16,13 @@ public short ShadowsMagentaGreenBalance { get; set; }
 
 ### Стоимость имущества
 
-Тени Пурпурный Зеленый Баланс.
+Тени Пурпурно-зеленый баланс.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Тени Пурпурный Зеленый Баланс должен быть в диапазоне от -100 до +100 . |
+| ArgumentOutOfRangeException | Shadows Magenta Green Balance должен находиться в диапазоне от -100 до +100. |
 
 ### Примеры
 

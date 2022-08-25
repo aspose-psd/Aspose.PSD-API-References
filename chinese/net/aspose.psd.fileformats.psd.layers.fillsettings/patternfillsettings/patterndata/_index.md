@@ -16,7 +16,7 @@ public int[] PatternData { get; set; }
 
 ### 适当的价值
 
-模式数据。
+图案数据。
 
 ### 例子
 

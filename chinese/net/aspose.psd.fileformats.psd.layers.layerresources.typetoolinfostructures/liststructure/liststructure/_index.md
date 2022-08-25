@@ -1,14 +1,14 @@
 ---
 title: ListStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ListStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure类的新实例
+description: 初始化ListStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/liststructure/
 ---
 ## ListStructure constructor
 
-初始化[`ListStructure`](../../liststructure)类的新实例。
+初始化[`ListStructure`](../../liststructure)类.
 
 ```csharp
 public ListStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public ListStructure(ClassID keyName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 
 ### 也可以看看
 

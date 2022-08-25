@@ -3,7 +3,7 @@ title: IPartialArgb32PixelLoader
 second_title: Aspose.PSD for .NET API 参考
 description: 符合部分加载的 32 位 ARGB 像素
 type: docs
-weight: 4390
+weight: 4440
 url: /zh/net/aspose.psd/ipartialargb32pixelloader/
 ---
 ## IPartialArgb32PixelLoader interface

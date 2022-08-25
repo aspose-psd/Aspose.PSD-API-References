@@ -1,14 +1,14 @@
 ---
 title: TiffOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаTiffOptionsaspose.psd.imageoptions/tiffoptions.
+description: Инициализирует новый экземплярTiffOptionsaspose.psd.imageoptions/tiffoptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/tiffoptions/
 ---
 ## TiffOptions(TiffExpectedFormat, TiffByteOrder) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`TiffOptions`](../../tiffoptions).
+Инициализирует новый экземпляр[`TiffOptions`](../../tiffoptions) класс.
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
@@ -31,7 +31,7 @@ public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
 
 ## TiffOptions(TiffExpectedFormat) {#constructor}
 
-Инициализирует новый экземпляр класса[`TiffOptions`](../../tiffoptions). По умолчанию используется соглашение с прямым порядком байтов.
+Инициализирует новый экземпляр[`TiffOptions`](../../tiffoptions) учебный класс. По умолчанию используется соглашение с прямым порядком байтов.
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat)
@@ -52,7 +52,7 @@ public TiffOptions(TiffExpectedFormat expectedFormat)
 
 ## TiffOptions(TiffOptions) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`TiffOptions`](../../tiffoptions).
+Инициализирует новый экземпляр[`TiffOptions`](../../tiffoptions) класс.
 
 ```csharp
 public TiffOptions(TiffOptions options)
@@ -60,7 +60,7 @@ public TiffOptions(TiffOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | TiffOptions | Опции для копирования. |
+| options | TiffOptions | Параметры для копирования. |
 
 ### Смотрите также
 
@@ -72,7 +72,7 @@ public TiffOptions(TiffOptions options)
 
 ## TiffOptions(TiffDataType[]) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`TiffOptions`](../../tiffoptions).
+Инициализирует новый экземпляр[`TiffOptions`](../../tiffoptions) класс.
 
 ```csharp
 public TiffOptions(TiffDataType[] tags)

@@ -1,14 +1,14 @@
 ---
 title: TiffPlanarConfigs
 second_title: Справочник по Aspose.PSD для .NET API
-description: Организация хранения.ltbr /gt Возможные значения тега PLANARCONFIG.
+description: Организация хранения. Возможные значения для тега PLANARCONFIG.
 type: docs
-weight: 4010
+weight: 4060
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
 ## TiffPlanarConfigs enumeration
 
-Организация хранения.&lt;br /&gt; Возможные значения тега PLANARCONFIG.
+Организация хранения. Возможные значения для тега PLANARCONFIG.
 
 ```csharp
 public enum TiffPlanarConfigs : ushort
@@ -18,7 +18,7 @@ public enum TiffPlanarConfigs : ushort
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| Contiguous | `1` | Одиночная плоскость изображения. |
+| Contiguous | `1` | Одна плоскость изображения. |
 | Separate | `2` | Отдельные плоскости данных. |
 
 ### Смотрите также

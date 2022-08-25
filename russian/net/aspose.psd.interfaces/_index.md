@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.Interfaces
 second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает обработку файлов формата Tiff.
+description: Пространство имен обрабатывает формат файла Tiff.
 type: docs
-weight: 420
+weight: 430
 url: /ru/net/aspose.psd.interfaces/
 ---
-Пространство имен обрабатывает обработку файлов формата Tiff.
+Пространство имен обрабатывает формат файла Tiff.
 
 ## Интерфейсы
 

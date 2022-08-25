@@ -1,7 +1,7 @@
 ---
 title: Save
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сохраняет ресурс смарт-объекта в указанный контейнер потока.
+description: Сохраняет ресурс смартобъекта в указанный контейнер потока.
 type: docs
 weight: 260
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/

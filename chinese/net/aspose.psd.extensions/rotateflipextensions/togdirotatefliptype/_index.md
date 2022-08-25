@@ -1,14 +1,14 @@
 ---
 title: ToGdiRotateFlipType
 second_title: Aspose.PSD for .NET API 参考
-description: 将 Aspose.PSD.RotateFlipType 转换为 System.Drawing.RotateFlipType
+description: 将 Aspose.PSD.RotateFlipType 转换为 System.Drawing.RotateFlipType.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/
 ---
 ## RotateFlipExtensions.ToGdiRotateFlipType method
 
-将 Aspose.PSD.RotateFlipType 转换为 System.Drawing.RotateFlipType。
+将 Aspose.PSD.RotateFlipType 转换为 System.Drawing.RotateFlipType.
 
 ```csharp
 public static RotateFlipType ToGdiRotateFlipType(RotateFlipType rotateFlipType)

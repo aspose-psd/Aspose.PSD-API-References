@@ -1,14 +1,14 @@
 ---
 title: CompositingQuality
 second_title: Aspose.PSD for .NET API 参考
-description: 指定在合成期间使用的质量级别
+description: 指定合成期间使用的质量级别
 type: docs
 weight: 420
 url: /zh/net/aspose.psd/compositingquality/
 ---
 ## CompositingQuality enumeration
 
-指定在合成期间使用的质量级别。
+指定合成期间使用的质量级别。
 
 ```csharp
 public enum CompositingQuality

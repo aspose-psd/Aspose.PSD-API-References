@@ -3,7 +3,7 @@ title: GraphicsOptions
 second_title: Aspose.PSD for .NET API 参考
 description: 表示嵌入位图的图形选项
 type: docs
-weight: 4700
+weight: 4750
 url: /zh/net/aspose.psd.imageoptions/graphicsoptions/
 ---
 ## GraphicsOptions class

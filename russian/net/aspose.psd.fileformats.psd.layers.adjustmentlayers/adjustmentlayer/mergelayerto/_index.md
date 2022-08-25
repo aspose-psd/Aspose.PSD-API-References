@@ -1,14 +1,14 @@
 ---
 title: MergeLayerTo
 second_title: Справочник по Aspose.PSD для .NET API
-description: Слияние слоя с указанным
+description: Объединяет слой с указанным layer
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/adjustmentlayer/mergelayerto/
 ---
 ## AdjustmentLayer.MergeLayerTo method
 
-Слияние слоя с указанным
+Объединяет слой с указанным layer
 
 ```csharp
 public override void MergeLayerTo(Layer layerToMergeInto)
@@ -16,7 +16,7 @@ public override void MergeLayerTo(Layer layerToMergeInto)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| layerToMergeInto | Layer | Слой для слияния в. |
+| layerToMergeInto | Layer | Слой для слияния. |
 
 ### Смотрите также
 

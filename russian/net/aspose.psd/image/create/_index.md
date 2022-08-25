@@ -22,7 +22,7 @@ public static Image Create(ImageOptionsBase imageOptions, int width, int height)
 
 ### Возвращаемое значение
 
-Вновь созданный образ.
+Недавно созданный образ.
 
 ### Примеры
 

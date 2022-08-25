@@ -1,14 +1,14 @@
 ---
 title: Convert
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует этот формат изображения в указанный в опциях.
+description: Преобразует этот формат изображения в формат указанный в options.
 type: docs
 weight: 500
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
 ## PsdImage.Convert method
 
-Преобразует этот формат изображения в указанный в опциях.
+Преобразует этот формат изображения в формат, указанный в options.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
@@ -16,11 +16,11 @@ public void Convert(PsdOptions newOptions)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newOptions | PsdOptions | Новые параметры. |
+| newOptions | PsdOptions | Новые опции. |
 
 ### Примеры
 
-Эти примеры демонстрируют преобразование формата изображения PSD в другие цветовые режимы/разрядность.
+Эти примеры демонстрируют преобразование формата изображения PSD в другие цветовые режимы/битовую глубину.
 
 ```csharp
 [C#]

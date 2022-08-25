@@ -1,14 +1,14 @@
 ---
 title: Resources
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает ресурсы PSD.
+description: Получает или задает ресурсы PSD.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.imageoptions/psdoptions/resources/
 ---
 ## PsdOptions.Resources property
 
-Получает или устанавливает ресурсы PSD.
+Получает или задает ресурсы PSD.
 
 ```csharp
 public ResourceBlock[] Resources { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: ColorMapExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: ColorMap../aspose.psd/colormap扩展方法
+description: 的ColorMap../aspose.psd/colormap扩展方法.
 type: docs
 weight: 1060
 url: /zh/net/aspose.psd.extensions/colormapextensions/
 ---
 ## ColorMapExtensions class
 
-[`ColorMap`](../../aspose.psd/colormap)扩展方法。
+的[`ColorMap`](../../aspose.psd/colormap)扩展方法.
 
 ```csharp
 public static class ColorMapExtensions
@@ -18,8 +18,8 @@ public static class ColorMapExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap)(ColorMap) | 将[`ColorMap`](../../aspose.psd/colormap)转换为ColorMap。 |
-| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps)(ColorMap[]) | 将[`ColorMap`](../../aspose.psd/colormap)数组转换为ColorMap数组。 |
+| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap)(ColorMap) | 转换[`ColorMap`](../../aspose.psd/colormap)到ColorMap . |
+| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps)(ColorMap[]) | 转换[`ColorMap`](../../aspose.psd/colormap)数组到ColorMap数组. |
 
 ### 也可以看看
 

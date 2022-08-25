@@ -1,14 +1,14 @@
 ---
 title: LiFeDataSource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource类的新实例
+description: 初始化LiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/lifedatasource/
 ---
 ## LiFeDataSource() {#constructor}
 
-初始化[`LiFeDataSource`](../../lifedatasource)类的新实例。
+初始化[`LiFeDataSource`](../../lifedatasource)类.
 
 ```csharp
 public LiFeDataSource()
@@ -24,7 +24,7 @@ public LiFeDataSource()
 
 ## LiFeDataSource(int, Guid, string, string, string) {#constructor_1}
 
-初始化[`LiFeDataSource`](../../lifedatasource)类的新实例。
+初始化[`LiFeDataSource`](../../lifedatasource)类.
 
 ```csharp
 public LiFeDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 

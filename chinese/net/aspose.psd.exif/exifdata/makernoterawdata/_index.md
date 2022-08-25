@@ -1,14 +1,14 @@
 ---
 title: MakerNoteRawData
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置maker note 原始数据
+description: 获取或设置 maker note 原始数据
 type: docs
 weight: 790
 url: /zh/net/aspose.psd.exif/exifdata/makernoterawdata/
 ---
 ## ExifData.MakerNoteRawData property
 
-获取或设置maker note 原始数据。
+获取或设置 maker note 原始数据。
 
 ```csharp
 public byte[] MakerNoteRawData { get; set; }

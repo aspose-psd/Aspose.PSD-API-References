@@ -1,14 +1,14 @@
 ---
 title: XPComment
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает комментарий к изображению используемый проводником Windows.
+description: Получает или задает комментарий к изображению который используется проводником Windows.
 type: docs
 weight: 600
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/xpcomment/
 ---
 ## TiffOptions.XPComment property
 
-Получает или задает комментарий к изображению, используемый проводником Windows.
+Получает или задает комментарий к изображению, который используется проводником Windows.
 
 ```csharp
 public string XPComment { get; set; }
@@ -16,7 +16,7 @@ public string XPComment { get; set; }
 
 ### Стоимость имущества
 
-Комментарий к изображению, используемому проводником Windows.
+Комментарий к изображению, используемому Проводником Windows.
 
 ### Смотрите также
 

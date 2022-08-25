@@ -1,14 +1,14 @@
 ---
 title: ToKnownColor
 second_title: Aspose.PSD for .NET API 参考
-description: 获取此Coloraspose.psd/color结构的KnownColoraspose.psd/knowncolor值
+description: 获取KnownColoraspose.psd/knowncolor这个的价值Coloraspose.psd/color结构.
 type: docs
 weight: 1600
 url: /zh/net/aspose.psd/color/toknowncolor/
 ---
 ## Color.ToKnownColor method
 
-获取此[`Color`](../../color)结构的[`KnownColor`](../../knowncolor)值。
+获取[`KnownColor`](../../knowncolor)这个的价值[`Color`](../../color)结构.
 
 ```csharp
 public KnownColor ToKnownColor()
@@ -16,7 +16,7 @@ public KnownColor ToKnownColor()
 
 ### 返回值
 
-[`KnownColor`](../../knowncolor)枚举的一个元素，如果[`Color`](../../color)是通过使用[`FromName`](../fromname)方法或[`FromKnownColor`](../fromknowncolor)方法；否则为 0。
+的一个元素[`KnownColor`](../../knowncolor)枚举，如果[`Color`](../../color)通过使用任一预定义颜色创建[`FromName`](../fromname)方法或[`FromKnownColor`](../fromknowncolor)方法;否则为 0。
 
 ### 也可以看看
 

@@ -18,17 +18,17 @@ public sealed class ColorPalette : IColorPalette
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ColorPalette](colorpalette#constructor)(Color[]) | 初始化[`ColorPalette`](../colorpalette)类的新实例，并且 IsCompactPalette 为 false。 |
-| [ColorPalette](colorpalette#constructor_2)(int[]) | 初始化[`ColorPalette`](../colorpalette)类的新实例，并且 IsCompactPalette 为 false。 |
-| [ColorPalette](colorpalette#constructor_1)(Color[], bool) | 初始化[`ColorPalette`](../colorpalette)类的新实例。 |
-| [ColorPalette](colorpalette#constructor_3)(int[], bool) | 初始化[`ColorPalette`](../colorpalette)类的新实例。 |
+| [ColorPalette](colorpalette#constructor)(Color[]) | 初始化[`ColorPalette`](../colorpalette)类和 IsCompactPalette 为假。 |
+| [ColorPalette](colorpalette#constructor_2)(int[]) | 初始化[`ColorPalette`](../colorpalette)类和 IsCompactPalette 为假。 |
+| [ColorPalette](colorpalette#constructor_1)(Color[], bool) | 初始化[`ColorPalette`](../colorpalette)类. |
+| [ColorPalette](colorpalette#constructor_3)(int[], bool) | 初始化[`ColorPalette`](../colorpalette)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Argb32Entries](../../aspose.psd/colorpalette/argb32entries) { get; } | 获取 32 位 ARGB 结构的数组。 |
-| [Entries](../../aspose.psd/colorpalette/entries) { get; } | 获取[`Color`](../color)结构的数组。 |
+| [Entries](../../aspose.psd/colorpalette/entries) { get; } | 获取一个数组[`Color`](../color)结构. |
 | [EntriesCount](../../aspose.psd/colorpalette/entriescount) { get; } | 获取条目数。 |
 | [IsCompactPalette](../../aspose.psd/colorpalette/iscompactpalette) { get; } | 获取或设置一个指示是否使用紧凑调色板的值。 |
 

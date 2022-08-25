@@ -16,11 +16,11 @@ public double VerticalOffset { get; set; }
 
 ### 适当的价值
 
-垂直偏移。
+垂直偏移量。
 
 ### 例子
 
-下面的例子演示了对 GdFlResource 资源加载的支持。
+以下示例演示了对 GdFlResource 资源加载的支持。
 
 ```csharp
 [C#]

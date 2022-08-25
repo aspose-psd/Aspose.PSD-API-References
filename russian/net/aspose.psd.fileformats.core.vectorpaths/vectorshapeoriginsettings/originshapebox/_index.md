@@ -16,7 +16,7 @@ public VectorShapeBoundingBox OriginShapeBox { get; set; }
 
 ### Стоимость имущества
 
-Коробка исходной формы.
+Поле исходной формы.
 
 ### Смотрите также
 

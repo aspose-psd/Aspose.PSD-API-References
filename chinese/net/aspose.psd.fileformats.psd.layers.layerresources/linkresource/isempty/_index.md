@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: Aspose.PSD for .NET API 参考
-description: 获取该链接资源实例是否为空的值
+description: 获取表示此链接资源实例是否为空的值
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/
 ---
 ## LinkResource.IsEmpty property
 
-获取该链接资源实例是否为空的值。
+获取表示此链接资源实例是否为空的值。
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,7 +16,7 @@ public bool IsEmpty { get; }
 
 ### 适当的价值
 
-` true` 如果此链接资源为空；否则，` false` 。
+`真的`如果此链接资源为空；否则，`错误的` .
 
 ### 也可以看看
 

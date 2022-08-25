@@ -1,14 +1,14 @@
 ---
 title: YCbCrSubsampling
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает коэффициенты подвыборки для фотометрического YCbCr.
+description: Получает или задает коэффициенты субдискретизации для фотометрического YCbCr.
 type: docs
 weight: 670
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
 ## TiffOptions.YCbCrSubsampling property
 
-Получает или задает коэффициенты подвыборки для фотометрического YCbCr.
+Получает или задает коэффициенты субдискретизации для фотометрического YCbCr.
 
 ```csharp
 public ushort[] YCbCrSubsampling { get; set; }
@@ -23,7 +23,7 @@ public ushort[] YCbCrSubsampling { get; set; }
 | исключение | условие |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception) | Недопустимая длина поля. Поле YCbCrSubsampling должно содержать два значения. |
-| ArgumentNullException | значение |
+| ArgumentNullException | ценность |
 
 ### Смотрите также
 

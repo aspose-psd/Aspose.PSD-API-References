@@ -3,7 +3,7 @@ title: IShadowEffect
 second_title: Aspose.PSD for .NET API 参考
 description: 阴影层效果接口
 type: docs
-weight: 2090
+weight: 2130
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/
 ---
 ## IShadowEffect interface
@@ -20,7 +20,7 @@ public interface IShadowEffect : ILayerEffect
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle) { get; set; } | 以度为单位获取或设置角度。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color) { get; set; } | 获取或设置颜色。 |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance) { get; set; } | 获取或设置距离（以像素为单位）。 |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance) { get; set; } | 获取或设置距离，以像素为单位。 |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise) { get; set; } | 获取或设置噪声。 |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/size) { get; set; } | 获取或设置以像素为单位的模糊值。 |
 | [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread) { get; set; } | 以百分比形式获取或设置强度。 |

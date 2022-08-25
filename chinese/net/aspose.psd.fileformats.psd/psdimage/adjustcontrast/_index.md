@@ -1,14 +1,14 @@
 ---
 title: AdjustContrast
 second_title: Aspose.PSD for .NET API 参考
-description: 图像对比度
+description: 图像对比
 type: docs
 weight: 450
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/adjustcontrast/
 ---
 ## PsdImage.AdjustContrast method
 
-图像对比度
+图像对比
 
 ```csharp
 public override void AdjustContrast(float contrast)
@@ -16,7 +16,7 @@ public override void AdjustContrast(float contrast)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| contrast | Single | 对比度值（在 [-100; 100] 范围内） |
+| contrast | Single | 对比度值（范围 [-100; 100]） |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Aspose.PSD for .NET API 参考
-description: 获取版本默认为 2 或 3
+description: 获取版本默认值为 2 或 3
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/version/
 ---
 ## PhflResourceVersion3.Version property
 
-获取版本。默认为 2 或 3
+获取版本。默认值为 2 或 3
 
 ```csharp
 public override short Version { get; }
@@ -16,7 +16,7 @@ public override short Version { get; }
 
 ### 适当的价值
 
-版本。
+版本.
 
 ### 例外
 

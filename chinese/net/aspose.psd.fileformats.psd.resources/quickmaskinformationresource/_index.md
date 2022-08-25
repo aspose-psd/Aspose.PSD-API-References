@@ -1,14 +1,14 @@
 ---
 title: QuickMaskInformationResource
 second_title: Aspose.PSD for .NET API 参考
-description: 快速口罩信息资源
+description: 快速掩码信息资源
 type: docs
-weight: 3740
+weight: 3790
 url: /zh/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/
 ---
 ## QuickMaskInformationResource class
 
-快速口罩信息资源
+快速掩码信息资源
 
 ```csharp
 public sealed class QuickMaskInformationResource : ResourceBlock
@@ -25,19 +25,19 @@ public sealed class QuickMaskInformationResource : ResourceBlock
 | 姓名 | 描述 |
 | --- | --- |
 | [ChannelId](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/channelid) { get; set; } | 获取或设置通道标识符。 |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/datasize) { get; } | 获取资源数据大小（以字节为单位）。 |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/datasize) { get; } | 以字节为单位获取资源数据大小。 |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | 获取或设置资源的唯一标识符。 |
-| [IsMaskEmpty](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty) { get; set; } | 获取或设置一个值，该值指示此实例是否为空掩码。 |
+| [IsMaskEmpty](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty) { get; set; } | 获取或设置一个值，指示此实例是否为掩码空。 |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/minimalversion) { get; } | 获取所需的最低 PSD 版本。 |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。 Pascal 字符串，填充以使大小均匀（空名称由两个字节的 0 组成）。 |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应始终为“8BIM”。 |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。帕斯卡字符串，填充以使大小均匀（空名称由两个字节的 0 组成）. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应该总是'8BIM'. |
 | [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | 获取资源块大小（以字节为单位），包括其数据。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定流。 |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定的流中。 |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | 验证资源值。 |
 
 ### 也可以看看

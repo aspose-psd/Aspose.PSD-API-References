@@ -1,14 +1,14 @@
 ---
 title: ToGdiBrush
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПреобразуетBrushaspose.psd/brushвBrush.
+description: ПреобразуетBrushaspose.psd/brush кBrush .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/brushextensions/togdibrush/
 ---
 ## BrushExtensions.ToGdiBrush method
 
-Преобразует[`Brush`](../../../aspose.psd/brush)вBrush.
+Преобразует[`Brush`](../../../aspose.psd/brush) кBrush .
 
 ```csharp
 public static Brush ToGdiBrush(Brush brush)
@@ -16,7 +16,7 @@ public static Brush ToGdiBrush(Brush brush)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../../aspose.psd/brush)для преобразования. |
+| brush | Brush | [`Brush`](../../../aspose.psd/brush) конвертировать. |
 
 ### Возвращаемое значение
 

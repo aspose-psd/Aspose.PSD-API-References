@@ -1,14 +1,14 @@
 ---
 title: LineSegment
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LineSegmentaspose.psd.shapesegments/linesegment类的新实例
+description: 初始化LineSegmentaspose.psd.shapesegments/linesegment类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapesegments/linesegment/linesegment/
 ---
 ## LineSegment constructor
 
-初始化[`LineSegment`](../../linesegment)类的新实例。
+初始化[`LineSegment`](../../linesegment)类.
 
 ```csharp
 public LineSegment(PointF startPoint, PointF endPoint)

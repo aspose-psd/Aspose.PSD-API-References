@@ -1,14 +1,14 @@
 ---
 title: EndPoint
 second_title: Aspose.PSD for .NET API 参考
-description: 获取结束点
+description: 获取终点
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.shapesegments/linesegment/endpoint/
 ---
 ## LineSegment.EndPoint property
 
-获取结束点。
+获取终点。
 
 ```csharp
 public override PointF EndPoint { get; }

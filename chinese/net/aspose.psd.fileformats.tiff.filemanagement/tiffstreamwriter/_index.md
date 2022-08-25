@@ -3,7 +3,7 @@ title: TiffStreamWriter
 second_title: Aspose.PSD for .NET API 参考
 description: Tiff 流编写器
 type: docs
-weight: 4080
+weight: 4130
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/
 ---
 ## TiffStreamWriter class
@@ -18,7 +18,7 @@ public class TiffStreamWriter
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TiffStreamWriter](tiffstreamwriter)(StreamContainer) | 初始化[`TiffStreamWriter`](../tiffstreamwriter)类的新实例。 |
+| [TiffStreamWriter](tiffstreamwriter)(StreamContainer) | 初始化[`TiffStreamWriter`](../tiffstreamwriter)类. |
 
 ## 特性
 
@@ -34,7 +34,7 @@ public class TiffStreamWriter
 | [Write](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write#write)(byte[]) | 写入指定的数据。 |
 | [Write](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write#write_1)(byte[], int, int) | 写入指定的数据。 |
 | [WriteDouble](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedouble)(double) | 将单个双精度值写入流。 |
-| [WriteDoubleArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedoublearray)(double[]) | 将一个双精度值数组写入流。 |
+| [WriteDoubleArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedoublearray)(double[]) | 将双精度值数组写入流。 |
 | [WriteFloat](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat)(float) | 将单个浮点值写入流。 |
 | [WriteFloatArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloatarray)(float[]) | 将浮点值数组写入流。 |
 | [WriteRational](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerational)(TiffRational) | 将单个有理数值写入流。 |

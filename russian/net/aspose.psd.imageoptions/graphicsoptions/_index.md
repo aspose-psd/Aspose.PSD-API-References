@@ -3,7 +3,7 @@ title: GraphicsOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет параметры графики для встроенного растрового изображения.
 type: docs
-weight: 4700
+weight: 4750
 url: /ru/net/aspose.psd.imageoptions/graphicsoptions/
 ---
 ## GraphicsOptions class
@@ -24,7 +24,7 @@ public class GraphicsOptions
 
 | Имя | Описание |
 | --- | --- |
-| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode) { get; set; } | Получает или задает режим интерполяции. |
+| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode) { get; set; } | Получает или устанавливает режим интерполяции. |
 | [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode) { get; set; } | Получает или задает режим сглаживания. |
 | [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint) { get; set; } | Получает или задает подсказку рендеринга текста. |
 

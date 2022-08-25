@@ -1,14 +1,14 @@
 ---
 title: Matrix00
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает элемент в 0 нулевой строке и 0 столбце этогоColorMatrixaspose.psd/colormatrix.
+description: Получает или устанавливает элемент в 0 нулевой строке и 0 столбце этогоColorMatrixaspose.psd/colormatrix .
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/colormatrix/matrix00/
 ---
 ## ColorMatrix.Matrix00 property
 
-Получает или задает элемент в 0 (нулевой) строке и 0 столбце этого[`ColorMatrix`](../../colormatrix).
+Получает или устанавливает элемент в 0 (нулевой) строке и 0 столбце этого[`ColorMatrix`](../../colormatrix) .
 
 ```csharp
 public float Matrix00 { get; set; }

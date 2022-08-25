@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置图层的文本内容
+description: 获取或设置图层的文字内容
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/layer/text/
 ---
 ## Layer.Text property
 
-获取或设置图层的文本内容。
+获取或设置图层的文字内容。
 
 ```csharp
 public string Text { get; set; }

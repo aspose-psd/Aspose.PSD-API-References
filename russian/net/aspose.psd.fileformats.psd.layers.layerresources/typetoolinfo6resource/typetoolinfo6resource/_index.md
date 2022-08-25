@@ -1,14 +1,14 @@
 ---
 title: TypeToolInfo6Resource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаTypeToolInfo6Resourceaspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource.
+description: Инициализирует новый экземплярTypeToolInfo6Resourceaspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolinfo6resource/
 ---
 ## TypeToolInfo6Resource constructor
 
-Инициализирует новый экземпляр класса[`TypeToolInfo6Resource`](../../typetoolinfo6resource).
+Инициализирует новый экземпляр[`TypeToolInfo6Resource`](../../typetoolinfo6resource) класс.
 
 ```csharp
 public TypeToolInfo6Resource(ClassID classID, ClassID warpClassID)

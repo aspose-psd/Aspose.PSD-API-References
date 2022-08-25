@@ -1,14 +1,14 @@
 ---
 title: PixelsData
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPixelsDataaspose.psd/pixelsdata.
+description: Инициализирует новый экземплярPixelsDataaspose.psd/pixelsdata класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/pixelsdata/pixelsdata/
 ---
 ## PixelsData() {#constructor}
 
-Инициализирует новый экземпляр класса[`PixelsData`](../../pixelsdata).
+Инициализирует новый экземпляр[`PixelsData`](../../pixelsdata) класс.
 
 ```csharp
 public PixelsData()
@@ -16,7 +16,7 @@ public PixelsData()
 
 ### Примеры
 
-В следующем коде показано, как создать настраиваемый смарт-фильтр с настраиваемым модулем визуализации.
+В следующем коде показано, как создать настраиваемый интеллектуальный фильтр с настраиваемым модулем визуализации.
 
 ```csharp
 [C#]
@@ -110,7 +110,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 ## PixelsData(int[], Rectangle) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PixelsData`](../../pixelsdata).
+Инициализирует новый экземпляр[`PixelsData`](../../pixelsdata) класс.
 
 ```csharp
 public PixelsData(int[] pixels, Rectangle bounds)
@@ -118,8 +118,8 @@ public PixelsData(int[] pixels, Rectangle bounds)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pixels | Int32[] | Данные пикселей. |
-| bounds | Rectangle | Прямоугольник, ограничивающий пиксели. |
+| pixels | Int32[] | Данные о пикселях. |
+| bounds | Rectangle | Пиксели ограничивают прямоугольник. |
 
 ### Примеры
 

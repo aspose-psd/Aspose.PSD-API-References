@@ -1,14 +1,14 @@
 ---
 title: Key
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает ключ ресурса единственного уровня смарт-объекта.
+description: Получает единственный ключ ресурса слоя смартобъекта.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/key/
 ---
 ## SoLeResource.Key property
 
-Получает ключ ресурса единственного уровня смарт-объекта.
+Получает единственный ключ ресурса слоя смарт-объекта.
 
 ```csharp
 public override int Key { get; }

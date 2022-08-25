@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.PSD for .NET API 参考
-description: 获取图层混合范围数据的长度以字节为单位
+description: 以字节为单位获取图层混合范围数据的长度
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 ---
 ## LayerBlendingRangesData.Length property
 
-获取图层混合范围数据的长度（以字节为单位）。
+以字节为单位获取图层混合范围数据的长度。
 
 ```csharp
 public int Length { get; }

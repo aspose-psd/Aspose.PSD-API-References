@@ -1,14 +1,14 @@
 ---
 title: BezierSegment
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化BezierSegmentaspose.psd.shapesegments/beziersegment类的新实例
+description: 初始化BezierSegmentaspose.psd.shapesegments/beziersegment类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapesegments/beziersegment/beziersegment/
 ---
 ## BezierSegment constructor
 
-初始化[`BezierSegment`](../../beziersegment)类的新实例。
+初始化[`BezierSegment`](../../beziersegment)类.
 
 ```csharp
 public BezierSegment(PointF startPoint, PointF firstControlPoint, PointF secondControlPoint, 

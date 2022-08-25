@@ -3,7 +3,7 @@ title: BritResource
 second_title: Aspose.PSD for .NET API 参考
 description: 类 BritResource亮度/对比度调整层资源
 type: docs
-weight: 2280
+weight: 2320
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 ---
 ## BritResource class
@@ -18,9 +18,9 @@ public class BritResource : AdjustmentLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BritResource](britresource#constructor)() | 初始化[`BritResource`](../britresource)类的新实例。 |
-| [BritResource](britresource#constructor_1)(byte[]) | 初始化[`BritResource`](../britresource)类的新实例。 PSD 格式规范包含以下描述： 2 亮度 2 对比度 2 亮度和对比度的平均值 1 仅实验室颜色 在 CgEd 所在的现代 PSD（CS5 及更高版本）中不使用它。 CgEd 存储信息属性 |
-| [BritResource](britresource#constructor_2)(short, short, short, bool) | 初始化[`BritResource`](../britresource)类的新实例。 |
+| [BritResource](britresource#constructor)() | 初始化[`BritResource`](../britresource)类. |
+| [BritResource](britresource#constructor_1)(byte[]) | 初始化[`BritResource`](../britresource)class. PSD 格式规范包含以下描述： 2 Brightness 2 Contrast 2 亮度和对比度的平均值 1 Lab color only 它不用于 CgEd 所在的现代 PSD（CS5 及更高版本）。 CgEd 存储信息 properties |
+| [BritResource](britresource#constructor_2)(short, short, short, bool) | 初始化[`BritResource`](../britresource)类. |
 
 ## 特性
 
@@ -28,9 +28,9 @@ public class BritResource : AdjustmentLayerResource
 | --- | --- |
 | [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness) { get; set; } | 获取或设置亮度。 |
 | [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast) { get; set; } | 获取或设置对比度。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/key) { get; } | 获取层资源密钥。 |
-| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor) { get; set; } | 获取或设置一个值，表示是否[实验室颜色]。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/key) { get; } | 获取图层资源键。 |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor) { get; set; } | 获取或设置一个值，指示是否[实验室颜色]. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast) { get; set; } | 获取或设置亮度和对比度的平均值。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | 获取签名。 |
@@ -40,7 +40,7 @@ public class BritResource : AdjustmentLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

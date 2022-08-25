@@ -3,7 +3,7 @@ title: Image.ImageOperation
 second_title: Справочник по Aspose.PSD для .NET API
 description: Операции с изображениями
 type: docs
-weight: 4480
+weight: 4530
 url: /ru/net/aspose.psd/image.imageoperation/
 ---
 ## Image.ImageOperation enumeration
@@ -20,20 +20,20 @@ protected enum ImageOperation
 | --- | --- | --- |
 | Resize | `0` | Операция изменения размера |
 | ResizeWidthProportionally | `1` | Операция пропорционального изменения ширины |
-| ResizeHeightProportionally | `2` | Операция пропорционального изменения высоты |
+| ResizeHeightProportionally | `2` | Изменить размер высоты пропорционально operation |
 | Filter | `3` | Операция фильтра |
-| LoadPixels | `4` | Операция загрузки пикселей |
+| LoadPixels | `4` | Загрузить пиксели operation |
 | SavePixels | `5` | Операция сохранения пикселей |
-| Crop | `6` | Обрезка |
-| BinarizeFixed | `7` | Бинаризация фиксированной операции |
+| Crop | `6` | Операция по обрезке |
+| BinarizeFixed | `7` | Бинаризовать фиксированную операцию |
 | BinarizeOtsu | `8` | Бинаризация операции otsu |
 | BinarizeBradley | `9` | Бинаризация операции Брэдли |
-| Grayscale | `10` | Оттенки серого |
+| Grayscale | `10` | Операция в оттенках серого |
 | AdjustBrightness | `11` | Операция регулировки яркости |
 | AdjustContrast | `12` | Операция регулировки контрастности |
 | AdjustGamma | `13` | Операция регулировки гаммы |
 | Rotate | `14` | Операция поворота |
-| RotateFlip | `15` | Операция переворота |
+| RotateFlip | `15` | Операция поворота флипа |
 
 ### Смотрите также
 

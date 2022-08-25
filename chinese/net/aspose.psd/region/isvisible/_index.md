@@ -1,14 +1,14 @@
 ---
 title: IsVisible
 second_title: Aspose.PSD for .NET API 参考
-description: 测试指定点是否包含在此Regionaspose.psd/region中
+description: 测试指定的点是否包含在这个Regionaspose.psd/region .
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/region/isvisible/
 ---
 ## IsVisible(float, float) {#isvisible_11}
 
-测试指定点是否包含在此[`Region`](../../region)中。
+测试指定的点是否包含在这个[`Region`](../../region) .
 
 ```csharp
 public bool IsVisible(float x, float y)
@@ -21,7 +21,7 @@ public bool IsVisible(float x, float y)
 
 ### 返回值
 
-当指定点包含在此[`Region`](../../region)中时为真；否则为假。
+当指定点包含在此范围内时为真[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public bool IsVisible(float x, float y)
 
 ## IsVisible(PointF) {#isvisible_2}
 
-测试指定的[`PointF`](../../pointf)结构是否包含在此[`Region`](../../region)中。
+测试是否指定[`PointF`](../../pointf)结构包含在这个[`Region`](../../region) .
 
 ```csharp
 public bool IsVisible(PointF point)
@@ -41,11 +41,11 @@ public bool IsVisible(PointF point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | 要测试的[`PointF`](../../pointf)结构。 |
+| point | PointF | 这[`PointF`](../../pointf)结构进行测试。 |
 
 ### 返回值
 
-当*point*包含在此[`Region`](../../region)中时为真；否则为假。
+真时*point*包含在这个[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -58,7 +58,7 @@ public bool IsVisible(PointF point)
 
 ## IsVisible(float, float, Graphics) {#isvisible_12}
 
-使用指定的Graphics@绘制时，测试指定点是否包含在此[`Region`](../../region)中@.
+测试指定的点是否包含在这个[`Region`](../../region)使用指定绘制时[`Graphics`](../../graphics) .
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics g)
@@ -68,11 +68,11 @@ public bool IsVisible(float x, float y, Graphics g)
 | --- | --- | --- |
 | x | Single | 要测试的点的 x 坐标。 |
 | y | Single | 要测试的点的 y 坐标。 |
-| g | Graphics | 表示图形上下文的[`Graphics`](../../graphics)。 |
+| g | Graphics | 一个[`Graphics`](../../graphics)表示图形上下文。 |
 
 ### 返回值
 
-当指定点包含在此[`Region`](../../region)中时为真；否则为假。
+当指定点包含在此范围内时为真[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -85,7 +85,7 @@ public bool IsVisible(float x, float y, Graphics g)
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-测试指定的[`PointF`](../../pointf)结构是否包含在使用指定[`Graphics`](../../graphics)。
+测试是否指定[`PointF`](../../pointf)结构包含在这个[`Region`](../../region)使用指定绘制时[`Graphics`](../../graphics) .
 
 ```csharp
 public bool IsVisible(PointF point, Graphics g)
@@ -93,12 +93,12 @@ public bool IsVisible(PointF point, Graphics g)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | 要测试的[`PointF`](../../pointf)结构。 |
-| g | Graphics | 表示图形上下文的[`Graphics`](../../graphics)。 |
+| point | PointF | 这[`PointF`](../../pointf)结构进行测试。 |
+| g | Graphics | 一个[`Graphics`](../../graphics)表示图形上下文。 |
 
 ### 返回值
 
-当*point*包含在此[`Region`](../../region)中时为真；否则为假。
+真时*point*包含在这个[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -112,7 +112,7 @@ public bool IsVisible(PointF point, Graphics g)
 
 ## IsVisible(float, float, float, float) {#isvisible_13}
 
-测试指定矩形的任何部分是否包含在此[`Region`](../../region)中。
+测试指定矩形的任何部分是否包含在此[`Region`](../../region) .
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height)
@@ -127,7 +127,7 @@ public bool IsVisible(float x, float y, float width, float height)
 
 ### 返回值
 
-当指定矩形的任何部分包含在此[`Region`](../../region)对象中时为真；否则为假。
+当指定矩形的任何部分包含在此范围内时为真[`Region`](../../region)目的;否则为假。
 
 ### 也可以看看
 
@@ -139,7 +139,7 @@ public bool IsVisible(float x, float y, float width, float height)
 
 ## IsVisible(RectangleF) {#isvisible_6}
 
-测试指定[`RectangleF`](../../rectanglef)结构的任何部分是否包含在此[`Region`](../../region)中。
+测试指定的任何部分是否[`RectangleF`](../../rectanglef)结构包含在这个[`Region`](../../region) .
 
 ```csharp
 public bool IsVisible(RectangleF rect)
@@ -147,11 +147,11 @@ public bool IsVisible(RectangleF rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | 要测试的[`RectangleF`](../../rectanglef)结构。 |
+| rect | RectangleF | 这[`RectangleF`](../../rectanglef)结构进行测试。 |
 
 ### 返回值
 
-当*rect*的任何部分包含在此[`Region`](../../region)中时为真；否则为假。
+true 当任何部分*rect*包含在这个[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -164,7 +164,7 @@ public bool IsVisible(RectangleF rect)
 
 ## IsVisible(float, float, float, float, Graphics) {#isvisible_14}
 
-在使用指定的PSD绘制时，测试指定矩形的任何部分是否包含在此[`Region`](../../region) 中.图形。
+测试指定矩形的任何部分是否包含在此[`Region`](../../region)使用指定绘制时[`Graphics`](../../graphics) .
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height, Graphics g)
@@ -176,11 +176,11 @@ public bool IsVisible(float x, float y, float width, float height, Graphics g)
 | y | Single | 要测试的矩形左上角的 y 坐标。 |
 | width | Single | 要测试的矩形的宽度。 |
 | height | Single | 要测试的矩形的高度。 |
-| g | Graphics | 表示图形上下文的[`Graphics`](../../graphics)。 |
+| g | Graphics | 一个[`Graphics`](../../graphics)表示图形上下文。 |
 
 ### 返回值
 
-当指定矩形的任何部分包含在此[`Region`](../../region)中时为真；否则为假。
+当指定矩形的任何部分包含在此范围内时为真[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -193,7 +193,7 @@ public bool IsVisible(float x, float y, float width, float height, Graphics g)
 
 ## IsVisible(RectangleF, Graphics) {#isvisible_7}
 
-测试指定[`RectangleF`](../../rectanglef)结构的任何部分是否包含在此[`Region`](../../region)中使用指定的[`Graphics`](../../graphics)绘制。
+测试指定的任何部分是否[`RectangleF`](../../rectanglef)结构包含在这个[`Region`](../../region)使用指定绘制时[`Graphics`](../../graphics) .
 
 ```csharp
 public bool IsVisible(RectangleF rect, Graphics g)
@@ -201,12 +201,12 @@ public bool IsVisible(RectangleF rect, Graphics g)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | 要测试的[`RectangleF`](../../rectanglef)结构。 |
-| g | Graphics | 表示图形上下文的[`Graphics`](../../graphics)。 |
+| rect | RectangleF | 这[`RectangleF`](../../rectanglef)结构进行测试。 |
+| g | Graphics | 一个[`Graphics`](../../graphics)表示图形上下文。 |
 
 ### 返回值
 
-当*rect*包含在这个[`Region`](../../region)中时为真；否则为假。
+真时*rect*包含在这个[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -220,7 +220,7 @@ public bool IsVisible(RectangleF rect, Graphics g)
 
 ## IsVisible(int, int, Graphics) {#isvisible_8}
 
-在使用指定的Graphics绘制时，测试指定的点是否包含在此[`Region`](../../region) 对象中目的。
+测试指定的点是否包含在这个[`Region`](../../region)使用指定的对象绘制时[`Graphics`](../../graphics)对象.
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics g)
@@ -230,11 +230,11 @@ public bool IsVisible(int x, int y, Graphics g)
 | --- | --- | --- |
 | x | Int32 | 要测试的点的 x 坐标。 |
 | y | Int32 | 要测试的点的 y 坐标。 |
-| g | Graphics | 表示图形上下文的[`Graphics`](../../graphics)。 |
+| g | Graphics | 一个[`Graphics`](../../graphics)表示图形上下文。 |
 
 ### 返回值
 
-当指定点包含在此[`Region`](../../region)中时为真；否则为假。
+当指定点包含在此范围内时为真[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -247,7 +247,7 @@ public bool IsVisible(int x, int y, Graphics g)
 
 ## IsVisible(Point) {#isvisible}
 
-测试指定的[`Point`](../../point)结构是否包含在此[`Region`](../../region)中。
+测试是否指定[`Point`](../../point)结构包含在这个[`Region`](../../region) .
 
 ```csharp
 public bool IsVisible(Point point)
@@ -255,11 +255,11 @@ public bool IsVisible(Point point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | Point | 要测试的[`Point`](../../point)结构。 |
+| point | Point | 这[`Point`](../../point)结构进行测试。 |
 
 ### 返回值
 
-当*point*包含在此[`Region`](../../region)中时为真；否则为假。
+真时*point*包含在这个[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -272,7 +272,7 @@ public bool IsVisible(Point point)
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-测试指定的[`Point`](../../point)结构是否包含在使用指定[`Graphics`](../../graphics)。
+测试是否指定[`Point`](../../point)结构包含在这个[`Region`](../../region)使用指定绘制时[`Graphics`](../../graphics) .
 
 ```csharp
 public bool IsVisible(Point point, Graphics g)
@@ -280,12 +280,12 @@ public bool IsVisible(Point point, Graphics g)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | Point | 要测试的[`Point`](../../point)结构。 |
-| g | Graphics | 表示图形上下文的[`Graphics`](../../graphics)。 |
+| point | Point | 这[`Point`](../../point)结构进行测试。 |
+| g | Graphics | 一个[`Graphics`](../../graphics)表示图形上下文。 |
 
 ### 返回值
 
-当*point*包含在此[`Region`](../../region)中时为真；否则为假。
+真时*point*包含在这个[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -299,7 +299,7 @@ public bool IsVisible(Point point, Graphics g)
 
 ## IsVisible(int, int, int, int) {#isvisible_9}
 
-测试指定矩形的任何部分是否包含在此[`Region`](../../region)中。
+测试指定矩形的任何部分是否包含在此[`Region`](../../region) .
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height)
@@ -314,7 +314,7 @@ public bool IsVisible(int x, int y, int width, int height)
 
 ### 返回值
 
-当指定矩形的任何部分包含在此[`Region`](../../region)中时为真；否则为假。
+当指定矩形的任何部分包含在此范围内时为真[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -326,7 +326,7 @@ public bool IsVisible(int x, int y, int width, int height)
 
 ## IsVisible(Rectangle) {#isvisible_4}
 
-测试指定[`Rectangle`](../../rectangle)结构的任何部分是否包含在此[`Region`](../../region)中。
+测试指定的任何部分是否[`Rectangle`](../../rectangle)结构包含在这个[`Region`](../../region) .
 
 ```csharp
 public bool IsVisible(Rectangle rect)
@@ -334,11 +334,11 @@ public bool IsVisible(Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 要测试的[`Rectangle`](../../rectangle)结构。 |
+| rect | Rectangle | 这[`Rectangle`](../../rectangle)结构进行测试。 |
 
 ### 返回值
 
-当*rect*的任何部分包含在此[`Region`](../../region)中时，此方法返回 true；否则为假。
+当任何部分*rect*包含在这个[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -351,7 +351,7 @@ public bool IsVisible(Rectangle rect)
 
 ## IsVisible(int, int, int, int, Graphics) {#isvisible_10}
 
-在使用指定的PSD绘制时，测试指定矩形的任何部分是否包含在此[`Region`](../../region) 中.图形。
+测试指定矩形的任何部分是否包含在此[`Region`](../../region)使用指定绘制时[`Graphics`](../../graphics) .
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height, Graphics g)
@@ -363,11 +363,11 @@ public bool IsVisible(int x, int y, int width, int height, Graphics g)
 | y | Int32 | 要测试的矩形左上角的 y 坐标。 |
 | width | Int32 | 要测试的矩形的宽度。 |
 | height | Int32 | 要测试的矩形的高度。 |
-| g | Graphics | 表示图形上下文的[`Graphics`](../../graphics)。 |
+| g | Graphics | 一个[`Graphics`](../../graphics)表示图形上下文。 |
 
 ### 返回值
 
-当指定矩形的任何部分包含在此[`Region`](../../region)中时为真；否则为假。
+当指定矩形的任何部分包含在此范围内时为真[`Region`](../../region);否则为假。
 
 ### 也可以看看
 
@@ -380,7 +380,7 @@ public bool IsVisible(int x, int y, int width, int height, Graphics g)
 
 ## IsVisible(Rectangle, Graphics) {#isvisible_5}
 
-测试指定[`Rectangle`](../../rectangle)结构的任何部分是否包含在此[`Region`](../../region)中使用指定的[`Graphics`](../../graphics)绘制。
+测试指定的任何部分是否[`Rectangle`](../../rectangle)结构包含在这个[`Region`](../../region)使用指定绘制时[`Graphics`](../../graphics) .
 
 ```csharp
 public bool IsVisible(Rectangle rect, Graphics g)
@@ -388,12 +388,12 @@ public bool IsVisible(Rectangle rect, Graphics g)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 要测试的[`Rectangle`](../../rectangle)结构。 |
-| g | Graphics | 表示图形上下文的[`Graphics`](../../graphics)。 |
+| rect | Rectangle | 这[`Rectangle`](../../rectangle)结构进行测试。 |
+| g | Graphics | 一个[`Graphics`](../../graphics)表示图形上下文。 |
 
 ### 返回值
 
-当*rect*的任何部分包含在此[`Region`](../../region)中时为真；否则为假。
+true 当*rect*包含在这个[`Region`](../../region);否则为假。
 
 ### 也可以看看
 

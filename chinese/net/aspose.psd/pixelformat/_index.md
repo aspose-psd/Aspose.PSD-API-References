@@ -3,7 +3,7 @@ title: PixelFormat
 second_title: Aspose.PSD for .NET API 参考
 description: 像素数据格式的实际含义
 type: docs
-weight: 5120
+weight: 5170
 url: /zh/net/aspose.psd/pixelformat/
 ---
 ## PixelFormat enumeration
@@ -23,7 +23,7 @@ public enum PixelFormat
 | Rgb | `2` | RGB 颜色空间。 |
 | YCbCr | `3` | YCbCr 色彩空间。 |
 | Cmyk | `4` | CMYK 颜色空间。 |
-| Ycck | `5` | YCCK 颜色空间。 |
+| Ycck | `5` | YCCK 色彩空间。 |
 | CieLab | `6` | CIE 实验室色彩空间。 |
 
 ### 也可以看看

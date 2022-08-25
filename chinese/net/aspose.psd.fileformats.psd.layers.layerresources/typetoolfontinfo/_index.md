@@ -1,14 +1,14 @@
 ---
 title: TypeToolFontInfo
 second_title: Aspose.PSD for .NET API 参考
-description: 包含有关文字工具字体的信息
+description: 包含有关类型工具字体的信息
 type: docs
-weight: 2970
+weight: 3020
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/
 ---
 ## TypeToolFontInfo class
 
-包含有关文字工具字体的信息。
+包含有关类型工具字体的信息。
 
 ```csharp
 public class TypeToolFontInfo
@@ -38,7 +38,7 @@ public class TypeToolFontInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save)(StreamContainer) | 将[`TypeToolFontInfo`](../typetoolfontinfo)信息保存到指定的流容器。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save)(StreamContainer) | 保存[`TypeToolFontInfo`](../typetoolfontinfo)信息到指定的流容器。 |
 
 ### 也可以看看
 

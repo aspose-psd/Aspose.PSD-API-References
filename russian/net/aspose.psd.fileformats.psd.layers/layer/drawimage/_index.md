@@ -23,7 +23,7 @@ public void DrawImage(Point location, RasterImage image)
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Местоположение должно быть неотрицательным |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Местоположение должно быть неотрицательным. |
 
 ### Смотрите также
 

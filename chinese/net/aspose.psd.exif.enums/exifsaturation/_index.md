@@ -1,14 +1,14 @@
 ---
 title: ExifSaturation
 second_title: Aspose.PSD for .NET API 参考
-description: exif 饱和枚举
+description: exif 饱和枚举.
 type: docs
 weight: 920
 url: /zh/net/aspose.psd.exif.enums/exifsaturation/
 ---
 ## ExifSaturation enumeration
 
-exif 饱和枚举。
+exif 饱和枚举.
 
 ```csharp
 public enum ExifSaturation

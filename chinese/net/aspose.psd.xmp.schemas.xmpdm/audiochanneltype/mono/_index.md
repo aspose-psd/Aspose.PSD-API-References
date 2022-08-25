@@ -1,14 +1,14 @@
 ---
 title: Mono
 second_title: Aspose.PSD for .NET API 参考
-description: 获取单声道
+description: 获取单声道音频通道
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 ---
 ## AudioChannelType.Mono property
 
-获取单声道。
+获取单声道音频通道。
 
 ```csharp
 public static AudioChannelType Mono { get; }

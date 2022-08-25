@@ -1,14 +1,14 @@
 ---
 title: IsOpen
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置打开的文件夹 如果设置为 true 则组将在启动时处于打开状态否则处于最小化状态
+description: 获取或设置文件夹是否打开 如果设置为真的比组将在启动时处于打开状态否则处于最小化状态
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers/layergroup/isopen/
 ---
 ## LayerGroup.IsOpen property
 
-获取或设置打开的文件夹 如果设置为` true` 则组将在启动时处于打开状态，否则处于最小化状态。
+获取或设置文件夹是否打开 如果设置为`真的`比组将在启动时处于打开状态，否则处于最小化状态。
 
 ```csharp
 public bool IsOpen { get; set; }
