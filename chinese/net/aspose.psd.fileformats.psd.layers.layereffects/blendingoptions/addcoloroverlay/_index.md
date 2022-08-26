@@ -1,14 +1,14 @@
 ---
 title: AddColorOverlay
 second_title: Aspose.PSD for .NET API 参考
-description: 添加颜色叠加
+description: 添加颜色叠加层
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/
 ---
 ## BlendingOptions.AddColorOverlay method
 
-添加颜色叠加。
+添加颜色叠加层。
 
 ```csharp
 public ColorOverlayEffect AddColorOverlay()
@@ -16,7 +16,7 @@ public ColorOverlayEffect AddColorOverlay()
 
 ### 返回值
 
-已创建[`ColorOverlayEffect`](../../coloroverlayeffect)对象
+已创建[`ColorOverlayEffect`](../../coloroverlayeffect)object
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: ImageCreatorsRegistry
 second_title: Aspose.PSD for .NET API 参考
 description: 表示图像创建者注册表
 type: docs
-weight: 4500
+weight: 4550
 url: /zh/net/aspose.psd/imagecreatorsregistry/
 ---
 ## ImageCreatorsRegistry class

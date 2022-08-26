@@ -3,7 +3,7 @@ title: IRasterImagePixelLoader
 second_title: Справочник по Aspose.PSD для .NET API
 description: Пиксельный загрузчик растрового изображения.
 type: docs
-weight: 4450
+weight: 4500
 url: /ru/net/aspose.psd/irasterimagepixelloader/
 ---
 ## IRasterImagePixelLoader interface

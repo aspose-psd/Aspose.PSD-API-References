@@ -3,7 +3,7 @@ title: ShapeSegment
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет сегмент формы. Сегмент  это линия или кривая соединяющая две точки.
 type: docs
-weight: 5310
+weight: 5360
 url: /ru/net/aspose.psd/shapesegment/
 ---
 ## ShapeSegment class

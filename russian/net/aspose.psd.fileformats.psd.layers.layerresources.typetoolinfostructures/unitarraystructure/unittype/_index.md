@@ -1,14 +1,14 @@
 ---
 title: UnitType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает тип единицы измерения для значенийUnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure.
+description: Получает или задает тип единицы измеренияUnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure значения.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
 ## UnitArrayStructure.UnitType property
 
-Получает или задает тип единицы измерения для значений[`UnitArrayStructure`](../../unitarraystructure).
+Получает или задает тип единицы измерения[`UnitArrayStructure`](../../unitarraystructure) значения.
 
 ```csharp
 public UnitTypes UnitType { get; set; }

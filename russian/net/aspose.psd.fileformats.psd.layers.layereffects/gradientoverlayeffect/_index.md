@@ -1,14 +1,14 @@
 ---
 title: GradientOverlayEffect
 second_title: Справочник по Aspose.PSD для .NET API
-description: Эффект слоя градиента
+description: Эффект градиентного слоя
 type: docs
-weight: 2070
+weight: 2110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
 ## GradientOverlayEffect class
 
-Эффект слоя градиента
+Эффект градиентного слоя
 
 ```csharp
 public class GradientOverlayEffect : ILayerEffect
@@ -26,7 +26,7 @@ public class GradientOverlayEffect : ILayerEffect
 
 ### Примеры
 
-Следующий код демонстрирует поддержку градиента эффект наложения.
+Следующий код демонстрирует поддержку эффекта наложения градиента.
 
 ```csharp
 [C#]

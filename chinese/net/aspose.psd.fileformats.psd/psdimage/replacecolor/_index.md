@@ -1,14 +1,14 @@
 ---
 title: ReplaceColor
 second_title: Aspose.PSD for .NET API 参考
-description: 用允许的差异将一种颜色替换为另一种颜色并保留原始 Alpha 值以保存平滑边缘
+description: 用允许的差异将一种颜色替换为另一种颜色并保留原始 alpha 值以保存平滑边缘
 type: docs
 weight: 570
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/replacecolor/
 ---
 ## PsdImage.ReplaceColor method
 
-用允许的差异将一种颜色替换为另一种颜色，并保留原始 Alpha 值以保存平滑边缘。
+用允许的差异将一种颜色替换为另一种颜色，并保留原始 alpha 值以保存平滑边缘。
 
 ```csharp
 public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)

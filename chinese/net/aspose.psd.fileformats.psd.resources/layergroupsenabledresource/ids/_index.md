@@ -1,14 +1,14 @@
 ---
 title: IDs
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 ID
+description: 获取或设置ids.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/ids/
 ---
 ## LayerGroupsEnabledResource.IDs property
 
-获取或设置 ID。
+获取或设置ids.
 
 ```csharp
 public byte[] IDs { get; set; }
@@ -16,7 +16,7 @@ public byte[] IDs { get; set; }
 
 ### 适当的价值
 
-i ds。
+ids.
 
 ### 也可以看看
 

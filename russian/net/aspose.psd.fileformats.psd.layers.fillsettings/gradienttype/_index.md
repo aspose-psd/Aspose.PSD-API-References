@@ -3,7 +3,7 @@ title: GradientType
 second_title: Справочник по Aspose.PSD для .NET API
 description: Тип градиента
 type: docs
-weight: 1920
+weight: 1960
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
 ## GradientType enumeration
@@ -20,10 +20,10 @@ public enum GradientType
 | --- | --- | --- |
 | Linear | `0` | Тип линейного градиента |
 | Radial | `1` | Тип радиального градиента |
-| Angle | `2` | Тип градиента угла |
+| Angle | `2` | Тип углового градиента |
 | Reflected | `3` | Тип отраженного градиента |
-| Diamond | `4` | Алмазный градиент |
-| ShapeBurst | `5` | Тип градиента всплеска формы |
+| Diamond | `4` | Алмазный градиент type |
+| ShapeBurst | `5` | Градиент всплеска формы type |
 
 ### Смотрите также
 

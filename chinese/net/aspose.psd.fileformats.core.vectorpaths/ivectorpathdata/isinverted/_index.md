@@ -16,11 +16,11 @@ public bool IsInverted { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例反转；否则，` false` 。
+`真的`如果这个实例是倒置的；否则，`错误的` .
 
 ### 例子
 
-这个例子演示了 PsdImage.ImageResources 中的“WorkingPathResource”资源的支持，以便正确进行裁剪操作。
+此示例演示了对 PsdImage.ImageResources 中的“WorkingPathResource”资源的支持，以便正确进行裁剪操作。
 
 ```csharp
 [C#]

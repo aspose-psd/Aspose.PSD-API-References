@@ -3,7 +3,7 @@ title: UnknownResource
 second_title: Aspose.PSD for .NET API 参考
 description: 未知资源
 type: docs
-weight: 3220
+weight: 3270
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
 ## UnknownResource class
@@ -18,15 +18,15 @@ public class UnknownResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UnknownResource](unknownresource)(int, int) | 初始化[`UnknownResource`](../unknownresource)类的新实例。 |
+| [UnknownResource](unknownresource)(int, int) | 初始化[`UnknownResource`](../unknownresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data) { get; set; } | 获取或设置数据。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature) { get; } | 获取图层资源签名。 |
 
@@ -35,7 +35,7 @@ public class UnknownResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save)(StreamContainer, int) | 保存指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

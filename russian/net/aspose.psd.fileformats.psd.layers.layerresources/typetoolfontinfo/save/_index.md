@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сохраняет информациюTypeToolFontInfoaspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfoв указанный контейнер потока.
+description: СохраняетTypeToolFontInfoaspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo информация в указанный контейнер потока.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/
 ---
 ## TypeToolFontInfo.Save method
 
-Сохраняет информацию[`TypeToolFontInfo`](../../typetoolfontinfo)в указанный контейнер потока.
+Сохраняет[`TypeToolFontInfo`](../../typetoolfontinfo) информация в указанный контейнер потока.
 
 ```csharp
 public void Save(StreamContainer streamContainer)

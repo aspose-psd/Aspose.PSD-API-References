@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Выполняет явное преобразование изStreamContaineraspose.psd/streamcontainerвStream.
+description: Выполняет явное преобразование изStreamContaineraspose.psd/streamcontainer кStream .
 type: docs
 weight: 210
 url: /ru/net/aspose.psd/streamcontainer/op_explicit/
 ---
 ## StreamContainer Explicit operator
 
-Выполняет явное преобразование из[`StreamContainer`](../../streamcontainer)вStream.
+Выполняет явное преобразование из[`StreamContainer`](../../streamcontainer) кStream .
 
 ```csharp
 public static explicit operator Stream(StreamContainer streamContainer)

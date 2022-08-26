@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一个值该值指示Widthaspose.psd/rectanglef/width还是Heightaspose.psd/rectanglef/height属性这个RectangleFaspose.psd/rectanglef的值为零
+description: 获取一个值该值指示是否Widthaspose.psd/rectanglef/width或者Heightaspose.psd/rectanglef/height这个属性RectangleFaspose.psd/rectanglef值为零
 type: docs
 weight: 100
 url: /zh/net/aspose.psd/rectanglef/isempty/
 ---
 ## RectangleF.IsEmpty property
 
-获取一个值，该值指示[`Width`](../width)还是[`Height`](../height)属性这个[`RectangleF`](../../rectanglef)的值为零。
+获取一个值，该值指示是否[`Width`](../width)或者[`Height`](../height)这个属性[`RectangleF`](../../rectanglef)值为零。
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,7 +16,7 @@ public bool IsEmpty { get; }
 
 ### 返回值
 
-如果[`Width`](../width)或RectangleF此属性返回true此[`RectangleF`](../../rectanglef) 的.Height属性的值为零；否则为假。
+如果[`Width`](../width)或者[`Height`](../height)这个属性[`RectangleF`](../../rectanglef)值为零；否则为假。
 
 ### 也可以看看
 

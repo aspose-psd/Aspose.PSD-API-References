@@ -1,14 +1,14 @@
 ---
 title: Reset
 second_title: Справочник по Aspose.PSD для .NET API
-description: Очищает путь к графике и устанавливаетFillModeaspose.psd/fillmodeвАльтернативный.
+description: Очищает путь к графике и устанавливаетFillModeaspose.psd/fillmode кAlternate .
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/graphicspath/reset/
 ---
 ## GraphicsPath.Reset method
 
-Очищает путь к графике и устанавливает[`FillMode`](../../fillmode)вАльтернативный.
+Очищает путь к графике и устанавливает[`FillMode`](../../fillmode) кAlternate .
 
 ```csharp
 public void Reset()

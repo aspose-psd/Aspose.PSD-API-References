@@ -1,14 +1,14 @@
 ---
 title: Clear
 second_title: Aspose.PSD for .NET API 参考
-description: 清除集合中的所有XmpPackageaspose.psd.xmp/xmppackage
+description: 全部清除XmpPackageaspose.psd.xmp/xmppackage内部集合.
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp/xmppackagebasecollection/clear/
 ---
 ## XmpPackageBaseCollection.Clear method
 
-清除集合中的所有[`XmpPackage`](../../xmppackage)。
+全部清除[`XmpPackage`](../../xmppackage)内部集合.
 
 ```csharp
 public void Clear()

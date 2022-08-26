@@ -1,14 +1,14 @@
 ---
 title: XmpTrailerPi
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаXmpTrailerPiaspose.psd.xmp/xmptrailerpi.
+description: Инициализирует новый экземплярXmpTrailerPiaspose.psd.xmp/xmptrailerpi класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmptrailerpi/xmptrailerpi/
 ---
 ## XmpTrailerPi(bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`XmpTrailerPi`](../../xmptrailerpi).
+Инициализирует новый экземпляр[`XmpTrailerPi`](../../xmptrailerpi) класс.
 
 ```csharp
 public XmpTrailerPi(bool isWritable)
@@ -28,7 +28,7 @@ public XmpTrailerPi(bool isWritable)
 
 ## XmpTrailerPi() {#constructor}
 
-Инициализирует новый экземпляр класса[`XmpTrailerPi`](../../xmptrailerpi).
+Инициализирует новый экземпляр[`XmpTrailerPi`](../../xmptrailerpi) класс.
 
 ```csharp
 public XmpTrailerPi()

@@ -17,13 +17,13 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Контейнер потока. |
-| psdVersion | Int32 | PSD-версия. |
+| psdVersion | Int32 | Версия psd. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| NotImplementedException | Не реализовано сохранение 32-битных каналов |
+| NotImplementedException | Сохранение 32 битных каналов не реализовано |
 
 ### Смотрите также
 

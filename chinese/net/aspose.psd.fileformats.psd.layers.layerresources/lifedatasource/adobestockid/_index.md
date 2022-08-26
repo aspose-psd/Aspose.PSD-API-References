@@ -1,14 +1,14 @@
 ---
 title: AdobeStockId
 second_title: Aspose.PSD for .NET API 参考
-description: 为 Adobe Photoshop CC Libraries 获取或设置图形库 AdobeStockId
+description: 获取或设置图形库 AdobeStockId用于 Adobe Photoshop CC Libraries
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/
 ---
 ## LiFeDataSource.AdobeStockId property
 
-为 Adobe® Photoshop® CC Libraries 获取或设置图形库 AdobeStockId。
+获取或设置图形库 AdobeStockId，用于 Adobe® Photoshop® CC Libraries。
 
 ```csharp
 public string AdobeStockId { get; set; }
@@ -16,13 +16,13 @@ public string AdobeStockId { get; set; }
 
 ### 适当的价值
 
-Adobe Stock 标识符图形库。
+图形库 Adobe Stock Identifier.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 AdobeStockId 属性，它仅适用于 IsLibrary 时的 liFE 数据源为真 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 无法访问 AdobeStockId 属性，当 IsLibrary 为 true 时，该属性仅适用于 liFE 数据源 |
 
 ### 例子
 

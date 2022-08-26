@@ -1,14 +1,14 @@
 ---
 title: BezierKnotRecord
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化BezierKnotRecordaspose.psd.fileformats.core.vectorpaths/bezierknotrecord类的新实例
+description: 初始化BezierKnotRecordaspose.psd.fileformats.core.vectorpaths/bezierknotrecord类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/bezierknotrecord/
 ---
 ## BezierKnotRecord() {#constructor}
 
-初始化[`BezierKnotRecord`](../../bezierknotrecord)类的新实例。
+初始化[`BezierKnotRecord`](../../bezierknotrecord)类.
 
 ```csharp
 public BezierKnotRecord()
@@ -16,7 +16,7 @@ public BezierKnotRecord()
 
 ### 例子
 
-以下代码示例提供了用于操作矢量路径对象的类，并演示了如何使用这些类。
+下面的代码示例提供了用于操作矢量路径对象的类，并演示了如何使用这些类。
 
 ```csharp
 [C#]
@@ -52,7 +52,7 @@ public static class VectorDataProvider
     /// 创建 <see cref="VectorPath"/>基于来自输入层的资源的实例。
     /// </summary>
     /// <param name="psdLayer">psd图层。</param>
-    /// <returns><see cref="VectorPath"/>实例基于来自输入层的资源。</returns>
+    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -205,7 +205,7 @@ public static class VectorDataProvider
     /// </summary>
     /// <param name="psdLayer">psd图层。</param>
     /// <param name="createIfNotExist">如果资源不存在，那么对于 <see cref="true"/>创建一个新资源，否则返回 <see cref="null"/>。</param>
-    /// <returns><see cref="VectorPathDataResource"/>资源。</returns>
+    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -231,7 +231,7 @@ public static class VectorDataProvider
     /// </summary>
     /// <param name="psdLayer">psd图层。</param>
     /// <param name="createIfNotExist">如果资源不存在，那么对于 <see cref="true"/>创建一个新资源，否则返回 <see cref="null"/>。</param>
-    /// <returns><see cref="VogkResource"/>资源。</returns>
+    /// <returns>The <see cref="VogkResource"/> resource.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -257,7 +257,7 @@ public static class VectorDataProvider
     /// </summary>
     /// <param name="psdLayer">psd图层。</param>
     /// <param name="createIfNotExist">如果资源不存在，那么对于 <see cref="true"/>创建一个新资源，否则返回 <see cref="null"/>。</param>
-    /// <returns><see cref="SoCoResource"/>资源。</returns>
+    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -370,7 +370,7 @@ public class BezierKnot
     /// </summary>
     /// <param name="isClosed">表示这个结是否是闭合的形状。</param>
     /// <param name="imageSize">校正转换点坐标的图像大小。</param>
-    /// <returns><see cref="BezierKnotRecord"/> 的实例基于此实例。</returns>
+    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -403,7 +403,7 @@ public class BezierKnot
     /// </summary>
     /// <param name="point">具有资源值的点。</param>
     /// <param name="imageSize">校正转换点坐标的图像大小。</param>
-    /// <returns>转换为法线的点。</returns>
+    /// <returns>The converted to normal point.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
@@ -414,7 +414,7 @@ public class BezierKnot
     /// </summary>
     /// <param name="point">点。</param>
     /// <param name="imageSize">校正转换点坐标的图像大小。</param>
-    /// <returns>具有资源值的点。</returns>
+    /// <returns>The point with values for resource.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -477,7 +477,7 @@ public class PathShape
     /// 创建 <see cref="VectorPathRecord"/>基于此实例的记录。
     /// </summary>
     /// <param name="imageSize">校正转换点坐标的图像大小。</param>
-    /// <returns>返回一个 <see cref="LengthRecord"/>和 <见 cref="BezierKnotRecord"/>对于此实例中的每个点。</returns>
+    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -645,7 +645,7 @@ public class VectorPath
 
 ## BezierKnotRecord(byte[]) {#constructor_1}
 
-初始化[`BezierKnotRecord`](../../bezierknotrecord)类的新实例。
+初始化[`BezierKnotRecord`](../../bezierknotrecord)类.
 
 ```csharp
 public BezierKnotRecord(byte[] data)

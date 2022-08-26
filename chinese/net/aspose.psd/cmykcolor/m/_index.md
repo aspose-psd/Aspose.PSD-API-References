@@ -1,14 +1,14 @@
 ---
 title: M
 second_title: Aspose.PSD for .NET API 参考
-description: 获取此Coloraspose.psd/color结构的洋红色分量值
+description: 获取这个的洋红色分量值Coloraspose.psd/color结构.
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/cmykcolor/m/
 ---
 ## CmykColor.M property
 
-获取此[`Color`](../../color)结构的洋红色分量值。
+获取这个的洋红色分量值[`Color`](../../color)结构.
 
 ```csharp
 public byte M { get; }
@@ -16,7 +16,7 @@ public byte M { get; }
 
 ### 适当的价值
 
-[`Color`](../../color)的洋红色分量值。
+的洋红色分量值[`Color`](../../color) .
 
 ### 也可以看看
 

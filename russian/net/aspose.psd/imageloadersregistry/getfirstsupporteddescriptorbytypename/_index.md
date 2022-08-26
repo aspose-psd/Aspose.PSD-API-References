@@ -1,14 +1,14 @@
 ---
 title: GetFirstSupportedDescriptorByTypeName
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает первый поддерживаемый дескриптор по имени типа.
+description: Получает первый поддерживаемый дескриптор по имени его типа.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/
 ---
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Получает первый поддерживаемый дескриптор по имени типа.
+Получает первый поддерживаемый дескриптор по имени его типа.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(

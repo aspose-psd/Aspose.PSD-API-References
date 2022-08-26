@@ -22,8 +22,8 @@ public Layer ActiveLayer { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception) | Активный слой и слои в изображении отсутствуют. |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Активный слой не может быть установлен, так как он принадлежит другому изображению. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception) | В изображении нет активного слоя и слоев. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Активный слой нельзя установить, так как он принадлежит другому изображению. |
 
 ### Смотрите также
 

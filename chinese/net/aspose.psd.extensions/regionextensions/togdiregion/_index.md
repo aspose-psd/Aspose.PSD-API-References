@@ -1,14 +1,14 @@
 ---
 title: ToGdiRegion
 second_title: Aspose.PSD for .NET API 参考
-description: 将Regionaspose.psd/region转换为Region
+description: 转换Regionaspose.psd/region到Region .
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/regionextensions/togdiregion/
 ---
 ## RegionExtensions.ToGdiRegion method
 
-将[`Region`](../../../aspose.psd/region)转换为Region。
+转换[`Region`](../../../aspose.psd/region)到Region .
 
 ```csharp
 public static Region ToGdiRegion(Region region)
@@ -16,11 +16,11 @@ public static Region ToGdiRegion(Region region)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | [`Region`](../../../aspose.psd/region)要转换。 |
+| region | Region | 这[`Region`](../../../aspose.psd/region)转换。 |
 
 ### 返回值
 
-转换后的Region。
+转换的Region.
 
 ### 也可以看看
 

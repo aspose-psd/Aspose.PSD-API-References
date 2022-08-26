@@ -16,7 +16,7 @@ public int BitsPerPixel { get; }
 
 ### 适当的价值
 
-每个像素的位数。
+每像素位数。
 
 ### 也可以看看
 

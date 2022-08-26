@@ -3,7 +3,7 @@ title: FXidResource
 second_title: Aspose.PSD for .NET API 参考
 description: 滤镜效果资源包含智能滤镜的通道用户蒙版和工作表蒙版
 type: docs
-weight: 2400
+weight: 2440
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
 ## FXidResource class
@@ -18,15 +18,15 @@ public sealed class FXidResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FXidResource](fxidresource)(int, int, FilterEffectMaskData[]) | 初始化[`FXidResource`](../fxidresource)类的新实例。 |
+| [FXidResource](fxidresource)(int, int, FilterEffectMaskData[]) | 初始化[`FXidResource`](../fxidresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks) { get; } | 获取滤镜效果蒙版。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks) { get; } | 获取滤镜效果遮罩。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/signature) { get; } | 获取图层资源签名。 |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version) { get; } | 获取版本。 |
@@ -36,14 +36,14 @@ public sealed class FXidResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey) | 类型工具信息键 FEid。 |
-| const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey) | 类型工具信息键 FXid。 |
+| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey) | 类型工具信息键 FEid. |
+| const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey) | 类型工具信息键 FXid. |
 
 ### 例子
 

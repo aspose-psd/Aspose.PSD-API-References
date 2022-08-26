@@ -1,14 +1,14 @@
 ---
 title: VectorShapeTransform
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс матрицы преобразования формы вектора
+description: Определяет матрицу преобразования векторной формы class
 type: docs
 weight: 1460
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/
 ---
 ## VectorShapeTransform class
 
-Определяет класс матрицы преобразования формы вектора
+Определяет матрицу преобразования векторной формы class
 
 ```csharp
 public sealed class VectorShapeTransform
@@ -18,7 +18,7 @@ public sealed class VectorShapeTransform
 
 | Имя | Описание |
 | --- | --- |
-| [VectorShapeTransform](vectorshapetransform)() | Инициализирует новый экземпляр класса[`VectorShapeTransform`](../vectorshapetransform). |
+| [VectorShapeTransform](vectorshapetransform)() | Инициализирует новый экземпляр[`VectorShapeTransform`](../vectorshapetransform) класс. |
 
 ## Характеристики
 
@@ -33,7 +33,7 @@ public sealed class VectorShapeTransform
 
 ### Примеры
 
-Следующий код демонстрирует возможность для изменения размера слоев формы, содержащих векторные пути.
+Следующий код демонстрирует возможность изменения размера слоев формы, содержащих векторные пути.
 
 ```csharp
 [C#]
@@ -55,7 +55,7 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners для ShapeOriginSettings в ресурсе Vogk для FillLayer в файле PSD.
+В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners ShapeOriginSettings в ресурсе Vogk FillLayer в PSD-файле.
 
 ```csharp
 [C#]

@@ -3,7 +3,7 @@ title: IccUntaggedResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Нетегированный ресурс Icc
 type: docs
-weight: 3660
+weight: 3710
 url: /ru/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/
 ---
 ## IccUntaggedResource class
@@ -27,10 +27,10 @@ public sealed class IccUntaggedResource : ResourceBlock
 | override [DataSize](../../aspose.psd.fileformats.psd.resources/iccuntaggedresource/datasize) { get; } | Получает размер данных ресурса в байтах. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/iccuntaggedresource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
 | [Profile](../../aspose.psd.fileformats.psd.resources/iccuntaggedresource/profile) { get; set; } | Получает или задает профиль. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 
 ## Методы
 

@@ -1,14 +1,14 @@
 ---
 title: Interlaced
 second_title: Справочник по Aspose.PSD для .NET API
-description: True если изображение должно быть чересстрочным.
+description: Истинно если изображение должно быть чересстрочным.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.imageoptions/gifoptions/interlaced/
 ---
 ## GifOptions.Interlaced property
 
-True, если изображение должно быть чересстрочным.
+Истинно, если изображение должно быть чересстрочным.
 
 ```csharp
 public bool Interlaced { get; set; }

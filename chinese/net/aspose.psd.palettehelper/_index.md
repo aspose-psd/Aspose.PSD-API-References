@@ -3,7 +3,7 @@ title: Aspose.PSD.PaletteHelper
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含用于将调色板调整为图像颜色的类反之亦然
 type: docs
-weight: 450
+weight: 460
 url: /zh/net/aspose.psd.palettehelper/
 ---
 命名空间包含用于将调色板调整为图像颜色的类，反之亦然。

@@ -1,14 +1,14 @@
 ---
 title: IntegerStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаIntegerStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure.
+description: Инициализирует новый экземплярIntegerStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/integerstructure/
 ---
 ## IntegerStructure constructor
 
-Инициализирует новый экземпляр класса[`IntegerStructure`](../../integerstructure).
+Инициализирует новый экземпляр[`IntegerStructure`](../../integerstructure) класс.
 
 ```csharp
 public IntegerStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public IntegerStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 

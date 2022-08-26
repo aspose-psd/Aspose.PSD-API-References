@@ -1,14 +1,14 @@
 ---
 title: Flash
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置闪光灯
+description: 获取或设置闪存
 type: docs
 weight: 250
 url: /zh/net/aspose.psd.exif/exifdata/flash/
 ---
 ## ExifData.Flash property
 
-获取或设置闪光灯。
+获取或设置闪存。
 
 ```csharp
 public ExifFlash Flash { get; set; }

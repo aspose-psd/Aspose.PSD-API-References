@@ -37,7 +37,7 @@ public virtual void Save(string filePath, ImageOptionsBase options)
 
 ### 例子
 
-以下示例演示如何将 Adobe Illustrator 文件导出为 Aspose.PSD 中的 PDF 格式
+以下示例演示了如何在 Aspose.PSD 中将 Adobe Illustrator 文件导出为 PDF 格式
 
 ```csharp
 [C#]
@@ -80,7 +80,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示如何将 AI 文件导出为 Aspose.PSD 中的 PSD 和 PNG 格式
+以下示例演示了如何在 Aspose.PSD 中将 AI 文件导出为 PSD 和 PNG 格式
 
 ```csharp
 [C#]
@@ -94,7 +94,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示文本通过 ITextPortion 对齐从右到左的语言可以正常工作。
+下面的示例演示了通过 ITextPortion 的从右到左语言的文本对齐工作正常。
 
 ```csharp
 [C#]
@@ -114,7 +114,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-此示例显示保存图像的简单步骤。为了演示此操作，我们从某个磁盘位置加载现有文件，对图像执行旋转操作并使用文件路径将图像保存为 Jpeg 文件格式
+此示例显示了保存图像的简单步骤。为了演示此操作，我们从某个磁盘位置加载现有文件，对图像执行旋转操作并使用文件路径将图像保存为 Jpeg 文件格式
 
 ```csharp
 [C#]
@@ -130,7 +130,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-以下示例演示如何可以更改 Aspose.PSD 中的 LayerGroup 可见性
+以下示例演示了如何在 Aspose.PSD 中更改 LayerGroup 可见性
 
 ```csharp
 [C#]
@@ -185,7 +185,7 @@ using (var image = new PsdImage(width, height))
 }
 ```
 
-以下示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 16 位 RGB 的工作正常且无异常。
+下面的示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 16 位 RGB 的工作正常且无异常。
 
 ```csharp
 [C#]
@@ -218,7 +218,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-以下示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 8 位灰度的工作正常且无异常。
+下面的示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 8 位灰度的工作正常且无异常。
 
 ```csharp
 [C#]
@@ -251,7 +251,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-以下示例演示如何在 Aspose.PSD 中使用 PassThrough 图层混合模式
+以下示例演示了如何在 Aspose.PSD 中使用 PassThrough 图层混合模式
 
 ```csharp
 [C#]
@@ -292,7 +292,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示文档转换进度正常工作，无一例外。
+以下示例演示了文档转换进度正常且无异常。
 
 ```csharp
 [C#]
@@ -426,7 +426,7 @@ public virtual void Save(string filePath, ImageOptionsBase options, Rectangle bo
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 选项 |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | 图像保存失败。 |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | 图片保存失败。 |
 
 ### 也可以看看
 
@@ -440,7 +440,7 @@ public virtual void Save(string filePath, ImageOptionsBase options, Rectangle bo
 
 ## Save(Stream, ImageOptionsBase) {#save_2}
 
-根据保存选项，将图像数据以指定的文件格式保存到指定的流中。
+根据保存选项将图像的数据以指定的文件格式保存到指定的流中。
 
 ```csharp
 public void Save(Stream stream, ImageOptionsBase optionsBase)
@@ -448,20 +448,20 @@ public void Save(Stream stream, ImageOptionsBase optionsBase)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 保存图像数据的流。 |
+| stream | Stream | 将图像数据保存到的流。 |
 | optionsBase | ImageOptionsBase | 保存选项。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | optionsBase |
-| ArgumentException | 无法保存为指定的格式，因为在时刻。；optionsBase |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | 图像导出失败。 |
+| ArgumentNullException | 选项库 |
+| ArgumentException | 无法保存为指定的格式，因为目前不支持。;optionsBase |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | 图片导出失败。 |
 
 ### 例子
 
-这个例子展示了将图像保存到 MemoryStream 的过程。为了演示此操作，示例从某个磁盘位置加载现有文件，对图像执行旋转操作并以 Gif 格式保存图像
+此示例显示将图像保存到 MemoryStream 的过程。为了演示此操作，示例从某个磁盘位置加载现有文件，对图像执行旋转操作并以 Gif 格式保存图像
 
 ```csharp
 [C#]
@@ -492,7 +492,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 
 ## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
 
-根据保存选项，将图像数据以指定的文件格式保存到指定的流中。
+根据保存选项将图像的数据以指定的文件格式保存到指定的流中。
 
 ```csharp
 public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
@@ -500,7 +500,7 @@ public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 保存图像数据的流。 |
+| stream | Stream | 将图像数据保存到的流。 |
 | optionsBase | ImageOptionsBase | 保存选项。 |
 | boundsRectangle | Rectangle | 目标图像边界矩形。设置空矩形以使用源边界。 |
 
@@ -508,9 +508,9 @@ public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle 
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | optionsBase |
-| ArgumentException | 无法保存为指定的格式，因为在时刻。；optionsBase |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | 图像导出失败。 |
+| ArgumentNullException | 选项库 |
+| ArgumentException | 无法保存为指定的格式，因为目前不支持。;optionsBase |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | 图片导出失败。 |
 
 ### 也可以看看
 

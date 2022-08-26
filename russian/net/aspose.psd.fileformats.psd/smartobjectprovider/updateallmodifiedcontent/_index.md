@@ -1,7 +1,7 @@
 ---
 title: UpdateAllModifiedContent
 second_title: Справочник по Aspose.PSD для .NET API
-description: Обновляет содержимое всех измененных смарт-объектов на изображении.
+description: Обновляет содержимое всех измененных смартобъектов на изображении.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd/smartobjectprovider/updateallmodifiedcontent/

@@ -3,7 +3,7 @@ title: SmartFilter
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс для обработки базовой логики интеллектуальных фильтров.
 type: docs
-weight: 3350
+weight: 3400
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/
 ---
 ## SmartFilter class
@@ -18,7 +18,7 @@ public abstract class SmartFilter : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [SmartFilter](smartfilter)() | Инициализирует новый экземпляр класса[`SmartFilter`](../smartfilter). |
+| [SmartFilter](smartfilter)() | Инициализирует новый экземпляр[`SmartFilter`](../smartfilter) класс. |
 
 ## Характеристики
 
@@ -26,8 +26,8 @@ public abstract class SmartFilter : ICloneable
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode) { get; set; } | Получает или задает режим наложения. |
 | abstract [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/filterid) { get; } | Получает идентификатор типа интеллектуального фильтра. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | Получает или задает включенный статус интеллектуального фильтра. |
-| abstract [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name) { get; } | Получает имя интеллектуального фильтра. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | Получает или задает состояние включения интеллектуального фильтра. |
+| abstract [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name) { get; } | Получает имя смарт-фильтра. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity) { get; set; } | Получает или задает значение непрозрачности интеллектуального фильтра. |
 | [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | Структура исходного дескриптора с данными интеллектуального фильтра. |
 
@@ -35,9 +35,9 @@ public abstract class SmartFilter : ICloneable
 
 | Имя | Описание |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | Применяет текущий фильтр к входному[`RasterImage`](../../aspose.psd/rasterimage)изображению. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | Применяет текущий фильтр к входным[`Layer`](../../aspose.psd.fileformats.psd.layers/layer)данным маски. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | Создает поэлементное клонирование текущего экземпляра типа. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | Применяет текущий фильтр ко входу[`RasterImage`](../../aspose.psd/rasterimage) изображение. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | Применяет текущий фильтр ко входу[`Layer`](../../aspose.psd.fileformats.psd.layers/layer) данные маски. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | Создает почленный клон текущего экземпляра типа. |
 
 ### Примеры
 

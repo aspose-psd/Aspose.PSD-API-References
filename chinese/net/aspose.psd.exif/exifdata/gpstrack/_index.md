@@ -1,14 +1,14 @@
 ---
 title: GPSTrack
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 GPS 接收器运动的方向
+description: 获取或设置 GPS 接收器移动的方向
 type: docs
 weight: 650
 url: /zh/net/aspose.psd.exif/exifdata/gpstrack/
 ---
 ## ExifData.GPSTrack property
 
-获取或设置 GPS 接收器运动的方向。
+获取或设置 GPS 接收器移动的方向。
 
 ```csharp
 public string GPSTrack { get; set; }
@@ -16,7 +16,7 @@ public string GPSTrack { get; set; }
 
 ### 适当的价值
 
-GPS 接收机运动方向。
+GPS 接收器运动的方向。
 
 ### 也可以看看
 

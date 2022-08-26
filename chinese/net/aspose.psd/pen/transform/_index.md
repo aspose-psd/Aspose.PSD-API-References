@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此Penaspose.psd/pen的几何变换的副本
+description: 获取或设置几何变换的副本Penaspose.psd/pen .
 type: docs
 weight: 170
 url: /zh/net/aspose.psd/pen/transform/
 ---
 ## Pen.Transform property
 
-获取或设置此[`Pen`](../../pen)的几何变换的副本。
+获取或设置几何变换的副本[`Pen`](../../pen) .
 
 ```csharp
 public Matrix Transform { get; set; }
@@ -16,13 +16,13 @@ public Matrix Transform { get; set; }
 
 ### 适当的价值
 
-[`Matrix`](../../matrix)的副本，表示此PSD的几何变换。笔。
+的副本[`Matrix`](../../matrix)表示这个的几何变换[`Pen`](../../pen).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | `Transform`属性设置在不可变的PSD上。Pen，例如由[`Pen`](../../pen)类返回的那些。 |
+| ArgumentException | 这`Transform`属性设置在不可变对象上[`Pen`](../../pen)，例如那些由[`Pen`](../../pen)班级。 |
 
 ### 也可以看看
 

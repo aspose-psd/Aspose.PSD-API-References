@@ -1,14 +1,14 @@
 ---
 title: EventType
 second_title: Aspose.PSD for .NET API 参考
-description: 这个枚举描述了在图像处理操作期间可能发生的进度事件类型
+description: 这个枚举描述了图像处理操作期间可能发生的进度事件类型
 type: docs
-weight: 5170
+weight: 5220
 url: /zh/net/aspose.psd.progressmanagement/eventtype/
 ---
 ## EventType enumeration
 
-这个枚举描述了在图像处理操作期间可能发生的进度事件类型
+这个枚举描述了图像处理操作期间可能发生的进度事件类型
 
 ```csharp
 public enum EventType
@@ -18,12 +18,12 @@ public enum EventType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| RelativeProgress | `0` | 本阶段运算处理的相对进度 |
+| RelativeProgress | `0` | 当前阶段操作处理的相对进度 |
 | StageChange | `1` | 下一阶段的操作开始 |
 | Initialization | `2` | 操作的初始化 |
 | PreProcessing | `3` | 预处理 |
-| Processing | `4` | 处理中 |
-| Finalization | `5` | 操作完成 |
+| Processing | `4` | 处理过程 |
+| Finalization | `5` | 操作的最终确定 |
 
 ### 也可以看看
 

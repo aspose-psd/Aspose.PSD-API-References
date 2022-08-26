@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Aspose.PSD for .NET API 参考
-description: 得到一个空的Coloraspose.psd/color
+description: 得到一个空的Coloraspose.psd/color .
 type: docs
 weight: 430
 url: /zh/net/aspose.psd/color/empty/
 ---
 ## Color.Empty property
 
-得到一个空的[`Color`](../../color)。
+得到一个空的[`Color`](../../color) .
 
 ```csharp
 public static Color Empty { get; }
@@ -16,7 +16,7 @@ public static Color Empty { get; }
 
 ### 适当的价值
 
-空的[`Color`](../../color)。
+空的[`Color`](../../color).
 
 ### 也可以看看
 

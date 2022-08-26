@@ -1,7 +1,7 @@
 ---
 title: ResolutionUnit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает единицу измерения разрешения данных слоя смарт-объекта в PSD-файле.
+description: Получает или задает единицу измерения разрешения данных слоя смартобъекта в PSDфайле.
 type: docs
 weight: 200
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/

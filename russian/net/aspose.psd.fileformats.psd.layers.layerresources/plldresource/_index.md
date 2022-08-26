@@ -1,14 +1,14 @@
 ---
 title: PlLdResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс PlLdResource который содержит информацию о размещенном слое в файле PSD. Используется для поддержки слоев смарт-объектов в изображениях Adobe Photoshop. Он был заменен на SoLdResource в Adobe Photoshop CS3
+description: Определяет класс PlLdResource который содержит информацию о размещенном слое в PSDфайле. Используется для поддержки слоев смартобъектов в изображениях Adobe Photoshop. Он был заменен SoLdResource в Adobe Photoshop CS3
 type: docs
-weight: 2850
+weight: 2900
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
 ## PlLdResource class
 
-Определяет класс PlLdResource, который содержит информацию о размещенном слое в файле PSD. Используется для поддержки слоев смарт-объектов в изображениях Adobe® Photoshop®. Он был заменен на SoLdResource в Adobe® Photoshop® CS3
+Определяет класс PlLdResource, который содержит информацию о размещенном слое в PSD-файле. Используется для поддержки слоев смарт-объектов в изображениях Adobe® Photoshop®. Он был заменен SoLdResource в Adobe® Photoshop® CS3
 
 ```csharp
 public class PlLdResource : PlacedResource
@@ -18,15 +18,15 @@ public class PlLdResource : PlacedResource
 
 | Имя | Описание |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy) { get; set; } | Получает или задает политику сглаживания размещенного слоя в изображении PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom) { get; set; } | Получает или задает нижнее положение размещенного слоя в изображении PSD. |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy) { get; set; } | Получает или задает политику сглаживания для размещенного слоя в изображении PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom) { get; set; } | Получает или задает положение нижнего слоя размещенного слоя в изображении PSD. |
 | [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds) { get; set; } | Получает или задает границы размещенного слоя в файле PSD. |
 | [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints) { get; set; } | Получает или задает горизонтальные точки сетки размещенного слоя в файле PSD. |
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit) { get; set; } | Получает или задает единицу измерения горизонтальных точек сетки. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom) { get; set; } | Получает или задает значение, указывающее, является ли данный стиль деформации экземпляра пользовательским. Если true, он содержит точки сетки. Если установлено значение false, точки сетки стираются. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom) { get; set; } | Получает или задает значение, указывающее, является ли этот стиль деформации экземпляра пользовательским. Если true, он содержит точки сетки. Если установлено значение false, стираются точки сетки. |
 | virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items) { get; set; } | Получает или устанавливает элементы деформации. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key) { get; } | Получает ключ ресурса PlLd. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left) { get; set; } | Получает или задает левое расположение размещенного слоя в файле PSD. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left) { get; set; } | Получает или задает левое расположение размещенного слоя в PSD-файле. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length) { get; } | Получает длину ресурса PlLd в байтах. |
 | virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber) { get; set; } | Получает или задает номер страницы размещенного слоя в файле PSD. |
 | [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective) { get; set; } | Получает или задает значение перспективы размещенного слоя в файле PSD. |
@@ -43,25 +43,25 @@ public class PlLdResource : PlacedResource
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value) { get; set; } | Получает или задает значение деформации размещенного слоя в изображении PSD. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version) { get; } | Получает версию размещенного слоя в файле PSD, обычно 3. |
 | [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints) { get; set; } | Получает или задает горизонтальные точки сетки размещенного слоя в файле PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit) { get; set; } | Получает или задает единицу измерения вертикальных точек сетки. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder) { get; set; } | Получает или задает значение вертикального порядка размещенного слоя в PSD-файле. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit) { get; set; } | Получает или задает единицу измерения точек вертикальной сетки. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder) { get; set; } | Получает или задает значение V порядка размещенного слоя в файле PSD. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save)(StreamContainer, int) | Сохраняет ресурс PlLD в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 
-Следующий код демонстрирует поддержку Ресурс PlLdResource.
+Следующий код демонстрирует поддержку ресурса PlLdResource.
 
 ```csharp
 [C#]

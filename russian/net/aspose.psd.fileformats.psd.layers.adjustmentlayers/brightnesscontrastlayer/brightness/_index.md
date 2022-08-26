@@ -1,7 +1,7 @@
 ---
 title: Brightness
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает яркость. Для PS диапазон яркости от -150 до 150. Но мы игнорируем это.
+description: Получает или устанавливает яркость. Для PS диапазон яркости от 150 до 150. Но мы игнорируем это.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/brightness/

@@ -1,14 +1,14 @@
 ---
 title: SheetColorHighlightEnum
 second_title: Справочник по Aspose.PSD для .NET API
-description: Возможные цвета настройки цвета листа. Это декоративный цвет пользовательского интерфейса в списке слоев в PS
+description: Возможные цвета настройки цвета листа. Это декоративный цвет пользовательского интерфейса слоя в списке слоев в PS
 type: docs
-weight: 2890
+weight: 2940
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
 ## SheetColorHighlightEnum enumeration
 
-Возможные цвета настройки цвета листа. Это декоративный цвет пользовательского интерфейса в списке слоев в PS
+Возможные цвета настройки цвета листа. Это декоративный цвет пользовательского интерфейса слоя в списке слоев в PS
 
 ```csharp
 public enum SheetColorHighlightEnum : short
@@ -29,7 +29,7 @@ public enum SheetColorHighlightEnum : short
 
 ### Примеры
 
-В следующем примере показано, как можно изменить Подсветка цветом листа в Aspose.PSD (настройка цвета листа)
+В следующем примере показано, как можно изменить выделение цветом листа в Aspose.PSD (настройка цвета листа).
 
 ```csharp
 [C#]

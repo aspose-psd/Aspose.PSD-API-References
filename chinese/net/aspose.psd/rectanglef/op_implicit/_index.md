@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Aspose.PSD for .NET API 参考
-description: 将指定的Rectangleaspose.psd/rectangle结构转换为RectangleFaspose.psd/rectanglef结构
+description: 转换指定的Rectangleaspose.psd/rectangle结构为RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 280
 url: /zh/net/aspose.psd/rectanglef/op_implicit/
 ---
 ## RectangleF Implicit operator
 
-将指定的[`Rectangle`](../../rectangle)结构转换为[`RectangleF`](../../rectanglef)结构。
+转换指定的[`Rectangle`](../../rectangle)结构为[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public static implicit operator RectangleF(Rectangle rect)
@@ -16,11 +16,11 @@ public static implicit operator RectangleF(Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 要转换的[`Rectangle`](../../rectangle)结构。 |
+| rect | Rectangle | 这[`Rectangle`](../../rectangle)要转换的结构。 |
 
 ### 返回值
 
-从指定的[`Rectangle`](../../rectangle)结构转换而来的[`RectangleF`](../../rectanglef)结构。
+这[`RectangleF`](../../rectanglef)从指定转换的结构[`Rectangle`](../../rectangle)结构体。
 
 ### 也可以看看
 

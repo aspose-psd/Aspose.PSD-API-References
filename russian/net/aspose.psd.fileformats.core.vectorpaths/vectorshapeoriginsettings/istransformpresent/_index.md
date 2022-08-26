@@ -1,14 +1,14 @@
 ---
 title: IsTransformPresent
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее имеет ли данный экземпляр свойство transform.
+description: Получает значение указывающее имеет ли этот экземпляр свойство преобразования.
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
 ## VectorShapeOriginSettings.IsTransformPresent property
 
-Получает значение, указывающее, имеет ли данный экземпляр свойство transform.
+Получает значение, указывающее, имеет ли этот экземпляр свойство преобразования.
 
 ```csharp
 public bool IsTransformPresent { get; }
@@ -16,7 +16,7 @@ public bool IsTransformPresent { get; }
 
 ### Стоимость имущества
 
-` true` если этот экземпляр имеет свойство transform; в противном случае` false` .
+`истинный` если этот экземпляр имеет свойство преобразования; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 

@@ -3,7 +3,7 @@ title: Version
 second_title: Aspose.PSD for .NET API 参考
 description: 描述文档的一个版本
 type: docs
-weight: 5990
+weight: 6040
 url: /zh/net/aspose.psd.xmp.types.complex.version/version/
 ---
 ## Version class
@@ -29,7 +29,7 @@ public sealed class Version : ComplexTypeBase
 | [Modifier](../../aspose.psd.xmp.types.complex.version/version/modifier) { get; set; } | 获取或设置修饰符。 |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | 获取默认命名空间 URI。 |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | 获取前缀。 |
-| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent) { get; set; } | 获取或设置[`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent)。 |
+| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent) { get; set; } | 获取或设置[`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent) . |
 | [VersionText](../../aspose.psd.xmp.types.complex.version/version/versiontext) { get; set; } | 获取或设置版本文本。 |
 
 ## 方法

@@ -3,7 +3,7 @@ title: XmpHeaderPi
 second_title: Aspose.PSD for .NET API 参考
 description: 表示 XMP 头处理指令
 type: docs
-weight: 6130
+weight: 6180
 url: /zh/net/aspose.psd.xmp/xmpheaderpi/
 ---
 ## XmpHeaderPi class
@@ -18,27 +18,23 @@ public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpHeaderPi](xmpheaderpi#constructor)() | 初始化[`XmpHeaderPi`](../xmpheaderpi)类的新实例。 |
-| [XmpHeaderPi](xmpheaderpi#constructor_1)(string) | 初始化[`XmpHeaderPi`](../xmpheaderpi)类的新实例。 |
+| [XmpHeaderPi](xmpheaderpi#constructor)() | 初始化[`XmpHeaderPi`](../xmpheaderpi)类. |
+| [XmpHeaderPi](xmpheaderpi#constructor_1)(string) | 初始化[`XmpHeaderPi`](../xmpheaderpi)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid) { get; set; } | 表示标题 Guid。 |
+| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid) { get; set; } | 表示标头 Guid。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals#equals_1)(object) | 确定指定的Object是否等于此实例。 |
-| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals#equals)(XmpHeaderPi) | 表示当前对象是否等于另一个相同类型的对象。 |
+| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals#equals_1)(object) | 判断是否指定Object 等于这个实例。 |
+| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals#equals)(XmpHeaderPi) | 表示当前对象是否等于另一个同类型的对象。 |
 | override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode)() | 返回此实例的哈希码。 |
 | [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue)() | 将 XMP 值转换为 XML 表示形式。 |
-
-### 例子
-
-&lt;?xpacket begin="􀂉" id="W5M0MpCehiHzreSzNTczkc9d"?&gt;
 
 ### 也可以看看
 

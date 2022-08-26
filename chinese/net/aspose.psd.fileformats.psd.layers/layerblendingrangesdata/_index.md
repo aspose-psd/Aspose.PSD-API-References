@@ -3,7 +3,7 @@ title: LayerBlendingRangesData
 second_title: Aspose.PSD for .NET API 参考
 description: 图层混合范围数据
 type: docs
-weight: 2030
+weight: 2070
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
 ## LayerBlendingRangesData class
@@ -26,7 +26,7 @@ public sealed class LayerBlendingRangesData
 | --- | --- |
 | [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges) { get; set; } | 获取或设置通道混合范围。 |
 | [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange) { get; set; } | 获取或设置复合混合范围。 |
-| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length) { get; } | 获取图层混合范围数据的长度（以字节为单位）。 |
+| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length) { get; } | 以字节为单位获取图层混合范围数据的长度。 |
 
 ### 也可以看看
 

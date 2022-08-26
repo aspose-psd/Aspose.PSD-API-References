@@ -16,7 +16,7 @@ public ClassID TypeID { get; set; }
 
 ### 适当的价值
 
-类型 ID。
+类型 ID.
 
 ### 也可以看看
 

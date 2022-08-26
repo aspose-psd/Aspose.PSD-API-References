@@ -3,14 +3,14 @@ title: Metered
 second_title: Aspose.PSD for .NET API 参考
 description: 提供设置计量键的方法
 type: docs
-weight: 5000
+weight: 5050
 url: /zh/net/aspose.psd/metered/
 ---
 ## Metered class
 
 提供设置计量键的方法。
 
-为积分提供计量方法
+为集成提供计量方法
 
 ```csharp
 public class Metered
@@ -26,14 +26,14 @@ public class Metered
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.psd/metered/equals)(object) | 确定指定的Object是否等于此实例。 |
-| [SetMeteredKey](../../aspose.psd/metered/setmeteredkey)(string, string) | 设置计量公钥和私钥 |
-| static [GetConsumptionCredit](../../aspose.psd/metered/getconsumptioncredit)() | 获得消费信用 |
+| override [Equals](../../aspose.psd/metered/equals)(object) | 判断是否指定Object 等于这个实例。 |
+| [SetMeteredKey](../../aspose.psd/metered/setmeteredkey)(string, string) | 设置计量的公钥和私钥 |
+| static [GetConsumptionCredit](../../aspose.psd/metered/getconsumptioncredit)() | 获取消费额度 |
 | static [GetConsumptionQuantity](../../aspose.psd/metered/getconsumptionquantity)() | 获取消费文件大小 |
 
 ### 例子
 
-在此示例中，将尝试设置计量公钥和私钥
+在此示例中，将尝试设置计量的公钥和私钥
 
 ```csharp
 [C#]

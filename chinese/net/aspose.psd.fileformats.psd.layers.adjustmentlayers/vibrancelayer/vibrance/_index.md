@@ -1,14 +1,14 @@
 ---
 title: Vibrance
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置活力
+description: 获取或设置振动
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/vibrance/
 ---
 ## VibranceLayer.Vibrance property
 
-获取或设置活力。
+获取或设置振动。
 
 ```csharp
 public int Vibrance { get; set; }
@@ -22,7 +22,7 @@ public int Vibrance { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | Vibrance 必须在 -180 到 +180 的范围内 |
+| ArgumentOutOfRangeException | 振动必须在 -180 到 +180 的范围内 |
 
 ### 例子
 

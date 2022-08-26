@@ -3,7 +3,7 @@ title: BaseFillSettings
 second_title: Aspose.PSD for .NET API 参考
 description: 基础填充效果设置
 type: docs
-weight: 1860
+weight: 1900
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
 ## BaseFillSettings class

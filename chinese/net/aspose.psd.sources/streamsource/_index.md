@@ -3,7 +3,7 @@ title: StreamSource
 second_title: Aspose.PSD for .NET API 参考
 description: 表示流源
 type: docs
-weight: 5500
+weight: 5550
 url: /zh/net/aspose.psd.sources/streamsource/
 ---
 ## StreamSource class
@@ -18,14 +18,14 @@ public sealed class StreamSource : Source
 
 | 姓名 | 描述 |
 | --- | --- |
-| [StreamSource](streamsource#constructor)(Stream) | 初始化[`StreamSource`](../streamsource)类的新实例。 |
-| [StreamSource](streamsource#constructor_1)(Stream, bool) | 初始化[`StreamSource`](../streamsource)类的新实例。 |
+| [StreamSource](streamsource#constructor)(Stream) | 初始化[`StreamSource`](../streamsource)类. |
+| [StreamSource](streamsource#constructor_1)(Stream, bool) | 初始化[`StreamSource`](../streamsource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DisposeStream](../../aspose.psd.sources/streamsource/disposestream) { get; } | 获取一个值，该值指示是否应在释放容器时释放流。 |
+| [DisposeStream](../../aspose.psd.sources/streamsource/disposestream) { get; } | 获取一个值，该值指示是否应在容器被处置时处置流。 |
 | [Stream](../../aspose.psd.sources/streamsource/stream) { get; } | 获取流。 |
 
 ## 方法
@@ -36,7 +36,7 @@ public sealed class StreamSource : Source
 
 ### 例子
 
-此示例使用 Graphics 类在图像表面上创建原始形状。为了演示该操作，该示例创建一个 PSD 格式的新图像，并使用 Graphics 类公开的 Draw 方法在图像表面绘制原始形状，然后将其导出为 PSD 文件格式。
+此示例使用 Graphics 类在 Image 表面上创建原始形状。为了演示该操作，该示例创建一个 PSD 格式的新图像，并使用 Graphics 类公开的 Draw 方法在图像表面绘制原始形状，然后将其导出为 PSD 文件格式。
 
 ```csharp
 [C#]

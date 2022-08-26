@@ -3,7 +3,7 @@ title: GridAndGuidesResouce
 second_title: Aspose.PSD for .NET API 参考
 description: 表示网格和引导资源
 type: docs
-weight: 3620
+weight: 3670
 url: /zh/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/
 ---
 ## GridAndGuidesResouce class
@@ -24,23 +24,23 @@ public sealed class GridAndGuidesResouce : ResourceBlock
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/datasize) { get; } | 获取资源数据大小（以字节为单位）。 |
-| [GridCycleX](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex) { get; set; } | 获取或设置水平网格周期。默认值为 576。 |
-| [GridCycleY](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcycley) { get; set; } | 获取或设置垂直网格周期。默认值为 576。 |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/datasize) { get; } | 以字节为单位获取资源数据大小。 |
+| [GridCycleX](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex) { get; set; } | 获取或设置水平网格周期。默认值为 576. |
+| [GridCycleY](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcycley) { get; set; } | 获取或设置垂直网格周期。默认值为 576. |
 | [GuideCount](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount) { get; } | 获取指南资源块数。 |
 | [Guides](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides) { get; set; } | 获取或设置指南。 |
-| [HeaderVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion) { get; set; } | 获取或设置标头版本。此值应始终为 1。 |
+| [HeaderVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion) { get; set; } | 获取或设置标头版本。该值应始终为 1. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | 获取或设置资源的唯一标识符。 |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/minimalversion) { get; } | 获取所需的最低 psd 版本。 |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。 Pascal 字符串，填充以使大小均匀（空名称由两个字节的 0 组成）。 |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应始终为“8BIM”。 |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。帕斯卡字符串，填充以使大小均匀（空名称由两个字节的 0 组成）. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应该总是'8BIM'. |
 | [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | 获取资源块大小（以字节为单位），包括其数据。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定流。 |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定的流中。 |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | 验证资源值。 |
 
 ### 也可以看看

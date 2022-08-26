@@ -1,14 +1,14 @@
 ---
 title: ResetTransform
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сбрасывает матрицу геометрического преобразования для этогоPenaspose.psd/penдо идентичности.
+description: Сбрасывает матрицу геометрического преобразования для этогоPenaspose.psd/pen к личности.
 type: docs
 weight: 200
 url: /ru/net/aspose.psd/pen/resettransform/
 ---
 ## Pen.ResetTransform method
 
-Сбрасывает матрицу геометрического преобразования для этого[`Pen`](../../pen)до идентичности.
+Сбрасывает матрицу геометрического преобразования для этого[`Pen`](../../pen) к личности.
 
 ```csharp
 public void ResetTransform()

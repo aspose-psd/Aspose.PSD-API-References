@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.PSD for .NET API 参考
 description: 定义文本的特定格式包括字体大小和样式属性这个类不能被继承
 type: docs
-weight: 4160
+weight: 4210
 url: /zh/net/aspose.psd/font/
 ---
 ## Font class
@@ -18,39 +18,39 @@ public sealed class Font
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Font](font#constructor)(Font, FontStyle) | 初始化一个新的[`Font`](../font)，它使用指定的现有[`Font`](../font)和[`FontStyle`](../fontstyle)枚举。 |
-| [Font](font#constructor_1)(string, float) | 使用指定大小初始化新的[`Font`](../font)。字符集设置为Default，图形单位设置为Point，字体样式设置为Regular。 |
-| [Font](font#constructor_2)(string, float, FontStyle) | 使用指定的大小和样式初始化新的[`Font`](../font)。字符集设置为Default，图形单元设置为Point。 |
-| [Font](font#constructor_5)(string, float, GraphicsUnit) | 使用指定的大小和单位初始化新的[`Font`](../font)。字符集设置为Default，样式设置为Regular。 |
-| [Font](font#constructor_3)(string, float, FontStyle, GraphicsUnit) | 使用指定的大小、样式和单位初始化新的[`Font`](../font)。 |
-| [Font](font#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | 使用指定的大小、样式、单位和字符集初始化新的[`Font`](../font)。 |
+| [Font](font#constructor)(Font, FontStyle) | 初始化一个新的[`Font`](../font)使用指定的现有[`Font`](../font)和[`FontStyle`](../fontstyle)枚举. |
+| [Font](font#constructor_1)(string, float) | 初始化一个新的[`Font`](../font)使用指定的大小。字符集设置为Default 图形单元Point 字体样式为Regular . |
+| [Font](font#constructor_2)(string, float, FontStyle) | 初始化一个新的[`Font`](../font)使用指定的尺寸和样式。字符集设置为Default 图形单元Point . |
+| [Font](font#constructor_5)(string, float, GraphicsUnit) | 初始化一个新的[`Font`](../font)使用指定的大小和单位。字符集设置为Default，样式设置为Regular . |
+| [Font](font#constructor_3)(string, float, FontStyle, GraphicsUnit) | 初始化一个新的[`Font`](../font)使用指定的大小、样式和单位。 |
+| [Font](font#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | 初始化一个新的[`Font`](../font)使用指定的大小、样式、单位和字符集。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Bold](../../aspose.psd/font/bold) { get; } | 获取一个值，该值指示此[`Font`](../font)是否为粗体。 |
-| [CharacterSet](../../aspose.psd/font/characterset) { get; } | 获取指定此[`Font`](../font)使用的字符集的字节值。 |
-| [Italic](../../aspose.psd/font/italic) { get; } | 获取一个值，该值指示此[`Font`](../font)是否为斜体。 |
-| [Name](../../aspose.psd/font/name) { get; } | 获取此[`Font`](../font)的人脸名称。 |
-| [Size](../../aspose.psd/font/size) { get; } | 获取此[`Font`](../font)的 em 大小，以Font指定的单位测量。单位属性。 |
-| [Strikeout](../../aspose.psd/font/strikeout) { get; } | 获取一个值，该值指示此[`Font`](../font)是否指定穿过字体的水平线。 |
-| [Style](../../aspose.psd/font/style) { get; } | 获取此[`Font`](../font)的样式信息。 |
-| [Underline](../../aspose.psd/font/underline) { get; } | 获取一个值，该值指示此[`Font`](../font)是否带下划线。 |
-| [Unit](../../aspose.psd/font/unit) { get; } | 获取此[`Font`](../font)的度量单位。 |
+| [Bold](../../aspose.psd/font/bold) { get; } | 获取一个值，该值指示这是否[`Font`](../font)是粗体。 |
+| [CharacterSet](../../aspose.psd/font/characterset) { get; } | 获取指定此字符集的字节值[`Font`](../font)使用. |
+| [Italic](../../aspose.psd/font/italic) { get; } | 获取一个值，该值指示这是否[`Font`](../font)是斜体。 |
+| [Name](../../aspose.psd/font/name) { get; } | 获取此人脸名称[`Font`](../font) . |
+| [Size](../../aspose.psd/font/size) { get; } | 获取这个的 em-size[`Font`](../font)以指定的单位测量[`Unit`](./unit)属性. |
+| [Strikeout](../../aspose.psd/font/strikeout) { get; } | 获取一个值，该值指示这是否[`Font`](../font)指定一条穿过字体的水平线。 |
+| [Style](../../aspose.psd/font/style) { get; } | 获取这个的样式信息[`Font`](../font) . |
+| [Underline](../../aspose.psd/font/underline) { get; } | 获取一个值，该值指示这是否[`Font`](../font)加下划线。 |
+| [Unit](../../aspose.psd/font/unit) { get; } | 获取测量单位[`Font`](../font) . |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DeepClone](../../aspose.psd/font/deepclone)() | 创建此[`Font`](../font)的精确深层副本。 |
-| override [Equals](../../aspose.psd/font/equals)(object) | 表示指定对象是否为[`Font`](../font)并且与此Font具有相同的属性值。 |
-| override [GetHashCode](../../aspose.psd/font/gethashcode)() | 获取此[`Font`](../font)的哈希码。 |
-| override [ToString](../../aspose.psd/font/tostring)() | 返回此[`Font`](../font)的人类可读字符串表示。 |
+| [DeepClone](../../aspose.psd/font/deepclone)() | 创建一个精确的深拷贝[`Font`](../font) . |
+| override [Equals](../../aspose.psd/font/equals)(object) | 表示指定对象是否为[`Font`](../font)并具有与此相同的属性值[`Font`](../font) . |
+| override [GetHashCode](../../aspose.psd/font/gethashcode)() | 获取此哈希码[`Font`](../font) . |
+| override [ToString](../../aspose.psd/font/tostring)() | 返回一个人类可读的字符串表示[`Font`](../font) . |
 
 ### 例子
 
-这个例子演示了使用 Font 和 SolidBrush 类在图像表面上绘制字符串。该示例使用 Figures 和 GraphicsPath
+这个例子演示了使用 Font 和 SolidBrush 类在 Image 表面上绘制字符串。该示例使用 Figures 和 GraphicsPath 创建一个新的图像并绘制形状
 
 ```csharp
 [C#]

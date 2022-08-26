@@ -1,14 +1,14 @@
 ---
 title: GetLayersByLinkGroupId
 second_title: Aspose.PSD for .NET API 参考
-description: 通过链接组 id 获取层
+description: 通过链接组 id 获取图层
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/
 ---
 ## LinkedLayersManager.GetLayersByLinkGroupId method
 
-通过链接组 id 获取层。
+通过链接组 id 获取图层。
 
 ```csharp
 public Layer[] GetLayersByLinkGroupId(short linkGroupId)

@@ -1,14 +1,14 @@
 ---
 title: RemoveTag
 second_title: Aspose.PSD for .NET API 参考
-description: 删除标记
+description: 删除标签
 type: docs
 weight: 740
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
 ## TiffOptions.RemoveTag method
 
-删除标记。
+删除标签。
 
 ```csharp
 public bool RemoveTag(TiffTags tag)
@@ -20,7 +20,7 @@ public bool RemoveTag(TiffTags tag)
 
 ### 返回值
 
-如果成功删除则为真
+如果成功移除则为真
 
 ### 也可以看看
 

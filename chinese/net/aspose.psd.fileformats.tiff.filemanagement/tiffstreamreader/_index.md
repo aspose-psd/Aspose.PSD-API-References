@@ -3,7 +3,7 @@ title: TiffStreamReader
 second_title: Aspose.PSD for .NET API 参考
 description: 处理 little endian tiff 文件格式的 tiff 流
 type: docs
-weight: 4070
+weight: 4120
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/
 ---
 ## TiffStreamReader class
@@ -18,10 +18,10 @@ public class TiffStreamReader
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TiffStreamReader](tiffstreamreader#constructor_1)(byte[]) | 初始化[`TiffStreamReader`](../tiffstreamreader)类的新实例。 |
-| [TiffStreamReader](tiffstreamreader#constructor)(StreamContainer) | 初始化[`TiffStreamReader`](../tiffstreamreader)类的新实例。 |
-| [TiffStreamReader](tiffstreamreader#constructor_2)(byte[], int) | 初始化[`TiffStreamReader`](../tiffstreamreader)类的新实例。 |
-| [TiffStreamReader](tiffstreamreader#constructor_3)(byte[], int, int) | 初始化[`TiffStreamReader`](../tiffstreamreader)类的新实例。 |
+| [TiffStreamReader](tiffstreamreader#constructor_1)(byte[]) | 初始化[`TiffStreamReader`](../tiffstreamreader)类. |
+| [TiffStreamReader](tiffstreamreader#constructor)(StreamContainer) | 初始化[`TiffStreamReader`](../tiffstreamreader)类. |
+| [TiffStreamReader](tiffstreamreader#constructor_2)(byte[], int) | 初始化[`TiffStreamReader`](../tiffstreamreader)类. |
+| [TiffStreamReader](tiffstreamreader#constructor_3)(byte[], int, int) | 初始化[`TiffStreamReader`](../tiffstreamreader)类. |
 
 ## 特性
 
@@ -43,7 +43,7 @@ public class TiffStreamReader
 | [ReadRational](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readrational)(long) | 从流中读取单个有理数值。 |
 | [ReadRationalArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readrationalarray)(long, long) | 从流中读取一个有理值数组。 |
 | [ReadSByte](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbyte)(long) | 从流中读取有符号字节数据。 |
-| [ReadSByteArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbytearray)(long, long) | 从流中读取带符号字节值的数组。 |
+| [ReadSByteArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbytearray)(long, long) | 从流中读取有符号字节值数组。 |
 | [ReadSLong](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readslong)(long) | 从流中读取有符号整数值。 |
 | [ReadSLongArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readslongarray)(long, long) | 从流中读取有符号整数值数组。 |
 | [ReadSRational](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrational)(long) | 从流中读取单个有符号有理数值。 |
@@ -54,7 +54,7 @@ public class TiffStreamReader
 | [ReadULongArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readulongarray)(long, long) | 从流中读取一个无符号整数值数组。 |
 | [ReadUShort](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readushort)(long) | 从流中读取无符号短值。 |
 | [ReadUShortArray](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readushortarray)(long, long) | 从流中读取一个无符号整数值数组。 |
-| [ToStreamContainer](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer)(long) | 将基础数据转换为流容器。 |
+| [ToStreamContainer](../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer)(long) | 将底层数据转换为流容器。 |
 
 ### 也可以看看
 

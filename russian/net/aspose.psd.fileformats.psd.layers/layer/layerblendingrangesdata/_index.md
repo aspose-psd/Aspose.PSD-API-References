@@ -16,7 +16,7 @@ public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 
 ### Стоимость имущества
 
-Данные диапазона смешивания слоев.
+Данные диапазонов смешивания слоев.
 
 ### Смотрите также
 

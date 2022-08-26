@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.FileFormats.Bmp
 second_title: Aspose.PSD for .NET API 参考
-description: 命名空间处理 Bmp 文件格式处理
+description: 命名空间处理Bmp文件格式处理
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.fileformats.bmp/
 ---
-命名空间处理 Bmp 文件格式处理。
+命名空间处理Bmp文件格式处理。
 
 ## 枚举
 

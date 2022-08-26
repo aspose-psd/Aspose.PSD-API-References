@@ -1,14 +1,14 @@
 ---
 title: PropertyStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Структура свойства.
+description: Структура свойств.
 type: docs
-weight: 3120
+weight: 3170
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/
 ---
 ## PropertyStructure class
 
-Структура свойства.
+Структура свойств.
 
 ```csharp
 public sealed class PropertyStructure : OSTypeStructure
@@ -18,7 +18,7 @@ public sealed class PropertyStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [PropertyStructure](propertystructure)(ClassID, ClassID, ClassID) | Инициализирует новый экземпляр класса[`PropertyStructure`](../propertystructure). |
+| [PropertyStructure](propertystructure)(ClassID, ClassID, ClassID) | Инициализирует новый экземпляр[`PropertyStructure`](../propertystructure) класс. |
 
 ## Характеристики
 
@@ -29,7 +29,7 @@ public sealed class PropertyStructure : OSTypeStructure
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/key) { get; } | Получает ключ структуры. |
 | [KeyID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid) { get; set; } | Получает или задает идентификатор ключа. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 
 ## Методы
 

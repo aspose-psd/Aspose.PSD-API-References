@@ -1,14 +1,14 @@
 ---
 title: OuterGlowEffect
 second_title: Справочник по Aspose.PSD для .NET API
-description: Эффект Outer Glow Layer
+description: Эффект слоя внешнего свечения
 type: docs
-weight: 2110
+weight: 2150
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 ---
 ## OuterGlowEffect class
 
-Эффект Outer Glow Layer
+Эффект слоя внешнего свечения
 
 ```csharp
 public class OuterGlowEffect : ILayerEffect
@@ -19,7 +19,7 @@ public class OuterGlowEffect : ILayerEffect
 | Имя | Описание |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode) { get; set; } | Получает или задает режим наложения. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype) { get; } | Получает тип эффекта типа |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype) { get; } | Получает тип эффекта type |
 | [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor) { get; set; } | Получает или задает цвет. |
 | [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity) { get; set; } | Получает или задает угол в градусах. |
 | [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing) { get; set; } | Получает или устанавливает включенный эффект сглаживания |

@@ -1,14 +1,14 @@
 ---
 title: PolygonShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPolygonShapeaspose.psd.shapes/polygonshape.
+description: Инициализирует новый экземплярPolygonShapeaspose.psd.shapes/polygonshape класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/polygonshape/polygonshape/
 ---
 ## PolygonShape() {#constructor}
 
-Инициализирует новый экземпляр класса[`PolygonShape`](../../polygonshape).
+Инициализирует новый экземпляр[`PolygonShape`](../../polygonshape) класс.
 
 ```csharp
 public PolygonShape()
@@ -24,7 +24,7 @@ public PolygonShape()
 
 ## PolygonShape(PointF[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PolygonShape`](../../polygonshape).
+Инициализирует новый экземпляр[`PolygonShape`](../../polygonshape) класс.
 
 ```csharp
 public PolygonShape(PointF[] points)
@@ -32,7 +32,7 @@ public PolygonShape(PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив точек. |
+| points | PointF[] | Массив очков. |
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public PolygonShape(PointF[] points)
 
 ## PolygonShape(PointF[], bool) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PolygonShape`](../../polygonshape).
+Инициализирует новый экземпляр[`PolygonShape`](../../polygonshape) класс.
 
 ```csharp
 public PolygonShape(PointF[] points, bool isClosed)
@@ -53,8 +53,8 @@ public PolygonShape(PointF[] points, bool isClosed)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив точек. |
-| isClosed | Boolean | Если установлено` true` полигон закрыт. |
+| points | PointF[] | Массив очков. |
+| isClosed | Boolean | Если установлено`истинный` полигон замкнут. |
 
 ### Смотрите также
 

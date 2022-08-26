@@ -16,7 +16,7 @@ public ProgressEventHandler ProgressEventHandler { get; set; }
 
 ### Стоимость имущества
 
-Обработчик события progress.
+Обработчик событий прогресса.
 
 ### Смотрите также
 

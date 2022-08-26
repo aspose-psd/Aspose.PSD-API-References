@@ -1,14 +1,14 @@
 ---
 title: PenType
 second_title: Aspose.PSD for .NET API 参考
-description: 获取使用此Penaspose.psd/pen绘制的线条样式
+description: 获取用这个绘制的线条的样式Penaspose.psd/pen .
 type: docs
 weight: 150
 url: /zh/net/aspose.psd/pen/pentype/
 ---
 ## Pen.PenType property
 
-获取使用此[`Pen`](../../pen)绘制的线条样式。
+获取用这个绘制的线条的样式[`Pen`](../../pen) .
 
 ```csharp
 public PenType PenType { get; }
@@ -16,7 +16,7 @@ public PenType PenType { get; }
 
 ### 适当的价值
 
-一个`PenType`枚举，指定使用此Pen。
+一个`PenType`枚举指定用 this 绘制的线条样式[`Pen`](../../pen).
 
 ### 也可以看看
 

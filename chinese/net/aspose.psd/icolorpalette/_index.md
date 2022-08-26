@@ -3,7 +3,7 @@ title: IColorPalette
 second_title: Aspose.PSD for .NET API 参考
 description: 调色板界面
 type: docs
-weight: 4270
+weight: 4320
 url: /zh/net/aspose.psd/icolorpalette/
 ---
 ## IColorPalette interface
@@ -19,9 +19,9 @@ public interface IColorPalette
 | 姓名 | 描述 |
 | --- | --- |
 | [Argb32Entries](../../aspose.psd/icolorpalette/argb32entries) { get; } | 获取 32 位 ARGB 结构的数组。 |
-| [Entries](../../aspose.psd/icolorpalette/entries) { get; } | 获取[`Color`](../color)结构的数组。 |
+| [Entries](../../aspose.psd/icolorpalette/entries) { get; } | 获取一个数组[`Color`](../color)结构. |
 | [EntriesCount](../../aspose.psd/icolorpalette/entriescount) { get; } | 获取条目数。 |
-| [IsCompactPalette](../../aspose.psd/icolorpalette/iscompactpalette) { get; } | 获取一个值，该值指示是否使用紧凑调色板。 |
+| [IsCompactPalette](../../aspose.psd/icolorpalette/iscompactpalette) { get; } | 获取一个指示是否使用紧凑调色板的值。 |
 
 ## 方法
 
@@ -30,7 +30,7 @@ public interface IColorPalette
 | [GetArgb32Color](../../aspose.psd/icolorpalette/getargb32color)(int) | 按索引获取 32 位 ARGB 调色板颜色。 |
 | [GetColor](../../aspose.psd/icolorpalette/getcolor)(int) | 按索引获取调色板颜色。 |
 | [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex#getnearestcolorindex)(Color) | 获取最接近颜色的索引。 |
-| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex#getnearestcolorindex_1)(int) | 获取最接近的 32 位 ARGB 颜色的索引。 |
+| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex#getnearestcolorindex_1)(int) | 获取最近的 32 位 ARGB 颜色的索引。 |
 
 ### 也可以看看
 

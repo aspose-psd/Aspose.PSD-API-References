@@ -1,7 +1,7 @@
 ---
 title: SaveArgb32Pixels
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сохраняет 32-битные пиксели ARGB.
+description: Сохраняет 32битные пиксели ARGB.
 type: docs
 weight: 500
 url: /ru/net/aspose.psd/rasterimage/saveargb32pixels/
@@ -17,7 +17,7 @@ public void SaveArgb32Pixels(Rectangle rectangle, int[] pixels)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rectangle | Rectangle | Прямоугольник для сохранения пикселей. |
-| pixels | Int32[] | 32-битный массив пикселей ARGB. |
+| pixels | Int32[] | Массив 32-битных пикселей ARGB. |
 
 ### Смотрите также
 

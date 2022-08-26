@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПолучаетOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructureдлину в байтах.
+description: ПолучаетOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure длина в байтах.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/length/
 ---
 ## PropertyStructure.Length property
 
-Получает[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах.
+Получает[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах.
 
 ```csharp
 public override int Length { get; }

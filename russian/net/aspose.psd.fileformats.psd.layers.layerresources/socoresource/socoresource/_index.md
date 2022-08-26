@@ -1,14 +1,14 @@
 ---
 title: SoCoResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаSoCoResourceaspose.psd.fileformats.psd.layers.layerresources/socoresource.
+description: Инициализирует новый экземплярSoCoResourceaspose.psd.fileformats.psd.layers.layerresources/socoresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/socoresource/
 ---
 ## SoCoResource constructor
 
-Инициализирует новый экземпляр класса[`SoCoResource`](../../socoresource).
+Инициализирует новый экземпляр[`SoCoResource`](../../socoresource) класс.
 
 ```csharp
 public SoCoResource()

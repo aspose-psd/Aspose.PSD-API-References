@@ -1,14 +1,14 @@
 ---
 title: DrawPath
 second_title: Aspose.PSD for .NET API 参考
-description: 绘制GraphicsPathaspose.psd/graphicspath
+description: 绘制一个GraphicsPathaspose.psd/graphicspath .
 type: docs
 weight: 270
 url: /zh/net/aspose.psd/graphics/drawpath/
 ---
 ## Graphics.DrawPath method
 
-绘制[`GraphicsPath`](../../graphicspath)。
+绘制一个[`GraphicsPath`](../../graphicspath) .
 
 ```csharp
 public void DrawPath(Pen pen, GraphicsPath path)
@@ -16,14 +16,14 @@ public void DrawPath(Pen pen, GraphicsPath path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定路径的颜色、宽度和样式。 |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath)进行绘制。 |
+| pen | Pen | [`Pen`](../../pen)它决定了路径的颜色、宽度和样式。 |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath)画。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 - 或 - *path*为空。 |
+| ArgumentNullException | *pen*为空。 -或- *path*一片空白。 |
 
 ### 例子
 

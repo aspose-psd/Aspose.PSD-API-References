@@ -3,7 +3,7 @@ title: ColorOverlayEffect
 second_title: Aspose.PSD for .NET API 参考
 description: 颜色叠加层效果
 type: docs
-weight: 2050
+weight: 2090
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/
 ---
 ## ColorOverlayEffect class
@@ -21,7 +21,7 @@ public class ColorOverlayEffect : ILayerEffect
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/blendmode) { get; set; } | 获取或设置混合模式。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color) { get; set; } | 获取或设置颜色。 |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/effecttype) { get; } | 获取一种效果 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible) { get; set; } | 获取或设置一个值，指示此实例是否可见。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible) { get; set; } | 获取或设置一个指示此实例是否可见的值。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity) { get; set; } | 获取或设置不透明度。 |
 
 ### 也可以看看

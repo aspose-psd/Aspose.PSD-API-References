@@ -3,7 +3,7 @@ title: RawDataSettings
 second_title: Справочник по Aspose.PSD для .NET API
 description: Настройки необработанных данных
 type: docs
-weight: 5210
+weight: 5260
 url: /ru/net/aspose.psd/rawdatasettings/
 ---
 ## RawDataSettings class
@@ -24,13 +24,13 @@ public class RawDataSettings
 
 | Имя | Описание |
 | --- | --- |
-| [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette) { get; set; } | Получает или устанавливает цветовую палитру |
-| [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter) { get; set; } | Получает или задает пользовательский преобразователь цвета |
-| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod) { get; set; } | Получает или задает метод сглаживания для преобразования необработанных данных |
+| [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette) { get; set; } | Получает или задает цветовую палитру |
+| [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter) { get; set; } | Получает или задает пользовательский конвертер цветов |
+| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod) { get; set; } | Получает или задает метод дизеринга для преобразования необработанных данных |
 | [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex) { get; set; } | Получает или задает резервный индекс для использования, когда индекс палитры выходит за пределы |
 | [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter) { get; set; } | Получает или задает преобразователь индексированных цветов |
 | [LineSize](../../aspose.psd/rawdatasettings/linesize) { get; set; } | Получает или задает размер строки пикселей в байтах для обработки необработанных данных |
-| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat) { get; set; } | Получает или задает формат данных пикселей |
+| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat) { get; set; } | Получает или задает формат пиксельных данных |
 
 ### Смотрите также
 

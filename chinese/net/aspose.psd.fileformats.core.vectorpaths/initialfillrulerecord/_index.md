@@ -18,15 +18,15 @@ public class InitialFillRuleRecord : VectorPathRecord
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InitialFillRuleRecord](initialfillrulerecord#constructor)() | 初始化[`InitialFillRuleRecord`](../initialfillrulerecord)类的新实例。 |
-| [InitialFillRuleRecord](initialfillrulerecord#constructor_1)(bool) | 初始化[`InitialFillRuleRecord`](../initialfillrulerecord)类的新实例。 |
-| [InitialFillRuleRecord](initialfillrulerecord#constructor_2)(byte[]) | 初始化[`InitialFillRuleRecord`](../initialfillrulerecord)类的新实例。 |
+| [InitialFillRuleRecord](initialfillrulerecord#constructor)() | 初始化[`InitialFillRuleRecord`](../initialfillrulerecord)类. |
+| [InitialFillRuleRecord](initialfillrulerecord#constructor_1)(bool) | 初始化[`InitialFillRuleRecord`](../initialfillrulerecord)类. |
+| [InitialFillRuleRecord](initialfillrulerecord#constructor_2)(byte[]) | 初始化[`InitialFillRuleRecord`](../initialfillrulerecord)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels) { get; set; } | 获取或设置一个值，指示是否从所有像素开始填充。 |
+| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels) { get; set; } | 获取或设置一个值，该值指示是否从所有像素开始填充。 |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/type) { get; } | 获取类型。 |
 
 ### 也可以看看

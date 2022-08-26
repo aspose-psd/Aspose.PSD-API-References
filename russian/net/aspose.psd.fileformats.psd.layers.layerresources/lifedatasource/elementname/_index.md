@@ -1,14 +1,14 @@
 ---
 title: ElementName
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает имя элемента графической библиотеки для библиотек Adobe Photoshop CC.
+description: Получает или задает имя элемента графической библиотеки для библиотек Adobe Photoshop CC Libraries.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/
 ---
 ## LiFeDataSource.ElementName property
 
-Получает или задает имя элемента графической библиотеки для библиотек Adobe® Photoshop® CC.
+Получает или задает имя элемента графической библиотеки для библиотек Adobe® Photoshop® CC Libraries.
 
 ```csharp
 public string ElementName { get; set; }

@@ -3,7 +3,7 @@ title: DescriptorStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Структура дескриптора
 type: docs
-weight: 3030
+weight: 3080
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/
 ---
 ## DescriptorStructure class
@@ -18,7 +18,7 @@ public class DescriptorStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [DescriptorStructure](descriptorstructure)(ClassID, ClassID, string, OSTypeStructure[]) | Инициализирует новый экземпляр класса[`DescriptorStructure`](../descriptorstructure). |
+| [DescriptorStructure](descriptorstructure)(ClassID, ClassID, string, OSTypeStructure[]) | Инициализирует новый экземпляр[`DescriptorStructure`](../descriptorstructure) класс. |
 
 ## Характеристики
 
@@ -28,8 +28,8 @@ public class DescriptorStructure : OSTypeStructure
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classname) { get; set; } | Получает или задает имя класса. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
-| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures) { get; set; } | Получает или задает структуры. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
+| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures) { get; set; } | Получает или задает копию массива структур. |
 
 ## Методы
 

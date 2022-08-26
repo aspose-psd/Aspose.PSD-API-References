@@ -1,7 +1,7 @@
 ---
 title: SetDirectorPhotography
 second_title: Справочник по Aspose.PSD для .NET API
-description: Устанавливает оператора-постановщика.
+description: Устанавливает операторапостановщика.
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirectorphotography/

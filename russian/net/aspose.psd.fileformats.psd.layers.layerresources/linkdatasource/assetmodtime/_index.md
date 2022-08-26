@@ -16,13 +16,13 @@ public double AssetModTime { get; set; }
 
 ### Стоимость имущества
 
-Время модификации актива.
+Время изменения актива.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Вы не можете получить доступ к свойству AssetModTime, оно доступно только для источника данных LIFE или LIFE версии 6 или более поздней. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Вы не можете получить доступ к свойству AssetModTime, оно доступно только для источника данных liFE или liFE с версией 6 или выше. |
 
 ### Смотрите также
 

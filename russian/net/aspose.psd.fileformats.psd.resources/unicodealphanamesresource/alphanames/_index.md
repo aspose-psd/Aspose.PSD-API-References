@@ -1,7 +1,7 @@
 ---
 title: AlphaNames
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает альфа-имена.
+description: Получает или задает альфаимена.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/alphanames/

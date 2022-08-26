@@ -32,7 +32,7 @@ public void ClearNoOp(ColorAdjustType type)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype)的一个元素，指定清除 NoOp 设置的类别。 |
+| type | ColorAdjustType | 一个元素[`ColorAdjustType`](../../coloradjusttype)指定清除 NoOp 设置的类别。 |
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public VibranceLayer AddVibranceAdjustmentLayer()
 
 ### 返回值
 
-新创建的 Vibrance 层。
+新创建的 Vibrance 图层。
 
 ### 例子
 

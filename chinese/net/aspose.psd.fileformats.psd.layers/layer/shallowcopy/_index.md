@@ -1,14 +1,14 @@
 ---
 title: ShallowCopy
 second_title: Aspose.PSD for .NET API 参考
-description: 创建当前层的浅表副本 请ltsee hrefhttps//msdn.microsoft.com/ru-ru/library/system.object.memberwiseclonevvs.110.aspx /gt 解释
+description: 创建当前层的浅表副本 请https//msdn.microsoft.com/ruru/library/system.object.memberwiseclonevvs.110.aspxhttps//msdn.microsoft.com/ruru/library/system.object.memberwiseclonevvs.110.aspx为了解释
 type: docs
 weight: 380
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/shallowcopy/
 ---
 ## Layer.ShallowCopy method
 
-创建当前层的浅表副本。 请&lt;see href="https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx" /&gt; 解释。
+创建当前层的浅表副本。 请[https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx)为了解释。
 
 ```csharp
 public Layer ShallowCopy()

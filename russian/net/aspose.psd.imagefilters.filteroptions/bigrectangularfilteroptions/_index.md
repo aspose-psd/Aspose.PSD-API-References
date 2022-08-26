@@ -3,7 +3,7 @@ title: BigRectangularFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Параметры большого прямоугольного фильтра
 type: docs
-weight: 4530
+weight: 4580
 url: /ru/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
 ## BigRectangularFilterOptions class

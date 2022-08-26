@@ -3,7 +3,7 @@ title: IPartialArgb64PixelLoader
 second_title: Aspose.PSD for .NET API 参考
 description: 64 位 ARGB 像素加载器
 type: docs
-weight: 4400
+weight: 4450
 url: /zh/net/aspose.psd/ipartialargb64pixelloader/
 ---
 ## IPartialArgb64PixelLoader interface

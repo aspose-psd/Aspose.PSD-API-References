@@ -1,14 +1,14 @@
 ---
 title: GetFirstSupportedDescriptorByTypeName
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает первый поддерживаемый дескриптор по имени типа.
+description: Получает первый поддерживаемый дескриптор по имени его типа.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/
 ---
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Получает первый поддерживаемый дескриптор по имени типа.
+Получает первый поддерживаемый дескриптор по имени его типа.
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
@@ -21,7 +21,7 @@ public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
 
 ### Возвращаемое значение
 
-Первый найденный дескриптор открывателя или null, если такой дескриптор не найден.
+Первый найденный дескриптор открывателя или нуль, если такой дескриптор не найден.
 
 ### Примечания
 

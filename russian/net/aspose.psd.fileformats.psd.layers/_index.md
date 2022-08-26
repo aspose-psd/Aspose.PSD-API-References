@@ -14,19 +14,19 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/
 | --- | --- |
 | [BlendRange](./blendrange) | Диапазон смешивания. |
 | [ChannelInformation](./channelinformation) | Информация о канале. |
-| [GlobalLayerMaskInfo](./globallayermaskinfo) | Маска глобального слоя. |
-| [Layer](./layer) | Слой psd. |
-| [LayerBlendingRangesData](./layerblendingrangesdata) | Данные диапазона смешивания слоев. |
-| [LayerGroup](./layergroup) | Группа слоев класса |
+| [GlobalLayerMaskInfo](./globallayermaskinfo) | Раздел маски глобального слоя. |
+| [Layer](./layer) | PSD-слой. |
+| [LayerBlendingRangesData](./layerblendingrangesdata) | Данные диапазонов смешивания слоев. |
+| [LayerGroup](./layergroup) | Групповой слой class |
 | [LayerHashCalculator](./layerhashcalculator) | Калькулятор хэшей для слоев PSD. Его можно использовать для поиска одинаковых или разных слоев в разных файлах PSD |
-| [LayerMaskData](./layermaskdata) | Определяет базовый класс LayerMaskData, который содержит информацию о данных маски слоя в файле PSD. Это может помочь изменить файлы Adobe® Photoshop® программно и автоматизировать редактирование формата PSD. Если слой имеет только растровую маску, ImageData содержит байты данных растровой маски. Если слой имеет только векторную маску, ImageData содержит растеризованные (кэшированные) байты данных векторной маски. Если слой имеет как слой, так и векторную маску, ImageData содержит растровую маску и растеризованную векторную маску вместе. [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata)Длина в байтах должна быть равна Ширина * Высота[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle)свойства. Обратите внимание, что простого удаления/добавления/обновления LayerMaskData недостаточно для корректного сохранения потому что каналы не обновляются; хотя это может обеспечить правильный рендеринг. Для этого следует использовать метод[`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask). |
-| [LayerMaskDataFull](./layermaskdatafull) | Определяет класс LayerMaskDataFull, который содержит информацию о данных маски в слое файла PSD , когда слой имеет как слой, так и векторные маски. В противном случае используется[`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort). ImageData содержит растровую маску и растеризованную векторную маску вместе. Длина байтов ImageData должна быть равна свойствам MaskRectangle.Width * MaskRectangle.Height. |
-| [LayerMaskDataShort](./layermaskdatashort) | Определяет класс LayerMaskDataShort, который содержит информацию о данных маски в слое файла PSD когда слой имеет только растровую или векторную маску, но не обе одновременно . В противном случае используется[`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull). Если слой имеет только растровую маску, ImageData содержит байты данных растровой маски. Если слой имеет только векторную маску, ImageData содержит растеризованные (кэшированные) байты данных векторной маски. [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata)Длина в байтах должна быть равна Ширина * Высота[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle)свойства. |
+| [LayerMaskData](./layermaskdata) | Определяет базовый класс LayerMaskData, который содержит информацию о данных маски слоя в файле PSD. Может помочь программно модифицировать файлы Adobe® Photoshop® и автоматизировать редактирование формата PSD. Если слой имеет только растровую маску, ImageData содержит растр байты данных маски. Если слой имеет только векторную маску, ImageData содержит байты растеризованных (кэшированных) данных векторной маски. Если слой имеет как слой, так и векторную маску, ImageData содержит растровую маску и растеризованную векторную маску вместе. [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata)длина в байтах должна быть равна Ширина * Высота[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle) properties. Обратите внимание, что простого удаления/добавления/обновления LayerMaskData недостаточно для корректного сохранения , так как каналы не обновляются; хотя это может обеспечить правильный рендеринг. [`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask) для этого следует использовать метод. |
+| [LayerMaskDataFull](./layermaskdatafull) | Определяет класс LayerMaskDataFull, который содержит информацию о данных маски в файле PSD layer , когда слой имеет как слойную, так и векторную маску. В противном случае[`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort) используется. ImageData содержит комбинацию растровой маски и растрированной векторной маски. Длина байтов ImageData должна быть равна MaskRectangle.Width * MaskRectangle.Height properties. |
+| [LayerMaskDataShort](./layermaskdatashort) | Определяет класс LayerMaskDataShort, который содержит информацию о данных маски в файле PSD layer , когда слой имеет только растровую или векторную маску, но не обе одновременно. В противном случае[`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull) используется. Если слой имеет только растровую маску, ImageData содержит байты данных растровой маски. Если слой имеет только векторную маску, ImageData содержит байты растрированных (кэшированных) данных векторной маски. [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata)длина в байтах должна быть равна Ширина * Высота[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle) свойства. |
 | [LayerResource](./layerresource) | Представляет информацию о слое. |
 | [LayerResourcesRegistry](./layerresourcesregistry) | Определить реестр ресурсов слоя для загрузки файлов PSD. |
-| [LinkedLayersManager](./linkedlayersmanager) | Класс менеджера связанных слоев. |
-| [SectionDividerLayer](./sectiondividerlayer) | Разделительный слой для обозначения границ папки (группы слоев). |
-| [TextLayer](./textlayer) | Класс текстового слоя |
+| [LinkedLayersManager](./linkedlayersmanager) | Класс диспетчера связанных слоев. |
+| [SectionDividerLayer](./sectiondividerlayer) | Слой-разделитель раздела для обозначения границ папки (группы слоев). |
+| [TextLayer](./textlayer) | Текстовый слой class |
 ## Интерфейсы
 
 | Интерфейс | Описание |
@@ -38,6 +38,6 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/
 | перечисление | Описание |
 | --- | --- |
 | [LayerFlags](./layerflags) | Флаги слоя |
-| [LayerMaskFlags](./layermaskflags) | Флаги маски слоя |
+| [LayerMaskFlags](./layermaskflags) | Маска слоя flags |
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->

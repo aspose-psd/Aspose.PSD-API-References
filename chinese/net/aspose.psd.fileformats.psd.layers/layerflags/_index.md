@@ -1,14 +1,14 @@
 ---
 title: LayerFlags
 second_title: Aspose.PSD for .NET API 参考
-description: 层标志
+description: 图层标志
 type: docs
-weight: 2150
+weight: 2190
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerflags/
 ---
 ## LayerFlags enumeration
 
-层标志
+图层标志
 
 ```csharp
 [Flags]
@@ -19,12 +19,12 @@ public enum LayerFlags : byte
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| TransparencyProtected | `1` | 透明保护 |
+| TransparencyProtected | `1` | 受保护的透明度 |
 | Visible | `2` | 可见标志 |
 | Obsolete | `4` | 过时的标志 |
-| HasUsefulInformation | `8` | 1 用于 Photoshop 5.0 及更高版本，判断位 4 是否有有用信息 |
+| HasUsefulInformation | `8` | 1 适用于 Photoshop 5.0 及更高版本，表示第 4 位是否有有用信息 |
 | PixelDataIrrelevantToAppearenceInDocument | `10` | 与文档中出现无关的像素数据 |
-| Undocumented | `20` | 无证标志 |
+| Undocumented | `20` | 未记录的标志 |
 
 ### 也可以看看
 

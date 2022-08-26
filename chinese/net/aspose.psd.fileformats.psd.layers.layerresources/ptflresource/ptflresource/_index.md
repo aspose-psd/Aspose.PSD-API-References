@@ -1,14 +1,14 @@
 ---
 title: PtFlResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PtFlResourceaspose.psd.fileformats.psd.layers.layerresources/ptflresource类的新实例
+description: 初始化PtFlResourceaspose.psd.fileformats.psd.layers.layerresources/ptflresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/ptflresource/
 ---
 ## PtFlResource constructor
 
-初始化[`PtFlResource`](../../ptflresource)类的新实例。
+初始化[`PtFlResource`](../../ptflresource)类.
 
 ```csharp
 public PtFlResource(string patternName, string patternId)

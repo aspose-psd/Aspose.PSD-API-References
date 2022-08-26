@@ -16,7 +16,7 @@ public short Green { get; set; }
 
 ### 适当的价值
 
-绿色。
+绿色.
 
 ### 也可以看看
 

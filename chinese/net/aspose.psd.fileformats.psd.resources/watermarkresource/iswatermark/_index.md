@@ -1,14 +1,14 @@
 ---
 title: IsWatermark
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置该实例是否为水印的值
+description: 获取或设置一个值该值指示此实例是否为水印
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/watermarkresource/iswatermark/
 ---
 ## WatermarkResource.IsWatermark property
 
-获取或设置该实例是否为水印的值。
+获取或设置一个值，该值指示此实例是否为水印。
 
 ```csharp
 public bool IsWatermark { get; set; }
@@ -16,7 +16,7 @@ public bool IsWatermark { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例是水印；否则，` false` 。
+`真的`如果这个实例是水印；否则，`错误的` .
 
 ### 也可以看看
 

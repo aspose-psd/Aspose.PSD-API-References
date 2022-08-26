@@ -1,14 +1,14 @@
 ---
 title: LayerHashCalculator
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LayerHashCalculatoraspose.psd.fileformats.psd.layers/layerhashcalculator类的新实例
+description: 初始化LayerHashCalculatoraspose.psd.fileformats.psd.layers/layerhashcalculator类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/layerhashcalculator/
 ---
 ## LayerHashCalculator constructor
 
-初始化[`LayerHashCalculator`](../../layerhashcalculator)类的新实例。
+初始化[`LayerHashCalculator`](../../layerhashcalculator)类.
 
 ```csharp
 public LayerHashCalculator(Layer layer)
@@ -16,11 +16,11 @@ public LayerHashCalculator(Layer layer)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | Layer | 图层。 |
+| layer | Layer | 层。 |
 
 ### 例子
 
-以下代码演示了获取不同文件中相似层的唯一哈希的 API。
+以下代码演示了用于获取不同文件中相似层的唯一哈希的 API。
 
 ```csharp
 [C#]

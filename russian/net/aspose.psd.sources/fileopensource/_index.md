@@ -1,14 +1,14 @@
 ---
 title: FileOpenSource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет исходный файл для открытия.
+description: Представляет источник файла для открытия.
 type: docs
-weight: 5480
+weight: 5530
 url: /ru/net/aspose.psd.sources/fileopensource/
 ---
 ## FileOpenSource class
 
-Представляет исходный файл для открытия.
+Представляет источник файла для открытия.
 
 ```csharp
 public sealed class FileOpenSource : FileSource
@@ -18,7 +18,7 @@ public sealed class FileOpenSource : FileSource
 
 | Имя | Описание |
 | --- | --- |
-| [FileOpenSource](fileopensource)(string) | Инициализирует новый экземпляр класса[`FileOpenSource`](../fileopensource). |
+| [FileOpenSource](fileopensource)(string) | Инициализирует новый экземпляр[`FileOpenSource`](../fileopensource) класс. |
 
 ## Характеристики
 

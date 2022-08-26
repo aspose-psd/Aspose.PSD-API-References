@@ -1,14 +1,14 @@
 ---
 title: ToGdiMatrix
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПреобразуетMatrixaspose.psd/matrixвMatrix.
+description: ПреобразуетMatrixaspose.psd/matrix кMatrix .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/matrixextensions/togdimatrix/
 ---
 ## MatrixExtensions.ToGdiMatrix method
 
-Преобразует[`Matrix`](../../../aspose.psd/matrix)вMatrix.
+Преобразует[`Matrix`](../../../aspose.psd/matrix) кMatrix .
 
 ```csharp
 public static Matrix ToGdiMatrix(Matrix matrix)
@@ -16,7 +16,7 @@ public static Matrix ToGdiMatrix(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../../aspose.psd/matrix)для преобразования. |
+| matrix | Matrix | [`Matrix`](../../../aspose.psd/matrix) конвертировать. |
 
 ### Возвращаемое значение
 

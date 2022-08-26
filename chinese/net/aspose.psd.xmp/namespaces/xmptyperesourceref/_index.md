@@ -1,14 +1,14 @@
 ---
 title: XmpTypeResourceRef
 second_title: Aspose.PSD for .NET API 参考
-description: XMP ResourceRef URI
+description: XMP 资源引用 URI.
 type: docs
 weight: 150
 url: /zh/net/aspose.psd.xmp/namespaces/xmptyperesourceref/
 ---
 ## Namespaces.XmpTypeResourceRef field
 
-XMP ResourceRef URI。
+XMP 资源引用 URI.
 
 ```csharp
 public const string XmpTypeResourceRef;

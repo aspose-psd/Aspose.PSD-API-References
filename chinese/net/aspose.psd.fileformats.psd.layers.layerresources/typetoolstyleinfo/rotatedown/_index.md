@@ -1,14 +1,14 @@
 ---
 title: RotateDown
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示它是否为向下旋转样式
+description: 获取或设置一个值指示是否为向下旋转样式
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/
 ---
 ## TypeToolStyleInfo.RotateDown property
 
-获取或设置一个值，指示它是否为向下旋转样式。
+获取或设置一个值，指示是否为向下旋转样式。
 
 ```csharp
 public bool RotateDown { get; set; }
@@ -16,7 +16,7 @@ public bool RotateDown { get; set; }
 
 ### 适当的价值
 
-` true` 如果是向下旋转样式；否则，` false` 。
+`真的`如果是向下旋转样式；否则，`错误的` .
 
 ### 也可以看看
 

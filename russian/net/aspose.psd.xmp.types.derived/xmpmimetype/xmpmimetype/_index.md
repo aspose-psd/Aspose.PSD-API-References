@@ -1,14 +1,14 @@
 ---
 title: XmpMimeType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаXmpMimeTypeaspose.psd.xmp.types.derived/xmpmimetype.
+description: Инициализирует новый экземплярXmpMimeTypeaspose.psd.xmp.types.derived/xmpmimetype класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.derived/xmpmimetype/xmpmimetype/
 ---
 ## XmpMimeType constructor
 
-Инициализирует новый экземпляр класса[`XmpMimeType`](../../xmpmimetype).
+Инициализирует новый экземпляр[`XmpMimeType`](../../xmpmimetype) класс.
 
 ```csharp
 public XmpMimeType(string value)

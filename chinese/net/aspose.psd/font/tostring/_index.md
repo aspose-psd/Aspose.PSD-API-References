@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PSD for .NET API 参考
-description: 返回此Fontaspose.psd/font的人类可读字符串表示
+description: 返回一个人类可读的字符串表示Fontaspose.psd/font .
 type: docs
 weight: 140
 url: /zh/net/aspose.psd/font/tostring/
 ---
 ## Font.ToString method
 
-返回此[`Font`](../../font)的人类可读字符串表示。
+返回一个人类可读的字符串表示[`Font`](../../font) .
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-表示此[`Font`](../../font)的字符串。
+代表这个的字符串[`Font`](../../font).
 
 ### 也可以看看
 

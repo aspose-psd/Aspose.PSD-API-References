@@ -1,14 +1,14 @@
 ---
 title: ToGdiColorMaps
 second_title: Aspose.PSD for .NET API 参考
-description: 将ColorMapaspose.psd/colormap数组转换为ColorMap数组
+description: 转换ColorMapaspose.psd/colormap数组到ColorMap数组.
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.extensions/colormapextensions/togdicolormaps/
 ---
 ## ColorMapExtensions.ToGdiColorMaps method
 
-将[`ColorMap`](../../../aspose.psd/colormap)数组转换为ColorMap数组。
+转换[`ColorMap`](../../../aspose.psd/colormap)数组到ColorMap数组.
 
 ```csharp
 public static ColorMap[] ToGdiColorMaps(ColorMap[] colorMaps)
@@ -20,7 +20,7 @@ public static ColorMap[] ToGdiColorMaps(ColorMap[] colorMaps)
 
 ### 返回值
 
-转换后的ColorMap数组。
+转换后的ColorMap数组.
 
 ### 也可以看看
 

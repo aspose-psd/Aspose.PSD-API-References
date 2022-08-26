@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает размер блока ресурса в байтах включая его данные.
+description: Получает размер блока ресурсов в байтах включая его данные.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/size/
 ---
 ## ResourceBlock.Size property
 
-Получает размер блока ресурса в байтах, включая его данные.
+Получает размер блока ресурсов в байтах, включая его данные.
 
 ```csharp
 public int Size { get; }

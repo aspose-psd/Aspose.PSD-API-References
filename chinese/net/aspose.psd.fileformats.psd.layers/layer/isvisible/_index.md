@@ -16,11 +16,11 @@ public bool IsVisible { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例可见；否则，` false` 。
+`真的`如果此实例可见；否则，`错误的` .
 
 ### 例子
 
-以下示例演示了如何在 Aspose.PSD 中更改 LayerGroup 的可见性
+以下示例演示了如何在 Aspose.PSD 中更改 LayerGroup 可见性
 
 ```csharp
 [C#]

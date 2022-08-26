@@ -3,7 +3,7 @@ title: PatternFillSettings
 second_title: Aspose.PSD for .NET API 参考
 description: 图案填充效果设置
 type: docs
-weight: 1980
+weight: 2020
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
 ## PatternFillSettings class
@@ -18,18 +18,18 @@ public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer) { get; set; } | 获取或设置一个值，指示是否[与图层链接]。 |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer) { get; set; } | 获取或设置一个值，指示是否[与图层链接]. |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color) { get; set; } | 获取或设置颜色。 |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype) { get; } | 填充类型 |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移。 |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked) { get; set; } | 获取或设置一个值，该值指示此[`PatternFillSettings`](../patternfillsettings)是否已链接。 |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移量。 |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked) { get; set; } | 获取或设置一个值，该值指示是否[`PatternFillSettings`](../patternfillsettings)已链接。 |
 | [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata) { get; set; } | 获取或设置模式数据。 |
 | [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight) { get; set; } | 获取或设置图案的高度。 |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid) { get; set; } | 获取或设置模式标识符。 |
 | [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname) { get; set; } | 获取或设置模式的名称。 |
 | [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth) { get; set; } | 获取或设置图案的宽度。 |
 | [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype) { get; set; } | 获取或设置点的类型。 |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale) { get; set; } | 获取或设置比例。 |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale) { get; set; } | 获取或设置比例尺。 |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset) { get; set; } | 获取或设置垂直偏移量。 |
 
 ## 方法

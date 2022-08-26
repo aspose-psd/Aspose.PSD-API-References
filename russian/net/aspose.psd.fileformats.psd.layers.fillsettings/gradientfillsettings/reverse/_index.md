@@ -1,14 +1,14 @@
 ---
 title: Reverse
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этоGradientFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettingsобратным.
+description: Получает или задает значение указывающее является ли этоGradientFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings является обратным.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/
 ---
 ## GradientFillSettings.Reverse property
 
-Получает или задает значение, указывающее, является ли это[`GradientFillSettings`](../../gradientfillsettings)обратным.
+Получает или задает значение, указывающее, является ли это[`GradientFillSettings`](../../gradientfillsettings) является обратным.
 
 ```csharp
 public bool Reverse { get; set; }
@@ -16,7 +16,7 @@ public bool Reverse { get; set; }
 
 ### Стоимость имущества
 
-` true` если наоборот; в противном случае` false` .
+`истинный`если наоборот; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

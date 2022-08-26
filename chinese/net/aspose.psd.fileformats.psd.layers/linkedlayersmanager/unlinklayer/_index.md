@@ -1,14 +1,14 @@
 ---
 title: UnlinkLayer
 second_title: Aspose.PSD for .NET API 参考
-description: 取消链接层
+description: 取消链接层..
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/
 ---
 ## LinkedLayersManager.UnlinkLayer method
 
-取消链接层。
+取消链接层..
 
 ```csharp
 public void UnlinkLayer(Layer layer)
@@ -22,8 +22,8 @@ public void UnlinkLayer(Layer layer)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 层为空。 |
-| ArgumentException | 图层的容器应该和当前的 PsdImage 一样。 |
+| ArgumentNullException | 图层为空。 |
+| ArgumentException | 图层的容器应该与当前的 PsdImage 相同。 |
 
 ### 例子
 

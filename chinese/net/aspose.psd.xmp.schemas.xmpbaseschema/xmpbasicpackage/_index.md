@@ -3,7 +3,7 @@ title: XmpBasicPackage
 second_title: Aspose.PSD for .NET API 参考
 description: 表示 XMP 基本命名空间
 type: docs
-weight: 5710
+weight: 5760
 url: /zh/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/
 ---
 ## XmpBasicPackage class
@@ -18,14 +18,14 @@ public class XmpBasicPackage : XmpPackage
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpBasicPackage](xmpbasicpackage#constructor)() | 初始化[`XmpBasicPackage`](../xmpbasicpackage)类的新实例。 |
-| [XmpBasicPackage](xmpbasicpackage#constructor_1)(string, string) | 初始化[`XmpBasicPackage`](../xmpbasicpackage)类的新实例。 |
+| [XmpBasicPackage](xmpbasicpackage#constructor)() | 初始化[`XmpBasicPackage`](../xmpbasicpackage)类. |
+| [XmpBasicPackage](xmpbasicpackage#constructor_1)(string, string) | 初始化[`XmpBasicPackage`](../xmpbasicpackage)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | 获取或设置具有指定键的Object。 |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | 获取或设置Object使用指定的密钥。 |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | 获取 XMP 包中的密钥。 |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | 获取命名空间 URI。 |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | 获取前缀。 |
@@ -37,10 +37,10 @@ public class XmpBasicPackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue)(string, string) | 添加字符串属性。 |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | 清除此实例。 |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | 判断指定的key是否包含key。 |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | 判断指定key是否包含key。 |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | 将 XMP 值转换为 XML 表示形式。 |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | 删除具有指定键的值。 |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | 删除指定键的值。 |
 | [SetCreatedDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate#setcreateddate)(DateTime) | 添加资源创建日期。 |
 | [SetCreatedDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate#setcreateddate_1)(string) | 添加资源创建日期。 |
 | [SetCreatorTool](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool)(string) | 设置创建工具。 |
@@ -50,7 +50,7 @@ public class XmpBasicPackage : XmpPackage
 | [SetMetadataDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate#setmetadatadate_1)(string) | 添加元数据上次更改日期。 |
 | [SetModifyDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate#setmodifydate)(DateTime) | 添加资源上次修改日期。 |
 | [SetModifyDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate#setmodifydate_1)(string) | 添加资源上次修改日期。 |
-| [SetRating](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating)(int) | 设置评级。 |
+| [SetRating](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating)(int) | 设置评分。 |
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue)(string, IXmlValue) | 设置值。 |
 | virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) | 设置 XMP 类型值。 |
 
@@ -59,7 +59,7 @@ public class XmpBasicPackage : XmpPackage
 | 姓名 | 描述 |
 | --- | --- |
 | const [RatingMax](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax) | 评级最大值。 |
-| const [RatingMin](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin) | 评级最小值。 |
+| const [RatingMin](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin) | 评分最小值。 |
 | const [RatingRejected](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected) | 评级拒绝值。 |
 
 ### 也可以看看

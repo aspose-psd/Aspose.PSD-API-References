@@ -1,14 +1,14 @@
 ---
 title: JpegLsPreset
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 JPEG-LS 预设参数
+description: 获取或设置JPEGLS预设参数
 type: docs
 weight: 120
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/jpeglspreset/
 ---
 ## JpegOptions.JpegLsPreset property
 
-获取或设置 JPEG-LS 预设参数。
+获取或设置JPEG-LS预设参数。
 
 ```csharp
 public JpegLsPresetCodingParameters JpegLsPreset { get; set; }

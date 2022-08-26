@@ -16,7 +16,7 @@ public short ColorSpaceValue { get; set; }
 
 ### 适当的价值
 
-颜色空间值。
+色彩空间值。
 
 ### 也可以看看
 

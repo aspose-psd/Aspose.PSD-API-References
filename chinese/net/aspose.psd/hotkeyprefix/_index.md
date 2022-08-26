@@ -3,7 +3,7 @@ title: HotkeyPrefix
 second_title: Aspose.PSD for .NET API 参考
 description: 指定与文本相关的热键前缀的显示类型
 type: docs
-weight: 4230
+weight: 4280
 url: /zh/net/aspose.psd/hotkeyprefix/
 ---
 ## HotkeyPrefix enumeration

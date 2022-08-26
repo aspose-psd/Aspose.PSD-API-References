@@ -3,7 +3,7 @@ title: PixelFormat
 second_title: Справочник по Aspose.PSD для .NET API
 description: Фактическое значение формата данных пикселей.
 type: docs
-weight: 5120
+weight: 5170
 url: /ru/net/aspose.psd/pixelformat/
 ---
 ## PixelFormat enumeration
@@ -24,7 +24,7 @@ public enum PixelFormat
 | YCbCr | `3` | Цветовое пространство YCbCr. |
 | Cmyk | `4` | Цветовое пространство CMYK. |
 | Ycck | `5` | Цветовое пространство YCCK. |
-| CieLab | `6` | Лабораторное цветовое пространство CIE. |
+| CieLab | `6` | Цветовое пространство лаборатории CIE. |
 
 ### Смотрите также
 

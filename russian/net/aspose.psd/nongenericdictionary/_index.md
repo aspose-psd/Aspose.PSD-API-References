@@ -3,7 +3,7 @@ title: NonGenericDictionary
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет не универсальный словарь.
 type: docs
-weight: 5020
+weight: 5070
 url: /ru/net/aspose.psd/nongenericdictionary/
 ---
 ## NonGenericDictionary class
@@ -18,31 +18,31 @@ public class NonGenericDictionary : IDictionary
 
 | Имя | Описание |
 | --- | --- |
-| [NonGenericDictionary](nongenericdictionary)(IDictionary) | Инициализирует новый экземпляр класса[`NonGenericDictionary`](../nongenericdictionary). |
+| [NonGenericDictionary](nongenericdictionary)(IDictionary) | Инициализирует новый экземпляр[`NonGenericDictionary`](../nongenericdictionary) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Count](../../aspose.psd/nongenericdictionary/count) { get; } | Получает количество элементов, содержащихся в ICollection. |
-| [IsFixedSize](../../aspose.psd/nongenericdictionary/isfixedsize) { get; } | Получает значение, указывающее, имеет ли объект IDictionaryфиксированный размер. |
-| [IsReadOnly](../../aspose.psd/nongenericdictionary/isreadonly) { get; } | Получает значение, указывающее, доступен ли объект IDictionaryтолько для чтения. |
-| [IsSynchronized](../../aspose.psd/nongenericdictionary/issynchronized) { get; } | Получает значение, указывающее, является ли доступ к ICollectionсинхронизированным (потокобезопасным). ). |
+| [Count](../../aspose.psd/nongenericdictionary/count) { get; } | Получает количество элементов, содержащихся в ICollection . |
+| [IsFixedSize](../../aspose.psd/nongenericdictionary/isfixedsize) { get; } | Получает значение, указывающее, является ли IDictionary объект имеет фиксированный размер. |
+| [IsReadOnly](../../aspose.psd/nongenericdictionary/isreadonly) { get; } | Получает значение, указывающее, является ли IDictionary объект доступен только для чтения. |
+| [IsSynchronized](../../aspose.psd/nongenericdictionary/issynchronized) { get; } | Получает значение, указывающее, будет ли доступ к ICollection синхронизирован (потокобезопасный). |
 | [Item](../../aspose.psd/nongenericdictionary/item) { get; set; } | Получает или задает элемент с указанным ключом. |
-| [Keys](../../aspose.psd/nongenericdictionary/keys) { get; } | Получает объект ICollection, содержащий ключи IDictionaryобъект. |
-| [SyncRoot](../../aspose.psd/nongenericdictionary/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к ICollection. |
-| [Values](../../aspose.psd/nongenericdictionary/values) { get; } | Получает объект ICollection, содержащий значения в IDictionaryобъект. |
+| [Keys](../../aspose.psd/nongenericdictionary/keys) { get; } | Получает ICollection объект, содержащий ключи IDictionary объект. |
+| [SyncRoot](../../aspose.psd/nongenericdictionary/syncroot) { get; } | Получает объект, который можно использовать для синхронизации доступа к ICollection . |
+| [Values](../../aspose.psd/nongenericdictionary/values) { get; } | Получает ICollection объект, содержащий значения в IDictionary объект. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Add](../../aspose.psd/nongenericdictionary/add)(object, object) | Добавляет элемент с предоставленным ключом и значением в объект IDictionary. |
-| [Clear](../../aspose.psd/nongenericdictionary/clear)() | Удаляет все элементы из объекта IDictionary. |
-| [Contains](../../aspose.psd/nongenericdictionary/contains)(object) | Определяет, содержит ли объект IDictionaryэлемент с указанным ключом. |
-| [CopyTo](../../aspose.psd/nongenericdictionary/copyto)(Array, int) | Копирует элементы ICollectionв Array, начиная с определенного Arrayindex. |
+| [Add](../../aspose.psd/nongenericdictionary/add)(object, object) | Добавляет элемент с предоставленным ключом и значением в IDictionary объект. |
+| [Clear](../../aspose.psd/nongenericdictionary/clear)() | Удаляет все элементы из IDictionary объект. |
+| [Contains](../../aspose.psd/nongenericdictionary/contains)(object) | Определяет, является ли IDictionary объект содержит элемент с указанным ключом. |
+| [CopyTo](../../aspose.psd/nongenericdictionary/copyto)(Array, int) | Копирует элементы ICollection к Array , начиная с определенного Array индекс. |
 | [GetEnumerator](../../aspose.psd/nongenericdictionary/getenumerator)() | Получает перечислитель. |
-| [Remove](../../aspose.psd/nongenericdictionary/remove)(object) | Удаляет элемент с указанным ключом из объекта IDictionary. |
+| [Remove](../../aspose.psd/nongenericdictionary/remove)(object) | Удаляет элемент с указанным ключом из IDictionary объект. |
 
 ### Смотрите также
 

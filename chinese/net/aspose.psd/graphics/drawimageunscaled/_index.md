@@ -17,13 +17,13 @@ public void DrawImageUnscaled(Image sourceImage, Point point)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | sourceImage | Image | 要绘制的图像。 |
-| point | Point | [`Point`](../../point)结构，指定绘制图像的左上角。 |
+| point | Point | [`Point`](../../point)指定绘制图像的左上角的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*为空。 |
+| ArgumentNullException | *sourceImage*一片空白。 |
 
 ### 也可以看看
 
@@ -53,7 +53,7 @@ public void DrawImageUnscaled(Image sourceImage, int x, int y)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*为空。 |
+| ArgumentNullException | *sourceImage*一片空白。 |
 
 ### 也可以看看
 
@@ -81,7 +81,7 @@ public void DrawImageUnscaled(Image sourceImage, Rectangle rect)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*为空。 |
+| ArgumentNullException | *sourceImage*一片空白。 |
 
 ### 也可以看看
 
@@ -113,7 +113,7 @@ public void DrawImageUnscaled(Image sourceImage, int x, int y, int width, int he
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *sourceImage*为空。 |
+| ArgumentNullException | *sourceImage*一片空白。 |
 
 ### 也可以看看
 

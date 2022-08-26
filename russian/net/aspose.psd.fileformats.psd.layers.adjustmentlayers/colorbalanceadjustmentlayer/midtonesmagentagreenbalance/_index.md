@@ -1,14 +1,14 @@
 ---
 title: MidtonesMagentaGreenBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает баланс зеленого пурпурного полутона.
+description: Получает или задает средний баланс пурпурнозеленого полутона.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesmagentagreenbalance/
 ---
 ## ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance property
 
-Получает или задает баланс зеленого пурпурного полутона.
+Получает или задает средний баланс пурпурно-зеленого полутона.
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }
@@ -16,13 +16,13 @@ public short MidtonesMagentaGreenBalance { get; set; }
 
 ### Стоимость имущества
 
-Средние тона Magenta Green Balance.
+Средние тона пурпурно-зеленого баланса.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Средние тона Пурпурный Зеленый Баланс должен быть в диапазоне от -100 до +100 . |
+| ArgumentOutOfRangeException | Средние тона Пурпурный Зеленый Баланс должен находиться в диапазоне от -100 до +100. |
 
 ### Примеры
 

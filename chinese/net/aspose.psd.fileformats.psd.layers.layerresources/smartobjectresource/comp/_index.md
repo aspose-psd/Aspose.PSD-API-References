@@ -1,14 +1,14 @@
 ---
 title: Comp
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 文件中智能对象层数据的 comp 值 智能对象中的图层组合https//helpx.adobe.com/photoshop/using/layer-comps.html
+description: 获取或设置PSD文件中智能对象图层数据的comp值 智能对象中的图层组合https//helpx.adobe.com/photoshop/using/layercomps.html
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/
 ---
 ## SmartObjectResource.Comp property
 
-获取或设置 PSD 文件中智能对象层数据的 comp 值。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+获取或设置PSD文件中智能对象图层数据的comp值。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int Comp { get; set; }
@@ -16,7 +16,7 @@ public int Comp { get; set; }
 
 ### 适当的价值
 
-comp 值，如果没有，则为 -1。
+comp 值，如果没有则为 -1。
 
 ### 也可以看看
 

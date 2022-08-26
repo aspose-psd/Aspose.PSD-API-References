@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.PSD for .NET API 参考
-description: 获取层资源长度以字节为单位
+description: 以字节为单位获取层资源长度
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length/
 ---
 ## TypeToolInfo6Resource.Length property
 
-获取层资源长度（以字节为单位）。
+以字节为单位获取层资源长度。
 
 ```csharp
 public override int Length { get; }

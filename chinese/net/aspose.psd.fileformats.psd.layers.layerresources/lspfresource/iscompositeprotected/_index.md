@@ -16,7 +16,7 @@ public bool IsCompositeProtected { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例受到复合保护；否则，` false` 。
+`真的`如果这个实例是复合保护的；否则，`错误的` .
 
 ### 也可以看看
 

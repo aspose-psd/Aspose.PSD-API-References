@@ -16,7 +16,7 @@ public DitheringMethods DitheringMethod { get; set; }
 
 ### 适当的价值
 
-使用的抖动方法用于原始数据转换
+用于原始数据转换的抖动方法
 
 ### 也可以看看
 

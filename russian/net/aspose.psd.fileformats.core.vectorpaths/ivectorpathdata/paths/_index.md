@@ -20,7 +20,7 @@ public VectorPathRecord[] Paths { get; set; }
 
 ### Примеры
 
-Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для правильной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
 
 ```csharp
 [C#]

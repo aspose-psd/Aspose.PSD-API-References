@@ -16,11 +16,11 @@ public int Blues { get; set; }
 
 ### 适当的价值
 
-蓝调值。
+布鲁斯值。
 
 ### 例子
 
-以下示例演示如何编辑 BlwhResource。
+以下示例演示了如何编辑 BlwhResource。
 
 ```csharp
 [C#]

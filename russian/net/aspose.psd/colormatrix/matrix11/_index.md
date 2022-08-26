@@ -1,14 +1,14 @@
 ---
 title: Matrix11
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает элемент в первой строке и первом столбце этогоColorMatrixaspose.psd/colormatrix.
+description: Получает или устанавливает элемент в первой строке и первом столбце этогоColorMatrixaspose.psd/colormatrix .
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/colormatrix/matrix11/
 ---
 ## ColorMatrix.Matrix11 property
 
-Получает или устанавливает элемент в первой строке и первом столбце этого[`ColorMatrix`](../../colormatrix).
+Получает или устанавливает элемент в первой строке и первом столбце этого[`ColorMatrix`](../../colormatrix) .
 
 ```csharp
 public float Matrix11 { get; set; }

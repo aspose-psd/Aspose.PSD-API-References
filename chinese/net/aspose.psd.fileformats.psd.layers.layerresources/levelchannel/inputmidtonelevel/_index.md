@@ -1,14 +1,14 @@
 ---
 title: InputMidtoneLevel
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置输入中间调电平浮点数
+description: 获取或设置输入中间调水平浮点数
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/
 ---
 ## LevelChannel.InputMidtoneLevel property
 
-获取或设置输入中间调电平浮点数。
+获取或设置输入中间调水平浮点数。
 
 ```csharp
 public float InputMidtoneLevel { get; set; }
@@ -16,7 +16,7 @@ public float InputMidtoneLevel { get; set; }
 
 ### 适当的价值
 
-输入中间调电平浮动。
+输入中间调电平浮点数。
 
 ### 例外
 

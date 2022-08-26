@@ -1,14 +1,14 @@
 ---
 title: Point
 second_title: Aspose.PSD for .NET API 参考
-description: 表示一对有序的整数 x 和 y 坐标它定义了二维平面中的一个点
+description: 表示整数 x 和 y 坐标的有序对定义二维平面中的点
 type: docs
-weight: 5140
+weight: 5190
 url: /zh/net/aspose.psd/point/
 ---
 ## Point structure
 
-表示一对有序的整数 x 和 y 坐标，它定义了二维平面中的一个点。
+表示整数 x 和 y 坐标的有序对，定义二维平面中的点。
 
 ```csharp
 public struct Point
@@ -18,39 +18,39 @@ public struct Point
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Point](point#constructor_1)(int) | 使用整数值指定的坐标初始化[`Point`](../point)结构的新实例。 |
-| [Point](point#constructor)(Size) | 从[`Size`](../size)结构初始化[`Point`](../point)结构的新实例。 |
-| [Point](point#constructor_2)(int, int) | 使用指定坐标初始化[`Point`](../point)结构的新实例。 |
+| [Point](point#constructor_1)(int) | 初始化[`Point`](../point)结构使用由整数值指定的坐标。 |
+| [Point](point#constructor)(Size) | 初始化[`Point`](../point)从结构[`Size`](../size)结构. |
+| [Point](point#constructor_2)(int, int) | 初始化[`Point`](../point)具有指定坐标的结构。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Empty](../../aspose.psd/point/empty) { get; } | 获取具有[`X`](./x)和的[`Point`](../point)结构的新实例[`Y`](./y)值设置为零。 |
-| [IsEmpty](../../aspose.psd/point/isempty) { get; } | 获取一个值，该值指示此[`Point`](../point)是否为空。 |
-| [X](../../aspose.psd/point/x) { get; set; } | 获取或设置此[`Point`](../point)的 x 坐标。 |
-| [Y](../../aspose.psd/point/y) { get; set; } | 获取或设置此[`Point`](../point)的 y 坐标。 |
+| static [Empty](../../aspose.psd/point/empty) { get; } | 获取一个新的实例[`Point`](../point)具有的结构[`X`](./x)和[`Y`](./y)值设置为零。 |
+| [IsEmpty](../../aspose.psd/point/isempty) { get; } | 获取一个值，该值指示这是否[`Point`](../point)是空的。 |
+| [X](../../aspose.psd/point/x) { get; set; } | 获取或设置 this 的 x 坐标[`Point`](../point) . |
+| [Y](../../aspose.psd/point/y) { get; set; } | 获取或设置 this 的 y 坐标[`Point`](../point) . |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Add](../../aspose.psd/point/add)(Point, Size) | 将指定的[`Size`](../size)添加到指定的[`Point`](../point)中。 |
-| static [Ceiling](../../aspose.psd/point/ceiling)(PointF) | 通过舍入的值将指定的[`PointF`](../pointf)转换为[`Point`](../point)[`PointF`](../pointf)到下一个更高的整数值。 |
-| static [Round](../../aspose.psd/point/round)(PointF) | 通过舍入将指定的[`PointF`](../pointf) 转换为[`Point`](../point)对象T:Aspose.PSD.Point值到最接近的整数。 |
-| static [Subtract](../../aspose.psd/point/subtract)(Point, Size) | 返回从指定的[`Point`](../point)中减去指定的[`Size`](../size)的结果。 |
-| static [Truncate](../../aspose.psd/point/truncate)(PointF) | 通过截断的值将指定的[`PointF`](../pointf)转换为[`Point`](../point)[`Point`](../point)。 |
-| override [Equals](../../aspose.psd/point/equals)(object) | 指定此[`Point`](../point)是否包含与指定的Object相同的坐标。 |
-| override [GetHashCode](../../aspose.psd/point/gethashcode)() | 返回此[`Point`](../point)的哈希码。 |
-| [Offset](../../aspose.psd/point/offset#offset)(Point) | 将此[`Point`](../point)转换为指定的[`Point`](../point)。 |
-| [Offset](../../aspose.psd/point/offset#offset_1)(int, int) | 按指定量翻译此[`Point`](../point)。 |
-| override [ToString](../../aspose.psd/point/tostring)() | 将此[`Point`](../point)转换为人类可读的字符串。 |
-| [operator +](../../aspose.psd/point/op_addition) | 将[`Point`](../point)转换为给定的[`Size`](../size)。 |
-| [operator ==](../../aspose.psd/point/op_equality) | 比较两个[`Point`](../point)对象。结果指定两个Aspose的[`X`](./x) 和[`Y`](./y)属性的值是否.PSD.Point对象是相等的。 |
-| [explicit operator](../../aspose.psd/point/op_explicit) | 将指定的[`Point`](../point)结构转换为[`Size`](../size)结构。 |
-| [implicit operator](../../aspose.psd/point/op_implicit) | 将指定的[`Point`](../point)结构转换为[`PointF`](../pointf)结构。 |
-| [operator !=](../../aspose.psd/point/op_inequality) | 比较两个[`Point`](../point)对象。结果指定两个Aspose的[`X`](./x) 或[`Y`](./y)属性的值是否.PSD.Point对象不相等。 |
-| [operator -](../../aspose.psd/point/op_subtraction) | 将[`Point`](../point)转换为给定[`Size`](../size)的负数。 |
+| static [Add](../../aspose.psd/point/add)(Point, Size) | 添加指定的[`Size`](../size)到指定的[`Point`](../point) . |
+| static [Ceiling](../../aspose.psd/point/ceiling)(PointF) | 转换指定的[`PointF`](../pointf)到一个[`Point`](../point)通过四舍五入的值[`PointF`](../pointf)到下一个更高的整数值。 |
+| static [Round](../../aspose.psd/point/round)(PointF) | 转换指定的[`PointF`](../pointf)到一个[`Point`](../point)通过四舍五入的对象[`Point`](../point)值到最接近的整数。 |
+| static [Subtract](../../aspose.psd/point/subtract)(Point, Size) | 返回指定的减法结果[`Size`](../size)从指定的[`Point`](../point) . |
+| static [Truncate](../../aspose.psd/point/truncate)(PointF) | 转换指定的[`PointF`](../pointf)到一个[`Point`](../point)通过截断的值[`Point`](../point) . |
+| override [Equals](../../aspose.psd/point/equals)(object) | 指定这是否[`Point`](../point)包含与指定相同的坐标Object . |
+| override [GetHashCode](../../aspose.psd/point/gethashcode)() | 为此返回哈希码[`Point`](../point) . |
+| [Offset](../../aspose.psd/point/offset#offset)(Point) | 翻译这个[`Point`](../point)由指定的[`Point`](../point) . |
+| [Offset](../../aspose.psd/point/offset#offset_1)(int, int) | 翻译这个[`Point`](../point)按指定数量。 |
+| override [ToString](../../aspose.psd/point/tostring)() | 转换这个[`Point`](../point)到一个人类可读的字符串。 |
+| [operator +](../../aspose.psd/point/op_addition) | 翻译一个[`Point`](../point)由给定的[`Size`](../size) . |
+| [operator ==](../../aspose.psd/point/op_equality) | 比较两个[`Point`](../point)对象。结果指定的值是否[`X`](./x)和[`Y`](./y)两者的属性[`Point`](../point)对象是相等的。 |
+| [explicit operator](../../aspose.psd/point/op_explicit) | 转换指定的[`Point`](../point)结构为[`Size`](../size)结构. |
+| [implicit operator](../../aspose.psd/point/op_implicit) | 转换指定的[`Point`](../point)结构为[`PointF`](../pointf)结构. |
+| [operator !=](../../aspose.psd/point/op_inequality) | 比较两个[`Point`](../point)对象。结果指定的值是否[`X`](./x)或者[`Y`](./y)两者的属性[`Point`](../point)对象不相等。 |
+| [operator -](../../aspose.psd/point/op_subtraction) | 翻译一个[`Point`](../point)通过给定的否定[`Size`](../size) . |
 
 ### 也可以看看
 

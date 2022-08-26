@@ -1,14 +1,14 @@
 ---
 title: RdOptimizationError
 second_title: Aspose.PSD for .NET API 参考
-description: RD 优化错误异常类
+description: RD优化错误异常类
 type: docs
 weight: 670
 url: /zh/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
 ## RdOptimizationError class
 
-RD 优化错误异常类
+RD优化错误异常类
 
 ```csharp
 public class RdOptimizationError : Exception
@@ -18,7 +18,7 @@ public class RdOptimizationError : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror)(string) | 初始化[`RdOptimizationError`](../rdoptimizationerror)类的新实例。 |
+| [RdOptimizationError](rdoptimizationerror)(string) | 初始化[`RdOptimizationError`](../rdoptimizationerror)类. |
 
 ### 也可以看看
 

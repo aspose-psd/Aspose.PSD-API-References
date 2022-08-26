@@ -1,14 +1,14 @@
 ---
 title: GetBlendingHash
 second_title: Aspose.PSD for .NET API 参考
-description: 获取混合哈希
+description: 获取混合哈希值
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/
 ---
 ## LayerHashCalculator.GetBlendingHash method
 
-获取混合哈希。
+获取混合哈希值。
 
 ```csharp
 public int GetBlendingHash()
@@ -20,7 +20,7 @@ public int GetBlendingHash()
 
 ### 例子
 
-以下代码演示了用于获取类似图层的唯一哈希的 API不同的文件。
+以下代码演示了用于获取不同文件中相似层的唯一哈希的 API。
 
 ```csharp
 [C#]

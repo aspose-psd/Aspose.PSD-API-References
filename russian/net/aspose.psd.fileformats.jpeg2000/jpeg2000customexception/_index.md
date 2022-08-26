@@ -1,14 +1,14 @@
 ---
 title: Jpeg2000CustomException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Код Jpeg2000 OpenJpeg сгенерировал исключение
+description: Jpeg2000 Код OpenJpeg сгенерировал исключение
 type: docs
 weight: 1550
 url: /ru/net/aspose.psd.fileformats.jpeg2000/jpeg2000customexception/
 ---
 ## Jpeg2000CustomException class
 
-Код Jpeg2000 OpenJpeg сгенерировал исключение
+Jpeg2000 Код OpenJpeg сгенерировал исключение
 
 ```csharp
 public class Jpeg2000CustomException : Exception

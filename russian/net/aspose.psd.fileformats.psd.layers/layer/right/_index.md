@@ -1,14 +1,14 @@
 ---
 title: Right
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает правильное положение слоя.
+description: Получает или устанавливает правильное положение слоя.
 type: docs
 weight: 290
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
 ## Layer.Right property
 
-Получает или задает правильное положение слоя.
+Получает или устанавливает правильное положение слоя.
 
 ```csharp
 public int Right { get; set; }
@@ -16,7 +16,7 @@ public int Right { get; set; }
 
 ### Стоимость имущества
 
-Положение правого слоя.
+Позиция правого слоя.
 
 ### Смотрите также
 

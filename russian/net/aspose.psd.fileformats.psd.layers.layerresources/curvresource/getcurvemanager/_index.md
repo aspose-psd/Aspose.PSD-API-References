@@ -1,14 +1,14 @@
 ---
 title: GetCurveManager
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает менеджер кривых.
+description: Получает диспетчер кривых.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/
 ---
 ## CurvResource.GetCurveManager method
 
-Получает менеджер кривых.
+Получает диспетчер кривых.
 
 ```csharp
 public CurvesManager GetCurveManager()
@@ -16,7 +16,7 @@ public CurvesManager GetCurveManager()
 
 ### Возвращаемое значение
 
-[`CurvesDiscreteManager`](../../curvesdiscretemanager)или[`CurvesContinuousManager`](../../curvescontinuousmanager)
+[`CurvesDiscreteManager`](../../curvesdiscretemanager) или же[`CurvesContinuousManager`](../../curvescontinuousmanager)
 
 ### Смотрите также
 

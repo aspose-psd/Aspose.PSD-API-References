@@ -1,14 +1,14 @@
 ---
 title: LiFdDataSource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLiFdDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifddatasource.
+description: Инициализирует новый экземплярLiFdDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifddatasource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/lifddatasource/
 ---
 ## LiFdDataSource() {#constructor}
 
-Инициализирует новый экземпляр класса[`LiFdDataSource`](../../lifddatasource).
+Инициализирует новый экземпляр[`LiFdDataSource`](../../lifddatasource) класс.
 
 ```csharp
 public LiFdDataSource()
@@ -24,7 +24,7 @@ public LiFdDataSource()
 
 ## LiFdDataSource(int, Guid, string, string, string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LiFdDataSource`](../../lifddatasource).
+Инициализирует новый экземпляр[`LiFdDataSource`](../../lifddatasource) класс.
 
 ```csharp
 public LiFdDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 

@@ -17,11 +17,11 @@ public int AddTextRecord(string text, RectangleF bounds)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | text | String | 记录文本。 |
-| bounds | RectangleF | 边界。 |
+| bounds | RectangleF | 界限。 |
 
 ### 返回值
 
-返回资源的文本记录 ID
+返回资源 的文本记录的 ID
 
 ### 例外
 
@@ -31,7 +31,7 @@ public int AddTextRecord(string text, RectangleF bounds)
 
 ### 例子
 
-下面的代码演示了对新 ITextStyle 属性的支持。
+下面的代码演示了对新 ITextStyle 属性的支持的支持。
 
 ```csharp
 [C#]

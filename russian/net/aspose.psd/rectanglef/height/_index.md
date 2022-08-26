@@ -1,14 +1,14 @@
 ---
 title: Height
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает высоту этойRectangleFaspose.psd/rectanglefструктуры.
+description: Получает или задает высоту этогоRectangleFaspose.psd/rectanglefструктура.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/rectanglef/height/
 ---
 ## RectangleF.Height property
 
-Получает или задает высоту этой[`RectangleF`](../../rectanglef)структуры.
+Получает или задает высоту этого[`RectangleF`](../../rectanglef)структура.
 
 ```csharp
 public float Height { get; set; }
@@ -16,7 +16,7 @@ public float Height { get; set; }
 
 ### Возвращаемое значение
 
-Высота этой[`RectangleF`](../../rectanglef)структуры.
+Высота этого[`RectangleF`](../../rectanglef) структура.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Layers
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает слои.
+description: Получает или задает слои.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers/
 ---
 ## Lr32Resource.Layers property
 
-Получает или устанавливает слои.
+Получает или задает слои.
 
 ```csharp
 public Layer[] Layers { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: LoadArgb32Pixels
 second_title: Справочник по Aspose.PSD для .NET API
-description: Загружает 32-битные пиксели ARGB.
+description: Загружает 32битные пиксели ARGB.
 type: docs
 weight: 350
 url: /ru/net/aspose.psd/rasterimage/loadargb32pixels/
@@ -20,7 +20,7 @@ public int[] LoadArgb32Pixels(Rectangle rectangle)
 
 ### Возвращаемое значение
 
-Загруженный 32-битный массив пикселей ARGB.
+Загруженный массив 32-битных пикселей ARGB.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: MedianFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаMedianFilterOptionsaspose.psd.imagefilters.filteroptions/medianfilteroptions.
+description: Инициализирует новый экземплярMedianFilterOptionsaspose.psd.imagefilters.filteroptions/medianfilteroptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/medianfilteroptions/
 ---
 ## MedianFilterOptions constructor
 
-Инициализирует новый экземпляр класса[`MedianFilterOptions`](../../medianfilteroptions).
+Инициализирует новый экземпляр[`MedianFilterOptions`](../../medianfilteroptions) класс.
 
 ```csharp
 public MedianFilterOptions(int size)

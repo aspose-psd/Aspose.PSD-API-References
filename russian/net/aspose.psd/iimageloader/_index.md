@@ -3,7 +3,7 @@ title: IImageLoader
 second_title: Справочник по Aspose.PSD для .NET API
 description: Загрузчик изображений.
 type: docs
-weight: 4330
+weight: 4380
 url: /ru/net/aspose.psd/iimageloader/
 ---
 ## IImageLoader interface
@@ -18,7 +18,7 @@ public interface IImageLoader
 
 | Имя | Описание |
 | --- | --- |
-| [Load](../../aspose.psd/iimageloader/load)(StreamContainer, LoadOptions) | Открывает новое изображение с &lt;paramref name="loadOptions"&gt;&lt;/paramref&gt;. |
+| [Load](../../aspose.psd/iimageloader/load)(StreamContainer, LoadOptions) | Открывает новое изображение с*loadOptions* . |
 
 ### Смотрите также
 

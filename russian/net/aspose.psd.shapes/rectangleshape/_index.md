@@ -3,7 +3,7 @@ title: RectangleShape
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет прямоугольную форму.
 type: docs
-weight: 5410
+weight: 5460
 url: /ru/net/aspose.psd.shapes/rectangleshape/
 ---
 ## RectangleShape class
@@ -18,8 +18,8 @@ public class RectangleShape : RectangleProjectedShape
 
 | Имя | Описание |
 | --- | --- |
-| [RectangleShape](rectangleshape#constructor)() | Инициализирует новый экземпляр класса[`RectangleShape`](../rectangleshape). |
-| [RectangleShape](rectangleshape#constructor_1)(RectangleF) | Инициализирует новый экземпляр класса[`RectangleShape`](../rectangleshape). |
+| [RectangleShape](rectangleshape#constructor)() | Инициализирует новый экземпляр[`RectangleShape`](../rectangleshape) класс. |
+| [RectangleShape](rectangleshape#constructor_1)(RectangleF) | Инициализирует новый экземпляр[`RectangleShape`](../rectangleshape) класс. |
 
 ## Характеристики
 
@@ -46,7 +46,7 @@ public class RectangleShape : RectangleProjectedShape
 
 ### Примеры
 
-В этом примере создается новое изображение и рисуются различные фигуры с использованием Figures и GraphicsPath на поверхности изображения
+В этом примере создается новое изображение и рисуются различные фигуры с помощью Figures и GraphicsPath на поверхности изображения.
 
 ```csharp
 [C#]

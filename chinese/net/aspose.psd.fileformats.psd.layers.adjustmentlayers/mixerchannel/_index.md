@@ -1,14 +1,14 @@
 ---
 title: MixerChannel
 second_title: Aspose.PSD for .NET API 参考
-description: MixerChannel它是通道原始数据的包装器用于 MixrResource
+description: MixerChannel它是通道原始数据的包装器在 MixrResource 中使用
 type: docs
 weight: 1780
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
 ## MixerChannel class
 
-MixerChannel。它是通道原始数据的包装器。用于 MixrResource
+MixerChannel。它是通道原始数据的包装器。在 MixrResource 中使用
 
 ```csharp
 public abstract class MixerChannel

@@ -1,14 +1,14 @@
 ---
 title: PathGradientBrush
 second_title: Aspose.PSD for .NET API 参考
-description: 使用指定点初始化PathGradientBrushaspose.psd.brushes/pathgradientbrush类的新实例
+description: 初始化PathGradientBrushaspose.psd.brushes/pathgradientbrush具有指定点的类
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.brushes/pathgradientbrush/pathgradientbrush/
 ---
 ## PathGradientBrush(PointF[]) {#constructor_1}
 
-使用指定点初始化[`PathGradientBrush`](../../pathgradientbrush)类的新实例。
+初始化[`PathGradientBrush`](../../pathgradientbrush)具有指定点的类。
 
 ```csharp
 public PathGradientBrush(PointF[] points)
@@ -16,7 +16,7 @@ public PathGradientBrush(PointF[] points)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | [`PointF`](../../../aspose.psd/pointf)结构数组，表示构成路径顶点的点。 |
+| points | PointF[] | 一个数组[`PointF`](../../../aspose.psd/pointf)表示构成路径顶点的点的结构。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public PathGradientBrush(PointF[] points)
 
 ## PathGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-使用指定的点和环绕模式初始化[`PathGradientBrush`](../../pathgradientbrush)类的新实例。
+初始化[`PathGradientBrush`](../../pathgradientbrush)具有指定点和环绕模式的类。
 
 ```csharp
 public PathGradientBrush(PointF[] points, WrapMode wrapMode)
@@ -37,8 +37,8 @@ public PathGradientBrush(PointF[] points, WrapMode wrapMode)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | [`PointF`](../../../aspose.psd/pointf)结构数组，表示构成路径顶点的点。 |
-| wrapMode | WrapMode | [`WrapMode`](../../../aspose.psd/wrapmode)指定如何使用此[`PathGradientBrush`](../../pathgradientbrush)绘制填充是平铺的。 |
+| points | PointF[] | 一个数组[`PointF`](../../../aspose.psd/pointf)表示构成路径顶点的点的结构。 |
+| wrapMode | WrapMode | 一个[`WrapMode`](../../../aspose.psd/wrapmode)指定如何用它绘制填充[`PathGradientBrush`](../../pathgradientbrush)是平铺的。 |
 
 ### 也可以看看
 
@@ -52,7 +52,7 @@ public PathGradientBrush(PointF[] points, WrapMode wrapMode)
 
 ## PathGradientBrush(Point[]) {#constructor_3}
 
-使用指定点初始化[`PathGradientBrush`](../../pathgradientbrush)类的新实例。
+初始化[`PathGradientBrush`](../../pathgradientbrush)具有指定点的类。
 
 ```csharp
 public PathGradientBrush(Point[] points)
@@ -60,7 +60,7 @@ public PathGradientBrush(Point[] points)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| points | Point[] | [`Point`](../../../aspose.psd/point)结构数组，表示构成路径顶点的点。 |
+| points | Point[] | 一个数组[`Point`](../../../aspose.psd/point)表示构成路径顶点的点的结构。 |
 
 ### 也可以看看
 
@@ -73,7 +73,7 @@ public PathGradientBrush(Point[] points)
 
 ## PathGradientBrush(Point[], WrapMode) {#constructor_4}
 
-使用指定的点和环绕模式初始化[`PathGradientBrush`](../../pathgradientbrush)类的新实例。
+初始化[`PathGradientBrush`](../../pathgradientbrush)具有指定点和环绕模式的类。
 
 ```csharp
 public PathGradientBrush(Point[] points, WrapMode wrapMode)
@@ -81,8 +81,8 @@ public PathGradientBrush(Point[] points, WrapMode wrapMode)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| points | Point[] | [`Point`](../../../aspose.psd/point)结构数组，表示构成路径顶点的点。 |
-| wrapMode | WrapMode | [`WrapMode`](../../../aspose.psd/wrapmode)指定如何使用此[`PathGradientBrush`](../../pathgradientbrush)绘制填充是平铺的。 |
+| points | Point[] | 一个数组[`Point`](../../../aspose.psd/point)表示构成路径顶点的点的结构。 |
+| wrapMode | WrapMode | 一个[`WrapMode`](../../../aspose.psd/wrapmode)指定如何用它绘制填充[`PathGradientBrush`](../../pathgradientbrush)是平铺的。 |
 
 ### 也可以看看
 
@@ -96,7 +96,7 @@ public PathGradientBrush(Point[] points, WrapMode wrapMode)
 
 ## PathGradientBrush(GraphicsPath) {#constructor}
 
-使用指定路径初始化[`PathGradientBrush`](../../pathgradientbrush)类的新实例。
+初始化[`PathGradientBrush`](../../pathgradientbrush)具有指定路径的类。
 
 ```csharp
 public PathGradientBrush(GraphicsPath path)
@@ -104,7 +104,7 @@ public PathGradientBrush(GraphicsPath path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../../aspose.psd/graphicspath)定义了这个PathGradientBrush。 |
+| path | GraphicsPath | 这[`GraphicsPath`](../../../aspose.psd/graphicspath)定义了这个填充的区域[`PathGradientBrush`](../../pathgradientbrush). |
 
 ### 也可以看看
 

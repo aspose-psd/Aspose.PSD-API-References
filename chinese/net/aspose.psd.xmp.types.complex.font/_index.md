@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Types.Complex.Font
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含的类代表包含文档中使用的字体特征的结构
 type: docs
-weight: 630
+weight: 640
 url: /zh/net/aspose.psd.xmp.types.complex.font/
 ---
 命名空间包含的类代表包含文档中使用的字体特征的结构。

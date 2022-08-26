@@ -3,7 +3,7 @@ title: WrapMode
 second_title: Aspose.PSD for .NET API 参考
 description: 指定当纹理或渐变小于填充区域时如何平铺
 type: docs
-weight: 5620
+weight: 5670
 url: /zh/net/aspose.psd/wrapmode/
 ---
 ## WrapMode enumeration

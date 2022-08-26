@@ -3,7 +3,7 @@ title: Lr16Resource
 second_title: Aspose.PSD for .NET API 参考
 description: lr32 资源
 type: docs
-weight: 2710
+weight: 2750
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/
 ---
 ## Lr16Resource class
@@ -24,7 +24,7 @@ public class Lr16Resource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key) { get; } | 获取层资源密钥。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key) { get; } | 获取图层资源键。 |
 | [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/layers) { get; set; } | 获取或设置图层。 |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/length) { get; } | 获取图像的 PSD 标头版本的资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/psdversion) { get; } | 获取psd版本。 |
@@ -35,7 +35,7 @@ public class Lr16Resource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/save)(StreamContainer, int) | 保存图层记录。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

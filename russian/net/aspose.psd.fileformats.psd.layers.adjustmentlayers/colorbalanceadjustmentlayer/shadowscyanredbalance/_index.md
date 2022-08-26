@@ -1,14 +1,14 @@
 ---
 title: ShadowsCyanRedBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает баланс сине-красного цвета теней.
+description: Получает или задает баланс теней Cyan Red.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowscyanredbalance/
 ---
 ## ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance property
 
-Получает или задает баланс сине-красного цвета теней.
+Получает или задает баланс теней Cyan Red.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
@@ -16,13 +16,13 @@ public short ShadowsCyanRedBalance { get; set; }
 
 ### Стоимость имущества
 
-Тени Голубой Красный Баланс.
+Тени Голубо-Красный Баланс.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Cyan Red Баланс должен быть в диапазоне от -100 до +100 . |
+| ArgumentOutOfRangeException | Shadows Cyan Red Balance должен быть в диапазоне от -100 до +100. |
 
 ### Примеры
 

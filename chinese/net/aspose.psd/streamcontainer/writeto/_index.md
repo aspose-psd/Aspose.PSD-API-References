@@ -1,14 +1,14 @@
 ---
 title: WriteTo
 second_title: Aspose.PSD for .NET API 参考
-description: 将包含的数据复制到另一个StreamContaineraspose.psd/streamcontainer
+description: 将包含的数据复制到另一个StreamContaineraspose.psd/streamcontainer .
 type: docs
 weight: 190
 url: /zh/net/aspose.psd/streamcontainer/writeto/
 ---
 ## WriteTo(StreamContainer) {#writeto}
 
-将包含的数据复制到另一个[`StreamContainer`](../../streamcontainer)。
+将包含的数据复制到另一个[`StreamContainer`](../../streamcontainer) .
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer)
@@ -28,7 +28,7 @@ public virtual void WriteTo(StreamContainer streamContainer)
 
 ## WriteTo(StreamContainer, long) {#writeto_1}
 
-将包含的数据复制到另一个[`StreamContainer`](../../streamcontainer)。
+将包含的数据复制到另一个[`StreamContainer`](../../streamcontainer) .
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer, long length)

@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает пустойColoraspose.psd/color.
+description: Получает пустойColoraspose.psd/color .
 type: docs
 weight: 430
 url: /ru/net/aspose.psd/color/empty/
 ---
 ## Color.Empty property
 
-Получает пустой[`Color`](../../color).
+Получает пустой[`Color`](../../color) .
 
 ```csharp
 public static Color Empty { get; }

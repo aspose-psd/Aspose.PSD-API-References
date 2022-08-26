@@ -1,7 +1,7 @@
 ---
 title: FrameCount
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает количество кадров данных слоя смарт-объекта в PSD-файле.
+description: Получает или задает количество кадров данных слоя смартобъекта в PSDфайле.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/
@@ -16,7 +16,7 @@ public int FrameCount { get; set; }
 
 ### Стоимость имущества
 
-Счетчик кадров размещенной информации о слое.
+Количество кадров информации о размещенном слое.
 
 ### Смотрите также
 

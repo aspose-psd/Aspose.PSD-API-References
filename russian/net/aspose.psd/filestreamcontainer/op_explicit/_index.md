@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Выполняет явное преобразование изFileStreamContaineraspose.psd/filestreamcontainerвStream.
+description: Выполняет явное преобразование изFileStreamContaineraspose.psd/filestreamcontainer кStream .
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/filestreamcontainer/op_explicit/
 ---
 ## explicit operator {#op_explicit_1}
 
-Выполняет явное преобразование из[`FileStreamContainer`](../../filestreamcontainer)вStream.
+Выполняет явное преобразование из[`FileStreamContainer`](../../filestreamcontainer) кStream .
 
 ```csharp
 public static explicit operator Stream(FileStreamContainer fileStreamContainer)
@@ -32,7 +32,7 @@ public static explicit operator Stream(FileStreamContainer fileStreamContainer)
 
 ## explicit operator {#op_explicit}
 
-Выполняет явное преобразование из[`FileStreamContainer`](../../filestreamcontainer)вFileStream.
+Выполняет явное преобразование из[`FileStreamContainer`](../../filestreamcontainer) кFileStream .
 
 ```csharp
 public static explicit operator FileStream(FileStreamContainer fileStreamContainer)

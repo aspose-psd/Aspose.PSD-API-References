@@ -16,7 +16,7 @@ public LayerEffectsTypes EffectType { get; }
 
 ### Примеры
 
-В следующем коде показано использование параметра Непрозрачность свойство DropShadowEffect.
+Следующий код демонстрирует использование свойства Opacity DropShadowEffect.
 
 ```csharp
 [C#]

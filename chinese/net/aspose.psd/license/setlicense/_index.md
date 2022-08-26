@@ -20,7 +20,7 @@ public void SetLicense(string licenseName)
 
 1. 显式路径。
 
-2. 包含 Aspose 组件装配的文件夹。
+2. 包含 Aspose 组件程序集的文件夹。
 
 3. 包含客户端调用程序集的文件夹。
 
@@ -28,7 +28,7 @@ public void SetLicense(string licenseName)
 
 5. 客户端调用程序集中的嵌入资源。
 
-**注意：** 在 .NET Compact Framework 上，尝试仅在以下位置查找许可证：
+**笔记：**在 .NET Compact Framework 上，尝试仅在以下位置查找许可证：
 
 1. 显式路径。
 
@@ -36,7 +36,7 @@ public void SetLicense(string licenseName)
 
 ### 例子
 
-在此示例中，将尝试在以下文件夹中查找名为 MyLicense.lic 的许可证文件包含 组件，在包含调用程序集的文件夹中， 在条目程序集的文件夹中，然后在调用程序集的嵌入资源中.  可以是完整或短文件名或嵌入资源的名称。 使用空字符串切换到评估模式。
+在此示例中，将尝试在包含 组件的文件夹中，在包含调用程序集的文件夹中， 在条目程序集的文件夹中找到名为 MyLicense.lic 的许可证文件，然后在调用程序集的嵌入资源。 可以是完整或短文件名或嵌入资源的名称。 使用空字符串切换到评估模式。
 
 ```csharp
 [C#]

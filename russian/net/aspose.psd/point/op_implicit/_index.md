@@ -1,14 +1,14 @@
 ---
 title: op_Implicit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует указанную структуруPointaspose.psd/pointвPointFaspose.psd/pointfструктура.
+description: Преобразует указанныйPointaspose.psd/point структура кPointFaspose.psd/pointfструктура.
 type: docs
 weight: 180
 url: /ru/net/aspose.psd/point/op_implicit/
 ---
 ## Point Implicit operator
 
-Преобразует указанную структуру[`Point`](../../point)в[`PointF`](../../pointf)структура.
+Преобразует указанный[`Point`](../../point) структура к[`PointF`](../../pointf)структура.
 
 ```csharp
 public static implicit operator PointF(Point point)
@@ -16,11 +16,11 @@ public static implicit operator PointF(Point point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point)для преобразования. |
+| point | Point | [`Point`](../../point) быть преобразованным. |
 
 ### Возвращаемое значение
 
-[`PointF`](../../pointf)полученный в результате преобразования.
+[`PointF`](../../pointf) что получается в результате преобразования.
 
 ### Смотрите также
 

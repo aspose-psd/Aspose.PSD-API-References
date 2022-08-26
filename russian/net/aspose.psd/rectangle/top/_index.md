@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает координату y верхнего края этойRectangleaspose.psd/rectangleструктуры.
+description: Получает или задает координату y верхнего края этогоRectangleaspose.psd/rectangleструктура.
 type: docs
 weight: 180
 url: /ru/net/aspose.psd/rectangle/top/
 ---
 ## Rectangle.Top property
 
-Получает или задает координату y верхнего края этой[`Rectangle`](../../rectangle)структуры.
+Получает или задает координату y верхнего края этого[`Rectangle`](../../rectangle)структура.
 
 ```csharp
 public int Top { get; set; }

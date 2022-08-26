@@ -1,14 +1,14 @@
 ---
 title: IsFontAllowed
 second_title: Aspose.PSD for .NET API 参考
-description: 确定是否允许使用字体指定的字体名称
+description: 确定是否允许使用字体 指定字体名称
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/fontsettings/isfontallowed/
 ---
 ## FontSettings.IsFontAllowed method
 
-确定[是否允许使用字体][指定的字体名称]。
+确定[是否允许使用字体] [指定字体名称]。
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
@@ -20,7 +20,7 @@ public static bool IsFontAllowed(string fontName)
 
 ### 返回值
 
-` true` if [is font allowed] [the specified font name];否则，` false` 。
+`真的` if [is font allowed] [指定的字体名称]；否则，`错误的` .
 
 ### 例子
 

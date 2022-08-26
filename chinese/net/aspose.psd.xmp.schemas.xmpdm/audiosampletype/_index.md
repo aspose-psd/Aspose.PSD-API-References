@@ -1,14 +1,14 @@
 ---
 title: AudioSampleType
 second_title: Aspose.PSD for .NET API 参考
-description: 表示XmpDynamicMediaPackage./xmpdynamicmediapackage中的音频样本类型
+description: 代表音频样本类型XmpDynamicMediaPackage./xmpdynamicmediapackage .
 type: docs
-weight: 5730
+weight: 5780
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/
 ---
 ## AudioSampleType class
 
-表示[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage)中的音频样本类型。
+代表音频样本类型[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage) .
 
 ```csharp
 public sealed class AudioSampleType
@@ -18,7 +18,7 @@ public sealed class AudioSampleType
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed) { get; } | 表示压缩的音频样本。 |
+| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed) { get; } | 表示压缩后的音频样本。 |
 | static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed) { get; } | 表示打包的音频样本。 |
 | static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int) { get; } | 代表 16Int 音频样本。 |
 | static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int) { get; } | 代表 24Int 音频样本。 |
@@ -30,7 +30,7 @@ public sealed class AudioSampleType
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

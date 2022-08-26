@@ -3,7 +3,7 @@ title: GuideDirection
 second_title: Справочник по Aspose.PSD для .NET API
 description: Направление направляющей.
 type: docs
-weight: 3630
+weight: 3680
 url: /ru/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
 ## GuideDirection enumeration

@@ -16,7 +16,7 @@ public short TextVersion { get; set; }
 
 ### 适当的价值
 
-文字版。
+文字版.
 
 ### 也可以看看
 

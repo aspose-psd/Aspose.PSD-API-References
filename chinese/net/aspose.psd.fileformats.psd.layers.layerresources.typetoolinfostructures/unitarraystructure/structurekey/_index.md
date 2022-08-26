@@ -1,14 +1,14 @@
 ---
 title: StructureKey
 second_title: Aspose.PSD for .NET API 参考
-description: 定义UnFlUnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure键
+description: 定义UnFlUnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure关键.
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/
 ---
 ## UnitArrayStructure.StructureKey field
 
-定义“UnFl”[`UnitArrayStructure`](../../unitarraystructure)键。
+定义“UnFl”[`UnitArrayStructure`](../../unitarraystructure)关键.
 
 ```csharp
 public const int StructureKey;

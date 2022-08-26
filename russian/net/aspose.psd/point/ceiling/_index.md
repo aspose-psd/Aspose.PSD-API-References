@@ -1,14 +1,14 @@
 ---
 title: Ceiling
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует указанныйPointFaspose.psd/pointfвPointaspose.psd/pointпутем округления значенийPointFaspose.psd/pointfдо следующего большего целочисленного значения.
+description: Преобразует указанныйPointFaspose.psd/pointf кPointaspose.psd/point путем округления значенийPointFaspose.psd/pointf к следующему большему целочисленному значению.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/point/ceiling/
 ---
 ## Point.Ceiling method
 
-Преобразует указанный[`PointF`](../../pointf)в[`Point`](../../point)путем округления значений[`PointF`](../../pointf)до следующего большего целочисленного значения.
+Преобразует указанный[`PointF`](../../pointf) к[`Point`](../../point) путем округления значений[`PointF`](../../pointf) к следующему большему целочисленному значению.
 
 ```csharp
 public static Point Ceiling(PointF point)
@@ -16,11 +16,11 @@ public static Point Ceiling(PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf)для преобразования. |
+| point | PointF | [`PointF`](../../pointf) конвертировать. |
 
 ### Возвращаемое значение
 
-[`Point`](../../point)этот метод преобразует в.
+[`Point`](../../point) этот метод преобразуется в.
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: TransparencySupporter
 second_title: Aspose.PSD for .NET API 参考
 description: 支持透明度的对象
 type: docs
-weight: 5590
+weight: 5640
 url: /zh/net/aspose.psd/transparencysupporter/
 ---
 ## TransparencySupporter class

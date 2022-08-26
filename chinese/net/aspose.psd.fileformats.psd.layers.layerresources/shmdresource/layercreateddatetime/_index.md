@@ -1,14 +1,14 @@
 ---
 title: LayerCreatedDateTime
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置图层创建时间如果未指定图层创建时间则返回 new DateTime0
+description: 获取或设置图层创建时间如果未指定图层创建时间则返回新的 DateTime0
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/
 ---
 ## ShmdResource.LayerCreatedDateTime property
 
-获取或设置图层创建时间。如果未指定图层创建时间，则返回 new DateTime(0)
+获取或设置图层创建时间。如果未指定图层创建时间，则返回新的 DateTime(0)
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }

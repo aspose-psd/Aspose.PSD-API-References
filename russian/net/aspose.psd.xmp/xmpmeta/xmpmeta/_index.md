@@ -1,14 +1,14 @@
 ---
 title: XmpMeta
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаXmpMetaaspose.psd.xmp/xmpmeta.
+description: Инициализирует новый экземплярXmpMetaaspose.psd.xmp/xmpmeta класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmpmeta/xmpmeta/
 ---
 ## XmpMeta(string) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`XmpMeta`](../../xmpmeta).
+Инициализирует новый экземпляр[`XmpMeta`](../../xmpmeta) класс.
 
 ```csharp
 public XmpMeta(string toolkitVersion)
@@ -16,7 +16,7 @@ public XmpMeta(string toolkitVersion)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| toolkitVersion | String | Версия набора инструментов Adobe XMP. |
+| toolkitVersion | String | Версия инструментария Adobe XMP. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public XmpMeta(string toolkitVersion)
 
 ## XmpMeta() {#constructor}
 
-Инициализирует новый экземпляр класса[`XmpMeta`](../../xmpmeta).
+Инициализирует новый экземпляр[`XmpMeta`](../../xmpmeta) класс.
 
 ```csharp
 public XmpMeta()

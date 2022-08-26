@@ -1,14 +1,14 @@
 ---
 title: MultiPageMode
 second_title: Aspose.PSD for .NET API 参考
-description: 表示多页模式
+description: 代表多页模式
 type: docs
-weight: 4730
+weight: 4780
 url: /zh/net/aspose.psd.imageoptions/multipagemode/
 ---
 ## MultiPageMode enumeration
 
-表示多页模式
+代表多页模式
 
 ```csharp
 public enum MultiPageMode
@@ -18,7 +18,7 @@ public enum MultiPageMode
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Pages | `0` | 使用的页面索引 |
+| Pages | `0` | 已用页索引 |
 | Titles | `1` | 使用的页面标题 |
 | Range | `2` | 使用的页面范围 |
 | AllPages | `3` | 已使用所有页面 |

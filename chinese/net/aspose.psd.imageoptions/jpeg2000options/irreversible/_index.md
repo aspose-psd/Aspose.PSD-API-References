@@ -1,7 +1,7 @@
 ---
 title: Irreversible
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示是使用不可逆的 DWT 9-7真还是使用无损 DWT 5-3 压缩默认
+description: 获取或设置一个值该值指示是使用不可逆的 DWT 97真还是使用无损 DWT 53 压缩默认
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.imageoptions/jpeg2000options/irreversible/

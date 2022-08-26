@@ -1,14 +1,14 @@
 ---
 title: op_Multiply
 second_title: Aspose.PSD for .NET API 参考
-description: 实现运算符 
+description: 实现运算符 .
 type: docs
 weight: 300
 url: /zh/net/aspose.psd/rectanglef/op_multiply/
 ---
 ## RectangleF Multiply operator
 
-实现运算符 *。
+实现运算符 *.
 
 ```csharp
 public static RectangleF operator *(RectangleF rectangle, float multiplier)

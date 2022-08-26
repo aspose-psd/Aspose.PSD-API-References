@@ -1,14 +1,14 @@
 ---
 title: IsDataStoredDiscretely
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此实例是否为离散数据存储
+description: 获取或设置一个值该值指示此实例是否为离散存储的数据
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
 ## CurvResource.IsDataStoredDiscretely property
 
-获取或设置一个值，该值指示此实例是否为离散数据存储。
+获取或设置一个值，该值指示此实例是否为离散存储的数据。
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
@@ -16,7 +16,7 @@ public bool IsDataStoredDiscretely { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例是离散存储的数据；否则，` false` 。
+`真的`如果此实例是离散存储的数据；否则，`错误的` .
 
 ### 也可以看看
 

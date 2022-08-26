@@ -1,14 +1,14 @@
 ---
 title: RectangleProjectedShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет фигуру проецируемую на прямоугольник повернутый в определенной ориентации. Задается четырьмя точками которые можно вращать в пространстве сохраняя ту же длину ребер и 90 градусов между соседними ребрами.
+description: Представляет фигуру проецируемую на прямоугольник повернутый в определенной ориентации. Определяется четырьмя точками которые можно вращать в пространстве сохраняя ту же длину краев и 90 градусов между соседними краями.
 type: docs
-weight: 5400
+weight: 5450
 url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/
 ---
 ## RectangleProjectedShape class
 
-Представляет фигуру, проецируемую на прямоугольник, повернутый в определенной ориентации. Задается четырьмя точками, которые можно вращать в пространстве, сохраняя ту же длину ребер и 90 градусов между соседними ребрами.
+Представляет фигуру, проецируемую на прямоугольник, повернутый в определенной ориентации. Определяется четырьмя точками, которые можно вращать в пространстве, сохраняя ту же длину краев и 90 градусов между соседними краями.
 
 ```csharp
 public abstract class RectangleProjectedShape : Shape
@@ -18,8 +18,8 @@ public abstract class RectangleProjectedShape : Shape
 
 | Имя | Описание |
 | --- | --- |
-| [RectangleProjectedShape](rectangleprojectedshape#constructor)() | Инициализирует новый экземпляр класса[`RectangleProjectedShape`](../rectangleprojectedshape). |
-| [RectangleProjectedShape](rectangleprojectedshape#constructor_1)(RectangleF) | Инициализирует новый экземпляр класса[`RectangleProjectedShape`](../rectangleprojectedshape). |
+| [RectangleProjectedShape](rectangleprojectedshape#constructor)() | Инициализирует новый экземпляр[`RectangleProjectedShape`](../rectangleprojectedshape) класс. |
+| [RectangleProjectedShape](rectangleprojectedshape#constructor_1)(RectangleF) | Инициализирует новый экземпляр[`RectangleProjectedShape`](../rectangleprojectedshape) класс. |
 
 ## Характеристики
 

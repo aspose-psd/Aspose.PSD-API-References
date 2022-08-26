@@ -3,7 +3,7 @@ title: Configuration
 second_title: Aspose.PSD for .NET API 参考
 description: 内存管理全局配置
 type: docs
-weight: 4990
+weight: 5040
 url: /zh/net/aspose.psd.memorymanagement/configuration/
 ---
 ## Configuration class

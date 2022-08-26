@@ -1,14 +1,14 @@
 ---
 title: LayerHashCalculator
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLayerHashCalculatoraspose.psd.fileformats.psd.layers/layerhashcalculator.
+description: Инициализирует новый экземплярLayerHashCalculatoraspose.psd.fileformats.psd.layers/layerhashcalculator класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/layerhashcalculator/
 ---
 ## LayerHashCalculator constructor
 
-Инициализирует новый экземпляр класса[`LayerHashCalculator`](../../layerhashcalculator).
+Инициализирует новый экземпляр[`LayerHashCalculator`](../../layerhashcalculator) класс.
 
 ```csharp
 public LayerHashCalculator(Layer layer)
@@ -31,7 +31,7 @@ public LayerHashCalculator(Layer layer)
 /// <typeparam name="T"></typeparam>
 /// <param name="image">Изображение.</param>
 /// <param name="name">Имя.</param>
-/// <возвращает></возвращает>
+/// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
     var layers = image.Layers;

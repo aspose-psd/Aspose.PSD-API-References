@@ -1,14 +1,14 @@
 ---
 title: Gamma
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置伽玛
+description: 获取或设置 gamma.
 type: docs
 weight: 350
 url: /zh/net/aspose.psd.exif/exifdata/gamma/
 ---
 ## ExifData.Gamma property
 
-获取或设置伽玛。
+获取或设置 gamma.
 
 ```csharp
 public TiffRational Gamma { get; set; }

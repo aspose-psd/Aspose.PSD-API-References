@@ -1,7 +1,7 @@
 ---
 title: ColorNumber
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置颜色编号 -1 是来自 RedGreenBlue 属性的自定义颜色值 指定图层的颜色设置
+description: 获取或设置颜色编号 1 是来自 RedGreenBlue 属性的自定义颜色值 指定图层的颜色设置
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
@@ -20,7 +20,7 @@ public int ColorNumber { get; set; }
 
 ### 例子
 
-以下示例演示了对 AI 格式文件中层的支持。
+以下示例演示了对 AI 格式文件中的层的支持。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.PSD for .NET API 参考
-description: 测试指定的对象是否为Coloraspose.psd/color结构并等价于这个Coloraspose.psd/color结构体
+description: 测试指定对象是否为Coloraspose.psd/color结构相当于这个Coloraspose.psd/color结构.
 type: docs
 weight: 1540
 url: /zh/net/aspose.psd/color/equals/
 ---
 ## Color.Equals method
 
-测试指定的对象是否为[`Color`](../../color)结构并等价于这个[`Color`](../../color)结构体。
+测试指定对象是否为[`Color`](../../color)结构，相当于这个[`Color`](../../color)结构.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果*obj*是一个与PSD等效的[`Color`](../../color) 结构，则为真。颜色结构；否则为假。
+真如果*obj*是一个[`Color`](../../color)相当于这个结构[`Color`](../../color)结构体;否则为假。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: MakeEmpty
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует этотRegionaspose.psd/regionпустым внутренним пространством.
+description: Инициализирует этоRegionaspose.psd/region в пустой интерьер.
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/region/makeempty/
 ---
 ## Region.MakeEmpty method
 
-Инициализирует этот[`Region`](../../region)пустым внутренним пространством.
+Инициализирует это[`Region`](../../region) в пустой интерьер.
 
 ```csharp
 public void MakeEmpty()

@@ -24,7 +24,7 @@ public PixelsData Render(PixelsData pixelsData)
 
 ### 例子
 
-以下代码展示了如何创建具有自定义渲染器的自定义智能过滤器。
+以下代码向您展示了如何创建具有自定义渲染器的自定义智能过滤器。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: Longs
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает длинные значения.
+description: Получает или устанавливает длинные.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.resources/urllistresource/longs/
 ---
 ## UrlListResource.Longs property
 
-Получает или устанавливает длинные значения.
+Получает или устанавливает длинные.
 
 ```csharp
 public int[] Longs { get; set; }
@@ -16,7 +16,7 @@ public int[] Longs { get; set; }
 
 ### Стоимость имущества
 
-Лонги.
+Длинные.
 
 ### Смотрите также
 

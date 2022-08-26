@@ -16,7 +16,7 @@ public Figure[] Figures { get; }
 
 ### 适当的价值
 
-路径图。
+路径数字。
 
 ### 也可以看看
 

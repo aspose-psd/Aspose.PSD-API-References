@@ -22,7 +22,7 @@ public void AddLayerMask(LayerMaskData layerMask)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 还不支持设置全图层蒙版，请使用LayerMaskDataShort |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 暂不支持设置全图层蒙版，请使用 LayerMaskDataShort |
 
 ### 也可以看看
 

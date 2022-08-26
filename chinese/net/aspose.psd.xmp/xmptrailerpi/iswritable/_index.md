@@ -1,14 +1,14 @@
 ---
 title: IsWritable
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示此实例是否可写
+description: 获取或设置一个指示此实例是否可写的值
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp/xmptrailerpi/iswritable/
 ---
 ## XmpTrailerPi.IsWritable property
 
-获取或设置一个值，指示此实例是否可写。
+获取或设置一个指示此实例是否可写的值。
 
 ```csharp
 public bool IsWritable { get; set; }
@@ -16,7 +16,7 @@ public bool IsWritable { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例是可写的；否则，` false` 。
+`真的`如果这个实例是可写的；否则，`错误的` .
 
 ### 也可以看看
 

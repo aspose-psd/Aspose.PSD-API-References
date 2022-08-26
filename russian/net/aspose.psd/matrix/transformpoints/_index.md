@@ -1,14 +1,14 @@
 ---
 title: TransformPoints
 second_title: Справочник по Aspose.PSD для .NET API
-description: Применяет геометрическое преобразование представленное этимMatrixaspose.psd/matrixк указанному массиву точек.
+description: Применяет геометрическое преобразование представленное этимMatrixaspose.psd/matrix в указанный массив точек.
 type: docs
 weight: 180
 url: /ru/net/aspose.psd/matrix/transformpoints/
 ---
 ## Matrix.TransformPoints method
 
-Применяет геометрическое преобразование, представленное этим[`Matrix`](../../matrix)к указанному массиву точек.
+Применяет геометрическое преобразование, представленное этим[`Matrix`](../../matrix) в указанный массив точек.
 
 ```csharp
 public void TransformPoints(PointF[] points)

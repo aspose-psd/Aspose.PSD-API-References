@@ -1,14 +1,14 @@
 ---
 title: CurvesManager
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаCurvesManageraspose.psd.fileformats.psd.layers.layerresources/curvesmanager.
+description: Инициализирует новый экземплярCurvesManageraspose.psd.fileformats.psd.layers.layerresources/curvesmanager класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/curvesmanager/
 ---
 ## CurvesManager constructor
 
-Инициализирует новый экземпляр класса[`CurvesManager`](../../curvesmanager).
+Инициализирует новый экземпляр[`CurvesManager`](../../curvesmanager) класс.
 
 ```csharp
 public CurvesManager(int maxChannelCount)

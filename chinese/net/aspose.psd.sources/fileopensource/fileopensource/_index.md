@@ -1,14 +1,14 @@
 ---
 title: FileOpenSource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化FileOpenSourceaspose.psd.sources/fileopensource类的新实例
+description: 初始化FileOpenSourceaspose.psd.sources/fileopensource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
 ## FileOpenSource constructor
 
-初始化[`FileOpenSource`](../../fileopensource)类的新实例。
+初始化[`FileOpenSource`](../../fileopensource)类.
 
 ```csharp
 public FileOpenSource(string filePath)

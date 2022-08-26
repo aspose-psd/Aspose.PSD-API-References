@@ -1,14 +1,14 @@
 ---
 title: TextShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаTextShapeaspose.psd.shapes/textshape.
+description: Инициализирует новый экземплярTextShapeaspose.psd.shapes/textshape класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/textshape/textshape/
 ---
 ## TextShape() {#constructor}
 
-Инициализирует новый экземпляр класса[`TextShape`](../../textshape).
+Инициализирует новый экземпляр[`TextShape`](../../textshape) класс.
 
 ```csharp
 public TextShape()
@@ -24,7 +24,7 @@ public TextShape()
 
 ## TextShape(string, RectangleF, Font, StringFormat) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`TextShape`](../../textshape).
+Инициализирует новый экземпляр[`TextShape`](../../textshape) класс.
 
 ```csharp
 public TextShape(string text, RectangleF rectangle, Font font, StringFormat stringFormat)

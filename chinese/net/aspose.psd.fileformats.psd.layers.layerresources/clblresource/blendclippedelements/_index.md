@@ -1,14 +1,14 @@
 ---
 title: BlendClippedElements
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否混合剪辑元素
+description: 获取或设置一个值该值指示是否混合剪辑元素
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/
 ---
 ## ClblResource.BlendClippedElements property
 
-获取或设置一个值，指示是否[混合剪辑元素]。
+获取或设置一个值，该值指示是否[混合剪辑元素]。
 
 ```csharp
 public bool BlendClippedElements { get; set; }
@@ -16,7 +16,7 @@ public bool BlendClippedElements { get; set; }
 
 ### 适当的价值
 
-` true` if [混合剪辑元素]；否则，` false` 。
+`真的` if [混合剪裁元素];否则，`错误的` .
 
 ### 也可以看看
 

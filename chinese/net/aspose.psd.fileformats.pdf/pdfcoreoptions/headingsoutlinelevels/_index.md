@@ -1,14 +1,14 @@
 ---
 title: HeadingsOutlineLevels
 second_title: Aspose.PSD for .NET API 参考
-description: 指定要在文档大纲中包含多少级别的大纲项 0 - 没有大纲1 - 一个大纲级别依此类推 默认为 0
+description: 指定要在文档大纲中包含多少级大纲项 0  无大纲1  一个大纲级别依此类推 默认为 0
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.pdf/pdfcoreoptions/headingsoutlinelevels/
 ---
 ## PdfCoreOptions.HeadingsOutlineLevels property
 
-指定要在文档大纲中包含多少级别的大纲项。 0 - 没有大纲，1 - 一个大纲级别，依此类推。 默认为 0。
+指定要在文档大纲中包含多少级大纲项。 0 - 无大纲，1 - 一个大纲级别，依此类推。 默认为 0。
 
 ```csharp
 public int HeadingsOutlineLevels { get; set; }

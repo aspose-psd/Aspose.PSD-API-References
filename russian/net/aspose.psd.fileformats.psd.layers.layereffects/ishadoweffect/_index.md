@@ -3,7 +3,7 @@ title: IShadowEffect
 second_title: Справочник по Aspose.PSD для .NET API
 description: Интерфейс для эффектов теневого слоя
 type: docs
-weight: 2090
+weight: 2130
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/
 ---
 ## IShadowEffect interface

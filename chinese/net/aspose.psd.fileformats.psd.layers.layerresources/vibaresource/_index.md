@@ -1,14 +1,14 @@
 ---
 title: VibAResource
 second_title: Aspose.PSD for .NET API 参考
-description: VibA 资源
+description: VibA 资源.
 type: docs
-weight: 3240
+weight: 3290
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 ---
 ## VibAResource class
 
-VibA 资源。
+VibA 资源.
 
 ```csharp
 public class VibAResource : AdjustmentLayerResource
@@ -18,13 +18,13 @@ public class VibAResource : AdjustmentLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VibAResource](vibaresource)() | 初始化[`VibAResource`](../vibaresource)类的新实例。 |
+| [VibAResource](vibaresource)() | 初始化[`VibAResource`](../vibaresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key) { get; } | 获取层资源密钥。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key) { get; } | 获取图层资源键。 |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion) { get; } | 获取psd版本。 |
 | [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation) { get; set; } | 获取或设置饱和值 |
@@ -36,7 +36,7 @@ public class VibAResource : AdjustmentLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
@@ -46,7 +46,7 @@ public class VibAResource : AdjustmentLayerResource
 
 ### 例子
 
-以下代码示例演示了对 VibAResource 资源的支持。
+下面的代码示例演示了对 VibAResource 资源的支持。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: MixrResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаMixrResourceaspose.psd.fileformats.psd.layers.layerresources/mixrresource. Спецификация формата PSD содержит следующее описание 2 Версия  1 2 Монохромный 20 цветов RGB или CMYK плюс константа для настроек микшера. 4  2 байта цвета с 2 байтами константы.
+description: Инициализирует новый экземплярMixrResourceaspose.psd.fileformats.psd.layers.layerresources/mixrresource class. Спецификация формата PSD содержит следующее описание 2 Версия  1 2 Monochrome 20 цветов RGB или CMYK плюс константа для настроек микшера. 4  2 байта цвета с 2 байтами константы.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/mixrresource/
 ---
 ## MixrResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`MixrResource`](../../mixrresource). Спецификация формата PSD содержит следующее описание: 2 Версия (= 1) 2 Монохромный 20 цветов RGB или CMYK плюс константа для настроек микшера. 4 * 2 байта цвета с 2 байтами константы.
+Инициализирует новый экземпляр[`MixrResource`](../../mixrresource) class. Спецификация формата PSD содержит следующее описание: 2 Версия (= 1) 2 Monochrome 20 цветов RGB или CMYK плюс константа для настроек микшера. 4 * 2 байта цвета с 2 байтами константы.
 
 ```csharp
 public MixrResource()
@@ -24,7 +24,7 @@ public MixrResource()
 
 ## MixrResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`MixrResource`](../../mixrresource). Спецификация формата PSD содержит следующее описание: 2 Версия (= 1) 2 Монохромный 20 цветов RGB или CMYK плюс константа для настроек микшера. 4 * 2 байта цвета с 2 байтами константы.
+Инициализирует новый экземпляр[`MixrResource`](../../mixrresource) class. Спецификация формата PSD содержит следующее описание: 2 Версия (= 1) 2 Monochrome 20 цветов RGB или CMYK плюс константа для настроек микшера. 4 * 2 байта цвета с 2 байтами константы.
 
 ```csharp
 public MixrResource(byte[] data)

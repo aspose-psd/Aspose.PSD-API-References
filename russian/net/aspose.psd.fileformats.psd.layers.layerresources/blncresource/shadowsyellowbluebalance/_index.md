@@ -1,7 +1,7 @@
 ---
 title: ShadowsYellowBlueBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает желто-синий баланс теней.
+description: Получает или задает желтосиний баланс теней.
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/
@@ -16,7 +16,7 @@ public short ShadowsYellowBlueBalance { get; set; }
 
 ### Стоимость имущества
 
-Тени Желтый Синий Баланс.
+Тени Желто-синий баланс.
 
 ### Смотрите также
 

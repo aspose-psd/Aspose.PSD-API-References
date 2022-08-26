@@ -1,14 +1,14 @@
 ---
 title: IsClosed
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此实例是否关闭
+description: 获取或设置一个值指示此实例是否关闭
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/
 ---
 ## LengthRecord.IsClosed property
 
-获取或设置一个值，该值指示此实例是否关闭。
+获取或设置一个值，指示此实例是否关闭。
 
 ```csharp
 public bool IsClosed { get; set; }
@@ -16,7 +16,7 @@ public bool IsClosed { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例已关闭；否则，` false` 。
+`真的`如果此实例已关闭；否则，`错误的` .
 
 ### 也可以看看
 

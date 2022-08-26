@@ -1,14 +1,14 @@
 ---
 title: UnknownStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 未知结构
+description: 未知的结构
 type: docs
-weight: 3190
+weight: 3240
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/
 ---
 ## UnknownStructure class
 
-未知结构。
+未知的结构。
 
 ```csharp
 public sealed class UnknownStructure : OSTypeStructure
@@ -18,7 +18,7 @@ public sealed class UnknownStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UnknownStructure](unknownstructure)(ClassID, int) | 初始化[`UnknownStructure`](../unknownstructure)类的新实例。 |
+| [UnknownStructure](unknownstructure)(ClassID, int) | 初始化[`UnknownStructure`](../unknownstructure)类. |
 
 ## 特性
 
@@ -27,7 +27,7 @@ public sealed class UnknownStructure : OSTypeStructure
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data) { get; set; } | 获取或设置数据。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 
 ## 方法
 

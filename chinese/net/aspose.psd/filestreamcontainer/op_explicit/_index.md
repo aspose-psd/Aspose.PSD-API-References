@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PSD for .NET API 参考
-description: 执行从FileStreamContaineraspose.psd/filestreamcontainer到Stream的显式转换
+description: 执行显式转换FileStreamContaineraspose.psd/filestreamcontainer至Stream .
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/filestreamcontainer/op_explicit/
 ---
 ## explicit operator {#op_explicit_1}
 
-执行从[`FileStreamContainer`](../../filestreamcontainer)到Stream的显式转换。
+执行显式转换[`FileStreamContainer`](../../filestreamcontainer)至Stream .
 
 ```csharp
 public static explicit operator Stream(FileStreamContainer fileStreamContainer)
@@ -32,7 +32,7 @@ public static explicit operator Stream(FileStreamContainer fileStreamContainer)
 
 ## explicit operator {#op_explicit}
 
-执行从[`FileStreamContainer`](../../filestreamcontainer)到FileStream的显式转换。
+执行显式转换[`FileStreamContainer`](../../filestreamcontainer)至FileStream .
 
 ```csharp
 public static explicit operator FileStream(FileStreamContainer fileStreamContainer)

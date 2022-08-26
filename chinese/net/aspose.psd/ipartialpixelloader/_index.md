@@ -3,7 +3,7 @@ title: IPartialPixelLoader
 second_title: Aspose.PSD for .NET API 参考
 description: 符合部分加载的像素
 type: docs
-weight: 4410
+weight: 4460
 url: /zh/net/aspose.psd/ipartialpixelloader/
 ---
 ## IPartialPixelLoader interface

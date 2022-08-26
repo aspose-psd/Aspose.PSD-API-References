@@ -1,14 +1,14 @@
 ---
 title: Elements
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает массив значений с плавающей запятой который представляет элементы этогоMatrixaspose.psd/matrix.
+description: Получает массив значений с плавающей запятой представляющий элементы этогоMatrixaspose.psd/matrix .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/matrix/elements/
 ---
 ## Matrix.Elements property
 
-Получает массив значений с плавающей запятой, который представляет элементы этого[`Matrix`](../../matrix).
+Получает массив значений с плавающей запятой, представляющий элементы этого[`Matrix`](../../matrix) .
 
 ```csharp
 public float[] Elements { get; }

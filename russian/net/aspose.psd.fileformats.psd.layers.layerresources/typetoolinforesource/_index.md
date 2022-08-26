@@ -3,7 +3,7 @@ title: TypeToolInfoResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Информация о типе инструмента. Для версии PSD ниже 6.0.
 type: docs
-weight: 2990
+weight: 3040
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/
 ---
 ## TypeToolInfoResource class
@@ -28,7 +28,7 @@ public class TypeToolInfoResource : LayerResource
 | [BComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/bcomponent) { get; set; } | Получает или задает компонент b. |
 | [CharacterCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount) { get; set; } | Получает или задает количество символов. |
 | [ColorSpaceValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue) { get; set; } | Получает или задает значение цветового пространства. |
-| [Fonts](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts) { get; set; } | Получает или задает шрифты. |
+| [Fonts](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts) { get; set; } | Получает или устанавливает шрифты. |
 | [FontsCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount) { get; } | Получает количество шрифтов. |
 | [FontVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion) { get; set; } | Получает или задает версию шрифта. |
 | [GComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent) { get; set; } | Получает или задает компонент g. |
@@ -36,7 +36,7 @@ public class TypeToolInfoResource : LayerResource
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | [LineCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount) { get; } | Получает количество строк. |
-| [Lines](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines) { get; set; } | Получает или устанавливает строки. |
+| [Lines](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines) { get; set; } | Получает или задает строки. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/psdversion) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
 | [RComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent) { get; set; } | Получает или задает компонент r. |
 | [ScaleFactor](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor) { get; set; } | Получает или задает коэффициент масштабирования. |
@@ -55,7 +55,7 @@ public class TypeToolInfoResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/save)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

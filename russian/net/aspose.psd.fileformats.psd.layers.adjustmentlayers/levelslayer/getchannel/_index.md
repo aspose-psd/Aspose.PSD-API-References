@@ -20,7 +20,7 @@ public LevelChannel GetChannel(int index)
 
 ### Возвращаемое значение
 
-[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel)по индексу
+[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel) по индексу
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: LnsrResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLnsrResourceaspose.psd.fileformats.psd.layers.layerresources/lnsrresource.
+description: Инициализирует новый экземплярLnsrResourceaspose.psd.fileformats.psd.layers.layerresources/lnsrresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/lnsrresource/
 ---
 ## LnsrResource(LnsrResourceType) {#constructor}
 
-Инициализирует новый экземпляр класса[`LnsrResource`](../../lnsrresource).
+Инициализирует новый экземпляр[`LnsrResource`](../../lnsrresource) класс.
 
 ```csharp
 public LnsrResource(LnsrResourceType lnsrResourceType)
@@ -16,7 +16,7 @@ public LnsrResource(LnsrResourceType lnsrResourceType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| lnsrResourceType | LnsrResourceType | Тип LNSR. |
+| lnsrResourceType | LnsrResourceType | Тип ЛНСР. |
 
 ### Исключения
 
@@ -35,7 +35,7 @@ public LnsrResource(LnsrResourceType lnsrResourceType)
 
 ## LnsrResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LnsrResource`](../../lnsrresource). С пользовательским или неизвестным значением
+Инициализирует новый экземпляр[`LnsrResource`](../../lnsrresource) class. С пользовательским или неизвестным значением
 
 ```csharp
 public LnsrResource(byte[] bytes)

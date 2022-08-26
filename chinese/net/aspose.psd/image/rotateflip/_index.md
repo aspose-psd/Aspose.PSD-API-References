@@ -20,7 +20,7 @@ public abstract void RotateFlip(RotateFlipType rotateFlipType)
 
 ### 例子
 
-这个例子演示了在图像上使用旋转操作。示例从某个磁盘位置加载现有图像文件，并根据 Enum Aspose.PSD.RotateFlipType
+此示例演示了在图像上使用旋转操作。示例从某个磁盘位置加载现有图像文件，并根据 Enum Aspose.PSD.RotateFlipType 的值对图像执行旋转操作
 
 ```csharp
 [C#]

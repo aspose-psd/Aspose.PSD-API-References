@@ -21,11 +21,11 @@ public LayerGroup AddLayerGroup(string groupName, int index)
 
 ### 返回值
 
-打开图层组
+打开组图层
 
 ### 例子
 
-以下示例演示将图层组添加到另一个图层组中。
+下面的示例演示如何将 LayerGroup 添加到另一个 LayerGroup。
 
 ```csharp
 [C#]

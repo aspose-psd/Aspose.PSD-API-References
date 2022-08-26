@@ -1,14 +1,14 @@
 ---
 title: FileName
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает имя внешнего или встроенного файла в ресурсе ссылок PSD.
+description: Получает или задает имя внешнего или встроенного файла в ресурсе ссылки PSD .
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/
 ---
 ## LiFeDataSource.FileName property
 
-Получает или задает имя внешнего или встроенного файла в ресурсе ссылок PSD.
+Получает или задает имя внешнего или встроенного файла в ресурсе ссылки PSD .
 
 ```csharp
 public string FileName { get; set; }

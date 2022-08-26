@@ -1,14 +1,14 @@
 ---
 title: ClassID
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ClassIDaspose.psd.fileformats.psd.layers.layerresources/classid类的新实例
+description: 初始化ClassIDaspose.psd.fileformats.psd.layers.layerresources/classid类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
 ## ClassID(byte[]) {#constructor}
 
-初始化[`ClassID`](../../classid)类的新实例。
+初始化[`ClassID`](../../classid)类.
 
 ```csharp
 public ClassID(byte[] classID)
@@ -16,7 +16,7 @@ public ClassID(byte[] classID)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| classID | Byte[] | 字节序列形式的类 ID。 |
+| classID | Byte[] | 类 ID 作为一系列字节。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public ClassID(byte[] classID)
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-初始化[`ClassID`](../../classid)类的新实例。
+初始化[`ClassID`](../../classid)类.
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
@@ -36,8 +36,8 @@ public ClassID(byte[] classID, bool isZeroLength)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| classID | Byte[] | 字节序列形式的类 ID。 |
-| isZeroLength | Boolean | 如果设置为` true` [零长度]。 记录的字符串长度为零，但实际为四。 |
+| classID | Byte[] | 类 ID 作为一系列字节。 |
+| isZeroLength | Boolean | 如果设置为`真的` [长度为零]. 记录的字符串长度为零，但实际长度为四。 |
 
 ### 例外
 
@@ -55,7 +55,7 @@ public ClassID(byte[] classID, bool isZeroLength)
 
 ## ClassID(int) {#constructor_2}
 
-初始化[`ClassID`](../../classid)类的新实例。
+初始化[`ClassID`](../../classid)类.
 
 ```csharp
 public ClassID(int classID)
@@ -75,7 +75,7 @@ public ClassID(int classID)
 
 ## ClassID(uint) {#constructor_5}
 
-初始化[`ClassID`](../../classid)类的新实例。
+初始化[`ClassID`](../../classid)类.
 
 ```csharp
 public ClassID(uint classID)
@@ -95,7 +95,7 @@ public ClassID(uint classID)
 
 ## ClassID(string, bool) {#constructor_4}
 
-初始化[`ClassID`](../../classid)类的新实例。
+初始化[`ClassID`](../../classid)类.
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
@@ -104,11 +104,11 @@ public ClassID(string classID, bool isZeroLength)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | classID | String | ASCII 编码的类 ID。 |
-| isZeroLength | Boolean | 如果设置为` true` [零长度]。 |
+| isZeroLength | Boolean | 如果设置为`真的` [长度为零]。 |
 
 ### 例子
 
-此示例演示从图像导入的图层转换为智能对象图层并且保存的 PSD 文件是正确的。
+此示例演示从图像导入的图层已转换为智能对象图层，并且保存的 PSD 文件是正确的。
 
 ```csharp
 [C#]
@@ -162,7 +162,7 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 
 ## ClassID(string) {#constructor_3}
 
-初始化[`ClassID`](../../classid)类的新实例。
+初始化[`ClassID`](../../classid)类.
 
 ```csharp
 public ClassID(string classID)

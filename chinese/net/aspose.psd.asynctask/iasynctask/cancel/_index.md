@@ -1,14 +1,14 @@
 ---
 title: Cancel
 second_title: Aspose.PSD for .NET API 参考
-description: 取消此任务 通过算法的受控停止来安全地完成任务
+description: 取消此任务 通过算法的受控停止安全地完成任务
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.asynctask/iasynctask/cancel/
 ---
 ## IAsyncTask.Cancel method
 
-取消此任务。 通过算法的受控停止来安全地完成任务。
+取消此任务。 通过算法的受控停止安全地完成任务。
 
 ```csharp
 public void Cancel()

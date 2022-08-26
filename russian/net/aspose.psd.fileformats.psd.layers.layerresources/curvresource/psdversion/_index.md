@@ -1,14 +1,14 @@
 ---
 title: PsdVersion
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает версию в формате psd.
+description: Получает версию psd.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/psdversion/
 ---
 ## CurvResource.PsdVersion property
 
-Получает версию в формате psd.
+Получает версию psd.
 
 ```csharp
 public override int PsdVersion { get; }

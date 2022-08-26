@@ -1,14 +1,14 @@
 ---
 title: PattResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPattResourceaspose.psd.fileformats.psd.layers.layerresources/pattresource.
+description: Инициализирует новый экземплярPattResourceaspose.psd.fileformats.psd.layers.layerresources/pattresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
 ## PattResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`PattResource`](../../pattresource).
+Инициализирует новый экземпляр[`PattResource`](../../pattresource) класс.
 
 ```csharp
 public PattResource()
@@ -24,7 +24,7 @@ public PattResource()
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PattResource`](../../pattresource).
+Инициализирует новый экземпляр[`PattResource`](../../pattresource) класс.
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
@@ -33,7 +33,7 @@ public PattResource(int key, PattResourceData[] patterns)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | Int32 | Ключ типа ресурса. |
-| patterns | PattResourceData[] | Данные шаблонов. |
+| patterns | PattResourceData[] | Данные узоров. |
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含图层中包含的 PSD 文件格式实体
 type: docs
-weight: 290
+weight: 300
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/
 ---
 命名空间包含图层中包含的 PSD 文件格式实体。
@@ -15,7 +15,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/
 | [AddNoiseSmartFilter](./addnoisesmartfilter) | AddNoise 智能过滤器。 |
 | [GaussianBlurSmartFilter](./gaussianblursmartfilter) | GaussianBlur 智能滤镜。 |
 | [SmartFilter](./smartfilter) | 处理智能过滤器基本逻辑的类。 |
-| [SmartFilters](./smartfilters) | [`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)的智能过滤器。 |
+| [SmartFilters](./smartfilters) | 的智能过滤器[`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) . |
 | [UnknownSmartFilter](./unknownsmartfilter) | 保存未知智能过滤器数据的类。 |
 ## 枚举
 

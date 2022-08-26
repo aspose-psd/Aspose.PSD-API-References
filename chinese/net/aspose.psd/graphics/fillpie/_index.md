@@ -1,14 +1,14 @@
 ---
 title: FillPie
 second_title: Aspose.PSD for .NET API 参考
-description: 填充由RectangleFaspose.psd/rectanglef结构和两条径向线指定的椭圆定义的饼图部分的内部
+description: 填充由 a 指定的椭圆定义的饼图部分的内部RectangleFaspose.psd/rectanglef结构和两条径向线
 type: docs
 weight: 370
 url: /zh/net/aspose.psd/graphics/fillpie/
 ---
 ## FillPie(Brush, Rectangle, float, float) {#fillpie}
 
-填充由[`RectangleF`](../../rectanglef)结构和两条径向线指定的椭圆定义的饼图部分的内部。
+填充由 a 指定的椭圆定义的饼图部分的内部[`RectangleF`](../../rectanglef)结构和两条径向线。
 
 ```csharp
 public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAngle)
@@ -16,16 +16,16 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)确定填充的特性。 |
-| rect | Rectangle | [`Rectangle`](../../rectangle)结构，表示定义饼图部分所在椭圆的边界矩形。 |
-| startAngle | Single | 从 x 轴到饼图部分第一侧顺时针测量的角度。 |
-| sweepAngle | Single | 从*startAngle*参数顺时针测量到饼图部分第二侧的角度。 |
+| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
+| rect | Rectangle | [`Rectangle`](../../rectangle)表示边界矩形的结构，该边界矩形定义了饼图部分来自的椭圆。 |
+| startAngle | Single | 从 x 轴到饼图部分的第一侧顺时针测量的角度（以度为单位）。 |
+| sweepAngle | Single | 以度为单位顺时针测量的角度*startAngle*参数到饼图部分的第二边。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 
@@ -39,7 +39,7 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 ## FillPie(Brush, RectangleF, float, float) {#fillpie_1}
 
-填充由[`RectangleF`](../../rectanglef)结构和两条径向线指定的椭圆定义的饼图部分的内部。
+填充由 a 指定的椭圆定义的饼图部分的内部[`RectangleF`](../../rectanglef)结构和两条径向线。
 
 ```csharp
 public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepAngle)
@@ -47,16 +47,16 @@ public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepA
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)确定填充的特性。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)结构，表示定义饼图部分所在椭圆的边界矩形。 |
-| startAngle | Single | 从 x 轴到饼图部分第一侧顺时针测量的角度。 |
-| sweepAngle | Single | 从*startAngle*参数顺时针测量到饼图部分第二侧的角度。 |
+| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
+| rect | RectangleF | [`RectangleF`](../../rectanglef)表示边界矩形的结构，该边界矩形定义了饼图部分来自的椭圆。 |
+| startAngle | Single | 从 x 轴到饼图部分的第一侧顺时针测量的角度（以度为单位）。 |
+| sweepAngle | Single | 以度为单位顺时针测量的角度*startAngle*参数到饼图部分的第二边。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 
@@ -79,19 +79,19 @@ public void FillPie(Brush brush, float x, float y, float width, float height, fl
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)确定填充的特性。 |
-| x | Single | 边界矩形左上角的 x 坐标，该矩形定义了饼图部分来自的椭圆。 |
-| y | Single | 边界矩形左上角的 y 坐标，该边界矩形定义了饼图部分来自的椭圆。 |
+| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
+| x | Single | 边界矩形左上角的 x 坐标，用于定义饼图部分所在的椭圆。 |
+| y | Single | 边界矩形左上角的 y 坐标，用于定义饼图部分所在的椭圆。 |
 | width | Single | 边界矩形的宽度，用于定义饼图部分所在的椭圆。 |
 | height | Single | 边界矩形的高度，它定义了饼图部分来自的椭圆。 |
-| startAngle | Single | 从 x 轴到饼图部分第一侧顺时针测量的角度。 |
-| sweepAngle | Single | 从*startAngle*参数顺时针测量到饼图部分第二侧的角度。 |
+| startAngle | Single | 从 x 轴到饼图部分的第一侧顺时针测量的角度（以度为单位）。 |
+| sweepAngle | Single | 以度为单位顺时针测量的角度*startAngle*参数到饼图部分的第二边。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 
@@ -113,19 +113,19 @@ public void FillPie(Brush brush, int x, int y, int width, int height, int startA
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)确定填充的特性。 |
-| x | Int32 | 边界矩形左上角的 x 坐标，该矩形定义了饼图部分来自的椭圆。 |
-| y | Int32 | 边界矩形左上角的 y 坐标，该边界矩形定义了饼图部分来自的椭圆。 |
+| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
+| x | Int32 | 边界矩形左上角的 x 坐标，用于定义饼图部分所在的椭圆。 |
+| y | Int32 | 边界矩形左上角的 y 坐标，用于定义饼图部分所在的椭圆。 |
 | width | Int32 | 边界矩形的宽度，用于定义饼图部分所在的椭圆。 |
 | height | Int32 | 边界矩形的高度，它定义了饼图部分来自的椭圆。 |
-| startAngle | Int32 | 从 x 轴到饼图部分第一侧顺时针测量的角度。 |
-| sweepAngle | Int32 | 从*startAngle*参数顺时针测量到饼图部分第二侧的角度。 |
+| startAngle | Int32 | 从 x 轴到饼图部分的第一侧顺时针测量的角度（以度为单位）。 |
+| sweepAngle | Int32 | 以度为单位顺时针测量的角度*startAngle*参数到饼图部分的第二边。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 

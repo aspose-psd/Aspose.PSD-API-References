@@ -1,14 +1,14 @@
 ---
 title: IopaResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаIopaResourceaspose.psd.fileformats.psd.layers.layerresources/ioparesource.
+description: Инициализирует новый экземплярIopaResourceaspose.psd.fileformats.psd.layers.layerresources/ioparesource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/ioparesource/
 ---
 ## IopaResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`IopaResource`](../../ioparesource).
+Инициализирует новый экземпляр[`IopaResource`](../../ioparesource) класс.
 
 ```csharp
 public IopaResource()
@@ -24,7 +24,7 @@ public IopaResource()
 
 ## IopaResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`IopaResource`](../../ioparesource).
+Инициализирует новый экземпляр[`IopaResource`](../../ioparesource) класс.
 
 ```csharp
 public IopaResource(byte[] data)
@@ -38,7 +38,7 @@ public IopaResource(byte[] data)
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | Недопустимые данные ресурса iOpa. Ожидаемая длина iOpaResource:4 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | Недопустимые данные ресурса iOpa. Ожидаемая длина iOpaResource — 4 |
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Crop
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 图像中智能对象图层数据的裁剪
+description: 获取或设置PSD图像中智能对象图层数据的裁剪
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
 ---
 ## SmartObjectResource.Crop property
 
-获取或设置 PSD 图像中智能对象图层数据的裁剪。
+获取或设置PSD图像中智能对象图层数据的裁剪。
 
 ```csharp
 public int Crop { get; set; }
@@ -16,7 +16,7 @@ public int Crop { get; set; }
 
 ### 适当的价值
 
-放置图层信息的裁剪值。
+放置图层信息的裁剪值
 
 ### 也可以看看
 

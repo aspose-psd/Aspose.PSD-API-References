@@ -1,14 +1,14 @@
 ---
 title: HasAlpha
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此RasterImageaspose.psd/rasterimage的垂直分辨率以每英寸像素为单位
+description: 获取或设置此对象的垂直分辨率以每英寸像素为单位RasterImageaspose.psd/rasterimage .
 type: docs
 weight: 140
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
 ## PsdImage.HasAlpha property
 
-获取或设置此[`RasterImage`](../../../aspose.psd/rasterimage)的垂直分辨率，以每英寸像素为单位。
+获取或设置此对象的垂直分辨率，以每英寸像素为单位[`RasterImage`](../../../aspose.psd/rasterimage) .
 
 ```csharp
 public override bool HasAlpha { get; }
@@ -16,7 +16,7 @@ public override bool HasAlpha { get; }
 
 ### 适当的价值
 
-` true` 如果此实例具有 alpha；否则，` false` 。
+`真的`如果这个实例有 alpha；否则，`错误的` .
 
 ### 也可以看看
 

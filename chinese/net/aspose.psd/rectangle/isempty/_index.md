@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一个值该值指示此Rectangleaspose.psd/rectangle的所有数字属性是否具有零值
+description: 获取一个值该值指示此的所有数字属性是否Rectangleaspose.psd/rectangle值为零
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/rectangle/isempty/
 ---
 ## Rectangle.IsEmpty property
 
-获取一个值，该值指示此[`Rectangle`](../../rectangle)的所有数字属性是否具有零值。
+获取一个值，该值指示此的所有数字属性是否[`Rectangle`](../../rectangle)值为零。
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,7 +16,7 @@ public bool IsEmpty { get; }
 
 ### 适当的价值
 
-如果[`Width`](../width),Height、[`X`](../x)和[`Y`](../y)PSD的属性。Rectangle的值都为零；否则为假。
+如果[`Width`](../width) ,[`Height`](../height) ,[`X`](../x)， 和[`Y`](../y)这个属性[`Rectangle`](../../rectangle)所有的值都为零；否则为假。
 
 ### 也可以看看
 

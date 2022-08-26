@@ -1,14 +1,14 @@
 ---
 title: Load
 second_title: Aspose.PSD for .NET API 参考
-description: 加载OSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure
+description: 加载OSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure .
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/
 ---
 ## IOSTypeStructureLoader.Load method
 
-加载[`OSTypeStructure`](../../ostypestructure)。
+加载[`OSTypeStructure`](../../ostypestructure) .
 
 ```csharp
 public OSTypeStructure Load(StreamContainer streamContainer)
@@ -20,7 +20,7 @@ public OSTypeStructure Load(StreamContainer streamContainer)
 
 ### 返回值
 
-加载的[`OSTypeStructure`](../../ostypestructure)资源。
+加载的[`OSTypeStructure`](../../ostypestructure)资源.
 
 ### 也可以看看
 

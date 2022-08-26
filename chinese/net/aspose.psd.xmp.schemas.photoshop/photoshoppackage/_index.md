@@ -3,7 +3,7 @@ title: PhotoshopPackage
 second_title: Aspose.PSD for .NET API 参考
 description: 表示 Adobe Photoshop 命名空间
 type: docs
-weight: 5700
+weight: 5750
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/
 ---
 ## PhotoshopPackage class
@@ -24,7 +24,7 @@ public sealed class PhotoshopPackage : XmpPackage
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | 获取或设置具有指定键的Object。 |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | 获取或设置Object使用指定的密钥。 |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | 获取 XMP 包中的密钥。 |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | 获取命名空间 URI。 |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | 获取前缀。 |
@@ -36,18 +36,18 @@ public sealed class PhotoshopPackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue)(string, string) | 添加字符串属性。 |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | 清除此实例。 |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | 判断指定的key是否包含key。 |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | 判断指定key是否包含key。 |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | 将 XMP 值转换为 XML 表示形式。 |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | 删除具有指定键的值。 |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | 删除指定键的值。 |
 | [SetAuthorsPosition](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition)(string) | 设置作者位置。 |
-| [SetCaptionWriter](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter)(string) | 设置字幕作者。 |
+| [SetCaptionWriter](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter)(string) | 设置字幕编写器。 |
 | [SetCategory](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory)(string) | 设置类别。 |
 | [SetCity](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity)(string) | 设置城市。 |
 | [SetColorMode](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode)(ColorMode) | 设置颜色模式。 |
 | [SetCountry](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry)(string) | 设置国家。 |
 | [SetCreatedDate](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcreateddate)(DateTime) | 设置创建日期。 |
-| [SetCredit](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit)(string) | 设置功劳。 |
+| [SetCredit](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit)(string) | 设置信用。 |
 | [SetDocumentAncestors](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors)(string[]) | 设置文档祖先。 |
 | [SetHeadline](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline)(string) | 设置标题。 |
 | [SetHistory](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory)(string) | 设置历史记录。 |

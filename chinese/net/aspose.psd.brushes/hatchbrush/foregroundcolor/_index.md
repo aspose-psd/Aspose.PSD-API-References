@@ -1,14 +1,14 @@
 ---
 title: ForegroundColor
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置阴影线的颜色
+description: 获取或设置影线的颜色
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.brushes/hatchbrush/foregroundcolor/
 ---
 ## HatchBrush.ForegroundColor property
 
-获取或设置阴影线的颜色。
+获取或设置影线的颜色。
 
 ```csharp
 public Color ForegroundColor { get; set; }
@@ -16,7 +16,7 @@ public Color ForegroundColor { get; set; }
 
 ### 适当的价值
 
-阴影线的颜色。
+影线的颜色。
 
 ### 也可以看看
 

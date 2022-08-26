@@ -16,7 +16,7 @@ public short Lightness { get; set; }
 
 ### 适当的价值
 
-主轻。
+主亮度。
 
 ### 也可以看看
 

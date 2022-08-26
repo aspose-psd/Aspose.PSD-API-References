@@ -1,14 +1,14 @@
 ---
 title: Auto
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этоCgEdResourceaspose.psd.fileformats.psd.layers.layerresources/cgedresourceавтоматическим.
+description: Получает или задает значение указывающее является ли этоCgEdResourceaspose.psd.fileformats.psd.layers.layerresources/cgedresource автоматически.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/
 ---
 ## CgEdResource.Auto property
 
-Получает или задает значение, указывающее, является ли это[`CgEdResource`](../../cgedresource)автоматическим.
+Получает или задает значение, указывающее, является ли это[`CgEdResource`](../../cgedresource) автоматически.
 
 ```csharp
 public bool Auto { get; set; }
@@ -16,7 +16,7 @@ public bool Auto { get; set; }
 
 ### Стоимость имущества
 
-` true` если автоматически; в противном случае` false` .
+`истинный` если автоматический; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

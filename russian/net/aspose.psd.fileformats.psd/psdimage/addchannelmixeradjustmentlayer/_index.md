@@ -16,7 +16,7 @@ public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 
 ### Возвращаемое значение
 
-Добавлен микшер каналов Слой
+Добавлен слой микшера каналов
 
 ### Смотрите также
 

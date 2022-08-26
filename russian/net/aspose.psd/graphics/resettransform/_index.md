@@ -1,14 +1,14 @@
 ---
 title: ResetTransform
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сбрасывает свойствоTransformaspose.psd/graphics/transformв идентичность.
+description: СбрасываетTransformaspose.psd/graphics/transform свойство к личности.
 type: docs
 weight: 430
 url: /ru/net/aspose.psd/graphics/resettransform/
 ---
 ## Graphics.ResetTransform method
 
-Сбрасывает свойство[`Transform`](../transform)в идентичность.
+Сбрасывает[`Transform`](../transform) свойство к личности.
 
 ```csharp
 public void ResetTransform()

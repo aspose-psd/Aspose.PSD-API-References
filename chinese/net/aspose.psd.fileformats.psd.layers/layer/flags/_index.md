@@ -1,14 +1,14 @@
 ---
 title: Flags
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置图层标志 位 0  透明保护 位 1  可见 位 2  已过时 位 3  1 对于 Photoshop 5.0 及更高版本表示位 4 是否有有用信息 位 4  与文档外观无关的像素数据
+description: 获取或设置图层标志 位 0  透明度受保护 位 1  可见 位 2  已过时 位 3  1 用于 Photoshop 5.0 及更高版本指示位 4 是否有有用信息 位 4 与文档外观无关的像素数据
 type: docs
 weight: 140
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/flags/
 ---
 ## Layer.Flags property
 
-获取或设置图层标志。 位 0 = 透明保护； 位 1 = 可见； 位 2 = 已过时； 位 3 = 1 对于 Photoshop 5.0 及更高版本，表示位 4 是否有有用信息； 位 4 = 与文档外观无关的像素数据。
+获取或设置图层标志。 位 0 = 透明度受保护； 位 1 = 可见； 位 2 = 已过时； 位 3 = 1 用于 Photoshop 5.0 及更高版本，指示位 4 是否有有用信息； 位 4 =与文档外观无关的像素数据。
 
 ```csharp
 public LayerFlags Flags { get; set; }

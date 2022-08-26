@@ -1,14 +1,14 @@
 ---
 title: ByteOrder
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个表示 tiff 字节顺序的值
+description: 获取或设置一个表示tiff字节顺序的值
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/byteorder/
 ---
 ## TiffOptions.ByteOrder property
 
-获取或设置一个表示 tiff 字节顺序的值。
+获取或设置一个表示tiff字节顺序的值。
 
 ```csharp
 public TiffByteOrder ByteOrder { get; set; }

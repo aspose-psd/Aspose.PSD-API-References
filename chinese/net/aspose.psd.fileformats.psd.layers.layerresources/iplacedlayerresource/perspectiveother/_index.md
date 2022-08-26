@@ -16,7 +16,7 @@ public double PerspectiveOther { get; set; }
 
 ### 适当的价值
 
-放置层的透视其他值。
+放置图层的透视其他值。
 
 ### 也可以看看
 

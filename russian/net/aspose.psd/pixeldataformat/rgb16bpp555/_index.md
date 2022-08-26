@@ -1,14 +1,14 @@
 ---
 title: Rgb16Bpp555
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПолучаетPixelDataFormataspose.psd/pixeldataformatопределенный для 16 бит на пиксель с 5 битами для каждого из красного зеленого и синего цветов.  альфа не определена.
+description: ПолучаетPixelDataFormataspose.psd/pixeldataformat определено для 16 бит на пиксель с 5 битами для каждого из красного зеленого и синего альфа не определена.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/pixeldataformat/rgb16bpp555/
 ---
 ## PixelDataFormat.Rgb16Bpp555 property
 
-Получает[`PixelDataFormat`](../../pixeldataformat)определенный для 16 бит на пиксель с 5 битами для каждого из красного, зеленого и синего цветов. , альфа не определена.
+Получает[`PixelDataFormat`](../../pixeldataformat) определено для 16 бит на пиксель с 5 битами для каждого из красного, зеленого и синего, альфа не определена.
 
 ```csharp
 public static PixelDataFormat Rgb16Bpp555 { get; }
@@ -16,7 +16,7 @@ public static PixelDataFormat Rgb16Bpp555 { get; }
 
 ### Стоимость имущества
 
-Формат[`PixelDataFormat`](../../pixeldataformat)определен для 16 бит на пиксель с 5 битами для каждого из красного, зеленого и синего, альфа не определена.
+[`PixelDataFormat`](../../pixeldataformat) определено для 16 бит на пиксель с 5 битами для каждого из красного, зеленого и синего, альфа не определена.
 
 ### Смотрите также
 

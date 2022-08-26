@@ -3,7 +3,7 @@ title: SmallRectangularFilterOptions
 second_title: Aspose.PSD for .NET API 参考
 description: 小矩形过滤器选项
 type: docs
-weight: 4630
+weight: 4680
 url: /zh/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
 ## SmallRectangularFilterOptions class

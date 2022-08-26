@@ -1,14 +1,14 @@
 ---
 title: Resolution
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 文件中智能对象图层数据的分辨率
+description: 获取或设置PSD文件中智能对象图层数据的分辨率
 type: docs
 weight: 190
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/
 ---
 ## SmartObjectResource.Resolution property
 
-获取或设置 PSD 文件中智能对象图层数据的分辨率。
+获取或设置PSD文件中智能对象图层数据的分辨率。
 
 ```csharp
 public double Resolution { get; set; }

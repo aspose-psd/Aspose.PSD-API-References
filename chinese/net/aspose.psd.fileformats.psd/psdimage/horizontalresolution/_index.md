@@ -1,14 +1,14 @@
 ---
 title: HorizontalResolution
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此PsdImageaspose.psd.fileformats.psd/psdimage的水平分辨率以每英寸像素为单位
+description: 获取或设置此图像的水平分辨率以每英寸像素为单位PsdImageaspose.psd.fileformats.psd/psdimage .
 type: docs
 weight: 170
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/horizontalresolution/
 ---
 ## PsdImage.HorizontalResolution property
 
-获取或设置此[`PsdImage`](../../psdimage)的水平分辨率，以每英寸像素为单位。
+获取或设置此图像的水平分辨率，以每英寸像素为单位[`PsdImage`](../../psdimage) .
 
 ```csharp
 public override double HorizontalResolution { get; set; }
@@ -26,7 +26,7 @@ public override double HorizontalResolution { get; set; }
 
 ### 评论
 
-PSD 的默认值为 72，因此如果未找到[`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource)，则返回此值。
+PSD 的默认值为 72，所以如果[`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource)没找到，返回这个值。
 
 ### 也可以看看
 

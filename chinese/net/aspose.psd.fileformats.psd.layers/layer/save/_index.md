@@ -39,7 +39,7 @@ public override void Save(string filePath, bool overWrite)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | filePath | String | 保存对象数据的文件路径。 |
-| overWrite | Boolean | 如果设置为` true` 覆盖文件内容，否则会发生追加。 |
+| overWrite | Boolean | 如果设置为`真的`覆盖文件内容，否则会发生追加。 |
 
 ### 也可以看看
 
@@ -51,7 +51,7 @@ public override void Save(string filePath, bool overWrite)
 
 ## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
 
-根据保存选项，将图像数据以指定的文件格式保存到指定的流中。
+根据保存选项将图像的数据以指定的文件格式保存到指定的流中。
 
 ```csharp
 public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
@@ -59,7 +59,7 @@ public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 保存图像数据的流。 |
+| stream | Stream | 将图像数据保存到的流。 |
 | optionsBase | ImageOptionsBase | 保存选项。 |
 | boundsRectangle | Rectangle | 目标图像边界矩形。设置空矩形以使用源边界。 |
 

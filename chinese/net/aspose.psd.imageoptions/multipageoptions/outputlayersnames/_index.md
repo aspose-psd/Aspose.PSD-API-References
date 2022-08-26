@@ -1,14 +1,14 @@
 ---
 title: OutputLayersNames
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置输出层名称如果导出格式支持层命名例如 Psd则有效
+description: 获取或设置输出层名称如果导出格式支持层命名例如 Psd
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.imageoptions/multipageoptions/outputlayersnames/
 ---
 ## MultiPageOptions.OutputLayersNames property
 
-获取或设置输出层名称（如果导出格式支持层命名，例如 Psd，则有效）
+获取或设置输出层名称（如果导出格式支持层命名，例如 Psd）
 
 ```csharp
 public string[] OutputLayersNames { get; set; }

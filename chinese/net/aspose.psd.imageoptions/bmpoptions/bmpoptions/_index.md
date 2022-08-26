@@ -1,14 +1,14 @@
 ---
 title: BmpOptions
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化BmpOptionsaspose.psd.imageoptions/bmpoptions类的新实例
+description: 初始化BmpOptionsaspose.psd.imageoptions/bmpoptions类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imageoptions/bmpoptions/bmpoptions/
 ---
 ## BmpOptions() {#constructor}
 
-初始化[`BmpOptions`](../../bmpoptions)类的新实例。
+初始化[`BmpOptions`](../../bmpoptions)类.
 
 ```csharp
 public BmpOptions()
@@ -24,7 +24,7 @@ public BmpOptions()
 
 ## BmpOptions(BmpOptions) {#constructor_1}
 
-初始化[`BmpOptions`](../../bmpoptions)类的新实例。
+初始化[`BmpOptions`](../../bmpoptions)类.
 
 ```csharp
 public BmpOptions(BmpOptions bmpOptions)

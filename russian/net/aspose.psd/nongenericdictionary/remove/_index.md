@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: Справочник по Aspose.PSD для .NET API
-description: Удаляет элемент с указанным ключом из объекта IDictionary.
+description: Удаляет элемент с указанным ключом из IDictionary объект.
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/nongenericdictionary/remove/
 ---
 ## NonGenericDictionary.Remove method
 
-Удаляет элемент с указанным ключом из объекта IDictionary.
+Удаляет элемент с указанным ключом из IDictionary объект.
 
 ```csharp
 public void Remove(object key)

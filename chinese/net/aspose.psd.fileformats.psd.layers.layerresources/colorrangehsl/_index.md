@@ -3,7 +3,7 @@ title: ColorRangeHsl
 second_title: Aspose.PSD for .NET API 参考
 description: Hue2Resource./hue2resource有 6 个颜色范围您可以在其中更改 HSV 参数 每个范围都有 4 个关键点来识别范围边界它是 ColorRangeHsl
 type: docs
-weight: 2330
+weight: 2370
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/
 ---
 ## ColorRangeHsl class
@@ -18,8 +18,8 @@ public class ColorRangeHsl
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ColorRangeHsl](colorrangehsl#constructor)() | 初始化[`ColorRangeHsl`](../colorrangehsl)类的新实例。 |
-| [ColorRangeHsl](colorrangehsl#constructor_1)(byte[]) | 初始化[`ColorRangeHsl`](../colorrangehsl)类的新实例。 |
+| [ColorRangeHsl](colorrangehsl#constructor)() | 初始化[`ColorRangeHsl`](../colorrangehsl)类. |
+| [ColorRangeHsl](colorrangehsl#constructor_1)(byte[]) | 初始化[`ColorRangeHsl`](../colorrangehsl)类. |
 
 ## 特性
 
@@ -39,7 +39,7 @@ public class ColorRangeHsl
 | --- | --- |
 | [GetRangeCoefficient](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient)(double) | 获取范围系数。 |
 | [IsHueInBigRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange)(double) | 判断色相是否在大范围内。 |
-| [IsHueInSmallRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange)(double) | 确定色调是否在小范围内。 |
+| [IsHueInSmallRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange)(double) | 判断色相是否在小范围内。 |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save)(StreamContainer) | 将数据保存到指定的流容器。 |
 
 ### 也可以看看

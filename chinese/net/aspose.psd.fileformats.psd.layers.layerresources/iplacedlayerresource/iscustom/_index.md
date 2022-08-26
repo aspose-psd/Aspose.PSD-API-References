@@ -1,14 +1,14 @@
 ---
 title: IsCustom
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此实例扭曲样式是否为自定义 如果为真则包含网格点如果设置为 false它会删除网格点
+description: 获取或设置一个值该值指示此实例扭曲样式是否为自定义 如果为 true则包含网格点如果设置为 false它会删除网格点
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/
 ---
 ## IPlacedLayerResource.IsCustom property
 
-获取或设置一个值，该值指示此实例扭曲样式是否为自定义。 如果为真则包含网格点。如果设置为 false，它会删除网格点。
+获取或设置一个值，该值指示此实例扭曲样式是否为自定义。 如果为 true，则包含网格点。如果设置为 false，它会删除网格点。
 
 ```csharp
 public bool IsCustom { get; set; }
@@ -16,7 +16,7 @@ public bool IsCustom { get; set; }
 
 ### 适当的价值
 
-` true` 如果放置或智能对象图层资源具有自定义样式；否则，` false` 。
+`真的`如果放置或智能对象图层资源具有自定义样式；否则，`错误的` .
 
 ### 也可以看看
 

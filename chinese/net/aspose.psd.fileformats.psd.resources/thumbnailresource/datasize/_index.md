@@ -1,14 +1,14 @@
 ---
 title: DataSize
 second_title: Aspose.PSD for .NET API 参考
-description: 获取资源数据大小以字节为单位
+description: 以字节为单位获取资源数据大小
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/thumbnailresource/datasize/
 ---
 ## ThumbnailResource.DataSize property
 
-获取资源数据大小（以字节为单位）。
+以字节为单位获取资源数据大小。
 
 ```csharp
 public override int DataSize { get; }

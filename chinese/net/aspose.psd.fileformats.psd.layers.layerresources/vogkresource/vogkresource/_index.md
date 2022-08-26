@@ -1,14 +1,14 @@
 ---
 title: VogkResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化VogkResourceaspose.psd.fileformats.psd.layers.layerresources/vogkresource类的新实例
+description: 初始化VogkResourceaspose.psd.fileformats.psd.layers.layerresources/vogkresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/vogkresource/
 ---
 ## VogkResource constructor
 
-初始化[`VogkResource`](../../vogkresource)类的新实例。
+初始化[`VogkResource`](../../vogkresource)类.
 
 ```csharp
 public VogkResource()

@@ -1,14 +1,14 @@
 ---
 title: TypeToolKey
 second_title: Aspose.PSD for .NET API 参考
-description: 类型工具信息键SoLE
+description: 类型工具信息键SoLE.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/
 ---
 ## SoLeResource.TypeToolKey field
 
-类型工具信息键：'SoLE'。
+类型工具信息键：'SoLE'.
 
 ```csharp
 public const int TypeToolKey;

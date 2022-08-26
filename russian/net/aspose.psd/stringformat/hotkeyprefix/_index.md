@@ -1,14 +1,14 @@
 ---
 title: HotkeyPrefix
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает объектHotkeyPrefixaspose.psd/hotkeyprefixдля этогоStringFormataspose.psd/stringformatобъект.
+description: Получает или задаетHotkeyPrefixaspose.psd/hotkeyprefix объект для этогоStringFormataspose.psd/stringformat объект.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/stringformat/hotkeyprefix/
 ---
 ## StringFormat.HotkeyPrefix property
 
-Получает или задает объект[`HotkeyPrefix`](../../hotkeyprefix)для этого[`StringFormat`](../../stringformat)объект.
+Получает или задает[`HotkeyPrefix`](../../hotkeyprefix) объект для этого[`StringFormat`](../../stringformat) объект.
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
@@ -16,7 +16,7 @@ public HotkeyPrefix HotkeyPrefix { get; set; }
 
 ### Стоимость имущества
 
-Объект[`HotkeyPrefix`](../../hotkeyprefix)для этого[`StringFormat`](../../stringformat)object, значение по умолчанию —None.
+[`HotkeyPrefix`](../../hotkeyprefix) объект для этого[`StringFormat`](../../stringformat) объект, значение по умолчаниюNone.
 
 ### Смотрите также
 

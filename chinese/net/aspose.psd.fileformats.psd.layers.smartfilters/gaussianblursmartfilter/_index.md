@@ -3,7 +3,7 @@ title: GaussianBlurSmartFilter
 second_title: Aspose.PSD for .NET API 参考
 description: GaussianBlur 智能滤镜
 type: docs
-weight: 3320
+weight: 3370
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/
 ---
 ## GaussianBlurSmartFilter class
@@ -18,7 +18,7 @@ public sealed class GaussianBlurSmartFilter : SmartFilter
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GaussianBlurSmartFilter](gaussianblursmartfilter)() | 初始化[`GaussianBlurSmartFilter`](../gaussianblursmartfilter)类的新实例。 |
+| [GaussianBlurSmartFilter](gaussianblursmartfilter)() | 初始化[`GaussianBlurSmartFilter`](../gaussianblursmartfilter)类. |
 
 ## 特性
 
@@ -30,15 +30,15 @@ public sealed class GaussianBlurSmartFilter : SmartFilter
 | override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name) { get; } | 获取智能过滤器名称。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity) { get; set; } | 获取或设置智能滤镜的不透明度值。 |
 | [Radius](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius) { get; set; } | 获取或设置高斯智能滤波器的半径。 |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | 带有智能过滤数据的源描述符结构。 |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | 带有智能过滤器数据的源描述符结构。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | 将当前过滤器应用于输入[`RasterImage`](../../aspose.psd/rasterimage)图像。 |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | 将当前过滤器应用到输入[`Layer`](../../aspose.psd.fileformats.psd.layers/layer)蒙版数据。 |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | 对该类型的当前实例进行成员克隆。 |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | 将当前过滤器应用于输入[`RasterImage`](../../aspose.psd/rasterimage)图像. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | 将当前过滤器应用于输入[`Layer`](../../aspose.psd.fileformats.psd.layers/layer)掩码数据. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | 生成当前类型实例的成员克隆。 |
 
 ## 字段
 

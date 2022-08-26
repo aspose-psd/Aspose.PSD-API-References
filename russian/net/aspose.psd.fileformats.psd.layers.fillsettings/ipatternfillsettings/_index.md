@@ -3,7 +3,7 @@ title: IPatternFillSettings
 second_title: Справочник по Aspose.PSD для .NET API
 description: Интерфейс для настройки заливки узором
 type: docs
-weight: 1970
+weight: 2010
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
 ## IPatternFillSettings interface
@@ -19,19 +19,19 @@ public interface IPatternFillSettings : IFillSettings
 | Имя | Описание |
 | --- | --- |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset) { get; set; } | Получает или задает смещение по горизонтали. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked) { get; set; } | Получает или задает значение, указывающее, связан ли этот файл[`IPatternFillSettings`](../ipatternfillsettings). |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata) { get; set; } | Получает или задает данные шаблона. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked) { get; set; } | Получает или задает значение, указывающее, является ли это[`IPatternFillSettings`](../ipatternfillsettings) связан. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata) { get; set; } | Получает или устанавливает данные шаблона. |
 | [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight) { get; set; } | Получает или задает высоту шаблона. |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid) { get; set; } | Получает или задает идентификатор шаблона. |
 | [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname) { get; set; } | Получает или задает имя шаблона. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth) { get; set; } | Получает или задает ширину узора. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth) { get; set; } | Получает или задает ширину шаблона. |
 | [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype) { get; set; } | Получает или задает тип точки. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale) { get; set; } | Получает или задает масштаб. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset) { get; set; } | Получает или задает вертикальное смещение. |
 
 ### Примеры
 
-Следующий код сохраняет изображения с узором Заполните слой и демонстрирует, как Aspose.PSD визуализирует узор.
+Следующий код сохраняет изображения со слоем заливки шаблона и демонстрирует, как Aspose.PSD отображает шаблон.
 
 ```csharp
 [C#]

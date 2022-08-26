@@ -1,14 +1,14 @@
 ---
 title: C
 second_title: Aspose.PSD for .NET API 参考
-description: 获取此Coloraspose.psd/color结构的青色分量值
+description: 获取这个的青色分量值Coloraspose.psd/color结构.
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/cmykcolor/c/
 ---
 ## CmykColor.C property
 
-获取此[`Color`](../../color)结构的青色分量值。
+获取这个的青色分量值[`Color`](../../color)结构.
 
 ```csharp
 public byte C { get; }
@@ -16,7 +16,7 @@ public byte C { get; }
 
 ### 适当的价值
 
-[`Color`](../../color)的青色分量值。
+这个的青色分量值[`Color`](../../color) .
 
 ### 也可以看看
 

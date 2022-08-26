@@ -3,7 +3,7 @@ title: AliasStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Структура псевдонима.
 type: docs
-weight: 3000
+weight: 3050
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/
 ---
 ## AliasStructure class
@@ -18,7 +18,7 @@ public sealed class AliasStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [AliasStructure](aliasstructure)(ClassID) | Инициализирует новый экземпляр класса[`AliasStructure`](../aliasstructure). |
+| [AliasStructure](aliasstructure)(ClassID) | Инициализирует новый экземпляр[`AliasStructure`](../aliasstructure) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public sealed class AliasStructure : OSTypeStructure
 | [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/fullpath) { get; set; } | Получает или задает полный путь. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 
 ## Методы
 

@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.PSD for .NET API 参考
-description: 获取过滤器掩码数据长度以字节为单位
+description: 以字节为单位获取过滤器掩码数据长度
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/
 ---
 ## FilterEffectMaskData.Length property
 
-获取过滤器掩码数据长度（以字节为单位）。
+以字节为单位获取过滤器掩码数据长度。
 
 ```csharp
 public int Length { get; }

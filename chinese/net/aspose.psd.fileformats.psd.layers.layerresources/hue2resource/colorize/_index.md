@@ -1,14 +1,14 @@
 ---
 title: Colorize
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此Hue2Resourceaspose.psd.fileformats.psd.layers.layerresources/hue2resource是否为彩色
+description: 获取或设置一个值该值指示是否Hue2Resourceaspose.psd.fileformats.psd.layers.layerresources/hue2resource是着色.
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/
 ---
 ## Hue2Resource.Colorize property
 
-获取或设置一个值，该值指示此[`Hue2Resource`](../../hue2resource)是否为彩色。
+获取或设置一个值，该值指示是否[`Hue2Resource`](../../hue2resource)是着色.
 
 ```csharp
 public bool Colorize { get; set; }
@@ -16,7 +16,7 @@ public bool Colorize { get; set; }
 
 ### 适当的价值
 
-` true` 如果着色；否则，` false` 。
+`真的`如果着色；否则，`错误的` .
 
 ### 也可以看看
 

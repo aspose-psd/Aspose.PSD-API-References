@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此RectangleFaspose.psd/rectanglef结构左上角的 y 坐标
+description: 获取或设置这个左上角的y坐标RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 180
 url: /zh/net/aspose.psd/rectanglef/y/
 ---
 ## RectangleF.Y property
 
-获取或设置此[`RectangleF`](../../rectanglef)结构左上角的 y 坐标。
+获取或设置这个左上角的y坐标[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public float Y { get; set; }
@@ -16,7 +16,7 @@ public float Y { get; set; }
 
 ### 返回值
 
-此[`RectangleF`](../../rectanglef)结构左上角的 y 坐标。
+这个左上角的y坐标[`RectangleF`](../../rectanglef)结构体。
 
 ### 也可以看看
 

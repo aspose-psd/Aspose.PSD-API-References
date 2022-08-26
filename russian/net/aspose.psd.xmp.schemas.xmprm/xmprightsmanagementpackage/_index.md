@@ -3,7 +3,7 @@ title: XmpRightsManagementPackage
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет пространство имен управления правами XMP.
 type: docs
-weight: 5810
+weight: 5860
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/
 ---
 ## XmpRightsManagementPackage class
@@ -24,7 +24,7 @@ public sealed class XmpRightsManagementPackage : XmpPackage
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObjectс указанным ключом. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObject с указанным ключом. |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | Получает ключи в пакете XMP. |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | Получает префикс. |
@@ -36,12 +36,12 @@ public sealed class XmpRightsManagementPackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue)(string, string) | Добавляет строковое свойство. |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | Очищает этот экземпляр. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ ключ. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ key. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | Преобразует значение XMP в представление XML. |
 | virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | Удалить значение с указанным ключом. |
 | [SetCertificate](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate)(string) | Устанавливает сертификат. |
-| [SetMarkedAsRightManagement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement)(bool) | Отмечает как содержимое управления правами |
+| [SetMarkedAsRightManagement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement)(bool) | Отмечает как управление правами content |
 | [SetOwners](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners)(string[]) | Устанавливает владельцев. |
 | [SetUsageTerms](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms)(LangAlt) | Устанавливает условия использования. |
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue)(string, IXmlValue) | Устанавливает значение. |

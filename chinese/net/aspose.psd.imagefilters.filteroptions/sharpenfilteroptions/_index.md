@@ -3,7 +3,7 @@ title: SharpenFilterOptions
 second_title: Aspose.PSD for .NET API 参考
 description: 锐化滤镜选项
 type: docs
-weight: 4620
+weight: 4670
 url: /zh/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
 ## SharpenFilterOptions class
@@ -18,8 +18,8 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions#constructor)() | 初始化[`SharpenFilterOptions`](../sharpenfilteroptions)类的新实例。 使用默认设置。 |
-| [SharpenFilterOptions](sharpenfilteroptions#constructor_1)(int, double) | 初始化[`SharpenFilterOptions`](../sharpenfilteroptions)类的新实例。 |
+| [SharpenFilterOptions](sharpenfilteroptions#constructor)() | 初始化[`SharpenFilterOptions`](../sharpenfilteroptions)类. 使用默认设置. |
+| [SharpenFilterOptions](sharpenfilteroptions#constructor_1)(int, double) | 初始化[`SharpenFilterOptions`](../sharpenfilteroptions)类. |
 
 ## 特性
 

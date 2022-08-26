@@ -3,7 +3,7 @@ title: LayerSectionResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Ресурс раздела слоя.
 type: docs
-weight: 2530
+weight: 2570
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
 ## LayerSectionResource class
@@ -18,7 +18,7 @@ public class LayerSectionResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [LayerSectionResource](layersectionresource)() | Инициализирует новый экземпляр класса[`LayerSectionResource`](../layersectionresource). |
+| [LayerSectionResource](layersectionresource)() | Инициализирует новый экземпляр[`LayerSectionResource`](../layersectionresource) класс. |
 
 ## Характеристики
 
@@ -37,13 +37,13 @@ public class LayerSectionResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

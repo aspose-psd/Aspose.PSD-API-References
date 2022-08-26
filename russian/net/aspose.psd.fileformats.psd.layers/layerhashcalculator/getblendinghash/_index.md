@@ -1,14 +1,14 @@
 ---
 title: GetBlendingHash
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает смешанный хэш.
+description: Получает смешанный хеш.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/
 ---
 ## LayerHashCalculator.GetBlendingHash method
 
-Получает смешанный хэш.
+Получает смешанный хеш.
 
 ```csharp
 public int GetBlendingHash()
@@ -20,7 +20,7 @@ public int GetBlendingHash()
 
 ### Примеры
 
-Следующий код демонстрирует API для получения уникального хеша одинаковых слоев в разных файлах.
+Следующий код демонстрирует API для получения уникального хэша для похожих слоев в разных файлах.
 
 ```csharp
 [C#]
@@ -31,7 +31,7 @@ public int GetBlendingHash()
 /// <typeparam name="T"></typeparam>
 /// <param name="image">Изображение.</param>
 /// <param name="name">Имя.</param>
-/// <возвращает></возвращает>
+/// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
     var layers = image.Layers;

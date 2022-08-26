@@ -1,14 +1,14 @@
 ---
 title: ShadowsCyanRedBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает баланс сине-красного цвета теней.
+description: Получает или задает баланс теней Cyan Red.
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/
 ---
 ## BlncResource.ShadowsCyanRedBalance property
 
-Получает или задает баланс сине-красного цвета теней.
+Получает или задает баланс теней Cyan Red.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
@@ -16,7 +16,7 @@ public short ShadowsCyanRedBalance { get; set; }
 
 ### Стоимость имущества
 
-Тени Циан Красный Баланс.
+Тени Голубой Красный Баланс.
 
 ### Смотрите также
 

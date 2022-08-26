@@ -16,7 +16,7 @@ public DateTime LayerCreationDateTime { get; set; }
 
 ### 适当的价值
 
-图层的创建日期时间。如果没有关于创建 DateTime 的数据，则返回 Unix Time first epoch
+图层的创建日期时间。如果没有关于创建 DateTime 的数据，则首先返回 Unix Time epoch
 
 ### 也可以看看
 

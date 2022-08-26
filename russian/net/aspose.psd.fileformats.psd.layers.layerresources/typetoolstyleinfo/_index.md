@@ -3,7 +3,7 @@ title: TypeToolStyleInfo
 second_title: Справочник по Aspose.PSD для .NET API
 description: Введите информацию о стиле инструмента.
 type: docs
-weight: 3210
+weight: 3260
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 ---
 ## TypeToolStyleInfo class
@@ -24,8 +24,8 @@ public class TypeToolStyleInfo
 
 | Имя | Описание |
 | --- | --- |
-| [AutoKern](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern) { get; set; } | Получает или задает значение, указывающее, включено или выключено автоматическое определение кернинга. |
-| [BaseShiftValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue) { get; set; } | Получает или задает базовое значение сдвига. |
+| [AutoKern](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern) { get; set; } | Получает или задает значение, указывающее, включен или выключен автоматический кернинг. |
+| [BaseShiftValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue) { get; set; } | Получает или задает значение базового сдвига. |
 | [FaceMarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue) { get; set; } | Получает или задает значение метки лица. |
 | [KerningValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue) { get; set; } | Получает или задает значение кернинга. |
 | [LeadingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue) { get; set; } | Получает или задает начальное значение. |
@@ -38,7 +38,7 @@ public class TypeToolStyleInfo
 
 | Имя | Описание |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save)(StreamContainer, int) | Сохраняет информацию[`TypeToolFontInfo`](../typetoolfontinfo)в указанный контейнер потока. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save)(StreamContainer, int) | Сохраняет[`TypeToolFontInfo`](../typetoolfontinfo) информация в указанный контейнер потока. |
 
 ### Смотрите также
 

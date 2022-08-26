@@ -1,14 +1,14 @@
 ---
 title: PatternOverlayEffect
 second_title: Aspose.PSD for .NET API 参考
-description: 图案图层效果
+description: 图案层效果
 type: docs
-weight: 2120
+weight: 2160
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
 ## PatternOverlayEffect class
 
-图案图层效果
+图案层效果
 
 ```csharp
 public class PatternOverlayEffect : ILayerEffect
@@ -19,14 +19,14 @@ public class PatternOverlayEffect : ILayerEffect
 | 姓名 | 描述 |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode) { get; set; } | 获取或设置混合模式。 |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype) { get; } | 获取一种效果类型 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible) { get; set; } | 获取或设置一个值，指示此实例是否可见。 |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype) { get; } | 获取效果类型 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible) { get; set; } | 获取或设置一个指示此实例是否可见的值。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity) { get; set; } | 获取或设置不透明度。 |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings) { get; set; } | 获取或设置设置。 |
 
 ### 例子
 
-下面的代码演示了图案叠加效果的支持。
+下面的代码演示了对图案叠加效果的支持。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: ComponentA
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает компонент A цвета
+description: Получает или задает компонент A для color
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componenta/
 ---
 ## PhflResourceVersion2.ComponentA property
 
-Получает или задает компонент A цвета
+Получает или задает компонент A для color
 
 ```csharp
 public short ComponentA { get; set; }
@@ -22,7 +22,7 @@ public short ComponentA { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | Цвет должен находиться в диапазоне от -12800 до 12700 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | Цвет должен находиться в диапазоне от -12800 до 12700. |
 
 ### Смотрите также
 

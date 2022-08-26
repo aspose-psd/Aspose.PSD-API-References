@@ -1,14 +1,14 @@
 ---
 title: AssetModTime
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 Adobe Photoshop СС 库资源的资源修改时间
+description: 获取或设置资产修改时间用于 Adobe Photoshop СС 库资产
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/
 ---
 ## LinkDataSource.AssetModTime property
 
-获取或设置 Adobe® Photoshop® СС 库资源的资源修改时间。
+获取或设置资产修改时间，用于 Adobe® Photoshop® СС 库资产。
 
 ```csharp
 public double AssetModTime { get; set; }
@@ -22,7 +22,7 @@ public double AssetModTime { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 AssetModTime 属性，它仅适用于 liFE 或 liFE 数据源使用版本 6 或更高版本。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 AssetModTime 属性，它仅适用于版本 6 或更高版本的 liFE 或 liFE 数据源。 |
 
 ### 也可以看看
 

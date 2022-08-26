@@ -1,14 +1,14 @@
 ---
 title: Items
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает элементы.
+description: Получает или задает копию массива структур.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/
 ---
 ## ReferenceStructure.Items property
 
-Получает или задает элементы.
+Получает или задает копию массива структур.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }

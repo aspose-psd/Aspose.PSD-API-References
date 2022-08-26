@@ -1,14 +1,14 @@
 ---
 title: AlignWithLayer
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее установлена ли ссылка со слоем.
+description: Получает или задает значение указывающее является ли ссылка со слоем.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
 ## PatternFillSettings.AlignWithLayer property
 
-Получает или задает значение, указывающее, установлена ли [ссылка со слоем].
+Получает или задает значение, указывающее, является ли [ссылка со слоем].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
@@ -16,7 +16,7 @@ public bool AlignWithLayer { get; set; }
 
 ### Стоимость имущества
 
-` true` if [ссылка со слоем]; в противном случае` false` .
+`истинный` если [связать со слоем]; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 

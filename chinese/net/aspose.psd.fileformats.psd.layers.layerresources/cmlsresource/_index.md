@@ -1,14 +1,14 @@
 ---
 title: CmlsResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 CmlsResource
+description: 类 CmlsResource.
 type: docs
-weight: 2320
+weight: 2360
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/
 ---
 ## CmlsResource class
 
-类 CmlsResource。
+类 CmlsResource.
 
 ```csharp
 public class CmlsResource : LayerResource
@@ -18,14 +18,14 @@ public class CmlsResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CmlsResource](cmlsresource)(byte[]) | 初始化[`CmlsResource`](../cmlsresource)类的新实例。 |
+| [CmlsResource](cmlsresource)(byte[]) | 初始化[`CmlsResource`](../cmlsresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/signature) { get; } | 获取签名。 |
 
@@ -34,7 +34,7 @@ public class CmlsResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

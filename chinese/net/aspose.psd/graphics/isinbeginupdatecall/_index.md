@@ -16,7 +16,7 @@ public bool IsInBeginUpdateCall { get; }
 
 ### 适当的价值
 
-` True` 如果图形处于 BeginUpdate 调用状态；否则，` false` 。
+`真的`如果图形处于 BeginUpdate 调用状态；否则，`错误的` .
 
 ### 也可以看看
 

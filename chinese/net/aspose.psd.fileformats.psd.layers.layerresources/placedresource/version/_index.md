@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Aspose.PSD for .NET API 参考
-description: 获取PSD文件中放置图层的版本一般为3
+description: 获取PSD文件中放置图层的版本一般为3.
 type: docs
 weight: 210
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
 ## PlacedResource.Version property
 
-获取PSD文件中放置图层的版本，一般为3。
+获取PSD文件中放置图层的版本，一般为3.
 
 ```csharp
 public int Version { get; }
@@ -16,7 +16,7 @@ public int Version { get; }
 
 ### 适当的价值
 
-放置的图层层版本。
+放置的图层版本。
 
 ### 也可以看看
 

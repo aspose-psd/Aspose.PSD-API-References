@@ -16,7 +16,7 @@ public InnerShadowEffect AddInnerShadow()
 
 ### Возвращаемое значение
 
-Создано[`InnerShadowEffect`](../../innershadoweffect)объект
+Создано[`InnerShadowEffect`](../../innershadoweffect) объект
 
 ### Смотрите также
 

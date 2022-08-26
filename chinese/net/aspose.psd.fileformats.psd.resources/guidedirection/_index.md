@@ -3,7 +3,7 @@ title: GuideDirection
 second_title: Aspose.PSD for .NET API 参考
 description: 引导方向
 type: docs
-weight: 3630
+weight: 3680
 url: /zh/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
 ## GuideDirection enumeration
@@ -18,7 +18,7 @@ public enum GuideDirection : byte
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Vertical | `0` | 垂直导向方向。 |
+| Vertical | `0` | 垂直引导方向。 |
 | Horizontal | `1` | 水平导向方向。 |
 
 ### 也可以看看

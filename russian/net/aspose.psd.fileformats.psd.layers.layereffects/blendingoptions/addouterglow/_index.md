@@ -16,7 +16,7 @@ public OuterGlowEffect AddOuterGlow()
 
 ### Возвращаемое значение
 
-Создано[`OuterGlowEffect`](../../outergloweffect)object
+Создано[`OuterGlowEffect`](../../outergloweffect) объект
 
 ### Примеры
 

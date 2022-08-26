@@ -1,14 +1,14 @@
 ---
 title: RectangleShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаRectangleShapeaspose.psd.shapes/rectangleshape.
+description: Инициализирует новый экземплярRectangleShapeaspose.psd.shapes/rectangleshape класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/rectangleshape/rectangleshape/
 ---
 ## RectangleShape() {#constructor}
 
-Инициализирует новый экземпляр класса[`RectangleShape`](../../rectangleshape).
+Инициализирует новый экземпляр[`RectangleShape`](../../rectangleshape) класс.
 
 ```csharp
 public RectangleShape()
@@ -24,7 +24,7 @@ public RectangleShape()
 
 ## RectangleShape(RectangleF) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`RectangleShape`](../../rectangleshape).
+Инициализирует новый экземпляр[`RectangleShape`](../../rectangleshape) класс.
 
 ```csharp
 public RectangleShape(RectangleF rectangle)

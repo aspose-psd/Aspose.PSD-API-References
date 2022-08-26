@@ -1,14 +1,14 @@
 ---
 title: IntersectsWith
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет пересекается ли этот прямоугольник сrect.
+description: Определяет пересекается ли этот прямоугольник сrect .
 type: docs
 weight: 220
 url: /ru/net/aspose.psd/rectanglef/intersectswith/
 ---
 ## RectangleF.IntersectsWith method
 
-Определяет, пересекается ли этот прямоугольник с*rect*.
+Определяет, пересекается ли этот прямоугольник с*rect* .
 
 ```csharp
 public bool IntersectsWith(RectangleF rect)
@@ -20,7 +20,7 @@ public bool IntersectsWith(RectangleF rect)
 
 ### Возвращаемое значение
 
-Этот метод возвращает true, если есть пересечение.
+Этот метод возвращает true, если есть какое-либо пересечение.
 
 ### Смотрите также
 

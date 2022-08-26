@@ -1,14 +1,14 @@
 ---
 title: Figure
 second_title: Aspose.PSD for .NET API 参考
-description: 图形状的容器
+description: 图形状的容器.
 type: docs
 weight: 1200
 url: /zh/net/aspose.psd/figure/
 ---
 ## Figure class
 
-图。形状的容器。
+图。形状的容器.
 
 ```csharp
 public class Figure : ObjectWithBounds
@@ -25,7 +25,7 @@ public class Figure : ObjectWithBounds
 | 姓名 | 描述 |
 | --- | --- |
 | override [Bounds](../../aspose.psd/figure/bounds) { get; } | 获取或设置对象的边界。 |
-| [IsClosed](../../aspose.psd/figure/isclosed) { get; set; } | 获取或设置一个值，表示该图窗是否闭合。只有在 第一个和最后一个图形的形状是连续形状的情况下，闭合图形才会有所不同。在这种情况下，第一个形状的第一个点将是 ，由最后一个形状的最后一个点的直线连接。 |
+| [IsClosed](../../aspose.psd/figure/isclosed) { get; set; } | 获取或设置该图窗是否闭合的值。只有在 第一个和最后一个图形的形状是连续形状的情况下，封闭图形才会有所不同。在这种情况下，第一个形状的第一个点将 由最后一个形状的最后一个点的直线连接。 |
 | [Segments](../../aspose.psd/figure/segments) { get; } | 获取整个图形段。 |
 | [Shapes](../../aspose.psd/figure/shapes) { get; } | 获取图形形状。 |
 
@@ -33,7 +33,7 @@ public class Figure : ObjectWithBounds
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddShape](../../aspose.psd/figure/addshape)(Shape) | 向图窗添加形状。 |
+| [AddShape](../../aspose.psd/figure/addshape)(Shape) | 为图形添加形状。 |
 | [AddShapes](../../aspose.psd/figure/addshapes)(Shape[]) | 为图形添加一系列形状。 |
 | override [GetBounds](../../aspose.psd/figure/getbounds#getbounds)(Matrix) | 获取对象的边界。 |
 | override [GetBounds](../../aspose.psd/figure/getbounds#getbounds_1)(Matrix, Pen) | 获取对象的边界。 |

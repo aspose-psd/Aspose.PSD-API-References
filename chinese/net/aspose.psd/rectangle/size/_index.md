@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此Rectangleaspose.psd/rectangle的大小
+description: 获取或设置 this 的大小Rectangleaspose.psd/rectangle .
 type: docs
 weight: 170
 url: /zh/net/aspose.psd/rectangle/size/
 ---
 ## Rectangle.Size property
 
-获取或设置此[`Rectangle`](../../rectangle)的大小。
+获取或设置 this 的大小[`Rectangle`](../../rectangle) .
 
 ```csharp
 public Size Size { get; set; }
@@ -16,7 +16,7 @@ public Size Size { get; set; }
 
 ### 适当的价值
 
-一个[`Size`](../../size)表示这个Rectangle的宽度和高度结构体。
+一个[`Size`](../../size)表示这个的宽度和高度[`Rectangle`](../../rectangle)结构体。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: BaseShiftValue
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает базовое значение сдвига.
+description: Получает или задает значение базового сдвига.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/
 ---
 ## TypeToolStyleInfo.BaseShiftValue property
 
-Получает или задает базовое значение сдвига.
+Получает или задает значение базового сдвига.
 
 ```csharp
 public int BaseShiftValue { get; set; }

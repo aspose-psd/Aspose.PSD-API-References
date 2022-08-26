@@ -26,7 +26,7 @@ public byte[] GetChannelInfo(int channelIndex)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | Mixr 资源不超过 4 个通道。第一个通道的索引为 0 |
+| ArgumentException | Mixr 资源的通道数不超过 4 个。第一个通道的索引为 0 |
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: NvrtResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс NvrtResource. Ресурс инвертированного корректирующего слоя.
 type: docs
-weight: 2770
+weight: 2820
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
 ## NvrtResource class
@@ -18,8 +18,8 @@ public class NvrtResource : AdjustmentLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [NvrtResource](nvrtresource#constructor)() | Инициализирует новый экземпляр класса[`NvrtResource`](../nvrtresource). |
-| [NvrtResource](nvrtresource#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`NvrtResource`](../nvrtresource). |
+| [NvrtResource](nvrtresource#constructor)() | Инициализирует новый экземпляр[`NvrtResource`](../nvrtresource) класс. |
+| [NvrtResource](nvrtresource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`NvrtResource`](../nvrtresource) класс. |
 
 ## Характеристики
 
@@ -35,13 +35,13 @@ public class NvrtResource : AdjustmentLayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey) | Ключ информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey) | Клавиша информации о типе инструмента. |
 
 ### Примеры
 

@@ -3,7 +3,7 @@ title: CurvesManager
 second_title: Aspose.PSD for .NET API 参考
 description: 管理 CurvResource 的基类
 type: docs
-weight: 2370
+weight: 2410
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
 ## CurvesManager class
@@ -18,7 +18,7 @@ public abstract class CurvesManager
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CurvesManager](curvesmanager)(int) | 初始化[`CurvesManager`](../curvesmanager)类的新实例。 |
+| [CurvesManager](curvesmanager)(int) | 初始化[`CurvesManager`](../curvesmanager)类. |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: IImageExporter
 second_title: Aspose.PSD for .NET API 参考
-description: 图像导出器可以将内部 Aspose.PSD 格式的数据导出为指定的数据格式
+description: 图像导出器可以将内部Aspose.PSD格式的数据导出为指定的数据格式
 type: docs
-weight: 4310
+weight: 4360
 url: /zh/net/aspose.psd/iimageexporter/
 ---
 ## IImageExporter interface
 
-图像导出器。可以将内部 Aspose.PSD 格式的数据导出为指定的数据格式。
+图像导出器。可以将内部Aspose.PSD格式的数据导出为指定的数据格式。
 
 ```csharp
 public interface IImageExporter

@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Tiff
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间处理 Tiff 文件格式处理
 type: docs
-weight: 350
+weight: 360
 url: /zh/net/aspose.psd.fileformats.tiff/
 ---
 命名空间处理 Tiff 文件格式处理。

@@ -1,14 +1,14 @@
 ---
 title: BilateralSmoothingFilterOptions
 second_title: Aspose.PSD for .NET API 参考
-description: 双边平滑过滤器选项
+description: 双边平滑过滤器选项.
 type: docs
-weight: 4540
+weight: 4590
 url: /zh/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/
 ---
 ## BilateralSmoothingFilterOptions class
 
-双边平滑过滤器选项。
+双边平滑过滤器选项.
 
 ```csharp
 public class BilateralSmoothingFilterOptions : FilterOptionsBase
@@ -18,8 +18,8 @@ public class BilateralSmoothingFilterOptions : FilterOptionsBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions#constructor)() | 初始化[`BilateralSmoothingFilterOptions`](../bilateralsmoothingfilteroptions)类的新实例。 |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions#constructor_1)(int) | 初始化[`BilateralSmoothingFilterOptions`](../bilateralsmoothingfilteroptions)类的新实例。 |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions#constructor)() | 初始化[`BilateralSmoothingFilterOptions`](../bilateralsmoothingfilteroptions)类. |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions#constructor_1)(int) | 初始化[`BilateralSmoothingFilterOptions`](../bilateralsmoothingfilteroptions)类. |
 
 ## 特性
 

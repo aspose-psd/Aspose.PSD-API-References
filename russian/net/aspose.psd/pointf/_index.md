@@ -3,7 +3,7 @@ title: PointF
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет упорядоченную пару координат x и y с плавающей запятой которая определяет точку на двумерной плоскости.
 type: docs
-weight: 5150
+weight: 5200
 url: /ru/net/aspose.psd/pointf/
 ---
 ## PointF structure
@@ -18,32 +18,32 @@ public struct PointF
 
 | Имя | Описание |
 | --- | --- |
-| [PointF](pointf)(float, float) | Инициализирует новый экземпляр структуры[`PointF`](../pointf)с указанными координатами. |
+| [PointF](pointf)(float, float) | Инициализирует новый экземпляр[`PointF`](../pointf) структура с указанными координатами. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| static [Empty](../../aspose.psd/pointf/empty) { get; } | Получает новый экземпляр структуры[`PointF`](../pointf)сXи[`Y`](./y)равны нулю. |
-| [IsEmpty](../../aspose.psd/pointf/isempty) { get; } | Получает значение, указывающее, является ли этот[`PointF`](../pointf)пустым. |
-| [X](../../aspose.psd/pointf/x) { get; set; } | Получает или устанавливает x-координату этого[`PointF`](../pointf). |
-| [Y](../../aspose.psd/pointf/y) { get; set; } | Получает или задает координату y этого[`PointF`](../pointf). |
+| static [Empty](../../aspose.psd/pointf/empty) { get; } | Получает новый экземпляр[`PointF`](../pointf) структура, которая имеет[`X`](./x) а также[`Y`](./y) значения равны нулю. |
+| [IsEmpty](../../aspose.psd/pointf/isempty) { get; } | Получает значение, указывающее, является ли это[`PointF`](../pointf) пуст. |
+| [X](../../aspose.psd/pointf/x) { get; set; } | Получает или задает координату x этого[`PointF`](../pointf) . |
+| [Y](../../aspose.psd/pointf/y) { get; set; } | Получает или задает координату y этого[`PointF`](../pointf) . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [Add](../../aspose.psd/pointf/add#add)(PointF, Size) | Переводит указанный[`PointF`](../pointf)на указанный[`Size`](../size). |
-| static [Add](../../aspose.psd/pointf/add#add_1)(PointF, SizeF) | Преобразует заданный[`PointF`](../pointf)на указанный[`SizeF`](../sizef). |
-| static [Subtract](../../aspose.psd/pointf/subtract#subtract)(PointF, Size) | Преобразует[`PointF`](../pointf)в минус указанного размера. |
-| static [Subtract](../../aspose.psd/pointf/subtract#subtract_1)(PointF, SizeF) | Преобразует[`PointF`](../pointf)в минус указанного размера. |
-| override [Equals](../../aspose.psd/pointf/equals)(object) | Указывает, содержит ли этот[`PointF`](../pointf)те же координаты, что и указанныйObject. |
-| override [GetHashCode](../../aspose.psd/pointf/gethashcode)() | Возвращает хэш-код для этой[`PointF`](../pointf)структуры. |
-| override [ToString](../../aspose.psd/pointf/tostring)() | Преобразует этот[`PointF`](../pointf)в удобочитаемую строку. |
-| [operator +](../../aspose.psd/pointf/op_addition#op_addition) | Переводит[`PointF`](../pointf)на заданный[`Size`](../size). (2 operators) |
-| [operator ==](../../aspose.psd/pointf/op_equality) | Сравнивает две структуры[`PointF`](../pointf). Результат указывает, будут ли значения[`X`](./x)и[`Y`](./y)двух свойств[`PointF`](../pointf)структуры равны. |
+| static [Add](../../aspose.psd/pointf/add#add)(PointF, Size) | Переводит данное[`PointF`](../pointf) указанным[`Size`](../size) . |
+| static [Add](../../aspose.psd/pointf/add#add_1)(PointF, SizeF) | Переводит данное[`PointF`](../pointf) по указанному[`SizeF`](../sizef) . |
+| static [Subtract](../../aspose.psd/pointf/subtract#subtract)(PointF, Size) | Переводит[`PointF`](../pointf) негативом указанного размера. |
+| static [Subtract](../../aspose.psd/pointf/subtract#subtract_1)(PointF, SizeF) | Переводит[`PointF`](../pointf) негативом указанного размера. |
+| override [Equals](../../aspose.psd/pointf/equals)(object) | Указывает, является ли это[`PointF`](../pointf)содержит те же координаты, что и указанныйObject . |
+| override [GetHashCode](../../aspose.psd/pointf/gethashcode)() | Возвращает хеш-код для этого[`PointF`](../pointf)структура. |
+| override [ToString](../../aspose.psd/pointf/tostring)() | Преобразует это[`PointF`](../pointf) в удобочитаемую строку. |
+| [operator +](../../aspose.psd/pointf/op_addition#op_addition) | Переводит[`PointF`](../pointf) заданным[`Size`](../size) . (2 operators) |
+| [operator ==](../../aspose.psd/pointf/op_equality) | Сравнивает два[`PointF`](../pointf) структуры. Результат указывает, являются ли значения[`X`](./x) а также[`Y`](./y) свойства двух[`PointF`](../pointf) структуры равны. |
 | [operator !=](../../aspose.psd/pointf/op_inequality) | Определяет, не равны ли координаты указанных точек. |
-| [operator -](../../aspose.psd/pointf/op_subtraction#op_subtraction) | Переводит[`PointF`](../pointf)на отрицательную величину заданного[`Size`](../size). (2 operators) |
+| [operator -](../../aspose.psd/pointf/op_subtraction#op_subtraction) | Переводит[`PointF`](../pointf)отрицанием данного[`Size`](../size) . (2 operators) |
 
 ### Смотрите также
 

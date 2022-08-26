@@ -19,7 +19,7 @@ public enum FontCaps
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 没有字体大写值。 |
-| SmallCaps | `1` | 小型股。 |
+| SmallCaps | `1` | 小型大写字母。 |
 | AllCaps | `2` | 全部大写。 |
 
 ### 也可以看看

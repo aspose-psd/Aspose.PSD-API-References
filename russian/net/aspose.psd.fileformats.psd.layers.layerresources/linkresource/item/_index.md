@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПолучаетLinkDataSourceaspose.psd.fileformats.psd.layers.layerresources/linkdatasourceпо указанному индексу который является источником данных ссылки уникальный идентификатор..
+description: ПолучаетLinkDataSourceaspose.psd.fileformats.psd.layers.layerresources/linkdatasource по указанному индексу который является уникальным идентификатором источника данных ссылки..
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
 ## LinkResource indexer
 
-Получает[`LinkDataSource`](../../linkdatasource)по указанному индексу, который является источником данных ссылки уникальный идентификатор..
+Получает[`LinkDataSource`](../../linkdatasource) по указанному индексу, который является уникальным идентификатором источника данных ссылки..
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
@@ -20,11 +20,11 @@ public LinkDataSource this[Guid index] { get; }
 
 ### Возвращаемое значение
 
-Экземпляр[`LinkDataSource`](../../linkdatasource).
+[`LinkDataSource`](../../linkdatasource) экземпляр.
 
 ### Стоимость имущества
 
-The[`LinkDataSource`](../../linkdatasource).
+[`LinkDataSource`](../../linkdatasource) .
 
 ### Примеры
 

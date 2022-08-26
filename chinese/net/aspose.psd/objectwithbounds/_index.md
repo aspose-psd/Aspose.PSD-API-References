@@ -3,7 +3,7 @@ title: ObjectWithBounds
 second_title: Aspose.PSD for .NET API 参考
 description: 有边界的对象
 type: docs
-weight: 5040
+weight: 5090
 url: /zh/net/aspose.psd/objectwithbounds/
 ---
 ## ObjectWithBounds class

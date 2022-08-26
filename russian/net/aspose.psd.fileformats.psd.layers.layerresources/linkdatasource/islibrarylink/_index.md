@@ -1,14 +1,14 @@
 ---
 title: IsLibraryLink
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее ссылается ли этот источник данных ссылки PSD на элемент библиотеки Adobe Photoshop CC.
+description: Получает значение указывающее ссылается ли этот источник данных ссылки PSD на элемент библиотеки Adobe Photoshop CC Library.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/
 ---
 ## LinkDataSource.IsLibraryLink property
 
-Получает значение, указывающее, ссылается ли этот источник данных ссылки PSD на элемент библиотеки Adobe® Photoshop® CC.
+Получает значение, указывающее, ссылается ли этот источник данных ссылки PSD на элемент библиотеки Adobe® Photoshop® CC Library.
 
 ```csharp
 public bool IsLibraryLink { get; }
@@ -16,7 +16,7 @@ public bool IsLibraryLink { get; }
 
 ### Стоимость имущества
 
-` true` если это экземпляр Adobe® Photoshop® СС ссылка на библиотеку; в противном случае` false` .
+`истинный` если этот экземпляр является ссылкой на библиотеку Adobe® Photoshop® СС; в противном случае,`ЛОЖЬ` .
 
 ### Исключения
 

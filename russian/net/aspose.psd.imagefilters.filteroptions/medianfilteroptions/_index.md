@@ -3,7 +3,7 @@ title: MedianFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Медианный фильтр
 type: docs
-weight: 4600
+weight: 4650
 url: /ru/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
 ## MedianFilterOptions class
@@ -18,7 +18,7 @@ public class MedianFilterOptions : FilterOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions)(int) | Инициализирует новый экземпляр класса[`MedianFilterOptions`](../medianfilteroptions). |
+| [MedianFilterOptions](medianfilteroptions)(int) | Инициализирует новый экземпляр[`MedianFilterOptions`](../medianfilteroptions) класс. |
 
 ## Характеристики
 

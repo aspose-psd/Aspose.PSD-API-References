@@ -3,7 +3,7 @@ title: IImageExporter
 second_title: Справочник по Aspose.PSD для .NET API
 description: Экспортер изображений. Может экспортировать данные из внутреннего формата Aspose.PSD в указанный формат данных.
 type: docs
-weight: 4310
+weight: 4360
 url: /ru/net/aspose.psd/iimageexporter/
 ---
 ## IImageExporter interface

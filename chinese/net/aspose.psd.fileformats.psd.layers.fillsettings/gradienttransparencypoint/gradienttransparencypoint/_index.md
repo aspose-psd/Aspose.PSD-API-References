@@ -1,14 +1,14 @@
 ---
 title: GradientTransparencyPoint
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化GradientTransparencyPointaspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint类的新实例
+description: 初始化GradientTransparencyPointaspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/gradienttransparencypoint/
 ---
 ## GradientTransparencyPoint constructor
 
-初始化[`GradientTransparencyPoint`](../../gradienttransparencypoint)类的新实例。
+初始化[`GradientTransparencyPoint`](../../gradienttransparencypoint)类.
 
 ```csharp
 public GradientTransparencyPoint()

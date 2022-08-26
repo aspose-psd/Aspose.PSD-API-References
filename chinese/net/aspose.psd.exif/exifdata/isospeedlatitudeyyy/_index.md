@@ -1,14 +1,14 @@
 ---
 title: ISOSpeedLatitudeYYY
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 ISO 12232 中定义的相机或输入设备的 ISO 感光度纬度 yyy 值
+description: 获取或设置 ISO 12232 中定义的相机或输入设备的 ISO 速度纬度 yyy 值
 type: docs
 weight: 710
 url: /zh/net/aspose.psd.exif/exifdata/isospeedlatitudeyyy/
 ---
 ## ExifData.ISOSpeedLatitudeYYY property
 
-获取或设置 ISO 12232 中定义的相机或输入设备的 ISO 感光度纬度 yyy 值。
+获取或设置 ISO 12232 中定义的相机或输入设备的 ISO 速度纬度 yyy 值。
 
 ```csharp
 public uint ISOSpeedLatitudeYYY { get; set; }
@@ -20,7 +20,7 @@ ISO 12232 中定义的相机或输入设备的 ISO 速度纬度 yyy 值。
 
 ### 评论
 
-没有 ISOSpeed 和ISOSpeedLatitudezzz
+如果没有 ISOSpeed 和 ISOSpeedLatitudezzz，则不得记录此标签
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: VerticalMeshPointUnit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает единицу измерения вертикальных точек сетки.
+description: Получает или задает единицу измерения точек вертикальной сетки.
 type: docs
 weight: 220
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/
 ---
 ## IPlacedLayerResource.VerticalMeshPointUnit property
 
-Получает или задает единицу измерения вертикальных точек сетки.
+Получает или задает единицу измерения точек вертикальной сетки.
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }

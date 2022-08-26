@@ -1,14 +1,14 @@
 ---
 title: GetHue
 second_title: Aspose.PSD for .NET API 参考
-description: 获取此Coloraspose.psd/color结构的色调饱和度 HSB 色调值以度为单位
+description: 获取色调饱和度亮度 HSB 色调值以度为单位为此Coloraspose.psd/color结构.
 type: docs
 weight: 1570
 url: /zh/net/aspose.psd/color/gethue/
 ---
 ## Color.GetHue method
 
-获取此[`Color`](../../color)结构的色调饱和度 (HSB) 色调值（以度为单位）。
+获取色调-饱和度-亮度 (HSB) 色调值，以度为单位，为此[`Color`](../../color)结构.
 
 ```csharp
 public float GetHue()
@@ -16,7 +16,7 @@ public float GetHue()
 
 ### 返回值
 
-[`Color`](../../color)的色调，以度为单位。在 HSB 颜色空间中，色调以度数为单位，范围从 0.0 到 360.0。
+色调，以度数，这个[`Color`](../../color).在 HSB 颜色空间中，色调以度数为单位，范围从 0.0 到 360.0。
 
 ### 也可以看看
 

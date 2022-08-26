@@ -1,14 +1,14 @@
 ---
 title: BaseFillSettings
 second_title: Справочник по Aspose.PSD для .NET API
-description: Базовые настройки эффекта заливки
+description: Настройки эффекта базовой заливки
 type: docs
-weight: 1860
+weight: 1900
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
 ## BaseFillSettings class
 
-Базовые настройки эффекта заливки
+Настройки эффекта базовой заливки
 
 ```csharp
 public abstract class BaseFillSettings : IFillSettings

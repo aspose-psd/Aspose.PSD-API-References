@@ -1,14 +1,14 @@
 ---
 title: CmykMixerChannel
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化CmykMixerChannelaspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel类的新实例
+description: 初始化CmykMixerChannelaspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cmykmixerchannel/
 ---
 ## CmykMixerChannel constructor
 
-初始化[`CmykMixerChannel`](../../cmykmixerchannel)类的新实例。
+初始化[`CmykMixerChannel`](../../cmykmixerchannel)类.
 
 ```csharp
 public CmykMixerChannel(byte[] data)

@@ -1,14 +1,14 @@
 ---
 title: IGradientFillSettings
 second_title: Aspose.PSD for .NET API 参考
-description: 填充设置的基本界面
+description: 填充设置的基本接口
 type: docs
-weight: 1950
+weight: 1990
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/
 ---
 ## IGradientFillSettings interface
 
-填充设置的基本界面
+填充设置的基本接口
 
 ```csharp
 public interface IGradientFillSettings : IFillSettings
@@ -22,18 +22,18 @@ public interface IGradientFillSettings : IFillSettings
 | [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/angle) { get; set; } | 获取或设置角度。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/color) { get; set; } | 获取或设置颜色。 |
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints) { get; set; } | 获取色点。 |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither) { get; set; } | 获取或设置一个值，该值指示此[`IGradientFillSettings`](../igradientfillsettings)是否抖动。 |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither) { get; set; } | 获取或设置一个值，该值指示是否[`IGradientFillSettings`](../igradientfillsettings)是抖动. |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname) { get; set; } | 获取或设置渐变的名称。 |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype) { get; set; } | 获取或设置渐变的类型。 |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移。 |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse) { get; set; } | 获取或设置一个值，该值指示此[`IGradientFillSettings`](../igradientfillsettings)是否为反向。 |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale) { get; set; } | 获取或设置比例。 |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移量。 |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse) { get; set; } | 获取或设置一个值，该值指示是否[`IGradientFillSettings`](../igradientfillsettings)是反向的。 |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale) { get; set; } | 获取或设置比例尺。 |
 | [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints) { get; set; } | 获取透明度点。 |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/verticaloffset) { get; set; } | 获取或设置垂直偏移量。 |
 
 ### 例子
 
-以下示例演示了渐变填充层支持和 IGradientFillSettings 编辑选项。
+以下示例演示了渐变填充图层支持和 IGradientFillSettings 编辑选项。
 
 ```csharp
 [C#]

@@ -3,7 +3,7 @@ title: IntRange
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс для представления последовательности элементов
 type: docs
-weight: 4890
+weight: 4940
 url: /ru/net/aspose.psd/intrange/
 ---
 ## IntRange class
@@ -18,9 +18,9 @@ public class IntRange
 
 | Имя | Описание |
 | --- | --- |
-| [IntRange](intrange#constructor_2)(int[]) | Инициализирует новый экземпляр класса[`IntRange`](../intrange). |
-| [IntRange](intrange#constructor)(int, int) | Инициализирует новый экземпляр класса[`IntRange`](../intrange). |
-| [IntRange](intrange#constructor_1)(int, int, int) | Инициализирует новый экземпляр класса[`IntRange`](../intrange). |
+| [IntRange](intrange#constructor_2)(int[]) | Инициализирует новый экземпляр[`IntRange`](../intrange) класс. |
+| [IntRange](intrange#constructor)(int, int) | Инициализирует новый экземпляр[`IntRange`](../intrange) класс. |
+| [IntRange](intrange#constructor_1)(int, int, int) | Инициализирует новый экземпляр[`IntRange`](../intrange) класс. |
 
 ## Характеристики
 
@@ -32,8 +32,8 @@ public class IntRange
 
 | Имя | Описание |
 | --- | --- |
-| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex)(int) | Возвращает один массив элементов из указанного индекса |
-| static [GetRange](../../aspose.psd/intrange/getrange)(int, int, int) | Получает диапазон числа элементов int, начиная с start |
+| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex)(int) | Возвращает один массив элементов из указанного index |
+| static [GetRange](../../aspose.psd/intrange/getrange)(int, int, int) | Получает диапазон количества элементов int, начиная с start |
 
 ### Смотрите также
 

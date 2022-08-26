@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает имя интеллектуального фильтра.
+description: Получает имя смартфильтра.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name/
 ---
 ## GaussianBlurSmartFilter.Name property
 
-Получает имя интеллектуального фильтра.
+Получает имя смарт-фильтра.
 
 ```csharp
 public override string Name { get; }

@@ -1,14 +1,14 @@
 ---
 title: ApplyToMask
 second_title: Справочник по Aspose.PSD для .NET API
-description: Применяет текущий фильтр к входнымLayeraspose.psd.fileformats.psd.layers/layerданным маски.
+description: Применяет текущий фильтр ко входуLayeraspose.psd.fileformats.psd.layers/layer данные маски.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/
 ---
 ## SmartFilter.ApplyToMask method
 
-Применяет текущий фильтр к входным[`Layer`](../../../aspose.psd.fileformats.psd.layers/layer)данным маски.
+Применяет текущий фильтр ко входу[`Layer`](../../../aspose.psd.fileformats.psd.layers/layer) данные маски.
 
 ```csharp
 public void ApplyToMask(Layer layerWithMask)

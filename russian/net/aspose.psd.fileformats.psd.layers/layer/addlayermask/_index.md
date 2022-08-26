@@ -22,7 +22,7 @@ public void AddLayerMask(LayerMaskData layerMask)
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Полнослойная маска еще не поддерживается для установки, пожалуйста, используйте LayerMaskDataShort |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Маска полного слоя пока не поддерживается для настройки, используйте LayerMaskDataShort |
 
 ### Смотрите также
 

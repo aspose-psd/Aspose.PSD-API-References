@@ -1,14 +1,14 @@
 ---
 title: Synthetic
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一个值该值指示此FontInformation是否是合成的
+description: 获取一个值该值指示这是否FontInformation是合成的
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/
 ---
 ## TextFontInfo.Synthetic property
 
-获取一个值，该值指示此FontInformation是否是合成的。
+获取一个值，该值指示这是否FontInformation是合成的。
 
 ```csharp
 public bool Synthetic { get; }
@@ -16,7 +16,7 @@ public bool Synthetic { get; }
 
 ### 适当的价值
 
-` true` 如果是合成的；否则，` false` 。
+`真的`如果是合成的；否则，`错误的` .
 
 ### 也可以看看
 

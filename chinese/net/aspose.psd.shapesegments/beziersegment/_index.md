@@ -3,7 +3,7 @@ title: BezierSegment
 second_title: Aspose.PSD for .NET API 参考
 description: 从一个点到下一个点并使用两个控制点的贝塞尔线段
 type: docs
-weight: 5320
+weight: 5370
 url: /zh/net/aspose.psd.shapesegments/beziersegment/
 ---
 ## BezierSegment class
@@ -18,13 +18,13 @@ public sealed class BezierSegment : LineSegment
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BezierSegment](beziersegment)(PointF, PointF, PointF, PointF) | 初始化[`BezierSegment`](../beziersegment)类的新实例。 |
+| [BezierSegment](beziersegment)(PointF, PointF, PointF, PointF) | 初始化[`BezierSegment`](../beziersegment)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint) { get; } | 获取结束点。 |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint) { get; } | 获取终点。 |
 | [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint) { get; } | 获取贝塞尔样条曲线的第一个控制点。 |
 | [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint) { get; } | 获取贝塞尔样条曲线的第二个控制点。 |
 | override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint) { get; } | 获取起点。 |

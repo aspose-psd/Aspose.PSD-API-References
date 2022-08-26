@@ -16,7 +16,7 @@ public short TransparencyIndex { get; set; }
 
 ### 适当的价值
 
-透明度颜色索引。
+透明度颜色指数。
 
 ### 也可以看看
 

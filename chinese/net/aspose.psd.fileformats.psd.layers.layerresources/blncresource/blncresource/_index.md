@@ -1,14 +1,14 @@
 ---
 title: BlncResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化BlncResourceaspose.psd.fileformats.psd.layers.layerresources/blncresource类的新实例
+description: 初始化BlncResourceaspose.psd.fileformats.psd.layers.layerresources/blncresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/blncresource/
 ---
 ## BlncResource constructor
 
-初始化[`BlncResource`](../../blncresource)类的新实例。
+初始化[`BlncResource`](../../blncresource)类.
 
 ```csharp
 public BlncResource()

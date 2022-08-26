@@ -1,14 +1,14 @@
 ---
 title: FrameworkException
 second_title: Aspose.PSD for .NET API 参考
-description: PSD 框架异常这个类是所有 Aspose.PSD 异常的核心类 引入以区分 Aspose.PSD 引擎抛出的异常和所有其他异常类型
+description: PSD 框架异常该类是所有Aspose.PSD异常的核心类 引入以区分Aspose.PSD引擎抛出的异常和所有其他异常类型
 type: docs
 weight: 480
 url: /zh/net/aspose.psd.coreexceptions/frameworkexception/
 ---
 ## FrameworkException class
 
-PSD 框架异常。这个类是所有 Aspose.PSD 异常的核心类。 引入以区分 Aspose.PSD 引擎抛出的异常和所有其他异常类型。
+PSD 框架异常。该类是所有Aspose.PSD异常的核心类。 引入以区分Aspose.PSD引擎抛出的异常和所有其他异常类型。
 
 ```csharp
 public class FrameworkException : Exception
@@ -18,8 +18,8 @@ public class FrameworkException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FrameworkException](frameworkexception#constructor)(string) | 初始化[`FrameworkException`](../frameworkexception)类的新实例。 |
-| [FrameworkException](frameworkexception#constructor_1)(string, Exception) | 初始化[`FrameworkException`](../frameworkexception)类的新实例。 |
+| [FrameworkException](frameworkexception#constructor)(string) | 初始化[`FrameworkException`](../frameworkexception)类. |
+| [FrameworkException](frameworkexception#constructor_1)(string, Exception) | 初始化[`FrameworkException`](../frameworkexception)类. |
 
 ### 也可以看看
 

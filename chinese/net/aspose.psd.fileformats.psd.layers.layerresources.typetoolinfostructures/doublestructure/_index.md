@@ -3,7 +3,7 @@ title: DoubleStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 双重结构
 type: docs
-weight: 3040
+weight: 3090
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/
 ---
 ## DoubleStructure class
@@ -18,7 +18,7 @@ public sealed class DoubleStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DoubleStructure](doublestructure)(ClassID) | 初始化[`DoubleStructure`](../doublestructure)类的新实例。 |
+| [DoubleStructure](doublestructure)(ClassID) | 初始化[`DoubleStructure`](../doublestructure)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public sealed class DoubleStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value) { get; set; } | 获取或设置双精度值。 |
 
 ## 方法

@@ -1,14 +1,14 @@
 ---
 title: FXidResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаFXidResourceaspose.psd.fileformats.psd.layers.layerresources/fxidresource.
+description: Инициализирует новый экземплярFXidResourceaspose.psd.fileformats.psd.layers.layerresources/fxidresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidresource/
 ---
 ## FXidResource constructor
 
-Инициализирует новый экземпляр класса[`FXidResource`](../../fxidresource).
+Инициализирует новый экземпляр[`FXidResource`](../../fxidresource) класс.
 
 ```csharp
 public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMasks)

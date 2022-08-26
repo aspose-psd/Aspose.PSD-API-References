@@ -1,14 +1,14 @@
 ---
 title: HasTransparentColor
 second_title: Aspose.PSD for .NET API 参考
-description: 获取图像是否具有透明色的值
+description: 获取一个表示图像是否具有透明色的值
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/rasterimage/hastransparentcolor/
 ---
 ## RasterImage.HasTransparentColor property
 
-获取图像是否具有透明色的值。
+获取一个表示图像是否具有透明色的值。
 
 ```csharp
 public virtual bool HasTransparentColor { get; set; }

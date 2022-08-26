@@ -1,14 +1,14 @@
 ---
 title: ToGdiPoints
 second_title: Aspose.PSD for .NET API 参考
-description: 将PointFaspose.psd/pointf数组转换为PointF数组
+description: 转换PointFaspose.psd/pointf数组到PointF数组.
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.extensions/pointextensions/togdipoints/
 ---
 ## PointExtensions.ToGdiPoints method
 
-将[`PointF`](../../../aspose.psd/pointf)数组转换为PointF数组。
+转换[`PointF`](../../../aspose.psd/pointf)数组到PointF数组.
 
 ```csharp
 public static PointF[] ToGdiPoints(PointF[] points)
@@ -16,11 +16,11 @@ public static PointF[] ToGdiPoints(PointF[] points)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | 要转换的[`PointF`](../../../aspose.psd/pointf)数组。 |
+| points | PointF[] | 这[`PointF`](../../../aspose.psd/pointf)要转换的数组。 |
 
 ### 返回值
 
-转换后的PointF数组。
+转换的PointF大批。
 
 ### 也可以看看
 

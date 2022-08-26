@@ -1,14 +1,14 @@
 ---
 title: FamilyName
 second_title: Aspose.PSD for .NET API 参考
-description: 获取字体家族名称
+description: 获取字体系列名称
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/
 ---
 ## TextFontInfo.FamilyName property
 
-获取字体家族名称
+获取字体系列名称
 
 ```csharp
 public string FamilyName { get; }
@@ -16,7 +16,7 @@ public string FamilyName { get; }
 
 ### 适当的价值
 
-字体家族名称
+字体系列名称
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: ArcShape
 second_title: Aspose.PSD for .NET API 参考
 description: 表示弧形
 type: docs
-weight: 5340
+weight: 5390
 url: /zh/net/aspose.psd.shapes/arcshape/
 ---
 ## ArcShape class
@@ -18,9 +18,9 @@ public sealed class ArcShape : PieShape, IOrderedShape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ArcShape](arcshape#constructor)() | 初始化[`ArcShape`](../arcshape)类的新实例。 |
-| [ArcShape](arcshape#constructor_1)(RectangleF, float, float) | 初始化[`ArcShape`](../arcshape)类的新实例。 |
-| [ArcShape](arcshape#constructor_2)(RectangleF, float, float, bool) | 初始化[`ArcShape`](../arcshape)类的新实例。 |
+| [ArcShape](arcshape#constructor)() | 初始化[`ArcShape`](../arcshape)类. |
+| [ArcShape](arcshape#constructor_1)(RectangleF, float, float) | 初始化[`ArcShape`](../arcshape)类. |
+| [ArcShape](arcshape#constructor_2)(RectangleF, float, float, bool) | 初始化[`ArcShape`](../arcshape)类. |
 
 ## 特性
 
@@ -29,14 +29,14 @@ public sealed class ArcShape : PieShape, IOrderedShape
 | override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds) { get; } | 获取对象的边界。 |
 | override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center) { get; } | 获取形状的中心。 |
 | [EndPoint](../../aspose.psd.shapes/arcshape/endpoint) { get; } | 获取结束形状点。 |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | 获取表示形状是否有段的值。 |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | 获取一个表示形状是否有段的值。 |
 | [IsClosed](../../aspose.psd.shapes/arcshape/isclosed) { get; set; } | 获取或设置一个指示有序形状是否闭合的值。处理封闭有序形状时，起点和终点没有意义。 |
 | [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | 获取左下角矩形点。 |
 | [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | 获取左上角矩形点。 |
 | [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | 获取矩形高度。 |
 | [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | 获取矩形宽度。 |
 | [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | 获取右下角矩形点。 |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上矩形点。 |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上角的矩形点。 |
 | override [Segments](../../aspose.psd.shapes/arcshape/segments) { get; } | 获取形状段。 |
 | [StartAngle](../../aspose.psd.shapes/pieshape/startangle) { get; set; } | 获取或设置起始角度。 |
 | [StartPoint](../../aspose.psd.shapes/arcshape/startpoint) { get; } | 获取起始形状点。 |
@@ -53,7 +53,7 @@ public sealed class ArcShape : PieShape, IOrderedShape
 
 ### 例子
 
-此示例创建一个新图像并在图像表面上使用图形和图形路径绘制各种形状
+此示例创建一个新 Image 并在 Image 表面上使用 Figures 和 GraphicsPath 绘制各种形状
 
 ```csharp
 [C#]

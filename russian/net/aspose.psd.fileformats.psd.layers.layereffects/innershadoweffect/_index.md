@@ -3,7 +3,7 @@ title: InnerShadowEffect
 second_title: Справочник по Aspose.PSD для .NET API
 description: Эффект слоя внутренней тени
 type: docs
-weight: 2100
+weight: 2140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
 ## InnerShadowEffect class
@@ -32,7 +32,7 @@ public class InnerShadowEffect : IShadowEffect
 
 ### Примеры
 
-В следующем коде показано, как изменить настройки эффекта слоя внутренней тени.
+Следующий код демонстрирует, как изменить настройки эффекта слоя внутренней тени.
 
 ```csharp
 [C#]

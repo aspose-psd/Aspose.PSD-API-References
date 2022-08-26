@@ -1,14 +1,14 @@
 ---
 title: Saturation
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает насыщенность.
+description: Получает или устанавливает насыщенность.
 type: docs
 weight: 890
 url: /ru/net/aspose.psd.exif/exifdata/saturation/
 ---
 ## ExifData.Saturation property
 
-Получает или задает насыщенность.
+Получает или устанавливает насыщенность.
 
 ```csharp
 public ExifSaturation Saturation { get; set; }

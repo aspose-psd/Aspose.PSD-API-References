@@ -37,7 +37,7 @@ public void RotateTransform(float angle, MatrixOrder order)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | angle | Single | Угол поворота. |
-| order | MatrixOrder | A[`MatrixOrder`](../../../aspose.psd/matrixorder)указывает, следует ли добавлять или добавлять в начале матрицу поворота. |
+| order | MatrixOrder | А[`MatrixOrder`](../../../aspose.psd/matrixorder) который указывает, следует ли добавлять или добавлять перед матрицей вращения. |
 
 ### Смотрите также
 

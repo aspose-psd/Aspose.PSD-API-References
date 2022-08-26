@@ -1,14 +1,14 @@
 ---
 title: FileFormatExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: СодержитFileFormat../aspose.psd/fileformatметоды расширения.
+description: СодержитFileFormat../aspose.psd/fileformat методы расширения.
 type: docs
 weight: 1080
 url: /ru/net/aspose.psd.extensions/fileformatextensions/
 ---
 ## FileFormatExtensions class
 
-Содержит[`FileFormat`](../../aspose.psd/fileformat)методы расширения.
+Содержит[`FileFormat`](../../aspose.psd/fileformat) методы расширения.
 
 ```csharp
 public static class FileFormatExtensions

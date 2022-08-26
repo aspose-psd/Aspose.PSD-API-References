@@ -17,11 +17,11 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | streamContainer | StreamContainer | 要保存到的流容器。 |
-| psdVersion | Int32 | PSD 版本。 |
+| psdVersion | Int32 | PSD版本。 |
 
 ### 例子
 
-下面的代码演示了对 PlLdResource 资源的支持。
+以下代码演示了对 PlLdResource 资源的支持。
 
 ```csharp
 [C#]

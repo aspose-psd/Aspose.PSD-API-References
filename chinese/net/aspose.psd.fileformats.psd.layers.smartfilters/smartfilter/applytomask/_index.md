@@ -1,14 +1,14 @@
 ---
 title: ApplyToMask
 second_title: Aspose.PSD for .NET API 参考
-description: 将当前过滤器应用到输入Layeraspose.psd.fileformats.psd.layers/layer蒙版数据
+description: 将当前过滤器应用于输入Layeraspose.psd.fileformats.psd.layers/layer掩码数据.
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/
 ---
 ## SmartFilter.ApplyToMask method
 
-将当前过滤器应用到输入[`Layer`](../../../aspose.psd.fileformats.psd.layers/layer)蒙版数据。
+将当前过滤器应用于输入[`Layer`](../../../aspose.psd.fileformats.psd.layers/layer)掩码数据.
 
 ```csharp
 public void ApplyToMask(Layer layerWithMask)
@@ -16,7 +16,7 @@ public void ApplyToMask(Layer layerWithMask)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| layerWithMask | Layer | 带有遮罩数据的层。 |
+| layerWithMask | Layer | 具有蒙版数据的图层。 |
 
 ### 也可以看看
 

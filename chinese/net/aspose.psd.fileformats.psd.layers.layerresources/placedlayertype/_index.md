@@ -3,7 +3,7 @@ title: PlacedLayerType
 second_title: Aspose.PSD for .NET API 参考
 description: 定义放置层 PlLd 资源的 PlacedLayerType 枚举
 type: docs
-weight: 2860
+weight: 2910
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
 ## PlacedLayerType enumeration
@@ -19,9 +19,9 @@ public enum PlacedLayerType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Unknown | `0` | 未知放置层类型 |
-| Vector | `1` | 矢量放置图层类型 |
+| Vector | `1` | 向量放置层类型 |
 | Raster | `2` | 栅格放置图层类型 |
-| ImageStack | `3` | 图像堆栈放置层类型 |
+| ImageStack | `3` | 图像栈放置层类型 |
 
 ### 例子
 

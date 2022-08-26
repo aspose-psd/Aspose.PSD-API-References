@@ -1,14 +1,14 @@
 ---
 title: Rgb32Bpp
 second_title: Aspose.PSD for .NET API 参考
-description: 获取定义为每像素 32 位的PixelDataFormataspose.psd/pixeldataformat其中 alpha红色绿色和蓝色各 8 位
+description: 获取PixelDataFormataspose.psd/pixeldataformat定义为每像素 32 位alpha红色绿色和蓝色各 8 位
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/pixeldataformat/rgb32bpp/
 ---
 ## PixelDataFormat.Rgb32Bpp property
 
-获取定义为每像素 32 位的[`PixelDataFormat`](../../pixeldataformat)，其中 alpha、红色、绿色和蓝色各 8 位。
+获取[`PixelDataFormat`](../../pixeldataformat)定义为每像素 32 位，alpha、红色、绿色和蓝色各 8 位。
 
 ```csharp
 public static PixelDataFormat Rgb32Bpp { get; }
@@ -16,7 +16,7 @@ public static PixelDataFormat Rgb32Bpp { get; }
 
 ### 适当的价值
 
-[`PixelDataFormat`](../../pixeldataformat)定义为每像素 32 位，每个 alpha 8 位、 红色、 绿色和蓝色。
+的[`PixelDataFormat`](../../pixeldataformat)定义为每像素 32 位，alpha、红色、绿色和蓝色各 8 位。
 
 ### 也可以看看
 

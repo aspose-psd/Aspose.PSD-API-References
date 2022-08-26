@@ -1,14 +1,14 @@
 ---
 title: BlncResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаBlncResourceaspose.psd.fileformats.psd.layers.layerresources/blncresource.
+description: Инициализирует новый экземплярBlncResourceaspose.psd.fileformats.psd.layers.layerresources/blncresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/blncresource/
 ---
 ## BlncResource constructor
 
-Инициализирует новый экземпляр класса[`BlncResource`](../../blncresource).
+Инициализирует новый экземпляр[`BlncResource`](../../blncresource) класс.
 
 ```csharp
 public BlncResource()

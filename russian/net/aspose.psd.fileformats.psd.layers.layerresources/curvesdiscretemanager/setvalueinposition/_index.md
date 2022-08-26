@@ -1,14 +1,14 @@
 ---
 title: SetValueInPosition
 second_title: Справочник по Aspose.PSD для .NET API
-description: Устанавливает значение в позиции.
+description: Устанавливает значение в position.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/
 ---
 ## CurvesDiscreteManager.SetValueInPosition method
 
-Устанавливает значение в позиции.
+Устанавливает значение в position.
 
 ```csharp
 public void SetValueInPosition(int channelIndex, byte position, byte value)

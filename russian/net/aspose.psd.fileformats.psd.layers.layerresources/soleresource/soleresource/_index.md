@@ -1,14 +1,14 @@
 ---
 title: SoLeResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаSoLeResourceaspose.psd.fileformats.psd.layers.layerresources/soleresource.
+description: Инициализирует новый экземплярSoLeResourceaspose.psd.fileformats.psd.layers.layerresources/soleresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/soleresource/
 ---
 ## SoLeResource(Guid, bool, bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SoLeResource`](../../soleresource).
+Инициализирует новый экземпляр[`SoLeResource`](../../soleresource) класс.
 
 ```csharp
 public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
@@ -17,8 +17,8 @@ public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | uniqueId | Guid | Уникальный идентификатор размещенных данных слоя[`PlLdResource`](../../plldresource). |
-| isCustom | Boolean | , если установлено значение` true` [выбирается пользователем]. |
-| hasCompInfo | Boolean | , если установлено значение` true` [имеет информацию о комп.]. |
+| isCustom | Boolean | если установлено`истинный` [это обычай]. |
+| hasCompInfo | Boolean | если установлено`истинный` [имеет информацию о комп.]. |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 
 ## SoLeResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`SoLeResource`](../../soleresource).
+Инициализирует новый экземпляр[`SoLeResource`](../../soleresource) класс.
 
 ```csharp
 public SoLeResource()

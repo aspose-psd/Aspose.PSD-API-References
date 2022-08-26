@@ -16,7 +16,7 @@ public short MidtonesYellowBlueBalance { get; set; }
 
 ### 适当的价值
 
-中间调黄色蓝色平衡。
+中间调黄色蓝色平衡.
 
 ### 例外
 

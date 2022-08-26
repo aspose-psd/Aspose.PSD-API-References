@@ -1,14 +1,14 @@
 ---
 title: SoLdResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化SoLdResourceaspose.psd.fileformats.psd.layers.layerresources/soldresource类的新实例 需要设置 Items 属性或调用 InitializeItems 来获取准备好的实例 这个构造函数是为SmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator 和单元测试使用而设计的 使用SmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator创建 SoLdResource 类
+description: 初始化SoLdResourceaspose.psd.fileformats.psd.layers.layerresources/soldresource class. 需要设置 Items 属性或调用 InitializeItems 以获取准备好的实例 此构造函数是为使用而设计的SmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator 并在单元测试中使用 使用SmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator用于创建 SoLdResource 类
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-初始化[`SoLdResource`](../../soldresource)类的新实例。 需要设置 Items 属性或调用 InitializeItems() 来获取准备好的实例。 这个构造函数是为[`SmartResourceCreator`](../../smartresourcecreator) 和单元测试使用而设计的。 使用[`SmartResourceCreator`](../../smartresourcecreator)创建 SoLdResource 类。
+初始化[`SoLdResource`](../../soldresource) class. 需要设置 Items 属性或调用 InitializeItems() 以获取准备好的实例。 此构造函数是为使用而设计的[`SmartResourceCreator`](../../smartresourcecreator) 并在单元测试中使用。 使用[`SmartResourceCreator`](../../smartresourcecreator)用于创建 SoLdResource 类。
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
@@ -16,9 +16,9 @@ public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| uniqueId | Guid | 智能对象层数据的唯一标识符[`SoLdResource`](../../soldresource)。 |
-| isCustom | Boolean | 如果设置为` true` [是自定义的]。 |
-| hasCompInfo | Boolean | 如果设置为` true` [有comp信息]。 |
+| uniqueId | Guid | 智能对象层数据的唯一标识符[`SoLdResource`](../../soldresource). |
+| isCustom | Boolean | 如果设置为`真的` [是习惯的]。 |
+| hasCompInfo | Boolean | 如果设置为`真的` [有补偿信息]。 |
 
 ### 例子
 
@@ -341,7 +341,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ## SoLdResource() {#constructor}
 
-初始化[`SoLdResource`](../../soldresource)类的新实例。 这个默认构造函数是为SoLdResourceLoader使用而设计的。 使用[`SmartResourceCreator`](../../smartresourcecreator)创建 SoLdResource 类。
+初始化[`SoLdResource`](../../soldresource)class. 这个默认构造函数是为使用而设计的SoLdResourceLoader. 使用[`SmartResourceCreator`](../../smartresourcecreator)用于创建 SoLdResource 类。
 
 ```csharp
 public SoLdResource()

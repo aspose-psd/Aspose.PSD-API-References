@@ -1,14 +1,14 @@
 ---
 title: ToGdiColorMap
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПреобразуетColorMapaspose.psd/colormapвColorMap.
+description: ПреобразуетColorMapaspose.psd/colormap кColorMap .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/colormapextensions/togdicolormap/
 ---
 ## ColorMapExtensions.ToGdiColorMap method
 
-Преобразует[`ColorMap`](../../../aspose.psd/colormap)вColorMap.
+Преобразует[`ColorMap`](../../../aspose.psd/colormap) кColorMap .
 
 ```csharp
 public static ColorMap ToGdiColorMap(ColorMap colorMap)
@@ -20,7 +20,7 @@ public static ColorMap ToGdiColorMap(ColorMap colorMap)
 
 ### Возвращаемое значение
 
-ПреобразованныйColorMap.
+ПреобразованныйColorMap .
 
 ### Смотрите также
 

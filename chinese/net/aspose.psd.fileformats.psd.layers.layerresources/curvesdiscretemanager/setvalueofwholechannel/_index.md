@@ -16,14 +16,14 @@ public void SetValueOfWholeChannel(int channelIndex, byte[] channelValue)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
+| channelIndex | Int32 | 频道索引。 |
 | channelValue | Byte[] | 通道值。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | 要设置整个通道值，您应该使用长度为 256 的字节数组 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | 要设置整个通道值，您应该使用长度 = 256 的字节数组 |
 
 ### 也可以看看
 

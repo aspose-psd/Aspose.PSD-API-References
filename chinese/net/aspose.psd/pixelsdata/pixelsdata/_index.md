@@ -1,14 +1,14 @@
 ---
 title: PixelsData
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PixelsDataaspose.psd/pixelsdata类的新实例
+description: 初始化PixelsDataaspose.psd/pixelsdata类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/pixelsdata/pixelsdata/
 ---
 ## PixelsData() {#constructor}
 
-初始化[`PixelsData`](../../pixelsdata)类的新实例。
+初始化[`PixelsData`](../../pixelsdata)类.
 
 ```csharp
 public PixelsData()
@@ -16,7 +16,7 @@ public PixelsData()
 
 ### 例子
 
-以下代码向您展示如何创建具有自定义渲染器的自定义智能过滤器。
+以下代码向您展示了如何创建具有自定义渲染器的自定义智能过滤器。
 
 ```csharp
 [C#]
@@ -110,7 +110,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 ## PixelsData(int[], Rectangle) {#constructor_1}
 
-初始化[`PixelsData`](../../pixelsdata)类的新实例。
+初始化[`PixelsData`](../../pixelsdata)类.
 
 ```csharp
 public PixelsData(int[] pixels, Rectangle bounds)
@@ -123,7 +123,7 @@ public PixelsData(int[] pixels, Rectangle bounds)
 
 ### 例子
 
-以下代码向您展示如何创建具有自定义渲染器的自定义智能过滤器。
+以下代码向您展示了如何创建具有自定义渲染器的自定义智能过滤器。
 
 ```csharp
 [C#]

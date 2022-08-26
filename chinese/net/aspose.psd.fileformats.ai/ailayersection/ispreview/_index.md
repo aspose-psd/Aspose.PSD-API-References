@@ -1,14 +1,14 @@
 ---
 title: IsPreview
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示该图层是否为预览 以彩色而不是轮廓显示图层中包含的图稿
+description: 获取或设置一个值指示此图层是否为预览 以彩色而不是轮廓显示图层中包含的图稿
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
 ## AiLayerSection.IsPreview property
 
-获取或设置一个值，指示该图层是否为预览。 以彩色而不是轮廓显示图层中包含的图稿。
+获取或设置一个值，指示此图层是否为预览。 以彩色而不是轮廓显示图层中包含的图稿。
 
 ```csharp
 public bool IsPreview { get; set; }
@@ -16,11 +16,11 @@ public bool IsPreview { get; set; }
 
 ### 适当的价值
 
-` true` 如果此图层是预览层；否则，` false` 。
+`真的`如果该层是预览层；否则，`错误的` .
 
 ### 例子
 
-以下示例演示了对 AI 格式文件中层的支持。
+以下示例演示了对 AI 格式文件中的层的支持。
 
 ```csharp
 [C#]

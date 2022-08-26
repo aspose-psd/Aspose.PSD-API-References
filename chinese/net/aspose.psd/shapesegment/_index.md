@@ -3,7 +3,7 @@ title: ShapeSegment
 second_title: Aspose.PSD for .NET API 参考
 description: 表示一个形状段线段是连接两点的直线或曲线
 type: docs
-weight: 5310
+weight: 5360
 url: /zh/net/aspose.psd/shapesegment/
 ---
 ## ShapeSegment class
@@ -18,7 +18,7 @@ public abstract class ShapeSegment
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint) { get; } | 获取结束点。 |
+| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint) { get; } | 获取终点。 |
 | abstract [StartPoint](../../aspose.psd/shapesegment/startpoint) { get; } | 获取起点。 |
 
 ### 也可以看看

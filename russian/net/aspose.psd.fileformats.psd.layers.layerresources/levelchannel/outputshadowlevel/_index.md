@@ -22,7 +22,7 @@ public short OutputShadowLevel { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Output Shadow Level может быть установлен только в диапазоне от 0 до " + (this.OutputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Уровень выходной тени можно задать только в диапазоне от 0 до "+ (this.OutputHighlightLevel - 2) |
 
 ### Смотрите также
 

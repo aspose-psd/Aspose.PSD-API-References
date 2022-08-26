@@ -1,14 +1,14 @@
 ---
 title: SpaceBefore
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает предшествующий пробел.
+description: Получает или устанавливает пробел перед.
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/
 ---
 ## ITextParagraph.SpaceBefore property
 
-Получает или устанавливает предшествующий пробел.
+Получает или устанавливает пробел перед.
 
 ```csharp
 public double SpaceBefore { get; set; }
@@ -20,7 +20,7 @@ public double SpaceBefore { get; set; }
 
 ### Примеры
 
-В следующем примере кода демонстрируется редактирование частей текста и стиля их текста.
+В следующем примере кода показано редактирование текстовых частей и стиля их текста.
 
 ```csharp
 [C#]

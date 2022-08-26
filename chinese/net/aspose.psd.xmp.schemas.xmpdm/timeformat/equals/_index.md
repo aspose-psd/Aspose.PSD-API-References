@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.PSD for .NET API 参考
-description: 表示当前对象是否等于另一个相同类型的对象
+description: 表示当前对象是否等于另一个同类型的对象
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/timeformat/equals/
 ---
 ## Equals(TimeFormat) {#equals}
 
-表示当前对象是否等于另一个相同类型的对象。
+表示当前对象是否等于另一个同类型的对象。
 
 ```csharp
 public bool Equals(TimeFormat other)
@@ -20,7 +20,7 @@ public bool Equals(TimeFormat other)
 
 ### 返回值
 
-如果当前对象等于*other*参数则为真；否则为假。
+如果当前对象等于*other*范围;否则为假。
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public bool Equals(TimeFormat other)
 
 ## Equals(object) {#equals_1}
 
-确定指定的Object是否等于此实例。
+判断是否指定Object 等于这个实例。
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | Object与此实例进行比较。 |
+| obj | Object | 这Object与此实例进行比较。 |
 
 ### 返回值
 
-` true` 如果指定的Object等于这个实例；否则，` false` 。
+`真的`如果指定Object等于这个实例；否则，`错误的` .
 
 ### 也可以看看
 

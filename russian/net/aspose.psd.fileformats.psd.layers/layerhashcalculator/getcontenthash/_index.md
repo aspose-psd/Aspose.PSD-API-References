@@ -1,14 +1,14 @@
 ---
 title: GetContentHash
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает хэш содержимого.
+description: Получает хэш контента.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/
 ---
 ## LayerHashCalculator.GetContentHash method
 
-Получает хэш содержимого.
+Получает хэш контента.
 
 ```csharp
 public int GetContentHash()
@@ -16,7 +16,7 @@ public int GetContentHash()
 
 ### Возвращаемое значение
 
-Хэш значимых параметров слоев. Этот хэш различен для всех типов слоев
+Хэш значимых параметров слоев. Этот хеш отличается для всех типов слоев
 
 ### Примеры
 
@@ -31,7 +31,7 @@ public int GetContentHash()
 /// <typeparam name="T"></typeparam>
 /// <param name="image">Изображение.</param>
 /// <param name="name">Имя.</param>
-/// <возвращает></возвращает>
+/// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
     var layers = image.Layers;

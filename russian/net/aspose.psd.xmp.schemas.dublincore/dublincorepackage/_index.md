@@ -3,7 +3,7 @@ title: DublinCorePackage
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет схему дублированного ядра.
 type: docs
-weight: 5660
+weight: 5710
 url: /ru/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/
 ---
 ## DublinCorePackage class
@@ -24,7 +24,7 @@ public sealed class DublinCorePackage : XmpPackage
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObjectс указанным ключом. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObject с указанным ключом. |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | Получает ключи в пакете XMP. |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | Получает префикс. |
@@ -36,8 +36,8 @@ public sealed class DublinCorePackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue)(string, string) | Добавляет строковое свойство. |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | Очищает этот экземпляр. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ ключ. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который перебирает коллекцию. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ key. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | Преобразует значение XMP в представление XML. |
 | virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | Удалить значение с указанным ключом. |
 | [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor#setauthor)(string) | Добавляет автора. |
@@ -55,7 +55,7 @@ public sealed class DublinCorePackage : XmpPackage
 
 ### Примечания
 
-Для получения дополнительной информации см.:http://dublincore.org/documents/usageguide/elements.shtml .
+Для получения дополнительной информации см.: http://dublincore.org/documents/usageguide/elements.shtml.
 
 ### Смотрите также
 

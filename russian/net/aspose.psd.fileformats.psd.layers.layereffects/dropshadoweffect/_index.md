@@ -3,7 +3,7 @@ title: DropShadowEffect
 second_title: Справочник по Aspose.PSD для .NET API
 description: Эффект слоя тени
 type: docs
-weight: 2060
+weight: 2100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
 ## DropShadowEffect class
@@ -33,7 +33,7 @@ public class DropShadowEffect : IShadowEffect
 
 ### Примеры
 
-Следующий код демонстрирует поддержку PsdImage .GlobalAngle, чтобы изменить глобальное значение угла.
+Следующий код демонстрирует поддержку свойства PsdImage.GlobalAngle для изменения глобального значения угла.
 
 ```csharp
 [C#]

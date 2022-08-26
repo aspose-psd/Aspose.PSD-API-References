@@ -1,14 +1,14 @@
 ---
 title: GradientColorPoint
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаGradientColorPointaspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint.
+description: Инициализирует новый экземплярGradientColorPointaspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/gradientcolorpoint/
 ---
 ## GradientColorPoint() {#constructor}
 
-Инициализирует новый экземпляр класса[`GradientColorPoint`](../../gradientcolorpoint).
+Инициализирует новый экземпляр[`GradientColorPoint`](../../gradientcolorpoint) класс.
 
 ```csharp
 public GradientColorPoint()
@@ -24,7 +24,7 @@ public GradientColorPoint()
 
 ## GradientColorPoint(Color, int, int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`GradientColorPoint`](../../gradientcolorpoint).
+Инициализирует новый экземпляр[`GradientColorPoint`](../../gradientcolorpoint) класс.
 
 ```csharp
 public GradientColorPoint(Color color, int location, int medianPointLocation)
@@ -32,13 +32,13 @@ public GradientColorPoint(Color color, int location, int medianPointLocation)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | Точка цвета на градиенте. |
-| location | Int32 | Местоположение точки цвета на градиенте. |
-| medianPointLocation | Int32 | Местоположение средней точки градиента. |
+| color | Color | Цветовая точка на градиенте. |
+| location | Int32 | Расположение цветовой точки на градиенте. |
+| medianPointLocation | Int32 | Расположение средней точки градиента. |
 
 ### Примеры
 
-В следующем примере показано, как создать/отредактировать объект эффекта GradientOverlayEffect в слое.
+В следующем примере показано, как создать или отредактировать объект эффекта GradientOverlayEffect в слое.
 
 ```csharp
 [C#]

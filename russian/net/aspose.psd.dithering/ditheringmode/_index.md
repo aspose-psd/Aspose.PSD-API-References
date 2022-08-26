@@ -24,7 +24,7 @@ public class DitheringMode
 
 | Имя | Описание |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits) { get; set; } | Фактор дискретизации изображения с размытием. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits) { get; set; } | Коэффициент дискретизации сглаженного изображения. |
 | [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette) { get; set; } | Пользовательская палитра для сглаживания. |
 | [Method](../../aspose.psd.dithering/ditheringmode/method) { get; set; } | Выбор алгоритма дизеринга. |
 

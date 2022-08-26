@@ -20,7 +20,7 @@ public double GetRangeCoefficient(double hue)
 
 ### 返回值
 
-饱和度范围系数。
+饱和范围系数。
 
 ### 也可以看看
 

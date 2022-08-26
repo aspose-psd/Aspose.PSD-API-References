@@ -1,7 +1,7 @@
 ---
 title: OriginalCompId
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает исходный идентификатор текущей выбранной композиции для дочернего документа который будет равен -1 если ничего не выбрано. Это свойство получает исходный идентификатор выбора композиции слоя для смарт-объектов. Композиции слоев в смарт-объектахhttps//helpx.adobe.com/photoshop/using/layer-comps.html
+description: Получает исходный идентификатор текущей выбранной композиции для дочернего документа который будет равен 1 если ничего не выбрано. Это свойство получает исходный идентификатор выбора композиции слоя для смартобъектов. Композиции слоев в смартобъектахhttps//helpx.adobe.com/photoshop/using/layercomps.html
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/

@@ -3,7 +3,7 @@ title: LayerGroupInformationResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Информационный ресурс группы слоев
 type: docs
-weight: 3670
+weight: 3720
 url: /ru/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/
 ---
 ## LayerGroupInformationResource class
@@ -28,9 +28,9 @@ public sealed class LayerGroupInformationResource : ResourceBlock
 | [Groups](../../aspose.psd.fileformats.psd.resources/layergroupinformationresource/groups) { get; set; } | Получает или задает группы. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/layergroupinformationresource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 
 ## Методы
 

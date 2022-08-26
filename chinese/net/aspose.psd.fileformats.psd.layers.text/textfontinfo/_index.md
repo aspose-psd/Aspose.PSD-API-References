@@ -3,7 +3,7 @@ title: TextFontInfo
 second_title: Aspose.PSD for .NET API 参考
 description: 表示字体信息这个类不能被继承
 type: docs
-weight: 3440
+weight: 3490
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 ---
 ## TextFontInfo class
@@ -18,12 +18,12 @@ public sealed class TextFontInfo
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname) { get; } | 获取字体家族名称 |
+| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname) { get; } | 获取字体系列名称 |
 | [FontType](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype) { get; } | 获取字体的类型。 |
 | [PostScriptName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname) { get; } | 获取 PostScript 名称 |
 | [Script](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/script) { get; } | 获取脚本。 |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style) { get; } | 获取从子家族名称 |
-| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic) { get; } | 获取一个值，该值指示此FontInformation是否是合成的。 |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style) { get; } | 获取从子系列名称解析的字体样式 |
+| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic) { get; } | 获取一个值，该值指示这是否FontInformation是合成的。 |
 
 ### 也可以看看
 

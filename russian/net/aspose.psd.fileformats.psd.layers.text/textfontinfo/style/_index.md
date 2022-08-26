@@ -1,14 +1,14 @@
 ---
 title: Style
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает стиль шрифта проанализированный из имени подсемейства
+description: Получает стиль шрифта проанализированный из подсемейства name
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/style/
 ---
 ## TextFontInfo.Style property
 
-Получает стиль шрифта, проанализированный из имени подсемейства
+Получает стиль шрифта, проанализированный из подсемейства name
 
 ```csharp
 public FontStyle Style { get; }
@@ -16,7 +16,7 @@ public FontStyle Style { get; }
 
 ### Стоимость имущества
 
-Стиль шрифта, извлеченный из имени подсемейства
+Стиль шрифта, полученный из подсемейства name
 
 ### Примеры
 

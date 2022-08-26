@@ -16,7 +16,7 @@ public string DocumentProcessColors { get; set; }
 
 ### 适当的价值
 
-文档印刷色。
+文档处理颜色。
 
 ### 也可以看看
 

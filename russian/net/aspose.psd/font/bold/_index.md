@@ -1,14 +1,14 @@
 ---
 title: Bold
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее является ли шрифтFontaspose.psd/fontполужирным.
+description: Получает значение указывающее является ли этоFontaspose.psd/font выделен жирным шрифтом.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/font/bold/
 ---
 ## Font.Bold property
 
-Получает значение, указывающее, является ли шрифт[`Font`](../../font)полужирным.
+Получает значение, указывающее, является ли это[`Font`](../../font) выделен жирным шрифтом.
 
 ```csharp
 public bool Bold { get; }
@@ -16,7 +16,7 @@ public bool Bold { get; }
 
 ### Стоимость имущества
 
-Истинно, если это[`Font`](../../font)полужирное; в противном случае ложно.
+Правда, если это[`Font`](../../font) смелый; в противном случае ложно.
 
 ### Смотрите также
 

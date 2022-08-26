@@ -3,7 +3,7 @@ title: BlendRange
 second_title: Справочник по Aspose.PSD для .NET API
 description: Диапазон смешивания.
 type: docs
-weight: 1830
+weight: 1870
 url: /ru/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
 ## BlendRange class

@@ -1,14 +1,14 @@
 ---
 title: FXidTypeToolKey
 second_title: Справочник по Aspose.PSD для .NET API
-description: Тип информационного ключа инструмента FXid.
+description: Информационный ключ типа инструмента FXid.
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/
 ---
 ## FXidResource.FXidTypeToolKey field
 
-Тип информационного ключа инструмента FXid.
+Информационный ключ типа инструмента FXid.
 
 ```csharp
 public const int FXidTypeToolKey;

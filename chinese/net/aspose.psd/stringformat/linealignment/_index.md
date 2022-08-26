@@ -16,7 +16,7 @@ public StringAlignment LineAlignment { get; set; }
 
 ### 适当的价值
 
-[`StringAlignment`](../../stringalignment)枚举，表示行对齐。
+一个[`StringAlignment`](../../stringalignment)表示行对齐的枚举。
 
 ### 也可以看看
 

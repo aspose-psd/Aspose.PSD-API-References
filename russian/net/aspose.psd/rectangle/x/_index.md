@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает координату x левого верхнего угла этойRectangleaspose.psd/rectangleструктуры.
+description: Получает или задает xкоординату левого верхнего угла этогоRectangleaspose.psd/rectangleструктура.
 type: docs
 weight: 200
 url: /ru/net/aspose.psd/rectangle/x/
 ---
 ## Rectangle.X property
 
-Получает или задает координату x левого верхнего угла этой[`Rectangle`](../../rectangle)структуры.
+Получает или задает x-координату левого верхнего угла этого[`Rectangle`](../../rectangle)структура.
 
 ```csharp
 public int X { get; set; }
@@ -16,7 +16,7 @@ public int X { get; set; }
 
 ### Стоимость имущества
 
-Координата x верхнего левого угла этого[`Rectangle`](../../rectangle)структура.
+Координата x верхнего левого угла этого[`Rectangle`](../../rectangle) структура.
 
 ### Смотрите также
 

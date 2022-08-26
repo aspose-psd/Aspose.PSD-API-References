@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает версию инструмента для ввода текста.
+description: Получает или задает версию инструмента типа.
 type: docs
 weight: 160
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/version/
 ---
 ## TypeToolInfo6Resource.Version property
 
-Получает или задает версию инструмента для ввода текста.
+Получает или задает версию инструмента типа.
 
 ```csharp
 public short Version { get; set; }
@@ -16,7 +16,7 @@ public short Version { get; set; }
 
 ### Стоимость имущества
 
-Версия инструмента ввода.
+Версия инструмента типа.
 
 ### Смотрите также
 

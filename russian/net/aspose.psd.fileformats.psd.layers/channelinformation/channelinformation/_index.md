@@ -1,14 +1,14 @@
 ---
 title: ChannelInformation
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаChannelInformationaspose.psd.fileformats.psd.layers/channelinformation.
+description: Инициализирует новый экземплярChannelInformationaspose.psd.fileformats.psd.layers/channelinformation класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/channelinformation/channelinformation/
 ---
 ## ChannelInformation constructor
 
-Инициализирует новый экземпляр класса[`ChannelInformation`](../../channelinformation).
+Инициализирует новый экземпляр[`ChannelInformation`](../../channelinformation) класс.
 
 ```csharp
 public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int psdVersion)

@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает размер ядра.
+description: Получает или устанавливает размер ядра.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/
 ---
 ## BilateralSmoothingFilterOptions.Size property
 
-Получает или задает размер ядра.
+Получает или устанавливает размер ядра.
 
 ```csharp
 public int Size { get; set; }

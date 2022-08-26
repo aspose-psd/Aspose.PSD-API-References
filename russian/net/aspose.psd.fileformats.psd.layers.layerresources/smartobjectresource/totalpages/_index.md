@@ -1,7 +1,7 @@
 ---
 title: TotalPages
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает общее количество страниц данных слоя смарт-объекта в PSD-файле.
+description: Получает или задает общее количество страниц данных слоя смартобъекта в PSDфайле.
 type: docs
 weight: 220
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/

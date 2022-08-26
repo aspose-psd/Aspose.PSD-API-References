@@ -1,14 +1,14 @@
 ---
 title: ClassStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаClassStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure.
+description: Инициализирует новый экземплярClassStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classstructure/
 ---
 ## ClassStructure constructor
 
-Инициализирует новый экземпляр класса[`ClassStructure`](../../classstructure).
+Инициализирует новый экземпляр[`ClassStructure`](../../classstructure) класс.
 
 ```csharp
 public ClassStructure(ClassID keyName, ClassID classID, int structureKey)

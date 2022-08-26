@@ -3,7 +3,7 @@ title: ImageExportersRegistry
 second_title: Aspose.PSD for .NET API 参考
 description: 表示图像导出器注册表
 type: docs
-weight: 4510
+weight: 4560
 url: /zh/net/aspose.psd/imageexportersregistry/
 ---
 ## ImageExportersRegistry class
@@ -28,8 +28,8 @@ public static class ImageExportersRegistry
 | static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter)(Image, ImageOptionsBase) | 创建第一个找到的适合指定保存选项和图像的导出器。 |
 | static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor)(Image, ImageOptionsBase) | 获取第一个找到的适用于指定保存选项和图像的支持描述符。 |
 | static [Register](../../aspose.psd/imageexportersregistry/register)(IImageExporterDescriptor) | 注册指定的图像导出器描述符。 |
-| static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter)(IImageExporterDescriptor) | 注册导出器。 |
-| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter)(IImageExporterDescriptor) | 注销导出器。 |
+| static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter)(IImageExporterDescriptor) | 注册出口商。 |
+| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter)(IImageExporterDescriptor) | 注销出口商。 |
 
 ### 也可以看看
 

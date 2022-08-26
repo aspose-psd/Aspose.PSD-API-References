@@ -1,14 +1,14 @@
 ---
 title: IsMaskExtendWithWhite
 second_title: Aspose.PSD for .NET API 参考
-description: 获取智能过滤器白色状态的掩码
+description: 获取带有智能过滤器白色状态的掩码
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/
 ---
 ## SmartFilters.IsMaskExtendWithWhite property
 
-获取智能过滤器白色状态的掩码。
+获取带有智能过滤器白色状态的掩码。
 
 ```csharp
 public bool IsMaskExtendWithWhite { get; }

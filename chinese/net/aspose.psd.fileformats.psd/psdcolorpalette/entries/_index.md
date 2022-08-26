@@ -1,14 +1,14 @@
 ---
 title: Entries
 second_title: Aspose.PSD for .NET API 参考
-description: 获取Coloraspose.psd/color结构的数组
+description: 获取一个数组Coloraspose.psd/color结构.
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd/psdcolorpalette/entries/
 ---
 ## PsdColorPalette.Entries property
 
-获取[`Color`](../../../aspose.psd/color)结构的数组。
+获取一个数组[`Color`](../../../aspose.psd/color)结构.
 
 ```csharp
 public Color[] Entries { get; }
@@ -16,7 +16,7 @@ public Color[] Entries { get; }
 
 ### 返回值
 
-[`Color`](../../../aspose.psd/color)构成这个[`ColorPalette`](../../../aspose.psd/colorpalette) 结构的数组.
+的数组[`Color`](../../../aspose.psd/color)构成这个的结构[`ColorPalette`](../../../aspose.psd/colorpalette) .
 
 ### 适当的价值
 

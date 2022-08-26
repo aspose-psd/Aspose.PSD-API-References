@@ -3,7 +3,7 @@ title: Save
 second_title: Справочник по Aspose.PSD для .NET API
 description: Сохраняет указанный контейнер потока.
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/
 ---
 ## ShmdResource.Save method

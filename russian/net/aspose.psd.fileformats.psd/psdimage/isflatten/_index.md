@@ -1,14 +1,14 @@
 ---
 title: IsFlatten
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее сведено ли psd-изображение.
+description: Получает значение указывающее сведено ли изображение PSD.
 type: docs
 weight: 190
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/isflatten/
 ---
 ## PsdImage.IsFlatten property
 
-Получает значение, указывающее, сведено ли psd-изображение.
+Получает значение, указывающее, сведено ли изображение PSD.
 
 ```csharp
 public bool IsFlatten { get; }
@@ -16,7 +16,7 @@ public bool IsFlatten { get; }
 
 ### Стоимость имущества
 
-` true` если этот экземпляр сглажен; в противном случае` false` .
+`истинный` если этот экземпляр плоский; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

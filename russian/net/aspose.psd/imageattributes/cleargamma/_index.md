@@ -1,7 +1,7 @@
 ---
 title: ClearGamma
 second_title: Справочник по Aspose.PSD для .NET API
-description: Отключает гамма-коррекцию для категории по умолчанию.
+description: Отключает гаммакоррекцию для категории по умолчанию.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/imageattributes/cleargamma/
@@ -32,7 +32,7 @@ public void ClearGamma(ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype)который указывает категорию, для которой гамма коррекция отключена. |
+| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype) который указывает категорию, для которой гамма-коррекция отключена. |
 
 ### Смотрите также
 

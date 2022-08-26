@@ -3,7 +3,7 @@ title: FillLayerResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Базовый класс для ресурсов слоя заливки
 type: docs
-weight: 2410
+weight: 2450
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/
 ---
 ## FillLayerResource class
@@ -28,7 +28,7 @@ public abstract class FillLayerResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ### Смотрите также
 

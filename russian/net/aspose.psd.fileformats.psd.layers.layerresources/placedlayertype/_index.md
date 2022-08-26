@@ -3,7 +3,7 @@ title: PlacedLayerType
 second_title: Справочник по Aspose.PSD для .NET API
 description: Определяет перечисление PlacedLayerType для размещенного ресурса PlLd слоя.
 type: docs
-weight: 2860
+weight: 2910
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
 ## PlacedLayerType enumeration
@@ -19,9 +19,9 @@ public enum PlacedLayerType
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | Unknown | `0` | Неизвестный тип размещенного слоя |
-| Vector | `1` | Тип векторного размещенного слоя |
-| Raster | `2` | Тип растрового размещенного слоя |
-| ImageStack | `3` | Тип слоя стека изображений |
+| Vector | `1` | Тип размещенного векторного слоя |
+| Raster | `2` | Тип растрового слоя |
+| ImageStack | `3` | В стеке изображений размещен тип слоя |
 
 ### Примеры
 

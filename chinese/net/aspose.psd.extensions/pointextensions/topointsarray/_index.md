@@ -1,14 +1,14 @@
 ---
 title: ToPointsArray
 second_title: Aspose.PSD for .NET API 参考
-description: 将Pointaspose.psd/point数组转换为PointFaspose.psd/pointf数组
+description: 转换Pointaspose.psd/point数组到PointFaspose.psd/pointf数组.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
 ## PointExtensions.ToPointsArray method
 
-将[`Point`](../../../aspose.psd/point)数组转换为[`PointF`](../../../aspose.psd/pointf)数组。
+转换[`Point`](../../../aspose.psd/point)数组到[`PointF`](../../../aspose.psd/pointf)数组.
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
@@ -16,11 +16,11 @@ public static PointF[] ToPointsArray(Point[] points)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| points | Point[] | 要转换的[`Point`](../../../aspose.psd/point)数组。 |
+| points | Point[] | 这[`Point`](../../../aspose.psd/point)要转换的数组。 |
 
 ### 返回值
 
-转换后的[`PointF`](../../../aspose.psd/pointf)数组。
+转换的[`PointF`](../../../aspose.psd/pointf)大批。
 
 ### 也可以看看
 

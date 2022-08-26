@@ -1,14 +1,14 @@
 ---
 title: Kerning
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置字距
+description: 获取或设置字距调整
 type: docs
 weight: 170
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/
 ---
 ## ITextStyle.Kerning property
 
-获取或设置字距。
+获取或设置字距调整。
 
 ```csharp
 public int Kerning { get; set; }
@@ -16,11 +16,11 @@ public int Kerning { get; set; }
 
 ### 适当的价值
 
-两个字符之间的字距。
+两个字符之间的字距调整。
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

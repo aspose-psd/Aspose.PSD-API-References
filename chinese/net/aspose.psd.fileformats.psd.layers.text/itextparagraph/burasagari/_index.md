@@ -1,14 +1,14 @@
 ---
 title: Burasagari
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此ITextParagraphaspose.psd.fileformats.psd.layers.text/itextparagraph是否为 burasagiri
+description: 获取或设置一个值该值指示是否ITextParagraphaspose.psd.fileformats.psd.layers.text/itextparagraph是burasagiri.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/
 ---
 ## ITextParagraph.Burasagari property
 
-获取或设置一个值，该值指示此[`ITextParagraph`](../../itextparagraph)是否为 burasagiri。
+获取或设置一个值，该值指示是否[`ITextParagraph`](../../itextparagraph)是burasagiri.
 
 ```csharp
 public bool Burasagari { get; set; }
@@ -16,11 +16,11 @@ public bool Burasagari { get; set; }
 
 ### 适当的价值
 
-` 真` 如果 burasagiri;否则，` false` 。
+`真的`如果 burasagiri;否则，`错误的` .
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

@@ -3,7 +3,7 @@ title: PsdVersion
 second_title: Aspose.PSD for .NET API 参考
 description: 文件格式版本
 type: docs
-weight: 3490
+weight: 3540
 url: /zh/net/aspose.psd.fileformats.psd/psdversion/
 ---
 ## PsdVersion enumeration
@@ -18,7 +18,7 @@ public enum PsdVersion : byte
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Psd | `1` | 默认的 PSD 版本。 |
+| Psd | `1` | 默认的PSD版本。 |
 | Psb | `2` | PSB 版本。 |
 
 ### 例子

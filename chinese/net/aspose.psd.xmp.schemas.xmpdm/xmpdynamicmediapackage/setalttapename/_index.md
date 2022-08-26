@@ -1,14 +1,14 @@
 ---
 title: SetAltTapeName
 second_title: Aspose.PSD for .NET API 参考
-description: 设置备用磁带名称
+description: 设置替代磁带名称
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttapename/
 ---
 ## XmpDynamicMediaPackage.SetAltTapeName method
 
-设置备用磁带名称。
+设置替代磁带名称。
 
 ```csharp
 public void SetAltTapeName(string altTapeName)

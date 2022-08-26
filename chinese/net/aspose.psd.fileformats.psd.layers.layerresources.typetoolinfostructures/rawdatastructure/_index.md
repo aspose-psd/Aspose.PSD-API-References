@@ -3,7 +3,7 @@ title: RawDataStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 原始数据结构
 type: docs
-weight: 3130
+weight: 3180
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/
 ---
 ## RawDataStructure class
@@ -18,7 +18,7 @@ public sealed class RawDataStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RawDataStructure](rawdatastructure)(ClassID) | 初始化[`RawDataStructure`](../rawdatastructure)类的新实例。 |
+| [RawDataStructure](rawdatastructure)(ClassID) | 初始化[`RawDataStructure`](../rawdatastructure)类. |
 
 ## 特性
 
@@ -27,7 +27,7 @@ public sealed class RawDataStructure : OSTypeStructure
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data) { get; set; } | 获取或设置数据。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/key) { get; } | 获取密钥。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 
 ## 方法
 

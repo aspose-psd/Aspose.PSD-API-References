@@ -1,14 +1,14 @@
 ---
 title: PenExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: 包含Pen../aspose.psd/pen和Pen的扩展方法
+description: 包含扩展方法Pen../aspose.psd/pen和Pen .
 type: docs
 weight: 1140
 url: /zh/net/aspose.psd.extensions/penextensions/
 ---
 ## PenExtensions class
 
-包含[`Pen`](../../aspose.psd/pen)和Pen的扩展方法。
+包含扩展方法[`Pen`](../../aspose.psd/pen)和Pen .
 
 ```csharp
 public static class PenExtensions
@@ -18,7 +18,7 @@ public static class PenExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen)(Pen) | 将[`Pen`](../../aspose.psd/pen)转换为Pen。 |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen)(Pen) | 转换[`Pen`](../../aspose.psd/pen)到Pen . |
 
 ### 也可以看看
 

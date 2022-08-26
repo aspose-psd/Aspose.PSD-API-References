@@ -1,14 +1,14 @@
 ---
 title: LayerIds
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置图层 ID
+description: 获取或设置图层ID
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids/
 ---
 ## LayerSelectionIdsResource.LayerIds property
 
-获取或设置图层 ID。
+获取或设置图层ID。
 
 ```csharp
 public int[] LayerIds { get; set; }
@@ -16,7 +16,7 @@ public int[] LayerIds { get; set; }
 
 ### 适当的价值
 
-图层 ID。
+层 ids.
 
 ### 也可以看看
 

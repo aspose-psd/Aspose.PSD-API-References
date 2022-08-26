@@ -18,8 +18,8 @@ public enum AiFormatVersion
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| PsAdobe20 | `0` | PS-Adobe-2.0 标头 |
-| PsAdobe30 | `1` | PS-Adobe-3.0 标头 |
+| PsAdobe20 | `0` | PS-Adobe-2.0 Header |
+| PsAdobe30 | `1` | PS-Adobe-3.0 Header |
 | Pdf14 | `2` | PDF-1.4 标头 |
 | Pdf15 | `3` | PDF-1.5 标头 |
 

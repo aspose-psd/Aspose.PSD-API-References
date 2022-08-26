@@ -16,7 +16,7 @@ public DateTime LayerCreationDateTime { get; set; }
 
 ### Стоимость имущества
 
-Дата и время создания слоя. Если данных о создании DateTime нет, то возвращает Unix Time first epoch
+Дата и время создания слоя. Если нет данных о создании DateTime, то возвращает Unix Time first epoch
 
 ### Смотрите также
 

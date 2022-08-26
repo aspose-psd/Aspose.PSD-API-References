@@ -1,14 +1,14 @@
 ---
 title: Lr32Resource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化Lr32Resourceaspose.psd.fileformats.psd.layers.layerresources/lr32resource类的新实例
+description: 初始化Lr32Resourceaspose.psd.fileformats.psd.layers.layerresources/lr32resource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/lr32resource/
 ---
 ## Lr32Resource constructor
 
-初始化[`Lr32Resource`](../../lr32resource)类的新实例。
+初始化[`Lr32Resource`](../../lr32resource)类.
 
 ```csharp
 public Lr32Resource(int length)

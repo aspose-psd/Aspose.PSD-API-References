@@ -1,14 +1,14 @@
 ---
 title: Load
 second_title: Справочник по Aspose.PSD для .NET API
-description: ЗагружаетOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure.
+description: ЗагружаетOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/
 ---
 ## IOSTypeStructureLoader.Load method
 
-Загружает[`OSTypeStructure`](../../ostypestructure).
+Загружает[`OSTypeStructure`](../../ostypestructure) .
 
 ```csharp
 public OSTypeStructure Load(StreamContainer streamContainer)
@@ -20,7 +20,7 @@ public OSTypeStructure Load(StreamContainer streamContainer)
 
 ### Возвращаемое значение
 
-Загруженный ресурс[`OSTypeStructure`](../../ostypestructure).
+Загруженный[`OSTypeStructure`](../../ostypestructure) ресурс.
 
 ### Смотрите также
 

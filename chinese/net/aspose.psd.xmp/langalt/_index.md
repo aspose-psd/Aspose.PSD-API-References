@@ -3,7 +3,7 @@ title: LangAlt
 second_title: Aspose.PSD for .NET API 参考
 description: 代表 XMP 语言替代
 type: docs
-weight: 5640
+weight: 5690
 url: /zh/net/aspose.psd.xmp/langalt/
 ---
 ## LangAlt class
@@ -18,8 +18,8 @@ public class LangAlt : IXmlValue
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LangAlt](langalt#constructor)() | 初始化[`LangAlt`](../langalt)类的新实例。 |
-| [LangAlt](langalt#constructor_1)(string) | 初始化[`LangAlt`](../langalt)类的新实例。 |
+| [LangAlt](langalt#constructor)() | 初始化[`LangAlt`](../langalt)类. |
+| [LangAlt](langalt#constructor_1)(string) | 初始化[`LangAlt`](../langalt)类. |
 
 ## 方法
 
@@ -27,7 +27,7 @@ public class LangAlt : IXmlValue
 | --- | --- |
 | virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage)(string, string) | 添加语言。 |
 | [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue)() | 将 XMP 值转换为 XML 表示形式。 |
-| override [ToString](../../aspose.psd.xmp/langalt/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.xmp/langalt/tostring)() | 返回一个String代表这个实例。 |
 
 ### 也可以看看
 

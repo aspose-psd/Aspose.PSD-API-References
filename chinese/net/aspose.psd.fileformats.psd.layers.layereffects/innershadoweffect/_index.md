@@ -3,7 +3,7 @@ title: InnerShadowEffect
 second_title: Aspose.PSD for .NET API 参考
 description: 内阴影层效果
 type: docs
-weight: 2100
+weight: 2140
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
 ## InnerShadowEffect class
@@ -21,18 +21,18 @@ public class InnerShadowEffect : IShadowEffect
 | [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle) { get; set; } | 以度为单位获取或设置角度。 |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode) { get; set; } | 获取或设置混合模式。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color) { get; set; } | 获取或设置颜色。 |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance) { get; set; } | 获取或设置距离（以像素为单位）。 |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance) { get; set; } | 获取或设置距离，以像素为单位。 |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype) { get; } | 获取一种效果 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible) { get; set; } | 获取或设置一个值，指示此实例是否可见。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible) { get; set; } | 获取或设置一个指示此实例是否可见的值。 |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise) { get; set; } | 获取或设置噪声。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity) { get; set; } | 获取或设置不透明度。 |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size) { get; set; } | 获取或设置以像素为单位的模糊值。 |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread) { get; set; } | 以百分比形式获取或设置传播（扼流圈）。 |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread) { get; set; } | 获取或设置点差（阻塞）为百分比。 |
 | [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight) { get; set; } | 获取或设置一个值，指示是否[在所有图层效果中使用此角度]。 |
 
 ### 例子
 
-以下代码演示如何更改内阴影层效果的设置。
+以下代码演示了如何更改内阴影层效果的设置。
 
 ```csharp
 [C#]

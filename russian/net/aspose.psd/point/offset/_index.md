@@ -1,14 +1,14 @@
 ---
 title: Offset
 second_title: Справочник по Aspose.PSD для .NET API
-description: Переводит этоPointaspose.psd/pointуказаннымPointaspose.psd/point.
+description: Переводит этоPointaspose.psd/point указаннымPointaspose.psd/point .
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/point/offset/
 ---
 ## Offset(Point) {#offset}
 
-Переводит это[`Point`](../../point)указанным[`Point`](../../point).
+Переводит это[`Point`](../../point) указанным[`Point`](../../point) .
 
 ```csharp
 public void Offset(Point point)
@@ -16,7 +16,7 @@ public void Offset(Point point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point)используется для смещения этого[`Point`](../../point). |
+| point | Point | [`Point`](../../point) используется для компенсации этого[`Point`](../../point). |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public void Offset(Point point)
 
 ## Offset(int, int) {#offset_1}
 
-Переводит это[`Point`](../../point)на указанную сумму.
+Переводит это[`Point`](../../point) на указанную сумму.
 
 ```csharp
 public void Offset(int dx, int dy)

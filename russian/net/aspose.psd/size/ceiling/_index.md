@@ -1,14 +1,14 @@
 ---
 title: Ceiling
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует указанную структуруSizeFaspose.psd/sizefвSizeaspose.psd/sizeокруглением значений структурыSizeaspose.psd/sizeдо следующего большего целочисленного значения.
+description: Преобразует указанныйSizeFaspose.psd/sizef структура кSizeaspose.psd/size структуры путем округления значенийSizeaspose.psd/size структура к следующему более высокому целочисленному значению.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/size/ceiling/
 ---
 ## Size.Ceiling method
 
-Преобразует указанную структуру[`SizeF`](../../sizef)в[`Size`](../../size)округлением значений структуры[`Size`](../../size)до следующего большего целочисленного значения.
+Преобразует указанный[`SizeF`](../../sizef) структура к[`Size`](../../size) структуры путем округления значений[`Size`](../../size) структура к следующему более высокому целочисленному значению.
 
 ```csharp
 public static Size Ceiling(SizeF size)
@@ -16,11 +16,11 @@ public static Size Ceiling(SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | SizeF | Преобразуемая структура[`SizeF`](../../sizef). |
+| size | SizeF | [`SizeF`](../../sizef) структура для преобразования. |
 
 ### Возвращаемое значение
 
-Структура[`Size`](../../size), в которую преобразуется этот метод.
+[`Size`](../../size) структура, в которую преобразуется этот метод.
 
 ### Смотрите также
 

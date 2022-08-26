@@ -1,14 +1,14 @@
 ---
 title: FormatFlags
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个包含格式信息的StringFormatFlagsaspose.psd/stringformatflags枚举
+description: 获取或设置一个StringFormatFlagsaspose.psd/stringformatflags包含格式信息的枚举
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/stringformat/formatflags/
 ---
 ## StringFormat.FormatFlags property
 
-获取或设置一个包含格式信息的[`StringFormatFlags`](../../stringformatflags)枚举。
+获取或设置一个[`StringFormatFlags`](../../stringformatflags)包含格式信息的枚举。
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
@@ -16,7 +16,7 @@ public StringFormatFlags FormatFlags { get; set; }
 
 ### 适当的价值
 
-包含格式信息的[`StringFormatFlags`](../../stringformatflags)枚举。
+一个[`StringFormatFlags`](../../stringformatflags)包含格式信息的枚举。
 
 ### 也可以看看
 

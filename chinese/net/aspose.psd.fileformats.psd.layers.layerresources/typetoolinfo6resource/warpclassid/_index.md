@@ -16,7 +16,7 @@ public ClassID WarpClassID { get; set; }
 
 ### 适当的价值
 
-类 ID。
+类 ID.
 
 ### 也可以看看
 

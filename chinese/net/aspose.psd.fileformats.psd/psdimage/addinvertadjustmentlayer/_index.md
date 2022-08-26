@@ -1,14 +1,14 @@
 ---
 title: AddInvertAdjustmentLayer
 second_title: Aspose.PSD for .NET API 参考
-description: 添加反转调整图层
+description: 添加一个反转调整层
 type: docs
 weight: 360
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
 ## PsdImage.AddInvertAdjustmentLayer method
 
-添加反转调整图层。
+添加一个反转调整层。
 
 ```csharp
 public InvertAdjustmentLayer AddInvertAdjustmentLayer()

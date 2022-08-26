@@ -1,14 +1,14 @@
 ---
 title: GdFlResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 GdFlResource 此资源包含有关剪辑元素混合的信息
+description: 类 GdFlResource. 此资源包含有关剪辑元素混合的信息
 type: docs
-weight: 2440
+weight: 2480
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
 ## GdFlResource class
 
-类 GdFlResource。 此资源包含有关剪辑元素混合的信息。
+类 GdFlResource. 此资源包含有关剪辑元素混合的信息。
 
 ```csharp
 public class GdFlResource : FillLayerResource
@@ -28,16 +28,16 @@ public class GdFlResource : FillLayerResource
 | [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle) { get; set; } | 获取或设置角度。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color) { get; set; } | 获取 RGB 的颜色。 |
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints) { get; set; } | 获取色点。 |
-| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither) { get; set; } | 获取或设置一个值，该值指示此[`GdFlResource`](../gdflresource)是否抖动。 |
+| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither) { get; set; } | 获取或设置一个值，该值指示是否[`GdFlResource`](../gdflresource)是抖动. |
 | [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval) { get; set; } | 获取或设置梯度间隔。 |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname) { get; set; } | 获取或设置渐变的名称。 |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype) { get; set; } | 获取或设置渐变的类型。 |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset) { get; set; } | 获取或设置水平偏移。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset) { get; set; } | 获取或设置水平偏移量。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse) { get; set; } | 获取或设置一个值，该值指示此[`GdFlResource`](../gdflresource)是否为反向。 |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale) { get; set; } | 获取或设置比例。 |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse) { get; set; } | 获取或设置一个值，该值指示是否[`GdFlResource`](../gdflresource)是反向的。 |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale) { get; set; } | 获取或设置比例尺。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature) { get; } | 获取图层资源签名。 |
 | [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints) { get; set; } | 获取透明度点。 |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset) { get; set; } | 获取或设置垂直偏移量。 |
@@ -47,7 +47,7 @@ public class GdFlResource : FillLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
@@ -57,7 +57,7 @@ public class GdFlResource : FillLayerResource
 
 ### 例子
 
-下面的例子演示了对 GdFlResource 资源加载的支持。
+以下示例演示了对 GdFlResource 资源加载的支持。
 
 ```csharp
 [C#]

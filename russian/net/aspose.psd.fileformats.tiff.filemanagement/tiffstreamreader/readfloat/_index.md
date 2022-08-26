@@ -1,14 +1,14 @@
 ---
 title: ReadFloat
 second_title: Справочник по Aspose.PSD для .NET API
-description: Прочитать одно значение с плавающей запятой из потока.
+description: Считать одно значение с плавающей запятой из потока.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloat/
 ---
 ## TiffStreamReader.ReadFloat method
 
-Прочитать одно значение с плавающей запятой из потока.
+Считать одно значение с плавающей запятой из потока.
 
 ```csharp
 public float ReadFloat(long position)

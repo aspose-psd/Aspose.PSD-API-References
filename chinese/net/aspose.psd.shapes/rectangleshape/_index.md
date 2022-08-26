@@ -3,7 +3,7 @@ title: RectangleShape
 second_title: Aspose.PSD for .NET API 参考
 description: 表示一个矩形
 type: docs
-weight: 5410
+weight: 5460
 url: /zh/net/aspose.psd.shapes/rectangleshape/
 ---
 ## RectangleShape class
@@ -18,8 +18,8 @@ public class RectangleShape : RectangleProjectedShape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [RectangleShape](rectangleshape#constructor)() | 初始化[`RectangleShape`](../rectangleshape)类的新实例。 |
-| [RectangleShape](rectangleshape#constructor_1)(RectangleF) | 初始化[`RectangleShape`](../rectangleshape)类的新实例。 |
+| [RectangleShape](rectangleshape#constructor)() | 初始化[`RectangleShape`](../rectangleshape)类. |
+| [RectangleShape](rectangleshape#constructor_1)(RectangleF) | 初始化[`RectangleShape`](../rectangleshape)类. |
 
 ## 特性
 
@@ -27,13 +27,13 @@ public class RectangleShape : RectangleProjectedShape
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds) { get; } | 获取对象的边界。 |
 | override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center) { get; } | 获取形状的中心。 |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | 获取表示形状是否有段的值。 |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | 获取一个表示形状是否有段的值。 |
 | [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | 获取左下角矩形点。 |
 | [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | 获取左上角矩形点。 |
 | [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | 获取矩形高度。 |
 | [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | 获取矩形宽度。 |
 | [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | 获取右下角矩形点。 |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上矩形点。 |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上角的矩形点。 |
 | override [Segments](../../aspose.psd.shapes/rectangleshape/segments) { get; } | 获取形状段。 |
 
 ## 方法
@@ -46,7 +46,7 @@ public class RectangleShape : RectangleProjectedShape
 
 ### 例子
 
-此示例创建一个新图像并在图像表面上使用图形和图形路径绘制各种形状
+此示例创建一个新 Image 并在 Image 表面上使用 Figures 和 GraphicsPath 绘制各种形状
 
 ```csharp
 [C#]

@@ -12,11 +12,11 @@ url: /zh/net/aspose.psd.fileformats.ai/
 
 | 班级 | 描述 |
 | --- | --- |
-| [AiDataSection](./aidatasection) | Ai 格式数据段 |
+| [AiDataSection](./aidatasection) | Ai格式数据段 |
 | [AiFinalizeSection](./aifinalizesection) | Ai 格式 Finalize Section |
 | [AiHeader](./aiheader) | Adobe illustrator 文件头 |
 | [AiImage](./aiimage) | Adobe Illustrator (AI) 图片 |
-| [AiLayerSection](./ailayersection) | Ai 格式图层部分 |
+| [AiLayerSection](./ailayersection) | Ai 格式图层 Section |
 | [AiRasterImageSection](./airasterimagesection) | AI 光栅图像部分 |
 | [AiSection](./aisection) | Ai 格式基础部分 |
 | [AiSetupSection](./aisetupsection) | Ai 格式设置部分 |

@@ -1,14 +1,14 @@
 ---
 title: DrawEllipse
 second_title: Справочник по Aspose.PSD для .NET API
-description: Рисует эллипс определенный границейRectangleFaspose.psd/rectanglef.
+description: Рисует эллипс определяемый ограничивающейRectangleFaspose.psd/rectanglef .
 type: docs
 weight: 210
 url: /ru/net/aspose.psd/graphics/drawellipse/
 ---
 ## DrawEllipse(Pen, RectangleF) {#drawellipse_1}
 
-Рисует эллипс, определенный границей[`RectangleF`](../../rectanglef).
+Рисует эллипс, определяемый ограничивающей[`RectangleF`](../../rectanglef) .
 
 ```csharp
 public void DrawEllipse(Pen pen, RectangleF rect)
@@ -16,14 +16,14 @@ public void DrawEllipse(Pen pen, RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль эллипс. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)структура, определяющая границы эллипса. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль эллипса. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef) структура, определяющая границы эллипса. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 
@@ -45,9 +45,9 @@ public void DrawEllipse(Pen pen, float x, float y, float width, float height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль эллипс. |
-| x | Single | Координата x верхнего левого угла ограничивающего прямоугольника, определяющего эллипс. |
-| y | Single | Y-координата левого верхнего угла ограничивающего прямоугольника, определяющего эллипс. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль эллипса. |
+| x | Single | Координата x левого верхнего угла ограничивающего прямоугольника, определяющего эллипс. |
+| y | Single | Координата Y верхнего левого угла ограничивающего прямоугольника, определяющего эллипс. |
 | width | Single | Ширина ограничивающего прямоугольника, определяющего эллипс. |
 | height | Single | Высота ограничивающего прямоугольника, определяющего эллипс. |
 
@@ -55,7 +55,7 @@ public void DrawEllipse(Pen pen, float x, float y, float width, float height)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 
@@ -68,7 +68,7 @@ public void DrawEllipse(Pen pen, float x, float y, float width, float height)
 
 ## DrawEllipse(Pen, Rectangle) {#drawellipse}
 
-Рисует эллипс, заданный ограничивающей[`Rectangle`](../../rectangle)структурой.
+Рисует эллипс, заданный ограничивающей[`Rectangle`](../../rectangle)структура.
 
 ```csharp
 public void DrawEllipse(Pen pen, Rectangle rect)
@@ -76,14 +76,14 @@ public void DrawEllipse(Pen pen, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль эллипс. |
-| rect | Rectangle | [`Rectangle`](../../rectangle)структура, определяющая границы эллипса. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль эллипса. |
+| rect | Rectangle | [`Rectangle`](../../rectangle) структура, определяющая границы эллипса. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 
@@ -105,9 +105,9 @@ public void DrawEllipse(Pen pen, int x, int y, int width, int height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль эллипс. |
-| x | Int32 | Координата x верхнего левого угла ограничивающего прямоугольника, определяющего эллипс. |
-| y | Int32 | Y-координата левого верхнего угла ограничивающего прямоугольника, определяющего эллипс. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль эллипса. |
+| x | Int32 | Координата x левого верхнего угла ограничивающего прямоугольника, определяющего эллипс. |
+| y | Int32 | Координата Y верхнего левого угла ограничивающего прямоугольника, определяющего эллипс. |
 | width | Int32 | Ширина ограничивающего прямоугольника, определяющего эллипс. |
 | height | Int32 | Высота ограничивающего прямоугольника, определяющего эллипс. |
 
@@ -115,7 +115,7 @@ public void DrawEllipse(Pen pen, int x, int y, int width, int height)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 

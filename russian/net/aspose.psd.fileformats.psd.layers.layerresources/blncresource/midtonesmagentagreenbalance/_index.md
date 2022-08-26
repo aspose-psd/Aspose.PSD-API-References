@@ -1,14 +1,14 @@
 ---
 title: MidtonesMagentaGreenBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает баланс зеленого пурпурного полутона.
+description: Получает или задает средний баланс пурпурнозеленого полутона.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/
 ---
 ## BlncResource.MidtonesMagentaGreenBalance property
 
-Получает или задает баланс зеленого пурпурного полутона.
+Получает или задает средний баланс пурпурно-зеленого полутона.
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }

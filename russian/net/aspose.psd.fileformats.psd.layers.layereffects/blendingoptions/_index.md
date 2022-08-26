@@ -1,14 +1,14 @@
 ---
 title: BlendingOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: BlendingOptions. Это оболочка для Lfx2Resource которая предоставляет API для эффектов слоя
+description: Параметры наложения. Это оболочка для Lfx2Resource которая предоставляет API для слоя Effects
 type: docs
-weight: 2040
+weight: 2080
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
 ## BlendingOptions class
 
-BlendingOptions. Это оболочка для Lfx2Resource, которая предоставляет API для эффектов слоя
+Параметры наложения. Это оболочка для Lfx2Resource, которая предоставляет API для слоя Effects
 
 ```csharp
 public class BlendingOptions
@@ -29,12 +29,12 @@ public class BlendingOptions
 | [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay)() | Добавляет наложение градиента. |
 | [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow)() | Добавляет эффект внутренней тени. |
 | [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow)() | Добавляет эффект внешнего свечения. |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay)() | Добавляет наложение Pattern. |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay)() | Добавляет наложение шаблона. |
 | [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke)(FillType) | Добавляет эффект обводки. |
 
 ### Примеры
 
-В следующем коде показано, как изменить настройки эффекта внутренней тени.
+Следующий код демонстрирует, как изменить настройки эффекта слоя внутренней тени.
 
 ```csharp
 [C#]

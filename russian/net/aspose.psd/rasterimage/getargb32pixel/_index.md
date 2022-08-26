@@ -1,14 +1,14 @@
 ---
 title: GetArgb32Pixel
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает 32-битный пиксель изображения ARGB.
+description: Получает изображение 32битного пикселя ARGB.
 type: docs
 weight: 270
 url: /ru/net/aspose.psd/rasterimage/getargb32pixel/
 ---
 ## RasterImage.GetArgb32Pixel method
 
-Получает 32-битный пиксель изображения ARGB.
+Получает изображение 32-битного пикселя ARGB.
 
 ```csharp
 public int GetArgb32Pixel(int x, int y)
@@ -17,7 +17,7 @@ public int GetArgb32Pixel(int x, int y)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | x | Int32 | Местоположение пикселя x. |
-| y | Int32 | Местоположение пикселя y. |
+| y | Int32 | Расположение пикселя по оси y. |
 
 ### Возвращаемое значение
 

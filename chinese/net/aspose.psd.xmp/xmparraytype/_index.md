@@ -1,14 +1,14 @@
 ---
 title: XmpArrayType
 second_title: Aspose.PSD for .NET API 参考
-description: 表示XmpArray./xmparray中的数组类型
+description: 表示数组类型在XmpArray./xmparray .
 type: docs
-weight: 6110
+weight: 6160
 url: /zh/net/aspose.psd.xmp/xmparraytype/
 ---
 ## XmpArrayType enumeration
 
-表示[`XmpArray`](../xmparray)中的数组类型。
+表示数组类型在[`XmpArray`](../xmparray) .
 
 ```csharp
 public enum XmpArrayType
@@ -20,7 +20,7 @@ public enum XmpArrayType
 | --- | --- | --- |
 | UNORDERED | `0` | 无序数组。 |
 | ORDERED | `1` | 有序数组。 |
-| ALTERNATIVE | `2` | 备用数组。 |
+| ALTERNATIVE | `2` | 替代数组。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Hanging
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此ITextParagraphaspose.psd.fileformats.psd.layers.text/itextparagraph是否挂起
+description: 获取或设置一个值该值指示是否ITextParagraphaspose.psd.fileformats.psd.layers.text/itextparagraph正在挂起
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/
 ---
 ## ITextParagraph.Hanging property
 
-获取或设置一个值，该值指示此[`ITextParagraph`](../../itextparagraph)是否挂起。
+获取或设置一个值，该值指示是否[`ITextParagraph`](../../itextparagraph)正在挂起。
 
 ```csharp
 public bool Hanging { get; set; }
@@ -16,11 +16,11 @@ public bool Hanging { get; set; }
 
 ### 适当的价值
 
-` true` 如果挂起；否则，` false` 。
+`真的`如果挂起；否则，`错误的` .
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

@@ -41,7 +41,7 @@ public static Color[] ToArgbIcc(int[] cmykPixels, Stream cmykIccStream, Stream r
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cmykPixels | Int32[] | Цвета CMYK представлены в виде 32-битных целых значений. |
+| cmykPixels | Int32[] | Цвета CMYK представлены в виде 32-битных целых чисел. |
 | cmykIccStream | Stream | Поток, содержащий профиль CMYK Icc. |
 | rgbIccStream | Stream | Поток, содержащий профиль RGB Icc. |
 
@@ -68,7 +68,7 @@ public static Color ToArgbIcc(int cmykPixel)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cmykPixel | Int32 | Цвет CMYK, представленный как 32-битное целочисленное значение. |
+| cmykPixel | Int32 | Цвет CMYK представлен в виде 32-битного целого числа. |
 
 ### Возвращаемое значение
 
@@ -85,7 +85,7 @@ public static Color ToArgbIcc(int cmykPixel)
 
 ## ToArgbIcc(int, Stream, Stream) {#toargbicc_1}
 
-Преобразование из цвета CMYK в цвет ARGB с использованием преобразования Icc с пользовательским профилем.
+Преобразование цвета CMYK в цвет ARGB с использованием преобразования Icc с пользовательским профилем.
 
 ```csharp
 public static Color ToArgbIcc(int cmykPixel, Stream cmykIccStream, Stream rgbIccStream)
@@ -93,7 +93,7 @@ public static Color ToArgbIcc(int cmykPixel, Stream cmykIccStream, Stream rgbIcc
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cmykPixel | Int32 | Цвет CMYK, представленный как 32-битное целочисленное значение. |
+| cmykPixel | Int32 | Цвет CMYK представлен в виде 32-битного целого числа. |
 | cmykIccStream | Stream | Поток, содержащий профиль CMYK Icc. |
 | rgbIccStream | Stream | Поток, содержащий профиль RGB Icc. |
 

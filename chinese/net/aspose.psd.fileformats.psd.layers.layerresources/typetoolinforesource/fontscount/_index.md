@@ -1,14 +1,14 @@
 ---
 title: FontsCount
 second_title: Aspose.PSD for .NET API 参考
-description: 获取字体计数
+description: 获取字体数量
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount/
 ---
 ## TypeToolInfoResource.FontsCount property
 
-获取字体计数。
+获取字体数量。
 
 ```csharp
 public short FontsCount { get; }

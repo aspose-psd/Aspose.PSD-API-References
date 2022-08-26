@@ -1,14 +1,14 @@
 ---
 title: AntiAliasPolicy
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает политику сглаживания для данных слоя смарт-объекта в изображении PSD.
+description: Получает или задает политику сглаживания данных слоя смартобъекта в изображении PSD.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/
 ---
 ## SmartObjectResource.AntiAliasPolicy property
 
-Получает или задает политику сглаживания для данных слоя смарт-объекта в изображении PSD.
+Получает или задает политику сглаживания данных слоя смарт-объекта в изображении PSD.
 
 ```csharp
 public override int AntiAliasPolicy { get; set; }
@@ -16,7 +16,7 @@ public override int AntiAliasPolicy { get; set; }
 
 ### Стоимость имущества
 
-Политика защиты от псевдонимов данных слоя смарт-объекта.
+Политика защиты от псевдонимов данных слоя смарт-объектов.
 
 ### Смотрите также
 

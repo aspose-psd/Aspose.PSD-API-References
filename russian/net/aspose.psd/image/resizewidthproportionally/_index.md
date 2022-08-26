@@ -1,14 +1,14 @@
 ---
 title: ResizeWidthProportionally
 second_title: Справочник по Aspose.PSD для .NET API
-description: Пропорционально изменяет ширину.
+description: Изменяет ширину пропорционально.
 type: docs
 weight: 210
 url: /ru/net/aspose.psd/image/resizewidthproportionally/
 ---
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-Пропорционально изменяет ширину.
+Изменяет ширину пропорционально.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
@@ -28,7 +28,7 @@ public void ResizeWidthProportionally(int newWidth)
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-Пропорционально изменяет ширину.
+Изменяет ширину пропорционально.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
@@ -50,7 +50,7 @@ public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeTyp
 
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-Пропорционально изменяет ширину.
+Изменяет ширину пропорционально.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)

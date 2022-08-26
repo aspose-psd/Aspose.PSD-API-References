@@ -1,14 +1,14 @@
 ---
 title: ImageResizeSettings
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс настроек изменения размера изображения
+description: Настройки изменения размера изображения class
 type: docs
-weight: 4880
+weight: 4930
 url: /ru/net/aspose.psd/imageresizesettings/
 ---
 ## ImageResizeSettings class
 
-Класс настроек изменения размера изображения
+Настройки изменения размера изображения class
 
 ```csharp
 public class ImageResizeSettings
@@ -26,7 +26,7 @@ public class ImageResizeSettings
 | --- | --- |
 | [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod) { get; set; } | Получает или задает метод сравнения цветов. |
 | [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod) { get; set; } | Получает или задает метод квантования цвета. |
-| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount) { get; set; } | Получает или устанавливает количество записей |
+| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount) { get; set; } | Получает или задает количество записей count |
 | [FilterType](../../aspose.psd/imageresizesettings/filtertype) { get; set; } | Получает или задает тип фильтра. |
 | [Mode](../../aspose.psd/imageresizesettings/mode) { get; set; } | Получает или задает режим интерполяции. |
 

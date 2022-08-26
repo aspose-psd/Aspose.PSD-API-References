@@ -18,7 +18,7 @@ public void Write(byte[] data, int offset, int dataLength)
 | --- | --- | --- |
 | data | Byte[] | 要写入的数据。 |
 | offset | Int32 | 数据偏移量。 |
-| dataLength | Int32 | 写入数据的长度。 |
+| dataLength | Int32 | 写入器的数据长度。 |
 
 ### 也可以看看
 

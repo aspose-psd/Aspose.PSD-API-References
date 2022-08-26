@@ -3,7 +3,7 @@ title: TypeToolKey
 second_title: Aspose.PSD for .NET API 参考
 description: 类型工具信息键
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/
 ---
 ## ShmdResource.TypeToolKey field

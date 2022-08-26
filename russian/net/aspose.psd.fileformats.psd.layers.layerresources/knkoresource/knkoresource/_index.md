@@ -1,14 +1,14 @@
 ---
 title: KnkoResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаKnkoResourceaspose.psd.fileformats.psd.layers.layerresources/knkoresource.
+description: Инициализирует новый экземплярKnkoResourceaspose.psd.fileformats.psd.layers.layerresources/knkoresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
 ## KnkoResource(bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`KnkoResource`](../../knkoresource).
+Инициализирует новый экземпляр[`KnkoResource`](../../knkoresource) класс.
 
 ```csharp
 public KnkoResource(bool knockout)
@@ -16,7 +16,7 @@ public KnkoResource(bool knockout)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| knockout | Boolean | если установлено` true` [смешивать элементы интерьера] . |
+| knockout | Boolean | если установлено`истинный` [смешать элементы интерьера]. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public KnkoResource(bool knockout)
 
 ## KnkoResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`KnkoResource`](../../knkoresource).
+Инициализирует новый экземпляр[`KnkoResource`](../../knkoresource) класс.
 
 ```csharp
 public KnkoResource()
@@ -44,7 +44,7 @@ public KnkoResource()
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`KnkoResource`](../../knkoresource). С пользовательским или неизвестным значением
+Инициализирует новый экземпляр[`KnkoResource`](../../knkoresource) class. С пользовательским или неизвестным значением
 
 ```csharp
 public KnkoResource(byte[] data)
@@ -58,7 +58,7 @@ public KnkoResource(byte[] data)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Недопустимое значение ресурса KKO |
+| ArgumentException | Недопустимое значение ресурса Kko |
 
 ### Смотрите также
 

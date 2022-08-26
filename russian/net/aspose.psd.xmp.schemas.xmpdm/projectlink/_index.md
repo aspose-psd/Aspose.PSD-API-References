@@ -3,7 +3,7 @@ title: ProjectLink
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет путь к проекту.
 type: docs
-weight: 5740
+weight: 5790
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
 ## ProjectLink class

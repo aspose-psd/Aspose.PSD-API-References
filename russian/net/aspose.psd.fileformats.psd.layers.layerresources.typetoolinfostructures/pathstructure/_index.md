@@ -3,7 +3,7 @@ title: PathStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Структура пути.
 type: docs
-weight: 3110
+weight: 3160
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/
 ---
 ## PathStructure class
@@ -18,7 +18,7 @@ public sealed class PathStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [PathStructure](pathstructure)(ClassID) | Инициализирует новый экземпляр класса[`PathStructure`](../pathstructure). |
+| [PathStructure](pathstructure)(ClassID) | Инициализирует новый экземпляр[`PathStructure`](../pathstructure) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public sealed class PathStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 | [Path](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path) { get; set; } | Получает или задает путь. |
 | [Prefix](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix) { get; set; } | Получает или задает префикс пути. |
 

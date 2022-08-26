@@ -3,7 +3,7 @@ title: PolygonShape
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет форму многоугольника.
 type: docs
-weight: 5390
+weight: 5440
 url: /ru/net/aspose.psd.shapes/polygonshape/
 ---
 ## PolygonShape class
@@ -18,9 +18,9 @@ public class PolygonShape : Shape, IOrderedShape
 
 | Имя | Описание |
 | --- | --- |
-| [PolygonShape](polygonshape#constructor)() | Инициализирует новый экземпляр класса[`PolygonShape`](../polygonshape). |
-| [PolygonShape](polygonshape#constructor_1)(PointF[]) | Инициализирует новый экземпляр класса[`PolygonShape`](../polygonshape). |
-| [PolygonShape](polygonshape#constructor_2)(PointF[], bool) | Инициализирует новый экземпляр класса[`PolygonShape`](../polygonshape). |
+| [PolygonShape](polygonshape#constructor)() | Инициализирует новый экземпляр[`PolygonShape`](../polygonshape) класс. |
+| [PolygonShape](polygonshape#constructor_1)(PointF[]) | Инициализирует новый экземпляр[`PolygonShape`](../polygonshape) класс. |
+| [PolygonShape](polygonshape#constructor_2)(PointF[], bool) | Инициализирует новый экземпляр[`PolygonShape`](../polygonshape) класс. |
 
 ## Характеристики
 
@@ -46,7 +46,7 @@ public class PolygonShape : Shape, IOrderedShape
 
 ### Примеры
 
-В этом примере создается новое изображение и рисуются различные фигуры с использованием Figures и GraphicsPath на поверхности изображения
+В этом примере создается новое изображение и рисуются различные фигуры с помощью Figures и GraphicsPath на поверхности изображения.
 
 ```csharp
 [C#]

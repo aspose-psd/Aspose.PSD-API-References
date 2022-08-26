@@ -3,7 +3,7 @@ title: InterruptMonitor
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет информацию о прерывании.
 type: docs
-weight: 5010
+weight: 5060
 url: /ru/net/aspose.psd.multithreading/interruptmonitor/
 ---
 ## InterruptMonitor class

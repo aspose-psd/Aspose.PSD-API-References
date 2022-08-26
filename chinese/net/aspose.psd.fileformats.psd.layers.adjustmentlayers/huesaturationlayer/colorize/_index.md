@@ -1,14 +1,14 @@
 ---
 title: Colorize
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此HueSaturationLayeraspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer是否为彩色
+description: 获取或设置一个值该值指示是否HueSaturationLayeraspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer是着色.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/colorize/
 ---
 ## HueSaturationLayer.Colorize property
 
-获取或设置一个值，该值指示此[`HueSaturationLayer`](../../huesaturationlayer)是否为彩色。
+获取或设置一个值，该值指示是否[`HueSaturationLayer`](../../huesaturationlayer)是着色.
 
 ```csharp
 public bool Colorize { get; set; }
@@ -16,7 +16,7 @@ public bool Colorize { get; set; }
 
 ### 适当的价值
 
-` true` 如果着色；否则，` false` 。
+`真的`如果着色；否则，`错误的` .
 
 ### 也可以看看
 

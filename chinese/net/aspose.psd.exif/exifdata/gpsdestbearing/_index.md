@@ -1,14 +1,14 @@
 ---
 title: GPSDestBearing
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置到目标点的 GPS 方位
+description: 获取或设置目标点的 GPS 方位
 type: docs
 weight: 400
 url: /zh/net/aspose.psd.exif/exifdata/gpsdestbearing/
 ---
 ## ExifData.GPSDestBearing property
 
-获取或设置到目标点的 GPS 方位。
+获取或设置目标点的 GPS 方位。
 
 ```csharp
 public TiffRational GPSDestBearing { get; set; }

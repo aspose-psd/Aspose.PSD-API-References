@@ -20,7 +20,7 @@ public ITextPortion[] Items { get; }
 
 ### 例子
 
-下面的代码演示了 Aspose.PSD 如何获取文本层内联格式的属性。
+下面的代码演示了 Aspose.PSD 如何获取文本层的内联格式的属性。
 
 ```csharp
 [C#]

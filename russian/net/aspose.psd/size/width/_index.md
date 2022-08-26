@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает горизонтальный компонент этогоSizeaspose.psd/size.
+description: Получает или задает горизонтальную составляющую этогоSizeaspose.psd/size .
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/size/width/
 ---
 ## Size.Width property
 
-Получает или задает горизонтальный компонент этого[`Size`](../../size).
+Получает или задает горизонтальную составляющую этого[`Size`](../../size) .
 
 ```csharp
 public int Width { get; set; }

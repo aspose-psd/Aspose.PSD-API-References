@@ -1,14 +1,14 @@
 ---
 title: TypeGeneralRotation
 second_title: Aspose.PSD for .NET API 参考
-description: 该标志位表示由该对象 定义的变换除了由其他标志位指示的 转换外还执行任意角度的旋转 无论向量的原始方向如何并且 不会改变向量的长度旋转都会以相同的量 改变向量的角度 该标志位与
+description: 该标志位表示由该对象定义的变换 执行除其他标志位指示的 转换之外的任意角度的旋转 旋转以相同的量改变向量的角度 而与向量的原始方向无关并且没有 改变向量的长度 这个标志位与 互斥
 type: docs
 weight: 210
 url: /zh/net/aspose.psd/matrix/typegeneralrotation/
 ---
 ## Matrix.TypeGeneralRotation field
 
-该标志位表示由该对象 定义的变换除了由其他标志位指示的 转换外还执行任意角度的旋转。 无论向量的原始方向如何，并且 不会改变向量的长度，旋转都会以相同的量 改变向量的角度。 该标志位与
+该标志位表示由该对象定义的变换 执行除其他标志位指示的 转换之外的任意角度的旋转。 旋转以相同的量改变向量的角度 而与向量的原始方向无关并且没有 改变向量的长度。 这个标志位与 互斥
 
 ```csharp
 public const int TypeGeneralRotation;

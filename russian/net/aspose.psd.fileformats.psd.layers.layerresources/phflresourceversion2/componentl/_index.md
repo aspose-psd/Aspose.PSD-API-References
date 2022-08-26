@@ -1,14 +1,14 @@
 ---
 title: ComponentL
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает компонент L цвета
+description: Получает или задает Lкомпонент color
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentl/
 ---
 ## PhflResourceVersion2.ComponentL property
 
-Получает или устанавливает компонент L цвета
+Получает или задает L-компонент color
 
 ```csharp
 public short ComponentL { get; set; }

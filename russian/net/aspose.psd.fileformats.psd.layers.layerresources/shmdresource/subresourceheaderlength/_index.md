@@ -3,7 +3,7 @@ title: SubResourceHeaderLength
 second_title: Справочник по Aspose.PSD для .NET API
 description: Длина заголовка подресурса
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/
 ---
 ## ShmdResource.SubResourceHeaderLength field

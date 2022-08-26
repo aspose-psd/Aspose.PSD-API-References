@@ -1,14 +1,14 @@
 ---
 title: BottomLeft
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает нижнюю часть.
+description: Получает или задает нижнюю часть.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/
 ---
 ## VectorShapeRadiiRectangle.BottomLeft property
 
-Получает или устанавливает нижнюю часть.
+Получает или задает нижнюю часть.
 
 ```csharp
 public double BottomLeft { get; set; }

@@ -16,7 +16,7 @@ public Color TransparentColor { get; }
 
 ### 适当的价值
 
-透明色。
+透明的颜色。
 
 ### 也可以看看
 

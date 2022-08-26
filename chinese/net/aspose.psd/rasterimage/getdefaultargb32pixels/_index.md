@@ -16,7 +16,7 @@ public int[] GetDefaultArgb32Pixels(Rectangle rectangle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 要为其获取像素的矩形。 |
+| rectangle | Rectangle | 获取像素的矩形。 |
 
 ### 返回值
 

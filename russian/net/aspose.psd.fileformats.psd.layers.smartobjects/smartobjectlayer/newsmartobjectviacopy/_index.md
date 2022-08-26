@@ -1,14 +1,14 @@
 ---
 title: NewSmartObjectViaCopy
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает новый слой смарт-объекта копируя этот. Воспроизводит Слой -gt Смарт-объекты -gt Новый смарт-объект с помощью функций копирования в Adobe Photoshop. Обратите внимание что эта функция включена только для встроенных смарт-объектов так как встроенное изображение также копируется. Если вы хотите поделиться встроенным изображением используйте методDuplicateLayeraspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer.
+description: Создает новый слой смартобъекта копируя этот слой. Воспроизводит функцию Слой gt Смартобъекты gt Новый смартобъект через копирование Adobe Photoshop. также копируется. Если вы хотите поделиться встроенным изображением используйтеDuplicateLayeraspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer метод.
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy/
 ---
 ## SmartObjectLayer.NewSmartObjectViaCopy method
 
-Создает новый слой смарт-объекта, копируя этот. Воспроизводит `Слой -&gt; Смарт-объекты -&gt; Новый смарт-объект с помощью функций копирования в Adobe Photoshop. Обратите внимание, что эта функция включена только для встроенных смарт-объектов, так как встроенное изображение также копируется. Если вы хотите поделиться встроенным изображением, используйте метод[`DuplicateLayer`](../duplicatelayer).
+Создает новый слой смарт-объекта, копируя этот слой. Воспроизводит функцию «Слой -&gt; Смарт-объекты -&gt; Новый смарт-объект через копирование» Adobe Photoshop. также копируется. Если вы хотите поделиться встроенным изображением, используйте[`DuplicateLayer`](../duplicatelayer) метод.
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy()
@@ -16,11 +16,11 @@ public SmartObjectLayer NewSmartObjectViaCopy()
 
 ### Возвращаемое значение
 
-Клонированный экземпляр[`SmartObjectLayer`](../../smartobjectlayer).
+Клонированный[`SmartObjectLayer`](../../smartobjectlayer) пример.
 
 ### Примеры
 
-В этих примерах показано, как копировать слои смарт-объектов в PSD-изображение.
+В этих примерах показано, как копировать слои смарт-объектов в изображение PSD.
 
 ```csharp
 [C#]

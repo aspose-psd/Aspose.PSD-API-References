@@ -1,14 +1,14 @@
 ---
 title: op_Addition
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПереводитPointaspose.psd/pointна указанныйSizeaspose.psd/size.
+description: ПереводитPointaspose.psd/point заданнымSizeaspose.psd/size .
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/point/op_addition/
 ---
 ## Point Addition operator
 
-Переводит[`Point`](../../point)на указанный[`Size`](../../size).
+Переводит[`Point`](../../point) заданным[`Size`](../../size) .
 
 ```csharp
 public static Point operator +(Point point, Size size)
@@ -16,12 +16,12 @@ public static Point operator +(Point point, Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point)для перевода. |
-| size | Size | A[`Size`](../../size)который указывает пару чисел, которые нужно добавить к координатам*точка*. |
+| point | Point | [`Point`](../../point) переводить. |
+| size | Size | А[`Size`](../../size) который указывает пару чисел, которые нужно добавить к координатам*point*. |
 
 ### Возвращаемое значение
 
-Переведенный[`Point`](../../point).
+переведенный[`Point`](../../point).
 
 ### Смотрите также
 

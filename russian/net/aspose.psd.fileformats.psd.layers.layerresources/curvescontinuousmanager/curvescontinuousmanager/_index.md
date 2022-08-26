@@ -1,14 +1,14 @@
 ---
 title: CurvesContinuousManager
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаCurvesContinuousManageraspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager.
+description: Инициализирует новый экземплярCurvesContinuousManageraspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/curvescontinuousmanager/
 ---
 ## CurvesContinuousManager constructor
 
-Инициализирует новый экземпляр класса[`CurvesContinuousManager`](../../curvescontinuousmanager).
+Инициализирует новый экземпляр[`CurvesContinuousManager`](../../curvescontinuousmanager) класс.
 
 ```csharp
 public CurvesContinuousManager(int maxChannelCount)

@@ -1,14 +1,14 @@
 ---
 title: Lnk2Resource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化Lnk2Resourceaspose.psd.fileformats.psd.layers.layerresources/lnk2resource类的新实例
+description: 初始化Lnk2Resourceaspose.psd.fileformats.psd.layers.layerresources/lnk2resource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/lnk2resource/
 ---
 ## Lnk2Resource constructor
 
-初始化[`Lnk2Resource`](../../lnk2resource)类的新实例。
+初始化[`Lnk2Resource`](../../lnk2resource)类.
 
 ```csharp
 public Lnk2Resource()

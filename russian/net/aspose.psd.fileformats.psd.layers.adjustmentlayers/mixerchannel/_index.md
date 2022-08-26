@@ -18,7 +18,7 @@ public abstract class MixerChannel
 
 | Имя | Описание |
 | --- | --- |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant) { get; set; } | Получает или задает константу канала. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant) { get; set; } | Получает или устанавливает константу канала. |
 
 ## Методы
 

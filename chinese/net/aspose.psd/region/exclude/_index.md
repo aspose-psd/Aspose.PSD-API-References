@@ -1,14 +1,14 @@
 ---
 title: Exclude
 second_title: Aspose.PSD for .NET API 参考
-description: 更新此Regionaspose.psd/region以仅包含其内部不与指定的RectangleF结构
+description: 更新这个Regionaspose.psd/region仅包含其内部不与指定的部分相交的部分RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/region/exclude/
 ---
 ## Exclude(RectangleF) {#exclude_2}
 
-更新此[`Region`](../../region)以仅包含其内部不与指定的RectangleF结构。
+更新这个[`Region`](../../region)仅包含其内部不与指定的部分相交的部分[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public void Exclude(RectangleF rect)
@@ -16,7 +16,7 @@ public void Exclude(RectangleF rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | 要从此Region的中排除[`RectangleF`](../../rectanglef)结构. |
+| rect | RectangleF | 这[`RectangleF`](../../rectanglef)从中排除的结构[`Region`](../../region). |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void Exclude(RectangleF rect)
 
 ## Exclude(Rectangle) {#exclude_1}
 
-更新此[`Region`](../../region)以仅包含其内部不与指定的Rectangle结构。
+更新这个[`Region`](../../region)仅包含其内部不与指定的部分相交的部分[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public void Exclude(Rectangle rect)
@@ -37,7 +37,7 @@ public void Exclude(Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 要从此[`Region`](../../region)排除的[`Rectangle`](../../rectangle)结构. |
+| rect | Rectangle | 这[`Rectangle`](../../rectangle)从中排除的结构[`Region`](../../region). |
 
 ### 也可以看看
 
@@ -50,7 +50,7 @@ public void Exclude(Rectangle rect)
 
 ## Exclude(GraphicsPath) {#exclude}
 
-更新此[`Region`](../../region)以仅包含其内部不与指定的GraphicsPath。
+更新这个[`Region`](../../region)仅包含其内部不与指定的部分相交的部分[`GraphicsPath`](../../graphicspath) .
 
 ```csharp
 public void Exclude(GraphicsPath path)
@@ -58,7 +58,7 @@ public void Exclude(GraphicsPath path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath)要从此排除[`Region`](../../region). |
+| path | GraphicsPath | 这[`GraphicsPath`](../../graphicspath)排除在外[`Region`](../../region). |
 
 ### 例外
 
@@ -77,7 +77,7 @@ public void Exclude(GraphicsPath path)
 
 ## Exclude(Region) {#exclude_3}
 
-更新此[`Region`](../../region)以仅包含其内部不与指定的PSD相交的部分。地区。
+更新这个[`Region`](../../region)仅包含其内部不与指定的部分相交的部分[`Region`](../../region) .
 
 ```csharp
 public void Exclude(Region region)
@@ -85,7 +85,7 @@ public void Exclude(Region region)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | [`Region`](../../region)要从这个[`Region`](../../region)中排除. |
+| region | Region | 这[`Region`](../../region)排除在外[`Region`](../../region). |
 
 ### 例外
 

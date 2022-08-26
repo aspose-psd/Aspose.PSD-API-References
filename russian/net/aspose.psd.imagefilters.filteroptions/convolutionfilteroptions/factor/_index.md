@@ -1,14 +1,14 @@
 ---
 title: Factor
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает коэффициент.
+description: Получает или задает фактор.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/
 ---
 ## ConvolutionFilterOptions.Factor property
 
-Получает или задает коэффициент.
+Получает или задает фактор.
 
 ```csharp
 public double Factor { get; set; }

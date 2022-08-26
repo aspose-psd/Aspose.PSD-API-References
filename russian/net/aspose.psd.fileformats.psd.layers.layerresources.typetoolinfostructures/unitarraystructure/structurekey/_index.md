@@ -1,14 +1,14 @@
 ---
 title: StructureKey
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет ключ UnFlUnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure.
+description: определяет UnFlUnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure ключ.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/
 ---
 ## UnitArrayStructure.StructureKey field
 
-Определяет ключ 'UnFl'[`UnitArrayStructure`](../../unitarraystructure).
+определяет «UnFl»[`UnitArrayStructure`](../../unitarraystructure) ключ.
 
 ```csharp
 public const int StructureKey;

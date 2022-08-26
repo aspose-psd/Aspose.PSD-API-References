@@ -3,7 +3,7 @@ title: IPsdColorPalette
 second_title: Aspose.PSD for .NET API 参考
 description: pasd 调色板
 type: docs
-weight: 4430
+weight: 4480
 url: /zh/net/aspose.psd/ipsdcolorpalette/
 ---
 ## IPsdColorPalette interface

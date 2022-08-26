@@ -3,7 +3,7 @@ title: TextShape
 second_title: Aspose.PSD for .NET API 参考
 description: 表示文本形状
 type: docs
-weight: 5420
+weight: 5470
 url: /zh/net/aspose.psd.shapes/textshape/
 ---
 ## TextShape class
@@ -18,8 +18,8 @@ public sealed class TextShape : RectangleProjectedShape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TextShape](textshape#constructor)() | 初始化[`TextShape`](../textshape)类的新实例。 |
-| [TextShape](textshape#constructor_1)(string, RectangleF, Font, StringFormat) | 初始化[`TextShape`](../textshape)类的新实例。 |
+| [TextShape](textshape#constructor)() | 初始化[`TextShape`](../textshape)类. |
+| [TextShape](textshape#constructor_1)(string, RectangleF, Font, StringFormat) | 初始化[`TextShape`](../textshape)类. |
 
 ## 特性
 
@@ -28,13 +28,13 @@ public sealed class TextShape : RectangleProjectedShape
 | override [Bounds](../../aspose.psd.shapes/textshape/bounds) { get; } | 获取对象的边界。 |
 | override [Center](../../aspose.psd.shapes/textshape/center) { get; } | 获取形状的中心。 |
 | [Font](../../aspose.psd.shapes/textshape/font) { get; set; } | 获取或设置用于绘制文本的字体。 |
-| override [HasSegments](../../aspose.psd.shapes/textshape/hassegments) { get; } | 获取表示形状是否有段的值。 |
+| override [HasSegments](../../aspose.psd.shapes/textshape/hassegments) { get; } | 获取一个表示形状是否有段的值。 |
 | [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | 获取左下角矩形点。 |
 | [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | 获取左上角矩形点。 |
 | [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | 获取矩形高度。 |
 | [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | 获取矩形宽度。 |
 | [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | 获取右下角矩形点。 |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上矩形点。 |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | 获取右上角的矩形点。 |
 | override [Segments](../../aspose.psd.shapes/textshape/segments) { get; } | 获取形状段。 |
 | [Text](../../aspose.psd.shapes/textshape/text) { get; set; } | 获取或设置绘制的文本。 |
 | [TextFormat](../../aspose.psd.shapes/textshape/textformat) { get; set; } | 获取或设置文本格式。 |

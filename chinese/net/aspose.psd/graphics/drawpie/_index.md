@@ -1,14 +1,14 @@
 ---
 title: DrawPie
 second_title: Aspose.PSD for .NET API 参考
-description: 绘制由RectangleFaspose.psd/rectanglef结构和两条径向线指定的椭圆定义的饼形
+description: 绘制由 a 指定的椭圆定义的饼形RectangleFaspose.psd/rectanglef结构和两条径向线
 type: docs
 weight: 280
 url: /zh/net/aspose.psd/graphics/drawpie/
 ---
 ## DrawPie(Pen, RectangleF, float, float) {#drawpie_1}
 
-绘制由[`RectangleF`](../../rectanglef)结构和两条径向线指定的椭圆定义的饼形。
+绘制由 a 指定的椭圆定义的饼形[`RectangleF`](../../rectanglef)结构和两条径向线。
 
 ```csharp
 public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
@@ -16,16 +16,16 @@ public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定饼形的颜色、宽度和样式。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)结构，表示定义椭圆的边界矩形，饼形来自该矩形。 |
-| startAngle | Single | 从 x 轴到饼形第一侧的顺时针角度。 |
-| sweepAngle | Single | 从*startAngle*参数顺时针测量到饼形第二边的角度。 |
+| pen | Pen | [`Pen`](../../pen)它决定了饼形的颜色、宽度和样式。 |
+| rect | RectangleF | [`RectangleF`](../../rectanglef)表示边界矩形的结构，该边界矩形定义了饼形所来自的椭圆。 |
+| startAngle | Single | 从 x 轴到饼形第一边的顺时针角度，以度为单位。 |
+| sweepAngle | Single | 以度为单位测量的角度从顺时针方向*startAngle*参数到饼形的第二边。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -48,19 +48,19 @@ public void DrawPie(Pen pen, float x, float y, float width, float height, float 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定饼形的颜色、宽度和样式。 |
-| x | Single | 边界矩形左上角的 x 坐标，该边界矩形定义了饼形所在的椭圆。 |
-| y | Single | 边界矩形左上角的 y 坐标，该边界矩形定义了饼形所在的椭圆。 |
+| pen | Pen | [`Pen`](../../pen)它决定了饼形的颜色、宽度和样式。 |
+| x | Single | 边界矩形左上角的 x 坐标，用于定义饼形所在的椭圆。 |
+| y | Single | 边界矩形左上角的 y 坐标，该矩形定义了饼形所来自的椭圆。 |
 | width | Single | 边界矩形的宽度，它定义了饼形所来自的椭圆。 |
 | height | Single | 边界矩形的高度，它定义了饼形所来自的椭圆。 |
-| startAngle | Single | 从 x 轴到饼形第一侧的顺时针角度。 |
-| sweepAngle | Single | 从*startAngle*参数顺时针测量到饼形第二边的角度。 |
+| startAngle | Single | 从 x 轴到饼形第一边的顺时针角度，以度为单位。 |
+| sweepAngle | Single | 以度为单位测量的角度从顺时针方向*startAngle*参数到饼形的第二边。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -73,7 +73,7 @@ public void DrawPie(Pen pen, float x, float y, float width, float height, float 
 
 ## DrawPie(Pen, Rectangle, float, float) {#drawpie}
 
-绘制由[`Rectangle`](../../rectangle)结构和两条径向线指定的椭圆定义的饼形。
+绘制由 a 指定的椭圆定义的饼形[`Rectangle`](../../rectangle)结构和两条径向线。
 
 ```csharp
 public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
@@ -81,16 +81,16 @@ public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定饼形的颜色、宽度和样式。 |
-| rect | Rectangle | [`Rectangle`](../../rectangle)结构，表示定义椭圆的边界矩形，饼形来自该矩形。 |
-| startAngle | Single | 从 x 轴到饼形第一侧的顺时针角度。 |
-| sweepAngle | Single | 从*startAngle*参数顺时针测量到饼形第二边的角度。 |
+| pen | Pen | [`Pen`](../../pen)它决定了饼形的颜色、宽度和样式。 |
+| rect | Rectangle | [`Rectangle`](../../rectangle)表示边界矩形的结构，该边界矩形定义了饼形所来自的椭圆。 |
+| startAngle | Single | 从 x 轴到饼形第一边的顺时针角度，以度为单位。 |
+| sweepAngle | Single | 以度为单位测量的角度从顺时针方向*startAngle*参数到饼形的第二边。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 
@@ -112,19 +112,19 @@ public void DrawPie(Pen pen, int x, int y, int width, int height, int startAngle
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定饼形的颜色、宽度和样式。 |
-| x | Int32 | 边界矩形左上角的 x 坐标，该边界矩形定义了饼形所在的椭圆。 |
-| y | Int32 | 边界矩形左上角的 y 坐标，该边界矩形定义了饼形所在的椭圆。 |
+| pen | Pen | [`Pen`](../../pen)它决定了饼形的颜色、宽度和样式。 |
+| x | Int32 | 边界矩形左上角的 x 坐标，用于定义饼形所在的椭圆。 |
+| y | Int32 | 边界矩形左上角的 y 坐标，该矩形定义了饼形所来自的椭圆。 |
 | width | Int32 | 边界矩形的宽度，它定义了饼形所来自的椭圆。 |
 | height | Int32 | 边界矩形的高度，它定义了饼形所来自的椭圆。 |
-| startAngle | Int32 | 从 x 轴到饼形第一侧的顺时针角度。 |
-| sweepAngle | Int32 | 从*startAngle*参数顺时针测量到饼形第二边的角度。 |
+| startAngle | Int32 | 从 x 轴到饼形第一边的顺时针角度，以度为单位。 |
+| sweepAngle | Int32 | 以度为单位测量的角度从顺时针方向*startAngle*参数到饼形的第二边。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 |
+| ArgumentNullException | *pen*一片空白。 |
 
 ### 也可以看看
 

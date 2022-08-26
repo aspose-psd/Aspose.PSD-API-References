@@ -1,14 +1,14 @@
 ---
 title: Contrast
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置对比度 PS的对比度范围是-50到100但我们忽略了这一点
+description: 获取或设置对比度 PS的对比度范围是50到100但是我们忽略了这个
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
 ## BrightnessContrastLayer.Contrast property
 
-获取或设置对比度。 PS的对比度范围是-50到+100。但我们忽略了这一点。
+获取或设置对比度。 PS的对比度范围是-50到+100。但是我们忽略了这个。
 
 ```csharp
 public int Contrast { get; set; }

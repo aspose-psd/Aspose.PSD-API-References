@@ -1,14 +1,14 @@
 ---
 title: Source
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置创建图像的源
+description: 获取或设置要在其中创建图像的源
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/imageoptionsbase/source/
 ---
 ## ImageOptionsBase.Source property
 
-获取或设置创建图像的源。
+获取或设置要在其中创建图像的源。
 
 ```csharp
 public Source Source { get; set; }
@@ -16,7 +16,7 @@ public Source Source { get; set; }
 
 ### 适当的价值
 
-创建图像的源。
+在其中创建图像的源。
 
 ### 也可以看看
 

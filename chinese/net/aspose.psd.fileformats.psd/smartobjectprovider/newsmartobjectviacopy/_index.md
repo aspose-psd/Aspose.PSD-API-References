@@ -1,14 +1,14 @@
 ---
 title: NewSmartObjectViaCopy
 second_title: Aspose.PSD for .NET API 参考
-description: 通过处理源层创建新的智能对象层
+description: 通过处理源层创建一个新的智能对象层
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/
 ---
 ## SmartObjectProvider.NewSmartObjectViaCopy method
 
-通过处理源层创建新的智能对象层。
+通过处理源层创建一个新的智能对象层。
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
@@ -20,13 +20,13 @@ public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 
 ### 返回值
 
-克隆的[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)实例。
+克隆人[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)实例.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您只能替换嵌入的智能对象。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您只能替换嵌入式智能对象。 |
 
 ### 例子
 

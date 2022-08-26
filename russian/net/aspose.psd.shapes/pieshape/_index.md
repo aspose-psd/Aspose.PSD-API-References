@@ -3,7 +3,7 @@ title: PieShape
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет форму круга.
 type: docs
-weight: 5380
+weight: 5430
 url: /ru/net/aspose.psd.shapes/pieshape/
 ---
 ## PieShape class
@@ -18,8 +18,8 @@ public class PieShape : EllipseShape
 
 | Имя | Описание |
 | --- | --- |
-| [PieShape](pieshape#constructor)() | Инициализирует новый экземпляр класса[`PieShape`](../pieshape). |
-| [PieShape](pieshape#constructor_1)(RectangleF, float, float) | Инициализирует новый экземпляр класса[`PieShape`](../pieshape). |
+| [PieShape](pieshape#constructor)() | Инициализирует новый экземпляр[`PieShape`](../pieshape) класс. |
+| [PieShape](pieshape#constructor_1)(RectangleF, float, float) | Инициализирует новый экземпляр[`PieShape`](../pieshape) класс. |
 
 ## Характеристики
 
@@ -48,7 +48,7 @@ public class PieShape : EllipseShape
 
 ### Примеры
 
-В этом примере создается новое изображение и рисуются различные фигуры с использованием Figures и GraphicsPath на поверхности изображения
+В этом примере создается новое изображение и рисуются различные фигуры с помощью Figures и GraphicsPath на поверхности изображения.
 
 ```csharp
 [C#]

@@ -3,7 +3,7 @@ title: PdfOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Параметры PDF.
 type: docs
-weight: 4750
+weight: 4800
 url: /ru/net/aspose.psd.imageoptions/pdfoptions/
 ---
 ## PdfOptions class
@@ -24,18 +24,18 @@ public class PdfOptions : ImageOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или устанавливает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или задает замещающий шрифт по умолчанию (шрифт, который будет использоваться для отрисовки текста при экспорте в растр, если существующий шрифт слоя в PSD-файле не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
 | [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
 | [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Получает или задает значение, указывающее, является ли [полный кадр]. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Многостраничные параметры |
 | [PageSize](../../aspose.psd.imageoptions/pdfoptions/pagesize) { get; set; } | Получает или задает размер страницы. |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Получает или задает цветовую палитру. |
 | [PdfCoreOptions](../../aspose.psd.imageoptions/pdfoptions/pdfcoreoptions) { get; set; } | Основные параметры PDF |
-| [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo) { get; set; } | Получает или устанавливает метаданные для документа. |
+| [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo) { get; set; } | Получает или задает метаданные для документа. |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Получает или задает обработчик события выполнения. |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Получает или задает параметры разрешения. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения. |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения в. |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Получает или задает параметры векторной растеризации. |
 | virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata) { get; set; } | Получает или задает контейнер метаданных XMP. |
 
@@ -48,7 +48,7 @@ public class PdfOptions : ImageOptionsBase
 
 ### Примеры
 
-В следующем примере показано, как можно экспортировать файлы Adobe Illustrator в формат PDF в Aspose.PSD
+В следующем примере показано, как вы можете экспортировать файлы Adobe Illustrator в формат PDF в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -61,7 +61,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-Следующий пример демонстрирует, что AsposePSD поддерживает экспорт файлов PSB в формат PSD.
+В следующем примере показано, что AsposePSD поддерживает экспорт файлов PSB в формат PSD.
 
 ```csharp
 [C#]

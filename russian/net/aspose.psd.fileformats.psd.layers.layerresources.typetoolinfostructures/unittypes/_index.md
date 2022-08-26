@@ -3,7 +3,7 @@ title: UnitTypes
 second_title: Справочник по Aspose.PSD для .NET API
 description: Типы юнитов.
 type: docs
-weight: 3180
+weight: 3230
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/
 ---
 ## UnitTypes enumeration
@@ -21,9 +21,9 @@ public enum UnitTypes
 | Angle | `591490663` | Угловая единица. |
 | Density | `592606060` | Единица измерения плотности. |
 | Distance | `592604276` | Единица расстояния. |
-| None | `592342629` | Неопределенный юнит. |
+| None | `592342629` | Неопределенная единица измерения. |
 | Percent | `592474723` | Процентная единица. |
-| Pixels | `592476268` | Единица измерения пикселей. |
+| Pixels | `592476268` | Единица пикселей. |
 | Points | `592473716` | Единица очков. |
 
 ### Смотрите также

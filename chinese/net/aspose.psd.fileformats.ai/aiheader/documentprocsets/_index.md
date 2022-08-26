@@ -1,14 +1,14 @@
 ---
 title: DocumentProcSets
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置文档过程集
+description: 获取或设置文档 proc 集
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
 ## AiHeader.DocumentProcSets property
 
-获取或设置文档过程集。
+获取或设置文档 proc 集。
 
 ```csharp
 public string DocumentProcSets { get; set; }
@@ -16,7 +16,7 @@ public string DocumentProcSets { get; set; }
 
 ### 适当的价值
 
-文档过程设置。
+文档过程集。
 
 ### 也可以看看
 

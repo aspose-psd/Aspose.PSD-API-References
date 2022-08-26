@@ -1,14 +1,14 @@
 ---
 title: PsdOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Формат файла psd создает параметры.
+description: Параметры создания файла формата psd.
 type: docs
-weight: 4780
+weight: 4830
 url: /ru/net/aspose.psd.imageoptions/psdoptions/
 ---
 ## PsdOptions class
 
-Формат файла psd создает параметры.
+Параметры создания файла формата psd.
 
 ```csharp
 public class PsdOptions : ImageOptionsBase
@@ -18,31 +18,31 @@ public class PsdOptions : ImageOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [PsdOptions](psdoptions#constructor)() | Инициализирует новый экземпляр класса[`PsdOptions`](../psdoptions). |
-| [PsdOptions](psdoptions#constructor_1)(PsdImage) | Инициализирует новый экземпляр класса[`PsdOptions`](../psdoptions). |
-| [PsdOptions](psdoptions#constructor_2)(PsdOptions) | Инициализирует новый экземпляр класса[`PsdOptions`](../psdoptions). |
+| [PsdOptions](psdoptions#constructor)() | Инициализирует новый экземпляр[`PsdOptions`](../psdoptions) класс. |
+| [PsdOptions](psdoptions#constructor_1)(PsdImage) | Инициализирует новый экземпляр[`PsdOptions`](../psdoptions) класс. |
+| [PsdOptions](psdoptions#constructor_2)(PsdOptions) | Инициализирует новый экземпляр[`PsdOptions`](../psdoptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или устанавливает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
 | [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount) { get; set; } | Получает или задает количество битов на цветовой канал. |
 | [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount) { get; set; } | Получает или задает количество цветовых каналов. |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode) { get; set; } | Получает или задает цветовой режим psd. |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode) { get; set; } | Получает или задает цветовой режим PSD. |
 | [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod) { get; set; } | Получает или задает метод сжатия psd. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или задает замещающий шрифт по умолчанию (шрифт, который будет использоваться для отрисовки текста при экспорте в растр, если существующий шрифт слоя в PSD-файле не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
 | [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
 | [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Получает или задает значение, указывающее, является ли [полный кадр]. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Многостраничные параметры |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Получает или задает цветовую палитру. |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Получает или задает обработчик события выполнения. |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion) { get; set; } | Получает или задает версию формата файла. Это может быть ПСД или ПСБ. |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata) { get; set; } | Получает или задает значение, указывающее, используется ли [обновить данные предварительного просмотра изображения] для максимальной совместимости с другими средствами просмотра изображений PSD. Обратите внимание, что отрисовка текстовых слоев в окончательный макет не поддерживается для платформы Compact Framework |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource) { get; set; } | Получает или задает значение, указывающее, - Удалить ли глобальный ресурс текстового движка - Используется для некоторых текстовых файлов psd, только в том случае, когда их нельзя открыть в Adobe Photoshop после обработки (в основном для отсутствующих шрифтов, связанных с текстовыми слоями). После использования этой опции пользователю необходимо сделать следующее в открытом в Photoshop файле:Меню "Текст" -&gt;&gt; «Обработать отсутствующие шрифты». После этой операции весь текст появится снова. Обратите внимание, что эта операция может привести к некоторым окончательным изменениям макета. |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion) { get; set; } | Получает или задает версию формата файла. Это может быть PSD или PSB. |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata) { get; set; } | Получает или задает значение, указывающее, используется ли параметр [обновить данные предварительного просмотра изображения] для обеспечения максимальной совместимости с другими средствами просмотра изображений PSD. |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource) { get; set; } | Получает или задает значение, указывающее: - Удалить глобальный ресурс текстового движка - Используется для некоторых текстовых файлов psd, только в том случае, когда их нельзя открыть в Adobe Photoshop после обработки (в основном для отсутствующих шрифтов, связанных с текстовыми слоями). После использования этой опции пользователю необходимо сделать следующее в открытом в Photoshop файле: Меню "Текст" -&gt; "Обработать отсутствующие шрифты". После этой операции весь текст снова появится. Обратите внимание, что эта операция может вызвать некоторые окончательные изменения макета. |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Получает или задает параметры разрешения. |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources) { get; set; } | Получает или устанавливает ресурсы PSD. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения. |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources) { get; set; } | Получает или задает ресурсы PSD. |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения в. |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Получает или задает параметры векторной растеризации. |
 | [Version](../../aspose.psd.imageoptions/psdoptions/version) { get; set; } | Получает или задает версию файла psd. |
 | override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata) { get; set; } | Получить или установить контейнер данных XMP |
@@ -56,7 +56,7 @@ public class PsdOptions : ImageOptionsBase
 
 ### Примеры
 
-В следующем примере показано, как вы можете экспортировать файл AI в формат PSD и PNG в Aspose.PSD
+В следующем примере показано, как вы можете экспортировать файл AI в формат PSD и PNG в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -92,7 +92,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 }
 ```
 
-В следующем примере показано, что чтение и сохранение 16-битных PSD-файлов в оттенках серого в 16-битные на канал RGB работает правильно и без исключений.
+В следующем примере показано, что чтение и сохранение 16-битных PSD-файлов в оттенках серого в 16-битных на канал RGB работает правильно и без исключений.
 
 ```csharp
 [C#]
@@ -125,7 +125,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-В следующем примере показано, что чтение и сохранение 16-битных PSD-файлов оттенков серого в 8-битных оттенках серого работает правильно и без исключений.
+В следующем примере показано, что чтение и сохранение 16-битных файлов PSD в оттенках серого в 8-битных оттенках серого на канал работает правильно и без исключений.
 
 ```csharp
 [C#]
@@ -158,7 +158,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-В следующем примере показано, как можно использовать режим наложения слоя PassThrough в Aspose.PSD
+В следующем примере показано, как можно использовать режим наложения слоя PassThrough в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -199,7 +199,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Следующий пример демонстрирует, что процесс преобразования документов работает корректно и без исключений.
+В следующем примере показано, что процесс преобразования документов работает правильно и без исключений.
 
 ```csharp
 [C#]
@@ -243,7 +243,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-В этом примере показано, как загрузить информацию о пикселях в массив цветов типа, манипулировать массивом и установить его обратно в изображение. Для выполнения этих операций в этом примере создается новый файл изображения (в формате PSD) с использованием объекта MemoryStream.
+В этом примере показано, как загрузить информацию о пикселях в массив цвета типа, манипулировать массивом и установить его обратно в изображение. Для выполнения этих операций в этом примере создается новый файл изображения (в формате PSD) с использованием объекта MemoryStream.
 
 ```csharp
 [C#]

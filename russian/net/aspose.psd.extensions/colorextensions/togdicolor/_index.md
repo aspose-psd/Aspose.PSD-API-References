@@ -1,14 +1,14 @@
 ---
 title: ToGdiColor
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПреобразуетColoraspose.psd/colorвColor.
+description: ПреобразуетColoraspose.psd/color кColor .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/colorextensions/togdicolor/
 ---
 ## ColorExtensions.ToGdiColor method
 
-Преобразует[`Color`](../../../aspose.psd/color)вColor.
+Преобразует[`Color`](../../../aspose.psd/color) кColor .
 
 ```csharp
 public static Color ToGdiColor(Color color)
@@ -16,7 +16,7 @@ public static Color ToGdiColor(Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | [`Color`](../../../aspose.psd/color)для преобразования. |
+| color | Color | [`Color`](../../../aspose.psd/color) конвертировать. |
 
 ### Возвращаемое значение
 

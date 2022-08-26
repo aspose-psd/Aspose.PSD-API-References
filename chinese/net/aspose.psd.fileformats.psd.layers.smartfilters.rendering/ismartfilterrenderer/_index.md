@@ -3,7 +3,7 @@ title: ISmartFilterRenderer
 second_title: Aspose.PSD for .NET API 参考
 description: 特定智能滤镜渲染器的接口
 type: docs
-weight: 3340
+weight: 3390
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/
 ---
 ## ISmartFilterRenderer interface
@@ -22,7 +22,7 @@ public interface ISmartFilterRenderer
 
 ### 例子
 
-以下代码向您展示如何创建具有自定义渲染器的自定义智能过滤器。
+以下代码向您展示了如何创建具有自定义渲染器的自定义智能过滤器。
 
 ```csharp
 [C#]

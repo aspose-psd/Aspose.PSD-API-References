@@ -1,14 +1,14 @@
 ---
 title: SetWebStatement
 second_title: Aspose.PSD for .NET API 参考
-description: 设置网络声明
+description: 设置 web 语句
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/
 ---
 ## XmpRightsManagementPackage.SetWebStatement method
 
-设置网络声明。
+设置 web 语句。
 
 ```csharp
 public void SetWebStatement(string webStatementUrl)

@@ -1,14 +1,14 @@
 ---
 title: AddNoiseSmartFilter
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化AddNoiseSmartFilteraspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter类的新实例
+description: 初始化AddNoiseSmartFilteraspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/addnoisesmartfilter/
 ---
 ## AddNoiseSmartFilter constructor
 
-初始化[`AddNoiseSmartFilter`](../../addnoisesmartfilter)类的新实例。
+初始化[`AddNoiseSmartFilter`](../../addnoisesmartfilter)类.
 
 ```csharp
 public AddNoiseSmartFilter()

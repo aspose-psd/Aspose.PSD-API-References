@@ -1,14 +1,14 @@
 ---
 title: DrawString
 second_title: Справочник по Aspose.PSD для .NET API
-description: Рисует указанную текстовую строку в указанном месте с указаннымBrushaspose.psd/brushиFontaspose.psd/fontобъекты.
+description: Рисует указанную текстовую строку в указанном месте с указаннымBrushaspose.psd/brush а такжеFontaspose.psd/font объекты.
 type: docs
 weight: 320
 url: /ru/net/aspose.psd/graphics/drawstring/
 ---
 ## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush)и[`Font`](../../font)объекты.
+Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush) а также[`Font`](../../font) объекты.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
@@ -16,9 +16,9 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Строка для рисования. |
-| font | Font | [`Font`](../../font), который определяет текстовый формат строки. |
-| brush | Brush | [`Brush`](../../brush)определяющий цвет и текстуру рисуемого текста. |
+| s | String | Нить для рисования. |
+| font | Font | [`Font`](../../font) который определяет текстовый формат строки. |
+| brush | Brush | [`Brush`](../../brush) который определяет цвет и текстуру нарисованного текста. |
 | x | Single | Координата x левого верхнего угла нарисованного текста. |
 | y | Single | Y-координата левого верхнего угла нарисованного текста. |
 
@@ -26,7 +26,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush*равно null. -или- *s*равно нулю. |
+| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
 
 ### Смотрите также
 
@@ -40,7 +40,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 ## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush)и[`Font`](../../font)объекты.
+Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush) а также[`Font`](../../font) объекты.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
@@ -48,20 +48,20 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Строка для рисования. |
-| font | Font | [`Font`](../../font), который определяет текстовый формат строки. |
-| brush | Brush | [`Brush`](../../brush)определяющий цвет и текстуру рисуемого текста. |
-| point | PointF | [`PointF`](../../pointf)структура, указывающая верхний левый угол нарисованного текста. |
+| s | String | Нить для рисования. |
+| font | Font | [`Font`](../../font) который определяет текстовый формат строки. |
+| brush | Brush | [`Brush`](../../brush) который определяет цвет и текстуру нарисованного текста. |
+| point | PointF | [`PointF`](../../pointf) структура, определяющая левый верхний угол нарисованного текста. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush*равно null. -или- *s*равно нулю. |
+| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
 
 ### Примеры
 
-Этот пример демонстрирует использование класса Font и SolidBrush для рисования строк на поверхности изображения. В примере создается новое изображение и рисуются фигуры с использованием Figures и GraphicsPath
+В этом примере демонстрируется использование класса Font и SolidBrush для рисования строк на поверхности изображения. В примере создается новое изображение и рисуются фигуры с использованием Figures и GraphicsPath.
 
 ```csharp
 [C#]
@@ -105,7 +105,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush)и[`Font`](../../font)объекты, использующие атрибуты форматирования указанного[`StringFormat`](../../stringformat).
+Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush) а также[`Font`](../../font) объекты, использующие атрибуты форматирования указанных[`StringFormat`](../../stringformat) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
@@ -113,18 +113,18 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Строка для рисования. |
-| font | Font | [`Font`](../../font), который определяет текстовый формат строки. |
-| brush | Brush | [`Brush`](../../brush)определяющий цвет и текстуру рисуемого текста. |
+| s | String | Нить для рисования. |
+| font | Font | [`Font`](../../font) который определяет текстовый формат строки. |
+| brush | Brush | [`Brush`](../../brush) который определяет цвет и текстуру нарисованного текста. |
 | x | Single | Координата x левого верхнего угла нарисованного текста. |
 | y | Single | Y-координата левого верхнего угла нарисованного текста. |
-| format | StringFormat | [`StringFormat`](../../stringformat)который указывает атрибуты форматирования, такие как межстрочный интервал и выравнивание, которые применяются к нарисованный текст. |
+| format | StringFormat | [`StringFormat`](../../stringformat) который определяет атрибуты форматирования, такие как межстрочный интервал и выравнивание, которые применяются к нарисованному тексту. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush*равно null. -или- *s*равно нулю. |
+| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
 
 ### Смотрите также
 
@@ -139,7 +139,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 ## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush)и[`Font`](../../font)объекты, использующие атрибуты форматирования указанного[`StringFormat`](../../stringformat).
+Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush) а также[`Font`](../../font) объекты, использующие атрибуты форматирования указанных[`StringFormat`](../../stringformat) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
@@ -147,17 +147,17 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Строка для рисования. |
-| font | Font | [`Font`](../../font), который определяет текстовый формат строки. |
-| brush | Brush | [`Brush`](../../brush)определяющий цвет и текстуру рисуемого текста. |
-| point | PointF | [`PointF`](../../pointf)структура, указывающая верхний левый угол нарисованного текста. |
-| format | StringFormat | [`StringFormat`](../../stringformat)который указывает атрибуты форматирования, такие как межстрочный интервал и выравнивание, которые применяются к нарисованный текст. |
+| s | String | Нить для рисования. |
+| font | Font | [`Font`](../../font) который определяет текстовый формат строки. |
+| brush | Brush | [`Brush`](../../brush) который определяет цвет и текстуру нарисованного текста. |
+| point | PointF | [`PointF`](../../pointf) структура, определяющая левый верхний угол нарисованного текста. |
+| format | StringFormat | [`StringFormat`](../../stringformat) который определяет атрибуты форматирования, такие как межстрочный интервал и выравнивание, которые применяются к нарисованному тексту. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush*равно null. -или- *s*равно нулю. |
+| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
 
 ### Смотрите также
 
@@ -173,7 +173,7 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 ## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-Рисует указанную текстовую строку в указанном прямоугольнике с указанным[`Brush`](../../brush)и[`Font`](../../font)объекты.
+Рисует указанную текстовую строку в указанном прямоугольнике с указанным[`Brush`](../../brush) а также[`Font`](../../font) объекты.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
@@ -181,16 +181,16 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Строка для рисования. |
-| font | Font | [`Font`](../../font), который определяет текстовый формат строки. |
-| brush | Brush | [`Brush`](../../brush)определяющий цвет и текстуру рисуемого текста. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef)структура, указывающая расположение нарисованного текста. |
+| s | String | Нить для рисования. |
+| font | Font | [`Font`](../../font) который определяет текстовый формат строки. |
+| brush | Brush | [`Brush`](../../brush) который определяет цвет и текстуру нарисованного текста. |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef) структура, указывающая расположение нарисованного текста. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush*равно null. -или- *s*равно нулю. |
+| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
 
 ### Смотрите также
 
@@ -205,7 +205,7 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-Рисует указанную текстовую строку в указанном прямоугольнике с указанным[`Brush`](../../brush)и[`Font`](../../font)объекты, использующие атрибуты форматирования указанного[`StringFormat`](../../stringformat).
+Рисует указанную текстовую строку в указанном прямоугольнике с указанным[`Brush`](../../brush) а также[`Font`](../../font) объекты, использующие атрибуты форматирования указанных[`StringFormat`](../../stringformat) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
@@ -214,17 +214,17 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Строка для рисования. |
-| font | Font | [`Font`](../../font), который определяет текстовый формат строки. |
-| brush | Brush | [`Brush`](../../brush)определяющий цвет и текстуру рисуемого текста. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef)структура, указывающая расположение нарисованного текста. |
-| format | StringFormat | [`StringFormat`](../../stringformat)который указывает атрибуты форматирования, такие как межстрочный интервал и выравнивание, которые применяются к нарисованный текст. |
+| s | String | Нить для рисования. |
+| font | Font | [`Font`](../../font) который определяет текстовый формат строки. |
+| brush | Brush | [`Brush`](../../brush) который определяет цвет и текстуру нарисованного текста. |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef) структура, указывающая расположение нарисованного текста. |
+| format | StringFormat | [`StringFormat`](../../stringformat) который определяет атрибуты форматирования, такие как межстрочный интервал и выравнивание, которые применяются к нарисованному тексту. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush*равно null. -или- *s*равно нулю. -или- *brush*равно null. |
+| ArgumentNullException | *brush* равно null. -или- *s* равно null. -или- *brush* нулевой. |
 
 ### Смотрите также
 

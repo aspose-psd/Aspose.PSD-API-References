@@ -1,14 +1,14 @@
 ---
 title: CompId
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置子文档当前选择的comp的ID如果没有选择则为-1 Comps 是设计师可以创建的页面布局的组合使用图层复合您可以在单个 Adobe Photoshop 文件中创建管理和查看布局的多个版本 图层组合是图层面板状态的快照图层组合保存三种类型的图层选项但 此属性获取 PSD 文件中智能对象图层的图层组合选择标识符 智能对象中的图层组合https//helpx.adobe.com/photoshop/using/layer-comps.html
+description: 获取或设置子文档当前选择的组合的 ID如果没有选择则为 1 组合是设计人员可以创建的页面布局的组合使用图层复合您可以在单个 Adobe Photoshop 文件中创建管理和查看布局的多个版本 图层组合是图层面板状态的快照图层组合保存三种类型的图层选项但是 此属性获取PSD文件中智能对象图层的图层组合选择标识符 智能对象中的图层组合https//helpx.adobe.com/photoshop/using/layercomps.html
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/
 ---
 ## SmartObjectResource.CompId property
 
-获取或设置子文档当前选择的comp的ID，如果没有选择则为-1。 Comps 是设计师可以创建的页面布局的组合。使用图层复合，您可以在单个 Adobe® Photoshop® 文件中创建、管理和查看布局的多个版本 。图层组合是“图层”面板状态的快照。图层组合保存三种类型的图层选项，但 此属性获取 PSD 文件中智能对象图层的图层组合选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+获取或设置子文档当前选择的组合的 ID，如果没有选择，则为 -1。 组合是设计人员可以创建的页面布局的组合。使用图层复合，您可以在单个 Adobe® Photoshop® 文件中创建、管理和查看布局的多个版本 。图层组合是“图层”面板状态的快照。图层组合保存三种类型的图层选项但是 此属性获取PSD文件中智能对象图层的图层组合选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
@@ -16,7 +16,7 @@ public int CompId { get; set; }
 
 ### 适当的价值
 
-PSD图像中子文档当前选择的comp的ID，如果没有选择，则为-1。
+PSD图像中子文档当前选择的comp的ID，如果没有选择则为-1。
 
 ### 例子
 

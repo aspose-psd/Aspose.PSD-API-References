@@ -21,7 +21,7 @@ public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 
 ### Возвращаемое значение
 
-Нижний слой после объединения
+Нижний слой после слияния
 
 ### Смотрите также
 

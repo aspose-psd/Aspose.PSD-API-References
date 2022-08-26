@@ -3,7 +3,7 @@ title: WarpMode
 second_title: Aspose.PSD for .NET API 参考
 description: 指定应用的扭曲变换的类型
 type: docs
-weight: 5610
+weight: 5660
 url: /zh/net/aspose.psd/warpmode/
 ---
 ## WarpMode enumeration

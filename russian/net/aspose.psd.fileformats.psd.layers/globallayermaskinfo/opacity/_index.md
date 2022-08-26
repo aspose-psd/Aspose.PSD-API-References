@@ -1,14 +1,14 @@
 ---
 title: Opacity
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает непрозрачность глобальных слоев. 0  прозрачный 100  непрозрачный.
+description: Получает или задает непрозрачность глобальных слоев. 0  прозрачный 100  непрозрачный.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/opacity/
 ---
 ## GlobalLayerMaskInfo.Opacity property
 
-Получает или устанавливает непрозрачность глобальных слоев. 0 = прозрачный, 100 = непрозрачный.
+Получает или задает непрозрачность глобальных слоев. 0 = прозрачный, 100 = непрозрачный.
 
 ```csharp
 public short Opacity { get; set; }

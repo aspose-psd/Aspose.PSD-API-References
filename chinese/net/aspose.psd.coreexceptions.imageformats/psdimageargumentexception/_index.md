@@ -18,8 +18,8 @@ public class PsdImageArgumentException : PsdImageException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PsdImageArgumentException](psdimageargumentexception#constructor)(string) | 初始化[`PsdImageArgumentException`](../psdimageargumentexception)类的新实例。 |
-| [PsdImageArgumentException](psdimageargumentexception#constructor_1)(string, Exception) | 初始化[`PsdImageArgumentException`](../psdimageargumentexception)类的新实例。 |
+| [PsdImageArgumentException](psdimageargumentexception#constructor)(string) | 初始化[`PsdImageArgumentException`](../psdimageargumentexception)类. |
+| [PsdImageArgumentException](psdimageargumentexception#constructor_1)(string, Exception) | 初始化[`PsdImageArgumentException`](../psdimageargumentexception)类. |
 
 ### 也可以看看
 

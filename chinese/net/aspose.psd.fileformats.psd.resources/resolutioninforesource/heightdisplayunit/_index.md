@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/heightd
 ---
 ## ResolutionInfoResource.HeightDisplayUnit property
 
-获取或设置高度显示单位。
+获取或设置高度显示单位
 
 ```csharp
 public PhysicalUnit HeightDisplayUnit { get; set; }

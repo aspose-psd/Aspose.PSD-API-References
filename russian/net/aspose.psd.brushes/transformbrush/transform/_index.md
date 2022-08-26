@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает копиюMatrixaspose.psd/matrix которая определяет локальное геометрическое преобразование для этогоTransformBrushaspose.psd.brushes/transformbrush.
+description: Получает или устанавливает копиюMatrixaspose.psd/matrix который определяет локальное геометрическое преобразование для этогоTransformBrushaspose.psd.brushes/transformbrush .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.brushes/transformbrush/transform/
 ---
 ## TransformBrush.Transform property
 
-Получает или задает копию[`Matrix`](../../../aspose.psd/matrix), которая определяет локальное геометрическое преобразование для этого[`TransformBrush`](../../transformbrush).
+Получает или устанавливает копию[`Matrix`](../../../aspose.psd/matrix) который определяет локальное геометрическое преобразование для этого[`TransformBrush`](../../transformbrush) .
 
 ```csharp
 public Matrix Transform { get; set; }
@@ -16,7 +16,7 @@ public Matrix Transform { get; set; }
 
 ### Возвращаемое значение
 
-Копия[`Matrix`](../../../aspose.psd/matrix)которая определяет геометрическое преобразование, которое применяется только для заливки, нарисованной с помощью этого[`TransformBrush`](../../transformbrush).
+Копия[`Matrix`](../../../aspose.psd/matrix) который определяет геометрическое преобразование, которое применяется только к заливкам, нарисованным с помощью этого[`TransformBrush`](../../transformbrush).
 
 ### Смотрите также
 

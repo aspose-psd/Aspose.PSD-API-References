@@ -16,8 +16,8 @@ public void SetToDefaultValueInPosition(int channelIndex, byte position)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
-| position | Byte | 位置。 |
+| channelIndex | Int32 | 频道索引。 |
+| position | Byte | 立场。 |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ISOSpeedLatitudeZZZ
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение широты zzz скорости ISO камеры или устройства ввода определенное в ISO 12232.
+description: Получает или задает значение широты zzz скорости ISO камеры или устройства ввода которое определено в ISO 12232.
 type: docs
 weight: 720
 url: /ru/net/aspose.psd.exif/exifdata/isospeedlatitudezzz/
 ---
 ## ExifData.ISOSpeedLatitudeZZZ property
 
-Получает или задает значение широты zzz скорости ISO камеры или устройства ввода, определенное в ISO 12232.
+Получает или задает значение широты zzz скорости ISO камеры или устройства ввода, которое определено в ISO 12232.
 
 ```csharp
 public uint ISOSpeedLatitudeZZZ { get; set; }

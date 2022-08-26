@@ -1,14 +1,14 @@
 ---
 title: PsdImage
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPsdImageaspose.psd.fileformats.psd/psdimageпо указанному пути из растрового изображения не psd изображение в пути. Используется для инициализации psd изображения с параметрами по умолчанию - Цветовой режим - rgb 4 канала 8 бит на канал Сжатие - Raw.
+description: Инициализирует новый экземплярPsdImageaspose.psd.fileformats.psd/psdimage класс из указанного пути из растрового изображения не изображение psd в пути. Используется для инициализации psd изображения с параметрами по умолчанию  Цветовой режим  rgb 4 канала 8 бит на канал Сжатие  Raw.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/psdimage/
 ---
 ## PsdImage(string) {#constructor_6}
 
-Инициализирует новый экземпляр класса[`PsdImage`](../../psdimage)по указанному пути из растрового изображения (не psd изображение в пути). Используется для инициализации psd изображения с параметрами по умолчанию - Цветовой режим - rgb, 4 канала, 8 бит на канал, Сжатие - Raw.
+Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс из указанного пути из растрового изображения (не изображение psd в пути). Используется для инициализации psd изображения с параметрами по умолчанию - Цветовой режим - rgb, 4 канала, 8 бит на канал, Сжатие - Raw.
 
 ```csharp
 public PsdImage(string path)
@@ -28,7 +28,7 @@ public PsdImage(string path)
 
 ## PsdImage(string, ColorModes, short, short, int, CompressionMethod) {#constructor_7}
 
-Инициализирует новый экземпляр класса[`PsdImage`](../../psdimage)по указанному пути из растрового изображения (не psd изображение в пути) с параметрами конструктора.
+Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс из указанного пути из растрового изображения (не psd-изображение в пути) с параметрами конструктора.
 
 ```csharp
 public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short channels, 
@@ -40,7 +40,7 @@ public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short 
 | path | String | Путь для загрузки данных пикселей и палитры и инициализации. |
 | colorMode | ColorModes | Цветовой режим. |
 | channelBitDepth | Int16 | Битовая глубина PSD на канал. |
-| channels | Int16 | Количество каналов PSD. |
+| channels | Int16 | Каналы PSD учитываются. |
 | psdVersion | Int32 | Версия PSD. |
 | compression | CompressionMethod | Используемое сжатие. |
 
@@ -56,7 +56,7 @@ public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short 
 
 ## PsdImage(Stream) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`PsdImage`](../../psdimage)по указанному пути из растрового изображения (не psd изображение в потоке). Используется для инициализации psd изображения с параметрами по умолчанию - Цветовой режим - rgb, 4 канала, 8 бит на канал, Сжатие - Raw.
+Инициализирует новый экземпляр[`PsdImage`](../../psdimage) class из указанного пути из растрового изображения (не psd изображения в потоке). Используется для инициализации psd изображения с параметрами по умолчанию - Цветовой режим - rgb, 4 канала, 8 бит на канал, Сжатие - Raw.
 
 ```csharp
 public PsdImage(Stream stream)
@@ -64,7 +64,7 @@ public PsdImage(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, из которого загружаются данные о пикселях и палитре и выполняется инициализация. |
+| stream | Stream | Поток для загрузки данных пикселей и палитры и инициализации. |
 
 ### Смотрите также
 
@@ -76,7 +76,7 @@ public PsdImage(Stream stream)
 
 ## PsdImage(Stream, ColorModes, short, short, int, CompressionMethod) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`PsdImage`](../../psdimage)по указанному пути из растрового изображения (не psd изображение в потоке) с параметрами конструктора.
+Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс из указанного пути из растрового изображения (не psd изображения в потоке) с параметрами конструктора.
 
 ```csharp
 public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, short channels, 
@@ -85,10 +85,10 @@ public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, shor
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток, из которого загружаются данные о пикселях и палитре и выполняется инициализация. |
+| stream | Stream | Поток для загрузки данных пикселей и палитры и инициализации. |
 | colorMode | ColorModes | Цветовой режим. |
 | channelBitDepth | Int16 | Битовая глубина PSD на канал. |
-| channels | Int16 | Количество каналов PSD. |
+| channels | Int16 | Каналы PSD учитываются. |
 | psdVersion | Int32 | Версия PSD. |
 | compression | CompressionMethod | Используемое сжатие. |
 
@@ -104,7 +104,7 @@ public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, shor
 
 ## PsdImage(RasterImage) {#constructor}
 
-Инициализирует новый экземпляр класса[`PsdImage`](../../psdimage)из существующего растрового изображения (не psd изображения) с цветовым режимом RGB с 4 каналами 8 бит/канал и без сжатия.
+Инициализирует новый экземпляр[`PsdImage`](../../psdimage)класс из существующего растрового изображения (не psd) с цветовым режимом RGB с 4 каналами 8 бит/канал и без сжатия.
 
 ```csharp
 public PsdImage(RasterImage rasterImage)
@@ -112,7 +112,7 @@ public PsdImage(RasterImage rasterImage)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rasterImage | RasterImage | Изображение для загрузки данных о пикселях и палитре и инициализации. |
+| rasterImage | RasterImage | Изображение для загрузки данных пикселей и палитры и инициализации. |
 
 ### Смотрите также
 
@@ -125,7 +125,7 @@ public PsdImage(RasterImage rasterImage)
 
 ## PsdImage(RasterImage, ColorModes, short, short, int, CompressionMethod) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PsdImage`](../../psdimage)из существующего растрового изображения (не psd изображения) с параметрами конструктора.
+Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс из существующего растрового изображения (не psd) с параметрами конструктора.
 
 ```csharp
 public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitDepth, 
@@ -134,10 +134,10 @@ public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitD
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rasterImage | RasterImage | Изображение для загрузки данных о пикселях и палитре и инициализации. |
+| rasterImage | RasterImage | Изображение для загрузки данных пикселей и палитры и инициализации. |
 | colorMode | ColorModes | Цветовой режим. |
 | channelBitDepth | Int16 | Битовая глубина PSD на канал. |
-| channels | Int16 | Количество каналов PSD. |
+| channels | Int16 | Каналы PSD учитываются. |
 | psdVersion | Int32 | Версия PSD. |
 | compression | CompressionMethod | Используемое сжатие. |
 
@@ -154,7 +154,7 @@ public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitD
 
 ## PsdImage(int, int) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PsdImage`](../../psdimage)с указанными шириной и высотой. Используется для инициализации пустого изображения psd.
+Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс с заданной шириной и высотой. Используется для инициализации пустого изображения PSD.
 
 ```csharp
 public PsdImage(int width, int height)
@@ -175,7 +175,7 @@ public PsdImage(int width, int height)
 
 ## PsdImage(int, int, IColorPalette, ColorModes, short, short, int, CompressionMethod) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`PsdImage`](../../psdimage)с указанными шириной, высотой, палитрой, цветом режим, количество каналов и разрядность каналов, а также заданные параметры режима сжатия. Используется для инициализации пустого изображения psd.
+Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс с заданной шириной, высотой, палитрой, цветовым режимом, количеством каналов и разрядностью каналов, а также указанными параметрами режима сжатия. Используется для инициализации пустого изображения PSD.
 
 ```csharp
 public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes colorMode, 
@@ -189,7 +189,7 @@ public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes co
 | colorPalette | IColorPalette | Цветовая палитра. |
 | colorMode | ColorModes | Цветовой режим. |
 | channelBitDepth | Int16 | Битовая глубина PSD на канал. |
-| channels | Int16 | Количество каналов PSD. |
+| channels | Int16 | Каналы PSD учитываются. |
 | psdVersion | Int32 | Версия PSD. |
 | compression | CompressionMethod | Используемое сжатие. |
 

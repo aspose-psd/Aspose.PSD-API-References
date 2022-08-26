@@ -1,14 +1,14 @@
 ---
 title: Clipping
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置图层剪辑 0  基础1  非基础
+description: 获取或设置图层裁剪 0  基础1  非基础.
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/clipping/
 ---
 ## Layer.Clipping property
 
-获取或设置图层剪辑。 0 = 基础，1 = 非基础。
+获取或设置图层裁剪。 0 = 基础，1 = 非基础.
 
 ```csharp
 public byte Clipping { get; set; }

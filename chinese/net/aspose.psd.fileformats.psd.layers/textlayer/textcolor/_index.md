@@ -16,7 +16,7 @@ public Color TextColor { get; }
 
 ### 适当的价值
 
-文本的颜色。
+文字的颜色。
 
 ### 例外
 

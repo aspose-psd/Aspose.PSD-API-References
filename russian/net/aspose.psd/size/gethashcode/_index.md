@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Возвращает хэш-код для этойSizeaspose.psd/sizeструктуры.
+description: Возвращает хешкод для этогоSizeaspose.psd/sizeструктура.
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/size/gethashcode/
 ---
 ## Size.GetHashCode method
 
-Возвращает хэш-код для этой[`Size`](../../size)структуры.
+Возвращает хеш-код для этого[`Size`](../../size)структура.
 
 ```csharp
 public override int GetHashCode()
@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Целочисленное значение, указывающее хеш-значение для этой[`Size`](../../size)структуры.
+Целочисленное значение, указывающее хеш-значение для этого[`Size`](../../size) структура.
 
 ### Смотрите также
 

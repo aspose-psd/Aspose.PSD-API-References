@@ -1,14 +1,14 @@
 ---
 title: KnownColor
 second_title: Справочник по Aspose.PSD для .NET API
-description: Задает известные системные цвета.
+description: Определяет известные системные цвета.
 type: docs
-weight: 4920
+weight: 4970
 url: /ru/net/aspose.psd/knowncolor/
 ---
 ## KnownColor enumeration
 
-Задает известные системные цвета.
+Определяет известные системные цвета.
 
 ```csharp
 public enum KnownColor

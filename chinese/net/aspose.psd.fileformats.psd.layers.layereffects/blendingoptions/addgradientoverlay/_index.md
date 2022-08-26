@@ -1,14 +1,14 @@
 ---
 title: AddGradientOverlay
 second_title: Aspose.PSD for .NET API 参考
-description: 添加渐变叠加
+description: 添加渐变叠加层
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
 ## BlendingOptions.AddGradientOverlay method
 
-添加渐变叠加。
+添加渐变叠加层。
 
 ```csharp
 public GradientOverlayEffect AddGradientOverlay()
@@ -16,7 +16,7 @@ public GradientOverlayEffect AddGradientOverlay()
 
 ### 返回值
 
-已创建[`GradientOverlayEffect`](../../gradientoverlayeffect)对象
+已创建[`GradientOverlayEffect`](../../gradientoverlayeffect)object
 
 ### 也可以看看
 

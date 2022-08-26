@@ -1,14 +1,14 @@
 ---
 title: MixrResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс MixrResource. Ресурс корректирующего слоя микшера каналов
+description: Класс MixrResource. Ресурс настройки микшера каналов Layer
 type: docs
-weight: 2760
+weight: 2800
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/
 ---
 ## MixrResource class
 
-Класс MixrResource. Ресурс корректирующего слоя микшера каналов
+Класс MixrResource. Ресурс настройки микшера каналов Layer
 
 ```csharp
 public sealed class MixrResource : AdjustmentLayerResource
@@ -18,8 +18,8 @@ public sealed class MixrResource : AdjustmentLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [MixrResource](mixrresource#constructor)() | Инициализирует новый экземпляр класса[`MixrResource`](../mixrresource). Спецификация формата PSD содержит следующее описание: 2 Версия (= 1) 2 Монохромный 20 цветов RGB или CMYK плюс константа для настроек микшера. 4 * 2 байта цвета с 2 байтами константы. |
-| [MixrResource](mixrresource#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`MixrResource`](../mixrresource). Спецификация формата PSD содержит следующее описание: 2 Версия (= 1) 2 Монохромный 20 цветов RGB или CMYK плюс константа для настроек микшера. 4 * 2 байта цвета с 2 байтами константы. |
+| [MixrResource](mixrresource#constructor)() | Инициализирует новый экземпляр[`MixrResource`](../mixrresource) class. Спецификация формата PSD содержит следующее описание: 2 Версия (= 1) 2 Monochrome 20 цветов RGB или CMYK плюс константа для настроек микшера. 4 * 2 байта цвета с 2 байтами константы. |
+| [MixrResource](mixrresource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`MixrResource`](../mixrresource) class. Спецификация формата PSD содержит следующее описание: 2 Версия (= 1) 2 Monochrome 20 цветов RGB или CMYK плюс константа для настроек микшера. 4 * 2 байта цвета с 2 байтами константы. |
 
 ## Характеристики
 
@@ -27,8 +27,8 @@ public sealed class MixrResource : AdjustmentLayerResource
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| [Monochrome](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome) { get; set; } | Получает или задает значение, указывающее, является ли этот[`MixrResource`](../mixrresource)монохромным. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/psdversion) { get; } | Получает версию в формате psd. |
+| [Monochrome](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome) { get; set; } | Получает или задает значение, указывающее, является ли это[`MixrResource`](../mixrresource) монохромный. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Получает подпись. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version) { get; set; } | Получает или задает версию. |
 
@@ -39,13 +39,13 @@ public sealed class MixrResource : AdjustmentLayerResource
 | [GetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo)(int) | Получает сырые данные информации о канале |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
 | [SetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/setchannelinfo)(int, byte[]) | Устанавливает информацию о канале. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

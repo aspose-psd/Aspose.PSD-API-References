@@ -3,7 +3,7 @@ title: IGradientFillSettings
 second_title: Справочник по Aspose.PSD для .NET API
 description: Базовый интерфейс для настроек заливки
 type: docs
-weight: 1950
+weight: 1990
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/
 ---
 ## IGradientFillSettings interface
@@ -22,18 +22,18 @@ public interface IGradientFillSettings : IFillSettings
 | [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/angle) { get; set; } | Получает или задает угол. |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/color) { get; set; } | Получает или задает цвет. |
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints) { get; set; } | Получает точки цвета. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither) { get; set; } | Получает или задает значение, указывающее, является ли это[`IGradientFillSettings`](../igradientfillsettings)дизерингом. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither) { get; set; } | Получает или задает значение, указывающее, является ли это[`IGradientFillSettings`](../igradientfillsettings) дизеринг. |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname) { get; set; } | Получает или задает имя градиента. |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype) { get; set; } | Получает или задает тип градиента. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset) { get; set; } | Получает или задает смещение по горизонтали. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse) { get; set; } | Получает или задает значение, указывающее, является ли это[`IGradientFillSettings`](../igradientfillsettings)обратным. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse) { get; set; } | Получает или задает значение, указывающее, является ли это[`IGradientFillSettings`](../igradientfillsettings) является обратным. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale) { get; set; } | Получает или задает масштаб. |
 | [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints) { get; set; } | Получает очки прозрачности. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/verticaloffset) { get; set; } | Получает или задает вертикальное смещение. |
 
 ### Примеры
 
-Следующий пример демонстрирует поддержку Gradient FillLayer и параметры редактирования IGradientFillSettings..
+В следующем примере демонстрируется поддержка Gradient FillLayer и параметры редактирования IGradientFillSettings.
 
 ```csharp
 [C#]

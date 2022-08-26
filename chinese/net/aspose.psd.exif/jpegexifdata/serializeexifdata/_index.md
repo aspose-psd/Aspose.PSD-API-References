@@ -20,7 +20,7 @@ public byte[] SerializeExifData()
 
 ### 评论
 
-整体段大小必须小于或等于 MaxExifSegmentSize 字节才能生成正确的 jpeg 图像。 提示：尝试减小缩略图大小或更改其压缩，以防 EXIF 部分大小过大。
+整体段大小必须小于或等于 MaxExifSegmentSize 字节才能生成正确的 jpeg 图像。 提示：尝试减小缩略图大小或更改其压缩，以防 EXIF 段大小过大。
 
 ### 也可以看看
 

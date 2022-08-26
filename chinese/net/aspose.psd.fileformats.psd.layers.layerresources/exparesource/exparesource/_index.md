@@ -1,14 +1,14 @@
 ---
 title: ExpaResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ExpaResourceaspose.psd.fileformats.psd.layers.layerresources/exparesource类的新实例
+description: 初始化ExpaResourceaspose.psd.fileformats.psd.layers.layerresources/exparesource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exparesource/
 ---
 ## ExpaResource() {#constructor}
 
-初始化[`ExpaResource`](../../exparesource)类的新实例。
+初始化[`ExpaResource`](../../exparesource)类.
 
 ```csharp
 public ExpaResource()
@@ -24,7 +24,7 @@ public ExpaResource()
 
 ## ExpaResource(float, float, float) {#constructor_2}
 
-初始化[`ExpaResource`](../../exparesource)类的新实例。
+初始化[`ExpaResource`](../../exparesource)类.
 
 ```csharp
 public ExpaResource(float exposure, float offset, float gamma)
@@ -34,7 +34,7 @@ public ExpaResource(float exposure, float offset, float gamma)
 | --- | --- | --- |
 | exposure | Single | 曝光。 |
 | offset | Single | 偏移量。 |
-| gamma | Single | 伽玛。 |
+| gamma | Single | 伽马。 |
 
 ### 也可以看看
 
@@ -46,7 +46,7 @@ public ExpaResource(float exposure, float offset, float gamma)
 
 ## ExpaResource(byte[]) {#constructor_1}
 
-初始化[`ExpaResource`](../../exparesource)类的新实例。
+初始化[`ExpaResource`](../../exparesource)类.
 
 ```csharp
 public ExpaResource(byte[] bytes)

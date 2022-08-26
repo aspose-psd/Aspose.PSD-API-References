@@ -1,14 +1,14 @@
 ---
 title: KnkoResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化KnkoResourceaspose.psd.fileformats.psd.layers.layerresources/knkoresource类的新实例
+description: 初始化KnkoResourceaspose.psd.fileformats.psd.layers.layerresources/knkoresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
 ## KnkoResource(bool) {#constructor_1}
 
-初始化[`KnkoResource`](../../knkoresource)类的新实例。
+初始化[`KnkoResource`](../../knkoresource)类.
 
 ```csharp
 public KnkoResource(bool knockout)
@@ -16,7 +16,7 @@ public KnkoResource(bool knockout)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| knockout | Boolean | 如果设置为` true` [混合内部元素]。 |
+| knockout | Boolean | 如果设置为`真的` [融合内部元素]。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public KnkoResource(bool knockout)
 
 ## KnkoResource() {#constructor}
 
-初始化[`KnkoResource`](../../knkoresource)类的新实例。
+初始化[`KnkoResource`](../../knkoresource)类.
 
 ```csharp
 public KnkoResource()
@@ -44,7 +44,7 @@ public KnkoResource()
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-初始化[`KnkoResource`](../../knkoresource)类的新实例。 具有自定义或未知值
+初始化[`KnkoResource`](../../knkoresource) class. 具有自定义或未知值
 
 ```csharp
 public KnkoResource(byte[] data)
@@ -58,7 +58,7 @@ public KnkoResource(byte[] data)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | Knko 资源值无效 |
+| ArgumentException | 无效的 Knko 资源值 |
 
 ### 也可以看看
 

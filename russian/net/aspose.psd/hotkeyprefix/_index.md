@@ -3,7 +3,7 @@ title: HotkeyPrefix
 second_title: Справочник по Aspose.PSD для .NET API
 description: Указывает тип отображения префиксов горячих клавиш относящихся к тексту.
 type: docs
-weight: 4230
+weight: 4280
 url: /ru/net/aspose.psd/hotkeyprefix/
 ---
 ## HotkeyPrefix enumeration

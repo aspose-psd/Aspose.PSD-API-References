@@ -1,14 +1,14 @@
 ---
 title: DitheringMethod
 second_title: Aspose.PSD for .NET API 参考
-description: 抖动方法
+description: 抖动方法.
 type: docs
 weight: 770
 url: /zh/net/aspose.psd/ditheringmethod/
 ---
 ## DitheringMethod enumeration
 
-抖动方法。
+抖动方法.
 
 ```csharp
 public enum DitheringMethod
@@ -19,7 +19,7 @@ public enum DitheringMethod
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | ThresholdDithering | `0` | 阈值抖动。最简单最快的抖动算法。 |
-| FloydSteinbergDithering | `1` | Floyd-Steinberg 抖动。一种更复杂的抖动算法，使用最近邻强度值。 |
+| FloydSteinbergDithering | `1` | Floyd-Steinberg 抖动。更复杂的抖动算法，使用最近邻强度值。 |
 
 ### 也可以看看
 

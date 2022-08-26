@@ -24,16 +24,16 @@ public sealed class VectorShapeBoundingBox
 
 | Имя | Описание |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom) { get; set; } | Получает или устанавливает нижнюю часть. |
-| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds) { get; set; } | Получает или задает границы ограничительной рамки фигуры. |
-| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left) { get; set; } | Получает или устанавливает значение слева. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion) { get; set; } | Получает или задает четырехъядерную версию значения модуля. |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom) { get; set; } | Получает или задает нижнюю часть. |
+| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds) { get; set; } | Получает или задает границы ограничивающей рамки фигуры. |
+| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left) { get; set; } | Получает или задает значение слева. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion) { get; set; } | Получает или задает четырехъядерную версию значения единицы измерения. |
 | [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right) { get; set; } | Получает или устанавливает право. |
 | [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top) { get; set; } | Получает или устанавливает верхнюю часть. |
 
 ### Примеры
 
-В этом примере показано, что загрузка и сохранение изображения PSD со слоями формы и векторными путями работает правильно.
+В этом примере показано, что загрузка и сохранение изображения PSD со слоями-фигурами и векторными путями работает правильно.
 
 ```csharp
 [C#]

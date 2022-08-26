@@ -16,7 +16,7 @@ public int[] Argb32Entries { get; }
 
 ### 返回值
 
-构成此[`ColorPalette`](../../colorpalette)的 32 位 ARGB 结构数组。
+组成这个的 32 位 ARGB 结构数组[`ColorPalette`](../../colorpalette) .
 
 ### 适当的价值
 

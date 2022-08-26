@@ -3,7 +3,7 @@ title: XmpTrailerPi
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет инструкцию обработки трейлера XMP.
 type: docs
-weight: 6190
+weight: 6240
 url: /ru/net/aspose.psd.xmp/xmptrailerpi/
 ---
 ## XmpTrailerPi class
@@ -18,8 +18,8 @@ public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
 
 | Имя | Описание |
 | --- | --- |
-| [XmpTrailerPi](xmptrailerpi#constructor)() | Инициализирует новый экземпляр класса[`XmpTrailerPi`](../xmptrailerpi). |
-| [XmpTrailerPi](xmptrailerpi#constructor_1)(bool) | Инициализирует новый экземпляр класса[`XmpTrailerPi`](../xmptrailerpi). |
+| [XmpTrailerPi](xmptrailerpi#constructor)() | Инициализирует новый экземпляр[`XmpTrailerPi`](../xmptrailerpi) класс. |
+| [XmpTrailerPi](xmptrailerpi#constructor_1)(bool) | Инициализирует новый экземпляр[`XmpTrailerPi`](../xmptrailerpi) класс. |
 
 ## Характеристики
 
@@ -31,18 +31,18 @@ public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals#equals_1)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
+| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals#equals_1)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
 | [Equals](../../aspose.psd.xmp/xmptrailerpi/equals#equals)(XmpTrailerPi) | Указывает, равен ли текущий объект другому объекту того же типа. |
 | override [GetHashCode](../../aspose.psd.xmp/xmptrailerpi/gethashcode)() | Возвращает хэш-код для этого экземпляра. |
 | [GetXmlValue](../../aspose.psd.xmp/xmptrailerpi/getxmlvalue)() | Преобразует значение xmp в представление xml. |
 
 ### Примечания
 
-Часть end="w" или end="r" должна использоваться процессорами сканирования пакетов чтобы определить, может ли XMP быть изменен на месте.
+Часть end="w" или end="r" должна использоваться процессорами сканирования пакетов для определения возможности изменения XMP на месте.
 
 ### Примеры
 
-Допустимые формы трейлера PI: &lt;?xpacket end=" w"?&gt;&lt;?xpacket end="r"?&gt;
+Разрешенные формы трейлера PI:
 
 ### Смотрите также
 

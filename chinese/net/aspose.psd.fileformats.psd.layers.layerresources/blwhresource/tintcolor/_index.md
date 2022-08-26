@@ -20,7 +20,7 @@ public int TintColor { get; set; }
 
 ### 例子
 
-以下示例演示如何编辑 BlwhResource。
+以下示例演示了如何编辑 BlwhResource。
 
 ```csharp
 [C#]

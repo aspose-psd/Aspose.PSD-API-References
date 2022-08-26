@@ -1,14 +1,14 @@
 ---
 title: Grayscale
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПолучаетPixelDataFormataspose.psd/pixeldataformatопределенный для 8 бит на пиксель с 8 битами представляющими интенсивность оттенков серого в интервале 0-255 .
+description: ПолучаетPixelDataFormataspose.psd/pixeldataformatопределяется для 8 бит на пиксель где 8 бит представляют интенсивность оттенков серого в интервале 0255.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/pixeldataformat/grayscale/
 ---
 ## PixelDataFormat.Grayscale property
 
-Получает[`PixelDataFormat`](../../pixeldataformat)определенный для 8 бит на пиксель с 8 битами, представляющими интенсивность оттенков серого в интервале 0-255 .
+Получает[`PixelDataFormat`](../../pixeldataformat)определяется для 8 бит на пиксель, где 8 бит представляют интенсивность оттенков серого в интервале 0-255.
 
 ```csharp
 public static PixelDataFormat Grayscale { get; }
@@ -16,7 +16,7 @@ public static PixelDataFormat Grayscale { get; }
 
 ### Стоимость имущества
 
-Формат[`PixelDataFormat`](../../pixeldataformat)определен для 8 бит на пиксель с 8 битами, представляющими интенсивность оттенков серого в интервале 0-255.
+[`PixelDataFormat`](../../pixeldataformat)определяется для 8 бит на пиксель, где 8 бит представляют интенсивность оттенков серого в интервале 0-255.
 
 ### Смотрите также
 

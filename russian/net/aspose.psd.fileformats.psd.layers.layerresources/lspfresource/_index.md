@@ -1,14 +1,14 @@
 ---
 title: LspfResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Настройки защищенного слоя
+description: Защищенные настройки слоя
 type: docs
-weight: 2730
+weight: 2770
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/
 ---
 ## LspfResource class
 
-Настройки защищенного слоя
+Защищенные настройки слоя
 
 ```csharp
 public class LspfResource : LayerResource
@@ -18,16 +18,16 @@ public class LspfResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [LspfResource](lspfresource#constructor)() | Инициализирует новый экземпляр класса[`LspfResource`](../lspfresource). |
-| [LspfResource](lspfresource#constructor_2)(byte[]) | Инициализирует новый экземпляр класса[`LspfResource`](../lspfresource). С пользовательским или неизвестным значением |
-| [LspfResource](lspfresource#constructor_1)(bool, bool, bool) | Инициализирует новый экземпляр класса[`LspfResource`](../lspfresource). |
+| [LspfResource](lspfresource#constructor)() | Инициализирует новый экземпляр[`LspfResource`](../lspfresource) класс. |
+| [LspfResource](lspfresource#constructor_2)(byte[]) | Инициализирует новый экземпляр[`LspfResource`](../lspfresource) class. С пользовательским или неизвестным значением |
+| [LspfResource](lspfresource#constructor_1)(bool, bool, bool) | Инициализирует новый экземпляр[`LspfResource`](../lspfresource) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [IsCompositeProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected) { get; set; } | Получает или задает значение, указывающее, является ли данный экземпляр защищенным составным. |
-| [IsPositionProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected) { get; set; } | Получает или задает значение, указывающее, является ли этот экземпляр защищенным по положению. |
+| [IsPositionProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected) { get; set; } | Получает или задает значение, указывающее, защищен ли этот экземпляр по положению. |
 | [IsTransparencyProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected) { get; set; } | Получает или задает значение, указывающее, защищен ли этот экземпляр от прозрачности. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/length) { get; } | Получает длину ресурса слоя в байтах. |
@@ -40,13 +40,13 @@ public class LspfResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey) | Ключ информации о типе инструмента 1819504742 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey) | Информационный ключ типа инструмента 1819504742 |
 
 ### Смотрите также
 

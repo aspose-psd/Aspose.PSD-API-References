@@ -1,14 +1,14 @@
 ---
 title: ResizeHeightProportionally
 second_title: Справочник по Aspose.PSD для .NET API
-description: Пропорционально изменяет размер высоты.
+description: Изменяет размер высоты пропорционально.
 type: docs
 weight: 590
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/
 ---
 ## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
 
-Пропорционально изменяет размер высоты.
+Изменяет размер высоты пропорционально.
 
 ```csharp
 public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
@@ -30,7 +30,7 @@ public override void ResizeHeightProportionally(int newHeight, ImageResizeSettin
 
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
-Пропорционально изменяет размер высоты.
+Изменяет размер высоты пропорционально.
 
 ```csharp
 public override void ResizeHeightProportionally(int newHeight, ResizeType resizeType)

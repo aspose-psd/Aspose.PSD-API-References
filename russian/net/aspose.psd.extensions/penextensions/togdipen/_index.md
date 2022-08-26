@@ -1,14 +1,14 @@
 ---
 title: ToGdiPen
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПреобразуетPenaspose.psd/penвPen.
+description: ПреобразуетPenaspose.psd/pen кPen .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/penextensions/togdipen/
 ---
 ## PenExtensions.ToGdiPen method
 
-Преобразует[`Pen`](../../../aspose.psd/pen)вPen.
+Преобразует[`Pen`](../../../aspose.psd/pen) кPen .
 
 ```csharp
 public static Pen ToGdiPen(Pen pen)
@@ -16,7 +16,7 @@ public static Pen ToGdiPen(Pen pen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../../aspose.psd/pen)для преобразования. |
+| pen | Pen | [`Pen`](../../../aspose.psd/pen) конвертировать. |
 
 ### Возвращаемое значение
 

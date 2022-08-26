@@ -1,14 +1,14 @@
 ---
 title: FillType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Тип заполнения
+description: Тип заливки
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/
 ---
 ## ColorFillSettings.FillType property
 
-Тип заполнения
+Тип заливки
 
 ```csharp
 public override FillType FillType { get; }

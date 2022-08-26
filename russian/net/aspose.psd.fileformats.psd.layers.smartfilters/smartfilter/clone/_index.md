@@ -1,14 +1,14 @@
 ---
 title: Clone
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает поэлементное клонирование текущего экземпляра типа.
+description: Создает почленный клон текущего экземпляра типа.
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/
 ---
 ## SmartFilter.Clone method
 
-Создает поэлементное клонирование текущего экземпляра типа.
+Создает почленный клон текущего экземпляра типа.
 
 ```csharp
 public SmartFilter Clone()

@@ -3,7 +3,7 @@ title: UnitTypes
 second_title: Aspose.PSD for .NET API 参考
 description: 单位类型
 type: docs
-weight: 3180
+weight: 3230
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/
 ---
 ## UnitTypes enumeration
@@ -18,9 +18,9 @@ public enum UnitTypes
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Angle | `591490663` | 角度单位。 |
-| Density | `592606060` | 密度单位。 |
-| Distance | `592604276` | 距离单位。 |
+| Angle | `591490663` | 角度单位. |
+| Density | `592606060` | 密度单位. |
+| Distance | `592604276` | 距离单位. |
 | None | `592342629` | 未定义单位。 |
 | Percent | `592474723` | 百分比单位。 |
 | Pixels | `592476268` | 像素单位。 |

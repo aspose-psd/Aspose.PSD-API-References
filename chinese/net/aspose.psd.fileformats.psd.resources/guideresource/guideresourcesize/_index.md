@@ -1,14 +1,14 @@
 ---
 title: GuideResourceSize
 second_title: Aspose.PSD for .NET API 参考
-description: 引导资源块大小
+description: 指导资源块大小
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/
 ---
 ## GuideResource.GuideResourceSize field
 
-引导资源块大小。
+指导资源块大小。
 
 ```csharp
 public const int GuideResourceSize;

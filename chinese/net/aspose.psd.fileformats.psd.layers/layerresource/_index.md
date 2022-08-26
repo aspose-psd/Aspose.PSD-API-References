@@ -1,14 +1,14 @@
 ---
 title: LayerResource
 second_title: Aspose.PSD for .NET API 参考
-description: 表示图层信息
+description: 代表图层信息
 type: docs
-weight: 2220
+weight: 2260
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresource/
 ---
 ## LayerResource class
 
-表示图层信息。
+代表图层信息。
 
 ```csharp
 public abstract class LayerResource
@@ -18,8 +18,8 @@ public abstract class LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | 获取层资源密钥。 |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | 获取图层资源键。 |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | abstract [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature) { get; } | 获取图层资源签名。 |
 
@@ -28,13 +28,13 @@ public abstract class LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [PsbResourceSignature](../../aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature) | PSB 特定的资源签名。 |
+| const [PsbResourceSignature](../../aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature) | 特定于 PSB 的资源签名。 |
 | const [ResourceSignature](../../aspose.psd.fileformats.psd.layers/layerresource/resourcesignature) | 公共资源签名。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: SolidBrush
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаSolidBrushaspose.psd.brushes/solidbrush.
+description: Инициализирует новый экземплярSolidBrushaspose.psd.brushes/solidbrush класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.brushes/solidbrush/solidbrush/
 ---
 ## SolidBrush() {#constructor}
 
-Инициализирует новый экземпляр класса[`SolidBrush`](../../solidbrush).
+Инициализирует новый экземпляр[`SolidBrush`](../../solidbrush) класс.
 
 ```csharp
 public SolidBrush()
@@ -24,7 +24,7 @@ public SolidBrush()
 
 ## SolidBrush(Color) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SolidBrush`](../../solidbrush).
+Инициализирует новый экземпляр[`SolidBrush`](../../solidbrush) класс.
 
 ```csharp
 public SolidBrush(Color color)

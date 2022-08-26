@@ -3,7 +3,7 @@ title: LayerHashCalculator
 second_title: Aspose.PSD for .NET API 参考
 description: PSD 层的哈希计算器它可用于在不同的 PSD 文件中找到相等或不同的层
 type: docs
-weight: 2170
+weight: 2210
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
 ## LayerHashCalculator class
@@ -18,19 +18,19 @@ public class LayerHashCalculator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator)(Layer) | 初始化[`LayerHashCalculator`](../layerhashcalculator)类的新实例。 |
+| [LayerHashCalculator](layerhashcalculator)(Layer) | 初始化[`LayerHashCalculator`](../layerhashcalculator)类. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash)() | 获取混合哈希。 |
-| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash)() | 获取通道哈希。 |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash)() | 获取混合哈希值。 |
+| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash)() | 获取频道哈希值。 |
 | [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash)() | 获取内容哈希。 |
 
 ### 例子
 
-以下代码演示了获取不同文件中相似层的唯一哈希的 API。
+以下代码演示了用于获取不同文件中相似层的唯一哈希的 API。
 
 ```csharp
 [C#]

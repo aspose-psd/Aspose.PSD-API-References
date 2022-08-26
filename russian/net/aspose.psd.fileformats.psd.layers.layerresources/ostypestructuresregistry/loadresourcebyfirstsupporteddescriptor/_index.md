@@ -1,14 +1,14 @@
 ---
 title: LoadResourceByFirstSupportedDescriptor
 second_title: Справочник по Aspose.PSD для .NET API
-description: ЗагружаетOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructureиспользуя первый найденный открыватель подходящий для указанногопоток.
+description: ЗагрузкиOSTypeStructureaspose.psd.fileformats.psd.layers.layerresources/ostypestructure с помощью первого найденного открывателя подходящего для указанногоstream .
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/
 ---
 ## OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor method
 
-Загружает[`OSTypeStructure`](../../ostypestructure)используя первый найденный открыватель, подходящий для указанного*поток*.
+Загрузки[`OSTypeStructure`](../../ostypestructure) с помощью первого найденного открывателя, подходящего для указанного*stream* .
 
 ```csharp
 public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stream)
@@ -20,11 +20,11 @@ public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stre
 
 ### Возвращаемое значение
 
-Загруженный[`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource)или null, если нет открывашка найдена.
+Загруженный[`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource) или null, если открыватель не найден.
 
 ### Примечания
 
-Первый открыватель будет фактически последним зарегистрированным.
+Первый открыватель будет последним зарегистрированным.
 
 ### Смотрите также
 

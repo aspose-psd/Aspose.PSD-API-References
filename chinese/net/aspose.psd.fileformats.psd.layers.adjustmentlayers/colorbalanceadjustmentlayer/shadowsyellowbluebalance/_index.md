@@ -16,13 +16,13 @@ public short ShadowsYellowBlueBalance { get; set; }
 
 ### 适当的价值
 
-阴影黄色蓝色平衡。
+阴影黄色蓝色平衡.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Yellow Blue Balance 必须在 -100 到 +100 的范围内。 |
+| ArgumentOutOfRangeException | 阴影黄色蓝色平衡必须在 -100 到 +100 的范围内。 |
 
 ### 例子
 

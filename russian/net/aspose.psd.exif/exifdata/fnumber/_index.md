@@ -1,7 +1,7 @@
 ---
 title: FNumber
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает F-число.
+description: Получает или задает Fчисло.
 type: docs
 weight: 280
 url: /ru/net/aspose.psd.exif/exifdata/fnumber/

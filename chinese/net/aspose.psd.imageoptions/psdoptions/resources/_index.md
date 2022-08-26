@@ -1,14 +1,14 @@
 ---
 title: Resources
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 psd 资源
+description: 获取或设置psd资源
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.imageoptions/psdoptions/resources/
 ---
 ## PsdOptions.Resources property
 
-获取或设置 psd 资源。
+获取或设置psd资源
 
 ```csharp
 public ResourceBlock[] Resources { get; set; }
@@ -16,7 +16,7 @@ public ResourceBlock[] Resources { get; set; }
 
 ### 适当的价值
 
-psd 资源。
+psd资源。
 
 ### 也可以看看
 

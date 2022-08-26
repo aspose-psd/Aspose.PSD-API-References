@@ -1,14 +1,14 @@
 ---
 title: FormatFlags
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает перечислениеStringFormatFlagsaspose.psd/stringformatflags содержащее информацию о форматировании.
+description: Получает или задаетStringFormatFlagsaspose.psd/stringformatflags перечисление содержащее информацию о форматировании.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/stringformat/formatflags/
 ---
 ## StringFormat.FormatFlags property
 
-Получает или задает перечисление[`StringFormatFlags`](../../stringformatflags), содержащее информацию о форматировании.
+Получает или задает[`StringFormatFlags`](../../stringformatflags) перечисление, содержащее информацию о форматировании.
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
@@ -16,7 +16,7 @@ public StringFormatFlags FormatFlags { get; set; }
 
 ### Стоимость имущества
 
-A[`StringFormatFlags`](../../stringformatflags)перечисление, содержащее информацию о форматировании.
+А[`StringFormatFlags`](../../stringformatflags) перечисление, содержащее информацию о форматировании.
 
 ### Смотрите также
 

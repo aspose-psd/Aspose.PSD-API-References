@@ -1,14 +1,14 @@
 ---
 title: AliasStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаAliasStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure.
+description: Инициализирует новый экземплярAliasStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/aliasstructure/
 ---
 ## AliasStructure constructor
 
-Инициализирует новый экземпляр класса[`AliasStructure`](../../aliasstructure).
+Инициализирует новый экземпляр[`AliasStructure`](../../aliasstructure) класс.
 
 ```csharp
 public AliasStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public AliasStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 

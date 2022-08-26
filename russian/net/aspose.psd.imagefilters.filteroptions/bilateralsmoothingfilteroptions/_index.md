@@ -3,7 +3,7 @@ title: BilateralSmoothingFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Параметры фильтра двустороннего сглаживания.
 type: docs
-weight: 4540
+weight: 4590
 url: /ru/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/
 ---
 ## BilateralSmoothingFilterOptions class
@@ -18,8 +18,8 @@ public class BilateralSmoothingFilterOptions : FilterOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions#constructor)() | Инициализирует новый экземпляр класса[`BilateralSmoothingFilterOptions`](../bilateralsmoothingfilteroptions). |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions#constructor_1)(int) | Инициализирует новый экземпляр класса[`BilateralSmoothingFilterOptions`](../bilateralsmoothingfilteroptions). |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions#constructor)() | Инициализирует новый экземпляр[`BilateralSmoothingFilterOptions`](../bilateralsmoothingfilteroptions) класс. |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions#constructor_1)(int) | Инициализирует новый экземпляр[`BilateralSmoothingFilterOptions`](../bilateralsmoothingfilteroptions) класс. |
 
 ## Характеристики
 
@@ -27,7 +27,7 @@ public class BilateralSmoothingFilterOptions : FilterOptionsBase
 | --- | --- |
 | [ColorFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor) { get; set; } | Получает или задает коэффициент цвета. |
 | [ColorPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower) { get; set; } | Получает или задает мощность цвета. |
-| [Size](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size) { get; set; } | Получает или задает размер ядра. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size) { get; set; } | Получает или устанавливает размер ядра. |
 | [SpatialFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor) { get; set; } | Получает или задает пространственный фактор. |
 | [SpatialPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower) { get; set; } | Получает или задает пространственную мощность. |
 

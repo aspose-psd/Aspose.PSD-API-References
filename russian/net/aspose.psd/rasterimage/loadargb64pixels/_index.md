@@ -1,7 +1,7 @@
 ---
 title: LoadArgb64Pixels
 second_title: Справочник по Aspose.PSD для .NET API
-description: Загружает 64-битные пиксели ARGB.
+description: Загружает 64битные пиксели ARGB.
 type: docs
 weight: 360
 url: /ru/net/aspose.psd/rasterimage/loadargb64pixels/

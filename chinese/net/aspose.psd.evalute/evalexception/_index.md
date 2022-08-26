@@ -18,7 +18,7 @@ public class EvalException : Exception
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Message](../../aspose.psd.evalute/evalexception/message) { get; } | 获取与此异常关联的消息 |
+| override [Message](../../aspose.psd.evalute/evalexception/message) { get; } | 获取与此异常相关的消息 |
 
 ### 也可以看看
 

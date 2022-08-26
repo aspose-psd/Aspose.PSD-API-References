@@ -16,7 +16,7 @@ public void ResizeWidthProportionally(int newWidth)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 
 ### 也可以看看
 
@@ -36,7 +36,7 @@ public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeTyp
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 | resizeType | ResizeType | 调整大小的类型。 |
 
 ### 也可以看看
@@ -58,7 +58,7 @@ public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings 
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 | settings | ImageResizeSettings | 图像调整大小设置。 |
 
 ### 也可以看看

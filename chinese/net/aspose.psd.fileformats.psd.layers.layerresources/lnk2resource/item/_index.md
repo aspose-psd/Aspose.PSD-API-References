@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PSD for .NET API 参考
-description: 获取指定索引处的LiFdDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifddatasource
+description: 获取LiFdDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifddatasource在指定的索引处
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/
 ---
 ## Lnk2Resource indexer
 
-获取指定索引处的[`LiFdDataSource`](../../lifddatasource)。
+获取[`LiFdDataSource`](../../lifddatasource)在指定的索引处。
 
 ```csharp
 public LiFdDataSource this[int index] { get; }
@@ -16,15 +16,15 @@ public LiFdDataSource this[int index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 指数。 |
 
 ### 返回值
 
-[`LiFdDataSource`](../../lifddatasource)实例。
+的[`LiFdDataSource`](../../lifddatasource)实例.
 
 ### 适当的价值
 
-[`LiFdDataSource`](../../lifddatasource)。
+的[`LiFdDataSource`](../../lifddatasource) .
 
 ### 例子
 

@@ -3,7 +3,7 @@ title: IRasterImageRawDataLoader
 second_title: Aspose.PSD for .NET API 参考
 description: 光栅图像原始数据加载器
 type: docs
-weight: 4460
+weight: 4510
 url: /zh/net/aspose.psd/irasterimagerawdataloader/
 ---
 ## IRasterImageRawDataLoader interface

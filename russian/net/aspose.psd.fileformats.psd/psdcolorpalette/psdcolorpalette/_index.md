@@ -1,14 +1,14 @@
 ---
 title: PsdColorPalette
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPsdColorPaletteaspose.psd.fileformats.psd/psdcolorpalette.
+description: Инициализирует новый экземплярPsdColorPaletteaspose.psd.fileformats.psd/psdcolorpalette класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd/psdcolorpalette/psdcolorpalette/
 ---
 ## PsdColorPalette(IColorPalette) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette).
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс.
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette)
@@ -29,7 +29,7 @@ public PsdColorPalette(IColorPalette colorPalette)
 
 ## PsdColorPalette(IColorPalette, short) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette).
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс.
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
@@ -38,7 +38,7 @@ public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Цветовая палитра. |
-| transparentIndex | Int16 | Индекс прозрачности цвета. |
+| transparentIndex | Int16 | Индекс прозрачного цвета. |
 
 ### Смотрите также
 
@@ -51,7 +51,7 @@ public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
 
 ## PsdColorPalette(byte[], bool) {#constructor_7}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette).
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
@@ -60,7 +60,7 @@ public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | Необработанные данные записей. |
-| isCompactPalette | Boolean | Указывает, компактна ли палитра. |
+| isCompactPalette | Boolean | Указание на компактность палитры. |
 
 ### Смотрите также
 
@@ -72,7 +72,7 @@ public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
 
 ## PsdColorPalette(byte[]) {#constructor_6}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette), а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс, а IsCompactPalette имеет значение false.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData)
@@ -92,7 +92,7 @@ public PsdColorPalette(byte[] rawEntriesData)
 
 ## PsdColorPalette(byte[], short, bool) {#constructor_9}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette).
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCompactPalette)
@@ -101,8 +101,8 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCo
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | Необработанные данные записей. |
-| transparentIndex | Int16 | Индекс прозрачности цвета. Обратите внимание, что индекс не является необработанным индексом записей, а предназначен для преобразованного массива цветов. |
-| useCompactPalette | Boolean | Указывает, компактна ли палитра. |
+| transparentIndex | Int16 | Индекс прозрачного цвета. Обратите внимание, что индекс не является необработанным индексом записей, а предназначен для преобразованного массива цветов. |
+| useCompactPalette | Boolean | Указание на компактность палитры. |
 
 ### Смотрите также
 
@@ -114,7 +114,7 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCo
 
 ## PsdColorPalette(byte[], short) {#constructor_8}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette), а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс, а IsCompactPalette имеет значение false.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
@@ -123,7 +123,7 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | Необработанные данные записей. |
-| transparentIndex | Int16 | Индекс прозрачности цвета. Обратите внимание, что индекс не является необработанным индексом записей, а предназначен для преобразованного массива цветов. |
+| transparentIndex | Int16 | Индекс прозрачного цвета. Обратите внимание, что индекс не является необработанным индексом записей, а предназначен для преобразованного массива цветов. |
 
 ### Смотрите также
 
@@ -135,7 +135,7 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
 
 ## PsdColorPalette(int[], bool) {#constructor_10}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette).
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс.
 
 ```csharp
 public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
@@ -143,8 +143,8 @@ public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorPaletteArgb32Entries | Int32[] | 32-битные записи ARGB цветовой палитры. |
-| isCompactPalette | Boolean | Указывает, компактна ли палитра. |
+| colorPaletteArgb32Entries | Int32[] | Цветовая палитра 32-битных записей ARGB. |
+| isCompactPalette | Boolean | Указание на компактность палитры. |
 
 ### Смотрите также
 
@@ -156,7 +156,7 @@ public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
 
 ## PsdColorPalette(Color[], bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette).
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
@@ -165,7 +165,7 @@ public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | Записи цветовой палитры. |
-| isCompactPalette | Boolean | Указывает, компактна ли палитра. |
+| isCompactPalette | Boolean | Указание на компактность палитры. |
 
 ### Смотрите также
 
@@ -178,7 +178,7 @@ public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
 
 ## PsdColorPalette(Color[]) {#constructor}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette), а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс, а IsCompactPalette имеет значение false.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries)
@@ -199,7 +199,7 @@ public PsdColorPalette(Color[] colorPaletteEntries)
 
 ## PsdColorPalette(Color[], short, bool) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette).
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool useCompactPalette)
@@ -208,8 +208,8 @@ public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | Записи цветовой палитры. |
-| transparentIndex | Int16 | Индекс прозрачности цвета. |
-| useCompactPalette | Boolean | Указывает, компактна ли палитра. |
+| transparentIndex | Int16 | Индекс прозрачного цвета. |
+| useCompactPalette | Boolean | Указание на компактность палитры. |
 
 ### Смотрите также
 
@@ -222,7 +222,7 @@ public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool
 
 ## PsdColorPalette(Color[], short) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`PsdColorPalette`](../../psdcolorpalette), а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр[`PsdColorPalette`](../../psdcolorpalette) класс, а IsCompactPalette имеет значение false.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
@@ -231,7 +231,7 @@ public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | Записи цветовой палитры. |
-| transparentIndex | Int16 | Индекс прозрачности цвета. |
+| transparentIndex | Int16 | Индекс прозрачного цвета. |
 
 ### Смотрите также
 

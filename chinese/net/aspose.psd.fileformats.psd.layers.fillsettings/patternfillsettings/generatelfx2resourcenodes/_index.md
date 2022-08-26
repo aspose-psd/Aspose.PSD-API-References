@@ -21,13 +21,13 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
 | color | Color | 颜色。 |
 | patternName | String | 模式的名称。 |
 | identifier | String | 标识符。 |
-| scale | Double | 比例。 |
-| linked | Boolean | 如果设置为` true` [链接]。 |
+| scale | Double | 规模。 |
+| linked | Boolean | 如果设置为`真的` [链接]。 |
 | offset | PointF | 偏移量。 |
 
 ### 返回值
 
-[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
+清单[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
 
 ### 也可以看看
 

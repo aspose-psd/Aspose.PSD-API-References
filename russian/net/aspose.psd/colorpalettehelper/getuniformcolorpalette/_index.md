@@ -1,14 +1,14 @@
 ---
 title: GetUniformColorPalette
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получите единую палитру из 256 цветов.
+description: Получить единую палитру из 256 цветов.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/colorpalettehelper/getuniformcolorpalette/
 ---
 ## ColorPaletteHelper.GetUniformColorPalette method
 
-Получите единую палитру из 256 цветов.
+Получить единую палитру из 256 цветов.
 
 ```csharp
 public static ColorPalette GetUniformColorPalette(RasterImage image)
@@ -20,7 +20,7 @@ public static ColorPalette GetUniformColorPalette(RasterImage image)
 
 ### Возвращаемое значение
 
-The[`ColorPalette`](../../colorpalette).
+[`ColorPalette`](../../colorpalette) .
 
 ### Смотрите также
 

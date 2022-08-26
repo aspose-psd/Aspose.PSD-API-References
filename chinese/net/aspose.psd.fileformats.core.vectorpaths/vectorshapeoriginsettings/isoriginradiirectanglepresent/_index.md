@@ -16,7 +16,7 @@ public bool IsOriginRadiiRectanglePresent { get; }
 
 ### 适当的价值
 
-` true` 如果此实例具有原点半径矩形属性；否则，` false` 。
+`真的`如果此实例具有原点半径矩形属性；否则，`错误的` .
 
 ### 也可以看看
 

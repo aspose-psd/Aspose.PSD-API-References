@@ -1,14 +1,14 @@
 ---
 title: JFIFData
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаJFIFDataaspose.psd.fileformats.jpeg/jfifdata.
+description: Инициализирует новый экземплярJFIFDataaspose.psd.fileformats.jpeg/jfifdata класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
 ## JFIFData constructor
 
-Инициализирует новый экземпляр класса[`JFIFData`](../../jfifdata).
+Инициализирует новый экземпляр[`JFIFData`](../../jfifdata) класс.
 
 ```csharp
 public JFIFData()

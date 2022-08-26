@@ -16,7 +16,7 @@ public GradientColorPoint AddColorPoint()
 
 ### 返回值
 
-创建色点
+创建的色点
 
 ### 也可以看看
 

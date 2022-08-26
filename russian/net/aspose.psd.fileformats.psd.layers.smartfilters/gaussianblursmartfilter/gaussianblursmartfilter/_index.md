@@ -1,14 +1,14 @@
 ---
 title: GaussianBlurSmartFilter
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаGaussianBlurSmartFilteraspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter.
+description: Инициализирует новый экземплярGaussianBlurSmartFilteraspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/gaussianblursmartfilter/
 ---
 ## GaussianBlurSmartFilter constructor
 
-Инициализирует новый экземпляр класса[`GaussianBlurSmartFilter`](../../gaussianblursmartfilter).
+Инициализирует новый экземпляр[`GaussianBlurSmartFilter`](../../gaussianblursmartfilter) класс.
 
 ```csharp
 public GaussianBlurSmartFilter()

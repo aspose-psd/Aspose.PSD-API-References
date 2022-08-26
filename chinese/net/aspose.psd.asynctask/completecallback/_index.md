@@ -1,14 +1,14 @@
 ---
 title: CompleteCallback
 second_title: Aspose.PSD for .NET API 参考
-description: 回调函数接收任务完成事件
+description: 接收任务完成事件的回调函数
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.asynctask/completecallback/
 ---
 ## CompleteCallback delegate
 
-回调函数接收任务完成事件。
+接收任务完成事件的回调函数。
 
 ```csharp
 public delegate void CompleteCallback(IAsyncTask task, bool wasCancelled, Exception error);
@@ -17,7 +17,7 @@ public delegate void CompleteCallback(IAsyncTask task, bool wasCancelled, Except
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | task | IAsyncTask | 异步任务。 |
-| wasCancelled | Boolean | 如果设置为` true` [已取消]。 |
+| wasCancelled | Boolean | 如果设置为`真的` [被取消]。 |
 | error | Exception | 错误。 |
 
 ### 也可以看看

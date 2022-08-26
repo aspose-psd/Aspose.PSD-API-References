@@ -22,8 +22,8 @@ public ushort[] MaxSampleValue { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | value |
-| ArgumentOutOfRangeException | value;数组长度必须对应每个像素计数的样本。 |
+| ArgumentNullException | 价值 |
+| ArgumentOutOfRangeException | value;数组长度必须对应于每像素计数的样本。 |
 
 ### 也可以看看
 

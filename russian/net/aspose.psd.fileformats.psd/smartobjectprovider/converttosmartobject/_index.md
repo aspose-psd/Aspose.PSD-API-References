@@ -1,7 +1,7 @@
 ---
 title: ConvertToSmartObject
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует слои во встроенный смарт-объект.
+description: Преобразует слои во встроенный смартобъект.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/
@@ -20,7 +20,7 @@ public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 
 ### Возвращаемое значение
 
-Созданный[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)экземпляр.
+Созданный[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) экземпляр.
 
 ### Исключения
 
@@ -51,7 +51,7 @@ public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
 
 ### Возвращаемое значение
 
-Созданный[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer)экземпляр.
+Созданный[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) экземпляр.
 
 ### Исключения
 

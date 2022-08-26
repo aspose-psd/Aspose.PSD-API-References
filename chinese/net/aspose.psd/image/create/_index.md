@@ -17,7 +17,7 @@ public static Image Create(ImageOptionsBase imageOptions, int width, int height)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | 图像选项。 |
-| width | Int32 | 宽度。 |
+| width | Int32 | 宽度. |
 | height | Int32 | 高度。 |
 
 ### 返回值
@@ -26,7 +26,7 @@ public static Image Create(ImageOptionsBase imageOptions, int width, int height)
 
 ### 例子
 
-此示例在 PsdOptions 实例的 Source 属性指定的某个磁盘位置创建一个新图像文件。在创建实际图像之前设置 PsdOptions 实例的几个属性。特别是 Source 属性，在这种情况下指的是实际的磁盘位置。
+此示例在 PsdOptions 实例的 Source 属性指定的某个磁盘位置创建一个新的图像文件。在创建实际图像之前设置 PsdOptions 实例的几个属性。特别是 Source 属性，在这种情况下指的是实际的磁盘位置。
 
 ```csharp
 [C#]

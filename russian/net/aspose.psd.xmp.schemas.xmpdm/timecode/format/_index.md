@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает формат используемый вTimeValueaspose.psd.xmp.schemas.xmpdm/timecode/timevalue.
+description: Получает или задает формат используемый вTimeValueaspose.psd.xmp.schemas.xmpdm/timecode/timevalue .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timecode/format/
 ---
 ## Timecode.Format property
 
-Получает или задает формат, используемый в[`TimeValue`](../timevalue).
+Получает или задает формат, используемый в[`TimeValue`](../timevalue) .
 
 ```csharp
 public TimeFormat Format { get; set; }
@@ -16,7 +16,7 @@ public TimeFormat Format { get; set; }
 
 ### Стоимость имущества
 
-Формат, используемый в схемах[`TimeValue`](../timevalue).
+Формат, используемый в[`TimeValue`](../timevalue) .
 
 ### Смотрите также
 

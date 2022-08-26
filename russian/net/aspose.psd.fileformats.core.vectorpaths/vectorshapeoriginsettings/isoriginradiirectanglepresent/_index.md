@@ -1,14 +1,14 @@
 ---
 title: IsOriginRadiiRectanglePresent
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее имеет ли данный экземпляр свойство прямоугольника исходных радиусов.
+description: Получает значение указывающее имеет ли этот экземпляр свойство прямоугольника исходных радиусов.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/
 ---
 ## VectorShapeOriginSettings.IsOriginRadiiRectanglePresent property
 
-Получает значение, указывающее, имеет ли данный экземпляр свойство прямоугольника исходных радиусов.
+Получает значение, указывающее, имеет ли этот экземпляр свойство прямоугольника исходных радиусов.
 
 ```csharp
 public bool IsOriginRadiiRectanglePresent { get; }
@@ -16,7 +16,7 @@ public bool IsOriginRadiiRectanglePresent { get; }
 
 ### Стоимость имущества
 
-` true` , если этот экземпляр имеет свойство прямоугольника исходных радиусов; в противном случае` false` .
+`истинный` если этот экземпляр имеет свойство прямоугольника исходных радиусов; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

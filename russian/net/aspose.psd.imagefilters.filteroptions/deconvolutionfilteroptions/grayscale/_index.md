@@ -1,14 +1,14 @@
 ---
 title: Grayscale
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этотDeconvolutionFilterOptionsaspose.psd.imagefilters.filteroptions/deconvolutionfilteroptionsв градациях серого. Вернуть режим оттенков серого или режим RGB.
+description: Получает или задает значение указывающее является ли этоDeconvolutionFilterOptionsaspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions в градациях серого. Вернуть режим градаций серого или режим RGB.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/
 ---
 ## DeconvolutionFilterOptions.Grayscale property
 
-Получает или задает значение, указывающее, является ли этот[`DeconvolutionFilterOptions`](../../deconvolutionfilteroptions)в градациях серого. Вернуть режим оттенков серого или режим RGB.
+Получает или задает значение, указывающее, является ли это[`DeconvolutionFilterOptions`](../../deconvolutionfilteroptions) в градациях серого. Вернуть режим градаций серого или режим RGB.
 
 ```csharp
 public bool Grayscale { get; set; }
@@ -16,7 +16,7 @@ public bool Grayscale { get; set; }
 
 ### Стоимость имущества
 
-` true` если оттенки серого; в противном случае` false` .
+`истинный` если оттенки серого; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

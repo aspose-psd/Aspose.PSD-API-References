@@ -1,14 +1,14 @@
 ---
 title: BmpOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Параметры создания файла формата bmp.
+description: Опции создания формата файла bmp.
 type: docs
-weight: 4670
+weight: 4720
 url: /ru/net/aspose.psd.imageoptions/bmpoptions/
 ---
 ## BmpOptions class
 
-Параметры создания файла формата bmp.
+Опции создания формата файла bmp.
 
 ```csharp
 public class BmpOptions : ImageOptionsBase
@@ -18,24 +18,24 @@ public class BmpOptions : ImageOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [BmpOptions](bmpoptions#constructor)() | Инициализирует новый экземпляр класса[`BmpOptions`](../bmpoptions). |
-| [BmpOptions](bmpoptions#constructor_1)(BmpOptions) | Инициализирует новый экземпляр класса[`BmpOptions`](../bmpoptions). |
+| [BmpOptions](bmpoptions#constructor)() | Инициализирует новый экземпляр[`BmpOptions`](../bmpoptions) класс. |
+| [BmpOptions](bmpoptions#constructor_1)(BmpOptions) | Инициализирует новый экземпляр[`BmpOptions`](../bmpoptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [BitsPerPixel](../../aspose.psd.imageoptions/bmpoptions/bitsperpixel) { get; set; } | Получает или задает количество бит изображения на пиксель. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или устанавливает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
 | [Compression](../../aspose.psd.imageoptions/bmpoptions/compression) { get; set; } | Получает или задает сжатие. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или задает замещающий шрифт по умолчанию (шрифт, который будет использоваться для отрисовки текста при экспорте в растр, если существующий шрифт слоя в PSD-файле не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
 | [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
 | [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Получает или задает значение, указывающее, является ли [полный кадр]. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Многостраничные параметры |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Получает или задает цветовую палитру. |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Получает или задает обработчик события выполнения. |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Получает или задает параметры разрешения. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения. |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения в. |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Получает или задает параметры векторной растеризации. |
 | virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata) { get; set; } | Получает или задает контейнер метаданных XMP. |
 
@@ -48,7 +48,7 @@ public class BmpOptions : ImageOptionsBase
 
 ### Примеры
 
-Этот пример демонстрирует использование различных классов из пространства имен SaveOptions для целей экспорта. Изображение типа Psd загружается в экземпляр Image, а затем экспортируется в несколько форматов.
+В этом примере демонстрируется использование различных классов из пространства имен SaveOptions для целей экспорта. Изображение типа Psd загружается в экземпляр Image, а затем экспортируется в несколько форматов.
 
 ```csharp
 [C#]

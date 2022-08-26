@@ -1,14 +1,14 @@
 ---
 title: DataSize
 second_title: Aspose.PSD for .NET API 参考
-description: 获取图层蒙版蒙版数据的大小
+description: 获取图层蒙版掩码数据的大小
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers/layermaskdata/datasize/
 ---
 ## LayerMaskData.DataSize property
 
-获取图层蒙版蒙版数据的大小。
+获取图层蒙版掩码数据的大小。
 
 ```csharp
 public int DataSize { get; }
@@ -16,7 +16,7 @@ public int DataSize { get; }
 
 ### 适当的价值
 
-图层蒙版蒙版数据的大小。
+图层蒙版掩码数据的大小。
 
 ### 也可以看看
 

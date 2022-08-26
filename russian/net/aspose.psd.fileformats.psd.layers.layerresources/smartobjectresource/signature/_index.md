@@ -1,7 +1,7 @@
 ---
 title: Signature
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает подпись ресурса смарт-объекта.
+description: Получает подпись ресурса смартобъекта.
 type: docs
 weight: 210
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/

@@ -3,7 +3,7 @@ title: BlncResource
 second_title: Aspose.PSD for .NET API 参考
 description: BlncResource 类是颜色调整层的资源
 type: docs
-weight: 2250
+weight: 2290
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
 ## BlncResource class
@@ -18,23 +18,23 @@ public class BlncResource : AdjustmentLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BlncResource](blncresource)() | 初始化[`BlncResource`](../blncresource)类的新实例。 |
+| [BlncResource](blncresource)() | 初始化[`BlncResource`](../blncresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance) { get; set; } | 获取或设置高光青红平衡。 |
-| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance) { get; set; } | 获取或设置高光洋红色绿色平衡。 |
+| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance) { get; set; } | 获取或设置Highlights Magenta Green Balance。 |
 | [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance) { get; set; } | 获取或设置高光黄蓝平衡。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
-| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance) { get; set; } | 获取或设置中间调青色红色平衡。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length) { get; } | 以字节为单位获取层资源长度。 |
+| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance) { get; set; } | 获取或设置中间调青红平衡。 |
 | [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance) { get; set; } | 获取或设置中间调品红色绿色平衡。 |
 | [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance) { get; set; } | 获取或设置中间调黄蓝平衡。 |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity) { get; set; } | 获取或设置一个值，该值指示此[`BlncResource`](../blncresource)是否保留亮度。 |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity) { get; set; } | 获取或设置一个值，该值指示是否[`BlncResource`](../blncresource)保留光度. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion) { get; } | 获取 PSD 版本。 |
-| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance) { get; set; } | 获取或设置阴影青色红色平衡。 |
+| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance) { get; set; } | 获取或设置阴影青红平衡。 |
 | [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance) { get; set; } | 获取或设置阴影洋红色绿色平衡。 |
 | [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance) { get; set; } | 获取或设置阴影黄蓝平衡。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | 获取签名。 |
@@ -44,7 +44,7 @@ public class BlncResource : AdjustmentLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

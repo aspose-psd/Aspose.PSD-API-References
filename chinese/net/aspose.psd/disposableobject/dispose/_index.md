@@ -1,14 +1,14 @@
 ---
 title: Dispose
 second_title: Aspose.PSD for .NET API 参考
-description: 释放当前实例
+description: 处理当前实例
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/disposableobject/dispose/
 ---
 ## DisposableObject.Dispose method
 
-释放当前实例。
+处理当前实例。
 
 ```csharp
 public void Dispose()

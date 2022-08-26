@@ -1,14 +1,14 @@
 ---
 title: ShmdResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ShmdResourceaspose.psd.fileformats.psd.layers.layerresources/shmdresource类的新实例
+description: 初始化ShmdResourceaspose.psd.fileformats.psd.layers.layerresources/shmdresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
 ## ShmdResource() {#constructor}
 
-初始化[`ShmdResource`](../../shmdresource)类的新实例。
+初始化[`ShmdResource`](../../shmdresource)类.
 
 ```csharp
 public ShmdResource()
@@ -24,7 +24,7 @@ public ShmdResource()
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-初始化[`ShmdResource`](../../shmdresource)类的新实例。
+初始化[`ShmdResource`](../../shmdresource)类.
 
 ```csharp
 public ShmdResource(byte[] data)

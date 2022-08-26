@@ -1,14 +1,14 @@
 ---
 title: Underline
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее подчеркнуто ли.
+description: Получает или задает значение указывающее является ли подчеркивание.
 type: docs
 weight: 240
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/underline/
 ---
 ## ITextStyle.Underline property
 
-Получает или задает значение, указывающее, [подчеркнуто ли].
+Получает или задает значение, указывающее, является ли [подчеркивание].
 
 ```csharp
 public bool Underline { get; set; }

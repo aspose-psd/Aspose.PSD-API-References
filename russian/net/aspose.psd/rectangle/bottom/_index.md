@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает координату y которая является суммойYaspose.psd/rectangle/yиHeightaspose.psd/rectangle/heightзначения свойств этойRectangleaspose.psd/rectangleструктуры.
+description: Получает или задает координату y которая является суммойYaspose.psd/rectangle/y а такжеHeightaspose.psd/rectangle/height значения свойств этогоRectangleaspose.psd/rectangleструктура.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/rectangle/bottom/
 ---
 ## Rectangle.Bottom property
 
-Получает или задает координату y, которая является суммой[`Y`](../y)и[`Height`](../height)значения свойств этой[`Rectangle`](../../rectangle)структуры.
+Получает или задает координату y, которая является суммой[`Y`](../y) а также[`Height`](../height) значения свойств этого[`Rectangle`](../../rectangle)структура.
 
 ```csharp
 public int Bottom { get; set; }
@@ -16,7 +16,7 @@ public int Bottom { get; set; }
 
 ### Стоимость имущества
 
-Координата Y, являющаяся суммой[`Y`](../y)и[`Height`](../height)этого[`Rectangle`](../../rectangle).
+Координата Y, представляющая собой сумму[`Y`](../y) а также[`Height`](../height) этого[`Rectangle`](../../rectangle) .
 
 ### Смотрите также
 

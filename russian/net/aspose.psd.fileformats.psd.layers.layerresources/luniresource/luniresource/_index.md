@@ -1,14 +1,14 @@
 ---
 title: LuniResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLuniResourceaspose.psd.fileformats.psd.layers.layerresources/luniresource.
+description: Инициализирует новый экземплярLuniResourceaspose.psd.fileformats.psd.layers.layerresources/luniresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/luniresource/
 ---
 ## LuniResource constructor
 
-Инициализирует новый экземпляр класса[`LuniResource`](../../luniresource).
+Инициализирует новый экземпляр[`LuniResource`](../../luniresource) класс.
 
 ```csharp
 public LuniResource()

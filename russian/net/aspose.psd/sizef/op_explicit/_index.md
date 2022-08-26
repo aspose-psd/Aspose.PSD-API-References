@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует указанныйSizeFaspose.psd/sizefвPointFaspose.psd/pointf.
+description: Преобразует указанныйSizeFaspose.psd/sizef кPointFaspose.psd/pointf .
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/sizef/op_explicit/
 ---
 ## SizeF Explicit operator
 
-Преобразует указанный[`SizeF`](../../sizef)в[`PointF`](../../pointf).
+Преобразует указанный[`SizeF`](../../sizef) к[`PointF`](../../pointf) .
 
 ```csharp
 public static explicit operator PointF(SizeF size)
@@ -16,11 +16,11 @@ public static explicit operator PointF(SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | SizeF | Преобразуемая структура[`SizeF`](../../sizef) |
+| size | SizeF | [`SizeF`](../../sizef) структура, подлежащая преобразованию |
 
 ### Возвращаемое значение
 
-[`PointF`](../../pointf)структура, в которую преобразует этот оператор.
+[`PointF`](../../pointf) структура, в которую преобразуется этот оператор.
 
 ### Смотрите также
 

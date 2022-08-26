@@ -1,14 +1,14 @@
 ---
 title: Load
 second_title: Справочник по Aspose.PSD для .NET API
-description: ЗагружаетLayerResourceaspose.psd.fileformats.psd.layers/layerresource.
+description: ЗагружаетLayerResourceaspose.psd.fileformats.psd.layers/layerresource .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/
 ---
 ## ILayerResourceLoader.Load method
 
-Загружает[`LayerResource`](../../layerresource).
+Загружает[`LayerResource`](../../layerresource) .
 
 ```csharp
 public LayerResource Load(StreamContainer streamContainer, int psdVersion)

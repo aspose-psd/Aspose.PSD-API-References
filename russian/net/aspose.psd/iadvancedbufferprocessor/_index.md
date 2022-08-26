@@ -3,7 +3,7 @@ title: IAdvancedBufferProcessor
 second_title: Справочник по Aspose.PSD для .NET API
 description: Расширенный буферный процессор.
 type: docs
-weight: 4240
+weight: 4290
 url: /ru/net/aspose.psd/iadvancedbufferprocessor/
 ---
 ## IAdvancedBufferProcessor interface

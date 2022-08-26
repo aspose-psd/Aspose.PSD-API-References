@@ -1,14 +1,14 @@
 ---
 title: AntiAliasPolicy
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает политику сглаживания размещенного слоя в изображении PSD.
+description: Получает или задает политику сглаживания для размещенного слоя в изображении PSD.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/
 ---
 ## IPlacedLayerResource.AntiAliasPolicy property
 
-Получает или задает политику сглаживания размещенного слоя в изображении PSD.
+Получает или задает политику сглаживания для размещенного слоя в изображении PSD.
 
 ```csharp
 public int AntiAliasPolicy { get; set; }

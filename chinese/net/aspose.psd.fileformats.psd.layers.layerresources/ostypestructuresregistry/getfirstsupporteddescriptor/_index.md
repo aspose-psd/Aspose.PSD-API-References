@@ -24,7 +24,7 @@ public static IOSTypeStructureLoader GetFirstSupportedDescriptor(Stream stream)
 
 ### 评论
 
-第一个加载器实际上是最后一个注册的。
+第一个加载器实际上是最后注册的。
 
 ### 也可以看看
 

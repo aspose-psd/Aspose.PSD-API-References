@@ -1,14 +1,14 @@
 ---
 title: ResolutionUnit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает единицу разрешения.
+description: Получает или задает единицу измерения разрешения.
 type: docs
 weight: 160
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/resolutionunit/
 ---
 ## JpegOptions.ResolutionUnit property
 
-Получает или задает единицу разрешения.
+Получает или задает единицу измерения разрешения.
 
 ```csharp
 public ResolutionUnit ResolutionUnit { get; set; }

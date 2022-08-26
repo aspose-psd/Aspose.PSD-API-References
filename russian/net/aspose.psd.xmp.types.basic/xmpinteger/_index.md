@@ -3,7 +3,7 @@ title: XmpInteger
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет базовый тип XMP Integer.
 type: docs
-weight: 5840
+weight: 5890
 url: /ru/net/aspose.psd.xmp.types.basic/xmpinteger/
 ---
 ## XmpInteger class
@@ -18,9 +18,9 @@ public sealed class XmpInteger : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [XmpInteger](xmpinteger#constructor)(int) | Инициализирует новый экземпляр класса[`XmpInteger`](../xmpinteger). |
-| [XmpInteger](xmpinteger#constructor_1)(long) | Инициализирует новый экземпляр класса[`XmpInteger`](../xmpinteger). |
-| [XmpInteger](xmpinteger#constructor_2)(string) | Инициализирует новый экземпляр класса[`XmpInteger`](../xmpinteger). |
+| [XmpInteger](xmpinteger#constructor)(int) | Инициализирует новый экземпляр[`XmpInteger`](../xmpinteger) класс. |
+| [XmpInteger](xmpinteger#constructor_1)(long) | Инициализирует новый экземпляр[`XmpInteger`](../xmpinteger) класс. |
+| [XmpInteger](xmpinteger#constructor_2)(string) | Инициализирует новый экземпляр[`XmpInteger`](../xmpinteger) класс. |
 
 ## Характеристики
 

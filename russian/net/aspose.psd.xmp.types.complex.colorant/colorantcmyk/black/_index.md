@@ -1,14 +1,14 @@
 ---
 title: Black
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение компонента черного.
+description: Получает или задает значение черного компонента.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/
 ---
 ## ColorantCmyk.Black property
 
-Получает или задает значение компонента черного.
+Получает или задает значение черного компонента.
 
 ```csharp
 public float Black { get; set; }

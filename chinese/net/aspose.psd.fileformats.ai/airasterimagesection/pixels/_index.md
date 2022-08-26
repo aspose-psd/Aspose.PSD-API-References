@@ -1,14 +1,14 @@
 ---
 title: Pixels
 second_title: Aspose.PSD for .NET API 参考
-description: 获取 int 颜色像素数组
+description: 获取 int 颜色像素的数组
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
 ## AiRasterImageSection.Pixels property
 
-获取 int 颜色像素数组。
+获取 int 颜色像素的数组。
 
 ```csharp
 public int[] Pixels { get; }
@@ -16,7 +16,7 @@ public int[] Pixels { get; }
 
 ### 适当的价值
 
-int 颜色像素数组。
+int 颜色像素的数组。
 
 ### 也可以看看
 

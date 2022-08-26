@@ -1,14 +1,14 @@
 ---
 title: Knockout
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否混合内部元素
+description: 获取或设置一个值指示是否混合内部元素.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
 ## KnkoResource.Knockout property
 
-获取或设置一个值，指示是否[混合内部元素]。
+获取或设置一个值，指示是否[混合内部元素].
 
 ```csharp
 public bool Knockout { get; set; }
@@ -16,7 +16,7 @@ public bool Knockout { get; set; }
 
 ### 适当的价值
 
-` true` if [混合内部元素]；否则，` false` 。
+`真的` if [混合内部元素];否则，`错误的` .
 
 ### 也可以看看
 

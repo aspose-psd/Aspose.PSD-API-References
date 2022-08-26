@@ -3,7 +3,7 @@ title: ImageFilterType
 second_title: Справочник по Aspose.PSD для .NET API
 description: Используемые фильтры изображений
 type: docs
-weight: 4520
+weight: 4570
 url: /ru/net/aspose.psd/imagefiltertype/
 ---
 ## ImageFilterType enumeration

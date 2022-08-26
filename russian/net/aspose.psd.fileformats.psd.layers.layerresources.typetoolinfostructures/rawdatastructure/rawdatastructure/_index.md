@@ -1,14 +1,14 @@
 ---
 title: RawDataStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаRawDataStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure.
+description: Инициализирует новый экземплярRawDataStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/rawdatastructure/
 ---
 ## RawDataStructure constructor
 
-Инициализирует новый экземпляр класса[`RawDataStructure`](../../rawdatastructure).
+Инициализирует новый экземпляр[`RawDataStructure`](../../rawdatastructure) класс.
 
 ```csharp
 public RawDataStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public RawDataStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 

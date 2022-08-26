@@ -37,7 +37,7 @@ public void UpdateText(string text, float fontSize)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | text | String | 文本值。 |
-| fontSize | Single | 字体大小。 |
+| fontSize | Single | 字体的大小。 |
 
 ### 也可以看看
 
@@ -80,7 +80,7 @@ public void UpdateText(string text, float fontSize, Color color)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | text | String | 文本值。 |
-| fontSize | Single | 字体大小。 |
+| fontSize | Single | 字体的大小。 |
 | color | Color | 颜色值。 |
 
 ### 也可以看看
@@ -104,7 +104,7 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 | --- | --- | --- |
 | text | String | 文本值。 |
 | leftTopCoordinate | Point | 左上坐标。 |
-| fontSize | Single | 字体大小。 |
+| fontSize | Single | 字体的大小。 |
 
 ### 也可以看看
 
@@ -173,7 +173,7 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Col
 | --- | --- | --- |
 | text | String | 文本值。 |
 | leftTopCoordinate | Point | 左上坐标。 |
-| fontSize | Single | 字体大小。 |
+| fontSize | Single | 字体的大小。 |
 | color | Color | 颜色值。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: ColorMatrix
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаColorMatrixaspose.psd/colormatrix.
+description: Инициализирует новый экземплярColorMatrixaspose.psd/colormatrix класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/colormatrix/colormatrix/
 ---
 ## ColorMatrix() {#constructor}
 
-Инициализирует новый экземпляр класса[`ColorMatrix`](../../colormatrix).
+Инициализирует новый экземпляр[`ColorMatrix`](../../colormatrix) класс.
 
 ```csharp
 public ColorMatrix()
@@ -24,7 +24,7 @@ public ColorMatrix()
 
 ## ColorMatrix(float[][]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ColorMatrix`](../../colormatrix), используя элементы указанной матрицы*newColorMatrix*.
+Инициализирует новый экземпляр[`ColorMatrix`](../../colormatrix) класс, использующий элементы в указанной матрице*newColorMatrix* .
 
 ```csharp
 public ColorMatrix(float[][] newColorMatrix)

@@ -1,14 +1,14 @@
 ---
 title: UpdateResourceValues
 second_title: Aspose.PSD for .NET API 参考
-description: 将智能过滤器数据更新到SmartObjectResourceaspose.psd.fileformats.psd.layers.layerresources/smartobjectresource
+description: 将智能过滤器数据更新到SmartObjectResourceaspose.psd.fileformats.psd.layers.layerresources/smartobjectresource .
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/
 ---
 ## SmartFilters.UpdateResourceValues method
 
-将智能过滤器数据更新到[`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource)。
+将智能过滤器数据更新到[`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource) .
 
 ```csharp
 public void UpdateResourceValues()

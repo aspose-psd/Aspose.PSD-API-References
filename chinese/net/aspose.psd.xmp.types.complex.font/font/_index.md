@@ -3,7 +3,7 @@ title: Font
 second_title: Aspose.PSD for .NET API 参考
 description: 代表 XMP 字体
 type: docs
-weight: 5950
+weight: 6000
 url: /zh/net/aspose.psd.xmp.types.complex.font/font/
 ---
 ## Font class
@@ -18,8 +18,8 @@ public sealed class Font : ComplexTypeBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Font](font#constructor)() | 初始化[`Font`](../font)类的新实例。 |
-| [Font](font#constructor_1)(string) | 初始化[`Font`](../font)类的新实例。 |
+| [Font](font#constructor)() | 初始化[`Font`](../font)类. |
+| [Font](font#constructor_1)(string) | 初始化[`Font`](../font)类. |
 
 ## 特性
 

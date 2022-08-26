@@ -1,14 +1,14 @@
 ---
 title: AlignedDataSize
 second_title: Aspose.PSD for .NET API 参考
-description: 获取以字节为单位的附加数据大小以防 12 个字节不足以容纳标签数据
+description: 获取以字节为单位的附加数据大小如果 12 个字节不足以容纳标签数据
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.tiff/tiffdatatype/aligneddatasize/
 ---
 ## TiffDataType.AlignedDataSize property
 
-获取以字节为单位的附加数据大小（以防 12 个字节不足以容纳标签数据）。
+获取以字节为单位的附加数据大小（如果 12 个字节不足以容纳标签数据）。
 
 ```csharp
 public uint AlignedDataSize { get; }
@@ -16,11 +16,11 @@ public uint AlignedDataSize { get; }
 
 ### 适当的价值
 
-附加数据大小（以字节为单位）。
+以字节为单位的附加数据大小。
 
 ### 评论
 
-这是与字边界对齐的数据字节计数。
+这是与字边界对齐的数据字节数。
 
 ### 也可以看看
 

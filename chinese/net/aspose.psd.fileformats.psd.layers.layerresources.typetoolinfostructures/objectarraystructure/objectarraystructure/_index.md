@@ -1,14 +1,14 @@
 ---
 title: ObjectArrayStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ObjectArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure类的新实例
+description: 初始化ObjectArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-初始化[`ObjectArrayStructure`](../../objectarraystructure)类的新实例。
+初始化[`ObjectArrayStructure`](../../objectarraystructure)类.
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
@@ -85,7 +85,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-初始化[`ObjectArrayStructure`](../../objectarraystructure)类的新实例。
+初始化[`ObjectArrayStructure`](../../objectarraystructure)类.
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
@@ -95,7 +95,7 @@ public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string cl
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | key | Int32 | 整数键。 |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 | classID | ClassID | 类标识符。 |
 | className | String | 类的名称。 |
 | structures | OSTypeStructure[] | 结构。 |
@@ -104,7 +104,7 @@ public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string cl
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | classID 为 null |
+| ArgumentNullException | 类 ID 为空 |
 
 ### 例子
 

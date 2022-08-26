@@ -3,7 +3,7 @@ title: XmpRightsManagementPackage
 second_title: Aspose.PSD for .NET API 参考
 description: 表示 XMP 权限管理命名空间
 type: docs
-weight: 5810
+weight: 5860
 url: /zh/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/
 ---
 ## XmpRightsManagementPackage class
@@ -24,7 +24,7 @@ public sealed class XmpRightsManagementPackage : XmpPackage
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | 获取或设置具有指定键的Object。 |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | 获取或设置Object使用指定的密钥。 |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | 获取 XMP 包中的密钥。 |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | 获取命名空间 URI。 |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | 获取前缀。 |
@@ -36,16 +36,16 @@ public sealed class XmpRightsManagementPackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue)(string, string) | 添加字符串属性。 |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | 清除此实例。 |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | 判断指定的key是否包含key。 |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | 判断指定key是否包含key。 |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | 将 XMP 值转换为 XML 表示形式。 |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | 删除具有指定键的值。 |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | 删除指定键的值。 |
 | [SetCertificate](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate)(string) | 设置证书。 |
-| [SetMarkedAsRightManagement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement)(bool) | 标记为正确的管理内容 |
+| [SetMarkedAsRightManagement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement)(bool) | 标记为权限管理内容 |
 | [SetOwners](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners)(string[]) | 设置所有者。 |
 | [SetUsageTerms](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms)(LangAlt) | 设置使用条款。 |
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue)(string, IXmlValue) | 设置值。 |
-| [SetWebStatement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement)(string) | 设置网络声明。 |
+| [SetWebStatement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement)(string) | 设置 web 语句。 |
 | virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) | 设置 XMP 类型值。 |
 
 ### 也可以看看

@@ -3,7 +3,7 @@ title: Aspose.PSD.ImageOptions
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含适合导出保存或创建不同文件格式的类
 type: docs
-weight: 410
+weight: 420
 url: /zh/net/aspose.psd.imageoptions/
 ---
 命名空间包含适合导出、保存或创建不同文件格式的类。
@@ -20,18 +20,18 @@ url: /zh/net/aspose.psd.imageoptions/
 | [JpegOptions](./jpegoptions) | jpeg 文件格式创建选项。 |
 | [MultiPageOptions](./multipageoptions) | 多页支持格式的基类 |
 | [PdfOptions](./pdfoptions) | PDF 选项。 |
-| [PngOptions](./pngoptions) | png 文件格式创建选项。 |
-| [PsdOptions](./psdoptions) | psd 文件格式创建选项。 |
+| [PngOptions](./pngoptions) | png 文件格式创建选项. |
+| [PsdOptions](./psdoptions) | psd文件格式创建选项. |
 | [RdOptimizerSettings](./rdoptimizersettings) | RD 优化器设置类 |
-| [RenderResult](./renderresult) | 表示带有渲染结果的信息 |
-| [TiffOptions](./tiffoptions) | tiff 文件格式选项。 请注意，宽度和高度标签将在创建图像时被宽度和高度参数覆盖，因此无需直接指定它们。 请注意，许多选项返回默认值，但这并不意味着该选项被明确设置为标记值。要验证标签是否存在，请使用 Tags 属性或相应的 IsTagPresent 方法。 |
+| [RenderResult](./renderresult) | 用渲染结果表示信息 |
+| [TiffOptions](./tiffoptions) | tiff 文件格式选项。 请注意，宽度和高度标签将在创建图像时被宽度和高度参数覆盖，因此无需直接指定它们。 请注意，许多选项返回默认值，但这并不意味着此选项明确设置为标记值。要验证标签是否存在，请使用 Tags 属性或相应的 IsTagPresent 方法。 |
 | [TiffOptionsUtils](./tiffoptionsutils) | tiff 文件格式选项实用程序类。 |
 | [VectorRasterizationOptions](./vectorrasterizationoptions) | 矢量光栅化选项。 |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
-| [MultiPageMode](./multipagemode) | 表示多页模式 |
+| [MultiPageMode](./multipagemode) | 代表多页模式 |
 | [PositioningTypes](./positioningtypes) | 图形场景的定位和尺寸类型。 |
 | [RenderErrorCode](./rendererrorcode) | 表示 CAD 文件中可能缺少的部分 |
 | [TiffOptionsError](./tiffoptionserror) | tiff 选项错误代码。 |

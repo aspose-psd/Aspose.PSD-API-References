@@ -1,14 +1,14 @@
 ---
 title: ISmartObjectLayerResource
 second_title: Aspose.PSD for .NET API 参考
-description: 定义 ISmartObjectLayerResource 接口该接口包含有关 PSD 文件中智能对象层资源的信息 也是一个标记界面用于在 Adobe Photoshop 图像中指定 Sold 和 Sole 资源
+description: 定义 ISmartObjectLayerResource 接口该接口包含有关 PSD 文件中智能对象层资源的信息 也是一个标记接口用于在 Adobe Photoshop 图像中指定 Sold 和 Sole 资源
 type: docs
-weight: 2480
+weight: 2520
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
 ## ISmartObjectLayerResource interface
 
-定义 ISmartObjectLayerResource 接口，该接口包含有关 PSD 文件中智能对象层资源的信息。 也是一个标记界面，用于在 Adobe® Photoshop® 图像中指定 Sold 和 Sole 资源。
+定义 ISmartObjectLayerResource 接口，该接口包含有关 PSD 文件中智能对象层资源的信息。 也是一个标记接口，用于在 Adobe® Photoshop® 图像中指定 Sold 和 Sole 资源。
 
 ```csharp
 public interface ISmartObjectLayerResource : IPlacedLayerResource

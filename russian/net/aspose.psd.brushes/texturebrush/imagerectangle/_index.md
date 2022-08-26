@@ -1,14 +1,14 @@
 ---
 title: ImageRectangle
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПолучаетRectangleaspose.psd/rectangleсвязанный с этимTextureBrushaspose.psd.brushes/texturebrush.
+description: ПолучаетRectangleaspose.psd/rectangle связанные с этимTextureBrushaspose.psd.brushes/texturebrush .
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.brushes/texturebrush/imagerectangle/
 ---
 ## TextureBrush.ImageRectangle property
 
-Получает[`Rectangle`](../../../aspose.psd/rectangle)связанный с этим[`TextureBrush`](../../texturebrush).
+Получает[`Rectangle`](../../../aspose.psd/rectangle) связанные с этим[`TextureBrush`](../../texturebrush) .
 
 ```csharp
 public RectangleF ImageRectangle { get; }

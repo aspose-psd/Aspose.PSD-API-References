@@ -3,7 +3,7 @@ title: ITextStyle
 second_title: Aspose.PSD for .NET API 参考
 description: 使用文本样式的界面
 type: docs
-weight: 3430
+weight: 3480
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
 ## ITextStyle interface
@@ -19,7 +19,7 @@ public interface ITextStyle
 | 姓名 | 描述 |
 | --- | --- |
 | [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning) { get; set; } | 获取或设置自动字距调整。 |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading) { get; set; } | 获取或设置一个值，表示是否[自动领先]。 |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading) { get; set; } | 获取或设置一个值，指示是否[自动领先]. |
 | [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift) { get; set; } | 基线偏移。 |
 | [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates) { get; set; } | 用于将字母连接在一起的上下文替代词。 |
 | [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures) { get; set; } | 用于连接字母的任意连字，尤其是在脚本字体中。 |
@@ -32,16 +32,16 @@ public interface ITextStyle
 | [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname) { get; set; } | 获取或设置字体名称。 |
 | [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize) { get; set; } | 获取或设置字体大小。 |
 | [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions) { get; set; } | 分数符号可以用特殊字形替换。 |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers) { get; set; } | 获取或设置一个值，指示是否[印地语数字]。 |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers) { get; set; } | 获取或设置一个值，指示是否 [印地语数字]. |
 | [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale) { get; set; } | 水平刻度。 |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning) { get; set; } | 获取或设置字距。 |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning) { get; set; } | 获取或设置字距调整。 |
 | [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex) { get; } | 获取语言索引。 |
 | [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading) { get; set; } | 获取或设置前导。 |
 | [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures) { get; set; } | 用于将字母连接在一起的标准上下文连字。 |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough) { get; set; } | 获取或设置一个值，指示是否[删除线]。 |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough) { get; set; } | 获取或设置一个值，指示是否[删除线]. |
 | [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor) { get; set; } | 获取或设置描边的颜色。 |
 | [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking) { get; set; } | 获取或设置跟踪。 |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline) { get; set; } | 获取或设置一个值，指示是否[下划线]。 |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline) { get; set; } | 获取或设置一个值，指示是否[下划线]. |
 | [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale) { get; set; } | 垂直刻度。 |
 
 ## 方法
@@ -49,11 +49,11 @@ public interface ITextStyle
 | 姓名 | 描述 |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply)(ITextStyle) | 应用指定的样式。 |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal)(ITextStyle) | 判断指定样式是否相等。 |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal)(ITextStyle) | 判断指定样式是否相等 |
 
 ### 例子
 
-下面的示例演示了如何在 Aspose 的一个文本层中渲染不同的样式.PSD
+以下示例演示了如何在 Aspose.PSD 的一个文本层中呈现不同的样式
 
 ```csharp
 [C#]

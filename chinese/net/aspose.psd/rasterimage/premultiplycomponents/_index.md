@@ -16,7 +16,7 @@ public virtual bool PremultiplyComponents { get; set; }
 
 ### 适当的价值
 
-` true` 如果必须对图像分量进行预乘；否则，` false` 。
+`真的`如果必须对图像分量进行预乘；否则，`错误的` .
 
 ### 也可以看看
 

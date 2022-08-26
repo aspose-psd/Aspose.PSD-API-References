@@ -18,17 +18,17 @@ public class CmykMixerChannel : MixerChannel
 
 | Имя | Описание |
 | --- | --- |
-| [CmykMixerChannel](cmykmixerchannel)(byte[]) | Инициализирует новый экземпляр класса[`CmykMixerChannel`](../cmykmixerchannel). |
+| [CmykMixerChannel](cmykmixerchannel)(byte[]) | Инициализирует новый экземпляр[`CmykMixerChannel`](../cmykmixerchannel) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Black](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black) { get; set; } | Получает или устанавливает черный цвет. |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant) { get; set; } | Получает или задает константу канала. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant) { get; set; } | Получает или устанавливает константу канала. |
 | [Cyan](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan) { get; set; } | Получает или задает голубой цвет. |
 | [Magenta](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta) { get; set; } | Получает или задает пурпурный цвет. |
-| [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow) { get; set; } | Получает или устанавливает желтый цвет. |
+| [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow) { get; set; } | Получает или задает желтый цвет. |
 
 ## Методы
 

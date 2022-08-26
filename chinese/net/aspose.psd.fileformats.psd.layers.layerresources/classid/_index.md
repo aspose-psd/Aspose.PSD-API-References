@@ -3,7 +3,7 @@ title: ClassID
 second_title: Aspose.PSD for .NET API 参考
 description: PSD 类 ID 对象
 type: docs
-weight: 2300
+weight: 2340
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/classid/
 ---
 ## ClassID class
@@ -18,26 +18,26 @@ public class ClassID
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClassID](classid#constructor)(byte[]) | 初始化[`ClassID`](../classid)类的新实例。 |
-| [ClassID](classid#constructor_2)(int) | 初始化[`ClassID`](../classid)类的新实例。 |
-| [ClassID](classid#constructor_3)(string) | 初始化[`ClassID`](../classid)类的新实例。 |
-| [ClassID](classid#constructor_5)(uint) | 初始化[`ClassID`](../classid)类的新实例。 |
-| [ClassID](classid#constructor_1)(byte[], bool) | 初始化[`ClassID`](../classid)类的新实例。 |
-| [ClassID](classid#constructor_4)(string, bool) | 初始化[`ClassID`](../classid)类的新实例。 |
+| [ClassID](classid#constructor)(byte[]) | 初始化[`ClassID`](../classid)类. |
+| [ClassID](classid#constructor_2)(int) | 初始化[`ClassID`](../classid)类. |
+| [ClassID](classid#constructor_3)(string) | 初始化[`ClassID`](../classid)类. |
+| [ClassID](classid#constructor_5)(uint) | 初始化[`ClassID`](../classid)类. |
+| [ClassID](classid#constructor_1)(byte[], bool) | 初始化[`ClassID`](../classid)类. |
+| [ClassID](classid#constructor_4)(string, bool) | 初始化[`ClassID`](../classid)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [Bytes](../../aspose.psd.fileformats.psd.layers.layerresources/classid/bytes) { get; } | 获取表示类 ID 的字节。 |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/classid/classname) { get; } | 以 ASCII 编码获取类名。 |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/classid/length) { get; } | 获取类 ID 长度（以字节为单位）。 |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/classid/classname) { get; } | 获取 ASCII 编码的类名。 |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/classid/length) { get; } | 以字节为单位获取类 ID 长度。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/classid/save)(StreamContainer) | 将类信息保存到指定的流容器。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/classid/save)(StreamContainer) | 将类信息保存到指定的流容器中。 |
 
 ### 也可以看看
 

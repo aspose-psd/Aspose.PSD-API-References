@@ -3,7 +3,7 @@ title: CurvesDiscreteManager
 second_title: Справочник по Aspose.PSD для .NET API
 description: Менеджер корректирующего слоя кривых управляющий картой пикселей
 type: docs
-weight: 2360
+weight: 2400
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
 ## CurvesDiscreteManager class
@@ -26,7 +26,7 @@ public sealed class CurvesDiscreteManager : CurvesManager
 | --- | --- |
 | [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition)(int, byte) | Получает значение в позиции. |
 | [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition)(int, byte) | Устанавливает значение по умолчанию в position. |
-| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition)(int, byte, byte) | Устанавливает значение в позиции. |
+| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition)(int, byte, byte) | Устанавливает значение в position. |
 | [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel)(int, byte[]) | Устанавливает значение всего канала. |
 
 ### Смотрите также

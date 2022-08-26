@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: Aspose.PSD for .NET API 参考
-description: 创建表示此SizeFaspose.psd/sizef的人类可读字符串
+description: 创建一个人类可读的字符串来表示这个SizeFaspose.psd/sizef .
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/sizef/tostring/
 ---
 ## SizeF.ToString method
 
-创建表示此[`SizeF`](../../sizef)的人类可读字符串。
+创建一个人类可读的字符串来表示这个[`SizeF`](../../sizef) .
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-表示此[`SizeF`](../../sizef)的字符串。
+代表这个的字符串[`SizeF`](../../sizef).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Patterns
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает данные шаблонов
+description: Получает или устанавливает данные паттернов
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/
 ---
 ## PattResource.Patterns property
 
-Получает или устанавливает данные шаблонов;
+Получает или устанавливает данные паттернов;
 
 ```csharp
 public PattResourceData[] Patterns { get; set; }

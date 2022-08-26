@@ -1,14 +1,14 @@
 ---
 title: UserMaskData
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает данные пользовательской растровой маски слоя в файле PSD. В свойстве MaskData есть рейтеризованная векторная маска.
+description: Получает или задает данные пользовательской растровой маски слоя в PSDфайле. В свойстве MaskData есть рейтеризованная векторная маска.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskdata/
 ---
 ## LayerMaskDataFull.UserMaskData property
 
-Получает или задает данные пользовательской (растровой) маски слоя в файле PSD. (В свойстве MaskData есть рейтеризованная векторная маска).
+Получает или задает данные пользовательской (растровой) маски слоя в PSD-файле. (В свойстве MaskData есть рейтеризованная векторная маска).
 
 ```csharp
 public byte[] UserMaskData { get; set; }

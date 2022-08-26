@@ -1,14 +1,14 @@
 ---
 title: BritResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаBritResourceaspose.psd.fileformats.psd.layers.layerresources/britresource.
+description: Инициализирует новый экземплярBritResourceaspose.psd.fileformats.psd.layers.layerresources/britresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/britresource/
 ---
 ## BritResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`BritResource`](../../britresource).
+Инициализирует новый экземпляр[`BritResource`](../../britresource) класс.
 
 ```csharp
 public BritResource()
@@ -24,7 +24,7 @@ public BritResource()
 
 ## BritResource(short, short, short, bool) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`BritResource`](../../britresource).
+Инициализирует новый экземпляр[`BritResource`](../../britresource) класс.
 
 ```csharp
 public BritResource(short brightness, short contrast, short meanValueForBrightnessAndContrast, 
@@ -34,9 +34,9 @@ public BritResource(short brightness, short contrast, short meanValueForBrightne
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | brightness | Int16 | Яркость. |
-| контрастность | Int16 | Контрастность. |
+| contrast | Int16 | Контраст. |
 | meanValueForBrightnessAndContrast | Int16 | Среднее значение яркости и контрастности. |
-| labColor | Boolean | , если установлено значение` true` [лабораторный цвет]. |
+| labColor | Boolean | если установлено`истинный` [лабораторный цвет]. |
 
 ### Смотрите также
 
@@ -48,7 +48,7 @@ public BritResource(short brightness, short contrast, short meanValueForBrightne
 
 ## BritResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`BritResource`](../../britresource). Спецификация формата PSD содержит следующее описание: 2 Яркость 2 Контрастность 2 Среднее значение яркости и контрастности 1 Только лабораторный цвет Он не используется в современных PSD (CS5 и выше), где есть CgEd. CgEd хранит информационные свойства
+Инициализирует новый экземпляр[`BritResource`](../../britresource)class. Спецификация формата PSD содержит следующее описание: 2 Яркость 2 Контраст 2 Среднее значение яркости и контрастности 1 Только лабораторный цвет Не используется в современном PSD (CS5 и выше), где есть CgEd. CgEd хранит информацию properties
 
 ```csharp
 public BritResource(byte[] bytes)

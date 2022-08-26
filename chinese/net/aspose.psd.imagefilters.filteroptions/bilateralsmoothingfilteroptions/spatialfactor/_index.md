@@ -16,7 +16,7 @@ public double SpatialFactor { get; set; }
 
 ### 适当的价值
 
-空间因素。
+空间因子。
 
 ### 也可以看看
 

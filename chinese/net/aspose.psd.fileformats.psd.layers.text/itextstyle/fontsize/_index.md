@@ -20,7 +20,7 @@ public double FontSize { get; set; }
 
 ### 例子
 
-下面的例子演示了如何在 Aspose.PSD 的一个文本层中渲染不同的样式
+以下示例演示了如何在 Aspose.PSD 的一个文本层中呈现不同的样式
 
 ```csharp
 [C#]

@@ -3,7 +3,7 @@ title: EventType
 second_title: Справочник по Aspose.PSD для .NET API
 description: Это перечисление описывает возможные типы событий выполнения которые могут возникнуть во время операций обработки изображения
 type: docs
-weight: 5170
+weight: 5220
 url: /ru/net/aspose.psd.progressmanagement/eventtype/
 ---
 ## EventType enumeration
@@ -19,7 +19,7 @@ public enum EventType
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | RelativeProgress | `0` | Относительный ход текущего этапа обработки операции |
-| StageChange | `1` | Начался очередной этап операции |
+| StageChange | `1` | Начался следующий этап операции |
 | Initialization | `2` | Инициализация операции |
 | PreProcessing | `3` | Предварительная обработка |
 | Processing | `4` | Обработка |

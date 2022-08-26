@@ -1,14 +1,14 @@
 ---
 title: MultiplyTransform
 second_title: Aspose.PSD for .NET API 参考
-description: 将表示此LinearGradientBrushaspose.psd.brushes/lineargradientbrush的局部几何变换的Matrixaspose.psd/matrix乘以指定的Matrixaspose.psd/matrix前面加上指定的Matrixaspose.psd/matrix
+description: 乘以Matrixaspose.psd/matrix表示这个的局部几何变换LinearGradientBrushaspose.psd.brushes/lineargradientbrush由指定的Matrixaspose.psd/matrix通过预先指定Matrixaspose.psd/matrix .
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.brushes/transformbrush/multiplytransform/
 ---
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-将表示此[`LinearGradientBrush`](../../lineargradientbrush)的局部几何变换的[`Matrix`](../../../aspose.psd/matrix)乘以指定的[`Matrix`](../../../aspose.psd/matrix)前面加上指定的[`Matrix`](../../../aspose.psd/matrix)。
+乘以[`Matrix`](../../../aspose.psd/matrix)表示这个的局部几何变换[`LinearGradientBrush`](../../lineargradientbrush)由指定的[`Matrix`](../../../aspose.psd/matrix)通过预先指定[`Matrix`](../../../aspose.psd/matrix) .
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
@@ -16,7 +16,7 @@ public void MultiplyTransform(Matrix matrix)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../../aspose.psd/matrix)乘以几何变换。 |
+| matrix | Matrix | 这[`Matrix`](../../../aspose.psd/matrix)乘以几何变换。 |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void MultiplyTransform(Matrix matrix)
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-将表示此[`LinearGradientBrush`](../../lineargradientbrush)的局部几何变换的[`Matrix`](../../../aspose.psd/matrix)乘以以指定顺序指定的[`Matrix`](../../../aspose.psd/matrix)。
+乘以[`Matrix`](../../../aspose.psd/matrix)表示这个的局部几何变换[`LinearGradientBrush`](../../lineargradientbrush)由指定的[`Matrix`](../../../aspose.psd/matrix)按指定顺序。
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
@@ -37,8 +37,8 @@ public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../../aspose.psd/matrix)乘以几何变换。 |
-| order | MatrixOrder | [`MatrixOrder`](../../../aspose.psd/matrixorder)指定两个矩阵相乘的顺序。 |
+| matrix | Matrix | 这[`Matrix`](../../../aspose.psd/matrix)乘以几何变换。 |
+| order | MatrixOrder | 一个[`MatrixOrder`](../../../aspose.psd/matrixorder)指定两个矩阵相乘的顺序。 |
 
 ### 也可以看看
 

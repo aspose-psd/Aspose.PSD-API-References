@@ -1,14 +1,14 @@
 ---
 title: GetAdobeFontName
 second_title: Aspose.PSD for .NET API 参考
-description: 按字体系列名称获取 adobe 字体名称
+description: 通过字体系列名称获取 adobe 字体名称
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/fontsettings/getadobefontname/
 ---
 ## FontSettings.GetAdobeFontName method
 
-按字体系列名称获取 adobe 字体名称。
+通过字体系列名称获取 adobe 字体名称。
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
@@ -20,11 +20,11 @@ public static string GetAdobeFontName(string fontFamilyName)
 
 ### 返回值
 
-按字体系列名称排列的 adobe 字体名称。
+字体系列名称的 adobe 字体名称。
 
 ### 例子
 
-以下代码演示了在部分样式更改字体名称的能力。
+以下代码演示了在部分样式中更改字体名称的能力。
 
 ```csharp
 [C#]
@@ -49,6 +49,7 @@ using (var image = new PsdImage(500, 500))
     TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
+    firstPortion.Style.FontSize = 24;
     firstPortion.Style.FontName = FontSettings.GetAdobeFontName("Comic Sans MS");
 
     var secondPortion = textLayer.TextData.ProducePortion();

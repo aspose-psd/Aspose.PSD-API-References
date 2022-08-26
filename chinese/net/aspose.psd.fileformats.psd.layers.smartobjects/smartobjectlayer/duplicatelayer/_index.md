@@ -1,14 +1,14 @@
 ---
 title: DuplicateLayer
 second_title: Aspose.PSD for .NET API 参考
-description: 通过应对这一层来创建一个新的智能对象层 请注意对于嵌入的智能对象嵌入的图像是共享的 如果要复制嵌入的图像请使用NewSmartObjectViaCopyaspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy方法
+description: 通过处理这一层创建一个新的智能对象层 请注意对于嵌入的智能对象嵌入的图像是共享的 如果要复制嵌入的图像请使用NewSmartObjectViaCopyaspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy方法.
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/
 ---
 ## SmartObjectLayer.DuplicateLayer method
 
-通过应对这一层来创建一个新的智能对象层。 请注意，对于嵌入的智能对象，嵌入的图像是共享的。 如果要复制嵌入的图像，请使用[`NewSmartObjectViaCopy`](../newsmartobjectviacopy)方法。
+通过处理这一层创建一个新的智能对象层。 请注意，对于嵌入的智能对象，嵌入的图像是共享的。 如果要复制嵌入的图像，请使用[`NewSmartObjectViaCopy`](../newsmartobjectviacopy)方法.
 
 ```csharp
 public SmartObjectLayer DuplicateLayer()
@@ -16,7 +16,7 @@ public SmartObjectLayer DuplicateLayer()
 
 ### 返回值
 
-克隆的[`SmartObjectLayer`](../../smartobjectlayer)实例。
+克隆人[`SmartObjectLayer`](../../smartobjectlayer)实例.
 
 ### 例子
 

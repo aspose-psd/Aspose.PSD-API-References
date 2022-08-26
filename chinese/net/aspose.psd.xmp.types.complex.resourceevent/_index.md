@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Types.Complex.ResourceEvent
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含的类是在处理此文档时发生的高级事件
 type: docs
-weight: 640
+weight: 650
 url: /zh/net/aspose.psd.xmp.types.complex.resourceevent/
 ---
 命名空间包含的类是在处理此文档时发生的高级事件。

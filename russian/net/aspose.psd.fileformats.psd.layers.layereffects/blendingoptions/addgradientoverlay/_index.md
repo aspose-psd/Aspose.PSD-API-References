@@ -16,7 +16,7 @@ public GradientOverlayEffect AddGradientOverlay()
 
 ### Возвращаемое значение
 
-Создано[`GradientOverlayEffect`](../../gradientoverlayeffect)объект
+Создано[`GradientOverlayEffect`](../../gradientoverlayeffect) объект
 
 ### Смотрите также
 

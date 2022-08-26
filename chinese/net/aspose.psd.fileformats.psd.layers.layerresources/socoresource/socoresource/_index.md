@@ -1,14 +1,14 @@
 ---
 title: SoCoResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化SoCoResourceaspose.psd.fileformats.psd.layers.layerresources/socoresource类的新实例
+description: 初始化SoCoResourceaspose.psd.fileformats.psd.layers.layerresources/socoresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/socoresource/
 ---
 ## SoCoResource constructor
 
-初始化[`SoCoResource`](../../socoresource)类的新实例。
+初始化[`SoCoResource`](../../socoresource)类.
 
 ```csharp
 public SoCoResource()

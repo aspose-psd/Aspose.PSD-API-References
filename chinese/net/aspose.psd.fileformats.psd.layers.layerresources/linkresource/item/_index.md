@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Aspose.PSD for .NET API 参考
-description: 获取链接数据源唯一标识符的指定索引处的LinkDataSourceaspose.psd.fileformats.psd.layers.layerresources/linkdatasource
+description: 获取LinkDataSourceaspose.psd.fileformats.psd.layers.layerresources/linkdatasource在作为链接数据源唯一标识符的指定索引处..
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
 ## LinkResource indexer
 
-获取链接数据源唯一标识符的指定索引处的[`LinkDataSource`](../../linkdatasource)。
+获取[`LinkDataSource`](../../linkdatasource)在作为链接数据源唯一标识符的指定索引处..
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
@@ -16,15 +16,15 @@ public LinkDataSource this[Guid index] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| index | 索引作为链接数据源的唯一标识符。 |
+| index | 该索引作为链接数据源的唯一标识符。 |
 
 ### 返回值
 
-[`LinkDataSource`](../../linkdatasource)实例。
+的[`LinkDataSource`](../../linkdatasource)实例.
 
 ### 适当的价值
 
-[`LinkDataSource`](../../linkdatasource)。
+的[`LinkDataSource`](../../linkdatasource) .
 
 ### 例子
 

@@ -1,14 +1,14 @@
 ---
 title: UniqueId
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 图像中的或智能对象放置层的全局唯一标识符
+description: 获取或设置PSD图像中智能对象放置层的全局唯一标识符
 type: docs
 weight: 170
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/
 ---
 ## IPlacedLayerResource.UniqueId property
 
-获取或设置 PSD 图像中的或智能对象放置层的全局唯一标识符。
+获取或设置PSD图像中智能对象放置层的全局唯一标识符。
 
 ```csharp
 public Guid UniqueId { get; set; }
@@ -16,7 +16,7 @@ public Guid UniqueId { get; set; }
 
 ### 适当的价值
 
-放置层的唯一标识符。
+放置图层的唯一标识符。
 
 ### 也可以看看
 

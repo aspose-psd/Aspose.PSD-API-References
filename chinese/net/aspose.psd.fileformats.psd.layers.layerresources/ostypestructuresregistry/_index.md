@@ -1,14 +1,14 @@
 ---
 title: OSTypeStructuresRegistry
 second_title: Aspose.PSD for .NET API 参考
-description: 表示OSTypeStructure./ostypestructure资源注册表
+description: 代表OSTypeStructure./ostypestructure资源注册表.
 type: docs
-weight: 2790
+weight: 2840
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/
 ---
 ## OSTypeStructuresRegistry class
 
-表示[`OSTypeStructure`](../ostypestructure)资源注册表。
+代表[`OSTypeStructure`](../ostypestructure)资源注册表.
 
 ```csharp
 public static class OSTypeStructuresRegistry
@@ -26,8 +26,8 @@ public static class OSTypeStructuresRegistry
 | --- | --- |
 | static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor)(Stream) | 获取第一个支持的开启器描述符。 |
 | static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename)(string) | 通过类型名称获取第一个支持的描述符。 |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor)(Stream) | 加载[`OSTypeStructure`](../ostypestructure)使用第一个找到的适合指定*stream*的打开器。 |
-| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener)(IOSTypeStructureLoader) | 注册开启者。 |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor)(Stream) | 加载[`OSTypeStructure`](../ostypestructure)使用第一个找到的适合指定的开瓶器*stream* . |
+| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener)(IOSTypeStructureLoader) | 注册开瓶器。 |
 | static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener)(IOSTypeStructureLoader) | 取消注册开启程序。 |
 
 ### 也可以看看

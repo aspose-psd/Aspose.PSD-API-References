@@ -12,7 +12,7 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/
 
 | 班级 | 描述 |
 | --- | --- |
-| [BezierKnotRecord](./bezierknotrecord) | Bezier Knot Record Class |
+| [BezierKnotRecord](./bezierknotrecord) | 贝塞尔结记录类 |
 | [ClipboardRecord](./clipboardrecord) | 剪贴板记录类 |
 | [InitialFillRuleRecord](./initialfillrulerecord) | 初始填充规则记录类 |
 | [LengthRecord](./lengthrecord) | 子路径长度记录类 |
@@ -27,7 +27,7 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/
 
 | 界面 | 描述 |
 | --- | --- |
-| [IVectorPathData](./ivectorpathdata) | 访问矢量路径数据的接口。 |
+| [IVectorPathData](./ivectorpathdata) | 获取矢量路径数据的接口。 |
 ## 枚举
 
 | 枚举 | 描述 |

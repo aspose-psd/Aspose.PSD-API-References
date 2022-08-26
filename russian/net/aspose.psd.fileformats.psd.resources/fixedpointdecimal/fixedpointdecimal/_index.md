@@ -1,14 +1,14 @@
 ---
 title: FixedPointDecimal
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаFixedPointDecimalaspose.psd.fileformats.psd.resources/fixedpointdecimal.
+description: Инициализирует новый экземплярFixedPointDecimalaspose.psd.fileformats.psd.resources/fixedpointdecimal класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fixedpointdecimal/
 ---
 ## FixedPointDecimal(int, int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`FixedPointDecimal`](../../fixedpointdecimal).
+Инициализирует новый экземпляр[`FixedPointDecimal`](../../fixedpointdecimal) класс.
 
 ```csharp
 public FixedPointDecimal(int integer, int fraction)
@@ -17,7 +17,7 @@ public FixedPointDecimal(int integer, int fraction)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | integer | Int32 | Целое число. |
-| fraction | Int32 | Дробь. |
+| fraction | Int32 | Фракция. |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public FixedPointDecimal(int integer, int fraction)
 
 ## FixedPointDecimal(long) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`FixedPointDecimal`](../../fixedpointdecimal). Разделите старшие и младшие слова 32-битного целого числа на число с фиксированной точкой.
+Инициализирует новый экземпляр[`FixedPointDecimal`](../../fixedpointdecimal) учебный класс. Разделите старшие и младшие слова 32-битного целого числа на число с фиксированной точкой.
 
 ```csharp
 public FixedPointDecimal(long value)
@@ -49,7 +49,7 @@ public FixedPointDecimal(long value)
 
 ## FixedPointDecimal(double) {#constructor}
 
-Инициализирует новый экземпляр класса[`FixedPointDecimal`](../../fixedpointdecimal).
+Инициализирует новый экземпляр[`FixedPointDecimal`](../../fixedpointdecimal) класс.
 
 ```csharp
 public FixedPointDecimal(double value)

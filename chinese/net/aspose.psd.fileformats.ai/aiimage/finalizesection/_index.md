@@ -1,14 +1,14 @@
 ---
 title: FinalizeSection
 second_title: Aspose.PSD for .NET API 参考
-description: 获取 finalize 部分
+description: 获取完成部分
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
 ## AiImage.FinalizeSection property
 
-获取 finalize 部分。
+获取完成部分。
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }

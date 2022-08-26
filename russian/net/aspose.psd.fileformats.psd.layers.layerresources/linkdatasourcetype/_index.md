@@ -3,7 +3,7 @@ title: LinkDataSourceType
 second_title: Справочник по Aspose.PSD для .NET API
 description: Определяет перечисление LinkDataSourceType для источников данных в ресурсе ссылки PSD.
 type: docs
-weight: 2640
+weight: 2680
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
 ## LinkDataSourceType enumeration
@@ -19,9 +19,9 @@ public enum LinkDataSourceType
 | Имя | Ценность | Описание |
 | --- | --- | --- |
 | None | `0` | Пустой ресурс ссылки. |
-| liFD | `1` | Данные встроенного связанного файла |
-| liFE | `2` | Данные внешнего связанного файла |
-| liFA | `3` | Данные псевдонима связанного файла |
+| liFD | `1` | Встроенный связанный файл data |
+| liFE | `2` | Внешний связанный файл data |
+| liFA | `3` | Псевдоним связанного файла data |
 
 ### Примеры
 

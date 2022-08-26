@@ -37,7 +37,7 @@ public void SetOutputChannelColorProfile(string colorProfileFilename, ColorAdjus
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | colorProfileFilename | String | 颜色配置文件的路径名。如果颜色配置文件在 %SystemRoot%\System32\Spool\Drivers\Color 目录下，该参数可以是文件名。否则，此参数必须是完全限定的路径名。 |
-| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype)的一个元素，指定为其设置输出通道颜色配置文件的类别。 |
+| type | ColorAdjustType | 一个元素[`ColorAdjustType`](../../coloradjusttype)指定为其设置输出通道颜色配置文件的类别。 |
 
 ### 也可以看看
 

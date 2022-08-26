@@ -1,14 +1,14 @@
 ---
 title: SetCameraMove
 second_title: Aspose.PSD for .NET API 参考
-description: 设置摄像机移动
+description: 设置相机移动
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameramove/
 ---
 ## XmpDynamicMediaPackage.SetCameraMove method
 
-设置摄像机移动。
+设置相机移动。
 
 ```csharp
 public void SetCameraMove(string cameraMove)
@@ -16,7 +16,7 @@ public void SetCameraMove(string cameraMove)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cameraMove | String | 摄像机移动。 |
+| cameraMove | String | 相机移动。 |
 
 ### 也可以看看
 

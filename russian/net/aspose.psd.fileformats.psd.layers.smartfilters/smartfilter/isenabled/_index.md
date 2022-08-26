@@ -1,14 +1,14 @@
 ---
 title: IsEnabled
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает включенный статус интеллектуального фильтра.
+description: Получает или задает состояние включения интеллектуального фильтра.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/
 ---
 ## SmartFilter.IsEnabled property
 
-Получает или задает включенный статус интеллектуального фильтра.
+Получает или задает состояние включения интеллектуального фильтра.
 
 ```csharp
 public bool IsEnabled { get; set; }

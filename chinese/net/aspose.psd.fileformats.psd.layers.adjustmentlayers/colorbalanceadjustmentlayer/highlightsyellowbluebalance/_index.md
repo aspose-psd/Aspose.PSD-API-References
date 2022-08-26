@@ -16,13 +16,13 @@ public short HighlightsYellowBlueBalance { get; set; }
 
 ### 适当的价值
 
-亮点黄色蓝色平衡。
+亮点黄色蓝色平衡.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | 突出显示 黄色 蓝色 平衡必须在 -100 到 +100 的范围内。 |
+| ArgumentOutOfRangeException | 突出显示黄色蓝色平衡必须在 -100 到 +100 的范围内。 |
 
 ### 例子
 

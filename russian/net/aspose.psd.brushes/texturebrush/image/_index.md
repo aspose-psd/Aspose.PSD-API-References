@@ -1,14 +1,14 @@
 ---
 title: Image
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает объектImageaspose.psd/image связанный с этимTextureBrushaspose.psd.brushes/texturebrushобъект.
+description: ПолучаетImageaspose.psd/image объект связанный с этимTextureBrushaspose.psd.brushes/texturebrush объект.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.brushes/texturebrush/image/
 ---
 ## TextureBrush.Image property
 
-Получает объект[`Image`](../../../aspose.psd/image), связанный с этим[`TextureBrush`](../../texturebrush)объект.
+Получает[`Image`](../../../aspose.psd/image) объект, связанный с этим[`TextureBrush`](../../texturebrush) объект.
 
 ```csharp
 public Image Image { get; }
@@ -16,7 +16,7 @@ public Image Image { get; }
 
 ### Стоимость имущества
 
-Объект[`Image`](../../../aspose.psd/image), который представляет изображение, с которым это[`TextureBrush`](../../texturebrush)объект заполняет фигуры.
+Ан[`Image`](../../../aspose.psd/image) объект, который представляет образ, с которым это[`TextureBrush`](../../texturebrush) объект заполняет формы.
 
 ### Смотрите также
 

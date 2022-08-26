@@ -17,8 +17,8 @@ public void AddCurvePoint(int channelIndex, byte x, byte y)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | channelIndex | Int32 | Индекс канала. |
-| x | Byte | Местоположение x. |
-| y | Byte | Местоположение y. |
+| x | Byte | Расположение х. |
+| y | Byte | Местоположение Y. |
 
 ### Исключения
 

@@ -1,14 +1,14 @@
 ---
 title: IsSynchronized
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение указывающее является ли доступ к ICollectionсинхронизированным потокобезопасным. .
+description: Получает значение указывающее будет ли доступ к ICollection синхронизирован потокобезопасный.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/nongenericdictionary/issynchronized/
 ---
 ## NonGenericDictionary.IsSynchronized property
 
-Получает значение, указывающее, является ли доступ к ICollectionсинхронизированным (потокобезопасным). ).
+Получает значение, указывающее, будет ли доступ к ICollection синхронизирован (потокобезопасный).
 
 ```csharp
 public bool IsSynchronized { get; }

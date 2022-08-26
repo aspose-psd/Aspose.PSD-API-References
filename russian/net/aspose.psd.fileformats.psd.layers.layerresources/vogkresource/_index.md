@@ -1,14 +1,14 @@
 ---
 title: VogkResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Ресурс данных о происхождении вектора.
+description: Ресурс данных происхождения вектора.
 type: docs
-weight: 3260
+weight: 3310
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/
 ---
 ## VogkResource class
 
-Ресурс данных о происхождении вектора.
+Ресурс данных происхождения вектора.
 
 ```csharp
 public sealed class VogkResource : LayerResource
@@ -18,7 +18,7 @@ public sealed class VogkResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [VogkResource](vogkresource)() | Инициализирует новый экземпляр класса[`VogkResource`](../vogkresource). |
+| [VogkResource](vogkresource)() | Инициализирует новый экземпляр[`VogkResource`](../vogkresource) класс. |
 
 ## Характеристики
 
@@ -36,13 +36,13 @@ public sealed class VogkResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 

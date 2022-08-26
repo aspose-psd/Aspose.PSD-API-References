@@ -3,7 +3,7 @@ title: ColorFillSettings
 second_title: Aspose.PSD for .NET API 参考
 description: 颜色填充效果设置
 type: docs
-weight: 1870
+weight: 1910
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
 ## ColorFillSettings class

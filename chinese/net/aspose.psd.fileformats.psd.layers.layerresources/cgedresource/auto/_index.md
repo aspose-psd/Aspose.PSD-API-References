@@ -1,14 +1,14 @@
 ---
 title: Auto
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此CgEdResourceaspose.psd.fileformats.psd.layers.layerresources/cgedresource是否是自动的
+description: 获取或设置一个值该值指示是否CgEdResourceaspose.psd.fileformats.psd.layers.layerresources/cgedresource是自动的
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/
 ---
 ## CgEdResource.Auto property
 
-获取或设置一个值，该值指示此[`CgEdResource`](../../cgedresource)是否是自动的。
+获取或设置一个值，该值指示是否[`CgEdResource`](../../cgedresource)是自动的。
 
 ```csharp
 public bool Auto { get; set; }
@@ -16,7 +16,7 @@ public bool Auto { get; set; }
 
 ### 适当的价值
 
-` true` 如果是自动的；否则，` false` 。
+`真的`如果是自动的；否则，`错误的` .
 
 ### 也可以看看
 

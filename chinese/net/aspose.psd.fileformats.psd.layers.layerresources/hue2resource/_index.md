@@ -3,7 +3,7 @@ title: Hue2Resource
 second_title: Aspose.PSD for .NET API 参考
 description: 类 Hue2Resource曝光调整层资源
 type: docs
-weight: 2450
+weight: 2490
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 ---
 ## Hue2Resource class
@@ -18,20 +18,20 @@ public class Hue2Resource : AdjustmentLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Hue2Resource](hue2resource#constructor)() | 初始化[`Hue2Resource`](../hue2resource)类的新实例。 |
-| [Hue2Resource](hue2resource#constructor_1)(byte[]) | 初始化[`Hue2Resource`](../hue2resource)类的新实例。 |
+| [Hue2Resource](hue2resource#constructor)() | 初始化[`Hue2Resource`](../hue2resource)类. |
+| [Hue2Resource](hue2resource#constructor_1)(byte[]) | 初始化[`Hue2Resource`](../hue2resource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Colorize](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize) { get; set; } | 获取或设置一个值，该值指示此[`Hue2Resource`](../hue2resource)是否为彩色。 |
+| [Colorize](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize) { get; set; } | 获取或设置一个值，该值指示是否[`Hue2Resource`](../hue2resource)是着色. |
 | [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue) { get; set; } | 获取或设置主色调。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/key) { get; } | 获取层资源密钥。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/key) { get; } | 获取图层资源键。 |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length) { get; } | 获取层资源长度（以字节为单位）。 |
 | [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness) { get; set; } | 获取或设置主亮度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/psdversion) { get; } | 获取psd版本。 |
-| [Ranges](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges) { get; } | 获取色相/饱和度调整图层的范围。 PS 中的范围可以在范围更改时更改名称，因此我们应该通过索引 |
+| [Ranges](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges) { get; } | 获取色相/饱和度调整层的范围。 PS中的范围可以改变名称，如果范围改变，所以我们应该通过index 工作 |
 | [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation) { get; set; } | 获取或设置主饱和度。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | 获取签名。 |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version) { get; } | 获取版本。默认为 2 |
@@ -41,7 +41,7 @@ public class Hue2Resource : AdjustmentLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

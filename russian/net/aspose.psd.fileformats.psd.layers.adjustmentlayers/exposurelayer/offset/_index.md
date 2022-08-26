@@ -1,7 +1,7 @@
 ---
 title: Offset
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает смещение. Для PS диапазон смещения составляет от -05 до 05
+description: Получает или задает смещение. Для PS диапазон смещения составляет от 05 до 05
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/offset/

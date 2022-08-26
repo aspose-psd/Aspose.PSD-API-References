@@ -1,14 +1,14 @@
 ---
 title: UniqueId
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает глобальный уникальный идентификатор слоя или смарт-объекта помещенного в изображение PSD.
+description: Получает или задает глобальный уникальный идентификатор слоя или смартобъекта размещенного в изображении PSD.
 type: docs
 weight: 170
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/
 ---
 ## IPlacedLayerResource.UniqueId property
 
-Получает или задает глобальный уникальный идентификатор слоя или смарт-объекта, помещенного в изображение PSD.
+Получает или задает глобальный уникальный идентификатор слоя или смарт-объекта, размещенного в изображении PSD.
 
 ```csharp
 public Guid UniqueId { get; set; }

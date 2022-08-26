@@ -1,14 +1,14 @@
 ---
 title: AdobeStockId
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает AdobeStockId графической библиотеки для библиотек Adobe Photoshop CC.
+description: Получает или задает AdobeStockId графической библиотеки для библиотек Adobe Photoshop CC Libraries.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/
 ---
 ## LiFeDataSource.AdobeStockId property
 
-Получает или задает AdobeStockId графической библиотеки для библиотек Adobe® Photoshop® CC.
+Получает или задает AdobeStockId графической библиотеки для библиотек Adobe® Photoshop® CC Libraries.
 
 ```csharp
 public string AdobeStockId { get; set; }

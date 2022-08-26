@@ -1,14 +1,14 @@
 ---
 title: GetCloseImagePalette
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает цветовую палитру из растрового изображения палетизирует изображение если у изображения его нет. Если палитра существует она будет использоваться вместо выполнения вычислений.
+description: Получает цветовую палитру из растрового изображения палетизирует изображение если у изображения ее нет. Если палитра существует она будет использоваться вместо выполнения вычислений.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/colorpalettehelper/getcloseimagepalette/
 ---
 ## GetCloseImagePalette(RasterImage, int) {#getcloseimagepalette_2}
 
-Получает цветовую палитру из растрового изображения (палетизирует изображение), если у изображения его нет. Если палитра существует, она будет использоваться вместо выполнения вычислений.
+Получает цветовую палитру из растрового изображения (палетизирует изображение), если у изображения ее нет. Если палитра существует, она будет использоваться вместо выполнения вычислений.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesCount)
@@ -17,11 +17,11 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesC
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | image | RasterImage | Растровое изображение. |
-| entriesCount | Int32 | Количество требуемых записей. |
+| entriesCount | Int32 | Желаемые записи учитываются. |
 
 ### Возвращаемое значение
 
-Цветовая палитра, которая начинается с наиболее часто встречающихся цветов из*изображения*и содержит*entriesCount*записей.
+Цветовая палитра, которая начинается с наиболее часто встречающихся цветов из*image* и содержит*entriesCount* записи.
 
 ### Смотрите также
 
@@ -35,7 +35,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesC
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int) {#getcloseimagepalette}
 
-Получает цветовую палитру из растрового изображения (палетизирует изображение), если у изображения его нет. Если палитра существует, она будет использоваться вместо выполнения вычислений.
+Получает цветовую палитру из растрового изображения (палетизирует изображение), если у изображения ее нет. Если палитра существует, она будет использоваться вместо выполнения вычислений.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
@@ -46,11 +46,11 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 | --- | --- | --- |
 | image | RasterImage | Растровое изображение. |
 | destBounds | Rectangle | Границы целевого изображения. |
-| entriesCount | Int32 | Количество требуемых записей. |
+| entriesCount | Int32 | Желаемые записи учитываются. |
 
 ### Возвращаемое значение
 
-Цветовая палитра, которая начинается с наиболее часто встречающихся цветов из*изображения*и содержит*entriesCount*записей.
+Цветовая палитра, которая начинается с наиболее часто встречающихся цветов из*image* и содержит*entriesCount* записи.
 
 ### Смотрите также
 
@@ -65,7 +65,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int, bool) {#getcloseimagepalette_1}
 
-Получает цветовую палитру из растрового изображения (палетизирует изображение), если у изображения его нет. Если палитра существует, она будет использоваться вместо выполнения вычислений.
+Получает цветовую палитру из растрового изображения (палетизирует изображение), если у изображения ее нет. Если палитра существует, она будет использоваться вместо выполнения вычислений.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
@@ -76,12 +76,12 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 | --- | --- | --- |
 | image | RasterImage | Растровое изображение. |
 | destBounds | Rectangle | Границы целевого изображения. |
-| entriesCount | Int32 | Количество требуемых записей. |
-| useImagePalette | Boolean | Если установлено, будет использоваться собственная палитра изображений, если она доступна |
+| entriesCount | Int32 | Желаемые записи учитываются. |
+| useImagePalette | Boolean | Если установлено, будет использоваться собственная палитра изображений, если она доступна. |
 
 ### Возвращаемое значение
 
-Цветовая палитра, которая начинается с наиболее часто встречающихся цветов из*image*и содержит элементы*entriesCount*.
+Цветовая палитра, которая начинается с наиболее часто встречающихся цветов из*image* и содержит*entriesCount* записи.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает x-координату левого края этойRectangleFaspose.psd/rectanglefструктуры.
+description: Получает или задает xкоординату левого края этогоRectangleFaspose.psd/rectanglefструктура.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/rectanglef/left/
 ---
 ## RectangleF.Left property
 
-Получает или устанавливает x-координату левого края этой[`RectangleF`](../../rectanglef)структуры.
+Получает или задает x-координату левого края этого[`RectangleF`](../../rectanglef)структура.
 
 ```csharp
 public float Left { get; set; }
@@ -16,7 +16,7 @@ public float Left { get; set; }
 
 ### Возвращаемое значение
 
-X-координата левого края этой[`RectangleF`](../../rectanglef)структуры.
+Координата x левого края этого[`RectangleF`](../../rectanglef) структура.
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public Rectangle Bounds { get; set; }
 
 ### 适当的价值
 
-形状边界框边界。
+形状边界框 bounds.
 
 ### 也可以看看
 

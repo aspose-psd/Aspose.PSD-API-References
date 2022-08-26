@@ -3,7 +3,7 @@ title: DropShadowEffect
 second_title: Aspose.PSD for .NET API 参考
 description: 投影层效果
 type: docs
-weight: 2060
+weight: 2100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
 ## DropShadowEffect class
@@ -21,10 +21,10 @@ public class DropShadowEffect : IShadowEffect
 | [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle) { get; set; } | 以度为单位获取或设置角度。 |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode) { get; set; } | 获取或设置混合模式。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color) { get; set; } | 获取或设置颜色。 |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance) { get; set; } | 获取或设置距离（以像素为单位）。 |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance) { get; set; } | 获取或设置距离，以像素为单位。 |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype) { get; } | 获取一种效果 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible) { get; set; } | 获取或设置一个值，指示此实例是否可见。 |
-| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout) { get; set; } | 获取或设置一个值，指示是否[敲除]。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible) { get; set; } | 获取或设置一个指示此实例是否可见的值。 |
+| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout) { get; set; } | 获取或设置一个值，该值指示是否 [knocks out]. |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise) { get; set; } | 获取或设置噪声。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity) { get; set; } | 获取或设置不透明度。 |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size) { get; set; } | 获取或设置以像素为单位的模糊值。 |
@@ -47,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 }
 ```
 
-下面的代码演示了如何使用 DropShadowEffect 的 Opacity 属性。
+以下代码演示了如何使用 DropShadowEffect 的 Opacity 属性。
 
 ```csharp
 [C#]

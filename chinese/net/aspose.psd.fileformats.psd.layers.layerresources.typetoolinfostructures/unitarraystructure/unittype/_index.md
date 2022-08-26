@@ -1,14 +1,14 @@
 ---
 title: UnitType
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置UnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure值的度量单位类型
+description: 获取或设置度量单位类型UnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure值.
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
 ## UnitArrayStructure.UnitType property
 
-获取或设置[`UnitArrayStructure`](../../unitarraystructure)值的度量单位类型。
+获取或设置度量单位类型[`UnitArrayStructure`](../../unitarraystructure)值.
 
 ```csharp
 public UnitTypes UnitType { get; set; }
@@ -16,7 +16,7 @@ public UnitTypes UnitType { get; set; }
 
 ### 适当的价值
 
-度量单位类型。
+测量单位类型。
 
 ### 例子
 

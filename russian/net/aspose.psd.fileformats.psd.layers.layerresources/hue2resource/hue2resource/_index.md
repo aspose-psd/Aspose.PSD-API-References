@@ -1,14 +1,14 @@
 ---
 title: Hue2Resource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаHue2Resourceaspose.psd.fileformats.psd.layers.layerresources/hue2resource.
+description: Инициализирует новый экземплярHue2Resourceaspose.psd.fileformats.psd.layers.layerresources/hue2resource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue2resource/
 ---
 ## Hue2Resource() {#constructor}
 
-Инициализирует новый экземпляр класса[`Hue2Resource`](../../hue2resource).
+Инициализирует новый экземпляр[`Hue2Resource`](../../hue2resource) класс.
 
 ```csharp
 public Hue2Resource()
@@ -24,7 +24,7 @@ public Hue2Resource()
 
 ## Hue2Resource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Hue2Resource`](../../hue2resource).
+Инициализирует новый экземпляр[`Hue2Resource`](../../hue2resource) класс.
 
 ```csharp
 public Hue2Resource(byte[] data)

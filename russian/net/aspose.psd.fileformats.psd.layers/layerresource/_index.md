@@ -3,7 +3,7 @@ title: LayerResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет информацию о слое.
 type: docs
-weight: 2220
+weight: 2260
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresource/
 ---
 ## LayerResource class
@@ -28,7 +28,7 @@ public abstract class LayerResource
 | Имя | Описание |
 | --- | --- |
 | abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 

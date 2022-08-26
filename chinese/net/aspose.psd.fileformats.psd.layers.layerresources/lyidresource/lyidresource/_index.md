@@ -1,14 +1,14 @@
 ---
 title: LyidResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LyidResourceaspose.psd.fileformats.psd.layers.layerresources/lyidresource类的新实例
+description: 初始化LyidResourceaspose.psd.fileformats.psd.layers.layerresources/lyidresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lyidresource/
 ---
 ## LyidResource(int) {#constructor_1}
 
-初始化[`LyidResource`](../../lyidresource)类的新实例。
+初始化[`LyidResource`](../../lyidresource)类.
 
 ```csharp
 public LyidResource(int id)
@@ -16,7 +16,7 @@ public LyidResource(int id)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| id | Int32 | 层的标识符。 |
+| id | Int32 | 图层的标识符。 |
 
 ### 也可以看看
 
@@ -28,7 +28,7 @@ public LyidResource(int id)
 
 ## LyidResource(byte[]) {#constructor}
 
-初始化[`LyidResource`](../../lyidresource)类的新实例。 具有自定义或未知值
+初始化[`LyidResource`](../../lyidresource) class. 具有自定义或未知值
 
 ```csharp
 public LyidResource(byte[] bytes)

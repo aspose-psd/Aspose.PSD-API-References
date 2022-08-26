@@ -1,14 +1,14 @@
 ---
 title: Exposure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает экспозицию.
+description: Получает или задает экспозицию.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/
 ---
 ## ExpaResource.Exposure property
 
-Получает или устанавливает экспозицию.
+Получает или задает экспозицию.
 
 ```csharp
 public float Exposure { get; set; }

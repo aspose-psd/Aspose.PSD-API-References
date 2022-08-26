@@ -1,14 +1,14 @@
 ---
 title: LoadContents
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает встроенное или связанное содержимое изображения слоя смарт-объекта.
+description: Получает содержимое встроенного или связанного изображения слоя смартобъекта.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/
 ---
 ## SmartObjectLayer.LoadContents method
 
-Получает встроенное или связанное содержимое изображения слоя смарт-объекта.
+Получает содержимое встроенного или связанного изображения слоя смарт-объекта.
 
 ```csharp
 public Image LoadContents(LoadOptions options)
@@ -16,11 +16,11 @@ public Image LoadContents(LoadOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | LoadOptions | Опции. |
+| options | LoadOptions | Варианты. |
 
 ### Возвращаемое значение
 
-Загруженный[`Image`](../../../aspose.psd/image)экземпляр смарт-объекта.
+Загруженный[`Image`](../../../aspose.psd/image) экземпляр смарт-объекта.
 
 ### Примеры
 

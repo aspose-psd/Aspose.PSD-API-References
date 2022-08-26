@@ -1,14 +1,14 @@
 ---
 title: SetValueInPosition
 second_title: Aspose.PSD for .NET API 参考
-description: 设置位置值
+description: 设置位置的值
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/
 ---
 ## CurvesDiscreteManager.SetValueInPosition method
 
-设置位置值。
+设置位置的值。
 
 ```csharp
 public void SetValueInPosition(int channelIndex, byte position, byte value)
@@ -16,9 +16,9 @@ public void SetValueInPosition(int channelIndex, byte position, byte value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
-| position | Byte | 位置。 |
-| value | Byte | 值。 |
+| channelIndex | Int32 | 频道索引。 |
+| position | Byte | 立场。 |
+| value | Byte | 价值。 |
 
 ### 也可以看看
 

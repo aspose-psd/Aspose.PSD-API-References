@@ -1,14 +1,14 @@
 ---
 title: ClearBrushRemapTable
 second_title: Справочник по Aspose.PSD для .NET API
-description: Очищает таблицу переназначения цвета кисти для этогоImageAttributesaspose.psd/imageattributesобъекта.
+description: Очищает таблицу переназначения цветов кисти от этогоImageAttributesaspose.psd/imageattributes объект.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/imageattributes/clearbrushremaptable/
 ---
 ## ImageAttributes.ClearBrushRemapTable method
 
-Очищает таблицу переназначения цвета кисти для этого[`ImageAttributes`](../../imageattributes)объекта.
+Очищает таблицу переназначения цветов кисти от этого[`ImageAttributes`](../../imageattributes) объект.
 
 ```csharp
 public void ClearBrushRemapTable()

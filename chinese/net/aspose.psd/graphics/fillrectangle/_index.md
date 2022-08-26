@@ -1,14 +1,14 @@
 ---
 title: FillRectangle
 second_title: Aspose.PSD for .NET API 参考
-description: 填充由Rectangleaspose.psd/rectangle结构指定的矩形内部
+description: 填充由 a 指定的矩形的内部Rectangleaspose.psd/rectangle结构.
 type: docs
 weight: 390
 url: /zh/net/aspose.psd/graphics/fillrectangle/
 ---
 ## FillRectangle(Brush, Rectangle) {#fillrectangle}
 
-填充由[`Rectangle`](../../rectangle)结构指定的矩形内部。
+填充由 a 指定的矩形的内部[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public void FillRectangle(Brush brush, Rectangle rect)
@@ -16,14 +16,14 @@ public void FillRectangle(Brush brush, Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)确定填充的特性。 |
-| rect | Rectangle | [`Rectangle`](../../rectangle)结构，表示要填充的矩形。 |
+| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
+| rect | Rectangle | [`Rectangle`](../../rectangle)表示要填充的矩形的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 
@@ -37,7 +37,7 @@ public void FillRectangle(Brush brush, Rectangle rect)
 
 ## FillRectangle(Brush, RectangleF) {#fillrectangle_1}
 
-填充由[`RectangleF`](../../rectanglef)结构指定的矩形内部。
+填充由 a 指定的矩形的内部[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public void FillRectangle(Brush brush, RectangleF rect)
@@ -45,14 +45,14 @@ public void FillRectangle(Brush brush, RectangleF rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)确定填充的特性。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)结构，表示要填充的矩形。 |
+| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
+| rect | RectangleF | [`RectangleF`](../../rectanglef)表示要填充的矩形的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 
@@ -74,7 +74,7 @@ public void FillRectangle(Brush brush, float x, float y, float width, float heig
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)确定填充的特性。 |
+| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
 | x | Single | 要填充的矩形左上角的 x 坐标。 |
 | y | Single | 要填充的矩形左上角的 y 坐标。 |
 | width | Single | 要填充的矩形的宽度。 |
@@ -84,7 +84,7 @@ public void FillRectangle(Brush brush, float x, float y, float width, float heig
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 
@@ -105,7 +105,7 @@ public void FillRectangle(Brush brush, int x, int y, int width, int height)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)确定填充的特性。 |
+| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
 | x | Int32 | 要填充的矩形左上角的 x 坐标。 |
 | y | Int32 | 要填充的矩形左上角的 y 坐标。 |
 | width | Int32 | 要填充的矩形的宽度。 |
@@ -115,7 +115,7 @@ public void FillRectangle(Brush brush, int x, int y, int width, int height)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 |
+| ArgumentNullException | *brush*一片空白。 |
 
 ### 也可以看看
 

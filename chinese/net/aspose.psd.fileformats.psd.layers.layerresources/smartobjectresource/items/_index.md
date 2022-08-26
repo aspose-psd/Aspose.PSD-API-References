@@ -1,14 +1,14 @@
 ---
 title: Items
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置PSD文件中智能对象层数据的描述符项
+description: 获取或设置PSD文件中智能对象图层数据的描述符项
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/
 ---
 ## SmartObjectResource.Items property
 
-获取或设置PSD文件中智能对象层数据的描述符项。
+获取或设置PSD文件中智能对象图层数据的描述符项
 
 ```csharp
 public override OSTypeStructure[] Items { get; set; }

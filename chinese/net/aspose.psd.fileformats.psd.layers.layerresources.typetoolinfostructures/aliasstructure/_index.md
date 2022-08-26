@@ -3,7 +3,7 @@ title: AliasStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 别名结构
 type: docs
-weight: 3000
+weight: 3050
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/
 ---
 ## AliasStructure class
@@ -18,17 +18,17 @@ public sealed class AliasStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AliasStructure](aliasstructure)(ClassID) | 初始化[`AliasStructure`](../aliasstructure)类的新实例。 |
+| [AliasStructure](aliasstructure)(ClassID) | 初始化[`AliasStructure`](../aliasstructure)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DataLength](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength) { get; } | 获取准确的数据长度（以字节为单位）。 |
+| [DataLength](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength) { get; } | 以字节为单位获取确切的数据长度。 |
 | [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/fullpath) { get; set; } | 获取或设置完整路径。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 
 ## 方法
 

@@ -1,14 +1,14 @@
 ---
 title: GifImageException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаGifImageExceptionaspose.psd.coreexceptions.imageformats/gifimageexception.
+description: Инициализирует новый экземплярGifImageExceptionaspose.psd.coreexceptions.imageformats/gifimageexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.imageformats/gifimageexception/gifimageexception/
 ---
 ## GifImageException(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`GifImageException`](../../gifimageexception).
+Инициализирует новый экземпляр[`GifImageException`](../../gifimageexception) класс.
 
 ```csharp
 public GifImageException(string message)
@@ -28,7 +28,7 @@ public GifImageException(string message)
 
 ## GifImageException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`GifImageException`](../../gifimageexception).
+Инициализирует новый экземпляр[`GifImageException`](../../gifimageexception) класс.
 
 ```csharp
 public GifImageException(string message, Exception innerException)

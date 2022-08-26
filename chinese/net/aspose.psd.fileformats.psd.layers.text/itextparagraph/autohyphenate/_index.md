@@ -1,14 +1,14 @@
 ---
 title: AutoHyphenate
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否自动连字符
+description: 获取或设置一个值指示是否自动连字符.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/
 ---
 ## ITextParagraph.AutoHyphenate property
 
-获取或设置一个值，指示是否[自动连字符]。
+获取或设置一个值，指示是否[自动连字符].
 
 ```csharp
 public bool AutoHyphenate { get; set; }
@@ -16,11 +16,11 @@ public bool AutoHyphenate { get; set; }
 
 ### 适当的价值
 
-` true` if [自动连字符]；否则，` false` 。
+`真的` if [自动连字符];否则，`错误的` .
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: Overprint
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее будет ли этотStrokeEffectaspose.psd.fileformats.psd.layers.layereffects/strokeeffectсмешивать обводку с текущее содержимое слоя.
+description: Получает или задает значение указывающее является ли этоStrokeEffectaspose.psd.fileformats.psd.layers.layereffects/strokeeffect смешает обводку с текущим содержимым слоя.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/
 ---
 ## StrokeEffect.Overprint property
 
-Получает или задает значение, указывающее, будет ли этот[`StrokeEffect`](../../strokeeffect)смешивать обводку с текущее содержимое слоя.
+Получает или задает значение, указывающее, является ли это[`StrokeEffect`](../../strokeeffect) смешает обводку с текущим содержимым слоя.
 
 ```csharp
 public bool Overprint { get; set; }
@@ -16,11 +16,11 @@ public bool Overprint { get; set; }
 
 ### Стоимость имущества
 
-` true` , если он должен смешать обводку с текущим содержимым слоя; в противном случае` false` .
+`истинный`если он должен смешать обводку с текущим содержимым слоя; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 
-Этот пример демонстрирует возможность добавления эффекта обводки с различными типами заливки, такими как Цвет, Градиент или Узор.
+В этом примере демонстрируется возможность добавления эффекта обводки с различными типами заливки, такими как «Цвет», «Градиент» или «Узор».
 
 ```csharp
 [C#]

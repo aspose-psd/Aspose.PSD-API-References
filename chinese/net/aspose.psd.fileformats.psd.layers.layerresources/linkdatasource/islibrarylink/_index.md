@@ -16,7 +16,7 @@ public bool IsLibraryLink { get; }
 
 ### 适当的价值
 
-` true` 如果此实例是 Adobe® Photoshop® СС 库链接；否则，` false` 。
+`真的`如果此实例是 Adobe® Photoshop® СС 库链接；否则，`错误的` .
 
 ### 例外
 

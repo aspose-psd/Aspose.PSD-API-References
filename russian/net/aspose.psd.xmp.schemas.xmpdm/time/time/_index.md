@@ -1,14 +1,14 @@
 ---
 title: Time
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаTimeaspose.psd.xmp.schemas.xmpdm/time.
+description: Инициализирует новый экземплярTimeaspose.psd.xmp.schemas.xmpdm/time класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/time/time/
 ---
 ## Time constructor
 
-Инициализирует новый экземпляр класса[`Time`](../../time).
+Инициализирует новый экземпляр[`Time`](../../time) класс.
 
 ```csharp
 public Time(Rational scale, int value)

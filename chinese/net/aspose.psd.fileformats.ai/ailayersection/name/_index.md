@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置图层名称 指定项目在层面板中显示的名称
+description: 获取或设置图层名称 指定显示在图层面板中的项目名称
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
 ## AiLayerSection.Name property
 
-获取或设置图层名称。 指定项目在“层”面板中显示的名称。
+获取或设置图层名称。 指定显示在“图层”面板中的项目名称。
 
 ```csharp
 public string Name { get; set; }
@@ -20,7 +20,7 @@ public string Name { get; set; }
 
 ### 例子
 
-以下示例演示了对 AI 格式文件中层的支持。
+以下示例演示了对 AI 格式文件中的层的支持。
 
 ```csharp
 [C#]

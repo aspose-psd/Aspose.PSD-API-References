@@ -1,14 +1,14 @@
 ---
 title: ExposureIndex
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает индекс воздействия.
+description: Получает или задает индекс экспозиции.
 type: docs
 weight: 200
 url: /ru/net/aspose.psd.exif/exifdata/exposureindex/
 ---
 ## ExifData.ExposureIndex property
 
-Получает или задает индекс воздействия.
+Получает или задает индекс экспозиции.
 
 ```csharp
 public TiffRational ExposureIndex { get; set; }

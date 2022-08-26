@@ -16,7 +16,7 @@ public ColorOverlayEffect AddColorOverlay()
 
 ### Возвращаемое значение
 
-Создано[`ColorOverlayEffect`](../../coloroverlayeffect)объект
+Создано[`ColorOverlayEffect`](../../coloroverlayeffect) объект
 
 ### Смотрите также
 

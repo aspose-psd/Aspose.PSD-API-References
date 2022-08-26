@@ -30,11 +30,11 @@ public static class Cache
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [SetDefaults](../../aspose.psd/cache/setdefaults)() | 将[`Cache`](../cache)设置设置为默认值。 |
+| static [SetDefaults](../../aspose.psd/cache/setdefaults)() | 设置[`Cache`](../cache)设置为默认值。 |
 
 ### 例子
 
-这个例子演示了Aspose.PSD.Cache的使用
+这个例子演示了 Aspose.PSD.Cache 的使用
 
 ```csharp
 [C#]

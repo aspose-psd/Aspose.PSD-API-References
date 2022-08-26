@@ -1,14 +1,14 @@
 ---
 title: UnitStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化UnitStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure类的新实例
+description: 初始化UnitStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unitstructure/
 ---
 ## UnitStructure constructor
 
-初始化[`UnitStructure`](../../unitstructure)类的新实例。
+初始化[`UnitStructure`](../../unitstructure)类.
 
 ```csharp
 public UnitStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public UnitStructure(ClassID keyName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 
 ### 也可以看看
 

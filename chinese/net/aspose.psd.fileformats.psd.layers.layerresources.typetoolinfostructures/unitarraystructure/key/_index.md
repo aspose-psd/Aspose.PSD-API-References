@@ -1,14 +1,14 @@
 ---
 title: Key
 second_title: Aspose.PSD for .NET API 参考
-description: 获取本单元数组结构键
+description: 获取本单元数组结构key.
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/
 ---
 ## UnitArrayStructure.Key property
 
-获取本单元数组结构键。
+获取本单元数组结构key.
 
 ```csharp
 public override int Key { get; }

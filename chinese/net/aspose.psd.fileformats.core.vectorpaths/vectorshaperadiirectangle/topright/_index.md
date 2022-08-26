@@ -16,7 +16,7 @@ public double TopRight { get; set; }
 
 ### 适当的价值
 
-右上角。
+右上角.
 
 ### 也可以看看
 

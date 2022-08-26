@@ -41,6 +41,7 @@ using (var image = new PsdImage(500, 500))
     TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
+    firstPortion.Style.FontSize = 24;
     firstPortion.Style.FontName = FontSettings.GetAdobeFontName("Comic Sans MS");
 
     var secondPortion = textLayer.TextData.ProducePortion();

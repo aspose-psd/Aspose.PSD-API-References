@@ -1,14 +1,14 @@
 ---
 title: ILayerResourceLoader
 second_title: Aspose.PSD for .NET API 参考
-description: 图层资源加载器
+description: 图层资源加载器.
 type: docs
-weight: 2010
+weight: 2050
 url: /zh/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
 ## ILayerResourceLoader interface
 
-图层资源加载器。
+图层资源加载器.
 
 ```csharp
 public interface ILayerResourceLoader
@@ -18,8 +18,8 @@ public interface ILayerResourceLoader
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload)(StreamContainer, int) | 确定是否可以从指定的[`StreamContainer`](../../aspose.psd/streamcontainer)加载图层资源。 |
-| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load)(StreamContainer, int) | 加载[`LayerResource`](../layerresource)。 |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload)(StreamContainer, int) | 判断是否可以从指定的加载层资源[`StreamContainer`](../../aspose.psd/streamcontainer) . |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load)(StreamContainer, int) | 加载[`LayerResource`](../layerresource) . |
 
 ### 也可以看看
 

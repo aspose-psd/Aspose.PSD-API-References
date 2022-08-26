@@ -16,7 +16,7 @@ public override int MinimalVersion { get; }
 
 ### 适当的价值
 
-最小的psd版本。
+最小的 psd 版本。
 
 ### 也可以看看
 

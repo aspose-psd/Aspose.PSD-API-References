@@ -1,14 +1,14 @@
 ---
 title: LiFdDataSource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LiFdDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifddatasource类的新实例
+description: 初始化LiFdDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifddatasource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/lifddatasource/
 ---
 ## LiFdDataSource() {#constructor}
 
-初始化[`LiFdDataSource`](../../lifddatasource)类的新实例。
+初始化[`LiFdDataSource`](../../lifddatasource)类.
 
 ```csharp
 public LiFdDataSource()
@@ -24,7 +24,7 @@ public LiFdDataSource()
 
 ## LiFdDataSource(int, Guid, string, string, string) {#constructor_1}
 
-初始化[`LiFdDataSource`](../../lifddatasource)类的新实例。
+初始化[`LiFdDataSource`](../../lifddatasource)类.
 
 ```csharp
 public LiFdDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 

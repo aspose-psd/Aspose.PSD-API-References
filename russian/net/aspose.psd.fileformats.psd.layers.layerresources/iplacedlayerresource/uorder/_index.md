@@ -1,7 +1,7 @@
 ---
 title: UOrder
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение порядка U размещенного слоя в PSD-файле.
+description: Получает или задает значение порядка U размещенного слоя в PSDфайле.
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/
@@ -16,7 +16,7 @@ public int UOrder { get; set; }
 
 ### Стоимость имущества
 
-Значение U-порядка размещенного слоя.
+Значение порядка U размещенного слоя.
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public RectangleF TileBox { get; set; }
 
 ### 适当的价值
 
-瓷砖框。
+方块框。
 
 ### 也可以看看
 

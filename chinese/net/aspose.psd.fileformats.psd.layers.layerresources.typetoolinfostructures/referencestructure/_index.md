@@ -1,14 +1,14 @@
 ---
 title: ReferenceStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 引用结构
+description: 参考结构
 type: docs
-weight: 3140
+weight: 3190
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/
 ---
 ## ReferenceStructure class
 
-引用结构。
+参考结构。
 
 ```csharp
 public sealed class ReferenceStructure : OSTypeStructure
@@ -18,16 +18,16 @@ public sealed class ReferenceStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ReferenceStructure](referencestructure)(ClassID) | 初始化[`ReferenceStructure`](../referencestructure)类的新实例。 |
+| [ReferenceStructure](referencestructure)(ClassID) | 初始化[`ReferenceStructure`](../referencestructure)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items) { get; set; } | 获取或设置项目。 |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items) { get; set; } | 获取或设置结构数组的副本。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 
 ## 方法
 

@@ -1,14 +1,14 @@
 ---
 title: VOrder
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение вертикального порядка размещенного слоя в PSD-файле.
+description: Получает или задает значение V порядка размещенного слоя в файле PSD.
 type: docs
 weight: 240
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/
 ---
 ## PlacedResource.VOrder property
 
-Получает или задает значение вертикального порядка размещенного слоя в PSD-файле.
+Получает или задает значение V порядка размещенного слоя в файле PSD.
 
 ```csharp
 public int VOrder { get; set; }
@@ -16,7 +16,7 @@ public int VOrder { get; set; }
 
 ### Стоимость имущества
 
-Значение V порядка размещенного слоя.
+Значение порядка V размещенного слоя.
 
 ### Смотрите также
 

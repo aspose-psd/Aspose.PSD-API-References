@@ -1,14 +1,14 @@
 ---
 title: LinearGradientBrushBase
 second_title: Aspose.PSD for .NET API 参考
-description: 表示具有渐变功能和适当属性的Brush../aspose.psd/brush
+description: 代表一个Brush../aspose.psd/brush具有渐变功能和适当的属性
 type: docs
 weight: 150
 url: /zh/net/aspose.psd.brushes/lineargradientbrushbase/
 ---
 ## LinearGradientBrushBase class
 
-表示具有渐变功能和适当属性的[`Brush`](../../aspose.psd/brush)。
+代表一个[`Brush`](../../aspose.psd/brush)具有渐变功能和适当的属性。
 
 ```csharp
 public abstract class LinearGradientBrushBase : TransformBrush
@@ -19,30 +19,30 @@ public abstract class LinearGradientBrushBase : TransformBrush
 | 姓名 | 描述 |
 | --- | --- |
 | [Angle](../../aspose.psd.brushes/lineargradientbrushbase/angle) { get; set; } | 获取或设置渐变角度。 |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
-| [GammaCorrection](../../aspose.psd.brushes/lineargradientbrushbase/gammacorrection) { get; set; } | 获取或设置一个值，该值指示是否为此[`LinearGradientBrushBase`](../lineargradientbrushbase)启用伽马校正。 |
-| [IsAngleScalable](../../aspose.psd.brushes/lineargradientbrushbase/isanglescalable) { get; set; } | 获取或设置一个值，该值指示[`Angle`](./angle)在使用此LinearGradientBrushBase。 |
-| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged) { get; } | 获取一个值，该值指示是否以某种方式更改了转换。例如设置变换矩阵或 调用任何改变变换矩阵的方法。引入该属性是为了向后兼容 GDI+。 |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
+| [GammaCorrection](../../aspose.psd.brushes/lineargradientbrushbase/gammacorrection) { get; set; } | 获取或设置一个值，该值指示是否为此启用伽马校正[`LinearGradientBrushBase`](../lineargradientbrushbase) . |
+| [IsAngleScalable](../../aspose.psd.brushes/lineargradientbrushbase/isanglescalable) { get; set; } | 获取或设置一个值，指示是否[`Angle`](./angle)在转换过程中改变了这个[`LinearGradientBrushBase`](../lineargradientbrushbase) . |
+| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged) { get; } | 获取一个值，该值指示转换是否以某种方式更改。例如设置变换矩阵或 调用任何改变变换矩阵的方法。引入该属性是为了向后兼容 GDI+. |
 | [Opacity](../../aspose.psd/brush/opacity) { get; set; } | 获取或设置画笔不透明度。该值应介于 0 和 1 之间。值 0 表示画笔完全可见，值 1 表示画笔完全不透明。 |
 | [Rectangle](../../aspose.psd.brushes/lineargradientbrushbase/rectangle) { get; set; } | 获取或设置定义渐变起点和终点的矩形区域。 |
-| [Transform](../../aspose.psd.brushes/transformbrush/transform) { get; set; } | 获取或设置一个副本[`Matrix`](../../aspose.psd/matrix)，它为此TransformBrush定义了一个局部几何变换。 |
-| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode) { get; set; } | 获取或设置一个[`WrapMode`](../../aspose.psd/wrapmode)枚举，指示此[`TransformBrush`](../transformbrush) 的环绕模式. |
+| [Transform](../../aspose.psd.brushes/transformbrush/transform) { get; set; } | 获取或设置一个副本[`Matrix`](../../aspose.psd/matrix)它为此定义了一个局部几何变换[`TransformBrush`](../transformbrush) . |
+| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode) { get; set; } | 获取或设置一个[`WrapMode`](../../aspose.psd/wrapmode)指示此包装模式的枚举[`TransformBrush`](../transformbrush) . |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | 创建当前[`Brush`](../../aspose.psd/brush)的新深层克隆。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform)(Matrix) | 将表示此[`LinearGradientBrush`](../lineargradientbrush)的局部几何变换的[`Matrix`](../../aspose.psd/matrix)乘以指定的[`Matrix`](../../aspose.psd/matrix)前面加上指定的[`Matrix`](../../aspose.psd/matrix)。 |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform)(Matrix, MatrixOrder) | 将表示此[`LinearGradientBrush`](../lineargradientbrush)的局部几何变换的[`Matrix`](../../aspose.psd/matrix)乘以以指定顺序指定的[`Matrix`](../../aspose.psd/matrix)。 |
-| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform)() | 将[`Transform`](../transformbrush/transform)属性重置为标识。 |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform)(float) | 将局部几何变换旋转指定的量。此方法将旋转添加到变换中。 |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform)(float, MatrixOrder) | 按指定顺序将局部几何变换旋转指定量。 |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform)(float, float) | 按指定量缩放局部几何变换。此方法将缩放矩阵添加到变换中。 |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone)() | 创建当前的新深层克隆[`Brush`](../../aspose.psd/brush) . |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform)(Matrix) | 乘以[`Matrix`](../../aspose.psd/matrix)表示这个的局部几何变换[`LinearGradientBrush`](../lineargradientbrush)由指定的[`Matrix`](../../aspose.psd/matrix)通过预先指定[`Matrix`](../../aspose.psd/matrix) . |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform)(Matrix, MatrixOrder) | 乘以[`Matrix`](../../aspose.psd/matrix)表示这个的局部几何变换[`LinearGradientBrush`](../lineargradientbrush)由指定的[`Matrix`](../../aspose.psd/matrix)按指定顺序。 |
+| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform)() | 重置[`Transform`](../transformbrush/transform)身份的属性. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform)(float) | 将局部几何变换旋转指定的量。此方法将旋转添加到 transform. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform)(float, MatrixOrder) | 以指定顺序将局部几何变换旋转指定量。 |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform)(float, float) | 按指定量缩放局部几何变换。此方法将缩放矩阵添加到 transform. |
 | [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform)(float, float, MatrixOrder) | 按指定顺序按指定量缩放局部几何变换。 |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform)(float, float) | 按指定尺寸平移局部几何变换。此方法将转换添加到转换之前。 |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform)(float, float, MatrixOrder) | 按指定顺序按指定维度平移局部几何变换。 |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform)(float, float) | 按指定尺寸平移局部几何变换。此方法将转换添加到 transform. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform)(float, float, MatrixOrder) | 以指定顺序按指定维度平移局部几何变换。 |
 
 ### 也可以看看
 

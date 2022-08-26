@@ -20,7 +20,7 @@ public void AddLayer(Layer layer)
 
 ### Примеры
 
-В следующем примере показано, как можно добавлять изображения Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif в качестве слоев в PsdImage
+В следующем примере показано, как можно добавлять изображения Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif в качестве слоев в PsdImage.
 
 ```csharp
 [C#]

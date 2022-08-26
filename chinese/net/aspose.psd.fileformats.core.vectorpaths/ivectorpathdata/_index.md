@@ -1,14 +1,14 @@
 ---
 title: IVectorPathData
 second_title: Aspose.PSD for .NET API 参考
-description: 访问矢量路径数据的接口
+description: 获取矢量路径数据的接口
 type: docs
 weight: 1350
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/
 ---
 ## IVectorPathData interface
 
-访问矢量路径数据的接口。
+获取矢量路径数据的接口。
 
 ```csharp
 public interface IVectorPathData
@@ -18,7 +18,7 @@ public interface IVectorPathData
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled) { get; set; } | 获取或设置一个值，指示该实例是否被禁用。 |
+| [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled) { get; set; } | 获取或设置一个值，该值指示此实例是否被禁用。 |
 | [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted) { get; set; } | 获取或设置一个值，指示此实例是否反转。 |
 | [IsNotLinked](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked) { get; set; } | 获取或设置一个值，该值指示此实例是否未链接。 |
 | [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths) { get; set; } | 获取或设置路径记录。 |
@@ -26,7 +26,7 @@ public interface IVectorPathData
 
 ### 例子
 
-这个例子演示了 PsdImage.ImageResources 中的“WorkingPathResource”资源的支持，以便正确进行裁剪操作。
+此示例演示了对 PsdImage.ImageResources 中的“WorkingPathResource”资源的支持，以便正确进行裁剪操作。
 
 ```csharp
 [C#]

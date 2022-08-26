@@ -3,7 +3,7 @@ title: IIndexedColorConverter
 second_title: Aspose.PSD for .NET API 参考
 description: 索引图像格式的颜色转换器
 type: docs
-weight: 4350
+weight: 4400
 url: /zh/net/aspose.psd/iindexedcolorconverter/
 ---
 ## IIndexedColorConverter interface

@@ -1,14 +1,14 @@
 ---
 title: AddFigure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Добавляет новую фигурку.
+description: Добавляет новую фигуру.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/graphicspath/addfigure/
 ---
 ## GraphicsPath.AddFigure method
 
-Добавляет новую фигурку.
+Добавляет новую фигуру.
 
 ```csharp
 public void AddFigure(Figure figure)
@@ -20,7 +20,7 @@ public void AddFigure(Figure figure)
 
 ### Примеры
 
-В этих примерах классы GraphicsPath и Graphics используются для создания фигур на поверхности изображения и управления ими. Пример создает новое изображение и рисует пути с помощью класса GraphicsPath. В конце вызывается метод DrawPath, предоставляемый классом Graphics, для отображения путей на поверхности. Наконец, изображение экспортируется в формат файла Tiff.
+В этих примерах используются GraphicsPath и класс Graphics для создания и управления рисунками на поверхности изображения. Пример создает новое изображение и рисует пути с помощью класса GraphicsPath. В конце вызывается метод DrawPath, предоставляемый классом Graphics, для отображения путей на поверхности. Наконец, изображение экспортируется в формат файла Tiff.
 
 ```csharp
 [C#]

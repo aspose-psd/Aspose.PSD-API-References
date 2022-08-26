@@ -3,7 +3,7 @@ title: PdfOptions
 second_title: Aspose.PSD for .NET API 参考
 description: PDF 选项
 type: docs
-weight: 4750
+weight: 4800
 url: /zh/net/aspose.psd.imageoptions/pdfoptions/
 ---
 ## PdfOptions class
@@ -25,9 +25,9 @@ public class PdfOptions : ImageOptionsBase
 | 姓名 | 描述 |
 | --- | --- |
 | [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | 获取或设置缓冲区大小提示，该提示定义了所有内部缓冲区的最大允许大小。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（如果系统中未显示 PSD 文件中的现有图层字体，则在导出为栅格时用于绘制文本的字体）。 下一个代码片段可以使用默认字体的正确名称： System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] 系列 = col.Families; 字符串 defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]。 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果 PSD 文件中的现有图层字体未在系统中显示）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | 多页选项 |
 | [PageSize](../../aspose.psd.imageoptions/pdfoptions/pagesize) { get; set; } | 获取或设置页面大小。 |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | 获取或设置调色板。 |
@@ -35,7 +35,7 @@ public class PdfOptions : ImageOptionsBase
 | [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo) { get; set; } | 获取或设置文档的元数据。 |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | 获取或设置进度事件处理程序。 |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | 获取或设置分辨率设置。 |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置创建图像的源。 |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置要在其中创建图像的源。 |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | 获取或设置矢量光栅化选项。 |
 | virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata) { get; set; } | 获取或设置 XMP 元数据容器。 |
 
@@ -44,11 +44,11 @@ public class PdfOptions : ImageOptionsBase
 | 姓名 | 描述 |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | 克隆此实例。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
 
 ### 例子
 
-以下示例演示了如何将 Adobe Illustrator 文件导出为 Aspose.PSD 中的 PDF 格式
+以下示例演示了如何在 Aspose.PSD 中将 Adobe Illustrator 文件导出为 PDF 格式
 
 ```csharp
 [C#]
@@ -91,7 +91,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-下面的例子演示了对导出 PsdImage 为 Pdf 格式的支持。
+以下示例演示了对将 PsdImage 导出为 Pdf 格式的支持。
 
 ```csharp
 [C#]

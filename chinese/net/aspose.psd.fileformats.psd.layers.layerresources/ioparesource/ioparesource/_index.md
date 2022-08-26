@@ -1,14 +1,14 @@
 ---
 title: IopaResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化IopaResourceaspose.psd.fileformats.psd.layers.layerresources/ioparesource类的新实例
+description: 初始化IopaResourceaspose.psd.fileformats.psd.layers.layerresources/ioparesource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/ioparesource/
 ---
 ## IopaResource() {#constructor}
 
-初始化[`IopaResource`](../../ioparesource)类的新实例。
+初始化[`IopaResource`](../../ioparesource)类.
 
 ```csharp
 public IopaResource()
@@ -24,7 +24,7 @@ public IopaResource()
 
 ## IopaResource(byte[]) {#constructor_1}
 
-初始化[`IopaResource`](../../ioparesource)类的新实例。
+初始化[`IopaResource`](../../ioparesource)类.
 
 ```csharp
 public IopaResource(byte[] data)

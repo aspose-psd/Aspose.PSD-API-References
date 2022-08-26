@@ -1,14 +1,14 @@
 ---
 title: StandardOutputSensitivity
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает стандартную выходную чувствительность
+description: Получает или задает стандартную выходную чувствительность
 type: docs
 weight: 980
 url: /ru/net/aspose.psd.exif/exifdata/standardoutputsensitivity/
 ---
 ## ExifData.StandardOutputSensitivity property
 
-Получает или устанавливает стандартную выходную чувствительность
+Получает или задает стандартную выходную чувствительность
 
 ```csharp
 public uint StandardOutputSensitivity { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: PenType
 second_title: Aspose.PSD for .NET API 参考
-description: 指定Pen./pen对象用于填充线条的填充类型
+description: 指定填充类型Pen./pen对象用于填充线条
 type: docs
-weight: 5100
+weight: 5150
 url: /zh/net/aspose.psd/pentype/
 ---
 ## PenType enumeration
 
-指定[`Pen`](../pen)对象用于填充线条的填充类型。
+指定填充类型[`Pen`](../pen)对象用于填充线条。
 
 ```csharp
 public enum PenType
@@ -19,7 +19,7 @@ public enum PenType
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | SolidColor | `0` | 指定实心填充。 |
-| HatchFill | `1` | 指定填充。 |
+| HatchFill | `1` | 指定填充填充。 |
 | TextureFill | `2` | 指定位图纹理填充。 |
 | PathGradient | `3` | 指定路径渐变填充。 |
 | LinearGradient | `4` | 指定线性渐变填充。 |

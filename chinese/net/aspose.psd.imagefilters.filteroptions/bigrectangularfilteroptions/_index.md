@@ -3,7 +3,7 @@ title: BigRectangularFilterOptions
 second_title: Aspose.PSD for .NET API 参考
 description: 大矩形过滤器选项
 type: docs
-weight: 4530
+weight: 4580
 url: /zh/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
 ## BigRectangularFilterOptions class

@@ -1,14 +1,14 @@
 ---
 title: ConvolutionFilterOptions
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ConvolutionFilterOptionsaspose.psd.imagefilters.filteroptions/convolutionfilteroptions类的新实例
+description: 初始化ConvolutionFilterOptionsaspose.psd.imagefilters.filteroptions/convolutionfilteroptions类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
 ## ConvolutionFilterOptions constructor
 
-初始化[`ConvolutionFilterOptions`](../../convolutionfilteroptions)类的新实例。
+初始化[`ConvolutionFilterOptions`](../../convolutionfilteroptions)类.
 
 ```csharp
 public ConvolutionFilterOptions()

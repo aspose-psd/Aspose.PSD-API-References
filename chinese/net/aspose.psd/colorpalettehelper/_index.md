@@ -1,14 +1,14 @@
 ---
 title: ColorPaletteHelper
 second_title: Aspose.PSD for .NET API 参考
-description: 调色板操作的帮助类
+description: 调色板操作的辅助类
 type: docs
 weight: 380
 url: /zh/net/aspose.psd/colorpalettehelper/
 ---
 ## ColorPaletteHelper class
 
-调色板操作的帮助类。
+调色板操作的辅助类。
 
 ```csharp
 public static class ColorPaletteHelper
@@ -23,12 +23,12 @@ public static class ColorPaletteHelper
 | static [Create8Bit](../../aspose.psd/colorpalettehelper/create8bit)() | 创建 8 位调色板。 |
 | static [Create8BitGrayscale](../../aspose.psd/colorpalettehelper/create8bitgrayscale)(bool) | 创建 8 位灰度调色板。 |
 | static [CreateMonochrome](../../aspose.psd/colorpalettehelper/createmonochrome)() | 创建仅包含 2 种颜色的单色调色板。 |
-| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette#getcloseimagepalette_2)(RasterImage, int) | 从光栅图像中获取调色板（对图像进行调色），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。 |
-| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette#getcloseimagepalette)(RasterImage, Rectangle, int) | 从光栅图像中获取调色板（对图像进行调色），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。 |
-| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette#getcloseimagepalette_1)(RasterImage, Rectangle, int, bool) | 从光栅图像中获取调色板（对图像进行调色），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。 |
+| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette#getcloseimagepalette_2)(RasterImage, int) | 从光栅图像中获取调色板（调色图像），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。 |
+| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette#getcloseimagepalette)(RasterImage, Rectangle, int) | 从光栅图像中获取调色板（调色图像），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。 |
+| static [GetCloseImagePalette](../../aspose.psd/colorpalettehelper/getcloseimagepalette#getcloseimagepalette_1)(RasterImage, Rectangle, int, bool) | 从光栅图像中获取调色板（调色图像），以防图像没有调色板。如果调色板存在，它将被用来代替执行计算。 |
 | static [GetDownscalePalette](../../aspose.psd/colorpalettehelper/getdownscalepalette)(RasterImage) | 获取 256 个调色板，由初始图像颜色值的高位组成。 |
-| static [GetUniformColorPalette](../../aspose.psd/colorpalettehelper/getuniformcolorpalette)(RasterImage) | 获得统一的 256 调色板。 |
-| static [HasTransparentColors](../../aspose.psd/colorpalettehelper/hastransparentcolors)(IColorPalette) | 确定指定调色板是否具有透明色。 |
+| static [GetUniformColorPalette](../../aspose.psd/colorpalettehelper/getuniformcolorpalette)(RasterImage) | 获取统一的 256 调色板。 |
+| static [HasTransparentColors](../../aspose.psd/colorpalettehelper/hastransparentcolors)(IColorPalette) | 判断指定调色板是否有透明色。 |
 
 ### 也可以看看
 

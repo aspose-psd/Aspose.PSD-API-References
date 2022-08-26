@@ -1,14 +1,14 @@
 ---
 title: GenericDefault
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает общий объект по умолчаниюStringFormataspose.psd/stringformat.
+description: Получает общее значение по умолчаниюStringFormataspose.psd/stringformat объект.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/stringformat/genericdefault/
 ---
 ## StringFormat.GenericDefault property
 
-Получает общий объект по умолчанию[`StringFormat`](../../stringformat).
+Получает общее значение по умолчанию[`StringFormat`](../../stringformat) объект.
 
 ```csharp
 public static StringFormat GenericDefault { get; }
@@ -16,7 +16,7 @@ public static StringFormat GenericDefault { get; }
 
 ### Стоимость имущества
 
-Общий объект по умолчанию[`StringFormat`](../../stringformat).
+Общий по умолчанию[`StringFormat`](../../stringformat) объект.
 
 ### Смотрите также
 

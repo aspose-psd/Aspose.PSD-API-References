@@ -1,14 +1,14 @@
 ---
 title: Blend
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаBlendaspose.psd/blend. Количество элементов в массивах factor и blend будет равно 1.
+description: Инициализирует новый экземплярBlendaspose.psd/blend учебный класс. Количество элементов в массивах factor и blend будет равно 1.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/blend/blend/
 ---
 ## Blend() {#constructor}
 
-Инициализирует новый экземпляр класса[`Blend`](../../blend). Количество элементов в массивах factor и blend будет равно 1.
+Инициализирует новый экземпляр[`Blend`](../../blend) учебный класс. Количество элементов в массивах factor и blend будет равно 1.
 
 ```csharp
 public Blend()
@@ -24,7 +24,7 @@ public Blend()
 
 ## Blend(int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Blend`](../../blend)с указанным количеством факторов и позиций.
+Инициализирует новый экземпляр[`Blend`](../../blend) класс с указанным количеством факторов и позиций.
 
 ```csharp
 public Blend(int count)

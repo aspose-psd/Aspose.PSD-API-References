@@ -1,14 +1,14 @@
 ---
 title: DitheringMode
 second_title: Aspose.PSD for .NET API 参考
-description: 在保存时应用到图像的抖动设置
+description: 保存时应用到图像的抖动设置
 type: docs
 weight: 760
 url: /zh/net/aspose.psd.dithering/ditheringmode/
 ---
 ## DitheringMode class
 
-在保存时应用到图像的抖动设置。
+保存时应用到图像的抖动设置。
 
 ```csharp
 public class DitheringMode

@@ -1,14 +1,14 @@
 ---
 title: TranslateTransform
 second_title: Aspose.PSD for .NET API 参考
-description: 按指定尺寸平移局部几何变换此方法将转换添加到转换之前
+description: 按指定尺寸平移局部几何变换此方法将转换添加到 transform.
 type: docs
 weight: 460
 url: /zh/net/aspose.psd/graphics/translatetransform/
 ---
 ## TranslateTransform(float, float) {#translatetransform}
 
-按指定尺寸平移局部几何变换。此方法将转换添加到转换之前。
+按指定尺寸平移局部几何变换。此方法将转换添加到 transform.
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
@@ -16,7 +16,7 @@ public void TranslateTransform(float dx, float dy)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Single | x 中的翻译值。 |
+| dx | Single | x 中的平移值。 |
 | dy | Single | y 中的平移值。 |
 
 ### 也可以看看
@@ -29,7 +29,7 @@ public void TranslateTransform(float dx, float dy)
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-按指定顺序按指定维度平移局部几何变换。
+以指定顺序按指定维度平移局部几何变换。
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
@@ -37,7 +37,7 @@ public void TranslateTransform(float dx, float dy, MatrixOrder order)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Single | x 中的翻译值。 |
+| dx | Single | x 中的平移值。 |
 | dy | Single | y 中的平移值。 |
 | order | MatrixOrder | 应用翻译的顺序（前置或附加）。 |
 

@@ -1,14 +1,14 @@
 ---
 title: UniqueId
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает глобальный уникальный идентификатор данных слоя смарт-объектаSmartObjectResourceaspose.psd.fileformats.psd.layers.layerresources/smartobjectresourceв изображении PSD.
+description: Получает или задает глобальный уникальный идентификатор данных слоя смартобъекта.SmartObjectResourceaspose.psd.fileformats.psd.layers.layerresources/smartobjectresource в изображении PSD.
 type: docs
 weight: 240
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/
 ---
 ## SmartObjectResource.UniqueId property
 
-Получает или задает глобальный уникальный идентификатор данных слоя смарт-объекта[`SmartObjectResource`](../../smartobjectresource)в изображении PSD.
+Получает или задает глобальный уникальный идентификатор данных слоя смарт-объекта.[`SmartObjectResource`](../../smartobjectresource) в изображении PSD.
 
 ```csharp
 public override Guid UniqueId { get; set; }
@@ -16,7 +16,7 @@ public override Guid UniqueId { get; set; }
 
 ### Стоимость имущества
 
-Глобальный уникальный идентификатор данных слоя смарт-объекта[`SmartObjectResource`](../../smartobjectresource).
+Глобальный уникальный идентификатор данных слоя смарт-объекта[`SmartObjectResource`](../../smartobjectresource) .
 
 ### Примеры
 

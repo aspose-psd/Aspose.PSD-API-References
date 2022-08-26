@@ -3,7 +3,7 @@ title: RdOptimizerSettings
 second_title: Aspose.PSD for .NET API 参考
 description: RD 优化器设置类
 type: docs
-weight: 4790
+weight: 4840
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/
 ---
 ## RdOptimizerSettings class
@@ -24,13 +24,13 @@ public class RdOptimizerSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax) { get; set; } | 获取或设置要考虑的最大 R 值，以每像素位数为单位 |
+| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax) { get; set; } | 获取或设置要考虑的最大 R 值（以每像素位数为单位） |
 | [BppScale](../../aspose.psd.imageoptions/rdoptimizersettings/bppscale) { get; set; } | 获取或设置 BPP（每像素位数）比例因子。 |
-| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax) { get; } | 获取最大 R 值以供考虑。 |
+| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax) { get; } | 获取考虑的最大 R 值。 |
 | [MaxPixelValue](../../aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue) { get; } | 获取最大像素值。 |
 | [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq) { get; set; } | 获取或设置最大量化值。 |
 | [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq) { get; } | 获取允许的最小量化值。 |
-| [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax) { get; } | 获取 PSNR 最大预期值。 |
+| [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax) { get; } | 获取 PSNR 最大期望值。 |
 
 ## 方法
 

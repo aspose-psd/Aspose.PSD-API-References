@@ -1,14 +1,14 @@
 ---
 title: AsyncTask
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс статической фабрики для создания асинхронных задач
+description: Статический фабричный класс для создания асинхронных задач
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.asynctask/asynctask/
 ---
 ## AsyncTask class
 
-Класс статической фабрики для создания асинхронных задач
+Статический фабричный класс для создания асинхронных задач
 
 ```csharp
 public static class AsyncTask
@@ -18,7 +18,7 @@ public static class AsyncTask
 
 | Имя | Описание |
 | --- | --- |
-| static [Create](../../aspose.psd.asynctask/asynctask/create#create)(AsyncTaskAction) | Создает асинхронную задачу без какого-либо результата. |
+| static [Create](../../aspose.psd.asynctask/asynctask/create#create)(AsyncTaskAction) | Создает асинхронную задачу без результата. |
 | static [Create](../../aspose.psd.asynctask/asynctask/create#create_1)(AsyncTaskFunc) | Создает асинхронную задачу с результатом универсального типа. |
 
 ### Смотрите также

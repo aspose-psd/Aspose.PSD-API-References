@@ -1,7 +1,7 @@
 ---
 title: AlphaMask
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает альфа-маску.
+description: Получает или задает альфамаску.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/

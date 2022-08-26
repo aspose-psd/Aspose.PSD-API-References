@@ -1,14 +1,14 @@
 ---
 title: FauxBold
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает что искусственный жирный шрифт включен.
+description: Получает или устанавливает что искусственный полужирный шрифт включен.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/
 ---
 ## ITextStyle.FauxBold property
 
-Получает или задает, что искусственный жирный шрифт включен.
+Получает или устанавливает, что искусственный полужирный шрифт включен.
 
 ```csharp
 public bool FauxBold { get; set; }

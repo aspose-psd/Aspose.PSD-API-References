@@ -23,7 +23,7 @@ public TiffRational[] YCbCrCoefficients { get; set; }
 | исключение | условие |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception) | Неверный подсчет значений рациональных коэффициентов. Должно быть равно 3. |
-| ArgumentNullException | значение |
+| ArgumentNullException | ценность |
 
 ### Смотрите также
 

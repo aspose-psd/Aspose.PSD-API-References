@@ -1,14 +1,14 @@
 ---
 title: GPSTags
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置标签只属于 GPS 部分
+description: 获取或设置标签仅属于 GPS 部分
 type: docs
 weight: 630
 url: /zh/net/aspose.psd.exif/exifdata/gpstags/
 ---
 ## ExifData.GPSTags property
 
-获取或设置标签，只属于 GPS 部分。
+获取或设置标签，仅属于 GPS 部分。
 
 ```csharp
 public TiffDataType[] GPSTags { get; set; }

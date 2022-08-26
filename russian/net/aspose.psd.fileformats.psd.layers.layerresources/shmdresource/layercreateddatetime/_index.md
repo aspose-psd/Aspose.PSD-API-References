@@ -1,14 +1,14 @@
 ---
 title: LayerCreatedDateTime
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает время создания слоя. Если время создания слоя не указано то возвращается новое значение DateTime0
+description: Получает или задает время создания слоя. Если время создания слоя не указано то возвращается новый DateTime0
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/
 ---
 ## ShmdResource.LayerCreatedDateTime property
 
-Получает или задает время создания слоя. Если время создания слоя не указано, то возвращается новое значение DateTime(0)
+Получает или задает время создания слоя. Если время создания слоя не указано, то возвращается новый DateTime(0)
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }

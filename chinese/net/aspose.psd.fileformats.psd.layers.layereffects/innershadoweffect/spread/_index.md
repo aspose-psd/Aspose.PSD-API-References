@@ -1,14 +1,14 @@
 ---
 title: Spread
 second_title: Aspose.PSD for .NET API 参考
-description: 以百分比形式获取或设置传播扼流圈
+description: 获取或设置点差阻塞为百分比
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/
 ---
 ## InnerShadowEffect.Spread property
 
-以百分比形式获取或设置传播（扼流圈）。
+获取或设置点差（阻塞）为百分比。
 
 ```csharp
 public int Spread { get; set; }

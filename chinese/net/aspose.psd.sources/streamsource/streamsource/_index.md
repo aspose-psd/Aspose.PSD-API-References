@@ -1,14 +1,14 @@
 ---
 title: StreamSource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化StreamSourceaspose.psd.sources/streamsource类的新实例
+description: 初始化StreamSourceaspose.psd.sources/streamsource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.sources/streamsource/streamsource/
 ---
 ## StreamSource(Stream) {#constructor}
 
-初始化[`StreamSource`](../../streamsource)类的新实例。
+初始化[`StreamSource`](../../streamsource)类.
 
 ```csharp
 public StreamSource(Stream stream)
@@ -75,7 +75,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 
 ## StreamSource(Stream, bool) {#constructor_1}
 
-初始化[`StreamSource`](../../streamsource)类的新实例。
+初始化[`StreamSource`](../../streamsource)类.
 
 ```csharp
 public StreamSource(Stream stream, bool disposeStream)
@@ -84,11 +84,11 @@ public StreamSource(Stream stream, bool disposeStream)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 要打开的流。 |
-| disposeStream | Boolean | 如果设置为` true` 流将被释放。 |
+| disposeStream | Boolean | 如果设置为`真的`流将被处理。 |
 
 ### 例子
 
-这个例子演示了使用 System.IO.Stream 创建一个新的Image文件
+这个例子演示了使用 System.IO.Stream 创建一个新的 Image 文件
 
 ```csharp
 [C#]

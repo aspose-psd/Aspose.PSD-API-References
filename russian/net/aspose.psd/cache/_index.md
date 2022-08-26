@@ -1,14 +1,14 @@
 ---
 title: Cache
 second_title: Справочник по Aspose.PSD для .NET API
-description: Содержит настройки кэша.
+description: Содержит настройки кеша.
 type: docs
 weight: 240
 url: /ru/net/aspose.psd/cache/
 ---
 ## Cache class
 
-Содержит настройки кэша.
+Содержит настройки кеша.
 
 ```csharp
 public static class Cache
@@ -23,14 +23,14 @@ public static class Cache
 | static [CacheFolder](../../aspose.psd/cache/cachefolder) { get; set; } | Получает или задает папку кэша. |
 | static [CacheType](../../aspose.psd/cache/cachetype) { get; set; } | Получает или задает используемую схему кэширования. |
 | static [ExactReallocateOnly](../../aspose.psd/cache/exactreallocateonly) { get; set; } | Получает или задает значение, указывающее, должно ли перераспределение быть точным или нет. Если перераспределение не точное, производительность должна быть выше. |
-| static [MaxDiskSpaceForCache](../../aspose.psd/cache/maxdiskspaceforcache) { get; set; } | Получает или задает максимальное доступное дисковое пространство для кэша. Указанное значение является количеством мегабайт. |
-| static [MaxMemoryForCache](../../aspose.psd/cache/maxmemoryforcache) { get; set; } | Получает или задает максимально доступную память для кэша в памяти. Указанное значение является количеством мегабайт. |
+| static [MaxDiskSpaceForCache](../../aspose.psd/cache/maxdiskspaceforcache) { get; set; } | Получает или задает максимальное доступное дисковое пространство для кэша. Указанное значение равно количеству мегабайт. |
+| static [MaxMemoryForCache](../../aspose.psd/cache/maxmemoryforcache) { get; set; } | Получает или задает максимально доступную память для кэша в памяти. Указанное значение равно количеству мегабайт. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [SetDefaults](../../aspose.psd/cache/setdefaults)() | Устанавливает для[`Cache`](../cache)настройки по умолчанию. |
+| static [SetDefaults](../../aspose.psd/cache/setdefaults)() | Устанавливает[`Cache`](../cache) настройки по умолчанию. |
 
 ### Примеры
 

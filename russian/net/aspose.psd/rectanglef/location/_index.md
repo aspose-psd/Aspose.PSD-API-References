@@ -1,14 +1,14 @@
 ---
 title: Location
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает координаты верхнего левого угла этойRectangleFaspose.psd/rectanglefструктуры.
+description: Получает или задает координаты левого верхнего угла этогоRectangleFaspose.psd/rectanglefструктура.
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/rectanglef/location/
 ---
 ## RectangleF.Location property
 
-Получает или задает координаты верхнего левого угла этой[`RectangleF`](../../rectanglef)структуры.
+Получает или задает координаты левого верхнего угла этого[`RectangleF`](../../rectanglef)структура.
 
 ```csharp
 public PointF Location { get; set; }
@@ -16,7 +16,7 @@ public PointF Location { get; set; }
 
 ### Возвращаемое значение
 
-A[`PointF`](../../pointf)который представляет верхний левый угол этого[`RectangleF`](../../rectanglef)структура.
+А[`PointF`](../../pointf) который представляет верхний левый угол этого[`RectangleF`](../../rectanglef) структура.
 
 ### Смотрите также
 

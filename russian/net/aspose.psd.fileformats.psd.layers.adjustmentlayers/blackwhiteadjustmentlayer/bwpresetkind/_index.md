@@ -1,14 +1,14 @@
 ---
 title: BwPresetKind
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает предустановленное значение вида черно-белого изображения.
+description: Получает или задает значение предустановленного вида чернобелого изображения.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/bwpresetkind/
 ---
 ## BlackWhiteAdjustmentLayer.BwPresetKind property
 
-Получает или задает предустановленное значение вида черно-белого изображения.
+Получает или задает значение предустановленного вида черно-белого изображения.
 
 ```csharp
 public int BwPresetKind { get; set; }
@@ -20,7 +20,7 @@ public int BwPresetKind { get; set; }
 
 ### Примеры
 
-Следующий пример демонстрирует, как вы можете манипулировать свойствами корректирующего слоя черный белый в Aspose.PSD
+В следующем примере показано, как вы можете манипулировать свойствами корректирующего слоя «черно-белый» в Aspose.PSD.
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: ShadowsMagentaGreenBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает баланс пурпурно-зеленого в тенях.
+description: Получает или задает баланс зеленого пурпурного для теней.
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/
 ---
 ## BlncResource.ShadowsMagentaGreenBalance property
 
-Получает или задает баланс пурпурно-зеленого в тенях.
+Получает или задает баланс зеленого пурпурного для теней.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }

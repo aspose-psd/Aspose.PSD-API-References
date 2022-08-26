@@ -3,7 +3,7 @@ title: Thumbnail4Resource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет ресурс миниатюр для psd 4.0.
 type: docs
-weight: 3780
+weight: 3830
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnail4resource/
 ---
 ## Thumbnail4Resource class
@@ -29,14 +29,14 @@ public sealed class Thumbnail4Resource : ThumbnailResource
 | [Format](../../aspose.psd.fileformats.psd.resources/thumbnailresource/format) { get; set; } | Получает или задает формат данных эскиза. |
 | [Height](../../aspose.psd.fileformats.psd.resources/thumbnailresource/height) { get; set; } | Получает или задает высоту эскиза в пикселях. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
-| [JpegOptions](../../aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions) { get; set; } | Получает или задает параметры JPEG. Подходит, когда ресурс эскиза сохраняется только в формате файла JPEG. Этот параметр не действует, если задан формат RAW. |
+| [JpegOptions](../../aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions) { get; set; } | Получает или задает параметры JPEG. Подходит, когда ресурс эскиза сохраняется только в формате файла JPEG. Этот параметр не действует, если определен формат RAW. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/thumbnail4resource/minimalversion) { get; } | Получает минимальную требуемую версию psd. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
 | [PlanesCount](../../aspose.psd.fileformats.psd.resources/thumbnailresource/planescount) { get; set; } | Получает или задает количество самолетов. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 | [SizeAfterCompression](../../aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercompression) { get; } | Получает или задает размер после сжатия. Используется для проверки согласованности. |
-| [ThumbnailArgb32Data](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data) { get; set; } | Получает или задает 32-разрядные данные эскиза ARGB. |
+| [ThumbnailArgb32Data](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data) { get; set; } | Получает или задает 32-разрядные данные миниатюр ARGB. |
 | [ThumbnailData](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata) { get; set; } | Получает или задает данные эскиза. |
 | [TotalSize](../../aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize) { get; } | Получает общий размер данных. |
 | [Width](../../aspose.psd.fileformats.psd.resources/thumbnailresource/width) { get; set; } | Получает или задает ширину эскиза в пикселях. |

@@ -1,14 +1,14 @@
 ---
 title: MaxChannels
 second_title: Aspose.PSD for .NET API 参考
-description: 获取最大通道数
+description: 获取通道数的最大值
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/
 ---
 ## FilterEffectMaskData.MaxChannels property
 
-获取最大通道数。
+获取通道数的最大值。
 
 ```csharp
 public int MaxChannels { get; }

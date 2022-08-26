@@ -31,7 +31,7 @@ public enum FileFormat : ulong
 | Djvu | `400` | Формат файла Djvu |
 | Webp | `800` | Формат файла webp |
 | Emf | `1000` | Формат файла Emf/Emf+ |
-| Dicom | `2000` | Формат dicom |
+| Dicom | `2000` | Формат Dicom |
 | Svg | `4000` | Формат файла SVG |
 | Wmf | `8000` | Формат файла Wmf |
 | Dng | `10000` | Формат файла DNG |
@@ -41,7 +41,7 @@ public enum FileFormat : ulong
 | Otg | `200000` | Формат файла otg |
 | Ai | `400000` | Формат Adobe Illustrator |
 | Html5Canvas | `800000` | Формат холста Html5 |
-| Eps | `40000` | Формат Encapsulated PostScript |
+| Eps | `40000` | Формат инкапсулированного PostScript |
 | Apng | `1000000` | Формат анимированного файла Png. |
 | Tga | `2000000` | Формат файла Truevision TGA. |
 

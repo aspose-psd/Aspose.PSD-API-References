@@ -3,7 +3,7 @@ title: IImageDescriptor
 second_title: Aspose.PSD for .NET API 参考
 description: 图像描述符包含所有其他图像描述符类型的基本属性和方法
 type: docs
-weight: 4300
+weight: 4350
 url: /zh/net/aspose.psd/iimagedescriptor/
 ---
 ## IImageDescriptor interface

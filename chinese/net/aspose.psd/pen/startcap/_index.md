@@ -1,14 +1,14 @@
 ---
 title: StartCap
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置使用此Penaspose.psd/pen绘制的线条开头使用的帽子样式
+description: 获取或设置使用此绘制的线条开头使用的帽子样式Penaspose.psd/pen .
 type: docs
 weight: 160
 url: /zh/net/aspose.psd/pen/startcap/
 ---
 ## Pen.StartCap property
 
-获取或设置使用此[`Pen`](../../pen)绘制的线条开头使用的帽子样式。
+获取或设置使用此绘制的线条开头使用的帽子样式[`Pen`](../../pen) .
 
 ```csharp
 public LineCap StartCap { get; set; }
@@ -16,13 +16,13 @@ public LineCap StartCap { get; set; }
 
 ### 适当的价值
 
-[`LineCap`](../../linecap)值之一，表示使用此绘制的线的开头使用的帽样式[`Pen`](../../pen)。
+中的一个[`LineCap`](../../linecap)表示用此绘制的线条开头使用的帽子样式的值[`Pen`](../../pen).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | `StartCap`属性设置在不可变的PSD上。Pen，例如由[`Pen`](../../pen)类返回的那些。 |
+| ArgumentException | 这`StartCap`属性设置在不可变对象上[`Pen`](../../pen)，例如那些由[`Pen`](../../pen)班级。 |
 
 ### 也可以看看
 

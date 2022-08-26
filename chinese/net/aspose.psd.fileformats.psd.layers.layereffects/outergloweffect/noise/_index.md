@@ -22,7 +22,7 @@ public int Noise { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | 噪声必须以百分比形式指定，范围从 0 到 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | 噪声必须指定为 0 到 100 范围内的百分比 |
 
 ### 例子
 

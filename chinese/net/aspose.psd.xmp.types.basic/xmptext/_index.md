@@ -3,7 +3,7 @@ title: XmpText
 second_title: Aspose.PSD for .NET API 参考
 description: 表示 XMP Text 基本类型
 type: docs
-weight: 5860
+weight: 5910
 url: /zh/net/aspose.psd.xmp.types.basic/xmptext/
 ---
 ## XmpText class
@@ -18,7 +18,7 @@ public class XmpText : XmpTypeBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpText](xmptext)(string) | 初始化[`XmpText`](../xmptext)类的新实例。 |
+| [XmpText](xmptext)(string) | 初始化[`XmpText`](../xmptext)类. |
 
 ## 特性
 

@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает координату y которая является суммойYaspose.psd/rectanglef/yиHeightaspose.psd/rectanglef/heightэтойRectangleFaspose.psd/rectanglefструктуры.
+description: Получает или задает координату y которая является суммойYaspose.psd/rectanglef/y а такжеHeightaspose.psd/rectanglef/height этогоRectangleFaspose.psd/rectanglefструктура.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/rectanglef/bottom/
 ---
 ## RectangleF.Bottom property
 
-Получает или задает координату y, которая является суммой[`Y`](../y)и[`Height`](../height)этой[`RectangleF`](../../rectanglef)структуры.
+Получает или задает координату y, которая является суммой[`Y`](../y) а также[`Height`](../height) этого[`RectangleF`](../../rectanglef)структура.
 
 ```csharp
 public float Bottom { get; set; }
@@ -16,7 +16,7 @@ public float Bottom { get; set; }
 
 ### Возвращаемое значение
 
-Координата y, которая является суммой[`Y`](../y)и[`Height`](../height)этой[`RectangleF`](../../rectanglef)структуры.
+Координата Y, которая является суммой[`Y`](../y) а также[`Height`](../height) этого[`RectangleF`](../../rectanglef) структура.
 
 ### Смотрите также
 

@@ -16,7 +16,7 @@ public byte[] ImageData { get; set; }
 
 ### 适当的价值
 
-PSD 图像中的图层蒙版数据。
+PSD图像中的图层蒙版数据。
 
 ### 也可以看看
 

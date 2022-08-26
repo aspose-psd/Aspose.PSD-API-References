@@ -18,8 +18,8 @@ public class PsdImageArgumentException : PsdImageException
 
 | Имя | Описание |
 | --- | --- |
-| [PsdImageArgumentException](psdimageargumentexception#constructor)(string) | Инициализирует новый экземпляр класса[`PsdImageArgumentException`](../psdimageargumentexception). |
-| [PsdImageArgumentException](psdimageargumentexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса[`PsdImageArgumentException`](../psdimageargumentexception). |
+| [PsdImageArgumentException](psdimageargumentexception#constructor)(string) | Инициализирует новый экземпляр[`PsdImageArgumentException`](../psdimageargumentexception) класс. |
+| [PsdImageArgumentException](psdimageargumentexception#constructor_1)(string, Exception) | Инициализирует новый экземпляр[`PsdImageArgumentException`](../psdimageargumentexception) класс. |
 
 ### Смотрите также
 

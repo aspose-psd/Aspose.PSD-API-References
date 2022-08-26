@@ -16,7 +16,7 @@ public override int Length { get; }
 
 ### 例子
 
-以下代码示例演示了对 VibAResource 资源的支持。
+下面的代码示例演示了对 VibAResource 资源的支持。
 
 ```csharp
 [C#]

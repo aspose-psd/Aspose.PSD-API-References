@@ -1,14 +1,14 @@
 ---
 title: ColorMap
 second_title: Aspose.PSD for .NET API 参考
-description: 定义用于转换颜色的贴图ImageAttributes./imageattributes类的几个方法通过使用颜色重映射表ColorMap./colormap结构的数组来调整图像颜色不可继承
+description: 定义用于转换颜色的贴图的几种方法ImageAttributes./imageattributes类通过使用颜色重映射表来调整图像颜色该表是一个数组ColorMap./colormap结构不可继承
 type: docs
 weight: 340
 url: /zh/net/aspose.psd/colormap/
 ---
 ## ColorMap class
 
-定义用于转换颜色的贴图。[`ImageAttributes`](../imageattributes)类的几个方法通过使用颜色重映射表（[`ColorMap`](../colormap)结构的数组）来调整图像颜色。不可继承。
+定义用于转换颜色的贴图。的几种方法[`ImageAttributes`](../imageattributes)类通过使用颜色重映射表来调整图像颜色，该表是一个数组[`ColorMap`](../colormap)结构。不可继承。
 
 ```csharp
 public sealed class ColorMap
@@ -24,8 +24,8 @@ public sealed class ColorMap
 
 | 姓名 | 描述 |
 | --- | --- |
-| [NewColor](../../aspose.psd/colormap/newcolor) { get; set; } | 获取或设置要转换到的新[`Color`](../color)结构。 |
-| [OldColor](../../aspose.psd/colormap/oldcolor) { get; set; } | 获取或设置要转换的现有[`Color`](../color)结构。 |
+| [NewColor](../../aspose.psd/colormap/newcolor) { get; set; } | 获取或设置新的[`Color`](../color)要转换的结构。 |
+| [OldColor](../../aspose.psd/colormap/oldcolor) { get; set; } | 获取或设置现有的[`Color`](../color)要转换的结构。 |
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public string InnerText { get; }
 
 ### 适当的价值
 
-文本。
+文本.
 
 ### 也可以看看
 

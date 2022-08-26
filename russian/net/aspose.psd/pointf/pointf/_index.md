@@ -1,14 +1,14 @@
 ---
 title: PointF
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр структурыPointFaspose.psd/pointfс указанными координатами.
+description: Инициализирует новый экземплярPointFaspose.psd/pointf структура с указанными координатами.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/pointf/pointf/
 ---
 ## PointF constructor
 
-Инициализирует новый экземпляр структуры[`PointF`](../../pointf)с указанными координатами.
+Инициализирует новый экземпляр[`PointF`](../../pointf) структура с указанными координатами.
 
 ```csharp
 public PointF(float x, float y)

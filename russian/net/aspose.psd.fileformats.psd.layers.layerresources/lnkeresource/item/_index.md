@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПолучаетLiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasourceпо указанному индексу.
+description: ПолучаетLiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource по указанному индексу.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/
 ---
 ## LnkeResource indexer
 
-Получает[`LiFeDataSource`](../../lifedatasource)по указанному индексу.
+Получает[`LiFeDataSource`](../../lifedatasource) по указанному индексу.
 
 ```csharp
 public LiFeDataSource this[int index] { get; }
@@ -20,11 +20,11 @@ public LiFeDataSource this[int index] { get; }
 
 ### Возвращаемое значение
 
-Экземпляр[`LiFeDataSource`](../../lifedatasource).
+[`LiFeDataSource`](../../lifedatasource) экземпляр.
 
 ### Стоимость имущества
 
-The[`LiFeDataSource`](../../lifedatasource).
+[`LiFeDataSource`](../../lifedatasource) .
 
 ### Смотрите также
 

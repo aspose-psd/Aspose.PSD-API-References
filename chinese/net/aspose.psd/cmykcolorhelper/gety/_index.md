@@ -16,11 +16,11 @@ public static int GetY(int cmyk)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cmyk | Int32 | CMYK 颜色呈现为 32 位整数值。 |
+| cmyk | Int32 | CMYK 颜色显示为 32 位整数值。 |
 
 ### 返回值
 
-黄色分量值。
+黄色组件值。
 
 ### 也可以看看
 

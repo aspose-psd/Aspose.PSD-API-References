@@ -1,7 +1,7 @@
 ---
 title: PreblendAlphaIfPresent
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее следует ли смешивать красный зеленый и синий компоненты с фоновым цветом если присутствует альфа-канал.
+description: Получает или задает значение указывающее следует ли смешивать красный зеленый и синий компоненты с фоновым цветом если присутствует альфаканал.
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/

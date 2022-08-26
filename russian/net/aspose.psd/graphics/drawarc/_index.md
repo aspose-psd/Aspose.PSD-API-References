@@ -17,19 +17,19 @@ public void DrawArc(Pen pen, float x, float y, float width, float height, float 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль дуга. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль дуги. |
 | x | Single | Координата x верхнего левого угла прямоугольника, определяющего эллипс. |
-| y | Single | Y-координата верхнего левого угла прямоугольника, определяющего эллипс. |
+| y | Single | Координата Y верхнего левого угла прямоугольника, определяющего эллипс. |
 | width | Single | Ширина прямоугольника, определяющего эллипс. |
 | height | Single | Высота прямоугольника, определяющего эллипс. |
 | startAngle | Single | Угол в градусах, измеренный по часовой стрелке от оси x до начальной точки дуги. |
-| sweepAngle | Single | Угол в градусах, измеренный по часовой стрелке от параметра*startAngle*до конечной точки дуги. |
+| sweepAngle | Single | Угол в градусах, измеренный по часовой стрелке от*startAngle* параметра до конечной точки дуги. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 
@@ -42,7 +42,7 @@ public void DrawArc(Pen pen, float x, float y, float width, float height, float 
 
 ## DrawArc(Pen, RectangleF, float, float) {#drawarc_1}
 
-Рисует дугу, представляющую часть эллипса, заданного структурой[`RectangleF`](../../rectanglef).
+Рисует дугу, представляющую часть эллипса, заданного[`RectangleF`](../../rectanglef)структура.
 
 ```csharp
 public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
@@ -50,16 +50,16 @@ public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль дуга. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)структура, определяющая границы эллипса. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль дуги. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef) структура, определяющая границы эллипса. |
 | startAngle | Single | Угол в градусах, измеренный по часовой стрелке от оси x до начальной точки дуги. |
-| sweepAngle | Single | Угол в градусах, измеренный по часовой стрелке от параметра*startAngle*до конечной точки дуги. |
+| sweepAngle | Single | Угол в градусах, измеренный по часовой стрелке от*startAngle* параметра до конечной точки дуги. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно null |
+| ArgumentNullException | *pen* нулевой |
 
 ### Смотрите также
 
@@ -81,19 +81,19 @@ public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль дуга. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль дуги. |
 | x | Int32 | Координата x верхнего левого угла прямоугольника, определяющего эллипс. |
-| y | Int32 | Y-координата верхнего левого угла прямоугольника, определяющего эллипс. |
+| y | Int32 | Координата Y верхнего левого угла прямоугольника, определяющего эллипс. |
 | width | Int32 | Ширина прямоугольника, определяющего эллипс. |
 | height | Int32 | Высота прямоугольника, определяющего эллипс. |
 | startAngle | Int32 | Угол в градусах, измеренный по часовой стрелке от оси x до начальной точки дуги. |
-| sweepAngle | Int32 | Угол в градусах, измеренный по часовой стрелке от параметра*startAngle*до конечной точки дуги. |
+| sweepAngle | Int32 | Угол в градусах, измеренный по часовой стрелке от*startAngle* параметра до конечной точки дуги. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 
@@ -106,7 +106,7 @@ public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle
 
 ## DrawArc(Pen, Rectangle, float, float) {#drawarc}
 
-Рисует дугу, представляющую часть эллипса, заданного структурой[`Rectangle`](../../rectangle).
+Рисует дугу, представляющую часть эллипса, заданного[`Rectangle`](../../rectangle)структура.
 
 ```csharp
 public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
@@ -114,16 +114,16 @@ public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)который определяет цвет, ширину и стиль дуга. |
-| rect | Rectangle | [`RectangleF`](../../rectanglef)структура, определяющая границы эллипса. |
+| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль дуги. |
+| rect | Rectangle | [`RectangleF`](../../rectanglef) структура, определяющая границы эллипса. |
 | startAngle | Single | Угол в градусах, измеренный по часовой стрелке от оси x до начальной точки дуги. |
-| sweepAngle | Single | Угол в градусах, измеренный по часовой стрелке от параметра*startAngle*до конечной точки дуги. |
+| sweepAngle | Single | Угол в градусах, измеренный по часовой стрелке от*startAngle* параметра до конечной точки дуги. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen*равно нулю. |
+| ArgumentNullException | *pen* нулевой. |
 
 ### Смотрите также
 

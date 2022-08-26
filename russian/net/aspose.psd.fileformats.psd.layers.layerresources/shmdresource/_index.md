@@ -3,7 +3,7 @@ title: ShmdResource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Класс ShmdResource. Настройки метаданных
 type: docs
-weight: 2900
+weight: 2950
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 ---
 ## ShmdResource class
@@ -18,32 +18,33 @@ public class ShmdResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [ShmdResource](shmdresource#constructor)() | Инициализирует новый экземпляр класса[`ShmdResource`](../shmdresource). |
-| [ShmdResource](shmdresource#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`ShmdResource`](../shmdresource). |
+| [ShmdResource](shmdresource#constructor)() | Инициализирует новый экземпляр[`ShmdResource`](../shmdresource) класс. |
+| [ShmdResource](shmdresource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`ShmdResource`](../shmdresource) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/key) { get; } | Получает ключ ресурса слоя. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime) { get; set; } | Получает или задает время создания слоя. Если время создания слоя не указано, то возвращается новое значение DateTime(0) |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime) { get; set; } | Получает или задает время создания слоя. Если время создания слоя не указано, то возвращается новый DateTime(0) |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/signature) { get; } | Получает подпись. |
+| [SubResources](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources) { get; } | Получает подресурсы shmd resource. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
 | const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength) | Длина заголовка подресурса |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

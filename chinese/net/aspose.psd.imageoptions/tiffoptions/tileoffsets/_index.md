@@ -1,14 +1,14 @@
 ---
 title: TileOffsets
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置平铺偏移
+description: 获取或设置瓦片偏移量
 type: docs
 weight: 540
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/tileoffsets/
 ---
 ## TiffOptions.TileOffsets property
 
-获取或设置平铺偏移。
+获取或设置瓦片偏移量。
 
 ```csharp
 public uint[] TileOffsets { get; set; }

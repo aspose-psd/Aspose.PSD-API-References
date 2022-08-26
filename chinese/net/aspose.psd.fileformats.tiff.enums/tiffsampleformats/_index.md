@@ -3,7 +3,7 @@ title: TiffSampleFormats
 second_title: Aspose.PSD for .NET API 参考
 description: 示例格式枚举
 type: docs
-weight: 4040
+weight: 4090
 url: /zh/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
 ## TiffSampleFormats enumeration
@@ -22,7 +22,7 @@ public enum TiffSampleFormats
 | Int | `2` | 有符号整数数据 |
 | IeeeFp | `3` | IEEE 浮点数据 |
 | Void | `4` | 无类型数据 |
-| ComplexInt | `5` | 复数有符号整数 |
+| ComplexInt | `5` | 复数符号 int |
 | ComplexIeeeFp | `6` | 复杂 ieee 浮动 |
 
 ### 也可以看看

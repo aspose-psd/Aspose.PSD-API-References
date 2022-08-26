@@ -1,14 +1,14 @@
 ---
 title: Graphics
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаGraphicsaspose.psd/graphics.
+description: Инициализирует новый экземплярGraphicsaspose.psd/graphics класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/graphics/graphics/
 ---
 ## Graphics constructor
 
-Инициализирует новый экземпляр класса[`Graphics`](../../graphics).
+Инициализирует новый экземпляр[`Graphics`](../../graphics) класс.
 
 ```csharp
 public Graphics(Image sourceImage)

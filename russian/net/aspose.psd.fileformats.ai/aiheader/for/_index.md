@@ -1,14 +1,14 @@
 ---
 title: For
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает для.
+description: Получает или задает для.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/for/
 ---
 ## AiHeader.For property
 
-Получает или устанавливает для.
+Получает или задает для.
 
 ```csharp
 public string For { get; set; }

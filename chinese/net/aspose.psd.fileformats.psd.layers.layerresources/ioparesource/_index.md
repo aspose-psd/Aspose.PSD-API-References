@@ -1,14 +1,14 @@
 ---
 title: IopaResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 IopaResource 此资源包含有关图层样式表单中的填充不透明度属性的信息
+description: Class IopaResource. 此资源包含有关图层样式表单中的填充不透明度属性的信息
 type: docs
-weight: 2500
+weight: 2540
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/
 ---
 ## IopaResource class
 
-类 IopaResource。 此资源包含有关图层样式表单中的填充不透明度属性的信息
+Class IopaResource. 此资源包含有关图层样式表单中的填充不透明度属性的信息
 
 ```csharp
 public class IopaResource : LayerResource
@@ -18,16 +18,16 @@ public class IopaResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IopaResource](ioparesource#constructor)() | 初始化[`IopaResource`](../ioparesource)类的新实例。 |
-| [IopaResource](ioparesource#constructor_1)(byte[]) | 初始化[`IopaResource`](../ioparesource)类的新实例。 |
+| [IopaResource](ioparesource#constructor)() | 初始化[`IopaResource`](../ioparesource)类. |
+| [IopaResource](ioparesource#constructor_1)(byte[]) | 初始化[`IopaResource`](../ioparesource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity) { get; set; } | 获取或设置填充不透明度。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signature) { get; } | 获取签名。 |
 
@@ -36,7 +36,7 @@ public class IopaResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

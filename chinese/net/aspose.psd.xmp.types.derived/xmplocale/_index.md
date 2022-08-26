@@ -3,7 +3,7 @@ title: XmpLocale
 second_title: Aspose.PSD for .NET API 参考
 description: 表示语言代码
 type: docs
-weight: 6050
+weight: 6100
 url: /zh/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
 ## XmpLocale class
@@ -18,7 +18,7 @@ public sealed class XmpLocale : XmpText
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpLocale](xmplocale)(string) | 初始化[`XmpLocale`](../xmplocale)类的新实例。 |
+| [XmpLocale](xmplocale)(string) | 初始化[`XmpLocale`](../xmplocale)类. |
 
 ## 特性
 
@@ -34,7 +34,7 @@ public sealed class XmpLocale : XmpText
 
 ### 评论
 
-参见 IETF RFC 3066。
+见 IETF RFC 3066.
 
 ### 也可以看看
 

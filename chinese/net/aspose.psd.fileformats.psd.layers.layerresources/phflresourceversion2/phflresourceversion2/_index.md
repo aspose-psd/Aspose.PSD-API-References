@@ -1,14 +1,14 @@
 ---
 title: PhflResourceVersion2
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PhflResourceVersion2aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2类的新实例
+description: 初始化PhflResourceVersion2aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/phflresourceversion2/
 ---
 ## PhflResourceVersion2() {#constructor}
 
-初始化[`PhflResourceVersion2`](../../phflresourceversion2)类的新实例。
+初始化[`PhflResourceVersion2`](../../phflresourceversion2)类.
 
 ```csharp
 public PhflResourceVersion2()
@@ -24,7 +24,7 @@ public PhflResourceVersion2()
 
 ## PhflResourceVersion2(byte[]) {#constructor_1}
 
-初始化[`PhflResourceVersion2`](../../phflresourceversion2)类的新实例。
+初始化[`PhflResourceVersion2`](../../phflresourceversion2)类.
 
 ```csharp
 public PhflResourceVersion2(byte[] data)

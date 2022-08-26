@@ -1,7 +1,7 @@
 ---
 title: Crop
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает обрезку данных слоя смарт-объекта в изображении PSD.
+description: Получает или задает обрезку данных слоя смартобъекта в изображении PSD.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
@@ -16,7 +16,7 @@ public int Crop { get; set; }
 
 ### Стоимость имущества
 
-Значение обрезки размещенной информации слоя.
+Значение обрезки размещенной информации о слое.
 
 ### Смотрите также
 

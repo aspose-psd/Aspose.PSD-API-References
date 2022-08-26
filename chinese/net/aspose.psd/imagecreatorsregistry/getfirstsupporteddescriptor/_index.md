@@ -24,7 +24,7 @@ public static IImageCreatorDescriptor GetFirstSupportedDescriptor(ImageOptionsBa
 
 ### 评论
 
-第一个创建者描述符实际上是最后一个注册的。
+第一个创建者描述符实际上是最后注册的。
 
 ### 也可以看看
 

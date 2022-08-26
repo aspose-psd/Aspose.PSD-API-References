@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpre
 ---
 ## BlwhResource.BwPresetKind property
 
-获取或设置黑白预设种类值。
+获取或设置黑白预设种类值
 
 ```csharp
 public int BwPresetKind { get; set; }
@@ -20,7 +20,7 @@ public int BwPresetKind { get; set; }
 
 ### 例子
 
-以下示例演示如何编辑 BlwhResource。
+以下示例演示了如何编辑 BlwhResource。
 
 ```csharp
 [C#]

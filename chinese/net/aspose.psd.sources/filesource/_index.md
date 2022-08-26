@@ -3,7 +3,7 @@ title: FileSource
 second_title: Aspose.PSD for .NET API 参考
 description: 表示能够进行文件操作的文件源
 type: docs
-weight: 5490
+weight: 5540
 url: /zh/net/aspose.psd.sources/filesource/
 ---
 ## FileSource class

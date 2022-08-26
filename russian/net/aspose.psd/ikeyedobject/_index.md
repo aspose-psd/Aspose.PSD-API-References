@@ -3,7 +3,7 @@ title: IKeyedObject
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет интерфейс для объектов с ключами.
 type: docs
-weight: 4360
+weight: 4410
 url: /ru/net/aspose.psd/ikeyedobject/
 ---
 ## IKeyedObject interface

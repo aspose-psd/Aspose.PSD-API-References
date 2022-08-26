@@ -1,14 +1,14 @@
 ---
 title: DataSize
 second_title: Aspose.PSD for .NET API 参考
-description: 获取资源数据大小以字节为单位
+description: 以字节为单位获取资源数据大小
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/datasize/
 ---
 ## BackgroundColorResource.DataSize property
 
-获取资源数据大小（以字节为单位）。
+以字节为单位获取资源数据大小。
 
 ```csharp
 public override int DataSize { get; }
@@ -20,7 +20,7 @@ public override int DataSize { get; }
 
 ### 例子
 
-下面的例子演示了对BackgroundColorResource资源的支持。
+以下示例演示了对 BackgroundColorResource 资源的支持。
 
 ```csharp
 [C#]

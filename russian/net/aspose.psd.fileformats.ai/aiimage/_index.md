@@ -1,14 +1,14 @@
 ---
 title: AiImage
 second_title: Справочник по Aspose.PSD для .NET API
-description: Изображение Adobe Illustrator AI
+description: Изображение Adobe Illustrator ИИ
 type: docs
 weight: 1260
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/
 ---
 ## AiImage class
 
-Изображение Adobe Illustrator (AI)
+Изображение Adobe Illustrator (ИИ)
 
 ```csharp
 public sealed class AiImage : Image
@@ -28,8 +28,8 @@ public sealed class AiImage : Image
 | virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor) { get; set; } | Получает или задает значение цвета фона. |
 | override [BitsPerPixel](../../aspose.psd.fileformats.ai/aiimage/bitsperpixel) { get; } | Получает количество бит изображения на пиксель. |
 | [Bounds](../../aspose.psd/image/bounds) { get; } | Получает границы изображения. |
-| [BufferSizeHint](../../aspose.psd/image/buffersizehint) { get; set; } | Получает или устанавливает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
-| [Container](../../aspose.psd/image/container) { get; } | Получает контейнер[`Image`](../../aspose.psd/image). |
+| [BufferSizeHint](../../aspose.psd/image/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| [Container](../../aspose.psd/image/container) { get; } | Получает[`Image`](../../aspose.psd/image) контейнер. |
 | [DataSection](../../aspose.psd.fileformats.ai/aiimage/datasection) { get; } | Получает раздел данных. |
 | [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer) { get; } | Получает поток данных объекта. |
 | [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
@@ -44,7 +44,7 @@ public sealed class AiImage : Image
 | [Palette](../../aspose.psd/image/palette) { get; set; } | Получает или задает цветовую палитру. Цветовая палитра не используется, когда пиксели представлены напрямую. |
 | [SetupSection](../../aspose.psd.fileformats.ai/aiimage/setupsection) { get; } | Получает раздел установки. |
 | [Size](../../aspose.psd/image/size) { get; } | Получает размер изображения. |
-| [Version](../../aspose.psd.fileformats.ai/aiimage/version) { get; } | Получает версию формата Adobe Illustrator |
+| [Version](../../aspose.psd.fileformats.ai/aiimage/version) { get; } | Получает версию Adobe Illustrator format |
 | override [Width](../../aspose.psd.fileformats.ai/aiimage/width) { get; } | Получает ширину изображения. |
 
 ## Методы
@@ -52,22 +52,22 @@ public sealed class AiImage : Image
 | Имя | Описание |
 | --- | --- |
 | [AddLayer](../../aspose.psd.fileformats.ai/aiimage/addlayer)(AiLayerSection) | Добавляет раздел слоя AI. |
-| override [CacheData](../../aspose.psd.fileformats.ai/aiimage/cachedata)() | Кэширует данные и гарантирует, что дополнительная загрузка данных не будет выполняться из базового[`DataStreamContainer`](../../aspose.psd/datastreamsupporter/datastreamcontainer). |
-| [CanSave](../../aspose.psd/image/cansave)(ImageOptionsBase) | Определяет, можно ли сохранить изображение в указанный формат файла, представленный переданными параметрами сохранения. |
+| override [CacheData](../../aspose.psd.fileformats.ai/aiimage/cachedata)() | Кэширует данные и гарантирует, что дополнительная загрузка данных не будет выполняться из базового[`DataStreamContainer`](../../aspose.psd/datastreamsupporter/datastreamcontainer) . |
+| [CanSave](../../aspose.psd/image/cansave)(ImageOptionsBase) | Определяет, можно ли сохранить изображение в указанном формате файла, представленном переданными параметрами сохранения. |
 | [Dispose](../../aspose.psd/disposableobject/dispose)() | Удаляет текущий экземпляр. |
 | virtual [GetDefaultOptions](../../aspose.psd/image/getdefaultoptions)(object[]) | Получает параметры по умолчанию. |
-| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions)() | Получает параметры на основе исходных настроек файла. Это может быть полезно для сохранения битовой глубины и других параметров исходного изображения без изменений. Например, если мы загрузим черно-белое изображение PNG с 1 битом на пиксель, а затем сохраним его с помощью [`Save`](../../aspose.psd/datastreamsupporter/save)будет создано выходное изображение PNG с 8 битами на пиксель. Чтобы избежать этого и сохранить изображение PNG с 1 битом на пиксель, используйте этот метод, чтобы получить соответствующие параметры сохранения и передать их в[`Save`](../../aspose.psd/image/save)метод в качестве второго параметра. |
-| [Resize](../../aspose.psd/image/resize)(int, int) | Изменяет размер изображения. По умолчанию используетсяLeftTopToLeftTop. |
+| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions)() | Получает параметры, основанные на настройках исходного файла. Это может быть полезно для сохранения без изменений битовой глубины и других параметров исходного изображения. Например, если мы загружаем черно-белое изображение PNG с 1 битом на пиксель, а затем сохраните его, используя the [`Save`](../../aspose.psd/datastreamsupporter/save) будет создано выходное изображение PNG с 8 битами на пиксель. Чтобы избежать этого и сохранить изображение PNG с 1 битом на пиксель, используйте этот метод, чтобы получить соответствующие параметры сохранения и передать их [`Save`](../../aspose.psd/image/save)метод в качестве второго параметра. |
+| [Resize](../../aspose.psd/image/resize)(int, int) | Изменяет размер изображения. По умолчаниюLeftTopToLeftTopиспользуется. |
 | override [Resize](../../aspose.psd.fileformats.ai/aiimage/resize#resize_1)(int, int, ImageResizeSettings) | Изменяет размер изображения. |
 | override [Resize](../../aspose.psd.fileformats.ai/aiimage/resize#resize_2)(int, int, ResizeType) | Изменяет размер изображения. |
-| [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally)(int) | Пропорционально изменяет размер высоты. |
-| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally)(int, ImageResizeSettings) | Пропорционально изменяет размер высоты. |
-| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally)(int, ResizeType) | Пропорционально изменяет размер высоты. |
-| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally)(int) | Пропорционально изменяет ширину. |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally)(int, ImageResizeSettings) | Пропорционально изменяет ширину. |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally)(int, ResizeType) | Пропорционально изменяет ширину. |
+| [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally)(int) | Изменяет размер высоты пропорционально. |
+| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally)(int, ImageResizeSettings) | Изменяет размер высоты пропорционально. |
+| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally)(int, ResizeType) | Изменяет размер высоты пропорционально. |
+| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally)(int) | Изменяет ширину пропорционально. |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally)(int, ImageResizeSettings) | Изменяет ширину пропорционально. |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally)(int, ResizeType) | Изменяет ширину пропорционально. |
 | override [RotateFlip](../../aspose.psd.fileformats.ai/aiimage/rotateflip)(RotateFlipType) | Вращает, переворачивает или поворачивает и переворачивает изображение. |
-| [Save](../../aspose.psd/image/save)() | Сохраняет данные изображения в основной поток. |
+| [Save](../../aspose.psd/image/save)() | Сохраняет данные изображения в базовый поток. |
 | [Save](../../aspose.psd/datastreamsupporter/save)(Stream) | Сохраняет данные объекта в указанный поток. |
 | [Save](../../aspose.psd/datastreamsupporter/save)(string) | Сохраняет данные объекта в указанном месте файла. |
 | [Save](../../aspose.psd/image/save)(Stream, ImageOptionsBase) | Сохраняет данные изображения в указанный поток в указанном формате файла в соответствии с параметрами сохранения. |
@@ -75,11 +75,11 @@ public sealed class AiImage : Image
 | virtual [Save](../../aspose.psd/image/save)(string, ImageOptionsBase) | Сохраняет данные объекта в указанном месте файла в указанном формате файла в соответствии с параметрами сохранения. |
 | virtual [Save](../../aspose.psd/image/save)(Stream, ImageOptionsBase, Rectangle) | Сохраняет данные изображения в указанный поток в указанном формате файла в соответствии с параметрами сохранения. |
 | virtual [Save](../../aspose.psd/image/save)(string, ImageOptionsBase, Rectangle) | Сохраняет данные объекта в указанном месте файла в указанном формате файла в соответствии с параметрами сохранения. |
-| override [SetPalette](../../aspose.psd.fileformats.ai/aiimage/setpalette)(IColorPalette, bool) | Устанавливает палитру изображения. |
+| override [SetPalette](../../aspose.psd.fileformats.ai/aiimage/setpalette)(IColorPalette, bool) | Задает палитру изображения. |
 
 ### Примеры
 
-В следующем примере показано, как можно экспортировать файлы Adobe Illustrator в формат PDF в Aspose.PSD
+В следующем примере показано, как вы можете экспортировать файлы Adobe Illustrator в формат PDF в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -92,7 +92,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-В следующем примере показано, как может экспортировать файл AI в формат PSD и PNG в Aspose.PSD
+В следующем примере показано, как вы можете экспортировать файл AI в формат PSD и PNG в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -106,7 +106,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-В следующем примере демонстрируется поддержка экспорта формата Ai в PSD, PNG, JPG, GIF и TIF форматы.
+В следующем примере демонстрируется поддержка экспорта формата Ai в форматы PSD, PNG, JPG, GIF и TIF.
 
 ```csharp
 [C#]

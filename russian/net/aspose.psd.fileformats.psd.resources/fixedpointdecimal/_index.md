@@ -1,14 +1,14 @@
 ---
 title: FixedPointDecimal
 second_title: Справочник по Aspose.PSD для .NET API
-description: Десятичное число с фиксированной точкой с 16-битным целым и 16-битным дробным числом.
+description: Десятичное число с фиксированной точкой 16битное целое и 16битное дробное число.
 type: docs
-weight: 3590
+weight: 3640
 url: /ru/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
 ## FixedPointDecimal class
 
-Десятичное число с фиксированной точкой, с 16-битным целым и 16-битным дробным числом.
+Десятичное число с фиксированной точкой, 16-битное целое и 16-битное дробное число.
 
 ```csharp
 public class FixedPointDecimal
@@ -18,9 +18,9 @@ public class FixedPointDecimal
 
 | Имя | Описание |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal#constructor)(double) | Инициализирует новый экземпляр класса[`FixedPointDecimal`](../fixedpointdecimal). |
-| [FixedPointDecimal](fixedpointdecimal#constructor_2)(long) | Инициализирует новый экземпляр класса[`FixedPointDecimal`](../fixedpointdecimal). Разделите старшие и младшие слова 32-битного целого числа на число с фиксированной точкой. |
-| [FixedPointDecimal](fixedpointdecimal#constructor_1)(int, int) | Инициализирует новый экземпляр класса[`FixedPointDecimal`](../fixedpointdecimal). |
+| [FixedPointDecimal](fixedpointdecimal#constructor)(double) | Инициализирует новый экземпляр[`FixedPointDecimal`](../fixedpointdecimal) класс. |
+| [FixedPointDecimal](fixedpointdecimal#constructor_2)(long) | Инициализирует новый экземпляр[`FixedPointDecimal`](../fixedpointdecimal) учебный класс. Разделите старшие и младшие слова 32-битного целого числа на число с фиксированной точкой. |
+| [FixedPointDecimal](fixedpointdecimal#constructor_1)(int, int) | Инициализирует новый экземпляр[`FixedPointDecimal`](../fixedpointdecimal) класс. |
 
 ## Характеристики
 

@@ -1,14 +1,14 @@
 ---
 title: RectangleExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: 包含Rectangle../aspose.psd/rectangle的扩展方法
+description: 包含扩展方法Rectangle../aspose.psd/rectangle .
 type: docs
 weight: 1160
 url: /zh/net/aspose.psd.extensions/rectangleextensions/
 ---
 ## RectangleExtensions class
 
-包含[`Rectangle`](../../aspose.psd/rectangle)的扩展方法。
+包含扩展方法[`Rectangle`](../../aspose.psd/rectangle) .
 
 ```csharp
 public static class RectangleExtensions
@@ -18,8 +18,8 @@ public static class RectangleExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle#togdirectangle)(Rectangle) | 将[`Rectangle`](../../aspose.psd/rectangle)转换为Rectangle。 |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle#togdirectangle_1)(RectangleF) | 将[`RectangleF`](../../aspose.psd/rectanglef)转换为Rectangle。 |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle#togdirectangle)(Rectangle) | 转换[`Rectangle`](../../aspose.psd/rectangle)到Rectangle . |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle#togdirectangle_1)(RectangleF) | 转换[`RectangleF`](../../aspose.psd/rectanglef)到Rectangle . |
 | static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith)(RectangleF, RectangleF) | 联合两个矩形。 |
 
 ### 也可以看看

@@ -16,7 +16,7 @@ public int OriginIndex { get; set; }
 
 ### 例子
 
-下面的例子演示了对 VogkResource 资源的支持。
+以下示例演示了对 VogkResource 资源的支持。
 
 ```csharp
 [C#]

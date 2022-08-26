@@ -1,14 +1,14 @@
 ---
 title: Lines
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置行
+description: 获取或设置线条
 type: docs
 weight: 140
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
 ## TypeToolInfoResource.Lines property
 
-获取或设置行。
+获取或设置线条。
 
 ```csharp
 public TypeToolLineInfo[] Lines { get; set; }
@@ -16,7 +16,7 @@ public TypeToolLineInfo[] Lines { get; set; }
 
 ### 适当的价值
 
-行。
+线条。
 
 ### 也可以看看
 

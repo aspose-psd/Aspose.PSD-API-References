@@ -1,14 +1,14 @@
 ---
 title: AutoKerning
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает автоматический кернинг.
+description: Получает или задает автоматический кернинг.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
 ## ITextStyle.AutoKerning property
 
-Получает или устанавливает автоматический кернинг.
+Получает или задает автоматический кернинг.
 
 ```csharp
 public AutoKerning AutoKerning { get; set; }
@@ -20,7 +20,7 @@ public AutoKerning AutoKerning { get; set; }
 
 ### Примеры
 
-Следующий код демонстрирует поддержку новых свойств ITextStyle.
+Следующий код демонстрирует поддержку поддержки новых свойств ITextStyle.
 
 ```csharp
 [C#]

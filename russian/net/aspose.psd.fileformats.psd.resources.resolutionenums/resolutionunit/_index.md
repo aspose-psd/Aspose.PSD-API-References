@@ -1,14 +1,14 @@
 ---
 title: ResolutionUnit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Единица разрешения информации о разрешении
+description: Разрешение информации о разрешении unit
 type: docs
-weight: 3760
+weight: 3810
 url: /ru/net/aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/
 ---
 ## ResolutionUnit enumeration
 
-Единица разрешения информации о разрешении
+Разрешение информации о разрешении unit
 
 ```csharp
 public enum ResolutionUnit
@@ -18,8 +18,8 @@ public enum ResolutionUnit
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| PxPerInch | `1` | Пикселей на дюйм |
-| PxPerCm | `2` | Пикселей на см |
+| PxPerInch | `1` | Количество пикселей на дюйм |
+| PxPerCm | `2` | Количество пикселей на см |
 
 ### Смотрите также
 

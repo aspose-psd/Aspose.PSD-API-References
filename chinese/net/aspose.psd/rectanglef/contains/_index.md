@@ -1,14 +1,14 @@
 ---
 title: Contains
 second_title: Aspose.PSD for .NET API 参考
-description: 确定指定点是否包含在此RectangleFaspose.psd/rectanglef结构中
+description: 确定指定点是否包含在此范围内RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 190
 url: /zh/net/aspose.psd/rectanglef/contains/
 ---
 ## Contains(float, float) {#contains_2}
 
-确定指定点是否包含在此[`RectangleF`](../../rectanglef)结构中。
+确定指定点是否包含在此范围内[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public bool Contains(float x, float y)
@@ -21,7 +21,7 @@ public bool Contains(float x, float y)
 
 ### 返回值
 
-如果*x*和*y*定义的点包含在此PSD中，则此方法返回true。RectangleF结构；否则为假。
+如果定义的点由*x*和*y*包含在这个[`RectangleF`](../../rectanglef)结构体;否则为假。
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public bool Contains(float x, float y)
 
 ## Contains(PointF) {#contains}
 
-确定指定点是否包含在此[`RectangleF`](../../rectanglef)结构中。
+确定指定点是否包含在此范围内[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public bool Contains(PointF point)
@@ -41,11 +41,11 @@ public bool Contains(PointF point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf)进行测试。 |
+| point | PointF | 这[`PointF`](../../pointf)去测试。 |
 
 ### 返回值
 
-如果*point*参数表示的点包含在此[`RectangleF`](../../rectanglef)结构中，则此方法返回true；否则为假。
+如果由*point*参数包含在这个[`RectangleF`](../../rectanglef)结构体;否则为假。
 
 ### 也可以看看
 
@@ -58,7 +58,7 @@ public bool Contains(PointF point)
 
 ## Contains(RectangleF) {#contains_1}
 
-确定由*rect*表示的矩形区域是否完全包含在此[`RectangleF`](../../rectanglef)结构中。
+确定矩形区域是否由*rect*完全包含在这个[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public bool Contains(RectangleF rect)
@@ -66,11 +66,11 @@ public bool Contains(RectangleF rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)进行测试。 |
+| rect | RectangleF | 这[`RectangleF`](../../rectanglef)去测试。 |
 
 ### 返回值
 
-如果*rect*表示的矩形区域完全包含在此RectangleF表示的矩形区域内，则此方法返回true;否则为假。
+如果矩形区域由*rect*完全包含在由此表示的矩形区域内[`RectangleF`](../../rectanglef);否则为假。
 
 ### 也可以看看
 

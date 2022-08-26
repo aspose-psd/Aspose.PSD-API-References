@@ -1,14 +1,14 @@
 ---
 title: Entries
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает массив структурColoraspose.psd/color.
+description: Получает массивColoraspose.psd/color структуры.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd/psdcolorpalette/entries/
 ---
 ## PsdColorPalette.Entries property
 
-Получает массив структур[`Color`](../../../aspose.psd/color).
+Получает массив[`Color`](../../../aspose.psd/color) структуры.
 
 ```csharp
 public Color[] Entries { get; }
@@ -16,7 +16,7 @@ public Color[] Entries { get; }
 
 ### Возвращаемое значение
 
-Массив[`Color`](../../../aspose.psd/color)структуры, составляющие этот[`ColorPalette`](../../../aspose.psd/colorpalette).
+Массив[`Color`](../../../aspose.psd/color) структуры, составляющие это[`ColorPalette`](../../../aspose.psd/colorpalette) .
 
 ### Стоимость имущества
 

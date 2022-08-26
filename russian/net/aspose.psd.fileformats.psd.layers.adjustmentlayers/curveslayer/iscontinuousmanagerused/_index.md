@@ -1,14 +1,14 @@
 ---
 title: IsContinuousManagerUsed
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее используется ли этот экземпляр диспетчера непрерывности.
+description: Получает или задает значение указывающее используется ли этот экземпляр диспетчера непрерывного действия.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/iscontinuousmanagerused/
 ---
 ## CurvesLayer.IsContinuousManagerUsed property
 
-Получает или задает значение, указывающее, используется ли этот экземпляр диспетчера непрерывности.
+Получает или задает значение, указывающее, используется ли этот экземпляр диспетчера непрерывного действия.
 
 ```csharp
 public bool IsContinuousManagerUsed { get; set; }
@@ -16,7 +16,7 @@ public bool IsContinuousManagerUsed { get; set; }
 
 ### Стоимость имущества
 
-` true` если используется непрерывный менеджер; в противном случае` false` .
+`истинный` если этот экземпляр используется непрерывным менеджером; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

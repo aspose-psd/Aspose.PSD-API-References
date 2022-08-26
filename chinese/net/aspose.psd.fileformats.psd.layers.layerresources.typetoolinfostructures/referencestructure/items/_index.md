@@ -1,14 +1,14 @@
 ---
 title: Items
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置项目
+description: 获取或设置结构数组的副本
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/
 ---
 ## ReferenceStructure.Items property
 
-获取或设置项目。
+获取或设置结构数组的副本。
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }

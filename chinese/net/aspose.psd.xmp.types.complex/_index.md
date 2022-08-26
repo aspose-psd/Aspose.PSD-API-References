@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Types.Complex
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含表示 XMP 属性的复杂类型值的类
 type: docs
-weight: 600
+weight: 610
 url: /zh/net/aspose.psd.xmp.types.complex/
 ---
 命名空间包含表示 XMP 属性的复杂类型值的类。

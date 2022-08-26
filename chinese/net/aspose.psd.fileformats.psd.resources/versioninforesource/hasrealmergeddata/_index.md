@@ -1,14 +1,14 @@
 ---
 title: HasRealMergedData
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此实例是否有真正的合并数据
+description: 获取或设置一个值表示该实例是否有真正的合并数据
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata/
 ---
 ## VersionInfoResource.HasRealMergedData property
 
-获取或设置一个值，该值指示此实例是否有真正的合并数据。
+获取或设置一个值，表示该实例是否有真正的合并数据。
 
 ```csharp
 public bool HasRealMergedData { get; set; }
@@ -16,7 +16,7 @@ public bool HasRealMergedData { get; set; }
 
 ### 适当的价值
 
-` true` 如果这个实例有真正的合并数据；否则，` false` 。
+`真的`如果这个实例有真正的合并数据；否则，`错误的` .
 
 ### 也可以看看
 

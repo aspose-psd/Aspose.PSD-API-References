@@ -1,14 +1,14 @@
 ---
 title: ColorantCmyk
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаColorantCmykaspose.psd.xmp.types.complex.colorant/colorantcmyk.
+description: Инициализирует новый экземплярColorantCmykaspose.psd.xmp.types.complex.colorant/colorantcmyk класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorantcmyk/
 ---
 ## ColorantCmyk() {#constructor}
 
-Инициализирует новый экземпляр класса[`ColorantCmyk`](../../colorantcmyk).
+Инициализирует новый экземпляр[`ColorantCmyk`](../../colorantcmyk) класс.
 
 ```csharp
 public ColorantCmyk()
@@ -24,7 +24,7 @@ public ColorantCmyk()
 
 ## ColorantCmyk(float, float, float, float) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ColorantCmyk`](../../colorantcmyk).
+Инициализирует новый экземпляр[`ColorantCmyk`](../../colorantcmyk) класс.
 
 ```csharp
 public ColorantCmyk(float black, float cyan, float magenta, float yellow)

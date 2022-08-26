@@ -1,14 +1,14 @@
 ---
 title: Top
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает позицию верхнего слоя.
+description: Получает или задает положение верхнего слоя.
 type: docs
 weight: 310
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
 ## Layer.Top property
 
-Получает или задает позицию верхнего слоя.
+Получает или задает положение верхнего слоя.
 
 ```csharp
 public int Top { get; set; }

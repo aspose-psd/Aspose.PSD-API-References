@@ -1,14 +1,14 @@
 ---
 title: SmartResourceCreator
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化SmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator类的新实例
+description: 初始化SmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/smartresourcecreator/
 ---
 ## SmartResourceCreator() {#constructor}
 
-初始化[`SmartResourceCreator`](../../smartresourcecreator)类的新实例。
+初始化[`SmartResourceCreator`](../../smartresourcecreator)类.
 
 ```csharp
 public SmartResourceCreator()
@@ -24,7 +24,7 @@ public SmartResourceCreator()
 
 ## SmartResourceCreator(bool, bool) {#constructor_2}
 
-初始化[`SmartResourceCreator`](../../smartresourcecreator)类的新实例。
+初始化[`SmartResourceCreator`](../../smartresourcecreator)类.
 
 ```csharp
 public SmartResourceCreator(bool isCustom, bool hasCompInfo)
@@ -32,8 +32,8 @@ public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| isCustom | Boolean | 如果设置为` true` [是自定义的]。 |
-| hasCompInfo | Boolean | 如果设置为` true` [有comp信息]。 |
+| isCustom | Boolean | 如果设置为`真的` [是习惯的]。 |
+| hasCompInfo | Boolean | 如果设置为`真的` [有补偿信息]。 |
 
 ### 也可以看看
 
@@ -45,7 +45,7 @@ public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 
 ## SmartResourceCreator(PlacedResource) {#constructor_1}
 
-使用给定模板初始化[`SmartResourceCreator`](../../smartresourcecreator)类 的新实例。
+初始化[`SmartResourceCreator`](../../smartresourcecreator) class 使用给定的模板。
 
 ```csharp
 public SmartResourceCreator(PlacedResource template)

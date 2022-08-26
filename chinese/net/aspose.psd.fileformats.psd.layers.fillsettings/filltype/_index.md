@@ -3,7 +3,7 @@ title: FillType
 second_title: Aspose.PSD for .NET API 参考
 description: 填充类型
 type: docs
-weight: 1880
+weight: 1920
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
 ## FillType enumeration

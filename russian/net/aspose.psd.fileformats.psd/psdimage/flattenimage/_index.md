@@ -1,14 +1,14 @@
 ---
 title: FlattenImage
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сглаживает все слои.
+description: Сведение всех слоев.
 type: docs
 weight: 540
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
 ## PsdImage.FlattenImage method
 
-Сглаживает все слои.
+Сведение всех слоев.
 
 ```csharp
 public void FlattenImage()

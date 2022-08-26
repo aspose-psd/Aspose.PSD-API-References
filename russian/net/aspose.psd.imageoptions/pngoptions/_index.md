@@ -3,7 +3,7 @@ title: PngOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Параметры создания файла формата png.
 type: docs
-weight: 4760
+weight: 4810
 url: /ru/net/aspose.psd.imageoptions/pngoptions/
 ---
 ## PngOptions class
@@ -18,27 +18,27 @@ public class PngOptions : ImageOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [PngOptions](pngoptions#constructor)() | Инициализирует новый экземпляр класса[`PngOptions`](../pngoptions). |
-| [PngOptions](pngoptions#constructor_1)(PngOptions) | Инициализирует новый экземпляр класса[`PngOptions`](../pngoptions). |
+| [PngOptions](pngoptions#constructor)() | Инициализирует новый экземпляр[`PngOptions`](../pngoptions) класс. |
+| [PngOptions](pngoptions#constructor_1)(PngOptions) | Инициализирует новый экземпляр[`PngOptions`](../pngoptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth) { get; set; } | Разрядность. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или устанавливает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth) { get; set; } | Битовая глубина. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
 | [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype) { get; set; } | Получает или задает тип цвета. |
 | [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel) { get; set; } | Уровень сжатия изображения png в диапазоне от 0 до 9, где 9 — максимальное сжатие, а 0 — режим сохранения. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или задает замещающий шрифт по умолчанию (шрифт, который будет использоваться для отрисовки текста при экспорте в растр, если существующий шрифт слоя в PSD-файле не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
 | [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
-| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype) { get; set; } | Получает или задает тип фильтра, используемый во время процесса сохранения png-файла. |
+| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype) { get; set; } | Получает или задает тип фильтра, используемый во время процесса сохранения файла png. |
 | [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Получает или задает значение, указывающее, является ли [полный кадр]. |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Многостраничные параметры |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Получает или задает цветовую палитру. |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Получает или задает обработчик события выполнения. |
-| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive) { get; set; } | Получает или задает значение, указывающее, является ли этот[`PngOptions`](../pngoptions)прогрессивным. |
+| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive) { get; set; } | Получает или задает значение, указывающее, является ли это[`PngOptions`](../pngoptions) является прогрессивным. |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Получает или задает параметры разрешения. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения. |
+| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения в. |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Получает или задает параметры векторной растеризации. |
 | override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata) { get; set; } | Получает или задает контейнер метаданных XMP. |
 
@@ -57,7 +57,7 @@ public class PngOptions : ImageOptionsBase
 
 ### Примеры
 
-В следующем примере показано, как вы можете экспортировать файл AI в формат PSD и PNG в Aspose.PSD
+В следующем примере показано, как вы можете экспортировать файл AI в формат PSD и PNG в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -71,7 +71,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-Этот пример демонстрирует использование различных классов из пространства имен SaveOptions для целей экспорта. Изображение типа Psd загружается в экземпляр Image, а затем экспортируется в несколько форматов.
+В этом примере демонстрируется использование различных классов из пространства имен SaveOptions для целей экспорта. Изображение типа Psd загружается в экземпляр Image, а затем экспортируется в несколько форматов.
 
 ```csharp
 [C#]
@@ -96,7 +96,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-В следующем примере показано, как можно использовать режим наложения слоя PassThrough в Aspose.PSD
+В следующем примере показано, как можно использовать режим наложения слоя PassThrough в Aspose.PSD.
 
 ```csharp
 [C#]
@@ -137,7 +137,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Следующий пример демонстрирует, что процесс преобразования документов работает корректно и без исключений.
+В следующем примере показано, что процесс преобразования документов работает правильно и без исключений.
 
 ```csharp
 [C#]
@@ -181,7 +181,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-В этом примере класс Graphics используется для создания примитивных форм на поверхности изображения. Чтобы продемонстрировать операцию, в примере создается новое изображение в формате PSD и рисуются примитивные фигуры на поверхности изображения с помощью методов Draw, предоставляемых классом Graphics, а затем экспортируется в формат файла PSD.
+В этом примере класс Graphics используется для создания примитивных фигур на поверхности изображения. Чтобы продемонстрировать операцию, в примере создается новое изображение в формате PSD и рисуются примитивные фигуры на поверхности изображения с помощью методов Draw, предоставляемых классом Graphics, а затем экспортируется в формат файла PSD.
 
 ```csharp
 [C#]

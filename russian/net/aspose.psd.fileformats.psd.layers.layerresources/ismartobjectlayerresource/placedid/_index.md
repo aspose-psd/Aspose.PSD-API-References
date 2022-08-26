@@ -1,7 +1,7 @@
 ---
 title: PlacedId
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает уникальный идентификатор данных слоя этого смарт-объекта в изображении PSD.
+description: Получает или задает уникальный идентификатор данных слоя этого смартобъекта в изображении PSD.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/
@@ -16,7 +16,7 @@ public Guid PlacedId { get; set; }
 
 ### Стоимость имущества
 
-Уникальный идентификатор этого ресурса уровня смарт-объекта.
+Уникальный идентификатор этого ресурса слоя смарт-объекта.
 
 ### Примеры
 

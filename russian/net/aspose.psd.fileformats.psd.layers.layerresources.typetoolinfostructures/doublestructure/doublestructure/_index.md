@@ -1,14 +1,14 @@
 ---
 title: DoubleStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаDoubleStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure.
+description: Инициализирует новый экземплярDoubleStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/doublestructure/
 ---
 ## DoubleStructure constructor
 
-Инициализирует новый экземпляр класса[`DoubleStructure`](../../doublestructure).
+Инициализирует новый экземпляр[`DoubleStructure`](../../doublestructure) класс.
 
 ```csharp
 public DoubleStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public DoubleStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 

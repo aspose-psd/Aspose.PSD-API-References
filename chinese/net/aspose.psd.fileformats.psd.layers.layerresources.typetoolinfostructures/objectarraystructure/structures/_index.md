@@ -1,14 +1,14 @@
 ---
 title: Structures
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置对象数组结构中的子结构
+description: 获取或设置结构数组的副本
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
 ## ObjectArrayStructure.Structures property
 
-获取或设置对象数组结构中的子结构。
+获取或设置结构数组的副本。
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }

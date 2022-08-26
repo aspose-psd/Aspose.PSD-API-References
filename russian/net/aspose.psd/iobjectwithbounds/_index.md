@@ -3,7 +3,7 @@ title: IObjectWithBounds
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет объект с границами.
 type: docs
-weight: 4370
+weight: 4420
 url: /ru/net/aspose.psd/iobjectwithbounds/
 ---
 ## IObjectWithBounds interface

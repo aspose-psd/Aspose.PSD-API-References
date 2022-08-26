@@ -1,14 +1,14 @@
 ---
 title: AlphaMask
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 Alpha 掩码
+description: 获取或设置 alpha 掩码
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/
 ---
 ## GlobalLayerMaskInfo.AlphaMask property
 
-获取或设置 Alpha 掩码。
+获取或设置 alpha 掩码。
 
 ```csharp
 public short AlphaMask { get; set; }

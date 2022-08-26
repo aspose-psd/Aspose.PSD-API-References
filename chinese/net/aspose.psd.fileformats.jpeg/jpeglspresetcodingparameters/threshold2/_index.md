@@ -1,14 +1,14 @@
 ---
 title: Threshold2
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置局部梯度的第二量化阈值
+description: 获取或设置局部梯度的第二个量化阈值
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2/
 ---
 ## JpegLsPresetCodingParameters.Threshold2 property
 
-获取或设置局部梯度的第二量化阈值。
+获取或设置局部梯度的第二个量化阈值。
 
 ```csharp
 public int Threshold2 { get; set; }

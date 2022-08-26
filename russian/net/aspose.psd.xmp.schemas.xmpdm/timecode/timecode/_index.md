@@ -1,14 +1,14 @@
 ---
 title: Timecode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаTimecodeaspose.psd.xmp.schemas.xmpdm/timecode.
+description: Инициализирует новый экземплярTimecodeaspose.psd.xmp.schemas.xmpdm/timecode класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timecode/timecode/
 ---
 ## Timecode constructor
 
-Инициализирует новый экземпляр класса[`Timecode`](../../timecode).
+Инициализирует новый экземпляр[`Timecode`](../../timecode) класс.
 
 ```csharp
 public Timecode(TimeFormat format, string timeValue)

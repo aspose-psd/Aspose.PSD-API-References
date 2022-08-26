@@ -1,14 +1,14 @@
 ---
 title: SourceDescriptor
 second_title: Aspose.PSD for .NET API 参考
-description: 带有智能过滤数据的源描述符结构
+description: 带有智能过滤器数据的源描述符结构
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/
 ---
 ## SmartFilter.SourceDescriptor property
 
-带有智能过滤数据的源描述符结构。
+带有智能过滤器数据的源描述符结构。
 
 ```csharp
 public DescriptorStructure SourceDescriptor { get; }

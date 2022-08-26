@@ -3,7 +3,7 @@ title: PsdColorPalette
 second_title: Справочник по Aspose.PSD для .NET API
 description: Цветовая палитра PSD.
 type: docs
-weight: 3470
+weight: 3520
 url: /ru/net/aspose.psd.fileformats.psd/psdcolorpalette/
 ---
 ## PsdColorPalette class
@@ -18,28 +18,28 @@ public class PsdColorPalette : IPsdColorPalette
 
 | Имя | Описание |
 | --- | --- |
-| [PsdColorPalette](psdcolorpalette#constructor_6)(byte[]) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette), а IsCompactPalette имеет значение false. |
-| [PsdColorPalette](psdcolorpalette#constructor)(Color[]) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette), а IsCompactPalette имеет значение false. |
-| [PsdColorPalette](psdcolorpalette#constructor_4)(IColorPalette) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette). |
-| [PsdColorPalette](psdcolorpalette#constructor_7)(byte[], bool) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette). |
-| [PsdColorPalette](psdcolorpalette#constructor_8)(byte[], short) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette), а IsCompactPalette имеет значение false. |
-| [PsdColorPalette](psdcolorpalette#constructor_1)(Color[], bool) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette). |
-| [PsdColorPalette](psdcolorpalette#constructor_2)(Color[], short) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette), а IsCompactPalette имеет значение false. |
-| [PsdColorPalette](psdcolorpalette#constructor_5)(IColorPalette, short) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette). |
-| [PsdColorPalette](psdcolorpalette#constructor_10)(int[], bool) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette). |
-| [PsdColorPalette](psdcolorpalette#constructor_9)(byte[], short, bool) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette). |
-| [PsdColorPalette](psdcolorpalette#constructor_3)(Color[], short, bool) | Инициализирует новый экземпляр класса[`PsdColorPalette`](../psdcolorpalette). |
+| [PsdColorPalette](psdcolorpalette#constructor_6)(byte[]) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс, а IsCompactPalette имеет значение false. |
+| [PsdColorPalette](psdcolorpalette#constructor)(Color[]) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс, а IsCompactPalette имеет значение false. |
+| [PsdColorPalette](psdcolorpalette#constructor_4)(IColorPalette) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс. |
+| [PsdColorPalette](psdcolorpalette#constructor_7)(byte[], bool) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс. |
+| [PsdColorPalette](psdcolorpalette#constructor_8)(byte[], short) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс, а IsCompactPalette имеет значение false. |
+| [PsdColorPalette](psdcolorpalette#constructor_1)(Color[], bool) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс. |
+| [PsdColorPalette](psdcolorpalette#constructor_2)(Color[], short) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс, а IsCompactPalette имеет значение false. |
+| [PsdColorPalette](psdcolorpalette#constructor_5)(IColorPalette, short) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс. |
+| [PsdColorPalette](psdcolorpalette#constructor_10)(int[], bool) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс. |
+| [PsdColorPalette](psdcolorpalette#constructor_9)(byte[], short, bool) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс. |
+| [PsdColorPalette](psdcolorpalette#constructor_3)(Color[], short, bool) | Инициализирует новый экземпляр[`PsdColorPalette`](../psdcolorpalette) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Argb32Entries](../../aspose.psd.fileformats.psd/psdcolorpalette/argb32entries) { get; } | Получает массив 32-битных цветов ARGB. |
-| [Entries](../../aspose.psd.fileformats.psd/psdcolorpalette/entries) { get; } | Получает массив структур[`Color`](../../aspose.psd/color). |
+| [Entries](../../aspose.psd.fileformats.psd/psdcolorpalette/entries) { get; } | Получает массив[`Color`](../../aspose.psd/color) структуры. |
 | [EntriesCount](../../aspose.psd.fileformats.psd/psdcolorpalette/entriescount) { get; } | Получает количество записей. |
 | [HasTransparentColor](../../aspose.psd.fileformats.psd/psdcolorpalette/hastransparentcolor) { get; } | Получает значение, указывающее, существует ли прозрачный цвет. |
-| [IsCompactPalette](../../aspose.psd.fileformats.psd/psdcolorpalette/iscompactpalette) { get; } | Получает значение, указывающее, компактна ли палитра. |
-| [RawEntries](../../aspose.psd.fileformats.psd/psdcolorpalette/rawentries) { get; } | Получает необработанные данные записей цветовой палитры. |
+| [IsCompactPalette](../../aspose.psd.fileformats.psd/psdcolorpalette/iscompactpalette) { get; } | Получает значение, указывающее, сжимается ли палитра. |
+| [RawEntries](../../aspose.psd.fileformats.psd/psdcolorpalette/rawentries) { get; } | Получает данные необработанных записей цветовой палитры. |
 | [RawEntriesCount](../../aspose.psd.fileformats.psd/psdcolorpalette/rawentriescount) { get; } | Получает количество записей исходной цветовой палитры. |
 | [TransparentColor](../../aspose.psd.fileformats.psd/psdcolorpalette/transparentcolor) { get; } | Получает прозрачный цвет. |
 | [TransparentIndex](../../aspose.psd.fileformats.psd/psdcolorpalette/transparentindex) { get; } | Получает индекс прозрачного цвета. |

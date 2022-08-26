@@ -1,14 +1,14 @@
 ---
 title: ElementRef
 second_title: Aspose.PSD for .NET API 参考
-description: 为 Adobe Photoshop CC Libraries 获取或设置图形库元素参考
+description: 获取或设置图形库元素参考用于 Adobe Photoshop CC Libraries
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/
 ---
 ## LiFeDataSource.ElementRef property
 
-为 Adobe® Photoshop® CC Libraries 获取或设置图形库元素参考。
+获取或设置图形库元素参考，用于 Adobe® Photoshop® CC Libraries。
 
 ```csharp
 public string ElementRef { get; set; }
@@ -16,13 +16,13 @@ public string ElementRef { get; set; }
 
 ### 适当的价值
 
-图形库元素引用。
+图形库元素参考。
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 ElementRef 属性，它仅适用于 IsLibrary 时的 liFE 数据源为真 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 不能访问 ElementRef 属性，当 IsLibrary 为 true 时，它仅适用于 liFE 数据源 |
 
 ### 例子
 

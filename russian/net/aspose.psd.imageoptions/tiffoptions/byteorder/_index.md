@@ -1,14 +1,14 @@
 ---
 title: ByteOrder
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее порядок байтов в TIFF.
+description: Получает или задает значение указывающее порядок байтов tiff.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/byteorder/
 ---
 ## TiffOptions.ByteOrder property
 
-Получает или задает значение, указывающее порядок байтов в TIFF.
+Получает или задает значение, указывающее порядок байтов tiff.
 
 ```csharp
 public TiffByteOrder ByteOrder { get; set; }

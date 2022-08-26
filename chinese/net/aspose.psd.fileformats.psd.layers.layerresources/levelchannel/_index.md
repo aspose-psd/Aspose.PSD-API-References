@@ -1,14 +1,14 @@
 ---
 title: LevelChannel
 second_title: Aspose.PSD for .NET API 参考
-description: 级别调整层中处理通道的类
+description: 使用级别调整层中的通道的类
 type: docs
-weight: 2570
+weight: 2610
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
 ## LevelChannel class
 
-级别调整层中处理通道的类
+使用级别调整层中的通道的类
 
 ```csharp
 public class LevelChannel
@@ -19,7 +19,7 @@ public class LevelChannel
 | 姓名 | 描述 |
 | --- | --- |
 | [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel) { get; set; } | 获取或设置输入高亮级别。 |
-| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel) { get; set; } | 获取或设置输入中间调电平浮点数。 |
+| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel) { get; set; } | 获取或设置输入中间调水平浮点数。 |
 | [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel) { get; set; } | 获取或设置输入阴影级别。 |
 | [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel) { get; set; } | 获取或设置输出高亮级别。 |
 | [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel) { get; set; } | 获取或设置输出阴影级别。 |

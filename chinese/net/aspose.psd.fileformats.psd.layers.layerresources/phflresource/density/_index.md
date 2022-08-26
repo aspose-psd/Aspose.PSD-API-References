@@ -16,7 +16,7 @@ public int Density { get; set; }
 
 ### 适当的价值
 
-密度。
+密度.
 
 ### 也可以看看
 

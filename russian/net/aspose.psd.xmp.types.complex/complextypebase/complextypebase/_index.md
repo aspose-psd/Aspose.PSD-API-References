@@ -1,14 +1,14 @@
 ---
 title: ComplexTypeBase
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаComplexTypeBaseaspose.psd.xmp.types.complex/complextypebase.
+description: Инициализирует новый экземплярComplexTypeBaseaspose.psd.xmp.types.complex/complextypebase класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
 ## ComplexTypeBase constructor
 
-Инициализирует новый экземпляр класса[`ComplexTypeBase`](../../complextypebase).
+Инициализирует новый экземпляр[`ComplexTypeBase`](../../complextypebase) класс.
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
@@ -23,7 +23,7 @@ public ComplexTypeBase(string prefix, string namespaceUri)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | префикс равен нулю или namespaceUri равен нулю |
+| ArgumentNullException | Префикс равен null or namespaceUri равен null |
 
 ### Смотрите также
 

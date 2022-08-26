@@ -3,7 +3,7 @@ title: TypeToolFontInfo
 second_title: Справочник по Aspose.PSD для .NET API
 description: Содержит информацию о шрифте инструмента ввода.
 type: docs
-weight: 2970
+weight: 3020
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/
 ---
 ## TypeToolFontInfo class
@@ -25,20 +25,20 @@ public class TypeToolFontInfo
 | Имя | Описание |
 | --- | --- |
 | [DesignAxes](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes) { get; set; } | Получает или задает вектор осей проектирования, которому следует следовать. |
-| [DesignVectorValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue) { get; set; } | Получает или задает значение расчетного вектора. |
+| [DesignVectorValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue) { get; set; } | Получает или задает значение вектора проектирования. |
 | [FontFamily](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily) { get; set; } | Получает или задает семейство шрифтов. |
 | [FontName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontname) { get; set; } | Получает или задает имя шрифта. |
 | [FontStyle](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontstyle) { get; set; } | Получает или задает имя стиля шрифта. |
 | [FontTypeData](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fonttypedata) { get; set; } | Получает или задает данные о типе шрифта. |
 | [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length) { get; } | Получает длину. |
 | [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/markvalue) { get; set; } | Получает или задает значение метки. |
-| [ScriptValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue) { get; set; } | Получает или задает значение сценария. |
+| [ScriptValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue) { get; set; } | Получает или задает значение скрипта. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save)(StreamContainer) | Сохраняет информацию[`TypeToolFontInfo`](../typetoolfontinfo)в указанный контейнер потока. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save)(StreamContainer) | Сохраняет[`TypeToolFontInfo`](../typetoolfontinfo) информация в указанный контейнер потока. |
 
 ### Смотрите также
 

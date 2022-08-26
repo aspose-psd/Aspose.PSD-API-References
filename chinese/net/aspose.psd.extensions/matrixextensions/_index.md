@@ -18,7 +18,7 @@ public static class MatrixExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix)(Matrix) | 将[`Matrix`](../../aspose.psd/matrix)转换为Matrix。 |
+| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix)(Matrix) | 转换[`Matrix`](../../aspose.psd/matrix)到Matrix . |
 
 ### 也可以看看
 

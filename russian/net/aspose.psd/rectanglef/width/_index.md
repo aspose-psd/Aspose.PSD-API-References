@@ -1,14 +1,14 @@
 ---
 title: Width
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает ширину этойRectangleFaspose.psd/rectanglefструктуры.
+description: Получает или задает ширину этогоRectangleFaspose.psd/rectanglefструктура.
 type: docs
 weight: 160
 url: /ru/net/aspose.psd/rectanglef/width/
 ---
 ## RectangleF.Width property
 
-Получает или задает ширину этой[`RectangleF`](../../rectanglef)структуры.
+Получает или задает ширину этого[`RectangleF`](../../rectanglef)структура.
 
 ```csharp
 public float Width { get; set; }
@@ -16,7 +16,7 @@ public float Width { get; set; }
 
 ### Возвращаемое значение
 
-Ширина этой[`RectangleF`](../../rectanglef)структуры.
+Ширина этого[`RectangleF`](../../rectanglef) структура.
 
 ### Смотрите также
 

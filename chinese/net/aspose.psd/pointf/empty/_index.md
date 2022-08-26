@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Aspose.PSD for .NET API 参考
-description: 获取具有Xaspose.psd/pointf/x和的PointFaspose.psd/pointf结构的新实例Yaspose.psd/pointf/y值设置为零
+description: 获取一个新的实例PointFaspose.psd/pointf具有的结构Xaspose.psd/pointf/x和Yaspose.psd/pointf/y值设置为零
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/pointf/empty/
 ---
 ## PointF.Empty property
 
-获取具有[`X`](../x)和的[`PointF`](../../pointf)结构的新实例[`Y`](../y)值设置为零。
+获取一个新的实例[`PointF`](../../pointf)具有的结构[`X`](../x)和[`Y`](../y)值设置为零。
 
 ```csharp
 public static PointF Empty { get; }

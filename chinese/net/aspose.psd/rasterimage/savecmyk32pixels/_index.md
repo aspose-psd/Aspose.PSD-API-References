@@ -17,7 +17,7 @@ public void SaveCmyk32Pixels(Rectangle rectangle, int[] pixels)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | rectangle | Rectangle | 保存像素的矩形。 |
-| pixels | Int32[] | 以 32 位整数值表示的 CMYK 像素。 |
+| pixels | Int32[] | CMYK 像素表示为 32 位整数值。 |
 
 ### 也可以看看
 

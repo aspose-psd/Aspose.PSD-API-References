@@ -1,7 +1,7 @@
 ---
 title: JpegLsInterleaveMode
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 JPEG-LS 交错模式
+description: 获取或设置 JPEGLS 交错模式
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode/

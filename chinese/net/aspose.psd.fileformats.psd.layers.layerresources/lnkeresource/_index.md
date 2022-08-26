@@ -1,14 +1,14 @@
 ---
 title: LnkeResource
 second_title: Aspose.PSD for .NET API 参考
-description: 定义 LnkeResource 类该类包含有关 PSD 格式图像中的外部链接文件或资产的信息 链接资源可能包含多个LiFeDataSource./lifedatasource实例这些实例可由索引器访问 这是 PSD 文件格式操作 API 的一部分它有助于以编程方式修改 Adobe Photoshop 文件
+description: 定义 LnkeResource 类该类包含有关 PSD 格式图像中的外部链接文件或资产的信息 链接资源可能包含几个LiFeDataSource./lifedatasource可由索引器访问的实例 这是 PSD 文件格式操作 API 的一部分有助于以编程方式修改 Adobe Photoshop 文件
 type: docs
-weight: 2680
+weight: 2720
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
 ## LnkeResource class
 
-定义 LnkeResource 类，该类包含有关 PSD 格式图像中的外部链接文件或资产的信息。 链接资源可能包含多个[`LiFeDataSource`](../lifedatasource)实例，这些实例可由索引器访问。 这是 PSD 文件格式操作 API 的一部分，它有助于以编程方式修改 Adobe® Photoshop® 文件
+定义 LnkeResource 类，该类包含有关 PSD 格式图像中的外部链接文件或资产的信息。 链接资源可能包含几个[`LiFeDataSource`](../lifedatasource)可由索引器访问的实例。 这是 PSD 文件格式操作 API 的一部分，有助于以编程方式修改 Adobe® Photoshop® 文件
 
 ```csharp
 public class LnkeResource : LinkResource
@@ -18,19 +18,19 @@ public class LnkeResource : LinkResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LnkeResource](lnkeresource#constructor)() | 初始化[`LnkeResource`](../lnkeresource)类的新实例。 |
-| [LnkeResource](lnkeresource#constructor_1)(LinkDataSource[]) | 初始化[`LnkeResource`](../lnkeresource)类的新实例。 |
+| [LnkeResource](lnkeresource#constructor)() | 初始化[`LnkeResource`](../lnkeresource)类. |
+| [LnkeResource](lnkeresource#constructor_1)(LinkDataSource[]) | 初始化[`LnkeResource`](../lnkeresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
 | [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount) { get; } | 获取索引器可以访问的链接数据源的计数。 |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | 获取该链接资源实例是否为空的值。 |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item) { get; } | 获取指定索引处的[`LiFeDataSource`](../lifedatasource)。 (2 indexers) |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | 获取表示此链接资源实例是否为空的值。 |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item) { get; } | 获取[`LiFeDataSource`](../lifedatasource)在指定的索引处。 (2 indexers) |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key) { get; } | 获取 Adobe® Photoshop® 全局资源密钥。 |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length) { get; } | 获取 PSD 全局链接资源长度（以字节为单位）。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | 获取 PSD 格式版本。 |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | 获取PSD格式版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature) { get; } | 获取 PSD 全局链接资源签名。 |
 
 ## 方法
@@ -38,7 +38,7 @@ public class LnkeResource : LinkResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | 保存资源块数据。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
@@ -48,7 +48,7 @@ public class LnkeResource : LinkResource
 
 ### 例子
 
-下面的代码演示了对LnkeResource资源的支持。
+下面的代码演示了对 LnkeResource 资源的支持。
 
 ```csharp
 [C#]
@@ -272,6 +272,7 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### 也可以看看
 
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
 * class [LinkResource](../linkresource)
 * 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
 * 部件 [Aspose.PSD](../../)

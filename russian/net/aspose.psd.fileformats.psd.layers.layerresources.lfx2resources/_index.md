@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources
 second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержитLfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resourceсвязанные классы
+description: Пространство имен содержитLfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource связанные классы
 type: docs
-weight: 270
+weight: 280
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/
 ---
-Пространство имен содержит[`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource)связанные классы
+Пространство имен содержит[`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource) связанные классы
 
 ## перечисление
 

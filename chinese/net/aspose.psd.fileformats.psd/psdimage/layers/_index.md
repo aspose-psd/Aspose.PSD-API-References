@@ -1,14 +1,14 @@
 ---
 title: Layers
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 层
+description: 获取或设置 PSD 图层
 type: docs
 weight: 200
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/layers/
 ---
 ## PsdImage.Layers property
 
-获取或设置 PSD 层。
+获取或设置 PSD 图层。
 
 ```csharp
 public Layer[] Layers { get; set; }

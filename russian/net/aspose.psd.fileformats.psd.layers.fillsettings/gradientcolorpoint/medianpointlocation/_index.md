@@ -1,14 +1,14 @@
 ---
 title: MedianPointLocation
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает расположение средней точки градиента.
+description: Получает или задает положение средней точки градиента.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/
 ---
 ## GradientColorPoint.MedianPointLocation property
 
-Получает или задает расположение средней точки градиента.
+Получает или задает положение средней точки градиента.
 
 ```csharp
 public int MedianPointLocation { get; set; }
@@ -16,7 +16,7 @@ public int MedianPointLocation { get; set; }
 
 ### Стоимость имущества
 
-Расположение средней точки.
+Расположение срединной точки.
 
 ### Смотрите также
 

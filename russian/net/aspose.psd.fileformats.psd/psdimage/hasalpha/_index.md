@@ -1,14 +1,14 @@
 ---
 title: HasAlpha
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает вертикальное разрешение в пикселях на дюйм для этогоRasterImageaspose.psd/rasterimage.
+description: Получает или задает разрешение по вертикали в пикселях на дюйм этогоRasterImageaspose.psd/rasterimage .
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
 ## PsdImage.HasAlpha property
 
-Получает или задает вертикальное разрешение в пикселях на дюйм для этого[`RasterImage`](../../../aspose.psd/rasterimage).
+Получает или задает разрешение по вертикали в пикселях на дюйм этого[`RasterImage`](../../../aspose.psd/rasterimage) .
 
 ```csharp
 public override bool HasAlpha { get; }
@@ -16,7 +16,7 @@ public override bool HasAlpha { get; }
 
 ### Стоимость имущества
 
-` true` если у этого экземпляра есть альфа; в противном случае` false` .
+`истинный` если у этого экземпляра есть альфа; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

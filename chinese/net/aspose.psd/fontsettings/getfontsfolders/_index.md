@@ -1,14 +1,14 @@
 ---
 title: GetFontsFolders
 second_title: Aspose.PSD for .NET API 参考
-description: 获取数组的副本其中包含 Aspose.Words 查找 TrueType 字体的文件夹列表
+description: 获取包含 Aspose.Words 查找 TrueType 字体的文件夹列表的数组副本
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/fontsettings/getfontsfolders/
 ---
 ## FontSettings.GetFontsFolders method
 
-获取数组的副本，其中包含 Aspose.Words 查找 TrueType 字体的文件夹列表。
+获取包含 Aspose.Words 查找 TrueType 字体的文件夹列表的数组副本。
 
 ```csharp
 public static string[] GetFontsFolders()
@@ -20,7 +20,7 @@ public static string[] GetFontsFolders()
 
 ### 评论
 
-返回值是 Aspose.Words 使用的数据的副本。如果您更改返回数组中的条目， 将不会影响文档呈现。要指定新字体位置，请使用[`SetFontsFolders`](../setfontsfolders)方法。
+返回值是 Aspose.Words 使用的数据的副本。如果您更改返回数组中的条目， 它将不会影响文档呈现。要指定新的字体位置，请使用[`SetFontsFolders`](../setfontsfolders)方法。
 
 ### 也可以看看
 

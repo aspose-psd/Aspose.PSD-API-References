@@ -3,7 +3,7 @@ title: IObjectWithSizeF
 second_title: Aspose.PSD for .NET API 参考
 description: 表示大小为实数英寸的对象
 type: docs
-weight: 4900
+weight: 4950
 url: /zh/net/aspose.psd.interfaces/iobjectwithsizef/
 ---
 ## IObjectWithSizeF interface

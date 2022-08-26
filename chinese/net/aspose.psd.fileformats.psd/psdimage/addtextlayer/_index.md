@@ -21,7 +21,7 @@ public TextLayer AddTextLayer(string text, Rectangle rect)
 
 ### 返回值
 
-已创建文本图层。
+创建文本图层。
 
 ### 也可以看看
 

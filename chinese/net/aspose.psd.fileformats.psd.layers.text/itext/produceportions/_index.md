@@ -17,17 +17,17 @@ public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle styleP
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| portionsOfText | String[] | 要创建新的文本部分[`ITextPortion`](../../itextportion)。 |
-| stylePrototype | ITextStyle | 如果不为空，将在新的 &lt;see. Cref="ITextPortion" /&gt;，否则为默认值。 |
-| paragraphPrototype | ITextParagraph | 如果不为空，将在新的 &lt;see. Cref="ITextPortion" /&gt;，否则为默认值。 |
+| portionsOfText | String[] | 要创建新的文本部分[`ITextPortion`](../../itextportion). |
+| stylePrototype | ITextStyle | 一种样式，如果不为空，将应用于新的否则默认。 |
+| paragraphPrototype | ITextParagraph | 一个段落，如果不为空，将应用于新的否则默认。 |
 
 ### 返回值
 
-根据输入参数返回新部分[`ITextPortion`](../../itextportion)。
+返回新部分[`ITextPortion`](../../itextportion)基于输入参数。
 
 ### 例子
 
-下面的例子演示了如何在 Aspose.PSD 的一个文本层中渲染不同的样式
+以下示例演示了如何在 Aspose.PSD 的一个文本层中呈现不同的样式
 
 ```csharp
 [C#]

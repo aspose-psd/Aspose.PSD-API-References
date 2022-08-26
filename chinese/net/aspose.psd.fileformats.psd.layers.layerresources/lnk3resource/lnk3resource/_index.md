@@ -1,14 +1,14 @@
 ---
 title: Lnk3Resource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化Lnk3Resourceaspose.psd.fileformats.psd.layers.layerresources/lnk3resource类的新实例
+description: 初始化Lnk3Resourceaspose.psd.fileformats.psd.layers.layerresources/lnk3resource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/lnk3resource/
 ---
 ## Lnk3Resource constructor
 
-初始化[`Lnk3Resource`](../../lnk3resource)类的新实例。
+初始化[`Lnk3Resource`](../../lnk3resource)类.
 
 ```csharp
 public Lnk3Resource()

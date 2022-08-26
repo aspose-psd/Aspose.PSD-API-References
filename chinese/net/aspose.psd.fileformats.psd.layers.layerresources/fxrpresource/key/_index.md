@@ -1,14 +1,14 @@
 ---
 title: Key
 second_title: Aspose.PSD for .NET API 参考
-description: 获取层资源密钥
+description: 获取图层资源键
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key/
 ---
 ## FxrpResource.Key property
 
-获取层资源密钥。
+获取图层资源键。
 
 ```csharp
 public override int Key { get; }

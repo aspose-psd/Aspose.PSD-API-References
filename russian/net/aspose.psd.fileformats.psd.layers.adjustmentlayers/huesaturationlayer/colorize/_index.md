@@ -1,14 +1,14 @@
 ---
 title: Colorize
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этотHueSaturationLayeraspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayerраскрашиваемым.
+description: Получает или задает значение указывающее является ли этоHueSaturationLayeraspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer раскрасить.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/colorize/
 ---
 ## HueSaturationLayer.Colorize property
 
-Получает или задает значение, указывающее, является ли этот[`HueSaturationLayer`](../../huesaturationlayer)раскрашиваемым.
+Получает или задает значение, указывающее, является ли это[`HueSaturationLayer`](../../huesaturationlayer) раскрасить.
 
 ```csharp
 public bool Colorize { get; set; }
@@ -16,7 +16,7 @@ public bool Colorize { get; set; }
 
 ### Стоимость имущества
 
-` true` если раскрасить; в противном случае` false` .
+`истинный` если раскрасить; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

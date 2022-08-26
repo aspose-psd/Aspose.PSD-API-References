@@ -1,14 +1,14 @@
 ---
 title: PsdImageArgumentException
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PsdImageArgumentExceptionaspose.psd.coreexceptions.imageformats/psdimageargumentexception类的新实例
+description: 初始化PsdImageArgumentExceptionaspose.psd.coreexceptions.imageformats/psdimageargumentexception类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/psdimageargumentexception/
 ---
 ## PsdImageArgumentException(string) {#constructor}
 
-初始化[`PsdImageArgumentException`](../../psdimageargumentexception)类的新实例。
+初始化[`PsdImageArgumentException`](../../psdimageargumentexception)类.
 
 ```csharp
 public PsdImageArgumentException(string message)
@@ -28,7 +28,7 @@ public PsdImageArgumentException(string message)
 
 ## PsdImageArgumentException(string, Exception) {#constructor_1}
 
-初始化[`PsdImageArgumentException`](../../psdimageargumentexception)类的新实例。
+初始化[`PsdImageArgumentException`](../../psdimageargumentexception)类.
 
 ```csharp
 public PsdImageArgumentException(string message, Exception innerException)
@@ -37,7 +37,7 @@ public PsdImageArgumentException(string message, Exception innerException)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | message | String | 异常消息。 |
-| innerException | Exception | 内部异常。 |
+| innerException | Exception | 内在异常。 |
 
 ### 也可以看看
 

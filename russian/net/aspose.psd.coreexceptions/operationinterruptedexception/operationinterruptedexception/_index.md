@@ -1,14 +1,14 @@
 ---
 title: OperationInterruptedException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаOperationInterruptedExceptionaspose.psd.coreexceptions/operationinterruptedexception.
+description: Инициализирует новый экземплярOperationInterruptedExceptionaspose.psd.coreexceptions/operationinterruptedexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/operationinterruptedexception/operationinterruptedexception/
 ---
 ## OperationInterruptedException(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`OperationInterruptedException`](../../operationinterruptedexception).
+Инициализирует новый экземпляр[`OperationInterruptedException`](../../operationinterruptedexception) класс.
 
 ```csharp
 public OperationInterruptedException(string message)
@@ -28,7 +28,7 @@ public OperationInterruptedException(string message)
 
 ## OperationInterruptedException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`OperationInterruptedException`](../../operationinterruptedexception).
+Инициализирует новый экземпляр[`OperationInterruptedException`](../../operationinterruptedexception) класс.
 
 ```csharp
 public OperationInterruptedException(string message, Exception innerException)

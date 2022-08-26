@@ -1,14 +1,14 @@
 ---
 title: CanLoad
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет можно ли загрузить ресурс слоя из указанногоStreamContaineraspose.psd/streamcontainer.
+description: Определяет можно ли загрузить ресурс слоя из указанногоStreamContaineraspose.psd/streamcontainer .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/
 ---
 ## ILayerResourceLoader.CanLoad method
 
-Определяет, можно ли загрузить ресурс слоя из указанного[`StreamContainer`](../../../aspose.psd/streamcontainer).
+Определяет, можно ли загрузить ресурс слоя из указанного[`StreamContainer`](../../../aspose.psd/streamcontainer) .
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, int psdVersion)
@@ -21,7 +21,7 @@ public bool CanLoad(StreamContainer streamContainer, int psdVersion)
 
 ### Возвращаемое значение
 
-` true` если ресурс слоя может быть загружен из указанного[`StreamContainer`](../../../aspose.psd/streamcontainer); в противном случае` false` .
+`истинный` если ресурс слоя может быть загружен из указанного[`StreamContainer`](../../../aspose.psd/streamcontainer) ; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

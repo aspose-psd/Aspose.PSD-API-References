@@ -3,7 +3,7 @@ title: Lfx2Resource
 second_title: Справочник по Aspose.PSD для .NET API
 description: Ресурс Lfx2 ресурс эффектов
 type: docs
-weight: 2590
+weight: 2630
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
 ## Lfx2Resource class
@@ -25,7 +25,7 @@ public sealed class Lfx2Resource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/blendmode) { get; } | Получает режим наложения. |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/data) { get; set; } | Получает или задает данные. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/data) { get; set; } | Получает или устанавливает данные. |
 | [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion) { get; } | Получает версию дескриптора. |
 | [EffectColor](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/effectcolor) { get; } | Получает цвет эффекта. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/key) { get; } | Получает ключ ресурса слоя. |
@@ -39,13 +39,13 @@ public sealed class Lfx2Resource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

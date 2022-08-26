@@ -3,7 +3,7 @@ title: ImageCreatorsRegistry
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет реестр создателей образов.
 type: docs
-weight: 4500
+weight: 4550
 url: /ru/net/aspose.psd/imagecreatorsregistry/
 ---
 ## ImageCreatorsRegistry class

@@ -1,14 +1,14 @@
 ---
 title: NonGenericDictionary
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化NonGenericDictionaryaspose.psd/nongenericdictionary类的新实例
+description: 初始化NonGenericDictionaryaspose.psd/nongenericdictionary类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/nongenericdictionary/nongenericdictionary/
 ---
 ## NonGenericDictionary constructor
 
-初始化[`NonGenericDictionary`](../../nongenericdictionary)类的新实例。
+初始化[`NonGenericDictionary`](../../nongenericdictionary)类.
 
 ```csharp
 public NonGenericDictionary(IDictionary dictionary)

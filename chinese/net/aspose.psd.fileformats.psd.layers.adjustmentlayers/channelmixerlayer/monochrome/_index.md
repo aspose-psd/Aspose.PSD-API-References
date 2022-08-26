@@ -1,14 +1,14 @@
 ---
 title: Monochrome
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此ChannelMixerLayeraspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer是否为单色
+description: 获取或设置一个值该值指示是否ChannelMixerLayeraspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer是单色的
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/monochrome/
 ---
 ## ChannelMixerLayer.Monochrome property
 
-获取或设置一个值，该值指示此[`ChannelMixerLayer`](../../channelmixerlayer)是否为单色。
+获取或设置一个值，该值指示是否[`ChannelMixerLayer`](../../channelmixerlayer)是单色的。
 
 ```csharp
 public bool Monochrome { get; set; }
@@ -16,7 +16,7 @@ public bool Monochrome { get; set; }
 
 ### 适当的价值
 
-` true` 如果是单色；否则，` false` 。
+`真的`如果是单色的；否则，`错误的` .
 
 ### 也可以看看
 

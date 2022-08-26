@@ -3,7 +3,7 @@ title: UnitStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Структура юнита.
 type: docs
-weight: 3170
+weight: 3220
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/
 ---
 ## UnitStructure class
@@ -18,7 +18,7 @@ public sealed class UnitStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [UnitStructure](unitstructure)(ClassID) | Инициализирует новый экземпляр класса[`UnitStructure`](../unitstructure). |
+| [UnitStructure](unitstructure)(ClassID) | Инициализирует новый экземпляр[`UnitStructure`](../unitstructure) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public sealed class UnitStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
 | [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype) { get; set; } | Получает или задает тип единицы измерения. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value) { get; set; } | Получает или задает значение. |
 

@@ -16,7 +16,7 @@ public double ColorPower { get; set; }
 
 ### 适当的价值
 
-色彩力量。
+色力。
 
 ### 也可以看看
 

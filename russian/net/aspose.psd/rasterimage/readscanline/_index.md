@@ -1,14 +1,14 @@
 ---
 title: ReadScanLine
 second_title: Справочник по Aspose.PSD для .NET API
-description: Читает всю строку сканирования по указанному индексу строки сканирования.
+description: Считывает всю строку сканирования по указанному индексу строки сканирования.
 type: docs
 weight: 440
 url: /ru/net/aspose.psd/rasterimage/readscanline/
 ---
 ## RasterImage.ReadScanLine method
 
-Читает всю строку сканирования по указанному индексу строки сканирования.
+Считывает всю строку сканирования по указанному индексу строки сканирования.
 
 ```csharp
 public Color[] ReadScanLine(int scanLineIndex)

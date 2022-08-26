@@ -3,7 +3,7 @@ title: ListStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 列表结构
 type: docs
-weight: 3080
+weight: 3130
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/
 ---
 ## ListStructure class
@@ -18,17 +18,17 @@ public sealed class ListStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ListStructure](liststructure)(ClassID) | 初始化[`ListStructure`](../liststructure)类的新实例。 |
+| [ListStructure](liststructure)(ClassID) | 初始化[`ListStructure`](../liststructure)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ItemsCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount) { get; } | 获取项目计数。 |
+| [ItemsCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount) { get; } | 获取项目数。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
-| [Types](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types) { get; set; } | 获取或设置类型。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
+| [Types](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types) { get; set; } | 获取或设置结构数组的副本。 |
 
 ## 方法
 

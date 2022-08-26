@@ -3,7 +3,7 @@ title: IRasterImageRawDataLoader
 second_title: Справочник по Aspose.PSD для .NET API
 description: Загрузчик необработанных данных растрового изображения.
 type: docs
-weight: 4460
+weight: 4510
 url: /ru/net/aspose.psd/irasterimagerawdataloader/
 ---
 ## IRasterImageRawDataLoader interface

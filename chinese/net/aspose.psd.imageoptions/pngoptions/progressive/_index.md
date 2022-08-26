@@ -1,14 +1,14 @@
 ---
 title: Progressive
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此PngOptionsaspose.psd.imageoptions/pngoptions是否为渐进式
+description: 获取或设置一个值该值指示是否PngOptionsaspose.psd.imageoptions/pngoptions是进步的
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.imageoptions/pngoptions/progressive/
 ---
 ## PngOptions.Progressive property
 
-获取或设置一个值，该值指示此[`PngOptions`](../../pngoptions)是否为渐进式。
+获取或设置一个值，该值指示是否[`PngOptions`](../../pngoptions)是进步的。
 
 ```csharp
 public bool Progressive { get; set; }
@@ -16,7 +16,7 @@ public bool Progressive { get; set; }
 
 ### 适当的价值
 
-` true` 如果渐进式；否则，` false` 。
+`真的`如果进步;否则，`错误的` .
 
 ### 也可以看看
 

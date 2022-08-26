@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.Xmp.Schemas.Pdf
 second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含与 Adobe PDF 文档一起使用的相关帮助程序类常量和方法
+description: 命名空间包含与 Adobe PDF 文档一起使用的相关帮助类常量和方法
 type: docs
-weight: 520
+weight: 530
 url: /zh/net/aspose.psd.xmp.schemas.pdf/
 ---
-命名空间包含与 Adobe PDF 文档一起使用的相关帮助程序类、常量和方法。
+命名空间包含与 Adobe PDF 文档一起使用的相关帮助类、常量和方法。
 
 ## 课程
 

@@ -3,7 +3,7 @@ title: GradientTransparencyPoint
 second_title: Aspose.PSD for .NET API 参考
 description: 渐变透明度点
 type: docs
-weight: 1910
+weight: 1950
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
 ## GradientTransparencyPoint class
@@ -18,7 +18,7 @@ public class GradientTransparencyPoint : IGradientTransparencyPoint
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GradientTransparencyPoint](gradienttransparencypoint)() | 初始化[`GradientTransparencyPoint`](../gradienttransparencypoint)类的新实例。 |
+| [GradientTransparencyPoint](gradienttransparencypoint)() | 初始化[`GradientTransparencyPoint`](../gradienttransparencypoint)类. |
 
 ## 特性
 

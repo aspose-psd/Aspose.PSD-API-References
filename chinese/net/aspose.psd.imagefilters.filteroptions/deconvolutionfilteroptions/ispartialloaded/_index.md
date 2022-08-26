@@ -16,7 +16,7 @@ public bool IsPartialLoaded { get; }
 
 ### 适当的价值
 
-` true` 如果此实例已部分加载；否则，` false` 。
+`真的`如果这个实例是部分加载的；否则，`错误的` .
 
 ### 也可以看看
 

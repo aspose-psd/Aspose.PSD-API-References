@@ -1,14 +1,14 @@
 ---
 title: ToGdiPoints
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует массивPointFaspose.psd/pointfв массивPointFмножество.
+description: ПреобразуетPointFaspose.psd/pointf массив кPointF массив.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.extensions/pointextensions/togdipoints/
 ---
 ## PointExtensions.ToGdiPoints method
 
-Преобразует массив[`PointF`](../../../aspose.psd/pointf)в массивPointFмножество.
+Преобразует[`PointF`](../../../aspose.psd/pointf) массив кPointF массив.
 
 ```csharp
 public static PointF[] ToGdiPoints(PointF[] points)
@@ -16,11 +16,11 @@ public static PointF[] ToGdiPoints(PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив[`PointF`](../../../aspose.psd/pointf)для преобразования. |
+| points | PointF[] | [`PointF`](../../../aspose.psd/pointf) массив для преобразования. |
 
 ### Возвращаемое значение
 
-Преобразованный массивPointF.
+ПреобразованныйPointF множество.
 
 ### Смотрите также
 

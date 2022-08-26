@@ -1,7 +1,7 @@
 ---
 title: SetOutputChannel
 second_title: Aspose.PSD for .NET API 参考
-description: 为默认类别设置 CMYK青色-品红色-黄色-黑色输出通道
+description: 为默认类别设置 CMYK青色品红色黄色黑色输出通道
 type: docs
 weight: 170
 url: /zh/net/aspose.psd/imageattributes/setoutputchannel/
@@ -16,7 +16,7 @@ public void SetOutputChannel(ColorChannelFlag flags)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| flags | ColorChannelFlag | [`ColorChannelFlag`](../../colorchannelflag)的一个元素，指定输出通道。 |
+| flags | ColorChannelFlag | 一个元素[`ColorChannelFlag`](../../colorchannelflag)指定输出通道。 |
 
 ### 也可以看看
 
@@ -37,8 +37,8 @@ public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| flags | ColorChannelFlag | [`ColorChannelFlag`](../../colorchannelflag)的一个元素，指定输出通道。 |
-| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype)的一个元素，指定为其设置输出通道的类别。 |
+| flags | ColorChannelFlag | 一个元素[`ColorChannelFlag`](../../colorchannelflag)指定输出通道。 |
+| type | ColorAdjustType | 一个元素[`ColorAdjustType`](../../coloradjusttype)指定为其设置输出通道的类别。 |
 
 ### 也可以看看
 

@@ -48,7 +48,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示如何编辑 BlwhResource。
+以下示例演示了如何编辑 BlwhResource。
 
 ```csharp
 [C#]

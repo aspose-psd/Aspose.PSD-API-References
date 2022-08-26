@@ -3,7 +3,7 @@ title: ListStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Структура списка.
 type: docs
-weight: 3080
+weight: 3130
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/
 ---
 ## ListStructure class
@@ -18,7 +18,7 @@ public sealed class ListStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [ListStructure](liststructure)(ClassID) | Инициализирует новый экземпляр класса[`ListStructure`](../liststructure). |
+| [ListStructure](liststructure)(ClassID) | Инициализирует новый экземпляр[`ListStructure`](../liststructure) класс. |
 
 ## Характеристики
 
@@ -27,8 +27,8 @@ public sealed class ListStructure : OSTypeStructure
 | [ItemsCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount) { get; } | Получает количество элементов. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)длину в байтах. |
-| [Types](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types) { get; set; } | Получает или задает типы. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
+| [Types](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types) { get; set; } | Получает или задает копию массива структур. |
 
 ## Методы
 

@@ -16,7 +16,7 @@ public CurvesManager GetCurveManager()
 
 ### 返回值
 
-[`CurvesDiscreteManager`](../../curvesdiscretemanager)或[`CurvesContinuousManager`](../../curvescontinuousmanager)
+[`CurvesDiscreteManager`](../../curvesdiscretemanager)或者[`CurvesContinuousManager`](../../curvescontinuousmanager)
 
 ### 也可以看看
 

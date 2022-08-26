@@ -1,14 +1,14 @@
 ---
 title: DesignVectorValue
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение расчетного вектора.
+description: Получает или задает значение вектора проектирования.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue/
 ---
 ## TypeToolFontInfo.DesignVectorValue property
 
-Получает или задает значение расчетного вектора.
+Получает или задает значение вектора проектирования.
 
 ```csharp
 public int DesignVectorValue { get; set; }

@@ -3,7 +3,7 @@ title: BezierShape
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет сплайн Безье.
 type: docs
-weight: 5350
+weight: 5400
 url: /ru/net/aspose.psd.shapes/beziershape/
 ---
 ## BezierShape class
@@ -18,9 +18,9 @@ public sealed class BezierShape : PolygonShape
 
 | Имя | Описание |
 | --- | --- |
-| [BezierShape](beziershape#constructor)() | Инициализирует новый экземпляр класса[`BezierShape`](../beziershape). |
-| [BezierShape](beziershape#constructor_1)(PointF[]) | Инициализирует новый экземпляр класса[`BezierShape`](../beziershape). |
-| [BezierShape](beziershape#constructor_2)(PointF[], bool) | Инициализирует новый экземпляр класса[`BezierShape`](../beziershape). |
+| [BezierShape](beziershape#constructor)() | Инициализирует новый экземпляр[`BezierShape`](../beziershape) класс. |
+| [BezierShape](beziershape#constructor_1)(PointF[]) | Инициализирует новый экземпляр[`BezierShape`](../beziershape) класс. |
+| [BezierShape](beziershape#constructor_2)(PointF[], bool) | Инициализирует новый экземпляр[`BezierShape`](../beziershape) класс. |
 
 ## Характеристики
 

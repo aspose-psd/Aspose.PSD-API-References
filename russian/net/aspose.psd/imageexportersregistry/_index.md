@@ -3,7 +3,7 @@ title: ImageExportersRegistry
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет реестр экспортеров образов.
 type: docs
-weight: 4510
+weight: 4560
 url: /ru/net/aspose.psd/imageexportersregistry/
 ---
 ## ImageExportersRegistry class
@@ -27,7 +27,7 @@ public static class ImageExportersRegistry
 | --- | --- |
 | static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter)(Image, ImageOptionsBase) | Создает первый найденный экспортер, подходящий для указанных параметров сохранения и изображения. |
 | static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor)(Image, ImageOptionsBase) | Получает первый найденный поддерживаемый дескриптор, подходящий для указанных параметров сохранения и изображения. |
-| static [Register](../../aspose.psd/imageexportersregistry/register)(IImageExporterDescriptor) | Регистрирует указанный дескриптор экспортера изображения. |
+| static [Register](../../aspose.psd/imageexportersregistry/register)(IImageExporterDescriptor) | Регистрирует указанный дескриптор экспортера изображений. |
 | static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter)(IImageExporterDescriptor) | Регистрирует экспортера. |
 | static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter)(IImageExporterDescriptor) | Отменяет регистрацию экспортера. |
 

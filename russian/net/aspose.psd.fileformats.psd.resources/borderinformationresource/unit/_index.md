@@ -1,14 +1,14 @@
 ---
 title: Unit
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает единицы измерения границы.
+description: Получает или задает единицы измерения границ.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
 ## BorderInformationResource.Unit property
 
-Получает или задает единицы измерения границы.
+Получает или задает единицы измерения границ.
 
 ```csharp
 public PhysicalUnit Unit { get; set; }

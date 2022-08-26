@@ -1,14 +1,14 @@
 ---
 title: StringFormatExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Содержит методы расширения для классаStringFormat../aspose.psd/stringformat.
+description: Содержит методы расширения дляStringFormat../aspose.psd/stringformat класс.
 type: docs
 weight: 1190
 url: /ru/net/aspose.psd.extensions/stringformatextensions/
 ---
 ## StringFormatExtensions class
 
-Содержит методы расширения для класса[`StringFormat`](../../aspose.psd/stringformat).
+Содержит методы расширения для[`StringFormat`](../../aspose.psd/stringformat) класс.
 
 ```csharp
 public static class StringFormatExtensions
@@ -18,7 +18,7 @@ public static class StringFormatExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat)(StringFormat) | Преобразует[`StringFormat`](../../aspose.psd/stringformat)вStringFormat. |
+| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat)(StringFormat) | Преобразует[`StringFormat`](../../aspose.psd/stringformat) кStringFormat . |
 
 ### Смотрите также
 

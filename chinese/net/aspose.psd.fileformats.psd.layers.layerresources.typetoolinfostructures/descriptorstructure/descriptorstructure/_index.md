@@ -1,14 +1,14 @@
 ---
 title: DescriptorStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化DescriptorStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure类的新实例
+description: 初始化DescriptorStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/descriptorstructure/
 ---
 ## DescriptorStructure constructor
 
-初始化[`DescriptorStructure`](../../descriptorstructure)类的新实例。
+初始化[`DescriptorStructure`](../../descriptorstructure)类.
 
 ```csharp
 public DescriptorStructure(ClassID keyName, ClassID classID, string className, 
@@ -17,7 +17,7 @@ public DescriptorStructure(ClassID keyName, ClassID classID, string className,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 | classID | ClassID | 类标识符。 |
 | className | String | 类的名称。 |
 | structures | OSTypeStructure[] | 结构。 |

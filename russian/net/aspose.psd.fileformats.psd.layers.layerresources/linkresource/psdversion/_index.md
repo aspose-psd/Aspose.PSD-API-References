@@ -1,14 +1,14 @@
 ---
 title: PsdVersion
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает версию в формате PSD.
+description: Получает версию формата PSD.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/
 ---
 ## LinkResource.PsdVersion property
 
-Получает версию в формате PSD.
+Получает версию формата PSD.
 
 ```csharp
 public override int PsdVersion { get; }

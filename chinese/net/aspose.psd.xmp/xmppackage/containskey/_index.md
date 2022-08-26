@@ -1,14 +1,14 @@
 ---
 title: ContainsKey
 second_title: Aspose.PSD for .NET API 参考
-description: 判断指定的key是否包含key
+description: 判断指定key是否包含key
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.xmp/xmppackage/containskey/
 ---
 ## XmpPackage.ContainsKey method
 
-判断指定的key是否包含key。
+判断指定key是否包含key。
 
 ```csharp
 public virtual bool ContainsKey(string key)

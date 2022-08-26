@@ -1,14 +1,14 @@
 ---
 title: InsertPortion
 second_title: Aspose.PSD for .NET API 参考
-description: 将ITextPortionaspose.psd.fileformats.psd.layers.text/itextportion插入到指定位置
+description: 插入ITextPortionaspose.psd.fileformats.psd.layers.text/itextportion到指定位置
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itext/insertportion/
 ---
 ## IText.InsertPortion method
 
-将[`ITextPortion`](../../itextportion)插入到指定位置
+插入[`ITextPortion`](../../itextportion)到指定位置
 
 ```csharp
 public void InsertPortion(ITextPortion portion, int index)
@@ -16,8 +16,8 @@ public void InsertPortion(ITextPortion portion, int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| portion | ITextPortion | 部分。 |
-| index | Int32 | 索引。 |
+| portion | ITextPortion | 该部分。 |
+| index | Int32 | 指数。 |
 
 ### 例子
 

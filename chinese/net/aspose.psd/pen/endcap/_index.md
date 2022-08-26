@@ -1,14 +1,14 @@
 ---
 title: EndCap
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置使用此Penaspose.psd/pen绘制的线条末端使用的帽子样式
+description: 获取或设置用 this 绘制的线条末端使用的帽子样式Penaspose.psd/pen .
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/pen/endcap/
 ---
 ## Pen.EndCap property
 
-获取或设置使用此[`Pen`](../../pen)绘制的线条末端使用的帽子样式。
+获取或设置用 this 绘制的线条末端使用的帽子样式[`Pen`](../../pen) .
 
 ```csharp
 public LineCap EndCap { get; set; }
@@ -16,13 +16,13 @@ public LineCap EndCap { get; set; }
 
 ### 适当的价值
 
-[`LineCap`](../../linecap)值之一，表示用此绘制的线的末端使用的帽样式[`Pen`](../../pen)。
+中的一个[`LineCap`](../../linecap)表示用此绘制的线条末端使用的帽子样式的值[`Pen`](../../pen).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | `EndCap`属性设置在不可变的PSD上。Pen，例如由[`Pen`](../../pen)类返回的那些。 |
+| ArgumentException | 这`EndCap`属性设置在不可变对象上[`Pen`](../../pen)，例如那些由[`Pen`](../../pen)班级。 |
 
 ### 也可以看看
 

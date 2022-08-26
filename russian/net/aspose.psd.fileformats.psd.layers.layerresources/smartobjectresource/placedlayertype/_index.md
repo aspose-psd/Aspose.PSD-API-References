@@ -1,7 +1,7 @@
 ---
 title: PlacedLayerType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает тип данных слоя смарт-объекта в файле PSD.
+description: Получает или задает тип данных слоя смартобъекта в файле PSD.
 type: docs
 weight: 170
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/

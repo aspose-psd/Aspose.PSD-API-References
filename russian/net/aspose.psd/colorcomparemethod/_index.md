@@ -1,14 +1,14 @@
 ---
 title: ColorCompareMethod
 second_title: Справочник по Aspose.PSD для .NET API
-description: Метод сравнения цветов для настройки на ближайшего соседа
+description: Метод сравнения цветов для настройки на ближайший сосед
 type: docs
 weight: 330
 url: /ru/net/aspose.psd/colorcomparemethod/
 ---
 ## ColorCompareMethod enumeration
 
-Метод сравнения цветов для настройки на ближайшего соседа
+Метод сравнения цветов для настройки на ближайший сосед
 
 ```csharp
 public enum ColorCompareMethod

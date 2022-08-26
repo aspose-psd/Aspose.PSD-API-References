@@ -3,7 +3,7 @@ title: Configuration
 second_title: Справочник по Aspose.PSD для .NET API
 description: Глобальная конфигурация управления памятью
 type: docs
-weight: 4990
+weight: 5040
 url: /ru/net/aspose.psd.memorymanagement/configuration/
 ---
 ## Configuration class
@@ -18,7 +18,7 @@ public static class Configuration
 
 | Имя | Описание |
 | --- | --- |
-| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint) { get; set; } | Получает или устанавливает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
 
 ### Смотрите также
 

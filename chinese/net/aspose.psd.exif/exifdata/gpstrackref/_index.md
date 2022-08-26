@@ -16,7 +16,7 @@ public string GPSTrackRef { get; set; }
 
 ### 适当的价值
 
-GPS 接收机运动方向的参考。
+GPS 接收器运动方向的参考。
 
 ### 也可以看看
 

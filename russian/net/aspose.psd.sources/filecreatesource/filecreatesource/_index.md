@@ -1,14 +1,14 @@
 ---
 title: FileCreateSource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаFileCreateSourceaspose.psd.sources/filecreatesource.
+description: Инициализирует новый экземплярFileCreateSourceaspose.psd.sources/filecreatesource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.sources/filecreatesource/filecreatesource/
 ---
 ## FileCreateSource(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`FileCreateSource`](../../filecreatesource).
+Инициализирует новый экземпляр[`FileCreateSource`](../../filecreatesource) класс.
 
 ```csharp
 public FileCreateSource(string filePath)
@@ -16,7 +16,7 @@ public FileCreateSource(string filePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к создаваемому файлу. |
+| filePath | String | Путь к файлу для создания. |
 
 ### Примеры
 
@@ -51,7 +51,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 
 ## FileCreateSource(string, bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`FileCreateSource`](../../filecreatesource).
+Инициализирует новый экземпляр[`FileCreateSource`](../../filecreatesource) класс.
 
 ```csharp
 public FileCreateSource(string filePath, bool isTemporal)
@@ -59,8 +59,8 @@ public FileCreateSource(string filePath, bool isTemporal)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к создаваемому файлу. |
-| isTemporal | Boolean | Если установлено значение` true` , созданный файл будет временным. |
+| filePath | String | Путь к файлу для создания. |
+| isTemporal | Boolean | Если установлено`истинный` созданный файл будет временным. |
 
 ### Примеры
 

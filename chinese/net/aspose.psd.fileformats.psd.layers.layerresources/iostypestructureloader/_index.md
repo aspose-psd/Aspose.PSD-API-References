@@ -1,14 +1,14 @@
 ---
 title: IOSTypeStructureLoader
 second_title: Aspose.PSD for .NET API 参考
-description: OSTypeStructure./ostypestructure资源加载器
+description: 的OSTypeStructure./ostypestructure资源加载器.
 type: docs
-weight: 2460
+weight: 2500
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/
 ---
 ## IOSTypeStructureLoader interface
 
-[`OSTypeStructure`](../ostypestructure)资源加载器。
+的[`OSTypeStructure`](../ostypestructure)资源加载器.
 
 ```csharp
 public interface IOSTypeStructureLoader
@@ -18,8 +18,8 @@ public interface IOSTypeStructureLoader
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload)(StreamContainer) | 确定是否可以从指定的PSD加载[`OSTypeStructure`](../ostypestructure) 资源.StreamContainer。 |
-| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load)(StreamContainer) | 加载[`OSTypeStructure`](../ostypestructure)。 |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload)(StreamContainer) | 确定是否[`OSTypeStructure`](../ostypestructure)资源可以从指定的加载[`StreamContainer`](../../aspose.psd/streamcontainer) . |
+| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load)(StreamContainer) | 加载[`OSTypeStructure`](../ostypestructure) . |
 
 ### 也可以看看
 

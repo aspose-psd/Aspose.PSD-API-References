@@ -1,14 +1,14 @@
 ---
 title: GetDefaultRawData
 second_title: Aspose.PSD for .NET API 参考
-description: 使用部分像素加载器获取默认的原始数据数组
+description: 使用部分像素加载器获取默认原始数据数组
 type: docs
 weight: 300
 url: /zh/net/aspose.psd/rasterimage/getdefaultrawdata/
 ---
 ## GetDefaultRawData(Rectangle, IPartialRawDataLoader, RawDataSettings) {#getdefaultrawdata_1}
 
-使用部分像素加载器获取默认的原始数据数组。
+使用部分像素加载器获取默认原始数据数组。
 
 ```csharp
 public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partialRawDataLoader, 
@@ -17,7 +17,7 @@ public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partial
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 要为其获取像素的矩形。 |
+| rectangle | Rectangle | 获取像素的矩形。 |
 | partialRawDataLoader | IPartialRawDataLoader | 部分原始数据加载器。 |
 | rawDataSettings | RawDataSettings | 原始数据设置。 |
 
@@ -42,7 +42,7 @@ public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSett
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 要为其获取原始数据的矩形。 |
+| rectangle | Rectangle | 获取原始数据的矩形。 |
 | rawDataSettings | RawDataSettings | 原始数据设置。 |
 
 ### 返回值

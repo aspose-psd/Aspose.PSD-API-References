@@ -3,7 +3,7 @@ title: GradientFillSettings
 second_title: Aspose.PSD for .NET API 参考
 description: 渐变填充效果设置
 type: docs
-weight: 1900
+weight: 1940
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
 ## GradientFillSettings class
@@ -18,7 +18,7 @@ public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GradientFillSettings](gradientfillsettings)() | 初始化[`GradientFillSettings`](../gradientfillsettings)类的新实例。 |
+| [GradientFillSettings](gradientfillsettings)() | 初始化[`GradientFillSettings`](../gradientfillsettings)类. |
 
 ## 特性
 
@@ -28,13 +28,13 @@ public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 | [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle) { get; set; } | 获取或设置角度。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color) { get; set; } | 获取或设置颜色。 |
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints) { get; set; } | 获取或设置色点。 |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither) { get; set; } | 获取或设置一个值，该值指示此[`GradientFillSettings`](../gradientfillsettings)是否抖动。 |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither) { get; set; } | 获取或设置一个值，该值指示是否[`GradientFillSettings`](../gradientfillsettings)是抖动. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype) { get; } | 填充类型 |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname) { get; set; } | 获取或设置渐变的名称。 |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype) { get; set; } | 获取或设置渐变的类型。 |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移。 |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse) { get; set; } | 获取或设置一个值，该值指示此[`GradientFillSettings`](../gradientfillsettings)是否为反向。 |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale) { get; set; } | 获取或设置比例。 |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移量。 |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse) { get; set; } | 获取或设置一个值，该值指示是否[`GradientFillSettings`](../gradientfillsettings)是反向的。 |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale) { get; set; } | 获取或设置比例尺。 |
 | [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints) { get; set; } | 获取或设置透明度点。 |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset) { get; set; } | 获取或设置垂直偏移量。 |
 
@@ -44,13 +44,13 @@ public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 | --- | --- |
 | [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint)() | 添加色点。 |
 | [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint)() | 添加色点。 |
-| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint)(IGradientColorPoint) | 删除色点。 |
-| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint)(IGradientTransparencyPoint) | 删除透明点。 |
+| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint)(IGradientColorPoint) | 移除色点。 |
+| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint)(IGradientTransparencyPoint) | 移除透明点。 |
 | static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes)() | 生成 LFX2 资源节点。 |
 
 ### 例子
 
-以下代码演示了对带有填充的笔触效果图层的支持类型 - 渐变。
+以下代码演示了对具有填充类型 - 渐变的笔触效果图层的支持。
 
 ```csharp
 [C#]

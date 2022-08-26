@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: Aspose.PSD for .NET API 参考
-description: 将TypeToolLineInfoaspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo信息保存到指定的流容器
+description: 保存TypeToolLineInfoaspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo信息到指定的流容器
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/
 ---
 ## TypeToolLineInfo.Save method
 
-将[`TypeToolLineInfo`](../../typetoollineinfo)信息保存到指定的流容器。
+保存[`TypeToolLineInfo`](../../typetoollineinfo)信息到指定的流容器。
 
 ```csharp
 public void Save(StreamContainer streamContainer, int psdVersion)
@@ -17,7 +17,7 @@ public void Save(StreamContainer streamContainer, int psdVersion)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | streamContainer | StreamContainer | 要保存到的流容器。 |
-| psdVersion | Int32 | PSD 版本。 |
+| psdVersion | Int32 | PSD版本。 |
 
 ### 也可以看看
 

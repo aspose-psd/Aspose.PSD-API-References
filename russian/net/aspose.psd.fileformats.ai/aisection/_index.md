@@ -1,14 +1,14 @@
 ---
 title: AiSection
 second_title: Справочник по Aspose.PSD для .NET API
-description: Базовый раздел формата Ai
+description: Базовый раздел формата AI
 type: docs
 weight: 1290
 url: /ru/net/aspose.psd.fileformats.ai/aisection/
 ---
 ## AiSection class
 
-Базовый раздел формата Ai
+Базовый раздел формата AI
 
 ```csharp
 public abstract class AiSection

@@ -1,14 +1,14 @@
 ---
 title: InterpolationMode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает режим интерполяции.
+description: Получает или устанавливает режим интерполяции.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/graphicsoptions/interpolationmode/
 ---
 ## GraphicsOptions.InterpolationMode property
 
-Получает или задает режим интерполяции.
+Получает или устанавливает режим интерполяции.
 
 ```csharp
 public InterpolationMode InterpolationMode { get; set; }

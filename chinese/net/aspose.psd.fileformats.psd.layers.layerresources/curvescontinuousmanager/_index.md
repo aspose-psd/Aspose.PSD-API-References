@@ -1,14 +1,14 @@
 ---
 title: CurvesContinuousManager
 second_title: Aspose.PSD for .NET API 参考
-description: 用于处理曲线的曲线调整层管理器
+description: 用于操作曲线的曲线调整层管理器
 type: docs
-weight: 2350
+weight: 2390
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
 ## CurvesContinuousManager class
 
-用于处理曲线的曲线调整层管理器
+用于操作曲线的曲线调整层管理器
 
 ```csharp
 public sealed class CurvesContinuousManager : CurvesManager
@@ -18,7 +18,7 @@ public sealed class CurvesContinuousManager : CurvesManager
 
 | 姓名 | 描述 |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager)(int) | 初始化[`CurvesContinuousManager`](../curvescontinuousmanager)类的新实例。 |
+| [CurvesContinuousManager](curvescontinuousmanager)(int) | 初始化[`CurvesContinuousManager`](../curvescontinuousmanager)类. |
 
 ## 特性
 

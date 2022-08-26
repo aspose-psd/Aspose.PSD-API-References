@@ -16,7 +16,7 @@ public string PatternName { get; set; }
 
 ### 适当的价值
 
-模式的名称。
+图案名称。
 
 ### 也可以看看
 

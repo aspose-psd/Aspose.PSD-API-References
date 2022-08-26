@@ -1,14 +1,14 @@
 ---
 title: VerticalMeshPoints
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 文件中放置层的水平网格点
+description: 获取或设置PSD文件中放置图层的水平网格点
 type: docs
 weight: 210
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/
 ---
 ## IPlacedLayerResource.VerticalMeshPoints property
 
-获取或设置 PSD 文件中放置层的水平网格点。
+获取或设置PSD文件中放置图层的水平网格点。
 
 ```csharp
 public double[] VerticalMeshPoints { get; set; }

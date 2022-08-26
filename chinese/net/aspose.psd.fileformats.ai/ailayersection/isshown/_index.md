@@ -1,14 +1,14 @@
 ---
 title: IsShown
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否显示该层 如果为真则在画板上显示图层中包含的所有图稿
+description: 获取或设置一个值该值指示是否显示此图层 如果为 true则在画板上显示该图层中包含的所有图稿
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
 ## AiLayerSection.IsShown property
 
-获取或设置一个值，指示是否显示该层。 如果为真，则在画板上显示图层中包含的所有图稿。
+获取或设置一个值，该值指示是否显示此图层。 如果为 true，则在画板上显示该图层中包含的所有图稿。
 
 ```csharp
 public bool IsShown { get; set; }
@@ -16,11 +16,11 @@ public bool IsShown { get; set; }
 
 ### 适当的价值
 
-` true` 如果显示此层；否则，` false` 。
+`真的`如果显示该层；否则，`错误的` .
 
 ### 例子
 
-以下示例演示了对 AI 格式文件中层的支持。
+以下示例演示了对 AI 格式文件中的层的支持。
 
 ```csharp
 [C#]

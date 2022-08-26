@@ -1,14 +1,14 @@
 ---
 title: ShmdResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаShmdResourceaspose.psd.fileformats.psd.layers.layerresources/shmdresource.
+description: Инициализирует новый экземплярShmdResourceaspose.psd.fileformats.psd.layers.layerresources/shmdresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
 ## ShmdResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`ShmdResource`](../../shmdresource).
+Инициализирует новый экземпляр[`ShmdResource`](../../shmdresource) класс.
 
 ```csharp
 public ShmdResource()
@@ -24,7 +24,7 @@ public ShmdResource()
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ShmdResource`](../../shmdresource).
+Инициализирует новый экземпляр[`ShmdResource`](../../shmdresource) класс.
 
 ```csharp
 public ShmdResource(byte[] data)

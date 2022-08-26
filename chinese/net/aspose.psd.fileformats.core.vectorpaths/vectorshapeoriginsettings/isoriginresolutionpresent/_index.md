@@ -1,14 +1,14 @@
 ---
 title: IsOriginResolutionPresent
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一个值该值指示此实例是否具有源解析属性
+description: 获取一个值该值指示此实例是否具有原点解析属性
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/
 ---
 ## VectorShapeOriginSettings.IsOriginResolutionPresent property
 
-获取一个值，该值指示此实例是否具有源解析属性。
+获取一个值，该值指示此实例是否具有原点解析属性。
 
 ```csharp
 public bool IsOriginResolutionPresent { get; }
@@ -16,7 +16,7 @@ public bool IsOriginResolutionPresent { get; }
 
 ### 适当的价值
 
-` true` 如果此实例具有原始解析属性；否则，` false` 。
+`真的`如果此实例具有原始解析属性；否则，`错误的` .
 
 ### 也可以看看
 

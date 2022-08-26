@@ -1,14 +1,14 @@
 ---
 title: DuplicateLayer
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает новый слой смарт-объекта копируя этот. Обратите внимание что для встроенных смарт-объектов встроенное изображение является общим. Если вы хотите скопировать встроенное изображение используйте методNewSmartObjectViaCopyaspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy.
+description: Создает новый слой смартобъекта копируя этот. Обратите внимание что для встроенных смартобъектов встроенное изображение является общим. Если вы хотите скопировать встроенное изображение используйтеNewSmartObjectViaCopyaspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy метод.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/
 ---
 ## SmartObjectLayer.DuplicateLayer method
 
-Создает новый слой смарт-объекта, копируя этот. Обратите внимание, что для встроенных смарт-объектов встроенное изображение является общим. Если вы хотите скопировать встроенное изображение, используйте метод[`NewSmartObjectViaCopy`](../newsmartobjectviacopy).
+Создает новый слой смарт-объекта, копируя этот. Обратите внимание, что для встроенных смарт-объектов встроенное изображение является общим. Если вы хотите скопировать встроенное изображение, используйте[`NewSmartObjectViaCopy`](../newsmartobjectviacopy) метод.
 
 ```csharp
 public SmartObjectLayer DuplicateLayer()
@@ -16,7 +16,7 @@ public SmartObjectLayer DuplicateLayer()
 
 ### Возвращаемое значение
 
-Клонированный[`SmartObjectLayer`](../../smartobjectlayer)экземпляр.
+Клонированный[`SmartObjectLayer`](../../smartobjectlayer) экземпляр.
 
 ### Примеры
 

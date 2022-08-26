@@ -1,14 +1,14 @@
 ---
 title: ListStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаListStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure.
+description: Инициализирует новый экземплярListStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/liststructure/
 ---
 ## ListStructure constructor
 
-Инициализирует новый экземпляр класса[`ListStructure`](../../liststructure).
+Инициализирует новый экземпляр[`ListStructure`](../../liststructure) класс.
 
 ```csharp
 public ListStructure(ClassID keyName)
@@ -16,7 +16,7 @@ public ListStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 
 ### Смотрите также
 

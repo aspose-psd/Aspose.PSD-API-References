@@ -1,14 +1,14 @@
 ---
 title: IsInverted
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее инвертирован ли данный экземпляр.
+description: Получает или задает значение указывающее инвертирован ли этот экземпляр.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/
 ---
 ## IVectorPathData.IsInverted property
 
-Получает или задает значение, указывающее, инвертирован ли данный экземпляр.
+Получает или задает значение, указывающее, инвертирован ли этот экземпляр.
 
 ```csharp
 public bool IsInverted { get; set; }
@@ -16,11 +16,11 @@ public bool IsInverted { get; set; }
 
 ### Стоимость имущества
 
-` true` если этот экземпляр инвертирован; в противном случае` false` .
+`истинный` если этот экземпляр инвертирован; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 
-Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для правильной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
 
 ```csharp
 [C#]

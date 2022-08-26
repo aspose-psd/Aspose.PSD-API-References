@@ -1,14 +1,14 @@
 ---
 title: DoPaletteCorrection
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否应用调色板校正
+description: 获取或设置一个指示是否应用调色板校正的值
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.imageoptions/gifoptions/dopalettecorrection/
 ---
 ## GifOptions.DoPaletteCorrection property
 
-获取或设置一个值，指示是否应用调色板校正。
+获取或设置一个指示是否应用调色板校正的值。
 
 ```csharp
 public bool DoPaletteCorrection { get; set; }
@@ -16,11 +16,11 @@ public bool DoPaletteCorrection { get; set; }
 
 ### 适当的价值
 
-` true` 如果应用调色板校正；否则，` false` 。
+`真的`如果应用了调色板校正；否则，`错误的` .
 
 ### 评论
 
-调色板校正意味着无论何时将图像导出为 GIF，都会分析源图像颜色 以构建最佳匹配调色板（以防万一图像调色板不存在或未在选项中指定）。 分析过程需要一些时间，但是输出图像将具有最佳匹配的调色板，并且结果在视觉上更好。
+调色板校正意味着无论何时将图像导出为 GIF，都会分析源图像颜色 以构建最佳匹配的调色板（如果图像调色板不存在或未在选项中指定）。 分析过程需要一些时间，但是输出图像将具有最佳匹配的调色板，结果在视觉上更好。
 
 ### 也可以看看
 

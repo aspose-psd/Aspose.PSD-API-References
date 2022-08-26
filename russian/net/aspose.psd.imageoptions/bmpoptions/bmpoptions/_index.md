@@ -1,14 +1,14 @@
 ---
 title: BmpOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаBmpOptionsaspose.psd.imageoptions/bmpoptions.
+description: Инициализирует новый экземплярBmpOptionsaspose.psd.imageoptions/bmpoptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/bmpoptions/bmpoptions/
 ---
 ## BmpOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`BmpOptions`](../../bmpoptions).
+Инициализирует новый экземпляр[`BmpOptions`](../../bmpoptions) класс.
 
 ```csharp
 public BmpOptions()
@@ -24,7 +24,7 @@ public BmpOptions()
 
 ## BmpOptions(BmpOptions) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`BmpOptions`](../../bmpoptions).
+Инициализирует новый экземпляр[`BmpOptions`](../../bmpoptions) класс.
 
 ```csharp
 public BmpOptions(BmpOptions bmpOptions)
@@ -32,7 +32,7 @@ public BmpOptions(BmpOptions bmpOptions)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bmpOptions | BmpOptions | Параметры BMP. |
+| bmpOptions | BmpOptions | Варианты БМП. |
 
 ### Смотрите также
 

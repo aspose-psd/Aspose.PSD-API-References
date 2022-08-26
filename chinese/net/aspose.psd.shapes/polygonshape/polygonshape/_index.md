@@ -1,14 +1,14 @@
 ---
 title: PolygonShape
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PolygonShapeaspose.psd.shapes/polygonshape类的新实例
+description: 初始化PolygonShapeaspose.psd.shapes/polygonshape类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapes/polygonshape/polygonshape/
 ---
 ## PolygonShape() {#constructor}
 
-初始化[`PolygonShape`](../../polygonshape)类的新实例。
+初始化[`PolygonShape`](../../polygonshape)类.
 
 ```csharp
 public PolygonShape()
@@ -24,7 +24,7 @@ public PolygonShape()
 
 ## PolygonShape(PointF[]) {#constructor_1}
 
-初始化[`PolygonShape`](../../polygonshape)类的新实例。
+初始化[`PolygonShape`](../../polygonshape)类.
 
 ```csharp
 public PolygonShape(PointF[] points)
@@ -45,7 +45,7 @@ public PolygonShape(PointF[] points)
 
 ## PolygonShape(PointF[], bool) {#constructor_2}
 
-初始化[`PolygonShape`](../../polygonshape)类的新实例。
+初始化[`PolygonShape`](../../polygonshape)类.
 
 ```csharp
 public PolygonShape(PointF[] points, bool isClosed)
@@ -54,7 +54,7 @@ public PolygonShape(PointF[] points, bool isClosed)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | points | PointF[] | 点数组。 |
-| isClosed | Boolean | 如果设置为` true` ，则多边形将关闭。 |
+| isClosed | Boolean | 如果设置为`真的`多边形是闭合的。 |
 
 ### 也可以看看
 

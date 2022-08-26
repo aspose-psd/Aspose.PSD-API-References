@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Schemas.XmpBaseSchema
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含与 XMP 基本模式相关的帮助类常量和提供基本描述信息的方法
 type: docs
-weight: 540
+weight: 550
 url: /zh/net/aspose.psd.xmp.schemas.xmpbaseschema/
 ---
 命名空间包含与 XMP 基本模式相关的帮助类、常量和提供基本描述信息的方法。

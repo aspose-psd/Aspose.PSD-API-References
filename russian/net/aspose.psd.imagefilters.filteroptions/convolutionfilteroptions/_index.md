@@ -1,14 +1,14 @@
 ---
 title: ConvolutionFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Фильтр свертки.
+description: Сверточный фильтр.
 type: docs
-weight: 4550
+weight: 4600
 url: /ru/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
 ## ConvolutionFilterOptions class
 
-Фильтр свертки.
+Сверточный фильтр.
 
 ```csharp
 public abstract class ConvolutionFilterOptions : FilterOptionsBase
@@ -18,14 +18,14 @@ public abstract class ConvolutionFilterOptions : FilterOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [ConvolutionFilterOptions](convolutionfilteroptions)() | Инициализирует новый экземпляр класса[`ConvolutionFilterOptions`](../convolutionfilteroptions). |
+| [ConvolutionFilterOptions](convolutionfilteroptions)() | Инициализирует новый экземпляр[`ConvolutionFilterOptions`](../convolutionfilteroptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias) { get; set; } | Получает или задает смещение. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor) { get; set; } | Получает или задает коэффициент. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor) { get; set; } | Получает или задает фактор. |
 
 ### Смотрите также
 

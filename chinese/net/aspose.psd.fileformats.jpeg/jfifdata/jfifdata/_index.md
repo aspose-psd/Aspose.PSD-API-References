@@ -1,14 +1,14 @@
 ---
 title: JFIFData
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化JFIFDataaspose.psd.fileformats.jpeg/jfifdata类的新实例
+description: 初始化JFIFDataaspose.psd.fileformats.jpeg/jfifdata类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
 ## JFIFData constructor
 
-初始化[`JFIFData`](../../jfifdata)类的新实例。
+初始化[`JFIFData`](../../jfifdata)类.
 
 ```csharp
 public JFIFData()

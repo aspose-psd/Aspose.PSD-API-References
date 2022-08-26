@@ -1,14 +1,14 @@
 ---
 title: GammaCorrection
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置伽玛
+description: 获取或设置 gamma.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/
 ---
 ## ExpaResource.GammaCorrection property
 
-获取或设置伽玛。
+获取或设置 gamma.
 
 ```csharp
 public float GammaCorrection { get; set; }
@@ -16,7 +16,7 @@ public float GammaCorrection { get; set; }
 
 ### 适当的价值
 
-伽玛。
+伽玛.
 
 ### 也可以看看
 

@@ -3,7 +3,7 @@ title: GaussianBlurFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
 description: Размытие по Гауссу
 type: docs
-weight: 4590
+weight: 4640
 url: /ru/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
 ## GaussianBlurFilterOptions class
@@ -18,15 +18,15 @@ public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 
 | Имя | Описание |
 | --- | --- |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions#constructor)() | Инициализирует новый экземпляр класса[`GaussianBlurFilterOptions`](../gaussianblurfilteroptions). С настройками по умолчанию. |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions#constructor_1)(int, double) | Инициализирует новый экземпляр класса[`GaussianBlurFilterOptions`](../gaussianblurfilteroptions). |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions#constructor)() | Инициализирует новый экземпляр[`GaussianBlurFilterOptions`](../gaussianblurfilteroptions) class. С настройками по умолчанию. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions#constructor_1)(int, double) | Инициализирует новый экземпляр[`GaussianBlurFilterOptions`](../gaussianblurfilteroptions) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
 | [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias) { get; set; } | Получает или задает смещение. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor) { get; set; } | Получает или задает коэффициент. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor) { get; set; } | Получает или задает фактор. |
 | [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius) { get; set; } | Получает или задает радиус. |
 | [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma) { get; set; } | Получает или задает сигму. |
 

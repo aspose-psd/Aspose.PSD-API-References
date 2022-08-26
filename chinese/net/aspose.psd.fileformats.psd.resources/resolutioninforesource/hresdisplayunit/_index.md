@@ -1,14 +1,14 @@
 ---
 title: HResDisplayUnit
 second_title: Aspose.PSD for .NET API 参考
-description: 水平分辨率的显示单位这只会影响 用户界面分辨率仍以像素/英寸的形式存储在 PSD 文件 中
+description: 水平分辨率的显示单位这只影响 用户界面分辨率仍以像素/英寸的形式存储在 PSD 文件 中
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hresdisplayunit/
 ---
 ## ResolutionInfoResource.HResDisplayUnit property
 
-水平分辨率的显示单位。这只会影响 用户界面；分辨率仍以像素/英寸的形式存储在 PSD 文件 中。
+水平分辨率的显示单位。这只影响 用户界面；分辨率仍以像素/英寸的形式存储在 PSD 文件 中。
 
 ```csharp
 public ResolutionUnit HResDisplayUnit { get; set; }

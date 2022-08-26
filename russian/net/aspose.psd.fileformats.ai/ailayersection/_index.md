@@ -1,14 +1,14 @@
 ---
 title: AiLayerSection
 second_title: Справочник по Aspose.PSD для .NET API
-description: Раздел слоя формата Ai
+description: Раздел слоя формата AI
 type: docs
 weight: 1270
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/
 ---
 ## AiLayerSection class
 
-Раздел слоя формата Ai
+Раздел слоя формата AI
 
 ```csharp
 public sealed class AiLayerSection : AiDataSection
@@ -19,17 +19,17 @@ public sealed class AiLayerSection : AiDataSection
 | Имя | Описание |
 | --- | --- |
 | [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue) { get; set; } | Получает или задает компонент синего цвета. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber) { get; set; } | Получает или задает номер цвета. -1 — это пользовательское значение цвета из свойств «Красный», «Зеленый», «Синий». Задает настройку цвета слоя. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber) { get; set; } | Получает или задает номер цвета. -1 — это пользовательское значение цвета из свойств Red, Green, Blue. Указывает настройку цвета слоя. |
 | [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue) { get; set; } | Получает или задает значение затемнения в процентах. Уменьшает интенсивность связанных изображений и растровых изображений, содержащихся в слое, до указанного процента. |
 | [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
 | [Green](../../aspose.psd.fileformats.ai/ailayersection/green) { get; set; } | Получает или задает компонент зеленого цвета. |
 | [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed) { get; set; } | Получает или задает значение, указывающее, затенен ли этот слой. Уменьшает интенсивность связанных изображений и растровых изображений, содержащихся в слое. |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked) { get; set; } | Получает или задает значение, указывающее, заблокирован ли этот слой. Предотвращает изменение элемента. |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked) { get; set; } | Получает или задает значение, указывающее, заблокирован ли этот слой. Запрещает внесение изменений в элемент. |
 | [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview) { get; set; } | Получает или задает значение, указывающее, является ли этот слой предварительным. Отображает иллюстрацию, содержащуюся в слое, в цвете, а не в виде контуров. |
 | [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted) { get; set; } | Получает или задает значение, указывающее, печатается ли этот слой. Делает иллюстрацию, содержащуюся в слое, печатаемой, если true. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown) { get; set; } | Получает или задает значение, указывающее, отображается ли этот слой. Отображает все изображения, содержащиеся в слое, на монтажной области, если установлено значение true. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown) { get; set; } | Получает или задает значение, указывающее, отображается ли этот слой. |
 | [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate) { get; set; } | Получает или задает значение, указывающее, является ли этот слой слоем шаблона. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name) { get; set; } | Получает или задает имя слоя. Указывает имя элемента, которое отображается на панели «Слои». |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name) { get; set; } | Получает или задает имя слоя. Задает имя элемента, которое отображается на панели «Слои». |
 | [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages) { get; } | Получает растровые изображения. |
 | [Red](../../aspose.psd.fileformats.ai/ailayersection/red) { get; set; } | Получает или задает компонент красного цвета. |
 
@@ -43,7 +43,7 @@ public sealed class AiLayerSection : AiDataSection
 
 ### Примеры
 
-Следующий код демонстрирует, как загрузить настройки растровых изображений в файлах формата AI.
+В следующем коде показано, как загрузить настройки растровых изображений в файлы формата AI.
 
 ```csharp
 [C#]

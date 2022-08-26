@@ -3,7 +3,7 @@ title: VersionInfoResource
 second_title: Aspose.PSD for .NET API 参考
 description: 版本信息资源
 type: docs
-weight: 3850
+weight: 3900
 url: /zh/net/aspose.psd.fileformats.psd.resources/versioninforesource/
 ---
 ## VersionInfoResource class
@@ -24,14 +24,14 @@ public sealed class VersionInfoResource : ResourceBlock
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/versioninforesource/datasize) { get; } | 获取资源数据大小（以字节为单位）。 |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/versioninforesource/datasize) { get; } | 以字节为单位获取资源数据大小。 |
 | [FileVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/fileversion) { get; set; } | 获取或设置文件版本。 |
-| [HasRealMergedData](../../aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata) { get; set; } | 获取或设置一个值，该值指示此实例是否有真正的合并数据。 |
+| [HasRealMergedData](../../aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata) { get; set; } | 获取或设置一个值，表示该实例是否有真正的合并数据。 |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | 获取或设置资源的唯一标识符。 |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/minimalversion) { get; } | 获取所需的最低 PSD 版本。 |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。 Pascal 字符串，填充以使大小均匀（空名称由两个字节的 0 组成）。 |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | 获取或设置资源名称。帕斯卡字符串，填充以使大小均匀（空名称由两个字节的 0 组成）. |
 | [ReaderName](../../aspose.psd.fileformats.psd.resources/versioninforesource/readername) { get; set; } | 获取或设置阅读器的名称。 |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应始终为“8BIM”。 |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | 获取资源签名。应该总是'8BIM'. |
 | [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | 获取资源块大小（以字节为单位），包括其数据。 |
 | [Version](../../aspose.psd.fileformats.psd.resources/versioninforesource/version) { get; set; } | 获取或设置版本。 |
 | [WriterName](../../aspose.psd.fileformats.psd.resources/versioninforesource/writername) { get; set; } | 获取或设置作者的名字。 |
@@ -40,7 +40,7 @@ public sealed class VersionInfoResource : ResourceBlock
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定流。 |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | 将资源块保存到指定的流中。 |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | 验证资源值。 |
 
 ### 也可以看看

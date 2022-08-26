@@ -1,14 +1,14 @@
 ---
 title: DrawBeziers
 second_title: Aspose.PSD for .NET API 参考
-description: 从Pointaspose.psd/point结构的数组中绘制一系列贝塞尔样条曲线
+description: 从数组中绘制一系列贝塞尔样条Pointaspose.psd/point结构.
 type: docs
 weight: 180
 url: /zh/net/aspose.psd/graphics/drawbeziers/
 ---
 ## DrawBeziers(Pen, Point[]) {#drawbeziers_1}
 
-从[`Point`](../../point)结构的数组中绘制一系列贝塞尔样条曲线。
+从数组中绘制一系列贝塞尔样条[`Point`](../../point)结构.
 
 ```csharp
 public void DrawBeziers(Pen pen, Point[] points)
@@ -16,14 +16,14 @@ public void DrawBeziers(Pen pen, Point[] points)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定曲线的颜色、宽度和样式。 |
-| points | Point[] | [`Point`](../../point)结构数组，表示确定曲线的点。 |
+| pen | Pen | [`Pen`](../../pen)它决定了曲线的颜色、宽度和样式。 |
+| points | Point[] | 数组[`Point`](../../point)表示决定曲线的点的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 - 或 - *points*为空。 |
+| ArgumentNullException | *pen*为空。 -或- *points*一片空白。 |
 
 ### 也可以看看
 
@@ -37,7 +37,7 @@ public void DrawBeziers(Pen pen, Point[] points)
 
 ## DrawBeziers(Pen, PointF[]) {#drawbeziers}
 
-从[`PointF`](../../pointf)结构的数组中绘制一系列贝塞尔样条曲线。
+从数组中绘制一系列贝塞尔样条[`PointF`](../../pointf)结构.
 
 ```csharp
 public void DrawBeziers(Pen pen, PointF[] points)
@@ -45,14 +45,14 @@ public void DrawBeziers(Pen pen, PointF[] points)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen)确定曲线的颜色、宽度和样式。 |
-| points | PointF[] | [`PointF`](../../pointf)结构数组，代表确定曲线的点。 |
+| pen | Pen | [`Pen`](../../pen)它决定了曲线的颜色、宽度和样式。 |
+| points | PointF[] | 数组[`PointF`](../../pointf)表示决定曲线的点的结构。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 - 或 - *points*为空。 |
+| ArgumentNullException | *pen*为空。 -或- *points*一片空白。 |
 
 ### 也可以看看
 

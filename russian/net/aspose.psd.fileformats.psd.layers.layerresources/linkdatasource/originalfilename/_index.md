@@ -1,14 +1,14 @@
 ---
 title: OriginalFileName
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает исходное имя файла источника данных в глобальном ссылочном ресурсе Adobe Photoshop.
+description: Получает исходное имя файла источника данных в ресурсе глобальной ссылки Adobe Photoshop.
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/
 ---
 ## LinkDataSource.OriginalFileName property
 
-Получает исходное имя файла источника данных в глобальном ссылочном ресурсе Adobe® Photoshop®.
+Получает исходное имя файла источника данных в ресурсе глобальной ссылки Adobe® Photoshop®.
 
 ```csharp
 public string OriginalFileName { get; }
@@ -16,7 +16,7 @@ public string OriginalFileName { get; }
 
 ### Стоимость имущества
 
-Исходное имя файла ресурса LnkE/Lnk2 в формате PSD.
+Исходное имя файла в формате PSD ресурса LnkE/Lnk2.
 
 ### Исключения
 

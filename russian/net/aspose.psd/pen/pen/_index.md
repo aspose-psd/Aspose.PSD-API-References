@@ -1,14 +1,14 @@
 ---
 title: Pen
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPenaspose.psd/penуказанным цветом.
+description: Инициализирует новый экземплярPenaspose.psd/pen класс с указанным цветом.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/pen/pen/
 ---
 ## Pen(Color) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`Pen`](../../pen)указанным цветом.
+Инициализирует новый экземпляр[`Pen`](../../pen) класс с указанным цветом.
 
 ```csharp
 public Pen(Color color)
@@ -16,7 +16,7 @@ public Pen(Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color)структура, указывающая цвет этого[`Pen`](../../pen). |
+| color | Color | А[`Color`](../color) структура, указывающая на цвет этого[`Pen`](../../pen). |
 
 ### Смотрите также
 
@@ -29,7 +29,7 @@ public Pen(Color color)
 
 ## Pen(Color, float) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`Pen`](../../pen)с указанным[`Color`](../color)и[`Width`](../width)свойства.
+Инициализирует новый экземпляр[`Pen`](../../pen) класс с указанным[`Color`](../color) а также[`Width`](../width) свойства.
 
 ```csharp
 public Pen(Color color, float width)
@@ -37,7 +37,7 @@ public Pen(Color color, float width)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color)структура, указывающая цвет этого[`Pen`](../../pen). |
+| color | Color | А[`Color`](../color) структура, указывающая на цвет этого[`Pen`](../../pen). |
 | width | Single | Значение, указывающее ширину этого[`Pen`](../../pen). |
 
 ### Смотрите также
@@ -51,7 +51,7 @@ public Pen(Color color, float width)
 
 ## Pen(Brush) {#constructor}
 
-Инициализирует новый экземпляр класса[`Pen`](../../pen)с указаннымКисть.
+Инициализирует новый экземпляр[`Pen`](../../pen) класс с указанным[`Brush`](../brush) .
 
 ```csharp
 public Pen(Brush brush)
@@ -59,13 +59,13 @@ public Pen(Brush brush)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush)который определяет свойства заливки этого[`Pen`](../../pen). |
+| brush | Brush | А[`Brush`](../brush) который определяет свойства заполнения этого[`Pen`](../../pen). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush*равно null. |
+| ArgumentNullException | *brush* нулевой. |
 
 ### Смотрите также
 
@@ -78,7 +78,7 @@ public Pen(Brush brush)
 
 ## Pen(Brush, float) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Pen`](../../pen)с указанным[`Brush`](../brush)и[`Width`](../width).
+Инициализирует новый экземпляр[`Pen`](../../pen) класс с указанным[`Brush`](../brush) а также[`Width`](../width) .
 
 ```csharp
 public Pen(Brush brush, float width)
@@ -86,14 +86,14 @@ public Pen(Brush brush, float width)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush)который определяет характеристики этого[`Pen`](../../pen). |
+| brush | Brush | А[`Brush`](../brush) что определяет характеристики этого[`Pen`](../../pen). |
 | width | Single | Ширина нового[`Pen`](../../pen). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush*равно null. |
+| ArgumentNullException | *brush* нулевой. |
 
 ### Смотрите также
 

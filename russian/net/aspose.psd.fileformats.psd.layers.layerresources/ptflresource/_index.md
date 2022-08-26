@@ -1,14 +1,14 @@
 ---
 title: PtFlResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс PtFlResource. Содержит данные слоя заполнения узором.
+description: Класс PtFlResource. Содержит данные слоя заливки узором.
 type: docs
-weight: 2880
+weight: 2930
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 ## PtFlResource class
 
-Класс PtFlResource. Содержит данные слоя заполнения узором.
+Класс PtFlResource. Содержит данные слоя заливки узором.
 
 ```csharp
 public class PtFlResource : FillLayerResource
@@ -18,13 +18,13 @@ public class PtFlResource : FillLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [PtFlResource](ptflresource)(string, string) | Инициализирует новый экземпляр класса[`PtFlResource`](../ptflresource). |
+| [PtFlResource](ptflresource)(string, string) | Инициализирует новый экземпляр[`PtFlResource`](../ptflresource) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer) { get; set; } | Получает или задает значение, указывающее, следует ли [выравнивать со слоем]. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer) { get; set; } | Получает или задает значение, указывающее, выполняется ли [выравнивание со слоем]. |
 | [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer) { get; set; } | Получает или задает значение, указывающее, связан ли этот экземпляр со слоем. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length) { get; } | Получает длину ресурса слоя в байтах. |
@@ -40,13 +40,13 @@ public class PtFlResource : FillLayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 

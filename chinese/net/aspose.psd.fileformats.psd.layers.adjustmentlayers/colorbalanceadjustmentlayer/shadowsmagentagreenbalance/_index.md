@@ -16,13 +16,13 @@ public short ShadowsMagentaGreenBalance { get; set; }
 
 ### 适当的价值
 
-阴影品红色绿色平衡。
+阴影洋红色绿色平衡.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Magenta Green Balance 必须在 -100 到 +100 的范围内。 |
+| ArgumentOutOfRangeException | 阴影洋红色绿色平衡必须在 -100 到 +100 的范围内。 |
 
 ### 例子
 

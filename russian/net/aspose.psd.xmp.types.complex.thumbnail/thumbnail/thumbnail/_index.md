@@ -1,14 +1,14 @@
 ---
 title: Thumbnail
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаThumbnailaspose.psd.xmp.types.complex.thumbnail/thumbnail.
+description: Инициализирует новый экземплярThumbnailaspose.psd.xmp.types.complex.thumbnail/thumbnail класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/thumbnail/
 ---
 ## Thumbnail() {#constructor}
 
-Инициализирует новый экземпляр класса[`Thumbnail`](../../thumbnail).
+Инициализирует новый экземпляр[`Thumbnail`](../../thumbnail) класс.
 
 ```csharp
 public Thumbnail()
@@ -24,7 +24,7 @@ public Thumbnail()
 
 ## Thumbnail(int, int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Thumbnail`](../../thumbnail).
+Инициализирует новый экземпляр[`Thumbnail`](../../thumbnail) класс.
 
 ```csharp
 public Thumbnail(int width, int height)

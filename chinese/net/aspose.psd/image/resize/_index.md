@@ -1,14 +1,14 @@
 ---
 title: Resize
 second_title: Aspose.PSD for .NET API 参考
-description: 调整图像大小使用默认的LeftTopToLeftTop
+description: 调整图像大小默认LeftTopToLeftTop已使用
 type: docs
 weight: 190
 url: /zh/net/aspose.psd/image/resize/
 ---
 ## Resize(int, int) {#resize}
 
-调整图像大小。使用默认的LeftTopToLeftTop。
+调整图像大小。默认LeftTopToLeftTop已使用。
 
 ```csharp
 public void Resize(int newWidth, int newHeight)
@@ -16,12 +16,12 @@ public void Resize(int newWidth, int newHeight)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新高度。 |
 
 ### 例子
 
-下面的例子演示了如何调整 PSD 图像的大小以及我们通过 Aspose.PSD 得到的结果
+以下示例演示如何调整我们通过 Aspose.PSD 获得的 PSD 图像和结果的大小
 
 ```csharp
 [C#]
@@ -56,7 +56,7 @@ public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新高度。 |
 | resizeType | ResizeType | 调整大小类型。 |
 
@@ -79,7 +79,7 @@ public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新高度。 |
 | settings | ImageResizeSettings | 调整大小设置。 |
 

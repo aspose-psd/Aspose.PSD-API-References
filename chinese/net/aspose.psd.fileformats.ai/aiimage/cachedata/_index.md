@@ -1,14 +1,14 @@
 ---
 title: CacheData
 second_title: Aspose.PSD for .NET API 参考
-description: 缓存数据并确保不会从底层DataStreamContaineraspose.psd/datastreamsupporter/datastreamcontainer执行额外的数据加载
+description: 缓存数据并确保不会从底层执行额外的数据加载DataStreamContaineraspose.psd/datastreamsupporter/datastreamcontainer .
 type: docs
 weight: 140
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/cachedata/
 ---
 ## AiImage.CacheData method
 
-缓存数据并确保不会从底层[`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer)执行额外的数据加载。
+缓存数据并确保不会从底层执行额外的数据加载[`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer) .
 
 ```csharp
 public override void CacheData()

@@ -1,14 +1,14 @@
 ---
 title: ToPointsArray
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует массивPointaspose.psd/pointв массивPointFaspose.psd/pointfмножество.
+description: ПреобразуетPointaspose.psd/point массив кPointFaspose.psd/pointf массив.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
 ## PointExtensions.ToPointsArray method
 
-Преобразует массив[`Point`](../../../aspose.psd/point)в массив[`PointF`](../../../aspose.psd/pointf)множество.
+Преобразует[`Point`](../../../aspose.psd/point) массив к[`PointF`](../../../aspose.psd/pointf) массив.
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
@@ -16,11 +16,11 @@ public static PointF[] ToPointsArray(Point[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | Point[] | Массив[`Point`](../../../aspose.psd/point)для преобразования. |
+| points | Point[] | [`Point`](../../../aspose.psd/point) массив для преобразования. |
 
 ### Возвращаемое значение
 
-Преобразованный массив[`PointF`](../../../aspose.psd/pointf).
+Преобразованный[`PointF`](../../../aspose.psd/pointf) множество.
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Right
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает правильное положение маски слоя.
+description: Получает или задает правильное положение маски слоя.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/right/
 ---
 ## LayerMaskData.Right property
 
-Получает или устанавливает правильное положение маски слоя.
+Получает или задает правильное положение маски слоя.
 
 ```csharp
 public int Right { get; set; }

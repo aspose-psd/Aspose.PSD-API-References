@@ -1,14 +1,14 @@
 ---
 title: OffsetStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化OffsetStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure类的新实例
+description: 初始化OffsetStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/offsetstructure/
 ---
 ## OffsetStructure constructor
 
-初始化[`OffsetStructure`](../../offsetstructure)类的新实例。
+初始化[`OffsetStructure`](../../offsetstructure)类.
 
 ```csharp
 public OffsetStructure(ClassID keyName, ClassID classID)
@@ -16,7 +16,7 @@ public OffsetStructure(ClassID keyName, ClassID classID)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 | classID | ClassID | 类 ID。 |
 
 ### 也可以看看

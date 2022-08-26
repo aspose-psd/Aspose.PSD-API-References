@@ -1,14 +1,14 @@
 ---
 title: LuniResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Ресурс имени слоя
+description: Имя слоя resource
 type: docs
-weight: 2740
+weight: 2780
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/
 ---
 ## LuniResource class
 
-Ресурс имени слоя
+Имя слоя resource
 
 ```csharp
 public class LuniResource : LayerResource
@@ -18,7 +18,7 @@ public class LuniResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [LuniResource](luniresource)() | Инициализирует новый экземпляр класса[`LuniResource`](../luniresource). |
+| [LuniResource](luniresource)() | Инициализирует новый экземпляр[`LuniResource`](../luniresource) класс. |
 
 ## Характеристики
 
@@ -35,13 +35,13 @@ public class LuniResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/save)(StreamContainer, int) | Сохраняет указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

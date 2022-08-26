@@ -20,11 +20,11 @@ public enum AutoKerning
 | --- | --- | --- |
 | Manual | `0` | 手动字距调整值。 |
 | Metric | `1` | Metrics kerning 使用 kern 对，大多数字体都包含（来自他们的设计者）。 |
-| Optical | `2` | 光学字距调整根据字符的形状调整相邻字符之间的间距。 |
+| Optical | `2` | 光学字距调整根据其形状调整相邻字符之间的间距。 |
 
 ### 例子
 
-下面的代码演示了对新 ITextStyle 属性的支持。
+下面的代码演示了对新 ITextStyle 属性的支持的支持。
 
 ```csharp
 [C#]

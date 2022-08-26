@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/dis
 ---
 ## DropShadowEffect.Distance property
 
-获取或设置距离（以像素为单位）。
+获取或设置距离，以像素为单位。
 
 ```csharp
 public int Distance { get; set; }

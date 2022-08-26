@@ -16,7 +16,7 @@ public void SetCreatorTool(string creatorTool)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| creatorTool | String | 工具的名称。 |
+| creatorTool | String | 工具名称。 |
 
 ### 也可以看看
 

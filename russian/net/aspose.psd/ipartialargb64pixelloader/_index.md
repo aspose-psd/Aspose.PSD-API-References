@@ -1,9 +1,9 @@
 ---
 title: IPartialArgb64PixelLoader
 second_title: Справочник по Aspose.PSD для .NET API
-description: 64-битный загрузчик пикселей ARGB.
+description: 64битный загрузчик пикселей ARGB.
 type: docs
-weight: 4400
+weight: 4450
 url: /ru/net/aspose.psd/ipartialargb64pixelloader/
 ---
 ## IPartialArgb64PixelLoader interface

@@ -3,7 +3,7 @@ title: PsdVersion
 second_title: Справочник по Aspose.PSD для .NET API
 description: Версия формата файла
 type: docs
-weight: 3490
+weight: 3540
 url: /ru/net/aspose.psd.fileformats.psd/psdversion/
 ---
 ## PsdVersion enumeration
@@ -23,7 +23,7 @@ public enum PsdVersion : byte
 
 ### Примеры
 
-В следующем примере показана возможность преобразования файла PSD в ПСБ и наоборот.
+В следующем примере показана возможность преобразования файла PSD в файл PSB и наоборот.
 
 ```csharp
 [C#]

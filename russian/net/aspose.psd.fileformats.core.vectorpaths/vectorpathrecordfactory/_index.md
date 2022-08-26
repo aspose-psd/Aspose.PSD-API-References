@@ -1,14 +1,14 @@
 ---
 title: VectorPathRecordFactory
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс фабрики записей пути
+description: Класс фабрики записей векторного пути
 type: docs
 weight: 1410
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
 ## VectorPathRecordFactory class
 
-Класс фабрики записей пути
+Класс фабрики записей векторного пути
 
 ```csharp
 public class VectorPathRecordFactory

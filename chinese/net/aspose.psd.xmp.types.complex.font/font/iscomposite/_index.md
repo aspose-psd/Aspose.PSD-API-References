@@ -16,7 +16,7 @@ public bool IsComposite { get; set; }
 
 ### 适当的价值
 
-` true` 如果此字体是复合字体；否则，` false` 。
+`真的`如果这个字体是复合的；否则，`错误的` .
 
 ### 也可以看看
 

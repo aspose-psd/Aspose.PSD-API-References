@@ -1,14 +1,14 @@
 ---
 title: LineSegment
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLineSegmentaspose.psd.shapesegments/linesegment.
+description: Инициализирует новый экземплярLineSegmentaspose.psd.shapesegments/linesegment класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapesegments/linesegment/linesegment/
 ---
 ## LineSegment constructor
 
-Инициализирует новый экземпляр класса[`LineSegment`](../../linesegment).
+Инициализирует новый экземпляр[`LineSegment`](../../linesegment) класс.
 
 ```csharp
 public LineSegment(PointF startPoint, PointF endPoint)

@@ -20,7 +20,7 @@ public enum JfifDensityUnits : byte
 | --- | --- | --- |
 | NoUnits | `0` | 没有单位。 |
 | PixelsPerInch | `1` | 每英寸的像素数。 |
-| PixelsPerCm | `2` | 每厘米像素。 |
+| PixelsPerCm | `2` | 每厘米像素数。 |
 
 ### 也可以看看
 

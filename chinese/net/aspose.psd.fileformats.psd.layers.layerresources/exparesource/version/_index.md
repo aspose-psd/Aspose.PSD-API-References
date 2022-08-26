@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: Aspose.PSD for .NET API 参考
-description: 获取版本默认为 1
+description: 获取版本默认值为 1
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/
 ---
 ## ExpaResource.Version property
 
-获取版本。默认为 1
+获取版本。默认值为 1
 
 ```csharp
 public short Version { get; }
@@ -16,7 +16,7 @@ public short Version { get; }
 
 ### 适当的价值
 
-版本。
+版本.
 
 ### 也可以看看
 

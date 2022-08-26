@@ -1,14 +1,14 @@
 ---
 title: IsContinuousManagerUsed
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此实例是否为连续管理器使用
+description: 获取或设置一个值指示此实例是否被连续管理器使用
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/iscontinuousmanagerused/
 ---
 ## CurvesLayer.IsContinuousManagerUsed property
 
-获取或设置一个值，该值指示此实例是否为连续管理器使用。
+获取或设置一个值，指示此实例是否被连续管理器使用。
 
 ```csharp
 public bool IsContinuousManagerUsed { get; set; }
@@ -16,7 +16,7 @@ public bool IsContinuousManagerUsed { get; set; }
 
 ### 适当的价值
 
-` true` 如果此实例是连续管理器使用；否则，` false` 。
+`真的`如果这个实例是连续使用的管理器；否则，`错误的` .
 
 ### 也可以看看
 

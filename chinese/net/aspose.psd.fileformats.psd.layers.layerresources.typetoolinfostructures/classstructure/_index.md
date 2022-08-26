@@ -3,7 +3,7 @@ title: ClassStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 类结构
 type: docs
-weight: 3020
+weight: 3070
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/
 ---
 ## ClassStructure class
@@ -18,7 +18,7 @@ public sealed class ClassStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClassStructure](classstructure)(ClassID, ClassID, int) | 初始化[`ClassStructure`](../classstructure)类的新实例。 |
+| [ClassStructure](classstructure)(ClassID, ClassID, int) | 初始化[`ClassStructure`](../classstructure)类. |
 
 ## 特性
 
@@ -28,7 +28,7 @@ public sealed class ClassStructure : OSTypeStructure
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname) { get; set; } | 获取或设置类名。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 
 ## 方法
 

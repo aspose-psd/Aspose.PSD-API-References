@@ -1,14 +1,14 @@
 ---
 title: Jfif
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 jfif
+description: 获取或设置 jfif.
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/jfif/
 ---
 ## JpegOptions.Jfif property
 
-获取或设置 jfif。
+获取或设置 jfif.
 
 ```csharp
 public JFIFData Jfif { get; set; }

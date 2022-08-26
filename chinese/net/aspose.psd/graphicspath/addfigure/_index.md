@@ -1,14 +1,14 @@
 ---
 title: AddFigure
 second_title: Aspose.PSD for .NET API 参考
-description: 添加一个新图形
+description: 添加一个新人物
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/graphicspath/addfigure/
 ---
 ## GraphicsPath.AddFigure method
 
-添加一个新图形。
+添加一个新人物。
 
 ```csharp
 public void AddFigure(Figure figure)
@@ -16,7 +16,7 @@ public void AddFigure(Figure figure)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| figure | Figure | 要添加的图形。 |
+| figure | Figure | 要添加的图。 |
 
 ### 例子
 

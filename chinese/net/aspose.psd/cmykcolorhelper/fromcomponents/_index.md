@@ -16,14 +16,14 @@ public static int FromComponents(int cyan, int magenta, int yellow, int black)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cyan | Int32 | 青色分量。有效值为 0 到 255。 |
-| magenta | Int32 | 洋红色分量。有效值为 0 到 255。 |
-| yellow | Int32 | 黄色分量。有效值为 0 到 255。 |
-| black | Int32 | 黑色分量。有效值为 0 到 255。 |
+| cyan | Int32 | 青色成分。有效值为 0 到 255。 |
+| magenta | Int32 | 洋红色成分。有效值为 0 到 255。 |
+| yellow | Int32 | 黄色成分。有效值为 0 到 255。 |
+| black | Int32 | 黑色成分。有效值为 0 到 255。 |
 
 ### 返回值
 
-CMYK 颜色显示为 32 位整数值。
+以 32 位整数值呈现的 CMYK 颜色。
 
 ### 也可以看看
 

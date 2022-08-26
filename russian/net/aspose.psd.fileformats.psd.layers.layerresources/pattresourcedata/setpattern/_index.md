@@ -16,7 +16,7 @@ public void SetPattern(int[] pixels, Rectangle bounds)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| пиксели | Int32[] | Пиксели. |
+| pixels | Int32[] | Пиксели. |
 | bounds | Rectangle | Границы. |
 
 ### Исключения

@@ -26,7 +26,7 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | CmykMixerChannelLayer имеет не более 4 каналов. Индекс первого канала равен 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | CmykMixerChannelLayer имеет не более 4 каналов. Индекс Первого канала равен 0 |
 
 ### Смотрите также
 

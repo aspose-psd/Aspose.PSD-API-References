@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 y 坐标它是Yaspose.psd/rectangle/y和PSD之和此Rectangleaspose.psd/rectangle 结构的 Rectangle.Height属性值
+description: 获取或设置 y 坐标它是Yaspose.psd/rectangle/y和Heightaspose.psd/rectangle/heightthis 的属性值Rectangleaspose.psd/rectangle结构.
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/rectangle/bottom/
 ---
 ## Rectangle.Bottom property
 
-获取或设置 y 坐标，它是[`Y`](../y)和PSD之和。此[`Rectangle`](../../rectangle) 结构的 Rectangle.Height属性值。
+获取或设置 y 坐标，它是[`Y`](../y)和[`Height`](../height)this 的属性值[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public int Bottom { get; set; }
@@ -16,7 +16,7 @@ public int Bottom { get; set; }
 
 ### 适当的价值
 
-[`Y`](../y)和[`Height`](../height) 之和的 y 坐标这个[`Rectangle`](../../rectangle)。
+y 坐标，即[`Y`](../y)和[`Height`](../height)这个的[`Rectangle`](../../rectangle) .
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Brush
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置确定此Penaspose.psd/pen属性的Brushaspose.psd/pen/brush
+description: 获取或设置Brushaspose.psd/pen/brush决定了这个属性Penaspose.psd/pen .
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/pen/brush/
 ---
 ## Pen.Brush property
 
-获取或设置确定此[`Pen`](../../pen)属性的`Brush`。
+获取或设置`Brush`决定了这个属性[`Pen`](../../pen) .
 
 ```csharp
 public Brush Brush { get; set; }
@@ -16,13 +16,13 @@ public Brush Brush { get; set; }
 
 ### 适当的价值
 
-一个`Brush`，它决定了这个[`Pen`](../../pen) 的属性.
+一个`Brush`决定了这个属性[`Pen`](../../pen).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | `Brush`属性设置在不可变的PSD上。Pen，例如由[`Pen`](../../pen)类返回的那些。 |
+| ArgumentException | 这`Brush`属性设置在不可变对象上[`Pen`](../../pen)，例如那些由[`Pen`](../../pen)班级。 |
 
 ### 也可以看看
 

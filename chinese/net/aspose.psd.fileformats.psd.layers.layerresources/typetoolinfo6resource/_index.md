@@ -1,14 +1,14 @@
 ---
 title: TypeToolInfo6Resource
 second_title: Aspose.PSD for .NET API 参考
-description: 类型工具信息对于高于或等于 6.0 的 PSD 版本
+description: 类型工具信息对于高于或等于 6.0. 的 PSD 版本
 type: docs
-weight: 2980
+weight: 3030
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/
 ---
 ## TypeToolInfo6Resource class
 
-类型工具信息。对于高于或等于 6.0 的 PSD 版本。
+类型工具信息。对于高于或等于 6.0. 的 PSD 版本
 
 ```csharp
 public class TypeToolInfo6Resource : LayerResource
@@ -18,7 +18,7 @@ public class TypeToolInfo6Resource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TypeToolInfo6Resource](typetoolinfo6resource)(ClassID, ClassID) | 初始化[`TypeToolInfo6Resource`](../typetoolinfo6resource)类的新实例。 |
+| [TypeToolInfo6Resource](typetoolinfo6resource)(ClassID, ClassID) | 初始化[`TypeToolInfo6Resource`](../typetoolinfo6resource)类. |
 
 ## 特性
 
@@ -29,9 +29,9 @@ public class TypeToolInfo6Resource : LayerResource
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classname) { get; set; } | 获取或设置类名。 |
 | [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/descriptorversion) { get; set; } | 获取或设置描述符版本。 |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/items) { get; set; } | 获取或设置项目。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/key) { get; } | 获取层资源密钥。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/key) { get; } | 获取图层资源键。 |
 | [Left](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left) { get; set; } | 获取或设置左侧位置。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/psdversion) { get; } | 获取图层资源所需的最低 psd 版本。 0 表示没有限制。 |
 | [Right](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/right) { get; set; } | 获取或设置正确的位置。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/signature) { get; } | 获取图层资源签名。 |
@@ -50,7 +50,7 @@ public class TypeToolInfo6Resource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

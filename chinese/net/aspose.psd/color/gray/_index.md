@@ -16,7 +16,7 @@ public static Color Gray { get; }
 
 ### 适当的价值
 
-[`Color`](../../color)结构表示系统定义的颜色。
+一个[`Color`](../../color)表示系统定义颜色的结构。
 
 ### 也可以看看
 

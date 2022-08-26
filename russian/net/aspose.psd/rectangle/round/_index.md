@@ -1,14 +1,14 @@
 ---
 title: Round
 second_title: Справочник по Aspose.PSD для .NET API
-description: Преобразует указанныйRectangleFaspose.psd/rectanglefвRectangleaspose.psd/rectangleпутем округления значенийRectangleFaspose.psd/rectanglefдо ближайших целых значений.
+description: Преобразует указанныйRectangleFaspose.psd/rectanglef кRectangleaspose.psd/rectangle путем округленияRectangleFaspose.psd/rectanglef значения до ближайших целочисленных значений.
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/rectangle/round/
 ---
 ## Rectangle.Round method
 
-Преобразует указанный[`RectangleF`](../../rectanglef)в[`Rectangle`](../../rectangle)путем округления значений[`RectangleF`](../../rectanglef)до ближайших целых значений.
+Преобразует указанный[`RectangleF`](../../rectanglef) к[`Rectangle`](../../rectangle) путем округления[`RectangleF`](../../rectanglef) значения до ближайших целочисленных значений.
 
 ```csharp
 public static Rectangle Round(RectangleF value)
@@ -16,11 +16,11 @@ public static Rectangle Round(RectangleF value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | RectangleF | [`RectangleF`](../../rectanglef)для преобразования. |
+| value | RectangleF | [`RectangleF`](../../rectanglef) быть преобразованным. |
 
 ### Возвращаемое значение
 
-Новый[`Rectangle`](../../rectangle).
+новый[`Rectangle`](../../rectangle).
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: GComponent
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 g 分量
+description: 获取或设置g分量
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent/
 ---
 ## TypeToolInfoResource.GComponent property
 
-获取或设置 g 分量。
+获取或设置g分量
 
 ```csharp
 public short GComponent { get; set; }

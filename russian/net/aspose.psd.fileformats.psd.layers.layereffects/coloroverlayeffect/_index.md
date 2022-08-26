@@ -3,7 +3,7 @@ title: ColorOverlayEffect
 second_title: Справочник по Aspose.PSD для .NET API
 description: Эффект наложения цвета
 type: docs
-weight: 2050
+weight: 2090
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/
 ---
 ## ColorOverlayEffect class

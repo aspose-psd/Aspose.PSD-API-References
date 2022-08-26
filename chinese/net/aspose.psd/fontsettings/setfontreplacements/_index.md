@@ -1,14 +1,14 @@
 ---
 title: SetFontReplacements
 second_title: Aspose.PSD for .NET API 参考
-description: 设置字体替换列表如果字体不允许则将查找替换 列表中的第一个字体将首先使用如果它也被限制那么将从列表中选择下一个字体 如果字体没有替换或不允许所有替换则将使用允许字体列表中的第一个允许字体 如果没有允许和可用的字体那么即使不允许库也会尝试使用系统默认字体
+description: 设置字体替换列表如果字体不允许则将查找替换 列表中的第一个字体将首先使用如果它也被限制则将从列表中选择下一个字体 如果字体没有替换或不允许所有替换则将使用允许的字体列表中的第一个允许的字体 如果没有允许和可用的字体则库将即使不允许也尝试使用系统默认字体
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/fontsettings/setfontreplacements/
 ---
 ## FontSettings.SetFontReplacements method
 
-设置字体替换列表。如果字体不允许，则将查找替换。 列表中的第一个字体将首先使用。如果它也被限制，那么将从列表中选择下一个字体。 如果字体没有替换或不允许所有替换，则将使用允许字体列表中的第一个允许字体。 如果没有允许和可用的字体，那么即使不允许，库也会尝试使用系统默认字体。
+设置字体替换列表。如果字体不允许，则将查找替换。 列表中的第一个字体将首先使用。如果它也被限制，则将从列表中选择下一个字体。 如果字体没有替换或不允许所有替换，则将使用允许的字体列表中的第一个允许的字体。 如果没有允许和可用的字体，则库将即使不允许也尝试使用系统默认字体。
 
 ```csharp
 public static void SetFontReplacements(string fontToReplace, string[] fontNames)
@@ -17,17 +17,17 @@ public static void SetFontReplacements(string fontToReplace, string[] fontNames)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | fontToReplace | String | 要替换的字体。 |
-| fontNames | String[] | 按相似顺序排列的替换字体名称。 |
+| fontNames | String[] | 替换字体名称按相似顺序排列。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 字体数组的长度和字体差异数组必须相等 |
+| ArgumentException | 字体数组和字体差异数组的长度必须相等 |
 
 ### 例子
 
-以下代码演示了以编程方式限制的能力使用的字体。
+以下代码演示了以编程方式限制字体使用的能力。
 
 ```csharp
 [C#]

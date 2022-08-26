@@ -3,7 +3,7 @@ title: OffsetStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 偏移结构
 type: docs
-weight: 3100
+weight: 3150
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/
 ---
 ## OffsetStructure class
@@ -18,7 +18,7 @@ public sealed class OffsetStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OffsetStructure](offsetstructure)(ClassID, ClassID) | 初始化[`OffsetStructure`](../offsetstructure)类的新实例。 |
+| [OffsetStructure](offsetstructure)(ClassID, ClassID) | 初始化[`OffsetStructure`](../offsetstructure)类. |
 
 ## 特性
 
@@ -28,7 +28,7 @@ public sealed class OffsetStructure : OSTypeStructure
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classname) { get; set; } | 获取或设置类名。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value) { get; set; } | 获取或设置整数值。 |
 
 ## 方法

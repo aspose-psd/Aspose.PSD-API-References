@@ -1,14 +1,14 @@
 ---
 title: VerticalResolution
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает вертикальное разрешение в пикселях на дюйм для этогоRasterImageaspose.psd/rasterimage.
+description: Получает или задает разрешение по вертикали в пикселях на дюйм этогоRasterImageaspose.psd/rasterimage .
 type: docs
 weight: 160
 url: /ru/net/aspose.psd/rasterimage/verticalresolution/
 ---
 ## RasterImage.VerticalResolution property
 
-Получает или задает вертикальное разрешение в пикселях на дюйм для этого[`RasterImage`](../../rasterimage).
+Получает или задает разрешение по вертикали в пикселях на дюйм этого[`RasterImage`](../../rasterimage) .
 
 ```csharp
 public virtual double VerticalResolution { get; set; }

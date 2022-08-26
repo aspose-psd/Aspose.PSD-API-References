@@ -1,14 +1,14 @@
 ---
 title: Data
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает данные.
+description: Получает или устанавливает данные.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data/
 ---
 ## UnknownStructure.Data property
 
-Получает или задает данные.
+Получает или устанавливает данные.
 
 ```csharp
 public byte[] Data { get; set; }

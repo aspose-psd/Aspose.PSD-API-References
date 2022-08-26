@@ -1,7 +1,7 @@
 ---
 title: Key
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает ключ ресурса слоя смарт-объекта SoLd.
+description: Получает ключ ресурса слоя смартобъекта SoLd.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/key/

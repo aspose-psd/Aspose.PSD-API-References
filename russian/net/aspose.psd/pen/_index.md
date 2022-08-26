@@ -3,7 +3,7 @@ title: Pen
 second_title: Справочник по Aspose.PSD для .NET API
 description: Определяет объект используемый для рисования линий кривых и фигур.
 type: docs
-weight: 5080
+weight: 5130
 url: /ru/net/aspose.psd/pen/
 ---
 ## Pen class
@@ -18,48 +18,48 @@ public class Pen : TransparencySupporter
 
 | Имя | Описание |
 | --- | --- |
-| [Pen](pen#constructor)(Brush) | Инициализирует новый экземпляр класса[`Pen`](../pen)с указаннымКисть. |
-| [Pen](pen#constructor_2)(Color) | Инициализирует новый экземпляр класса[`Pen`](../pen)указанным цветом. |
-| [Pen](pen#constructor_1)(Brush, float) | Инициализирует новый экземпляр класса[`Pen`](../pen)с указанным[`Brush`](./brush)и[`Width`](./width). |
-| [Pen](pen#constructor_3)(Color, float) | Инициализирует новый экземпляр класса[`Pen`](../pen)с указанным[`Color`](./color)и[`Width`](./width)свойства. |
+| [Pen](pen#constructor)(Brush) | Инициализирует новый экземпляр[`Pen`](../pen) класс с указанным[`Brush`](./brush) . |
+| [Pen](pen#constructor_2)(Color) | Инициализирует новый экземпляр[`Pen`](../pen) класс с указанным цветом. |
+| [Pen](pen#constructor_1)(Brush, float) | Инициализирует новый экземпляр[`Pen`](../pen) класс с указанным[`Brush`](./brush) а также[`Width`](./width) . |
+| [Pen](pen#constructor_3)(Color, float) | Инициализирует новый экземпляр[`Pen`](../pen) класс с указанным[`Color`](./color) а также[`Width`](./width) свойства. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Alignment](../../aspose.psd/pen/alignment) { get; set; } | Получает или задает выравнивание для этого[`Pen`](../pen). |
-| [Brush](../../aspose.psd/pen/brush) { get; set; } | Получает или задает[`Brush`](./brush)который определяет атрибуты этогоПеро. |
-| [Color](../../aspose.psd/pen/color) { get; set; } | Получает или устанавливает цвет этого[`Pen`](../pen). |
-| [CompoundArray](../../aspose.psd/pen/compoundarray) { get; set; } | Получает или задает массив значений, определяющий составное перо. Составное перо рисует составную линию, состоящую из параллельных линий и пробелов. |
-| [CustomEndCap](../../aspose.psd/pen/customendcap) { get; set; } | Получает или задает пользовательскую заглавную букву для использования в конце строк, нарисованных с помощью этого[`Pen`](../pen). |
-| [CustomStartCap](../../aspose.psd/pen/customstartcap) { get; set; } | Получает или задает пользовательскую заглавную букву для использования в начале строк, нарисованных этим[`Pen`](../pen). |
-| [DashCap](../../aspose.psd/pen/dashcap) { get; set; } | Получает или задает стиль заглавных букв, используемый в конце штрихов, составляющих пунктирные линии, нарисованные с помощью этого[`Pen`](../pen). |
+| [Alignment](../../aspose.psd/pen/alignment) { get; set; } | Получает или задает выравнивание для этого[`Pen`](../pen) . |
+| [Brush](../../aspose.psd/pen/brush) { get; set; } | Получает или задает[`Brush`](./brush) что определяет атрибуты этого[`Pen`](../pen) . |
+| [Color](../../aspose.psd/pen/color) { get; set; } | Получает или устанавливает цвет этого[`Pen`](../pen) . |
+| [CompoundArray](../../aspose.psd/pen/compoundarray) { get; set; } | Получает или задает массив значений, указывающий составное перо. Составное перо рисует составную линию, состоящую из параллельных линий и пробелов. |
+| [CustomEndCap](../../aspose.psd/pen/customendcap) { get; set; } | Получает или задает пользовательскую заглушку для использования в конце строк, нарисованных с помощью этого[`Pen`](../pen) . |
+| [CustomStartCap](../../aspose.psd/pen/customstartcap) { get; set; } | Получает или задает пользовательскую заглушку для использования в начале строк, нарисованных с помощью этого[`Pen`](../pen) . |
+| [DashCap](../../aspose.psd/pen/dashcap) { get; set; } | Получает или задает стиль заглавных букв, используемый в конце штрихов, составляющих пунктирные линии, нарисованные с помощью этого[`Pen`](../pen) . |
 | [DashOffset](../../aspose.psd/pen/dashoffset) { get; set; } | Получает или задает расстояние от начала линии до начала штрихового узора. |
 | [DashPattern](../../aspose.psd/pen/dashpattern) { get; set; } | Получает или задает массив пользовательских дефисов и пробелов. |
-| [DashStyle](../../aspose.psd/pen/dashstyle) { get; set; } | Получает или задает стиль, используемый для пунктирных линий, нарисованных с помощью этого[`Pen`](../pen). |
-| [EndCap](../../aspose.psd/pen/endcap) { get; set; } | Получает или задает стиль заглавных букв, используемый в конце строк, нарисованных с помощью этого[`Pen`](../pen). |
-| [LineJoin](../../aspose.psd/pen/linejoin) { get; set; } | Получает или задает стиль соединения для концов двух последовательных линий, нарисованных с помощью этого[`Pen`](../pen). |
-| [MiterLimit](../../aspose.psd/pen/miterlimit) { get; set; } | Получает или задает ограничение толщины соединения на скошенном углу. |
+| [DashStyle](../../aspose.psd/pen/dashstyle) { get; set; } | Получает или задает стиль, используемый для пунктирных линий, нарисованных с помощью этого[`Pen`](../pen) . |
+| [EndCap](../../aspose.psd/pen/endcap) { get; set; } | Получает или задает стиль заглавных букв, используемый в конце строк, нарисованных с помощью этого[`Pen`](../pen) . |
+| [LineJoin](../../aspose.psd/pen/linejoin) { get; set; } | Получает или задает стиль соединения концов двух последовательных линий, нарисованных с помощью этого[`Pen`](../pen) . |
+| [MiterLimit](../../aspose.psd/pen/miterlimit) { get; set; } | Получает или задает предел толщины соединения на скошенном углу. |
 | [Opacity](../../aspose.psd/transparencysupporter/opacity) { get; set; } | Получает или задает прозрачность объекта. Значение должно быть от 0 до 1. Значение 0 означает, что объект полностью виден, значение 1 означает, что объект полностью непрозрачен. |
-| [PenType](../../aspose.psd/pen/pentype) { get; } | Получает стиль линий, нарисованных с помощью этого[`Pen`](../pen). |
-| [StartCap](../../aspose.psd/pen/startcap) { get; set; } | Получает или задает стиль заглавных букв, используемый в начале строк, нарисованных с помощью этого[`Pen`](../pen). |
-| [Transform](../../aspose.psd/pen/transform) { get; set; } | Получает или задает копию геометрического преобразования для этого[`Pen`](../pen). |
-| [Width](../../aspose.psd/pen/width) { get; set; } | Получает или задает ширину этого[`Pen`](../pen), в единицах объекта Graphics, используемого для рисования. |
+| [PenType](../../aspose.psd/pen/pentype) { get; } | Получает стиль линий, нарисованных с помощью этого[`Pen`](../pen) . |
+| [StartCap](../../aspose.psd/pen/startcap) { get; set; } | Получает или задает стиль заглавных букв, используемый в начале строк, нарисованных с помощью этого[`Pen`](../pen) . |
+| [Transform](../../aspose.psd/pen/transform) { get; set; } | Получает или задает копию геометрического преобразования для этого[`Pen`](../pen) . |
+| [Width](../../aspose.psd/pen/width) { get; set; } | Получает или задает ширину этого[`Pen`](../pen) , в единицах объекта Graphics, используемого для рисования. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [MultiplyTransform](../../aspose.psd/pen/multiplytransform#multiplytransform)(Matrix) | Умножает матрицу преобразования для этого[`Pen`](../pen)на указанныйМатрица. |
-| [MultiplyTransform](../../aspose.psd/pen/multiplytransform#multiplytransform_1)(Matrix, MatrixOrder) | Умножает матрицу преобразования для этого[`Pen`](../pen)на указанный[`Matrix`](../matrix)в указанном порядке. |
-| [ResetTransform](../../aspose.psd/pen/resettransform)() | Сбрасывает матрицу геометрического преобразования для этого[`Pen`](../pen)до идентичности. |
+| [MultiplyTransform](../../aspose.psd/pen/multiplytransform#multiplytransform)(Matrix) | Умножает матрицу преобразования для этого[`Pen`](../pen) указанным[`Matrix`](../matrix) . |
+| [MultiplyTransform](../../aspose.psd/pen/multiplytransform#multiplytransform_1)(Matrix, MatrixOrder) | Умножает матрицу преобразования для этого[`Pen`](../pen) указанным[`Matrix`](../matrix) в указанном порядке. |
+| [ResetTransform](../../aspose.psd/pen/resettransform)() | Сбрасывает матрицу геометрического преобразования для этого[`Pen`](../pen) к личности. |
 | [RotateTransform](../../aspose.psd/pen/rotatetransform#rotatetransform)(float) | Поворачивает локальное геометрическое преобразование на указанный угол. Этот метод добавляет поворот к преобразованию. |
 | [RotateTransform](../../aspose.psd/pen/rotatetransform#rotatetransform_1)(float, MatrixOrder) | Поворачивает локальное геометрическое преобразование на указанный угол в указанном порядке. |
 | [ScaleTransform](../../aspose.psd/pen/scaletransform#scaletransform)(float, float) | Масштабирует локальное геометрическое преобразование по указанным коэффициентам. Этот метод добавляет матрицу масштабирования к преобразованию. |
 | [ScaleTransform](../../aspose.psd/pen/scaletransform#scaletransform_1)(float, float, MatrixOrder) | Масштабирует локальное геометрическое преобразование по указанным коэффициентам в указанном порядке. |
-| [SetLineCap](../../aspose.psd/pen/setlinecap)(LineCap, LineCap, DashCap) | Устанавливает значения, определяющие стиль заглавных букв, используемых для окончания линий, нарисованных этим[`Pen`](../pen). |
-| [TranslateTransform](../../aspose.psd/pen/translatetransform#translatetransform)(float, float) | Переносит локальное геометрическое преобразование на указанные размеры. Этот метод добавляет перевод к преобразованию. |
-| [TranslateTransform](../../aspose.psd/pen/translatetransform#translatetransform_1)(float, float, MatrixOrder) | Транслирует локальное геометрическое преобразование по указанным размерам в указанном порядке. |
+| [SetLineCap](../../aspose.psd/pen/setlinecap)(LineCap, LineCap, DashCap) | Устанавливает значения, определяющие стиль заглавных букв, используемых для окончания линий, нарисованных этим[`Pen`](../pen) . |
+| [TranslateTransform](../../aspose.psd/pen/translatetransform#translatetransform)(float, float) | Преобразует локальное геометрическое преобразование по указанным размерам. Этот метод добавляет перевод к преобразованию. |
+| [TranslateTransform](../../aspose.psd/pen/translatetransform#translatetransform_1)(float, float, MatrixOrder) | Преобразует локальное геометрическое преобразование по указанным размерам в указанном порядке. |
 
 ### Примеры
 

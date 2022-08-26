@@ -1,14 +1,14 @@
 ---
 title: PattResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化PattResourceaspose.psd.fileformats.psd.layers.layerresources/pattresource类的新实例
+description: 初始化PattResourceaspose.psd.fileformats.psd.layers.layerresources/pattresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
 ## PattResource() {#constructor}
 
-初始化[`PattResource`](../../pattresource)类的新实例。
+初始化[`PattResource`](../../pattresource)类.
 
 ```csharp
 public PattResource()
@@ -24,7 +24,7 @@ public PattResource()
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-初始化[`PattResource`](../../pattresource)类的新实例。
+初始化[`PattResource`](../../pattresource)类.
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)

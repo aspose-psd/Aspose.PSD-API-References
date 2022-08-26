@@ -16,7 +16,7 @@ public double GradientInterval { get; set; }
 
 ### 适当的价值
 
-梯度区间。
+梯度间隔。
 
 ### 也可以看看
 

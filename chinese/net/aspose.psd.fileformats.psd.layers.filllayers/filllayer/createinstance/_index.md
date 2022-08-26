@@ -1,14 +1,14 @@
 ---
 title: CreateInstance
 second_title: Aspose.PSD for .NET API 参考
-description: 按填充类型构建FillLayeraspose.psd.fileformats.psd.layers.filllayers/filllayer类的新实例
+description: 建立一个新的实例FillLayeraspose.psd.fileformats.psd.layers.filllayers/filllayer按填充类型分类
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
 ## FillLayer.CreateInstance method
 
-按填充类型构建[`FillLayer`](../../filllayer)类的新实例。
+建立一个新的实例[`FillLayer`](../../filllayer)按填充类型分类。
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
@@ -20,7 +20,7 @@ public static FillLayer CreateInstance(FillType fillType)
 
 ### 返回值
 
-按填充类型返回[`FillLayer`](../../filllayer)类的新实例。
+返回一个新的实例[`FillLayer`](../../filllayer)按填充类型分类。
 
 ### 例子
 

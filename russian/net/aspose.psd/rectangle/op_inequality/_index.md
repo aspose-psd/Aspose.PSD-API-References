@@ -1,14 +1,14 @@
 ---
 title: op_Inequality
 second_title: Справочник по Aspose.PSD для .NET API
-description: Проверяет различаются ли две структурыRectangleaspose.psd/rectangleрасположением или размером.
+description: Проверяет являются ли дваRectangleaspose.psd/rectangle структуры отличаются расположением или размером.
 type: docs
 weight: 300
 url: /ru/net/aspose.psd/rectangle/op_inequality/
 ---
 ## Rectangle Inequality operator
 
-Проверяет, различаются ли две структуры[`Rectangle`](../../rectangle)расположением или размером.
+Проверяет, являются ли два[`Rectangle`](../../rectangle) структуры отличаются расположением или размером.
 
 ```csharp
 public static bool operator !=(Rectangle left, Rectangle right)
@@ -16,12 +16,12 @@ public static bool operator !=(Rectangle left, Rectangle right)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | Rectangle | Структура[`Rectangle`](../../rectangle)слева от неравенства оператор. |
-| right | Rectangle | Структура[`Rectangle`](../../rectangle)справа от оператора неравенства. |
+| left | Rectangle | [`Rectangle`](../../rectangle)структура слева от оператора неравенства. |
+| right | Rectangle | [`Rectangle`](../../rectangle) структура, которая находится справа от оператора неравенства. |
 
 ### Возвращаемое значение
 
-Этот оператор возвращает true, если любой из[`X`](../x),[`Y`](../y),[`Width`](../width)или[`Height`](../height)свойства двух[`Rectangle`](../../rectangle)структуры неравны; иначе ложно.
+Этот оператор возвращает true, если любой из[`X`](../x) ,[`Y`](../y) ,[`Width`](../width) или же[`Height`](../height) свойства двух[`Rectangle`](../../rectangle) структуры неодинаковые; иначе ложно.
 
 ### Смотрите также
 

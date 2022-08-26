@@ -1,14 +1,14 @@
 ---
 title: GdFlResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс GdFlResource. Этот ресурс содержит информацию о смешивании обрезанного элемента.
+description: Класс GdFlResource. Этот ресурс содержит информацию о смешивании отсеченного элемента.
 type: docs
-weight: 2440
+weight: 2480
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
 ## GdFlResource class
 
-Класс GdFlResource. Этот ресурс содержит информацию о смешивании обрезанного элемента.
+Класс GdFlResource. Этот ресурс содержит информацию о смешивании отсеченного элемента.
 
 ```csharp
 public class GdFlResource : FillLayerResource
@@ -28,7 +28,7 @@ public class GdFlResource : FillLayerResource
 | [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle) { get; set; } | Получает или задает угол. |
 | [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color) { get; set; } | Получает цвет RGB. |
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints) { get; set; } | Получает точки цвета. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither) { get; set; } | Получает или задает значение, указывающее, является ли это[`GdFlResource`](../gdflresource)дизерингом. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither) { get; set; } | Получает или задает значение, указывающее, является ли это[`GdFlResource`](../gdflresource) дизеринг. |
 | [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval) { get; set; } | Получает или задает интервал градиента. |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname) { get; set; } | Получает или задает имя градиента. |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype) { get; set; } | Получает или задает тип градиента. |
@@ -36,7 +36,7 @@ public class GdFlResource : FillLayerResource
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse) { get; set; } | Получает или задает значение, указывающее, является ли это[`GdFlResource`](../gdflresource)обратным. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse) { get; set; } | Получает или задает значение, указывающее, является ли это[`GdFlResource`](../gdflresource) является обратным. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale) { get; set; } | Получает или задает масштаб. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature) { get; } | Получает подпись ресурса слоя. |
 | [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints) { get; set; } | Получает очки прозрачности. |
@@ -47,13 +47,13 @@ public class GdFlResource : FillLayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Примеры
 

@@ -1,14 +1,14 @@
 ---
 title: ObjectArrayStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 定义 ObjectArrayStructure 类该类通常包含UnitArrayStructure./unitarraystructure数组 用于PSD文件资源如PlLd Resource和SoLd Resource
+description: 定义通常持有的 ObjectArrayStructure 类UnitArrayStructure./unitarraystructurearray. 用于PSD文件资源如PlLd Resource和SoLd Resource.
 type: docs
-weight: 3090
+weight: 3140
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/
 ---
 ## ObjectArrayStructure class
 
-定义 ObjectArrayStructure 类，该类通常包含[`UnitArrayStructure`](../unitarraystructure)数组。 用于PSD文件资源，如PlLd Resource和SoLd Resource。
+定义通常持有的 ObjectArrayStructure 类[`UnitArrayStructure`](../unitarraystructure)array. 用于PSD文件资源，如PlLd Resource和SoLd Resource.
 
 ```csharp
 public sealed class ObjectArrayStructure : OSTypeStructure
@@ -18,20 +18,20 @@ public sealed class ObjectArrayStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ObjectArrayStructure](objectarraystructure#constructor_1)(string, string, OSTypeStructure[]) | 初始化[`ObjectArrayStructure`](../objectarraystructure)类的新实例。 |
-| [ObjectArrayStructure](objectarraystructure#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | 初始化[`ObjectArrayStructure`](../objectarraystructure)类的新实例。 |
+| [ObjectArrayStructure](objectarraystructure#constructor_1)(string, string, OSTypeStructure[]) | 初始化[`ObjectArrayStructure`](../objectarraystructure)类. |
+| [ObjectArrayStructure](objectarraystructure#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | 初始化[`ObjectArrayStructure`](../objectarraystructure)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid) { get; set; } | 获取或设置对象数组类 ID。 |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid) { get; set; } | 获取或设置对象数组类ID。 |
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname) { get; set; } | 获取或设置对象数组类名。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key) { get; } | 获取对象数组结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)长度（以字节为单位）。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
 | [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount) { get; } | 获取对象数组子结构计数。 |
-| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures) { get; set; } | 获取或设置对象数组结构中的子结构。 |
+| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures) { get; set; } | 获取或设置结构数组的副本。 |
 
 ## 方法
 

@@ -1,14 +1,14 @@
 ---
 title: Dimensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаDimensionsaspose.psd.xmp.types.complex.dimensions/dimensions.
+description: Инициализирует новый экземплярDimensionsaspose.psd.xmp.types.complex.dimensions/dimensions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.dimensions/dimensions/dimensions/
 ---
 ## Dimensions() {#constructor}
 
-Инициализирует новый экземпляр класса[`Dimensions`](../../dimensions).
+Инициализирует новый экземпляр[`Dimensions`](../../dimensions) класс.
 
 ```csharp
 public Dimensions()
@@ -24,7 +24,7 @@ public Dimensions()
 
 ## Dimensions(float, float) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`Dimensions`](../../dimensions).
+Инициализирует новый экземпляр[`Dimensions`](../../dimensions) класс.
 
 ```csharp
 public Dimensions(float width, float height)

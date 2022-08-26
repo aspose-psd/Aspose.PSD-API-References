@@ -1,14 +1,14 @@
 ---
 title: Key
 second_title: Aspose.PSD for .NET API 参考
-description: 获取层资源密钥
+description: 获取图层资源键
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key/
 ---
 ## VogkResource.Key property
 
-获取层资源密钥。
+获取图层资源键。
 
 ```csharp
 public override int Key { get; }
@@ -16,7 +16,7 @@ public override int Key { get; }
 
 ### 例子
 
-下面的例子演示了对 VogkResource 资源的支持。
+以下示例演示了对 VogkResource 资源的支持。
 
 ```csharp
 [C#]

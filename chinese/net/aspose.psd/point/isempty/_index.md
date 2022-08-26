@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一个值该值指示此Pointaspose.psd/point是否为空
+description: 获取一个值该值指示这是否Pointaspose.psd/point是空的
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/point/isempty/
 ---
 ## Point.IsEmpty property
 
-获取一个值，该值指示此[`Point`](../../point)是否为空。
+获取一个值，该值指示这是否[`Point`](../../point)是空的。
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,7 +16,7 @@ public bool IsEmpty { get; }
 
 ### 返回值
 
-如果[`X`](../x)和[`Y`](../y) 都为真为 0；否则为假。
+如果两者都为真[`X`](../x)和[`Y`](../y)为 0；否则为假。
 
 ### 也可以看看
 

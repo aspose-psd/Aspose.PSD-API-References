@@ -1,14 +1,14 @@
 ---
 title: ImageCreateException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаImageCreateExceptionaspose.psd.coreexceptions/imagecreateexception.
+description: Инициализирует новый экземплярImageCreateExceptionaspose.psd.coreexceptions/imagecreateexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
 ## ImageCreateException(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`ImageCreateException`](../../imagecreateexception).
+Инициализирует новый экземпляр[`ImageCreateException`](../../imagecreateexception) класс.
 
 ```csharp
 public ImageCreateException(string message)
@@ -28,7 +28,7 @@ public ImageCreateException(string message)
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ImageCreateException`](../../imagecreateexception).
+Инициализирует новый экземпляр[`ImageCreateException`](../../imagecreateexception) класс.
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)

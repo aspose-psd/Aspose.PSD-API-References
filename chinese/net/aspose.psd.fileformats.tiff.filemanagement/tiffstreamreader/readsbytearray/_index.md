@@ -1,14 +1,14 @@
 ---
 title: ReadSByteArray
 second_title: Aspose.PSD for .NET API 参考
-description: 从流中读取带符号字节值的数组
+description: 从流中读取有符号字节值数组
 type: docs
 weight: 120
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbytearray/
 ---
 ## TiffStreamReader.ReadSByteArray method
 
-从流中读取带符号字节值的数组。
+从流中读取有符号字节值数组。
 
 ```csharp
 public sbyte[] ReadSByteArray(long position, long count)

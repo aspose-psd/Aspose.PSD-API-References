@@ -1,14 +1,14 @@
 ---
 title: SampleRoundingMode
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает режим округления выборки чтобы подогнать 8-битное значение к n-битному значению.BitsPerChannel
+description: Получает или задает выборочный режим округления чтобы подогнать 8битное значение к nбитному значению.BitsPerChannel
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/sampleroundingmode/
 ---
 ## JpegOptions.SampleRoundingMode property
 
-Получает или задает режим округления выборки, чтобы подогнать 8-битное значение к n-битному значению.BitsPerChannel
+Получает или задает выборочный режим округления, чтобы подогнать 8-битное значение к n-битному значению.BitsPerChannel
 
 ```csharp
 public SampleRoundingMode SampleRoundingMode { get; set; }

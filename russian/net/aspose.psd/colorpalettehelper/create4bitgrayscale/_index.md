@@ -1,7 +1,7 @@
 ---
 title: Create4BitGrayscale
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает 4-битную палитру оттенков серого.
+description: Создает 4битную палитру оттенков серого.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/colorpalettehelper/create4bitgrayscale/
@@ -16,7 +16,7 @@ public static IColorPalette Create4BitGrayscale(bool minIsWhite)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| minIsWhite | Boolean | если установлено` true` палитра начинается с белого цвет, в противном случае он начинается с черного цвета. |
+| minIsWhite | Boolean | если установлено`истинный` палитра начинается с белого цвета, в противном случае она начинается с черного цвета. |
 
 ### Возвращаемое значение
 

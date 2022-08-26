@@ -1,14 +1,14 @@
 ---
 title: SetCaptionWriter
 second_title: Aspose.PSD for .NET API 参考
-description: 设置字幕作者
+description: 设置字幕编写器
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/
 ---
 ## PhotoshopPackage.SetCaptionWriter method
 
-设置字幕作者。
+设置字幕编写器。
 
 ```csharp
 public void SetCaptionWriter(string captionWriter)

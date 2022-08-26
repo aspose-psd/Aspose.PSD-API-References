@@ -1,14 +1,14 @@
 ---
 title: PattResourceData
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс для хранения данных шаблона дляPattResource./pattresourceресурса.
+description: Класс для хранения данных шаблонаPattResource./pattresource ресурс.
 type: docs
-weight: 2810
+weight: 2860
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
 ## PattResourceData class
 
-Класс для хранения данных шаблона для[`PattResource`](../pattresource)ресурса.
+Класс для хранения данных шаблона[`PattResource`](../pattresource) ресурс.
 
 ```csharp
 public sealed class PattResourceData

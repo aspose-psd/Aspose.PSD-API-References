@@ -1,7 +1,7 @@
 ---
 title: FocalLengthIn35MmFilm
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает фокусное расстояние в 35-мм пленке.
+description: Получает или задает фокусное расстояние в 35мм пленке.
 type: docs
 weight: 300
 url: /ru/net/aspose.psd.exif/exifdata/focallengthin35mmfilm/
@@ -16,7 +16,7 @@ public ushort FocalLengthIn35MmFilm { get; set; }
 
 ### Стоимость имущества
 
-Фокусное расстояние в 35 мм пленке.
+Фокусное расстояние в 35-мм пленке.
 
 ### Смотрите также
 

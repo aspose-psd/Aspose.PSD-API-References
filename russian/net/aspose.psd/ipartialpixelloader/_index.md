@@ -3,7 +3,7 @@ title: IPartialPixelLoader
 second_title: Справочник по Aspose.PSD для .NET API
 description: Соответствует частично загруженным пикселям.
 type: docs
-weight: 4410
+weight: 4460
 url: /ru/net/aspose.psd/ipartialpixelloader/
 ---
 ## IPartialPixelLoader interface

@@ -1,7 +1,7 @@
 ---
 title: AdjustGamma
 second_title: Справочник по Aspose.PSD для .NET API
-description: Гамма-коррекция изображения.
+description: Гаммакоррекция изображения.
 type: docs
 weight: 200
 url: /ru/net/aspose.psd/rasterimage/adjustgamma/
@@ -17,8 +17,8 @@ public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlu
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | gammaRed | Single | Гамма для коэффициента красного канала |
-| gammaGreen | Single | Гамма для коэффициент зеленого канала |
-| gammaBlue | Single | Гамма для коэффициента синего канала |
+| gammaGreen | Single | Гамма коэффициента зеленого канала |
+| gammaBlue | Single | Гамма коэффициента синего канала |
 
 ### Смотрите также
 

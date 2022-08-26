@@ -1,14 +1,14 @@
 ---
 title: IText
 second_title: Aspose.PSD for .NET API 参考
-description: 文本层文本编辑界面
+description: 文本图层的文本编辑界面
 type: docs
-weight: 3400
+weight: 3450
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
 ## IText interface
 
-文本层文本编辑界面
+文本图层的文本编辑界面
 
 ```csharp
 public interface IText
@@ -26,7 +26,7 @@ public interface IText
 | 姓名 | 描述 |
 | --- | --- |
 | [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion)(ITextPortion) | 将文本部分添加到末尾 |
-| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion)(ITextPortion, int) | 将[`ITextPortion`](../itextportion)插入到指定位置 |
+| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion)(ITextPortion, int) | 插入[`ITextPortion`](../itextportion)到指定位置 |
 | [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion)() | 使用默认参数生成新部分 |
 | [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions)(string[], ITextStyle, ITextParagraph) | 使用输入或默认参数生成新部分。 |
 | [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion)(int) | 删除指定索引中的部分 |
@@ -34,7 +34,7 @@ public interface IText
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

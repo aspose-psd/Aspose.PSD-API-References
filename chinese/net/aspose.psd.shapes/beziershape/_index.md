@@ -3,7 +3,7 @@ title: BezierShape
 second_title: Aspose.PSD for .NET API 参考
 description: 表示贝塞尔样条曲线
 type: docs
-weight: 5350
+weight: 5400
 url: /zh/net/aspose.psd.shapes/beziershape/
 ---
 ## BezierShape class
@@ -18,9 +18,9 @@ public sealed class BezierShape : PolygonShape
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BezierShape](beziershape#constructor)() | 初始化[`BezierShape`](../beziershape)类的新实例。 |
-| [BezierShape](beziershape#constructor_1)(PointF[]) | 初始化[`BezierShape`](../beziershape)类的新实例。 |
-| [BezierShape](beziershape#constructor_2)(PointF[], bool) | 初始化[`BezierShape`](../beziershape)类的新实例。 |
+| [BezierShape](beziershape#constructor)() | 初始化[`BezierShape`](../beziershape)类. |
+| [BezierShape](beziershape#constructor_1)(PointF[]) | 初始化[`BezierShape`](../beziershape)类. |
+| [BezierShape](beziershape#constructor_2)(PointF[], bool) | 初始化[`BezierShape`](../beziershape)类. |
 
 ## 特性
 
@@ -29,7 +29,7 @@ public sealed class BezierShape : PolygonShape
 | override [Bounds](../../aspose.psd.shapes/beziershape/bounds) { get; } | 获取对象的边界。 |
 | override [Center](../../aspose.psd.shapes/beziershape/center) { get; } | 获取形状的中心。 |
 | override [EndPoint](../../aspose.psd.shapes/beziershape/endpoint) { get; } | 获取结束形状点。 |
-| override [HasSegments](../../aspose.psd.shapes/beziershape/hassegments) { get; } | 获取表示形状是否有段的值。 |
+| override [HasSegments](../../aspose.psd.shapes/beziershape/hassegments) { get; } | 获取一个表示形状是否有段的值。 |
 | [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed) { get; set; } | 获取或设置一个表示形状是否闭合的值。 |
 | [Points](../../aspose.psd.shapes/polygonshape/points) { get; set; } | 获取或设置曲线点。 |
 | override [Segments](../../aspose.psd.shapes/beziershape/segments) { get; } | 获取形状段。 |

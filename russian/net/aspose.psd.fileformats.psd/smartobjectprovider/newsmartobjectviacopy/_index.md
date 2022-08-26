@@ -1,7 +1,7 @@
 ---
 title: NewSmartObjectViaCopy
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает новый слой смарт-объекта копируя исходный.
+description: Создает новый слой смартобъекта копируя исходный.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/
@@ -20,7 +20,7 @@ public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 
 ### Возвращаемое значение
 
-Клонированный экземпляр[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer).
+Клонированный[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) экземпляр.
 
 ### Исключения
 

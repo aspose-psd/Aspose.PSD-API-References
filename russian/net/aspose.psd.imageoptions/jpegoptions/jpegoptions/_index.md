@@ -1,14 +1,14 @@
 ---
 title: JpegOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаJpegOptionsaspose.psd.imageoptions/jpegoptions.
+description: Инициализирует новый экземплярJpegOptionsaspose.psd.imageoptions/jpegoptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
 ## JpegOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`JpegOptions`](../../jpegoptions).
+Инициализирует новый экземпляр[`JpegOptions`](../../jpegoptions) класс.
 
 ```csharp
 public JpegOptions()
@@ -24,7 +24,7 @@ public JpegOptions()
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`JpegOptions`](../../jpegoptions).
+Инициализирует новый экземпляр[`JpegOptions`](../../jpegoptions) класс.
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)

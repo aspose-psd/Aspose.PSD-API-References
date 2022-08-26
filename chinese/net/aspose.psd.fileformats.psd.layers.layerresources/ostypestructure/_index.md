@@ -3,7 +3,7 @@ title: OSTypeStructure
 second_title: Aspose.PSD for .NET API 参考
 description: 表示操作系统类型结构
 type: docs
-weight: 2780
+weight: 2830
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
 ## OSTypeStructure class
@@ -18,7 +18,7 @@ public abstract class OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [OSTypeStructure](ostypestructure)(ClassID) | 初始化[`OSTypeStructure`](../ostypestructure)类的新实例。 |
+| [OSTypeStructure](ostypestructure)(ClassID) | 初始化[`OSTypeStructure`](../ostypestructure)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public abstract class OSTypeStructure
 | --- | --- |
 | abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key) { get; } | 获取结构键。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length) { get; } | 获取[`OSTypeStructure`](../ostypestructure)长度（以字节为单位）。 |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length) { get; } | 获取[`OSTypeStructure`](../ostypestructure)字节长度。 |
 
 ## 方法
 

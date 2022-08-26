@@ -1,14 +1,14 @@
 ---
 title: IsMaskEnabled
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает статус включения маски интеллектуального фильтра.
+description: Получает статус включенной маски интеллектуального фильтра.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/
 ---
 ## SmartFilters.IsMaskEnabled property
 
-Получает статус включения маски интеллектуального фильтра.
+Получает статус включенной маски интеллектуального фильтра.
 
 ```csharp
 public bool IsMaskEnabled { get; }

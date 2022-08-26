@@ -1,14 +1,14 @@
 ---
 title: TiffPlanarConfigs
 second_title: Aspose.PSD for .NET API 参考
-description: 存储组织ltbr /gt PLANARCONFIG 标记的可能值
+description: 存储组织 PLANARCONFIG 标签的可能值
 type: docs
-weight: 4010
+weight: 4060
 url: /zh/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
 ## TiffPlanarConfigs enumeration
 
-存储组织。&lt;br /&gt; PLANARCONFIG 标记的可能值。
+存储组织。 PLANARCONFIG 标签的可能值。
 
 ```csharp
 public enum TiffPlanarConfigs : ushort

@@ -1,14 +1,14 @@
 ---
 title: ToGdiFont
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПреобразуетFontaspose.psd/fontвFont.
+description: ПреобразуетFontaspose.psd/font кFont .
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/fontextensions/togdifont/
 ---
 ## ToGdiFont(Font) {#togdifont}
 
-Преобразует[`Font`](../../../aspose.psd/font)вFont.
+Преобразует[`Font`](../../../aspose.psd/font) кFont .
 
 ```csharp
 public static Font ToGdiFont(Font font)
@@ -16,7 +16,7 @@ public static Font ToGdiFont(Font font)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| font | Font | [`Font`](../../../aspose.psd/font)для преобразования. |
+| font | Font | [`Font`](../../../aspose.psd/font) конвертировать. |
 
 ### Возвращаемое значение
 
@@ -33,7 +33,7 @@ public static Font ToGdiFont(Font font)
 
 ## ToGdiFont(Font, GraphicsUnit) {#togdifont_1}
 
-Преобразует[`Font`](../../../aspose.psd/font)вFont.
+Преобразует[`Font`](../../../aspose.psd/font) кFont .
 
 ```csharp
 public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
@@ -41,12 +41,12 @@ public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| font | Font | [`Font`](../../../aspose.psd/font)для преобразования. |
+| font | Font | [`Font`](../../../aspose.psd/font) конвертировать. |
 | fontUnit | GraphicsUnit | Новый графический блок |
 
 ### Возвращаемое значение
 
-ПреобразованныйШрифт.
+ПреобразованныйFont.
 
 ### Смотрите также
 

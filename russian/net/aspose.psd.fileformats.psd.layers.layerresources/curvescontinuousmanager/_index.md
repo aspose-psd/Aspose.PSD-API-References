@@ -3,7 +3,7 @@ title: CurvesContinuousManager
 second_title: Справочник по Aspose.PSD для .NET API
 description: Менеджер корректирующего слоя кривых управляющий кривыми
 type: docs
-weight: 2350
+weight: 2390
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
 ## CurvesContinuousManager class
@@ -18,7 +18,7 @@ public sealed class CurvesContinuousManager : CurvesManager
 
 | Имя | Описание |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager)(int) | Инициализирует новый экземпляр класса[`CurvesContinuousManager`](../curvescontinuousmanager). |
+| [CurvesContinuousManager](curvescontinuousmanager)(int) | Инициализирует новый экземпляр[`CurvesContinuousManager`](../curvescontinuousmanager) класс. |
 
 ## Характеристики
 

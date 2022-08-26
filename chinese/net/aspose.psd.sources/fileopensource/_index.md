@@ -1,14 +1,14 @@
 ---
 title: FileOpenSource
 second_title: Aspose.PSD for .NET API 参考
-description: 表示要打开的文件源
+description: 表示打开的文件源
 type: docs
-weight: 5480
+weight: 5530
 url: /zh/net/aspose.psd.sources/fileopensource/
 ---
 ## FileOpenSource class
 
-表示要打开的文件源。
+表示打开的文件源。
 
 ```csharp
 public sealed class FileOpenSource : FileSource
@@ -18,7 +18,7 @@ public sealed class FileOpenSource : FileSource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FileOpenSource](fileopensource)(string) | 初始化[`FileOpenSource`](../fileopensource)类的新实例。 |
+| [FileOpenSource](fileopensource)(string) | 初始化[`FileOpenSource`](../fileopensource)类. |
 
 ## 特性
 

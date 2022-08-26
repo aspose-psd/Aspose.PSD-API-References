@@ -1,14 +1,14 @@
 ---
 title: IopaResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс IopaResource. Этот ресурс содержит информацию о свойстве непрозрачности заливки из формы стиля слоя
+description: Класс IopaResource. Этот ресурс содержит информацию о свойстве непрозрачности заливки из стиля слоя form
 type: docs
-weight: 2500
+weight: 2540
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/
 ---
 ## IopaResource class
 
-Класс IopaResource. Этот ресурс содержит информацию о свойстве непрозрачности заливки из формы стиля слоя
+Класс IopaResource. Этот ресурс содержит информацию о свойстве непрозрачности заливки из стиля слоя form
 
 ```csharp
 public class IopaResource : LayerResource
@@ -18,8 +18,8 @@ public class IopaResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [IopaResource](ioparesource#constructor)() | Инициализирует новый экземпляр класса[`IopaResource`](../ioparesource). |
-| [IopaResource](ioparesource#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`IopaResource`](../ioparesource). |
+| [IopaResource](ioparesource#constructor)() | Инициализирует новый экземпляр[`IopaResource`](../ioparesource) класс. |
+| [IopaResource](ioparesource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`IopaResource`](../ioparesource) класс. |
 
 ## Характеристики
 
@@ -28,7 +28,7 @@ public class IopaResource : LayerResource
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity) { get; set; } | Получает или задает непрозрачность заливки. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signature) { get; } | Получает подпись. |
 
 ## Методы
@@ -36,13 +36,13 @@ public class IopaResource : LayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

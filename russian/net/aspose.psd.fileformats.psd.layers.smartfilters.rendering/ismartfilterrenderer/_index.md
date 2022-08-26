@@ -1,14 +1,14 @@
 ---
 title: ISmartFilterRenderer
 second_title: Справочник по Aspose.PSD для .NET API
-description: Интерфейс для конкретного рендерера интеллектуальных фильтров.
+description: Интерфейс для конкретного средства визуализации интеллектуальных фильтров.
 type: docs
-weight: 3340
+weight: 3390
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/
 ---
 ## ISmartFilterRenderer interface
 
-Интерфейс для конкретного рендерера интеллектуальных фильтров.
+Интерфейс для конкретного средства визуализации интеллектуальных фильтров.
 
 ```csharp
 public interface ISmartFilterRenderer
@@ -22,7 +22,7 @@ public interface ISmartFilterRenderer
 
 ### Примеры
 
-В следующем коде показано, как создать настраиваемый смарт-фильтр с настраиваемым модулем визуализации.
+В следующем коде показано, как создать настраиваемый интеллектуальный фильтр с настраиваемым модулем визуализации.
 
 ```csharp
 [C#]

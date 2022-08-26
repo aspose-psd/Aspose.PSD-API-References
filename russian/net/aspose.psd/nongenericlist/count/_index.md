@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает количество элементов содержащихся в коллекцииICollection.
+description: Получает количество элементов содержащихся вICollection .
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/nongenericlist/count/
 ---
 ## NonGenericList.Count property
 
-Получает количество элементов, содержащихся в коллекцииICollection.
+Получает количество элементов, содержащихся вICollection .
 
 ```csharp
 public int Count { get; }

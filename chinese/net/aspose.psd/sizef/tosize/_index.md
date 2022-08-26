@@ -1,14 +1,14 @@
 ---
 title: ToSize
 second_title: Aspose.PSD for .NET API 参考
-description: 将SizeFaspose.psd/sizef转换为具有截断大小值的Sizeaspose.psd/size结构
+description: 转换一个SizeFaspose.psd/sizef到一个Sizeaspose.psd/size具有截断大小值的结构
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/sizef/tosize/
 ---
 ## SizeF.ToSize method
 
-将[`SizeF`](../../sizef)转换为具有截断大小值的[`Size`](../../size)结构。
+转换一个[`SizeF`](../../sizef)到一个[`Size`](../../size)具有截断大小值的结构。
 
 ```csharp
 public Size ToSize()
@@ -16,7 +16,7 @@ public Size ToSize()
 
 ### 返回值
 
-返回[`Size`](../../size)结构。
+返回一个[`Size`](../../size)结构体。
 
 ### 也可以看看
 

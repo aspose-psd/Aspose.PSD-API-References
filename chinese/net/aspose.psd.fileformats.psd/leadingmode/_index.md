@@ -3,7 +3,7 @@ title: LeadingMode
 second_title: Aspose.PSD for .NET API 参考
 description: Photoshop 引导模式行间距
 type: docs
-weight: 3460
+weight: 3510
 url: /zh/net/aspose.psd.fileformats.psd/leadingmode/
 ---
 ## LeadingMode enumeration

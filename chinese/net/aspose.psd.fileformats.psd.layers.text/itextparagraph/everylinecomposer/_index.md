@@ -1,14 +1,14 @@
 ---
 title: EveryLineComposer
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值表示是否每行作曲家
+description: 获取或设置一个值指示是否每行作曲家.
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/
 ---
 ## ITextParagraph.EveryLineComposer property
 
-获取或设置一个值，表示是否[每行作曲家]。
+获取或设置一个值，指示是否[每行作曲家].
 
 ```csharp
 public bool EveryLineComposer { get; set; }
@@ -16,11 +16,11 @@ public bool EveryLineComposer { get; set; }
 
 ### 适当的价值
 
-` true` if [每行作曲家];否则，` false` 。
+`真的` if [每行作曲家];否则，`错误的` .
 
 ### 例子
 
-以下代码示例演示了编辑文本部分及其文本样式。
+下面的代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]

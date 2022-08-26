@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Types.Complex.Dimensions
 second_title: Aspose.PSD for .NET API 参考
 description: 命名空间包含的类代表包含绘制对象尺寸的结构
 type: docs
-weight: 620
+weight: 630
 url: /zh/net/aspose.psd.xmp.types.complex.dimensions/
 ---
 命名空间包含的类代表包含绘制对象尺寸的结构。

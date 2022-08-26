@@ -1,14 +1,14 @@
 ---
 title: RectangleExtensions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Содержит методы расширения дляRectangle../aspose.psd/rectangle.
+description: Содержит методы расширения дляRectangle../aspose.psd/rectangle .
 type: docs
 weight: 1160
 url: /ru/net/aspose.psd.extensions/rectangleextensions/
 ---
 ## RectangleExtensions class
 
-Содержит методы расширения для[`Rectangle`](../../aspose.psd/rectangle).
+Содержит методы расширения для[`Rectangle`](../../aspose.psd/rectangle) .
 
 ```csharp
 public static class RectangleExtensions
@@ -18,8 +18,8 @@ public static class RectangleExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle#togdirectangle)(Rectangle) | Преобразует[`Rectangle`](../../aspose.psd/rectangle)вRectangle. |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle#togdirectangle_1)(RectangleF) | Преобразует[`RectangleF`](../../aspose.psd/rectanglef)вRectangle. |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle#togdirectangle)(Rectangle) | Преобразует[`Rectangle`](../../aspose.psd/rectangle) кRectangle . |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle#togdirectangle_1)(RectangleF) | Преобразует[`RectangleF`](../../aspose.psd/rectanglef) кRectangle . |
 | static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith)(RectangleF, RectangleF) | Объединяет два прямоугольника. |
 
 ### Смотрите также

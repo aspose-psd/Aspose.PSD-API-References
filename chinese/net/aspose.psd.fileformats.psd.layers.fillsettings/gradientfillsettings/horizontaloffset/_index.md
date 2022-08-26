@@ -1,14 +1,14 @@
 ---
 title: HorizontalOffset
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置水平偏移
+description: 获取或设置水平偏移量
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/
 ---
 ## GradientFillSettings.HorizontalOffset property
 
-获取或设置水平偏移。
+获取或设置水平偏移量。
 
 ```csharp
 public double HorizontalOffset { get; set; }
@@ -16,7 +16,7 @@ public double HorizontalOffset { get; set; }
 
 ### 适当的价值
 
-水平偏移。
+水平偏移量。
 
 ### 也可以看看
 

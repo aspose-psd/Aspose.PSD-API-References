@@ -3,7 +3,7 @@ title: OSTypeStructure
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет структуру типа ОС.
 type: docs
-weight: 2780
+weight: 2830
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
 ## OSTypeStructure class
@@ -18,7 +18,7 @@ public abstract class OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [OSTypeStructure](ostypestructure)(ClassID) | Инициализирует новый экземпляр класса[`OSTypeStructure`](../ostypestructure). |
+| [OSTypeStructure](ostypestructure)(ClassID) | Инициализирует новый экземпляр[`OSTypeStructure`](../ostypestructure) класс. |
 
 ## Характеристики
 
@@ -26,7 +26,7 @@ public abstract class OSTypeStructure
 | --- | --- |
 | abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length) { get; } | Получает[`OSTypeStructure`](../ostypestructure)длину в байтах. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length) { get; } | Получает[`OSTypeStructure`](../ostypestructure) длина в байтах. |
 
 ## Методы
 

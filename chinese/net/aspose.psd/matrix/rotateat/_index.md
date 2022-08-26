@@ -17,8 +17,8 @@ public void RotateAt(float angle, PointF point, MatrixOrder order)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | angle | Single | 角度。 |
-| point | PointF | 点。 |
-| order | MatrixOrder | 订单。 |
+| point | PointF | 重点。 |
+| order | MatrixOrder | 命令。 |
 
 ### 也可以看看
 
@@ -32,7 +32,7 @@ public void RotateAt(float angle, PointF point, MatrixOrder order)
 
 ## RotateAt(float, PointF) {#rotateat}
 
-以默认（前置）顺序将围绕指定点的顺时针旋转应用于此矩阵。
+以默认（前置）顺序围绕指定点顺时针旋转此矩阵。
 
 ```csharp
 public void RotateAt(float angle, PointF point)
@@ -41,7 +41,7 @@ public void RotateAt(float angle, PointF point)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | angle | Single | 角度。 |
-| point | PointF | 点。 |
+| point | PointF | 重点。 |
 
 ### 也可以看看
 

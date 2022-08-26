@@ -16,7 +16,7 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### 返回值
 
-IEnumerator可用于遍历集合。
+一个IEnumerator可用于遍历集合。
 
 ### 也可以看看
 

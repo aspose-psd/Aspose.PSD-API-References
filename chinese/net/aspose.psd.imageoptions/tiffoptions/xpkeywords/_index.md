@@ -1,14 +1,14 @@
 ---
 title: XPKeywords
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置主题图像供 Windows 资源管理器使用
+description: 获取或设置主题图像供 Windows Explorer 使用
 type: docs
 weight: 610
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/xpkeywords/
 ---
 ## TiffOptions.XPKeywords property
 
-获取或设置主题图像，供 Windows 资源管理器使用。
+获取或设置主题图像，供 Windows Explorer 使用。
 
 ```csharp
 public string XPKeywords { get; set; }

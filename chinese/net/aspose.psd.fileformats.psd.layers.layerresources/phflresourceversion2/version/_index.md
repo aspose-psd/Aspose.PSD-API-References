@@ -16,7 +16,7 @@ public override short Version { get; }
 
 ### 适当的价值
 
-版本。
+版本.
 
 ### 例外
 

@@ -1,14 +1,14 @@
 ---
 title: RegionExtensions
 second_title: Aspose.PSD for .NET API 参考
-description: 包含Region../aspose.psd/region类的扩展方法
+description: 包含扩展方法Region../aspose.psd/region类.
 type: docs
 weight: 1170
 url: /zh/net/aspose.psd.extensions/regionextensions/
 ---
 ## RegionExtensions class
 
-包含[`Region`](../../aspose.psd/region)类的扩展方法。
+包含扩展方法[`Region`](../../aspose.psd/region)类.
 
 ```csharp
 public static class RegionExtensions
@@ -18,7 +18,7 @@ public static class RegionExtensions
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion)(Region) | 将[`Region`](../../aspose.psd/region)转换为Region。 |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion)(Region) | 转换[`Region`](../../aspose.psd/region)到Region . |
 
 ### 也可以看看
 

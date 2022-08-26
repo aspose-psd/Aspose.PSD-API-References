@@ -22,7 +22,7 @@ public static int[] ToCmykIcc(Color[] pixels, Stream rgbIccStream, Stream cmykIc
 
 ### 返回值
 
-CMYK 颜色显示为 32 位整数值。
+CMYK 颜色呈现为 32 位整数值。
 
 ### 也可以看看
 
@@ -47,7 +47,7 @@ public static int[] ToCmykIcc(Color[] pixels)
 
 ### 返回值
 
-CMYK 颜色显示为 32 位整数值。
+CMYK 颜色呈现为 32 位整数值。
 
 ### 也可以看看
 
@@ -60,7 +60,7 @@ CMYK 颜色显示为 32 位整数值。
 
 ## ToCmykIcc(Color) {#tocmykicc}
 
-使用带有默认配置文件的 Icc 转换从 ARGB 颜色到 CMYK 颜色的转换。
+使用默认配置文件的 Icc 转换从 ARGB 颜色到 CMYK 颜色的转换。
 
 ```csharp
 public static int ToCmykIcc(Color pixel)
@@ -72,7 +72,7 @@ public static int ToCmykIcc(Color pixel)
 
 ### 返回值
 
-CMYK 颜色显示为 32 位整数值。
+以 32 位整数值呈现的 CMYK 颜色。
 
 ### 也可以看看
 
@@ -99,7 +99,7 @@ public static int ToCmykIcc(Color pixel, Stream rgbIccStream, Stream cmykIccStre
 
 ### 返回值
 
-CMYK 颜色显示为 32 位整数值。
+以 32 位整数值呈现的 CMYK 颜色。
 
 ### 也可以看看
 

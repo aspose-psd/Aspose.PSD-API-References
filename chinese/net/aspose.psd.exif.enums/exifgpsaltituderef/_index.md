@@ -19,7 +19,7 @@ public enum ExifGPSAltitudeRef : byte
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | AboveSeaLevel | `0` | 海平面以上。 |
-| BelowSeaLevel | `1` | 海平面以下。 |
+| BelowSeaLevel | `1` | 低于海平面。 |
 
 ### 也可以看看
 

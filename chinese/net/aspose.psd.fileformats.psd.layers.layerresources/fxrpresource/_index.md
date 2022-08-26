@@ -1,14 +1,14 @@
 ---
 title: FxrpResource
 second_title: Aspose.PSD for .NET API 参考
-description: FxrpResource 类层
+description: 类 FxrpResource layer 的参考点
 type: docs
-weight: 2430
+weight: 2470
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/
 ---
 ## FxrpResource class
 
-FxrpResource 类。层
+类 FxrpResource。 layer 的参考点
 
 ```csharp
 public class FxrpResource : LayerResource
@@ -18,27 +18,27 @@ public class FxrpResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [FxrpResource](fxrpresource#constructor)() | 初始化[`FxrpResource`](../fxrpresource)类的新实例。 |
-| [FxrpResource](fxrpresource#constructor_1)(byte[]) | 初始化[`FxrpResource`](../fxrpresource)类的新实例。 具有自定义或未知值 |
-| [FxrpResource](fxrpresource#constructor_2)(double, double) | 初始化[`FxrpResource`](../fxrpresource)类的新实例。 |
+| [FxrpResource](fxrpresource#constructor)() | 初始化[`FxrpResource`](../fxrpresource)类. |
+| [FxrpResource](fxrpresource#constructor_1)(byte[]) | 初始化[`FxrpResource`](../fxrpresource) class. 具有自定义或未知值 |
+| [FxrpResource](fxrpresource#constructor_2)(double, double) | 初始化[`FxrpResource`](../fxrpresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature) { get; } | 获取签名。 |
-| [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x) { get; set; } | 获取或设置参考点的 x |
-| [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y) { get; set; } | 获取或设置参考点的y值 |
+| [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x) { get; set; } | 获取或设置参考点的x |
+| [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y) { get; set; } | 获取或设置参考点的y |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save)(StreamContainer, int) | 保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

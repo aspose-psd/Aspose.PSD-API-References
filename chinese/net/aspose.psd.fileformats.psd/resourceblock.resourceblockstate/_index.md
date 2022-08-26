@@ -1,14 +1,14 @@
 ---
 title: ResourceBlock.ResourceBlockState
 second_title: Aspose.PSD for .NET API 参考
-description: 表示资源块状态
+description: 代表资源块状态
 type: docs
-weight: 3510
+weight: 3560
 url: /zh/net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
 ## ResourceBlock.ResourceBlockState enumeration
 
-表示资源块状态。
+代表资源块状态。
 
 ```csharp
 public enum ResourceBlockState

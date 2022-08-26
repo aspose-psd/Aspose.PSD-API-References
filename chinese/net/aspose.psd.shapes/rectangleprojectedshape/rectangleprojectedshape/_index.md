@@ -1,14 +1,14 @@
 ---
 title: RectangleProjectedShape
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化RectangleProjectedShapeaspose.psd.shapes/rectangleprojectedshape类的新实例
+description: 初始化RectangleProjectedShapeaspose.psd.shapes/rectangleprojectedshape类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapes/rectangleprojectedshape/rectangleprojectedshape/
 ---
 ## RectangleProjectedShape() {#constructor}
 
-初始化[`RectangleProjectedShape`](../../rectangleprojectedshape)类的新实例。
+初始化[`RectangleProjectedShape`](../../rectangleprojectedshape)类.
 
 ```csharp
 public RectangleProjectedShape()
@@ -24,7 +24,7 @@ public RectangleProjectedShape()
 
 ## RectangleProjectedShape(RectangleF) {#constructor_1}
 
-初始化[`RectangleProjectedShape`](../../rectangleprojectedshape)类的新实例。
+初始化[`RectangleProjectedShape`](../../rectangleprojectedshape)类.
 
 ```csharp
 public RectangleProjectedShape(RectangleF rectangle)

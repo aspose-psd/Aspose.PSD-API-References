@@ -19,11 +19,11 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
 | --- | --- | --- |
 | exposure | Single | 曝光。 |
 | offset | Single | 偏移量。 |
-| gammaCorrection | Single | 伽马校正。 |
+| gammaCorrection | Single | 伽玛校正。 |
 
 ### 返回值
 
-已创建曝光调整图层
+创建曝光调整图层
 
 ### 也可以看看
 

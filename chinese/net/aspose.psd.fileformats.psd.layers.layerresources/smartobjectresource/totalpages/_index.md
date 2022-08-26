@@ -1,14 +1,14 @@
 ---
 title: TotalPages
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 文件中智能对象图层数据的总页数
+description: 获取或设置PSD文件中智能对象图层数据的总页数
 type: docs
 weight: 220
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/
 ---
 ## SmartObjectResource.TotalPages property
 
-获取或设置 PSD 文件中智能对象图层数据的总页数。
+获取或设置PSD文件中智能对象图层数据的总页数。
 
 ```csharp
 public override int TotalPages { get; set; }

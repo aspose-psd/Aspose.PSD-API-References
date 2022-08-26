@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает новый экземпляр структурыRectangleFaspose.psd/rectanglefсXaspose.psd/rectanglef/xYaspose.psd/rectanglef/yWidthaspose.psd/rectanglef/widthиHeightравны нулю.
+description: Получает новый экземплярRectangleFaspose.psd/rectanglef структура которая имеетXaspose.psd/rectanglef/x Yaspose.psd/rectanglef/y Widthaspose.psd/rectanglef/width а такжеHeightaspose.psd/rectanglef/height значения равны нулю.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/rectanglef/empty/
 ---
 ## RectangleF.Empty property
 
-Получает новый экземпляр структуры[`RectangleF`](../../rectanglef)с[`X`](../x),[`Y`](../y),[`Width`](../width)иHeightравны нулю.
+Получает новый экземпляр[`RectangleF`](../../rectanglef) структура, которая имеет[`X`](../x) ,[`Y`](../y) ,[`Width`](../width) а также[`Height`](../height) значения равны нулю.
 
 ```csharp
 public static RectangleF Empty { get; }

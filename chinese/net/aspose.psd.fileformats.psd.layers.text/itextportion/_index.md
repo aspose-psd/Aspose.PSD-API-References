@@ -3,7 +3,7 @@ title: ITextPortion
 second_title: Aspose.PSD for .NET API 参考
 description: 操作文本部分的接口
 type: docs
-weight: 3420
+weight: 3470
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextportion/
 ---
 ## ITextPortion interface
@@ -24,7 +24,7 @@ public interface ITextPortion
 
 ### 例子
 
-以下示例演示了通过 ITextPortion 对从右到左的语言进行文本对齐工作正常。
+下面的示例演示了通过 ITextPortion 的从右到左语言的文本对齐工作正常。
 
 ```csharp
 [C#]
@@ -44,7 +44,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-下面的例子演示了如何在 Aspose.PSD 的一个文本层中渲染不同的样式
+以下示例演示了如何在 Aspose.PSD 的一个文本层中呈现不同的样式
 
 ```csharp
 [C#]
@@ -90,7 +90,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-下面的代码演示了如何获取字体文本层中任何文本部分的大小。
+以下代码演示了如何获取文本层中任何文本部分的字体大小。
 
 ```csharp
 [C#]

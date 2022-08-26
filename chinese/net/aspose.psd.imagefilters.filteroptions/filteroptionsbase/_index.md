@@ -1,14 +1,14 @@
 ---
 title: FilterOptionsBase
 second_title: Aspose.PSD for .NET API 参考
-description: 过滤器选项基抽象类
+description: 过滤器选项基础抽象类
 type: docs
-weight: 4570
+weight: 4620
 url: /zh/net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 ---
 ## FilterOptionsBase class
 
-过滤器选项基，抽象类
+过滤器选项基础，抽象类
 
 ```csharp
 public abstract class FilterOptionsBase

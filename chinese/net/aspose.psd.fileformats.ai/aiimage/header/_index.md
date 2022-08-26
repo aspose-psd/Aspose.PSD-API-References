@@ -1,14 +1,14 @@
 ---
 title: Header
 second_title: Aspose.PSD for .NET API 参考
-description: 获取标题
+description: 获取标头
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
 ## AiImage.Header property
 
-获取标题。
+获取标头。
 
 ```csharp
 public AiHeader Header { get; }

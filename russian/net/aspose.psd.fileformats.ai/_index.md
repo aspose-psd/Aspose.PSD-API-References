@@ -12,13 +12,13 @@ url: /ru/net/aspose.psd.fileformats.ai/
 
 | Учебный класс | Описание |
 | --- | --- |
-| [AiDataSection](./aidatasection) | Раздел данных формата Ai |
-| [AiFinalizeSection](./aifinalizesection) | Раздел финализации формата Ai |
-| [AiHeader](./aiheader) | Заголовок файла Adobe illustrator |
-| [AiImage](./aiimage) | Изображение Adobe Illustrator (AI) |
-| [AiLayerSection](./ailayersection) | Раздел слоя формата Ai |
+| [AiDataSection](./aidatasection) | Раздел данных формата AI |
+| [AiFinalizeSection](./aifinalizesection) | Формат AI Finalize Section |
+| [AiHeader](./aiheader) | Заголовок файла Adobe Illustrator |
+| [AiImage](./aiimage) | Изображение Adobe Illustrator (ИИ) |
+| [AiLayerSection](./ailayersection) | Раздел слоя формата AI |
 | [AiRasterImageSection](./airasterimagesection) | Раздел растрового изображения AI |
-| [AiSection](./aisection) | Базовый раздел формата Ai |
+| [AiSection](./aisection) | Базовый раздел формата AI |
 | [AiSetupSection](./aisetupsection) | Раздел настройки формата AI |
 ## перечисление
 

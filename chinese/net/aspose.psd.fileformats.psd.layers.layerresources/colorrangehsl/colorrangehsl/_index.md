@@ -1,14 +1,14 @@
 ---
 title: ColorRangeHsl
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化ColorRangeHslaspose.psd.fileformats.psd.layers.layerresources/colorrangehsl类的新实例
+description: 初始化ColorRangeHslaspose.psd.fileformats.psd.layers.layerresources/colorrangehsl类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
 ## ColorRangeHsl() {#constructor}
 
-初始化[`ColorRangeHsl`](../../colorrangehsl)类的新实例。
+初始化[`ColorRangeHsl`](../../colorrangehsl)类.
 
 ```csharp
 public ColorRangeHsl()
@@ -24,7 +24,7 @@ public ColorRangeHsl()
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-初始化[`ColorRangeHsl`](../../colorrangehsl)类的新实例。
+初始化[`ColorRangeHsl`](../../colorrangehsl)类.
 
 ```csharp
 public ColorRangeHsl(byte[] data)
@@ -38,7 +38,7 @@ public ColorRangeHsl(byte[] data)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | " + this.GetType() + " 的预期长度为 14 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | " + this.GetType() + " 的预期长度是 14 |
 
 ### 也可以看看
 

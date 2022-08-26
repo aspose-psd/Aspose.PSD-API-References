@@ -20,7 +20,7 @@ public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 
 ### Возвращаемое значение
 
-Создан слой фотофильтра
+Созданный слой фотофильтра
 
 ### Смотрите также
 

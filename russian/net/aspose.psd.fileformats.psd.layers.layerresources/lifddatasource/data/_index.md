@@ -1,7 +1,7 @@
 ---
 title: Data
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает встроенные данные смарт-объекта в файле PSD.
+description: Получает или задает встроенные данные смартобъекта в файле PSD.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/

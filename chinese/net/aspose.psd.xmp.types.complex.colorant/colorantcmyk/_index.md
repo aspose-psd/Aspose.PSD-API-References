@@ -3,7 +3,7 @@ title: ColorantCmyk
 second_title: Aspose.PSD for .NET API 参考
 description: 代表 CMYK 着色剂
 type: docs
-weight: 5900
+weight: 5950
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/
 ---
 ## ColorantCmyk class
@@ -18,8 +18,8 @@ public sealed class ColorantCmyk : ColorantBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ColorantCmyk](colorantcmyk#constructor)() | 初始化[`ColorantCmyk`](../colorantcmyk)类的新实例。 |
-| [ColorantCmyk](colorantcmyk#constructor_1)(float, float, float, float) | 初始化[`ColorantCmyk`](../colorantcmyk)类的新实例。 |
+| [ColorantCmyk](colorantcmyk#constructor)() | 初始化[`ColorantCmyk`](../colorantcmyk)类. |
+| [ColorantCmyk](colorantcmyk#constructor_1)(float, float, float, float) | 初始化[`ColorantCmyk`](../colorantcmyk)类. |
 
 ## 特性
 
@@ -29,7 +29,7 @@ public sealed class ColorantCmyk : ColorantBase
 | [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype) { get; set; } | 获取或设置颜色的类型。 |
 | [Cyan](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan) { get; set; } | 获取或设置青色分量值。 |
 | [Magenta](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta) { get; set; } | 获取或设置洋红色分量值。 |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode) { get; } | 获取[`ColorMode`](../colormode)。 |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode) { get; } | 获取[`ColorMode`](../colormode) . |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | 获取默认命名空间 URI。 |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | 获取前缀。 |
 | [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname) { get; set; } | 获取或设置样本的名称。 |

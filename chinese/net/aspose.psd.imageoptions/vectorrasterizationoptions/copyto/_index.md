@@ -1,14 +1,14 @@
 ---
 title: CopyTo
 second_title: Aspose.PSD for .NET API 参考
-description: 复制到
+description: 复制到.
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.imageoptions/vectorrasterizationoptions/copyto/
 ---
 ## VectorRasterizationOptions.CopyTo method
 
-复制到。
+复制到.
 
 ```csharp
 public void CopyTo(VectorRasterizationOptions vectorRasterizationOptions)

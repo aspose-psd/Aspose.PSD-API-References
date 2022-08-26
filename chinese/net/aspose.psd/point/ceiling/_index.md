@@ -1,14 +1,14 @@
 ---
 title: Ceiling
 second_title: Aspose.PSD for .NET API 参考
-description: 通过舍入的值将指定的PointFaspose.psd/pointf转换为Pointaspose.psd/pointPointFaspose.psd/pointf到下一个更高的整数值
+description: 转换指定的PointFaspose.psd/pointf到一个Pointaspose.psd/point通过四舍五入的值PointFaspose.psd/pointf到下一个更高的整数值
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/point/ceiling/
 ---
 ## Point.Ceiling method
 
-通过舍入的值将指定的[`PointF`](../../pointf)转换为[`Point`](../../point)[`PointF`](../../pointf)到下一个更高的整数值。
+转换指定的[`PointF`](../../pointf)到一个[`Point`](../../point)通过四舍五入的值[`PointF`](../../pointf)到下一个更高的整数值。
 
 ```csharp
 public static Point Ceiling(PointF point)
@@ -16,11 +16,11 @@ public static Point Ceiling(PointF point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf)要转换。 |
+| point | PointF | 这[`PointF`](../../pointf)转换。 |
 
 ### 返回值
 
-[`Point`](../../point)此方法转换为。
+这[`Point`](../../point)此方法转换为。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: MostRightBorder
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает самую правую границу.
+description: Получает или устанавливает крайнюю правую границу.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder/
 ---
 ## ColorRangeHsl.MostRightBorder property
 
-Получает или устанавливает самую правую границу.
+Получает или устанавливает крайнюю правую границу.
 
 ```csharp
 public short MostRightBorder { get; set; }

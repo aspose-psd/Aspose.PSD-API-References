@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает x-координату этогоPointaspose.psd/point.
+description: Получает или задает координату x этогоPointaspose.psd/point .
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/point/x/
 ---
 ## Point.X property
 
-Получает или устанавливает x-координату этого[`Point`](../../point).
+Получает или задает координату x этого[`Point`](../../point) .
 
 ```csharp
 public int X { get; set; }

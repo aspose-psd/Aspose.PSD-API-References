@@ -1,14 +1,14 @@
 ---
 title: C
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение голубого компонента этойColoraspose.psd/colorструктуры.
+description: Получает значение голубого компонента этогоColoraspose.psd/colorструктура.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/cmykcolor/c/
 ---
 ## CmykColor.C property
 
-Получает значение голубого компонента этой[`Color`](../../color)структуры.
+Получает значение голубого компонента этого[`Color`](../../color)структура.
 
 ```csharp
 public byte C { get; }
@@ -16,7 +16,7 @@ public byte C { get; }
 
 ### Стоимость имущества
 
-Значение голубого компонента этого[`Color`](../../color).
+Значение голубого компонента этого[`Color`](../../color) .
 
 ### Смотрите также
 

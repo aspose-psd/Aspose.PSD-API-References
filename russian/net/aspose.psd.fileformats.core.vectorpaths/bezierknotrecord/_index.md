@@ -18,8 +18,8 @@ public class BezierKnotRecord : VectorPathRecord
 
 | Имя | Описание |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord#constructor)() | Инициализирует новый экземпляр класса[`BezierKnotRecord`](../bezierknotrecord). |
-| [BezierKnotRecord](bezierknotrecord#constructor_1)(byte[]) | Инициализирует новый экземпляр класса[`BezierKnotRecord`](../bezierknotrecord). |
+| [BezierKnotRecord](bezierknotrecord#constructor)() | Инициализирует новый экземпляр[`BezierKnotRecord`](../bezierknotrecord) класс. |
+| [BezierKnotRecord](bezierknotrecord#constructor_1)(byte[]) | Инициализирует новый экземпляр[`BezierKnotRecord`](../bezierknotrecord) класс. |
 
 ## Характеристики
 
@@ -29,12 +29,12 @@ public class BezierKnotRecord : VectorPathRecord
 | [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked) { get; set; } | Получает или задает значение, указывающее, связан ли этот экземпляр. |
 | [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen) { get; set; } | Получает или задает значение, указывающее, открыт ли этот экземпляр. |
 | [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints) { get; set; } | Получает или задает точки пути. |
-| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points) { get; set; } | Получает или устанавливает точки. |
+| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points) { get; set; } | Получает или устанавливает очки. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type) { get; } | Получает тип. |
 
 ### Примеры
 
-В следующем примере демонстрируется поддержка VmskResource загрузка ресурсов. Как работает редактирование путей.
+В следующем примере демонстрируется поддержка загрузки ресурсов VmskResource. Как работает редактирование путей.
 
 ```csharp
 [C#]

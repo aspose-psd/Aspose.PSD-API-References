@@ -1,14 +1,14 @@
 ---
 title: VersionInfoResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Ресурс информации о версии
+description: Информация о версии resource
 type: docs
-weight: 3850
+weight: 3900
 url: /ru/net/aspose.psd.fileformats.psd.resources/versioninforesource/
 ---
 ## VersionInfoResource class
 
-Ресурс информации о версии
+Информация о версии resource
 
 ```csharp
 public sealed class VersionInfoResource : ResourceBlock
@@ -29,10 +29,10 @@ public sealed class VersionInfoResource : ResourceBlock
 | [HasRealMergedData](../../aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata) { get; set; } | Получает или задает значение, указывающее, имеет ли этот экземпляр реальные объединенные данные. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы размер был четным (нулевое имя состоит из двух байтов, равных 0). |
-| [ReaderName](../../aspose.psd.fileformats.psd.resources/versioninforesource/readername) { get; set; } | Получает или задает имя модуля чтения. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Должно быть всегда «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [ReaderName](../../aspose.psd.fileformats.psd.resources/versioninforesource/readername) { get; set; } | Получает или задает имя средства чтения. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
 | [Version](../../aspose.psd.fileformats.psd.resources/versioninforesource/version) { get; set; } | Получает или задает версию. |
 | [WriterName](../../aspose.psd.fileformats.psd.resources/versioninforesource/writername) { get; set; } | Получает или задает имя модуля записи. |
 

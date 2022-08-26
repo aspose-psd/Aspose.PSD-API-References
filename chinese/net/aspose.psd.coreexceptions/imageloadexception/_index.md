@@ -1,14 +1,14 @@
 ---
 title: ImageLoadException
 second_title: Aspose.PSD for .NET API 参考
-description: 图片加载异常在图像加载期间发生
+description: 图像加载异常在图像加载期间发生
 type: docs
 weight: 620
 url: /zh/net/aspose.psd.coreexceptions/imageloadexception/
 ---
 ## ImageLoadException class
 
-图片加载异常。在图像加载期间发生。
+图像加载异常。在图像加载期间发生。
 
 ```csharp
 public class ImageLoadException : ImageException
@@ -18,8 +18,8 @@ public class ImageLoadException : ImageException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ImageLoadException](imageloadexception#constructor)(string) | 初始化[`ImageLoadException`](../imageloadexception)类的新实例。 |
-| [ImageLoadException](imageloadexception#constructor_1)(string, Exception) | 初始化[`ImageLoadException`](../imageloadexception)类的新实例。 |
+| [ImageLoadException](imageloadexception#constructor)(string) | 初始化[`ImageLoadException`](../imageloadexception)类. |
+| [ImageLoadException](imageloadexception#constructor_1)(string, Exception) | 初始化[`ImageLoadException`](../imageloadexception)类. |
 
 ### 也可以看看
 

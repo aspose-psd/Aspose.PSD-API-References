@@ -1,14 +1,14 @@
 ---
 title: MidtonesCyanRedBalance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает баланс средних тонов голубого и красного.
+description: Получает или задает баланс голубого и красного полутонов.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/
 ---
 ## BlncResource.MidtonesCyanRedBalance property
 
-Получает или задает баланс средних тонов голубого и красного.
+Получает или задает баланс голубого и красного полутонов.
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }

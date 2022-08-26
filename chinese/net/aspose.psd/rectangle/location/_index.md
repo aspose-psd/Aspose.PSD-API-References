@@ -1,14 +1,14 @@
 ---
 title: Location
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置此Rectangleaspose.psd/rectangle结构左上角的坐标
+description: 获取或设置this的左上角坐标Rectangleaspose.psd/rectangle结构.
 type: docs
 weight: 150
 url: /zh/net/aspose.psd/rectangle/location/
 ---
 ## Rectangle.Location property
 
-获取或设置此[`Rectangle`](../../rectangle)结构左上角的坐标。
+获取或设置this的左上角坐标[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public Point Location { get; set; }
@@ -16,7 +16,7 @@ public Point Location { get; set; }
 
 ### 适当的价值
 
-[`Point`](../../point)表示此PSD的左上角。矩形结构。
+一个[`Point`](../../point)表示这个的左上角[`Rectangle`](../../rectangle)结构体。
 
 ### 也可以看看
 

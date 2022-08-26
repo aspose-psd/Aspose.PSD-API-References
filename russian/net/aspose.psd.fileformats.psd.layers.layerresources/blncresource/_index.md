@@ -1,14 +1,14 @@
 ---
 title: BlncResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс BlncResource является ресурсом слоя настройки цвета.
+description: Класс BlncResource является ресурсом корректирующего слоя цвета.
 type: docs
-weight: 2250
+weight: 2290
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
 ## BlncResource class
 
-Класс BlncResource является ресурсом слоя настройки цвета.
+Класс BlncResource является ресурсом корректирующего слоя цвета.
 
 ```csharp
 public class BlncResource : AdjustmentLayerResource
@@ -18,24 +18,24 @@ public class BlncResource : AdjustmentLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [BlncResource](blncresource)() | Инициализирует новый экземпляр класса[`BlncResource`](../blncresource). |
+| [BlncResource](blncresource)() | Инициализирует новый экземпляр[`BlncResource`](../blncresource) класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance) { get; set; } | Получает или задает баланс голубого и красного в светлых участках. |
-| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance) { get; set; } | Получает или задает баланс пурпурного зеленого для светлых участков. |
+| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance) { get; set; } | Получает или задает баланс светло-голубого и красного цветов. |
+| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance) { get; set; } | Получает или задает баланс зеленого пурпурного для светлых участков. |
 | [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance) { get; set; } | Получает или задает баланс желтого и синего в светлых тонах. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/key) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance) { get; set; } | Получает или задает баланс средних тонов голубого и красного. |
-| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance) { get; set; } | Получает или задает баланс зеленого пурпурного полутона. |
+| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance) { get; set; } | Получает или задает баланс голубого и красного полутонов. |
+| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance) { get; set; } | Получает или задает средний баланс пурпурно-зеленого полутона. |
 | [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance) { get; set; } | Получает или задает баланс желтого и синего полутонов. |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity) { get; set; } | Получает или задает значение, указывающее, сохраняет ли этот[`BlncResource`](../blncresource)яркость. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity) { get; set; } | Получает или задает значение, указывающее, является ли это[`BlncResource`](../blncresource) сохраняет яркость. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion) { get; } | Получает версию PSD. |
-| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance) { get; set; } | Получает или задает баланс сине-красного цвета теней. |
-| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance) { get; set; } | Получает или задает баланс пурпурно-зеленого в тенях. |
+| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance) { get; set; } | Получает или задает баланс теней Cyan Red. |
+| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance) { get; set; } | Получает или задает баланс зеленого пурпурного для теней. |
 | [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance) { get; set; } | Получает или задает желто-синий баланс теней. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Получает подпись. |
 
@@ -44,13 +44,13 @@ public class BlncResource : AdjustmentLayerResource
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey) | Ключ информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey) | Клавиша информации о типе инструмента. |
 
 ### Смотрите также
 

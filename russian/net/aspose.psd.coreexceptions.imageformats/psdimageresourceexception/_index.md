@@ -18,8 +18,8 @@ public class PsdImageResourceException : PsdImageException
 
 | Имя | Описание |
 | --- | --- |
-| [PsdImageResourceException](psdimageresourceexception#constructor)(string, ResourceBlock) | Инициализирует новый экземпляр класса[`PsdImageResourceException`](../psdimageresourceexception). |
-| [PsdImageResourceException](psdimageresourceexception#constructor_1)(string, ResourceBlock, Exception) | Инициализирует новый экземпляр класса[`PsdImageResourceException`](../psdimageresourceexception). |
+| [PsdImageResourceException](psdimageresourceexception#constructor)(string, ResourceBlock) | Инициализирует новый экземпляр[`PsdImageResourceException`](../psdimageresourceexception) класс. |
+| [PsdImageResourceException](psdimageresourceexception#constructor_1)(string, ResourceBlock, Exception) | Инициализирует новый экземпляр[`PsdImageResourceException`](../psdimageresourceexception) класс. |
 
 ## Характеристики
 

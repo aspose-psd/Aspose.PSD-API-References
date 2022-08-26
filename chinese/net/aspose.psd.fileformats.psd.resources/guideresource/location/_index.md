@@ -16,7 +16,7 @@ public int Location { get; set; }
 
 ### 适当的价值
 
-引导位置。
+指导位置。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CanSave
 second_title: Aspose.PSD for .NET API 参考
-description: 确定图像是否可以保存为传递的保存选项表示的指定文件格式
+description: 判断图像是否可以保存为传递的保存选项所代表的指定文件格式
 type: docs
 weight: 160
 url: /zh/net/aspose.psd/image/cansave/
 ---
 ## Image.CanSave method
 
-确定图像是否可以保存为传递的保存选项表示的指定文件格式。
+判断图像是否可以保存为传递的保存选项所代表的指定文件格式。
 
 ```csharp
 public bool CanSave(ImageOptionsBase options)
@@ -20,7 +20,7 @@ public bool CanSave(ImageOptionsBase options)
 
 ### 返回值
 
-` true` 如果图像可以保存为传递的保存选项表示的指定文件格式；否则，` false` 。
+`真的`是否可以将图像保存为传递的保存选项表示的指定文件格式；否则，`错误的` .
 
 ### 也可以看看
 

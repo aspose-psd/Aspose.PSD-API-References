@@ -1,14 +1,14 @@
 ---
 title: SheetColorHighlightEnum
 second_title: Aspose.PSD for .NET API 参考
-description: Sheet 颜色设置的可能颜色 PS 中图层列表中图层的 UI 装饰颜色
+description: Sheet 颜色设置的可能颜色 PS 中图层列表中图层的UI装饰颜色
 type: docs
-weight: 2890
+weight: 2940
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
 ## SheetColorHighlightEnum enumeration
 
-Sheet 颜色设置的可能颜色。 PS 中图层列表中图层的 UI 装饰颜色
+Sheet 颜色设置的可能颜色。 PS 中图层列表中图层的UI装饰颜色
 
 ```csharp
 public enum SheetColorHighlightEnum : short
@@ -29,7 +29,7 @@ public enum SheetColorHighlightEnum : short
 
 ### 例子
 
-以下示例演示如何在 Aspose.PSD 中更改 Sheet Color Highlight (工作表颜色设置）
+以下示例演示如何更改 Aspose.PSD 中的工作表颜色突出显示（工作表颜色设置）
 
 ```csharp
 [C#]

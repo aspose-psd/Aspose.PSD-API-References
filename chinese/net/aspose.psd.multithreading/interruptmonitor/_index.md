@@ -1,14 +1,14 @@
 ---
 title: InterruptMonitor
 second_title: Aspose.PSD for .NET API 参考
-description: 表示有关中断的信息
+description: 代表中断信息
 type: docs
-weight: 5010
+weight: 5060
 url: /zh/net/aspose.psd.multithreading/interruptmonitor/
 ---
 ## InterruptMonitor class
 
-表示有关中断的信息。
+代表中断信息。
 
 ```csharp
 public class InterruptMonitor
@@ -25,7 +25,7 @@ public class InterruptMonitor
 | 姓名 | 描述 |
 | --- | --- |
 | static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance) { get; set; } | 获取或设置每个线程唯一的 InterruptMonitor 实例。 |
-| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted) { get; } | 获取是否应该中断操作的值。 |
+| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted) { get; } | 获取指示操作是否应中断的值。 |
 
 ## 方法
 

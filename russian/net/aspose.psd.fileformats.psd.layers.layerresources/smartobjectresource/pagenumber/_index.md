@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает номер страницы данных слоя смарт-объекта в файле PSD.
+description: Получает или задает номер страницы данных слоя смартобъекта в PSDфайле.
 type: docs
 weight: 150
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/
 ---
 ## SmartObjectResource.PageNumber property
 
-Получает или задает номер страницы данных слоя смарт-объекта в файле PSD.
+Получает или задает номер страницы данных слоя смарт-объекта в PSD-файле.
 
 ```csharp
 public override int PageNumber { get; set; }

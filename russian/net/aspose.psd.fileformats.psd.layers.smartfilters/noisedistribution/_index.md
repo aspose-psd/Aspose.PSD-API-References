@@ -3,7 +3,7 @@ title: NoiseDistribution
 second_title: Справочник по Aspose.PSD для .NET API
 description: Распределение фильтра шума.
 type: docs
-weight: 3330
+weight: 3380
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
 ## NoiseDistribution enumeration

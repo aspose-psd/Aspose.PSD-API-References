@@ -1,14 +1,14 @@
 ---
 title: ToGdiGraphicsPath
 second_title: Aspose.PSD for .NET API 参考
-description: 将GraphicsPathaspose.psd/graphicspath转换为GraphicsPath
+description: 转换GraphicsPathaspose.psd/graphicspath到GraphicsPath .
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/graphicspathextensions/togdigraphicspath/
 ---
 ## GraphicsPathExtensions.ToGdiGraphicsPath method
 
-将[`GraphicsPath`](../../../aspose.psd/graphicspath)转换为GraphicsPath。
+转换[`GraphicsPath`](../../../aspose.psd/graphicspath)到GraphicsPath .
 
 ```csharp
 public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
@@ -20,7 +20,7 @@ public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
 
 ### 返回值
 
-转换后的GraphicsPath。
+转换的GraphicsPath.
 
 ### 也可以看看
 

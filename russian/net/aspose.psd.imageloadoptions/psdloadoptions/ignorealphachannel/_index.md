@@ -1,7 +1,7 @@
 ---
 title: IgnoreAlphaChannel
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее следует ли игнорировать альфа-канал.
+description: Получает или задает значение указывающее следует ли игнорировать альфаканал.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/
@@ -16,7 +16,7 @@ public bool IgnoreAlphaChannel { get; set; }
 
 ### Стоимость имущества
 
-` true` if [игнорировать альфа-канал]; в противном случае` false` .
+`истинный` если [игнорировать альфа-канал]; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

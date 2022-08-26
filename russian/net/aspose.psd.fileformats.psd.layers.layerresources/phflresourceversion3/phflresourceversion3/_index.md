@@ -1,14 +1,14 @@
 ---
 title: PhflResourceVersion3
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPhflResourceVersion3aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3.
+description: Инициализирует новый экземплярPhflResourceVersion3aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/phflresourceversion3/
 ---
 ## PhflResourceVersion3() {#constructor}
 
-Инициализирует новый экземпляр класса[`PhflResourceVersion3`](../../phflresourceversion3).
+Инициализирует новый экземпляр[`PhflResourceVersion3`](../../phflresourceversion3) класс.
 
 ```csharp
 public PhflResourceVersion3()
@@ -18,7 +18,7 @@ public PhflResourceVersion3()
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Поддерживается только версии 2 и 3 |
+| ArgumentException | Поддерживаются только версии 2 и 3 |
 
 ### Смотрите также
 
@@ -30,7 +30,7 @@ public PhflResourceVersion3()
 
 ## PhflResourceVersion3(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PhflResourceVersion3`](../../phflresourceversion3).
+Инициализирует новый экземпляр[`PhflResourceVersion3`](../../phflresourceversion3) класс.
 
 ```csharp
 public PhflResourceVersion3(byte[] data)

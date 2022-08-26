@@ -1,14 +1,14 @@
 ---
 title: LoadPartialArgb32Pixels
 second_title: Справочник по Aspose.PSD для .NET API
-description: Загружает 32-битные ARGB-пиксели частично пачками.
+description: Загружает 32битные пиксели ARGB частично по пакетам.
 type: docs
 weight: 380
 url: /ru/net/aspose.psd/rasterimage/loadpartialargb32pixels/
 ---
 ## RasterImage.LoadPartialArgb32Pixels method
 
-Загружает 32-битные ARGB-пиксели частично пачками.
+Загружает 32-битные пиксели ARGB частично по пакетам.
 
 ```csharp
 public void LoadPartialArgb32Pixels(Rectangle rectangle, 
@@ -17,7 +17,7 @@ public void LoadPartialArgb32Pixels(Rectangle rectangle,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Искомый прямоугольник. |
+| rectangle | Rectangle | Желаемый прямоугольник. |
 | partialPixelLoader | IPartialArgb32PixelLoader | 32-битный загрузчик пикселей ARGB. |
 
 ### Смотрите также

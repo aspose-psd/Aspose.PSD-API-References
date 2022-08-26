@@ -3,7 +3,7 @@ title: IGradientColorPoint
 second_title: Aspose.PSD for .NET API 参考
 description: 填充设置的基本接口
 type: docs
-weight: 2000
+weight: 2040
 url: /zh/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
 ## IGradientColorPoint interface

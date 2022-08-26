@@ -1,14 +1,14 @@
 ---
 title: Linked
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее связан ли этот файлIPatternFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings.
+description: Получает или задает значение указывающее является ли этоIPatternFillSettingsaspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings связан.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/
 ---
 ## IPatternFillSettings.Linked property
 
-Получает или задает значение, указывающее, связан ли этот файл[`IPatternFillSettings`](../../ipatternfillsettings).
+Получает или задает значение, указывающее, является ли это[`IPatternFillSettings`](../../ipatternfillsettings) связан.
 
 ```csharp
 public bool Linked { get; set; }
@@ -16,7 +16,7 @@ public bool Linked { get; set; }
 
 ### Стоимость имущества
 
-` true` если связано; в противном случае` false` .
+`истинный` если связаны; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

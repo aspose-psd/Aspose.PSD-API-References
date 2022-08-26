@@ -1,14 +1,14 @@
 ---
 title: MaskRectangle
 second_title: Aspose.PSD for .NET API 参考
-description: 获取表单蒙版矩形
+description: 获取工作表蒙版矩形
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/
 ---
 ## FilterEffectMaskData.MaskRectangle property
 
-获取表单蒙版矩形。
+获取工作表蒙版矩形。
 
 ```csharp
 public Rectangle MaskRectangle { get; }

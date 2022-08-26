@@ -3,7 +3,7 @@ title: IImageLoaderDescriptor
 second_title: Справочник по Aspose.PSD для .NET API
 description: Дескриптор загрузчика изображения определяющий свойства загрузчика. Дескриптор загрузчика используется для преодоления необходимости содержать каждый экземпляр загрузчика изображений в памяти и проблем многопоточности.
 type: docs
-weight: 4340
+weight: 4390
 url: /ru/net/aspose.psd/iimageloaderdescriptor/
 ---
 ## IImageLoaderDescriptor interface
@@ -18,7 +18,7 @@ public interface IImageLoaderDescriptor : IImageDescriptor
 
 | Имя | Описание |
 | --- | --- |
-| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload)(StreamContainer, LoadOptions) | Определяет, может ли загрузчик изображений читать новое изображение из указанного потока и, необязательно, используя*loadOptions*. |
+| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload)(StreamContainer, LoadOptions) | Определяет, может ли загрузчик изображений читать новое изображение из указанного потока и, при необходимости, с помощью*loadOptions* . |
 | [CreateInstance](../../aspose.psd/iimageloaderdescriptor/createinstance)() | Создает новый экземпляр загрузчика. |
 
 ### Смотрите также

@@ -19,9 +19,9 @@ public class RgbMixerChannel : MixerChannel
 | Имя | Описание |
 | --- | --- |
 | [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue) { get; set; } | Получает или задает синий цвет. |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant) { get; set; } | Получает или задает константу канала. |
-| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green) { get; set; } | Получает или устанавливает зеленый цвет. |
-| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red) { get; set; } | Получает или устанавливает красный цвет. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant) { get; set; } | Получает или устанавливает константу канала. |
+| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green) { get; set; } | Получает или задает зеленый цвет. |
+| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red) { get; set; } | Получает или задает красный цвет. |
 
 ## Методы
 

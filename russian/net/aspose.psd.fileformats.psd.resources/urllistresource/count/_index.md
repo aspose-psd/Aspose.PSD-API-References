@@ -1,14 +1,14 @@
 ---
 title: Count
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает счетчик.
+description: Получает или задает количество.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/urllistresource/count/
 ---
 ## UrlListResource.Count property
 
-Получает или задает счетчик.
+Получает или задает количество.
 
 ```csharp
 public int Count { get; set; }
@@ -16,7 +16,7 @@ public int Count { get; set; }
 
 ### Стоимость имущества
 
-Счетчик.
+Количество.
 
 ### Смотрите также
 

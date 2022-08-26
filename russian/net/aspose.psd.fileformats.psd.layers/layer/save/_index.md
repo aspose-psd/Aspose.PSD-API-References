@@ -17,7 +17,7 @@ public override void Save(string filePath, ImageOptionsBase options)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filePath | String | Путь к файлу. |
-| options | ImageOptionsBase | Опции. |
+| options | ImageOptionsBase | Варианты. |
 
 ### Смотрите также
 
@@ -39,7 +39,7 @@ public override void Save(string filePath, bool overWrite)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filePath | String | Путь к файлу для сохранения данных объекта. |
-| overWrite | Boolean | если установлено` true` перезаписать содержимое файла, иначе произойдет добавление. |
+| overWrite | Boolean | если установлено`истинный` перезапишите содержимое файла, иначе произойдет добавление. |
 
 ### Смотрите также
 
@@ -60,8 +60,8 @@ public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток, в который сохраняются данные изображения. |
-| optionsBase | ImageOptionsBase | Параметры сохранения. |
-| boundsRectangle | Rectangle | Конечный прямоугольник, ограничивающий изображение. Установите пустой прямоугольник для использования исходных границ. |
+| optionsBase | ImageOptionsBase | Варианты сохранения. |
+| boundsRectangle | Rectangle | Конечный образ ограничивает прямоугольник. Установите пустой прямоугольник для использования исходных границ. |
 
 ### Смотрите также
 
@@ -84,8 +84,8 @@ public override void Save(string filePath, ImageOptionsBase options, Rectangle b
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filePath | String | Путь к файлу. |
-| options | ImageOptionsBase | Опции. |
-| boundsRectangle | Rectangle | Конечный прямоугольник, ограничивающий изображение. Установите пустой прямоугольник для использования исходных границ. |
+| options | ImageOptionsBase | Варианты. |
+| boundsRectangle | Rectangle | Конечный образ ограничивает прямоугольник. Установите пустой прямоугольник для использования исходных границ. |
 
 ### Смотрите также
 

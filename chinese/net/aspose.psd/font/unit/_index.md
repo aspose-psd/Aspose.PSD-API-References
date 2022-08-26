@@ -1,14 +1,14 @@
 ---
 title: Unit
 second_title: Aspose.PSD for .NET API 参考
-description: 获取此Fontaspose.psd/font的度量单位
+description: 获取测量单位Fontaspose.psd/font .
 type: docs
 weight: 100
 url: /zh/net/aspose.psd/font/unit/
 ---
 ## Font.Unit property
 
-获取此[`Font`](../../font)的度量单位。
+获取测量单位[`Font`](../../font) .
 
 ```csharp
 public GraphicsUnit Unit { get; }
@@ -16,7 +16,7 @@ public GraphicsUnit Unit { get; }
 
 ### 适当的价值
 
-一个[`GraphicsUnit`](../../graphicsunit)，表示此Font的度量单位。
+一个[`GraphicsUnit`](../../graphicsunit)代表此的度量单位[`Font`](../../font).
 
 ### 也可以看看
 

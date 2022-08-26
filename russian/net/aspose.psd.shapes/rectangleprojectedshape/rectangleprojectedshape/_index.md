@@ -1,14 +1,14 @@
 ---
 title: RectangleProjectedShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаRectangleProjectedShapeaspose.psd.shapes/rectangleprojectedshape.
+description: Инициализирует новый экземплярRectangleProjectedShapeaspose.psd.shapes/rectangleprojectedshape класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/rectangleprojectedshape/
 ---
 ## RectangleProjectedShape() {#constructor}
 
-Инициализирует новый экземпляр класса[`RectangleProjectedShape`](../../rectangleprojectedshape).
+Инициализирует новый экземпляр[`RectangleProjectedShape`](../../rectangleprojectedshape) класс.
 
 ```csharp
 public RectangleProjectedShape()
@@ -24,7 +24,7 @@ public RectangleProjectedShape()
 
 ## RectangleProjectedShape(RectangleF) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`RectangleProjectedShape`](../../rectangleprojectedshape).
+Инициализирует новый экземпляр[`RectangleProjectedShape`](../../rectangleprojectedshape) класс.
 
 ```csharp
 public RectangleProjectedShape(RectangleF rectangle)

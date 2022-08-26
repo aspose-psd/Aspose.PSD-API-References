@@ -1,14 +1,14 @@
 ---
 title: op_Explicit
 second_title: Aspose.PSD for .NET API 参考
-description: 将指定的Sizeaspose.psd/size转换为Pointaspose.psd/point
+description: 转换指定的Sizeaspose.psd/size到一个Pointaspose.psd/point .
 type: docs
 weight: 160
 url: /zh/net/aspose.psd/size/op_explicit/
 ---
 ## Size Explicit operator
 
-将指定的[`Size`](../../size)转换为[`Point`](../../point)。
+转换指定的[`Size`](../../size)到一个[`Point`](../../point) .
 
 ```csharp
 public static explicit operator Point(Size size)
@@ -16,11 +16,11 @@ public static explicit operator Point(Size size)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| size | Size | 要转换的[`Size`](../../size)。 |
+| size | Size | 这[`Size`](../../size)转换。 |
 
 ### 返回值
 
-此运算符转换为的[`Point`](../../point)结构。
+这[`Point`](../../point)此运算符转换为的结构。
 
 ### 也可以看看
 

@@ -1,7 +1,7 @@
 ---
 title: SmartObjectProvider
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает поставщика смарт-объекта.
+description: Получает поставщика смартобъекта.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartobjectprovider/

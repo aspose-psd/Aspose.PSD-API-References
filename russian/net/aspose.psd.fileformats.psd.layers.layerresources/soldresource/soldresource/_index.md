@@ -1,14 +1,14 @@
 ---
 title: SoLdResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаSoLdResourceaspose.psd.fileformats.psd.layers.layerresources/soldresource. Для получения готового экземпляра необходимо установить свойство Items или вызвать InitializeItems. Этот конструктор предназначен для использованияSmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator и в модульных тестах. ИспользуйтеSmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreatorдля создания классов SoLdResource.
+description: Инициализирует новый экземплярSoLdResourceaspose.psd.fileformats.psd.layers.layerresources/soldresource class. Для получения готового экземпляра необходимо установить свойство Items или вызвать InitializeItems. Этот конструктор предназначен для использованияSmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator и в модульных тестах. ИспользованиеSmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator для создания классов SoLdResource.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SoLdResource`](../../soldresource). Для получения готового экземпляра необходимо установить свойство Items или вызвать InitializeItems(). Этот конструктор предназначен для использования[`SmartResourceCreator`](../../smartresourcecreator) и в модульных тестах. Используйте[`SmartResourceCreator`](../../smartresourcecreator)для создания классов SoLdResource.
+Инициализирует новый экземпляр[`SoLdResource`](../../soldresource) class. Для получения готового экземпляра необходимо установить свойство Items или вызвать InitializeItems(). Этот конструктор предназначен для использования[`SmartResourceCreator`](../../smartresourcecreator) и в модульных тестах. Использование[`SmartResourceCreator`](../../smartresourcecreator) для создания классов SoLdResource.
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
@@ -17,8 +17,8 @@ public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | uniqueId | Guid | Уникальный идентификатор данных слоя смарт-объекта[`SoLdResource`](../../soldresource). |
-| isCustom | Boolean | , если установлено значение` true` [выбирается пользователем]. |
-| hasCompInfo | Boolean | , если установлено значение` true` [имеет информацию о комп.]. |
+| isCustom | Boolean | если установлено`истинный` [это обычай]. |
+| hasCompInfo | Boolean | если установлено`истинный` [имеет информацию о комп.]. |
 
 ### Примеры
 
@@ -341,7 +341,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ## SoLdResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`SoLdResource`](../../soldresource). Этот конструктор по умолчанию предназначен для использованияSoLdResourceLoader. Используйте[`SmartResourceCreator`](../../smartresourcecreator)для создания классов SoLdResource.
+Инициализирует новый экземпляр[`SoLdResource`](../../soldresource) class. Этот конструктор по умолчанию предназначен для использованияSoLdResourceLoader . Использовать[`SmartResourceCreator`](../../smartresourcecreator) для создания классов SoLdResource.
 
 ```csharp
 public SoLdResource()

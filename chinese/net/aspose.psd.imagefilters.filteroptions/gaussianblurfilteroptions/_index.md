@@ -3,7 +3,7 @@ title: GaussianBlurFilterOptions
 second_title: Aspose.PSD for .NET API 参考
 description: 高斯模糊
 type: docs
-weight: 4590
+weight: 4640
 url: /zh/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
 ## GaussianBlurFilterOptions class
@@ -18,8 +18,8 @@ public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions#constructor)() | 初始化[`GaussianBlurFilterOptions`](../gaussianblurfilteroptions)类的新实例。 使用默认设置。 |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions#constructor_1)(int, double) | 初始化[`GaussianBlurFilterOptions`](../gaussianblurfilteroptions)类的新实例。 |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions#constructor)() | 初始化[`GaussianBlurFilterOptions`](../gaussianblurfilteroptions)类. 使用默认设置. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions#constructor_1)(int, double) | 初始化[`GaussianBlurFilterOptions`](../gaussianblurfilteroptions)类. |
 
 ## 特性
 

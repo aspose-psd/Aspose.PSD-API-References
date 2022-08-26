@@ -16,11 +16,11 @@ public double[] OriginBoxCorners { get; set; }
 
 ### Стоимость имущества
 
-Исходные углы коробки.
+Углы исходной коробки.
 
 ### Примеры
 
-В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners для ShapeOriginSettings в ресурсе Vogk для FillLayer в файле PSD.
+В этом примере показано, как получить и установить новые свойства Transform и OriginBoxCorners ShapeOriginSettings в ресурсе Vogk FillLayer в PSD-файле.
 
 ```csharp
 [C#]

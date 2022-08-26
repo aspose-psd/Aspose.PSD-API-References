@@ -1,14 +1,14 @@
 ---
 title: IsFaulted
 second_title: Aspose.PSD for .NET API 参考
-description: 获取一个值该值指示此任务是否出错
+description: 获取指示此任务是否出错的值
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.asynctask/iasynctask/isfaulted/
 ---
 ## IAsyncTask.IsFaulted property
 
-获取一个值，该值指示此任务是否出错。
+获取指示此任务是否出错的值。
 
 ```csharp
 public bool IsFaulted { get; }
@@ -16,7 +16,7 @@ public bool IsFaulted { get; }
 
 ### 适当的价值
 
-` true` 如果此任务出错；否则，` false` 。
+`真的`如果此任务出错；否则，`错误的` .
 
 ### 也可以看看
 

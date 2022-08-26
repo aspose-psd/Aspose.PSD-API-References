@@ -3,7 +3,7 @@ title: BlwhResource
 second_title: Aspose.PSD for .NET API 参考
 description: BlwhResource 类是黑白调整层的资源
 type: docs
-weight: 2260
+weight: 2300
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 ---
 ## BlwhResource class
@@ -26,11 +26,11 @@ public class BlwhResource : AdjustmentLayerResource
 | --- | --- |
 | [BlackAndWhitePresetFileName](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename) { get; set; } | 获取或设置黑白预设文件名。 |
 | [Blues](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues) { get; set; } | 获取或设置蓝调值。 |
-| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind) { get; set; } | 获取或设置黑白预设种类值。 |
+| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind) { get; set; } | 获取或设置黑白预设种类值 |
 | [Cyans](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/cyans) { get; set; } | 获取或设置青色值。 |
 | [Greens](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens) { get; set; } | 获取或设置果岭值。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | [Magentas](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas) { get; set; } | 获取或设置洋红色值。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion) { get; } | 获取psd版本。 |
 | [Reds](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds) { get; set; } | 获取或设置红色值。 |
@@ -44,7 +44,7 @@ public class BlwhResource : AdjustmentLayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
@@ -54,7 +54,7 @@ public class BlwhResource : AdjustmentLayerResource
 
 ### 例子
 
-以下示例演示如何编辑 BlwhResource。
+以下示例演示了如何编辑 BlwhResource。
 
 ```csharp
 [C#]

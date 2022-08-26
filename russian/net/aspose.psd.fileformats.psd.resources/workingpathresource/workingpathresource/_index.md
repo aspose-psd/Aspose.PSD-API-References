@@ -1,14 +1,14 @@
 ---
 title: WorkingPathResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаWorkingPathResourceaspose.psd.fileformats.psd.resources/workingpathresource.
+description: Инициализирует новый экземплярWorkingPathResourceaspose.psd.fileformats.psd.resources/workingpathresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
 ## WorkingPathResource constructor
 
-Инициализирует новый экземпляр класса[`WorkingPathResource`](../../workingpathresource).
+Инициализирует новый экземпляр[`WorkingPathResource`](../../workingpathresource) класс.
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
@@ -20,7 +20,7 @@ public WorkingPathResource(byte[] dataBytes)
 
 ### Примеры
 
-Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для правильной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
 
 ```csharp
 [C#]

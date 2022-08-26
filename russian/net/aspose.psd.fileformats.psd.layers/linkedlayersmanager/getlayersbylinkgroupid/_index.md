@@ -24,7 +24,7 @@ public Layer[] GetLayersByLinkGroupId(short linkGroupId)
 
 ### Примеры
 
-В следующем примере показано, как можно управлять связанными слоями в Aspose.PSD
+В следующем примере показано, как вы можете манипулировать связанными слоями в Aspose.PSD.
 
 ```csharp
 [C#]

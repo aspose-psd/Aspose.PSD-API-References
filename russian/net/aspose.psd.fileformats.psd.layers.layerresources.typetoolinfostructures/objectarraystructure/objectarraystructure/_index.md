@@ -1,14 +1,14 @@
 ---
 title: ObjectArrayStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаObjectArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure.
+description: Инициализирует новый экземплярObjectArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ObjectArrayStructure`](../../objectarraystructure).
+Инициализирует новый экземпляр[`ObjectArrayStructure`](../../objectarraystructure) класс.
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
@@ -85,7 +85,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-Инициализирует новый экземпляр класса[`ObjectArrayStructure`](../../objectarraystructure).
+Инициализирует новый экземпляр[`ObjectArrayStructure`](../../objectarraystructure) класс.
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
@@ -95,20 +95,20 @@ public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string cl
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | key | Int32 | Целочисленный ключ. |
-| keyName | ClassID | Имя ключа. |
+| keyName | ClassID | Ключевое имя. |
 | classID | ClassID | Идентификатор класса. |
-| className | String | Имя класса. |
+| className | String | Название класса. |
 | structures | OSTypeStructure[] | Структуры. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | classID равен null |
+| ArgumentNullException | идентификатор класса равен нулю |
 
 ### Примеры
 
-Следующий код демонстрирует поддержку ObAr и подписи UnFl.
+Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
 ```csharp
 [C#]

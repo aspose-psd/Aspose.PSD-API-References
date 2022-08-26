@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置左侧图层位置
+description: 获取或设置左层位置
 type: docs
 weight: 240
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
 ## Layer.Left property
 
-获取或设置左侧图层位置。
+获取或设置左层位置。
 
 ```csharp
 public int Left { get; set; }
@@ -16,7 +16,7 @@ public int Left { get; set; }
 
 ### 适当的价值
 
-左侧图层位置。
+左层位置。
 
 ### 也可以看看
 

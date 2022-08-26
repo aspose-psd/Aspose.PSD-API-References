@@ -1,14 +1,14 @@
 ---
 title: Truncate
 second_title: Aspose.PSD for .NET API 参考
-description: 通过截断的值将指定的PointFaspose.psd/pointf转换为Pointaspose.psd/pointPointaspose.psd/point
+description: 转换指定的PointFaspose.psd/pointf到一个Pointaspose.psd/point通过截断的值Pointaspose.psd/point .
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/point/truncate/
 ---
 ## Point.Truncate method
 
-通过截断的值将指定的[`PointF`](../../pointf)转换为[`Point`](../../point)[`Point`](../../point)。
+转换指定的[`PointF`](../../pointf)到一个[`Point`](../../point)通过截断的值[`Point`](../../point) .
 
 ```csharp
 public static Point Truncate(PointF point)
@@ -16,11 +16,11 @@ public static Point Truncate(PointF point)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf)要转换。 |
+| point | PointF | 这[`PointF`](../../pointf)转换。 |
 
 ### 返回值
 
-[`Point`](../../point)此方法转换为。
+这[`Point`](../../point)此方法转换为。
 
 ### 也可以看看
 

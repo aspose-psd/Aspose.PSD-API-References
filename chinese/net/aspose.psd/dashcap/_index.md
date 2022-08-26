@@ -1,14 +1,14 @@
 ---
 title: DashCap
 second_title: Aspose.PSD for .NET API 参考
-description: 指定要在虚线中每个虚线两端使用的图形形状类型
+description: 指定要在虚线中每个虚线的两端使用的图形形状的类型
 type: docs
 weight: 710
 url: /zh/net/aspose.psd/dashcap/
 ---
 ## DashCap enumeration
 
-指定要在虚线中每个虚线两端使用的图形形状类型。
+指定要在虚线中每个虚线的两端使用的图形形状的类型。
 
 ```csharp
 public enum DashCap
@@ -19,7 +19,7 @@ public enum DashCap
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Flat | `0` | 指定一个方形帽，使每个破折号的两端呈方形。 |
-| Round | `2` | 指定一个圆形帽，使每个破折号的两端都变圆。 |
+| Round | `2` | 指定一个圆形帽，使每个破折号的两端都四舍五入。 |
 | Triangle | `3` | 指定指向每个破折号两端的三角形帽。 |
 
 ### 也可以看看

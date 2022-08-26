@@ -1,14 +1,14 @@
 ---
 title: SmartObjectType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет перечисление SmartObjectType для типа содержимого смарт-объекта
+description: Определяет перечисление SmartObjectType для содержимого смартобъекта type
 type: docs
-weight: 3390
+weight: 3440
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjecttype/
 ---
 ## SmartObjectType enumeration
 
-Определяет перечисление SmartObjectType для типа содержимого смарт-объекта
+Определяет перечисление SmartObjectType для содержимого смарт-объекта type
 
 ```csharp
 public enum SmartObjectType
@@ -20,8 +20,8 @@ public enum SmartObjectType
 | --- | --- | --- |
 | Embedded | `0` | Встроенное содержимое |
 | AvailableLinked | `1` | Доступный связанный файл |
-| UnavailableLinked | `2` | Недоступный связанный файл |
-| LibraryLink | `3` | Ссылка на библиотеку Adobe® Photoshop® ССС |
+| UnavailableLinked | `2` | Связанный файл недоступен |
+| LibraryLink | `3` | Библиотека Adobe® Photoshop® СС link |
 
 ### Примеры
 

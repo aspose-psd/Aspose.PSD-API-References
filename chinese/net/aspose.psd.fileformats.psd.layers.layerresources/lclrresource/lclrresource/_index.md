@@ -1,14 +1,14 @@
 ---
 title: LclrResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化LclrResourceaspose.psd.fileformats.psd.layers.layerresources/lclrresource类的新实例
+description: 初始化LclrResourceaspose.psd.fileformats.psd.layers.layerresources/lclrresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lclrresource/
 ---
 ## LclrResource() {#constructor}
 
-初始化[`LclrResource`](../../lclrresource)类的新实例。
+初始化[`LclrResource`](../../lclrresource)类.
 
 ```csharp
 public LclrResource()
@@ -24,7 +24,7 @@ public LclrResource()
 
 ## LclrResource(SheetColorHighlightEnum) {#constructor_1}
 
-初始化[`LclrResource`](../../lclrresource)类的新实例。
+初始化[`LclrResource`](../../lclrresource)类.
 
 ```csharp
 public LclrResource(SheetColorHighlightEnum color)
@@ -45,7 +45,7 @@ public LclrResource(SheetColorHighlightEnum color)
 
 ## LclrResource(byte[]) {#constructor_2}
 
-初始化[`LclrResource`](../../lclrresource)类的新实例。
+初始化[`LclrResource`](../../lclrresource)类.
 
 ```csharp
 public LclrResource(byte[] data)
@@ -59,7 +59,7 @@ public LclrResource(byte[] data)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | Lclr 资源值无效 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | 无效的 Lclr 资源值 |
 
 ### 也可以看看
 

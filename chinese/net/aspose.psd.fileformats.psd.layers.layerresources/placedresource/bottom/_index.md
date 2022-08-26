@@ -1,14 +1,14 @@
 ---
 title: Bottom
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置放置图层在 PSD 图像中的底部位置
+description: 获取或设置放置图层在PSD图像中的底部位置
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/
 ---
 ## PlacedResource.Bottom property
 
-获取或设置放置图层在 PSD 图像中的底部位置。
+获取或设置放置图层在PSD图像中的底部位置。
 
 ```csharp
 public double Bottom { get; set; }

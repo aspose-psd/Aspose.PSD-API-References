@@ -1,14 +1,14 @@
 ---
 title: DefaultReplacementFont
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置默认替换字体如果系统中未显示 PSD 文件中的现有图层字体则在导出为栅格时用于绘制文本的字体 下一个代码片段可以使用默认字体的正确名称 System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily 系列  col.Families 字符串 defaultFontName  family0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName 
+description: 获取或设置默认替换字体导出到光栅时将用于绘制文本的字体如果 PSD 文件中的现有图层字体未在系统中显示 可以使用下一个代码片段来获取默认字体的正确名称 System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily family  col.Families string defaultFontName  family0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName 
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/imageoptionsbase/defaultreplacementfont/
 ---
 ## ImageOptionsBase.DefaultReplacementFont property
 
-获取或设置默认替换字体（如果系统中未显示 PSD 文件中的现有图层字体，则在导出为栅格时用于绘制文本的字体）。 下一个代码片段可以使用默认字体的正确名称： System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] 系列 = col.Families; 字符串 defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });
+获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果 PSD 文件中的现有图层字体未在系统中显示）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });
 
 ```csharp
 public virtual string DefaultReplacementFont { get; set; }

@@ -17,7 +17,7 @@ public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, in
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | stream | Stream | 流。 |
-| psdVersion | Int32 | PSD 版本。 |
+| psdVersion | Int32 | PSD版本。 |
 
 ### 返回值
 
@@ -25,7 +25,7 @@ public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, in
 
 ### 评论
 
-第一个加载器实际上是最后一个注册的。
+第一个加载器实际上是最后注册的。
 
 ### 也可以看看
 

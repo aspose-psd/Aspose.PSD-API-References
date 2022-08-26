@@ -3,7 +3,7 @@ title: XmpTypeBase
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет базовый класс для базового типа XMP.
 type: docs
-weight: 6080
+weight: 6130
 url: /ru/net/aspose.psd.xmp.types/xmptypebase/
 ---
 ## XmpTypeBase class

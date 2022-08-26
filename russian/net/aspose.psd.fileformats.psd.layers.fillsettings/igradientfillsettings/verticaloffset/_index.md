@@ -20,7 +20,7 @@ public double VerticalOffset { get; set; }
 
 ### Примеры
 
-В следующем примере демонстрируется поддержка Gradient FillLayer и параметры редактирования IGradientFillSettings..
+В следующем примере демонстрируется поддержка Gradient FillLayer и параметры редактирования IGradientFillSettings.
 
 ```csharp
 [C#]

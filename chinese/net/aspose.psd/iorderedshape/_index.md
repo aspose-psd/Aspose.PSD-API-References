@@ -3,7 +3,7 @@ title: IOrderedShape
 second_title: Aspose.PSD for .NET API 参考
 description: 表示有序的形状有序形状是具有起点和终点的连续点集 使用特定规则连接的连续点集
 type: docs
-weight: 4380
+weight: 4430
 url: /zh/net/aspose.psd/iorderedshape/
 ---
 ## IOrderedShape interface

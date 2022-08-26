@@ -1,14 +1,14 @@
 ---
 title: CreateInstance
 second_title: Справочник по Aspose.PSD для .NET API
-description: Создает новый экземпляр создателя.
+description: Создает новый экземпляр Creator.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/iimagecreatordescriptor/createinstance/
 ---
 ## IImageCreatorDescriptor.CreateInstance method
 
-Создает новый экземпляр создателя.
+Создает новый экземпляр Creator.
 
 ```csharp
 public IImageCreator CreateInstance()

@@ -1,14 +1,14 @@
 ---
 title: BottomRight
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает нижний правый угол.
+description: Получает или задает правый нижний угол.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/
 ---
 ## VectorShapeRadiiRectangle.BottomRight property
 
-Получает или задает нижний правый угол.
+Получает или задает правый нижний угол.
 
 ```csharp
 public double BottomRight { get; set; }

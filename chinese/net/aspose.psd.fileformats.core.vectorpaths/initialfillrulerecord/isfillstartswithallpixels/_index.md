@@ -1,14 +1,14 @@
 ---
 title: IsFillStartsWithAllPixels
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值指示是否从所有像素开始填充
+description: 获取或设置一个值该值指示是否从所有像素开始填充
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/
 ---
 ## InitialFillRuleRecord.IsFillStartsWithAllPixels property
 
-获取或设置一个值，指示是否从所有像素开始填充。
+获取或设置一个值，该值指示是否从所有像素开始填充。
 
 ```csharp
 public bool IsFillStartsWithAllPixels { get; set; }

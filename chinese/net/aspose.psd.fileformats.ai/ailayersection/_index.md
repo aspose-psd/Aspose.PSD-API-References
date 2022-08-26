@@ -1,14 +1,14 @@
 ---
 title: AiLayerSection
 second_title: Aspose.PSD for .NET API 参考
-description: Ai 格式图层部分
+description: Ai 格式图层 Section
 type: docs
 weight: 1270
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/
 ---
 ## AiLayerSection class
 
-Ai 格式图层部分
+Ai 格式图层 Section
 
 ```csharp
 public sealed class AiLayerSection : AiDataSection
@@ -20,16 +20,16 @@ public sealed class AiLayerSection : AiDataSection
 | --- | --- |
 | [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue) { get; set; } | 获取或设置蓝色分量。 |
 | [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber) { get; set; } | 获取或设置颜色编号。 -1 是来自 Red、Green、Blue 属性的自定义颜色值。 指定图层的颜色设置。 |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue) { get; set; } | 以百分比形式获取或设置暗淡值。 将图层中包含的链接图像和位图图像的强度降低到指定百分比。 |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示该实例是否被释放。 |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue) { get; set; } | 以百分比的形式获取或设置dim值。 将图层中包含的链接图像和位图图像的强度降低到指定的百分比。 |
+| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
 | [Green](../../aspose.psd.fileformats.ai/ailayersection/green) { get; set; } | 获取或设置绿色分量。 |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed) { get; set; } | 获取或设置一个值，指示该图层是否变暗。 降低图层中包含的链接图像和位图图像的强度。 |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked) { get; set; } | 获取或设置一个值，指示该层是否被锁定。 防止更改项目。 |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview) { get; set; } | 获取或设置一个值，指示该图层是否为预览。 以彩色而不是轮廓显示图层中包含的图稿。 |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted) { get; set; } | 获取或设置一个值，指示是否打印此图层。 如果为真，则使图层中包含的图稿可打印。 |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown) { get; set; } | 获取或设置一个值，指示是否显示该层。 如果为真，则在画板上显示图层中包含的所有图稿。 |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate) { get; set; } | 获取或设置一个值，指示该层是否为模板层。 |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name) { get; set; } | 获取或设置图层名称。 指定项目在“层”面板中显示的名称。 |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed) { get; set; } | 获取或设置一个值，该值指示此图层是否变暗。 降低图层中包含的链接图像和位图图像的强度。 |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked) { get; set; } | 获取或设置一个值，该值指示该图层是否被锁定。 防止更改项目。 |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview) { get; set; } | 获取或设置一个值，指示此图层是否为预览。 以彩色而不是轮廓显示图层中包含的图稿。 |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted) { get; set; } | 获取或设置一个值，指示是否打印此图层。 如果为 true，则使图层中包含的图稿可打印。 |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown) { get; set; } | 获取或设置一个值，该值指示是否显示此图层。 如果为 true，则在画板上显示该图层中包含的所有图稿。 |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate) { get; set; } | 获取或设置该图层是否为模板图层的值。 |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name) { get; set; } | 获取或设置图层名称。 指定显示在“图层”面板中的项目名称。 |
 | [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages) { get; } | 获取光栅图像。 |
 | [Red](../../aspose.psd.fileformats.ai/ailayersection/red) { get; set; } | 获取或设置红色分量。 |
 
@@ -38,12 +38,12 @@ public sealed class AiLayerSection : AiDataSection
 | 姓名 | 描述 |
 | --- | --- |
 | [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage)(AiRasterImageSection) | 添加光栅图像。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 释放当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata)() | 获取字符串数据。 |
 
 ### 例子
 
-以下代码演示如何在 AI 格式文件中加载光栅图像的设置。
+以下代码演示了如何在 AI 格式文件中加载光栅图像的设置。
 
 ```csharp
 [C#]

@@ -1,14 +1,14 @@
 ---
 title: GetSaturation
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение насыщенности оттенка-насыщенности-яркости HSB для этой структурыColoraspose.psd/color.
+description: Получает значение насыщенности оттенканасыщенностияркости HSB для этогоColoraspose.psd/colorструктура.
 type: docs
 weight: 1580
 url: /ru/net/aspose.psd/color/getsaturation/
 ---
 ## Color.GetSaturation method
 
-Получает значение насыщенности оттенка-насыщенности-яркости (HSB) для этой структуры[`Color`](../../color).
+Получает значение насыщенности оттенка-насыщенности-яркости (HSB) для этого[`Color`](../../color)структура.
 
 ```csharp
 public float GetSaturation()

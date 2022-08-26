@@ -1,14 +1,14 @@
 ---
 title: PageScale
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает масштаб между мировыми единицами и единицами страницы для этого Aspose.PSD.Graphics.
+description: Получает или задает масштаб между мировыми единицами и единицами страницы для этого Aspose.PSD.Graphics.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/graphics/pagescale/
 ---
 ## Graphics.PageScale property
 
-Получает или устанавливает масштаб между мировыми единицами и единицами страницы для этого Aspose.PSD.Graphics.
+Получает или задает масштаб между мировыми единицами и единицами страницы для этого Aspose.PSD.Graphics.
 
 ```csharp
 public float PageScale { get; set; }

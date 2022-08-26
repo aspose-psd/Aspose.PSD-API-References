@@ -16,7 +16,7 @@ public short RComponent { get; set; }
 
 ### 适当的价值
 
-r 分量。
+r 组件。
 
 ### 也可以看看
 

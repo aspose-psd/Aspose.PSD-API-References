@@ -1,14 +1,14 @@
 ---
 title: FileCreator
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 格式 LnkE / Lnk2 资源的文件创建者
+description: 获取或设置PSD格式LnkE/Lnk2资源的文件创建者
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/
 ---
 ## LinkDataSource.FileCreator property
 
-获取或设置 PSD 格式 LnkE / Lnk2 资源的文件创建者。
+获取或设置PSD格式LnkE/Lnk2资源的文件创建者
 
 ```csharp
 public string FileCreator { get; set; }

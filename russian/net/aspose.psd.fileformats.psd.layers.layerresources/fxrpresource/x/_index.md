@@ -1,14 +1,14 @@
 ---
 title: X
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает x контрольной точки
+description: Получает или задает x контрольной точки
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
 ## FxrpResource.X property
 
-Получает или устанавливает x контрольной точки
+Получает или задает x контрольной точки
 
 ```csharp
 public double X { get; set; }
@@ -16,7 +16,7 @@ public double X { get; set; }
 
 ### Стоимость имущества
 
-x контрольной точки
+X контрольной точки
 
 ### Смотрите также
 

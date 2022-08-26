@@ -1,14 +1,14 @@
 ---
 title: KinsokuOrder
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает порядок кинсоку.
+description: Получает или устанавливает порядок кинсоку.
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/
 ---
 ## ITextParagraph.KinsokuOrder property
 
-Получает или задает порядок кинсоку.
+Получает или устанавливает порядок кинсоку.
 
 ```csharp
 public int KinsokuOrder { get; set; }
@@ -20,7 +20,7 @@ public int KinsokuOrder { get; set; }
 
 ### Примеры
 
-В следующем примере кода демонстрируется редактирование частей текста и стиля их текста.
+В следующем примере кода показано редактирование текстовых частей и стиля их текста.
 
 ```csharp
 [C#]

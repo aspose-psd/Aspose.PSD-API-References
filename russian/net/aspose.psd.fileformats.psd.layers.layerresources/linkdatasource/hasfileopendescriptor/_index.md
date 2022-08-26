@@ -1,14 +1,14 @@
 ---
 title: HasFileOpenDescriptor
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее имеет ли этот источник данных ссылки дескриптор открытия файлаCompId и OriginalCompId.
+description: Получает или задает значение указывающее имеет ли этот источник данных ссылки дескриптор открытия файла CompId и OriginalCompId.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/
 ---
 ## LinkDataSource.HasFileOpenDescriptor property
 
-Получает или задает значение, указывающее, имеет ли этот источник данных ссылки дескриптор открытия файла:CompId и OriginalCompId.
+Получает или задает значение, указывающее, имеет ли этот источник данных ссылки дескриптор открытия файла: CompId и OriginalCompId.
 
 ```csharp
 public bool HasFileOpenDescriptor { get; set; }
@@ -16,7 +16,7 @@ public bool HasFileOpenDescriptor { get; set; }
 
 ### Стоимость имущества
 
-` true` если у этого экземпляра есть дескриптор открытия файла; в противном случае` false` .
+`истинный` если у этого экземпляра есть дескриптор открытия файла; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

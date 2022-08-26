@@ -1,14 +1,14 @@
 ---
 title: DataBackgroundColor
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задаетImageaspose.psd/imagebackgroundColoraspose.psd/color.
+description: Получает или задаетImageaspose.psd/image фонColoraspose.psd/color .
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/loadoptions/databackgroundcolor/
 ---
 ## LoadOptions.DataBackgroundColor property
 
-Получает или задает[`Image`](../../image)background[`Color`](../../color).
+Получает или задает[`Image`](../../image) фон[`Color`](../../color) .
 
 ```csharp
 public Color DataBackgroundColor { get; set; }

@@ -3,7 +3,7 @@ title: LeadingMode
 second_title: Справочник по Aspose.PSD для .NET API
 description: Режим интерлиньяжа Photoshop расстояние между линиями
 type: docs
-weight: 3460
+weight: 3510
 url: /ru/net/aspose.psd.fileformats.psd/leadingmode/
 ---
 ## LeadingMode enumeration

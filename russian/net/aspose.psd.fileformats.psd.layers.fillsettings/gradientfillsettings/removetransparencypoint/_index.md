@@ -16,7 +16,7 @@ public void RemoveTransparencyPoint(IGradientTransparencyPoint point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | IGradientTransparencyPoint | Точка. |
+| point | IGradientTransparencyPoint | Смысл. |
 
 ### Смотрите также
 

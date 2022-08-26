@@ -16,7 +16,7 @@ public Color Color { get; set; }
 
 ### 例子
 
-下面的例子演示了对BackgroundColorResource资源的支持。
+以下示例演示了对 BackgroundColorResource 资源的支持。
 
 ```csharp
 [C#]

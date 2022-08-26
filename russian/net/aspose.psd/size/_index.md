@@ -3,7 +3,7 @@ title: Size
 second_title: Справочник по Aspose.PSD для .NET API
 description: Представляет размер.
 type: docs
-weight: 5430
+weight: 5480
 url: /ru/net/aspose.psd/size/
 ---
 ## Size structure
@@ -18,36 +18,36 @@ public struct Size
 
 | Имя | Описание |
 | --- | --- |
-| [Size](size#constructor)(Point) | Инициализирует новый экземпляр структуры[`Size`](../size)из указанногоТочка. |
-| [Size](size#constructor_1)(int, int) | Инициализирует новый экземпляр структуры[`Size`](../size)из указанных измерений. |
+| [Size](size#constructor)(Point) | Инициализирует новый экземпляр[`Size`](../size) структура из указанного[`Point`](../point) . |
+| [Size](size#constructor_1)(int, int) | Инициализирует новый экземпляр[`Size`](../size) структура из указанных размеров. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| static [Empty](../../aspose.psd/size/empty) { get; } | Получает новый экземпляр структуры[`Size`](../size)сWidthи[`Height`](./height)равны нулю. |
-| [Height](../../aspose.psd/size/height) { get; set; } | Получает или задает вертикальный компонент этого[`Size`](../size). |
-| [IsEmpty](../../aspose.psd/size/isempty) { get; } | Получает значение, указывающее, имеет ли этот[`Size`](../size)ширину и высоту 0. |
-| [Width](../../aspose.psd/size/width) { get; set; } | Получает или задает горизонтальный компонент этого[`Size`](../size). |
+| static [Empty](../../aspose.psd/size/empty) { get; } | Получает новый экземпляр[`Size`](../size) структура, которая имеет[`Width`](./width) а также[`Height`](./height) значения равны нулю. |
+| [Height](../../aspose.psd/size/height) { get; set; } | Получает или задает вертикальный компонент этого[`Size`](../size) . |
+| [IsEmpty](../../aspose.psd/size/isempty) { get; } | Получает значение, указывающее, является ли это[`Size`](../size) имеет ширину и высоту 0. |
+| [Width](../../aspose.psd/size/width) { get; set; } | Получает или задает горизонтальную составляющую этого[`Size`](../size) . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [Add](../../aspose.psd/size/add)(Size, Size) | Добавляет ширину и высоту одной[`Size`](../size)структуры к ширине и высоте другой[`Size`](../size)структура. |
-| static [Ceiling](../../aspose.psd/size/ceiling)(SizeF) | Преобразует указанную структуру[`SizeF`](../sizef)в[`Size`](../size)округлением значений структуры[`Size`](../size)до следующего большего целочисленного значения. |
-| static [Round](../../aspose.psd/size/round)(SizeF) | Преобразует указанную структуру[`SizeF`](../sizef)в[`Size`](../size)структура путем округления значений структуры[`SizeF`](../sizef)до ближайших целых значений. |
-| static [Subtract](../../aspose.psd/size/subtract)(Size, Size) | Вычитает ширину и высоту одной[`Size`](../size)из ширины и высоты другой[`Size`](../size)структура. |
-| static [Truncate](../../aspose.psd/size/truncate)(SizeF) | Преобразует указанную структуру[`SizeF`](../sizef)в[`Size`](../size)усекая значения структуры[`SizeF`](../sizef)до следующих меньших целых значений. |
-| override [Equals](../../aspose.psd/size/equals)(object) | Проверяет, является ли указанный объект[`Size`](../size)с такими же размерами, как у этого[`Size`](../size). |
-| override [GetHashCode](../../aspose.psd/size/gethashcode)() | Возвращает хэш-код для этой[`Size`](../size)структуры. |
-| override [ToString](../../aspose.psd/size/tostring)() | Создает удобочитаемую строку, которая представляет этот[`Size`](../size). |
-| [operator +](../../aspose.psd/size/op_addition) | Добавляет ширину и высоту одной[`Size`](../size)структуры к ширине и высоте другой[`Size`](../size)структура. |
-| [operator ==](../../aspose.psd/size/op_equality) | Проверяет, равны ли две структуры[`Size`](../size). |
-| [explicit operator](../../aspose.psd/size/op_explicit) | Преобразует указанный[`Size`](../size)в[`Point`](../point). |
-| [implicit operator](../../aspose.psd/size/op_implicit) | Преобразует указанный[`Size`](../size)в[`SizeF`](../sizef). |
-| [operator !=](../../aspose.psd/size/op_inequality) | Проверяет, различаются ли две структуры[`Size`](../size). |
-| [operator -](../../aspose.psd/size/op_subtraction) | Вычитает ширину и высоту одной[`Size`](../size)из ширины и высоты другой[`Size`](../size)структура. |
+| static [Add](../../aspose.psd/size/add)(Size, Size) | Добавляет ширину и высоту одного[`Size`](../size) структура по ширине и высоте другой[`Size`](../size)структура. |
+| static [Ceiling](../../aspose.psd/size/ceiling)(SizeF) | Преобразует указанный[`SizeF`](../sizef) структура к[`Size`](../size) структуры путем округления значений[`Size`](../size) структура к следующему более высокому целочисленному значению. |
+| static [Round](../../aspose.psd/size/round)(SizeF) | Преобразует указанный[`SizeF`](../sizef) структура к[`Size`](../size) структуры путем округления значений[`SizeF`](../sizef) структура до ближайших целочисленных значений. |
+| static [Subtract](../../aspose.psd/size/subtract)(Size, Size) | Вычитает ширину и высоту из одного[`Size`](../size) структура от ширины и высоты другой[`Size`](../size)структура. |
+| static [Truncate](../../aspose.psd/size/truncate)(SizeF) | Преобразует указанный[`SizeF`](../sizef) структура к[`Size`](../size) структуру путем усечения значений[`SizeF`](../sizef) структура до следующего меньшего целочисленного значения. |
+| override [Equals](../../aspose.psd/size/equals)(object) | Проверяет, является ли указанный объект[`Size`](../size) с такими же размерами как этот[`Size`](../size) . |
+| override [GetHashCode](../../aspose.psd/size/gethashcode)() | Возвращает хеш-код для этого[`Size`](../size)структура. |
+| override [ToString](../../aspose.psd/size/tostring)() | Создает удобочитаемую строку, представляющую этот[`Size`](../size) . |
+| [operator +](../../aspose.psd/size/op_addition) | Добавляет ширину и высоту одного[`Size`](../size) структура по ширине и высоте другой[`Size`](../size)структура. |
+| [operator ==](../../aspose.psd/size/op_equality) | Проверяет, являются ли два[`Size`](../size) структуры равны. |
+| [explicit operator](../../aspose.psd/size/op_explicit) | Преобразует указанный[`Size`](../size) к[`Point`](../point) . |
+| [implicit operator](../../aspose.psd/size/op_implicit) | Преобразует указанный[`Size`](../size) к[`SizeF`](../sizef) . |
+| [operator !=](../../aspose.psd/size/op_inequality) | Проверяет, являются ли два[`Size`](../size) структуры разные. |
+| [operator -](../../aspose.psd/size/op_subtraction) | Вычитает ширину и высоту из одного[`Size`](../size) структура от ширины и высоты другой[`Size`](../size)структура. |
 
 ### Смотрите также
 

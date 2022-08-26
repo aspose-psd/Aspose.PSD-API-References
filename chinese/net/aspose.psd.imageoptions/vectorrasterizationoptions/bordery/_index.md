@@ -1,14 +1,14 @@
 ---
 title: BorderY
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 Y 边界
+description: 获取或设置边界 Y.
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.imageoptions/vectorrasterizationoptions/bordery/
 ---
 ## VectorRasterizationOptions.BorderY property
 
-获取或设置 Y 边界。
+获取或设置边界 Y.
 
 ```csharp
 public float BorderY { get; set; }
@@ -16,7 +16,7 @@ public float BorderY { get; set; }
 
 ### 适当的价值
 
-Y 边界。
+边界 Y.
 
 ### 也可以看看
 

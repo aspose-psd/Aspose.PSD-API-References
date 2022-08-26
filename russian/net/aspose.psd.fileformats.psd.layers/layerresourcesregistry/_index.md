@@ -3,7 +3,7 @@ title: LayerResourcesRegistry
 second_title: Справочник по Aspose.PSD для .NET API
 description: Определить реестр ресурсов слоя для загрузки файлов PSD.
 type: docs
-weight: 3280
+weight: 3330
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
 ## LayerResourcesRegistry class
@@ -25,8 +25,8 @@ public static class LayerResourcesRegistry
 | Имя | Описание |
 | --- | --- |
 | static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor)(Stream, int) | Получает первый поддерживаемый дескриптор открывателя. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename)(string) | Получает первый поддерживаемый дескриптор по имени типа. |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor)(Stream, int) | Загружает[`LayerResource`](../layerresource)используя первый найденный открыватель, подходящий для указанного*ручей*. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename)(string) | Получает первый поддерживаемый дескриптор по имени его типа. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor)(Stream, int) | Загрузки[`LayerResource`](../layerresource) с помощью первого найденного открывателя, подходящего для указанного*stream* . |
 | static [RegisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener)(ILayerResourceLoader) | Регистрирует открывалку. |
 | static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener)(ILayerResourceLoader) | Отменяет регистрацию открывателя. |
 

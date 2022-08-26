@@ -1,14 +1,14 @@
 ---
 title: CmlsResource
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化CmlsResourceaspose.psd.fileformats.psd.layers.layerresources/cmlsresource类的新实例
+description: 初始化CmlsResourceaspose.psd.fileformats.psd.layers.layerresources/cmlsresource类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/cmlsresource/
 ---
 ## CmlsResource constructor
 
-初始化[`CmlsResource`](../../cmlsresource)类的新实例。
+初始化[`CmlsResource`](../../cmlsresource)类.
 
 ```csharp
 public CmlsResource(byte[] data)

@@ -1,14 +1,14 @@
 ---
 title: LayerLockType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Опции блокировки слоя
+description: Параметры блокировки слоя
 type: docs
-weight: 2520
+weight: 2560
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 ---
 ## LayerLockType enumeration
 
-Опции блокировки слоя
+Параметры блокировки слоя
 
 ```csharp
 [Flags]
@@ -21,7 +21,7 @@ public enum LayerLockType
 | --- | --- | --- |
 | None | `0` | Нет блокировки слоя |
 | LockTransparentPixels | `1` | Частично заблокировать слой — ограничивает редактирование непрозрачными частями слоя. Этот параметр эквивалентен параметру «Сохранить прозрачность» в более ранних версиях Photoshop. |
-| LockImagePixels | `2` | Частично заблокировать слой - Предотвращает изменение пикселей слоя с помощью инструментов рисования. |
+| LockImagePixels | `2` | Частично заблокировать слой — предотвращает изменение пикселей слоя с помощью инструментов рисования. |
 | LockPosition | `4` | Частично заблокировать слой — предотвращает перемещение пикселей слоя. |
 | LockAll | `7` | Заблокировать все свойства слоя |
 

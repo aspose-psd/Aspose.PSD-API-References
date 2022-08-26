@@ -1,14 +1,14 @@
 ---
 title: ToGdiColorMatrix
 second_title: Aspose.PSD for .NET API 参考
-description: 将ColorMatrixaspose.psd/colormatrix转换为ColorMatrix
+description: 转换ColorMatrixaspose.psd/colormatrix到ColorMatrix .
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/colormatrixextensions/togdicolormatrix/
 ---
 ## ColorMatrixExtensions.ToGdiColorMatrix method
 
-将[`ColorMatrix`](../../../aspose.psd/colormatrix)转换为ColorMatrix。
+转换[`ColorMatrix`](../../../aspose.psd/colormatrix)到ColorMatrix .
 
 ```csharp
 public static ColorMatrix ToGdiColorMatrix(ColorMatrix colorMatrix)
@@ -20,7 +20,7 @@ public static ColorMatrix ToGdiColorMatrix(ColorMatrix colorMatrix)
 
 ### 返回值
 
-转换后的ColorMatrix。
+转换后的ColorMatrix .
 
 ### 也可以看看
 

@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.CoreExceptions.ImageFormats
 second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит исключения генерируемые одним из поддерживаемых форматов файлов.
+description: Пространство имен содержит исключения вызванные одним из поддерживаемых форматов файлов.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.coreexceptions.imageformats/
 ---
-Пространство имен содержит исключения, генерируемые одним из поддерживаемых форматов файлов.
+Пространство имен содержит исключения, вызванные одним из поддерживаемых форматов файлов.
 
 ## Классы
 
@@ -14,12 +14,12 @@ url: /ru/net/aspose.psd.coreexceptions.imageformats/
 | --- | --- |
 | [BmpImageException](./bmpimageexception) | Исключение изображения bmp. |
 | [GifImageException](./gifimageexception) | Исключение Gif-изображения. |
-| [Jpeg2000Exception](./jpeg2000exception) | Исключения для файлов Jpeg |
-| [JpegException](./jpegexception) | Исключения для файлов Jpeg |
+| [Jpeg2000Exception](./jpeg2000exception) | Исключения для файлов JPEG |
+| [JpegException](./jpegexception) | Исключения для файлов JPEG |
 | [JpegLoadException](./jpegloadexception) | Представляет исключение загрузки изображения JPEG. |
 | [PngImageException](./pngimageexception) | Исключение для изображений png. |
 | [PsdImageArgumentException](./psdimageargumentexception) | Исключение аргумента изображения psd. |
-| [PsdImageException](./psdimageexception) | Исключение для psd-изображений. |
+| [PsdImageException](./psdimageexception) | Исключение для изображений PSD. |
 | [PsdImageResourceException](./psdimageresourceexception) | Исключение ресурса изображения psd. |
 | [TiffImageException](./tiffimageexception) | Исключение изображения Tiff |
 

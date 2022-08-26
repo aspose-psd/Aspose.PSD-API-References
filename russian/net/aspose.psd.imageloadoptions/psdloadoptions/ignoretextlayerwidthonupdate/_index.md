@@ -1,14 +1,14 @@
 ---
 title: IgnoreTextLayerWidthOnUpdate
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее будет ли игнорироваться фиксированная ширина текстового слоя PSD при выполнении операции UpdateText.
+description: Получает или задает значение указывающее будет ли фиксированная ширина текстового слоя PSD игнорироваться при выполнении операции UpdateText.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
-Получает или задает значение, указывающее, будет ли игнорироваться фиксированная ширина текстового слоя PSD при выполнении операции UpdateText.
+Получает или задает значение, указывающее, будет ли фиксированная ширина текстового слоя PSD игнорироваться при выполнении операции UpdateText.
 
 ```csharp
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
@@ -16,7 +16,7 @@ public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 
 ### Стоимость имущества
 
-` true` if [игнорировать ширину текстового слоя]; в противном случае` false` .
+`истинный` если [игнорировать ширину текстового слоя]; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значение как LnsrResourceType если описано соответствующее перечисление. В противном случае вернуть Unknown
+description: Получает значение LnsrResourceType если описано соответствующее перечисление. В противном случае возвращает Unknown
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/
 ---
 ## LnsrResource.Value property
 
-Получает значение как LnsrResourceType, если описано соответствующее перечисление. В противном случае вернуть Unknown
+Получает значение LnsrResourceType, если описано соответствующее перечисление. В противном случае возвращает Unknown
 
 ```csharp
 public LnsrResourceType Value { get; }

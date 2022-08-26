@@ -1,14 +1,14 @@
 ---
 title: ToKnownColor
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает значениеKnownColoraspose.psd/knowncolorэтогоColoraspose.psd/colorструктура.
+description: ПолучаетKnownColoraspose.psd/knowncolor значение этогоColoraspose.psd/colorструктура.
 type: docs
 weight: 1600
 url: /ru/net/aspose.psd/color/toknowncolor/
 ---
 ## Color.ToKnownColor method
 
-Получает значение[`KnownColor`](../../knowncolor)этого[`Color`](../../color)структура.
+Получает[`KnownColor`](../../knowncolor) значение этого[`Color`](../../color)структура.
 
 ```csharp
 public KnownColor ToKnownColor()
@@ -16,7 +16,7 @@ public KnownColor ToKnownColor()
 
 ### Возвращаемое значение
 
-Элемент перечисления[`KnownColor`](../../knowncolor), если[`Color`](../../color)создается из предопределенного цвета с помощью либо метода[`FromName`](../fromname), либо метода.[`FromKnownColor`](../fromknowncolor)метод; иначе 0.
+Элемент[`KnownColor`](../../knowncolor)перечисление, если[`Color`](../../color) создается из предопределенного цвета с помощью[`FromName`](../fromname) метод или[`FromKnownColor`](../fromknowncolor) метод; иначе 0.
 
 ### Смотрите также
 

@@ -3,7 +3,7 @@ title: LinkDataSource
 second_title: Aspose.PSD for .NET API 参考
 description: 定义 LinkDataSource 类该类包含有关 PSD 文件中的链接文件或资产的信息
 type: docs
-weight: 2630
+weight: 2670
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/
 ---
 ## LinkDataSource class
@@ -18,20 +18,20 @@ public abstract class LinkDataSource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate) { get; set; } | 获取或设置一个指示 PSD 资源是否被锁定的值。 Adobe® Photoshop® СС 库资源的资源锁定状态。 |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime) { get; set; } | 获取或设置 Adobe® Photoshop® СС 库资源的资源修改时间。 |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate) { get; set; } | 获取或设置一个值，指示 PSD 资源是否被锁定。 资源锁定状态，用于 Adobe® Photoshop® СС 库资源。 |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime) { get; set; } | 获取或设置资产修改时间，用于 Adobe® Photoshop® СС 库资产。 |
 | [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid) { get; set; } | 获取或设置 Lnk2 / LnkE Adobe® Photoshop® 资源的 liFE 或 liFD 数据源中的子文档标识符。 |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid) { get; set; } | 获取或设置子文档当前选择的comp的ID，如果没有选择则为-1。 Comps 是设计师可以创建的页面布局的组合。使用图层复合，您可以在单个 Adobe® Photoshop® 文件中创建、管理和查看布局的多个版本 。图层组合是“图层”面板状态的快照。图层复合保存三种类型的图层选项，但 此属性获取智能对象的图层复合选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator) { get; set; } | 获取或设置 PSD 格式 LnkE / Lnk2 资源的文件创建者。 |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid) { get; set; } | 获取或设置子文档当前选择的组合的 ID，如果没有选择，则为 -1。 组合是设计人员可以创建的页面布局的组合。使用图层复合，您可以在单个 Adobe® Photoshop® 文件中创建、管理和查看布局的多个版本 。图层组合是“图层”面板状态的快照。图层组合保存三种类型的图层选项但 此属性获取智能对象的图层组合选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator) { get; set; } | 获取或设置PSD格式LnkE/Lnk2资源的文件创建者 |
 | [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype) { get; set; } | 获取或设置 Adobe® Photoshop® Lnk2 / LnkE 资源包含或链接的嵌入或外部文件的类型。 |
 | [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor) { get; set; } | 获取或设置一个值，该值指示此链接数据源是否具有文件打开描述符：CompId 和 OriginalCompId。 |
 | [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink) { get; } | 获取一个值，该值指示此 PSD 链接数据源是否链接到 Adobe® Photoshop® СС 库项目。 |
 | [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length) { get; } | 获取链接数据源长度（以字节为单位）。 |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid) { get; } | 获取子文档当前选中的 Comp 的原始 ID，如果没有选中则为 -1。 此属性获取智能对象的原始图层组合选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid) { get; } | 获取子文档当前选择的 Comp 的原始 ID，如果没有选择，则为 -1。 此属性获取智能对象的原始层 Comp 选择标识符。 [智能对象中的图层组合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
 | [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename) { get; } | 获取 Adobe® Photoshop® 全局链接资源中数据源的原始文件名。 |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type) { get; } | 获取 Adobe® Photoshop® 全局链接数据源类型，可以是以下之一或无： 与 PSD Lnk2Resource 对应的嵌入链接文件 liFD PSD LnkeResource 对应的外部链接文件 liFE 链接文件别名 liFA |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type) { get; } | 获取 Adobe® Photoshop® 全局链接数据源类型，可以是以下之一或无： 与 PSD Lnk2Resource 对应的嵌入链接文件 liFD_ 与 PSD LnkeResource 对应的外部链接文件 liFE_ 链接文件别名 liFA |
 | [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid) { get; } | 获取PSD链接资源中数据源的全局唯一标识。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version) { get; } | 获取 PSD LnkE / Lnk2 资源中数据源的版本。 |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version) { get; } | 获取PSD LnkE/Lnk2资源中数据源的版本。 |
 
 ### 也可以看看
 

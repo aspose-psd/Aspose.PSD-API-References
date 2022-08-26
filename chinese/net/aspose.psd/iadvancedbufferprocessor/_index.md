@@ -3,7 +3,7 @@ title: IAdvancedBufferProcessor
 second_title: Aspose.PSD for .NET API 参考
 description: 高级缓冲处理器
 type: docs
-weight: 4240
+weight: 4290
 url: /zh/net/aspose.psd/iadvancedbufferprocessor/
 ---
 ## IAdvancedBufferProcessor interface

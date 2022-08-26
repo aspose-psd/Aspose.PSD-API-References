@@ -1,14 +1,14 @@
 ---
 title: Namespaces
 second_title: Aspose.PSD for .NET API 参考
-description: 包含 RDF 文档中使用的名称空间
+description: 包含 RDF 文档中使用的命名空间
 type: docs
-weight: 5650
+weight: 5700
 url: /zh/net/aspose.psd.xmp/namespaces/
 ---
 ## Namespaces class
 
-包含 RDF 文档中使用的名称空间。
+包含 RDF 文档中使用的命名空间。
 
 ```csharp
 public static class Namespaces
@@ -18,7 +18,7 @@ public static class Namespaces
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [DublinCore](../../aspose.psd.xmp/namespaces/dublincore) | Dublic Core 命名空间。 |
+| const [DublinCore](../../aspose.psd.xmp/namespaces/dublincore) | 双重核心命名空间。 |
 | const [Pdf](../../aspose.psd.xmp/namespaces/pdf) | Adobe PDF 命名空间。 |
 | const [Photoshop](../../aspose.psd.xmp/namespaces/photoshop) | Adobe Photoshop 命名空间。 |
 | const [Rdf](../../aspose.psd.xmp/namespaces/rdf) | 资源定义框架命名空间。 |
@@ -31,9 +31,9 @@ public static class Namespaces
 | const [XmpRights](../../aspose.psd.xmp/namespaces/xmprights) | XMP 权限管理命名空间。 |
 | const [XmpTypeDimensions](../../aspose.psd.xmp/namespaces/xmptypedimensions) | XMP 尺寸类型。 |
 | const [XmpTypeFont](../../aspose.psd.xmp/namespaces/xmptypefont) | XMP 字体类型。 |
-| const [XmpTypeResourceEvent](../../aspose.psd.xmp/namespaces/xmptyperesourceevent) | XMP 资源事件 URI。 |
-| const [XmpTypeResourceRef](../../aspose.psd.xmp/namespaces/xmptyperesourceref) | XMP ResourceRef URI。 |
-| const [XmpTypeVersion](../../aspose.psd.xmp/namespaces/xmptypeversion) | XMP 版本。 |
+| const [XmpTypeResourceEvent](../../aspose.psd.xmp/namespaces/xmptyperesourceevent) | XMP 资源事件 URI. |
+| const [XmpTypeResourceRef](../../aspose.psd.xmp/namespaces/xmptyperesourceref) | XMP 资源引用 URI. |
+| const [XmpTypeVersion](../../aspose.psd.xmp/namespaces/xmptypeversion) | XMP 版本. |
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: RelinkToFile
 second_title: Aspose.PSD for .NET API 参考
-description: 将链接的智能对象重新链接到新文件 之后不需要调用UpdateModifiedContent 方法
+description: 将链接的智能对象重新链接到新文件 之后无需调用 UpdateModifiedContent 方法
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/relinktofile/
 ---
 ## SmartObjectLayer.RelinkToFile method
 
-将链接的智能对象重新链接到新文件。 之后不需要调用UpdateModifiedContent 方法。
+将链接的智能对象重新链接到新文件。 之后无需调用 UpdateModifiedContent 方法。
 
 ```csharp
 public void RelinkToFile(string linkedPath)
@@ -16,7 +16,7 @@ public void RelinkToFile(string linkedPath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| linkedPath | String | 链接路径。 |
+| linkedPath | String | 链接的路径。 |
 
 ### 例子
 

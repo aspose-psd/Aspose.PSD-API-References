@@ -1,14 +1,14 @@
 ---
 title: PreblendAlphaIfPresent
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示红色绿色和蓝色分量是否应与背景颜色混合如果存在 Alpha 通道
+description: 获取或设置一个值该值指示红色绿色和蓝色分量是否应与背景颜色混合如果存在 alpha 通道
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/
 ---
 ## JpegOptions.PreblendAlphaIfPresent property
 
-获取或设置一个值，该值指示红色、绿色和蓝色分量是否应与背景颜色混合（如果存在 Alpha 通道）。
+获取或设置一个值，该值指示红色、绿色和蓝色分量是否应与背景颜色混合，如果存在 alpha 通道。
 
 ```csharp
 public bool PreblendAlphaIfPresent { get; set; }

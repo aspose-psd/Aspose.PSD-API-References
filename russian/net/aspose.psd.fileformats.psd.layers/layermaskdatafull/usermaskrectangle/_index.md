@@ -1,14 +1,14 @@
 ---
 title: UserMaskRectangle
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает маску пользователя охватывающую прямоугольник в слое изображения PSD..
+description: Получает или задает прямоугольник маски пользователя окружающий в слое изображения PSD..
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskrectangle/
 ---
 ## LayerMaskDataFull.UserMaskRectangle property
 
-Получает или задает маску пользователя (охватывающую) прямоугольник в слое изображения PSD..
+Получает или задает прямоугольник маски пользователя (окружающий) в слое изображения PSD..
 
 ```csharp
 public Rectangle UserMaskRectangle { get; set; }
@@ -16,7 +16,7 @@ public Rectangle UserMaskRectangle { get; set; }
 
 ### Стоимость имущества
 
-Маска пользователя[`Rectangle`](../../../aspose.psd/rectangle).
+Маска пользователя[`Rectangle`](../../../aspose.psd/rectangle) .
 
 ### Смотрите также
 

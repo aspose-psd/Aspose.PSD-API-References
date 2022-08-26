@@ -16,7 +16,7 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 索引。 |
+| index | Int32 | 指数。 |
 
 ### 返回值
 
@@ -26,7 +26,7 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | RgbMixerChannelLayer 的通道不超过 3 个。第一个通道的索引为 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | RgbMixerChannelLayer 的通道数不超过 3 个。第一个通道的索引为 0 |
 
 ### 也可以看看
 

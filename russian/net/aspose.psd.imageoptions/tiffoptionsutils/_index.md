@@ -1,14 +1,14 @@
 ---
 title: TiffOptionsUtils
 second_title: Справочник по Aspose.PSD для .NET API
-description: Вспомогательный класс опций формата файла tiff.
+description: Служебный класс опций формата файла tiff.
 type: docs
-weight: 4840
+weight: 4890
 url: /ru/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
 ## TiffOptionsUtils class
 
-Вспомогательный класс опций формата файла tiff.
+Служебный класс опций формата файла tiff.
 
 ```csharp
 public class TiffOptionsUtils

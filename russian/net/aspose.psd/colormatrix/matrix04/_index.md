@@ -1,14 +1,14 @@
 ---
 title: Matrix04
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает элемент в 0 нулевой строке и четвертом столбце этогоColorMatrixaspose.psd/colormatrix.
+description: Получает или устанавливает элемент в 0 нулевой строке и четвертом столбце этогоColorMatrixaspose.psd/colormatrix .
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/colormatrix/matrix04/
 ---
 ## ColorMatrix.Matrix04 property
 
-Получает или задает элемент в 0 (нулевой) строке и четвертом столбце этого[`ColorMatrix`](../../colormatrix).
+Получает или устанавливает элемент в 0 (нулевой) строке и четвертом столбце этого[`ColorMatrix`](../../colormatrix) .
 
 ```csharp
 public float Matrix04 { get; set; }

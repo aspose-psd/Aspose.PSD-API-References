@@ -1,14 +1,14 @@
 ---
 title: PattResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 PattResource带有模式数据的资源
+description: 类 PattResource具有模式 data 的资源
 type: docs
-weight: 2800
+weight: 2850
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
 ## PattResource class
 
-类 PattResource。带有模式数据的资源
+类 PattResource。具有模式 data 的资源
 
 ```csharp
 public class PattResource : LayerResource
@@ -18,16 +18,16 @@ public class PattResource : LayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PattResource](pattresource#constructor)() | 初始化[`PattResource`](../pattresource)类的新实例。 |
-| [PattResource](pattresource#constructor_1)(int, PattResourceData[]) | 初始化[`PattResource`](../pattresource)类的新实例。 |
+| [PattResource](pattresource#constructor)() | 初始化[`PattResource`](../pattresource)类. |
+| [PattResource](pattresource#constructor_1)(int, PattResourceData[]) | 初始化[`PattResource`](../pattresource)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/key) { get; } | 获取层资源密钥。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
-| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns) { get; set; } | 获取或设置形态数据； |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/key) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length) { get; } | 以字节为单位获取层资源长度。 |
+| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns) { get; set; } | 获取或设置模式数据； |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature) { get; } | 获取图层资源签名。 |
 
@@ -36,13 +36,13 @@ public class PattResource : LayerResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save)(StreamContainer, int) | 保存资源块数据。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey) | 8 位的“Patt”类型工具信息密钥。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey) | 8 位的“Patt”类型工具信息键。 |
 | const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2) | 16 位的“Pat2”类型工具信息密钥。 |
 | const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3) | 32 位的“Pat3”类型工具信息密钥。 |
 

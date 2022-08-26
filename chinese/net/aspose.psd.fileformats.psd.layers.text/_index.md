@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.FileFormats.Psd.Layers.Text
 second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含用于操作文本层数据的 API
+description: 命名空间包含用于操作文本图层数据的 API
 type: docs
-weight: 320
+weight: 330
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/
 ---
-命名空间包含用于操作文本层数据的 API
+命名空间包含用于操作文本图层数据的 API
 
 ## 课程
 
@@ -17,8 +17,8 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.text/
 
 | 界面 | 描述 |
 | --- | --- |
-| [IText](./itext) | 文本层文本编辑界面 |
-| [ITextParagraph](./itextparagraph) | 处理段落的界面 |
+| [IText](./itext) | 文本图层的文本编辑界面 |
+| [ITextParagraph](./itextparagraph) | 使用paragraph 的界面 |
 | [ITextPortion](./itextportion) | 操作文本部分的接口 |
 | [ITextStyle](./itextstyle) | 使用文本样式的界面 |
 

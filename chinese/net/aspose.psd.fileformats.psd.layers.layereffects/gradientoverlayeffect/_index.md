@@ -1,14 +1,14 @@
 ---
 title: GradientOverlayEffect
 second_title: Aspose.PSD for .NET API 参考
-description: 渐变图层效果
+description: 渐变层效果
 type: docs
-weight: 2070
+weight: 2110
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
 ## GradientOverlayEffect class
 
-渐变图层效果
+渐变层效果
 
 ```csharp
 public class GradientOverlayEffect : ILayerEffect
@@ -20,13 +20,13 @@ public class GradientOverlayEffect : ILayerEffect
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode) { get; set; } | 获取或设置混合模式。 |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype) { get; } | 获取一种效果 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible) { get; set; } | 获取或设置一个值，指示此实例是否可见。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible) { get; set; } | 获取或设置一个指示此实例是否可见的值。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity) { get; set; } | 获取或设置不透明度。 |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings) { get; set; } | 获取或设置设置。 |
 
 ### 例子
 
-下面的代码演示了渐变叠加效果的支持。
+下面的代码演示了对渐变叠加效果的支持。
 
 ```csharp
 [C#]

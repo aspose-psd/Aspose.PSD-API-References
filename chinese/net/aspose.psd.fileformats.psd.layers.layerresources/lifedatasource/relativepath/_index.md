@@ -22,7 +22,7 @@ public string RelativePath { get; set; }
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问 RelativePath 属性，它仅适用于生命数据源 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 您无法访问RelativePath 属性，它仅适用于生活数据源 |
 
 ### 例子
 

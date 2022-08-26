@@ -1,14 +1,14 @@
 ---
 title: XmpPackageBaseCollection
 second_title: Aspose.PSD for .NET API 参考
-description: 表示XmpPackage./xmppackage的集合
+description: 代表集合XmpPackage./xmppackage .
 type: docs
-weight: 6160
+weight: 6210
 url: /zh/net/aspose.psd.xmp/xmppackagebasecollection/
 ---
 ## XmpPackageBaseCollection class
 
-表示[`XmpPackage`](../xmppackage)的集合。
+代表集合[`XmpPackage`](../xmppackage) .
 
 ```csharp
 public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
@@ -30,11 +30,11 @@ public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add)(XmpPackage) | 添加[`XmpPackage`](../xmppackage)的新实例。 |
-| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear)() | 清除集合中的所有[`XmpPackage`](../xmppackage)。 |
+| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add)(XmpPackage) | 添加新的实例[`XmpPackage`](../xmppackage) . |
+| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear)() | 全部清除[`XmpPackage`](../xmppackage)内部集合. |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator)() | 返回一个遍历集合的枚举器。 |
-| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage)(string) | 通过其命名空间URI 获取[`XmpPackage`](../xmppackage)。 |
-| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages)() | 获取[`XmpPackage`](../xmppackage)的数组。 |
+| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage)(string) | 获取[`XmpPackage`](../xmppackage)通过它的 namespaceURI. |
+| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages)() | 获取数组[`XmpPackage`](../xmppackage) . |
 | [Remove](../../aspose.psd.xmp/xmppackagebasecollection/remove)(XmpPackage) | 删除指定的 XMP 包。 |
 
 ### 也可以看看

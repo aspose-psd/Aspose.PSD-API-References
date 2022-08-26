@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/
 ---
 ## PsdImageResourceException class
 
-psd图片资源异常。
+psd图片资源异常
 
 ```csharp
 public class PsdImageResourceException : PsdImageException
@@ -18,8 +18,8 @@ public class PsdImageResourceException : PsdImageException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PsdImageResourceException](psdimageresourceexception#constructor)(string, ResourceBlock) | 初始化[`PsdImageResourceException`](../psdimageresourceexception)类的新实例。 |
-| [PsdImageResourceException](psdimageresourceexception#constructor_1)(string, ResourceBlock, Exception) | 初始化[`PsdImageResourceException`](../psdimageresourceexception)类的新实例。 |
+| [PsdImageResourceException](psdimageresourceexception#constructor)(string, ResourceBlock) | 初始化[`PsdImageResourceException`](../psdimageresourceexception)类. |
+| [PsdImageResourceException](psdimageresourceexception#constructor_1)(string, ResourceBlock, Exception) | 初始化[`PsdImageResourceException`](../psdimageresourceexception)类. |
 
 ## 特性
 

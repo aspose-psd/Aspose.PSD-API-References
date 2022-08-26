@@ -1,14 +1,14 @@
 ---
 title: AsyncTaskProgress
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаAsyncTaskProgressaspose.psd.asynctask/asynctaskprogress.
+description: Инициализирует новый экземплярAsyncTaskProgressaspose.psd.asynctask/asynctaskprogress класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.asynctask/asynctaskprogress/asynctaskprogress/
 ---
 ## AsyncTaskProgress constructor
 
-Инициализирует новый экземпляр класса[`AsyncTaskProgress`](../../asynctaskprogress).
+Инициализирует новый экземпляр[`AsyncTaskProgress`](../../asynctaskprogress) класс.
 
 ```csharp
 public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
@@ -16,7 +16,7 @@ public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| progressPercentage | Int32 | Процент выполнения. |
+| progressPercentage | Int32 | Процент прогресса. |
 | duration | TimeSpan | Продолжительность. |
 
 ### Смотрите также

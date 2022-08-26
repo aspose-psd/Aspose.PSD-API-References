@@ -1,7 +1,7 @@
 ---
 title: GPSImgDirection
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает GPS-направление изображения при его захвате.
+description: Получает или задает GPSнаправление изображения при его захвате.
 type: docs
 weight: 500
 url: /ru/net/aspose.psd.exif/exifdata/gpsimgdirection/
@@ -16,7 +16,7 @@ public TiffRational GPSImgDirection { get; set; }
 
 ### Стоимость имущества
 
-GPS-направление изображения при захвате.
+GPS-направление изображения при его захвате.
 
 ### Смотрите также
 

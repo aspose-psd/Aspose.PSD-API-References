@@ -1,14 +1,14 @@
 ---
 title: PlacedLayerType
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 文件中智能对象图层数据的类型
+description: 获取或设置PSD文件中智能对象图层数据的类型
 type: docs
 weight: 170
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/
 ---
 ## SmartObjectResource.PlacedLayerType property
 
-获取或设置 PSD 文件中智能对象图层数据的类型。
+获取或设置PSD文件中智能对象图层数据的类型。
 
 ```csharp
 public override PlacedLayerType PlacedLayerType { get; set; }
@@ -16,7 +16,7 @@ public override PlacedLayerType PlacedLayerType { get; set; }
 
 ### 适当的价值
 
-智能对象层数据的类型。
+智能对象图层数据的类型。
 
 ### 也可以看看
 

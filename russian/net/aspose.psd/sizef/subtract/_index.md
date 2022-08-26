@@ -1,14 +1,14 @@
 ---
 title: Subtract
 second_title: Справочник по Aspose.PSD для .NET API
-description: Вычитает ширину и высоту однойSizeFaspose.psd/sizefструктуры из ширины и высоты другойSizeFaspose.psd/sizefструктура.
+description: Вычитает ширину и высоту из одногоSizeFaspose.psd/sizef структура от ширины и высоты другойSizeFaspose.psd/sizefструктура.
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/sizef/subtract/
 ---
 ## SizeF.Subtract method
 
-Вычитает ширину и высоту одной[`SizeF`](../../sizef)структуры из ширины и высоты другой[`SizeF`](../../sizef)структура.
+Вычитает ширину и высоту из одного[`SizeF`](../../sizef) структура от ширины и высоты другой[`SizeF`](../../sizef)структура.
 
 ```csharp
 public static SizeF Subtract(SizeF size1, SizeF size2)
@@ -16,12 +16,12 @@ public static SizeF Subtract(SizeF size1, SizeF size2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size1 | SizeF | Структура[`SizeF`](../../sizef)в левой части оператора вычитания . |
-| size2 | SizeF | Структура[`SizeF`](../../sizef)в правой части оператора вычитания. |
+| size1 | SizeF | [`SizeF`](../../sizef) структура в левой части оператора вычитания. |
+| size2 | SizeF | [`SizeF`](../../sizef) структура в правой части оператора вычитания. |
 
 ### Возвращаемое значение
 
-[`SizeF`](../../sizef)результат операции вычитания.
+[`SizeF`](../../sizef)это результат операции вычитания.
 
 ### Смотрите также
 

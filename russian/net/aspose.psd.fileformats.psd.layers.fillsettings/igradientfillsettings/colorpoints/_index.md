@@ -16,11 +16,11 @@ public IGradientColorPoint[] ColorPoints { get; set; }
 
 ### Стоимость имущества
 
-Цвет точек.
+Очки цвета.
 
 ### Примеры
 
-В следующем примере демонстрируется поддержка Gradient FillLayer и параметры редактирования IGradientFillSettings..
+В следующем примере демонстрируется поддержка Gradient FillLayer и параметры редактирования IGradientFillSettings.
 
 ```csharp
 [C#]

@@ -3,7 +3,7 @@ title: LayerFlags
 second_title: Справочник по Aspose.PSD для .NET API
 description: Флаги слоя
 type: docs
-weight: 2150
+weight: 2190
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerflags/
 ---
 ## LayerFlags enumeration
@@ -19,11 +19,11 @@ public enum LayerFlags : byte
 
 | Имя | Ценность | Описание |
 | --- | --- | --- |
-| TransparencyProtected | `1` | Прозрачность защищена |
-| Visible | `2` | Флаг видимости |
+| TransparencyProtected | `1` | Прозрачность protected |
+| Visible | `2` | Видимый флаг |
 | Obsolete | `4` | Устаревший флаг |
-| HasUsefulInformation | `8` | 1 для Photoshop 5.0 и более поздних версий, сообщает, содержит ли бит 4 полезную информацию |
-| PixelDataIrrelevantToAppearenceInDocument | `10` | Данные пикселей, не относящиеся к отображению в документе |
+| HasUsefulInformation | `8` | 1 для Photoshop 5.0 и более поздних версий сообщает, содержит ли бит 4 полезную информацию |
+| PixelDataIrrelevantToAppearenceInDocument | `10` | Пиксельные данные, не относящиеся к отображению в документе |
 | Undocumented | `20` | Недокументированный флаг |
 
 ### Смотрите также

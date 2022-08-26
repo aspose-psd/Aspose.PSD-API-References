@@ -1,14 +1,14 @@
 ---
 title: Strikethrough
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее перечеркнуто ли.
+description: Получает или задает значение указывающее будет ли перечеркнуто.
 type: docs
 weight: 210
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
 ## ITextStyle.Strikethrough property
 
-Получает или задает значение, указывающее, [перечеркнуто ли].
+Получает или задает значение, указывающее, будет ли [перечеркнуто].
 
 ```csharp
 public bool Strikethrough { get; set; }

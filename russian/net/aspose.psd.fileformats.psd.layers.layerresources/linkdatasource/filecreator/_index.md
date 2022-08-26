@@ -1,14 +1,14 @@
 ---
 title: FileCreator
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает создателя файла в формате PSD ресурс LnkE/Lnk2.
+description: Получает или задает создатель файла в формате PSD LnkE/Lnk2 ресурса.
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/
 ---
 ## LinkDataSource.FileCreator property
 
-Получает или задает создателя файла в формате PSD ресурс LnkE/Lnk2.
+Получает или задает создатель файла в формате PSD LnkE/Lnk2 ресурса.
 
 ```csharp
 public string FileCreator { get; set; }

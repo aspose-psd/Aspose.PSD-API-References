@@ -1,14 +1,14 @@
 ---
 title: InterpolationColors
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задаетColorBlendaspose.psd/colorblend определяющий многоцветный линейный градиент.
+description: Получает или задаетColorBlendaspose.psd/colorblend который определяет многоцветный линейный градиент.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.brushes/pathmulticolorgradientbrush/interpolationcolors/
 ---
 ## PathMulticolorGradientBrush.InterpolationColors property
 
-Получает или задает[`ColorBlend`](../../../aspose.psd/colorblend), определяющий многоцветный линейный градиент.
+Получает или задает[`ColorBlend`](../../../aspose.psd/colorblend) который определяет многоцветный линейный градиент.
 
 ```csharp
 public ColorBlend InterpolationColors { get; set; }
@@ -16,7 +16,7 @@ public ColorBlend InterpolationColors { get; set; }
 
 ### Стоимость имущества
 
-A[`ColorBlend`](../../../aspose.psd/colorblend)который определяет многоцветный линейный градиент.
+А[`ColorBlend`](../../../aspose.psd/colorblend) который определяет многоцветный линейный градиент.
 
 ### Смотрите также
 

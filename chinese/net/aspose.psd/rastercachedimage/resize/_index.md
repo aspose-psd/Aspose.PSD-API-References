@@ -16,13 +16,13 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新高度。 |
 | resizeType | ResizeType | 调整大小类型。 |
 
 ### 例子
 
-以下代码演示如何使用新的 SinC 调整大小类型调整图像大小。
+以下代码演示了如何使用新的 SinC 调整大小类型调整图像大小。
 
 ```csharp
 [C#]
@@ -38,7 +38,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示如何使用新的 Bell 调整大小类型调整图像大小。
+以下代码演示了如何使用新的 Bell 调整大小类型调整图像大小。
 
 ```csharp
 [C#]
@@ -86,7 +86,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示如何使用新的 CubicBSpline 调整大小类型调整图像大小。
+以下代码演示了如何使用新的 CubicBSpline 调整大小类型调整图像大小。
 
 ```csharp
 [C#]
@@ -102,7 +102,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示如何使用新的 CubicConvolution 调整大小类型调整图像大小。
+以下代码演示了如何使用新的 CubicConvolution 调整大小类型调整图像大小。
 
 ```csharp
 [C#]
@@ -137,7 +137,7 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| newWidth | Int32 | 新宽度。 |
+| newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新高度。 |
 | settings | ImageResizeSettings | 调整大小设置。 |
 

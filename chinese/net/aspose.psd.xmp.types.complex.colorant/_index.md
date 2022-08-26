@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.Xmp.Types.Complex.Colorant
 second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含的类代表包含文档中使用的着色剂样本特征的结构
+description: 命名空间包含的类表示包含文档中使用的着色剂样本特征的结构
 type: docs
-weight: 610
+weight: 620
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/
 ---
-命名空间包含的类代表包含文档中使用的着色剂（样本）特征的结构。
+命名空间包含的类表示包含文档中使用的着色剂（样本）特征的结构。
 
 ## 课程
 

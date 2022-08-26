@@ -1,14 +1,14 @@
 ---
 title: KnkoResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 KnkoResource 此资源包含有关剪辑元素混合的信息
+description: 类 KnkoResource. 此资源包含有关剪辑元素混合的信息
 type: docs
-weight: 2510
+weight: 2550
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
 ## KnkoResource class
 
-类 KnkoResource。 此资源包含有关剪辑元素混合的信息。
+类 KnkoResource. 此资源包含有关剪辑元素混合的信息。
 
 ```csharp
 public class KnkoResource : BooleanResource
@@ -18,17 +18,17 @@ public class KnkoResource : BooleanResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [KnkoResource](knkoresource#constructor)() | 初始化[`KnkoResource`](../knkoresource)类的新实例。 |
-| [KnkoResource](knkoresource#constructor_1)(bool) | 初始化[`KnkoResource`](../knkoresource)类的新实例。 |
-| [KnkoResource](knkoresource#constructor_2)(byte[]) | 初始化[`KnkoResource`](../knkoresource)类的新实例。 具有自定义或未知值 |
+| [KnkoResource](knkoresource#constructor)() | 初始化[`KnkoResource`](../knkoresource)类. |
+| [KnkoResource](knkoresource#constructor_1)(bool) | 初始化[`KnkoResource`](../knkoresource)类. |
+| [KnkoResource](knkoresource#constructor_2)(byte[]) | 初始化[`KnkoResource`](../knkoresource) class. 具有自定义或未知值 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key) { get; } | 获取层资源密钥。 |
-| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout) { get; set; } | 获取或设置一个值，指示是否[混合内部元素]。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length) { get; } | 获取层资源长度（以字节为单位）。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key) { get; } | 获取图层资源键。 |
+| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout) { get; set; } | 获取或设置一个值，指示是否[混合内部元素]. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length) { get; } | 以字节为单位获取层资源长度。 |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion) { get; } | 获取psd版本。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature) { get; } | 获取签名。 |
 
@@ -37,7 +37,7 @@ public class KnkoResource : BooleanResource
 | 姓名 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save)(StreamContainer, int) | 保存指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回代表此实例的String。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
 
 ## 字段
 

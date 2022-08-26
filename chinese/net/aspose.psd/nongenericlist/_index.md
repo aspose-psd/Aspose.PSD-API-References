@@ -3,7 +3,7 @@ title: NonGenericList
 second_title: Aspose.PSD for .NET API 参考
 description: 非通用对象列表
 type: docs
-weight: 5030
+weight: 5080
 url: /zh/net/aspose.psd/nongenericlist/
 ---
 ## NonGenericList class
@@ -18,32 +18,32 @@ public class NonGenericList : IList
 
 | 姓名 | 描述 |
 | --- | --- |
-| [NonGenericList](nongenericlist)(IList) | 初始化[`NonGenericList`](../nongenericlist)类的新实例。 |
+| [NonGenericList](nongenericlist)(IList) | 初始化[`NonGenericList`](../nongenericlist)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Count](../../aspose.psd/nongenericlist/count) { get; } | 获取ICollection中包含的元素数。 |
-| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize) { get; } | 获取一个值，该值指示IList是否具有固定大小。 |
-| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly) { get; } | 获取一个值，该值指示IList是否为只读。 |
-| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized) { get; } | 获取一个值，该值指示对ICollection的访问是否同步（线程安全）。 |
+| [Count](../../aspose.psd/nongenericlist/count) { get; } | 获取包含在ICollection . |
+| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize) { get; } | 获取一个值，该值指示是否IList有一个固定的大小。 |
+| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly) { get; } | 获取一个值，该值指示是否IList是只读的。 |
+| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized) { get; } | 获取一个值，表示是否访问ICollection已同步（线程安全）。 |
 | [Item](../../aspose.psd/nongenericlist/item) { get; set; } | 获取或设置指定索引处的元素。 |
-| [SyncRoot](../../aspose.psd/nongenericlist/syncroot) { get; } | 获取可用于同步访问ICollection的对象。 |
+| [SyncRoot](../../aspose.psd/nongenericlist/syncroot) { get; } | 获取可用于同步访问的对象ICollection . |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Add](../../aspose.psd/nongenericlist/add)(object) | 将项目添加到IList。 |
-| [Clear](../../aspose.psd/nongenericlist/clear)() | 从IList中删除所有项目。 |
-| [Contains](../../aspose.psd/nongenericlist/contains)(object) | 确定IList是否包含特定值。 |
-| [CopyTo](../../aspose.psd/nongenericlist/copyto)(Array, int) | 将ICollection的元素复制到Array，从特定的Array 开始索引。 |
+| [Add](../../aspose.psd/nongenericlist/add)(object) | 将一个项目添加到IList . |
+| [Clear](../../aspose.psd/nongenericlist/clear)() | 从IList . |
+| [Contains](../../aspose.psd/nongenericlist/contains)(object) | 确定是否IList包含特定值。 |
+| [CopyTo](../../aspose.psd/nongenericlist/copyto)(Array, int) | 复制元素ICollection对一个Array，从一个特定的开始Array索引. |
 | [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator)() | 返回一个遍历集合的枚举器。 |
-| [IndexOf](../../aspose.psd/nongenericlist/indexof)(object) | 确定IList中特定项目的索引。 |
-| [Insert](../../aspose.psd/nongenericlist/insert)(int, object) | 在指定索引处将项目插入IList。 |
-| [Remove](../../aspose.psd/nongenericlist/remove)(object) | 从IList中删除特定对象的第一个匹配项。 |
-| [RemoveAt](../../aspose.psd/nongenericlist/removeat)(int) | 删除指定索引处的IList项。 |
+| [IndexOf](../../aspose.psd/nongenericlist/indexof)(object) | 确定特定项目的索引IList . |
+| [Insert](../../aspose.psd/nongenericlist/insert)(int, object) | 向IList在指定的索引处。 |
+| [Remove](../../aspose.psd/nongenericlist/remove)(object) | 从IList . |
+| [RemoveAt](../../aspose.psd/nongenericlist/removeat)(int) | 删除IList指定索引处的项目。 |
 
 ### 也可以看看
 

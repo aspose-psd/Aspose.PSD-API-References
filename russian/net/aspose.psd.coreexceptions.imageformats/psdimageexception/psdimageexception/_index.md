@@ -1,14 +1,14 @@
 ---
 title: PsdImageException
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPsdImageExceptionaspose.psd.coreexceptions.imageformats/psdimageexception.
+description: Инициализирует новый экземплярPsdImageExceptionaspose.psd.coreexceptions.imageformats/psdimageexception класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.imageformats/psdimageexception/psdimageexception/
 ---
 ## PsdImageException(string) {#constructor}
 
-Инициализирует новый экземпляр класса[`PsdImageException`](../../psdimageexception).
+Инициализирует новый экземпляр[`PsdImageException`](../../psdimageexception) класс.
 
 ```csharp
 public PsdImageException(string message)
@@ -28,7 +28,7 @@ public PsdImageException(string message)
 
 ## PsdImageException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PsdImageException`](../../psdimageexception).
+Инициализирует новый экземпляр[`PsdImageException`](../../psdimageexception) класс.
 
 ```csharp
 public PsdImageException(string message, Exception innerException)

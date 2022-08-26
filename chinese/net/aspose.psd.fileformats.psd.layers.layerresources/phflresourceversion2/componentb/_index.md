@@ -1,14 +1,14 @@
 ---
 title: ComponentB
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 B 组件
+description: 获取或设置B组件
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentb/
 ---
 ## PhflResourceVersion2.ComponentB property
 
-获取或设置 B 组件
+获取或设置B组件
 
 ```csharp
 public short ComponentB { get; set; }

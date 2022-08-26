@@ -16,7 +16,7 @@ public CurvesManager GetActiveManager()
 
 ### 返回值
 
-活动经理
+活跃的经理
 
 ### 也可以看看
 

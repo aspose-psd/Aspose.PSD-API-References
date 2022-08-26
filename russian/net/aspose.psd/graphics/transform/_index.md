@@ -1,14 +1,14 @@
 ---
 title: Transform
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает копию геометрического преобразования мира для этогоGraphicsaspose.psd/graphics.
+description: Получает или задает копию геометрического преобразования мира для этогоGraphicsaspose.psd/graphics .
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/graphics/transform/
 ---
 ## Graphics.Transform property
 
-Получает или задает копию геометрического преобразования мира для этого[`Graphics`](../../graphics).
+Получает или задает копию геометрического преобразования мира для этого[`Graphics`](../../graphics) .
 
 ```csharp
 public Matrix Transform { get; set; }
@@ -16,7 +16,7 @@ public Matrix Transform { get; set; }
 
 ### Стоимость имущества
 
-Копия[`Matrix`](../../matrix)которая представляет геометрическое преобразование мира для этого[`Graphics`](../../graphics).
+Копия[`Matrix`](../../matrix) который представляет геометрическое преобразование мира для этого[`Graphics`](../../graphics) .
 
 ### Смотрите также
 

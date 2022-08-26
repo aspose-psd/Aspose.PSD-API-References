@@ -22,7 +22,7 @@ public short InputShadowLevel { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Входной уровень тени можно задать только в диапазоне от 0 до " + (this.InputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Входной уровень тени можно задать только в диапазоне от 0 до "+ (this.InputHighlightLevel - 2) |
 
 ### Смотрите также
 

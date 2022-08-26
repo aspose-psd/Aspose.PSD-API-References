@@ -16,7 +16,7 @@ public Layer[] Layers { get; set; }
 
 ### 适当的价值
 
-层。
+层数。
 
 ### 也可以看看
 

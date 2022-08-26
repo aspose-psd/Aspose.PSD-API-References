@@ -1,14 +1,14 @@
 ---
 title: Red
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает красный цвет.
+description: Получает или задает красный цвет.
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/
 ---
 ## RgbMixerChannel.Red property
 
-Получает или устанавливает красный цвет.
+Получает или задает красный цвет.
 
 ```csharp
 public short Red { get; set; }

@@ -16,7 +16,7 @@ public AiFinalizeSection FinalizeSection { get; }
 
 ### Стоимость имущества
 
-Раздел завершения.
+Раздел финализации.
 
 ### Смотрите также
 

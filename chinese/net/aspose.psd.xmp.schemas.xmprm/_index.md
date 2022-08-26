@@ -1,12 +1,12 @@
 ---
 title: Aspose.PSD.Xmp.Schemas.XmpRm
 second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含与权限管理相关的帮助类常量和方法 这些属性指定有关与资源相关的法律限制的信息
+description: 命名空间包含与权限管理帮助程序类常量和方法相关的内容 这些属性指定有关与资源相关的法律限制的信息
 type: docs
-weight: 570
+weight: 580
 url: /zh/net/aspose.psd.xmp.schemas.xmprm/
 ---
-命名空间包含与权限管理相关的帮助类、常量和方法。 这些属性指定有关与资源相关的法律限制的信息。
+命名空间包含与权限管理帮助程序类、常量和方法相关的内容。 这些属性指定有关与资源相关的法律限制的信息。
 
 ## 课程
 

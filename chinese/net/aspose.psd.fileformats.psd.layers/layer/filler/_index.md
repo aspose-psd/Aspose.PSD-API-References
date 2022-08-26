@@ -16,7 +16,7 @@ public byte Filler { get; set; }
 
 ### 适当的价值
 
-层填充。
+图层填充。
 
 ### 也可以看看
 

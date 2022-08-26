@@ -1,14 +1,14 @@
 ---
 title: ColorRangeHsl
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаColorRangeHslaspose.psd.fileformats.psd.layers.layerresources/colorrangehsl.
+description: Инициализирует новый экземплярColorRangeHslaspose.psd.fileformats.psd.layers.layerresources/colorrangehsl класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
 ## ColorRangeHsl() {#constructor}
 
-Инициализирует новый экземпляр класса[`ColorRangeHsl`](../../colorrangehsl).
+Инициализирует новый экземпляр[`ColorRangeHsl`](../../colorrangehsl) класс.
 
 ```csharp
 public ColorRangeHsl()
@@ -24,7 +24,7 @@ public ColorRangeHsl()
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ColorRangeHsl`](../../colorrangehsl).
+Инициализирует новый экземпляр[`ColorRangeHsl`](../../colorrangehsl) класс.
 
 ```csharp
 public ColorRangeHsl(byte[] data)
@@ -38,7 +38,7 @@ public ColorRangeHsl(byte[] data)
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | Ожидаемая длина " + this.GetType() + " равна 14 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception) | Ожидаемая длина " + this.GetType() + " равна 14. |
 
 ### Смотрите также
 

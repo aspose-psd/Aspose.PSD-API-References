@@ -1,14 +1,14 @@
 ---
 title: ClblResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаClblResourceaspose.psd.fileformats.psd.layers.layerresources/clblresource.
+description: Инициализирует новый экземплярClblResourceaspose.psd.fileformats.psd.layers.layerresources/clblresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
 ## ClblResource(bool) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`ClblResource`](../../clblresource).
+Инициализирует новый экземпляр[`ClblResource`](../../clblresource) класс.
 
 ```csharp
 public ClblResource(bool blendClippedElements)
@@ -16,7 +16,7 @@ public ClblResource(bool blendClippedElements)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| blendClippedElements | Boolean | , если установлено значение` true` [смешивать обрезанные элементы] . |
+| blendClippedElements | Boolean | если установлено`истинный` [смешивать обрезанные элементы]. |
 
 ### Смотрите также
 
@@ -28,7 +28,7 @@ public ClblResource(bool blendClippedElements)
 
 ## ClblResource() {#constructor}
 
-Инициализирует новый экземпляр класса[`ClblResource`](../../clblresource).
+Инициализирует новый экземпляр[`ClblResource`](../../clblresource) класс.
 
 ```csharp
 public ClblResource()
@@ -44,7 +44,7 @@ public ClblResource()
 
 ## ClblResource(byte[]) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`ClblResource`](../../clblresource). С пользовательским или неизвестным значением
+Инициализирует новый экземпляр[`ClblResource`](../../clblresource) class. С пользовательским или неизвестным значением
 
 ```csharp
 public ClblResource(byte[] data)

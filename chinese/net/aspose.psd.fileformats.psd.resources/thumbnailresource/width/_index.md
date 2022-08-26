@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/thumbnailresource/width/
 ---
 ## ThumbnailResource.Width property
 
-获取或设置缩略图的宽度（以像素为单位）。
+获取或设置缩略图的宽度，以像素为单位。
 
 ```csharp
 public int Width { get; set; }

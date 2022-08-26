@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: Aspose.PSD for .NET API 参考
-description: 测试指定对象是否为Sizeaspose.psd/size其尺寸与此Size相同
+description: 测试指定对象是否为Sizeaspose.psd/size与此尺寸相同Sizeaspose.psd/size .
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/size/equals/
 ---
 ## Size.Equals method
 
-测试指定对象是否为[`Size`](../../size)，其尺寸与此Size相同。
+测试指定对象是否为[`Size`](../../size)与此尺寸相同[`Size`](../../size) .
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,11 +16,11 @@ public override bool Equals(object obj)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | Object进行测试。 |
+| obj | Object | 这Object去测试。 |
 
 ### 返回值
 
-如果*obj*是[`Size`](../../size)并且与此T具有相同的宽度和高度，则为真:Aspose.PSD.Size;否则为假。
+真如果*obj*是一个[`Size`](../../size)并具有与此相同的宽度和高度[`Size`](../../size);否则为假。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Intersect
 second_title: Справочник по Aspose.PSD для .NET API
-description: Возвращает структуруRectangleFaspose.psd/rectanglef представляющую пересечение двух прямоугольников. Если пересечения нет и возвращается пустойRectangleFaspose.psd/rectanglef.
+description: ВозвращаетRectangleFaspose.psd/rectanglef структура представляющая собой пересечение двух прямоугольников. Если пересечения нет и пустоRectangleFaspose.psd/rectanglef возвращается.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/rectanglef/intersect/
 ---
 ## Intersect(RectangleF, RectangleF)
 
-Возвращает структуру[`RectangleF`](../../rectanglef), представляющую пересечение двух прямоугольников. Если пересечения нет и возвращается пустой[`RectangleF`](../../rectanglef).
+Возвращает[`RectangleF`](../../rectanglef) структура, представляющая собой пересечение двух прямоугольников. Если пересечения нет и пусто[`RectangleF`](../../rectanglef) возвращается.
 
 ```csharp
 public static RectangleF Intersect(RectangleF a, RectangleF b)
@@ -16,12 +16,12 @@ public static RectangleF Intersect(RectangleF a, RectangleF b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | RectangleF | Первый пересекающийся прямоугольник. |
+| a | RectangleF | Первый прямоугольник, который нужно пересечь. |
 | b | RectangleF | Второй прямоугольник для пересечения. |
 
 ### Возвращаемое значение
 
-Третья[`RectangleF`](../../rectanglef)структура, размер которой представляет собой перекрывающуюся область двух указанных прямоугольников.
+Третий[`RectangleF`](../../rectanglef) структура, размер которой представляет собой перекрывающуюся область двух заданных прямоугольников.
 
 ### Смотрите также
 
@@ -33,7 +33,7 @@ public static RectangleF Intersect(RectangleF a, RectangleF b)
 
 ## Intersect(RectangleF)
 
-Заменяет эту структуру[`RectangleF`](../../rectanglef)пересечением самой себя и указанной[`RectangleF`](../../rectanglef)структура.
+Заменяет это[`RectangleF`](../../rectanglef) структура с пересечением себя и заданного[`RectangleF`](../../rectanglef)структура.
 
 ```csharp
 public void Intersect(RectangleF rect)
@@ -41,7 +41,7 @@ public void Intersect(RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | Прямоугольник для пересечения. |
+| rect | RectangleF | Прямоугольник пересечения. |
 
 ### Смотрите также
 

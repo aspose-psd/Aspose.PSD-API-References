@@ -1,14 +1,14 @@
 ---
 title: Char
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или устанавливает символ.
+description: Получает или задает char.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/
 ---
 ## TypeToolLineInfo.Char property
 
-Получает или устанавливает символ.
+Получает или задает char.
 
 ```csharp
 public char Char { get; set; }

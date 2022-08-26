@@ -1,14 +1,14 @@
 ---
 title: Overprint
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置一个值该值指示此StrokeEffectaspose.psd.fileformats.psd.layers.layereffects/strokeeffect是否会将笔触与当前图层内容混合
+description: 获取或设置一个值该值指示是否StrokeEffectaspose.psd.fileformats.psd.layers.layereffects/strokeeffect将描边与当前图层内容混合
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/
 ---
 ## StrokeEffect.Overprint property
 
-获取或设置一个值，该值指示此[`StrokeEffect`](../../strokeeffect)是否会将笔触与当前图层内容混合。
+获取或设置一个值，该值指示是否[`StrokeEffect`](../../strokeeffect)将描边与当前图层内容混合。
 
 ```csharp
 public bool Overprint { get; set; }
@@ -16,7 +16,7 @@ public bool Overprint { get; set; }
 
 ### 适当的价值
 
-` true` 如果必须将笔划与当前图层内容混合；否则，` false` 。
+`真的`是否必须将笔画与当前图层内容混合；否则，`错误的` .
 
 ### 例子
 

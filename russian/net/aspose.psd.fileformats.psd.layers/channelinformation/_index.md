@@ -3,7 +3,7 @@ title: ChannelInformation
 second_title: Справочник по Aspose.PSD для .NET API
 description: Информация о канале.
 type: docs
-weight: 1840
+weight: 1880
 url: /ru/net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
 ## ChannelInformation class
@@ -18,7 +18,7 @@ public class ChannelInformation
 
 | Имя | Описание |
 | --- | --- |
-| [ChannelInformation](channelinformation)(CompressionMethod, int, int) | Инициализирует новый экземпляр класса[`ChannelInformation`](../channelinformation). |
+| [ChannelInformation](channelinformation)(CompressionMethod, int, int) | Инициализирует новый экземпляр[`ChannelInformation`](../channelinformation) класс. |
 
 ## Характеристики
 

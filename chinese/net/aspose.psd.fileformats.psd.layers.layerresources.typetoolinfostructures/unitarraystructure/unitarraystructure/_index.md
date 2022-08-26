@@ -1,14 +1,14 @@
 ---
 title: UnitArrayStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化UnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure类的新实例
+description: 初始化UnitArrayStructureaspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
 ## UnitArrayStructure constructor
 
-初始化[`UnitArrayStructure`](../../unitarraystructure)类的新实例。
+初始化[`UnitArrayStructure`](../../unitarraystructure)类.
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
@@ -18,7 +18,7 @@ public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 | --- | --- | --- |
 | keyName | ClassID | 密钥的名称。 |
 | unitType | UnitTypes | 单位类型。 |
-| values | Double[] | 值。 |
+| values | Double[] | 价值。 |
 
 ### 例外
 

@@ -16,7 +16,7 @@ public void TranslateTransform(float dx, float dy)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Single | x 中的翻译值。 |
+| dx | Single | x 中的平移值。 |
 | dy | Single | y 中的平移值。 |
 
 ### 也可以看看
@@ -37,7 +37,7 @@ public void TranslateTransform(float dx, float dy, MatrixOrder order)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Single | x 中的翻译值。 |
+| dx | Single | x 中的平移值。 |
 | dy | Single | y 中的平移值。 |
 | order | MatrixOrder | 应用翻译的顺序（前置或附加）。 |
 

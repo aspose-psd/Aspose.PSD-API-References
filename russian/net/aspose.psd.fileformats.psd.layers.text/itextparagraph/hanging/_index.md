@@ -1,14 +1,14 @@
 ---
 title: Hanging
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее зависает ли этотITextParagraphaspose.psd.fileformats.psd.layers.text/itextparagraph.
+description: Получает или задает значение указывающее является ли этоITextParagraphaspose.psd.fileformats.psd.layers.text/itextparagraph висит.
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/
 ---
 ## ITextParagraph.Hanging property
 
-Получает или задает значение, указывающее, зависает ли этот[`ITextParagraph`](../../itextparagraph).
+Получает или задает значение, указывающее, является ли это[`ITextParagraph`](../../itextparagraph) висит.
 
 ```csharp
 public bool Hanging { get; set; }
@@ -16,11 +16,11 @@ public bool Hanging { get; set; }
 
 ### Стоимость имущества
 
-` true` если висит; в противном случае` false` .
+`истинный` если висит; в противном случае,`ЛОЖЬ` .
 
 ### Примеры
 
-В следующем примере кода демонстрируется редактирование частей текста и стиля их текста.
+В следующем примере кода показано редактирование текстовых частей и стиля их текста.
 
 ```csharp
 [C#]

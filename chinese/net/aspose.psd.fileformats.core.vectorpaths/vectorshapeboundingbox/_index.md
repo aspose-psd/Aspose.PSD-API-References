@@ -33,7 +33,7 @@ public sealed class VectorShapeBoundingBox
 
 ### 例子
 
-此示例演示了加载和保存带有形状图层和矢量路径的 PSD 图像可以正常工作。
+此示例演示了加载和保存具有形状层和矢量路径的 PSD 图像可以正常工作。
 
 ```csharp
 [C#]

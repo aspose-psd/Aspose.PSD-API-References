@@ -1,14 +1,14 @@
 ---
 title: GetFonts
 second_title: Aspose.PSD for .NET API 参考
-description: 获取文本图层的字体集
+description: 获取文字图层的字体集
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
 ## TextLayer.GetFonts method
 
-获取文本图层的字体集。
+获取文字图层的字体集。
 
 ```csharp
 public TextFontInfo[] GetFonts()
@@ -16,11 +16,11 @@ public TextFontInfo[] GetFonts()
 
 ### 返回值
 
-文本图层的字体集。
+文本层的字体集。
 
 ### 例子
 
-下面的代码演示了 Aspose.PSD 如何获取文本层的内联格式属性。
+下面的代码演示了 Aspose.PSD 如何获取文本层的内联格式的属性。
 
 ```csharp
 [C#]

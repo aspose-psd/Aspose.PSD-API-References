@@ -1,14 +1,14 @@
 ---
 title: SmartResourceCreator
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаSmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator.
+description: Инициализирует новый экземплярSmartResourceCreatoraspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/smartresourcecreator/
 ---
 ## SmartResourceCreator() {#constructor}
 
-Инициализирует новый экземпляр класса[`SmartResourceCreator`](../../smartresourcecreator).
+Инициализирует новый экземпляр[`SmartResourceCreator`](../../smartresourcecreator) класс.
 
 ```csharp
 public SmartResourceCreator()
@@ -24,7 +24,7 @@ public SmartResourceCreator()
 
 ## SmartResourceCreator(bool, bool) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`SmartResourceCreator`](../../smartresourcecreator).
+Инициализирует новый экземпляр[`SmartResourceCreator`](../../smartresourcecreator) класс.
 
 ```csharp
 public SmartResourceCreator(bool isCustom, bool hasCompInfo)
@@ -32,8 +32,8 @@ public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| isCustom | Boolean | , если установлено значение` true` [настраивается]. |
-| hasCompInfo | Boolean | , если установлено значение` true` [имеет информацию о комп.]. |
+| isCustom | Boolean | если установлено`истинный` [это обычай]. |
+| hasCompInfo | Boolean | если установлено`истинный` [имеет информацию о комп.]. |
 
 ### Смотрите также
 
@@ -45,7 +45,7 @@ public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 
 ## SmartResourceCreator(PlacedResource) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`SmartResourceCreator`](../../smartresourcecreator) с заданным шаблоном.
+Инициализирует новый экземпляр[`SmartResourceCreator`](../../smartresourcecreator) class с заданным шаблоном.
 
 ```csharp
 public SmartResourceCreator(PlacedResource template)

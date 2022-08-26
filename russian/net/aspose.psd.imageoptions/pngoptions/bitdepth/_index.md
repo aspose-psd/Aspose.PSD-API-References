@@ -1,14 +1,14 @@
 ---
 title: BitDepth
 second_title: Справочник по Aspose.PSD для .NET API
-description: Разрядность.
+description: Битовая глубина.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/pngoptions/bitdepth/
 ---
 ## PngOptions.BitDepth property
 
-Разрядность.
+Битовая глубина.
 
 ```csharp
 public byte BitDepth { get; set; }

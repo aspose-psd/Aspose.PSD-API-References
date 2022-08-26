@@ -1,14 +1,14 @@
 ---
 title: Y
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает координату y верхнего левого угла этойRectangleFaspose.psd/rectanglefструктуры.
+description: Получает или задает координату Y верхнего левого угла этогоRectangleFaspose.psd/rectanglefструктура.
 type: docs
 weight: 180
 url: /ru/net/aspose.psd/rectanglef/y/
 ---
 ## RectangleF.Y property
 
-Получает или задает координату y верхнего левого угла этой[`RectangleF`](../../rectanglef)структуры.
+Получает или задает координату Y верхнего левого угла этого[`RectangleF`](../../rectanglef)структура.
 
 ```csharp
 public float Y { get; set; }
@@ -16,7 +16,7 @@ public float Y { get; set; }
 
 ### Возвращаемое значение
 
-Y-координата левого верхнего угла этого[`RectangleF`](../../rectanglef)структура.
+Y-координата верхнего левого угла этого[`RectangleF`](../../rectanglef) структура.
 
 ### Смотрите также
 

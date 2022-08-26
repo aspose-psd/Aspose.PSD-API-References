@@ -1,14 +1,14 @@
 ---
 title: LyidResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаLyidResourceaspose.psd.fileformats.psd.layers.layerresources/lyidresource.
+description: Инициализирует новый экземплярLyidResourceaspose.psd.fileformats.psd.layers.layerresources/lyidresource класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lyidresource/
 ---
 ## LyidResource(int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`LyidResource`](../../lyidresource).
+Инициализирует новый экземпляр[`LyidResource`](../../lyidresource) класс.
 
 ```csharp
 public LyidResource(int id)
@@ -28,7 +28,7 @@ public LyidResource(int id)
 
 ## LyidResource(byte[]) {#constructor}
 
-Инициализирует новый экземпляр класса[`LyidResource`](../../lyidresource). С пользовательским или неизвестным значением
+Инициализирует новый экземпляр[`LyidResource`](../../lyidresource) class. С пользовательским или неизвестным значением
 
 ```csharp
 public LyidResource(byte[] bytes)

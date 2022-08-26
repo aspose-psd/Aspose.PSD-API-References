@@ -1,14 +1,14 @@
 ---
 title: BilateralSmoothingFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаBilateralSmoothingFilterOptionsaspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions.
+description: Инициализирует новый экземплярBilateralSmoothingFilterOptionsaspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/bilateralsmoothingfilteroptions/
 ---
 ## BilateralSmoothingFilterOptions(int) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`BilateralSmoothingFilterOptions`](../../bilateralsmoothingfilteroptions).
+Инициализирует новый экземпляр[`BilateralSmoothingFilterOptions`](../../bilateralsmoothingfilteroptions) класс.
 
 ```csharp
 public BilateralSmoothingFilterOptions(int size)
@@ -28,7 +28,7 @@ public BilateralSmoothingFilterOptions(int size)
 
 ## BilateralSmoothingFilterOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`BilateralSmoothingFilterOptions`](../../bilateralsmoothingfilteroptions).
+Инициализирует новый экземпляр[`BilateralSmoothingFilterOptions`](../../bilateralsmoothingfilteroptions) класс.
 
 ```csharp
 public BilateralSmoothingFilterOptions()

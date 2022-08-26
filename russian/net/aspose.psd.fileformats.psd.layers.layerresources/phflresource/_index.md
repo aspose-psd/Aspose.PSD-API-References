@@ -1,14 +1,14 @@
 ---
 title: PhflResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс PhflResource. Ресурс корректирующего слоя экспозиции 2 Версия   3  или   2  12 4 байта каждый для цвета XYZ только в версии 3 10 2 байта цветового пространства за которым следует цветовой компонент 4  2 байта только в версии 2 4 Density 1 Preserve Luminosity
+description: Класс PhflResource. Ресурс слоя коррекции экспозиции 2 Версия   3  или   2  12 4 байта для каждого цвета XYZ только в версии 3 10 2 байта цветового пространства за которым следует 4  2 байта цветового компонента только в версии 2 4 Плотность 1 Сохранить яркость
 type: docs
-weight: 2820
+weight: 2870
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/
 ---
 ## PhflResource class
 
-Класс PhflResource. Ресурс корректирующего слоя экспозиции 2 Версия ( = 3 ) или ( = 2 ) 12 4 байта каждый для цвета XYZ (только в версии 3) 10 2 байта цветового пространства, за которым следует цветовой компонент 4 * 2 байта (только в версии 2) 4 Density 1 Preserve Luminosity
+Класс PhflResource. Ресурс слоя коррекции экспозиции 2 Версия ( = 3 ) или ( = 2 ) 12 4 байта для каждого цвета XYZ (только в версии 3) 10 2 байта цветового пространства, за которым следует 4 * 2 байта цветового компонента (только в версии 2) 4 Плотность 1 Сохранить яркость
 
 ```csharp
 public abstract class PhflResource : AdjustmentLayerResource
@@ -22,7 +22,7 @@ public abstract class PhflResource : AdjustmentLayerResource
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/key) { get; } | Получает ключ ресурса слоя. |
 | abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length) { get; } | Получает длину ресурса слоя в байтах. |
 | [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity) { get; set; } | Получает или задает значение, указывающее, [сохранять яркость]. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/psdversion) { get; } | Получает версию в формате psd. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/psdversion) { get; } | Получает версию psd. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Получает подпись. |
 | abstract [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/version) { get; } | Получает версию. По умолчанию 2 или 3 |
 
@@ -33,13 +33,13 @@ public abstract class PhflResource : AdjustmentLayerResource
 | abstract [GetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor)() | Получает цвет RGB. |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
 | abstract [SetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrgbcolor)(Color) | Устанавливает цвет RGB. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey) | Клавиша информации о типе инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 

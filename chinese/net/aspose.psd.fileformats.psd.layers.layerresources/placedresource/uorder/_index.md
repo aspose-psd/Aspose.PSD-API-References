@@ -1,14 +1,14 @@
 ---
 title: UOrder
 second_title: Aspose.PSD for .NET API 参考
-description: 获取或设置 PSD 文件中放置图层的 U 阶值
+description: 获取或设置PSD文件中放置图层的U阶值
 type: docs
 weight: 190
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/
 ---
 ## PlacedResource.UOrder property
 
-获取或设置 PSD 文件中放置图层的 U 阶值。
+获取或设置PSD文件中放置图层的U阶值
 
 ```csharp
 public int UOrder { get; set; }
@@ -16,7 +16,7 @@ public int UOrder { get; set; }
 
 ### 适当的价值
 
-放置层的 U 阶值。
+放置层的U阶值。
 
 ### 也可以看看
 

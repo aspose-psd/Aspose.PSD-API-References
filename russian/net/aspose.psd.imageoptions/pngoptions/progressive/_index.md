@@ -1,14 +1,14 @@
 ---
 title: Progressive
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этотPngOptionsaspose.psd.imageoptions/pngoptionsпрогрессивным.
+description: Получает или задает значение указывающее является ли этоPngOptionsaspose.psd.imageoptions/pngoptions является прогрессивным.
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.imageoptions/pngoptions/progressive/
 ---
 ## PngOptions.Progressive property
 
-Получает или задает значение, указывающее, является ли этот[`PngOptions`](../../pngoptions)прогрессивным.
+Получает или задает значение, указывающее, является ли это[`PngOptions`](../../pngoptions) является прогрессивным.
 
 ```csharp
 public bool Progressive { get; set; }
@@ -16,7 +16,7 @@ public bool Progressive { get; set; }
 
 ### Стоимость имущества
 
-` true` если прогрессивный; в противном случае` false` .
+`истинный` если прогрессивный; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

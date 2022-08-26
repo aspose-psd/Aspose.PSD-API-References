@@ -1,14 +1,14 @@
 ---
 title: TypeToolKey
 second_title: Справочник по Aspose.PSD для .NET API
-description: Ключ информации о типе инструмента 1819504742
+description: Информационный ключ типа инструмента 1819504742
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/
 ---
 ## LspfResource.TypeToolKey field
 
-Ключ информации о типе инструмента 1819504742
+Информационный ключ типа инструмента 1819504742
 
 ```csharp
 public const int TypeToolKey;

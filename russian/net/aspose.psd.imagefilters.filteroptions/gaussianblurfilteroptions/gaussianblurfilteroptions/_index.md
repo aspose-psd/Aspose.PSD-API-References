@@ -1,14 +1,14 @@
 ---
 title: GaussianBlurFilterOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаGaussianBlurFilterOptionsaspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions.
+description: Инициализирует новый экземплярGaussianBlurFilterOptionsaspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/gaussianblurfilteroptions/
 ---
 ## GaussianBlurFilterOptions(int, double) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`GaussianBlurFilterOptions`](../../gaussianblurfilteroptions).
+Инициализирует новый экземпляр[`GaussianBlurFilterOptions`](../../gaussianblurfilteroptions) класс.
 
 ```csharp
 public GaussianBlurFilterOptions(int radius, double sigma)
@@ -29,7 +29,7 @@ public GaussianBlurFilterOptions(int radius, double sigma)
 
 ## GaussianBlurFilterOptions() {#constructor}
 
-Инициализирует новый экземпляр класса[`GaussianBlurFilterOptions`](../../gaussianblurfilteroptions). С настройками по умолчанию.
+Инициализирует новый экземпляр[`GaussianBlurFilterOptions`](../../gaussianblurfilteroptions) class. С настройками по умолчанию.
 
 ```csharp
 public GaussianBlurFilterOptions()

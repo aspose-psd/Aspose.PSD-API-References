@@ -1,14 +1,14 @@
 ---
 title: Intersect
 second_title: Aspose.PSD for .NET API 参考
-description: 将此Regionaspose.psd/region更新为自身与指定RectangleFaspose.psd/rectanglef结构的交集
+description: 更新这个Regionaspose.psd/region到自身与指定的交点RectangleFaspose.psd/rectanglef结构.
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/region/intersect/
 ---
 ## Intersect(RectangleF) {#intersect_2}
 
-将此[`Region`](../../region)更新为自身与指定[`RectangleF`](../../rectanglef)结构的交集。
+更新这个[`Region`](../../region)到自身与指定的交点[`RectangleF`](../../rectanglef)结构.
 
 ```csharp
 public void Intersect(RectangleF rect)
@@ -16,7 +16,7 @@ public void Intersect(RectangleF rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)结构与此[`Region`](../../region) 相交. |
+| rect | RectangleF | 这[`RectangleF`](../../rectanglef)与此相交的结构[`Region`](../../region). |
 
 ### 也可以看看
 
@@ -29,7 +29,7 @@ public void Intersect(RectangleF rect)
 
 ## Intersect(Rectangle) {#intersect_1}
 
-将此[`Region`](../../region)更新为自身与指定[`Rectangle`](../../rectangle)结构的交集。
+更新这个[`Region`](../../region)到自身与指定的交点[`Rectangle`](../../rectangle)结构.
 
 ```csharp
 public void Intersect(Rectangle rect)
@@ -37,7 +37,7 @@ public void Intersect(Rectangle rect)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle)结构与此[`Region`](../../region) 相交. |
+| rect | Rectangle | 这[`Rectangle`](../../rectangle)与此相交的结构[`Region`](../../region). |
 
 ### 也可以看看
 
@@ -50,7 +50,7 @@ public void Intersect(Rectangle rect)
 
 ## Intersect(GraphicsPath) {#intersect}
 
-将此[`Region`](../../region)更新为自身与指定[`GraphicsPath`](../../graphicspath)的交集。
+更新这个[`Region`](../../region)到自身与指定的交点[`GraphicsPath`](../../graphicspath) .
 
 ```csharp
 public void Intersect(GraphicsPath path)
@@ -58,7 +58,7 @@ public void Intersect(GraphicsPath path)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath)与此[`Region`](../../region)相交. |
+| path | GraphicsPath | 这[`GraphicsPath`](../../graphicspath)与此相交[`Region`](../../region). |
 
 ### 也可以看看
 
@@ -71,7 +71,7 @@ public void Intersect(GraphicsPath path)
 
 ## Intersect(Region) {#intersect_3}
 
-将此[`Region`](../../region)更新为自身与指定[`Region`](../../region)的交集。
+更新这个[`Region`](../../region)到自身与指定的交点[`Region`](../../region) .
 
 ```csharp
 public void Intersect(Region region)
@@ -79,7 +79,7 @@ public void Intersect(Region region)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | [`Region`](../../region)与此[`Region`](../../region)相交. |
+| region | Region | 这[`Region`](../../region)与此相交[`Region`](../../region). |
 
 ### 也可以看看
 

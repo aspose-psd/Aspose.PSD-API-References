@@ -1,14 +1,14 @@
 ---
 title: GrayColorProfile
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает цветовой профиль GRAY монохромный для PSD-изображений в градациях серого.
+description: Получает или задает цветовой профиль GRAY монохромный для изображений PSD в оттенках серого.
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/graycolorprofile/
 ---
 ## PsdImage.GrayColorProfile property
 
-Получает или задает цветовой профиль GRAY (монохромный) для PSD-изображений в градациях серого.
+Получает или задает цветовой профиль GRAY (монохромный) для изображений PSD в оттенках серого.
 
 ```csharp
 public StreamSource GrayColorProfile { get; set; }

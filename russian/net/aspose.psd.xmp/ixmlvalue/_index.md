@@ -3,7 +3,7 @@ title: IXmlValue
 second_title: Справочник по Aspose.PSD для .NET API
 description: Преобразует значения xmp в строковое представление XML.
 type: docs
-weight: 5630
+weight: 5680
 url: /ru/net/aspose.psd.xmp/ixmlvalue/
 ---
 ## IXmlValue interface

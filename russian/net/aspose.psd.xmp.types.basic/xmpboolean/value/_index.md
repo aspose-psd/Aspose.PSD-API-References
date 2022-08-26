@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: Справочник по Aspose.PSD для .NET API
-description: Получает или задает значение указывающее является ли этоXmpBooleanaspose.psd.xmp.types.basic/xmpbooleanзначением.
+description: Получает или задает значение указывающее является ли этоXmpBooleanaspose.psd.xmp.types.basic/xmpboolean значение.
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.basic/xmpboolean/value/
 ---
 ## XmpBoolean.Value property
 
-Получает или задает значение, указывающее, является ли это[`XmpBoolean`](../../xmpboolean)значением.
+Получает или задает значение, указывающее, является ли это[`XmpBoolean`](../../xmpboolean) значение.
 
 ```csharp
 public bool Value { get; set; }
@@ -16,7 +16,7 @@ public bool Value { get; set; }
 
 ### Стоимость имущества
 
-` true` если значение; в противном случае` false` .
+`истинный` если значение; в противном случае,`ЛОЖЬ` .
 
 ### Смотрите также
 

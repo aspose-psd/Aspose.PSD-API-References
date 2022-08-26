@@ -1,7 +1,7 @@
 ---
 title: ClearOutputChannel
 second_title: Aspose.PSD for .NET API 参考
-description: 清除默认类别的 CMYK青色-品红色-黄色-黑色输出通道设置
+description: 清除默认类别的 CMYK青色品红色黄色黑色输出通道设置
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/imageattributes/clearoutputchannel/
@@ -32,7 +32,7 @@ public void ClearOutputChannel(ColorAdjustType type)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype)的一个元素，指定要清除的输出通道设置的类别。 |
+| type | ColorAdjustType | 一个元素[`ColorAdjustType`](../../coloradjusttype)指定清除输出通道设置的类别。 |
 
 ### 也可以看看
 

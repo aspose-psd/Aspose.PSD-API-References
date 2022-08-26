@@ -1,14 +1,14 @@
 ---
 title: PhflResourceVersion2
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр классаPhflResourceVersion2aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2.
+description: Инициализирует новый экземплярPhflResourceVersion2aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2 класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/phflresourceversion2/
 ---
 ## PhflResourceVersion2() {#constructor}
 
-Инициализирует новый экземпляр класса[`PhflResourceVersion2`](../../phflresourceversion2).
+Инициализирует новый экземпляр[`PhflResourceVersion2`](../../phflresourceversion2) класс.
 
 ```csharp
 public PhflResourceVersion2()
@@ -24,7 +24,7 @@ public PhflResourceVersion2()
 
 ## PhflResourceVersion2(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`PhflResourceVersion2`](../../phflresourceversion2).
+Инициализирует новый экземпляр[`PhflResourceVersion2`](../../phflresourceversion2) класс.
 
 ```csharp
 public PhflResourceVersion2(byte[] data)

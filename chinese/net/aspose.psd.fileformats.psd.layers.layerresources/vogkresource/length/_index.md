@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: Aspose.PSD for .NET API 参考
-description: 获取层资源长度以字节为单位
+description: 以字节为单位获取层资源长度
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length/
 ---
 ## VogkResource.Length property
 
-获取层资源长度（以字节为单位）。
+以字节为单位获取层资源长度。
 
 ```csharp
 public override int Length { get; }
@@ -16,7 +16,7 @@ public override int Length { get; }
 
 ### 例子
 
-下面的例子演示了对 VogkResource 资源的支持。
+以下示例演示了对 VogkResource 资源的支持。
 
 ```csharp
 [C#]

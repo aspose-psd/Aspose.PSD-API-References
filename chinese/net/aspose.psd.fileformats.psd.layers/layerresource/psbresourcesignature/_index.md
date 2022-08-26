@@ -1,14 +1,14 @@
 ---
 title: PsbResourceSignature
 second_title: Aspose.PSD for .NET API 参考
-description: PSB 特定的资源签名
+description: 特定于 PSB 的资源签名
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature/
 ---
 ## LayerResource.PsbResourceSignature field
 
-PSB 特定的资源签名。
+特定于 PSB 的资源签名。
 
 ```csharp
 public const int PsbResourceSignature;

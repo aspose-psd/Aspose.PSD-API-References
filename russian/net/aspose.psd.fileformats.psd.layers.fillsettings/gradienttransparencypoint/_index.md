@@ -3,7 +3,7 @@ title: GradientTransparencyPoint
 second_title: Справочник по Aspose.PSD для .NET API
 description: Точка прозрачности градиента
 type: docs
-weight: 1910
+weight: 1950
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
 ## GradientTransparencyPoint class
@@ -18,7 +18,7 @@ public class GradientTransparencyPoint : IGradientTransparencyPoint
 
 | Имя | Описание |
 | --- | --- |
-| [GradientTransparencyPoint](gradienttransparencypoint)() | Инициализирует новый экземпляр класса[`GradientTransparencyPoint`](../gradienttransparencypoint). |
+| [GradientTransparencyPoint](gradienttransparencypoint)() | Инициализирует новый экземпляр[`GradientTransparencyPoint`](../gradienttransparencypoint) класс. |
 
 ## Характеристики
 

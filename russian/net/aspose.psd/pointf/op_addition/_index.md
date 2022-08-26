@@ -1,14 +1,14 @@
 ---
 title: op_Addition
 second_title: Справочник по Aspose.PSD для .NET API
-description: ПереводитPointFaspose.psd/pointfна заданныйSizeaspose.psd/size.
+description: ПереводитPointFaspose.psd/pointf заданнымSizeaspose.psd/size .
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/pointf/op_addition/
 ---
 ## operator + {#op_addition}
 
-Переводит[`PointF`](../../pointf)на заданный[`Size`](../../size).
+Переводит[`PointF`](../../pointf) заданным[`Size`](../../size) .
 
 ```csharp
 public static PointF operator +(PointF point, Size size)
@@ -16,8 +16,8 @@ public static PointF operator +(PointF point, Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf)для перевода. |
-| size | Size | A[`Size`](../../size)который указывает пару чисел, которые нужно добавить к координатам*точка*. |
+| point | PointF | [`PointF`](../../pointf) переводить. |
+| size | Size | А[`Size`](../../size) который указывает пару чисел, которые нужно добавить к координатам*point*. |
 
 ### Возвращаемое значение
 
@@ -34,7 +34,7 @@ public static PointF operator +(PointF point, Size size)
 
 ## operator + {#op_addition_1}
 
-Переводит[`PointF`](../../pointf)на указанный[`SizeF`](../../sizef).
+Переводит[`PointF`](../../pointf) указанным[`SizeF`](../../sizef) .
 
 ```csharp
 public static PointF operator +(PointF point, SizeF size)
@@ -42,12 +42,12 @@ public static PointF operator +(PointF point, SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf)для перевода. |
-| size | SizeF | Параметр[`SizeF`](../../sizef)который определяет числа, добавляемые к координатам x и y*точка*. |
+| point | PointF | [`PointF`](../../pointf) переводить. |
+| size | SizeF | [`SizeF`](../../sizef) который указывает числа, которые нужно добавить к x- и y-координатам*point*. |
 
 ### Возвращаемое значение
 
-Переведенный[`PointF`](../../pointf).
+переведенный[`PointF`](../../pointf).
 
 ### Смотрите также
 

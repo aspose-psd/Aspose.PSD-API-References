@@ -8,7 +8,7 @@ url: /zh/net/aspose.psd.asynctask/progresscallback/
 ---
 ## ProgressCallback delegate
 
-接收任务进度变化事件的回调函数。
+接收任务进度变化事件的回调函数
 
 ```csharp
 public delegate void ProgressCallback(int progressPercentage);

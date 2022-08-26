@@ -1,7 +1,7 @@
 ---
 title: ClearOutputChannel
 second_title: Справочник по Aspose.PSD для .NET API
-description: Очищает настройку выходного канала CMYK голубой-пурпурный-желтый-черный для категории по умолчанию.
+description: Очищает настройку выходного канала CMYK голубойпурпурныйжелтыйчерный для категории по умолчанию.
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/imageattributes/clearoutputchannel/
@@ -32,7 +32,7 @@ public void ClearOutputChannel(ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype), указывающий категорию, для которой настройка выходного канала сброшена. |
+| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype) который определяет категорию, для которой сбрасывается настройка выходного канала. |
 
 ### Смотрите также
 

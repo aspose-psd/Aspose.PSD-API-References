@@ -1,14 +1,14 @@
 ---
 title: SetDefaults
 second_title: Aspose.PSD for .NET API 参考
-description: 将Cacheaspose.psd/cache设置设置为默认值
+description: 设置Cacheaspose.psd/cache设置为默认值
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/cache/setdefaults/
 ---
 ## Cache.SetDefaults method
 
-将[`Cache`](../../cache)设置设置为默认值。
+设置[`Cache`](../../cache)设置为默认值。
 
 ```csharp
 public static void SetDefaults()

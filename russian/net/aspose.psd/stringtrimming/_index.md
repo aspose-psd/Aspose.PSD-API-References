@@ -1,14 +1,14 @@
 ---
 title: StringTrimming
 second_title: Справочник по Aspose.PSD для .NET API
-description: Указывает как обрезать символы из строки которая не полностью соответствует форме макета.
+description: Указывает как обрезать символы из строки которая не полностью вписывается в форму макета.
 type: docs
-weight: 5570
+weight: 5620
 url: /ru/net/aspose.psd/stringtrimming/
 ---
 ## StringTrimming enumeration
 
-Указывает, как обрезать символы из строки, которая не полностью соответствует форме макета.
+Указывает, как обрезать символы из строки, которая не полностью вписывается в форму макета.
 
 ```csharp
 public enum StringTrimming

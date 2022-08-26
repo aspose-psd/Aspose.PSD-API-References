@@ -16,7 +16,7 @@ public void Save(StreamContainer stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | StreamContainer | Поток, в который необходимо сохранить блок ресурсов. |
+| stream | StreamContainer | Поток, в который нужно сохранить блок ресурсов. |
 
 ### Смотрите также
 
