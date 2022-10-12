@@ -1,0 +1,114 @@
+---
+title: StrokePosition
+second_title: Riferimento all'API di Aspose.PSD per .NET
+description: Limpostazione della posizione controlla lallineamento del tuo tratto al livello a cui è applicato nelStrokeEffect./strokeeffect .
+type: docs
+weight: 2180
+url: /it/net/aspose.psd.fileformats.psd.layers.layereffects/strokeposition/
+---
+## StrokePosition enumeration
+
+L'impostazione della posizione controlla l'allineamento del tuo tratto al livello a cui è applicato nel[`StrokeEffect`](../strokeeffect) .
+
+```csharp
+public enum StrokePosition : short
+```
+
+### I valori
+
+| Nome | Valore | Descrizione |
+| --- | --- | --- |
+| Inside | `0` | Il tratto verrà creato dal bordo della forma e crescerà verso l'interno, fino al centro dell'oggetto. |
+| Center | `1` | Il tratto verrà creato dal bordo della forma e crescerà sia verso l'interno che verso l'esterno. |
+| Outside | `2` | Il tratto verrà creato dal bordo della forma e crescerà verso l'esterno, allontanandosi dall'oggetto. |
+
+### Esempi
+
+Questo esempio dimostra la possibilità di aggiungere l'effetto tratto con diversi tipi di riempimento come Colore, Sfumatura o Motivo.
+
+```csharp
+[C#]
+
+using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadEffectsResource = true }))
+{
+    StrokeEffect strokeEffect;
+    IColorFillSettings colorFillSettings;
+    IGradientFillSettings gradientFillSettings;
+    IPatternFillSettings patternFillSettings;
+
+    // 1. Aggiunge il riempimento Colore, nella posizione Dentro
+    strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
+    strokeEffect.Size = 7;
+    strokeEffect.Position = StrokePosition.Inside;
+    colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
+    colorFillSettings.Color = Color.Green;
+
+    // 2. Aggiunge il riempimento Colore, nella posizione Esterno
+    strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
+    strokeEffect.Size = 7;
+    strokeEffect.Position = StrokePosition.Outside;
+    colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
+    colorFillSettings.Color = Color.Green;
+
+    // 3. Aggiunge il riempimento Colore, in posizione Centro
+    strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
+    strokeEffect.Size = 7;
+    strokeEffect.Position = StrokePosition.Center;
+    colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
+    colorFillSettings.Color = Color.Green;
+
+    // 4. Aggiunge il riempimento sfumato, nella posizione Dentro
+    strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
+    strokeEffect.Size = 5;
+    strokeEffect.Position = StrokePosition.Inside;
+    gradientFillSettings = strokeEffect.FillSettings as IGradientFillSettings;
+    gradientFillSettings.AlignWithLayer = false;
+    gradientFillSettings.Angle = 90;
+
+    // 5. Aggiunge il riempimento sfumato, nella posizione Esterno
+    strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
+    strokeEffect.Size = 5;
+    strokeEffect.Position = StrokePosition.Outside;
+    gradientFillSettings = strokeEffect.FillSettings as IGradientFillSettings;
+    gradientFillSettings.AlignWithLayer = true;
+    gradientFillSettings.Angle = 90;
+
+    // 6. Aggiunge il riempimento sfumato, in posizione Centro
+    strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
+    strokeEffect.Size = 5;
+    strokeEffect.Position = StrokePosition.Center;
+    gradientFillSettings = strokeEffect.FillSettings as IGradientFillSettings;
+    gradientFillSettings.AlignWithLayer = true;
+    gradientFillSettings.Angle = 0;
+
+    // 7. Aggiunge il riempimento Pattern, nella posizione Inside
+    strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
+    strokeEffect.Size = 5;
+    strokeEffect.Position = StrokePosition.Inside;
+    patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
+    patternFillSettings.Scale = 200;
+
+    // 8. Aggiunge il riempimento Pattern, in posizione Outside
+    strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
+    strokeEffect.Size = 10;
+    strokeEffect.Position = StrokePosition.Outside;
+    patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
+    patternFillSettings.Scale = 100;
+
+    // 9. Aggiunge il riempimento a motivo, in posizione Centro
+    strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
+    strokeEffect.Size = 10;
+    strokeEffect.Position = StrokePosition.Center;
+    patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
+    patternFillSettings.Scale = 75;
+
+    psdImage.Save(outputFilePng, new PngOptions());
+}
+```
+
+### Guarda anche
+
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects)
+* assemblea [Aspose.PSD](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
