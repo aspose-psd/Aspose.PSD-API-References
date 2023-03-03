@@ -1,9 +1,9 @@
 ---
-title: Font
+title: Class Font
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Definiert ein bestimmtes Format für Text einschließlich Schriftart Größe und Stilattributen. Diese Klasse kann nicht vererbt werden.
+description: Aspose.PSD.Font klas. Definiert ein bestimmtes Format für Text einschließlich Schriftart Größe und Stilattributen. Diese Klasse kann nicht vererbt werden.
 type: docs
-weight: 4210
+weight: 4280
 url: /de/net/aspose.psd/font/
 ---
 ## Font class
@@ -18,35 +18,35 @@ public sealed class Font
 
 | Name | Beschreibung |
 | --- | --- |
-| [Font](font#constructor)(Font, FontStyle) | Initialisiert eine neue[`Font`](../font) die die angegebene vorhandene verwendet[`Font`](../font) und[`FontStyle`](../fontstyle) Aufzählung. |
-| [Font](font#constructor_1)(string, float) | Initialisiert eine neue[`Font`](../font) unter Verwendung einer bestimmten Größe. Der Zeichensatz ist eingestellt aufDefault , die Grafikeinheit anPoint , den Schriftstil zuRegular . |
-| [Font](font#constructor_2)(string, float, FontStyle) | Initialisiert eine neue[`Font`](../font) unter Verwendung einer bestimmten Größe und eines bestimmten Stils. Der Zeichensatz ist eingestellt aufDefault , die Grafikeinheit anPoint . |
-| [Font](font#constructor_5)(string, float, GraphicsUnit) | Initialisiert eine neue[`Font`](../font) unter Verwendung einer bestimmten Größe und Einheit. Der Zeichensatz ist eingestellt aufDefault der Stil ist eingestellt aufRegular . |
-| [Font](font#constructor_3)(string, float, FontStyle, GraphicsUnit) | Initialisiert eine neue[`Font`](../font) unter Verwendung einer bestimmten Größe, eines Stils und einer Einheit. |
-| [Font](font#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Initialisiert eine neue[`Font`](../font) Verwenden einer bestimmten Größe, eines Stils, einer Einheit und eines Zeichensatzes. |
+| [Font](font/#constructor)(Font, FontStyle) | Initialisiert eine neue`Font` die die angegebene vorhandene verwendet`Font` Und[`FontStyle`](../fontstyle/) Aufzählung. |
+| [Font](font/#constructor_1)(string, float) | Initialisiert eine neue`Font` unter Verwendung einer bestimmten Größe. Der Zeichensatz ist eingestellt aufDefault , die Grafikeinheit anPoint , den Schriftstil zuRegular . |
+| [Font](font/#constructor_2)(string, float, FontStyle) | Initialisiert eine neue`Font` unter Verwendung einer bestimmten Größe und eines bestimmten Stils. Der Zeichensatz ist eingestellt aufDefault , die Grafikeinheit anPoint . |
+| [Font](font/#constructor_5)(string, float, GraphicsUnit) | Initialisiert eine neue`Font` unter Verwendung einer bestimmten Größe und Einheit. Der Zeichensatz ist eingestellt aufDefault der Stil ist eingestellt aufRegular . |
+| [Font](font/#constructor_3)(string, float, FontStyle, GraphicsUnit) | Initialisiert eine neue`Font` unter Verwendung einer bestimmten Größe, eines Stils und einer Einheit. |
+| [Font](font/#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Initialisiert eine neue`Font` Verwenden einer bestimmten Größe, eines Stils, einer Einheit und eines Zeichensatzes. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Bold](../../aspose.psd/font/bold) { get; } | Ruft einen Wert ab, der angibt, ob dies[`Font`](../font) ist fett. |
-| [CharacterSet](../../aspose.psd/font/characterset) { get; } | Ruft einen Bytewert ab, der den Zeichensatz angibt, den dieser verwendet[`Font`](../font) verwendet. |
-| [Italic](../../aspose.psd/font/italic) { get; } | Ruft einen Wert ab, der angibt, ob dies[`Font`](../font)ist kursiv. |
-| [Name](../../aspose.psd/font/name) { get; } | Ruft den Gesichtsnamen davon ab[`Font`](../font) . |
-| [Size](../../aspose.psd/font/size) { get; } | Ruft die em-Größe davon ab[`Font`](../font) gemessen in den von der angegebenen Einheiten[`Unit`](./unit) Eigentum. |
-| [Strikeout](../../aspose.psd/font/strikeout) { get; } | Ruft einen Wert ab, der angibt, ob dies[`Font`](../font) gibt eine horizontale Linie durch die Schriftart an. |
-| [Style](../../aspose.psd/font/style) { get; } | Ruft Stilinformationen dafür ab[`Font`](../font) . |
-| [Underline](../../aspose.psd/font/underline) { get; } | Ruft einen Wert ab, der angibt, ob dies[`Font`](../font) ist unterstrichen. |
-| [Unit](../../aspose.psd/font/unit) { get; } | Liefert die Maßeinheit dafür[`Font`](../font) . |
+| [Bold](../../aspose.psd/font/bold/) { get; } | Ruft einen Wert ab, der angibt, ob dies`Font` ist fett. |
+| [CharacterSet](../../aspose.psd/font/characterset/) { get; } | Ruft einen Bytewert ab, der den Zeichensatz angibt, den dieser verwendet`Font` verwendet. |
+| [Italic](../../aspose.psd/font/italic/) { get; } | Ruft einen Wert ab, der angibt, ob dies`Font`ist kursiv. |
+| [Name](../../aspose.psd/font/name/) { get; } | Ruft den Gesichtsnamen davon ab`Font` . |
+| [Size](../../aspose.psd/font/size/) { get; } | Ruft die em-Größe davon ab`Font` gemessen in den von der angegebenen Einheiten[`Unit`](./unit/) Eigentum. |
+| [Strikeout](../../aspose.psd/font/strikeout/) { get; } | Ruft einen Wert ab, der angibt, ob dies`Font` gibt eine horizontale Linie durch die Schriftart an. |
+| [Style](../../aspose.psd/font/style/) { get; } | Ruft Stilinformationen dafür ab`Font` . |
+| [Underline](../../aspose.psd/font/underline/) { get; } | Ruft einen Wert ab, der angibt, ob dies`Font` ist unterstrichen. |
+| [Unit](../../aspose.psd/font/unit/) { get; } | Liefert die Maßeinheit dafür`Font` . |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [DeepClone](../../aspose.psd/font/deepclone)() | Erstellt eine exakte tiefe Kopie davon[`Font`](../font) . |
-| override [Equals](../../aspose.psd/font/equals)(object) | Gibt an, ob das angegebene Objekt ein ist[`Font`](../font) und hat die gleichen Eigenschaftswerte wie diese[`Font`](../font) . |
-| override [GetHashCode](../../aspose.psd/font/gethashcode)() | Ruft den Hash-Code dafür ab[`Font`](../font) . |
-| override [ToString](../../aspose.psd/font/tostring)() | Gibt eine für Menschen lesbare Zeichenfolgendarstellung davon zurück[`Font`](../font) . |
+| [DeepClone](../../aspose.psd/font/deepclone/)() | Erstellt eine exakte tiefe Kopie davon`Font` . |
+| override [Equals](../../aspose.psd/font/equals/)(object) | Gibt an, ob das angegebene Objekt ein ist`Font` und hat die gleichen Eigenschaftswerte wie diese`Font` . |
+| override [GetHashCode](../../aspose.psd/font/gethashcode/)() | Ruft den Hash-Code dafür ab`Font` . |
+| override [ToString](../../aspose.psd/font/tostring/)() | Gibt eine für Menschen lesbare Zeichenfolgendarstellung davon zurück`Font` . |
 
 ### Beispiele
 
@@ -83,7 +83,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd)
+* namensraum [Aspose.PSD](../../aspose.psd/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

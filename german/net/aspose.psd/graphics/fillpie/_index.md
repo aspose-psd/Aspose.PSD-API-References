@@ -1,14 +1,14 @@
 ---
-title: FillPie
+title: Graphics.FillPie
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Füllt das Innere eines Tortenabschnitts der durch eine durch a angegebene Ellipse definiert istRectangleFaspose.psd/rectanglef Struktur und zwei radiale Linien.
+description: Graphics methode. Füllt das Innere eines Tortenabschnitts der durch eine durch a angegebene Ellipse definiert istRectangleF Struktur und zwei radiale Linien.
 type: docs
 weight: 370
 url: /de/net/aspose.psd/graphics/fillpie/
 ---
 ## FillPie(Brush, Rectangle, float, float) {#fillpie}
 
-Füllt das Innere eines Tortenabschnitts, der durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../../rectanglef) Struktur und zwei radiale Linien.
+Füllt das Innere eines Tortenabschnitts, der durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../../rectanglef/) Struktur und zwei radiale Linien.
 
 ```csharp
 public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAngle)
@@ -16,8 +16,8 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)die die Eigenschaften der Füllung bestimmt. |
-| rect | Rectangle | [`Rectangle`](../../rectangle) -Struktur, die das Begrenzungsrechteck darstellt, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
+| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) -Struktur, die das Begrenzungsrechteck darstellt, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
 | startAngle | Single | Winkel in Grad, gemessen im Uhrzeigersinn von der x-Achse zur ersten Seite des Tortenabschnitts. |
 | sweepAngle | Single | Winkel in Grad im Uhrzeigersinn gemessen von der*startAngle* -Parameter auf die zweite Seite des Tortenabschnitts. |
 
@@ -29,17 +29,17 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 ### Siehe auch
 
-* class [Brush](../../brush)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* namensraum [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* namensraum [Aspose.PSD](../../graphics/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## FillPie(Brush, RectangleF, float, float) {#fillpie_1}
 
-Füllt das Innere eines Tortenabschnitts, der durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../../rectanglef) Struktur und zwei radiale Linien.
+Füllt das Innere eines Tortenabschnitts, der durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../../rectanglef/) Struktur und zwei radiale Linien.
 
 ```csharp
 public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepAngle)
@@ -47,8 +47,8 @@ public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepA
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)die die Eigenschaften der Füllung bestimmt. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) -Struktur, die das Begrenzungsrechteck darstellt, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
+| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) -Struktur, die das Begrenzungsrechteck darstellt, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
 | startAngle | Single | Winkel in Grad, gemessen im Uhrzeigersinn von der x-Achse zur ersten Seite des Tortenabschnitts. |
 | sweepAngle | Single | Winkel in Grad im Uhrzeigersinn gemessen von der*startAngle* -Parameter auf die zweite Seite des Tortenabschnitts. |
 
@@ -60,10 +60,10 @@ public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepA
 
 ### Siehe auch
 
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* namensraum [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* namensraum [Aspose.PSD](../../graphics/)
 * Montage [Aspose.PSD](../../../)
 
 ---
@@ -79,7 +79,7 @@ public void FillPie(Brush brush, float x, float y, float width, float height, fl
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)die die Eigenschaften der Füllung bestimmt. |
+| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
 | x | Single | Die x-Koordinate der oberen linken Ecke des Begrenzungsrechtecks, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
 | y | Single | Die y-Koordinate der oberen linken Ecke des Begrenzungsrechtecks, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
 | width | Single | Breite des Begrenzungsrechtecks, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
@@ -95,9 +95,9 @@ public void FillPie(Brush brush, float x, float y, float width, float height, fl
 
 ### Siehe auch
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* namensraum [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* namensraum [Aspose.PSD](../../graphics/)
 * Montage [Aspose.PSD](../../../)
 
 ---
@@ -113,7 +113,7 @@ public void FillPie(Brush brush, int x, int y, int width, int height, int startA
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)die die Eigenschaften der Füllung bestimmt. |
+| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
 | x | Int32 | Die x-Koordinate der oberen linken Ecke des Begrenzungsrechtecks, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
 | y | Int32 | Die y-Koordinate der oberen linken Ecke des Begrenzungsrechtecks, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
 | width | Int32 | Breite des Begrenzungsrechtecks, das die Ellipse definiert, aus der der Kreisabschnitt stammt. |
@@ -129,9 +129,9 @@ public void FillPie(Brush brush, int x, int y, int width, int height, int startA
 
 ### Siehe auch
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* namensraum [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* namensraum [Aspose.PSD](../../graphics/)
 * Montage [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

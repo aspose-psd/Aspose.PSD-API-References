@@ -1,9 +1,9 @@
 ---
-title: PngOptions
+title: Class PngOptions
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Optionen zum Erstellen des PNGDateiformats.
+description: Aspose.PSD.ImageOptions.PngOptions klas. Optionen zum Erstellen des PNGDateiformats.
 type: docs
-weight: 4810
+weight: 4880
 url: /de/net/aspose.psd.imageoptions/pngoptions/
 ---
 ## PngOptions class
@@ -18,42 +18,42 @@ public class PngOptions : ImageOptionsBase
 
 | Name | Beschreibung |
 | --- | --- |
-| [PngOptions](pngoptions#constructor)() | Initialisiert eine neue Instanz von[`PngOptions`](../pngoptions) Klasse. |
-| [PngOptions](pngoptions#constructor_1)(PngOptions) | Initialisiert eine neue Instanz von[`PngOptions`](../pngoptions) Klasse. |
+| [PngOptions](pngoptions/#constructor)() | Initialisiert eine neue Instanz von`PngOptions` Klasse. |
+| [PngOptions](pngoptions/#constructor_1)(PngOptions) | Initialisiert eine neue Instanz von`PngOptions` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth) { get; set; } | Die Bittiefe. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Ruft den Puffergrößenhinweis ab oder legt ihn fest, der als maximal zulässige Größe für alle internen Puffer definiert ist. |
-| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype) { get; set; } | Ruft den Typ der Farbe ab oder legt ihn fest. |
-| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel) { get; set; } | Die PNG-Bildkomprimierungsstufe im Bereich von 0 bis 9, wobei 9 die maximale Komprimierung und 0 der Speichermodus ist. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Ruft die Standard-Ersatzschriftart ab oder legt sie fest (Schriftart, die zum Zeichnen von Text beim Exportieren in Raster verwendet wird, wenn die vorhandene Layer-Schriftart in der PSD-Datei nicht im System angezeigt wird). Um den richtigen Namen der Standardschriftart zu übernehmen, kann das nächste Code-Snippet verwendet werden : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] Familie = col.Families; string defaultFontName = Familie[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Ruft einen Wert ab, der angibt, ob diese Instanz verworfen wird. |
-| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype) { get; set; } | Ruft den beim Speichern der PNG-Datei verwendeten Filtertyp ab oder legt ihn fest. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Vollbild]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Die mehrseitigen Optionen |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Ruft die Farbpalette ab oder legt sie fest. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Ruft den Fortschrittsereignishandler ab oder legt ihn fest. |
-| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`PngOptions`](../pngoptions) ist progressiv. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Ruft die Auflösungseinstellungen ab oder legt sie fest. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Ruft die Quelle zum Erstellen des Bildes ab oder legt sie fest. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Ruft die Optionen für die Vektorrasterung ab oder legt sie fest. |
-| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata) { get; set; } | Ruft den XMP-Metadatencontainer ab oder legt ihn fest. |
+| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth/) { get; set; } | Die Bittiefe. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Ruft den Puffergrößenhinweis ab oder legt ihn fest, der als maximal zulässige Größe für alle internen Puffer definiert ist. |
+| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype/) { get; set; } | Ruft den Typ der Farbe ab oder legt ihn fest. |
+| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel/) { get; set; } | Die PNG-Bildkomprimierungsstufe im Bereich von 0 bis 9, wobei 9 die maximale Komprimierung und 0 der Speichermodus ist. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Ruft die Standard-Ersatzschriftart ab oder legt sie fest (Schriftart, die zum Zeichnen von Text beim Exportieren in Raster verwendet wird, wenn die vorhandene Layer-Schriftart in der PSD-Datei nicht im System angezeigt wird). Um den richtigen Namen der Standardschriftart zu übernehmen, kann das nächste Code-Snippet verwendet werden : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] Familie = col.Families; string defaultFontName = Familie[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Ruft einen Wert ab, der angibt, ob diese Instanz verworfen wird. |
+| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype/) { get; set; } | Ruft den beim Speichern der PNG-Datei verwendeten Filtertyp ab oder legt ihn fest. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Vollbild]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Die mehrseitigen Optionen |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Ruft die Farbpalette ab oder legt sie fest. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Ruft den Fortschrittsereignishandler ab oder legt ihn fest. |
+| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`PngOptions` ist progressiv. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Ruft die Auflösungseinstellungen ab oder legt sie fest. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Ruft die Quelle zum Erstellen des Bildes ab oder legt sie fest. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Ruft die Optionen für die Vektorrasterung ab oder legt sie fest. |
+| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata/) { get; set; } | Ruft den XMP-Metadatencontainer ab oder legt ihn fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Klont diese Instanz. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Verwirft die aktuelle Instanz. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Klont diese Instanz. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Verwirft die aktuelle Instanz. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel) | Die Standardkomprimierungsstufe. |
+| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/) | Die Standardkomprimierungsstufe. |
 
 ### Beispiele
 
@@ -238,8 +238,8 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Siehe auch
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* namensraum [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* namensraum [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: Matrix
+title: Matrix.Matrix
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Initialisiert eine neue Instanz der MatrixKlasse als Identitätsmatrix.
+description: Matrix constructeur. Initialisiert eine neue Instanz der MatrixKlasse als Identitätsmatrix.
 type: docs
 weight: 10
 url: /de/net/aspose.psd/matrix/matrix/
@@ -16,15 +16,15 @@ public Matrix()
 
 ### Siehe auch
 
-* class [Matrix](../../matrix)
-* namensraum [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* namensraum [Aspose.PSD](../../matrix/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(float, float, float, float, float, float) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`Matrix`](../../matrix) Klasse.
+Initialisiert eine neue Instanz von[`Matrix`](../) Klasse.
 
 ```csharp
 public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
@@ -41,15 +41,15 @@ public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 
 ### Siehe auch
 
-* class [Matrix](../../matrix)
-* namensraum [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* namensraum [Aspose.PSD](../../matrix/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(RectangleF, PointF[]) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`Matrix`](../../matrix) Klasse in die geometrische Transformation, die durch das angegebene Rechteck und das Array von Punkten definiert ist.
+Initialisiert eine neue Instanz von[`Matrix`](../) Klasse in die geometrische Transformation, die durch das angegebene Rechteck und das Array von Punkten definiert ist.
 
 ```csharp
 public Matrix(RectangleF rect, PointF[] plgpts)
@@ -57,22 +57,22 @@ public Matrix(RectangleF rect, PointF[] plgpts)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | RectangleF | EIN[`RectangleF`](../../rectanglef) Struktur, die das zu transformierende Rechteck darstellt. |
-| plgpts | PointF[] | Eine Reihe von drei[`PointF`](../../pointf)Strukturen, die die Punkte eines Parallelogramms darstellen, in die die obere linke, obere rechte und untere linke Ecke des Rechtecks transformiert werden soll. Die untere rechte Ecke des Parallelogramms wird durch die ersten drei Ecken impliziert. |
+| rect | RectangleF | A[`RectangleF`](../../rectanglef/) Struktur, die das zu transformierende Rechteck darstellt. |
+| plgpts | PointF[] | Eine Reihe von drei[`PointF`](../../pointf/)Strukturen, die die Punkte eines Parallelogramms darstellen, in die die obere linke, obere rechte und untere linke Ecke des Rechtecks transformiert werden soll. Die untere rechte Ecke des Parallelogramms wird durch die ersten drei Ecken impliziert. |
 
 ### Siehe auch
 
-* struct [RectangleF](../../rectanglef)
-* struct [PointF](../../pointf)
-* class [Matrix](../../matrix)
-* namensraum [Aspose.PSD](../../matrix)
+* struct [RectangleF](../../rectanglef/)
+* struct [PointF](../../pointf/)
+* class [Matrix](../)
+* namensraum [Aspose.PSD](../../matrix/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Rectangle, Point[]) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`Matrix`](../../matrix) Klasse in die geometrische Transformation, die durch das angegebene Rechteck und das Array von Punkten definiert ist.
+Initialisiert eine neue Instanz von[`Matrix`](../) Klasse in die geometrische Transformation, die durch das angegebene Rechteck und das Array von Punkten definiert ist.
 
 ```csharp
 public Matrix(Rectangle rect, Point[] plgpts)
@@ -80,22 +80,22 @@ public Matrix(Rectangle rect, Point[] plgpts)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | EIN[`Rectangle`](../../rectangle) Struktur, die das zu transformierende Rechteck darstellt. |
-| plgpts | Point[] | Eine Reihe von drei[`Point`](../../point)Strukturen, die die Punkte eines Parallelogramms darstellen, in die die obere linke, obere rechte und untere linke Ecke des Rechtecks transformiert werden soll. Die untere rechte Ecke des Parallelogramms wird durch die ersten drei Ecken impliziert. |
+| rect | Rectangle | A[`Rectangle`](../../rectangle/) Struktur, die das zu transformierende Rechteck darstellt. |
+| plgpts | Point[] | Eine Reihe von drei[`Point`](../../point/)Strukturen, die die Punkte eines Parallelogramms darstellen, in die die obere linke, obere rechte und untere linke Ecke des Rechtecks transformiert werden soll. Die untere rechte Ecke des Parallelogramms wird durch die ersten drei Ecken impliziert. |
 
 ### Siehe auch
 
-* struct [Rectangle](../../rectangle)
-* struct [Point](../../point)
-* class [Matrix](../../matrix)
-* namensraum [Aspose.PSD](../../matrix)
+* struct [Rectangle](../../rectangle/)
+* struct [Point](../../point/)
+* class [Matrix](../)
+* namensraum [Aspose.PSD](../../matrix/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Matrix) {#constructor_1}
 
-Erstellt eine Kopie der[`Matrix`](../../matrix) Klasse.
+Erstellt eine Kopie der[`Matrix`](../) Klasse.
 
 ```csharp
 public Matrix(Matrix origin)
@@ -107,8 +107,8 @@ public Matrix(Matrix origin)
 
 ### Siehe auch
 
-* class [Matrix](../../matrix)
-* namensraum [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* namensraum [Aspose.PSD](../../matrix/)
 * Montage [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

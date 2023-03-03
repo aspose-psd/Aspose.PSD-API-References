@@ -1,9 +1,9 @@
 ---
-title: PlLdResource
+title: Class PlLdResource
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Definiert die PlLdResourceKlasse die Informationen über eine platzierte Ebene in der PSDDatei enthält. Wird verwendet um intelligente Objektebenen in den Adobe PhotoshopBildern zu unterstützen. Sie wurde in Adobe Photoshop CS3 durch SoLdResource ersetzt
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource klas. Definiert die PlLdResourceKlasse die Informationen über eine platzierte Ebene in der PSDDatei enthält. Wird verwendet um intelligente Objektebenen in den Adobe PhotoshopBildern zu unterstützen. Sie wurde in Adobe Photoshop CS3 durch SoLdResource ersetzt
 type: docs
-weight: 2900
+weight: 2920
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
 ## PlLdResource class
@@ -18,46 +18,46 @@ public class PlLdResource : PlacedResource
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy) { get; set; } | Ruft die Anti-Alias-Richtlinie der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom) { get; set; } | Ruft die untere Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds) { get; set; } | Ruft die Grenzen der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit) { get; set; } | Ruft die Maßeinheit der horizontalen Netzpunkte ab oder legt sie fest. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dieser Instanz-Warp-Stil benutzerdefiniert ist. Wenn wahr, enthält er Mesh-Punkte. Wenn auf „false“ gesetzt, werden Mesh-Punkte gelöscht. |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items) { get; set; } | Ruft die Warp-Elemente ab oder legt sie fest. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key) { get; } | Ruft den PlLd-Ressourcenschlüssel ab. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left) { get; set; } | Ruft die linke Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length) { get; } | Ruft die PlLd-Ressourcenlänge in Bytes ab. |
-| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber) { get; set; } | Ruft die Seitenzahl der platzierten Ebene in der PSD-Datei ab oder setzt sie. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective) { get; set; } | Ruft den Perspektivenwert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother) { get; set; } | Holt oder setzt den Perspective Other-Wert der platzierten Ebene in der PSD-Datei. |
-| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype) { get; set; } | Ruft den Typ der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion) { get; } | Ruft die minimale PSD-Version ab, die für die PlLd-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right) { get; set; } | Ruft die richtige Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature) { get; } | Ruft die PlLd-Ressourcensignatur ab. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top) { get; set; } | Ruft die oberste Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages) { get; set; } | Ruft die Gesamtseitenzahl der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix) { get; set; } | Ruft die Transformationsmatrix der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid) { get; set; } | Ruft die globale eindeutige Kennung der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder) { get; set; } | Ruft den U-Ordnungswert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value) { get; set; } | Ruft den Warp-Wert der platzierten Ebene im PSD-Bild ab oder legt ihn fest. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version) { get; } | Ruft die Version der platzierten Ebene in der PSD-Datei ab, normalerweise 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit) { get; set; } | Ruft die Maßeinheit der vertikalen Gitterpunkte ab oder legt sie fest. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder) { get; set; } | Ruft den Wert der V-Ordnung der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Ruft die Anti-Alias-Richtlinie der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Ruft die untere Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Ruft die Grenzen der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Ruft die Maßeinheit der horizontalen Netzpunkte ab oder legt sie fest. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dieser Instanz-Warp-Stil benutzerdefiniert ist. Wenn wahr, enthält er Mesh-Punkte. Wenn auf „false“ gesetzt, werden Mesh-Punkte gelöscht. |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Ruft die Warp-Elemente ab oder legt sie fest. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/) { get; } | Ruft den PlLd-Ressourcenschlüssel ab. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Ruft die linke Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | Ruft die PlLd-Ressourcenlänge in Bytes ab. |
+| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | Ruft die Seitenzahl der platzierten Ebene in der PSD-Datei ab oder setzt sie. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Ruft den Perspektivenwert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Holt oder setzt den Perspective Other-Wert der platzierten Ebene in der PSD-Datei. |
+| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | Ruft den Typ der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion/) { get; } | Ruft die minimale PSD-Version ab, die für die PlLd-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Ruft die richtige Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/) { get; } | Ruft die PlLd-Ressourcensignatur ab. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Ruft die oberste Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Ruft die Gesamtseitenzahl der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Ruft die Transformationsmatrix der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Ruft die globale eindeutige Kennung der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Ruft den U-Ordnungswert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Ruft den Warp-Wert der platzierten Ebene im PSD-Bild ab oder legt ihn fest. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Ruft die Version der platzierten Ebene in der PSD-Datei ab, normalerweise 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Ruft die Maßeinheit der vertikalen Gitterpunkte ab oder legt sie fest. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Ruft den Wert der V-Ordnung der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save)(StreamContainer, int) | Speichert die PlLD-Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | Speichert die PlLD-Ressource im angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey) | Der Typ-Tool-Info-Schlüssel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | Der Typ-Tool-Info-Schlüssel. |
 
 ### Beispiele
 
@@ -266,8 +266,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Siehe auch
 
-* class [PlacedResource](../placedresource)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [PlacedResource](../placedresource/)
+* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

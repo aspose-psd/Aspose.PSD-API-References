@@ -1,9 +1,9 @@
 ---
-title: LiFeDataSource
+title: Class LiFeDataSource
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Definiert die LnkeDataSourceKlasse die Informationen über extern verknüpfte Dateien enthält. Dies ist Teil der PSDDateiformatManipulationsAPI die hilft Adobe PhotoshopDateien zu ändern
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource klas. Definiert die LnkeDataSourceKlasse die Informationen über extern verknüpfte Dateien enthält. Dies ist Teil der PSDDateiformatManipulationsAPI die hilft Adobe PhotoshopDateien zu ändern
 type: docs
-weight: 2660
+weight: 2680
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
 ## LiFeDataSource class
@@ -18,36 +18,36 @@ public class LiFeDataSource : LinkDataSource
 
 | Name | Beschreibung |
 | --- | --- |
-| [LiFeDataSource](lifedatasource#constructor)() | Initialisiert eine neue Instanz von[`LiFeDataSource`](../lifedatasource) Klasse. |
-| [LiFeDataSource](lifedatasource#constructor_1)(int, Guid, string, string, string) | Initialisiert eine neue Instanz von[`LiFeDataSource`](../lifedatasource) Klasse. |
+| [LiFeDataSource](lifedatasource/#constructor)() | Initialisiert eine neue Instanz von`LiFeDataSource` Klasse. |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Initialisiert eine neue Instanz von`LiFeDataSource` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid) { get; set; } | Ruft die AdobeStockId der Grafikbibliothek für Adobe® Photoshop® CC-Bibliotheken ab oder legt sie fest. |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate) { get; } | Ruft den Status der Adobe Stock-Lizenz ab, falls verfügbar, für Adobe® Photoshop® CC-Bibliotheken. |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob das PSD-Asset gesperrt ist. Der Asset-Sperrstatus für Adobe® Photoshop® СС Libraries-Assets. |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime) { get; set; } | Ruft die Änderungszeit des Assets für Adobe® Photoshop® СС Libraries-Assets ab oder legt sie fest. |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid) { get; set; } | Ruft die untergeordnete Dokumentkennung in der liFE- oder liFD-Datenquelle der Lnk2-/LnkE-Adobe® Photoshop®-Ressource ab oder legt sie fest. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid) { get; set; } | Erhält oder setzt die ID der aktuell ausgewählten Komposition für das untergeordnete Dokument, die -1 ist, wenn keine ausgewählt ist. Kompositionen sind Kompositionen eines Seitenlayouts, die Designer erstellen können. Mithilfe von Ebenenkompositionen können Sie mehrere Versionen eines Layouts in einer einzigen Adobe® Photoshop®-Datei erstellen, verwalten und anzeigen. Eine Ebenenkomposition ist eine Momentaufnahme eines Zustands des Ebenenbedienfelds. Ebenenkompositionen speichern drei Arten von Ebenenoptionen, aber diese Eigenschaft erhält die Auswahlkennung der Ebenenkomposition für Smart Objects. [Ebenenkompositionen in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date) { get; set; } | Ruft Datum und Uhrzeit des letzten Schreibens der externen Datei in der LiFE-Datenquelle der PSD-LnkE-Ressource ab oder legt sie fest. |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname) { get; set; } | Ruft den Elementnamen der Grafikbibliothek für Adobe® Photoshop® CC-Bibliotheken ab oder legt ihn fest. |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref) { get; set; } | Ruft die Elementreferenz der Grafikbibliothek für Adobe® Photoshop® CC-Bibliotheken ab oder legt sie fest. |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator) { get; set; } | Holt oder setzt den Dateiersteller im PSD-Format LnkE / Lnk2-Ressource. |
-| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename) { get; set; } | Ruft den Namen der externen oder eingebetteten Datei in der PSD-Link-Ressource ab oder legt ihn fest. |
-| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize) { get; set; } | Ruft die Größe der externen Datei in der LiFE-Datenquelle der PSD-LnkE-Ressource ab oder legt sie fest. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype) { get; set; } | Ermittelt oder setzt den Typ der eingebetteten oder externen Datei, die die Adobe® Photoshop® Lnk2/LnkE-Ressource enthält oder verlinkt. |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath) { get; set; } | Ruft den vollständigen Pfad der externen Datei in der LiFE-Datenquelle der PSD-LnkE-Ressource ab oder legt ihn fest. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Verknüpfungsdatenquelle den Dateiöffnungsdeskriptor hat: CompId und OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink) { get; } | Ruft einen Wert ab, der angibt, ob diese PSD-Link-Datenquelle mit dem Adobe® Photoshop® СС-Bibliothekselement verknüpft ist. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length) { get; } | Ruft die Länge der Link-Datenquelle in Bytes ab. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid) { get; } | Ruft die ursprüngliche ID der aktuell ausgewählten Komposition für das untergeordnete Dokument ab, die -1 ist, wenn keine ausgewählt ist. Diese Eigenschaft erhält die ursprüngliche Layer-Kompositionsauswahlkennung für Smart Objects. [Ebenenkompositionen in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename) { get; } | Ruft den ursprünglichen Dateinamen der Datenquelle in der globalen Link-Ressource von Adobe® Photoshop® ab. |
-| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath) { get; set; } | Ruft den relativen Pfad der externen Datei in der LiFE-Datenquelle der PSD-LnkE-Ressource ab oder legt ihn fest. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type) { get; } | Ruft den Datenquellentyp des globalen Links von Adobe® Photoshop® ab, der einer der folgenden oder keiner sein kann: Die eingebettete verknüpfte Datei liFD, die der PSD Lnk2Resource entspricht Die externe verknüpfte Datei liFE, die der PSD LnkeResource entspricht Der Alias der verknüpften Datei liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid) { get; } | Ruft die globale eindeutige Kennung der Datenquelle in der PSD-Link-Ressource ab. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version) { get; } | Ruft die Version der Datenquelle in der PSD-LnkE-/Lnk2-Ressource ab. |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Ruft die AdobeStockId der Grafikbibliothek für Adobe® Photoshop® CC-Bibliotheken ab oder legt sie fest. |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Ruft den Status der Adobe Stock-Lizenz ab, falls verfügbar, für Adobe® Photoshop® CC-Bibliotheken. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob das PSD-Asset gesperrt ist. Der Asset-Sperrstatus für Adobe® Photoshop® СС Libraries-Assets. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Ruft die Änderungszeit des Assets für Adobe® Photoshop® СС Libraries-Assets ab oder legt sie fest. |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Ruft die untergeordnete Dokumentkennung in der liFE- oder liFD-Datenquelle der Lnk2-/LnkE-Adobe® Photoshop®-Ressource ab oder legt sie fest. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Erhält oder setzt die ID der aktuell ausgewählten Komposition für das untergeordnete Dokument, die -1 ist, wenn keine ausgewählt ist. Kompositionen sind Kompositionen eines Seitenlayouts, die Designer erstellen können. Mithilfe von Ebenenkompositionen können Sie mehrere Versionen eines Layouts in einer einzigen Adobe® Photoshop®-Datei erstellen, verwalten und anzeigen. Eine Ebenenkomposition ist eine Momentaufnahme eines Zustands des Ebenenbedienfelds. Ebenenkompositionen speichern drei Arten von Ebenenoptionen, aber diese Eigenschaft erhält die Auswahlkennung der Ebenenkomposition für Smart Objects. [Ebenenkompositionen in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Ruft Datum und Uhrzeit des letzten Schreibens der externen Datei in der LiFE-Datenquelle der PSD-LnkE-Ressource ab oder legt sie fest. |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Ruft den Elementnamen der Grafikbibliothek für Adobe® Photoshop® CC-Bibliotheken ab oder legt ihn fest. |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Ruft die Elementreferenz der Grafikbibliothek für Adobe® Photoshop® CC-Bibliotheken ab oder legt sie fest. |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Holt oder setzt den Dateiersteller im PSD-Format LnkE / Lnk2-Ressource. |
+| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Ruft den Namen der externen oder eingebetteten Datei in der PSD-Link-Ressource ab oder legt ihn fest. |
+| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | Ruft die Größe der externen Datei in der LiFE-Datenquelle der PSD-LnkE-Ressource ab oder legt sie fest. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Ermittelt oder setzt den Typ der eingebetteten oder externen Datei, die die Adobe® Photoshop® Lnk2/LnkE-Ressource enthält oder verlinkt. |
+| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Ruft den vollständigen Pfad der externen Datei in der LiFE-Datenquelle der PSD-LnkE-Ressource ab oder legt ihn fest. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Verknüpfungsdatenquelle den Dateiöffnungsdeskriptor hat: CompId und OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Ruft einen Wert ab, der angibt, ob diese PSD-Link-Datenquelle mit dem Adobe® Photoshop® СС-Bibliothekselement verknüpft ist. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Ruft die Länge der Link-Datenquelle in Bytes ab. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Ruft die ursprüngliche ID der aktuell ausgewählten Komposition für das untergeordnete Dokument ab, die -1 ist, wenn keine ausgewählt ist. Diese Eigenschaft erhält die ursprüngliche Layer-Kompositionsauswahlkennung für Smart Objects. [Ebenenkompositionen in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Ruft den ursprünglichen Dateinamen der Datenquelle in der globalen Link-Ressource von Adobe® Photoshop® ab. |
+| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | Ruft den relativen Pfad der externen Datei in der LiFE-Datenquelle der PSD-LnkE-Ressource ab oder legt ihn fest. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Ruft den Datenquellentyp des globalen Links von Adobe® Photoshop® ab, der einer der folgenden oder keiner sein kann: Die eingebettete verknüpfte Datei liFD, die der PSD Lnk2Resource entspricht Die externe verknüpfte Datei liFE, die der PSD LnkeResource entspricht Der Alias der verknüpften Datei liFA |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Ruft die globale eindeutige Kennung der Datenquelle in der PSD-Link-Ressource ab. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Ruft die Version der Datenquelle in der PSD-LnkE-/Lnk2-Ressource ab. |
 
 ### Beispiele
 
@@ -443,8 +443,8 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### Siehe auch
 
-* class [LinkDataSource](../linkdatasource)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LinkDataSource](../linkdatasource/)
+* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

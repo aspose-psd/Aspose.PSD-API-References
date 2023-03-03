@@ -1,9 +1,9 @@
 ---
-title: ITextParagraph
+title: Interface ITextParagraph
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Die Schnittstelle zum Arbeiten mit Absatz
+description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph koppel. Die Schnittstelle zum Arbeiten mit Absatz
 type: docs
-weight: 3460
+weight: 3520
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
 ## ITextParagraph interface
@@ -18,34 +18,34 @@ public interface ITextParagraph
 
 | Name | Beschreibung |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [automatische Silbentrennung]. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading) { get; set; } | Holt oder setzt den automatischen Zeilenabstand. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`ITextParagraph`](../itextparagraph) ist burasagiri. |
-| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens) { get; set; } | Holt oder setzt die aufeinanderfolgenden Bindestriche. |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent) { get; set; } | Ruft den Einzug am Ende ab oder legt ihn fest. |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [jeder Zeilenkomponist]. |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent) { get; set; } | Holt oder setzt den Einzug der ersten Zeile. |
-| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing) { get; set; } | Ruft den Glyphenabstand ab oder legt ihn fest. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`ITextParagraph`](../itextparagraph) hängt. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize) { get; set; } | Ruft die Größe des Worts mit Bindestrich ab oder legt sie fest. |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification) { get; set; } | Ruft die Begründung ab oder legt sie fest. |
-| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder) { get; set; } | Ruft die Kinsoku-Reihenfolge ab oder legt sie fest. |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype) { get; set; } | Ruft den Typ des Zeilenabstands ab oder legt ihn fest. |
-| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing) { get; set; } | Ruft den Buchstabenabstand ab oder legt ihn fest. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen) { get; set; } | Ruft den Post-Bindestrich ab oder legt ihn fest. |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen) { get; set; } | Ruft den Prä-Bindestrich ab oder legt ihn fest. |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter) { get; set; } | Ruft das Leerzeichen danach ab oder legt es fest. |
-| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore) { get; set; } | Holt oder setzt das Leerzeichen davor. |
-| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent) { get; set; } | Ruft den Starteinzug ab oder legt ihn fest. |
-| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing) { get; set; } | Ruft den Wortabstand ab oder legt ihn fest. |
-| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone) { get; set; } | Ruft die Zone ab oder legt sie fest. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [automatische Silbentrennung]. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Holt oder setzt den automatischen Zeilenabstand. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`ITextParagraph`ist burasagiri. |
+| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Holt oder setzt die aufeinanderfolgenden Bindestriche. |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Ruft den Einzug am Ende ab oder legt ihn fest. |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [jeder Zeilenkomponist]. |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Holt oder setzt den Einzug der ersten Zeile. |
+| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Ruft den Glyphenabstand ab oder legt ihn fest. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`ITextParagraph` hängt. |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Ruft die Größe des Worts mit Bindestrich ab oder legt sie fest. |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Ruft die Begründung ab oder legt sie fest. |
+| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Ruft die Kinsoku-Reihenfolge ab oder legt sie fest. |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Ruft den Typ des Zeilenabstands ab oder legt ihn fest. |
+| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Ruft den Buchstabenabstand ab oder legt ihn fest. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Ruft den Post-Bindestrich ab oder legt ihn fest. |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Ruft den Prä-Bindestrich ab oder legt ihn fest. |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Ruft das Leerzeichen danach ab oder legt es fest. |
+| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Holt oder setzt das Leerzeichen davor. |
+| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Ruft den Starteinzug ab oder legt ihn fest. |
+| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Ruft den Wortabstand ab oder legt ihn fest. |
+| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Ruft die Zone ab oder legt sie fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply)(ITextParagraph) | Wendet den angegebenen Absatz an. |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal)(ITextParagraph) | Bestimmt, ob der angegebene Absatz gleich ist. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | Wendet den angegebenen Absatz an. |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | Bestimmt, ob der angegebene Absatz gleich ist. |
 
 ### Beispiele
 
@@ -227,7 +227,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text)
+* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
