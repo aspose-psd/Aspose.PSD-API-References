@@ -1,0 +1,27 @@
+---
+title: StreamReadException.ExpectedReadCount
+second_title: .NET API 참조용 Aspose.PSD
+description: StreamReadException 재산. 예상 읽기 바이트 수를 가져옵니다.
+type: docs
+weight: 30
+url: /ko/net/aspose.psd.coreexceptions/streamreadexception/expectedreadcount/
+---
+## StreamReadException.ExpectedReadCount property
+
+예상 읽기 바이트 수를 가져옵니다.
+
+```csharp
+public int ExpectedReadCount { get; }
+```
+
+### 자산 가치
+
+예상 읽기 바이트 수입니다.
+
+### 또한보십시오
+
+* class [StreamReadException](../)
+* 네임스페이스 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
+* 집회 [Aspose.PSD](../../../)
+
+

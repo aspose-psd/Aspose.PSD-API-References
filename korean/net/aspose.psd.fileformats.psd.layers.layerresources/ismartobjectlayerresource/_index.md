@@ -1,0 +1,106 @@
+---
+title: Interface ISmartObjectLayerResource
+second_title: .NET API 참조용 Aspose.PSD
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource 상호 작용. PSD 파일의 스마트 개체 레이어 리소스에 대한 정보가 포함된 ISmartObjectLayerResource 인터페이스를 정의합니다. Adobe Photoshop 이미지에서 Sold 및 Sole 리소스를 모두 지정하는 데 사용되는 마크업 인터페이스이기도 합니다.
+type: docs
+weight: 2540
+url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
+---
+## ISmartObjectLayerResource interface
+
+PSD 파일의 스마트 개체 레이어 리소스에 대한 정보가 포함된 ISmartObjectLayerResource 인터페이스를 정의합니다. Adobe® Photoshop® 이미지에서 Sold 및 Sole 리소스를 모두 지정하는 데 사용되는 마크업 인터페이스이기도 합니다.
+
+```csharp
+public interface ISmartObjectLayerResource : IPlacedLayerResource
+```
+
+## 속성
+
+| 이름 | 설명 |
+| --- | --- |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | PSD 이미지에서 이 스마트 개체 레이어 데이터의 고유 식별자를 가져오거나 설정합니다. |
+
+### 예
+
+다음 코드는 Embedded Smart objects의 지원을 보여줍니다.
+
+```csharp
+[C#]
+
+void AssertAreEqual(object actual, object expected)
+{
+    if (!object.Equals(actual, expected))
+    {
+        throw new FormatException(string.Format("Actual value {0} are not equal to expected {1}.", actual, expected));
+    }
+}
+
+// 이 예제는 PSD 파일에서 스마트 오브젝트 레이어를 변경하고 스마트 오브젝트 원본 임베디드 콘텐츠를 내보내거나 업데이트하는 방법을 보여줍니다.
+const int left = 0;
+const int top = 0;
+const int right = 0xb;
+const int bottom = 0x10;
+FileFormat[] formats = new[]
+{
+    FileFormat.Png, FileFormat.Psd, FileFormat.Bmp, FileFormat.Jpeg, FileFormat.Gif, FileFormat.Tiff, FileFormat.Jpeg2000
+};
+foreach (FileFormat format in formats)
+{
+    string formatString = format.ToString().ToLowerInvariant();
+    string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : formatString;
+    string fileName = "r-embedded-" + formatString;
+    string sourceFilePath = fileName + ".psd";
+    string pngOutputPath = fileName + "_output.png";
+    string psdOutputPath = fileName + "_output.psd";
+    string png2OutputPath = fileName + "_updated.png";
+    string psd2OutputPath = fileName + "_updated.psd";
+    string exportPath = fileName + "_export." + formatExt;
+    using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
+    {
+        var smartObjectLayer = (SmartObjectLayer)image.Layers[0];
+
+        AssertAreEqual(left, smartObjectLayer.ContentsBounds.Left);
+        AssertAreEqual(top, smartObjectLayer.ContentsBounds.Top);
+        AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
+        AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
+
+        // PSD 스마트 개체 레이어에서 포함된 스마트 개체 이미지를 내보내겠습니다.
+        smartObjectLayer.ExportContents(exportPath);
+
+        // 원본 이미지가 제대로 저장되었는지 확인해보자
+        image.Save(psdOutputPath, new PsdOptions(image));
+        image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+
+        using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
+        {
+            AssertAreEqual(format, innerImage.FileFormat);
+
+            // 원본 스마트 오브젝트 이미지를 반전시키자
+            var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
+            for (int i = 0; i < pixels.Length; i++)
+            {
+                var pixel = pixels[i];
+                var alpha = (int)(pixel & 0xff000000);
+                pixels[i] = (~(pixel & 0x00ffffff)) | alpha;
+            }
+
+            innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
+
+            // PSD 레이어에 포함된 스마트 오브젝트 이미지를 교체해 보겠습니다.
+            smartObjectLayer.ReplaceContents(innerImage);
+        }
+
+        // 업데이트된 이미지가 제대로 저장되었는지 확인해보자
+        image.Save(psd2OutputPath, new PsdOptions(image));
+        image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+    }
+}
+```
+
+### 또한보십시오
+
+* interface [IPlacedLayerResource](../iplacedlayerresource/)
+* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* 집회 [Aspose.PSD](../../)
+
+
