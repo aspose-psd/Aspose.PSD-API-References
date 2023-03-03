@@ -1,36 +1,14 @@
 ---
-title: Save
+title: StreamContainer.Save
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Enregistre copie les données du flux dans le flux spécifié.
+description: StreamContainer méthode. Enregistre copie les données du flux dans le flux spécifié. Utilise la taille de tampon par défautReadWriteBytesCount et streamerLength valeur.
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/streamcontainer/save/
 ---
-## Save(Stream, int, long) {#save_2}
-
-Enregistre (copie) les données du flux dans le flux spécifié.
-
-```csharp
-public virtual void Save(Stream destinationStream, int bufferSize, long length)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| destinationStream | Stream | Le flux dans lequel enregistrer les données. |
-| bufferSize | Int32 | La taille de la mémoire tampon. Par défaut[`ReadWriteBytesCount`](../readwritebytescount) valeur est utilisée. |
-| length | Int64 | La longueur des données de flux à copier. Par défaut, la longueur est définie sur[`Length`](../length) évaluer. |
-
-### Voir également
-
-* class [StreamContainer](../../streamcontainer)
-* espace de noms [Aspose.PSD](../../streamcontainer)
-* Assemblée [Aspose.PSD](../../../)
-
----
-
 ## Save(Stream) {#save}
 
-Enregistre (copie) les données du flux dans le flux spécifié. Utilise la taille de tampon par défaut[`ReadWriteBytesCount`](../readwritebytescount) et streamer[`Length`](../length) valeur.
+Enregistre (copie) les données du flux dans le flux spécifié. Utilise la taille de tampon par défaut[`ReadWriteBytesCount`](../readwritebytescount/) et streamer[`Length`](../length/) valeur.
 
 ```csharp
 public virtual void Save(Stream destinationStream)
@@ -42,15 +20,15 @@ public virtual void Save(Stream destinationStream)
 
 ### Voir également
 
-* class [StreamContainer](../../streamcontainer)
-* espace de noms [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espace de noms [Aspose.PSD](../../streamcontainer/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-Enregistre (copie) toutes les données du flux dans le flux spécifié. Utilise le flux[`Length`](../length) valeur.
+Enregistre (copie) toutes les données du flux dans le flux spécifié. Utilise le flux[`Length`](../length/) valeur.
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize)
@@ -63,15 +41,37 @@ public virtual void Save(Stream destinationStream, int bufferSize)
 
 ### Voir également
 
-* class [StreamContainer](../../streamcontainer)
-* espace de noms [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espace de noms [Aspose.PSD](../../streamcontainer/)
+* Assemblée [Aspose.PSD](../../../)
+
+---
+
+## Save(Stream, int, long) {#save_2}
+
+Enregistre (copie) les données du flux dans le flux spécifié.
+
+```csharp
+public virtual void Save(Stream destinationStream, int bufferSize, long length)
+```
+
+| Paramètre | Taper | La description |
+| --- | --- | --- |
+| destinationStream | Stream | Le flux dans lequel enregistrer les données. |
+| bufferSize | Int32 | La taille de la mémoire tampon. Par défaut[`ReadWriteBytesCount`](../readwritebytescount/) valeur est utilisée. |
+| length | Int64 | La longueur des données de flux à copier. Par défaut, la longueur est définie sur[`Length`](../length/) valeur. |
+
+### Voir également
+
+* class [StreamContainer](../)
+* espace de noms [Aspose.PSD](../../streamcontainer/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_3}
 
-Enregistre (copie) les données du flux dans le flux spécifié. Utilise la taille de tampon par défaut[`ReadWriteBytesCount`](../readwritebytescount) et streamer[`Length`](../length) valeur.
+Enregistre (copie) les données du flux dans le flux spécifié. Utilise la taille de tampon par défaut[`ReadWriteBytesCount`](../readwritebytescount/) et streamer[`Length`](../length/) valeur.
 
 ```csharp
 public virtual void Save(string filePath)
@@ -83,15 +83,15 @@ public virtual void Save(string filePath)
 
 ### Voir également
 
-* class [StreamContainer](../../streamcontainer)
-* espace de noms [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espace de noms [Aspose.PSD](../../streamcontainer/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int) {#save_4}
 
-Enregistre (copie) les données du flux dans le flux spécifié. Utilise le flux[`Length`](../length) valeur.
+Enregistre (copie) les données du flux dans le flux spécifié. Utilise le flux[`Length`](../length/) valeur.
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize)
@@ -100,12 +100,12 @@ public virtual void Save(string filePath, int bufferSize)
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | filePath | String | Chemin d'accès au fichier dans lequel enregistrer les données de flux. |
-| bufferSize | Int32 | La taille de la mémoire tampon. Par défaut[`ReadWriteBytesCount`](../readwritebytescount) valeur est utilisée. |
+| bufferSize | Int32 | La taille de la mémoire tampon. Par défaut[`ReadWriteBytesCount`](../readwritebytescount/) valeur est utilisée. |
 
 ### Voir également
 
-* class [StreamContainer](../../streamcontainer)
-* espace de noms [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espace de noms [Aspose.PSD](../../streamcontainer/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
@@ -121,13 +121,13 @@ public virtual void Save(string filePath, int bufferSize, long length)
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | filePath | String | Chemin d'accès au fichier dans lequel enregistrer les données de flux. |
-| bufferSize | Int32 | La taille de la mémoire tampon. Par défaut[`ReadWriteBytesCount`](../readwritebytescount) valeur est utilisée. |
-| length | Int64 | La longueur des données de flux à copier. Par défaut, la longueur est définie sur[`Length`](../length) évaluer. |
+| bufferSize | Int32 | La taille de la mémoire tampon. Par défaut[`ReadWriteBytesCount`](../readwritebytescount/) valeur est utilisée. |
+| length | Int64 | La longueur des données de flux à copier. Par défaut, la longueur est définie sur[`Length`](../length/) valeur. |
 
 ### Voir également
 
-* class [StreamContainer](../../streamcontainer)
-* espace de noms [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espace de noms [Aspose.PSD](../../streamcontainer/)
 * Assemblée [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

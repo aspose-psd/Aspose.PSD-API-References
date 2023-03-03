@@ -1,14 +1,14 @@
 ---
-title: LnkeResource
+title: Class LnkeResource
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Définit la classe LnkeResource qui contient des informations sur les fichiers ou actifs externes liés dans limage au format PSD. La ressource de lien peut contenir plusieursLiFeDataSource./lifedatasource instances accessibles par lindexeur. Il sagit dune partie de lAPI de manipulation du format de fichier PSD qui permet de modifier les fichiers Adobe Photoshop par programmation
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource classe. Définit la classe LnkeResource qui contient des informations sur les fichiers ou actifs externes liés dans limage au format PSD. La ressource de lien peut contenir plusieursLiFeDataSource instances accessibles par lindexeur. Il sagit dune partie de lAPI de manipulation du format de fichier PSD qui permet de modifier les fichiers Adobe Photoshop par programmation
 type: docs
-weight: 2720
+weight: 2740
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
 ## LnkeResource class
 
-Définit la classe LnkeResource qui contient des informations sur les fichiers ou actifs externes liés dans l'image au format PSD. La ressource de lien peut contenir plusieurs[`LiFeDataSource`](../lifedatasource) instances accessibles par l'indexeur. Il s'agit d'une partie de l'API de manipulation du format de fichier PSD qui permet de modifier les fichiers Adobe® Photoshop® par programmation
+Définit la classe LnkeResource qui contient des informations sur les fichiers ou actifs externes liés dans l'image au format PSD. La ressource de lien peut contenir plusieurs[`LiFeDataSource`](../lifedatasource/) instances accessibles par l'indexeur. Il s'agit d'une partie de l'API de manipulation du format de fichier PSD qui permet de modifier les fichiers Adobe® Photoshop® par programmation
 
 ```csharp
 public class LnkeResource : LinkResource
@@ -18,33 +18,33 @@ public class LnkeResource : LinkResource
 
 | Nom | La description |
 | --- | --- |
-| [LnkeResource](lnkeresource#constructor)() | Initialise une nouvelle instance du[`LnkeResource`](../lnkeresource) classe. |
-| [LnkeResource](lnkeresource#constructor_1)(LinkDataSource[]) | Initialise une nouvelle instance du[`LnkeResource`](../lnkeresource) classe. |
+| [LnkeResource](lnkeresource/#constructor)() | Initialise une nouvelle instance du`LnkeResource` classe. |
+| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | Initialise une nouvelle instance du`LnkeResource` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount) { get; } | Obtient le nombre de sources de données de liens accessibles par l'indexeur. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | Obtient une valeur indiquant si cette instance de ressource de lien est vide. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item) { get; } | Obtient le[`LiFeDataSource`](../lifedatasource) à l'index spécifié. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key) { get; } | Obtient la clé de ressource globale Adobe® Photoshop®. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length) { get; } | Obtient la longueur de ressource de lien global PSD en octets. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | Obtient la version du format PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature) { get; } | Obtient la signature de ressource de lien global PSD. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Obtient le nombre de sources de données de liens accessibles par l'indexeur. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Obtient une valeur indiquant si cette instance de ressource de lien est vide. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Obtient le[`LiFeDataSource`](../lifedatasource/) à l'index spécifié. (2 indexers) |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/) { get; } | Obtient la clé de ressource globale Adobe® Photoshop®. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Obtient la longueur de ressource de lien global PSD en octets. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Obtient la version du format PSD. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Obtient la signature de ressource de lien global PSD. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | Enregistre les données du bloc de ressources. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Renvoie unString qui représente cette instance. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Enregistre les données du bloc de ressources. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
 
 ### Exemples
 
@@ -272,9 +272,9 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### Voir également
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [LinkResource](../linkresource)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [LinkResource](../linkresource/)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

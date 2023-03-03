@@ -1,9 +1,9 @@
 ---
-title: TextShape
+title: Class TextShape
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Représente une forme de texte.
+description: Aspose.PSD.Shapes.TextShape classe. Représente une forme de texte.
 type: docs
-weight: 5470
+weight: 5540
 url: /fr/net/aspose.psd.shapes/textshape/
 ---
 ## TextShape class
@@ -18,39 +18,39 @@ public sealed class TextShape : RectangleProjectedShape
 
 | Nom | La description |
 | --- | --- |
-| [TextShape](textshape#constructor)() | Initialise une nouvelle instance du[`TextShape`](../textshape) classe. |
-| [TextShape](textshape#constructor_1)(string, RectangleF, Font, StringFormat) | Initialise une nouvelle instance du[`TextShape`](../textshape) classe. |
+| [TextShape](textshape/#constructor)() | Initialise une nouvelle instance du`TextShape` classe. |
+| [TextShape](textshape/#constructor_1)(string, RectangleF, Font, StringFormat) | Initialise une nouvelle instance du`TextShape` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/textshape/bounds) { get; } | Obtient les limites de l'objet. |
-| override [Center](../../aspose.psd.shapes/textshape/center) { get; } | Obtient le centre de la forme. |
-| [Font](../../aspose.psd.shapes/textshape/font) { get; set; } | Obtient ou définit la police utilisée pour dessiner le texte. |
-| override [HasSegments](../../aspose.psd.shapes/textshape/hassegments) { get; } | Obtient une valeur indiquant si la forme a des segments. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | Obtient le point du rectangle inférieur gauche. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | Obtient le point du rectangle supérieur gauche. |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | Obtient la hauteur du rectangle. |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | Obtient la largeur du rectangle. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | Obtient le point du rectangle inférieur droit. |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | Obtient le point du rectangle supérieur droit. |
-| override [Segments](../../aspose.psd.shapes/textshape/segments) { get; } | Obtient les segments de forme. |
-| [Text](../../aspose.psd.shapes/textshape/text) { get; set; } | Obtient ou définit le texte dessiné. |
-| [TextFormat](../../aspose.psd.shapes/textshape/textformat) { get; set; } | Obtient ou définit le format du texte. |
+| override [Bounds](../../aspose.psd.shapes/textshape/bounds/) { get; } | Obtient les limites de l'objet. |
+| override [Center](../../aspose.psd.shapes/textshape/center/) { get; } | Obtient le centre de la forme. |
+| [Font](../../aspose.psd.shapes/textshape/font/) { get; set; } | Obtient ou définit la police utilisée pour dessiner le texte. |
+| override [HasSegments](../../aspose.psd.shapes/textshape/hassegments/) { get; } | Obtient une valeur indiquant si la forme a des segments. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Obtient le point du rectangle inférieur gauche. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Obtient le point du rectangle supérieur gauche. |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Obtient la hauteur du rectangle. |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Obtient la largeur du rectangle. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Obtient le point du rectangle inférieur droit. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Obtient le point du rectangle supérieur droit. |
+| override [Segments](../../aspose.psd.shapes/textshape/segments/) { get; } | Obtient les segments de forme. |
+| [Text](../../aspose.psd.shapes/textshape/text/) { get; set; } | Obtient ou définit le texte dessiné. |
+| [TextFormat](../../aspose.psd.shapes/textshape/textformat/) { get; set; } | Obtient ou définit le format du texte. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds#getbounds)(Matrix) | Obtient les limites de l'objet. |
-| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds#getbounds_1)(Matrix, Pen) | Obtient les limites de l'objet. |
-| override [Transform](../../aspose.psd.shapes/textshape/transform)(Matrix) | Applique la transformation spécifiée à la forme. |
+| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds/#getbounds)(Matrix) | Obtient les limites de l'objet. |
+| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds/#getbounds_1)(Matrix, Pen) | Obtient les limites de l'objet. |
+| override [Transform](../../aspose.psd.shapes/textshape/transform/)(Matrix) | Applique la transformation spécifiée à la forme. |
 
 ### Voir également
 
-* class [RectangleProjectedShape](../rectangleprojectedshape)
-* espace de noms [Aspose.PSD.Shapes](../../aspose.psd.shapes)
+* class [RectangleProjectedShape](../rectangleprojectedshape/)
+* espace de noms [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

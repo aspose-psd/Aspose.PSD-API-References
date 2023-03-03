@@ -1,14 +1,14 @@
 ---
-title: PsdImage
+title: PsdImage.PsdImage
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Initialise une nouvelle instance duPsdImageaspose.psd.fileformats.psd/psdimage classe à partir du chemin spécifié à partir de limage raster et non de limage psd dans le chemin. Utilisé pour initialiser limage psd avec les paramètres par défaut  Mode couleur  rvb 4 canaux 8 bits par canal Compression  Raw.
+description: PsdImage constructeur. Initialise une nouvelle instance duPsdImage classe à partir du chemin spécifié à partir de limage raster et non de limage psd dans le chemin. Utilisé pour initialiser limage psd avec les paramètres par défaut  Mode couleur  rvb 4 canaux 8 bits par canal Compression  Raw.
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/psdimage/
 ---
 ## PsdImage(string) {#constructor_6}
 
-Initialise une nouvelle instance du[`PsdImage`](../../psdimage) classe à partir du chemin spécifié à partir de l'image raster (et non de l'image psd dans le chemin). Utilisé pour initialiser l'image psd avec les paramètres par défaut - Mode couleur - rvb, 4 canaux, 8 bits par canal, Compression - Raw.
+Initialise une nouvelle instance du[`PsdImage`](../) classe à partir du chemin spécifié à partir de l'image raster (et non de l'image psd dans le chemin). Utilisé pour initialiser l'image psd avec les paramètres par défaut - Mode couleur - rvb, 4 canaux, 8 bits par canal, Compression - Raw.
 
 ```csharp
 public PsdImage(string path)
@@ -20,15 +20,15 @@ public PsdImage(string path)
 
 ### Voir également
 
-* class [PsdImage](../../psdimage)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [PsdImage](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(string, ColorModes, short, short, int, CompressionMethod) {#constructor_7}
 
-Initialise une nouvelle instance du[`PsdImage`](../../psdimage) classe à partir du chemin spécifié à partir de l'image raster (et non de l'image psd dans le chemin) avec les paramètres du constructeur.
+Initialise une nouvelle instance du[`PsdImage`](../) classe à partir du chemin spécifié à partir de l'image raster (et non de l'image psd dans le chemin) avec les paramètres du constructeur.
 
 ```csharp
 public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short channels, 
@@ -46,17 +46,17 @@ public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short 
 
 ### Voir également
 
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(Stream) {#constructor_4}
 
-Initialise une nouvelle instance du[`PsdImage`](../../psdimage) classe à partir du chemin spécifié à partir de l'image raster (et non de l'image psd dans le flux). Utilisé pour initialiser l'image psd avec les paramètres par défaut - Mode couleur - rvb, 4 canaux, 8 bits par canal, Compression - Raw.
+Initialise une nouvelle instance du[`PsdImage`](../) classe à partir du chemin spécifié à partir de l'image raster (et non de l'image psd dans le flux). Utilisé pour initialiser l'image psd avec les paramètres par défaut - Mode couleur - rvb, 4 canaux, 8 bits par canal, Compression - Raw.
 
 ```csharp
 public PsdImage(Stream stream)
@@ -68,15 +68,15 @@ public PsdImage(Stream stream)
 
 ### Voir également
 
-* class [PsdImage](../../psdimage)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [PsdImage](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(Stream, ColorModes, short, short, int, CompressionMethod) {#constructor_5}
 
-Initialise une nouvelle instance du[`PsdImage`](../../psdimage) classe à partir du chemin spécifié à partir de l'image raster (pas de l'image psd dans le flux) avec les paramètres du constructeur.
+Initialise une nouvelle instance du[`PsdImage`](../) classe à partir du chemin spécifié à partir de l'image raster (pas de l'image psd dans le flux) avec les paramètres du constructeur.
 
 ```csharp
 public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, short channels, 
@@ -94,17 +94,17 @@ public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, shor
 
 ### Voir également
 
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(RasterImage) {#constructor}
 
-Initialise une nouvelle instance du[`PsdImage`](../../psdimage)classe à partir d'une image raster existante (pas d'image psd) avec mode couleur RVB avec 4 canaux 8 bits/canal et sans compression.
+Initialise une nouvelle instance du[`PsdImage`](../)classe à partir d'une image raster existante (pas d'image psd) avec mode couleur RVB avec 4 canaux 8 bits/canal et sans compression.
 
 ```csharp
 public PsdImage(RasterImage rasterImage)
@@ -116,16 +116,16 @@ public PsdImage(RasterImage rasterImage)
 
 ### Voir également
 
-* class [RasterImage](../../../aspose.psd/rasterimage)
-* class [PsdImage](../../psdimage)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [RasterImage](../../../aspose.psd/rasterimage/)
+* class [PsdImage](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(RasterImage, ColorModes, short, short, int, CompressionMethod) {#constructor_1}
 
-Initialise une nouvelle instance du[`PsdImage`](../../psdimage) classe à partir d'une image raster existante (pas d'image psd) avec les paramètres du constructeur.
+Initialise une nouvelle instance du[`PsdImage`](../) classe à partir d'une image raster existante (pas d'image psd) avec les paramètres du constructeur.
 
 ```csharp
 public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitDepth, 
@@ -143,18 +143,18 @@ public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitD
 
 ### Voir également
 
-* class [RasterImage](../../../aspose.psd/rasterimage)
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [RasterImage](../../../aspose.psd/rasterimage/)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(int, int) {#constructor_2}
 
-Initialise une nouvelle instance du[`PsdImage`](../../psdimage) classe avec une largeur et une hauteur spécifiées. Utilisé pour initialiser une image psd vide.
+Initialise une nouvelle instance du[`PsdImage`](../) classe avec une largeur et une hauteur spécifiées. Utilisé pour initialiser une image psd vide.
 
 ```csharp
 public PsdImage(int width, int height)
@@ -167,15 +167,15 @@ public PsdImage(int width, int height)
 
 ### Voir également
 
-* class [PsdImage](../../psdimage)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [PsdImage](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(int, int, IColorPalette, ColorModes, short, short, int, CompressionMethod) {#constructor_3}
 
-Initialise une nouvelle instance du[`PsdImage`](../../psdimage) classe avec la largeur, la hauteur, le paletter, le mode de couleur, le nombre de canaux et la longueur en bits spécifiés et les paramètres de mode de compression spécifiés. Utilisé pour initialiser une image psd vide.
+Initialise une nouvelle instance du[`PsdImage`](../) classe avec la largeur, la hauteur, le paletter, le mode de couleur, le nombre de canaux et la longueur en bits spécifiés et les paramètres de mode de compression spécifiés. Utilisé pour initialiser une image psd vide.
 
 ```csharp
 public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes colorMode, 
@@ -195,11 +195,11 @@ public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes co
 
 ### Voir également
 
-* interface [IColorPalette](../../../aspose.psd/icolorpalette)
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* interface [IColorPalette](../../../aspose.psd/icolorpalette/)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * Assemblée [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

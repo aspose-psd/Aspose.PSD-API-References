@@ -1,9 +1,9 @@
 ---
-title: Font
+title: Class Font
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Définit un format particulier pour le texte y compris les attributs de police de taille et de style. Cette classe ne peut pas être héritée.
+description: Aspose.PSD.Font classe. Définit un format particulier pour le texte y compris les attributs de police de taille et de style. Cette classe ne peut pas être héritée.
 type: docs
-weight: 4210
+weight: 4280
 url: /fr/net/aspose.psd/font/
 ---
 ## Font class
@@ -18,35 +18,35 @@ public sealed class Font
 
 | Nom | La description |
 | --- | --- |
-| [Font](font#constructor)(Font, FontStyle) | Initialise un nouveau[`Font`](../font) qui utilise l'existant spécifié[`Font`](../font) et[`FontStyle`](../fontstyle) énumération. |
-| [Font](font#constructor_1)(string, float) | Initialise un nouveau[`Font`](../font) en utilisant une taille spécifiée. Le jeu de caractères est défini surDefault , l'unité graphique àPoint , le style de police àRegular . |
-| [Font](font#constructor_2)(string, float, FontStyle) | Initialise un nouveau[`Font`](../font) en utilisant une taille et un style spécifiés. Le jeu de caractères est défini surDefault , l'unité graphique àPoint . |
-| [Font](font#constructor_5)(string, float, GraphicsUnit) | Initialise un nouveau[`Font`](../font) en utilisant une taille et une unité spécifiées. Le jeu de caractères est défini surDefault le style est défini surRegular . |
-| [Font](font#constructor_3)(string, float, FontStyle, GraphicsUnit) | Initialise un nouveau[`Font`](../font) en utilisant une taille, un style et une unité spécifiés. |
-| [Font](font#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Initialise un nouveau[`Font`](../font) en utilisant une taille, un style, une unité et un jeu de caractères spécifiés. |
+| [Font](font/#constructor)(Font, FontStyle) | Initialise un nouveau`Font` qui utilise l'existant spécifié`Font` et[`FontStyle`](../fontstyle/) énumération. |
+| [Font](font/#constructor_1)(string, float) | Initialise un nouveau`Font` en utilisant une taille spécifiée. Le jeu de caractères est défini surDefault , l'unité graphique àPoint , le style de police àRegular . |
+| [Font](font/#constructor_2)(string, float, FontStyle) | Initialise un nouveau`Font` en utilisant une taille et un style spécifiés. Le jeu de caractères est défini surDefault , l'unité graphique àPoint . |
+| [Font](font/#constructor_5)(string, float, GraphicsUnit) | Initialise un nouveau`Font` en utilisant une taille et une unité spécifiées. Le jeu de caractères est défini surDefault le style est défini surRegular . |
+| [Font](font/#constructor_3)(string, float, FontStyle, GraphicsUnit) | Initialise un nouveau`Font` en utilisant une taille, un style et une unité spécifiés. |
+| [Font](font/#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Initialise un nouveau`Font` en utilisant une taille, un style, une unité et un jeu de caractères spécifiés. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Bold](../../aspose.psd/font/bold) { get; } | Obtient une valeur indiquant si cela[`Font`](../font) est en gras. |
-| [CharacterSet](../../aspose.psd/font/characterset) { get; } | Obtient une valeur d'octet qui spécifie le jeu de caractères que cette[`Font`](../font) utilise. |
-| [Italic](../../aspose.psd/font/italic) { get; } | Obtient une valeur indiquant si cela[`Font`](../font)est en italique. |
-| [Name](../../aspose.psd/font/name) { get; } | Obtient le nom du visage de ce[`Font`](../font) . |
-| [Size](../../aspose.psd/font/size) { get; } | Obtient la taille em de ce[`Font`](../font) mesurée dans les unités spécifiées par le[`Unit`](./unit) propriété. |
-| [Strikeout](../../aspose.psd/font/strikeout) { get; } | Obtient une valeur indiquant si cela[`Font`](../font) spécifie une ligne horizontale à travers la police. |
-| [Style](../../aspose.psd/font/style) { get; } | Obtient les informations de style pour cela[`Font`](../font) . |
-| [Underline](../../aspose.psd/font/underline) { get; } | Obtient une valeur indiquant si cela[`Font`](../font) est souligné. |
-| [Unit](../../aspose.psd/font/unit) { get; } | Obtient l'unité de mesure pour ce[`Font`](../font) . |
+| [Bold](../../aspose.psd/font/bold/) { get; } | Obtient une valeur indiquant si cela`Font` est en gras. |
+| [CharacterSet](../../aspose.psd/font/characterset/) { get; } | Obtient une valeur d'octet qui spécifie le jeu de caractères que cette`Font` utilise. |
+| [Italic](../../aspose.psd/font/italic/) { get; } | Obtient une valeur indiquant si cela`Font`est en italique. |
+| [Name](../../aspose.psd/font/name/) { get; } | Obtient le nom du visage de ce`Font` . |
+| [Size](../../aspose.psd/font/size/) { get; } | Obtient la taille em de ce`Font` mesurée dans les unités spécifiées par le[`Unit`](./unit/) propriété. |
+| [Strikeout](../../aspose.psd/font/strikeout/) { get; } | Obtient une valeur indiquant si cela`Font` spécifie une ligne horizontale à travers la police. |
+| [Style](../../aspose.psd/font/style/) { get; } | Obtient les informations de style pour cela`Font` . |
+| [Underline](../../aspose.psd/font/underline/) { get; } | Obtient une valeur indiquant si cela`Font` est souligné. |
+| [Unit](../../aspose.psd/font/unit/) { get; } | Obtient l'unité de mesure pour ce`Font` . |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [DeepClone](../../aspose.psd/font/deepclone)() | Crée une copie profonde exacte de ceci[`Font`](../font) . |
-| override [Equals](../../aspose.psd/font/equals)(object) | Indique si l'objet spécifié est un[`Font`](../font) et a les mêmes valeurs de propriété que celle-ci[`Font`](../font) . |
-| override [GetHashCode](../../aspose.psd/font/gethashcode)() | Obtient le code de hachage pour cela[`Font`](../font) . |
-| override [ToString](../../aspose.psd/font/tostring)() | Renvoie une représentation sous forme de chaîne lisible par l'homme de ce[`Font`](../font) . |
+| [DeepClone](../../aspose.psd/font/deepclone/)() | Crée une copie profonde exacte de ceci`Font` . |
+| override [Equals](../../aspose.psd/font/equals/)(object) | Indique si l'objet spécifié est un`Font` et a les mêmes valeurs de propriété que celle-ci`Font` . |
+| override [GetHashCode](../../aspose.psd/font/gethashcode/)() | Obtient le code de hachage pour cela`Font` . |
+| override [ToString](../../aspose.psd/font/tostring/)() | Renvoie une représentation sous forme de chaîne lisible par l'homme de ce`Font` . |
 
 ### Exemples
 
@@ -83,7 +83,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Voir également
 
-* espace de noms [Aspose.PSD](../../aspose.psd)
+* espace de noms [Aspose.PSD](../../aspose.psd/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

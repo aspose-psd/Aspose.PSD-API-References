@@ -1,9 +1,9 @@
 ---
-title: XmpBasicPackage
+title: Class XmpBasicPackage
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Représente lespace de noms de base XMP.
+description: Aspose.PSD.Xmp.Schemas.XmpBaseSchema.XmpBasicPackage classe. Représente lespace de noms de base XMP.
 type: docs
-weight: 5760
+weight: 5830
 url: /fr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/
 ---
 ## XmpBasicPackage class
@@ -18,54 +18,54 @@ public class XmpBasicPackage : XmpPackage
 
 | Nom | La description |
 | --- | --- |
-| [XmpBasicPackage](xmpbasicpackage#constructor)() | Initialise une nouvelle instance du[`XmpBasicPackage`](../xmpbasicpackage) classe. |
-| [XmpBasicPackage](xmpbasicpackage#constructor_1)(string, string) | Initialise une nouvelle instance du[`XmpBasicPackage`](../xmpbasicpackage) classe. |
+| [XmpBasicPackage](xmpbasicpackage/#constructor)() | Initialise une nouvelle instance du`XmpBasicPackage` classe. |
+| [XmpBasicPackage](xmpbasicpackage/#constructor_1)(string, string) | Initialise une nouvelle instance du`XmpBasicPackage` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Obtient ou définit leObject avec la clé spécifiée. |
-| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | Obtient les clés dans le package XMP. |
-| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | Obtient l'URI de l'espace de noms. |
-| [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | Obtient le préfixe. |
-| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace) { get; } | Obtient l'espace de noms XML. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Obtient ou définit leObject avec la clé spécifiée. |
+| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | Obtient les clés dans le package XMP. |
+| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Obtient l'URI de l'espace de noms. |
+| [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Obtient le préfixe. |
+| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | Obtient l'espace de noms XML. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [AddValue](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue)(string, string) | Ajoute une propriété de chaîne. |
-| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | Efface cette instance. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Détermine si la clé spécifiée contient key. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Renvoie un énumérateur qui parcourt la collection. |
-| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | Convertit la valeur XMP en représentation XML. |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | Supprimer la valeur avec la clé spécifiée. |
-| [SetCreatedDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate#setcreateddate)(DateTime) | Ajoute la date de création de la ressource. |
-| [SetCreatedDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate#setcreateddate_1)(string) | Ajoute la date de création de la ressource. |
-| [SetCreatorTool](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool)(string) | Définit l'outil créateur. |
-| [SetIdentifier](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier)(string[]) | Définit l'identifiant. |
-| [SetLabel](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel)(string) | Définit l'étiquette. |
-| [SetMetadataDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate#setmetadatadate)(DateTime) | Ajoute la date de la dernière modification des métadonnées. |
-| [SetMetadataDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate#setmetadatadate_1)(string) | Ajoute la date de la dernière modification des métadonnées. |
-| [SetModifyDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate#setmodifydate)(DateTime) | Ajoute la date de dernière modification de la ressource. |
-| [SetModifyDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate#setmodifydate_1)(string) | Ajoute la date de dernière modification de la ressource. |
-| [SetRating](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating)(int) | Définit la note. |
-| virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue)(string, IXmlValue) | Définit la valeur. |
-| virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) | Définit la valeur du type XMP. |
+| override [AddValue](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/)(string, string) | Ajoute une propriété de chaîne. |
+| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | Efface cette instance. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Détermine si la clé spécifiée contient key. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Renvoie un énumérateur qui parcourt la collection. |
+| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | Convertit la valeur XMP en représentation XML. |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Supprimer la valeur avec la clé spécifiée. |
+| [SetCreatedDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/#setcreateddate)(DateTime) | Ajoute la date de création de la ressource. |
+| [SetCreatedDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/#setcreateddate_1)(string) | Ajoute la date de création de la ressource. |
+| [SetCreatorTool](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool/)(string) | Définit l'outil créateur. |
+| [SetIdentifier](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/)(string[]) | Définit l'identifiant. |
+| [SetLabel](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel/)(string) | Définit l'étiquette. |
+| [SetMetadataDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/#setmetadatadate)(DateTime) | Ajoute la date de la dernière modification des métadonnées. |
+| [SetMetadataDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/#setmetadatadate_1)(string) | Ajoute la date de la dernière modification des métadonnées. |
+| [SetModifyDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/#setmodifydate)(DateTime) | Ajoute la date de dernière modification de la ressource. |
+| [SetModifyDate](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/#setmodifydate_1)(string) | Ajoute la date de dernière modification de la ressource. |
+| [SetRating](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating/)(int) | Définit la note. |
+| virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | Définit la valeur. |
+| virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | Définit la valeur du type XMP. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| const [RatingMax](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax) | Valeur maximale de notation. |
-| const [RatingMin](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin) | Valeur minimale de notation. |
-| const [RatingRejected](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected) | Note rejetée valeur. |
+| const [RatingMax](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/) | Valeur maximale de notation. |
+| const [RatingMin](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/) | Valeur minimale de notation. |
+| const [RatingRejected](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/) | Note rejetée valeur. |
 
 ### Voir également
 
-* class [XmpPackage](../../aspose.psd.xmp/xmppackage)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../aspose.psd.xmp.schemas.xmpbaseschema)
+* class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
+* espace de noms [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../aspose.psd.xmp.schemas.xmpbaseschema/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

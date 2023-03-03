@@ -1,14 +1,14 @@
 ---
-title: PsdColorPalette
+title: PsdColorPalette.PsdColorPalette
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Initialise une nouvelle instance duPsdColorPaletteaspose.psd.fileformats.psd/psdcolorpalette classe.
+description: PsdColorPalette constructeur. Initialise une nouvelle instance duPsdColorPalette classe.
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd/psdcolorpalette/psdcolorpalette/
 ---
 ## PsdColorPalette(IColorPalette) {#constructor_4}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe.
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette)
@@ -20,16 +20,16 @@ public PsdColorPalette(IColorPalette colorPalette)
 
 ### Voir également
 
-* interface [IColorPalette](../../../aspose.psd/icolorpalette)
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* interface [IColorPalette](../../../aspose.psd/icolorpalette/)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(IColorPalette, short) {#constructor_5}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe.
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
@@ -42,16 +42,16 @@ public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
 
 ### Voir également
 
-* interface [IColorPalette](../../../aspose.psd/icolorpalette)
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* interface [IColorPalette](../../../aspose.psd/icolorpalette/)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], bool) {#constructor_7}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
@@ -64,15 +64,15 @@ public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
 
 ### Voir également
 
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[]) {#constructor_6}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe et IsCompactPalette est faux.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe et IsCompactPalette est faux.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData)
@@ -84,15 +84,15 @@ public PsdColorPalette(byte[] rawEntriesData)
 
 ### Voir également
 
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short, bool) {#constructor_9}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCompactPalette)
@@ -106,15 +106,15 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCo
 
 ### Voir également
 
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short) {#constructor_8}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe et IsCompactPalette est faux.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe et IsCompactPalette est faux.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
@@ -127,15 +127,15 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
 
 ### Voir également
 
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(int[], bool) {#constructor_10}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe.
 
 ```csharp
 public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
@@ -148,15 +148,15 @@ public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
 
 ### Voir également
 
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], bool) {#constructor_1}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
@@ -169,16 +169,16 @@ public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
 
 ### Voir également
 
-* struct [Color](../../../aspose.psd/color)
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* struct [Color](../../../aspose.psd/color/)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[]) {#constructor}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe et IsCompactPalette est faux.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe et IsCompactPalette est faux.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries)
@@ -190,16 +190,16 @@ public PsdColorPalette(Color[] colorPaletteEntries)
 
 ### Voir également
 
-* struct [Color](../../../aspose.psd/color)
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* struct [Color](../../../aspose.psd/color/)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short, bool) {#constructor_3}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool useCompactPalette)
@@ -213,16 +213,16 @@ public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool
 
 ### Voir également
 
-* struct [Color](../../../aspose.psd/color)
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* struct [Color](../../../aspose.psd/color/)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short) {#constructor_2}
 
-Initialise une nouvelle instance du[`PsdColorPalette`](../../psdcolorpalette) classe et IsCompactPalette est faux.
+Initialise une nouvelle instance du[`PsdColorPalette`](../) classe et IsCompactPalette est faux.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
@@ -235,9 +235,9 @@ public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
 
 ### Voir également
 
-* struct [Color](../../../aspose.psd/color)
-* class [PsdColorPalette](../../psdcolorpalette)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette)
+* struct [Color](../../../aspose.psd/color/)
+* class [PsdColorPalette](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * Assemblée [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

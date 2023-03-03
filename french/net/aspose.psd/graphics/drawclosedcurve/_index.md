@@ -1,14 +1,14 @@
 ---
-title: DrawClosedCurve
+title: Graphics.DrawClosedCurve
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Dessine une spline cardinale fermée définie par un tableau dePointFaspose.psd/pointf structures. Cette méthode utilise une tension par défaut de 05 etAlternate mode de remplissage.
+description: Graphics méthode. Dessine une spline cardinale fermée définie par un tableau dePointF structures. Cette méthode utilise une tension par défaut de 05 etAlternate mode de remplissage.
 type: docs
 weight: 190
 url: /fr/net/aspose.psd/graphics/drawclosedcurve/
 ---
 ## DrawClosedCurve(Pen, PointF[]) {#drawclosedcurve}
 
-Dessine une spline cardinale fermée définie par un tableau de[`PointF`](../../pointf) structures. Cette méthode utilise une tension par défaut de 0,5 etAlternate mode de remplissage.
+Dessine une spline cardinale fermée définie par un tableau de[`PointF`](../../pointf/) structures. Cette méthode utilise une tension par défaut de 0,5 etAlternate mode de remplissage.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points)
@@ -16,8 +16,8 @@ public void DrawClosedCurve(Pen pen, PointF[] points)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) qui détermine la couleur, la largeur et la hauteur de la courbe. |
-| points | PointF[] | Tableau de[`PointF`](../../pointf) structures qui définissent la spline. |
+| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et la hauteur de la courbe. |
+| points | PointF[] | Tableau de[`PointF`](../../pointf/) structures qui définissent la spline. |
 
 ### Exceptions
 
@@ -27,17 +27,17 @@ public void DrawClosedCurve(Pen pen, PointF[] points)
 
 ### Voir également
 
-* class [Pen](../../pen)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, PointF[], float) {#drawclosedcurve_1}
 
-Dessine une spline cardinale fermée définie par un tableau de[`PointF`](../../pointf) structures utilisant une tension spécifiée. Cette méthode utilise une valeur par défautAlternate mode de remplissage.
+Dessine une spline cardinale fermée définie par un tableau de[`PointF`](../../pointf/) structures utilisant une tension spécifiée. Cette méthode utilise une valeur par défautAlternate mode de remplissage.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points, float tension)
@@ -45,8 +45,8 @@ public void DrawClosedCurve(Pen pen, PointF[] points, float tension)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) qui détermine la couleur, la largeur et la hauteur de la courbe. |
-| points | PointF[] | Tableau de[`PointF`](../../pointf) structures qui définissent la spline. |
+| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et la hauteur de la courbe. |
+| points | PointF[] | Tableau de[`PointF`](../../pointf/) structures qui définissent la spline. |
 | tension | Single | Valeur supérieure ou égale à 0.0F qui spécifie la tension de la courbe. |
 
 ### Exceptions
@@ -57,17 +57,17 @@ public void DrawClosedCurve(Pen pen, PointF[] points, float tension)
 
 ### Voir également
 
-* class [Pen](../../pen)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[]) {#drawclosedcurve_2}
 
-Dessine une spline cardinale fermée définie par un tableau de[`Point`](../../point) structures. Cette méthode utilise une tension par défaut de 0,5 etAlternate mode de remplissage.
+Dessine une spline cardinale fermée définie par un tableau de[`Point`](../../point/) structures. Cette méthode utilise une tension par défaut de 0,5 etAlternate mode de remplissage.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points)
@@ -75,8 +75,8 @@ public void DrawClosedCurve(Pen pen, Point[] points)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) qui détermine la couleur, la largeur et la hauteur de la courbe. |
-| points | Point[] | Tableau de[`Point`](../../point) structures qui définissent la spline. |
+| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et la hauteur de la courbe. |
+| points | Point[] | Tableau de[`Point`](../../point/) structures qui définissent la spline. |
 
 ### Exceptions
 
@@ -86,17 +86,17 @@ public void DrawClosedCurve(Pen pen, Point[] points)
 
 ### Voir également
 
-* class [Pen](../../pen)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[], float) {#drawclosedcurve_3}
 
-Dessine une spline cardinale fermée définie par un tableau de[`Point`](../../point) structures utilisant une tension spécifiée. Cette méthode utilise une valeur par défautAlternate mode de remplissage.
+Dessine une spline cardinale fermée définie par un tableau de[`Point`](../../point/) structures utilisant une tension spécifiée. Cette méthode utilise une valeur par défautAlternate mode de remplissage.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points, float tension)
@@ -104,8 +104,8 @@ public void DrawClosedCurve(Pen pen, Point[] points, float tension)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) qui détermine la couleur, la largeur et la hauteur de la courbe. |
-| points | Point[] | Tableau de[`Point`](../../point) structures qui définissent la spline. |
+| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et la hauteur de la courbe. |
+| points | Point[] | Tableau de[`Point`](../../point/) structures qui définissent la spline. |
 | tension | Single | Valeur supérieure ou égale à 0.0F qui spécifie la tension de la courbe. |
 
 ### Exceptions
@@ -116,10 +116,10 @@ public void DrawClosedCurve(Pen pen, Point[] points, float tension)
 
 ### Voir également
 
-* class [Pen](../../pen)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

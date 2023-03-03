@@ -1,9 +1,9 @@
 ---
-title: PatternFillSettings
+title: Class PatternFillSettings
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Paramètres deffet de remplissage de motif
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings classe. Paramètres deffet de remplissage de motif
 type: docs
-weight: 2020
+weight: 2040
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
 ## PatternFillSettings class
@@ -18,25 +18,25 @@ public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 
 | Nom | La description |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer) { get; set; } | Obtient ou définit une valeur indiquant si [lien avec le calque]. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color) { get; set; } | Obtient ou définit la couleur. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype) { get; } | Le type de remplissage |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset) { get; set; } | Obtient ou définit le décalage horizontal. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked) { get; set; } | Obtient ou définit une valeur indiquant si cette[`PatternFillSettings`](../patternfillsettings) est lié. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata) { get; set; } | Obtient ou définit les données de modèle. |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight) { get; set; } | Obtient ou définit la hauteur du motif. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid) { get; set; } | Obtient ou définit l'identifiant du modèle. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname) { get; set; } | Obtient ou définit le nom du modèle. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth) { get; set; } | Obtient ou définit la largeur du motif. |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype) { get; set; } | Obtient ou définit le type du point. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale) { get; set; } | Obtient ou définit l'échelle. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset) { get; set; } | Obtient ou définit le décalage vertical. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | Obtient ou définit une valeur indiquant si [lien avec le calque]. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | Obtient ou définit la couleur. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | Le type de remplissage |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | Obtient ou définit le décalage horizontal. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | Obtient ou définit une valeur indiquant si cette`PatternFillSettings`est lié. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | Obtient ou définit les données de modèle. |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | Obtient ou définit la hauteur du motif. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | Obtient ou définit l'identifiant du modèle. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | Obtient ou définit le nom du modèle. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | Obtient ou définit la largeur du motif. |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | Obtient ou définit le type du point. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | Obtient ou définit l'échelle. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | Obtient ou définit le décalage vertical. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes)(string, Color, string, string, double, bool, PointF) | Génère les nœuds de ressources LFX2. |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | Génère les nœuds de ressources LFX2. |
 
 ### Exemples
 
@@ -210,9 +210,9 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### Voir également
 
-* class [BaseFillSettings](../basefillsettings)
-* interface [IPatternFillSettings](../ipatternfillsettings)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings)
+* class [BaseFillSettings](../basefillsettings/)
+* interface [IPatternFillSettings](../ipatternfillsettings/)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

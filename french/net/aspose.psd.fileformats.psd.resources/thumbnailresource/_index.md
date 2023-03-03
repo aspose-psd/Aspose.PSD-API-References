@@ -1,9 +1,9 @@
 ---
-title: ThumbnailResource
+title: Class ThumbnailResource
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Le bloc de ressources de vignettes.
+description: Aspose.PSD.FileFormats.Psd.Resources.ThumbnailResource classe. Le bloc de ressources de vignettes.
 type: docs
-weight: 3850
+weight: 3910
 url: /fr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/
 ---
 ## ThumbnailResource class
@@ -18,41 +18,41 @@ public class ThumbnailResource : ResourceBlock
 
 | Nom | La description |
 | --- | --- |
-| [ThumbnailResource](thumbnailresource)() | Default_Constructor |
+| [ThumbnailResource](thumbnailresource/)() | Default_Constructor |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [BitsPixel](../../aspose.psd.fileformats.psd.resources/thumbnailresource/bitspixel) { get; set; } | Obtient ou définit le pixel de bits. |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/thumbnailresource/datasize) { get; } | Obtient la taille des données de ressource en octets. |
-| [Format](../../aspose.psd.fileformats.psd.resources/thumbnailresource/format) { get; set; } | Obtient ou définit le format des données des vignettes. |
-| [Height](../../aspose.psd.fileformats.psd.resources/thumbnailresource/height) { get; set; } | Obtient ou définit la hauteur de la vignette en pixels. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Obtient ou définit l'identifiant unique de la ressource. |
-| [JpegOptions](../../aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions) { get; set; } | Obtient ou définit les options JPEG. Convient lorsque la ressource de vignette est enregistrée au format de fichier JPEG uniquement. Cette option n'a aucun effet lorsque le format RAW est défini. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/thumbnailresource/minimalversion) { get; } | Obtient la version psd minimale requise. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, rembourrée pour rendre la taille égale (un nom nul se compose de deux octets de 0). |
-| [PlanesCount](../../aspose.psd.fileformats.psd.resources/thumbnailresource/planescount) { get; set; } | Obtient ou définit le nombre d'avions. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Obtient la signature de la ressource. Devrait toujours être '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Obtient la taille du bloc de ressources en octets, y compris ses données. |
-| [SizeAfterCompression](../../aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercompression) { get; } | Obtient ou définit la taille après compression. Utilisé pour le contrôle de cohérence. |
-| [ThumbnailArgb32Data](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data) { get; set; } | Obtient ou définit les données miniatures ARGB 32 bits. |
-| [ThumbnailData](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata) { get; set; } | Obtient ou définit les données de vignette. |
-| [TotalSize](../../aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize) { get; } | Obtient la taille totale des données. |
-| [Width](../../aspose.psd.fileformats.psd.resources/thumbnailresource/width) { get; set; } | Obtient ou définit la largeur de la vignette en pixels. |
-| [WidthBytes](../../aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes) { get; } | Obtient la largeur de ligne en octets. |
+| [BitsPixel](../../aspose.psd.fileformats.psd.resources/thumbnailresource/bitspixel/) { get; set; } | Obtient ou définit le pixel de bits. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/thumbnailresource/datasize/) { get; } | Obtient la taille des données de ressource en octets. |
+| [Format](../../aspose.psd.fileformats.psd.resources/thumbnailresource/format/) { get; set; } | Obtient ou définit le format des données des vignettes. |
+| [Height](../../aspose.psd.fileformats.psd.resources/thumbnailresource/height/) { get; set; } | Obtient ou définit la hauteur de la vignette en pixels. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtient ou définit l'identifiant unique de la ressource. |
+| [JpegOptions](../../aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions/) { get; set; } | Obtient ou définit les options JPEG. Convient lorsque la ressource de vignette est enregistrée au format de fichier JPEG uniquement. Cette option n'a aucun effet lorsque le format RAW est défini. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/thumbnailresource/minimalversion/) { get; } | Obtient la version psd minimale requise. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, rembourrée pour rendre la taille égale (un nom nul se compose de deux octets de 0). |
+| [PlanesCount](../../aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/) { get; set; } | Obtient ou définit le nombre d'avions. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Devrait toujours être '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressources en octets, y compris ses données. |
+| [SizeAfterCompression](../../aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercompression/) { get; } | Obtient ou définit la taille après compression. Utilisé pour le contrôle de cohérence. |
+| [ThumbnailArgb32Data](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data/) { get; set; } | Obtient ou définit les données miniatures ARGB 32 bits. |
+| [ThumbnailData](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata/) { get; set; } | Obtient ou définit les données de vignette. |
+| [TotalSize](../../aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize/) { get; } | Obtient la taille totale des données. |
+| [Width](../../aspose.psd.fileformats.psd.resources/thumbnailresource/width/) { get; set; } | Obtient ou définit la largeur de la vignette en pixels. |
+| [WidthBytes](../../aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/) { get; } | Obtient la largeur de ligne en octets. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | Enregistre le bloc de ressources dans le flux spécifié. |
-| override [ValidateValues](../../aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues)() | Valide les valeurs des ressources. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressources dans le flux spécifié. |
+| override [ValidateValues](../../aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues/)() | Valide les valeurs des ressources. |
 
 ### Voir également
 
-* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources)
+* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

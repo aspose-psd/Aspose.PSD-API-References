@@ -1,14 +1,14 @@
 ---
-title: DrawString
+title: Graphics.DrawString
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Dessine la chaîne de texte spécifiée à lemplacement spécifié avec leBrushaspose.psd/brush etFontaspose.psd/font objets.
+description: Graphics méthode. Dessine la chaîne de texte spécifiée à lemplacement spécifié avec leBrush etFont objets.
 type: docs
 weight: 320
 url: /fr/net/aspose.psd/graphics/drawstring/
 ---
 ## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-Dessine la chaîne de texte spécifiée à l'emplacement spécifié avec le[`Brush`](../../brush) et[`Font`](../../font) objets.
+Dessine la chaîne de texte spécifiée à l'emplacement spécifié avec le[`Brush`](../../brush/) et[`Font`](../../font/) objets.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
@@ -17,8 +17,8 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | s | String | Chaîne à dessiner. |
-| font | Font | [`Font`](../../font) qui définit le format de texte de la chaîne. |
-| brush | Brush | [`Brush`](../../brush) qui détermine la couleur et la texture du texte dessiné. |
+| font | Font | [`Font`](../../font/) qui définit le format de texte de la chaîne. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine la couleur et la texture du texte dessiné. |
 | x | Single | Coordonnée x du coin supérieur gauche du texte dessiné. |
 | y | Single | Coordonnée y du coin supérieur gauche du texte dessiné. |
 
@@ -30,17 +30,17 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 ### Voir également
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-Dessine la chaîne de texte spécifiée à l'emplacement spécifié avec le[`Brush`](../../brush) et[`Font`](../../font) objets.
+Dessine la chaîne de texte spécifiée à l'emplacement spécifié avec le[`Brush`](../../brush/) et[`Font`](../../font/) objets.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
@@ -49,9 +49,9 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | s | String | Chaîne à dessiner. |
-| font | Font | [`Font`](../../font) qui définit le format de texte de la chaîne. |
-| brush | Brush | [`Brush`](../../brush) qui détermine la couleur et la texture du texte dessiné. |
-| point | PointF | [`PointF`](../../pointf) structure qui spécifie le coin supérieur gauche du texte dessiné. |
+| font | Font | [`Font`](../../font/) qui définit le format de texte de la chaîne. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine la couleur et la texture du texte dessiné. |
+| point | PointF | [`PointF`](../../pointf/) structure qui spécifie le coin supérieur gauche du texte dessiné. |
 
 ### Exceptions
 
@@ -94,18 +94,18 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Voir également
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-Dessine la chaîne de texte spécifiée à l'emplacement spécifié avec le[`Brush`](../../brush) et[`Font`](../../font) objets utilisant les attributs de mise en forme du spécifié[`StringFormat`](../../stringformat) .
+Dessine la chaîne de texte spécifiée à l'emplacement spécifié avec le[`Brush`](../../brush/) et[`Font`](../../font/) objets utilisant les attributs de mise en forme du spécifié[`StringFormat`](../../stringformat/) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
@@ -114,11 +114,11 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | s | String | Chaîne à dessiner. |
-| font | Font | [`Font`](../../font) qui définit le format de texte de la chaîne. |
-| brush | Brush | [`Brush`](../../brush) qui détermine la couleur et la texture du texte dessiné. |
+| font | Font | [`Font`](../../font/) qui définit le format de texte de la chaîne. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine la couleur et la texture du texte dessiné. |
 | x | Single | Coordonnée x du coin supérieur gauche du texte dessiné. |
 | y | Single | Coordonnée y du coin supérieur gauche du texte dessiné. |
-| format | StringFormat | [`StringFormat`](../../stringformat) qui spécifie les attributs de mise en forme, tels que l'interligne et l'alignement, qui sont appliqués au texte dessiné. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) qui spécifie les attributs de mise en forme, tels que l'interligne et l'alignement, qui sont appliqués au texte dessiné. |
 
 ### Exceptions
 
@@ -128,18 +128,18 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 ### Voir également
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-Dessine la chaîne de texte spécifiée à l'emplacement spécifié avec le[`Brush`](../../brush) et[`Font`](../../font) objets utilisant les attributs de mise en forme du spécifié[`StringFormat`](../../stringformat) .
+Dessine la chaîne de texte spécifiée à l'emplacement spécifié avec le[`Brush`](../../brush/) et[`Font`](../../font/) objets utilisant les attributs de mise en forme du spécifié[`StringFormat`](../../stringformat/) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
@@ -148,10 +148,10 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | s | String | Chaîne à dessiner. |
-| font | Font | [`Font`](../../font) qui définit le format de texte de la chaîne. |
-| brush | Brush | [`Brush`](../../brush) qui détermine la couleur et la texture du texte dessiné. |
-| point | PointF | [`PointF`](../../pointf) structure qui spécifie le coin supérieur gauche du texte dessiné. |
-| format | StringFormat | [`StringFormat`](../../stringformat) qui spécifie les attributs de mise en forme, tels que l'interligne et l'alignement, qui sont appliqués au texte dessiné. |
+| font | Font | [`Font`](../../font/) qui définit le format de texte de la chaîne. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine la couleur et la texture du texte dessiné. |
+| point | PointF | [`PointF`](../../pointf/) structure qui spécifie le coin supérieur gauche du texte dessiné. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) qui spécifie les attributs de mise en forme, tels que l'interligne et l'alignement, qui sont appliqués au texte dessiné. |
 
 ### Exceptions
 
@@ -161,19 +161,19 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 ### Voir également
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-Dessine la chaîne de texte spécifiée dans le rectangle spécifié avec le[`Brush`](../../brush) et[`Font`](../../font) objets.
+Dessine la chaîne de texte spécifiée dans le rectangle spécifié avec le[`Brush`](../../brush/) et[`Font`](../../font/) objets.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
@@ -182,9 +182,9 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | s | String | Chaîne à dessiner. |
-| font | Font | [`Font`](../../font) qui définit le format de texte de la chaîne. |
-| brush | Brush | [`Brush`](../../brush) qui détermine la couleur et la texture du texte dessiné. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef) structure qui spécifie l'emplacement du texte dessiné. |
+| font | Font | [`Font`](../../font/) qui définit le format de texte de la chaîne. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine la couleur et la texture du texte dessiné. |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) structure qui spécifie l'emplacement du texte dessiné. |
 
 ### Exceptions
 
@@ -194,18 +194,18 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ### Voir également
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-Dessine la chaîne de texte spécifiée dans le rectangle spécifié avec le[`Brush`](../../brush) et[`Font`](../../font) objets utilisant les attributs de mise en forme du spécifié[`StringFormat`](../../stringformat) .
+Dessine la chaîne de texte spécifiée dans le rectangle spécifié avec le[`Brush`](../../brush/) et[`Font`](../../font/) objets utilisant les attributs de mise en forme du spécifié[`StringFormat`](../../stringformat/) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
@@ -215,10 +215,10 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | s | String | Chaîne à dessiner. |
-| font | Font | [`Font`](../../font) qui définit le format de texte de la chaîne. |
-| brush | Brush | [`Brush`](../../brush) qui détermine la couleur et la texture du texte dessiné. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef) structure qui spécifie l'emplacement du texte dessiné. |
-| format | StringFormat | [`StringFormat`](../../stringformat) qui spécifie les attributs de mise en forme, tels que l'interligne et l'alignement, qui sont appliqués au texte dessiné. |
+| font | Font | [`Font`](../../font/) qui définit le format de texte de la chaîne. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine la couleur et la texture du texte dessiné. |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) structure qui spécifie l'emplacement du texte dessiné. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) qui spécifie les attributs de mise en forme, tels que l'interligne et l'alignement, qui sont appliqués au texte dessiné. |
 
 ### Exceptions
 
@@ -228,12 +228,12 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ### Voir également
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

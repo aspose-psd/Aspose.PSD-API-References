@@ -1,14 +1,14 @@
 ---
-title: CustomLineCap
+title: CustomLineCap.CustomLineCap
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Initialise une nouvelle instance duCustomLineCapaspose.psd/customlinecap classe avec le contour et le remplissage spécifiés.
+description: CustomLineCap constructeur. Initialise une nouvelle instance duCustomLineCap classe avec le contour et le remplissage spécifiés.
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/customlinecap/customlinecap/
 ---
 ## CustomLineCap(GraphicsPath, GraphicsPath) {#constructor}
 
-Initialise une nouvelle instance du[`CustomLineCap`](../../customlinecap) classe avec le contour et le remplissage spécifiés.
+Initialise une nouvelle instance du[`CustomLineCap`](../) classe avec le contour et le remplissage spécifiés.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath)
@@ -16,21 +16,21 @@ public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| fillPath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath) objet qui définit le remplissage du plafond personnalisé. |
-| strokePath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath) objet qui définit le contour de la casquette personnalisée. |
+| fillPath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath/) objet qui définit le remplissage du plafond personnalisé. |
+| strokePath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath/) objet qui définit le contour de la casquette personnalisée. |
 
 ### Voir également
 
-* class [GraphicsPath](../../graphicspath)
-* class [CustomLineCap](../../customlinecap)
-* espace de noms [Aspose.PSD](../../customlinecap)
+* class [GraphicsPath](../../graphicspath/)
+* class [CustomLineCap](../)
+* espace de noms [Aspose.PSD](../../customlinecap/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap) {#constructor_1}
 
-Initialise une nouvelle instance du[`CustomLineCap`](../../customlinecap) classe de l'existant spécifié[`LineCap`](../../linecap) énumération avec le contour et le remplissage spécifiés.
+Initialise une nouvelle instance du[`CustomLineCap`](../) classe de l'existant spécifié[`LineCap`](../../linecap/) énumération avec le contour et le remplissage spécifiés.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap)
@@ -38,23 +38,23 @@ public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap bas
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| fillPath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath) objet qui définit le remplissage du plafond personnalisé. |
-| strokePath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath) objet qui définit le contour de la casquette personnalisée. |
+| fillPath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath/) objet qui définit le remplissage du plafond personnalisé. |
+| strokePath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath/) objet qui définit le contour de la casquette personnalisée. |
 | baseCap | LineCap | La limite de ligne à partir de laquelle créer la limite personnalisée. |
 
 ### Voir également
 
-* class [GraphicsPath](../../graphicspath)
-* enum [LineCap](../../linecap)
-* class [CustomLineCap](../../customlinecap)
-* espace de noms [Aspose.PSD](../../customlinecap)
+* class [GraphicsPath](../../graphicspath/)
+* enum [LineCap](../../linecap/)
+* class [CustomLineCap](../)
+* espace de noms [Aspose.PSD](../../customlinecap/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap, float) {#constructor_2}
 
-Initialise une nouvelle instance du[`CustomLineCap`](../../customlinecap) classe de l'existant spécifié[`LineCap`](../../linecap)énumération avec le contour, le remplissage et l'encart spécifiés.
+Initialise une nouvelle instance du[`CustomLineCap`](../) classe de l'existant spécifié[`LineCap`](../../linecap/)énumération avec le contour, le remplissage et l'encart spécifiés.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap, 
@@ -63,17 +63,17 @@ public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap bas
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| fillPath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath) objet qui définit le remplissage du plafond personnalisé. |
-| strokePath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath) objet qui définit le contour de la casquette personnalisée. |
+| fillPath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath/) objet qui définit le remplissage du plafond personnalisé. |
+| strokePath | GraphicsPath | UN[`GraphicsPath`](../../graphicspath/) objet qui définit le contour de la casquette personnalisée. |
 | baseCap | LineCap | La limite de ligne à partir de laquelle créer la limite personnalisée. |
 | baseInset | Single | La distance entre le bouchon et la ligne. |
 
 ### Voir également
 
-* class [GraphicsPath](../../graphicspath)
-* enum [LineCap](../../linecap)
-* class [CustomLineCap](../../customlinecap)
-* espace de noms [Aspose.PSD](../../customlinecap)
+* class [GraphicsPath](../../graphicspath/)
+* enum [LineCap](../../linecap/)
+* class [CustomLineCap](../)
+* espace de noms [Aspose.PSD](../../customlinecap/)
 * Assemblée [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

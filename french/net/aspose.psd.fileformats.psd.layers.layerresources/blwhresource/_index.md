@@ -1,9 +1,9 @@
 ---
-title: BlwhResource
+title: Class BlwhResource
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: La classe BlwhResource est une ressource du calque de réglage noir et blanc.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlwhResource classe. La classe BlwhResource est une ressource du calque de réglage noir et blanc.
 type: docs
-weight: 2300
+weight: 2320
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 ---
 ## BlwhResource class
@@ -18,39 +18,39 @@ public class BlwhResource : AdjustmentLayerResource
 
 | Nom | La description |
 | --- | --- |
-| [BlwhResource](blwhresource)() | Default_Constructor |
+| [BlwhResource](blwhresource/)() | Default_Constructor |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [BlackAndWhitePresetFileName](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename) { get; set; } | Obtient ou définit le nom du fichier prédéfini noir et blanc. |
-| [Blues](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues) { get; set; } | Obtient ou définit la valeur de blues. |
-| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind) { get; set; } | Obtient ou définit la valeur de type prédéfini noir et blanc. |
-| [Cyans](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/cyans) { get; set; } | Obtient ou définit la valeur des cyans. |
-| [Greens](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens) { get; set; } | Obtient ou définit la valeur des verts. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| [Magentas](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas) { get; set; } | Obtient ou définit la valeur magentas. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion) { get; } | Obtient la version psd. |
-| [Reds](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds) { get; set; } | Obtient ou définit la valeur des rouges. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Obtient la signature. |
-| [TintColor](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor) { get; set; } | Obtient ou définit la valeur ARGB de la couleur de teinte. |
-| [UseTint](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint) { get; set; } | Obtient ou définit une valeur indiquant si la [couleur de teinte] est utilisée. |
-| [Yellows](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows) { get; set; } | Obtient ou définit la valeur des jaunes. |
+| [BlackAndWhitePresetFileName](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename/) { get; set; } | Obtient ou définit le nom du fichier prédéfini noir et blanc. |
+| [Blues](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues/) { get; set; } | Obtient ou définit la valeur de blues. |
+| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind/) { get; set; } | Obtient ou définit la valeur de type prédéfini noir et blanc. |
+| [Cyans](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/cyans/) { get; set; } | Obtient ou définit la valeur des cyans. |
+| [Greens](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens/) { get; set; } | Obtient ou définit la valeur des verts. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key/) { get; } | Obtient la clé de ressource de couche. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
+| [Magentas](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas/) { get; set; } | Obtient ou définit la valeur magentas. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion/) { get; } | Obtient la version psd. |
+| [Reds](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds/) { get; set; } | Obtient ou définit la valeur des rouges. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtient la signature. |
+| [TintColor](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor/) { get; set; } | Obtient ou définit la valeur ARGB de la couleur de teinte. |
+| [UseTint](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/) { get; set; } | Obtient ou définit une valeur indiquant si la [couleur de teinte] est utilisée. |
+| [Yellows](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows/) { get; set; } | Obtient ou définit la valeur des jaunes. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/save)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Renvoie unString qui représente cette instance. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/save/)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
 
 ### Exemples
 
@@ -159,9 +159,9 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 
 ### Voir également
 
-* class [AdjustmentLayerResource](../adjustmentlayerresource)
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [AdjustmentLayerResource](../adjustmentlayerresource/)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

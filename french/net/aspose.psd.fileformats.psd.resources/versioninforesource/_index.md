@@ -1,9 +1,9 @@
 ---
-title: VersionInfoResource
+title: Class VersionInfoResource
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: ressource dinformations de version
+description: Aspose.PSD.FileFormats.Psd.Resources.VersionInfoResource classe. ressource dinformations de version
 type: docs
-weight: 3900
+weight: 3960
 url: /fr/net/aspose.psd.fileformats.psd.resources/versioninforesource/
 ---
 ## VersionInfoResource class
@@ -18,35 +18,35 @@ public sealed class VersionInfoResource : ResourceBlock
 
 | Nom | La description |
 | --- | --- |
-| [VersionInfoResource](versioninforesource)() | Default_Constructor |
+| [VersionInfoResource](versioninforesource/)() | Default_Constructor |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/versioninforesource/datasize) { get; } | Obtient la taille des données de ressource en octets. |
-| [FileVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/fileversion) { get; set; } | Obtient ou définit la version du fichier. |
-| [HasRealMergedData](../../aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata) { get; set; } | Obtient ou définit une valeur indiquant si cette instance contient de vraies données fusionnées. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Obtient ou définit l'identifiant unique de la ressource. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/minimalversion) { get; } | Obtient la version PSD minimale requise. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, rembourrée pour rendre la taille égale (un nom nul se compose de deux octets de 0). |
-| [ReaderName](../../aspose.psd.fileformats.psd.resources/versioninforesource/readername) { get; set; } | Obtient ou définit le nom du lecteur. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Obtient la signature de la ressource. Devrait toujours être '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Obtient la taille du bloc de ressources en octets, y compris ses données. |
-| [Version](../../aspose.psd.fileformats.psd.resources/versioninforesource/version) { get; set; } | Obtient ou définit la version. |
-| [WriterName](../../aspose.psd.fileformats.psd.resources/versioninforesource/writername) { get; set; } | Obtient ou définit le nom du rédacteur. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/versioninforesource/datasize/) { get; } | Obtient la taille des données de ressource en octets. |
+| [FileVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/fileversion/) { get; set; } | Obtient ou définit la version du fichier. |
+| [HasRealMergedData](../../aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance contient de vraies données fusionnées. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtient ou définit l'identifiant unique de la ressource. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/minimalversion/) { get; } | Obtient la version PSD minimale requise. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, rembourrée pour rendre la taille égale (un nom nul se compose de deux octets de 0). |
+| [ReaderName](../../aspose.psd.fileformats.psd.resources/versioninforesource/readername/) { get; set; } | Obtient ou définit le nom du lecteur. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Devrait toujours être '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressources en octets, y compris ses données. |
+| [Version](../../aspose.psd.fileformats.psd.resources/versioninforesource/version/) { get; set; } | Obtient ou définit la version. |
+| [WriterName](../../aspose.psd.fileformats.psd.resources/versioninforesource/writername/) { get; set; } | Obtient ou définit le nom du rédacteur. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | Enregistre le bloc de ressources dans le flux spécifié. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | Valide les valeurs des ressources. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressources dans le flux spécifié. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valide les valeurs des ressources. |
 
 ### Voir également
 
-* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources)
+* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: StringFormat
+title: Class StringFormat
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Encapsule les informations de mise en page du texte telles que lalignement lorientation et les taquets de tabulation les manipulations daffichage telles que linsertion de points de suspension et la substitution de chiffres nationaux et les fonctionnalités OpenType. Cette classe ne peut pas être héritée.
+description: Aspose.PSD.StringFormat classe. Encapsule les informations de mise en page du texte telles que lalignement lorientation et les taquets de tabulation les manipulations daffichage telles que linsertion de points de suspension et la substitution de chiffres nationaux et les fonctionnalités OpenType. Cette classe ne peut pas être héritée.
 type: docs
-weight: 5600
+weight: 5670
 url: /fr/net/aspose.psd/stringformat/
 ---
 ## StringFormat class
@@ -18,40 +18,40 @@ public sealed class StringFormat : DisposableObject
 
 | Nom | La description |
 | --- | --- |
-| [StringFormat](stringformat#constructor)() | Initialise un nouveau[`StringFormat`](../stringformat) objet. |
-| [StringFormat](stringformat#constructor_1)(StringFormat) | Initialise un nouveau[`StringFormat`](../stringformat) objet de l'existant spécifié[`StringFormat`](../stringformat) objet. |
-| [StringFormat](stringformat#constructor_2)(StringFormatFlags) | Initialise un nouveau[`StringFormat`](../stringformat) objet avec le spécifié[`StringFormatFlags`](../stringformatflags) énumération et langue. |
+| [StringFormat](stringformat/#constructor)() | Initialise un nouveau`StringFormat` objet. |
+| [StringFormat](stringformat/#constructor_1)(StringFormat) | Initialise un nouveau`StringFormat` objet de l'existant spécifié`StringFormat` objet. |
+| [StringFormat](stringformat/#constructor_2)(StringFormatFlags) | Initialise un nouveau`StringFormat` objet avec le spécifié[`StringFormatFlags`](../stringformatflags/) énumération et langue. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| static [GenericDefault](../../aspose.psd/stringformat/genericdefault) { get; } | Obtient une valeur générique par défaut[`StringFormat`](../stringformat) objet. |
-| static [GenericTypographic](../../aspose.psd/stringformat/generictypographic) { get; } | Obtient une typographie générique[`StringFormat`](../stringformat) objet. |
-| [Alignment](../../aspose.psd/stringformat/alignment) { get; set; } | Obtient ou définit les informations d'alignement du texte sur le plan vertical. |
-| [DigitSubstitutionLanguage](../../aspose.psd/stringformat/digitsubstitutionlanguage) { get; set; } | Obtient ou définit la langue utilisée lorsque des chiffres locaux sont remplacés par des chiffres occidentaux. |
-| [DigitSubstitutionMethod](../../aspose.psd/stringformat/digitsubstitutionmethod) { get; set; } | Obtient ou définit la méthode à utiliser pour la substitution de chiffres. |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Obtient une valeur indiquant si cette instance est supprimée. |
-| [FirstTabOffset](../../aspose.psd/stringformat/firsttaboffset) { get; } | Obtient le nombre d'espaces entre le début d'une ligne de texte et le premier taquet de tabulation. |
-| [FormatFlags](../../aspose.psd/stringformat/formatflags) { get; set; } | Obtient ou définit un[`StringFormatFlags`](../stringformatflags) énumération contenant des informations de formatage. |
-| [HotkeyPrefix](../../aspose.psd/stringformat/hotkeyprefix) { get; set; } | Obtient ou définit le[`HotkeyPrefix`](../hotkeyprefix) objet pour cela[`StringFormat`](../stringformat) objet. |
-| [LineAlignment](../../aspose.psd/stringformat/linealignment) { get; set; } | Obtient ou définit l'alignement de la ligne sur le plan horizontal. |
-| [TabStops](../../aspose.psd/stringformat/tabstops) { get; } | Obtient un tableau des distances entre les taquets de tabulation dans les unités spécifiées par le[`PageUnit`](../graphics/pageunit) propriété. |
-| [Trimming](../../aspose.psd/stringformat/trimming) { get; set; } | Obtient ou définit le[`StringTrimming`](../stringtrimming) énumération pour cela[`StringFormat`](../stringformat) objet. |
+| static [GenericDefault](../../aspose.psd/stringformat/genericdefault/) { get; } | Obtient une valeur générique par défaut`StringFormat` objet. |
+| static [GenericTypographic](../../aspose.psd/stringformat/generictypographic/) { get; } | Obtient une typographie générique`StringFormat` objet. |
+| [Alignment](../../aspose.psd/stringformat/alignment/) { get; set; } | Obtient ou définit les informations d'alignement du texte sur le plan vertical. |
+| [DigitSubstitutionLanguage](../../aspose.psd/stringformat/digitsubstitutionlanguage/) { get; set; } | Obtient ou définit la langue utilisée lorsque des chiffres locaux sont remplacés par des chiffres occidentaux. |
+| [DigitSubstitutionMethod](../../aspose.psd/stringformat/digitsubstitutionmethod/) { get; set; } | Obtient ou définit la méthode à utiliser pour la substitution de chiffres. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtient une valeur indiquant si cette instance est supprimée. |
+| [FirstTabOffset](../../aspose.psd/stringformat/firsttaboffset/) { get; } | Obtient le nombre d'espaces entre le début d'une ligne de texte et le premier taquet de tabulation. |
+| [FormatFlags](../../aspose.psd/stringformat/formatflags/) { get; set; } | Obtient ou définit un[`StringFormatFlags`](../stringformatflags/) énumération contenant des informations de formatage. |
+| [HotkeyPrefix](../../aspose.psd/stringformat/hotkeyprefix/) { get; set; } | Obtient ou définit le[`HotkeyPrefix`](../hotkeyprefix/) objet pour cela`StringFormat` objet. |
+| [LineAlignment](../../aspose.psd/stringformat/linealignment/) { get; set; } | Obtient ou définit l'alignement de la ligne sur le plan horizontal. |
+| [TabStops](../../aspose.psd/stringformat/tabstops/) { get; } | Obtient un tableau des distances entre les taquets de tabulation dans les unités spécifiées par le[`PageUnit`](../graphics/pageunit/) propriété. |
+| [Trimming](../../aspose.psd/stringformat/trimming/) { get; set; } | Obtient ou définit le[`StringTrimming`](../stringtrimming/) énumération pour cela`StringFormat` objet. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [DeepClone](../../aspose.psd/stringformat/deepclone)() | Crée un clone profond de ceci[`StringFormat`](../stringformat) objet. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Supprime l'instance actuelle. |
-| [SetTabStops](../../aspose.psd/stringformat/settabstops)(float, float[]) | Définit des taquets de tabulation pour cela[`StringFormat`](../stringformat) objet. |
-| override [ToString](../../aspose.psd/stringformat/tostring)() | Convertit ceci[`StringFormat`](../stringformat) objet à une chaîne lisible par l'homme. |
+| [DeepClone](../../aspose.psd/stringformat/deepclone/)() | Crée un clone profond de ceci`StringFormat` objet. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Supprime l'instance actuelle. |
+| [SetTabStops](../../aspose.psd/stringformat/settabstops/)(float, float[]) | Définit des taquets de tabulation pour cela`StringFormat` objet. |
+| override [ToString](../../aspose.psd/stringformat/tostring/)() | Convertit ceci`StringFormat` objet à une chaîne lisible par l'homme. |
 
 ### Voir également
 
-* class [DisposableObject](../disposableobject)
-* espace de noms [Aspose.PSD](../../aspose.psd)
+* class [DisposableObject](../disposableobject/)
+* espace de noms [Aspose.PSD](../../aspose.psd/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

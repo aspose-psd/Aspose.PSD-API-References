@@ -1,14 +1,14 @@
 ---
-title: Contents
+title: SmartObjectLayer.Contents
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Obtient ou définit le contenu de la couche dobjet intelligent. Le contenu de lobjet intelligent intégré est le fichier dimage brute intégré Dataaspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data et ses propriétés. Le contenu de lobjet intelligent lié est le contenu brut du fichier image lié sil est disponible et ses propriétés LiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource . Nous ne prenons pas en charge le chargement à partir de la bibliothèque graphique Adobe Photoshop  lorsqueIsLibraryLinkaspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink est vrai. Pour les fichiers de liens réguliers nous utilisons dabordRelativePathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath pour rechercher le fichier relativement au chemin de limage sourceSourceImagePath  sil nest pas disponible nous regardonsFullPathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath  sinon alors nous cherchons le fichier de lien dans le même répertoire où se trouve notre image SourceImagePath .
+description: SmartObjectLayer propriété. Obtient ou définit le contenu de la couche dobjet intelligent. Le contenu de lobjet intelligent intégré est le fichier dimage brute intégré Data et ses propriétés. Le contenu de lobjet intelligent lié est le contenu brut du fichier image lié sil est disponible et ses propriétés LiFeDataSource . Nous ne prenons pas en charge le chargement à partir de la bibliothèque graphique Adobe Photoshop  lorsqueIsLibraryLink est vrai. Pour les fichiers de liens réguliers nous utilisons dabordRelativePath pour rechercher le fichier relativement au chemin de limage sourceSourceImagePath  sil nest pas disponible nous regardonsFullPath  sinon alors nous cherchons le fichier de lien dans le même répertoire où se trouve notre image SourceImagePath .
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
 ## SmartObjectLayer.Contents property
 
-Obtient ou définit le contenu de la couche d'objet intelligent. Le contenu de l'objet intelligent intégré est le fichier d'image brute intégré :[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data) et ses propriétés. Le contenu de l'objet intelligent lié est le contenu brut du fichier image lié s'il est disponible et ses propriétés :[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource) . Nous ne prenons pas en charge le chargement à partir de la bibliothèque graphique Adobe� Photoshop� �� lorsque[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink) est vrai. Pour les fichiers de liens réguliers, nous utilisons d'abord[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath) pour rechercher le fichier relativement au chemin de l'image sourceSourceImagePath , s'il n'est pas disponible nous regardons[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath) , sinon alors nous cherchons le fichier de lien dans le même répertoire où se trouve notre image :SourceImagePath .
+Obtient ou définit le contenu de la couche d'objet intelligent. Le contenu de l'objet intelligent intégré est le fichier d'image brute intégré :[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) et ses propriétés. Le contenu de l'objet intelligent lié est le contenu brut du fichier image lié s'il est disponible et ses propriétés :[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Nous ne prenons pas en charge le chargement à partir de la bibliothèque graphique Adobe� Photoshop� �� lorsque[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) est vrai. Pour les fichiers de liens réguliers, nous utilisons d'abord[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) pour rechercher le fichier relativement au chemin de l'image sourceSourceImagePath , s'il n'est pas disponible nous regardons[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , sinon alors nous cherchons le fichier de lien dans le même répertoire où se trouve notre image :SourceImagePath .
 
 ```csharp
 public byte[] Contents { get; set; }
@@ -103,8 +103,8 @@ foreach (FileFormat format in formats)
 
 ### Voir également
 
-* class [SmartObjectLayer](../../smartobjectlayer)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [SmartObjectLayer](../)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * Assemblée [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

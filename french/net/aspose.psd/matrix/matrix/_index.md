@@ -1,7 +1,7 @@
 ---
-title: Matrix
+title: Matrix.Matrix
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Initialise une nouvelle instance de la classe Matrix en tant que matrice didentité.
+description: Matrix constructeur. Initialise une nouvelle instance de la classe Matrix en tant que matrice didentité.
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/matrix/matrix/
@@ -16,15 +16,15 @@ public Matrix()
 
 ### Voir également
 
-* class [Matrix](../../matrix)
-* espace de noms [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* espace de noms [Aspose.PSD](../../matrix/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(float, float, float, float, float, float) {#constructor_4}
 
-Initialise une nouvelle instance du[`Matrix`](../../matrix) classe.
+Initialise une nouvelle instance du[`Matrix`](../) classe.
 
 ```csharp
 public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
@@ -41,15 +41,15 @@ public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 
 ### Voir également
 
-* class [Matrix](../../matrix)
-* espace de noms [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* espace de noms [Aspose.PSD](../../matrix/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(RectangleF, PointF[]) {#constructor_3}
 
-Initialise une nouvelle instance du[`Matrix`](../../matrix) class à la transformation géométrique définie par le rectangle et le tableau de points spécifiés.
+Initialise une nouvelle instance du[`Matrix`](../) class à la transformation géométrique définie par le rectangle et le tableau de points spécifiés.
 
 ```csharp
 public Matrix(RectangleF rect, PointF[] plgpts)
@@ -57,22 +57,22 @@ public Matrix(RectangleF rect, PointF[] plgpts)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| rect | RectangleF | UN[`RectangleF`](../../rectanglef) structure qui représente le rectangle à transformer. |
-| plgpts | PointF[] | Un tableau de trois[`PointF`](../../pointf)structures qui représentent les points d'un parallélogramme vers lesquels les coins supérieur gauche, supérieur droit et inférieur gauche du rectangle doivent être transformés. Le coin inférieur droit du parallélogramme est impliqué par les trois premiers coins. |
+| rect | RectangleF | UN[`RectangleF`](../../rectanglef/) structure qui représente le rectangle à transformer. |
+| plgpts | PointF[] | Un tableau de trois[`PointF`](../../pointf/)structures qui représentent les points d'un parallélogramme vers lesquels les coins supérieur gauche, supérieur droit et inférieur gauche du rectangle doivent être transformés. Le coin inférieur droit du parallélogramme est impliqué par les trois premiers coins. |
 
 ### Voir également
 
-* struct [RectangleF](../../rectanglef)
-* struct [PointF](../../pointf)
-* class [Matrix](../../matrix)
-* espace de noms [Aspose.PSD](../../matrix)
+* struct [RectangleF](../../rectanglef/)
+* struct [PointF](../../pointf/)
+* class [Matrix](../)
+* espace de noms [Aspose.PSD](../../matrix/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Rectangle, Point[]) {#constructor_2}
 
-Initialise une nouvelle instance du[`Matrix`](../../matrix) class à la transformation géométrique définie par le rectangle et le tableau de points spécifiés.
+Initialise une nouvelle instance du[`Matrix`](../) class à la transformation géométrique définie par le rectangle et le tableau de points spécifiés.
 
 ```csharp
 public Matrix(Rectangle rect, Point[] plgpts)
@@ -80,22 +80,22 @@ public Matrix(Rectangle rect, Point[] plgpts)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| rect | Rectangle | UN[`Rectangle`](../../rectangle) structure qui représente le rectangle à transformer. |
-| plgpts | Point[] | Un tableau de trois[`Point`](../../point)structures qui représentent les points d'un parallélogramme vers lesquels les coins supérieur gauche, supérieur droit et inférieur gauche du rectangle doivent être transformés. Le coin inférieur droit du parallélogramme est impliqué par les trois premiers coins. |
+| rect | Rectangle | UN[`Rectangle`](../../rectangle/) structure qui représente le rectangle à transformer. |
+| plgpts | Point[] | Un tableau de trois[`Point`](../../point/)structures qui représentent les points d'un parallélogramme vers lesquels les coins supérieur gauche, supérieur droit et inférieur gauche du rectangle doivent être transformés. Le coin inférieur droit du parallélogramme est impliqué par les trois premiers coins. |
 
 ### Voir également
 
-* struct [Rectangle](../../rectangle)
-* struct [Point](../../point)
-* class [Matrix](../../matrix)
-* espace de noms [Aspose.PSD](../../matrix)
+* struct [Rectangle](../../rectangle/)
+* struct [Point](../../point/)
+* class [Matrix](../)
+* espace de noms [Aspose.PSD](../../matrix/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Matrix) {#constructor_1}
 
-Effectue une copie du[`Matrix`](../../matrix) classe.
+Effectue une copie du[`Matrix`](../) classe.
 
 ```csharp
 public Matrix(Matrix origin)
@@ -107,8 +107,8 @@ public Matrix(Matrix origin)
 
 ### Voir également
 
-* class [Matrix](../../matrix)
-* espace de noms [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* espace de noms [Aspose.PSD](../../matrix/)
 * Assemblée [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
