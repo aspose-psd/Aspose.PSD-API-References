@@ -1,9 +1,9 @@
 ---
-title: PhflResource
+title: Class PhflResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс PhflResource. Ресурс слоя коррекции экспозиции 2 Версия   3  или   2  12 4 байта для каждого цвета XYZ только в версии 3 10 2 байта цветового пространства за которым следует 4  2 байта цветового компонента только в версии 2 4 Плотность 1 Сохранить яркость
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PhflResource сорт. Класс PhflResource. Ресурс слоя коррекции экспозиции 2 Версия   3  или   2  12 4 байта для каждого цвета XYZ только в версии 3 10 2 байта цветового пространства за которым следует 4  2 байта цветового компонента только в версии 2 4 Плотность 1 Сохранить яркость
 type: docs
-weight: 2870
+weight: 2890
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/
 ---
 ## PhflResource class
@@ -18,34 +18,34 @@ public abstract class PhflResource : AdjustmentLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [Density](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/density) { get; set; } | Получает или задает плотность. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/key) { get; } | Получает ключ ресурса слоя. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity) { get; set; } | Получает или задает значение, указывающее, [сохранять яркость]. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/psdversion) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Получает подпись. |
-| abstract [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/version) { get; } | Получает версию. По умолчанию 2 или 3 |
+| [Density](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/) { get; set; } | Получает или задает плотность. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/key/) { get; } | Получает ключ ресурса слоя. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/) { get; set; } | Получает или задает значение, указывающее, [сохранять яркость]. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/psdversion/) { get; } | Получает версию psd. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Получает подпись. |
+| abstract [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/version/) { get; } | Получает версию. По умолчанию 2 или 3 |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| abstract [GetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor)() | Получает цвет RGB. |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| abstract [SetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrgbcolor)(Color) | Устанавливает цвет RGB. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
+| abstract [GetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor/)() | Получает цвет RGB. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
+| abstract [SetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrgbcolor/)(Color) | Устанавливает цвет RGB. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey/) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 
-* class [AdjustmentLayerResource](../adjustmentlayerresource)
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [AdjustmentLayerResource](../adjustmentlayerresource/)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

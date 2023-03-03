@@ -1,14 +1,14 @@
 ---
-title: PathGradientBrush
+title: PathGradientBrush.PathGradientBrush
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземплярPathGradientBrushaspose.psd.brushes/pathgradientbrush класс с указанными баллами.
+description: PathGradientBrush строитель. Инициализирует новый экземплярPathGradientBrush класс с указанными баллами.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.brushes/pathgradientbrush/pathgradientbrush/
 ---
 ## PathGradientBrush(PointF[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`PathGradientBrush`](../../pathgradientbrush) класс с указанными баллами.
+Инициализирует новый экземпляр[`PathGradientBrush`](../) класс с указанными баллами.
 
 ```csharp
 public PathGradientBrush(PointF[] points)
@@ -16,20 +16,20 @@ public PathGradientBrush(PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив[`PointF`](../../../aspose.psd/pointf) структуры, представляющие точки, составляющие вершины пути. |
+| points | PointF[] | Массив[`PointF`](../../../aspose.psd/pointf/) структуры, представляющие точки, составляющие вершины пути. |
 
 ### Смотрите также
 
-* struct [PointF](../../../aspose.psd/pointf)
-* class [PathGradientBrush](../../pathgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush)
+* struct [PointF](../../../aspose.psd/pointf/)
+* class [PathGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-Инициализирует новый экземпляр[`PathGradientBrush`](../../pathgradientbrush) class с указанными точками и режимом переноса.
+Инициализирует новый экземпляр[`PathGradientBrush`](../) class с указанными точками и режимом переноса.
 
 ```csharp
 public PathGradientBrush(PointF[] points, WrapMode wrapMode)
@@ -37,22 +37,22 @@ public PathGradientBrush(PointF[] points, WrapMode wrapMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | PointF[] | Массив[`PointF`](../../../aspose.psd/pointf) структуры, представляющие точки, составляющие вершины пути. |
-| wrapMode | WrapMode | А[`WrapMode`](../../../aspose.psd/wrapmode) который указывает, как заполняется этим[`PathGradientBrush`](../../pathgradientbrush) плиточные. |
+| points | PointF[] | Массив[`PointF`](../../../aspose.psd/pointf/) структуры, представляющие точки, составляющие вершины пути. |
+| wrapMode | WrapMode | А[`WrapMode`](../../../aspose.psd/wrapmode/) который указывает, как заполняется этим[`PathGradientBrush`](../) плиточные. |
 
 ### Смотрите также
 
-* struct [PointF](../../../aspose.psd/pointf)
-* enum [WrapMode](../../../aspose.psd/wrapmode)
-* class [PathGradientBrush](../../pathgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush)
+* struct [PointF](../../../aspose.psd/pointf/)
+* enum [WrapMode](../../../aspose.psd/wrapmode/)
+* class [PathGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(Point[]) {#constructor_3}
 
-Инициализирует новый экземпляр[`PathGradientBrush`](../../pathgradientbrush) класс с указанными баллами.
+Инициализирует новый экземпляр[`PathGradientBrush`](../) класс с указанными баллами.
 
 ```csharp
 public PathGradientBrush(Point[] points)
@@ -60,20 +60,20 @@ public PathGradientBrush(Point[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | Point[] | Массив[`Point`](../../../aspose.psd/point) структуры, представляющие точки, составляющие вершины пути. |
+| points | Point[] | Массив[`Point`](../../../aspose.psd/point/) структуры, представляющие точки, составляющие вершины пути. |
 
 ### Смотрите также
 
-* struct [Point](../../../aspose.psd/point)
-* class [PathGradientBrush](../../pathgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush)
+* struct [Point](../../../aspose.psd/point/)
+* class [PathGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(Point[], WrapMode) {#constructor_4}
 
-Инициализирует новый экземпляр[`PathGradientBrush`](../../pathgradientbrush) class с указанными точками и режимом переноса.
+Инициализирует новый экземпляр[`PathGradientBrush`](../) class с указанными точками и режимом переноса.
 
 ```csharp
 public PathGradientBrush(Point[] points, WrapMode wrapMode)
@@ -81,22 +81,22 @@ public PathGradientBrush(Point[] points, WrapMode wrapMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| points | Point[] | Массив[`Point`](../../../aspose.psd/point) структуры, представляющие точки, составляющие вершины пути. |
-| wrapMode | WrapMode | А[`WrapMode`](../../../aspose.psd/wrapmode) который указывает, как заполняется этим[`PathGradientBrush`](../../pathgradientbrush) плиточные. |
+| points | Point[] | Массив[`Point`](../../../aspose.psd/point/) структуры, представляющие точки, составляющие вершины пути. |
+| wrapMode | WrapMode | А[`WrapMode`](../../../aspose.psd/wrapmode/) который указывает, как заполняется этим[`PathGradientBrush`](../) плиточные. |
 
 ### Смотрите также
 
-* struct [Point](../../../aspose.psd/point)
-* enum [WrapMode](../../../aspose.psd/wrapmode)
-* class [PathGradientBrush](../../pathgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush)
+* struct [Point](../../../aspose.psd/point/)
+* enum [WrapMode](../../../aspose.psd/wrapmode/)
+* class [PathGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(GraphicsPath) {#constructor}
 
-Инициализирует новый экземпляр[`PathGradientBrush`](../../pathgradientbrush) класс с указанным путем.
+Инициализирует новый экземпляр[`PathGradientBrush`](../) класс с указанным путем.
 
 ```csharp
 public PathGradientBrush(GraphicsPath path)
@@ -104,13 +104,13 @@ public PathGradientBrush(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../../aspose.psd/graphicspath) который определяет область, заполненную этим[`PathGradientBrush`](../../pathgradientbrush). |
+| path | GraphicsPath | [`GraphicsPath`](../../../aspose.psd/graphicspath/) который определяет область, заполненную этим[`PathGradientBrush`](../). |
 
 ### Смотрите также
 
-* class [GraphicsPath](../../../aspose.psd/graphicspath)
-* class [PathGradientBrush](../../pathgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush)
+* class [GraphicsPath](../../../aspose.psd/graphicspath/)
+* class [PathGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

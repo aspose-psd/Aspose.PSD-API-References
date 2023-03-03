@@ -1,14 +1,14 @@
 ---
-title: PsdImage
+title: PsdImage.PsdImage
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземплярPsdImageaspose.psd.fileformats.psd/psdimage класс из указанного пути из растрового изображения не изображение psd в пути. Используется для инициализации psd изображения с параметрами по умолчанию  Цветовой режим  rgb 4 канала 8 бит на канал Сжатие  Raw.
+description: PsdImage строитель. Инициализирует новый экземплярPsdImage класс из указанного пути из растрового изображения не изображение psd в пути. Используется для инициализации psd изображения с параметрами по умолчанию  Цветовой режим  rgb 4 канала 8 бит на канал Сжатие  Raw.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/psdimage/
 ---
 ## PsdImage(string) {#constructor_6}
 
-Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс из указанного пути из растрового изображения (не изображение psd в пути). Используется для инициализации psd изображения с параметрами по умолчанию - Цветовой режим - rgb, 4 канала, 8 бит на канал, Сжатие - Raw.
+Инициализирует новый экземпляр[`PsdImage`](../) класс из указанного пути из растрового изображения (не изображение psd в пути). Используется для инициализации psd изображения с параметрами по умолчанию - Цветовой режим - rgb, 4 канала, 8 бит на канал, Сжатие - Raw.
 
 ```csharp
 public PsdImage(string path)
@@ -20,15 +20,15 @@ public PsdImage(string path)
 
 ### Смотрите также
 
-* class [PsdImage](../../psdimage)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [PsdImage](../)
+* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(string, ColorModes, short, short, int, CompressionMethod) {#constructor_7}
 
-Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс из указанного пути из растрового изображения (не psd-изображение в пути) с параметрами конструктора.
+Инициализирует новый экземпляр[`PsdImage`](../) класс из указанного пути из растрового изображения (не psd-изображение в пути) с параметрами конструктора.
 
 ```csharp
 public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short channels, 
@@ -46,17 +46,17 @@ public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short 
 
 ### Смотрите также
 
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(Stream) {#constructor_4}
 
-Инициализирует новый экземпляр[`PsdImage`](../../psdimage) class из указанного пути из растрового изображения (не psd изображения в потоке). Используется для инициализации psd изображения с параметрами по умолчанию - Цветовой режим - rgb, 4 канала, 8 бит на канал, Сжатие - Raw.
+Инициализирует новый экземпляр[`PsdImage`](../) class из указанного пути из растрового изображения (не psd изображения в потоке). Используется для инициализации psd изображения с параметрами по умолчанию - Цветовой режим - rgb, 4 канала, 8 бит на канал, Сжатие - Raw.
 
 ```csharp
 public PsdImage(Stream stream)
@@ -68,15 +68,15 @@ public PsdImage(Stream stream)
 
 ### Смотрите также
 
-* class [PsdImage](../../psdimage)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [PsdImage](../)
+* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(Stream, ColorModes, short, short, int, CompressionMethod) {#constructor_5}
 
-Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс из указанного пути из растрового изображения (не psd изображения в потоке) с параметрами конструктора.
+Инициализирует новый экземпляр[`PsdImage`](../) класс из указанного пути из растрового изображения (не psd изображения в потоке) с параметрами конструктора.
 
 ```csharp
 public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, short channels, 
@@ -94,17 +94,17 @@ public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, shor
 
 ### Смотрите также
 
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(RasterImage) {#constructor}
 
-Инициализирует новый экземпляр[`PsdImage`](../../psdimage)класс из существующего растрового изображения (не psd) с цветовым режимом RGB с 4 каналами 8 бит/канал и без сжатия.
+Инициализирует новый экземпляр[`PsdImage`](../)класс из существующего растрового изображения (не psd) с цветовым режимом RGB с 4 каналами 8 бит/канал и без сжатия.
 
 ```csharp
 public PsdImage(RasterImage rasterImage)
@@ -116,16 +116,16 @@ public PsdImage(RasterImage rasterImage)
 
 ### Смотрите также
 
-* class [RasterImage](../../../aspose.psd/rasterimage)
-* class [PsdImage](../../psdimage)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [RasterImage](../../../aspose.psd/rasterimage/)
+* class [PsdImage](../)
+* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(RasterImage, ColorModes, short, short, int, CompressionMethod) {#constructor_1}
 
-Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс из существующего растрового изображения (не psd) с параметрами конструктора.
+Инициализирует новый экземпляр[`PsdImage`](../) класс из существующего растрового изображения (не psd) с параметрами конструктора.
 
 ```csharp
 public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitDepth, 
@@ -143,18 +143,18 @@ public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitD
 
 ### Смотрите также
 
-* class [RasterImage](../../../aspose.psd/rasterimage)
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [RasterImage](../../../aspose.psd/rasterimage/)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(int, int) {#constructor_2}
 
-Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс с заданной шириной и высотой. Используется для инициализации пустого изображения PSD.
+Инициализирует новый экземпляр[`PsdImage`](../) класс с заданной шириной и высотой. Используется для инициализации пустого изображения PSD.
 
 ```csharp
 public PsdImage(int width, int height)
@@ -167,15 +167,15 @@ public PsdImage(int width, int height)
 
 ### Смотрите также
 
-* class [PsdImage](../../psdimage)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [PsdImage](../)
+* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(int, int, IColorPalette, ColorModes, short, short, int, CompressionMethod) {#constructor_3}
 
-Инициализирует новый экземпляр[`PsdImage`](../../psdimage) класс с заданной шириной, высотой, палитрой, цветовым режимом, количеством каналов и разрядностью каналов, а также указанными параметрами режима сжатия. Используется для инициализации пустого изображения PSD.
+Инициализирует новый экземпляр[`PsdImage`](../) класс с заданной шириной, высотой, палитрой, цветовым режимом, количеством каналов и разрядностью каналов, а также указанными параметрами режима сжатия. Используется для инициализации пустого изображения PSD.
 
 ```csharp
 public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes colorMode, 
@@ -195,11 +195,11 @@ public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes co
 
 ### Смотрите также
 
-* interface [IColorPalette](../../../aspose.psd/icolorpalette)
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* interface [IColorPalette](../../../aspose.psd/icolorpalette/)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

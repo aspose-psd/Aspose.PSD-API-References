@@ -1,14 +1,14 @@
 ---
-title: IsVisible
+title: Region.IsVisible
 second_title: Справочник по Aspose.PSD для .NET API
-description: Проверяет содержится ли указанная точка в этомRegionaspose.psd/region .
+description: Region метод. Проверяет содержится ли указанная точка в этомRegion .
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/region/isvisible/
 ---
 ## IsVisible(float, float) {#isvisible_11}
 
-Проверяет, содержится ли указанная точка в этом[`Region`](../../region) .
+Проверяет, содержится ли указанная точка в этом[`Region`](../) .
 
 ```csharp
 public bool IsVisible(float x, float y)
@@ -21,19 +21,19 @@ public bool IsVisible(float x, float y)
 
 ### Возвращаемое значение
 
-Истинно, если указанная точка содержится в этом[`Region`](../../region) ; в противном случае false.
+Истинно, если указанная точка содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-Проверяет, указанный[`PointF`](../../pointf)структура содержится в этом[`Region`](../../region) .
+Проверяет, указанный[`PointF`](../../pointf/) структура содержится в этом[`Region`](../) .
 
 ```csharp
 public bool IsVisible(PointF point)
@@ -41,24 +41,24 @@ public bool IsVisible(PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf) структуру для тестирования. |
+| point | PointF | [`PointF`](../../pointf/) структуру для тестирования. |
 
 ### Возвращаемое значение
 
-верно, когда*point* содержится в этом[`Region`](../../region) ; в противном случае false.
+верно, когда*point* содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* struct [PointF](../../pointf)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* struct [PointF](../../pointf/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_12}
 
-Проверяет, содержится ли указанная точка в этом[`Region`](../../region) при рисовании с использованием указанного[`Graphics`](../../graphics) .
+Проверяет, содержится ли указанная точка в этом[`Region`](../) при рисовании с использованием указанного[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics g)
@@ -68,24 +68,24 @@ public bool IsVisible(float x, float y, Graphics g)
 | --- | --- | --- |
 | x | Single | X-координата точки для проверки. |
 | y | Single | Y-координата точки для проверки. |
-| g | Graphics | А[`Graphics`](../../graphics) который представляет графический контекст. |
+| g | Graphics | А[`Graphics`](../../graphics/) который представляет графический контекст. |
 
 ### Возвращаемое значение
 
-Истинно, если указанная точка содержится в этом[`Region`](../../region) ; в противном случае false.
+Истинно, если указанная точка содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* class [Graphics](../../graphics)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* class [Graphics](../../graphics/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-Проверяет, указанный[`PointF`](../../pointf)структура содержится в этом[`Region`](../../region) при рисовании с использованием указанного[`Graphics`](../../graphics) .
+Проверяет, указанный[`PointF`](../../pointf/) структура содержится в этом[`Region`](../) при рисовании с использованием указанного[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsVisible(PointF point, Graphics g)
@@ -93,26 +93,26 @@ public bool IsVisible(PointF point, Graphics g)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf) структуру для тестирования. |
-| g | Graphics | А[`Graphics`](../../graphics) который представляет графический контекст. |
+| point | PointF | [`PointF`](../../pointf/) структуру для тестирования. |
+| g | Graphics | А[`Graphics`](../../graphics/) который представляет графический контекст. |
 
 ### Возвращаемое значение
 
-верно, когда*point* содержится в этом[`Region`](../../region) ; в противном случае false.
+верно, когда*point* содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* struct [PointF](../../pointf/)
+* class [Graphics](../../graphics/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float) {#isvisible_13}
 
-Проверяет, содержится ли какая-либо часть указанного прямоугольника в этом[`Region`](../../region) .
+Проверяет, содержится ли какая-либо часть указанного прямоугольника в этом[`Region`](../) .
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height)
@@ -127,19 +127,19 @@ public bool IsVisible(float x, float y, float width, float height)
 
 ### Возвращаемое значение
 
-true, когда любая часть указанного прямоугольника содержится в этом[`Region`](../../region) объект; в противном случае false.
+true, когда любая часть указанного прямоугольника содержится в этом[`Region`](../) объект; в противном случае false.
 
 ### Смотрите также
 
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF) {#isvisible_6}
 
-Проверяет, является ли какая-либо часть указанного[`RectangleF`](../../rectanglef)структура содержится в этом[`Region`](../../region) .
+Проверяет, является ли какая-либо часть указанного[`RectangleF`](../../rectanglef/) структура содержится в этом[`Region`](../) .
 
 ```csharp
 public bool IsVisible(RectangleF rect)
@@ -147,24 +147,24 @@ public bool IsVisible(RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) структуру для тестирования. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) структуру для тестирования. |
 
 ### Возвращаемое значение
 
-true, когда любая часть*rect* содержится в этом[`Region`](../../region) ; в противном случае false.
+true, когда любая часть*rect* содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* struct [RectangleF](../../rectanglef)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* struct [RectangleF](../../rectanglef/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float, Graphics) {#isvisible_14}
 
-Проверяет, содержится ли какая-либо часть указанного прямоугольника в этом[`Region`](../../region) при рисовании с использованием указанного[`Graphics`](../../graphics) .
+Проверяет, содержится ли какая-либо часть указанного прямоугольника в этом[`Region`](../) при рисовании с использованием указанного[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height, Graphics g)
@@ -176,24 +176,24 @@ public bool IsVisible(float x, float y, float width, float height, Graphics g)
 | y | Single | Y-координата левого верхнего угла прямоугольника для проверки. |
 | width | Single | Ширина прямоугольника для проверки. |
 | height | Single | Высота прямоугольника для проверки. |
-| g | Graphics | А[`Graphics`](../../graphics) который представляет графический контекст. |
+| g | Graphics | А[`Graphics`](../../graphics/) который представляет графический контекст. |
 
 ### Возвращаемое значение
 
-true, когда любая часть указанного прямоугольника содержится в этом[`Region`](../../region) ; в противном случае false.
+true, когда любая часть указанного прямоугольника содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* class [Graphics](../../graphics)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* class [Graphics](../../graphics/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF, Graphics) {#isvisible_7}
 
-Проверяет, является ли какая-либо часть указанного[`RectangleF`](../../rectanglef)структура содержится в этом[`Region`](../../region) при рисовании с использованием указанного[`Graphics`](../../graphics) .
+Проверяет, является ли какая-либо часть указанного[`RectangleF`](../../rectanglef/) структура содержится в этом[`Region`](../) при рисовании с использованием указанного[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsVisible(RectangleF rect, Graphics g)
@@ -201,26 +201,26 @@ public bool IsVisible(RectangleF rect, Graphics g)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) структуру для тестирования. |
-| g | Graphics | А[`Graphics`](../../graphics) который представляет графический контекст. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) структуру для тестирования. |
+| g | Graphics | А[`Graphics`](../../graphics/) который представляет графический контекст. |
 
 ### Возвращаемое значение
 
-верно, когда*rect* содержится в этом[`Region`](../../region) ; в противном случае false.
+верно, когда*rect* содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../../graphics/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_8}
 
-Проверяет, содержится ли указанная точка в этом[`Region`](../../region) объект при рисовании с использованием указанного[`Graphics`](../../graphics) объект.
+Проверяет, содержится ли указанная точка в этом[`Region`](../) объект при рисовании с использованием указанного[`Graphics`](../../graphics/) объект.
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics g)
@@ -230,24 +230,24 @@ public bool IsVisible(int x, int y, Graphics g)
 | --- | --- | --- |
 | x | Int32 | X-координата точки для проверки. |
 | y | Int32 | Y-координата точки для проверки. |
-| g | Graphics | А[`Graphics`](../../graphics) который представляет графический контекст. |
+| g | Graphics | А[`Graphics`](../../graphics/) который представляет графический контекст. |
 
 ### Возвращаемое значение
 
-true, когда указанная точка содержится в этом[`Region`](../../region) ; в противном случае false.
+true, когда указанная точка содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* class [Graphics](../../graphics)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* class [Graphics](../../graphics/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-Проверяет, указанный[`Point`](../../point)структура содержится в этом[`Region`](../../region) .
+Проверяет, указанный[`Point`](../../point/) структура содержится в этом[`Region`](../) .
 
 ```csharp
 public bool IsVisible(Point point)
@@ -255,24 +255,24 @@ public bool IsVisible(Point point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point) структуру для тестирования. |
+| point | Point | [`Point`](../../point/) структуру для тестирования. |
 
 ### Возвращаемое значение
 
-верно, когда*point* содержится в этом[`Region`](../../region) ; в противном случае false.
+верно, когда*point* содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* struct [Point](../../point)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* struct [Point](../../point/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-Проверяет, указанный[`Point`](../../point)структура содержится в этом[`Region`](../../region) при рисовании с использованием указанного[`Graphics`](../../graphics) .
+Проверяет, указанный[`Point`](../../point/) структура содержится в этом[`Region`](../) при рисовании с использованием указанного[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsVisible(Point point, Graphics g)
@@ -280,26 +280,26 @@ public bool IsVisible(Point point, Graphics g)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point) структуру для тестирования. |
-| g | Graphics | А[`Graphics`](../../graphics) который представляет графический контекст. |
+| point | Point | [`Point`](../../point/) структуру для тестирования. |
+| g | Graphics | А[`Graphics`](../../graphics/) который представляет графический контекст. |
 
 ### Возвращаемое значение
 
-верно, когда*point* содержится в этом[`Region`](../../region) ; в противном случае false.
+верно, когда*point* содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* struct [Point](../../point/)
+* class [Graphics](../../graphics/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int) {#isvisible_9}
 
-Проверяет, содержится ли какая-либо часть указанного прямоугольника в этом[`Region`](../../region) .
+Проверяет, содержится ли какая-либо часть указанного прямоугольника в этом[`Region`](../) .
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height)
@@ -314,19 +314,19 @@ public bool IsVisible(int x, int y, int width, int height)
 
 ### Возвращаемое значение
 
-true, когда любая часть указанного прямоугольника содержится в этом[`Region`](../../region) ; в противном случае false.
+true, когда любая часть указанного прямоугольника содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle) {#isvisible_4}
 
-Проверяет, является ли какая-либо часть указанного[`Rectangle`](../../rectangle)структура содержится в этом[`Region`](../../region) .
+Проверяет, является ли какая-либо часть указанного[`Rectangle`](../../rectangle/) структура содержится в этом[`Region`](../) .
 
 ```csharp
 public bool IsVisible(Rectangle rect)
@@ -334,24 +334,24 @@ public bool IsVisible(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle) структуру для тестирования. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) структуру для тестирования. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает true, когда любая часть*rect* содержится в этом[`Region`](../../region) ; в противном случае false.
+Этот метод возвращает true, когда любая часть*rect* содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* struct [Rectangle](../../rectangle)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* struct [Rectangle](../../rectangle/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int, Graphics) {#isvisible_10}
 
-Проверяет, содержится ли какая-либо часть указанного прямоугольника в этом[`Region`](../../region) при рисовании с использованием указанного[`Graphics`](../../graphics) .
+Проверяет, содержится ли какая-либо часть указанного прямоугольника в этом[`Region`](../) при рисовании с использованием указанного[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height, Graphics g)
@@ -363,24 +363,24 @@ public bool IsVisible(int x, int y, int width, int height, Graphics g)
 | y | Int32 | Y-координата левого верхнего угла прямоугольника для проверки. |
 | width | Int32 | Ширина прямоугольника для проверки. |
 | height | Int32 | Высота прямоугольника для проверки. |
-| g | Graphics | А[`Graphics`](../../graphics) который представляет графический контекст. |
+| g | Graphics | А[`Graphics`](../../graphics/) который представляет графический контекст. |
 
 ### Возвращаемое значение
 
-true, когда любая часть указанного прямоугольника содержится в этом[`Region`](../../region) ; в противном случае false.
+true, когда любая часть указанного прямоугольника содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* class [Graphics](../../graphics)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* class [Graphics](../../graphics/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle, Graphics) {#isvisible_5}
 
-Проверяет, является ли какая-либо часть указанного[`Rectangle`](../../rectangle)структура содержится в этом[`Region`](../../region) при рисовании с использованием указанного[`Graphics`](../../graphics) .
+Проверяет, является ли какая-либо часть указанного[`Rectangle`](../../rectangle/) структура содержится в этом[`Region`](../) при рисовании с использованием указанного[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsVisible(Rectangle rect, Graphics g)
@@ -388,19 +388,19 @@ public bool IsVisible(Rectangle rect, Graphics g)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle) структуру для тестирования. |
-| g | Graphics | А[`Graphics`](../../graphics) который представляет графический контекст. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) структуру для тестирования. |
+| g | Graphics | А[`Graphics`](../../graphics/) который представляет графический контекст. |
 
 ### Возвращаемое значение
 
-true, когда любая часть*rect* содержится в этом[`Region`](../../region) ; в противном случае false.
+true, когда любая часть*rect* содержится в этом[`Region`](../) ; в противном случае false.
 
 ### Смотрите также
 
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* class [Region](../../region)
-* пространство имен [Aspose.PSD](../../region)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../../graphics/)
+* class [Region](../)
+* пространство имен [Aspose.PSD](../../region/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

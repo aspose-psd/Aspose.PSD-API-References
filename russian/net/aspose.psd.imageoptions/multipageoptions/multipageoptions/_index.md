@@ -1,14 +1,14 @@
 ---
-title: MultiPageOptions
+title: MultiPageOptions.MultiPageOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземплярMultiPageOptionsaspose.psd.imageoptions/multipageoptions класс.
+description: MultiPageOptions строитель. Инициализирует новый экземплярMultiPageOptions класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/multipageoptions/multipageoptions/
 ---
 ## MultiPageOptions() {#constructor}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions()
@@ -16,15 +16,15 @@ public MultiPageOptions()
 
 ### Смотрите также
 
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(int[]) {#constructor_7}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(int[] pages)
@@ -36,15 +36,15 @@ public MultiPageOptions(int[] pages)
 
 ### Смотрите также
 
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(int[], Rectangle) {#constructor_8}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(int[] pages, Rectangle exportArea)
@@ -57,16 +57,16 @@ public MultiPageOptions(int[] pages, Rectangle exportArea)
 
 ### Смотрите также
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(string[]) {#constructor_9}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(string[] pageTitles)
@@ -78,15 +78,15 @@ public MultiPageOptions(string[] pageTitles)
 
 ### Смотрите также
 
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(string[], Rectangle) {#constructor_10}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(string[] pageTitles, Rectangle exportArea)
@@ -99,16 +99,16 @@ public MultiPageOptions(string[] pageTitles, Rectangle exportArea)
 
 ### Смотрите также
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(IntRange[]) {#constructor_3}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(IntRange[] ranges)
@@ -116,20 +116,20 @@ public MultiPageOptions(IntRange[] ranges)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ranges | IntRange[] | [`IntRange`](../../../aspose.psd/intrange). |
+| ranges | IntRange[] | [`IntRange`](../../../aspose.psd/intrange/). |
 
 ### Смотрите также
 
-* class [IntRange](../../../aspose.psd/intrange)
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [IntRange](../../../aspose.psd/intrange/)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(IntRange[], Rectangle) {#constructor_4}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(IntRange[] ranges, Rectangle exportArea)
@@ -137,22 +137,22 @@ public MultiPageOptions(IntRange[] ranges, Rectangle exportArea)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ranges | IntRange[] | [`IntRange`](../../../aspose.psd/intrange). |
+| ranges | IntRange[] | [`IntRange`](../../../aspose.psd/intrange/). |
 | exportArea | Rectangle | Зона экспорта. |
 
 ### Смотрите также
 
-* class [IntRange](../../../aspose.psd/intrange)
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [IntRange](../../../aspose.psd/intrange/)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(IntRange) {#constructor_1}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(IntRange range)
@@ -160,20 +160,20 @@ public MultiPageOptions(IntRange range)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| range | IntRange | [`IntRange`](../../../aspose.psd/intrange). |
+| range | IntRange | [`IntRange`](../../../aspose.psd/intrange/). |
 
 ### Смотрите также
 
-* class [IntRange](../../../aspose.psd/intrange)
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [IntRange](../../../aspose.psd/intrange/)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(IntRange, Rectangle) {#constructor_2}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(IntRange range, Rectangle exportArea)
@@ -181,22 +181,22 @@ public MultiPageOptions(IntRange range, Rectangle exportArea)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| range | IntRange | [`IntRange`](../../../aspose.psd/intrange). |
+| range | IntRange | [`IntRange`](../../../aspose.psd/intrange/). |
 | exportArea | Rectangle | Зона экспорта. |
 
 ### Смотрите также
 
-* class [IntRange](../../../aspose.psd/intrange)
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [IntRange](../../../aspose.psd/intrange/)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(int) {#constructor_5}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(int page)
@@ -208,15 +208,15 @@ public MultiPageOptions(int page)
 
 ### Смотрите также
 
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(int, Rectangle) {#constructor_6}
 
-Инициализирует новый экземпляр[`MultiPageOptions`](../../multipageoptions) класс.
+Инициализирует новый экземпляр[`MultiPageOptions`](../) класс.
 
 ```csharp
 public MultiPageOptions(int page, Rectangle exportArea)
@@ -229,9 +229,9 @@ public MultiPageOptions(int page, Rectangle exportArea)
 
 ### Смотрите также
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

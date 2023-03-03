@@ -1,9 +1,9 @@
 ---
-title: GradientFillSettings
+title: Class GradientFillSettings
 second_title: Справочник по Aspose.PSD для .NET API
-description: Настройки эффекта градиентной заливки.
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings сорт. Настройки эффекта градиентной заливки.
 type: docs
-weight: 1940
+weight: 1960
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
 ## GradientFillSettings class
@@ -18,35 +18,35 @@ public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 
 | Имя | Описание |
 | --- | --- |
-| [GradientFillSettings](gradientfillsettings)() | Инициализирует новый экземпляр[`GradientFillSettings`](../gradientfillsettings) класс. |
+| [GradientFillSettings](gradientfillsettings/)() | Инициализирует новый экземпляр`GradientFillSettings` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer) { get; set; } | Получает или задает значение, указывающее, следует ли [выравнивать со слоем]. |
-| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle) { get; set; } | Получает или задает угол. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color) { get; set; } | Получает или задает цвет. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints) { get; set; } | Получает или задает точки цвета. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither) { get; set; } | Получает или задает значение, указывающее, является ли это[`GradientFillSettings`](../gradientfillsettings) дизеринг. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype) { get; } | Тип заливки |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname) { get; set; } | Получает или задает имя градиента. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype) { get; set; } | Получает или задает тип градиента. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset) { get; set; } | Получает или задает смещение по горизонтали. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse) { get; set; } | Получает или задает значение, указывающее, является ли это[`GradientFillSettings`](../gradientfillsettings) является обратным. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale) { get; set; } | Получает или задает масштаб. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints) { get; set; } | Получает или задает точки прозрачности. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset) { get; set; } | Получает или задает вертикальное смещение. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/) { get; set; } | Получает или задает значение, указывающее, следует ли [выравнивать со слоем]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/) { get; set; } | Получает или задает угол. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/) { get; set; } | Получает или задает цвет. |
+| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints/) { get; set; } | Получает или задает точки цвета. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | Получает или задает значение, указывающее, является ли это`GradientFillSettings` дизеринг. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | Тип заливки |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname/) { get; set; } | Получает или задает имя градиента. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | Получает или задает тип градиента. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | Получает или задает смещение по горизонтали в процентах. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | Получает или задает значение, указывающее, является ли это`GradientFillSettings` является обратным. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | Получает или задает масштаб. |
+| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints/) { get; set; } | Получает или задает точки прозрачности. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | Получает или задает вертикальное смещение в процентах. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint)() | Добавляет точку цвета. |
-| [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint)() | Добавляет точку цвета. |
-| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint)(IGradientColorPoint) | Удаляет цветовую точку. |
-| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint)(IGradientTransparencyPoint) | Удаляет точку прозрачности. |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes)() | Генерирует узлы ресурсов LFX2. |
+| [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/)() | Добавляет точку цвета. |
+| [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/)() | Добавляет точку цвета. |
+| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/)(IGradientColorPoint) | Удаляет цветовую точку. |
+| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/)(IGradientTransparencyPoint) | Удаляет точку прозрачности. |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/)() | Генерирует узлы ресурсов LFX2. |
 
 ### Примеры
 
@@ -209,9 +209,9 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### Смотрите также
 
-* class [BaseFillSettings](../basefillsettings)
-* interface [IGradientFillSettings](../igradientfillsettings)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings)
+* class [BaseFillSettings](../basefillsettings/)
+* interface [IGradientFillSettings](../igradientfillsettings/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

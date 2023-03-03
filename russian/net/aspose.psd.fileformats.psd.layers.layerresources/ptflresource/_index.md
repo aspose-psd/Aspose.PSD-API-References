@@ -1,9 +1,9 @@
 ---
-title: PtFlResource
+title: Class PtFlResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс PtFlResource. Содержит данные слоя заливки узором.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource сорт. Класс PtFlResource. Содержит данные слоя заливки узором.
 type: docs
-weight: 2930
+weight: 2960
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 ## PtFlResource class
@@ -18,35 +18,35 @@ public class PtFlResource : FillLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [PtFlResource](ptflresource)(string, string) | Инициализирует новый экземпляр[`PtFlResource`](../ptflresource) класс. |
+| [PtFlResource](ptflresource/)(string, string) | Инициализирует новый экземпляр`PtFlResource` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer) { get; set; } | Получает или задает значение, указывающее, выполняется ли [выравнивание со слоем]. |
-| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer) { get; set; } | Получает или задает значение, указывающее, связан ли этот экземпляр со слоем. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key) { get; } | Получает ключ ресурса слоя. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset) { get; set; } | Получает или задает смещение. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid) { get; set; } | Получает или задает идентификатор шаблона. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname) { get; set; } | Получает или задает имя шаблона. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale) { get; set; } | Получает или задает масштаб. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature) { get; } | Получает подпись ресурса слоя. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | Получает или задает значение, указывающее, выполняется ли [выравнивание со слоем]. |
+| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | Получает или задает значение, указывающее, связан ли этот экземпляр со слоем. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/) { get; } | Получает ключ ресурса слоя. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
+| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | Получает или задает смещение. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | Получает или задает идентификатор шаблона. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | Получает или задает имя шаблона. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | Получает или задает масштаб. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/) { get; } | Получает подпись ресурса слоя. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | Информационный ключ типа инструмента. |
 
 ### Примеры
 
@@ -118,9 +118,9 @@ using (im)
 
 ### Смотрите также
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [FillLayerResource](../filllayerresource)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [FillLayerResource](../filllayerresource/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

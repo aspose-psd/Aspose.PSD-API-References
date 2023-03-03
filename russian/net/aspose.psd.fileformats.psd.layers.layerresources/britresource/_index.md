@@ -1,9 +1,9 @@
 ---
-title: BritResource
+title: Class BritResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс БритРесурс. Ресурс корректирующего слоя яркости/контрастности
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BritResource сорт. Класс БритРесурс. Ресурс корректирующего слоя яркости/контрастности
 type: docs
-weight: 2320
+weight: 2340
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 ---
 ## BritResource class
@@ -18,41 +18,41 @@ public class BritResource : AdjustmentLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [BritResource](britresource#constructor)() | Инициализирует новый экземпляр[`BritResource`](../britresource) класс. |
-| [BritResource](britresource#constructor_1)(byte[]) | Инициализирует новый экземпляр[`BritResource`](../britresource)class. Спецификация формата PSD содержит следующее описание: 2 Яркость 2 Контраст 2 Среднее значение яркости и контрастности 1 Только лабораторный цвет Не используется в современном PSD (CS5 и выше), где есть CgEd. CgEd хранит информацию properties |
-| [BritResource](britresource#constructor_2)(short, short, short, bool) | Инициализирует новый экземпляр[`BritResource`](../britresource) класс. |
+| [BritResource](britresource/#constructor)() | Инициализирует новый экземпляр`BritResource` класс. |
+| [BritResource](britresource/#constructor_1)(byte[]) | Инициализирует новый экземпляр`BritResource`class. Спецификация формата PSD содержит следующее описание: 2 Яркость 2 Контраст 2 Среднее значение яркости и контрастности 1 Только лабораторный цвет Не используется в современном PSD (CS5 и выше), где есть CgEd. CgEd хранит информацию properties |
+| [BritResource](britresource/#constructor_2)(short, short, short, bool) | Инициализирует новый экземпляр`BritResource` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness) { get; set; } | Получает или устанавливает яркость. |
-| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast) { get; set; } | Получает или устанавливает контрастность. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/key) { get; } | Получает ключ ресурса слоя. |
-| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor) { get; set; } | Получает или задает значение, указывающее, является ли [лабораторный цвет]. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast) { get; set; } | Получает или задает среднее значение яркости и контрастности. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/psdversion) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Получает подпись. |
+| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness/) { get; set; } | Получает или устанавливает яркость. |
+| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast/) { get; set; } | Получает или устанавливает контрастность. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/) { get; set; } | Получает или задает значение, указывающее, является ли [лабораторный цвет]. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
+| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast/) { get; set; } | Получает или задает среднее значение яркости и контрастности. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/psdversion/) { get; } | Получает версию psd. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Получает подпись. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey/) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 
-* class [AdjustmentLayerResource](../adjustmentlayerresource)
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [AdjustmentLayerResource](../adjustmentlayerresource/)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

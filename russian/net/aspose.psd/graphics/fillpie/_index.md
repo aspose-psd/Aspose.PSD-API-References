@@ -1,14 +1,14 @@
 ---
-title: FillPie
+title: Graphics.FillPie
 second_title: Справочник по Aspose.PSD для .NET API
-description: Заполняет внутреннюю часть сектора круговой диаграммы определяемого эллипсом указаннымRectangleFaspose.psd/rectanglef структура и две радиальные линии.
+description: Graphics метод. Заполняет внутреннюю часть сектора круговой диаграммы определяемого эллипсом указаннымRectangleF структура и две радиальные линии.
 type: docs
 weight: 370
 url: /ru/net/aspose.psd/graphics/fillpie/
 ---
 ## FillPie(Brush, Rectangle, float, float) {#fillpie}
 
-Заполняет внутреннюю часть сектора круговой диаграммы, определяемого эллипсом, указанным[`RectangleF`](../../rectanglef) структура и две радиальные линии.
+Заполняет внутреннюю часть сектора круговой диаграммы, определяемого эллипсом, указанным[`RectangleF`](../../rectanglef/) структура и две радиальные линии.
 
 ```csharp
 public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAngle)
@@ -16,8 +16,8 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
-| rect | Rectangle | [`Rectangle`](../../rectangle) структура, представляющая ограничивающий прямоугольник, определяющий эллипс, из которого исходит сектор круговой диаграммы. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) структура, представляющая ограничивающий прямоугольник, определяющий эллипс, из которого исходит сектор круговой диаграммы. |
 | startAngle | Single | Угол в градусах, измеренный по часовой стрелке от оси x до первой стороны сектора круговой диаграммы. |
 | sweepAngle | Single | Угол в градусах, измеренный по часовой стрелке от*startAngle* параметр на вторую сторону круговой секции. |
 
@@ -29,17 +29,17 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## FillPie(Brush, RectangleF, float, float) {#fillpie_1}
 
-Заполняет внутреннюю часть сектора круговой диаграммы, определяемого эллипсом, указанным[`RectangleF`](../../rectanglef) структура и две радиальные линии.
+Заполняет внутреннюю часть сектора круговой диаграммы, определяемого эллипсом, указанным[`RectangleF`](../../rectanglef/) структура и две радиальные линии.
 
 ```csharp
 public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepAngle)
@@ -47,8 +47,8 @@ public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepA
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) структура, представляющая ограничивающий прямоугольник, определяющий эллипс, из которого исходит сектор круговой диаграммы. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) структура, представляющая ограничивающий прямоугольник, определяющий эллипс, из которого исходит сектор круговой диаграммы. |
 | startAngle | Single | Угол в градусах, измеренный по часовой стрелке от оси x до первой стороны сектора круговой диаграммы. |
 | sweepAngle | Single | Угол в градусах, измеренный по часовой стрелке от*startAngle* параметр на вторую сторону круговой секции. |
 
@@ -60,10 +60,10 @@ public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepA
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
@@ -79,7 +79,7 @@ public void FillPie(Brush brush, float x, float y, float width, float height, fl
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
 | x | Single | Координата x верхнего левого угла ограничивающего прямоугольника, определяющего эллипс, из которого исходит сектор круговой диаграммы. |
 | y | Single | Координата Y верхнего левого угла ограничивающего прямоугольника, определяющего эллипс, из которого исходит сектор круговой диаграммы. |
 | width | Single | Ширина ограничивающего прямоугольника, определяющего эллипс, из которого исходит сектор круговой диаграммы. |
@@ -95,9 +95,9 @@ public void FillPie(Brush brush, float x, float y, float width, float height, fl
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
@@ -113,7 +113,7 @@ public void FillPie(Brush brush, int x, int y, int width, int height, int startA
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
 | x | Int32 | Координата x верхнего левого угла ограничивающего прямоугольника, определяющего эллипс, из которого исходит сектор круговой диаграммы. |
 | y | Int32 | Координата Y верхнего левого угла ограничивающего прямоугольника, определяющего эллипс, из которого исходит сектор круговой диаграммы. |
 | width | Int32 | Ширина ограничивающего прямоугольника, определяющего эллипс, из которого исходит сектор круговой диаграммы. |
@@ -129,9 +129,9 @@ public void FillPie(Brush brush, int x, int y, int width, int height, int startA
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

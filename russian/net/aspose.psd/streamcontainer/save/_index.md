@@ -1,7 +1,7 @@
 ---
-title: Save
+title: StreamContainer.Save
 second_title: Справочник по Aspose.PSD для .NET API
-description: Сохраняет копирует данные потока в указанный поток.
+description: StreamContainer метод. Сохраняет копирует данные потока в указанный поток.
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/streamcontainer/save/
@@ -17,20 +17,20 @@ public virtual void Save(Stream destinationStream, int bufferSize, long length)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | destinationStream | Stream | Поток для сохранения данных. |
-| bufferSize | Int32 | Размер буфера. По умолчанию[`ReadWriteBytesCount`](../readwritebytescount) используется значение. |
-| length | Int64 | Длина данных потока для копирования. По умолчанию установлена длина[`Length`](../length) ценность. |
+| bufferSize | Int32 | Размер буфера. По умолчанию[`ReadWriteBytesCount`](../readwritebytescount/) используется значение. |
+| length | Int64 | Длина данных потока для копирования. По умолчанию установлена длина[`Length`](../length/) ценить. |
 
 ### Смотрите также
 
-* class [StreamContainer](../../streamcontainer)
-* пространство имен [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* пространство имен [Aspose.PSD](../../streamcontainer/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-Сохраняет (копирует) данные потока в указанный поток. Использует размер буфера по умолчанию[`ReadWriteBytesCount`](../readwritebytescount) и поток[`Length`](../length) значение.
+Сохраняет (копирует) данные потока в указанный поток. Использует размер буфера по умолчанию[`ReadWriteBytesCount`](../readwritebytescount/) и поток[`Length`](../length/) значение.
 
 ```csharp
 public virtual void Save(Stream destinationStream)
@@ -42,15 +42,15 @@ public virtual void Save(Stream destinationStream)
 
 ### Смотрите также
 
-* class [StreamContainer](../../streamcontainer)
-* пространство имен [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* пространство имен [Aspose.PSD](../../streamcontainer/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-Сохраняет (копирует) все данные потока в указанный поток. Использует поток[`Length`](../length) значение.
+Сохраняет (копирует) все данные потока в указанный поток. Использует поток[`Length`](../length/) значение.
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize)
@@ -63,15 +63,15 @@ public virtual void Save(Stream destinationStream, int bufferSize)
 
 ### Смотрите также
 
-* class [StreamContainer](../../streamcontainer)
-* пространство имен [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* пространство имен [Aspose.PSD](../../streamcontainer/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_3}
 
-Сохраняет (копирует) данные потока в указанный поток. Использует размер буфера по умолчанию[`ReadWriteBytesCount`](../readwritebytescount) и поток[`Length`](../length) значение.
+Сохраняет (копирует) данные потока в указанный поток. Использует размер буфера по умолчанию[`ReadWriteBytesCount`](../readwritebytescount/) и поток[`Length`](../length/) значение.
 
 ```csharp
 public virtual void Save(string filePath)
@@ -83,15 +83,15 @@ public virtual void Save(string filePath)
 
 ### Смотрите также
 
-* class [StreamContainer](../../streamcontainer)
-* пространство имен [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* пространство имен [Aspose.PSD](../../streamcontainer/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int) {#save_4}
 
-Сохраняет (копирует) данные потока в указанный поток. Использует поток[`Length`](../length) значение.
+Сохраняет (копирует) данные потока в указанный поток. Использует поток[`Length`](../length/) значение.
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize)
@@ -100,12 +100,12 @@ public virtual void Save(string filePath, int bufferSize)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filePath | String | Путь к файлу для сохранения данных потока. |
-| bufferSize | Int32 | Размер буфера. По умолчанию[`ReadWriteBytesCount`](../readwritebytescount) используется значение. |
+| bufferSize | Int32 | Размер буфера. По умолчанию[`ReadWriteBytesCount`](../readwritebytescount/) используется значение. |
 
 ### Смотрите также
 
-* class [StreamContainer](../../streamcontainer)
-* пространство имен [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* пространство имен [Aspose.PSD](../../streamcontainer/)
 * сборка [Aspose.PSD](../../../)
 
 ---
@@ -121,13 +121,13 @@ public virtual void Save(string filePath, int bufferSize, long length)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | filePath | String | Путь к файлу для сохранения данных потока. |
-| bufferSize | Int32 | Размер буфера. По умолчанию[`ReadWriteBytesCount`](../readwritebytescount) используется значение. |
-| length | Int64 | Длина данных потока для копирования. По умолчанию установлена длина[`Length`](../length) ценность. |
+| bufferSize | Int32 | Размер буфера. По умолчанию[`ReadWriteBytesCount`](../readwritebytescount/) используется значение. |
+| length | Int64 | Длина данных потока для копирования. По умолчанию установлена длина[`Length`](../length/) ценить. |
 
 ### Смотрите также
 
-* class [StreamContainer](../../streamcontainer)
-* пространство имен [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* пространство имен [Aspose.PSD](../../streamcontainer/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

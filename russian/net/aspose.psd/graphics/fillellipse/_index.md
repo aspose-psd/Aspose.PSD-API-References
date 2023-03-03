@@ -1,14 +1,14 @@
 ---
-title: FillEllipse
+title: Graphics.FillEllipse
 second_title: Справочник по Aspose.PSD для .NET API
-description: Заполняет внутреннюю часть эллипса определяемого ограничивающим прямоугольником указаннымRectangleFaspose.psd/rectanglefструктура.
+description: Graphics метод. Заполняет внутреннюю часть эллипса определяемого ограничивающим прямоугольником указаннымRectangleFструктура.
 type: docs
 weight: 350
 url: /ru/net/aspose.psd/graphics/fillellipse/
 ---
 ## FillEllipse(Brush, RectangleF) {#fillellipse_1}
 
-Заполняет внутреннюю часть эллипса, определяемого ограничивающим прямоугольником, указанным[`RectangleF`](../../rectanglef)структура.
+Заполняет внутреннюю часть эллипса, определяемого ограничивающим прямоугольником, указанным[`RectangleF`](../../rectanglef/)структура.
 
 ```csharp
 public void FillEllipse(Brush brush, RectangleF rect)
@@ -16,8 +16,8 @@ public void FillEllipse(Brush brush, RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)структура, представляющая ограничивающий прямоугольник, определяющий эллипс. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/)структура, представляющая ограничивающий прямоугольник, определяющий эллипс. |
 
 ### Исключения
 
@@ -27,10 +27,10 @@ public void FillEllipse(Brush brush, RectangleF rect)
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public void FillEllipse(Brush brush, float x, float y, float width, float height
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
 | x | Single | Координата x левого верхнего угла ограничивающего прямоугольника, определяющего эллипс. |
 | y | Single | Координата Y верхнего левого угла ограничивающего прямоугольника, определяющего эллипс. |
 | width | Single | Ширина ограничивающего прямоугольника, определяющего эллипс. |
@@ -59,16 +59,16 @@ public void FillEllipse(Brush brush, float x, float y, float width, float height
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, Rectangle) {#fillellipse}
 
-Заполняет внутреннюю часть эллипса, определяемого ограничивающим прямоугольником, указанным[`Rectangle`](../../rectangle)структура.
+Заполняет внутреннюю часть эллипса, определяемого ограничивающим прямоугольником, указанным[`Rectangle`](../../rectangle/)структура.
 
 ```csharp
 public void FillEllipse(Brush brush, Rectangle rect)
@@ -76,8 +76,8 @@ public void FillEllipse(Brush brush, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
-| rect | Rectangle | [`Rectangle`](../../rectangle)структура, представляющая ограничивающий прямоугольник, определяющий эллипс. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/)структура, представляющая ограничивающий прямоугольник, определяющий эллипс. |
 
 ### Исключения
 
@@ -87,10 +87,10 @@ public void FillEllipse(Brush brush, Rectangle rect)
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
@@ -105,7 +105,7 @@ public void FillEllipse(Brush brush, int x, int y, int width, int height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
 | x | Int32 | Координата x левого верхнего угла ограничивающего прямоугольника, определяющего эллипс. |
 | y | Int32 | Координата Y верхнего левого угла ограничивающего прямоугольника, определяющего эллипс. |
 | width | Int32 | Ширина ограничивающего прямоугольника, определяющего эллипс. |
@@ -119,9 +119,9 @@ public void FillEllipse(Brush brush, int x, int y, int width, int height)
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

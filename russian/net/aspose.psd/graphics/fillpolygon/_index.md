@@ -1,14 +1,14 @@
 ---
-title: FillPolygon
+title: Graphics.FillPolygon
 second_title: Справочник по Aspose.PSD для .NET API
-description: Заполняет внутреннюю часть многоугольника определяемого массивом точек заданным параметромPointFaspose.psd/pointf структуры иAlternate .
+description: Graphics метод. Заполняет внутреннюю часть многоугольника определяемого массивом точек заданным параметромPointF структуры иAlternate .
 type: docs
 weight: 380
 url: /ru/net/aspose.psd/graphics/fillpolygon/
 ---
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-Заполняет внутреннюю часть многоугольника, определяемого массивом точек, заданным параметром[`PointF`](../../pointf) структуры иAlternate .
+Заполняет внутреннюю часть многоугольника, определяемого массивом точек, заданным параметром[`PointF`](../../pointf/) структуры иAlternate .
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
@@ -16,8 +16,8 @@ public void FillPolygon(Brush brush, PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
-| points | PointF[] | Массив[`PointF`](../../pointf) структуры, представляющие вершины многоугольника для заполнения. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| points | PointF[] | Массив[`PointF`](../../pointf/) структуры, представляющие вершины многоугольника для заполнения. |
 
 ### Исключения
 
@@ -27,17 +27,17 @@ public void FillPolygon(Brush brush, PointF[] points)
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-Заполняет внутреннюю часть многоугольника, определяемого массивом точек, заданным параметром[`PointF`](../../pointf) структуры, использующие указанный режим заливки.
+Заполняет внутреннюю часть многоугольника, определяемого массивом точек, заданным параметром[`PointF`](../../pointf/) структуры, использующие указанный режим заливки.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
@@ -45,9 +45,9 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
-| points | PointF[] | Массив[`PointF`](../../pointf) структуры, представляющие вершины многоугольника для заполнения. |
-| fillMode | FillMode | Член[`FillMode`](../../fillmode) перечисление, определяющее стиль заливки. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| points | PointF[] | Массив[`PointF`](../../pointf/) структуры, представляющие вершины многоугольника для заполнения. |
+| fillMode | FillMode | Член[`FillMode`](../../fillmode/) перечисление, определяющее стиль заливки. |
 
 ### Исключения
 
@@ -57,18 +57,18 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* enum [FillMode](../../fillmode)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-Заполняет внутреннюю часть многоугольника, определяемого массивом точек, заданным параметром[`Point`](../../point) структуры иAlternate .
+Заполняет внутреннюю часть многоугольника, определяемого массивом точек, заданным параметром[`Point`](../../point/) структуры иAlternate .
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
@@ -76,8 +76,8 @@ public void FillPolygon(Brush brush, Point[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
-| points | Point[] | Массив[`Point`](../../point) структуры, представляющие вершины многоугольника для заполнения. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| points | Point[] | Массив[`Point`](../../point/) структуры, представляющие вершины многоугольника для заполнения. |
 
 ### Исключения
 
@@ -87,17 +87,17 @@ public void FillPolygon(Brush brush, Point[] points)
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-Заполняет внутреннюю часть многоугольника, определяемого массивом точек, заданным параметром[`Point`](../../point) структуры, использующие указанный режим заливки.
+Заполняет внутреннюю часть многоугольника, определяемого массивом точек, заданным параметром[`Point`](../../point/) структуры, использующие указанный режим заливки.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
@@ -105,9 +105,9 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)что определяет характеристики заливки. |
-| points | Point[] | Массив[`Point`](../../point) структуры, представляющие вершины многоугольника для заполнения. |
-| fillMode | FillMode | Член[`FillMode`](../../fillmode) перечисление, определяющее стиль заливки. |
+| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| points | Point[] | Массив[`Point`](../../point/) структуры, представляющие вершины многоугольника для заполнения. |
+| fillMode | FillMode | Член[`FillMode`](../../fillmode/) перечисление, определяющее стиль заливки. |
 
 ### Исключения
 
@@ -117,11 +117,11 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 
 ### Смотрите также
 
-* class [Brush](../../brush)
-* struct [Point](../../point)
-* enum [FillMode](../../fillmode)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

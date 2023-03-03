@@ -1,9 +1,9 @@
 ---
-title: LiFeDataSource
+title: Class LiFeDataSource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс LnkeDataSource который содержит информацию о внешнем связанном файле. Это часть API управления форматом файла PSD который помогает изменять файлы Adobe Photoshop
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource сорт. Определяет класс LnkeDataSource который содержит информацию о внешнем связанном файле. Это часть API управления форматом файла PSD который помогает изменять файлы Adobe Photoshop
 type: docs
-weight: 2660
+weight: 2680
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
 ## LiFeDataSource class
@@ -18,36 +18,36 @@ public class LiFeDataSource : LinkDataSource
 
 | Имя | Описание |
 | --- | --- |
-| [LiFeDataSource](lifedatasource#constructor)() | Инициализирует новый экземпляр[`LiFeDataSource`](../lifedatasource) класс. |
-| [LiFeDataSource](lifedatasource#constructor_1)(int, Guid, string, string, string) | Инициализирует новый экземпляр[`LiFeDataSource`](../lifedatasource) класс. |
+| [LiFeDataSource](lifedatasource/#constructor)() | Инициализирует новый экземпляр`LiFeDataSource` класс. |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Инициализирует новый экземпляр`LiFeDataSource` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid) { get; set; } | Получает или задает AdobeStockId графической библиотеки для библиотек Adobe® Photoshop® CC Libraries. |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate) { get; } | Получает состояние лицензии Adobe Stock, если она доступна, для библиотек Adobe® Photoshop® CC. |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate) { get; set; } | Получает или задает значение, указывающее, заблокирован ли ресурс PSD. Состояние блокировки ресурса для ресурсов Adobe® Photoshop® CC Libraries. |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime) { get; set; } | Получает или задает время изменения ресурса для ресурсов Adobe® Photoshop® CC Libraries. |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid) { get; set; } | Получает или задает идентификатор дочернего документа в источнике данных liFE или liFD ресурса Lnk2 / LnkE Adobe® Photoshop®. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid) { get; set; } | Получает или задает идентификатор текущей выбранной композиции для дочернего документа, который будет равен -1, если ничего не выбрано. Композиции — это композиции макета страницы, которые могут создавать дизайнеры. Используя композиции слоев, вы можете создавать, управлять и просматривать несколько версий макета в одном файле Adobe® Photoshop®. Композиция слоев — это снимок состояния панели «Слои». Композиции слоев сохраняют три типа параметров слоев, но это свойство получает идентификатор выбора композиции слоев для смарт-объектов. [Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date) { get; set; } | Получает или задает дату и время последней записи внешнего файла в источнике данных LiFE ресурса PSD LnkE. |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname) { get; set; } | Получает или задает имя элемента графической библиотеки для библиотек Adobe® Photoshop® CC Libraries. |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref) { get; set; } | Получает или задает ссылку на элемент графической библиотеки для библиотек Adobe® Photoshop® CC Libraries. |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator) { get; set; } | Получает или задает создатель файла в формате PSD LnkE/Lnk2 ресурса. |
-| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename) { get; set; } | Получает или задает имя внешнего или встроенного файла в ресурсе ссылки PSD . |
-| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize) { get; set; } | Получает или задает размер внешнего файла в источнике данных LiFE ресурса PSD LnkE. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype) { get; set; } | Получает или задает тип встроенного или внешнего файла, который содержит ресурс Adobe® Photoshop® Lnk2 / LnkE или ссылки на него. |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath) { get; set; } | Получает или задает полный путь к внешнему файлу в источнике данных LiFE ресурса PSD LnkE. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor) { get; set; } | Получает или задает значение, указывающее, имеет ли этот источник данных ссылки дескриптор открытия файла: CompId и OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink) { get; } | Получает значение, указывающее, ссылается ли этот источник данных ссылки PSD на элемент библиотеки Adobe® Photoshop® CC Library. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length) { get; } | Получает длину источника данных ссылки в байтах. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid) { get; } | Получает исходный идентификатор текущей выбранной композиции для дочернего документа, который будет равен -1, если ничего не выбрано. Это свойство получает исходный идентификатор выбора композиции слоя для смарт-объектов. [Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename) { get; } | Получает исходное имя файла источника данных в ресурсе глобальной ссылки Adobe® Photoshop®. |
-| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath) { get; set; } | Получает или задает относительный путь внешнего файла в источнике данных LiFE ресурса PSD LnkE. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type) { get; } | Получает тип источника данных глобальной ссылки Adobe® Photoshop®, который может быть одним из следующих или отсутствовать: Встроенный связанный файл liFD, соответствующий PSD Lnk2Resource Внешний связанный файл liFE, соответствующий PSD LnkeResource Псевдоним связанного файла liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid) { get; } | Получает глобальный уникальный идентификатор источника данных в ресурсе ссылки PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version) { get; } | Получает версию источника данных в ресурсе PSD LnkE/Lnk2. |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Получает или задает AdobeStockId графической библиотеки для библиотек Adobe® Photoshop® CC Libraries. |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Получает состояние лицензии Adobe Stock, если она доступна, для библиотек Adobe® Photoshop® CC. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Получает или задает значение, указывающее, заблокирован ли ресурс PSD. Состояние блокировки ресурса для ресурсов Adobe® Photoshop® CC Libraries. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Получает или задает время изменения ресурса для ресурсов Adobe® Photoshop® CC Libraries. |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Получает или задает идентификатор дочернего документа в источнике данных liFE или liFD ресурса Lnk2 / LnkE Adobe® Photoshop®. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Получает или задает идентификатор текущей выбранной композиции для дочернего документа, который будет равен -1, если ничего не выбрано. Композиции — это композиции макета страницы, которые могут создавать дизайнеры. Используя композиции слоев, вы можете создавать, управлять и просматривать несколько версий макета в одном файле Adobe® Photoshop®. Композиция слоев — это снимок состояния панели «Слои». Композиции слоев сохраняют три типа параметров слоев, но это свойство получает идентификатор выбора композиции слоев для смарт-объектов. [Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Получает или задает дату и время последней записи внешнего файла в источнике данных LiFE ресурса PSD LnkE. |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Получает или задает имя элемента графической библиотеки для библиотек Adobe® Photoshop® CC Libraries. |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Получает или задает ссылку на элемент графической библиотеки для библиотек Adobe® Photoshop® CC Libraries. |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Получает или задает создатель файла в формате PSD LnkE/Lnk2 ресурса. |
+| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Получает или задает имя внешнего или встроенного файла в ресурсе ссылки PSD . |
+| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | Получает или задает размер внешнего файла в источнике данных LiFE ресурса PSD LnkE. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Получает или задает тип встроенного или внешнего файла, который содержит ресурс Adobe® Photoshop® Lnk2 / LnkE или ссылки на него. |
+| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Получает или задает полный путь к внешнему файлу в источнике данных LiFE ресурса PSD LnkE. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Получает или задает значение, указывающее, имеет ли этот источник данных ссылки дескриптор открытия файла: CompId и OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Получает значение, указывающее, ссылается ли этот источник данных ссылки PSD на элемент библиотеки Adobe® Photoshop® CC Library. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Получает длину источника данных ссылки в байтах. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Получает исходный идентификатор текущей выбранной композиции для дочернего документа, который будет равен -1, если ничего не выбрано. Это свойство получает исходный идентификатор выбора композиции слоя для смарт-объектов. [Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Получает исходное имя файла источника данных в ресурсе глобальной ссылки Adobe® Photoshop®. |
+| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | Получает или задает относительный путь внешнего файла в источнике данных LiFE ресурса PSD LnkE. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Получает тип источника данных глобальной ссылки Adobe® Photoshop®, который может быть одним из следующих или отсутствовать: Встроенный связанный файл liFD, соответствующий PSD Lnk2Resource Внешний связанный файл liFE, соответствующий PSD LnkeResource Псевдоним связанного файла liFA |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Получает глобальный уникальный идентификатор источника данных в ресурсе ссылки PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Получает версию источника данных в ресурсе PSD LnkE/Lnk2. |
 
 ### Примеры
 
@@ -443,8 +443,8 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### Смотрите также
 
-* class [LinkDataSource](../linkdatasource)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LinkDataSource](../linkdatasource/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

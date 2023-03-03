@@ -1,14 +1,14 @@
 ---
-title: LinearMulticolorGradientBrush
+title: LinearMulticolorGradientBrush.LinearMulticolorGradientBrush
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземплярLinearMulticolorGradientBrushaspose.psd.brushes/linearmulticolorgradientbrush класс с параметрами по умолчанию. Начальный цвет черный конечный цвет белый угол 45 градусов и прямоугольник расположен в 00 с размером 11.
+description: LinearMulticolorGradientBrush строитель. Инициализирует новый экземплярLinearMulticolorGradientBrush класс с параметрами по умолчанию. Начальный цвет черный конечный цвет белый угол 45 градусов и прямоугольник расположен в 00 с размером 11.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.brushes/linearmulticolorgradientbrush/linearmulticolorgradientbrush/
 ---
 ## LinearMulticolorGradientBrush() {#constructor}
 
-Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../../linearmulticolorgradientbrush) класс с параметрами по умолчанию. Начальный цвет черный, конечный цвет белый, угол 45 градусов и прямоугольник расположен в (0,0) с размером (1,1).
+Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../) класс с параметрами по умолчанию. Начальный цвет черный, конечный цвет белый, угол 45 градусов и прямоугольник расположен в (0,0) с размером (1,1).
 
 ```csharp
 public LinearMulticolorGradientBrush()
@@ -16,15 +16,15 @@ public LinearMulticolorGradientBrush()
 
 ### Смотрите также
 
-* class [LinearMulticolorGradientBrush](../../linearmulticolorgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush)
+* class [LinearMulticolorGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Point, Point) {#constructor_1}
 
-Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../../linearmulticolorgradientbrush) класс с указанными баллами.
+Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../) класс с указанными баллами.
 
 ```csharp
 public LinearMulticolorGradientBrush(Point point1, Point point2)
@@ -32,21 +32,21 @@ public LinearMulticolorGradientBrush(Point point1, Point point2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point1 | Point | А[`Point`](../../../aspose.psd/point) структура, представляющая начальную точку линейного градиента. |
-| point2 | Point | А[`Point`](../../../aspose.psd/point) структура, представляющая конечную точку линейного градиента. |
+| point1 | Point | А[`Point`](../../../aspose.psd/point/) структура, представляющая начальную точку линейного градиента. |
+| point2 | Point | А[`Point`](../../../aspose.psd/point/) структура, представляющая конечную точку линейного градиента. |
 
 ### Смотрите также
 
-* struct [Point](../../../aspose.psd/point)
-* class [LinearMulticolorGradientBrush](../../linearmulticolorgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush)
+* struct [Point](../../../aspose.psd/point/)
+* class [LinearMulticolorGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(PointF, PointF) {#constructor_2}
 
-Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../../linearmulticolorgradientbrush) класс с указанными баллами.
+Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../) класс с указанными баллами.
 
 ```csharp
 public LinearMulticolorGradientBrush(PointF point1, PointF point2)
@@ -54,21 +54,21 @@ public LinearMulticolorGradientBrush(PointF point1, PointF point2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point1 | PointF | А[`PointF`](../../../aspose.psd/pointf) структура, представляющая начальную точку линейного градиента. |
-| point2 | PointF | А[`PointF`](../../../aspose.psd/pointf) структура, представляющая конечную точку линейного градиента. |
+| point1 | PointF | А[`PointF`](../../../aspose.psd/pointf/) структура, представляющая начальную точку линейного градиента. |
+| point2 | PointF | А[`PointF`](../../../aspose.psd/pointf/) структура, представляющая конечную точку линейного градиента. |
 
 ### Смотрите также
 
-* struct [PointF](../../../aspose.psd/pointf)
-* class [LinearMulticolorGradientBrush](../../linearmulticolorgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush)
+* struct [PointF](../../../aspose.psd/pointf/)
+* class [LinearMulticolorGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float) {#constructor_3}
 
-Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../../linearmulticolorgradientbrush) класс на основе прямоугольника и угла ориентации.
+Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../) класс на основе прямоугольника и угла ориентации.
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle)
@@ -76,21 +76,21 @@ public LinearMulticolorGradientBrush(Rectangle rect, float angle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | А[`RectangleF`](../../../aspose.psd/rectanglef) структура, задающая границы линейного градиента. |
+| rect | Rectangle | А[`RectangleF`](../../../aspose.psd/rectanglef/) структура, задающая границы линейного градиента. |
 | angle | Single | Угол, измеренный в градусах по часовой стрелке от оси x линии ориентации градиента. |
 
 ### Смотрите также
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [LinearMulticolorGradientBrush](../../linearmulticolorgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [LinearMulticolorGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float) {#constructor_5}
 
-Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../../linearmulticolorgradientbrush) класс на основе прямоугольника и угла ориентации.
+Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../) класс на основе прямоугольника и угла ориентации.
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle)
@@ -98,21 +98,21 @@ public LinearMulticolorGradientBrush(RectangleF rect, float angle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | А[`RectangleF`](../../../aspose.psd/rectanglef) структура, задающая границы линейного градиента. |
+| rect | RectangleF | А[`RectangleF`](../../../aspose.psd/rectanglef/) структура, задающая границы линейного градиента. |
 | angle | Single | Угол, измеренный в градусах по часовой стрелке от оси x линии ориентации градиента. |
 
 ### Смотрите также
 
-* struct [RectangleF](../../../aspose.psd/rectanglef)
-* class [LinearMulticolorGradientBrush](../../linearmulticolorgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush)
+* struct [RectangleF](../../../aspose.psd/rectanglef/)
+* class [LinearMulticolorGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float, bool) {#constructor_4}
 
-Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../../linearmulticolorgradientbrush) класс на основе прямоугольника и угла ориентации.
+Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../) класс на основе прямоугольника и угла ориентации.
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle, bool isAngleScalable)
@@ -120,22 +120,22 @@ public LinearMulticolorGradientBrush(Rectangle rect, float angle, bool isAngleSc
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | А[`RectangleF`](../../../aspose.psd/rectanglef) структура, задающая границы линейного градиента. |
+| rect | Rectangle | А[`RectangleF`](../../../aspose.psd/rectanglef/) структура, задающая границы линейного градиента. |
 | angle | Single | Угол, измеренный в градусах по часовой стрелке от оси x линии ориентации градиента. |
-| isAngleScalable | Boolean | если установлено`истинный` угол изменяется при преобразованиях с этим[`LinearMulticolorGradientBrush`](../../linearmulticolorgradientbrush). |
+| isAngleScalable | Boolean | если установлено`истинный` угол изменяется при преобразованиях с этим[`LinearMulticolorGradientBrush`](../). |
 
 ### Смотрите также
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [LinearMulticolorGradientBrush](../../linearmulticolorgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [LinearMulticolorGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float, bool) {#constructor_6}
 
-Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../../linearmulticolorgradientbrush) класс на основе прямоугольника и угла ориентации.
+Инициализирует новый экземпляр[`LinearMulticolorGradientBrush`](../) класс на основе прямоугольника и угла ориентации.
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle, bool isAngleScalable)
@@ -143,15 +143,15 @@ public LinearMulticolorGradientBrush(RectangleF rect, float angle, bool isAngleS
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | А[`RectangleF`](../../../aspose.psd/rectanglef) структура, задающая границы линейного градиента. |
+| rect | RectangleF | А[`RectangleF`](../../../aspose.psd/rectanglef/) структура, задающая границы линейного градиента. |
 | angle | Single | Угол, измеренный в градусах по часовой стрелке от оси x линии ориентации градиента. |
-| isAngleScalable | Boolean | если установлено`истинный` угол изменяется при преобразованиях с этим[`LinearMulticolorGradientBrush`](../../linearmulticolorgradientbrush). |
+| isAngleScalable | Boolean | если установлено`истинный` угол изменяется при преобразованиях с этим[`LinearMulticolorGradientBrush`](../). |
 
 ### Смотрите также
 
-* struct [RectangleF](../../../aspose.psd/rectanglef)
-* class [LinearMulticolorGradientBrush](../../linearmulticolorgradientbrush)
-* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush)
+* struct [RectangleF](../../../aspose.psd/rectanglef/)
+* class [LinearMulticolorGradientBrush](../)
+* пространство имен [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

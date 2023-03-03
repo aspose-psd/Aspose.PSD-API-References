@@ -1,7 +1,7 @@
 ---
-title: Matrix
+title: Matrix.Matrix
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземпляр класса Matrix как единичную матрицу.
+description: Matrix строитель. Инициализирует новый экземпляр класса Matrix как единичную матрицу.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/matrix/matrix/
@@ -16,15 +16,15 @@ public Matrix()
 
 ### Смотрите также
 
-* class [Matrix](../../matrix)
-* пространство имен [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* пространство имен [Aspose.PSD](../../matrix/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(float, float, float, float, float, float) {#constructor_4}
 
-Инициализирует новый экземпляр[`Matrix`](../../matrix) класс.
+Инициализирует новый экземпляр[`Matrix`](../) класс.
 
 ```csharp
 public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
@@ -41,15 +41,15 @@ public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 
 ### Смотрите также
 
-* class [Matrix](../../matrix)
-* пространство имен [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* пространство имен [Aspose.PSD](../../matrix/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(RectangleF, PointF[]) {#constructor_3}
 
-Инициализирует новый экземпляр[`Matrix`](../../matrix) class к геометрическому преобразованию, определенному указанным прямоугольником и массивом точек.
+Инициализирует новый экземпляр[`Matrix`](../) class к геометрическому преобразованию, определенному указанным прямоугольником и массивом точек.
 
 ```csharp
 public Matrix(RectangleF rect, PointF[] plgpts)
@@ -57,22 +57,22 @@ public Matrix(RectangleF rect, PointF[] plgpts)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | А[`RectangleF`](../../rectanglef) структура, представляющая прямоугольник, подлежащий преобразованию. |
-| plgpts | PointF[] | Массив из трех[`PointF`](../../pointf)структуры, представляющие точки параллелограмма, в которые должны быть преобразованы верхний левый, верхний правый и нижний левый углы прямоугольника. Нижний правый угол параллелограмма подразумевается первыми тремя углами. |
+| rect | RectangleF | А[`RectangleF`](../../rectanglef/) структура, представляющая прямоугольник, подлежащий преобразованию. |
+| plgpts | PointF[] | Массив из трех[`PointF`](../../pointf/)структуры, представляющие точки параллелограмма, в которые должны быть преобразованы верхний левый, верхний правый и нижний левый углы прямоугольника. Нижний правый угол параллелограмма подразумевается первыми тремя углами. |
 
 ### Смотрите также
 
-* struct [RectangleF](../../rectanglef)
-* struct [PointF](../../pointf)
-* class [Matrix](../../matrix)
-* пространство имен [Aspose.PSD](../../matrix)
+* struct [RectangleF](../../rectanglef/)
+* struct [PointF](../../pointf/)
+* class [Matrix](../)
+* пространство имен [Aspose.PSD](../../matrix/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Rectangle, Point[]) {#constructor_2}
 
-Инициализирует новый экземпляр[`Matrix`](../../matrix) class к геометрическому преобразованию, определенному указанным прямоугольником и массивом точек.
+Инициализирует новый экземпляр[`Matrix`](../) class к геометрическому преобразованию, определенному указанным прямоугольником и массивом точек.
 
 ```csharp
 public Matrix(Rectangle rect, Point[] plgpts)
@@ -80,22 +80,22 @@ public Matrix(Rectangle rect, Point[] plgpts)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | А[`Rectangle`](../../rectangle) структура, представляющая прямоугольник, подлежащий преобразованию. |
-| plgpts | Point[] | Массив из трех[`Point`](../../point)структуры, представляющие точки параллелограмма, в которые должны быть преобразованы верхний левый, верхний правый и нижний левый углы прямоугольника. Нижний правый угол параллелограмма подразумевается первыми тремя углами. |
+| rect | Rectangle | А[`Rectangle`](../../rectangle/) структура, представляющая прямоугольник, подлежащий преобразованию. |
+| plgpts | Point[] | Массив из трех[`Point`](../../point/)структуры, представляющие точки параллелограмма, в которые должны быть преобразованы верхний левый, верхний правый и нижний левый углы прямоугольника. Нижний правый угол параллелограмма подразумевается первыми тремя углами. |
 
 ### Смотрите также
 
-* struct [Rectangle](../../rectangle)
-* struct [Point](../../point)
-* class [Matrix](../../matrix)
-* пространство имен [Aspose.PSD](../../matrix)
+* struct [Rectangle](../../rectangle/)
+* struct [Point](../../point/)
+* class [Matrix](../)
+* пространство имен [Aspose.PSD](../../matrix/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Matrix) {#constructor_1}
 
-Делает копию[`Matrix`](../../matrix) класс.
+Делает копию[`Matrix`](../) класс.
 
 ```csharp
 public Matrix(Matrix origin)
@@ -107,8 +107,8 @@ public Matrix(Matrix origin)
 
 ### Смотрите также
 
-* class [Matrix](../../matrix)
-* пространство имен [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* пространство имен [Aspose.PSD](../../matrix/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

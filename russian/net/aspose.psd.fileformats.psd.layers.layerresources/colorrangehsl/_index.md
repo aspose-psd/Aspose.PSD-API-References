@@ -1,14 +1,14 @@
 ---
-title: ColorRangeHsl
+title: Class ColorRangeHsl
 second_title: Справочник по Aspose.PSD для .NET API
-description: Hue2Resource./hue2resource имеет 6 цветовых диапазонов где вы можете изменить параметры HSV. Каждый диапазон имеет 4 ключевые точки для определения границ диапазона. И это ColorRangeHsl
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ColorRangeHsl сорт. Hue2Resource имеет 6 цветовых диапазонов где вы можете изменить параметры HSV. Каждый диапазон имеет 4 ключевые точки для определения границ диапазона. И это ColorRangeHsl
 type: docs
-weight: 2370
+weight: 2390
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/
 ---
 ## ColorRangeHsl class
 
-[`Hue2Resource`](../hue2resource) имеет 6 цветовых диапазонов, где вы можете изменить параметры HSV. Каждый диапазон имеет 4 ключевые точки для определения границ диапазона. И это ColorRangeHsl
+[`Hue2Resource`](../hue2resource/) имеет 6 цветовых диапазонов, где вы можете изменить параметры HSV. Каждый диапазон имеет 4 ключевые точки для определения границ диапазона. И это ColorRangeHsl
 
 ```csharp
 public class ColorRangeHsl
@@ -18,33 +18,33 @@ public class ColorRangeHsl
 
 | Имя | Описание |
 | --- | --- |
-| [ColorRangeHsl](colorrangehsl#constructor)() | Инициализирует новый экземпляр[`ColorRangeHsl`](../colorrangehsl) класс. |
-| [ColorRangeHsl](colorrangehsl#constructor_1)(byte[]) | Инициализирует новый экземпляр[`ColorRangeHsl`](../colorrangehsl) класс. |
+| [ColorRangeHsl](colorrangehsl/#constructor)() | Инициализирует новый экземпляр`ColorRangeHsl` класс. |
+| [ColorRangeHsl](colorrangehsl/#constructor_1)(byte[]) | Инициализирует новый экземпляр`ColorRangeHsl` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue) { get; set; } | Получает или задает оттенок. |
-| [LeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder) { get; set; } | Получает или устанавливает левую границу. |
-| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness) { get; set; } | Получает или задает яркость. |
-| [MostLeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostleftborder) { get; set; } | Получает или устанавливает крайнюю левую границу. |
-| [MostRightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder) { get; set; } | Получает или устанавливает крайнюю правую границу. |
-| [RightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/rightborder) { get; set; } | Получает или устанавливает правую границу. |
-| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation) { get; set; } | Получает или устанавливает насыщенность. |
+| [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/) { get; set; } | Получает или задает оттенок. |
+| [LeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/) { get; set; } | Получает или устанавливает левую границу. |
+| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness/) { get; set; } | Получает или задает яркость. |
+| [MostLeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostleftborder/) { get; set; } | Получает или устанавливает крайнюю левую границу. |
+| [MostRightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder/) { get; set; } | Получает или устанавливает крайнюю правую границу. |
+| [RightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/rightborder/) { get; set; } | Получает или устанавливает правую границу. |
+| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/) { get; set; } | Получает или устанавливает насыщенность. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetRangeCoefficient](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient)(double) | Получает коэффициент диапазона. |
-| [IsHueInBigRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange)(double) | Определяет, находится ли оттенок в большом диапазоне. |
-| [IsHueInSmallRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange)(double) | Определяет, находится ли оттенок в небольшом диапазоне. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save)(StreamContainer) | Сохраняет данные в указанный контейнер потока. |
+| [GetRangeCoefficient](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/)(double) | Получает коэффициент диапазона. |
+| [IsHueInBigRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/)(double) | Определяет, находится ли оттенок в большом диапазоне. |
+| [IsHueInSmallRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/)(double) | Определяет, находится ли оттенок в небольшом диапазоне. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save/)(StreamContainer) | Сохраняет данные в указанный контейнер потока. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: DublinCorePackage
+title: Class DublinCorePackage
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет схему дублированного ядра.
+description: Aspose.PSD.Xmp.Schemas.DublinCore.DublinCorePackage сорт. Представляет схему дублированного ядра.
 type: docs
-weight: 5710
+weight: 5780
 url: /ru/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/
 ---
 ## DublinCorePackage class
@@ -18,40 +18,40 @@ public sealed class DublinCorePackage : XmpPackage
 
 | Имя | Описание |
 | --- | --- |
-| [DublinCorePackage](dublincorepackage)() | Конструктор по умолчанию. |
+| [DublinCorePackage](dublincorepackage/)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObject с указанным ключом. |
-| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | Получает ключи в пакете XMP. |
-| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | Получает URI пространства имен. |
-| [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | Получает префикс. |
-| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace) { get; } | Получает пространство имен XML. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Получает или задаетObject с указанным ключом. |
+| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | Получает ключи в пакете XMP. |
+| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Получает URI пространства имен. |
+| [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Получает префикс. |
+| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | Получает пространство имен XML. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [AddValue](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue)(string, string) | Добавляет строковое свойство. |
-| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | Очищает этот экземпляр. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ key. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
-| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | Преобразует значение XMP в представление XML. |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | Удалить значение с указанным ключом. |
-| [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor#setauthor)(string) | Добавляет автора. |
-| [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor#setauthor_1)(string[]) | Добавляет автора. |
-| [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription#setdescription)(LangAlt) | Добавляет описание. |
-| [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription#setdescription_1)(string) | Добавляет описание. |
-| [SetPublisher](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher#setpublisher)(string) | Добавляет издателя. |
-| [SetPublisher](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher#setpublisher_1)(string[]) | Добавляет издателя. |
-| [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject#setsubject)(string) | Добавляет тему. |
-| [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject#setsubject_1)(string[]) | Добавляет тему. |
-| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle#settitle)(LangAlt) | Добавляет заголовок Dublin Core для разных языков. |
-| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle#settitle_1)(string) | Добавляет название Dublin Core. |
-| virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue)(string, IXmlValue) | Устанавливает значение. |
-| virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) | Устанавливает значение типа XMP. |
+| override [AddValue](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue/)(string, string) | Добавляет строковое свойство. |
+| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | Очищает этот экземпляр. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Определяет, содержит ли указанный ключ key. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
+| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | Преобразует значение XMP в представление XML. |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Удалить значение с указанным ключом. |
+| [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor)(string) | Добавляет автора. |
+| [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor_1)(string[]) | Добавляет автора. |
+| [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/#setdescription)(LangAlt) | Добавляет описание. |
+| [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/#setdescription_1)(string) | Добавляет описание. |
+| [SetPublisher](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/#setpublisher)(string) | Добавляет издателя. |
+| [SetPublisher](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/#setpublisher_1)(string[]) | Добавляет издателя. |
+| [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/#setsubject)(string) | Добавляет тему. |
+| [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/#setsubject_1)(string[]) | Добавляет тему. |
+| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/#settitle)(LangAlt) | Добавляет заголовок Dublin Core для разных языков. |
+| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/#settitle_1)(string) | Добавляет название Dublin Core. |
+| virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | Устанавливает значение. |
+| virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | Устанавливает значение типа XMP. |
 
 ### Примечания
 
@@ -59,8 +59,8 @@ public sealed class DublinCorePackage : XmpPackage
 
 ### Смотрите также
 
-* class [XmpPackage](../../aspose.psd.xmp/xmppackage)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../aspose.psd.xmp.schemas.dublincore)
+* class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
+* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../aspose.psd.xmp.schemas.dublincore/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

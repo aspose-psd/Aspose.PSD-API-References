@@ -1,9 +1,9 @@
 ---
-title: PngOptions
+title: Class PngOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Параметры создания файла формата png.
+description: Aspose.PSD.ImageOptions.PngOptions сорт. Параметры создания файла формата png.
 type: docs
-weight: 4810
+weight: 4880
 url: /ru/net/aspose.psd.imageoptions/pngoptions/
 ---
 ## PngOptions class
@@ -18,42 +18,42 @@ public class PngOptions : ImageOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [PngOptions](pngoptions#constructor)() | Инициализирует новый экземпляр[`PngOptions`](../pngoptions) класс. |
-| [PngOptions](pngoptions#constructor_1)(PngOptions) | Инициализирует новый экземпляр[`PngOptions`](../pngoptions) класс. |
+| [PngOptions](pngoptions/#constructor)() | Инициализирует новый экземпляр`PngOptions` класс. |
+| [PngOptions](pngoptions/#constructor_1)(PngOptions) | Инициализирует новый экземпляр`PngOptions` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth) { get; set; } | Битовая глубина. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
-| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype) { get; set; } | Получает или задает тип цвета. |
-| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel) { get; set; } | Уровень сжатия изображения png в диапазоне от 0 до 9, где 9 — максимальное сжатие, а 0 — режим сохранения. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
-| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype) { get; set; } | Получает или задает тип фильтра, используемый во время процесса сохранения файла png. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Получает или задает значение, указывающее, является ли [полный кадр]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Многостраничные параметры |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Получает или задает цветовую палитру. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Получает или задает обработчик события выполнения. |
-| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive) { get; set; } | Получает или задает значение, указывающее, является ли это[`PngOptions`](../pngoptions) является прогрессивным. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Получает или задает параметры разрешения. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения в. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Получает или задает параметры векторной растеризации. |
-| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata) { get; set; } | Получает или задает контейнер метаданных XMP. |
+| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth/) { get; set; } | Битовая глубина. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype/) { get; set; } | Получает или задает тип цвета. |
+| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel/) { get; set; } | Уровень сжатия изображения png в диапазоне от 0 до 9, где 9 — максимальное сжатие, а 0 — режим сохранения. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
+| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype/) { get; set; } | Получает или задает тип фильтра, используемый во время процесса сохранения файла png. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Получает или задает значение, указывающее, является ли [полный кадр]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Многостраничные параметры |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Получает или задает цветовую палитру. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Получает или задает обработчик события выполнения. |
+| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive/) { get; set; } | Получает или задает значение, указывающее, является ли это`PngOptions` является прогрессивным. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Получает или задает параметры разрешения. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Получает или задает источник для создания изображения в. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Получает или задает параметры векторной растеризации. |
+| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata/) { get; set; } | Получает или задает контейнер метаданных XMP. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Клонирует этот экземпляр. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Удаляет текущий экземпляр. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Клонирует этот экземпляр. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Удаляет текущий экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel) | Уровень сжатия по умолчанию. |
+| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/) | Уровень сжатия по умолчанию. |
 
 ### Примеры
 
@@ -238,8 +238,8 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Смотрите также
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

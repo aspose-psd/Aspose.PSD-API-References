@@ -1,9 +1,9 @@
 ---
-title: Font
+title: Class Font
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет определенный формат текста включая начертание шрифта размер и атрибуты стиля. Этот класс не может быть унаследован.
+description: Aspose.PSD.Font сорт. Определяет определенный формат текста включая начертание шрифта размер и атрибуты стиля. Этот класс не может быть унаследован.
 type: docs
-weight: 4210
+weight: 4280
 url: /ru/net/aspose.psd/font/
 ---
 ## Font class
@@ -18,35 +18,35 @@ public sealed class Font
 
 | Имя | Описание |
 | --- | --- |
-| [Font](font#constructor)(Font, FontStyle) | Инициализирует новый[`Font`](../font) который использует указанный существующий[`Font`](../font) а также[`FontStyle`](../fontstyle) перечисление. |
-| [Font](font#constructor_1)(string, float) | Инициализирует новый[`Font`](../font) используя заданный размер. Набор символов установлен наDefault , графический блок кPoint , стиль шрифта дляRegular . |
-| [Font](font#constructor_2)(string, float, FontStyle) | Инициализирует новый[`Font`](../font) с использованием определенного размера и стиля. Набор символов установлен наDefault , графический блок кPoint . |
-| [Font](font#constructor_5)(string, float, GraphicsUnit) | Инициализирует новый[`Font`](../font) используя указанный размер и единицу измерения. Набор символов установлен наDefault стиль установлен наRegular . |
-| [Font](font#constructor_3)(string, float, FontStyle, GraphicsUnit) | Инициализирует новый[`Font`](../font) используя указанный размер, стиль и единицу измерения. |
-| [Font](font#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Инициализирует новый[`Font`](../font) используя указанный размер, стиль, единицу измерения и набор символов. |
+| [Font](font/#constructor)(Font, FontStyle) | Инициализирует новый`Font` который использует указанный существующий`Font` и[`FontStyle`](../fontstyle/) перечисление. |
+| [Font](font/#constructor_1)(string, float) | Инициализирует новый`Font` используя заданный размер. Набор символов установлен наDefault , графический блок кPoint , стиль шрифта дляRegular . |
+| [Font](font/#constructor_2)(string, float, FontStyle) | Инициализирует новый`Font` с использованием определенного размера и стиля. Набор символов установлен наDefault , графический блок кPoint . |
+| [Font](font/#constructor_5)(string, float, GraphicsUnit) | Инициализирует новый`Font` используя указанный размер и единицу измерения. Набор символов установлен наDefault стиль установлен наRegular . |
+| [Font](font/#constructor_3)(string, float, FontStyle, GraphicsUnit) | Инициализирует новый`Font` используя указанный размер, стиль и единицу измерения. |
+| [Font](font/#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Инициализирует новый`Font` используя указанный размер, стиль, единицу измерения и набор символов. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [Bold](../../aspose.psd/font/bold) { get; } | Получает значение, указывающее, является ли это[`Font`](../font) выделен жирным шрифтом. |
-| [CharacterSet](../../aspose.psd/font/characterset) { get; } | Получает значение байта, указывающее набор символов, который[`Font`](../font) использует. |
-| [Italic](../../aspose.psd/font/italic) { get; } | Получает значение, указывающее, является ли это[`Font`](../font)выделено курсивом. |
-| [Name](../../aspose.psd/font/name) { get; } | Получает имя лица этого[`Font`](../font) . |
-| [Size](../../aspose.psd/font/size) { get; } | Получает размер em этого[`Font`](../font) измеряется в единицах, указанных[`Unit`](./unit) свойство. |
-| [Strikeout](../../aspose.psd/font/strikeout) { get; } | Получает значение, указывающее, является ли это[`Font`](../font) определяет горизонтальную линию через шрифт. |
-| [Style](../../aspose.psd/font/style) { get; } | Получает информацию о стиле для этого[`Font`](../font) . |
-| [Underline](../../aspose.psd/font/underline) { get; } | Получает значение, указывающее, является ли это[`Font`](../font) подчеркнуто. |
-| [Unit](../../aspose.psd/font/unit) { get; } | Получает единицу измерения для этого[`Font`](../font) . |
+| [Bold](../../aspose.psd/font/bold/) { get; } | Получает значение, указывающее, является ли это`Font` выделен жирным шрифтом. |
+| [CharacterSet](../../aspose.psd/font/characterset/) { get; } | Получает значение байта, указывающее набор символов, который`Font` использует. |
+| [Italic](../../aspose.psd/font/italic/) { get; } | Получает значение, указывающее, является ли это`Font`выделено курсивом. |
+| [Name](../../aspose.psd/font/name/) { get; } | Получает имя лица этого`Font` . |
+| [Size](../../aspose.psd/font/size/) { get; } | Получает размер em этого`Font` измеряется в единицах, указанных[`Unit`](./unit/) свойство. |
+| [Strikeout](../../aspose.psd/font/strikeout/) { get; } | Получает значение, указывающее, является ли это`Font` определяет горизонтальную линию через шрифт. |
+| [Style](../../aspose.psd/font/style/) { get; } | Получает информацию о стиле для этого`Font` . |
+| [Underline](../../aspose.psd/font/underline/) { get; } | Получает значение, указывающее, является ли это`Font` подчеркнуто. |
+| [Unit](../../aspose.psd/font/unit/) { get; } | Получает единицу измерения для этого`Font` . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [DeepClone](../../aspose.psd/font/deepclone)() | Создает точную глубокую копию этого[`Font`](../font) . |
-| override [Equals](../../aspose.psd/font/equals)(object) | Указывает, является ли указанный объект[`Font`](../font) и имеет те же значения свойств, что и этот[`Font`](../font) . |
-| override [GetHashCode](../../aspose.psd/font/gethashcode)() | Получает хэш-код для этого[`Font`](../font) . |
-| override [ToString](../../aspose.psd/font/tostring)() | Возвращает удобочитаемое строковое представление этого[`Font`](../font) . |
+| [DeepClone](../../aspose.psd/font/deepclone/)() | Создает точную глубокую копию этого`Font` . |
+| override [Equals](../../aspose.psd/font/equals/)(object) | Указывает, является ли указанный объект`Font` и имеет те же значения свойств, что и этот`Font` . |
+| override [GetHashCode](../../aspose.psd/font/gethashcode/)() | Получает хэш-код для этого`Font` . |
+| override [ToString](../../aspose.psd/font/tostring/)() | Возвращает удобочитаемое строковое представление этого`Font` . |
 
 ### Примеры
 
@@ -83,7 +83,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Смотрите также
 
-* пространство имен [Aspose.PSD](../../aspose.psd)
+* пространство имен [Aspose.PSD](../../aspose.psd/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

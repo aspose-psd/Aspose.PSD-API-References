@@ -1,9 +1,9 @@
 ---
-title: TextShape
+title: Class TextShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет текстовую фигуру.
+description: Aspose.PSD.Shapes.TextShape сорт. Представляет текстовую фигуру.
 type: docs
-weight: 5470
+weight: 5540
 url: /ru/net/aspose.psd.shapes/textshape/
 ---
 ## TextShape class
@@ -18,39 +18,39 @@ public sealed class TextShape : RectangleProjectedShape
 
 | Имя | Описание |
 | --- | --- |
-| [TextShape](textshape#constructor)() | Инициализирует новый экземпляр[`TextShape`](../textshape) класс. |
-| [TextShape](textshape#constructor_1)(string, RectangleF, Font, StringFormat) | Инициализирует новый экземпляр[`TextShape`](../textshape) класс. |
+| [TextShape](textshape/#constructor)() | Инициализирует новый экземпляр`TextShape` класс. |
+| [TextShape](textshape/#constructor_1)(string, RectangleF, Font, StringFormat) | Инициализирует новый экземпляр`TextShape` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/textshape/bounds) { get; } | Получает границы объекта. |
-| override [Center](../../aspose.psd.shapes/textshape/center) { get; } | Получает центр фигуры. |
-| [Font](../../aspose.psd.shapes/textshape/font) { get; set; } | Получает или задает шрифт, используемый для рисования текста. |
-| override [HasSegments](../../aspose.psd.shapes/textshape/hassegments) { get; } | Получает значение, указывающее, есть ли у фигуры сегменты. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | Получает точку левого нижнего прямоугольника. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | Получает левую верхнюю точку прямоугольника. |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | Получает высоту прямоугольника. |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | Получает ширину прямоугольника. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | Получает правую нижнюю точку прямоугольника. |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | Получает правую верхнюю точку прямоугольника. |
-| override [Segments](../../aspose.psd.shapes/textshape/segments) { get; } | Получает сегменты формы. |
-| [Text](../../aspose.psd.shapes/textshape/text) { get; set; } | Получает или задает нарисованный текст. |
-| [TextFormat](../../aspose.psd.shapes/textshape/textformat) { get; set; } | Получает или задает формат текста. |
+| override [Bounds](../../aspose.psd.shapes/textshape/bounds/) { get; } | Получает границы объекта. |
+| override [Center](../../aspose.psd.shapes/textshape/center/) { get; } | Получает центр фигуры. |
+| [Font](../../aspose.psd.shapes/textshape/font/) { get; set; } | Получает или задает шрифт, используемый для рисования текста. |
+| override [HasSegments](../../aspose.psd.shapes/textshape/hassegments/) { get; } | Получает значение, указывающее, есть ли у фигуры сегменты. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Получает точку левого нижнего прямоугольника. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Получает левую верхнюю точку прямоугольника. |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Получает высоту прямоугольника. |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Получает ширину прямоугольника. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Получает правую нижнюю точку прямоугольника. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Получает правую верхнюю точку прямоугольника. |
+| override [Segments](../../aspose.psd.shapes/textshape/segments/) { get; } | Получает сегменты формы. |
+| [Text](../../aspose.psd.shapes/textshape/text/) { get; set; } | Получает или задает нарисованный текст. |
+| [TextFormat](../../aspose.psd.shapes/textshape/textformat/) { get; set; } | Получает или задает формат текста. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds#getbounds)(Matrix) | Получает границы объекта. |
-| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds#getbounds_1)(Matrix, Pen) | Получает границы объекта. |
-| override [Transform](../../aspose.psd.shapes/textshape/transform)(Matrix) | Применяет указанное преобразование к фигуре. |
+| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds/#getbounds)(Matrix) | Получает границы объекта. |
+| override [GetBounds](../../aspose.psd.shapes/textshape/getbounds/#getbounds_1)(Matrix, Pen) | Получает границы объекта. |
+| override [Transform](../../aspose.psd.shapes/textshape/transform/)(Matrix) | Применяет указанное преобразование к фигуре. |
 
 ### Смотрите также
 
-* class [RectangleProjectedShape](../rectangleprojectedshape)
-* пространство имен [Aspose.PSD.Shapes](../../aspose.psd.shapes)
+* class [RectangleProjectedShape](../rectangleprojectedshape/)
+* пространство имен [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

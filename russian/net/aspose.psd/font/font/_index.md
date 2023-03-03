@@ -1,14 +1,14 @@
 ---
-title: Font
+title: Font.Font
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новыйFontaspose.psd/font который использует указанный существующийFontaspose.psd/font а такжеFontStyleaspose.psd/fontstyle перечисление.
+description: Font строитель. Инициализирует новыйFont который использует указанный существующийFont иFontStyle перечисление.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/font/font/
 ---
 ## Font(Font, FontStyle) {#constructor}
 
-Инициализирует новый[`Font`](../../font) который использует указанный существующий[`Font`](../../font) а также[`FontStyle`](../../fontstyle) перечисление.
+Инициализирует новый[`Font`](../) который использует указанный существующий[`Font`](../) и[`FontStyle`](../../fontstyle/) перечисление.
 
 ```csharp
 public Font(Font prototype, FontStyle newStyle)
@@ -16,8 +16,8 @@ public Font(Font prototype, FontStyle newStyle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| prototype | Font | Существующий[`Font`](../../font) из которого создать новый[`Font`](../../font). |
-| newStyle | FontStyle | [`FontStyle`](../../fontstyle) подать заявку на новый[`Font`](../../font) . Несколько значений[`FontStyle`](../../fontstyle) перечисление можно комбинировать с оператором ИЛИ. |
+| prototype | Font | Существующий[`Font`](../) из которого создать новый[`Font`](../). |
+| newStyle | FontStyle | [`FontStyle`](../../fontstyle/) подать заявку на новый[`Font`](../) . Несколько значений[`FontStyle`](../../fontstyle/) перечисление можно комбинировать с оператором ИЛИ. |
 
 ### Исключения
 
@@ -27,16 +27,16 @@ public Font(Font prototype, FontStyle newStyle)
 
 ### Смотрите также
 
-* enum [FontStyle](../../fontstyle)
-* class [Font](../../font)
-* пространство имен [Aspose.PSD](../../font)
+* enum [FontStyle](../../fontstyle/)
+* class [Font](../)
+* пространство имен [Aspose.PSD](../../font/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float) {#constructor_1}
 
-Инициализирует новый[`Font`](../../font) используя заданный размер. Набор символов установлен наDefault , графический блок кPoint , стиль шрифта дляRegular .
+Инициализирует новый[`Font`](../) используя заданный размер. Набор символов установлен наDefault , графический блок кPoint , стиль шрифта дляRegular .
 
 ```csharp
 public Font(string fontName, float emSize)
@@ -44,7 +44,7 @@ public Font(string fontName, float emSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Строковое представление[`Font`](../../font) имя. |
+| fontName | String | Строковое представление[`Font`](../) имя. |
 | emSize | Single | Размер em нового шрифта в пунктах. |
 
 ### Исключения
@@ -56,15 +56,15 @@ public Font(string fontName, float emSize)
 
 ### Смотрите также
 
-* class [Font](../../font)
-* пространство имен [Aspose.PSD](../../font)
+* class [Font](../)
+* пространство имен [Aspose.PSD](../../font/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle) {#constructor_2}
 
-Инициализирует новый[`Font`](../../font) с использованием определенного размера и стиля. Набор символов установлен наDefault , графический блок кPoint .
+Инициализирует новый[`Font`](../) с использованием определенного размера и стиля. Набор символов установлен наDefault , графический блок кPoint .
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style)
@@ -72,9 +72,9 @@ public Font(string fontName, float emSize, FontStyle style)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Строковое представление[`Font`](../../font) имя. |
+| fontName | String | Строковое представление[`Font`](../) имя. |
 | emSize | Single | Размер em нового шрифта в пунктах. |
-| style | FontStyle | [`FontStyle`](../../fontstyle) нового шрифта. |
+| style | FontStyle | [`FontStyle`](../../fontstyle/) нового шрифта. |
 
 ### Исключения
 
@@ -85,16 +85,16 @@ public Font(string fontName, float emSize, FontStyle style)
 
 ### Смотрите также
 
-* enum [FontStyle](../../fontstyle)
-* class [Font](../../font)
-* пространство имен [Aspose.PSD](../../font)
+* enum [FontStyle](../../fontstyle/)
+* class [Font](../)
+* пространство имен [Aspose.PSD](../../font/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, GraphicsUnit) {#constructor_5}
 
-Инициализирует новый[`Font`](../../font) используя указанный размер и единицу измерения. Набор символов установлен наDefault стиль установлен наRegular .
+Инициализирует новый[`Font`](../) используя указанный размер и единицу измерения. Набор символов установлен наDefault стиль установлен наRegular .
 
 ```csharp
 public Font(string fontName, float emSize, GraphicsUnit unit)
@@ -102,9 +102,9 @@ public Font(string fontName, float emSize, GraphicsUnit unit)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Строковое представление[`Font`](../../font) имя. |
+| fontName | String | Строковое представление[`Font`](../) имя. |
 | emSize | Single | Размер em нового шрифта в единицах, указанных*unit* параметр. |
-| unit | GraphicsUnit | [`GraphicsUnit`](../../graphicsunit) нового шрифта. |
+| unit | GraphicsUnit | [`GraphicsUnit`](../../graphicsunit/) нового шрифта. |
 
 ### Исключения
 
@@ -115,16 +115,16 @@ public Font(string fontName, float emSize, GraphicsUnit unit)
 
 ### Смотрите также
 
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* пространство имен [Aspose.PSD](../../font)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* пространство имен [Aspose.PSD](../../font/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit, CharacterSet) {#constructor_4}
 
-Инициализирует новый[`Font`](../../font) используя указанный размер, стиль, единицу измерения и набор символов.
+Инициализирует новый[`Font`](../) используя указанный размер, стиль, единицу измерения и набор символов.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit, 
@@ -133,10 +133,10 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Строковое представление[`Font`](../../font) имя. |
+| fontName | String | Строковое представление[`Font`](../) имя. |
 | emSize | Single | Размер em нового шрифта в единицах, указанных*unit* параметр. |
-| style | FontStyle | [`FontStyle`](../../fontstyle) нового шрифта. |
-| unit | GraphicsUnit | [`GraphicsUnit`](../../graphicsunit) нового шрифта. |
+| style | FontStyle | [`FontStyle`](../../fontstyle/) нового шрифта. |
+| unit | GraphicsUnit | [`GraphicsUnit`](../../graphicsunit/) нового шрифта. |
 | characterSet | CharacterSet | Набор символов, используемый для этого шрифта. |
 
 ### Исключения
@@ -148,18 +148,18 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit,
 
 ### Смотрите также
 
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* enum [CharacterSet](../../characterset)
-* class [Font](../../font)
-* пространство имен [Aspose.PSD](../../font)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* enum [CharacterSet](../../characterset/)
+* class [Font](../)
+* пространство имен [Aspose.PSD](../../font/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit) {#constructor_3}
 
-Инициализирует новый[`Font`](../../font) используя указанный размер, стиль и единицу измерения.
+Инициализирует новый[`Font`](../) используя указанный размер, стиль и единицу измерения.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
@@ -167,10 +167,10 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Строковое представление[`Font`](../../font) имя. |
+| fontName | String | Строковое представление[`Font`](../) имя. |
 | emSize | Single | Размер em нового шрифта в единицах, указанных*unit* параметр. |
-| style | FontStyle | [`FontStyle`](../../fontstyle) нового шрифта. |
-| unit | GraphicsUnit | [`GraphicsUnit`](../../graphicsunit) нового шрифта. |
+| style | FontStyle | [`FontStyle`](../../fontstyle/) нового шрифта. |
+| unit | GraphicsUnit | [`GraphicsUnit`](../../graphicsunit/) нового шрифта. |
 
 ### Исключения
 
@@ -181,10 +181,10 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
 
 ### Смотрите также
 
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* пространство имен [Aspose.PSD](../../font)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* пространство имен [Aspose.PSD](../../font/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

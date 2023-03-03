@@ -1,9 +1,9 @@
 ---
-title: GifOptions
+title: Class GifOptions
 second_title: Справочник по Aspose.PSD для .NET API
-description: Параметры создания формата файла gif.
+description: Aspose.PSD.ImageOptions.GifOptions сорт. Параметры создания формата файла gif.
 type: docs
-weight: 4740
+weight: 4810
 url: /ru/net/aspose.psd.imageoptions/gifoptions/
 ---
 ## GifOptions class
@@ -18,39 +18,39 @@ public class GifOptions : ImageOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [GifOptions](gifoptions#constructor)() | Инициализирует новый экземпляр[`GifOptions`](../gifoptions) класс. |
-| [GifOptions](gifoptions#constructor_1)(GifOptions) | Инициализирует новый экземпляр[`GifOptions`](../gifoptions) класс. |
+| [GifOptions](gifoptions/#constructor)() | Инициализирует новый экземпляр`GifOptions` класс. |
+| [GifOptions](gifoptions/#constructor_1)(GifOptions) | Инициализирует новый экземпляр`GifOptions` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BackgroundColorIndex](../../aspose.psd.imageoptions/gifoptions/backgroundcolorindex) { get; set; } | Получает или задает индекс цвета фона GIF. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
-| [ColorResolution](../../aspose.psd.imageoptions/gifoptions/colorresolution) { get; set; } | Получает или задает цветовое разрешение GIF. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
-| [DoPaletteCorrection](../../aspose.psd.imageoptions/gifoptions/dopalettecorrection) { get; set; } | Получает или задает значение, указывающее, применяется ли коррекция палитры. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Получает или задает значение, указывающее, является ли [полный кадр]. |
-| [HasTrailer](../../aspose.psd.imageoptions/gifoptions/hastrailer) { get; set; } | Получает или задает значение, указывающее, есть ли у GIF трейлер. |
-| [Interlaced](../../aspose.psd.imageoptions/gifoptions/interlaced) { get; set; } | Истинно, если изображение должно быть чересстрочным. |
-| [IsPaletteSorted](../../aspose.psd.imageoptions/gifoptions/ispalettesorted) { get; set; } | Получает или задает значение, указывающее, отсортированы ли элементы палитры. |
-| [MaxDiff](../../aspose.psd.imageoptions/gifoptions/maxdiff) { get; set; } | Получает или задает максимально допустимую разницу в пикселях. Если больше нуля, будет использоваться сжатие с потерями. Рекомендуемое значение для оптимального сжатия с потерями — 80. 30 — очень легкое сжатие, 200 — тяжелое. очень высокие уровни потерь не дадут такого большого выигрыша. Диапазон допустимых значений: [0, 1000]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Многостраничные параметры |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Получает или задает цветовую палитру. |
-| [PixelAspectRatio](../../aspose.psd.imageoptions/gifoptions/pixelaspectratio) { get; set; } | Получает или задает соотношение сторон GIF в пикселях. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Получает или задает обработчик события выполнения. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Получает или задает параметры разрешения. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Получает или задает источник для создания изображения в. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Получает или задает параметры векторной растеризации. |
-| override [XmpData](../../aspose.psd.imageoptions/gifoptions/xmpdata) { get; set; } | Получает или задает контейнер метаданных XMP. |
+| [BackgroundColorIndex](../../aspose.psd.imageoptions/gifoptions/backgroundcolorindex/) { get; set; } | Получает или задает индекс цвета фона GIF. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| [ColorResolution](../../aspose.psd.imageoptions/gifoptions/colorresolution/) { get; set; } | Получает или задает цветовое разрешение GIF. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Получает или устанавливает шрифт замены по умолчанию (шрифт, который будет использоваться для рисования текста при экспорте в растр, если существующий шрифт слоя в файле PSD не представлен в системе). Чтобы взять правильное имя шрифта по умолчанию, можно использовать следующий фрагмент кода : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] семейства = col.Families; string defaultFontName = семейства[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
+| [DoPaletteCorrection](../../aspose.psd.imageoptions/gifoptions/dopalettecorrection/) { get; set; } | Получает или задает значение, указывающее, применяется ли коррекция палитры. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Получает или задает значение, указывающее, является ли [полный кадр]. |
+| [HasTrailer](../../aspose.psd.imageoptions/gifoptions/hastrailer/) { get; set; } | Получает или задает значение, указывающее, есть ли у GIF трейлер. |
+| [Interlaced](../../aspose.psd.imageoptions/gifoptions/interlaced/) { get; set; } | Истинно, если изображение должно быть чересстрочным. |
+| [IsPaletteSorted](../../aspose.psd.imageoptions/gifoptions/ispalettesorted/) { get; set; } | Получает или задает значение, указывающее, отсортированы ли элементы палитры. |
+| [MaxDiff](../../aspose.psd.imageoptions/gifoptions/maxdiff/) { get; set; } | Получает или задает максимально допустимую разницу в пикселях. Если больше нуля, будет использоваться сжатие с потерями. Рекомендуемое значение для оптимального сжатия с потерями — 80. 30 — очень легкое сжатие, 200 — тяжелое. очень высокие уровни потерь не дадут такого большого выигрыша. Диапазон допустимых значений: [0, 1000]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Многостраничные параметры |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Получает или задает цветовую палитру. |
+| [PixelAspectRatio](../../aspose.psd.imageoptions/gifoptions/pixelaspectratio/) { get; set; } | Получает или задает соотношение сторон GIF в пикселях. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Получает или задает обработчик события выполнения. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Получает или задает параметры разрешения. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Получает или задает источник для создания изображения в. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Получает или задает параметры векторной растеризации. |
+| override [XmpData](../../aspose.psd.imageoptions/gifoptions/xmpdata/) { get; set; } | Получает или задает контейнер метаданных XMP. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Клонирует этот экземпляр. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Удаляет текущий экземпляр. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Клонирует этот экземпляр. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Удаляет текущий экземпляр. |
 
 ### Примеры
 
@@ -81,8 +81,8 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 
 ### Смотрите также
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
