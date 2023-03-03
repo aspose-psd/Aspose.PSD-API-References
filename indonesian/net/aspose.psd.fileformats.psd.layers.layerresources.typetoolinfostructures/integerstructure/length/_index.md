@@ -1,0 +1,23 @@
+---
+title: IntegerStructure.Length
+second_title: Aspose.PSD untuk Referensi .NET API
+description: IntegerStructure Properti. MendapatkanOSTypeStructure panjang dalam byte.
+type: docs
+weight: 30
+url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length/
+---
+## IntegerStructure.Length property
+
+Mendapatkan[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) panjang dalam byte.
+
+```csharp
+public override int Length { get; }
+```
+
+### Lihat juga
+
+* class [IntegerStructure](../)
+* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
+* perakitan [Aspose.PSD](../../../)
+
+
