@@ -1,7 +1,7 @@
 ---
-title: AiLayerSection
+title: Class AiLayerSection
 second_title: Referencia de API de Aspose.PSD para .NET
-description: La sección de capa de formato Ai
+description: Aspose.PSD.FileFormats.Ai.AiLayerSection clase. La sección de capa de formato Ai
 type: docs
 weight: 1270
 url: /es/net/aspose.psd.fileformats.ai/ailayersection/
@@ -18,28 +18,28 @@ public sealed class AiLayerSection : AiDataSection
 
 | Nombre | Descripción |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue) { get; set; } | Obtiene o establece el componente de color azul. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber) { get; set; } | Obtiene o establece el número de color. -1 es el valor de color personalizado de las propiedades Rojo, Verde, Azul. Especifica la configuración de color de la capa. |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue) { get; set; } | Obtiene o establece el valor de atenuación como porcentaje. Reduce la intensidad de las imágenes vinculadas y las imágenes de mapa de bits contenidas en la capa al porcentaje especificado. |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Obtiene un valor que indica si esta instancia se desecha. |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green) { get; set; } | Obtiene o establece el componente de color verde. |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed) { get; set; } | Obtiene o establece un valor que indica si esta capa está atenuada. Reduce la intensidad de las imágenes vinculadas y las imágenes de mapa de bits contenidas en la capa. |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked) { get; set; } | Obtiene o establece un valor que indica si esta capa está bloqueada. Impide cambios en el elemento. |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview) { get; set; } | Obtiene o establece un valor que indica si esta capa es una vista previa. Muestra la ilustración contenida en la capa en color en lugar de como contornos. |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted) { get; set; } | Obtiene o establece un valor que indica si esta capa está impresa. Hace que la ilustración contenida en la capa sea imprimible si es verdadero. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown) { get; set; } | Obtiene o establece un valor que indica si se muestra esta capa. Muestra todas las ilustraciones contenidas en la capa en la mesa de trabajo si es verdadero. |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate) { get; set; } | Obtiene o establece un valor que indica si esta capa es una capa de plantilla. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name) { get; set; } | Obtiene o establece el nombre de la capa. Especifica el nombre del elemento tal como aparece en el panel Capas. |
-| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages) { get; } | Obtiene las imágenes ráster. |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red) { get; set; } | Obtiene o establece el componente de color rojo. |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Obtiene o establece el componente de color azul. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Obtiene o establece el número de color. -1 es el valor de color personalizado de las propiedades Rojo, Verde, Azul. Especifica la configuración de color de la capa. |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Obtiene o establece el valor de atenuación como porcentaje. Reduce la intensidad de las imágenes vinculadas y las imágenes de mapa de bits contenidas en la capa al porcentaje especificado. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtiene un valor que indica si esta instancia se desecha. |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Obtiene o establece el componente de color verde. |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Obtiene o establece un valor que indica si esta capa está atenuada. Reduce la intensidad de las imágenes vinculadas y las imágenes de mapa de bits contenidas en la capa. |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Obtiene o establece un valor que indica si esta capa está bloqueada. Impide cambios en el elemento. |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Obtiene o establece un valor que indica si esta capa es una vista previa. Muestra la ilustración contenida en la capa en color en lugar de como contornos. |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Obtiene o establece un valor que indica si esta capa está impresa. Hace que la ilustración contenida en la capa sea imprimible si es verdadero. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Obtiene o establece un valor que indica si se muestra esta capa. Muestra todas las ilustraciones contenidas en la capa en la mesa de trabajo si es verdadero. |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Obtiene o establece un valor que indica si esta capa es una capa de plantilla. |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Obtiene o establece el nombre de la capa. Especifica el nombre del elemento tal como aparece en el panel Capas. |
+| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | Obtiene las imágenes ráster. |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Obtiene o establece el componente de color rojo. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage)(AiRasterImageSection) | Agrega la imagen ráster. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Elimina la instancia actual. |
-| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata)() | Obtiene los datos de la cadena. |
+| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | Agrega la imagen ráster. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Elimina la instancia actual. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Obtiene los datos de la cadena. |
 
 ### Ejemplos
 
@@ -88,8 +88,8 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 ### Ver también
 
-* class [AiDataSection](../aidatasection)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai)
+* class [AiDataSection](../aidatasection/)
+* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

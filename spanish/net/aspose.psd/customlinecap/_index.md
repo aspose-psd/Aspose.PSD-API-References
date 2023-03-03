@@ -1,7 +1,7 @@
 ---
-title: CustomLineCap
+title: Class CustomLineCap
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Encapsula un límite de línea personalizado definido por el usuario.
+description: Aspose.PSD.CustomLineCap clase. Encapsula un límite de línea personalizado definido por el usuario.
 type: docs
 weight: 700
 url: /es/net/aspose.psd/customlinecap/
@@ -18,31 +18,31 @@ public class CustomLineCap
 
 | Nombre | Descripción |
 | --- | --- |
-| [CustomLineCap](customlinecap#constructor)(GraphicsPath, GraphicsPath) | Inicializa una nueva instancia del[`CustomLineCap`](../customlinecap) clase con el contorno y el relleno especificados. |
-| [CustomLineCap](customlinecap#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Inicializa una nueva instancia del[`CustomLineCap`](../customlinecap) clase de la existente especificada[`LineCap`](../linecap) enumeración con el contorno y el relleno especificados. |
-| [CustomLineCap](customlinecap#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Inicializa una nueva instancia del[`CustomLineCap`](../customlinecap) clase de la existente especificada[`LineCap`](../linecap)enumeración con el contorno, el relleno y el recuadro especificados. |
+| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | Inicializa una nueva instancia del`CustomLineCap` clase con el contorno y el relleno especificados. |
+| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Inicializa una nueva instancia del`CustomLineCap` clase de la existente especificada[`LineCap`](../linecap/) enumeración con el contorno y el relleno especificados. |
+| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Inicializa una nueva instancia del`CustomLineCap` clase de la existente especificada[`LineCap`](../linecap/)enumeración con el contorno, el relleno y el recuadro especificados. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BaseCap](../../aspose.psd/customlinecap/basecap) { get; set; } | Obtiene o establece el[`LineCap`](../linecap) enumeración en la que se encuentra[`CustomLineCap`](../customlinecap) se basa. |
-| [BaseInset](../../aspose.psd/customlinecap/baseinset) { get; set; } | Obtiene o establece la distancia entre el tope y la línea. |
-| [FillPath](../../aspose.psd/customlinecap/fillpath) { get; set; } | Obtiene o establece el objeto que define el relleno para la tapa personalizada. |
-| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin) { get; set; } | Obtiene o establece el[`LineJoin`](../linejoin) enumeración que determina cómo las líneas que componen este[`CustomLineCap`](../customlinecap)se unen los objetos. |
-| [StrokePath](../../aspose.psd/customlinecap/strokepath) { get; set; } | Obtiene o establece el objeto que define el contorno de la tapa personalizada. |
-| [WidthScale](../../aspose.psd/customlinecap/widthscale) { get; set; } | Obtiene o establece la cantidad por la cual escalar este[`CustomLineCap`](../customlinecap) Objeto de clase con respecto al ancho de laPen objeto. |
+| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Obtiene o establece el[`LineCap`](../linecap/) enumeración en la que se encuentra`CustomLineCap` se basa. |
+| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Obtiene o establece la distancia entre el tope y la línea. |
+| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Obtiene o establece el objeto que define el relleno para la tapa personalizada. |
+| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Obtiene o establece el[`LineJoin`](../linejoin/) enumeración que determina cómo las líneas que componen este`CustomLineCap`se unen los objetos. |
+| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Obtiene o establece el objeto que define el contorno de la tapa personalizada. |
+| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Obtiene o establece la cantidad por la cual escalar este`CustomLineCap` Objeto de clase con respecto al ancho de laPen objeto. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps)(out LineCap, out LineCap) | Obtiene las mayúsculas que se usan para comenzar y terminar las líneas que conforman esta mayúscula personalizada. |
-| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps)(LineCap, LineCap) | Establece las mayúsculas que se usan para comenzar y terminar las líneas que componen esta mayúscula personalizada. |
+| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Obtiene las mayúsculas que se usan para comenzar y terminar las líneas que conforman esta mayúscula personalizada. |
+| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Establece las mayúsculas que se usan para comenzar y terminar las líneas que componen esta mayúscula personalizada. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd)
+* espacio de nombres [Aspose.PSD](../../aspose.psd/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

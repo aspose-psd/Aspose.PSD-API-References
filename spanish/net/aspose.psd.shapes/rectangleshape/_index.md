@@ -1,9 +1,9 @@
 ---
-title: RectangleShape
+title: Class RectangleShape
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Representa una forma rectangular.
+description: Aspose.PSD.Shapes.RectangleShape clase. Representa una forma rectangular.
 type: docs
-weight: 5460
+weight: 5530
 url: /es/net/aspose.psd.shapes/rectangleshape/
 ---
 ## RectangleShape class
@@ -18,31 +18,31 @@ public class RectangleShape : RectangleProjectedShape
 
 | Nombre | Descripción |
 | --- | --- |
-| [RectangleShape](rectangleshape#constructor)() | Inicializa una nueva instancia del[`RectangleShape`](../rectangleshape) clase. |
-| [RectangleShape](rectangleshape#constructor_1)(RectangleF) | Inicializa una nueva instancia del[`RectangleShape`](../rectangleshape) clase. |
+| [RectangleShape](rectangleshape/#constructor)() | Inicializa una nueva instancia del`RectangleShape` clase. |
+| [RectangleShape](rectangleshape/#constructor_1)(RectangleF) | Inicializa una nueva instancia del`RectangleShape` clase. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds) { get; } | Obtiene los límites del objeto. |
-| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center) { get; } | Obtiene el centro de la forma. |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | Obtiene un valor que indica si la forma tiene segmentos. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | Obtiene el punto del rectángulo inferior izquierdo. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | Obtiene el punto del rectángulo superior izquierdo. |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | Obtiene la altura del rectángulo. |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | Obtiene el ancho del rectángulo. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | Obtiene el punto del rectángulo inferior derecho. |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | Obtiene el punto superior derecho del rectángulo. |
-| override [Segments](../../aspose.psd.shapes/rectangleshape/segments) { get; } | Obtiene los segmentos de forma. |
+| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | Obtiene los límites del objeto. |
+| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Obtiene el centro de la forma. |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Obtiene un valor que indica si la forma tiene segmentos. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Obtiene el punto del rectángulo inferior izquierdo. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Obtiene el punto del rectángulo superior izquierdo. |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Obtiene la altura del rectángulo. |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Obtiene el ancho del rectángulo. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Obtiene el punto del rectángulo inferior derecho. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Obtiene el punto superior derecho del rectángulo. |
+| override [Segments](../../aspose.psd.shapes/rectangleshape/segments/) { get; } | Obtiene los segmentos de forma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds)(Matrix) | Obtiene los límites del objeto. |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds)(Matrix, Pen) | Obtiene los límites del objeto. |
-| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform)(Matrix) | Aplica la transformación especificada a la forma. |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/)(Matrix) | Obtiene los límites del objeto. |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/)(Matrix, Pen) | Obtiene los límites del objeto. |
+| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | Aplica la transformación especificada a la forma. |
 
 ### Ejemplos
 
@@ -94,8 +94,8 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Ver también
 
-* class [RectangleProjectedShape](../rectangleprojectedshape)
-* espacio de nombres [Aspose.PSD.Shapes](../../aspose.psd.shapes)
+* class [RectangleProjectedShape](../rectangleprojectedshape/)
+* espacio de nombres [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

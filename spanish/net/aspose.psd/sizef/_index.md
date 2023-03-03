@@ -1,9 +1,9 @@
 ---
-title: SizeF
+title: Struct SizeF
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Almacena un par ordenado de números de coma flotante normalmente el ancho y el alto de un rectángulo.
+description: Aspose.PSD.SizeF estructura. Almacena un par ordenado de números de coma flotante normalmente el ancho y el alto de un rectángulo.
 type: docs
-weight: 5490
+weight: 5560
 url: /es/net/aspose.psd/sizef/
 ---
 ## SizeF structure
@@ -18,39 +18,39 @@ public struct SizeF
 
 | Nombre | Descripción |
 | --- | --- |
-| [SizeF](sizef#constructor)(PointF) | Inicializa una nueva instancia del[`SizeF`](../sizef) estructura de lo especificado[`PointF`](../pointf) . |
-| [SizeF](sizef#constructor_1)(SizeF) | Inicializa una nueva instancia del[`SizeF`](../sizef) estructura de lo especificado[`SizeF`](../sizef) . |
-| [SizeF](sizef#constructor_2)(float, float) | Inicializa una nueva instancia del[`SizeF`](../sizef) estructura de las dimensiones especificadas. |
+| [SizeF](sizef/#constructor)(PointF) | Inicializa una nueva instancia del`SizeF` estructura de lo especificado[`PointF`](../pointf/) . |
+| [SizeF](sizef/#constructor_1)(SizeF) | Inicializa una nueva instancia del`SizeF` estructura de lo especificado`SizeF` . |
+| [SizeF](sizef/#constructor_2)(float, float) | Inicializa una nueva instancia del`SizeF` estructura de las dimensiones especificadas. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| static [Empty](../../aspose.psd/sizef/empty) { get; } | Obtiene una nueva instancia del[`SizeF`](../sizef) estructura que tiene[`Width`](./width) y[`Height`](./height) valores establecidos en cero. |
-| [Height](../../aspose.psd/sizef/height) { get; set; } | Obtiene o establece el componente vertical de este[`SizeF`](../sizef) . |
-| [IsEmpty](../../aspose.psd/sizef/isempty) { get; } | Obtiene un valor que indica si este[`SizeF`](../sizef) tiene ancho y alto cero. |
-| [Width](../../aspose.psd/sizef/width) { get; set; } | Obtiene o establece el componente horizontal de este[`SizeF`](../sizef) . |
+| static [Empty](../../aspose.psd/sizef/empty/) { get; } | Obtiene una nueva instancia del`SizeF` estructura que tiene[`Width`](./width/) y[`Height`](./height/) valores establecidos en cero. |
+| [Height](../../aspose.psd/sizef/height/) { get; set; } | Obtiene o establece el componente vertical de este`SizeF` . |
+| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | Obtiene un valor que indica si este`SizeF` tiene ancho y alto cero. |
+| [Width](../../aspose.psd/sizef/width/) { get; set; } | Obtiene o establece el componente horizontal de este`SizeF` . |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| static [Add](../../aspose.psd/sizef/add)(SizeF, SizeF) | Suma el ancho y alto de uno[`SizeF`](../sizef) estructura a la anchura y altura de otra[`SizeF`](../sizef)estructura. |
-| static [Subtract](../../aspose.psd/sizef/subtract)(SizeF, SizeF) | Resta el ancho y el alto de uno[`SizeF`](../sizef) estructura de la anchura y la altura de otra[`SizeF`](../sizef)estructura. |
-| override [Equals](../../aspose.psd/sizef/equals)(object) | Pruebas para ver si el objeto especificado es un[`SizeF`](../sizef) con las mismas dimensiones que este[`SizeF`](../sizef) . |
-| override [GetHashCode](../../aspose.psd/sizef/gethashcode)() | Devuelve un código hash para este[`Size`](../size)estructura. |
-| [ToPointF](../../aspose.psd/sizef/topointf)() | Convierte un[`SizeF`](../sizef) a un[`PointF`](../pointf) . |
-| [ToSize](../../aspose.psd/sizef/tosize)() | Convierte un[`SizeF`](../sizef) a un[`Size`](../size) estructura con valores de tamaño truncados. |
-| override [ToString](../../aspose.psd/sizef/tostring)() | Crea una cadena legible por humanos que representa este[`SizeF`](../sizef) . |
-| [operator +](../../aspose.psd/sizef/op_addition) | Suma el ancho y alto de uno[`SizeF`](../sizef) estructura a la anchura y altura de otra[`SizeF`](../sizef)estructura. |
-| [operator ==](../../aspose.psd/sizef/op_equality) | Comprueba si dos[`SizeF`](../sizef) las estructuras son iguales. |
-| [explicit operator](../../aspose.psd/sizef/op_explicit) | Convierte el especificado[`SizeF`](../sizef) a un[`PointF`](../pointf) . |
-| [operator !=](../../aspose.psd/sizef/op_inequality) | Comprueba si dos[`SizeF`](../sizef) las estructuras son diferentes. |
-| [operator -](../../aspose.psd/sizef/op_subtraction) | Resta el ancho y el alto de uno[`SizeF`](../sizef) estructura de la anchura y la altura de otra[`SizeF`](../sizef)estructura. |
+| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | Suma el ancho y alto de uno`SizeF` estructura a la anchura y altura de otra`SizeF`estructura. |
+| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | Resta el ancho y el alto de uno`SizeF` estructura de la anchura y la altura de otra`SizeF`estructura. |
+| override [Equals](../../aspose.psd/sizef/equals/)(object) | Pruebas para ver si el objeto especificado es un`SizeF` con las mismas dimensiones que este`SizeF` . |
+| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | Devuelve un código hash para este[`Size`](../size/)estructura. |
+| [ToPointF](../../aspose.psd/sizef/topointf/)() | Convierte un`SizeF` a un[`PointF`](../pointf/) . |
+| [ToSize](../../aspose.psd/sizef/tosize/)() | Convierte un`SizeF` a un[`Size`](../size/) estructura con valores de tamaño truncados. |
+| override [ToString](../../aspose.psd/sizef/tostring/)() | Crea una cadena legible por humanos que representa este`SizeF` . |
+| [operator +](../../aspose.psd/sizef/op_addition/) | Suma el ancho y alto de uno`SizeF` estructura a la anchura y altura de otra`SizeF`estructura. |
+| [operator ==](../../aspose.psd/sizef/op_equality/) | Comprueba si dos`SizeF` las estructuras son iguales. |
+| [explicit operator](../../aspose.psd/sizef/op_explicit/) | Convierte el especificado`SizeF` a un[`PointF`](../pointf/) . |
+| [operator !=](../../aspose.psd/sizef/op_inequality/) | Comprueba si dos`SizeF` las estructuras son diferentes. |
+| [operator -](../../aspose.psd/sizef/op_subtraction/) | Resta el ancho y el alto de uno`SizeF` estructura de la anchura y la altura de otra`SizeF`estructura. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd)
+* espacio de nombres [Aspose.PSD](../../aspose.psd/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

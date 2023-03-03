@@ -1,14 +1,14 @@
 ---
-title: ColorRangeHsl
+title: Class ColorRangeHsl
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Hue2Resource./hue2resource tiene 6 gamas de colores donde puede cambiar los parámetros de HSV. Cada rango tiene 4 puntos clave para identificar los límites del rango. Y es ColorRangeHsl
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ColorRangeHsl clase. Hue2Resource tiene 6 gamas de colores donde puede cambiar los parámetros de HSV. Cada rango tiene 4 puntos clave para identificar los límites del rango. Y es ColorRangeHsl
 type: docs
-weight: 2370
+weight: 2390
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/
 ---
 ## ColorRangeHsl class
 
-[`Hue2Resource`](../hue2resource) tiene 6 gamas de colores donde puede cambiar los parámetros de HSV. Cada rango tiene 4 puntos clave para identificar los límites del rango. Y es ColorRangeHsl
+[`Hue2Resource`](../hue2resource/) tiene 6 gamas de colores donde puede cambiar los parámetros de HSV. Cada rango tiene 4 puntos clave para identificar los límites del rango. Y es ColorRangeHsl
 
 ```csharp
 public class ColorRangeHsl
@@ -18,33 +18,33 @@ public class ColorRangeHsl
 
 | Nombre | Descripción |
 | --- | --- |
-| [ColorRangeHsl](colorrangehsl#constructor)() | Inicializa una nueva instancia del[`ColorRangeHsl`](../colorrangehsl) clase. |
-| [ColorRangeHsl](colorrangehsl#constructor_1)(byte[]) | Inicializa una nueva instancia del[`ColorRangeHsl`](../colorrangehsl) clase. |
+| [ColorRangeHsl](colorrangehsl/#constructor)() | Inicializa una nueva instancia del`ColorRangeHsl` clase. |
+| [ColorRangeHsl](colorrangehsl/#constructor_1)(byte[]) | Inicializa una nueva instancia del`ColorRangeHsl` clase. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue) { get; set; } | Obtiene o establece el matiz. |
-| [LeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder) { get; set; } | Obtiene o establece el borde izquierdo. |
-| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness) { get; set; } | Obtiene o establece la luminosidad. |
-| [MostLeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostleftborder) { get; set; } | Obtiene o establece el borde más a la izquierda. |
-| [MostRightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder) { get; set; } | Obtiene o establece el borde más a la derecha. |
-| [RightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/rightborder) { get; set; } | Obtiene o establece el borde derecho. |
-| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation) { get; set; } | Obtiene o establece la saturación. |
+| [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/) { get; set; } | Obtiene o establece el matiz. |
+| [LeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/) { get; set; } | Obtiene o establece el borde izquierdo. |
+| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness/) { get; set; } | Obtiene o establece la luminosidad. |
+| [MostLeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostleftborder/) { get; set; } | Obtiene o establece el borde más a la izquierda. |
+| [MostRightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder/) { get; set; } | Obtiene o establece el borde más a la derecha. |
+| [RightBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/rightborder/) { get; set; } | Obtiene o establece el borde derecho. |
+| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/) { get; set; } | Obtiene o establece la saturación. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [GetRangeCoefficient](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient)(double) | Obtiene el Coeficiente de rango. |
-| [IsHueInBigRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange)(double) | Determina si el matiz está en gran rango. |
-| [IsHueInSmallRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange)(double) | Determina si el matiz está en un rango pequeño. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save)(StreamContainer) | Guarda los datos en el contenedor de flujo especificado. |
+| [GetRangeCoefficient](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/)(double) | Obtiene el Coeficiente de rango. |
+| [IsHueInBigRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/)(double) | Determina si el matiz está en gran rango. |
+| [IsHueInSmallRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/)(double) | Determina si el matiz está en un rango pequeño. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save/)(StreamContainer) | Guarda los datos en el contenedor de flujo especificado. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

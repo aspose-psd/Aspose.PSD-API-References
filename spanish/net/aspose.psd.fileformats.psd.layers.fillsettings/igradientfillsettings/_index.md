@@ -1,9 +1,9 @@
 ---
-title: IGradientFillSettings
+title: Interface IGradientFillSettings
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Interfaz base para configuración de relleno
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientFillSettings interfaz. Interfaz base para configuración de relleno
 type: docs
-weight: 1990
+weight: 2010
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/
 ---
 ## IGradientFillSettings interface
@@ -18,18 +18,18 @@ public interface IGradientFillSettings : IFillSettings
 
 | Nombre | Descripción |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/alignwithlayer) { get; set; } | Obtiene o establece un valor que indica si [alinear con la capa]. |
-| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/angle) { get; set; } | Obtiene o establece el ángulo. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/color) { get; set; } | Obtiene o establece el color. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints) { get; set; } | Obtiene los puntos de color. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither) { get; set; } | Obtiene o establece un valor que indica si este[`IGradientFillSettings`](../igradientfillsettings) es tramado. |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname) { get; set; } | Obtiene o establece el nombre del gradiente. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype) { get; set; } | Obtiene o establece el tipo de gradiente. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset) { get; set; } | Obtiene o establece el desplazamiento horizontal. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse) { get; set; } | Obtiene o establece un valor que indica si este[`IGradientFillSettings`](../igradientfillsettings) es inversa. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale) { get; set; } | Obtiene o establece la escala. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints) { get; set; } | Obtiene los puntos de transparencia. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/verticaloffset) { get; set; } | Obtiene o establece el desplazamiento vertical. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/alignwithlayer/) { get; set; } | Obtiene o establece un valor que indica si [alinear con la capa]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/angle/) { get; set; } | Obtiene o establece el ángulo. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/color/) { get; set; } | Obtiene o establece el color. |
+| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/) { get; set; } | Obtiene los puntos de color. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/) { get; set; } | Obtiene o establece un valor que indica si este`IGradientFillSettings` es tramado. |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/) { get; set; } | Obtiene o establece el nombre del gradiente. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/) { get; set; } | Obtiene o establece el tipo de gradiente. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset/) { get; set; } | Obtiene o establece el desplazamiento horizontal. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse/) { get; set; } | Obtiene o establece un valor que indica si este`IGradientFillSettings` es inversa. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/) { get; set; } | Obtiene o establece la escala. |
+| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints/) { get; set; } | Obtiene los puntos de transparencia. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/verticaloffset/) { get; set; } | Obtiene o establece el desplazamiento vertical. |
 
 ### Ejemplos
 
@@ -105,8 +105,8 @@ using (im)
 
 ### Ver también
 
-* interface [IFillSettings](../ifillsettings)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings)
+* interface [IFillSettings](../ifillsettings/)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

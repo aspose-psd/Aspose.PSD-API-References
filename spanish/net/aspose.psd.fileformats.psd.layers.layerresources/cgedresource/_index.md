@@ -1,9 +1,9 @@
 ---
-title: CgEdResource
+title: Class CgEdResource
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Clase CgEdResource. Datos adicionales del generador de contenido Photoshop CS5
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource clase. Clase CgEdResource. Datos adicionales del generador de contenido Photoshop CS5
 type: docs
-weight: 2330
+weight: 2350
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
 ## CgEdResource class
@@ -18,42 +18,42 @@ public class CgEdResource : AdjustmentLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [CgEdResource](cgedresource)() | Constructor predeterminado |
+| [CgEdResource](cgedresource/)() | Constructor predeterminado |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto) { get; set; } | Obtiene o establece un valor que indica si este[`CgEdResource`](../cgedresource) es automático. |
-| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness) { get; set; } | Obtiene o establece el brillo. |
-| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast) { get; set; } | Obtiene o establece el contraste. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key) { get; } | Obtiene la clave de recurso de la capa. |
-| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor) { get; set; } | Obtiene o establece un valor que indica si se usa [color de laboratorio]. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast) { get; set; } | Obtiene o establece el valor medio de brillo y contraste. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Obtiene la firma. |
-| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy) { get; set; } | Obtiene o establece un valor que indica si [usar legado]. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version) { get; set; } | Obtiene o establece la versión. |
+| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | Obtiene o establece un valor que indica si este`CgEdResource` es automático. |
+| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/) { get; set; } | Obtiene o establece el brillo. |
+| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/) { get; set; } | Obtiene o establece el contraste. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | Obtiene o establece un valor que indica si se usa [color de laboratorio]. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
+| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | Obtiene o establece el valor medio de brillo y contraste. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion/) { get; } | Obtiene la versión psd. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtiene la firma. |
+| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | Obtiene o establece un valor que indica si [usar legado]. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/) { get; set; } | Obtiene o establece la versión. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Devuelve unString que representa esta instancia. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey) | La clave de información de la herramienta de tipo. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
 ### Ver también
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [AdjustmentLayerResource](../adjustmentlayerresource)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [AdjustmentLayerResource](../adjustmentlayerresource/)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

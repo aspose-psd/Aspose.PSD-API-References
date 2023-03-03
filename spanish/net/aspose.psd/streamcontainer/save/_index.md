@@ -1,7 +1,7 @@
 ---
-title: Save
+title: StreamContainer.Save
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Guarda copia los datos del flujo en el flujo especificado.
+description: StreamContainer método. Guarda copia los datos del flujo en el flujo especificado.
 type: docs
 weight: 130
 url: /es/net/aspose.psd/streamcontainer/save/
@@ -17,20 +17,20 @@ public virtual void Save(Stream destinationStream, int bufferSize, long length)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | destinationStream | Stream | La secuencia en la que guardar los datos. |
-| bufferSize | Int32 | El tamaño del búfer. Por defecto[`ReadWriteBytesCount`](../readwritebytescount) se utiliza el valor. |
-| length | Int64 | La longitud de datos de flujo para copiar. De forma predeterminada, la longitud se establece en[`Length`](../length) valor. |
+| bufferSize | Int32 | El tamaño del búfer. Por defecto[`ReadWriteBytesCount`](../readwritebytescount/) se utiliza el valor. |
+| length | Int64 | La longitud de datos de flujo para copiar. De forma predeterminada, la longitud se establece en[`Length`](../length/) valor. |
 
 ### Ver también
 
-* class [StreamContainer](../../streamcontainer)
-* espacio de nombres [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espacio de nombres [Aspose.PSD](../../streamcontainer/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-Guarda (copia) los datos del flujo en el flujo especificado. Utiliza el tamaño de búfer predeterminado[`ReadWriteBytesCount`](../readwritebytescount) y corriente[`Length`](../length) valor.
+Guarda (copia) los datos del flujo en el flujo especificado. Utiliza el tamaño de búfer predeterminado[`ReadWriteBytesCount`](../readwritebytescount/) y corriente[`Length`](../length/) valor.
 
 ```csharp
 public virtual void Save(Stream destinationStream)
@@ -42,15 +42,15 @@ public virtual void Save(Stream destinationStream)
 
 ### Ver también
 
-* class [StreamContainer](../../streamcontainer)
-* espacio de nombres [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espacio de nombres [Aspose.PSD](../../streamcontainer/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-Guarda (copia) todos los datos del flujo en el flujo especificado. corriente de usos[`Length`](../length) valor.
+Guarda (copia) todos los datos del flujo en el flujo especificado. corriente de usos[`Length`](../length/) valor.
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize)
@@ -63,15 +63,15 @@ public virtual void Save(Stream destinationStream, int bufferSize)
 
 ### Ver también
 
-* class [StreamContainer](../../streamcontainer)
-* espacio de nombres [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espacio de nombres [Aspose.PSD](../../streamcontainer/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_3}
 
-Guarda (copia) los datos del flujo en el flujo especificado. Utiliza el tamaño de búfer predeterminado[`ReadWriteBytesCount`](../readwritebytescount) y corriente[`Length`](../length) valor.
+Guarda (copia) los datos del flujo en el flujo especificado. Utiliza el tamaño de búfer predeterminado[`ReadWriteBytesCount`](../readwritebytescount/) y corriente[`Length`](../length/) valor.
 
 ```csharp
 public virtual void Save(string filePath)
@@ -83,15 +83,15 @@ public virtual void Save(string filePath)
 
 ### Ver también
 
-* class [StreamContainer](../../streamcontainer)
-* espacio de nombres [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espacio de nombres [Aspose.PSD](../../streamcontainer/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int) {#save_4}
 
-Guarda (copia) los datos del flujo en el flujo especificado. corriente de usos[`Length`](../length) valor.
+Guarda (copia) los datos del flujo en el flujo especificado. corriente de usos[`Length`](../length/) valor.
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize)
@@ -100,12 +100,12 @@ public virtual void Save(string filePath, int bufferSize)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | filePath | String | La ruta del archivo para guardar los datos de transmisión. |
-| bufferSize | Int32 | El tamaño del búfer. Por defecto[`ReadWriteBytesCount`](../readwritebytescount) se utiliza el valor. |
+| bufferSize | Int32 | El tamaño del búfer. Por defecto[`ReadWriteBytesCount`](../readwritebytescount/) se utiliza el valor. |
 
 ### Ver también
 
-* class [StreamContainer](../../streamcontainer)
-* espacio de nombres [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espacio de nombres [Aspose.PSD](../../streamcontainer/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -121,13 +121,13 @@ public virtual void Save(string filePath, int bufferSize, long length)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | filePath | String | La ruta del archivo para guardar los datos de transmisión. |
-| bufferSize | Int32 | El tamaño del búfer. Por defecto[`ReadWriteBytesCount`](../readwritebytescount) se utiliza el valor. |
-| length | Int64 | La longitud de datos de flujo para copiar. De forma predeterminada, la longitud se establece en[`Length`](../length) valor. |
+| bufferSize | Int32 | El tamaño del búfer. Por defecto[`ReadWriteBytesCount`](../readwritebytescount/) se utiliza el valor. |
+| length | Int64 | La longitud de datos de flujo para copiar. De forma predeterminada, la longitud se establece en[`Length`](../length/) valor. |
 
 ### Ver también
 
-* class [StreamContainer](../../streamcontainer)
-* espacio de nombres [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* espacio de nombres [Aspose.PSD](../../streamcontainer/)
 * asamblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

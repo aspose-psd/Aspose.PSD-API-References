@@ -1,9 +1,9 @@
 ---
-title: GridAndGuidesResouce
+title: Class GridAndGuidesResouce
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Representa el recurso de cuadrícula y guías.
+description: Aspose.PSD.FileFormats.Psd.Resources.GridAndGuidesResouce clase. Representa el recurso de cuadrícula y guías.
 type: docs
-weight: 3670
+weight: 3730
 url: /es/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/
 ---
 ## GridAndGuidesResouce class
@@ -18,35 +18,35 @@ public sealed class GridAndGuidesResouce : ResourceBlock
 
 | Nombre | Descripción |
 | --- | --- |
-| [GridAndGuidesResouce](gridandguidesresouce)() | Constructor predeterminado |
+| [GridAndGuidesResouce](gridandguidesresouce/)() | Constructor predeterminado |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/datasize) { get; } | Obtiene el tamaño de los datos del recurso en bytes. |
-| [GridCycleX](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex) { get; set; } | Obtiene o establece el ciclo de cuadrícula horizontal. El valor predeterminado es 576. |
-| [GridCycleY](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcycley) { get; set; } | Obtiene o establece el ciclo de cuadrícula vertical. El valor predeterminado es 576. |
-| [GuideCount](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount) { get; } | Obtiene el recuento de bloques de recursos de la guía. |
-| [Guides](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides) { get; set; } | Obtiene o establece las guías. |
-| [HeaderVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion) { get; set; } | Obtiene o establece la versión del encabezado. Este valor debe ser siempre 1. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Obtiene o establece el identificador único del recurso. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/minimalversion) { get; } | Obtiene la versión psd mínima requerida. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea uniforme (un nombre nulo consta de dos bytes de 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Obtiene la firma del recurso. Debe ser siempre '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Obtiene el tamaño del bloque de recursos en bytes, incluidos sus datos. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/datasize/) { get; } | Obtiene el tamaño de los datos del recurso en bytes. |
+| [GridCycleX](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex/) { get; set; } | Obtiene o establece el ciclo de cuadrícula horizontal. El valor predeterminado es 576. |
+| [GridCycleY](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcycley/) { get; set; } | Obtiene o establece el ciclo de cuadrícula vertical. El valor predeterminado es 576. |
+| [GuideCount](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount/) { get; } | Obtiene el recuento de bloques de recursos de la guía. |
+| [Guides](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/) { get; set; } | Obtiene o establece las guías. |
+| [HeaderVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion/) { get; set; } | Obtiene o establece la versión del encabezado. Este valor debe ser siempre 1. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtiene o establece el identificador único del recurso. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/minimalversion/) { get; } | Obtiene la versión psd mínima requerida. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea uniforme (un nombre nulo consta de dos bytes de 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtiene la firma del recurso. Debe ser siempre '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtiene el tamaño del bloque de recursos en bytes, incluidos sus datos. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | Guarda el bloque de recursos en el flujo especificado. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | Valida los valores del recurso. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Guarda el bloque de recursos en el flujo especificado. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valida los valores del recurso. |
 
 ### Ver también
 
-* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources)
+* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

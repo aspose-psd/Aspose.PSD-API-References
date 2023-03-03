@@ -1,14 +1,14 @@
 ---
-title: FillPolygon
+title: Graphics.FillPolygon
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Rellena el interior de un polígono definido por una matriz de puntos especificada porPointFaspose.psd/pointf estructuras yAlternate .
+description: Graphics método. Rellena el interior de un polígono definido por una matriz de puntos especificada porPointF estructuras yAlternate .
 type: docs
 weight: 380
 url: /es/net/aspose.psd/graphics/fillpolygon/
 ---
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-Rellena el interior de un polígono definido por una matriz de puntos especificada por[`PointF`](../../pointf) estructuras yAlternate .
+Rellena el interior de un polígono definido por una matriz de puntos especificada por[`PointF`](../../pointf/) estructuras yAlternate .
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
@@ -16,8 +16,8 @@ public void FillPolygon(Brush brush, PointF[] points)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
-| points | PointF[] | Gama de[`PointF`](../../pointf) estructuras que representan los vértices del polígono a rellenar. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
+| points | PointF[] | Gama de[`PointF`](../../pointf/) estructuras que representan los vértices del polígono a rellenar. |
 
 ### Excepciones
 
@@ -27,17 +27,17 @@ public void FillPolygon(Brush brush, PointF[] points)
 
 ### Ver también
 
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-Rellena el interior de un polígono definido por una matriz de puntos especificada por[`PointF`](../../pointf) estructuras utilizando el modo de relleno especificado.
+Rellena el interior de un polígono definido por una matriz de puntos especificada por[`PointF`](../../pointf/) estructuras utilizando el modo de relleno especificado.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
@@ -45,9 +45,9 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
-| points | PointF[] | Gama de[`PointF`](../../pointf) estructuras que representan los vértices del polígono a rellenar. |
-| fillMode | FillMode | Miembro de[`FillMode`](../../fillmode) enumeración que determina el estilo del relleno. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
+| points | PointF[] | Gama de[`PointF`](../../pointf/) estructuras que representan los vértices del polígono a rellenar. |
+| fillMode | FillMode | Miembro de[`FillMode`](../../fillmode/) enumeración que determina el estilo del relleno. |
 
 ### Excepciones
 
@@ -57,18 +57,18 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 
 ### Ver también
 
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* enum [FillMode](../../fillmode)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-Rellena el interior de un polígono definido por una matriz de puntos especificada por[`Point`](../../point) estructuras yAlternate .
+Rellena el interior de un polígono definido por una matriz de puntos especificada por[`Point`](../../point/) estructuras yAlternate .
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
@@ -76,8 +76,8 @@ public void FillPolygon(Brush brush, Point[] points)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
-| points | Point[] | Gama de[`Point`](../../point) estructuras que representan los vértices del polígono a rellenar. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
+| points | Point[] | Gama de[`Point`](../../point/) estructuras que representan los vértices del polígono a rellenar. |
 
 ### Excepciones
 
@@ -87,17 +87,17 @@ public void FillPolygon(Brush brush, Point[] points)
 
 ### Ver también
 
-* class [Brush](../../brush)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-Rellena el interior de un polígono definido por una matriz de puntos especificada por[`Point`](../../point) estructuras utilizando el modo de relleno especificado.
+Rellena el interior de un polígono definido por una matriz de puntos especificada por[`Point`](../../point/) estructuras utilizando el modo de relleno especificado.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
@@ -105,9 +105,9 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
-| points | Point[] | Gama de[`Point`](../../point) estructuras que representan los vértices del polígono a rellenar. |
-| fillMode | FillMode | Miembro de[`FillMode`](../../fillmode) enumeración que determina el estilo del relleno. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
+| points | Point[] | Gama de[`Point`](../../point/) estructuras que representan los vértices del polígono a rellenar. |
+| fillMode | FillMode | Miembro de[`FillMode`](../../fillmode/) enumeración que determina el estilo del relleno. |
 
 ### Excepciones
 
@@ -117,11 +117,11 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 
 ### Ver también
 
-* class [Brush](../../brush)
-* struct [Point](../../point)
-* enum [FillMode](../../fillmode)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

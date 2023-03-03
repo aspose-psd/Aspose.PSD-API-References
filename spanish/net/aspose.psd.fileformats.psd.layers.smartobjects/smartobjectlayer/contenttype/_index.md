@@ -1,14 +1,14 @@
 ---
-title: ContentType
+title: SmartObjectLayer.ContentType
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Obtiene el tipo de contenido de la capa del objeto inteligente. El contenido del objeto inteligente incrustado es el archivo de imagen sin procesar incrustadoDataaspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data . El contenido del objeto inteligente vinculado es el contenido sin procesar del archivo de imagen vinculado si está disponibleLiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource . No admitimos la carga desde Adobe Photoshop  Biblioteca de gráficos cuandoIsLibraryLinkaspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink es verdadero. Para archivos de enlace regulares al principio usamosRelativePathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath para buscar el archivo relativamente en la ruta de la imagen de origenSourceImagePath  si no está disponible miramosFullPathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath  si no es así entonces buscamos el archivo de enlace en el mismo directorio donde está nuestra imagenSourceImagePath .
+description: SmartObjectLayer propiedad. Obtiene el tipo de contenido de la capa del objeto inteligente. El contenido del objeto inteligente incrustado es el archivo de imagen sin procesar incrustadoData . El contenido del objeto inteligente vinculado es el contenido sin procesar del archivo de imagen vinculado si está disponibleLiFeDataSource . No admitimos la carga desde Adobe Photoshop  Biblioteca de gráficos cuandoIsLibraryLink es verdadero. Para archivos de enlace regulares al principio usamosRelativePath para buscar el archivo relativamente en la ruta de la imagen de origenSourceImagePath  si no está disponible miramosFullPath  si no es así entonces buscamos el archivo de enlace en el mismo directorio donde está nuestra imagenSourceImagePath .
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/
 ---
 ## SmartObjectLayer.ContentType property
 
-Obtiene el tipo de contenido de la capa del objeto inteligente. El contenido del objeto inteligente incrustado es el archivo de imagen sin procesar incrustado:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data) . El contenido del objeto inteligente vinculado es el contenido sin procesar del archivo de imagen vinculado, si está disponible:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource) . No admitimos la carga desde Adobe� Photoshop� �� Biblioteca de gráficos cuando[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink) es verdadero. Para archivos de enlace regulares, al principio, usamos[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath) para buscar el archivo relativamente en la ruta de la imagen de origenSourceImagePath , si no está disponible miramos[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath) , si no es así entonces buscamos el archivo de enlace en el mismo directorio donde está nuestra imagen:SourceImagePath .
+Obtiene el tipo de contenido de la capa del objeto inteligente. El contenido del objeto inteligente incrustado es el archivo de imagen sin procesar incrustado:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) . El contenido del objeto inteligente vinculado es el contenido sin procesar del archivo de imagen vinculado, si está disponible:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . No admitimos la carga desde Adobe� Photoshop� �� Biblioteca de gráficos cuando[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) es verdadero. Para archivos de enlace regulares, al principio, usamos[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) para buscar el archivo relativamente en la ruta de la imagen de origenSourceImagePath , si no está disponible miramos[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , si no es así entonces buscamos el archivo de enlace en el mismo directorio donde está nuestra imagen:SourceImagePath .
 
 ```csharp
 public SmartObjectType ContentType { get; }
@@ -325,9 +325,9 @@ string GetFormatExt(FileFormat format)
 
 ### Ver también
 
-* enum [SmartObjectType](../../smartobjecttype)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* enum [SmartObjectType](../../smartobjecttype/)
+* class [SmartObjectLayer](../)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * asamblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: AddNoiseSmartFilter
+title: Class AddNoiseSmartFilter
 second_title: Referencia de API de Aspose.PSD para .NET
-description: El filtro inteligente AddNoise.
+description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter clase. El filtro inteligente AddNoise.
 type: docs
-weight: 3360
+weight: 3420
 url: /es/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 ---
 ## AddNoiseSmartFilter class
@@ -18,35 +18,35 @@ public sealed class AddNoiseSmartFilter : SmartFilter
 
 | Nombre | Descripción |
 | --- | --- |
-| [AddNoiseSmartFilter](addnoisesmartfilter)() | Inicializa una nueva instancia del[`AddNoiseSmartFilter`](../addnoisesmartfilter) clase. |
+| [AddNoiseSmartFilter](addnoisesmartfilter/)() | Inicializa una nueva instancia del`AddNoiseSmartFilter` clase. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise) { get; set; } | Obtiene o establece la cantidad del valor de ruido. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode) { get; set; } | Obtiene o establece el modo de fusión. |
-| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution) { get; set; } | Obtiene o establece la distribución del filtro de ruido. |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid) { get; } | Obtiene el identificador del tipo de filtro inteligente. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | Obtiene o establece el estado habilitado del filtro inteligente. |
-| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic) { get; set; } | Obtiene o establece el valor de monocromático. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name) { get; } | Obtiene el nombre del filtro inteligente. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity) { get; set; } | Obtiene o establece el valor de opacidad del filtro inteligente. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | La estructura del descriptor de origen con datos de filtro inteligente. |
+| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/) { get; set; } | Obtiene o establece la cantidad del valor de ruido. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Obtiene o establece el modo de fusión. |
+| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/) { get; set; } | Obtiene o establece la distribución del filtro de ruido. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/) { get; } | Obtiene el identificador del tipo de filtro inteligente. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Obtiene o establece el estado habilitado del filtro inteligente. |
+| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/) { get; set; } | Obtiene o establece el valor de monocromático. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/) { get; } | Obtiene el nombre del filtro inteligente. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Obtiene o establece el valor de opacidad del filtro inteligente. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | La estructura del descriptor de origen con datos de filtro inteligente. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | Aplica el filtro actual a la entrada[`RasterImage`](../../aspose.psd/rasterimage) imagen. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | Aplica el filtro actual a la entrada[`Layer`](../../aspose.psd.fileformats.psd.layers/layer) enmascarar datos. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | Hace el clon miembro de la instancia actual del tipo. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Aplica el filtro actual a la entrada[`RasterImage`](../../aspose.psd/rasterimage/) imagen. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Aplica el filtro actual a la entrada[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) enmascarar datos. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Hace el clon miembro de la instancia actual del tipo. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype) | El identificador del filtro inteligente actual. |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | El identificador del filtro inteligente actual. |
 
 ### Ejemplos
 
@@ -93,7 +93,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // aplicar los cambios
+    // aplicar cambios
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Aplicar filtros
@@ -122,8 +122,8 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 ### Ver también
 
-* class [SmartFilter](../smartfilter)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters)
+* class [SmartFilter](../smartfilter/)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

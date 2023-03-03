@@ -1,9 +1,9 @@
 ---
-title: PsdLoadOptions
+title: Class PsdLoadOptions
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Opciones de carga de psd
+description: Aspose.PSD.ImageLoadOptions.PsdLoadOptions clase. Opciones de carga de psd
 type: docs
-weight: 4700
+weight: 4770
 url: /es/net/aspose.psd.imageloadoptions/psdloadoptions/
 ---
 ## PsdLoadOptions class
@@ -18,22 +18,23 @@ public class PsdLoadOptions : LoadOptions
 
 | Nombre | Descripción |
 | --- | --- |
-| [PsdLoadOptions](psdloadoptions)() | Constructor predeterminado |
+| [PsdLoadOptions](psdloadoptions/)() | Constructor predeterminado |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint) { get; set; } | Obtiene o establece la sugerencia de tamaño de búfer que se define como el tamaño máximo permitido para todos los búferes internos. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor) { get; set; } | Obtiene o establece el[`Image`](../../aspose.psd/image) antecedentes[`Color`](../../aspose.psd/color) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode) { get; set; } | Obtiene o establece el modo de recuperación de datos. |
-| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel) { get; set; } | Obtiene o establece un valor que indica si [ignorar canal alfa]. |
-| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate) { get; set; } | Obtiene o establece un valor que indica si se ignorará el ancho fijo de la capa de texto PSD en la ejecución de la operación UpdateText. |
-| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource) { get; set; } | Obtiene o establece un valor que indica si [la carga afecta el recurso] (por defecto, el recurso no está cargado). Cuando se establece esta opción, solo los efectos admitidos se renderizarán en la imagen fusionada final. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler) { get; set; } | Obtiene o establece el controlador de eventos de progreso. |
-| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode) { get; set; } | Obtiene o establece un valor que indica si [usar modo de solo lectura]. Este es el modo de solo lectura, compatible con compatibilidad idéntica con Adobe Photoshop. Cuando se establece esta opción, todos los cambios aplicados a las capas no se guardarán en la imagen final. Todos los datos se utilizan de la sección ImageData, por lo que es idéntico a Photoshop. Por defecto, todas las imágenes cargadas no son idénticas a las compatibles con Adobe Photoshop. |
-| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource) { get; set; } | Obtiene o establece un valor que indica si [usar disco para cargar el recurso de efectos] (de forma predeterminada, se usa el disco para cargar el recurso de efectos, pero se puede usar la memoria si es suficiente configurando este valor en falso). |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion) { get; set; } | Obtiene o establece un valor que indica si se debe aplicar la conversión de perfil ICC. |
+| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | Obtiene o establece si guardar con la imagen renderizada, con o sin una transformación warp. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Obtiene o establece la sugerencia de tamaño de búfer que se define como el tamaño máximo permitido para todos los búferes internos. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Obtiene o establece el[`Image`](../../aspose.psd/image/) fondo[`Color`](../../aspose.psd/color/) . |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Obtiene o establece el modo de recuperación de datos. |
+| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | Obtiene o establece un valor que indica si [ignorar canal alfa]. |
+| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | Obtiene o establece un valor que indica si se ignorará el ancho fijo de la capa de texto PSD en la ejecución de la operación UpdateText. |
+| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | Obtiene o establece un valor que indica si [la carga afecta el recurso] (por defecto, el recurso no está cargado). Cuando se establece esta opción, solo los efectos admitidos se renderizarán en la imagen fusionada final. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Obtiene o establece el controlador de eventos de progreso. |
+| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | Obtiene o establece un valor que indica si [usar modo de solo lectura]. Este es el modo de solo lectura, compatible con compatibilidad idéntica con Adobe Photoshop. Cuando se establece esta opción, todos los cambios aplicados a las capas no se guardarán en la imagen final. Todos los datos se utilizan de la sección ImageData, por lo que es idéntico a Photoshop. Por defecto, todas las imágenes cargadas no son idénticas a las compatibles con Adobe Photoshop. |
+| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | Obtiene o establece un valor que indica si [usar disco para cargar el recurso de efectos] (de forma predeterminada, se usa el disco para cargar el recurso de efectos, pero se puede usar la memoria si es suficiente configurando este valor en falso). |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Obtiene o establece un valor que indica si se debe aplicar la conversión de perfil ICC. |
 
 ### Ejemplos
 
@@ -83,8 +84,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 
 ### Ver también
 
-* class [LoadOptions](../../aspose.psd/loadoptions)
-* espacio de nombres [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions)
+* class [LoadOptions](../../aspose.psd/loadoptions/)
+* espacio de nombres [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
