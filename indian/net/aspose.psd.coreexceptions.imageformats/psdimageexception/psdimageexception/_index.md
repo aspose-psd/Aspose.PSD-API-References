@@ -1,0 +1,48 @@
+---
+title: PsdImageException.PsdImageException
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: PsdImageException नर्मत. क एक नय उदहरण प्ररंभ करत हैPsdImageException वर्ग.
+type: docs
+weight: 10
+url: /hi/net/aspose.psd.coreexceptions.imageformats/psdimageexception/psdimageexception/
+---
+## PsdImageException(string) {#constructor}
+
+का एक नया उदाहरण प्रारंभ करता है[`PsdImageException`](../) वर्ग.
+
+```csharp
+public PsdImageException(string message)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| message | String | अपवाद संदेश। |
+
+### यह सभी देखें
+
+* class [PsdImageException](../)
+* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
+* सभा [Aspose.PSD](../../../)
+
+---
+
+## PsdImageException(string, Exception) {#constructor_1}
+
+का एक नया उदाहरण प्रारंभ करता है[`PsdImageException`](../) वर्ग.
+
+```csharp
+public PsdImageException(string message, Exception innerException)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| message | String | अपवाद संदेश। |
+| innerException | Exception | भीतर का अपवाद। |
+
+### यह सभी देखें
+
+* class [PsdImageException](../)
+* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
+* सभा [Aspose.PSD](../../../)
+
+

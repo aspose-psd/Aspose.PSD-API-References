@@ -1,0 +1,27 @@
+---
+title: TiffRational.ValueD
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: TiffRational संपत्त. क दगुन मन मलत है.
+type: docs
+weight: 60
+url: /hi/net/aspose.psd.fileformats.tiff/tiffrational/valued/
+---
+## TiffRational.ValueD property
+
+को दोगुना मान मिलता है.
+
+```csharp
+public double ValueD { get; }
+```
+
+### संपत्ति मूल्य
+
+दोहरा मान।
+
+### यह सभी देखें
+
+* class [TiffRational](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
+* सभा [Aspose.PSD](../../../)
+
+

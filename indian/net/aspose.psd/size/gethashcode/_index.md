@@ -1,0 +1,27 @@
+---
+title: Size.GetHashCode
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: Size तरक. इसके लए हैश कड लटत हैSizeसंरचन.
+type: docs
+weight: 120
+url: /hi/net/aspose.psd/size/gethashcode/
+---
+## Size.GetHashCode method
+
+इसके लिए हैश कोड लौटाता है[`Size`](../)संरचना.
+
+```csharp
+public override int GetHashCode()
+```
+
+### प्रतिलाभ की मात्रा
+
+एक पूर्णांक मान जो इसके लिए हैश मान निर्दिष्ट करता है[`Size`](../) संरचना।
+
+### यह सभी देखें
+
+* struct [Size](../)
+* नाम स्थान [Aspose.PSD](../../size/)
+* सभा [Aspose.PSD](../../../)
+
+

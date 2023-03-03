@@ -1,0 +1,23 @@
+---
+title: ShmdResource.TypeToolKey
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: ShmdResource मैदन. टइप टूल इंफ क.
+type: docs
+weight: 100
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/
+---
+## ShmdResource.TypeToolKey field
+
+टाइप टूल इंफो की.
+
+```csharp
+public const int TypeToolKey;
+```
+
+### यह सभी देखें
+
+* class [ShmdResource](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
+* सभा [Aspose.PSD](../../../)
+
+

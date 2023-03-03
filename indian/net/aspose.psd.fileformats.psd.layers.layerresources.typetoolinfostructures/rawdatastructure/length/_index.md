@@ -1,0 +1,23 @@
+---
+title: RawDataStructure.Length
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: RawDataStructure संपत्त. ह जत हैOSTypeStructure बइट्स में लंबई.
+type: docs
+weight: 40
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/length/
+---
+## RawDataStructure.Length property
+
+हो जाता है[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) बाइट्स में लंबाई.
+
+```csharp
+public override int Length { get; }
+```
+
+### यह सभी देखें
+
+* class [RawDataStructure](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
+* सभा [Aspose.PSD](../../../)
+
+

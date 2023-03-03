@@ -1,0 +1,23 @@
+---
+title: StringStructure.Length
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: StringStructure संपत्त. ह जत हैOSTypeStructure बइट्स में लंबई.
+type: docs
+weight: 30
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/length/
+---
+## StringStructure.Length property
+
+हो जाता है[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) बाइट्स में लंबाई.
+
+```csharp
+public override int Length { get; }
+```
+
+### यह सभी देखें
+
+* class [StringStructure](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
+* सभा [Aspose.PSD](../../../)
+
+

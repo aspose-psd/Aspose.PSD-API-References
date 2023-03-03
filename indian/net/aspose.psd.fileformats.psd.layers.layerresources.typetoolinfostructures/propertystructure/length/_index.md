@@ -1,0 +1,23 @@
+---
+title: PropertyStructure.Length
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: PropertyStructure संपत्त. ह जत हैOSTypeStructure बइट्स में लंबई.
+type: docs
+weight: 60
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/length/
+---
+## PropertyStructure.Length property
+
+हो जाता है[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) बाइट्स में लंबाई.
+
+```csharp
+public override int Length { get; }
+```
+
+### यह सभी देखें
+
+* class [PropertyStructure](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
+* सभा [Aspose.PSD](../../../)
+
+

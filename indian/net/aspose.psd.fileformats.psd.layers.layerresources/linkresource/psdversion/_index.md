@@ -1,0 +1,23 @@
+---
+title: LinkResource.PsdVersion
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: LinkResource संपत्त. PSD प्ररूप संस्करण प्रप्त करत है
+type: docs
+weight: 50
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/
+---
+## LinkResource.PsdVersion property
+
+PSD प्रारूप संस्करण प्राप्त करता है।
+
+```csharp
+public override int PsdVersion { get; }
+```
+
+### यह सभी देखें
+
+* class [LinkResource](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
+* सभा [Aspose.PSD](../../../)
+
+

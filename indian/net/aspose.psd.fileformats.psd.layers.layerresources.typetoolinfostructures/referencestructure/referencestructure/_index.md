@@ -1,0 +1,28 @@
+---
+title: ReferenceStructure.ReferenceStructure
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: ReferenceStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैReferenceStructure वर्ग.
+type: docs
+weight: 10
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/referencestructure/
+---
+## ReferenceStructure constructor
+
+का एक नया उदाहरण प्रारंभ करता है[`ReferenceStructure`](../) वर्ग.
+
+```csharp
+public ReferenceStructure(ClassID keyName)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| keyName | ClassID | प्रमुख नाम। |
+
+### यह सभी देखें
+
+* class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
+* class [ReferenceStructure](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
+* सभा [Aspose.PSD](../../../)
+
+

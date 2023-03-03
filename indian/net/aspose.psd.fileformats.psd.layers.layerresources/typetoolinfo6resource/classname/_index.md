@@ -1,0 +1,27 @@
+---
+title: TypeToolInfo6Resource.ClassName
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: TypeToolInfo6Resource संपत्त. वर्ग क नम प्रप्त य सेट करत है
+type: docs
+weight: 40
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classname/
+---
+## TypeToolInfo6Resource.ClassName property
+
+वर्ग का नाम प्राप्त या सेट करता है।
+
+```csharp
+public string ClassName { get; set; }
+```
+
+### संपत्ति मूल्य
+
+वर्ग का नाम।
+
+### यह सभी देखें
+
+* class [TypeToolInfo6Resource](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
+* सभा [Aspose.PSD](../../../)
+
+

@@ -1,0 +1,28 @@
+---
+title: AiHeader.TileBox
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: AiHeader संपत्त. टइल बक्स प्रप्त य सेट करत है
+type: docs
+weight: 110
+url: /hi/net/aspose.psd.fileformats.ai/aiheader/tilebox/
+---
+## AiHeader.TileBox property
+
+टाइल बॉक्स प्राप्त या सेट करता है।
+
+```csharp
+public RectangleF TileBox { get; set; }
+```
+
+### संपत्ति मूल्य
+
+टाइल बॉक्स।
+
+### यह सभी देखें
+
+* struct [RectangleF](../../../aspose.psd/rectanglef/)
+* class [AiHeader](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiheader/)
+* सभा [Aspose.PSD](../../../)
+
+
