@@ -1,0 +1,23 @@
+---
+title: PostResource.PostResource
+second_title: Aspose.PSD for .NET API リファレンス
+description: PostResource コンストラクタ. デフォルトのコンストラクター
+type: docs
+weight: 10
+url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/postresource/
+---
+## PostResource constructor
+
+デフォルトのコンストラクター。
+
+```csharp
+public PostResource()
+```
+
+### 関連項目
+
+* class [PostResource](../)
+* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
+* 組み立て [Aspose.PSD](../../../)
+
+

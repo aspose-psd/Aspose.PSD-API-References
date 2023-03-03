@@ -1,0 +1,23 @@
+---
+title: SmartObjectResource.PsdVersion
+second_title: Aspose.PSD for .NET API リファレンス
+description: SmartObjectResource 財産. スマート オブジェクト リソースに必要な最小限の psd バージョンを取得します 0 は制限なしを示します
+type: docs
+weight: 180
+url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/
+---
+## SmartObjectResource.PsdVersion property
+
+スマート オブジェクト リソースに必要な最小限の psd バージョンを取得します。 0 は制限なしを示します。
+
+```csharp
+public override int PsdVersion { get; }
+```
+
+### 関連項目
+
+* class [SmartObjectResource](../)
+* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
+* 組み立て [Aspose.PSD](../../../)
+
+

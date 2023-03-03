@@ -1,0 +1,31 @@
+---
+title: TiffDataType.AlignedDataSize
+second_title: Aspose.PSD for .NET API リファレンス
+description: TiffDataType 財産. 追加のデータ サイズをバイト単位で取得します 12 バイトではタグ データに収まらない場合
+type: docs
+weight: 20
+url: /ja/net/aspose.psd.fileformats.tiff/tiffdatatype/aligneddatasize/
+---
+## TiffDataType.AlignedDataSize property
+
+追加のデータ サイズをバイト単位で取得します (12 バイトではタグ データに収まらない場合)。
+
+```csharp
+public uint AlignedDataSize { get; }
+```
+
+### プロパティ値
+
+追加データ サイズ (バイト単位)。
+
+### 備考
+
+これは、ワード境界にアラインされたデータ バイト カウントです。
+
+### 関連項目
+
+* class [TiffDataType](../)
+* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
+* 組み立て [Aspose.PSD](../../../)
+
+
