@@ -1,0 +1,23 @@
+---
+title: CurvResource.Key
+second_title: Aspose.PSD لمرجع .NET API
+description: CurvResource ملكية. يحصل على مفتاح مورد الطبقة.
+type: docs
+weight: 30
+url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/key/
+---
+## CurvResource.Key property
+
+يحصل على مفتاح مورد الطبقة.
+
+```csharp
+public override int Key { get; }
+```
+
+### أنظر أيضا
+
+* class [CurvResource](../)
+* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
+* المجسم [Aspose.PSD](../../../)
+
+

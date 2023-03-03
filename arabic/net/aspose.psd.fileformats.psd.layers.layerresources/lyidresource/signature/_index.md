@@ -1,0 +1,23 @@
+---
+title: LyidResource.Signature
+second_title: Aspose.PSD لمرجع .NET API
+description: LyidResource ملكية. يحصل على التوقيع.
+type: docs
+weight: 50
+url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/
+---
+## LyidResource.Signature property
+
+يحصل على التوقيع.
+
+```csharp
+public override int Signature { get; }
+```
+
+### أنظر أيضا
+
+* class [LyidResource](../)
+* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
+* المجسم [Aspose.PSD](../../../)
+
+
