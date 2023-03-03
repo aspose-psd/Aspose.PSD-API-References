@@ -1,14 +1,14 @@
 ---
-title: Lnk3Resource
+title: Class Lnk3Resource
 second_title: Aspose.PSD for .NET API 参考
-description: 定义类该类包含有关 PSD 格式 32 位每通道图像的嵌入文件的信息 链接资源可能包含几个LiFdDataSource./lifddatasourceindexer. 可以访问的实例
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource 班级. 定义包含 PSD 格式 32 位每通道图像的嵌入文件信息的类 链接资源可能包含多个LiFdDataSourceindexer. 可以访问的实例
 type: docs
-weight: 2710
+weight: 2730
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/
 ---
 ## Lnk3Resource class
 
-定义类，该类包含有关 PSD 格式 32 位每通道图像的嵌入文件的信息。 链接资源可能包含几个[`LiFdDataSource`](../lifddatasource)indexer. 可以访问的实例
+定义包含 PSD 格式 32 位每通道图像的嵌入文件信息的类。 链接资源可能包含多个[`LiFdDataSource`](../lifddatasource/)indexer. 可以访问的实例
 
 ```csharp
 public class Lnk3Resource : Lnk2Resource
@@ -18,32 +18,32 @@ public class Lnk3Resource : Lnk2Resource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Lnk3Resource](lnk3resource)() | 初始化[`Lnk3Resource`](../lnk3resource)类. |
+| [Lnk3Resource](lnk3resource/)() | 初始化一个新的实例`Lnk3Resource`类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount) { get; } | 获取索引器可以访问的链接数据源的计数。 |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | 获取表示此链接资源实例是否为空的值。 |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item) { get; } | 获取[`LiFdDataSource`](../lifddatasource)在指定的索引处。 (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key) { get; } | 获取图层资源键。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length) { get; } | 获取 PSD 全局链接资源长度（以字节为单位）。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | 获取PSD格式版本。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature) { get; } | 获取 PSD 全局链接资源签名。 |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | 获取索引器可以访问的链接数据源的个数。 |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | 获取该链接资源实例是否为空的值。 |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | 获取[`LiFdDataSource`](../lifddatasource/)在指定的索引处. (2 indexers) |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | 获取以字节为单位的 PSD 全局链接资源长度。 |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | 获取 PSD 格式版本。 |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | 获取 PSD 全局链接资源签名。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | 保存资源块数据。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | 保存资源块数据。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个String代表这个实例. |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey) | 类型工具信息键。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/) | 类型工具信息键。 |
 
 ### 例子
 
@@ -156,7 +156,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// 为 PSD 文件中的智能对象加载新数据。
+// 加载 PSD 文件中智能对象的新数据。
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -165,7 +165,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// 获取和设置 PSD Lnk2 / Lnk3 资源及其在 PSD 图像中的 liFD 数据源的属性
+// 获取和设置 PSD Lnk2 / Lnk3 资源的属性及其在 PSD 图像中的 liFD 数据源
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -234,22 +234,22 @@ void ExampleOfLnk2ResourceSupport(
     }
 }
 
-// 此示例演示如何获取和设置 PSD Lnk2 资源及其 liFD 数据源的属性（每通道 8 位）。
+// 此示例演示如何获取和设置 PSD Lnk2 资源的属性及其每通道 8 位的 liFD 数据源。
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// 此示例演示如何获取和设置 PSD Lnk3 资源及其 liFD 数据源的属性（每通道 32 位）。
+// 此示例演示如何获取和设置 PSD Lnk3 资源的属性及其每通道 32 位的 liFD 数据源。
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// 此示例演示如何获取和设置 PSD Lnk2 资源及其 liFD 数据源的属性（每通道 16 位）。
+// 此示例演示如何获取和设置 PSD Lnk2 资源的属性及其每通道 16 位的 liFD 数据源。
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
 ### 也可以看看
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [LinkResource](../linkresource)
-* class [Lnk2Resource](../lnk2resource)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [LinkResource](../linkresource/)
+* class [Lnk2Resource](../lnk2resource/)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

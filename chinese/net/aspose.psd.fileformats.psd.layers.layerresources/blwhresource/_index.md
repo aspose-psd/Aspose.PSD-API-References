@@ -1,14 +1,14 @@
 ---
-title: BlwhResource
+title: Class BlwhResource
 second_title: Aspose.PSD for .NET API 参考
-description: BlwhResource 类是黑白调整层的资源
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlwhResource 班级. BlwhResource类是黑白调整层的资源
 type: docs
-weight: 2300
+weight: 2320
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 ---
 ## BlwhResource class
 
-BlwhResource 类是黑白调整层的资源。
+BlwhResource类是黑白调整层的资源。
 
 ```csharp
 public class BlwhResource : AdjustmentLayerResource
@@ -18,43 +18,43 @@ public class BlwhResource : AdjustmentLayerResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BlwhResource](blwhresource)() | 默认构造函数。 |
+| [BlwhResource](blwhresource/)() | 默认构造函数。 |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BlackAndWhitePresetFileName](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename) { get; set; } | 获取或设置黑白预设文件名。 |
-| [Blues](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues) { get; set; } | 获取或设置蓝调值。 |
-| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind) { get; set; } | 获取或设置黑白预设种类值 |
-| [Cyans](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/cyans) { get; set; } | 获取或设置青色值。 |
-| [Greens](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens) { get; set; } | 获取或设置果岭值。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key) { get; } | 获取图层资源键。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length) { get; } | 以字节为单位获取层资源长度。 |
-| [Magentas](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas) { get; set; } | 获取或设置洋红色值。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion) { get; } | 获取psd版本。 |
-| [Reds](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds) { get; set; } | 获取或设置红色值。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | 获取签名。 |
-| [TintColor](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor) { get; set; } | 获取或设置 Tint Color ARGB 值。 |
-| [UseTint](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint) { get; set; } | 获取或设置一个值，指示是否使用[tint color]。 |
-| [Yellows](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows) { get; set; } | 获取或设置黄色值。 |
+| [BlackAndWhitePresetFileName](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename/) { get; set; } | 获取或设置黑白预设文件名。 |
+| [Blues](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues/) { get; set; } | 获取或设置蓝调值。 |
+| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind/) { get; set; } | 获取或设置黑白预设种类值。 |
+| [Cyans](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/cyans/) { get; set; } | 获取或设置青色值。 |
+| [Greens](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens/) { get; set; } | 获取或设置果岭值。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key/) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/) { get; } | 获取以字节为单位的图层资源长度。 |
+| [Magentas](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas/) { get; set; } | 获取或设置洋红色值。 |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion/) { get; } | 获取 psd 版本。 |
+| [Reds](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds/) { get; set; } | 获取或设置红色值。 |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | 获取签名. |
+| [TintColor](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor/) { get; set; } | 获取或设置 Tint Color ARGB 值。 |
+| [UseTint](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/) { get; set; } | 获取或设置一个值，指示是否使用 [tint color]。 |
+| [Yellows](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows/) { get; set; } | 获取或设置黄色值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/save/)(StreamContainer, int) | 将资源保存到指定的流容器中。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个String代表这个实例. |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey) | 类型工具信息键。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/) | 类型工具信息键。 |
 
 ### 例子
 
-以下示例演示了如何编辑 BlwhResource。
+以下示例演示如何编辑 BlwhResource。
 
 ```csharp
 [C#]
@@ -159,9 +159,9 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 
 ### 也可以看看
 
-* class [AdjustmentLayerResource](../adjustmentlayerresource)
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [AdjustmentLayerResource](../adjustmentlayerresource/)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

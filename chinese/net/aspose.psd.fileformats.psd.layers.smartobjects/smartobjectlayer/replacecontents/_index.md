@@ -1,7 +1,7 @@
 ---
-title: ReplaceContents
+title: SmartObjectLayer.ReplaceContents
 second_title: Aspose.PSD for .NET API 参考
-description: 替换智能对象层中嵌入的智能对象内容
+description: SmartObjectLayer 方法. 替换智能对象层中嵌入的智能对象内容
 type: docs
 weight: 140
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
@@ -33,7 +33,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// 此示例演示如何更改 PSD 文件中的智能对象图层并导出/更新智能对象原始嵌入内容。
+// 此示例演示如何更改 PSD 文件中的智能对象层以及导出/更新智能对象原始嵌入内容。
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -97,9 +97,9 @@ foreach (FileFormat format in formats)
 
 ### 也可以看看
 
-* class [Image](../../../aspose.psd/image)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [Image](../../../aspose.psd/image/)
+* class [SmartObjectLayer](../)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
@@ -115,27 +115,27 @@ public void ReplaceContents(Image image, ResolutionSetting resolution)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | image | Image | 图片。 |
-| resolution | ResolutionSetting | 分辨率设置。如果为 null，则将使用图像分辨率。 |
+| resolution | ResolutionSetting | 分辨率设置。如果为 null，将使用图像分辨率。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | 只能替换嵌入式智能对象。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 只能替换嵌入式智能对象。 |
 
 ### 例子
 
-此示例演示 ReplaceContents 方法在新内容文件具有不同分辨率时正常工作。
+此示例演示当新内容文件具有不同的分辨率时，ReplaceContents 方法可以正常工作。
 
 ```csharp
 [C#]
 
-// 这个例子演示了当新的内容文件有不同的分辨率时，ReplaceContents 方法可以正常工作。
+// 此示例演示当新内容文件具有不同的分辨率时，ReplaceContents 方法可以正常工作。
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; //原始PSD图像
+string filePath = baseFolder + fileName; // 原始 PSD 图像
 string newContentPath = baseFolder + "image.jpg"; // 智能对象的新内容文件
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; //输出PNG文件
+string pngOutputPath = outputFilePath + ".png"; // 输出PNG文件
 string psdOutputPath = outputFilePath + ".psd"; //输出PSD文件
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
@@ -156,17 +156,17 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 
 ### 也可以看看
 
-* class [Image](../../../aspose.psd/image)
-* class [ResolutionSetting](../../../aspose.psd/resolutionsetting)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [Image](../../../aspose.psd/image/)
+* class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
+* class [SmartObjectLayer](../)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string, ResolutionSetting) {#replacecontents_3}
 
-将内容替换为文件。 之后无需调用UpdateModifiedContent 方法。
+用文件替换内容。 之后不需要调用 UpdateModifiedContent 方法。
 
 ```csharp
 public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
@@ -175,21 +175,21 @@ public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | linkedPath | String | 链接的路径。 |
-| resolution | ResolutionSetting | 分辨率设置。如果为 null，则将使用图像分辨率。 |
+| resolution | ResolutionSetting | 分辨率设置。如果为 null，将使用图像分辨率。 |
 
 ### 例子
 
-此示例演示 ReplaceContents 方法在新内容文件具有不同分辨率时正常工作。
+此示例演示当新内容文件具有不同的分辨率时，ReplaceContents 方法可以正常工作。
 
 ```csharp
 [C#]
 
-// 这个例子演示了当新的内容文件有不同的分辨率时，ReplaceContents 方法可以正常工作。
+// 此示例演示当新内容文件具有不同的分辨率时，ReplaceContents 方法可以正常工作。
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; //原始PSD图像
+string filePath = baseFolder + fileName; // 原始 PSD 图像
 string newContentPath = baseFolder + "image.jpg"; // 智能对象的新内容文件
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; //输出PNG文件
+string pngOutputPath = outputFilePath + ".png"; // 输出PNG文件
 string psdOutputPath = outputFilePath + ".psd"; //输出PSD文件
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
@@ -210,16 +210,16 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 
 ### 也可以看看
 
-* class [ResolutionSetting](../../../aspose.psd/resolutionsetting)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
+* class [SmartObjectLayer](../)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string) {#replacecontents_2}
 
-将内容替换为文件。 之后无需调用UpdateModifiedContent 方法。
+用文件替换内容。 之后不需要调用 UpdateModifiedContent 方法。
 
 ```csharp
 public void ReplaceContents(string linkedPath)
@@ -231,7 +231,7 @@ public void ReplaceContents(string linkedPath)
 
 ### 例子
 
-以下代码演示了对更新链接智能对象的支持。
+下面的代码演示了更新 Linked Smart 对象的支持。
 
 ```csharp
 [C#]
@@ -265,7 +265,7 @@ void AssertAreEqual(object actual, object expected)
 }
 
 // 此示例演示如何使用这些方法更新外部或嵌入式智能对象层：
-// RelinkToFile、UpdateModifiedContent、ExportContents
+// RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 
@@ -278,7 +278,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // 此示例演示如何更改 PSD 文件中的智能对象图层并导出/更新其内容。
+    // 此示例演示如何更改 PSD 文件中的智能对象层并导出/更新其内容。
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -316,18 +316,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // 让我们检查修改的内容是否还没有影响渲染。
+        // 让我们检查一下修改后的内容是否还没有影响渲染。
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // 看看更新后的内容是否影响渲染，psd图片是否保存正确
+        // 让我们检查更新的内容是否影响渲染以及psd图像是否正确保存
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// 此示例演示如何使用 ConvertToLinked 方法将嵌入的智能对象转换为外部链接内容。
+// 本例演示如何使用ConvertToLinked方法将嵌入的智能对象转换为外部链接内容。
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -347,7 +347,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // 这演示了如何将 PSD 文件中的嵌入式智能对象图层转换为外部图层。
+    // 这演示了如何将 PSD 文件中的嵌入式智能对象层转换为外部层。
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -385,7 +385,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// 此示例演示如何使用 EmbedLinked 方法在 PSD 文件中嵌入一个外部智能对象图层或所有链接图层。
+// 此示例演示如何使用 EmbedLinked 方法在 PSD 文件中嵌入一个外部智能对象层或所有链接层。
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -446,7 +446,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// 此示例演示如何更改 Adobe® Photoshop® 外部智能对象图层并导出/更新其内容
+// 此示例演示如何更改 Adobe® Photoshop® 外部智能对象层并导出/更新其内容
 // 使用 ExportContents 和 ReplaceContents 方法。
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
@@ -526,7 +526,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// 获取格式扩展名。
+// 获取格式扩展。
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -536,8 +536,8 @@ string GetFormatExt(FileFormat format)
 
 ### 也可以看看
 
-* class [SmartObjectLayer](../../smartobjectlayer)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [SmartObjectLayer](../)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * 部件 [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: StrokeEffect
+title: Class StrokeEffect
 second_title: Aspose.PSD for .NET API 参考
-description: PSD 图层的 Adobe Photoshop 笔触效果
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect 班级. PSD 图层的 Adobe Photoshop 描边效果
 type: docs
-weight: 2170
+weight: 2190
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
 ## StrokeEffect class
 
-PSD 图层的 Adobe® Photoshop® 笔触效果。
+PSD 图层的 Adobe® Photoshop® 描边效果。
 
 ```csharp
 public class StrokeEffect : ILayerEffect
@@ -18,23 +18,23 @@ public class StrokeEffect : ILayerEffect
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode) { get; set; } | 获取或设置混合模式。 |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype) { get; } | 获取一种效果 |
-| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings) { get; set; } | 获取或设置填充设置。 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible) { get; set; } | 获取或设置一个指示此实例是否可见的值。 |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity) { get; set; } | 获取或设置不透明度。 |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint) { get; set; } | 获取或设置一个值，该值指示是否[`StrokeEffect`](../strokeeffect)将描边与当前图层内容混合。 |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position) { get; set; } | 获取或设置描边效果的位置来控制你的描边与PSD图层内容的对齐方式。 的值可以是Inside在 PSD 图层内容中绘制笔划， 或Outside绘制 PSD 图层内容的描边， 和Center在内外画笔画。 |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size) { get; set; } | 获取或设置描边效果的宽度。 |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | 获取或设置混合模式。 |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | 获取一种效果 |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | 获取或设置填充设置。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | 获取或设置一个值，指示此实例是否可见。 |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | 获取或设置不透明度。 |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | 获取或设置一个值，指示是否这`StrokeEffect`将根据当前图层内容混合描边。 |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | 获取或设置描边效果的位置，以控制你的描边与 PSD 图层内容的对齐方式。 的值可以是Inside在 PSD 图层内容内绘制笔划， 或Outside在 PSD 层内容周围绘制描边， 和Center在内部和外部绘制笔划. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | 获取或设置描边效果的宽度。 |
 
 ### 例子
 
-下面的代码示例显示了使用颜色填充渲染描边效果。
+以下代码示例显示了使用颜色填充渲染笔触效果。
 
 ```csharp
 [C#]
 
-// 使用颜色填充实现描边效果的渲染，用于导出
+// 实现Stroke效果渲染，Color Fill导出
 string sourceFileName = "StrokeComplex.psd";
 string exportPath = "StrokeComplexRendering.psd";
 string exportPathPng = "StrokeComplexRendering.png";
@@ -51,9 +51,9 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
         settings.Color = Color.DeepPink;
     }
 
-    // 保存 psd
+    // 保存psd
     im.Save(exportPath, new PsdOptions());
-    //保存png
+    // 保存png
     im.Save(exportPathPng, new PngOptions()
     {
         ColorType = PngColorType.TruecolorWithAlpha
@@ -61,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-以下代码演示了对具有填充类型 - 颜色的笔触效果图层的支持。
+以下代码演示了对填充类型为 Color 的笔触效果图层的支持。
 
 ```csharp
 [C#]
@@ -116,7 +116,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-以下代码演示了对具有填充类型 - 图案的笔触效果图层的支持。
+以下代码演示了对填充类型为 Pattern 的笔触效果图层的支持。
 
 ```csharp
 [C#]
@@ -229,7 +229,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-以下代码演示了对具有填充类型 - 渐变的笔触效果图层的支持。
+以下代码演示了对填充类型为渐变的笔触效果层的支持。
 
 ```csharp
 [C#]
@@ -276,7 +276,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - fillSettings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
     AssertAreEqual(false, fillSettings.Reverse);
 
-    // 颜色点
+    // 色点
     var colorPoints = fillSettings.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
@@ -314,13 +314,13 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.VerticalOffset = 11;
     fillSettings.Reverse = true;
 
-    // 添加新的色点
+    // 添加新的颜色点
     var colorPoint = fillSettings.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
-    // 改变上一点的位置
+    // 改变上一个点的位置
     fillSettings.ColorPoints[1].Location = 1899;
 
     // 添加新的透明点
@@ -329,7 +329,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // 改变上一个透明点的位置
+    // 改变前一个透明点的位置
     fillSettings.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
@@ -388,8 +388,8 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### 也可以看看
 
-* interface [ILayerEffect](../ilayereffect)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects)
+* interface [ILayerEffect](../ilayereffect/)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

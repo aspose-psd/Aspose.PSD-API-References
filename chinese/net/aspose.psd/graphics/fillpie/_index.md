@@ -1,14 +1,14 @@
 ---
-title: FillPie
+title: Graphics.FillPie
 second_title: Aspose.PSD for .NET API 参考
-description: 填充由 a 指定的椭圆定义的饼图部分的内部RectangleFaspose.psd/rectanglef结构和两条径向线
+description: Graphics 方法. 填充由 a 指定的椭圆定义的饼图部分的内部RectangleF结构和两条径向线.
 type: docs
 weight: 370
 url: /zh/net/aspose.psd/graphics/fillpie/
 ---
 ## FillPie(Brush, Rectangle, float, float) {#fillpie}
 
-填充由 a 指定的椭圆定义的饼图部分的内部[`RectangleF`](../../rectanglef)结构和两条径向线。
+填充由 a 指定的椭圆定义的饼图部分的内部[`RectangleF`](../../rectanglef/)结构和两条径向线.
 
 ```csharp
 public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAngle)
@@ -16,10 +16,10 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
-| rect | Rectangle | [`Rectangle`](../../rectangle)表示边界矩形的结构，该边界矩形定义了饼图部分来自的椭圆。 |
-| startAngle | Single | 从 x 轴到饼图部分的第一侧顺时针测量的角度（以度为单位）。 |
-| sweepAngle | Single | 以度为单位顺时针测量的角度*startAngle*参数到饼图部分的第二边。 |
+| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
+| rect | Rectangle | [`Rectangle`](../../rectangle/)表示边界矩形的结构，边界矩形定义饼图部分来自的椭圆。 |
+| startAngle | Single | 从 x 轴到饼图部分第一侧的顺时针角度（以度为单位）。 |
+| sweepAngle | Single | 从角度顺时针测量的角度*startAngle*饼图部分第二侧的参数。 |
 
 ### 例外
 
@@ -29,17 +29,17 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 ### 也可以看看
 
-* class [Brush](../../brush)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## FillPie(Brush, RectangleF, float, float) {#fillpie_1}
 
-填充由 a 指定的椭圆定义的饼图部分的内部[`RectangleF`](../../rectanglef)结构和两条径向线。
+填充由 a 指定的椭圆定义的饼图部分的内部[`RectangleF`](../../rectanglef/)结构和两条径向线.
 
 ```csharp
 public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepAngle)
@@ -47,10 +47,10 @@ public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepA
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)表示边界矩形的结构，该边界矩形定义了饼图部分来自的椭圆。 |
-| startAngle | Single | 从 x 轴到饼图部分的第一侧顺时针测量的角度（以度为单位）。 |
-| sweepAngle | Single | 以度为单位顺时针测量的角度*startAngle*参数到饼图部分的第二边。 |
+| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/)表示边界矩形的结构，边界矩形定义饼图部分来自的椭圆。 |
+| startAngle | Single | 从 x 轴到饼图部分第一侧的顺时针角度（以度为单位）。 |
+| sweepAngle | Single | 从角度顺时针测量的角度*startAngle*饼图部分第二侧的参数。 |
 
 ### 例外
 
@@ -60,10 +60,10 @@ public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepA
 
 ### 也可以看看
 
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
@@ -79,13 +79,13 @@ public void FillPie(Brush brush, float x, float y, float width, float height, fl
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
-| x | Single | 边界矩形左上角的 x 坐标，用于定义饼图部分所在的椭圆。 |
-| y | Single | 边界矩形左上角的 y 坐标，用于定义饼图部分所在的椭圆。 |
-| width | Single | 边界矩形的宽度，用于定义饼图部分所在的椭圆。 |
-| height | Single | 边界矩形的高度，它定义了饼图部分来自的椭圆。 |
-| startAngle | Single | 从 x 轴到饼图部分的第一侧顺时针测量的角度（以度为单位）。 |
-| sweepAngle | Single | 以度为单位顺时针测量的角度*startAngle*参数到饼图部分的第二边。 |
+| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
+| x | Single | 边界矩形左上角的 x 坐标，用于定义饼图部分来自的椭圆。 |
+| y | Single | 边界矩形左上角的 y 坐标，它定义饼图部分来自的椭圆。 |
+| width | Single | 定义饼图部分来自的椭圆的边界矩形的宽度。 |
+| height | Single | 定义饼图部分来自的椭圆的边界矩形的高度。 |
+| startAngle | Single | 从 x 轴到饼图部分第一侧的顺时针角度（以度为单位）。 |
+| sweepAngle | Single | 从角度顺时针测量的角度*startAngle*饼图部分第二侧的参数。 |
 
 ### 例外
 
@@ -95,9 +95,9 @@ public void FillPie(Brush brush, float x, float y, float width, float height, fl
 
 ### 也可以看看
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
@@ -113,13 +113,13 @@ public void FillPie(Brush brush, int x, int y, int width, int height, int startA
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)这决定了填充的特性。 |
-| x | Int32 | 边界矩形左上角的 x 坐标，用于定义饼图部分所在的椭圆。 |
-| y | Int32 | 边界矩形左上角的 y 坐标，用于定义饼图部分所在的椭圆。 |
-| width | Int32 | 边界矩形的宽度，用于定义饼图部分所在的椭圆。 |
-| height | Int32 | 边界矩形的高度，它定义了饼图部分来自的椭圆。 |
-| startAngle | Int32 | 从 x 轴到饼图部分的第一侧顺时针测量的角度（以度为单位）。 |
-| sweepAngle | Int32 | 以度为单位顺时针测量的角度*startAngle*参数到饼图部分的第二边。 |
+| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
+| x | Int32 | 边界矩形左上角的 x 坐标，用于定义饼图部分来自的椭圆。 |
+| y | Int32 | 边界矩形左上角的 y 坐标，它定义饼图部分来自的椭圆。 |
+| width | Int32 | 定义饼图部分来自的椭圆的边界矩形的宽度。 |
+| height | Int32 | 定义饼图部分来自的椭圆的边界矩形的高度。 |
+| startAngle | Int32 | 从 x 轴到饼图部分第一侧的顺时针角度（以度为单位）。 |
+| sweepAngle | Int32 | 从角度顺时针测量的角度*startAngle*饼图部分第二侧的参数。 |
 
 ### 例外
 
@@ -129,9 +129,9 @@ public void FillPie(Brush brush, int x, int y, int width, int height, int startA
 
 ### 也可以看看
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

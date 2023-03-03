@@ -1,14 +1,14 @@
 ---
-title: SmartObjectProvider
+title: Class SmartObjectProvider
 second_title: Aspose.PSD for .NET API 参考
-description: 定义提供从 PSD 文件的全局链接资源及其内容获取/设置数据源的智能对象提供程序
+description: Aspose.PSD.FileFormats.Psd.SmartObjectProvider 班级. 定义智能对象提供者提供从 PSD 文件及其内容的全局链接资源获取/设置数据源
 type: docs
-weight: 3940
+weight: 4000
 url: /zh/net/aspose.psd.fileformats.psd/smartobjectprovider/
 ---
 ## SmartObjectProvider class
 
-定义提供从 PSD 文件的全局链接资源及其内容获取/设置数据源的智能对象提供程序。
+定义智能对象提供者，提供从 PSD 文件及其内容的全局链接资源获取/设置数据源。
 
 ```csharp
 public class SmartObjectProvider
@@ -18,15 +18,15 @@ public class SmartObjectProvider
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject#converttosmartobject_1)(params int[]) | 将图层转换为嵌入式智能对象。 |
-| [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject#converttosmartobject)(Layer[]) | 将图层转换为嵌入式智能对象。 |
-| [EmbedAllLinked](../../aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked)() | 在图像中嵌入所有链接的智能对象。 |
-| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy)(SmartObjectLayer) | 通过处理源层创建一个新的智能对象层。 |
-| [UpdateAllModifiedContent](../../aspose.psd.fileformats.psd/smartobjectprovider/updateallmodifiedcontent)() | 更新图像中所有修改的智能对象的内容。 |
+| [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/#converttosmartobject_1)(params int[]) | 将图层转换为嵌入式智能对象。 |
+| [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/#converttosmartobject)(Layer[]) | 将图层转换为嵌入式智能对象。 |
+| [EmbedAllLinked](../../aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked/)() | 在图像中嵌入所有链接的智能对象。 |
+| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/)(SmartObjectLayer) | 通过复制源层创建一个新的智能对象层。 |
+| [UpdateAllModifiedContent](../../aspose.psd.fileformats.psd/smartobjectprovider/updateallmodifiedcontent/)() | 更新图像中所有已修改智能对象的内容。 |
 
 ### 例子
 
-以下代码演示了对更新链接智能对象的支持。
+下面的代码演示了更新 Linked Smart 对象的支持。
 
 ```csharp
 [C#]
@@ -60,7 +60,7 @@ void AssertAreEqual(object actual, object expected)
 }
 
 // 此示例演示如何使用这些方法更新外部或嵌入式智能对象层：
-// RelinkToFile、UpdateModifiedContent、ExportContents
+// RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 
@@ -73,7 +73,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // 此示例演示如何更改 PSD 文件中的智能对象图层并导出/更新其内容。
+    // 此示例演示如何更改 PSD 文件中的智能对象层并导出/更新其内容。
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -111,18 +111,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // 让我们检查修改的内容是否还没有影响渲染。
+        // 让我们检查一下修改后的内容是否还没有影响渲染。
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // 看看更新后的内容是否影响渲染，psd图片是否保存正确
+        // 让我们检查更新的内容是否影响渲染以及psd图像是否正确保存
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// 此示例演示如何使用 ConvertToLinked 方法将嵌入的智能对象转换为外部链接内容。
+// 本例演示如何使用ConvertToLinked方法将嵌入的智能对象转换为外部链接内容。
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -142,7 +142,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // 这演示了如何将 PSD 文件中的嵌入式智能对象图层转换为外部图层。
+    // 这演示了如何将 PSD 文件中的嵌入式智能对象层转换为外部层。
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -180,7 +180,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// 此示例演示如何使用 EmbedLinked 方法在 PSD 文件中嵌入一个外部智能对象图层或所有链接图层。
+// 此示例演示如何使用 EmbedLinked 方法在 PSD 文件中嵌入一个外部智能对象层或所有链接层。
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -241,7 +241,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// 此示例演示如何更改 Adobe® Photoshop® 外部智能对象图层并导出/更新其内容
+// 此示例演示如何更改 Adobe® Photoshop® 外部智能对象层并导出/更新其内容
 // 使用 ExportContents 和 ReplaceContents 方法。
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
@@ -321,7 +321,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// 获取格式扩展名。
+// 获取格式扩展。
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -331,7 +331,7 @@ string GetFormatExt(FileFormat format)
 
 ### 也可以看看
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd)
+* 命名空间 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

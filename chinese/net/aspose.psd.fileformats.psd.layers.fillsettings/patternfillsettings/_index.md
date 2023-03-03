@@ -1,9 +1,9 @@
 ---
-title: PatternFillSettings
+title: Class PatternFillSettings
 second_title: Aspose.PSD for .NET API 参考
-description: 图案填充效果设置
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings 班级. 图案填充效果设置
 type: docs
-weight: 2020
+weight: 2040
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
 ## PatternFillSettings class
@@ -18,29 +18,29 @@ public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer) { get; set; } | 获取或设置一个值，指示是否[与图层链接]. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color) { get; set; } | 获取或设置颜色。 |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype) { get; } | 填充类型 |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移量。 |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked) { get; set; } | 获取或设置一个值，该值指示是否[`PatternFillSettings`](../patternfillsettings)已链接。 |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata) { get; set; } | 获取或设置模式数据。 |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight) { get; set; } | 获取或设置图案的高度。 |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid) { get; set; } | 获取或设置模式标识符。 |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname) { get; set; } | 获取或设置模式的名称。 |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth) { get; set; } | 获取或设置图案的宽度。 |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype) { get; set; } | 获取或设置点的类型。 |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale) { get; set; } | 获取或设置比例尺。 |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset) { get; set; } | 获取或设置垂直偏移量。 |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | 获取或设置一个值，该值指示是否[与图层链接]. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | 获取或设置颜色。 |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | 填充类型 |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | 获取或设置水平偏移量。 |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | 获取或设置一个值，指示是否这`PatternFillSettings`链接. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | 获取或设置模式数据。 |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | 获取或设置图案的高度。 |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | 获取或设置模式标识符。 |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | 获取或设置模式的名称。 |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | 获取或设置图案的宽度。 |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | 获取或设置点的类型。 |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | 获取或设置比例。 |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | 获取或设置垂直偏移量。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes)(string, Color, string, string, double, bool, PointF) | 生成 LFX2 资源节点。 |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | 生成 LFX2 资源节点。 |
 
 ### 例子
 
-以下代码演示了对填充图层图案编辑的支持。
+以下代码演示了对 Fill Layer Pattern 编辑的支持。
 
 ```csharp
 [C#]
@@ -95,7 +95,7 @@ using (im)
 }
 ```
 
-以下代码演示了对具有填充类型 - 图案的笔触效果图层的支持。
+以下代码演示了对填充类型为 Pattern 的笔触效果图层的支持。
 
 ```csharp
 [C#]
@@ -210,9 +210,9 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### 也可以看看
 
-* class [BaseFillSettings](../basefillsettings)
-* interface [IPatternFillSettings](../ipatternfillsettings)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings)
+* class [BaseFillSettings](../basefillsettings/)
+* interface [IPatternFillSettings](../ipatternfillsettings/)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

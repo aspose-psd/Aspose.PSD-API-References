@@ -1,7 +1,7 @@
 ---
-title: VectorShapeOriginSettings
+title: Class VectorShapeOriginSettings
 second_title: Aspose.PSD for .NET API 参考
-description: 矢量形状起源设置
+description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings 班级. 矢量形状起源设置
 type: docs
 weight: 1440
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/
@@ -18,32 +18,32 @@ public sealed class VectorShapeOriginSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VectorShapeOriginSettings](vectorshapeoriginsettings#constructor)() | 初始化[`VectorShapeOriginSettings`](../vectorshapeoriginsettings)类. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | 初始化一个新的实例`VectorShapeOriginSettings`类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent) { get; } | 获取一个值，该值指示此实例是否具有原点框角属性。 |
-| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent) { get; } | 获取一个值，该值指示此实例是否具有原点索引属性。 |
-| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent) { get; } | 获取一个值，该值指示此实例是否具有原点半径矩形属性。 |
-| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent) { get; } | 获取一个值，该值指示此实例是否具有原点解析属性。 |
-| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent) { get; } | 获取一个值，该值指示此实例是否具有矩形属性。 |
-| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent) { get; } | 获取一个值，该值指示此实例是否具有原始类型属性。 |
-| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated) { get; set; } | 获取或设置一个表示形状是否失效的值。 |
-| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent) { get; } | 获取一个值，该值指示此实例是否具有无效的形状属性集。 |
-| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent) { get; } | 获取一个值，该值指示此实例是否具有变换属性。 |
-| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners) { get; set; } | 获取或设置原点框角。 |
-| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex) { get; set; } | 获取或设置原点形状索引。 |
-| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle) { get; set; } | 获取或设置原点半径矩形。 |
-| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution) { get; set; } | 获取或设置原点分辨率。 |
-| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox) { get; set; } | 获取或设置原点形状边界框。 |
-| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype) { get; set; } | 获取或设置原点的类型。 |
-| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform) { get; set; } | 获取或设置变换矩阵。 |
+| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | 获取一个值，指示此实例是否具有原点框角属性。 |
+| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | 获取一个值，指示此实例是否具有原始索引属性。 |
+| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | 获取一个值，该值指示此实例是否具有原点半径矩形属性。 |
+| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | 获取一个值，该值指示此实例是否具有原始分辨率属性。 |
+| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | 获取一个值，该值指示此实例是否具有矩形属性。 |
+| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | 获取一个值，指示此实例是否具有原始类型属性。 |
+| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | 获取或设置一个值，指示形状是否无效。 |
+| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | 获取一个值，该值指示此实例是否具有形状无效属性集。 |
+| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | 获取一个值，指示此实例是否具有转换属性。 |
+| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | 获取或设置原点框角。 |
+| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | 获取或设置原点形状索引。 |
+| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | 获取或设置原点半径矩形。 |
+| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | 获取或设置原点分辨率。 |
+| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | 获取或设置原点形状边界框。 |
+| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | 获取或设置原点的类型。 |
+| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | 获取或设置转换矩阵。 |
 
 ### 例子
 
-以下示例演示了对 VogkResource 资源的支持。
+以下示例演示了 VogkResource 资源的支持。
 
 ```csharp
 [C#]
@@ -99,7 +99,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 ### 也可以看看
 
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths)
+* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

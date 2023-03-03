@@ -1,14 +1,14 @@
 ---
-title: UnitArrayStructure
+title: Class UnitArrayStructure
 second_title: Aspose.PSD for .NET API 参考
-description: 定义持有的 UnitArrayStructure 类Doublevalues 数组及其度量单位 用于 PSD 文件资源中通常由ObjectArrayStructure./objectarraystructure .
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure 班级. 定义了包含的 UnitArrayStructure 类Doublevalues数组及其度量单位 在PSD文件资源中使用通常由ObjectArrayStructure .
 type: docs
-weight: 3210
+weight: 3270
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
 ## UnitArrayStructure class
 
-定义持有的 UnitArrayStructure 类Doublevalues 数组及其度量单位。 用于 PSD 文件资源中，通常由[`ObjectArrayStructure`](../objectarraystructure) .
+定义了包含的 UnitArrayStructure 类Doublevalues数组及其度量单位。 在PSD文件资源中使用，通常由[`ObjectArrayStructure`](../objectarraystructure/) .
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -18,32 +18,32 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | 姓名 | 描述 |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure)(ClassID, UnitTypes, double[]) | 初始化[`UnitArrayStructure`](../unitarraystructure)类. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | 初始化一个新的实例`UnitArrayStructure`类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key) { get; } | 获取本单元数组结构key. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)字节长度。 |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype) { get; set; } | 获取或设置度量单位类型[`UnitArrayStructure`](../unitarraystructure)值. |
-| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount) { get; } | 获取值计数。 |
-| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values) { get; set; } | 获取或设置单位数组结构值。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | 获取本单元数组结构key. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | 获取或设置键名。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)字节长度. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | 获取或设置测量单位类型`UnitArrayStructure`价值观. |
+| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | 获取值计数。 |
+| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | 获取或设置单元数组结构值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | 获取标头长度。 |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | 将结构保存到指定的流容器。 |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | 将结构保存到指定的流容器。 |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | 获取标头长度。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 将结构保存到指定的流容器中。 |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 将结构保存到指定的流容器中。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey) | 定义“UnFl”[`UnitArrayStructure`](../unitarraystructure)关键. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | 定义 'UnFl'`UnitArrayStructure`钥匙. |
 
 ### 例子
 
@@ -101,8 +101,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### 也可以看看
 
-* class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures)
+* class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

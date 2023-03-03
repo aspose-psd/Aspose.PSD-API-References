@@ -1,14 +1,14 @@
 ---
-title: Font
+title: Font.Font
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化一个新的Fontaspose.psd/font使用指定的现有Fontaspose.psd/font和FontStyleaspose.psd/fontstyle枚举.
+description: Font 构造函数. 初始化一个新的Font使用指定的现有Font和FontStyle枚举.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/font/font/
 ---
 ## Font(Font, FontStyle) {#constructor}
 
-初始化一个新的[`Font`](../../font)使用指定的现有[`Font`](../../font)和[`FontStyle`](../../fontstyle)枚举.
+初始化一个新的[`Font`](../)使用指定的现有[`Font`](../)和[`FontStyle`](../../fontstyle/)枚举.
 
 ```csharp
 public Font(Font prototype, FontStyle newStyle)
@@ -16,8 +16,8 @@ public Font(Font prototype, FontStyle newStyle)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| prototype | Font | 现有的[`Font`](../../font)从中创建新的[`Font`](../../font). |
-| newStyle | FontStyle | 这[`FontStyle`](../../fontstyle)申请新的[`Font`](../../font).的多个值[`FontStyle`](../../fontstyle)枚举可以与 OR 运算符结合使用。 |
+| prototype | Font | 现有的[`Font`](../)从中创建新的[`Font`](../). |
+| newStyle | FontStyle | 这[`FontStyle`](../../fontstyle/)申请新的[`Font`](../).的多个值[`FontStyle`](../../fontstyle/)枚举可以与 OR 运算符结合使用。 |
 
 ### 例外
 
@@ -27,16 +27,16 @@ public Font(Font prototype, FontStyle newStyle)
 
 ### 也可以看看
 
-* enum [FontStyle](../../fontstyle)
-* class [Font](../../font)
-* 命名空间 [Aspose.PSD](../../font)
+* enum [FontStyle](../../fontstyle/)
+* class [Font](../)
+* 命名空间 [Aspose.PSD](../../font/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float) {#constructor_1}
 
-初始化一个新的[`Font`](../../font)使用指定的大小。字符集设置为Default 图形单元Point 字体样式为Regular .
+初始化一个新的[`Font`](../)使用指定的大小。字符集设置为Default 图形单位Point 字体样式为Regular .
 
 ```csharp
 public Font(string fontName, float emSize)
@@ -44,27 +44,27 @@ public Font(string fontName, float emSize)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | 的字符串表示[`Font`](../../font)姓名。 |
+| fontName | String | 的字符串表示形式[`Font`](../)姓名。 |
 | emSize | Single | 新字体的 em 大小（以磅为单位）。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算为无穷大或不是有效数字。 |
+| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算结果为无穷大或不是有效数字。 |
 | ArgumentNullException | *fontName*一片空白。 |
 
 ### 也可以看看
 
-* class [Font](../../font)
-* 命名空间 [Aspose.PSD](../../font)
+* class [Font](../)
+* 命名空间 [Aspose.PSD](../../font/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle) {#constructor_2}
 
-初始化一个新的[`Font`](../../font)使用指定的尺寸和样式。字符集设置为Default 图形单元Point .
+初始化一个新的[`Font`](../)使用指定的尺寸和样式。字符集设置为Default 图形单位Point .
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style)
@@ -72,29 +72,29 @@ public Font(string fontName, float emSize, FontStyle style)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | 的字符串表示[`Font`](../../font)姓名。 |
+| fontName | String | 的字符串表示形式[`Font`](../)姓名。 |
 | emSize | Single | 新字体的 em 大小（以磅为单位）。 |
-| style | FontStyle | 这[`FontStyle`](../../fontstyle)的新字体。 |
+| style | FontStyle | 这[`FontStyle`](../../fontstyle/)的新字体。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算为无穷大或不是有效数字。 |
+| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算结果为无穷大或不是有效数字。 |
 | ArgumentNullException | *fontName*一片空白。 |
 
 ### 也可以看看
 
-* enum [FontStyle](../../fontstyle)
-* class [Font](../../font)
-* 命名空间 [Aspose.PSD](../../font)
+* enum [FontStyle](../../fontstyle/)
+* class [Font](../)
+* 命名空间 [Aspose.PSD](../../font/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, GraphicsUnit) {#constructor_5}
 
-初始化一个新的[`Font`](../../font)使用指定的大小和单位。字符集设置为Default，样式设置为Regular .
+初始化一个新的[`Font`](../)使用指定的大小和单位。字符集设置为Default，样式设置为Regular .
 
 ```csharp
 public Font(string fontName, float emSize, GraphicsUnit unit)
@@ -102,29 +102,29 @@ public Font(string fontName, float emSize, GraphicsUnit unit)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | 的字符串表示[`Font`](../../font)姓名。 |
-| emSize | Single | 新字体的 em 大小，以*unit*范围。 |
-| unit | GraphicsUnit | 这[`GraphicsUnit`](../../graphicsunit)的新字体。 |
+| fontName | String | 的字符串表示形式[`Font`](../)姓名。 |
+| emSize | Single | 以指定的单位表示的新字体的 em 大小*unit*范围。 |
+| unit | GraphicsUnit | 这[`GraphicsUnit`](../../graphicsunit/)的新字体。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算为无穷大或不是有效数字。 |
+| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算结果为无穷大或不是有效数字。 |
 | ArgumentNullException | *fontName*一片空白。 |
 
 ### 也可以看看
 
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* 命名空间 [Aspose.PSD](../../font)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* 命名空间 [Aspose.PSD](../../font/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit, CharacterSet) {#constructor_4}
 
-初始化一个新的[`Font`](../../font)使用指定的大小、样式、单位和字符集。
+初始化一个新的[`Font`](../)使用指定的大小、样式、单位和字符集。
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit, 
@@ -133,33 +133,33 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit,
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | 的字符串表示[`Font`](../../font)姓名。 |
-| emSize | Single | 新字体的 em 大小，以*unit*范围。 |
-| style | FontStyle | 这[`FontStyle`](../../fontstyle)的新字体。 |
-| unit | GraphicsUnit | 这[`GraphicsUnit`](../../graphicsunit)的新字体。 |
+| fontName | String | 的字符串表示形式[`Font`](../)姓名。 |
+| emSize | Single | 以指定的单位表示的新字体的 em 大小*unit*范围。 |
+| style | FontStyle | 这[`FontStyle`](../../fontstyle/)的新字体。 |
+| unit | GraphicsUnit | 这[`GraphicsUnit`](../../graphicsunit/)的新字体。 |
 | characterSet | CharacterSet | 用于此字体的字符集。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算为无穷大或不是有效数字。 |
+| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算结果为无穷大或不是有效数字。 |
 | ArgumentNullException | *fontName*一片空白。 |
 
 ### 也可以看看
 
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* enum [CharacterSet](../../characterset)
-* class [Font](../../font)
-* 命名空间 [Aspose.PSD](../../font)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* enum [CharacterSet](../../characterset/)
+* class [Font](../)
+* 命名空间 [Aspose.PSD](../../font/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit) {#constructor_3}
 
-初始化一个新的[`Font`](../../font)使用指定的大小、样式和单位。
+初始化一个新的[`Font`](../)使用指定的大小、样式和单位。
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
@@ -167,24 +167,24 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | 的字符串表示[`Font`](../../font)姓名。 |
-| emSize | Single | 新字体的 em 大小，以*unit*范围。 |
-| style | FontStyle | 这[`FontStyle`](../../fontstyle)的新字体。 |
-| unit | GraphicsUnit | 这[`GraphicsUnit`](../../graphicsunit)的新字体。 |
+| fontName | String | 的字符串表示形式[`Font`](../)姓名。 |
+| emSize | Single | 以指定的单位表示的新字体的 em 大小*unit*范围。 |
+| style | FontStyle | 这[`FontStyle`](../../fontstyle/)的新字体。 |
+| unit | GraphicsUnit | 这[`GraphicsUnit`](../../graphicsunit/)的新字体。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算为无穷大或不是有效数字。 |
+| ArgumentOutOfRangeException | *emSize*小于或等于 0，计算结果为无穷大或不是有效数字。 |
 | ArgumentNullException | *fontName*一片空白。 |
 
 ### 也可以看看
 
-* enum [FontStyle](../../fontstyle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Font](../../font)
-* 命名空间 [Aspose.PSD](../../font)
+* enum [FontStyle](../../fontstyle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Font](../)
+* 命名空间 [Aspose.PSD](../../font/)
 * 部件 [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

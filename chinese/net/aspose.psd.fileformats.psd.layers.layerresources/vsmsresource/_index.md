@@ -1,14 +1,14 @@
 ---
-title: VsmsResource
+title: Class VsmsResource
 second_title: Aspose.PSD for .NET API 参考
-description: 类 VsmsResource. 该资源包含有关矢量图层掩码的信息
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource 班级. Class VsmsResource. 此资源包含有关矢量图层掩码 的信息
 type: docs
-weight: 3320
+weight: 3380
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 ---
 ## VsmsResource class
 
-类 VsmsResource. 该资源包含有关矢量图层掩码的信息
+Class VsmsResource. 此资源包含有关矢量图层掩码 的信息
 
 ```csharp
 public class VsmsResource : VectorPathDataResource
@@ -18,39 +18,39 @@ public class VsmsResource : VectorPathDataResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| [VsmsResource](vsmsresource#constructor)() | 初始化[`VsmsResource`](../vsmsresource)类. |
-| [VsmsResource](vsmsresource#constructor_1)(byte[]) | 初始化[`VsmsResource`](../vsmsresource)类. |
+| [VsmsResource](vsmsresource/#constructor)() | 初始化一个新的实例`VsmsResource`类. |
+| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | 初始化一个新的实例`VsmsResource`类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | 获取或设置一个值，该值指示此实例是否被禁用。 |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | 获取或设置一个值，指示此实例是否反转。 |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked) { get; set; } | 获取或设置一个值，该值指示此实例是否未链接。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key) { get; } | 获取图层资源键。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | 以字节为单位获取层资源长度。 |
-| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths) { get; set; } | 获取或设置路径记录。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | 获取psd版本。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature) { get; } | 获取签名。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version) { get; set; } | 获取或设置版本。 |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | 获取或设置一个值，指示此实例是否被禁用。 |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | 获取或设置一个值，指示此实例是否反转。 |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | 获取或设置一个值，指示此实例是否未链接。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key/) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | 获取以字节为单位的图层资源长度。 |
+| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | 获取或设置路径记录。 |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | 获取 psd 版本。 |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | 获取签名. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | 获取或设置版本。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save)(StreamContainer, int) | 将资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | 将资源保存到指定的流容器中。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个String代表这个实例. |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey) | 类型工具信息键。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/) | 类型工具信息键。 |
 
 ### 例子
 
-以下示例演示了对 VsmsResource 资源加载的支持。路径的编辑是如何工作的。
+以下示例演示了对 VsmsResource 资源加载的支持。如何编辑路径。
 
 ```csharp
 [C#]
@@ -58,7 +58,7 @@ public class VsmsResource : VectorPathDataResource
 [Test]
 public void TestPsdNet140()
 {
-    // Vsms资源支持
+    // VsmsResource 支持
     string sourceFileName = "EmptyRectangle.psd";
     string exportPath = "EmptyRectangle_changed.psd";
     var im = (PsdImage)Image.Load(sourceFileName);
@@ -133,9 +133,9 @@ private VsmsResource GetVsmsResource(PsdImage image)
 
 ### 也可以看看
 
-* class [VectorPathDataResource](../vectorpathdataresource)
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [VectorPathDataResource](../vectorpathdataresource/)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

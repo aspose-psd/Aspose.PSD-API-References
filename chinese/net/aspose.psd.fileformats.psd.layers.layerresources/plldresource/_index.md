@@ -1,14 +1,14 @@
 ---
-title: PlLdResource
+title: Class PlLdResource
 second_title: Aspose.PSD for .NET API 参考
-description: 定义 PlLdResource 类该类包含有关 PSD 文件中放置层的信息 用于支持 Adobe Photoshop 图像中的智能对象层 在 Adobe Photoshop CS3 中它已被 SoLdResource 取代
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource 班级. 定义 PlLdResource 类其中包含有关 PSD 文件中已放置层的信息 用于支持 Adobe Photoshop 图像中的智能对象层 在 Adobe Photoshop CS3 中已被 SoLdResource 取代
 type: docs
-weight: 2900
+weight: 2920
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
 ## PlLdResource class
 
-定义 PlLdResource 类，该类包含有关 PSD 文件中放置层的信息。 用于支持 Adobe® Photoshop® 图像中的智能对象层。 在 Adobe® Photoshop® CS3 中它已被 SoLdResource 取代
+定义 PlLdResource 类，其中包含有关 PSD 文件中已放置层的信息。 用于支持 Adobe® Photoshop® 图像中的智能对象层。 在 Adobe® Photoshop® CS3 中已被 SoLdResource 取代
 
 ```csharp
 public class PlLdResource : PlacedResource
@@ -18,46 +18,46 @@ public class PlLdResource : PlacedResource
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy) { get; set; } | 获取或设置PSD图像中放置图层的抗锯齿策略。 |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom) { get; set; } | 获取或设置放置图层在PSD图像中的底部位置。 |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds) { get; set; } | 获取或设置PSD文件中放置层的边界。 |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints) { get; set; } | 获取或设置PSD文件中放置图层的水平网格点。 |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit) { get; set; } | 获取或设置水平网格点的测量单位。 |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom) { get; set; } | 获取或设置一个值，该值指示此实例扭曲样式是否为自定义。 如果为 true，则包含网格点。如果设置为 false，它会删除网格点。 |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items) { get; set; } | 获取或设置经线项目。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key) { get; } | 获取 PlLd 资源密钥。 |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left) { get; set; } | 获取或设置放置图层在PSD文件中的左侧位置。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length) { get; } | 获取 PlLd 资源长度（以字节为单位）。 |
-| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber) { get; set; } | 获取或设置放置图层在PSD文件中的页码。 |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective) { get; set; } | 获取或设置PSD文件中放置图层的透视值。 |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother) { get; set; } | 获取或设置PSD文件中放置图层的透视其他值。 |
-| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype) { get; set; } | 获取或设置PSD文件中放置图层的类型。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion) { get; } | 获取 PlLd 资源所需的最低 psd 版本。 0 表示没有限制。 |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right) { get; set; } | 获取或设置放置图层在PSD文件中的正确位置。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature) { get; } | 获取 PlLd 资源签名。 |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top) { get; set; } | 获取或设置放置图层在 PSD 图像中的顶部位置。 |
-| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages) { get; set; } | 获取或设置PSD文件中放置图层的总页数。 |
-| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix) { get; set; } | 获取或设置PSD文件中放置图层的变换矩阵。 |
-| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid) { get; set; } | 获取或设置PSD图像中放置图层的全局唯一标识。 |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder) { get; set; } | 获取或设置PSD文件中放置图层的U阶值 |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value) { get; set; } | 获取或设置PSD图像中放置图层的warp值。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version) { get; } | 获取PSD文件中放置图层的版本，一般为3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints) { get; set; } | 获取或设置PSD文件中放置图层的水平网格点。 |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit) { get; set; } | 获取或设置垂直网格点的测量单位。 |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder) { get; set; } | 获取或设置PSD文件中放置图层的V阶值。 |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | 获取或设置PSD图像中放置图层的抗锯齿策略。 |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | 获取或设置放置图层在PSD图像中的底部位置。 |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | 获取或设置 PSD 文件中放置层的边界。 |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | 获取或设置放置图层在PSD文件中的水平网格点。 |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | 获取或设置水平网格点的度量单位。 |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | 获取或设置一个值，该值指示此实例扭曲样式是否为自定义。 如果为真，则它包含网格点。如果设置为 false，它会擦除网格点。 |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | 获取或设置扭曲项。 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/) { get; } | 获取 PlLd 资源密钥。 |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | 获取或设置放置图层在PSD文件中的左侧位置。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | 获取以字节为单位的 PlLd 资源长度。 |
+| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | 获取或设置放置图层在PSD文件中的页码。 |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | 获取或设置PSD文件中放置图层的透视值。 |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | 获取或设置PSD文件中放置图层的透视其他值。 |
+| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | 获取或设置PSD文件中放置图层的类型。 |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion/) { get; } | 获取 PlLd 资源所需的最低 psd 版本。 0 表示没有限制。 |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | 获取或设置放置图层在 PSD 文件中的正确位置。 |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/) { get; } | 获取 PlLd 资源签名。 |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | 获取或设置放置图层在 PSD 图像中的顶部位置。 |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | 获取或设置PSD文件中放置层的总页数。 |
+| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | 获取或设置放置图层在PSD文件中的变换矩阵。 |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | 获取或设置放置图层在PSD图像中的全局唯一标识符。 |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | 获取或设置放置图层在PSD文件中的U序值。 |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | 获取或设置PSD图像中放置层的扭曲值。 |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | 获取PSD文件中放置图层的版本，通常为3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | 获取或设置放置图层在PSD文件中的水平网格点。 |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | 获取或设置垂直网格点的度量单位。 |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | 获取或设置放置图层在PSD文件中的V序值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save)(StreamContainer, int) | 将 PlLD 资源保存到指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | 返回一个String代表这个实例。 |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | 将 PlLD 资源保存到指定的流容器中。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个String代表这个实例. |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey) | 类型工具信息键。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | 类型工具信息键。 |
 
 ### 例子
 
@@ -243,9 +243,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // 注意一些参数：Adobe® Photoshop® 可能无法读取图像
-                ////resource.UOrder = 6;
-                ////resource.VOrder = 9;
+                // 注意一些参数：图像可能无法被 Adobe® Photoshop® 读取
+                ////资源.UOrder = 6;
+                ////资源.VOrder = 9;
 
                 // 不要改变这个，否则你将无法使用自由变换
                 // 或将下划线智能对象更改为矢量类型
@@ -266,8 +266,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### 也可以看看
 
-* class [PlacedResource](../placedresource)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [PlacedResource](../placedresource/)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

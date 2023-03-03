@@ -1,14 +1,14 @@
 ---
-title: InitialFillRuleRecord
+title: InitialFillRuleRecord.InitialFillRuleRecord
 second_title: Aspose.PSD for .NET API 参考
-description: 初始化InitialFillRuleRecordaspose.psd.fileformats.core.vectorpaths/initialfillrulerecord类.
+description: InitialFillRuleRecord 构造函数. 初始化一个新的实例InitialFillRuleRecord类.
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/initialfillrulerecord/
 ---
 ## InitialFillRuleRecord() {#constructor}
 
-初始化[`InitialFillRuleRecord`](../../initialfillrulerecord)类.
+初始化一个新的实例[`InitialFillRuleRecord`](../)类.
 
 ```csharp
 public InitialFillRuleRecord()
@@ -16,15 +16,15 @@ public InitialFillRuleRecord()
 
 ### 也可以看看
 
-* class [InitialFillRuleRecord](../../initialfillrulerecord)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord)
+* class [InitialFillRuleRecord](../)
+* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(bool) {#constructor_1}
 
-初始化[`InitialFillRuleRecord`](../../initialfillrulerecord)类.
+初始化一个新的实例[`InitialFillRuleRecord`](../)类.
 
 ```csharp
 public InitialFillRuleRecord(bool isFillStartsWithAllPixels)
@@ -36,7 +36,7 @@ public InitialFillRuleRecord(bool isFillStartsWithAllPixels)
 
 ### 例子
 
-下面的代码示例提供了用于操作矢量路径对象的类，并演示了如何使用这些类。
+以下代码示例提供了用于操作矢量路径对象的类，并演示了如何使用这些类。
 
 ```csharp
 [C#]
@@ -64,14 +64,14 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// 在<see cref="Layer"/>之间提供工作的类和 <参见 cref="VectorPath"/>。
+/// 在 <see cref="Layer"/> 之间提供工作的类和 <参见 cref="VectorPath"/>。
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// 创建 <see cref="VectorPath"/>基于来自输入层的资源的实例。
+    /// 创建 <see cref="VectorPath"/>基于输入层资源的实例。
     /// </summary>
-    /// <param name="psdLayer">psd图层。</param>
+    /// <param name="psdLayer">psd层。</param>
     /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
@@ -93,9 +93,9 @@ public static class VectorDataProvider
     /// <summary>
     /// 从 <see cref="VectorPath"/> 更新输入层资源实例，或替换为新的路径资源和更新。
     /// </summary>
-    /// <param name="psdLayer">psd图层。</param>
-    /// <param name="vectorPath">向量路径。</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="psdLayer">psd层。</param>
+    /// <param name="vectorPath">矢量路径。</param>
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -111,9 +111,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// 从输入层移除向量路径数据。
+    /// 从输入层移除矢量路径数据。
     /// </summary>
-    /// <param name="psdLayer">psd图层。</param>
+    /// <param name="psdLayer">psd层。</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -139,10 +139,10 @@ public static class VectorDataProvider
     /// 从 <see cref="VectorPath"/> 更新资源数据实例。
     /// </summary>
     /// <param name="pathResource">路径资源。</param>
-    /// <param name="vogkResource">向量源数据资源。</param>
+    /// <param name="vogkResource">矢量源数据资源。</param>;
     /// <param name="socoResource">纯色资源。</param>
-    /// <param name="vectorPath">向量路径。</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="vectorPath">矢量路径。</param>
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -169,11 +169,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// 用更新的或新的替换层中的资源。
+    /// 用更新的或新的资源替换图层中的资源。
     /// </summary>
-    /// <param name="psdLayer">psd图层。</param>
+    /// <param name="psdLayer">psd层。</param>
     /// <param name="pathResource">路径资源。</param>
-    /// <param name="vogkResource">向量源数据资源。</param>
+    /// <param name="vogkResource">矢量源数据资源。</param>;
     /// <param name="socoResource">纯色资源。</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
@@ -221,10 +221,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// 找到 <see cref="VectorPathDataResource"/>输入层资源中的资源。
+    /// 查找 <see cref="VectorPathDataResource"/>输入层资源中的资源。
     /// </summary>
-    /// <param name="psdLayer">psd图层。</param>
-    /// <param name="createIfNotExist">如果资源不存在，那么对于 <see cref="true"/>创建一个新资源，否则返回 <see cref="null"/>。</param>
+    /// <param name="psdLayer">psd层。</param>
+    /// <param name="createIfNotExist">如果资源不存在，则为 <see cref="true"/>创建一个新资源，否则返回 <see cref="null"/>.</param>
     /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
@@ -249,8 +249,8 @@ public static class VectorDataProvider
     /// <summary>
     /// 找到 <see cref="VogkResource"/>输入层资源中的资源。
     /// </summary>
-    /// <param name="psdLayer">psd图层。</param>
-    /// <param name="createIfNotExist">如果资源不存在，那么对于 <see cref="true"/>创建一个新资源，否则返回 <see cref="null"/>。</param>
+    /// <param name="psdLayer">psd层。</param>
+    /// <param name="createIfNotExist">如果资源不存在，则为 <see cref="true"/>创建一个新资源，否则返回 <see cref="null"/>.</param>
     /// <returns>The <see cref="VogkResource"/> resource.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
@@ -275,8 +275,8 @@ public static class VectorDataProvider
     /// <summary>
     /// 找到 <see cref="SoCoResource"/>输入层资源中的资源。
     /// </summary>
-    /// <param name="psdLayer">psd图层。</param>
-    /// <param name="createIfNotExist">如果资源不存在，那么对于 <see cref="true"/>创建一个新资源，否则返回 <see cref="null"/>。</param>
+    /// <param name="psdLayer">psd层。</param>
+    /// <param name="createIfNotExist">如果资源不存在，则为 <see cref="true"/>创建一个新资源，否则返回 <see cref="null"/>.</param>
     /// <returns>The <see cref="SoCoResource"/> resource.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
@@ -299,10 +299,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// 验证要使用的层 <see cref="VectorDataProvider"/>班级。
+    /// 验证图层以使用 <see cref="VectorDataProvider"/>班级。
     /// </summary>
-    /// <param name="layer"></param>
-    /// <exception cref="ArgumentNullException"></exception>
+    /// <param name="layer"></param>;
+    /// <exception cref="ArgumentNullException"></exception>;
     private static void ValidateLayer(Layer layer)
     {
         if (layer == null)
@@ -328,12 +328,12 @@ public class BezierKnot
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// 初始化 <see cref="BezierKnot" /> 的新实例班级。
+    /// 初始化 <see cref="BezierKnot" /> 的一个新实例班级。
     /// </summary>
     /// <param name="anchorPoint">锚点。</param>
     /// <param name="controlPoint1">第一个控制点。</param>
     /// <param name="controlPoint2">第二个控制点。</param>
-    /// <param name="isLinked">这个结是否被链接的值。</param>
+    /// <param name="isLinked">该结是否链接的值。</param>;
     public BezierKnot(PointF anchorPoint, PointF controlPoint1, PointF controlPoint2, bool isLinked)
     {
         this.AnchorPoint = anchorPoint;
@@ -343,10 +343,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// 初始化 <see cref="BezierKnot" /> 的新实例基于 <see cref="BezierKnotRecord"/> 的类。
+    /// 初始化 <see cref="BezierKnot" /> 的一个新实例基于 <see cref="BezierKnotRecord"/> 的类。
     /// </summary>
-    /// <param name="bezierKnotRecord"><见 cref="BezierKnotRecord"/>.</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="bezierKnotRecord"><see cref="BezierKnotRecord"/>.</param>;
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -356,17 +356,17 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// 初始化 <see cref="BezierKnot" /> 的新实例班级。
+    /// 初始化 <see cref="BezierKnot" /> 的一个新实例班级。
     /// </summary>
-    /// <param name="anchorPoint">要作为锚点和控制点的点。</param>
-    /// <param name="isLinked">这个结是否被链接的值。</param>
+    /// <param name="anchorPoint">要作为锚点和控制点的点。</param>;
+    /// <param name="isLinked">该结是否链接的值。</param>;
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
     {
     }
 
     /// <summary>
-    /// 获取或设置一个值，该值指示该实例是否被链接。
+    /// 获取或设置一个值，该值指示此实例是否已链接。
     /// </summary>
     public bool IsLinked { get; set; }
 
@@ -386,10 +386,10 @@ public class BezierKnot
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// 创建 <see cref="BezierKnotRecord"/> 的实例基于这个实例。
+    /// 创建实例 <see cref="BezierKnotRecord"/>基于这个实例。
     /// </summary>
-    /// <param name="isClosed">表示这个结是否是闭合的形状。</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="isClosed">表示这个结是否是闭合的。</param>;
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
@@ -407,7 +407,7 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// 通过输入值移动这个结点。
+    /// 按输入值移动此结点。
     /// </summary>
     /// <param name="xOffset">x 偏移量。</param>
     /// <param name="yOffset">y 偏移量。</param>
@@ -419,10 +419,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// 将点值从资源转换为正常值。
+    /// 将点值从资源转换为正常。
     /// </summary>
     /// <param name="point">具有资源值的点。</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     /// <returns>The converted to normal point.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
@@ -433,7 +433,7 @@ public class BezierKnot
     /// 将普通点值转换为资源点。
     /// </summary>
     /// <param name="point">点。</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     /// <returns>The point with values for resource.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
@@ -442,7 +442,7 @@ public class BezierKnot
 }
 
 /// <summary>
-/// 贝塞尔曲线节点的图形。
+/// 来自贝塞尔曲线结的图形。
 /// </summary>
 public class PathShape
 {
@@ -459,8 +459,8 @@ public class PathShape
     /// 初始化 <see cref="PathShape" /> 的新实例基于 <see cref="VectorPathRecord"/> 的类。
     /// </summary>
     /// <param name="lengthRecord">长度记录。</param>
-    /// <param name="bezierKnotRecords">贝塞尔结记录。</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="bezierKnotRecords">贝塞尔结记录。</param>;
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -471,10 +471,10 @@ public class PathShape
     }
 
     /// <summary>
-    /// 获取或设置一个值，该值指示该实例是否关闭。
+    /// 获取或设置一个值，指示此实例是否已关闭。
     /// </summary>
-    /// <值>
-    /// <c>真</c>如果此实例已关闭；否则，<c>false</c>。
+    /// <值>;
+    /// <c>真</c>;如果此实例已关闭；否则，<c> 为假</c>。
     /// </值>
     public bool IsClosed { get; set; }
 
@@ -484,7 +484,7 @@ public class PathShape
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// 获取或设置当前路径形状在图层中的索引。
+    /// 获取或设置图层中当前路径形状的索引。
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
@@ -496,7 +496,7 @@ public class PathShape
     /// <summary>
     /// 创建 <see cref="VectorPathRecord"/>基于此实例的记录。
     /// </summary>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
@@ -520,8 +520,8 @@ public class PathShape
     /// <summary>
     /// 根据输入记录初始化一个值。
     /// </summary>
-    /// <param name="bezierKnotRecords">贝塞尔结记录。</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="bezierKnotRecords">贝塞尔结记录。</param>;
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -536,25 +536,25 @@ public class PathShape
 }
 
 /// <summary>
-/// 包含向量路径的类。
+/// 包含矢量路径的类。
 /// </summary>
 public class VectorPath
 {
     /// <summary>
-    /// 初始化 <see cref="VectorPath" /> 的新实例基于<见cref="VectorPathDataResource"/>的类。
+    /// 初始化 <see cref="VectorPath" /> 的新实例基于 <see cref="VectorPathDataResource"/> 的类。
     /// </summary>
-    /// <param name="vectorPathDataResource">向量路径数据资源。</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="vectorPathDataResource">矢量路径数据资源。</param>;
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// 获取或设置一个值，该值指示是否从所有像素开始填充。
+    /// 获取或设置一个值，该值指示填充是否从所有像素开始。
     /// </summary>
-    /// <值>
-    /// 填充从所有像素开始。
+    /// <值>;
+    /// is fill 从所有像素开始。
     /// </值>
     public bool IsFillStartsWithAllPixels { get; set; }
 
@@ -571,32 +571,32 @@ public class VectorPath
     /// <summary>
     /// 获取或设置版本。
     /// </summary>
-    /// <值>
+    /// <值>;
     /// 版本。
     /// </值>
     public int Version { get; set; }
 
     /// <summary>
-    /// 获取或设置一个值，该值指示该实例是否被禁用。
+    /// 获取或设置一个值，该值指示此实例是否被禁用。
     /// </summary>
-    /// <值>
-    /// <c>真</c>如果此实例被禁用；否则，<c>false</c>。
+    /// <值>;
+    /// <c>真</c>;如果此实例被禁用；否则，<c> 为假</c>。
     /// </值>
     public bool IsDisabled { get; set; }
 
     /// <summary>
     /// 获取或设置一个值，该值指示此实例是否未链接。
     /// </summary>
-    /// <值>
-    /// <c>真</c>如果此实例未链接；否则，<c>false</c>。
+    /// <值>;
+    /// <c>真</c>;如果此实例未链接；否则，<c> 为假</c>。
     /// </值>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
     /// 获取或设置一个值，该值指示此实例是否反转。
     /// </summary>
-    /// <值>
-    /// <c>真</c>如果这个实例是倒置的；否则，<c>false</c>。
+    /// <值>;
+    /// <c>真</c>;如果这个实例是倒置的；否则，<c> 为假</c>。
     /// </值>
     public bool IsInverted { get; set; }
 
@@ -604,7 +604,7 @@ public class VectorPath
     /// 根据输入初始化一个值 <see cref="VectorPathDataResource"/>资源。
     /// </summary>
     /// <param name="resource">向量路径数据资源。</param>
-    /// <param name="imageSize">校正转换点坐标的图像大小。</param>
+    /// <param name="imageSize">校正转换点坐标的图像大小。</param>;
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -657,15 +657,15 @@ public class VectorPath
 
 ### 也可以看看
 
-* class [InitialFillRuleRecord](../../initialfillrulerecord)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord)
+* class [InitialFillRuleRecord](../)
+* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(byte[]) {#constructor_2}
 
-初始化[`InitialFillRuleRecord`](../../initialfillrulerecord)类.
+初始化一个新的实例[`InitialFillRuleRecord`](../)类.
 
 ```csharp
 public InitialFillRuleRecord(byte[] data)
@@ -677,8 +677,8 @@ public InitialFillRuleRecord(byte[] data)
 
 ### 也可以看看
 
-* class [InitialFillRuleRecord](../../initialfillrulerecord)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord)
+* class [InitialFillRuleRecord](../)
+* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
 * 部件 [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
