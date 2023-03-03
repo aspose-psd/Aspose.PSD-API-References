@@ -1,14 +1,14 @@
 ---
-title: StreamSource
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Inizializza una nuova istanza diStreamSourceaspose.psd.sources/streamsource classe.
+title: StreamSource.StreamSource
+second_title: Aspose.PSD per riferimento API .NET
+description: StreamSource costruttore. Inizializza una nuova istanza diStreamSource classe.
 type: docs
 weight: 10
 url: /it/net/aspose.psd.sources/streamsource/streamsource/
 ---
 ## StreamSource(Stream) {#constructor}
 
-Inizializza una nuova istanza di[`StreamSource`](../../streamsource) classe.
+Inizializza una nuova istanza di[`StreamSource`](../) classe.
 
 ```csharp
 public StreamSource(Stream stream)
@@ -20,7 +20,7 @@ public StreamSource(Stream stream)
 
 ### Esempi
 
-Questo esempio mostra come caricare le informazioni sui pixel in una matrice di tipo colore, manipolare la matrice e reimpostarla sull'immagine. Per eseguire queste operazioni, questo esempio crea un nuovo file immagine (in formato PSD) utilizzando l'oggetto MemoryStream.
+Questo esempio mostra come caricare le informazioni sui pixel in un array di tipo colore, manipolare l'array e reimpostarlo sull'immagine. Per eseguire queste operazioni, questo esempio crea un nuovo file immagine (in formato PSD) utilizzando l'oggetto MemoryStream.
 
 ```csharp
 [C#]
@@ -28,17 +28,17 @@ Questo esempio mostra come caricare le informazioni sui pixel in una matrice di 
 //Crea un'istanza di MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Crea un'istanza di PsdOptions e imposta le sue varie proprietà inclusa la proprietà Source
+    //Crea un'istanza di PsdOptions e imposta le sue varie proprietà, inclusa la proprietà Source
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
     //Crea un'istanza di Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //Ottieni i pixel dell'immagine specificando l'area come limite dell'immagine
+        //Ottiene i pixel dell'immagine specificando l'area come confine dell'immagine
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        //Cicla sull'array e imposta il colore del pixel indicizzato alternativo
+        //Esegui il loop sull'array e imposta il colore del pixel indicizzato alternativo
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
@@ -53,7 +53,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
             }
         }
 
-        //Applica le modifiche ai pixel all'immagine
+        //Applica le modifiche dei pixel all'immagine
         image.SavePixels(image.Bounds, pixels);
 
         // salva tutte le modifiche.
@@ -67,15 +67,15 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 
 ### Guarda anche
 
-* class [StreamSource](../../streamsource)
-* spazio dei nomi [Aspose.PSD.Sources](../../streamsource)
+* class [StreamSource](../)
+* spazio dei nomi [Aspose.PSD.Sources](../../streamsource/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## StreamSource(Stream, bool) {#constructor_1}
 
-Inizializza una nuova istanza di[`StreamSource`](../../streamsource) classe.
+Inizializza una nuova istanza di[`StreamSource`](../) classe.
 
 ```csharp
 public StreamSource(Stream stream, bool disposeStream)
@@ -84,11 +84,11 @@ public StreamSource(Stream stream, bool disposeStream)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | stream | Stream | Il flusso da aprire. |
-| disposeStream | Boolean | se impostato su`VERO` il flusso sarà smaltito. |
+| disposeStream | Boolean | se impostato su`VERO` il flusso verrà eliminato. |
 
 ### Esempi
 
-Questo esempio illustra l'uso di System.IO.Stream per creare un nuovo file immagine
+Questo esempio dimostra l'uso di System.IO.Stream per creare un nuovo file di immagine
 
 ```csharp
 [C#]
@@ -99,21 +99,21 @@ Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdO
 //Crea un'istanza di System.IO.Stream
 System.IO.Stream stream = new System.IO.FileStream(@"C:\temp\sample.psd", System.IO.FileMode.Create);
 
-//Definisci la proprietà di origine per l'istanza di PsdOptions
+//Definire la proprietà di origine per l'istanza di PsdOptions
 //Il secondo parametro booleano determina se lo Stream viene eliminato una volta uscito dall'ambito
 psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream, true);
 
 //Crea un'istanza di Image e chiama il metodo Create con PsdOptions come parametro per inizializzare l'oggetto Image   
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    //eseguo un po' di elaborazione delle immagini
+    //fai un po' di elaborazione delle immagini
 }
 ```
 
 ### Guarda anche
 
-* class [StreamSource](../../streamsource)
-* spazio dei nomi [Aspose.PSD.Sources](../../streamsource)
+* class [StreamSource](../)
+* spazio dei nomi [Aspose.PSD.Sources](../../streamsource/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

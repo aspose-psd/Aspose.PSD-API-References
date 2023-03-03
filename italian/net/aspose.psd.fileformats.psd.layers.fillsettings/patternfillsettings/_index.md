@@ -1,14 +1,14 @@
 ---
-title: PatternFillSettings
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Impostazioni effetto riempimento pattern
+title: Class PatternFillSettings
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings classe. Impostazioni delleffetto di riempimento del motivo
 type: docs
-weight: 2020
+weight: 2040
 url: /it/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
 ## PatternFillSettings class
 
-Impostazioni effetto riempimento pattern
+Impostazioni dell'effetto di riempimento del motivo
 
 ```csharp
 public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
@@ -18,29 +18,29 @@ public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 
 | Nome | Descrizione |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer) { get; set; } | Ottiene o imposta un valore che indica se [link with layer]. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color) { get; set; } | Ottiene o imposta il colore. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype) { get; } | Il tipo di riempimento |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset) { get; set; } | Ottiene o imposta l'offset orizzontale. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked) { get; set; } | Ottiene o imposta un valore che indica se questo[`PatternFillSettings`](../patternfillsettings) è collegato. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata) { get; set; } | Ottiene o imposta i dati del modello. |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight) { get; set; } | Ottiene o imposta l'altezza del pattern. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid) { get; set; } | Ottiene o imposta l'identificatore del modello. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname) { get; set; } | Ottiene o imposta il nome del pattern. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth) { get; set; } | Ottiene o imposta la larghezza del pattern. |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype) { get; set; } | Ottiene o imposta il tipo del punto. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale) { get; set; } | Ottiene o imposta la scala. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset) { get; set; } | Ottiene o imposta l'offset verticale. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | Ottiene o imposta un valore che indica se [link with layer]. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | Ottiene o imposta il colore. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | Il tipo di riempimento |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | Ottiene o imposta l'offset orizzontale. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | Ottiene o imposta un valore che indica se this`PatternFillSettings`è collegato. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | Ottiene o imposta i dati del modello. |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | Ottiene o imposta l'altezza del motivo. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | Ottiene o imposta l'identificatore del modello. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | Ottiene o imposta il nome del modello. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | Ottiene o imposta la larghezza del motivo. |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | Ottiene o imposta il tipo del punto. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | Ottiene o imposta la scala. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | Ottiene o imposta l'offset verticale. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes)(string, Color, string, string, double, bool, PointF) | Genera i nodi di risorse LFX2. |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | Genera i nodi di risorse LFX2. |
 
 ### Esempi
 
-Il codice seguente mostra il supporto della modifica del modello di livello di riempimento.
+Il codice seguente dimostra il supporto della modifica del motivo del livello di riempimento.
 
 ```csharp
 [C#]
@@ -95,7 +95,7 @@ using (im)
 }
 ```
 
-Il codice seguente mostra il supporto del livello dell'effetto tratto con il tipo di riempimento - Pattern.
+Il codice seguente dimostra il supporto del livello dell'effetto tratto con il tipo di riempimento Motivo.
 
 ```csharp
 [C#]
@@ -174,7 +174,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Testare il file dopo la modifica
+// Prova il file dopo la modifica
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternStroke = (StrokeEffect)im.Layers[3].BlendingOptions.Effects[0];
@@ -210,9 +210,9 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### Guarda anche
 
-* class [BaseFillSettings](../basefillsettings)
-* interface [IPatternFillSettings](../ipatternfillsettings)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings)
+* class [BaseFillSettings](../basefillsettings/)
+* interface [IPatternFillSettings](../ipatternfillsettings/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: RectangleShape
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Rappresenta una forma rettangolare.
+title: Class RectangleShape
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.Shapes.RectangleShape classe. Rappresenta una forma rettangolare.
 type: docs
-weight: 5460
+weight: 5530
 url: /it/net/aspose.psd.shapes/rectangleshape/
 ---
 ## RectangleShape class
@@ -18,35 +18,35 @@ public class RectangleShape : RectangleProjectedShape
 
 | Nome | Descrizione |
 | --- | --- |
-| [RectangleShape](rectangleshape#constructor)() | Inizializza una nuova istanza di[`RectangleShape`](../rectangleshape) classe. |
-| [RectangleShape](rectangleshape#constructor_1)(RectangleF) | Inizializza una nuova istanza di[`RectangleShape`](../rectangleshape) classe. |
+| [RectangleShape](rectangleshape/#constructor)() | Inizializza una nuova istanza di`RectangleShape` classe. |
+| [RectangleShape](rectangleshape/#constructor_1)(RectangleF) | Inizializza una nuova istanza di`RectangleShape` classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds) { get; } | Ottiene i limiti dell'oggetto. |
-| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center) { get; } | Ottiene il centro della forma. |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | Ottiene un valore che indica se la forma ha segmenti. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | Ottiene il punto del rettangolo in basso a sinistra. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | Ottiene il punto del rettangolo in alto a sinistra. |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | Ottiene l'altezza del rettangolo. |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | Ottiene la larghezza del rettangolo. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | Ottiene il punto del rettangolo in basso a destra. |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | Ottiene il punto rettangolo in alto a destra. |
-| override [Segments](../../aspose.psd.shapes/rectangleshape/segments) { get; } | Ottiene i segmenti della forma. |
+| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | Ottiene i limiti dell'oggetto. |
+| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Ottiene il centro della forma. |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Ottiene un valore che indica se la forma ha segmenti. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Ottiene il punto del rettangolo in basso a sinistra. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Ottiene il punto del rettangolo in alto a sinistra. |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Ottiene l'altezza del rettangolo. |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Ottiene la larghezza del rettangolo. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Ottiene il punto del rettangolo in basso a destra. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Ottiene il punto del rettangolo in alto a destra. |
+| override [Segments](../../aspose.psd.shapes/rectangleshape/segments/) { get; } | Ottiene i segmenti della forma. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds)(Matrix) | Ottiene i limiti dell'oggetto. |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds)(Matrix, Pen) | Ottiene i limiti dell'oggetto. |
-| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform)(Matrix) | Applica la trasformazione specificata alla forma. |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/)(Matrix) | Ottiene i limiti dell'oggetto. |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/)(Matrix, Pen) | Ottiene i limiti dell'oggetto. |
+| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | Applica la trasformazione specificata alla forma. |
 
 ### Esempi
 
-Questo esempio crea una nuova immagine e disegna una varietà di forme usando Figures e GraphicsPath nell'area dell'immagine
+Questo esempio crea una nuova Image e disegna una varietà di forme usando Figures e GraphicsPath sulla superficie Image
 
 ```csharp
 [C#]
@@ -57,7 +57,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
     //Crea e inizializza un'istanza della classe Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Cancella superficie grafica
+    //Superficie grafica chiara
     graphics.Clear(Color.Wheat);
 
     //Crea un'istanza della classe GraphicsPath
@@ -78,13 +78,13 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
     figure2.AddShape(new Aspose.PSD.Shapes.PolygonShape(new[] { new PointF(150, 10), new PointF(150, 200), new PointF(250, 300), new PointF(350, 400) }, true));
     figure2.AddShape(new Aspose.PSD.Shapes.RectangleShape(new Rectangle(new Point(250, 250), new Size(200, 200))));
 
-    //Aggiungi l'oggetto Figure a GraphicsPath
+    //Aggiungi l'oggetto Figura a GraphicsPath
     graphicspath.AddFigures(new[] { figure1, figure2 });
 
     //Disegna il percorso con l'oggetto Penna di colore Nero
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    // Crea opzioni di esportazione e inizializzale.
+    // Crea le opzioni di esportazione e le inizializza.
     Aspose.PSD.ImageOptions.BmpOptions options = new Aspose.PSD.ImageOptions.BmpOptions();
 
     // salva tutte le modifiche.
@@ -94,8 +94,8 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Guarda anche
 
-* class [RectangleProjectedShape](../rectangleprojectedshape)
-* spazio dei nomi [Aspose.PSD.Shapes](../../aspose.psd.shapes)
+* class [RectangleProjectedShape](../rectangleprojectedshape/)
+* spazio dei nomi [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

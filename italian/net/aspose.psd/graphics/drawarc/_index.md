@@ -1,7 +1,7 @@
 ---
-title: DrawArc
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Disegna un arco che rappresenta una porzione di unellisse specificata da una coppia di coordinate una larghezza e unaltezza.
+title: Graphics.DrawArc
+second_title: Aspose.PSD per riferimento API .NET
+description: Graphics metodo. Disegna un arco che rappresenta una porzione di unellisse specificata da una coppia di coordinate una larghezza e unaltezza.
 type: docs
 weight: 160
 url: /it/net/aspose.psd/graphics/drawarc/
@@ -17,8 +17,8 @@ public void DrawArc(Pen pen, float x, float y, float width, float height, float 
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile dell'arco. |
-| x | Single | Coordinata x dell'angolo superiore sinistro del rettangolo che definisce l'ellisse. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile dell'arco. |
+| x | Single | La coordinata x dell'angolo superiore sinistro del rettangolo che definisce l'ellisse. |
 | y | Single | La coordinata y dell'angolo superiore sinistro del rettangolo che definisce l'ellisse. |
 | width | Single | Larghezza del rettangolo che definisce l'ellisse. |
 | height | Single | Altezza del rettangolo che definisce l'ellisse. |
@@ -33,16 +33,16 @@ public void DrawArc(Pen pen, float x, float y, float width, float height, float 
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, RectangleF, float, float) {#drawarc_1}
 
-Disegna un arco che rappresenta una porzione di un'ellisse specificata da a[`RectangleF`](../../rectanglef)struttura.
+Disegna un arco che rappresenta una porzione di un'ellisse specificata da a[`RectangleF`](../../rectanglef/)struttura.
 
 ```csharp
 public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
@@ -50,8 +50,8 @@ public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile dell'arco. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) struttura che definisce i confini dell'ellisse. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile dell'arco. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) struttura che definisce i confini dell'ellisse. |
 | startAngle | Single | Angolo in gradi misurato in senso orario dall'asse x al punto iniziale dell'arco. |
 | sweepAngle | Single | Angolo in gradi misurato in senso orario dal*startAngle* parametro al punto finale dell'arco. |
 
@@ -63,10 +63,10 @@ public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -81,8 +81,8 @@ public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile dell'arco. |
-| x | Int32 | Coordinata x dell'angolo superiore sinistro del rettangolo che definisce l'ellisse. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile dell'arco. |
+| x | Int32 | La coordinata x dell'angolo superiore sinistro del rettangolo che definisce l'ellisse. |
 | y | Int32 | La coordinata y dell'angolo superiore sinistro del rettangolo che definisce l'ellisse. |
 | width | Int32 | Larghezza del rettangolo che definisce l'ellisse. |
 | height | Int32 | Altezza del rettangolo che definisce l'ellisse. |
@@ -97,16 +97,16 @@ public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, Rectangle, float, float) {#drawarc}
 
-Disegna un arco che rappresenta una porzione di un'ellisse specificata da a[`Rectangle`](../../rectangle)struttura.
+Disegna un arco che rappresenta una porzione di un'ellisse specificata da a[`Rectangle`](../../rectangle/)struttura.
 
 ```csharp
 public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
@@ -114,8 +114,8 @@ public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile dell'arco. |
-| rect | Rectangle | [`RectangleF`](../../rectanglef) struttura che definisce i confini dell'ellisse. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile dell'arco. |
+| rect | Rectangle | [`RectangleF`](../../rectanglef/) struttura che definisce i confini dell'ellisse. |
 | startAngle | Single | Angolo in gradi misurato in senso orario dall'asse x al punto iniziale dell'arco. |
 | sweepAngle | Single | Angolo in gradi misurato in senso orario dal*startAngle* parametro al punto finale dell'arco. |
 
@@ -127,10 +127,10 @@ public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

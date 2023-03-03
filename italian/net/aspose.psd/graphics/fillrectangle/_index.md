@@ -1,14 +1,14 @@
 ---
-title: FillRectangle
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Riempie linterno di un rettangolo specificato da aRectangleaspose.psd/rectanglestruttura.
+title: Graphics.FillRectangle
+second_title: Aspose.PSD per riferimento API .NET
+description: Graphics metodo. Riempie linterno di un rettangolo specificato da aRectanglestruttura.
 type: docs
 weight: 390
 url: /it/net/aspose.psd/graphics/fillrectangle/
 ---
 ## FillRectangle(Brush, Rectangle) {#fillrectangle}
 
-Riempie l'interno di un rettangolo specificato da a[`Rectangle`](../../rectangle)struttura.
+Riempie l'interno di un rettangolo specificato da a[`Rectangle`](../../rectangle/)struttura.
 
 ```csharp
 public void FillRectangle(Brush brush, Rectangle rect)
@@ -16,8 +16,8 @@ public void FillRectangle(Brush brush, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| rect | Rectangle | [`Rectangle`](../../rectangle) struttura che rappresenta il rettangolo da riempire. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) struttura che rappresenta il rettangolo da riempire. |
 
 ### Eccezioni
 
@@ -27,17 +27,17 @@ public void FillRectangle(Brush brush, Rectangle rect)
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, RectangleF) {#fillrectangle_1}
 
-Riempie l'interno di un rettangolo specificato da a[`RectangleF`](../../rectanglef)struttura.
+Riempie l'interno di un rettangolo specificato da a[`RectangleF`](../../rectanglef/)struttura.
 
 ```csharp
 public void FillRectangle(Brush brush, RectangleF rect)
@@ -45,8 +45,8 @@ public void FillRectangle(Brush brush, RectangleF rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) struttura che rappresenta il rettangolo da riempire. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) struttura che rappresenta il rettangolo da riempire. |
 
 ### Eccezioni
 
@@ -56,10 +56,10 @@ public void FillRectangle(Brush brush, RectangleF rect)
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -74,7 +74,7 @@ public void FillRectangle(Brush brush, float x, float y, float width, float heig
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
 | x | Single | La coordinata x dell'angolo superiore sinistro del rettangolo da riempire. |
 | y | Single | La coordinata y dell'angolo superiore sinistro del rettangolo da riempire. |
 | width | Single | Larghezza del rettangolo da riempire. |
@@ -88,9 +88,9 @@ public void FillRectangle(Brush brush, float x, float y, float width, float heig
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -105,7 +105,7 @@ public void FillRectangle(Brush brush, int x, int y, int width, int height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
 | x | Int32 | La coordinata x dell'angolo superiore sinistro del rettangolo da riempire. |
 | y | Int32 | La coordinata y dell'angolo superiore sinistro del rettangolo da riempire. |
 | width | Int32 | Larghezza del rettangolo da riempire. |
@@ -119,9 +119,9 @@ public void FillRectangle(Brush brush, int x, int y, int width, int height)
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: PngOptions
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Il formato file png crea opzioni.
+title: Class PngOptions
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.ImageOptions.PngOptions classe. Il formato di file png crea opzioni.
 type: docs
-weight: 4810
+weight: 4880
 url: /it/net/aspose.psd.imageoptions/pngoptions/
 ---
 ## PngOptions class
 
-Il formato file png crea opzioni.
+Il formato di file png crea opzioni.
 
 ```csharp
 public class PngOptions : ImageOptionsBase
@@ -18,42 +18,42 @@ public class PngOptions : ImageOptionsBase
 
 | Nome | Descrizione |
 | --- | --- |
-| [PngOptions](pngoptions#constructor)() | Inizializza una nuova istanza di[`PngOptions`](../pngoptions) classe. |
-| [PngOptions](pngoptions#constructor_1)(PngOptions) | Inizializza una nuova istanza di[`PngOptions`](../pngoptions) classe. |
+| [PngOptions](pngoptions/#constructor)() | Inizializza una nuova istanza di`PngOptions` classe. |
+| [PngOptions](pngoptions/#constructor_1)(PngOptions) | Inizializza una nuova istanza di`PngOptions` classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth) { get; set; } | La profondità di bit. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Ottiene o imposta l'hint per la dimensione del buffer che è la dimensione massima consentita per tutti i buffer interni. |
-| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype) { get; set; } | Ottiene o imposta il tipo del colore. |
-| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel) { get; set; } | Il livello di compressione dell'immagine png nell'intervallo 0-9, dove 9 è la compressione massima e 0 è la modalità di memorizzazione. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Ottiene o imposta il carattere sostitutivo predefinito (carattere che verrà utilizzato per disegnare il testo durante l'esportazione in formato raster, se il carattere del livello esistente nel file PSD non è presente nel sistema). Per prendere il nome corretto del carattere predefinito può essere utilizzato il frammento di codice successivo : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] famiglie = col.Families; string defaultFontName = famiglie[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Ottiene un valore che indica se questa istanza è stata eliminata. |
-| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype) { get; set; } | Ottiene o imposta il tipo di filtro utilizzato durante il processo di salvataggio del file png. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Ottiene o imposta un valore che indica se [fotogramma intero]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Le opzioni multipagina |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Ottiene o imposta la tavolozza dei colori. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Ottiene o imposta il gestore dell'evento di avanzamento. |
-| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive) { get; set; } | Ottiene o imposta un valore che indica se questo[`PngOptions`](../pngoptions) è progressivo. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Ottiene o imposta le impostazioni di risoluzione. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Ottiene o imposta l'origine in cui creare l'immagine. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Ottiene o imposta le opzioni di rasterizzazione del vettore. |
-| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata) { get; set; } | Ottiene o imposta il contenitore di metadati XMP. |
+| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth/) { get; set; } | La profondità di bit. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Ottiene o imposta l'hint della dimensione del buffer che è definita dimensione massima consentita per tutti i buffer interni. |
+| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype/) { get; set; } | Ottiene o imposta il tipo di colore. |
+| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel/) { get; set; } | Il livello di compressione dell'immagine png nell'intervallo 0-9, dove 9 è la compressione massima e 0 è la modalità di memorizzazione. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Ottiene o imposta il carattere sostitutivo predefinito (carattere che verrà utilizzato per disegnare il testo durante l'esportazione in raster, se il carattere del livello esistente nel file PSD non è presentato nel sistema). Per prendere il nome corretto del carattere predefinito può essere utilizzato il prossimo frammento di codice : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] famiglie = col.Families; string defaultFontName = famiglie[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Ottiene un valore che indica se questa istanza è stata eliminata. |
+| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype/) { get; set; } | Ottiene o imposta il tipo di filtro utilizzato durante il processo di salvataggio del file png. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Ottiene o imposta un valore che indica se [full frame]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Le opzioni multipagina |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Ottiene o imposta la tavolozza dei colori. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Ottiene o imposta il gestore dell'evento progress. |
+| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive/) { get; set; } | Ottiene o imposta un valore che indica se this`PngOptions` è progressivo. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Ottiene o imposta le impostazioni di risoluzione. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Ottiene o imposta l'origine in cui creare l'immagine. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Ottiene o imposta le opzioni di rasterizzazione vettoriale. |
+| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata/) { get; set; } | Ottiene o imposta il contenitore dei metadati XMP. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Clona questa istanza. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Elimina l'istanza corrente. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Clona questa istanza. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Elimina l'istanza corrente. |
 
 ## Campi
 
 | Nome | Descrizione |
 | --- | --- |
-| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel) | Il livello di compressione predefinito. |
+| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/) | Il livello di compressione predefinito. |
 
 ### Esempi
 
@@ -71,7 +71,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-Questo esempio mostra l'uso di classi diverse da SaveOptions Namespace per scopi di esportazione. Un'immagine di tipo Psd viene caricata in un'istanza di Image e quindi esportata in diversi formati.
+Questo esempio dimostra l'uso di classi diverse da SaveOptions Namespace per scopi di esportazione. Un'immagine di tipo Psd viene caricata in un'istanza di Image e quindi esportata in diversi formati.
 
 ```csharp
 [C#]
@@ -85,7 +85,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
     //Esporta in formato file JPEG utilizzando le opzioni predefinite
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 
-    //Esporta in formato file JPEG 2000 utilizzando le opzioni predefinite
+    //Esporta nel formato di file JPEG 2000 utilizzando le opzioni predefinite
     image.Save(@"C:\temp\output.jp2", new Aspose.PSD.ImageOptions.Jpeg2000Options());
 
     //Esporta in formato file PNG utilizzando le opzioni predefinite
@@ -96,7 +96,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-L'esempio seguente mostra come utilizzare la modalità di fusione dei livelli PassThrough in Aspose.PSD
+L'esempio seguente mostra come utilizzare la modalità di fusione del livello PassThrough in Aspose.PSD
 
 ```csharp
 [C#]
@@ -181,7 +181,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Questo esempio usa la classe Graphics per creare forme primitive nell'area dell'immagine. Per dimostrare l'operazione, l'esempio crea una nuova immagine in formato PSD e disegna forme primitive sulla superficie dell'immagine utilizzando i metodi Draw esposti dalla classe Graphics, quindi esportala in formato file PSD.
+Questo esempio usa la classe Graphics per creare forme primitive sulla superficie Image. Per dimostrare l'operazione, l'esempio crea una nuova immagine in formato PSD e disegna forme primitive sulla superficie dell'immagine usando i metodi Draw esposti dalla classe Graphics, quindi esportala nel formato di file PSD.
 
 ```csharp
 [C#]
@@ -192,29 +192,29 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
     //Crea e inizializza un'istanza della classe Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Cancella superficie grafica
+    //Superficie grafica chiara
     graphics.Clear(Color.Wheat);
 
-    //Disegna un arco specificando l'oggetto Penna con colore Nero, 
-    //un rettangolo che circonda l'arco, l'angolo iniziale e l'angolo di sweep
+    // Disegna un arco specificando l'oggetto Pen di colore nero, 
+    //a Rettangolo che circonda l'arco, l'angolo iniziale e l'angolo di apertura
     graphics.DrawArc(new Pen(Color.Black, 2), new Rectangle(200, 200, 100, 200), 0, 300);
 
-    //Disegna un Bezier specificando l'oggetto Penna con colore blu e punti coordinati.
+    // Disegna un Bezier specificando l'oggetto Pen con colore blu e punti coordinati.
     graphics.DrawBezier(new Pen(Color.Blue, 2), new Point(250, 100), new Point(300, 30), new Point(450, 100), new Point(235, 25));
 
-    //Disegna una curva specificando l'oggetto Penna con colore verde e una matrice di punti
+    // Disegna una curva specificando l'oggetto Pen di colore verde e un array di punti
     graphics.DrawCurve(new Pen(Color.Green, 2), new[] { new Point(100, 200), new Point(100, 350), new Point(200, 450) });
 
-    //Disegna un'ellisse usando l'oggetto Penna e un rettangolo circostante
+    // Disegna un'ellisse usando l'oggetto Pen e un rettangolo circostante
     graphics.DrawEllipse(new Pen(Color.Yellow, 2), new Rectangle(300, 300, 100, 100));
 
     //Disegna una linea 
     graphics.DrawLine(new Pen(Color.Violet, 2), new Point(100, 100), new Point(200, 200));
 
-    //Disegna un segmento di torta
+    // Disegna un segmento di torta
     graphics.DrawPie(new Pen(Color.Silver, 2), new Rectangle(new Point(200, 20), new Size(200, 200)), 0, 45);
 
-    //Disegna un poligono specificando l'oggetto Penna con colore rosso e una matrice di punti
+    //Disegna un poligono specificando l'oggetto Pen di colore rosso e un array di punti
     graphics.DrawPolygon(new Pen(Color.Red, 2), new[] { new Point(20, 100), new Point(20, 200), new Point(220, 20) });
 
     //Disegna un rettangolo
@@ -225,7 +225,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
     brush.Color = Color.Purple;
     brush.Opacity = 100;
 
-    //Disegna una stringa usando l'oggetto SolidBrush e Font, in un punto specifico
+    // Disegna una stringa usando l'oggetto e il carattere SolidBrush, in un punto specifico
     graphics.DrawString("This image is created by Aspose.PSD API", new Font("Times New Roman", 16), brush, new PointF(50, 400));
 
     //Crea un'istanza di PngOptions e imposta le sue varie proprietà
@@ -238,8 +238,8 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Guarda anche
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* spazio dei nomi [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* spazio dei nomi [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

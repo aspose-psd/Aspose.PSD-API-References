@@ -1,14 +1,14 @@
 ---
-title: ClassID
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Inizializza una nuova istanza diClassIDaspose.psd.fileformats.psd.layers.layerresources/classid classe.
+title: ClassID.ClassID
+second_title: Aspose.PSD per riferimento API .NET
+description: ClassID costruttore. Inizializza una nuova istanza diClassID classe.
 type: docs
 weight: 10
 url: /it/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
 ## ClassID(byte[]) {#constructor}
 
-Inizializza una nuova istanza di[`ClassID`](../../classid) classe.
+Inizializza una nuova istanza di[`ClassID`](../) classe.
 
 ```csharp
 public ClassID(byte[] classID)
@@ -20,15 +20,15 @@ public ClassID(byte[] classID)
 
 ### Guarda anche
 
-* class [ClassID](../../classid)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-Inizializza una nuova istanza di[`ClassID`](../../classid) classe.
+Inizializza una nuova istanza di[`ClassID`](../) classe.
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
@@ -47,15 +47,15 @@ public ClassID(byte[] classID, bool isZeroLength)
 
 ### Guarda anche
 
-* class [ClassID](../../classid)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-Inizializza una nuova istanza di[`ClassID`](../../classid) classe.
+Inizializza una nuova istanza di[`ClassID`](../) classe.
 
 ```csharp
 public ClassID(int classID)
@@ -63,19 +63,19 @@ public ClassID(int classID)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| classID | Int32 | L'ID classe. |
+| classID | Int32 | L'ID della classe. |
 
 ### Guarda anche
 
-* class [ClassID](../../classid)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-Inizializza una nuova istanza di[`ClassID`](../../classid) classe.
+Inizializza una nuova istanza di[`ClassID`](../) classe.
 
 ```csharp
 public ClassID(uint classID)
@@ -83,19 +83,19 @@ public ClassID(uint classID)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| classID | UInt32 | L'ID classe. |
+| classID | UInt32 | L'ID della classe. |
 
 ### Guarda anche
 
-* class [ClassID](../../classid)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-Inizializza una nuova istanza di[`ClassID`](../../classid) classe.
+Inizializza una nuova istanza di[`ClassID`](../) classe.
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
@@ -104,16 +104,16 @@ public ClassID(string classID, bool isZeroLength)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | classID | String | L'ID classe nella codifica ASCII. |
-| isZeroLength | Boolean | se impostato su`VERO` [è lunghezza zero]. |
+| isZeroLength | Boolean | se impostato su`VERO` [è di lunghezza zero]. |
 
 ### Esempi
 
-Questo esempio dimostra che il livello, importato da un'immagine, viene convertito in un livello oggetto intelligente e che il file PSD salvato è corretto.
+Questo esempio dimostra che il livello, importato da un'immagine, viene convertito in livello oggetto avanzato e il file PSD salvato è corretto.
 
 ```csharp
 [C#]
 
-// Verifica che il livello, importato da un'immagine, sia convertito in un livello oggetto intelligente e che il file PSD salvato sia corretto.
+// Verifica che il livello, importato da un'immagine, sia convertito in livello oggetto intelligente e che il file PSD salvato sia corretto.
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -154,15 +154,15 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 
 ### Guarda anche
 
-* class [ClassID](../../classid)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-Inizializza una nuova istanza di[`ClassID`](../../classid) classe.
+Inizializza una nuova istanza di[`ClassID`](../) classe.
 
 ```csharp
 public ClassID(string classID)
@@ -174,8 +174,8 @@ public ClassID(string classID)
 
 ### Guarda anche
 
-* class [ClassID](../../classid)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

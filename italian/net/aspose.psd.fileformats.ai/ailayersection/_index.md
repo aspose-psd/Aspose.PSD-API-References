@@ -1,14 +1,14 @@
 ---
-title: AiLayerSection
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: La sezione del livello del formato Ai
+title: Class AiLayerSection
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Ai.AiLayerSection classe. La sezione Layer in formato Ai
 type: docs
 weight: 1270
 url: /it/net/aspose.psd.fileformats.ai/ailayersection/
 ---
 ## AiLayerSection class
 
-La sezione del livello del formato Ai
+La sezione Layer in formato Ai
 
 ```csharp
 public sealed class AiLayerSection : AiDataSection
@@ -18,32 +18,32 @@ public sealed class AiLayerSection : AiDataSection
 
 | Nome | Descrizione |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue) { get; set; } | Ottiene o imposta il componente di colore blu. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber) { get; set; } | Ottiene o imposta il numero del colore. -1 è il valore del colore personalizzato dalle proprietà Rosso, Verde, Blu. Specifica l'impostazione del colore del livello. |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue) { get; set; } | Ottiene o imposta il valore dim come percentuale. Riduce l'intensità delle immagini collegate e delle immagini bitmap contenute nel livello alla percentuale specificata. |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Ottiene un valore che indica se questa istanza è stata eliminata. |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green) { get; set; } | Ottiene o imposta il componente di colore verde. |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed) { get; set; } | Ottiene o imposta un valore che indica se questo livello è oscurato. Riduce l'intensità delle immagini collegate e delle immagini bitmap contenute nel livello. |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked) { get; set; } | Ottiene o imposta un valore che indica se questo livello è bloccato. Impedisce modifiche all'elemento. |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview) { get; set; } | Ottiene o imposta un valore che indica se questo livello è in anteprima. Visualizza il disegno contenuto nel livello a colori anziché come contorni. |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted) { get; set; } | Ottiene o imposta un valore che indica se questo livello è stampato. Rende stampabile la grafica contenuta nel livello se true. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown) { get; set; } | Ottiene o imposta un valore che indica se questo livello è mostrato. Visualizza tutta la grafica contenuta nel livello sulla tavola da disegno se true. |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate) { get; set; } | Ottiene o imposta un valore che indica se questo livello è un livello modello. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name) { get; set; } | Ottiene o imposta il nome del livello. Specifica il nome dell'elemento come appare nel pannello Livelli. |
-| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages) { get; } | Ottiene le immagini raster. |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red) { get; set; } | Ottiene o imposta il componente di colore rosso. |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Ottiene o imposta il componente del colore blu. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Ottiene o imposta il numero del colore. -1 è il valore del colore personalizzato dalle proprietà Rosso, Verde, Blu. Specifica l'impostazione del colore del livello. |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Ottiene o imposta il valore dim come percentuale. Riduce l'intensità delle immagini collegate e delle immagini bitmap contenute nel livello alla percentuale specificata. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Ottiene un valore che indica se questa istanza è stata eliminata. |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Ottiene o imposta il componente del colore verde. |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Ottiene o imposta un valore che indica se questo livello è oscurato. Riduce l'intensità delle immagini collegate e delle immagini bitmap contenute nel livello. |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Ottiene o imposta un valore che indica se questo livello è bloccato. Impedisce le modifiche all'elemento. |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Ottiene o imposta un valore che indica se questo livello è un'anteprima. Visualizza la grafica contenuta nel livello a colori anziché come contorni. |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Ottiene o imposta un valore che indica se questo livello è stampato. Rende stampabile l'immagine contenuta nel livello se true. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Ottiene o imposta un valore che indica se questo livello è mostrato. Visualizza tutti gli elementi grafici contenuti nel livello sulla tavola da disegno se vero. |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Ottiene o imposta un valore che indica se questo livello è un livello modello. |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Ottiene o imposta il nome del livello. Specifica il nome dell'elemento così come appare nel pannello Livelli. |
+| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | Ottiene le immagini raster. |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Ottiene o imposta il componente del colore rosso. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage)(AiRasterImageSection) | Aggiunge l'immagine raster. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Elimina l'istanza corrente. |
-| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata)() | Ottiene i dati della stringa. |
+| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | Aggiunge l'immagine raster. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Elimina l'istanza corrente. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Ottiene i dati della stringa. |
 
 ### Esempi
 
-Il codice seguente mostra come caricare le impostazioni delle immagini raster nei file di formato AI.
+Il codice seguente mostra come caricare le impostazioni delle immagini raster nei file in formato AI.
 
 ```csharp
 [C#]
@@ -88,8 +88,8 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 ### Guarda anche
 
-* class [AiDataSection](../aidatasection)
-* spazio dei nomi [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai)
+* class [AiDataSection](../aidatasection/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

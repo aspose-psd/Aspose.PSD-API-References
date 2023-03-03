@@ -1,14 +1,14 @@
 ---
-title: DrawLine
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Disegna una linea che collega duePointaspose.psd/point strutture.
+title: Graphics.DrawLine
+second_title: Aspose.PSD per riferimento API .NET
+description: Graphics metodo. Disegna una linea che ne collega duePoint strutture.
 type: docs
 weight: 250
 url: /it/net/aspose.psd/graphics/drawline/
 ---
 ## DrawLine(Pen, Point, Point) {#drawline}
 
-Disegna una linea che collega due[`Point`](../../point) strutture.
+Disegna una linea che ne collega due[`Point`](../../point/) strutture.
 
 ```csharp
 public void DrawLine(Pen pen, Point point1, Point point2)
@@ -16,9 +16,9 @@ public void DrawLine(Pen pen, Point point1, Point point2)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile della linea. |
-| point1 | Point | [`Point`](../../point) struttura che rappresenta il primo punto di connessione. |
-| point2 | Point | [`Point`](../../point) struttura che rappresenta il secondo punto da collegare. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile della linea. |
+| point1 | Point | [`Point`](../../point/) struttura che rappresenta il primo punto da collegare. |
+| point2 | Point | [`Point`](../../point/) struttura che rappresenta il secondo punto da collegare. |
 
 ### Eccezioni
 
@@ -28,17 +28,17 @@ public void DrawLine(Pen pen, Point point1, Point point2)
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLine(Pen, PointF, PointF) {#drawline_1}
 
-Disegna una linea che collega due[`PointF`](../../pointf) strutture.
+Disegna una linea che ne collega due[`PointF`](../../pointf/) strutture.
 
 ```csharp
 public void DrawLine(Pen pen, PointF point1, PointF point2)
@@ -46,9 +46,9 @@ public void DrawLine(Pen pen, PointF point1, PointF point2)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile della linea. |
-| point1 | PointF | [`PointF`](../../pointf) struttura che rappresenta il primo punto di connessione. |
-| point2 | PointF | [`PointF`](../../pointf) struttura che rappresenta il secondo punto da collegare. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile della linea. |
+| point1 | PointF | [`PointF`](../../pointf/) struttura che rappresenta il primo punto da collegare. |
+| point2 | PointF | [`PointF`](../../pointf/) struttura che rappresenta il secondo punto da collegare. |
 
 ### Eccezioni
 
@@ -58,10 +58,10 @@ public void DrawLine(Pen pen, PointF point1, PointF point2)
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -76,7 +76,7 @@ public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile della linea. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile della linea. |
 | x1 | Int32 | La coordinata x del primo punto. |
 | y1 | Int32 | La coordinata y del primo punto. |
 | x2 | Int32 | La coordinata x del secondo punto. |
@@ -90,9 +90,9 @@ public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -107,7 +107,7 @@ public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile della linea. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile della linea. |
 | x1 | Single | La coordinata x del primo punto. |
 | y1 | Single | La coordinata y del primo punto. |
 | x2 | Single | La coordinata x del secondo punto. |
@@ -121,9 +121,9 @@ public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

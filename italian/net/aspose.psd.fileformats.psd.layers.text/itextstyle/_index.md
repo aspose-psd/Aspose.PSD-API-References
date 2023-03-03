@@ -1,14 +1,14 @@
 ---
-title: ITextStyle
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Interfaccia per lavorare con Stile testo
+title: Interface ITextStyle
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle interfaccia. Interfaccia per lavorare con Text Style
 type: docs
-weight: 3480
+weight: 3540
 url: /it/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
 ## ITextStyle interface
 
-Interfaccia per lavorare con Stile testo
+Interfaccia per lavorare con Text Style
 
 ```csharp
 public interface ITextStyle
@@ -18,42 +18,44 @@ public interface ITextStyle
 
 | Nome | Descrizione |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning) { get; set; } | Ottiene o imposta la crenatura automatica. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading) { get; set; } | Ottiene o imposta un valore che indica se [interlinea automatica]. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift) { get; set; } | Lo spostamento della linea di base. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates) { get; set; } | Le alternative contestuali utilizzate per collegare le lettere insieme. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures) { get; set; } | Le legature discrezionali utilizzate per collegare le lettere, specialmente nei caratteri di script. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold) { get; set; } | Ottiene o imposta il grassetto falso è abilitato. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic) { get; set; } | Ottiene o imposta il grassetto falso è abilitato. |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor) { get; set; } | Ottiene o imposta il colore del riempimento. |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline) { get; set; } | La linea di base del carattere. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps) { get; set; } | I caratteri maiuscoli. |
-| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex) { get; } | Ottiene l'indice dei caratteri. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname) { get; set; } | Ottiene o imposta il nome del carattere. |
-| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize) { get; set; } | Ottiene o imposta la dimensione del carattere. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions) { get; set; } | I simboli delle frazioni possono essere sostituiti con glifi speciali. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers) { get; set; } | Ottiene o imposta un valore che indica se [numeri hindi]. |
-| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale) { get; set; } | La scala orizzontale. |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning) { get; set; } | Ottiene o imposta la crenatura. |
-| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex) { get; } | Ottiene l'indice della lingua. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading) { get; set; } | Ottiene o imposta l'interlinea. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures) { get; set; } | Le legature contestuali standard utilizzate per collegare le lettere insieme. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough) { get; set; } | Ottiene o imposta un valore che indica se [strikethrough]. |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor) { get; set; } | Ottiene o imposta il colore del tratto. |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking) { get; set; } | Ottiene o imposta il tracciamento. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline) { get; set; } | Ottiene o imposta un valore che indica se [underline]. |
-| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale) { get; set; } | La scala verticale. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Ottiene o imposta la crenatura automatica. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Ottiene o imposta un valore che indica se [interlinea automatica]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Lo spostamento della linea di base. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Le alternative contestuali utilizzate per collegare insieme le lettere. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Le legature discrezionali utilizzate per collegare le lettere, specialmente nei font script. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Ottiene o imposta il finto grassetto abilitato. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Ottiene o imposta il finto grassetto abilitato. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Ottiene o imposta il colore del riempimento. |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | La linea di base del carattere. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Il carattere maiuscolo. |
+| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Ottiene l'indice del carattere. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Ottiene o imposta il nome del font. |
+| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Ottiene o imposta la dimensione del font. |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | I simboli delle frazioni possono essere sostituiti con glifi speciali. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Ottiene o imposta un valore che indica se [numeri hindi]. |
+| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | La scala orizzontale. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Ottiene o imposta l'allineamento romano verticale standard. Basato sul valore della risorsa BaselineDirection, si applica solo quando l'orientamento del testo èVertical . |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Ottiene o imposta la crenatura. |
+| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Ottiene l'indice della lingua. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Ottiene o imposta l'interlinea. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Ottiene o imposta il valore di non interruzione. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Le legature contestuali standard utilizzate per collegare insieme le lettere. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Ottiene o imposta un valore che indica se [barrato]. |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Ottiene o imposta il colore del tratto. |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Ottiene o imposta il tracciamento. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Ottiene o imposta un valore che indica se [underline]. |
+| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | La scala verticale. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply)(ITextStyle) | Applica lo stile specificato. |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal)(ITextStyle) | Determina se lo stile specificato è uguale. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Applica lo stile specificato. |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Determina se lo stile specificato è uguale. |
 
 ### Esempi
 
-L'esempio seguente mostra come eseguire il rendering di stili diversi in un livello di testo in Aspose.PSD
+L'esempio seguente dimostra come è possibile eseguire il rendering di stili diversi in un livello di testo in Aspose.PSD
 
 ```csharp
 [C#]
@@ -99,12 +101,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Il codice seguente illustra come ottenere la dimensione del carattere per qualsiasi parte di testo nel livello di testo.
+Il codice seguente mostra come ottenere la dimensione del carattere per qualsiasi porzione di testo nel livello di testo.
 
 ```csharp
 [C#]
 
-// Dimensione carattere errata estratta 
+// Dimensione carattere errata errata 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -112,7 +114,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Vecchia API (usando il carattere del primo paragrafo)
+    // Vecchia API (utilizzando il carattere del primo paragrafo)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -141,7 +143,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("Font size was read incorrect");
     }
 
-    // Controllo della dimensione del carattere della porzione reale
+    // Controllo della dimensione del carattere della parte reale
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -149,7 +151,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-Nell'esempio di codice seguente vengono illustrate le parti di testo di modifica e il relativo stile di testo.
+Nell'esempio di codice seguente vengono illustrate le parti di testo modificabili e il relativo stile di testo.
 
 ```csharp
 [C#]
@@ -172,7 +174,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Controllo del testo di ogni porzione
+            // Controllo del testo di ogni parte
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -279,18 +281,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Esempio di modifica di paragrafi e stili per porzioni
-            // Imposta la giusta giustificazione
+            // Esempio di modifica di paragrafo e stile per porzioni
+            // Imposta la giustificazione a destra
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Colori diversi per ogni stile. Verrà modificato, ma il rendering non è completamente supportato
+            // Colori diversi per ogni stile. verrà modificato, ma il rendering non è completamente supportato
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Carattere diverso. Verrà modificato, ma il rendering non è completamente supportato
+            // Carattere diverso. verrà modificato, ma il rendering non è completamente supportato
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -307,7 +309,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Guarda anche
 
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

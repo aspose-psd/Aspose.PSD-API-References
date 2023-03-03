@@ -1,14 +1,14 @@
 ---
-title: CompId
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Ottiene o imposta lID della composizione attualmente selezionata per il documento figlio che sarà 1 se non ne è selezionato nessuno. Le composizioni sono composizioni di un layout di pagina che i designer possono creare. Utilizzando le composizioni di livelli potete creare gestire e visualizzare più versioni di un layout in un unico file Adobe Photoshop. Una composizione di livelli è unistantanea di uno stato del pannello Livelli. Le composizioni livelli salvano tre tipi di opzioni di livello ma questa proprietà ottiene lidentificatore di selezione della composizione livelli per il livello oggetto intelligente nel file PSD. Composizioni di livello in Oggetti avanzatihttps//helpx.adobe.com/photoshop/using/layercomps.html
+title: SmartObjectResource.CompId
+second_title: Aspose.PSD per riferimento API .NET
+description: SmartObjectResource proprietà. Ottiene o imposta lID della composizione attualmente selezionata per il documento figlio che sarà 1 se non ne viene selezionato nessuno. Le composizioni sono composizioni di un layout di pagina che i designer possono creare. Utilizzando le composizioni di livelli puoi creare gestire e visualizzare più versioni di un layout in un unico file Adobe Photoshop. Una composizione di livelli è unistantanea di uno stato del pannello Livelli. Le composizioni di livelli salvano tre tipi di opzioni di livello ma questa proprietà ottiene lidentificatore di selezione della composizione di livelli per il livello oggetto avanzato nel file PSD. Composizioni di livelli in Oggetti avanzati
 type: docs
 weight: 30
 url: /it/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/
 ---
 ## SmartObjectResource.CompId property
 
-Ottiene o imposta l'ID della composizione attualmente selezionata per il documento figlio, che sarà -1 se non ne è selezionato nessuno. Le composizioni sono composizioni di un layout di pagina che i designer possono creare. Utilizzando le composizioni di livelli, potete creare, gestire e visualizzare più versioni di un layout in un unico file Adobe® Photoshop®. Una composizione di livelli è un'istantanea di uno stato del pannello Livelli. Le composizioni livelli salvano tre tipi di opzioni di livello ma questa proprietà ottiene l'identificatore di selezione della composizione livelli per il livello oggetto intelligente nel file PSD. [Composizioni di livello in Oggetti avanzati](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Ottiene o imposta l'ID della composizione attualmente selezionata per il documento figlio, che sarà -1 se non ne viene selezionato nessuno. Le composizioni sono composizioni di un layout di pagina che i designer possono creare. Utilizzando le composizioni di livelli, puoi creare, gestire e visualizzare più versioni di un layout in un unico file Adobe® Photoshop®. Una composizione di livelli è un'istantanea di uno stato del pannello Livelli. Le composizioni di livelli salvano tre tipi di opzioni di livello ma questa proprietà ottiene l'identificatore di selezione della composizione di livelli per il livello oggetto avanzato nel file PSD. [Composizioni di livelli in Oggetti avanzati](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
@@ -16,11 +16,11 @@ public int CompId { get; set; }
 
 ### Valore della proprietà
 
-L'ID della composizione attualmente selezionata per il documento figlio nell'immagine PSD, che sarà -1 se non ne è selezionato nessuno.
+L'ID della composizione attualmente selezionata per il documento secondario nell'immagine PSD, che sarà -1 se non ne viene selezionato nessuno.
 
 ### Esempi
 
-Il codice seguente illustra il supporto delle risorse SoLEResource, SmartObjectResource e PlacedResource.
+Il codice seguente dimostra il supporto delle risorse SoLEResource, SmartObjectResource e PlacedResource.
 
 ```csharp
 [C#]
@@ -106,7 +106,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Questo valore non cambia in risorsa
+    // Questi valori non vengono modificati nella risorsa
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,11 +114,11 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Questi valori devono essere modificati anche in PlLdResource (con il UniqueId specificato).
-    // e alcuni di essi devono essere in accordo con l'oggetto smart sottolineato nel LinkDataSource
+    // Questi valori devono essere modificati anche in PlLdResource (con l'UniqueId specificato).
+    // e alcuni di essi devono essere in accordo con l'oggetto intelligente sottolineato nel LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
-    resource.AntiAliasPolicy = (int)newValues[4]; // 0;
+    resource.AntiAliasPolicy = (int)newValues[4]; //0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
     resource.Perspective = (double)newValues[8]; // 0,123456789;
@@ -141,7 +141,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Questo ID univoco dovrebbe essere modificato nei riferimenti, se presenti
+    // Questo ID univoco deve essere modificato nei riferimenti, se presenti
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,11 +151,11 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Fai attenzione con alcuni parametri: l'immagine salvata potrebbe diventare illeggibile da Adobe® Photoshop®
+    // Fai attenzione ad alcuni parametri: l'immagine salvata potrebbe diventare illeggibile da Adobe® Photoshop®
     ////risorsa.UOrdine = 6;
     ////risorsa.VOrder = 9;
 
-    // Non modificarlo altrimenti non sarai in grado di utilizzare la trasformazione gratuita
+    // Non cambiarlo altrimenti non sarai in grado di usare la trasformazione libera
     // o cambia l'oggetto intelligente sottolineato nel tipo vettoriale
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
@@ -328,7 +328,7 @@ Il codice seguente illustra il supporto della risorsa SoLdResource.
 ```csharp
 [C#]
 
-// Questo esempio mostra come ottenere o impostare le proprietà dei dati del livello degli oggetti intelligenti del file PSD.
+// Questo esempio mostra come ottenere o impostare le proprietà dei dati del livello oggetto avanzato del file PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +562,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Questi valori devono essere modificati anche in PlLdResource (con il UniqueId specificato).
-                // e alcuni di essi devono essere in accordo con l'oggetto smart sottolineato nel LinkDataSource
+                // Questi valori devono essere modificati anche in PlLdResource (con l'UniqueId specificato).
+                // e alcuni di essi devono essere in accordo con l'oggetto intelligente sottolineato nel LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,14 +608,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Questo ID univoco dovrebbe essere modificato nei riferimenti, se presenti
+                // Questo ID univoco deve essere modificato nei riferimenti, se presenti
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Fai attenzione con alcuni parametri: l'immagine potrebbe diventare illeggibile da Adobe® Photoshop®
+                // Fai attenzione ad alcuni parametri: l'immagine potrebbe diventare illeggibile da Adobe® Photoshop®
                 ////risorsa.UOrdine = 6;
                 ////risorsa.VOrder = 9;
 
-                // Non modificarlo altrimenti non sarai in grado di utilizzare la trasformazione gratuita
+                // Non cambiarlo altrimenti non sarai in grado di usare la trasformazione libera
                 // o cambia l'oggetto intelligente sottolineato nel tipo vettoriale
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
@@ -634,8 +634,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Guarda anche
 
-* class [SmartObjectResource](../../smartobjectresource)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource)
+* class [SmartObjectResource](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

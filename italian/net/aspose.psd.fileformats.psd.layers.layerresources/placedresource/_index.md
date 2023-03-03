@@ -1,14 +1,14 @@
 ---
-title: PlacedResource
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Definisce la classe PlacedResource che contiene informazioni comuni su un livello posizionato o un livello oggetto avanzato nel file PSD. Viene utilizzato per supportare i livelli oggetto intelligente nelle immagini di Adobe Photoshop.
+title: Class PlacedResource
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedResource classe. Definisce la classe PlacedResource che contiene informazioni comuni su un livello posizionato o un livello oggetto avanzato nel file PSD. Viene utilizzato per supportare i livelli oggetto avanzato nelle immagini di Adobe Photoshop.
 type: docs
-weight: 2920
+weight: 2940
 url: /it/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/
 ---
 ## PlacedResource class
 
-Definisce la classe PlacedResource che contiene informazioni comuni su un livello posizionato o un livello oggetto avanzato nel file PSD. Viene utilizzato per supportare i livelli oggetto intelligente nelle immagini di Adobe® Photoshop®.
+Definisce la classe PlacedResource che contiene informazioni comuni su un livello posizionato o un livello oggetto avanzato nel file PSD. Viene utilizzato per supportare i livelli oggetto avanzato nelle immagini di Adobe® Photoshop®.
 
 ```csharp
 public abstract class PlacedResource : LayerResource, IPlacedLayerResource
@@ -18,44 +18,44 @@ public abstract class PlacedResource : LayerResource, IPlacedLayerResource
 
 | Nome | Descrizione |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy) { get; set; } | Ottiene o imposta la politica anti alias del livello posizionato nell'immagine PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom) { get; set; } | Ottiene o imposta la posizione inferiore del livello posizionato nell'immagine PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds) { get; set; } | Ottiene o imposta i limiti del livello posizionato nel file PSD. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints) { get; set; } | Ottiene o imposta i punti della mesh orizzontale del livello posizionato nel file PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit) { get; set; } | Ottiene o imposta l'unità di misura dei punti mesh orizzontali. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom) { get; set; } | Ottiene o imposta un valore che indica se questo stile di warp dell'istanza è personalizzato. Se true contiene punti mesh. Se impostato su false cancella i punti della mesh. |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items) { get; set; } | Ottiene o imposta gli elementi di warp. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | Ottiene la chiave della risorsa del livello. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left) { get; set; } | Ottiene o imposta la posizione sinistra del livello posizionato nel file PSD. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
-| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber) { get; set; } | Ottiene o imposta il numero di pagina del livello inserito nel file PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective) { get; set; } | Ottiene o imposta il valore prospettico del livello posizionato nel file PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother) { get; set; } | Ottiene o imposta la prospettiva altro valore del livello posizionato nel file PSD. |
-| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype) { get; set; } | Ottiene o imposta il tipo del livello posizionato nel file PSD. |
-| abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion) { get; } | Ottiene la versione psd minima richiesta per la risorsa di livello. 0 indica nessuna restrizione. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right) { get; set; } | Ottiene o imposta la posizione corretta del livello posizionato nel file PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature) { get; } | Ottiene la firma della risorsa inserita. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top) { get; set; } | Ottiene o imposta la posizione superiore del livello posizionato nell'immagine PSD. |
-| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages) { get; set; } | Ottiene o imposta le pagine totali del livello inserito nel file PSD. |
-| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix) { get; set; } | Ottiene o imposta la matrice di trasformazione del livello inserito nel file PSD. |
-| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid) { get; set; } | Ottiene o imposta l'identificatore univoco globale del livello posizionato nell'immagine PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder) { get; set; } | Ottiene o imposta il valore dell'ordine U del livello inserito nel file PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value) { get; set; } | Ottiene o imposta il valore di warp del livello posizionato nell'immagine PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version) { get; } | Ottiene la versione del livello inserito nel file PSD, in genere 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints) { get; set; } | Ottiene o imposta i punti della mesh orizzontale del livello posizionato nel file PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit) { get; set; } | Ottiene o imposta l'unità di misura dei punti della mesh verticale. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder) { get; set; } | Ottiene o imposta il valore dell'ordine V del livello posizionato nel file PSD. |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Ottiene o imposta la politica anti alias del livello inserito nell'immagine PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Ottiene o imposta la posizione inferiore del livello posizionato nell'immagine PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Ottiene o imposta i limiti del livello posizionato nel file PSD. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Ottiene o imposta i punti di mesh orizzontale del livello posizionato nel file PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Ottiene o imposta l'unità di misura dei punti della maglia orizzontale. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Ottiene o imposta un valore che indica se lo stile warp di questa istanza è personalizzato. Se vero contiene punti mesh. Se impostato su false cancella i punti mesh. |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Ottiene o imposta gli elementi di curvatura. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Ottiene la chiave della risorsa del livello. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Ottiene o imposta la posizione a sinistra del livello inserito nel file PSD. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
+| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | Ottiene o imposta il numero di pagina del livello inserito nel file PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Ottiene o imposta il valore prospettico del livello inserito nel file PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Ottiene o imposta l'altro valore della prospettiva del livello inserito nel file PSD. |
+| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | Ottiene o imposta il tipo di layer posizionato nel file PSD. |
+| abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Ottiene la versione PSD minima richiesta per la risorsa del livello. 0 indica nessuna restrizione. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Ottiene o imposta la posizione corretta del livello inserito nel file PSD. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature/) { get; } | Ottiene la firma della risorsa inserita. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Ottiene o imposta la posizione superiore del livello inserito nell'immagine PSD. |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Ottiene o imposta le pagine totali del livello posizionato nel file PSD. |
+| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Ottiene o imposta la matrice di trasformazione del livello posizionato nel file PSD. |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Ottiene o imposta l'identificatore univoco globale del livello posizionato nell'immagine PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Ottiene o imposta il valore dell'ordine U del livello inserito nel file PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Ottiene o imposta il valore di distorsione del livello posizionato nell'immagine PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Ottiene la versione del livello posizionato nel file PSD, in genere 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Ottiene o imposta i punti di mesh orizzontale del livello posizionato nel file PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Ottiene o imposta l'unità di misura dei punti della maglia verticale. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Ottiene o imposta il valore dell'ordine V del livello posizionato nel file PSD. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Restituisce aString che rappresenta questa istanza. |
+| abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save/)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Restituisce aString che rappresenta questa istanza. |
 
 ### Esempi
 
-Il codice seguente illustra il supporto delle risorse SoLEResource, SmartObjectResource e PlacedResource.
+Il codice seguente dimostra il supporto delle risorse SoLEResource, SmartObjectResource e PlacedResource.
 
 ```csharp
 [C#]
@@ -141,7 +141,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Questo valore non cambia in risorsa
+    // Questi valori non vengono modificati nella risorsa
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -149,11 +149,11 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Questi valori devono essere modificati anche in PlLdResource (con il UniqueId specificato).
-    // e alcuni di essi devono essere in accordo con l'oggetto smart sottolineato nel LinkDataSource
+    // Questi valori devono essere modificati anche in PlLdResource (con l'UniqueId specificato).
+    // e alcuni di essi devono essere in accordo con l'oggetto intelligente sottolineato nel LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
-    resource.AntiAliasPolicy = (int)newValues[4]; // 0;
+    resource.AntiAliasPolicy = (int)newValues[4]; //0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
     resource.Perspective = (double)newValues[8]; // 0,123456789;
@@ -176,7 +176,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Questo ID univoco dovrebbe essere modificato nei riferimenti, se presenti
+    // Questo ID univoco deve essere modificato nei riferimenti, se presenti
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -186,11 +186,11 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Fai attenzione con alcuni parametri: l'immagine salvata potrebbe diventare illeggibile da Adobe® Photoshop®
+    // Fai attenzione ad alcuni parametri: l'immagine salvata potrebbe diventare illeggibile da Adobe® Photoshop®
     ////risorsa.UOrdine = 6;
     ////risorsa.VOrder = 9;
 
-    // Non modificarlo altrimenti non sarai in grado di utilizzare la trasformazione gratuita
+    // Non cambiarlo altrimenti non sarai in grado di usare la trasformazione libera
     // o cambia l'oggetto intelligente sottolineato nel tipo vettoriale
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
@@ -360,9 +360,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Guarda anche
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* interface [IPlacedLayerResource](../iplacedlayerresource)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* interface [IPlacedLayerResource](../iplacedlayerresource/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

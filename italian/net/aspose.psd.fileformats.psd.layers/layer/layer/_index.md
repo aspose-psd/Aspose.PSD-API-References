@@ -1,14 +1,14 @@
 ---
-title: Layer
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Inizializza una nuova istanza diLayeraspose.psd.fileformats.psd.layers/layer classe. Costruttore per linizializzazione pigra.
+title: Layer.Layer
+second_title: Aspose.PSD per riferimento API .NET
+description: Layer costruttore. Inizializza una nuova istanza diLayer classe. Costruttore per inizializzazione pigra.
 type: docs
 weight: 10
 url: /it/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
 ## Layer() {#constructor}
 
-Inizializza una nuova istanza di[`Layer`](../../layer) classe. Costruttore per l'inizializzazione pigra.
+Inizializza una nuova istanza di[`Layer`](../) classe. Costruttore per inizializzazione pigra.
 
 ```csharp
 public Layer()
@@ -16,7 +16,7 @@ public Layer()
 
 ### Esempi
 
-L'esempio seguente mostra come disegnare su un livello appena creato se in Aspose.PSD viene utilizzata la versione del costruttore semplice
+L'esempio seguente mostra come disegnare su un livello appena creato se viene utilizzata la versione del costruttore semplice in Aspose.PSD
 
 ```csharp
 [C#]
@@ -38,7 +38,7 @@ using (var image = new PsdImage(width, height))
     // disegna un rettangolo con lo strumento Penna
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // disegna un altro rettangolo con Pennello solido in colore blu
+    // disegna un altro rettangolo con Solid Brush in colore blu
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -47,15 +47,15 @@ using (var image = new PsdImage(width, height))
 
 ### Guarda anche
 
-* class [Layer](../../layer)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layer)
+* class [Layer](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-Inizializza una nuova istanza di[`Layer`](../../layer) classe.
+Inizializza una nuova istanza di[`Layer`](../) classe.
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
@@ -64,11 +64,11 @@ public Layer(RasterImage image, bool disposeImage = false)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | image | RasterImage | L'immagine. |
-| disposeImage | Boolean | se impostato su`VERO` [smaltire l'immagine]. |
+| disposeImage | Boolean | se impostato su`VERO` [disponi l'immagine]. |
 
 ### Esempi
 
-Il codice seguente dimostra la capacità di caricare file di immagine JPEG/PNG/etc su PsdImage senza caricamento diretto.
+Il codice seguente dimostra la possibilità di caricare file immagine JPEG/PNG/etc su PsdImage senza caricamento diretto.
 
 ```csharp
 [C#]
@@ -102,16 +102,16 @@ using (var image = new PsdImage(200, 200))
 
 ### Guarda anche
 
-* class [RasterImage](../../../aspose.psd/rasterimage)
-* class [Layer](../../layer)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layer)
+* class [RasterImage](../../../aspose.psd/rasterimage/)
+* class [Layer](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Stream) {#constructor_3}
 
-Inizializza una nuova istanza di[`Layer`](../../layer) classe.
+Inizializza una nuova istanza di[`Layer`](../) classe.
 
 ```csharp
 public Layer(Stream stream)
@@ -172,15 +172,15 @@ using (var image = new PsdImage(200, 200))
 
 ### Guarda anche
 
-* class [Layer](../../layer)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layer)
+* class [Layer](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-Inizializza una nuova istanza di[`Layer`](../../layer) classe da array di byte.
+Inizializza una nuova istanza di[`Layer`](../) classe da array di byte.
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
@@ -188,7 +188,7 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| bounds | Rectangle | I limiti del livello. |
+| bounds | Rectangle | Il livello delimita. |
 | redBytes | Byte[] | I byte rossi. |
 | greenBytes | Byte[] | I byte verdi. |
 | blueBytes | Byte[] | I byte blu. |
@@ -198,13 +198,13 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 
 | eccezione | condizione |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Gli array di byte non possono essere vuoti o La lunghezza degli array di byte deve essere uguale alle dimensioni dei limiti (limiti.Larghezza * limiti.Altezza) |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Gli array di byte non possono essere vuoti o La lunghezza degli array di byte deve essere uguale alle dimensioni dei limiti (bounds.Width * bounds.Height) |
 
 ### Guarda anche
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [Layer](../../layer)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layer)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [Layer](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

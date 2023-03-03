@@ -1,14 +1,14 @@
 ---
-title: VectorPathDataResource
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Classe VectorPathDataResource. Questa risorsa contiene informazioni sulla maschera di livello vettoriale
+title: Class VectorPathDataResource
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VectorPathDataResource classe. Class VectorPathDataResource. Questa risorsa contiene informazioni sulla maschera di livello vettoriale
 type: docs
-weight: 3280
+weight: 3340
 url: /it/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/
 ---
 ## VectorPathDataResource class
 
-Classe VectorPathDataResource. Questa risorsa contiene informazioni sulla maschera di livello vettoriale
+Class VectorPathDataResource. Questa risorsa contiene informazioni sulla maschera di livello vettoriale
 
 ```csharp
 public abstract class VectorPathDataResource : LayerResource, IVectorPathData
@@ -18,26 +18,26 @@ public abstract class VectorPathDataResource : LayerResource, IVectorPathData
 
 | Nome | Descrizione |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è disabilitata. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è invertita. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked) { get; set; } | Ottiene o imposta un valore che indica se questa istanza non è collegata. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key) { get; } | Ottiene la chiave della risorsa del livello. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
-| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths) { get; set; } | Ottiene o imposta i record di percorso. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | Ottiene la versione psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature) { get; } | Ottiene la firma. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version) { get; set; } | Ottiene o imposta la versione. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è disabilitata. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è invertita. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Ottiene o imposta un valore che indica se questa istanza non è collegata. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Ottiene la chiave della risorsa del livello. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
+| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Ottiene o imposta i record del percorso. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | Ottiene la versione psd. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | Ottiene la firma. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Ottiene o imposta la versione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Restituisce aString che rappresenta questa istanza. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Restituisce aString che rappresenta questa istanza. |
 
 ### Esempi
 
-L'esempio seguente mostra il supporto dell'elaborazione delle maschere vettoriali di livello. Come funziona la modifica dei tracciati e come Aspose.PSD disegna l'immagine finale.
+L'esempio seguente mostra il supporto dell'elaborazione delle maschere vettoriali di livello. Come funziona l'editing dei tracciati e come Aspose.PSD disegna l'immagine finale.
 
 ```csharp
 [C#]
@@ -80,9 +80,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 ### Guarda anche
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* interface [IVectorPathData](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* interface [IVectorPathData](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

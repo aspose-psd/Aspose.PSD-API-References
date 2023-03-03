@@ -1,14 +1,14 @@
 ---
-title: GradientOverlayEffect
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Effetto livello sfumato
+title: Class GradientOverlayEffect
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect classe. Effetto livello sfumatura
 type: docs
-weight: 2110
+weight: 2130
 url: /it/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
 ## GradientOverlayEffect class
 
-Effetto livello sfumato
+Effetto livello sfumatura
 
 ```csharp
 public class GradientOverlayEffect : ILayerEffect
@@ -18,15 +18,15 @@ public class GradientOverlayEffect : ILayerEffect
 
 | Nome | Descrizione |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode) { get; set; } | Ottiene o imposta la modalità di fusione. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype) { get; } | Ottiene un tipo di effetto |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è visibile. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity) { get; set; } | Ottiene o imposta l'opacità. |
-| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings) { get; set; } | Ottiene o imposta le impostazioni. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/) { get; set; } | Ottiene o imposta la modalità di fusione. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype/) { get; } | Ottiene un tipo di effetto |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è visibile. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/) { get; set; } | Ottiene o imposta l'opacità. |
+| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/) { get; set; } | Ottiene o imposta le impostazioni. |
 
 ### Esempi
 
-Il codice seguente illustra il supporto dell'effetto di sovrapposizione del gradiente.
+Il codice seguente illustra il supporto dell'effetto di sovrapposizione sfumatura.
 
 ```csharp
 [C#]
@@ -101,7 +101,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // Testare la modifica
+    // Modifica di prova
     settings.Color = Color.Green;
 
     gradientOverlay.Opacity = 193;
@@ -115,7 +115,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     settings.VerticalOffset = 11;
     settings.Reverse = true;
 
-    // Aggiungi nuovo punto colore
+    // Aggiungi un nuovo punto di colore
     var colorPoint = settings.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
@@ -124,18 +124,18 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     // Cambia la posizione del punto precedente
     settings.ColorPoints[2].Location = 3000;
 
-    // Aggiunge un nuovo punto di trasparenza
+    // Aggiungi un nuovo punto di trasparenza
     var transparencyPoint = settings.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // Cambia la posizione del punto di trasparenza precedente
+    // Modifica la posizione del punto di trasparenza precedente
     settings.TransparencyPoints[1].Location = 2315;
     im.Save(exportPath);
 }
 
-// Testare il file dopo la modifica
+// Prova il file dopo la modifica
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var gradientOverlay = (GradientOverlayEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -148,7 +148,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(Color.Empty, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
-    // Controlla i punti colore
+    // Controlla i punti di colore
     AssertAreEqual(4, fillSettings.ColorPoints.Length);
 
     var point = fillSettings.ColorPoints[0];
@@ -193,8 +193,8 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### Guarda anche
 
-* interface [ILayerEffect](../ilayereffect)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects)
+* interface [ILayerEffect](../ilayereffect/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

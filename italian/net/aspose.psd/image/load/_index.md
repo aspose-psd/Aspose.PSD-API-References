@@ -1,7 +1,7 @@
 ---
-title: Load
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Carica una nuova immagine dal file specificato.
+title: Image.Load
+second_title: Aspose.PSD per riferimento API .NET
+description: Image metodo. Carica una nuova immagine dal file specificato.
 type: docs
 weight: 20
 url: /it/net/aspose.psd/image/load/
@@ -17,7 +17,7 @@ public static Image Load(string filePath, LoadOptions loadOptions)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | filePath | String | Il percorso del file da cui caricare l'immagine. |
-| loadOptions | LoadOptions | Le opzioni di carico. |
+| loadOptions | LoadOptions | Le opzioni di caricamento. |
 
 ### Valore di ritorno
 
@@ -25,9 +25,9 @@ L'immagine caricata.
 
 ### Guarda anche
 
-* class [LoadOptions](../../loadoptions)
-* class [Image](../../image)
-* spazio dei nomi [Aspose.PSD](../../image)
+* class [LoadOptions](../../loadoptions/)
+* class [Image](../)
+* spazio dei nomi [Aspose.PSD](../../image/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -50,20 +50,20 @@ L'immagine caricata.
 
 ### Esempi
 
-Questo esempio mostra il caricamento di un file immagine esistente in un'istanza di Aspose.PSD.Image utilizzando il percorso del file specificato
+Questo esempio dimostra il caricamento di un file immagine esistente in un'istanza di Aspose.PSD.Image utilizzando il percorso file specificato
 
 ```csharp
 [C#]
 
-//Crea un'istanza di immagine e inizializzala con un file di immagine esistente dalla posizione del disco
+// Crea un'istanza di immagine e inizializzala con un file immagine esistente dalla posizione del disco
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    //eseguo un po' di elaborazione delle immagini
+    //fai un po' di elaborazione delle immagini
 }
 ```
 
-Nell'esempio seguente viene illustrato che l'allineamento del testo tramite ITextPortion per le lingue da destra a sinistra funziona correttamente.
+L'esempio seguente dimostra che l'allineamento del testo tramite ITextPortion per le lingue da destra a sinistra funziona correttamente.
 
 ```csharp
 [C#]
@@ -83,7 +83,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-L'esempio seguente dimostra che la lettura e il salvataggio dei file PSD in scala di grigi a 16 bit a 16 bit per canale RGB funzionano correttamente e senza eccezioni.
+L'esempio seguente dimostra che la lettura e il salvataggio dei file PSD a 16 bit in scala di grigi in RGB a 16 bit per canale funziona correttamente e senza eccezioni.
 
 ```csharp
 [C#]
@@ -116,7 +116,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-L'esempio seguente dimostra che la lettura e il salvataggio dei file PSD in scala di grigi a 16 bit su scala di grigi a 8 bit per canale funzionano correttamente e senza eccezioni.
+L'esempio seguente dimostra che la lettura e il salvataggio dei file PSD a 16 bit della scala di grigi nella scala di grigi a 8 bit per canale funziona correttamente e senza eccezioni.
 
 ```csharp
 [C#]
@@ -257,8 +257,8 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 
 ### Guarda anche
 
-* class [Image](../../image)
-* spazio dei nomi [Aspose.PSD](../../image)
+* class [Image](../)
+* spazio dei nomi [Aspose.PSD](../../image/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -274,7 +274,7 @@ public static Image Load(Stream stream, LoadOptions loadOptions)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | stream | Stream | Il flusso da cui caricare l'immagine. |
-| loadOptions | LoadOptions | Le opzioni di carico. |
+| loadOptions | LoadOptions | Le opzioni di caricamento. |
 
 ### Valore di ritorno
 
@@ -282,9 +282,9 @@ L'immagine caricata.
 
 ### Guarda anche
 
-* class [LoadOptions](../../loadoptions)
-* class [Image](../../image)
-* spazio dei nomi [Aspose.PSD](../../image)
+* class [LoadOptions](../../loadoptions/)
+* class [Image](../)
+* spazio dei nomi [Aspose.PSD](../../image/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -307,7 +307,7 @@ L'immagine caricata.
 
 ### Esempi
 
-Questo esempio mostra l'uso degli oggetti System.IO.Stream per caricare un file immagine esistente
+Questo esempio dimostra l'uso di oggetti System.IO.Stream per caricare un file immagine esistente
 
 ```csharp
 [C#]
@@ -318,15 +318,15 @@ using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.ps
     //Crea un'istanza della classe Image e carica un file esistente tramite l'oggetto FileStream chiamando il metodo Load
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        //eseguo un po' di elaborazione delle immagini.
+        //fai un po' di elaborazione delle immagini.
     }
 }
 ```
 
 ### Guarda anche
 
-* class [Image](../../image)
-* spazio dei nomi [Aspose.PSD](../../image)
+* class [Image](../)
+* spazio dei nomi [Aspose.PSD](../../image/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

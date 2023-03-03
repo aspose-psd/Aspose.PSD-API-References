@@ -1,14 +1,14 @@
 ---
-title: GetCloseImagePalette
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Ottiene la tavolozza dei colori dallimmagine raster pallettizza limmagine nel caso in cui limmagine non ne abbia una. Nel caso esista una tavolozza verrà utilizzata al posto dellesecuzione dei calcoli.
+title: ColorPaletteHelper.GetCloseImagePalette
+second_title: Aspose.PSD per riferimento API .NET
+description: ColorPaletteHelper metodo. Ottiene la tavolozza dei colori dallimmagine raster palettizza limmagine nel caso in cui limmagine non ne abbia una. Nel caso in cui la tavolozza esista verrà utilizzata al posto dellesecuzione dei calcoli.
 type: docs
 weight: 60
 url: /it/net/aspose.psd/colorpalettehelper/getcloseimagepalette/
 ---
 ## GetCloseImagePalette(RasterImage, int) {#getcloseimagepalette_2}
 
-Ottiene la tavolozza dei colori dall'immagine raster (pallettizza l'immagine) nel caso in cui l'immagine non ne abbia una. Nel caso esista una tavolozza, verrà utilizzata al posto dell'esecuzione dei calcoli.
+Ottiene la tavolozza dei colori dall'immagine raster (palettizza l'immagine) nel caso in cui l'immagine non ne abbia una. Nel caso in cui la tavolozza esista, verrà utilizzata al posto dell'esecuzione dei calcoli.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesCount)
@@ -21,21 +21,21 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesC
 
 ### Valore di ritorno
 
-La tavolozza dei colori che inizia con i colori più frequenti del*image* e contiene*entriesCount* voci.
+La tavolozza dei colori che inizia con i colori più frequenti dal*image* e contiene*entriesCount* voci.
 
 ### Guarda anche
 
-* interface [IColorPalette](../../icolorpalette)
-* class [RasterImage](../../rasterimage)
-* class [ColorPaletteHelper](../../colorpalettehelper)
-* spazio dei nomi [Aspose.PSD](../../colorpalettehelper)
+* interface [IColorPalette](../../icolorpalette/)
+* class [RasterImage](../../rasterimage/)
+* class [ColorPaletteHelper](../)
+* spazio dei nomi [Aspose.PSD](../../colorpalettehelper/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int) {#getcloseimagepalette}
 
-Ottiene la tavolozza dei colori dall'immagine raster (pallettizza l'immagine) nel caso in cui l'immagine non ne abbia una. Nel caso esista una tavolozza, verrà utilizzata al posto dell'esecuzione dei calcoli.
+Ottiene la tavolozza dei colori dall'immagine raster (palettizza l'immagine) nel caso in cui l'immagine non ne abbia una. Nel caso in cui la tavolozza esista, verrà utilizzata al posto dell'esecuzione dei calcoli.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
@@ -45,27 +45,27 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | image | RasterImage | L'immagine raster. |
-| destBounds | Rectangle | L'immagine di destinazione delimita. |
+| destBounds | Rectangle | I limiti dell'immagine di destinazione. |
 | entriesCount | Int32 | Le voci desiderate contano. |
 
 ### Valore di ritorno
 
-La tavolozza dei colori che inizia con i colori più frequenti del*image* e contiene*entriesCount* voci.
+La tavolozza dei colori che inizia con i colori più frequenti dal*image* e contiene*entriesCount* voci.
 
 ### Guarda anche
 
-* interface [IColorPalette](../../icolorpalette)
-* class [RasterImage](../../rasterimage)
-* struct [Rectangle](../../rectangle)
-* class [ColorPaletteHelper](../../colorpalettehelper)
-* spazio dei nomi [Aspose.PSD](../../colorpalettehelper)
+* interface [IColorPalette](../../icolorpalette/)
+* class [RasterImage](../../rasterimage/)
+* struct [Rectangle](../../rectangle/)
+* class [ColorPaletteHelper](../)
+* spazio dei nomi [Aspose.PSD](../../colorpalettehelper/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int, bool) {#getcloseimagepalette_1}
 
-Ottiene la tavolozza dei colori dall'immagine raster (pallettizza l'immagine) nel caso in cui l'immagine non ne abbia una. Nel caso esista una tavolozza, verrà utilizzata al posto dell'esecuzione dei calcoli.
+Ottiene la tavolozza dei colori dall'immagine raster (palettizza l'immagine) nel caso in cui l'immagine non ne abbia una. Nel caso in cui la tavolozza esista, verrà utilizzata al posto dell'esecuzione dei calcoli.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
@@ -75,21 +75,21 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | image | RasterImage | L'immagine raster. |
-| destBounds | Rectangle | L'immagine di destinazione delimita. |
+| destBounds | Rectangle | I limiti dell'immagine di destinazione. |
 | entriesCount | Int32 | Le voci desiderate contano. |
-| useImagePalette | Boolean | Se impostato, utilizzerà la propria tavolozza di immagini, se disponibile |
+| useImagePalette | Boolean | Se impostato, utilizzerà la propria tavolozza immagine, se disponibile |
 
 ### Valore di ritorno
 
-La tavolozza dei colori che inizia con i colori più frequenti del*image* e contiene*entriesCount* voci.
+La tavolozza dei colori che inizia con i colori più frequenti dal*image* e contiene*entriesCount* voci.
 
 ### Guarda anche
 
-* interface [IColorPalette](../../icolorpalette)
-* class [RasterImage](../../rasterimage)
-* struct [Rectangle](../../rectangle)
-* class [ColorPaletteHelper](../../colorpalettehelper)
-* spazio dei nomi [Aspose.PSD](../../colorpalettehelper)
+* interface [IColorPalette](../../icolorpalette/)
+* class [RasterImage](../../rasterimage/)
+* struct [Rectangle](../../rectangle/)
+* class [ColorPaletteHelper](../)
+* spazio dei nomi [Aspose.PSD](../../colorpalettehelper/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

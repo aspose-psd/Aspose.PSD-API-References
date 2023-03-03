@@ -1,14 +1,14 @@
 ---
-title: DrawEllipse
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Disegna unellisse definita da un limiteRectangleFaspose.psd/rectanglef .
+title: Graphics.DrawEllipse
+second_title: Aspose.PSD per riferimento API .NET
+description: Graphics metodo. Disegna unellisse definita da un limiteRectangleF .
 type: docs
 weight: 210
 url: /it/net/aspose.psd/graphics/drawellipse/
 ---
 ## DrawEllipse(Pen, RectangleF) {#drawellipse_1}
 
-Disegna un'ellisse definita da un limite[`RectangleF`](../../rectanglef) .
+Disegna un'ellisse definita da un limite[`RectangleF`](../../rectanglef/) .
 
 ```csharp
 public void DrawEllipse(Pen pen, RectangleF rect)
@@ -16,8 +16,8 @@ public void DrawEllipse(Pen pen, RectangleF rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile dell'ellisse. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) struttura che definisce i confini dell'ellisse. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile dell'ellisse. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) struttura che definisce i confini dell'ellisse. |
 
 ### Eccezioni
 
@@ -27,10 +27,10 @@ public void DrawEllipse(Pen pen, RectangleF rect)
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -45,9 +45,9 @@ public void DrawEllipse(Pen pen, float x, float y, float width, float height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile dell'ellisse. |
-| x | Single | Coordinata x dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
-| y | Single | Coordinata y dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile dell'ellisse. |
+| x | Single | La coordinata x dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
+| y | Single | La coordinata y dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
 | width | Single | Larghezza del rettangolo di delimitazione che definisce l'ellisse. |
 | height | Single | Altezza del rettangolo di delimitazione che definisce l'ellisse. |
 
@@ -59,16 +59,16 @@ public void DrawEllipse(Pen pen, float x, float y, float width, float height)
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawEllipse(Pen, Rectangle) {#drawellipse}
 
-Disegna un'ellisse specificata da un limite[`Rectangle`](../../rectangle)struttura.
+Disegna un'ellisse specificata da un limite[`Rectangle`](../../rectangle/)struttura.
 
 ```csharp
 public void DrawEllipse(Pen pen, Rectangle rect)
@@ -76,8 +76,8 @@ public void DrawEllipse(Pen pen, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile dell'ellisse. |
-| rect | Rectangle | [`Rectangle`](../../rectangle) struttura che definisce i confini dell'ellisse. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile dell'ellisse. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) struttura che definisce i confini dell'ellisse. |
 
 ### Eccezioni
 
@@ -87,10 +87,10 @@ public void DrawEllipse(Pen pen, Rectangle rect)
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -105,9 +105,9 @@ public void DrawEllipse(Pen pen, int x, int y, int width, int height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) che determina il colore, la larghezza e lo stile dell'ellisse. |
-| x | Int32 | Coordinata x dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
-| y | Int32 | Coordinata y dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
+| pen | Pen | [`Pen`](../../pen/) che determina il colore, la larghezza e lo stile dell'ellisse. |
+| x | Int32 | La coordinata x dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
+| y | Int32 | La coordinata y dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
 | width | Int32 | Larghezza del rettangolo di delimitazione che definisce l'ellisse. |
 | height | Int32 | Altezza del rettangolo di delimitazione che definisce l'ellisse. |
 
@@ -119,9 +119,9 @@ public void DrawEllipse(Pen pen, int x, int y, int width, int height)
 
 ### Guarda anche
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

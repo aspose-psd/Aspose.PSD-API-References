@@ -1,14 +1,14 @@
 ---
-title: PathMulticolorGradientBrush
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Inizializza una nuova istanza diPathMulticolorGradientBrushaspose.psd.brushes/pathmulticolorgradientbrush classe con i punti specificati.
+title: PathMulticolorGradientBrush.PathMulticolorGradientBrush
+second_title: Aspose.PSD per riferimento API .NET
+description: PathMulticolorGradientBrush costruttore. Inizializza una nuova istanza diPathMulticolorGradientBrush classe con i punti specificati.
 type: docs
 weight: 10
 url: /it/net/aspose.psd.brushes/pathmulticolorgradientbrush/pathmulticolorgradientbrush/
 ---
 ## PathMulticolorGradientBrush(PointF[]) {#constructor_1}
 
-Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../../pathmulticolorgradientbrush) classe con i punti specificati.
+Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../) classe con i punti specificati.
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points)
@@ -16,20 +16,20 @@ public PathMulticolorGradientBrush(PointF[] points)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| points | PointF[] | Una matrice di[`PointF`](../../../aspose.psd/pointf) strutture che rappresentano i punti che compongono i vertici del percorso. |
+| points | PointF[] | Una matrice di[`PointF`](../../../aspose.psd/pointf/) strutture che rappresentano i punti che compongono i vertici del percorso. |
 
 ### Guarda anche
 
-* struct [PointF](../../../aspose.psd/pointf)
-* class [PathMulticolorGradientBrush](../../pathmulticolorgradientbrush)
-* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush)
+* struct [PointF](../../../aspose.psd/pointf/)
+* class [PathMulticolorGradientBrush](../)
+* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../../pathmulticolorgradientbrush) classe con i punti specificati e la modalità di avvolgimento.
+Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../) classe con i punti specificati e la modalità a capo.
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points, WrapMode wrapMode)
@@ -37,22 +37,22 @@ public PathMulticolorGradientBrush(PointF[] points, WrapMode wrapMode)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| points | PointF[] | Una matrice di[`PointF`](../../../aspose.psd/pointf) strutture che rappresentano i punti che compongono i vertici del percorso. |
-| wrapMode | WrapMode | UN[`WrapMode`](../../../aspose.psd/wrapmode) che specifica come riempie disegnato con questo[`PathMulticolorGradientBrush`](../../pathmulticolorgradientbrush) sono piastrellati. |
+| points | PointF[] | Una matrice di[`PointF`](../../../aspose.psd/pointf/) strutture che rappresentano i punti che compongono i vertici del percorso. |
+| wrapMode | WrapMode | UN[`WrapMode`](../../../aspose.psd/wrapmode/) che specifica come riempimenti disegnati con this[`PathMulticolorGradientBrush`](../) sono piastrellati. |
 
 ### Guarda anche
 
-* struct [PointF](../../../aspose.psd/pointf)
-* enum [WrapMode](../../../aspose.psd/wrapmode)
-* class [PathMulticolorGradientBrush](../../pathmulticolorgradientbrush)
-* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush)
+* struct [PointF](../../../aspose.psd/pointf/)
+* enum [WrapMode](../../../aspose.psd/wrapmode/)
+* class [PathMulticolorGradientBrush](../)
+* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[]) {#constructor_3}
 
-Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../../pathmulticolorgradientbrush) classe con i punti specificati.
+Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../) classe con i punti specificati.
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points)
@@ -60,20 +60,20 @@ public PathMulticolorGradientBrush(Point[] points)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| points | Point[] | Una matrice di[`Point`](../../../aspose.psd/point) strutture che rappresentano i punti che compongono i vertici del percorso. |
+| points | Point[] | Una matrice di[`Point`](../../../aspose.psd/point/) strutture che rappresentano i punti che compongono i vertici del percorso. |
 
 ### Guarda anche
 
-* struct [Point](../../../aspose.psd/point)
-* class [PathMulticolorGradientBrush](../../pathmulticolorgradientbrush)
-* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush)
+* struct [Point](../../../aspose.psd/point/)
+* class [PathMulticolorGradientBrush](../)
+* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[], WrapMode) {#constructor_4}
 
-Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../../pathmulticolorgradientbrush) classe con i punti specificati e la modalità di avvolgimento.
+Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../) classe con i punti specificati e la modalità a capo.
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points, WrapMode wrapMode)
@@ -81,22 +81,22 @@ public PathMulticolorGradientBrush(Point[] points, WrapMode wrapMode)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| points | Point[] | Una matrice di[`Point`](../../../aspose.psd/point) strutture che rappresentano i punti che compongono i vertici del percorso. |
-| wrapMode | WrapMode | UN[`WrapMode`](../../../aspose.psd/wrapmode) che specifica come riempie disegnato con questo[`PathMulticolorGradientBrush`](../../pathmulticolorgradientbrush) sono piastrellati. |
+| points | Point[] | Una matrice di[`Point`](../../../aspose.psd/point/) strutture che rappresentano i punti che compongono i vertici del percorso. |
+| wrapMode | WrapMode | UN[`WrapMode`](../../../aspose.psd/wrapmode/) che specifica come riempimenti disegnati con this[`PathMulticolorGradientBrush`](../) sono piastrellati. |
 
 ### Guarda anche
 
-* struct [Point](../../../aspose.psd/point)
-* enum [WrapMode](../../../aspose.psd/wrapmode)
-* class [PathMulticolorGradientBrush](../../pathmulticolorgradientbrush)
-* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush)
+* struct [Point](../../../aspose.psd/point/)
+* enum [WrapMode](../../../aspose.psd/wrapmode/)
+* class [PathMulticolorGradientBrush](../)
+* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(GraphicsPath) {#constructor}
 
-Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../../pathmulticolorgradientbrush) classe con il percorso specificato.
+Inizializza una nuova istanza di[`PathMulticolorGradientBrush`](../) classe con il percorso specificato.
 
 ```csharp
 public PathMulticolorGradientBrush(GraphicsPath path)
@@ -104,13 +104,13 @@ public PathMulticolorGradientBrush(GraphicsPath path)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| path | GraphicsPath | Il[`GraphicsPath`](../../../aspose.psd/graphicspath) che definisce l'area occupata da questo[`PathMulticolorGradientBrush`](../../pathmulticolorgradientbrush). |
+| path | GraphicsPath | IL[`GraphicsPath`](../../../aspose.psd/graphicspath/) che definisce l'area riempita da questo[`PathMulticolorGradientBrush`](../). |
 
 ### Guarda anche
 
-* class [GraphicsPath](../../../aspose.psd/graphicspath)
-* class [PathMulticolorGradientBrush](../../pathmulticolorgradientbrush)
-* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush)
+* class [GraphicsPath](../../../aspose.psd/graphicspath/)
+* class [PathMulticolorGradientBrush](../)
+* spazio dei nomi [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
