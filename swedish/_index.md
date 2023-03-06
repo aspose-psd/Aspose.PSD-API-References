@@ -5,8 +5,7 @@ type: docs
 weight: 10
 url: /sv/
 keywords: Photoshop C# Library, Photoshop Java API
-description: Photoshop C# Library, Photoshop Java API
-Beskrivning: Photoshop C# och Java API: er eller bibliotek tillåter en omfattande manipulation av PSD -filformat. Produkterna kräver inte att Adobe Photoshop installeras och stöder PSD- och PSB -filformat för lastning, manipulation och konvertering av dem till olika rasterfilformat som TIFF, JPEG, JPEG2000, PNG, GIF och BMP.
+description: Photoshop C# och Java API:er eller bibliotek tillåter en omfattande manipulation av PSD-filformat. Produkterna kräver inte att Adobe Photoshop är installerat och stöder PSD- och PSB-filformat för att ladda, manipulera och konvertera dem till olika rasterfilformat som TIFF, JPEG, JPEG2000, PNG, GIF och BMP.
 ---
 
 ## Aspose.psd för .NET
