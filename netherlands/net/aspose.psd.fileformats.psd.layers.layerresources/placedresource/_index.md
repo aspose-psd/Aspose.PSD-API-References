@@ -1,0 +1,368 @@
+---
+title: Class PlacedResource
+second_title: Aspose.PSD voor .NET API-referentie
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedResource klas. Definieert de klasse PlacedResource die algemene informatie bevat over een geplaatste laag of een slimme objectlaag in het PSDbestand. Wordt gebruikt om slimme objectlagen in de Adobe Photoshopafbeeldingen te ondersteunen.
+type: docs
+weight: 2940
+url: /nl/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/
+---
+## PlacedResource class
+
+Definieert de klasse PlacedResource die algemene informatie bevat over een geplaatste laag of een slimme objectlaag in het PSD-bestand. Wordt gebruikt om slimme objectlagen in de Adobe® Photoshop®-afbeeldingen te ondersteunen.
+
+```csharp
+public abstract class PlacedResource : LayerResource, IPlacedLayerResource
+```
+
+## Eigenschappen
+
+| Naam | Beschrijving |
+| --- | --- |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Hiermee wordt het anti-aliasbeleid van de geplaatste laag in de PSD-afbeelding opgehaald of ingesteld. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Haalt de onderste locatie van de geplaatste laag in de PSD-afbeelding op of stelt deze in. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Haalt of stelt de grenzen van de geplaatste laag in het PSD-bestand in. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Haalt of stelt de horizontale mesh-punten van de geplaatste laag in het PSD-bestand in. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Hiermee wordt de maateenheid van de horizontale netpunten opgehaald of ingesteld. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Hiermee wordt een waarde opgehaald of ingesteld die aangeeft of deze instantie warp-stijl aangepast is. Indien waar bevat deze mesh-punten. Indien ingesteld op false, worden mesh-punten gewist. |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Haalt of stelt de warp-items in. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Haalt de laagbronsleutel op. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Haalt of stelt de linkerlocatie van de geplaatste laag in het PSD-bestand in. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Haalt de resourcelengte van de laag op in bytes. |
+| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | Haalt of stelt het paginanummer van de geplaatste laag in het PSD-bestand in. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Haalt de perspectiefwaarde van de geplaatste laag in het PSD-bestand op of stelt deze in. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Haalt of stelt de andere perspectiefwaarde van de geplaatste laag in het PSD-bestand in. |
+| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | Haalt of stelt het type van de geplaatste laag in het PSD-bestand in. |
+| abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Haalt de minimale psd-versie op die vereist is voor laagresource. 0 geeft geen beperkingen aan. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Haalt of stelt de juiste locatie van de geplaatste laag in het PSD-bestand in. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature/) { get; } | Haalt de handtekening van de geplaatste bron op. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Haalt of stelt de bovenste locatie van de geplaatste laag in de PSD-afbeelding in. |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Haalt of stelt het totale aantal pagina's van de geplaatste laag in het PSD-bestand in. |
+| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Hiermee wordt de transformatiematrix van de geplaatste laag in het PSD-bestand opgehaald of ingesteld. |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Haalt de globale unieke identificatie van de geplaatste laag in de PSD-afbeelding op of stelt deze in. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Haalt of stelt de U-volgordewaarde van de geplaatste laag in het PSD-bestand in. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Haalt de warpwaarde van de geplaatste laag in de PSD-afbeelding op of stelt deze in. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Haalt de versie op van de geplaatste laag in het PSD-bestand, meestal 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Haalt of stelt de horizontale mesh-punten van de geplaatste laag in het PSD-bestand in. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Hiermee wordt de maateenheid van de verticale netpunten opgehaald of ingesteld. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Haalt de V-volgordewaarde van de geplaatste laag in het PSD-bestand op of stelt deze in. |
+
+## methoden
+
+| Naam | Beschrijving |
+| --- | --- |
+| abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save/)(StreamContainer, int) | Slaat de bron op in de opgegeven streamcontainer. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Geeft als resultaat eenString die deze instantie vertegenwoordigt. |
+
+### Voorbeelden
+
+De volgende code demonstreert de ondersteuning van de bronnen SoLEResource, SmartObjectResource en PlacedResource.
+
+```csharp
+[C#]
+
+void AssertIsTrue(bool condition)
+{
+    if (!condition)
+    {
+        throw new FormatException(string.Format("Expected true"));
+    }
+}
+
+void AssertAreEqual(object actual, object expected)
+{
+    var areEqual = object.Equals(actual, expected);
+    if (!areEqual && actual is Array && expected is Array)
+    {
+        var actualArray = (Array)actual;
+        var expectedArray = (Array)actual;
+        if (actualArray.Length == expectedArray.Length)
+        {
+            for (int i = 0; i < actualArray.Length; i++)
+            {
+                if (!object.Equals(actualArray.GetValue(i), expectedArray.GetValue(i)))
+                {
+                    break;
+                }
+            }
+
+            areEqual = true;
+        }
+    }
+
+    if (!areEqual)
+    {
+        throw new FormatException(
+            string.Format("Actual value {0} are not equal to expected {1}.", actual, expected));
+    }
+}
+
+void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource resource)
+{
+    AssertAreEqual(expectedValue[0], resource.IsCustom);
+    AssertAreEqual(expectedValue[2], resource.PageNumber);
+    AssertAreEqual(expectedValue[3], resource.TotalPages);
+    AssertAreEqual(expectedValue[4], resource.AntiAliasPolicy);
+    AssertAreEqual(expectedValue[5], resource.PlacedLayerType);
+    AssertAreEqual(8, resource.TransformMatrix.Length);
+    AssertAreEqual((double[])expectedValue[6], resource.TransformMatrix);
+    AssertAreEqual(expectedValue[7], resource.Value);
+    AssertAreEqual(expectedValue[8], resource.Perspective);
+    AssertAreEqual(expectedValue[9], resource.PerspectiveOther);
+    AssertAreEqual(expectedValue[10], resource.Top);
+    AssertAreEqual(expectedValue[11], resource.Left);
+    AssertAreEqual(expectedValue[12], resource.Bottom);
+    AssertAreEqual(expectedValue[13], resource.Right);
+    AssertAreEqual(expectedValue[14], resource.UOrder);
+    AssertAreEqual(expectedValue[15], resource.VOrder);
+
+    AssertAreEqual(expectedValue[16], resource.Crop);
+    AssertAreEqual(expectedValue[17], resource.FrameStepNumerator);
+    AssertAreEqual(expectedValue[18], resource.FrameStepDenominator);
+    AssertAreEqual(expectedValue[19], resource.DurationNumerator);
+    AssertAreEqual(expectedValue[20], resource.DurationDenominator);
+    AssertAreEqual(expectedValue[21], resource.FrameCount);
+    AssertAreEqual(expectedValue[22], resource.Width);
+    AssertAreEqual(expectedValue[23], resource.Height);
+    AssertAreEqual(expectedValue[24], resource.Resolution);
+    AssertAreEqual(expectedValue[25], resource.ResolutionUnit);
+    AssertAreEqual(expectedValue[26], resource.Comp);
+    AssertAreEqual(expectedValue[27], resource.CompId);
+    AssertAreEqual(expectedValue[28], resource.OriginalCompId);
+    AssertAreEqual(expectedValue[29], resource.PlacedId.ToString());
+    AssertAreEqual(expectedValue[30], resource.NonAffineTransformMatrix);
+    if (resource.IsCustom)
+    {
+        AssertAreEqual(expectedValue[31], resource.HorizontalMeshPointUnit);
+        AssertAreEqual((double[])expectedValue[32], resource.HorizontalMeshPoints);
+        AssertAreEqual(expectedValue[33], resource.VerticalMeshPointUnit);
+        AssertAreEqual((double[])expectedValue[34], resource.VerticalMeshPoints);
+    }
+}
+
+void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
+{
+    // Deze waarden veranderen we niet in de bron
+    newValues[0] = resource.IsCustom;
+    newValues[1] = resource.UniqueId.ToString();
+    newValues[5] = resource.PlacedLayerType;
+    newValues[14] = resource.UOrder;
+    newValues[15] = resource.VOrder;
+    newValues[28] = resource.OriginalCompId;
+
+    // Deze waarden moeten ook worden gewijzigd in de PlLdResource (met de opgegeven UniqueId).
+    // en sommige moeten in overeenstemming zijn met het onderstreepte slimme object in de LinkDataSource
+    resource.PageNumber = (int)newValues[2]; // 2;
+    resource.TotalPages = (int)newValues[3]; // 3;
+    resource.AntiAliasPolicy = (int)newValues[4]; // 0;
+    resource.TransformMatrix = (double[])newValues[6];
+    resource.Value = (double)newValues[7]; // 1,23456789;
+    resource.Perspective = (double)newValues[8]; // 0,123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Top = (double)newValues[10]; // -126;
+    resource.Left = (double)newValues[11]; // -215;
+    resource.Bottom = (double)newValues[12]; // 248;
+    resource.Right = (double)newValues[13]; // 145;
+    resource.Crop = (int)newValues[16]; // 5;
+    resource.FrameStepNumerator = (int)newValues[17]; // 1;
+    resource.FrameStepDenominator = (int)newValues[18]; // 601;
+    resource.DurationNumerator = (int)newValues[19]; // 2;
+    resource.DurationDenominator = (int)newValues[20]; // 602;
+    resource.FrameCount = (int)newValues[21]; // 11;
+    resource.Width = (double)newValues[22]; // 541;
+    resource.Height = (double)newValues[23]; // 249;
+    resource.Resolution = (double)newValues[24]; // 144;
+    resource.ResolutionUnit = (UnitTypes)newValues[25];
+    resource.Comp = (int)newValues[26]; // 21;
+    resource.CompId = (int)newValues[27]; // 22;
+    resource.NonAffineTransformMatrix = (double[])newValues[30];
+
+    // Deze unieke ID moet in eventuele referenties worden gewijzigd
+    resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
+    if (resource.IsCustom)
+    {
+        resource.HorizontalMeshPointUnit = (UnitTypes)newValues[31];
+        resource.HorizontalMeshPoints = (double[])newValues[32];
+        resource.VerticalMeshPointUnit = (UnitTypes)newValues[33];
+        resource.VerticalMeshPoints = (double[])newValues[34];
+    }
+
+    // Wees voorzichtig met sommige parameters: de opgeslagen afbeelding kan onleesbaar worden door Adobe® Photoshop®
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
+
+    // Wijzig dit niet, anders kunt u geen gratis transformatie gebruiken
+    // of verander het onderstreepte slimme object in het vectortype
+    ////resource.PlacedLayerType = PlacedLayerType.Vector;
+
+    // Er moet een geldige PlLdResource zijn met deze unieke ID
+    ////resource.UniqueId = nieuwe GUID ("98765432-10fe-cba0-1234-56789abcdef0");
+}
+
+object[] newSmartValues = new object[]
+{
+    true,
+    null,
+    2,
+    3,
+    0,
+    PlacedLayerType.ImageStack,
+    new double[8]
+    {
+        12.937922786050663,
+        19.419959734187131,
+        2.85445817782261,
+        1.0540625423957124,
+        7.20861031651307,
+        14.634102808208553,
+        17.292074924741144,
+        4
+    },
+    1.23456789,
+    0.123456789,
+    0.987654321,
+    -126d,
+    -215d,
+    248d,
+    145d,
+    4,
+    4,
+    5,
+    1,
+    601,
+    2,
+    602,
+    11,
+    541d,
+    249d,
+    144d,
+    UnitTypes.Percent,
+    21,
+    22,
+    23,
+    "12345678-9abc-def0-9876-54321fecba98",
+    new double[8]
+    {
+        129.937922786050663,
+        195.419959734187131,
+        26.85445817782261,
+        12.0540625423957124,
+        72.20861031651307,
+        147.634102808208553,
+        175.292074924741144,
+        42
+    },
+    UnitTypes.Points,
+    new double[16]
+    {
+        0.01d, 103.33333333333433d, 206.66686666666666d, 310.02d,
+        0.20d, 103.33333333333533d, 206.69666666666666d, 310.03d,
+        30.06d, 103.33333333336333d, 206.66660666666666d, 310.04d,
+        04.05d, 103.33333333373333d, 206.66666166666666d, 310.05d
+    },
+    UnitTypes.Distance,
+    new double[16]
+    {
+        0.06d, 0.07d, 0.08d, 0.09d,
+        49.066666666666664d, 49.266666666666664d, 49.566666666666664d, 49.766666666666664d,
+        99.133333333333329d, 99.433333333333329d, 99.633333333333329d, 99.833333333333329d,
+        140, 141, 142, 143,
+    },
+};
+
+object[] expectedValues = new object[]
+{
+    new object[]
+    {
+        false,
+        "5867318f-3174-9f41-abca-22f56a75247e",
+        1,
+        1,
+        0x10,
+        PlacedLayerType.Raster,
+        new double[8]
+        {
+            0, 0, 2, 0, 2, 2, 0, 2
+        },
+        0d,
+        0d,
+        0d,
+        0d,
+        0d,
+        2d,
+        2d,
+        4,
+        4,
+        1,
+        0,
+        600,
+        0,
+        600,
+        1,
+        2d,
+        2d,
+        72d,
+        UnitTypes.Density,
+        -1,
+        -1,
+        -1,
+        "64b3997c-06e0-be40-a349-41acf397c897",
+        new double[8]
+        {
+            0, 0, 2, 0, 2, 2, 0, 2
+        },
+    }
+};
+
+var sourceFilePath = "rgb8_2x2_linked.psd";
+var outputPath = "rgb8_2x2_linked_output.psd";
+using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
+{
+    SoLeResource soleResource = null;
+    int index = 0;
+    foreach (Layer imageLayer in image.Layers)
+    {
+        foreach (var imageResource in imageLayer.Resources)
+        {
+            var resource = imageResource as SoLeResource;
+            if (resource != null)
+            {
+                soleResource = resource;
+                var expectedValue = (object[])expectedValues[index++];
+                AssertAreEqual(expectedValue[1], resource.UniqueId.ToString());
+                CheckSmartObjectResourceValues(expectedValue, resource);
+                SetNewSmartValues(resource, newSmartValues);
+
+                break;
+            }
+        }
+    }
+
+    AssertIsTrue(soleResource != null);
+    image.Save(outputPath, new PsdOptions(image));
+    using (PsdImage savedImage = (PsdImage)Image.Load(outputPath))
+    {
+        foreach (Layer imageLayer in savedImage.Layers)
+        {
+            foreach (var imageResource in imageLayer.Resources)
+            {
+                var resource = imageResource as SoLeResource;
+                if (resource != null)
+                {
+                    CheckSmartObjectResourceValues(newSmartValues, resource);
+
+                    break;
+                }
+            }
+        }
+    }
+}
+```
+
+### Zie ook
+
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* interface [IPlacedLayerResource](../iplacedlayerresource/)
+* naamruimte [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* montage [Aspose.PSD](../../)
+
+
