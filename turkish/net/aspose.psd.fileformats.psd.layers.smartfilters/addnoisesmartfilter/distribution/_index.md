@@ -1,0 +1,96 @@
+---
+title: AddNoiseSmartFilter.Distribution
+second_title: Aspose.PSD for .NET API Referansı
+description: AddNoiseSmartFilter mülk. Gürültü filtresinin dağıtımını alır veya ayarlar.
+type: docs
+weight: 30
+url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/
+---
+## AddNoiseSmartFilter.Distribution property
+
+Gürültü filtresinin dağıtımını alır veya ayarlar.
+
+```csharp
+public NoiseDistribution Distribution { get; set; }
+```
+
+### Örnekler
+
+Bu örnek, akıllı filtreler arabiriminin desteğini gösterir.
+
+```csharp
+[C#]
+
+string sourceFilte = "r2_SmartFilters.psd";
+string outputPsd = "out_r2_SmartFilters.psd";
+
+void AssertAreEqual(object expected, object actual)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new Exception("Objects are not equal.");
+    }
+}
+
+using (var image = (PsdImage)Image.Load(sourceFilte))
+{
+    SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
+
+    // akıllı filtreleri düzenle
+    GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
+
+    // filtre değerlerini kontrol et
+    AssertAreEqual(3.1, gaussianBlur.Radius);
+    AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
+    AssertAreEqual(90d, gaussianBlur.Opacity);
+    AssertAreEqual(true, gaussianBlur.IsEnabled);
+
+    // filtre değerlerini güncelle
+    gaussianBlur.Radius = 1;
+    gaussianBlur.BlendMode = BlendMode.Divide;
+    gaussianBlur.Opacity = 75;
+    gaussianBlur.IsEnabled = false;
+    AddNoiseSmartFilter addNoise = (AddNoiseSmartFilter)smartObj.SmartFilters.Filters[1];
+    addNoise.Distribution = NoiseDistribution.Uniform;
+
+    // yeni filtre öğeleri ekle
+    var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
+    filters.Add(new GaussianBlurSmartFilter());
+    filters.Add(new AddNoiseSmartFilter());
+    smartObj.SmartFilters.Filters = filters.ToArray();
+
+    // değişiklikleri uygula
+    smartObj.SmartFilters.UpdateResourceValues();
+
+    // Filtreleri uygula
+    smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
+    smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
+
+    image.Save(outputPsd);
+}
+
+using (var image = (PsdImage)Image.Load(outputPsd))
+{
+    SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
+
+    GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
+
+    // filtre değerlerini kontrol et
+    AssertAreEqual(1d, gaussianBlur.Radius);
+    AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
+    AssertAreEqual(75d, gaussianBlur.Opacity);
+    AssertAreEqual(false, gaussianBlur.IsEnabled);
+
+    AssertAreEqual(true, smartObj.SmartFilters.Filters[5] is GaussianBlurSmartFilter);
+    AssertAreEqual(true, smartObj.SmartFilters.Filters[6] is AddNoiseSmartFilter);
+}
+```
+
+### Ayrıca bakınız
+
+* enum [NoiseDistribution](../../noisedistribution/)
+* class [AddNoiseSmartFilter](../)
+* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
+* toplantı [Aspose.PSD](../../../)
+
+

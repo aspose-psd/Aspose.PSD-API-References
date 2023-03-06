@@ -1,0 +1,75 @@
+---
+title: ImageAttributes.SetWrapMode
+second_title: Aspose.PSD för .NET API-referens
+description: ImageAttributes metod. Ställer in lindningsläget som används för att bestämma hur en textur ska kaklas över en form eller vid formgränser. En textur är sida vid sida över en form för att fylla i den när strukturen är mindre än formen den fyller.
+type: docs
+weight: 210
+url: /sv/net/aspose.psd/imageattributes/setwrapmode/
+---
+## SetWrapMode(WrapMode) {#setwrapmode}
+
+Ställer in lindningsläget som används för att bestämma hur en textur ska kaklas över en form eller vid formgränser. En textur är sida vid sida över en form för att fylla i den när strukturen är mindre än formen den fyller.
+
+```csharp
+public void SetWrapMode(WrapMode mode)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| mode | WrapMode | Ett inslag av[`WrapMode`](../../wrapmode/) som anger hur upprepade kopior av en bild används för att kakla ett område. |
+
+### Se även
+
+* enum [WrapMode](../../wrapmode/)
+* class [ImageAttributes](../)
+* namnutrymme [Aspose.PSD](../../imageattributes/)
+* hopsättning [Aspose.PSD](../../../)
+
+---
+
+## SetWrapMode(WrapMode, Color) {#setwrapmode_1}
+
+Ställer in lindningsläget och färgen som används för att bestämma hur en textur ska kaklas över en form eller vid formgränser. En textur är sida vid sida över en form för att fylla i den när strukturen är mindre än formen den fyller.
+
+```csharp
+public void SetWrapMode(WrapMode mode, Color color)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| mode | WrapMode | Ett inslag av[`WrapMode`](../../wrapmode/) som anger hur upprepade kopior av en bild används för att kakla ett område. |
+| color | Color | En[`ImageAttributes`](../) objekt som anger färgen på pixlar utanför en renderad bild. Denna färg är synlig om lägesparametern är inställd påClamp och källrektangeln som skickas till DrawImage är större än själva bilden. |
+
+### Se även
+
+* enum [WrapMode](../../wrapmode/)
+* struct [Color](../../color/)
+* class [ImageAttributes](../)
+* namnutrymme [Aspose.PSD](../../imageattributes/)
+* hopsättning [Aspose.PSD](../../../)
+
+---
+
+## SetWrapMode(WrapMode, Color, bool) {#setwrapmode_2}
+
+Ställer in lindningsläget och färgen som används för att bestämma hur en textur ska kaklas över en form eller vid formgränser. En textur är sida vid sida över en form för att fylla i den när strukturen är mindre än formen den fyller.
+
+```csharp
+public void SetWrapMode(WrapMode mode, Color color, bool clamp)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| mode | WrapMode | Ett inslag av[`WrapMode`](../../wrapmode/) som anger hur upprepade kopior av en bild används för att kakla ett område. |
+| color | Color | Ett färgobjekt som anger färgen på pixlar utanför en renderad bild. Denna färg är synlig om lägesparametern är inställd påClamp och källrektangeln som skickas till DrawImage är större än själva bilden. |
+| clamp | Boolean | Denna parameter har ingen effekt. Ställ in den på false. |
+
+### Se även
+
+* enum [WrapMode](../../wrapmode/)
+* struct [Color](../../color/)
+* class [ImageAttributes](../)
+* namnutrymme [Aspose.PSD](../../imageattributes/)
+* hopsättning [Aspose.PSD](../../../)
+
+
