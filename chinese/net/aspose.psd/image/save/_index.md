@@ -1,14 +1,14 @@
 ---
-title: Save
+title: Image.Save
 second_title: Aspose.PSD for .NET API 参考
-description: 将图像数据保存到底层流
+description: Image 方法. 将图像数据保存到底层流中
 type: docs
 weight: 230
 url: /zh/net/aspose.psd/image/save/
 ---
 ## Save() {#save}
 
-将图像数据保存到底层流。
+将图像数据保存到底层流中。
 
 ```csharp
 public void Save()
@@ -16,15 +16,15 @@ public void Save()
 
 ### 也可以看看
 
-* class [Image](../../image)
-* 命名空间 [Aspose.PSD](../../image)
+* class [Image](../)
+* 命名空间 [Aspose.PSD](../../image/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase) {#save_5}
 
-根据保存选项将对象的数据以指定的文件格式保存到指定的文件位置。
+根据保存选项以指定的文件格式将对象的数据保存到指定的文件位置。
 
 ```csharp
 public virtual void Save(string filePath, ImageOptionsBase options)
@@ -37,7 +37,7 @@ public virtual void Save(string filePath, ImageOptionsBase options)
 
 ### 例子
 
-以下示例演示了如何在 Aspose.PSD 中将 Adobe Illustrator 文件导出为 PDF 格式
+以下示例演示如何在 Aspose.PSD 中将 Adobe Illustrator 文件导出为 PDF 格式
 
 ```csharp
 [C#]
@@ -50,12 +50,12 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-以下示例演示 AsposePSD 支持将 PSB 文件导出为 PSD 格式。
+下面的例子演示了 AsposePSD 支持将 PSB 文件导出为 PSD 格式。
 
 ```csharp
 [C#]
 
-// 支持将 PSB 保存为 PDF
+// 支持将PSB保存为PDF
 string sourceFileName = "sample.psb";
 string outFileName = "sample.pdf";
 
@@ -70,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ```csharp
 [C#]
 
-// 将 PSD 保存为 PDF 不提供可选文本
+// 将 PSD 保存为 PDF 不提供可选择的文本
 string sourceFileName = "text.psd";
 string outFileName = "text.pdf";
 
@@ -80,7 +80,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示了如何在 Aspose.PSD 中将 AI 文件导出为 PSD 和 PNG 格式
+以下示例演示如何在 Aspose.PSD 中将 AI 文件导出为 PSD 和 PNG 格式
 
 ```csharp
 [C#]
@@ -94,7 +94,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-下面的示例演示了通过 ITextPortion 的从右到左语言的文本对齐工作正常。
+以下示例演示了通过 ITextPortion 对从右到左的语言进行的文本对齐可以正常工作。
 
 ```csharp
 [C#]
@@ -114,23 +114,23 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-此示例显示了保存图像的简单步骤。为了演示此操作，我们从某个磁盘位置加载现有文件，对图像执行旋转操作并使用文件路径将图像保存为 Jpeg 文件格式
+此示例显示了保存图像的简单步骤。为了演示此操作，我们从某个磁盘位置加载现有文件，对图像执行旋转操作并使用文件路径以 Jpeg 文件格式保存图像
 
 ```csharp
 [C#]
 
-//创建一个image类的实例，并通过File path用已有的文件对其进行初始化
+//创建图像类的实例并通过文件路径用现有文件对其进行初始化
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    //将图像绕X轴旋转180度
+    //图像绕X轴旋转180度
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-    //使用默认 JpegOptions 设置将图像另存为 Jpeg 到文件路径
+    //使用默认的 JpegOptions 设置将图像保存为 Jpeg 到文件路径
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 }
 ```
 
-以下示例演示了如何在 Aspose.PSD 中更改 LayerGroup 可见性
+以下示例演示了如何更改 Aspose.PSD 中的 LayerGroup 可见性
 
 ```csharp
 [C#]
@@ -156,7 +156,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-以下示例演示了如果在 Aspose.PSD 中使用简单构造函数版本，您如何在新创建的图层上绘图
+下面的示例演示了如果在 Aspose.PSD 中使用简单的构造函数版本，您可以如何在新创建的图层上绘图
 
 ```csharp
 [C#]
@@ -178,14 +178,14 @@ using (var image = new PsdImage(width, height))
     // 用钢笔工具画一个矩形
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // 用蓝色实心笔刷绘制另一个矩形
+    // 用蓝色实心画笔绘制另一个矩形
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-下面的示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 16 位 RGB 的工作正常且无异常。
+以下示例演示读取灰度 16 位 PSD 文件并将其保存为每通道 16 位 RGB 工作正常且无异常。
 
 ```csharp
 [C#]
@@ -218,7 +218,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-下面的示例演示了读取灰度 16 位 PSD 文件并将其保存为每通道 8 位灰度的工作正常且无异常。
+以下示例演示了读取 16 位灰度 PSD 文件并将其保存为每通道 8 位灰度的工作正常且无一例外。
 
 ```csharp
 [C#]
@@ -292,7 +292,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示了文档转换进度正常且无异常。
+以下示例演示文档转换进度正常且无异常。
 
 ```csharp
 [C#]
@@ -336,7 +336,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-以下示例演示了读取和保存灰度 16 位 PSD 文件的工作正常且无异常。
+以下示例演示了读取和保存灰度 16 位 PSD 文件的工作正常且没有异常。
 
 ```csharp
 [C#]
@@ -400,16 +400,16 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 
 ### 也可以看看
 
-* class [ImageOptionsBase](../../imageoptionsbase)
-* class [Image](../../image)
-* 命名空间 [Aspose.PSD](../../image)
+* class [ImageOptionsBase](../../imageoptionsbase/)
+* class [Image](../)
+* 命名空间 [Aspose.PSD](../../image/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase, Rectangle) {#save_6}
 
-根据保存选项将对象的数据以指定的文件格式保存到指定的文件位置。
+根据保存选项以指定的文件格式将对象的数据保存到指定的文件位置。
 
 ```csharp
 public virtual void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
@@ -419,28 +419,28 @@ public virtual void Save(string filePath, ImageOptionsBase options, Rectangle bo
 | --- | --- | --- |
 | filePath | String | 文件路径。 |
 | options | ImageOptionsBase | 选项。 |
-| boundsRectangle | Rectangle | 目标图像边界矩形。为使用源边界设置空矩形。 |
+| boundsRectangle | Rectangle | 目标图像边界矩形。设置空矩形以使用源边界。 |
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 选项 |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | 图片保存失败。 |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | 图片保存失败。 |
 
 ### 也可以看看
 
-* class [ImageOptionsBase](../../imageoptionsbase)
-* struct [Rectangle](../../rectangle)
-* class [Image](../../image)
-* 命名空间 [Aspose.PSD](../../image)
+* class [ImageOptionsBase](../../imageoptionsbase/)
+* struct [Rectangle](../../rectangle/)
+* class [Image](../)
+* 命名空间 [Aspose.PSD](../../image/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase) {#save_2}
 
-根据保存选项将图像的数据以指定的文件格式保存到指定的流中。
+根据保存选项以指定文件格式将图像数据保存到指定流。
 
 ```csharp
 public void Save(Stream stream, ImageOptionsBase optionsBase)
@@ -455,27 +455,27 @@ public void Save(Stream stream, ImageOptionsBase optionsBase)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 选项库 |
-| ArgumentException | 无法保存为指定的格式，因为目前不支持。;optionsBase |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | 图片导出失败。 |
+| ArgumentNullException | 选项基础 |
+| ArgumentException | 无法保存为指定的格式，因为目前不支持它。;optionsBase |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | 图片导出失败。 |
 
 ### 例子
 
-此示例显示将图像保存到 MemoryStream 的过程。为了演示此操作，示例从某个磁盘位置加载现有文件，对图像执行旋转操作并以 Gif 格式保存图像
+此示例显示将图像保存到 MemoryStream 的过程。为了演示此操作，示例从某个磁盘位置加载现有文件，对图像执行旋转操作并将图像保存为 Gif 格式
 
 ```csharp
 [C#]
 
-//创建一个MemoryStream实例
+//创建一个内存流实例
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //创建一个image类的实例，并通过File path用已有的文件对其进行初始化
+    //创建图像类的实例并通过文件路径用现有文件对其进行初始化
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
     {
-        //将图像绕X轴旋转180度
+        //图像绕X轴旋转180度
         image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-        //使用默认 GifOptions 设置将图像作为 PSD 保存到 MemoryStream
+        //使用默认的 GifOptions 设置将图像保存为 PSD 到 MemoryStream
         image.Save(stream, new Aspose.PSD.ImageOptions.GifOptions());
     }
 }
@@ -483,16 +483,16 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 
 ### 也可以看看
 
-* class [ImageOptionsBase](../../imageoptionsbase)
-* class [Image](../../image)
-* 命名空间 [Aspose.PSD](../../image)
+* class [ImageOptionsBase](../../imageoptionsbase/)
+* class [Image](../)
+* 命名空间 [Aspose.PSD](../../image/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
 
-根据保存选项将图像的数据以指定的文件格式保存到指定的流中。
+根据保存选项以指定文件格式将图像数据保存到指定流。
 
 ```csharp
 public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
@@ -508,16 +508,16 @@ public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle 
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 选项库 |
-| ArgumentException | 无法保存为指定的格式，因为目前不支持。;optionsBase |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception) | 图片导出失败。 |
+| ArgumentNullException | 选项基础 |
+| ArgumentException | 无法保存为指定的格式，因为目前不支持它。;optionsBase |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | 图片导出失败。 |
 
 ### 也可以看看
 
-* class [ImageOptionsBase](../../imageoptionsbase)
-* struct [Rectangle](../../rectangle)
-* class [Image](../../image)
-* 命名空间 [Aspose.PSD](../../image)
+* class [ImageOptionsBase](../../imageoptionsbase/)
+* struct [Rectangle](../../rectangle/)
+* class [Image](../)
+* 命名空间 [Aspose.PSD](../../image/)
 * 部件 [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

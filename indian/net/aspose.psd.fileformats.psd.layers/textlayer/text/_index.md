@@ -1,0 +1,27 @@
+---
+title: TextLayer.Text
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: TextLayer संपत्त. टेक्स्ट प्रप्त करत है
+type: docs
+weight: 30
+url: /hi/net/aspose.psd.fileformats.psd.layers/textlayer/text/
+---
+## TextLayer.Text property
+
+टेक्स्ट प्राप्त करता है।
+
+```csharp
+public string Text { get; }
+```
+
+### संपत्ति मूल्य
+
+पाठ।
+
+### यह सभी देखें
+
+* class [TextLayer](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* सभा [Aspose.PSD](../../../)
+
+

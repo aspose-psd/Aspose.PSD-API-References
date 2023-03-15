@@ -1,9 +1,9 @@
 ---
-title: StrokeEffect
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Leffetto tratto di Adobe Photoshop per il livello PSD.
+title: Class StrokeEffect
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect classe. Leffetto tratto di Adobe Photoshop per il livello PSD.
 type: docs
-weight: 2170
+weight: 2190
 url: /it/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
 ## StrokeEffect class
@@ -18,23 +18,23 @@ public class StrokeEffect : ILayerEffect
 
 | Nome | Descrizione |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode) { get; set; } | Ottiene o imposta la modalità di fusione. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype) { get; } | Ottiene un tipo di effetto |
-| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings) { get; set; } | Ottiene o imposta le impostazioni di riempimento. |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è visibile. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity) { get; set; } | Ottiene o imposta l'opacità. |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint) { get; set; } | Ottiene o imposta un valore che indica se questo[`StrokeEffect`](../strokeeffect) mescolerà il tratto al contenuto del livello corrente. |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position) { get; set; } | Ottiene o imposta la posizione dell'effetto tratto per controllare l'allineamento del tratto al contenuto del livello PSD. Il valore può essereInside per disegnare un tratto all'interno del contenuto del livello PSD, oOutside per disegnare un tratto intorno al contenuto del livello PSD, eCenter per disegnare il tratto sia all'interno che all'esterno. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size) { get; set; } | Ottiene o imposta la larghezza dell'effetto tratto. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | Ottiene o imposta la modalità di fusione. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | Ottiene un tipo di effetto |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | Ottiene o imposta le impostazioni di riempimento. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è visibile. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | Ottiene o imposta l'opacità. |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | Ottiene o imposta un valore che indica se this`StrokeEffect` fonderà il tratto con il contenuto del livello corrente. |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | Ottiene o imposta la posizione dell'effetto tratto per controllare l'allineamento del tratto al contenuto del livello PSD. Il valore può essereInside per disegnare il tratto all'interno del contenuto del livello PSD, oOutside per tracciare un tratto attorno al contenuto del livello PSD, eCenter per disegnare tratti sia all'interno che all'esterno. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | Ottiene o imposta la larghezza dell'effetto tratto. |
 
 ### Esempi
 
-L'esempio di codice seguente mostra il rendering dell'effetto Tratto con riempimento colore.
+L'esempio di codice seguente mostra il rendering dell'effetto Stroke con Color Fill.
 
 ```csharp
 [C#]
 
-// Implementa il rendering dell'effetto Tratto con Riempimento colore per l'esportazione
+// Implementa il rendering dell'effetto Stroke con Color Fill per l'esportazione
 string sourceFileName = "StrokeComplex.psd";
 string exportPath = "StrokeComplexRendering.psd";
 string exportPathPng = "StrokeComplexRendering.png";
@@ -61,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-Il codice seguente mostra il supporto del livello dell'effetto tratto con il tipo di riempimento - Colore.
+Il codice seguente dimostra il supporto del livello dell'effetto tratto con il tipo di riempimento Colore.
 
 ```csharp
 [C#]
@@ -101,7 +101,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Testare il file dopo la modifica
+// Prova il file dopo la modifica
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -116,7 +116,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-Il codice seguente mostra il supporto del livello dell'effetto tratto con il tipo di riempimento - Pattern.
+Il codice seguente dimostra il supporto del livello dell'effetto tratto con il tipo di riempimento Motivo.
 
 ```csharp
 [C#]
@@ -195,7 +195,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Testare il file dopo la modifica
+// Prova il file dopo la modifica
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternStroke = (StrokeEffect)im.Layers[3].BlendingOptions.Effects[0];
@@ -229,7 +229,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-Il codice seguente mostra il supporto del livello dell'effetto tratto con il tipo di riempimento - Gradiente.
+Il codice seguente dimostra il supporto del livello dell'effetto tratto con il tipo di riempimento Gradiente.
 
 ```csharp
 [C#]
@@ -300,7 +300,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // Testare la modifica
+    // Modifica di prova
     fillSettings.Color = Color.Green;
 
     gradientStroke.Opacity = 127;
@@ -314,7 +314,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.VerticalOffset = 11;
     fillSettings.Reverse = true;
 
-    // Aggiungi nuovo punto colore
+    // Aggiungi un nuovo punto di colore
     var colorPoint = fillSettings.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
@@ -323,19 +323,19 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     // Cambia la posizione del punto precedente
     fillSettings.ColorPoints[1].Location = 1899;
 
-    // Aggiunge un nuovo punto di trasparenza
+    // Aggiungi un nuovo punto di trasparenza
     var transparencyPoint = fillSettings.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // Cambia la posizione del punto di trasparenza precedente
+    // Modifica la posizione del punto di trasparenza precedente
     fillSettings.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
 }
 
-// Testare il file dopo la modifica
+// Prova il file dopo la modifica
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var gradientStroke = (StrokeEffect)im.Layers[2].BlendingOptions.Effects[0];
@@ -348,7 +348,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(Color.Green, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
-    // Controlla i punti colore
+    // Controlla i punti di colore
     AssertAreEqual(3, fillSettings.ColorPoints.Length);
 
     var point = fillSettings.ColorPoints[0];
@@ -388,8 +388,8 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### Guarda anche
 
-* interface [ILayerEffect](../ilayereffect)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects)
+* interface [ILayerEffect](../ilayereffect/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

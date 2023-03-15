@@ -1,14 +1,14 @@
 ---
-title: PngOptions
+title: Class PngOptions
 second_title: Aspose.PSD for .NET API 参考
-description: png 文件格式创建选项.
+description: Aspose.PSD.ImageOptions.PngOptions 班级. png 文件格式创建选项
 type: docs
-weight: 4810
+weight: 4880
 url: /zh/net/aspose.psd.imageoptions/pngoptions/
 ---
 ## PngOptions class
 
-png 文件格式创建选项.
+png 文件格式创建选项。
 
 ```csharp
 public class PngOptions : ImageOptionsBase
@@ -18,46 +18,46 @@ public class PngOptions : ImageOptionsBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PngOptions](pngoptions#constructor)() | 初始化[`PngOptions`](../pngoptions)类. |
-| [PngOptions](pngoptions#constructor_1)(PngOptions) | 初始化[`PngOptions`](../pngoptions)类. |
+| [PngOptions](pngoptions/#constructor)() | 初始化一个新的实例`PngOptions`类. |
+| [PngOptions](pngoptions/#constructor_1)(PngOptions) | 初始化一个新的实例`PngOptions`类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth) { get; set; } | 位深度。 |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | 获取或设置缓冲区大小提示，该提示定义了所有内部缓冲区的最大允许大小。 |
-| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype) { get; set; } | 获取或设置颜色的类型。 |
-| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel) { get; set; } | png 图片压缩级别在 0-9 范围内，其中 9 为最大压缩，0 为存储模式。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果 PSD 文件中的现有图层字体未在系统中显示）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
-| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype) { get; set; } | 获取或设置 png 文件保存过程中使用的过滤器类型。 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | 多页选项 |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | 获取或设置调色板。 |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | 获取或设置进度事件处理程序。 |
-| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive) { get; set; } | 获取或设置一个值，该值指示是否[`PngOptions`](../pngoptions)是进步的。 |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | 获取或设置分辨率设置。 |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置要在其中创建图像的源。 |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | 获取或设置矢量光栅化选项。 |
-| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata) { get; set; } | 获取或设置 XMP 元数据容器。 |
+| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth/) { get; set; } | 位深度。 |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | 获取或设置缓冲区大小提示，它是为所有内部缓冲区定义的最大允许大小。 |
+| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype/) { get; set; } | 获取或设置颜色的类型。 |
+| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel/) { get; set; } | 0-9范围内的png图片压缩级别，其中9为最大压缩，0为存储模式。 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果系统中未显示 PSD 文件中的现有图层字体）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); 复制代码 |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 获取一个值，该值表示该实例是否被释放。 |
+| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype/) { get; set; } | 获取或设置在 png 文件保存过程中使用的过滤器类型。 |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | 获取或设置一个值，表示是否[全帧]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | 多页选项 |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | 获取或设置调色板。 |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | 获取或设置进度事件处理程序。 |
+| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive/) { get; set; } | 获取或设置一个值，指示是否这`PngOptions`是进步的。 |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | 获取或设置分辨率设置。 |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | 获取或设置创建图像的来源. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | 获取或设置矢量光栅化选项。 |
+| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata/) { get; set; } | 获取或设置 XMP 元数据容器。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | 克隆此实例。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | 克隆此实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 处理当前实例。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel) | 默认压缩级别。 |
+| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/) | 默认压缩级别。 |
 
 ### 例子
 
-以下示例演示了如何在 Aspose.PSD 中将 AI 文件导出为 PSD 和 PNG 格式
+以下示例演示如何在 Aspose.PSD 中将 AI 文件导出为 PSD 和 PNG 格式
 
 ```csharp
 [C#]
@@ -71,12 +71,12 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-此示例演示了将 SaveOptions 命名空间中的不同类用于导出目的。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
+此示例演示了使用 SaveOptions 命名空间中的不同类进行导出。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
 
 ```csharp
 [C#]
 
-//在Image类的实例中加载现有图像
+//在 Image 类的实例中加载现有图像
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
     //使用默认选项导出为BMP文件格式
@@ -85,13 +85,13 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
     //使用默认选项导出为JPEG文件格式
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 
-    //使用默认选项导出为JPEG 2000文件格式
+    //使用默认选项导出为 JPEG 2000 文件格式
     image.Save(@"C:\temp\output.jp2", new Aspose.PSD.ImageOptions.Jpeg2000Options());
 
     //使用默认选项导出为PNG文件格式
     image.Save(@"C:\temp\output.png", new Aspose.PSD.ImageOptions.PngOptions());
 
-    //使用默认选项导出为 TIFF 文件格式
+    //使用默认选项导出为TIFF文件格式
     image.Save(@"c:\temp\output.tiff", new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default));
 }
 ```
@@ -137,7 +137,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示了文档转换进度正常且无异常。
+以下示例演示文档转换进度正常且无异常。
 
 ```csharp
 [C#]
@@ -181,40 +181,40 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-此示例使用 Graphics 类在 Image 表面上创建原始形状。为了演示该操作，该示例创建一个 PSD 格式的新图像，并使用 Graphics 类公开的 Draw 方法在图像表面绘制原始形状，然后将其导出为 PSD 文件格式。
+此示例使用 Graphics 类在 Image 表面上创建原始形状。为了演示该操作，该示例创建了一个 PSD 格式的新图像，并使用 Graphics 类公开的 Draw 方法在图像表面绘制原始形状，然后将其导出为 PSD 文件格式。
 
 ```csharp
 [C#]
 
-//创建一个Image实例 
+//创建图像实例 
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //创建并初始化一个Graphics类的实例
+    //创建并初始化Graphics类的实例
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
     //清除图形表面
     graphics.Clear(Color.Wheat);
 
-    //通过指定具有黑色颜色的Pen对象来绘制弧线， 
-    //一个围绕圆弧的矩形，起始角和扫角
+    //通过指定具有黑色的 Pen 对象绘制弧形， 
+    //围绕圆弧、起始角和扫描角的矩形
     graphics.DrawArc(new Pen(Color.Black, 2), new Rectangle(200, 200, 100, 200), 0, 300);
 
-    //通过指定具有蓝色和坐标点的 Pen 对象来绘制 Bezier。
+    //通过指定具有蓝色和坐标点的 Pen 对象来绘制贝塞尔曲线。
     graphics.DrawBezier(new Pen(Color.Blue, 2), new Point(250, 100), new Point(300, 30), new Point(450, 100), new Point(235, 25));
 
-    //通过指定具有绿色的 Pen 对象和点数组来绘制曲线
+    //通过指定具有绿色和点数组的 Pen 对象来绘制曲线
     graphics.DrawCurve(new Pen(Color.Green, 2), new[] { new Point(100, 200), new Point(100, 350), new Point(200, 450) });
 
-    //使用 Pen 对象和周围的 Rectangle 绘制一个椭圆
+    //使用 Pen 对象和周围的矩形绘制一个椭圆
     graphics.DrawEllipse(new Pen(Color.Yellow, 2), new Rectangle(300, 300, 100, 100));
 
     //画一条线 
     graphics.DrawLine(new Pen(Color.Violet, 2), new Point(100, 100), new Point(200, 200));
 
-    //画一个饼段
+    //绘制饼图
     graphics.DrawPie(new Pen(Color.Silver, 2), new Rectangle(new Point(200, 20), new Size(200, 200)), 0, 45);
 
-    //通过指定具有红色的 Pen 对象和点数组来绘制多边形
+    //通过指定具有红色和点数组的 Pen 对象来绘制多边形
     graphics.DrawPolygon(new Pen(Color.Red, 2), new[] { new Point(20, 100), new Point(20, 200), new Point(220, 20) });
 
     //画一个矩形
@@ -225,7 +225,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
     brush.Color = Color.Purple;
     brush.Opacity = 100;
 
-    //使用 SolidBrush 对象和字体在特定点绘制一个字符串
+    //在特定点使用 SolidBrush 对象和字体绘制字符串
     graphics.DrawString("This image is created by Aspose.PSD API", new Font("Times New Roman", 16), brush, new PointF(50, 400));
 
     //创建一个PngOptions实例并设置它的各种属性
@@ -238,8 +238,8 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### 也可以看看
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* 命名空间 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* 命名空间 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

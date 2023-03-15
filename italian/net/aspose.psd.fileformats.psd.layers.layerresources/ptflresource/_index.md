@@ -1,14 +1,14 @@
 ---
-title: PtFlResource
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Classe PtFlResource. Contiene i dati del livello di riempimento pattern.
+title: Class PtFlResource
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource classe. Classe PtFlResource. Contiene i dati del livello di riempimento a motivo.
 type: docs
-weight: 2930
+weight: 2960
 url: /it/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 ## PtFlResource class
 
-Classe PtFlResource. Contiene i dati del livello di riempimento pattern.
+Classe PtFlResource. Contiene i dati del livello di riempimento a motivo.
 
 ```csharp
 public class PtFlResource : FillLayerResource
@@ -18,39 +18,39 @@ public class PtFlResource : FillLayerResource
 
 | Nome | Descrizione |
 | --- | --- |
-| [PtFlResource](ptflresource)(string, string) | Inizializza una nuova istanza di[`PtFlResource`](../ptflresource) classe. |
+| [PtFlResource](ptflresource/)(string, string) | Inizializza una nuova istanza di`PtFlResource` classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer) { get; set; } | Ottiene o imposta un valore che indica se [align with layer]. |
-| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è collegata al livello. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key) { get; } | Ottiene la chiave della risorsa del livello. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
-| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset) { get; set; } | Ottiene o imposta l'offset. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid) { get; set; } | Ottiene o imposta l'identificatore del modello. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname) { get; set; } | Ottiene o imposta il nome del pattern. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion) { get; } | Ottiene la versione psd minima richiesta per la risorsa di livello. 0 indica nessuna restrizione. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale) { get; set; } | Ottiene o imposta la scala. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature) { get; } | Ottiene la firma della risorsa del livello. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | Ottiene o imposta un valore che indica se [align with layer]. |
+| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | Ottiene o imposta un valore che indica se questa istanza è collegata al layer. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/) { get; } | Ottiene la chiave della risorsa del livello. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
+| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | Ottiene o imposta l'offset. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | Ottiene o imposta l'identificatore del modello. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | Ottiene o imposta il nome del modello. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/) { get; } | Ottiene la versione PSD minima richiesta per la risorsa del livello. 0 indica nessuna restrizione. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | Ottiene o imposta la scala. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/) { get; } | Ottiene la firma della risorsa del livello. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Restituisce aString che rappresenta questa istanza. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Restituisce aString che rappresenta questa istanza. |
 
 ## Campi
 
 | Nome | Descrizione |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey) | Il tipo di chiave info strumento. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | Il tasto informazioni dello strumento testo. |
 
 ### Esempi
 
-Nell'esempio seguente viene illustrato il supporto del caricamento e della modifica di una risorsa PtFlResource.
+L'esempio seguente mostra il supporto del caricamento e della modifica di una risorsa PtFlResource.
 
 ```csharp
 [C#]
@@ -118,9 +118,9 @@ using (im)
 
 ### Guarda anche
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [FillLayerResource](../filllayerresource)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [FillLayerResource](../filllayerresource/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

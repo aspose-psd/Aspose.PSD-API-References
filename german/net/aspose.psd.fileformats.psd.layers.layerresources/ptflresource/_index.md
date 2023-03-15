@@ -1,9 +1,9 @@
 ---
-title: PtFlResource
+title: Class PtFlResource
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Klasse PtFlResource. Enthält MusterfüllungsLayerdaten.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource klas. Klasse PtFlResource. Enthält MusterfüllungsLayerdaten.
 type: docs
-weight: 2930
+weight: 2960
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 ## PtFlResource class
@@ -18,35 +18,35 @@ public class PtFlResource : FillLayerResource
 
 | Name | Beschreibung |
 | --- | --- |
-| [PtFlResource](ptflresource)(string, string) | Initialisiert eine neue Instanz von[`PtFlResource`](../ptflresource) Klasse. |
+| [PtFlResource](ptflresource/)(string, string) | Initialisiert eine neue Instanz von`PtFlResource` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer) { get; set; } | Ruft einen Wert ab, der angibt, ob [an Ebene ausrichten], oder legt diesen fest. |
-| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz mit Layer verknüpft ist. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset) { get; set; } | Ruft den Offset ab oder legt ihn fest. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid) { get; set; } | Ruft die Musterkennung ab oder legt sie fest. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname) { get; set; } | Ruft den Namen des Musters ab oder legt ihn fest. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion) { get; } | Ruft die minimale PSD-Version ab, die für die Layer-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale) { get; set; } | Ruft die Skalierung ab oder legt sie fest. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature) { get; } | Ruft die Layer-Ressourcensignatur ab. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | Ruft einen Wert ab, der angibt, ob [an Ebene ausrichten], oder legt diesen fest. |
+| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz mit Layer verknüpft ist. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
+| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | Ruft den Offset ab oder legt ihn fest. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | Ruft die Musterkennung ab oder legt sie fest. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | Ruft den Namen des Musters ab oder legt ihn fest. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/) { get; } | Ruft die minimale PSD-Version ab, die für die Layer-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | Ruft die Skalierung ab oder legt sie fest. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/) { get; } | Ruft die Layer-Ressourcensignatur ab. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey) | Der Typ-Tool-Info-Schlüssel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | Der Typ-Tool-Info-Schlüssel. |
 
 ### Beispiele
 
@@ -118,9 +118,9 @@ using (im)
 
 ### Siehe auch
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [FillLayerResource](../filllayerresource)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [FillLayerResource](../filllayerresource/)
+* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

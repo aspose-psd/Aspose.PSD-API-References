@@ -1,9 +1,9 @@
 ---
-title: ITextStyle
+title: Interface ITextStyle
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Schnittstelle zum Arbeiten mit Textstil
+description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle koppel. Schnittstelle zum Arbeiten mit Textstil
 type: docs
-weight: 3480
+weight: 3540
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
 ## ITextStyle interface
@@ -18,38 +18,40 @@ public interface ITextStyle
 
 | Name | Beschreibung |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning) { get; set; } | Ruft das automatische Kerning ab oder legt es fest. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [automatischer Zeilenabstand]. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift) { get; set; } | Die Grundlinienverschiebung. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates) { get; set; } | Die kontextbezogenen Alternativen, die verwendet werden, um Buchstaben miteinander zu verbinden. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures) { get; set; } | Die bedingten Ligaturen, die verwendet werden, um Buchstaben zu verbinden, insbesondere in Skriptschriften. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold) { get; set; } | Ruft ab oder legt fest, dass Faux Bold aktiviert ist. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic) { get; set; } | Ruft ab oder legt fest, dass Faux Bold aktiviert ist. |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor) { get; set; } | Ruft die Farbe der Füllung ab oder legt sie fest. |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline) { get; set; } | Die Grundlinie der Schriftart. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps) { get; set; } | Die Schrift in Großbuchstaben. |
-| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex) { get; } | Ruft den Schriftindex ab. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname) { get; set; } | Ruft den Schriftartnamen ab oder legt ihn fest. |
-| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize) { get; set; } | Ruft die Schriftgröße ab oder legt sie fest. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions) { get; set; } | Die Bruchsymbole können durch spezielle Glyphen ersetzt werden. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Hindi-Zahlen]. |
-| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale) { get; set; } | Die horizontale Skala. |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning) { get; set; } | Ruft das Kerning ab oder legt es fest. |
-| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex) { get; } | Ruft den Sprachindex ab. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading) { get; set; } | Ruft den Zeilenabstand ab oder legt ihn fest. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures) { get; set; } | Die standardmäßigen kontextuellen Ligaturen, die verwendet werden, um Buchstaben miteinander zu verbinden. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [durchgestrichen]. |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor) { get; set; } | Ruft die Farbe des Strichs ab oder legt sie fest. |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking) { get; set; } | Ruft das Tracking ab oder legt es fest. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [underline]. |
-| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale) { get; set; } | Die vertikale Skala. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Ruft das automatische Kerning ab oder legt es fest. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [automatischer Zeilenabstand]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Die Grundlinienverschiebung. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Die kontextbezogenen Alternativen, die verwendet werden, um Buchstaben miteinander zu verbinden. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Die bedingten Ligaturen, die verwendet werden, um Buchstaben zu verbinden, insbesondere in Skriptschriften. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Ruft ab oder legt fest, dass Faux Bold aktiviert ist. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Ruft ab oder legt fest, dass Faux Bold aktiviert ist. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Ruft die Farbe der Füllung ab oder legt sie fest. |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Die Grundlinie der Schriftart. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Die Schrift in Großbuchstaben. |
+| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Ruft den Schriftindex ab. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Ruft den Schriftartnamen ab oder legt ihn fest. |
+| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Ruft die Schriftgröße ab oder legt sie fest. |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Die Bruchsymbole können durch spezielle Glyphen ersetzt werden. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Hindi-Zahlen]. |
+| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | Die horizontale Skala. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Ruft die standardmäßige vertikale römische Ausrichtung ab oder legt sie fest. Dies basiert auf dem Ressourcenwert BaselineDirection und gilt nur, wenn die Textausrichtung aktiviert istVertical . |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Ruft das Kerning ab oder legt es fest. |
+| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Ruft den Sprachindex ab. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Ruft den Zeilenabstand ab oder legt ihn fest. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Ruft ab oder legt den No-Break-Wert fest. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Die standardmäßigen kontextuellen Ligaturen, die verwendet werden, um Buchstaben miteinander zu verbinden. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [durchgestrichen]. |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Ruft die Farbe des Strichs ab oder legt sie fest. |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Ruft das Tracking ab oder legt es fest. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [underline]. |
+| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Die vertikale Skala. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply)(ITextStyle) | Wendet den angegebenen Stil an. |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal)(ITextStyle) | Bestimmt, ob der angegebene Stil gleich ist. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Wendet den angegebenen Stil an. |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Bestimmt, ob der angegebene Stil gleich ist. |
 
 ### Beispiele
 
@@ -307,7 +309,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text)
+* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

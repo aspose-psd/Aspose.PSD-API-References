@@ -1,0 +1,56 @@
+---
+title: RasterImage.Rotate
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: RasterImage तरक. इमेज क बच में घुमएं.
+type: docs
+weight: 480
+url: /hi/net/aspose.psd/rasterimage/rotate/
+---
+## Rotate(float, bool, Color) {#rotate_1}
+
+इमेज को बीच में घुमाएं.
+
+```csharp
+public virtual void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| angle | Single | घूर्णन कोण डिग्री में। धनात्मक मान दक्षिणावर्त घूमेंगे। |
+| resizeProportionally | Boolean | अगर सेट है`सत्य` घुमाए गए आयत (कोने के बिंदु) अनुमानों के अनुसार आपकी छवि का आकार बदल जाएगा, अन्य मामले में जो आयामों को अछूता छोड़ देता है और केवल आंतरिक छवि सामग्री घुमाई जाती है। |
+| backgroundColor | Color | पृष्ठभूमि का रंग। |
+
+### अपवाद
+
+| अपवाद | स्थिति |
+| --- | --- |
+| NotImplementedException |  |
+
+### यह सभी देखें
+
+* struct [Color](../../color/)
+* class [RasterImage](../)
+* नाम स्थान [Aspose.PSD](../../rasterimage/)
+* सभा [Aspose.PSD](../../../)
+
+---
+
+## Rotate(float) {#rotate}
+
+इमेज को बीच में घुमाएं.
+
+```csharp
+public virtual void Rotate(float angle)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| angle | Single | घूर्णन कोण डिग्री में। धनात्मक मान दक्षिणावर्त घूमेंगे। |
+
+### यह सभी देखें
+
+* class [RasterImage](../)
+* नाम स्थान [Aspose.PSD](../../rasterimage/)
+* सभा [Aspose.PSD](../../../)
+
+

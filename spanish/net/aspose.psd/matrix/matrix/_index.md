@@ -1,7 +1,7 @@
 ---
-title: Matrix
+title: Matrix.Matrix
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Inicializa una nueva instancia de la clase Matrix como matriz de identidad.
+description: Matrix constructor. Inicializa una nueva instancia de la clase Matrix como matriz de identidad.
 type: docs
 weight: 10
 url: /es/net/aspose.psd/matrix/matrix/
@@ -16,15 +16,15 @@ public Matrix()
 
 ### Ver también
 
-* class [Matrix](../../matrix)
-* espacio de nombres [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* espacio de nombres [Aspose.PSD](../../matrix/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(float, float, float, float, float, float) {#constructor_4}
 
-Inicializa una nueva instancia del[`Matrix`](../../matrix) clase.
+Inicializa una nueva instancia del[`Matrix`](../) clase.
 
 ```csharp
 public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
@@ -41,15 +41,15 @@ public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 
 ### Ver también
 
-* class [Matrix](../../matrix)
-* espacio de nombres [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* espacio de nombres [Aspose.PSD](../../matrix/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(RectangleF, PointF[]) {#constructor_3}
 
-Inicializa una nueva instancia del[`Matrix`](../../matrix) clase a la transformación geométrica definida por el rectángulo especificado y la matriz de puntos.
+Inicializa una nueva instancia del[`Matrix`](../) clase a la transformación geométrica definida por el rectángulo especificado y la matriz de puntos.
 
 ```csharp
 public Matrix(RectangleF rect, PointF[] plgpts)
@@ -57,22 +57,22 @@ public Matrix(RectangleF rect, PointF[] plgpts)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| rect | RectangleF | A[`RectangleF`](../../rectanglef) estructura que representa el rectángulo a transformar. |
-| plgpts | PointF[] | Una matriz de tres[`PointF`](../../pointf)estructuras que representan los puntos de un paralelogramo en el que se van a transformar las esquinas superior izquierda, superior derecha e inferior izquierda del rectángulo. La esquina inferior derecha del paralelogramo está implícita en las tres primeras esquinas. |
+| rect | RectangleF | A[`RectangleF`](../../rectanglef/) estructura que representa el rectángulo a transformar. |
+| plgpts | PointF[] | Una matriz de tres[`PointF`](../../pointf/)estructuras que representan los puntos de un paralelogramo en el que se van a transformar las esquinas superior izquierda, superior derecha e inferior izquierda del rectángulo. La esquina inferior derecha del paralelogramo está implícita en las tres primeras esquinas. |
 
 ### Ver también
 
-* struct [RectangleF](../../rectanglef)
-* struct [PointF](../../pointf)
-* class [Matrix](../../matrix)
-* espacio de nombres [Aspose.PSD](../../matrix)
+* struct [RectangleF](../../rectanglef/)
+* struct [PointF](../../pointf/)
+* class [Matrix](../)
+* espacio de nombres [Aspose.PSD](../../matrix/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Rectangle, Point[]) {#constructor_2}
 
-Inicializa una nueva instancia del[`Matrix`](../../matrix) clase a la transformación geométrica definida por el rectángulo especificado y la matriz de puntos.
+Inicializa una nueva instancia del[`Matrix`](../) clase a la transformación geométrica definida por el rectángulo especificado y la matriz de puntos.
 
 ```csharp
 public Matrix(Rectangle rect, Point[] plgpts)
@@ -80,22 +80,22 @@ public Matrix(Rectangle rect, Point[] plgpts)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | A[`Rectangle`](../../rectangle) estructura que representa el rectángulo a transformar. |
-| plgpts | Point[] | Una matriz de tres[`Point`](../../point)estructuras que representan los puntos de un paralelogramo en el que se van a transformar las esquinas superior izquierda, superior derecha e inferior izquierda del rectángulo. La esquina inferior derecha del paralelogramo está implícita en las tres primeras esquinas. |
+| rect | Rectangle | A[`Rectangle`](../../rectangle/) estructura que representa el rectángulo a transformar. |
+| plgpts | Point[] | Una matriz de tres[`Point`](../../point/)estructuras que representan los puntos de un paralelogramo en el que se van a transformar las esquinas superior izquierda, superior derecha e inferior izquierda del rectángulo. La esquina inferior derecha del paralelogramo está implícita en las tres primeras esquinas. |
 
 ### Ver también
 
-* struct [Rectangle](../../rectangle)
-* struct [Point](../../point)
-* class [Matrix](../../matrix)
-* espacio de nombres [Aspose.PSD](../../matrix)
+* struct [Rectangle](../../rectangle/)
+* struct [Point](../../point/)
+* class [Matrix](../)
+* espacio de nombres [Aspose.PSD](../../matrix/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Matrix) {#constructor_1}
 
-Hace una copia del[`Matrix`](../../matrix) clase.
+Hace una copia del[`Matrix`](../) clase.
 
 ```csharp
 public Matrix(Matrix origin)
@@ -107,8 +107,8 @@ public Matrix(Matrix origin)
 
 ### Ver también
 
-* class [Matrix](../../matrix)
-* espacio de nombres [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* espacio de nombres [Aspose.PSD](../../matrix/)
 * asamblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

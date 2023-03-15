@@ -1,7 +1,7 @@
 ---
-title: Save
+title: StreamContainer.Save
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Speichert kopiert die Daten des Streams in den angegebenen Stream.
+description: StreamContainer methode. Speichert kopiert die Daten des Streams in den angegebenen Stream.
 type: docs
 weight: 130
 url: /de/net/aspose.psd/streamcontainer/save/
@@ -17,20 +17,20 @@ public virtual void Save(Stream destinationStream, int bufferSize, long length)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | destinationStream | Stream | Der Stream, in dem die Daten gespeichert werden sollen. |
-| bufferSize | Int32 | Die Puffergröße. Standardmäßig[`ReadWriteBytesCount`](../readwritebytescount) Wert verwendet wird. |
-| length | Int64 | Die zu kopierende Stream-Datenlänge. Standardmäßig ist die Länge auf eingestellt[`Length`](../length) Wert. |
+| bufferSize | Int32 | Die Puffergröße. Standardmäßig[`ReadWriteBytesCount`](../readwritebytescount/) Wert verwendet wird. |
+| length | Int64 | Die zu kopierende Stream-Datenlänge. Standardmäßig ist die Länge auf eingestellt[`Length`](../length/) Wert. |
 
 ### Siehe auch
 
-* class [StreamContainer](../../streamcontainer)
-* namensraum [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* namensraum [Aspose.PSD](../../streamcontainer/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-Speichert (kopiert) die Daten des Streams in den angegebenen Stream. Verwendet die Standardpuffergröße[`ReadWriteBytesCount`](../readwritebytescount) und streamen[`Length`](../length) wert.
+Speichert (kopiert) die Daten des Streams in den angegebenen Stream. Verwendet die Standardpuffergröße[`ReadWriteBytesCount`](../readwritebytescount/) und streamen[`Length`](../length/) wert.
 
 ```csharp
 public virtual void Save(Stream destinationStream)
@@ -42,15 +42,15 @@ public virtual void Save(Stream destinationStream)
 
 ### Siehe auch
 
-* class [StreamContainer](../../streamcontainer)
-* namensraum [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* namensraum [Aspose.PSD](../../streamcontainer/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-Speichert (kopiert) alle Daten des Streams in den angegebenen Stream. Verwendet Stream[`Length`](../length) wert.
+Speichert (kopiert) alle Daten des Streams in den angegebenen Stream. Verwendet Stream[`Length`](../length/) wert.
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize)
@@ -63,15 +63,15 @@ public virtual void Save(Stream destinationStream, int bufferSize)
 
 ### Siehe auch
 
-* class [StreamContainer](../../streamcontainer)
-* namensraum [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* namensraum [Aspose.PSD](../../streamcontainer/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_3}
 
-Speichert (kopiert) die Daten des Streams in den angegebenen Stream. Verwendet die Standardpuffergröße[`ReadWriteBytesCount`](../readwritebytescount) und streamen[`Length`](../length) wert.
+Speichert (kopiert) die Daten des Streams in den angegebenen Stream. Verwendet die Standardpuffergröße[`ReadWriteBytesCount`](../readwritebytescount/) und streamen[`Length`](../length/) wert.
 
 ```csharp
 public virtual void Save(string filePath)
@@ -83,15 +83,15 @@ public virtual void Save(string filePath)
 
 ### Siehe auch
 
-* class [StreamContainer](../../streamcontainer)
-* namensraum [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* namensraum [Aspose.PSD](../../streamcontainer/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int) {#save_4}
 
-Speichert (kopiert) die Daten des Streams in den angegebenen Stream. Verwendet Stream[`Length`](../length) wert.
+Speichert (kopiert) die Daten des Streams in den angegebenen Stream. Verwendet Stream[`Length`](../length/) wert.
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize)
@@ -100,12 +100,12 @@ public virtual void Save(string filePath, int bufferSize)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | filePath | String | Der Dateipfad zum Speichern der Stream-Daten. |
-| bufferSize | Int32 | Die Puffergröße. Standardmäßig[`ReadWriteBytesCount`](../readwritebytescount) Wert verwendet wird. |
+| bufferSize | Int32 | Die Puffergröße. Standardmäßig[`ReadWriteBytesCount`](../readwritebytescount/) Wert verwendet wird. |
 
 ### Siehe auch
 
-* class [StreamContainer](../../streamcontainer)
-* namensraum [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* namensraum [Aspose.PSD](../../streamcontainer/)
 * Montage [Aspose.PSD](../../../)
 
 ---
@@ -121,13 +121,13 @@ public virtual void Save(string filePath, int bufferSize, long length)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | filePath | String | Der Dateipfad zum Speichern der Stream-Daten. |
-| bufferSize | Int32 | Die Puffergröße. Standardmäßig[`ReadWriteBytesCount`](../readwritebytescount) Wert verwendet wird. |
-| length | Int64 | Die zu kopierende Stream-Datenlänge. Standardmäßig ist die Länge auf eingestellt[`Length`](../length) Wert. |
+| bufferSize | Int32 | Die Puffergröße. Standardmäßig[`ReadWriteBytesCount`](../readwritebytescount/) Wert verwendet wird. |
+| length | Int64 | Die zu kopierende Stream-Datenlänge. Standardmäßig ist die Länge auf eingestellt[`Length`](../length/) Wert. |
 
 ### Siehe auch
 
-* class [StreamContainer](../../streamcontainer)
-* namensraum [Aspose.PSD](../../streamcontainer)
+* class [StreamContainer](../)
+* namensraum [Aspose.PSD](../../streamcontainer/)
 * Montage [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

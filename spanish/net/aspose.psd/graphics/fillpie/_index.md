@@ -1,14 +1,14 @@
 ---
-title: FillPie
+title: Graphics.FillPie
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Rellena el interior de una sección circular definida por una elipse especificada por unRectangleFaspose.psd/rectanglef estructura y dos líneas radiales.
+description: Graphics método. Rellena el interior de una sección circular definida por una elipse especificada por unRectangleF estructura y dos líneas radiales.
 type: docs
 weight: 370
 url: /es/net/aspose.psd/graphics/fillpie/
 ---
 ## FillPie(Brush, Rectangle, float, float) {#fillpie}
 
-Rellena el interior de una sección circular definida por una elipse especificada por un[`RectangleF`](../../rectanglef) estructura y dos líneas radiales.
+Rellena el interior de una sección circular definida por una elipse especificada por un[`RectangleF`](../../rectanglef/) estructura y dos líneas radiales.
 
 ```csharp
 public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAngle)
@@ -16,8 +16,8 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
-| rect | Rectangle | [`Rectangle`](../../rectangle) estructura que representa el rectángulo delimitador que define la elipse de la que procede la sección circular. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) estructura que representa el rectángulo delimitador que define la elipse de la que procede la sección circular. |
 | startAngle | Single | Ángulo en grados medido en el sentido de las agujas del reloj desde el eje x hasta el primer lado de la sección circular. |
 | sweepAngle | Single | Ángulo en grados medido en el sentido de las agujas del reloj desde el*startAngle* parámetro al segundo lado de la sección circular. |
 
@@ -29,17 +29,17 @@ public void FillPie(Brush brush, Rectangle rect, float startAngle, float sweepAn
 
 ### Ver también
 
-* class [Brush](../../brush)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillPie(Brush, RectangleF, float, float) {#fillpie_1}
 
-Rellena el interior de una sección circular definida por una elipse especificada por un[`RectangleF`](../../rectanglef) estructura y dos líneas radiales.
+Rellena el interior de una sección circular definida por una elipse especificada por un[`RectangleF`](../../rectanglef/) estructura y dos líneas radiales.
 
 ```csharp
 public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepAngle)
@@ -47,8 +47,8 @@ public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepA
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) estructura que representa el rectángulo delimitador que define la elipse de la que procede la sección circular. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) estructura que representa el rectángulo delimitador que define la elipse de la que procede la sección circular. |
 | startAngle | Single | Ángulo en grados medido en el sentido de las agujas del reloj desde el eje x hasta el primer lado de la sección circular. |
 | sweepAngle | Single | Ángulo en grados medido en el sentido de las agujas del reloj desde el*startAngle* parámetro al segundo lado de la sección circular. |
 
@@ -60,10 +60,10 @@ public void FillPie(Brush brush, RectangleF rect, float startAngle, float sweepA
 
 ### Ver también
 
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -79,7 +79,7 @@ public void FillPie(Brush brush, float x, float y, float width, float height, fl
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
 | x | Single | La coordenada x de la esquina superior izquierda del rectángulo delimitador que define la elipse de la que proviene la sección circular. |
 | y | Single | La coordenada y de la esquina superior izquierda del rectángulo delimitador que define la elipse de la que proviene la sección circular. |
 | width | Single | Ancho del rectángulo delimitador que define la elipse de la que procede la sección circular. |
@@ -95,9 +95,9 @@ public void FillPie(Brush brush, float x, float y, float width, float height, fl
 
 ### Ver también
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -113,7 +113,7 @@ public void FillPie(Brush brush, int x, int y, int width, int height, int startA
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
 | x | Int32 | La coordenada x de la esquina superior izquierda del rectángulo delimitador que define la elipse de la que proviene la sección circular. |
 | y | Int32 | La coordenada y de la esquina superior izquierda del rectángulo delimitador que define la elipse de la que proviene la sección circular. |
 | width | Int32 | Ancho del rectángulo delimitador que define la elipse de la que procede la sección circular. |
@@ -129,9 +129,9 @@ public void FillPie(Brush brush, int x, int y, int width, int height, int startA
 
 ### Ver también
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: DrawImage
+title: Graphics.DrawImage
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Dibuja el especificadoImageaspose.psd/graphics/image  utilizando su tamaño físico original en la ubicación especificada.
+description: Graphics método. Dibuja el especificadoImage  utilizando su tamaño físico original en la ubicación especificada.
 type: docs
 weight: 220
 url: /es/net/aspose.psd/graphics/drawimage/
 ---
 ## DrawImage(Image, PointF) {#drawimage_1}
 
-Dibuja el especificado[`Image`](../image) , utilizando su tamaño físico original, en la ubicación especificada.
+Dibuja el especificado[`Image`](../image/) , utilizando su tamaño físico original, en la ubicación especificada.
 
 ```csharp
 public void DrawImage(Image sourceImage, PointF point)
@@ -17,7 +17,7 @@ public void DrawImage(Image sourceImage, PointF point)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | sourceImage | Image | La imagen para dibujar. |
-| point | PointF | [`PointF`](../../pointf) estructura que representa la esquina superior izquierda de la imagen dibujada. |
+| point | PointF | [`PointF`](../../pointf/) estructura que representa la esquina superior izquierda de la imagen dibujada. |
 
 ### Excepciones
 
@@ -27,17 +27,17 @@ public void DrawImage(Image sourceImage, PointF point)
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float) {#drawimage_22}
 
-Dibuja el especificado[`Image`](../image) , utilizando su tamaño físico original, en la ubicación especificada.
+Dibuja el especificado[`Image`](../image/) , utilizando su tamaño físico original, en la ubicación especificada.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y)
@@ -57,16 +57,16 @@ public void DrawImage(Image sourceImage, float x, float y)
 
 ### Ver también
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF) {#drawimage_15}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rect)
@@ -75,7 +75,7 @@ public void DrawImage(Image sourceImage, RectangleF rect)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | sourceImage | Image | La imagen para dibujar. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) estructura que especifica la ubicación y el tamaño de la imagen dibujada. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) estructura que especifica la ubicación y el tamaño de la imagen dibujada. |
 
 ### Excepciones
 
@@ -85,17 +85,17 @@ public void DrawImage(Image sourceImage, RectangleF rect)
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit) {#drawimage_11}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit)
@@ -115,18 +115,18 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit) {#drawimage_16}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit)
@@ -146,18 +146,18 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_12}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit, 
@@ -179,19 +179,19 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_17}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit, 
@@ -213,19 +213,19 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit) {#drawimage_13}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
@@ -247,18 +247,18 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit) {#drawimage_18}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
@@ -280,18 +280,18 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_14}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
@@ -314,19 +314,19 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_19}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
@@ -349,12 +349,12 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -374,10 +374,10 @@ public void DrawImage(Image image, Point[] destPoints)
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -398,11 +398,11 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -424,12 +424,12 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -453,13 +453,13 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -485,10 +485,10 @@ public void DrawImage(Image image, PointF[] destPoints)
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -509,11 +509,11 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -535,12 +535,12 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -564,20 +564,20 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float, float, float) {#drawimage_23}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y, float width, float height)
@@ -599,16 +599,16 @@ public void DrawImage(Image sourceImage, float x, float y, float width, float he
 
 ### Ver también
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point) {#drawimage}
 
-Dibuja el especificado[`Image`](../image) , utilizando su tamaño físico original, en la ubicación especificada.
+Dibuja el especificado[`Image`](../image/) , utilizando su tamaño físico original, en la ubicación especificada.
 
 ```csharp
 public void DrawImage(Image sourceImage, Point point)
@@ -617,7 +617,7 @@ public void DrawImage(Image sourceImage, Point point)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | sourceImage | Image | La imagen para dibujar. |
-| point | Point | [`Point`](../../point) estructura que representa la ubicación de la esquina superior izquierda de la imagen dibujada. |
+| point | Point | [`Point`](../../point/) estructura que representa la ubicación de la esquina superior izquierda de la imagen dibujada. |
 
 ### Excepciones
 
@@ -627,10 +627,10 @@ public void DrawImage(Image sourceImage, Point point)
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -657,16 +657,16 @@ public void DrawImage(Image sourceImage, int x, int y)
 
 ### Ver también
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle) {#drawimage_10}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rect)
@@ -675,7 +675,7 @@ public void DrawImage(Image sourceImage, Rectangle rect)
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | sourceImage | Image | La imagen para dibujar. |
-| rect | Rectangle | [`Rectangle`](../../rectangle) estructura que especifica la ubicación y el tamaño de la imagen dibujada. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) estructura que especifica la ubicación y el tamaño de la imagen dibujada. |
 
 ### Excepciones
 
@@ -685,17 +685,17 @@ public void DrawImage(Image sourceImage, Rectangle rect)
 
 ### Ver también
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, int, int, int, int) {#drawimage_21}
 
-Dibuja el especificado[`Image`](../image) en la ubicación especificada y con el tamaño especificado.
+Dibuja el especificado[`Image`](../image/) en la ubicación especificada y con el tamaño especificado.
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y, int width, int height)
@@ -717,9 +717,9 @@ public void DrawImage(Image sourceImage, int x, int y, int width, int height)
 
 ### Ver también
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

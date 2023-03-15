@@ -1,9 +1,9 @@
 ---
-title: JpegOptions
+title: Class JpegOptions
 second_title: Aspose.PSD for .NET API 参考
-description: jpeg 文件格式创建选项
+description: Aspose.PSD.ImageOptions.JpegOptions 班级. jpeg 文件格式创建选项
 type: docs
-weight: 4770
+weight: 4840
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/
 ---
 ## JpegOptions class
@@ -18,65 +18,65 @@ public class JpegOptions : ImageOptionsBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [JpegOptions](jpegoptions#constructor)() | 初始化[`JpegOptions`](../jpegoptions)类. |
-| [JpegOptions](jpegoptions#constructor_1)(JpegOptions) | 初始化[`JpegOptions`](../jpegoptions)类. |
+| [JpegOptions](jpegoptions/#constructor)() | 初始化一个新的实例`JpegOptions`类. |
+| [JpegOptions](jpegoptions/#constructor_1)(JpegOptions) | 初始化一个新的实例`JpegOptions`类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BitsPerChannel](../../aspose.psd.imageoptions/jpegoptions/bitsperchannel) { get; set; } | 获取或设置无损 jpeg 图像的每个通道的位。现在我们支持每通道 2 到 8 位。 |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | 获取或设置缓冲区大小提示，该提示定义了所有内部缓冲区的最大允许大小。 |
-| [CmykColorProfile](../../aspose.psd.imageoptions/jpegoptions/cmykcolorprofile) { get; set; } | CMYK jpeg 图像的目标 CMYK 颜色配置文件。用于保存图像。必须与 RGBColorProfile 配对以进行正确的颜色转换。 |
-| [ColorType](../../aspose.psd.imageoptions/jpegoptions/colortype) { get; set; } | 获取或设置 jpeg 图像的颜色类型。 |
-| [Comment](../../aspose.psd.imageoptions/jpegoptions/comment) { get; set; } | 获取或设置jpeg文件注释。 |
-| [CompressionType](../../aspose.psd.imageoptions/jpegoptions/compressiontype) { get; set; } | 获取或设置压缩类型。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果 PSD 文件中的现有图层字体未在系统中显示）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | 获取一个值，该值指示此实例是否被释放。 |
-| [ExifData](../../aspose.psd.imageoptions/jpegoptions/exifdata) { get; set; } | 获取或设置exif数据容器 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | 获取或设置一个值，指示是否[全帧]. |
-| [HorizontalSampling](../../aspose.psd.imageoptions/jpegoptions/horizontalsampling) { get; set; } | 获取或设置每个分量的水平二次采样。 |
-| [Jfif](../../aspose.psd.imageoptions/jpegoptions/jfif) { get; set; } | 获取或设置 jfif. |
-| [JpegLsAllowedLossyError](../../aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror) { get; set; } | 获取或设置用于近无损编码的 JPEG-LS 差异界限（JPEG-LS 规范中的 NEAR 参数）。 |
-| [JpegLsInterleaveMode](../../aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode) { get; set; } | 获取或设置 JPEG-LS 交错模式。 |
-| [JpegLsPreset](../../aspose.psd.imageoptions/jpegoptions/jpeglspreset) { get; set; } | 获取或设置JPEG-LS预设参数。 |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | 多页选项 |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | 获取或设置调色板。 |
-| [PreblendAlphaIfPresent](../../aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent) { get; set; } | 获取或设置一个值，该值指示红色、绿色和蓝色分量是否应与背景颜色混合，如果存在 alpha 通道。 |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | 获取或设置进度事件处理程序。 |
-| [Quality](../../aspose.psd.imageoptions/jpegoptions/quality) { get; set; } | 获取或设置图像质量。 |
-| [RdOptSettings](../../aspose.psd.imageoptions/jpegoptions/rdoptsettings) { get; set; } | 获取或设置 RD 优化器设置。 |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | 获取或设置分辨率设置。 |
-| [ResolutionUnit](../../aspose.psd.imageoptions/jpegoptions/resolutionunit) { get; set; } | 获取或设置分辨率单位。 |
-| [RgbColorProfile](../../aspose.psd.imageoptions/jpegoptions/rgbcolorprofile) { get; set; } | CMYK jpeg 图像的目标 RGB 颜色配置文件。用于保存图像。必须与 CMYKColorProfile 配对以进行正确的颜色转换。 |
-| [SampleRoundingMode](../../aspose.psd.imageoptions/jpegoptions/sampleroundingmode) { get; set; } | 获取或设置样本舍入模式以将 8 位值适合 n 位值。BitsPerChannel |
-| [ScaledQuality](../../aspose.psd.imageoptions/jpegoptions/scaledquality) { get; } | 缩放质量。 |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | 获取或设置要在其中创建图像的源。 |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | 获取或设置矢量光栅化选项。 |
-| [VerticalSampling](../../aspose.psd.imageoptions/jpegoptions/verticalsampling) { get; set; } | 获取或设置每个分量的垂直二次采样。 |
-| override [XmpData](../../aspose.psd.imageoptions/jpegoptions/xmpdata) { get; set; } | 获取或设置 XMP 元数据容器。 |
+| [BitsPerChannel](../../aspose.psd.imageoptions/jpegoptions/bitsperchannel/) { get; set; } | 获取或设置无损 jpeg 图像的每通道位数。现在我们支持每通道 2 到 8 位。 |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | 获取或设置缓冲区大小提示，它是为所有内部缓冲区定义的最大允许大小。 |
+| [CmykColorProfile](../../aspose.psd.imageoptions/jpegoptions/cmykcolorprofile/) { get; set; } | CMYK jpeg 图像的目标 CMYK 颜色配置文件。用于保存图像。必须与 RGBColorProfile 配对才能进行正确的颜色转换。 |
+| [ColorType](../../aspose.psd.imageoptions/jpegoptions/colortype/) { get; set; } | 获取或设置 jpeg 图像的颜色类型。 |
+| [Comment](../../aspose.psd.imageoptions/jpegoptions/comment/) { get; set; } | 获取或设置 jpeg 文件注释。 |
+| [CompressionType](../../aspose.psd.imageoptions/jpegoptions/compressiontype/) { get; set; } | 获取或设置压缩类型。 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果系统中未显示 PSD 文件中的现有图层字体）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); 复制代码 |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 获取一个值，该值表示该实例是否被释放。 |
+| [ExifData](../../aspose.psd.imageoptions/jpegoptions/exifdata/) { get; set; } | 获取或设置 exif 数据容器 |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | 获取或设置一个值，表示是否[全帧]. |
+| [HorizontalSampling](../../aspose.psd.imageoptions/jpegoptions/horizontalsampling/) { get; set; } | 获取或设置每个组件的水平二次采样。 |
+| [Jfif](../../aspose.psd.imageoptions/jpegoptions/jfif/) { get; set; } | 获取或设置 jfif. |
+| [JpegLsAllowedLossyError](../../aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror/) { get; set; } | 获取或设置近乎无损编码的 JPEG-LS 差异边界（来自 JPEG-LS 规范的 NEAR 参数）。 |
+| [JpegLsInterleaveMode](../../aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode/) { get; set; } | 获取或设置 JPEG-LS 交错模式。 |
+| [JpegLsPreset](../../aspose.psd.imageoptions/jpegoptions/jpeglspreset/) { get; set; } | 获取或设置 JPEG-LS 预设参数。 |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | 多页选项 |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | 获取或设置调色板。 |
+| [PreblendAlphaIfPresent](../../aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/) { get; set; } | 获取或设置一个值，该值指示如果存在 alpha 通道，红色、绿色和蓝色分量是否应与背景颜色混合。 |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | 获取或设置进度事件处理程序。 |
+| [Quality](../../aspose.psd.imageoptions/jpegoptions/quality/) { get; set; } | 获取或设置图像质量。 |
+| [RdOptSettings](../../aspose.psd.imageoptions/jpegoptions/rdoptsettings/) { get; set; } | 获取或设置 RD 优化器设置。 |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | 获取或设置分辨率设置。 |
+| [ResolutionUnit](../../aspose.psd.imageoptions/jpegoptions/resolutionunit/) { get; set; } | 获取或设置分辨率单位。 |
+| [RgbColorProfile](../../aspose.psd.imageoptions/jpegoptions/rgbcolorprofile/) { get; set; } | CMYK jpeg 图像的目标 RGB 颜色配置文件。用于保存图像。必须与 CMYKColorProfile 配对才能进行正确的颜色转换。 |
+| [SampleRoundingMode](../../aspose.psd.imageoptions/jpegoptions/sampleroundingmode/) { get; set; } | 获取或设置样本舍入模式以将 8 位值拟合到 n 位值。BitsPerChannel |
+| [ScaledQuality](../../aspose.psd.imageoptions/jpegoptions/scaledquality/) { get; } | 缩放后的质量。 |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | 获取或设置创建图像的来源. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | 获取或设置矢量光栅化选项。 |
+| [VerticalSampling](../../aspose.psd.imageoptions/jpegoptions/verticalsampling/) { get; set; } | 获取或设置每个组件的垂直二次采样。 |
+| override [XmpData](../../aspose.psd.imageoptions/jpegoptions/xmpdata/) { get; set; } | 获取或设置 XMP 元数据容器。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | 克隆此实例。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | 处理当前实例。 |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | 克隆此实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 处理当前实例。 |
 
 ### 例子
 
-此示例演示了使用 Aspose.PSD for .Net API 将图像转换为 Jpeg 格式。为了实现这个目标，这个例子加载了一个现有的图像，然后将其转换为 Jpeg 文件格式。
+此示例演示了使用 Aspose.PSD for .Net API 将图像转换为 Jpeg 格式。为实现此目标，此示例加载现有图像，然后将其转换为 Jpeg 文件格式。
 
 ```csharp
 [C#]
 
-//创建一个图像类的实例，并通过文件路径使用现有文件对其进行初始化
+//创建图像类的实例并通过文件路径用现有文件对其进行初始化
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    //创建一个PsdOptions类的实例
+    //创建 PsdOptions 类的实例
     Aspose.PSD.ImageOptions.JpegOptions jpegOptions = new Aspose.PSD.ImageOptions.JpegOptions();
 
-    //将质量设置为 50% 以减小输出图像的大小。
+    //将质量设置为 50% 以减小输出图像的尺寸。
     jpegOptions.Quality = 50;
 
     //设置exif注释。
@@ -88,19 +88,19 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-这个例子演示了使用 System.IO.Stream 创建一个新的 Image 文件
+这个例子演示了使用 System.IO.Stream 来创建一个新的图像文件
 
 ```csharp
 [C#]
 
-//创建一个 PsdOptions 实例并设置它的各种属性
+//创建 PsdOptions 的实例并设置其各种属性
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
 //创建System.IO.Stream的实例
 System.IO.Stream stream = new System.IO.FileStream(@"C:\temp\sample.psd", System.IO.FileMode.Create);
 
-//定义PsdOptions实例的源属性
-//第二个布尔参数确定Stream一旦超出范围就被释放
+//定义PsdOptions实例的source属性
+//第二个布尔参数决定流一旦超出范围是否被释放
 psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream, true);
 
 //创建一个Image实例，调用Create方法以PsdOptions为参数初始化Image对象   
@@ -110,12 +110,12 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 }
 ```
 
-此示例演示了将 SaveOptions 命名空间中的不同类用于导出目的。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
+此示例演示了使用 SaveOptions 命名空间中的不同类进行导出。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
 
 ```csharp
 [C#]
 
-//在Image类的实例中加载现有图像
+//在 Image 类的实例中加载现有图像
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
     //使用默认选项导出为BMP文件格式
@@ -124,21 +124,21 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
     //使用默认选项导出为JPEG文件格式
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 
-    //使用默认选项导出为JPEG 2000文件格式
+    //使用默认选项导出为 JPEG 2000 文件格式
     image.Save(@"C:\temp\output.jp2", new Aspose.PSD.ImageOptions.Jpeg2000Options());
 
     //使用默认选项导出为PNG文件格式
     image.Save(@"C:\temp\output.png", new Aspose.PSD.ImageOptions.PngOptions());
 
-    //使用默认选项导出为 TIFF 文件格式
+    //使用默认选项导出为TIFF文件格式
     image.Save(@"c:\temp\output.tiff", new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default));
 }
 ```
 
 ### 也可以看看
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* 命名空间 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* 命名空间 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

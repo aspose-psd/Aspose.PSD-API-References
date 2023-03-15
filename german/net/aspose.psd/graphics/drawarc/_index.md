@@ -1,7 +1,7 @@
 ---
-title: DrawArc
+title: Graphics.DrawArc
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Zeichnet einen Bogen der einen Teil einer Ellipse darstellt die durch ein Koordinatenpaar eine Breite und eine Höhe angegeben wird.
+description: Graphics methode. Zeichnet einen Bogen der einen Teil einer Ellipse darstellt die durch ein Koordinatenpaar eine Breite und eine Höhe angegeben wird.
 type: docs
 weight: 160
 url: /de/net/aspose.psd/graphics/drawarc/
@@ -17,7 +17,7 @@ public void DrawArc(Pen pen, float x, float y, float width, float height, float 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) die die Farbe, Breite und den Stil des Bogens bestimmt. |
+| pen | Pen | [`Pen`](../../pen/) die die Farbe, Breite und den Stil des Bogens bestimmt. |
 | x | Single | Die x-Koordinate der oberen linken Ecke des Rechtecks, das die Ellipse definiert. |
 | y | Single | Die y-Koordinate der oberen linken Ecke des Rechtecks, das die Ellipse definiert. |
 | width | Single | Breite des Rechtecks, das die Ellipse definiert. |
@@ -33,16 +33,16 @@ public void DrawArc(Pen pen, float x, float y, float width, float height, float 
 
 ### Siehe auch
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* namensraum [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* namensraum [Aspose.PSD](../../graphics/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, RectangleF, float, float) {#drawarc_1}
 
-Zeichnet einen Bogen, der einen Teil einer durch a angegebenen Ellipse darstellt[`RectangleF`](../../rectanglef)Struktur.
+Zeichnet einen Bogen, der einen Teil einer durch a angegebenen Ellipse darstellt[`RectangleF`](../../rectanglef/)Struktur.
 
 ```csharp
 public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
@@ -50,8 +50,8 @@ public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) die die Farbe, Breite und den Stil des Bogens bestimmt. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) Struktur, die die Grenzen der Ellipse definiert. |
+| pen | Pen | [`Pen`](../../pen/) die die Farbe, Breite und den Stil des Bogens bestimmt. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) Struktur, die die Grenzen der Ellipse definiert. |
 | startAngle | Single | Winkel in Grad, gemessen im Uhrzeigersinn von der x-Achse zum Anfangspunkt des Bogens. |
 | sweepAngle | Single | Winkel in Grad im Uhrzeigersinn gemessen von der*startAngle* Parameter zum Endpunkt des Bogens. |
 
@@ -63,10 +63,10 @@ public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 ### Siehe auch
 
-* class [Pen](../../pen)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* namensraum [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* namensraum [Aspose.PSD](../../graphics/)
 * Montage [Aspose.PSD](../../../)
 
 ---
@@ -81,7 +81,7 @@ public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) die die Farbe, Breite und den Stil des Bogens bestimmt. |
+| pen | Pen | [`Pen`](../../pen/) die die Farbe, Breite und den Stil des Bogens bestimmt. |
 | x | Int32 | Die x-Koordinate der oberen linken Ecke des Rechtecks, das die Ellipse definiert. |
 | y | Int32 | Die y-Koordinate der oberen linken Ecke des Rechtecks, das die Ellipse definiert. |
 | width | Int32 | Breite des Rechtecks, das die Ellipse definiert. |
@@ -97,16 +97,16 @@ public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle
 
 ### Siehe auch
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* namensraum [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* namensraum [Aspose.PSD](../../graphics/)
 * Montage [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, Rectangle, float, float) {#drawarc}
 
-Zeichnet einen Bogen, der einen Teil einer durch a angegebenen Ellipse darstellt[`Rectangle`](../../rectangle)Struktur.
+Zeichnet einen Bogen, der einen Teil einer durch a angegebenen Ellipse darstellt[`Rectangle`](../../rectangle/)Struktur.
 
 ```csharp
 public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
@@ -114,8 +114,8 @@ public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) die die Farbe, Breite und den Stil des Bogens bestimmt. |
-| rect | Rectangle | [`RectangleF`](../../rectanglef) Struktur, die die Grenzen der Ellipse definiert. |
+| pen | Pen | [`Pen`](../../pen/) die die Farbe, Breite und den Stil des Bogens bestimmt. |
+| rect | Rectangle | [`RectangleF`](../../rectanglef/) Struktur, die die Grenzen der Ellipse definiert. |
 | startAngle | Single | Winkel in Grad, gemessen im Uhrzeigersinn von der x-Achse zum Anfangspunkt des Bogens. |
 | sweepAngle | Single | Winkel in Grad im Uhrzeigersinn gemessen von der*startAngle* Parameter zum Endpunkt des Bogens. |
 
@@ -127,10 +127,10 @@ public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 ### Siehe auch
 
-* class [Pen](../../pen)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* namensraum [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* namensraum [Aspose.PSD](../../graphics/)
 * Montage [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

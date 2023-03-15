@@ -1,9 +1,9 @@
 ---
-title: ITextParagraph
+title: Interface ITextParagraph
 second_title: Referencia de API de Aspose.PSD para .NET
-description: La interfaz para trabajar con el párrafo
+description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph interfaz. La interfaz para trabajar con el párrafo
 type: docs
-weight: 3460
+weight: 3520
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
 ## ITextParagraph interface
@@ -18,34 +18,34 @@ public interface ITextParagraph
 
 | Nombre | Descripción |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate) { get; set; } | Obtiene o establece un valor que indica si [guión automático]. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading) { get; set; } | Obtiene o establece el interlineado automático. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari) { get; set; } | Obtiene o establece un valor que indica si este[`ITextParagraph`](../itextparagraph) es burasagiri. |
-| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens) { get; set; } | Obtiene o establece los guiones consecutivos. |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent) { get; set; } | Obtiene o establece la sangría final. |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer) { get; set; } | Obtiene o establece un valor que indica si [every line composer]. |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent) { get; set; } | Obtiene o establece la sangría de la primera línea. |
-| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing) { get; set; } | Obtiene o establece el espaciado de glifos. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging) { get; set; } | Obtiene o establece un valor que indica si este[`ITextParagraph`](../itextparagraph) esta colgando. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize) { get; set; } | Obtiene o establece el tamaño de la palabra con guión. |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification) { get; set; } | Obtiene o establece la justificación. |
-| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder) { get; set; } | Obtiene o establece el orden kinsoku. |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype) { get; set; } | Obtiene o establece el tipo de interlineado. |
-| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing) { get; set; } | Obtiene o establece el espaciado entre letras. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen) { get; set; } | Obtiene o establece el guión de publicación. |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen) { get; set; } | Obtiene o establece el guión previo. |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter) { get; set; } | Obtiene o establece el espacio después de. |
-| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore) { get; set; } | Obtiene o establece el espacio anterior. |
-| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent) { get; set; } | Obtiene o establece la sangría inicial. |
-| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing) { get; set; } | Obtiene o establece el espaciado entre palabras. |
-| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone) { get; set; } | Obtiene o establece la zona. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Obtiene o establece un valor que indica si [guión automático]. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Obtiene o establece el interlineado automático. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Obtiene o establece un valor que indica si este`ITextParagraph`es burasagiri. |
+| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Obtiene o establece los guiones consecutivos. |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Obtiene o establece la sangría final. |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Obtiene o establece un valor que indica si [every line composer]. |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Obtiene o establece la sangría de la primera línea. |
+| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Obtiene o establece el espaciado de glifos. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Obtiene o establece un valor que indica si este`ITextParagraph` esta colgando. |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Obtiene o establece el tamaño de la palabra con guión. |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Obtiene o establece la justificación. |
+| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Obtiene o establece el orden kinsoku. |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Obtiene o establece el tipo de interlineado. |
+| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Obtiene o establece el espaciado entre letras. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Obtiene o establece el guión de publicación. |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Obtiene o establece el guión previo. |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Obtiene o establece el espacio después de. |
+| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Obtiene o establece el espacio anterior. |
+| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Obtiene o establece la sangría inicial. |
+| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Obtiene o establece el espaciado entre palabras. |
+| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Obtiene o establece la zona. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply)(ITextParagraph) | Aplica el párrafo especificado. |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal)(ITextParagraph) | Determina si el párrafo especificado es igual. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | Aplica el párrafo especificado. |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | Determina si el párrafo especificado es igual. |
 
 ### Ejemplos
 
@@ -227,7 +227,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

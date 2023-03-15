@@ -1,14 +1,14 @@
 ---
-title: LayerMaskDataFull
+title: Class LayerMaskDataFull
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс LayerMaskDataFull который содержит информацию о данных маски в файле PSD layer  когда слой имеет как слойную так и векторную маску. В противном случаеLayerMaskDataShort./layermaskdatashort используется. ImageData содержит комбинацию растровой маски и растрированной векторной маски. Длина байтов ImageData должна быть равна MaskRectangle.Width  MaskRectangle.Height properties.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskDataFull сорт. Определяет класс LayerMaskDataFull который содержит информацию о данных маски в файле PSD layer  когда слой имеет как слойную так и векторную маску. В противном случаеLayerMaskDataShort используется. ImageData содержит комбинацию растровой маски и растрированной векторной маски. Длина байтов ImageData должна быть равна MaskRectangle.Width  MaskRectangle.Height properties.
 type: docs
-weight: 2230
+weight: 2250
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/
 ---
 ## LayerMaskDataFull class
 
-Определяет класс LayerMaskDataFull, который содержит информацию о данных маски в файле PSD layer , когда слой имеет как слойную, так и векторную маску. В противном случае[`LayerMaskDataShort`](../layermaskdatashort) используется. ImageData содержит комбинацию растровой маски и растрированной векторной маски. Длина байтов ImageData должна быть равна MaskRectangle.Width * MaskRectangle.Height properties.
+Определяет класс LayerMaskDataFull, который содержит информацию о данных маски в файле PSD layer , когда слой имеет как слойную, так и векторную маску. В противном случае[`LayerMaskDataShort`](../layermaskdatashort/) используется. ImageData содержит комбинацию растровой маски и растрированной векторной маски. Длина байтов ImageData должна быть равна MaskRectangle.Width * MaskRectangle.Height properties.
 
 ```csharp
 public sealed class LayerMaskDataFull : LayerMaskData
@@ -18,34 +18,34 @@ public sealed class LayerMaskDataFull : LayerMaskData
 
 | Имя | Описание |
 | --- | --- |
-| [LayerMaskDataFull](layermaskdatafull)() | Конструктор по умолчанию. |
+| [LayerMaskDataFull](layermaskdatafull/)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BackgroundColor](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor) { get; set; } | Получает или задает цвет фона. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom) { get; set; } | Получает или задает позицию маски нижнего слоя. |
-| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize) { get; } | Получает размер данных маски слоя-маски. |
-| [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor) { get; set; } | Получает или задает цвет по умолчанию. |
-| [EnclosingBottom](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingbottom) { get; set; } | Получает или задает позицию вмещающей нижней растровой маски в слое изображения PSD. |
-| [EnclosingLeft](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingleft) { get; set; } | Получает или задает положение левой маски растра в слое файла PSD. |
-| [EnclosingRight](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright) { get; set; } | Получает или задает положение правой растровой маски в слое файла PSD. |
-| [EnclosingTop](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingtop) { get; set; } | Получает или задает положение верхней границы растровой маски в слое изображения PSD. |
-| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags) { get; set; } | Получает или устанавливает флаги маски слоя. |
-| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata) { get; set; } | Получает или задает данные маски слоя (или комбинированной/конечной маски, если есть векторная маска) в файле PSD. |
-| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left) { get; set; } | Получает или задает положение маски левого слоя. |
-| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle) { get; set; } | Получает или устанавливает маску[`Rectangle`](../../aspose.psd/rectangle)маски слоя в файле PSD. Он принимает левые, правые, верхние и нижние свойства и создает[`Rectangle`](../../aspose.psd/rectangle) |
-| [RealFlags](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags) { get; set; } | Получает или устанавливает флаги маски слоя, которая используется для пользовательской/растровой маски. Для векторной маски используется свойство Флаги. |
-| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right) { get; set; } | Получает или задает правильное положение маски слоя. |
-| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top) { get; set; } | Получает или задает положение маски верхнего слоя. |
-| [UserMaskData](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskdata) { get; set; } | Получает или задает данные пользовательской (растровой) маски слоя в PSD-файле. (В свойстве MaskData есть рейтеризованная векторная маска). |
-| [UserMaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskrectangle) { get; set; } | Получает или задает прямоугольник маски пользователя (окружающий) в слое изображения PSD.. |
+| [BackgroundColor](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor/) { get; set; } | Получает или задает цвет фона. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom/) { get; set; } | Получает или задает позицию маски нижнего слоя. |
+| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize/) { get; } | Получает размер данных маски слоя-маски. |
+| [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/) { get; set; } | Получает или задает цвет по умолчанию. |
+| [EnclosingBottom](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingbottom/) { get; set; } | Получает или задает позицию вмещающей нижней растровой маски в слое изображения PSD. |
+| [EnclosingLeft](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingleft/) { get; set; } | Получает или задает положение левой маски растра в слое файла PSD. |
+| [EnclosingRight](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/) { get; set; } | Получает или задает положение правой растровой маски в слое файла PSD. |
+| [EnclosingTop](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingtop/) { get; set; } | Получает или задает положение верхней границы растровой маски в слое изображения PSD. |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags/) { get; set; } | Получает или устанавливает флаги маски слоя. |
+| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) { get; set; } | Получает или задает данные маски слоя (или комбинированной/конечной маски, если есть векторная маска) в файле PSD. |
+| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left/) { get; set; } | Получает или задает положение маски левого слоя. |
+| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) { get; set; } | Получает или устанавливает маску[`Rectangle`](../../aspose.psd/rectangle/)маски слоя в файле PSD. Он принимает левые, правые, верхние и нижние свойства и создает[`Rectangle`](../../aspose.psd/rectangle/) |
+| [RealFlags](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags/) { get; set; } | Получает или устанавливает флаги маски слоя, которая используется для пользовательской/растровой маски. Для векторной маски используется свойство Флаги. |
+| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right/) { get; set; } | Получает или задает правильное положение маски слоя. |
+| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top/) { get; set; } | Получает или задает положение маски верхнего слоя. |
+| [UserMaskData](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskdata/) { get; set; } | Получает или задает данные пользовательской (растровой) маски слоя в PSD-файле. (В свойстве MaskData есть рейтеризованная векторная маска). |
+| [UserMaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskrectangle/) { get; set; } | Получает или задает прямоугольник маски пользователя (окружающий) в слое изображения PSD.. |
 
 ### Смотрите также
 
-* class [LayerMaskData](../layermaskdata)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers)
+* class [LayerMaskData](../layermaskdata/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

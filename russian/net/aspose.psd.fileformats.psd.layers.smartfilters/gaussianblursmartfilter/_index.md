@@ -1,9 +1,9 @@
 ---
-title: GaussianBlurSmartFilter
+title: Class GaussianBlurSmartFilter
 second_title: Справочник по Aspose.PSD для .NET API
-description: Интеллектуальный фильтр GaussianBlur.
+description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.GaussianBlurSmartFilter сорт. Интеллектуальный фильтр GaussianBlur.
 type: docs
-weight: 3370
+weight: 3430
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/
 ---
 ## GaussianBlurSmartFilter class
@@ -18,33 +18,33 @@ public sealed class GaussianBlurSmartFilter : SmartFilter
 
 | Имя | Описание |
 | --- | --- |
-| [GaussianBlurSmartFilter](gaussianblursmartfilter)() | Инициализирует новый экземпляр[`GaussianBlurSmartFilter`](../gaussianblursmartfilter) класс. |
+| [GaussianBlurSmartFilter](gaussianblursmartfilter/)() | Инициализирует новый экземпляр`GaussianBlurSmartFilter` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode) { get; set; } | Получает или задает режим наложения. |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filterid) { get; } | Получает идентификатор типа интеллектуального фильтра. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | Получает или задает состояние включения интеллектуального фильтра. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name) { get; } | Получает имя смарт-фильтра. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity) { get; set; } | Получает или задает значение непрозрачности интеллектуального фильтра. |
-| [Radius](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius) { get; set; } | Получает или задает радиус интеллектуального фильтра Гаусса. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | Структура исходного дескриптора с данными интеллектуального фильтра. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Получает или задает режим наложения. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filterid/) { get; } | Получает идентификатор типа интеллектуального фильтра. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Получает или задает состояние включения интеллектуального фильтра. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name/) { get; } | Получает имя смарт-фильтра. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Получает или задает значение непрозрачности интеллектуального фильтра. |
+| [Radius](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius/) { get; set; } | Получает или задает радиус интеллектуального фильтра Гаусса. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Структура исходного дескриптора с данными интеллектуального фильтра. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | Применяет текущий фильтр ко входу[`RasterImage`](../../aspose.psd/rasterimage) изображение. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | Применяет текущий фильтр ко входу[`Layer`](../../aspose.psd.fileformats.psd.layers/layer) данные маски. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | Создает почленный клон текущего экземпляра типа. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Применяет текущий фильтр ко входу[`RasterImage`](../../aspose.psd/rasterimage/) изображение. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Применяет текущий фильтр ко входу[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) данные маски. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Создает почленный клон текущего экземпляра типа. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype) | Идентификатор текущего смарт-фильтра. |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/) | Идентификатор текущего смарт-фильтра. |
 
 ### Примеры
 
@@ -91,7 +91,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // применять изменения
+    // применить изменения
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Применение фильтров
@@ -120,8 +120,8 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 ### Смотрите также
 
-* class [SmartFilter](../smartfilter)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters)
+* class [SmartFilter](../smartfilter/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

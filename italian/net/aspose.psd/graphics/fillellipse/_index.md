@@ -1,14 +1,14 @@
 ---
-title: FillEllipse
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Riempie linterno di unellisse definita da un rettangolo di delimitazione specificato da aRectangleFaspose.psd/rectanglefstruttura.
+title: Graphics.FillEllipse
+second_title: Aspose.PSD per riferimento API .NET
+description: Graphics metodo. Riempie linterno di unellisse definita da un rettangolo di delimitazione specificato da aRectangleFstruttura.
 type: docs
 weight: 350
 url: /it/net/aspose.psd/graphics/fillellipse/
 ---
 ## FillEllipse(Brush, RectangleF) {#fillellipse_1}
 
-Riempie l'interno di un'ellisse definita da un rettangolo di delimitazione specificato da a[`RectangleF`](../../rectanglef)struttura.
+Riempie l'interno di un'ellisse definita da un rettangolo di delimitazione specificato da a[`RectangleF`](../../rectanglef/)struttura.
 
 ```csharp
 public void FillEllipse(Brush brush, RectangleF rect)
@@ -16,8 +16,8 @@ public void FillEllipse(Brush brush, RectangleF rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)struttura che rappresenta il rettangolo di delimitazione che definisce l'ellisse. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/)struttura che rappresenta il rettangolo di delimitazione che definisce l'ellisse. |
 
 ### Eccezioni
 
@@ -27,10 +27,10 @@ public void FillEllipse(Brush brush, RectangleF rect)
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -45,9 +45,9 @@ public void FillEllipse(Brush brush, float x, float y, float width, float height
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| x | Single | Coordinata x dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
-| y | Single | Coordinata y dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| x | Single | La coordinata x dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
+| y | Single | La coordinata y dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
 | width | Single | Larghezza del rettangolo di delimitazione che definisce l'ellisse. |
 | height | Single | Altezza del rettangolo di delimitazione che definisce l'ellisse. |
 
@@ -59,16 +59,16 @@ public void FillEllipse(Brush brush, float x, float y, float width, float height
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, Rectangle) {#fillellipse}
 
-Riempie l'interno di un'ellisse definita da un rettangolo di delimitazione specificato da a[`Rectangle`](../../rectangle)struttura.
+Riempie l'interno di un'ellisse definita da un rettangolo di delimitazione specificato da a[`Rectangle`](../../rectangle/)struttura.
 
 ```csharp
 public void FillEllipse(Brush brush, Rectangle rect)
@@ -76,8 +76,8 @@ public void FillEllipse(Brush brush, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| rect | Rectangle | [`Rectangle`](../../rectangle)struttura che rappresenta il rettangolo di delimitazione che definisce l'ellisse. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/)struttura che rappresenta il rettangolo di delimitazione che definisce l'ellisse. |
 
 ### Eccezioni
 
@@ -87,10 +87,10 @@ public void FillEllipse(Brush brush, Rectangle rect)
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
@@ -105,9 +105,9 @@ public void FillEllipse(Brush brush, int x, int y, int width, int height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| x | Int32 | Coordinata x dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
-| y | Int32 | Coordinata y dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| x | Int32 | La coordinata x dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
+| y | Int32 | La coordinata y dell'angolo superiore sinistro del rettangolo di delimitazione che definisce l'ellisse. |
 | width | Int32 | Larghezza del rettangolo di delimitazione che definisce l'ellisse. |
 | height | Int32 | Altezza del rettangolo di delimitazione che definisce l'ellisse. |
 
@@ -119,9 +119,9 @@ public void FillEllipse(Brush brush, int x, int y, int width, int height)
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

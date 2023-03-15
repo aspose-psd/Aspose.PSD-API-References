@@ -1,7 +1,7 @@
 ---
-title: CustomLineCap
+title: Class CustomLineCap
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инкапсулирует определяемый пользователем заголовок строки.
+description: Aspose.PSD.CustomLineCap сорт. Инкапсулирует определяемый пользователем заголовок строки.
 type: docs
 weight: 700
 url: /ru/net/aspose.psd/customlinecap/
@@ -18,31 +18,31 @@ public class CustomLineCap
 
 | Имя | Описание |
 | --- | --- |
-| [CustomLineCap](customlinecap#constructor)(GraphicsPath, GraphicsPath) | Инициализирует новый экземпляр[`CustomLineCap`](../customlinecap) класс с указанным контуром и заливкой. |
-| [CustomLineCap](customlinecap#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Инициализирует новый экземпляр[`CustomLineCap`](../customlinecap) класс из указанного существующего[`LineCap`](../linecap) перечисление с заданным контуром и заливкой. |
-| [CustomLineCap](customlinecap#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Инициализирует новый экземпляр[`CustomLineCap`](../customlinecap) класс из указанного существующего[`LineCap`](../linecap)перечисление с указанным контуром, заливкой и вставкой. |
+| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | Инициализирует новый экземпляр`CustomLineCap` класс с указанным контуром и заливкой. |
+| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Инициализирует новый экземпляр`CustomLineCap` класс из указанного существующего[`LineCap`](../linecap/) перечисление с заданным контуром и заливкой. |
+| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Инициализирует новый экземпляр`CustomLineCap` класс из указанного существующего[`LineCap`](../linecap/)перечисление с указанным контуром, заливкой и вставкой. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [BaseCap](../../aspose.psd/customlinecap/basecap) { get; set; } | Получает или задает[`LineCap`](../linecap) перечисление, по которому это[`CustomLineCap`](../customlinecap) основано . |
-| [BaseInset](../../aspose.psd/customlinecap/baseinset) { get; set; } | Получает или задает расстояние между крышкой и линией. |
-| [FillPath](../../aspose.psd/customlinecap/fillpath) { get; set; } | Получает или задает объект, определяющий заливку пользовательского колпачка. |
-| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin) { get; set; } | Получает или задает[`LineJoin`](../linejoin) перечисление, которое определяет, как строки, составляющие это[`CustomLineCap`](../customlinecap)объекты объединены. |
-| [StrokePath](../../aspose.psd/customlinecap/strokepath) { get; set; } | Получает или задает объект, определяющий контур пользовательской крышки. |
-| [WidthScale](../../aspose.psd/customlinecap/widthscale) { get; set; } | Получает или задает величину масштабирования этого[`CustomLineCap`](../customlinecap) Объект класса относительно шириныPen объект. |
+| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Получает или задает[`LineCap`](../linecap/) перечисление, по которому это`CustomLineCap` основано . |
+| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Получает или задает расстояние между крышкой и линией. |
+| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Получает или задает объект, определяющий заливку пользовательского колпачка. |
+| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Получает или задает[`LineJoin`](../linejoin/) перечисление, которое определяет, как строки, составляющие это`CustomLineCap`объекты объединены. |
+| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Получает или задает объект, определяющий контур пользовательской крышки. |
+| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Получает или задает величину масштабирования этого`CustomLineCap` Объект класса относительно шириныPen объект. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps)(out LineCap, out LineCap) | Получает заглавные буквы, используемые для начальной и конечной строк, составляющих этот пользовательский заглавный элемент. |
-| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps)(LineCap, LineCap) | Устанавливает заглавные буквы, используемые для начальной и конечной строк, составляющих этот пользовательский заглавный элемент. |
+| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Получает заглавные буквы, используемые для начальной и конечной строк, составляющих этот пользовательский заглавный элемент. |
+| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Устанавливает заглавные буквы, используемые для начальной и конечной строк, составляющих этот пользовательский заглавный элемент. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.PSD](../../aspose.psd)
+* пространство имен [Aspose.PSD](../../aspose.psd/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

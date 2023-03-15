@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Resources
 second_title: Referencia de API de Aspose.PSD para .NET
 description: El espacio de nombres contiene entidades de recursos en formato de archivo PSD.
 type: docs
-weight: 340
+weight: 350
 url: /es/net/aspose.psd.fileformats.psd.resources/
 ---
 El espacio de nombres contiene entidades de recursos en formato de archivo PSD.
@@ -12,44 +12,44 @@ El espacio de nombres contiene entidades de recursos en formato de archivo PSD.
 
 | Clase | Descripción |
 | --- | --- |
-| [AnimatedDataSectionResource](./animateddatasectionresource) | El recurso del complemento Sección de datos animados. |
-| [BackgroundColorResource](./backgroundcolorresource) | El recurso con información de borde de configuración de impresión de imagen. |
-| [BorderInformationResource](./borderinformationresource) | El recurso con información de borde de configuración de impresión de imagen. |
-| [CaptionDigestResource](./captiondigestresource) | CaptionDigest recurso |
-| [ColorHalftoneInformationResource](./colorhalftoneinformationresource) | Medios tonos recurso |
-| [ColorTransferFunctionsResource](./colortransferfunctionsresource) | Recurso de transferencia de color |
-| [DocumentSpecificIdsResource](./documentspecificidsresource) | ID de documentos específicos resource |
-| [FixedPointDecimal](./fixedpointdecimal) | Decimal en punto fijo, con entero de 16 bits y fracción de 16 bits. |
-| [GlobalAltitudeResource](./globalaltituderesource) | Recurso de altitud global |
-| [GlobalAngleResource](./globalangleresource) | Recurso de ángulo global |
-| [GridAndGuidesResouce](./gridandguidesresouce) | Representa el recurso de cuadrícula y guías. |
-| [GuideResource](./guideresource) | El bloque de recursos de la guía. |
-| [IccProfileResource](./iccprofileresource) | Representa el recurso de perfil ICC. |
-| [IccUntaggedResource](./iccuntaggedresource) | Icc sin etiquetar recurso |
-| [LayerGroupInformationResource](./layergroupinformationresource) | Información de grupo de capas resource |
-| [LayerGroupsEnabledResource](./layergroupsenabledresource) | Grupos de capas habilitados resource |
-| [LayerSelectionIdsResource](./layerselectionidsresource) | ID de selección de capa resource |
-| [LayerStateInformationResource](./layerstateinformationresource) | Recurso de información de estado de capa |
-| [PixelAspectRatioResource](./pixelaspectratioresource) | Relación de aspecto de píxeles resource |
-| [PrintFlagsResource](./printflagsresource) | Imprimir banderas resource |
-| [PrintScaleResource](./printscaleresource) | Imprimir recurso de escala |
-| [QuickMaskInformationResource](./quickmaskinformationresource) | Información de máscara rápida recurso |
-| [ResolutionInfoResource](./resolutioninforesource) | El recurso de información de resolución |
-| [Thumbnail4Resource](./thumbnail4resource) | Representa el recurso de miniaturas para psd 4.0. |
-| [ThumbnailResource](./thumbnailresource) | El bloque de recursos de miniaturas. |
-| [TransparencyIndexResource](./transparencyindexresource) | El bloque de recursos del índice de transparencia. |
-| [UnicodeAlphaNamesResource](./unicodealphanamesresource) | Nombres alfa Unicode resource |
-| [UnknownResource](./unknownresource) | El recurso desconocido. Cuando no se reconoce un bloque de recursos, se crea este bloque de recursos. |
-| [UrlListResource](./urllistresource) | Lista de URL recurso |
-| [VersionInfoResource](./versioninforesource) | Información de la versión resource |
-| [WatermarkResource](./watermarkresource) | Recurso de marca de agua |
-| [WorkingPathResource](./workingpathresource) | Ruta de trabajo recurso. |
-| [XmpResource](./xmpresource) | Representa el recurso de metadatos XMP. |
+| [AnimatedDataSectionResource](./animateddatasectionresource/) | El recurso del complemento Sección de datos animados. |
+| [BackgroundColorResource](./backgroundcolorresource/) | El recurso con información de borde de configuración de impresión de imagen. |
+| [BorderInformationResource](./borderinformationresource/) | El recurso con información de borde de configuración de impresión de imagen. |
+| [CaptionDigestResource](./captiondigestresource/) | CaptionDigest recurso |
+| [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | Medios tonos recurso |
+| [ColorTransferFunctionsResource](./colortransferfunctionsresource/) | Recurso de transferencia de color |
+| [DocumentSpecificIdsResource](./documentspecificidsresource/) | ID de documentos específicos resource |
+| [FixedPointDecimal](./fixedpointdecimal/) | Decimal en punto fijo, con entero de 16 bits y fracción de 16 bits. |
+| [GlobalAltitudeResource](./globalaltituderesource/) | Recurso de altitud global |
+| [GlobalAngleResource](./globalangleresource/) | Recurso de ángulo global |
+| [GridAndGuidesResouce](./gridandguidesresouce/) | Representa el recurso de cuadrícula y guías. |
+| [GuideResource](./guideresource/) | El bloque de recursos de la guía. |
+| [IccProfileResource](./iccprofileresource/) | Representa el recurso de perfil ICC. |
+| [IccUntaggedResource](./iccuntaggedresource/) | Icc sin etiquetar recurso |
+| [LayerGroupInformationResource](./layergroupinformationresource/) | Información de grupo de capas resource |
+| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | Grupos de capas habilitados resource |
+| [LayerSelectionIdsResource](./layerselectionidsresource/) | ID de selección de capa resource |
+| [LayerStateInformationResource](./layerstateinformationresource/) | Recurso de información de estado de capa |
+| [PixelAspectRatioResource](./pixelaspectratioresource/) | Relación de aspecto de píxeles resource |
+| [PrintFlagsResource](./printflagsresource/) | Imprimir banderas resource |
+| [PrintScaleResource](./printscaleresource/) | Imprimir recurso de escala |
+| [QuickMaskInformationResource](./quickmaskinformationresource/) | Información de máscara rápida recurso |
+| [ResolutionInfoResource](./resolutioninforesource/) | El recurso de información de resolución |
+| [Thumbnail4Resource](./thumbnail4resource/) | Representa el recurso de miniaturas para psd 4.0. |
+| [ThumbnailResource](./thumbnailresource/) | El bloque de recursos de miniaturas. |
+| [TransparencyIndexResource](./transparencyindexresource/) | El bloque de recursos del índice de transparencia. |
+| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | Nombres alfa Unicode resource |
+| [UnknownResource](./unknownresource/) | El recurso desconocido. Cuando no se reconoce un bloque de recursos, se crea este bloque de recursos. |
+| [UrlListResource](./urllistresource/) | Lista de URL recurso |
+| [VersionInfoResource](./versioninforesource/) | Información de la versión resource |
+| [WatermarkResource](./watermarkresource/) | Recurso de marca de agua |
+| [WorkingPathResource](./workingpathresource/) | Ruta de trabajo recurso. |
+| [XmpResource](./xmpresource/) | Representa el recurso de metadatos XMP. |
 ## Enumeración
 
 | Enumeración | Descripción |
 | --- | --- |
-| [GuideDirection](./guidedirection) | La dirección de la guía. |
-| [ThumbnailFormat](./thumbnailformat) | Especifica el formato de datos en miniatura. |
+| [GuideDirection](./guidedirection/) | La dirección de la guía. |
+| [ThumbnailFormat](./thumbnailformat/) | Especifica el formato de datos en miniatura. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

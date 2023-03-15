@@ -1,7 +1,7 @@
 ---
-title: GetChannelsHash
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Ottiene lhash dei canali.
+title: LayerHashCalculator.GetChannelsHash
+second_title: Aspose.PSD per riferimento API .NET
+description: LayerHashCalculator metodo. Ottiene lhash dei canali.
 type: docs
 weight: 30
 url: /it/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/
@@ -16,7 +16,7 @@ public int GetChannelsHash()
 
 ### Valore di ritorno
 
-Hash di tutti i canali di livello
+Hash di tutti i canali del livello
 
 ### Esempi
 
@@ -26,11 +26,11 @@ Il codice seguente illustra l'API per ottenere l'hash univoco per livelli simili
 [C#]
 
 /// <summary>
-/// Ottiene il nome del livello da.
+/// Ottiene il nome del layer da.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <nome parametro="immagine">L'immagine.</param>
-/// <nome parametro="nome">Il nome.</param>
+/// <param name="image">L'immagine.</param>
+/// <param name="name">Il nome.</param>
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -47,11 +47,11 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Non è uguale.
+/// Ares il non uguale.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <nome parametro="previsto">Il previsto.</param>
-/// <nome parametro="effettivo">Il valore effettivo.</param>
+/// <param name="expected">Il valore previsto.</param>
+/// <param name="actual">L'attuale.</param>
 /// <exception cref="System.Exception">Gli argomenti non devono essere uguali</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
@@ -62,11 +62,11 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// È uguale.
+/// Ares uguale.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <nome parametro="previsto">Il previsto.</param>
-/// <nome parametro="effettivo">Il valore effettivo.</param>
+/// <param name="expected">Il valore previsto.</param>
+/// <param name="actual">L'attuale.</param>
 /// <exception cref="System.Exception">Gli argomenti devono essere uguali</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
@@ -77,9 +77,9 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Regola regolarmente l'hash test del contenuto del livello.
+/// Regola il test hash del contenuto del livello.
 /// </summary>
-/// <nome parametro="nomefile">Nome del file.</param>
+/// <param name="fileName">Nome del file.</param>
 public static void RegularLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -117,9 +117,9 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Riempie l'hash test del contenuto del livello.
+/// Riempie il test hash del contenuto del livello.
 /// </summary>
-/// <nome parametro="nomefile">Nome del file.</param>
+/// <param name="fileName">Nome del file.</param>
 public static void FillLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -143,7 +143,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // I livelli simili sono sempre nell'unico indice
+            // Livelli simili sono sempre in un indice
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -152,9 +152,9 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Migliora l'hash test del contenuto del livello oggetto.
+/// Migliora il test hash del contenuto del livello oggetto.
 /// </summary>
-/// <nome parametro="nomefile">Nome del file.</param>
+/// <param name="fileName">Nome del file.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -185,7 +185,7 @@ public static void SmartObjectLayerContentHashTest(string fileName)
         // Content Hash è diverso, perché Smart Object utilizza altri dati come contenuto
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // Ma la miscelazione dell'hash è simile. Entrambi i livelli, smart e regular, hanno la modalità di fusione normale e l'opacità 255
+        // Ma la miscelazione dell'hash è simile. Entrambi i livelli - intelligente e regolare hanno la modalità di fusione normale e l'opacità 255
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
         // I dati del canale sono uguali per Layer e Createad da loro Smart Objects.
@@ -194,7 +194,7 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 
         // Content Hash è diverso, perché Smart Object utilizza altri dati come contenuto
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // Ma la miscelazione dell'hash è simile. Entrambi i livelli, smart e regular, hanno la modalità di fusione normale e l'opacità 255
+        // Ma la miscelazione dell'hash è simile. Entrambi i livelli - intelligente e regolare hanno la modalità di fusione normale e l'opacità 255
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -204,9 +204,9 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Regola l'hash test del contenuto dei livelli.
+/// Aggiusta il test hash del contenuto dei livelli.
 /// </summary>
-/// <nome parametro="nomefile">Nome del file.</param>
+/// <param name="fileName">Nome del file.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -248,9 +248,9 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Invia un testo al test di hash del contenuto dei livelli.
+/// Invia il testo al test hash del contenuto dei livelli.
 /// </summary>
-/// <nome parametro="nomefile">Nome del file.</param>
+/// <param name="fileName">Nome del file.</param>
 public static void TextLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -295,17 +295,17 @@ public static void TextLayersContentHashTest(string fileName)
         // La matrice di trasformazione non viene utilizzata nel calcolo dell'hash. Dovresti inoltre controllarlo
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
-        // In questo caso abbiamo una rotazione in matrice
+        // In questo caso abbiamo una rotazione in matrix
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // In questo caso abbiamo solo la traduzione (livello di testo spostato sotto)
+        // In questo caso abbiamo solo la traduzione (Text Layer Shifted below)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// Raggruppa l'hash test del contenuto del livello.
+/// Raggruppa il test hash del contenuto del livello.
 /// </summary>
-/// <nome parametro="nomefile">Nome del file.</param>
+/// <param name="fileName">Nome del file.</param>
 public static void GroupLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -323,16 +323,16 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // L'hash del livello di gruppo viene calcolato dai livelli al suo interno
+        // Group Layer Hash è calcolato dai layer al suo interno
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// Regola regolarmente il contenuto del livello da diversi file hash test.
+/// Regola il contenuto del livello da diversi file hash test.
 /// </summary>
-/// <nome parametro="nomefile">Nome del file.</param>
+/// <param name="fileName">Nome del file.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
 {
     using (var im = (PsdImage) Image.Load(fileName, new PsdLoadOptions() { ReadOnlyMode = true }))
@@ -354,7 +354,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 // I livelli hanno puntatori diversi
                 AreNotEqual(layer, layer_copied);
 
-                // Ma l'hash dei livelli è uguale
+                // Ma gli hash dei livelli sono uguali
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -367,8 +367,8 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 
 ### Guarda anche
 
-* class [LayerHashCalculator](../../layerhashcalculator)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layerhashcalculator)
+* class [LayerHashCalculator](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layerhashcalculator/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

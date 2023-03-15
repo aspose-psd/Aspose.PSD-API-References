@@ -1,9 +1,9 @@
 ---
-title: ITextStyle
+title: Interface ITextStyle
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Interface pour travailler avec le style de texte
+description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle interface. Interface pour travailler avec le style de texte
 type: docs
-weight: 3480
+weight: 3540
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
 ## ITextStyle interface
@@ -18,38 +18,40 @@ public interface ITextStyle
 
 | Nom | La description |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning) { get; set; } | Obtient ou définit le crénage automatique. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading) { get; set; } | Obtient ou définit une valeur indiquant si [interlignage automatique]. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift) { get; set; } | Le décalage de la ligne de base. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates) { get; set; } | Les alternatives contextuelles utilisées pour relier les lettres ensemble. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures) { get; set; } | Les ligatures discrétionnaires utilisées pour relier les lettres, en particulier dans les polices de caractères. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold) { get; set; } | Obtient ou définit que le faux gras est activé. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic) { get; set; } | Obtient ou définit que le faux gras est activé. |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor) { get; set; } | Obtient ou définit la couleur du remplissage. |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline) { get; set; } | La ligne de base de la police. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps) { get; set; } | Les majuscules des polices. |
-| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex) { get; } | Obtient l'index de la police. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname) { get; set; } | Obtient ou définit le nom de la police. |
-| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize) { get; set; } | Obtient ou définit la taille de la police. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions) { get; set; } | Les symboles de fractions peuvent être remplacés par un glyphe spécial. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers) { get; set; } | Obtient ou définit une valeur indiquant si [nombres hindis]. |
-| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale) { get; set; } | L'échelle horizontale. |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning) { get; set; } | Obtient ou définit le crénage. |
-| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex) { get; } | Obtient l'index de la langue. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading) { get; set; } | Obtient ou définit l'interlignage. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures) { get; set; } | Les ligatures contextuelles standard utilisées pour relier les lettres ensemble. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough) { get; set; } | Obtient ou définit une valeur indiquant si [barré]. |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor) { get; set; } | Obtient ou définit la couleur du trait. |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking) { get; set; } | Obtient ou définit le suivi. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline) { get; set; } | Obtient ou définit une valeur indiquant si [souligné]. |
-| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale) { get; set; } | L'échelle verticale. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Obtient ou définit le crénage automatique. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Obtient ou définit une valeur indiquant si [interlignage automatique]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Le décalage de la ligne de base. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Les alternatives contextuelles utilisées pour relier les lettres ensemble. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Les ligatures discrétionnaires utilisées pour relier les lettres, en particulier dans les polices de caractères. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Obtient ou définit que le faux gras est activé. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Obtient ou définit que le faux gras est activé. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Obtient ou définit la couleur du remplissage. |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | La ligne de base de la police. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Les majuscules des polices. |
+| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Obtient l'index de la police. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Obtient ou définit le nom de la police. |
+| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Obtient ou définit la taille de la police. |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Les symboles de fractions peuvent être remplacés par un glyphe spécial. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Obtient ou définit une valeur indiquant si [nombres hindis]. |
+| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | L'échelle horizontale. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Obtient ou définit l'alignement romain vertical standard. Ceci basé sur la valeur de la ressource BaselineDirection s'applique uniquement lorsque l'orientation du texte estVertical . |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Obtient ou définit le crénage. |
+| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Obtient l'index de la langue. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Obtient ou définit l'interlignage. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Obtient ou définit la valeur sans rupture. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Les ligatures contextuelles standard utilisées pour relier les lettres ensemble. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Obtient ou définit une valeur indiquant si [barré]. |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Obtient ou définit la couleur du trait. |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Obtient ou définit le suivi. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Obtient ou définit une valeur indiquant si [souligné]. |
+| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | L'échelle verticale. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply)(ITextStyle) | Applique le style spécifié. |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal)(ITextStyle) | Détermine si le style spécifié est égal. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Applique le style spécifié. |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Détermine si le style spécifié est égal. |
 
 ### Exemples
 
@@ -307,7 +309,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Voir également
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

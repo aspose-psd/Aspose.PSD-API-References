@@ -1,7 +1,7 @@
 ---
-title: VectorShapeOriginSettings
+title: Class VectorShapeOriginSettings
 second_title: Справочник по Aspose.PSD для .NET API
-description: Настройки создания векторной фигуры.
+description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings сорт. Настройки создания векторной фигуры.
 type: docs
 weight: 1440
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/
@@ -18,28 +18,28 @@ public sealed class VectorShapeOriginSettings
 
 | Имя | Описание |
 | --- | --- |
-| [VectorShapeOriginSettings](vectorshapeoriginsettings#constructor)() | Инициализирует новый экземпляр[`VectorShapeOriginSettings`](../vectorshapeoriginsettings) класс. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | Инициализирует новый экземпляр`VectorShapeOriginSettings` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent) { get; } | Получает значение, указывающее, имеет ли данный экземпляр свойство углов исходной рамки. |
-| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство индекса происхождения. |
-| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство прямоугольника исходных радиусов. |
-| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство разрешения источника. |
-| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent) { get; } | Получает значение, указывающее, имеет ли данный экземпляр свойство прямоугольника. |
-| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство типа источника. |
-| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated) { get; set; } | Получает или задает значение, указывающее, является ли фигура недействительной. |
-| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent) { get; } | Получает значение, указывающее, имеет ли этот экземпляр набор недействительных свойств фигуры. |
-| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство преобразования. |
-| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners) { get; set; } | Получает или задает исходные углы коробки. |
-| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex) { get; set; } | Получает или задает индекс исходной формы. |
-| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle) { get; set; } | Получает или задает исходный прямоугольник радиусов. |
-| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution) { get; set; } | Получает или задает исходное разрешение. |
-| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox) { get; set; } | Получает или задает ограничивающую рамку исходной формы. |
-| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype) { get; set; } | Получает или задает тип источника. |
-| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform) { get; set; } | Получает или задает матрицу преобразования. |
+| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | Получает значение, указывающее, имеет ли данный экземпляр свойство углов исходной рамки. |
+| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство индекса происхождения. |
+| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство прямоугольника исходных радиусов. |
+| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство разрешения источника. |
+| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | Получает значение, указывающее, имеет ли данный экземпляр свойство прямоугольника. |
+| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство типа источника. |
+| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | Получает или задает значение, указывающее, является ли фигура недействительной. |
+| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | Получает значение, указывающее, имеет ли этот экземпляр набор недействительных свойств фигуры. |
+| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | Получает значение, указывающее, имеет ли этот экземпляр свойство преобразования. |
+| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | Получает или задает исходные углы коробки. |
+| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | Получает или задает индекс исходной формы. |
+| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | Получает или задает исходный прямоугольник радиусов. |
+| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | Получает или задает исходное разрешение. |
+| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | Получает или задает ограничивающую рамку исходной формы. |
+| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | Получает или задает тип источника. |
+| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | Получает или задает матрицу преобразования. |
 
 ### Примеры
 
@@ -99,7 +99,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 ### Смотрите также
 
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths)
+* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

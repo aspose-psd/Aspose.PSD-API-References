@@ -1,9 +1,9 @@
 ---
-title: AddNoiseSmartFilter
+title: Class AddNoiseSmartFilter
 second_title: Aspose.PSD for .NET API 参考
-description: AddNoise 智能过滤器
+description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter 班级. AddNoise 智能过滤器
 type: docs
-weight: 3360
+weight: 3420
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 ---
 ## AddNoiseSmartFilter class
@@ -18,39 +18,39 @@ public sealed class AddNoiseSmartFilter : SmartFilter
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddNoiseSmartFilter](addnoisesmartfilter)() | 初始化[`AddNoiseSmartFilter`](../addnoisesmartfilter)类. |
+| [AddNoiseSmartFilter](addnoisesmartfilter/)() | 初始化一个新的实例`AddNoiseSmartFilter`类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise) { get; set; } | 获取或设置噪声值量。 |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode) { get; set; } | 获取或设置混合模式。 |
-| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution) { get; set; } | 获取或设置噪声滤波器的分布。 |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid) { get; } | 获取智能过滤器类型标识符。 |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | 获取或设置智能过滤器的启用状态。 |
-| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic) { get; set; } | 获取或设置单色值。 |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name) { get; } | 获取智能过滤器名称。 |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity) { get; set; } | 获取或设置智能滤镜的不透明度值。 |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | 带有智能过滤器数据的源描述符结构。 |
+| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/) { get; set; } | 获取或设置噪声值量。 |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | 获取或设置混合模式。 |
+| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/) { get; set; } | 获取或设置噪声滤波器的分布。 |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/) { get; } | 获取智能过滤器类型标识符。 |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | 获取或设置智能滤镜开启状态。 |
+| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/) { get; set; } | 获取或设置单色值。 |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/) { get; } | 获取智能过滤器名称。 |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | 获取或设置智能滤镜的不透明度值。 |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | 具有智能过滤器数据的源描述符结构。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | 将当前过滤器应用于输入[`RasterImage`](../../aspose.psd/rasterimage)图像. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | 将当前过滤器应用于输入[`Layer`](../../aspose.psd.fileformats.psd.layers/layer)掩码数据. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | 生成当前类型实例的成员克隆。 |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | 将当前过滤器应用于输入[`RasterImage`](../../aspose.psd/rasterimage/)图片. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | 将当前过滤器应用于输入[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/)屏蔽数据. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | 对类型的当前实例进行成员克隆。 |
 
 ## 字段
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype) | 当前智能过滤器的标识符。 |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | 当前智能过滤器的标识。 |
 
 ### 例子
 
-这个例子演示了智能过滤器接口的支持。
+此示例演示了对智能过滤器接口的支持。
 
 ```csharp
 [C#]
@@ -73,13 +73,13 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // 编辑智能过滤器
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // 检查过滤器值
+    // 检查过滤值
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // 更新过滤器值
+    // 更新过滤值
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -87,7 +87,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     AddNoiseSmartFilter addNoise = (AddNoiseSmartFilter)smartObj.SmartFilters.Filters[1];
     addNoise.Distribution = NoiseDistribution.Uniform;
 
-    // 添加新的过滤器项
+    // 添加新的过滤项
     var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
     filters.Add(new GaussianBlurSmartFilter());
     filters.Add(new AddNoiseSmartFilter());
@@ -109,7 +109,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // 检查过滤器值
+    // 检查过滤值
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -122,8 +122,8 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 ### 也可以看看
 
-* class [SmartFilter](../smartfilter)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters)
+* class [SmartFilter](../smartfilter/)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

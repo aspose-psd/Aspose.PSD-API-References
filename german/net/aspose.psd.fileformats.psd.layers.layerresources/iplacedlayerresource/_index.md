@@ -1,9 +1,9 @@
 ---
-title: IPlacedLayerResource
+title: Interface IPlacedLayerResource
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Definiert die IPlacedLayerResourceSchnittstelle die Informationen über eine platzierte Ebene in der PSDDatei enthält. Ist eine MarkupSchnittstelle die verwendet wird um PlLd Verkauft und SoleRessourcen in den Adobe PhotoshopBildern zu kennzeichnen. Wird verwendet um intelligente Objektebenen zu unterstützen die Adobe PhotoshopBilder.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource koppel. Definiert die IPlacedLayerResourceSchnittstelle die Informationen über eine platzierte Ebene in der PSDDatei enthält. Ist eine MarkupSchnittstelle die verwendet wird um PlLd Verkauft und SoleRessourcen in den Adobe PhotoshopBildern zu kennzeichnen. Wird verwendet um intelligente Objektebenen zu unterstützen die Adobe PhotoshopBilder.
 type: docs
-weight: 2510
+weight: 2530
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
 ## IPlacedLayerResource interface
@@ -18,29 +18,29 @@ public interface IPlacedLayerResource
 
 | Name | Beschreibung |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy) { get; set; } | Ruft die Anti-Alias-Richtlinie der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom) { get; set; } | Ruft die untere Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds) { get; set; } | Ruft die Grenzen der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit) { get; set; } | Ruft die Maßeinheit der horizontalen Netzpunkte ab oder legt sie fest. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dieser Instanz-Warp-Stil benutzerdefiniert ist. Wenn wahr, enthält er Mesh-Punkte. Wenn auf „false“ gesetzt, werden Mesh-Punkte gelöscht. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items) { get; set; } | Ruft die Warp-Elemente ab oder legt sie fest. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left) { get; set; } | Ruft die linke Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber) { get; set; } | Ruft die Seitenzahl der platzierten Ebene in der PSD-Datei ab oder setzt sie. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective) { get; set; } | Ruft den Perspektivenwert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother) { get; set; } | Holt oder setzt den Perspective Other-Wert der platzierten Ebene in der PSD-Datei. |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype) { get; set; } | Ruft den Typ der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right) { get; set; } | Ruft die richtige Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top) { get; set; } | Ruft die oberste Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages) { get; set; } | Ruft die Gesamtseitenzahl der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix) { get; set; } | Ruft die Transformationsmatrix der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid) { get; set; } | Ruft die globale eindeutige Kennung der oder der platzierten Smart-Objekt-Ebene im PSD-Bild ab oder legt sie fest. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder) { get; set; } | Ruft den U-Ordnungswert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value) { get; set; } | Ruft den Warp-Wert der platzierten Ebene im PSD-Bild ab oder legt ihn fest. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version) { get; } | Ruft die Version der platzierten Ebene in der PSD-Datei ab, normalerweise 3-5. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit) { get; set; } | Ruft die Maßeinheit der vertikalen Gitterpunkte ab oder legt sie fest. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder) { get; set; } | Ruft den Wert der V-Ordnung der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Ruft die Anti-Alias-Richtlinie der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Ruft die untere Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Ruft die Grenzen der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Ruft die Maßeinheit der horizontalen Netzpunkte ab oder legt sie fest. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dieser Instanz-Warp-Stil benutzerdefiniert ist. Wenn wahr, enthält er Mesh-Punkte. Wenn auf „false“ gesetzt, werden Mesh-Punkte gelöscht. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Ruft die Warp-Elemente ab oder legt sie fest. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Ruft die linke Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Ruft die Seitenzahl der platzierten Ebene in der PSD-Datei ab oder setzt sie. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Ruft den Perspektivenwert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Holt oder setzt den Perspective Other-Wert der platzierten Ebene in der PSD-Datei. |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Ruft den Typ der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Ruft die richtige Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Ruft die oberste Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Ruft die Gesamtseitenzahl der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Ruft die Transformationsmatrix der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Ruft die globale eindeutige Kennung der oder der platzierten Smart-Objekt-Ebene im PSD-Bild ab oder legt sie fest. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Ruft den U-Ordnungswert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Ruft den Warp-Wert der platzierten Ebene im PSD-Bild ab oder legt ihn fest. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Ruft die Version der platzierten Ebene in der PSD-Datei ab, normalerweise 3-5. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Ruft die Maßeinheit der vertikalen Gitterpunkte ab oder legt sie fest. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Ruft den Wert der V-Ordnung der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
 
 ### Beispiele
 
@@ -355,7 +355,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

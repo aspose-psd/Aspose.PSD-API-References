@@ -1,14 +1,14 @@
 ---
-title: Contents
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Ottiene o imposta il contenuto del livello delloggetto intelligente. Il contenuto delloggetto intelligente incorporato è il file di immagine non elaborato incorporatoDataaspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data e le sue proprietà. Il contenuto delloggetto intelligente collegato è il contenuto non elaborato del file immagine collegato se disponibile e le relative proprietàLiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource . Non supportiamo il caricamento dalla libreria grafica di Adobe Photoshop  quandoIsLibraryLinkaspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink è vero. Per i file di collegamento regolari allinizio utilizziamoRelativePathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath per cercare il file relativamente al percorso dellimmagine di origineSourceImagePath  se non è disponibile guardiamoFullPathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath  in caso contrario cerchiamo il file di collegamento nella stessa directory in cui si trova la nostra immagineSourceImagePath .
+title: SmartObjectLayer.Contents
+second_title: Aspose.PSD per riferimento API .NET
+description: SmartObjectLayer proprietà. Ottiene o imposta i contenuti del livello delloggetto avanzato. Il contenuto delloggetto avanzato incorporato è il file di immagine raw incorporatoData e le sue proprietà. Il contenuto delloggetto intelligente collegato è il contenuto non elaborato del file immagine collegato se disponibile e le sue proprietàLiFeDataSource . Non supportiamo il caricamento dalla libreria grafica di Adobe Photoshop  quandoIsLibraryLink è vero. Per i normali file di collegamento allinizio usiamoRelativePath per cercare il file relativamente nel percorso dellimmagine di origineSourceImagePath  se non è disponibile guardiamoFullPath  in caso contrario cerchiamo il file di collegamento nella stessa directory in cui si trova la nostra immagineSourceImagePath .
 type: docs
 weight: 10
 url: /it/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
 ## SmartObjectLayer.Contents property
 
-Ottiene o imposta il contenuto del livello dell'oggetto intelligente. Il contenuto dell'oggetto intelligente incorporato è il file di immagine non elaborato incorporato:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data) e le sue proprietà. Il contenuto dell'oggetto intelligente collegato è il contenuto non elaborato del file immagine collegato, se disponibile, e le relative proprietà:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource) . Non supportiamo il caricamento dalla libreria grafica di Adobe� Photoshop� �� quando[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink) è vero. Per i file di collegamento regolari, all'inizio, utilizziamo[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath) per cercare il file relativamente al percorso dell'immagine di origineSourceImagePath , se non è disponibile guardiamo[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath) , in caso contrario cerchiamo il file di collegamento nella stessa directory in cui si trova la nostra immagine:SourceImagePath .
+Ottiene o imposta i contenuti del livello dell'oggetto avanzato. Il contenuto dell'oggetto avanzato incorporato è il file di immagine raw incorporato:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) e le sue proprietà. Il contenuto dell'oggetto intelligente collegato è il contenuto non elaborato del file immagine collegato se disponibile e le sue proprietà:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Non supportiamo il caricamento dalla libreria grafica di Adobe� Photoshop� �� quando[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) è vero. Per i normali file di collegamento, all'inizio, usiamo[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) per cercare il file relativamente nel percorso dell'immagine di origineSourceImagePath , se non è disponibile guardiamo[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , in caso contrario, cerchiamo il file di collegamento nella stessa directory in cui si trova la nostra immagine:SourceImagePath .
 
 ```csharp
 public byte[] Contents { get; set; }
@@ -16,17 +16,17 @@ public byte[] Contents { get; set; }
 
 ### Valore della proprietà
 
-Ilbyte[] contenuto del livello oggetto intelligente.
+Ilbyte[] contenuti del livello degli oggetti intelligenti.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| NotSupportedException | Impossibile ottenere contenuti dalla libreria Adobe� Photoshop� ��. |
+| NotSupportedException | Impossibile ottenere contenuti dalla libreria di Adobe� Photoshop� ��. |
 
 ### Esempi
 
-Il codice seguente illustra il supporto degli oggetti intelligenti incorporati.
+Il codice seguente illustra il supporto degli oggetti Embedded Smart.
 
 ```csharp
 [C#]
@@ -39,7 +39,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Questo esempio mostra come modificare il livello dell'oggetto intelligente nel file PSD ed esportare/aggiornare i contenuti incorporati originali dell'oggetto intelligente.
+// Questo esempio mostra come modificare il livello degli oggetti avanzati nel file PSD ed esportare/aggiornare i contenuti incorporati originali degli oggetti avanzati.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -68,7 +68,7 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Esportiamo l'immagine dell'oggetto intelligente incorporato dal livello dell'oggetto intelligente PSD
+        // Esportiamo l'immagine dell'oggetto avanzato incorporato dal livello dell'oggetto avanzato PSD
         smartObjectLayer.ExportContents(exportPath);
 
         // Controlliamo se l'immagine originale è stata salvata correttamente
@@ -79,7 +79,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Invertiamo l'immagine originale dell'oggetto intelligente
+            // Invertiamo l'immagine dell'oggetto intelligente originale
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -90,7 +90,7 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Sostituiamo l'immagine dell'oggetto intelligente incorporato nel livello PSD
+            // Sostituiamo l'immagine dell'oggetto smart incorporata nel livello PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
@@ -103,8 +103,8 @@ foreach (FileFormat format in formats)
 
 ### Guarda anche
 
-* class [SmartObjectLayer](../../smartobjectlayer)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [SmartObjectLayer](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

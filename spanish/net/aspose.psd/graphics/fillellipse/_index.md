@@ -1,14 +1,14 @@
 ---
-title: FillEllipse
+title: Graphics.FillEllipse
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Rellena el interior de una elipse definida por un rectángulo delimitador especificado por unRectangleFaspose.psd/rectanglefestructura.
+description: Graphics método. Rellena el interior de una elipse definida por un rectángulo delimitador especificado por unRectangleFestructura.
 type: docs
 weight: 350
 url: /es/net/aspose.psd/graphics/fillellipse/
 ---
 ## FillEllipse(Brush, RectangleF) {#fillellipse_1}
 
-Rellena el interior de una elipse definida por un rectángulo delimitador especificado por un[`RectangleF`](../../rectanglef)estructura.
+Rellena el interior de una elipse definida por un rectángulo delimitador especificado por un[`RectangleF`](../../rectanglef/)estructura.
 
 ```csharp
 public void FillEllipse(Brush brush, RectangleF rect)
@@ -16,8 +16,8 @@ public void FillEllipse(Brush brush, RectangleF rect)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef)estructura que representa el rectángulo delimitador que define la elipse. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/)estructura que representa el rectángulo delimitador que define la elipse. |
 
 ### Excepciones
 
@@ -27,10 +27,10 @@ public void FillEllipse(Brush brush, RectangleF rect)
 
 ### Ver también
 
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public void FillEllipse(Brush brush, float x, float y, float width, float height
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
 | x | Single | La coordenada x de la esquina superior izquierda del rectángulo delimitador que define la elipse. |
 | y | Single | La coordenada y de la esquina superior izquierda del rectángulo delimitador que define la elipse. |
 | width | Single | Ancho del rectángulo delimitador que define la elipse. |
@@ -59,16 +59,16 @@ public void FillEllipse(Brush brush, float x, float y, float width, float height
 
 ### Ver también
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, Rectangle) {#fillellipse}
 
-Rellena el interior de una elipse definida por un rectángulo delimitador especificado por un[`Rectangle`](../../rectangle)estructura.
+Rellena el interior de una elipse definida por un rectángulo delimitador especificado por un[`Rectangle`](../../rectangle/)estructura.
 
 ```csharp
 public void FillEllipse(Brush brush, Rectangle rect)
@@ -76,8 +76,8 @@ public void FillEllipse(Brush brush, Rectangle rect)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
-| rect | Rectangle | [`Rectangle`](../../rectangle)estructura que representa el rectángulo delimitador que define la elipse. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/)estructura que representa el rectángulo delimitador que define la elipse. |
 
 ### Excepciones
 
@@ -87,10 +87,10 @@ public void FillEllipse(Brush brush, Rectangle rect)
 
 ### Ver también
 
-* class [Brush](../../brush)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
@@ -105,7 +105,7 @@ public void FillEllipse(Brush brush, int x, int y, int width, int height)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)que determina las características del relleno. |
+| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
 | x | Int32 | La coordenada x de la esquina superior izquierda del rectángulo delimitador que define la elipse. |
 | y | Int32 | La coordenada y de la esquina superior izquierda del rectángulo delimitador que define la elipse. |
 | width | Int32 | Ancho del rectángulo delimitador que define la elipse. |
@@ -119,9 +119,9 @@ public void FillEllipse(Brush brush, int x, int y, int width, int height)
 
 ### Ver también
 
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* espacio de nombres [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* espacio de nombres [Aspose.PSD](../../graphics/)
 * asamblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,0 +1,23 @@
+---
+title: CurvResource.TypeToolKey
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: CurvResource मैदन. टइप टूल इंफ क.
+type: docs
+weight: 100
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/typetoolkey/
+---
+## CurvResource.TypeToolKey field
+
+टाइप टूल इंफो की.
+
+```csharp
+public const int TypeToolKey;
+```
+
+### यह सभी देखें
+
+* class [CurvResource](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
+* सभा [Aspose.PSD](../../../)
+
+

@@ -1,0 +1,23 @@
+---
+title: BooleanResource.PsdVersion
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: BooleanResource संपत्त. पएसड संस्करण प्रप्त करत है
+type: docs
+weight: 20
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/
+---
+## BooleanResource.PsdVersion property
+
+पीएसडी संस्करण प्राप्त करता है।
+
+```csharp
+public override int PsdVersion { get; }
+```
+
+### यह सभी देखें
+
+* class [BooleanResource](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
+* सभा [Aspose.PSD](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: IPlacedLayerResource
+title: Interface IPlacedLayerResource
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Définit linterface IPlacedLayerResource qui contient des informations sur un calque placé dans le fichier PSD. Is est une interface de balisage utilisée pour désigner les ressources PlLd Sold et Sole dans les images Adobe Photoshop. Is est utilisé pour prendre en charge les calques dobjets intelligents dans les images Adobe Photoshop.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource interface. Définit linterface IPlacedLayerResource qui contient des informations sur un calque placé dans le fichier PSD. Is est une interface de balisage utilisée pour désigner les ressources PlLd Sold et Sole dans les images Adobe Photoshop. Is est utilisé pour prendre en charge les calques dobjets intelligents dans les images Adobe Photoshop.
 type: docs
-weight: 2510
+weight: 2530
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
 ## IPlacedLayerResource interface
@@ -18,29 +18,29 @@ public interface IPlacedLayerResource
 
 | Nom | La description |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy) { get; set; } | Obtient ou définit la politique anti-alias du calque placé dans l'image PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom) { get; set; } | Obtient ou définit l'emplacement inférieur du calque placé dans l'image PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds) { get; set; } | Obtient ou définit les limites du calque placé dans le fichier PSD. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage horizontaux. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom) { get; set; } | Obtient ou définit une valeur indiquant si ce style de déformation d'instance est personnalisé. Si vrai, il contient des points de maillage. Si défini sur false, il efface les points de maillage. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items) { get; set; } | Obtient ou définit les éléments de chaîne. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left) { get; set; } | Obtient ou définit l'emplacement de gauche du calque placé dans le fichier PSD. |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber) { get; set; } | Obtient ou définit le numéro de page du calque placé dans le fichier PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective) { get; set; } | Obtient ou définit la valeur de perspective du calque placé dans le fichier PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother) { get; set; } | Obtient ou définit l'autre valeur de perspective du calque placé dans le fichier PSD. |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype) { get; set; } | Obtient ou définit le type du calque placé dans le fichier PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right) { get; set; } | Obtient ou définit le bon emplacement du calque placé dans le fichier PSD. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top) { get; set; } | Obtient ou définit l'emplacement supérieur du calque placé dans l'image PSD. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages) { get; set; } | Obtient ou définit le nombre total de pages du calque placé dans le fichier PSD. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix) { get; set; } | Obtient ou définit la matrice de transformation du calque placé dans le fichier PSD. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid) { get; set; } | Obtient ou définit l'identifiant unique global de la couche ou de l'objet intelligent placé dans l'image PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder) { get; set; } | Obtient ou définit la valeur d'ordre U du calque placé dans le fichier PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value) { get; set; } | Obtient ou définit la valeur de déformation du calque placé dans l'image PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version) { get; } | Obtient la version du calque placé dans le fichier PSD, généralement 3-5. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage vertical. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder) { get; set; } | Obtient ou définit la valeur d'ordre V du calque placé dans le fichier PSD. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Obtient ou définit la politique anti-alias du calque placé dans l'image PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Obtient ou définit l'emplacement inférieur du calque placé dans l'image PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Obtient ou définit les limites du calque placé dans le fichier PSD. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage horizontaux. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Obtient ou définit une valeur indiquant si ce style de déformation d'instance est personnalisé. Si vrai, il contient des points de maillage. Si défini sur false, il efface les points de maillage. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Obtient ou définit les éléments de chaîne. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Obtient ou définit l'emplacement de gauche du calque placé dans le fichier PSD. |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Obtient ou définit le numéro de page du calque placé dans le fichier PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Obtient ou définit la valeur de perspective du calque placé dans le fichier PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Obtient ou définit l'autre valeur de perspective du calque placé dans le fichier PSD. |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Obtient ou définit le type du calque placé dans le fichier PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Obtient ou définit le bon emplacement du calque placé dans le fichier PSD. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Obtient ou définit l'emplacement supérieur du calque placé dans l'image PSD. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Obtient ou définit le nombre total de pages du calque placé dans le fichier PSD. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Obtient ou définit la matrice de transformation du calque placé dans le fichier PSD. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Obtient ou définit l'identifiant unique global de la couche ou de l'objet intelligent placé dans l'image PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Obtient ou définit la valeur d'ordre U du calque placé dans le fichier PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Obtient ou définit la valeur de déformation du calque placé dans l'image PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Obtient la version du calque placé dans le fichier PSD, généralement 3-5. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage vertical. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Obtient ou définit la valeur d'ordre V du calque placé dans le fichier PSD. |
 
 ### Exemples
 
@@ -355,7 +355,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Voir également
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

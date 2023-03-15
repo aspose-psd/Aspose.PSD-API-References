@@ -1,14 +1,14 @@
 ---
-title: LayerHashCalculator
+title: Class LayerHashCalculator
 second_title: Aspose.PSD for .NET API 参考
-description: PSD 层的哈希计算器它可用于在不同的 PSD 文件中找到相等或不同的层
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator 班级. PSD 图层的哈希计算器它可用于在不同的 PSD 文件中找到相同或不同的层
 type: docs
-weight: 2210
+weight: 2230
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
 ## LayerHashCalculator class
 
-PSD 层的哈希计算器。它可用于在不同的 PSD 文件中找到相等或不同的层
+PSD 图层的哈希计算器。它可用于在不同的 PSD 文件中找到相同或不同的层
 
 ```csharp
 public class LayerHashCalculator
@@ -18,19 +18,19 @@ public class LayerHashCalculator
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator)(Layer) | 初始化[`LayerHashCalculator`](../layerhashcalculator)类. |
+| [LayerHashCalculator](layerhashcalculator/)(Layer) | 初始化一个新的实例`LayerHashCalculator`类. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash)() | 获取混合哈希值。 |
-| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash)() | 获取频道哈希值。 |
-| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash)() | 获取内容哈希。 |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | 获取混合哈希。 |
+| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | 获取通道哈希。 |
+| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | 获取内容哈希。 |
 
 ### 例子
 
-以下代码演示了用于获取不同文件中相似层的唯一哈希的 API。
+以下代码演示了用于获取不同文件中相似层的唯一哈希值的 API。
 
 ```csharp
 [C#]
@@ -38,9 +38,9 @@ public class LayerHashCalculator
 /// <summary>
 /// 获取层的名称。
 /// </summary>
-/// <typeparam name="T"></typeparam>
-/// <param name="image">图像。</param>
-/// <param name="name">名称。</param>
+/// <typeparam name="T"></typeparam>;;;
+/// <param name="image">图像。</param>;
+/// <param name="name">名字。</param>;
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -57,12 +57,12 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// 战神不相等。
+/// 战神不平等。
 /// </summary>
-/// <typeparam name="T"></typeparam>
-/// <param name="expected">预期的。</param>
-/// <param name="actual">实际的。</param>
-/// <exception cref="System.Exception">参数不能相等</exception>
+/// <typeparam name="T"></typeparam>;;;
+/// <param name="expected">预期的。</param>;
+/// <param name="actual">实际值。</param>
+/// <exception cref="System.Exception">参数不能相等</exception>;
 public static void AreNotEqual<T>(T expected, T actual)
 {
     if (expected != null && expected.Equals(actual))
@@ -72,12 +72,12 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// 战神相等。
+/// 平等的战神。
 /// </summary>
-/// <typeparam name="T"></typeparam>
-/// <param name="expected">预期的。</param>
-/// <param name="actual">实际的。</param>
-/// <exception cref="System.Exception">参数必须相等</exception>
+/// <typeparam name="T"></typeparam>;;;
+/// <param name="expected">预期的。</param>;
+/// <param name="actual">实际值。</param>
+/// <exception cref="System.Exception">参数必须相等</exception>;
 public static void AreEqual<T>(T expected, T actual)
 {
     if (expected != null && !expected.Equals(actual))
@@ -87,7 +87,7 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// 定期层内容哈希测试。
+/// 规范层内容哈希测试。
 /// </summary>
 /// <param name="fileName">文件名。</param>
 public static void RegularLayerContentHashTest(string fileName)
@@ -119,7 +119,7 @@ public static void RegularLayerContentHashTest(string fileName)
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
 
-        // 但是指针不同
+        // 但指针不同
         AreNotEqual(layers[0], layers[3]);
         AreNotEqual(layers[1], layers[4]);
         AreNotEqual(layers[0], layers[6]);
@@ -127,7 +127,7 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// 填充层内容哈希测试。
+/// 填充图层内容哈希测试。
 /// </summary>
 /// <param name="fileName">文件名。</param>
 public static void FillLayerContentHashTest(string fileName)
@@ -162,7 +162,7 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// 智能对象层内容哈希测试。
+/// 智能化对象层内容哈希测试。
 /// </summary>
 /// <param name="fileName">文件名。</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
@@ -188,23 +188,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // 通道数据对于 Layer 和 Createad 来自它们的 Smart Objects 是相等的。
+        // Channel 数据对于 Layer 和 Createad 来自它们的 Smart Objects 是相等的。
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // Content Hash 不同，因为 Smart Object 使用其他数据作为内容
+        // Content Hash不同，因为Smart Object使用其他数据作为内容
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // 但是混合哈希是相似的。两个图层 - 智能和常规都有正常混合模式和不透明度 255
+        // 但是混合哈希是相似的。两个层 - 智能层和常规层都具有正常混合模式和不透明度 255
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // 通道数据对于 Layer 和 Createad 来自它们的 Smart Objects 是相等的。
+        // Channel 数据对于 Layer 和 Createad 来自它们的 Smart Objects 是相等的。
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // Content Hash 不同，因为 Smart Object 使用其他数据作为内容
+        // Content Hash不同，因为Smart Object使用其他数据作为内容
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // 但是混合哈希是相似的。两个图层 - 智能和常规都有正常混合模式和不透明度 255
+        // 但是混合哈希是相似的。两个层 - 智能层和常规层都具有正常混合模式和不透明度 255
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -245,7 +245,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(adjustments[i]);
         }
 
-        // 所有哈希值必须不同
+        // 所有哈希必须不同
         for (int i = 0; i < length; i++)
         {
             for (int j = i + 1; j < length; j++)
@@ -302,12 +302,12 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // 哈希计算中不使用变换矩阵。你应该额外检查一下
+        // 哈希计算中不使用变换矩阵。你应该另外检查一下
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
         // 在这种情况下，我们在矩阵中有一个旋转
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // 在这种情况下，我们只有翻译（文本层移到下面）
+        // 在这种情况下，我们只有翻译（下面的文本层移位）
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
@@ -333,14 +333,14 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // Group Layer Hash 是从里面的层数计算出来的
+        // Group Layer Hash是从里面的layerss计算出来的
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// 对来自不同文件的层内容进行常规哈希测试。
+/// 调整来自不同文件哈希测试的层内容。
 /// </summary>
 /// <param name="fileName">文件名。</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
@@ -364,7 +364,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 // 层有不同的指针
                 AreNotEqual(layer, layer_copied);
 
-                // 但是层的哈希是相等的
+                // 但是层的散列是相等的
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -377,7 +377,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 
 ### 也可以看看
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

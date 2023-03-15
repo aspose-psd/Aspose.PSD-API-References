@@ -1,14 +1,14 @@
 ---
-title: FillPolygon
+title: Graphics.FillPolygon
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Remplit lintérieur dun polygone défini par un tableau de points spécifié parPointFaspose.psd/pointf structures etAlternate .
+description: Graphics méthode. Remplit lintérieur dun polygone défini par un tableau de points spécifié parPointF structures etAlternate .
 type: docs
 weight: 380
 url: /fr/net/aspose.psd/graphics/fillpolygon/
 ---
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-Remplit l'intérieur d'un polygone défini par un tableau de points spécifié par[`PointF`](../../pointf) structures etAlternate .
+Remplit l'intérieur d'un polygone défini par un tableau de points spécifié par[`PointF`](../../pointf/) structures etAlternate .
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
@@ -16,8 +16,8 @@ public void FillPolygon(Brush brush, PointF[] points)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)qui détermine les caractéristiques du remblai. |
-| points | PointF[] | Tableau de[`PointF`](../../pointf) structures qui représentent les sommets du polygone à remplir. |
+| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
+| points | PointF[] | Tableau de[`PointF`](../../pointf/) structures qui représentent les sommets du polygone à remplir. |
 
 ### Exceptions
 
@@ -27,17 +27,17 @@ public void FillPolygon(Brush brush, PointF[] points)
 
 ### Voir également
 
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-Remplit l'intérieur d'un polygone défini par un tableau de points spécifié par[`PointF`](../../pointf) structures utilisant le mode de remplissage spécifié.
+Remplit l'intérieur d'un polygone défini par un tableau de points spécifié par[`PointF`](../../pointf/) structures utilisant le mode de remplissage spécifié.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
@@ -45,9 +45,9 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)qui détermine les caractéristiques du remblai. |
-| points | PointF[] | Tableau de[`PointF`](../../pointf) structures qui représentent les sommets du polygone à remplir. |
-| fillMode | FillMode | Membre de la[`FillMode`](../../fillmode) énumération qui détermine le style du remplissage. |
+| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
+| points | PointF[] | Tableau de[`PointF`](../../pointf/) structures qui représentent les sommets du polygone à remplir. |
+| fillMode | FillMode | Membre de la[`FillMode`](../../fillmode/) énumération qui détermine le style du remplissage. |
 
 ### Exceptions
 
@@ -57,18 +57,18 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 
 ### Voir également
 
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* enum [FillMode](../../fillmode)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-Remplit l'intérieur d'un polygone défini par un tableau de points spécifié par[`Point`](../../point) structures etAlternate .
+Remplit l'intérieur d'un polygone défini par un tableau de points spécifié par[`Point`](../../point/) structures etAlternate .
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
@@ -76,8 +76,8 @@ public void FillPolygon(Brush brush, Point[] points)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)qui détermine les caractéristiques du remblai. |
-| points | Point[] | Tableau de[`Point`](../../point) structures qui représentent les sommets du polygone à remplir. |
+| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
+| points | Point[] | Tableau de[`Point`](../../point/) structures qui représentent les sommets du polygone à remplir. |
 
 ### Exceptions
 
@@ -87,17 +87,17 @@ public void FillPolygon(Brush brush, Point[] points)
 
 ### Voir également
 
-* class [Brush](../../brush)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-Remplit l'intérieur d'un polygone défini par un tableau de points spécifié par[`Point`](../../point) structures utilisant le mode de remplissage spécifié.
+Remplit l'intérieur d'un polygone défini par un tableau de points spécifié par[`Point`](../../point/) structures utilisant le mode de remplissage spécifié.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
@@ -105,9 +105,9 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)qui détermine les caractéristiques du remblai. |
-| points | Point[] | Tableau de[`Point`](../../point) structures qui représentent les sommets du polygone à remplir. |
-| fillMode | FillMode | Membre de la[`FillMode`](../../fillmode) énumération qui détermine le style du remplissage. |
+| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
+| points | Point[] | Tableau de[`Point`](../../point/) structures qui représentent les sommets du polygone à remplir. |
+| fillMode | FillMode | Membre de la[`FillMode`](../../fillmode/) énumération qui détermine le style du remplissage. |
 
 ### Exceptions
 
@@ -117,11 +117,11 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 
 ### Voir également
 
-* class [Brush](../../brush)
-* struct [Point](../../point)
-* enum [FillMode](../../fillmode)
-* class [Graphics](../../graphics)
-* espace de noms [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* espace de noms [Aspose.PSD](../../graphics/)
 * Assemblée [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

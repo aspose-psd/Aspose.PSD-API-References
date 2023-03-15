@@ -1,9 +1,9 @@
 ---
-title: GdFlResource
+title: Class GdFlResource
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Class GdFlResource. Este recurso contiene información sobre la combinación de elementos recortados.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource clase. Class GdFlResource. Este recurso contiene información sobre la combinación de elementos recortados.
 type: docs
-weight: 2480
+weight: 2500
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
 ## GdFlResource class
@@ -18,42 +18,42 @@ public class GdFlResource : FillLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [GdFlResource](gdflresource)() | Constructor predeterminado |
+| [GdFlResource](gdflresource/)() | Constructor predeterminado |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer) { get; set; } | Obtiene o establece un valor que indica si [alinear con la capa]. |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle) { get; set; } | Obtiene o establece el ángulo. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color) { get; set; } | Obtiene el color del RGB. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints) { get; set; } | Obtiene los puntos de color. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither) { get; set; } | Obtiene o establece un valor que indica si este[`GdFlResource`](../gdflresource) es tramado. |
-| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval) { get; set; } | Obtiene o establece el intervalo de gradiente. |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname) { get; set; } | Obtiene o establece el nombre del gradiente. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype) { get; set; } | Obtiene o establece el tipo de gradiente. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset) { get; set; } | Obtiene o establece el desplazamiento horizontal. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion) { get; } | Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse) { get; set; } | Obtiene o establece un valor que indica si este[`GdFlResource`](../gdflresource) es inversa. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale) { get; set; } | Obtiene o establece la escala. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature) { get; } | Obtiene la firma del recurso de la capa. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints) { get; set; } | Obtiene los puntos de transparencia. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset) { get; set; } | Obtiene o establece el desplazamiento vertical. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | Obtiene o establece un valor que indica si [alinear con la capa]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/) { get; set; } | Obtiene o establece el ángulo. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | Obtiene el color del RGB. |
+| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/) { get; set; } | Obtiene los puntos de color. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | Obtiene o establece un valor que indica si este`GdFlResource` es tramado. |
+| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | Obtiene o establece el intervalo de gradiente. |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | Obtiene o establece el nombre del gradiente. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | Obtiene o establece el tipo de gradiente. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/) { get; set; } | Obtiene o establece el desplazamiento horizontal. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion/) { get; } | Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | Obtiene o establece un valor que indica si este`GdFlResource` es inversa. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | Obtiene o establece la escala. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature/) { get; } | Obtiene la firma del recurso de la capa. |
+| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/) { get; set; } | Obtiene los puntos de transparencia. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/) { get; set; } | Obtiene o establece el desplazamiento vertical. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Devuelve unString que representa esta instancia. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey) | La clave de información de la herramienta de tipo. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
 ### Ejemplos
 
@@ -153,9 +153,9 @@ using (im)
 
 ### Ver también
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [FillLayerResource](../filllayerresource)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [FillLayerResource](../filllayerresource/)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,9 +1,9 @@
 ---
-title: ColorantLab
+title: Class ColorantLab
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Représente le colorant LAB.
+description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantLab classe. Représente le colorant LAB.
 type: docs
-weight: 5960
+weight: 6030
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/
 ---
 ## ColorantLab class
@@ -18,43 +18,43 @@ public sealed class ColorantLab : ColorantBase
 
 | Nom | La description |
 | --- | --- |
-| [ColorantLab](colorantlab#constructor)() | Initialise une nouvelle instance du[`ColorantLab`](../colorantlab) classe. |
-| [ColorantLab](colorantlab#constructor_1)(int, int, float) | Initialise une nouvelle instance du[`ColorantLab`](../colorantlab) classe. |
+| [ColorantLab](colorantlab/#constructor)() | Initialise une nouvelle instance du`ColorantLab` classe. |
+| [ColorantLab](colorantlab/#constructor_1)(int, int, float) | Initialise une nouvelle instance du`ColorantLab` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [A](../../aspose.psd.xmp.types.complex.colorant/colorantlab/a) { get; set; } | Obtient ou définit le composant A. |
-| [B](../../aspose.psd.xmp.types.complex.colorant/colorantlab/b) { get; set; } | Obtient ou définit le composant B. |
-| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype) { get; set; } | Obtient ou définit le type de la couleur. |
-| [L](../../aspose.psd.xmp.types.complex.colorant/colorantlab/l) { get; set; } | Obtient ou définit le composant L. |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode) { get; } | Obtient[`ColorMode`](../colormode) . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri) { get; } | Obtient l'URI de l'espace de noms par défaut. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix) { get; } | Obtient le préfixe. |
-| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname) { get; set; } | Obtient ou définit le nom de l'échantillon. |
+| [A](../../aspose.psd.xmp.types.complex.colorant/colorantlab/a/) { get; set; } | Obtient ou définit le composant A. |
+| [B](../../aspose.psd.xmp.types.complex.colorant/colorantlab/b/) { get; set; } | Obtient ou définit le composant B. |
+| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Obtient ou définit le type de la couleur. |
+| [L](../../aspose.psd.xmp.types.complex.colorant/colorantlab/l/) { get; set; } | Obtient ou définit le composant L. |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Obtient[`ColorMode`](../colormode/) . |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtient l'URI de l'espace de noms par défaut. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Obtient le préfixe. |
+| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Obtient ou définit le nom de l'échantillon. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantlab/getxmprepresentation)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantlab/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| const [MaxA](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxa) | La valeur maximale de la composante A |
-| const [MaxB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxb) | La valeur maximale de la composante A |
-| const [MaxL](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxl) | La valeur maximale de la composante A |
-| const [MinA](../../aspose.psd.xmp.types.complex.colorant/colorantlab/mina) | La valeur minimale du composant A |
-| const [MinB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minb) | La valeur minimale de la composante B |
-| const [MinL](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minl) | La valeur minimale de la composante L |
+| const [MaxA](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxa/) | La valeur maximale de la composante A |
+| const [MaxB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxb/) | La valeur maximale de la composante A |
+| const [MaxL](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxl/) | La valeur maximale de la composante A |
+| const [MinA](../../aspose.psd.xmp.types.complex.colorant/colorantlab/mina/) | La valeur minimale du composant A |
+| const [MinB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minb/) | La valeur minimale de la composante B |
+| const [MinL](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minl/) | La valeur minimale de la composante L |
 
 ### Voir également
 
-* class [ColorantBase](../colorantbase)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant)
+* class [ColorantBase](../colorantbase/)
+* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

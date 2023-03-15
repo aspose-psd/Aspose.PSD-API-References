@@ -1,9 +1,9 @@
 ---
-title: LevlResource
+title: Class LevlResource
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Clase NivlRecurso. Recurso de ajuste de exposición Layer
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource clase. Clase NivlRecurso. Recurso de ajuste de exposición Layer
 type: docs
-weight: 2620
+weight: 2640
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 ---
 ## LevlResource class
@@ -18,38 +18,38 @@ public class LevlResource : AdjustmentLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [LevlResource](levlresource#constructor)() | Inicializa una nueva instancia del[`LevlResource`](../levlresource) clase. |
-| [LevlResource](levlresource#constructor_1)(byte[]) | Inicializa una nueva instancia del[`LevlResource`](../levlresource) class. Compatible con los modos de color GrayScale, Duotone, RGB, CMYK, Lab 2 bytes - Versión (=2) 29 * 10 bytes - Conjuntos de registros de nivel con 5 enteros cortos 4 bytes - Encabezado Lvls (comienza en el índice 292) 2 bytes - Versión (=3) 2 bytes - Recuento del registro de nivel total 10 * (Recuento total - 29) El final cero del recurso Lvls debe doblarse por cuatro también |
+| [LevlResource](levlresource/#constructor)() | Inicializa una nueva instancia del`LevlResource` clase. |
+| [LevlResource](levlresource/#constructor_1)(byte[]) | Inicializa una nueva instancia del`LevlResource` class. Compatible con los modos de color GrayScale, Duotone, RGB, CMYK, Lab 2 bytes - Versión (=2) 29 * 10 bytes - Conjuntos de registros de nivel con 5 enteros cortos 4 bytes - Encabezado Lvls (comienza en el índice 292) 2 bytes - Versión (=3) 2 bytes - Recuento del registro de nivel total 10 * (Recuento total - 29) El final cero del recurso Lvls debe doblarse por cuatro también |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/key) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/psdversion) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Obtiene la firma. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version) { get; } | Obtiene la versión. El valor predeterminado es 2 |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/psdversion/) { get; } | Obtiene la versión psd. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtiene la firma. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/) { get; } | Obtiene la versión. El valor predeterminado es 2 |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [GetChannel](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel)(int) | Obtiene el canal. |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Devuelve unString que representa esta instancia. |
+| [GetChannel](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/)(int) | Obtiene el canal. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey) | La clave de información de la herramienta de tipo. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
 ### Ver también
 
-* class [AdjustmentLayerResource](../adjustmentlayerresource)
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [AdjustmentLayerResource](../adjustmentlayerresource/)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

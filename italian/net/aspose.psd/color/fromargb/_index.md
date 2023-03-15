@@ -1,14 +1,14 @@
 ---
-title: FromArgb
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Crea aColoraspose.psd/color struttura da un valore ARGB a 32 bit.
+title: Color.FromArgb
+second_title: Aspose.PSD per riferimento API .NET
+description: Color metodo. Crea unColor struttura da un valore ARGB a 32 bit.
 type: docs
 weight: 1430
 url: /it/net/aspose.psd/color/fromargb/
 ---
 ## FromArgb(int) {#fromargb}
 
-Crea a[`Color`](../../color) struttura da un valore ARGB a 32 bit.
+Crea un[`Color`](../) struttura da un valore ARGB a 32 bit.
 
 ```csharp
 public static Color FromArgb(int argb)
@@ -20,19 +20,19 @@ public static Color FromArgb(int argb)
 
 ### Valore di ritorno
 
-Il[`Color`](../../color) struttura creata da questo metodo.
+IL[`Color`](../) struttura creata da questo metodo.
 
 ### Guarda anche
 
-* struct [Color](../../color)
-* spazio dei nomi [Aspose.PSD](../../color)
+* struct [Color](../)
+* spazio dei nomi [Aspose.PSD](../../color/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## FromArgb(int, int, int, int) {#fromargb_3}
 
-Crea a[`Color`](../../color) struttura dai quattro valori dei componenti ARGB (alfa, rosso, verde e blu). Sebbene questo metodo consenta di passare un valore a 32 bit per ciascun componente, il valore di ciascun componente è limitato a 8 bit.
+Crea un[`Color`](../) struttura dai valori dei quattro componenti ARGB (alfa, rosso, verde e blu). Sebbene questo metodo consenta di passare un valore a 32 bit per ciascun componente, il valore di ciascun componente è limitato a 8 bit.
 
 ```csharp
 public static Color FromArgb(int alpha, int red, int green, int blue)
@@ -40,32 +40,32 @@ public static Color FromArgb(int alpha, int red, int green, int blue)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| alpha | Int32 | La componente alfa. I valori validi sono compresi tra 0 e 255. |
-| red | Int32 | La componente rossa. I valori validi sono compresi tra 0 e 255. |
-| green | Int32 | La componente verde. I valori validi sono compresi tra 0 e 255. |
-| blue | Int32 | La componente blu. I valori validi sono compresi tra 0 e 255. |
+| alpha | Int32 | La componente alfa. I valori validi sono da 0 a 255. |
+| red | Int32 | La componente rossa. I valori validi sono da 0 a 255. |
+| green | Int32 | La componente verde. I valori validi sono da 0 a 255. |
+| blue | Int32 | La componente blu. I valori validi sono da 0 a 255. |
 
 ### Valore di ritorno
 
-Il[`Color`](../../color) che questo metodo crea.
+IL[`Color`](../) che questo metodo crea.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentOutOfRangeException | *alpha* ,*red* ,*green* , o*blue* è minore di 0 o maggiore di 255. |
+| ArgumentOutOfRangeException | *alpha* ,*red* ,*green* , O*blue* è minore di 0 o maggiore di 255. |
 
 ### Guarda anche
 
-* struct [Color](../../color)
-* spazio dei nomi [Aspose.PSD](../../color)
+* struct [Color](../)
+* spazio dei nomi [Aspose.PSD](../../color/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## FromArgb(int, Color) {#fromargb_1}
 
-Crea a[`Color`](../../color) struttura da quella specificata[`Color`](../../color) struttura, ma con il nuovo valore alfa specificato. Sebbene questo metodo consenta di passare un valore a 32 bit per il valore alfa, il valore è limitato a 8 bit.
+Crea un[`Color`](../) struttura dal specificato[`Color`](../) struttura, ma con il nuovo valore alfa specificato. Sebbene questo metodo consenta di passare un valore a 32 bit per il valore alfa, il valore è limitato a 8 bit.
 
 ```csharp
 public static Color FromArgb(int alpha, Color baseColor)
@@ -73,12 +73,12 @@ public static Color FromArgb(int alpha, Color baseColor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| alpha | Int32 | Il valore alfa per il nuovo[`Color`](../../color). I valori validi sono compresi tra 0 e 255. |
-| baseColor | Color | Il[`Color`](../../color) da cui creare il nuovo[`Color`](../../color). |
+| alpha | Int32 | Il valore alfa per il nuovo[`Color`](../). I valori validi sono da 0 a 255. |
+| baseColor | Color | IL[`Color`](../) da cui creare il nuovo[`Color`](../). |
 
 ### Valore di ritorno
 
-Il[`Color`](../../color) che questo metodo crea.
+IL[`Color`](../) che questo metodo crea.
 
 ### Eccezioni
 
@@ -88,15 +88,15 @@ Il[`Color`](../../color) che questo metodo crea.
 
 ### Guarda anche
 
-* struct [Color](../../color)
-* spazio dei nomi [Aspose.PSD](../../color)
+* struct [Color](../)
+* spazio dei nomi [Aspose.PSD](../../color/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## FromArgb(int, int, int) {#fromargb_2}
 
-Crea a[`Color`](../../color) struttura dai valori di colore a 8 bit specificati (rosso, verde e blu). Il valore alfa è implicitamente 255 (completamente opaco). Sebbene questo metodo consenta di passare un valore a 32 bit per ciascun componente di colore, il valore di ciascun componente è limitato a 8 bit.
+Crea un[`Color`](../) struttura dai valori di colore a 8 bit specificati (rosso, verde e blu). Il valore alfa è implicitamente 255 (completamente opaco). Sebbene questo metodo consenta di passare un valore a 32 bit per ciascun componente di colore, il valore di ciascun componente è limitato a 8 bit.
 
 ```csharp
 public static Color FromArgb(int red, int green, int blue)
@@ -104,24 +104,24 @@ public static Color FromArgb(int red, int green, int blue)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| red | Int32 | Il valore del componente rosso per il nuovo[`Color`](../../color). I valori validi sono compresi tra 0 e 255. |
-| green | Int32 | Il valore del componente verde per il nuovo[`Color`](../../color). I valori validi sono compresi tra 0 e 255. |
-| blue | Int32 | Il valore del componente blu per il nuovo[`Color`](../../color). I valori validi sono compresi tra 0 e 255. |
+| red | Int32 | Il valore del componente rosso per il nuovo[`Color`](../). I valori validi sono da 0 a 255. |
+| green | Int32 | Il valore della componente verde per il nuovo[`Color`](../). I valori validi sono da 0 a 255. |
+| blue | Int32 | Il valore del componente blu per il nuovo[`Color`](../). I valori validi sono da 0 a 255. |
 
 ### Valore di ritorno
 
-Il[`Color`](../../color) che questo metodo crea.
+IL[`Color`](../) che questo metodo crea.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentOutOfRangeException | *red* ,*green* , o*blue* è minore di 0 o maggiore di 255. |
+| ArgumentOutOfRangeException | *red* ,*green* , O*blue* è minore di 0 o maggiore di 255. |
 
 ### Guarda anche
 
-* struct [Color](../../color)
-* spazio dei nomi [Aspose.PSD](../../color)
+* struct [Color](../)
+* spazio dei nomi [Aspose.PSD](../../color/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

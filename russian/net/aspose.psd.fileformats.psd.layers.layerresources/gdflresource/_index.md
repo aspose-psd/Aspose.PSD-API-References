@@ -1,9 +1,9 @@
 ---
-title: GdFlResource
+title: Class GdFlResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Класс GdFlResource. Этот ресурс содержит информацию о смешивании отсеченного элемента.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource сорт. Класс GdFlResource. Этот ресурс содержит информацию о смешивании отсеченного элемента.
 type: docs
-weight: 2480
+weight: 2500
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
 ## GdFlResource class
@@ -18,42 +18,42 @@ public class GdFlResource : FillLayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [GdFlResource](gdflresource)() | Конструктор по умолчанию. |
+| [GdFlResource](gdflresource/)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer) { get; set; } | Получает или задает значение, указывающее, следует ли [выравнивать со слоем]. |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle) { get; set; } | Получает или задает угол. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color) { get; set; } | Получает цвет RGB. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints) { get; set; } | Получает точки цвета. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither) { get; set; } | Получает или задает значение, указывающее, является ли это[`GdFlResource`](../gdflresource) дизеринг. |
-| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval) { get; set; } | Получает или задает интервал градиента. |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname) { get; set; } | Получает или задает имя градиента. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype) { get; set; } | Получает или задает тип градиента. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset) { get; set; } | Получает или задает смещение по горизонтали. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key) { get; } | Получает ключ ресурса слоя. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse) { get; set; } | Получает или задает значение, указывающее, является ли это[`GdFlResource`](../gdflresource) является обратным. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale) { get; set; } | Получает или задает масштаб. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature) { get; } | Получает подпись ресурса слоя. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints) { get; set; } | Получает очки прозрачности. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset) { get; set; } | Получает или задает вертикальное смещение. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | Получает или задает значение, указывающее, следует ли [выравнивать со слоем]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/) { get; set; } | Получает или задает угол. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | Получает цвет RGB. |
+| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/) { get; set; } | Получает точки цвета. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | Получает или задает значение, указывающее, является ли это`GdFlResource` дизеринг. |
+| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | Получает или задает интервал градиента. |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | Получает или задает имя градиента. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | Получает или задает тип градиента. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/) { get; set; } | Получает или задает смещение по горизонтали. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/) { get; } | Получает ключ ресурса слоя. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion/) { get; } | Получает минимальную версию psd, необходимую для ресурса слоя. 0 означает отсутствие ограничений. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | Получает или задает значение, указывающее, является ли это`GdFlResource` является обратным. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | Получает или задает масштаб. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature/) { get; } | Получает подпись ресурса слоя. |
+| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/) { get; set; } | Получает очки прозрачности. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/) { get; set; } | Получает или задает вертикальное смещение. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/) | Информационный ключ типа инструмента. |
 
 ### Примеры
 
@@ -153,9 +153,9 @@ using (im)
 
 ### Смотрите также
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [FillLayerResource](../filllayerresource)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [FillLayerResource](../filllayerresource/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

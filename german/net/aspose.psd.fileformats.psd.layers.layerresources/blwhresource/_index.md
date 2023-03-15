@@ -1,9 +1,9 @@
 ---
-title: BlwhResource
+title: Class BlwhResource
 second_title: Aspose.PSD für .NET-API-Referenz
-description: BlwhResourceKlasse ist eine Ressource der SchwarzweißAnpassungsebene.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlwhResource klas. BlwhResourceKlasse ist eine Ressource der SchwarzweißAnpassungsebene.
 type: docs
-weight: 2300
+weight: 2320
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 ---
 ## BlwhResource class
@@ -18,39 +18,39 @@ public class BlwhResource : AdjustmentLayerResource
 
 | Name | Beschreibung |
 | --- | --- |
-| [BlwhResource](blwhresource)() | Default_Constructor |
+| [BlwhResource](blwhresource/)() | Default_Constructor |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BlackAndWhitePresetFileName](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename) { get; set; } | Ruft den Dateinamen der Schwarzweiß-Voreinstellung ab oder legt ihn fest. |
-| [Blues](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues) { get; set; } | Ruft den Blues-Wert ab oder setzt ihn. |
-| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind) { get; set; } | Ruft den voreingestellten Schwarzweiß-Artwert ab oder legt ihn fest. |
-| [Cyans](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/cyans) { get; set; } | Ruft den Cyanwert ab oder legt ihn fest. |
-| [Greens](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens) { get; set; } | Ruft den Grünwert ab oder setzt ihn. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| [Magentas](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas) { get; set; } | Ruft den Magenta-Wert ab oder legt ihn fest. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion) { get; } | Ruft die PSD-Version ab. |
-| [Reds](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds) { get; set; } | Ruft den Rotwert ab oder legt ihn fest. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Ruft die Signatur ab. |
-| [TintColor](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor) { get; set; } | Ruft den ARGB-Wert der Tönungsfarbe ab oder legt ihn fest. |
-| [UseTint](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Tönungsfarbe] verwendet wird. |
-| [Yellows](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows) { get; set; } | Ruft den Gelbwert ab oder legt ihn fest. |
+| [BlackAndWhitePresetFileName](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename/) { get; set; } | Ruft den Dateinamen der Schwarzweiß-Voreinstellung ab oder legt ihn fest. |
+| [Blues](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues/) { get; set; } | Ruft den Blues-Wert ab oder setzt ihn. |
+| [BwPresetKind](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind/) { get; set; } | Ruft den voreingestellten Schwarzweiß-Artwert ab oder legt ihn fest. |
+| [Cyans](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/cyans/) { get; set; } | Ruft den Cyanwert ab oder legt ihn fest. |
+| [Greens](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens/) { get; set; } | Ruft den Grünwert ab oder setzt ihn. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
+| [Magentas](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas/) { get; set; } | Ruft den Magenta-Wert ab oder legt ihn fest. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion/) { get; } | Ruft die PSD-Version ab. |
+| [Reds](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds/) { get; set; } | Ruft den Rotwert ab oder legt ihn fest. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Ruft die Signatur ab. |
+| [TintColor](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor/) { get; set; } | Ruft den ARGB-Wert der Tönungsfarbe ab oder legt ihn fest. |
+| [UseTint](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Tönungsfarbe] verwendet wird. |
+| [Yellows](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows/) { get; set; } | Ruft den Gelbwert ab oder legt ihn fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/save)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/save/)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey) | Die Type-Tool-Info-Taste. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/) | Die Type-Tool-Info-Taste. |
 
 ### Beispiele
 
@@ -159,9 +159,9 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 
 ### Siehe auch
 
-* class [AdjustmentLayerResource](../adjustmentlayerresource)
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [AdjustmentLayerResource](../adjustmentlayerresource/)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

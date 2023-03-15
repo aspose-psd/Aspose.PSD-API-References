@@ -1,0 +1,27 @@
+---
+title: IPsdColorPalette.RawEntriesCount
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: IPsdColorPalette संपत्त. कच्चे रंग पैलेट प्रवष्टयं क संख्य प्रप्त करत है
+type: docs
+weight: 30
+url: /hi/net/aspose.psd/ipsdcolorpalette/rawentriescount/
+---
+## IPsdColorPalette.RawEntriesCount property
+
+कच्चे रंग पैलेट प्रविष्टियों की संख्या प्राप्त करता है।
+
+```csharp
+public int RawEntriesCount { get; }
+```
+
+### संपत्ति मूल्य
+
+कच्चे रंग पैलेट प्रविष्टियों की गिनती।
+
+### यह सभी देखें
+
+* interface [IPsdColorPalette](../)
+* नाम स्थान [Aspose.PSD](../../ipsdcolorpalette/)
+* सभा [Aspose.PSD](../../../)
+
+

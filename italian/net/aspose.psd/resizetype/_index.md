@@ -1,9 +1,9 @@
 ---
-title: ResizeType
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Specifica il tipo di ridimensionamento.
+title: Enum ResizeType
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.ResizeType enum. Specifica il tipo di ridimensionamento.
 type: docs
-weight: 5300
+weight: 5370
 url: /it/net/aspose.psd/resizetype/
 ---
 ## ResizeType enumeration
@@ -19,26 +19,26 @@ public enum ResizeType
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | None | `0` | I pixel non vengono conservati durante l'operazione di ridimensionamento. |
-| LeftTopToLeftTop | `1` | Il punto in alto a sinistra della nuova immagine coinciderà con il punto in alto a sinistra dell'immagine originale. Il ritaglio si verificherà se necessario. |
-| RightTopToRightTop | `2` | Il punto in alto a destra della nuova immagine coinciderà con il punto in alto a destra dell'immagine originale. Il ritaglio si verificherà se necessario. |
-| RightBottomToRightBottom | `3` | Il punto in basso a destra della nuova immagine coinciderà con il punto in basso a destra dell'immagine originale. Il ritaglio si verificherà se necessario. |
-| LeftBottomToLeftBottom | `4` | Il punto in basso a sinistra della nuova immagine coinciderà con il punto in basso a sinistra dell'immagine originale. Il ritaglio si verificherà se necessario. |
-| CenterToCenter | `5` | Il centro della nuova immagine coinciderà con il centro dell'immagine originale. Il ritaglio si verificherà se necessario. |
+| LeftTopToLeftTop | `1` | Il punto superiore sinistro della nuova immagine coinciderà con il punto superiore sinistro dell'immagine originale. Il ritaglio verrà eseguito se necessario. |
+| RightTopToRightTop | `2` | Il punto in alto a destra della nuova immagine coinciderà con il punto in alto a destra dell'immagine originale. Il ritaglio verrà eseguito se necessario. |
+| RightBottomToRightBottom | `3` | Il punto in basso a destra della nuova immagine coinciderà con il punto in basso a destra dell'immagine originale. Il ritaglio verrà eseguito se necessario. |
+| LeftBottomToLeftBottom | `4` | Il punto inferiore sinistro della nuova immagine coinciderà con il punto inferiore sinistro dell'immagine originale. Il ritaglio verrà eseguito se necessario. |
+| CenterToCenter | `5` | Il centro della nuova immagine coinciderà con il centro dell'immagine originale. Il ritaglio verrà eseguito se necessario. |
 | LanczosResample | `6` | Ricampiona usando l'algoritmo lanczos con a=3. |
 | NearestNeighbourResample | `7` | Ricampiona utilizzando l'algoritmo del vicino più vicino. |
-| AdaptiveResample | `8` | Ricampiona utilizzando un algoritmo adattivo basato su funzioni razionali pesate e miscelate e algoritmi di interpolazione lanczos3. |
-| BilinearResample | `9` | Ricampiona usando l'interpolazione bilineare. Il prefiltro dell'immagine è consentito per rimuovere il disturbo prima del ricampionamento, quando necessario |
-| HighQualityResample | `10` | Il ricampionamento di alta qualità |
+| AdaptiveResample | `8` | Ricampionamento utilizzando algoritmi adattivi basati su funzioni razionali pesate e miste e algoritmi di interpolazione lanczos3. |
+| BilinearResample | `9` | Ricampiona usando l'interpolazione bilineare. Il pre-filtraggio dell'immagine è consentito per rimuovere il rumore prima del ricampionamento, quando necessario |
+| HighQualityResample | `10` | Il resample di alta qualità |
 | CatmullRom | `11` | Il metodo di interpolazione cubica Catmull-Rom. |
 | CubicConvolution | `12` | Il metodo di interpolazione della convoluzione cubica |
 | CubicBSpline | `13` | Il metodo di interpolazione cubica CubicBSpline |
-| Mitchell | `14` | Il metodo di interpolazione cubica Mitchell |
+| Mitchell | `14` | Il metodo di interpolazione cubica di Mitchell |
 | SinC | `15` | Il metodo di interpolazione cubica Sinc (Lanczos3) |
-| Bell | `16` | Il metodo di interpolazione Bell |
+| Bell | `16` | Il metodo di interpolazione di Bell |
 
 ### Esempi
 
-Il codice seguente illustra come ridimensionare un'immagine con un nuovo tipo di ridimensionamento SinC.
+Il codice seguente mostra come ridimensionare un'immagine con un nuovo tipo di ridimensionamento SinC.
 
 ```csharp
 [C#]
@@ -70,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Il codice seguente mostra come ridimensionare un'immagine con un nuovo tipo di ridimensionamento Mitchell.
+Il codice seguente illustra come ridimensionare un'immagine con un nuovo tipo di ridimensionamento Mitchell.
 
 ```csharp
 [C#]
@@ -86,7 +86,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Il codice seguente illustra come ridimensionare un'immagine con un nuovo tipo di ridimensionamento CatmullRom.
+Il codice seguente mostra come ridimensionare un'immagine con un nuovo tipo di ridimensionamento CatmullRom.
 
 ```csharp
 [C#]
@@ -102,7 +102,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Il codice seguente illustra come ridimensionare un'immagine con un nuovo tipo di ridimensionamento CubicBSpline.
+Il codice seguente mostra come ridimensionare un'immagine con un nuovo tipo di ridimensionamento CubicBSpline.
 
 ```csharp
 [C#]
@@ -136,7 +136,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 ### Guarda anche
 
-* spazio dei nomi [Aspose.PSD](../../aspose.psd)
+* spazio dei nomi [Aspose.PSD](../../aspose.psd/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

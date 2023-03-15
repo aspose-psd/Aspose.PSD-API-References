@@ -1,14 +1,14 @@
 ---
-title: ContentsBounds
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Ottiene o imposta i limiti del contenuto delloggetto intelligente.
+title: SmartObjectLayer.ContentsBounds
+second_title: Aspose.PSD per riferimento API .NET
+description: SmartObjectLayer proprietà. Ottiene o imposta i limiti del contenuto delloggetto avanzato.
 type: docs
 weight: 20
 url: /it/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentsbounds/
 ---
 ## SmartObjectLayer.ContentsBounds property
 
-Ottiene o imposta i limiti del contenuto dell'oggetto intelligente.
+Ottiene o imposta i limiti del contenuto dell'oggetto avanzato.
 
 ```csharp
 public Rectangle ContentsBounds { get; set; }
@@ -16,11 +16,11 @@ public Rectangle ContentsBounds { get; set; }
 
 ### Valore della proprietà
 
-L'oggetto intelligente delimita.
+I limiti dell'oggetto intelligente.
 
 ### Esempi
 
-Il codice seguente illustra il supporto degli oggetti intelligenti incorporati.
+Il codice seguente illustra il supporto degli oggetti Embedded Smart.
 
 ```csharp
 [C#]
@@ -33,7 +33,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Questo esempio mostra come modificare il livello dell'oggetto intelligente nel file PSD ed esportare/aggiornare i contenuti incorporati originali dell'oggetto intelligente.
+// Questo esempio mostra come modificare il livello degli oggetti avanzati nel file PSD ed esportare/aggiornare i contenuti incorporati originali degli oggetti avanzati.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,7 +62,7 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Esportiamo l'immagine dell'oggetto intelligente incorporato dal livello dell'oggetto intelligente PSD
+        // Esportiamo l'immagine dell'oggetto avanzato incorporato dal livello dell'oggetto avanzato PSD
         smartObjectLayer.ExportContents(exportPath);
 
         // Controlliamo se l'immagine originale è stata salvata correttamente
@@ -73,7 +73,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Invertiamo l'immagine originale dell'oggetto intelligente
+            // Invertiamo l'immagine dell'oggetto intelligente originale
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,7 +84,7 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Sostituiamo l'immagine dell'oggetto intelligente incorporato nel livello PSD
+            // Sostituiamo l'immagine dell'oggetto smart incorporata nel livello PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
@@ -95,7 +95,7 @@ foreach (FileFormat format in formats)
 }
 ```
 
-Il codice seguente illustra il supporto dell'aggiornamento di oggetti Smart collegati.
+Il codice seguente dimostra il supporto dell'aggiornamento degli oggetti Smart collegati.
 
 ```csharp
 [C#]
@@ -128,7 +128,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Questo esempio mostra come aggiornare il livello di oggetti intelligenti esterno o incorporato utilizzando questi metodi:
+// Questo esempio mostra come aggiornare il livello degli oggetti intelligenti esterno o incorporato utilizzando questi metodi:
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -142,7 +142,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // Questo esempio mostra come modificare il livello dell'oggetto intelligente nel file PSD ed esportarne/aggiornarne il contenuto.
+    // Questo esempio mostra come modificare il livello degli oggetti avanzati nel file PSD ed esportare/aggiornarne il contenuto.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -163,7 +163,7 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // Esportiamo l'immagine dell'oggetto intelligente esterno dal livello dell'oggetto intelligente PSD in una nuova posizione
+            // Esportiamo l'immagine dell'oggetto avanzato esterno dal livello dell'oggetto avanzato PSD in una nuova posizione
             // perché lo modificheremo.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
@@ -185,7 +185,7 @@ void ExampleOfUpdatingSmartObjectLayer(
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // Controlliamo se il contenuto aggiornato influisce sul rendering e l'immagine psd è stata salvata correttamente
+        // Controlliamo se il contenuto aggiornato influisce sul rendering e se l'immagine psd viene salvata correttamente
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -211,7 +211,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // Questo dimostra come convertire un livello oggetto intelligente incorporato nel file PSD in uno esterno.
+    // Questo dimostra come convertire un livello di oggetto intelligente incorporato nel file PSD in uno esterno.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -232,7 +232,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // Controlliamo se l'immagine convertita è stata salvata correttamente
+        // Controlliamo se l'immagine convertita viene salvata correttamente
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -249,7 +249,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// Questo esempio mostra come incorporare un livello di oggetti intelligenti esterni o tutti i livelli collegati nel file PSD utilizzando il metodo EmbedLinked.
+// Questo esempio mostra come incorporare un livello oggetto avanzato esterno o tutti i livelli collegati nel file PSD utilizzando il metodo EmbedLinked.
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -293,7 +293,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // Controlliamo se l'immagine convertita è stata salvata correttamente
+        // Controlliamo se l'immagine convertita viene salvata correttamente
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -310,7 +310,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// Questo esempio mostra come modificare il livello di oggetti intelligenti esterni di Adobe® Photoshop® ed esportarne/aggiornarne il contenuto
+// Questo esempio mostra come modificare il livello degli oggetti intelligenti esterni di Adobe® Photoshop® ed esportarne/aggiornarne il contenuto
 // utilizzando i metodi ExportContents e ReplaceContents.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
@@ -337,10 +337,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // Esportiamo l'immagine dell'oggetto intelligente collegato dal livello dell'oggetto intelligente PSD
+        // Esportiamo l'immagine dell'oggetto avanzato collegato dal livello dell'oggetto avanzato PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Controlliamo se l'immagine originale è stata salvata correttamente
+        // Controlliamo se l'immagine originale è salvata correttamente
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -352,7 +352,7 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // Sostituiamo l'immagine dell'oggetto intelligente collegato nel livello PSD
+            // Sostituiamo l'immagine dell'oggetto avanzato collegato nel livello PSD
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
@@ -400,9 +400,9 @@ string GetFormatExt(FileFormat format)
 
 ### Guarda anche
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [SmartObjectLayer](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

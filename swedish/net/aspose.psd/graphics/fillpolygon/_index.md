@@ -1,0 +1,127 @@
+---
+title: Graphics.FillPolygon
+second_title: Aspose.PSD för .NET API-referens
+description: Graphics metod. Fyller det inre av en polygon som definieras av en matris med punkter som specificeras avPointF strukturer ochAlternate .
+type: docs
+weight: 380
+url: /sv/net/aspose.psd/graphics/fillpolygon/
+---
+## FillPolygon(Brush, PointF[]) {#fillpolygon}
+
+Fyller det inre av en polygon som definieras av en matris med punkter som specificeras av[`PointF`](../../pointf/) strukturer ochAlternate .
+
+```csharp
+public void FillPolygon(Brush brush, PointF[] points)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
+| points | PointF[] | Uppsättning av[`PointF`](../../pointf/) strukturer som representerar toppen av polygonen som ska fyllas. |
+
+### Undantag
+
+| undantag | skick |
+| --- | --- |
+| ArgumentNullException | *brush* är null. -eller- *points* är inget. |
+
+### Se även
+
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* namnutrymme [Aspose.PSD](../../graphics/)
+* hopsättning [Aspose.PSD](../../../)
+
+---
+
+## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
+
+Fyller det inre av en polygon som definieras av en matris med punkter som specificeras av[`PointF`](../../pointf/) strukturer som använder det angivna fyllningsläget.
+
+```csharp
+public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
+| points | PointF[] | Uppsättning av[`PointF`](../../pointf/) strukturer som representerar toppen av polygonen som ska fyllas. |
+| fillMode | FillMode | Medlem av[`FillMode`](../../fillmode/) uppräkning som bestämmer stilen på fyllningen. |
+
+### Undantag
+
+| undantag | skick |
+| --- | --- |
+| ArgumentNullException | *brush* är null. -eller- *points* är inget. |
+
+### Se även
+
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* namnutrymme [Aspose.PSD](../../graphics/)
+* hopsättning [Aspose.PSD](../../../)
+
+---
+
+## FillPolygon(Brush, Point[]) {#fillpolygon_2}
+
+Fyller det inre av en polygon som definieras av en matris med punkter som specificeras av[`Point`](../../point/) strukturer ochAlternate .
+
+```csharp
+public void FillPolygon(Brush brush, Point[] points)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
+| points | Point[] | Uppsättning av[`Point`](../../point/) strukturer som representerar toppen av polygonen som ska fyllas. |
+
+### Undantag
+
+| undantag | skick |
+| --- | --- |
+| ArgumentNullException | *brush* är null. -eller- *points* är inget. |
+
+### Se även
+
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namnutrymme [Aspose.PSD](../../graphics/)
+* hopsättning [Aspose.PSD](../../../)
+
+---
+
+## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
+
+Fyller det inre av en polygon som definieras av en matris med punkter som specificeras av[`Point`](../../point/) strukturer som använder det angivna fyllningsläget.
+
+```csharp
+public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
+| points | Point[] | Uppsättning av[`Point`](../../point/) strukturer som representerar toppen av polygonen som ska fyllas. |
+| fillMode | FillMode | Medlem av[`FillMode`](../../fillmode/) uppräkning som bestämmer stilen på fyllningen. |
+
+### Undantag
+
+| undantag | skick |
+| --- | --- |
+| ArgumentNullException | *brush* är null. -eller- *points* är inget. |
+
+### Se även
+
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* namnutrymme [Aspose.PSD](../../graphics/)
+* hopsättning [Aspose.PSD](../../../)
+
+

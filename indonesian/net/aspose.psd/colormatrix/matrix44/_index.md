@@ -1,0 +1,27 @@
+---
+title: ColorMatrix.Matrix44
+second_title: Aspose.PSD untuk Referensi .NET API
+description: ColorMatrix Properti. Mendapat atau mengatur elemen pada baris keempat dan kolom keempat iniColorMatrix .
+type: docs
+weight: 270
+url: /id/net/aspose.psd/colormatrix/matrix44/
+---
+## ColorMatrix.Matrix44 property
+
+Mendapat atau mengatur elemen pada baris keempat dan kolom keempat ini[`ColorMatrix`](../) .
+
+```csharp
+public float Matrix44 { get; set; }
+```
+
+### Nilai properti
+
+Elemen pada baris keempat dan kolom keempat ini[`ColorMatrix`](../).
+
+### Lihat juga
+
+* class [ColorMatrix](../)
+* ruang nama [Aspose.PSD](../../colormatrix/)
+* perakitan [Aspose.PSD](../../../)
+
+

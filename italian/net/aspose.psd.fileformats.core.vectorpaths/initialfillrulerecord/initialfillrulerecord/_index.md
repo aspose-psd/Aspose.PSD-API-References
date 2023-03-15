@@ -1,14 +1,14 @@
 ---
-title: InitialFillRuleRecord
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Inizializza una nuova istanza diInitialFillRuleRecordaspose.psd.fileformats.core.vectorpaths/initialfillrulerecord classe.
+title: InitialFillRuleRecord.InitialFillRuleRecord
+second_title: Aspose.PSD per riferimento API .NET
+description: InitialFillRuleRecord costruttore. Inizializza una nuova istanza diInitialFillRuleRecord classe.
 type: docs
 weight: 10
 url: /it/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/initialfillrulerecord/
 ---
 ## InitialFillRuleRecord() {#constructor}
 
-Inizializza una nuova istanza di[`InitialFillRuleRecord`](../../initialfillrulerecord) classe.
+Inizializza una nuova istanza di[`InitialFillRuleRecord`](../) classe.
 
 ```csharp
 public InitialFillRuleRecord()
@@ -16,15 +16,15 @@ public InitialFillRuleRecord()
 
 ### Guarda anche
 
-* class [InitialFillRuleRecord](../../initialfillrulerecord)
-* spazio dei nomi [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord)
+* class [InitialFillRuleRecord](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(bool) {#constructor_1}
 
-Inizializza una nuova istanza di[`InitialFillRuleRecord`](../../initialfillrulerecord) classe.
+Inizializza una nuova istanza di[`InitialFillRuleRecord`](../) classe.
 
 ```csharp
 public InitialFillRuleRecord(bool isFillStartsWithAllPixels)
@@ -32,11 +32,11 @@ public InitialFillRuleRecord(bool isFillStartsWithAllPixels)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| isFillStartsWithAllPixels | Boolean | Il riempimento is inizia con tutti i pixel. |
+| isFillStartsWithAllPixels | Boolean | Il riempimento inizia con tutti i pixel. |
 
 ### Esempi
 
-Nell'esempio di codice seguente vengono fornite classi per manipolare gli oggetti del percorso vettoriale e viene illustrato come usare tali classi.
+L'esempio di codice seguente fornisce le classi per manipolare gli oggetti del percorso vettoriale e illustra come utilizzare tali classi.
 
 ```csharp
 [C#]
@@ -64,12 +64,12 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// La classe che fornisce il lavoro tra <see cref="Layer"/> e <vedi cref="VectorPath"/>.
+/// La classe che fornisce lavoro tra <see cref="Layer"/> e <vedere cref="VectorPath"/>.
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// Crea il <see cref="VectorPath"/> istanza basata sulle risorse del livello di input.
+    /// Crea il <see cref="VectorPath"/> istanza basata sulle risorse dal livello di input.
     /// </summary>
     /// <param name="psdLayer">Il livello psd.</param>
     /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
@@ -91,7 +91,7 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Aggiorna le risorse del livello di input da <see cref="VectorPath"/> istanza o sostituirlo con una nuova risorsa di percorso e aggiornamenti.
+    /// Aggiorna le risorse del livello di input da <see cref="VectorPath"/> istanza o sostituirla con una nuova risorsa di percorso e aggiornamenti.
     /// </summary>
     /// <param name="psdLayer">Il livello psd.</param>
     /// <param name="vectorPath">Il percorso del vettore.</param>
@@ -139,8 +139,8 @@ public static class VectorDataProvider
     /// Aggiorna i dati delle risorse da <see cref="VectorPath"/> esempio.
     /// </summary>
     /// <param name="pathResource">La risorsa del percorso.</param>
-    /// <param name="vogkResource">La risorsa dei dati di origine del vettore.</param>
-    /// <param name="socoResource">La risorsa colore solido.</param>
+    /// <param name="vogkResource">La risorsa dati di origine del vettore.</param>
+    /// <param name="socoResource">La risorsa a tinta unita.</param>
     /// <param name="vectorPath">Il percorso del vettore.</param>
     /// <param name="imageSize">La dimensione dell'immagine per correggere le coordinate del punto di conversione.</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
@@ -173,8 +173,8 @@ public static class VectorDataProvider
     /// </summary>
     /// <param name="psdLayer">Il livello psd.</param>
     /// <param name="pathResource">La risorsa del percorso.</param>
-    /// <param name="vogkResource">La risorsa dei dati di origine del vettore.</param>
-    /// <param name="socoResource">La risorsa colore solido.</param>
+    /// <param name="vogkResource">La risorsa dati di origine del vettore.</param>
+    /// <param name="socoResource">La risorsa a tinta unita.</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
         bool pathResourceExist = false;
@@ -221,10 +221,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Trova il <see cref="VectorPathDataResource"/> risorsa nelle risorse del livello di input.
+    /// Trova <see cref="VectorPathDataResource"/> risorsa nelle risorse del livello di input.
     /// </summary>
     /// <param name="psdLayer">Il livello psd.</param>
-    /// <param name="createIfNotExist">Se la risorsa non esiste, per <see cref="true"/> crea una nuova risorsa, altrimenti restituisce <see cref="null"/>.</param>
+    /// <param name="createIfNotExist">Se la risorsa non esiste, per <vedere cref="true"/> crea una nuova risorsa, altrimenti restituisce <see cref="null"/>.</param>
     /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
@@ -247,10 +247,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Trova il <see cref="VogkResource"/> risorsa nelle risorse del livello di input.
+    /// Trova <see cref="VogkResource"/> risorsa nelle risorse del livello di input.
     /// </summary>
     /// <param name="psdLayer">Il livello psd.</param>
-    /// <param name="createIfNotExist">Se la risorsa non esiste, per <see cref="true"/> crea una nuova risorsa, altrimenti restituisce <see cref="null"/>.</param>
+    /// <param name="createIfNotExist">Se la risorsa non esiste, per <vedere cref="true"/> crea una nuova risorsa, altrimenti restituisce <see cref="null"/>.</param>
     /// <returns>The <see cref="VogkResource"/> resource.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
@@ -273,10 +273,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Trova il <see cref="SoCoResource"/> risorsa nelle risorse del livello di input.
+    /// Trova <see cref="SoCoResource"/> risorsa nelle risorse del livello di input.
     /// </summary>
     /// <param name="psdLayer">Il livello psd.</param>
-    /// <param name="createIfNotExist">Se la risorsa non esiste, per <see cref="true"/> crea una nuova risorsa, altrimenti restituisce <see cref="null"/>.</param>
+    /// <param name="createIfNotExist">Se la risorsa non esiste, per <vedere cref="true"/> crea una nuova risorsa, altrimenti restituisce <see cref="null"/>.</param>
     /// <returns>The <see cref="SoCoResource"/> resource.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
@@ -299,9 +299,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Convalida il livello con cui lavorare <see cref="VectorDataProvider"/> classe.
+    /// Convalida il layer con cui lavorare <see cref="VectorDataProvider"/> classe.
     /// </summary>
-    /// <nome parametro="livello"></param>
+    /// <param name="livello"></param>
     /// <exception cref="ArgumentNullException"></exception>
     private static void ValidateLayer(Layer layer)
     {
@@ -343,9 +343,9 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Inizializza una nuova istanza di <see cref="BezierKnot" /> classe basata su <vedi cref="BezierKnotRecord"/>.
+    /// Inizializza una nuova istanza di <see cref="BezierKnot" /> classe basata su <see cref="BezierKnotRecord"/>.
     /// </summary>
-    /// <param name="bezierKnotRecord">The <see cref="BezierKnotRecord"/>.</param>
+    /// <param name="bezierKnotRecord">Il <see cref="BezierKnotRecord"/>.</param>
     /// <param name="imageSize">La dimensione dell'immagine per correggere le coordinate del punto di conversione.</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
@@ -358,7 +358,7 @@ public class BezierKnot
     /// <summary>
     /// Inizializza una nuova istanza di <see cref="BezierKnot" /> classe.
     /// </summary>
-    /// <param name="anchorPoint">Il punto di ancoraggio e di controllo.</param>
+    /// <param name="anchorPoint">Il punto da utilizzare come punto di ancoraggio e di controllo.</param>
     /// <param name="isLinked">Il valore che indica se questo nodo è collegato.</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
@@ -409,8 +409,8 @@ public class BezierKnot
     /// <summary>
     /// Sposta i punti di questo nodo in base ai valori di input.
     /// </summary>
-    /// <nome parametro="xOffset">L'offset x.</param>
-    /// <nome parametro="yOffset">L'offset y.</param>
+    /// <param name="xOffset">L'offset x.</param>
+    /// <param name="yOffset">L'offset y.</param>
     public void Shift(float xOffset, float yOffset)
     {
         this.ControlPoint1 = new PointF(this.ControlPoint1.X + xOffset, this.ControlPoint1.Y + yOffset);
@@ -421,7 +421,7 @@ public class BezierKnot
     /// <summary>
     /// Converte i valori in punti da risorsa a normale.
     /// </summary>
-    /// <param name="point">Il punto con i valori della risorsa.</param>
+    /// <param name="point">Il punto con i valori dalla risorsa.</param>
     /// <param name="imageSize">La dimensione dell'immagine per correggere le coordinate del punto di conversione.</param>
     /// <returns>The converted to normal point.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
@@ -430,9 +430,9 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Converte i valori di punti normali in punti risorsa.
+    /// Converte i normali valori punto in punto risorsa.
     /// </summary>
-    /// <nome parametro="punto">Il punto.</param>
+    /// <param name="point">Il punto.</param>
     /// <param name="imageSize">La dimensione dell'immagine per correggere le coordinate del punto di conversione.</param>
     /// <returns>The point with values for resource.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
@@ -456,7 +456,7 @@ public class PathShape
     }
 
     /// <summary>
-    /// Inizializza una nuova istanza di <see cref="PathShape" /> classe basata su <vedi cref="VectorPathRecord"/>.
+    /// Inizializza una nuova istanza di <see cref="PathShape" /> basata su <see cref="VectorPathRecord"/>.
     /// </summary>
     /// <param name="lengthRecord">Il record di lunghezza.</param>
     /// <param name="bezierKnotRecords">I record del nodo bezier.</param>
@@ -474,7 +474,7 @@ public class PathShape
     /// Ottiene o imposta un valore che indica se questa istanza è chiusa.
     /// </summary>
     /// <valore>
-    /// <c>vero</c> se questa istanza è chiusa; in caso contrario, <c>falso</c>.
+    /// <c>vero</c> se questa istanza è chiusa; in caso contrario, <c>false</c>.
     /// </valore>
     public bool IsClosed { get; set; }
 
@@ -489,7 +489,7 @@ public class PathShape
     public ushort ShapeIndex { get; set; }
 
     /// <summary>
-    /// Ottiene i punti della curva di Bézier.
+    /// Ottiene i punti della curva di Bezier.
     /// </summary>
     public List<BezierKnot> Points { get; private set; }
 
@@ -541,7 +541,7 @@ public class PathShape
 public class VectorPath
 {
     /// <summary>
-    /// Inizializza una nuova istanza di <see cref="VectorPath" /> classe basata su <vedi cref="VectorPathDataResource"/>.
+    /// Inizializza una nuova istanza di <see cref="VectorPath" /> basata su <see cref="VectorPathDataResource"/>.
     /// </summary>
     /// <param name="vectorPathDataResource">La risorsa di dati del percorso vettoriale.</param>
     /// <param name="imageSize">La dimensione dell'immagine per correggere le coordinate del punto di conversione.</param>
@@ -564,7 +564,7 @@ public class VectorPath
     public List<PathShape> Shapes { get; private set; }
 
     /// <summary>
-    /// Ottiene o imposta il colore di riempimento del percorso vettoriale.
+    /// Ottiene o imposta il colore di riempimento del tracciato vettoriale.
     /// </summary>
     public Color FillColor { get; set; }
 
@@ -580,7 +580,7 @@ public class VectorPath
     /// Ottiene o imposta un valore che indica se questa istanza è disabilitata.
     /// </summary>
     /// <valore>
-    /// <c>vero</c> se questa istanza è disabilitata; in caso contrario, <c>falso</c>.
+    /// <c>vero</c> se questa istanza è disabilitata; in caso contrario, <c>false</c>.
     /// </valore>
     public bool IsDisabled { get; set; }
 
@@ -588,7 +588,7 @@ public class VectorPath
     /// Ottiene o imposta un valore che indica se questa istanza non è collegata.
     /// </summary>
     /// <valore>
-    /// <c>vero</c> se questa istanza non è collegata; in caso contrario, <c>falso</c>.
+    /// <c>vero</c> se questa istanza non è collegata; in caso contrario, <c>false</c>.
     /// </valore>
     public bool IsNotLinked { get; set; }
 
@@ -596,14 +596,14 @@ public class VectorPath
     /// Ottiene o imposta un valore che indica se questa istanza è invertita.
     /// </summary>
     /// <valore>
-    /// <c>vero</c> se questa istanza è invertita; in caso contrario, <c>falso</c>.
+    /// <c>vero</c> se questa istanza è invertita; in caso contrario, <c>false</c>.
     /// </valore>
     public bool IsInverted { get; set; }
 
     /// <summary>
     /// Inizializza un valore in base all'input <see cref="VectorPathDataResource"/> risorsa.
     /// </summary>
-    /// <param name="resource">La risorsa dei dati del percorso vettoriale.</param>
+    /// <param name="resource">La risorsa di dati del percorso vettoriale.</param>
     /// <param name="imageSize">La dimensione dell'immagine per correggere le coordinate del punto di conversione.</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
@@ -657,15 +657,15 @@ public class VectorPath
 
 ### Guarda anche
 
-* class [InitialFillRuleRecord](../../initialfillrulerecord)
-* spazio dei nomi [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord)
+* class [InitialFillRuleRecord](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(byte[]) {#constructor_2}
 
-Inizializza una nuova istanza di[`InitialFillRuleRecord`](../../initialfillrulerecord) classe.
+Inizializza una nuova istanza di[`InitialFillRuleRecord`](../) classe.
 
 ```csharp
 public InitialFillRuleRecord(byte[] data)
@@ -673,12 +673,12 @@ public InitialFillRuleRecord(byte[] data)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| data | Byte[] | I dati del record. |
+| data | Byte[] | I dati della registrazione. |
 
 ### Guarda anche
 
-* class [InitialFillRuleRecord](../../initialfillrulerecord)
-* spazio dei nomi [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord)
+* class [InitialFillRuleRecord](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

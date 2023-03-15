@@ -1,14 +1,14 @@
 ---
-title: FillPolygon
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Riempie linterno di un poligono definito da un array di punti specificato daPointFaspose.psd/pointf strutture eAlternate .
+title: Graphics.FillPolygon
+second_title: Aspose.PSD per riferimento API .NET
+description: Graphics metodo. Riempie linterno di un poligono definito da un array di punti specificato daPointF strutture eAlternate .
 type: docs
 weight: 380
 url: /it/net/aspose.psd/graphics/fillpolygon/
 ---
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-Riempie l'interno di un poligono definito da un array di punti specificato da[`PointF`](../../pointf) strutture eAlternate .
+Riempie l'interno di un poligono definito da un array di punti specificato da[`PointF`](../../pointf/) strutture eAlternate .
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
@@ -16,28 +16,28 @@ public void FillPolygon(Brush brush, PointF[] points)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| points | PointF[] | Matrice di[`PointF`](../../pointf) strutture che rappresentano i vertici del poligono da riempire. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| points | PointF[] | Matrice di[`PointF`](../../pointf/) strutture che rappresentano i vertici del poligono da riempire. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | *brush* è nullo. -o- *points* è zero. |
+| ArgumentNullException | *brush* è nullo. -oppure- *points* è zero. |
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-Riempie l'interno di un poligono definito da un array di punti specificato da[`PointF`](../../pointf) strutture che utilizzano la modalità di riempimento specificata.
+Riempie l'interno di un poligono definito da un array di punti specificato da[`PointF`](../../pointf/) strutture utilizzando la modalità di riempimento specificata.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
@@ -45,30 +45,30 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| points | PointF[] | Matrice di[`PointF`](../../pointf) strutture che rappresentano i vertici del poligono da riempire. |
-| fillMode | FillMode | Membro del[`FillMode`](../../fillmode) enumerazione che determina lo stile del riempimento. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| points | PointF[] | Matrice di[`PointF`](../../pointf/) strutture che rappresentano i vertici del poligono da riempire. |
+| fillMode | FillMode | Membro del[`FillMode`](../../fillmode/) enumerazione che determina lo stile del riempimento. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | *brush* è nullo. -o- *points* è zero. |
+| ArgumentNullException | *brush* è nullo. -oppure- *points* è zero. |
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* enum [FillMode](../../fillmode)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-Riempie l'interno di un poligono definito da un array di punti specificato da[`Point`](../../point) strutture eAlternate .
+Riempie l'interno di un poligono definito da un array di punti specificato da[`Point`](../../point/) strutture eAlternate .
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
@@ -76,28 +76,28 @@ public void FillPolygon(Brush brush, Point[] points)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| points | Point[] | Matrice di[`Point`](../../point) strutture che rappresentano i vertici del poligono da riempire. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| points | Point[] | Matrice di[`Point`](../../point/) strutture che rappresentano i vertici del poligono da riempire. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | *brush* è nullo. -o- *points* è zero. |
+| ArgumentNullException | *brush* è nullo. -oppure- *points* è zero. |
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-Riempie l'interno di un poligono definito da un array di punti specificato da[`Point`](../../point) strutture che utilizzano la modalità di riempimento specificata.
+Riempie l'interno di un poligono definito da un array di punti specificato da[`Point`](../../point/) strutture utilizzando la modalità di riempimento specificata.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
@@ -105,23 +105,23 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush)che determina le caratteristiche del riempimento. |
-| points | Point[] | Matrice di[`Point`](../../point) strutture che rappresentano i vertici del poligono da riempire. |
-| fillMode | FillMode | Membro del[`FillMode`](../../fillmode) enumerazione che determina lo stile del riempimento. |
+| brush | Brush | [`Brush`](../../brush/)che determina le caratteristiche del riempimento. |
+| points | Point[] | Matrice di[`Point`](../../point/) strutture che rappresentano i vertici del poligono da riempire. |
+| fillMode | FillMode | Membro del[`FillMode`](../../fillmode/) enumerazione che determina lo stile del riempimento. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | *brush* è nullo. -o- *points* è zero. |
+| ArgumentNullException | *brush* è nullo. -oppure- *points* è zero. |
 
 ### Guarda anche
 
-* class [Brush](../../brush)
-* struct [Point](../../point)
-* enum [FillMode](../../fillmode)
-* class [Graphics](../../graphics)
-* spazio dei nomi [Aspose.PSD](../../graphics)
+* class [Brush](../../brush/)
+* struct [Point](../../point/)
+* enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* spazio dei nomi [Aspose.PSD](../../graphics/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

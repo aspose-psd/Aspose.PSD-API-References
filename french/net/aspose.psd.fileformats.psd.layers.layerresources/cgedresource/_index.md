@@ -1,9 +1,9 @@
 ---
-title: CgEdResource
+title: Class CgEdResource
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Classe CgEdResource. Données supplémentaires du générateur de contenu Photoshop CS5
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource classe. Classe CgEdResource. Données supplémentaires du générateur de contenu Photoshop CS5
 type: docs
-weight: 2330
+weight: 2350
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
 ## CgEdResource class
@@ -18,42 +18,42 @@ public class CgEdResource : AdjustmentLayerResource
 
 | Nom | La description |
 | --- | --- |
-| [CgEdResource](cgedresource)() | Default_Constructor |
+| [CgEdResource](cgedresource/)() | Default_Constructor |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto) { get; set; } | Obtient ou définit une valeur indiquant si cette[`CgEdResource`](../cgedresource) est automatique. |
-| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness) { get; set; } | Obtient ou définit la luminosité. |
-| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast) { get; set; } | Obtient ou définit le contraste. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key) { get; } | Obtient la clé de ressource de couche. |
-| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor) { get; set; } | Obtient ou définit une valeur indiquant si [lab color] est utilisé. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast) { get; set; } | Obtient ou définit la valeur moyenne de la luminosité et du contraste. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature) { get; } | Obtient la signature. |
-| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy) { get; set; } | Obtient ou définit une valeur indiquant si [utiliser l'héritage]. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version) { get; set; } | Obtient ou définit la version. |
+| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | Obtient ou définit une valeur indiquant si cette`CgEdResource` est automatique. |
+| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/) { get; set; } | Obtient ou définit la luminosité. |
+| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/) { get; set; } | Obtient ou définit le contraste. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/) { get; } | Obtient la clé de ressource de couche. |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | Obtient ou définit une valeur indiquant si [lab color] est utilisé. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
+| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | Obtient ou définit la valeur moyenne de la luminosité et du contraste. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion/) { get; } | Obtient la version psd. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtient la signature. |
+| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | Obtient ou définit une valeur indiquant si [utiliser l'héritage]. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/) { get; set; } | Obtient ou définit la version. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Renvoie unString qui représente cette instance. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
 
 ### Voir également
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [AdjustmentLayerResource](../adjustmentlayerresource)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [AdjustmentLayerResource](../adjustmentlayerresource/)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

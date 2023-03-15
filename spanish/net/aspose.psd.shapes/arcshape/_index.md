@@ -1,9 +1,9 @@
 ---
-title: ArcShape
+title: Class ArcShape
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Representa una forma de arco.
+description: Aspose.PSD.Shapes.ArcShape clase. Representa una forma de arco.
 type: docs
-weight: 5390
+weight: 5460
 url: /es/net/aspose.psd.shapes/arcshape/
 ---
 ## ArcShape class
@@ -18,38 +18,38 @@ public sealed class ArcShape : PieShape, IOrderedShape
 
 | Nombre | Descripción |
 | --- | --- |
-| [ArcShape](arcshape#constructor)() | Inicializa una nueva instancia del[`ArcShape`](../arcshape) clase. |
-| [ArcShape](arcshape#constructor_1)(RectangleF, float, float) | Inicializa una nueva instancia del[`ArcShape`](../arcshape) clase. |
-| [ArcShape](arcshape#constructor_2)(RectangleF, float, float, bool) | Inicializa una nueva instancia del[`ArcShape`](../arcshape) clase. |
+| [ArcShape](arcshape/#constructor)() | Inicializa una nueva instancia del`ArcShape` clase. |
+| [ArcShape](arcshape/#constructor_1)(RectangleF, float, float) | Inicializa una nueva instancia del`ArcShape` clase. |
+| [ArcShape](arcshape/#constructor_2)(RectangleF, float, float, bool) | Inicializa una nueva instancia del`ArcShape` clase. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds) { get; } | Obtiene los límites del objeto. |
-| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center) { get; } | Obtiene el centro de la forma. |
-| [EndPoint](../../aspose.psd.shapes/arcshape/endpoint) { get; } | Obtiene el punto de forma final. |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | Obtiene un valor que indica si la forma tiene segmentos. |
-| [IsClosed](../../aspose.psd.shapes/arcshape/isclosed) { get; set; } | Obtiene o establece un valor que indica si la forma ordenada está cerrada. Cuando se procesa una forma ordenada cerrada, los puntos inicial y final no tienen significado. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | Obtiene el punto del rectángulo inferior izquierdo. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | Obtiene el punto del rectángulo superior izquierdo. |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | Obtiene la altura del rectángulo. |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | Obtiene el ancho del rectángulo. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | Obtiene el punto del rectángulo inferior derecho. |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | Obtiene el punto superior derecho del rectángulo. |
-| override [Segments](../../aspose.psd.shapes/arcshape/segments) { get; } | Obtiene los segmentos de forma. |
-| [StartAngle](../../aspose.psd.shapes/pieshape/startangle) { get; set; } | Obtiene o establece el ángulo de inicio. |
-| [StartPoint](../../aspose.psd.shapes/arcshape/startpoint) { get; } | Obtiene el punto de forma inicial. |
-| [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle) { get; set; } | Obtiene o establece el ángulo de barrido. |
+| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | Obtiene los límites del objeto. |
+| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Obtiene el centro de la forma. |
+| [EndPoint](../../aspose.psd.shapes/arcshape/endpoint/) { get; } | Obtiene el punto de forma final. |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Obtiene un valor que indica si la forma tiene segmentos. |
+| [IsClosed](../../aspose.psd.shapes/arcshape/isclosed/) { get; set; } | Obtiene o establece un valor que indica si la forma ordenada está cerrada. Cuando se procesa una forma ordenada cerrada, los puntos inicial y final no tienen significado. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Obtiene el punto del rectángulo inferior izquierdo. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Obtiene el punto del rectángulo superior izquierdo. |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Obtiene la altura del rectángulo. |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Obtiene el ancho del rectángulo. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Obtiene el punto del rectángulo inferior derecho. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Obtiene el punto superior derecho del rectángulo. |
+| override [Segments](../../aspose.psd.shapes/arcshape/segments/) { get; } | Obtiene los segmentos de forma. |
+| [StartAngle](../../aspose.psd.shapes/pieshape/startangle/) { get; set; } | Obtiene o establece el ángulo de inicio. |
+| [StartPoint](../../aspose.psd.shapes/arcshape/startpoint/) { get; } | Obtiene el punto de forma inicial. |
+| [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle/) { get; set; } | Obtiene o establece el ángulo de barrido. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds#getbounds)(Matrix) | Obtiene los límites del objeto. |
-| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds#getbounds_1)(Matrix, Pen) | Obtiene los límites del objeto. |
-| [Reverse](../../aspose.psd.shapes/arcshape/reverse)() | Invierte el orden de los puntos de esta forma. |
-| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform)(Matrix) | Aplica la transformación especificada a la forma. |
+| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds)(Matrix) | Obtiene los límites del objeto. |
+| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds_1)(Matrix, Pen) | Obtiene los límites del objeto. |
+| [Reverse](../../aspose.psd.shapes/arcshape/reverse/)() | Invierte el orden de los puntos de esta forma. |
+| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | Aplica la transformación especificada a la forma. |
 
 ### Ejemplos
 
@@ -101,9 +101,9 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Ver también
 
-* class [PieShape](../pieshape)
-* interface [IOrderedShape](../../aspose.psd/iorderedshape)
-* espacio de nombres [Aspose.PSD.Shapes](../../aspose.psd.shapes)
+* class [PieShape](../pieshape/)
+* interface [IOrderedShape](../../aspose.psd/iorderedshape/)
+* espacio de nombres [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

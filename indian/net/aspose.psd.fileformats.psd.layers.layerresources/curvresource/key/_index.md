@@ -1,0 +1,23 @@
+---
+title: CurvResource.Key
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: CurvResource संपत्त. परत संसधन कुंज प्रप्त करत है.
+type: docs
+weight: 30
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/key/
+---
+## CurvResource.Key property
+
+परत संसाधन कुंजी प्राप्त करता है.
+
+```csharp
+public override int Key { get; }
+```
+
+### यह सभी देखें
+
+* class [CurvResource](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
+* सभा [Aspose.PSD](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BmpOptions
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Opzioni di creazione del formato file bmp.
+title: Class BmpOptions
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.ImageOptions.BmpOptions classe. Le opzioni di creazione del formato file bmp.
 type: docs
-weight: 4720
+weight: 4790
 url: /it/net/aspose.psd.imageoptions/bmpoptions/
 ---
 ## BmpOptions class
 
-Opzioni di creazione del formato file bmp.
+Le opzioni di creazione del formato file bmp.
 
 ```csharp
 public class BmpOptions : ImageOptionsBase
@@ -18,37 +18,37 @@ public class BmpOptions : ImageOptionsBase
 
 | Nome | Descrizione |
 | --- | --- |
-| [BmpOptions](bmpoptions#constructor)() | Inizializza una nuova istanza di[`BmpOptions`](../bmpoptions) classe. |
-| [BmpOptions](bmpoptions#constructor_1)(BmpOptions) | Inizializza una nuova istanza di[`BmpOptions`](../bmpoptions) classe. |
+| [BmpOptions](bmpoptions/#constructor)() | Inizializza una nuova istanza di`BmpOptions` classe. |
+| [BmpOptions](bmpoptions/#constructor_1)(BmpOptions) | Inizializza una nuova istanza di`BmpOptions` classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [BitsPerPixel](../../aspose.psd.imageoptions/bmpoptions/bitsperpixel) { get; set; } | Ottiene o imposta il conteggio dei bit dell'immagine per pixel. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Ottiene o imposta l'hint per la dimensione del buffer che è la dimensione massima consentita per tutti i buffer interni. |
-| [Compression](../../aspose.psd.imageoptions/bmpoptions/compression) { get; set; } | Ottiene o imposta la compressione. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Ottiene o imposta il carattere sostitutivo predefinito (carattere che verrà utilizzato per disegnare il testo durante l'esportazione in formato raster, se il carattere del livello esistente nel file PSD non è presente nel sistema). Per prendere il nome corretto del carattere predefinito può essere utilizzato il frammento di codice successivo : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] famiglie = col.Families; string defaultFontName = famiglie[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Ottiene un valore che indica se questa istanza è stata eliminata. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Ottiene o imposta un valore che indica se [fotogramma intero]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Le opzioni multipagina |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Ottiene o imposta la tavolozza dei colori. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Ottiene o imposta il gestore dell'evento di avanzamento. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Ottiene o imposta le impostazioni di risoluzione. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Ottiene o imposta l'origine in cui creare l'immagine. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Ottiene o imposta le opzioni di rasterizzazione del vettore. |
-| virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata) { get; set; } | Ottiene o imposta il contenitore di metadati XMP. |
+| [BitsPerPixel](../../aspose.psd.imageoptions/bmpoptions/bitsperpixel/) { get; set; } | Ottiene o imposta i bit dell'immagine per numero di pixel. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Ottiene o imposta l'hint della dimensione del buffer che è definita dimensione massima consentita per tutti i buffer interni. |
+| [Compression](../../aspose.psd.imageoptions/bmpoptions/compression/) { get; set; } | Ottiene o imposta la compressione. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Ottiene o imposta il carattere sostitutivo predefinito (carattere che verrà utilizzato per disegnare il testo durante l'esportazione in raster, se il carattere del livello esistente nel file PSD non è presentato nel sistema). Per prendere il nome corretto del carattere predefinito può essere utilizzato il prossimo frammento di codice : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] famiglie = col.Families; string defaultFontName = famiglie[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Ottiene un valore che indica se questa istanza è stata eliminata. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Ottiene o imposta un valore che indica se [full frame]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Le opzioni multipagina |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Ottiene o imposta la tavolozza dei colori. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Ottiene o imposta il gestore dell'evento progress. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Ottiene o imposta le impostazioni di risoluzione. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Ottiene o imposta l'origine in cui creare l'immagine. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Ottiene o imposta le opzioni di rasterizzazione vettoriale. |
+| virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata/) { get; set; } | Ottiene o imposta il contenitore dei metadati XMP. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Clona questa istanza. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Elimina l'istanza corrente. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Clona questa istanza. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Elimina l'istanza corrente. |
 
 ### Esempi
 
-Questo esempio mostra l'uso di classi diverse da SaveOptions Namespace per scopi di esportazione. Un'immagine di tipo Psd viene caricata in un'istanza di Image e quindi esportata in diversi formati.
+Questo esempio dimostra l'uso di classi diverse da SaveOptions Namespace per scopi di esportazione. Un'immagine di tipo Psd viene caricata in un'istanza di Image e quindi esportata in diversi formati.
 
 ```csharp
 [C#]
@@ -62,7 +62,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
     //Esporta in formato file JPEG utilizzando le opzioni predefinite
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 
-    //Esporta in formato file JPEG 2000 utilizzando le opzioni predefinite
+    //Esporta nel formato di file JPEG 2000 utilizzando le opzioni predefinite
     image.Save(@"C:\temp\output.jp2", new Aspose.PSD.ImageOptions.Jpeg2000Options());
 
     //Esporta in formato file PNG utilizzando le opzioni predefinite
@@ -75,8 +75,8 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 
 ### Guarda anche
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* spazio dei nomi [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* spazio dei nomi [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

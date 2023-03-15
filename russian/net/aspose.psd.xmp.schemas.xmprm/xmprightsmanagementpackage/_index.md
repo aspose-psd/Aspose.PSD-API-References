@@ -1,9 +1,9 @@
 ---
-title: XmpRightsManagementPackage
+title: Class XmpRightsManagementPackage
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет пространство имен управления правами XMP.
+description: Aspose.PSD.Xmp.Schemas.XmpRm.XmpRightsManagementPackage сорт. Представляет пространство имен управления правами XMP.
 type: docs
-weight: 5860
+weight: 5930
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/
 ---
 ## XmpRightsManagementPackage class
@@ -18,40 +18,40 @@ public sealed class XmpRightsManagementPackage : XmpPackage
 
 | Имя | Описание |
 | --- | --- |
-| [XmpRightsManagementPackage](xmprightsmanagementpackage)() | Конструктор по умолчанию. |
+| [XmpRightsManagementPackage](xmprightsmanagementpackage/)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item) { get; set; } | Получает или задаетObject с указанным ключом. |
-| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys) { get; } | Получает ключи в пакете XMP. |
-| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri) { get; } | Получает URI пространства имен. |
-| [Prefix](../../aspose.psd.xmp/xmppackage/prefix) { get; } | Получает префикс. |
-| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace) { get; } | Получает пространство имен XML. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Получает или задаетObject с указанным ключом. |
+| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | Получает ключи в пакете XMP. |
+| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Получает URI пространства имен. |
+| [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Получает префикс. |
+| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | Получает пространство имен XML. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [AddValue](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue)(string, string) | Добавляет строковое свойство. |
-| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear)() | Очищает этот экземпляр. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey)(string) | Определяет, содержит ли указанный ключ key. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
-| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue)() | Преобразует значение XMP в представление XML. |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove)(string) | Удалить значение с указанным ключом. |
-| [SetCertificate](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate)(string) | Устанавливает сертификат. |
-| [SetMarkedAsRightManagement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement)(bool) | Отмечает как управление правами content |
-| [SetOwners](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners)(string[]) | Устанавливает владельцев. |
-| [SetUsageTerms](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms)(LangAlt) | Устанавливает условия использования. |
-| virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue)(string, IXmlValue) | Устанавливает значение. |
-| [SetWebStatement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement)(string) | Устанавливает веб-оператор. |
-| virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue)(string, XmpTypeBase) | Устанавливает значение типа XMP. |
+| override [AddValue](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue/)(string, string) | Добавляет строковое свойство. |
+| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | Очищает этот экземпляр. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Определяет, содержит ли указанный ключ key. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
+| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | Преобразует значение XMP в представление XML. |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Удалить значение с указанным ключом. |
+| [SetCertificate](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate/)(string) | Устанавливает сертификат. |
+| [SetMarkedAsRightManagement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/)(bool) | Отмечает как управление правами content |
+| [SetOwners](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/)(string[]) | Устанавливает владельцев. |
+| [SetUsageTerms](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/)(LangAlt) | Устанавливает условия использования. |
+| virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | Устанавливает значение. |
+| [SetWebStatement](../../aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/)(string) | Устанавливает веб-оператор. |
+| virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | Устанавливает значение типа XMP. |
 
 ### Смотрите также
 
-* class [XmpPackage](../../aspose.psd.xmp/xmppackage)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpRm](../../aspose.psd.xmp.schemas.xmprm)
+* class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
+* пространство имен [Aspose.PSD.Xmp.Schemas.XmpRm](../../aspose.psd.xmp.schemas.xmprm/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

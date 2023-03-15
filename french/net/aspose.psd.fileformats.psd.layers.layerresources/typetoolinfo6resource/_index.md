@@ -1,9 +1,9 @@
 ---
-title: TypeToolInfo6Resource
+title: Class TypeToolInfo6Resource
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Les informations sur loutil de type. Pour la version PSD supérieure ou égale à la 6.0.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfo6Resource classe. Les informations sur loutil de type. Pour la version PSD supérieure ou égale à la 6.0.
 type: docs
-weight: 3030
+weight: 3090
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/
 ---
 ## TypeToolInfo6Resource class
@@ -18,50 +18,50 @@ public class TypeToolInfo6Resource : LayerResource
 
 | Nom | La description |
 | --- | --- |
-| [TypeToolInfo6Resource](typetoolinfo6resource)(ClassID, ClassID) | Initialise une nouvelle instance du[`TypeToolInfo6Resource`](../typetoolinfo6resource) classe. |
+| [TypeToolInfo6Resource](typetoolinfo6resource/)(ClassID, ClassID) | Initialise une nouvelle instance du`TypeToolInfo6Resource` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/bottom) { get; set; } | Obtient ou définit l'emplacement du bas. |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classid) { get; set; } | Obtient ou définit l'ID de classe. |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classname) { get; set; } | Obtient ou définit le nom de la classe. |
-| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/descriptorversion) { get; set; } | Obtient ou définit la version du descripteur. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/items) { get; set; } | Obtient ou définit les éléments. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/key) { get; } | Obtient la clé de ressource de couche. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left) { get; set; } | Obtient ou définit l'emplacement de gauche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/psdversion) { get; } | Obtient la version minimale de psd requise pour la ressource de couche. 0 indique aucune restriction. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/right) { get; set; } | Obtient ou définit le bon emplacement. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/signature) { get; } | Obtient la signature de ressource de couche. |
-| [TextVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion) { get; set; } | Obtient ou définit la version texte. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top) { get; set; } | Obtient ou définit l'emplacement supérieur. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/transformmatrix) { get; set; } | Obtient ou définit la matrice de transformation. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/version) { get; set; } | Obtient ou définit la version de l'outil de texte. |
-| [WarpClassID](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassid) { get; set; } | Obtient ou définit l'ID de classe. |
-| [WarpClassName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassname) { get; set; } | Obtient ou définit le nom de la classe warp. |
-| [WarpDescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpdescriptorversion) { get; set; } | Obtient ou définit la version du descripteur warp. |
-| [WarpItems](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpitems) { get; set; } | Obtient ou définit les éléments de chaîne. |
-| [WarpVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpversion) { get; set; } | Obtient ou définit la version de warp. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/bottom/) { get; set; } | Obtient ou définit l'emplacement du bas. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classid/) { get; set; } | Obtient ou définit l'ID de classe. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classname/) { get; set; } | Obtient ou définit le nom de la classe. |
+| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/descriptorversion/) { get; set; } | Obtient ou définit la version du descripteur. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/items/) { get; set; } | Obtient ou définit les éléments. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/key/) { get; } | Obtient la clé de ressource de couche. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/) { get; set; } | Obtient ou définit l'emplacement de gauche. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/psdversion/) { get; } | Obtient la version minimale de psd requise pour la ressource de couche. 0 indique aucune restriction. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/right/) { get; set; } | Obtient ou définit le bon emplacement. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/signature/) { get; } | Obtient la signature de ressource de couche. |
+| [TextVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion/) { get; set; } | Obtient ou définit la version texte. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top/) { get; set; } | Obtient ou définit l'emplacement supérieur. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/transformmatrix/) { get; set; } | Obtient ou définit la matrice de transformation. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/version/) { get; set; } | Obtient ou définit la version de l'outil de texte. |
+| [WarpClassID](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassid/) { get; set; } | Obtient ou définit l'ID de classe. |
+| [WarpClassName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassname/) { get; set; } | Obtient ou définit le nom de la classe warp. |
+| [WarpDescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpdescriptorversion/) { get; set; } | Obtient ou définit la version du descripteur warp. |
+| [WarpItems](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpitems/) { get; set; } | Obtient ou définit les éléments de chaîne. |
+| [WarpVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpversion/) { get; set; } | Obtient ou définit la version de warp. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/save)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Renvoie unString qui représente cette instance. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/save/)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolkey) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolkey/) | La clé d'informations sur l'outil de type. |
 
 ### Voir également
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

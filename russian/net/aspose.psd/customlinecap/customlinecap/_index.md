@@ -1,14 +1,14 @@
 ---
-title: CustomLineCap
+title: CustomLineCap.CustomLineCap
 second_title: Справочник по Aspose.PSD для .NET API
-description: Инициализирует новый экземплярCustomLineCapaspose.psd/customlinecap класс с указанным контуром и заливкой.
+description: CustomLineCap строитель. Инициализирует новый экземплярCustomLineCap класс с указанным контуром и заливкой.
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/customlinecap/customlinecap/
 ---
 ## CustomLineCap(GraphicsPath, GraphicsPath) {#constructor}
 
-Инициализирует новый экземпляр[`CustomLineCap`](../../customlinecap) класс с указанным контуром и заливкой.
+Инициализирует новый экземпляр[`CustomLineCap`](../) класс с указанным контуром и заливкой.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath)
@@ -16,21 +16,21 @@ public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fillPath | GraphicsPath | А[`GraphicsPath`](../../graphicspath) объект, который определяет заливку пользовательского колпачка. |
-| strokePath | GraphicsPath | А[`GraphicsPath`](../../graphicspath) объект, определяющий контур пользовательской кепки. |
+| fillPath | GraphicsPath | А[`GraphicsPath`](../../graphicspath/) объект, который определяет заливку пользовательского колпачка. |
+| strokePath | GraphicsPath | А[`GraphicsPath`](../../graphicspath/) объект, определяющий контур пользовательской кепки. |
 
 ### Смотрите также
 
-* class [GraphicsPath](../../graphicspath)
-* class [CustomLineCap](../../customlinecap)
-* пространство имен [Aspose.PSD](../../customlinecap)
+* class [GraphicsPath](../../graphicspath/)
+* class [CustomLineCap](../)
+* пространство имен [Aspose.PSD](../../customlinecap/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap) {#constructor_1}
 
-Инициализирует новый экземпляр[`CustomLineCap`](../../customlinecap) класс из указанного существующего[`LineCap`](../../linecap) перечисление с заданным контуром и заливкой.
+Инициализирует новый экземпляр[`CustomLineCap`](../) класс из указанного существующего[`LineCap`](../../linecap/) перечисление с заданным контуром и заливкой.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap)
@@ -38,23 +38,23 @@ public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap bas
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fillPath | GraphicsPath | А[`GraphicsPath`](../../graphicspath) объект, который определяет заливку пользовательского колпачка. |
-| strokePath | GraphicsPath | А[`GraphicsPath`](../../graphicspath) объект, определяющий контур пользовательской кепки. |
+| fillPath | GraphicsPath | А[`GraphicsPath`](../../graphicspath/) объект, который определяет заливку пользовательского колпачка. |
+| strokePath | GraphicsPath | А[`GraphicsPath`](../../graphicspath/) объект, определяющий контур пользовательской кепки. |
 | baseCap | LineCap | Ограничение строки, из которого создается пользовательское ограничение. |
 
 ### Смотрите также
 
-* class [GraphicsPath](../../graphicspath)
-* enum [LineCap](../../linecap)
-* class [CustomLineCap](../../customlinecap)
-* пространство имен [Aspose.PSD](../../customlinecap)
+* class [GraphicsPath](../../graphicspath/)
+* enum [LineCap](../../linecap/)
+* class [CustomLineCap](../)
+* пространство имен [Aspose.PSD](../../customlinecap/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap, float) {#constructor_2}
 
-Инициализирует новый экземпляр[`CustomLineCap`](../../customlinecap) класс из указанного существующего[`LineCap`](../../linecap)перечисление с указанным контуром, заливкой и вставкой.
+Инициализирует новый экземпляр[`CustomLineCap`](../) класс из указанного существующего[`LineCap`](../../linecap/)перечисление с указанным контуром, заливкой и вставкой.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap, 
@@ -63,17 +63,17 @@ public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap bas
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fillPath | GraphicsPath | А[`GraphicsPath`](../../graphicspath) объект, который определяет заливку пользовательского колпачка. |
-| strokePath | GraphicsPath | А[`GraphicsPath`](../../graphicspath) объект, определяющий контур пользовательской кепки. |
+| fillPath | GraphicsPath | А[`GraphicsPath`](../../graphicspath/) объект, который определяет заливку пользовательского колпачка. |
+| strokePath | GraphicsPath | А[`GraphicsPath`](../../graphicspath/) объект, определяющий контур пользовательской кепки. |
 | baseCap | LineCap | Ограничение строки, из которого создается пользовательское ограничение. |
 | baseInset | Single | Расстояние между кепкой и линией. |
 
 ### Смотрите также
 
-* class [GraphicsPath](../../graphicspath)
-* enum [LineCap](../../linecap)
-* class [CustomLineCap](../../customlinecap)
-* пространство имен [Aspose.PSD](../../customlinecap)
+* class [GraphicsPath](../../graphicspath/)
+* enum [LineCap](../../linecap/)
+* class [CustomLineCap](../)
+* пространство имен [Aspose.PSD](../../customlinecap/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,0 +1,23 @@
+---
+title: LclrResource.Length
+second_title: Aspose.PSD για Αναφορά API .NET
+description: LclrResource ιδιοκτησία. Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+type: docs
+weight: 40
+url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/
+---
+## LclrResource.Length property
+
+Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+
+```csharp
+public override int Length { get; }
+```
+
+### Δείτε επίσης
+
+* class [LclrResource](../)
+* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
+* συνέλευση [Aspose.PSD](../../../)
+
+

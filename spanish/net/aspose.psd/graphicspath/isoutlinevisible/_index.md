@@ -1,14 +1,14 @@
 ---
-title: IsOutlineVisible
+title: GraphicsPath.IsOutlineVisible
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Indica si el punto especificado está contenido dentro debajo del contorno de esteGraphicsPathaspose.psd/graphicspath cuando se dibuja con el especificadoPenaspose.psd/pen .
+description: GraphicsPath método. Indica si el punto especificado está contenido dentro debajo del contorno de esteGraphicsPath cuando se dibuja con el especificadoPen .
 type: docs
 weight: 110
 url: /es/net/aspose.psd/graphicspath/isoutlinevisible/
 ---
 ## IsOutlineVisible(float, float, Pen) {#isoutlinevisible_6}
 
-Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) .
+Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) .
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen)
@@ -18,24 +18,24 @@ public bool IsOutlineVisible(float x, float y, Pen pen)
 | --- | --- | --- |
 | x | Single | La coordenada x del punto a probar. |
 | y | Single | La coordenada y del punto a probar. |
-| pen | Pen | los[`Pen`](../../pen) Probar. |
+| pen | Pen | El[`Pen`](../../pen/) Probar. |
 
 ### Valor_devuelto
 
-Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) ; de lo contrario, false.
+Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) ; de lo contrario, false.
 
 ### Ver también
 
-* class [Pen](../../pen)
-* class [GraphicsPath](../../graphicspath)
-* espacio de nombres [Aspose.PSD](../../graphicspath)
+* class [Pen](../../pen/)
+* class [GraphicsPath](../)
+* espacio de nombres [Aspose.PSD](../../graphicspath/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen) {#isoutlinevisible_2}
 
-Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) .
+Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) .
 
 ```csharp
 public bool IsOutlineVisible(PointF point, Pen pen)
@@ -43,26 +43,26 @@ public bool IsOutlineVisible(PointF point, Pen pen)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| point | PointF | A[`PointF`](../../pointf) que especifica la ubicación a probar. |
-| pen | Pen | los[`Pen`](../../pen) Probar. |
+| point | PointF | A[`PointF`](../../pointf/) que especifica la ubicación a probar. |
+| pen | Pen | El[`Pen`](../../pen/) Probar. |
 
 ### Valor_devuelto
 
-Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) ; de lo contrario, false.
+Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) ; de lo contrario, false.
 
 ### Ver también
 
-* struct [PointF](../../pointf)
-* class [Pen](../../pen)
-* class [GraphicsPath](../../graphicspath)
-* espacio de nombres [Aspose.PSD](../../graphicspath)
+* struct [PointF](../../pointf/)
+* class [Pen](../../pen/)
+* class [GraphicsPath](../)
+* espacio de nombres [Aspose.PSD](../../graphicspath/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(float, float, Pen, Graphics) {#isoutlinevisible_7}
 
-Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) y utilizando el especificado[`Graphics`](../../graphics) .
+Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) y utilizando el especificado[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
@@ -72,26 +72,26 @@ public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
 | --- | --- | --- |
 | x | Single | La coordenada x del punto a probar. |
 | y | Single | La coordenada y del punto a probar. |
-| pen | Pen | los[`Pen`](../../pen) Probar. |
-| graphics | Graphics | los[`Graphics`](../../graphics) para el cual probar la visibilidad. |
+| pen | Pen | El[`Pen`](../../pen/) Probar. |
+| graphics | Graphics | El[`Graphics`](../../graphics/) para el cual probar la visibilidad. |
 
 ### Valor_devuelto
 
-Este método devuelve verdadero si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) como se dibuja con el especificado[`Pen`](../../pen) ; de lo contrario, false.
+Este método devuelve verdadero si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) como se dibuja con el especificado[`Pen`](../../pen/) ; de lo contrario, false.
 
 ### Ver también
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* class [GraphicsPath](../../graphicspath)
-* espacio de nombres [Aspose.PSD](../../graphicspath)
+* class [Pen](../../pen/)
+* class [Graphics](../../graphics/)
+* class [GraphicsPath](../)
+* espacio de nombres [Aspose.PSD](../../graphicspath/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen, Graphics) {#isoutlinevisible_3}
 
-Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) y utilizando el especificado[`Graphics`](../../graphics) .
+Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) y utilizando el especificado[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
@@ -99,28 +99,28 @@ public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| pt | PointF | A[`PointF`](../../pointf) que especifica la ubicación a probar. |
-| pen | Pen | los[`Pen`](../../pen) Probar. |
-| graphics | Graphics | los[`Graphics`](../../graphics) para el cual probar la visibilidad. |
+| pt | PointF | A[`PointF`](../../pointf/) que especifica la ubicación a probar. |
+| pen | Pen | El[`Pen`](../../pen/) Probar. |
+| graphics | Graphics | El[`Graphics`](../../graphics/) para el cual probar la visibilidad. |
 
 ### Valor_devuelto
 
-Este método devuelve verdadero si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) como se dibuja con el especificado[`Pen`](../../pen) ; de lo contrario, false.
+Este método devuelve verdadero si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) como se dibuja con el especificado[`Pen`](../../pen/) ; de lo contrario, false.
 
 ### Ver también
 
-* struct [PointF](../../pointf)
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* class [GraphicsPath](../../graphicspath)
-* espacio de nombres [Aspose.PSD](../../graphicspath)
+* struct [PointF](../../pointf/)
+* class [Pen](../../pen/)
+* class [Graphics](../../graphics/)
+* class [GraphicsPath](../)
+* espacio de nombres [Aspose.PSD](../../graphicspath/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen) {#isoutlinevisible_4}
 
-Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) .
+Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) .
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen)
@@ -130,24 +130,24 @@ public bool IsOutlineVisible(int x, int y, Pen pen)
 | --- | --- | --- |
 | x | Int32 | La coordenada x del punto a probar. |
 | y | Int32 | La coordenada y del punto a probar. |
-| pen | Pen | los[`Pen`](../../pen) Probar. |
+| pen | Pen | El[`Pen`](../../pen/) Probar. |
 
 ### Valor_devuelto
 
-Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) ; de lo contrario, false.
+Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) ; de lo contrario, false.
 
 ### Ver también
 
-* class [Pen](../../pen)
-* class [GraphicsPath](../../graphicspath)
-* espacio de nombres [Aspose.PSD](../../graphicspath)
+* class [Pen](../../pen/)
+* class [GraphicsPath](../)
+* espacio de nombres [Aspose.PSD](../../graphicspath/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen) {#isoutlinevisible}
 
-Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) .
+Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) .
 
 ```csharp
 public bool IsOutlineVisible(Point point, Pen pen)
@@ -155,26 +155,26 @@ public bool IsOutlineVisible(Point point, Pen pen)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| point | Point | A[`Point`](../../point) que especifica la ubicación a probar. |
-| pen | Pen | los[`Pen`](../../pen) Probar. |
+| point | Point | A[`Point`](../../point/) que especifica la ubicación a probar. |
+| pen | Pen | El[`Pen`](../../pen/) Probar. |
 
 ### Valor_devuelto
 
-Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) ; de lo contrario, false.
+Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) ; de lo contrario, false.
 
 ### Ver también
 
-* struct [Point](../../point)
-* class [Pen](../../pen)
-* class [GraphicsPath](../../graphicspath)
-* espacio de nombres [Aspose.PSD](../../graphicspath)
+* struct [Point](../../point/)
+* class [Pen](../../pen/)
+* class [GraphicsPath](../)
+* espacio de nombres [Aspose.PSD](../../graphicspath/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen, Graphics) {#isoutlinevisible_5}
 
-Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) y utilizando el especificado[`Graphics`](../../graphics) .
+Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) y utilizando el especificado[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
@@ -184,26 +184,26 @@ public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
 | --- | --- | --- |
 | x | Int32 | La coordenada x del punto a probar. |
 | y | Int32 | La coordenada y del punto a probar. |
-| pen | Pen | los[`Pen`](../../pen) Probar. |
-| graphics | Graphics | los[`Graphics`](../../graphics) para el cual probar la visibilidad. |
+| pen | Pen | El[`Pen`](../../pen/) Probar. |
+| graphics | Graphics | El[`Graphics`](../../graphics/) para el cual probar la visibilidad. |
 
 ### Valor_devuelto
 
-Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../../graphicspath) como se dibuja con el especificado[`Pen`](../../pen) ; de lo contrario, false.
+Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../) como se dibuja con el especificado[`Pen`](../../pen/) ; de lo contrario, false.
 
 ### Ver también
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* class [GraphicsPath](../../graphicspath)
-* espacio de nombres [Aspose.PSD](../../graphicspath)
+* class [Pen](../../pen/)
+* class [Graphics](../../graphics/)
+* class [GraphicsPath](../)
+* espacio de nombres [Aspose.PSD](../../graphicspath/)
 * asamblea [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen, Graphics) {#isoutlinevisible_1}
 
-Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../../graphicspath) cuando se dibuja con el especificado[`Pen`](../../pen) y utilizando el especificado[`Graphics`](../../graphics) .
+Indica si el punto especificado está contenido dentro (debajo) del contorno de este[`GraphicsPath`](../) cuando se dibuja con el especificado[`Pen`](../../pen/) y utilizando el especificado[`Graphics`](../../graphics/) .
 
 ```csharp
 public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
@@ -211,21 +211,21 @@ public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| pt | Point | A[`Point`](../../point) que especifica la ubicación a probar. |
-| pen | Pen | los[`Pen`](../../pen) Probar. |
-| graphics | Graphics | los[`Graphics`](../../graphics) para el cual probar la visibilidad. |
+| pt | Point | A[`Point`](../../point/) que especifica la ubicación a probar. |
+| pen | Pen | El[`Pen`](../../pen/) Probar. |
+| graphics | Graphics | El[`Graphics`](../../graphics/) para el cual probar la visibilidad. |
 
 ### Valor_devuelto
 
-Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../../graphicspath) como se dibuja con el especificado[`Pen`](../../pen) ; de lo contrario, false.
+Este método devuelve verdadero si el punto especificado está contenido dentro del contorno de este[`GraphicsPath`](../) como se dibuja con el especificado[`Pen`](../../pen/) ; de lo contrario, false.
 
 ### Ver también
 
-* struct [Point](../../point)
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* class [GraphicsPath](../../graphicspath)
-* espacio de nombres [Aspose.PSD](../../graphicspath)
+* struct [Point](../../point/)
+* class [Pen](../../pen/)
+* class [Graphics](../../graphics/)
+* class [GraphicsPath](../)
+* espacio de nombres [Aspose.PSD](../../graphicspath/)
 * asamblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

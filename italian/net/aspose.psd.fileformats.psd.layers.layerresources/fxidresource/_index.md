@@ -1,9 +1,9 @@
 ---
-title: FXidResource
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: La risorsa Effetti filtro contiene canali una maschera utente e una maschera foglio per il filtro intelligente.
+title: Class FXidResource
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FXidResource classe. La risorsa Effetti filtro contiene canali una maschera utente e una maschera foglio per il filtro intelligente.
 type: docs
-weight: 2440
+weight: 2460
 url: /it/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
 ## FXidResource class
@@ -18,36 +18,36 @@ public sealed class FXidResource : LayerResource
 
 | Nome | Descrizione |
 | --- | --- |
-| [FXidResource](fxidresource)(int, int, FilterEffectMaskData[]) | Inizializza una nuova istanza di[`FXidResource`](../fxidresource) classe. |
+| [FXidResource](fxidresource/)(int, int, FilterEffectMaskData[]) | Inizializza una nuova istanza di`FXidResource` classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks) { get; } | Ottiene le maschere dell'effetto filtro. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key) { get; } | Ottiene la chiave della risorsa del livello. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/psdversion) { get; } | Ottiene la versione psd minima richiesta per la risorsa di livello. 0 indica nessuna restrizione. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/signature) { get; } | Ottiene la firma della risorsa del livello. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version) { get; } | Ottiene la versione. |
+| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/) { get; } | Ottiene le maschere dell'effetto filtro. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key/) { get; } | Ottiene la chiave della risorsa del livello. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/psdversion/) { get; } | Ottiene la versione PSD minima richiesta per la risorsa del livello. 0 indica nessuna restrizione. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/signature/) { get; } | Ottiene la firma della risorsa del livello. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/) { get; } | Ottiene la versione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Restituisce aString che rappresenta questa istanza. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save/)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Restituisce aString che rappresenta questa istanza. |
 
 ## Campi
 
 | Nome | Descrizione |
 | --- | --- |
-| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey) | Il tipo chiave info strumento FEid. |
-| const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey) | Il tipo di chiave info strumento FXid. |
+| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/) | La chiave informativa dello strumento di testo FEid. |
+| const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/) | La chiave informativa dello strumento di testo FXid. |
 
 ### Esempi
 
-Questo esempio mostra come ottenere e impostare le proprietà della risorsa FXidResource.
+Questo esempio dimostra come ottenere e impostare le proprietà della risorsa FXidResource.
 
 ```csharp
 [C#]
@@ -94,8 +94,8 @@ using (var psdImage = (PsdImage)Image.Load(output))
 
 ### Guarda anche
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

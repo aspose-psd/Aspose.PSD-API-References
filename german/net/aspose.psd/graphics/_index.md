@@ -1,9 +1,9 @@
 ---
-title: Graphics
+title: Class Graphics
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Stellt die Grafiken gemäß der GrafikEngine dar die in der aktuellen Assembly verwendet wird.
+description: Aspose.PSD.Graphics klas. Stellt die Grafiken gemäß der GrafikEngine dar die in der aktuellen Assembly verwendet wird.
 type: docs
-weight: 4240
+weight: 4310
 url: /de/net/aspose.psd/graphics/
 ---
 ## Graphics class
@@ -18,145 +18,145 @@ public sealed class Graphics
 
 | Name | Beschreibung |
 | --- | --- |
-| [Graphics](graphics)(Image) | Initialisiert eine neue Instanz von[`Graphics`](../graphics) Klasse. |
+| [Graphics](graphics/)(Image) | Initialisiert eine neue Instanz von`Graphics` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Clip](../../aspose.psd/graphics/clip) { get; set; } | Ruft den Clip-Bereich ab oder legt ihn fest. |
-| [CompositingQuality](../../aspose.psd/graphics/compositingquality) { get; set; } | Ruft die Compositing-Qualität ab oder legt sie fest. |
-| [DpiX](../../aspose.psd/graphics/dpix) { get; } | Ruft die horizontale Auflösung dieser Aspose.PSD.Graphics ab. |
-| [DpiY](../../aspose.psd/graphics/dpiy) { get; } | Ruft die vertikale Auflösung dieser Aspose.PSD.Graphics ab. |
-| [Image](../../aspose.psd/graphics/image) { get; } | Ruft das Bild ab. |
-| [InterpolationMode](../../aspose.psd/graphics/interpolationmode) { get; set; } | Ruft den Interpolationsmodus ab oder legt ihn fest. |
-| [IsInBeginUpdateCall](../../aspose.psd/graphics/isinbeginupdatecall) { get; } | Ruft einen Wert ab, der angibt, ob sich Grafiken im BeginUpdate-Aufrufstatus befinden. |
-| [PageScale](../../aspose.psd/graphics/pagescale) { get; set; } | Ruft die Skalierung zwischen Welteinheiten und Seiteneinheiten für diese Aspose.PSD.Graphics ab oder legt sie fest. |
-| [PageUnit](../../aspose.psd/graphics/pageunit) { get; set; } | Ruft die Maßeinheit für Seitenkoordinaten in dieser Aspose.PSD.Graphics ab oder legt sie fest. |
-| [SmoothingMode](../../aspose.psd/graphics/smoothingmode) { get; set; } | Ruft den Glättungsmodus ab oder legt ihn fest. |
-| [TextRenderingHint](../../aspose.psd/graphics/textrenderinghint) { get; set; } | Ruft den Textwiedergabehinweis ab oder legt ihn fest. |
-| [Transform](../../aspose.psd/graphics/transform) { get; set; } | Holt oder setzt eine Kopie der geometrischen Welttransformation dafür[`Graphics`](../graphics) . |
+| [Clip](../../aspose.psd/graphics/clip/) { get; set; } | Ruft den Clip-Bereich ab oder legt ihn fest. |
+| [CompositingQuality](../../aspose.psd/graphics/compositingquality/) { get; set; } | Ruft die Compositing-Qualität ab oder legt sie fest. |
+| [DpiX](../../aspose.psd/graphics/dpix/) { get; } | Ruft die horizontale Auflösung dieser Aspose.PSD.Graphics ab. |
+| [DpiY](../../aspose.psd/graphics/dpiy/) { get; } | Ruft die vertikale Auflösung dieser Aspose.PSD.Graphics ab. |
+| [Image](../../aspose.psd/graphics/image/) { get; } | Ruft das Bild ab. |
+| [InterpolationMode](../../aspose.psd/graphics/interpolationmode/) { get; set; } | Ruft den Interpolationsmodus ab oder legt ihn fest. |
+| [IsInBeginUpdateCall](../../aspose.psd/graphics/isinbeginupdatecall/) { get; } | Ruft einen Wert ab, der angibt, ob sich Grafiken im BeginUpdate-Aufrufstatus befinden. |
+| [PageScale](../../aspose.psd/graphics/pagescale/) { get; set; } | Ruft die Skalierung zwischen Welteinheiten und Seiteneinheiten für diese Aspose.PSD.Graphics ab oder legt sie fest. |
+| [PageUnit](../../aspose.psd/graphics/pageunit/) { get; set; } | Ruft die Maßeinheit für Seitenkoordinaten in dieser Aspose.PSD.Graphics ab oder legt sie fest. |
+| [SmoothingMode](../../aspose.psd/graphics/smoothingmode/) { get; set; } | Ruft den Glättungsmodus ab oder legt ihn fest. |
+| [TextRenderingHint](../../aspose.psd/graphics/textrenderinghint/) { get; set; } | Ruft den Textwiedergabehinweis ab oder legt ihn fest. |
+| [Transform](../../aspose.psd/graphics/transform/) { get; set; } | Holt oder setzt eine Kopie der geometrischen Welttransformation dafür`Graphics` . |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [BeginUpdate](../../aspose.psd/graphics/beginupdate)() | Startet das Caching der folgenden Grafikoperationen. Die danach angewendeten Grafikeffekte werden nicht sofort angewendet, sondern das EndUpdate bewirkt, dass alle Effekte auf einmal angewendet werden. |
-| [Clear](../../aspose.psd/graphics/clear)(Color) | Löscht die Grafikoberfläche mit der angegebenen Farbe. |
-| [DrawArc](../../aspose.psd/graphics/drawarc#drawarc)(Pen, Rectangle, float, float) | Zeichnet einen Bogen, der einen Teil einer durch a angegebenen Ellipse darstellt[`Rectangle`](../rectangle)Struktur. |
-| [DrawArc](../../aspose.psd/graphics/drawarc#drawarc_1)(Pen, RectangleF, float, float) | Zeichnet einen Bogen, der einen Teil einer durch a angegebenen Ellipse darstellt[`RectangleF`](../rectanglef)Struktur. |
-| [DrawArc](../../aspose.psd/graphics/drawarc#drawarc_3)(Pen, float, float, float, float, float, float) | Zeichnet einen Bogen, der einen Teil einer Ellipse darstellt, die durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben wird. |
-| [DrawArc](../../aspose.psd/graphics/drawarc#drawarc_2)(Pen, int, int, int, int, int, int) | Zeichnet einen Bogen, der einen Teil einer Ellipse darstellt, die durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben wird. |
-| [DrawBezier](../../aspose.psd/graphics/drawbezier#drawbezier)(Pen, Point, Point, Point, Point) | Zeichnet einen durch vier definierten Bézier-Spline[`Point`](../point) Strukturen. |
-| [DrawBezier](../../aspose.psd/graphics/drawbezier#drawbezier_1)(Pen, PointF, PointF, PointF, PointF) | Zeichnet einen durch vier definierten Bézier-Spline[`PointF`](../pointf) Strukturen. |
-| [DrawBezier](../../aspose.psd/graphics/drawbezier#drawbezier_2)(Pen, float, float, float, float, float, float, float, float) | Zeichnet einen Bézier-Spline, der durch vier geordnete Koordinatenpaare definiert ist, die Punkte darstellen. |
-| [DrawBeziers](../../aspose.psd/graphics/drawbeziers#drawbeziers)(Pen, PointF[]) | Zeichnet eine Reihe von Bézier-Splines aus einem Array von[`PointF`](../pointf) Strukturen. |
-| [DrawBeziers](../../aspose.psd/graphics/drawbeziers#drawbeziers_1)(Pen, Point[]) | Zeichnet eine Reihe von Bézier-Splines aus einem Array von[`Point`](../point) Strukturen. |
-| [DrawClosedCurve](../../aspose.psd/graphics/drawclosedcurve#drawclosedcurve)(Pen, PointF[]) | Zeichnet einen geschlossenen kardinalen Spline, der durch ein Array von definiert ist[`PointF`](../pointf) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus. |
-| [DrawClosedCurve](../../aspose.psd/graphics/drawclosedcurve#drawclosedcurve_2)(Pen, Point[]) | Zeichnet einen geschlossenen kardinalen Spline, der durch ein Array von definiert ist[`Point`](../point) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus. |
-| [DrawClosedCurve](../../aspose.psd/graphics/drawclosedcurve#drawclosedcurve_1)(Pen, PointF[], float) | Zeichnet einen geschlossenen kardinalen Spline, der durch ein Array von definiert ist[`PointF`](../pointf) Strukturen mit einer bestimmten Spannung. Diese Methode verwendet einen StandardwertAlternate Füllmodus. |
-| [DrawClosedCurve](../../aspose.psd/graphics/drawclosedcurve#drawclosedcurve_3)(Pen, Point[], float) | Zeichnet einen geschlossenen kardinalen Spline, der durch ein Array von definiert ist[`Point`](../point) Strukturen mit einer bestimmten Spannung. Diese Methode verwendet einen StandardwertAlternate Füllmodus. |
-| [DrawCurve](../../aspose.psd/graphics/drawcurve#drawcurve)(Pen, PointF[]) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`PointF`](../pointf) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5. |
-| [DrawCurve](../../aspose.psd/graphics/drawcurve#drawcurve_4)(Pen, Point[]) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`Point`](../point) Strukturen. |
-| [DrawCurve](../../aspose.psd/graphics/drawcurve#drawcurve_3)(Pen, PointF[], float) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`PointF`](../pointf) Strukturen mit einer bestimmten Spannung. |
-| [DrawCurve](../../aspose.psd/graphics/drawcurve#drawcurve_6)(Pen, Point[], float) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`Point`](../point) Strukturen mit einer bestimmten Spannung. |
-| [DrawCurve](../../aspose.psd/graphics/drawcurve#drawcurve_1)(Pen, PointF[], int, int) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`PointF`](../pointf) Strukturen. Die Zeichnung beginnt versetzt vom Anfang des Arrays. Diese Methode verwendet eine Standardspannung von 0,5. |
-| [DrawCurve](../../aspose.psd/graphics/drawcurve#drawcurve_2)(Pen, PointF[], int, int, float) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`PointF`](../pointf) Strukturen mit einer bestimmten Spannung. Die Zeichnung beginnt versetzt vom Anfang des Arrays. |
-| [DrawCurve](../../aspose.psd/graphics/drawcurve#drawcurve_5)(Pen, Point[], int, int, float) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`Point`](../point) Strukturen mit einer bestimmten Spannung. |
-| [DrawEllipse](../../aspose.psd/graphics/drawellipse#drawellipse)(Pen, Rectangle) | Zeichnet eine durch eine Begrenzung angegebene Ellipse[`Rectangle`](../rectangle)Struktur. |
-| [DrawEllipse](../../aspose.psd/graphics/drawellipse#drawellipse_1)(Pen, RectangleF) | Zeichnet eine durch eine Begrenzung definierte Ellipse[`RectangleF`](../rectanglef) . |
-| [DrawEllipse](../../aspose.psd/graphics/drawellipse#drawellipse_3)(Pen, float, float, float, float) | Zeichnet eine Ellipse, die durch ein Begrenzungsrechteck definiert ist, das durch ein Koordinatenpaar, eine Höhe und eine Breite angegeben ist. |
-| [DrawEllipse](../../aspose.psd/graphics/drawellipse#drawellipse_2)(Pen, int, int, int, int) | Zeichnet eine Ellipse, die durch ein Begrenzungsrechteck definiert ist, das durch ein Koordinatenpaar, eine Höhe und eine Breite angegeben ist. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage)(Image, Point) | Zeichnet das angegebene[`Image`](./image) , unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_1)(Image, PointF) | Zeichnet das angegebene[`Image`](./image) , unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_2)(Image, PointF[]) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_6)(Image, Point[]) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_10)(Image, Rectangle) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_15)(Image, RectangleF) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_22)(Image, float, float) | Zeichnet das angegebene[`Image`](./image) , unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_20)(Image, int, int) | Zeichnet das angegebene Bild unter Verwendung seiner ursprünglichen physischen Größe an der durch ein Koordinatenpaar angegebenen Position. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_3)(Image, PointF[], RectangleF) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_7)(Image, Point[], Rectangle) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_11)(Image, Rectangle, GraphicsUnit) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_16)(Image, RectangleF, GraphicsUnit) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_4)(Image, PointF[], RectangleF, GraphicsUnit) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_8)(Image, Point[], Rectangle, GraphicsUnit) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_12)(Image, Rectangle, GraphicsUnit, ImageAttributes) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_13)(Image, Rectangle, Rectangle, GraphicsUnit) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_17)(Image, RectangleF, GraphicsUnit, ImageAttributes) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_18)(Image, RectangleF, RectangleF, GraphicsUnit) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_23)(Image, float, float, float, float) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_21)(Image, int, int, int, int) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_5)(Image, PointF[], RectangleF, GraphicsUnit, ImageAttributes) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_9)(Image, Point[], Rectangle, GraphicsUnit, ImageAttributes) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_14)(Image, Rectangle, Rectangle, GraphicsUnit, ImageAttributes) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImage](../../aspose.psd/graphics/drawimage#drawimage_19)(Image, RectangleF, RectangleF, GraphicsUnit, ImageAttributes) | Zeichnet das angegebene[`Image`](./image) am angegebenen Ort und mit der angegebenen Größe. |
-| [DrawImageUnscaled](../../aspose.psd/graphics/drawimageunscaled#drawimageunscaled)(Image, Point) | Zeichnet ein bestimmtes Bild unter Verwendung seiner ursprünglichen physischen Größe an einer bestimmten Position. |
-| [DrawImageUnscaled](../../aspose.psd/graphics/drawimageunscaled#drawimageunscaled_1)(Image, Rectangle) | Zeichnet ein bestimmtes Bild unter Verwendung seiner ursprünglichen physischen Größe an einer bestimmten Position. |
-| [DrawImageUnscaled](../../aspose.psd/graphics/drawimageunscaled#drawimageunscaled_2)(Image, int, int) | Zeichnet das angegebene Bild in seiner ursprünglichen physischen Größe an der durch ein Koordinatenpaar angegebenen Position. |
-| [DrawImageUnscaled](../../aspose.psd/graphics/drawimageunscaled#drawimageunscaled_3)(Image, int, int, int, int) | Zeichnet ein bestimmtes Bild unter Verwendung seiner ursprünglichen physischen Größe an einer bestimmten Position. |
-| [DrawImageUnscaledAndClipped](../../aspose.psd/graphics/drawimageunscaledandclipped)(Image, Rectangle) | Zeichnet das angegebene Bild ohne Skalierung und schneidet es ggf. so zu, dass es in das angegebene Rechteck passt. |
-| [DrawLine](../../aspose.psd/graphics/drawline#drawline)(Pen, Point, Point) | Zeichnet eine Linie, die zwei verbindet[`Point`](../point) Strukturen. |
-| [DrawLine](../../aspose.psd/graphics/drawline#drawline_1)(Pen, PointF, PointF) | Zeichnet eine Linie, die zwei verbindet[`PointF`](../pointf) Strukturen. |
-| [DrawLine](../../aspose.psd/graphics/drawline#drawline_3)(Pen, float, float, float, float) | Zeichnet eine Linie, die die beiden durch die Koordinatenpaare angegebenen Punkte verbindet. |
-| [DrawLine](../../aspose.psd/graphics/drawline#drawline_2)(Pen, int, int, int, int) | Zeichnet eine Linie, die die beiden durch die Koordinatenpaare angegebenen Punkte verbindet. |
-| [DrawLines](../../aspose.psd/graphics/drawlines#drawlines)(Pen, PointF[]) | Zeichnet eine Reihe von Liniensegmenten, die ein Array von verbinden[`PointF`](../pointf) Strukturen. |
-| [DrawLines](../../aspose.psd/graphics/drawlines#drawlines_1)(Pen, Point[]) | Zeichnet eine Reihe von Liniensegmenten, die ein Array von verbinden[`Point`](../point) Strukturen. |
-| [DrawPath](../../aspose.psd/graphics/drawpath)(Pen, GraphicsPath) | zeichnet a[`GraphicsPath`](../graphicspath) . |
-| [DrawPie](../../aspose.psd/graphics/drawpie#drawpie)(Pen, Rectangle, float, float) | Zeichnet eine Tortenform, die durch eine durch a angegebene Ellipse definiert ist[`Rectangle`](../rectangle) Struktur und zwei radiale Linien. |
-| [DrawPie](../../aspose.psd/graphics/drawpie#drawpie_1)(Pen, RectangleF, float, float) | Zeichnet eine Tortenform, die durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../rectanglef) Struktur und zwei radiale Linien. |
-| [DrawPie](../../aspose.psd/graphics/drawpie#drawpie_3)(Pen, float, float, float, float, float, float) | Zeichnet eine Tortenform, die durch eine Ellipse definiert ist, die durch ein Koordinatenpaar, eine Breite, eine Höhe und zwei radiale Linien angegeben ist. |
-| [DrawPie](../../aspose.psd/graphics/drawpie#drawpie_2)(Pen, int, int, int, int, int, int) | Zeichnet eine Tortenform, die durch eine Ellipse definiert ist, die durch ein Koordinatenpaar, eine Breite, eine Höhe und zwei radiale Linien angegeben ist. |
-| [DrawPolygon](../../aspose.psd/graphics/drawpolygon#drawpolygon)(Pen, PointF[]) | Zeichnet ein Polygon, das durch ein Array von definiert ist[`PointF`](../pointf) Strukturen. |
-| [DrawPolygon](../../aspose.psd/graphics/drawpolygon#drawpolygon_1)(Pen, Point[]) | Zeichnet ein Polygon, das durch ein Array von definiert ist[`Point`](../point) Strukturen. |
-| [DrawRectangle](../../aspose.psd/graphics/drawrectangle#drawrectangle)(Pen, Rectangle) | Zeichnet ein durch a angegebenes Rechteck[`Rectangle`](../rectangle)Struktur. |
-| [DrawRectangle](../../aspose.psd/graphics/drawrectangle#drawrectangle_1)(Pen, RectangleF) | Zeichnet ein durch a angegebenes Rechteck[`RectangleF`](../rectanglef)Struktur. |
-| [DrawRectangle](../../aspose.psd/graphics/drawrectangle#drawrectangle_3)(Pen, float, float, float, float) | Zeichnet ein durch ein Koordinatenpaar, eine Breite und eine Höhe festgelegtes Rechteck. |
-| [DrawRectangle](../../aspose.psd/graphics/drawrectangle#drawrectangle_2)(Pen, int, int, int, int) | Zeichnet ein durch ein Koordinatenpaar, eine Breite und eine Höhe festgelegtes Rechteck. |
-| [DrawRectangles](../../aspose.psd/graphics/drawrectangles#drawrectangles)(Pen, RectangleF[]) | Zeichnet eine Reihe von Rechtecken, angegeben durch[`RectangleF`](../rectanglef) Strukturen. |
-| [DrawRectangles](../../aspose.psd/graphics/drawrectangles#drawrectangles_1)(Pen, Rectangle[]) | Zeichnet eine Reihe von Rechtecken, angegeben durch[`Rectangle`](../rectangle) Strukturen. |
-| [DrawString](../../aspose.psd/graphics/drawstring#drawstring)(string, Font, Brush, PointF) | Zeichnet die angegebene Textzeichenfolge an der angegebenen Stelle mit dem angegebenen[`Brush`](../brush) und[`Font`](../font) Objekte. |
-| [DrawString](../../aspose.psd/graphics/drawstring#drawstring_2)(string, Font, Brush, RectangleF) | Zeichnet die angegebene Textzeichenfolge in das angegebene Rechteck mit dem angegebenen[`Brush`](../brush) und[`Font`](../font) Objekte. |
-| [DrawString](../../aspose.psd/graphics/drawstring#drawstring_4)(string, Font, Brush, float, float) | Zeichnet die angegebene Textzeichenfolge an der angegebenen Stelle mit dem angegebenen[`Brush`](../brush) und[`Font`](../font) Objekte. |
-| [DrawString](../../aspose.psd/graphics/drawstring#drawstring_1)(string, Font, Brush, PointF, StringFormat) | Zeichnet die angegebene Textzeichenfolge an der angegebenen Stelle mit dem angegebenen[`Brush`](../brush) und[`Font`](../font) Objekte mit den Formatierungsattributen der angegebenen[`StringFormat`](../stringformat) . |
-| [DrawString](../../aspose.psd/graphics/drawstring#drawstring_3)(string, Font, Brush, RectangleF, StringFormat) | Zeichnet die angegebene Textzeichenfolge in das angegebene Rechteck mit dem angegebenen[`Brush`](../brush) und[`Font`](../font) Objekte mit den Formatierungsattributen der angegebenen[`StringFormat`](../stringformat) . |
-| [DrawString](../../aspose.psd/graphics/drawstring#drawstring_5)(string, Font, Brush, float, float, StringFormat) | Zeichnet die angegebene Textzeichenfolge an der angegebenen Stelle mit dem angegebenen[`Brush`](../brush) und[`Font`](../font) Objekte mit den Formatierungsattributen der angegebenen[`StringFormat`](../stringformat) . |
-| [EndUpdate](../../aspose.psd/graphics/endupdate)() | Beendet das Caching der Grafikoperationen, die nach dem Aufruf von BeginUpdate gestartet wurden. Die vorhergehenden Grafikoperationen werden sofort angewendet, wenn diese Methode aufgerufen wird. |
-| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve#fillclosedcurve)(Brush, PointF[]) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`PointF`](../pointf) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus. |
-| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve#fillclosedcurve_3)(Brush, Point[]) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`Point`](../point) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus. |
-| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve#fillclosedcurve_1)(Brush, PointF[], FillMode) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`PointF`](../pointf) Strukturen mit dem angegebenen Füllmodus. Diese Methode verwendet eine Standardspannung von 0,5. |
-| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve#fillclosedcurve_4)(Brush, Point[], FillMode) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`Point`](../point) Strukturen mit dem angegebenen Füllmodus. Diese Methode verwendet eine Standardspannung von 0,5. |
-| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve#fillclosedcurve_2)(Brush, PointF[], FillMode, float) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`PointF`](../pointf) Strukturen mit dem angegebenen Füllmodus und der angegebenen Spannung. |
-| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve#fillclosedcurve_5)(Brush, Point[], FillMode, float) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`Point`](../point) Strukturen mit dem angegebenen Füllmodus und der angegebenen Spannung. |
-| [FillEllipse](../../aspose.psd/graphics/fillellipse#fillellipse)(Brush, Rectangle) | Füllt das Innere einer Ellipse, die durch ein durch a festgelegtes Begrenzungsrechteck definiert ist[`Rectangle`](../rectangle)Struktur. |
-| [FillEllipse](../../aspose.psd/graphics/fillellipse#fillellipse_1)(Brush, RectangleF) | Füllt das Innere einer Ellipse, die durch ein durch a festgelegtes Begrenzungsrechteck definiert ist[`RectangleF`](../rectanglef)Struktur. |
-| [FillEllipse](../../aspose.psd/graphics/fillellipse#fillellipse_3)(Brush, float, float, float, float) | Füllt das Innere einer Ellipse, die durch ein Begrenzungsrechteck definiert ist, das durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben wird. |
-| [FillEllipse](../../aspose.psd/graphics/fillellipse#fillellipse_2)(Brush, int, int, int, int) | Füllt das Innere einer Ellipse, die durch ein Begrenzungsrechteck definiert ist, das durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben wird. |
-| [FillPath](../../aspose.psd/graphics/fillpath)(Brush, GraphicsPath) | Füllt das Innere von a[`GraphicsPath`](../graphicspath) . |
-| [FillPie](../../aspose.psd/graphics/fillpie#fillpie)(Brush, Rectangle, float, float) | Füllt das Innere eines Tortenabschnitts, der durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../rectanglef) Struktur und zwei radiale Linien. |
-| [FillPie](../../aspose.psd/graphics/fillpie#fillpie_1)(Brush, RectangleF, float, float) | Füllt das Innere eines Tortenabschnitts, der durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../rectanglef) Struktur und zwei radiale Linien. |
-| [FillPie](../../aspose.psd/graphics/fillpie#fillpie_3)(Brush, float, float, float, float, float, float) | Füllt das Innere eines Tortenabschnitts, der durch eine Ellipse definiert ist, die durch ein Koordinatenpaar, eine Breite, eine Höhe und zwei radiale Linien angegeben wird. |
-| [FillPie](../../aspose.psd/graphics/fillpie#fillpie_2)(Brush, int, int, int, int, int, int) | Füllt das Innere eines Tortenabschnitts, der durch eine Ellipse definiert ist, die durch ein Koordinatenpaar, eine Breite, eine Höhe und zwei radiale Linien angegeben wird. |
-| [FillPolygon](../../aspose.psd/graphics/fillpolygon#fillpolygon)(Brush, PointF[]) | Füllt das Innere eines Polygons, das durch eine Reihe von Punkten definiert ist, die durch angegeben werden[`PointF`](../pointf) Strukturen uAlternate . |
-| [FillPolygon](../../aspose.psd/graphics/fillpolygon#fillpolygon_2)(Brush, Point[]) | Füllt das Innere eines Polygons, das durch eine Reihe von Punkten definiert ist, die durch angegeben werden[`Point`](../point) Strukturen uAlternate . |
-| [FillPolygon](../../aspose.psd/graphics/fillpolygon#fillpolygon_1)(Brush, PointF[], FillMode) | Füllt das Innere eines Polygons, das durch eine Reihe von Punkten definiert ist, die durch angegeben werden[`PointF`](../pointf) Strukturen, die den angegebenen Füllmodus verwenden. |
-| [FillPolygon](../../aspose.psd/graphics/fillpolygon#fillpolygon_3)(Brush, Point[], FillMode) | Füllt das Innere eines Polygons, das durch eine Reihe von Punkten definiert ist, die durch angegeben werden[`Point`](../point) Strukturen, die den angegebenen Füllmodus verwenden. |
-| [FillRectangle](../../aspose.psd/graphics/fillrectangle#fillrectangle)(Brush, Rectangle) | Füllt das Innere eines durch a angegebenen Rechtecks aus[`Rectangle`](../rectangle)Struktur. |
-| [FillRectangle](../../aspose.psd/graphics/fillrectangle#fillrectangle_1)(Brush, RectangleF) | Füllt das Innere eines durch a angegebenen Rechtecks aus[`RectangleF`](../rectanglef)Struktur. |
-| [FillRectangle](../../aspose.psd/graphics/fillrectangle#fillrectangle_3)(Brush, float, float, float, float) | Füllt das Innere eines Rechtecks aus, das durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben ist. |
-| [FillRectangle](../../aspose.psd/graphics/fillrectangle#fillrectangle_2)(Brush, int, int, int, int) | Füllt das Innere eines Rechtecks aus, das durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben ist. |
-| [FillRectangles](../../aspose.psd/graphics/fillrectangles#fillrectangles)(Brush, RectangleF[]) | Füllt das Innere einer Reihe von Rechtecken, die durch angegeben sind[`RectangleF`](../rectanglef) Strukturen. |
-| [FillRectangles](../../aspose.psd/graphics/fillrectangles#fillrectangles_1)(Brush, Rectangle[]) | Füllt das Innere einer Reihe von Rechtecken, die durch angegeben sind[`Rectangle`](../rectangle) Strukturen. |
-| [FillRegion](../../aspose.psd/graphics/fillregion)(Brush, Region) | Füllt das Innere von a[`Region`](../region) . |
-| [MultiplyTransform](../../aspose.psd/graphics/multiplytransform#multiplytransform)(Matrix) | Multipliziert die[`Matrix`](../matrix) das die lokale geometrische Transformation davon darstellt[`Graphics`](../graphics) durch die angegebenen[`Matrix`](../matrix) durch Voranstellen der angegebenen[`Matrix`](../matrix) . |
-| [MultiplyTransform](../../aspose.psd/graphics/multiplytransform#multiplytransform_1)(Matrix, MatrixOrder) | Multipliziert die[`Matrix`](../matrix) das die lokale geometrische Transformation davon darstellt[`Graphics`](../graphics) durch die angegebenen[`Matrix`](../matrix) in der angegebenen Reihenfolge. |
-| [ResetTransform](../../aspose.psd/graphics/resettransform)() | Setzt die zurück[`Transform`](./transform) Eigentum an Identität. |
-| [RotateTransform](../../aspose.psd/graphics/rotatetransform#rotatetransform)(float) | Dreht die lokale geometrische Transformation um den angegebenen Betrag. Diese Methode stellt die Rotation der Transformation voran. |
-| [RotateTransform](../../aspose.psd/graphics/rotatetransform#rotatetransform_1)(float, MatrixOrder) | Dreht die lokale geometrische Transformation um den angegebenen Betrag in der angegebenen Reihenfolge. |
-| [ScaleTransform](../../aspose.psd/graphics/scaletransform#scaletransform)(float, float) | Skaliert die lokale geometrische Transformation um die angegebenen Beträge. Diese Methode stellt der Transformation die Skalierungsmatrix voran. |
-| [ScaleTransform](../../aspose.psd/graphics/scaletransform#scaletransform_1)(float, float, MatrixOrder) | Skaliert die lokale geometrische Transformation um die angegebenen Beträge in der angegebenen Reihenfolge. |
-| [TranslateTransform](../../aspose.psd/graphics/translatetransform#translatetransform)(float, float) | Verschiebt die lokale geometrische Transformation um die angegebenen Abmessungen. Diese Methode stellt die Übersetzung der Transformation voran. |
-| [TranslateTransform](../../aspose.psd/graphics/translatetransform#translatetransform_1)(float, float, MatrixOrder) | Verschiebt die lokale geometrische Transformation um die angegebenen Dimensionen in der angegebenen Reihenfolge. |
+| [BeginUpdate](../../aspose.psd/graphics/beginupdate/)() | Startet das Caching der folgenden Grafikoperationen. Die danach angewendeten Grafikeffekte werden nicht sofort angewendet, sondern das EndUpdate bewirkt, dass alle Effekte auf einmal angewendet werden. |
+| [Clear](../../aspose.psd/graphics/clear/)(Color) | Löscht die Grafikoberfläche mit der angegebenen Farbe. |
+| [DrawArc](../../aspose.psd/graphics/drawarc/#drawarc)(Pen, Rectangle, float, float) | Zeichnet einen Bogen, der einen Teil einer durch a angegebenen Ellipse darstellt[`Rectangle`](../rectangle/)Struktur. |
+| [DrawArc](../../aspose.psd/graphics/drawarc/#drawarc_1)(Pen, RectangleF, float, float) | Zeichnet einen Bogen, der einen Teil einer durch a angegebenen Ellipse darstellt[`RectangleF`](../rectanglef/)Struktur. |
+| [DrawArc](../../aspose.psd/graphics/drawarc/#drawarc_3)(Pen, float, float, float, float, float, float) | Zeichnet einen Bogen, der einen Teil einer Ellipse darstellt, die durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben wird. |
+| [DrawArc](../../aspose.psd/graphics/drawarc/#drawarc_2)(Pen, int, int, int, int, int, int) | Zeichnet einen Bogen, der einen Teil einer Ellipse darstellt, die durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben wird. |
+| [DrawBezier](../../aspose.psd/graphics/drawbezier/#drawbezier)(Pen, Point, Point, Point, Point) | Zeichnet einen durch vier definierten Bézier-Spline[`Point`](../point/) Strukturen. |
+| [DrawBezier](../../aspose.psd/graphics/drawbezier/#drawbezier_1)(Pen, PointF, PointF, PointF, PointF) | Zeichnet einen durch vier definierten Bézier-Spline[`PointF`](../pointf/) Strukturen. |
+| [DrawBezier](../../aspose.psd/graphics/drawbezier/#drawbezier_2)(Pen, float, float, float, float, float, float, float, float) | Zeichnet einen Bézier-Spline, der durch vier geordnete Koordinatenpaare definiert ist, die Punkte darstellen. |
+| [DrawBeziers](../../aspose.psd/graphics/drawbeziers/#drawbeziers)(Pen, PointF[]) | Zeichnet eine Reihe von Bézier-Splines aus einem Array von[`PointF`](../pointf/) Strukturen. |
+| [DrawBeziers](../../aspose.psd/graphics/drawbeziers/#drawbeziers_1)(Pen, Point[]) | Zeichnet eine Reihe von Bézier-Splines aus einem Array von[`Point`](../point/) Strukturen. |
+| [DrawClosedCurve](../../aspose.psd/graphics/drawclosedcurve/#drawclosedcurve)(Pen, PointF[]) | Zeichnet einen geschlossenen kardinalen Spline, der durch ein Array von definiert ist[`PointF`](../pointf/) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus. |
+| [DrawClosedCurve](../../aspose.psd/graphics/drawclosedcurve/#drawclosedcurve_2)(Pen, Point[]) | Zeichnet einen geschlossenen kardinalen Spline, der durch ein Array von definiert ist[`Point`](../point/) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus. |
+| [DrawClosedCurve](../../aspose.psd/graphics/drawclosedcurve/#drawclosedcurve_1)(Pen, PointF[], float) | Zeichnet einen geschlossenen kardinalen Spline, der durch ein Array von definiert ist[`PointF`](../pointf/) Strukturen mit einer bestimmten Spannung. Diese Methode verwendet einen StandardwertAlternate Füllmodus. |
+| [DrawClosedCurve](../../aspose.psd/graphics/drawclosedcurve/#drawclosedcurve_3)(Pen, Point[], float) | Zeichnet einen geschlossenen kardinalen Spline, der durch ein Array von definiert ist[`Point`](../point/) Strukturen mit einer bestimmten Spannung. Diese Methode verwendet einen StandardwertAlternate Füllmodus. |
+| [DrawCurve](../../aspose.psd/graphics/drawcurve/#drawcurve)(Pen, PointF[]) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`PointF`](../pointf/) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5. |
+| [DrawCurve](../../aspose.psd/graphics/drawcurve/#drawcurve_4)(Pen, Point[]) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`Point`](../point/) Strukturen. |
+| [DrawCurve](../../aspose.psd/graphics/drawcurve/#drawcurve_3)(Pen, PointF[], float) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`PointF`](../pointf/) Strukturen mit einer bestimmten Spannung. |
+| [DrawCurve](../../aspose.psd/graphics/drawcurve/#drawcurve_6)(Pen, Point[], float) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`Point`](../point/) Strukturen mit einer bestimmten Spannung. |
+| [DrawCurve](../../aspose.psd/graphics/drawcurve/#drawcurve_1)(Pen, PointF[], int, int) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`PointF`](../pointf/) Strukturen. Die Zeichnung beginnt versetzt vom Anfang des Arrays. Diese Methode verwendet eine Standardspannung von 0,5. |
+| [DrawCurve](../../aspose.psd/graphics/drawcurve/#drawcurve_2)(Pen, PointF[], int, int, float) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`PointF`](../pointf/) Strukturen mit einer bestimmten Spannung. Die Zeichnung beginnt versetzt vom Anfang des Arrays. |
+| [DrawCurve](../../aspose.psd/graphics/drawcurve/#drawcurve_5)(Pen, Point[], int, int, float) | Zeichnet einen kardinalen Spline durch ein angegebenes Array von[`Point`](../point/) Strukturen mit einer bestimmten Spannung. |
+| [DrawEllipse](../../aspose.psd/graphics/drawellipse/#drawellipse)(Pen, Rectangle) | Zeichnet eine durch eine Begrenzung angegebene Ellipse[`Rectangle`](../rectangle/)Struktur. |
+| [DrawEllipse](../../aspose.psd/graphics/drawellipse/#drawellipse_1)(Pen, RectangleF) | Zeichnet eine durch eine Begrenzung definierte Ellipse[`RectangleF`](../rectanglef/) . |
+| [DrawEllipse](../../aspose.psd/graphics/drawellipse/#drawellipse_3)(Pen, float, float, float, float) | Zeichnet eine Ellipse, die durch ein Begrenzungsrechteck definiert ist, das durch ein Koordinatenpaar, eine Höhe und eine Breite angegeben ist. |
+| [DrawEllipse](../../aspose.psd/graphics/drawellipse/#drawellipse_2)(Pen, int, int, int, int) | Zeichnet eine Ellipse, die durch ein Begrenzungsrechteck definiert ist, das durch ein Koordinatenpaar, eine Höhe und eine Breite angegeben ist. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage)(Image, Point) | Zeichnet das angegebene[`Image`](./image/) , unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_1)(Image, PointF) | Zeichnet das angegebene[`Image`](./image/) , unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_2)(Image, PointF[]) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_6)(Image, Point[]) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_10)(Image, Rectangle) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_15)(Image, RectangleF) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_22)(Image, float, float) | Zeichnet das angegebene[`Image`](./image/) , unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_20)(Image, int, int) | Zeichnet das angegebene Bild unter Verwendung seiner ursprünglichen physischen Größe an der durch ein Koordinatenpaar angegebenen Position. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_3)(Image, PointF[], RectangleF) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_7)(Image, Point[], Rectangle) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_11)(Image, Rectangle, GraphicsUnit) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_16)(Image, RectangleF, GraphicsUnit) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_4)(Image, PointF[], RectangleF, GraphicsUnit) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_8)(Image, Point[], Rectangle, GraphicsUnit) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_12)(Image, Rectangle, GraphicsUnit, ImageAttributes) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_13)(Image, Rectangle, Rectangle, GraphicsUnit) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_17)(Image, RectangleF, GraphicsUnit, ImageAttributes) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_18)(Image, RectangleF, RectangleF, GraphicsUnit) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_23)(Image, float, float, float, float) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_21)(Image, int, int, int, int) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_5)(Image, PointF[], RectangleF, GraphicsUnit, ImageAttributes) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_9)(Image, Point[], Rectangle, GraphicsUnit, ImageAttributes) | Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_14)(Image, Rectangle, Rectangle, GraphicsUnit, ImageAttributes) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImage](../../aspose.psd/graphics/drawimage/#drawimage_19)(Image, RectangleF, RectangleF, GraphicsUnit, ImageAttributes) | Zeichnet das angegebene[`Image`](./image/) am angegebenen Ort und mit der angegebenen Größe. |
+| [DrawImageUnscaled](../../aspose.psd/graphics/drawimageunscaled/#drawimageunscaled)(Image, Point) | Zeichnet ein bestimmtes Bild unter Verwendung seiner ursprünglichen physischen Größe an einer bestimmten Position. |
+| [DrawImageUnscaled](../../aspose.psd/graphics/drawimageunscaled/#drawimageunscaled_1)(Image, Rectangle) | Zeichnet ein bestimmtes Bild unter Verwendung seiner ursprünglichen physischen Größe an einer bestimmten Position. |
+| [DrawImageUnscaled](../../aspose.psd/graphics/drawimageunscaled/#drawimageunscaled_2)(Image, int, int) | Zeichnet das angegebene Bild in seiner ursprünglichen physischen Größe an der durch ein Koordinatenpaar angegebenen Position. |
+| [DrawImageUnscaled](../../aspose.psd/graphics/drawimageunscaled/#drawimageunscaled_3)(Image, int, int, int, int) | Zeichnet ein bestimmtes Bild unter Verwendung seiner ursprünglichen physischen Größe an einer bestimmten Position. |
+| [DrawImageUnscaledAndClipped](../../aspose.psd/graphics/drawimageunscaledandclipped/)(Image, Rectangle) | Zeichnet das angegebene Bild ohne Skalierung und schneidet es ggf. so zu, dass es in das angegebene Rechteck passt. |
+| [DrawLine](../../aspose.psd/graphics/drawline/#drawline)(Pen, Point, Point) | Zeichnet eine Linie, die zwei verbindet[`Point`](../point/) Strukturen. |
+| [DrawLine](../../aspose.psd/graphics/drawline/#drawline_1)(Pen, PointF, PointF) | Zeichnet eine Linie, die zwei verbindet[`PointF`](../pointf/) Strukturen. |
+| [DrawLine](../../aspose.psd/graphics/drawline/#drawline_3)(Pen, float, float, float, float) | Zeichnet eine Linie, die die beiden durch die Koordinatenpaare angegebenen Punkte verbindet. |
+| [DrawLine](../../aspose.psd/graphics/drawline/#drawline_2)(Pen, int, int, int, int) | Zeichnet eine Linie, die die beiden durch die Koordinatenpaare angegebenen Punkte verbindet. |
+| [DrawLines](../../aspose.psd/graphics/drawlines/#drawlines)(Pen, PointF[]) | Zeichnet eine Reihe von Liniensegmenten, die ein Array von verbinden[`PointF`](../pointf/) Strukturen. |
+| [DrawLines](../../aspose.psd/graphics/drawlines/#drawlines_1)(Pen, Point[]) | Zeichnet eine Reihe von Liniensegmenten, die ein Array von verbinden[`Point`](../point/) Strukturen. |
+| [DrawPath](../../aspose.psd/graphics/drawpath/)(Pen, GraphicsPath) | zeichnet a[`GraphicsPath`](../graphicspath/) . |
+| [DrawPie](../../aspose.psd/graphics/drawpie/#drawpie)(Pen, Rectangle, float, float) | Zeichnet eine Tortenform, die durch eine durch a angegebene Ellipse definiert ist[`Rectangle`](../rectangle/) Struktur und zwei radiale Linien. |
+| [DrawPie](../../aspose.psd/graphics/drawpie/#drawpie_1)(Pen, RectangleF, float, float) | Zeichnet eine Tortenform, die durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../rectanglef/) Struktur und zwei radiale Linien. |
+| [DrawPie](../../aspose.psd/graphics/drawpie/#drawpie_3)(Pen, float, float, float, float, float, float) | Zeichnet eine Tortenform, die durch eine Ellipse definiert ist, die durch ein Koordinatenpaar, eine Breite, eine Höhe und zwei radiale Linien angegeben ist. |
+| [DrawPie](../../aspose.psd/graphics/drawpie/#drawpie_2)(Pen, int, int, int, int, int, int) | Zeichnet eine Tortenform, die durch eine Ellipse definiert ist, die durch ein Koordinatenpaar, eine Breite, eine Höhe und zwei radiale Linien angegeben ist. |
+| [DrawPolygon](../../aspose.psd/graphics/drawpolygon/#drawpolygon)(Pen, PointF[]) | Zeichnet ein Polygon, das durch ein Array von definiert ist[`PointF`](../pointf/) Strukturen. |
+| [DrawPolygon](../../aspose.psd/graphics/drawpolygon/#drawpolygon_1)(Pen, Point[]) | Zeichnet ein Polygon, das durch ein Array von definiert ist[`Point`](../point/) Strukturen. |
+| [DrawRectangle](../../aspose.psd/graphics/drawrectangle/#drawrectangle)(Pen, Rectangle) | Zeichnet ein durch a angegebenes Rechteck[`Rectangle`](../rectangle/)Struktur. |
+| [DrawRectangle](../../aspose.psd/graphics/drawrectangle/#drawrectangle_1)(Pen, RectangleF) | Zeichnet ein durch a angegebenes Rechteck[`RectangleF`](../rectanglef/)Struktur. |
+| [DrawRectangle](../../aspose.psd/graphics/drawrectangle/#drawrectangle_3)(Pen, float, float, float, float) | Zeichnet ein durch ein Koordinatenpaar, eine Breite und eine Höhe festgelegtes Rechteck. |
+| [DrawRectangle](../../aspose.psd/graphics/drawrectangle/#drawrectangle_2)(Pen, int, int, int, int) | Zeichnet ein durch ein Koordinatenpaar, eine Breite und eine Höhe festgelegtes Rechteck. |
+| [DrawRectangles](../../aspose.psd/graphics/drawrectangles/#drawrectangles)(Pen, RectangleF[]) | Zeichnet eine Reihe von Rechtecken, angegeben durch[`RectangleF`](../rectanglef/) Strukturen. |
+| [DrawRectangles](../../aspose.psd/graphics/drawrectangles/#drawrectangles_1)(Pen, Rectangle[]) | Zeichnet eine Reihe von Rechtecken, angegeben durch[`Rectangle`](../rectangle/) Strukturen. |
+| [DrawString](../../aspose.psd/graphics/drawstring/#drawstring)(string, Font, Brush, PointF) | Zeichnet die angegebene Textzeichenfolge an der angegebenen Stelle mit dem angegebenen[`Brush`](../brush/) Und[`Font`](../font/) Objekte. |
+| [DrawString](../../aspose.psd/graphics/drawstring/#drawstring_2)(string, Font, Brush, RectangleF) | Zeichnet die angegebene Textzeichenfolge in das angegebene Rechteck mit dem angegebenen[`Brush`](../brush/) Und[`Font`](../font/) Objekte. |
+| [DrawString](../../aspose.psd/graphics/drawstring/#drawstring_4)(string, Font, Brush, float, float) | Zeichnet die angegebene Textzeichenfolge an der angegebenen Stelle mit dem angegebenen[`Brush`](../brush/) Und[`Font`](../font/) Objekte. |
+| [DrawString](../../aspose.psd/graphics/drawstring/#drawstring_1)(string, Font, Brush, PointF, StringFormat) | Zeichnet die angegebene Textzeichenfolge an der angegebenen Stelle mit dem angegebenen[`Brush`](../brush/) Und[`Font`](../font/) Objekte mit den Formatierungsattributen der angegebenen[`StringFormat`](../stringformat/) . |
+| [DrawString](../../aspose.psd/graphics/drawstring/#drawstring_3)(string, Font, Brush, RectangleF, StringFormat) | Zeichnet die angegebene Textzeichenfolge in das angegebene Rechteck mit dem angegebenen[`Brush`](../brush/) Und[`Font`](../font/) Objekte mit den Formatierungsattributen der angegebenen[`StringFormat`](../stringformat/) . |
+| [DrawString](../../aspose.psd/graphics/drawstring/#drawstring_5)(string, Font, Brush, float, float, StringFormat) | Zeichnet die angegebene Textzeichenfolge an der angegebenen Stelle mit dem angegebenen[`Brush`](../brush/) Und[`Font`](../font/) Objekte mit den Formatierungsattributen der angegebenen[`StringFormat`](../stringformat/) . |
+| [EndUpdate](../../aspose.psd/graphics/endupdate/)() | Beendet das Caching der Grafikoperationen, die nach dem Aufruf von BeginUpdate gestartet wurden. Die vorhergehenden Grafikoperationen werden sofort angewendet, wenn diese Methode aufgerufen wird. |
+| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve/#fillclosedcurve)(Brush, PointF[]) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`PointF`](../pointf/) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus. |
+| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve/#fillclosedcurve_3)(Brush, Point[]) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`Point`](../point/) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus. |
+| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve/#fillclosedcurve_1)(Brush, PointF[], FillMode) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`PointF`](../pointf/) Strukturen mit dem angegebenen Füllmodus. Diese Methode verwendet eine Standardspannung von 0,5. |
+| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve/#fillclosedcurve_4)(Brush, Point[], FillMode) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`Point`](../point/) Strukturen mit dem angegebenen Füllmodus. Diese Methode verwendet eine Standardspannung von 0,5. |
+| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve/#fillclosedcurve_2)(Brush, PointF[], FillMode, float) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`PointF`](../pointf/) Strukturen mit dem angegebenen Füllmodus und der angegebenen Spannung. |
+| [FillClosedCurve](../../aspose.psd/graphics/fillclosedcurve/#fillclosedcurve_5)(Brush, Point[], FillMode, float) | Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`Point`](../point/) Strukturen mit dem angegebenen Füllmodus und der angegebenen Spannung. |
+| [FillEllipse](../../aspose.psd/graphics/fillellipse/#fillellipse)(Brush, Rectangle) | Füllt das Innere einer Ellipse, die durch ein durch a festgelegtes Begrenzungsrechteck definiert ist[`Rectangle`](../rectangle/)Struktur. |
+| [FillEllipse](../../aspose.psd/graphics/fillellipse/#fillellipse_1)(Brush, RectangleF) | Füllt das Innere einer Ellipse, die durch ein durch a festgelegtes Begrenzungsrechteck definiert ist[`RectangleF`](../rectanglef/)Struktur. |
+| [FillEllipse](../../aspose.psd/graphics/fillellipse/#fillellipse_3)(Brush, float, float, float, float) | Füllt das Innere einer Ellipse, die durch ein Begrenzungsrechteck definiert ist, das durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben wird. |
+| [FillEllipse](../../aspose.psd/graphics/fillellipse/#fillellipse_2)(Brush, int, int, int, int) | Füllt das Innere einer Ellipse, die durch ein Begrenzungsrechteck definiert ist, das durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben wird. |
+| [FillPath](../../aspose.psd/graphics/fillpath/)(Brush, GraphicsPath) | Füllt das Innere von a[`GraphicsPath`](../graphicspath/) . |
+| [FillPie](../../aspose.psd/graphics/fillpie/#fillpie)(Brush, Rectangle, float, float) | Füllt das Innere eines Tortenabschnitts, der durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../rectanglef/) Struktur und zwei radiale Linien. |
+| [FillPie](../../aspose.psd/graphics/fillpie/#fillpie_1)(Brush, RectangleF, float, float) | Füllt das Innere eines Tortenabschnitts, der durch eine durch a angegebene Ellipse definiert ist[`RectangleF`](../rectanglef/) Struktur und zwei radiale Linien. |
+| [FillPie](../../aspose.psd/graphics/fillpie/#fillpie_3)(Brush, float, float, float, float, float, float) | Füllt das Innere eines Tortenabschnitts, der durch eine Ellipse definiert ist, die durch ein Koordinatenpaar, eine Breite, eine Höhe und zwei radiale Linien angegeben wird. |
+| [FillPie](../../aspose.psd/graphics/fillpie/#fillpie_2)(Brush, int, int, int, int, int, int) | Füllt das Innere eines Tortenabschnitts, der durch eine Ellipse definiert ist, die durch ein Koordinatenpaar, eine Breite, eine Höhe und zwei radiale Linien angegeben wird. |
+| [FillPolygon](../../aspose.psd/graphics/fillpolygon/#fillpolygon)(Brush, PointF[]) | Füllt das Innere eines Polygons, das durch eine Reihe von Punkten definiert ist, die durch angegeben werden[`PointF`](../pointf/) Strukturen uAlternate . |
+| [FillPolygon](../../aspose.psd/graphics/fillpolygon/#fillpolygon_2)(Brush, Point[]) | Füllt das Innere eines Polygons, das durch eine Reihe von Punkten definiert ist, die durch angegeben werden[`Point`](../point/) Strukturen uAlternate . |
+| [FillPolygon](../../aspose.psd/graphics/fillpolygon/#fillpolygon_1)(Brush, PointF[], FillMode) | Füllt das Innere eines Polygons, das durch eine Reihe von Punkten definiert ist, die durch angegeben werden[`PointF`](../pointf/) Strukturen, die den angegebenen Füllmodus verwenden. |
+| [FillPolygon](../../aspose.psd/graphics/fillpolygon/#fillpolygon_3)(Brush, Point[], FillMode) | Füllt das Innere eines Polygons, das durch eine Reihe von Punkten definiert ist, die durch angegeben werden[`Point`](../point/) Strukturen, die den angegebenen Füllmodus verwenden. |
+| [FillRectangle](../../aspose.psd/graphics/fillrectangle/#fillrectangle)(Brush, Rectangle) | Füllt das Innere eines durch a angegebenen Rechtecks aus[`Rectangle`](../rectangle/)Struktur. |
+| [FillRectangle](../../aspose.psd/graphics/fillrectangle/#fillrectangle_1)(Brush, RectangleF) | Füllt das Innere eines durch a angegebenen Rechtecks aus[`RectangleF`](../rectanglef/)Struktur. |
+| [FillRectangle](../../aspose.psd/graphics/fillrectangle/#fillrectangle_3)(Brush, float, float, float, float) | Füllt das Innere eines Rechtecks aus, das durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben ist. |
+| [FillRectangle](../../aspose.psd/graphics/fillrectangle/#fillrectangle_2)(Brush, int, int, int, int) | Füllt das Innere eines Rechtecks aus, das durch ein Koordinatenpaar, eine Breite und eine Höhe angegeben ist. |
+| [FillRectangles](../../aspose.psd/graphics/fillrectangles/#fillrectangles)(Brush, RectangleF[]) | Füllt das Innere einer Reihe von Rechtecken, die durch angegeben werden[`RectangleF`](../rectanglef/) Strukturen. |
+| [FillRectangles](../../aspose.psd/graphics/fillrectangles/#fillrectangles_1)(Brush, Rectangle[]) | Füllt das Innere einer Reihe von Rechtecken, die durch angegeben werden[`Rectangle`](../rectangle/) Strukturen. |
+| [FillRegion](../../aspose.psd/graphics/fillregion/)(Brush, Region) | Füllt das Innere von a[`Region`](../region/) . |
+| [MultiplyTransform](../../aspose.psd/graphics/multiplytransform/#multiplytransform)(Matrix) | Multipliziert die[`Matrix`](../matrix/) das die lokale geometrische Transformation davon darstellt`Graphics` durch die angegebenen[`Matrix`](../matrix/) durch Voranstellen der angegebenen[`Matrix`](../matrix/) . |
+| [MultiplyTransform](../../aspose.psd/graphics/multiplytransform/#multiplytransform_1)(Matrix, MatrixOrder) | Multipliziert die[`Matrix`](../matrix/) das die lokale geometrische Transformation davon darstellt`Graphics` durch die angegebenen[`Matrix`](../matrix/) in der angegebenen Reihenfolge. |
+| [ResetTransform](../../aspose.psd/graphics/resettransform/)() | Setzt die zurück[`Transform`](./transform/) Eigentum an Identität. |
+| [RotateTransform](../../aspose.psd/graphics/rotatetransform/#rotatetransform)(float) | Dreht die lokale geometrische Transformation um den angegebenen Betrag. Diese Methode stellt die Rotation der Transformation voran. |
+| [RotateTransform](../../aspose.psd/graphics/rotatetransform/#rotatetransform_1)(float, MatrixOrder) | Dreht die lokale geometrische Transformation um den angegebenen Betrag in der angegebenen Reihenfolge. |
+| [ScaleTransform](../../aspose.psd/graphics/scaletransform/#scaletransform)(float, float) | Skaliert die lokale geometrische Transformation um die angegebenen Beträge. Diese Methode stellt der Transformation die Skalierungsmatrix voran. |
+| [ScaleTransform](../../aspose.psd/graphics/scaletransform/#scaletransform_1)(float, float, MatrixOrder) | Skaliert die lokale geometrische Transformation um die angegebenen Beträge in der angegebenen Reihenfolge. |
+| [TranslateTransform](../../aspose.psd/graphics/translatetransform/#translatetransform)(float, float) | Verschiebt die lokale geometrische Transformation um die angegebenen Abmessungen. Diese Methode stellt die Übersetzung der Transformation voran. |
+| [TranslateTransform](../../aspose.psd/graphics/translatetransform/#translatetransform_1)(float, float, MatrixOrder) | Verschiebt die lokale geometrische Transformation um die angegebenen Dimensionen in der angegebenen Reihenfolge. |
 
 ### Beispiele
 
@@ -217,7 +217,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd)
+* namensraum [Aspose.PSD](../../aspose.psd/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

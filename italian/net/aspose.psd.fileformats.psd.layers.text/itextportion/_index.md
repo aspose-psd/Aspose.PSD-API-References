@@ -1,9 +1,9 @@
 ---
-title: ITextPortion
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Interfaccia per manipolare porzioni di testo
+title: Interface ITextPortion
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextPortion interfaccia. Interfaccia per manipolare porzioni di testo
 type: docs
-weight: 3470
+weight: 3530
 url: /it/net/aspose.psd.fileformats.psd.layers.text/itextportion/
 ---
 ## ITextPortion interface
@@ -18,13 +18,13 @@ public interface ITextPortion
 
 | Nome | Descrizione |
 | --- | --- |
-| [Paragraph](../../aspose.psd.fileformats.psd.layers.text/itextportion/paragraph) { get; } | Imposta lo stile. |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/itextportion/style) { get; } | Ottiene lo stile. |
-| [Text](../../aspose.psd.fileformats.psd.layers.text/itextportion/text) { get; set; } | Ottiene o imposta il testo. |
+| [Paragraph](../../aspose.psd.fileformats.psd.layers.text/itextportion/paragraph/) { get; } | Imposta lo stile. |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/itextportion/style/) { get; } | Ottiene lo stile. |
+| [Text](../../aspose.psd.fileformats.psd.layers.text/itextportion/text/) { get; set; } | Ottiene o imposta il testo. |
 
 ### Esempi
 
-Nell'esempio seguente viene illustrato che l'allineamento del testo tramite ITextPortion per le lingue da destra a sinistra funziona correttamente.
+L'esempio seguente dimostra che l'allineamento del testo tramite ITextPortion per le lingue da destra a sinistra funziona correttamente.
 
 ```csharp
 [C#]
@@ -44,7 +44,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-L'esempio seguente mostra come eseguire il rendering di stili diversi in un livello di testo in Aspose.PSD
+L'esempio seguente dimostra come è possibile eseguire il rendering di stili diversi in un livello di testo in Aspose.PSD
 
 ```csharp
 [C#]
@@ -90,12 +90,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Il codice seguente illustra come ottenere la dimensione del carattere per qualsiasi parte di testo nel livello di testo.
+Il codice seguente mostra come ottenere la dimensione del carattere per qualsiasi porzione di testo nel livello di testo.
 
 ```csharp
 [C#]
 
-// Dimensione carattere errata estratta 
+// Dimensione carattere errata errata 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -103,7 +103,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Vecchia API (usando il carattere del primo paragrafo)
+    // Vecchia API (utilizzando il carattere del primo paragrafo)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -132,7 +132,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("Font size was read incorrect");
     }
 
-    // Controllo della dimensione del carattere della porzione reale
+    // Controllo della dimensione del carattere della parte reale
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -140,7 +140,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-Nell'esempio di codice seguente vengono illustrate le parti di testo di modifica e il relativo stile di testo.
+Nell'esempio di codice seguente vengono illustrate le parti di testo modificabili e il relativo stile di testo.
 
 ```csharp
 [C#]
@@ -163,7 +163,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Controllo del testo di ogni porzione
+            // Controllo del testo di ogni parte
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -270,18 +270,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Esempio di modifica di paragrafi e stili per porzioni
-            // Imposta la giusta giustificazione
+            // Esempio di modifica di paragrafo e stile per porzioni
+            // Imposta la giustificazione a destra
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Colori diversi per ogni stile. Verrà modificato, ma il rendering non è completamente supportato
+            // Colori diversi per ogni stile. verrà modificato, ma il rendering non è completamente supportato
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Carattere diverso. Verrà modificato, ma il rendering non è completamente supportato
+            // Carattere diverso. verrà modificato, ma il rendering non è completamente supportato
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -298,7 +298,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Guarda anche
 
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

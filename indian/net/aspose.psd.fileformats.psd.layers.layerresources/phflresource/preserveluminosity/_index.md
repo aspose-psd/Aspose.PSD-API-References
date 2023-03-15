@@ -1,0 +1,27 @@
+---
+title: PhflResource.PreserveLuminosity
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: PhflResource संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क चमक क संरक्षत करें
+type: docs
+weight: 30
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/
+---
+## PhflResource.PreserveLuminosity property
+
+एक मान प्राप्त या सेट करता है जो इंगित करता है कि [चमक को संरक्षित करें]।
+
+```csharp
+public bool PreserveLuminosity { get; set; }
+```
+
+### संपत्ति मूल्य
+
+`सत्य` अगर [चमक को संरक्षित करें]; अन्यथा,`असत्य` .
+
+### यह सभी देखें
+
+* class [PhflResource](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
+* सभा [Aspose.PSD](../../../)
+
+

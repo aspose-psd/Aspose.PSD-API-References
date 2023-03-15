@@ -1,14 +1,14 @@
 ---
-title: UnitArrayStructure
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Definisce la classe UnitArrayStructure che contieneDouble array di valori e la loro unità di misura. Viene utilizzato nelle risorse del file PSD solitamente daObjectArrayStructure./objectarraystructure .
+title: Class UnitArrayStructure
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure classe. Definisce la classe UnitArrayStructure che contieneDouble array di valori e la loro unità di misura. Viene utilizzato nelle risorse del file PSD solitamente daObjectArrayStructure .
 type: docs
-weight: 3210
+weight: 3270
 url: /it/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
 ## UnitArrayStructure class
 
-Definisce la classe UnitArrayStructure che contieneDouble array di valori e la loro unità di misura. Viene utilizzato nelle risorse del file PSD, solitamente da[`ObjectArrayStructure`](../objectarraystructure) .
+Definisce la classe UnitArrayStructure che contieneDouble array di valori e la loro unità di misura. Viene utilizzato nelle risorse del file PSD, solitamente da[`ObjectArrayStructure`](../objectarraystructure/) .
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -18,36 +18,36 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | Nome | Descrizione |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure)(ClassID, UnitTypes, double[]) | Inizializza una nuova istanza di[`UnitArrayStructure`](../unitarraystructure) classe. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Inizializza una nuova istanza di`UnitArrayStructure` classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key) { get; } | Ottiene questa chiave della struttura dell'array di unità. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Ottiene o imposta il nome della chiave. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length) { get; } | Ottiene il[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) lunghezza in byte. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype) { get; set; } | Ottiene o imposta il tipo di unità di misura di[`UnitArrayStructure`](../unitarraystructure) valori. |
-| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount) { get; } | Ottiene il conteggio del valore. |
-| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values) { get; set; } | Ottiene o imposta i valori della struttura della matrice dell'unità. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Ottiene questa chiave della struttura dell'array di unità. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Ottiene o imposta il nome della chiave. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Ottiene il[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) lunghezza in byte. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Ottiene o imposta il tipo di unità di misura di`UnitArrayStructure` valori. |
+| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Ottiene il valore count. |
+| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Ottiene o imposta i valori della struttura dell'array di unità. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Ottiene la lunghezza dell'intestazione. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Salva la struttura nel contenitore del flusso specificato. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Salva la struttura nel contenitore del flusso specificato. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Ottiene la lunghezza dell'intestazione. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Salva la struttura nel contenitore del flusso specificato. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Salva la struttura nel contenitore del flusso specificato. |
 
 ## Campi
 
 | Nome | Descrizione |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey) | Definisce 'UnFl'[`UnitArrayStructure`](../unitarraystructure) chiave. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Definisce 'UnFl'`UnitArrayStructure` chiave. |
 
 ### Esempi
 
-Il codice seguente mostra il supporto delle firme ObAr e UnFl.
+Il codice seguente dimostra il supporto delle firme ObAr e UnFl.
 
 ```csharp
 [C#]
@@ -101,8 +101,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Guarda anche
 
-* class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures)
+* class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

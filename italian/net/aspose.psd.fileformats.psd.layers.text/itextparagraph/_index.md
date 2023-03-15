@@ -1,9 +1,9 @@
 ---
-title: ITextParagraph
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Linterfaccia per lavorare con il paragrafo
+title: Interface ITextParagraph
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph interfaccia. Linterfaccia per lavorare con il paragrafo
 type: docs
-weight: 3460
+weight: 3520
 url: /it/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
 ## ITextParagraph interface
@@ -18,38 +18,38 @@ public interface ITextParagraph
 
 | Nome | Descrizione |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate) { get; set; } | Ottiene o imposta un valore che indica se [sillabazione automatica]. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading) { get; set; } | Ottiene o imposta l'interlinea automatica. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari) { get; set; } | Ottiene o imposta un valore che indica se questo[`ITextParagraph`](../itextparagraph) è burasagiri. |
-| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens) { get; set; } | Ottiene o imposta i trattini consecutivi. |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent) { get; set; } | Ottiene o imposta il rientro finale. |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer) { get; set; } | Ottiene o imposta un valore che indica se [ogni line composer]. |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent) { get; set; } | Ottiene o imposta il rientro della prima riga. |
-| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing) { get; set; } | Ottiene o imposta la spaziatura dei glifi. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging) { get; set; } | Ottiene o imposta un valore che indica se questo[`ITextParagraph`](../itextparagraph) è sospeso. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize) { get; set; } | Ottiene o imposta la dimensione della parola con trattino. |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification) { get; set; } | Ottiene o imposta la giustificazione. |
-| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder) { get; set; } | Ottiene o imposta l'ordine kinsoku. |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype) { get; set; } | Ottiene o imposta il tipo dell'interlinea. |
-| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing) { get; set; } | Ottiene o imposta la spaziatura delle lettere. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen) { get; set; } | Ottiene o imposta il trattino del post. |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen) { get; set; } | Ottiene o imposta il trattino pre. |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter) { get; set; } | Ottiene o imposta lo spazio dopo. |
-| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore) { get; set; } | Ottiene o imposta lo spazio prima. |
-| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent) { get; set; } | Ottiene o imposta il rientro iniziale. |
-| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing) { get; set; } | Ottiene o imposta la spaziatura delle parole. |
-| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone) { get; set; } | Ottiene o imposta la zona. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Ottiene o imposta un valore che indica se [trattino automatico]. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Ottiene o imposta l'interlinea automatica. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Ottiene o imposta un valore che indica se this`ITextParagraph`è burasagiri. |
+| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Ottiene o imposta i trattini consecutivi. |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Ottiene o imposta il rientro finale. |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Ottiene o imposta un valore che indica se [compositore di ogni riga]. |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Ottiene o imposta il rientro della prima riga. |
+| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Ottiene o imposta la spaziatura dei glifi. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Ottiene o imposta un valore che indica se this`ITextParagraph` è sospeso. |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Ottiene o imposta la dimensione della parola con trattino. |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Ottiene o imposta la giustificazione. |
+| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Ottiene o imposta l'ordine kinsoku. |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Ottiene o imposta il tipo di interlinea. |
+| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Ottiene o imposta la spaziatura tra le lettere. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Ottiene o imposta il trattino post. |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Ottiene o imposta il trattino pre. |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Ottiene o imposta lo spazio dopo. |
+| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Ottiene o imposta lo spazio prima. |
+| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Ottiene o imposta il rientro iniziale. |
+| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Ottiene o imposta la spaziatura delle parole. |
+| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Ottiene o imposta la zona. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply)(ITextParagraph) | Applica il paragrafo specificato. |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal)(ITextParagraph) | Determina se il paragrafo specificato è uguale. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | Applica il paragrafo specificato. |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | Determina se il paragrafo specificato è uguale. |
 
 ### Esempi
 
-Nell'esempio seguente viene illustrato che l'allineamento del testo tramite ITextPortion per le lingue da destra a sinistra funziona correttamente.
+L'esempio seguente dimostra che l'allineamento del testo tramite ITextPortion per le lingue da destra a sinistra funziona correttamente.
 
 ```csharp
 [C#]
@@ -69,7 +69,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Nell'esempio di codice seguente vengono illustrate le parti di testo di modifica e il relativo stile di testo.
+Nell'esempio di codice seguente vengono illustrate le parti di testo modificabili e il relativo stile di testo.
 
 ```csharp
 [C#]
@@ -92,7 +92,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Controllo del testo di ogni porzione
+            // Controllo del testo di ogni parte
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -199,18 +199,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Esempio di modifica di paragrafi e stili per porzioni
-            // Imposta la giusta giustificazione
+            // Esempio di modifica di paragrafo e stile per porzioni
+            // Imposta la giustificazione a destra
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Colori diversi per ogni stile. Verrà modificato, ma il rendering non è completamente supportato
+            // Colori diversi per ogni stile. verrà modificato, ma il rendering non è completamente supportato
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Carattere diverso. Verrà modificato, ma il rendering non è completamente supportato
+            // Carattere diverso. verrà modificato, ma il rendering non è completamente supportato
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -227,7 +227,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Guarda anche
 
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

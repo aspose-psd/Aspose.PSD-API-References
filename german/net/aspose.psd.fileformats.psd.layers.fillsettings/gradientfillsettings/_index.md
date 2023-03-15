@@ -1,9 +1,9 @@
 ---
-title: GradientFillSettings
+title: Class GradientFillSettings
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Einstellungen für Verlaufsfülleffekte.
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings klas. Einstellungen für Verlaufsfülleffekte.
 type: docs
-weight: 1940
+weight: 1960
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
 ## GradientFillSettings class
@@ -18,35 +18,35 @@ public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 
 | Name | Beschreibung |
 | --- | --- |
-| [GradientFillSettings](gradientfillsettings)() | Initialisiert eine neue Instanz von[`GradientFillSettings`](../gradientfillsettings) Klasse. |
+| [GradientFillSettings](gradientfillsettings/)() | Initialisiert eine neue Instanz von`GradientFillSettings` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [an Ebene ausrichten]. |
-| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle) { get; set; } | Ruft den Winkel ab oder legt ihn fest. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color) { get; set; } | Ruft die Farbe ab oder legt sie fest. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints) { get; set; } | Ruft die Farbpunkte ab oder setzt sie. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`GradientFillSettings`](../gradientfillsettings) ist Zittern. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype) { get; } | Der Füllungstyp |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname) { get; set; } | Ruft den Namen des Farbverlaufs ab oder legt ihn fest. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype) { get; set; } | Ruft den Verlaufstyp ab oder legt ihn fest. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset) { get; set; } | Ruft den horizontalen Versatz ab oder legt ihn fest. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`GradientFillSettings`](../gradientfillsettings) ist umgekehrt. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale) { get; set; } | Ruft die Skalierung ab oder legt sie fest. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints) { get; set; } | Holt oder setzt die Transparenzpunkte. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset) { get; set; } | Ruft den vertikalen Offset ab oder legt ihn fest. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [an Ebene ausrichten]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/) { get; set; } | Ruft den Winkel ab oder legt ihn fest. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/) { get; set; } | Ruft die Farbe ab oder legt sie fest. |
+| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints/) { get; set; } | Ruft die Farbpunkte ab oder setzt sie. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`GradientFillSettings` ist Zittern. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | Der Füllungstyp |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname/) { get; set; } | Ruft den Namen des Farbverlaufs ab oder legt ihn fest. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | Ruft den Verlaufstyp ab oder legt ihn fest. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | Holt oder setzt den horizontalen Versatz in Prozent. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`GradientFillSettings` ist umgekehrt. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | Ruft die Skalierung ab oder legt sie fest. |
+| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints/) { get; set; } | Holt oder setzt die Transparenzpunkte. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | Holt oder setzt den vertikalen Offset in Prozent. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint)() | Fügt den Farbpunkt hinzu. |
-| [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint)() | Fügt den Farbpunkt hinzu. |
-| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint)(IGradientColorPoint) | Entfernt den Farbpunkt. |
-| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint)(IGradientTransparencyPoint) | Entfernt den Transparenzpunkt. |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes)() | Erzeugt die LFX2-Ressourcenknoten. |
+| [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/)() | Fügt den Farbpunkt hinzu. |
+| [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/)() | Fügt den Farbpunkt hinzu. |
+| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/)(IGradientColorPoint) | Entfernt den Farbpunkt. |
+| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/)(IGradientTransparencyPoint) | Entfernt den Transparenzpunkt. |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/)() | Erzeugt die LFX2-Ressourcenknoten. |
 
 ### Beispiele
 
@@ -209,9 +209,9 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### Siehe auch
 
-* class [BaseFillSettings](../basefillsettings)
-* interface [IGradientFillSettings](../igradientfillsettings)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings)
+* class [BaseFillSettings](../basefillsettings/)
+* interface [IGradientFillSettings](../igradientfillsettings/)
+* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

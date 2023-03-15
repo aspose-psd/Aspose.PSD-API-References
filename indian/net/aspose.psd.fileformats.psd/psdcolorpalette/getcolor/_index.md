@@ -1,0 +1,38 @@
+---
+title: PsdColorPalette.GetColor
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: PsdColorPalette तरक. सूचकंक द्वर पैलेट रंग प्रप्त करत है
+type: docs
+weight: 130
+url: /hi/net/aspose.psd.fileformats.psd/psdcolorpalette/getcolor/
+---
+## PsdColorPalette.GetColor method
+
+सूचकांक द्वारा पैलेट रंग प्राप्त करता है।
+
+```csharp
+public Color GetColor(int index)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| index | Int32 | पैलेट रंग सूचकांक। |
+
+### प्रतिलाभ की मात्रा
+
+द्वारा निर्दिष्ट रंग पैलेट प्रविष्टि*index* .
+
+### अपवाद
+
+| अपवाद | स्थिति |
+| --- | --- |
+| ArgumentOutOfRangeException | अगर रंग पैलेट*index* निर्दिष्ट पैलेट प्रविष्टि सीमा से बाहर है। |
+
+### यह सभी देखें
+
+* struct [Color](../../../aspose.psd/color/)
+* class [PsdColorPalette](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
+* सभा [Aspose.PSD](../../../)
+
+

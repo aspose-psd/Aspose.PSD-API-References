@@ -1,14 +1,14 @@
 ---
-title: SoCoResource
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Classe SoCoResource. Questa risorsa contiene informazioni sui livelli di riempimento colore
+title: Class SoCoResource
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource classe. Class SoCoResource. Questa risorsa contiene informazioni sui livelli di riempimento colore
 type: docs
-weight: 2980
+weight: 3010
 url: /it/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
 ## SoCoResource class
 
-Classe SoCoResource. Questa risorsa contiene informazioni sui livelli di riempimento colore
+Class SoCoResource. Questa risorsa contiene informazioni sui livelli di riempimento colore
 
 ```csharp
 public class SoCoResource : FillLayerResource
@@ -18,34 +18,34 @@ public class SoCoResource : FillLayerResource
 
 | Nome | Descrizione |
 | --- | --- |
-| [SoCoResource](socoresource)() | Inizializza una nuova istanza di[`SoCoResource`](../socoresource) classe. |
+| [SoCoResource](socoresource/)() | Inizializza una nuova istanza di`SoCoResource` classe. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color) { get; set; } | Ottiene il colore RGB . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key) { get; } | Ottiene la chiave della risorsa del livello. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion) { get; } | Ottiene la versione psd minima richiesta per la risorsa di livello. 0 indica nessuna restrizione. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature) { get; } | Ottiene la firma della risorsa del livello. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Ottiene il colore RGB . |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/) { get; } | Ottiene la chiave della risorsa del livello. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Ottiene la lunghezza della risorsa del livello in byte. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/) { get; } | Ottiene la versione PSD minima richiesta per la risorsa del livello. 0 indica nessuna restrizione. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/) { get; } | Ottiene la firma della risorsa del livello. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Restituisce aString che rappresenta questa istanza. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Salva la risorsa nel contenitore del flusso specificato. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Restituisce aString che rappresenta questa istanza. |
 
 ## Campi
 
 | Nome | Descrizione |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey) | Il tipo di chiave info strumento. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Il tasto informazioni dello strumento testo. |
 
 ### Esempi
 
-L'esempio seguente mostra come si modifica SoCoResource (Layer Resource for Colour Fill Layer)
+L'esempio seguente mostra come modificare SoCoResource (Layer Resource for Color Fill Layer)
 
 ```csharp
 [C#]
@@ -60,13 +60,13 @@ using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Ricerca di FillLayer
+        // Individuazione di FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Individuazione di SoCoResource nell'elenco delle risorse di livello
+                // Ricerca di SoCoResource nell'elenco delle risorse del livello
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -94,9 +94,9 @@ using (im)
 
 ### Guarda anche
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [FillLayerResource](../filllayerresource)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [FillLayerResource](../filllayerresource/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

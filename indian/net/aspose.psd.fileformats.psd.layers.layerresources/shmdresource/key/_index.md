@@ -1,0 +1,23 @@
+---
+title: ShmdResource.Key
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: ShmdResource संपत्त. परत संसधन कुंज प्रप्त करत है.
+type: docs
+weight: 20
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/key/
+---
+## ShmdResource.Key property
+
+परत संसाधन कुंजी प्राप्त करता है.
+
+```csharp
+public override int Key { get; }
+```
+
+### यह सभी देखें
+
+* class [ShmdResource](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
+* सभा [Aspose.PSD](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: UnitArrayStructure
+title: Class UnitArrayStructure
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс UnitArrayStructure который содержитDouble массив значений и их единица измерения. Используется в файловых ресурсах PSD обычноObjectArrayStructure./objectarraystructure .
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure сорт. Определяет класс UnitArrayStructure который содержитDouble массив значений и их единица измерения. Используется в файловых ресурсах PSD обычноObjectArrayStructure .
 type: docs
-weight: 3210
+weight: 3270
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
 ## UnitArrayStructure class
 
-Определяет класс UnitArrayStructure, который содержитDouble массив значений и их единица измерения. Используется в файловых ресурсах PSD, обычно[`ObjectArrayStructure`](../objectarraystructure) .
+Определяет класс UnitArrayStructure, который содержитDouble массив значений и их единица измерения. Используется в файловых ресурсах PSD, обычно[`ObjectArrayStructure`](../objectarraystructure/) .
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -18,32 +18,32 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure)(ClassID, UnitTypes, double[]) | Инициализирует новый экземпляр[`UnitArrayStructure`](../unitarraystructure) класс. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Инициализирует новый экземпляр`UnitArrayStructure` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key) { get; } | Получает ключ структуры этого единичного массива. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) длина в байтах. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype) { get; set; } | Получает или задает тип единицы измерения[`UnitArrayStructure`](../unitarraystructure) значения. |
-| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount) { get; } | Получает количество значений. |
-| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values) { get; set; } | Получает или задает значения структуры единичного массива. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Получает ключ структуры этого единичного массива. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Получает или задает имя ключа. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Получает или задает тип единицы измерения`UnitArrayStructure` значения. |
+| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Получает количество значений. |
+| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Получает или задает значения структуры единичного массива. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength)() | Получает длину заголовка. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save)(StreamContainer) | Сохраняет структуру в указанный контейнер потока. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname)(StreamContainer) | Сохраняет структуру в указанный контейнер потока. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Получает длину заголовка. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Сохраняет структуру в указанный контейнер потока. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Сохраняет структуру в указанный контейнер потока. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey) | определяет «UnFl»[`UnitArrayStructure`](../unitarraystructure) ключ. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | определяет «UnFl»`UnitArrayStructure` ключ. |
 
 ### Примеры
 
@@ -101,8 +101,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Смотрите также
 
-* class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures)
+* class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

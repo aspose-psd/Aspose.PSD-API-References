@@ -1,14 +1,14 @@
 ---
-title: Lnk3Resource
+title: Class Lnk3Resource
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Define la clase que contiene información sobre un archivo incrustado en formato PSD de 32 bits por imagen de canal. El recurso de enlace puede contener variosLiFdDataSource./lifddatasource instancias a las que puede acceder indexer.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource clase. Define la clase que contiene información sobre un archivo incrustado en formato PSD de 32 bits por imagen de canal. El recurso de enlace puede contener variosLiFdDataSource instancias a las que puede acceder indexer.
 type: docs
-weight: 2710
+weight: 2730
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/
 ---
 ## Lnk3Resource class
 
-Define la clase que contiene información sobre un archivo incrustado en formato PSD de 32 bits por imagen de canal. El recurso de enlace puede contener varios[`LiFdDataSource`](../lifddatasource) instancias a las que puede acceder indexer.
+Define la clase que contiene información sobre un archivo incrustado en formato PSD de 32 bits por imagen de canal. El recurso de enlace puede contener varios[`LiFdDataSource`](../lifddatasource/) instancias a las que puede acceder indexer.
 
 ```csharp
 public class Lnk3Resource : Lnk2Resource
@@ -18,32 +18,32 @@ public class Lnk3Resource : Lnk2Resource
 
 | Nombre | Descripción |
 | --- | --- |
-| [Lnk3Resource](lnk3resource)() | Inicializa una nueva instancia del[`Lnk3Resource`](../lnk3resource) clase. |
+| [Lnk3Resource](lnk3resource/)() | Inicializa una nueva instancia del`Lnk3Resource` clase. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount) { get; } | Obtiene el recuento de orígenes de datos de vínculos a los que puede acceder el indexador. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | Obtiene un valor que indica si esta instancia de recurso de enlace está vacía. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item) { get; } | Obtiene el[`LiFdDataSource`](../lifddatasource) en el índice especificado. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length) { get; } | Obtiene la longitud del recurso de enlace global PSD en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | Obtiene la versión en formato PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature) { get; } | Obtiene la firma del recurso de enlace global PSD. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Obtiene el recuento de orígenes de datos de vínculos a los que puede acceder el indexador. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Obtiene un valor que indica si esta instancia de recurso de enlace está vacía. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Obtiene el[`LiFdDataSource`](../lifddatasource/) en el índice especificado. (2 indexers) |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/) { get; } | Obtiene la clave de recurso de la capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Obtiene la longitud del recurso de enlace global PSD en bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Obtiene la versión en formato PSD. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Obtiene la firma del recurso de enlace global PSD. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | Guarda los datos del bloque de recursos. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Devuelve unString que representa esta instancia. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Guarda los datos del bloque de recursos. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey) | La clave de información de la herramienta de tipo. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
 ### Ejemplos
 
@@ -246,10 +246,10 @@ ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d
 
 ### Ver también
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [LinkResource](../linkresource)
-* class [Lnk2Resource](../lnk2resource)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [LinkResource](../linkresource/)
+* class [Lnk2Resource](../lnk2resource/)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

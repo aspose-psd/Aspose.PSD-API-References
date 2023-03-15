@@ -1,0 +1,42 @@
+---
+title: IColorConverter.Convert
+second_title: Aspose.PSD لمرجع .NET API
+description: IColorConverter طريقة. تحويل البيانات التي تم تمريرها إلى تنسيق الإخراج.
+type: docs
+weight: 10
+url: /ar/net/aspose.psd/icolorconverter/convert/
+---
+## IColorConverter.Convert method
+
+تحويل البيانات التي تم تمريرها إلى تنسيق الإخراج.
+
+```csharp
+public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
+    int samplesCount, int linesCount, PixelDataFormat destFormat, byte[] outputData, 
+    int outputOffset)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| sourceFormat | PixelDataFormat | تنسيق المصدر. |
+| data | Byte[] | بيانات المصدر. |
+| offset | Int32 | الإزاحة بالبايت حيث يجب أن يبدأ نسخ البيانات. |
+| bitStart | Int32 | البداية. لاحظ أن هذه القيمة ليست قيمة محاذاة للبايت بدلاً من ذلك ، فهذه هي القيمة الفعلية حيث يجب أن يبدأ النسخ. |
+| samplesCount | Int32 | عدد العينات. |
+| linesCount | Int32 | عدد الخطوط. |
+| destFormat | PixelDataFormat | تنسيق الوجهة. |
+| outputData | Byte[] | بيانات الإخراج. |
+| outputOffset | Int32 | إزاحة الإخراج حيث يجب أن يبدأ نسخ البيانات. |
+
+### قيمة الإرجاع
+
+عدد البايت المحول .
+
+### أنظر أيضا
+
+* class [PixelDataFormat](../../pixeldataformat/)
+* interface [IColorConverter](../)
+* مساحة الاسم [Aspose.PSD](../../icolorconverter/)
+* المجسم [Aspose.PSD](../../../)
+
+

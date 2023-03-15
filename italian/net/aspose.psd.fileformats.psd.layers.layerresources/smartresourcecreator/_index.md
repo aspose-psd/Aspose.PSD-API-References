@@ -1,9 +1,9 @@
 ---
-title: SmartResourceCreator
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Definisce la classe SmartResourceCreator che può creare risorse PlLd SoLd e SoLe. Viene utilizzato per supportare i livelli di oggetti intelligenti nelle immagini di Adobe Photoshop.
+title: Class SmartResourceCreator
+second_title: Aspose.PSD per riferimento API .NET
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator classe. Definisce la classe SmartResourceCreator che può creare risorse PlLd SoLd e SoLe. Viene utilizzato per supportare i livelli di oggetti intelligenti nelle immagini di Adobe Photoshop.
 type: docs
-weight: 2970
+weight: 3000
 url: /it/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
 ## SmartResourceCreator class
@@ -18,21 +18,21 @@ public class SmartResourceCreator
 
 | Nome | Descrizione |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator#constructor)() | Inizializza una nuova istanza di[`SmartResourceCreator`](../smartresourcecreator) classe. |
-| [SmartResourceCreator](smartresourcecreator#constructor_1)(PlacedResource) | Inizializza una nuova istanza di[`SmartResourceCreator`](../smartresourcecreator) class con il modello dato. |
-| [SmartResourceCreator](smartresourcecreator#constructor_2)(bool, bool) | Inizializza una nuova istanza di[`SmartResourceCreator`](../smartresourcecreator) classe. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | Inizializza una nuova istanza di`SmartResourceCreator` classe. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Inizializza una nuova istanza di`SmartResourceCreator` class con il modello specificato. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Inizializza una nuova istanza di`SmartResourceCreator` classe. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource)() | Genera la risorsa inserita. |
-| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource)() | Genera la risorsa oggetto intelligente incorporata. |
-| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource)() | Genera la risorsa oggetto smart esterno. |
+| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | Genera la risorsa inserita. |
+| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Genera la risorsa oggetto smart incorporata. |
+| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | Genera la risorsa oggetto smart esterno. |
 
 ### Esempi
 
-Il codice seguente illustra il supporto delle risorse SoLEResource, SmartObjectResource e PlacedResource.
+Il codice seguente dimostra il supporto delle risorse SoLEResource, SmartObjectResource e PlacedResource.
 
 ```csharp
 [C#]
@@ -118,7 +118,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Questo valore non cambia in risorsa
+    // Questi valori non vengono modificati nella risorsa
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -126,11 +126,11 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Questi valori devono essere modificati anche in PlLdResource (con il UniqueId specificato).
-    // e alcuni di essi devono essere in accordo con l'oggetto smart sottolineato nel LinkDataSource
+    // Questi valori devono essere modificati anche in PlLdResource (con l'UniqueId specificato).
+    // e alcuni di essi devono essere in accordo con l'oggetto intelligente sottolineato nel LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
-    resource.AntiAliasPolicy = (int)newValues[4]; // 0;
+    resource.AntiAliasPolicy = (int)newValues[4]; //0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
     resource.Perspective = (double)newValues[8]; // 0,123456789;
@@ -153,7 +153,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Questo ID univoco dovrebbe essere modificato nei riferimenti, se presenti
+    // Questo ID univoco deve essere modificato nei riferimenti, se presenti
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -163,11 +163,11 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Fai attenzione con alcuni parametri: l'immagine salvata potrebbe diventare illeggibile da Adobe® Photoshop®
+    // Fai attenzione ad alcuni parametri: l'immagine salvata potrebbe diventare illeggibile da Adobe® Photoshop®
     ////risorsa.UOrdine = 6;
     ////risorsa.VOrder = 9;
 
-    // Non modificarlo altrimenti non sarai in grado di utilizzare la trasformazione gratuita
+    // Non cambiarlo altrimenti non sarai in grado di usare la trasformazione libera
     // o cambia l'oggetto intelligente sottolineato nel tipo vettoriale
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
@@ -337,10 +337,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Guarda anche
 
-* class [PlLdResource](../plldresource)
-* class [SoLdResource](../soldresource)
-* class [SoLeResource](../soleresource)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [PlLdResource](../plldresource/)
+* class [SoLdResource](../soldresource/)
+* class [SoLeResource](../soleresource/)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assemblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

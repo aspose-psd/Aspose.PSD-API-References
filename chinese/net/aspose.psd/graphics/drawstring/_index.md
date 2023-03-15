@@ -1,14 +1,14 @@
 ---
-title: DrawString
+title: Graphics.DrawString
 second_title: Aspose.PSD for .NET API 参考
-description: 在指定位置绘制指定文本字符串Brushaspose.psd/brush和Fontaspose.psd/font对象.
+description: Graphics 方法. 在指定位置用指定的字符绘制指定的文本字符串Brush和Font对象.
 type: docs
 weight: 320
 url: /zh/net/aspose.psd/graphics/drawstring/
 ---
 ## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-在指定位置绘制指定文本字符串[`Brush`](../../brush)和[`Font`](../../font)对象.
+在指定位置用指定的字符绘制指定的文本字符串[`Brush`](../../brush/)和[`Font`](../../font/)对象.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
@@ -17,8 +17,8 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
-| font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
+| font | Font | [`Font`](../../font/)定义字符串的文本格式。 |
+| brush | Brush | [`Brush`](../../brush/)确定绘制文本的颜色和纹理。 |
 | x | Single | 绘制文本左上角的 x 坐标。 |
 | y | Single | 绘制文本左上角的 y 坐标。 |
 
@@ -30,17 +30,17 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 ### 也可以看看
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-在指定位置绘制指定文本字符串[`Brush`](../../brush)和[`Font`](../../font)对象.
+在指定位置用指定的字符绘制指定的文本字符串[`Brush`](../../brush/)和[`Font`](../../font/)对象.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
@@ -49,9 +49,9 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
-| font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
-| point | PointF | [`PointF`](../../pointf)结构，指定绘制文本的左上角。 |
+| font | Font | [`Font`](../../font/)定义字符串的文本格式。 |
+| brush | Brush | [`Brush`](../../brush/)确定绘制文本的颜色和纹理。 |
+| point | PointF | [`PointF`](../../pointf/)指定绘制文本左上角的结构。 |
 
 ### 例外
 
@@ -61,21 +61,21 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 
 ### 例子
 
-这个例子演示了使用 Font 和 SolidBrush 类在 Image 表面上绘制字符串。该示例使用 Figures 和 GraphicsPath 创建一个新的图像并绘制形状
+此示例演示了使用 Font 和 SolidBrush 类在 Image 表面上绘制字符串。该示例创建一个新图像并使用 Figures 和 GraphicsPath 绘制形状
 
 ```csharp
 [C#]
 
-//创建一个Image实例
+//创建图像实例
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //创建并初始化一个Graphics类的实例
+    //创建并初始化Graphics类的实例
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
     //清除图形表面
     graphics.Clear(Color.Wheat);
 
-    //创建一个字体实例
+    //创建字体实例
     Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
 
     //创建一个具有红色的 SolidBrush 实例
@@ -94,18 +94,18 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### 也可以看看
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-在指定位置绘制指定文本字符串[`Brush`](../../brush)和[`Font`](../../font)使用指定格式属性的对象[`StringFormat`](../../stringformat) .
+在指定位置用指定的字符绘制指定的文本字符串[`Brush`](../../brush/)和[`Font`](../../font/)使用指定格式属性的对象[`StringFormat`](../../stringformat/) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
@@ -114,11 +114,11 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
-| font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
+| font | Font | [`Font`](../../font/)定义字符串的文本格式。 |
+| brush | Brush | [`Brush`](../../brush/)确定绘制文本的颜色和纹理。 |
 | x | Single | 绘制文本左上角的 x 坐标。 |
 | y | Single | 绘制文本左上角的 y 坐标。 |
-| format | StringFormat | [`StringFormat`](../../stringformat)指定应用于绘制文本的格式属性，例如行间距和对齐方式。 |
+| format | StringFormat | [`StringFormat`](../../stringformat/)指定应用于绘制文本的格式属性，例如行间距和对齐方式。 |
 
 ### 例外
 
@@ -128,18 +128,18 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 ### 也可以看看
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-在指定位置绘制指定文本字符串[`Brush`](../../brush)和[`Font`](../../font)使用指定格式属性的对象[`StringFormat`](../../stringformat) .
+在指定位置用指定的字符绘制指定的文本字符串[`Brush`](../../brush/)和[`Font`](../../font/)使用指定格式属性的对象[`StringFormat`](../../stringformat/) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
@@ -148,10 +148,10 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
-| font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
-| point | PointF | [`PointF`](../../pointf)结构，指定绘制文本的左上角。 |
-| format | StringFormat | [`StringFormat`](../../stringformat)指定应用于绘制文本的格式属性，例如行间距和对齐方式。 |
+| font | Font | [`Font`](../../font/)定义字符串的文本格式。 |
+| brush | Brush | [`Brush`](../../brush/)确定绘制文本的颜色和纹理。 |
+| point | PointF | [`PointF`](../../pointf/)指定绘制文本左上角的结构。 |
+| format | StringFormat | [`StringFormat`](../../stringformat/)指定应用于绘制文本的格式属性，例如行间距和对齐方式。 |
 
 ### 例外
 
@@ -161,19 +161,19 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 ### 也可以看看
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-用指定的矩形在指定的矩形中绘制指定的文本字符串[`Brush`](../../brush)和[`Font`](../../font)对象.
+在指定矩形内绘制指定文本字符串[`Brush`](../../brush/)和[`Font`](../../font/)对象.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
@@ -182,9 +182,9 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
-| font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef)指定绘制文本位置的结构。 |
+| font | Font | [`Font`](../../font/)定义字符串的文本格式。 |
+| brush | Brush | [`Brush`](../../brush/)确定绘制文本的颜色和纹理。 |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/)指定绘制文本位置的结构。 |
 
 ### 例外
 
@@ -194,18 +194,18 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ### 也可以看看
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-用指定的矩形在指定的矩形中绘制指定的文本字符串[`Brush`](../../brush)和[`Font`](../../font)使用指定格式属性的对象[`StringFormat`](../../stringformat) .
+在指定矩形内绘制指定文本字符串[`Brush`](../../brush/)和[`Font`](../../font/)使用指定格式属性的对象[`StringFormat`](../../stringformat/) .
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
@@ -215,10 +215,10 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | s | String | 要绘制的字符串。 |
-| font | Font | [`Font`](../../font)定义字符串的文本格式。 |
-| brush | Brush | [`Brush`](../../brush)它决定了绘制文本的颜色和纹理。 |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef)指定绘制文本位置的结构。 |
-| format | StringFormat | [`StringFormat`](../../stringformat)指定应用于绘制文本的格式属性，例如行间距和对齐方式。 |
+| font | Font | [`Font`](../../font/)定义字符串的文本格式。 |
+| brush | Brush | [`Brush`](../../brush/)确定绘制文本的颜色和纹理。 |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/)指定绘制文本位置的结构。 |
+| format | StringFormat | [`StringFormat`](../../stringformat/)指定应用于绘制文本的格式属性，例如行间距和对齐方式。 |
 
 ### 例外
 
@@ -228,12 +228,12 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ### 也可以看看
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* 命名空间 [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* 命名空间 [Aspose.PSD](../../graphics/)
 * 部件 [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

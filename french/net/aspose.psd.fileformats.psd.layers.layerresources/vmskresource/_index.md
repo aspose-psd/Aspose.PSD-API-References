@@ -1,9 +1,9 @@
 ---
-title: VmskResource
+title: Class VmskResource
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Classe VmskResource. Cette ressource contient des informations sur le masque de couche vectorielle
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VmskResource classe. Classe VmskResource. Cette ressource contient des informations sur le masque de couche vectorielle
 type: docs
-weight: 3300
+weight: 3360
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/
 ---
 ## VmskResource class
@@ -18,35 +18,35 @@ public class VmskResource : VectorPathDataResource
 
 | Nom | La description |
 | --- | --- |
-| [VmskResource](vmskresource#constructor)() | Initialise une nouvelle instance du[`VmskResource`](../vmskresource) classe. |
-| [VmskResource](vmskresource#constructor_1)(byte[]) | Initialise une nouvelle instance du[`VmskResource`](../vmskresource) classe. |
+| [VmskResource](vmskresource/#constructor)() | Initialise une nouvelle instance du`VmskResource` classe. |
+| [VmskResource](vmskresource/#constructor_1)(byte[]) | Initialise une nouvelle instance du`VmskResource` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est désactivée. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est inversée. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked) { get; set; } | Obtient ou définit une valeur indiquant si cette instance n'est pas liée. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vmskresource/key) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths) { get; set; } | Obtient ou définit les enregistrements de chemin. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature) { get; } | Obtient la signature. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version) { get; set; } | Obtient ou définit la version. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est désactivée. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est inversée. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance n'est pas liée. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vmskresource/key/) { get; } | Obtient la clé de ressource de couche. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
+| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Obtient ou définit les enregistrements de chemin. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | Obtient la version psd. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | Obtient la signature. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Obtient ou définit la version. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Renvoie unString qui représente cette instance. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vmskresource/typetoolkey) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vmskresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
 
 ### Exemples
 
@@ -129,9 +129,9 @@ private VmskResource GetVmskResource(PsdImage image)
 
 ### Voir également
 
-* class [VectorPathDataResource](../vectorpathdataresource)
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [VectorPathDataResource](../vectorpathdataresource/)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

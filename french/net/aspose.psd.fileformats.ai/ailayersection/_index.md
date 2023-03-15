@@ -1,7 +1,7 @@
 ---
-title: AiLayerSection
+title: Class AiLayerSection
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: La section de couche au format Ai
+description: Aspose.PSD.FileFormats.Ai.AiLayerSection classe. La section de couche au format Ai
 type: docs
 weight: 1270
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/
@@ -18,28 +18,28 @@ public sealed class AiLayerSection : AiDataSection
 
 | Nom | La description |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue) { get; set; } | Obtient ou définit la composante de couleur bleue. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber) { get; set; } | Obtient ou définit le numéro de couleur. -1 est la valeur de couleur personnalisée des propriétés Rouge, Vert, Bleu. Spécifie le paramètre de couleur du calque. |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue) { get; set; } | Obtient ou définit la valeur dim sous forme de pourcentage. Réduit l'intensité des images liées et des images bitmap contenues dans le calque au pourcentage spécifié. |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Obtient une valeur indiquant si cette instance est supprimée. |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green) { get; set; } | Obtient ou définit le composant de couleur verte. |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est estompé. Réduit l'intensité des images liées et des images bitmap contenues dans le calque. |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est verrouillé. Empêche les modifications de l'élément. |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est un aperçu. Affiche l'illustration contenue dans le calque en couleur plutôt qu'en contours. |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est imprimé. Rend l'illustration contenue dans le calque imprimable si vrai. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est affiché. Affiche toutes les illustrations contenues dans le calque sur la planche graphique si vrai. |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est un calque de modèle. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name) { get; set; } | Obtient ou définit le nom du calque. Spécifie le nom de l'élément tel qu'il apparaît dans le panneau Calques. |
-| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages) { get; } | Obtient les images raster. |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red) { get; set; } | Obtient ou définit le composant de couleur rouge. |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Obtient ou définit la composante de couleur bleue. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Obtient ou définit le numéro de couleur. -1 est la valeur de couleur personnalisée des propriétés Rouge, Vert, Bleu. Spécifie le paramètre de couleur du calque. |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Obtient ou définit la valeur dim sous forme de pourcentage. Réduit l'intensité des images liées et des images bitmap contenues dans le calque au pourcentage spécifié. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtient une valeur indiquant si cette instance est supprimée. |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Obtient ou définit le composant de couleur verte. |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est estompé. Réduit l'intensité des images liées et des images bitmap contenues dans le calque. |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est verrouillé. Empêche les modifications de l'élément. |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est un aperçu. Affiche l'illustration contenue dans le calque en couleur plutôt qu'en contours. |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est imprimé. Rend l'illustration contenue dans le calque imprimable si vrai. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est affiché. Affiche toutes les illustrations contenues dans le calque sur la planche graphique si vrai. |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Obtient ou définit une valeur indiquant si ce calque est un calque de modèle. |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Obtient ou définit le nom du calque. Spécifie le nom de l'élément tel qu'il apparaît dans le panneau Calques. |
+| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | Obtient les images raster. |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Obtient ou définit le composant de couleur rouge. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage)(AiRasterImageSection) | Ajoute l'image raster. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Supprime l'instance actuelle. |
-| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata)() | Obtient les données de chaîne. |
+| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | Ajoute l'image raster. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Supprime l'instance actuelle. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Obtient les données de chaîne. |
 
 ### Exemples
 
@@ -88,8 +88,8 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 ### Voir également
 
-* class [AiDataSection](../aidatasection)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai)
+* class [AiDataSection](../aidatasection/)
+* espace de noms [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

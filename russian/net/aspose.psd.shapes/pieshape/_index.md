@@ -1,9 +1,9 @@
 ---
-title: PieShape
+title: Class PieShape
 second_title: Справочник по Aspose.PSD для .NET API
-description: Представляет форму круга.
+description: Aspose.PSD.Shapes.PieShape сорт. Представляет форму круга.
 type: docs
-weight: 5430
+weight: 5500
 url: /ru/net/aspose.psd.shapes/pieshape/
 ---
 ## PieShape class
@@ -18,33 +18,33 @@ public class PieShape : EllipseShape
 
 | Имя | Описание |
 | --- | --- |
-| [PieShape](pieshape#constructor)() | Инициализирует новый экземпляр[`PieShape`](../pieshape) класс. |
-| [PieShape](pieshape#constructor_1)(RectangleF, float, float) | Инициализирует новый экземпляр[`PieShape`](../pieshape) класс. |
+| [PieShape](pieshape/#constructor)() | Инициализирует новый экземпляр`PieShape` класс. |
+| [PieShape](pieshape/#constructor_1)(RectangleF, float, float) | Инициализирует новый экземпляр`PieShape` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds) { get; } | Получает границы объекта. |
-| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center) { get; } | Получает центр фигуры. |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments) { get; } | Получает значение, указывающее, есть ли у фигуры сегменты. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom) { get; } | Получает точку левого нижнего прямоугольника. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop) { get; } | Получает левую верхнюю точку прямоугольника. |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight) { get; } | Получает высоту прямоугольника. |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth) { get; } | Получает ширину прямоугольника. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom) { get; } | Получает правую нижнюю точку прямоугольника. |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop) { get; } | Получает правую верхнюю точку прямоугольника. |
-| override [Segments](../../aspose.psd.shapes/pieshape/segments) { get; } | Получает сегменты формы. |
-| [StartAngle](../../aspose.psd.shapes/pieshape/startangle) { get; set; } | Получает или задает начальный угол. |
-| [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle) { get; set; } | Получает или задает угол развертки. |
+| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | Получает границы объекта. |
+| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Получает центр фигуры. |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Получает значение, указывающее, есть ли у фигуры сегменты. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Получает точку левого нижнего прямоугольника. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Получает левую верхнюю точку прямоугольника. |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Получает высоту прямоугольника. |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Получает ширину прямоугольника. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Получает правую нижнюю точку прямоугольника. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Получает правую верхнюю точку прямоугольника. |
+| override [Segments](../../aspose.psd.shapes/pieshape/segments/) { get; } | Получает сегменты формы. |
+| [StartAngle](../../aspose.psd.shapes/pieshape/startangle/) { get; set; } | Получает или задает начальный угол. |
+| [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle/) { get; set; } | Получает или задает угол развертки. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds)(Matrix) | Получает границы объекта. |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds)(Matrix, Pen) | Получает границы объекта. |
-| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform)(Matrix) | Применяет указанное преобразование к фигуре. |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/)(Matrix) | Получает границы объекта. |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/)(Matrix, Pen) | Получает границы объекта. |
+| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | Применяет указанное преобразование к фигуре. |
 
 ### Примеры
 
@@ -96,8 +96,8 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### Смотрите также
 
-* class [EllipseShape](../ellipseshape)
-* пространство имен [Aspose.PSD.Shapes](../../aspose.psd.shapes)
+* class [EllipseShape](../ellipseshape/)
+* пространство имен [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

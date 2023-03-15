@@ -1,9 +1,9 @@
 ---
-title: JpegOptions
+title: Class JpegOptions
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Las opciones de creación de formato de archivo jpeg.
+description: Aspose.PSD.ImageOptions.JpegOptions clase. Las opciones de creación de formato de archivo jpeg.
 type: docs
-weight: 4770
+weight: 4840
 url: /es/net/aspose.psd.imageoptions/jpegoptions/
 ---
 ## JpegOptions class
@@ -18,50 +18,50 @@ public class JpegOptions : ImageOptionsBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [JpegOptions](jpegoptions#constructor)() | Inicializa una nueva instancia del[`JpegOptions`](../jpegoptions) clase. |
-| [JpegOptions](jpegoptions#constructor_1)(JpegOptions) | Inicializa una nueva instancia del[`JpegOptions`](../jpegoptions) clase. |
+| [JpegOptions](jpegoptions/#constructor)() | Inicializa una nueva instancia del`JpegOptions` clase. |
+| [JpegOptions](jpegoptions/#constructor_1)(JpegOptions) | Inicializa una nueva instancia del`JpegOptions` clase. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BitsPerChannel](../../aspose.psd.imageoptions/jpegoptions/bitsperchannel) { get; set; } | Obtiene o establece bits por canal para una imagen jpeg sin pérdidas. Ahora admitimos de 2 a 8 bits por canal. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Obtiene o establece la sugerencia de tamaño de búfer que se define como el tamaño máximo permitido para todos los búferes internos. |
-| [CmykColorProfile](../../aspose.psd.imageoptions/jpegoptions/cmykcolorprofile) { get; set; } | El perfil de color CMYK de destino para imágenes jpeg CMYK. Úselo para guardar imágenes. Debe estar en pareja con RGBColorProfile para una conversión de color correcta. |
-| [ColorType](../../aspose.psd.imageoptions/jpegoptions/colortype) { get; set; } | Obtiene o establece el tipo de color para la imagen jpeg. |
-| [Comment](../../aspose.psd.imageoptions/jpegoptions/comment) { get; set; } | Obtiene o establece el comentario del archivo jpeg. |
-| [CompressionType](../../aspose.psd.imageoptions/jpegoptions/compressiontype) { get; set; } | Obtiene o establece el tipo de compresión. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Obtiene o establece la fuente de reemplazo predeterminada (fuente que se usará para dibujar texto al exportar a ráster, si la fuente de capa existente en el archivo PSD no se presenta en el sistema). Para tomar el nombre correcto de la fuente predeterminada, se puede usar el siguiente fragmento de código : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] familias = col.Familias; string defaultFontName = familias[0].Nombre; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Obtiene un valor que indica si esta instancia se desecha. |
-| [ExifData](../../aspose.psd.imageoptions/jpegoptions/exifdata) { get; set; } | Obtener o configurar el contenedor de datos exif |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Obtiene o establece un valor que indica si [fotograma completo]. |
-| [HorizontalSampling](../../aspose.psd.imageoptions/jpegoptions/horizontalsampling) { get; set; } | Obtiene o establece los submuestreos horizontales para cada componente. |
-| [Jfif](../../aspose.psd.imageoptions/jpegoptions/jfif) { get; set; } | Obtiene o establece el jfif. |
-| [JpegLsAllowedLossyError](../../aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror) { get; set; } | Obtiene o establece el límite de diferencia de JPEG-LS para la codificación casi sin pérdidas (parámetro NEAR de la especificación JPEG-LS). |
-| [JpegLsInterleaveMode](../../aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode) { get; set; } | Obtiene o establece el modo de intercalado JPEG-LS. |
-| [JpegLsPreset](../../aspose.psd.imageoptions/jpegoptions/jpeglspreset) { get; set; } | Obtiene o establece los parámetros predeterminados de JPEG-LS. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Las opciones multipágina |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Obtiene o establece la paleta de colores. |
-| [PreblendAlphaIfPresent](../../aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent) { get; set; } | Obtiene o establece un valor que indica si los componentes rojo, verde y azul se deben mezclar con un color de fondo, si el canal alfa está presente. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Obtiene o establece el controlador de eventos de progreso. |
-| [Quality](../../aspose.psd.imageoptions/jpegoptions/quality) { get; set; } | Obtiene o establece la calidad de la imagen. |
-| [RdOptSettings](../../aspose.psd.imageoptions/jpegoptions/rdoptsettings) { get; set; } | Obtiene o establece la configuración del optimizador de Escritorio remoto. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Obtiene o establece la configuración de resolución. |
-| [ResolutionUnit](../../aspose.psd.imageoptions/jpegoptions/resolutionunit) { get; set; } | Obtiene o establece la unidad de resolución. |
-| [RgbColorProfile](../../aspose.psd.imageoptions/jpegoptions/rgbcolorprofile) { get; set; } | El perfil de color RGB de destino para imágenes jpeg CMYK. Úselo para guardar imágenes. Debe estar en pareja con CMYKColorProfile para una conversión de color correcta. |
-| [SampleRoundingMode](../../aspose.psd.imageoptions/jpegoptions/sampleroundingmode) { get; set; } | Obtiene o establece el modo de redondeo de muestra para ajustar un valor de 8 bits a un valor de n bits.BitsPerChannel |
-| [ScaledQuality](../../aspose.psd.imageoptions/jpegoptions/scaledquality) { get; } | La calidad escalada. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Obtiene o establece la fuente para crear la imagen en. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Obtiene o establece las opciones de rasterización de vectores. |
-| [VerticalSampling](../../aspose.psd.imageoptions/jpegoptions/verticalsampling) { get; set; } | Obtiene o establece los submuestreos verticales para cada componente. |
-| override [XmpData](../../aspose.psd.imageoptions/jpegoptions/xmpdata) { get; set; } | Obtiene o establece el contenedor de metadatos XMP. |
+| [BitsPerChannel](../../aspose.psd.imageoptions/jpegoptions/bitsperchannel/) { get; set; } | Obtiene o establece bits por canal para una imagen jpeg sin pérdidas. Ahora admitimos de 2 a 8 bits por canal. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Obtiene o establece la sugerencia de tamaño de búfer que se define como el tamaño máximo permitido para todos los búferes internos. |
+| [CmykColorProfile](../../aspose.psd.imageoptions/jpegoptions/cmykcolorprofile/) { get; set; } | El perfil de color CMYK de destino para imágenes jpeg CMYK. Úselo para guardar imágenes. Debe estar en pareja con RGBColorProfile para una conversión de color correcta. |
+| [ColorType](../../aspose.psd.imageoptions/jpegoptions/colortype/) { get; set; } | Obtiene o establece el tipo de color para la imagen jpeg. |
+| [Comment](../../aspose.psd.imageoptions/jpegoptions/comment/) { get; set; } | Obtiene o establece el comentario del archivo jpeg. |
+| [CompressionType](../../aspose.psd.imageoptions/jpegoptions/compressiontype/) { get; set; } | Obtiene o establece el tipo de compresión. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Obtiene o establece la fuente de reemplazo predeterminada (fuente que se usará para dibujar texto al exportar a ráster, si la fuente de capa existente en el archivo PSD no se presenta en el sistema). Para tomar el nombre correcto de la fuente predeterminada, se puede usar el siguiente fragmento de código : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] familias = col.Familias; string defaultFontName = familias[0].Nombre; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtiene un valor que indica si esta instancia se desecha. |
+| [ExifData](../../aspose.psd.imageoptions/jpegoptions/exifdata/) { get; set; } | Obtener o configurar el contenedor de datos exif |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Obtiene o establece un valor que indica si [fotograma completo]. |
+| [HorizontalSampling](../../aspose.psd.imageoptions/jpegoptions/horizontalsampling/) { get; set; } | Obtiene o establece los submuestreos horizontales para cada componente. |
+| [Jfif](../../aspose.psd.imageoptions/jpegoptions/jfif/) { get; set; } | Obtiene o establece el jfif. |
+| [JpegLsAllowedLossyError](../../aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror/) { get; set; } | Obtiene o establece el límite de diferencia de JPEG-LS para la codificación casi sin pérdidas (parámetro NEAR de la especificación JPEG-LS). |
+| [JpegLsInterleaveMode](../../aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode/) { get; set; } | Obtiene o establece el modo de intercalado JPEG-LS. |
+| [JpegLsPreset](../../aspose.psd.imageoptions/jpegoptions/jpeglspreset/) { get; set; } | Obtiene o establece los parámetros predeterminados de JPEG-LS. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Las opciones multipágina |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Obtiene o establece la paleta de colores. |
+| [PreblendAlphaIfPresent](../../aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/) { get; set; } | Obtiene o establece un valor que indica si los componentes rojo, verde y azul se deben mezclar con un color de fondo, si el canal alfa está presente. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Obtiene o establece el controlador de eventos de progreso. |
+| [Quality](../../aspose.psd.imageoptions/jpegoptions/quality/) { get; set; } | Obtiene o establece la calidad de la imagen. |
+| [RdOptSettings](../../aspose.psd.imageoptions/jpegoptions/rdoptsettings/) { get; set; } | Obtiene o establece la configuración del optimizador de Escritorio remoto. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Obtiene o establece la configuración de resolución. |
+| [ResolutionUnit](../../aspose.psd.imageoptions/jpegoptions/resolutionunit/) { get; set; } | Obtiene o establece la unidad de resolución. |
+| [RgbColorProfile](../../aspose.psd.imageoptions/jpegoptions/rgbcolorprofile/) { get; set; } | El perfil de color RGB de destino para imágenes jpeg CMYK. Úselo para guardar imágenes. Debe estar en pareja con CMYKColorProfile para una conversión de color correcta. |
+| [SampleRoundingMode](../../aspose.psd.imageoptions/jpegoptions/sampleroundingmode/) { get; set; } | Obtiene o establece el modo de redondeo de muestra para ajustar un valor de 8 bits a un valor de n bits.BitsPerChannel |
+| [ScaledQuality](../../aspose.psd.imageoptions/jpegoptions/scaledquality/) { get; } | La calidad escalada. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Obtiene o establece la fuente para crear la imagen en. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Obtiene o establece las opciones de rasterización de vectores. |
+| [VerticalSampling](../../aspose.psd.imageoptions/jpegoptions/verticalsampling/) { get; set; } | Obtiene o establece los submuestreos verticales para cada componente. |
+| override [XmpData](../../aspose.psd.imageoptions/jpegoptions/xmpdata/) { get; set; } | Obtiene o establece el contenedor de metadatos XMP. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Clona esta instancia. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Elimina la instancia actual. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Clona esta instancia. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Elimina la instancia actual. |
 
 ### Ejemplos
 
@@ -137,8 +137,8 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 
 ### Ver también
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* espacio de nombres [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

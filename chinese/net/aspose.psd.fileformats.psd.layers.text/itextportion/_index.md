@@ -1,9 +1,9 @@
 ---
-title: ITextPortion
+title: Interface ITextPortion
 second_title: Aspose.PSD for .NET API 参考
-description: 操作文本部分的接口
+description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextPortion 界面. 操作文本部分的接口
 type: docs
-weight: 3470
+weight: 3530
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextportion/
 ---
 ## ITextPortion interface
@@ -18,13 +18,13 @@ public interface ITextPortion
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Paragraph](../../aspose.psd.fileformats.psd.layers.text/itextportion/paragraph) { get; } | 设置样式。 |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/itextportion/style) { get; } | 获取样式。 |
-| [Text](../../aspose.psd.fileformats.psd.layers.text/itextportion/text) { get; set; } | 获取或设置文本。 |
+| [Paragraph](../../aspose.psd.fileformats.psd.layers.text/itextportion/paragraph/) { get; } | 设置样式。 |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/itextportion/style/) { get; } | 获取样式。 |
+| [Text](../../aspose.psd.fileformats.psd.layers.text/itextportion/text/) { get; set; } | 获取或设置文本。 |
 
 ### 例子
 
-下面的示例演示了通过 ITextPortion 的从右到左语言的文本对齐工作正常。
+以下示例演示了通过 ITextPortion 对从右到左的语言进行的文本对齐可以正常工作。
 
 ```csharp
 [C#]
@@ -44,7 +44,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-以下示例演示了如何在 Aspose.PSD 的一个文本层中呈现不同的样式
+下面的示例演示了如何在 Aspose.PSD 中的一个文本层中呈现不同的样式
 
 ```csharp
 [C#]
@@ -73,11 +73,11 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // 编辑文本样式“E=mc”
+    newPortions[0].Style.Underline = true; // 编辑文本样式 "E=mc"
     newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // 编辑文本样式 "2\r"
     newPortions[2].Style.FauxBold = true; // 编辑文本样式“粗体”
-    newPortions[3].Style.FauxItalic = true; // 编辑文本样式“斜体\r”
-    newPortions[3].Style.BaselineShift = -25; // 编辑文本样式“斜体\r”
+    newPortions[3].Style.FauxItalic = true; // 编辑文本样式 "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // 编辑文本样式 "Italic\r"
     newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // 编辑文本样式“小写文本”
 
     foreach (var newPortion in newPortions)
@@ -103,7 +103,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // 旧 API（使用首段字体）
+    // 旧 API（使用第一段字体）
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -115,7 +115,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("Font size was read incorrect");
     }
 
-    // 检查实际字体大小
+    // 检查真实字体大小
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -126,13 +126,13 @@ using (var image = Image.Load(filePath))
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // 检查基本部分的字体大小
+    // 检查基本部分字体大小
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // 检查实际部分字体大小
+    // 检查实部字体大小
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -140,7 +140,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-下面的代码示例演示了编辑文本部分及其文本样式。
+以下代码示例演示了编辑文本部分及其文本样式。
 
 ```csharp
 [C#]
@@ -163,7 +163,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 检查每个部分的文本
+            // 检查每一部分的文本
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -183,7 +183,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            //第一段和第二段的所有其他属性相等
+            // 第一段和第二段的所有其他属性都相等
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -259,7 +259,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // 删除文本部分的示例
+            // 文本部分删除示例
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
@@ -276,7 +276,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // 每种样式的颜色不同。将更改，但不完全支持渲染
+            // 每种样式的不同颜色。将更改，但不完全支持渲染
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
@@ -298,7 +298,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### 也可以看看
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

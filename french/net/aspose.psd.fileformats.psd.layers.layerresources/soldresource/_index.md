@@ -1,9 +1,9 @@
 ---
-title: SoLdResource
+title: Class SoLdResource
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Définit la classe SoLdResource qui contient des informations sur un calque dobjet intelligent dans un fichier PSD. Est utilisé pour prendre en charge les calques dobjet intelligent dans les images Adobe Photoshop.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLdResource classe. Définit la classe SoLdResource qui contient des informations sur un calque dobjet intelligent dans un fichier PSD. Est utilisé pour prendre en charge les calques dobjet intelligent dans les images Adobe Photoshop.
 type: docs
-weight: 2990
+weight: 3020
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/
 ---
 ## SoLdResource class
@@ -18,68 +18,68 @@ public class SoLdResource : SmartObjectResource
 
 | Nom | La description |
 | --- | --- |
-| [SoLdResource](soldresource#constructor)() | Initialise une nouvelle instance du[`SoLdResource`](../soldresource) class. Ce constructeur par défaut est conçu pour être utilisé parSoLdResourceLoader . Utilisation[`SmartResourceCreator`](../smartresourcecreator) pour créer des classes SoLdResource. |
-| [SoLdResource](soldresource#constructor_1)(Guid, bool, bool) | Initialise une nouvelle instance du[`SoLdResource`](../soldresource) class. Il est nécessaire de définir la propriété Items ou d'appeler InitializeItems() pour obtenir une instance prête. Ce constructeur est conçu pour être utilisé par[`SmartResourceCreator`](../smartresourcecreator) et dans les tests unitaires. Utilisation[`SmartResourceCreator`](../smartresourcecreator) pour créer des classes SoLdResource. |
+| [SoLdResource](soldresource/#constructor)() | Initialise une nouvelle instance du`SoLdResource` class. Ce constructeur par défaut est conçu pour être utilisé parSoLdResourceLoader . Utilisation[`SmartResourceCreator`](../smartresourcecreator/) pour créer des classes SoLdResource. |
+| [SoLdResource](soldresource/#constructor_1)(Guid, bool, bool) | Initialise une nouvelle instance du`SoLdResource` class. Il est nécessaire de définir la propriété Items ou d'appeler InitializeItems() pour obtenir une instance prête. Ce constructeur est conçu pour être utilisé par[`SmartResourceCreator`](../smartresourcecreator/) et dans les tests unitaires. Utilisation[`SmartResourceCreator`](../smartresourcecreator/) pour créer des classes SoLdResource. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy) { get; set; } | Obtient ou définit la politique anti-alias des données de la couche d'objet intelligent dans l'image PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom) { get; set; } | Obtient ou définit l'emplacement inférieur du calque placé dans l'image PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds) { get; set; } | Obtient ou définit les limites du calque placé dans le fichier PSD. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp) { get; set; } | Obtient ou définit la valeur comp des données de la couche d'objet intelligent dans le fichier PSD. [Compositions de calques dans les objets intelligents](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid) { get; set; } | Obtient ou définit l'ID de la composition actuellement sélectionnée pour le document enfant, qui sera -1 si aucune n'est sélectionnée. Les compositions sont des compositions d'une mise en page que les concepteurs peuvent créer. Grâce aux compositions de calques, vous pouvez créer, gérer et afficher plusieurs versions d'une mise en page dans un seul fichier Adobe® Photoshop®. Une composition de calque est un instantané d'un état du panneau Calques. Les compositions de calque enregistrent trois types d'options de calque mais cette propriété obtient l'identifiant de sélection de la composition de calque pour le calque d'objet intelligent dans le fichier PSD. [Compositions de calques dans les objets intelligents](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop) { get; set; } | Obtient ou définit le recadrage des données de la couche d'objet intelligent dans l'image PSD. |
-| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator) { get; set; } | Obtient ou définit le dénominateur de durée. |
-| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator) { get; set; } | Obtient ou définit le numérateur de durée. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount) { get; set; } | Obtient ou définit le nombre d'images des données de la couche d'objet intelligent dans le fichier PSD. |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator) { get; set; } | Obtient ou définit le dénominateur de pas de trame. |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator) { get; set; } | Obtient ou définit le numérateur de pas de trame. |
-| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height) { get; set; } | Obtient ou définit la hauteur. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage horizontaux. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom) { get; set; } | Obtient ou définit une valeur indiquant si ce style de déformation d'instance est personnalisé. Si vrai, il contient des points de maillage. Si défini sur false, il efface les points de maillage. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items) { get; set; } | Obtient ou définit les éléments de descripteur des données de la couche d'objets intelligents dans le fichier PSD. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/key) { get; } | Obtient la clé de ressource de la couche d'objet intelligent SoLd. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left) { get; set; } | Obtient ou définit l'emplacement de gauche du calque placé dans le fichier PSD. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length) { get; } | Obtient la longueur de la ressource d'objet intelligent en octets. |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix) { get; set; } | Obtient ou définit la matrice de transformation non affine des données de la couche d'objet intelligent dans le fichier PSD. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid) { get; } | Obtient l'ID d'origine de la composition actuellement sélectionnée pour le document enfant, qui sera -1 si aucune n'est sélectionnée. Cette propriété obtient l'identifiant de sélection de composition de calque d'origine pour le calque d'objet intelligent dans le fichier PSD. [Compositions de calques dans les objets intelligents](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber) { get; set; } | Obtient ou définit le numéro de page des données de la couche d'objet intelligent dans le fichier PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective) { get; set; } | Obtient ou définit la valeur de perspective du calque placé dans le fichier PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother) { get; set; } | Obtient ou définit l'autre valeur de perspective du calque placé dans le fichier PSD. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid) { get; set; } | Obtient ou définit l'identifiant unique de ces données de couche d'objet intelligent dans l'image PSD. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype) { get; set; } | Obtient ou définit le type des données de la couche d'objet intelligent dans le fichier PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion) { get; } | Obtient la version psd minimale requise pour la ressource d'objet intelligent. 0 indique aucune restriction. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution) { get; set; } | Obtient ou définit la résolution des données de la couche d'objet intelligent dans le fichier PSD. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit) { get; set; } | Obtient ou définit l'unité de mesure de résolution des données de la couche d'objet intelligent dans le fichier PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right) { get; set; } | Obtient ou définit le bon emplacement du calque placé dans le fichier PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature) { get; } | Obtient la signature de ressource d'objet intelligent. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top) { get; set; } | Obtient ou définit l'emplacement supérieur du calque placé dans l'image PSD. |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages) { get; set; } | Obtient ou définit le nombre total de pages des données de la couche d'objet intelligent dans le fichier PSD. |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix) { get; set; } | Obtient ou définit la matrice de transformation des données de la couche d'objet intelligent dans le fichier PSD. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid) { get; set; } | Obtient ou définit l'identifiant unique global des données de la couche d'objets intelligents[`SmartObjectResource`](../smartobjectresource) dans l'image PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder) { get; set; } | Obtient ou définit la valeur d'ordre U du calque placé dans le fichier PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value) { get; set; } | Obtient ou définit la valeur de déformation du calque placé dans l'image PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version) { get; } | Obtient la version du calque placé dans le fichier PSD, généralement 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage vertical. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder) { get; set; } | Obtient ou définit la valeur d'ordre V du calque placé dans le fichier PSD. |
-| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width) { get; set; } | Obtient ou définit la largeur. |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Obtient ou définit la politique anti-alias des données de la couche d'objet intelligent dans l'image PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Obtient ou définit l'emplacement inférieur du calque placé dans l'image PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Obtient ou définit les limites du calque placé dans le fichier PSD. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Obtient ou définit la valeur comp des données de la couche d'objet intelligent dans le fichier PSD. [Compositions de calques dans les objets dynamiques](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Obtient ou définit l'ID de la composition actuellement sélectionnée pour le document enfant, qui sera -1 si aucune n'est sélectionnée. Les compositions sont des compositions d'une mise en page que les concepteurs peuvent créer. Grâce aux compositions de calques, vous pouvez créer, gérer et afficher plusieurs versions d'une mise en page dans un seul fichier Adobe® Photoshop®. Une composition de calque est un instantané d'un état du panneau Calques. Les compositions de calque enregistrent trois types d'options de calque mais cette propriété obtient l'identifiant de sélection de la composition de calque pour le calque d'objet intelligent dans le fichier PSD. [Compositions de calques dans les objets dynamiques](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Obtient ou définit le recadrage des données de la couche d'objet intelligent dans l'image PSD. |
+| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Obtient ou définit le dénominateur de durée. |
+| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Obtient ou définit le numérateur de durée. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Obtient ou définit le nombre d'images des données de la couche d'objet intelligent dans le fichier PSD. |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Obtient ou définit le dénominateur de pas de trame. |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Obtient ou définit le numérateur de pas de trame. |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Obtient ou définit la hauteur. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage horizontaux. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Obtient ou définit une valeur indiquant si ce style de déformation d'instance est personnalisé. Si vrai, il contient des points de maillage. Si défini sur false, il efface les points de maillage. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Obtient ou définit les éléments de descripteur des données de la couche d'objets intelligents dans le fichier PSD. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/key/) { get; } | Obtient la clé de ressource de la couche d'objet intelligent SoLd. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Obtient ou définit l'emplacement de gauche du calque placé dans le fichier PSD. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Obtient la longueur de la ressource d'objet intelligent en octets. |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Obtient ou définit la matrice de transformation non affine des données de la couche d'objet intelligent dans le fichier PSD. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Obtient l'ID d'origine de la composition actuellement sélectionnée pour le document enfant, qui sera -1 si aucune n'est sélectionnée. Cette propriété obtient l'identifiant de sélection de composition de calque d'origine pour le calque d'objet intelligent dans le fichier PSD. [Compositions de calques dans les objets dynamiques](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Obtient ou définit le numéro de page des données de la couche d'objet intelligent dans le fichier PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Obtient ou définit la valeur de perspective du calque placé dans le fichier PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Obtient ou définit l'autre valeur de perspective du calque placé dans le fichier PSD. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Obtient ou définit l'identifiant unique de ces données de couche d'objet intelligent dans l'image PSD. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Obtient ou définit le type des données de la couche d'objet intelligent dans le fichier PSD. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | Obtient la version psd minimale requise pour la ressource d'objet intelligent. 0 indique aucune restriction. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Obtient ou définit la résolution des données de la couche d'objet intelligent dans le fichier PSD. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Obtient ou définit l'unité de mesure de résolution des données de la couche d'objet intelligent dans le fichier PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Obtient ou définit le bon emplacement du calque placé dans le fichier PSD. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | Obtient la signature de ressource d'objet intelligent. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Obtient ou définit l'emplacement supérieur du calque placé dans l'image PSD. |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Obtient ou définit le nombre total de pages des données de la couche d'objet intelligent dans le fichier PSD. |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Obtient ou définit la matrice de transformation des données de la couche d'objet intelligent dans le fichier PSD. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Obtient ou définit l'identifiant unique global des données de la couche d'objets intelligents[`SmartObjectResource`](../smartobjectresource/) dans l'image PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Obtient ou définit la valeur d'ordre U du calque placé dans le fichier PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Obtient ou définit la valeur de déformation du calque placé dans l'image PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Obtient la version du calque placé dans le fichier PSD, généralement 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage vertical. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Obtient ou définit la valeur d'ordre V du calque placé dans le fichier PSD. |
+| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Obtient ou définit la largeur. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save)(StreamContainer, int) | Enregistre la ressource d'objet intelligent dans le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Renvoie unString qui représente cette instance. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Enregistre la ressource d'objet intelligent dans le conteneur de flux spécifié. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
 
 ## Des champs
 
 | Nom | La description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/typetoolkey) | La clé d'informations sur l'outil de type : 'SoLd'. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/typetoolkey/) | La clé d'informations sur l'outil de type : 'SoLd'. |
 
 ### Exemples
 
@@ -394,8 +394,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Voir également
 
-* class [SmartObjectResource](../smartobjectresource)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [SmartObjectResource](../smartobjectresource/)
+* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

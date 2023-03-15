@@ -1,0 +1,27 @@
+---
+title: CurvesManager.CurvesManager
+second_title: Aspose.PSD for .NET API リファレンス
+description: CurvesManager コンストラクタ. の新しいインスタンスを初期化しますCurvesManagerclass.
+type: docs
+weight: 10
+url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/curvesmanager/
+---
+## CurvesManager constructor
+
+の新しいインスタンスを初期化します[`CurvesManager`](../)class.
+
+```csharp
+public CurvesManager(int maxChannelCount)
+```
+
+| パラメータ | タイプ | 説明 |
+| --- | --- | --- |
+| maxChannelCount | Int32 | 最大チャネル数。 |
+
+### 関連項目
+
+* class [CurvesManager](../)
+* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
+* 組み立て [Aspose.PSD](../../../)
+
+

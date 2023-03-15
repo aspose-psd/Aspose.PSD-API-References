@@ -1,9 +1,9 @@
 ---
-title: VersionInfoResource
+title: Class VersionInfoResource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Информация о версии resource
+description: Aspose.PSD.FileFormats.Psd.Resources.VersionInfoResource сорт. Информация о версии resource
 type: docs
-weight: 3900
+weight: 3960
 url: /ru/net/aspose.psd.fileformats.psd.resources/versioninforesource/
 ---
 ## VersionInfoResource class
@@ -18,35 +18,35 @@ public sealed class VersionInfoResource : ResourceBlock
 
 | Имя | Описание |
 | --- | --- |
-| [VersionInfoResource](versioninforesource)() | Конструктор по умолчанию. |
+| [VersionInfoResource](versioninforesource/)() | Конструктор по умолчанию. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/versioninforesource/datasize) { get; } | Получает размер данных ресурса в байтах. |
-| [FileVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/fileversion) { get; set; } | Получает или задает версию файла. |
-| [HasRealMergedData](../../aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata) { get; set; } | Получает или задает значение, указывающее, имеет ли этот экземпляр реальные объединенные данные. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/minimalversion) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
-| [ReaderName](../../aspose.psd.fileformats.psd.resources/versioninforesource/readername) { get; set; } | Получает или задает имя средства чтения. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
-| [Version](../../aspose.psd.fileformats.psd.resources/versioninforesource/version) { get; set; } | Получает или задает версию. |
-| [WriterName](../../aspose.psd.fileformats.psd.resources/versioninforesource/writername) { get; set; } | Получает или задает имя модуля записи. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/versioninforesource/datasize/) { get; } | Получает размер данных ресурса в байтах. |
+| [FileVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/fileversion/) { get; set; } | Получает или задает версию файла. |
+| [HasRealMergedData](../../aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata/) { get; set; } | Получает или задает значение, указывающее, имеет ли этот экземпляр реальные объединенные данные. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Получает или задает уникальный идентификатор ресурса. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/versioninforesource/minimalversion/) { get; } | Получает минимальную требуемую версию PSD. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [ReaderName](../../aspose.psd.fileformats.psd.resources/versioninforesource/readername/) { get; set; } | Получает или задает имя средства чтения. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
+| [Version](../../aspose.psd.fileformats.psd.resources/versioninforesource/version/) { get; set; } | Получает или задает версию. |
+| [WriterName](../../aspose.psd.fileformats.psd.resources/versioninforesource/writername/) { get; set; } | Получает или задает имя модуля записи. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | Сохраняет блок ресурсов в указанный поток. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | Проверяет значения ресурсов. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Сохраняет блок ресурсов в указанный поток. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Проверяет значения ресурсов. |
 
 ### Смотрите также
 
-* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources)
+* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

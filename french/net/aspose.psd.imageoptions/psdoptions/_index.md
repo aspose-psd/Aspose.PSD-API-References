@@ -1,9 +1,9 @@
 ---
-title: PsdOptions
+title: Class PsdOptions
 second_title: Référence de l'API Aspose.PSD pour .NET
-description: Le format de fichier psd créer des options.
+description: Aspose.PSD.ImageOptions.PsdOptions classe. Le format de fichier psd créer des options.
 type: docs
-weight: 4830
+weight: 4900
 url: /fr/net/aspose.psd.imageoptions/psdoptions/
 ---
 ## PsdOptions class
@@ -18,41 +18,41 @@ public class PsdOptions : ImageOptionsBase
 
 | Nom | La description |
 | --- | --- |
-| [PsdOptions](psdoptions#constructor)() | Initialise une nouvelle instance du[`PsdOptions`](../psdoptions) classe. |
-| [PsdOptions](psdoptions#constructor_1)(PsdImage) | Initialise une nouvelle instance du[`PsdOptions`](../psdoptions) classe. |
-| [PsdOptions](psdoptions#constructor_2)(PsdOptions) | Initialise une nouvelle instance du[`PsdOptions`](../psdoptions) classe. |
+| [PsdOptions](psdoptions/#constructor)() | Initialise une nouvelle instance du`PsdOptions` classe. |
+| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | Initialise une nouvelle instance du`PsdOptions` classe. |
+| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | Initialise une nouvelle instance du`PsdOptions` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Obtient ou définit l'indice de taille de tampon qui est défini comme la taille maximale autorisée pour tous les tampons internes. |
-| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount) { get; set; } | Obtient ou définit le nombre de bits par canal de couleur. |
-| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount) { get; set; } | Obtient ou définit le nombre de canaux de couleur. |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode) { get; set; } | Obtient ou définit le mode de couleur psd. |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod) { get; set; } | Obtient ou définit la méthode de compression psd. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Obtient ou définit la police de remplacement par défaut (police qui sera utilisée pour dessiner du texte lors de l'exportation au format raster, si la police de calque existante dans le fichier PSD n'est pas présentée dans le système). Pour prendre le nom propre de la police par défaut, vous pouvez utiliser le prochain extrait de code : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Obtient une valeur indiquant si cette instance est supprimée. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Obtient ou définit une valeur indiquant si [plein cadre]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | Les options multipages |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Obtient ou définit la palette de couleurs. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Obtient ou définit le gestionnaire d'événements de progression. |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion) { get; set; } | Obtient ou définit la version du format de fichier. Il peut s'agir de PSD ou de PSB. |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata) { get; set; } | Obtient ou définit une valeur indiquant si [actualiser les données d'aperçu de l'image] - option utilisée pour maximiser la compatibilité avec d'autres visionneuses d'images PSD. Veuillez noter que le dessin des calques de texte jusqu'à la mise en page finale n'est pas pris en charge pour la plate-forme Compact Framework |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource) { get; set; } | Obtient ou définit une valeur indiquant si - Supprimer la ressource globale du moteur de texte - Utilisé pour certains fichiers psd à calques de texte, dans le seul cas où ils ne peuvent pas être ouverts dans Adobe Photoshop après traitement (principalement pour les calques de texte de polices absents liés). Après avoir utilisé cette option, l'utilisateur doit créer le prochain fichier ouvert dans Photoshop : Menu "Texte" -&gt; "Traiter les polices absentes". Après cette opération, tout le texte apparaîtra à nouveau. Veuillez noter que cette opération peut entraîner des modifications finales de la mise en page. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Obtient ou définit les paramètres de résolution. |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources) { get; set; } | Obtient ou définit les ressources psd. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Obtient ou définit la source dans laquelle créer l'image. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Obtient ou définit les options de pixellisation vectorielle. |
-| [Version](../../aspose.psd.imageoptions/psdoptions/version) { get; set; } | Obtient ou définit la version du fichier psd. |
-| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata) { get; set; } | Obtenir ou définir le conteneur de données XMP |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Obtient ou définit l'indice de taille de tampon qui est défini comme la taille maximale autorisée pour tous les tampons internes. |
+| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Obtient ou définit le nombre de bits par canal de couleur. |
+| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Obtient ou définit le nombre de canaux de couleur. |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | Obtient ou définit le mode de couleur psd. |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | Obtient ou définit la méthode de compression psd. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Obtient ou définit la police de remplacement par défaut (police qui sera utilisée pour dessiner du texte lors de l'exportation au format raster, si la police de calque existante dans le fichier PSD n'est pas présentée dans le système). Pour prendre le nom propre de la police par défaut, vous pouvez utiliser le prochain extrait de code : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtient une valeur indiquant si cette instance est supprimée. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Obtient ou définit une valeur indiquant si [plein cadre]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Les options multipages |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Obtient ou définit la palette de couleurs. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Obtient ou définit le gestionnaire d'événements de progression. |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | Obtient ou définit la version du format de fichier. Il peut s'agir de PSD ou de PSB. |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Obtient ou définit une valeur indiquant si [actualiser les données d'aperçu de l'image] - option utilisée pour maximiser la compatibilité avec d'autres visionneuses d'images PSD. Veuillez noter que le dessin des calques de texte jusqu'à la mise en page finale n'est pas pris en charge pour la plate-forme Compact Framework |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Obtient ou définit une valeur indiquant si - Supprimer la ressource globale du moteur de texte - Utilisé pour certains fichiers psd à calques de texte, dans le seul cas où ils ne peuvent pas être ouverts dans Adobe Photoshop après traitement (principalement pour les calques de texte de polices absents liés). Après avoir utilisé cette option, l'utilisateur doit créer le prochain fichier ouvert dans Photoshop : Menu "Texte" -&gt; "Traiter les polices absentes". Après cette opération, tout le texte apparaîtra à nouveau. Veuillez noter que cette opération peut entraîner des modifications finales de la mise en page. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Obtient ou définit les paramètres de résolution. |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | Obtient ou définit les ressources psd. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Obtient ou définit la source dans laquelle créer l'image. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Obtient ou définit les options de pixellisation vectorielle. |
+| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | Obtient ou définit la version du fichier psd. |
+| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | Obtenir ou définir le conteneur de données XMP |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Clone cette instance. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Supprime l'instance actuelle. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Clone cette instance. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Supprime l'instance actuelle. |
 
 ### Exemples
 
@@ -352,8 +352,8 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 
 ### Voir également
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* espace de noms [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* espace de noms [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * Assemblée [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

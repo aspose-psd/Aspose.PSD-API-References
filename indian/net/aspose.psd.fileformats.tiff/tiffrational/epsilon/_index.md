@@ -1,0 +1,23 @@
+---
+title: TiffRational.Epsilon
+second_title: .NET API संदर्भ के लिए Aspose.PSD
+description: TiffRational मैदन. अंश गणन के लए एप्सलन
+type: docs
+weight: 100
+url: /hi/net/aspose.psd.fileformats.tiff/tiffrational/epsilon/
+---
+## TiffRational.Epsilon field
+
+अंश गणना के लिए एप्सिलॉन
+
+```csharp
+public const double Epsilon;
+```
+
+### यह सभी देखें
+
+* class [TiffRational](../)
+* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
+* सभा [Aspose.PSD](../../../)
+
+

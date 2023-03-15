@@ -1,14 +1,14 @@
 ---
-title: MaskRectangle
-second_title: Riferimento all'API di Aspose.PSD per .NET
-description: Ottiene o imposta la mascheraRectangleaspose.psd/rectangledella maschera di livello nel file PSD. Prende le proprietà sinistra destra alto e basso e creaRectangleaspose.psd/rectangle
+title: LayerMaskData.MaskRectangle
+second_title: Aspose.PSD per riferimento API .NET
+description: LayerMaskData proprietà. Ottiene o imposta la mascheraRectangledella maschera di livello nel file PSD. Prende le proprietà sinistra destra superiore e inferiore e creaRectangle
 type: docs
 weight: 70
 url: /it/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
 ## LayerMaskData.MaskRectangle property
 
-Ottiene o imposta la maschera[`Rectangle`](../../../aspose.psd/rectangle)della maschera di livello nel file PSD. Prende le proprietà sinistra, destra, alto e basso e crea[`Rectangle`](../../../aspose.psd/rectangle)
+Ottiene o imposta la maschera[`Rectangle`](../../../aspose.psd/rectangle/)della maschera di livello nel file PSD. Prende le proprietà sinistra, destra, superiore e inferiore e crea[`Rectangle`](../../../aspose.psd/rectangle/)
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
@@ -34,9 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-string dataDir = "PSDNET640_1" + Path.DirectorySeparatorChar;
-
-// Ottiene il valore int convertito in ordine di byte big-endian.
+// Ottiene il valore int convertito nell'ordine dei byte big-endian.
 byte[] GetBigEndianBytesInt32(int value)
 {
     byte[] bytes = new byte[4];
@@ -81,7 +79,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// Aggiunge una maschera raster dal file al livello e la salva nell'immagine in formato PSD
+// Aggiunge una maschera raster dal file al livello e la salva come immagine in formato PSD
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -102,23 +100,22 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // La semplice aggiunta di LayerMaskData non è sufficiente per il corretto salvataggio perché i canali non vengono aggiornati;
-    // layer.LayerMaskData = maschera; // Questo non aggiunge il canale maschera
+    // La sola aggiunta di LayerMaskData non è sufficiente per un corretto salvataggio perché i canali non vengono aggiornati;
+    // layer.LayerMaskData = maschera; // Questo non aggiunge il canale della maschera
 
     // Aggiungi (o aggiorna) la maschera
-    layer.AddLayerMask(maskData); // Ma questo aggiunge / aggiorna sia la maschera che i canali!
+    layer.AddLayerMask(maskData); // Ma questo aggiunge/aggiorna sia la maschera che i canali!
 }
 
-// Questo esempio mostra come ottenere, aggiornare, rimuovere e aggiungere maschere di livello raster nel file Adobe® Photoshop® a livello di codice.
+// Questo esempio mostra come ottenere, aggiornare, rimuovere e aggiungere maschere di livello raster nel file Adobe® Photoshop® in modo programmatico.
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
-Directory.CreateDirectory(dataDir);
-var sourceFilePath = dataDir + "FourWithMasks.psd";
+var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
     // Ottieni una maschera raster dal livello e salvala in un file
-    SaveRasterMask(dataDir + "FourWithMasks2.msk", layer);
+    SaveRasterMask("FourWithMasks2.msk", layer);
 
     // Cambia la maschera di livello (inverti) e salva l'immagine
     var mask = layer.LayerMaskData;
@@ -128,33 +125,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // Basta cambiare LayerMaskData per effettuare il rendering
-    image.Save(dataDir + "FourWithMasksUpdated2.png", pngOptions);
+    // La sola modifica di LayerMaskData è sufficiente per effettuare il rendering
+    image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // Ma la semplice modifica di LayerMaskData non è sufficiente per il corretto salvataggio perché i canali non vengono aggiornati;
-    layer.LayerMaskData = mask; // Neanche questo funziona
+    // Ma la sola modifica di LayerMaskData non è sufficiente per un corretto salvataggio perché i canali non vengono aggiornati;
+    layer.LayerMaskData = mask; // Anche questo non funziona
     layer.AddLayerMask(mask); // Ma questo aggiorna sia la maschera che i canali!
-    image.Save(dataDir + "FourWithMasksUpdated2.psd");
+    image.Save("FourWithMasksUpdated2.psd");
 
-    // Rimuovi una maschera raster dal livello e salva l'immagine
+    // Rimuove una maschera raster dal livello e salva l'immagine
     layer.LayerMaskData = null; // La semplice rimozione di LayerMaskData è sufficiente per effettuare il rendering ma non per il salvataggio in formato PSD
-    image.Save(dataDir + "FourWithMasksRemoved2.png", pngOptions);
+    image.Save("FourWithMasksRemoved2.png", pngOptions);
 
     layer.AddLayerMask(null); // Ma questo rimuove sia la maschera che il canale della maschera!
-    image.Save(dataDir + "FourWithMasksRemoved2.psd");
+    image.Save("FourWithMasksRemoved2.psd");
 
     // Aggiungi una maschera raster dal file al livello e salva l'immagine
-    AddRasterMask(layer, dataDir + "raster.msk");
-    image.Save(dataDir + "FourWithMasksAdded2.png", pngOptions);
-    image.Save(dataDir + "FourWithMasksAdded2.psd");
+    AddRasterMask(layer, "raster.msk");
+    image.Save("FourWithMasksAdded2.png", pngOptions);
+    image.Save("FourWithMasksAdded2.psd");
 }
 ```
 
 ### Guarda anche
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [LayerMaskData](../../layermaskdata)
-* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [LayerMaskData](../)
+* spazio dei nomi [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
 * assemblea [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

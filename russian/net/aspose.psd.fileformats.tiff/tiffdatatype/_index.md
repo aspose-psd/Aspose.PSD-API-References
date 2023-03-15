@@ -1,9 +1,9 @@
 ---
-title: TiffDataType
+title: Class TiffDataType
 second_title: Справочник по Aspose.PSD для .NET API
-description: Тип данных TIFF.
+description: Aspose.PSD.FileFormats.Tiff.TiffDataType сорт. Тип данных TIFF.
 type: docs
-weight: 4140
+weight: 4210
 url: /ru/net/aspose.psd.fileformats.tiff/tiffdatatype/
 ---
 ## TiffDataType class
@@ -18,29 +18,29 @@ public abstract class TiffDataType : IComparable
 
 | Имя | Описание |
 | --- | --- |
-| [AlignedDataSize](../../aspose.psd.fileformats.tiff/tiffdatatype/aligneddatasize) { get; } | Получает размер дополнительных данных в байтах (в случае, если 12 байтов недостаточно для размещения данных тега). |
-| abstract [Count](../../aspose.psd.fileformats.tiff/tiffdatatype/count) { get; } | Получает количество элементов. |
-| abstract [DataSize](../../aspose.psd.fileformats.tiff/tiffdatatype/datasize) { get; } | Получает размер дополнительных данных в байтах (в случае, если 12 байтов недостаточно для размещения данных тега). |
-| [Id](../../aspose.psd.fileformats.tiff/tiffdatatype/id) { get; } | Получает целочисленное представление идентификатора тега. |
-| [IsValid](../../aspose.psd.fileformats.tiff/tiffdatatype/isvalid) { get; } | Получает значение, указывающее, допустимы ли данные тега. Действительный тег содержит данные, которые можно сохранить. Недопустимый тег не может быть сохранен. |
-| [TagId](../../aspose.psd.fileformats.tiff/tiffdatatype/tagid) { get; } | Получает идентификатор тега. |
-| abstract [TagType](../../aspose.psd.fileformats.tiff/tiffdatatype/tagtype) { get; } | Получает тип тега. |
-| abstract [Value](../../aspose.psd.fileformats.tiff/tiffdatatype/value) { get; set; } | Получает или задает значение, которое содержит этот тип данных. |
+| [AlignedDataSize](../../aspose.psd.fileformats.tiff/tiffdatatype/aligneddatasize/) { get; } | Получает размер дополнительных данных в байтах (в случае, если 12 байтов недостаточно для размещения данных тега). |
+| abstract [Count](../../aspose.psd.fileformats.tiff/tiffdatatype/count/) { get; } | Получает количество элементов. |
+| abstract [DataSize](../../aspose.psd.fileformats.tiff/tiffdatatype/datasize/) { get; } | Получает размер дополнительных данных в байтах (в случае, если 12 байтов недостаточно для размещения данных тега). |
+| [Id](../../aspose.psd.fileformats.tiff/tiffdatatype/id/) { get; } | Получает целочисленное представление идентификатора тега. |
+| [IsValid](../../aspose.psd.fileformats.tiff/tiffdatatype/isvalid/) { get; } | Получает значение, указывающее, допустимы ли данные тега. Действительный тег содержит данные, которые можно сохранить. Недопустимый тег не может быть сохранен. |
+| [TagId](../../aspose.psd.fileformats.tiff/tiffdatatype/tagid/) { get; } | Получает идентификатор тега. |
+| abstract [TagType](../../aspose.psd.fileformats.tiff/tiffdatatype/tagtype/) { get; } | Получает тип тега. |
+| abstract [Value](../../aspose.psd.fileformats.tiff/tiffdatatype/value/) { get; set; } | Получает или задает значение, которое содержит этот тип данных. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [ReadTag](../../aspose.psd.fileformats.tiff/tiffdatatype/readtag)(TiffStreamReader, long) | Считывает данные тега. |
-| [CompareTo](../../aspose.psd.fileformats.tiff/tiffdatatype/compareto)(object) | Сравнивает текущий экземпляр с другим объектом того же типа и возвращает целое число, указывающее, предшествует ли текущий экземпляр, следует за ним или находится в той же позиции в порядке сортировки, что и другой объект. |
-| virtual [DeepClone](../../aspose.psd.fileformats.tiff/tiffdatatype/deepclone)() | Выполняет глубокое клонирование этого экземпляра. |
-| override [ToString](../../aspose.psd.fileformats.tiff/tiffdatatype/tostring)() | ВозвращаетString который представляет этот экземпляр. |
-| abstract [WriteAdditionalData](../../aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata)(TiffStreamWriter) | Записывает дополнительные данные тега. |
-| [WriteTag](../../aspose.psd.fileformats.tiff/tiffdatatype/writetag)(TiffStreamWriter, long) | Записывает данные тега. |
+| static [ReadTag](../../aspose.psd.fileformats.tiff/tiffdatatype/readtag/)(TiffStreamReader, long) | Считывает данные тега. |
+| [CompareTo](../../aspose.psd.fileformats.tiff/tiffdatatype/compareto/)(object) | Сравнивает текущий экземпляр с другим объектом того же типа и возвращает целое число, указывающее, предшествует ли текущий экземпляр, следует за ним или находится в той же позиции в порядке сортировки, что и другой объект. |
+| virtual [DeepClone](../../aspose.psd.fileformats.tiff/tiffdatatype/deepclone/)() | Выполняет глубокое клонирование этого экземпляра. |
+| override [ToString](../../aspose.psd.fileformats.tiff/tiffdatatype/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| abstract [WriteAdditionalData](../../aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata/)(TiffStreamWriter) | Записывает дополнительные данные тега. |
+| [WriteTag](../../aspose.psd.fileformats.tiff/tiffdatatype/writetag/)(TiffStreamWriter, long) | Записывает данные тега. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff)
+* пространство имен [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

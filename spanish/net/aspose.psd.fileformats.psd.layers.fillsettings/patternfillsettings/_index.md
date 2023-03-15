@@ -1,9 +1,9 @@
 ---
-title: PatternFillSettings
+title: Class PatternFillSettings
 second_title: Referencia de API de Aspose.PSD para .NET
-description: Configuración del efecto de relleno de patrón
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings clase. Configuración del efecto de relleno de patrón
 type: docs
-weight: 2020
+weight: 2040
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
 ## PatternFillSettings class
@@ -18,25 +18,25 @@ public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 
 | Nombre | Descripción |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer) { get; set; } | Obtiene o establece un valor que indica si [enlace con capa]. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color) { get; set; } | Obtiene o establece el color. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype) { get; } | El tipo de relleno |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset) { get; set; } | Obtiene o establece el desplazamiento horizontal. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked) { get; set; } | Obtiene o establece un valor que indica si este[`PatternFillSettings`](../patternfillsettings) está vinculado. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata) { get; set; } | Obtiene o establece los datos del patrón. |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight) { get; set; } | Obtiene o establece la altura del patrón. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid) { get; set; } | Obtiene o establece el identificador del patrón. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname) { get; set; } | Obtiene o establece el nombre del patrón. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth) { get; set; } | Obtiene o establece el ancho del patrón. |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype) { get; set; } | Obtiene o establece el tipo del punto. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale) { get; set; } | Obtiene o establece la escala. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset) { get; set; } | Obtiene o establece el desplazamiento vertical. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | Obtiene o establece un valor que indica si [enlace con capa]. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | Obtiene o establece el color. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | El tipo de relleno |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | Obtiene o establece el desplazamiento horizontal. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | Obtiene o establece un valor que indica si este`PatternFillSettings`está vinculado. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | Obtiene o establece los datos del patrón. |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | Obtiene o establece la altura del patrón. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | Obtiene o establece el identificador del patrón. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | Obtiene o establece el nombre del patrón. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | Obtiene o establece el ancho del patrón. |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | Obtiene o establece el tipo del punto. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | Obtiene o establece la escala. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | Obtiene o establece el desplazamiento vertical. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes)(string, Color, string, string, double, bool, PointF) | Genera los nodos de recursos LFX2. |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | Genera los nodos de recursos LFX2. |
 
 ### Ejemplos
 
@@ -210,9 +210,9 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### Ver también
 
-* class [BaseFillSettings](../basefillsettings)
-* interface [IPatternFillSettings](../ipatternfillsettings)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings)
+* class [BaseFillSettings](../basefillsettings/)
+* interface [IPatternFillSettings](../ipatternfillsettings/)
+* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * asamblea [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: ContentType
+title: SmartObjectLayer.ContentType
 second_title: Aspose.PSD for .NET API 参考
-description: 获取智能对象层内容的类型 嵌入的智能对象内容是嵌入的原始图像文件Dataaspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data . 链接的智能对象内容是链接图像文件的原始内容如果可用LiFeDataSourceaspose.psd.fileformats.psd.layers.layerresources/lifedatasource . 我们不支持从 Adobe. Photoshop.  图形库加载时IsLibraryLinkaspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink是真的 对于常规链接文件首先我们使用RelativePathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath查找文件 relative 到源图像路径SourceImagePath 如果它不可用我们看看FullPathaspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath 如果不是那么我们在我们的图像所在的同一目录中查找链接文件SourceImagePath .
+description: SmartObjectLayer 财产. 获取智能对象图层内容的类型 嵌入的智能对象内容为嵌入的原始图像文件Data . 链接的智能对象内容是链接图像文件的原始内容如果可用LiFeDataSource . 我们不支持从 Adobe. Photoshop. . 图形库加载时IsLibraryLink是真的 对于常规链接文件首先我们使用RelativePath在源图像路径中查找文件 relatively SourceImagePath  如果不可用我们看看FullPath 如果不是那么我们在图像所在的同一目录中查找链接文件SourceImagePath .
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/
 ---
 ## SmartObjectLayer.ContentType property
 
-获取智能对象层内容的类型。 嵌入的智能对象内容是嵌入的原始图像文件：[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data) . 链接的智能对象内容是链接图像文件的原始内容（如果可用）：[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource) . 我们不支持从 Adobe. Photoshop. �� 图形库加载时[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink)是真的。 对于常规链接文件，首先，我们使用[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath)查找文件 relative 到源图像路径SourceImagePath, 如果它不可用，我们看看[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath), 如果不是，那么我们在我们的图像所在的同一目录中查找链接文件：SourceImagePath .
+获取智能对象图层内容的类型。 嵌入的智能对象内容为嵌入的原始图像文件：[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) . 链接的智能对象内容是链接图像文件的原始内容（如果可用）：[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . 我们不支持从 Adobe. Photoshop. . 图形库加载时[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/)是真的。 对于常规链接文件，首先，我们使用[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/)在源图像路径中查找文件 relatively SourceImagePath , 如果不可用我们看看[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), 如果不是，那么我们在图像所在的同一目录中查找链接文件：SourceImagePath .
 
 ```csharp
 public SmartObjectType ContentType { get; }
@@ -20,7 +20,7 @@ public SmartObjectType ContentType { get; }
 
 ### 例子
 
-以下代码演示了对更新链接智能对象的支持。
+下面的代码演示了更新 Linked Smart 对象的支持。
 
 ```csharp
 [C#]
@@ -54,7 +54,7 @@ void AssertAreEqual(object actual, object expected)
 }
 
 // 此示例演示如何使用这些方法更新外部或嵌入式智能对象层：
-// RelinkToFile、UpdateModifiedContent、ExportContents
+// RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 
@@ -67,7 +67,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // 此示例演示如何更改 PSD 文件中的智能对象图层并导出/更新其内容。
+    // 此示例演示如何更改 PSD 文件中的智能对象层并导出/更新其内容。
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -105,18 +105,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // 让我们检查修改的内容是否还没有影响渲染。
+        // 让我们检查一下修改后的内容是否还没有影响渲染。
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // 看看更新后的内容是否影响渲染，psd图片是否保存正确
+        // 让我们检查更新的内容是否影响渲染以及psd图像是否正确保存
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// 此示例演示如何使用 ConvertToLinked 方法将嵌入的智能对象转换为外部链接内容。
+// 本例演示如何使用ConvertToLinked方法将嵌入的智能对象转换为外部链接内容。
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -136,7 +136,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // 这演示了如何将 PSD 文件中的嵌入式智能对象图层转换为外部图层。
+    // 这演示了如何将 PSD 文件中的嵌入式智能对象层转换为外部层。
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -174,7 +174,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// 此示例演示如何使用 EmbedLinked 方法在 PSD 文件中嵌入一个外部智能对象图层或所有链接图层。
+// 此示例演示如何使用 EmbedLinked 方法在 PSD 文件中嵌入一个外部智能对象层或所有链接层。
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -235,7 +235,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// 此示例演示如何更改 Adobe® Photoshop® 外部智能对象图层并导出/更新其内容
+// 此示例演示如何更改 Adobe® Photoshop® 外部智能对象层并导出/更新其内容
 // 使用 ExportContents 和 ReplaceContents 方法。
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
@@ -315,7 +315,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// 获取格式扩展名。
+// 获取格式扩展。
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -325,9 +325,9 @@ string GetFormatExt(FileFormat format)
 
 ### 也可以看看
 
-* enum [SmartObjectType](../../smartobjecttype)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* enum [SmartObjectType](../../smartobjecttype/)
+* class [SmartObjectLayer](../)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * 部件 [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

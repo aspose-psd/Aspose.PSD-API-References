@@ -1,14 +1,14 @@
 ---
-title: DrawPie
+title: Graphics.DrawPie
 second_title: Справочник по Aspose.PSD для .NET API
-description: Рисует круговую форму определяемую эллипсом указаннымRectangleFaspose.psd/rectanglef структура и две радиальные линии.
+description: Graphics метод. Рисует круговую форму определяемую эллипсом указаннымRectangleF структура и две радиальные линии.
 type: docs
 weight: 280
 url: /ru/net/aspose.psd/graphics/drawpie/
 ---
 ## DrawPie(Pen, RectangleF, float, float) {#drawpie_1}
 
-Рисует круговую форму, определяемую эллипсом, указанным[`RectangleF`](../../rectanglef) структура и две радиальные линии.
+Рисует круговую форму, определяемую эллипсом, указанным[`RectangleF`](../../rectanglef/) структура и две радиальные линии.
 
 ```csharp
 public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
@@ -16,8 +16,8 @@ public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль формы круга. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) структура, представляющая ограничивающий прямоугольник, определяющий эллипс, из которого получается круговая фигура. |
+| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и стиль формы круга. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) структура, представляющая ограничивающий прямоугольник, определяющий эллипс, из которого получается круговая фигура. |
 | startAngle | Single | Угол, измеряемый в градусах по часовой стрелке от оси x до первой стороны круговой диаграммы. |
 | sweepAngle | Single | Угол, измеряемый в градусах по часовой стрелке от*startAngle* параметра ко второй стороне круговой формы. |
 
@@ -29,10 +29,10 @@ public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 ### Смотрите также
 
-* class [Pen](../../pen)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public void DrawPie(Pen pen, float x, float y, float width, float height, float 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль формы круга. |
+| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и стиль формы круга. |
 | x | Single | Координата x верхнего левого угла ограничивающего прямоугольника, определяющего эллипс, из которого получается круговая фигура. |
 | y | Single | Координата Y верхнего левого угла ограничивающего прямоугольника, определяющего эллипс, из которого получается круговая фигура. |
 | width | Single | Ширина ограничивающего прямоугольника, определяющего эллипс, из которого получается круговая фигура. |
@@ -64,16 +64,16 @@ public void DrawPie(Pen pen, float x, float y, float width, float height, float 
 
 ### Смотрите также
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, Rectangle, float, float) {#drawpie}
 
-Рисует круговую форму, определяемую эллипсом, указанным[`Rectangle`](../../rectangle) структура и две радиальные линии.
+Рисует круговую форму, определяемую эллипсом, указанным[`Rectangle`](../../rectangle/) структура и две радиальные линии.
 
 ```csharp
 public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
@@ -81,8 +81,8 @@ public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль формы круга. |
-| rect | Rectangle | [`Rectangle`](../../rectangle) структура, представляющая ограничивающий прямоугольник, определяющий эллипс, из которого получается круговая фигура. |
+| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и стиль формы круга. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) структура, представляющая ограничивающий прямоугольник, определяющий эллипс, из которого получается круговая фигура. |
 | startAngle | Single | Угол, измеряемый в градусах по часовой стрелке от оси x до первой стороны круговой диаграммы. |
 | sweepAngle | Single | Угол, измеряемый в градусах по часовой стрелке от*startAngle* параметра ко второй стороне круговой формы. |
 
@@ -94,10 +94,10 @@ public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 ### Смотрите также
 
-* class [Pen](../../pen)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
@@ -112,7 +112,7 @@ public void DrawPie(Pen pen, int x, int y, int width, int height, int startAngle
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и стиль формы круга. |
+| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и стиль формы круга. |
 | x | Int32 | Координата x верхнего левого угла ограничивающего прямоугольника, определяющего эллипс, из которого получается круговая фигура. |
 | y | Int32 | Координата Y верхнего левого угла ограничивающего прямоугольника, определяющего эллипс, из которого получается круговая фигура. |
 | width | Int32 | Ширина ограничивающего прямоугольника, определяющего эллипс, из которого получается круговая фигура. |
@@ -128,9 +128,9 @@ public void DrawPie(Pen pen, int x, int y, int width, int height, int startAngle
 
 ### Смотрите также
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

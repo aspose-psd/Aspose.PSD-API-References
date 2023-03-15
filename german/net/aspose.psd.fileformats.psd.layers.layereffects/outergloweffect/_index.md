@@ -1,9 +1,9 @@
 ---
-title: OuterGlowEffect
+title: Class OuterGlowEffect
 second_title: Aspose.PSD für .NET-API-Referenz
-description: Äußerer Leuchtschichteffekt
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect klas. Äußerer Leuchtschichteffekt
 type: docs
-weight: 2150
+weight: 2170
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 ---
 ## OuterGlowEffect class
@@ -18,19 +18,19 @@ public class OuterGlowEffect : ILayerEffect
 
 | Name | Beschreibung |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode) { get; set; } | Ruft den Mischmodus ab oder legt ihn fest. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype) { get; } | Ruft einen Effekttyp type ab |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor) { get; set; } | Ruft die Farbe ab oder legt sie fest. |
-| [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity) { get; set; } | Ruft den Winkel in Grad ab oder legt ihn fest. |
-| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing) { get; set; } | Holt oder setzt aktivierten AntiAliasing-Effekt |
-| [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [knocks out]. |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz sichtbar ist. |
-| [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter) { get; set; } | Ruft das Rauschen ab oder legt es fest. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise) { get; set; } | Ruft das Rauschen ab oder legt es fest. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity) { get; set; } | Ruft die Deckkraft ab oder legt sie fest. |
-| [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range) { get; set; } | Ruft das Rauschen ab oder legt es fest. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size) { get; } | Ruft den Unschärfewert in Pixel ab. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread) { get; set; } | Holt oder setzt die Intensität in Prozent. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/) { get; set; } | Ruft den Mischmodus ab oder legt ihn fest. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/) { get; } | Ruft einen Effekttyp type ab |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/) { get; set; } | Ruft die Farbe ab oder legt sie fest. |
+| [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/) { get; set; } | Ruft den Winkel in Grad ab oder legt ihn fest. |
+| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/) { get; set; } | Holt oder setzt aktivierten AntiAliasing-Effekt |
+| [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [knocks out]. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz sichtbar ist. |
+| [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/) { get; set; } | Ruft das Rauschen ab oder legt es fest. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/) { get; set; } | Ruft das Rauschen ab oder legt es fest. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/) { get; set; } | Ruft die Deckkraft ab oder legt sie fest. |
+| [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/) { get; set; } | Ruft das Rauschen ab oder legt es fest. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; } | Ruft den Unschärfewert in Pixel ab. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/) { get; set; } | Holt oder setzt die Intensität in Prozent. |
 
 ### Beispiele
 
@@ -57,8 +57,8 @@ using (var image = (PsdImage)Image.Load(src))
 
 ### Siehe auch
 
-* interface [ILayerEffect](../ilayereffect)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects)
+* interface [ILayerEffect](../ilayereffect/)
+* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
 * Montage [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

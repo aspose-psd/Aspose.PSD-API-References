@@ -1,14 +1,14 @@
 ---
-title: GradientFillSettings
+title: Class GradientFillSettings
 second_title: Aspose.PSD for .NET API 参考
-description: 渐变填充效果设置
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings 班级. 渐变填充效果设置.
 type: docs
-weight: 1940
+weight: 1960
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
 ## GradientFillSettings class
 
-渐变填充效果设置。
+渐变填充效果设置.
 
 ```csharp
 public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
@@ -18,39 +18,39 @@ public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GradientFillSettings](gradientfillsettings)() | 初始化[`GradientFillSettings`](../gradientfillsettings)类. |
+| [GradientFillSettings](gradientfillsettings/)() | 初始化一个新的实例`GradientFillSettings`类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer) { get; set; } | 获取或设置一个值，指示是否[与图层对齐]。 |
-| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle) { get; set; } | 获取或设置角度。 |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color) { get; set; } | 获取或设置颜色。 |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints) { get; set; } | 获取或设置色点。 |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither) { get; set; } | 获取或设置一个值，该值指示是否[`GradientFillSettings`](../gradientfillsettings)是抖动. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype) { get; } | 填充类型 |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname) { get; set; } | 获取或设置渐变的名称。 |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype) { get; set; } | 获取或设置渐变的类型。 |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset) { get; set; } | 获取或设置水平偏移量。 |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse) { get; set; } | 获取或设置一个值，该值指示是否[`GradientFillSettings`](../gradientfillsettings)是反向的。 |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale) { get; set; } | 获取或设置比例尺。 |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints) { get; set; } | 获取或设置透明度点。 |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset) { get; set; } | 获取或设置垂直偏移量。 |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/) { get; set; } | 获取或设置一个值，指示是否[与图层对齐]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/) { get; set; } | 获取或设置角度。 |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/) { get; set; } | 获取或设置颜色。 |
+| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints/) { get; set; } | 获取或设置颜色点。 |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | 获取或设置一个值，指示是否这`GradientFillSettings`是抖动. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | 填充类型 |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname/) { get; set; } | 获取或设置渐变的名称。 |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | 获取或设置渐变的类型。 |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | 获取或设置水平偏移百分比。 |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | 获取或设置一个值，指示是否这`GradientFillSettings`是反向的. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | 获取或设置比例。 |
+| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints/) { get; set; } | 获取或设置透明度点。 |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | 获取或设置垂直偏移百分比。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint)() | 添加色点。 |
-| [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint)() | 添加色点。 |
-| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint)(IGradientColorPoint) | 移除色点。 |
-| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint)(IGradientTransparencyPoint) | 移除透明点。 |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes)() | 生成 LFX2 资源节点。 |
+| [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/)() | 添加色点。 |
+| [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/)() | 添加色点。 |
+| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/)(IGradientColorPoint) | 删除颜色点。 |
+| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/)(IGradientTransparencyPoint) | 删除透明度点。 |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/)() | 生成 LFX2 资源节点。 |
 
 ### 例子
 
-以下代码演示了对具有填充类型 - 渐变的笔触效果图层的支持。
+以下代码演示了对填充类型为渐变的笔触效果层的支持。
 
 ```csharp
 [C#]
@@ -97,7 +97,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - fillSettings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
     AssertAreEqual(false, fillSettings.Reverse);
 
-    // 颜色点
+    // 色点
     var colorPoints = fillSettings.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
@@ -135,13 +135,13 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.VerticalOffset = 11;
     fillSettings.Reverse = true;
 
-    // 添加新的色点
+    // 添加新的颜色点
     var colorPoint = fillSettings.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
-    // 改变上一点的位置
+    // 改变上一个点的位置
     fillSettings.ColorPoints[1].Location = 1899;
 
     // 添加新的透明点
@@ -150,7 +150,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // 改变上一个透明点的位置
+    // 改变前一个透明点的位置
     fillSettings.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
@@ -209,9 +209,9 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### 也可以看看
 
-* class [BaseFillSettings](../basefillsettings)
-* interface [IGradientFillSettings](../igradientfillsettings)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings)
+* class [BaseFillSettings](../basefillsettings/)
+* interface [IGradientFillSettings](../igradientfillsettings/)
+* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * 部件 [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

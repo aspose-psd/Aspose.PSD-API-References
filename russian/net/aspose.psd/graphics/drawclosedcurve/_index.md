@@ -1,14 +1,14 @@
 ---
-title: DrawClosedCurve
+title: Graphics.DrawClosedCurve
 second_title: Справочник по Aspose.PSD для .NET API
-description: Рисует замкнутый кардинальный сплайн определяемый массивомPointFaspose.psd/pointf структуры. Этот метод использует натяжение по умолчанию 05 иAlternate режим заполнения.
+description: Graphics метод. Рисует замкнутый кардинальный сплайн определяемый массивомPointF структуры. Этот метод использует натяжение по умолчанию 05 иAlternate режим заполнения.
 type: docs
 weight: 190
 url: /ru/net/aspose.psd/graphics/drawclosedcurve/
 ---
 ## DrawClosedCurve(Pen, PointF[]) {#drawclosedcurve}
 
-Рисует замкнутый кардинальный сплайн, определяемый массивом[`PointF`](../../pointf) структуры. Этот метод использует натяжение по умолчанию 0,5 иAlternate режим заполнения.
+Рисует замкнутый кардинальный сплайн, определяемый массивом[`PointF`](../../pointf/) структуры. Этот метод использует натяжение по умолчанию 0,5 иAlternate режим заполнения.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points)
@@ -16,8 +16,8 @@ public void DrawClosedCurve(Pen pen, PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и высоту кривой. |
-| points | PointF[] | Массив[`PointF`](../../pointf) структуры, определяющие сплайн. |
+| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и высоту кривой. |
+| points | PointF[] | Массив[`PointF`](../../pointf/) структуры, определяющие сплайн. |
 
 ### Исключения
 
@@ -27,17 +27,17 @@ public void DrawClosedCurve(Pen pen, PointF[] points)
 
 ### Смотрите также
 
-* class [Pen](../../pen)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, PointF[], float) {#drawclosedcurve_1}
 
-Рисует замкнутый кардинальный сплайн, определяемый массивом[`PointF`](../../pointf) конструкции с заданным натяжением. Этот метод использует значение по умолчаниюAlternate режим заполнения.
+Рисует замкнутый кардинальный сплайн, определяемый массивом[`PointF`](../../pointf/) конструкции с заданным натяжением. Этот метод использует значение по умолчаниюAlternate режим заполнения.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points, float tension)
@@ -45,8 +45,8 @@ public void DrawClosedCurve(Pen pen, PointF[] points, float tension)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и высоту кривой. |
-| points | PointF[] | Массив[`PointF`](../../pointf) структуры, определяющие сплайн. |
+| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и высоту кривой. |
+| points | PointF[] | Массив[`PointF`](../../pointf/) структуры, определяющие сплайн. |
 | tension | Single | Значение больше или равно 0,0F, которое определяет натяжение кривой. |
 
 ### Исключения
@@ -57,17 +57,17 @@ public void DrawClosedCurve(Pen pen, PointF[] points, float tension)
 
 ### Смотрите также
 
-* class [Pen](../../pen)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[]) {#drawclosedcurve_2}
 
-Рисует замкнутый кардинальный сплайн, определяемый массивом[`Point`](../../point) структуры. Этот метод использует натяжение по умолчанию 0,5 иAlternate режим заполнения.
+Рисует замкнутый кардинальный сплайн, определяемый массивом[`Point`](../../point/) структуры. Этот метод использует натяжение по умолчанию 0,5 иAlternate режим заполнения.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points)
@@ -75,8 +75,8 @@ public void DrawClosedCurve(Pen pen, Point[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и высоту кривой. |
-| points | Point[] | Массив[`Point`](../../point) структуры, определяющие сплайн. |
+| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и высоту кривой. |
+| points | Point[] | Массив[`Point`](../../point/) структуры, определяющие сплайн. |
 
 ### Исключения
 
@@ -86,17 +86,17 @@ public void DrawClosedCurve(Pen pen, Point[] points)
 
 ### Смотрите также
 
-* class [Pen](../../pen)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[], float) {#drawclosedcurve_3}
 
-Рисует замкнутый кардинальный сплайн, определяемый массивом[`Point`](../../point) конструкции с заданным натяжением. Этот метод использует значение по умолчаниюAlternate режим заполнения.
+Рисует замкнутый кардинальный сплайн, определяемый массивом[`Point`](../../point/) конструкции с заданным натяжением. Этот метод использует значение по умолчаниюAlternate режим заполнения.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points, float tension)
@@ -104,8 +104,8 @@ public void DrawClosedCurve(Pen pen, Point[] points, float tension)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) который определяет цвет, ширину и высоту кривой. |
-| points | Point[] | Массив[`Point`](../../point) структуры, определяющие сплайн. |
+| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и высоту кривой. |
+| points | Point[] | Массив[`Point`](../../point/) структуры, определяющие сплайн. |
 | tension | Single | Значение больше или равно 0,0F, которое определяет натяжение кривой. |
 
 ### Исключения
@@ -116,10 +116,10 @@ public void DrawClosedCurve(Pen pen, Point[] points, float tension)
 
 ### Смотрите также
 
-* class [Pen](../../pen)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* пространство имен [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* пространство имен [Aspose.PSD](../../graphics/)
 * сборка [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

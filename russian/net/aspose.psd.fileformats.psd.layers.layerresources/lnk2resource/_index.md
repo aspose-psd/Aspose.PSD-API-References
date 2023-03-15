@@ -1,14 +1,14 @@
 ---
-title: Lnk2Resource
+title: Class Lnk2Resource
 second_title: Справочник по Aspose.PSD для .NET API
-description: Определяет класс который содержит информацию о вложенных файлах в изображение формата PSD. Ресурс ссылки может содержать несколькоLiFdDataSource./lifddatasource экземпляры к которым может обращаться индексатор.
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk2Resource сорт. Определяет класс который содержит информацию о вложенных файлах в изображение формата PSD. Ресурс ссылки может содержать несколькоLiFdDataSource экземпляры к которым может обращаться индексатор.
 type: docs
-weight: 2700
+weight: 2720
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/
 ---
 ## Lnk2Resource class
 
-Определяет класс, который содержит информацию о вложенных файлах в изображение формата PSD. Ресурс ссылки может содержать несколько[`LiFdDataSource`](../lifddatasource) экземпляры, к которым может обращаться индексатор.
+Определяет класс, который содержит информацию о вложенных файлах в изображение формата PSD. Ресурс ссылки может содержать несколько[`LiFdDataSource`](../lifddatasource/) экземпляры, к которым может обращаться индексатор.
 
 ```csharp
 public class Lnk2Resource : LinkResource
@@ -18,38 +18,38 @@ public class Lnk2Resource : LinkResource
 
 | Имя | Описание |
 | --- | --- |
-| [Lnk2Resource](lnk2resource)() | Инициализирует новый экземпляр[`Lnk2Resource`](../lnk2resource) класс. |
+| [Lnk2Resource](lnk2resource/)() | Инициализирует новый экземпляр`Lnk2Resource` класс. |
 
 ## Характеристики
 
 | Имя | Описание |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount) { get; } | Получает количество источников данных ссылок, к которым может обращаться индексатор. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | Получает значение, указывающее, является ли этот экземпляр ресурса ссылки пустым. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item) { get; } | Получает[`LiFdDataSource`](../lifddatasource) по указанному индексу. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/key) { get; } | Получает ключ ресурса слоя. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length) { get; } | Получает длину ресурса глобальной ссылки PSD в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | Получает версию формата PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature) { get; } | Получает подпись ресурса глобальной ссылки PSD. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Получает количество источников данных ссылок, к которым может обращаться индексатор. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Получает значение, указывающее, является ли этот экземпляр ресурса ссылки пустым. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Получает[`LiFdDataSource`](../lifddatasource/) по указанному индексу. (2 indexers) |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/key/) { get; } | Получает ключ ресурса слоя. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Получает длину ресурса глобальной ссылки PSD в байтах. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Получает версию формата PSD. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Получает подпись ресурса глобальной ссылки PSD. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | Сохраняет данные блока ресурсов. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | ВозвращаетString который представляет этот экземпляр. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Сохраняет данные блока ресурсов. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/typetoolkey) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/typetoolkey/) | Информационный ключ типа инструмента. |
 
 ### Смотрите также
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [LinkResource](../linkresource)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [LinkResource](../linkresource/)
+* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * сборка [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
