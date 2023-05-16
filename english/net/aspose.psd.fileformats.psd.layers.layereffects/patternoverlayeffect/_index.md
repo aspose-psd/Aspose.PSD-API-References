@@ -1,11 +1,12 @@
 ---
-title: PatternOverlayEffect
+title: Class PatternOverlayEffect
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect class. Pattern Layer effect
 type: docs
-weight: 2120
+weight: 2210
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
 Pattern Layer effect
@@ -18,13 +19,13 @@ public class PatternOverlayEffect : ILayerEffect
 
 | Name | Description |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode) { get; set; } | Gets or sets the blend mode. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype) { get; } | Gets a type of effect type |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible) { get; set; } | Gets or sets a value indicating whether this instance is visible. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity) { get; set; } | Gets or sets the opacity. |
-| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings) { get; set; } | Gets or sets the settings. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Gets or sets the blend mode. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Gets a type of effect type |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Gets or sets a value indicating whether this instance is visible. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Gets or sets the opacity. |
+| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Gets or sets the settings. |
 
-### Examples
+## Examples
 
 The following code demonstrates the support of the pattern overlay effect.
 
@@ -88,8 +89,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     var settings = patternOverlay.Settings;
     AssertAreEqual(Color.Empty, settings.Color);
     AssertAreEqual(FillType.Pattern, settings.FillType);
-    AssertAreEqual("85163837-eb9e-5b43-86fb-e6d5963ea29a\0", settings.PatternId);
-    AssertAreEqual("$$$/Presets/Patterns/OpticalSquares=Optical Squares\0", settings.PatternName);
+    AssertAreEqual("85163837-eb9e-5b43-86fb-e6d5963ea29a".ToUpperInvariant(), settings.PatternId);
+    AssertAreEqual("$$$/Presets/Patterns/OpticalSquares=Optical Squares", settings.PatternName);
     AssertAreEqual(null, settings.PointType);
     AssertAreEqual(100.00, settings.Scale);
 
@@ -105,21 +106,12 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     settings.HorizontalOffset = 15;
     settings.VerticalOffset = 11;
 
-    PattResource resource;
-    foreach (var globalLayerResource in im.GlobalLayerResources)
-    {
-        if (globalLayerResource is PattResource)
-        {
-            resource = (PattResource)globalLayerResource;
-            resource.Patterns[0].PatternId = guid.ToString();
-            resource.Patterns[0].Name = newPatternName;
-            resource.Patterns[0].SetPattern(newPattern, newPatternBounds);
-        }
-    }
-
     settings.PatternName = newPatternName;
-
-    settings.PatternId = guid.ToString() + "\0";
+    settings.PatternId = guid.ToString();
+    settings.PatternData = newPattern;
+    settings.PatternWidth = newPatternBounds.Width;
+    settings.PatternHeight = newPatternBounds.Height;
+    
     im.Save(exportPath);
 }
 
@@ -151,17 +143,17 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     }
 
     // Check the pattern data
-    AssertAreEqual(newPattern, resource.Patterns[0].PatternData);
-    AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[0].Width, resource.Patterns[0].Height));
-    AssertAreEqual(guid.ToString(), resource.Patterns[0].PatternId);
-    AssertAreEqual(newPatternName, resource.Patterns[0].Name + "\0");
+    AssertAreEqual(newPattern, resource.Patterns[1].PatternData);
+    AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[1].Width, resource.Patterns[1].Height));
+    AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[1].PatternId);
+    AssertAreEqual(newPatternName, resource.Patterns[1].Name + "\0");
 }
 ```
 
 ### See Also
 
-* interface [ILayerEffect](../ilayereffect)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects)
+* interface [ILayerEffect](../ilayereffect/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

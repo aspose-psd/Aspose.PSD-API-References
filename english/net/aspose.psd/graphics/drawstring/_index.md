@@ -1,14 +1,15 @@
 ---
-title: DrawString
+title: Graphics.DrawString
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Graphics method. Draws the specified text string at the specified location with the specified Brush and Font objects
 type: docs
 weight: 320
 url: /net/aspose.psd/graphics/drawstring/
 ---
-## Graphics.DrawString method (1 of 6)
+{{< psd/tize >}}
+## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-Draws the specified text string at the specified location with the specified [`Brush`](../../brush) and [`Font`](../../font) objects.
+Draws the specified text string at the specified location with the specified [`Brush`](../../brush/) and [`Font`](../../font/) objects.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
@@ -17,8 +18,8 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | String | String to draw. |
-| font | Font | [`Font`](../../font) that defines the text format of the string. |
-| brush | Brush | [`Brush`](../../brush) that determines the color and texture of the drawn text. |
+| font | Font | [`Font`](../../font/) that defines the text format of the string. |
+| brush | Brush | [`Brush`](../../brush/) that determines the color and texture of the drawn text. |
 | x | Single | The x-coordinate of the upper-left corner of the drawn text. |
 | y | Single | The y-coordinate of the upper-left corner of the drawn text. |
 
@@ -30,17 +31,17 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawString method (2 of 6)
+## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-Draws the specified text string at the specified location with the specified [`Brush`](../../brush) and [`Font`](../../font) objects.
+Draws the specified text string at the specified location with the specified [`Brush`](../../brush/) and [`Font`](../../font/) objects.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
@@ -49,9 +50,9 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | String | String to draw. |
-| font | Font | [`Font`](../../font) that defines the text format of the string. |
-| brush | Brush | [`Brush`](../../brush) that determines the color and texture of the drawn text. |
-| point | PointF | [`PointF`](../../pointf) structure that specifies the upper-left corner of the drawn text. |
+| font | Font | [`Font`](../../font/) that defines the text format of the string. |
+| brush | Brush | [`Brush`](../../brush/) that determines the color and texture of the drawn text. |
+| point | PointF | [`PointF`](../../pointf/) structure that specifies the upper-left corner of the drawn text. |
 
 ### Exceptions
 
@@ -59,7 +60,7 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 | --- | --- |
 | ArgumentNullException | *brush* is null. -or- *s* is null. |
 
-### Examples
+## Examples
 
 This example demonstrates the use of Font and SolidBrush class to draw strings on Image surface. The example creates a new Image and draw shapes using Figures and GraphicsPath
 
@@ -94,18 +95,18 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawString method (3 of 6)
+## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-Draws the specified text string at the specified location with the specified [`Brush`](../../brush) and [`Font`](../../font) objects using the formatting attributes of the specified [`StringFormat`](../../stringformat).
+Draws the specified text string at the specified location with the specified [`Brush`](../../brush/) and [`Font`](../../font/) objects using the formatting attributes of the specified [`StringFormat`](../../stringformat/).
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
@@ -114,11 +115,11 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | String | String to draw. |
-| font | Font | [`Font`](../../font) that defines the text format of the string. |
-| brush | Brush | [`Brush`](../../brush) that determines the color and texture of the drawn text. |
+| font | Font | [`Font`](../../font/) that defines the text format of the string. |
+| brush | Brush | [`Brush`](../../brush/) that determines the color and texture of the drawn text. |
 | x | Single | The x-coordinate of the upper-left corner of the drawn text. |
 | y | Single | The y-coordinate of the upper-left corner of the drawn text. |
-| format | StringFormat | [`StringFormat`](../../stringformat) that specifies formatting attributes, such as line spacing and alignment, that are applied to the drawn text. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) that specifies formatting attributes, such as line spacing and alignment, that are applied to the drawn text. |
 
 ### Exceptions
 
@@ -128,18 +129,18 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawString method (4 of 6)
+## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-Draws the specified text string at the specified location with the specified [`Brush`](../../brush) and [`Font`](../../font) objects using the formatting attributes of the specified [`StringFormat`](../../stringformat).
+Draws the specified text string at the specified location with the specified [`Brush`](../../brush/) and [`Font`](../../font/) objects using the formatting attributes of the specified [`StringFormat`](../../stringformat/).
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
@@ -148,10 +149,10 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | String | String to draw. |
-| font | Font | [`Font`](../../font) that defines the text format of the string. |
-| brush | Brush | [`Brush`](../../brush) that determines the color and texture of the drawn text. |
-| point | PointF | [`PointF`](../../pointf) structure that specifies the upper-left corner of the drawn text. |
-| format | StringFormat | [`StringFormat`](../../stringformat) that specifies formatting attributes, such as line spacing and alignment, that are applied to the drawn text. |
+| font | Font | [`Font`](../../font/) that defines the text format of the string. |
+| brush | Brush | [`Brush`](../../brush/) that determines the color and texture of the drawn text. |
+| point | PointF | [`PointF`](../../pointf/) structure that specifies the upper-left corner of the drawn text. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) that specifies formatting attributes, such as line spacing and alignment, that are applied to the drawn text. |
 
 ### Exceptions
 
@@ -161,19 +162,19 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [PointF](../../pointf)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawString method (5 of 6)
+## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-Draws the specified text string in the specified rectangle with the specified [`Brush`](../../brush) and [`Font`](../../font) objects.
+Draws the specified text string in the specified rectangle with the specified [`Brush`](../../brush/) and [`Font`](../../font/) objects.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
@@ -182,9 +183,9 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | String | String to draw. |
-| font | Font | [`Font`](../../font) that defines the text format of the string. |
-| brush | Brush | [`Brush`](../../brush) that determines the color and texture of the drawn text. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the location of the drawn text. |
+| font | Font | [`Font`](../../font/) that defines the text format of the string. |
+| brush | Brush | [`Brush`](../../brush/) that determines the color and texture of the drawn text. |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) structure that specifies the location of the drawn text. |
 
 ### Exceptions
 
@@ -194,18 +195,18 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawString method (6 of 6)
+## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-Draws the specified text string in the specified rectangle with the specified [`Brush`](../../brush) and [`Font`](../../font) objects using the formatting attributes of the specified [`StringFormat`](../../stringformat).
+Draws the specified text string in the specified rectangle with the specified [`Brush`](../../brush/) and [`Font`](../../font/) objects using the formatting attributes of the specified [`StringFormat`](../../stringformat/).
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
@@ -215,10 +216,10 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 | Parameter | Type | Description |
 | --- | --- | --- |
 | s | String | String to draw. |
-| font | Font | [`Font`](../../font) that defines the text format of the string. |
-| brush | Brush | [`Brush`](../../brush) that determines the color and texture of the drawn text. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the location of the drawn text. |
-| format | StringFormat | [`StringFormat`](../../stringformat) that specifies formatting attributes, such as line spacing and alignment, that are applied to the drawn text. |
+| font | Font | [`Font`](../../font/) that defines the text format of the string. |
+| brush | Brush | [`Brush`](../../brush/) that determines the color and texture of the drawn text. |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) structure that specifies the location of the drawn text. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) that specifies formatting attributes, such as line spacing and alignment, that are applied to the drawn text. |
 
 ### Exceptions
 
@@ -228,12 +229,12 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 ### See Also
 
-* class [Font](../../font)
-* class [Brush](../../brush)
-* struct [RectangleF](../../rectanglef)
-* class [StringFormat](../../stringformat)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Font](../../font/)
+* class [Brush](../../brush/)
+* struct [RectangleF](../../rectanglef/)
+* class [StringFormat](../../stringformat/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

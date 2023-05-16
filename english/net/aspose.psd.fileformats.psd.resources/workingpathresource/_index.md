@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource
+title: Class WorkingPathResource
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.FileFormats.Psd.Resources.WorkingPathResource class. Working path resource
 type: docs
-weight: 3840
+weight: 4030
 url: /net/aspose.psd.fileformats.psd.resources/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource class
 
 Working path resource.
@@ -18,32 +19,32 @@ public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
 
 | Name | Description |
 | --- | --- |
-| [WorkingPathResource](workingpathresource)(byte[]) | Initializes a new instance of the [`WorkingPathResource`](../workingpathresource) class. |
+| [WorkingPathResource](workingpathresource/)(byte[]) | Initializes a new instance of the `WorkingPathResource` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/workingpathresource/datasize) { get; } | Gets the resource data size in bytes. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id) { get; set; } | Gets or sets the unique identifier for the resource. |
-| [IsDisabled](../../aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled) { get; set; } | Gets or sets a value indicating whether this instance is disabled. |
-| [IsInverted](../../aspose.psd.fileformats.psd.resources/workingpathresource/isinverted) { get; set; } | Gets or sets a value indicating whether this instance is inverted. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked) { get; set; } | Gets or sets a value indicating whether this instance is not linked. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion) { get; } | Gets the minimal required PSD version. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name) { get; set; } | Gets or sets the resource name. Pascal string, padded to make the size even (a null name consists of two bytes of 0). |
-| [Paths](../../aspose.psd.fileformats.psd.resources/workingpathresource/paths) { get; set; } | Gets or sets the path records. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature) { get; } | Gets the resource signature. Should be always '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size) { get; } | Gets the resource block size in bytes including its data. |
-| [Version](../../aspose.psd.fileformats.psd.resources/workingpathresource/version) { get; set; } | Gets or sets the version. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/workingpathresource/datasize/) { get; } | Gets the resource data size in bytes. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Gets or sets the unique identifier for the resource. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled/) { get; set; } | Gets or sets a value indicating whether this instance is disabled. |
+| [IsInverted](../../aspose.psd.fileformats.psd.resources/workingpathresource/isinverted/) { get; set; } | Gets or sets a value indicating whether this instance is inverted. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked/) { get; set; } | Gets or sets a value indicating whether this instance is not linked. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion/) { get; } | Gets the minimal required PSD version. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Gets or sets the resource name. Pascal string, padded to make the size even (a null name consists of two bytes of 0). |
+| [Paths](../../aspose.psd.fileformats.psd.resources/workingpathresource/paths/) { get; set; } | Gets or sets the path records. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Gets the resource signature. Should be always '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Gets the resource block size in bytes including its data. |
+| [Version](../../aspose.psd.fileformats.psd.resources/workingpathresource/version/) { get; set; } | Gets or sets the version. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save)(StreamContainer) | Saves the resource block to the specified stream. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues)() | Validates the resource values. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Saves the resource block to the specified stream. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Validates the resource values. |
 
-### Examples
+## Examples
 
 This example demonstrates the support of 'WorkingPathResource' resource in PsdImage.ImageResources fo correct working of Crop operation.
 
@@ -101,9 +102,9 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 
 ### See Also
 
-* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock)
-* interface [IVectorPathData](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources)
+* class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
+* interface [IVectorPathData](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

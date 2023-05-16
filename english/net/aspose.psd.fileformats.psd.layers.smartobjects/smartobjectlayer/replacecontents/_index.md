@@ -1,12 +1,13 @@
 ---
-title: ReplaceContents
+title: SmartObjectLayer.ReplaceContents
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: SmartObjectLayer method. Replaces the smart object contents embedded in the smart object layer
 type: docs
 weight: 140
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
 ---
-## SmartObjectLayer.ReplaceContents method (1 of 4)
+{{< psd/tize >}}
+## ReplaceContents(Image) {#replacecontents}
 
 Replaces the smart object contents embedded in the smart object layer.
 
@@ -18,7 +19,7 @@ public void ReplaceContents(Image image)
 | --- | --- | --- |
 | image | Image | The image. |
 
-### Examples
+## Examples
 
 The following code demonstrates the support of Embedded Smart objects.
 
@@ -97,14 +98,14 @@ foreach (FileFormat format in formats)
 
 ### See Also
 
-* class [Image](../../../aspose.psd/image)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [Image](../../../aspose.psd/image/)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## SmartObjectLayer.ReplaceContents method (2 of 4)
+## ReplaceContents(Image, ResolutionSetting) {#replacecontents_1}
 
 Replaces the smart object contents embedded in the smart object layer.
 
@@ -121,9 +122,9 @@ public void ReplaceContents(Image image, ResolutionSetting resolution)
 
 | exception | condition |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception) | Can only replace embedded smart object. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Can only replace embedded smart object. |
 
-### Examples
+## Examples
 
 This example demonstrates that the ReplaceContents method works correctly when the new content file has a different resolution.
 
@@ -156,15 +157,15 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 
 ### See Also
 
-* class [Image](../../../aspose.psd/image)
-* class [ResolutionSetting](../../../aspose.psd/resolutionsetting)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [Image](../../../aspose.psd/image/)
+* class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## SmartObjectLayer.ReplaceContents method (3 of 4)
+## ReplaceContents(string, ResolutionSetting) {#replacecontents_3}
 
 Replaces the contents with a file. There is no need to call UpdateModifiedContent method afterwards.
 
@@ -177,7 +178,7 @@ public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
 | linkedPath | String | The linked path. |
 | resolution | ResolutionSetting | The resolution settings. If null the image resolution will be used. |
 
-### Examples
+## Examples
 
 This example demonstrates that the ReplaceContents method works correctly when the new content file has a different resolution.
 
@@ -210,14 +211,14 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 
 ### See Also
 
-* class [ResolutionSetting](../../../aspose.psd/resolutionsetting)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## SmartObjectLayer.ReplaceContents method (4 of 4)
+## ReplaceContents(string) {#replacecontents_2}
 
 Replaces the contents with a file. There is no need to call UpdateModifiedContent method afterwards.
 
@@ -229,7 +230,7 @@ public void ReplaceContents(string linkedPath)
 | --- | --- | --- |
 | linkedPath | String | The linked path. |
 
-### Examples
+## Examples
 
 The following code demonstrates the support of updating Linked Smart objects.
 
@@ -280,7 +281,7 @@ void ExampleOfUpdatingSmartObjectLayer(
 {
     // This example demonstrates how to change the smart object layer in the PSD file and export / update its contents.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
-    string dataDir = "updating_output\\";
+    string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
     string pngOutputPath = dataDir + fileName + "_modified.png";
     string png2OutputPath = dataDir + fileName + "_updated_modified.png";
@@ -350,7 +351,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     // This demonstrates how to convert an embedded smart object layer in the PSD file to external one.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
-    string dataDir = "to_linked_output\\";
+    string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
     string pngOutputPath = dataDir + fileName + "_to_external.png";
     string psdOutputPath = dataDir + fileName + "_to_external.psd";
@@ -398,7 +399,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     FileFormat format)
 {
     string fileName = Path.GetFileNameWithoutExtension(filePath);
-    string dataDir = "to_embedded_output\\";
+    string dataDir = "to_embedded_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
     string pngOutputPath = dataDir + fileName + "_to_embedded.png";
     string psdOutputPath = dataDir + fileName + "_to_embedded.psd";
@@ -454,7 +455,7 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
 {
     string formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
-    string dataDir = "external_support_output\\";
+    string dataDir = "external_support_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
     string pngOutputPath = dataDir + fileName + ".png";
     string psdOutputPath = dataDir + fileName + ".psd";
@@ -536,8 +537,8 @@ string GetFormatExt(FileFormat format)
 
 ### See Also
 
-* class [SmartObjectLayer](../../smartobjectlayer)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

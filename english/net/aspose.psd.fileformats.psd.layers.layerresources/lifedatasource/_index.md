@@ -1,11 +1,12 @@
 ---
-title: LiFeDataSource
+title: Class LiFeDataSource
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource class. Defines the LnkeDataSource class that contains information about external linked file. This is part of PSD File Format Manipulation API that helps to modify Adobe Photoshop files
 type: docs
-weight: 2600
+weight: 2720
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource class
 
 Defines the LnkeDataSource class that contains information about external linked file. This is part of PSD File Format Manipulation API that helps to modify Adobe® Photoshop® files
@@ -18,38 +19,38 @@ public class LiFeDataSource : LinkDataSource
 
 | Name | Description |
 | --- | --- |
-| [LiFeDataSource](lifedatasource)() | Initializes a new instance of the [`LiFeDataSource`](../lifedatasource) class. |
-| [LiFeDataSource](lifedatasource)(int, Guid, string, string, string) | Initializes a new instance of the [`LiFeDataSource`](../lifedatasource) class. |
+| [LiFeDataSource](lifedatasource/#constructor)() | Initializes a new instance of the `LiFeDataSource` class. |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Initializes a new instance of the `LiFeDataSource` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid) { get; set; } | Gets or sets the graphics library AdobeStockId, for Adobe® Photoshop® CC Libraries. |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate) { get; } | Gets the state of the adobe stock license if available, for Adobe® Photoshop® CC libraries. |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate) { get; set; } | Gets or sets a value indicating whether the PSD asset is locked. The asset locked state, for Adobe® Photoshop® СС Libraries assets. |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime) { get; set; } | Gets or sets the asset modified time, for Adobe® Photoshop® СС Libraries assets. |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid) { get; set; } | Gets or sets the child document identifier in the liFE or liFD data source of the Lnk2 / LnkE Adobe® Photoshop® resource. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid) { get; set; } | Gets or sets the ID of the currently selected comp for the child document, which will be -1 if none are selected. Comps are compositions of a page layout which designers can create. Using layer comps, you can create, manage, and view multiple versions of a layout in a single Adobe® Photoshop® file. A layer comp is a snapshot of a state of the Layers panel. Layer comps save three types of layer options but this property gets the Layer Comp selection identifier for Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date) { get; set; } | Gets or sets the last write date and time of the external file in the LiFE data source of the PSD LnkE resource. |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname) { get; set; } | Gets or sets the graphics library element name, for Adobe® Photoshop® CC Libraries. |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref) { get; set; } | Gets or sets the graphics library element reference, for Adobe® Photoshop® CC Libraries. |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator) { get; set; } | Gets or sets the file creator in the PSD format LnkE / Lnk2 resource. |
-| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename) { get; set; } | Gets or sets the name of the external or embedded file in the PSD link resource . |
-| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize) { get; set; } | Gets or sets the size of the external file in the LiFE data source of the PSD LnkE resource. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype) { get; set; } | Gets or sets the type of the embedded or external file which Adobe® Photoshop® Lnk2 / LnkE resource contains or links. |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath) { get; set; } | Gets or sets the full path of the external file in the LiFE data source of the PSD LnkE resource. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor) { get; set; } | Gets or sets a value indicating whether this link data source has the file open descriptor: CompId and OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink) { get; } | Gets a value indicating whether this PSD link data source links to the Adobe® Photoshop® СС Library item. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length) { get; } | Gets the link data source length in bytes. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid) { get; } | Gets the original ID of the currently selected Comp for the child document, which will be -1 if none are selected. This property gets the original layer Comp selection identifier for Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename) { get; } | Gets the original file name of the data source in the Adobe® Photoshop® global link resource. |
-| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath) { get; set; } | Gets or sets the relative path of the external file in the LiFE data source of the PSD LnkE resource. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type) { get; } | Gets the Adobe® Photoshop® global link data source type that can be one of the following or none: The embedded linked file liFD that corresponds to the PSD Lnk2Resource The external linked file liFE that corresponds to the PSD LnkeResource The linked file alias liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid) { get; } | Gets the global unique identifier of the data source in the PSD link resource. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version) { get; } | Gets the version of the data source in the PSD LnkE / Lnk2 resource. |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Gets or sets the graphics library AdobeStockId, for Adobe® Photoshop® CC Libraries. |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Gets the state of the adobe stock license if available, for Adobe® Photoshop® CC libraries. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Gets or sets a value indicating whether the PSD asset is locked. The asset locked state, for Adobe® Photoshop® СС Libraries assets. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Gets or sets the asset modified time, for Adobe® Photoshop® СС Libraries assets. |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Gets or sets the child document identifier in the liFE or liFD data source of the Lnk2 / LnkE Adobe® Photoshop® resource. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Gets or sets the ID of the currently selected comp for the child document, which will be -1 if none are selected. Comps are compositions of a page layout which designers can create. Using layer comps, you can create, manage, and view multiple versions of a layout in a single Adobe® Photoshop® file. A layer comp is a snapshot of a state of the Layers panel. Layer comps save three types of layer options but this property gets the Layer Comp selection identifier for Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Gets or sets the last write date and time of the external file in the LiFE data source of the PSD LnkE resource. |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Gets or sets the graphics library element name, for Adobe® Photoshop® CC Libraries. |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Gets or sets the graphics library element reference, for Adobe® Photoshop® CC Libraries. |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Gets or sets the file creator in the PSD format LnkE / Lnk2 resource. |
+| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Gets or sets the name of the external or embedded file in the PSD link resource . |
+| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | Gets or sets the size of the external file in the LiFE data source of the PSD LnkE resource. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Gets or sets the type of the embedded or external file which Adobe® Photoshop® Lnk2 / LnkE resource contains or links. |
+| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Gets or sets the full path of the external file in the LiFE data source of the PSD LnkE resource. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Gets or sets a value indicating whether this link data source has the file open descriptor: CompId and OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Gets a value indicating whether this PSD link data source links to the Adobe® Photoshop® СС Library item. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Gets the link data source length in bytes. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Gets the original ID of the currently selected Comp for the child document, which will be -1 if none are selected. This property gets the original layer Comp selection identifier for Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Gets the original file name of the data source in the Adobe® Photoshop® global link resource. |
+| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | Gets or sets the relative path of the external file in the LiFE data source of the PSD LnkE resource. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Gets the Adobe® Photoshop® global link data source type that can be one of the following or none: The embedded linked file liFD that corresponds to the PSD Lnk2Resource The external linked file liFE that corresponds to the PSD LnkeResource The linked file alias liFA |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Gets the global unique identifier of the data source in the PSD link resource. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Gets the version of the data source in the PSD LnkE / Lnk2 resource. |
 
-### Examples
+## Examples
 
 This example demonstrates how to get and set properties of the Psd LnkE Resource.
 
@@ -374,7 +375,7 @@ object[] ComplexLnkEResourceSupportCases = new object[]
 
 void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length2, object[] dataSourceExpectedValues)
 {
-    filePath = @"PSDNET652_1\" + filePath;
+    filePath = "PSDNET652_1" + Path.DirectorySeparatorChar + filePath;
     string fileName = Path.GetFileName(filePath);
     using (PsdImage image = (PsdImage)Image.Load(filePath))
     {
@@ -443,8 +444,8 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### See Also
 
-* class [LinkDataSource](../linkdatasource)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LinkDataSource](../linkdatasource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
