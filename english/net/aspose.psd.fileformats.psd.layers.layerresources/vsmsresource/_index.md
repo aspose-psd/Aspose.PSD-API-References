@@ -1,11 +1,12 @@
 ---
-title: VsmsResource
+title: Class VsmsResource
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource class. Class VsmsResource. This resource contains information about vector layer mask
 type: docs
-weight: 3250
+weight: 3430
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 ---
+{{< psd/tize >}}
 ## VsmsResource class
 
 Class VsmsResource. This resource contains information about vector layer mask
@@ -18,37 +19,37 @@ public class VsmsResource : VectorPathDataResource
 
 | Name | Description |
 | --- | --- |
-| [VsmsResource](vsmsresource)() | Initializes a new instance of the [`VsmsResource`](../vsmsresource) class. |
-| [VsmsResource](vsmsresource)(byte[]) | Initializes a new instance of the [`VsmsResource`](../vsmsresource) class. |
+| [VsmsResource](vsmsresource/#constructor)() | Initializes a new instance of the `VsmsResource` class. |
+| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | Initializes a new instance of the `VsmsResource` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled) { get; set; } | Gets or sets a value indicating whether this instance is disabled. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted) { get; set; } | Gets or sets a value indicating whether this instance is inverted. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked) { get; set; } | Gets or sets a value indicating whether this instance is not linked. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key) { get; } | Gets the layer resource key. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length) { get; } | Gets the layer resource length in bytes. |
-| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths) { get; set; } | Gets or sets the path records. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion) { get; } | Gets the psd version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature) { get; } | Gets the signature. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version) { get; set; } | Gets or sets the version. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Gets or sets a value indicating whether this instance is disabled. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Gets or sets a value indicating whether this instance is inverted. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Gets or sets a value indicating whether this instance is not linked. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key/) { get; } | Gets the layer resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Gets the layer resource length in bytes. |
+| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Gets or sets the path records. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | Gets the signature. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Gets or sets the version. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save)(StreamContainer, int) | Saves the resource to the specified stream container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Saves the resource to the specified stream container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The type tool info key. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/) | The type tool info key. |
 
-### Examples
+## Examples
 
 The following example demonstrates the support of VsmsResource resource loading. How works the editing of paths.
 
@@ -133,9 +134,9 @@ private VsmsResource GetVsmsResource(PsdImage image)
 
 ### See Also
 
-* class [VectorPathDataResource](../vectorpathdataresource)
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [VectorPathDataResource](../vectorpathdataresource/)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

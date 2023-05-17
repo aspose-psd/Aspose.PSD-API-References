@@ -1,14 +1,15 @@
 ---
-title: PsdImage
+title: PsdImage.PsdImage
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: PsdImage constructor. Initializes a new instance of the PsdImage class from specified path from raster image not psd image in path. Used to initialize psd image with default parameters  Color mode  rgb 4 channels 8 bit per channel Compression  Raw
 type: docs
 weight: 10
 url: /net/aspose.psd.fileformats.psd/psdimage/psdimage/
 ---
-## PsdImage constructor (1 of 8)
+{{< psd/tize >}}
+## PsdImage(string) {#constructor_6}
 
-Initializes a new instance of the [`PsdImage`](../../psdimage) class from specified path from raster image (not psd image in path). Used to initialize psd image with default parameters - Color mode - rgb, 4 channels, 8 bit per channel, Compression - Raw.
+Initializes a new instance of the [`PsdImage`](../) class from specified path from raster image (not psd image in path). Used to initialize psd image with default parameters - Color mode - rgb, 4 channels, 8 bit per channel, Compression - Raw.
 
 ```csharp
 public PsdImage(string path)
@@ -20,15 +21,15 @@ public PsdImage(string path)
 
 ### See Also
 
-* class [PsdImage](../../psdimage)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## PsdImage constructor (2 of 8)
+## PsdImage(string, ColorModes, short, short, int, CompressionMethod) {#constructor_7}
 
-Initializes a new instance of the [`PsdImage`](../../psdimage) class from specified path from raster image (not psd image in path) with constructor parameters.
+Initializes a new instance of the [`PsdImage`](../) class from specified path from raster image (not psd image in path) with constructor parameters.
 
 ```csharp
 public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short channels, 
@@ -46,17 +47,17 @@ public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short 
 
 ### See Also
 
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## PsdImage constructor (3 of 8)
+## PsdImage(Stream) {#constructor_4}
 
-Initializes a new instance of the [`PsdImage`](../../psdimage) class from specified path from raster image (not psd image in stream). Used to initialize psd image with default parameters - Color mode - rgb, 4 channels, 8 bit per channel, Compression - Raw.
+Initializes a new instance of the [`PsdImage`](../) class from specified path from raster image (not psd image in stream). Used to initialize psd image with default parameters - Color mode - rgb, 4 channels, 8 bit per channel, Compression - Raw.
 
 ```csharp
 public PsdImage(Stream stream)
@@ -68,15 +69,15 @@ public PsdImage(Stream stream)
 
 ### See Also
 
-* class [PsdImage](../../psdimage)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## PsdImage constructor (4 of 8)
+## PsdImage(Stream, ColorModes, short, short, int, CompressionMethod) {#constructor_5}
 
-Initializes a new instance of the [`PsdImage`](../../psdimage) class from specified path from raster image (not psd image in stream) with constructor parameters.
+Initializes a new instance of the [`PsdImage`](../) class from specified path from raster image (not psd image in stream) with constructor parameters.
 
 ```csharp
 public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, short channels, 
@@ -94,17 +95,17 @@ public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, shor
 
 ### See Also
 
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## PsdImage constructor (5 of 8)
+## PsdImage(RasterImage) {#constructor}
 
-Initializes a new instance of the [`PsdImage`](../../psdimage) class from existing raster image (not psd image) with RGB color mode with 4 channels 8 bit/channel and no compression.
+Initializes a new instance of the [`PsdImage`](../) class from existing raster image (not psd image) with RGB color mode with 4 channels 8 bit/channel and no compression.
 
 ```csharp
 public PsdImage(RasterImage rasterImage)
@@ -116,16 +117,16 @@ public PsdImage(RasterImage rasterImage)
 
 ### See Also
 
-* class [RasterImage](../../../aspose.psd/rasterimage)
-* class [PsdImage](../../psdimage)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [RasterImage](../../../aspose.psd/rasterimage/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## PsdImage constructor (6 of 8)
+## PsdImage(RasterImage, ColorModes, short, short, int, CompressionMethod) {#constructor_1}
 
-Initializes a new instance of the [`PsdImage`](../../psdimage) class from existing raster image (not psd image) with constructor parameters.
+Initializes a new instance of the [`PsdImage`](../) class from existing raster image (not psd image) with constructor parameters.
 
 ```csharp
 public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitDepth, 
@@ -143,18 +144,18 @@ public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitD
 
 ### See Also
 
-* class [RasterImage](../../../aspose.psd/rasterimage)
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [RasterImage](../../../aspose.psd/rasterimage/)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## PsdImage constructor (7 of 8)
+## PsdImage(int, int) {#constructor_2}
 
-Initializes a new instance of the [`PsdImage`](../../psdimage) class with specified width and height. Used to initialize empty psd image.
+Initializes a new instance of the [`PsdImage`](../) class with specified width and height. Used to initialize empty psd image.
 
 ```csharp
 public PsdImage(int width, int height)
@@ -167,15 +168,15 @@ public PsdImage(int width, int height)
 
 ### See Also
 
-* class [PsdImage](../../psdimage)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## PsdImage constructor (8 of 8)
+## PsdImage(int, int, IColorPalette, ColorModes, short, short, int, CompressionMethod) {#constructor_3}
 
-Initializes a new instance of the [`PsdImage`](../../psdimage) class with specified width,height, paletter, color mode, channels count and channels bit-length and specified compression mode parameters. Used to initialize empty psd image.
+Initializes a new instance of the [`PsdImage`](../) class with specified width,height, paletter, color mode, channels count and channels bit-length and specified compression mode parameters. Used to initialize empty psd image.
 
 ```csharp
 public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes colorMode, 
@@ -195,11 +196,11 @@ public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes co
 
 ### See Also
 
-* interface [IColorPalette](../../../aspose.psd/icolorpalette)
-* enum [ColorModes](../../colormodes)
-* enum [CompressionMethod](../../compressionmethod)
-* class [PsdImage](../../psdimage)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage)
+* interface [IColorPalette](../../../aspose.psd/icolorpalette/)
+* enum [ColorModes](../../colormodes/)
+* enum [CompressionMethod](../../compressionmethod/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

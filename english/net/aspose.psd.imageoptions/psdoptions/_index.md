@@ -1,11 +1,12 @@
 ---
-title: PsdOptions
+title: Class PsdOptions
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.ImageOptions.PsdOptions class. The psd file format create options
 type: docs
-weight: 4750
+weight: 4960
 url: /net/aspose.psd.imageoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions class
 
 The psd file format create options.
@@ -18,43 +19,43 @@ public class PsdOptions : ImageOptionsBase
 
 | Name | Description |
 | --- | --- |
-| [PsdOptions](psdoptions)() | Initializes a new instance of the [`PsdOptions`](../psdoptions) class. |
-| [PsdOptions](psdoptions)(PsdImage) | Initializes a new instance of the [`PsdOptions`](../psdoptions) class. |
-| [PsdOptions](psdoptions)(PsdOptions) | Initializes a new instance of the [`PsdOptions`](../psdoptions) class. |
+| [PsdOptions](psdoptions/#constructor)() | Initializes a new instance of the `PsdOptions` class. |
+| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | Initializes a new instance of the `PsdOptions` class. |
+| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | Initializes a new instance of the `PsdOptions` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
-| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount) { get; set; } | Gets or sets the bits count per color channel. |
-| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount) { get; set; } | Gets or sets the color channels count. |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode) { get; set; } | Gets or sets the psd color mode. |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod) { get; set; } | Gets or sets the psd compression method. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Gets or sets the default replacement font (font that will be used to draw text when exporting to raster, if existing layer font in PSD file is not presented in system). To take proper name of default font can be used next code snippet: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Gets a value indicating whether this instance is disposed. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Gets or sets a value indicating whether [full frame]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | The multipage options |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Gets or sets the color palette. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Gets or sets the progress event handler. |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion) { get; set; } | Gets or sets the file format version. It can be PSD or PSB. |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata) { get; set; } | Gets or sets a value indicating whether [refresh image preview data] - option used to maximize compatibility with another PSD image viewers. Please note, text layers drawing to final layout is not supported for Compact Framework platform |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource) { get; set; } | Gets or sets a value indicating whether - Remove the global text engine resource - Used for some text-layered psd files, in only case, when they can not be opened in Adobe Photoshop after processing (mostly for absent fonts text layers related). After using this option, user need to Make next in opened in Photoshop file: Menu "Text" -&gt; "Process absent fonts". After that operation all text will appear again. Please note, that this operation may cause some final layout changes. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Gets or sets the resolution settings. |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources) { get; set; } | Gets or sets the psd resources. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Gets or sets the source to create image in. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Gets or sets the vector rasterization options. |
-| [Version](../../aspose.psd.imageoptions/psdoptions/version) { get; set; } | Gets or sets the psd file version. |
-| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata) { get; set; } | Get or set XMP data container |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
+| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Gets or sets the bits count per color channel. |
+| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Gets or sets the color channels count. |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | Gets or sets the psd color mode. |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | Gets or sets the psd compression method. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Gets or sets the default replacement font (font that will be used to draw text when exporting to raster, if existing layer font in PSD file is not presented in system). To take proper name of default font can be used next code snippet: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Gets or sets a value indicating whether [full frame]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | The multipage options |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Gets or sets the color palette. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Gets or sets the progress event handler. |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | Gets or sets the file format version. It can be PSD or PSB. |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Gets or sets a value indicating whether [refresh image preview data] - option used to maximize compatibility with another PSD image viewers. Please note, text layers drawing to final layout is not supported for Compact Framework platform |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Gets or sets a value indicating whether - Remove the global text engine resource - Used for some text-layered psd files, in only case, when they can not be opened in Adobe Photoshop after processing (mostly for absent fonts text layers related). After using this option, user need to Make next in opened in Photoshop file: Menu "Text" -&gt; "Process absent fonts". After that operation all text will appear again. Please note, that this operation may cause some final layout changes. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Gets or sets the resolution settings. |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | Gets or sets the psd resources. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Gets or sets the source to create image in. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Gets or sets the vector rasterization options. |
+| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | Gets or sets the psd file version. |
+| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | Get or set XMP data container |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Clones this instance. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Disposes the current instance. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Clones this instance. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Disposes the current instance. |
 
-### Examples
+## Examples
 
 The following example demonstrates how you can export AI file to PSD and PNG format in Aspose.PSD
 
@@ -352,8 +353,8 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 
 ### See Also
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

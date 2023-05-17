@@ -1,14 +1,15 @@
 ---
-title: MultiPageOptions
+title: MultiPageOptions.MultiPageOptions
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: MultiPageOptions constructor. Initializes a new instance of the MultiPageOptions class
 type: docs
 weight: 10
 url: /net/aspose.psd.imageoptions/multipageoptions/multipageoptions/
 ---
-## MultiPageOptions constructor (1 of 11)
+{{< psd/tize >}}
+## MultiPageOptions() {#constructor}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions()
@@ -16,15 +17,15 @@ public MultiPageOptions()
 
 ### See Also
 
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (2 of 11)
+## MultiPageOptions(int[]) {#constructor_7}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(int[] pages)
@@ -36,15 +37,15 @@ public MultiPageOptions(int[] pages)
 
 ### See Also
 
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (3 of 11)
+## MultiPageOptions(int[], Rectangle) {#constructor_8}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(int[] pages, Rectangle exportArea)
@@ -57,16 +58,16 @@ public MultiPageOptions(int[] pages, Rectangle exportArea)
 
 ### See Also
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (4 of 11)
+## MultiPageOptions(string[]) {#constructor_9}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(string[] pageTitles)
@@ -78,15 +79,15 @@ public MultiPageOptions(string[] pageTitles)
 
 ### See Also
 
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (5 of 11)
+## MultiPageOptions(string[], Rectangle) {#constructor_10}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(string[] pageTitles, Rectangle exportArea)
@@ -99,16 +100,16 @@ public MultiPageOptions(string[] pageTitles, Rectangle exportArea)
 
 ### See Also
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (6 of 11)
+## MultiPageOptions(IntRange[]) {#constructor_3}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(IntRange[] ranges)
@@ -116,20 +117,20 @@ public MultiPageOptions(IntRange[] ranges)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ranges | IntRange[] | The [`IntRange`](../../../aspose.psd/intrange). |
+| ranges | IntRange[] | The [`IntRange`](../../../aspose.psd/intrange/). |
 
 ### See Also
 
-* class [IntRange](../../../aspose.psd/intrange)
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [IntRange](../../../aspose.psd/intrange/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (7 of 11)
+## MultiPageOptions(IntRange[], Rectangle) {#constructor_4}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(IntRange[] ranges, Rectangle exportArea)
@@ -137,22 +138,22 @@ public MultiPageOptions(IntRange[] ranges, Rectangle exportArea)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ranges | IntRange[] | The [`IntRange`](../../../aspose.psd/intrange). |
+| ranges | IntRange[] | The [`IntRange`](../../../aspose.psd/intrange/). |
 | exportArea | Rectangle | The export area. |
 
 ### See Also
 
-* class [IntRange](../../../aspose.psd/intrange)
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [IntRange](../../../aspose.psd/intrange/)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (8 of 11)
+## MultiPageOptions(IntRange) {#constructor_1}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(IntRange range)
@@ -160,20 +161,20 @@ public MultiPageOptions(IntRange range)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| range | IntRange | The [`IntRange`](../../../aspose.psd/intrange). |
+| range | IntRange | The [`IntRange`](../../../aspose.psd/intrange/). |
 
 ### See Also
 
-* class [IntRange](../../../aspose.psd/intrange)
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [IntRange](../../../aspose.psd/intrange/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (9 of 11)
+## MultiPageOptions(IntRange, Rectangle) {#constructor_2}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(IntRange range, Rectangle exportArea)
@@ -181,22 +182,22 @@ public MultiPageOptions(IntRange range, Rectangle exportArea)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| range | IntRange | The [`IntRange`](../../../aspose.psd/intrange). |
+| range | IntRange | The [`IntRange`](../../../aspose.psd/intrange/). |
 | exportArea | Rectangle | The export area. |
 
 ### See Also
 
-* class [IntRange](../../../aspose.psd/intrange)
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [IntRange](../../../aspose.psd/intrange/)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (10 of 11)
+## MultiPageOptions(int) {#constructor_5}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(int page)
@@ -208,15 +209,15 @@ public MultiPageOptions(int page)
 
 ### See Also
 
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## MultiPageOptions constructor (11 of 11)
+## MultiPageOptions(int, Rectangle) {#constructor_6}
 
-Initializes a new instance of the [`MultiPageOptions`](../../multipageoptions) class.
+Initializes a new instance of the [`MultiPageOptions`](../) class.
 
 ```csharp
 public MultiPageOptions(int page, Rectangle exportArea)
@@ -229,9 +230,9 @@ public MultiPageOptions(int page, Rectangle exportArea)
 
 ### See Also
 
-* struct [Rectangle](../../../aspose.psd/rectangle)
-* class [MultiPageOptions](../../multipageoptions)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [MultiPageOptions](../)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,14 +1,15 @@
 ---
-title: DrawImage
+title: Graphics.DrawImage
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Graphics method. Draws the specified Image using its original physical size at the specified location
 type: docs
 weight: 220
 url: /net/aspose.psd/graphics/drawimage/
 ---
-## Graphics.DrawImage method (1 of 24)
+{{< psd/tize >}}
+## DrawImage(Image, PointF) {#drawimage_1}
 
-Draws the specified [`Image`](../image), using its original physical size, at the specified location.
+Draws the specified [`Image`](../image/), using its original physical size, at the specified location.
 
 ```csharp
 public void DrawImage(Image sourceImage, PointF point)
@@ -17,7 +18,7 @@ public void DrawImage(Image sourceImage, PointF point)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceImage | Image | The image to draw with. |
-| point | PointF | [`PointF`](../../pointf) structure that represents the upper-left corner of the drawn image. |
+| point | PointF | [`PointF`](../../pointf/) structure that represents the upper-left corner of the drawn image. |
 
 ### Exceptions
 
@@ -27,17 +28,17 @@ public void DrawImage(Image sourceImage, PointF point)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (2 of 24)
+## DrawImage(Image, float, float) {#drawimage_22}
 
-Draws the specified [`Image`](../image), using its original physical size, at the specified location.
+Draws the specified [`Image`](../image/), using its original physical size, at the specified location.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y)
@@ -57,16 +58,16 @@ public void DrawImage(Image sourceImage, float x, float y)
 
 ### See Also
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (3 of 24)
+## DrawImage(Image, RectangleF) {#drawimage_15}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rect)
@@ -75,7 +76,7 @@ public void DrawImage(Image sourceImage, RectangleF rect)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceImage | Image | The image to draw with. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) structure that specifies the location and size of the drawn image. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) structure that specifies the location and size of the drawn image. |
 
 ### Exceptions
 
@@ -85,17 +86,17 @@ public void DrawImage(Image sourceImage, RectangleF rect)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (4 of 24)
+## DrawImage(Image, Rectangle, GraphicsUnit) {#drawimage_11}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit)
@@ -115,18 +116,18 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (5 of 24)
+## DrawImage(Image, RectangleF, GraphicsUnit) {#drawimage_16}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit)
@@ -146,18 +147,18 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (6 of 24)
+## DrawImage(Image, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_12}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit, 
@@ -179,19 +180,19 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (7 of 24)
+## DrawImage(Image, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_17}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit, 
@@ -213,19 +214,19 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (8 of 24)
+## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit) {#drawimage_13}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
@@ -247,18 +248,18 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (9 of 24)
+## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit) {#drawimage_18}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
@@ -280,18 +281,18 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (10 of 24)
+## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_14}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
@@ -314,19 +315,19 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (11 of 24)
+## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_19}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
@@ -349,17 +350,17 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 
 ### See Also
 
-* class [Image](../../image)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (12 of 24)
+## DrawImage(Image, Point[]) {#drawimage_6}
 
 Draws the specified portion of the specified *image* at the specified location and with the specified size.
 
@@ -374,15 +375,15 @@ public void DrawImage(Image image, Point[] destPoints)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (13 of 24)
+## DrawImage(Image, Point[], Rectangle) {#drawimage_7}
 
 Draws the specified portion of the specified *image* at the specified location and with the specified size.
 
@@ -398,16 +399,16 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (14 of 24)
+## DrawImage(Image, Point[], Rectangle, GraphicsUnit) {#drawimage_8}
 
 Draws the specified portion of the specified *image* at the specified location and with the specified size.
 
@@ -424,17 +425,17 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (15 of 24)
+## DrawImage(Image, Point[], Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_9}
 
 Draws the specified portion of the specified *image* at the specified location and with the specified size.
 
@@ -453,18 +454,18 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* struct [Rectangle](../../rectangle)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* struct [Rectangle](../../rectangle/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (16 of 24)
+## DrawImage(Image, PointF[]) {#drawimage_2}
 
 Draws the specified portion of the specified *image* at the specified location and with the specified size.
 
@@ -485,15 +486,15 @@ public void DrawImage(Image image, PointF[] destPoints)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (17 of 24)
+## DrawImage(Image, PointF[], RectangleF) {#drawimage_3}
 
 Draws the specified portion of the specified *image* at the specified location and with the specified size.
 
@@ -509,16 +510,16 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (18 of 24)
+## DrawImage(Image, PointF[], RectangleF, GraphicsUnit) {#drawimage_4}
 
 Draws the specified portion of the specified *image* at the specified location and with the specified size.
 
@@ -535,17 +536,17 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 
 ### See Also
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (19 of 24)
+## DrawImage(Image, PointF[], RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_5}
 
 Draws the specified portion of the specified *image* at the specified location and with the specified size.
 
@@ -564,20 +565,20 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 
 ### See Also
 
-* class [Image](../../image)
-* struct [PointF](../../pointf)
-* struct [RectangleF](../../rectanglef)
-* enum [GraphicsUnit](../../graphicsunit)
-* class [ImageAttributes](../../imageattributes)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [PointF](../../pointf/)
+* struct [RectangleF](../../rectanglef/)
+* enum [GraphicsUnit](../../graphicsunit/)
+* class [ImageAttributes](../../imageattributes/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (20 of 24)
+## DrawImage(Image, float, float, float, float) {#drawimage_23}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y, float width, float height)
@@ -599,16 +600,16 @@ public void DrawImage(Image sourceImage, float x, float y, float width, float he
 
 ### See Also
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (21 of 24)
+## DrawImage(Image, Point) {#drawimage}
 
-Draws the specified [`Image`](../image), using its original physical size, at the specified location.
+Draws the specified [`Image`](../image/), using its original physical size, at the specified location.
 
 ```csharp
 public void DrawImage(Image sourceImage, Point point)
@@ -617,7 +618,7 @@ public void DrawImage(Image sourceImage, Point point)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceImage | Image | The image to draw with. |
-| point | Point | [`Point`](../../point) structure that represents the location of the upper-left corner of the drawn image. |
+| point | Point | [`Point`](../../point/) structure that represents the location of the upper-left corner of the drawn image. |
 
 ### Exceptions
 
@@ -627,15 +628,15 @@ public void DrawImage(Image sourceImage, Point point)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (22 of 24)
+## DrawImage(Image, int, int) {#drawimage_20}
 
 Draws the specified image, using its original physical size, at the location specified by a coordinate pair.
 
@@ -657,16 +658,16 @@ public void DrawImage(Image sourceImage, int x, int y)
 
 ### See Also
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (23 of 24)
+## DrawImage(Image, Rectangle) {#drawimage_10}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rect)
@@ -675,7 +676,7 @@ public void DrawImage(Image sourceImage, Rectangle rect)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceImage | Image | The image to draw with. |
-| rect | Rectangle | [`Rectangle`](../../rectangle) structure that specifies the location and size of the drawn image. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) structure that specifies the location and size of the drawn image. |
 
 ### Exceptions
 
@@ -685,17 +686,17 @@ public void DrawImage(Image sourceImage, Rectangle rect)
 
 ### See Also
 
-* class [Image](../../image)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawImage method (24 of 24)
+## DrawImage(Image, int, int, int, int) {#drawimage_21}
 
-Draws the specified [`Image`](../image) at the specified location and with the specified size.
+Draws the specified [`Image`](../image/) at the specified location and with the specified size.
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y, int width, int height)
@@ -717,9 +718,9 @@ public void DrawImage(Image sourceImage, int x, int y, int width, int height)
 
 ### See Also
 
-* class [Image](../../image)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

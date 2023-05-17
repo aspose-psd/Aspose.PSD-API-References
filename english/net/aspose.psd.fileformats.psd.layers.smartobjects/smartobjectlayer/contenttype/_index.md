@@ -1,24 +1,25 @@
 ---
-title: ContentType
+title: SmartObjectLayer.ContentType
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: SmartObjectLayer property. Gets the type of the smart object layer content. The embedded smart object contents is the embedded raw image file Data. The linked smart object contents is the raw contents of the linked image file if it is available LiFeDataSource. We do not support loading from the Adobe Photoshop  Graphics Library when IsLibraryLink is true. For regular link files at first we use RelativePath to look for the file relatively to the source image path SourceImagePath if it is not available we look at FullPath if not then we look for the link file in the same directory where our image is SourceImagePath
 type: docs
 weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ContentType property
 
-Gets the type of the smart object layer content. The embedded smart object contents is the embedded raw image file: [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data). The linked smart object contents is the raw contents of the linked image file if it is available: [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource). We do not support loading from the Adobe� Photoshop� �� Graphics Library when [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink) is true. For regular link files, at first, we use [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath) to look for the file relatively to the source image path SourceImagePath, if it is not available we look at [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath), if not then we look for the link file in the same directory where our image is: SourceImagePath.
+Gets the type of the smart object layer content. The embedded smart object contents is the embedded raw image file: [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/). The linked smart object contents is the raw contents of the linked image file if it is available: [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). We do not support loading from the Adobe� Photoshop� �� Graphics Library when [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) is true. For regular link files, at first, we use [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) to look for the file relatively to the source image path SourceImagePath, if it is not available we look at [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), if not then we look for the link file in the same directory where our image is: SourceImagePath.
 
 ```csharp
 public SmartObjectType ContentType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the smart object layer content.
 
-### Examples
+## Examples
 
 The following code demonstrates the support of updating Linked Smart objects.
 
@@ -69,7 +70,7 @@ void ExampleOfUpdatingSmartObjectLayer(
 {
     // This example demonstrates how to change the smart object layer in the PSD file and export / update its contents.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
-    string dataDir = "updating_output\\";
+    string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
     string pngOutputPath = dataDir + fileName + "_modified.png";
     string png2OutputPath = dataDir + fileName + "_updated_modified.png";
@@ -139,7 +140,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     // This demonstrates how to convert an embedded smart object layer in the PSD file to external one.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
-    string dataDir = "to_linked_output\\";
+    string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
     string pngOutputPath = dataDir + fileName + "_to_external.png";
     string psdOutputPath = dataDir + fileName + "_to_external.psd";
@@ -187,7 +188,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     FileFormat format)
 {
     string fileName = Path.GetFileNameWithoutExtension(filePath);
-    string dataDir = "to_embedded_output\\";
+    string dataDir = "to_embedded_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
     string pngOutputPath = dataDir + fileName + "_to_embedded.png";
     string psdOutputPath = dataDir + fileName + "_to_embedded.psd";
@@ -243,7 +244,7 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
 {
     string formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
-    string dataDir = "external_support_output\\";
+    string dataDir = "external_support_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
     string pngOutputPath = dataDir + fileName + ".png";
     string psdOutputPath = dataDir + fileName + ".psd";
@@ -325,9 +326,9 @@ string GetFormatExt(FileFormat format)
 
 ### See Also
 
-* enum [SmartObjectType](../../smartobjecttype)
-* class [SmartObjectLayer](../../smartobjectlayer)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer)
+* enum [SmartObjectType](../../smartobjecttype/)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

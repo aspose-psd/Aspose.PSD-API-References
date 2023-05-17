@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection
+title: Class AiLayerSection
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.FileFormats.Ai.AiLayerSection class. The Ai format Layer Section
 type: docs
 weight: 1270
 url: /net/aspose.psd.fileformats.ai/ailayersection/
 ---
+{{< psd/tize >}}
 ## AiLayerSection class
 
 The Ai format Layer Section
@@ -18,30 +19,30 @@ public sealed class AiLayerSection : AiDataSection
 
 | Name | Description |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue) { get; set; } | Gets or sets the blue color component. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber) { get; set; } | Gets or sets the color number. -1 is the custom color value from Red, Green, Blue properties. Specifies the layer’s color setting. |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue) { get; set; } | Gets or sets the dim value as percentage. Reduces the intensity of linked images and bitmap images contained in the layer to the specified percentage. |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Gets a value indicating whether this instance is disposed. |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green) { get; set; } | Gets or sets the green color component. |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed) { get; set; } | Gets or sets a value indicating whether this layer is dimmed. Reduces the intensity of linked images and bitmap images contained in the layer. |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked) { get; set; } | Gets or sets a value indicating whether this layer is locked. Prevents changes to the item. |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview) { get; set; } | Gets or sets a value indicating whether this layer is preview. Displays the artwork contained in the layer in color instead of as outlines. |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted) { get; set; } | Gets or sets a value indicating whether this layer is printed. Makes the artwork contained in the layer printable if true. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown) { get; set; } | Gets or sets a value indicating whether this layer is shown. Displays all artwork contained in the layer on the artboard if true. |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate) { get; set; } | Gets or sets a value indicating whether this layer is a template layer. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name) { get; set; } | Gets or sets the layer name. Specifies the name of the item as it appears in the Layers panel. |
-| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages) { get; } | Gets the raster images. |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red) { get; set; } | Gets or sets the red color component. |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Gets or sets the blue color component. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Gets or sets the color number. -1 is the custom color value from Red, Green, Blue properties. Specifies the layer’s color setting. |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Gets or sets the dim value as percentage. Reduces the intensity of linked images and bitmap images contained in the layer to the specified percentage. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Gets or sets the green color component. |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Gets or sets a value indicating whether this layer is dimmed. Reduces the intensity of linked images and bitmap images contained in the layer. |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Gets or sets a value indicating whether this layer is locked. Prevents changes to the item. |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Gets or sets a value indicating whether this layer is preview. Displays the artwork contained in the layer in color instead of as outlines. |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Gets or sets a value indicating whether this layer is printed. Makes the artwork contained in the layer printable if true. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Gets or sets a value indicating whether this layer is shown. Displays all artwork contained in the layer on the artboard if true. |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Gets or sets a value indicating whether this layer is a template layer. |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Gets or sets the layer name. Specifies the name of the item as it appears in the Layers panel. |
+| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | Gets the raster images. |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Gets or sets the red color component. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage)(AiRasterImageSection) | Adds the raster image. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Disposes the current instance. |
-| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata)() | Gets the string data. |
+| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | Adds the raster image. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Disposes the current instance. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Gets the string data. |
 
-### Examples
+## Examples
 
 The following code demonstrates how to load settings of Raster Images in AI Format Files.
 
@@ -88,8 +89,8 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 ### See Also
 
-* class [AiDataSection](../aidatasection)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai)
+* class [AiDataSection](../aidatasection/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

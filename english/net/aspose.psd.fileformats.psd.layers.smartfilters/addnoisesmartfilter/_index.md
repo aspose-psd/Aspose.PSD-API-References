@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter
+title: Class AddNoiseSmartFilter
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter class. The AddNoise smart filter
 type: docs
-weight: 3290
+weight: 3470
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter class
 
 The AddNoise smart filter.
@@ -18,37 +19,37 @@ public sealed class AddNoiseSmartFilter : SmartFilter
 
 | Name | Description |
 | --- | --- |
-| [AddNoiseSmartFilter](addnoisesmartfilter)() | Initializes a new instance of the [`AddNoiseSmartFilter`](../addnoisesmartfilter) class. |
+| [AddNoiseSmartFilter](addnoisesmartfilter/)() | Initializes a new instance of the `AddNoiseSmartFilter` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise) { get; set; } | Gets or sets The noise value amount. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode) { get; set; } | Gets or sets the blending mode. |
-| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution) { get; set; } | Gets or sets the distribution of noise filter. |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid) { get; } | Gets the smart filter type identifier. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled) { get; set; } | Gets or sets the is enabled status of the smart filter. |
-| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic) { get; set; } | Gets or sets the value of monochromatic. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name) { get; } | Gets the smart filter name. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity) { get; set; } | Gets or sets the opacity value of smart filter. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor) { get; } | The source descriptor structure with smart filter data. |
+| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/) { get; set; } | Gets or sets The noise value amount. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Gets or sets the blending mode. |
+| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/) { get; set; } | Gets or sets the distribution of noise filter. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/) { get; } | Gets the smart filter type identifier. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Gets or sets the is enabled status of the smart filter. |
+| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/) { get; set; } | Gets or sets the value of monochromatic. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/) { get; } | Gets the smart filter name. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Gets or sets the opacity value of smart filter. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | The source descriptor structure with smart filter data. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply)(RasterImage) | Applies the current filter to input [`RasterImage`](../../aspose.psd/rasterimage) image. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask)(Layer) | Applies the current filter to input [`Layer`](../../aspose.psd.fileformats.psd.layers/layer) mask data. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone)() | Makes the memberwise clone of the current instance of the type. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Applies the current filter to input [`RasterImage`](../../aspose.psd/rasterimage/) image. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Applies the current filter to input [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) mask data. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Makes the memberwise clone of the current instance of the type. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [FilterType](filtertype) | The identifier of current smart filter. |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | The identifier of current smart filter. |
 
-### Examples
+## Examples
 
 This example demonstrates the support of the smart filters interface.
 
@@ -122,8 +123,8 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 ### See Also
 
-* class [SmartFilter](../smartfilter)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters)
+* class [SmartFilter](../smartfilter/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

@@ -1,14 +1,15 @@
 ---
-title: LnkeResource
+title: Class LnkeResource
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource class. Defines the LnkeResource class that contains information about external linked files or assets in the PSD format image. The link resource may contain several LiFeDataSource instances which can be accessed by indexer. This is a part of PSD File Format Manipulation API that helps to modify Adobe Photoshop files programmatically
 type: docs
-weight: 2660
+weight: 2780
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource class
 
-Defines the LnkeResource class that contains information about external linked files or assets in the PSD format image. The link resource may contain several [`LiFeDataSource`](../lifedatasource) instances which can be accessed by indexer. This is a part of PSD File Format Manipulation API that helps to modify Adobe® Photoshop® files programmatically
+Defines the LnkeResource class that contains information about external linked files or assets in the PSD format image. The link resource may contain several [`LiFeDataSource`](../lifedatasource/) instances which can be accessed by indexer. This is a part of PSD File Format Manipulation API that helps to modify Adobe® Photoshop® files programmatically
 
 ```csharp
 public class LnkeResource : LinkResource
@@ -18,35 +19,35 @@ public class LnkeResource : LinkResource
 
 | Name | Description |
 | --- | --- |
-| [LnkeResource](lnkeresource)() | Initializes a new instance of the [`LnkeResource`](../lnkeresource) class. |
-| [LnkeResource](lnkeresource)(LinkDataSource[]) | Initializes a new instance of the [`LnkeResource`](../lnkeresource) class. |
+| [LnkeResource](lnkeresource/#constructor)() | Initializes a new instance of the `LnkeResource` class. |
+| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | Initializes a new instance of the `LnkeResource` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount) { get; } | Gets the count of link data sources which can be accessed by the indexer. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty) { get; } | Gets a value indicating whether this link resource instance is empty. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item) { get; } | Gets the [`LiFeDataSource`](../lifedatasource) at the specified index. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key) { get; } | Gets the Adobe® Photoshop® global resource key. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length) { get; } | Gets the PSD global link resource length in bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion) { get; } | Gets the PSD format version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature) { get; } | Gets the PSD global link resource signature. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Gets the count of link data sources which can be accessed by the indexer. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Gets a value indicating whether this link resource instance is empty. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Gets the [`LiFeDataSource`](../lifedatasource/) at the specified index. (2 indexers) |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/) { get; } | Gets the Adobe® Photoshop® global resource key. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Gets the PSD global link resource length in bytes. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Gets the PSD format version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Gets the PSD global link resource signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save)(StreamContainer, int) | Saves the resource block data. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring)() | Returns a String that represents this instance. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Saves the resource block data. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TypeToolKey](typetoolkey) | The type tool info key. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | The type tool info key. |
 
-### Examples
+## Examples
 
 The following code demonstrates the support of the LnkeResource resource.
 
@@ -203,7 +204,7 @@ object[] ComplexLnkEResourceSupportCases = new object[]
 
 void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length2, object[] dataSourceExpectedValues)
 {
-    filePath = @"PSDNET652_1\" + filePath;
+    filePath = "PSDNET652_1" + Path.DirectorySeparatorChar + filePath;
     string fileName = Path.GetFileName(filePath);
     using (PsdImage image = (PsdImage)Image.Load(filePath))
     {
@@ -272,9 +273,9 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### See Also
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource)
-* class [LinkResource](../linkresource)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources)
+* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [LinkResource](../linkresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

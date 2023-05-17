@@ -1,14 +1,15 @@
 ---
-title: DrawPie
+title: Graphics.DrawPie
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Graphics method. Draws a pie shape defined by an ellipse specified by a RectangleF structure and two radial lines
 type: docs
 weight: 280
 url: /net/aspose.psd/graphics/drawpie/
 ---
-## Graphics.DrawPie method (1 of 4)
+{{< psd/tize >}}
+## DrawPie(Pen, RectangleF, float, float) {#drawpie_1}
 
-Draws a pie shape defined by an ellipse specified by a [`RectangleF`](../../rectanglef) structure and two radial lines.
+Draws a pie shape defined by an ellipse specified by a [`RectangleF`](../../rectanglef/) structure and two radial lines.
 
 ```csharp
 public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
@@ -16,8 +17,8 @@ public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) that determines the color, width, and style of the pie shape. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef) structure that represents the bounding rectangle that defines the ellipse from which the pie shape comes. |
+| pen | Pen | [`Pen`](../../pen/) that determines the color, width, and style of the pie shape. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) structure that represents the bounding rectangle that defines the ellipse from which the pie shape comes. |
 | startAngle | Single | Angle measured in degrees clockwise from the x-axis to the first side of the pie shape. |
 | sweepAngle | Single | Angle measured in degrees clockwise from the *startAngle* parameter to the second side of the pie shape. |
 
@@ -29,15 +30,15 @@ public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 
 ### See Also
 
-* class [Pen](../../pen)
-* struct [RectangleF](../../rectanglef)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [RectangleF](../../rectanglef/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawPie method (2 of 4)
+## DrawPie(Pen, float, float, float, float, float, float) {#drawpie_3}
 
 Draws a pie shape defined by an ellipse specified by a coordinate pair, a width, a height, and two radial lines.
 
@@ -48,7 +49,7 @@ public void DrawPie(Pen pen, float x, float y, float width, float height, float 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) that determines the color, width, and style of the pie shape. |
+| pen | Pen | [`Pen`](../../pen/) that determines the color, width, and style of the pie shape. |
 | x | Single | The x-coordinate of the upper-left corner of the bounding rectangle that defines the ellipse from which the pie shape comes. |
 | y | Single | The y-coordinate of the upper-left corner of the bounding rectangle that defines the ellipse from which the pie shape comes. |
 | width | Single | Width of the bounding rectangle that defines the ellipse from which the pie shape comes. |
@@ -64,16 +65,16 @@ public void DrawPie(Pen pen, float x, float y, float width, float height, float 
 
 ### See Also
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawPie method (3 of 4)
+## DrawPie(Pen, Rectangle, float, float) {#drawpie}
 
-Draws a pie shape defined by an ellipse specified by a [`Rectangle`](../../rectangle) structure and two radial lines.
+Draws a pie shape defined by an ellipse specified by a [`Rectangle`](../../rectangle/) structure and two radial lines.
 
 ```csharp
 public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
@@ -81,8 +82,8 @@ public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) that determines the color, width, and style of the pie shape. |
-| rect | Rectangle | [`Rectangle`](../../rectangle) structure that represents the bounding rectangle that defines the ellipse from which the pie shape comes. |
+| pen | Pen | [`Pen`](../../pen/) that determines the color, width, and style of the pie shape. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) structure that represents the bounding rectangle that defines the ellipse from which the pie shape comes. |
 | startAngle | Single | Angle measured in degrees clockwise from the x-axis to the first side of the pie shape. |
 | sweepAngle | Single | Angle measured in degrees clockwise from the *startAngle* parameter to the second side of the pie shape. |
 
@@ -94,15 +95,15 @@ public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 
 ### See Also
 
-* class [Pen](../../pen)
-* struct [Rectangle](../../rectangle)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Rectangle](../../rectangle/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawPie method (4 of 4)
+## DrawPie(Pen, int, int, int, int, int, int) {#drawpie_2}
 
 Draws a pie shape defined by an ellipse specified by a coordinate pair, a width, a height, and two radial lines.
 
@@ -112,7 +113,7 @@ public void DrawPie(Pen pen, int x, int y, int width, int height, int startAngle
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) that determines the color, width, and style of the pie shape. |
+| pen | Pen | [`Pen`](../../pen/) that determines the color, width, and style of the pie shape. |
 | x | Int32 | The x-coordinate of the upper-left corner of the bounding rectangle that defines the ellipse from which the pie shape comes. |
 | y | Int32 | The y-coordinate of the upper-left corner of the bounding rectangle that defines the ellipse from which the pie shape comes. |
 | width | Int32 | Width of the bounding rectangle that defines the ellipse from which the pie shape comes. |
@@ -128,9 +129,9 @@ public void DrawPie(Pen pen, int x, int y, int width, int height, int startAngle
 
 ### See Also
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
