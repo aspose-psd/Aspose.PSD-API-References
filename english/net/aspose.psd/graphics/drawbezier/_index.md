@@ -1,12 +1,13 @@
 ---
-title: DrawBezier
+title: Graphics.DrawBezier
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Graphics method. Draws a Bézier spline defined by four ordered pairs of coordinates that represent points
 type: docs
 weight: 170
 url: /net/aspose.psd/graphics/drawbezier/
 ---
-## Graphics.DrawBezier method (1 of 3)
+{{< psd/tize >}}
+## DrawBezier(Pen, float, float, float, float, float, float, float, float) {#drawbezier_2}
 
 Draws a Bézier spline defined by four ordered pairs of coordinates that represent points.
 
@@ -17,7 +18,7 @@ public void DrawBezier(Pen pen, float x1, float y1, float x2, float y2, float x3
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) that determines the color, width, and style of the curve. |
+| pen | Pen | [`Pen`](../../pen/) that determines the color, width, and style of the curve. |
 | x1 | Single | The x-coordinate of the starting point of the curve. |
 | y1 | Single | The y-coordinate of the starting point of the curve. |
 | x2 | Single | The x-coordinate of the first control point of the curve. |
@@ -35,16 +36,16 @@ public void DrawBezier(Pen pen, float x1, float y1, float x2, float y2, float x3
 
 ### See Also
 
-* class [Pen](../../pen)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawBezier method (2 of 3)
+## DrawBezier(Pen, PointF, PointF, PointF, PointF) {#drawbezier_1}
 
-Draws a Bézier spline defined by four [`PointF`](../../pointf) structures.
+Draws a Bézier spline defined by four [`PointF`](../../pointf/) structures.
 
 ```csharp
 public void DrawBezier(Pen pen, PointF pt1, PointF pt2, PointF pt3, PointF pt4)
@@ -52,11 +53,11 @@ public void DrawBezier(Pen pen, PointF pt1, PointF pt2, PointF pt3, PointF pt4)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) that determines the color, width, and style of the curve. |
-| pt1 | PointF | [`PointF`](../../pointf) structure that represents the starting point of the curve. |
-| pt2 | PointF | [`PointF`](../../pointf) structure that represents the first control point for the curve. |
-| pt3 | PointF | [`PointF`](../../pointf) structure that represents the second control point for the curve. |
-| pt4 | PointF | [`PointF`](../../pointf) structure that represents the ending point of the curve. |
+| pen | Pen | [`Pen`](../../pen/) that determines the color, width, and style of the curve. |
+| pt1 | PointF | [`PointF`](../../pointf/) structure that represents the starting point of the curve. |
+| pt2 | PointF | [`PointF`](../../pointf/) structure that represents the first control point for the curve. |
+| pt3 | PointF | [`PointF`](../../pointf/) structure that represents the second control point for the curve. |
+| pt4 | PointF | [`PointF`](../../pointf/) structure that represents the ending point of the curve. |
 
 ### Exceptions
 
@@ -66,17 +67,17 @@ public void DrawBezier(Pen pen, PointF pt1, PointF pt2, PointF pt3, PointF pt4)
 
 ### See Also
 
-* class [Pen](../../pen)
-* struct [PointF](../../pointf)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [PointF](../../pointf/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Graphics.DrawBezier method (3 of 3)
+## DrawBezier(Pen, Point, Point, Point, Point) {#drawbezier}
 
-Draws a Bézier spline defined by four [`Point`](../../point) structures.
+Draws a Bézier spline defined by four [`Point`](../../point/) structures.
 
 ```csharp
 public void DrawBezier(Pen pen, Point pt1, Point pt2, Point pt3, Point pt4)
@@ -84,11 +85,11 @@ public void DrawBezier(Pen pen, Point pt1, Point pt2, Point pt3, Point pt4)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen) structure that determines the color, width, and style of the curve. |
-| pt1 | Point | [`Point`](../../point) structure that represents the starting point of the curve. |
-| pt2 | Point | [`Point`](../../point) structure that represents the first control point for the curve. |
-| pt3 | Point | [`Point`](../../point) structure that represents the second control point for the curve. |
-| pt4 | Point | [`Point`](../../point) structure that represents the ending point of the curve. |
+| pen | Pen | [`Pen`](../../pen/) structure that determines the color, width, and style of the curve. |
+| pt1 | Point | [`Point`](../../point/) structure that represents the starting point of the curve. |
+| pt2 | Point | [`Point`](../../point/) structure that represents the first control point for the curve. |
+| pt3 | Point | [`Point`](../../point/) structure that represents the second control point for the curve. |
+| pt4 | Point | [`Point`](../../point/) structure that represents the ending point of the curve. |
 
 ### Exceptions
 
@@ -98,10 +99,10 @@ public void DrawBezier(Pen pen, Point pt1, Point pt2, Point pt3, Point pt4)
 
 ### See Also
 
-* class [Pen](../../pen)
-* struct [Point](../../point)
-* class [Graphics](../../graphics)
-* namespace [Aspose.PSD](../../graphics)
+* class [Pen](../../pen/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

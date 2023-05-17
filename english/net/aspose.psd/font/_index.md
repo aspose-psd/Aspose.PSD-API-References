@@ -1,11 +1,12 @@
 ---
-title: Font
+title: Class Font
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.Font class. Defines a particular format for text including font face size and style attributes. This class cannot be inherited
 type: docs
-weight: 4130
+weight: 4330
 url: /net/aspose.psd/font/
 ---
+{{< psd/tize >}}
 ## Font class
 
 Defines a particular format for text, including font face, size, and style attributes. This class cannot be inherited.
@@ -18,37 +19,37 @@ public sealed class Font
 
 | Name | Description |
 | --- | --- |
-| [Font](font)(Font, FontStyle) | Initializes a new [`Font`](../font) that uses the specified existing [`Font`](../font) and [`FontStyle`](../fontstyle) enumeration. |
-| [Font](font)(string, float) | Initializes a new [`Font`](../font) using a specified size. The character set is set to Default, the graphics unit to Point, the font style to Regular. |
-| [Font](font)(string, float, FontStyle) | Initializes a new [`Font`](../font) using a specified size and style. The character set is set to Default, the graphics unit to Point. |
-| [Font](font)(string, float, GraphicsUnit) | Initializes a new [`Font`](../font) using a specified size and unit. The character set is set to Default, the style is set to Regular. |
-| [Font](font)(string, float, FontStyle, GraphicsUnit) | Initializes a new [`Font`](../font) using a specified size, style, and unit. |
-| [Font](font)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Initializes a new [`Font`](../font) using a specified size, style, unit, and character set. |
+| [Font](font/#constructor)(Font, FontStyle) | Initializes a new `Font` that uses the specified existing `Font` and [`FontStyle`](../fontstyle/) enumeration. |
+| [Font](font/#constructor_1)(string, float) | Initializes a new `Font` using a specified size. The character set is set to Default, the graphics unit to Point, the font style to Regular. |
+| [Font](font/#constructor_2)(string, float, FontStyle) | Initializes a new `Font` using a specified size and style. The character set is set to Default, the graphics unit to Point. |
+| [Font](font/#constructor_5)(string, float, GraphicsUnit) | Initializes a new `Font` using a specified size and unit. The character set is set to Default, the style is set to Regular. |
+| [Font](font/#constructor_3)(string, float, FontStyle, GraphicsUnit) | Initializes a new `Font` using a specified size, style, and unit. |
+| [Font](font/#constructor_4)(string, float, FontStyle, GraphicsUnit, CharacterSet) | Initializes a new `Font` using a specified size, style, unit, and character set. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Bold](../../aspose.psd/font/bold) { get; } | Gets a value indicating whether this [`Font`](../font) is bold. |
-| [CharacterSet](../../aspose.psd/font/characterset) { get; } | Gets a byte value that specifies the character set that this [`Font`](../font) uses. |
-| [Italic](../../aspose.psd/font/italic) { get; } | Gets a value indicating whether this [`Font`](../font) is italic. |
-| [Name](../../aspose.psd/font/name) { get; } | Gets the face name of this [`Font`](../font). |
-| [Size](../../aspose.psd/font/size) { get; } | Gets the em-size of this [`Font`](../font) measured in the units specified by the [`Unit`](./unit) property. |
-| [Strikeout](../../aspose.psd/font/strikeout) { get; } | Gets a value indicating whether this [`Font`](../font) specifies a horizontal line through the font. |
-| [Style](../../aspose.psd/font/style) { get; } | Gets style information for this [`Font`](../font). |
-| [Underline](../../aspose.psd/font/underline) { get; } | Gets a value indicating whether this [`Font`](../font) is underlined. |
-| [Unit](../../aspose.psd/font/unit) { get; } | Gets the unit of measure for this [`Font`](../font). |
+| [Bold](../../aspose.psd/font/bold/) { get; } | Gets a value indicating whether this `Font` is bold. |
+| [CharacterSet](../../aspose.psd/font/characterset/) { get; } | Gets a byte value that specifies the character set that this `Font` uses. |
+| [Italic](../../aspose.psd/font/italic/) { get; } | Gets a value indicating whether this `Font` is italic. |
+| [Name](../../aspose.psd/font/name/) { get; } | Gets the face name of this `Font`. |
+| [Size](../../aspose.psd/font/size/) { get; } | Gets the em-size of this `Font` measured in the units specified by the [`Unit`](./unit/) property. |
+| [Strikeout](../../aspose.psd/font/strikeout/) { get; } | Gets a value indicating whether this `Font` specifies a horizontal line through the font. |
+| [Style](../../aspose.psd/font/style/) { get; } | Gets style information for this `Font`. |
+| [Underline](../../aspose.psd/font/underline/) { get; } | Gets a value indicating whether this `Font` is underlined. |
+| [Unit](../../aspose.psd/font/unit/) { get; } | Gets the unit of measure for this `Font`. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [DeepClone](../../aspose.psd/font/deepclone)() | Creates an exact deep copy of this [`Font`](../font). |
-| override [Equals](../../aspose.psd/font/equals)(object) | Indicates whether the specified object is a [`Font`](../font) and has the same property values as this [`Font`](../font). |
-| override [GetHashCode](../../aspose.psd/font/gethashcode)() | Gets the hash code for this [`Font`](../font). |
-| override [ToString](../../aspose.psd/font/tostring)() | Returns a human-readable string representation of this [`Font`](../font). |
+| [DeepClone](../../aspose.psd/font/deepclone/)() | Creates an exact deep copy of this `Font`. |
+| override [Equals](../../aspose.psd/font/equals/)(object) | Indicates whether the specified object is a `Font` and has the same property values as this `Font`. |
+| override [GetHashCode](../../aspose.psd/font/gethashcode/)() | Gets the hash code for this `Font`. |
+| override [ToString](../../aspose.psd/font/tostring/)() | Returns a human-readable string representation of this `Font`. |
 
-### Examples
+## Examples
 
 This example demonstrates the use of Font and SolidBrush class to draw strings on Image surface. The example creates a new Image and draw shapes using Figures and GraphicsPath
 
@@ -83,7 +84,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### See Also
 
-* namespace [Aspose.PSD](../../aspose.psd)
+* namespace [Aspose.PSD](../../aspose.psd/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

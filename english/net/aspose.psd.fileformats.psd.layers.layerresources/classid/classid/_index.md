@@ -1,14 +1,15 @@
 ---
-title: ClassID
+title: ClassID.ClassID
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: ClassID constructor. Initializes a new instance of the ClassID class
 type: docs
 weight: 10
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
-## ClassID constructor (1 of 6)
+{{< psd/tize >}}
+## ClassID(byte[]) {#constructor}
 
-Initializes a new instance of the [`ClassID`](../../classid) class.
+Initializes a new instance of the [`ClassID`](../) class.
 
 ```csharp
 public ClassID(byte[] classID)
@@ -20,15 +21,15 @@ public ClassID(byte[] classID)
 
 ### See Also
 
-* class [ClassID](../../classid)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## ClassID constructor (2 of 6)
+## ClassID(byte[], bool) {#constructor_1}
 
-Initializes a new instance of the [`ClassID`](../../classid) class.
+Initializes a new instance of the [`ClassID`](../) class.
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
@@ -47,15 +48,15 @@ public ClassID(byte[] classID, bool isZeroLength)
 
 ### See Also
 
-* class [ClassID](../../classid)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## ClassID constructor (3 of 6)
+## ClassID(int) {#constructor_2}
 
-Initializes a new instance of the [`ClassID`](../../classid) class.
+Initializes a new instance of the [`ClassID`](../) class.
 
 ```csharp
 public ClassID(int classID)
@@ -67,15 +68,15 @@ public ClassID(int classID)
 
 ### See Also
 
-* class [ClassID](../../classid)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## ClassID constructor (4 of 6)
+## ClassID(uint) {#constructor_5}
 
-Initializes a new instance of the [`ClassID`](../../classid) class.
+Initializes a new instance of the [`ClassID`](../) class.
 
 ```csharp
 public ClassID(uint classID)
@@ -87,15 +88,15 @@ public ClassID(uint classID)
 
 ### See Also
 
-* class [ClassID](../../classid)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## ClassID constructor (5 of 6)
+## ClassID(string, bool) {#constructor_4}
 
-Initializes a new instance of the [`ClassID`](../../classid) class.
+Initializes a new instance of the [`ClassID`](../) class.
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
@@ -106,7 +107,7 @@ public ClassID(string classID, bool isZeroLength)
 | classID | String | The class ID in ASCII encoding. |
 | isZeroLength | Boolean | if set to `true` [is zero length]. |
 
-### Examples
+## Examples
 
 This example demonstrates that that the layer, imported from an image, is converted to smart object layer and the saved PSD file is correct.
 
@@ -115,11 +116,11 @@ This example demonstrates that that the layer, imported from an image, is conver
 
 // Tests that the layer, imported from an image, is converted to smart object layer and the saved PSD file is correct.
 
-string outputFilePath = outputFolder + @"\layerTest2.psd";
+string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
-using (PsdImage image = (PsdImage)Image.Load(baseFolder + @"\layerTest1.psd"))
+using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparatorChar + "layerTest1.psd"))
 {
-    string layerFilePath = baseFolder + @"\picture.jpg";
+    string layerFilePath = baseFolder + Path.DirectorySeparatorChar + "picture.jpg";
     using (var stream = new FileStream(layerFilePath, FileMode.Open))
     {
         Layer layer = null;
@@ -154,15 +155,15 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + @"\layerTest1.psd"))
 
 ### See Also
 
-* class [ClassID](../../classid)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## ClassID constructor (6 of 6)
+## ClassID(string) {#constructor_3}
 
-Initializes a new instance of the [`ClassID`](../../classid) class.
+Initializes a new instance of the [`ClassID`](../) class.
 
 ```csharp
 public ClassID(string classID)
@@ -174,8 +175,8 @@ public ClassID(string classID)
 
 ### See Also
 
-* class [ClassID](../../classid)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid)
+* class [ClassID](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

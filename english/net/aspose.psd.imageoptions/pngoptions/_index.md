@@ -1,11 +1,12 @@
 ---
-title: PngOptions
+title: Class PngOptions
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Aspose.PSD.ImageOptions.PngOptions class. The png file format create options
 type: docs
-weight: 4730
+weight: 4940
 url: /net/aspose.psd.imageoptions/pngoptions/
 ---
+{{< psd/tize >}}
 ## PngOptions class
 
 The png file format create options.
@@ -18,44 +19,48 @@ public class PngOptions : ImageOptionsBase
 
 | Name | Description |
 | --- | --- |
-| [PngOptions](pngoptions)() | Initializes a new instance of the [`PngOptions`](../pngoptions) class. |
-| [PngOptions](pngoptions)(PngOptions) | Initializes a new instance of the [`PngOptions`](../pngoptions) class. |
+| [PngOptions](pngoptions/#constructor)() | Initializes a new instance of the `PngOptions` class. |
+| [PngOptions](pngoptions/#constructor_1)(PngOptions) | Initializes a new instance of the `PngOptions` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth) { get; set; } | The bit depth. |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
-| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype) { get; set; } | Gets or sets the type of the color. |
-| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel) { get; set; } | The png image compression level in the 0-9 range, where 9 is maximum compression and 0 is store mode. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont) { get; set; } | Gets or sets the default replacement font (font that will be used to draw text when exporting to raster, if existing layer font in PSD file is not presented in system). To take proper name of default font can be used next code snippet: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed) { get; } | Gets a value indicating whether this instance is disposed. |
-| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype) { get; set; } | Gets or sets the filter type used during png file save process. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe) { get; set; } | Gets or sets a value indicating whether [full frame]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions) { get; set; } | The multipage options |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette) { get; set; } | Gets or sets the color palette. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler) { get; set; } | Gets or sets the progress event handler. |
-| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive) { get; set; } | Gets or sets a value indicating whether this [`PngOptions`](../pngoptions) is progressive. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings) { get; set; } | Gets or sets the resolution settings. |
-| [Source](../../aspose.psd/imageoptionsbase/source) { get; set; } | Gets or sets the source to create image in. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions) { get; set; } | Gets or sets the vector rasterization options. |
-| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata) { get; set; } | Gets or sets the XMP metadata container. |
+| [BitDepth](../../aspose.psd.imageoptions/pngoptions/bitdepth/) { get; set; } | The bit depth. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
+| [ColorType](../../aspose.psd.imageoptions/pngoptions/colortype/) { get; set; } | Gets or sets the type of the color. |
+| [CompressionLevel](../../aspose.psd.imageoptions/pngoptions/compressionlevel/) { get; set; } | The png image compression level in the 0-9 range, where 9 is maximum compression and 0 is store mode. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Gets or sets the default replacement font (font that will be used to draw text when exporting to raster, if existing layer font in PSD file is not presented in system). To take proper name of default font can be used next code snippet: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
+| [FilterType](../../aspose.psd.imageoptions/pngoptions/filtertype/) { get; set; } | Gets or sets the filter type used during png file save process. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Gets or sets a value indicating whether [full frame]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | The multipage options |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Gets or sets the color palette. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Gets or sets the progress event handler. |
+| [Progressive](../../aspose.psd.imageoptions/pngoptions/progressive/) { get; set; } | Gets or sets a value indicating whether this `PngOptions` is progressive. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Gets or sets the resolution settings. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Gets or sets the source to create image in. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Gets or sets the vector rasterization options. |
+| override [XmpData](../../aspose.psd.imageoptions/pngoptions/xmpdata/) { get; set; } | Gets or sets the XMP metadata container. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone)() | Clones this instance. |
-| [Dispose](../../aspose.psd/disposableobject/dispose)() | Disposes the current instance. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Clones this instance. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Disposes the current instance. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
+| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/) | The default compression level. |
+=======
 | const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel) | The default compression level. |
+>>>>>>> production
 
-### Examples
+## Examples
 
 The following example demonstrates how you can export AI file to PSD and PNG format in Aspose.PSD
 
@@ -238,8 +243,8 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 ### See Also
 
-* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase)
-* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions)
+* class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+

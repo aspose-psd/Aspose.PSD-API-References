@@ -1,12 +1,13 @@
 ---
-title: Matrix
+title: Matrix.Matrix
 second_title: Aspose.PSD for .NET API Reference
-description: 
+description: Matrix constructor. Initializes a new instance of the Matrix class as the identity matrix
 type: docs
 weight: 10
 url: /net/aspose.psd/matrix/matrix/
 ---
-## Matrix constructor (1 of 5)
+{{< psd/tize >}}
+## Matrix() {#constructor}
 
 Initializes a new instance of the Matrix class as the identity matrix.
 
@@ -16,15 +17,15 @@ public Matrix()
 
 ### See Also
 
-* class [Matrix](../../matrix)
-* namespace [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* namespace [Aspose.PSD](../../matrix/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Matrix constructor (2 of 5)
+## Matrix(float, float, float, float, float, float) {#constructor_4}
 
-Initializes a new instance of the [`Matrix`](../../matrix) class.
+Initializes a new instance of the [`Matrix`](../) class.
 
 ```csharp
 public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
@@ -41,15 +42,15 @@ public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 
 ### See Also
 
-* class [Matrix](../../matrix)
-* namespace [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* namespace [Aspose.PSD](../../matrix/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Matrix constructor (3 of 5)
+## Matrix(RectangleF, PointF[]) {#constructor_3}
 
-Initializes a new instance of the [`Matrix`](../../matrix) class to the geometric transform defined by the specified rectangle and array of points.
+Initializes a new instance of the [`Matrix`](../) class to the geometric transform defined by the specified rectangle and array of points.
 
 ```csharp
 public Matrix(RectangleF rect, PointF[] plgpts)
@@ -57,22 +58,22 @@ public Matrix(RectangleF rect, PointF[] plgpts)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | RectangleF | A [`RectangleF`](../../rectanglef) structure that represents the rectangle to be transformed. |
-| plgpts | PointF[] | An array of three [`PointF`](../../pointf) structures that represents the points of a parallelogram to which the upper-left, upper-right, and lower-left corners of the rectangle is to be transformed. The lower-right corner of the parallelogram is implied by the first three corners. |
+| rect | RectangleF | A [`RectangleF`](../../rectanglef/) structure that represents the rectangle to be transformed. |
+| plgpts | PointF[] | An array of three [`PointF`](../../pointf/) structures that represents the points of a parallelogram to which the upper-left, upper-right, and lower-left corners of the rectangle is to be transformed. The lower-right corner of the parallelogram is implied by the first three corners. |
 
 ### See Also
 
-* struct [RectangleF](../../rectanglef)
-* struct [PointF](../../pointf)
-* class [Matrix](../../matrix)
-* namespace [Aspose.PSD](../../matrix)
+* struct [RectangleF](../../rectanglef/)
+* struct [PointF](../../pointf/)
+* class [Matrix](../)
+* namespace [Aspose.PSD](../../matrix/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Matrix constructor (4 of 5)
+## Matrix(Rectangle, Point[]) {#constructor_2}
 
-Initializes a new instance of the [`Matrix`](../../matrix) class to the geometric transform defined by the specified rectangle and array of points.
+Initializes a new instance of the [`Matrix`](../) class to the geometric transform defined by the specified rectangle and array of points.
 
 ```csharp
 public Matrix(Rectangle rect, Point[] plgpts)
@@ -80,22 +81,22 @@ public Matrix(Rectangle rect, Point[] plgpts)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | Rectangle | A [`Rectangle`](../../rectangle) structure that represents the rectangle to be transformed. |
-| plgpts | Point[] | An array of three [`Point`](../../point) structures that represents the points of a parallelogram to which the upper-left, upper-right, and lower-left corners of the rectangle is to be transformed. The lower-right corner of the parallelogram is implied by the first three corners. |
+| rect | Rectangle | A [`Rectangle`](../../rectangle/) structure that represents the rectangle to be transformed. |
+| plgpts | Point[] | An array of three [`Point`](../../point/) structures that represents the points of a parallelogram to which the upper-left, upper-right, and lower-left corners of the rectangle is to be transformed. The lower-right corner of the parallelogram is implied by the first three corners. |
 
 ### See Also
 
-* struct [Rectangle](../../rectangle)
-* struct [Point](../../point)
-* class [Matrix](../../matrix)
-* namespace [Aspose.PSD](../../matrix)
+* struct [Rectangle](../../rectangle/)
+* struct [Point](../../point/)
+* class [Matrix](../)
+* namespace [Aspose.PSD](../../matrix/)
 * assembly [Aspose.PSD](../../../)
 
 ---
 
-## Matrix constructor (5 of 5)
+## Matrix(Matrix) {#constructor_1}
 
-Makes a copy of the [`Matrix`](../../matrix) class.
+Makes a copy of the [`Matrix`](../) class.
 
 ```csharp
 public Matrix(Matrix origin)
@@ -107,8 +108,8 @@ public Matrix(Matrix origin)
 
 ### See Also
 
-* class [Matrix](../../matrix)
-* namespace [Aspose.PSD](../../matrix)
+* class [Matrix](../)
+* namespace [Aspose.PSD](../../matrix/)
 * assembly [Aspose.PSD](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.PSD.dll -->
+
