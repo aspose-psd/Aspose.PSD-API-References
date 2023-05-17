@@ -43,7 +43,11 @@ public sealed class VogkResource : LayerResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/typetoolkey/) | The type tool info key. |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/typetoolkey) | The type tool info key. |
+>>>>>>> production
 
 ## Examples
 

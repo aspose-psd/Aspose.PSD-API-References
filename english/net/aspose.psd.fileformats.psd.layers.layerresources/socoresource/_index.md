@@ -42,7 +42,11 @@ public class SoCoResource : FillLayerResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | The type tool info key. |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey) | The type tool info key. |
+>>>>>>> production
 
 ## Examples
 

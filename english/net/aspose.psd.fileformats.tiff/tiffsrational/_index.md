@@ -48,7 +48,11 @@ public class TiffSRational
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon/) | The epsilon for fraction calculation |
+=======
+| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon) | The epsilon for fraction calculation |
+>>>>>>> production
 
 ### See Also
 

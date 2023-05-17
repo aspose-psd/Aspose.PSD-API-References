@@ -44,7 +44,11 @@ public class LclrResource : LayerResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | The type tool info key. |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey) | The type tool info key. |
+>>>>>>> production
 
 ## Examples
 

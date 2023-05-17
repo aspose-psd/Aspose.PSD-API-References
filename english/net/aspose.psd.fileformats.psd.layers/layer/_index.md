@@ -179,8 +179,13 @@ public class Layer : RasterCachedImage
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [BlendSignature](../../aspose.psd.fileformats.psd.layers/layer/blendsignature/) | Represents blend mode signature. |
 | const [LayerHeaderSize](../../aspose.psd.fileformats.psd.layers/layer/layerheadersize/) | The layer header size. |
+=======
+| const [BlendSignature](../../aspose.psd.fileformats.psd.layers/layer/blendsignature) | Represents blend mode signature. |
+| const [LayerHeaderSize](../../aspose.psd.fileformats.psd.layers/layer/layerheadersize) | The layer header size. |
+>>>>>>> production
 
 ### See Also
 

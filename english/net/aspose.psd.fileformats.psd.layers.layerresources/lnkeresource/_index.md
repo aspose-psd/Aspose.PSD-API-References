@@ -45,7 +45,11 @@ public class LnkeResource : LinkResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | The type tool info key. |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey) | The type tool info key. |
+>>>>>>> production
 
 ## Examples
 

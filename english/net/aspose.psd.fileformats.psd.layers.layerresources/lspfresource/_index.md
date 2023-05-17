@@ -47,7 +47,11 @@ public class LspfResource : LayerResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/) | The type tool info key 1819504742 |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey) | The type tool info key 1819504742 |
+>>>>>>> production
 
 ### See Also
 

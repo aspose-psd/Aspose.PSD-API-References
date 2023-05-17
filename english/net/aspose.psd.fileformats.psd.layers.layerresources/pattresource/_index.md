@@ -43,9 +43,15 @@ public class PattResource : LayerResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | The 'Patt' type tool info key for 8-bits. |
 | const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | The 'Pat2' type tool info key for 16-bits. |
 | const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | The 'Pat3' type tool info key for 32-bits. |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey) | The 'Patt' type tool info key for 8-bits. |
+| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2) | The 'Pat2' type tool info key for 16-bits. |
+| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3) | The 'Pat3' type tool info key for 32-bits. |
+>>>>>>> production
 
 ### See Also
 

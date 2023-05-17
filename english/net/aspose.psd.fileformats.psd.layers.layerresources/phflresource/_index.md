@@ -40,7 +40,11 @@ public abstract class PhflResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey/) | The type tool info key. |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey) | The type tool info key. |
+>>>>>>> production
 
 ### See Also
 

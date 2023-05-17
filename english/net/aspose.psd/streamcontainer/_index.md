@@ -66,7 +66,11 @@ public class StreamContainer : DisposableObject
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [ReadWriteBytesCount](../../aspose.psd/streamcontainer/readwritebytescount/) | Specifies read and write bytes count when reading sequentially. |
+=======
+| const [ReadWriteBytesCount](../../aspose.psd/streamcontainer/readwritebytescount) | Specifies read and write bytes count when reading sequentially. |
+>>>>>>> production
 
 ### See Also
 

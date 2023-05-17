@@ -42,7 +42,11 @@ public class Lr16Resource : LayerResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey/) | The type tool info key. |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey) | The type tool info key. |
+>>>>>>> production
 
 ### See Also
 

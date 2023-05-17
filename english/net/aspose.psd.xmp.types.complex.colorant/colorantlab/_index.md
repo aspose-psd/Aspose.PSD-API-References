@@ -45,12 +45,21 @@ public sealed class ColorantLab : ColorantBase
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [MaxA](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxa/) | The maximum A component value |
 | const [MaxB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxb/) | The maximum A component value |
 | const [MaxL](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxl/) | The maximum A component value |
 | const [MinA](../../aspose.psd.xmp.types.complex.colorant/colorantlab/mina/) | The minimum A component value |
 | const [MinB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minb/) | The minimum B component value |
 | const [MinL](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minl/) | The minimum L component value |
+=======
+| const [MaxA](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxa) | The maximum A component value |
+| const [MaxB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxb) | The maximum A component value |
+| const [MaxL](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxl) | The maximum A component value |
+| const [MinA](../../aspose.psd.xmp.types.complex.colorant/colorantlab/mina) | The minimum A component value |
+| const [MinB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minb) | The minimum B component value |
+| const [MinL](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minl) | The minimum L component value |
+>>>>>>> production
 
 ### See Also
 

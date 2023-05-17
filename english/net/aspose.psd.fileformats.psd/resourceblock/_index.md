@@ -40,11 +40,22 @@ public abstract class ResourceBlock
 | const [ResouceBlockMeSaSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/) | The resource signature of ImageReady. |
 | const [ResouceBlockSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblocksignature/) | The regular Photoshop resource signature. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [ResouceBlockMeSaSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature) | The resource signature of ImageReady. |
+| const [ResouceBlockSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblocksignature) | The regular Photoshop resource signature. |
+
 ## Other Members
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | enum [ResourceBlockState](../../aspose.psd.fileformats.psd/resourceblock.resourceblockstate) | Represents resource block state. |
+=======
+| enum [ResourceBlockState](resourceblock.resourceblockstate) | Represents resource block state. |
+>>>>>>> production
 
 ### See Also
 

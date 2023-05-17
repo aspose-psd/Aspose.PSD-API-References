@@ -54,7 +54,11 @@ public class PngOptions : ImageOptionsBase
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/) | The default compression level. |
+=======
+| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel) | The default compression level. |
+>>>>>>> production
 
 ## Examples
 

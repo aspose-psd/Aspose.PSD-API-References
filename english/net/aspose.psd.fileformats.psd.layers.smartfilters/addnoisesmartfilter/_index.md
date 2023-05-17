@@ -47,7 +47,11 @@ public sealed class AddNoiseSmartFilter : SmartFilter
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | The identifier of current smart filter. |
+=======
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype) | The identifier of current smart filter. |
+>>>>>>> production
 
 ## Examples
 

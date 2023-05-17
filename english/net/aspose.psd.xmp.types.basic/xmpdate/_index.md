@@ -39,7 +39,11 @@ public sealed class XmpDate : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | The ISO 8601 (roundtrip) format string. |
+=======
+| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format) | The ISO 8601 (roundtrip) format string. |
+>>>>>>> production
 
 ## Remarks
 

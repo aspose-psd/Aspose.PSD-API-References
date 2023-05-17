@@ -44,7 +44,11 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Defines the 'UnFl' `UnitArrayStructure` key. |
+=======
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey) | Defines the 'UnFl' [`UnitArrayStructure`](../unitarraystructure) key. |
+>>>>>>> production
 
 ## Examples
 

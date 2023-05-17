@@ -28,6 +28,13 @@ public class AsyncTaskProgress
 | readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | The duration of the asynchronous task. |
 | readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | The progress of the asynchronous task, in percent. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration) | The duration of the asynchronous task. |
+| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage) | The progress of the asynchronous task, in percent. |
+
 ### See Also
 
 * namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)

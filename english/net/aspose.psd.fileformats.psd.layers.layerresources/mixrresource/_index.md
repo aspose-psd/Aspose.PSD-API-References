@@ -46,7 +46,11 @@ public sealed class MixrResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey/) | The type tool info key. |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey) | The type tool info key. |
+>>>>>>> production
 
 ### See Also
 

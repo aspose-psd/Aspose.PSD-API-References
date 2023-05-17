@@ -66,8 +66,13 @@ public sealed class PhotoshopPackage : XmpPackage
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [UrgencyMax](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/) | Urgency max value. |
 | const [UrgencyMin](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/) | Urgency min value. |
+=======
+| const [UrgencyMax](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax) | Urgency max value. |
+| const [UrgencyMin](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin) | Urgency min value. |
+>>>>>>> production
 
 ### See Also
 

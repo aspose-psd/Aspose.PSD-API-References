@@ -14,7 +14,7 @@ Gets the blend mode.
 public BlendMode BlendMode { get; }
 ```
 
-## Property Value
+### Property Value
 
 The blend mode.
 

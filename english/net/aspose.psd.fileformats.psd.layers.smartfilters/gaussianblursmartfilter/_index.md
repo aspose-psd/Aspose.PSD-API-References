@@ -45,7 +45,11 @@ public sealed class GaussianBlurSmartFilter : SmartFilter
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/) | The identifier of current smart filter. |
+=======
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype) | The identifier of current smart filter. |
+>>>>>>> production
 
 ## Examples
 

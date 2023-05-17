@@ -187,7 +187,11 @@ public sealed class PsdImage : RasterCachedImage
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [DefaultVersion](../../aspose.psd.fileformats.psd/psdimage/defaultversion/) | The default PSD version. |
+=======
+| const [DefaultVersion](../../aspose.psd.fileformats.psd/psdimage/defaultversion) | The default PSD version. |
+>>>>>>> production
 
 ## Examples
 

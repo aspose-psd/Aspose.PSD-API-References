@@ -34,6 +34,12 @@ public sealed class GuideResource
 | --- | --- |
 | const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | The guide resource block size. |
 
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize) | The guide resource block size. |
+
 ### See Also
 
 * namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)

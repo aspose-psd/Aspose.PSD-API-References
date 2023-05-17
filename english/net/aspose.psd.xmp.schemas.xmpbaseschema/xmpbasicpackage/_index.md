@@ -59,9 +59,15 @@ public class XmpBasicPackage : XmpPackage
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [RatingMax](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/) | Rating max value. |
 | const [RatingMin](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/) | Rating min value. |
 | const [RatingRejected](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/) | Rating rejected value. |
+=======
+| const [RatingMax](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax) | Rating max value. |
+| const [RatingMin](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin) | Rating min value. |
+| const [RatingRejected](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected) | Rating rejected value. |
+>>>>>>> production
 
 ### See Also
 

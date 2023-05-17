@@ -80,7 +80,11 @@ public class SoLeResource : SmartObjectResource
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/) | The type tool info key: 'SoLE'. |
+=======
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey) | The type tool info key: 'SoLE'. |
+>>>>>>> production
 
 ## Examples
 

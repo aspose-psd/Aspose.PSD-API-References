@@ -42,7 +42,11 @@ public sealed class BooleanStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/structurekey/) | Identifies the structure key. |
+=======
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/structurekey) | Identifies the structure key. |
+>>>>>>> production
 
 ### See Also
 

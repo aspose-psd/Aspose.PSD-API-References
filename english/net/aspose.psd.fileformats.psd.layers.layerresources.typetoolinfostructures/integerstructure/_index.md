@@ -42,7 +42,11 @@ public sealed class IntegerStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
+<<<<<<< HEAD
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/structurekey/) | The integer structure key. |
+=======
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/structurekey) | The integer structure key. |
+>>>>>>> production
 
 ### See Also
 
