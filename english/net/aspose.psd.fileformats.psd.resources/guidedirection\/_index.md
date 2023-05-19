@@ -1,0 +1,28 @@
+---
+title: Enum GuideDirection
+second_title: Aspose.PSD for .NET API Reference
+description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enum. 
+type: docs
+weight: 3860
+url: /net/aspose.psd.fileformats.psd.resources/guidedirection/
+---
+{{< psd/tize >}}
+## GuideDirection enumeration
+
+```csharp
+public enum GuideDirection : byte
+```
+
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Vertical | `0` |  |
+| Horizontal | `1` |  |
+
+### See Also
+
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
+
+

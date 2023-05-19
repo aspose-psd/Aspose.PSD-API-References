@@ -1,0 +1,22 @@
+---
+title: Hue2Resource.TypeToolKey
+second_title: Aspose.PSD for .NET API Reference
+description: Hue2Resource field. 
+type: docs
+weight: 120
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/typetoolkey/
+---
+{{< psd/tize >}}
+## Hue2Resource.TypeToolKey field
+
+```csharp
+public const int TypeToolKey;
+```
+
+### See Also
+
+* class [Hue2Resource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
+* assembly [Aspose.PSD](../../../)
+
+

@@ -1,0 +1,22 @@
+---
+title: DocumentSpecificIdsResource.DataSize
+second_title: Aspose.PSD for .NET API Reference
+description: DocumentSpecificIdsResource property. 
+type: docs
+weight: 20
+url: /net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/datasize/
+---
+{{< psd/tize >}}
+## DocumentSpecificIdsResource.DataSize property
+
+```csharp
+public override int DataSize { get; }
+```
+
+### See Also
+
+* class [DocumentSpecificIdsResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
+* assembly [Aspose.PSD](../../../)
+
+

@@ -1,0 +1,28 @@
+---
+title: Class BigRectangularFilterOptions
+second_title: Aspose.PSD for .NET API Reference
+description: Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions class. 
+type: docs
+weight: 4770
+url: /net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
+---
+{{< psd/tize >}}
+## BigRectangularFilterOptions class
+
+```csharp
+public class BigRectangularFilterOptions : FilterOptionsBase
+```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | The default constructor. |
+
+### See Also
+
+* class [FilterOptionsBase](../filteroptionsbase/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
+
+

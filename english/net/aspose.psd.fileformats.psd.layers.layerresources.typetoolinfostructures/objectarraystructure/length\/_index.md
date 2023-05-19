@@ -1,0 +1,22 @@
+---
+title: ObjectArrayStructure.Length
+second_title: Aspose.PSD for .NET API Reference
+description: ObjectArrayStructure property. 
+type: docs
+weight: 50
+url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/
+---
+{{< psd/tize >}}
+## ObjectArrayStructure.Length property
+
+```csharp
+public override int Length { get; }
+```
+
+### See Also
+
+* class [ObjectArrayStructure](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
+* assembly [Aspose.PSD](../../../)
+
+

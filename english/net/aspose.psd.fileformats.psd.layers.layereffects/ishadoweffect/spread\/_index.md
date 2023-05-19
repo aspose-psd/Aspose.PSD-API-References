@@ -1,0 +1,22 @@
+---
+title: IShadowEffect.Spread
+second_title: Aspose.PSD for .NET API Reference
+description: IShadowEffect property. 
+type: docs
+weight: 60
+url: /net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/
+---
+{{< psd/tize >}}
+## IShadowEffect.Spread property
+
+```csharp
+public int Spread { get; set; }
+```
+
+### See Also
+
+* interface [IShadowEffect](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
+* assembly [Aspose.PSD](../../../)
+
+

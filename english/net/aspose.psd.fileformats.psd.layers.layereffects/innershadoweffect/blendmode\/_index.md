@@ -1,0 +1,23 @@
+---
+title: InnerShadowEffect.BlendMode
+second_title: Aspose.PSD for .NET API Reference
+description: InnerShadowEffect property. 
+type: docs
+weight: 20
+url: /net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/
+---
+{{< psd/tize >}}
+## InnerShadowEffect.BlendMode property
+
+```csharp
+public BlendMode BlendMode { get; set; }
+```
+
+### See Also
+
+* enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
+* class [InnerShadowEffect](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
+* assembly [Aspose.PSD](../../../)
+
+

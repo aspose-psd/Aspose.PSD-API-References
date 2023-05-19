@@ -1,0 +1,22 @@
+---
+title: PropertyStructure.StructureKey
+second_title: Aspose.PSD for .NET API Reference
+description: PropertyStructure field. 
+type: docs
+weight: 70
+url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/
+---
+{{< psd/tize >}}
+## PropertyStructure.StructureKey field
+
+```csharp
+public const int StructureKey;
+```
+
+### See Also
+
+* class [PropertyStructure](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
+* assembly [Aspose.PSD](../../../)
+
+

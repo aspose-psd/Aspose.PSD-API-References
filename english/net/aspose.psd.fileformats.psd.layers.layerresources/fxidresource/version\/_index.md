@@ -1,0 +1,22 @@
+---
+title: FXidResource.Version
+second_title: Aspose.PSD for .NET API Reference
+description: FXidResource property. 
+type: docs
+weight: 70
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/
+---
+{{< psd/tize >}}
+## FXidResource.Version property
+
+```csharp
+public int Version { get; }
+```
+
+### See Also
+
+* class [FXidResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
+* assembly [Aspose.PSD](../../../)
+
+

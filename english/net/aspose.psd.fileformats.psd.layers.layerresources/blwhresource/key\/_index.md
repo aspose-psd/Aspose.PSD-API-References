@@ -1,0 +1,22 @@
+---
+title: BlwhResource.Key
+second_title: Aspose.PSD for .NET API Reference
+description: BlwhResource property. 
+type: docs
+weight: 70
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/key/
+---
+{{< psd/tize >}}
+## BlwhResource.Key property
+
+```csharp
+public override int Key { get; }
+```
+
+### See Also
+
+* class [BlwhResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
+* assembly [Aspose.PSD](../../../)
+
+

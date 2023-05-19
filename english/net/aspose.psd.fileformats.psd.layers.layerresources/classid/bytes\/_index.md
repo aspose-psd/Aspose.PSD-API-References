@@ -1,0 +1,22 @@
+---
+title: ClassID.Bytes
+second_title: Aspose.PSD for .NET API Reference
+description: ClassID property. 
+type: docs
+weight: 20
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/
+---
+{{< psd/tize >}}
+## ClassID.Bytes property
+
+```csharp
+public byte[] Bytes { get; }
+```
+
+### See Also
+
+* class [ClassID](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
+* assembly [Aspose.PSD](../../../)
+
+

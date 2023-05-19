@@ -1,0 +1,22 @@
+---
+title: PhflResourceVersion2.PsdVersion
+second_title: Aspose.PSD for .NET API Reference
+description: PhflResourceVersion2 property. 
+type: docs
+weight: 80
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/psdversion/
+---
+{{< psd/tize >}}
+## PhflResourceVersion2.PsdVersion property
+
+```csharp
+public override int PsdVersion { get; }
+```
+
+### See Also
+
+* class [PhflResourceVersion2](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
+* assembly [Aspose.PSD](../../../)
+
+

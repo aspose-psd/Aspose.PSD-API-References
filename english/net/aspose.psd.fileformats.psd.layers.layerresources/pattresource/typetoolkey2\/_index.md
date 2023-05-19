@@ -1,0 +1,22 @@
+---
+title: PattResource.TypeToolKey2
+second_title: Aspose.PSD for .NET API Reference
+description: PattResource field. 
+type: docs
+weight: 90
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/
+---
+{{< psd/tize >}}
+## PattResource.TypeToolKey2 field
+
+```csharp
+public const int TypeToolKey2;
+```
+
+### See Also
+
+* class [PattResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
+* assembly [Aspose.PSD](../../../)
+
+

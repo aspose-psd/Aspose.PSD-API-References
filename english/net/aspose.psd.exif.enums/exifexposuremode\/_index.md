@@ -1,0 +1,29 @@
+---
+title: Enum ExifExposureMode
+second_title: Aspose.PSD for .NET API Reference
+description: Aspose.PSD.Exif.Enums.ExifExposureMode enum. 
+type: docs
+weight: 830
+url: /net/aspose.psd.exif.enums/exifexposuremode/
+---
+{{< psd/tize >}}
+## ExifExposureMode enumeration
+
+```csharp
+public enum ExifExposureMode
+```
+
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Auto | `0` |  |
+| Manual | `1` |  |
+| AutoBracket | `2` |  |
+
+### See Also
+
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
+
+

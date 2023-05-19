@@ -1,0 +1,22 @@
+---
+title: VstkResource.StrokeStyleLineDashSet
+second_title: Aspose.PSD for .NET API Reference
+description: VstkResource property. 
+type: docs
+weight: 140
+url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/
+---
+{{< psd/tize >}}
+## VstkResource.StrokeStyleLineDashSet property
+
+```csharp
+public double[] StrokeStyleLineDashSet { get; set; }
+```
+
+### See Also
+
+* class [VstkResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
+* assembly [Aspose.PSD](../../../)
+
+

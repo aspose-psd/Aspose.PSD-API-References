@@ -1,0 +1,22 @@
+---
+title: LnsrResource.Data
+second_title: Aspose.PSD for .NET API Reference
+description: LnsrResource property. 
+type: docs
+weight: 20
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/
+---
+{{< psd/tize >}}
+## LnsrResource.Data property
+
+```csharp
+public byte[] Data { get; }
+```
+
+### See Also
+
+* class [LnsrResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
+* assembly [Aspose.PSD](../../../)
+
+

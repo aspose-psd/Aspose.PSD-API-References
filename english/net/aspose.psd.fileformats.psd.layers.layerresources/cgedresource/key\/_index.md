@@ -1,0 +1,22 @@
+---
+title: CgEdResource.Key
+second_title: Aspose.PSD for .NET API Reference
+description: CgEdResource property. 
+type: docs
+weight: 50
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/
+---
+{{< psd/tize >}}
+## CgEdResource.Key property
+
+```csharp
+public override int Key { get; }
+```
+
+### See Also
+
+* class [CgEdResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
+* assembly [Aspose.PSD](../../../)
+
+

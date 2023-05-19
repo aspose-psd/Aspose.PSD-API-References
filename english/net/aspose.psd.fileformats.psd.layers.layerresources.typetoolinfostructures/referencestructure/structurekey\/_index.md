@@ -1,0 +1,22 @@
+---
+title: ReferenceStructure.StructureKey
+second_title: Aspose.PSD for .NET API Reference
+description: ReferenceStructure field. 
+type: docs
+weight: 50
+url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/structurekey/
+---
+{{< psd/tize >}}
+## ReferenceStructure.StructureKey field
+
+```csharp
+public const int StructureKey;
+```
+
+### See Also
+
+* class [ReferenceStructure](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
+* assembly [Aspose.PSD](../../../)
+
+

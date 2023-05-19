@@ -1,0 +1,22 @@
+---
+title: AiRasterImageSection.LeftBottomShift
+second_title: Aspose.PSD for .NET API Reference
+description: AiRasterImageSection property. 
+type: docs
+weight: 40
+url: /net/aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/
+---
+{{< psd/tize >}}
+## AiRasterImageSection.LeftBottomShift property
+
+```csharp
+public double LeftBottomShift { get; }
+```
+
+### See Also
+
+* class [AiRasterImageSection](../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
+* assembly [Aspose.PSD](../../../)
+
+

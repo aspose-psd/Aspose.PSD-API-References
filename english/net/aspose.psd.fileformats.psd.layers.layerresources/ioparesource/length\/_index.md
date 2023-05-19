@@ -1,0 +1,22 @@
+---
+title: IopaResource.Length
+second_title: Aspose.PSD for .NET API Reference
+description: IopaResource property. 
+type: docs
+weight: 40
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length/
+---
+{{< psd/tize >}}
+## IopaResource.Length property
+
+```csharp
+public override int Length { get; }
+```
+
+### See Also
+
+* class [IopaResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
+* assembly [Aspose.PSD](../../../)
+
+

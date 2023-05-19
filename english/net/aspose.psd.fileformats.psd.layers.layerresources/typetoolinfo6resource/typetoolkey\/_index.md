@@ -1,0 +1,22 @@
+---
+title: TypeToolInfo6Resource.TypeToolKey
+second_title: Aspose.PSD for .NET API Reference
+description: TypeToolInfo6Resource field. 
+type: docs
+weight: 230
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolkey/
+---
+{{< psd/tize >}}
+## TypeToolInfo6Resource.TypeToolKey field
+
+```csharp
+public const int TypeToolKey;
+```
+
+### See Also
+
+* class [TypeToolInfo6Resource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
+* assembly [Aspose.PSD](../../../)
+
+

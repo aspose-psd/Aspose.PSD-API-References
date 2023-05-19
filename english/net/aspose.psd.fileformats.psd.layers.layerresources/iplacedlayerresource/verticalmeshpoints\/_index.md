@@ -1,0 +1,22 @@
+---
+title: IPlacedLayerResource.VerticalMeshPoints
+second_title: Aspose.PSD for .NET API Reference
+description: IPlacedLayerResource property. 
+type: docs
+weight: 210
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/
+---
+{{< psd/tize >}}
+## IPlacedLayerResource.VerticalMeshPoints property
+
+```csharp
+public double[] VerticalMeshPoints { get; set; }
+```
+
+### See Also
+
+* interface [IPlacedLayerResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
+* assembly [Aspose.PSD](../../../)
+
+

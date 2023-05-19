@@ -1,0 +1,22 @@
+---
+title: ListStructure.Length
+second_title: Aspose.PSD for .NET API Reference
+description: ListStructure property. 
+type: docs
+weight: 40
+url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length/
+---
+{{< psd/tize >}}
+## ListStructure.Length property
+
+```csharp
+public override int Length { get; }
+```
+
+### See Also
+
+* class [ListStructure](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
+* assembly [Aspose.PSD](../../../)
+
+

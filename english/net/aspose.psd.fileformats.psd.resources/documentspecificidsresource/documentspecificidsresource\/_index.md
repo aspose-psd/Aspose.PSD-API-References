@@ -1,0 +1,24 @@
+---
+title: DocumentSpecificIdsResource.DocumentSpecificIdsResource
+second_title: Aspose.PSD for .NET API Reference
+description: DocumentSpecificIdsResource constructor. The default constructor
+type: docs
+weight: 10
+url: /net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/documentspecificidsresource/
+---
+{{< psd/tize >}}
+## DocumentSpecificIdsResource constructor
+
+The default constructor.
+
+```csharp
+public DocumentSpecificIdsResource()
+```
+
+### See Also
+
+* class [DocumentSpecificIdsResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
+* assembly [Aspose.PSD](../../../)
+
+

@@ -1,0 +1,22 @@
+---
+title: VstkResource.StrokeEnabled
+second_title: Aspose.PSD for .NET API Reference
+description: VstkResource property. 
+type: docs
+weight: 70
+url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/
+---
+{{< psd/tize >}}
+## VstkResource.StrokeEnabled property
+
+```csharp
+public bool StrokeEnabled { get; set; }
+```
+
+### See Also
+
+* class [VstkResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
+* assembly [Aspose.PSD](../../../)
+
+

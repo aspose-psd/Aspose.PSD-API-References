@@ -1,0 +1,23 @@
+---
+title: LayerSectionResource.Subtype
+second_title: Aspose.PSD for .NET API Reference
+description: LayerSectionResource property. 
+type: docs
+weight: 80
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/
+---
+{{< psd/tize >}}
+## LayerSectionResource.Subtype property
+
+```csharp
+public LayerSectionSubtype Subtype { get; set; }
+```
+
+### See Also
+
+* enum [LayerSectionSubtype](../../layersectionsubtype/)
+* class [LayerSectionResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
+* assembly [Aspose.PSD](../../../)
+
+
