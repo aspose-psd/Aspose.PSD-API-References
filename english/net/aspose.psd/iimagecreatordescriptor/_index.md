@@ -3,7 +3,7 @@ title: Interface IImageCreatorDescriptor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IImageCreatorDescriptor interface. The image creator descriptor specifying the creator properties. The creator descriptor is used to overcome the necessity to contain each image creator instance in memory and multithreading issues
 type: docs
-weight: 4460
+weight: 4530
 url: /net/aspose.psd/iimagecreatordescriptor/
 ---
 {{< psd/tize >}}

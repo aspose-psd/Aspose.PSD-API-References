@@ -3,7 +3,7 @@ title: Enum NoiseDistribution
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution enum. The distribution of noise filter
 type: docs
-weight: 3490
+weight: 3550
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
 {{< psd/tize >}}

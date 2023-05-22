@@ -9,23 +9,17 @@ url: /net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 {{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-Vector Path Record Factory Class
+Vector Path Record Factory Class.
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Produces the path record. |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Produces the path record. |
 
 ### See Also
 

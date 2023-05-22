@@ -3,7 +3,7 @@ title: Class PtFlResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource class. Class PtFlResource. Contains Pattern Fill Layer Data
 type: docs
-weight: 3000
+weight: 3050
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 {{< psd/tize >}}
@@ -47,11 +47,7 @@ public class PtFlResource : FillLayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ## Examples
 

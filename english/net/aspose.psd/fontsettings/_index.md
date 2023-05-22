@@ -3,7 +3,7 @@ title: Class FontSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FontSettings class. General PSD vector formats renderer font settings
 type: docs
-weight: 4340
+weight: 4410
 url: /net/aspose.psd/fontsettings/
 ---
 {{< psd/tize >}}

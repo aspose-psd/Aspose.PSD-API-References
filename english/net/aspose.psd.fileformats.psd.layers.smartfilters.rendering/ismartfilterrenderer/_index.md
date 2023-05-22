@@ -3,7 +3,7 @@ title: Interface ISmartFilterRenderer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering.ISmartFilterRenderer interface. The interface for a specific smart filter renderer
 type: docs
-weight: 3500
+weight: 3560
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/
 ---
 {{< psd/tize >}}

@@ -53,8 +53,9 @@ The namespace contains PSD file format entities contained in layers.
 | [Lnk3Resource](./lnk3resource/) | Defines the class which contains information about an embedded file in the PSD format 32 bit per channel image. The link resource may contain several [`LiFdDataSource`](../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/) instances which can be accessed by indexer. |
 | [LnkeResource](./lnkeresource/) | Defines the LnkeResource class that contains information about external linked files or assets in the PSD format image. The link resource may contain several [`LiFeDataSource`](../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) instances which can be accessed by indexer. This is a part of PSD File Format Manipulation API that helps to modify Adobe® Photoshop® files programmatically |
 | [LnsrResource](./lnsrresource/) | Class lnsrResource. |
-| [Lr16Resource](./lr16resource/) | The lr32 resource. |
+| [Lr16Resource](./lr16resource/) | The lr16 resource. |
 | [Lr32Resource](./lr32resource/) | The lr32 resource. |
+| [LrXxResource](./lrxxresource/) | The lrXX resource. |
 | [LspfResource](./lspfresource/) | Layer protected settings |
 | [LuniResource](./luniresource/) | Layer name resource |
 | [LyidResource](./lyidresource/) | Class LyidResource. |
@@ -63,6 +64,7 @@ The namespace contains PSD file format entities contained in layers.
 | [NvrtResource](./nvrtresource/) | Class NvrtResource. Resource of Invert Adjustment Layer. |
 | [OSTypeStructure](./ostypestructure/) | Represents the OS type structure. |
 | [OSTypeStructuresRegistry](./ostypestructuresregistry/) | Represents the [`OSTypeStructure`](../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) resources registry. |
+| [PathShape](./pathshape/) | The figure from the knots of the Bezier curve. |
 | [PattResource](./pattresource/) | Class PattResource. Resource with pattern data |
 | [PattResourceData](./pattresourcedata/) | The class to store the pattern data for [`PattResource`](../aspose.psd.fileformats.psd.layers.layerresources/pattresource/) resource. |
 | [PhflResource](./phflresource/) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version ( = 3 ) or ( = 2 ) 12 4 bytes each for XYZ color(Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(Only in Version 2) 4 Density 1 Preserve Luminosity |
@@ -85,6 +87,7 @@ The namespace contains PSD file format entities contained in layers.
 | [TypeToolLineInfo](./typetoollineinfo/) | Type tool line info. |
 | [TypeToolStyleInfo](./typetoolstyleinfo/) | Type tool style information. |
 | [UnknownResource](./unknownresource/) | The unknown resource. |
+| [VectorPath](./vectorpath/) | The class that contains vector paths. |
 | [VectorPathDataResource](./vectorpathdataresource/) | Class VectorPathDataResource. This resource contains information about vector layer mask |
 | [VibAResource](./vibaresource/) | VibA Resource. |
 | [VmskResource](./vmskresource/) | Class VmskResource. This resource contains information about vector layer mask |
@@ -95,8 +98,11 @@ The namespace contains PSD file format entities contained in layers.
 | Interface | Description |
 | --- | --- |
 | [IOSTypeStructureLoader](./iostypestructureloader/) | The [`OSTypeStructure`](../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) resource loader. |
+| [IPath](./ipath/) | Interface describes the set of Paths that present in a Shape layer. |
+| [IPathShape](./ipathshape/) | The Shape from the knots of the Bezier curve. |
 | [IPlacedLayerResource](./iplacedlayerresource/) | Defines the IPlacedLayerResource interface that contains information about a placed layer in the PSD file. Is is a markup interface used to designate PlLd, Sold and Sole resources in the Adobe® Photoshop® images. Is is used to support smart object layers in the Adobe® Photoshop® images. |
 | [ISmartObjectLayerResource](./ismartobjectlayerresource/) | Defines the ISmartObjectLayerResource interface that contains information about a smart object layer resource in the PSD file. Is is also a markup interface used to designate both Sold and Sole resources in the Adobe® Photoshop® images. |
+| [IStrokeSettings](./istrokesettings/) | Stroke settings of Shapes. |
 ## Enumeration
 
 | Enumeration | Description |

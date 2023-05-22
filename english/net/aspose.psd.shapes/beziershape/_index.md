@@ -3,7 +3,7 @@ title: Class BezierShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Shapes.BezierShape class. Represents a bezier spline
 type: docs
-weight: 5530
+weight: 5600
 url: /net/aspose.psd.shapes/beziershape/
 ---
 {{< psd/tize >}}

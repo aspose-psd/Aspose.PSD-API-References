@@ -3,7 +3,7 @@ title: Class Thumbnail
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail class. Represents thumbnail image for a file
 type: docs
-weight: 6160
+weight: 6230
 url: /net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/
 ---
 {{< psd/tize >}}

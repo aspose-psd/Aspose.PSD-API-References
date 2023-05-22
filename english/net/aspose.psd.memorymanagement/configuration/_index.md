@@ -3,7 +3,7 @@ title: Class Configuration
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.MemoryManagement.Configuration class. The memory management global configuration
 type: docs
-weight: 5170
+weight: 5240
 url: /net/aspose.psd.memorymanagement/configuration/
 ---
 {{< psd/tize >}}

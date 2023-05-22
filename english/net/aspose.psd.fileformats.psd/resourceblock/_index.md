@@ -3,7 +3,7 @@ title: Class ResourceBlock
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.ResourceBlock class. The resource block
 type: docs
-weight: 3660
+weight: 3730
 url: /net/aspose.psd.fileformats.psd/resourceblock/
 ---
 {{< psd/tize >}}
@@ -40,22 +40,11 @@ public abstract class ResourceBlock
 | const [ResouceBlockMeSaSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/) | The resource signature of ImageReady. |
 | const [ResouceBlockSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblocksignature/) | The regular Photoshop resource signature. |
 
-## Fields
-
-| Name | Description |
-| --- | --- |
-| const [ResouceBlockMeSaSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature) | The resource signature of ImageReady. |
-| const [ResouceBlockSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblocksignature) | The regular Photoshop resource signature. |
-
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | enum [ResourceBlockState](../../aspose.psd.fileformats.psd/resourceblock.resourceblockstate) | Represents resource block state. |
-=======
-| enum [ResourceBlockState](resourceblock.resourceblockstate) | Represents resource block state. |
->>>>>>> production
 
 ### See Also
 

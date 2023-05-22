@@ -3,7 +3,7 @@ title: Class GuideResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource class. The guide resource block
 type: docs
-weight: 3800
+weight: 3870
 url: /net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
 {{< psd/tize >}}
@@ -33,12 +33,6 @@ public sealed class GuideResource
 | Name | Description |
 | --- | --- |
 | const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | The guide resource block size. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize) | The guide resource block size. |
 
 ### See Also
 

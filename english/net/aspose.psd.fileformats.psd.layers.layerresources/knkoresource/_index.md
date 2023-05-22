@@ -3,7 +3,7 @@ title: Class KnkoResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource class. Class KnkoResource. This resource contains information about blending of clipped element
 type: docs
-weight: 2610
+weight: 2640
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
 {{< psd/tize >}}
@@ -44,11 +44,7 @@ public class KnkoResource : BooleanResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ### See Also
 

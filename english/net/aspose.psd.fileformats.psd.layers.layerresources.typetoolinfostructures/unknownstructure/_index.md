@@ -3,7 +3,7 @@ title: Class UnknownStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnknownStructure class. The unknown structure
 type: docs
-weight: 3350
+weight: 3400
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/
 ---
 {{< psd/tize >}}
