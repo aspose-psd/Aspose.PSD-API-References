@@ -3,7 +3,7 @@ title: Enum SeekOrigin
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.SeekOrigin enum. Provides the fields that represent reference points in StreamContainer for seeking
 type: docs
-weight: 5470
+weight: 5540
 url: /net/aspose.psd/seekorigin/
 ---
 {{< psd/tize >}}

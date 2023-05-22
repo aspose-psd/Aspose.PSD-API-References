@@ -3,7 +3,7 @@ title: Class ListStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ListStructure class. The list structure
 type: docs
-weight: 3240
+weight: 3290
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/
 ---
 {{< psd/tize >}}
@@ -43,11 +43,7 @@ public sealed class ListStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/structurekey/) | Identifies the structure key. |
-=======
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/structurekey) | Identifies the structure key. |
->>>>>>> production
 
 ### See Also
 

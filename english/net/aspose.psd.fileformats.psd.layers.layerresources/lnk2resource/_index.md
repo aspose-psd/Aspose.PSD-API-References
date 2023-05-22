@@ -3,7 +3,7 @@ title: Class Lnk2Resource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk2Resource class. Defines the class which contains information about embedded files in the PSD format image. The link resource may contain several LiFdDataSource instances which can be accessed by the indexer
 type: docs
-weight: 2760
+weight: 2790
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/
 ---
 {{< psd/tize >}}
@@ -44,11 +44,7 @@ public class Lnk2Resource : LinkResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ### See Also
 

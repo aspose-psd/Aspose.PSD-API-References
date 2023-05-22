@@ -3,7 +3,7 @@ title: Class UnknownSmartFilter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.UnknownSmartFilter class. The class to hold unknown smart filter data
 type: docs
-weight: 3530
+weight: 3600
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/
 ---
 {{< psd/tize >}}

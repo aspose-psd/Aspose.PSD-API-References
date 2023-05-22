@@ -3,7 +3,7 @@ title: Class Timecode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpDm.Timecode class. Represents timecode value in video
 type: docs
-weight: 5960
+weight: 6030
 url: /net/aspose.psd.xmp.schemas.xmpdm/timecode/
 ---
 {{< psd/tize >}}

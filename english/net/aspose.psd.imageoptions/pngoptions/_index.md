@@ -3,7 +3,7 @@ title: Class PngOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.PngOptions class. The png file format create options
 type: docs
-weight: 4940
+weight: 5010
 url: /net/aspose.psd.imageoptions/pngoptions/
 ---
 {{< psd/tize >}}
@@ -54,11 +54,7 @@ public class PngOptions : ImageOptionsBase
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/) | The default compression level. |
-=======
-| const [DefaultCompressionLevel](../../aspose.psd.imageoptions/pngoptions/defaultcompressionlevel) | The default compression level. |
->>>>>>> production
 
 ## Examples
 

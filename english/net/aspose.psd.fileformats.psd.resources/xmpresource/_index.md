@@ -3,7 +3,7 @@ title: Class XmpResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.XmpResource class. Represents the XMP metadata resource
 type: docs
-weight: 4040
+weight: 4110
 url: /net/aspose.psd.fileformats.psd.resources/xmpresource/
 ---
 {{< psd/tize >}}

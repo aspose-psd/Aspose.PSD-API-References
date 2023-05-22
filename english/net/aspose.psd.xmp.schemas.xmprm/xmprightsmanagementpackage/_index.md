@@ -3,7 +3,7 @@ title: Class XmpRightsManagementPackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpRm.XmpRightsManagementPackage class. Represents XMP Rights Management namespace
 type: docs
-weight: 5990
+weight: 6060
 url: /net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class PhotoshopPackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.Photoshop.PhotoshopPackage class. Represents Adobe Photoshop namespace
 type: docs
-weight: 5880
+weight: 5950
 url: /net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/
 ---
 {{< psd/tize >}}
@@ -66,13 +66,8 @@ public sealed class PhotoshopPackage : XmpPackage
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [UrgencyMax](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/) | Urgency max value. |
 | const [UrgencyMin](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/) | Urgency min value. |
-=======
-| const [UrgencyMax](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax) | Urgency max value. |
-| const [UrgencyMin](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin) | Urgency min value. |
->>>>>>> production
 
 ### See Also
 

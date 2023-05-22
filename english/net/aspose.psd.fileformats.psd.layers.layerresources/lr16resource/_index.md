@@ -1,18 +1,18 @@
 ---
 title: Class Lr16Resource
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr16Resource class. The lr32 resource
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr16Resource class. The lr16 resource
 type: docs
-weight: 2810
+weight: 2840
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/
 ---
 {{< psd/tize >}}
 ## Lr16Resource class
 
-The lr32 resource.
+The lr16 resource.
 
 ```csharp
-public class Lr16Resource : LayerResource
+public class Lr16Resource : LrXxResource
 ```
 
 ## Constructors
@@ -25,32 +25,28 @@ public class Lr16Resource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key/) { get; } | Gets the layer resource key. |
-| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/layers/) { get; set; } | Gets or sets the layers. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/length/) { get; } | Gets the resource length for the PSD header version of the image. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/psdversion/) { get; } | Gets the psd version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/signature/) { get; } | Gets the signature. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/key/) { get; } | Gets the layer resource key. |
+| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/layers/) { get; set; } | Gets or sets the layers. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/length/) { get; } | Gets the resource length for the PSD header version of the image. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/psdversion/) { get; } | Gets the psd version. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/signature/) { get; } | Gets the signature. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/save/)(StreamContainer, int) | Saves the layer record. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/save/)(StreamContainer, int) | Saves the layer record. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returns a String that represents this instance. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ### See Also
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [LrXxResource](../lrxxresource/)
 * namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../)
 

@@ -3,7 +3,7 @@ title: Class ShmdResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource class. Class ShmdResource. Metadata settings
 type: docs
-weight: 3020
+weight: 3070
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 ---
 {{< psd/tize >}}
@@ -44,13 +44,8 @@ public class ShmdResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/) | The sub resource header length |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/) | The type tool info key. |
-=======
-| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength) | The sub resource header length |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ### See Also
 

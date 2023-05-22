@@ -3,7 +3,7 @@ title: Class LnsrResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource class. Class lnsrResource
 type: docs
-weight: 2790
+weight: 2820
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
 {{< psd/tize >}}
@@ -44,11 +44,7 @@ public class LnsrResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ### See Also
 

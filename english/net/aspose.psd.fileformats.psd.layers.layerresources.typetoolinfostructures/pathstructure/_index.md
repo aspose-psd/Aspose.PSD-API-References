@@ -3,7 +3,7 @@ title: Class PathStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.PathStructure class. The path structure
 type: docs
-weight: 3270
+weight: 3320
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/
 ---
 {{< psd/tize >}}
@@ -43,11 +43,7 @@ public sealed class PathStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/structurekey/) | Identifies the structure key. |
-=======
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/structurekey) | Identifies the structure key. |
->>>>>>> production
 
 ## Examples
 

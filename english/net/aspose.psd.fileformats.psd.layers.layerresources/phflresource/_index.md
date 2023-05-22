@@ -3,7 +3,7 @@ title: Class PhflResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PhflResource class. Class PhflResource. Resource of Exposure Adjustment Layer 2 Version   3  or   2  12 4 bytes each for XYZ colorOnly in Version 3 10 2 bytes color space followed by 4  2 bytes color componentOnly in Version 2 4 Density 1 Preserve Luminosity
 type: docs
-weight: 2930
+weight: 2980
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/
 ---
 {{< psd/tize >}}
@@ -40,11 +40,7 @@ public abstract class PhflResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ### See Also
 

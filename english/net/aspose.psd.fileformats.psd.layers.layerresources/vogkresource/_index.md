@@ -3,7 +3,7 @@ title: Class VogkResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VogkResource class. The Vector Origination Data resource
 type: docs
-weight: 3420
+weight: 3480
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/
 ---
 {{< psd/tize >}}
@@ -43,11 +43,7 @@ public sealed class VogkResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vogkresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ## Examples
 

@@ -3,7 +3,7 @@ title: Class Time
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpDm.Time class. Representation of a time value in seconds
 type: docs
-weight: 5940
+weight: 6010
 url: /net/aspose.psd.xmp.schemas.xmpdm/time/
 ---
 {{< psd/tize >}}

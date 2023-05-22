@@ -3,7 +3,7 @@ title: Class VmskResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VmskResource class. Class VmskResource. This resource contains information about vector layer mask
 type: docs
-weight: 3410
+weight: 3470
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/
 ---
 {{< psd/tize >}}
@@ -47,11 +47,7 @@ public class VmskResource : VectorPathDataResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vmskresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vmskresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ## Examples
 
