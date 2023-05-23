@@ -35,13 +35,8 @@ public abstract class LayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [PsbResourceSignature](../../aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature/) | The PSB-specific resource signature. |
 | const [ResourceSignature](../../aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/) | The common resource signature. |
-=======
-| const [PsbResourceSignature](../../aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature) | The PSB-specific resource signature. |
-| const [ResourceSignature](../../aspose.psd.fileformats.psd.layers/layerresource/resourcesignature) | The common resource signature. |
->>>>>>> production
 
 ### See Also
 

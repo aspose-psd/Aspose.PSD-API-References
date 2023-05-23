@@ -3,7 +3,7 @@ title: Class PropertyStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.PropertyStructure class. The property structure
 type: docs
-weight: 3280
+weight: 3330
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/
 ---
 {{< psd/tize >}}
@@ -44,11 +44,7 @@ public sealed class PropertyStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/) | Identifies the structure key. |
-=======
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey) | Identifies the structure key. |
->>>>>>> production
 
 ### See Also
 

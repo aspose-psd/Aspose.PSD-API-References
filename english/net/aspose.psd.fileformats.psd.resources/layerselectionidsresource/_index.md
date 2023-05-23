@@ -3,7 +3,7 @@ title: Class LayerSelectionIdsResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.LayerSelectionIdsResource class. Layer selection ids resource
 type: docs
-weight: 3850
+weight: 3920
 url: /net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/
 ---
 {{< psd/tize >}}

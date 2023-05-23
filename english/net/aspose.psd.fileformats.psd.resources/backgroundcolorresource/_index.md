@@ -3,7 +3,7 @@ title: Class BackgroundColorResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.BackgroundColorResource class. The resource with border information of image print settings
 type: docs
-weight: 3690
+weight: 3760
 url: /net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/
 ---
 {{< psd/tize >}}

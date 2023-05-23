@@ -3,7 +3,7 @@ title: Class ProjectLink
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink class. Represents path of the project
 type: docs
-weight: 5920
+weight: 5990
 url: /net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
 {{< psd/tize >}}

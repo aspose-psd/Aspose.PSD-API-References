@@ -3,7 +3,7 @@ title: Class PlLdResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource class. Defines the PlLdResource class that contains information about a placed layer in the PSD file. Is is used to support smart object layers in the Adobe Photoshop images. It was replaced by SoLdResource in the Adobe Photoshop CS3
 type: docs
-weight: 2960
+weight: 3010
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
 {{< psd/tize >}}
@@ -58,11 +58,7 @@ public class PlLdResource : PlacedResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ## Examples
 

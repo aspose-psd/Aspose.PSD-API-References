@@ -3,7 +3,7 @@ title: Enum ColorMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode enum. Represents color mode
 type: docs
-weight: 6050
+weight: 6120
 url: /net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
 {{< psd/tize >}}

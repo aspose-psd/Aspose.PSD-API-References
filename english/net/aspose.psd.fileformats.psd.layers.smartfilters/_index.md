@@ -15,6 +15,7 @@ The namespace contains PSD file format entities contained in layers.
 | --- | --- |
 | [AddNoiseSmartFilter](./addnoisesmartfilter/) | The AddNoise smart filter. |
 | [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | The GaussianBlur smart filter. |
+| [SharpenSmartFilter](./sharpensmartfilter/) | The Sharpen smart filter. |
 | [SmartFilter](./smartfilter/) | The class to process a base logic of smart filters. |
 | [SmartFilters](./smartfilters/) | The smart filters of [`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/). |
 | [UnknownSmartFilter](./unknownsmartfilter/) | The class to hold unknown smart filter data. |

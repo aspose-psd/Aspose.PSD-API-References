@@ -3,7 +3,7 @@ title: Class ColorantCmyk
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantCmyk class. Represents CMYK Colorant
 type: docs
-weight: 6080
+weight: 6150
 url: /net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/
 ---
 {{< psd/tize >}}
@@ -46,13 +46,8 @@ public sealed class ColorantCmyk : ColorantBase
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [ColorValueMax](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/) | Color max value in CMYK colorant. |
 | const [ColorValueMin](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/) | Color min value in CMYK colorant. |
-=======
-| const [ColorValueMax](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax) | Color max value in CMYK colorant. |
-| const [ColorValueMin](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin) | Color min value in CMYK colorant. |
->>>>>>> production
 
 ### See Also
 

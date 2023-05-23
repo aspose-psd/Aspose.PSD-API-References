@@ -3,7 +3,7 @@ title: Class XmpHeaderPi
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpHeaderPi class. Represents XMP header processing instruction
 type: docs
-weight: 6310
+weight: 6380
 url: /net/aspose.psd.xmp/xmpheaderpi/
 ---
 {{< psd/tize >}}

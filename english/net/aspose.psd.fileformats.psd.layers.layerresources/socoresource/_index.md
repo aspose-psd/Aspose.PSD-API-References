@@ -3,7 +3,7 @@ title: Class SoCoResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource class. Class SoCoResource. This resource contains information about Color Fill Layers
 type: docs
-weight: 3050
+weight: 3100
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
 {{< psd/tize >}}
@@ -42,11 +42,7 @@ public class SoCoResource : FillLayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ## Examples
 

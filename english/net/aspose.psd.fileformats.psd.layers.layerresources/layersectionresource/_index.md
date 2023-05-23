@@ -3,7 +3,7 @@ title: Class LayerSectionResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource class. The layer section resource
 type: docs
-weight: 2630
+weight: 2660
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
 {{< psd/tize >}}
@@ -44,11 +44,7 @@ public class LayerSectionResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ### See Also
 

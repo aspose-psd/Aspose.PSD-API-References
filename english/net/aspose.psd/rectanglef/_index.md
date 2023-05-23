@@ -3,7 +3,7 @@ title: Struct RectangleF
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.RectangleF struct. Stores a set of four floatingpoint numbers that represent the location and size of a rectangle
 type: docs
-weight: 5410
+weight: 5480
 url: /net/aspose.psd/rectanglef/
 ---
 {{< psd/tize >}}

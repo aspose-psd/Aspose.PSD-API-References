@@ -3,7 +3,7 @@ title: VectorPathRecordFactory.ProducePathRecord
 second_title: Aspose.PSD for .NET API Reference
 description: VectorPathRecordFactory method. Produces the path record
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/
 ---
 {{< psd/tize >}}
@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/produc
 Produces the path record.
 
 ```csharp
-public VectorPathRecord ProducePathRecord(byte[] data)
+public static VectorPathRecord ProducePathRecord(byte[] data)
 ```
 
 | Parameter | Type | Description |
@@ -21,13 +21,7 @@ public VectorPathRecord ProducePathRecord(byte[] data)
 
 ### Return Value
 
-Created [`VectorPathRecord`](../../vectorpathrecord/)
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentOutOfRangeException |  |
+Created [`VectorPathRecord`](../../vectorpathrecord/).
 
 ### See Also
 

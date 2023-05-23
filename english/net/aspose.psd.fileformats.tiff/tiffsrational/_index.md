@@ -3,7 +3,7 @@ title: Class TiffSRational
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.TiffSRational class. The tiff rational type
 type: docs
-weight: 4290
+weight: 4360
 url: /net/aspose.psd.fileformats.tiff/tiffsrational/
 ---
 {{< psd/tize >}}
@@ -48,11 +48,7 @@ public class TiffSRational
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon/) | The epsilon for fraction calculation |
-=======
-| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon) | The epsilon for fraction calculation |
->>>>>>> production
 
 ### See Also
 

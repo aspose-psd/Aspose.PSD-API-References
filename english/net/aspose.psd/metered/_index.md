@@ -3,7 +3,7 @@ title: Class Metered
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Metered class. Provides methods to set metered key
 type: docs
-weight: 5180
+weight: 5250
 url: /net/aspose.psd/metered/
 ---
 {{< psd/tize >}}

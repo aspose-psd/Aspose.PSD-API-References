@@ -3,7 +3,7 @@ title: Class Lnk3Resource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource class. Defines the class which contains information about an embedded file in the PSD format 32 bit per channel image. The link resource may contain several LiFdDataSource instances which can be accessed by indexer
 type: docs
-weight: 2770
+weight: 2800
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/
 ---
 {{< psd/tize >}}
@@ -44,11 +44,7 @@ public class Lnk3Resource : Lnk2Resource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ## Examples
 

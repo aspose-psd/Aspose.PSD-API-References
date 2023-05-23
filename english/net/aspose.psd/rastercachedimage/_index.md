@@ -3,7 +3,7 @@ title: Class RasterCachedImage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.RasterCachedImage class. Represents a raster image supporting raster graphics operations. This image caches pixel data when required
 type: docs
-weight: 5370
+weight: 5440
 url: /net/aspose.psd/rastercachedimage/
 ---
 {{< psd/tize >}}

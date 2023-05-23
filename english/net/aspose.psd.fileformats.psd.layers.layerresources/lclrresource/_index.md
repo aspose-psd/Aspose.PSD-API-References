@@ -3,7 +3,7 @@ title: Class LclrResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource class. Class LclrResource. This resource contains information about color of layer in layers list is PS. Its only
 type: docs
-weight: 2660
+weight: 2690
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
 {{< psd/tize >}}
@@ -44,11 +44,7 @@ public class LclrResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ## Examples
 

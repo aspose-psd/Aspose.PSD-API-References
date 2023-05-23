@@ -3,7 +3,7 @@ title: Class UnitArrayStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure class. Defines the UnitArrayStructure class that holds Double values array and their measure unit. It is used in the PSD file resources usually by ObjectArrayStructure
 type: docs
-weight: 3320
+weight: 3370
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
 {{< psd/tize >}}
@@ -44,11 +44,7 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Defines the 'UnFl' `UnitArrayStructure` key. |
-=======
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey) | Defines the 'UnFl' [`UnitArrayStructure`](../unitarraystructure) key. |
->>>>>>> production
 
 ## Examples
 

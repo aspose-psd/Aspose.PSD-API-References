@@ -3,7 +3,7 @@ title: Class IopaResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IopaResource class. Class IopaResource. This resource contains information about the fill opacity property from the layer style form
 type: docs
-weight: 2600
+weight: 2630
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/
 ---
 {{< psd/tize >}}
@@ -43,11 +43,7 @@ public class IopaResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/typetoolkey/) | The type tool info key. |
-=======
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/typetoolkey) | The type tool info key. |
->>>>>>> production
 
 ### See Also
 

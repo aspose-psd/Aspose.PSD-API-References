@@ -3,7 +3,7 @@ title: Class XmpDate
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Basic.XmpDate class. Represents Date in XMP packet
 type: docs
-weight: 6010
+weight: 6080
 url: /net/aspose.psd.xmp.types.basic/xmpdate/
 ---
 {{< psd/tize >}}
@@ -39,11 +39,7 @@ public sealed class XmpDate : XmpTypeBase
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | The ISO 8601 (roundtrip) format string. |
-=======
-| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format) | The ISO 8601 (roundtrip) format string. |
->>>>>>> production
 
 ## Remarks
 

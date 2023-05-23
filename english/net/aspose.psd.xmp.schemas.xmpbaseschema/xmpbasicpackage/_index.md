@@ -3,7 +3,7 @@ title: Class XmpBasicPackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpBaseSchema.XmpBasicPackage class. Represents XMP basic namespace
 type: docs
-weight: 5890
+weight: 5960
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/
 ---
 {{< psd/tize >}}
@@ -59,15 +59,9 @@ public class XmpBasicPackage : XmpPackage
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [RatingMax](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/) | Rating max value. |
 | const [RatingMin](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/) | Rating min value. |
 | const [RatingRejected](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/) | Rating rejected value. |
-=======
-| const [RatingMax](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax) | Rating max value. |
-| const [RatingMin](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin) | Rating min value. |
-| const [RatingRejected](../../aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected) | Rating rejected value. |
->>>>>>> production
 
 ### See Also
 

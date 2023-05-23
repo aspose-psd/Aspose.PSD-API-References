@@ -3,7 +3,7 @@ title: Class StreamContainer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.StreamContainer class. Represents stream container which contains the stream and provides stream processing routines
 type: docs
-weight: 5700
+weight: 5770
 url: /net/aspose.psd/streamcontainer/
 ---
 {{< psd/tize >}}
@@ -66,11 +66,7 @@ public class StreamContainer : DisposableObject
 
 | Name | Description |
 | --- | --- |
-<<<<<<< HEAD
 | const [ReadWriteBytesCount](../../aspose.psd/streamcontainer/readwritebytescount/) | Specifies read and write bytes count when reading sequentially. |
-=======
-| const [ReadWriteBytesCount](../../aspose.psd/streamcontainer/readwritebytescount) | Specifies read and write bytes count when reading sequentially. |
->>>>>>> production
 
 ### See Also
 
