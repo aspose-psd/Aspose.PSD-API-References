@@ -23,7 +23,7 @@ The mode.
 
 * enum [ResizeType](../../resizetype/)
 * class [ImageResizeSettings](../)
-* namespace [Aspose.PSD](../../imageresizesettings/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

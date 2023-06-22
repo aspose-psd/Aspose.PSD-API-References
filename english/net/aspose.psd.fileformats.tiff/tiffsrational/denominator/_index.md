@@ -22,7 +22,7 @@ The denominator.
 ### See Also
 
 * class [TiffSRational](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
 * assembly [Aspose.PSD](../../../)
 
 

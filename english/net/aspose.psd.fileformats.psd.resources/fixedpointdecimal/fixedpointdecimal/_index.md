@@ -23,7 +23,7 @@ public FixedPointDecimal(int integer, int fraction)
 ### See Also
 
 * class [FixedPointDecimal](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public FixedPointDecimal(long value)
 ### See Also
 
 * class [FixedPointDecimal](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -69,7 +69,7 @@ public FixedPointDecimal(double value)
 ### See Also
 
 * class [FixedPointDecimal](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

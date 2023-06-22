@@ -3,7 +3,7 @@ title: Class Lfx2Resource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource class. Lfx2 resource effects resource
 type: docs
-weight: 2720
+weight: 2770
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
 {{< psd/tize >}}

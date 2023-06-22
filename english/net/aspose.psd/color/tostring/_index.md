@@ -22,7 +22,7 @@ A string that is the name of this [`Color`](../), if the [`Color`](../) is creat
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../color/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

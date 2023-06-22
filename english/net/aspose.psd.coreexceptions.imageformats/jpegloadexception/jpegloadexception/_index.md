@@ -22,7 +22,7 @@ public JpegLoadException(string message)
 ### See Also
 
 * class [JpegLoadException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public JpegLoadException(string message, Exception innerException)
 ### See Also
 
 * class [JpegLoadException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public JpegLoadException(string message, ErrorReason reason)
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -88,7 +88,7 @@ public JpegLoadException(string message, Exception innerException, ErrorReason r
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 

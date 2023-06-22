@@ -19,7 +19,7 @@ public StreamSource RgbColorProfile { get; set; }
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

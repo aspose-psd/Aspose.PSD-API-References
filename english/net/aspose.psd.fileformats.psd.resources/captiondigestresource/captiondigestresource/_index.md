@@ -18,7 +18,7 @@ public CaptionDigestResource()
 ### See Also
 
 * class [CaptionDigestResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

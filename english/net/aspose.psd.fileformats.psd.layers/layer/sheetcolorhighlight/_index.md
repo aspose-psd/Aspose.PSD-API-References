@@ -23,7 +23,7 @@ The sheet color highlight.
 
 * enum [SheetColorHighlightEnum](../../../aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/)
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

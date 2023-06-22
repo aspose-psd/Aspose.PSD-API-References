@@ -65,7 +65,7 @@ using (var image = (PsdImage)Image.Load(output))
 
 * enum [TextOrientation](../../../aspose.psd.fileformats.psd/textorientation/)
 * interface [IText](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
 * assembly [Aspose.PSD](../../../)
 
 

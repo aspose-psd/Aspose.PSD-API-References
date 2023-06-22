@@ -23,7 +23,7 @@ Trailer processing instruction.
 
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.PSD.Xmp](../../xmppacketwrapper/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

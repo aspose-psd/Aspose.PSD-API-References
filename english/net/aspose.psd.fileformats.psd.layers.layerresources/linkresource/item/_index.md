@@ -108,7 +108,7 @@ foreach (FileFormat format in formats)
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LinkResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

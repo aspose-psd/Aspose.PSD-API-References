@@ -23,7 +23,7 @@ public void SetMeteredKey(string publicKey, string privateKey)
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.PSD](../../metered/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

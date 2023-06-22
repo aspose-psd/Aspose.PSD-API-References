@@ -3,7 +3,7 @@ title: Class ColorBalanceAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.ColorBalanceAdjustmentLayer class. The color balance adjustment layer class
 type: docs
-weight: 1740
+weight: 1750
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/
 ---
 {{< psd/tize >}}

@@ -22,7 +22,7 @@ public static void SetFontsFolder(string fontFolder)
 ### See Also
 
 * class [FontSettings](../)
-* namespace [Aspose.PSD](../../fontsettings/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

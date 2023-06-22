@@ -47,7 +47,7 @@ using (Image img = Image.Load(sourceFilePathPsd))
 
 * enum [PsdVersion](../../../aspose.psd.fileformats.psd/psdversion/)
 * class [PsdOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../psdoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

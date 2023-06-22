@@ -3,7 +3,7 @@ title: Enum TiffOptionsError
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.TiffOptionsError enum. The tiff options error codes
 type: docs
-weight: 5080
+weight: 5140
 url: /net/aspose.psd.imageoptions/tiffoptionserror/
 ---
 {{< psd/tize >}}

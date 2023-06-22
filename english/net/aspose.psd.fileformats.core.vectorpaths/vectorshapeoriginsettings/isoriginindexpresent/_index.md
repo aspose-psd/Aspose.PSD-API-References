@@ -22,7 +22,7 @@ public bool IsOriginIndexPresent { get; }
 ### See Also
 
 * class [VectorShapeOriginSettings](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

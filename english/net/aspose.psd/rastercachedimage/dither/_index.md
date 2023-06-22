@@ -27,7 +27,7 @@ public override void Dither(DitheringMethod ditheringMethod, int bitsCount,
 * enum [DitheringMethod](../../ditheringmethod/)
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../rastercachedimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

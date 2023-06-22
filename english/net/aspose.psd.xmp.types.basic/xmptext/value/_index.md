@@ -22,7 +22,7 @@ The text value.
 ### See Also
 
 * class [XmpText](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 

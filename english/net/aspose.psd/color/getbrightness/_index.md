@@ -22,7 +22,7 @@ The brightness of this [`Color`](../). The brightness ranges from 0.0 through 1.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../color/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

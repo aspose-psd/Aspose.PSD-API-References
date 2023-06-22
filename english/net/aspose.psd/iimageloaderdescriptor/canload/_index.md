@@ -29,7 +29,7 @@ public bool CanLoad(StreamContainer streamContainer, LoadOptions loadOptions)
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoaderDescriptor](../)
-* namespace [Aspose.PSD](../../iimageloaderdescriptor/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

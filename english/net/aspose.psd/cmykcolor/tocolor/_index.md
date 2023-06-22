@@ -28,7 +28,7 @@ The array of the ARGB colors.
 
 * struct [Color](../../color/)
 * struct [CmykColor](../)
-* namespace [Aspose.PSD](../../cmykcolor/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -54,7 +54,7 @@ The Color[].
 
 * struct [Color](../../color/)
 * struct [CmykColor](../)
-* namespace [Aspose.PSD](../../cmykcolor/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

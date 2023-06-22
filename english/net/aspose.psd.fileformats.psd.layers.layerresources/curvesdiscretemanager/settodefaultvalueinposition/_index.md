@@ -23,7 +23,7 @@ public void SetToDefaultValueInPosition(int channelIndex, byte position)
 ### See Also
 
 * class [CurvesDiscreteManager](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

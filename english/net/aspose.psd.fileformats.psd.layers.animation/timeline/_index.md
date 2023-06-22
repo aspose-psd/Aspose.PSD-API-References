@@ -1,43 +1,43 @@
 ---
-title: Class TimeLine
+title: Class Timeline
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine class. The time line options model
+description: Aspose.PSD.FileFormats.Psd.Layers.Animation.Timeline class. The time line options model
 type: docs
-weight: 1900
+weight: 1950
 url: /net/aspose.psd.fileformats.psd.layers.animation/timeline/
 ---
 {{< psd/tize >}}
-## TimeLine class
+## Timeline class
 
 The time line options model.
 
 ```csharp
-public sealed class TimeLine
+public sealed class Timeline
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [TimeLine](timeline/)() | The default constructor. |
+| [Timeline](timeline/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/) { get; set; } | Gets or sets the active frame index. |
+| [ActiveFrameIndex](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframeindex/) { get; } | Gets the active frame index. |
 | [AFSt](../../aspose.psd.fileformats.psd.layers.animation/timeline/afst/) { get; set; } | Gets or sets the AFSt value. |
 | [Frames](../../aspose.psd.fileformats.psd.layers.animation/timeline/frames/) { get; set; } | Gets the list of frames. |
 | [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | Gets or sets the FsID value. |
-| [LayerIds](../../aspose.psd.fileformats.psd.layers.animation/timeline/layerids/) { get; set; } | Gets or sets the layers id array. |
 | [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | Gets or sets the count of loops. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [InitializeFrom](../../aspose.psd.fileformats.psd.layers.animation/timeline/initializefrom/)(PsdImage) | Creates the new instance of `TimeLine`, initialized from input [`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/). |
-| [ApplyTo](../../aspose.psd.fileformats.psd.layers.animation/timeline/applyto/)(PsdImage) | Apply current time line values to input [`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/). |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save)(Stream, ImageOptionsBase) | Saves the PsdImage's and Timeline data to the specified stream in the specified format according to save options. |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save_1)(string, ImageOptionsBase) | Saves the PsdImage's and Timeline data to the specified file location in the specified format according to save options. |
+| [SwitchActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/switchactiveframe/)(int) | Switches the active frame to targeted. |
 
 ## Examples
 

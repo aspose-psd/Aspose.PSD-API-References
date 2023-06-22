@@ -27,7 +27,7 @@ The ARGB colors.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* namespace [Aspose.PSD](../../cmykcolorhelper/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -52,7 +52,7 @@ The ARGB color.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* namespace [Aspose.PSD](../../cmykcolorhelper/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

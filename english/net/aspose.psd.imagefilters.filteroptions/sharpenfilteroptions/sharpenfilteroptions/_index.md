@@ -23,7 +23,7 @@ public SharpenFilterOptions(int size, double sigma)
 ### See Also
 
 * class [SharpenFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public SharpenFilterOptions()
 ### See Also
 
 * class [SharpenFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

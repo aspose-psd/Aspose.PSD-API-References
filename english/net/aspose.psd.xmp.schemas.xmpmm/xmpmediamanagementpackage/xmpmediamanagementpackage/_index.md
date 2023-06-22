@@ -18,7 +18,7 @@ public XmpMediaManagementPackage()
 ### See Also
 
 * class [XmpMediaManagementPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
 * assembly [Aspose.PSD](../../../)
 
 

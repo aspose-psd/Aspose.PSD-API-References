@@ -22,7 +22,7 @@ public void UpdateText(string text)
 ### See Also
 
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public void UpdateText(string text, float fontSize)
 ### See Also
 
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public void UpdateText(string text, Color color)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -88,7 +88,7 @@ public void UpdateText(string text, float fontSize, Color color)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -111,7 +111,7 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -135,7 +135,7 @@ public void UpdateText(string text, Point leftTopCoordinate, Color color)
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -157,7 +157,7 @@ public void UpdateText(string text, Point leftTopCoordinate)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -182,7 +182,7 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Col
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

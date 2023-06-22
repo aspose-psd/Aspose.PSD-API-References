@@ -3,7 +3,7 @@ title: PsdImage.AdjustGamma
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Gammacorrection of an image
 type: docs
-weight: 460
+weight: 490
 url: /net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
 {{< psd/tize >}}
@@ -22,7 +22,7 @@ public override void AdjustGamma(float gamma)
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBl
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

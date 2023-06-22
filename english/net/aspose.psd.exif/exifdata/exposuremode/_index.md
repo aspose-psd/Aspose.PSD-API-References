@@ -23,7 +23,7 @@ The exposure mode.
 
 * enum [ExifExposureMode](../../../aspose.psd.exif.enums/exifexposuremode/)
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

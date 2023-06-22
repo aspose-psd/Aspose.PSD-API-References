@@ -31,7 +31,7 @@ public void Insert(int position, StreamContainer stream, bool disposeStream)
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* namespace [Aspose.PSD](../../splitstreamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

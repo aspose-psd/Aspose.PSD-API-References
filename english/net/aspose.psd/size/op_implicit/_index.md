@@ -27,7 +27,7 @@ The [`SizeF`](../../sizef/) structure to which this operator converts.
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* namespace [Aspose.PSD](../../size/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

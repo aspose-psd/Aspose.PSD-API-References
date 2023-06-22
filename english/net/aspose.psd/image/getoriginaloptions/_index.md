@@ -23,7 +23,7 @@ The options based on the original file settings.
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

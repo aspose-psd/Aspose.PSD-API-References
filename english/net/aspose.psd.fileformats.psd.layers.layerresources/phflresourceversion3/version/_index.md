@@ -28,7 +28,7 @@ The version.
 ### See Also
 
 * class [PhflResourceVersion3](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

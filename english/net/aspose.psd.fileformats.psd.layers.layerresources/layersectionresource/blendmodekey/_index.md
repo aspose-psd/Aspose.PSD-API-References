@@ -25,7 +25,7 @@ public BlendMode BlendModeKey { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerSectionResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

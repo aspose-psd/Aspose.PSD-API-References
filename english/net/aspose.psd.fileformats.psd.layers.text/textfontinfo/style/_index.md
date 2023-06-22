@@ -79,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * enum [FontStyle](../../../aspose.psd/fontstyle/)
 * class [TextFontInfo](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
 * assembly [Aspose.PSD](../../../)
 
 

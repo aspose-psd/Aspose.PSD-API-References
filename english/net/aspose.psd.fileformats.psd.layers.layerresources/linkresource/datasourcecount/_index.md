@@ -22,7 +22,7 @@ The data source count.
 ### See Also
 
 * class [LinkResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

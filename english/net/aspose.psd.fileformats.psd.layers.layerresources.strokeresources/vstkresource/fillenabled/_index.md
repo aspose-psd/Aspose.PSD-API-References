@@ -18,7 +18,7 @@ public bool FillEnabled { get; set; }
 ### See Also
 
 * class [VstkResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
 * assembly [Aspose.PSD](../../../)
 
 

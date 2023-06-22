@@ -16,7 +16,7 @@ The namespace contains PSD adjustment layers.
 | [Frame](./frame/) | The options of time line frame item. |
 | [LayerState](./layerstate/) | The options of time line layer state. |
 | [LayerStateEffects](./layerstateeffects/) | The layer state effects. |
-| [TimeLine](./timeline/) | The time line options model. |
+| [Timeline](./timeline/) | The time line options model. |
 ## Enumeration
 
 | Enumeration | Description |

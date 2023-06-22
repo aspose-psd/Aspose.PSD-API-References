@@ -27,7 +27,7 @@ True if *size1* and *size2* have equal width and height; otherwise, false.
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.PSD](../../size/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

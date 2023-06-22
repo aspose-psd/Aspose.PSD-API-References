@@ -26,7 +26,7 @@ The overall segment size must be less than or equal to MaxExifSegmentSize bytes 
 ### See Also
 
 * class [JpegExifData](../)
-* namespace [Aspose.PSD.Exif](../../jpegexifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

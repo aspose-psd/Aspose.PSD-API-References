@@ -27,7 +27,7 @@ True if both *pixelFormat1* and *pixelFormat2* contain non-equal data or one of 
 ### See Also
 
 * class [PixelDataFormat](../)
-* namespace [Aspose.PSD](../../pixeldataformat/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

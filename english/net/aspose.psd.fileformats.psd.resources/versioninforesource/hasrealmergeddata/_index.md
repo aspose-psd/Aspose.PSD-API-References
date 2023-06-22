@@ -22,7 +22,7 @@ public bool HasRealMergedData { get; set; }
 ### See Also
 
 * class [VersionInfoResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

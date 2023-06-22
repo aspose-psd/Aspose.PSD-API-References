@@ -23,7 +23,7 @@ The indexed color converter
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RawDataSettings](../)
-* namespace [Aspose.PSD](../../rawdatasettings/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

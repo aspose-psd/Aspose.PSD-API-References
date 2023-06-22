@@ -3,7 +3,7 @@ title: Class PosterizeLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.PosterizeLayer class. Posterize layer. Handles Posterize rendering using data from PostResource
 type: docs
-weight: 1820
+weight: 1840
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/posterizelayer/
 ---
 {{< psd/tize >}}

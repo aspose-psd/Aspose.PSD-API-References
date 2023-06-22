@@ -18,7 +18,7 @@ public PrintFlagsResource()
 ### See Also
 
 * class [PrintFlagsResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

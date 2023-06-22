@@ -26,7 +26,7 @@ This is the data bytes count aligned to word boundary.
 ### See Also
 
 * class [TiffDataType](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -24,7 +24,7 @@ public abstract void SetPalette(IColorPalette palette, bool updateColors)
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public const int MaxA;
 ### See Also
 
 * class [ColorantLab](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
 * assembly [Aspose.PSD](../../../)
 
 

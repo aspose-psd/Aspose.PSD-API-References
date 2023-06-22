@@ -3,7 +3,7 @@ title: PsdImage.AddHueSaturationAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the hue/saturation adjustment layer
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.psd.fileformats.psd/psdimage/addhuesaturationadjustmentlayer/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ A newly created hue/saturation layer.
 
 * class [HueSaturationLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

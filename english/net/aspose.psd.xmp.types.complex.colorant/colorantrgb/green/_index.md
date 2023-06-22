@@ -22,7 +22,7 @@ The green component value.
 ### See Also
 
 * class [ColorantRgb](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
 * assembly [Aspose.PSD](../../../)
 
 

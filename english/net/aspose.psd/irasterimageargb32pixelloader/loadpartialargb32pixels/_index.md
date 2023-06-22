@@ -26,7 +26,7 @@ public void LoadPartialArgb32Pixels(Rectangle rectangle,
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * interface [IRasterImageArgb32PixelLoader](../)
-* namespace [Aspose.PSD](../../irasterimageargb32pixelloader/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

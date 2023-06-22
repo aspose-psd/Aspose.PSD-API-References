@@ -3,7 +3,7 @@ title: Class CurvesManager
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager class. Base Class to manage CurvResource
 type: docs
-weight: 2460
+weight: 2510
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
 {{< psd/tize >}}

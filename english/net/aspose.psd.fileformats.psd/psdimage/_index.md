@@ -3,7 +3,7 @@ title: Class PsdImage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.PsdImage class. Defines the PsdImage class that provides the ability to load edit save PSD files as well as update properties add watermarks perform graphics operations or convert one file format to another. Aspose.PSD supports import as a layer and export to the following formats Png Jpeg Jpeg2000 Gif Bmp Tiff Psd Psb along with export to Pdf with selectable text
 type: docs
-weight: 3710
+weight: 3770
 url: /net/aspose.psd.fileformats.psd/psdimage/
 ---
 {{< psd/tize >}}
@@ -76,6 +76,7 @@ public sealed class PsdImage : RasterCachedImage
 | [RgbColorProfile](../../aspose.psd.fileformats.psd/psdimage/rgbcolorprofile/) { get; set; } | Gets or sets the RGB color profile for CMYK PSD images. Must be in pair with CmykColorProfile for correct color conversion. |
 | [Size](../../aspose.psd/image/size/) { get; } | Gets the image size. |
 | [SmartObjectProvider](../../aspose.psd.fileformats.psd/psdimage/smartobjectprovider/) { get; } | Gets the smart object provider. |
+| [Timeline](../../aspose.psd.fileformats.psd/psdimage/timeline/) { get; } | Gets the [`Timeline`](./timeline/) of this `PsdImage`. |
 | virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | Gets the image transparent color. |
 | virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | Gets or sets a value indicating whether to update the XMP metadata. |
 | virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | Gets or sets a value indicating whether to use raw data loading when the raw data loading is available. |
@@ -101,7 +102,9 @@ public sealed class PsdImage : RasterCachedImage
 | [AddLevelsAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addlevelsadjustmentlayer/)() | Adds the Levels adjustment layer. |
 | [AddPhotoFilterLayer](../../aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/)(Color) | Adds the PhotoFilter layer. |
 | [AddRegularLayer](../../aspose.psd.fileformats.psd/psdimage/addregularlayer/)() | Adds a new regular layer. |
+| [AddSelectiveColorAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addselectivecoloradjustmentlayer/)() | Adds the selective color adjustment layer. |
 | [AddTextLayer](../../aspose.psd.fileformats.psd/psdimage/addtextlayer/)(string, Rectangle) | Adds a new Text layer. |
+| [AddThresholdAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addthresholdadjustmentlayer/)() | Adds the Threshold adjustment layer. |
 | [AddVibranceAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/)() | Adds the Vibrance adjustment layer. |
 | override [AdjustBrightness](../../aspose.psd.fileformats.psd/psdimage/adjustbrightness/)(int) | Adjust of a brightness for image. |
 | override [AdjustContrast](../../aspose.psd.fileformats.psd/psdimage/adjustcontrast/)(float) | Image contrasting |

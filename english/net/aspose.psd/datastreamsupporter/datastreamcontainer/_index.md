@@ -23,7 +23,7 @@ The object's data stream.
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* namespace [Aspose.PSD](../../datastreamsupporter/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

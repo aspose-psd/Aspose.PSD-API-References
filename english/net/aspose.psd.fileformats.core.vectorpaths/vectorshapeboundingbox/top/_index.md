@@ -3,7 +3,7 @@ title: VectorShapeBoundingBox.Top
 second_title: Aspose.PSD for .NET API Reference
 description: VectorShapeBoundingBox property. Gets or sets the top
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/
 ---
 {{< psd/tize >}}
@@ -22,7 +22,7 @@ The top.
 ### See Also
 
 * class [VectorShapeBoundingBox](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

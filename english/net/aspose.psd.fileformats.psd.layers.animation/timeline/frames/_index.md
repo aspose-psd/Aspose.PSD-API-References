@@ -1,13 +1,13 @@
 ---
-title: TimeLine.Frames
+title: Timeline.Frames
 second_title: Aspose.PSD for .NET API Reference
-description: TimeLine property. Gets the list of frames
+description: Timeline property. Gets the list of frames
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.animation/timeline/frames/
 ---
 {{< psd/tize >}}
-## TimeLine.Frames property
+## Timeline.Frames property
 
 Gets the list of frames.
 
@@ -61,8 +61,8 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 ### See Also
 
 * class [Frame](../../frame/)
-* class [TimeLine](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

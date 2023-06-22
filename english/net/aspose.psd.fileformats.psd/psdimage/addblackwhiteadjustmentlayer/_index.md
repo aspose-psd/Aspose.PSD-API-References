@@ -3,7 +3,7 @@ title: PsdImage.AddBlackWhiteAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the black white adjustment layer
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
 {{< psd/tize >}}
@@ -47,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.animation/frame/layerstates/
 Gets ot sets the layer states of frame.
 
 ```csharp
-public Dictionary<int, LayerState> LayerStates { get; }
+public LayerState[] LayerStates { get; set; }
 ```
 
 ## Examples
@@ -62,7 +62,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [LayerState](../../layerstate/)
 * class [Frame](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

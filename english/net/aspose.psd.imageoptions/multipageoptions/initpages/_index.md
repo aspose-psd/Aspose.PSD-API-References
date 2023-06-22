@@ -23,7 +23,7 @@ public void InitPages(IntRange[] ranges)
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

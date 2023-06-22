@@ -3,7 +3,7 @@ title: PsdImage.ResizeHeightProportionally
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Resizes the height proportionally
 type: docs
-weight: 590
+weight: 620
 url: /net/aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/
 ---
 {{< psd/tize >}}
@@ -24,7 +24,7 @@ public override void ResizeHeightProportionally(int newHeight, ImageResizeSettin
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public override void ResizeHeightProportionally(int newHeight, ResizeType resize
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

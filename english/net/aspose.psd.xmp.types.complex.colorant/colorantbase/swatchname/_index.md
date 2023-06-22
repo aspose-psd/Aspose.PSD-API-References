@@ -22,7 +22,7 @@ The name of the swatch.
 ### See Also
 
 * class [ColorantBase](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
 * assembly [Aspose.PSD](../../../)
 
 

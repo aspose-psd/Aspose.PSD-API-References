@@ -23,7 +23,7 @@ The type of the event.
 
 * enum [EventType](../../eventtype/)
 * class [ProgressEventHandlerInfo](../)
-* namespace [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
 * assembly [Aspose.PSD](../../../)
 
 

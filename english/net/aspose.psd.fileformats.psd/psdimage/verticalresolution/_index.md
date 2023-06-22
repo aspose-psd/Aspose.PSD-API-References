@@ -3,7 +3,7 @@ title: PsdImage.VerticalResolution
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage property. Gets or sets the vertical resolution in pixels per inch of this PsdImage
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.psd.fileformats.psd/psdimage/verticalresolution/
 ---
 {{< psd/tize >}}
@@ -32,7 +32,7 @@ Default value for PSD is 72, so if [`ResolutionInfoResource`](../../../aspose.ps
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

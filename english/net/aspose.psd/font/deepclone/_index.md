@@ -22,7 +22,7 @@ The [`Font`](../) this method creates.
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

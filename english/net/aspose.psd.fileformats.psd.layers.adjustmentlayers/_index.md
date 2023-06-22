@@ -18,6 +18,7 @@ The namespace contains PSD adjustment layers.
 | [BrightnessContrastLayer](./brightnesscontrastlayer/) | Brightness/contrast layer. |
 | [ChannelMixerLayer](./channelmixerlayer/) | Channel Mixer Adjustment layer. |
 | [CmykChannelMixerLayer](./cmykchannelmixerlayer/) | Cmyk Channel Mixer Adjustment layer. |
+| [CmykCorrection](./cmykcorrection/) | Colors correction in selective color adjustment layer. |
 | [CmykMixerChannel](./cmykmixerchannel/) | CmykChannel. It's wrapper for channel raw data. Used in MixrResource |
 | [ColorBalanceAdjustmentLayer](./colorbalanceadjustmentlayer/) | The color balance adjustment layer class. |
 | [CurvesLayer](./curveslayer/) | Curves Adjustment Layer |
@@ -30,6 +31,14 @@ The namespace contains PSD adjustment layers.
 | [PosterizeLayer](./posterizelayer/) | Posterize layer. Handles Posterize rendering using data from PostResource. |
 | [RgbChannelMixerLayer](./rgbchannelmixerlayer/) | Rgb Channel Mixer Adjustment layer. |
 | [RgbMixerChannel](./rgbmixerchannel/) | RgbChannel. It's wrapper for channel raw data. Used in MixrResource |
+| [SelectiveColorLayer](./selectivecolorlayer/) | Selective Color Adjustment Layer. |
+| [ThresholdLayer](./thresholdlayer/) | Threshold Adjustment Layer. |
 | [VibranceLayer](./vibrancelayer/) | Realization of Vibrance adjustment layer |
+## Enumeration
+
+| Enumeration | Description |
+| --- | --- |
+| [CorrectionMethodTypes](./correctionmethodtypes/) | Correction method in selective color adjustment layer. |
+| [SelectiveColorsTypes](./selectivecolorstypes/) | Color types in selective color adjustment layer. |
 
 

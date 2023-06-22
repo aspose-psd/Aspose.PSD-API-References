@@ -22,7 +22,7 @@ public void SetBlendTriangularShape(float focus)
 ### See Also
 
 * class [PathGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../pathgradientbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public void SetBlendTriangularShape(float focus, float scale)
 ### See Also
 
 * class [PathGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../pathgradientbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

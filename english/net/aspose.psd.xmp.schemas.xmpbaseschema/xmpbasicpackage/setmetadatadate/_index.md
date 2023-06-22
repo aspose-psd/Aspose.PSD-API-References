@@ -22,7 +22,7 @@ public void SetMetadataDate(DateTime metadataDate)
 ### See Also
 
 * class [XmpBasicPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void SetMetadataDate(string metadataDate)
 ### See Also
 
 * class [XmpBasicPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
 * assembly [Aspose.PSD](../../../)
 
 

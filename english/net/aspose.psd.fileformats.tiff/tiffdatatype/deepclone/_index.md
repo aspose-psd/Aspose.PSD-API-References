@@ -22,7 +22,7 @@ A deep clone of the current instance.
 ### See Also
 
 * class [TiffDataType](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
 * assembly [Aspose.PSD](../../../)
 
 

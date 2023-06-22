@@ -22,7 +22,7 @@ public ClassID(byte[] classID)
 ### See Also
 
 * class [ClassID](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public ClassID(byte[] classID, bool isZeroLength)
 ### See Also
 
 * class [ClassID](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -69,7 +69,7 @@ public ClassID(int classID)
 ### See Also
 
 * class [ClassID](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -89,7 +89,7 @@ public ClassID(uint classID)
 ### See Also
 
 * class [ClassID](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -156,7 +156,7 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 ### See Also
 
 * class [ClassID](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -176,7 +176,7 @@ public ClassID(string classID)
 ### See Also
 
 * class [ClassID](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

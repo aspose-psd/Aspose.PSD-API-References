@@ -27,7 +27,7 @@ The [`Size`](../) structure this method converts to.
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* namespace [Aspose.PSD](../../size/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

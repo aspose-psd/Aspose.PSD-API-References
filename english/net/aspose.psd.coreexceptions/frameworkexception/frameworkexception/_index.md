@@ -22,7 +22,7 @@ public FrameworkException(string message)
 ### See Also
 
 * class [FrameworkException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../frameworkexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public FrameworkException(string message, Exception innerException)
 ### See Also
 
 * class [FrameworkException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../frameworkexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

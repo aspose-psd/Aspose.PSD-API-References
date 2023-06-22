@@ -3,7 +3,7 @@ title: Enum FrameDisposalMethod
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod enum. The frame disposal method specifies whether to discard the current frame before displaying the next frame. You select a disposal method for animations that include background transparency to specify whether the current frame will be visible through the transparent areas of the next frame
 type: docs
-weight: 1870
+weight: 1920
 url: /net/aspose.psd.fileformats.psd.layers.animation/framedisposalmethod/
 ---
 {{< psd/tize >}}

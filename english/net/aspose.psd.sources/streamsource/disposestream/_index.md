@@ -22,7 +22,7 @@ public bool DisposeStream { get; }
 ### See Also
 
 * class [StreamSource](../)
-* namespace [Aspose.PSD.Sources](../../streamsource/)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
 * assembly [Aspose.PSD](../../../)
 
 

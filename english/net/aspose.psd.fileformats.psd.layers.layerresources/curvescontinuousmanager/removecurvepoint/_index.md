@@ -23,7 +23,7 @@ public void RemoveCurvePoint(int channelIndex, int pointIndex)
 ### See Also
 
 * class [CurvesContinuousManager](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

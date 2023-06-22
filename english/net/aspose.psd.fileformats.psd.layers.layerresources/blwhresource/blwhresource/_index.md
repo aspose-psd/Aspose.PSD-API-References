@@ -18,7 +18,7 @@ public BlwhResource()
 ### See Also
 
 * class [BlwhResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

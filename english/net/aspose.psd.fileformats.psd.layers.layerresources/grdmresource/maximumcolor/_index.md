@@ -19,7 +19,7 @@ public RawColor MaximumColor { get; }
 
 * class [RawColor](../../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/)
 * class [GrdmResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../grdmresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

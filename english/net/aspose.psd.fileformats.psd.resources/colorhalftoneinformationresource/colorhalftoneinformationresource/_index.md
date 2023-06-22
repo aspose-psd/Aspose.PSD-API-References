@@ -18,7 +18,7 @@ public ColorHalftoneInformationResource()
 ### See Also
 
 * class [ColorHalftoneInformationResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

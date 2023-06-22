@@ -22,7 +22,7 @@ The header length
 ### See Also
 
 * class [OSTypeStructure](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The name of the raster image.
 ### See Also
 
 * class [AiRasterImageSection](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

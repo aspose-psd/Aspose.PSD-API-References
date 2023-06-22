@@ -23,7 +23,7 @@ The [`Rectangle`](../../../aspose.psd/rectangle/).
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../texturebrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

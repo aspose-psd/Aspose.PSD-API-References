@@ -23,7 +23,7 @@ An element of the [`KnownColor`](../../knowncolor/) enumeration, if the [`Color`
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* namespace [Aspose.PSD](../../color/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

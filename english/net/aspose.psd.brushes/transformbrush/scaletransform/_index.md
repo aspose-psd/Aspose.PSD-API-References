@@ -23,7 +23,7 @@ public void ScaleTransform(float sx, float sy)
 ### See Also
 
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../transformbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void ScaleTransform(float sx, float sy, MatrixOrder order)
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../transformbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

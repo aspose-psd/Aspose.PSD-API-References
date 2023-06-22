@@ -22,7 +22,7 @@ The width of this [`RectangleF`](../) structure.
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../rectanglef/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

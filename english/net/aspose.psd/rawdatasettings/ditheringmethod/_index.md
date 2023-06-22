@@ -23,7 +23,7 @@ The dithering method to use for raw data conversion
 
 * enum [DitheringMethods](../../ditheringmethods/)
 * class [RawDataSettings](../)
-* namespace [Aspose.PSD](../../rawdatasettings/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

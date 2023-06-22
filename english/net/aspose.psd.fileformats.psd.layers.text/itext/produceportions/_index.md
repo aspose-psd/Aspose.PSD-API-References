@@ -80,7 +80,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 * interface [ITextStyle](../../itextstyle/)
 * interface [ITextParagraph](../../itextparagraph/)
 * interface [IText](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
 * assembly [Aspose.PSD](../../../)
 
 

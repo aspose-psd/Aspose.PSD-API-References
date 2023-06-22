@@ -23,7 +23,7 @@ The fonts.
 
 * class [TypeToolFontInfo](../../typetoolfontinfo/)
 * class [TypeToolInfoResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

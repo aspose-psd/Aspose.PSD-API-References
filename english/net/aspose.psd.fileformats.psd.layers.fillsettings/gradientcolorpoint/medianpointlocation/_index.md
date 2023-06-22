@@ -22,7 +22,7 @@ The median point location.
 ### See Also
 
 * class [GradientColorPoint](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

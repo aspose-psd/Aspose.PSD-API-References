@@ -22,7 +22,7 @@ public bool LabColor { get; set; }
 ### See Also
 
 * class [BritResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

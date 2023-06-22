@@ -3,7 +3,7 @@ title: Class PdfPackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.Pdf.PdfPackage class. Represents Adobe Pdf namespace
 type: docs
-weight: 5920
+weight: 5980
 url: /net/aspose.psd.xmp.schemas.pdf/pdfpackage/
 ---
 {{< psd/tize >}}

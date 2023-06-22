@@ -3,7 +3,7 @@ title: Class UrlListResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.UrlListResource class. Url list resource
 type: docs
-weight: 4070
+weight: 4130
 url: /net/aspose.psd.fileformats.psd.resources/urllistresource/
 ---
 {{< psd/tize >}}

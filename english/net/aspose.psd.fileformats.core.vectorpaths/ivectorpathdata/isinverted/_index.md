@@ -78,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### See Also
 
 * interface [IVectorPathData](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

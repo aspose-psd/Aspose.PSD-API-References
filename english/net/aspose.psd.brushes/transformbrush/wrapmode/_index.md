@@ -23,7 +23,7 @@ A [`WrapMode`](../../../aspose.psd/wrapmode/) that specifies how fills drawn wit
 
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../transformbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

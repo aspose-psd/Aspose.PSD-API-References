@@ -23,7 +23,7 @@ The registered descriptors.
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

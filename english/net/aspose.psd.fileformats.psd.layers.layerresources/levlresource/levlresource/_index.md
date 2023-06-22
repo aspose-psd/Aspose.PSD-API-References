@@ -22,7 +22,7 @@ public LevlResource(byte[] bytes)
 ### See Also
 
 * class [LevlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public LevlResource()
 ### See Also
 
 * class [LevlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

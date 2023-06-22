@@ -3,7 +3,7 @@ title: Class GradientTransparencyPoint
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint class. Gradient Transparency Point
 type: docs
-weight: 1990
+weight: 2040
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
 {{< psd/tize >}}
