@@ -22,7 +22,7 @@ public void SetThreshold(float threshold)
 ### See Also
 
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void SetThreshold(float threshold, ColorAdjustType type)
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

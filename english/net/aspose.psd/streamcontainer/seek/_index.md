@@ -28,7 +28,7 @@ The new position within the current stream.
 
 * enum [SeekOrigin](../../seekorigin/)
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

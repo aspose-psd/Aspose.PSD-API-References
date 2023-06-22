@@ -23,7 +23,7 @@ The progress event handler.
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [LoadOptions](../)
-* namespace [Aspose.PSD](../../loadoptions/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

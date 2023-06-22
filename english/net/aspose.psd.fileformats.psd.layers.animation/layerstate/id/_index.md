@@ -1,7 +1,7 @@
 ---
 title: LayerState.Id
 second_title: Aspose.PSD for .NET API Reference
-description: LayerState property. Gets or sets the id
+description: LayerState property. Gets or sets the layer id
 type: docs
 weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.animation/layerstate/id/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.animation/layerstate/id/
 {{< psd/tize >}}
 ## LayerState.Id property
 
-Gets or sets the id.
+Gets or sets the layer id.
 
 ```csharp
 public int Id { get; set; }
@@ -18,7 +18,7 @@ public int Id { get; set; }
 ### See Also
 
 * class [LayerState](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ public void AddRasterImage(AiRasterImageSection rasterImage)
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

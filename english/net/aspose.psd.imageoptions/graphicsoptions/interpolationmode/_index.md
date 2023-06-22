@@ -19,7 +19,7 @@ public InterpolationMode InterpolationMode { get; set; }
 
 * enum [InterpolationMode](../../../aspose.psd/interpolationmode/)
 * class [GraphicsOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../graphicsoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

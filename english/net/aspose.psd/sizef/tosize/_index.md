@@ -23,7 +23,7 @@ Returns a [`Size`](../../size/) structure.
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* namespace [Aspose.PSD](../../sizef/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

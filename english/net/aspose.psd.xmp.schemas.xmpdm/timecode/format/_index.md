@@ -23,7 +23,7 @@ The format used in the [`TimeValue`](../timevalue/).
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
 * assembly [Aspose.PSD](../../../)
 
 

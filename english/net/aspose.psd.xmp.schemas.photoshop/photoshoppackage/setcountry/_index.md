@@ -22,7 +22,7 @@ public void SetCountry(string country)
 ### See Also
 
 * class [PhotoshopPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
 * assembly [Aspose.PSD](../../../)
 
 

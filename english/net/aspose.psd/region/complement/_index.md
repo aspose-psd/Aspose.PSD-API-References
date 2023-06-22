@@ -23,7 +23,7 @@ public void Complement(RectangleF rect)
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Complement(Rectangle rect)
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -71,7 +71,7 @@ public void Complement(GraphicsPath path)
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -97,7 +97,7 @@ public void Complement(Region region)
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

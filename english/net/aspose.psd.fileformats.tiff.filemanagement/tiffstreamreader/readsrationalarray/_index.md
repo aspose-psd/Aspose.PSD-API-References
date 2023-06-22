@@ -34,7 +34,7 @@ The array of signed rational values.
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
 * assembly [Aspose.PSD](../../../)
 
 

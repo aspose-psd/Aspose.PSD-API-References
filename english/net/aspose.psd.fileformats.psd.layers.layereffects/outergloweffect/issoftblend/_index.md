@@ -22,7 +22,7 @@ public bool IsSoftBlend { get; set; }
 ### See Also
 
 * class [OuterGlowEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
 * assembly [Aspose.PSD](../../../)
 
 

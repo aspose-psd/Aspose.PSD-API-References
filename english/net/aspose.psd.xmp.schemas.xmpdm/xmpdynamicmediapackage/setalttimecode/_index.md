@@ -23,7 +23,7 @@ public void SetAltTimeCode(Timecode timecode)
 
 * class [Timecode](../../timecode/)
 * class [XmpDynamicMediaPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
 * assembly [Aspose.PSD](../../../)
 
 

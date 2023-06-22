@@ -18,7 +18,7 @@ public int ScaledQuality { get; }
 ### See Also
 
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

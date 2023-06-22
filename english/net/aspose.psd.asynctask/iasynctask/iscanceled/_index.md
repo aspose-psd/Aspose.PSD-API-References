@@ -22,7 +22,7 @@ public bool IsCanceled { get; }
 ### See Also
 
 * interface [IAsyncTask](../)
-* namespace [Aspose.PSD.AsyncTask](../../iasynctask/)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
 * assembly [Aspose.PSD](../../../)
 
 

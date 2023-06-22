@@ -22,7 +22,7 @@ public DeflateCompressorException(string message)
 ### See Also
 
 * class [DeflateCompressorException](../)
-* namespace [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public DeflateCompressorException(string message, Exception innerException)
 ### See Also
 
 * class [DeflateCompressorException](../)
-* namespace [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
 * assembly [Aspose.PSD](../../../)
 
 

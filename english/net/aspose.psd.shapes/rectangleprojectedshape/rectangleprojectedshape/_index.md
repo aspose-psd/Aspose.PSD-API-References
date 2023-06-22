@@ -18,7 +18,7 @@ public RectangleProjectedShape()
 ### See Also
 
 * class [RectangleProjectedShape](../)
-* namespace [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public RectangleProjectedShape(RectangleF rectangle)
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleProjectedShape](../)
-* namespace [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

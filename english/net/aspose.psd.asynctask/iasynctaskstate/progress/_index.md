@@ -23,7 +23,7 @@ The progress of the asynchronous task.
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTaskState](../)
-* namespace [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
 * assembly [Aspose.PSD](../../../)
 
 

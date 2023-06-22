@@ -32,7 +32,7 @@ Urgency should be in rage from 1 till 8.
 ### See Also
 
 * class [PhotoshopPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
 * assembly [Aspose.PSD](../../../)
 
 

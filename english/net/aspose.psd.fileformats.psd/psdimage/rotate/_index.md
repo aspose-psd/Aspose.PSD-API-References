@@ -3,7 +3,7 @@ title: PsdImage.Rotate
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Rotate image around the center
 type: docs
-weight: 610
+weight: 640
 url: /net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
 {{< psd/tize >}}
@@ -61,7 +61,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -84,7 +84,7 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class CurvesLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CurvesLayer class. Curves Adjustment Layer
 type: docs
-weight: 1750
+weight: 1770
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/
 ---
 {{< psd/tize >}}

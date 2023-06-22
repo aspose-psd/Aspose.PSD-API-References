@@ -22,7 +22,7 @@ public XmpDate(DateTime dateTime)
 ### See Also
 
 * class [XmpDate](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public XmpDate(string dateString)
 ### See Also
 
 * class [XmpDate](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 

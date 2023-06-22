@@ -22,7 +22,7 @@ public IndexOutOFRangeException(string message)
 ### See Also
 
 * class [IndexOutOFRangeException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public IndexOutOFRangeException(string message, Exception innerException)
 ### See Also
 
 * class [IndexOutOFRangeException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

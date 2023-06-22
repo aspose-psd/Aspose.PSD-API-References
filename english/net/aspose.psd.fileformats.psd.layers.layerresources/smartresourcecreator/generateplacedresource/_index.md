@@ -23,7 +23,7 @@ The generated [`PlLdResource`](../../plldresource/) instance.
 
 * class [PlLdResource](../../plldresource/)
 * class [SmartResourceCreator](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

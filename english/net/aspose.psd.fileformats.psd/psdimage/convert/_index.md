@@ -3,7 +3,7 @@ title: PsdImage.Convert
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Converts this image format to the one specified in options
 type: docs
-weight: 500
+weight: 530
 url: /net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
 {{< psd/tize >}}
@@ -117,7 +117,7 @@ void SaveToPsdThenLoadAndSaveToPng(
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

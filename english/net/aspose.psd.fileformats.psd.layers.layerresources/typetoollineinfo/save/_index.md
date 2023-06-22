@@ -24,7 +24,7 @@ public void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolLineInfo](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

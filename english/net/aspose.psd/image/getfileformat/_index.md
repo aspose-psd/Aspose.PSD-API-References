@@ -31,7 +31,7 @@ The file format determined does not mean that the specified image may be loaded.
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -60,7 +60,7 @@ The file format determined does not mean that the specified image may be loaded.
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

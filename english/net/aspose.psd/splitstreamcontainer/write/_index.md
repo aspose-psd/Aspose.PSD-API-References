@@ -22,7 +22,7 @@ public override void Write(byte[] bytes)
 ### See Also
 
 * class [SplitStreamContainer](../)
-* namespace [Aspose.PSD](../../splitstreamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public override void Write(byte[] buffer, int offset, int count)
 ### See Also
 
 * class [SplitStreamContainer](../)
-* namespace [Aspose.PSD](../../splitstreamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

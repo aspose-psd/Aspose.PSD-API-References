@@ -23,7 +23,7 @@ Color palette for monochrome images.
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.PSD](../../colorpalettehelper/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public override int PsdVersion { get; }
 ### See Also
 
 * class [BooleanResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The drawn text.
 ### See Also
 
 * class [TextShape](../)
-* namespace [Aspose.PSD.Shapes](../../textshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

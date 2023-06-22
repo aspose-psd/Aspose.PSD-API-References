@@ -18,7 +18,7 @@ public TiffDataTypeController()
 ### See Also
 
 * class [TiffDataTypeController](../)
-* namespace [Aspose.PSD.Exif](../../tiffdatatypecontroller/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

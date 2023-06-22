@@ -27,7 +27,7 @@ Returns a [`Rectangle`](../).
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../rectangle/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

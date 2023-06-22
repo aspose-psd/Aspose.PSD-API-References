@@ -18,7 +18,7 @@ public PathShape()
 ### See Also
 
 * class [PathShape](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pathshape/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -41,7 +41,7 @@ public PathShape(LengthRecord lengthRecord, BezierKnotRecord[] bezierKnotRecords
 * class [LengthRecord](../../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/)
 * class [BezierKnotRecord](../../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/)
 * class [PathShape](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pathshape/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

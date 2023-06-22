@@ -18,7 +18,7 @@ public void Clear()
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.PSD](../../nongenericdictionary/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

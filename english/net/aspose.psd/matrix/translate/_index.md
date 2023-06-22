@@ -25,7 +25,7 @@ public void Translate(float offsetX, float offsetY, MatrixOrder order)
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void Translate(float tx, float ty)
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

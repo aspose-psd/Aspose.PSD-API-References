@@ -23,7 +23,7 @@ The color of spaces between the hatch lines.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* namespace [Aspose.PSD.Brushes](../../hatchbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

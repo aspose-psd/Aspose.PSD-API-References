@@ -72,7 +72,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 * struct [Rectangle](../../rectangle/)
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

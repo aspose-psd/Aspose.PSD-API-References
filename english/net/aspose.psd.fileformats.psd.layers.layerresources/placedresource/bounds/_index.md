@@ -23,7 +23,7 @@ The placed layer bounds.
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PlacedResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

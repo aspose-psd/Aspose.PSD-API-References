@@ -22,7 +22,7 @@ The top right.
 ### See Also
 
 * class [VectorShapeRadiiRectangle](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

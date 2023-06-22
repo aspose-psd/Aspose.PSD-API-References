@@ -280,7 +280,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### See Also
 
 * interface [ITextPortion](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextportion/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
 * assembly [Aspose.PSD](../../../)
 
 

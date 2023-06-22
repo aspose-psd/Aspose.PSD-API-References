@@ -3,7 +3,7 @@ title: Enum FontStyle
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FontStyle enum. Specifies style information applied to text
 type: docs
-weight: 4420
+weight: 4480
 url: /net/aspose.psd/fontstyle/
 ---
 {{< psd/tize >}}

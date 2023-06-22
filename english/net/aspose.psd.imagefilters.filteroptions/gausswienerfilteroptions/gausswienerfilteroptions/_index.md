@@ -23,7 +23,7 @@ public GaussWienerFilterOptions(int radius, double smooth)
 ### See Also
 
 * class [GaussWienerFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public GaussWienerFilterOptions()
 ### See Also
 
 * class [GaussWienerFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

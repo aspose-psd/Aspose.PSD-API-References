@@ -31,7 +31,7 @@ public void DrawImage(Image sourceImage, PointF point)
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public void DrawImage(Image sourceImage, float x, float y)
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -89,7 +89,7 @@ public void DrawImage(Image sourceImage, RectangleF rect)
 * class [Image](../../image/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -120,7 +120,7 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -151,7 +151,7 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -185,7 +185,7 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -219,7 +219,7 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -252,7 +252,7 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -285,7 +285,7 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -320,7 +320,7 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -355,7 +355,7 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -378,7 +378,7 @@ public void DrawImage(Image image, Point[] destPoints)
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -403,7 +403,7 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 * struct [Point](../../point/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -430,7 +430,7 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -460,7 +460,7 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -489,7 +489,7 @@ public void DrawImage(Image image, PointF[] destPoints)
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -514,7 +514,7 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -541,7 +541,7 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -571,7 +571,7 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -602,7 +602,7 @@ public void DrawImage(Image sourceImage, float x, float y, float width, float he
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -631,7 +631,7 @@ public void DrawImage(Image sourceImage, Point point)
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -660,7 +660,7 @@ public void DrawImage(Image sourceImage, int x, int y)
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -689,7 +689,7 @@ public void DrawImage(Image sourceImage, Rectangle rect)
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -720,7 +720,7 @@ public void DrawImage(Image sourceImage, int x, int y, int width, int height)
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

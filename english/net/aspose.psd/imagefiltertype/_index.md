@@ -3,7 +3,7 @@ title: Enum ImageFilterType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilterType enum. Image filters to use
 type: docs
-weight: 4760
+weight: 4820
 url: /net/aspose.psd/imagefiltertype/
 ---
 {{< psd/tize >}}

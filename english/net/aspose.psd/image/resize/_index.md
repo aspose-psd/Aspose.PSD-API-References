@@ -25,7 +25,7 @@ public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -88,7 +88,7 @@ public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public void SetOriginalDocumentId(Guid guid)
 ### See Also
 
 * class [XmpMediaManagementPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void SetOriginalDocumentId(string guid)
 ### See Also
 
 * class [XmpMediaManagementPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ A string that represents this [`Size`](../).
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.PSD](../../size/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

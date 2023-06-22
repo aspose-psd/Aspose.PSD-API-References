@@ -18,7 +18,7 @@ public float Y { get; set; }
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.PSD](../../pointf/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

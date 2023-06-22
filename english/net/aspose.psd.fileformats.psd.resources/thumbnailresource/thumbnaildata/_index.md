@@ -23,7 +23,7 @@ The thumbnail data.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ThumbnailResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

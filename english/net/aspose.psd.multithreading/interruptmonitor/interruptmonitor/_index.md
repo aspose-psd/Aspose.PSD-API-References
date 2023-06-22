@@ -18,7 +18,7 @@ public InterruptMonitor()
 ### See Also
 
 * class [InterruptMonitor](../)
-* namespace [Aspose.PSD.Multithreading](../../interruptmonitor/)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
 * assembly [Aspose.PSD](../../../)
 
 

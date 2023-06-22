@@ -22,7 +22,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * class [RenditionClass](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
 * assembly [Aspose.PSD](../../../)
 
 

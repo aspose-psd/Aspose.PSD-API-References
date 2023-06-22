@@ -23,7 +23,7 @@ The image rectangle.
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

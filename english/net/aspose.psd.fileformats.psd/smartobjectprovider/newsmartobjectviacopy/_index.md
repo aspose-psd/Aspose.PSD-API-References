@@ -127,7 +127,7 @@ void AssertIsTrue(bool condition)
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

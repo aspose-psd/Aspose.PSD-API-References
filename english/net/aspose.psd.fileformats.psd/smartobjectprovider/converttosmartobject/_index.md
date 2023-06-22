@@ -33,7 +33,7 @@ The created [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smar
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ The created [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smar
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartObjectProvider](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

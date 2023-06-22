@@ -28,7 +28,7 @@ The estimated object's bounds.
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Figure](../)
-* namespace [Aspose.PSD](../../figure/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -56,7 +56,7 @@ The estimated object's bounds.
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [Figure](../)
-* namespace [Aspose.PSD](../../figure/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

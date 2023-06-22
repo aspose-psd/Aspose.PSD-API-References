@@ -29,7 +29,7 @@ public override void AddValue(string key, string value)
 ### See Also
 
 * class [DublinCorePackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
 * assembly [Aspose.PSD](../../../)
 
 

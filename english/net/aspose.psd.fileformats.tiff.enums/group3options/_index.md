@@ -3,7 +3,7 @@ title: Enum Group3Options
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.Group3Options enum. Options for CCITT Group 3/4 fax encoding. Possible values for GROUP3OPTIONS / TiffTag.T4OPTIONS and TiffTag.GROUP4OPTIONS / TiffTag.T6OPTIONS tags
 type: docs
-weight: 4140
+weight: 4200
 url: /net/aspose.psd.fileformats.tiff.enums/group3options/
 ---
 {{< psd/tize >}}

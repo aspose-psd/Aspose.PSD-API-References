@@ -24,7 +24,7 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

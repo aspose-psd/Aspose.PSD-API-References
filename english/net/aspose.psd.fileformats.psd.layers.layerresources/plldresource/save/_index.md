@@ -229,7 +229,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

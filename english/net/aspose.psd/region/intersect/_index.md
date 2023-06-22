@@ -23,7 +23,7 @@ public void Intersect(RectangleF rect)
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Intersect(Rectangle rect)
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public void Intersect(GraphicsPath path)
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -85,7 +85,7 @@ public void Intersect(Region region)
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

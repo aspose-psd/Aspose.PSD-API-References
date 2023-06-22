@@ -3,7 +3,7 @@ title: Enum GradientType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType enum. Gradient type
 type: docs
-weight: 2000
+weight: 2050
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
 {{< psd/tize >}}

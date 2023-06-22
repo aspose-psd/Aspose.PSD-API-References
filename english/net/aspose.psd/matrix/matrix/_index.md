@@ -18,7 +18,7 @@ public Matrix()
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -66,7 +66,7 @@ public Matrix(RectangleF rect, PointF[] plgpts)
 * struct [RectangleF](../../rectanglef/)
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -89,7 +89,7 @@ public Matrix(Rectangle rect, Point[] plgpts)
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -109,7 +109,7 @@ public Matrix(Matrix origin)
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ public void Save(StreamContainer stream)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ResourceBlock](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

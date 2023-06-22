@@ -75,7 +75,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 * class [VectorShapeOriginSettings](../../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/)
 * class [VogkResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

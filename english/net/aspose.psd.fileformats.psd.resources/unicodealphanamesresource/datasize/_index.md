@@ -22,7 +22,7 @@ The resource data size.
 ### See Also
 
 * class [UnicodeAlphaNamesResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

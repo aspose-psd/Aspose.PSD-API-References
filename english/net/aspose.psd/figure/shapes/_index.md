@@ -23,7 +23,7 @@ The figure shapes.
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* namespace [Aspose.PSD](../../figure/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

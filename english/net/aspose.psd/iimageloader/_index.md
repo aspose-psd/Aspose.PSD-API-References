@@ -3,7 +3,7 @@ title: Interface IImageLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IImageLoader interface. The image loader
 type: docs
-weight: 4570
+weight: 4630
 url: /net/aspose.psd/iimageloader/
 ---
 {{< psd/tize >}}

@@ -28,7 +28,7 @@ The output highlight level.
 ### See Also
 
 * class [LevelChannel](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

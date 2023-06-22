@@ -26,7 +26,7 @@ True if *obj* is a [`Color`](../) structure equivalent to this [`Color`](../) st
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../color/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public void UpdateAllModifiedContent()
 ### See Also
 
 * class [SmartObjectProvider](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

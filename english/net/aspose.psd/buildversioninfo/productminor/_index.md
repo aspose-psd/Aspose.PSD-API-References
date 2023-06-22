@@ -18,7 +18,7 @@ public static readonly int ProductMinor;
 ### See Also
 
 * class [BuildVersionInfo](../)
-* namespace [Aspose.PSD](../../buildversioninfo/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

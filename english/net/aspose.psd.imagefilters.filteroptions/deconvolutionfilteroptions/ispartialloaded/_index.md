@@ -22,7 +22,7 @@ public bool IsPartialLoaded { get; }
 ### See Also
 
 * class [DeconvolutionFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

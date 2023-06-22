@@ -30,7 +30,7 @@ public void AddCurvePoint(int channelIndex, byte x, byte y)
 ### See Also
 
 * class [CurvesContinuousManager](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

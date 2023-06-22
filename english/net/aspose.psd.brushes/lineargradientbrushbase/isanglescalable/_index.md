@@ -22,7 +22,7 @@ public bool IsAngleScalable { get; set; }
 ### See Also
 
 * class [LinearGradientBrushBase](../)
-* namespace [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

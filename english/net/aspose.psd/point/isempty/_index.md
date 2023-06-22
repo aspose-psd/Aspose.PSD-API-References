@@ -22,7 +22,7 @@ True if both [`X`](../x/) and [`Y`](../y/) are 0; otherwise, false.
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.PSD](../../point/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

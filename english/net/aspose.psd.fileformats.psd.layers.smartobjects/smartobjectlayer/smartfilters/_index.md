@@ -91,7 +91,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 * class [SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
 * assembly [Aspose.PSD](../../../)
 
 

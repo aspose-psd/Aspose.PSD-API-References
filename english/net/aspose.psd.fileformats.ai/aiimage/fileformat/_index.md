@@ -19,7 +19,7 @@ public override FileFormat FileFormat { get; }
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

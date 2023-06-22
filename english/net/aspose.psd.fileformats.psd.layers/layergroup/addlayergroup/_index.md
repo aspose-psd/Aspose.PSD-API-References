@@ -74,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 ### See Also
 
 * class [LayerGroup](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

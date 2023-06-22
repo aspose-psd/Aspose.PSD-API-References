@@ -23,7 +23,7 @@ A copy of the [`Matrix`](../../../aspose.psd/matrix/) that defines a geometric t
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../transformbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

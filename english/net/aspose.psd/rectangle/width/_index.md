@@ -22,7 +22,7 @@ The width of this [`Rectangle`](../) structure.
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../rectangle/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

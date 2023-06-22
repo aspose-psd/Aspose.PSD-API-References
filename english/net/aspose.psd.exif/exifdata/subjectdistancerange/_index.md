@@ -23,7 +23,7 @@ The subject distance range.
 
 * enum [ExifSubjectDistanceRange](../../../aspose.psd.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -33,7 +33,7 @@ public static bool HasTransparentColors(IColorPalette palette)
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.PSD](../../colorpalettehelper/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -201,7 +201,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * enum [JustificationMode](../../../aspose.psd.fileformats.psd/justificationmode/)
 * interface [ITextParagraph](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextparagraph/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
 * assembly [Aspose.PSD](../../../)
 
 

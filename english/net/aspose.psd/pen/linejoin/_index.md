@@ -29,7 +29,7 @@ A `LineJoin` that represents the join style for the ends of two consecutive line
 
 * enum [LineJoin](../../linejoin/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

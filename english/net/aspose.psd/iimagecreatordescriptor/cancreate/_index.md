@@ -27,7 +27,7 @@ public bool CanCreate(ImageOptionsBase imageOptions)
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreatorDescriptor](../)
-* namespace [Aspose.PSD](../../iimagecreatordescriptor/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

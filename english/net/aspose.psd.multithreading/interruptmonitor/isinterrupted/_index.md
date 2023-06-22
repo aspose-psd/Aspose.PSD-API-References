@@ -18,7 +18,7 @@ public bool IsInterrupted { get; }
 ### See Also
 
 * class [InterruptMonitor](../)
-* namespace [Aspose.PSD.Multithreading](../../interruptmonitor/)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
 * assembly [Aspose.PSD](../../../)
 
 

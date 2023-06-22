@@ -22,7 +22,7 @@ public void WriteDouble(double data)
 ### See Also
 
 * class [TiffStreamWriter](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
 * assembly [Aspose.PSD](../../../)
 
 

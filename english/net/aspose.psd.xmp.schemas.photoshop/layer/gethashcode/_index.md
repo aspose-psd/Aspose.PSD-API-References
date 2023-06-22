@@ -22,7 +22,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
 * assembly [Aspose.PSD](../../../)
 
 

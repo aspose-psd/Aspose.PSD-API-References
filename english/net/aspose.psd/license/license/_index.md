@@ -35,7 +35,7 @@ License.SetLicense("MyLicense.lic")
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.PSD](../../license/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public JFIFData()
 ### See Also
 
 * class [JFIFData](../)
-* namespace [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
 * assembly [Aspose.PSD](../../../)
 
 

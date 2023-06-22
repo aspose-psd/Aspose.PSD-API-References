@@ -18,7 +18,7 @@ public void ResetTransform()
 ### See Also
 
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../transformbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: PsdImage.AddColorBalanceAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the color balance adjustment layer
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ A newly created color balance layer.
 
 * class [ColorBalanceAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class CmykMixerChannel
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykMixerChannel class. CmykChannel. Its wrapper for channel raw data. Used in MixrResource
 type: docs
-weight: 1730
+weight: 1740
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/
 ---
 {{< psd/tize >}}

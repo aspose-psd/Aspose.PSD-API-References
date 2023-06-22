@@ -18,7 +18,7 @@ public LayerSelectionIdsResource()
 ### See Also
 
 * class [LayerSelectionIdsResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

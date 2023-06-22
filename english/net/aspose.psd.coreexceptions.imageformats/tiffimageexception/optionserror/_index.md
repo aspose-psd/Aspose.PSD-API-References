@@ -23,7 +23,7 @@ The tiff options error.
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 

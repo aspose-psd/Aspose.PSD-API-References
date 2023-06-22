@@ -23,7 +23,7 @@ The settings.
 
 * class [GradientFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/)
 * class [GradientOverlayEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
 * assembly [Aspose.PSD](../../../)
 
 

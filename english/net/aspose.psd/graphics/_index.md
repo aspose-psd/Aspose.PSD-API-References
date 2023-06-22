@@ -3,7 +3,7 @@ title: Class Graphics
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Graphics class. Represents the graphics according to the graphics engine used in the current assembly
 type: docs
-weight: 4430
+weight: 4490
 url: /net/aspose.psd/graphics/
 ---
 {{< psd/tize >}}

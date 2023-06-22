@@ -22,7 +22,7 @@ The pages.
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

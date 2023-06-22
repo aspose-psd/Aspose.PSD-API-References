@@ -22,7 +22,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * class [Dimensions](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
 * assembly [Aspose.PSD](../../../)
 
 

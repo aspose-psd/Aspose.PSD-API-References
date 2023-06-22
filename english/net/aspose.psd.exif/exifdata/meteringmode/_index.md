@@ -23,7 +23,7 @@ The metering mode.
 
 * enum [ExifMeteringMode](../../../aspose.psd.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

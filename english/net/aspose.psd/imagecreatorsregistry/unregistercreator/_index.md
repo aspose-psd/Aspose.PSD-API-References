@@ -23,7 +23,7 @@ public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* namespace [Aspose.PSD](../../imagecreatorsregistry/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

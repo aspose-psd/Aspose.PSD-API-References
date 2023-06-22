@@ -3,7 +3,7 @@ title: Class PhotoFilterLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.PhotoFilterLayer class. PhotoFilter adjustment layer
 type: docs
-weight: 1810
+weight: 1830
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/
 ---
 {{< psd/tize >}}

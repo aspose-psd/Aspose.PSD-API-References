@@ -18,7 +18,7 @@ public InitialFillRuleRecord()
 ### See Also
 
 * class [InitialFillRuleRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -659,7 +659,7 @@ public class VectorPath
 ### See Also
 
 * class [InitialFillRuleRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -679,7 +679,7 @@ public InitialFillRuleRecord(byte[] data)
 ### See Also
 
 * class [InitialFillRuleRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

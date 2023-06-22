@@ -19,7 +19,7 @@ public Layer[] Layers { get; }
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

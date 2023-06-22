@@ -26,7 +26,7 @@ true if the IDictionary contains an element with the key; otherwise, false.
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.PSD](../../nongenericdictionary/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public void SetDescription(string desc)
 ### See Also
 
 * class [DublinCorePackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public void SetDescription(LangAlt desc)
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
 * assembly [Aspose.PSD](../../../)
 
 

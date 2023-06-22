@@ -23,7 +23,7 @@ public void Insert(int index, object value)
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.PSD](../../nongenericlist/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: PsdImage.Width
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage property. Gets the image width
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.psd.fileformats.psd/psdimage/width/
 ---
 {{< psd/tize >}}
@@ -22,7 +22,7 @@ The image width.
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

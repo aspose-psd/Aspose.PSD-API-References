@@ -22,7 +22,7 @@ A [`Color`](../) representing a system-defined color.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../color/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

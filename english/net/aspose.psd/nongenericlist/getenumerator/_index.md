@@ -22,7 +22,7 @@ An IEnumerator object that can be used to iterate through the collection.
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.PSD](../../nongenericlist/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

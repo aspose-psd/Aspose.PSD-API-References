@@ -22,7 +22,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * class [XmpReal](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public virtual bool CanSeek { get; }
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

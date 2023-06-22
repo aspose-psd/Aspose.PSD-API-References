@@ -18,7 +18,7 @@ public override int Signature { get; }
 ### See Also
 
 * class [FillLayerResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filllayerresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

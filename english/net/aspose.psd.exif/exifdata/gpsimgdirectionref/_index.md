@@ -22,7 +22,7 @@ The GPS reference for giving the direction of the image when it is captured.
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public void Reverse()
 ### See Also
 
 * class [ArcShape](../)
-* namespace [Aspose.PSD.Shapes](../../arcshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

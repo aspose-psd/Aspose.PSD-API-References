@@ -23,7 +23,7 @@ public void SetOutputChannel(ColorChannelFlag flags)
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

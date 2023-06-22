@@ -29,7 +29,7 @@ One of the `DashCap` values that represents the cap style used at the beginning 
 
 * enum [DashCap](../../dashcap/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

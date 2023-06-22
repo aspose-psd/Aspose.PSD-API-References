@@ -27,7 +27,7 @@ This method returns true if the specified point is contained within this [`Graph
 ### See Also
 
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -52,7 +52,7 @@ This method returns true if the specified point is contained within this [`Graph
 
 * struct [PointF](../../pointf/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -77,7 +77,7 @@ This method returns true if the specified point is contained within this [`Graph
 ### See Also
 
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -102,7 +102,7 @@ This method returns true if the specified point is contained within this [`Graph
 
 * struct [Point](../../point/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -129,7 +129,7 @@ This method returns true if the specified point is contained within this [`Graph
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -156,7 +156,7 @@ This method returns true if the specified point is contained within this; otherw
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -183,7 +183,7 @@ This method returns true if the specified point is contained within this [`Graph
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -210,7 +210,7 @@ This method returns true if the specified point is contained within this [`Graph
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 
