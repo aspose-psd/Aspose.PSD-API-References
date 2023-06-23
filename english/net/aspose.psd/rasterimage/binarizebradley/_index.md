@@ -23,7 +23,7 @@ public virtual void BinarizeBradley(double brightnessDifference, int windowSize)
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public virtual void BinarizeBradley(double brightnessDifference)
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public KnkoResource(bool knockout)
 ### See Also
 
 * class [KnkoResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public KnkoResource()
 ### See Also
 
 * class [KnkoResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public KnkoResource(byte[] data)
 ### See Also
 
 * class [KnkoResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

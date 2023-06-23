@@ -3,7 +3,7 @@ title: Class InvertAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.InvertAdjustmentLayer class. The invert adjustment layer class
 type: docs
-weight: 1780
+weight: 1800
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/
 ---
 {{< psd/tize >}}

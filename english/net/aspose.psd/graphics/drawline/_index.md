@@ -32,7 +32,7 @@ public void DrawLine(Pen pen, Point point1, Point point2)
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -62,7 +62,7 @@ public void DrawLine(Pen pen, PointF point1, PointF point2)
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -93,7 +93,7 @@ public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -124,7 +124,7 @@ public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

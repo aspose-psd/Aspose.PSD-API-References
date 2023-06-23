@@ -22,7 +22,7 @@ A String that represents this instance.
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.PSD](../../point/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The horizontal component of this [`SizeF`](../), typically measured in pixels.
 ### See Also
 
 * struct [SizeF](../)
-* namespace [Aspose.PSD](../../sizef/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

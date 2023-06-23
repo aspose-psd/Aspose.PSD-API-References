@@ -18,7 +18,7 @@ public LoadOptions()
 ### See Also
 
 * class [LoadOptions](../)
-* namespace [Aspose.PSD](../../loadoptions/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

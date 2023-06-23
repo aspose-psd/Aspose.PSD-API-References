@@ -22,7 +22,7 @@ The aspect ratio.
 ### See Also
 
 * class [PixelAspectRatioResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

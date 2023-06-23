@@ -3,7 +3,7 @@ title: PsdImage.Grayscale
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Transformation of an image to its grayscale representation
 type: docs
-weight: 550
+weight: 580
 url: /net/aspose.psd.fileformats.psd/psdimage/grayscale/
 ---
 {{< psd/tize >}}
@@ -18,7 +18,7 @@ public override void Grayscale()
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

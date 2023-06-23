@@ -22,7 +22,7 @@ public abstract bool IsTemporal { get; }
 ### See Also
 
 * class [FileSource](../)
-* namespace [Aspose.PSD.Sources](../../filesource/)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
 * assembly [Aspose.PSD](../../../)
 
 

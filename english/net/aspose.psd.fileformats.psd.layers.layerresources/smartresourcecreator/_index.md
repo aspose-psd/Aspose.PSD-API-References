@@ -3,7 +3,7 @@ title: Class SmartResourceCreator
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator class. Defines the SmartResourceCreator class that can create PlLd SoLd and SoLe resources. Is is used to support smart object layers in the Adobe Photoshop images
 type: docs
-weight: 3090
+weight: 3140
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
 {{< psd/tize >}}

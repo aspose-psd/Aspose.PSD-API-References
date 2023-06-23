@@ -3,7 +3,7 @@ title: Class LayerState
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState class. The options of time line layer state
 type: docs
-weight: 1880
+weight: 1930
 url: /net/aspose.psd.fileformats.psd.layers.animation/layerstate/
 ---
 {{< psd/tize >}}
@@ -19,17 +19,17 @@ public sealed class LayerState
 
 | Name | Description |
 | --- | --- |
-| [LayerState](layerstate/)(int) | Initializes a new instance of the `LayerState` class. |
+| [LayerState](layerstate/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/) { get; set; } | Gets or sets the blen mode. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/) { get; set; } | Gets or sets the blending mode. |
 | [Enabled](../../aspose.psd.fileformats.psd.layers.animation/layerstate/enabled/) { get; set; } | Gets or sets the enabled state. |
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/fillopacity/) { get; set; } | Gets or sets the fill opacity value. |
 | [HorizontalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/horizontalfxrf/) { get; set; } | Gets or sets the HorizontalFXRf value. |
-| [Id](../../aspose.psd.fileformats.psd.layers.animation/layerstate/id/) { get; set; } | Gets or sets the id. |
+| [Id](../../aspose.psd.fileformats.psd.layers.animation/layerstate/id/) { get; set; } | Gets or sets the layer id. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/opacity/) { get; set; } | Gets or sets the opacity value. |
 | [PositionOffset](../../aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/) { get; set; } | Gets or sets the layer position offset related to the actual layer position. |
 | [StateEffects](../../aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects/) { get; } | Gets the layer state effects. |

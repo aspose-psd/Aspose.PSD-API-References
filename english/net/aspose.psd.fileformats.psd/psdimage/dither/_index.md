@@ -3,7 +3,7 @@ title: PsdImage.Dither
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Performs dithering on the current image
 type: docs
-weight: 520
+weight: 550
 url: /net/aspose.psd.fileformats.psd/psdimage/dither/
 ---
 {{< psd/tize >}}
@@ -27,7 +27,7 @@ public override void Dither(DitheringMethod ditheringMethod, int bitsCount,
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

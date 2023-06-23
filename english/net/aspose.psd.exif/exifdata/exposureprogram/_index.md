@@ -23,7 +23,7 @@ The exposure program.
 
 * enum [ExifExposureProgram](../../../aspose.psd.exif.enums/exifexposureprogram/)
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

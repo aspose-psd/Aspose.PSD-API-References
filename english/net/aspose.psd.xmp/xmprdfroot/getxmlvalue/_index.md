@@ -22,7 +22,7 @@ Returns XMP value converted to XML string.
 ### See Also
 
 * class [XmpRdfRoot](../)
-* namespace [Aspose.PSD.Xmp](../../xmprdfroot/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

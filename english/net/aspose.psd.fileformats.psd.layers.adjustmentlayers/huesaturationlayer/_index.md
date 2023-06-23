@@ -3,7 +3,7 @@ title: Class HueSaturationLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.HueSaturationLayer class. HueSaturation adjustment layer
 type: docs
-weight: 1770
+weight: 1790
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/
 ---
 {{< psd/tize >}}

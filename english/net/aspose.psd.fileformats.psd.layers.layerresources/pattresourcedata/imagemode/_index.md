@@ -23,7 +23,7 @@ The image mode.
 
 * enum [ColorModes](../../../aspose.psd.fileformats.psd/colormodes/)
 * class [PattResourceData](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ A generic typographic [`StringFormat`](../) object.
 ### See Also
 
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../stringformat/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

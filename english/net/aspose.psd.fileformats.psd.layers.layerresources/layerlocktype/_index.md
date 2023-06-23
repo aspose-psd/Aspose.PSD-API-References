@@ -3,7 +3,7 @@ title: Enum LayerLockType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerLockType enum. Layer lock options
 type: docs
-weight: 2650
+weight: 2700
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 ---
 {{< psd/tize >}}

@@ -22,7 +22,7 @@ public ImageLoadException(string message)
 ### See Also
 
 * class [ImageLoadException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../imageloadexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public ImageLoadException(string message, Exception innerException)
 ### See Also
 
 * class [ImageLoadException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../imageloadexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

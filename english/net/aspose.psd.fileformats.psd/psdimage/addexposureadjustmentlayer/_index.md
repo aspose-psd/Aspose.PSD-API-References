@@ -3,7 +3,7 @@ title: PsdImage.AddExposureAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the exposure adjustment layer
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
 {{< psd/tize >}}
@@ -30,7 +30,7 @@ Created Exposure Adjustment Layer
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

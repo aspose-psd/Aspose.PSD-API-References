@@ -3,7 +3,7 @@ title: Class LevelsLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.LevelsLayer class. Levels Adjustment Layer
 type: docs
-weight: 1790
+weight: 1810
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/
 ---
 {{< psd/tize >}}

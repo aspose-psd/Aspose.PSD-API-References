@@ -22,7 +22,7 @@ The progress value.
 ### See Also
 
 * class [ProgressEventHandlerInfo](../)
-* namespace [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
 * assembly [Aspose.PSD](../../../)
 
 

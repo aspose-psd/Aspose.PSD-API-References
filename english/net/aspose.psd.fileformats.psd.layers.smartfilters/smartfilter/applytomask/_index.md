@@ -23,7 +23,7 @@ public void ApplyToMask(Layer layerWithMask)
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
 * assembly [Aspose.PSD](../../../)
 
 

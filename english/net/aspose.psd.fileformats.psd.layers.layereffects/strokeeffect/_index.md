@@ -3,7 +3,7 @@ title: Class StrokeEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect class. The Adobe Photoshop stroke effect for the PSD layer
 type: docs
-weight: 2220
+weight: 2270
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
 {{< psd/tize >}}

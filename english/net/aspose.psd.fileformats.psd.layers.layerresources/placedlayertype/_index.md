@@ -3,7 +3,7 @@ title: Enum PlacedLayerType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType enum. Defines the PlacedLayerType enumeration for the placed layer PlLd resource
 type: docs
-weight: 3020
+weight: 3070
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
 {{< psd/tize >}}

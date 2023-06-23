@@ -29,7 +29,7 @@ A `Brush` that determines attributes of this [`Pen`](../).
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

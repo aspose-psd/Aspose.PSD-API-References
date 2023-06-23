@@ -23,7 +23,7 @@ The size of the page.
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * class [PdfOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../pdfoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

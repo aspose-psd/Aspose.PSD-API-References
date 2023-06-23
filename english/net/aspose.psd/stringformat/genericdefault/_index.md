@@ -22,7 +22,7 @@ The generic default [`StringFormat`](../) object.
 ### See Also
 
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../stringformat/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

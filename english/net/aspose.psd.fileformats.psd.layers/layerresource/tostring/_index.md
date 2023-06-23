@@ -22,7 +22,7 @@ A String that represents this instance.
 ### See Also
 
 * class [LayerResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

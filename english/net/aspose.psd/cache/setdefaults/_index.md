@@ -18,7 +18,7 @@ public static void SetDefaults()
 ### See Also
 
 * class [Cache](../)
-* namespace [Aspose.PSD](../../cache/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

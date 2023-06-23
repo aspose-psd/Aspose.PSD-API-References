@@ -22,7 +22,7 @@ See more: https://en.wikipedia.org/wiki/ISO_8601.
 ### See Also
 
 * class [XmpDate](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 

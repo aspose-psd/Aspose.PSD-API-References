@@ -18,7 +18,7 @@ public ImageAttributes()
 ### See Also
 
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

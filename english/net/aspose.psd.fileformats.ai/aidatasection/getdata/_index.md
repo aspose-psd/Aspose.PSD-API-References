@@ -22,7 +22,7 @@ The string data of section
 ### See Also
 
 * class [AiDataSection](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aidatasection/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

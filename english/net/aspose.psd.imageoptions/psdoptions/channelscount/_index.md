@@ -22,7 +22,7 @@ The color channels count.
 ### See Also
 
 * class [PsdOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../psdoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

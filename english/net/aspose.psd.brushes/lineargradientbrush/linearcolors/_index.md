@@ -24,7 +24,7 @@ An array of two [`Color`](../../../aspose.psd/color/) structures that represents
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../lineargradientbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

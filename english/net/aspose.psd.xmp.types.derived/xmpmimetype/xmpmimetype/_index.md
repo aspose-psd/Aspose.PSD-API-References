@@ -22,7 +22,7 @@ public XmpMimeType(string value)
 ### See Also
 
 * class [XmpMimeType](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../xmpmimetype/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
 * assembly [Aspose.PSD](../../../)
 
 

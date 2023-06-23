@@ -22,7 +22,7 @@ public void SetKeywords(string keywords)
 ### See Also
 
 * class [PdfPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
 * assembly [Aspose.PSD](../../../)
 
 

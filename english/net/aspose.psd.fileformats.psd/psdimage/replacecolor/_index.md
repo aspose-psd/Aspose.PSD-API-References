@@ -3,7 +3,7 @@ title: PsdImage.ReplaceColor
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Replaces one color to another with allowed difference and preserves original alpha value to save smooth edges
 type: docs
-weight: 570
+weight: 600
 url: /net/aspose.psd.fileformats.psd/psdimage/replacecolor/
 ---
 {{< psd/tize >}}
@@ -24,7 +24,7 @@ public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newCo
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

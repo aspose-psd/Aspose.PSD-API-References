@@ -1,13 +1,13 @@
 ---
-title: TimeLine.LoopesCount
+title: Timeline.LoopesCount
 second_title: Aspose.PSD for .NET API Reference
-description: TimeLine property. Gets or sets the count of loops
+description: Timeline property. Gets or sets the count of loops
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/
 ---
 {{< psd/tize >}}
-## TimeLine.LoopesCount property
+## Timeline.LoopesCount property
 
 Gets or sets the count of loops.
 
@@ -17,8 +17,8 @@ public int LoopesCount { get; set; }
 
 ### See Also
 
-* class [TimeLine](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

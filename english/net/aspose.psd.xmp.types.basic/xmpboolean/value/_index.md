@@ -22,7 +22,7 @@ public bool Value { get; set; }
 ### See Also
 
 * class [XmpBoolean](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 

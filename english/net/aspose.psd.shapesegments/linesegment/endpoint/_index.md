@@ -23,7 +23,7 @@ The ending point.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* namespace [Aspose.PSD.ShapeSegments](../../linesegment/)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
 * assembly [Aspose.PSD](../../../)
 
 

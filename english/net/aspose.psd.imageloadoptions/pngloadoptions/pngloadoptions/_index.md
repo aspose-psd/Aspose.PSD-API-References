@@ -18,7 +18,7 @@ public PngLoadOptions()
 ### See Also
 
 * class [PngLoadOptions](../)
-* namespace [Aspose.PSD.ImageLoadOptions](../../pngloadoptions/)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public PattResource()
 ### See Also
 
 * class [PattResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -40,7 +40,7 @@ public PattResource(int key, PattResourceData[] patterns)
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

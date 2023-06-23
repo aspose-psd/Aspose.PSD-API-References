@@ -23,7 +23,7 @@ A [`FontStyle`](../../fontstyle/) enumeration that contains style information fo
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

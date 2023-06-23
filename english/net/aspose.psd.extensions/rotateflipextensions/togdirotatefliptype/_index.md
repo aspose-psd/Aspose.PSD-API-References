@@ -27,7 +27,7 @@ The gdi RotateFlipType
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [RotateFlipExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../rotateflipextensions/)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
 * assembly [Aspose.PSD](../../../)
 
 

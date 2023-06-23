@@ -23,7 +23,7 @@ The shape's center.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namespace [Aspose.PSD.Shapes](../../curveshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

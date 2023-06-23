@@ -18,7 +18,7 @@ public RectangleShape()
 ### See Also
 
 * class [RectangleShape](../)
-* namespace [Aspose.PSD.Shapes](../../rectangleshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public RectangleShape(RectangleF rectangle)
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleShape](../)
-* namespace [Aspose.PSD.Shapes](../../rectangleshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

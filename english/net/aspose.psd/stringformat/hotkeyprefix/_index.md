@@ -23,7 +23,7 @@ The [`HotkeyPrefix`](../../hotkeyprefix/) object for this [`StringFormat`](../) 
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../stringformat/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

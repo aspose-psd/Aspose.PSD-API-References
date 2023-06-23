@@ -24,7 +24,7 @@ The color.
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IGradientColorPoint](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../igradientcolorpoint/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

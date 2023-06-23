@@ -22,7 +22,7 @@ public TiffImageException(string message)
 ### See Also
 
 * class [TiffImageException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public TiffImageException(string message, Exception innerException)
 ### See Also
 
 * class [TiffImageException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public TiffImageException(string message, TiffOptionsError error)
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -86,7 +86,7 @@ public TiffImageException(TiffOptionsError error)
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 

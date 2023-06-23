@@ -24,7 +24,7 @@ public virtual void SetValue(string key, IXmlValue value)
 
 * interface [IXmlValue](../../ixmlvalue/)
 * class [XmpPackage](../)
-* namespace [Aspose.PSD.Xmp](../../xmppackage/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

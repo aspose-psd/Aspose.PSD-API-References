@@ -22,7 +22,7 @@ The size of filter rectangle.
 ### See Also
 
 * class [MedianFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

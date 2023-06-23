@@ -22,7 +22,7 @@ The nominator.
 ### See Also
 
 * class [TiffRational](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
 * assembly [Aspose.PSD](../../../)
 
 

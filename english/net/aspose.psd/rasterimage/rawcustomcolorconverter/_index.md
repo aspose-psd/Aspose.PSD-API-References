@@ -23,7 +23,7 @@ The custom color converter
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -29,7 +29,7 @@ public Rational(int numerator, int denominator)
 ### See Also
 
 * class [Rational](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../rational/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
 * assembly [Aspose.PSD](../../../)
 
 

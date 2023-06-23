@@ -91,7 +91,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 * enum [NoiseDistribution](../../noisedistribution/)
 * class [AddNoiseSmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
 * assembly [Aspose.PSD](../../../)
 
 

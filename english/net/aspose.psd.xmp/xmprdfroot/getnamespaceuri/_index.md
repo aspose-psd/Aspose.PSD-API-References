@@ -26,7 +26,7 @@ Returns a package schema URI.
 ### See Also
 
 * class [XmpRdfRoot](../)
-* namespace [Aspose.PSD.Xmp](../../xmprdfroot/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

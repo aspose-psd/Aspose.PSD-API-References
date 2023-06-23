@@ -18,7 +18,7 @@ public int BookmarksOutlineLevel { get; set; }
 ### See Also
 
 * class [PdfCoreOptions](../)
-* namespace [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
 * assembly [Aspose.PSD](../../../)
 
 

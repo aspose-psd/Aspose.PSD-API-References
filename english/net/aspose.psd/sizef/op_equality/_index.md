@@ -27,7 +27,7 @@ This operator returns true if *size1* and *size2* have equal width and height; o
 ### See Also
 
 * struct [SizeF](../)
-* namespace [Aspose.PSD](../../sizef/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

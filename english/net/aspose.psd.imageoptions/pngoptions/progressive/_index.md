@@ -22,7 +22,7 @@ public bool Progressive { get; set; }
 ### See Also
 
 * class [PngOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../pngoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The mean value for brightness and contrast.
 ### See Also
 
 * class [CgEdResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

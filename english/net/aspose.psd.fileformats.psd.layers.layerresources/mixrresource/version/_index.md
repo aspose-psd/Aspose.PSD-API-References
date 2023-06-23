@@ -22,7 +22,7 @@ The version. Default value is 1
 ### See Also
 
 * class [MixrResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

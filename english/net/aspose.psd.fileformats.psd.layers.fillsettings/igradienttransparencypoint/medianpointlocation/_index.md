@@ -22,7 +22,7 @@ The median point location.
 ### See Also
 
 * interface [IGradientTransparencyPoint](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

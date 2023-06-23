@@ -22,7 +22,7 @@ public XmpReal(float value)
 ### See Also
 
 * class [XmpReal](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public XmpReal(string value)
 ### See Also
 
 * class [XmpReal](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The image in base64 format.
 ### See Also
 
 * class [Thumbnail](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
 * assembly [Aspose.PSD](../../../)
 
 

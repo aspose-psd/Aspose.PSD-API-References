@@ -22,7 +22,7 @@ The channel bits.
 ### See Also
 
 * class [PixelDataFormat](../)
-* namespace [Aspose.PSD](../../pixeldataformat/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: PsdImage.AddRegularLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds a new regular layer
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
 {{< psd/tize >}}
@@ -71,7 +71,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

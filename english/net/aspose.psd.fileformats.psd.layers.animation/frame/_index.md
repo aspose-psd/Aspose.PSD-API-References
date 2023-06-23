@@ -3,7 +3,7 @@ title: Class Frame
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame class. The options of time line frame item
 type: docs
-weight: 1860
+weight: 1910
 url: /net/aspose.psd.fileformats.psd.layers.animation/frame/
 ---
 {{< psd/tize >}}
@@ -19,7 +19,7 @@ public sealed class Frame
 
 | Name | Description |
 | --- | --- |
-| [Frame](frame/)(TimeLine) | Initializes a new instance of the `Frame` class. |
+| [Frame](frame/)() | The default constructor. |
 
 ## Properties
 
@@ -28,7 +28,7 @@ public sealed class Frame
 | [Delay](../../aspose.psd.fileformats.psd.layers.animation/frame/delay/) { get; set; } | Gets or sets the frame delay value in centa-seconds. For example, in 1 second contains 100 centa-seconds. |
 | [DisposalMethod](../../aspose.psd.fileformats.psd.layers.animation/frame/disposalmethod/) { get; set; } | Gets or sets the disposal method of frame. |
 | [Id](../../aspose.psd.fileformats.psd.layers.animation/frame/id/) { get; set; } | Gets or sets the frame id. |
-| [LayerStates](../../aspose.psd.fileformats.psd.layers.animation/frame/layerstates/) { get; } | Gets ot sets the layer states of frame. |
+| [LayerStates](../../aspose.psd.fileformats.psd.layers.animation/frame/layerstates/) { get; set; } | Gets ot sets the layer states of frame. |
 
 ## Examples
 

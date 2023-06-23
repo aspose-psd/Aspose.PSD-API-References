@@ -23,7 +23,7 @@ public override void SetRgbColor(Color color)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion3](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

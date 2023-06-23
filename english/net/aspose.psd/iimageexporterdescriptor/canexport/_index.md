@@ -29,7 +29,7 @@ public bool CanExport(Image image, ImageOptionsBase optionsBase)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporterDescriptor](../)
-* namespace [Aspose.PSD](../../iimageexporterdescriptor/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

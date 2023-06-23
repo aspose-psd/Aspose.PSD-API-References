@@ -3,7 +3,7 @@ title: Class QuickMaskInformationResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.QuickMaskInformationResource class. Quick mask information resource
 type: docs
-weight: 3970
+weight: 4030
 url: /net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/
 ---
 {{< psd/tize >}}

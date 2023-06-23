@@ -3,7 +3,7 @@ title: VectorShapeBoundingBox.Right
 second_title: Aspose.PSD for .NET API Reference
 description: VectorShapeBoundingBox property. Gets or sets the right
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/
 ---
 {{< psd/tize >}}
@@ -22,7 +22,7 @@ The right.
 ### See Also
 
 * class [VectorShapeBoundingBox](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ A [`Point`](../../point/) that represents the upper-left corner of this [`Rectan
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../rectangle/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

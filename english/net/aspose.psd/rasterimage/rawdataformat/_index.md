@@ -23,7 +23,7 @@ The raw data format.
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

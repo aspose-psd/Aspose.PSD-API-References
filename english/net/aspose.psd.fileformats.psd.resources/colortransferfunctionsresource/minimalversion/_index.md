@@ -22,7 +22,7 @@ The minimal PSD version.
 ### See Also
 
 * class [ColorTransferFunctionsResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

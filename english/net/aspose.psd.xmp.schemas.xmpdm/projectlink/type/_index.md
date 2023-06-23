@@ -23,7 +23,7 @@ The file type.
 
 * enum [ProjectType](../../projecttype/)
 * class [ProjectLink](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
 * assembly [Aspose.PSD](../../../)
 
 

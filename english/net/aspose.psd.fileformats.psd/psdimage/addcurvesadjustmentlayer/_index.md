@@ -3,7 +3,7 @@ title: PsdImage.AddCurvesAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the Curves Adjustment layer
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ Created [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlay
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

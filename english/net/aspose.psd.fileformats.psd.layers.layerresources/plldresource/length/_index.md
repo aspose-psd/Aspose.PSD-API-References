@@ -18,7 +18,7 @@ public override int Length { get; }
 ### See Also
 
 * class [PlLdResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

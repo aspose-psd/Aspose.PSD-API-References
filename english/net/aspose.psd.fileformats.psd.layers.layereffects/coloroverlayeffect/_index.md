@@ -3,7 +3,7 @@ title: Class ColorOverlayEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ColorOverlayEffect class. Color Overlay Layer effect
 type: docs
-weight: 2140
+weight: 2190
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/
 ---
 {{< psd/tize >}}

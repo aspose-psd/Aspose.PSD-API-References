@@ -18,7 +18,7 @@ public GlobalLayerMaskInfo()
 ### See Also
 
 * class [GlobalLayerMaskInfo](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

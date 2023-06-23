@@ -22,7 +22,7 @@ The object height.
 ### See Also
 
 * interface [IObjectWithBounds](../)
-* namespace [Aspose.PSD](../../iobjectwithbounds/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

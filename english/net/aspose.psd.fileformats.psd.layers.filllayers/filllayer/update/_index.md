@@ -135,7 +135,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### See Also
 
 * class [FillLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The Highlights Cyan Red Balance.
 ### See Also
 
 * class [BlncResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

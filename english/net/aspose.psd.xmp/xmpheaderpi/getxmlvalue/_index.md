@@ -22,7 +22,7 @@ Returns the XMP value converted to the XML representation.
 ### See Also
 
 * class [XmpHeaderPi](../)
-* namespace [Aspose.PSD.Xmp](../../xmpheaderpi/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

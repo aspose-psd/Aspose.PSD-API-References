@@ -23,7 +23,7 @@ The object size, in inches.
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * interface [IObjectWithSizeF](../)
-* namespace [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
 * assembly [Aspose.PSD](../../../)
 
 

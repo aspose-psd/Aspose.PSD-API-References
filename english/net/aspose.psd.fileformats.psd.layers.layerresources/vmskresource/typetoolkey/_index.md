@@ -18,7 +18,7 @@ public const int TypeToolKey;
 ### See Also
 
 * class [VmskResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vmskresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

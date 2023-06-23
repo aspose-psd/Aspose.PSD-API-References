@@ -22,7 +22,7 @@ The guide location.
 ### See Also
 
 * class [GuideResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

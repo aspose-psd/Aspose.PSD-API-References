@@ -30,7 +30,7 @@ public Font(Font prototype, FontStyle newStyle)
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -58,7 +58,7 @@ public Font(string fontName, float emSize)
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -88,7 +88,7 @@ public Font(string fontName, float emSize, FontStyle style)
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -118,7 +118,7 @@ public Font(string fontName, float emSize, GraphicsUnit unit)
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -153,7 +153,7 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit,
 * enum [GraphicsUnit](../../graphicsunit/)
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -185,7 +185,7 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
 * enum [FontStyle](../../fontstyle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

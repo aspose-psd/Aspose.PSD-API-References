@@ -27,6 +27,7 @@ The namespace contains PSD file format layers.
 | [LayerResourcesRegistry](./layerresourcesregistry/) | Define the the layer resources registry for PSD files loading. |
 | [LinkedLayersManager](./linkedlayersmanager/) | Linked layers manager class. |
 | [SectionDividerLayer](./sectiondividerlayer/) | The section divider layer to mark the bounds of the folder (layer group). |
+| [ShapeLayer](./shapelayer/) | Shape layer. Encapsulates the logic of work with Shape layer and related resources. |
 | [TextLayer](./textlayer/) | The text layer class |
 ## Interfaces
 

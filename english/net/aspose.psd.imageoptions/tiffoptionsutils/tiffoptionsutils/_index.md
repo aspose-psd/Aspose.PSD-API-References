@@ -18,7 +18,7 @@ public TiffOptionsUtils()
 ### See Also
 
 * class [TiffOptionsUtils](../)
-* namespace [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

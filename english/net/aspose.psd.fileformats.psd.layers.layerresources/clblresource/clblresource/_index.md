@@ -22,7 +22,7 @@ public ClblResource(bool blendClippedElements)
 ### See Also
 
 * class [ClblResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public ClblResource()
 ### See Also
 
 * class [ClblResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public ClblResource(byte[] data)
 ### See Also
 
 * class [ClblResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

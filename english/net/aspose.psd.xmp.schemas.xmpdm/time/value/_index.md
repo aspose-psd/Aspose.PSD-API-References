@@ -22,7 +22,7 @@ The time value in the specified scale.
 ### See Also
 
 * class [Time](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
 * assembly [Aspose.PSD](../../../)
 
 

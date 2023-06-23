@@ -1,7 +1,7 @@
 ---
 title: LayerState.BlendMode
 second_title: Aspose.PSD for .NET API Reference
-description: LayerState property. Gets or sets the blen mode
+description: LayerState property. Gets or sets the blending mode
 type: docs
 weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/
 {{< psd/tize >}}
 ## LayerState.BlendMode property
 
-Gets or sets the blen mode.
+Gets or sets the blending mode.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
@@ -62,7 +62,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerState](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

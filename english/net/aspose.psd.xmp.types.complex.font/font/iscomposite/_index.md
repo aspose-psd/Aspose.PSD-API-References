@@ -22,7 +22,7 @@ public bool IsComposite { get; set; }
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
 * assembly [Aspose.PSD](../../../)
 
 

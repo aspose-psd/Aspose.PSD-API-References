@@ -3,7 +3,7 @@ title: Class ObjectArrayStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure class. Defines the ObjectArrayStructure class that usually holds UnitArrayStructure array. It is used in the PSD file resources such as PlLd Resource and SoLd Resource
 type: docs
-weight: 3300
+weight: 3350
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class XmpPackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpPackage class. Defines the XmpPackage class that represents base abstraction for XMP package
 type: docs
-weight: 6400
+weight: 6460
 url: /net/aspose.psd.xmp/xmppackage/
 ---
 {{< psd/tize >}}

@@ -27,7 +27,7 @@ This operator returns true if any of the [`X`](../x/), [`Y`](../y/), [`Width`](.
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../rectangle/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

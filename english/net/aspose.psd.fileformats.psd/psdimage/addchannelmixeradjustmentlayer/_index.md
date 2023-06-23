@@ -3,7 +3,7 @@ title: PsdImage.AddChannelMixerAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the channel mixer adjustment layer with default parameters
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ Added Channel Mixer Layer
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

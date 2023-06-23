@@ -53,7 +53,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [DropShadowEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/)
 * class [LayerStateEffects](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

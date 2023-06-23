@@ -26,7 +26,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [XmpHeaderPi](../)
-* namespace [Aspose.PSD.Xmp](../../xmpheaderpi/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -50,7 +50,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [XmpHeaderPi](../)
-* namespace [Aspose.PSD.Xmp](../../xmpheaderpi/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

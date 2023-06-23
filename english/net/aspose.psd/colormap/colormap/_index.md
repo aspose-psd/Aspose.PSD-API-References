@@ -18,7 +18,7 @@ public ColorMap()
 ### See Also
 
 * class [ColorMap](../)
-* namespace [Aspose.PSD](../../colormap/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

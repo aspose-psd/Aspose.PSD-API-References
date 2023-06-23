@@ -18,7 +18,7 @@ public TransparencyIndexResource()
 ### See Also
 
 * class [TransparencyIndexResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

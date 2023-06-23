@@ -23,7 +23,7 @@ The Header processing instruction.
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.PSD.Xmp](../../xmppacketwrapper/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

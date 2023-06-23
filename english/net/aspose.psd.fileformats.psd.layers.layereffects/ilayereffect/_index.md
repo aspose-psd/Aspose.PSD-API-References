@@ -3,7 +3,7 @@ title: Interface ILayerEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ILayerEffect interface. Interface for Layer Effects
 type: docs
-weight: 2170
+weight: 2220
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/
 ---
 {{< psd/tize >}}

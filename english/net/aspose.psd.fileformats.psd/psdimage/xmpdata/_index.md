@@ -3,7 +3,7 @@ title: PsdImage.XmpData
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage property. Gets or sets the XMP metadata
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.psd.fileformats.psd/psdimage/xmpdata/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ The XMP metadata.
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

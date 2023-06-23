@@ -18,7 +18,7 @@ public const string Xml;
 ### See Also
 
 * class [Namespaces](../)
-* namespace [Aspose.PSD.Xmp](../../namespaces/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

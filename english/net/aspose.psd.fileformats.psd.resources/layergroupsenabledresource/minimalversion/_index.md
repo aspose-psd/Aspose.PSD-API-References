@@ -22,7 +22,7 @@ The minimal PSD version.
 ### See Also
 
 * class [LayerGroupsEnabledResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

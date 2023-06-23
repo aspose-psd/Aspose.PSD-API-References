@@ -32,7 +32,7 @@ The first opener will be actually the last registered.
 
 * class [LayerResource](../../layerresource/)
 * class [LayerResourcesRegistry](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

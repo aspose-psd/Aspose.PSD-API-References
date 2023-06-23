@@ -3,7 +3,7 @@ title: Class FillLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillLayers.FillLayer class. Fill layer. Color Fill Gradient Fill or Pattern Fill Layer which differs by FillSettings
 type: docs
-weight: 1930
+weight: 1980
 url: /net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/
 ---
 {{< psd/tize >}}

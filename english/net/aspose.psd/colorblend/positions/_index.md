@@ -22,7 +22,7 @@ An array of values that specify percentages of distance along the gradient line.
 ### See Also
 
 * class [ColorBlend](../)
-* namespace [Aspose.PSD](../../colorblend/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

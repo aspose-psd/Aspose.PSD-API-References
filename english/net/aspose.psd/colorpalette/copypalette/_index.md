@@ -28,7 +28,7 @@ The newly created and copied palette or null if null palette passed.
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* namespace [Aspose.PSD](../../colorpalette/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -53,7 +53,7 @@ The newly created and copied palette or null if null palette passed.
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* namespace [Aspose.PSD](../../colorpalette/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

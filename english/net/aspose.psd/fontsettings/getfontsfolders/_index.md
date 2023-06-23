@@ -26,7 +26,7 @@ The returned value is a copy of the data that Aspose.Words uses. If you change t
 ### See Also
 
 * class [FontSettings](../)
-* namespace [Aspose.PSD](../../fontsettings/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

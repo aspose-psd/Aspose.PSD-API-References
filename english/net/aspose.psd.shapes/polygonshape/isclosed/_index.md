@@ -22,7 +22,7 @@ public bool IsClosed { get; set; }
 ### See Also
 
 * class [PolygonShape](../)
-* namespace [Aspose.PSD.Shapes](../../polygonshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

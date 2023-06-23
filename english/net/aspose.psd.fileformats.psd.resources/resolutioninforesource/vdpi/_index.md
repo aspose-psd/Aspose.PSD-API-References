@@ -23,7 +23,7 @@ The vertical dpi.
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

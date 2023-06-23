@@ -3,7 +3,7 @@ title: Class DublinCorePackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.DublinCore.DublinCorePackage class. Represents Dublic Core schema
 type: docs
-weight: 5910
+weight: 5970
 url: /net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/
 ---
 {{< psd/tize >}}

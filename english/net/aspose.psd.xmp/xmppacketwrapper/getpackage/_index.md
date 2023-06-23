@@ -33,7 +33,7 @@ Returns the XMP package for specified namespace URI.
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.PSD.Xmp](../../xmppacketwrapper/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

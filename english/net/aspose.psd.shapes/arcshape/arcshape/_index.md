@@ -18,7 +18,7 @@ public ArcShape()
 ### See Also
 
 * class [ArcShape](../)
-* namespace [Aspose.PSD.Shapes](../../arcshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -41,7 +41,7 @@ public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle)
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ArcShape](../)
-* namespace [Aspose.PSD.Shapes](../../arcshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle, bool i
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ArcShape](../)
-* namespace [Aspose.PSD.Shapes](../../arcshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

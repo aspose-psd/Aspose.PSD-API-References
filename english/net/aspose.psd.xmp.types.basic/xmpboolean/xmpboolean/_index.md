@@ -22,7 +22,7 @@ public XmpBoolean(bool value)
 ### See Also
 
 * class [XmpBoolean](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public XmpBoolean()
 ### See Also
 
 * class [XmpBoolean](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public XmpBoolean(string value)
 ### See Also
 
 * class [XmpBoolean](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 

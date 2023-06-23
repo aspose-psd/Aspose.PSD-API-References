@@ -23,7 +23,7 @@ public void ScaleTransform(float sx, float sy)
 ### See Also
 
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void ScaleTransform(float sx, float sy, MatrixOrder order)
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

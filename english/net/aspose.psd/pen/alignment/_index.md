@@ -29,7 +29,7 @@ A [`PenAlignment`](../../penalignment/) that represents the alignment for this [
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 
