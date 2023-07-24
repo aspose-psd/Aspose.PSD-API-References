@@ -20,6 +20,22 @@ public void Save(string filePath, ImageOptionsBase options)
 | filePath | String | The file path. |
 | options | ImageOptionsBase | The options. |
 
+## Examples
+
+The following code demonstrates the support of export Timeline to a Gif image.
+
+```csharp
+[C#]
+
+string sourceFile = "4_animated.psd";
+string outputGif = "out_4_animated.psd.gif";
+
+using (var psdImage = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions() { LoadEffectsResource = true }))
+{
+    psdImage.Timeline.Save(outputGif, new GifOptions());
+}
+```
+
 ### See Also
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
@@ -41,6 +57,22 @@ public void Save(Stream outputStream, ImageOptionsBase options)
 | --- | --- | --- |
 | outputStream | Stream | The output stream. |
 | options | ImageOptionsBase | The options. |
+
+## Examples
+
+The following code demonstrates the support of export Timeline to a Gif image.
+
+```csharp
+[C#]
+
+string sourceFile = "4_animated.psd";
+string outputGif = "out_4_animated.psd.gif";
+
+using (var psdImage = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions() { LoadEffectsResource = true }))
+{
+    psdImage.Timeline.Save(outputGif, new GifOptions());
+}
+```
 
 ### See Also
 

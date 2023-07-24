@@ -25,7 +25,6 @@ public class VectorPath : IPath
 
 | Name | Description |
 | --- | --- |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpath/fillcolor/) { get; set; } | Gets or sets the vector path fill color. |
 | [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpath/isdisabled/) { get; set; } | Gets or sets a value indicating whether this instance is disabled. |
 | [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpath/isfillstartswithallpixels/) { get; set; } | Gets or sets a value indicating whether is fill starts with all pixels. |
 | [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpath/isinverted/) { get; set; } | Gets or sets a value indicating whether this instance is inverted. |

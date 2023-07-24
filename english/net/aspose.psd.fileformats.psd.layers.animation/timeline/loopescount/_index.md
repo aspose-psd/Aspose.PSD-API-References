@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/
 Gets or sets the count of loops.
 
 ```csharp
-public int LoopesCount { get; set; }
+public ushort LoopesCount { get; set; }
 ```
 
 ### See Also

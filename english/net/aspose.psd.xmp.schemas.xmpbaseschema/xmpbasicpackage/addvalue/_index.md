@@ -3,7 +3,7 @@ title: XmpBasicPackage.AddValue
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage method. Adds string property
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/
 ---
 {{< psd/tize >}}

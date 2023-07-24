@@ -3,7 +3,7 @@ title: XmpBasicPackage.RatingMin
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage field. Rating min value
 type: docs
-weight: 110
+weight: 140
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 ---
 {{< psd/tize >}}

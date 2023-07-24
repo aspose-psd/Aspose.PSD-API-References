@@ -3,7 +3,7 @@ title: VectorPath.GetItems
 second_title: Aspose.PSD for .NET API Reference
 description: VectorPath method. Gets array of Shapes in a Path
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vectorpath/getitems/
 ---
 {{< psd/tize >}}

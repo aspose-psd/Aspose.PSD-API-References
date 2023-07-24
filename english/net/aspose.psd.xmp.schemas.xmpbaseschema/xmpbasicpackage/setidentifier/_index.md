@@ -3,7 +3,7 @@ title: XmpBasicPackage.SetIdentifier
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage method. Sets the identifier
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/
 ---
 {{< psd/tize >}}

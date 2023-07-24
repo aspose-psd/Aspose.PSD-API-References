@@ -3,7 +3,7 @@ title: XmpBasicPackage.SetMetadataDate
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage method. Adds metadata last changed date
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/
 ---
 {{< psd/tize >}}

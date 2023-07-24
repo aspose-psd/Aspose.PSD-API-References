@@ -3,7 +3,7 @@ title: VectorPath.IsNotLinked
 second_title: Aspose.PSD for .NET API Reference
 description: VectorPath property. Gets or sets a value indicating whether this instance is not linked
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vectorpath/isnotlinked/
 ---
 {{< psd/tize >}}

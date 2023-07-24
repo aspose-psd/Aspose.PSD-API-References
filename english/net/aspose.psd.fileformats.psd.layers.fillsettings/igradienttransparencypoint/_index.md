@@ -19,8 +19,8 @@ public interface IGradientTransparencyPoint
 
 | Name | Description |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | Gets or sets the location. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | Gets or sets the median point location. |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | Gets or sets the location. Value range 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | Gets or sets the median point location. Value range 0-4096. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | Gets or sets the opacity. |
 
 ### See Also
