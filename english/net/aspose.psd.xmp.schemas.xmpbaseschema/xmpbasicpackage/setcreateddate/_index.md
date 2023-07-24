@@ -3,7 +3,7 @@ title: XmpBasicPackage.SetCreatedDate
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage method. Adds resource created date
 type: docs
-weight: 30
+weight: 50
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/
 ---
 {{< psd/tize >}}

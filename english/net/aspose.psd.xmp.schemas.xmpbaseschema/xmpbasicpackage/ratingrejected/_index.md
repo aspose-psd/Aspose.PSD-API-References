@@ -3,7 +3,7 @@ title: XmpBasicPackage.RatingRejected
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage field. Rating rejected value
 type: docs
-weight: 120
+weight: 150
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
 {{< psd/tize >}}

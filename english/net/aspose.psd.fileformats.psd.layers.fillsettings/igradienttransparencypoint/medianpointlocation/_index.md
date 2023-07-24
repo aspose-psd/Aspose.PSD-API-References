@@ -1,7 +1,7 @@
 ---
 title: IGradientTransparencyPoint.MedianPointLocation
 second_title: Aspose.PSD for .NET API Reference
-description: IGradientTransparencyPoint property. Gets or sets the median point location
+description: IGradientTransparencyPoint property. Gets or sets the median point location. Value range 04096
 type: docs
 weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypo
 {{< psd/tize >}}
 ## IGradientTransparencyPoint.MedianPointLocation property
 
-Gets or sets the median point location.
+Gets or sets the median point location. Value range 0-4096.
 
 ```csharp
 public int MedianPointLocation { get; set; }

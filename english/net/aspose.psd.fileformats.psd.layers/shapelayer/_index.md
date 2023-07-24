@@ -43,6 +43,7 @@ public class ShapeLayer : Layer
 | [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
 | [ExtraLength](../../aspose.psd.fileformats.psd.layers/layer/extralength/) { get; } | Gets the layer extra information length in bytes. |
 | virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | Gets a value of file format |
+| [Fill](../../aspose.psd.fileformats.psd.layers/shapelayer/fill/) { get; set; } | Fill settings for internal area of Shapes in the Shape layer. |
 | [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | Gets or sets the layer filler. |
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | Gets or sets the fill opacity. |
 | [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | Gets or sets the layer flags. bit 0 = transparency protected; bit 1 = visible; bit 2 = obsolete; bit 3 = 1 for Photoshop 5.0 and later, tells if bit 4 has useful information; bit 4 = pixel data irrelevant to appearance of document. |
@@ -174,6 +175,35 @@ public class ShapeLayer : Layer
 | [Update](../../aspose.psd.fileformats.psd.layers/shapelayer/update/)() | Updates resources from Shape layer properties. |
 | [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | Writes the whole scan line to the specified scan line index. |
 | [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | Writes the whole scan line to the specified scan line index. |
+
+## Examples
+
+The following code shows support for the ShapeLayer layer.
+
+```csharp
+[C#]
+
+string srcFile = "ShapeLayerTest.psd";
+string outFile = "ShapeLayerTest-out.psd";
+
+using (PsdImage image = (PsdImage)Image.Load(srcFile, new PsdLoadOptions { LoadEffectsResource = true }))
+{
+    ShapeLayer shapeLayer = (ShapeLayer)image.Layers[1];
+    IPath layerPath = shapeLayer.Path;
+
+    IPathShape[] pathShapeSource = layerPath.GetItems();
+    List<IPathShape> pathShapesDest = new List<IPathShape>(pathShapeSource);
+
+    // Source file contains 2 figures. Remove the seconds one.
+    pathShapesDest.RemoveAt(1);
+
+    layerPath.SetItems(pathShapesDest.ToArray());
+
+    shapeLayer.Update();
+
+    image.Save(outFile);
+}
+```
 
 ### See Also
 

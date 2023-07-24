@@ -3,7 +3,7 @@ title: XmpBasicPackage.SetRating
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage method. Sets rating
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating/
 ---
 {{< psd/tize >}}

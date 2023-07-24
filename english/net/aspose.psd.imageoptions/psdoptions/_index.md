@@ -44,6 +44,7 @@ public class PsdOptions : ImageOptionsBase
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Gets or sets the resolution settings. |
 | [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | Gets or sets the psd resources. |
 | [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Gets or sets the source to create image in. |
+| [UpdateMetadata](../../aspose.psd.imageoptions/psdoptions/updatemetadata/) { get; set; } | Gets or sets a value indicating whether [update metadata]. If the value is true, the metadata will be updated while saving an image. |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Gets or sets the vector rasterization options. |
 | [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | Gets or sets the psd file version. |
 | override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | Get or set XMP data container |

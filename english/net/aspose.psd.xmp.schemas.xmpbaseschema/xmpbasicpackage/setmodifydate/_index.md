@@ -3,7 +3,7 @@ title: XmpBasicPackage.SetModifyDate
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage method. Adds resource last modified date
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/
 ---
 {{< psd/tize >}}

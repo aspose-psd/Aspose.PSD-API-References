@@ -3,7 +3,7 @@ title: XmpBasicPackage.RatingMax
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage field. Rating max value
 type: docs
-weight: 100
+weight: 130
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
 {{< psd/tize >}}

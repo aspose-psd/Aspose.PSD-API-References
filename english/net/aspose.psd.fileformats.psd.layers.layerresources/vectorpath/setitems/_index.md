@@ -3,7 +3,7 @@ title: VectorPath.SetItems
 second_title: Aspose.PSD for .NET API Reference
 description: VectorPath method. Sets array of Shapes in a Path
 type: docs
-weight: 90
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vectorpath/setitems/
 ---
 {{< psd/tize >}}

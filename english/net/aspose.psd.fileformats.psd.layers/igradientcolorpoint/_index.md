@@ -20,8 +20,8 @@ public interface IGradientColorPoint
 | Name | Description |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/color/) { get; set; } | Gets or sets the color. |
-| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Gets or sets the location. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Gets or sets the median point location. |
+| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Gets or sets the location. Value range 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Gets or sets the median point location. Value range 0-4096. |
 | [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Gets or sets the color of the raw. |
 
 ### See Also

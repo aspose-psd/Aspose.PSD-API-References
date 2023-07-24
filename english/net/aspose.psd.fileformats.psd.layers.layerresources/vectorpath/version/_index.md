@@ -3,7 +3,7 @@ title: VectorPath.Version
 second_title: Aspose.PSD for .NET API Reference
 description: VectorPath property. Gets or sets the version
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vectorpath/version/
 ---
 {{< psd/tize >}}

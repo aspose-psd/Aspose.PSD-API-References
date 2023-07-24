@@ -3,7 +3,7 @@ title: XmpBasicPackage.SetCreatorTool
 second_title: Aspose.PSD for .NET API Reference
 description: XmpBasicPackage method. Sets the creator tool
 type: docs
-weight: 40
+weight: 60
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool/
 ---
 {{< psd/tize >}}
