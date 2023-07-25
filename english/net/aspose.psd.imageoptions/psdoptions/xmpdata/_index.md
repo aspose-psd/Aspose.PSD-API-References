@@ -3,7 +3,7 @@ title: PsdOptions.XmpData
 second_title: Aspose.PSD for .NET API Reference
 description: PsdOptions property. Get or set XMP data container
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd.imageoptions/psdoptions/xmpdata/
 ---
 {{< psd/tize >}}

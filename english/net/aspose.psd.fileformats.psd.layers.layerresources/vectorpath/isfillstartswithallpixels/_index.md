@@ -3,7 +3,7 @@ title: VectorPath.IsFillStartsWithAllPixels
 second_title: Aspose.PSD for .NET API Reference
 description: VectorPath property. Gets or sets a value indicating whether is fill starts with all pixels
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vectorpath/isfillstartswithallpixels/
 ---
 {{< psd/tize >}}
