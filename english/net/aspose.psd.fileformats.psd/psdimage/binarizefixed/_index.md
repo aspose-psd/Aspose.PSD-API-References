@@ -3,7 +3,7 @@ title: PsdImage.BinarizeFixed
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Binarization of an image with predefined threshold
 type: docs
-weight: 510
+weight: 520
 url: /net/aspose.psd.fileformats.psd/psdimage/binarizefixed/
 ---
 {{< psd/tize >}}

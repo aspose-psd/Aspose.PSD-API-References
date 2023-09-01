@@ -3,7 +3,7 @@ title: PsdImage.ResizeWidthProportionally
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Resizes the width proportionally
 type: docs
-weight: 630
+weight: 640
 url: /net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
 {{< psd/tize >}}

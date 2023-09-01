@@ -101,6 +101,7 @@ public sealed class PsdImage : RasterCachedImage
 | [AddLayerGroup](../../aspose.psd.fileformats.psd/psdimage/addlayergroup/)(string, int, bool) | Adds the layer group. |
 | [AddLevelsAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addlevelsadjustmentlayer/)() | Adds the Levels adjustment layer. |
 | [AddPhotoFilterLayer](../../aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/)(Color) | Adds the PhotoFilter layer. |
+| [AddPosterizeAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addposterizeadjustmentlayer/)() | Adds Posterize Adjustment layer. |
 | [AddRegularLayer](../../aspose.psd.fileformats.psd/psdimage/addregularlayer/)() | Adds a new regular layer. |
 | [AddSelectiveColorAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addselectivecoloradjustmentlayer/)() | Adds the selective color adjustment layer. |
 | [AddTextLayer](../../aspose.psd.fileformats.psd/psdimage/addtextlayer/)(string, Rectangle) | Adds a new Text layer. |

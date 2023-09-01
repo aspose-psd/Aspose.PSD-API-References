@@ -3,7 +3,7 @@ title: PsdImage.AddSelectiveColorAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the selective color adjustment layer
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.psd.fileformats.psd/psdimage/addselectivecoloradjustmentlayer/
 ---
 {{< psd/tize >}}

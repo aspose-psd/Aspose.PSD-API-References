@@ -3,7 +3,7 @@ title: PsdImage.AddThresholdAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the Threshold adjustment layer
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.psd.fileformats.psd/psdimage/addthresholdadjustmentlayer/
 ---
 {{< psd/tize >}}
