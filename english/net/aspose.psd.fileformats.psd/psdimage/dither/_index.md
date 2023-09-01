@@ -3,7 +3,7 @@ title: PsdImage.Dither
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Performs dithering on the current image
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.psd.fileformats.psd/psdimage/dither/
 ---
 {{< psd/tize >}}
