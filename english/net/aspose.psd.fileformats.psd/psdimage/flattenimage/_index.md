@@ -3,7 +3,7 @@ title: PsdImage.FlattenImage
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Flattens all layers
 type: docs
-weight: 570
+weight: 580
 url: /net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
 {{< psd/tize >}}

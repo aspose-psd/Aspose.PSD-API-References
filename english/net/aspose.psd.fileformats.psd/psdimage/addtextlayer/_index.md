@@ -3,7 +3,7 @@ title: PsdImage.AddTextLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds a new Text layer
 type: docs
-weight: 440
+weight: 450
 url: /net/aspose.psd.fileformats.psd/psdimage/addtextlayer/
 ---
 {{< psd/tize >}}
