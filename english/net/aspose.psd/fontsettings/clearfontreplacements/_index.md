@@ -3,7 +3,7 @@ title: FontSettings.ClearFontReplacements
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Clears the all fonts replacements
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd/fontsettings/clearfontreplacements/
 ---
 {{< psd/tize >}}

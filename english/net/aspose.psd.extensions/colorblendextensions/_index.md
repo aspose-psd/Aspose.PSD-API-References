@@ -3,7 +3,7 @@ title: Class ColorBlendExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.ColorBlendExtensions class. Contains ColorBlend extension methods
 type: docs
-weight: 1040
+weight: 1050
 url: /net/aspose.psd.extensions/colorblendextensions/
 ---
 {{< psd/tize >}}

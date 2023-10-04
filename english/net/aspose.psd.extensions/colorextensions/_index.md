@@ -3,7 +3,7 @@ title: Class ColorExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.ColorExtensions class. The Color extension methods
 type: docs
-weight: 1050
+weight: 1060
 url: /net/aspose.psd.extensions/colorextensions/
 ---
 {{< psd/tize >}}

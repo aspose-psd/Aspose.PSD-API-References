@@ -3,7 +3,7 @@ title: Aspose.PSD.ImageOptions
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains classes suitable for export save or creation of different file formats
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.psd.imageoptions/
 ---
 {{< psd/tize >}}

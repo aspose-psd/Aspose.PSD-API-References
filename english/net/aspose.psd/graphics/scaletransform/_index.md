@@ -3,7 +3,7 @@ title: Graphics.ScaleTransform
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Scales the local geometric transform by the specified amounts. This method prepends the scaling matrix to the transform
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.psd/graphics/scaletransform/
 ---
 {{< psd/tize >}}

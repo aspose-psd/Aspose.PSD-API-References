@@ -3,7 +3,7 @@ title: Graphics.DrawEllipse
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws an ellipse defined by a bounding RectangleF
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.psd/graphics/drawellipse/
 ---
 {{< psd/tize >}}

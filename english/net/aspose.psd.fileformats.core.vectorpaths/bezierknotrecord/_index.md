@@ -3,7 +3,7 @@ title: Class BezierKnotRecord
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord class. Bezier Knot Record Class used to read/write Bezier knots data from resource
 type: docs
-weight: 1330
+weight: 1340
 url: /net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
 {{< psd/tize >}}

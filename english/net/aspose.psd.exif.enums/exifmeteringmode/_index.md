@@ -3,7 +3,7 @@ title: Enum ExifMeteringMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifMeteringMode enum. exif metering mode enum
 type: docs
-weight: 900
+weight: 910
 url: /net/aspose.psd.exif.enums/exifmeteringmode/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum PenType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.PenType enum. Specifies the type of fill a Pen object uses to fill lines
 type: docs
-weight: 5410
+weight: 5420
 url: /net/aspose.psd/pentype/
 ---
 {{< psd/tize >}}

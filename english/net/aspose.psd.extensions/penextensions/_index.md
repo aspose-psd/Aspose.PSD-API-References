@@ -3,7 +3,7 @@ title: Class PenExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.PenExtensions class. Contains extension methods for Pen and Pen
 type: docs
-weight: 1140
+weight: 1150
 url: /net/aspose.psd.extensions/penextensions/
 ---
 {{< psd/tize >}}

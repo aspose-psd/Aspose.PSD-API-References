@@ -3,7 +3,7 @@ title: Graphics.RotateTransform
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Rotates the local geometric transform by the specified amount. This method prepends the rotation to the transform
 type: docs
-weight: 440
+weight: 450
 url: /net/aspose.psd/graphics/rotatetransform/
 ---
 {{< psd/tize >}}

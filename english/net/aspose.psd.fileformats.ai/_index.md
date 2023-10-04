@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Ai
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace handles Adobe Illustrator AI file format processing
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.psd.fileformats.ai/
 ---
 {{< psd/tize >}}

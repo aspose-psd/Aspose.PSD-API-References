@@ -3,7 +3,7 @@ title: Class ColorComponent
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Core.RawColor.ColorComponent class. Color component is an abstraction over Channel Value and Channel Value. Any color is composed from an array of ColorComponent
 type: docs
-weight: 1630
+weight: 1640
 url: /net/aspose.psd.fileformats.psd.core.rawcolor/colorcomponent/
 ---
 {{< psd/tize >}}

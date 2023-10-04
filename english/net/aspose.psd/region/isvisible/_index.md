@@ -3,7 +3,7 @@ title: Region.IsVisible
 second_title: Aspose.PSD for .NET API Reference
 description: Region method. Tests whether the specified point is contained within this Region
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.psd/region/isvisible/
 ---
 {{< psd/tize >}}

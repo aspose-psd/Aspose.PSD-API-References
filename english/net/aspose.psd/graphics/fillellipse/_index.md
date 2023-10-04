@@ -3,7 +3,7 @@ title: Graphics.FillEllipse
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Fills the interior of an ellipse defined by a bounding rectangle specified by a RectangleF structure
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.psd/graphics/fillellipse/
 ---
 {{< psd/tize >}}

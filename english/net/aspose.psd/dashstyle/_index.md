@@ -3,7 +3,7 @@ title: Enum DashStyle
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.DashStyle enum. Specifies the style of dashed lines drawn with a Pen object
 type: docs
-weight: 720
+weight: 730
 url: /net/aspose.psd/dashstyle/
 ---
 {{< psd/tize >}}

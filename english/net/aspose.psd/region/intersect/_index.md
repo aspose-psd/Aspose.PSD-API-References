@@ -3,7 +3,7 @@ title: Region.Intersect
 second_title: Aspose.PSD for .NET API Reference
 description: Region method. Updates this Region to the intersection of itself with the specified RectangleF structure
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd/region/intersect/
 ---
 {{< psd/tize >}}

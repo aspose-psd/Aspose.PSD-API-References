@@ -3,7 +3,7 @@ title: Region.IsInfinite
 second_title: Aspose.PSD for .NET API Reference
 description: Region method. Tests whether this Region has an infinite interior on the specified drawing surface
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd/region/isinfinite/
 ---
 {{< psd/tize >}}

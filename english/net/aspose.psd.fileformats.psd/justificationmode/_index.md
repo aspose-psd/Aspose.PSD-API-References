@@ -3,7 +3,7 @@ title: Enum JustificationMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.JustificationMode enum. The text alignment mode
 type: docs
-weight: 1670
+weight: 1680
 url: /net/aspose.psd.fileformats.psd/justificationmode/
 ---
 {{< psd/tize >}}

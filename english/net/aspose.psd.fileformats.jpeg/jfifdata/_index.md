@@ -3,7 +3,7 @@ title: Class JFIFData
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Jpeg.JFIFData class. The jfif segment
 type: docs
-weight: 1470
+weight: 1480
 url: /net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
 {{< psd/tize >}}

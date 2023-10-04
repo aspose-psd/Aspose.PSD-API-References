@@ -3,7 +3,7 @@ title: Class LayerStateInformationResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.LayerStateInformationResource class. Layer state information resource
 type: docs
-weight: 3990
+weight: 4000
 url: /net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/
 ---
 {{< psd/tize >}}

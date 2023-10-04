@@ -3,7 +3,7 @@ title: Class CustomLineCap
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.CustomLineCap class. Encapsulates a custom userdefined line cap
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.psd/customlinecap/
 ---
 {{< psd/tize >}}

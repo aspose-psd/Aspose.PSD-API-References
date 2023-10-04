@@ -3,7 +3,7 @@ title: StringFormat.DigitSubstitutionMethod
 second_title: Aspose.PSD for .NET API Reference
 description: StringFormat property. Gets or sets the method to be used for digit substitution
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd/stringformat/digitsubstitutionmethod/
 ---
 {{< psd/tize >}}

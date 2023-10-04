@@ -3,7 +3,7 @@ title: Enum JpegLsInterleaveMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode enum. Defines the interleave mode for multicomponent color pixel data
 type: docs
-weight: 1510
+weight: 1520
 url: /net/aspose.psd.fileformats.jpeg/jpeglsinterleavemode/
 ---
 {{< psd/tize >}}

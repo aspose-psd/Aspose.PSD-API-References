@@ -3,7 +3,7 @@ title: Graphics.DrawPath
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a GraphicsPath
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.psd/graphics/drawpath/
 ---
 {{< psd/tize >}}

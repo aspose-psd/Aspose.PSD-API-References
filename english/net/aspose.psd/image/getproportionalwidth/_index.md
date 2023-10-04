@@ -3,7 +3,7 @@ title: Image.GetProportionalWidth
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Gets a proportional width
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.psd/image/getproportionalwidth/
 ---
 {{< psd/tize >}}

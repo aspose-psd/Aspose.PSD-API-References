@@ -3,7 +3,7 @@ title: Enum ExifYCbCrPositioning
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifYCbCrPositioning enum. exif y cb cr positioning enum
 type: docs
-weight: 980
+weight: 990
 url: /net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
 {{< psd/tize >}}

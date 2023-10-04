@@ -12,6 +12,7 @@ url: /net/aspose.psd/loadoptions/useiccprofileconversion/
 Gets or sets a value indicating whether ICC profile conversion should be applied.
 
 ```csharp
+[Obsolete("ICC profile conversion will be used by default and this property will be removed.")]
 public bool UseIccProfileConversion { get; set; }
 ```
 

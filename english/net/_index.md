@@ -21,6 +21,7 @@ Please check the Aspose [PSD Tutorial](https://products.aspose.com/psd/tutorial/
 | [Aspose.PSD.CoreExceptions](./aspose.psd.coreexceptions/) | The namespace contains exceptions thrown by any of the core PSD components. |
 | [Aspose.PSD.CoreExceptions.Compressors](./aspose.psd.coreexceptions.compressors/) | The namespace contains exceptions thrown by one of the compression algorithms supported. |
 | [Aspose.PSD.CoreExceptions.ImageFormats](./aspose.psd.coreexceptions.imageformats/) | The namespace contains exceptions thrown by one of the file formats supported. |
+| [Aspose.PSD.CustomFontHandler](./aspose.psd.customfonthandler/) | The namespace handles custom fonts processing. |
 | [Aspose.PSD.Dithering](./aspose.psd.dithering/) | The namespace provides different helper classes for color dithering. |
 | [Aspose.PSD.Evalute](./aspose.psd.evalute/) | The namespace DIB header processing. |
 | [Aspose.PSD.Exif](./aspose.psd.exif/) | The namespace contains EXIF related helper classes and methods. |

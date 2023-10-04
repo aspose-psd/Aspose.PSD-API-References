@@ -3,7 +3,7 @@ title: Layer.ShallowCopy
 second_title: Aspose.PSD for .NET API Reference
 description: Layer method. Creates a shallow copy of the current Layer. Please https//msdn.microsoft.com/ruru/library/system.object.memberwiseclonevvs.110.aspx for explanation
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.psd.fileformats.psd.layers/layer/shallowcopy/
 ---
 {{< psd/tize >}}

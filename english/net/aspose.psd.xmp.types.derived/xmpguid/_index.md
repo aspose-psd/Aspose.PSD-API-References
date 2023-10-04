@@ -3,7 +3,7 @@ title: Class XmpGuid
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Derived.XmpGuid class. Represents XMP global unique identifier
 type: docs
-weight: 6350
+weight: 6360
 url: /net/aspose.psd.xmp.types.derived/xmpguid/
 ---
 {{< psd/tize >}}

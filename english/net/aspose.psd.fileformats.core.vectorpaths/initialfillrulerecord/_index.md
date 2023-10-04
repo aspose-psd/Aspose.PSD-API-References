@@ -3,7 +3,7 @@ title: Class InitialFillRuleRecord
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord class. Initial Fill Rule Record Class
 type: docs
-weight: 1360
+weight: 1370
 url: /net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum DitheringMethods
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.DitheringMethods enum. The dithering methods used to control color conversion
 type: docs
-weight: 780
+weight: 790
 url: /net/aspose.psd/ditheringmethods/
 ---
 {{< psd/tize >}}

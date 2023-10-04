@@ -3,7 +3,7 @@ title: Graphics.DrawPolygon
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a polygon defined by an array of PointF structures
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.psd/graphics/drawpolygon/
 ---
 {{< psd/tize >}}

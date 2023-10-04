@@ -3,7 +3,7 @@ title: Class AiHeader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Ai.AiHeader class. The Adobe illustrator File Header
 type: docs
-weight: 1250
+weight: 1260
 url: /net/aspose.psd.fileformats.ai/aiheader/
 ---
 {{< psd/tize >}}

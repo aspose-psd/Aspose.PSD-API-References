@@ -3,7 +3,7 @@ title: Layer.BlendModeSignature
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets the blend mode signature
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers/layer/blendmodesignature/
 ---
 {{< psd/tize >}}

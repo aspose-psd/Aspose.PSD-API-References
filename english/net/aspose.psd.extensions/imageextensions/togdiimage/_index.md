@@ -9,7 +9,7 @@ url: /net/aspose.psd.extensions/imageextensions/togdiimage/
 {{< psd/tize >}}
 ## ImageExtensions.ToGdiImage method
 
-Converts the [`Image`](../../../aspose.psd/image/) to the Image.
+Converts the Image to the Image.
 
 ```csharp
 [Obsolete("Please do not use this method as you may get OutOfMemoryException if image is too large for GDI to fit.")]
@@ -18,7 +18,7 @@ public static Image ToGdiImage(Image image)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | Image | The [`Image`](../../../aspose.psd/image/) to convert. |
+| image | Image | The Image to convert. |
 
 ### Return Value
 

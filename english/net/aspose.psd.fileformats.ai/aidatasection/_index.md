@@ -3,7 +3,7 @@ title: Class AiDataSection
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Ai.AiDataSection class. The Ai format Data Section
 type: docs
-weight: 1220
+weight: 1230
 url: /net/aspose.psd.fileformats.ai/aidatasection/
 ---
 {{< psd/tize >}}

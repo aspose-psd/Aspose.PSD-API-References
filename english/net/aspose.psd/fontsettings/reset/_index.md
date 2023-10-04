@@ -3,7 +3,7 @@ title: FontSettings.Reset
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Resets the fonts folder and default font name to the system default
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.psd/fontsettings/reset/
 ---
 {{< psd/tize >}}

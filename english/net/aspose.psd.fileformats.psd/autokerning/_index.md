@@ -3,7 +3,7 @@ title: Enum AutoKerning
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.AutoKerning enum. The Photoshop auto kerning mode distance between symbols
 type: docs
-weight: 1600
+weight: 1610
 url: /net/aspose.psd.fileformats.psd/autokerning/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum PngFilterType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Png.PngFilterType enum. The png filter type
 type: docs
-weight: 1590
+weight: 1600
 url: /net/aspose.psd.fileformats.png/pngfiltertype/
 ---
 {{< psd/tize >}}

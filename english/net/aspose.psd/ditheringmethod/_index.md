@@ -3,7 +3,7 @@ title: Enum DitheringMethod
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.DitheringMethod enum. Dithering method
 type: docs
-weight: 770
+weight: 780
 url: /net/aspose.psd/ditheringmethod/
 ---
 {{< psd/tize >}}

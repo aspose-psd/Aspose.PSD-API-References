@@ -3,7 +3,7 @@ title: Class VectorShapeOriginSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings class. Vector shape origination settings
 type: docs
-weight: 1440
+weight: 1450
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/
 ---
 {{< psd/tize >}}

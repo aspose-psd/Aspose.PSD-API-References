@@ -3,7 +3,7 @@ title: Class PdfCoreOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Pdf.PdfCoreOptions class. The common options for convertion to PDF
 type: docs
-weight: 1560
+weight: 1570
 url: /net/aspose.psd.fileformats.pdf/pdfcoreoptions/
 ---
 {{< psd/tize >}}

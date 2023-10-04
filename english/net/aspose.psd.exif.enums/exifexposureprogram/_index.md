@@ -3,7 +3,7 @@ title: Enum ExifExposureProgram
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifExposureProgram enum. exif exposure program enum
 type: docs
-weight: 840
+weight: 850
 url: /net/aspose.psd.exif.enums/exifexposureprogram/
 ---
 {{< psd/tize >}}

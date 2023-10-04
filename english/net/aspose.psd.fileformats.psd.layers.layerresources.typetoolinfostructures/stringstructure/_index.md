@@ -3,7 +3,7 @@ title: Class StringStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.StringStructure class. The string structure
 type: docs
-weight: 3410
+weight: 3420
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/
 ---
 {{< psd/tize >}}

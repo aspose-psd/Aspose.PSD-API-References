@@ -3,7 +3,7 @@ title: Image.Width
 second_title: Aspose.PSD for .NET API Reference
 description: Image property. Gets the image width
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd/image/width/
 ---
 {{< psd/tize >}}

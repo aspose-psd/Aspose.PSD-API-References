@@ -3,7 +3,7 @@ title: Enum DashCap
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.DashCap enum. Specifies the type of graphic shape to use on both ends of each dash in a dashed line
 type: docs
-weight: 710
+weight: 720
 url: /net/aspose.psd/dashcap/
 ---
 {{< psd/tize >}}

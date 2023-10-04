@@ -3,7 +3,7 @@ title: Region.Transform
 second_title: Aspose.PSD for .NET API Reference
 description: Region method. Transforms this Region by the specified Matrix
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.psd/region/transform/
 ---
 {{< psd/tize >}}

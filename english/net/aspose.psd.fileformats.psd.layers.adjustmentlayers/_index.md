@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains PSD adjustment layers
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Region.IsEmpty
 second_title: Aspose.PSD for .NET API Reference
 description: Region method. Tests whether this Region has an empty interior on the specified drawing surface
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd/region/isempty/
 ---
 {{< psd/tize >}}

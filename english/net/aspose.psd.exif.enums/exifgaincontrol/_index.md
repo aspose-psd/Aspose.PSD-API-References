@@ -3,7 +3,7 @@ title: Enum ExifGainControl
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifGainControl enum. exif gain control enum
 type: docs
-weight: 880
+weight: 890
 url: /net/aspose.psd.exif.enums/exifgaincontrol/
 ---
 {{< psd/tize >}}

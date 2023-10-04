@@ -3,7 +3,7 @@ title: FontSettings.IsFontAllowed
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Determines whether is font allowed the specified font name
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd/fontsettings/isfontallowed/
 ---
 {{< psd/tize >}}

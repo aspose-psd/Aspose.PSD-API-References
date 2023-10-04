@@ -3,7 +3,7 @@ title: Class LayerBlendingRangesData
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData class. The layer blending ranges data
 type: docs
-weight: 2170
+weight: 2180
 url: /net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Graphics.DrawImageUnscaled
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a specified image using its original physical size at a specified location
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.psd/graphics/drawimageunscaled/
 ---
 {{< psd/tize >}}

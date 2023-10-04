@@ -3,7 +3,7 @@ title: Class ColorMatrixExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.ColorMatrixExtensions class. The ColorMatrix extension methods
 type: docs
-weight: 1070
+weight: 1080
 url: /net/aspose.psd.extensions/colormatrixextensions/
 ---
 {{< psd/tize >}}

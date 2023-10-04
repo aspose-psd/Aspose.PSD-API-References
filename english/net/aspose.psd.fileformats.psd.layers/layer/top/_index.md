@@ -3,7 +3,7 @@ title: Layer.Top
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the top layer position
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
 {{< psd/tize >}}

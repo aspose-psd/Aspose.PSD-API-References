@@ -3,7 +3,7 @@ title: Graphics.DrawBeziers
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a series of Bézier splines from an array of Point structures
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.psd/graphics/drawbeziers/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Layer.IsVisible
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets a value indicating whether the layer is visible
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.psd.fileformats.psd.layers/layer/isvisible/
 ---
 {{< psd/tize >}}

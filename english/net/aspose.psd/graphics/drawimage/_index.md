@@ -3,7 +3,7 @@ title: Graphics.DrawImage
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws the specified Image using its original physical size at the specified location
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.psd/graphics/drawimage/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum PathOperations
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations enum. The operations for the path shapes combining Boolean operations
 type: docs
-weight: 1390
+weight: 1400
 url: /net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
 {{< psd/tize >}}

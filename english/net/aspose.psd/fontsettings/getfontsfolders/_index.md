@@ -3,7 +3,7 @@ title: FontSettings.GetFontsFolders
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Gets a copy of the array that contains the list of folders where Aspose.Words looks for TrueType fonts
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd/fontsettings/getfontsfolders/
 ---
 {{< psd/tize >}}

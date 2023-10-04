@@ -3,7 +3,7 @@ title: Class ImageAttributesExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.ImageAttributesExtensions class. Contains extension methods for ImageAttributes and ImageAttributes
 type: docs
-weight: 1110
+weight: 1120
 url: /net/aspose.psd.extensions/imageattributesextensions/
 ---
 {{< psd/tize >}}

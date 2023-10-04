@@ -3,7 +3,7 @@ title: Layer.Opacity
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the layer opacity. 0  transparent 255  opaque
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.psd.fileformats.psd.layers/layer/opacity/
 ---
 {{< psd/tize >}}

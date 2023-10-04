@@ -3,7 +3,7 @@ title: Graphics.DrawBezier
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a Bézier spline defined by four ordered pairs of coordinates that represent points
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.psd/graphics/drawbezier/
 ---
 {{< psd/tize >}}

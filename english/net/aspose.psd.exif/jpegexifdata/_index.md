@@ -3,7 +3,7 @@ title: Class JpegExifData
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.JpegExifData class. EXIF data container for jpeg files
 type: docs
-weight: 1010
+weight: 1020
 url: /net/aspose.psd.exif/jpegexifdata/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class PointExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.PointExtensions class. Contains extension methods for Point and PointF structures
 type: docs
-weight: 1150
+weight: 1160
 url: /net/aspose.psd.extensions/pointextensions/
 ---
 {{< psd/tize >}}

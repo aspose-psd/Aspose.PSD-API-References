@@ -3,7 +3,7 @@ title: FontSettings.GetFontReplacements
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Gets the font replacements array by the font name
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd/fontsettings/getfontreplacements/
 ---
 {{< psd/tize >}}

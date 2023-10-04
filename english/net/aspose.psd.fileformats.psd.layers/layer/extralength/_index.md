@@ -3,7 +3,7 @@ title: Layer.ExtraLength
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets the layer extra information length in bytes
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers/layer/extralength/
 ---
 {{< psd/tize >}}

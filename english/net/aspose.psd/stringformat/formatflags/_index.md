@@ -3,7 +3,7 @@ title: StringFormat.FormatFlags
 second_title: Aspose.PSD for .NET API Reference
 description: StringFormat property. Gets or sets a StringFormatFlags enumeration that contains formatting information
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd/stringformat/formatflags/
 ---
 {{< psd/tize >}}

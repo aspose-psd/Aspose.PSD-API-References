@@ -3,7 +3,7 @@ title: Enum VectorPathType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType enum. Vector Path Type according to PSD Format Specification
 type: docs
-weight: 1420
+weight: 1430
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
 {{< psd/tize >}}

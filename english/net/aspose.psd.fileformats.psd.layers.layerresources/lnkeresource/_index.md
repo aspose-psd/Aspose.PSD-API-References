@@ -3,7 +3,7 @@ title: Class LnkeResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource class. Defines the LnkeResource class that contains information about external linked files or assets in the PSD format image. The link resource may contain several LiFeDataSource instances which can be accessed by indexer. This is a part of PSD File Format Manipulation API that helps to modify Adobe Photoshop files programmatically
 type: docs
-weight: 2860
+weight: 2870
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
 {{< psd/tize >}}
