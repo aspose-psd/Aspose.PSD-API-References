@@ -3,7 +3,7 @@ title: Class BrushExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.BrushExtensions class. Contains extension methods for Brush and Brush
 type: docs
-weight: 1030
+weight: 1040
 url: /net/aspose.psd.extensions/brushextensions/
 ---
 {{< psd/tize >}}

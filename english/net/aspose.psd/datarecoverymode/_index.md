@@ -3,7 +3,7 @@ title: Enum DataRecoveryMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.DataRecoveryMode enum. The data recovery mode
 type: docs
-weight: 730
+weight: 740
 url: /net/aspose.psd/datarecoverymode/
 ---
 {{< psd/tize >}}

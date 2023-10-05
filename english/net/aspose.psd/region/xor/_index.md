@@ -3,7 +3,7 @@ title: Region.Xor
 second_title: Aspose.PSD for .NET API Reference
 description: Region method. Updates this Region to the union minus the intersection of itself with the specified RectangleF structure
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd/region/xor/
 ---
 {{< psd/tize >}}

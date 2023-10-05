@@ -3,7 +3,7 @@ title: Enum ExifUnit
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifUnit enum. exif unit enum
 type: docs
-weight: 960
+weight: 970
 url: /net/aspose.psd.exif.enums/exifunit/
 ---
 {{< psd/tize >}}

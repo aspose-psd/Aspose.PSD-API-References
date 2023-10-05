@@ -3,7 +3,7 @@ title: Class RectangleExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.RectangleExtensions class. Contains extension methods for Rectangle
 type: docs
-weight: 1160
+weight: 1170
 url: /net/aspose.psd.extensions/rectangleextensions/
 ---
 {{< psd/tize >}}

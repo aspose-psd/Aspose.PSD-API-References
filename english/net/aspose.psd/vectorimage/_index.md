@@ -3,7 +3,7 @@ title: Class VectorImage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.VectorImage class. The vector image is the base class for all type of vector images
 type: docs
-weight: 5910
+weight: 5920
 url: /net/aspose.psd/vectorimage/
 ---
 {{< psd/tize >}}
@@ -36,6 +36,7 @@ public abstract class VectorImage : Image, IObjectWithSizeF
 | [Palette](../../aspose.psd/image/palette/) { get; set; } | Gets or sets the color palette. The color palette is not used when pixels are represented directly. |
 | [Size](../../aspose.psd/image/size/) { get; } | Gets the image size. |
 | [SizeF](../../aspose.psd/vectorimage/sizef/) { get; } | Gets the object size, in inches. |
+| virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | Gets a value indicating whether the image palette is used. |
 | override [Width](../../aspose.psd/vectorimage/width/) { get; } | Gets the image width. |
 | virtual [WidthF](../../aspose.psd/vectorimage/widthf/) { get; } | Gets the object width, in inches. |
 
@@ -48,13 +49,13 @@ public abstract class VectorImage : Image, IObjectWithSizeF
 | [Dispose](../../aspose.psd/disposableobject/dispose/)() | Disposes the current instance. |
 | virtual [GetDefaultOptions](../../aspose.psd/image/getdefaultoptions/)(object[]) | Gets the default options. |
 | virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | Gets the options based on the original file settings. This can be helpful to keep bit-depth and other parameters of the original image unchanged. For example, if we load a black-white PNG image with 1 bit per pixel and then save it using the [`Save`](../datastreamsupporter/save/) method, the output PNG image with 8-bit per pixel will be produced. To avoid it and save PNG image with 1-bit per pixel, use this method to get corresponding saving options and pass them to the [`Save`](../image/save/) method as the second parameter. |
-| [Resize](../../aspose.psd/image/resize/)(int, int) | Resizes the image. The default LeftTopToLeftTop is used. |
+| [Resize](../../aspose.psd/image/resize/)(int, int) | Resizes the image. The default NearestNeighbourResample is used. |
 | abstract [Resize](../../aspose.psd/image/resize/)(int, int, ImageResizeSettings) | Resizes the image. |
 | abstract [Resize](../../aspose.psd/image/resize/)(int, int, ResizeType) | Resizes the image. |
 | [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | Resizes the height proportionally. |
 | virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ImageResizeSettings) | Resizes the height proportionally. |
 | virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ResizeType) | Resizes the height proportionally. |
-| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Resizes the width proportionally. |
+| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Resizes the width proportionally. The default NearestNeighbourResample is used. |
 | virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | Resizes the width proportionally. |
 | virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | Resizes the width proportionally. |
 | abstract [RotateFlip](../../aspose.psd/image/rotateflip/)(RotateFlipType) | Rotates, flips, or rotates and flips the image. |

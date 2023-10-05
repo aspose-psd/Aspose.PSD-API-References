@@ -3,7 +3,7 @@ title: Enum Jpeg2000Codec
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000Codec enum. Represents JPEG2000 image type
 type: docs
-weight: 1540
+weight: 1550
 url: /net/aspose.psd.fileformats.jpeg2000/jpeg2000codec/
 ---
 {{< psd/tize >}}

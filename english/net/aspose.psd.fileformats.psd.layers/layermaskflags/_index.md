@@ -3,7 +3,7 @@ title: Enum LayerMaskFlags
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskFlags enum. The layer mask flags
 type: docs
-weight: 2350
+weight: 2360
 url: /net/aspose.psd.fileformats.psd.layers/layermaskflags/
 ---
 {{< psd/tize >}}

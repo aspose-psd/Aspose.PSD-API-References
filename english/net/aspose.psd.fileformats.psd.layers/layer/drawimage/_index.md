@@ -3,7 +3,7 @@ title: Layer.DrawImage
 second_title: Aspose.PSD for .NET API Reference
 description: Layer method. Draws the image on layer
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.psd.fileformats.psd.layers/layer/drawimage/
 ---
 {{< psd/tize >}}

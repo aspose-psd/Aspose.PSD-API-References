@@ -3,7 +3,7 @@ title: Class ColorRangeHsl
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ColorRangeHsl class. Hue2Resource has 6 color ranges where you can change HSV parameters. Every range has 4 key points to identify range borders. And its ColorRangeHsl
 type: docs
-weight: 2470
+weight: 2480
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Aspose.PSD.Exif
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains EXIF related helper classes and methods
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.psd.exif/
 ---
 {{< psd/tize >}}

@@ -7,7 +7,7 @@ weight: 40
 url: /net/aspose.psd/region/equals/
 ---
 {{< psd/tize >}}
-## Region.Equals method
+## Equals(Region, Graphics) {#equals}
 
 Tests whether the specified [`Region`](../) is identical to this [`Region`](../) on the specified drawing surface.
 
@@ -33,6 +33,30 @@ True if the interior of region is identical to the interior of this region when 
 ### See Also
 
 * class [Graphics](../../graphics/)
+* class [Region](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Equals(object) {#equals_1}
+
+Check if objects are equal.
+
+```csharp
+public override bool Equals(object obj)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| obj | Object | The other object. |
+
+### Return Value
+
+The equality comparison result.
+
+### See Also
+
 * class [Region](../)
 * namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)

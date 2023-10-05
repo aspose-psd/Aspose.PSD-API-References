@@ -3,7 +3,7 @@ title: Class PathFillRuleRecord
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord class. Path Fill Rule Record Class
 type: docs
-weight: 1380
+weight: 1390
 url: /net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
 {{< psd/tize >}}

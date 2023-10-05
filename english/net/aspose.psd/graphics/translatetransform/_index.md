@@ -3,7 +3,7 @@ title: Graphics.TranslateTransform
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Translates the local geometric transform by the specified dimensions. This method prepends the translation to the transform
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.psd/graphics/translatetransform/
 ---
 {{< psd/tize >}}

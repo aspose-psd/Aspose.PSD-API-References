@@ -3,7 +3,7 @@ title: Layer.HasAlpha
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets a value indicating whether this instance has alpha
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers/layer/hasalpha/
 ---
 {{< psd/tize >}}

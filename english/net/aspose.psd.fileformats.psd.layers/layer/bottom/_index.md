@@ -3,7 +3,7 @@ title: Layer.Bottom
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the bottom layer position
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers/layer/bottom/
 ---
 {{< psd/tize >}}

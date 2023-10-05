@@ -3,7 +3,7 @@ title: Layer.SheetColorHighlight
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the decorative sheet color highlight in layers list
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/
 ---
 {{< psd/tize >}}

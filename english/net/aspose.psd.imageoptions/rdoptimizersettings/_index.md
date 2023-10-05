@@ -3,7 +3,7 @@ title: Class RdOptimizerSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.RdOptimizerSettings class. RD optimizer settings class
 type: docs
-weight: 5100
+weight: 5110
 url: /net/aspose.psd.imageoptions/rdoptimizersettings/
 ---
 {{< psd/tize >}}

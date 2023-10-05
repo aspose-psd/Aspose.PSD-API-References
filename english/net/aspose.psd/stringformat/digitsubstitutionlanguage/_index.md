@@ -3,7 +3,7 @@ title: StringFormat.DigitSubstitutionLanguage
 second_title: Aspose.PSD for .NET API Reference
 description: StringFormat property. Gets or sets the language that is used when local digits are substituted for western digits
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd/stringformat/digitsubstitutionlanguage/
 ---
 {{< psd/tize >}}

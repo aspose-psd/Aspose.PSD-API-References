@@ -3,7 +3,7 @@ title: Class StringFormatExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.StringFormatExtensions class. Contains extension methods for the StringFormat class
 type: docs
-weight: 1190
+weight: 1200
 url: /net/aspose.psd.extensions/stringformatextensions/
 ---
 {{< psd/tize >}}

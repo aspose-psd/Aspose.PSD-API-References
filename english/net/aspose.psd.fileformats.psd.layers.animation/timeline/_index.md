@@ -3,7 +3,7 @@ title: Class Timeline
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Animation.Timeline class. The time line options model
 type: docs
-weight: 1950
+weight: 1960
 url: /net/aspose.psd.fileformats.psd.layers.animation/timeline/
 ---
 {{< psd/tize >}}

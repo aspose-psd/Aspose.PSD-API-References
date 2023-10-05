@@ -3,7 +3,7 @@ title: Interface ILayerResourceLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader interface. The layer resource loader
 type: docs
-weight: 2150
+weight: 2160
 url: /net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
 {{< psd/tize >}}

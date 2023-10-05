@@ -3,7 +3,7 @@ title: Class StringFormat
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.StringFormat class. Encapsulates text layout information such as alignment orientation and tab stops display manipulations such as ellipsis insertion and national digit substitution and OpenType features. This class cannot be inherited
 type: docs
-weight: 5860
+weight: 5870
 url: /net/aspose.psd/stringformat/
 ---
 {{< psd/tize >}}
@@ -30,6 +30,7 @@ public sealed class StringFormat : DisposableObject
 | static [GenericDefault](../../aspose.psd/stringformat/genericdefault/) { get; } | Gets a generic default `StringFormat` object. |
 | static [GenericTypographic](../../aspose.psd/stringformat/generictypographic/) { get; } | Gets a generic typographic `StringFormat` object. |
 | [Alignment](../../aspose.psd/stringformat/alignment/) { get; set; } | Gets or sets text alignment information on the vertical plane. |
+| [CustomCharIdent](../../aspose.psd/stringformat/customcharident/) { get; set; } | Gets or sets the custom character ident. |
 | [DigitSubstitutionLanguage](../../aspose.psd/stringformat/digitsubstitutionlanguage/) { get; set; } | Gets or sets the language that is used when local digits are substituted for western digits. |
 | [DigitSubstitutionMethod](../../aspose.psd/stringformat/digitsubstitutionmethod/) { get; set; } | Gets or sets the method to be used for digit substitution. |
 | [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
@@ -46,6 +47,8 @@ public sealed class StringFormat : DisposableObject
 | --- | --- |
 | [DeepClone](../../aspose.psd/stringformat/deepclone/)() | Creates a deep clone of this `StringFormat` object. |
 | [Dispose](../../aspose.psd/disposableobject/dispose/)() | Disposes the current instance. |
+| override [Equals](../../aspose.psd/stringformat/equals/)(object) | Check if objects are equal. |
+| override [GetHashCode](../../aspose.psd/stringformat/gethashcode/)() | Get hash code of the current object. |
 | [SetTabStops](../../aspose.psd/stringformat/settabstops/)(float, float[]) | Sets tab stops for this `StringFormat` object. |
 | override [ToString](../../aspose.psd/stringformat/tostring/)() | Converts this `StringFormat` object to a human-readable string. |
 

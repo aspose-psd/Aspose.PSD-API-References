@@ -3,7 +3,7 @@ title: Enum FileFormat
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormat enum. One of supported PSD file formats
 type: docs
-weight: 1210
+weight: 1220
 url: /net/aspose.psd/fileformat/
 ---
 {{< psd/tize >}}

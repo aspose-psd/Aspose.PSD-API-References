@@ -3,7 +3,7 @@ title: Image.ResizeHeightProportionally
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Resizes the height proportionally
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.psd/image/resizeheightproportionally/
 ---
 {{< psd/tize >}}

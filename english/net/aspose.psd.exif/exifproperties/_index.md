@@ -3,7 +3,7 @@ title: Enum ExifProperties
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.ExifProperties enum. Exif tags list
 type: docs
-weight: 1000
+weight: 1010
 url: /net/aspose.psd.exif/exifproperties/
 ---
 {{< psd/tize >}}

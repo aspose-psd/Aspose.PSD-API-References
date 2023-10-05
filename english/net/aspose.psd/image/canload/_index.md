@@ -3,7 +3,7 @@ title: Image.CanLoad
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Determines whether image can be loaded from the specified file path
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.psd/image/canload/
 ---
 {{< psd/tize >}}

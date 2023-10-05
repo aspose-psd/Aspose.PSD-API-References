@@ -3,7 +3,7 @@ title: Class PixelDataFormat
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.PixelDataFormat class. The pixel data format. This is an immutable object
 type: docs
-weight: 5420
+weight: 5430
 url: /net/aspose.psd/pixeldataformat/
 ---
 {{< psd/tize >}}

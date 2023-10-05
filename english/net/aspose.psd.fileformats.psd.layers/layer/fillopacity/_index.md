@@ -3,7 +3,7 @@ title: Layer.FillOpacity
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the fill opacity
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd.fileformats.psd.layers/layer/fillopacity/
 ---
 {{< psd/tize >}}

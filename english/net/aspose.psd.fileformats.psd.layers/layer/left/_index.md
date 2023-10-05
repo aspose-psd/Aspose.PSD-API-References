@@ -3,7 +3,7 @@ title: Layer.Left
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the left layer position
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
 {{< psd/tize >}}

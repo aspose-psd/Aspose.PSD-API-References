@@ -3,7 +3,7 @@ title: Layer.ChannelsCount
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets the layers channels count
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
 {{< psd/tize >}}

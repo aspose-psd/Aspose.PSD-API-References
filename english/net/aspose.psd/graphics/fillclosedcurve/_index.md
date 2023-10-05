@@ -1,41 +1,12 @@
 ---
 title: Graphics.FillClosedCurve
 second_title: Aspose.PSD for .NET API Reference
-description: Graphics method. Fills the interior of a closed cardinal spline curve defined by an array of PointF structures. This method uses a default tension of 0.5 and Alternate fill mode
+description: Graphics method. Fills the interior of a closed cardinal spline curve defined by an array of PointF structures using the specified fill mode. This method uses a default tension of 0.5
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.psd/graphics/fillclosedcurve/
 ---
 {{< psd/tize >}}
-## FillClosedCurve(Brush, PointF[]) {#fillclosedcurve}
-
-Fills the interior of a closed cardinal spline curve defined by an array of [`PointF`](../../pointf/) structures. This method uses a default tension of 0.5 and Alternate fill mode.
-
-```csharp
-public void FillClosedCurve(Brush brush, PointF[] points)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/) that determines the characteristics of the fill. |
-| points | PointF[] | Array of [`PointF`](../../pointf/) structures that define the spline. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | *brush* is null. -or- *points* is null. |
-
-### See Also
-
-* class [Brush](../../brush/)
-* struct [PointF](../../pointf/)
-* class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
-* assembly [Aspose.PSD](../../../)
-
----
-
 ## FillClosedCurve(Brush, PointF[], FillMode) {#fillclosedcurve_1}
 
 Fills the interior of a closed cardinal spline curve defined by an array of [`PointF`](../../pointf/) structures using the specified fill mode. This method uses a default tension of 0.5.
@@ -185,6 +156,35 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, floa
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## FillClosedCurve(Brush, PointF[]) {#fillclosedcurve}
+
+Fills the interior of a closed cardinal spline curve defined by an array of [`PointF`](../../pointf/) structures. This method uses a default tension of 0.5 and Alternate fill mode.
+
+```csharp
+public void FillClosedCurve(Brush brush, PointF[] points)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brush | Brush | [`Brush`](../../brush/) that determines the characteristics of the fill. |
+| points | PointF[] | Array of [`PointF`](../../pointf/) structures that define the spline. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | *brush* is null. -or- *points* is null. |
+
+### See Also
+
+* class [Brush](../../brush/)
+* struct [PointF](../../pointf/)
 * class [Graphics](../)
 * namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)

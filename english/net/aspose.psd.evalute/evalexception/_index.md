@@ -3,7 +3,7 @@ title: Class EvalException
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Evalute.EvalException class. Custom exception for evaluation errors
 type: docs
-weight: 790
+weight: 800
 url: /net/aspose.psd.evalute/evalexception/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum ExifFlash
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifFlash enum. Flash mode
 type: docs
-weight: 860
+weight: 870
 url: /net/aspose.psd.exif.enums/exifflash/
 ---
 {{< psd/tize >}}

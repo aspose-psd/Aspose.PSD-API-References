@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains Layer Effects wrappers
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/
 ---
 {{< psd/tize >}}

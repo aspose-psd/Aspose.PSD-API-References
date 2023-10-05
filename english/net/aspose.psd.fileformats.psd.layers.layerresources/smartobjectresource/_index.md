@@ -3,7 +3,7 @@ title: Class SmartObjectResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource class. Defines the SmartObjectResource class that contains information about a smart object layer in a PSD file. Is is the base class for Sold and Sole resources that is used to support smart object layers in the Adobe Photoshop images
 type: docs
-weight: 3130
+weight: 3140
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/
 ---
 {{< psd/tize >}}

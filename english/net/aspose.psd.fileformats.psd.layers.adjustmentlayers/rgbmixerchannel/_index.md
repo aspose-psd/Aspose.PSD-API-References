@@ -3,7 +3,7 @@ title: Class RgbMixerChannel
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel class. RgbChannel. Its wrapper for channel raw data. Used in MixrResource
 type: docs
-weight: 1860
+weight: 1870
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
 {{< psd/tize >}}

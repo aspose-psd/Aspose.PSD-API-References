@@ -3,7 +3,7 @@ title: Class Region
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Region class. Describes the interior of a graphics shape composed of rectangles and paths. This class cannot be inherited
 type: docs
-weight: 5550
+weight: 5560
 url: /net/aspose.psd/region/
 ---
 {{< psd/tize >}}
@@ -33,11 +33,13 @@ public sealed class Region
 | [Complement](../../aspose.psd/region/complement/#complement_2)(RectangleF) | Updates this `Region` to contain the portion of the specified [`RectangleF`](../rectanglef/) structure that does not intersect with this `Region`. |
 | [Complement](../../aspose.psd/region/complement/#complement_3)(Region) | Updates this `Region` to contain the portion of the specified `Region` that does not intersect with this `Region`. |
 | [DeepClone](../../aspose.psd/region/deepclone/)() | Creates an exact deep copy of this `Region`. |
+| override [Equals](../../aspose.psd/region/equals/#equals_1)(object) | Check if objects are equal. |
 | [Equals](../../aspose.psd/region/equals/#equals)(Region, Graphics) | Tests whether the specified `Region` is identical to this `Region` on the specified drawing surface. |
 | [Exclude](../../aspose.psd/region/exclude/#exclude)(GraphicsPath) | Updates this `Region` to contain only the portion of its interior that does not intersect with the specified [`GraphicsPath`](../graphicspath/). |
 | [Exclude](../../aspose.psd/region/exclude/#exclude_1)(Rectangle) | Updates this `Region` to contain only the portion of its interior that does not intersect with the specified [`Rectangle`](../rectangle/) structure. |
 | [Exclude](../../aspose.psd/region/exclude/#exclude_2)(RectangleF) | Updates this `Region` to contain only the portion of its interior that does not intersect with the specified [`RectangleF`](../rectanglef/) structure. |
 | [Exclude](../../aspose.psd/region/exclude/#exclude_3)(Region) | Updates this `Region` to contain only the portion of its interior that does not intersect with the specified `Region`. |
+| override [GetHashCode](../../aspose.psd/region/gethashcode/)() | Get hash code of the current object. |
 | [Intersect](../../aspose.psd/region/intersect/#intersect)(GraphicsPath) | Updates this `Region` to the intersection of itself with the specified [`GraphicsPath`](../graphicspath/). |
 | [Intersect](../../aspose.psd/region/intersect/#intersect_1)(Rectangle) | Updates this `Region` to the intersection of itself with the specified [`Rectangle`](../rectangle/) structure. |
 | [Intersect](../../aspose.psd/region/intersect/#intersect_2)(RectangleF) | Updates this `Region` to the intersection of itself with the specified [`RectangleF`](../rectanglef/) structure. |

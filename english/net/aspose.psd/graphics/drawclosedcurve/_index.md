@@ -3,7 +3,7 @@ title: Graphics.DrawClosedCurve
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a closed cardinal spline defined by an array of PointF structures. This method uses a default tension of 0.5 and Alternate fill mode
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.psd/graphics/drawclosedcurve/
 ---
 {{< psd/tize >}}

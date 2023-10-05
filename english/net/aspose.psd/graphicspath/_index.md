@@ -3,7 +3,7 @@ title: Class GraphicsPath
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.GraphicsPath class. Represents a series of connected lines and curves. This class cannot be inherited
 type: docs
-weight: 4500
+weight: 4510
 url: /net/aspose.psd/graphicspath/
 ---
 {{< psd/tize >}}

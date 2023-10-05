@@ -3,7 +3,7 @@ title: FontSettings.SetFontsFolders
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Sets the folders where TrueType fonts are loaded from and clears all loaded fonts. There are no checks performed on the fonts folders
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd/fontsettings/setfontsfolders/
 ---
 {{< psd/tize >}}

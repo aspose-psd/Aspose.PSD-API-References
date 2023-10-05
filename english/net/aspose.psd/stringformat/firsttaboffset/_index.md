@@ -3,7 +3,7 @@ title: StringFormat.FirstTabOffset
 second_title: Aspose.PSD for .NET API Reference
 description: StringFormat property. Gets the number of spaces between the beginning of a line of text and the first tab stop
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd/stringformat/firsttaboffset/
 ---
 {{< psd/tize >}}

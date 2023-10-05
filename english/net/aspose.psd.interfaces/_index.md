@@ -3,7 +3,7 @@ title: Aspose.PSD.Interfaces
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace handles Tiff file format processing
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.psd.interfaces/
 ---
 {{< psd/tize >}}

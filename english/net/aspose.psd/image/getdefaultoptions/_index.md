@@ -3,7 +3,7 @@ title: Image.GetDefaultOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Gets the default options
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.psd/image/getdefaultoptions/
 ---
 {{< psd/tize >}}

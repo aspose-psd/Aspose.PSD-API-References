@@ -3,7 +3,7 @@ title: Graphics.FillRectangle
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Fills the interior of a rectangle specified by a Rectangle structure
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.psd/graphics/fillrectangle/
 ---
 {{< psd/tize >}}

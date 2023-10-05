@@ -3,13 +3,13 @@ title: Class ImageExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.ImageExtensions class. Contains extension methods for conversions based on Image and Image
 type: docs
-weight: 1120
+weight: 1130
 url: /net/aspose.psd.extensions/imageextensions/
 ---
 {{< psd/tize >}}
 ## ImageExtensions class
 
-Contains extension methods for conversions based on Image and [`Image`](../../aspose.psd/image/).
+Contains extension methods for conversions based on Image and Image.
 
 ```csharp
 public static class ImageExtensions
@@ -19,7 +19,7 @@ public static class ImageExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToGdiImage](../../aspose.psd.extensions/imageextensions/togdiimage/)(Image) | Converts the [`Image`](../../aspose.psd/image/) to the Image. |
+| static [ToGdiImage](../../aspose.psd.extensions/imageextensions/togdiimage/)(Image) | Converts the Image to the Image. |
 
 ### See Also
 

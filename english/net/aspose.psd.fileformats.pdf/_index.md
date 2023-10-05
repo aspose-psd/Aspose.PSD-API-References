@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Pdf
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains classes for PDF file format integration
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.psd.fileformats.pdf/
 ---
 {{< psd/tize >}}

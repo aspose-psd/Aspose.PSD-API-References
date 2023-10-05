@@ -3,7 +3,7 @@ title: Class DitheringMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Dithering.DitheringMode class. Dithering settings to be applied to image upon saving
 type: docs
-weight: 760
+weight: 770
 url: /net/aspose.psd.dithering/ditheringmode/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Graphics.Transform
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics property. Gets or sets a copy of the geometric world transformation for this Graphics
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd/graphics/transform/
 ---
 {{< psd/tize >}}

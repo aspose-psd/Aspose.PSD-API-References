@@ -3,7 +3,7 @@ title: Aspose.PSD.Evalute
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace DIB header processing
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.evalute/
 ---
 {{< psd/tize >}}

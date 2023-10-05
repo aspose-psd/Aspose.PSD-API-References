@@ -3,7 +3,7 @@ title: Image.GetFileFormat
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Gets the file format
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.psd/image/getfileformat/
 ---
 {{< psd/tize >}}

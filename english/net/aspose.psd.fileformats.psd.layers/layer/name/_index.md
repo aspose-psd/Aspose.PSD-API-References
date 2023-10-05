@@ -3,7 +3,7 @@ title: Layer.Name
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the layer name
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.psd.fileformats.psd.layers/layer/name/
 ---
 {{< psd/tize >}}

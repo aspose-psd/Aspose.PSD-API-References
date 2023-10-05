@@ -3,7 +3,7 @@ title: Class MixerChannel
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel class. MixerChannel. Its wrapper for channel raw data. Used in MixrResource
 type: docs
-weight: 1820
+weight: 1830
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
 {{< psd/tize >}}

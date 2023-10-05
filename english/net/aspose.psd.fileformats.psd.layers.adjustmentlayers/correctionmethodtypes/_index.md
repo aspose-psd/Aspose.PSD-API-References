@@ -3,7 +3,7 @@ title: Enum CorrectionMethodTypes
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CorrectionMethodTypes enum. Correction method in selective color adjustment layer
 type: docs
-weight: 1760
+weight: 1770
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/correctionmethodtypes/
 ---
 {{< psd/tize >}}

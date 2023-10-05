@@ -3,7 +3,7 @@ title: Enum SampleRoundingMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Jpeg.SampleRoundingMode enum. Defines a way in which an nbit value is converted to an 8bit value
 type: docs
-weight: 1530
+weight: 1540
 url: /net/aspose.psd.fileformats.jpeg/sampleroundingmode/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Layer.LayerOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets the layer options
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
 {{< psd/tize >}}

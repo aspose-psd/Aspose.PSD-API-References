@@ -3,7 +3,7 @@ title: Class Graphics
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Graphics class. Represents the graphics according to the graphics engine used in the current assembly
 type: docs
-weight: 4490
+weight: 4500
 url: /net/aspose.psd/graphics/
 ---
 {{< psd/tize >}}
@@ -34,6 +34,7 @@ public sealed class Graphics
 | [IsInBeginUpdateCall](../../aspose.psd/graphics/isinbeginupdatecall/) { get; } | Gets a value indicating whether graphics is in BeginUpdate call state. |
 | [PageScale](../../aspose.psd/graphics/pagescale/) { get; set; } | Gets or sets the scaling between world units and page units for this Aspose.PSD.Graphics. |
 | [PageUnit](../../aspose.psd/graphics/pageunit/) { get; set; } | Gets or sets the unit of measure used for page coordinates in this Aspose.PSD.Graphics. |
+| [PaintableImageOptions](../../aspose.psd/graphics/paintableimageoptions/) { get; set; } | Gets or sets image options, used to create paintable vactor images to draw. |
 | [SmoothingMode](../../aspose.psd/graphics/smoothingmode/) { get; set; } | Gets or sets the smoothing mode. |
 | [TextRenderingHint](../../aspose.psd/graphics/textrenderinghint/) { get; set; } | Gets or sets the text rendering hint. |
 | [Transform](../../aspose.psd/graphics/transform/) { get; set; } | Gets or sets a copy of the geometric world transformation for this `Graphics`. |

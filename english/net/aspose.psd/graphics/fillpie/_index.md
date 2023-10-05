@@ -3,7 +3,7 @@ title: Graphics.FillPie
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Fills the interior of a pie section defined by an ellipse specified by a RectangleF structure and two radial lines
 type: docs
-weight: 370
+weight: 380
 url: /net/aspose.psd/graphics/fillpie/
 ---
 {{< psd/tize >}}

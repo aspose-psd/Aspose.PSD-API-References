@@ -3,7 +3,7 @@ title: Region.Union
 second_title: Aspose.PSD for .NET API Reference
 description: Region method. Updates this Region to the union of itself and the specified RectangleF structure
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.psd/region/union/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class MatrixExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.MatrixExtensions class. Contains the Matrix class extensions
 type: docs
-weight: 1130
+weight: 1140
 url: /net/aspose.psd.extensions/matrixextensions/
 ---
 {{< psd/tize >}}

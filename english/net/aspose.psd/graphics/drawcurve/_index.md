@@ -3,7 +3,7 @@ title: Graphics.DrawCurve
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a cardinal spline through a specified array of PointF structures. This method uses a default tension of 0.5
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.psd/graphics/drawcurve/
 ---
 {{< psd/tize >}}

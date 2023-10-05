@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.Text
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains API to manipulate text layers data
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.psd.fileformats.psd.layers.text/
 ---
 {{< psd/tize >}}

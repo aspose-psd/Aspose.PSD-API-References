@@ -3,7 +3,7 @@ title: StringFormat.SetTabStops
 second_title: Aspose.PSD for .NET API Reference
 description: StringFormat method. Sets tab stops for this StringFormat object
 type: docs
-weight: 140
+weight: 170
 url: /net/aspose.psd/stringformat/settabstops/
 ---
 {{< psd/tize >}}

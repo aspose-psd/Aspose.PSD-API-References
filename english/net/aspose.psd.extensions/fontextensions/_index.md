@@ -3,7 +3,7 @@ title: Class FontExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.FontExtensions class. Contains extension methods for the Font class
 type: docs
-weight: 1090
+weight: 1100
 url: /net/aspose.psd.extensions/fontextensions/
 ---
 {{< psd/tize >}}

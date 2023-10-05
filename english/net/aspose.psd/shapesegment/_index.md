@@ -3,7 +3,7 @@ title: Class ShapeSegment
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ShapeSegment class. Represents a shape segment. A segment is a line or curve connecting two points
 type: docs
-weight: 5620
+weight: 5630
 url: /net/aspose.psd/shapesegment/
 ---
 {{< psd/tize >}}

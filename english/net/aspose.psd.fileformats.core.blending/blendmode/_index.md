@@ -3,7 +3,7 @@ title: Enum BlendMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.Blending.BlendMode enum. The layer blend mode
 type: docs
-weight: 1320
+weight: 1330
 url: /net/aspose.psd.fileformats.core.blending/blendmode/
 ---
 {{< psd/tize >}}

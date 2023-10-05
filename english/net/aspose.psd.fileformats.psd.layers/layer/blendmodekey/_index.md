@@ -3,7 +3,7 @@ title: Layer.BlendModeKey
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the blend mode key
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
 {{< psd/tize >}}

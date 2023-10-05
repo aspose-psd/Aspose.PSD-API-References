@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Png
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace handles Png file format processing
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.psd.fileformats.png/
 ---
 {{< psd/tize >}}

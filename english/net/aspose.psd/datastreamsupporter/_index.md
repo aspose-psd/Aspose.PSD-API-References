@@ -3,7 +3,7 @@ title: Class DataStreamSupporter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.DataStreamSupporter class. The data stream container
 type: docs
-weight: 740
+weight: 750
 url: /net/aspose.psd/datastreamsupporter/
 ---
 {{< psd/tize >}}

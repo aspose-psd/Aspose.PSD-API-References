@@ -3,7 +3,7 @@ title: Image.GetProportionalHeight
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Gets a proportional height
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.psd/image/getproportionalheight/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Interface IObjectWithBounds
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IObjectWithBounds interface. Represents an object with bounds
 type: docs
-weight: 4670
+weight: 4680
 url: /net/aspose.psd/iobjectwithbounds/
 ---
 {{< psd/tize >}}

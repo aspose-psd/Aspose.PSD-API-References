@@ -3,7 +3,7 @@ title: Layer.Resources
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the layer resources
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.psd.fileformats.psd.layers/layer/resources/
 ---
 {{< psd/tize >}}

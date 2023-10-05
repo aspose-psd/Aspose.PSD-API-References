@@ -3,7 +3,7 @@ title: Layer.Filler
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the layer filler
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Image.SetPalette
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Sets the image palette
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.psd/image/setpalette/
 ---
 {{< psd/tize >}}

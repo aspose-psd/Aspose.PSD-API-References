@@ -3,7 +3,7 @@ title: StringFormat.TabStops
 second_title: Aspose.PSD for .NET API Reference
 description: StringFormat property. Gets an array of distances between tab stops in the units specified by the PageUnit property
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd/stringformat/tabstops/
 ---
 {{< psd/tize >}}

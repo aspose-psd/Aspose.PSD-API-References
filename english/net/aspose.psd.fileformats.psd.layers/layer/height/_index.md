@@ -3,7 +3,7 @@ title: Layer.Height
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets the image height
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.psd.fileformats.psd.layers/layer/height/
 ---
 {{< psd/tize >}}
