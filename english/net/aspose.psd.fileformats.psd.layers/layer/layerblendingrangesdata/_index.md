@@ -3,7 +3,7 @@ title: Layer.LayerBlendingRangesData
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the layer blending ranges data
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 ---
 {{< psd/tize >}}

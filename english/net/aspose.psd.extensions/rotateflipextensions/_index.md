@@ -3,7 +3,7 @@ title: Class RotateFlipExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.RotateFlipExtensions class. Contains extension methods for conversion the RotateFlipType and the RotateFlipType classes
 type: docs
-weight: 1180
+weight: 1190
 url: /net/aspose.psd.extensions/rotateflipextensions/
 ---
 {{< psd/tize >}}

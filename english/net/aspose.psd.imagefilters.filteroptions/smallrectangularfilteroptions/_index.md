@@ -3,7 +3,7 @@ title: Class SmallRectangularFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions class. Small rectangular filter options
 type: docs
-weight: 4930
+weight: 4940
 url: /net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
 {{< psd/tize >}}

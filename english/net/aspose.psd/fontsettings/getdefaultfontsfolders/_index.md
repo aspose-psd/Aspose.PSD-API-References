@@ -3,7 +3,7 @@ title: FontSettings.GetDefaultFontsFolders
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Gets the default fonts folders
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
 {{< psd/tize >}}

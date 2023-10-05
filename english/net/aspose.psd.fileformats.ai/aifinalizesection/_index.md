@@ -3,7 +3,7 @@ title: Class AiFinalizeSection
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection class. The Ai format Finalize Section
 type: docs
-weight: 1230
+weight: 1240
 url: /net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
 {{< psd/tize >}}

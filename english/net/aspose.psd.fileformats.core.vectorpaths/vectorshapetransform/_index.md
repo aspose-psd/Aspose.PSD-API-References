@@ -3,7 +3,7 @@ title: Class VectorShapeTransform
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeTransform class. Defines vector shape transformation matrix class
 type: docs
-weight: 1460
+weight: 1470
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/
 ---
 {{< psd/tize >}}

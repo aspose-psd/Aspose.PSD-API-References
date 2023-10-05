@@ -3,7 +3,7 @@ title: Class RenditionClass
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Derived.RenditionClass class. Represents the XMP Rendition
 type: docs
-weight: 6320
+weight: 6330
 url: /net/aspose.psd.xmp.types.derived/renditionclass/
 ---
 {{< psd/tize >}}

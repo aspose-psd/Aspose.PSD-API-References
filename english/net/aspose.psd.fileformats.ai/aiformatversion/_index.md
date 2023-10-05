@@ -3,7 +3,7 @@ title: Enum AiFormatVersion
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Ai.AiFormatVersion enum. The Adobe Illustrator Version
 type: docs
-weight: 1240
+weight: 1250
 url: /net/aspose.psd.fileformats.ai/aiformatversion/
 ---
 {{< psd/tize >}}

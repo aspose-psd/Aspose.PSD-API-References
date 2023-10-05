@@ -3,7 +3,7 @@ title: Class ClipboardRecord
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord class. Clipboard Record Class
 type: docs
-weight: 1340
+weight: 1350
 url: /net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Graphics.FillPath
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Fills the interior of a GraphicsPath
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.psd/graphics/fillpath/
 ---
 {{< psd/tize >}}

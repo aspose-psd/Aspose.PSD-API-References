@@ -3,7 +3,7 @@ title: Class BaseFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings class. Base fill effect settings
 type: docs
-weight: 1990
+weight: 2000
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
 {{< psd/tize >}}

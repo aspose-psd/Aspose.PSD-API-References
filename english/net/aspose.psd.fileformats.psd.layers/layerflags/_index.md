@@ -3,7 +3,7 @@ title: Enum LayerFlags
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerFlags enum. The layer flags
 type: docs
-weight: 2290
+weight: 2300
 url: /net/aspose.psd.fileformats.psd.layers/layerflags/
 ---
 {{< psd/tize >}}

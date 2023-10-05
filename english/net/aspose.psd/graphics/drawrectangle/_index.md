@@ -3,7 +3,7 @@ title: Graphics.DrawRectangle
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a rectangle specified by a RectangleF structure
 type: docs
-weight: 300
+weight: 310
 url: /net/aspose.psd/graphics/drawrectangle/
 ---
 {{< psd/tize >}}

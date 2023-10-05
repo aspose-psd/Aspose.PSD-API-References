@@ -3,7 +3,7 @@ title: Graphics.DrawRectangles
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a series of rectangles specified by RectangleF structures
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.psd/graphics/drawrectangles/
 ---
 {{< psd/tize >}}

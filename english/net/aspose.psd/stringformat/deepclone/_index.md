@@ -3,7 +3,7 @@ title: StringFormat.DeepClone
 second_title: Aspose.PSD for .NET API Reference
 description: StringFormat method. Creates a deep clone of this StringFormat object
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd/stringformat/deepclone/
 ---
 {{< psd/tize >}}

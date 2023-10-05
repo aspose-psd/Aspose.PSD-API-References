@@ -3,7 +3,7 @@ title: Class PsdImage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.PsdImage class. Defines the PsdImage class that provides the ability to load edit save PSD files as well as update properties add watermarks perform graphics operations or convert one file format to another. Aspose.PSD supports import as a layer and export to the following formats Png Jpeg Jpeg2000 Gif Bmp Tiff Psd Psb along with export to Pdf with selectable text
 type: docs
-weight: 3770
+weight: 3780
 url: /net/aspose.psd.fileformats.psd/psdimage/
 ---
 {{< psd/tize >}}
@@ -79,6 +79,7 @@ public sealed class PsdImage : RasterCachedImage
 | [Timeline](../../aspose.psd.fileformats.psd/psdimage/timeline/) { get; } | Gets the [`Timeline`](./timeline/) of this `PsdImage`. |
 | virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | Gets the image transparent color. |
 | virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | Gets or sets a value indicating whether to update the XMP metadata. |
+| virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | Gets a value indicating whether the image palette is used. |
 | virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | Gets or sets a value indicating whether to use raw data loading when the raw data loading is available. |
 | [Version](../../aspose.psd.fileformats.psd/psdimage/version/) { get; set; } | Gets or sets the version. |
 | override [VerticalResolution](../../aspose.psd.fileformats.psd/psdimage/verticalresolution/) { get; set; } | Gets or sets the vertical resolution, in pixels per inch, of this `PsdImage`. |
@@ -154,13 +155,13 @@ public sealed class PsdImage : RasterCachedImage
 | override [ReplaceColor](../../aspose.psd.fileformats.psd/psdimage/replacecolor/#replacecolor_1)(int, byte, int) | Replaces one color to another with allowed difference and preserves original alpha value to save smooth edges. |
 | [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(Color) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges. Note: if you use it on images without transparency, all colors will be replaced with a single one. |
 | override [ReplaceNonTransparentColors](../../aspose.psd.fileformats.psd/psdimage/replacenontransparentcolors/#replacenontransparentcolors_1)(int) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges. Note: if you use it on images without transparency, all colors will be replaced with a single one. |
-| [Resize](../../aspose.psd/image/resize/)(int, int) | Resizes the image. The default LeftTopToLeftTop is used. |
+| [Resize](../../aspose.psd/image/resize/)(int, int) | Resizes the image. The default NearestNeighbourResample is used. |
 | override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ImageResizeSettings) | Resizes the image. |
 | override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ResizeType) | Resizes the image. |
 | [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | Resizes the height proportionally. |
 | override [ResizeHeightProportionally](../../aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/#resizeheightproportionally_1)(int, ImageResizeSettings) | Resizes the height proportionally. |
 | override [ResizeHeightProportionally](../../aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/#resizeheightproportionally_2)(int, ResizeType) | Resizes the height proportionally. |
-| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Resizes the width proportionally. |
+| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Resizes the width proportionally. The default NearestNeighbourResample is used. |
 | override [ResizeWidthProportionally](../../aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/#resizewidthproportionally_1)(int, ImageResizeSettings) | Resizes the width proportionally. |
 | override [ResizeWidthProportionally](../../aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/#resizewidthproportionally_2)(int, ResizeType) | Resizes the width proportionally. |
 | override [Rotate](../../aspose.psd.fileformats.psd/psdimage/rotate/#rotate)(float) | Rotate image around the center. |

@@ -3,7 +3,7 @@ title: Class Namespaces
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Namespaces class. Contains namespaces used in RDF document
 type: docs
-weight: 5960
+weight: 5970
 url: /net/aspose.psd.xmp/namespaces/
 ---
 {{< psd/tize >}}

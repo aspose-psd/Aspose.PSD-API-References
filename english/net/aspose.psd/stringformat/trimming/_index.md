@@ -3,7 +3,7 @@ title: StringFormat.Trimming
 second_title: Aspose.PSD for .NET API Reference
 description: StringFormat property. Gets or sets the StringTrimming enumeration for this StringFormat object
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.psd/stringformat/trimming/
 ---
 {{< psd/tize >}}

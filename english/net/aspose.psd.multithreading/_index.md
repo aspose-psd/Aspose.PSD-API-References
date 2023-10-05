@@ -3,7 +3,7 @@ title: Aspose.PSD.Multithreading
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains Multithreading classes
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.psd.multithreading/
 ---
 {{< psd/tize >}}

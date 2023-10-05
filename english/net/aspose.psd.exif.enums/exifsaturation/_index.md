@@ -3,7 +3,7 @@ title: Enum ExifSaturation
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifSaturation enum. exif saturation enum
 type: docs
-weight: 920
+weight: 930
 url: /net/aspose.psd.exif.enums/exifsaturation/
 ---
 {{< psd/tize >}}

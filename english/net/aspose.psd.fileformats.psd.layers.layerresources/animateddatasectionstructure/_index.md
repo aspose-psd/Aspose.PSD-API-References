@@ -3,7 +3,7 @@ title: Class AnimatedDataSectionStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure class. The section with animated data
 type: docs
-weight: 2380
+weight: 2390
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
 {{< psd/tize >}}

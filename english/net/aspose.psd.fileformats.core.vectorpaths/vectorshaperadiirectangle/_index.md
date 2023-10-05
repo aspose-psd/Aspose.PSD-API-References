@@ -3,7 +3,7 @@ title: Class VectorShapeRadiiRectangle
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle class. Defines vector shape radii rectangle class
 type: docs
-weight: 1450
+weight: 1460
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
 {{< psd/tize >}}

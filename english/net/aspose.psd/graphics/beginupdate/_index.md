@@ -3,7 +3,7 @@ title: Graphics.BeginUpdate
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Starts caching of the following graphics operations. The graphics effects applied afterwards will not be applied immediately instead the EndUpdate will cause applying all the effects at once
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.psd/graphics/beginupdate/
 ---
 {{< psd/tize >}}

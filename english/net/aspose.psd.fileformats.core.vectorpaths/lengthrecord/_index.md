@@ -3,7 +3,7 @@ title: Class LengthRecord
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.LengthRecord class. Subpath Length Record Class
 type: docs
-weight: 1370
+weight: 1380
 url: /net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/
 ---
 {{< psd/tize >}}

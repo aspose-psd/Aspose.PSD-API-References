@@ -3,7 +3,7 @@ title: Class Figure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Figure class. The figure. A container for shapes
 type: docs
-weight: 1200
+weight: 1210
 url: /net/aspose.psd/figure/
 ---
 {{< psd/tize >}}

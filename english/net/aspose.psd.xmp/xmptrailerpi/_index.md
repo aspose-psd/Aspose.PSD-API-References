@@ -3,7 +3,7 @@ title: Class XmpTrailerPi
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpTrailerPi class. Represents XMP trailer processing instruction
 type: docs
-weight: 6500
+weight: 6510
 url: /net/aspose.psd.xmp/xmptrailerpi/
 ---
 {{< psd/tize >}}

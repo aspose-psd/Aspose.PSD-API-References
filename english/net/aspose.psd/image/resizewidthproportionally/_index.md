@@ -1,15 +1,15 @@
 ---
 title: Image.ResizeWidthProportionally
 second_title: Aspose.PSD for .NET API Reference
-description: Image method. Resizes the width proportionally
+description: Image method. Resizes the width proportionally. The default NearestNeighbourResample is used
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.psd/image/resizewidthproportionally/
 ---
 {{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-Resizes the width proportionally.
+Resizes the width proportionally. The default NearestNeighbourResample is used.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)

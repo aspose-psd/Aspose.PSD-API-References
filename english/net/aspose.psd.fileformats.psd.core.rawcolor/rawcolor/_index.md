@@ -3,7 +3,7 @@ title: Class RawColor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Core.RawColor.RawColor class. Raw Color Class helps to store colors with any channels count any color mode and any bit depth Please note some internal classes can have issues with converting RawColor to its native format so if API provides for you CMYK color its more reliable to use the provided format. Also there are can be some cases when Raw Color can be converted
 type: docs
-weight: 1640
+weight: 1650
 url: /net/aspose.psd.fileformats.psd.core.rawcolor/rawcolor/
 ---
 {{< psd/tize >}}

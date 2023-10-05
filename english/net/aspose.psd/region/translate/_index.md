@@ -3,7 +3,7 @@ title: Region.Translate
 second_title: Aspose.PSD for .NET API Reference
 description: Region method. Offsets the coordinates of this Region by the specified amount
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd/region/translate/
 ---
 {{< psd/tize >}}

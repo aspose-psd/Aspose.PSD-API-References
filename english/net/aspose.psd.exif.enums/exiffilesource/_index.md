@@ -3,7 +3,7 @@ title: Enum ExifFileSource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifFileSource enum. exif file source enum
 type: docs
-weight: 850
+weight: 860
 url: /net/aspose.psd.exif.enums/exiffilesource/
 ---
 {{< psd/tize >}}

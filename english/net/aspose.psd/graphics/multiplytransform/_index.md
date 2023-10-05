@@ -3,7 +3,7 @@ title: Graphics.MultiplyTransform
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Multiplies the Matrix that represents the local geometric transform of this Graphics by the specified Matrix by prepending the specified Matrix
 type: docs
-weight: 420
+weight: 430
 url: /net/aspose.psd/graphics/multiplytransform/
 ---
 {{< psd/tize >}}

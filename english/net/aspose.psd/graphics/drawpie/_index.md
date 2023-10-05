@@ -3,7 +3,7 @@ title: Graphics.DrawPie
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a pie shape defined by an ellipse specified by a RectangleF structure and two radial lines
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.psd/graphics/drawpie/
 ---
 {{< psd/tize >}}

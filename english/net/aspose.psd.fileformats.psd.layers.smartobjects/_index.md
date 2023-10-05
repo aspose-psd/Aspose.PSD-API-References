@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains API to manipulate smart object layer data
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/
 ---
 {{< psd/tize >}}

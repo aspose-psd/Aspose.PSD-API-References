@@ -3,7 +3,7 @@ title: Class FontSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FontSettings class. General PSD vector formats renderer font settings
 type: docs
-weight: 4470
+weight: 4480
 url: /net/aspose.psd/fontsettings/
 ---
 {{< psd/tize >}}
@@ -20,6 +20,7 @@ public static class FontSettings
 | Name | Description |
 | --- | --- |
 | static [DefaultFontName](../../aspose.psd/fontsettings/defaultfontname/) { get; set; } | Gets or sets the default name of the font. |
+| static [GetSystemAlternativeFont](../../aspose.psd/fontsettings/getsystemalternativefont/) { get; set; } | Gets or sets a value indicating whether [get alternative font]. |
 
 ## Methods
 

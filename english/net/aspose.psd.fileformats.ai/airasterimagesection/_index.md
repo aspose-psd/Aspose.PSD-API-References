@@ -3,7 +3,7 @@ title: Class AiRasterImageSection
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection class. The AI Raster Image Section
 type: docs
-weight: 1280
+weight: 1290
 url: /net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
 {{< psd/tize >}}

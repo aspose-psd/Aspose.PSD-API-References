@@ -3,7 +3,7 @@ title: Graphics.ResetTransform
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Resets the Transform property to identity
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.psd/graphics/resettransform/
 ---
 {{< psd/tize >}}

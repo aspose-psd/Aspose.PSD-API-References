@@ -3,7 +3,7 @@ title: Class ColorMapExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.ColorMapExtensions class. The ColorMap extension methods
 type: docs
-weight: 1060
+weight: 1070
 url: /net/aspose.psd.extensions/colormapextensions/
 ---
 {{< psd/tize >}}

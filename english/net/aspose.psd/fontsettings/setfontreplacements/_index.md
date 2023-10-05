@@ -3,7 +3,7 @@ title: FontSettings.SetFontReplacements
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Sets the font replacement list. If font is not allowed then will be find replacement. The first one font in list will be used first. If it retricted too then will be selected next font from list. If font has not replacements or all replacements are not allowed then will be used first allowed font from allowed font list. If there are no allowed and available fonts then library will try use system default font even if it is not allowed
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd/fontsettings/setfontreplacements/
 ---
 {{< psd/tize >}}

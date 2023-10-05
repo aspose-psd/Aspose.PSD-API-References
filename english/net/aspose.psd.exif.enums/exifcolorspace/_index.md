@@ -3,7 +3,7 @@ title: Enum ExifColorSpace
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifColorSpace enum. exif color space enum
 type: docs
-weight: 800
+weight: 810
 url: /net/aspose.psd.exif.enums/exifcolorspace/
 ---
 {{< psd/tize >}}

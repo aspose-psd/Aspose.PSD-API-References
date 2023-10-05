@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Tiff.FileManagement
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains Tiff file format stream handling classes
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.psd.fileformats.tiff.filemanagement/
 ---
 {{< psd/tize >}}

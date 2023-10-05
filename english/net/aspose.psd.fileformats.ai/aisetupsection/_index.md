@@ -3,7 +3,7 @@ title: Class AiSetupSection
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Ai.AiSetupSection class. The Ai format Setup Section
 type: docs
-weight: 1300
+weight: 1310
 url: /net/aspose.psd.fileformats.ai/aisetupsection/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Layer.Width
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets the image width
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.psd.fileformats.psd.layers/layer/width/
 ---
 {{< psd/tize >}}

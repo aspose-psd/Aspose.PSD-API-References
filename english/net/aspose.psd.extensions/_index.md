@@ -3,7 +3,7 @@ title: Aspose.PSD.Extensions
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains extension methods
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd.extensions/
 ---
 {{< psd/tize >}}
@@ -22,7 +22,7 @@ The namespace contains extension methods.
 | [FontExtensions](./fontextensions/) | Contains extension methods for the [`Font`](../aspose.psd/font/) class. |
 | [GraphicsPathExtensions](./graphicspathextensions/) | Contains the [`GraphicsPath`](../aspose.psd/graphicspath/) extension methods. |
 | [ImageAttributesExtensions](./imageattributesextensions/) | Contains extension methods for [`ImageAttributes`](../aspose.psd/imageattributes/) and ImageAttributes. |
-| [ImageExtensions](./imageextensions/) | Contains extension methods for conversions based on Image and [`Image`](../aspose.psd/image/). |
+| [ImageExtensions](./imageextensions/) | Contains extension methods for conversions based on Image and Image. |
 | [MatrixExtensions](./matrixextensions/) | Contains the [`Matrix`](../aspose.psd/matrix/) class extensions. |
 | [PenExtensions](./penextensions/) | Contains extension methods for [`Pen`](../aspose.psd/pen/) and Pen. |
 | [PointExtensions](./pointextensions/) | Contains extension methods for [`Point`](../aspose.psd/point/) and [`PointF`](../aspose.psd/pointf/) structures. |

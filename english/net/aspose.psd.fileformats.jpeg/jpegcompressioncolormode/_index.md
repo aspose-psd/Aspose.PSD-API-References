@@ -3,7 +3,7 @@ title: Enum JpegCompressionColorMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode enum. Сolor mode for jpeg images
 type: docs
-weight: 1490
+weight: 1500
 url: /net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 ---
 {{< psd/tize >}}

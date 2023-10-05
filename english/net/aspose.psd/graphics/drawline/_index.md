@@ -3,7 +3,7 @@ title: Graphics.DrawLine
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws a line connecting two Point structures
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.psd/graphics/drawline/
 ---
 {{< psd/tize >}}

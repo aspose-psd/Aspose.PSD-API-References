@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Schemas.Photoshop
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains related helper classes constants and methods used by Adobe Photoshop
 type: docs
-weight: 570
+weight: 580
 url: /net/aspose.psd.xmp.schemas.photoshop/
 ---
 {{< psd/tize >}}

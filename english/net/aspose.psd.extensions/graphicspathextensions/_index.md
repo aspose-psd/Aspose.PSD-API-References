@@ -3,7 +3,7 @@ title: Class GraphicsPathExtensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Extensions.GraphicsPathExtensions class. Contains the GraphicsPath extension methods
 type: docs
-weight: 1100
+weight: 1110
 url: /net/aspose.psd.extensions/graphicspathextensions/
 ---
 {{< psd/tize >}}

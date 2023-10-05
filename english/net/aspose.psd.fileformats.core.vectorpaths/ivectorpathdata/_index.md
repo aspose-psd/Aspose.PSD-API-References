@@ -3,7 +3,7 @@ title: Interface IVectorPathData
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData interface. The interface for access to the vector path data
 type: docs
-weight: 1350
+weight: 1360
 url: /net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/
 ---
 {{< psd/tize >}}

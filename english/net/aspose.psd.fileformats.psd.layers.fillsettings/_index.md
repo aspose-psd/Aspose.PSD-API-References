@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.FillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains Fill Layers Settings
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/
 ---
 {{< psd/tize >}}

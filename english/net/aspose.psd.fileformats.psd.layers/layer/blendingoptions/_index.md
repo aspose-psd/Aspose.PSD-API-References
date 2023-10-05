@@ -3,7 +3,7 @@ title: Layer.BlendingOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets the blending options
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
 {{< psd/tize >}}

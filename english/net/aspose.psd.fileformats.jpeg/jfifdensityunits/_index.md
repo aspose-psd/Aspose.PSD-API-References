@@ -3,7 +3,7 @@ title: Enum JfifDensityUnits
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits enum. The jfif density units
 type: docs
-weight: 1480
+weight: 1490
 url: /net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 ---
 {{< psd/tize >}}

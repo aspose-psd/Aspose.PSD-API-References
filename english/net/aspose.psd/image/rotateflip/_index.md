@@ -3,7 +3,7 @@ title: Image.RotateFlip
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Rotates flips or rotates and flips the image
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.psd/image/rotateflip/
 ---
 {{< psd/tize >}}

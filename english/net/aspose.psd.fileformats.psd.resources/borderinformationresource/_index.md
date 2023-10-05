@@ -3,7 +3,7 @@ title: Class BorderInformationResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.BorderInformationResource class. The resource with border information of image print settings
 type: docs
-weight: 3830
+weight: 3840
 url: /net/aspose.psd.fileformats.psd.resources/borderinformationresource/
 ---
 {{< psd/tize >}}

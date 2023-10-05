@@ -3,7 +3,7 @@ title: Enum JpegCompressionMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode enum. Compression mode for jpeg images
 type: docs
-weight: 1500
+weight: 1510
 url: /net/aspose.psd.fileformats.jpeg/jpegcompressionmode/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum ExifGPSAltitudeRef
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef enum. exif gps altitude ref enum
 type: docs
-weight: 870
+weight: 880
 url: /net/aspose.psd.exif.enums/exifgpsaltituderef/
 ---
 {{< psd/tize >}}

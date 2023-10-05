@@ -3,7 +3,7 @@ title: StringFormat.LineAlignment
 second_title: Aspose.PSD for .NET API Reference
 description: StringFormat property. Gets or sets the line alignment on the horizontal plane
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd/stringformat/linealignment/
 ---
 {{< psd/tize >}}

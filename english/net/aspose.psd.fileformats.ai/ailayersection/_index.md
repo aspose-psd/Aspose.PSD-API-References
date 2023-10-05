@@ -3,7 +3,7 @@ title: Class AiLayerSection
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Ai.AiLayerSection class. The Ai format Layer Section
 type: docs
-weight: 1270
+weight: 1280
 url: /net/aspose.psd.fileformats.ai/ailayersection/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class VectorShapeBoundingBox
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox class. Defines vector shape bounding box class
 type: docs
-weight: 1430
+weight: 1440
 url: /net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
 {{< psd/tize >}}

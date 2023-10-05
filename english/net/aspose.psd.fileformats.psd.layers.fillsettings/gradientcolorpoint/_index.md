@@ -3,7 +3,7 @@ title: Class GradientColorPoint
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint class. The Gradient Color Point
 type: docs
-weight: 2020
+weight: 2030
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
 {{< psd/tize >}}

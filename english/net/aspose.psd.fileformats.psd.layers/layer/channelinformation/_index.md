@@ -3,7 +3,7 @@ title: Layer.ChannelInformation
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the channel information
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers/layer/channelinformation/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Layer.Right
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets or sets the right layer position
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
 {{< psd/tize >}}

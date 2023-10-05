@@ -3,7 +3,7 @@ title: Class PolygonShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Shapes.PolygonShape class. Represents a polygon shape
 type: docs
-weight: 5700
+weight: 5710
 url: /net/aspose.psd.shapes/polygonshape/
 ---
 {{< psd/tize >}}

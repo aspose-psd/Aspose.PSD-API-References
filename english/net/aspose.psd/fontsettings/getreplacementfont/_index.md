@@ -3,7 +3,7 @@ title: FontSettings.GetReplacementFont
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Gets the most suitable replacement font. If all replacements are not allowed then will returned first allowed and available font. If there are no available fonts then will be returned font from argument
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd/fontsettings/getreplacementfont/
 ---
 {{< psd/tize >}}

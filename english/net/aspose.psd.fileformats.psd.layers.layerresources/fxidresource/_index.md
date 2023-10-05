@@ -3,7 +3,7 @@ title: Class FXidResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FXidResource class. The Filter Effects resource contains channels a user mask and a sheet mask for the smart filter
 type: docs
-weight: 2540
+weight: 2550
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
 {{< psd/tize >}}

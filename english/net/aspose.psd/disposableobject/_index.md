@@ -3,7 +3,7 @@ title: Class DisposableObject
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.DisposableObject class. Represents disposable object
 type: docs
-weight: 750
+weight: 760
 url: /net/aspose.psd/disposableobject/
 ---
 {{< psd/tize >}}

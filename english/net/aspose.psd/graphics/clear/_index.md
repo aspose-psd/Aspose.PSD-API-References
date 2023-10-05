@@ -3,7 +3,7 @@ title: Graphics.Clear
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Clears the graphics surface using the specified color
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd/graphics/clear/
 ---
 {{< psd/tize >}}

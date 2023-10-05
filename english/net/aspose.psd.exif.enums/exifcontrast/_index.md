@@ -3,7 +3,7 @@ title: Enum ExifContrast
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifContrast enum. exif normal soft hard enum
 type: docs
-weight: 810
+weight: 820
 url: /net/aspose.psd.exif.enums/exifcontrast/
 ---
 {{< psd/tize >}}

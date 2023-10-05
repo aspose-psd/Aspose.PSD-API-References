@@ -3,7 +3,7 @@ title: FontSettings.GetAdobeFontName
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Gets the adobe font name by font family name
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd/fontsettings/getadobefontname/
 ---
 {{< psd/tize >}}

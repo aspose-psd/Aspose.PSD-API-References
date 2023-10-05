@@ -3,7 +3,7 @@ title: Graphics.DrawImageUnscaledAndClipped
 second_title: Aspose.PSD for .NET API Reference
 description: Graphics method. Draws the specified image without scaling and clips it if necessary to fit in the specified rectangle
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.psd/graphics/drawimageunscaledandclipped/
 ---
 {{< psd/tize >}}

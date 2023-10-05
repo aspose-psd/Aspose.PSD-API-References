@@ -3,7 +3,7 @@ title: Image.Resize
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Resizes the image
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.psd/image/resize/
 ---
 {{< psd/tize >}}
@@ -32,7 +32,7 @@ public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 ## Resize(int, int) {#resize}
 
-Resizes the image. The default LeftTopToLeftTop is used.
+Resizes the image. The default NearestNeighbourResample is used.
 
 ```csharp
 public void Resize(int newWidth, int newHeight)

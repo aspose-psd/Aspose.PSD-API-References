@@ -3,7 +3,7 @@ title: Class TiffDataTypeController
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.TiffDataTypeController class. Represents general class for working with tiff data types
 type: docs
-weight: 1020
+weight: 1030
 url: /net/aspose.psd.exif/tiffdatatypecontroller/
 ---
 {{< psd/tize >}}

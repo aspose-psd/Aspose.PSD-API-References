@@ -3,7 +3,7 @@ title: Enum BitmapCompression
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Bmp.BitmapCompression enum. Specifies different bitmap compression methods
 type: docs
-weight: 1310
+weight: 1320
 url: /net/aspose.psd.fileformats.bmp/bitmapcompression/
 ---
 {{< psd/tize >}}

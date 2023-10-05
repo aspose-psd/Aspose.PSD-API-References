@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Jpeg
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace handles Jpeg file format processing
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.psd.fileformats.jpeg/
 ---
 {{< psd/tize >}}

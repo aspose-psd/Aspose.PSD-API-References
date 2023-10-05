@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Core.RawColor
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains PSD RawColor Class hierarchy including ColorComponent
 type: docs
-weight: 210
+weight: 220
 url: /net/aspose.psd.fileformats.psd.core.rawcolor/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Layer.IsVisibleInGroup
 second_title: Aspose.PSD for .NET API Reference
 description: Layer property. Gets a value indicating whether this instance is visible in groupIf layer is not in group it means root group
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/
 ---
 {{< psd/tize >}}

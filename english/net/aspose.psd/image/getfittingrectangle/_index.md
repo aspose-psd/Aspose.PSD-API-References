@@ -3,7 +3,7 @@ title: Image.GetFittingRectangle
 second_title: Aspose.PSD for .NET API Reference
 description: Image method. Gets rectangle which fits the current image
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.psd/image/getfittingrectangle/
 ---
 {{< psd/tize >}}

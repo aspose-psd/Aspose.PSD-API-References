@@ -3,7 +3,7 @@ title: Enum PngColorType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Png.PngColorType enum. Represents the PNG image color type
 type: docs
-weight: 1580
+weight: 1590
 url: /net/aspose.psd.fileformats.png/pngcolortype/
 ---
 {{< psd/tize >}}

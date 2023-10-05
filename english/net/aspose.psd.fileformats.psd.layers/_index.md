@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains PSD file format layers
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.psd.fileformats.psd.layers/
 ---
 {{< psd/tize >}}

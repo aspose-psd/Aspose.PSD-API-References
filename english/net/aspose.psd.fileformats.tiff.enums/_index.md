@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Tiff.Enums
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains Tiff file format enumerations
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.psd.fileformats.tiff.enums/
 ---
 {{< psd/tize >}}

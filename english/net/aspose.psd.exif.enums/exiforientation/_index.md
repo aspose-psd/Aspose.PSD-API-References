@@ -3,7 +3,7 @@ title: Enum ExifOrientation
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Exif.Enums.ExifOrientation enum. Exif image orientation
 type: docs
-weight: 910
+weight: 920
 url: /net/aspose.psd.exif.enums/exiforientation/
 ---
 {{< psd/tize >}}

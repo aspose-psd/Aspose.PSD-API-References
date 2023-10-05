@@ -3,7 +3,7 @@ title: Aspose.PSD.Exif.Enums
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains EXIF enumerations
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd.exif.enums/
 ---
 {{< psd/tize >}}
