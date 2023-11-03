@@ -3,7 +3,7 @@ title: VstkResource.StrokeEnabled
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets a value indicating whether stroke effect enabled
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/
 ---
 {{< psd/tize >}}

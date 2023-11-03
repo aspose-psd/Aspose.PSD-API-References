@@ -3,7 +3,7 @@ title: PatternFillSettings.Scale
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets the scale
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
 {{< psd/tize >}}

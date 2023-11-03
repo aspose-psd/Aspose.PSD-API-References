@@ -3,7 +3,7 @@ title: PatternFillSettings.AlignWithLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets a value indicating whether link with layer
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
 {{< psd/tize >}}

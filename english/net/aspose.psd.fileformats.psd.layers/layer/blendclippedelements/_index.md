@@ -19,6 +19,25 @@ public bool BlendClippedElements { get; set; }
 
 The blending of clipped element.
 
+## Examples
+
+The following code demonstrates
+
+```csharp
+[C#]
+
+string sourceFile = "example_source.psd";
+string outputPsd = "example_output.psd";
+string outputPng = "example_output.png";
+
+using (var image = (PsdImage)Image.Load(sourceFile))
+{
+    image.Layers[1].BlendClippedElements = false;
+    image.Save(outputPsd);
+    image.Save(outputPng, new PngOptions());
+}
+```
+
 ### See Also
 
 * class [Layer](../)

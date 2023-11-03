@@ -3,7 +3,7 @@ title: PatternFillSettings.VerticalOffset
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets the vertical offset
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/
 ---
 {{< psd/tize >}}

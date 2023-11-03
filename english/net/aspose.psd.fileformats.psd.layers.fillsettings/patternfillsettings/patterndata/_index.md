@@ -3,7 +3,7 @@ title: PatternFillSettings.PatternData
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets the pattern data
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/
 ---
 {{< psd/tize >}}

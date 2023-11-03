@@ -3,7 +3,7 @@ title: ShapeLayer.Update
 second_title: Aspose.PSD for .NET API Reference
 description: ShapeLayer method. Updates resources from Shape layer properties
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers/shapelayer/update/
 ---
 {{< psd/tize >}}

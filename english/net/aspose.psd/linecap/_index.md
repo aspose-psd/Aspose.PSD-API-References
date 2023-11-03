@@ -3,7 +3,7 @@ title: Enum LineCap
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.LineCap enum. Specifies the available cap styles with which a Pen object can end a line
 type: docs
-weight: 5260
+weight: 5280
 url: /net/aspose.psd/linecap/
 ---
 {{< psd/tize >}}

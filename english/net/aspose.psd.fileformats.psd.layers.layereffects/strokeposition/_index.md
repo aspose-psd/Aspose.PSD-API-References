@@ -3,7 +3,7 @@ title: Enum StrokePosition
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition enum. The position setting controls the alignment of your stroke to the layer its applied to in the StrokeEffect
 type: docs
-weight: 2290
+weight: 2300
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/strokeposition/
 ---
 {{< psd/tize >}}

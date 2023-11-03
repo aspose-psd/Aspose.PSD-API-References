@@ -35,6 +35,7 @@ The namespace contains PSD file format layers.
 | --- | --- |
 | [IGradientColorPoint](./igradientcolorpoint/) | Base interface for fill settings |
 | [ILayerResourceLoader](./ilayerresourceloader/) | The layer resource loader. |
+| [IShapeLayer](./ishapelayer/) | Describes the properties of Shape layer. |
 ## Enumeration
 
 | Enumeration | Description |

@@ -3,7 +3,7 @@ title: PatternFillSettings.Color
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets the color
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/
 ---
 {{< psd/tize >}}

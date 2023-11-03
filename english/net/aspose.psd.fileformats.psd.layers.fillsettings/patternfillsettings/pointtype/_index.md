@@ -3,7 +3,7 @@ title: PatternFillSettings.PointType
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets the type of the point
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/
 ---
 {{< psd/tize >}}

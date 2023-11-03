@@ -3,7 +3,7 @@ title: Class WatermarkResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.WatermarkResource class. Watermark resource
 type: docs
-weight: 4160
+weight: 4180
 url: /net/aspose.psd.fileformats.psd.resources/watermarkresource/
 ---
 {{< psd/tize >}}

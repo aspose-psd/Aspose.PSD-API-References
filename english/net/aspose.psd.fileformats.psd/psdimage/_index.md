@@ -3,7 +3,7 @@ title: Class PsdImage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.PsdImage class. Defines the PsdImage class that provides the ability to load edit save PSD files as well as update properties add watermarks perform graphics operations or convert one file format to another. Aspose.PSD supports import as a layer and export to the following formats Png Jpeg Jpeg2000 Gif Bmp Tiff Psd Psb along with export to Pdf with selectable text
 type: docs
-weight: 3780
+weight: 3800
 url: /net/aspose.psd.fileformats.psd/psdimage/
 ---
 {{< psd/tize >}}
@@ -183,7 +183,7 @@ public sealed class PsdImage : RasterCachedImage
 | [SetArgb32Pixel](../../aspose.psd/rasterimage/setargb32pixel/)(int, int, int) | Sets an image 32-bit ARGB pixel for the specified position. |
 | override [SetPalette](../../aspose.psd/rasterimage/setpalette/)(IColorPalette, bool) | Sets the image palette. |
 | [SetPixel](../../aspose.psd/rasterimage/setpixel/)(int, int, Color) | Sets an image pixel for the specified position. |
-| virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | Sets the resolution for this [`RasterImage`](../../aspose.psd/rasterimage/). |
+| override [SetResolution](../../aspose.psd.fileformats.psd/psdimage/setresolution/)(double, double) | Sets the resolution for this `PsdImage`. |
 | virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | Converts raster image to the bitmap. |
 | [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | Writes the whole scan line to the specified scan line index. |
 | [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | Writes the whole scan line to the specified scan line index. |

@@ -3,7 +3,7 @@ title: Interface IPath
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPath interface. Interface describes the set of Paths that present in a Shape layer
 type: docs
-weight: 2630
+weight: 2640
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ipath/
 ---
 {{< psd/tize >}}
