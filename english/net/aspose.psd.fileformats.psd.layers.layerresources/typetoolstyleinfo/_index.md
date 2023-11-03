@@ -3,7 +3,7 @@ title: Class TypeToolStyleInfo
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolStyleInfo class. Type tool style information
 type: docs
-weight: 3480
+weight: 3500
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PatternFillSettings.Angle
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets the angle
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/angle/
 ---
 {{< psd/tize >}}

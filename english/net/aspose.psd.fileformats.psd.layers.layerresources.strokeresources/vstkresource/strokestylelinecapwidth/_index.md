@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleLineCapWidth
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets Stroke line cap width
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/
 ---
 {{< psd/tize >}}

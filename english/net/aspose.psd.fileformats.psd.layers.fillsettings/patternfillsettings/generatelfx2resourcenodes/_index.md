@@ -3,7 +3,7 @@ title: PatternFillSettings.GenerateLfx2ResourceNodes
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings method. Generates the LFX2 resource nodes
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/
 ---
 {{< psd/tize >}}

@@ -1,15 +1,15 @@
 ---
 title: Class VstkResource
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource class. Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssginItems method from resourcedata either by assigning values to properties of the class
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource class. Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssginItems method from ResourceLoader either by assigning values to properties of the class
 type: docs
-weight: 3220
+weight: 3240
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/
 ---
 {{< psd/tize >}}
 ## VstkResource class
 
-Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssginItems method from resourcedata, either by assigning values to properties of the class.
+Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssginItems method from ResourceLoader, either by assigning values to properties of the class.
 
 ```csharp
 public class VstkResource : LayerResource
@@ -26,6 +26,7 @@ public class VstkResource : LayerResource
 | Name | Description |
 | --- | --- |
 | [FillEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/) { get; set; } | Gets or sets a value indicating whether Stroke fill enabled. |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillsettings/) { get; set; } | Gets or sets Fill settings of the Stroke. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/length/) { get; } | Gets the layer resource length in bytes. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/psdversion/) { get; } | Gets the psd version. |

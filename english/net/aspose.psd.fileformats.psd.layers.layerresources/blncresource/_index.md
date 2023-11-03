@@ -3,7 +3,7 @@ title: Class BlncResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource class. BlncResource class is a resource of Color Adjustment Layer
 type: docs
-weight: 2400
+weight: 2410
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
 {{< psd/tize >}}

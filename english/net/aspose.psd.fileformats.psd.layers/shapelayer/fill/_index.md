@@ -1,7 +1,7 @@
 ---
 title: ShapeLayer.Fill
 second_title: Aspose.PSD for .NET API Reference
-description: ShapeLayer property. Fill settings for internal area of Shapes in the Shape layer
+description: ShapeLayer property. Gets or sets Fill settings for internal area of Shapes in the Shape layer
 type: docs
 weight: 30
 url: /net/aspose.psd.fileformats.psd.layers/shapelayer/fill/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers/shapelayer/fill/
 {{< psd/tize >}}
 ## ShapeLayer.Fill property
 
-Fill settings for internal area of Shapes in the Shape layer.
+Gets or sets Fill settings for internal area of Shapes in the Shape layer.
 
 ```csharp
 public IFillSettings Fill { get; set; }

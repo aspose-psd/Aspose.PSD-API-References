@@ -3,7 +3,7 @@ title: PatternFillSettings.PatternId
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets the pattern identifier
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/
 ---
 {{< psd/tize >}}

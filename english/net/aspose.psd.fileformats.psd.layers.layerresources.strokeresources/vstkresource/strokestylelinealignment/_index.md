@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleLineAlignment
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets Stroke style line alignment
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/
 ---
 {{< psd/tize >}}

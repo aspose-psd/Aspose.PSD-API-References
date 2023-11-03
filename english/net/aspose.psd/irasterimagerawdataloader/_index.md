@@ -3,7 +3,7 @@ title: Interface IRasterImageRawDataLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IRasterImageRawDataLoader interface. The raster image raw data loader
 type: docs
-weight: 4770
+weight: 4790
 url: /net/aspose.psd/irasterimagerawdataloader/
 ---
 {{< psd/tize >}}

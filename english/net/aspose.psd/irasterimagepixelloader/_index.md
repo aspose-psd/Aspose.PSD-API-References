@@ -3,7 +3,7 @@ title: Interface IRasterImagePixelLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IRasterImagePixelLoader interface. The raster image pixel loader
 type: docs
-weight: 4760
+weight: 4780
 url: /net/aspose.psd/irasterimagepixelloader/
 ---
 {{< psd/tize >}}

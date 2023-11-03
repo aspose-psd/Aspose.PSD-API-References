@@ -3,7 +3,7 @@ title: PatternFillSettings.FillType
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. The fill type
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/
 ---
 {{< psd/tize >}}

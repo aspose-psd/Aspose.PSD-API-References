@@ -3,7 +3,7 @@ title: Enum ResolutionUnit
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ResolutionUnit enum. Resolution unit enum
 type: docs
-weight: 5590
+weight: 5610
 url: /net/aspose.psd/resolutionunit/
 ---
 {{< psd/tize >}}

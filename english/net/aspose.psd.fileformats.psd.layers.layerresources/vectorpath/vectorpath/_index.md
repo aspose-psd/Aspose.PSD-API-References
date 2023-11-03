@@ -1,7 +1,7 @@
 ---
 title: VectorPath.VectorPath
 second_title: Aspose.PSD for .NET API Reference
-description: VectorPath constructor. Initializes a new instance of VectorPath
+description: VectorPath constructor. Initializes a new instance of the VectorPath class
 type: docs
 weight: 10
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vectorpath/vectorpath/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/vectorpath/vectorpath
 {{< psd/tize >}}
 ## VectorPath constructor
 
-Initializes a new instance of VectorPath.
+Initializes a new instance of the [`VectorPath`](../) class.
 
 ```csharp
 public VectorPath()

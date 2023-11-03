@@ -3,7 +3,7 @@ title: ColorFillSettings.FillType
 second_title: Aspose.PSD for .NET API Reference
 description: ColorFillSettings property. The fill type
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/
 ---
 {{< psd/tize >}}

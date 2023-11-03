@@ -15,6 +15,12 @@ Color fill effect settings
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | The default constructor. |
+
 ## Properties
 
 | Name | Description |

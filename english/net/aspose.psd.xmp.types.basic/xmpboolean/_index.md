@@ -3,7 +3,7 @@ title: Class XmpBoolean
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Basic.XmpBoolean class. Represents XMP Boolean basic type
 type: docs
-weight: 6140
+weight: 6160
 url: /net/aspose.psd.xmp.types.basic/xmpboolean/
 ---
 {{< psd/tize >}}

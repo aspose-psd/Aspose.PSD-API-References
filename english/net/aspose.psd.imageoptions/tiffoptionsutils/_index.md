@@ -3,7 +3,7 @@ title: Class TiffOptionsUtils
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.TiffOptionsUtils class. The tiff file format options utility class
 type: docs
-weight: 5160
+weight: 5180
 url: /net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
 {{< psd/tize >}}
