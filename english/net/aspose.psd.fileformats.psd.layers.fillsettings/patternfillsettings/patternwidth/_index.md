@@ -3,7 +3,7 @@ title: PatternFillSettings.PatternWidth
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets the width of the pattern
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/
 ---
 {{< psd/tize >}}

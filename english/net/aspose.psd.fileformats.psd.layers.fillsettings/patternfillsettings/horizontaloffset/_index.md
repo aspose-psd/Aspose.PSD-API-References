@@ -3,7 +3,7 @@ title: PatternFillSettings.HorizontalOffset
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets the horizontal offset
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/
 ---
 {{< psd/tize >}}

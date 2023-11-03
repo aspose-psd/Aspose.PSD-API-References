@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleVersion
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets the stroke style version
 type: docs
-weight: 220
+weight: 230
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/
 ---
 {{< psd/tize >}}

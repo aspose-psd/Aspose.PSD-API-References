@@ -3,7 +3,7 @@ title: Enum StringDigitSubstitute
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.StringDigitSubstitute enum. The enumeration specifies how to substitute digits in a string according to a users locale or language
 type: docs
-weight: 5860
+weight: 5880
 url: /net/aspose.psd/stringdigitsubstitute/
 ---
 {{< psd/tize >}}

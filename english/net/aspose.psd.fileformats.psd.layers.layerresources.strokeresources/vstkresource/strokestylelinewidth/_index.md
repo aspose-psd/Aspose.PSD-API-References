@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleLineWidth
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets Stroke line width
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
 {{< psd/tize >}}

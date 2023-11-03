@@ -3,7 +3,7 @@ title: Class LayerMaskData
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskData class. Defines base LayerMaskData class which contains information about the layer mask data in the PSD file. It can help to modify Adobe Photoshop files programmatically and automate PSD format editing. If the layer has only a raster mask the ImageData contains the raster mask data bytes. If the layer has only a vector mask the ImageData contains the vector mask rasterized cached data bytes. If the layer has both layer and vector masks the ImageData contains the raster mask and the rasterized vector mask combined. The ImageData bytes length should be equal Width  Height of MaskRectangle properties. Notice that just removing / adding / updating the LayerMaskData is not enough for correct saving because channels are not updated though it may provide correct rendering. The AddLayerMask method should be used for that
 type: docs
-weight: 2330
+weight: 2340
 url: /net/aspose.psd.fileformats.psd.layers/layermaskdata/
 ---
 {{< psd/tize >}}

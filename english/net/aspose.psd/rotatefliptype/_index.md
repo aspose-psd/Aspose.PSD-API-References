@@ -3,7 +3,7 @@ title: Enum RotateFlipType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.RotateFlipType enum. Specifies how much an image is rotated and the axis used to flip the image
 type: docs
-weight: 5600
+weight: 5620
 url: /net/aspose.psd/rotatefliptype/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class ProgressEventHandlerInfo
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo class. This class represents information about image load/save/export operations progress that can be used in external application to show conversion progress to end user
 type: docs
-weight: 5500
+weight: 5520
 url: /net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
 {{< psd/tize >}}

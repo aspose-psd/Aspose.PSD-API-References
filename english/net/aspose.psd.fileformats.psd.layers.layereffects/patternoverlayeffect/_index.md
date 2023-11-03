@@ -3,7 +3,7 @@ title: Class PatternOverlayEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect class. Pattern Layer effect
 type: docs
-weight: 2270
+weight: 2280
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
 {{< psd/tize >}}

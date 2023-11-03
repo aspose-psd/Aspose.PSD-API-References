@@ -3,7 +3,7 @@ title: Class Jpeg2000LoadOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageLoadOptions.Jpeg2000LoadOptions class. JPEG2000 load options
 type: docs
-weight: 4950
+weight: 4970
 url: /net/aspose.psd.imageloadoptions/jpeg2000loadoptions/
 ---
 {{< psd/tize >}}

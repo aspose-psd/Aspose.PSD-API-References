@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleBlendMode
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets Stroke Blend mode
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/
 ---
 {{< psd/tize >}}

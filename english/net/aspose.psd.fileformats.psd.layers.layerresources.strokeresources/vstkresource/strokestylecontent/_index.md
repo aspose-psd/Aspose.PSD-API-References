@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleContent
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets Stroke entity. Property determines fill settings of the stroke
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylecontent/
 ---
 {{< psd/tize >}}
@@ -12,6 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkr
 Gets or sets Stroke entity. Property determines fill settings of the stroke.
 
 ```csharp
+[Obsolete]
 public DescriptorStructure StrokeStyleContent { get; set; }
 ```
 

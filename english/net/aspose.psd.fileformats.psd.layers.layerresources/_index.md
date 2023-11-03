@@ -102,7 +102,6 @@ The namespace contains PSD file format entities contained in layers.
 | [IPathShape](./ipathshape/) | The Shape from the knots of the Bezier curve. |
 | [IPlacedLayerResource](./iplacedlayerresource/) | Defines the IPlacedLayerResource interface that contains information about a placed layer in the PSD file. Is is a markup interface used to designate PlLd, Sold and Sole resources in the Adobe® Photoshop® images. Is is used to support smart object layers in the Adobe® Photoshop® images. |
 | [ISmartObjectLayerResource](./ismartobjectlayerresource/) | Defines the ISmartObjectLayerResource interface that contains information about a smart object layer resource in the PSD file. Is is also a markup interface used to designate both Sold and Sole resources in the Adobe® Photoshop® images. |
-| [IStrokeSettings](./istrokesettings/) | Stroke settings of Shapes. |
 ## Enumeration
 
 | Enumeration | Description |

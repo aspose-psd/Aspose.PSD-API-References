@@ -3,7 +3,7 @@ title: Class ShapeLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.ShapeLayer class. Shape layer. Encapsulates the logic of work with Shape layer and related resources
 type: docs
-weight: 3590
+weight: 3610
 url: /net/aspose.psd.fileformats.psd.layers/shapelayer/
 ---
 {{< psd/tize >}}
@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/shapelayer/
 Shape layer. Encapsulates the logic of work with Shape layer and related resources.
 
 ```csharp
-public class ShapeLayer : Layer
+public class ShapeLayer : Layer, IShapeLayer
 ```
 
 ## Constructors
@@ -44,7 +44,7 @@ public class ShapeLayer : Layer
 | [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
 | [ExtraLength](../../aspose.psd.fileformats.psd.layers/layer/extralength/) { get; } | Gets the layer extra information length in bytes. |
 | virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | Gets a value of file format |
-| [Fill](../../aspose.psd.fileformats.psd.layers/shapelayer/fill/) { get; set; } | Fill settings for internal area of Shapes in the Shape layer. |
+| [Fill](../../aspose.psd.fileformats.psd.layers/shapelayer/fill/) { get; set; } | Gets or sets Fill settings for internal area of Shapes in the Shape layer. |
 | [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | Gets or sets the layer filler. |
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | Gets or sets the fill opacity. |
 | [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | Gets or sets the layer flags. bit 0 = transparency protected; bit 1 = visible; bit 2 = obsolete; bit 3 = 1 for Photoshop 5.0 and later, tells if bit 4 has useful information; bit 4 = pixel data irrelevant to appearance of document. |
@@ -81,6 +81,7 @@ public class ShapeLayer : Layer
 | [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | Gets or sets the right layer position. |
 | [SheetColorHighlight](../../aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/) { get; set; } | Gets or sets the decorative sheet color highlight in layers' list |
 | [Size](../../aspose.psd/image/size/) { get; } | Gets the image size. |
+| [Stroke](../../aspose.psd.fileformats.psd.layers/shapelayer/stroke/) { get; set; } | Gets or sets Stroke settings of Shapes. |
 | [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | Gets or sets the top layer position. |
 | virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | Gets the image transparent color. |
 | virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | Gets or sets a value indicating whether to update the XMP metadata. |
@@ -210,6 +211,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile, new PsdLoadOptions { LoadE
 ### See Also
 
 * class [Layer](../layer/)
+* interface [IShapeLayer](../ishapelayer/)
 * namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../)
 

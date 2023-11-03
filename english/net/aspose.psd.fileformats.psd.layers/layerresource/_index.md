@@ -3,7 +3,7 @@ title: Class LayerResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResource class. Represents layer info
 type: docs
-weight: 2370
+weight: 2380
 url: /net/aspose.psd.fileformats.psd.layers/layerresource/
 ---
 {{< psd/tize >}}

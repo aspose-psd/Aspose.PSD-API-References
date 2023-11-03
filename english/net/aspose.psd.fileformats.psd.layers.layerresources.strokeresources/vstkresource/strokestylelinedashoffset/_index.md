@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleLineDashOffset
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets the stroke style line dash offset
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/
 ---
 {{< psd/tize >}}

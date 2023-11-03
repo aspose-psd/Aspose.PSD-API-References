@@ -7,64 +7,6 @@ weight: 240
 url: /net/aspose.psd/graphics/drawimageunscaled/
 ---
 {{< psd/tize >}}
-## DrawImageUnscaled(Image, Point) {#drawimageunscaled}
-
-Draws a specified image using its original physical size at a specified location.
-
-```csharp
-public void DrawImageUnscaled(Image sourceImage, Point point)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourceImage | Image | The image to draw with. |
-| point | Point | [`Point`](../../point/) structure that specifies the upper-left corner of the drawn image. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | *sourceImage* is null. |
-
-### See Also
-
-* class [Image](../../image/)
-* struct [Point](../../point/)
-* class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
-* assembly [Aspose.PSD](../../../)
-
----
-
-## DrawImageUnscaled(Image, int, int) {#drawimageunscaled_2}
-
-Draws the specified image using its original physical size at the location specified by a coordinate pair.
-
-```csharp
-public void DrawImageUnscaled(Image sourceImage, int x, int y)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourceImage | Image | The image to draw with. |
-| x | Int32 | The x-coordinate of the upper-left corner of the drawn image. |
-| y | Int32 | The y-coordinate of the upper-left corner of the drawn image. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | *sourceImage* is null. |
-
-### See Also
-
-* class [Image](../../image/)
-* class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
-* assembly [Aspose.PSD](../../../)
-
----
-
 ## DrawImageUnscaled(Image, Rectangle) {#drawimageunscaled_1}
 
 Draws a specified image using its original physical size at a specified location.
@@ -109,6 +51,64 @@ public void DrawImageUnscaled(Image sourceImage, int x, int y, int width, int he
 | y | Int32 | The y-coordinate of the upper-left corner of the drawn image. |
 | width | Int32 | The parameter is not used. |
 | height | Int32 | The parameter is not used. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | *sourceImage* is null. |
+
+### See Also
+
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## DrawImageUnscaled(Image, Point) {#drawimageunscaled}
+
+Draws a specified image using its original physical size at a specified location.
+
+```csharp
+public void DrawImageUnscaled(Image sourceImage, Point point)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourceImage | Image | The image to draw with. |
+| point | Point | [`Point`](../../point/) structure that specifies the upper-left corner of the drawn image. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | *sourceImage* is null. |
+
+### See Also
+
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## DrawImageUnscaled(Image, int, int) {#drawimageunscaled_2}
+
+Draws the specified image using its original physical size at the location specified by a coordinate pair.
+
+```csharp
+public void DrawImageUnscaled(Image sourceImage, int x, int y)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourceImage | Image | The image to draw with. |
+| x | Int32 | The x-coordinate of the upper-left corner of the drawn image. |
+| y | Int32 | The y-coordinate of the upper-left corner of the drawn image. |
 
 ### Exceptions
 

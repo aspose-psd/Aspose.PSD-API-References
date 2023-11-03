@@ -15,6 +15,12 @@ Pattern fill effect settings
 public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [PatternFillSettings](patternfillsettings/)() | The default constructor. |
+
 ## Properties
 
 | Name | Description |

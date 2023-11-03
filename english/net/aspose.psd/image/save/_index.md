@@ -1,44 +1,12 @@
 ---
 title: Image.Save
 second_title: Aspose.PSD for .NET API Reference
-description: Image method. Saves the images data to the specified stream in the specified file format according to save options
+description: Image method. Saves the image data to the underlying stream
 type: docs
 weight: 240
 url: /net/aspose.psd/image/save/
 ---
 {{< psd/tize >}}
-## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
-
-Saves the image's data to the specified stream in the specified file format according to save options.
-
-```csharp
-public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | The stream to save the image's data to. |
-| optionsBase | ImageOptionsBase | The save options. |
-| boundsRectangle | Rectangle | The destination image bounds rectangle. Set the empty rectangle for use source bounds. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | optionsBase |
-| ArgumentException | Cannot save to the specified format as it is not supported at the moment.;optionsBase |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Image export failed. |
-
-### See Also
-
-* class [ImageOptionsBase](../../imageoptionsbase/)
-* struct [Rectangle](../../rectangle/)
-* class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
-* assembly [Aspose.PSD](../../../)
-
----
-
 ## Save() {#save}
 
 Saves the image data to the underlying stream.
@@ -517,6 +485,38 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 ### See Also
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
+* class [Image](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
+
+Saves the image's data to the specified stream in the specified file format according to save options.
+
+```csharp
+public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The stream to save the image's data to. |
+| optionsBase | ImageOptionsBase | The save options. |
+| boundsRectangle | Rectangle | The destination image bounds rectangle. Set the empty rectangle for use source bounds. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | optionsBase |
+| ArgumentException | Cannot save to the specified format as it is not supported at the moment.;optionsBase |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Image export failed. |
+
+### See Also
+
+* class [ImageOptionsBase](../../imageoptionsbase/)
+* struct [Rectangle](../../rectangle/)
 * class [Image](../)
 * namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)

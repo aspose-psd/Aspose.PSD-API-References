@@ -3,7 +3,7 @@ title: PatternFillSettings.Linked
 second_title: Aspose.PSD for .NET API Reference
 description: PatternFillSettings property. Gets or sets a value indicating whether this PatternFillSettings is linked
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
 {{< psd/tize >}}
