@@ -3,7 +3,7 @@ title: Class FontSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FontSettings class. General PSD vector formats renderer font settings
 type: docs
-weight: 4500
+weight: 4520
 url: /net/aspose.psd/fontsettings/
 ---
 {{< psd/tize >}}
@@ -33,6 +33,7 @@ public static class FontSettings
 | static [GetFontsFolders](../../aspose.psd/fontsettings/getfontsfolders/)() | Gets a copy of the array that contains the list of folders where Aspose.Words looks for TrueType fonts. |
 | static [GetReplacementFont](../../aspose.psd/fontsettings/getreplacementfont/)(string) | Gets the most suitable replacement font. If all replacements are not allowed then will returned first allowed and available font. If there are no available fonts then will be returned font from argument |
 | static [IsFontAllowed](../../aspose.psd/fontsettings/isfontallowed/)(string) | Determines whether [is font allowed] [the specified font name]. |
+| static [RemoveFontCacheFile](../../aspose.psd/fontsettings/removefontcachefile/)() | Removes of the font cache file. |
 | static [Reset](../../aspose.psd/fontsettings/reset/)() | Resets the fonts folder and default font name to the system default. |
 | static [SetAllowedFonts](../../aspose.psd/fontsettings/setallowedfonts/)(string[]) | Restricts font using by list of fonts. Please check real font names before restriction Set Allowed font list to Null to remove restrictrions |
 | static [SetFontReplacements](../../aspose.psd/fontsettings/setfontreplacements/)(string, string[]) | Sets the font replacement list. If font is not allowed then will be find replacement. The first one font in list will be used first. If it retricted too, then will be selected next font from list. If font has not replacements or all replacements are not allowed then will be used first allowed font from allowed font list. If there are no allowed and available fonts then library will try use system default font even if it is not allowed. |

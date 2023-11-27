@@ -3,7 +3,7 @@ title: Interface IStrokeSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.IStrokeSettings interface. Stroke settings of Shapes
 type: docs
-weight: 3190
+weight: 3200
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/istrokesettings/
 ---
 {{< psd/tize >}}

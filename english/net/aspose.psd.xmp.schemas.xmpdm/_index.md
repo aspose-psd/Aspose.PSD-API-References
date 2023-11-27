@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Schemas.XmpDm
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains XMP related helper classes constants and methods used by the Adobe dynamic media group
 type: docs
-weight: 600
+weight: 610
 url: /net/aspose.psd.xmp.schemas.xmpdm/
 ---
 {{< psd/tize >}}

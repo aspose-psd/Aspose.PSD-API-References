@@ -3,7 +3,7 @@ title: Class RectangleShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Shapes.RectangleShape class. Represents a rectangular shape
 type: docs
-weight: 5750
+weight: 5770
 url: /net/aspose.psd.shapes/rectangleshape/
 ---
 {{< psd/tize >}}

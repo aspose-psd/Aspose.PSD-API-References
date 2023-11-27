@@ -3,7 +3,7 @@ title: Class ResolutionSetting
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ResolutionSetting class. The resolution setting for image save options
 type: docs
-weight: 5600
+weight: 5620
 url: /net/aspose.psd/resolutionsetting/
 ---
 {{< psd/tize >}}

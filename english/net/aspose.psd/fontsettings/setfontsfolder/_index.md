@@ -3,7 +3,7 @@ title: FontSettings.SetFontsFolder
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. This is a shortcut to SetFontsFolders for setting only one font directory. There are no checks performed on the fonts folder
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd/fontsettings/setfontsfolder/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class PixelAspectRatioResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.PixelAspectRatioResource class. Pixel aspect ration resource
 type: docs
-weight: 4030
+weight: 4050
 url: /net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/
 ---
 {{< psd/tize >}}
