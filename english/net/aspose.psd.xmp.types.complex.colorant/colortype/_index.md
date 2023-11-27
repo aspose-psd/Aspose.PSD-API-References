@@ -3,7 +3,7 @@ title: Enum ColorType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType enum. Type of color
 type: docs
-weight: 6220
+weight: 6240
 url: /net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class XmpDynamicMediaPackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpDm.XmpDynamicMediaPackage class. Represents XMP Dynamic Media namespace
 type: docs
-weight: 6130
+weight: 6150
 url: /net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/
 ---
 {{< psd/tize >}}

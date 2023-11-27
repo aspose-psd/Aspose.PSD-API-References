@@ -3,7 +3,7 @@ title: Class Txt2Resource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Txt2Resource class. Txt2 resource class
 type: docs
-weight: 3250
+weight: 3260
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/
 ---
 {{< psd/tize >}}

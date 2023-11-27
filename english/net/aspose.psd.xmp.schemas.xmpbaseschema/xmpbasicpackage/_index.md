@@ -3,7 +3,7 @@ title: Class XmpBasicPackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpBaseSchema.XmpBasicPackage class. Represents XMP basic namespace
 type: docs
-weight: 6050
+weight: 6070
 url: /net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/
 ---
 {{< psd/tize >}}

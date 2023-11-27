@@ -3,7 +3,7 @@ title: Class GlobalAltitudeResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.GlobalAltitudeResource class. Global altitude resource
 type: docs
-weight: 3920
+weight: 3940
 url: /net/aspose.psd.fileformats.psd.resources/globalaltituderesource/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class LuniResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LuniResource class. Layer name resource
 type: docs
-weight: 2940
+weight: 2950
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/
 ---
 {{< psd/tize >}}

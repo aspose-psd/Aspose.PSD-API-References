@@ -3,7 +3,7 @@ title: Class LangAlt
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.LangAlt class. Represents XMP Language Alternative
 type: docs
-weight: 5980
+weight: 6000
 url: /net/aspose.psd.xmp/langalt/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: FontSettings.SetAllowedFonts
 second_title: Aspose.PSD for .NET API Reference
 description: FontSettings method. Restricts font using by list of fonts. Please check real font names before restriction Set Allowed font list to Null to remove restrictrions
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd/fontsettings/setallowedfonts/
 ---
 {{< psd/tize >}}

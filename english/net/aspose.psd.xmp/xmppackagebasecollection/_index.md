@@ -3,7 +3,7 @@ title: Class XmpPackageBaseCollection
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpPackageBaseCollection class. Represents collection of XmpPackage
 type: docs
-weight: 6500
+weight: 6520
 url: /net/aspose.psd.xmp/xmppackagebasecollection/
 ---
 {{< psd/tize >}}
