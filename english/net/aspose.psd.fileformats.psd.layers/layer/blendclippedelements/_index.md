@@ -21,7 +21,7 @@ The blending of clipped element.
 
 ## Examples
 
-The following code demonstrates
+The following code demonstrates support of BlendClippedElements property.
 
 ```csharp
 [C#]

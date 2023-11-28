@@ -3,7 +3,7 @@ title: Enum TiffPhotometrics
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPhotometrics enum. Photometric interpolation enum
 type: docs
-weight: 4330
+weight: 4350
 url: /net/aspose.psd.fileformats.tiff.enums/tiffphotometrics/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum TiffOrientations
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations enum. Image orientation. Possible values for ORIENTATION tag
 type: docs
-weight: 4320
+weight: 4340
 url: /net/aspose.psd.fileformats.tiff.enums/tifforientations/
 ---
 {{< psd/tize >}}

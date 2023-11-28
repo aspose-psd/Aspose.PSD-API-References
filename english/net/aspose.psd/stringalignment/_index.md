@@ -3,7 +3,7 @@ title: Enum StringAlignment
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.StringAlignment enum. Specifies the alignment of a text string relative to its layout rectangle
 type: docs
-weight: 5870
+weight: 5890
 url: /net/aspose.psd/stringalignment/
 ---
 {{< psd/tize >}}

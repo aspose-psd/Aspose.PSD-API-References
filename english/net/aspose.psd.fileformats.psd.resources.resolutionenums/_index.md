@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace handles Psd resources resolution units
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
 {{< psd/tize >}}

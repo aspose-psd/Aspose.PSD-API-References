@@ -3,7 +3,7 @@ title: Class SharpenSmartFilter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SharpenSmartFilter class. The Sharpen smart filter
 type: docs
-weight: 3660
+weight: 3670
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/sharpensmartfilter/
 ---
 {{< psd/tize >}}

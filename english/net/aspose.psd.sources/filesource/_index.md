@@ -3,7 +3,7 @@ title: Class FileSource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Sources.FileSource class. Represents a file source which is capable of files manipulation
 type: docs
-weight: 5830
+weight: 5850
 url: /net/aspose.psd.sources/filesource/
 ---
 {{< psd/tize >}}

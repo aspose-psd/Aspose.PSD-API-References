@@ -3,7 +3,7 @@ title: Enum HatchStyle
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.HatchStyle enum. Specifies the different patterns available for HatchBrush objects
 type: docs
-weight: 4550
+weight: 4570
 url: /net/aspose.psd/hatchstyle/
 ---
 {{< psd/tize >}}

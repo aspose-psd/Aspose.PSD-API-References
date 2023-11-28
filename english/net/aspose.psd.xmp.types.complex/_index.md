@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Types.Complex
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains classes that represent the complex type values of XMP properties
 type: docs
-weight: 650
+weight: 660
 url: /net/aspose.psd.xmp.types.complex/
 ---
 {{< psd/tize >}}

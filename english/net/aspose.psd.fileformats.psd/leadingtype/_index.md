@@ -3,7 +3,7 @@ title: Enum LeadingType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.LeadingType enum. Photoshop leading type type of distance between lines
 type: docs
-weight: 3780
+weight: 3790
 url: /net/aspose.psd.fileformats.psd/leadingtype/
 ---
 {{< psd/tize >}}
