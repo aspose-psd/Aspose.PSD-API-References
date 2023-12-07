@@ -45,30 +45,27 @@ Represents XMP basic namespace.
 | [getPrefix()](#getPrefix--) | Gets the prefix. |
 | [getXmlNamespace()](#getXmlNamespace--) | Gets the XML namespace. |
 | [getXmlValue()](#getXmlValue--) | Converts XMP value to the XML representation. |
-| [get_Item(String key)](#get-Item-java.lang.String-) | Gets or sets the  Object  with the specified key. |
+| [get_Item(String key)](#get-Item-java.lang.String-) | Gets or sets the Object with the specified key. |
 | [hashCode()](#hashCode--) |  |
 | [iterator()](#iterator--) | Returns an enumerator that iterates through the collection. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [remove(String key)](#remove-java.lang.String-) | Remove the value with the specified key. |
 | [setCreatedDate(String createdDate)](#setCreatedDate-java.lang.String-) | Adds resource created date. |
-| [setCreatedDate(Date createdDate)](#setCreatedDate-java.util.Date-) | Adds resource created date. |
-| [setCreatedDate_internalized(System.DateTime createdDate)](#setCreatedDate-internalized-com.aspose.ms.System.DateTime-) |  |
+| [setCreatedDate_internalized(System.DateTime createdDate)](#setCreatedDate-internalized-com.aspose.ms.System.DateTime-) | Adds resource created date. |
 | [setCreatorTool(String creatorTool)](#setCreatorTool-java.lang.String-) | Sets the creator tool. |
 | [setIdentifier(String[] idenfifier)](#setIdentifier-java.lang.String---) | Sets the identifier. |
 | [setLabel(String label)](#setLabel-java.lang.String-) | Sets the label. |
 | [setMetadataDate(String metadataDate)](#setMetadataDate-java.lang.String-) | Adds metadata last changed date. |
-| [setMetadataDate(Date metadataDate)](#setMetadataDate-java.util.Date-) | Adds metadata last changed date. |
-| [setMetadataDate_internalized(System.DateTime metadataDate)](#setMetadataDate-internalized-com.aspose.ms.System.DateTime-) |  |
+| [setMetadataDate_internalized(System.DateTime metadataDate)](#setMetadataDate-internalized-com.aspose.ms.System.DateTime-) | Adds metadata last changed date. |
 | [setModifyDate(String modifiedDate)](#setModifyDate-java.lang.String-) | Adds resource last modified date. |
-| [setModifyDate(Date modifiedDate)](#setModifyDate-java.util.Date-) | Adds resource last modified date. |
-| [setModifyDate_internalized(System.DateTime modifiedDate)](#setModifyDate-internalized-com.aspose.ms.System.DateTime-) |  |
+| [setModifyDate_internalized(System.DateTime modifiedDate)](#setModifyDate-internalized-com.aspose.ms.System.DateTime-) | Adds resource last modified date. |
 | [setRating(int choise)](#setRating-int-) | Sets rating. |
 | [setValue(String key, IXmlValue value)](#setValue-java.lang.String-com.aspose.psd.xmp.IXmlValue-) | Sets the value. |
 | [setXmpBoolean(String key, String boolValue)](#setXmpBoolean-java.lang.String-java.lang.String-) | Sets the XMP boolean value. |
 | [setXmpGuid(String key, String guid)](#setXmpGuid-java.lang.String-java.lang.String-) | Sets the XMP unique identifier. |
 | [setXmpTypeValue(String key, XmpTypeBase value)](#setXmpTypeValue-java.lang.String-com.aspose.psd.xmp.types.XmpTypeBase-) | Sets the XMP type value. |
-| [set_Item(String key, Object value)](#set-Item-java.lang.String-java.lang.Object-) | Sets the  Object  with the specified key. |
+| [set_Item(String key, Object value)](#set-Item-java.lang.String-java.lang.Object-) | Gets or sets the Object with the specified key. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -295,15 +292,15 @@ public Object get_Item(String key)
 ```
 
 
-Gets or sets the  Object  with the specified key.
+Gets or sets the Object with the specified key.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | java.lang.String | The key that identifies value. |
+| key | java.lang.String | The key that identifies value. Value: The Object. |
 
 **Returns:**
-java.lang.Object - Returns the  Object  with the specified key.
+java.lang.Object - Returns the Object with the specified key.
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -368,9 +365,9 @@ Adds resource created date.
 | --- | --- | --- |
 | createdDate | java.lang.String | Created date. |
 
-### setCreatedDate(Date createdDate) {#setCreatedDate-java.util.Date-}
+### setCreatedDate_internalized(System.DateTime createdDate) {#setCreatedDate-internalized-com.aspose.ms.System.DateTime-}
 ```
-public void setCreatedDate(Date createdDate)
+public void setCreatedDate_internalized(System.DateTime createdDate)
 ```
 
 
@@ -379,20 +376,7 @@ Adds resource created date.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| createdDate | java.util.Date | Created date. |
-
-### setCreatedDate_internalized(System.DateTime createdDate) {#setCreatedDate-internalized-com.aspose.ms.System.DateTime-}
-```
-public void setCreatedDate_internalized(System.DateTime createdDate)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| createdDate | com.aspose.ms.System.DateTime |  |
+| createdDate | com.aspose.ms.System.DateTime | Created date. |
 
 ### setCreatorTool(String creatorTool) {#setCreatorTool-java.lang.String-}
 ```
@@ -446,9 +430,9 @@ Adds metadata last changed date.
 | --- | --- | --- |
 | metadataDate | java.lang.String | Metadata date. |
 
-### setMetadataDate(Date metadataDate) {#setMetadataDate-java.util.Date-}
+### setMetadataDate_internalized(System.DateTime metadataDate) {#setMetadataDate-internalized-com.aspose.ms.System.DateTime-}
 ```
-public void setMetadataDate(Date metadataDate)
+public void setMetadataDate_internalized(System.DateTime metadataDate)
 ```
 
 
@@ -457,20 +441,7 @@ Adds metadata last changed date.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| metadataDate | java.util.Date | Metadata date. |
-
-### setMetadataDate_internalized(System.DateTime metadataDate) {#setMetadataDate-internalized-com.aspose.ms.System.DateTime-}
-```
-public void setMetadataDate_internalized(System.DateTime metadataDate)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| metadataDate | com.aspose.ms.System.DateTime |  |
+| metadataDate | com.aspose.ms.System.DateTime | Metadata date. |
 
 ### setModifyDate(String modifiedDate) {#setModifyDate-java.lang.String-}
 ```
@@ -485,9 +456,9 @@ Adds resource last modified date.
 | --- | --- | --- |
 | modifiedDate | java.lang.String | Last modified date. |
 
-### setModifyDate(Date modifiedDate) {#setModifyDate-java.util.Date-}
+### setModifyDate_internalized(System.DateTime modifiedDate) {#setModifyDate-internalized-com.aspose.ms.System.DateTime-}
 ```
-public void setModifyDate(Date modifiedDate)
+public void setModifyDate_internalized(System.DateTime modifiedDate)
 ```
 
 
@@ -496,20 +467,7 @@ Adds resource last modified date.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| modifiedDate | java.util.Date | Last modified date. |
-
-### setModifyDate_internalized(System.DateTime modifiedDate) {#setModifyDate-internalized-com.aspose.ms.System.DateTime-}
-```
-public void setModifyDate_internalized(System.DateTime modifiedDate)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| modifiedDate | com.aspose.ms.System.DateTime |  |
+| modifiedDate | com.aspose.ms.System.DateTime | Last modified date. |
 
 ### setRating(int choise) {#setRating-int-}
 ```
@@ -586,13 +544,13 @@ public void set_Item(String key, Object value)
 ```
 
 
-Sets the  Object  with the specified key.
+Gets or sets the Object with the specified key.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | java.lang.String | The key that identifies value. |
-| value | java.lang.Object | The  Object  value. |
+| key | java.lang.String | The key that identifies value. Value: The Object. |
+| value | java.lang.Object |  |
 
 ### toString() {#toString--}
 ```

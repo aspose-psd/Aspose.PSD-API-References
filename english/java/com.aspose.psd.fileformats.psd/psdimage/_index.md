@@ -58,6 +58,7 @@ Defines the PsdImage class that provides the ability to load, edit, save PSD fil
 | [addLayer_internalized(Layer layer, int index)](#addLayer-internalized-com.aspose.psd.fileformats.psd.layers.Layer-int-) | Adds the layer at the index. |
 | [addLevelsAdjustmentLayer()](#addLevelsAdjustmentLayer--) | Adds the Levels adjustment layer. |
 | [addPhotoFilterLayer(Color color)](#addPhotoFilterLayer-com.aspose.psd.Color-) | Adds the photofilter layer. |
+| [addPosterizeAdjustmentLayer()](#addPosterizeAdjustmentLayer--) | Adds Posterize Adjustment layer. |
 | [addRegularLayer()](#addRegularLayer--) | Adds a new regular layer. |
 | [addSelectiveColorAdjustmentLayer()](#addSelectiveColorAdjustmentLayer--) | Adds the selective color adjustment layer. |
 | [addTextLayer(String text, Rectangle rect)](#addTextLayer-java.lang.String-com.aspose.psd.Rectangle-) | Adds a new Text layer. |
@@ -712,6 +713,16 @@ Adds the photofilter layer.
 
 **Returns:**
 [PhotoFilterLayer](../../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer) - Created PhotoFilter Layer
+### addPosterizeAdjustmentLayer() {#addPosterizeAdjustmentLayer--}
+```
+public final PosterizeLayer addPosterizeAdjustmentLayer()
+```
+
+
+Adds Posterize Adjustment layer.
+
+**Returns:**
+[PosterizeLayer](../../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/posterizelayer) - PosterizeLayer instance.
 ### addRegularLayer() {#addRegularLayer--}
 ```
 public final Layer addRegularLayer()

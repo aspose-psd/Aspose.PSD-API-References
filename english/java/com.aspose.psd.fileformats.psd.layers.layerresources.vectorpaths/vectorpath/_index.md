@@ -29,7 +29,6 @@ The class that contains vector paths.
 | [create_internalized(VectorPathDataResource vectorPathDataResource, Size imageSize)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.VectorPathDataResource-com.aspose.psd.Size-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
-| [getFillColor()](#getFillColor--) | Gets or sets the vector path fill color. |
 | [getItems()](#getItems--) | Gets array of Shapes in a Path. |
 | [getVersion()](#getVersion--) | Gets or sets the version. |
 | [hashCode()](#hashCode--) |  |
@@ -40,7 +39,6 @@ The class that contains vector paths.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setDisabled(boolean value)](#setDisabled-boolean-) | Gets or sets a value indicating whether this instance is disabled. |
-| [setFillColor(Color value)](#setFillColor-com.aspose.psd.Color-) | Gets or sets the vector path fill color. |
 | [setFillStartsWithAllPixels(boolean value)](#setFillStartsWithAllPixels-boolean-) | Gets or sets a value indicating whether is fill starts with all pixels. |
 | [setInverted(boolean value)](#setInverted-boolean-) | Gets or sets a value indicating whether this instance is inverted. |
 | [setItems(IPathShape[] shapes)](#setItems-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.IPathShape---) | Sets array of Shapes in a Path. |
@@ -99,16 +97,6 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getFillColor() {#getFillColor--}
-```
-public final Color getFillColor()
-```
-
-
-Gets or sets the vector path fill color.
-
-**Returns:**
-[Color](../../com.aspose.psd/color)
 ### getItems() {#getItems--}
 ```
 public final IPathShape[] getItems()
@@ -219,19 +207,6 @@ Value:  true  if this instance is disabled; otherwise,  false .
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
-
-### setFillColor(Color value) {#setFillColor-com.aspose.psd.Color-}
-```
-public final void setFillColor(Color value)
-```
-
-
-Gets or sets the vector path fill color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.psd/color) |  |
 
 ### setFillStartsWithAllPixels(boolean value) {#setFillStartsWithAllPixels-boolean-}
 ```
