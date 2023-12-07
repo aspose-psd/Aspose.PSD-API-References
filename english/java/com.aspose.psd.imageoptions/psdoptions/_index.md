@@ -49,6 +49,7 @@ The psd file format create options.
 | [getResolutionSettings()](#getResolutionSettings--) | Gets or sets the resolution settings. |
 | [getResources()](#getResources--) | Gets or sets the psd resources. |
 | [getSource()](#getSource--) | Gets or sets the source to create image in. |
+| [getUpdateMetadata()](#getUpdateMetadata--) | Gets or sets a value indicating whether [update metadata]. |
 | [getVectorRasterizationOptions()](#getVectorRasterizationOptions--) | Gets or sets the vector rasterization options. |
 | [getVersion()](#getVersion--) | Gets or sets the psd file version. |
 | [getXmpData()](#getXmpData--) | Get or set XMP data container |
@@ -73,6 +74,7 @@ The psd file format create options.
 | [setResolutionSettings(ResolutionSetting value)](#setResolutionSettings-com.aspose.psd.ResolutionSetting-) | Gets or sets the resolution settings. |
 | [setResources(ResourceBlock[] value)](#setResources-com.aspose.psd.fileformats.psd.ResourceBlock---) | Gets or sets the psd resources. |
 | [setSource(Source value)](#setSource-com.aspose.psd.Source-) | Gets or sets the source to create image in. |
+| [setUpdateMetadata(boolean value)](#setUpdateMetadata-boolean-) | Gets or sets a value indicating whether [update metadata]. |
 | [setVectorRasterizationOptions(VectorRasterizationOptions value)](#setVectorRasterizationOptions-com.aspose.psd.imageoptions.VectorRasterizationOptions-) | Gets or sets the vector rasterization options. |
 | [setVersion(int value)](#setVersion-int-) | Gets or sets the psd file version. |
 | [setXmpData(XmpPacketWrapper value)](#setXmpData-com.aspose.psd.xmp.XmpPacketWrapper-) | Get or set XMP data container |
@@ -383,6 +385,18 @@ Value: The source to create image in.
 
 **Returns:**
 [Source](../../com.aspose.psd/source)
+### getUpdateMetadata() {#getUpdateMetadata--}
+```
+public final boolean getUpdateMetadata()
+```
+
+
+Gets or sets a value indicating whether [update metadata]. If the value is true, the metadata will be updated while saving an image.
+
+Value:  true  if [update metadata]; otherwise,  false .
+
+**Returns:**
+boolean
 ### getVectorRasterizationOptions() {#getVectorRasterizationOptions--}
 ```
 public final VectorRasterizationOptions getVectorRasterizationOptions()
@@ -703,6 +717,21 @@ Value: The source to create image in.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [Source](../../com.aspose.psd/source) |  |
+
+### setUpdateMetadata(boolean value) {#setUpdateMetadata-boolean-}
+```
+public final void setUpdateMetadata(boolean value)
+```
+
+
+Gets or sets a value indicating whether [update metadata]. If the value is true, the metadata will be updated while saving an image.
+
+Value:  true  if [update metadata]; otherwise,  false .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setVectorRasterizationOptions(VectorRasterizationOptions value) {#setVectorRasterizationOptions-com.aspose.psd.imageoptions.VectorRasterizationOptions-}
 ```

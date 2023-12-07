@@ -82,6 +82,7 @@ Realization of Vibrance adjustment layer
 | [getArgb32Pixel(int x, int y)](#getArgb32Pixel-int-int-) | Gets an image 32-bit ARGB pixel. |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets a value for the background color. |
 | [getBitsPerPixel()](#getBitsPerPixel--) | Gets the image bits per pixel count. |
+| [getBlendClippedElements()](#getBlendClippedElements--) | Gets or sets the blending of clipped element. |
 | [getBlendModeKey()](#getBlendModeKey--) | Gets or sets the blend mode key. |
 | [getBlendModeSignature()](#getBlendModeSignature--) | Gets the blend mode signature. |
 | [getBlendingOptions()](#getBlendingOptions--) | Gets the blending options. |
@@ -264,6 +265,7 @@ Realization of Vibrance adjustment layer
 | [setAutoAdjustPalette(boolean value)](#setAutoAdjustPalette-boolean-) | Sets a value indicating whether automatic adjust palette. |
 | [setBackgroundColor(boolean value)](#setBackgroundColor-boolean-) | Gets or sets a value indicating whether image has background color. |
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.psd.Color-) | Gets or sets a value for the background color. |
+| [setBlendClippedElements(boolean value)](#setBlendClippedElements-boolean-) | Gets or sets the blending of clipped element. |
 | [setBlendModeKey(long value)](#setBlendModeKey-long-) | Gets or sets the blend mode key. |
 | [setBottom(int value)](#setBottom-int-) | Gets or sets the bottom layer position. |
 | [setBufferSizeHint(int value)](#setBufferSizeHint-int-) | Sets the buffer size hint which is defined max allowed size for all internal buffers. |
@@ -1120,6 +1122,18 @@ Value: The image bits per pixel count.
 
 **Returns:**
 int
+### getBlendClippedElements() {#getBlendClippedElements--}
+```
+public final boolean getBlendClippedElements()
+```
+
+
+Gets or sets the blending of clipped element.
+
+Value: The blending of clipped element.
+
+**Returns:**
+boolean
 ### getBlendModeKey() {#getBlendModeKey--}
 ```
 public long getBlendModeKey()
@@ -3429,6 +3443,21 @@ Gets or sets a value for the background color.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [Color](../../com.aspose.psd/color) |  |
+
+### setBlendClippedElements(boolean value) {#setBlendClippedElements-boolean-}
+```
+public final void setBlendClippedElements(boolean value)
+```
+
+
+Gets or sets the blending of clipped element.
+
+Value: The blending of clipped element.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setBlendModeKey(long value) {#setBlendModeKey-long-}
 ```

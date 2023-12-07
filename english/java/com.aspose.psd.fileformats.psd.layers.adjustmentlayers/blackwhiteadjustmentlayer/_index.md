@@ -83,6 +83,7 @@ The Black and White adjustment layer class.
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets a value for the background color. |
 | [getBitsPerPixel()](#getBitsPerPixel--) | Gets the image bits per pixel count. |
 | [getBlackAndWhitePresetFileName()](#getBlackAndWhitePresetFileName--) | Gets or sets the black and white preset file name. |
+| [getBlendClippedElements()](#getBlendClippedElements--) | Gets or sets the blending of clipped element. |
 | [getBlendModeKey()](#getBlendModeKey--) | Gets or sets the blend mode key. |
 | [getBlendModeSignature()](#getBlendModeSignature--) | Gets the blend mode signature. |
 | [getBlendingOptions()](#getBlendingOptions--) | Gets the blending options. |
@@ -277,6 +278,7 @@ The Black and White adjustment layer class.
 | [setBackgroundColor(boolean value)](#setBackgroundColor-boolean-) | Gets or sets a value indicating whether image has background color. |
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.psd.Color-) | Gets or sets a value for the background color. |
 | [setBlackAndWhitePresetFileName(String value)](#setBlackAndWhitePresetFileName-java.lang.String-) | Gets or sets the black and white preset file name. |
+| [setBlendClippedElements(boolean value)](#setBlendClippedElements-boolean-) | Gets or sets the blending of clipped element. |
 | [setBlendModeKey(long value)](#setBlendModeKey-long-) | Gets or sets the blend mode key. |
 | [setBlues(int value)](#setBlues-int-) | Gets or sets the blues value. |
 | [setBottom(int value)](#setBottom-int-) | Gets or sets the bottom layer position. |
@@ -1154,6 +1156,18 @@ Value: The black and white preset file name.
 
 **Returns:**
 java.lang.String
+### getBlendClippedElements() {#getBlendClippedElements--}
+```
+public final boolean getBlendClippedElements()
+```
+
+
+Gets or sets the blending of clipped element.
+
+Value: The blending of clipped element.
+
+**Returns:**
+boolean
 ### getBlendModeKey() {#getBlendModeKey--}
 ```
 public long getBlendModeKey()
@@ -3615,6 +3629,21 @@ Value: The black and white preset file name.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String |  |
+
+### setBlendClippedElements(boolean value) {#setBlendClippedElements-boolean-}
+```
+public final void setBlendClippedElements(boolean value)
+```
+
+
+Gets or sets the blending of clipped element.
+
+Value: The blending of clipped element.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setBlendModeKey(long value) {#setBlendModeKey-long-}
 ```

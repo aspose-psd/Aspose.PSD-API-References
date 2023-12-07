@@ -30,6 +30,7 @@ Represents the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.lay
 | [getFirstSupportedDescriptor_internalized(System.IO.Stream stream)](#getFirstSupportedDescriptor-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [getRegisteredDescriptors()](#getRegisteredDescriptors--) | Gets the registered descriptors. |
 | [hashCode()](#hashCode--) |  |
+| [isOSTypeStructreExist_internalized(int structureKey)](#isOSTypeStructreExist-internalized-int-) | Detects if any OSTypeStructure's descendant present with provided structureKey. |
 | [loadResourceByFirstSupportedDescriptor(InputStream stream)](#loadResourceByFirstSupportedDescriptor-java.io.InputStream-) | Loads [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) using first found opener suitable for the specified  stream . |
 | [loadResourceByFirstSupportedDescriptor_internalized(System.IO.Stream stream)](#loadResourceByFirstSupportedDescriptor-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [notify()](#notify--) |  |
@@ -146,6 +147,21 @@ public native int hashCode()
 
 **Returns:**
 int
+### isOSTypeStructreExist_internalized(int structureKey) {#isOSTypeStructreExist-internalized-int-}
+```
+public static boolean isOSTypeStructreExist_internalized(int structureKey)
+```
+
+
+Detects if any OSTypeStructure's descendant present with provided structureKey.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| structureKey | int | StructureKey of OSTypeStructure. |
+
+**Returns:**
+boolean - 
 ### loadResourceByFirstSupportedDescriptor(InputStream stream) {#loadResourceByFirstSupportedDescriptor-java.io.InputStream-}
 ```
 public static OSTypeStructure loadResourceByFirstSupportedDescriptor(InputStream stream)

@@ -41,6 +41,7 @@ Txt2 resource class
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getKeys_internalized(System.Collections.Generic.Dictionary<String,Object> tree)](#getKeys-internalized-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.String-java.lang.Object--) | Gets the is resource compressed. |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
+| [getParsedTxt2Model_internalized()](#getParsedTxt2Model-internalized--) | Parse the txt2 data to Txt2DataRoot class instance. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
 | [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
 | [getSignature()](#getSignature--) | Gets the layer resource signature. |
@@ -53,7 +54,6 @@ Txt2 resource class
 | [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | Gets a value indicating whether this instance is resource PSB specific. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [parseTxt2Model_internalized()](#parseTxt2Model-internalized--) | Parse the txt2 data to Txt2DataRoot class instance. |
 | [removeTextRecord_internalized(int textIndex)](#removeTextRecord-internalized-int-) | Remove the text record from Resource. |
 | [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the specified stream container. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
@@ -228,6 +228,16 @@ Gets the layer resource length in bytes.
 
 **Returns:**
 int
+### getParsedTxt2Model_internalized() {#getParsedTxt2Model-internalized--}
+```
+public final Txt2DataRoot getParsedTxt2Model_internalized()
+```
+
+
+Parse the txt2 data to Txt2DataRoot class instance.
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.text.txt2data.Txt2DataRoot - The txt2 data as Txt2DataRoot class instance.
 ### getPrefixLength_internalized(int psdVersion) {#getPrefixLength-internalized-int-}
 ```
 public final int getPrefixLength_internalized(int psdVersion)
@@ -363,16 +373,6 @@ public final native void notifyAll()
 
 
 
-### parseTxt2Model_internalized() {#parseTxt2Model-internalized--}
-```
-public final Txt2DataRoot parseTxt2Model_internalized()
-```
-
-
-Parse the txt2 data to Txt2DataRoot class instance.
-
-**Returns:**
-com.aspose.internal.fileformats.psd.layers.text.txt2data.Txt2DataRoot - The txt2 data as Txt2DataRoot class instance.
 ### removeTextRecord_internalized(int textIndex) {#removeTextRecord-internalized-int-}
 ```
 public final void removeTextRecord_internalized(int textIndex)
