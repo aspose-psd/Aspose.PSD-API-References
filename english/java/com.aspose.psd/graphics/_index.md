@@ -149,14 +149,15 @@ Represents the graphics according to the graphics engine used in the current ass
 | [getInterpolationMode()](#getInterpolationMode--) | Gets or sets the interpolation mode. |
 | [getPageScale()](#getPageScale--) | Gets or sets the scaling between world units and page units for this com.aspose.psd.graphics. |
 | [getPageUnit()](#getPageUnit--) | Gets or sets the unit of measure used for page coordinates in this com.aspose.psd.graphics. |
+| [getPaintableImageOptions()](#getPaintableImageOptions--) | Gets or sets image options, used to create paintable vactor images to draw. |
 | [getSmoothingMode()](#getSmoothingMode--) | Gets or sets the smoothing mode. |
 | [getTextRenderingHint()](#getTextRenderingHint--) | Gets or sets the text rendering hint. |
 | [getTransform()](#getTransform--) | Gets or sets a copy of the geometric world transformation for this  com.aspose.psd.graphics . |
 | [hashCode()](#hashCode--) |  |
 | [isInBeginUpdateCall()](#isInBeginUpdateCall--) | Gets a value indicating whether graphics is in BeginUpdate call state. |
-| [measureStringByPath_internalized(Font textFont, String text)](#measureStringByPath-internalized-com.aspose.psd.Font-java.lang.String-) | Measures the string using the [GraphicsPath](../../com.aspose.psd/graphicspath) class. |
-| [measureString_internalized(Font font, String text)](#measureString-internalized-com.aspose.psd.Font-java.lang.String-) |  |
-| [measureString_internalized(Font font, String text, boolean useMagicNumbersForStyles)](#measureString-internalized-com.aspose.psd.Font-java.lang.String-boolean-) | Measures the string. |
+| [measureStringByPath_internalized(Font textFont, String text, GetPrivateFontCache getPrivateFontCache)](#measureStringByPath-internalized-com.aspose.psd.Font-java.lang.String-com.aspose.internal.GetPrivateFontCache-) | Measures the string using the [GraphicsPath](../../com.aspose.psd/graphicspath) class. |
+| [measureString_internalized(Font font, String text)](#measureString-internalized-com.aspose.psd.Font-java.lang.String-) | Measures the string. |
+| [measureString_internalized(String text, Font font, SizeF layoutArea, StringFormat stringFormat, GetPrivateFontCache getPrivateFontCache, boolean useMagicNumbersForStyles)](#measureString-internalized-java.lang.String-com.aspose.psd.Font-com.aspose.psd.SizeF-com.aspose.psd.StringFormat-com.aspose.internal.GetPrivateFontCache-boolean-) | Measures the specified text string with specified parameters |
 | [multiplyTransform(Matrix matrix)](#multiplyTransform-com.aspose.psd.Matrix-) | Multiplies the  com.aspose.psd.Matrix  that represents the local geometric transform of this  com.aspose.psd.Graphics  by the specified  com.aspose.psd.Matrix  by prepending the specified  com.aspose.psd.matrix . |
 | [multiplyTransform(Matrix matrix, int order)](#multiplyTransform-com.aspose.psd.Matrix-int-) | Multiplies the  com.aspose.psd.Matrix  that represents the local geometric transform of this  com.aspose.psd.Graphics  by the specified  com.aspose.psd.Matrix  in the specified order. |
 | [notify()](#notify--) |  |
@@ -171,10 +172,10 @@ Represents the graphics according to the graphics engine used in the current ass
 | [setInterpolationMode(int value)](#setInterpolationMode-int-) | Gets or sets the interpolation mode. |
 | [setPageScale(float value)](#setPageScale-float-) | Gets or sets the scaling between world units and page units for this com.aspose.psd.graphics. |
 | [setPageUnit(int value)](#setPageUnit-int-) | Gets or sets the unit of measure used for page coordinates in this com.aspose.psd.graphics. |
+| [setPaintableImageOptions(ImageOptionsBase value)](#setPaintableImageOptions-com.aspose.psd.ImageOptionsBase-) | Gets or sets image options, used to create paintable vactor images to draw. |
 | [setSmoothingMode(int value)](#setSmoothingMode-int-) | Gets or sets the smoothing mode. |
 | [setTextRenderingHint(int value)](#setTextRenderingHint-int-) | Gets or sets the text rendering hint. |
 | [setTransform(Matrix value)](#setTransform-com.aspose.psd.Matrix-) | Gets or sets a copy of the geometric world transformation for this  com.aspose.psd.graphics . |
-| [testFont_internalized()](#testFont-internalized--) |  |
 | [toString()](#toString--) |  |
 | [translateTransform(float dx, float dy)](#translateTransform-float-float-) | Translates the local geometric transform by the specified dimensions. |
 | [translateTransform(float dx, float dy, int order)](#translateTransform-float-float-int-) | Translates the local geometric transform by the specified dimensions in the specified order. |
@@ -2017,6 +2018,18 @@ Gets or sets the unit of measure used for page coordinates in this com.aspose.ps
 
 **Returns:**
 int - The unit of measure used for page coordinates in this com.aspose.psd.graphics.
+### getPaintableImageOptions() {#getPaintableImageOptions--}
+```
+public final ImageOptionsBase getPaintableImageOptions()
+```
+
+
+Gets or sets image options, used to create paintable vactor images to draw.
+
+Value: The image options, used to create paintable vactor images to draw.
+
+**Returns:**
+[ImageOptionsBase](../../com.aspose.psd/imageoptionsbase)
 ### getSmoothingMode() {#getSmoothingMode--}
 ```
 public int getSmoothingMode()
@@ -2067,9 +2080,9 @@ Gets a value indicating whether graphics is in BeginUpdate call state.
 
 **Returns:**
 boolean -  True  if graphics is in BeginUpdate call state; otherwise,  false .
-### measureStringByPath_internalized(Font textFont, String text) {#measureStringByPath-internalized-com.aspose.psd.Font-java.lang.String-}
+### measureStringByPath_internalized(Font textFont, String text, GetPrivateFontCache getPrivateFontCache) {#measureStringByPath-internalized-com.aspose.psd.Font-java.lang.String-com.aspose.internal.GetPrivateFontCache-}
 ```
-public static RectangleF measureStringByPath_internalized(Font textFont, String text)
+public static RectangleF measureStringByPath_internalized(Font textFont, String text, GetPrivateFontCache getPrivateFontCache)
 ```
 
 
@@ -2080,6 +2093,7 @@ Measures the string using the [GraphicsPath](../../com.aspose.psd/graphicspath) 
 | --- | --- | --- |
 | textFont | [Font](../../com.aspose.psd/font) | The font. |
 | text | java.lang.String | The text. |
+| getPrivateFontCache | com.aspose.internal.GetPrivateFontCache |  |
 
 **Returns:**
 [RectangleF](../../com.aspose.psd/rectanglef) - The bounds of the string
@@ -2089,35 +2103,40 @@ public static SizeF measureString_internalized(Font font, String text)
 ```
 
 
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| font | [Font](../../com.aspose.psd/font) |  |
-| text | java.lang.String |  |
-
-**Returns:**
-[SizeF](../../com.aspose.psd/sizef)
-### measureString_internalized(Font font, String text, boolean useMagicNumbersForStyles) {#measureString-internalized-com.aspose.psd.Font-java.lang.String-boolean-}
-```
-public static SizeF measureString_internalized(Font font, String text, boolean useMagicNumbersForStyles)
-```
-
-
 Measures the string.
-
-GDI result is almost always not valid for Italic and often not valid for Bold styles.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | font | [Font](../../com.aspose.psd/font) | The font. |
-| text | java.lang.String | The text. |
-| useMagicNumbersForStyles | boolean |  |
+| text | java.lang.String | The text.
+
+--------------------
+
+GDI result is almost always not valid for Italic and often not valid for Bold styles. |
 
 **Returns:**
 [SizeF](../../com.aspose.psd/sizef) - The width and height of the string
+### measureString_internalized(String text, Font font, SizeF layoutArea, StringFormat stringFormat, GetPrivateFontCache getPrivateFontCache, boolean useMagicNumbersForStyles) {#measureString-internalized-java.lang.String-com.aspose.psd.Font-com.aspose.psd.SizeF-com.aspose.psd.StringFormat-com.aspose.internal.GetPrivateFontCache-boolean-}
+```
+public static SizeF measureString_internalized(String text, Font font, SizeF layoutArea, StringFormat stringFormat, GetPrivateFontCache getPrivateFontCache, boolean useMagicNumbersForStyles)
+```
+
+
+Measures the specified text string with specified parameters
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | java.lang.String | The text to measure. |
+| font | [Font](../../com.aspose.psd/font) | The font to measure. |
+| layoutArea | [SizeF](../../com.aspose.psd/sizef) | The layout area. |
+| stringFormat | [StringFormat](../../com.aspose.psd/stringformat) | The string format. |
+| getPrivateFontCache | com.aspose.internal.GetPrivateFontCache | The get private font cache. |
+| useMagicNumbersForStyles | boolean | if set to  true  [use magic numbers for styles]. |
+
+**Returns:**
+[SizeF](../../com.aspose.psd/sizef) - Size in pixels of measured text string
 ### multiplyTransform(Matrix matrix) {#multiplyTransform-com.aspose.psd.Matrix-}
 ```
 public void multiplyTransform(Matrix matrix)
@@ -2290,6 +2309,21 @@ Gets or sets the unit of measure used for page coordinates in this com.aspose.ps
 | --- | --- | --- |
 | value | int | The unit of measure used for page coordinates in this com.aspose.psd.graphics. |
 
+### setPaintableImageOptions(ImageOptionsBase value) {#setPaintableImageOptions-com.aspose.psd.ImageOptionsBase-}
+```
+public final void setPaintableImageOptions(ImageOptionsBase value)
+```
+
+
+Gets or sets image options, used to create paintable vactor images to draw.
+
+Value: The image options, used to create paintable vactor images to draw.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) |  |
+
 ### setSmoothingMode(int value) {#setSmoothingMode-int-}
 ```
 public void setSmoothingMode(int value)
@@ -2328,14 +2362,6 @@ Gets or sets a copy of the geometric world transformation for this  com.aspose.p
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [Matrix](../../com.aspose.psd/matrix) | A copy of the  com.aspose.psd.Matrix  that represents the geometric world transformation for this  com.aspose.psd.graphics . |
-
-### testFont_internalized() {#testFont-internalized--}
-```
-public static void testFont_internalized()
-```
-
-
-
 
 ### toString() {#toString--}
 ```

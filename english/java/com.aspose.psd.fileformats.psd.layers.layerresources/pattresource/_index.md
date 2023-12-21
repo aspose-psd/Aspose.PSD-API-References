@@ -31,6 +31,7 @@ Class PattResource. Resource with pattern data
 | [TypeToolKey](#TypeToolKey) | The 'Patt' type tool info key for 8-bits. |
 | [TypeToolKey2](#TypeToolKey2) | The 'Pat2' type tool info key for 16-bits. |
 | [TypeToolKey3](#TypeToolKey3) | The 'Pat3' type tool info key for 32-bits. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
@@ -139,6 +140,14 @@ public static final int TypeToolKey3
 
 
 The 'Pat3' type tool info key for 32-bits.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+The venture license.
 
 ### addNewPattResourceData_internalized(PattResource resource) {#addNewPattResourceData-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-}
 ```

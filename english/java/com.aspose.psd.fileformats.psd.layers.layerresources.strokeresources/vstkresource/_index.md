@@ -3,7 +3,7 @@ title: VstkResource
 second_title: Aspose.PSD for Java API Reference
 description: Resource class VstkResource.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/
 ---
 
@@ -18,7 +18,7 @@ Resource class VstkResource. Contains information about Vector Stroke Data. Reso
 
 | Constructor | Description |
 | --- | --- |
-| [VstkResource()](#VstkResource--) |  |
+| [VstkResource()](#VstkResource--) | Creates a new instance of the [VstkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource) class. |
 ## Fields
 
 | Field | Description |
@@ -28,6 +28,7 @@ Resource class VstkResource. Contains information about Vector Stroke Data. Reso
 | [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | The PSD header version |
 | [ResourceSignature](#ResourceSignature) | The common resource signature. |
 | [TypeToolKey](#TypeToolKey) | The type tool info key. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
@@ -36,7 +37,10 @@ Resource class VstkResource. Contains information about Vector Stroke Data. Reso
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
+| [getClassId_internalized()](#getClassId-internalized--) | Gets or sets ClassID instance. |
+| [getClassName_internalized()](#getClassName-internalized--) | Gets or sets class name. |
 | [getFillEnabled()](#getFillEnabled--) | Gets or sets a value indicating whether Stroke fill enabled. |
+| [getFillSettings()](#getFillSettings--) | Gets or sets Fill settings of the Stroke. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
@@ -70,6 +74,7 @@ Resource class VstkResource. Contains information about Vector Stroke Data. Reso
 | [setClassId_internalized(ClassID value)](#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets ClassID instance. |
 | [setClassName_internalized(String value)](#setClassName-internalized-java.lang.String-) | Gets or sets class name. |
 | [setFillEnabled(boolean value)](#setFillEnabled-boolean-) | Gets or sets a value indicating whether Stroke fill enabled. |
+| [setFillSettings(IFillSettings value)](#setFillSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.IFillSettings-) | Gets or sets Fill settings of the Stroke. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setStrokeEnabled(boolean value)](#setStrokeEnabled-boolean-) | Gets or sets a value indicating whether stroke effect enabled. |
 | [setStrokeStyleBlendMode(long value)](#setStrokeStyleBlendMode-long-) | Gets or sets Stroke Blend mode. |
@@ -96,6 +101,8 @@ Resource class VstkResource. Contains information about Vector Stroke Data. Reso
 public VstkResource()
 ```
 
+
+Creates a new instance of the [VstkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource) class.
 
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
@@ -136,6 +143,14 @@ public static final int TypeToolKey
 
 
 The type tool info key.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+The venture license.
 
 ### assginItems_internalized(System.Collections.Generic.List<OSTypeStructure> items) {#assginItems-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--}
 ```
@@ -188,6 +203,26 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getClassId_internalized() {#getClassId-internalized--}
+```
+public final ClassID getClassId_internalized()
+```
+
+
+Gets or sets ClassID instance.
+
+**Returns:**
+[ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid)
+### getClassName_internalized() {#getClassName-internalized--}
+```
+public final String getClassName_internalized()
+```
+
+
+Gets or sets class name.
+
+**Returns:**
+java.lang.String
 ### getFillEnabled() {#getFillEnabled--}
 ```
 public final boolean getFillEnabled()
@@ -198,6 +233,16 @@ Gets or sets a value indicating whether Stroke fill enabled.
 
 **Returns:**
 boolean
+### getFillSettings() {#getFillSettings--}
+```
+public final IFillSettings getFillSettings()
+```
+
+
+Gets or sets Fill settings of the Stroke.
+
+**Returns:**
+[IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings)
 ### getHeader_internalized() {#getHeader-internalized--}
 ```
 public final PsdHeader getHeader_internalized()
@@ -565,6 +610,19 @@ Gets or sets a value indicating whether Stroke fill enabled.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### setFillSettings(IFillSettings value) {#setFillSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.IFillSettings-}
+```
+public final void setFillSettings(IFillSettings value)
+```
+
+
+Gets or sets Fill settings of the Stroke.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings) |  |
 
 ### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
 ```

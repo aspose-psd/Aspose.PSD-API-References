@@ -33,6 +33,7 @@ Defines the class which contains information about an embedded file in the PSD f
 | [ResourceSignature](#ResourceSignature) | The common resource signature. |
 | [TypeToolKey](#TypeToolKey) | The type tool info key. |
 | [TypeToolKey](#TypeToolKey) | The type tool info key. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
@@ -158,6 +159,14 @@ public static final int TypeToolKey
 
 
 The type tool info key.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+The venture license.
 
 ### addDataSource_internalized(LinkDataSource dataSource) {#addDataSource-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-}
 ```

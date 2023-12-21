@@ -19,6 +19,11 @@ Psd load options
 | Constructor | Description |
 | --- | --- |
 | [PsdLoadOptions()](#PsdLoadOptions--) | Initializes a new instance of the [PsdLoadOptions](../../com.aspose.psd.imageloadoptions/psdloadoptions) class. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [CustomFontSources_internalized](#CustomFontSources-internalized) | The custom font sources |
 ## Methods
 
 | Method | Description |
@@ -49,6 +54,7 @@ Psd load options
 | [setIgnoreAlphaChannel(boolean value)](#setIgnoreAlphaChannel-boolean-) | Gets or sets a value indicating whether [ignore alpha channel]. |
 | [setIgnoreTextLayerWidthOnUpdate(boolean value)](#setIgnoreTextLayerWidthOnUpdate-boolean-) | Gets or sets a value indicating whether PSD text layer fixed width will be ignored on UpdateText operation execution. |
 | [setLoadEffectsResource(boolean value)](#setLoadEffectsResource-boolean-) | Gets or sets a value indicating whether [load effects resource] (by default resource is not loaded). |
+| [setMemMgr_internalized(MemMgr value)](#setMemMgr-internalized-com.aspose.internal.memorymanagement.MemMgr-) | Gets or sets the memory MGR. |
 | [setProgressEventHandler(ProgressEventHandler value)](#setProgressEventHandler-com.aspose.psd.ProgressEventHandler-) | Sets the progress event handler. |
 | [setReadOnlyMode(boolean value)](#setReadOnlyMode-boolean-) | Gets or sets a value indicating whether [use read only mode]. |
 | [setUseDiskForLoadEffectsResource(boolean value)](#setUseDiskForLoadEffectsResource-boolean-) | Gets or sets a value indicating whether [use disk for load effects resource] (by default used disk to load effects resource, but can be used memory if it is enought by setting this value to false). |
@@ -65,6 +71,14 @@ public PsdLoadOptions()
 
 
 Initializes a new instance of the [PsdLoadOptions](../../com.aspose.psd.imageloadoptions/psdloadoptions) class.
+
+### CustomFontSources_internalized {#CustomFontSources-internalized}
+```
+public System.Collections.Generic.List<CustomFontSource> CustomFontSources_internalized
+```
+
+
+The custom font sources
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
@@ -380,6 +394,21 @@ Value:  true  if [load effects resource]; otherwise,  false .
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### setMemMgr_internalized(MemMgr value) {#setMemMgr-internalized-com.aspose.internal.memorymanagement.MemMgr-}
+```
+public final void setMemMgr_internalized(MemMgr value)
+```
+
+
+Gets or sets the memory MGR.
+
+Value: The memory MGR.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.internal.memorymanagement.MemMgr |  |
 
 ### setProgressEventHandler(ProgressEventHandler value) {#setProgressEventHandler-com.aspose.psd.ProgressEventHandler-}
 ```

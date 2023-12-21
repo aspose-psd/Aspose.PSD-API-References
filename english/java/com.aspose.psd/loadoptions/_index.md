@@ -22,6 +22,11 @@ Represents the loading options.
 | Constructor | Description |
 | --- | --- |
 | [LoadOptions()](#LoadOptions--) |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [CustomFontSources_internalized](#CustomFontSources-internalized) | The custom font sources |
 ## Methods
 
 | Method | Description |
@@ -42,6 +47,7 @@ Represents the loading options.
 | [setDataBackgroundColor(Color value)](#setDataBackgroundColor-com.aspose.psd.Color-) | Sets the  Image  background  Color . |
 | [setDataRecoveryMode(int value)](#setDataRecoveryMode-int-) | Sets the data recovery mode. |
 | [setIgnoreAfterLoad_internalized(boolean value)](#setIgnoreAfterLoad-internalized-boolean-) | Sets a value indicating whether [ignore after load]. |
+| [setMemMgr_internalized(MemMgr value)](#setMemMgr-internalized-com.aspose.internal.memorymanagement.MemMgr-) | Gets or sets the memory MGR. |
 | [setProgressEventHandler(ProgressEventHandler value)](#setProgressEventHandler-com.aspose.psd.ProgressEventHandler-) | Sets the progress event handler. |
 | [setUseIccProfileConversion(boolean value)](#setUseIccProfileConversion-boolean-) | Sets a value indicating whether ICC profile conversion should be applied. |
 | [setVentureLicense_internalized(Object value)](#setVentureLicense-internalized-java.lang.Object-) | This is part of the venture licensing pattern. |
@@ -54,6 +60,14 @@ Represents the loading options.
 public LoadOptions()
 ```
 
+
+### CustomFontSources_internalized {#CustomFontSources-internalized}
+```
+public System.Collections.Generic.List<CustomFontSource> CustomFontSources_internalized
+```
+
+
+The custom font sources
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
@@ -237,6 +251,21 @@ Sets a value indicating whether [ignore after load].
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  true  if [ignore after load]; otherwise,  false . |
+
+### setMemMgr_internalized(MemMgr value) {#setMemMgr-internalized-com.aspose.internal.memorymanagement.MemMgr-}
+```
+public final void setMemMgr_internalized(MemMgr value)
+```
+
+
+Gets or sets the memory MGR.
+
+Value: The memory MGR.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.internal.memorymanagement.MemMgr |  |
 
 ### setProgressEventHandler(ProgressEventHandler value) {#setProgressEventHandler-com.aspose.psd.ProgressEventHandler-}
 ```

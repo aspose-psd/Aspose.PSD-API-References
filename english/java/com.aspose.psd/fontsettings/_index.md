@@ -25,6 +25,7 @@ General imaging vector formats renderer font settings.
 | [getDefaultFontsFolders()](#getDefaultFontsFolders--) | Gets the default fonts folders. |
 | [getFontReplacements(String fontName)](#getFontReplacements-java.lang.String-) | Gets the font replacements array by the font name |
 | [getFontsFolders()](#getFontsFolders--) | Gets a copy of the array that contains the list of folders where Aspose.Imaging looks for TrueType fonts. |
+| [getGetSystemAlternativeFont()](#getGetSystemAlternativeFont--) | Gets or sets a value indicating whether [get alternative font]. |
 | [getReplacementFont(String fontName)](#getReplacementFont-java.lang.String-) | Gets the most suitable replacement font. |
 | [hashCode()](#hashCode--) |  |
 | [isFontAllowed(String fontName)](#isFontAllowed-java.lang.String-) | Determines whether [is font allowed] [the specified font name]. |
@@ -37,6 +38,7 @@ General imaging vector formats renderer font settings.
 | [setFontsFolder(String folder)](#setFontsFolder-java.lang.String-) | Override font folder list for  folder  |
 | [setFontsFolders(String[] folders)](#setFontsFolders-java.lang.String---) | Override font folder list for  folders  |
 | [setFontsFolders(String[] folders, boolean recursive)](#setFontsFolders-java.lang.String---boolean-) | Sets the folders where TrueType fonts are loaded from and clears all loaded fonts. |
+| [setGetSystemAlternativeFont(boolean value)](#setGetSystemAlternativeFont-boolean-) | Gets or sets a value indicating whether [get alternative font]. |
 | [toString()](#toString--) |  |
 | [updateFonts()](#updateFonts--) | Updates fonts cache for PSD files that contain text layers. |
 | [wait()](#wait--) |  |
@@ -129,6 +131,18 @@ The returned value is a copy of the data that Aspose.Imaging uses. If you change
 
 **Returns:**
 java.lang.String[] - A copy of the current font locations.
+### getGetSystemAlternativeFont() {#getGetSystemAlternativeFont--}
+```
+public static boolean getGetSystemAlternativeFont()
+```
+
+
+Gets or sets a value indicating whether [get alternative font].
+
+Value:  true  if [get alternative font]; otherwise,  false .
+
+**Returns:**
+boolean
 ### getReplacementFont(String fontName) {#getReplacementFont-java.lang.String-}
 ```
 public static String getReplacementFont(String fontName)
@@ -272,6 +286,21 @@ Sets the folders where TrueType fonts are loaded from and clears all loaded font
 | --- | --- | --- |
 | folders | java.lang.String[] | The fonts folders. |
 | recursive | boolean | if set to  true  [recursive]. |
+
+### setGetSystemAlternativeFont(boolean value) {#setGetSystemAlternativeFont-boolean-}
+```
+public static void setGetSystemAlternativeFont(boolean value)
+```
+
+
+Gets or sets a value indicating whether [get alternative font].
+
+Value:  true  if [get alternative font]; otherwise,  false .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### toString() {#toString--}
 ```
