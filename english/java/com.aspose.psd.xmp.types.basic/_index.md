@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.types.basic
 second_title: Aspose.PSD for Java API Reference
 description: The package contains classes that represent the basic type values of XMP properties.
 type: docs
-weight: 80
+weight: 81
 url: /java/com.aspose.psd.xmp.types.basic/
 ---
 

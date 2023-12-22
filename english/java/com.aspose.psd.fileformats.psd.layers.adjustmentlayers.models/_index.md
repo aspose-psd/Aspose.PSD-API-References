@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.psd.layers.adjustmentlayers.models
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 33
+weight: 34
 url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers.models/
 ---
 

@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.schemas.xmpdm
 second_title: Aspose.PSD for Java API Reference
 description: The package contains XMP related helper classes constants and methods used by the Adobe dynamic media group.
 type: docs
-weight: 76
+weight: 77
 url: /java/com.aspose.psd.xmp.schemas.xmpdm/
 ---
 

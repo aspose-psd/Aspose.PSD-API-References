@@ -93,6 +93,7 @@ Defines the SoLdResource class that contains information about a smart object la
 | [YouCannotSetCompPropertyMessage_internalized](#YouCannotSetCompPropertyMessage-internalized) | You cannot set Comp property message |
 | [YouCannotSetOriginalCompIdPropertyMessage_internalized](#YouCannotSetOriginalCompIdPropertyMessage-internalized) | You cannot set OriginalCompId property message |
 | [ZeroChar_internalized](#ZeroChar-internalized) | The zero character. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
@@ -157,6 +158,7 @@ Defines the SoLdResource class that contains information about a smart object la
 | [get_Item(String index)](#get-Item-java.lang.String-) | Gets the \{@link \#\#Aspose\#PSD\#FileFormats\#Psd\#Layers\#LayerResources\} at the specified index. |
 | [hasBoundsUnits_internalized()](#hasBoundsUnits-internalized--) | Gets a value indicating whether this instance has bounds units. |
 | [hashCode()](#hashCode--) |  |
+| [initProreties_internalized(PlaceResourceParams plLdResourceParams)](#initProreties-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams-) |  |
 | [initializeBounds_internalized(Rectangle bounds)](#initializeBounds-internalized-com.aspose.psd.Rectangle-) | Initializes the bounds and matrices. |
 | [initializeItems_internalized()](#initializeItems-internalized--) |  |
 | [isCustom()](#isCustom--) | Gets or sets a value indicating whether this instance warp style is custom. |
@@ -793,6 +795,14 @@ public static final char ZeroChar_internalized
 
 
 The zero character.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+The venture license.
 
 ### assert_internalized(Object actualValue, Object expectedValue, String message) {#assert-internalized-java.lang.Object-java.lang.Object-java.lang.String-}
 ```
@@ -1517,6 +1527,19 @@ public native int hashCode()
 
 **Returns:**
 int
+### initProreties_internalized(PlaceResourceParams plLdResourceParams) {#initProreties-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams-}
+```
+public final void initProreties_internalized(PlaceResourceParams plLdResourceParams)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| plLdResourceParams | com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams |  |
+
 ### initializeBounds_internalized(Rectangle bounds) {#initializeBounds-internalized-com.aspose.psd.Rectangle-}
 ```
 public final void initializeBounds_internalized(Rectangle bounds)

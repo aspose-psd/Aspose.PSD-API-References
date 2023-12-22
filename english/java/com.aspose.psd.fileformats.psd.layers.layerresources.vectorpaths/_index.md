@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 45
+weight: 46
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths/
 ---
 

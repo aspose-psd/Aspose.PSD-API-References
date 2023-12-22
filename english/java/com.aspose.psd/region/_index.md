@@ -65,6 +65,7 @@ Describes the interior of a graphics shape composed of rectangles and paths. Thi
 | [makeInfinite()](#makeInfinite--) | Initializes this  com.aspose.psd.Region  object to an infinite interior. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setOnChangeRegion_internalized(ChangeActionList value)](#setOnChangeRegion-internalized-com.aspose.internal.ChangeActionList-) | Gets or sets the on change region. |
 | [toString()](#toString--) |  |
 | [transform(Matrix matrix)](#transform-com.aspose.psd.Matrix-) | Transforms this  com.aspose.psd.Region  by the specified  com.aspose.psd.matrix . |
 | [translate(float dx, float dy)](#translate-float-float-) | Offsets the coordinates of this  com.aspose.psd.Region  by the specified amount. |
@@ -663,6 +664,21 @@ public final native void notifyAll()
 
 
 
+
+### setOnChangeRegion_internalized(ChangeActionList value) {#setOnChangeRegion-internalized-com.aspose.internal.ChangeActionList-}
+```
+public final void setOnChangeRegion_internalized(ChangeActionList value)
+```
+
+
+Gets or sets the on change region.
+
+Value: The on change region.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.internal.ChangeActionList |  |
 
 ### toString() {#toString--}
 ```

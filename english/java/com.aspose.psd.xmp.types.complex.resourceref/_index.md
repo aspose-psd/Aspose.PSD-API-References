@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.types.complex.resourceref
 second_title: Aspose.PSD for Java API Reference
 description: The package contains class that is a multiple part reference to a resource.
 type: docs
-weight: 86
+weight: 87
 url: /java/com.aspose.psd.xmp.types.complex.resourceref/
 ---
 

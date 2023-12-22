@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.tiff.pathresources
 second_title: Aspose.PSD for Java API Reference
 description: The namespace handles Tiff file format processing.
 type: docs
-weight: 56
+weight: 57
 url: /java/com.aspose.psd.fileformats.tiff.pathresources/
 ---
 

@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.psd.layers.animation
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 34
+weight: 35
 url: /java/com.aspose.psd.fileformats.psd.layers.animation/
 ---
 

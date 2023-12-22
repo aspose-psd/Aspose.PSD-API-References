@@ -38,6 +38,7 @@ BlncResource class is a resource of Color Adjustment Layer.
 | [ShadowsMagentaGreenBalanceExceptionMessage_internalized](#ShadowsMagentaGreenBalanceExceptionMessage-internalized) | The shadows magenta green balance out of range exception message. |
 | [ShadowsYellowBlueBalanceExceptionMessage_internalized](#ShadowsYellowBlueBalanceExceptionMessage-internalized) | The shadows yellow blue balance out of range exception message. |
 | [TypeToolKey](#TypeToolKey) | The type tool info key. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
@@ -213,6 +214,14 @@ public static final int TypeToolKey
 
 
 The type tool info key.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+The venture license.
 
 ### checkAndSetIfResourceIsPsbSpecific_internalized(int key) {#checkAndSetIfResourceIsPsbSpecific-internalized-int-}
 ```

@@ -45,6 +45,7 @@ The image is the base class for all type of images.
 | [dispose()](#dispose--) | Disposes the current instance. |
 | [doAfterSave_internalized(System.IO.Stream stream)](#doAfterSave-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAutoAdjustPalette()](#getAutoAdjustPalette--) | Gets a value indicating whether automatic adjust palette. |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets a value for the background color. |
 | [getBitsPerPixel()](#getBitsPerPixel--) | Gets the image bits per pixel count. |
 | [getBounds()](#getBounds--) | Gets the image bounds. |
@@ -56,17 +57,18 @@ The image is the base class for all type of images.
 | [getDefaultOptions(Object[] args)](#getDefaultOptions-java.lang.Object---) | Gets the default options. |
 | [getDisposed()](#getDisposed--) | Gets a value indicating whether this instance is disposed. |
 | [getFileFormat()](#getFileFormat--) | Gets a value of file format |
+| [getFileFormat(System.IO.Stream stream)](#getFileFormat-com.aspose.ms.System.IO.Stream-) | Gets the file format. |
 | [getFileFormat(InputStream stream)](#getFileFormat-java.io.InputStream-) | Gets the file format. |
 | [getFileFormat(String filePath)](#getFileFormat-java.lang.String-) | Gets the file format. |
-| [getFileFormatInternal_internalized(System.IO.Stream stream)](#getFileFormatInternal-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [getFittingRectangle(Rectangle rectangle, int width, int height)](#getFittingRectangle-com.aspose.psd.Rectangle-int-int-) | Gets rectangle which fits the current image. |
 | [getFittingRectangle(Rectangle rectangle, int[] pixels, int width, int height)](#getFittingRectangle-com.aspose.psd.Rectangle-int---int-int-) | Gets rectangle which fits the current image. |
 | [getHeight()](#getHeight--) | Gets the image height. |
 | [getInterruptMonitor()](#getInterruptMonitor--) | Gets the interrupt monitor. |
 | [getMemoryMgr_internalized()](#getMemoryMgr-internalized--) | Gets the memory manager. |
 | [getOriginalOptions()](#getOriginalOptions--) | Gets the options based on the original file settings. |
-| [getPaintableImage_internalized()](#getPaintableImage-internalized--) | Gets the paintable image. |
+| [getPaintableImage_internalized(ImageOptionsBase paintableOptions)](#getPaintableImage-internalized-com.aspose.psd.ImageOptionsBase-) | Gets the paintable image. |
 | [getPalette()](#getPalette--) | Gets the color palette. |
+| [getPrivateFontCache_internalized()](#getPrivateFontCache-internalized--) | Creates the private font cache. |
 | [getProgressEventHandler()](#getProgressEventHandler--) | Gets the progress event handler information. |
 | [getProgressEventHandlerInfo()](#getProgressEventHandlerInfo--) | Gets the progress event handler information. |
 | [getProportionalHeight(int width, int height, int newWidth)](#getProportionalHeight-int-int-int-) | Gets a proportional height. |
@@ -81,7 +83,6 @@ The image is the base class for all type of images.
 | [hashCode()](#hashCode--) |  |
 | [incrementProgressMaxValue_internalized(int value)](#incrementProgressMaxValue-internalized-int-) | Gets or sets the progress max value |
 | [indicateProgress_internalized(EventType eventType)](#indicateProgress-internalized-com.aspose.psd.progressmanagement.EventType-) | Indicates the progress. |
-| [isAutoAdjustPalette()](#isAutoAdjustPalette--) | Gets a value indicating whether automatic adjust palette. |
 | [isCached()](#isCached--) | Gets a value indicating whether object's data is cached currently and no data reading is required. |
 | [isUsePalette()](#isUsePalette--) | Gets a value indicating whether the image palette is used. |
 | [load(InputStream stream)](#load-java.io.InputStream-) | Loads a new image from the specified stream. |
@@ -395,6 +396,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getAutoAdjustPalette() {#getAutoAdjustPalette--}
+```
+public boolean getAutoAdjustPalette()
+```
+
+
+Gets a value indicating whether automatic adjust palette.
+
+**Returns:**
+boolean -  true  if enable automatic adjust palette; otherwise,  false .
 ### getBackgroundColor() {#getBackgroundColor--}
 ```
 public Color getBackgroundColor()
@@ -516,6 +527,25 @@ Gets a value of file format
 
 **Returns:**
 long
+### getFileFormat(System.IO.Stream stream) {#getFileFormat-com.aspose.ms.System.IO.Stream-}
+```
+public static long getFileFormat(System.IO.Stream stream)
+```
+
+
+Gets the file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | com.aspose.ms.System.IO.Stream | The stream.
+
+--------------------
+
+The file format determined does not mean that the specified image may be loaded. Use one of the CanLoad method overloads to determine whether stream may be loaded. |
+
+**Returns:**
+long - The determined file format.
 ### getFileFormat(InputStream stream) {#getFileFormat-java.io.InputStream-}
 ```
 public static long getFileFormat(InputStream stream)
@@ -550,21 +580,6 @@ The file format determined does not mean that the specified image may be loaded.
 
 **Returns:**
 long - The determined file format.
-### getFileFormatInternal_internalized(System.IO.Stream stream) {#getFileFormatInternal-internalized-com.aspose.ms.System.IO.Stream-}
-```
-public static long getFileFormatInternal_internalized(System.IO.Stream stream)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | com.aspose.ms.System.IO.Stream |  |
-
-**Returns:**
-long
 ### getFittingRectangle(Rectangle rectangle, int width, int height) {#getFittingRectangle-com.aspose.psd.Rectangle-int-int-}
 ```
 public static Rectangle getFittingRectangle(Rectangle rectangle, int width, int height)
@@ -642,13 +657,18 @@ Gets the options based on the original file settings. This can be helpful to kee
 
 **Returns:**
 [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) - The options based on the original file settings.
-### getPaintableImage_internalized() {#getPaintableImage-internalized--}
+### getPaintableImage_internalized(ImageOptionsBase paintableOptions) {#getPaintableImage-internalized-com.aspose.psd.ImageOptionsBase-}
 ```
-public Image getPaintableImage_internalized()
+public Image getPaintableImage_internalized(ImageOptionsBase paintableOptions)
 ```
 
 
 Gets the paintable image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| paintableOptions | [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) |  |
 
 **Returns:**
 [Image](../../com.aspose.psd/image) - the paintable image.
@@ -662,6 +682,16 @@ Gets the color palette. The color palette is not used when pixels are represente
 
 **Returns:**
 [IColorPalette](../../com.aspose.psd/icolorpalette) - The color palette.
+### getPrivateFontCache_internalized() {#getPrivateFontCache-internalized--}
+```
+public final PalPrivateFontCache getPrivateFontCache_internalized()
+```
+
+
+Creates the private font cache.
+
+**Returns:**
+com.aspose.foundation.pal.PalPrivateFontCache - The private font cache.
 ### getProgressEventHandler() {#getProgressEventHandler--}
 ```
 public final ProgressEventHandler getProgressEventHandler()
@@ -828,16 +858,6 @@ Indicates the progress.
 | --- | --- | --- |
 | eventType | [EventType](../../com.aspose.psd.progressmanagement/eventtype) |  |
 
-### isAutoAdjustPalette() {#isAutoAdjustPalette--}
-```
-public boolean isAutoAdjustPalette()
-```
-
-
-Gets a value indicating whether automatic adjust palette.
-
-**Returns:**
-boolean -  true  if enable automatic adjust palette; otherwise,  false .
 ### isCached() {#isCached--}
 ```
 public abstract boolean isCached()

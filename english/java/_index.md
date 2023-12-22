@@ -31,6 +31,7 @@ is_root: true
 | [com.aspose.psd.fileformats.pdf](./com.aspose.psd.fileformats.pdf) | The package contains classes for PDF file format integration. |
 | [com.aspose.psd.fileformats.png](./com.aspose.psd.fileformats.png) | The package handles Png file format processing. |
 | [com.aspose.psd.fileformats.psd](./com.aspose.psd.fileformats.psd) |  |
+| [com.aspose.psd.fileformats.psd.coreexceptions](./com.aspose.psd.fileformats.psd.coreexceptions) |  |
 | [com.aspose.psd.fileformats.psd.layers](./com.aspose.psd.fileformats.psd.layers) |  |
 | [com.aspose.psd.fileformats.psd.layers.adjustmentlayers](./com.aspose.psd.fileformats.psd.layers.adjustmentlayers) |  |
 | [com.aspose.psd.fileformats.psd.layers.adjustmentlayers.models](./com.aspose.psd.fileformats.psd.layers.adjustmentlayers.models) |  |

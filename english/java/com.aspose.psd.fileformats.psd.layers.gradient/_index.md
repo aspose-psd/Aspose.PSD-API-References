@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.psd.layers.gradient
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 37
+weight: 38
 url: /java/com.aspose.psd.fileformats.psd.layers.gradient/
 ---
 
