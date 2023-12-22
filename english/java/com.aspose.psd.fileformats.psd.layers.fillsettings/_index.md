@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.psd.layers.fillsettings
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 36
+weight: 37
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/
 ---
 

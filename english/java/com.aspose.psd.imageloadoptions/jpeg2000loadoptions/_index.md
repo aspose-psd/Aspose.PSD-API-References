@@ -19,6 +19,11 @@ JPEG2000 load options
 | Constructor | Description |
 | --- | --- |
 | [Jpeg2000LoadOptions()](#Jpeg2000LoadOptions--) | Initializes a new instance of the  Jpeg2000LoadOptions  class. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [CustomFontSources_internalized](#CustomFontSources-internalized) | The custom font sources |
 ## Methods
 
 | Method | Description |
@@ -45,6 +50,7 @@ JPEG2000 load options
 | [setIgnoreAfterLoad_internalized(boolean value)](#setIgnoreAfterLoad-internalized-boolean-) | Sets a value indicating whether [ignore after load]. |
 | [setMaximumDecodingTime(int value)](#setMaximumDecodingTime-int-) | Sets the maximum decoding time in seconds (this option can be used on very slow on memory machines to prevent hanging on process on very big images - resolution more than 5500x6500 pixels). |
 | [setMaximumDecodingTimeForTile(int value)](#setMaximumDecodingTimeForTile-int-) | Sets the maximum decoding time for tile. |
+| [setMemMgr_internalized(MemMgr value)](#setMemMgr-internalized-com.aspose.internal.memorymanagement.MemMgr-) | Gets or sets the memory MGR. |
 | [setProgressEventHandler(ProgressEventHandler value)](#setProgressEventHandler-com.aspose.psd.ProgressEventHandler-) | Sets the progress event handler. |
 | [setUseIccProfileConversion(boolean value)](#setUseIccProfileConversion-boolean-) | Sets a value indicating whether ICC profile conversion should be applied. |
 | [setVentureLicense_internalized(Object value)](#setVentureLicense-internalized-java.lang.Object-) | This is part of the venture licensing pattern. |
@@ -59,6 +65,14 @@ public Jpeg2000LoadOptions()
 
 
 Initializes a new instance of the  Jpeg2000LoadOptions  class.
+
+### CustomFontSources_internalized {#CustomFontSources-internalized}
+```
+public System.Collections.Generic.List<CustomFontSource> CustomFontSources_internalized
+```
+
+
+The custom font sources
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
@@ -315,6 +329,21 @@ Value: The maximum decoding time for tile.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | the maximum decoding time for tile. |
+
+### setMemMgr_internalized(MemMgr value) {#setMemMgr-internalized-com.aspose.internal.memorymanagement.MemMgr-}
+```
+public final void setMemMgr_internalized(MemMgr value)
+```
+
+
+Gets or sets the memory MGR.
+
+Value: The memory MGR.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.internal.memorymanagement.MemMgr |  |
 
 ### setProgressEventHandler(ProgressEventHandler value) {#setProgressEventHandler-com.aspose.psd.ProgressEventHandler-}
 ```

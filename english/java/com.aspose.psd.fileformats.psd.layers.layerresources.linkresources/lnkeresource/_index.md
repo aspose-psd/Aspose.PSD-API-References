@@ -33,6 +33,7 @@ Defines the LnkeResource class that contains information about external linked f
 | [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | The PSD header version |
 | [ResourceSignature](#ResourceSignature) | The common resource signature. |
 | [TypeToolKey](#TypeToolKey) | The type tool info key. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
@@ -162,6 +163,14 @@ public static final int TypeToolKey
 
 
 The type tool info key.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+The venture license.
 
 ### addDataSource_internalized(LinkDataSource dataSource) {#addDataSource-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-}
 ```

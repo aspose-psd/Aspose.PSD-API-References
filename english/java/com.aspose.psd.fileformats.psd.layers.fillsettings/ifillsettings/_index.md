@@ -16,6 +16,7 @@ Base interface for fill settings
 | Method | Description |
 | --- | --- |
 | [getFillType()](#getFillType--) | Gets the type of the fill. |
+| [setColor(Color value)](#setColor-com.aspose.psd.Color-) |  |
 ### getFillType() {#getFillType--}
 ```
 public abstract int getFillType()
@@ -28,3 +29,16 @@ Value: The type of the fill.
 
 **Returns:**
 int
+### setColor(Color value) {#setColor-com.aspose.psd.Color-}
+```
+public abstract void setColor(Color value)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.psd/color) |  |
+

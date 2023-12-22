@@ -1,7 +1,7 @@
 ---
 title: RegionExtensions
 second_title: Aspose.PSD for Java API Reference
-description: Contains extension methods for the Region class.
+description: Contains extension methods for the  class.
 type: docs
 weight: 24
 url: /java/com.aspose.psd.extensions/regionextensions/
@@ -13,21 +13,49 @@ java.lang.Object
 public final class RegionExtensions
 ```
 
-Contains extension methods for the  Region  class.
+Contains extension methods for the [Region](../../com.aspose.psd/region) class.
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [RegionExtensions()](#RegionExtensions--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [actionToGdiRegion_internalized(RegionAction action, System.Drawing.Region gdiRegion)](#actionToGdiRegion-internalized-com.aspose.internal.RegionAction-com.aspose.ms.System.Drawing.Region-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [toGdiRegion(Region region)](#toGdiRegion-com.aspose.psd.Region-) | Converts the  Region  to the  System.Drawing.Region . |
+| [toGdiRegion(Region region)](#toGdiRegion-com.aspose.psd.Region-) | Converts the [Region](../../com.aspose.psd/region) to the [Region](../../com.aspose.psd/region). |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### RegionExtensions() {#RegionExtensions--}
+```
+public RegionExtensions()
+```
+
+
+### actionToGdiRegion_internalized(RegionAction action, System.Drawing.Region gdiRegion) {#actionToGdiRegion-internalized-com.aspose.internal.RegionAction-com.aspose.ms.System.Drawing.Region-}
+```
+public static System.Drawing.Region actionToGdiRegion_internalized(RegionAction action, System.Drawing.Region gdiRegion)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| action | com.aspose.internal.RegionAction |  |
+| gdiRegion | com.aspose.ms.System.Drawing.Region |  |
+
+**Returns:**
+[Region](../../com.aspose.ms.system.drawing/region)
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -85,15 +113,15 @@ public static System.Drawing.Region toGdiRegion(Region region)
 ```
 
 
-Converts the  Region  to the  System.Drawing.Region .
+Converts the [Region](../../com.aspose.psd/region) to the [Region](../../com.aspose.psd/region).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| region | [Region](../../com.aspose.psd/region) | The  Region  to convert. |
+| region | [Region](../../com.aspose.psd/region) | The [Region](../../com.aspose.psd/region) to convert. |
 
 **Returns:**
-[Region](../../com.aspose.ms.system.drawing/region) - The converted  System.Drawing.Region .
+[Region](../../com.aspose.ms.system.drawing/region) - The converted [Region](../../com.aspose.psd/region).
 ### toString() {#toString--}
 ```
 public String toString()

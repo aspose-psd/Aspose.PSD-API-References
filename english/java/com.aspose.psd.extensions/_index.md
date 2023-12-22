@@ -29,6 +29,6 @@ The package contains extension methods.
 | [PenExtensions](../com.aspose.psd.extensions/penextensions) | Contains extension methods for  Pen  and  System.Drawing.Pen . |
 | [PointExtensions](../com.aspose.psd.extensions/pointextensions) | Contains extension methods for  Point  and  PointF  structures. |
 | [RectangleExtensions](../com.aspose.psd.extensions/rectangleextensions) | Contains extension methods for  Rectangle . |
-| [RegionExtensions](../com.aspose.psd.extensions/regionextensions) | Contains extension methods for the  Region  class. |
+| [RegionExtensions](../com.aspose.psd.extensions/regionextensions) | Contains extension methods for the [Region](../com.aspose.psd/region) class. |
 | [RotateFlipExtensions](../com.aspose.psd.extensions/rotateflipextensions) | Contains extension methods for conversion the  System.Drawing.RotateFlipType  and the  RotateFlipType  classes. |
 | [StringFormatExtensions](../com.aspose.psd.extensions/stringformatextensions) | Contains extension methods for the  StringFormat  class. |

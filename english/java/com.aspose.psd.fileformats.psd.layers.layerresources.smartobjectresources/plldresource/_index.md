@@ -55,12 +55,14 @@ Defines the PlLdResource class that contains information about a placed layer in
 | [WarpStyleKey_internalized](#WarpStyleKey-internalized) | The warp style key |
 | [WarpValueKey_internalized](#WarpValueKey-internalized) | The warp value key |
 | [ZeroChar_internalized](#ZeroChar-internalized) | The zero character. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [assert_internalized(Object actualValue, Object expectedValue, String message)](#assert-internalized-java.lang.Object-java.lang.Object-java.lang.String-) | Asserts that the specified actual value equals to the expected value. |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
+| [create_internalized(PlaceResourceParams plLdResourceParams)](#create-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams-) |  |
 | [create_internalized(System.Guid uniqueId, boolean isCustom)](#create-internalized-com.aspose.ms.System.Guid-boolean-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAntiAliasPolicy()](#getAntiAliasPolicy--) | Gets or sets the anti alias policy of the placed layer in the PSD image. |
@@ -102,6 +104,7 @@ Defines the PlLdResource class that contains information about a placed layer in
 | [get_Item(String index)](#get-Item-java.lang.String-) | Gets the \{@link \#\#Aspose\#PSD\#FileFormats\#Psd\#Layers\#LayerResources\} at the specified index. |
 | [hasBoundsUnits_internalized()](#hasBoundsUnits-internalized--) | Gets a value indicating whether this instance has bounds units. |
 | [hashCode()](#hashCode--) |  |
+| [initProreties_internalized(PlaceResourceParams plLdResourceParams)](#initProreties-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams-) |  |
 | [initializeItems_internalized()](#initializeItems-internalized--) |  |
 | [isCustom()](#isCustom--) | Gets or sets a value indicating whether this instance warp style is custom. |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
@@ -411,6 +414,14 @@ public static final char ZeroChar_internalized
 
 The zero character.
 
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+The venture license.
+
 ### assert_internalized(Object actualValue, Object expectedValue, String message) {#assert-internalized-java.lang.Object-java.lang.Object-java.lang.String-}
 ```
 public static void assert_internalized(Object actualValue, Object expectedValue, String message)
@@ -439,6 +450,21 @@ Checks the and set if resource is PSB specific. Some resources are not recognize
 | --- | --- | --- |
 | key | int | The key. |
 
+### create_internalized(PlaceResourceParams plLdResourceParams) {#create-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams-}
+```
+public static PlLdResource create_internalized(PlaceResourceParams plLdResourceParams)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| plLdResourceParams | com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams |  |
+
+**Returns:**
+[PlLdResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources/plldresource)
 ### create_internalized(System.Guid uniqueId, boolean isCustom) {#create-internalized-com.aspose.ms.System.Guid-boolean-}
 ```
 public static PlLdResource create_internalized(System.Guid uniqueId, boolean isCustom)
@@ -928,6 +954,19 @@ public native int hashCode()
 
 **Returns:**
 int
+### initProreties_internalized(PlaceResourceParams plLdResourceParams) {#initProreties-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams-}
+```
+public final void initProreties_internalized(PlaceResourceParams plLdResourceParams)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| plLdResourceParams | com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams |  |
+
 ### initializeItems_internalized() {#initializeItems-internalized--}
 ```
 public void initializeItems_internalized()

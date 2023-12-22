@@ -26,6 +26,7 @@ Defines the LinkResource class that contains information about linked or embedde
 | [PsbResourceSignature](#PsbResourceSignature) | The PSB-specific resource signature. |
 | [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | The PSD header version |
 | [ResourceSignature](#ResourceSignature) | The common resource signature. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
@@ -126,6 +127,14 @@ public static final int ResourceSignature
 
 
 The common resource signature.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+The venture license.
 
 ### addDataSource_internalized(LinkDataSource dataSource) {#addDataSource-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-}
 ```

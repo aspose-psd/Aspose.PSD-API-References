@@ -29,6 +29,7 @@ The Filter Effects resource contains channels, a user mask, and a sheet mask for
 | [PsbResourceSignature](#PsbResourceSignature) | The PSB-specific resource signature. |
 | [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | The PSD header version |
 | [ResourceSignature](#ResourceSignature) | The common resource signature. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
@@ -120,6 +121,14 @@ public static final int ResourceSignature
 
 
 The common resource signature.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+The venture license.
 
 ### checkAndSetIfResourceIsPsbSpecific_internalized(int key) {#checkAndSetIfResourceIsPsbSpecific-internalized-int-}
 ```

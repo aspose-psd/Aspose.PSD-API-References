@@ -80,8 +80,10 @@ The color balance adjustment layer class.
 | [getAbsoluteBounds_internalized()](#getAbsoluteBounds-internalized--) | Gets or sets the absolute bounds. |
 | [getAdjustmentLayerType_internalized()](#getAdjustmentLayerType-internalized--) | Gets the type of the adjustment layer. |
 | [getArgb32Pixel(int x, int y)](#getArgb32Pixel-int-int-) | Gets an image 32-bit ARGB pixel. |
+| [getAutoAdjustPalette()](#getAutoAdjustPalette--) | Gets a value indicating whether automatic adjust palette. |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets a value for the background color. |
 | [getBitsPerPixel()](#getBitsPerPixel--) | Gets the image bits per pixel count. |
+| [getBlendClippedElements()](#getBlendClippedElements--) | Gets or sets the blending of clipped element. |
 | [getBlendModeKey()](#getBlendModeKey--) | Gets or sets the blend mode key. |
 | [getBlendModeSignature()](#getBlendModeSignature--) | Gets the blend mode signature. |
 | [getBlendingOptions()](#getBlendingOptions--) | Gets the blending options. |
@@ -107,9 +109,9 @@ The color balance adjustment layer class.
 | [getDisposed()](#getDisposed--) | Gets a value indicating whether this instance is disposed. |
 | [getExtraLength()](#getExtraLength--) | Gets the layer extra information length in bytes. |
 | [getFileFormat()](#getFileFormat--) | Gets a value of file format |
+| [getFileFormat(System.IO.Stream stream)](#getFileFormat-com.aspose.ms.System.IO.Stream-) | Gets the file format. |
 | [getFileFormat(InputStream stream)](#getFileFormat-java.io.InputStream-) | Gets the file format. |
 | [getFileFormat(String filePath)](#getFileFormat-java.lang.String-) | Gets the file format. |
-| [getFileFormatInternal_internalized(System.IO.Stream stream)](#getFileFormatInternal-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [getFillOpacity()](#getFillOpacity--) | Gets or sets the fill opacity. |
 | [getFiller()](#getFiller--) | Gets or sets the layer filler. |
 | [getFittingRectangle(Rectangle rectangle, int width, int height)](#getFittingRectangle-com.aspose.psd.Rectangle-int-int-) | Gets rectangle which fits the current image. |
@@ -148,11 +150,12 @@ The color balance adjustment layer class.
 | [getOpacity()](#getOpacity--) | Gets or sets the layer opacity. |
 | [getOpacityTotal_internalized()](#getOpacityTotal-internalized--) | Gets the total opacity. |
 | [getOriginalOptions()](#getOriginalOptions--) | Gets the options based on the original file settings. |
-| [getPaintableImage_internalized()](#getPaintableImage-internalized--) | Gets the paintable image. |
+| [getPaintableImage_internalized(ImageOptionsBase paintableOptions)](#getPaintableImage-internalized-com.aspose.psd.ImageOptionsBase-) | Gets the paintable image. |
 | [getPalette()](#getPalette--) | Gets the color palette. |
 | [getPixel(int x, int y)](#getPixel-int-int-) | Gets an image pixel. |
 | [getPremultiplyComponents()](#getPremultiplyComponents--) | Gets or sets a value indicating whether the image components must be premultiplied. |
 | [getPreserveLuminosity()](#getPreserveLuminosity--) | Gets or sets a value indicating whether this [BlncResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/blncresource) preserves luminosity. |
+| [getPrivateFontCache_internalized()](#getPrivateFontCache-internalized--) | Creates the private font cache. |
 | [getProcessor_internalized()](#getProcessor-internalized--) | Gets the processor. |
 | [getProgressEventHandler()](#getProgressEventHandler--) | Gets the progress event handler information. |
 | [getProgressEventHandlerInfo()](#getProgressEventHandlerInfo--) | Gets the progress event handler information. |
@@ -193,7 +196,6 @@ The color balance adjustment layer class.
 | [hashCode()](#hashCode--) | Returns a hash code for this instance. |
 | [incrementProgressMaxValue_internalized(int value)](#incrementProgressMaxValue-internalized-int-) | Gets or sets the progress max value |
 | [indicateProgress_internalized(EventType eventType)](#indicateProgress-internalized-com.aspose.psd.progressmanagement.EventType-) | Indicates the progress. |
-| [isAutoAdjustPalette()](#isAutoAdjustPalette--) | Gets a value indicating whether automatic adjust palette. |
 | [isCached()](#isCached--) | Gets a value indicating whether image data is cached currently. |
 | [isRawDataAvailable()](#isRawDataAvailable--) | Gets a value indicating whether raw data loading is available. |
 | [isUsePalette()](#isUsePalette--) | Gets a value indicating whether the image palette is used. |
@@ -273,6 +275,7 @@ The color balance adjustment layer class.
 | [setAutoAdjustPalette(boolean value)](#setAutoAdjustPalette-boolean-) | Sets a value indicating whether automatic adjust palette. |
 | [setBackgroundColor(boolean value)](#setBackgroundColor-boolean-) | Gets or sets a value indicating whether image has background color. |
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.psd.Color-) | Gets or sets a value for the background color. |
+| [setBlendClippedElements(boolean value)](#setBlendClippedElements-boolean-) | Gets or sets the blending of clipped element. |
 | [setBlendModeKey(long value)](#setBlendModeKey-long-) | Gets or sets the blend mode key. |
 | [setBottom(int value)](#setBottom-int-) | Gets or sets the bottom layer position. |
 | [setBufferSizeHint(int value)](#setBufferSizeHint-int-) | Sets the buffer size hint which is defined max allowed size for all internal buffers. |
@@ -1114,6 +1117,16 @@ Gets an image 32-bit ARGB pixel.
 
 **Returns:**
 int - The 32-bit ARGB pixel for the specified location.
+### getAutoAdjustPalette() {#getAutoAdjustPalette--}
+```
+public boolean getAutoAdjustPalette()
+```
+
+
+Gets a value indicating whether automatic adjust palette.
+
+**Returns:**
+boolean -  true  if enable automatic adjust palette; otherwise,  false .
 ### getBackgroundColor() {#getBackgroundColor--}
 ```
 public Color getBackgroundColor()
@@ -1136,6 +1149,18 @@ Value: The image bits per pixel count.
 
 **Returns:**
 int
+### getBlendClippedElements() {#getBlendClippedElements--}
+```
+public final boolean getBlendClippedElements()
+```
+
+
+Gets or sets the blending of clipped element.
+
+Value: The blending of clipped element.
+
+**Returns:**
+boolean
 ### getBlendModeKey() {#getBlendModeKey--}
 ```
 public long getBlendModeKey()
@@ -1450,6 +1475,25 @@ Gets a value of file format
 
 **Returns:**
 long
+### getFileFormat(System.IO.Stream stream) {#getFileFormat-com.aspose.ms.System.IO.Stream-}
+```
+public static long getFileFormat(System.IO.Stream stream)
+```
+
+
+Gets the file format.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | com.aspose.ms.System.IO.Stream | The stream.
+
+--------------------
+
+The file format determined does not mean that the specified image may be loaded. Use one of the CanLoad method overloads to determine whether stream may be loaded. |
+
+**Returns:**
+long - The determined file format.
 ### getFileFormat(InputStream stream) {#getFileFormat-java.io.InputStream-}
 ```
 public static long getFileFormat(InputStream stream)
@@ -1484,21 +1528,6 @@ The file format determined does not mean that the specified image may be loaded.
 
 **Returns:**
 long - The determined file format.
-### getFileFormatInternal_internalized(System.IO.Stream stream) {#getFileFormatInternal-internalized-com.aspose.ms.System.IO.Stream-}
-```
-public static long getFileFormatInternal_internalized(System.IO.Stream stream)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | com.aspose.ms.System.IO.Stream |  |
-
-**Returns:**
-long
 ### getFillOpacity() {#getFillOpacity--}
 ```
 public final int getFillOpacity()
@@ -1940,13 +1969,18 @@ Gets the options based on the original file settings. This can be helpful to kee
 
 **Returns:**
 [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) - The options based on the original file settings.
-### getPaintableImage_internalized() {#getPaintableImage-internalized--}
+### getPaintableImage_internalized(ImageOptionsBase paintableOptions) {#getPaintableImage-internalized-com.aspose.psd.ImageOptionsBase-}
 ```
-public Image getPaintableImage_internalized()
+public Image getPaintableImage_internalized(ImageOptionsBase paintableOptions)
 ```
 
 
 Gets the paintable image.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| paintableOptions | [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) |  |
 
 **Returns:**
 [Image](../../com.aspose.psd/image) - the paintable image.
@@ -1998,6 +2032,16 @@ Value:  true  if it preserves luminosity; otherwise,  false .
 
 **Returns:**
 boolean
+### getPrivateFontCache_internalized() {#getPrivateFontCache-internalized--}
+```
+public final PalPrivateFontCache getPrivateFontCache_internalized()
+```
+
+
+Creates the private font cache.
+
+**Returns:**
+com.aspose.foundation.pal.PalPrivateFontCache - The private font cache.
 ### getProcessor_internalized() {#getProcessor-internalized--}
 ```
 public final IPartialArgb32PixelLoader getProcessor_internalized()
@@ -2440,16 +2484,6 @@ Indicates the progress.
 | --- | --- | --- |
 | eventType | [EventType](../../com.aspose.psd.progressmanagement/eventtype) |  |
 
-### isAutoAdjustPalette() {#isAutoAdjustPalette--}
-```
-public boolean isAutoAdjustPalette()
-```
-
-
-Gets a value indicating whether automatic adjust palette.
-
-**Returns:**
-boolean -  true  if enable automatic adjust palette; otherwise,  false .
 ### isCached() {#isCached--}
 ```
 public boolean isCached()
@@ -3540,6 +3574,21 @@ Gets or sets a value for the background color.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [Color](../../com.aspose.psd/color) |  |
+
+### setBlendClippedElements(boolean value) {#setBlendClippedElements-boolean-}
+```
+public final void setBlendClippedElements(boolean value)
+```
+
+
+Gets or sets the blending of clipped element.
+
+Value: The blending of clipped element.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setBlendModeKey(long value) {#setBlendModeKey-long-}
 ```

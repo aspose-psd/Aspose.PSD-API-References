@@ -30,8 +30,10 @@ The pixel data format. This is an immutable object.
 | [getCmyk()](#getCmyk--) | Gets the  PixelDataFormat  defined for 32 bits per pixel with 8 bits for each of the cyan, magenta, yellow and black. |
 | [getCmyk(int bitsPerSample)](#getCmyk-int-) | Gets CMYK color with a specified number of bits per sample. |
 | [getCmyk(int bitsPerCyanChannel, int bitsPerMagentaChannel, int bitsPerYellowChannel, int bitsPerKeyChannel)](#getCmyk-int-int-int-int-) | Gets CMYK color with a specified number of bits per sample. |
+| [getCmyk16()](#getCmyk16--) | Gets the [PixelDataFormat](../../com.aspose.psd/pixeldataformat) defined for 64 bits per pixel with 16 bits for each of the cyan, magenta, yellow and black. |
 | [getCmyka()](#getCmyka--) | Gets the acmyk. |
 | [getCmyka(int bitsPerCyanChannel, int bitsPerMagentaChannel, int bitsPerYellowChannel, int bitsPerKeyChannel, int bitsPerAlphaChannel)](#getCmyka-int-int-int-int-int-) | Gets CMYKA color with a specified number of bits per sample. |
+| [getCmyka16()](#getCmyka16--) | Gets the acmyk. |
 | [getGrayscale()](#getGrayscale--) | Gets the  PixelDataFormat  defined for 8 bits per pixel with 8 bits representing grayscale intensity in the 0-255 interval. |
 | [getGrayscale(int bitsPerSample)](#getGrayscale-int-) | Gets Grayscale color with a specified number of bits per sample. |
 | [getGrayscaleAlpha()](#getGrayscaleAlpha--) | Gets the  PixelDataFormat  defined for 16 bits per pixel with 8 bits representing grayscale intensity in the 0-255 interval and additional 8 bit alpha component. |
@@ -226,6 +228,18 @@ Gets CMYK color with a specified number of bits per sample.
 
 **Returns:**
 [PixelDataFormat](../../com.aspose.psd/pixeldataformat) - The CMYK color.
+### getCmyk16() {#getCmyk16--}
+```
+public static PixelDataFormat getCmyk16()
+```
+
+
+Gets the [PixelDataFormat](../../com.aspose.psd/pixeldataformat) defined for 64 bits per pixel with 16 bits for each of the cyan, magenta, yellow and black.
+
+Value: The [PixelDataFormat](../../com.aspose.psd/pixeldataformat) defined for 64 bits per pixel with 16 bits for each of the cyan, magenta, yellow and black.
+
+**Returns:**
+[PixelDataFormat](../../com.aspose.psd/pixeldataformat)
 ### getCmyka() {#getCmyka--}
 ```
 public static PixelDataFormat getCmyka()
@@ -255,6 +269,18 @@ Gets CMYKA color with a specified number of bits per sample.
 
 **Returns:**
 [PixelDataFormat](../../com.aspose.psd/pixeldataformat) - The CMYK color.
+### getCmyka16() {#getCmyka16--}
+```
+public static PixelDataFormat getCmyka16()
+```
+
+
+Gets the acmyk.
+
+Value: The [PixelDataFormat](../../com.aspose.psd/pixeldataformat) defined for 80 bits per pixel with 16 bits for each of the alpha, cyan, magenta, yellow and black.
+
+**Returns:**
+[PixelDataFormat](../../com.aspose.psd/pixeldataformat)
 ### getGrayscale() {#getGrayscale--}
 ```
 public static PixelDataFormat getGrayscale()

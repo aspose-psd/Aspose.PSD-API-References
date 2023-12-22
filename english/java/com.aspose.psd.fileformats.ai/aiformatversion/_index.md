@@ -21,6 +21,8 @@ The Adobe Illustrator Version
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
 | [Pdf14](#Pdf14) | The PDF-1.4 Header |
 | [Pdf15](#Pdf15) | The PDF-1.5 Header |
+| [Pdf16](#Pdf16) | The PDF-1.6 Header |
+| [Pdf17](#Pdf17) | The PDF-1.7 Header |
 | [PsAdobe20](#PsAdobe20) | The PS-Adobe-2.0 Header |
 | [PsAdobe30](#PsAdobe30) | The PS-Adobe-3.0 Header |
 ## Methods
@@ -86,6 +88,22 @@ public static final int Pdf15
 
 
 The PDF-1.5 Header
+
+### Pdf16 {#Pdf16}
+```
+public static final int Pdf16
+```
+
+
+The PDF-1.6 Header
+
+### Pdf17 {#Pdf17}
+```
+public static final int Pdf17
+```
+
+
+The PDF-1.7 Header
 
 ### PsAdobe20 {#PsAdobe20}
 ```
