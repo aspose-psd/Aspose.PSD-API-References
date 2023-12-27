@@ -3,7 +3,7 @@ title: com.aspose.psd.imageloadoptions
 second_title: Aspose.PSD for Java API Reference
 description: The package contains different file format load options.
 type: docs
-weight: 60
+weight: 61
 url: /java/com.aspose.psd.imageloadoptions/
 ---
 

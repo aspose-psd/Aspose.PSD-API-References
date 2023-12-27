@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.types.complex.colorant
 second_title: Aspose.PSD for Java API Reference
 description: The package contains classes that represent the structures containing the characteristics of a colorant swatch used in a document.
 type: docs
-weight: 83
+weight: 84
 url: /java/com.aspose.psd.xmp.types.complex.colorant/
 ---
 

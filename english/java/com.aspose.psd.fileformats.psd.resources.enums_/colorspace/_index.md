@@ -1,32 +1,29 @@
 ---
-title: SheetColorHighlightEnum
+title: ColorSpace
 second_title: Aspose.PSD for Java API Reference
-description: Possible colors of Sheet color setting.
+description: The color space types.
 type: docs
-weight: 66
-url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
+weight: 10
+url: /java/com.aspose.psd.fileformats.psd.resources.enums_/colorspace/
 ---
 
 **Inheritance:**
 java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
 ```
-public final class SheetColorHighlightEnum extends System.Enum
+public final class ColorSpace extends System.Enum
 ```
 
-Possible colors of Sheet color setting. It's UI decorative color of layer in layers' list in PS
+The color space types.
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Blue](#Blue) | The blue color. |
+| [CMYK](#CMYK) | The CMYK color space. |
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
-| [Gray](#Gray) | The gray color. |
-| [Green](#Green) | The green color. |
-| [NoColor](#NoColor) | Color is not specified. |
-| [Orange](#Orange) | The orange color. |
-| [Red](#Red) | The red color. |
-| [Violet](#Violet) | The violet color. |
-| [Yellow](#Yellow) | The yellow color. |
+| [GrayScale](#GrayScale) | The GrayScale color space. |
+| [HSB](#HSB) | The HSB color space. |
+| [Lab](#Lab) | The Lab color space. |
+| [RGB](#RGB) | The RGB color space. |
 ## Methods
 
 | Method | Description |
@@ -69,13 +66,13 @@ Possible colors of Sheet color setting. It's UI decorative color of layer in lay
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Blue {#Blue}
+### CMYK {#CMYK}
 ```
-public static final short Blue
+public static final int CMYK
 ```
 
 
-The blue color.
+The CMYK color space.
 
 ### EnumSeparatorCharArray {#EnumSeparatorCharArray}
 ```
@@ -83,61 +80,37 @@ public static final char[] EnumSeparatorCharArray
 ```
 
 
-### Gray {#Gray}
+### GrayScale {#GrayScale}
 ```
-public static final short Gray
-```
-
-
-The gray color.
-
-### Green {#Green}
-```
-public static final short Green
+public static final int GrayScale
 ```
 
 
-The green color.
+The GrayScale color space.
 
-### NoColor {#NoColor}
+### HSB {#HSB}
 ```
-public static final short NoColor
-```
-
-
-Color is not specified.
-
-### Orange {#Orange}
-```
-public static final short Orange
+public static final int HSB
 ```
 
 
-The orange color.
+The HSB color space.
 
-### Red {#Red}
+### Lab {#Lab}
 ```
-public static final short Red
-```
-
-
-The red color.
-
-### Violet {#Violet}
-```
-public static final short Violet
+public static final int Lab
 ```
 
 
-The violet color.
+The Lab color space.
 
-### Yellow {#Yellow}
+### RGB {#RGB}
 ```
-public static final short Yellow
+public static final int RGB
 ```
 
 
-The yellow color.
+The RGB color space.
 
 ### Clone() {#Clone--}
 ```
