@@ -47,6 +47,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 | [LevelChannel](../com.aspose.psd.fileformats.psd.layers.layerresources/levelchannel) | Class for working with channels in Levels Adjustment Layer |
 | [LevlResource](../com.aspose.psd.fileformats.psd.layers.layerresources/levlresource) | Class LevlResource. |
 | [Lfx2Resource](../com.aspose.psd.fileformats.psd.layers.layerresources/lfx2resource) | Lfx2 resource (effects resource) |
+| [LmskResource](../com.aspose.psd.fileformats.psd.layers.layerresources/lmskresource) | The LMsk resource. |
 | [LnsrResource](../com.aspose.psd.fileformats.psd.layers.layerresources/lnsrresource) | Class lnsrResource. |
 | [LnsrResourceType](../com.aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype) | Discovered Possible Lnsr Resource Types |
 | [Lr16Resource](../com.aspose.psd.fileformats.psd.layers.layerresources/lr16resource) | The lr32 resource. |

@@ -3,7 +3,7 @@ title: NvrtResource
 second_title: Aspose.PSD for Java API Reference
 description: Class NvrtResource.
 type: docs
-weight: 55
+weight: 56
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
 

@@ -3,7 +3,7 @@ title: com.aspose.psd.progressmanagement
 second_title: Aspose.PSD for Java API Reference
 description: The namespace contains progress handler classes
 type: docs
-weight: 68
+weight: 69
 url: /java/com.aspose.psd.progressmanagement/
 ---
 

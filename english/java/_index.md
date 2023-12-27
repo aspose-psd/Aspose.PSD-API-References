@@ -52,6 +52,7 @@ is_root: true
 | [com.aspose.psd.fileformats.psd.layers.text.rendering](./com.aspose.psd.fileformats.psd.layers.text.rendering) |  |
 | [com.aspose.psd.fileformats.psd.rawcolor](./com.aspose.psd.fileformats.psd.rawcolor) |  |
 | [com.aspose.psd.fileformats.psd.resources](./com.aspose.psd.fileformats.psd.resources) |  |
+| [com.aspose.psd.fileformats.psd.resources.enums_](./com.aspose.psd.fileformats.psd.resources.enums_) |  |
 | [com.aspose.psd.fileformats.psd.resources.resolutionenums](./com.aspose.psd.fileformats.psd.resources.resolutionenums) |  |
 | [com.aspose.psd.fileformats.tiff](./com.aspose.psd.fileformats.tiff) | The package handles Tiff file format processing. |
 | [com.aspose.psd.fileformats.tiff.enums](./com.aspose.psd.fileformats.tiff.enums) | The package contains Tiff file format enumerations. |

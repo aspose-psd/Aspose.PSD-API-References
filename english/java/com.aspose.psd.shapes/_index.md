@@ -3,7 +3,7 @@ title: com.aspose.psd.shapes
 second_title: Aspose.PSD for Java API Reference
 description: The package contains different shapes combined from shape segments.
 type: docs
-weight: 69
+weight: 70
 url: /java/com.aspose.psd.shapes/
 ---
 

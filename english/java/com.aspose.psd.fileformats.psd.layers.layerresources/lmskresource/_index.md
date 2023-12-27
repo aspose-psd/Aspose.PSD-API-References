@@ -1,24 +1,28 @@
 ---
-title: PostResource
+title: LmskResource
 second_title: Aspose.PSD for Java API Reference
-description: Class PostResource.
+description: The LMsk resource.
 type: docs
-weight: 64
-url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/postresource/
+weight: 45
+url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lmskresource/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.AdjustmentLayerResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource)
+java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource)
 ```
-public class PostResource extends AdjustmentLayerResource
+public class LmskResource extends LayerResource
 ```
 
-Class PostResource. Posterize layer settings.
+The LMsk resource.
+
+--------------------
+
+This resource contains color space ID, which refers to a specific color space type, and 4 color components. Depending on ID, color components have different meanings. If the color space type does not require four values, the extra components are undefined and always written as zeros. Color components by color space types: RGB - the first three components are red, green, and blue. HSB - the first three components are hue, saturation, and brightness. CMYK- the four components are cyan, magenta, yellow, and black. Lab - the first three components are lightness, a chrominance, and b chrominance. Grayscale - the first component is the gray value, from 0...10000.
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [PostResource()](#PostResource--) |  |
+| [LmskResource()](#LmskResource--) | Initializes a new instance of the [LmskResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lmskresource) class. |
 ## Fields
 
 | Field | Description |
@@ -34,15 +38,21 @@ Class PostResource. Posterize layer settings.
 | Method | Description |
 | --- | --- |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
+| [create_internalized(byte[] data)](#create-internalized-byte---) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
-| [getData()](#getData--) | Gets or sets the data. |
+| [getColorComponent1()](#getColorComponent1--) | Gets the color component 1. |
+| [getColorComponent2()](#getColorComponent2--) | Gets the color component 2. |
+| [getColorComponent3()](#getColorComponent3--) | Gets the color component 3. |
+| [getColorComponent4()](#getColorComponent4--) | Gets the color component 4. |
+| [getColorSpace()](#getColorSpace--) | Gets the color space. |
+| [getFlag()](#getFlag--) | Gets the flag. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
-| [getLevels()](#getLevels--) | Levels of Posterize layer. |
+| [getOpacity()](#getOpacity--) | Gets the opacity. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
-| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
+| [getPsdVersion()](#getPsdVersion--) | Gets the psd version. |
 | [getSignature()](#getSignature--) | Gets the signature. |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
@@ -52,17 +62,24 @@ Class PostResource. Posterize layer settings.
 | [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the resource to the specified stream container. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
+| [setColorComponent1(int value)](#setColorComponent1-int-) | Gets the color component 1. |
+| [setColorComponent2(int value)](#setColorComponent2-int-) | Gets the color component 2. |
+| [setColorComponent3(int value)](#setColorComponent3-int-) | Gets the color component 3. |
+| [setColorComponent4(int value)](#setColorComponent4-int-) | Gets the color component 4. |
+| [setColorSpace(int value)](#setColorSpace-int-) | Gets the color space. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
-| [setLevels(short value)](#setLevels-short-) | Levels of Posterize layer. |
+| [setOpacity(short value)](#setOpacity-short-) | Gets the opacity. |
 | [toString()](#toString--) | Returns a String that represents this instance. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### PostResource() {#PostResource--}
+### LmskResource() {#LmskResource--}
 ```
-public PostResource()
+public LmskResource()
 ```
 
+
+Initializes a new instance of the [LmskResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lmskresource) class.
 
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
@@ -125,6 +142,21 @@ Checks the and set if resource is PSB specific. Some resources are not recognize
 | --- | --- | --- |
 | key | int | The key. |
 
+### create_internalized(byte[] data) {#create-internalized-byte---}
+```
+public static LmskResource create_internalized(byte[] data)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| data | byte[] |  |
+
+**Returns:**
+[LmskResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lmskresource)
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -150,18 +182,78 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getData() {#getData--}
+### getColorComponent1() {#getColorComponent1--}
 ```
-public final byte[] getData()
+public final int getColorComponent1()
 ```
 
 
-Gets or sets the data.
+Gets the color component 1.
 
-Value: The data.
+Value: The color component 1.
 
 **Returns:**
-byte[]
+int
+### getColorComponent2() {#getColorComponent2--}
+```
+public final int getColorComponent2()
+```
+
+
+Gets the color component 2.
+
+Value: The color component 2.
+
+**Returns:**
+int
+### getColorComponent3() {#getColorComponent3--}
+```
+public final int getColorComponent3()
+```
+
+
+Gets the color component 3.
+
+Value: The color component 3.
+
+**Returns:**
+int
+### getColorComponent4() {#getColorComponent4--}
+```
+public final int getColorComponent4()
+```
+
+
+Gets the color component 4.
+
+Value: The color component 4.
+
+**Returns:**
+int
+### getColorSpace() {#getColorSpace--}
+```
+public final int getColorSpace()
+```
+
+
+Gets the color space.
+
+Value: The color space.
+
+**Returns:**
+int
+### getFlag() {#getFlag--}
+```
+public final byte getFlag()
+```
+
+
+Gets the flag.
+
+Value: The flag.
+
+**Returns:**
+byte
 ### getHeader_internalized() {#getHeader-internalized--}
 ```
 public final PsdHeader getHeader_internalized()
@@ -194,16 +286,18 @@ Gets the layer resource length in bytes.
 
 **Returns:**
 int
-### getLevels() {#getLevels--}
+### getOpacity() {#getOpacity--}
 ```
-public final short getLevels()
+public final short getOpacity()
 ```
 
 
-Levels of Posterize layer.
+Gets the opacity.
+
+Value: The opacity.
 
 **Returns:**
-short - Levels int value
+short
 ### getPrefixLength_internalized(int psdVersion) {#getPrefixLength-internalized-int-}
 ```
 public final int getPrefixLength_internalized(int psdVersion)
@@ -225,7 +319,7 @@ public int getPsdVersion()
 ```
 
 
-Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
+Gets the psd version.
 
 **Returns:**
 int
@@ -335,6 +429,81 @@ Saves the header signature, identifier and length.
 | signature | int | The signature. |
 | isLengthLong | boolean | if set to  true  length is long. |
 
+### setColorComponent1(int value) {#setColorComponent1-int-}
+```
+public final void setColorComponent1(int value)
+```
+
+
+Gets the color component 1.
+
+Value: The color component 1.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### setColorComponent2(int value) {#setColorComponent2-int-}
+```
+public final void setColorComponent2(int value)
+```
+
+
+Gets the color component 2.
+
+Value: The color component 2.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### setColorComponent3(int value) {#setColorComponent3-int-}
+```
+public final void setColorComponent3(int value)
+```
+
+
+Gets the color component 3.
+
+Value: The color component 3.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### setColorComponent4(int value) {#setColorComponent4-int-}
+```
+public final void setColorComponent4(int value)
+```
+
+
+Gets the color component 4.
+
+Value: The color component 4.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### setColorSpace(int value) {#setColorSpace-int-}
+```
+public final void setColorSpace(int value)
+```
+
+
+Gets the color space.
+
+Value: The color space.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
 ### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
 ```
 public final void setHeader_internalized(PsdHeader value)
@@ -350,13 +519,15 @@ Value: The header.
 | --- | --- | --- |
 | value | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
 
-### setLevels(short value) {#setLevels-short-}
+### setOpacity(short value) {#setOpacity-short-}
 ```
-public final void setLevels(short value)
+public final void setOpacity(short value)
 ```
 
 
-Levels of Posterize layer.
+Gets the opacity.
+
+Value: The opacity.
 
 **Parameters:**
 | Parameter | Type | Description |
