@@ -31,6 +31,7 @@ General imaging vector formats renderer font settings.
 | [isFontAllowed(String fontName)](#isFontAllowed-java.lang.String-) | Determines whether [is font allowed] [the specified font name]. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [removeFontCacheFile()](#removeFontCacheFile--) | Removes of the font cache file. |
 | [reset()](#reset--) | Resets the fonts folder and default font name to the system default. |
 | [setAllowedFonts(String[] fontList)](#setAllowedFonts-java.lang.String---) | Restricts font using by list of fonts. |
 | [setDefaultFontName(String fontName)](#setDefaultFontName-java.lang.String-) | Sets the default font name. |
@@ -198,6 +199,14 @@ public final native void notifyAll()
 
 
 
+
+### removeFontCacheFile() {#removeFontCacheFile--}
+```
+public static void removeFontCacheFile()
+```
+
+
+Removes of the font cache file.
 
 ### reset() {#reset--}
 ```

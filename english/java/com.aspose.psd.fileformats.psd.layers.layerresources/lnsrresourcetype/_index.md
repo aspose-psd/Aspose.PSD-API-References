@@ -3,7 +3,7 @@ title: LnsrResourceType
 second_title: Aspose.PSD for Java API Reference
 description: Discovered Possible Lnsr Resource Types
 type: docs
-weight: 46
+weight: 47
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
 

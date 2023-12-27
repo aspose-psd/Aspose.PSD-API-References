@@ -3,7 +3,7 @@ title: LrXxResource
 second_title: Aspose.PSD for Java API Reference
 description: The lrXX resource.
 type: docs
-weight: 49
+weight: 50
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/
 ---
 

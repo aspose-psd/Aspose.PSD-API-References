@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.schemas.photoshop
 second_title: Aspose.PSD for Java API Reference
 description: The package contains related helper classes constants and methods used by Adobe Photoshop.
 type: docs
-weight: 75
+weight: 76
 url: /java/com.aspose.psd.xmp.schemas.photoshop/
 ---
 

@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.types.complex.thumbnail
 second_title: Aspose.PSD for Java API Reference
 description: The package contains class that is a thumbnail image for a file.
 type: docs
-weight: 88
+weight: 89
 url: /java/com.aspose.psd.xmp.types.complex.thumbnail/
 ---
 

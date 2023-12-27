@@ -3,7 +3,7 @@ title: PattResourceData
 second_title: Aspose.PSD for Java API Reference
 description: The class to store the pattern data for  resource.
 type: docs
-weight: 59
+weight: 60
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
 
