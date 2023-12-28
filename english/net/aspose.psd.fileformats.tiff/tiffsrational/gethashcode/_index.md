@@ -22,7 +22,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [TiffSRational](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
 * assembly [Aspose.PSD](../../../)
 
 

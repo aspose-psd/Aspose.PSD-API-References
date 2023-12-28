@@ -22,7 +22,7 @@ public bool PreserveLuminosity { get; set; }
 ### See Also
 
 * class [PhotoFilterLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

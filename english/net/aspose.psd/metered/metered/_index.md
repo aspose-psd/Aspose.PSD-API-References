@@ -18,7 +18,7 @@ public Metered()
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../metered/)
 * assembly [Aspose.PSD](../../../)
 
 

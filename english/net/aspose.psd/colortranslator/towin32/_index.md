@@ -27,7 +27,7 @@ The win32 color.
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colortranslator/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -19,7 +19,7 @@ public InterruptMonitor InterruptMonitor { get; set; }
 
 * class [InterruptMonitor](../../../aspose.psd.multithreading/interruptmonitor/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -82,7 +82,7 @@ using (var image = (PsdImage)Image.Load(sourceFileWithoutThresholdLayer))
 ### See Also
 
 * class [ThresholdLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../thresholdlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

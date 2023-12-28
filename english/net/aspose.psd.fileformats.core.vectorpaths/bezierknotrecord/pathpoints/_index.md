@@ -23,7 +23,7 @@ The path points.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierKnotRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The path figures.
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphicspath/)
 * assembly [Aspose.PSD](../../../)
 
 

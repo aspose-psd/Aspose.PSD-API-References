@@ -22,7 +22,7 @@ The sampling ratio of chrominance components in relation to the luminance compon
 ### See Also
 
 * class [JpegExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../jpegexifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

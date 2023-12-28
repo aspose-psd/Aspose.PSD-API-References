@@ -18,7 +18,7 @@ public ColorantLab()
 ### See Also
 
 * class [ColorantLab](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -40,7 +40,7 @@ public ColorantLab(int a, int b, float l)
 ### See Also
 
 * class [ColorantLab](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The factor.
 ### See Also
 
 * class [ConvolutionFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public RenditionClass()
 ### See Also
 
 * class [RenditionClass](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public RenditionClass(string token, string value)
 ### See Also
 
 * class [RenditionClass](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ Created [`ColorOverlayEffect`](../../coloroverlayeffect/) object
 
 * class [ColorOverlayEffect](../../coloroverlayeffect/)
 * class [BlendingOptions](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

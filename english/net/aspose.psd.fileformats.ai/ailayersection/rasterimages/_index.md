@@ -68,7 +68,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
 * assembly [Aspose.PSD](../../../)
 
 

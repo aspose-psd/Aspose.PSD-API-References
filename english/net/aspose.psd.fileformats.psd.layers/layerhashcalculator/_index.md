@@ -3,7 +3,7 @@ title: Class LayerHashCalculator
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator class. Hash Calculator for PSD Layers. It can be used to found equals or different layers in different PSD files
 type: docs
-weight: 2330
+weight: 2360
 url: /net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
 {{< psd/tize >}}

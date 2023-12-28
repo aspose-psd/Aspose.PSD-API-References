@@ -23,7 +23,7 @@ The y resolution.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../jpegexifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

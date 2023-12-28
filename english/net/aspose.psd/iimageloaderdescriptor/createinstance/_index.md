@@ -23,7 +23,7 @@ A new loader instance.
 
 * interface [IImageLoader](../../iimageloader/)
 * interface [IImageLoaderDescriptor](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iimageloaderdescriptor/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -27,7 +27,7 @@ public static bool IsSingleFormatDefined(FileFormat fileFormat)
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [FileFormatExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../fileformatextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

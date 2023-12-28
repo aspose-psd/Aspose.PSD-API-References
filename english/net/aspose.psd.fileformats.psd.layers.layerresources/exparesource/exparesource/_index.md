@@ -18,7 +18,7 @@ public ExpaResource()
 ### See Also
 
 * class [ExpaResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -40,7 +40,7 @@ public ExpaResource(float exposure, float offset, float gamma)
 ### See Also
 
 * class [ExpaResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -66,7 +66,7 @@ public ExpaResource(byte[] bytes)
 ### See Also
 
 * class [ExpaResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
 * assembly [Aspose.PSD](../../../)
 
 

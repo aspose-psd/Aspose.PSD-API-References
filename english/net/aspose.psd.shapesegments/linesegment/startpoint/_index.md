@@ -23,7 +23,7 @@ The starting point.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* namespace [Aspose.PSD.ShapeSegments](../../linesegment/)
 * assembly [Aspose.PSD](../../../)
 
 

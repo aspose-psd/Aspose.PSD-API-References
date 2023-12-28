@@ -18,7 +18,7 @@ public bool Interlaced { get; set; }
 ### See Also
 
 * class [GifOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../gifoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

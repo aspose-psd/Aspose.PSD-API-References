@@ -27,7 +27,7 @@ The valid tags count.
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptionsUtils](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The GPS value which indicates whether the longitude of the destination point is 
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../exifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public override int Height { get; }
 ### See Also
 
 * class [LayerGroup](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
 * assembly [Aspose.PSD](../../../)
 
 

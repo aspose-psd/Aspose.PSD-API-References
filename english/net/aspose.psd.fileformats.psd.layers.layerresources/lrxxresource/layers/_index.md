@@ -23,7 +23,7 @@ The layers.
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [LrXxResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lrxxresource/)
 * assembly [Aspose.PSD](../../../)
 
 

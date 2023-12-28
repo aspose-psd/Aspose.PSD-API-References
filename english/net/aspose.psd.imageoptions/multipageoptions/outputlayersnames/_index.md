@@ -22,7 +22,7 @@ The output layers names.
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

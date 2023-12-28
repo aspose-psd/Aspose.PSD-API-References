@@ -27,7 +27,7 @@ The converted ColorBlend.
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [ColorBlendExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../colorblendextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

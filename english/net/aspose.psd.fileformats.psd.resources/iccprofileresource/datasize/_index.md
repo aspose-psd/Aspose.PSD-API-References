@@ -22,7 +22,7 @@ The resource data size.
 ### See Also
 
 * class [IccProfileResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -70,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile))
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [VscgResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vscgresource/)
 * assembly [Aspose.PSD](../../../)
 
 

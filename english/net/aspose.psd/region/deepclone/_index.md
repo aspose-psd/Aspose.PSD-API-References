@@ -22,7 +22,7 @@ The [`Region`](../) that this method creates.
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 

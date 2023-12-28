@@ -27,7 +27,7 @@ True if the values of either the [`X`](../x/) properties or the [`Y`](../y/) pro
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../point/)
 * assembly [Aspose.PSD](../../../)
 
 

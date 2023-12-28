@@ -22,7 +22,7 @@ The file path to create.
 ### See Also
 
 * class [FileCreateSource](../)
-* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* namespace [Aspose.PSD.Sources](../../filecreatesource/)
 * assembly [Aspose.PSD](../../../)
 
 

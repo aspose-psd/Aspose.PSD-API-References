@@ -22,7 +22,7 @@ The size of the kernel.
 ### See Also
 
 * class [BilateralSmoothingFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

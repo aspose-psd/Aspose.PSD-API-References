@@ -3,7 +3,7 @@ title: Delegate ProgressEventHandler
 second_title: Aspose.PSD for .NET API Reference
 description: Progress event handler function reference
 type: docs
-weight: 5520
+weight: 5560
 url: /net/aspose.psd/progresseventhandler/
 ---
 {{< psd/tize >}}

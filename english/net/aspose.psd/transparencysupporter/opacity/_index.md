@@ -22,7 +22,7 @@ The opacity value.
 ### See Also
 
 * class [TransparencySupporter](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../transparencysupporter/)
 * assembly [Aspose.PSD](../../../)
 
 

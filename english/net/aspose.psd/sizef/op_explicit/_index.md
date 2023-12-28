@@ -27,7 +27,7 @@ The [`PointF`](../../pointf/) structure to which this operator converts.
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../sizef/)
 * assembly [Aspose.PSD](../../../)
 
 

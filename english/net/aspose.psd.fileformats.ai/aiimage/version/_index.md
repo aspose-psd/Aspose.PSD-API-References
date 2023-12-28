@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.ai/aiimage/version/
 {{< psd/tize >}}
 ## AiImage.Version property
 
-Gets the version of Adobe Illustrator format
+Gets the version of Adobe Illustrator format.
 
 ```csharp
 public AiFormatVersion Version { get; }
@@ -23,7 +23,7 @@ The version.
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
 * assembly [Aspose.PSD](../../../)
 
 

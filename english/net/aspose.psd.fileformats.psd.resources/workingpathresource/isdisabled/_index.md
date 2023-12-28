@@ -22,7 +22,7 @@ public bool IsDisabled { get; set; }
 ### See Also
 
 * class [WorkingPathResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
 * assembly [Aspose.PSD](../../../)
 
 

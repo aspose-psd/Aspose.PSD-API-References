@@ -3,7 +3,7 @@ title: Enum LinkDataSourceType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enum. Defines the LinkDataSourceType enumeration for the data sources in the PSD link resource
 type: docs
-weight: 2830
+weight: 2860
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
 {{< psd/tize >}}

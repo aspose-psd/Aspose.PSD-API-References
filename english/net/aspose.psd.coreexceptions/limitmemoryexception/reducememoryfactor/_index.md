@@ -22,7 +22,7 @@ The reduce memory factor.
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* namespace [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The unsigned byte cast to an Int32, or -1 if at the end of the stream.
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../streamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 

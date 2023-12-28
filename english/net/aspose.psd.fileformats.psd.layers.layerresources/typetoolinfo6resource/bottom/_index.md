@@ -22,7 +22,7 @@ The bottom location.
 ### See Also
 
 * class [TypeToolInfo6Resource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
 * assembly [Aspose.PSD](../../../)
 
 

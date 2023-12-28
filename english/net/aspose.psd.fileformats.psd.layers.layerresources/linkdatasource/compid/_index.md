@@ -28,7 +28,7 @@ The ID of the currently selected comp for the child document, which will be -1 i
 ### See Also
 
 * class [LinkDataSource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
 * assembly [Aspose.PSD](../../../)
 
 

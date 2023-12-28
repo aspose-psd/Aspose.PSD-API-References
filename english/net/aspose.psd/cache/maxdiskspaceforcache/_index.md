@@ -26,7 +26,7 @@ Value of 0 will consume all available memory and serves as no upper limit.
 ### See Also
 
 * class [Cache](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cache/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The fallback index to use when palette index is out of bounds
 ### See Also
 
 * class [RawDataSettings](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rawdatasettings/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class XmpTypeBase
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.XmpTypeBase class. Represents base class for basic XMP type
 type: docs
-weight: 6440
+weight: 6480
 url: /net/aspose.psd.xmp.types/xmptypebase/
 ---
 {{< psd/tize >}}

@@ -27,7 +27,7 @@ The converted Region.
 
 * class [Region](../../../aspose.psd/region/)
 * class [RegionExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../regionextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

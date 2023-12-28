@@ -18,7 +18,7 @@ public void Reverse()
 ### See Also
 
 * class [PolygonShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../polygonshape/)
 * assembly [Aspose.PSD](../../../)
 
 

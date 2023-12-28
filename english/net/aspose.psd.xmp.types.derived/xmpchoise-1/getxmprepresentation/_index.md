@@ -28,7 +28,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * class [XmpChoise&lt;T&gt;](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
 * assembly [Aspose.PSD](../../../)
 
 

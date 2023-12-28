@@ -19,7 +19,7 @@ public RasterImage Thumbnail { get; set; }
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JFIFData](../)
-* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

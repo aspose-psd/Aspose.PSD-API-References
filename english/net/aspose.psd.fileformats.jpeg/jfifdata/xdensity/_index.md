@@ -18,7 +18,7 @@ public short XDensity { get; set; }
 ### See Also
 
 * class [JFIFData](../)
-* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

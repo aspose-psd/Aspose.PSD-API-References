@@ -22,7 +22,7 @@ public bool IsClosed { get; set; }
 ### See Also
 
 * interface [IOrderedShape](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iorderedshape/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.ai/aiimage/
 {{< psd/tize >}}
 ## AiImage class
 
-The Adobe Illustrator (AI) Image
+The Adobe Illustrator (AI) Image.
 
 ```csharp
 public sealed class AiImage : Image
@@ -34,7 +34,7 @@ public sealed class AiImage : Image
 | [DataSection](../../aspose.psd.fileformats.ai/aiimage/datasection/) { get; } | Gets the data section. |
 | [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | Gets the object's data stream. |
 | [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
-| override [FileFormat](../../aspose.psd.fileformats.ai/aiimage/fileformat/) { get; } | Gets a value of file format |
+| override [FileFormat](../../aspose.psd.fileformats.ai/aiimage/fileformat/) { get; } | Gets a value of file format. |
 | [FinalizeSection](../../aspose.psd.fileformats.ai/aiimage/finalizesection/) { get; } | Gets the finalize section. |
 | virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | Gets or sets a value indicating whether image has background color. |
 | [Header](../../aspose.psd.fileformats.ai/aiimage/header/) { get; } | Gets the header. |
@@ -46,7 +46,7 @@ public sealed class AiImage : Image
 | [SetupSection](../../aspose.psd.fileformats.ai/aiimage/setupsection/) { get; } | Gets the setup section. |
 | [Size](../../aspose.psd/image/size/) { get; } | Gets the image size. |
 | virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | Gets a value indicating whether the image palette is used. |
-| [Version](../../aspose.psd.fileformats.ai/aiimage/version/) { get; } | Gets the version of Adobe Illustrator format |
+| [Version](../../aspose.psd.fileformats.ai/aiimage/version/) { get; } | Gets the version of Adobe Illustrator format. |
 | override [Width](../../aspose.psd.fileformats.ai/aiimage/width/) { get; } | Gets the image width. |
 
 ## Methods

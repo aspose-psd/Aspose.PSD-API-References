@@ -101,7 +101,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 * interface [IStrokeSettings](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/istrokesettings/)
 * class [ShapeLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../shapelayer/)
 * assembly [Aspose.PSD](../../../)
 
 

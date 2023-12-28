@@ -24,7 +24,7 @@ public override void CacheData()
 ### See Also
 
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
 * assembly [Aspose.PSD](../../../)
 
 

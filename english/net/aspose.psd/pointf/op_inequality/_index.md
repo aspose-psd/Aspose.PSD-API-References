@@ -27,7 +27,7 @@ True to indicate the [`X`](../x/) and [`Y`](../y/) values of *point1* and *point
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pointf/)
 * assembly [Aspose.PSD](../../../)
 
 

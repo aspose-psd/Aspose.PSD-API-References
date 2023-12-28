@@ -27,7 +27,7 @@ The converted Color array.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../colorextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -38,7 +38,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### See Also
 
 * class [PathStructure](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class Image
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Image class. The image is the base class for all type of images
 type: docs
-weight: 4820
+weight: 4850
 url: /net/aspose.psd/image/
 ---
 {{< psd/tize >}}

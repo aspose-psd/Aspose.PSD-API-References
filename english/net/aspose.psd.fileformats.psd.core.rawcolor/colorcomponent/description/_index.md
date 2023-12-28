@@ -22,7 +22,7 @@ The description.
 ### See Also
 
 * class [ColorComponent](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../../aspose.psd.fileformats.psd.core.rawcolor/)
+* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../colorcomponent/)
 * assembly [Aspose.PSD](../../../)
 
 

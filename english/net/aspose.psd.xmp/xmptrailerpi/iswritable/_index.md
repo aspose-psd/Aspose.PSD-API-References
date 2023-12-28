@@ -22,7 +22,7 @@ public bool IsWritable { get; set; }
 ### See Also
 
 * class [XmpTrailerPi](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmptrailerpi/)
 * assembly [Aspose.PSD](../../../)
 
 

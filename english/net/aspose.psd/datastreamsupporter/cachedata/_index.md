@@ -18,7 +18,7 @@ public abstract void CacheData()
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../datastreamsupporter/)
 * assembly [Aspose.PSD](../../../)
 
 

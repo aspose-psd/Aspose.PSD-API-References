@@ -18,7 +18,7 @@ public ColorFillSettings()
 ### See Also
 
 * class [ColorFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../colorfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

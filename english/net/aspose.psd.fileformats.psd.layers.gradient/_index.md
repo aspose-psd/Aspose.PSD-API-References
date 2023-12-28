@@ -14,5 +14,6 @@ The namespace handles Psd file format processing.
 | Enumeration | Description |
 | --- | --- |
 | [GradientKind](./gradientkind/) | Gradient type enum. |
+| [NoiseColorModel](./noisecolormodel/) | Color Model When 'Gradient type' = 'Noise', we can assign 'Color Model' to RGB/SHB/LAB (3/4/6) |
 
 

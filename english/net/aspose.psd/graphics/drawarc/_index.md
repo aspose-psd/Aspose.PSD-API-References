@@ -36,7 +36,7 @@ public void DrawArc(Pen pen, float x, float y, float width, float height, float 
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -67,7 +67,7 @@ public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -100,7 +100,7 @@ public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -131,7 +131,7 @@ public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

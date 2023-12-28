@@ -23,7 +23,7 @@ The curve points.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../polygonshape/)
 * assembly [Aspose.PSD](../../../)
 
 

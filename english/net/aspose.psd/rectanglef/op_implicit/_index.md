@@ -27,7 +27,7 @@ The [`RectangleF`](../) structure that is converted from the specified [`Rectang
 
 * struct [Rectangle](../../rectangle/)
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 

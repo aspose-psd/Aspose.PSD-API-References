@@ -3,7 +3,7 @@ title: Enum TiffByteOrder
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder enum. The byte order for the tiff image
 type: docs
-weight: 4270
+weight: 4300
 url: /net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 ---
 {{< psd/tize >}}

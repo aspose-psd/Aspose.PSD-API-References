@@ -22,7 +22,7 @@ The object key.
 ### See Also
 
 * interface [IKeyedObject](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../ikeyedobject/)
 * assembly [Aspose.PSD](../../../)
 
 

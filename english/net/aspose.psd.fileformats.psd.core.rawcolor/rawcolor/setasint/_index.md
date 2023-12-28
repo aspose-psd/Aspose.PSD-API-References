@@ -28,7 +28,7 @@ public void SetAsInt(int value)
 ### See Also
 
 * class [RawColor](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../../aspose.psd.fileformats.psd.core.rawcolor/)
+* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../rawcolor/)
 * assembly [Aspose.PSD](../../../)
 
 

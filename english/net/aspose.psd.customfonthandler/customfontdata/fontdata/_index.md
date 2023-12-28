@@ -22,7 +22,7 @@ The font data.
 ### See Also
 
 * class [CustomFontData](../)
-* namespace [Aspose.PSD.CustomFontHandler](../../../aspose.psd.customfonthandler/)
+* namespace [Aspose.PSD.CustomFontHandler](../../customfontdata/)
 * assembly [Aspose.PSD](../../../)
 
 

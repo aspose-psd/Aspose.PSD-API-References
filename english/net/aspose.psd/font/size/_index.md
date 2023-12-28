@@ -22,7 +22,7 @@ The em-size of this [`Font`](../).
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../font/)
 * assembly [Aspose.PSD](../../../)
 
 

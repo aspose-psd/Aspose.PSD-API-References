@@ -19,7 +19,7 @@ public IFillSettings Fill { get; set; }
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * interface [IShapeLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../ishapelayer/)
 * assembly [Aspose.PSD](../../../)
 
 

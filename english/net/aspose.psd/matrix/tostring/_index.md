@@ -22,7 +22,7 @@ A String that represents this instance.
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../matrix/)
 * assembly [Aspose.PSD](../../../)
 
 

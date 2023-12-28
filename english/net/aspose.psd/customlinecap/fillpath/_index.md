@@ -23,7 +23,7 @@ The object that defines the fill for the custom cap.
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../customlinecap/)
 * assembly [Aspose.PSD](../../../)
 
 

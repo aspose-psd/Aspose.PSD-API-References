@@ -27,7 +27,7 @@ True when the specified point is contained within this [`Region`](../); otherwis
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -52,7 +52,7 @@ true when *point* is contained within this [`Region`](../); otherwise, false.
 
 * struct [PointF](../../pointf/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -79,7 +79,7 @@ True when the specified point is contained within this [`Region`](../); otherwis
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -106,7 +106,7 @@ true when *point* is contained within this [`Region`](../); otherwise, false.
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -133,7 +133,7 @@ true when any portion of the specified rectangle is contained within this [`Regi
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -158,7 +158,7 @@ true when any portion of *rect* is contained within this [`Region`](../); otherw
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -187,7 +187,7 @@ true when any portion of the specified rectangle is contained within this [`Regi
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -214,7 +214,7 @@ true when *rect* is contained within this [`Region`](../); otherwise, false.
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -241,7 +241,7 @@ true when the specified point is contained within this [`Region`](../); otherwis
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -266,7 +266,7 @@ true when *point* is contained within this [`Region`](../); otherwise, false.
 
 * struct [Point](../../point/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -293,7 +293,7 @@ true when *point* is contained within this [`Region`](../); otherwise, false.
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -320,7 +320,7 @@ true when any portion of the specified rectangle is contained within this [`Regi
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -345,7 +345,7 @@ This method returns true when any portion of *rect* is contained within this [`R
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -374,7 +374,7 @@ true when any portion of the specified rectangle is contained within this [`Regi
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -401,7 +401,7 @@ true when any portion of the *rect* is contained within this [`Region`](../); ot
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 

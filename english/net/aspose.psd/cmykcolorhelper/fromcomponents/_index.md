@@ -29,7 +29,7 @@ The CMYK color presented as a 32-bit integer value.
 ### See Also
 
 * class [CmykColorHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cmykcolorhelper/)
 * assembly [Aspose.PSD](../../../)
 
 

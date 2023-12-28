@@ -29,7 +29,7 @@ The loaded CMYK pixels array.
 * struct [CmykColor](../../cmykcolor/)
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

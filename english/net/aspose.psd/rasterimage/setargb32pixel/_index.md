@@ -24,7 +24,7 @@ public void SetArgb32Pixel(int x, int y, int argb32Color)
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

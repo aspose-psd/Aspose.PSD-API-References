@@ -26,7 +26,7 @@ This method returns true if *obj* is a [`RectangleF`](../) and its X, Y, Width, 
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 

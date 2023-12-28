@@ -22,7 +22,7 @@ public Jpeg2000Exception(string message)
 ### See Also
 
 * class [Jpeg2000Exception](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../jpeg2000exception/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public Jpeg2000Exception(string message, Exception innerException)
 ### See Also
 
 * class [Jpeg2000Exception](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../jpeg2000exception/)
 * assembly [Aspose.PSD](../../../)
 
 

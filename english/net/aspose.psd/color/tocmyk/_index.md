@@ -28,7 +28,7 @@ The Aspose:PSD:CmykColor[].
 
 * struct [CmykColor](../../cmykcolor/)
 * struct [Color](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../color/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -54,7 +54,7 @@ The Aspose:PSD:CmykColor.
 
 * struct [CmykColor](../../cmykcolor/)
 * struct [Color](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../color/)
 * assembly [Aspose.PSD](../../../)
 
 

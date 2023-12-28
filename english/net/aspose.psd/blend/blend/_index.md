@@ -18,7 +18,7 @@ public Blend()
 ### See Also
 
 * class [Blend](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../blend/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Blend(int count)
 ### See Also
 
 * class [Blend](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../blend/)
 * assembly [Aspose.PSD](../../../)
 
 

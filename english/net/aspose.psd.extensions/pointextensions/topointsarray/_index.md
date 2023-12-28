@@ -28,7 +28,7 @@ The converted [`PointF`](../../../aspose.psd/pointf/) array.
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Point](../../../aspose.psd/point/)
 * class [PointExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../pointextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

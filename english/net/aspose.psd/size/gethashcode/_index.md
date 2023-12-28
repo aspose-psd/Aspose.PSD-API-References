@@ -22,7 +22,7 @@ An integer value that specifies a hash value for this [`Size`](../) structure.
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../size/)
 * assembly [Aspose.PSD](../../../)
 
 

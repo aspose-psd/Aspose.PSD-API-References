@@ -34,7 +34,7 @@ True if the interior of region is identical to the interior of this region when 
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -58,7 +58,7 @@ The equality comparison result.
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 

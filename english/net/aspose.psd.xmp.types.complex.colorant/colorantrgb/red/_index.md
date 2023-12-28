@@ -22,7 +22,7 @@ The red component value.
 ### See Also
 
 * class [ColorantRgb](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
 * assembly [Aspose.PSD](../../../)
 
 

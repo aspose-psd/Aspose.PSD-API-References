@@ -22,7 +22,7 @@ The record count.
 ### See Also
 
 * class [LengthRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -26,7 +26,7 @@ Channel data
 ### See Also
 
 * class [CurvResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public const int MatrixDimensionsCount;
 ### See Also
 
 * class [ColorMatrix](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colormatrix/)
 * assembly [Aspose.PSD](../../../)
 
 

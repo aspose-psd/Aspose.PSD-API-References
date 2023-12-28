@@ -22,7 +22,7 @@ The denominator.
 ### See Also
 
 * class [Rational](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../rational/)
 * assembly [Aspose.PSD](../../../)
 
 

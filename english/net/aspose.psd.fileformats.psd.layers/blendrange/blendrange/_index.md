@@ -18,7 +18,7 @@ public BlendRange()
 ### See Also
 
 * class [BlendRange](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
 * assembly [Aspose.PSD](../../../)
 
 

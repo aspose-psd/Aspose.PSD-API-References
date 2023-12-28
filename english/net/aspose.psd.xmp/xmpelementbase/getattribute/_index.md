@@ -26,7 +26,7 @@ Returns the attribute for specified attribute name.
 ### See Also
 
 * class [XmpElementBase](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpelementbase/)
 * assembly [Aspose.PSD](../../../)
 
 

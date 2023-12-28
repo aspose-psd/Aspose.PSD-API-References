@@ -22,7 +22,7 @@ The Shadows Yellow Blue Balance.
 ### See Also
 
 * class [BlncResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
 * assembly [Aspose.PSD](../../../)
 
 

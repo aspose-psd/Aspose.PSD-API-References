@@ -23,7 +23,7 @@ The generated [`SoLdResource`](../../soldresource/) instance.
 
 * class [SoLdResource](../../soldresource/)
 * class [SmartResourceCreator](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
 * assembly [Aspose.PSD](../../../)
 
 

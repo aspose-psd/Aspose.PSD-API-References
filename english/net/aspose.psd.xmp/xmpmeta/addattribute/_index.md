@@ -23,7 +23,7 @@ public override void AddAttribute(string attribute, string value)
 ### See Also
 
 * class [XmpMeta](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpmeta/)
 * assembly [Aspose.PSD](../../../)
 
 

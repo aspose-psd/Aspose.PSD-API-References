@@ -23,7 +23,7 @@ The `ImageAttributes`.
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../texturebrush/)
 * assembly [Aspose.PSD](../../../)
 
 

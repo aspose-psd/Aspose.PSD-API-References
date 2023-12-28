@@ -18,7 +18,7 @@ public const int StructureKey;
 ### See Also
 
 * class [AnimatedDataSectionStructure](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: IGradientFillSettings.Scale
 second_title: Aspose.PSD for .NET API Reference
 description: IGradientFillSettings property. Gets or sets the scale
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
 {{< psd/tize >}}
@@ -55,7 +55,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### See Also
 
 * interface [IGradientFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

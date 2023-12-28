@@ -23,7 +23,7 @@ public void SetItems(BezierKnotRecord[] bezierPoints)
 
 * class [BezierKnotRecord](../../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/)
 * class [PathShape](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pathshape/)
 * assembly [Aspose.PSD](../../../)
 
 

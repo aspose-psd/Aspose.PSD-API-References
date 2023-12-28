@@ -22,7 +22,7 @@ The border Y.
 ### See Also
 
 * class [VectorRasterizationOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

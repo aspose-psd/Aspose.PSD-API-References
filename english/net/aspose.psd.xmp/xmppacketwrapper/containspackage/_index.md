@@ -26,7 +26,7 @@ Returns true if package with specified namespace Uri exist in XMP wrapper.
 ### See Also
 
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmppacketwrapper/)
 * assembly [Aspose.PSD](../../../)
 
 

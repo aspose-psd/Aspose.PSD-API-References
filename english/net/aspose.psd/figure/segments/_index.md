@@ -23,7 +23,7 @@ The figure segments.
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../figure/)
 * assembly [Aspose.PSD](../../../)
 
 

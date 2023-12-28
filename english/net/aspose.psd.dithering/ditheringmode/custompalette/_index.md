@@ -19,7 +19,7 @@ public IColorPalette CustomPalette { get; set; }
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [DitheringMode](../)
-* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* namespace [Aspose.PSD.Dithering](../../ditheringmode/)
 * assembly [Aspose.PSD](../../../)
 
 

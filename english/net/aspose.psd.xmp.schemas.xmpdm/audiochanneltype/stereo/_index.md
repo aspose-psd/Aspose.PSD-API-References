@@ -22,7 +22,7 @@ The stereo audio channel.
 ### See Also
 
 * class [AudioChannelType](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
 * assembly [Aspose.PSD](../../../)
 
 

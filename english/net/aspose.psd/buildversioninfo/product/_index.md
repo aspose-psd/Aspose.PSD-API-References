@@ -18,7 +18,7 @@ public static readonly string Product;
 ### See Also
 
 * class [BuildVersionInfo](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../buildversioninfo/)
 * assembly [Aspose.PSD](../../../)
 
 

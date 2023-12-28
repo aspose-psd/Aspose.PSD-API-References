@@ -23,7 +23,7 @@ The custom color converter
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RawDataSettings](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rawdatasettings/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -26,7 +26,7 @@ The index of *value* if found in the list; otherwise, -1.
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../nongenericlist/)
 * assembly [Aspose.PSD](../../../)
 
 

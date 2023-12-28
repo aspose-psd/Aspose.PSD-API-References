@@ -18,7 +18,7 @@ public string AdobeXmpToolkit { get; set; }
 ### See Also
 
 * class [XmpMeta](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpmeta/)
 * assembly [Aspose.PSD](../../../)
 
 

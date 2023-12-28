@@ -22,7 +22,7 @@ The resource data size.
 ### See Also
 
 * class [LayerStateInformationResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
 * assembly [Aspose.PSD](../../../)
 
 

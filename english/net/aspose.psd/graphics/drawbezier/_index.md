@@ -38,7 +38,7 @@ public void DrawBezier(Pen pen, float x1, float y1, float x2, float y2, float x3
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -70,7 +70,7 @@ public void DrawBezier(Pen pen, PointF pt1, PointF pt2, PointF pt3, PointF pt4)
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -102,7 +102,7 @@ public void DrawBezier(Pen pen, Point pt1, Point pt2, Point pt3, Point pt4)
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

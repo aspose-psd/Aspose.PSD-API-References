@@ -26,7 +26,7 @@ True if *obj* is a [`ColorBlend`](../) class equivalent to this [`ColorBlend`](.
 ### See Also
 
 * class [ColorBlend](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorblend/)
 * assembly [Aspose.PSD](../../../)
 
 

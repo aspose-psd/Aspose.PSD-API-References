@@ -18,7 +18,7 @@ public BezierShape()
 ### See Also
 
 * class [BezierShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../beziershape/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public BezierShape(PointF[] points)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../beziershape/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -61,7 +61,7 @@ public BezierShape(PointF[] points, bool isClosed)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../beziershape/)
 * assembly [Aspose.PSD](../../../)
 
 

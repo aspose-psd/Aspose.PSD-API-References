@@ -22,7 +22,7 @@ The minimal psd version.
 ### See Also
 
 * class [XmpResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
 * assembly [Aspose.PSD](../../../)
 
 

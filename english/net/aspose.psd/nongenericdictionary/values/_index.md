@@ -22,7 +22,7 @@ An ICollection object containing the values in the IDictionary object.
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../nongenericdictionary/)
 * assembly [Aspose.PSD](../../../)
 
 

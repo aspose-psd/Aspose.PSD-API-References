@@ -23,7 +23,7 @@ public IntRange(int start, int count)
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../intrange/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public IntRange(int start, int count, int delta)
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../intrange/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public IntRange(int[] range)
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../intrange/)
 * assembly [Aspose.PSD](../../../)
 
 

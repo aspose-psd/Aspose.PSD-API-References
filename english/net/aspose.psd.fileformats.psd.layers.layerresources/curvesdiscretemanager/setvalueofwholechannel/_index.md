@@ -29,7 +29,7 @@ public void SetValueOfWholeChannel(int channelIndex, byte[] channelValue)
 ### See Also
 
 * class [CurvesDiscreteManager](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
 * assembly [Aspose.PSD](../../../)
 
 

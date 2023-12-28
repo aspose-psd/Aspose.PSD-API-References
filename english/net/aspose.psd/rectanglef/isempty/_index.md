@@ -22,7 +22,7 @@ This property returns true if the [`Width`](../width/) or [`Height`](../height/)
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 

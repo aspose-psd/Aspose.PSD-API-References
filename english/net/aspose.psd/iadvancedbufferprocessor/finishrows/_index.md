@@ -22,7 +22,7 @@ public void FinishRows(int rowsCount)
 ### See Also
 
 * interface [IAdvancedBufferProcessor](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iadvancedbufferprocessor/)
 * assembly [Aspose.PSD](../../../)
 
 

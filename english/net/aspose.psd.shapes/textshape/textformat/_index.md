@@ -23,7 +23,7 @@ The text format.
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../textshape/)
 * assembly [Aspose.PSD](../../../)
 
 

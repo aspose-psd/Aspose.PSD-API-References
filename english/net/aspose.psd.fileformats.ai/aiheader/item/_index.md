@@ -26,7 +26,7 @@ The String.
 ### See Also
 
 * class [AiHeader](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aiheader/)
 * assembly [Aspose.PSD](../../../)
 
 

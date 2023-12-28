@@ -49,7 +49,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
 * assembly [Aspose.PSD](../../../)
 
 

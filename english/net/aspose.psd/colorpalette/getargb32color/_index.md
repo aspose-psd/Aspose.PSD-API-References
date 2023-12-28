@@ -32,7 +32,7 @@ The color palette entry specified by the *index*.
 ### See Also
 
 * class [ColorPalette](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

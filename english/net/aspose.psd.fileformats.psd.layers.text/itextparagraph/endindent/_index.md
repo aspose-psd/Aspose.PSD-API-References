@@ -180,7 +180,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### See Also
 
 * interface [ITextParagraph](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextparagraph/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public PsdLoadOptions()
 ### See Also
 
 * class [PsdLoadOptions](../)
-* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* namespace [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

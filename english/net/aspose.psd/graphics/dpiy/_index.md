@@ -22,7 +22,7 @@ The value, in dots per inch, for the vertical resolution supported by this Aspos
 ### See Also
 
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

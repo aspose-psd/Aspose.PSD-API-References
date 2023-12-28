@@ -23,7 +23,7 @@ The starting shape point.
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iorderedshape/)
 * assembly [Aspose.PSD](../../../)
 
 

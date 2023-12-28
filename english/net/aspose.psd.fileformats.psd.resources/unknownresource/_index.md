@@ -3,7 +3,7 @@ title: Class UnknownResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.UnknownResource class. The unknown resource. When a resource block is not recognized then this resource block is created
 type: docs
-weight: 4170
+weight: 4200
 url: /net/aspose.psd.fileformats.psd.resources/unknownresource/
 ---
 {{< psd/tize >}}

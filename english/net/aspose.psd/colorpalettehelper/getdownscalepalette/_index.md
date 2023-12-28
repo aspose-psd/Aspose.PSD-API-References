@@ -28,7 +28,7 @@ The [`ColorPalette`](../../colorpalette/).
 * class [ColorPalette](../../colorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorpalettehelper/)
 * assembly [Aspose.PSD](../../../)
 
 

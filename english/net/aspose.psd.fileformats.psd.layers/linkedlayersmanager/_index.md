@@ -3,7 +3,7 @@ title: Class LinkedLayersManager
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager class. Linked layers manager class
 type: docs
-weight: 3600
+weight: 3630
 url: /net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
 {{< psd/tize >}}

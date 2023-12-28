@@ -29,7 +29,7 @@ The color palette which starts with the most frequent colors from the *image* an
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorpalettehelper/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -59,7 +59,7 @@ The color palette which starts with the most frequent colors from the *image* an
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorpalettehelper/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -90,7 +90,7 @@ The color palette which starts with the most frequent colors from the *image* an
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorpalettehelper/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -19,7 +19,7 @@ public JpegLsInterleaveMode JpegLsInterleaveMode { get; set; }
 
 * enum [JpegLsInterleaveMode](../../../aspose.psd.fileformats.jpeg/jpeglsinterleavemode/)
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

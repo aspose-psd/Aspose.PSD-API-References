@@ -3,7 +3,7 @@ title: Class Shape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Shape class. The shape. A continuous set of points connected using a specific rule
 type: docs
-weight: 5660
+weight: 5700
 url: /net/aspose.psd/shape/
 ---
 {{< psd/tize >}}

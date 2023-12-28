@@ -23,7 +23,7 @@ The thumbnail data format.
 
 * enum [ThumbnailFormat](../../thumbnailformat/)
 * class [ThumbnailResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -27,7 +27,7 @@ The array of the 32-bit ARGB color.
 ### See Also
 
 * struct [CmykColor](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cmykcolor/)
 * assembly [Aspose.PSD](../../../)
 
 

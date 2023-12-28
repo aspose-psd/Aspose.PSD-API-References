@@ -3,7 +3,7 @@ title: SmartObjectLayer.ExportContents
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Exports the embedded or linked contents to a file
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/exportcontents/
 ---
 {{< psd/tize >}}
@@ -99,7 +99,7 @@ foreach (FileFormat format in formats)
 ### See Also
 
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

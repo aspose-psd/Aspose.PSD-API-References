@@ -65,7 +65,7 @@ using (var image = (PsdImage)Image.Load(output))
 ### See Also
 
 * interface [ITextStyle](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
 * assembly [Aspose.PSD](../../../)
 
 

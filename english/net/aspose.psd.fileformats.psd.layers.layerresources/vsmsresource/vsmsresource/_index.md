@@ -28,7 +28,7 @@ public VsmsResource(byte[] data)
 ### See Also
 
 * class [VsmsResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -665,7 +665,7 @@ public class VectorPath
 ### See Also
 
 * class [VsmsResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
 * assembly [Aspose.PSD](../../../)
 
 

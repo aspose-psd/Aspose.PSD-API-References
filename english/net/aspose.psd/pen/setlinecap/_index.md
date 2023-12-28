@@ -26,7 +26,7 @@ public void SetLineCap(LineCap startCap, LineCap endCap, DashCap dashCap)
 * enum [LineCap](../../linecap/)
 * enum [DashCap](../../dashcap/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pen/)
 * assembly [Aspose.PSD](../../../)
 
 

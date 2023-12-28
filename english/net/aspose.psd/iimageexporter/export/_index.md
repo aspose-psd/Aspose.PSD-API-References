@@ -26,7 +26,7 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporter](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iimageexporter/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -53,7 +53,7 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase,
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * interface [IImageExporter](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iimageexporter/)
 * assembly [Aspose.PSD](../../../)
 
 

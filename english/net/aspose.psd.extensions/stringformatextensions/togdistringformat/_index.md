@@ -27,7 +27,7 @@ The converted StringFormat.
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [StringFormatExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../stringformatextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

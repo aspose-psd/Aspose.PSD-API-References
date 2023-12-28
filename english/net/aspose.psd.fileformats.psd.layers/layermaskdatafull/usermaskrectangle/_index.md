@@ -23,7 +23,7 @@ The user mask [`Rectangle`](../../../aspose.psd/rectangle/).
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskDataFull](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
 * assembly [Aspose.PSD](../../../)
 
 

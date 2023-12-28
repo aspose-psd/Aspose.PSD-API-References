@@ -23,7 +23,7 @@ The [`LineJoin`](../../linejoin/) enumeration this [`CustomLineCap`](../) object
 
 * enum [LineJoin](../../linejoin/)
 * class [CustomLineCap](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../customlinecap/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public ColorBlend()
 ### See Also
 
 * class [ColorBlend](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorblend/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public ColorBlend(int count)
 ### See Also
 
 * class [ColorBlend](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorblend/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ public CustomFontData(string fontName, byte[] fontData)
 ### See Also
 
 * class [CustomFontData](../)
-* namespace [Aspose.PSD.CustomFontHandler](../../../aspose.psd.customfonthandler/)
+* namespace [Aspose.PSD.CustomFontHandler](../../customfontdata/)
 * assembly [Aspose.PSD](../../../)
 
 

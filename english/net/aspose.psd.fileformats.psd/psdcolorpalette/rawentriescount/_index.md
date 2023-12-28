@@ -22,7 +22,7 @@ The raw color palette entries count.
 ### See Also
 
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public GridAndGuidesResouce()
 ### See Also
 
 * class [GridAndGuidesResouce](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
 * assembly [Aspose.PSD](../../../)
 
 

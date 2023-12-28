@@ -19,7 +19,7 @@ public RawColor MinimumColor { get; }
 
 * class [RawColor](../../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/)
 * class [GrdmResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../grdmresource/)
 * assembly [Aspose.PSD](../../../)
 
 

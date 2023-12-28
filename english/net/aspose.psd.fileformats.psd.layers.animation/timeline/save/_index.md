@@ -40,7 +40,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions() { Lo
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * class [Timeline](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -78,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions() { Lo
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * class [Timeline](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
 * assembly [Aspose.PSD](../../../)
 
 

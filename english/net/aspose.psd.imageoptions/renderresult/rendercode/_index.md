@@ -19,7 +19,7 @@ public RenderErrorCode RenderCode { get; set; }
 
 * enum [RenderErrorCode](../../rendererrorcode/)
 * class [RenderResult](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../renderresult/)
 * assembly [Aspose.PSD](../../../)
 
 

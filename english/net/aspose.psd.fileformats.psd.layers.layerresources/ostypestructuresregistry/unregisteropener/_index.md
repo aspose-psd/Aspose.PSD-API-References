@@ -23,7 +23,7 @@ public static void UnregisterOpener(IOSTypeStructureLoader openerDescriptor)
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -19,7 +19,7 @@ public HatchStyle HatchStyle { get; set; }
 
 * enum [HatchStyle](../../../aspose.psd/hatchstyle/)
 * class [HatchBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../hatchbrush/)
 * assembly [Aspose.PSD](../../../)
 
 

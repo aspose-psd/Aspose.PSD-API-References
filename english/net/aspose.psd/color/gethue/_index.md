@@ -22,7 +22,7 @@ The hue, in degrees, of this [`Color`](../). The hue is measured in degrees, ran
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../color/)
 * assembly [Aspose.PSD](../../../)
 
 

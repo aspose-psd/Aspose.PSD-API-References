@@ -3,7 +3,7 @@ title: Class LmskResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LmskResource class. The LMsk resource
 type: docs
-weight: 2850
+weight: 2880
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lmskresource/
 ---
 {{< psd/tize >}}
@@ -53,6 +53,59 @@ public class LmskResource : LayerResource
 ## Remarks
 
 This resource contains color space ID, which refers to a specific color space type, and 4 color components. Depending on ID, color components have different meanings. If the color space type does not require four values, the extra components are undefined and always written as zeros. Color components by color space types: RGB - the first three components are red, green, and blue. HSB - the first three components are hue, saturation, and brightness. CMYK- the four components are cyan, magenta, yellow, and black. Lab - the first three components are lightness, a chrominance, and b chrominance. Grayscale - the first component is the gray value, from 0...10000.
+
+## Examples
+
+The following code demonstrates how to change Layer Mask Display Options on 16-bit images through changing LmskResource properties.
+
+```csharp
+[C#]
+
+string sourceFile = "sourceFile.psd";
+string outputPsd = "sourceFile_output.psd";
+
+void AssertAreEqual(object expected, object actual)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new Exception("Objects are not equal.");
+    }
+}
+
+// Load 16-bit image.
+using (PsdImage image = (PsdImage)Image.Load(sourceFile))
+{
+    // Find LmskResource.
+    LmskResource lmskResource = new LmskResource();
+    foreach (var res in image.GlobalLayerResources)
+    {
+        if (res is LmskResource)
+        {
+            lmskResource = (LmskResource)res;
+            break;
+        }
+    }
+
+    // Check LmskResource properties.
+    AssertAreEqual(lmskResource.ColorSpace, ColorSpace.RGB);
+    AssertAreEqual(lmskResource.ColorComponent1, (ushort)65535);
+    AssertAreEqual(lmskResource.ColorComponent2, (ushort)0);
+    AssertAreEqual(lmskResource.ColorComponent3, (ushort)0);
+    AssertAreEqual(lmskResource.ColorComponent4, (ushort)0);
+    AssertAreEqual(lmskResource.Opacity, (short)45);
+    AssertAreEqual(lmskResource.Flag, (byte)128);
+
+    // Change LmskResource properties.
+    lmskResource.ColorSpace = ColorSpace.HSB;
+    lmskResource.ColorComponent1 = 7854;
+    lmskResource.ColorComponent2 = 10;
+    lmskResource.ColorComponent3 = 15484;
+    lmskResource.Opacity = 85;
+
+    // Save the image.
+    image.Save(outputPsd);
+}
+```
 
 ### See Also
 

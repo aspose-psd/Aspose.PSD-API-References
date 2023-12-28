@@ -18,7 +18,7 @@ public CmxRasterizationOptions()
 ### See Also
 
 * class [CmxRasterizationOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

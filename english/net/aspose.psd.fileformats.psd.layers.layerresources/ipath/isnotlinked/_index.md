@@ -18,7 +18,7 @@ public bool IsNotLinked { get; set; }
 ### See Also
 
 * interface [IPath](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ipath/)
 * assembly [Aspose.PSD](../../../)
 
 

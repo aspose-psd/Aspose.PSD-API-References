@@ -22,7 +22,7 @@ The compression ratios.
 ### See Also
 
 * class [Jpeg2000Options](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../jpeg2000options/)
 * assembly [Aspose.PSD](../../../)
 
 

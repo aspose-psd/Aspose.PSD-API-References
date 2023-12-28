@@ -18,7 +18,7 @@ public override int FilterId { get; }
 ### See Also
 
 * class [UnknownSmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../unknownsmartfilter/)
 * assembly [Aspose.PSD](../../../)
 
 

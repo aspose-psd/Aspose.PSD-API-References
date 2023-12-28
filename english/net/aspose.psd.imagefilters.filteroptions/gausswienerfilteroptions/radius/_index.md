@@ -22,7 +22,7 @@ The radius.
 ### See Also
 
 * class [GaussWienerFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class TypeToolLineInfo
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo class. Type tool line info
 type: docs
-weight: 3500
+weight: 3530
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
 {{< psd/tize >}}

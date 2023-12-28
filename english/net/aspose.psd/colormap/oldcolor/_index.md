@@ -23,7 +23,7 @@ The existing [`Color`](../../color/) structure to be converted.
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colormap/)
 * assembly [Aspose.PSD](../../../)
 
 

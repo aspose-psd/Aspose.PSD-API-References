@@ -32,7 +32,7 @@ A 32-bit signed integer that indicates the relative order of the objects being c
 ### See Also
 
 * class [TiffDataType](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
 * assembly [Aspose.PSD](../../../)
 
 

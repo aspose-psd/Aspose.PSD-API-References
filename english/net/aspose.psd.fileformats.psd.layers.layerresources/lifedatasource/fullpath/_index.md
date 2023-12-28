@@ -198,7 +198,7 @@ ExampleOfLnkEResourceSupport(
 ### See Also
 
 * class [LiFeDataSource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
 * assembly [Aspose.PSD](../../../)
 
 

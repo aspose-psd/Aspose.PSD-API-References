@@ -22,7 +22,7 @@ public abstract bool HasSegments { get; }
 ### See Also
 
 * class [Shape](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../shape/)
 * assembly [Aspose.PSD](../../../)
 
 

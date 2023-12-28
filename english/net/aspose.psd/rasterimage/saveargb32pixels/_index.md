@@ -24,7 +24,7 @@ public void SaveArgb32Pixels(Rectangle rectangle, int[] pixels)
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

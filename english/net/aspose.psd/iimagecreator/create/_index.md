@@ -33,7 +33,7 @@ A new image instance.
 * class [StreamContainer](../../streamcontainer/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreator](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iimagecreator/)
 * assembly [Aspose.PSD](../../../)
 
 

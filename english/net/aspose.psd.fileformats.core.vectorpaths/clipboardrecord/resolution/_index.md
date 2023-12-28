@@ -22,7 +22,7 @@ The resolution.
 ### See Also
 
 * class [ClipboardRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
 * assembly [Aspose.PSD](../../../)
 
 

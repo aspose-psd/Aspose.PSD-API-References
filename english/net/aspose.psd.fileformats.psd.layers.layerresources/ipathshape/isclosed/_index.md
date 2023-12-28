@@ -18,7 +18,7 @@ public bool IsClosed { get; set; }
 ### See Also
 
 * interface [IPathShape](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ipathshape/)
 * assembly [Aspose.PSD](../../../)
 
 

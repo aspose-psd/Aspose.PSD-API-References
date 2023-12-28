@@ -27,7 +27,7 @@ The converted ColorMatrix.
 
 * class [ColorMatrix](../../../aspose.psd/colormatrix/)
 * class [ColorMatrixExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../colormatrixextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ public Layer(string layerName, string layerText)
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public Layer()
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -28,7 +28,7 @@ public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings,
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * interface [IRasterImageRawDataLoader](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../irasterimagerawdataloader/)
 * assembly [Aspose.PSD](../../../)
 
 

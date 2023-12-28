@@ -18,7 +18,7 @@ public Figure()
 ### See Also
 
 * class [Figure](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../figure/)
 * assembly [Aspose.PSD](../../../)
 
 

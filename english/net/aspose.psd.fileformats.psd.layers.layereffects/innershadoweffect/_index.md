@@ -3,7 +3,7 @@ title: Class InnerShadowEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect class. Inner Shadow Layer effect
 type: docs
-weight: 2260
+weight: 2290
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
 {{< psd/tize >}}

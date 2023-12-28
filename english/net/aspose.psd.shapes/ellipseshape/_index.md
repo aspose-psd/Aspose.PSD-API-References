@@ -3,7 +3,7 @@ title: Class EllipseShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Shapes.EllipseShape class. Represents an ellipse shape
 type: docs
-weight: 5730
+weight: 5770
 url: /net/aspose.psd.shapes/ellipseshape/
 ---
 {{< psd/tize >}}

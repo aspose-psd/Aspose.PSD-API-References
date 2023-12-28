@@ -73,7 +73,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GrdmResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../grdmresource/)
 * assembly [Aspose.PSD](../../../)
 
 

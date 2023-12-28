@@ -27,7 +27,7 @@ The converted Pen.
 
 * class [Pen](../../../aspose.psd/pen/)
 * class [PenExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../penextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -26,7 +26,7 @@ This method returns true if *obj* is a [`PointF`](../) and has the same coordina
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pointf/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -27,7 +27,7 @@ This operator returns true if the two [`Rectangle`](../) structures have equal [
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -7,6 +7,26 @@ weight: 40
 url: /net/aspose.psd/rastercachedimage/adjustgamma/
 ---
 {{< psd/tize >}}
+## AdjustGamma(float) {#adjustgamma}
+
+Gamma-correction of an image.
+
+```csharp
+public override void AdjustGamma(float gamma)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| gamma | Single | Gamma for red, green and blue channels coefficient |
+
+### See Also
+
+* class [RasterCachedImage](../)
+* namespace [Aspose.PSD](../../rastercachedimage/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
 ## AdjustGamma(float, float, float) {#adjustgamma_1}
 
 Gamma-correction of an image.
@@ -24,27 +44,7 @@ public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBl
 ### See Also
 
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
-* assembly [Aspose.PSD](../../../)
-
----
-
-## AdjustGamma(float) {#adjustgamma}
-
-Gamma-correction of an image.
-
-```csharp
-public override void AdjustGamma(float gamma)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| gamma | Single | Gamma for red, green and blue channels coefficient |
-
-### See Also
-
-* class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rastercachedimage/)
 * assembly [Aspose.PSD](../../../)
 
 

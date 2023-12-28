@@ -18,7 +18,7 @@ public virtual void ValidateValues()
 ### See Also
 
 * class [ResourceBlock](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
 * assembly [Aspose.PSD](../../../)
 
 

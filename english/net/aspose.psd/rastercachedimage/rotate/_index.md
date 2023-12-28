@@ -25,7 +25,7 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 * struct [Color](../../color/)
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rastercachedimage/)
 * assembly [Aspose.PSD](../../../)
 
 

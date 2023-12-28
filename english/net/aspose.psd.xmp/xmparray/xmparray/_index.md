@@ -24,7 +24,7 @@ public XmpArray(XmpArrayType type, string[] items)
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmparray/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public XmpArray(XmpArrayType type)
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmparray/)
 * assembly [Aspose.PSD](../../../)
 
 

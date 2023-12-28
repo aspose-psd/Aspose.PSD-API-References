@@ -22,7 +22,7 @@ public XmpAgentName(string value)
 ### See Also
 
 * class [XmpAgentName](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
 * assembly [Aspose.PSD](../../../)
 
 

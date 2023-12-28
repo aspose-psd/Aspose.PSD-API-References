@@ -22,7 +22,7 @@ The mean value for brightness and contrast.
 ### See Also
 
 * class [BritResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
 * assembly [Aspose.PSD](../../../)
 
 

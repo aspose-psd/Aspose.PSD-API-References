@@ -23,7 +23,7 @@ public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 ### See Also
 
 * class [FontSettings](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../fontsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

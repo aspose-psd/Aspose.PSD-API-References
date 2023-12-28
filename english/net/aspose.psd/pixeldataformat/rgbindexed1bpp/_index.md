@@ -22,7 +22,7 @@ The [`PixelDataFormat`](../) defined for indexed 1 bit per color.
 ### See Also
 
 * class [PixelDataFormat](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pixeldataformat/)
 * assembly [Aspose.PSD](../../../)
 
 

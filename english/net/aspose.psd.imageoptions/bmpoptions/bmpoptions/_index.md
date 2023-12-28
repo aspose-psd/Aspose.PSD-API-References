@@ -18,7 +18,7 @@ public BmpOptions()
 ### See Also
 
 * class [BmpOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../bmpoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public BmpOptions(BmpOptions bmpOptions)
 ### See Also
 
 * class [BmpOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../bmpoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

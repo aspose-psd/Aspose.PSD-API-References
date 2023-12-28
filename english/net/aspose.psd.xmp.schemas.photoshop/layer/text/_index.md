@@ -22,7 +22,7 @@ The text content of the layer.
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
 * assembly [Aspose.PSD](../../../)
 
 

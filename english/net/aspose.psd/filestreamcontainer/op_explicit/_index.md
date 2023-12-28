@@ -26,7 +26,7 @@ The result of the conversion.
 ### See Also
 
 * class [FileStreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../filestreamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -50,7 +50,7 @@ The result of the conversion.
 ### See Also
 
 * class [FileStreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../filestreamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 

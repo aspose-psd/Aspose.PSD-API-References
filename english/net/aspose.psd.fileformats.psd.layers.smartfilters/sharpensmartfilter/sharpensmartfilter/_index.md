@@ -68,7 +68,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### See Also
 
 * class [SharpenSmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../sharpensmartfilter/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -89,7 +89,7 @@ public SharpenSmartFilter(DescriptorStructure sourceDescriptor)
 
 * class [DescriptorStructure](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/)
 * class [SharpenSmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../sharpensmartfilter/)
 * assembly [Aspose.PSD](../../../)
 
 

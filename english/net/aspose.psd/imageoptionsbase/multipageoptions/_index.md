@@ -19,7 +19,7 @@ public MultiPageOptions MultiPageOptions { get; set; }
 
 * class [MultiPageOptions](../../../aspose.psd.imageoptions/multipageoptions/)
 * class [ImageOptionsBase](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageoptionsbase/)
 * assembly [Aspose.PSD](../../../)
 
 

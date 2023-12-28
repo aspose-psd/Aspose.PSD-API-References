@@ -23,7 +23,7 @@ The graphics path.
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrushBase](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
 * assembly [Aspose.PSD](../../../)
 
 

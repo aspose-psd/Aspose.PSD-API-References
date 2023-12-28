@@ -24,7 +24,7 @@ public virtual void SetXmpTypeValue(string key, XmpTypeBase value)
 
 * class [XmpTypeBase](../../../aspose.psd.xmp.types/xmptypebase/)
 * class [XmpPackage](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmppackage/)
 * assembly [Aspose.PSD](../../../)
 
 
