@@ -50,7 +50,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [GradientOverlayEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/)
 * class [LayerStateEffects](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
 * assembly [Aspose.PSD](../../../)
 
 

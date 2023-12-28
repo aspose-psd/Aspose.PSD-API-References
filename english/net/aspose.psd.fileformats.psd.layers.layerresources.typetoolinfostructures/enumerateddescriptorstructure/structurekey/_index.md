@@ -18,7 +18,7 @@ public const int StructureKey;
 ### See Also
 
 * class [EnumeratedDescriptorStructure](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
 * assembly [Aspose.PSD](../../../)
 
 

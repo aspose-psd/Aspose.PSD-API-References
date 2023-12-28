@@ -31,7 +31,7 @@ The first opener descriptor will be actually the last registered.
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
 * assembly [Aspose.PSD](../../../)
 
 

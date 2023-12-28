@@ -370,7 +370,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 
 * class [Layer](../../layer/)
 * class [LayerHashCalculator](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layerhashcalculator/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public virtual void Write(byte[] bytes)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../streamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public virtual void Write(byte[] buffer, int offset, int count)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../streamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 

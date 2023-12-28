@@ -18,7 +18,7 @@ public string[] Values { get; }
 ### See Also
 
 * class [XmpArray](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmparray/)
 * assembly [Aspose.PSD](../../../)
 
 

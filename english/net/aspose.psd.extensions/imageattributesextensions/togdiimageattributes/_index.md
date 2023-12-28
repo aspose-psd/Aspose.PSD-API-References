@@ -27,7 +27,7 @@ The converted ImageAttributes.
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../imageattributesextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ public void RemoveShapes(Shape[] shapes)
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../figure/)
 * assembly [Aspose.PSD](../../../)
 
 

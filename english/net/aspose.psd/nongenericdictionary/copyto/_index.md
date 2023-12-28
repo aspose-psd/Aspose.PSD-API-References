@@ -23,7 +23,7 @@ public void CopyTo(Array array, int index)
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../nongenericdictionary/)
 * assembly [Aspose.PSD](../../../)
 
 

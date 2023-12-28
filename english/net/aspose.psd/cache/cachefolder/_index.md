@@ -22,7 +22,7 @@ The cache folder.
 ### See Also
 
 * class [Cache](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cache/)
 * assembly [Aspose.PSD](../../../)
 
 

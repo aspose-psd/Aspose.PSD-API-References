@@ -24,7 +24,7 @@ public void GetStrokeCaps(out LineCap startCap, out LineCap endCap)
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../customlinecap/)
 * assembly [Aspose.PSD](../../../)
 
 

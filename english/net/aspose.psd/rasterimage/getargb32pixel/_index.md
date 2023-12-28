@@ -27,7 +27,7 @@ The 32-bit ARGB pixel for the specified location.
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

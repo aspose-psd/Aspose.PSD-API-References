@@ -26,7 +26,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [XmpMeta](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpmeta/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -50,7 +50,7 @@ public override bool Equals(object other)
 ### See Also
 
 * class [XmpMeta](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpmeta/)
 * assembly [Aspose.PSD](../../../)
 
 

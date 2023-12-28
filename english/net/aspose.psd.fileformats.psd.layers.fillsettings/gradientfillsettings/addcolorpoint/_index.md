@@ -3,7 +3,7 @@ title: GradientFillSettings.AddColorPoint
 second_title: Aspose.PSD for .NET API Reference
 description: GradientFillSettings method. Adds the color point
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ Created color point
 
 * class [GradientColorPoint](../../gradientcolorpoint/)
 * class [GradientFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

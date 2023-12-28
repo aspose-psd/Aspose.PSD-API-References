@@ -18,7 +18,7 @@ public ResourceRef()
 ### See Also
 
 * class [ResourceRef](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
 * assembly [Aspose.PSD](../../../)
 
 

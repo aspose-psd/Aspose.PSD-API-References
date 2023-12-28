@@ -23,7 +23,7 @@ public PsdColorPalette(IColorPalette colorPalette)
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -66,7 +66,7 @@ public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
 ### See Also
 
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -86,7 +86,7 @@ public PsdColorPalette(byte[] rawEntriesData)
 ### See Also
 
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -108,7 +108,7 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCo
 ### See Also
 
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -129,7 +129,7 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
 ### See Also
 
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -150,7 +150,7 @@ public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
 ### See Also
 
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -172,7 +172,7 @@ public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -193,7 +193,7 @@ public PsdColorPalette(Color[] colorPaletteEntries)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -216,7 +216,7 @@ public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -238,7 +238,7 @@ public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

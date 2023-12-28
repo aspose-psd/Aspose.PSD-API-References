@@ -29,7 +29,7 @@ public override void AddValue(string key, string value)
 ### See Also
 
 * class [XmpDynamicMediaPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
 * assembly [Aspose.PSD](../../../)
 
 

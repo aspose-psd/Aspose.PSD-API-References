@@ -12,6 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/c
 Gets the color points.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
@@ -95,7 +96,7 @@ using (im)
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * interface [IGradientFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

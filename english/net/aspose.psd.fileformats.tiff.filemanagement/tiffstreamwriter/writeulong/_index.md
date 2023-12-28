@@ -22,7 +22,7 @@ public void WriteULong(uint data)
 ### See Also
 
 * class [TiffStreamWriter](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
 * assembly [Aspose.PSD](../../../)
 
 

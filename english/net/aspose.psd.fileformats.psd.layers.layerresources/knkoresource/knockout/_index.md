@@ -22,7 +22,7 @@ public bool Knockout { get; set; }
 ### See Also
 
 * class [KnkoResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
 * assembly [Aspose.PSD](../../../)
 
 

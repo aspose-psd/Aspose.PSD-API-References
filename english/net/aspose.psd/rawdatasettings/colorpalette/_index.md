@@ -23,7 +23,7 @@ The color palette
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RawDataSettings](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rawdatasettings/)
 * assembly [Aspose.PSD](../../../)
 
 

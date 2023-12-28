@@ -33,7 +33,7 @@ The color palette entry specified by the *index*.
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../icolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

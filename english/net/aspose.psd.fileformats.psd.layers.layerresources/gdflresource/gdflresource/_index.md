@@ -18,7 +18,7 @@ public GdFlResource()
 ### See Also
 
 * class [GdFlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
 * assembly [Aspose.PSD](../../../)
 
 

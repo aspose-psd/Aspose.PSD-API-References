@@ -27,7 +27,7 @@ Created [`VectorPathRecord`](../../vectorpathrecord/).
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * class [VectorPathRecordFactory](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
 * assembly [Aspose.PSD](../../../)
 
 

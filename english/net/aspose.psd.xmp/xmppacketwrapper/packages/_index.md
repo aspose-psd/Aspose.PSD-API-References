@@ -23,7 +23,7 @@ The array of [`XmpPackage`](../../xmppackage/) inside XMP.
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmppacketwrapper/)
 * assembly [Aspose.PSD](../../../)
 
 

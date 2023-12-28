@@ -23,7 +23,7 @@ The text bound box.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

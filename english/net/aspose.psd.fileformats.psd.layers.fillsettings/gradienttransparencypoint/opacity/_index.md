@@ -22,7 +22,7 @@ The color.
 ### See Also
 
 * class [GradientTransparencyPoint](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
 * assembly [Aspose.PSD](../../../)
 
 

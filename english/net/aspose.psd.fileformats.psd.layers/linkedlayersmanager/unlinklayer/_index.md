@@ -74,7 +74,7 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
 * assembly [Aspose.PSD](../../../)
 
 

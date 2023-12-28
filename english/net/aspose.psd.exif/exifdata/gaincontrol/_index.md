@@ -23,7 +23,7 @@ The degree of overall image gain adjustment.
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../exifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

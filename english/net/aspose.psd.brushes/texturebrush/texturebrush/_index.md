@@ -23,7 +23,7 @@ public TextureBrush(Image image)
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../texturebrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public TextureBrush(Image image, WrapMode wrapMode)
 * class [Image](../../../aspose.psd/image/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../texturebrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -71,7 +71,7 @@ public TextureBrush(Image image, WrapMode wrapMode, RectangleF destinationRectan
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../texturebrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -96,7 +96,7 @@ public TextureBrush(Image image, WrapMode wrapMode, Rectangle destinationRectang
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../texturebrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -119,7 +119,7 @@ public TextureBrush(Image image, RectangleF destinationRectangle)
 * class [Image](../../../aspose.psd/image/)
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../texturebrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -144,7 +144,7 @@ public TextureBrush(Image image, RectangleF destinationRectangle, ImageAttribute
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../texturebrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -167,7 +167,7 @@ public TextureBrush(Image image, Rectangle destinationRectangle)
 * class [Image](../../../aspose.psd/image/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../texturebrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -192,7 +192,7 @@ public TextureBrush(Image image, Rectangle destinationRectangle, ImageAttributes
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../texturebrush/)
 * assembly [Aspose.PSD](../../../)
 
 

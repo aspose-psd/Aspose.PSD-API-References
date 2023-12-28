@@ -18,7 +18,7 @@ public MultiPageOptions()
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public MultiPageOptions(int[] pages)
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public MultiPageOptions(int[] pages, Rectangle exportArea)
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -80,7 +80,7 @@ public MultiPageOptions(string[] pageTitles)
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -102,7 +102,7 @@ public MultiPageOptions(string[] pageTitles, Rectangle exportArea)
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -123,7 +123,7 @@ public MultiPageOptions(IntRange[] ranges)
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -146,7 +146,7 @@ public MultiPageOptions(IntRange[] ranges, Rectangle exportArea)
 * class [IntRange](../../../aspose.psd/intrange/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -167,7 +167,7 @@ public MultiPageOptions(IntRange range)
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -190,7 +190,7 @@ public MultiPageOptions(IntRange range, Rectangle exportArea)
 * class [IntRange](../../../aspose.psd/intrange/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -210,7 +210,7 @@ public MultiPageOptions(int page)
 ### See Also
 
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -232,7 +232,7 @@ public MultiPageOptions(int page, Rectangle exportArea)
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

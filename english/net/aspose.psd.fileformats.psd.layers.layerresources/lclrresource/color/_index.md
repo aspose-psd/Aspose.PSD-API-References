@@ -87,7 +87,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
 * assembly [Aspose.PSD](../../../)
 
 

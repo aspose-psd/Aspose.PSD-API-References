@@ -22,7 +22,7 @@ The full path to the project.
 ### See Also
 
 * class [ProjectLink](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
 * assembly [Aspose.PSD](../../../)
 
 

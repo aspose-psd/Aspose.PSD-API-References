@@ -22,7 +22,7 @@ The thumbnail width.
 ### See Also
 
 * class [ThumbnailResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
 * assembly [Aspose.PSD](../../../)
 
 

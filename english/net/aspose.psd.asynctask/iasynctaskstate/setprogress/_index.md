@@ -22,7 +22,7 @@ public void SetProgress(int progressPercentage)
 ### See Also
 
 * interface [IAsyncTaskState](../)
-* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* namespace [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
 * assembly [Aspose.PSD](../../../)
 
 

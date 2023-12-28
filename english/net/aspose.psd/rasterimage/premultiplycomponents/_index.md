@@ -22,7 +22,7 @@ public virtual bool PremultiplyComponents { get; set; }
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

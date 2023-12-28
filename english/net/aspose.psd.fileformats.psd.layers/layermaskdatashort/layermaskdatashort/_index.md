@@ -18,7 +18,7 @@ public LayerMaskDataShort()
 ### See Also
 
 * class [LayerMaskDataShort](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
 * assembly [Aspose.PSD](../../../)
 
 

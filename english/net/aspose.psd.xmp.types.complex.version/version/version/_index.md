@@ -18,7 +18,7 @@ public Version()
 ### See Also
 
 * class [Version](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
 * assembly [Aspose.PSD](../../../)
 
 

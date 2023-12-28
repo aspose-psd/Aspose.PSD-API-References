@@ -18,7 +18,7 @@ public Font()
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Font(string fontFamily)
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
 * assembly [Aspose.PSD](../../../)
 
 

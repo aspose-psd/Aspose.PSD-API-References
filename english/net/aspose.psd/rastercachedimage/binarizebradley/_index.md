@@ -7,6 +7,26 @@ weight: 50
 url: /net/aspose.psd/rastercachedimage/binarizebradley/
 ---
 {{< psd/tize >}}
+## BinarizeBradley(double) {#binarizebradley}
+
+Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding
+
+```csharp
+public override void BinarizeBradley(double brightnessDifference)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| brightnessDifference | Double | The brightness difference between pixel and the average of an s x s window of pixels centered around this pixel. |
+
+### See Also
+
+* class [RasterCachedImage](../)
+* namespace [Aspose.PSD](../../rastercachedimage/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
 ## BinarizeBradley(double, int) {#binarizebradley_1}
 
 Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding
@@ -23,27 +43,7 @@ public override void BinarizeBradley(double brightnessDifference, int windowSize
 ### See Also
 
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
-* assembly [Aspose.PSD](../../../)
-
----
-
-## BinarizeBradley(double) {#binarizebradley}
-
-Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding
-
-```csharp
-public override void BinarizeBradley(double brightnessDifference)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| brightnessDifference | Double | The brightness difference between pixel and the average of an s x s window of pixels centered around this pixel. |
-
-### See Also
-
-* class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rastercachedimage/)
 * assembly [Aspose.PSD](../../../)
 
 

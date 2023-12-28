@@ -26,7 +26,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [TiffRational](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
 * assembly [Aspose.PSD](../../../)
 
 

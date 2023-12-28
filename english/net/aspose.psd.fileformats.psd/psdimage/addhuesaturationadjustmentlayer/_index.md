@@ -23,7 +23,7 @@ A newly created hue/saturation layer.
 
 * class [HueSaturationLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 

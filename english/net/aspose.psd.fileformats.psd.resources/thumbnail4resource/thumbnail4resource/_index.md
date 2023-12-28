@@ -18,7 +18,7 @@ public Thumbnail4Resource()
 ### See Also
 
 * class [Thumbnail4Resource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnail4resource/)
 * assembly [Aspose.PSD](../../../)
 
 

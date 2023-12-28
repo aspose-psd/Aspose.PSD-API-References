@@ -9,9 +9,10 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/fi
 {{< psd/tize >}}
 ## GradientFillSettings.FillType property
 
-The fill type
+The fill type.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to BaseGradientFillSettings class. Property will be removed in 23.11 release.")]
 public override FillType FillType { get; }
 ```
 
@@ -19,7 +20,7 @@ public override FillType FillType { get; }
 
 * enum [FillType](../../filltype/)
 * class [GradientFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

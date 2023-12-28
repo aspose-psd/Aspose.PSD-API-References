@@ -27,7 +27,7 @@ This method returns true if the point defined by *x* and *y* is contained within
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -52,7 +52,7 @@ This method returns true if the point represented by *point* is contained within
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -76,7 +76,7 @@ This method returns true if the rectangular region represented by *rect* is enti
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 

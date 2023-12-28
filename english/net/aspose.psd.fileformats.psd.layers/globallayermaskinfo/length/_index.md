@@ -18,7 +18,7 @@ public int Length { get; }
 ### See Also
 
 * class [GlobalLayerMaskInfo](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
 * assembly [Aspose.PSD](../../../)
 
 

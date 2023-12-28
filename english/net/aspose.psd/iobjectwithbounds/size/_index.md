@@ -23,7 +23,7 @@ The object size.
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iobjectwithbounds/)
 * assembly [Aspose.PSD](../../../)
 
 

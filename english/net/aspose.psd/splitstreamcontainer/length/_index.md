@@ -22,7 +22,7 @@ The stream length.
 ### See Also
 
 * class [SplitStreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../splitstreamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 

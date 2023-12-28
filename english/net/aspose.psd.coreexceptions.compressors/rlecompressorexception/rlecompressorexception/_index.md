@@ -22,7 +22,7 @@ public RleCompressorException(string message)
 ### See Also
 
 * class [RleCompressorException](../)
-* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public RleCompressorException(string message, Exception innerException)
 ### See Also
 
 * class [RleCompressorException](../)
-* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
 * assembly [Aspose.PSD](../../../)
 
 

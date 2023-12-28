@@ -18,7 +18,7 @@ public static Rectangle Empty { get; }
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 

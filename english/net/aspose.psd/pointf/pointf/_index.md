@@ -23,7 +23,7 @@ public PointF(float x, float y)
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pointf/)
 * assembly [Aspose.PSD](../../../)
 
 

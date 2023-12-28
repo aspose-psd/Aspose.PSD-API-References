@@ -28,7 +28,7 @@ Curve point by index of channel
 
 * struct [Point](../../../aspose.psd/point/)
 * class [CurvesContinuousManager](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
 * assembly [Aspose.PSD](../../../)
 
 

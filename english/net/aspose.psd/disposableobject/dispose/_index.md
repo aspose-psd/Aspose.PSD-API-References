@@ -18,7 +18,7 @@ public void Dispose()
 ### See Also
 
 * class [DisposableObject](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../disposableobject/)
 * assembly [Aspose.PSD](../../../)
 
 

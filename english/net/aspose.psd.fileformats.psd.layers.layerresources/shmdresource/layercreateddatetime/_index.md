@@ -22,7 +22,7 @@ The layer created time.
 ### See Also
 
 * class [ShmdResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
 * assembly [Aspose.PSD](../../../)
 
 

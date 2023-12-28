@@ -3,7 +3,7 @@ title: Enum PhysicalUnit
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. The resoulutionInfo physical unit enum
 type: docs
-weight: 4090
+weight: 4120
 url: /net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
 {{< psd/tize >}}

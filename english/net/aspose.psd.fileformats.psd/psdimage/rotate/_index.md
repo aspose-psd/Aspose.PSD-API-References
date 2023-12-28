@@ -61,7 +61,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -84,7 +84,7 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 

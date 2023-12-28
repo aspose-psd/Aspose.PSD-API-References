@@ -3,7 +3,7 @@ title: SmartObjectLayer.ContentsBounds
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer property. Gets or sets the smart object contents bounds
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentsbounds/
 ---
 {{< psd/tize >}}
@@ -403,7 +403,7 @@ string GetFormatExt(FileFormat format)
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

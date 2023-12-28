@@ -23,7 +23,7 @@ A new exporter instance.
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iimageexporterdescriptor/)
 * assembly [Aspose.PSD](../../../)
 
 

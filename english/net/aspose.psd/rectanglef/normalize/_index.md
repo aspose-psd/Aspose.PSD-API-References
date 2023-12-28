@@ -18,7 +18,7 @@ public void Normalize()
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 

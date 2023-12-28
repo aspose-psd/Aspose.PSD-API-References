@@ -27,7 +27,7 @@ The [`Size`](../) that is a result of the subtraction operation.
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../size/)
 * assembly [Aspose.PSD](../../../)
 
 

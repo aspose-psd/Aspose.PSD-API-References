@@ -22,7 +22,7 @@ Raw byte data
 ### See Also
 
 * class [MixerChannel](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The brush color.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../solidbrush/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -27,7 +27,7 @@ A [`Rectangle`](../) structure that bounds the union of the two [`Rectangle`](..
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 

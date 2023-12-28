@@ -3,7 +3,7 @@ title: GdFlResource.GradientType
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Gets or sets the type of the gradient
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ The type of the gradient.
 
 * enum [GradientType](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/)
 * class [GdFlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
 * assembly [Aspose.PSD](../../../)
 
 

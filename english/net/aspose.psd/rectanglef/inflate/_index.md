@@ -28,7 +28,7 @@ The inflated [`RectangleF`](../).
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public void Inflate(float x, float y)
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -70,7 +70,7 @@ public void Inflate(SizeF size)
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 

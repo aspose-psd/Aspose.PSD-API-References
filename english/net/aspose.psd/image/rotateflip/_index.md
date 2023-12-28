@@ -41,7 +41,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 

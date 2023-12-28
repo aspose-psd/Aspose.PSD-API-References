@@ -18,7 +18,7 @@ public override void BinarizeOtsu()
 ### See Also
 
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rastercachedimage/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -120,7 +120,7 @@ using (var image = (PsdImage)Image.Load(sourceFileWithoutSelectiveColorLayer))
 * enum [SelectiveColorsTypes](../../selectivecolorstypes/)
 * class [CmykCorrection](../../cmykcorrection/)
 * class [SelectiveColorLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../selectivecolorlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

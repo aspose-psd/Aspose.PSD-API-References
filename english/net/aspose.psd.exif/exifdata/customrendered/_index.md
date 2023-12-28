@@ -23,7 +23,7 @@ The custom rendered.
 
 * enum [ExifCustomRendered](../../../aspose.psd.exif.enums/exifcustomrendered/)
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../exifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

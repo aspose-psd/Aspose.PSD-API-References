@@ -22,7 +22,7 @@ The number of elements contained in the ICollection.
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../nongenericdictionary/)
 * assembly [Aspose.PSD](../../../)
 
 

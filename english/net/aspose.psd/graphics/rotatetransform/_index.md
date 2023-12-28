@@ -22,7 +22,7 @@ public void RotateTransform(float angle)
 ### See Also
 
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void RotateTransform(float angle, MatrixOrder order)
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

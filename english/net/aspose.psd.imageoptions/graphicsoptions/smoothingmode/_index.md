@@ -19,7 +19,7 @@ public SmoothingMode SmoothingMode { get; set; }
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [GraphicsOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../graphicsoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The color.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PatternFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

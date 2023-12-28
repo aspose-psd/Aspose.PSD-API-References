@@ -22,7 +22,7 @@ True if this [`Font`](../) is bold; otherwise, false.
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../font/)
 * assembly [Aspose.PSD](../../../)
 
 

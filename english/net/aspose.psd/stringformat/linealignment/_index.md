@@ -23,7 +23,7 @@ A [`StringAlignment`](../../stringalignment/) enumeration that represents the li
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../stringformat/)
 * assembly [Aspose.PSD](../../../)
 
 

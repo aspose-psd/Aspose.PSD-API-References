@@ -22,7 +22,7 @@ The quad version.
 ### See Also
 
 * class [VectorShapeRadiiRectangle](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
 * assembly [Aspose.PSD](../../../)
 
 

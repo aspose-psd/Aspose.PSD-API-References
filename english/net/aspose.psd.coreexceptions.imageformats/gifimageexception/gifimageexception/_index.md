@@ -22,7 +22,7 @@ public GifImageException(string message)
 ### See Also
 
 * class [GifImageException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public GifImageException(string message, Exception innerException)
 ### See Also
 
 * class [GifImageException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
 * assembly [Aspose.PSD](../../../)
 
 

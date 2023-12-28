@@ -18,7 +18,7 @@ public void EmbedAllLinked()
 ### See Also
 
 * class [SmartObjectProvider](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
 * assembly [Aspose.PSD](../../../)
 
 

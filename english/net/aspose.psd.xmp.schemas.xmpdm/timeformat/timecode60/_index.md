@@ -22,7 +22,7 @@ The timecode60.
 ### See Also
 
 * class [TimeFormat](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
 * assembly [Aspose.PSD](../../../)
 
 

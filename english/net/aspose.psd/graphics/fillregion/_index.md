@@ -31,7 +31,7 @@ public void FillRegion(Brush brush, Region region)
 * class [Brush](../../brush/)
 * class [Region](../../region/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

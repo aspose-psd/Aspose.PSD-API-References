@@ -23,7 +23,7 @@ The current raw data settings.
 
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IRasterImageRawDataLoader](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../irasterimagerawdataloader/)
 * assembly [Aspose.PSD](../../../)
 
 

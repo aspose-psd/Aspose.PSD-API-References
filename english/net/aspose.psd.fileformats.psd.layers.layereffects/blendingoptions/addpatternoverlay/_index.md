@@ -23,7 +23,7 @@ Created [`PatternOverlayEffect`](../../patternoverlayeffect/) object
 
 * class [PatternOverlayEffect](../../patternoverlayeffect/)
 * class [BlendingOptions](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

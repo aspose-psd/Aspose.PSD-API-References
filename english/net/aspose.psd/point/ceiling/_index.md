@@ -27,7 +27,7 @@ The [`Point`](../) this method converts to.
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../point/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public const float ColorValueMax;
 ### See Also
 
 * class [ColorantCmyk](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
 * assembly [Aspose.PSD](../../../)
 
 

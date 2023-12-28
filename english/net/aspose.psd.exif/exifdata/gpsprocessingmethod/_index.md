@@ -22,7 +22,7 @@ The GPS character string recording the name of the method used for location find
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../exifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

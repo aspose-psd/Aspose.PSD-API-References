@@ -23,7 +23,7 @@ public void SetBrushRemapTable(ColorMap[] map)
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageattributes/)
 * assembly [Aspose.PSD](../../../)
 
 

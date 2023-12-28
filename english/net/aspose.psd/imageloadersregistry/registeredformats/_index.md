@@ -23,7 +23,7 @@ The registered image loading formats.
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageloadersregistry/)
 * assembly [Aspose.PSD](../../../)
 
 

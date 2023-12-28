@@ -18,7 +18,7 @@ public const string XmpTypeDimensions;
 ### See Also
 
 * class [Namespaces](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../namespaces/)
 * assembly [Aspose.PSD](../../../)
 
 

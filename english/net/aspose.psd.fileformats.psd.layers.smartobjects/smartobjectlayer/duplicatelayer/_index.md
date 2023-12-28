@@ -3,7 +3,7 @@ title: SmartObjectLayer.DuplicateLayer
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Creates a new smart object layer by coping this one. Notice that for embedded smart objects the embedded image is shared. If you want to copy the embedded image use NewSmartObjectViaCopy method
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/
 ---
 {{< psd/tize >}}
@@ -116,7 +116,7 @@ void AssertIsTrue(bool condition)
 ### See Also
 
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

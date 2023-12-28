@@ -29,7 +29,7 @@ A [`CustomLineCap`](../../customlinecap/) that represents the cap used at the be
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pen/)
 * assembly [Aspose.PSD](../../../)
 
 

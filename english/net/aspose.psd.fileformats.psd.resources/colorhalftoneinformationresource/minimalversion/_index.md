@@ -22,7 +22,7 @@ The minimal PSD version.
 ### See Also
 
 * class [ColorHalftoneInformationResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
 * assembly [Aspose.PSD](../../../)
 
 

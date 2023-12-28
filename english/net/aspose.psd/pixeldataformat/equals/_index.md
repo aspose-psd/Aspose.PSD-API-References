@@ -26,7 +26,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [PixelDataFormat](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pixeldataformat/)
 * assembly [Aspose.PSD](../../../)
 
 

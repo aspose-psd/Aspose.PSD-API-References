@@ -22,7 +22,7 @@ The image height.
 ### See Also
 
 * class [VectorImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../vectorimage/)
 * assembly [Aspose.PSD](../../../)
 
 

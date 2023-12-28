@@ -22,7 +22,7 @@ An integer that represents the hash code for this rectangle.
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 

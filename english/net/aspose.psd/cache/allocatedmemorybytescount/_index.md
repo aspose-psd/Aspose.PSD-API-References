@@ -22,7 +22,7 @@ The allocated in-memory bytes count.
 ### See Also
 
 * class [Cache](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cache/)
 * assembly [Aspose.PSD](../../../)
 
 

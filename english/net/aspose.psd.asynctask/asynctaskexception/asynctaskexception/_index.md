@@ -22,7 +22,7 @@ public AsyncTaskException(string message)
 ### See Also
 
 * class [AsyncTaskException](../)
-* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* namespace [Aspose.PSD.AsyncTask](../../asynctaskexception/)
 * assembly [Aspose.PSD](../../../)
 
 

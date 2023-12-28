@@ -22,7 +22,7 @@ public XmpLocale(string value)
 ### See Also
 
 * class [XmpLocale](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../xmplocale/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: IGradientFillSettings.TransparencyPoints
 second_title: Aspose.PSD for .NET API Reference
 description: IGradientFillSettings property. Gets the transparency points
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints/
 ---
 {{< psd/tize >}}
@@ -12,6 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/t
 Gets the transparency points.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
@@ -95,7 +96,7 @@ using (im)
 
 * interface [IGradientTransparencyPoint](../../igradienttransparencypoint/)
 * interface [IGradientFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

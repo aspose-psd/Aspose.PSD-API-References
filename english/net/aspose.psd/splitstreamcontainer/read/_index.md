@@ -26,7 +26,7 @@ The number of bytes read. This value can be less than the number of bytes in the
 ### See Also
 
 * class [SplitStreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../splitstreamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -52,7 +52,7 @@ The total number of bytes read into the buffer. This can be less than the number
 ### See Also
 
 * class [SplitStreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../splitstreamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 

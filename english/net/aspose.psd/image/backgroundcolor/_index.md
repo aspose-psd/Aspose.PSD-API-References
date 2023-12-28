@@ -19,7 +19,7 @@ public virtual Color BackgroundColor { get; set; }
 
 * struct [Color](../../color/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 

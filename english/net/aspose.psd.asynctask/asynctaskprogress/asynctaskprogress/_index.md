@@ -23,7 +23,7 @@ public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
 ### See Also
 
 * class [AsyncTaskProgress](../)
-* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* namespace [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
 * assembly [Aspose.PSD](../../../)
 
 

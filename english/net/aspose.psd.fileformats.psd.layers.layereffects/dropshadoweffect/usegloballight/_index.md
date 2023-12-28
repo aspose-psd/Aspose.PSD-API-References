@@ -22,7 +22,7 @@ public bool UseGlobalLight { get; set; }
 ### See Also
 
 * class [DropShadowEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
 * assembly [Aspose.PSD](../../../)
 
 

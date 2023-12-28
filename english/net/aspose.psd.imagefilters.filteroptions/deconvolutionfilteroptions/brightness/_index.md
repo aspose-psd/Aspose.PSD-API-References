@@ -22,7 +22,7 @@ The brightness.
 ### See Also
 
 * class [DeconvolutionFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

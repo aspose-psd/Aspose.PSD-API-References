@@ -18,7 +18,7 @@ public void ResetTransform()
 ### See Also
 
 * class [Pen](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pen/)
 * assembly [Aspose.PSD](../../../)
 
 

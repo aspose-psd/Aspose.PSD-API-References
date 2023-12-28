@@ -27,7 +27,7 @@ The loaded 32-bit ARGB pixels array.
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

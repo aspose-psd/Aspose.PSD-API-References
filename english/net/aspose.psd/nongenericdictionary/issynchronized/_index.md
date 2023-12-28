@@ -22,7 +22,7 @@ true if access to the ICollection is synchronized (thread safe); otherwise, fals
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../nongenericdictionary/)
 * assembly [Aspose.PSD](../../../)
 
 

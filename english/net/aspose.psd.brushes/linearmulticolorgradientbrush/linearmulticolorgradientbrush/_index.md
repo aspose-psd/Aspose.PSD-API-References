@@ -18,7 +18,7 @@ public LinearMulticolorGradientBrush()
 ### See Also
 
 * class [LinearMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -40,7 +40,7 @@ public LinearMulticolorGradientBrush(Point point1, Point point2)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [LinearMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -62,7 +62,7 @@ public LinearMulticolorGradientBrush(PointF point1, PointF point2)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LinearMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -84,7 +84,7 @@ public LinearMulticolorGradientBrush(Rectangle rect, float angle)
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -106,7 +106,7 @@ public LinearMulticolorGradientBrush(RectangleF rect, float angle)
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -129,7 +129,7 @@ public LinearMulticolorGradientBrush(Rectangle rect, float angle, bool isAngleSc
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -152,7 +152,7 @@ public LinearMulticolorGradientBrush(RectangleF rect, float angle, bool isAngleS
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 

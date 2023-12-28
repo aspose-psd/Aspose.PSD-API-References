@@ -3,7 +3,7 @@ title: Class EnumeratedReferenceStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.EnumeratedReferenceStructure class. Enumerated reference structure
 type: docs
-weight: 3360
+weight: 3390
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/
 ---
 {{< psd/tize >}}

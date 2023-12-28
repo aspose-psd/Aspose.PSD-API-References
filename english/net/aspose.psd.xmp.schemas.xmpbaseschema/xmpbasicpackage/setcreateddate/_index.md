@@ -22,7 +22,7 @@ public void SetCreatedDate(DateTime createdDate)
 ### See Also
 
 * class [XmpBasicPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void SetCreatedDate(string createdDate)
 ### See Also
 
 * class [XmpBasicPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
 * assembly [Aspose.PSD](../../../)
 
 

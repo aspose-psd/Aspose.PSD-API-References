@@ -23,7 +23,7 @@ The shape bounding box bounds.
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [VectorShapeBoundingBox](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
 * assembly [Aspose.PSD](../../../)
 
 

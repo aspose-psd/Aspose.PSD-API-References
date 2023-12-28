@@ -22,7 +22,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../point/)
 * assembly [Aspose.PSD](../../../)
 
 

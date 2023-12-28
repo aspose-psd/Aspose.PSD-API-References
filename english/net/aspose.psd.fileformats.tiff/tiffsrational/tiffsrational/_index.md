@@ -18,7 +18,7 @@ public TiffSRational()
 ### See Also
 
 * class [TiffSRational](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -42,7 +42,7 @@ The nominator will be used as the value specified and denominator will be equal 
 ### See Also
 
 * class [TiffSRational](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -63,7 +63,7 @@ public TiffSRational(int nominator, int denominator)
 ### See Also
 
 * class [TiffSRational](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
 * assembly [Aspose.PSD](../../../)
 
 

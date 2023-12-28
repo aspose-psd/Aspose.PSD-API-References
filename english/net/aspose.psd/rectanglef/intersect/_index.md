@@ -27,7 +27,7 @@ A third [`RectangleF`](../) structure the size of which represents the overlappe
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public void Intersect(RectangleF rect)
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ Returns XML representation of XMP.
 ### See Also
 
 * class [XmpTrailerPi](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmptrailerpi/)
 * assembly [Aspose.PSD](../../../)
 
 

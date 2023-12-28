@@ -22,7 +22,7 @@ The version.
 ### See Also
 
 * class [SelectiveColorLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../selectivecolorlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

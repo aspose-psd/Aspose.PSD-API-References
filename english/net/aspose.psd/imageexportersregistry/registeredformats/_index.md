@@ -23,7 +23,7 @@ The registered export formats.
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageexportersregistry/)
 * assembly [Aspose.PSD](../../../)
 
 

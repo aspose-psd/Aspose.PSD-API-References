@@ -26,7 +26,7 @@ True if *obj* is a [`Size`](../) and has the same width and height as this [`Siz
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../size/)
 * assembly [Aspose.PSD](../../../)
 
 

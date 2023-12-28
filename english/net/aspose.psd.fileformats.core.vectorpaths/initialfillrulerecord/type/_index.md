@@ -23,7 +23,7 @@ The type.
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [InitialFillRuleRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
 * assembly [Aspose.PSD](../../../)
 
 

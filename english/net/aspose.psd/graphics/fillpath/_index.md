@@ -31,7 +31,7 @@ public void FillPath(Brush brush, GraphicsPath path)
 * class [Brush](../../brush/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

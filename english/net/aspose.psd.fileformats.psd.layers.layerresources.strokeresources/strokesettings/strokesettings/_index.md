@@ -18,7 +18,7 @@ public StrokeSettings()
 ### See Also
 
 * class [StrokeSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../strokesettings/)
 * assembly [Aspose.PSD](../../../)
 
 

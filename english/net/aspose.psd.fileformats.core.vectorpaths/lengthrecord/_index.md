@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/
 {{< psd/tize >}}
 ## LengthRecord class
 
-Subpath Length Record Class
+Subpath Length Record Class.
 
 ```csharp
 public class LengthRecord : VectorPathRecord

@@ -27,7 +27,7 @@ The array of double values.
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
 * assembly [Aspose.PSD](../../../)
 
 

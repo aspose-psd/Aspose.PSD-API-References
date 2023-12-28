@@ -18,7 +18,7 @@ public IccUntaggedResource()
 ### See Also
 
 * class [IccUntaggedResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
 * assembly [Aspose.PSD](../../../)
 
 

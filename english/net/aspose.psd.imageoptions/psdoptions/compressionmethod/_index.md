@@ -23,7 +23,7 @@ The compression method.
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [PsdOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../psdoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

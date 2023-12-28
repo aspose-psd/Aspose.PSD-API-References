@@ -23,7 +23,7 @@ The source to create image in.
 
 * class [Source](../../source/)
 * class [ImageOptionsBase](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageoptionsbase/)
 * assembly [Aspose.PSD](../../../)
 
 

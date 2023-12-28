@@ -3,7 +3,7 @@ title: SmartObjectLayer.ReplaceContents
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Replaces the smart object contents embedded in the smart object layer
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
 ---
 {{< psd/tize >}}
@@ -100,7 +100,7 @@ foreach (FileFormat format in formats)
 
 * class [Image](../../../aspose.psd/image/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -160,7 +160,7 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 * class [Image](../../../aspose.psd/image/)
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -213,7 +213,7 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -538,7 +538,7 @@ string GetFormatExt(FileFormat format)
 ### See Also
 
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -30,7 +30,7 @@ public void SetPattern(int[] pixels, Rectangle bounds)
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PattResourceData](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
 * assembly [Aspose.PSD](../../../)
 
 

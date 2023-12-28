@@ -22,7 +22,7 @@ The Exposure.
 ### See Also
 
 * class [ExposureLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -45,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### See Also
 
 * class [OuterGlowEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
 * assembly [Aspose.PSD](../../../)
 
 

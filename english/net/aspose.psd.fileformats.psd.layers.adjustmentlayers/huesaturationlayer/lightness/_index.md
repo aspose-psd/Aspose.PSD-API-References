@@ -28,7 +28,7 @@ The lightness.
 ### See Also
 
 * class [HueSaturationLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: GdFlResource.Key
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Gets the layer resource key
 type: docs
-weight: 110
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/
 ---
 {{< psd/tize >}}
@@ -18,7 +18,7 @@ public override int Key { get; }
 ### See Also
 
 * class [GdFlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
 * assembly [Aspose.PSD](../../../)
 
 

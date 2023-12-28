@@ -26,7 +26,7 @@ Compact palette means that image will contain only the specified palette entries
 ### See Also
 
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

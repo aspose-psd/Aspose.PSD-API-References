@@ -28,7 +28,7 @@ The [`Point`](../) that is the result of the addition operation.
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../point/)
 * assembly [Aspose.PSD](../../../)
 
 

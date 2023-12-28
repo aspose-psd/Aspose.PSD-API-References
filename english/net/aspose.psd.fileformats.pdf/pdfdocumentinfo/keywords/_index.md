@@ -18,7 +18,7 @@ public string Keywords { get; set; }
 ### See Also
 
 * class [PdfDocumentInfo](../)
-* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public bool IsPositionProtected { get; set; }
 ### See Also
 
 * class [LspfResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
 * assembly [Aspose.PSD](../../../)
 
 

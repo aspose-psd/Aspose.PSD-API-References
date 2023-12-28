@@ -22,7 +22,7 @@ The width.
 ### See Also
 
 * class [AiRasterImageSection](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
 * assembly [Aspose.PSD](../../../)
 
 

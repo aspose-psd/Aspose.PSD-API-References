@@ -29,7 +29,7 @@ A `DashStyle` that represents the style used for dashed lines drawn with this [`
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pen/)
 * assembly [Aspose.PSD](../../../)
 
 

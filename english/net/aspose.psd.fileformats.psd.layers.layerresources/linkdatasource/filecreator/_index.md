@@ -28,7 +28,7 @@ The file creator that PSD LiFE / LiFD data source contains.
 ### See Also
 
 * class [LinkDataSource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
 * assembly [Aspose.PSD](../../../)
 
 

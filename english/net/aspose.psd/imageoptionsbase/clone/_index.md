@@ -22,7 +22,7 @@ Returns shallow copy of this instance
 ### See Also
 
 * class [ImageOptionsBase](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageoptionsbase/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public const int ResourceSignature;
 ### See Also
 
 * class [LayerResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The horizontal mesh points of the placed layer.
 ### See Also
 
 * class [PlacedResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
 * assembly [Aspose.PSD](../../../)
 
 

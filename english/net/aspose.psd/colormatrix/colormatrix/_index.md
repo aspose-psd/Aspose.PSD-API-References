@@ -18,7 +18,7 @@ public ColorMatrix()
 ### See Also
 
 * class [ColorMatrix](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colormatrix/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public ColorMatrix(float[][] newColorMatrix)
 ### See Also
 
 * class [ColorMatrix](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colormatrix/)
 * assembly [Aspose.PSD](../../../)
 
 

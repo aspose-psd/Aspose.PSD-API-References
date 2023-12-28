@@ -26,7 +26,7 @@ The property is introduced for removed method GetTabStops.
 ### See Also
 
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../stringformat/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class CustResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource class. Class CustResource. This resource contains information about blending of clipped element
 type: docs
-weight: 2540
+weight: 2570
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
 {{< psd/tize >}}

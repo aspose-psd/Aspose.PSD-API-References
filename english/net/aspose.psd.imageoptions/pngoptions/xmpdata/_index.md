@@ -23,7 +23,7 @@ The XMP data container.
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PngOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../pngoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

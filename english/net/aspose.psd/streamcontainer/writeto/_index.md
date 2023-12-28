@@ -22,7 +22,7 @@ public virtual void WriteTo(StreamContainer streamContainer)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../streamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public virtual void WriteTo(StreamContainer streamContainer, long length)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../streamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 

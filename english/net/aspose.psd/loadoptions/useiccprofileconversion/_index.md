@@ -19,7 +19,7 @@ public bool UseIccProfileConversion { get; set; }
 ### See Also
 
 * class [LoadOptions](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../loadoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

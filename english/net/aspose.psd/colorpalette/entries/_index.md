@@ -27,7 +27,7 @@ The entries.
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

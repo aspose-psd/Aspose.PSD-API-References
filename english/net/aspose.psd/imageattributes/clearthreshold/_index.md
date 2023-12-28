@@ -18,7 +18,7 @@ public void ClearThreshold()
 ### See Also
 
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageattributes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public void ClearThreshold(ColorAdjustType type)
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageattributes/)
 * assembly [Aspose.PSD](../../../)
 
 

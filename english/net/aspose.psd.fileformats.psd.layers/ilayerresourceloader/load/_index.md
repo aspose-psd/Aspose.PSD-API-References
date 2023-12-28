@@ -29,7 +29,7 @@ The loaded resource.
 * class [LayerResource](../../layerresource/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
 * assembly [Aspose.PSD](../../../)
 
 

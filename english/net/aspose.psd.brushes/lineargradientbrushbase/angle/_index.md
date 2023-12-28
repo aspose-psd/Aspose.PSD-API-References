@@ -22,7 +22,7 @@ The gradient angle.
 ### See Also
 
 * class [LinearGradientBrushBase](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
 * assembly [Aspose.PSD](../../../)
 
 

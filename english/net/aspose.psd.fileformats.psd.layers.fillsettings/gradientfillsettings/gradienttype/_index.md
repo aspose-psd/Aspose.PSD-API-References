@@ -12,6 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gr
 Gets or sets the type of the gradient.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to BaseGradientFillSettings class. Property will be removed in 23.11 release.")]
 public GradientType GradientType { get; set; }
 ```
 
@@ -19,41 +20,11 @@ public GradientType GradientType { get; set; }
 
 The type of the gradient.
 
-## Examples
-
-The following code save images with different type of gradient and shows how to Aspose.PSD draws the gradient.
-
-```csharp
-[C#]
-
-string fileName = "FillLayerGradient.psd";
-string sourceFile = fileName;
-GradientType[] gradientTypes = new[]
-{
-    GradientType.Linear, GradientType.Radial, GradientType.Angle, GradientType.Reflected, GradientType.Diamond
-};
-using (var image = Image.Load(sourceFile))
-{
-    PsdImage psdImage = (PsdImage)image;
-    FillLayer fillLayer = (FillLayer)psdImage.Layers[0];
-    GradientFillSettings fillSettings = (GradientFillSettings)fillLayer.FillSettings;
-    foreach (var gradientType in gradientTypes)
-    {
-        fillSettings.GradientType = gradientType;
-        fillLayer.Update();
-
-        string resultFile = fileName + "_" + gradientType.ToString() + ".png";
-        resultFile = resultFile;
-        psdImage.Save(resultFile, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
-    }
-}
-```
-
 ### See Also
 
 * enum [GradientType](../../gradienttype/)
 * class [GradientFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

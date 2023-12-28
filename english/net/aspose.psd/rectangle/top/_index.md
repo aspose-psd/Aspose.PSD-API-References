@@ -22,7 +22,7 @@ The y-coordinate of the top edge of this [`Rectangle`](../) structure.
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -29,7 +29,7 @@ public XmpGuid(string value)
 ### See Also
 
 * class [XmpGuid](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public XmpGuid(Guid guid)
 ### See Also
 
 * class [XmpGuid](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
 * assembly [Aspose.PSD](../../../)
 
 

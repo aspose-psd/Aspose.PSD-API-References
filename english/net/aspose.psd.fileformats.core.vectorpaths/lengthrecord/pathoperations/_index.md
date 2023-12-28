@@ -54,7 +54,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [PathOperations](../../pathoperations/)
 * class [LengthRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
 * assembly [Aspose.PSD](../../../)
 
 

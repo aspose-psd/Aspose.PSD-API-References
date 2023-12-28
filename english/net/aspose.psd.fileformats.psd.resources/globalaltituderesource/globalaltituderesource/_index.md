@@ -18,7 +18,7 @@ public GlobalAltitudeResource()
 ### See Also
 
 * class [GlobalAltitudeResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
 * assembly [Aspose.PSD](../../../)
 
 

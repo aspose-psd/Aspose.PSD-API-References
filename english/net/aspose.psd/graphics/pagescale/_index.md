@@ -22,7 +22,7 @@ The scaling between world units and page units for this Aspose.PSD.Graphics.
 ### See Also
 
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

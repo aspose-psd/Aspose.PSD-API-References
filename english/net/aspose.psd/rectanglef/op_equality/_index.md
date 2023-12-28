@@ -27,7 +27,7 @@ This operator returns true if the two specified [`RectangleF`](../) structures h
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 

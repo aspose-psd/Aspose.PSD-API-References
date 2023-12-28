@@ -3,7 +3,7 @@ title: SmartObjectLayer.SmartObjectProvider
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer property. Gets the smart object provider
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartobjectprovider/
 ---
 {{< psd/tize >}}
@@ -328,7 +328,7 @@ string GetFormatExt(FileFormat format)
 
 * class [SmartObjectProvider](../../../aspose.psd.fileformats.psd/smartobjectprovider/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

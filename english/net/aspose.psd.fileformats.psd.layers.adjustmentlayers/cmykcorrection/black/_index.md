@@ -18,7 +18,7 @@ public short Black { get; set; }
 ### See Also
 
 * class [CmykCorrection](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykcorrection/)
 * assembly [Aspose.PSD](../../../)
 
 

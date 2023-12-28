@@ -23,7 +23,7 @@ The orientation.
 
 * enum [TiffOrientations](../../../aspose.psd.fileformats.tiff.enums/tifforientations/)
 * class [TiffOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../tiffoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

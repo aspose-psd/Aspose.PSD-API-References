@@ -23,7 +23,7 @@ The RD optimizer settings.
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

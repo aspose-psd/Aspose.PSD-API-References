@@ -22,7 +22,7 @@ The curve tension.
 ### See Also
 
 * class [CurveShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../curveshape/)
 * assembly [Aspose.PSD](../../../)
 
 

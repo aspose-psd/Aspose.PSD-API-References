@@ -22,7 +22,7 @@ The object width.
 ### See Also
 
 * interface [IObjectWithBounds](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iobjectwithbounds/)
 * assembly [Aspose.PSD](../../../)
 
 

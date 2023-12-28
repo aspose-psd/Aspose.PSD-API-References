@@ -22,7 +22,7 @@ The array of file names for the fonts that make up a composite font.
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
 * assembly [Aspose.PSD](../../../)
 
 

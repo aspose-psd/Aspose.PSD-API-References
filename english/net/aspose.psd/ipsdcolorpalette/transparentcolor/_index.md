@@ -23,7 +23,7 @@ The transparent color.
 
 * struct [Color](../../color/)
 * interface [IPsdColorPalette](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../ipsdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

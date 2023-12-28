@@ -27,7 +27,7 @@ The converted GraphicsPath.
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [GraphicsPathExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../graphicspathextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

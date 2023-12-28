@@ -32,7 +32,7 @@ The first loader descriptor will be actually the last registered.
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageloadersregistry/)
 * assembly [Aspose.PSD](../../../)
 
 

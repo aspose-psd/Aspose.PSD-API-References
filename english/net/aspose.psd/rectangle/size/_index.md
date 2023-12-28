@@ -23,7 +23,7 @@ A [`Size`](../../size/) that represents the width and height of this [`Rectangle
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 

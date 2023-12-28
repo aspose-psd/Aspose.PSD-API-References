@@ -18,7 +18,7 @@ public override int FilterId { get; }
 ### See Also
 
 * class [GaussianBlurSmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
 * assembly [Aspose.PSD](../../../)
 
 

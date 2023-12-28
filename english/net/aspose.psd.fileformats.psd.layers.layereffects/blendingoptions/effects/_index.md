@@ -23,7 +23,7 @@ The effects.
 
 * interface [ILayerEffect](../../ilayereffect/)
 * class [BlendingOptions](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

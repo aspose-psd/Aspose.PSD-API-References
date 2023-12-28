@@ -68,7 +68,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 ### See Also
 
 * class [GrdmResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../grdmresource/)
 * assembly [Aspose.PSD](../../../)
 
 

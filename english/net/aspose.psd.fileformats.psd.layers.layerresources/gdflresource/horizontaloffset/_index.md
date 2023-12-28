@@ -3,7 +3,7 @@ title: GdFlResource.HorizontalOffset
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Gets or sets the horizontal offset
 type: docs
-weight: 100
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/
 ---
 {{< psd/tize >}}
@@ -118,7 +118,7 @@ using (im)
 ### See Also
 
 * class [GdFlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
 * assembly [Aspose.PSD](../../../)
 
 

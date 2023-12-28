@@ -18,7 +18,7 @@ public byte BitDepth { get; set; }
 ### See Also
 
 * class [PngOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../pngoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

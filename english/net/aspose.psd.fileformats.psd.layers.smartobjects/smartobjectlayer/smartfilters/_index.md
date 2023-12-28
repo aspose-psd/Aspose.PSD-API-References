@@ -3,7 +3,7 @@ title: SmartObjectLayer.SmartFilters
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer property. Gets the smart filters
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/
 ---
 {{< psd/tize >}}
@@ -91,7 +91,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 * class [SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

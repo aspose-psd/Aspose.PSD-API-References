@@ -22,7 +22,7 @@ This property returns true when this [`SizeF`](../) has both a width and height 
 ### See Also
 
 * struct [SizeF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../sizef/)
 * assembly [Aspose.PSD](../../../)
 
 

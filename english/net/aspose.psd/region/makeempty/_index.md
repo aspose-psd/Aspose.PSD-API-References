@@ -18,7 +18,7 @@ public void MakeEmpty()
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The float value.
 ### See Also
 
 * class [XmpReal](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
 * assembly [Aspose.PSD](../../../)
 
 

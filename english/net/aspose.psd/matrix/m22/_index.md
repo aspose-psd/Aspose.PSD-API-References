@@ -18,7 +18,7 @@ public float M22 { get; }
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../matrix/)
 * assembly [Aspose.PSD](../../../)
 
 

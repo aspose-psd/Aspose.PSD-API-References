@@ -22,7 +22,7 @@ The length.
 ### See Also
 
 * class [MotionWienerFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

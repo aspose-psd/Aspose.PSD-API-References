@@ -22,7 +22,7 @@ public bool HasTransparentColor { get; }
 ### See Also
 
 * interface [IPsdColorPalette](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../ipsdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

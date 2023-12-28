@@ -22,7 +22,7 @@ The right layer mask position.
 ### See Also
 
 * class [LayerMaskData](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class Layer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.Photoshop.Layer class. Represents Photoshop text layer
 type: docs
-weight: 6050
+weight: 6090
 url: /net/aspose.psd.xmp.schemas.photoshop/layer/
 ---
 {{< psd/tize >}}

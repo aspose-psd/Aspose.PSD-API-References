@@ -31,7 +31,7 @@ public void DrawRectangle(Pen pen, RectangleF rect)
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public void DrawRectangle(Pen pen, Rectangle rect)
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -91,7 +91,7 @@ public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -122,7 +122,7 @@ public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

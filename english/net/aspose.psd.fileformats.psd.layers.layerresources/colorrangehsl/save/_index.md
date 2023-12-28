@@ -23,7 +23,7 @@ public void Save(StreamContainer streamContainer)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ColorRangeHsl](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
 * assembly [Aspose.PSD](../../../)
 
 

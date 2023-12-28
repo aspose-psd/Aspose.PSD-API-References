@@ -27,7 +27,7 @@ For NTSC, use 1001/30000, or the less accurate 100/2997. For PAL, use 1/25.
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
 * assembly [Aspose.PSD](../../../)
 
 

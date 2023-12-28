@@ -23,7 +23,7 @@ The white balance.
 
 * enum [ExifWhiteBalance](../../../aspose.psd.exif.enums/exifwhitebalance/)
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../exifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

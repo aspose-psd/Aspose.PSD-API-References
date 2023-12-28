@@ -18,7 +18,7 @@ public PhflResourceVersion2()
 ### See Also
 
 * class [PhflResourceVersion2](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public PhflResourceVersion2(byte[] data)
 ### See Also
 
 * class [PhflResourceVersion2](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public override bool IsTemporal { get; }
 ### See Also
 
 * class [FileCreateSource](../)
-* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* namespace [Aspose.PSD.Sources](../../filecreatesource/)
 * assembly [Aspose.PSD](../../../)
 
 

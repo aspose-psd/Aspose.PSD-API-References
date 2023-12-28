@@ -23,7 +23,7 @@ A [`StringFormatFlags`](../../stringformatflags/) enumeration that contains form
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../stringformat/)
 * assembly [Aspose.PSD](../../../)
 
 

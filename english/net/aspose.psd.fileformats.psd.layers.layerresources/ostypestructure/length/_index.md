@@ -18,7 +18,7 @@ public abstract int Length { get; }
 ### See Also
 
 * class [OSTypeStructure](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
 * assembly [Aspose.PSD](../../../)
 
 

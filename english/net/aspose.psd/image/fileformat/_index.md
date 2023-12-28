@@ -19,7 +19,7 @@ public virtual FileFormat FileFormat { get; }
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 

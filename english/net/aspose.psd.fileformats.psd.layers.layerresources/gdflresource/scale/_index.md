@@ -3,7 +3,7 @@ title: GdFlResource.Scale
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Gets or sets the scale
 type: docs
-weight: 150
+weight: 210
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/
 ---
 {{< psd/tize >}}
@@ -28,7 +28,7 @@ The scale.
 ### See Also
 
 * class [GdFlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
 * assembly [Aspose.PSD](../../../)
 
 

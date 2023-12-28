@@ -22,7 +22,7 @@ The maximum decoding time.
 ### See Also
 
 * class [Jpeg2000LoadOptions](../)
-* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* namespace [Aspose.PSD.ImageLoadOptions](../../jpeg2000loadoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

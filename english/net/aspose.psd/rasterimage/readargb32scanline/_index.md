@@ -26,7 +26,7 @@ The scan line 32-bit ARGB color values array.
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

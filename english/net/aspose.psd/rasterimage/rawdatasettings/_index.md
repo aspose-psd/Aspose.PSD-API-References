@@ -23,7 +23,7 @@ The current raw data settings.
 
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

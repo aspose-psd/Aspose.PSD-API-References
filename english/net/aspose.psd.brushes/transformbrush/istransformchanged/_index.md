@@ -22,7 +22,7 @@ public bool IsTransformChanged { get; }
 ### See Also
 
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../transformbrush/)
 * assembly [Aspose.PSD](../../../)
 
 

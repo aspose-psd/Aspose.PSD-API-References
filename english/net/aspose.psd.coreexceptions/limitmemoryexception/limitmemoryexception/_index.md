@@ -22,7 +22,7 @@ public LimitMemoryException(string message)
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* namespace [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public LimitMemoryException(string message, Exception innerException)
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* namespace [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public LimitMemoryException(string message, long reduceMemoryFactor)
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* namespace [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -86,7 +86,7 @@ public LimitMemoryException(string message, Exception innerException, int reduce
 ### See Also
 
 * class [LimitMemoryException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* namespace [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
 * assembly [Aspose.PSD](../../../)
 
 

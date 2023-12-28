@@ -23,7 +23,7 @@ public override void MergeLayerTo(Layer layerToMergeInto)
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [AdjustmentLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../adjustmentlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -32,7 +32,7 @@ The first creator will be actually the last registered.
 * interface [IImageCreator](../../iimagecreator/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imagecreatorsregistry/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The resolution unit.
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [JpegExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../jpegexifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

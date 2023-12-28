@@ -19,7 +19,7 @@ public LayerEffectsTypes EffectType { get; }
 
 * enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
 * class [OuterGlowEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
 * assembly [Aspose.PSD](../../../)
 
 

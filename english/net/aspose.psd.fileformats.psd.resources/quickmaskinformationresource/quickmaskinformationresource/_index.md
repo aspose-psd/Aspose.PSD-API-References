@@ -18,7 +18,7 @@ public QuickMaskInformationResource()
 ### See Also
 
 * class [QuickMaskInformationResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
 * assembly [Aspose.PSD](../../../)
 
 

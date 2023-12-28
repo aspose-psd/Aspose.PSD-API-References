@@ -23,7 +23,7 @@ Created [`GradientOverlayEffect`](../../gradientoverlayeffect/) object
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

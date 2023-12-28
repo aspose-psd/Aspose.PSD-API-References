@@ -22,7 +22,7 @@ The channel ID.
 ### See Also
 
 * class [ChannelInformation](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
 * assembly [Aspose.PSD](../../../)
 
 

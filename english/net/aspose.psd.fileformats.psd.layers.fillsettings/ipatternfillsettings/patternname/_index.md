@@ -22,7 +22,7 @@ The name of the pattern.
 ### See Also
 
 * interface [IPatternFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

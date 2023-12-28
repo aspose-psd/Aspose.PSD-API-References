@@ -23,7 +23,7 @@ The resolution measure unit of the smart object layer.
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [SmartObjectResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
 * assembly [Aspose.PSD](../../../)
 
 

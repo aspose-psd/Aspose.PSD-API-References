@@ -27,7 +27,7 @@ The [`Size`](../../size/) that results from the conversion.
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../point/)
 * assembly [Aspose.PSD](../../../)
 
 

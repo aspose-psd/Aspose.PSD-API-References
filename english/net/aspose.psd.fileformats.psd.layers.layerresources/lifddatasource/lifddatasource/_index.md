@@ -18,7 +18,7 @@ public LiFdDataSource()
 ### See Also
 
 * class [LiFdDataSource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifddatasource/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public LiFdDataSource(int version, Guid uniqueId, string originalFileName, strin
 ### See Also
 
 * class [LiFdDataSource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifddatasource/)
 * assembly [Aspose.PSD](../../../)
 
 

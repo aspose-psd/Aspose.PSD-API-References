@@ -19,7 +19,7 @@ public JpegCompressionColorMode ColorType { get; set; }
 
 * enum [JpegCompressionColorMode](../../../aspose.psd.fileformats.jpeg/jpegcompressioncolormode/)
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

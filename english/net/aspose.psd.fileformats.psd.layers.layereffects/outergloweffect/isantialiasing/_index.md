@@ -22,7 +22,7 @@ The distance.
 ### See Also
 
 * class [OuterGlowEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
 * assembly [Aspose.PSD](../../../)
 
 

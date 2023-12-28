@@ -23,7 +23,7 @@ public void ProcessBuffer(byte[] buffer, int bufferLength)
 ### See Also
 
 * interface [IBufferProcessor](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../ibufferprocessor/)
 * assembly [Aspose.PSD](../../../)
 
 

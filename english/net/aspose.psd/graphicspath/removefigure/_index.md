@@ -23,7 +23,7 @@ public void RemoveFigure(Figure figure)
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphicspath/)
 * assembly [Aspose.PSD](../../../)
 
 

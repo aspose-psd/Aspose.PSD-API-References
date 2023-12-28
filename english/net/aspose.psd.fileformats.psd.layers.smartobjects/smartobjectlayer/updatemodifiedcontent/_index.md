@@ -3,7 +3,7 @@ title: SmartObjectLayer.UpdateModifiedContent
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Updates the smart object layer image cache with the modified content
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/updatemodifiedcontent/
 ---
 {{< psd/tize >}}
@@ -323,7 +323,7 @@ string GetFormatExt(FileFormat format)
 ### See Also
 
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

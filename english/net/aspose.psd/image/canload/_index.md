@@ -26,7 +26,7 @@ public static bool CanLoad(string filePath)
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -52,7 +52,7 @@ public static bool CanLoad(string filePath, LoadOptions loadOptions)
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -76,7 +76,7 @@ public static bool CanLoad(Stream stream)
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -102,7 +102,7 @@ public static bool CanLoad(Stream stream, LoadOptions loadOptions)
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 

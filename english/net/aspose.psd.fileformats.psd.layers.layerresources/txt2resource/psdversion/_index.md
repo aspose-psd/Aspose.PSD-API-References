@@ -18,7 +18,7 @@ public override int PsdVersion { get; }
 ### See Also
 
 * class [Txt2Resource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
 * assembly [Aspose.PSD](../../../)
 
 

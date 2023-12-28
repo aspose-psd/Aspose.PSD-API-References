@@ -18,7 +18,7 @@ public int ResetValue { get; set; }
 ### See Also
 
 * class [JpegLsPresetCodingParameters](../)
-* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
 * assembly [Aspose.PSD](../../../)
 
 

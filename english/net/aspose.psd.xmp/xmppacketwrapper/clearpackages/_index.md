@@ -18,7 +18,7 @@ public void ClearPackages()
 ### See Also
 
 * class [XmpPacketWrapper](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmppacketwrapper/)
 * assembly [Aspose.PSD](../../../)
 
 

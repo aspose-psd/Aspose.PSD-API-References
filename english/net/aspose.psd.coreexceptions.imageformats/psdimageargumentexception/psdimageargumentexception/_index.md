@@ -22,7 +22,7 @@ public PsdImageArgumentException(string message)
 ### See Also
 
 * class [PsdImageArgumentException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public PsdImageArgumentException(string message, Exception innerException)
 ### See Also
 
 * class [PsdImageArgumentException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
 * assembly [Aspose.PSD](../../../)
 
 
