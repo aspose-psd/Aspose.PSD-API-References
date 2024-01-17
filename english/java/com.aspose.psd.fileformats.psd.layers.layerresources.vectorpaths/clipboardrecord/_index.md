@@ -25,15 +25,14 @@ Clipboard Record Class
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAsByteArray_internalized()](#getAsByteArray-internalized--) | Gets as byte array. |
 | [getBoundingRect()](#getBoundingRect--) | Gets or sets the bounding rect. |
 | [getClass()](#getClass--) |  |
+| [getLength_internalized()](#getLength-internalized--) | Gets the length. |
 | [getResolution()](#getResolution--) | Gets or sets the resolution. |
 | [getType()](#getType--) | Gets the type. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [saveToStream_internalized(StreamContainer stream)](#saveToStream-internalized-com.aspose.psd.StreamContainer-) | Saves to stream. |
 | [setBoundingRect(RectangleF value)](#setBoundingRect-com.aspose.psd.RectangleF-) | Gets or sets the bounding rect. |
 | [setResolution(float value)](#setResolution-float-) | Gets or sets the resolution. |
 | [toString()](#toString--) |  |
@@ -76,16 +75,6 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getAsByteArray_internalized() {#getAsByteArray-internalized--}
-```
-public byte[] getAsByteArray_internalized()
-```
-
-
-Gets as byte array.
-
-**Returns:**
-byte[] - The Record as Byte Array
 ### getBoundingRect() {#getBoundingRect--}
 ```
 public final RectangleF getBoundingRect()
@@ -108,6 +97,18 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getLength_internalized() {#getLength-internalized--}
+```
+public final int getLength_internalized()
+```
+
+
+Gets the length.
+
+Value: The length.
+
+**Returns:**
+int
 ### getResolution() {#getResolution--}
 ```
 public final float getResolution()
@@ -157,19 +158,6 @@ public final native void notifyAll()
 
 
 
-
-### saveToStream_internalized(StreamContainer stream) {#saveToStream-internalized-com.aspose.psd.StreamContainer-}
-```
-public final void saveToStream_internalized(StreamContainer stream)
-```
-
-
-Saves to stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream. |
 
 ### setBoundingRect(RectangleF value) {#setBoundingRect-com.aspose.psd.RectangleF-}
 ```

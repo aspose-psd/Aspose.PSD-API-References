@@ -10,7 +10,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths/vect
 **Inheritance:**
 java.lang.Object
 ```
-public class VectorPathRecordFactory
+public final class VectorPathRecordFactory
 ```
 
 Vector Path Record Factory Class
@@ -29,6 +29,7 @@ Vector Path Record Factory Class
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [producePathRecord(byte[] data)](#producePathRecord-byte---) | Produces the path record. |
+| [producePathRecordSerializer_internalized(VectorPathRecord vectorPathRecord)](#producePathRecordSerializer-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.VectorPathRecord-) | Produce VectorPathRecordSerializer descendant depending on type of VectorPathRecord. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -92,7 +93,7 @@ public final native void notifyAll()
 
 ### producePathRecord(byte[] data) {#producePathRecord-byte---}
 ```
-public final VectorPathRecord producePathRecord(byte[] data)
+public static VectorPathRecord producePathRecord(byte[] data)
 ```
 
 
@@ -105,6 +106,21 @@ Produces the path record.
 
 **Returns:**
 [VectorPathRecord](../../com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths/vectorpathrecord) - Created [VectorPathRecord](../../com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths/vectorpathrecord)
+### producePathRecordSerializer_internalized(VectorPathRecord vectorPathRecord) {#producePathRecordSerializer-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.VectorPathRecord-}
+```
+public static VectorPathRecordSerializer producePathRecordSerializer_internalized(VectorPathRecord vectorPathRecord)
+```
+
+
+Produce VectorPathRecordSerializer descendant depending on type of VectorPathRecord.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| vectorPathRecord | [VectorPathRecord](../../com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths/vectorpathrecord) | VectorPathRecord object that should be serialized. |
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layerresources.vectorpaths.serializer.VectorPathRecordSerializer - VectorPathRecordSerializer instance.
 ### toString() {#toString--}
 ```
 public String toString()
