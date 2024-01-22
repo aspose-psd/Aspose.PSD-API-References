@@ -19,7 +19,7 @@ public PattResourceData[] Patterns { get; set; }
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public DitheringMode()
 ### See Also
 
 * class [DitheringMode](../)
-* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* namespace [Aspose.PSD.Dithering](../../ditheringmode/)
 * assembly [Aspose.PSD](../../../)
 
 

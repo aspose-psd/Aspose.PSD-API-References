@@ -19,7 +19,7 @@ public PngFilterType FilterType { get; set; }
 
 * enum [PngFilterType](../../../aspose.psd.fileformats.png/pngfiltertype/)
 * class [PngOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../pngoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

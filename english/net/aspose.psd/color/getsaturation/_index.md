@@ -22,7 +22,7 @@ The saturation of this [`Color`](../). The saturation ranges from 0.0 through 1.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../color/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public SmallRectangularFilterOptions()
 ### See Also
 
 * class [SmallRectangularFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../smallrectangularfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

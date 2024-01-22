@@ -26,7 +26,7 @@ The yellow component value.
 ### See Also
 
 * class [CmykColorHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cmykcolorhelper/)
 * assembly [Aspose.PSD](../../../)
 
 

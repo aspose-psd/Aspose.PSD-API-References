@@ -3,7 +3,7 @@ title: Class VectorRasterizationOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.VectorRasterizationOptions class. The vector rasterization options
 type: docs
-weight: 5220
+weight: 5250
 url: /net/aspose.psd.imageoptions/vectorrasterizationoptions/
 ---
 {{< psd/tize >}}

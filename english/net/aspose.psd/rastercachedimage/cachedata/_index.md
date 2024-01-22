@@ -18,7 +18,7 @@ public override void CacheData()
 ### See Also
 
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rastercachedimage/)
 * assembly [Aspose.PSD](../../../)
 
 

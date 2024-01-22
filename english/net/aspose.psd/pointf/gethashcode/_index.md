@@ -22,7 +22,7 @@ An integer value that specifies a hash value for this [`PointF`](../) structure.
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pointf/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The shape segments.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [BezierShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../beziershape/)
 * assembly [Aspose.PSD](../../../)
 
 

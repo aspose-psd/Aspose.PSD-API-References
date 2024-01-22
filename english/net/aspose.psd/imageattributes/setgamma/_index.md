@@ -22,7 +22,7 @@ public void SetGamma(float gamma)
 ### See Also
 
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageattributes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void SetGamma(float gamma, ColorAdjustType type)
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageattributes/)
 * assembly [Aspose.PSD](../../../)
 
 

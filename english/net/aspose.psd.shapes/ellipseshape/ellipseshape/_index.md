@@ -18,7 +18,7 @@ public EllipseShape()
 ### See Also
 
 * class [EllipseShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../ellipseshape/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public EllipseShape(RectangleF rectangle)
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [EllipseShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../ellipseshape/)
 * assembly [Aspose.PSD](../../../)
 
 

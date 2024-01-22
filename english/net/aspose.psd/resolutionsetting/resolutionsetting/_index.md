@@ -18,7 +18,7 @@ public ResolutionSetting()
 ### See Also
 
 * class [ResolutionSetting](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../resolutionsetting/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public ResolutionSetting(double horizontalResolution, double verticalResolution)
 ### See Also
 
 * class [ResolutionSetting](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../resolutionsetting/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public XmpMeta(string toolkitVersion)
 ### See Also
 
 * class [XmpMeta](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpmeta/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public XmpMeta()
 ### See Also
 
 * class [XmpMeta](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpmeta/)
 * assembly [Aspose.PSD](../../../)
 
 

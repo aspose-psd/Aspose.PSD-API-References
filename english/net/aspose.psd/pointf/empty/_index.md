@@ -18,7 +18,7 @@ public static PointF Empty { get; }
 ### See Also
 
 * struct [PointF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pointf/)
 * assembly [Aspose.PSD](../../../)
 
 

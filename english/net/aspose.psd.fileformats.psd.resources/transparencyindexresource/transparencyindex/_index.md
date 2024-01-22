@@ -22,7 +22,7 @@ The transparency color index.
 ### See Also
 
 * class [TransparencyIndexResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
 * assembly [Aspose.PSD](../../../)
 
 

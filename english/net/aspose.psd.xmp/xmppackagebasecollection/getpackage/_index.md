@@ -27,7 +27,7 @@ Returns XMP package for specified namespace Uri.
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -51,7 +51,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 ### See Also
 
 * class [VibranceLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
 * assembly [Aspose.PSD](../../../)
 
 

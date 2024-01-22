@@ -22,7 +22,7 @@ public bool IsVisible { get; set; }
 ### See Also
 
 * class [InnerShadowEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
 * assembly [Aspose.PSD](../../../)
 
 

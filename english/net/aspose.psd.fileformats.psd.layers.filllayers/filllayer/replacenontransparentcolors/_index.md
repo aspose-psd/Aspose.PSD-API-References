@@ -46,7 +46,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### See Also
 
 * class [FillLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
 * assembly [Aspose.PSD](../../../)
 
 

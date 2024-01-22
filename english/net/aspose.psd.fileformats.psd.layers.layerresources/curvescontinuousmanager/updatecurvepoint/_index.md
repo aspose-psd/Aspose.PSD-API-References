@@ -25,7 +25,7 @@ public void UpdateCurvePoint(int channelIndex, int pointIndex, byte x, byte y)
 ### See Also
 
 * class [CurvesContinuousManager](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
 * assembly [Aspose.PSD](../../../)
 
 

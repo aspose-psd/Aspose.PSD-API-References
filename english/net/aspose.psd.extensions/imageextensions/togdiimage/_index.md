@@ -32,7 +32,7 @@ Warning, the GDI image may get lower bounds than *image* has. To get all parts o
 
 * class [Image](../../../aspose.psd/image/)
 * class [ImageExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../imageextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

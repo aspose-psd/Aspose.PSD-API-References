@@ -22,7 +22,7 @@ True if this [`Color`](../) was created from a predefined color by using either 
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../color/)
 * assembly [Aspose.PSD](../../../)
 
 

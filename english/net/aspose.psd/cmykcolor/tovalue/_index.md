@@ -22,7 +22,7 @@ The Int64.
 ### See Also
 
 * struct [CmykColor](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cmykcolor/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ A [`RectangleF`](../../../aspose.psd/rectanglef/) structure that specifies the s
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearGradientBrushBase](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
 * assembly [Aspose.PSD](../../../)
 
 

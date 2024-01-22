@@ -66,7 +66,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
 * assembly [Aspose.PSD](../../../)
 
 

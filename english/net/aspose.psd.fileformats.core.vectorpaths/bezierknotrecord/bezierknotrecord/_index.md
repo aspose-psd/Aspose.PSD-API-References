@@ -639,7 +639,7 @@ public class VectorPath
 ### See Also
 
 * class [BezierKnotRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -659,7 +659,7 @@ public BezierKnotRecord(byte[] data)
 ### See Also
 
 * class [BezierKnotRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
 * assembly [Aspose.PSD](../../../)
 
 

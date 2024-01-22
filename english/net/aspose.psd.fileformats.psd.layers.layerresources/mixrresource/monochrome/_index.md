@@ -22,7 +22,7 @@ public bool Monochrome { get; set; }
 ### See Also
 
 * class [MixrResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
 * assembly [Aspose.PSD](../../../)
 
 

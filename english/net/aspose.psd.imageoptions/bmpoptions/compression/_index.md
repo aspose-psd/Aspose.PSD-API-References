@@ -23,7 +23,7 @@ The compression.
 
 * enum [BitmapCompression](../../../aspose.psd.fileformats.bmp/bitmapcompression/)
 * class [BmpOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../bmpoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

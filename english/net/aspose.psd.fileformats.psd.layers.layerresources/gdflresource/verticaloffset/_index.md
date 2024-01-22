@@ -3,7 +3,7 @@ title: GdFlResource.VerticalOffset
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Gets or sets the vertical offset
 type: docs
-weight: 180
+weight: 260
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/
 ---
 {{< psd/tize >}}
@@ -118,7 +118,7 @@ using (im)
 ### See Also
 
 * class [GdFlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
 * assembly [Aspose.PSD](../../../)
 
 

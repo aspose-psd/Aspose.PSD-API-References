@@ -22,7 +22,7 @@ The software agent name.
 ### See Also
 
 * class [ResourceEvent](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
 * assembly [Aspose.PSD](../../../)
 
 

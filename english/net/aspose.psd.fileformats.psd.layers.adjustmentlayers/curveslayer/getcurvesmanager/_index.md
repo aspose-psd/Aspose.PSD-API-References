@@ -23,7 +23,7 @@ public CurvesManager GetCurvesManager()
 
 * class [CurvesManager](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/)
 * class [CurvesLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
 * assembly [Aspose.PSD](../../../)
 
 

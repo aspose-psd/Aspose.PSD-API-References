@@ -16,7 +16,7 @@ The namespace contains PSD Vector Paths.
 | [BezierKnotRecord](./bezierknotrecord/) | Bezier Knot Record Class, used to read/write Bezier knots data from resource. |
 | [ClipboardRecord](./clipboardrecord/) | Clipboard Record Class |
 | [InitialFillRuleRecord](./initialfillrulerecord/) | Initial Fill Rule Record Class |
-| [LengthRecord](./lengthrecord/) | Subpath Length Record Class |
+| [LengthRecord](./lengthrecord/) | Subpath Length Record Class. |
 | [PathFillRuleRecord](./pathfillrulerecord/) | Path Fill Rule Record Class |
 | [VectorPathRecord](./vectorpathrecord/) | Vector Path Record Class |
 | [VectorPathRecordFactory](./vectorpathrecordfactory/) | Vector Path Record Factory Class. |

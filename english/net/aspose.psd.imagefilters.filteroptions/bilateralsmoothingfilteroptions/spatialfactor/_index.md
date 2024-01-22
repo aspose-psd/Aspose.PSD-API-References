@@ -22,7 +22,7 @@ The spatial factor.
 ### See Also
 
 * class [BilateralSmoothingFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

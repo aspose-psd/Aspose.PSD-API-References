@@ -22,7 +22,7 @@ The median point location.
 ### See Also
 
 * interface [IGradientColorPoint](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../igradientcolorpoint/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -29,7 +29,7 @@ A `Color` structure that represents the color of this [`Pen`](../).
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pen/)
 * assembly [Aspose.PSD](../../../)
 
 

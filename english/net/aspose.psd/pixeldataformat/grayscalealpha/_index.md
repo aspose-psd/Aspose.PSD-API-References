@@ -22,7 +22,7 @@ The [`PixelDataFormat`](../) defined for 16 bits per pixel with 8 bits represent
 ### See Also
 
 * class [PixelDataFormat](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pixeldataformat/)
 * assembly [Aspose.PSD](../../../)
 
 

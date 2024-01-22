@@ -23,7 +23,7 @@ public void SetTabStops(float firstTabOffset, float[] tabStops)
 ### See Also
 
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../stringformat/)
 * assembly [Aspose.PSD](../../../)
 
 

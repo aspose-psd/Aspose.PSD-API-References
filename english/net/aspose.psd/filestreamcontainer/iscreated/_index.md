@@ -22,7 +22,7 @@ public bool IsCreated { get; }
 ### See Also
 
 * class [FileStreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../filestreamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 

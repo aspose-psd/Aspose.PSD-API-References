@@ -19,7 +19,7 @@ public FontBaseline FontBaseline { get; set; }
 
 * enum [FontBaseline](../../../aspose.psd.fileformats.psd/fontbaseline/)
 * interface [ITextStyle](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
 * assembly [Aspose.PSD](../../../)
 
 

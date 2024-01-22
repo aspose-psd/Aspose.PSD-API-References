@@ -3,7 +3,7 @@ title: Class GradientFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings class. Gradient fill effect settings
 type: docs
-weight: 2040
+weight: 2050
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
 {{< psd/tize >}}
@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 Gradient fill effect settings.
 
 ```csharp
-public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
+public class GradientFillSettings : BaseGradientFillSettings
 ```
 
 ## Constructors
@@ -29,12 +29,14 @@ public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 | [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/) { get; set; } | Gets or sets the angle. |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/) { get; set; } | Gets or sets the color. |
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints/) { get; set; } | Gets or sets the color points. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this `GradientFillSettings` is dither. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | The fill type |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this [`BaseGradientFillSettings`](../basegradientfillsettings/) is dither. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | The fill type. |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientmode/) { get; set; } | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname/) { get; set; } | Gets or sets the name of the gradient. |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset in percentage. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | Gets or sets a value indicating whether this `GradientFillSettings` is reverse. |
+| [Interpolation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/interpolation/) { get; set; } | Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid'. Value range: 0-4096. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | Gets or sets a value indicating whether this [`BaseGradientFillSettings`](../basegradientfillsettings/) is reverse. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | Gets or sets the scale. |
 | [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints/) { get; set; } | Gets or sets the transparency points. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | Gets or sets the vertical offset in percentage. |
@@ -211,7 +213,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### See Also
 
 * class [BaseFillSettings](../basefillsettings/)
-* interface [IGradientFillSettings](../igradientfillsettings/)
+* class [BaseGradientFillSettings](../basegradientfillsettings/)
 * namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../)
 

@@ -24,7 +24,7 @@ public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix)
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageattributes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -49,7 +49,7 @@ public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix,
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageattributes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -76,7 +76,7 @@ public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix,
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageattributes/)
 * assembly [Aspose.PSD](../../../)
 
 

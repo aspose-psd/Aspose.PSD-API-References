@@ -18,7 +18,7 @@ public const int FilterType;
 ### See Also
 
 * class [AddNoiseSmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
 * assembly [Aspose.PSD](../../../)
 
 

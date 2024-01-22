@@ -23,7 +23,7 @@ The starting gradient color.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../lineargradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 

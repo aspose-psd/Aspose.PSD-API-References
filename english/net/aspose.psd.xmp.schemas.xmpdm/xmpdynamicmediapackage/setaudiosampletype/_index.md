@@ -23,7 +23,7 @@ public void SetAudioSampleType(AudioSampleType audioSampleType)
 
 * class [AudioSampleType](../../audiosampletype/)
 * class [XmpDynamicMediaPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
 * assembly [Aspose.PSD](../../../)
 
 

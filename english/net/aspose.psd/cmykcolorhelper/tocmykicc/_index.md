@@ -29,7 +29,7 @@ The CMYK colors presented as 32-bit integer values.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cmykcolorhelper/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -54,7 +54,7 @@ The CMYK colors presented as 32-bit integer values.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cmykcolorhelper/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -79,7 +79,7 @@ The CMYK color presented as a 32-bit integer value.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cmykcolorhelper/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -106,7 +106,7 @@ The CMYK color presented as a 32-bit integer value.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cmykcolorhelper/)
 * assembly [Aspose.PSD](../../../)
 
 

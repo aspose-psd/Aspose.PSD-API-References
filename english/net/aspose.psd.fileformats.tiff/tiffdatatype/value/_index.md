@@ -22,7 +22,7 @@ The value.
 ### See Also
 
 * class [TiffDataType](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -26,7 +26,7 @@ Returns true if the specified key contains key.
 ### See Also
 
 * class [XmpPackage](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmppackage/)
 * assembly [Aspose.PSD](../../../)
 
 

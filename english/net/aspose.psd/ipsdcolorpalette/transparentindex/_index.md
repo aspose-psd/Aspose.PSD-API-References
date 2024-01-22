@@ -22,7 +22,7 @@ The index of the transparent color.
 ### See Also
 
 * interface [IPsdColorPalette](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../ipsdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public void Clear()
 ### See Also
 
 * class [XmpPackageBaseCollection](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
 * assembly [Aspose.PSD](../../../)
 
 

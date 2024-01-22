@@ -22,7 +22,7 @@ The y-coordinate that is the sum of [`Y`](../y/) and [`Height`](../height/) of t
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 

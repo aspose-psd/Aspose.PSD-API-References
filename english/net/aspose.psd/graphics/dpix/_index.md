@@ -22,7 +22,7 @@ The value, in dots per inch, for the horizontal resolution supported by this Asp
 ### See Also
 
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

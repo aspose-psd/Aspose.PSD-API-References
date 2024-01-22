@@ -27,7 +27,7 @@ The element at the specified row and column.
 ### See Also
 
 * class [ColorMatrix](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colormatrix/)
 * assembly [Aspose.PSD](../../../)
 
 

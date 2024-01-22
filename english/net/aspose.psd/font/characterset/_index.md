@@ -23,7 +23,7 @@ A character set that this [`Font`](../) uses.
 
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../font/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -30,7 +30,7 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
 * assembly [Aspose.PSD](../../../)
 
 

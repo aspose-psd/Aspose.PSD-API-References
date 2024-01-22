@@ -3,7 +3,7 @@ title: Metered.GetConsumptionCredit
 second_title: Aspose.PSD for .NET API Reference
 description: Metered method. Gets consumption credit
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.psd/metered/getconsumptioncredit/
 ---
 {{< psd/tize >}}
@@ -22,7 +22,7 @@ consumption quantity
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../metered/)
 * assembly [Aspose.PSD](../../../)
 
 

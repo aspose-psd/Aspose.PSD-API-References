@@ -23,7 +23,7 @@ The page rasterization options.
 
 * class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
 * class [MultiPageOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../multipageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

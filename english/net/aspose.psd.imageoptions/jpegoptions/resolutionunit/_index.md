@@ -19,7 +19,7 @@ public ResolutionUnit ResolutionUnit { get; set; }
 
 * enum [ResolutionUnit](../../../aspose.psd/resolutionunit/)
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

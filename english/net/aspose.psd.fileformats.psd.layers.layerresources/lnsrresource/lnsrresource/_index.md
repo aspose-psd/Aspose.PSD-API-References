@@ -29,7 +29,7 @@ public LnsrResource(LnsrResourceType lnsrResourceType)
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -55,7 +55,7 @@ public LnsrResource(byte[] bytes)
 ### See Also
 
 * class [LnsrResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
 * assembly [Aspose.PSD](../../../)
 
 

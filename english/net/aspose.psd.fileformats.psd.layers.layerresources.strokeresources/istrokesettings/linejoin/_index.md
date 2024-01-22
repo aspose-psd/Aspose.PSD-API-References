@@ -19,7 +19,7 @@ public LineJoinType LineJoin { get; set; }
 
 * enum [LineJoinType](../../linejointype/)
 * interface [IStrokeSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../istrokesettings/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The model.
 ### See Also
 
 * class [JpegExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../jpegexifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

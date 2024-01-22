@@ -22,7 +22,7 @@ The resource data size.
 ### See Also
 
 * class [UrlListResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
 * assembly [Aspose.PSD](../../../)
 
 

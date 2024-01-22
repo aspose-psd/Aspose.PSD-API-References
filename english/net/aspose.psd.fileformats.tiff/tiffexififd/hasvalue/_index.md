@@ -22,7 +22,7 @@ public bool HasValue { get; }
 ### See Also
 
 * class [TiffExifIfd](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
 * assembly [Aspose.PSD](../../../)
 
 

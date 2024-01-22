@@ -22,7 +22,7 @@ public StreamContainer(Stream stream)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../streamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public StreamContainer(Stream stream, bool disposeStream)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../streamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 

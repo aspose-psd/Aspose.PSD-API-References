@@ -18,7 +18,7 @@ public RenderResult()
 ### See Also
 
 * class [RenderResult](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../renderresult/)
 * assembly [Aspose.PSD](../../../)
 
 

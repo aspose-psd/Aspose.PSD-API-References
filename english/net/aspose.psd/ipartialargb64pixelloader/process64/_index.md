@@ -27,7 +27,7 @@ public void Process64(Rectangle pixelsRectangle, long[] pixels, Point start, Poi
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialArgb64PixelLoader](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../ipartialargb64pixelloader/)
 * assembly [Aspose.PSD](../../../)
 
 

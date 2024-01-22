@@ -3,7 +3,7 @@ title: GdFlResource.Dither
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Gets or sets a value indicating whether this GdFlResource is dither
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
 {{< psd/tize >}}
@@ -118,7 +118,7 @@ using (im)
 ### See Also
 
 * class [GdFlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
 * assembly [Aspose.PSD](../../../)
 
 

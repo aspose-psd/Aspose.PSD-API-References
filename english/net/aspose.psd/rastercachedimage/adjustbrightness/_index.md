@@ -22,7 +22,7 @@ public override void AdjustBrightness(int brightness)
 ### See Also
 
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rastercachedimage/)
 * assembly [Aspose.PSD](../../../)
 
 

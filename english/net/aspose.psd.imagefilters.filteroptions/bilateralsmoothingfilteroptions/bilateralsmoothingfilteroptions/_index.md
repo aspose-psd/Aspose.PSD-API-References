@@ -22,7 +22,7 @@ public BilateralSmoothingFilterOptions(int size)
 ### See Also
 
 * class [BilateralSmoothingFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public BilateralSmoothingFilterOptions()
 ### See Also
 
 * class [BilateralSmoothingFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

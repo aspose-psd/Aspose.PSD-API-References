@@ -18,7 +18,7 @@ public LayerState()
 ### See Also
 
 * class [LayerState](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
 * assembly [Aspose.PSD](../../../)
 
 

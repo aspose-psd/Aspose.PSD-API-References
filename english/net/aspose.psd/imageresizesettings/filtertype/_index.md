@@ -23,7 +23,7 @@ The type of the filter.
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [ImageResizeSettings](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageresizesettings/)
 * assembly [Aspose.PSD](../../../)
 
 

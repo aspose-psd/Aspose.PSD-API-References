@@ -23,7 +23,7 @@ The fill settings.
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [FillLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
 * assembly [Aspose.PSD](../../../)
 
 

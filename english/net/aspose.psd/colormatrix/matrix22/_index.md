@@ -22,7 +22,7 @@ The element at the second row and second column of this [`ColorMatrix`](../).
 ### See Also
 
 * class [ColorMatrix](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colormatrix/)
 * assembly [Aspose.PSD](../../../)
 
 

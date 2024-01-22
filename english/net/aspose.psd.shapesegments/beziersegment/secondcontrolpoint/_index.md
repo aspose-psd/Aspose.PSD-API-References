@@ -23,7 +23,7 @@ The second control point.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* namespace [Aspose.PSD.ShapeSegments](../../beziersegment/)
 * assembly [Aspose.PSD](../../../)
 
 

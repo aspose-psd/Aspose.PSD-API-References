@@ -3,7 +3,7 @@ title: Class VscgResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VscgResource class. Vector Stroke Content Data resource
 type: docs
-weight: 3240
+weight: 3270
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vscgresource/
 ---
 {{< psd/tize >}}

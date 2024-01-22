@@ -22,7 +22,7 @@ public PsdImage(string path)
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -50,7 +50,7 @@ public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short 
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -70,7 +70,7 @@ public PsdImage(Stream stream)
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -98,7 +98,7 @@ public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, shor
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -119,7 +119,7 @@ public PsdImage(RasterImage rasterImage)
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -148,7 +148,7 @@ public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitD
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -169,7 +169,7 @@ public PsdImage(int width, int height)
 ### See Also
 
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -200,7 +200,7 @@ public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes co
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
 * assembly [Aspose.PSD](../../../)
 
 

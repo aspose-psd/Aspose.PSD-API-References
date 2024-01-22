@@ -25,7 +25,7 @@ public void ReplaceColor(Color oldColor, byte oldColorDiff, Color newColor)
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -47,7 +47,7 @@ public virtual void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newCol
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

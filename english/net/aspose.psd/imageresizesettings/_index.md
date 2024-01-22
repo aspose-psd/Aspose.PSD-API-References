@@ -3,7 +3,7 @@ title: Class ImageResizeSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageResizeSettings class. Image resize settings class
 type: docs
-weight: 5240
+weight: 5270
 url: /net/aspose.psd/imageresizesettings/
 ---
 {{< psd/tize >}}

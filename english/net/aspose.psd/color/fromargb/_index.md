@@ -26,7 +26,7 @@ The [`Color`](../) structure that this method creates.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../color/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -59,7 +59,7 @@ The [`Color`](../) that this method creates.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../color/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -90,7 +90,7 @@ The [`Color`](../) that this method creates.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../color/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -122,7 +122,7 @@ The [`Color`](../) that this method creates.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../color/)
 * assembly [Aspose.PSD](../../../)
 
 

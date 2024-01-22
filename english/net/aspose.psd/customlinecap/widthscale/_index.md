@@ -22,7 +22,7 @@ The amount by which to scale the cap.
 ### See Also
 
 * class [CustomLineCap](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../customlinecap/)
 * assembly [Aspose.PSD](../../../)
 
 

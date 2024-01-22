@@ -23,7 +23,7 @@ The shape's center.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
 * assembly [Aspose.PSD](../../../)
 
 

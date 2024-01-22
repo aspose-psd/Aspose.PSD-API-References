@@ -18,7 +18,7 @@ public const int MinA;
 ### See Also
 
 * class [ColorantLab](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The supported format.
 
 * enum [FileFormat](../../fileformat/)
 * interface [IImageDescriptor](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iimagedescriptor/)
 * assembly [Aspose.PSD](../../../)
 
 

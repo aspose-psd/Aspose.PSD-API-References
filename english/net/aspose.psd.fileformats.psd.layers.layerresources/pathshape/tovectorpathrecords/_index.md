@@ -23,7 +23,7 @@ Returns one [`LengthRecord`](../../../aspose.psd.fileformats.core.vectorpaths/le
 
 * class [VectorPathRecord](../../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/)
 * class [PathShape](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pathshape/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ True if this [`Font`](../) has a horizontal line through it; otherwise, false.
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../font/)
 * assembly [Aspose.PSD](../../../)
 
 

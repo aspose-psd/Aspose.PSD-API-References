@@ -22,7 +22,7 @@ returns RDOptimizerSettings class instance
 ### See Also
 
 * class [RdOptimizerSettings](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
 * assembly [Aspose.PSD](../../../)
 
 

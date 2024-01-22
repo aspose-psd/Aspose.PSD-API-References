@@ -18,7 +18,7 @@ public XmpHeaderPi()
 ### See Also
 
 * class [XmpHeaderPi](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpheaderpi/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public XmpHeaderPi(string guid)
 ### See Also
 
 * class [XmpHeaderPi](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpheaderpi/)
 * assembly [Aspose.PSD](../../../)
 
 

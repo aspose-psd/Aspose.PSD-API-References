@@ -19,7 +19,7 @@ public JfifDensityUnits DensityUnits { get; set; }
 
 * enum [JfifDensityUnits](../../jfifdensityunits/)
 * class [JFIFData](../)
-* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The right.
 ### See Also
 
 * class [VectorShapeBoundingBox](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The pixels line size in bytes for raw data processing
 ### See Also
 
 * class [RawDataSettings](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rawdatasettings/)
 * assembly [Aspose.PSD](../../../)
 
 

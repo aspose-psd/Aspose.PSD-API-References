@@ -26,7 +26,7 @@ The result of the conversion.
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../streamcontainer/)
 * assembly [Aspose.PSD](../../../)
 
 

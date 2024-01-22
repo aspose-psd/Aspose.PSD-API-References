@@ -34,6 +34,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 | [FilterEffectMaskData](../com.aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata) | The filter mask data class. |
 | [FxrpResource](../com.aspose.psd.fileformats.psd.layers.layerresources/fxrpresource) | Class FxrpResource. |
 | [GdFlResource](../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) | Class GdFlResource. |
+| [GdflResourceHelper](../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresourcehelper) | Helper class that implement conversion of data form GdflResource. |
 | [GrdmResource](../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) | Class GrdmResource. |
 | [Hue2Resource](../com.aspose.psd.fileformats.psd.layers.layerresources/hue2resource) | Class Hue2Resource. |
 | [InfxResource](../com.aspose.psd.fileformats.psd.layers.layerresources/infxresource) | Class InfxResource. |

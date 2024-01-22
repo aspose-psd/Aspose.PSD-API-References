@@ -23,7 +23,7 @@ The type of the fill.
 
 * enum [FillType](../../filltype/)
 * class [BaseFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../basefillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

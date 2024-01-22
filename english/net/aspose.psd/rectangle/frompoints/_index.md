@@ -28,7 +28,7 @@ A newly created [`Rectangle`](../).
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectangle/)
 * assembly [Aspose.PSD](../../../)
 
 

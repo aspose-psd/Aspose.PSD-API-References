@@ -19,7 +19,7 @@ public UnitTypes PointsUnitType { get; set; }
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [VectorShapeBoundingBox](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
 * assembly [Aspose.PSD](../../../)
 
 

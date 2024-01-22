@@ -22,7 +22,7 @@ The x-coordinate of the upper-left corner of this [`RectangleF`](../) structure.
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rectanglef/)
 * assembly [Aspose.PSD](../../../)
 
 

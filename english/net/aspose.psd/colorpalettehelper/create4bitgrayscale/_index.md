@@ -27,7 +27,7 @@ The 4 bit grayscale palette.
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorpalettehelper/)
 * assembly [Aspose.PSD](../../../)
 
 

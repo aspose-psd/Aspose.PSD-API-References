@@ -3,7 +3,7 @@ title: PhflResource
 second_title: Aspose.PSD for Java API Reference
 description: Class PhflResource.
 type: docs
-weight: 61
+weight: 62
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/phflresource/
 ---
 

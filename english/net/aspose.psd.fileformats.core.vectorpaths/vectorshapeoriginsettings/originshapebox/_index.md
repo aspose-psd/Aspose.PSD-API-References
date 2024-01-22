@@ -23,7 +23,7 @@ The origin shape box.
 
 * class [VectorShapeBoundingBox](../../vectorshapeboundingbox/)
 * class [VectorShapeOriginSettings](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

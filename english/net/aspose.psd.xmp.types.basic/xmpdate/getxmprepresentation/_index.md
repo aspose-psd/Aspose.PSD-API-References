@@ -22,7 +22,7 @@ Returns string contained value in XMP format.
 ### See Also
 
 * class [XmpDate](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
 * assembly [Aspose.PSD](../../../)
 
 

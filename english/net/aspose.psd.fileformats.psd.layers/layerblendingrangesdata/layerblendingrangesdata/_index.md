@@ -18,7 +18,7 @@ public LayerBlendingRangesData()
 ### See Also
 
 * class [LayerBlendingRangesData](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
 * assembly [Aspose.PSD](../../../)
 
 

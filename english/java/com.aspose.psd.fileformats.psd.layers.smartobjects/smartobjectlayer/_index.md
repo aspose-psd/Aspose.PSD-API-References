@@ -14,6 +14,11 @@ public class SmartObjectLayer extends Layer
 ```
 
 Defines the SmartObjectLayer class that contains embedded in the PSD file or linked smart object in the external file. With Smart Objects, you can: Perform nondestructive transforms. You can scale, rotate, skew, distort, perspective transform, or warp a layer without losing original image data or quality because the transforms don\\ufffdt affect the original data. Work with vector data, such as vector artwork from Illustrator, that otherwise would be rasterized. Perform nondestructive filtering. You can edit filters applied to Smart Objects at any time. Edit one Smart Object and automatically update all its linked instances. Apply a layer mask that\\ufffds either linked or unlinked to the Smart Object layer. Try various designs with low-resolution placeholder images that you later replace with final versions. In Adobe\\ufffd Photoshop\\ufffd, you can embed the contents of an image into a PSD document. More information is here:   A layer with an embedded smart object contains placed (PlLd) and SoLd resources with smart object properties. The PlLd resource can be alone for PSD versions older then 10. These resources contain UniqueId of the LiFdDataSource in the global Lnk2Resource with the embedded filename and other parameters, including the embedded file contents in the original format as a byte array.
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [SmartObjectLayer(System.IO.Stream stream)](#SmartObjectLayer-com.aspose.ms.System.IO.Stream-) | Initializes a new instance of the [SmartObjectLayer](../../com.aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) class. |
 ## Fields
 
 | Field | Description |
@@ -366,6 +371,19 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 | [writeArgb32ScanLine(int scanLineIndex, int[] argb32Pixels)](#writeArgb32ScanLine-int-int---) | Writes the whole scan line to the specified scan line index. |
 | [writeScanLine(int scanLineIndex, Color[] pixels)](#writeScanLine-int-com.aspose.psd.Color---) | Writes the whole scan line to the specified scan line index. |
+### SmartObjectLayer(System.IO.Stream stream) {#SmartObjectLayer-com.aspose.ms.System.IO.Stream-}
+```
+public SmartObjectLayer(System.IO.Stream stream)
+```
+
+
+Initializes a new instance of the [SmartObjectLayer](../../com.aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | com.aspose.ms.System.IO.Stream | The stream of items |
+
 ### BlendSignature {#BlendSignature}
 ```
 public static final int BlendSignature

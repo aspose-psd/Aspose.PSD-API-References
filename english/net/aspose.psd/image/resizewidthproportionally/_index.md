@@ -22,7 +22,7 @@ public void ResizeWidthProportionally(int newWidth)
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeTyp
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -66,7 +66,7 @@ public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings 
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 

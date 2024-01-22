@@ -26,7 +26,7 @@ The exact reallocation will perform reallocation of additional memory only up to
 ### See Also
 
 * class [Cache](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../cache/)
 * assembly [Aspose.PSD](../../../)
 
 

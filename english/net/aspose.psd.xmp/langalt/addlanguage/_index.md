@@ -23,7 +23,7 @@ public virtual void AddLanguage(string language, string value)
 ### See Also
 
 * class [LangAlt](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../langalt/)
 * assembly [Aspose.PSD](../../../)
 
 

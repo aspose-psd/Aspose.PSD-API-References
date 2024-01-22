@@ -22,7 +22,7 @@ The reference for giving the direction of GPS receiver movement.
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../exifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

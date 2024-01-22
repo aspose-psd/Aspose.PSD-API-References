@@ -22,7 +22,7 @@ public bool RefreshImagePreviewData { get; set; }
 ### See Also
 
 * class [PsdOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../psdoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

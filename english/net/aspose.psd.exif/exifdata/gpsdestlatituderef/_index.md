@@ -22,7 +22,7 @@ The GPS value which indicates whether the latitude of the destination point is n
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* namespace [Aspose.PSD.Exif](../../exifdata/)
 * assembly [Aspose.PSD](../../../)
 
 

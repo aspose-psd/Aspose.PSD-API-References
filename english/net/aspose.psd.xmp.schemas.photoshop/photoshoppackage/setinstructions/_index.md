@@ -22,7 +22,7 @@ public void SetInstructions(string instructions)
 ### See Also
 
 * class [PhotoshopPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
 * assembly [Aspose.PSD](../../../)
 
 

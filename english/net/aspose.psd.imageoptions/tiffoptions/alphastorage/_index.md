@@ -23,7 +23,7 @@ The alpha storage option.
 
 * enum [TiffAlphaStorage](../../../aspose.psd.fileformats.tiff.enums/tiffalphastorage/)
 * class [TiffOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../tiffoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

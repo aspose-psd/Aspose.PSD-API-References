@@ -18,7 +18,7 @@ public WatermarkResource()
 ### See Also
 
 * class [WatermarkResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
 * assembly [Aspose.PSD](../../../)
 
 

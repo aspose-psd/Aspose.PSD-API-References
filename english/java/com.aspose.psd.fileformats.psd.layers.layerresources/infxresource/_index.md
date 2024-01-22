@@ -3,7 +3,7 @@ title: InfxResource
 second_title: Aspose.PSD for Java API Reference
 description: Class InfxResource.
 type: docs
-weight: 34
+weight: 35
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/infxresource/
 ---
 

@@ -3,7 +3,7 @@ title: GdFlResource.ColorPoints
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Gets the color points
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ The color points.
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GdFlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The custom character ident.
 
 * struct [PointF](../../pointf/)
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../stringformat/)
 * assembly [Aspose.PSD](../../../)
 
 

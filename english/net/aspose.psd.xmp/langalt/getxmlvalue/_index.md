@@ -22,7 +22,7 @@ Returns the XMP value converted to the XML representation.
 ### See Also
 
 * class [LangAlt](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../langalt/)
 * assembly [Aspose.PSD](../../../)
 
 

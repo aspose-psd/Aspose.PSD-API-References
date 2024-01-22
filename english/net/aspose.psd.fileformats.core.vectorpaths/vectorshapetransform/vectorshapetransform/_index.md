@@ -165,7 +165,7 @@ void AssertAreEqual(object actual, object expected)
 ### See Also
 
 * class [VectorShapeTransform](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapetransform/)
 * assembly [Aspose.PSD](../../../)
 
 

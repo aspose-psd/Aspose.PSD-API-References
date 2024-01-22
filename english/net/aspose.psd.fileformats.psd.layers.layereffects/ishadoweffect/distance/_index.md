@@ -22,7 +22,7 @@ The distance.
 ### See Also
 
 * interface [IShadowEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ public PathMulticolorGradientBrush(PointF[] points)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public PathMulticolorGradientBrush(PointF[] points, WrapMode wrapMode)
 * struct [PointF](../../../aspose.psd/pointf/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -67,7 +67,7 @@ public PathMulticolorGradientBrush(Point[] points)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PathMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -90,7 +90,7 @@ public PathMulticolorGradientBrush(Point[] points, WrapMode wrapMode)
 * struct [Point](../../../aspose.psd/point/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -111,7 +111,7 @@ public PathMulticolorGradientBrush(GraphicsPath path)
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 

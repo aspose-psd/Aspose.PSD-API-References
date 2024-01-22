@@ -23,7 +23,7 @@ public static void UnregisterExporter(IImageExporterDescriptor exporterDescripto
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../imageexportersregistry/)
 * assembly [Aspose.PSD](../../../)
 
 

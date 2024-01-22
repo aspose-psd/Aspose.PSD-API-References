@@ -23,7 +23,7 @@ The layer flags.
 
 * enum [LayerFlags](../../layerflags/)
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
 * assembly [Aspose.PSD](../../../)
 
 

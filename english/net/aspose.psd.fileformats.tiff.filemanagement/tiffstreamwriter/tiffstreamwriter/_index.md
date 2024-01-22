@@ -23,7 +23,7 @@ public TiffStreamWriter(StreamContainer writer)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamWriter](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
 * assembly [Aspose.PSD](../../../)
 
 

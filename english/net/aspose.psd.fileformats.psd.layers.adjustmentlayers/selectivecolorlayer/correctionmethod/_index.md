@@ -118,7 +118,7 @@ using (var image = (PsdImage)Image.Load(sourceFileWithoutSelectiveColorLayer))
 
 * enum [CorrectionMethodTypes](../../correctionmethodtypes/)
 * class [SelectiveColorLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../selectivecolorlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

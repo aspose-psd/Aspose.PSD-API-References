@@ -50,7 +50,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
 * assembly [Aspose.PSD](../../../)
 
 

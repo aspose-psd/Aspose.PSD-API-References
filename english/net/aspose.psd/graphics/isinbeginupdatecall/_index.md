@@ -22,7 +22,7 @@ public bool IsInBeginUpdateCall { get; }
 ### See Also
 
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

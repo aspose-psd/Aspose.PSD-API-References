@@ -27,7 +27,7 @@ The converted ColorMap.
 
 * class [ColorMap](../../../aspose.psd/colormap/)
 * class [ColorMapExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* namespace [Aspose.PSD.Extensions](../../colormapextensions/)
 * assembly [Aspose.PSD](../../../)
 
 

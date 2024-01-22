@@ -18,7 +18,7 @@ public DocumentSpecificIdsResource()
 ### See Also
 
 * class [DocumentSpecificIdsResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
 * assembly [Aspose.PSD](../../../)
 
 

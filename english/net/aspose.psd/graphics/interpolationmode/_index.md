@@ -23,7 +23,7 @@ The interpolation mode.
 
 * enum [InterpolationMode](../../interpolationmode/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

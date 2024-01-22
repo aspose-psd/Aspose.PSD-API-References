@@ -12,6 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/ho
 Gets or sets the horizontal offset in percentage.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to BaseGradientFillSettings class. Property will be removed in 23.11 release.")]
 public double HorizontalOffset { get; set; }
 ```
 
@@ -22,7 +23,7 @@ The horizontal offset.
 ### See Also
 
 * class [GradientFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

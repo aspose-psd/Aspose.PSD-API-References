@@ -22,7 +22,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
 * assembly [Aspose.PSD](../../../)
 
 

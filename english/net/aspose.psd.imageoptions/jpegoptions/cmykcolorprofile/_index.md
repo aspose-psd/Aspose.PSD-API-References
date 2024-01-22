@@ -19,7 +19,7 @@ public StreamSource CmykColorProfile { get; set; }
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

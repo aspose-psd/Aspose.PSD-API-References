@@ -22,7 +22,7 @@ public bool IsFaulted { get; }
 ### See Also
 
 * interface [IAsyncTask](../)
-* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* namespace [Aspose.PSD.AsyncTask](../../iasynctask/)
 * assembly [Aspose.PSD](../../../)
 
 

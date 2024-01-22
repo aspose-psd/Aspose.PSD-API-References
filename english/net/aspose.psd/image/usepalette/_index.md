@@ -22,7 +22,7 @@ public virtual bool UsePalette { get; }
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../image/)
 * assembly [Aspose.PSD](../../../)
 
 

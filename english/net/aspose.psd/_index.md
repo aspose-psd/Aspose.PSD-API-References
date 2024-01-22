@@ -54,6 +54,7 @@ The namespace is the core for nested namespaces and the most basic objects used 
 | [Pen](./pen/) | Defines an object used to draw lines, curves and figures. |
 | [PixelDataFormat](./pixeldataformat/) | The pixel data format. This is an immutable object. |
 | [PixelsData](./pixelsdata/) | The class to store image pixels data and its bounds. |
+| [PluginLicenseException](./pluginlicenseexception/) | Exception for Plugin License |
 | [ProgressEventHandler](./progresseventhandler/) | Progress event handler function reference |
 | [RasterCachedImage](./rastercachedimage/) | Represents a raster image supporting raster graphics operations. This image caches pixel data when required. |
 | [RasterImage](./rasterimage/) | Represents a raster image supporting raster graphics operations. |

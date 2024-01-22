@@ -3,7 +3,7 @@ title: Class BooleanStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.BooleanStructure class. The boolean structure
 type: docs
-weight: 3310
+weight: 3340
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/
 ---
 {{< psd/tize >}}

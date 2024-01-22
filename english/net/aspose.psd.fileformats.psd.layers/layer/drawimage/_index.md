@@ -31,7 +31,7 @@ public void DrawImage(Point location, RasterImage image)
 * struct [Point](../../../aspose.psd/point/)
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
 * assembly [Aspose.PSD](../../../)
 
 

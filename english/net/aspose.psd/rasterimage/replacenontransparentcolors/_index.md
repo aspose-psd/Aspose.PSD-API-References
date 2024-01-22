@@ -23,7 +23,7 @@ public void ReplaceNonTransparentColors(Color newColor)
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public virtual void ReplaceNonTransparentColors(int newColorArgb)
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rasterimage/)
 * assembly [Aspose.PSD](../../../)
 
 

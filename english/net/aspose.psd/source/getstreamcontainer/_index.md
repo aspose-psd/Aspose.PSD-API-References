@@ -27,7 +27,7 @@ Use with caution. You will need to dispose the stream container after retrieval.
 
 * class [StreamContainer](../../streamcontainer/)
 * class [Source](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../source/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public GifOptions()
 ### See Also
 
 * class [GifOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../gifoptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public GifOptions(GifOptions gifOptions)
 ### See Also
 
 * class [GifOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../gifoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

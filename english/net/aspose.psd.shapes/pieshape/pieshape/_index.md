@@ -18,7 +18,7 @@ public PieShape()
 ### See Also
 
 * class [PieShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../pieshape/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -41,7 +41,7 @@ public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PieShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../pieshape/)
 * assembly [Aspose.PSD](../../../)
 
 

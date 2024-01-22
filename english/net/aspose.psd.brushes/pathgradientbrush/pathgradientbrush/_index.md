@@ -23,7 +23,7 @@ public PathGradientBrush(PointF[] points)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public PathGradientBrush(PointF[] points, WrapMode wrapMode)
 * struct [PointF](../../../aspose.psd/pointf/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -67,7 +67,7 @@ public PathGradientBrush(Point[] points)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PathGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -90,7 +90,7 @@ public PathGradientBrush(Point[] points, WrapMode wrapMode)
 * struct [Point](../../../aspose.psd/point/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -111,7 +111,7 @@ public PathGradientBrush(GraphicsPath path)
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathgradientbrush/)
 * assembly [Aspose.PSD](../../../)
 
 

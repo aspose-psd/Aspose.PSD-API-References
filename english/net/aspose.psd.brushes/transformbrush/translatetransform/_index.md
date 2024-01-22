@@ -23,7 +23,7 @@ public void TranslateTransform(float dx, float dy)
 ### See Also
 
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../transformbrush/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void TranslateTransform(float dx, float dy, MatrixOrder order)
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../transformbrush/)
 * assembly [Aspose.PSD](../../../)
 
 

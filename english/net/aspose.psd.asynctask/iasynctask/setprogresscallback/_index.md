@@ -23,7 +23,7 @@ public void SetProgressCallback(ProgressCallback progressCallback)
 
 * delegate [ProgressCallback](../../progresscallback/)
 * interface [IAsyncTask](../)
-* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* namespace [Aspose.PSD.AsyncTask](../../iasynctask/)
 * assembly [Aspose.PSD](../../../)
 
 

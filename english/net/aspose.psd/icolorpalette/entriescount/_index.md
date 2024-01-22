@@ -22,7 +22,7 @@ The entries count.
 ### See Also
 
 * interface [IColorPalette](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../icolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

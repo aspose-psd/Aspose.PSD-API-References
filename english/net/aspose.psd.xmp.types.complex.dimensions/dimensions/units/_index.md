@@ -26,7 +26,7 @@ For example: inch, mm, pixel, pica, point etc.
 ### See Also
 
 * class [Dimensions](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
 * assembly [Aspose.PSD](../../../)
 
 

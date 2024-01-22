@@ -3,7 +3,7 @@ title: SmartObjectLayer.Contents
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer property. Gets or sets the smart object layer contents. The embedded smart object contents is the embedded raw image file Data and its properties. The linked smart object contents is the raw content of the linked image file if it is available and its properties LiFeDataSource. We do not support loading from the Adobe Photoshop  Graphics Library when IsLibraryLink is true. For regular link files at first we use RelativePath to look for the file relatively to the source image path SourceImagePath if it is not available we look at FullPath if not then we look for the link file in the same directory where our image is SourceImagePath
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
 {{< psd/tize >}}
@@ -105,7 +105,7 @@ foreach (FileFormat format in formats)
 ### See Also
 
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
 * assembly [Aspose.PSD](../../../)
 
 

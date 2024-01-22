@@ -23,7 +23,7 @@ public void Apply(RasterImage rasterImage)
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [SmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
 * assembly [Aspose.PSD](../../../)
 
 

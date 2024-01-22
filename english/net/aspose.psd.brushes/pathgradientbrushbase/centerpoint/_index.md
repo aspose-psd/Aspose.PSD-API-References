@@ -23,7 +23,7 @@ A [`PointF`](../../../aspose.psd/pointf/) that represents the center point of th
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
 * assembly [Aspose.PSD](../../../)
 
 

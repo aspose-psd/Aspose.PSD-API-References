@@ -22,7 +22,7 @@ public OperationInterruptedException(string message)
 ### See Also
 
 * class [OperationInterruptedException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* namespace [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public OperationInterruptedException(string message, Exception innerException)
 ### See Also
 
 * class [OperationInterruptedException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* namespace [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
 * assembly [Aspose.PSD](../../../)
 
 

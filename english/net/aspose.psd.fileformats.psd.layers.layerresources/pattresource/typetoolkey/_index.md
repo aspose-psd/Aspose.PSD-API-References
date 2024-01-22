@@ -18,7 +18,7 @@ public const int TypeToolKey;
 ### See Also
 
 * class [PattResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
 * assembly [Aspose.PSD](../../../)
 
 

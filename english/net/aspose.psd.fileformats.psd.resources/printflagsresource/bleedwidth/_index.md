@@ -22,7 +22,7 @@ The width of the bleed.
 ### See Also
 
 * class [PrintFlagsResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
 * assembly [Aspose.PSD](../../../)
 
 

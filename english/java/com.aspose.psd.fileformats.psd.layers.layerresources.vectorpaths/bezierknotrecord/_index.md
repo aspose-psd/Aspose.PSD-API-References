@@ -25,8 +25,8 @@ Bezier Knot Record Class
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAsByteArray_internalized()](#getAsByteArray-internalized--) | Gets as byte array. |
 | [getClass()](#getClass--) |  |
+| [getLength_internalized()](#getLength-internalized--) | Gets the length. |
 | [getPathPoints()](#getPathPoints--) | Gets or sets the path points. |
 | [getPoints()](#getPoints--) | Gets or sets the points. |
 | [getType()](#getType--) | Gets the type. |
@@ -36,7 +36,6 @@ Bezier Knot Record Class
 | [isOpen()](#isOpen--) | Gets or sets a value indicating whether this instance is open. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [saveToStream_internalized(StreamContainer stream)](#saveToStream-internalized-com.aspose.psd.StreamContainer-) | Saves to stream. |
 | [setClosed(boolean value)](#setClosed-boolean-) | Gets or sets a value indicating whether this instance is closed. |
 | [setLinked(boolean value)](#setLinked-boolean-) | Gets or sets a value indicating whether this instance is linked. |
 | [setOpen(boolean value)](#setOpen-boolean-) | Gets or sets a value indicating whether this instance is open. |
@@ -82,16 +81,6 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getAsByteArray_internalized() {#getAsByteArray-internalized--}
-```
-public byte[] getAsByteArray_internalized()
-```
-
-
-Gets as byte array.
-
-**Returns:**
-byte[] - The Record as Byte Array
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -102,6 +91,18 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getLength_internalized() {#getLength-internalized--}
+```
+public final int getLength_internalized()
+```
+
+
+Gets the length.
+
+Value: The length.
+
+**Returns:**
+int
 ### getPathPoints() {#getPathPoints--}
 ```
 public final PointF[] getPathPoints()
@@ -199,19 +200,6 @@ public final native void notifyAll()
 
 
 
-
-### saveToStream_internalized(StreamContainer stream) {#saveToStream-internalized-com.aspose.psd.StreamContainer-}
-```
-public final void saveToStream_internalized(StreamContainer stream)
-```
-
-
-Saves to stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream. |
 
 ### setClosed(boolean value) {#setClosed-boolean-}
 ```

@@ -22,7 +22,7 @@ public bool IsRawDataAvailable { get; }
 ### See Also
 
 * interface [IRasterImageRawDataLoader](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../irasterimagerawdataloader/)
 * assembly [Aspose.PSD](../../../)
 
 

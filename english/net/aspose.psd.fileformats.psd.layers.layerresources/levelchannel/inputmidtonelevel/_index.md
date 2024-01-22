@@ -28,7 +28,7 @@ The input midtone level float.
 ### See Also
 
 * class [LevelChannel](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ Returns the memberwise clone of the current instance of the type.
 ### See Also
 
 * class [SmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
 * assembly [Aspose.PSD](../../../)
 
 

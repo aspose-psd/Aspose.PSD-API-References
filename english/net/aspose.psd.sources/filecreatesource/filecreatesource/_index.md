@@ -45,7 +45,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 ### See Also
 
 * class [FileCreateSource](../)
-* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* namespace [Aspose.PSD.Sources](../../filecreatesource/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -90,7 +90,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 ### See Also
 
 * class [FileCreateSource](../)
-* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* namespace [Aspose.PSD.Sources](../../filecreatesource/)
 * assembly [Aspose.PSD](../../../)
 
 

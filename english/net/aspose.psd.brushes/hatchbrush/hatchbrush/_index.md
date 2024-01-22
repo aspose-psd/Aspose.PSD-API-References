@@ -18,7 +18,7 @@ public HatchBrush()
 ### See Also
 
 * class [HatchBrush](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../hatchbrush/)
 * assembly [Aspose.PSD](../../../)
 
 

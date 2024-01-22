@@ -94,7 +94,7 @@ using (im)
 ### See Also
 
 * interface [IGradientFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

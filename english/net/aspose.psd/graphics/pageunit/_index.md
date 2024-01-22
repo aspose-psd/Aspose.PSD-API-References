@@ -23,7 +23,7 @@ The unit of measure used for page coordinates in this Aspose.PSD.Graphics.
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

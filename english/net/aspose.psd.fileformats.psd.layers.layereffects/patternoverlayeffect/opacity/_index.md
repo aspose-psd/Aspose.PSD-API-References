@@ -22,7 +22,7 @@ The opacity.
 ### See Also
 
 * class [PatternOverlayEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: Class AliasStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.AliasStructure class. The alias structure
 type: docs
-weight: 3300
+weight: 3330
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/
 ---
 {{< psd/tize >}}

@@ -23,7 +23,7 @@ public void Clear(Color color)
 
 * struct [Color](../../color/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -24,13 +24,12 @@ Vector Path Record Class
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAsByteArray_internalized()](#getAsByteArray-internalized--) | Gets as byte array. |
 | [getClass()](#getClass--) |  |
+| [getLength_internalized()](#getLength-internalized--) | Gets the length. |
 | [getType()](#getType--) | Gets the type. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [saveToStream_internalized(StreamContainer stream)](#saveToStream-internalized-com.aspose.psd.StreamContainer-) | Saves to stream. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -56,16 +55,6 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getAsByteArray_internalized() {#getAsByteArray-internalized--}
-```
-public abstract byte[] getAsByteArray_internalized()
-```
-
-
-Gets as byte array.
-
-**Returns:**
-byte[] - The Record as Byte Array
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -76,6 +65,18 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getLength_internalized() {#getLength-internalized--}
+```
+public final int getLength_internalized()
+```
+
+
+Gets the length.
+
+Value: The length.
+
+**Returns:**
+int
 ### getType() {#getType--}
 ```
 public abstract short getType()
@@ -113,19 +114,6 @@ public final native void notifyAll()
 
 
 
-
-### saveToStream_internalized(StreamContainer stream) {#saveToStream-internalized-com.aspose.psd.StreamContainer-}
-```
-public final void saveToStream_internalized(StreamContainer stream)
-```
-
-
-Saves to stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream. |
 
 ### toString() {#toString--}
 ```

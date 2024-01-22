@@ -19,7 +19,7 @@ public override ResolutionSetting ResolutionSettings { get; set; }
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [TiffOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../tiffoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

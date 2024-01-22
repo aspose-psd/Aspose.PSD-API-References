@@ -18,7 +18,7 @@ public int Delay { get; set; }
 ### See Also
 
 * class [Frame](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
 * assembly [Aspose.PSD](../../../)
 
 

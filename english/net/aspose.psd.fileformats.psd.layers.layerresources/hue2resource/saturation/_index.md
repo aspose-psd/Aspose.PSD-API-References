@@ -22,7 +22,7 @@ The master saturation.
 ### See Also
 
 * class [Hue2Resource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
 * assembly [Aspose.PSD](../../../)
 
 

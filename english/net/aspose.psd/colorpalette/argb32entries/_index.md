@@ -26,7 +26,7 @@ The entries.
 ### See Also
 
 * class [ColorPalette](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../colorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

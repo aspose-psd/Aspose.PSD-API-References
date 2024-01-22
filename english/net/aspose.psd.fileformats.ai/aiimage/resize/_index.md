@@ -31,7 +31,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
 * assembly [Aspose.PSD](../../../)
 
 

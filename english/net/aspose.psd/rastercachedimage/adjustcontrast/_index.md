@@ -22,7 +22,7 @@ public override void AdjustContrast(float contrast)
 ### See Also
 
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../rastercachedimage/)
 * assembly [Aspose.PSD](../../../)
 
 

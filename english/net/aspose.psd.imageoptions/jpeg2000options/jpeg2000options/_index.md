@@ -18,7 +18,7 @@ public Jpeg2000Options()
 ### See Also
 
 * class [Jpeg2000Options](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../jpeg2000options/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Jpeg2000Options(Jpeg2000Options jpeg2000Options)
 ### See Also
 
 * class [Jpeg2000Options](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../jpeg2000options/)
 * assembly [Aspose.PSD](../../../)
 
 

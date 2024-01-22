@@ -29,7 +29,7 @@ public ComplexTypeBase(string prefix, string namespaceUri)
 ### See Also
 
 * class [ComplexTypeBase](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
 * assembly [Aspose.PSD](../../../)
 
 

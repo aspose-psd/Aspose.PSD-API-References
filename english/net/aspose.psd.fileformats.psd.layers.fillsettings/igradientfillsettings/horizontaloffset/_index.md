@@ -3,7 +3,7 @@ title: IGradientFillSettings.HorizontalOffset
 second_title: Aspose.PSD for .NET API Reference
 description: IGradientFillSettings property. Gets or sets the horizontal offset
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset/
 ---
 {{< psd/tize >}}
@@ -94,7 +94,7 @@ using (im)
 ### See Also
 
 * interface [IGradientFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The sweep angle.
 ### See Also
 
 * class [PieShape](../)
-* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* namespace [Aspose.PSD.Shapes](../../pieshape/)
 * assembly [Aspose.PSD](../../../)
 
 

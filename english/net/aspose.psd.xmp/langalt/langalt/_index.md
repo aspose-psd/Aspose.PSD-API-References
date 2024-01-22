@@ -22,7 +22,7 @@ public LangAlt(string defaultValue)
 ### See Also
 
 * class [LangAlt](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../langalt/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public LangAlt()
 ### See Also
 
 * class [LangAlt](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../langalt/)
 * assembly [Aspose.PSD](../../../)
 
 

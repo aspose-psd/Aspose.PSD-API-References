@@ -22,7 +22,7 @@ The raw color palette entries data.
 ### See Also
 
 * interface [IPsdColorPalette](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../ipsdcolorpalette/)
 * assembly [Aspose.PSD](../../../)
 
 

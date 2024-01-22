@@ -23,7 +23,7 @@ The path points.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* namespace [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
 * assembly [Aspose.PSD](../../../)
 
 

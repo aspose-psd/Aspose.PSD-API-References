@@ -22,7 +22,7 @@ public InfxResource(bool blendInteriorElements)
 ### See Also
 
 * class [InfxResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public InfxResource()
 ### See Also
 
 * class [InfxResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public InfxResource(byte[] data)
 ### See Also
 
 * class [InfxResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
 * assembly [Aspose.PSD](../../../)
 
 

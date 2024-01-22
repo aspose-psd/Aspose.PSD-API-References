@@ -43,7 +43,7 @@ using (var image = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions()))
 ### See Also
 
 * class [PosterizeLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../posterizelayer/)
 * assembly [Aspose.PSD](../../../)
 
 

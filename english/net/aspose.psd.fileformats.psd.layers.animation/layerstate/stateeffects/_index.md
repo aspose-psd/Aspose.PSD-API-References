@@ -46,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [LayerStateEffects](../../layerstateeffects/)
 * class [LayerState](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
 * assembly [Aspose.PSD](../../../)
 
 

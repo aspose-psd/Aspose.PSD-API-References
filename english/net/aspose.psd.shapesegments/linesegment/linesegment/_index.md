@@ -24,7 +24,7 @@ public LineSegment(PointF startPoint, PointF endPoint)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* namespace [Aspose.PSD.ShapeSegments](../../linesegment/)
 * assembly [Aspose.PSD](../../../)
 
 

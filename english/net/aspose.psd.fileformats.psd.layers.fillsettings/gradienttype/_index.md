@@ -3,7 +3,7 @@ title: Enum GradientType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType enum. Gradient type
 type: docs
-weight: 2060
+weight: 2070
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
 {{< psd/tize >}}
@@ -25,6 +25,36 @@ public enum GradientType
 | Reflected | `3` | The reflected gradient type |
 | Diamond | `4` | The diamond gradient type |
 | ShapeBurst | `5` | The shape burst gradient type |
+
+## Examples
+
+The following code save images with different type of gradient and shows how to Aspose.PSD draws the gradient.
+
+```csharp
+[C#]
+
+string fileName = "FillLayerGradient.psd";
+string sourceFile = fileName;
+GradientType[] gradientTypes = new[]
+{
+    GradientType.Linear, GradientType.Radial, GradientType.Angle, GradientType.Reflected, GradientType.Diamond
+};
+using (var image = Image.Load(sourceFile))
+{
+    PsdImage psdImage = (PsdImage)image;
+    FillLayer fillLayer = (FillLayer)psdImage.Layers[0];
+    GradientFillSettings fillSettings = (GradientFillSettings)fillLayer.FillSettings;
+    foreach (var gradientType in gradientTypes)
+    {
+        fillSettings.GradientType = gradientType;
+        fillLayer.Update();
+
+        string resultFile = fileName + "_" + gradientType.ToString() + ".png";
+        resultFile = resultFile;
+        psdImage.Save(resultFile, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+    }
+}
+```
 
 ### See Also
 

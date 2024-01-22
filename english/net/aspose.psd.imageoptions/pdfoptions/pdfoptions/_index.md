@@ -18,7 +18,7 @@ public PdfOptions()
 ### See Also
 
 * class [PdfOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../pdfoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The object height, in inches.
 ### See Also
 
 * interface [IObjectWithSizeF](../)
-* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* namespace [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
 * assembly [Aspose.PSD](../../../)
 
 

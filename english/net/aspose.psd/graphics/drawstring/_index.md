@@ -34,7 +34,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -99,7 +99,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -133,7 +133,7 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 * class [Brush](../../brush/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -167,7 +167,7 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 * struct [PointF](../../pointf/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -199,7 +199,7 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -234,7 +234,7 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 * struct [RectangleF](../../rectanglef/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../graphics/)
 * assembly [Aspose.PSD](../../../)
 
 

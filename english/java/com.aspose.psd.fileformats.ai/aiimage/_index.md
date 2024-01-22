@@ -60,7 +60,8 @@ The Adobe Illustrator (AI) Image
 | [getDeeplyAdjustPalette_internalized()](#getDeeplyAdjustPalette-internalized--) | Gets the deeply adjust palette. |
 | [getDefaultOptions(Object[] args)](#getDefaultOptions-java.lang.Object---) | Gets the default options. |
 | [getDisposed()](#getDisposed--) | Gets a value indicating whether this instance is disposed. |
-| [getFileFormat()](#getFileFormat--) | Gets a value of file format |
+| [getDocument_internalized()](#getDocument-internalized--) | PdfDocument instance. |
+| [getFileFormat()](#getFileFormat--) | Gets a value of file format. |
 | [getFileFormat(System.IO.Stream stream)](#getFileFormat-com.aspose.ms.System.IO.Stream-) | Gets the file format. |
 | [getFileFormat(InputStream stream)](#getFileFormat-java.io.InputStream-) | Gets the file format. |
 | [getFileFormat(String filePath)](#getFileFormat-java.lang.String-) | Gets the file format. |
@@ -86,7 +87,7 @@ The Adobe Illustrator (AI) Image
 | [getSourceImagePath_internalized()](#getSourceImagePath-internalized--) | Gets the file path of source image if it's exist. |
 | [getUseMemoryStrategy_internalized()](#getUseMemoryStrategy-internalized--) | Gets a value indicating whether object uses memory optimization strategy |
 | [getVentureLicense_internalized()](#getVentureLicense-internalized--) | Gets the venture license. |
-| [getVersion()](#getVersion--) | Gets the version of Adobe Illustrator format |
+| [getVersion()](#getVersion--) | Gets the version of Adobe Illustrator format. |
 | [getWidth()](#getWidth--) | Gets the image width. |
 | [hasBackgroundColor()](#hasBackgroundColor--) | Gets a value indicating whether image has background color. |
 | [hasImageChanged_internalized()](#hasImageChanged-internalized--) | Gets or sets a value indicating whether this instance of image has changed after loading. |
@@ -140,6 +141,7 @@ The Adobe Illustrator (AI) Image
 | [setContainer_internalized(Image container)](#setContainer-internalized-com.aspose.psd.Image-) | Sets the  Image  container. |
 | [setDataSection(AiDataSection value)](#setDataSection-com.aspose.psd.fileformats.ai.AiDataSection-) | Gets the data section. |
 | [setDataStreamContainer(StreamContainer value)](#setDataStreamContainer-com.aspose.psd.StreamContainer-) | Sets the object's data stream. |
+| [setDocument_internalized(PdfDocument value)](#setDocument-internalized-com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument-) | PdfDocument instance. |
 | [setFinalizeSection(AiFinalizeSection value)](#setFinalizeSection-com.aspose.psd.fileformats.ai.AiFinalizeSection-) | Gets the finalize section. |
 | [setHeader(AiHeader value)](#setHeader-com.aspose.psd.fileformats.ai.AiHeader-) | Gets the header. |
 | [setIgnoreAfterSave_internalized(boolean value)](#setIgnoreAfterSave-internalized-boolean-) | Sets a value indicating whether [ignore after save]. |
@@ -152,7 +154,7 @@ The Adobe Illustrator (AI) Image
 | [setRenderedImage_internalized(RasterImage value)](#setRenderedImage-internalized-com.aspose.psd.RasterImage-) | Gets or sets the rendered image. |
 | [setSetupSection(AiSetupSection value)](#setSetupSection-com.aspose.psd.fileformats.ai.AiSetupSection-) | Gets the setup section. |
 | [setVentureLicense_internalized(Object ventureLicense)](#setVentureLicense-internalized-java.lang.Object-) | All Aspose products should implement this method. |
-| [setVersion(int value)](#setVersion-int-) | Gets the version of Adobe Illustrator format |
+| [setVersion(int value)](#setVersion-int-) | Gets the version of Adobe Illustrator format. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -568,13 +570,23 @@ Gets a value indicating whether this instance is disposed.
 
 **Returns:**
 boolean -  true  if disposed; otherwise,  false .
+### getDocument_internalized() {#getDocument-internalized--}
+```
+public final PdfDocument getDocument_internalized()
+```
+
+
+PdfDocument instance. Provides Ai format functionality.
+
+**Returns:**
+com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument
 ### getFileFormat() {#getFileFormat--}
 ```
 public long getFileFormat()
 ```
 
 
-Gets a value of file format
+Gets a value of file format.
 
 **Returns:**
 long
@@ -909,7 +921,7 @@ public final int getVersion()
 ```
 
 
-Gets the version of Adobe Illustrator format
+Gets the version of Adobe Illustrator format.
 
 Value: The version.
 
@@ -1630,6 +1642,19 @@ Sets the object's data stream.
 | --- | --- | --- |
 | value | [StreamContainer](../../com.aspose.psd/streamcontainer) | The object's data stream. |
 
+### setDocument_internalized(PdfDocument value) {#setDocument-internalized-com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument-}
+```
+public final void setDocument_internalized(PdfDocument value)
+```
+
+
+PdfDocument instance. Provides Ai format functionality.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument |  |
+
 ### setFinalizeSection(AiFinalizeSection value) {#setFinalizeSection-com.aspose.psd.fileformats.ai.AiFinalizeSection-}
 ```
 public final void setFinalizeSection(AiFinalizeSection value)
@@ -1804,7 +1829,7 @@ public final void setVersion(int value)
 ```
 
 
-Gets the version of Adobe Illustrator format
+Gets the version of Adobe Illustrator format.
 
 Value: The version.
 

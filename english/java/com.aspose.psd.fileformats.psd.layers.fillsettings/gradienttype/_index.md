@@ -3,7 +3,7 @@ title: GradientType
 second_title: Aspose.PSD for Java API Reference
 description: Gradient type
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
 

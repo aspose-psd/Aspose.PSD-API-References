@@ -22,7 +22,7 @@ public ImageException(string message)
 ### See Also
 
 * class [ImageException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* namespace [Aspose.PSD.CoreExceptions](../../imageexception/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public ImageException(string message, Exception innerException)
 ### See Also
 
 * class [ImageException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* namespace [Aspose.PSD.CoreExceptions](../../imageexception/)
 * assembly [Aspose.PSD](../../../)
 
 

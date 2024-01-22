@@ -54,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### See Also
 
 * class [VibAResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
 * assembly [Aspose.PSD](../../../)
 
 

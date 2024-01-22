@@ -22,7 +22,7 @@ The text of the header PI contains a GUID, making it unlikely to appear by accid
 ### See Also
 
 * class [XmpHeaderPi](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmpheaderpi/)
 * assembly [Aspose.PSD](../../../)
 
 

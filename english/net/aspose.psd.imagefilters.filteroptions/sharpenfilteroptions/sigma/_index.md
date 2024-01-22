@@ -22,7 +22,7 @@ The sigma.
 ### See Also
 
 * class [SharpenFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

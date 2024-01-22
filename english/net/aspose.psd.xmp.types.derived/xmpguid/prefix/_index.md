@@ -22,7 +22,7 @@ The prefix like uuid.
 ### See Also
 
 * class [XmpGuid](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
 * assembly [Aspose.PSD](../../../)
 
 

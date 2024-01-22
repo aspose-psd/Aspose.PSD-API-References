@@ -18,7 +18,7 @@ public static void UpdateFonts()
 ### See Also
 
 * class [FontSettings](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../fontsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

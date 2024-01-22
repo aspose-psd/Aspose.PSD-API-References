@@ -23,7 +23,7 @@ public void Xor(RectangleF rect)
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Xor(Rectangle rect)
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -71,7 +71,7 @@ public void Xor(GraphicsPath path)
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -97,7 +97,7 @@ public void Xor(Region region)
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 

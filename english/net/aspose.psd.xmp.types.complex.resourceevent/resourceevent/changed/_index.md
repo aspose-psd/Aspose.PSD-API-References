@@ -22,7 +22,7 @@ The semicolon-delimited list of the parts of the resource that were changed sinc
 ### See Also
 
 * class [ResourceEvent](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
 * assembly [Aspose.PSD](../../../)
 
 

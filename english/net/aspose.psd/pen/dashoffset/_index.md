@@ -22,7 +22,7 @@ The distance from the start of a line to the beginning of a dash pattern.
 ### See Also
 
 * class [Pen](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../pen/)
 * assembly [Aspose.PSD](../../../)
 
 

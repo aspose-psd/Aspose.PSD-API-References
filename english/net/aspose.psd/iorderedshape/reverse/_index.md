@@ -18,7 +18,7 @@ public void Reverse()
 ### See Also
 
 * interface [IOrderedShape](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../iorderedshape/)
 * assembly [Aspose.PSD](../../../)
 
 

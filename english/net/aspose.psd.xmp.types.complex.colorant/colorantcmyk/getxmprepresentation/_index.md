@@ -22,7 +22,7 @@ Returns the string contained value in XMP format.
 ### See Also
 
 * class [ColorantCmyk](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
 * assembly [Aspose.PSD](../../../)
 
 

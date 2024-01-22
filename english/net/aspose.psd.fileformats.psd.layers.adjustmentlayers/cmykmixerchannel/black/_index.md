@@ -22,7 +22,7 @@ The black.
 ### See Also
 
 * class [CmykMixerChannel](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
 * assembly [Aspose.PSD](../../../)
 
 

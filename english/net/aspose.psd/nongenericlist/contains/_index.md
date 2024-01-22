@@ -26,7 +26,7 @@ true if the Object is found in the IList; otherwise, false.
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../nongenericlist/)
 * assembly [Aspose.PSD](../../../)
 
 

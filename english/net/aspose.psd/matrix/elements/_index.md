@@ -22,7 +22,7 @@ An array of floating-point values that represents the elements of this [`Matrix`
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../matrix/)
 * assembly [Aspose.PSD](../../../)
 
 

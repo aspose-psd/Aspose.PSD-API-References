@@ -22,7 +22,7 @@ The object that can be used to synchronize access to the synchronized resource.
 ### See Also
 
 * class [TiffStreamWriter](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
 * assembly [Aspose.PSD](../../../)
 
 

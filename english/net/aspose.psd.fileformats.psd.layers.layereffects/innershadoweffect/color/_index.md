@@ -23,7 +23,7 @@ The color.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [InnerShadowEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
 * assembly [Aspose.PSD](../../../)
 
 

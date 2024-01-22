@@ -23,7 +23,7 @@ public abstract void Transform(Matrix transform)
 
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../objectwithbounds/)
 * assembly [Aspose.PSD](../../../)
 
 

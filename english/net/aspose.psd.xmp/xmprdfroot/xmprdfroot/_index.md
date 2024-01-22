@@ -18,7 +18,7 @@ public XmpRdfRoot()
 ### See Also
 
 * class [XmpRdfRoot](../)
-* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* namespace [Aspose.PSD.Xmp](../../xmprdfroot/)
 * assembly [Aspose.PSD](../../../)
 
 

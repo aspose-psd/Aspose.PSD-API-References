@@ -3,7 +3,7 @@ title: Class OSTypeStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure class. Represents the OS type structure
 type: docs
-weight: 3000
+weight: 3030
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
 {{< psd/tize >}}

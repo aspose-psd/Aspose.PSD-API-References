@@ -28,7 +28,7 @@ The original file name in the PSD format LnkE / Lnk2 resource.
 ### See Also
 
 * class [LinkDataSource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
 * assembly [Aspose.PSD](../../../)
 
 

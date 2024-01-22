@@ -22,7 +22,7 @@ The font name.
 ### See Also
 
 * class [TypeToolFontInfo](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
 * assembly [Aspose.PSD](../../../)
 
 

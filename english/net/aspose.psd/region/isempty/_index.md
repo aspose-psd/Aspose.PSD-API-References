@@ -33,7 +33,7 @@ true if the interior of this [`Region`](../) is empty when the transformation as
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../region/)
 * assembly [Aspose.PSD](../../../)
 
 

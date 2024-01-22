@@ -3,7 +3,7 @@ title: Interface IColorPalette
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IColorPalette interface. The color palette interface
 type: docs
-weight: 4620
+weight: 4650
 url: /net/aspose.psd/icolorpalette/
 ---
 {{< psd/tize >}}

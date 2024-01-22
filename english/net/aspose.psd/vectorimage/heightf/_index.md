@@ -22,7 +22,7 @@ The object height, in inches.
 ### See Also
 
 * class [VectorImage](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
+* namespace [Aspose.PSD](../../vectorimage/)
 * assembly [Aspose.PSD](../../../)
 
 

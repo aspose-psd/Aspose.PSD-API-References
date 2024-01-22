@@ -18,7 +18,7 @@ public XmpRightsManagementPackage()
 ### See Also
 
 * class [XmpRightsManagementPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
 * assembly [Aspose.PSD](../../../)
 
 

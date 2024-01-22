@@ -28,7 +28,7 @@ The fill opacity in range from 0 to 100
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
 * assembly [Aspose.PSD](../../../)
 
 

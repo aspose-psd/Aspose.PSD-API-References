@@ -23,7 +23,7 @@ The psd resources.
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../psdoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

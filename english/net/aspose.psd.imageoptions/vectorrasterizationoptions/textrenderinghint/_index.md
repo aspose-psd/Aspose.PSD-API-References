@@ -23,7 +23,7 @@ The text rendering hint.
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [VectorRasterizationOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

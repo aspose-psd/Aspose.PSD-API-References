@@ -3,7 +3,7 @@ title: Class VstkResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource class. Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssginItems method from ResourceLoader either by assigning values to properties of the class
 type: docs
-weight: 3250
+weight: 3280
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/
 ---
 {{< psd/tize >}}

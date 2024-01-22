@@ -31,7 +31,7 @@ The [`LiFeDataSource`](../../lifedatasource/).
 
 * class [LiFeDataSource](../../lifedatasource/)
 * class [LnkeResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
 * assembly [Aspose.PSD](../../../)
 
 

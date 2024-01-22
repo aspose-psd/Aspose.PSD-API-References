@@ -18,7 +18,7 @@ public static AudioSampleType Sample8Int { get; }
 ### See Also
 
 * class [AudioSampleType](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
 * assembly [Aspose.PSD](../../../)
 
 
