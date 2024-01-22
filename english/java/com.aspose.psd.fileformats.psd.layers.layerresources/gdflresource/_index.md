@@ -37,28 +37,36 @@ Class GdFlResource. This resource contains information about blending of clipped
 | [addUnknownStructure_internalized(OSTypeStructure structure)](#addUnknownStructure-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure-) | Adds the unknown structure. |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [generateDefaultControlPoints_internalized()](#generateDefaultControlPoints-internalized--) |  |
-| [generateDefaultTransparencyPoints_internalized()](#generateDefaultTransparencyPoints-internalized--) |  |
-| [getAlignWithLayer()](#getAlignWithLayer--) |  |
+| [generateDefaultControlPoints_internalized()](#generateDefaultControlPoints-internalized--) | Generates the default control points. |
+| [generateDefaultTransparencyPoints_internalized()](#generateDefaultTransparencyPoints-internalized--) | Generates the default transparency points. |
+| [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
 | [getColor()](#getColor--) |  |
+| [getColorModel()](#getColorModel--) | Color Model - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl"). |
 | [getColorPoints()](#getColorPoints--) | Gets the color points. |
-| [getDither()](#getDither--) |  |
+| [getDither()](#getDither--) | Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is dither. |
 | [getGradientInterval()](#getGradientInterval--) | Gets or sets the gradient interval. |
+| [getGradientMode()](#getGradientMode--) | Mode for this gradient. |
 | [getGradientName()](#getGradientName--) | Gets or sets the name of the gradient. |
 | [getGradientType()](#getGradientType--) |  |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
+| [getMaximumColor()](#getMaximumColor--) | Maximum color of PixelDataFormat. |
+| [getMinimumColor()](#getMinimumColor--) | Minimum color of PixelDataFormat. |
 | [getOffset_internalized()](#getOffset-internalized--) | Gets or sets the offset. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
 | [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
-| [getReverse()](#getReverse--) |  |
+| [getReverse()](#getReverse--) | Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is reverse. |
+| [getRndNumberSeed()](#getRndNumberSeed--) | The random number seed used to generate colors for Noise gradient. |
+| [getRoughness()](#getRoughness--) | Roughness factor. |
 | [getScale()](#getScale--) | Gets or sets the scale. |
+| [getShowTransparency()](#getShowTransparency--) | Flag for showing transparency. |
 | [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [getTransparencyPoints()](#getTransparencyPoints--) | Gets the transparency points. |
+| [getUseVectorColor()](#getUseVectorColor--) | Flag for using vector color. |
 | [getVerticalOffset()](#getVerticalOffset--) | Gets or sets the vertical offset. |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
@@ -68,20 +76,28 @@ Class GdFlResource. This resource contains information about blending of clipped
 | [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the resource to the specified stream container. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
-| [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) |  |
+| [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) |  |
 | [setColor(Color value)](#setColor-com.aspose.psd.Color-) |  |
+| [setColorModel(String value)](#setColorModel-java.lang.String-) | Color Model - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl"). |
 | [setColorPoints(IGradientColorPoint[] value)](#setColorPoints-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint---) |  |
-| [setDither(boolean value)](#setDither-boolean-) |  |
+| [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is dither. |
 | [setGradientInterval(double value)](#setGradientInterval-double-) |  |
+| [setGradientMode(String value)](#setGradientMode-java.lang.String-) | Mode for this gradient. |
 | [setGradientName(String value)](#setGradientName-java.lang.String-) |  |
 | [setGradientType(int value)](#setGradientType-int-) |  |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) |  |
+| [setMaximumColor(RawColor value)](#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Maximum color of PixelDataFormat. |
+| [setMinimumColor(RawColor value)](#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Minimum color of PixelDataFormat. |
 | [setOffset_internalized(OffsetEntity value)](#setOffset-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OffsetEntity-) |  |
-| [setReverse(boolean value)](#setReverse-boolean-) |  |
+| [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is reverse. |
+| [setRndNumberSeed(int value)](#setRndNumberSeed-int-) | The random number seed used to generate colors for Noise gradient. |
+| [setRoughness(int value)](#setRoughness-int-) | Roughness factor. |
 | [setScale(int value)](#setScale-int-) |  |
+| [setShowTransparency(boolean value)](#setShowTransparency-boolean-) | Flag for showing transparency. |
 | [setTransparencyPoints(IGradientTransparencyPoint[] value)](#setTransparencyPoints-com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint---) |  |
+| [setUseVectorColor(boolean value)](#setUseVectorColor-boolean-) | Flag for using vector color. |
 | [setVerticalOffset(double value)](#setVerticalOffset-double-) |  |
 | [toString()](#toString--) | Returns a String that represents this instance. |
 | [wait()](#wait--) |  |
@@ -198,27 +214,29 @@ public static IGradientColorPoint[] generateDefaultControlPoints_internalized()
 ```
 
 
-
+Generates the default control points.
 
 **Returns:**
-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint[]
+com.aspose.psd.fileformats.psd.layers.IGradientColorPoint[] - The default control points.
 ### generateDefaultTransparencyPoints_internalized() {#generateDefaultTransparencyPoints-internalized--}
 ```
 public static IGradientTransparencyPoint[] generateDefaultTransparencyPoints_internalized()
 ```
 
 
-
+Generates the default transparency points.
 
 **Returns:**
-com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint[]
+com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint[] - The default transparency points.
 ### getAlignWithLayer() {#getAlignWithLayer--}
 ```
-public boolean getAlignWithLayer()
+public final boolean getAlignWithLayer()
 ```
 
 
+Gets or sets a value indicating whether [align with layer].
 
+Value:  true  if [align with layer]; otherwise,  false .
 
 **Returns:**
 boolean
@@ -254,6 +272,16 @@ public Color getColor()
 
 **Returns:**
 [Color](../../com.aspose.psd/color)
+### getColorModel() {#getColorModel--}
+```
+public final String getColorModel()
+```
+
+
+Color Model - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl").
+
+**Returns:**
+java.lang.String
 ### getColorPoints() {#getColorPoints--}
 ```
 public IGradientColorPoint[] getColorPoints()
@@ -268,11 +296,13 @@ The color points.
 com.aspose.psd.fileformats.psd.layers.IGradientColorPoint[]
 ### getDither() {#getDither--}
 ```
-public boolean getDither()
+public final boolean getDither()
 ```
 
 
+Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is dither.
 
+Value:  true  if dither; otherwise,  false .
 
 **Returns:**
 boolean
@@ -288,6 +318,16 @@ The gradient interval.
 
 **Returns:**
 double
+### getGradientMode() {#getGradientMode--}
+```
+public final String getGradientMode()
+```
+
+
+Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' = "CstS"/"ClNs".
+
+**Returns:**
+java.lang.String
 ### getGradientName() {#getGradientName--}
 ```
 public String getGradientName()
@@ -354,6 +394,26 @@ Gets the layer resource length in bytes.
 
 **Returns:**
 int
+### getMaximumColor() {#getMaximumColor--}
+```
+public final RawColor getMaximumColor()
+```
+
+
+Maximum color of PixelDataFormat.
+
+**Returns:**
+[RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor)
+### getMinimumColor() {#getMinimumColor--}
+```
+public final RawColor getMinimumColor()
+```
+
+
+Minimum color of PixelDataFormat.
+
+**Returns:**
+[RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor)
 ### getOffset_internalized() {#getOffset-internalized--}
 ```
 public OffsetEntity getOffset_internalized()
@@ -393,14 +453,36 @@ Gets the minimal psd version required for layer resource. 0 indicates no restric
 int
 ### getReverse() {#getReverse--}
 ```
-public boolean getReverse()
+public final boolean getReverse()
 ```
 
 
+Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is reverse.
 
+Value:  true  if reverse; otherwise,  false .
 
 **Returns:**
 boolean
+### getRndNumberSeed() {#getRndNumberSeed--}
+```
+public final int getRndNumberSeed()
+```
+
+
+The random number seed used to generate colors for Noise gradient.
+
+**Returns:**
+int
+### getRoughness() {#getRoughness--}
+```
+public final int getRoughness()
+```
+
+
+Roughness factor.
+
+**Returns:**
+int
 ### getScale() {#getScale--}
 ```
 public int getScale()
@@ -413,6 +495,16 @@ The scale.
 
 **Returns:**
 int
+### getShowTransparency() {#getShowTransparency--}
+```
+public final boolean getShowTransparency()
+```
+
+
+Flag for showing transparency.
+
+**Returns:**
+boolean
 ### getSignature() {#getSignature--}
 ```
 public int getSignature()
@@ -435,6 +527,16 @@ The transparency points.
 
 **Returns:**
 com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint[]
+### getUseVectorColor() {#getUseVectorColor--}
+```
+public final boolean getUseVectorColor()
+```
+
+
+Flag for using vector color.
+
+**Returns:**
+boolean
 ### getVerticalOffset() {#getVerticalOffset--}
 ```
 public double getVerticalOffset()
@@ -545,11 +647,13 @@ Saves the header signature, identifier and length.
 
 ### setAlignWithLayer(boolean value) {#setAlignWithLayer-boolean-}
 ```
-public void setAlignWithLayer(boolean value)
+public final void setAlignWithLayer(boolean value)
 ```
 
 
+Gets or sets a value indicating whether [align with layer].
 
+Value:  true  if [align with layer]; otherwise,  false .
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -582,6 +686,19 @@ public void setColor(Color value)
 | --- | --- | --- |
 | value | [Color](../../com.aspose.psd/color) |  |
 
+### setColorModel(String value) {#setColorModel-java.lang.String-}
+```
+public final void setColorModel(String value)
+```
+
+
+Color Model - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl").
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
 ### setColorPoints(IGradientColorPoint[] value) {#setColorPoints-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint---}
 ```
 public void setColorPoints(IGradientColorPoint[] value)
@@ -597,11 +714,13 @@ public void setColorPoints(IGradientColorPoint[] value)
 
 ### setDither(boolean value) {#setDither-boolean-}
 ```
-public void setDither(boolean value)
+public final void setDither(boolean value)
 ```
 
 
+Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is dither.
 
+Value:  true  if dither; otherwise,  false .
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -620,6 +739,19 @@ public void setGradientInterval(double value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double |  |
+
+### setGradientMode(String value) {#setGradientMode-java.lang.String-}
+```
+public final void setGradientMode(String value)
+```
+
+
+Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' = "CstS"/"ClNs".
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### setGradientName(String value) {#setGradientName-java.lang.String-}
 ```
@@ -675,6 +807,32 @@ public void setHorizontalOffset(double value)
 | --- | --- | --- |
 | value | double |  |
 
+### setMaximumColor(RawColor value) {#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
+```
+public final void setMaximumColor(RawColor value)
+```
+
+
+Maximum color of PixelDataFormat.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) |  |
+
+### setMinimumColor(RawColor value) {#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
+```
+public final void setMinimumColor(RawColor value)
+```
+
+
+Minimum color of PixelDataFormat.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) |  |
+
 ### setOffset_internalized(OffsetEntity value) {#setOffset-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OffsetEntity-}
 ```
 public void setOffset_internalized(OffsetEntity value)
@@ -690,16 +848,44 @@ public void setOffset_internalized(OffsetEntity value)
 
 ### setReverse(boolean value) {#setReverse-boolean-}
 ```
-public void setReverse(boolean value)
+public final void setReverse(boolean value)
 ```
 
 
+Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is reverse.
 
+Value:  true  if reverse; otherwise,  false .
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### setRndNumberSeed(int value) {#setRndNumberSeed-int-}
+```
+public final void setRndNumberSeed(int value)
+```
+
+
+The random number seed used to generate colors for Noise gradient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### setRoughness(int value) {#setRoughness-int-}
+```
+public final void setRoughness(int value)
+```
+
+
+Roughness factor.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### setScale(int value) {#setScale-int-}
 ```
@@ -714,6 +900,19 @@ public void setScale(int value)
 | --- | --- | --- |
 | value | int |  |
 
+### setShowTransparency(boolean value) {#setShowTransparency-boolean-}
+```
+public final void setShowTransparency(boolean value)
+```
+
+
+Flag for showing transparency.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
+
 ### setTransparencyPoints(IGradientTransparencyPoint[] value) {#setTransparencyPoints-com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint---}
 ```
 public void setTransparencyPoints(IGradientTransparencyPoint[] value)
@@ -726,6 +925,19 @@ public void setTransparencyPoints(IGradientTransparencyPoint[] value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [IGradientTransparencyPoint\[\]](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint) |  |
+
+### setUseVectorColor(boolean value) {#setUseVectorColor-boolean-}
+```
+public final void setUseVectorColor(boolean value)
+```
+
+
+Flag for using vector color.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setVerticalOffset(double value) {#setVerticalOffset-double-}
 ```

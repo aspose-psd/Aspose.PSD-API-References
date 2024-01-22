@@ -3,7 +3,7 @@ title: IGradientTransparencyPoint
 second_title: Aspose.PSD for Java API Reference
 description: Base interface for fill settings
 type: docs
-weight: 21
+weight: 23
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/
 ---
 ```
