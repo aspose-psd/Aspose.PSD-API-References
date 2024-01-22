@@ -3,7 +3,7 @@ title: FillType
 second_title: Aspose.PSD for Java API Reference
 description: The Fill Type
 type: docs
-weight: 12
+weight: 13
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
 

@@ -25,19 +25,19 @@ Subpath Length Record Class
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAsByteArray_internalized()](#getAsByteArray-internalized--) | Gets as byte array. |
 | [getBezierKnotRecordsCount()](#getBezierKnotRecordsCount--) | Gets or sets the bezier knot records count. |
 | [getClass()](#getClass--) |  |
+| [getLength_internalized()](#getLength-internalized--) | Gets the length. |
 | [getPathOperations()](#getPathOperations--) | Gets or sets the path operations. |
 | [getRecordCount()](#getRecordCount--) | Gets or sets the record count. |
 | [getShapeIndex()](#getShapeIndex--) | Gets or sets the index of current path shape in layer. |
+| [getSourceData_internalized()](#getSourceData-internalized--) | Get original source data bytes. |
 | [getType()](#getType--) | Gets the type. |
 | [hashCode()](#hashCode--) |  |
 | [isClosed()](#isClosed--) | Gets or sets a value indicating whether this instance is closed. |
 | [isOpen()](#isOpen--) | Gets or sets a value indicating whether this instance is open. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [saveToStream_internalized(StreamContainer stream)](#saveToStream-internalized-com.aspose.psd.StreamContainer-) | Saves to stream. |
 | [setBezierKnotRecordsCount(int value)](#setBezierKnotRecordsCount-int-) | Gets or sets the bezier knot records count. |
 | [setClosed(boolean value)](#setClosed-boolean-) | Gets or sets a value indicating whether this instance is closed. |
 | [setOpen(boolean value)](#setOpen-boolean-) | Gets or sets a value indicating whether this instance is open. |
@@ -84,16 +84,6 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getAsByteArray_internalized() {#getAsByteArray-internalized--}
-```
-public byte[] getAsByteArray_internalized()
-```
-
-
-Gets as byte array.
-
-**Returns:**
-byte[] - The Record as Byte Array
 ### getBezierKnotRecordsCount() {#getBezierKnotRecordsCount--}
 ```
 public final int getBezierKnotRecordsCount()
@@ -114,6 +104,18 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getLength_internalized() {#getLength-internalized--}
+```
+public final int getLength_internalized()
+```
+
+
+Gets the length.
+
+Value: The length.
+
+**Returns:**
+int
 ### getPathOperations() {#getPathOperations--}
 ```
 public final int getPathOperations()
@@ -146,6 +148,16 @@ Gets or sets the index of current path shape in layer.
 
 **Returns:**
 int
+### getSourceData_internalized() {#getSourceData-internalized--}
+```
+public final byte[] getSourceData_internalized()
+```
+
+
+Get original source data bytes.
+
+**Returns:**
+byte[] - byte array.
 ### getType() {#getType--}
 ```
 public short getType()
@@ -207,19 +219,6 @@ public final native void notifyAll()
 
 
 
-
-### saveToStream_internalized(StreamContainer stream) {#saveToStream-internalized-com.aspose.psd.StreamContainer-}
-```
-public final void saveToStream_internalized(StreamContainer stream)
-```
-
-
-Saves to stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream. |
 
 ### setBezierKnotRecordsCount(int value) {#setBezierKnotRecordsCount-int-}
 ```

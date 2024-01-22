@@ -3,7 +3,7 @@ title: GradientTransparencyPoint
 second_title: Aspose.PSD for Java API Reference
 description: Gradient Transparency Point
 type: docs
-weight: 15
+weight: 16
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
 

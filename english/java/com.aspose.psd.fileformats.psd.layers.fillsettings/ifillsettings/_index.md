@@ -3,7 +3,7 @@ title: IFillSettings
 second_title: Aspose.PSD for Java API Reference
 description: Base interface for fill settings
 type: docs
-weight: 19
+weight: 21
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
 ---
 ```
@@ -16,7 +16,6 @@ Base interface for fill settings
 | Method | Description |
 | --- | --- |
 | [getFillType()](#getFillType--) | Gets the type of the fill. |
-| [setColor(Color value)](#setColor-com.aspose.psd.Color-) |  |
 ### getFillType() {#getFillType--}
 ```
 public abstract int getFillType()
@@ -29,16 +28,3 @@ Value: The type of the fill.
 
 **Returns:**
 int
-### setColor(Color value) {#setColor-com.aspose.psd.Color-}
-```
-public abstract void setColor(Color value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.psd/color) |  |
-
