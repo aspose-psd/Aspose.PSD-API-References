@@ -40,3 +40,19 @@ Currently Aspose.PSD for Java supports PSD and PSB file formats for loading and 
 
 These are links to some useful resources:
 - [Aspose.PSD for Java API Reference](/psd/java/)
+
+## Aspose.PSD for Python via .NET
+
+{{% alert color="primary" %}} 
+
+![Aspose.PSD for Python via .NET Product Logo](home_3.png)
+
+
+Aspose.PSD for Python via .NET offers a comprehensive set of features for manipulating PSD file formats. It provides a seamless experience without the need for Adobe Photoshop to be installed. With Aspose.PSD for Python via .NET, you can effortlessly edit PSD, PSB and AI files, update layer properties, apply watermarks, perform various graphics operations, and convert files from one format to another. The product also offers support for different automation scenarios, enabling developers to streamline their workflow.
+
+At present, Aspose.PSD for Python via .NET supports the loading and manipulation of PSD, PSB and AI file formats. However, future versions of the product will expand its capabilities to include support for additional PSD file features. The quality of AI format support constantly increases. Aspose.PSD started to support modern AI format/ Furthermore, Aspose.PSD for Python via .NET allows for exporting to various raster file formats, including TIFF, JPEG, JPEG2000, PNG, GIF, and BMP. The product incorporates efficient algorithms that ensure optimal performance while editing PSD files. Aspose.PSD for Python via .NET is continuously evolving, with new features being added to meet the demands of the market.
+
+{{% /alert %}} 
+
+These are links to some useful resources:
+- [Aspose.PSD for Python via .NET API Reference](/psd/python/)
