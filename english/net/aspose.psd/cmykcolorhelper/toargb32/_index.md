@@ -26,7 +26,7 @@ The ARGB colors presented as 32-bit integer values.
 ### See Also
 
 * class [CmykColorHelper](../)
-* namespace [Aspose.PSD](../../cmykcolorhelper/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

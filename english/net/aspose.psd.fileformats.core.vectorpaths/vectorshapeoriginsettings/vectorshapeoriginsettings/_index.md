@@ -210,7 +210,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 ### See Also
 
 * class [VectorShapeOriginSettings](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -358,7 +358,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 ### See Also
 
 * class [VectorShapeOriginSettings](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

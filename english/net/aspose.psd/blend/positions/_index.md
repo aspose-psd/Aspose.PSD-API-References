@@ -22,7 +22,7 @@ The array of blend positions that specify the percentages of distance along the 
 ### See Also
 
 * class [Blend](../)
-* namespace [Aspose.PSD](../../blend/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

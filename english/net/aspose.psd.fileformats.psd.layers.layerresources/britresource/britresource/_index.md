@@ -18,7 +18,7 @@ public BritResource()
 ### See Also
 
 * class [BritResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public BritResource(short brightness, short contrast, short meanValueForBrightne
 ### See Also
 
 * class [BritResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -62,7 +62,7 @@ public BritResource(byte[] bytes)
 ### See Also
 
 * class [BritResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

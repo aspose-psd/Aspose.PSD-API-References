@@ -23,7 +23,7 @@ public void CopyTo(Array array, int index)
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.PSD](../../nongenericlist/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -29,7 +29,7 @@ public void SetChannelInfo(int channelIndex, byte[] value)
 ### See Also
 
 * class [MixrResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

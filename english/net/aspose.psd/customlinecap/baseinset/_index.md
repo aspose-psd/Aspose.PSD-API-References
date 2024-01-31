@@ -22,7 +22,7 @@ The distance between the beginning of the cap and the end of the line.
 ### See Also
 
 * class [CustomLineCap](../)
-* namespace [Aspose.PSD](../../customlinecap/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -33,7 +33,7 @@ public override MixerChannel GetChannelByIndex(int index)
 
 * class [MixerChannel](../../mixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
 * assembly [Aspose.PSD](../../../)
 
 

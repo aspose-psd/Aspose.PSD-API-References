@@ -19,7 +19,7 @@ public SmartFilter[] Filters { get; set; }
 
 * class [SmartFilter](../../smartfilter/)
 * class [SmartFilters](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
 * assembly [Aspose.PSD](../../../)
 
 

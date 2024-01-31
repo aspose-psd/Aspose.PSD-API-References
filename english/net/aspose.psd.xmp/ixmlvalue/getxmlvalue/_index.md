@@ -22,7 +22,7 @@ Returns the XMP value converted to the XML representation.
 ### See Also
 
 * interface [IXmlValue](../)
-* namespace [Aspose.PSD.Xmp](../../ixmlvalue/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

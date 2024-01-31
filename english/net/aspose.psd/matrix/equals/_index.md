@@ -32,7 +32,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -57,7 +57,7 @@ True if matrixes are equal.
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The matrix values array.
 ### See Also
 
 * class [ColorMatrix](../)
-* namespace [Aspose.PSD](../../colormatrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

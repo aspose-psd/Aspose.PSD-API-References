@@ -22,7 +22,7 @@ The substructure count in the in the object array structure.
 ### See Also
 
 * class [ObjectArrayStructure](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
 * assembly [Aspose.PSD](../../../)
 
 

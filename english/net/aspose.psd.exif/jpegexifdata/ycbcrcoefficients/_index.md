@@ -23,7 +23,7 @@ The matrix coefficients for transformation from RGB to YCbCr image data.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* namespace [Aspose.PSD.Exif](../../jpegexifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

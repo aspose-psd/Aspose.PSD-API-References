@@ -22,7 +22,7 @@ The layer image data in the PSD image.
 ### See Also
 
 * class [LayerMaskDataFull](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

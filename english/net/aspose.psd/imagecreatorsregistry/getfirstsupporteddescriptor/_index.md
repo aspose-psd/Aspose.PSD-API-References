@@ -32,7 +32,7 @@ The first creator descriptor will be actually the last registered.
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* namespace [Aspose.PSD](../../imagecreatorsregistry/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

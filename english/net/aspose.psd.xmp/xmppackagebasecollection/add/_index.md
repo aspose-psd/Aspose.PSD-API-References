@@ -23,7 +23,7 @@ public void Add(XmpPackage package)
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* namespace [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

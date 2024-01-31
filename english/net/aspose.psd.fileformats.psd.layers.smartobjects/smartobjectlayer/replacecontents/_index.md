@@ -100,7 +100,7 @@ foreach (FileFormat format in formats)
 
 * class [Image](../../../aspose.psd/image/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -160,7 +160,7 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 * class [Image](../../../aspose.psd/image/)
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -213,7 +213,7 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -538,7 +538,7 @@ string GetFormatExt(FileFormat format)
 ### See Also
 
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
 * assembly [Aspose.PSD](../../../)
 
 

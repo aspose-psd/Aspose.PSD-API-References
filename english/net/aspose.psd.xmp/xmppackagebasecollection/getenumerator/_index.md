@@ -22,7 +22,7 @@ An IEnumerator object that can be used to iterate through the collection.
 ### See Also
 
 * class [XmpPackageBaseCollection](../)
-* namespace [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

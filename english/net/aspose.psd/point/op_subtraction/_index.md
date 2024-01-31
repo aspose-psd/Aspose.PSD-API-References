@@ -28,7 +28,7 @@ A [`Point`](../) structure that is translated by the negative of a given [`Size`
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namespace [Aspose.PSD](../../point/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

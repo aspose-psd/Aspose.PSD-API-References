@@ -23,7 +23,7 @@ public void SetCompleteCallback(CompleteCallback completeCallback)
 
 * delegate [CompleteCallback](../../completecallback/)
 * interface [IAsyncTask](../)
-* namespace [Aspose.PSD.AsyncTask](../../iasynctask/)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
 * assembly [Aspose.PSD](../../../)
 
 

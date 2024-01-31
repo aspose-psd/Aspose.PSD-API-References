@@ -19,7 +19,7 @@ public IPath Path { get; }
 
 * interface [IPath](../../../aspose.psd.fileformats.psd.layers.layerresources/ipath/)
 * interface [IShapeLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../ishapelayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

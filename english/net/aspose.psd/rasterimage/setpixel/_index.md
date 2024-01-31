@@ -25,7 +25,7 @@ public void SetPixel(int x, int y, Color color)
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

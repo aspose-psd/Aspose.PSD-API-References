@@ -27,7 +27,7 @@ True if the two [`Color`](../) structures are equal; otherwise, false.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../color/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

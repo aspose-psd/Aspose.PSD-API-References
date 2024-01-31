@@ -61,7 +61,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [Frame](../../frame/)
 * class [Timeline](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

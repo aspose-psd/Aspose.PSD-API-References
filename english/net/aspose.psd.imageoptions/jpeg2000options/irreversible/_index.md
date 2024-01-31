@@ -18,7 +18,7 @@ public bool Irreversible { get; set; }
 ### See Also
 
 * class [Jpeg2000Options](../)
-* namespace [Aspose.PSD.ImageOptions](../../jpeg2000options/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

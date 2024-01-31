@@ -23,7 +23,7 @@ The object's bounds.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PolygonShape](../)
-* namespace [Aspose.PSD.Shapes](../../polygonshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

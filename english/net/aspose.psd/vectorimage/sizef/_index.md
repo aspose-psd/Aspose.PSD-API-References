@@ -23,7 +23,7 @@ The object size, in inches.
 
 * struct [SizeF](../../sizef/)
 * class [VectorImage](../)
-* namespace [Aspose.PSD](../../vectorimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

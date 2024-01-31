@@ -22,7 +22,7 @@ public bool IsWatermark { get; set; }
 ### See Also
 
 * class [WatermarkResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

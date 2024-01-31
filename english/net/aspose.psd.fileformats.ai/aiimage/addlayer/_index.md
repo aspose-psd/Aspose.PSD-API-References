@@ -3,7 +3,7 @@ title: AiImage.AddLayer
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage method. Adds the AI layer section
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd.fileformats.ai/aiimage/addlayer/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ public void AddLayer(AiLayerSection layer)
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

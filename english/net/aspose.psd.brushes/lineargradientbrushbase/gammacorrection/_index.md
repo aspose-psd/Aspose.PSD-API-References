@@ -22,7 +22,7 @@ The value is true if gamma correction is enabled for this [`LinearGradientBrushB
 ### See Also
 
 * class [LinearGradientBrushBase](../)
-* namespace [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

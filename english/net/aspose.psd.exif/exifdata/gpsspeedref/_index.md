@@ -22,7 +22,7 @@ The unit used to express the GPS receiver speed of movement.
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

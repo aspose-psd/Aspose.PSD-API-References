@@ -23,7 +23,7 @@ The light source.
 
 * enum [ExifLightSource](../../../aspose.psd.exif.enums/exiflightsource/)
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

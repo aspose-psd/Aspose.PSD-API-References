@@ -19,7 +19,7 @@ public IStrokeSettings Stroke { get; set; }
 
 * interface [IStrokeSettings](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/istrokesettings/)
 * interface [IShapeLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../ishapelayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

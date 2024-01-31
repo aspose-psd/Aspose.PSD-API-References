@@ -18,7 +18,7 @@ public CurveShape()
 ### See Also
 
 * class [CurveShape](../)
-* namespace [Aspose.PSD.Shapes](../../curveshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public CurveShape(PointF[] points)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namespace [Aspose.PSD.Shapes](../../curveshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -61,7 +61,7 @@ public CurveShape(PointF[] points, bool isClosed)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namespace [Aspose.PSD.Shapes](../../curveshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -83,7 +83,7 @@ public CurveShape(PointF[] points, float tension)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namespace [Aspose.PSD.Shapes](../../curveshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -106,7 +106,7 @@ public CurveShape(PointF[] points, float tension, bool isClosed)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namespace [Aspose.PSD.Shapes](../../curveshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

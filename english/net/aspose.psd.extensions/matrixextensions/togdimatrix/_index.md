@@ -27,7 +27,7 @@ The converted Matrix.
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [MatrixExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../matrixextensions/)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
 * assembly [Aspose.PSD](../../../)
 
 

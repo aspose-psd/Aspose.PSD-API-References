@@ -19,7 +19,7 @@ public JpegLsPresetCodingParameters JpegLsPreset { get; set; }
 
 * class [JpegLsPresetCodingParameters](../../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/)
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

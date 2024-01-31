@@ -23,7 +23,7 @@ public GaussianBlurFilterOptions(int radius, double sigma)
 ### See Also
 
 * class [GaussianBlurFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public GaussianBlurFilterOptions()
 ### See Also
 
 * class [GaussianBlurFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

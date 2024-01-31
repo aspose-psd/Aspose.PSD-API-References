@@ -30,7 +30,7 @@ Created Exposure Adjustment Layer
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

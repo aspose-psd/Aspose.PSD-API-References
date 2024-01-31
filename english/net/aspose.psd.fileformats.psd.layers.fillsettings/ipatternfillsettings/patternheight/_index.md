@@ -22,7 +22,7 @@ The height of the pattern.
 ### See Also
 
 * interface [IPatternFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

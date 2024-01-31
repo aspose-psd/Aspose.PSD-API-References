@@ -19,7 +19,7 @@ public XmpPacketWrapper XmpData { get; set; }
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [XmpResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

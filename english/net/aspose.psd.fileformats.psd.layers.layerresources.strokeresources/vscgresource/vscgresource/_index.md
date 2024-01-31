@@ -18,7 +18,7 @@ public VscgResource()
 ### See Also
 
 * class [VscgResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vscgresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
 * assembly [Aspose.PSD](../../../)
 
 

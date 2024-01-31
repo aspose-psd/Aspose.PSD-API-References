@@ -28,7 +28,7 @@ public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partial
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -55,7 +55,7 @@ The default raw data array.
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

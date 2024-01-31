@@ -19,7 +19,7 @@ public PdfDocumentInfo PdfDocumentInfo { get; set; }
 
 * class [PdfDocumentInfo](../../../aspose.psd.fileformats.pdf/pdfdocumentinfo/)
 * class [PdfOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../pdfoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

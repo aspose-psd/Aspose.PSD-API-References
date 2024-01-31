@@ -22,7 +22,7 @@ public StreamReadException(string message)
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../streamreadexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public StreamReadException(string message, Exception innerException)
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../streamreadexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -67,7 +67,7 @@ public StreamReadException(string message, Exception innerException, int expecte
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../streamreadexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -89,7 +89,7 @@ public StreamReadException(string message, int expectedReadCount, int actualRead
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../streamreadexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

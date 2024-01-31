@@ -23,7 +23,7 @@ The starting shape point.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* namespace [Aspose.PSD.Shapes](../../arcshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public RdOptimizationError(string message)
 ### See Also
 
 * class [RdOptimizationError](../)
-* namespace [Aspose.PSD.CoreExceptions](../../rdoptimizationerror/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

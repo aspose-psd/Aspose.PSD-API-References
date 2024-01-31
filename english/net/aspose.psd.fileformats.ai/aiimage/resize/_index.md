@@ -3,7 +3,7 @@ title: AiImage.Resize
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage method. Resizes the image
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
 {{< psd/tize >}}
@@ -31,7 +31,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

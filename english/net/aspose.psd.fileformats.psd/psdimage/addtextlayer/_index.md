@@ -29,7 +29,7 @@ Created text layer.
 * class [TextLayer](../../../aspose.psd.fileformats.psd.layers/textlayer/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

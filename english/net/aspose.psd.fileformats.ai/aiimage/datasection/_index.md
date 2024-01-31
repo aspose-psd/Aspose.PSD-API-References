@@ -3,7 +3,7 @@ title: AiImage.DataSection
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage property. Gets the data section
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ The data section.
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

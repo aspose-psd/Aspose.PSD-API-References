@@ -28,7 +28,7 @@ The asynchronous task
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* namespace [Aspose.PSD.AsyncTask](../../asynctask/)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -54,7 +54,7 @@ The asynchronous task
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* namespace [Aspose.PSD.AsyncTask](../../asynctask/)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
 * assembly [Aspose.PSD](../../../)
 
 

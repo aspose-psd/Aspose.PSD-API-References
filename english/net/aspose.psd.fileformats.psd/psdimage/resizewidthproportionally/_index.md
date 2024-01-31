@@ -24,7 +24,7 @@ public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public override void ResizeWidthProportionally(int newWidth, ResizeType resizeTy
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

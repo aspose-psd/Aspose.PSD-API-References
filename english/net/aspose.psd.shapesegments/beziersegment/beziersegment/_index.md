@@ -27,7 +27,7 @@ public BezierSegment(PointF startPoint, PointF firstControlPoint, PointF secondC
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* namespace [Aspose.PSD.ShapeSegments](../../beziersegment/)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
 * assembly [Aspose.PSD](../../../)
 
 

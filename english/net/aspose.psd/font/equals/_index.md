@@ -26,7 +26,7 @@ True if the *obj* parameter is a [`Font`](../) and has the same property values 
 ### See Also
 
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

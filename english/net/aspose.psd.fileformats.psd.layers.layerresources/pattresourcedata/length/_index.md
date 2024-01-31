@@ -22,7 +22,7 @@ The length of the pattern.
 ### See Also
 
 * class [PattResourceData](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

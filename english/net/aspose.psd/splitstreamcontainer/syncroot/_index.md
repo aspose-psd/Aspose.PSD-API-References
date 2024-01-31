@@ -22,7 +22,7 @@ The object that can be used to synchronize access to the synchronized resource.
 ### See Also
 
 * class [SplitStreamContainer](../)
-* namespace [Aspose.PSD](../../splitstreamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

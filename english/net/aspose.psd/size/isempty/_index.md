@@ -18,7 +18,7 @@ public bool IsEmpty { get; }
 ### See Also
 
 * struct [Size](../)
-* namespace [Aspose.PSD](../../size/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

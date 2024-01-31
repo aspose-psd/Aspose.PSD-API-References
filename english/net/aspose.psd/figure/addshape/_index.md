@@ -64,7 +64,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* namespace [Aspose.PSD](../../figure/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

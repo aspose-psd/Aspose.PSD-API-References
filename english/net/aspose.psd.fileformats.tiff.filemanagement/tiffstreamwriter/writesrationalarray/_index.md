@@ -23,7 +23,7 @@ public void WriteSRationalArray(TiffSRational[] data)
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamWriter](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
 * assembly [Aspose.PSD](../../../)
 
 

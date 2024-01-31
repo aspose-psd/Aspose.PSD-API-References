@@ -31,7 +31,7 @@ public void FillRectangles(Brush brush, Rectangle[] rects)
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public void FillRectangles(Brush brush, RectangleF[] rects)
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

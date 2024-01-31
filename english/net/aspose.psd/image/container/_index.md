@@ -26,7 +26,7 @@ If this property is not null it indicates the image is contained within another 
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public ConvolutionFilterOptions()
 ### See Also
 
 * class [ConvolutionFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

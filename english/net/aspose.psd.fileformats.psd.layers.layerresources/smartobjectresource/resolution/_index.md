@@ -22,7 +22,7 @@ The resolution of the smart object layer.
 ### See Also
 
 * class [SmartObjectResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

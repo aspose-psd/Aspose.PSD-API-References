@@ -22,7 +22,7 @@ The fill opacity.
 ### See Also
 
 * class [IopaResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -29,7 +29,7 @@ The fitting rectangle or exception if no fitting rectangle can be found.
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -58,7 +58,7 @@ The fitting rectangle or exception if no fitting rectangle can be found.
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

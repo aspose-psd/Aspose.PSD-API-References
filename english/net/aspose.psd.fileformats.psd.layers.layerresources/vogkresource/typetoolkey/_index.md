@@ -18,7 +18,7 @@ public const int TypeToolKey;
 ### See Also
 
 * class [VogkResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

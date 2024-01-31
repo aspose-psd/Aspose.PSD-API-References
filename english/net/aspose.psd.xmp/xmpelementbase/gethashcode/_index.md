@@ -22,7 +22,7 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [XmpElementBase](../)
-* namespace [Aspose.PSD.Xmp](../../xmpelementbase/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

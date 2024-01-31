@@ -22,7 +22,7 @@ public void AddPath(GraphicsPath addingPath)
 ### See Also
 
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public void AddPath(GraphicsPath addingPath, bool connect)
 ### See Also
 
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

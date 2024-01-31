@@ -22,7 +22,7 @@ public bool IsDisabled { get; set; }
 ### See Also
 
 * class [VectorPath](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpath/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

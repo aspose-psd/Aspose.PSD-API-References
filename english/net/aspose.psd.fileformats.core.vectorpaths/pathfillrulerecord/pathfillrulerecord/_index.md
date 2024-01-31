@@ -18,7 +18,7 @@ public PathFillRuleRecord()
 ### See Also
 
 * class [PathFillRuleRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public PathFillRuleRecord(byte[] data)
 ### See Also
 
 * class [PathFillRuleRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

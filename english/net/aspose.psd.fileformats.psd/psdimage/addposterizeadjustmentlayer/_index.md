@@ -60,7 +60,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 * class [PosterizeLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/posterizelayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

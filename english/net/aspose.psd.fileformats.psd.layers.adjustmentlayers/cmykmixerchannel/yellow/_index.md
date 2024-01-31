@@ -22,7 +22,7 @@ The yellow.
 ### See Also
 
 * class [CmykMixerChannel](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
 * assembly [Aspose.PSD](../../../)
 
 

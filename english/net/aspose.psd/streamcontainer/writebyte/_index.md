@@ -22,7 +22,7 @@ public virtual void WriteByte(byte value)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

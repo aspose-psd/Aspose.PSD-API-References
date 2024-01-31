@@ -22,7 +22,7 @@ The is fill starts with all pixels.
 ### See Also
 
 * class [InitialFillRuleRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ A `PenType` enumeration that specifies the style of lines drawn with this [`Pen`
 
 * enum [PenType](../../pentype/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

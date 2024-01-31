@@ -24,7 +24,7 @@ public void Rotate(float angle, MatrixOrder order)
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Rotate(float angle)
 ### See Also
 
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

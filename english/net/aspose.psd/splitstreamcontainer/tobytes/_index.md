@@ -22,7 +22,7 @@ The stream data converted to the Byte array.
 ### See Also
 
 * class [SplitStreamContainer](../)
-* namespace [Aspose.PSD](../../splitstreamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -47,7 +47,7 @@ The stream data converted to the Byte array.
 ### See Also
 
 * class [SplitStreamContainer](../)
-* namespace [Aspose.PSD](../../splitstreamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -26,7 +26,7 @@ True if *obj* is a [`Blend`](../) class equivalent to this [`Blend`](../) class;
 ### See Also
 
 * class [Blend](../)
-* namespace [Aspose.PSD](../../blend/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

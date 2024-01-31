@@ -19,7 +19,7 @@ public PdfCoreOptions PdfCoreOptions { get; set; }
 
 * class [PdfCoreOptions](../../../aspose.psd.fileformats.pdf/pdfcoreoptions/)
 * class [PdfOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../pdfoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

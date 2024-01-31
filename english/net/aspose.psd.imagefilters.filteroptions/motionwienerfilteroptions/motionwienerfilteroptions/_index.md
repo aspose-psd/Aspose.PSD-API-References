@@ -24,7 +24,7 @@ public MotionWienerFilterOptions(int length, double smooth, double angle)
 ### See Also
 
 * class [MotionWienerFilterOptions](../)
-* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
 * assembly [Aspose.PSD](../../../)
 
 

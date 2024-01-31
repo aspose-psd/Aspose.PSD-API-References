@@ -22,7 +22,7 @@ public SizeF(SizeF size)
 ### See Also
 
 * struct [SizeF](../)
-* namespace [Aspose.PSD](../../sizef/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public SizeF(PointF point)
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* namespace [Aspose.PSD](../../sizef/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -64,7 +64,7 @@ public SizeF(float width, float height)
 ### See Also
 
 * struct [SizeF](../)
-* namespace [Aspose.PSD](../../sizef/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

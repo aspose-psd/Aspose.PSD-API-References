@@ -27,7 +27,7 @@ The [`StreamContainer`](../../../aspose.psd/streamcontainer/) with converted dat
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
 * assembly [Aspose.PSD](../../../)
 
 

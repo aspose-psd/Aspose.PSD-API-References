@@ -22,7 +22,7 @@ The brightness.
 ### See Also
 
 * class [BrightnessContrastLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
 * assembly [Aspose.PSD](../../../)
 
 

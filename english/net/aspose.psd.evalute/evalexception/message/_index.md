@@ -18,7 +18,7 @@ public override string Message { get; }
 ### See Also
 
 * class [EvalException](../)
-* namespace [Aspose.PSD.Evalute](../../evalexception/)
+* namespace [Aspose.PSD.Evalute](../../../aspose.psd.evalute/)
 * assembly [Aspose.PSD](../../../)
 
 

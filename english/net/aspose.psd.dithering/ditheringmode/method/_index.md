@@ -19,7 +19,7 @@ public DitheringMethod Method { get; set; }
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* namespace [Aspose.PSD.Dithering](../../ditheringmode/)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
 * assembly [Aspose.PSD](../../../)
 
 

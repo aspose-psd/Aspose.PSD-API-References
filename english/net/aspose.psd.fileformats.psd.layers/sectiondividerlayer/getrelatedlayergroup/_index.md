@@ -78,7 +78,7 @@ using (var image = new PsdImage(100, 100))
 
 * class [LayerGroup](../../layergroup/)
 * class [SectionDividerLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../sectiondividerlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

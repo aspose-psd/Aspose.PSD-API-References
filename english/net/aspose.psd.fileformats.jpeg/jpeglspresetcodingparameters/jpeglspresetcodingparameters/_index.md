@@ -18,7 +18,7 @@ public JpegLsPresetCodingParameters()
 ### See Also
 
 * class [JpegLsPresetCodingParameters](../)
-* namespace [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
 * assembly [Aspose.PSD](../../../)
 
 

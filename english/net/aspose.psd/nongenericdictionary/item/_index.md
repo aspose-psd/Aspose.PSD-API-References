@@ -26,7 +26,7 @@ The element with the specified key.
 ### See Also
 
 * class [NonGenericDictionary](../)
-* namespace [Aspose.PSD](../../nongenericdictionary/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

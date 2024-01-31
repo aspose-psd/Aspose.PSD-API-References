@@ -23,7 +23,7 @@ public FxrpResource(double x, double y)
 ### See Also
 
 * class [FxrpResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public FxrpResource()
 ### See Also
 
 * class [FxrpResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public FxrpResource(byte[] data)
 ### See Also
 
 * class [FxrpResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

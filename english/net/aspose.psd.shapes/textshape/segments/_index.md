@@ -23,7 +23,7 @@ The shape segments.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [TextShape](../)
-* namespace [Aspose.PSD.Shapes](../../textshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

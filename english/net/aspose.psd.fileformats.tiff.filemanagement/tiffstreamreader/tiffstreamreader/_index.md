@@ -22,7 +22,7 @@ public TiffStreamReader(byte[] data)
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public TiffStreamReader(byte[] data, int startIndex)
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public TiffStreamReader(byte[] data, int startIndex, int dataLength)
 ### See Also
 
 * class [TiffStreamReader](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -86,7 +86,7 @@ public TiffStreamReader(StreamContainer streamContainer)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
 * assembly [Aspose.PSD](../../../)
 
 

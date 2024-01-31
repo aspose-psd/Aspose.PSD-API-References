@@ -22,7 +22,7 @@ The GPS value which indicates whether differential correction is applied to the 
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

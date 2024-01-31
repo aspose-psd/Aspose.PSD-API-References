@@ -23,7 +23,7 @@ The shape segments.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [EllipseShape](../)
-* namespace [Aspose.PSD.Shapes](../../ellipseshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

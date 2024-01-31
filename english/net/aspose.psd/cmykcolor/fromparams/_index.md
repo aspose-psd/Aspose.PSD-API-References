@@ -30,7 +30,7 @@ The [`CmykColor`](../).
 ### See Also
 
 * struct [CmykColor](../)
-* namespace [Aspose.PSD](../../cmykcolor/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

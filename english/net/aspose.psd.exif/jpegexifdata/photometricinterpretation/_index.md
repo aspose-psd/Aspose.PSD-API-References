@@ -22,7 +22,7 @@ The photometric interpretation.
 ### See Also
 
 * class [JpegExifData](../)
-* namespace [Aspose.PSD.Exif](../../jpegexifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public XmpInteger(long value)
 ### See Also
 
 * class [XmpInteger](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -42,7 +42,7 @@ public XmpInteger(int value)
 ### See Also
 
 * class [XmpInteger](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -69,7 +69,7 @@ public XmpInteger(string value)
 ### See Also
 
 * class [XmpInteger](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public ColorantCmyk()
 ### See Also
 
 * class [ColorantCmyk](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -41,7 +41,7 @@ public ColorantCmyk(float black, float cyan, float magenta, float yellow)
 ### See Also
 
 * class [ColorantCmyk](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
 * assembly [Aspose.PSD](../../../)
 
 

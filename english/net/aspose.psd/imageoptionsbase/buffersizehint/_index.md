@@ -22,7 +22,7 @@ The buffer size hint, in megabytes. Non-positive value means no memory limitatio
 ### See Also
 
 * class [ImageOptionsBase](../)
-* namespace [Aspose.PSD](../../imageoptionsbase/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

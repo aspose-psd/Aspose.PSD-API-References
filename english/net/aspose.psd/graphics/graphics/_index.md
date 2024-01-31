@@ -23,7 +23,7 @@ public Graphics(Image sourceImage)
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

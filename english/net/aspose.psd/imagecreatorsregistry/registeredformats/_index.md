@@ -23,7 +23,7 @@ The registered image creation formats.
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageCreatorsRegistry](../)
-* namespace [Aspose.PSD](../../imagecreatorsregistry/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

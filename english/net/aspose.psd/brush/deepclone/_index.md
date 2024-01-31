@@ -22,7 +22,7 @@ A new [`Brush`](../) which is the deep clone of this [`Brush`](../) instance.
 ### See Also
 
 * class [Brush](../)
-* namespace [Aspose.PSD](../../brush/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

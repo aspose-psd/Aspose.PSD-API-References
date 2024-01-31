@@ -3,7 +3,7 @@ title: AiImage.FinalizeSection
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage property. Gets the finalize section
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ The finalize section.
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

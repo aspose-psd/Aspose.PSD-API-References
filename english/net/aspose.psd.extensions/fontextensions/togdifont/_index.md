@@ -27,7 +27,7 @@ The converted Font.
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../fontextensions/)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -53,7 +53,7 @@ The converted Font.
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../fontextensions/)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The bounding rect.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ClipboardRecord](../)
-* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
 * assembly [Aspose.PSD](../../../)
 
 

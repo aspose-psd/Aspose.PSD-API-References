@@ -23,7 +23,7 @@ public void Save(StreamContainer streamContainer)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResourceData](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

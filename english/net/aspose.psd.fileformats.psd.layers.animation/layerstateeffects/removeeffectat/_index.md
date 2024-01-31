@@ -22,7 +22,7 @@ public void RemoveEffectAt(int index)
 ### See Also
 
 * class [LayerStateEffects](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

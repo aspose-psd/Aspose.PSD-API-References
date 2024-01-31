@@ -18,7 +18,7 @@ public TypeToolLineInfo()
 ### See Also
 
 * class [TypeToolLineInfo](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

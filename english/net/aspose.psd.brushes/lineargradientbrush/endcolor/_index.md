@@ -23,7 +23,7 @@ The ending gradient color.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../lineargradientbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

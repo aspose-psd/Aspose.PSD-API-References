@@ -23,7 +23,7 @@ The new [`Color`](../../color/) structure to which to convert.
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* namespace [Aspose.PSD](../../colormap/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

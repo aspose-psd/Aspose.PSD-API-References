@@ -28,7 +28,7 @@ Channels data stored in Int
 ### See Also
 
 * class [RawColor](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../rawcolor/)
+* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../../aspose.psd.fileformats.psd.core.rawcolor/)
 * assembly [Aspose.PSD](../../../)
 
 

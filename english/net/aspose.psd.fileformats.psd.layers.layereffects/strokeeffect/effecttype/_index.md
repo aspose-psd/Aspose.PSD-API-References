@@ -52,7 +52,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 * enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
 * class [StrokeEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
 * assembly [Aspose.PSD](../../../)
 
 

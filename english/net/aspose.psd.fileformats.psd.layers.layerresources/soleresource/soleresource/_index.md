@@ -24,7 +24,7 @@ public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 ### See Also
 
 * class [SoLeResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -40,7 +40,7 @@ public SoLeResource()
 ### See Also
 
 * class [SoLeResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

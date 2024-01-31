@@ -27,7 +27,7 @@ The setter is introduced for the obsolete method SetDigitSubstitution.
 
 * enum [StringDigitSubstitute](../../stringdigitsubstitute/)
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../stringformat/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 
