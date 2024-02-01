@@ -23,7 +23,7 @@ public void TransformPoints(PointF[] points)
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

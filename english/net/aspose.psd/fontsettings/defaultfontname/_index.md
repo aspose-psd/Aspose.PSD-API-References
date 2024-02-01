@@ -22,7 +22,7 @@ The default name of the font.
 ### See Also
 
 * class [FontSettings](../)
-* namespace [Aspose.PSD](../../fontsettings/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

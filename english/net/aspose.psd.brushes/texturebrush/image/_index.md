@@ -23,7 +23,7 @@ An [`Image`](../../../aspose.psd/image/) object that represents the image with w
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* namespace [Aspose.PSD.Brushes](../../texturebrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

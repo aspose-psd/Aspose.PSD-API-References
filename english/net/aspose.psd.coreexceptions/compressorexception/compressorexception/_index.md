@@ -22,7 +22,7 @@ public CompressorException(string message)
 ### See Also
 
 * class [CompressorException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../compressorexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public CompressorException(string message, Exception innerException)
 ### See Also
 
 * class [CompressorException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../compressorexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

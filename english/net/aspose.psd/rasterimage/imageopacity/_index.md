@@ -22,7 +22,7 @@ The opacity value between 0.0 (fully transparent) and 1.0 (fully opaque).
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

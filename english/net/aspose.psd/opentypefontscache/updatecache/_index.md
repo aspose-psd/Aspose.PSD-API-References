@@ -16,7 +16,7 @@ public static void UpdateCache()
 ### See Also
 
 * class [OpenTypeFontsCache](../)
-* namespace [Aspose.PSD](../../opentypefontscache/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

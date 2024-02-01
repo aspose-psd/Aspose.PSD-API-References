@@ -22,7 +22,7 @@ The total data size.
 ### See Also
 
 * class [ThumbnailResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

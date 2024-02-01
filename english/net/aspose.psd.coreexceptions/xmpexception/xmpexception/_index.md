@@ -18,7 +18,7 @@ public XmpException()
 ### See Also
 
 * class [XmpException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../xmpexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public XmpException(string message)
 ### See Also
 
 * class [XmpException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../xmpexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -59,7 +59,7 @@ public XmpException(string message, Exception innerException)
 ### See Also
 
 * class [XmpException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../xmpexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

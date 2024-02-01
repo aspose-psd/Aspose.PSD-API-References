@@ -23,7 +23,7 @@ A copy of the [`Matrix`](../../matrix/) that represents the geometric world tran
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

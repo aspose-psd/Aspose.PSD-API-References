@@ -23,7 +23,7 @@ The cache scheme used.
 
 * enum [CacheType](../../cachetype/)
 * class [Cache](../)
-* namespace [Aspose.PSD](../../cache/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public bool HasTransparentColor { get; }
 ### See Also
 
 * class [PsdColorPalette](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

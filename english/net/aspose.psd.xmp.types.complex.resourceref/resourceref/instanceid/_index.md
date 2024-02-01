@@ -22,7 +22,7 @@ The instance identifier.
 ### See Also
 
 * class [ResourceRef](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
 * assembly [Aspose.PSD](../../../)
 
 

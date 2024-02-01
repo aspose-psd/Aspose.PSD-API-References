@@ -28,7 +28,7 @@ public LspfResource(byte[] data)
 ### See Also
 
 * class [LspfResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -51,7 +51,7 @@ public LspfResource(bool isTransparencyProtected, bool isCompositeProtected,
 ### See Also
 
 * class [LspfResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -67,7 +67,7 @@ public LspfResource()
 ### See Also
 
 * class [LspfResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

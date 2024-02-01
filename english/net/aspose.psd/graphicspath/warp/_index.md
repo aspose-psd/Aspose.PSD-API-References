@@ -25,7 +25,7 @@ public void Warp(PointF[] destPoints, RectangleF srcRect)
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -50,7 +50,7 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -77,7 +77,7 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 * class [Matrix](../../matrix/)
 * enum [WarpMode](../../warpmode/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -106,7 +106,7 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 * class [Matrix](../../matrix/)
 * enum [WarpMode](../../warpmode/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

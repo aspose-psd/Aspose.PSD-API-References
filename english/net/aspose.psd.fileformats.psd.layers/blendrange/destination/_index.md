@@ -22,7 +22,7 @@ The destination blend range.
 ### See Also
 
 * class [BlendRange](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

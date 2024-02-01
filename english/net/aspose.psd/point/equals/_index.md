@@ -26,7 +26,7 @@ True if *obj* is a [`Point`](../) and has the same coordinates as this [`Point`]
 ### See Also
 
 * struct [Point](../)
-* namespace [Aspose.PSD](../../point/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The value.
 ### See Also
 
 * class [XmpInteger](../)
-* namespace [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
 * assembly [Aspose.PSD](../../../)
 
 

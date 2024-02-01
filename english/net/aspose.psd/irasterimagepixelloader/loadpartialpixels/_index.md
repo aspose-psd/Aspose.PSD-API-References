@@ -25,7 +25,7 @@ public void LoadPartialPixels(Rectangle rectangle, IPartialPixelLoader partialPi
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * interface [IRasterImagePixelLoader](../)
-* namespace [Aspose.PSD](../../irasterimagepixelloader/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

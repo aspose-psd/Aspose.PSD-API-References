@@ -26,7 +26,7 @@ The index of the nearest color.
 ### See Also
 
 * interface [IColorPalette](../)
-* namespace [Aspose.PSD](../../icolorpalette/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -51,7 +51,7 @@ The index of the nearest color.
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* namespace [Aspose.PSD](../../icolorpalette/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

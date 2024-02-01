@@ -19,7 +19,7 @@ public FrameDisposalMethod DisposalMethod { get; set; }
 
 * enum [FrameDisposalMethod](../../framedisposalmethod/)
 * class [Frame](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

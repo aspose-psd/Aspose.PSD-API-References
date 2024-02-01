@@ -3,7 +3,7 @@ title: AiImage.BitsPerPixel
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage property. Gets the image bits per pixel count
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd.fileformats.ai/aiimage/bitsperpixel/
 ---
 {{< psd/tize >}}
@@ -22,7 +22,7 @@ The image bits per pixel count.
 ### See Also
 
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ Returns string contained value in XMP format.
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -29,7 +29,7 @@ One of the [`LineCap`](../../linecap/) values that represents the cap style used
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

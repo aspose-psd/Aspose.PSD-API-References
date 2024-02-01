@@ -22,7 +22,7 @@ The script.
 ### See Also
 
 * class [TextFontInfo](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
 * assembly [Aspose.PSD](../../../)
 
 

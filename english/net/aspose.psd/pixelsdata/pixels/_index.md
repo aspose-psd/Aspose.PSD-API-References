@@ -104,7 +104,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 ### See Also
 
 * class [PixelsData](../)
-* namespace [Aspose.PSD](../../pixelsdata/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

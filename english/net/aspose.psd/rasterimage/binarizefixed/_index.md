@@ -22,7 +22,7 @@ public virtual void BinarizeFixed(byte threshold)
 ### See Also
 
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

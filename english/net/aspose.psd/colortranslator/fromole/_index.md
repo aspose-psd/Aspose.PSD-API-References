@@ -27,7 +27,7 @@ The color.
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* namespace [Aspose.PSD](../../colortranslator/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

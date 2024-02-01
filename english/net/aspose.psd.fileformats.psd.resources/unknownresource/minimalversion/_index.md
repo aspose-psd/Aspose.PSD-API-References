@@ -22,7 +22,7 @@ The minimal psd version.
 ### See Also
 
 * class [UnknownResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

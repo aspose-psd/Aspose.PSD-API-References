@@ -23,7 +23,7 @@ The compositing quality.
 
 * enum [CompositingQuality](../../compositingquality/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ A [`ColorBlend`](../../../aspose.psd/colorblend/) that defines a multicolor line
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [PathMulticolorGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -69,7 +69,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 ### See Also
 
 * class [StreamSource](../)
-* namespace [Aspose.PSD.Sources](../../streamsource/)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -114,7 +114,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 ### See Also
 
 * class [StreamSource](../)
-* namespace [Aspose.PSD.Sources](../../streamsource/)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
 * assembly [Aspose.PSD](../../../)
 
 

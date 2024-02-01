@@ -29,7 +29,7 @@ The color of the text.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

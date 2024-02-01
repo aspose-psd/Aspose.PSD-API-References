@@ -18,7 +18,7 @@ public int Length { get; }
 ### See Also
 
 * class [ClassID](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

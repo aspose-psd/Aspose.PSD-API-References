@@ -19,7 +19,7 @@ public SizeF PageSize { get; set; }
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * class [VectorRasterizationOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

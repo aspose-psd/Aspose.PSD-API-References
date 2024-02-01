@@ -23,7 +23,7 @@ The [`LineCap`](../../linecap/) enumeration on which this [`CustomLineCap`](../)
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* namespace [Aspose.PSD](../../customlinecap/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

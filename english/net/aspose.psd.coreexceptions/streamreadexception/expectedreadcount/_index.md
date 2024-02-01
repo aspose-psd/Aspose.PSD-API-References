@@ -22,7 +22,7 @@ The expected read bytes count.
 ### See Also
 
 * class [StreamReadException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../streamreadexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

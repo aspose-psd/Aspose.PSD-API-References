@@ -23,7 +23,7 @@ An array of [`Color`](../../../aspose.psd/color/) structures that represents the
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../pathgradientbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

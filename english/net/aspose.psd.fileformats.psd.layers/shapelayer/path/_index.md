@@ -48,7 +48,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile, new PsdLoadOptions { LoadE
 
 * interface [IPath](../../../aspose.psd.fileformats.psd.layers.layerresources/ipath/)
 * class [ShapeLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../shapelayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

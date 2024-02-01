@@ -23,7 +23,7 @@ A [`Blend`](../../../aspose.psd/blend/) that represents a custom falloff for the
 
 * class [Blend](../../../aspose.psd/blend/)
 * class [LinearGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../lineargradientbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

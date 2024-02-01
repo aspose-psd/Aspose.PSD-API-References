@@ -23,7 +23,7 @@ public void SetWrapMode(WrapMode mode)
 
 * enum [WrapMode](../../wrapmode/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void SetWrapMode(WrapMode mode, Color color)
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -70,7 +70,7 @@ public void SetWrapMode(WrapMode mode, Color color, bool clamp)
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

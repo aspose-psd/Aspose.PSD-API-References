@@ -182,7 +182,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * interface [ITextPortion](../../itextportion/)
 * interface [IText](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
 * assembly [Aspose.PSD](../../../)
 
 

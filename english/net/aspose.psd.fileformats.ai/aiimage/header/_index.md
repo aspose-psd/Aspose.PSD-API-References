@@ -3,7 +3,7 @@ title: AiImage.Header
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage property. Gets the header
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.ai/aiimage/header/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ The header.
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

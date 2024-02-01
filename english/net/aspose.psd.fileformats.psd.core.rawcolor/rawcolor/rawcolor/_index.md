@@ -23,7 +23,7 @@ public RawColor(ColorComponent[] components)
 
 * class [ColorComponent](../../colorcomponent/)
 * class [RawColor](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../rawcolor/)
+* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../../aspose.psd.fileformats.psd.core.rawcolor/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -51,7 +51,7 @@ public RawColor(PixelDataFormat pixelDataFormat, short colorMode = 0)
 
 * class [PixelDataFormat](../../../aspose.psd/pixeldataformat/)
 * class [RawColor](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../rawcolor/)
+* namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../../aspose.psd.fileformats.psd.core.rawcolor/)
 * assembly [Aspose.PSD](../../../)
 
 

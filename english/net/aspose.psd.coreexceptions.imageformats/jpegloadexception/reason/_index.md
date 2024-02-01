@@ -23,7 +23,7 @@ The reason of error.
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 

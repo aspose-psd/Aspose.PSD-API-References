@@ -22,7 +22,7 @@ public void ResizeHeightProportionally(int newHeight)
 ### See Also
 
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeT
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -66,7 +66,7 @@ public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSetting
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

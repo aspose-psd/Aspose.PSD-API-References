@@ -22,7 +22,7 @@ public bool IsOpen { get; set; }
 ### See Also
 
 * class [XmpChoise&lt;T&gt;](../)
-* namespace [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
 * assembly [Aspose.PSD](../../../)
 
 

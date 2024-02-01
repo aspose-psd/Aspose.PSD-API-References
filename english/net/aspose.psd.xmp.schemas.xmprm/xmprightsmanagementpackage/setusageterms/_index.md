@@ -29,7 +29,7 @@ public void SetUsageTerms(LangAlt usageTerms)
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
 * assembly [Aspose.PSD](../../../)
 
 

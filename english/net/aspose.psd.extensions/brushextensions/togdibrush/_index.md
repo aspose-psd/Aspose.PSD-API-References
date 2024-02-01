@@ -27,7 +27,7 @@ The converted Brush.
 
 * class [Brush](../../../aspose.psd/brush/)
 * class [BrushExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../brushextensions/)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
 * assembly [Aspose.PSD](../../../)
 
 

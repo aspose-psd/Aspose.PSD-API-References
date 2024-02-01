@@ -23,7 +23,7 @@ The image options, used to create paintable vactor images to draw.
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public XmpTrailerPi(bool isWritable)
 ### See Also
 
 * class [XmpTrailerPi](../)
-* namespace [Aspose.PSD.Xmp](../../xmptrailerpi/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public XmpTrailerPi()
 ### See Also
 
 * class [XmpTrailerPi](../)
-* namespace [Aspose.PSD.Xmp](../../xmptrailerpi/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

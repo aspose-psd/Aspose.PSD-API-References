@@ -18,7 +18,7 @@ public const float ColorValueMin;
 ### See Also
 
 * class [ColorantCmyk](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
 * assembly [Aspose.PSD](../../../)
 
 

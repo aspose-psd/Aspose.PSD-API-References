@@ -23,7 +23,7 @@ public override void Transform(Matrix transform)
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* namespace [Aspose.PSD](../../graphicspath/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

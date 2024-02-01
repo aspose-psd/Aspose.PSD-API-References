@@ -99,7 +99,7 @@ foreach (FileFormat format in formats)
 ### See Also
 
 * interface [ISmartObjectLayerResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ismartobjectlayerresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: AiImage.SetPalette
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage method. Sets the image palette
 type: docs
-weight: 170
+weight: 180
 url: /net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
 {{< psd/tize >}}
@@ -30,7 +30,7 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

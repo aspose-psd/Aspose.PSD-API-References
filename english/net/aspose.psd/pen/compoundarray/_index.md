@@ -28,7 +28,7 @@ An array of real numbers that specifies the compound array. The elements in the 
 ### See Also
 
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

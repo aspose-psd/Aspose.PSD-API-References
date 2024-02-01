@@ -33,7 +33,7 @@ Returns the RDF code for specific [`XmpArrayType`](../../xmparraytype/).
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* namespace [Aspose.PSD.Xmp](../../xmparrayhelper/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

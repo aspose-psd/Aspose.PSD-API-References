@@ -23,7 +23,7 @@ public bool StrictMode { get; set; }
 ### See Also
 
 * class [PngLoadOptions](../)
-* namespace [Aspose.PSD.ImageLoadOptions](../../pngloadoptions/)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

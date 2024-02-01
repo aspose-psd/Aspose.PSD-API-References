@@ -23,7 +23,7 @@ The channel blend ranges.
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -3,7 +3,7 @@ title: AiImage.IsCached
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage property. Gets a value indicating whether objects data is cached currently and no data reading is required
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.fileformats.ai/aiimage/iscached/
 ---
 {{< psd/tize >}}
@@ -22,7 +22,7 @@ public override bool IsCached { get; }
 ### See Also
 
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

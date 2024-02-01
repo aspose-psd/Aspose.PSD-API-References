@@ -23,7 +23,7 @@ public static void RegisterLoader(IImageLoaderDescriptor loaderDescriptor)
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* namespace [Aspose.PSD](../../imageloadersregistry/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

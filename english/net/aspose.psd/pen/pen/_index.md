@@ -23,7 +23,7 @@ public Pen(Color color)
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -45,7 +45,7 @@ public Pen(Color color, float width)
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -72,7 +72,7 @@ public Pen(Brush brush)
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -100,7 +100,7 @@ public Pen(Brush brush, float width)
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

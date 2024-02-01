@@ -22,7 +22,7 @@ The value.
 ### See Also
 
 * class [LyidResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

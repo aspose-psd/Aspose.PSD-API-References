@@ -22,7 +22,7 @@ The prefix.
 ### See Also
 
 * class [ComplexTypeBase](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
 * assembly [Aspose.PSD](../../../)
 
 

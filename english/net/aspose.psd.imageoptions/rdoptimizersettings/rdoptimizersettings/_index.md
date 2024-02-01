@@ -18,7 +18,7 @@ public RdOptimizerSettings()
 ### See Also
 
 * class [RdOptimizerSettings](../)
-* namespace [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

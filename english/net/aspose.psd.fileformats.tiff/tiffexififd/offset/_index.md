@@ -28,7 +28,7 @@ The pointer to EXIF IFD.
 ### See Also
 
 * class [TiffExifIfd](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
 * assembly [Aspose.PSD](../../../)
 
 

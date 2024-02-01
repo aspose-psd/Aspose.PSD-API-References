@@ -45,7 +45,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### See Also
 
 * class [VstkResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
 * assembly [Aspose.PSD](../../../)
 
 
