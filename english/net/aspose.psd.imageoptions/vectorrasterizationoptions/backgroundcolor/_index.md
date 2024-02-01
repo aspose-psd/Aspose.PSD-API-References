@@ -19,7 +19,7 @@ public Color BackgroundColor { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

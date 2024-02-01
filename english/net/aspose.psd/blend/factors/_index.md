@@ -22,7 +22,7 @@ The array of blend factors that specify the percentages of the starting color an
 ### See Also
 
 * class [Blend](../)
-* namespace [Aspose.PSD](../../blend/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

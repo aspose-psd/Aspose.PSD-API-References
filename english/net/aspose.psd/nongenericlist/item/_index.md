@@ -22,7 +22,7 @@ public object this[int index] { get; set; }
 ### See Also
 
 * class [NonGenericList](../)
-* namespace [Aspose.PSD](../../nongenericlist/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

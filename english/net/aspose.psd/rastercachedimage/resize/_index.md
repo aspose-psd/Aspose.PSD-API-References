@@ -123,7 +123,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../rastercachedimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -146,7 +146,7 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../rastercachedimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

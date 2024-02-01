@@ -42,7 +42,7 @@ using (var image = (PsdImage)Image.Load(sourceFile, warpLoadOptions))
 ### See Also
 
 * class [PsdLoadOptions](../)
-* namespace [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

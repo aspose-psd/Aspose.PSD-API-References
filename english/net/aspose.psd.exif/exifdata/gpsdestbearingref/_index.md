@@ -22,7 +22,7 @@ The GPS reference used for giving the bearing to the destination point.
 ### See Also
 
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

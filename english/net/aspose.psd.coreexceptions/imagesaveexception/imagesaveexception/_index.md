@@ -22,7 +22,7 @@ public ImageSaveException(string message)
 ### See Also
 
 * class [ImageSaveException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public ImageSaveException(string message, Exception innerException)
 ### See Also
 
 * class [ImageSaveException](../)
-* namespace [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

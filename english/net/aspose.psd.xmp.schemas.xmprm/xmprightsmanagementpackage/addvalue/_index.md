@@ -29,7 +29,7 @@ public override void AddValue(string key, string value)
 ### See Also
 
 * class [XmpRightsManagementPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
 * assembly [Aspose.PSD](../../../)
 
 

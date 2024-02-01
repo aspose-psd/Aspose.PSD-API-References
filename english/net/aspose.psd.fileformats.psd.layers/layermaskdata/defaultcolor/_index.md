@@ -22,7 +22,7 @@ The default color.
 ### See Also
 
 * class [LayerMaskData](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

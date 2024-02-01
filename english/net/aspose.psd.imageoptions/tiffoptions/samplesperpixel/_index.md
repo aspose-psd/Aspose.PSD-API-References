@@ -22,7 +22,7 @@ The samples per pixel.
 ### See Also
 
 * class [TiffOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

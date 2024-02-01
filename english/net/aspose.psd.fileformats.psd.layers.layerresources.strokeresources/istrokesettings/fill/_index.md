@@ -19,7 +19,7 @@ public IFillSettings Fill { get; set; }
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * interface [IStrokeSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../istrokesettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
 * assembly [Aspose.PSD](../../../)
 
 

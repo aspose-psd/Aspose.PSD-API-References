@@ -23,7 +23,7 @@ public void AddTag(TiffDataType tagToAdd)
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

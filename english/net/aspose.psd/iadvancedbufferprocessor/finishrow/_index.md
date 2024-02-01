@@ -18,7 +18,7 @@ public void FinishRow()
 ### See Also
 
 * interface [IAdvancedBufferProcessor](../)
-* namespace [Aspose.PSD](../../iadvancedbufferprocessor/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

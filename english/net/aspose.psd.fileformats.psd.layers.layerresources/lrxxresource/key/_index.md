@@ -18,7 +18,7 @@ public override int Key { get; }
 ### See Also
 
 * class [LrXxResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lrxxresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

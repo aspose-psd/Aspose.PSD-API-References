@@ -83,7 +83,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* namespace [Aspose.PSD](../../rastercachedimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

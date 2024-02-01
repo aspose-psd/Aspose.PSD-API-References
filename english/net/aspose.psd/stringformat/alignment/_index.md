@@ -23,7 +23,7 @@ A [`StringAlignment`](../../stringalignment/) enumeration that specifies text al
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../stringformat/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

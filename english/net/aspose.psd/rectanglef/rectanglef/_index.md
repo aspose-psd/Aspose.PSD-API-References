@@ -25,7 +25,7 @@ public RectangleF(float x, float y, float width, float height)
 ### See Also
 
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../rectanglef/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public RectangleF(PointF location, SizeF size)
 * struct [PointF](../../pointf/)
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* namespace [Aspose.PSD](../../rectanglef/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

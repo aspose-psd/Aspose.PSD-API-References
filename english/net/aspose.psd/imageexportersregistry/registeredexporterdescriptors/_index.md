@@ -23,7 +23,7 @@ The registered exporter descriptors.
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* namespace [Aspose.PSD](../../imageexportersregistry/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -36,7 +36,7 @@ List of [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerreso
 * struct [Color](../../../aspose.psd/color/)
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PatternFillSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

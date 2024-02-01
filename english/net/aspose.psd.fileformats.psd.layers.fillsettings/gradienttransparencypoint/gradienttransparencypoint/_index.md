@@ -18,7 +18,7 @@ public GradientTransparencyPoint()
 ### See Also
 
 * class [GradientTransparencyPoint](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

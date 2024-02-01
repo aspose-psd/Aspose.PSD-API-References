@@ -22,7 +22,7 @@ This property returns true if this color is uninitialized; otherwise, false.
 ### See Also
 
 * struct [CmykColor](../)
-* namespace [Aspose.PSD](../../cmykcolor/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

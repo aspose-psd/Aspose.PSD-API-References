@@ -26,7 +26,7 @@ A temporal stream will remove iself when disposed. If the stream is memory based
 ### See Also
 
 * class [FileStreamContainer](../)
-* namespace [Aspose.PSD](../../filestreamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

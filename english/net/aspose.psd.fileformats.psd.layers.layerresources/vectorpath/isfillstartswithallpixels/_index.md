@@ -22,7 +22,7 @@ The is fill starts with all pixels.
 ### See Also
 
 * class [VectorPath](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpath/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

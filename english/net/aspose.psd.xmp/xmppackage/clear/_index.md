@@ -18,7 +18,7 @@ public virtual void Clear()
 ### See Also
 
 * class [XmpPackage](../)
-* namespace [Aspose.PSD.Xmp](../../xmppackage/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ Array of IPathShape.
 
 * interface [IPathShape](../../ipathshape/)
 * interface [IPath](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ipath/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

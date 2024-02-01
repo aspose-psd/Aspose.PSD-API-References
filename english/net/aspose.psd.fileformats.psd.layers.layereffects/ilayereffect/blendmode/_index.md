@@ -23,7 +23,7 @@ The blend mode.
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * interface [ILayerEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
 * assembly [Aspose.PSD](../../../)
 
 

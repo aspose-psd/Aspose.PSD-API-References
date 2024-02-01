@@ -22,7 +22,7 @@ The brush opacity value.
 ### See Also
 
 * class [Brush](../)
-* namespace [Aspose.PSD](../../brush/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

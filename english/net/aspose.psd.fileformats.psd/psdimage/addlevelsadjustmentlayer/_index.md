@@ -23,7 +23,7 @@ A newly created Levels layer
 
 * class [LevelsLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

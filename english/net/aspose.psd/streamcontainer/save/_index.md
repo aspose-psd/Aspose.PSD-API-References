@@ -24,7 +24,7 @@ public virtual void Save(Stream destinationStream, int bufferSize, long length)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public virtual void Save(Stream destinationStream)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -65,7 +65,7 @@ public virtual void Save(Stream destinationStream, int bufferSize)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -85,7 +85,7 @@ public virtual void Save(string filePath)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -106,7 +106,7 @@ public virtual void Save(string filePath, int bufferSize)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -128,7 +128,7 @@ public virtual void Save(string filePath, int bufferSize, long length)
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public string Subject { get; set; }
 ### See Also
 
 * class [PdfDocumentInfo](../)
-* namespace [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The data recovery mode.
 
 * enum [DataRecoveryMode](../../datarecoverymode/)
 * class [LoadOptions](../)
-* namespace [Aspose.PSD](../../loadoptions/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The other channel.
 ### See Also
 
 * class [AudioChannelType](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -28,7 +28,7 @@ New rectangle as union operation result
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* namespace [Aspose.PSD.Extensions](../../rectangleextensions/)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
 * assembly [Aspose.PSD](../../../)
 
 

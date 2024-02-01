@@ -28,7 +28,7 @@ public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Poin
 * struct [Color](../../color/)
 * struct [Point](../../point/)
 * interface [IPartialPixelLoader](../)
-* namespace [Aspose.PSD](../../ipartialpixelloader/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

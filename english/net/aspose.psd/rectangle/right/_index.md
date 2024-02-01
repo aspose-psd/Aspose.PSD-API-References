@@ -22,7 +22,7 @@ The x-coordinate that is the sum of [`X`](../x/) and [`Width`](../width/) of thi
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../rectangle/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -44,7 +44,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
 ### See Also
 
 * class [ResourceBlock](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

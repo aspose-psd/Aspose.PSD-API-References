@@ -22,7 +22,7 @@ The value of the xmpMM:InstanceId.
 ### See Also
 
 * class [ResourceEvent](../)
-* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -26,7 +26,7 @@ This method returns true if *obj* is a [`Rectangle`](../) structure and its [`X`
 ### See Also
 
 * struct [Rectangle](../)
-* namespace [Aspose.PSD](../../rectangle/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

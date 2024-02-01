@@ -22,7 +22,7 @@ public bool IsVisible { get; set; }
 ### See Also
 
 * class [PatternOverlayEffect](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
 * assembly [Aspose.PSD](../../../)
 
 

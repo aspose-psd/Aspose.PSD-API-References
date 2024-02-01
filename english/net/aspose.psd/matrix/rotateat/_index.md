@@ -26,7 +26,7 @@ public void RotateAt(float angle, PointF point, MatrixOrder order)
 * struct [PointF](../../pointf/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public void RotateAt(float angle, PointF point)
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* namespace [Aspose.PSD](../../matrix/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -25,7 +25,7 @@ public override void Filter(Rectangle rectangle, FilterOptionsBase options)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

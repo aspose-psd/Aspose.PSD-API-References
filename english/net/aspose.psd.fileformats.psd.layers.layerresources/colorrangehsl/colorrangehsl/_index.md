@@ -18,7 +18,7 @@ public ColorRangeHsl()
 ### See Also
 
 * class [ColorRangeHsl](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public ColorRangeHsl(byte[] data)
 ### See Also
 
 * class [ColorRangeHsl](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

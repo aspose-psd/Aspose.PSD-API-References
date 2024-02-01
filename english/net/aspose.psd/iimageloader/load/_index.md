@@ -30,7 +30,7 @@ A newly opened image instance.
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoader](../)
-* namespace [Aspose.PSD](../../iimageloader/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

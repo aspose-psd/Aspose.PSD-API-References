@@ -23,7 +23,7 @@ The ending shape point.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* namespace [Aspose.PSD.Shapes](../../beziershape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

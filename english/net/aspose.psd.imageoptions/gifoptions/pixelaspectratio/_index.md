@@ -26,7 +26,7 @@ Pixel Aspect Ratio - Factor used to compute an approximation of the aspect ratio
 ### See Also
 
 * class [GifOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../gifoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

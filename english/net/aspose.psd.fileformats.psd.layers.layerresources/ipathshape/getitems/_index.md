@@ -23,7 +23,7 @@ Array of BezierKnotRecord.
 
 * class [BezierKnotRecord](../../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/)
 * interface [IPathShape](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ipathshape/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

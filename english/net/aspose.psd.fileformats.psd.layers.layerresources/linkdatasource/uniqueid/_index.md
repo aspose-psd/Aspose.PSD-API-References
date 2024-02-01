@@ -28,7 +28,7 @@ The link unique identifier of the data source in the Adobe® Photoshop® LnkE / 
 ### See Also
 
 * class [LinkDataSource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

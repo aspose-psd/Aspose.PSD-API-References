@@ -23,7 +23,7 @@ The JPEG2000 codec
 
 * enum [Jpeg2000Codec](../../../aspose.psd.fileformats.jpeg2000/jpeg2000codec/)
 * class [Jpeg2000Options](../)
-* namespace [Aspose.PSD.ImageOptions](../../jpeg2000options/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

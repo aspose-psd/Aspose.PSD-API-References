@@ -18,7 +18,7 @@ public XmpResource()
 ### See Also
 
 * class [XmpResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ public bool Colorize { get; set; }
 ### See Also
 
 * class [Hue2Resource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

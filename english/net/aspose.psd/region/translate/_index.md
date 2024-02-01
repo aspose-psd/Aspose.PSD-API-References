@@ -23,7 +23,7 @@ public void Translate(float dx, float dy)
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Translate(int dx, int dy)
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The left top rectangle point.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* namespace [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

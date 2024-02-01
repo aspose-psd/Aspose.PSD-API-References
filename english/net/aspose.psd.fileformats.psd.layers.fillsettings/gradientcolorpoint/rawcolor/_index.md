@@ -58,7 +58,7 @@ AssertAreEqual(argbValue, color.GetAsInt());
 
 * class [RawColor](../../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/)
 * class [GradientColorPoint](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

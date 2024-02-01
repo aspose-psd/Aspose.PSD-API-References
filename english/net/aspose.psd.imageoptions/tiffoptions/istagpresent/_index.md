@@ -27,7 +27,7 @@ public bool IsTagPresent(TiffTags tag)
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

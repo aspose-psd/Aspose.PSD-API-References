@@ -22,7 +22,7 @@ public void SetSigmaBellShape(float focus)
 ### See Also
 
 * class [LinearGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../lineargradientbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public void SetSigmaBellShape(float focus, float scale)
 ### See Also
 
 * class [LinearGradientBrush](../)
-* namespace [Aspose.PSD.Brushes](../../lineargradientbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

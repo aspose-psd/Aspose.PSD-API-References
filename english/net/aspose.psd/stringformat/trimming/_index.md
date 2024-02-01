@@ -23,7 +23,7 @@ A [`StringTrimming`](../../stringtrimming/) enumeration that indicates how text 
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* namespace [Aspose.PSD](../../stringformat/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ public static void Register(IImageCreatorDescriptor imageCreatorDescriptor)
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* namespace [Aspose.PSD](../../imagecreatorsregistry/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

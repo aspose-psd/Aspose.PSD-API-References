@@ -22,7 +22,7 @@ The horizontal grid cycle.
 ### See Also
 
 * class [GridAndGuidesResouce](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

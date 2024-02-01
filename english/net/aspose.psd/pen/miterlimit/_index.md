@@ -28,7 +28,7 @@ The limit of the thickness of the join on a mitered corner.
 ### See Also
 
 * class [Pen](../)
-* namespace [Aspose.PSD](../../pen/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

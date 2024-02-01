@@ -28,7 +28,7 @@ public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle,
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

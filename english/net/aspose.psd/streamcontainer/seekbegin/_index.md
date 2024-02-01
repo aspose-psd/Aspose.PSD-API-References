@@ -18,7 +18,7 @@ public virtual void SeekBegin()
 ### See Also
 
 * class [StreamContainer](../)
-* namespace [Aspose.PSD](../../streamcontainer/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

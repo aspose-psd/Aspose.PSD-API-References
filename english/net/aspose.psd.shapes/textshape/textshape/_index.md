@@ -18,7 +18,7 @@ public TextShape()
 ### See Also
 
 * class [TextShape](../)
-* namespace [Aspose.PSD.Shapes](../../textshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public TextShape(string text, RectangleF rectangle, Font font, StringFormat stri
 * class [Font](../../../aspose.psd/font/)
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* namespace [Aspose.PSD.Shapes](../../textshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

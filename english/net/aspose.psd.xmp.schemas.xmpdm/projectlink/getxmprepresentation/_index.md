@@ -28,7 +28,7 @@ Returns string contained value in XMP format.
 ### See Also
 
 * class [ProjectLink](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
 * assembly [Aspose.PSD](../../../)
 
 

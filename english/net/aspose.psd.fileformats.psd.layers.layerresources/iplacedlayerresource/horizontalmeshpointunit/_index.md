@@ -23,7 +23,7 @@ The measure unit of the horizontal mesh points.
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * interface [IPlacedLayerResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ Note the effects after BeginUpdate is called will not be applied in case EndUpda
 ### See Also
 
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

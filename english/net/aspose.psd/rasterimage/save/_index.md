@@ -26,7 +26,7 @@ public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namespace [Aspose.PSD](../../rasterimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

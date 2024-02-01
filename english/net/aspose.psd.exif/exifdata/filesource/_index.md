@@ -23,7 +23,7 @@ The file source type.
 
 * enum [ExifFileSource](../../../aspose.psd.exif.enums/exiffilesource/)
 * class [ExifData](../)
-* namespace [Aspose.PSD.Exif](../../exifdata/)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ public void Union(RectangleF rect)
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Union(Rectangle rect)
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -71,7 +71,7 @@ public void Union(GraphicsPath path)
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -97,7 +97,7 @@ public void Union(Region region)
 ### See Also
 
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

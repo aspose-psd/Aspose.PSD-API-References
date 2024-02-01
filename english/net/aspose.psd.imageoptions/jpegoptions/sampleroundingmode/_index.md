@@ -19,7 +19,7 @@ public SampleRoundingMode SampleRoundingMode { get; set; }
 
 * enum [SampleRoundingMode](../../../aspose.psd.fileformats.jpeg/sampleroundingmode/)
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

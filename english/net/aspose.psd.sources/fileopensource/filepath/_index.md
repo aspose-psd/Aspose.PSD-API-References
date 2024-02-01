@@ -22,7 +22,7 @@ The file path to open.
 ### See Also
 
 * class [FileOpenSource](../)
-* namespace [Aspose.PSD.Sources](../../fileopensource/)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
 * assembly [Aspose.PSD](../../../)
 
 

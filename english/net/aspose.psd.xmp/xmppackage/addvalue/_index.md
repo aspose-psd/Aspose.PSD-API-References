@@ -29,7 +29,7 @@ public virtual void AddValue(string key, string value)
 ### See Also
 
 * class [XmpPackage](../)
-* namespace [Aspose.PSD.Xmp](../../xmppackage/)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
 * assembly [Aspose.PSD](../../../)
 
 

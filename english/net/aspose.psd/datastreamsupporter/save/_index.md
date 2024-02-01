@@ -18,7 +18,7 @@ public virtual void Save()
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.PSD](../../datastreamsupporter/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -38,7 +38,7 @@ public virtual void Save(Stream stream)
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.PSD](../../datastreamsupporter/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -58,7 +58,7 @@ public void Save(string filePath)
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.PSD](../../datastreamsupporter/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -79,7 +79,7 @@ public virtual void Save(string filePath, bool overWrite)
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.PSD](../../datastreamsupporter/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

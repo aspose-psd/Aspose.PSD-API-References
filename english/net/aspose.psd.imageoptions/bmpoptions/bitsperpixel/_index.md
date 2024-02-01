@@ -22,7 +22,7 @@ The image bits per pixel count.
 ### See Also
 
 * class [BmpOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../bmpoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

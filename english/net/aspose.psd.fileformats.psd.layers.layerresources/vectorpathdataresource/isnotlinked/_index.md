@@ -22,7 +22,7 @@ public bool IsNotLinked { get; set; }
 ### See Also
 
 * class [VectorPathDataResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

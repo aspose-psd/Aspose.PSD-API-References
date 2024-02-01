@@ -18,7 +18,7 @@ public static AudioSampleType Packed { get; }
 ### See Also
 
 * class [AudioSampleType](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
 * assembly [Aspose.PSD](../../../)
 
 

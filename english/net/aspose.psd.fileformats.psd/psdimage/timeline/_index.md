@@ -44,7 +44,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [Timeline](../../../aspose.psd.fileformats.psd.layers.animation/timeline/)
 * class [PsdImage](../)
-* namespace [Aspose.PSD.FileFormats.Psd](../../psdimage/)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -51,7 +51,7 @@ using (var image = new PsdImage(100, 100))
 
 * interface [IXmlValue](../../../aspose.psd.xmp/ixmlvalue/)
 * class [XmpBasicPackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
 * assembly [Aspose.PSD](../../../)
 
 

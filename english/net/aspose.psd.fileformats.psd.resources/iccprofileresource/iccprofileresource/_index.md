@@ -18,7 +18,7 @@ public IccProfileResource()
 ### See Also
 
 * class [IccProfileResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

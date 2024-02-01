@@ -22,7 +22,7 @@ public BmpImageException(string message)
 ### See Also
 
 * class [BmpImageException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public BmpImageException(string message, Exception innerException)
 ### See Also
 
 * class [BmpImageException](../)
-* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
 * assembly [Aspose.PSD](../../../)
 
 

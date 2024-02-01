@@ -24,7 +24,7 @@ public void SetColorKey(Color colorLow, Color colorHigh)
 
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -48,7 +48,7 @@ public void SetColorKey(Color colorLow, Color colorHigh, ColorAdjustType type)
 * struct [Color](../../color/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namespace [Aspose.PSD](../../imageattributes/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

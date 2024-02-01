@@ -28,7 +28,7 @@ Returns the translated [`PointF`](../).
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* namespace [Aspose.PSD](../../pointf/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -54,7 +54,7 @@ The translated [`PointF`](../).
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* namespace [Aspose.PSD](../../pointf/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

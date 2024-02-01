@@ -23,7 +23,7 @@ The tag type.
 
 * enum [TiffDataTypes](../../../aspose.psd.fileformats.tiff.enums/tiffdatatypes/)
 * class [TiffDataType](../)
-* namespace [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
 * assembly [Aspose.PSD](../../../)
 
 

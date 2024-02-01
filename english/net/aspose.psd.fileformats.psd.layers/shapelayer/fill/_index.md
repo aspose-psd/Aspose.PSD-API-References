@@ -64,7 +64,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [ShapeLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../shapelayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

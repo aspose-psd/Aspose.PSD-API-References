@@ -22,7 +22,7 @@ public void SetTitle(string title)
 ### See Also
 
 * class [DublinCorePackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -43,7 +43,7 @@ public void SetTitle(LangAlt title)
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
 * assembly [Aspose.PSD](../../../)
 
 

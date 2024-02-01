@@ -50,7 +50,7 @@ using (var image = (PsdImage) Image.Load(sourceFileName))
 ### See Also
 
 * class [LayerGroup](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

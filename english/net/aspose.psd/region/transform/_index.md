@@ -29,7 +29,7 @@ public void Transform(Matrix matrix)
 
 * class [Matrix](../../matrix/)
 * class [Region](../)
-* namespace [Aspose.PSD](../../region/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The image bounds.
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* namespace [Aspose.PSD](../../image/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

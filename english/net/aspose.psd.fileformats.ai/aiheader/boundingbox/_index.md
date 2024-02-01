@@ -23,7 +23,7 @@ The bounding box.
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiHeader](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiheader/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

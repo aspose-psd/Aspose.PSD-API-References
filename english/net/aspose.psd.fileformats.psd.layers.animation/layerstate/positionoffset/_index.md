@@ -19,7 +19,7 @@ public Point PositionOffset { get; set; }
 
 * struct [Point](../../../aspose.psd/point/)
 * class [LayerState](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
 * assembly [Aspose.PSD](../../../)
 
 

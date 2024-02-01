@@ -32,7 +32,7 @@ The array of Int32
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.PSD](../../intrange/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

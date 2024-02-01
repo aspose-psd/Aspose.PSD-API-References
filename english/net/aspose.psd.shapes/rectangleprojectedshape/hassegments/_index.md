@@ -22,7 +22,7 @@ public override bool HasSegments { get; }
 ### See Also
 
 * class [RectangleProjectedShape](../)
-* namespace [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

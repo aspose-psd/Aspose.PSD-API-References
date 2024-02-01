@@ -23,7 +23,7 @@ The object bounds.
 
 * struct [Rectangle](../../rectangle/)
 * interface [IObjectWithBounds](../)
-* namespace [Aspose.PSD](../../iobjectwithbounds/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

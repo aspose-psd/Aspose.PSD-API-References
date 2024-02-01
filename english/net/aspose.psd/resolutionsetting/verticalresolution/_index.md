@@ -18,7 +18,7 @@ public double VerticalResolution { get; set; }
 ### See Also
 
 * class [ResolutionSetting](../)
-* namespace [Aspose.PSD](../../resolutionsetting/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

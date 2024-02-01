@@ -18,7 +18,7 @@ public bool IsMaskLinked { get; }
 ### See Also
 
 * class [SmartFilters](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
 * assembly [Aspose.PSD](../../../)
 
 

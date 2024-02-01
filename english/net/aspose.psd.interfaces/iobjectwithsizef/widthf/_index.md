@@ -22,7 +22,7 @@ The object width, in inches.
 ### See Also
 
 * interface [IObjectWithSizeF](../)
-* namespace [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -23,7 +23,7 @@ The layer lock.
 
 * enum [LayerLockType](../../../aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/)
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

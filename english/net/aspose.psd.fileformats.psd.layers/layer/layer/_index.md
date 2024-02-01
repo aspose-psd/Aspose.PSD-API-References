@@ -49,7 +49,7 @@ using (var image = new PsdImage(width, height))
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -105,7 +105,7 @@ using (var image = new PsdImage(200, 200))
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -174,7 +174,7 @@ using (var image = new PsdImage(200, 200))
 ### See Also
 
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -205,7 +205,7 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
 * assembly [Aspose.PSD](../../../)
 
 

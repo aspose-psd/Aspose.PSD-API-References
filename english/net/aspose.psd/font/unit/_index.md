@@ -23,7 +23,7 @@ A [`GraphicsUnit`](../../graphicsunit/) that represents the unit of measure for 
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* namespace [Aspose.PSD](../../font/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

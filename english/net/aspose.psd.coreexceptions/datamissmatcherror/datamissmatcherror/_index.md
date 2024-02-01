@@ -22,7 +22,7 @@ public DataMissmatchError(string message)
 ### See Also
 
 * class [DataMissmatchError](../)
-* namespace [Aspose.PSD.CoreExceptions](../../datamissmatcherror/)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
 * assembly [Aspose.PSD](../../../)
 
 

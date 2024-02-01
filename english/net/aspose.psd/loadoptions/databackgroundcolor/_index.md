@@ -27,7 +27,7 @@ Typically the background color is set whenever pixel value cannot be recovered d
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* namespace [Aspose.PSD](../../loadoptions/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

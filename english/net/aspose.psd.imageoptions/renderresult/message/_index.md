@@ -18,7 +18,7 @@ public string Message { get; set; }
 ### See Also
 
 * class [RenderResult](../)
-* namespace [Aspose.PSD.ImageOptions](../../renderresult/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

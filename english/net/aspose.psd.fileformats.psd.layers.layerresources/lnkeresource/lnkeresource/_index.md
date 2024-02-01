@@ -18,7 +18,7 @@ public LnkeResource()
 ### See Also
 
 * class [LnkeResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public LnkeResource(LinkDataSource[] dataSources)
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

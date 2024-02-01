@@ -34,7 +34,7 @@ Array of items
 ### See Also
 
 * class [IntRange](../)
-* namespace [Aspose.PSD](../../intrange/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

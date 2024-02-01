@@ -22,7 +22,7 @@ public override bool HasSegments { get; }
 ### See Also
 
 * class [BezierShape](../)
-* namespace [Aspose.PSD.Shapes](../../beziershape/)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
 * assembly [Aspose.PSD](../../../)
 
 

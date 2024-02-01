@@ -403,7 +403,7 @@ string GetFormatExt(FileFormat format)
 
 * class [LinkDataSource](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/)
 * class [SmartObjectLayer](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
 * assembly [Aspose.PSD](../../../)
 
 

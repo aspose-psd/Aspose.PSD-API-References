@@ -23,7 +23,7 @@ public void MultiplyTransform(Matrix matrix)
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../transformbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 * class [Matrix](../../../aspose.psd/matrix/)
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* namespace [Aspose.PSD.Brushes](../../transformbrush/)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
 * assembly [Aspose.PSD](../../../)
 
 

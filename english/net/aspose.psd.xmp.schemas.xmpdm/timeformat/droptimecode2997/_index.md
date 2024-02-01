@@ -22,7 +22,7 @@ The drop timecode2997.
 ### See Also
 
 * class [TimeFormat](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
 * assembly [Aspose.PSD](../../../)
 
 

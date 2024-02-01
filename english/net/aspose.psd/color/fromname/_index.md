@@ -26,7 +26,7 @@ The [`Color`](../) that this method creates.
 ### See Also
 
 * struct [Color](../)
-* namespace [Aspose.PSD](../../color/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

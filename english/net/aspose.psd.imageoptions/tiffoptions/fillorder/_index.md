@@ -23,7 +23,7 @@ The byte bits fill order.
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

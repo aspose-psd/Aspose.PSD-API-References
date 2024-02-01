@@ -23,7 +23,7 @@ The descriptor items of placed layer information.
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [SmartObjectResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

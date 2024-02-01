@@ -18,7 +18,7 @@ public int Bits { get; set; }
 ### See Also
 
 * class [DitheringMode](../)
-* namespace [Aspose.PSD.Dithering](../../ditheringmode/)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
 * assembly [Aspose.PSD](../../../)
 
 

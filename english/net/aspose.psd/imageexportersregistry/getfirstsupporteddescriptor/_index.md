@@ -35,7 +35,7 @@ The first exporter descriptor will be actually the last registered.
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* namespace [Aspose.PSD](../../imageexportersregistry/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

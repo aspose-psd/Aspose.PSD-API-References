@@ -230,7 +230,7 @@ ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d
 
 * class [LiFdDataSource](../../lifddatasource/)
 * class [Lnk2Resource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk2resource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -31,7 +31,7 @@ public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

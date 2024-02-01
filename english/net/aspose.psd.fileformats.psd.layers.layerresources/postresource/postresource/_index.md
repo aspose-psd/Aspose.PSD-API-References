@@ -18,7 +18,7 @@ public PostResource()
 ### See Also
 
 * class [PostResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -90,7 +90,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### See Also
 
 * class [SmartFilter](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
 * assembly [Aspose.PSD](../../../)
 
 

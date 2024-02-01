@@ -26,7 +26,7 @@ public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat,
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IIndexedColorConverter](../)
-* namespace [Aspose.PSD](../../iindexedcolorconverter/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -18,7 +18,7 @@ public SmartResourceCreator()
 ### See Also
 
 * class [SmartResourceCreator](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -39,7 +39,7 @@ public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 ### See Also
 
 * class [SmartResourceCreator](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -60,7 +60,7 @@ public SmartResourceCreator(PlacedResource template)
 
 * class [PlacedResource](../../placedresource/)
 * class [SmartResourceCreator](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

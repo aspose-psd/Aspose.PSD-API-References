@@ -23,7 +23,7 @@ public void TranslateTransform(float dx, float dy)
 ### See Also
 
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void TranslateTransform(float dx, float dy, MatrixOrder order)
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* namespace [Aspose.PSD](../../graphics/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

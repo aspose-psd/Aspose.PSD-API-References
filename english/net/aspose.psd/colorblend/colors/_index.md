@@ -23,7 +23,7 @@ An array of [`Color`](../../color/) structures that represents the colors to use
 
 * struct [Color](../../color/)
 * class [ColorBlend](../)
-* namespace [Aspose.PSD](../../colorblend/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

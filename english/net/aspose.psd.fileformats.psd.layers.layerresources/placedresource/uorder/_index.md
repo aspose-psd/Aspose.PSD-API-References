@@ -22,7 +22,7 @@ The U order value of the placed layer.
 ### See Also
 
 * class [PlacedResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -22,7 +22,7 @@ The time value in the specified format.
 ### See Also
 
 * class [Timecode](../)
-* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
 * assembly [Aspose.PSD](../../../)
 
 

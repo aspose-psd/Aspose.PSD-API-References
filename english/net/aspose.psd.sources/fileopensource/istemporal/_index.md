@@ -22,7 +22,7 @@ public override bool IsTemporal { get; }
 ### See Also
 
 * class [FileOpenSource](../)
-* namespace [Aspose.PSD.Sources](../../fileopensource/)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
 * assembly [Aspose.PSD](../../../)
 
 

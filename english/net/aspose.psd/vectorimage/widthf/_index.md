@@ -22,7 +22,7 @@ The object width, in inches.
 ### See Also
 
 * class [VectorImage](../)
-* namespace [Aspose.PSD](../../vectorimage/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

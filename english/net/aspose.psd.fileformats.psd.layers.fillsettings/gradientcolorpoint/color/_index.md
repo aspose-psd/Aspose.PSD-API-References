@@ -24,7 +24,7 @@ The color.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientColorPoint](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../../)
 
 

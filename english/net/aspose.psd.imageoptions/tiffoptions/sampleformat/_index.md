@@ -30,7 +30,7 @@ The sample format.
 
 * enum [TiffSampleFormats](../../../aspose.psd.fileformats.tiff.enums/tiffsampleformats/)
 * class [TiffOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

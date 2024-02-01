@@ -23,7 +23,7 @@ A new creator instance.
 
 * interface [IImageCreator](../../iimagecreator/)
 * interface [IImageCreatorDescriptor](../)
-* namespace [Aspose.PSD](../../iimagecreatordescriptor/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

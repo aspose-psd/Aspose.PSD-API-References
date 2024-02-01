@@ -27,7 +27,7 @@ Level Data of Channel
 
 * class [LevelChannel](../../levelchannel/)
 * class [LevlResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../../)
 
 

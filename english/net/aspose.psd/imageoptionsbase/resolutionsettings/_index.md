@@ -19,7 +19,7 @@ public virtual ResolutionSetting ResolutionSettings { get; set; }
 
 * class [ResolutionSetting](../../resolutionsetting/)
 * class [ImageOptionsBase](../)
-* namespace [Aspose.PSD](../../imageoptionsbase/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

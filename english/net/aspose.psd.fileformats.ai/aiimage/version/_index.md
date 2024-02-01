@@ -3,7 +3,7 @@ title: AiImage.Version
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage property. Gets the version of Adobe Illustrator format
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd.fileformats.ai/aiimage/version/
 ---
 {{< psd/tize >}}
@@ -23,7 +23,7 @@ The version.
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* namespace [Aspose.PSD.FileFormats.Ai](../../aiimage/)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
 * assembly [Aspose.PSD](../../../)
 
 

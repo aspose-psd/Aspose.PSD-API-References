@@ -22,7 +22,7 @@ Image Author, used by Windows Explorer. The `XPAuthor` is ignored by Windows Exp
 ### See Also
 
 * class [TiffOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../tiffoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

@@ -19,7 +19,7 @@ public JFIFData Jfif { get; set; }
 
 * class [JFIFData](../../../aspose.psd.fileformats.jpeg/jfifdata/)
 * class [JpegOptions](../)
-* namespace [Aspose.PSD.ImageOptions](../../jpegoptions/)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
 * assembly [Aspose.PSD](../../../)
 
 

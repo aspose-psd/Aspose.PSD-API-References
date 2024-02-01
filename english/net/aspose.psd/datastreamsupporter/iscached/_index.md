@@ -22,7 +22,7 @@ public abstract bool IsCached { get; }
 ### See Also
 
 * class [DataStreamSupporter](../)
-* namespace [Aspose.PSD](../../datastreamsupporter/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

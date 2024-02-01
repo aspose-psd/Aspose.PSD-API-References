@@ -78,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### See Also
 
 * class [WorkingPathResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

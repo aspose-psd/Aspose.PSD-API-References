@@ -22,7 +22,7 @@ The y location.
 ### See Also
 
 * class [PrintScaleResource](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
 * assembly [Aspose.PSD](../../../)
 
 

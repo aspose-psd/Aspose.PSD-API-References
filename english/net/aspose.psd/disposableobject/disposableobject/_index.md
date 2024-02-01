@@ -18,7 +18,7 @@ public DisposableObject()
 ### See Also
 
 * class [DisposableObject](../)
-* namespace [Aspose.PSD](../../disposableobject/)
+* namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)
 
 

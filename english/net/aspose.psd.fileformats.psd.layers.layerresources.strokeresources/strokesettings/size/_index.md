@@ -18,7 +18,7 @@ public double Size { get; set; }
 ### See Also
 
 * class [StrokeSettings](../)
-* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../strokesettings/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
 * assembly [Aspose.PSD](../../../)
 
 
