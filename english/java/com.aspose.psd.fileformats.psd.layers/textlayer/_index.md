@@ -84,6 +84,7 @@ The text layer class
 | [findPattResource_internalized()](#findPattResource-internalized--) | Finds the  PattResource  |
 | [findResource_internalized(int typeToolKey)](#findResource-internalized-int-) | Finds the resource by unique key |
 | [getAbsoluteBounds_internalized()](#getAbsoluteBounds-internalized--) | Gets or sets the absolute bounds. |
+| [getAllowWarpRepaint_internalized()](#getAllowWarpRepaint-internalized--) | It gets or sets render warp or use PS picture |
 | [getArgb32Pixel(int x, int y)](#getArgb32Pixel-int-int-) | Gets an image 32-bit ARGB pixel. |
 | [getAutoAdjustPalette()](#getAutoAdjustPalette--) | Gets a value indicating whether automatic adjust palette. |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets a value for the background color. |
@@ -280,6 +281,7 @@ The text layer class
 | [save_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)](#save-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-) |  |
 | [save_internalized(StreamContainer streamContainer, int psdVersion, int bitDepth)](#save-internalized-com.aspose.psd.StreamContainer-int-int-) | Saves data to the specified stream container. |
 | [setAbsoluteBounds_internalized(Rectangle value)](#setAbsoluteBounds-internalized-com.aspose.psd.Rectangle-) | Gets or sets the absolute bounds. |
+| [setAllowWarpRepaint_internalized(boolean value)](#setAllowWarpRepaint-internalized-boolean-) | It gets or sets render warp or use PS picture |
 | [setArgb32Pixel(int x, int y, int argb32Color)](#setArgb32Pixel-int-int-int-) | Sets an image 32-bit ARGB pixel for the specified position. |
 | [setAutoAdjustPalette(boolean value)](#setAutoAdjustPalette-boolean-) | Sets a value indicating whether automatic adjust palette. |
 | [setBackgroundColor(boolean value)](#setBackgroundColor-boolean-) | Gets or sets a value indicating whether image has background color. |
@@ -1146,6 +1148,16 @@ Value: The absolute bounds.
 
 **Returns:**
 [Rectangle](../../com.aspose.psd/rectangle)
+### getAllowWarpRepaint_internalized() {#getAllowWarpRepaint-internalized--}
+```
+public final boolean getAllowWarpRepaint_internalized()
+```
+
+
+It gets or sets render warp or use PS picture
+
+**Returns:**
+boolean
 ### getArgb32Pixel(int x, int y) {#getArgb32Pixel-int-int-}
 ```
 public int getArgb32Pixel(int x, int y)
@@ -3629,6 +3641,19 @@ Value: The absolute bounds.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [Rectangle](../../com.aspose.psd/rectangle) |  |
+
+### setAllowWarpRepaint_internalized(boolean value) {#setAllowWarpRepaint-internalized-boolean-}
+```
+public final void setAllowWarpRepaint_internalized(boolean value)
+```
+
+
+It gets or sets render warp or use PS picture
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setArgb32Pixel(int x, int y, int argb32Color) {#setArgb32Pixel-int-int-int-}
 ```
