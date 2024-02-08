@@ -365,7 +365,7 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [updateDataSourceId_internalized(System.Guid sourceId)](#updateDataSourceId-internalized-com.aspose.ms.System.Guid-) | Updates the data source identifier. |
 | [updateModifiedContent()](#updateModifiedContent--) | Updates the smart object layer image cache with the modified content. |
 | [updatePlacedResources_internalized(boolean toEmbedded)](#updatePlacedResources-internalized-boolean-) | Updates the placed / smart resources when the placedResource is changed or when conversion is needed. |
-| [updateSmartLayerPreview_internalized(Tuple<int[],Rectangle> targetWarpedPixels)](#updateSmartLayerPreview-internalized-com.aspose.internal.fileformats.psd.common.Tuple-int---com.aspose.psd.Rectangle--) | It update preview in SmartLayer |
+| [updateSmartLayerPreview_internalized(PixelsData targetWarpedPixels)](#updateSmartLayerPreview-internalized-com.aspose.psd.PixelsData-) | It update preview in SmartLayer |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -2142,7 +2142,7 @@ Gets an image pixel.
 [Color](../../com.aspose.psd/color) - The pixel color for the specified location.
 ### getPixelsFromContent_internalized(LinkDataSource contentsSource) {#getPixelsFromContent-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-}
 ```
-public final Tuple<int[],Rectangle> getPixelsFromContent_internalized(LinkDataSource contentsSource)
+public final PixelsData getPixelsFromContent_internalized(LinkDataSource contentsSource)
 ```
 
 
@@ -2154,10 +2154,10 @@ public final Tuple<int[],Rectangle> getPixelsFromContent_internalized(LinkDataSo
 | contentsSource | [LinkDataSource](../../com.aspose.psd.fileformats.psd.layers.layerresources.linkresources/linkdatasource) |  |
 
 **Returns:**
-com.aspose.internal.fileformats.psd.common.Tuple<int[],com.aspose.psd.Rectangle>
+[PixelsData](../../com.aspose.psd/pixelsdata)
 ### getPixelsFromContent_internalized(LinkDataSource contentsSource, int stepSize) {#getPixelsFromContent-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-int-}
 ```
-public final Tuple<int[],Rectangle> getPixelsFromContent_internalized(LinkDataSource contentsSource, int stepSize)
+public final PixelsData getPixelsFromContent_internalized(LinkDataSource contentsSource, int stepSize)
 ```
 
 
@@ -2170,7 +2170,7 @@ It returns rendered pixels from SmartLayer contents
 | stepSize | int | The border size test step |
 
 **Returns:**
-com.aspose.internal.fileformats.psd.common.Tuple<int[],com.aspose.psd.Rectangle> - The Rendered pixels
+[PixelsData](../../com.aspose.psd/pixelsdata) - The Rendered pixels
 ### getPlacedLayerResource_internalized(LayerResource[] resources, int[] placedResourceIndex, int[] smartResourceIndex) {#getPlacedLayerResource-internalized-com.aspose.psd.fileformats.psd.layers.LayerResource---int---int---}
 ```
 public static PlacedResource getPlacedLayerResource_internalized(LayerResource[] resources, int[] placedResourceIndex, int[] smartResourceIndex)
@@ -4753,9 +4753,9 @@ Updates the placed / smart resources when the placedResource is changed or when 
 | --- | --- | --- |
 | toEmbedded | boolean | if set to  true  covert to an embedded resource if needed, otherwise to a linked one. |
 
-### updateSmartLayerPreview_internalized(Tuple<int[],Rectangle> targetWarpedPixels) {#updateSmartLayerPreview-internalized-com.aspose.internal.fileformats.psd.common.Tuple-int---com.aspose.psd.Rectangle--}
+### updateSmartLayerPreview_internalized(PixelsData targetWarpedPixels) {#updateSmartLayerPreview-internalized-com.aspose.psd.PixelsData-}
 ```
-public final void updateSmartLayerPreview_internalized(Tuple<int[],Rectangle> targetWarpedPixels)
+public final void updateSmartLayerPreview_internalized(PixelsData targetWarpedPixels)
 ```
 
 
@@ -4764,7 +4764,7 @@ It update preview in SmartLayer
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| targetWarpedPixels | com.aspose.internal.fileformats.psd.common.Tuple<int[],com.aspose.psd.Rectangle> | Pixels and bounds |
+| targetWarpedPixels | [PixelsData](../../com.aspose.psd/pixelsdata) | Pixels and bounds |
 
 ### wait() {#wait--}
 ```

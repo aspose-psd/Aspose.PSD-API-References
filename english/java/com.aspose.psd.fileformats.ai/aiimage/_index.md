@@ -48,11 +48,14 @@ The Adobe Illustrator (AI) Image
 | [dispose()](#dispose--) | Disposes the current instance. |
 | [doAfterSave_internalized(System.IO.Stream stream)](#doAfterSave-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getActivePageIndex()](#getActivePageIndex--) | Gets or sets the index of the active page. |
 | [getAutoAdjustPalette()](#getAutoAdjustPalette--) | Gets a value indicating whether automatic adjust palette. |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets a value for the background color. |
 | [getBitsPerPixel()](#getBitsPerPixel--) | Gets the image bits per pixel count. |
 | [getBounds()](#getBounds--) | Gets the image bounds. |
 | [getBufferSizeHint()](#getBufferSizeHint--) | Gets the buffer size hint which is defined max allowed size for all internal buffers. |
+| [getCanvasSet_internalized()](#getCanvasSet-internalized--) | Gets or sets the canvas set. |
+| [getCanvas_internalized()](#getCanvas-internalized--) | Gets or sets the canvas. |
 | [getClass()](#getClass--) |  |
 | [getContainer()](#getContainer--) | Gets the  Image  container. |
 | [getDataSection()](#getDataSection--) | Gets the data section. |
@@ -133,10 +136,12 @@ The Adobe Illustrator (AI) Image
 | [save(String filePath, ImageOptionsBase options, Rectangle boundsRectangle)](#save-java.lang.String-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-) | Saves the object's data to the specified file location in the specified file format according to save options. |
 | [save_internalized(System.IO.Stream stream)](#save-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [save_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)](#save-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-) |  |
+| [setActivePageIndex(int value)](#setActivePageIndex-int-) | Gets or sets the index of the active page. |
 | [setAutoAdjustPalette(boolean value)](#setAutoAdjustPalette-boolean-) | Sets a value indicating whether automatic adjust palette. |
 | [setBackgroundColor(boolean value)](#setBackgroundColor-boolean-) | Gets or sets a value indicating whether image has background color. |
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.psd.Color-) | Gets or sets a value for the background color. |
 | [setBufferSizeHint(int value)](#setBufferSizeHint-int-) | Sets the buffer size hint which is defined max allowed size for all internal buffers. |
+| [setCanvasSet_internalized(ICanvas[] value)](#setCanvasSet-internalized-com.aspose.internal.fileformats.core.vectordrawer.ICanvas---) | Gets or sets the canvas set. |
 | [setCanvas_internalized(ICanvas value)](#setCanvas-internalized-com.aspose.internal.fileformats.core.vectordrawer.ICanvas-) | Gets or sets the canvas. |
 | [setContainer_internalized(Image container)](#setContainer-internalized-com.aspose.psd.Image-) | Sets the  Image  container. |
 | [setDataSection(AiDataSection value)](#setDataSection-com.aspose.psd.fileformats.ai.AiDataSection-) | Gets the data section. |
@@ -435,6 +440,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getActivePageIndex() {#getActivePageIndex--}
+```
+public final int getActivePageIndex()
+```
+
+
+Gets or sets the index of the active page.
+
+**Returns:**
+int
 ### getAutoAdjustPalette() {#getAutoAdjustPalette--}
 ```
 public boolean getAutoAdjustPalette()
@@ -489,6 +504,30 @@ Value: The buffer size hint, in megabytes. Non-positive value means no memory li
 
 **Returns:**
 int - the buffer size hint which is defined max allowed size for all internal buffers.
+### getCanvasSet_internalized() {#getCanvasSet-internalized--}
+```
+public final ICanvas[] getCanvasSet_internalized()
+```
+
+
+Gets or sets the canvas set.
+
+Value: This property contains different canvases of different AI image pages.
+
+**Returns:**
+com.aspose.internal.fileformats.core.vectordrawer.ICanvas[]
+### getCanvas_internalized() {#getCanvas-internalized--}
+```
+public final ICanvas getCanvas_internalized()
+```
+
+
+Gets or sets the canvas.
+
+Value: The canvas.
+
+**Returns:**
+com.aspose.internal.fileformats.core.vectordrawer.ICanvas
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -1532,6 +1571,19 @@ public void save_internalized(System.IO.Stream stream, ImageOptionsBase optionsB
 | optionsBase | [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) |  |
 | boundsRectangle | [Rectangle](../../com.aspose.psd/rectangle) |  |
 
+### setActivePageIndex(int value) {#setActivePageIndex-int-}
+```
+public final void setActivePageIndex(int value)
+```
+
+
+Gets or sets the index of the active page.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
 ### setAutoAdjustPalette(boolean value) {#setAutoAdjustPalette-boolean-}
 ```
 public void setAutoAdjustPalette(boolean value)
@@ -1585,6 +1637,21 @@ Value: The buffer size hint, in megabytes. Non-positive value means no memory li
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | the buffer size hint which is defined max allowed size for all internal buffers. |
+
+### setCanvasSet_internalized(ICanvas[] value) {#setCanvasSet-internalized-com.aspose.internal.fileformats.core.vectordrawer.ICanvas---}
+```
+public final void setCanvasSet_internalized(ICanvas[] value)
+```
+
+
+Gets or sets the canvas set.
+
+Value: This property contains different canvases of different AI image pages.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.internal.fileformats.core.vectordrawer.ICanvas[] |  |
 
 ### setCanvas_internalized(ICanvas value) {#setCanvas-internalized-com.aspose.internal.fileformats.core.vectordrawer.ICanvas-}
 ```
