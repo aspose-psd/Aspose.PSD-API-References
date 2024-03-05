@@ -26,6 +26,7 @@ public class PtFlResource : FillLayerResource
 | Name | Description |
 | --- | --- |
 | [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | Gets or sets a value indicating whether [align with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/angle/) { get; set; } | Gets or sets the angle. |
 | [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | Gets or sets a value indicating whether this instance is linked with layer. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | Gets the layer resource length in bytes. |

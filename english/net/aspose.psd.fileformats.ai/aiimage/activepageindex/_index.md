@@ -25,6 +25,39 @@ This property is only actual for PDF format AI image. If the image is not in PDF
 | --- | --- |
 | IndexOutOfRangeException | There is no page in this document with index " + value.ToString() |
 
+## Examples
+
+The following code demonstrates support of ability to change active page in Ai images.
+
+```csharp
+[C#]
+
+string sourceFile = "threePages.ai";
+string firstPageOutputPng = "firstPageOutput.png";
+string secondPageOutputPng = "secondPageOutput.png";
+string thirdPageOutputPng = "thirdPageOutput.png";
+
+// Load the AI image.
+using (AiImage image = (AiImage)Image.Load(sourceFile))
+{
+    // By default, the ActivePageIndex is 0.
+    // So if you save the AI image without changing this property, the first page will be rendered and saved.
+    image.Save(firstPageOutputPng, new PngOptions());
+
+    // Change the active page index to the second page.
+    image.ActivePageIndex = 1;
+
+    // Save the second page of the AI image as a PNG image.
+    image.Save(secondPageOutputPng, new PngOptions());
+
+    // Change the active page index to the third page.
+    image.ActivePageIndex = 2;
+
+    // Save the third page of the AI image as a PNG image.
+    image.Save(thirdPageOutputPng, new PngOptions());
+}
+```
+
 ### See Also
 
 * class [AiImage](../)

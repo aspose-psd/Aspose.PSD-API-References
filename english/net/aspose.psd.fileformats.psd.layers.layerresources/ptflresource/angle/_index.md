@@ -1,19 +1,23 @@
 ---
-title: PtFlResource.Key
+title: PtFlResource.Angle
 second_title: Aspose.PSD for .NET API Reference
-description: PtFlResource property. Gets the layer resource key
+description: PtFlResource property. Gets or sets the angle
 type: docs
-weight: 50
-url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/
+weight: 30
+url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/angle/
 ---
 {{< psd/tize >}}
-## PtFlResource.Key property
+## PtFlResource.Angle property
 
-Gets the layer resource key.
+Gets or sets the angle.
 
 ```csharp
-public override int Key { get; }
+public double Angle { get; set; }
 ```
+
+### Property Value
+
+The angle.
 
 ### See Also
 

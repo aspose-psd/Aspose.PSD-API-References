@@ -3,7 +3,7 @@ title: PtFlResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: PtFlResource method. Saves the resource to the specified stream container
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/
 ---
 {{< psd/tize >}}
@@ -19,12 +19,6 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 | --- | --- | --- |
 | streamContainer | StreamContainer | The stream container to save to. |
 | psdVersion | Int32 | The PSD version. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| NotImplementedException |  |
 
 ### See Also
 
