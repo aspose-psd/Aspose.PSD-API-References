@@ -3,7 +3,7 @@ title: com.aspose.psd.multithreading
 second_title: Aspose.PSD for Java API Reference
 description: The namespace contains Multithreading classes.
 type: docs
-weight: 68
+weight: 67
 url: /java/com.aspose.psd.multithreading/
 ---
 

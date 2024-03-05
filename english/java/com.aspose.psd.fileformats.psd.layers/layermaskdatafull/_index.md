@@ -3,7 +3,7 @@ title: LayerMaskDataFull
 second_title: Aspose.PSD for Java API Reference
 description: Defines the LayerMaskDataFull class which contains information about the mask data in the PSD file layer when the layer has both layer and vector masks.
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.psd.fileformats.psd.layers/layermaskdatafull/
 ---
 

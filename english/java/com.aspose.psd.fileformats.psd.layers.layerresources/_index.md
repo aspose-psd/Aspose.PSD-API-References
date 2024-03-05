@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.psd.layers.layerresources
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 41
+weight: 40
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 ---
 

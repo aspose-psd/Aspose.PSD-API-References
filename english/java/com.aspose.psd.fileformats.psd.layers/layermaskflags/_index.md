@@ -3,7 +3,7 @@ title: LayerMaskFlags
 second_title: Aspose.PSD for Java API Reference
 description: The layer mask flags
 type: docs
-weight: 22
+weight: 23
 url: /java/com.aspose.psd.fileformats.psd.layers/layermaskflags/
 ---
 

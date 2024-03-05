@@ -18,7 +18,7 @@ Resource class VstkResource. Contains information about Vector Stroke Data. Reso
 
 | Constructor | Description |
 | --- | --- |
-| [VstkResource()](#VstkResource--) | Creates a new instance of the [VstkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource) class. |
+| [VstkResource()](#VstkResource--) | Initializes a new instance of the [VstkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource) class. |
 ## Fields
 
 | Field | Description |
@@ -33,7 +33,7 @@ Resource class VstkResource. Contains information about Vector Stroke Data. Reso
 
 | Method | Description |
 | --- | --- |
-| [assginItems_internalized(System.Collections.Generic.List<OSTypeStructure> items)](#assginItems-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) | Assign items structures from Vstk resource. |
+| [assignItems_internalized(System.Collections.Generic.List<OSTypeStructure> items)](#assignItems-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) | Assign items structures from Vstk resource. |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
@@ -102,7 +102,7 @@ public VstkResource()
 ```
 
 
-Creates a new instance of the [VstkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource) class.
+Initializes a new instance of the [VstkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource) class.
 
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
@@ -152,9 +152,9 @@ public Object ventureLicense_internalized
 
 The venture license.
 
-### assginItems_internalized(System.Collections.Generic.List<OSTypeStructure> items) {#assginItems-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--}
+### assignItems_internalized(System.Collections.Generic.List<OSTypeStructure> items) {#assignItems-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--}
 ```
-public final void assginItems_internalized(System.Collections.Generic.List<OSTypeStructure> items)
+public final void assignItems_internalized(System.Collections.Generic.List<OSTypeStructure> items)
 ```
 
 
@@ -163,7 +163,7 @@ Assign items structures from Vstk resource.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> |  |
+| items | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | List of OSTypeStructure instances. |
 
 ### checkAndSetIfResourceIsPsbSpecific_internalized(int key) {#checkAndSetIfResourceIsPsbSpecific-internalized-int-}
 ```

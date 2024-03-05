@@ -3,7 +3,7 @@ title: LayerResource
 second_title: Aspose.PSD for Java API Reference
 description: Represents layer info.
 type: docs
-weight: 23
+weight: 24
 url: /java/com.aspose.psd.fileformats.psd.layers/layerresource/
 ---
 

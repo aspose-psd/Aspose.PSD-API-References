@@ -1,22 +1,19 @@
 ---
-title: TextLayer
+title: FillLayer
 second_title: Aspose.PSD for Java API Reference
-description: The text layer class
+description: Fill layer.
 type: docs
-weight: 29
-url: /java/com.aspose.psd.fileformats.psd.layers/textlayer/
+weight: 13
+url: /java/com.aspose.psd.fileformats.psd.layers/filllayer/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.psd.DisposableObject](../../com.aspose.psd/disposableobject), [com.aspose.psd.DataStreamSupporter](../../com.aspose.psd/datastreamsupporter), [com.aspose.psd.Image](../../com.aspose.psd/image), [com.aspose.psd.RasterImage](../../com.aspose.psd/rasterimage), [com.aspose.psd.RasterCachedImage](../../com.aspose.psd/rastercachedimage), [com.aspose.psd.fileformats.psd.layers.Layer](../../com.aspose.psd.fileformats.psd.layers/layer)
-
-**All Implemented Interfaces:**
-com.aspose.internal.fileformats.psd.layers.ITypeToolResourceOperable
 ```
-public class TextLayer extends Layer implements ITypeToolResourceOperable
+public class FillLayer extends Layer
 ```
 
-The text layer class
+Fill layer. Color Fill, Gradient Fill or Pattern Fill Layer which differs by  FillSettings ([getFillSettings](../../com.aspose.psd.fileformats.psd.layers/filllayer\#getFillSettings)/[setFillSettings(IFillSettings)](../../com.aspose.psd.fileformats.psd.layers/filllayer\#setFillSettings-IFillSettings-))
 ## Fields
 
 | Field | Description |
@@ -55,16 +52,14 @@ The text layer class
 | [canSave(ImageOptionsBase options)](#canSave-com.aspose.psd.ImageOptionsBase-) | Determines whether image can be saved to the specified file format represented by the passed save options. |
 | [close()](#close--) | Implements the Closable interface and can be used in the try-with-resources statement since JDK 1.7. |
 | [convertToAps_internalized(ImageOptionsBase options, int mode, Rectangle clippingRectangle)](#convertToAps-internalized-com.aspose.psd.ImageOptionsBase-int-com.aspose.psd.Rectangle-) | Converts to aps. |
-| [correctFontSize_internalized(float newSize, double yyTransform)](#correctFontSize-internalized-float-double-) | Corrects the size of the font |
 | [create(ImageOptionsBase imageOptions, int width, int height)](#create-com.aspose.psd.ImageOptionsBase-int-int-) | Creates a new image using the specified create options. |
 | [create(Image[] images)](#create-com.aspose.psd.Image---) | Creates a new image using the specified images as pages |
 | [create(Image[] images, boolean disposeImages)](#create-com.aspose.psd.Image---boolean-) | Creates a new image the specified images as pages. |
-| [createInstance_internalized()](#createInstance-internalized--) | Creates the new instance of the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer) class. |
-| [createInstance_internalized(PsdHeader header, IColorPalette palette)](#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-) | Creates the new instance of the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer) class. |
+| [createInstance(int fillType)](#createInstance-int-) | Build a new instance of the [FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer) class by type of fill. |
 | [createInstance_internalized(PsdHeader header, IColorPalette palette, LinkedLayersRegistry linkedLayersRegistry)](#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-com.aspose.internal.fileformats.psd.layers.LinkedLayersRegistry-) | Creates the new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class. |
 | [createLayerState_internalized()](#createLayerState-internalized--) | Creates the new [LayerState](../../com.aspose.psd.fileformats.psd.layers.animation/layerstate) instance based on current [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) values. |
 | [createPartialRotateSaver_internalized(PartialRotater resizer, IPixelsSaver pixelsSaver, int width, int height)](#createPartialRotateSaver-internalized-com.aspose.internal.rotaters.PartialRotater-com.aspose.internal.IPixelsSaver-int-int-) |  |
-| [create_internalized(PsdHeader header, IColorPalette colorPalette, LayerAndMaskInfo layerAndMaskInfo, LayerResource[] resources)](#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-com.aspose.internal.fileformats.psd.sections.LayerAndMaskInfo-com.aspose.psd.fileformats.psd.layers.LayerResource---) |  |
+| [create_internalized(PsdHeader header, IColorPalette palette)](#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-) |  |
 | [create_internalized(System.IO.Stream stream)](#create-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [crop(Rectangle rectangle)](#crop-com.aspose.psd.Rectangle-) | Cropping the image. |
 | [crop(int leftShift, int rightShift, int topShift, int bottomShift)](#crop-int-int-int-int-) | Crop image with shifts. |
@@ -84,7 +79,6 @@ The text layer class
 | [findPattResource_internalized()](#findPattResource-internalized--) | Finds the  PattResource  |
 | [findResource_internalized(int typeToolKey)](#findResource-internalized-int-) | Finds the resource by unique key |
 | [getAbsoluteBounds_internalized()](#getAbsoluteBounds-internalized--) | Gets or sets the absolute bounds. |
-| [getAllowWarpRepaint_internalized()](#getAllowWarpRepaint-internalized--) | It gets or sets render warp or use PS picture |
 | [getArgb32Pixel(int x, int y)](#getArgb32Pixel-int-int-) | Gets an image 32-bit ARGB pixel. |
 | [getAutoAdjustPalette()](#getAutoAdjustPalette--) | Gets a value indicating whether automatic adjust palette. |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets a value for the background color. |
@@ -113,20 +107,20 @@ The text layer class
 | [getDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSettings)](#getDefaultRawData-com.aspose.psd.Rectangle-com.aspose.psd.RawDataSettings-) | Gets the default raw data array. |
 | [getDisplayName()](#getDisplayName--) | Gets the display name of the layer. |
 | [getDisposed()](#getDisposed--) | Gets a value indicating whether this instance is disposed. |
-| [getEngineData_internalized()](#getEngineData-internalized--) | Gets the engine data. |
 | [getExtraLength()](#getExtraLength--) | Gets the layer extra information length in bytes. |
 | [getFileFormat()](#getFileFormat--) | Gets a value of file format |
 | [getFileFormat(System.IO.Stream stream)](#getFileFormat-com.aspose.ms.System.IO.Stream-) | Gets the file format. |
 | [getFileFormat(InputStream stream)](#getFileFormat-java.io.InputStream-) | Gets the file format. |
 | [getFileFormat(String filePath)](#getFileFormat-java.lang.String-) | Gets the file format. |
+| [getFillImageProcessor_internalized(IPixelsSaver imageToProcess, Rectangle bounds)](#getFillImageProcessor-internalized-com.aspose.internal.IPixelsSaver-com.aspose.psd.Rectangle-) | Gets the rendering processor for [FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer). |
 | [getFillOpacity()](#getFillOpacity--) | Gets or sets the fill opacity. |
+| [getFillSettings()](#getFillSettings--) | Gets the fill settings. |
+| [getFillType()](#getFillType--) | Gets the type of the fill. |
 | [getFiller()](#getFiller--) | Gets or sets the layer filler. |
 | [getFittingRectangle(Rectangle rectangle, int width, int height)](#getFittingRectangle-com.aspose.psd.Rectangle-int-int-) | Gets rectangle which fits the current image. |
 | [getFittingRectangle(Rectangle rectangle, int[] pixels, int width, int height)](#getFittingRectangle-com.aspose.psd.Rectangle-int---int-int-) | Gets rectangle which fits the current image. |
 | [getFlags()](#getFlags--) | Gets or sets the layer flags. |
 | [getFoldersHierarchy_internalized()](#getFoldersHierarchy-internalized--) | Gets the list of [LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup) folders hierarchy of current layer. |
-| [getFont()](#getFont--) | Gets the font. |
-| [getFonts()](#getFonts--) | Gets the fonts set of the text layer. |
 | [getFormatSpecificPalette_internalized()](#getFormatSpecificPalette-internalized--) | Gets palette from format-specific places |
 | [getGUID_internalized()](#getGUID-internalized--) | Gets the unique identifier of this Layer instance. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
@@ -134,10 +128,8 @@ The text layer class
 | [getHorizontalResolution()](#getHorizontalResolution--) | Gets or sets the horizontal resolution, in pixels per inch, of this  RasterImage . |
 | [getImageOpacity()](#getImageOpacity--) | Gets opacity of this image. |
 | [getInnerDataTransformer_internalized()](#getInnerDataTransformer-internalized--) | Gets the inner data transformer. |
-| [getInnerText()](#getInnerText--) | Gets the text of the layer |
 | [getInterruptMonitor()](#getInterruptMonitor--) | Gets the interrupt monitor. |
 | [getLayerBlendingRangesData()](#getLayerBlendingRangesData--) | Gets or sets the layer blending ranges data. |
-| [getLayerCache_internalized()](#getLayerCache-internalized--) | Gets or sets the layer cache. |
 | [getLayerCreationDateTime()](#getLayerCreationDateTime--) | Gets or sets the layer creation date time. |
 | [getLayerCreationDateTime_internalized()](#getLayerCreationDateTime-internalized--) |  |
 | [getLayerLock()](#getLayerLock--) | Gets or sets the layer lock. |
@@ -170,7 +162,6 @@ The text layer class
 | [getRawFallbackIndex()](#getRawFallbackIndex--) | Gets or sets the fallback index to use when palette index is out of bounds |
 | [getRawIndexedColorConverter()](#getRawIndexedColorConverter--) | Gets or sets the indexed color converter |
 | [getRawLineSize()](#getRawLineSize--) | Gets the raw line size in bytes. |
-| [getResourceProcessor_internalized()](#getResourceProcessor-internalized--) | Gets or sets the resource processor. |
 | [getResources()](#getResources--) | Gets or sets the layer resources. |
 | [getRight()](#getRight--) | Gets or sets the right layer position. |
 | [getRotateMode()](#getRotateMode--) | Gets or sets the rotate mode. |
@@ -178,23 +169,15 @@ The text layer class
 | [getSize()](#getSize--) | Gets the image size. |
 | [getSkewAngle()](#getSkewAngle--) | Gets the skew angle. |
 | [getSourceImagePath_internalized()](#getSourceImagePath-internalized--) | Gets the file path of source image if it's exist. |
-| [getStringFormat_internalized()](#getStringFormat-internalized--) | Gets the string format. |
 | [getSyncRoot_internalized()](#getSyncRoot-internalized--) | Gets the synchronize root. |
-| [getText()](#getText--) | Gets the text. |
-| [getTextBoundBox()](#getTextBoundBox--) | Gets or sets the text bound box. |
-| [getTextColor()](#getTextColor--) | Gets the color of the text. |
-| [getTextData()](#getTextData--) | Gets the texts portions. |
 | [getTop()](#getTop--) | Gets or sets the top layer position. |
-| [getTransformMatrix()](#getTransformMatrix--) | Gets or sets the transform matrix |
 | [getTransparentColor()](#getTransparentColor--) | Gets the image transparent color. |
-| [getTyShResourceIfExists_internalized()](#getTyShResourceIfExists-internalized--) | Search and gets the [TypeToolInfo6Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource) resource from the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer). |
 | [getUpdateXmpData()](#getUpdateXmpData--) | Gets or sets a value indicating whether to update the XMP metadata. |
 | [getUseMemoryStrategy_internalized()](#getUseMemoryStrategy-internalized--) | Gets a value indicating whether object uses memory optimization strategy |
 | [getUseRawData()](#getUseRawData--) | Gets or sets a value indicating whether to use raw data loading when the raw data loading is available. |
 | [getUsedPalette_internalized()](#getUsedPalette-internalized--) | Gets the used palette. |
 | [getVentureLicense_internalized()](#getVentureLicense-internalized--) | Gets the venture license. |
 | [getVerticalResolution()](#getVerticalResolution--) | Gets or sets the vertical resolution, in pixels per inch, of this  RasterImage . |
-| [getWasChanged_internalized()](#getWasChanged-internalized--) | Gets or sets a value indicating whether [was changed]. |
 | [getWidth()](#getWidth--) | Gets the image width. |
 | [getXmpData()](#getXmpData--) | Gets or sets the XMP metadata. |
 | [grayscale()](#grayscale--) | Transformation of an image to its grayscale representation |
@@ -206,7 +189,6 @@ The text layer class
 | [incrementProgressMaxValue_internalized(int value)](#incrementProgressMaxValue-internalized-int-) | Gets or sets the progress max value |
 | [indicateProgress_internalized(EventType eventType)](#indicateProgress-internalized-com.aspose.psd.progressmanagement.EventType-) | Indicates the progress. |
 | [isCached()](#isCached--) | Gets a value indicating whether image data is cached currently. |
-| [isFontAvailable_internalized(Font font, GetPrivateFontCache getPrivateFontCache)](#isFontAvailable-internalized-com.aspose.psd.Font-com.aspose.internal.GetPrivateFontCache-) | Determines whether [is font available] [the specified font]. |
 | [isRawDataAvailable()](#isRawDataAvailable--) | Gets a value indicating whether raw data loading is available. |
 | [isUsePalette()](#isUsePalette--) | Gets a value indicating whether the image palette is used. |
 | [isVisible()](#isVisible--) | Gets or sets a value indicating whether the layer is visible |
@@ -237,13 +219,13 @@ The text layer class
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [onContainerSet_internalized()](#onContainerSet-internalized--) | Invoke when container of this  Image  was set. |
-| [preprocessFont_internalized(Font font, float newSize, double yyTransform)](#preprocessFont-internalized-com.aspose.psd.Font-float-double-) | Preprocesses the font. |
+| [onGlobalResourcesChanged_internalized(Object sender, GlobalResourceChangedEventArgs eventArgs)](#onGlobalResourcesChanged-internalized-java.lang.Object-com.aspose.internal.fileformats.psd.sections.GlobalResourceChangedEventArgs-) | Called when [global resources changed]. |
+| [onResourcesChange_internalized()](#onResourcesChange-internalized--) | Called when [resources change]. |
 | [readArgb32ScanLine(int scanLineIndex)](#readArgb32ScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [readScanLine(int scanLineIndex)](#readScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [removeResource_internalized(LayerResource resource)](#removeResource-internalized-com.aspose.psd.fileformats.psd.layers.LayerResource-) | Removes the resource. |
 | [replaceColor(Color oldColor, byte oldColorDiff, Color newColor)](#replaceColor-com.aspose.psd.Color-byte-com.aspose.psd.Color-) | Replaces one color to another with allowed difference and preserves original alpha value to save smooth edges. |
 | [replaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)](#replaceColor-int-byte-int-) | Replaces one color to another with allowed difference and preserves original alpha value to save smooth edges. |
-| [replaceFontWithDefault_internalized(Font font, String defaultFontName)](#replaceFontWithDefault-internalized-com.aspose.psd.Font-java.lang.String-) | Replaces the font with default. |
 | [replaceNonTransparentColors(Color newColor)](#replaceNonTransparentColors-com.aspose.psd.Color-) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges. |
 | [replaceNonTransparentColors(int newColorArgb)](#replaceNonTransparentColors-int-) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges. |
 | [resize(int newWidth, int newHeight)](#resize-int-int-) | Resizes the image. |
@@ -281,7 +263,6 @@ The text layer class
 | [save_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)](#save-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-) |  |
 | [save_internalized(StreamContainer streamContainer, int psdVersion, int bitDepth)](#save-internalized-com.aspose.psd.StreamContainer-int-int-) | Saves data to the specified stream container. |
 | [setAbsoluteBounds_internalized(Rectangle value)](#setAbsoluteBounds-internalized-com.aspose.psd.Rectangle-) | Gets or sets the absolute bounds. |
-| [setAllowWarpRepaint_internalized(boolean value)](#setAllowWarpRepaint-internalized-boolean-) | It gets or sets render warp or use PS picture |
 | [setArgb32Pixel(int x, int y, int argb32Color)](#setArgb32Pixel-int-int-int-) | Sets an image 32-bit ARGB pixel for the specified position. |
 | [setAutoAdjustPalette(boolean value)](#setAutoAdjustPalette-boolean-) | Sets a value indicating whether automatic adjust palette. |
 | [setBackgroundColor(boolean value)](#setBackgroundColor-boolean-) | Gets or sets a value indicating whether image has background color. |
@@ -297,6 +278,7 @@ The text layer class
 | [setDataStreamContainer(StreamContainer value)](#setDataStreamContainer-com.aspose.psd.StreamContainer-) | Sets the object's data stream. |
 | [setDisplayName(String value)](#setDisplayName-java.lang.String-) | Gets or sets the display name of the layer. |
 | [setFillOpacity(int value)](#setFillOpacity-int-) | Gets the fill opacity. |
+| [setFillSettings(IFillSettings value)](#setFillSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.IFillSettings-) | Gets the fill settings. |
 | [setFiller(byte value)](#setFiller-byte-) | Gets or sets the layer filler. |
 | [setFlags(byte value)](#setFlags-byte-) | Gets or sets the layer flags. |
 | [setFormatSpecificPalette_internalized(IColorPalette newPalette)](#setFormatSpecificPalette-internalized-com.aspose.psd.IColorPalette-) | Sets palette into format-specific places |
@@ -305,10 +287,8 @@ The text layer class
 | [setIgnoreAfterSave_internalized(boolean value)](#setIgnoreAfterSave-internalized-boolean-) | Sets a value indicating whether [ignore after save]. |
 | [setImageChanged_internalized(boolean value)](#setImageChanged-internalized-boolean-) | Gets or sets a value indicating whether this instance of image has changed after loading. |
 | [setInnerDataTransformer_internalized(IInnerDataTransformer value)](#setInnerDataTransformer-internalized-com.aspose.internal.IInnerDataTransformer-) | Sets the inner data transformer. |
-| [setInnerText(String value)](#setInnerText-java.lang.String-) | Gets the text of the layer |
 | [setInterruptMonitor(InterruptMonitor value)](#setInterruptMonitor-com.aspose.psd.multithreading.InterruptMonitor-) | Sets the interrupt monitor. |
 | [setLayerBlendingRangesData(LayerBlendingRangesData value)](#setLayerBlendingRangesData-com.aspose.psd.fileformats.psd.layers.LayerBlendingRangesData-) | Gets or sets the layer blending ranges data. |
-| [setLayerCache_internalized(RasterImage value)](#setLayerCache-internalized-com.aspose.psd.RasterImage-) | Gets or sets the layer cache. |
 | [setLayerCreationDateTime(Date value)](#setLayerCreationDateTime-java.util.Date-) | Gets or sets the layer creation date time. |
 | [setLayerCreationDateTime_internalized(System.DateTime value)](#setLayerCreationDateTime-internalized-com.aspose.ms.System.DateTime-) |  |
 | [setLayerLock(int value)](#setLayerLock-int-) | Gets or sets the layer lock (Note that if flag LayerFlags.TransparencyProtected is set it will be overritten by layer lock flag. |
@@ -328,14 +308,11 @@ The text layer class
 | [setRawFallbackIndex(int value)](#setRawFallbackIndex-int-) | Gets or sets the fallback index to use when palette index is out of bounds |
 | [setRawIndexedColorConverter(IIndexedColorConverter value)](#setRawIndexedColorConverter-com.aspose.psd.IIndexedColorConverter-) | Gets or sets the indexed color converter |
 | [setResolution(double dpiX, double dpiY)](#setResolution-double-double-) | Sets the resolution for this  RasterImage . |
-| [setResourceProcessor_internalized(TypeToolResourceProcessor value)](#setResourceProcessor-internalized-com.aspose.internal.fileformats.psd.layers.TypeToolResourceProcessor-) | Gets or sets the resource processor. |
 | [setResources(LayerResource[] value)](#setResources-com.aspose.psd.fileformats.psd.layers.LayerResource---) | Gets or sets the layer resources. |
 | [setRight(int value)](#setRight-int-) | Gets or sets the right layer position. |
 | [setRotateMode_internalized(int value)](#setRotateMode-internalized-int-) | Gets or sets the rotate mode. |
 | [setSheetColorHighlight(short value)](#setSheetColorHighlight-short-) | Gets or sets the decorative sheet color highlight in layers' list |
-| [setTextBoundBox(RectangleF value)](#setTextBoundBox-com.aspose.psd.RectangleF-) | Gets or sets the text bound box. |
 | [setTop(int value)](#setTop-int-) | Gets or sets the top layer position. |
-| [setTransformMatrix(double[] value)](#setTransformMatrix-double---) | Gets or sets the transform matrix |
 | [setTransparentColor(boolean value)](#setTransparentColor-boolean-) | Gets a value indicating whether image has transparent color. |
 | [setTransparentColor(Color value)](#setTransparentColor-com.aspose.psd.Color-) | Gets the image transparent color. |
 | [setUpdateXmpData(boolean value)](#setUpdateXmpData-boolean-) | Gets or sets a value indicating whether to update the XMP metadata. |
@@ -343,21 +320,13 @@ The text layer class
 | [setVentureLicense_internalized(Object ventureLicense)](#setVentureLicense-internalized-java.lang.Object-) | All Aspose products should implement this method. |
 | [setVerticalResolution(double value)](#setVerticalResolution-double-) | Gets or sets the vertical resolution, in pixels per inch, of this  RasterImage . |
 | [setVisible(boolean value)](#setVisible-boolean-) | Gets or sets a value indicating whether the layer is visible |
-| [setWasChanged_internalized(boolean value)](#setWasChanged-internalized-boolean-) | Gets or sets a value indicating whether [was changed]. |
 | [setXmpData(XmpPacketWrapper value)](#setXmpData-com.aspose.psd.xmp.XmpPacketWrapper-) | Gets or sets the XMP metadata. |
 | [shallowCopy()](#shallowCopy--) | Creates a shallow copy of the current Layer. |
 | [toBitmap()](#toBitmap--) | Converts raster image to the bitmap. |
 | [toBitmap_internalized()](#toBitmap-internalized--) |  |
 | [toString()](#toString--) |  |
+| [update()](#update--) | Updates Fill Layer Pixels Data according to actual [IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings). |
 | [updateBlendingOptions_internalized(PattResource pattResource)](#updateBlendingOptions-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-) | Updates the blending options after layer or global resources change. |
-| [updateText(String text)](#updateText-java.lang.String-) | Updates the text. |
-| [updateText(String text, Color color)](#updateText-java.lang.String-com.aspose.psd.Color-) | Updates the text. |
-| [updateText(String text, Point leftTopCoordinate)](#updateText-java.lang.String-com.aspose.psd.Point-) | Updates the text. |
-| [updateText(String text, Point leftTopCoordinate, Color color)](#updateText-java.lang.String-com.aspose.psd.Point-com.aspose.psd.Color-) | Updates the text. |
-| [updateText(String text, Point leftTopCoordinate, float fontSize)](#updateText-java.lang.String-com.aspose.psd.Point-float-) | Updates the text. |
-| [updateText(String text, Point leftTopCoordinate, float fontSize, Color color)](#updateText-java.lang.String-com.aspose.psd.Point-float-com.aspose.psd.Color-) | Updates the text. |
-| [updateText(String text, float fontSize)](#updateText-java.lang.String-float-) | Updates the text. |
-| [updateText(String text, float fontSize, Color color)](#updateText-java.lang.String-float-com.aspose.psd.Color-) | Updates the text. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -735,22 +704,6 @@ Converts to aps.
 
 **Returns:**
 com.aspose.foundation.rendering.ApsPage - The APS page.
-### correctFontSize_internalized(float newSize, double yyTransform) {#correctFontSize-internalized-float-double-}
-```
-public static float correctFontSize_internalized(float newSize, double yyTransform)
-```
-
-
-Corrects the size of the font
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newSize | float | New font size |
-| yyTransform | double | 'yy' Transform matrix parameter |
-
-**Returns:**
-float - Corrected size
 ### create(ImageOptionsBase imageOptions, int width, int height) {#create-com.aspose.psd.ImageOptionsBase-int-int-}
 ```
 public static Image create(ImageOptionsBase imageOptions, int width, int height)
@@ -799,32 +752,21 @@ Creates a new image the specified images as pages.
 
 **Returns:**
 [Image](../../com.aspose.psd/image) - The Image as IMultipageImage
-### createInstance_internalized() {#createInstance-internalized--}
+### createInstance(int fillType) {#createInstance-int-}
 ```
-public static TextLayer createInstance_internalized()
-```
-
-
-Creates the new instance of the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer) class.
-
-**Returns:**
-[TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer) - New Text Layer
-### createInstance_internalized(PsdHeader header, IColorPalette palette) {#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-}
-```
-public static TextLayer createInstance_internalized(PsdHeader header, IColorPalette palette)
+public static FillLayer createInstance(int fillType)
 ```
 
 
-Creates the new instance of the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer) class.
+Build a new instance of the [FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer) class by type of fill.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| header | com.aspose.internal.fileformats.psd.sections.PsdHeader | The header. |
-| palette | [IColorPalette](../../com.aspose.psd/icolorpalette) | The palette. |
+| fillType | int | The type of fill layer. |
 
 **Returns:**
-[TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer) - Returns the new instance of the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer) class.
+[FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer) - Returns a new instance of the [FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer) class by type of fill.
 ### createInstance_internalized(PsdHeader header, IColorPalette palette, LinkedLayersRegistry linkedLayersRegistry) {#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-com.aspose.internal.fileformats.psd.layers.LinkedLayersRegistry-}
 ```
 public static Layer createInstance_internalized(PsdHeader header, IColorPalette palette, LinkedLayersRegistry linkedLayersRegistry)
@@ -870,9 +812,9 @@ public static IPartialProcessor createPartialRotateSaver_internalized(PartialRot
 
 **Returns:**
 com.aspose.internal.IPartialProcessor
-### create_internalized(PsdHeader header, IColorPalette colorPalette, LayerAndMaskInfo layerAndMaskInfo, LayerResource[] resources) {#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-com.aspose.internal.fileformats.psd.sections.LayerAndMaskInfo-com.aspose.psd.fileformats.psd.layers.LayerResource---}
+### create_internalized(PsdHeader header, IColorPalette palette) {#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-}
 ```
-public static TextLayer create_internalized(PsdHeader header, IColorPalette colorPalette, LayerAndMaskInfo layerAndMaskInfo, LayerResource[] resources)
+public static FillLayer create_internalized(PsdHeader header, IColorPalette palette)
 ```
 
 
@@ -882,12 +824,10 @@ public static TextLayer create_internalized(PsdHeader header, IColorPalette colo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | header | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
-| colorPalette | [IColorPalette](../../com.aspose.psd/icolorpalette) |  |
-| layerAndMaskInfo | com.aspose.internal.fileformats.psd.sections.LayerAndMaskInfo |  |
-| resources | [LayerResource\[\]](../../com.aspose.psd.fileformats.psd.layers/layerresource) |  |
+| palette | [IColorPalette](../../com.aspose.psd/icolorpalette) |  |
 
 **Returns:**
-[TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer)
+[FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer)
 ### create_internalized(System.IO.Stream stream) {#create-internalized-com.aspose.ms.System.IO.Stream-}
 ```
 public static Layer create_internalized(System.IO.Stream stream)
@@ -1148,16 +1088,6 @@ Value: The absolute bounds.
 
 **Returns:**
 [Rectangle](../../com.aspose.psd/rectangle)
-### getAllowWarpRepaint_internalized() {#getAllowWarpRepaint-internalized--}
-```
-public final boolean getAllowWarpRepaint_internalized()
-```
-
-
-It gets or sets render warp or use PS picture
-
-**Returns:**
-boolean
 ### getArgb32Pixel(int x, int y) {#getArgb32Pixel-int-int-}
 ```
 public int getArgb32Pixel(int x, int y)
@@ -1510,18 +1440,6 @@ Gets a value indicating whether this instance is disposed.
 
 **Returns:**
 boolean -  true  if disposed; otherwise,  false .
-### getEngineData_internalized() {#getEngineData-internalized--}
-```
-public final EngineData getEngineData_internalized()
-```
-
-
-Gets the engine data.
-
-Value: The engine data.
-
-**Returns:**
-com.aspose.internal.fileformats.psd.layers.text.tyshresource.EngineData
 ### getExtraLength() {#getExtraLength--}
 ```
 public final int getExtraLength()
@@ -1597,6 +1515,22 @@ The file format determined does not mean that the specified image may be loaded.
 
 **Returns:**
 long - The determined file format.
+### getFillImageProcessor_internalized(IPixelsSaver imageToProcess, Rectangle bounds) {#getFillImageProcessor-internalized-com.aspose.internal.IPixelsSaver-com.aspose.psd.Rectangle-}
+```
+public final IPartialProcessor getFillImageProcessor_internalized(IPixelsSaver imageToProcess, Rectangle bounds)
+```
+
+
+Gets the rendering processor for [FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageToProcess | com.aspose.internal.IPixelsSaver | The image to rendering to. |
+| bounds | [Rectangle](../../com.aspose.psd/rectangle) | The bounds to process. |
+
+**Returns:**
+com.aspose.internal.IPartialProcessor - Return the rendering processor for [FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer).
 ### getFillOpacity() {#getFillOpacity--}
 ```
 public final int getFillOpacity()
@@ -1604,6 +1538,30 @@ public final int getFillOpacity()
 
 
 Gets or sets the fill opacity.
+
+**Returns:**
+int
+### getFillSettings() {#getFillSettings--}
+```
+public final IFillSettings getFillSettings()
+```
+
+
+Gets the fill settings.
+
+Value: The fill settings.
+
+**Returns:**
+[IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings)
+### getFillType() {#getFillType--}
+```
+public final int getFillType()
+```
+
+
+Gets the type of the fill.
+
+Value: The type of the fill.
 
 **Returns:**
 int
@@ -1676,28 +1634,6 @@ Gets the list of [LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layerg
 
 **Returns:**
 com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.Layer> - Returns the list of [LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup) folders hierarchy of current layer.
-### getFont() {#getFont--}
-```
-public final Font getFont()
-```
-
-
-Gets the font.
-
-Value: The font.
-
-**Returns:**
-[Font](../../com.aspose.psd/font)
-### getFonts() {#getFonts--}
-```
-public final TextFontInfo[] getFonts()
-```
-
-
-Gets the fonts set of the text layer.
-
-**Returns:**
-com.aspose.psd.fileformats.psd.layers.text.TextFontInfo[] - The fonts set of the text layer.
 ### getFormatSpecificPalette_internalized() {#getFormatSpecificPalette-internalized--}
 ```
 public IColorPalette getFormatSpecificPalette_internalized()
@@ -1776,18 +1712,6 @@ Value: The inner data transformer.
 
 **Returns:**
 com.aspose.internal.IInnerDataTransformer - the inner data transformer.
-### getInnerText() {#getInnerText--}
-```
-public final String getInnerText()
-```
-
-
-Gets the text of the layer
-
-Value: The text.
-
-**Returns:**
-java.lang.String
 ### getInterruptMonitor() {#getInterruptMonitor--}
 ```
 public InterruptMonitor getInterruptMonitor()
@@ -1810,18 +1734,6 @@ Value: The layer blending ranges data.
 
 **Returns:**
 [LayerBlendingRangesData](../../com.aspose.psd.fileformats.psd.layers/layerblendingrangesdata)
-### getLayerCache_internalized() {#getLayerCache-internalized--}
-```
-public final RasterImage getLayerCache_internalized()
-```
-
-
-Gets or sets the layer cache. Used for partial processing of export (since rendering of the whole layer was performed for each part all the time).
-
-Value: The cached layer.
-
-**Returns:**
-[RasterImage](../../com.aspose.psd/rasterimage)
 ### getLayerCreationDateTime() {#getLayerCreationDateTime--}
 ```
 public final Date getLayerCreationDateTime()
@@ -2201,18 +2113,6 @@ Gets the raw line size in bytes.
 
 **Returns:**
 int - The raw line size in bytes.
-### getResourceProcessor_internalized() {#getResourceProcessor-internalized--}
-```
-public final TypeToolResourceProcessor getResourceProcessor_internalized()
-```
-
-
-Gets or sets the resource processor.
-
-Value: The resource processor.
-
-**Returns:**
-com.aspose.internal.fileformats.psd.layers.TypeToolResourceProcessor
 ### getResources() {#getResources--}
 ```
 public final LayerResource[] getResources()
@@ -2289,18 +2189,6 @@ Gets the file path of source image if it's exist. Returns an empty string if can
 
 **Returns:**
 java.lang.String - The file path of source image.
-### getStringFormat_internalized() {#getStringFormat-internalized--}
-```
-public final StringFormat getStringFormat_internalized()
-```
-
-
-Gets the string format.
-
-Value: The string format.
-
-**Returns:**
-[StringFormat](../../com.aspose.psd/stringformat)
 ### getSyncRoot_internalized() {#getSyncRoot-internalized--}
 ```
 public final Object getSyncRoot_internalized()
@@ -2313,50 +2201,6 @@ Value: The synchronize root.
 
 **Returns:**
 java.lang.Object
-### getText() {#getText--}
-```
-public final String getText()
-```
-
-
-Gets the text.
-
-Value: The text.
-
-**Returns:**
-java.lang.String
-### getTextBoundBox() {#getTextBoundBox--}
-```
-public final RectangleF getTextBoundBox()
-```
-
-
-Gets or sets the text bound box.
-
-Value: The text bound box.
-
-**Returns:**
-[RectangleF](../../com.aspose.psd/rectanglef)
-### getTextColor() {#getTextColor--}
-```
-public final Color getTextColor()
-```
-
-
-Gets the color of the text.
-
-**Returns:**
-[Color](../../com.aspose.psd/color)
-### getTextData() {#getTextData--}
-```
-public final IText getTextData()
-```
-
-
-Gets the texts portions.
-
-**Returns:**
-[IText](../../com.aspose.psd.fileformats.psd.layers.text/itext) - 
 ### getTop() {#getTop--}
 ```
 public final int getTop()
@@ -2369,18 +2213,6 @@ Value: The top layer position.
 
 **Returns:**
 int
-### getTransformMatrix() {#getTransformMatrix--}
-```
-public final double[] getTransformMatrix()
-```
-
-
-Gets or sets the transform matrix
-
-Value: The transform matrix
-
-**Returns:**
-double[]
 ### getTransparentColor() {#getTransparentColor--}
 ```
 public Color getTransparentColor()
@@ -2391,16 +2223,6 @@ Gets the image transparent color.
 
 **Returns:**
 [Color](../../com.aspose.psd/color)
-### getTyShResourceIfExists_internalized() {#getTyShResourceIfExists-internalized--}
-```
-public final TypeToolInfo6Resource getTyShResourceIfExists_internalized()
-```
-
-
-Search and gets the [TypeToolInfo6Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource) resource from the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer).
-
-**Returns:**
-[TypeToolInfo6Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource) - Returns the [TypeToolInfo6Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource) resource from the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer).
 ### getUpdateXmpData() {#getUpdateXmpData--}
 ```
 public boolean getUpdateXmpData()
@@ -2465,18 +2287,6 @@ Gets or sets the vertical resolution, in pixels per inch, of this  RasterImage .
 double - The vertical resolution.
 
 Note by default this value is always 96 since different platforms cannot return the screen resolution. You may consider using the SetResolution method for updating both resolution values in single call.
-### getWasChanged_internalized() {#getWasChanged-internalized--}
-```
-public final boolean getWasChanged_internalized()
-```
-
-
-Gets or sets a value indicating whether [was changed].
-
-Value:  true  if [was changed]; otherwise,  false .
-
-**Returns:**
-boolean
 ### getWidth() {#getWidth--}
 ```
 public int getWidth()
@@ -2597,22 +2407,6 @@ Gets a value indicating whether image data is cached currently.
 
 **Returns:**
 boolean -  true  if image data is cached; otherwise,  false .
-### isFontAvailable_internalized(Font font, GetPrivateFontCache getPrivateFontCache) {#isFontAvailable-internalized-com.aspose.psd.Font-com.aspose.internal.GetPrivateFontCache-}
-```
-public static boolean isFontAvailable_internalized(Font font, GetPrivateFontCache getPrivateFontCache)
-```
-
-
-Determines whether [is font available] [the specified font].
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| font | [Font](../../com.aspose.psd/font) | The font. |
-| getPrivateFontCache | com.aspose.internal.GetPrivateFontCache |  |
-
-**Returns:**
-boolean - True if font is Available
 ### isRawDataAvailable() {#isRawDataAvailable--}
 ```
 public boolean isRawDataAvailable()
@@ -3024,23 +2818,28 @@ public void onContainerSet_internalized()
 
 Invoke when container of this  Image  was set.
 
-### preprocessFont_internalized(Font font, float newSize, double yyTransform) {#preprocessFont-internalized-com.aspose.psd.Font-float-double-}
+### onGlobalResourcesChanged_internalized(Object sender, GlobalResourceChangedEventArgs eventArgs) {#onGlobalResourcesChanged-internalized-java.lang.Object-com.aspose.internal.fileformats.psd.sections.GlobalResourceChangedEventArgs-}
 ```
-public Font preprocessFont_internalized(Font font, float newSize, double yyTransform)
+public final void onGlobalResourcesChanged_internalized(Object sender, GlobalResourceChangedEventArgs eventArgs)
 ```
 
 
-Preprocesses the font.
+Called when [global resources changed].
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| font | [Font](../../com.aspose.psd/font) | The font. |
-| newSize | float | New font size |
-| yyTransform | double | 'yy' Transform matrix parameter |
+| sender | java.lang.Object | The sender. |
+| eventArgs | com.aspose.internal.fileformats.psd.sections.GlobalResourceChangedEventArgs | The EventArgs instance containing the event data. |
 
-**Returns:**
-[Font](../../com.aspose.psd/font) - \{@link \#\#Aspose\#PSD\} instance based on resolved font info
+### onResourcesChange_internalized() {#onResourcesChange-internalized--}
+```
+public void onResourcesChange_internalized()
+```
+
+
+Called when [resources change].
+
 ### readArgb32ScanLine(int scanLineIndex) {#readArgb32ScanLine-int-}
 ```
 public int[] readArgb32ScanLine(int scanLineIndex)
@@ -3114,22 +2913,6 @@ Replaces one color to another with allowed difference and preserves original alp
 | oldColorDiff | byte | Allowed difference in old color to be able to widen replaced color tone. |
 | newColorArgb | int | New color ARGB value to replace old color with. |
 
-### replaceFontWithDefault_internalized(Font font, String defaultFontName) {#replaceFontWithDefault-internalized-com.aspose.psd.Font-java.lang.String-}
-```
-public static Font replaceFontWithDefault_internalized(Font font, String defaultFontName)
-```
-
-
-Replaces the font with default.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| font | [Font](../../com.aspose.psd/font) | The font. |
-| defaultFontName | java.lang.String | Default name of the font. |
-
-**Returns:**
-[Font](../../com.aspose.psd/font) - New font
 ### replaceNonTransparentColors(Color newColor) {#replaceNonTransparentColors-com.aspose.psd.Color-}
 ```
 public void replaceNonTransparentColors(Color newColor)
@@ -3191,14 +2974,14 @@ public void resize(int newWidth, int newHeight, int resizeType)
 ```
 
 
-Resizes the image. The default  ResizeType.LeftTopToLeftTop  is used.
+Resizes the image.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | newWidth | int | The new width. |
 | newHeight | int | The new height. |
-| resizeType | int | The type of resize transformation  ResizeType  |
+| resizeType | int | The resize type. |
 
 ### resizeChannelsData_internalized(Rectangle rect) {#resizeChannelsData-internalized-com.aspose.psd.Rectangle-}
 ```
@@ -3642,19 +3425,6 @@ Value: The absolute bounds.
 | --- | --- | --- |
 | value | [Rectangle](../../com.aspose.psd/rectangle) |  |
 
-### setAllowWarpRepaint_internalized(boolean value) {#setAllowWarpRepaint-internalized-boolean-}
-```
-public final void setAllowWarpRepaint_internalized(boolean value)
-```
-
-
-It gets or sets render warp or use PS picture
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean |  |
-
 ### setArgb32Pixel(int x, int y, int argb32Color) {#setArgb32Pixel-int-int-int-}
 ```
 public void setArgb32Pixel(int x, int y, int argb32Color)
@@ -3866,6 +3636,21 @@ Gets the fill opacity.
 | --- | --- | --- |
 | value | int |  |
 
+### setFillSettings(IFillSettings value) {#setFillSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.IFillSettings-}
+```
+public void setFillSettings(IFillSettings value)
+```
+
+
+Gets the fill settings.
+
+Value: The fill settings.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings) |  |
+
 ### setFiller(byte value) {#setFiller-byte-}
 ```
 public final void setFiller(byte value)
@@ -3982,21 +3767,6 @@ Value: The inner data transformer.
 | --- | --- | --- |
 | value | com.aspose.internal.IInnerDataTransformer | the inner data transformer. |
 
-### setInnerText(String value) {#setInnerText-java.lang.String-}
-```
-public final void setInnerText(String value)
-```
-
-
-Gets the text of the layer
-
-Value: The text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
 ### setInterruptMonitor(InterruptMonitor value) {#setInterruptMonitor-com.aspose.psd.multithreading.InterruptMonitor-}
 ```
 public void setInterruptMonitor(InterruptMonitor value)
@@ -4024,21 +3794,6 @@ Value: The layer blending ranges data.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [LayerBlendingRangesData](../../com.aspose.psd.fileformats.psd.layers/layerblendingrangesdata) |  |
-
-### setLayerCache_internalized(RasterImage value) {#setLayerCache-internalized-com.aspose.psd.RasterImage-}
-```
-public final void setLayerCache_internalized(RasterImage value)
-```
-
-
-Gets or sets the layer cache. Used for partial processing of export (since rendering of the whole layer was performed for each part all the time).
-
-Value: The cached layer.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [RasterImage](../../com.aspose.psd/rasterimage) |  |
 
 ### setLayerCreationDateTime(Date value) {#setLayerCreationDateTime-java.util.Date-}
 ```
@@ -4306,21 +4061,6 @@ Sets the resolution for this  RasterImage .
 | dpiX | double | The horizontal resolution, in dots per inch, of the  RasterImage . |
 | dpiY | double | The vertical resolution, in dots per inch, of the  RasterImage . |
 
-### setResourceProcessor_internalized(TypeToolResourceProcessor value) {#setResourceProcessor-internalized-com.aspose.internal.fileformats.psd.layers.TypeToolResourceProcessor-}
-```
-public final void setResourceProcessor_internalized(TypeToolResourceProcessor value)
-```
-
-
-Gets or sets the resource processor.
-
-Value: The resource processor.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.internal.fileformats.psd.layers.TypeToolResourceProcessor |  |
-
 ### setResources(LayerResource[] value) {#setResources-com.aspose.psd.fileformats.psd.layers.LayerResource---}
 ```
 public final void setResources(LayerResource[] value)
@@ -4379,21 +4119,6 @@ Value: The sheet color highlight.
 | --- | --- | --- |
 | value | short |  |
 
-### setTextBoundBox(RectangleF value) {#setTextBoundBox-com.aspose.psd.RectangleF-}
-```
-public final void setTextBoundBox(RectangleF value)
-```
-
-
-Gets or sets the text bound box.
-
-Value: The text bound box.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [RectangleF](../../com.aspose.psd/rectanglef) |  |
-
 ### setTop(int value) {#setTop-int-}
 ```
 public final void setTop(int value)
@@ -4408,21 +4133,6 @@ Value: The top layer position.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
-
-### setTransformMatrix(double[] value) {#setTransformMatrix-double---}
-```
-public final void setTransformMatrix(double[] value)
-```
-
-
-Gets or sets the transform matrix
-
-Value: The transform matrix
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double[] |  |
 
 ### setTransparentColor(boolean value) {#setTransparentColor-boolean-}
 ```
@@ -4519,21 +4229,6 @@ Value:  true  if this instance is visible; otherwise,  false .
 | --- | --- | --- |
 | value | boolean |  |
 
-### setWasChanged_internalized(boolean value) {#setWasChanged-internalized-boolean-}
-```
-public final void setWasChanged_internalized(boolean value)
-```
-
-
-Gets or sets a value indicating whether [was changed].
-
-Value:  true  if [was changed]; otherwise,  false .
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean |  |
-
 ### setXmpData(XmpPacketWrapper value) {#setXmpData-com.aspose.psd.xmp.XmpPacketWrapper-}
 ```
 public void setXmpData(XmpPacketWrapper value)
@@ -4587,6 +4282,14 @@ public String toString()
 
 **Returns:**
 java.lang.String
+### update() {#update--}
+```
+public final void update()
+```
+
+
+Updates Fill Layer Pixels Data according to actual [IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings).
+
 ### updateBlendingOptions_internalized(PattResource pattResource) {#updateBlendingOptions-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-}
 ```
 public final void updateBlendingOptions_internalized(PattResource pattResource)
@@ -4599,122 +4302,6 @@ Updates the blending options after layer or global resources change.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pattResource | [PattResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/pattresource) |  |
-
-### updateText(String text) {#updateText-java.lang.String-}
-```
-public final void updateText(String text)
-```
-
-
-Updates the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | The text value. |
-
-### updateText(String text, Color color) {#updateText-java.lang.String-com.aspose.psd.Color-}
-```
-public final void updateText(String text, Color color)
-```
-
-
-Updates the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | The text value. |
-| color | [Color](../../com.aspose.psd/color) | The color value. |
-
-### updateText(String text, Point leftTopCoordinate) {#updateText-java.lang.String-com.aspose.psd.Point-}
-```
-public final void updateText(String text, Point leftTopCoordinate)
-```
-
-
-Updates the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | The text value. |
-| leftTopCoordinate | [Point](../../com.aspose.psd/point) | The left top coordinate. |
-
-### updateText(String text, Point leftTopCoordinate, Color color) {#updateText-java.lang.String-com.aspose.psd.Point-com.aspose.psd.Color-}
-```
-public final void updateText(String text, Point leftTopCoordinate, Color color)
-```
-
-
-Updates the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | The text value. |
-| leftTopCoordinate | [Point](../../com.aspose.psd/point) | The left top coordinate. |
-| color | [Color](../../com.aspose.psd/color) | The color value. |
-
-### updateText(String text, Point leftTopCoordinate, float fontSize) {#updateText-java.lang.String-com.aspose.psd.Point-float-}
-```
-public final void updateText(String text, Point leftTopCoordinate, float fontSize)
-```
-
-
-Updates the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | The text value. |
-| leftTopCoordinate | [Point](../../com.aspose.psd/point) | The left top coordinate. |
-| fontSize | float | Size of the font. |
-
-### updateText(String text, Point leftTopCoordinate, float fontSize, Color color) {#updateText-java.lang.String-com.aspose.psd.Point-float-com.aspose.psd.Color-}
-```
-public final void updateText(String text, Point leftTopCoordinate, float fontSize, Color color)
-```
-
-
-Updates the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | The text value. |
-| leftTopCoordinate | [Point](../../com.aspose.psd/point) | The left top coordinate. |
-| fontSize | float | Size of the font. |
-| color | [Color](../../com.aspose.psd/color) | The color value. |
-
-### updateText(String text, float fontSize) {#updateText-java.lang.String-float-}
-```
-public final void updateText(String text, float fontSize)
-```
-
-
-Updates the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | The text value. |
-| fontSize | float | Size of the font. |
-
-### updateText(String text, float fontSize, Color color) {#updateText-java.lang.String-float-com.aspose.psd.Color-}
-```
-public final void updateText(String text, float fontSize, Color color)
-```
-
-
-Updates the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | The text value. |
-| fontSize | float | Size of the font. |
-| color | [Color](../../com.aspose.psd/color) | The color value. |
 
 ### wait() {#wait--}
 ```

@@ -3,7 +3,7 @@ title: IGradientColorPoint
 second_title: Aspose.PSD for Java API Reference
 description: Base interface for fill settings
 type: docs
-weight: 29
+weight: 30
 url: /java/com.aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
 ```

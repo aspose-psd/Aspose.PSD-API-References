@@ -3,7 +3,7 @@ title: ShapeLayer
 second_title: Aspose.PSD for Java API Reference
 description: Shape layer.
 type: docs
-weight: 27
+weight: 28
 url: /java/com.aspose.psd.fileformats.psd.layers/shapelayer/
 ---
 
@@ -227,6 +227,8 @@ Shape layer. Encapsulates the logic of work with Shape layer and related resourc
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [onContainerSet_internalized()](#onContainerSet-internalized--) | Invoke when container of this  Image  was set. |
+| [onGlobalResourcesChanged_internalized(Object sender, GlobalResourceChangedEventArgs eventArgs)](#onGlobalResourcesChanged-internalized-java.lang.Object-com.aspose.internal.fileformats.psd.sections.GlobalResourceChangedEventArgs-) | Called when [global resources changed]. |
+| [onResourcesChange_internalized()](#onResourcesChange-internalized--) | Called when [resources change]. |
 | [readArgb32ScanLine(int scanLineIndex)](#readArgb32ScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [readScanLine(int scanLineIndex)](#readScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [removeResource_internalized(LayerResource resource)](#removeResource-internalized-com.aspose.psd.fileformats.psd.layers.LayerResource-) | Removes the resource. |
@@ -2817,6 +2819,28 @@ public void onContainerSet_internalized()
 
 
 Invoke when container of this  Image  was set.
+
+### onGlobalResourcesChanged_internalized(Object sender, GlobalResourceChangedEventArgs eventArgs) {#onGlobalResourcesChanged-internalized-java.lang.Object-com.aspose.internal.fileformats.psd.sections.GlobalResourceChangedEventArgs-}
+```
+public final void onGlobalResourcesChanged_internalized(Object sender, GlobalResourceChangedEventArgs eventArgs)
+```
+
+
+Called when [global resources changed].
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sender | java.lang.Object | The sender. |
+| eventArgs | com.aspose.internal.fileformats.psd.sections.GlobalResourceChangedEventArgs | The EventArgs instance containing the event data. |
+
+### onResourcesChange_internalized() {#onResourcesChange-internalized--}
+```
+public void onResourcesChange_internalized()
+```
+
+
+Called when [resources change].
 
 ### readArgb32ScanLine(int scanLineIndex) {#readArgb32ScanLine-int-}
 ```

@@ -3,7 +3,7 @@ title: LayerMaskData
 second_title: Aspose.PSD for Java API Reference
 description: Defines base LayerMaskData class which contains information about the layer mask data in the PSD file.
 type: docs
-weight: 19
+weight: 20
 url: /java/com.aspose.psd.fileformats.psd.layers/layermaskdata/
 ---
 

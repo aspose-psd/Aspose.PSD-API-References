@@ -3,7 +3,7 @@ title: LayerGroup
 second_title: Aspose.PSD for Java API Reference
 description: Group layer class
 type: docs
-weight: 17
+weight: 18
 url: /java/com.aspose.psd.fileformats.psd.layers/layergroup/
 ---
 
@@ -224,6 +224,7 @@ Group layer class
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [onContainerSet_internalized()](#onContainerSet-internalized--) | Invoke when container of this  Image  was set. |
+| [onResourcesChange_internalized()](#onResourcesChange-internalized--) |  |
 | [readArgb32ScanLine(int scanLineIndex)](#readArgb32ScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [readScanLine(int scanLineIndex)](#readScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [removeResource_internalized(LayerResource resource)](#removeResource-internalized-com.aspose.psd.fileformats.psd.layers.LayerResource-) | Removes the resource. |
@@ -2875,6 +2876,14 @@ public void onContainerSet_internalized()
 
 
 Invoke when container of this  Image  was set.
+
+### onResourcesChange_internalized() {#onResourcesChange-internalized--}
+```
+public void onResourcesChange_internalized()
+```
+
+
+
 
 ### readArgb32ScanLine(int scanLineIndex) {#readArgb32ScanLine-int-}
 ```
