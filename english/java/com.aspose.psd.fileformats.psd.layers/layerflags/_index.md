@@ -3,7 +3,7 @@ title: LayerFlags
 second_title: Aspose.PSD for Java API Reference
 description: The layer flags
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.psd.fileformats.psd.layers/layerflags/
 ---
 

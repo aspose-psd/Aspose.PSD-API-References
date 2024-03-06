@@ -3,7 +3,7 @@ title: LinkedLayersManager
 second_title: Aspose.PSD for Java API Reference
 description: Linked layers manager class.
 type: docs
-weight: 25
+weight: 26
 url: /java/com.aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
 

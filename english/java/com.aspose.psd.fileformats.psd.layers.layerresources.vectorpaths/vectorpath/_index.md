@@ -26,7 +26,7 @@ The class that contains vector paths.
 
 | Method | Description |
 | --- | --- |
-| [create_internalized(VectorPathDataResource vectorPathDataResource, Size imageSize)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.VectorPathDataResource-com.aspose.psd.Size-) |  |
+| [create_internalized(VectorPathDataResource vectorPathDataResource)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.VectorPathDataResource-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [getItems()](#getItems--) | Gets array of Shapes in a Path. |
@@ -56,9 +56,9 @@ public VectorPath()
 
 Initializes a new instance of VectorPath.
 
-### create_internalized(VectorPathDataResource vectorPathDataResource, Size imageSize) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.VectorPathDataResource-com.aspose.psd.Size-}
+### create_internalized(VectorPathDataResource vectorPathDataResource) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.VectorPathDataResource-}
 ```
-public static VectorPath create_internalized(VectorPathDataResource vectorPathDataResource, Size imageSize)
+public static VectorPath create_internalized(VectorPathDataResource vectorPathDataResource)
 ```
 
 
@@ -68,7 +68,6 @@ public static VectorPath create_internalized(VectorPathDataResource vectorPathDa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | vectorPathDataResource | [VectorPathDataResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths/vectorpathdataresource) |  |
-| imageSize | [Size](../../com.aspose.psd/size) |  |
 
 **Returns:**
 [VectorPath](../../com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths/vectorpath)

@@ -3,7 +3,7 @@ title: SectionDividerLayer
 second_title: Aspose.PSD for Java API Reference
 description: The section divider layer to mark the bounds of the folder layer group.
 type: docs
-weight: 26
+weight: 27
 url: /java/com.aspose.psd.fileformats.psd.layers/sectiondividerlayer/
 ---
 

@@ -3,7 +3,7 @@ title: GlobalLayerMaskInfo
 second_title: Aspose.PSD for Java API Reference
 description: The global layer mask section.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.psd.fileformats.psd.layers/globallayermaskinfo/
 ---
 
