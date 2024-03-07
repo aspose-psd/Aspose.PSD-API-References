@@ -11,7 +11,7 @@ The jfif density units.
 
 **Full Name:** aspose.psd.fileformats.jpeg.JfifDensityUnits
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Members**
 | **Member name** | **Description** |

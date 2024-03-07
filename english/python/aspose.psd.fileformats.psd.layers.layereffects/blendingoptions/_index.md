@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layereffects.BlendingOptions
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

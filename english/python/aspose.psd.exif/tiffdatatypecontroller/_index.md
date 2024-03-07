@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.exif/tiffdatatypecontroller/
 
 **Full Name:** aspose.psd.exif.TiffDataTypeController
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Constructors**
 | **Name** | **Description** |
