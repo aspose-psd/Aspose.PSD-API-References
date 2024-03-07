@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.asynctask/asynctaskprogress/
 
 **Full Name:** aspose.psd.asynctask.AsyncTaskProgress
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Constructors**
 | **Name** | **Description** |

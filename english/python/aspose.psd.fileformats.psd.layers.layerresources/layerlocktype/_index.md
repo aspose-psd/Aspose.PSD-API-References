@@ -11,7 +11,7 @@ Layer lock options
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LayerLockType
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Members**
 | **Member name** | **Description** |

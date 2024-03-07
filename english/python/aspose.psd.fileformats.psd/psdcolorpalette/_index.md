@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd/psdcolorpalette/
 
 **Inheritance:** IPsdColorPalette, IColorPalette
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Constructors**
 | **Name** | **Description** |

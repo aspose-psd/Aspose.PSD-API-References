@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.coreexceptions/indexoutofrangeexception/
 
 **Full Name:** aspose.psd.coreexceptions.IndexOutOFRangeException
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Constructors**
 | **Name** | **Description** |

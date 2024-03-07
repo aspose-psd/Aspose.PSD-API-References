@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, Layer
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Constructors**
 | **Name** | **Description** |
