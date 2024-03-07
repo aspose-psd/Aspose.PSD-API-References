@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.tiff
 second_title: Aspose.PSD for Java API Reference
 description: The package handles Tiff file format processing.
 type: docs
-weight: 54
+weight: 53
 url: /java/com.aspose.psd.fileformats.tiff/
 ---
 

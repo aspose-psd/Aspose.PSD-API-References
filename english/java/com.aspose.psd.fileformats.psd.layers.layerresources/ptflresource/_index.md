@@ -36,6 +36,7 @@ Class PtFlResource. Contains Pattern Fill Layer Data.
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
+| [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
@@ -57,6 +58,7 @@ Class PtFlResource. Contains Pattern Fill Layer Data.
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
+| [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setLinkedWithLayer(boolean value)](#setLinkedWithLayer-boolean-) | Gets or sets a value indicating whether this instance is linked with layer. |
 | [setOffset(Point value)](#setOffset-com.aspose.psd.Point-) | Gets or sets the offset. |
@@ -169,6 +171,18 @@ Value:  true  if [align with layer]; otherwise,  false .
 
 **Returns:**
 boolean
+### getAngle() {#getAngle--}
+```
+public final double getAngle()
+```
+
+
+Gets or sets the angle.
+
+Value: The angle.
+
+**Returns:**
+double
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -416,6 +430,21 @@ Value:  true  if [align with layer]; otherwise,  false .
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### setAngle(double value) {#setAngle-double-}
+```
+public final void setAngle(double value)
+```
+
+
+Gets or sets the angle.
+
+Value: The angle.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double |  |
 
 ### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
 ```

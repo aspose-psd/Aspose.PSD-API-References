@@ -3,7 +3,7 @@ title: PtFlResource.Signature
 second_title: Aspose.PSD for .NET API Reference
 description: PtFlResource property. Gets the layer resource signature
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/
 ---
 {{< psd/tize >}}

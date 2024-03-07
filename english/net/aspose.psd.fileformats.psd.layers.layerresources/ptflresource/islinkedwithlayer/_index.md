@@ -3,7 +3,7 @@ title: PtFlResource.IsLinkedWithLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PtFlResource property. Gets or sets a value indicating whether this instance is linked with layer
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/
 ---
 {{< psd/tize >}}

@@ -15,6 +15,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers/
 | [BlendMode](../com.aspose.psd.fileformats.psd.layers/blendmode) | The layer blend mode. |
 | [BlendRange](../com.aspose.psd.fileformats.psd.layers/blendrange) | The blend range. |
 | [ChannelInformation](../com.aspose.psd.fileformats.psd.layers/channelinformation) | The channel information. |
+| [FillLayer](../com.aspose.psd.fileformats.psd.layers/filllayer) | Fill layer. |
 | [GlobalLayerMaskInfo](../com.aspose.psd.fileformats.psd.layers/globallayermaskinfo) | The global layer mask section. |
 | [Layer](../com.aspose.psd.fileformats.psd.layers/layer) | The psd layer. |
 | [LayerBlendingRangesData](../com.aspose.psd.fileformats.psd.layers/layerblendingrangesdata) | The layer blending ranges data. |
