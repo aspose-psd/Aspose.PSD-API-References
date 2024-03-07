@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.ai/aiimage/
 
 **Inheritance:** IObjectWithBounds, Image
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -22,6 +22,7 @@ url: /python-net/aspose.psd.fileformats.ai/aiimage/
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
+| active_page_index | int | r/w | Gets or sets the index of the active page. |
 | auto_adjust_palette | bool | r/w | Gets or sets a value indicating whether automatic adjust palette. |
 | background_color | [Color](/psd/python-net/aspose.psd/color) | r/w | Gets or sets a value for the background color. |
 | bits_per_pixel | int | r | Gets the image bits per pixel count. |

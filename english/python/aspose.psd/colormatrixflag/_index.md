@@ -11,7 +11,7 @@ Specifies the types of images and colors that will be affected by the color and 
 
 **Full Name:** aspose.psd.ColorMatrixFlag
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Members**
 | **Member name** | **Description** |

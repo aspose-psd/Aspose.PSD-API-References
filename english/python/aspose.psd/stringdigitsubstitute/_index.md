@@ -11,7 +11,7 @@ The enumeration specifies how to substitute digits in a string according to a us
 
 **Full Name:** aspose.psd.StringDigitSubstitute
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Members**
 | **Member name** | **Description** |

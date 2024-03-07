@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 
 **Inheritance:** ILayerEffect
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

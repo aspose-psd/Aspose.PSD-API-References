@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykcorrecti
 
 **Full Name:** aspose.psd.fileformats.psd.layers.adjustmentlayers.CmykCorrection
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ Represents the character set used.
 
 **Full Name:** aspose.psd.CharacterSet
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Members**
 | **Member name** | **Description** |

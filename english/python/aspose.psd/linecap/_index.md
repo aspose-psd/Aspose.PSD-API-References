@@ -11,7 +11,7 @@ Specifies the available cap styles with which a [Pen](/psd/python-net/aspose.psd
 
 **Full Name:** aspose.psd.LineCap
 
-**Aspose.PSD Version:** 23.12.0
+**Aspose.PSD Version:** 24.1.0
 
 ## **Members**
 | **Member name** | **Description** |
