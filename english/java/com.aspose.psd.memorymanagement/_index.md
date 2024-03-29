@@ -3,7 +3,7 @@ title: com.aspose.psd.memorymanagement
 second_title: Aspose.PSD for Java API Reference
 description: The namespace contains memory management routines.
 type: docs
-weight: 66
+weight: 69
 url: /java/com.aspose.psd.memorymanagement/
 ---
 

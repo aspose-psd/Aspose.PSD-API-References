@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.types.complex.resourceevent
 second_title: Aspose.PSD for Java API Reference
 description: The package contains class that is a high level event that occured in the processing of this document.
 type: docs
-weight: 86
+weight: 89
 url: /java/com.aspose.psd.xmp.types.complex.resourceevent/
 ---
 

@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.psd.resources.enums_
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 51
+weight: 54
 url: /java/com.aspose.psd.fileformats.psd.resources.enums_/
 ---
 

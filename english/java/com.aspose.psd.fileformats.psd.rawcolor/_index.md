@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.psd.rawcolor
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 49
+weight: 52
 url: /java/com.aspose.psd.fileformats.psd.rawcolor/
 ---
 
