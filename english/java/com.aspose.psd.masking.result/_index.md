@@ -3,7 +3,7 @@ title: com.aspose.psd.masking.result
 second_title: Aspose.PSD for Java API Reference
 description: The namespace handles ImageMasking.Result processing.
 type: docs
-weight: 65
+weight: 68
 url: /java/com.aspose.psd.masking.result/
 ---
 

@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.schemas.pdf
 second_title: Aspose.PSD for Java API Reference
 description: The package contains related helper classes constants and methods used with Adobe PDF documents.
 type: docs
-weight: 74
+weight: 77
 url: /java/com.aspose.psd.xmp.schemas.pdf/
 ---
 

@@ -46,6 +46,9 @@ is_root: true
 | [com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources](./com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources) |  |
 | [com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures](./com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures) |  |
 | [com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths](./com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths) |  |
+| [com.aspose.psd.fileformats.psd.layers.smartfilters](./com.aspose.psd.fileformats.psd.layers.smartfilters) |  |
+| [com.aspose.psd.fileformats.psd.layers.smartfilters.filters](./com.aspose.psd.fileformats.psd.layers.smartfilters.filters) |  |
+| [com.aspose.psd.fileformats.psd.layers.smartfilters.rendering](./com.aspose.psd.fileformats.psd.layers.smartfilters.rendering) |  |
 | [com.aspose.psd.fileformats.psd.layers.smartobjects](./com.aspose.psd.fileformats.psd.layers.smartobjects) |  |
 | [com.aspose.psd.fileformats.psd.layers.text](./com.aspose.psd.fileformats.psd.layers.text) |  |
 | [com.aspose.psd.fileformats.psd.layers.text.rendering](./com.aspose.psd.fileformats.psd.layers.text.rendering) |  |
