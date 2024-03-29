@@ -2409,7 +2409,7 @@ public final SmartFilters getSmartFilters()
 Gets the smart filters.
 
 **Returns:**
-com.aspose.internal.fileformats.psd.layers.smartfilters.SmartFilters
+[SmartFilters](../../com.aspose.psd.fileformats.psd.layers.smartfilters/smartfilters)
 ### getSmartObjectProvider() {#getSmartObjectProvider--}
 ```
 public final SmartObjectProvider getSmartObjectProvider()
