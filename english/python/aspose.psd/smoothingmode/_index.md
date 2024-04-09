@@ -11,7 +11,7 @@ Specifies whether smoothing (antialiasing) is applied to lines and curves and th
 
 **Full Name:** aspose.psd.SmoothingMode
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,7 +11,7 @@ Specifies the quality level to use during compositing.
 
 **Full Name:** aspose.psd.CompositingQuality
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Members**
 | **Member name** | **Description** |

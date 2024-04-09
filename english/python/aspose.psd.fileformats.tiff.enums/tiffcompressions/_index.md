@@ -11,7 +11,7 @@ Holds compression types
 
 **Full Name:** aspose.psd.fileformats.tiff.enums.TiffCompressions
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Members**
 | **Member name** | **Description** |

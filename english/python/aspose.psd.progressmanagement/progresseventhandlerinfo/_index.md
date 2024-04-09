@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 
 **Full Name:** aspose.psd.progressmanagement.ProgressEventHandlerInfo
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

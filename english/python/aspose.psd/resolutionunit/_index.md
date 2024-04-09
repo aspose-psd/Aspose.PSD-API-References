@@ -11,7 +11,7 @@ Resolution unit enum.
 
 **Full Name:** aspose.psd.ResolutionUnit
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Members**
 | **Member name** | **Description** |

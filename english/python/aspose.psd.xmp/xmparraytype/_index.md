@@ -11,7 +11,7 @@ Represents array type in [XmpArray](/psd/python-net/aspose.psd.xmp/xmparray/).
 
 **Full Name:** aspose.psd.xmp.XmpArrayType
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Members**
 | **Member name** | **Description** |

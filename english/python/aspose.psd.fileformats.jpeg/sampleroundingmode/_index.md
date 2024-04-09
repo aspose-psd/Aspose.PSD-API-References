@@ -11,7 +11,7 @@ Defines a way in which an n-bit value is converted to an 8-bit value.
 
 **Full Name:** aspose.psd.fileformats.jpeg.SampleRoundingMode
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Members**
 | **Member name** | **Description** |

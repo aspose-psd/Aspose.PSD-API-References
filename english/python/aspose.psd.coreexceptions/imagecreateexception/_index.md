@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.coreexceptions/imagecreateexception/
 
 **Inheritance:** ImageException
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Constructors**
 | **Name** | **Description** |
