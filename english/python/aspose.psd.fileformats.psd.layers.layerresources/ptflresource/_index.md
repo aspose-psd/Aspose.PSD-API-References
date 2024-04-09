@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 
 **Inheritance:** FillLayerResource
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -26,6 +26,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 | RESOURCE_SIGNATURE [static] | int | r | The common resource signature. |
 | TYPE_TOOL_KEY [static] | int | r | The type tool info key. |
 | align_with_layer | bool | r/w | Gets or sets a value indicating whether [align with layer]. |
+| angle | double | r/w | Gets or sets the angle. |
 | is_linked_with_layer | bool | r/w | Gets or sets a value indicating whether this instance is linked with layer. |
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the layer resource length in bytes. |

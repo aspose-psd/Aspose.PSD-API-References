@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructu
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.IOSTypeStructureLoader
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Methods**
 | **Name** | **Description** |

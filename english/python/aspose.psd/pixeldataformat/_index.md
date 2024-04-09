@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/pixeldataformat/
 
 **Full Name:** aspose.psd.PixelDataFormat
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

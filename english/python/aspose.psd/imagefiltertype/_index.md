@@ -11,7 +11,7 @@ Image filters to use
 
 **Full Name:** aspose.psd.ImageFilterType
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Members**
 | **Member name** | **Description** |

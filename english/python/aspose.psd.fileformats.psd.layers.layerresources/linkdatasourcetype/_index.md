@@ -11,7 +11,7 @@ Defines the LinkDataSourceType enumeration for the data sources in the PSD link 
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LinkDataSourceType
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Members**
 | **Member name** | **Description** |
