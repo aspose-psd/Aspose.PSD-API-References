@@ -3,7 +3,7 @@ title: PsdImage.Crop
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Cropping the image
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PsdImage.AdjustGamma
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Gammacorrection of an image
 type: docs
-weight: 500
+weight: 510
 url: /net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
 {{< psd/tize >}}

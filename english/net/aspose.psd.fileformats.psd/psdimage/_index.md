@@ -105,6 +105,7 @@ public sealed class PsdImage : RasterCachedImage
 | [AddPosterizeAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addposterizeadjustmentlayer/)() | Adds Posterize Adjustment layer. |
 | [AddRegularLayer](../../aspose.psd.fileformats.psd/psdimage/addregularlayer/)() | Adds a new regular layer. |
 | [AddSelectiveColorAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addselectivecoloradjustmentlayer/)() | Adds the selective color adjustment layer. |
+| [AddShapeLayer](../../aspose.psd.fileformats.psd/psdimage/addshapelayer/)() | Add empty Shape layer. Without paths. They should be added to shape layer before save. |
 | [AddTextLayer](../../aspose.psd.fileformats.psd/psdimage/addtextlayer/)(string, Rectangle) | Adds a new Text layer. |
 | [AddThresholdAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addthresholdadjustmentlayer/)() | Adds the Threshold adjustment layer. |
 | [AddVibranceAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/)() | Adds the Vibrance adjustment layer. |
