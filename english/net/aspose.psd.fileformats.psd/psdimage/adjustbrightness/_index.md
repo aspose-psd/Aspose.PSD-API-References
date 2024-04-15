@@ -3,7 +3,7 @@ title: PsdImage.AdjustBrightness
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adjust of a brightness for image
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
 {{< psd/tize >}}

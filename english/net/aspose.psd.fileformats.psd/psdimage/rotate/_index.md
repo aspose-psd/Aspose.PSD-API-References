@@ -3,7 +3,7 @@ title: PsdImage.Rotate
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Rotate image around the center
 type: docs
-weight: 650
+weight: 660
 url: /net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
 {{< psd/tize >}}
