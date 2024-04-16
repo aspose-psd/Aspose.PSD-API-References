@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.xmp.types/xmptypebase/
 
 **Inheritance:** IXmpType
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Methods**
 | **Name** | **Description** |

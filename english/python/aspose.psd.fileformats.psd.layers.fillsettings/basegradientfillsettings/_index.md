@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfill
 
 **Inheritance:** IFillSettings, IGradientFillSettings, BaseFillSettings
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ Defines the SmartObjectType enumeration for smart object content type
 
 **Full Name:** aspose.psd.fileformats.psd.layers.smartobjects.SmartObjectType
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Members**
 | **Member name** | **Description** |

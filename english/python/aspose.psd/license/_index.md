@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/license/
 
 **Full Name:** aspose.psd.License
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Constructors**
 | **Name** | **Description** |

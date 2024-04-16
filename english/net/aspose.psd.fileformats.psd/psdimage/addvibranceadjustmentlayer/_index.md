@@ -3,7 +3,7 @@ title: PsdImage.AddVibranceAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the Vibrance adjustment layer
 type: docs
-weight: 470
+weight: 480
 url: /net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
 {{< psd/tize >}}

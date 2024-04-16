@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjust
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, AdjustmentLayer
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

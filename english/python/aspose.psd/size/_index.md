@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/size/
 
 **Full Name:** aspose.psd.Size
 
-**Aspose.PSD Version:** 24.1.0
+**Aspose.PSD Version:** 24.2.0
 
 ## **Constructors**
 | **Name** | **Description** |

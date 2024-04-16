@@ -3,7 +3,7 @@ title: PsdImage.MergeLayers
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Merges the layers
 type: docs
-weight: 600
+weight: 610
 url: /net/aspose.psd.fileformats.psd/psdimage/mergelayers/
 ---
 {{< psd/tize >}}
