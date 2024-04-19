@@ -190,6 +190,7 @@ Exposure Adjustment layer.
 | [incrementProgressMaxValue_internalized(int value)](#incrementProgressMaxValue-internalized-int-) | Gets or sets the progress max value |
 | [indicateProgress_internalized(EventType eventType)](#indicateProgress-internalized-com.aspose.psd.progressmanagement.EventType-) | Indicates the progress. |
 | [isCached()](#isCached--) | Gets a value indicating whether image data is cached currently. |
+| [isLayerValid_internalized()](#isLayerValid-internalized--) | Detects if layer is valid for saving to a file. |
 | [isRawDataAvailable()](#isRawDataAvailable--) | Gets a value indicating whether raw data loading is available. |
 | [isUsePalette()](#isUsePalette--) | Gets a value indicating whether the image palette is used. |
 | [isVisible()](#isVisible--) | Gets or sets a value indicating whether the layer is visible |
@@ -2413,6 +2414,16 @@ Gets a value indicating whether image data is cached currently.
 
 **Returns:**
 boolean -  true  if image data is cached; otherwise,  false .
+### isLayerValid_internalized() {#isLayerValid-internalized--}
+```
+public boolean isLayerValid_internalized()
+```
+
+
+Detects if layer is valid for saving to a file.
+
+**Returns:**
+boolean - 
 ### isRawDataAvailable() {#isRawDataAvailable--}
 ```
 public boolean isRawDataAvailable()
