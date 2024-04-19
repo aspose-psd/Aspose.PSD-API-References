@@ -61,6 +61,7 @@ Defines the PsdImage class that provides the ability to load, edit, save PSD fil
 | [addPosterizeAdjustmentLayer()](#addPosterizeAdjustmentLayer--) | Adds Posterize Adjustment layer. |
 | [addRegularLayer()](#addRegularLayer--) | Adds a new regular layer. |
 | [addSelectiveColorAdjustmentLayer()](#addSelectiveColorAdjustmentLayer--) | Adds the selective color adjustment layer. |
+| [addShapeLayer()](#addShapeLayer--) | Add empty Shape layer. |
 | [addTextLayer(String text, Rectangle rect)](#addTextLayer-java.lang.String-com.aspose.psd.Rectangle-) | Adds a new Text layer. |
 | [addThresholdAdjustmentLayer()](#addThresholdAdjustmentLayer--) | Adds the Threshold adjustment layer. |
 | [addVibranceAdjustmentLayer()](#addVibranceAdjustmentLayer--) | Adds the Vibrance adjustment layer. |
@@ -744,6 +745,16 @@ Adds the selective color adjustment layer.
 
 **Returns:**
 [SelectiveColorLayer](../../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/selectivecolorlayer) - The created selective color adjustment layer.
+### addShapeLayer() {#addShapeLayer--}
+```
+public final ShapeLayer addShapeLayer()
+```
+
+
+Add empty Shape layer. Without paths. They should be added to shape layer before save.
+
+**Returns:**
+[ShapeLayer](../../com.aspose.psd.fileformats.psd.layers/shapelayer) - ShapeLayer instance.
 ### addTextLayer(String text, Rectangle rect) {#addTextLayer-java.lang.String-com.aspose.psd.Rectangle-}
 ```
 public final TextLayer addTextLayer(String text, Rectangle rect)
