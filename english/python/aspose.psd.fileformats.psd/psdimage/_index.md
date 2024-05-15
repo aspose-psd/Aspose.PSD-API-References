@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd/psdimage/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, RasterCachedImage
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -101,102 +101,103 @@ url: /python-net/aspose.psd.fileformats.psd/psdimage/
 | [add_posterize_adjustment_layer()](#add_posterize_adjustment_layer__13) | Adds Posterize Adjustment layer. |
 | [add_regular_layer()](#add_regular_layer__14) | Adds a new regular layer. |
 | [add_selective_color_adjustment_layer()](#add_selective_color_adjustment_layer__15) | Adds the selective color adjustment layer. |
-| [add_text_layer(text, rect)](#add_text_layer_text_rect_16) | Adds a new Text layer. |
-| [add_threshold_adjustment_layer()](#add_threshold_adjustment_layer__17) | Adds the Threshold adjustment layer. |
-| [add_vibrance_adjustment_layer()](#add_vibrance_adjustment_layer__18) | Adds the Vibrance adjustment layer. |
-| [adjust_brightness(brightness)](#adjust_brightness_brightness_19) | Adjust of a brightness for image. |
-| [adjust_contrast(contrast)](#adjust_contrast_contrast_20) | Image contrasting |
-| [adjust_gamma(gamma)](#adjust_gamma_gamma_21) | Gamma-correction of an image. |
-| [adjust_gamma(gamma_red, gamma_green, gamma_blue)](#adjust_gamma_gamma_red_gamma_green_gamma_blue_22) | Gamma-correction of an image. |
-| [binarize_bradley(brightness_difference)](#binarize_bradley_brightness_difference_23) | Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding |
-| [binarize_bradley(brightness_difference, window_size)](#binarize_bradley_brightness_difference_window_size_24) | Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding |
-| [binarize_fixed(threshold)](#binarize_fixed_threshold_25) | Binarization of an image with predefined threshold |
+| [add_shape_layer()](#add_shape_layer__16) | Add empty Shape layer.<br/>            Without paths. They should be added to shape layer before save. |
+| [add_text_layer(text, rect)](#add_text_layer_text_rect_17) | Adds a new Text layer. |
+| [add_threshold_adjustment_layer()](#add_threshold_adjustment_layer__18) | Adds the Threshold adjustment layer. |
+| [add_vibrance_adjustment_layer()](#add_vibrance_adjustment_layer__19) | Adds the Vibrance adjustment layer. |
+| [adjust_brightness(brightness)](#adjust_brightness_brightness_20) | Adjust of a brightness for image. |
+| [adjust_contrast(contrast)](#adjust_contrast_contrast_21) | Image contrasting |
+| [adjust_gamma(gamma)](#adjust_gamma_gamma_22) | Gamma-correction of an image. |
+| [adjust_gamma(gamma_red, gamma_green, gamma_blue)](#adjust_gamma_gamma_red_gamma_green_gamma_blue_23) | Gamma-correction of an image. |
+| [binarize_bradley(brightness_difference)](#binarize_bradley_brightness_difference_24) | Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding |
+| [binarize_bradley(brightness_difference, window_size)](#binarize_bradley_brightness_difference_window_size_25) | Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding |
+| [binarize_fixed(threshold)](#binarize_fixed_threshold_26) | Binarization of an image with predefined threshold |
 | binarize_otsu() | Binarization of an image with Otsu thresholding |
 | cache_data() | Caches the data and ensures no additional data loading will be performed from the underlying [DataStreamSupporter.data_stream_container](/psd/python-net/aspose.psd/datastreamsupporter/). |
-| [can_load(file_path)](#can_load_file_path_26) | Determines whether image can be loaded from the specified file path. |
-| [can_load(file_path, load_options)](#can_load_file_path_load_options_27) | Determines whether image can be loaded from the specified file path and optionally using the specified open options. |
-| [can_load(stream)](#can_load_stream_28) | Determines whether image can be loaded from the specified stream. |
-| [can_load(stream, load_options)](#can_load_stream_load_options_29) | Determines whether image can be loaded from the specified stream and optionally using the specified <paramref name="loadOptions" />. |
-| [can_save(options)](#can_save_options_30) | Determines whether image can be saved to the specified file format represented by the passed save options. |
-| [convert(new_options)](#convert_new_options_31) | Converts this image format to the one specified in options. |
-| [create(image_options, width, height)](#create_image_options_width_height_32) | Creates a new image using the specified create options. |
+| [can_load(file_path)](#can_load_file_path_27) | Determines whether image can be loaded from the specified file path. |
+| [can_load(file_path, load_options)](#can_load_file_path_load_options_28) | Determines whether image can be loaded from the specified file path and optionally using the specified open options. |
+| [can_load(stream)](#can_load_stream_29) | Determines whether image can be loaded from the specified stream. |
+| [can_load(stream, load_options)](#can_load_stream_load_options_30) | Determines whether image can be loaded from the specified stream and optionally using the specified <paramref name="loadOptions" />. |
+| [can_save(options)](#can_save_options_31) | Determines whether image can be saved to the specified file format represented by the passed save options. |
+| [convert(new_options)](#convert_new_options_32) | Converts this image format to the one specified in options. |
+| [create(image_options, width, height)](#create_image_options_width_height_33) | Creates a new image using the specified create options. |
 | crop(left_shift, right_shift, top_shift, bottom_shift) |    |
-| [crop(rectangle)](#crop_rectangle_33) | Cropping the image. |
-| [dither(dithering_method, bits_count)](#dither_dithering_method_bits_count_34) | Performs dithering on the current image. |
-| [dither(dithering_method, bits_count, custom_palette)](#dither_dithering_method_bits_count_custom_palette_35) | Performs dithering on the current image. |
-| [filter(rectangle, options)](#filter_rectangle_options_36) | Filters the specified rectangle. |
+| [crop(rectangle)](#crop_rectangle_34) | Cropping the image. |
+| [dither(dithering_method, bits_count)](#dither_dithering_method_bits_count_35) | Performs dithering on the current image. |
+| [dither(dithering_method, bits_count, custom_palette)](#dither_dithering_method_bits_count_custom_palette_36) | Performs dithering on the current image. |
+| [filter(rectangle, options)](#filter_rectangle_options_37) | Filters the specified rectangle. |
 | flatten_image() | Flattens all layers. |
-| [get_argb_32_pixel(x, y)](#get_argb_32_pixel_x_y_37) | Gets an image 32-bit ARGB pixel. |
-| [get_default_argb_32_pixels(rectangle)](#get_default_argb_32_pixels_rectangle_38) | Gets the default 32-bit ARGB pixels array. |
-| [get_default_options(args)](#get_default_options_args_39) | Gets the default options. |
-| [get_default_pixels(rectangle, partial_pixel_loader)](#get_default_pixels_rectangle_partial_pixel_loader_40) | Gets the default pixels array using partial pixel loader. |
-| [get_default_raw_data(rectangle, partial_raw_data_loader, raw_data_settings)](#get_default_raw_data_rectangle_partial_raw_data_loader_raw_data_settings_41) | Gets the default raw data array using partial pixel loader. |
-| [get_default_raw_data(rectangle, raw_data_settings)](#get_default_raw_data_rectangle_raw_data_settings_42) | Gets the default raw data array. |
-| [get_file_format(file_path)](#get_file_format_file_path_43) | Gets the file format. |
-| [get_file_format(stream)](#get_file_format_stream_44) | Gets the file format. |
-| [get_fitting_rectangle(rectangle, pixels, width, height)](#get_fitting_rectangle_rectangle_pixels_width_height_45) | Gets rectangle which fits the current image. |
-| [get_fitting_rectangle(rectangle, width, height)](#get_fitting_rectangle_rectangle_width_height_46) | Gets rectangle which fits the current image. |
-| [get_modify_date(use_default)](#get_modify_date_use_default_47) | Gets the date and time the resource image was last modified. |
-| [get_original_options()](#get_original_options__48) | Gets the options based on the original file settings.<br/>            This can be helpful to keep bit-depth and other parameters of the original image unchanged.<br/>            For example, if we load a black-white PNG image with 1 bit per pixel and then save it using the<br/>            [DataStreamSupporter.save(file_path)](/psd/python-net/aspose.psd/datastreamsupporter/) method, the output PNG image with 8-bit per pixel will be produced.<br/>            To avoid it and save PNG image with 1-bit per pixel, use this method to get corresponding saving options and pass them<br/>            to the [Image.save(file_path, options)](/psd/python-net/aspose.psd/image/) method as the second parameter. |
-| [get_pixel(x, y)](#get_pixel_x_y_49) | Gets an image pixel. |
-| [get_proportional_height(width, height, new_width)](#get_proportional_height_width_height_new_width_50) | Gets a proportional height. |
-| [get_proportional_width(width, height, new_height)](#get_proportional_width_width_height_new_height_51) | Gets a proportional width. |
-| [get_skew_angle()](#get_skew_angle__52) |    |
+| [get_argb_32_pixel(x, y)](#get_argb_32_pixel_x_y_38) | Gets an image 32-bit ARGB pixel. |
+| [get_default_argb_32_pixels(rectangle)](#get_default_argb_32_pixels_rectangle_39) | Gets the default 32-bit ARGB pixels array. |
+| [get_default_options(args)](#get_default_options_args_40) | Gets the default options. |
+| [get_default_pixels(rectangle, partial_pixel_loader)](#get_default_pixels_rectangle_partial_pixel_loader_41) | Gets the default pixels array using partial pixel loader. |
+| [get_default_raw_data(rectangle, partial_raw_data_loader, raw_data_settings)](#get_default_raw_data_rectangle_partial_raw_data_loader_raw_data_settings_42) | Gets the default raw data array using partial pixel loader. |
+| [get_default_raw_data(rectangle, raw_data_settings)](#get_default_raw_data_rectangle_raw_data_settings_43) | Gets the default raw data array. |
+| [get_file_format(file_path)](#get_file_format_file_path_44) | Gets the file format. |
+| [get_file_format(stream)](#get_file_format_stream_45) | Gets the file format. |
+| [get_fitting_rectangle(rectangle, pixels, width, height)](#get_fitting_rectangle_rectangle_pixels_width_height_46) | Gets rectangle which fits the current image. |
+| [get_fitting_rectangle(rectangle, width, height)](#get_fitting_rectangle_rectangle_width_height_47) | Gets rectangle which fits the current image. |
+| [get_modify_date(use_default)](#get_modify_date_use_default_48) | Gets the date and time the resource image was last modified. |
+| [get_original_options()](#get_original_options__49) | Gets the options based on the original file settings.<br/>            This can be helpful to keep bit-depth and other parameters of the original image unchanged.<br/>            For example, if we load a black-white PNG image with 1 bit per pixel and then save it using the<br/>            [DataStreamSupporter.save(file_path)](/psd/python-net/aspose.psd/datastreamsupporter/) method, the output PNG image with 8-bit per pixel will be produced.<br/>            To avoid it and save PNG image with 1-bit per pixel, use this method to get corresponding saving options and pass them<br/>            to the [Image.save(file_path, options)](/psd/python-net/aspose.psd/image/) method as the second parameter. |
+| [get_pixel(x, y)](#get_pixel_x_y_50) | Gets an image pixel. |
+| [get_proportional_height(width, height, new_width)](#get_proportional_height_width_height_new_width_51) | Gets a proportional height. |
+| [get_proportional_width(width, height, new_height)](#get_proportional_width_width_height_new_height_52) | Gets a proportional width. |
+| [get_skew_angle()](#get_skew_angle__53) |    |
 | grayscale() | Transformation of an image to its grayscale representation |
-| [load(file_path)](#load_file_path_53) | Loads a new image from the specified file. |
-| [load(file_path, load_options)](#load_file_path_load_options_54) | Loads a new image from the specified file. |
-| [load(stream)](#load_stream_55) | Loads a new image from the specified stream. |
-| [load(stream, load_options)](#load_stream_load_options_56) | Loads a new image from the specified stream. |
-| [load_argb_32_pixels(rectangle)](#load_argb_32_pixels_rectangle_57) | Loads 32-bit ARGB pixels. |
-| [load_argb_64_pixels(rectangle)](#load_argb_64_pixels_rectangle_58) | Loads 64-bit ARGB pixels. |
-| [load_cmyk_32_pixels(rectangle)](#load_cmyk_32_pixels_rectangle_59) | Loads pixels in CMYK format. |
-| [load_cmyk_pixels(rectangle)](#load_cmyk_pixels_rectangle_60) | Loads pixels in CMYK format.<br/>            This method is deprecated. Please use more effective the [RasterImage.load_cmyk_32_pixels(rectangle)](/psd/python-net/aspose.psd/rasterimage/) method. |
-| [load_partial_argb_32_pixels(rectangle, partial_pixel_loader)](#load_partial_argb_32_pixels_rectangle_partial_pixel_loader_61) | Loads 32-bit ARGB pixels partially (by blocks). |
-| [load_partial_pixels(desired_rectangle, pixel_loader)](#load_partial_pixels_desired_rectangle_pixel_loader_62) | Loads pixels partially by packs. |
-| [load_pixels(rectangle)](#load_pixels_rectangle_63) | Loads pixels. |
-| [load_raw_data(rectangle, dest_image_bounds, raw_data_settings, raw_data_loader)](#load_raw_data_rectangle_dest_image_bounds_raw_data_settings_raw_data_loader_64) | Loads raw data. |
-| [load_raw_data(rectangle, raw_data_settings, raw_data_loader)](#load_raw_data_rectangle_raw_data_settings_raw_data_loader_65) | Loads raw data. |
-| [merge_layers(bottom_layer, top_layer)](#merge_layers_bottom_layer_top_layer_66) | Merges the layers. |
+| [load(file_path)](#load_file_path_54) | Loads a new image from the specified file. |
+| [load(file_path, load_options)](#load_file_path_load_options_55) | Loads a new image from the specified file. |
+| [load(stream)](#load_stream_56) | Loads a new image from the specified stream. |
+| [load(stream, load_options)](#load_stream_load_options_57) | Loads a new image from the specified stream. |
+| [load_argb_32_pixels(rectangle)](#load_argb_32_pixels_rectangle_58) | Loads 32-bit ARGB pixels. |
+| [load_argb_64_pixels(rectangle)](#load_argb_64_pixels_rectangle_59) | Loads 64-bit ARGB pixels. |
+| [load_cmyk_32_pixels(rectangle)](#load_cmyk_32_pixels_rectangle_60) | Loads pixels in CMYK format. |
+| [load_cmyk_pixels(rectangle)](#load_cmyk_pixels_rectangle_61) | Loads pixels in CMYK format.<br/>            This method is deprecated. Please use more effective the [RasterImage.load_cmyk_32_pixels(rectangle)](/psd/python-net/aspose.psd/rasterimage/) method. |
+| [load_partial_argb_32_pixels(rectangle, partial_pixel_loader)](#load_partial_argb_32_pixels_rectangle_partial_pixel_loader_62) | Loads 32-bit ARGB pixels partially (by blocks). |
+| [load_partial_pixels(desired_rectangle, pixel_loader)](#load_partial_pixels_desired_rectangle_pixel_loader_63) | Loads pixels partially by packs. |
+| [load_pixels(rectangle)](#load_pixels_rectangle_64) | Loads pixels. |
+| [load_raw_data(rectangle, dest_image_bounds, raw_data_settings, raw_data_loader)](#load_raw_data_rectangle_dest_image_bounds_raw_data_settings_raw_data_loader_65) | Loads raw data. |
+| [load_raw_data(rectangle, raw_data_settings, raw_data_loader)](#load_raw_data_rectangle_raw_data_settings_raw_data_loader_66) | Loads raw data. |
+| [merge_layers(bottom_layer, top_layer)](#merge_layers_bottom_layer_top_layer_67) | Merges the layers. |
 | normalize_angle() |    |
 | normalize_angle(resize_proportionally, background_color) |    |
-| [read_argb_32_scan_line(scan_line_index)](#read_argb_32_scan_line_scan_line_index_67) | Reads the whole scan line by the specified scan line index. |
-| [read_scan_line(scan_line_index)](#read_scan_line_scan_line_index_68) | Reads the whole scan line by the specified scan line index. |
-| [replace_color(old_color, old_color_diff, new_color)](#replace_color_old_color_old_color_diff_new_color_69) | Replaces one color to another with allowed difference and preserves original alpha value to save smooth edges. |
-| [replace_color(old_color_argb, old_color_diff, new_color_argb)](#replace_color_old_color_argb_old_color_diff_new_color_argb_70) | Replaces one color to another with allowed difference and preserves original alpha value to save smooth edges. |
-| [replace_non_transparent_colors(new_color)](#replace_non_transparent_colors_new_color_71) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges.<br/>            Note: if you use it on images without transparency, all colors will be replaced with a single one. |
-| [replace_non_transparent_colors(new_color_argb)](#replace_non_transparent_colors_new_color_argb_72) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges.<br/>            Note: if you use it on images without transparency, all colors will be replaced with a single one. |
-| [resize(new_width, new_height)](#resize_new_width_new_height_73) | Resizes the image. The default [ResizeType.NEAREST_NEIGHBOUR_RESAMPLE](/psd/python-net/aspose.psd/resizetype/) is used. |
-| [resize(new_width, new_height, resize_type)](#resize_new_width_new_height_resize_type_74) | Resizes the image. |
-| [resize(new_width, new_height, settings)](#resize_new_width_new_height_settings_75) | Resizes the image. |
-| [resize_height_proportionally(new_height)](#resize_height_proportionally_new_height_76) | Resizes the height proportionally. |
-| [resize_height_proportionally(new_height, resize_type)](#resize_height_proportionally_new_height_resize_type_77) | Resizes the height proportionally. |
-| [resize_height_proportionally(new_height, settings)](#resize_height_proportionally_new_height_settings_78) | Resizes the height proportionally. |
-| [resize_width_proportionally(new_width)](#resize_width_proportionally_new_width_79) | Resizes the width proportionally. The default [ResizeType.NEAREST_NEIGHBOUR_RESAMPLE](/psd/python-net/aspose.psd/resizetype/) is used. |
-| [resize_width_proportionally(new_width, resize_type)](#resize_width_proportionally_new_width_resize_type_80) | Resizes the width proportionally. |
-| [resize_width_proportionally(new_width, settings)](#resize_width_proportionally_new_width_settings_81) | Resizes the width proportionally. |
-| [rotate(angle)](#rotate_angle_82) | Rotate image around the center. |
-| [rotate(angle, resize_proportionally, background_color)](#rotate_angle_resize_proportionally_background_color_83) | Rotate image around the center. |
-| [rotate_flip(rotate_flip_type)](#rotate_flip_rotate_flip_type_84) | Rotates, flips, or rotates and flips the image. |
+| [read_argb_32_scan_line(scan_line_index)](#read_argb_32_scan_line_scan_line_index_68) | Reads the whole scan line by the specified scan line index. |
+| [read_scan_line(scan_line_index)](#read_scan_line_scan_line_index_69) | Reads the whole scan line by the specified scan line index. |
+| [replace_color(old_color, old_color_diff, new_color)](#replace_color_old_color_old_color_diff_new_color_70) | Replaces one color to another with allowed difference and preserves original alpha value to save smooth edges. |
+| [replace_color(old_color_argb, old_color_diff, new_color_argb)](#replace_color_old_color_argb_old_color_diff_new_color_argb_71) | Replaces one color to another with allowed difference and preserves original alpha value to save smooth edges. |
+| [replace_non_transparent_colors(new_color)](#replace_non_transparent_colors_new_color_72) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges.<br/>            Note: if you use it on images without transparency, all colors will be replaced with a single one. |
+| [replace_non_transparent_colors(new_color_argb)](#replace_non_transparent_colors_new_color_argb_73) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges.<br/>            Note: if you use it on images without transparency, all colors will be replaced with a single one. |
+| [resize(new_width, new_height)](#resize_new_width_new_height_74) | Resizes the image. The default [ResizeType.NEAREST_NEIGHBOUR_RESAMPLE](/psd/python-net/aspose.psd/resizetype/) is used. |
+| [resize(new_width, new_height, resize_type)](#resize_new_width_new_height_resize_type_75) | Resizes the image. |
+| [resize(new_width, new_height, settings)](#resize_new_width_new_height_settings_76) | Resizes the image. |
+| [resize_height_proportionally(new_height)](#resize_height_proportionally_new_height_77) | Resizes the height proportionally. |
+| [resize_height_proportionally(new_height, resize_type)](#resize_height_proportionally_new_height_resize_type_78) | Resizes the height proportionally. |
+| [resize_height_proportionally(new_height, settings)](#resize_height_proportionally_new_height_settings_79) | Resizes the height proportionally. |
+| [resize_width_proportionally(new_width)](#resize_width_proportionally_new_width_80) | Resizes the width proportionally. The default [ResizeType.NEAREST_NEIGHBOUR_RESAMPLE](/psd/python-net/aspose.psd/resizetype/) is used. |
+| [resize_width_proportionally(new_width, resize_type)](#resize_width_proportionally_new_width_resize_type_81) | Resizes the width proportionally. |
+| [resize_width_proportionally(new_width, settings)](#resize_width_proportionally_new_width_settings_82) | Resizes the width proportionally. |
+| [rotate(angle)](#rotate_angle_83) | Rotate image around the center. |
+| [rotate(angle, resize_proportionally, background_color)](#rotate_angle_resize_proportionally_background_color_84) | Rotate image around the center. |
+| [rotate_flip(rotate_flip_type)](#rotate_flip_rotate_flip_type_85) | Rotates, flips, or rotates and flips the image. |
 | save() | Saves the image data to the underlying stream. |
-| [save(file_path)](#save_file_path_85) | Saves the object's data to the specified file location. |
-| [save(file_path, options)](#save_file_path_options_86) | Saves the object's data to the specified file location in the specified file format according to save options. |
-| [save(file_path, options, bounds_rectangle)](#save_file_path_options_bounds_rectangle_87) | Saves the object's data to the specified file location in the specified file format according to save options. |
-| [save(file_path, over_write)](#save_file_path_over_write_88) | Saves the object's data to the specified file location. |
-| [save(stream)](#save_stream_89) | Saves the object's data to the specified stream. |
-| [save(stream, options_base)](#save_stream_options_base_90) | Saves the image's data to the specified stream in the specified file format according to save options. |
-| [save(stream, options_base, bounds_rectangle)](#save_stream_options_base_bounds_rectangle_91) | Saves the image's data to the specified stream in the specified file format according to save options. |
-| [save_argb_32_pixels(rectangle, pixels)](#save_argb_32_pixels_rectangle_pixels_92) | Saves the 32-bit ARGB pixels. |
+| [save(file_path)](#save_file_path_86) | Saves the object's data to the specified file location. |
+| [save(file_path, options)](#save_file_path_options_87) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [save(file_path, options, bounds_rectangle)](#save_file_path_options_bounds_rectangle_88) | Saves the object's data to the specified file location in the specified file format according to save options. |
+| [save(file_path, over_write)](#save_file_path_over_write_89) | Saves the object's data to the specified file location. |
+| [save(stream)](#save_stream_90) | Saves the object's data to the specified stream. |
+| [save(stream, options_base)](#save_stream_options_base_91) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| [save(stream, options_base, bounds_rectangle)](#save_stream_options_base_bounds_rectangle_92) | Saves the image's data to the specified stream in the specified file format according to save options. |
+| [save_argb_32_pixels(rectangle, pixels)](#save_argb_32_pixels_rectangle_pixels_93) | Saves the 32-bit ARGB pixels. |
 | save_cmyk_32_pixels(rectangle, pixels) |    |
 | save_cmyk_pixels(rectangle, pixels) |    |
-| [save_pixels(rectangle, pixels)](#save_pixels_rectangle_pixels_93) | Saves pixels (format specific method). |
-| [save_raw_data(data, data_offset, rectangle, raw_data_settings)](#save_raw_data_data_data_offset_rectangle_raw_data_settings_94) | Saves the raw data. |
-| [set_argb_32_pixel(x, y, argb_32_color)](#set_argb_32_pixel_x_y_argb_32_color_95) | Sets an image 32-bit ARGB pixel for the specified position. |
-| [set_palette(palette, update_colors)](#set_palette_palette_update_colors_96) | Sets the image palette. |
-| [set_pixel(x, y, color)](#set_pixel_x_y_color_97) | Sets an image pixel for the specified position. |
-| [set_resolution(dpi_x, dpi_y)](#set_resolution_dpi_x_dpi_y_98) | Sets the resolution for this [PsdImage](/psd/python-net/aspose.psd.fileformats.psd/psdimage/). |
-| [to_bitmap()](#to_bitmap__99) |    |
-| [write_argb_32_scan_line(scan_line_index, argb_32_pixels)](#write_argb_32_scan_line_scan_line_index_argb_32_pixels_100) | Writes the whole scan line to the specified scan line index. |
-| [write_scan_line(scan_line_index, pixels)](#write_scan_line_scan_line_index_pixels_101) | Writes the whole scan line to the specified scan line index. |
+| [save_pixels(rectangle, pixels)](#save_pixels_rectangle_pixels_94) | Saves pixels (format specific method). |
+| [save_raw_data(data, data_offset, rectangle, raw_data_settings)](#save_raw_data_data_data_offset_rectangle_raw_data_settings_95) | Saves the raw data. |
+| [set_argb_32_pixel(x, y, argb_32_color)](#set_argb_32_pixel_x_y_argb_32_color_96) | Sets an image 32-bit ARGB pixel for the specified position. |
+| [set_palette(palette, update_colors)](#set_palette_palette_update_colors_97) | Sets the image palette. |
+| [set_pixel(x, y, color)](#set_pixel_x_y_color_98) | Sets an image pixel for the specified position. |
+| [set_resolution(dpi_x, dpi_y)](#set_resolution_dpi_x_dpi_y_99) | Sets the resolution for this [PsdImage](/psd/python-net/aspose.psd.fileformats.psd/psdimage/). |
+| [to_bitmap()](#to_bitmap__100) |    |
+| [write_argb_32_scan_line(scan_line_index, argb_32_pixels)](#write_argb_32_scan_line_scan_line_index_argb_32_pixels_101) | Writes the whole scan line to the specified scan line index. |
+| [write_scan_line(scan_line_index, pixels)](#write_scan_line_scan_line_index_pixels_102) | Writes the whole scan line to the specified scan line index. |
 
 
 ### Constructor: PsdImage(path) {#PsdImage_path_1}
@@ -610,7 +611,23 @@ Adds the selective color adjustment layer.
 | [SelectiveColorLayer](/psd/python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/selectivecolorlayer/) | The created selective color adjustment layer. |
 
 
-### Method: add_text_layer(text, rect) {#add_text_layer_text_rect_16}
+### Method: add_shape_layer() {#add_shape_layer__16}
+
+
+```
+ add_shape_layer() 
+```
+
+Add empty Shape layer.<br/>            Without paths. They should be added to shape layer before save.
+
+**Returns**
+
+| Type | Description |
+| :- | :- |
+| [ShapeLayer](/psd/python-net/aspose.psd.fileformats.psd.layers/shapelayer/) | ShapeLayer instance. |
+
+
+### Method: add_text_layer(text, rect) {#add_text_layer_text_rect_17}
 
 
 ```
@@ -633,7 +650,7 @@ Adds a new Text layer.
 | [TextLayer](/psd/python-net/aspose.psd.fileformats.psd.layers/textlayer/) | Created text layer. |
 
 
-### Method: add_threshold_adjustment_layer() {#add_threshold_adjustment_layer__17}
+### Method: add_threshold_adjustment_layer() {#add_threshold_adjustment_layer__18}
 
 
 ```
@@ -649,7 +666,7 @@ Adds the Threshold adjustment layer.
 | [ThresholdLayer](/psd/python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/thresholdlayer/) | The created Threshold adjustment layer. |
 
 
-### Method: add_vibrance_adjustment_layer() {#add_vibrance_adjustment_layer__18}
+### Method: add_vibrance_adjustment_layer() {#add_vibrance_adjustment_layer__19}
 
 
 ```
@@ -665,7 +682,7 @@ Adds the Vibrance adjustment layer.
 | [VibranceLayer](/psd/python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/) | A newly created Vibrance layer. |
 
 
-### Method: adjust_brightness(brightness) {#adjust_brightness_brightness_19}
+### Method: adjust_brightness(brightness) {#adjust_brightness_brightness_20}
 
 
 ```
@@ -680,7 +697,7 @@ Adjust of a brightness for image.
 | :- | :- | :- |
 | brightness | int | Brightness value. |
 
-### Method: adjust_contrast(contrast) {#adjust_contrast_contrast_20}
+### Method: adjust_contrast(contrast) {#adjust_contrast_contrast_21}
 
 
 ```
@@ -695,7 +712,7 @@ Image contrasting
 | :- | :- | :- |
 | contrast | float | Contrast value (in range [-100; 100]) |
 
-### Method: adjust_gamma(gamma) {#adjust_gamma_gamma_21}
+### Method: adjust_gamma(gamma) {#adjust_gamma_gamma_22}
 
 
 ```
@@ -710,7 +727,7 @@ Gamma-correction of an image.
 | :- | :- | :- |
 | gamma | float | Gamma for red, green and blue channels coefficient |
 
-### Method: adjust_gamma(gamma_red, gamma_green, gamma_blue) {#adjust_gamma_gamma_red_gamma_green_gamma_blue_22}
+### Method: adjust_gamma(gamma_red, gamma_green, gamma_blue) {#adjust_gamma_gamma_red_gamma_green_gamma_blue_23}
 
 
 ```
@@ -727,7 +744,7 @@ Gamma-correction of an image.
 | gamma_green | float | Gamma for green channel coefficient |
 | gamma_blue | float | Gamma for blue channel coefficient |
 
-### Method: binarize_bradley(brightness_difference) {#binarize_bradley_brightness_difference_23}
+### Method: binarize_bradley(brightness_difference) {#binarize_bradley_brightness_difference_24}
 
 
 ```
@@ -742,7 +759,7 @@ Binarization of an image using Bradley's adaptive thresholding algorithm using t
 | :- | :- | :- |
 | brightness_difference | double | The brightness difference between pixel and the average of an s x s window of pixels centered around this pixel. |
 
-### Method: binarize_bradley(brightness_difference, window_size) {#binarize_bradley_brightness_difference_window_size_24}
+### Method: binarize_bradley(brightness_difference, window_size) {#binarize_bradley_brightness_difference_window_size_25}
 
 
 ```
@@ -758,7 +775,7 @@ Binarization of an image using Bradley's adaptive thresholding algorithm using t
 | brightness_difference | double | The brightness difference between pixel and the average of an s x s window of pixels centered around this pixel. |
 | window_size | int | The size of s x s window of pixels centered around this pixel |
 
-### Method: binarize_fixed(threshold) {#binarize_fixed_threshold_25}
+### Method: binarize_fixed(threshold) {#binarize_fixed_threshold_26}
 
 
 ```
@@ -773,7 +790,7 @@ Binarization of an image with predefined threshold
 | :- | :- | :- |
 | threshold | byte | Threshold value. If corresponding gray value of a pixel is greater than threshold, a value of 255 will be assigned to it, 0 otherwise. |
 
-### Method: can_load(file_path)  [static] {#can_load_file_path_26}
+### Method: can_load(file_path)  [static] {#can_load_file_path_27}
 
 
 ```
@@ -795,7 +812,7 @@ Determines whether image can be loaded from the specified file path.
 | bool | <c>true</c> if image can be loaded from the specified file; otherwise, <c>false</c>. |
 
 
-### Method: can_load(file_path, load_options)  [static] {#can_load_file_path_load_options_27}
+### Method: can_load(file_path, load_options)  [static] {#can_load_file_path_load_options_28}
 
 
 ```
@@ -818,7 +835,7 @@ Determines whether image can be loaded from the specified file path and optional
 | bool | <c>true</c> if image can be loaded from the specified file; otherwise, <c>false</c>. |
 
 
-### Method: can_load(stream)  [static] {#can_load_stream_28}
+### Method: can_load(stream)  [static] {#can_load_stream_29}
 
 
 ```
@@ -840,7 +857,7 @@ Determines whether image can be loaded from the specified stream.
 | bool | <c>true</c> if image can be loaded from the specified stream; otherwise, <c>false</c>. |
 
 
-### Method: can_load(stream, load_options)  [static] {#can_load_stream_load_options_29}
+### Method: can_load(stream, load_options)  [static] {#can_load_stream_load_options_30}
 
 
 ```
@@ -863,7 +880,7 @@ Determines whether image can be loaded from the specified stream and optionally 
 | bool | <c>true</c> if image can be loaded from the specified stream; otherwise, <c>false</c>. |
 
 
-### Method: can_save(options) {#can_save_options_30}
+### Method: can_save(options) {#can_save_options_31}
 
 
 ```
@@ -885,7 +902,7 @@ Determines whether image can be saved to the specified file format represented b
 | bool | <c>true</c> if image can be saved to the specified file format represented by the passed save options; otherwise, <c>false</c>. |
 
 
-### Method: convert(new_options) {#convert_new_options_31}
+### Method: convert(new_options) {#convert_new_options_32}
 
 
 ```
@@ -900,7 +917,7 @@ Converts this image format to the one specified in options.
 | :- | :- | :- |
 | new_options | [PsdOptions](/psd/python-net/aspose.psd.imageoptions/psdoptions/) | The new options. |
 
-### Method: create(image_options, width, height)  [static] {#create_image_options_width_height_32}
+### Method: create(image_options, width, height)  [static] {#create_image_options_width_height_33}
 
 
 ```
@@ -924,7 +941,7 @@ Creates a new image using the specified create options.
 | [Image](/psd/python-net/aspose.psd/image) | The newly created image. |
 
 
-### Method: crop(rectangle) {#crop_rectangle_33}
+### Method: crop(rectangle) {#crop_rectangle_34}
 
 
 ```
@@ -939,7 +956,7 @@ Cropping the image.
 | :- | :- | :- |
 | rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The rectangle. |
 
-### Method: dither(dithering_method, bits_count) {#dither_dithering_method_bits_count_34}
+### Method: dither(dithering_method, bits_count) {#dither_dithering_method_bits_count_35}
 
 
 ```
@@ -955,7 +972,7 @@ Performs dithering on the current image.
 | dithering_method | [DitheringMethod](/psd/python-net/aspose.psd/ditheringmethod) | The dithering method. |
 | bits_count | int | The final bits count for dithering. |
 
-### Method: dither(dithering_method, bits_count, custom_palette) {#dither_dithering_method_bits_count_custom_palette_35}
+### Method: dither(dithering_method, bits_count, custom_palette) {#dither_dithering_method_bits_count_custom_palette_36}
 
 
 ```
@@ -972,7 +989,7 @@ Performs dithering on the current image.
 | bits_count | int | The final bits count for dithering. |
 | custom_palette | [IColorPalette](/psd/python-net/aspose.psd/icolorpalette) | The custom palette for dithering. |
 
-### Method: filter(rectangle, options) {#filter_rectangle_options_36}
+### Method: filter(rectangle, options) {#filter_rectangle_options_37}
 
 
 ```
@@ -988,7 +1005,7 @@ Filters the specified rectangle.
 | rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The rectangle. |
 | options | [FilterOptionsBase](/psd/python-net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/) | The options. |
 
-### Method: get_argb_32_pixel(x, y) {#get_argb_32_pixel_x_y_37}
+### Method: get_argb_32_pixel(x, y) {#get_argb_32_pixel_x_y_38}
 
 
 ```
@@ -1011,7 +1028,7 @@ Gets an image 32-bit ARGB pixel.
 | int | The 32-bit ARGB pixel for the specified location. |
 
 
-### Method: get_default_argb_32_pixels(rectangle) {#get_default_argb_32_pixels_rectangle_38}
+### Method: get_default_argb_32_pixels(rectangle) {#get_default_argb_32_pixels_rectangle_39}
 
 
 ```
@@ -1033,7 +1050,7 @@ Gets the default 32-bit ARGB pixels array.
 | int | The default pixels array. |
 
 
-### Method: get_default_options(args) {#get_default_options_args_39}
+### Method: get_default_options(args) {#get_default_options_args_40}
 
 
 ```
@@ -1055,7 +1072,7 @@ Gets the default options.
 | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | Default options |
 
 
-### Method: get_default_pixels(rectangle, partial_pixel_loader) {#get_default_pixels_rectangle_partial_pixel_loader_40}
+### Method: get_default_pixels(rectangle, partial_pixel_loader) {#get_default_pixels_rectangle_partial_pixel_loader_41}
 
 
 ```
@@ -1071,7 +1088,7 @@ Gets the default pixels array using partial pixel loader.
 | rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The rectangle to get pixels for. |
 | partial_pixel_loader | [IPartialArgb32PixelLoader](/psd/python-net/aspose.psd/ipartialargb32pixelloader) | The partial pixel loader. |
 
-### Method: get_default_raw_data(rectangle, partial_raw_data_loader, raw_data_settings) {#get_default_raw_data_rectangle_partial_raw_data_loader_raw_data_settings_41}
+### Method: get_default_raw_data(rectangle, partial_raw_data_loader, raw_data_settings) {#get_default_raw_data_rectangle_partial_raw_data_loader_raw_data_settings_42}
 
 
 ```
@@ -1088,7 +1105,7 @@ Gets the default raw data array using partial pixel loader.
 | partial_raw_data_loader | [IPartialRawDataLoader](/psd/python-net/aspose.psd/ipartialrawdataloader) | The partial raw data loader. |
 | raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | The raw data settings. |
 
-### Method: get_default_raw_data(rectangle, raw_data_settings) {#get_default_raw_data_rectangle_raw_data_settings_42}
+### Method: get_default_raw_data(rectangle, raw_data_settings) {#get_default_raw_data_rectangle_raw_data_settings_43}
 
 
 ```
@@ -1111,7 +1128,7 @@ Gets the default raw data array.
 | byte | The default raw data array. |
 
 
-### Method: get_file_format(file_path)  [static] {#get_file_format_file_path_43}
+### Method: get_file_format(file_path)  [static] {#get_file_format_file_path_44}
 
 
 ```
@@ -1133,7 +1150,7 @@ Gets the file format.
 | [FileFormat](/psd/python-net/aspose.psd/fileformat) | The determined file format. |
 
 
-### Method: get_file_format(stream)  [static] {#get_file_format_stream_44}
+### Method: get_file_format(stream)  [static] {#get_file_format_stream_45}
 
 
 ```
@@ -1155,7 +1172,7 @@ Gets the file format.
 | [FileFormat](/psd/python-net/aspose.psd/fileformat) | The determined file format. |
 
 
-### Method: get_fitting_rectangle(rectangle, pixels, width, height)  [static] {#get_fitting_rectangle_rectangle_pixels_width_height_45}
+### Method: get_fitting_rectangle(rectangle, pixels, width, height)  [static] {#get_fitting_rectangle_rectangle_pixels_width_height_46}
 
 
 ```
@@ -1180,7 +1197,7 @@ Gets rectangle which fits the current image.
 | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The fitting rectangle or exception if no fitting rectangle can be found. |
 
 
-### Method: get_fitting_rectangle(rectangle, width, height)  [static] {#get_fitting_rectangle_rectangle_width_height_46}
+### Method: get_fitting_rectangle(rectangle, width, height)  [static] {#get_fitting_rectangle_rectangle_width_height_47}
 
 
 ```
@@ -1204,7 +1221,7 @@ Gets rectangle which fits the current image.
 | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The fitting rectangle or exception if no fitting rectangle can be found. |
 
 
-### Method: get_modify_date(use_default) {#get_modify_date_use_default_47}
+### Method: get_modify_date(use_default) {#get_modify_date_use_default_48}
 
 
 ```
@@ -1226,7 +1243,7 @@ Gets the date and time the resource image was last modified.
 | datetime | The date and time the resource image was last modified. |
 
 
-### Method: get_original_options() {#get_original_options__48}
+### Method: get_original_options() {#get_original_options__49}
 
 
 ```
@@ -1242,7 +1259,7 @@ Gets the options based on the original file settings.<br/>            This can b
 | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | The options based on the original file settings. |
 
 
-### Method: get_pixel(x, y) {#get_pixel_x_y_49}
+### Method: get_pixel(x, y) {#get_pixel_x_y_50}
 
 
 ```
@@ -1265,7 +1282,7 @@ Gets an image pixel.
 | [Color](/psd/python-net/aspose.psd/color) | The pixel color for the specified location. |
 
 
-### Method: get_proportional_height(width, height, new_width)  [static] {#get_proportional_height_width_height_new_width_50}
+### Method: get_proportional_height(width, height, new_width)  [static] {#get_proportional_height_width_height_new_width_51}
 
 
 ```
@@ -1289,7 +1306,7 @@ Gets a proportional height.
 | int | The proportional height. |
 
 
-### Method: get_proportional_width(width, height, new_height)  [static] {#get_proportional_width_width_height_new_height_51}
+### Method: get_proportional_width(width, height, new_height)  [static] {#get_proportional_width_width_height_new_height_52}
 
 
 ```
@@ -1313,7 +1330,7 @@ Gets a proportional width.
 | int | The proportional width. |
 
 
-### Method: get_skew_angle() {#get_skew_angle__52}
+### Method: get_skew_angle() {#get_skew_angle__53}
 
 
 ```
@@ -1329,7 +1346,7 @@ Gets a proportional width.
 | float |  |
 
 
-### Method: load(file_path)  [static] {#load_file_path_53}
+### Method: load(file_path)  [static] {#load_file_path_54}
 
 
 ```
@@ -1351,7 +1368,7 @@ Loads a new image from the specified file.
 | [Image](/psd/python-net/aspose.psd/image) | The loaded image. |
 
 
-### Method: load(file_path, load_options)  [static] {#load_file_path_load_options_54}
+### Method: load(file_path, load_options)  [static] {#load_file_path_load_options_55}
 
 
 ```
@@ -1374,7 +1391,7 @@ Loads a new image from the specified file.
 | [Image](/psd/python-net/aspose.psd/image) | The loaded image. |
 
 
-### Method: load(stream)  [static] {#load_stream_55}
+### Method: load(stream)  [static] {#load_stream_56}
 
 
 ```
@@ -1396,7 +1413,7 @@ Loads a new image from the specified stream.
 | [Image](/psd/python-net/aspose.psd/image) | The loaded image. |
 
 
-### Method: load(stream, load_options)  [static] {#load_stream_load_options_56}
+### Method: load(stream, load_options)  [static] {#load_stream_load_options_57}
 
 
 ```
@@ -1419,7 +1436,7 @@ Loads a new image from the specified stream.
 | [Image](/psd/python-net/aspose.psd/image) | The loaded image. |
 
 
-### Method: load_argb_32_pixels(rectangle) {#load_argb_32_pixels_rectangle_57}
+### Method: load_argb_32_pixels(rectangle) {#load_argb_32_pixels_rectangle_58}
 
 
 ```
@@ -1441,7 +1458,7 @@ Loads 32-bit ARGB pixels.
 | int | The loaded 32-bit ARGB pixels array. |
 
 
-### Method: load_argb_64_pixels(rectangle) {#load_argb_64_pixels_rectangle_58}
+### Method: load_argb_64_pixels(rectangle) {#load_argb_64_pixels_rectangle_59}
 
 
 ```
@@ -1463,7 +1480,7 @@ Loads 64-bit ARGB pixels.
 | long | The loaded 64-bit ARGB pixels array. |
 
 
-### Method: load_cmyk_32_pixels(rectangle) {#load_cmyk_32_pixels_rectangle_59}
+### Method: load_cmyk_32_pixels(rectangle) {#load_cmyk_32_pixels_rectangle_60}
 
 
 ```
@@ -1485,7 +1502,7 @@ Loads pixels in CMYK format.
 | int | The loaded CMYK pixels presentes as 32-bit inateger values. |
 
 
-### Method: load_cmyk_pixels(rectangle) {#load_cmyk_pixels_rectangle_60}
+### Method: load_cmyk_pixels(rectangle) {#load_cmyk_pixels_rectangle_61}
 
 
 ```
@@ -1507,7 +1524,7 @@ Loads pixels in CMYK format.<br/>            This method is deprecated. Please u
 | [CmykColor[]](/psd/python-net/aspose.psd/cmykcolor) | The loaded CMYK pixels array. |
 
 
-### Method: load_partial_argb_32_pixels(rectangle, partial_pixel_loader) {#load_partial_argb_32_pixels_rectangle_partial_pixel_loader_61}
+### Method: load_partial_argb_32_pixels(rectangle, partial_pixel_loader) {#load_partial_argb_32_pixels_rectangle_partial_pixel_loader_62}
 
 
 ```
@@ -1523,7 +1540,7 @@ Loads 32-bit ARGB pixels partially (by blocks).
 | rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The rectangle to load pixels from. |
 | partial_pixel_loader | [IPartialArgb32PixelLoader](/psd/python-net/aspose.psd/ipartialargb32pixelloader) | The partial pixel loader. |
 
-### Method: load_partial_pixels(desired_rectangle, pixel_loader) {#load_partial_pixels_desired_rectangle_pixel_loader_62}
+### Method: load_partial_pixels(desired_rectangle, pixel_loader) {#load_partial_pixels_desired_rectangle_pixel_loader_63}
 
 
 ```
@@ -1539,7 +1556,7 @@ Loads pixels partially by packs.
 | desired_rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The desired rectangle. |
 | pixel_loader | [IPartialPixelLoader](/psd/python-net/aspose.psd/ipartialpixelloader) | The pixel loader. |
 
-### Method: load_pixels(rectangle) {#load_pixels_rectangle_63}
+### Method: load_pixels(rectangle) {#load_pixels_rectangle_64}
 
 
 ```
@@ -1561,7 +1578,7 @@ Loads pixels.
 | [Color[]](/psd/python-net/aspose.psd/color) | The loaded pixels array. |
 
 
-### Method: load_raw_data(rectangle, dest_image_bounds, raw_data_settings, raw_data_loader) {#load_raw_data_rectangle_dest_image_bounds_raw_data_settings_raw_data_loader_64}
+### Method: load_raw_data(rectangle, dest_image_bounds, raw_data_settings, raw_data_loader) {#load_raw_data_rectangle_dest_image_bounds_raw_data_settings_raw_data_loader_65}
 
 
 ```
@@ -1579,7 +1596,7 @@ Loads raw data.
 | raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | The raw data settings to use for loaded data. Note if data is not in the format specified then data conversion will be performed. |
 | raw_data_loader | [IPartialRawDataLoader](/psd/python-net/aspose.psd/ipartialrawdataloader) | The raw data loader. |
 
-### Method: load_raw_data(rectangle, raw_data_settings, raw_data_loader) {#load_raw_data_rectangle_raw_data_settings_raw_data_loader_65}
+### Method: load_raw_data(rectangle, raw_data_settings, raw_data_loader) {#load_raw_data_rectangle_raw_data_settings_raw_data_loader_66}
 
 
 ```
@@ -1596,7 +1613,7 @@ Loads raw data.
 | raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | The raw data settings to use for loaded data. Note if data is not in the format specified then data conversion will be performed. |
 | raw_data_loader | [IPartialRawDataLoader](/psd/python-net/aspose.psd/ipartialrawdataloader) | The raw data loader. |
 
-### Method: merge_layers(bottom_layer, top_layer) {#merge_layers_bottom_layer_top_layer_66}
+### Method: merge_layers(bottom_layer, top_layer) {#merge_layers_bottom_layer_top_layer_67}
 
 
 ```
@@ -1619,7 +1636,7 @@ Merges the layers.
 | [Layer](/psd/python-net/aspose.psd.fileformats.psd.layers/layer/) | Bottom layer after the merge |
 
 
-### Method: read_argb_32_scan_line(scan_line_index) {#read_argb_32_scan_line_scan_line_index_67}
+### Method: read_argb_32_scan_line(scan_line_index) {#read_argb_32_scan_line_scan_line_index_68}
 
 
 ```
@@ -1641,7 +1658,7 @@ Reads the whole scan line by the specified scan line index.
 | int | The scan line 32-bit ARGB color values array. |
 
 
-### Method: read_scan_line(scan_line_index) {#read_scan_line_scan_line_index_68}
+### Method: read_scan_line(scan_line_index) {#read_scan_line_scan_line_index_69}
 
 
 ```
@@ -1663,7 +1680,7 @@ Reads the whole scan line by the specified scan line index.
 | [Color[]](/psd/python-net/aspose.psd/color) | The scan line pixel color values array. |
 
 
-### Method: replace_color(old_color, old_color_diff, new_color) {#replace_color_old_color_old_color_diff_new_color_69}
+### Method: replace_color(old_color, old_color_diff, new_color) {#replace_color_old_color_old_color_diff_new_color_70}
 
 
 ```
@@ -1680,7 +1697,7 @@ Replaces one color to another with allowed difference and preserves original alp
 | old_color_diff | byte | Allowed difference in old color to be able to widen replaced color tone. |
 | new_color | [Color](/psd/python-net/aspose.psd/color) |  |
 
-### Method: replace_color(old_color_argb, old_color_diff, new_color_argb) {#replace_color_old_color_argb_old_color_diff_new_color_argb_70}
+### Method: replace_color(old_color_argb, old_color_diff, new_color_argb) {#replace_color_old_color_argb_old_color_diff_new_color_argb_71}
 
 
 ```
@@ -1697,7 +1714,7 @@ Replaces one color to another with allowed difference and preserves original alp
 | old_color_diff | byte | Allowed difference in old color to be able to widen replaced color tone. |
 | new_color_argb | int | New color ARGB value to replace old color with. |
 
-### Method: replace_non_transparent_colors(new_color) {#replace_non_transparent_colors_new_color_71}
+### Method: replace_non_transparent_colors(new_color) {#replace_non_transparent_colors_new_color_72}
 
 
 ```
@@ -1712,7 +1729,7 @@ Replaces all non-transparent colors with new color and preserves original alpha 
 | :- | :- | :- |
 | new_color | [Color](/psd/python-net/aspose.psd/color) |  |
 
-### Method: replace_non_transparent_colors(new_color_argb) {#replace_non_transparent_colors_new_color_argb_72}
+### Method: replace_non_transparent_colors(new_color_argb) {#replace_non_transparent_colors_new_color_argb_73}
 
 
 ```
@@ -1727,7 +1744,7 @@ Replaces all non-transparent colors with new color and preserves original alpha 
 | :- | :- | :- |
 | new_color_argb | int | New color ARGB value to replace non transparent colors with. |
 
-### Method: resize(new_width, new_height) {#resize_new_width_new_height_73}
+### Method: resize(new_width, new_height) {#resize_new_width_new_height_74}
 
 
 ```
@@ -1743,7 +1760,7 @@ Resizes the image. The default [ResizeType.NEAREST_NEIGHBOUR_RESAMPLE](/psd/pyth
 | new_width | int | The new width. |
 | new_height | int | The new height. |
 
-### Method: resize(new_width, new_height, resize_type) {#resize_new_width_new_height_resize_type_74}
+### Method: resize(new_width, new_height, resize_type) {#resize_new_width_new_height_resize_type_75}
 
 
 ```
@@ -1760,7 +1777,7 @@ Resizes the image.
 | new_height | int | The new height. |
 | resize_type | [ResizeType](/psd/python-net/aspose.psd/resizetype) | The resize type. |
 
-### Method: resize(new_width, new_height, settings) {#resize_new_width_new_height_settings_75}
+### Method: resize(new_width, new_height, settings) {#resize_new_width_new_height_settings_76}
 
 
 ```
@@ -1777,7 +1794,7 @@ Resizes the image.
 | new_height | int | The new height. |
 | settings | [ImageResizeSettings](/psd/python-net/aspose.psd/imageresizesettings) | The resize settings. |
 
-### Method: resize_height_proportionally(new_height) {#resize_height_proportionally_new_height_76}
+### Method: resize_height_proportionally(new_height) {#resize_height_proportionally_new_height_77}
 
 
 ```
@@ -1792,7 +1809,7 @@ Resizes the height proportionally.
 | :- | :- | :- |
 | new_height | int | The new height. |
 
-### Method: resize_height_proportionally(new_height, resize_type) {#resize_height_proportionally_new_height_resize_type_77}
+### Method: resize_height_proportionally(new_height, resize_type) {#resize_height_proportionally_new_height_resize_type_78}
 
 
 ```
@@ -1808,7 +1825,7 @@ Resizes the height proportionally.
 | new_height | int | The new height. |
 | resize_type | [ResizeType](/psd/python-net/aspose.psd/resizetype) | Type of the resize. |
 
-### Method: resize_height_proportionally(new_height, settings) {#resize_height_proportionally_new_height_settings_78}
+### Method: resize_height_proportionally(new_height, settings) {#resize_height_proportionally_new_height_settings_79}
 
 
 ```
@@ -1824,7 +1841,7 @@ Resizes the height proportionally.
 | new_height | int | The new height. |
 | settings | [ImageResizeSettings](/psd/python-net/aspose.psd/imageresizesettings) | The image resize settings. |
 
-### Method: resize_width_proportionally(new_width) {#resize_width_proportionally_new_width_79}
+### Method: resize_width_proportionally(new_width) {#resize_width_proportionally_new_width_80}
 
 
 ```
@@ -1839,7 +1856,7 @@ Resizes the width proportionally. The default [ResizeType.NEAREST_NEIGHBOUR_RESA
 | :- | :- | :- |
 | new_width | int | The new width. |
 
-### Method: resize_width_proportionally(new_width, resize_type) {#resize_width_proportionally_new_width_resize_type_80}
+### Method: resize_width_proportionally(new_width, resize_type) {#resize_width_proportionally_new_width_resize_type_81}
 
 
 ```
@@ -1855,7 +1872,7 @@ Resizes the width proportionally.
 | new_width | int | The new width. |
 | resize_type | [ResizeType](/psd/python-net/aspose.psd/resizetype) | Type of the resize. |
 
-### Method: resize_width_proportionally(new_width, settings) {#resize_width_proportionally_new_width_settings_81}
+### Method: resize_width_proportionally(new_width, settings) {#resize_width_proportionally_new_width_settings_82}
 
 
 ```
@@ -1871,7 +1888,7 @@ Resizes the width proportionally.
 | new_width | int | The new width. |
 | settings | [ImageResizeSettings](/psd/python-net/aspose.psd/imageresizesettings) | The image resize settings. |
 
-### Method: rotate(angle) {#rotate_angle_82}
+### Method: rotate(angle) {#rotate_angle_83}
 
 
 ```
@@ -1886,7 +1903,7 @@ Rotate image around the center.
 | :- | :- | :- |
 | angle | float | The rotate angle in degrees. Positive values will rotate clockwise. |
 
-### Method: rotate(angle, resize_proportionally, background_color) {#rotate_angle_resize_proportionally_background_color_83}
+### Method: rotate(angle, resize_proportionally, background_color) {#rotate_angle_resize_proportionally_background_color_84}
 
 
 ```
@@ -1903,7 +1920,7 @@ Rotate image around the center.
 | resize_proportionally | bool | if set to <c>true</c> you will have your image size changed according to rotated rectangle (corner points) projections in other case that leaves dimensions untouched and only internal image contents are rotated. |
 | background_color | [Color](/psd/python-net/aspose.psd/color) | Color of the background. |
 
-### Method: rotate_flip(rotate_flip_type) {#rotate_flip_rotate_flip_type_84}
+### Method: rotate_flip(rotate_flip_type) {#rotate_flip_rotate_flip_type_85}
 
 
 ```
@@ -1918,7 +1935,7 @@ Rotates, flips, or rotates and flips the image.
 | :- | :- | :- |
 | rotate_flip_type | [RotateFlipType](/psd/python-net/aspose.psd/rotatefliptype) | The rotate flip type. |
 
-### Method: save(file_path) {#save_file_path_85}
+### Method: save(file_path) {#save_file_path_86}
 
 
 ```
@@ -1933,7 +1950,7 @@ Saves the object's data to the specified file location.
 | :- | :- | :- |
 | file_path | string | The file path to save the object's data to. |
 
-### Method: save(file_path, options) {#save_file_path_options_86}
+### Method: save(file_path, options) {#save_file_path_options_87}
 
 
 ```
@@ -1949,7 +1966,7 @@ Saves the object's data to the specified file location in the specified file for
 | file_path | string | The file path. |
 | options | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | The options. |
 
-### Method: save(file_path, options, bounds_rectangle) {#save_file_path_options_bounds_rectangle_87}
+### Method: save(file_path, options, bounds_rectangle) {#save_file_path_options_bounds_rectangle_88}
 
 
 ```
@@ -1966,7 +1983,7 @@ Saves the object's data to the specified file location in the specified file for
 | options | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | The options. |
 | bounds_rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The destination image bounds rectangle. Set the empty rectangle for use sourse bounds. |
 
-### Method: save(file_path, over_write) {#save_file_path_over_write_88}
+### Method: save(file_path, over_write) {#save_file_path_over_write_89}
 
 
 ```
@@ -1982,7 +1999,7 @@ Saves the object's data to the specified file location.
 | file_path | string | The file path to save the object's data to. |
 | over_write | bool | if set to <c>true</c> over write the file contents, otherwise append will occur. |
 
-### Method: save(stream) {#save_stream_89}
+### Method: save(stream) {#save_stream_90}
 
 
 ```
@@ -1997,7 +2014,7 @@ Saves the object's data to the specified stream.
 | :- | :- | :- |
 | stream | _io.BufferedRandom | The stream to save the object's data to. |
 
-### Method: save(stream, options_base) {#save_stream_options_base_90}
+### Method: save(stream, options_base) {#save_stream_options_base_91}
 
 
 ```
@@ -2013,7 +2030,7 @@ Saves the image's data to the specified stream in the specified file format acco
 | stream | _io.BufferedRandom | The stream to save the image's data to. |
 | options_base | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | The save options. |
 
-### Method: save(stream, options_base, bounds_rectangle) {#save_stream_options_base_bounds_rectangle_91}
+### Method: save(stream, options_base, bounds_rectangle) {#save_stream_options_base_bounds_rectangle_92}
 
 
 ```
@@ -2030,7 +2047,7 @@ Saves the image's data to the specified stream in the specified file format acco
 | options_base | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | The save options. |
 | bounds_rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The destination image bounds rectangle. Set the empty rectangle for use source bounds. |
 
-### Method: save_argb_32_pixels(rectangle, pixels) {#save_argb_32_pixels_rectangle_pixels_92}
+### Method: save_argb_32_pixels(rectangle, pixels) {#save_argb_32_pixels_rectangle_pixels_93}
 
 
 ```
@@ -2046,7 +2063,7 @@ Saves the 32-bit ARGB pixels.
 | rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The rectangle to save pixels to. |
 | pixels | int | The 32-bit ARGB pixels array. |
 
-### Method: save_pixels(rectangle, pixels) {#save_pixels_rectangle_pixels_93}
+### Method: save_pixels(rectangle, pixels) {#save_pixels_rectangle_pixels_94}
 
 
 ```
@@ -2062,7 +2079,7 @@ Saves pixels (format specific method).
 | rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The rectangle to save pixels to. |
 | pixels | [Color[]](/psd/python-net/aspose.psd/color) | The 32-bit ARGB pixels array. |
 
-### Method: save_raw_data(data, data_offset, rectangle, raw_data_settings) {#save_raw_data_data_data_offset_rectangle_raw_data_settings_94}
+### Method: save_raw_data(data, data_offset, rectangle, raw_data_settings) {#save_raw_data_data_data_offset_rectangle_raw_data_settings_95}
 
 
 ```
@@ -2080,7 +2097,7 @@ Saves the raw data.
 | rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | The raw data rectangle. |
 | raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | The raw data settings the data is in. |
 
-### Method: set_argb_32_pixel(x, y, argb_32_color) {#set_argb_32_pixel_x_y_argb_32_color_95}
+### Method: set_argb_32_pixel(x, y, argb_32_color) {#set_argb_32_pixel_x_y_argb_32_color_96}
 
 
 ```
@@ -2097,7 +2114,7 @@ Sets an image 32-bit ARGB pixel for the specified position.
 | y | int | The pixel y location. |
 | argb_32_color | int | The 32-bit ARGB pixel for the specified position. |
 
-### Method: set_palette(palette, update_colors) {#set_palette_palette_update_colors_96}
+### Method: set_palette(palette, update_colors) {#set_palette_palette_update_colors_97}
 
 
 ```
@@ -2113,7 +2130,7 @@ Sets the image palette.
 | palette | [IColorPalette](/psd/python-net/aspose.psd/icolorpalette) | The palette to set. |
 | update_colors | bool | if set to <c>true</c> colors will be updated according to the new palette; otherwise color indexes remain unchanged. Note that unchanged indexes may crash the image on loading if some indexes have no corresponding palette entries. |
 
-### Method: set_pixel(x, y, color) {#set_pixel_x_y_color_97}
+### Method: set_pixel(x, y, color) {#set_pixel_x_y_color_98}
 
 
 ```
@@ -2130,7 +2147,7 @@ Sets an image pixel for the specified position.
 | y | int | The pixel y location. |
 | color | [Color](/psd/python-net/aspose.psd/color) | The pixel color for the specified position. |
 
-### Method: set_resolution(dpi_x, dpi_y) {#set_resolution_dpi_x_dpi_y_98}
+### Method: set_resolution(dpi_x, dpi_y) {#set_resolution_dpi_x_dpi_y_99}
 
 
 ```
@@ -2146,7 +2163,7 @@ Sets the resolution for this [PsdImage](/psd/python-net/aspose.psd.fileformats.p
 | dpi_x | double | The horizontal resolution, in dots per inch, of the [RasterImage](/psd/python-net/aspose.psd/rasterimage/). |
 | dpi_y | double | The vertical resolution, in dots per inch, of the [RasterImage](/psd/python-net/aspose.psd/rasterimage/). |
 
-### Method: to_bitmap() {#to_bitmap__99}
+### Method: to_bitmap() {#to_bitmap__100}
 
 
 ```
@@ -2162,7 +2179,7 @@ Sets the resolution for this [PsdImage](/psd/python-net/aspose.psd.fileformats.p
 | aspose.pydrawing.Bitmap |  |
 
 
-### Method: write_argb_32_scan_line(scan_line_index, argb_32_pixels) {#write_argb_32_scan_line_scan_line_index_argb_32_pixels_100}
+### Method: write_argb_32_scan_line(scan_line_index, argb_32_pixels) {#write_argb_32_scan_line_scan_line_index_argb_32_pixels_101}
 
 
 ```
@@ -2178,7 +2195,7 @@ Writes the whole scan line to the specified scan line index.
 | scan_line_index | int | Zero based index of the scan line. |
 | argb_32_pixels | int | The 32-bit ARGB colors array to write. |
 
-### Method: write_scan_line(scan_line_index, pixels) {#write_scan_line_scan_line_index_pixels_101}
+### Method: write_scan_line(scan_line_index, pixels) {#write_scan_line_scan_line_index_pixels_102}
 
 
 ```

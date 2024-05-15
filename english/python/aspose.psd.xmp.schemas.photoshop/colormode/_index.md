@@ -11,7 +11,7 @@ Represents color mode in [PhotoshopPackage](/psd/python-net/aspose.psd.xmp.schem
 
 **Full Name:** aspose.psd.xmp.schemas.photoshop.ColorMode
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Members**
 | **Member name** | **Description** |

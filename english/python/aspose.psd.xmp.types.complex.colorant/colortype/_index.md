@@ -11,7 +11,7 @@ Type of color.
 
 **Full Name:** aspose.psd.xmp.types.complex.colorant.ColorType
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Members**
 | **Member name** | **Description** |

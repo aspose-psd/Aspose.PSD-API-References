@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/
 
 **Inheritance:** IXmlValue, XmpPackage
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Constructors**
 | **Name** | **Description** |

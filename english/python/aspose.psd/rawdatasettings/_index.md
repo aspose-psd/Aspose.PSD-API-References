@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/rawdatasettings/
 
 **Full Name:** aspose.psd.RawDataSettings
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Constructors**
 | **Name** | **Description** |

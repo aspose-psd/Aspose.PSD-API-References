@@ -11,7 +11,7 @@ Specifies how a texture or gradient is tiled when it is smaller than the area be
 
 **Full Name:** aspose.psd.WrapMode
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Members**
 | **Member name** | **Description** |

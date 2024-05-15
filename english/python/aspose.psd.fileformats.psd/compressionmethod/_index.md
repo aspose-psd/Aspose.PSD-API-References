@@ -11,7 +11,7 @@ Defines the compression method used for image data.
 
 **Full Name:** aspose.psd.fileformats.psd.CompressionMethod
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Members**
 | **Member name** | **Description** |
