@@ -27,6 +27,7 @@ public class PsdOptions : ImageOptionsBase
 
 | Name | Description |
 | --- | --- |
+| [BackgroundContents](../../aspose.psd.imageoptions/psdoptions/backgroundcontents/) { get; set; } | Gets or sets the color of background. It can be seen under transparent objects. |
 | [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Gets or sets the bits count per color channel. |
 | [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Gets or sets the color channels count. |

@@ -3,7 +3,7 @@ title: AiLayerSection.AddRasterImage
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection method. Adds the raster image
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.psd.fileformats.ai/ailayersection/addrasterimage/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PsdOptions.ChannelsCount
 second_title: Aspose.PSD for .NET API Reference
 description: PsdOptions property. Gets or sets the color channels count
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd.imageoptions/psdoptions/channelscount/
 ---
 {{< psd/tize >}}

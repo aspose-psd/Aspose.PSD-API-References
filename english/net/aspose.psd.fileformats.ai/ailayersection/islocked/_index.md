@@ -3,7 +3,7 @@ title: AiLayerSection.IsLocked
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets a value indicating whether this layer is locked. Prevents changes to the item
 type: docs
-weight: 60
+weight: 80
 url: /net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
 {{< psd/tize >}}

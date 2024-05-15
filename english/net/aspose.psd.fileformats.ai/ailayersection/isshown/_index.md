@@ -3,7 +3,7 @@ title: AiLayerSection.IsShown
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets a value indicating whether this layer is shown. Displays all artwork contained in the layer on the artboard if true
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
 {{< psd/tize >}}

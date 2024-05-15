@@ -3,7 +3,7 @@ title: PsdOptions.CompressionMethod
 second_title: Aspose.PSD for .NET API Reference
 description: PsdOptions property. Gets or sets the psd compression method
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.imageoptions/psdoptions/compressionmethod/
 ---
 {{< psd/tize >}}

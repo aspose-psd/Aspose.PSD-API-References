@@ -3,7 +3,7 @@ title: AiLayerSection.DimValue
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets the dim value as percentage. Reduces the intensity of linked images and bitmap images contained in the layer to the specified percentage
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
 {{< psd/tize >}}
