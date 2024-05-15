@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.xmp.types.complex.colorant/colorantrgb/
 
 **Inheritance:** IXmpType, ColorantBase
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Constructors**
 | **Name** | **Description** |

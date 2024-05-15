@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/pixelsdata/
 
 **Full Name:** aspose.psd.PixelsData
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Constructors**
 | **Name** | **Description** |

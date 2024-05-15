@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.core.rawcolor/colorcomponent/
 
 **Full Name:** aspose.psd.fileformats.psd.core.rawcolor.ColorComponent
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Constructors**
 | **Name** | **Description** |

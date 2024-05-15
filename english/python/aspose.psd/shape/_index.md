@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/shape/
 
 **Inheritance:** ObjectWithBounds
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

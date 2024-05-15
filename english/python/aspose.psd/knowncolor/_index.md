@@ -11,7 +11,7 @@ Specifies the known system colors.
 
 **Full Name:** aspose.psd.KnownColor
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Members**
 | **Member name** | **Description** |

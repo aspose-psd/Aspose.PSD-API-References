@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/ipartialargb32pixelloader/
 
 **Full Name:** aspose.psd.IPartialArgb32PixelLoader
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Methods**
 | **Name** | **Description** |

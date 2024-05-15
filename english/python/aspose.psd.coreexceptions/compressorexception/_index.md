@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.coreexceptions/compressorexception/
 
 **Inheritance:** FrameworkException
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Constructors**
 | **Name** | **Description** |
