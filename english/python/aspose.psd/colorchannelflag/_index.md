@@ -11,7 +11,7 @@ Specifies individual channels in the CMYK (cyan, magenta, yellow, black) color s
 
 **Full Name:** aspose.psd.ColorChannelFlag
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Members**
 | **Member name** | **Description** |

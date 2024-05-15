@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/nongenericdictionary/
 
 **Full Name:** aspose.psd.NonGenericDictionary
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

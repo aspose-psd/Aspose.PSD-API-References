@@ -11,7 +11,7 @@ Specifies the alignment of a text string relative to its layout rectangle.
 
 **Full Name:** aspose.psd.StringAlignment
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Members**
 | **Member name** | **Description** |

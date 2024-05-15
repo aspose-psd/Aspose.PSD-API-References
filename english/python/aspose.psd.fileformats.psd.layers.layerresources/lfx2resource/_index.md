@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/ipartialrawdataloader/
 
 **Full Name:** aspose.psd.IPartialRawDataLoader
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Methods**
 | **Name** | **Description** |

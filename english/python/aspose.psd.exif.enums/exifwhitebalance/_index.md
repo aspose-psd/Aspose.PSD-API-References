@@ -11,7 +11,7 @@ exif white balance enum.
 
 **Full Name:** aspose.psd.exif.enums.ExifWhiteBalance
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Members**
 | **Member name** | **Description** |

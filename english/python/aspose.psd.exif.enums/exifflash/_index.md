@@ -11,7 +11,7 @@ Flash mode.
 
 **Full Name:** aspose.psd.exif.enums.ExifFlash
 
-**Aspose.PSD Version:** 24.2.0
+**Aspose.PSD Version:** 24.4.0
 
 ## **Members**
 | **Member name** | **Description** |
