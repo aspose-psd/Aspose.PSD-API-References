@@ -3,7 +3,7 @@ title: AiLayerSection.ColorNumber
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets the color number. 1 is the custom color value from Red Green Blue properties. Specifies the layers color setting
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
 {{< psd/tize >}}

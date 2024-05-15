@@ -35,7 +35,7 @@ public class PathShape : IPathShape
 | Name | Description |
 | --- | --- |
 | [GetItems](../../aspose.psd.fileformats.psd.layers.layerresources/pathshape/getitems/)() | Gets array of Bezier knots. |
-| [SetItems](../../aspose.psd.fileformats.psd.layers.layerresources/pathshape/setitems/)(BezierKnotRecord[]) | Assignes array of Bexier knots. |
+| [SetItems](../../aspose.psd.fileformats.psd.layers.layerresources/pathshape/setitems/)(BezierKnotRecord[]) | Assigns array of Bezier knots. |
 | [ToVectorPathRecords](../../aspose.psd.fileformats.psd.layers.layerresources/pathshape/tovectorpathrecords/)() | Creates the [`VectorPathRecord`](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/) records based on this instance. |
 
 ## Examples

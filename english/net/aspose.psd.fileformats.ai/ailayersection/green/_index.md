@@ -3,7 +3,7 @@ title: AiLayerSection.Green
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets the green color component
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
 {{< psd/tize >}}

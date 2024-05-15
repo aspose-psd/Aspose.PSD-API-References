@@ -3,7 +3,7 @@ title: AiLayerSection.IsImagesDimmed
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets a value indicating whether this layer is dimmed. Reduces the intensity of linked images and bitmap images contained in the layer
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
 {{< psd/tize >}}

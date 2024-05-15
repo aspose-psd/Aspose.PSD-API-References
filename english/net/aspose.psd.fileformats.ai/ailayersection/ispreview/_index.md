@@ -3,7 +3,7 @@ title: AiLayerSection.IsPreview
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets a value indicating whether this layer is preview. Displays the artwork contained in the layer in color instead of as outlines
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: AiLayerSection.Name
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets the layer name. Specifies the name of the item as it appears in the Layers panel
 type: docs
-weight: 110
+weight: 130
 url: /net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
 {{< psd/tize >}}

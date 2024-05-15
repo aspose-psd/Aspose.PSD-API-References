@@ -3,7 +3,7 @@ title: AiLayerSection.RasterImages
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets the raster images
 type: docs
-weight: 120
+weight: 140
 url: /net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
 {{< psd/tize >}}

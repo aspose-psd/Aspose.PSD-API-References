@@ -3,7 +3,7 @@ title: AiLayerSection.IsPrinted
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets a value indicating whether this layer is printed. Makes the artwork contained in the layer printable if true
 type: docs
-weight: 80
+weight: 100
 url: /net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
 {{< psd/tize >}}

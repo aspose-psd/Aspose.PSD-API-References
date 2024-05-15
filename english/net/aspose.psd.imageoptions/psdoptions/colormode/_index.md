@@ -3,7 +3,7 @@ title: PsdOptions.ColorMode
 second_title: Aspose.PSD for .NET API Reference
 description: PsdOptions property. Gets or sets the psd color mode
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.psd.imageoptions/psdoptions/colormode/
 ---
 {{< psd/tize >}}

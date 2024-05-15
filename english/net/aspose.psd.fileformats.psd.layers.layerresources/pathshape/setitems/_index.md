@@ -1,7 +1,7 @@
 ---
 title: PathShape.SetItems
 second_title: Aspose.PSD for .NET API Reference
-description: PathShape method. Assignes array of Bexier knots
+description: PathShape method. Assigns array of Bezier knots
 type: docs
 weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pathshape/setitems/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/pathshape/setitems/
 {{< psd/tize >}}
 ## PathShape.SetItems method
 
-Assignes array of Bexier knots.
+Assigns array of Bezier knots.
 
 ```csharp
 public void SetItems(BezierKnotRecord[] bezierPoints)

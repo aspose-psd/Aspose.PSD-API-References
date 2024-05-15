@@ -3,7 +3,7 @@ title: PsdOptions.RemoveGlobalTextEngineResource
 second_title: Aspose.PSD for .NET API Reference
 description: PsdOptions property. Gets or sets a value indicating whether  Remove the global text engine resource  Used for some textlayered psd files in only case when they can not be opened in Adobe Photoshop after processing mostly for absent fonts text layers related. After using this option user need to Make next in opened in Photoshop file Menu Text  Process absent fonts. After that operation all text will appear again. Please note that this operation may cause some final layout changes
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/
 ---
 {{< psd/tize >}}
