@@ -3,7 +3,7 @@ title: PsdOptions.PsdVersion
 second_title: Aspose.PSD for .NET API Reference
 description: PsdOptions property. Gets or sets the file format version. It can be PSD or PSB
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
 {{< psd/tize >}}

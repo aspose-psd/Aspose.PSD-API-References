@@ -3,7 +3,7 @@ title: AiLayerSection.IsTemplate
 second_title: Aspose.PSD for .NET API Reference
 description: AiLayerSection property. Gets or sets a value indicating whether this layer is a template layer
 type: docs
-weight: 100
+weight: 120
 url: /net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
 {{< psd/tize >}}

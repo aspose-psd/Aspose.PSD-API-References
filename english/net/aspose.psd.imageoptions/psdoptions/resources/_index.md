@@ -3,7 +3,7 @@ title: PsdOptions.Resources
 second_title: Aspose.PSD for .NET API Reference
 description: PsdOptions property. Gets or sets the psd resources
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.psd.imageoptions/psdoptions/resources/
 ---
 {{< psd/tize >}}

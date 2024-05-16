@@ -20,10 +20,12 @@ public sealed class AiLayerSection : AiDataSection
 | Name | Description |
 | --- | --- |
 | [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Gets or sets the blue color component. |
+| [ColorIndex](../../aspose.psd.fileformats.ai/ailayersection/colorindex/) { get; set; } | Gets or sets the index of the color. This argument can take on values between –1 and 26. Each integer represents a color that can be assigned to the layer for user identification purposes. |
 | [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Gets or sets the color number. -1 is the custom color value from Red, Green, Blue properties. Specifies the layer’s color setting. |
 | [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Gets or sets the dim value as percentage. Reduces the intensity of linked images and bitmap images contained in the layer to the specified percentage. |
 | [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Gets a value indicating whether this instance is disposed. |
 | [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Gets or sets the green color component. |
+| [HasMultiLayerMasks](../../aspose.psd.fileformats.ai/ailayersection/hasmultilayermasks/) { get; set; } | Gets or sets a value indicating whether this instance has multilayer masks. |
 | [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Gets or sets a value indicating whether this layer is dimmed. Reduces the intensity of linked images and bitmap images contained in the layer. |
 | [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Gets or sets a value indicating whether this layer is locked. Prevents changes to the item. |
 | [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Gets or sets a value indicating whether this layer is preview. Displays the artwork contained in the layer in color instead of as outlines. |

@@ -19,12 +19,6 @@ public LengthRecord(byte[] data)
 | --- | --- | --- |
 | data | Byte[] | The record data. |
 
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| !:PsdImageArgumentException | Incorrect data for LengthRecord creation |
-
 ### See Also
 
 * class [LengthRecord](../)
