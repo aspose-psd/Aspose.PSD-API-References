@@ -22,21 +22,32 @@ The channel information.
 | Constructor | Description |
 | --- | --- |
 | [ChannelInformation(short compressionMethod, int bitDepth, int psdVersion)](#ChannelInformation-short-int-int-) |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [FullMaskChannelId_internalized](#FullMaskChannelId-internalized) | The user (raster) mask channel Id. |
+| [ShortMaskChannelId_internalized](#ShortMaskChannelId-internalized) | The short (raster or vector) mask channel Id. |
+| [TransparencyMaskChannelId_internalized](#TransparencyMaskChannelId-internalized) | The alpha channel Id |
 ## Methods
 
 | Method | Description |
 | --- | --- |
+| [compressChannel_internalized(byte[] rawData, Rectangle layerBounds, Rectangle layerMaskBounds)](#compressChannel-internalized-byte---com.aspose.psd.Rectangle-com.aspose.psd.Rectangle-) | It compresses channel data |
 | [create_internalized(byte[] compressedData, short compressionMethod, int width, int height, PsdHeader header)](#create-internalized-byte---short-int-int-com.aspose.internal.fileformats.psd.sections.PsdHeader-) |  |
 | [create_internalized(short compressionMethod, PsdHeader header)](#create-internalized-short-com.aspose.internal.fileformats.psd.sections.PsdHeader-) |  |
 | [deepClone_internalized(ChannelInformation[] info)](#deepClone-internalized-com.aspose.psd.fileformats.psd.layers.ChannelInformation---) | Clones the specified channel information. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBitDepth_internalized()](#getBitDepth-internalized--) | Gets the channel bit depth. |
 | [getChannelID()](#getChannelID--) | Gets or sets the channel ID. |
 | [getClass()](#getClass--) |  |
 | [getCompressionMethod()](#getCompressionMethod--) | Gets or sets the compression method. |
 | [getData_internalized()](#getData-internalized--) | Gets or sets the channel data. |
 | [getLength()](#getLength--) | Gets the channel length in bytes. |
+| [getPsdHeaderVersion_internalized()](#getPsdHeaderVersion-internalized--) | Gets the version of PSD |
 | [getUncompressedData_internalized()](#getUncompressedData-internalized--) | Gets the uncompressed data. |
 | [hashCode()](#hashCode--) |  |
+| [isShortMaskChannel_internalized()](#isShortMaskChannel-internalized--) | Gets channel is ShortMask or not |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [saveChannelData_internalized(StreamContainer streamContainer)](#saveChannelData-internalized-com.aspose.psd.StreamContainer-) |  |
@@ -44,6 +55,7 @@ The channel information.
 | [setChannelID(short value)](#setChannelID-short-) | Gets or sets the channel ID. |
 | [setCompressedData_internalized(byte[] compressedData, int channelWidth, int channelHeight)](#setCompressedData-internalized-byte---int-int-) | Sets the compressed data. |
 | [setCompressionMethod(short value)](#setCompressionMethod-short-) | Gets or sets the compression method. |
+| [setRawData_internalized(byte[] rawData, Size imageSize, Rectangle currentBounds)](#setRawData-internalized-byte---com.aspose.psd.Size-com.aspose.psd.Rectangle-) | Sets the compressed data. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -60,6 +72,45 @@ public ChannelInformation(short compressionMethod, int bitDepth, int psdVersion)
 | compressionMethod | short |  |
 | bitDepth | int |  |
 | psdVersion | int |  |
+
+### FullMaskChannelId_internalized {#FullMaskChannelId-internalized}
+```
+public static final int FullMaskChannelId_internalized
+```
+
+
+The user (raster) mask channel Id. (if a layer has both vector and raster mask).
+
+### ShortMaskChannelId_internalized {#ShortMaskChannelId-internalized}
+```
+public static final int ShortMaskChannelId_internalized
+```
+
+
+The short (raster or vector) mask channel Id. (if a layer has only one vector or raster mask but not both).
+
+### TransparencyMaskChannelId_internalized {#TransparencyMaskChannelId-internalized}
+```
+public static final int TransparencyMaskChannelId_internalized
+```
+
+
+The alpha channel Id
+
+### compressChannel_internalized(byte[] rawData, Rectangle layerBounds, Rectangle layerMaskBounds) {#compressChannel-internalized-byte---com.aspose.psd.Rectangle-com.aspose.psd.Rectangle-}
+```
+public final void compressChannel_internalized(byte[] rawData, Rectangle layerBounds, Rectangle layerMaskBounds)
+```
+
+
+It compresses channel data
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rawData | byte[] | The raw data for compress |
+| layerBounds | [Rectangle](../../com.aspose.psd/rectangle) | The bounds of layer |
+| layerMaskBounds | [Rectangle](../../com.aspose.psd/rectangle) | The bounds of layer mask |
 
 ### create_internalized(byte[] compressedData, short compressionMethod, int width, int height, PsdHeader header) {#create-internalized-byte---short-int-int-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
 ```
@@ -126,6 +177,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getBitDepth_internalized() {#getBitDepth-internalized--}
+```
+public final int getBitDepth_internalized()
+```
+
+
+Gets the channel bit depth.
+
+**Returns:**
+int
 ### getChannelID() {#getChannelID--}
 ```
 public final short getChannelID()
@@ -184,6 +245,16 @@ Value: The length.
 
 **Returns:**
 int
+### getPsdHeaderVersion_internalized() {#getPsdHeaderVersion-internalized--}
+```
+public final int getPsdHeaderVersion_internalized()
+```
+
+
+Gets the version of PSD
+
+**Returns:**
+int
 ### getUncompressedData_internalized() {#getUncompressedData-internalized--}
 ```
 public final byte[] getUncompressedData_internalized()
@@ -204,6 +275,16 @@ public native int hashCode()
 
 **Returns:**
 int
+### isShortMaskChannel_internalized() {#isShortMaskChannel-internalized--}
+```
+public final boolean isShortMaskChannel_internalized()
+```
+
+
+Gets channel is ShortMask or not
+
+**Returns:**
+boolean
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -291,6 +372,21 @@ Value: The compression method.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | short |  |
+
+### setRawData_internalized(byte[] rawData, Size imageSize, Rectangle currentBounds) {#setRawData-internalized-byte---com.aspose.psd.Size-com.aspose.psd.Rectangle-}
+```
+public final void setRawData_internalized(byte[] rawData, Size imageSize, Rectangle currentBounds)
+```
+
+
+Sets the compressed data.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rawData | byte[] | The raw data. |
+| imageSize | [Size](../../com.aspose.psd/size) | The size of image |
+| currentBounds | [Rectangle](../../com.aspose.psd/rectangle) | The bounds of current channelData. If image is big it will be divide on process and currentBounds != imageBounds |
 
 ### toString() {#toString--}
 ```

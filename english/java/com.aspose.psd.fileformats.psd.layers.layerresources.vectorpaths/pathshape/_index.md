@@ -37,7 +37,7 @@ The figure from the knots of the Bezier curve.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setClosed(boolean value)](#setClosed-boolean-) | Gets or sets a value indicating whether this instance is closed. |
-| [setItems(BezierKnotRecord[] bezierPoints)](#setItems-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.BezierKnotRecord---) | Assignes array of Bexier knots. |
+| [setItems(BezierKnotRecord[] bezierPoints)](#setItems-com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths.BezierKnotRecord---) | Assigns array of Bezier knots. |
 | [setPathOperations(int value)](#setPathOperations-int-) | Gets or sets the path operations (Boolean operations). |
 | [setShapeIndex(int value)](#setShapeIndex-int-) | Gets or sets the index of current path shape in layer. |
 | [toString()](#toString--) |  |
@@ -181,7 +181,7 @@ public final void setItems(BezierKnotRecord[] bezierPoints)
 ```
 
 
-Assignes array of Bexier knots.
+Assigns array of Bezier knots.
 
 **Parameters:**
 | Parameter | Type | Description |
