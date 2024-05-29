@@ -110,6 +110,7 @@ Defines the PsdImage class that provides the ability to load, edit, save PSD fil
 | [getArgb32Pixel(int x, int y)](#getArgb32Pixel-int-int-) | Gets an image 32-bit ARGB pixel. |
 | [getAutoAdjustPalette()](#getAutoAdjustPalette--) | Gets a value indicating whether automatic adjust palette. |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets a value for the background color. |
+| [getBackgroundContents_internalized()](#getBackgroundContents-internalized--) | Gets or sets the color of background. |
 | [getBitsPerChannel()](#getBitsPerChannel--) | Gets the bits per channel. |
 | [getBitsPerPixel()](#getBitsPerPixel--) | Gets the image bits per pixel count. |
 | [getBounds()](#getBounds--) | Gets the image bounds. |
@@ -276,6 +277,7 @@ Defines the PsdImage class that provides the ability to load, edit, save PSD fil
 | [setAutoAdjustPalette(boolean value)](#setAutoAdjustPalette-boolean-) | Sets a value indicating whether automatic adjust palette. |
 | [setBackgroundColor(boolean value)](#setBackgroundColor-boolean-) | Gets or sets a value indicating whether image has background color. |
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.psd.Color-) | Gets or sets a value for the background color. |
+| [setBackgroundContents_internalized(RawColor value)](#setBackgroundContents-internalized-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Gets or sets the color of background. |
 | [setBufferSizeHint(int value)](#setBufferSizeHint-int-) | Sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [setCmykColorProfile(StreamSource value)](#setCmykColorProfile-com.aspose.psd.sources.StreamSource-) | Gets or sets the CMYK color profile for CMYK PSD images. |
 | [setColorMode(short value)](#setColorMode-short-) | Gets or sets the color mode. |
@@ -1420,6 +1422,16 @@ Gets or sets a value for the background color.
 
 **Returns:**
 [Color](../../com.aspose.psd/color)
+### getBackgroundContents_internalized() {#getBackgroundContents-internalized--}
+```
+public final RawColor getBackgroundContents_internalized()
+```
+
+
+Gets or sets the color of background. It can be seen under transparent objects.
+
+**Returns:**
+[RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor)
 ### getBitsPerChannel() {#getBitsPerChannel--}
 ```
 public final int getBitsPerChannel()
@@ -3537,6 +3549,19 @@ Gets or sets a value for the background color.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [Color](../../com.aspose.psd/color) |  |
+
+### setBackgroundContents_internalized(RawColor value) {#setBackgroundContents-internalized-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
+```
+public final void setBackgroundContents_internalized(RawColor value)
+```
+
+
+Gets or sets the color of background. It can be seen under transparent objects.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) |  |
 
 ### setBufferSizeHint(int value) {#setBufferSizeHint-int-}
 ```

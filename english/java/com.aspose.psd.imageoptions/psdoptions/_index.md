@@ -31,6 +31,7 @@ The psd file format create options.
 | [deepClone_internalized()](#deepClone-internalized--) | Clones this instance. |
 | [dispose()](#dispose--) | Disposes the current instance. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBackgroundContents()](#getBackgroundContents--) | Gets or sets the color of background. |
 | [getBufferSizeHint()](#getBufferSizeHint--) | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [getChannelBitsCount()](#getChannelBitsCount--) | Gets or sets the bits count per color channel. |
 | [getChannelsCount()](#getChannelsCount--) | Gets or sets the color channels count. |
@@ -57,6 +58,7 @@ The psd file format create options.
 | [isColorModeSet()](#isColorModeSet--) | Shows if ColorMode property has been assigned. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setBackgroundContents(RawColor value)](#setBackgroundContents-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Gets or sets the color of background. |
 | [setBufferSizeHint(int value)](#setBufferSizeHint-int-) | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [setChannelBitsCount(short value)](#setChannelBitsCount-short-) | Gets or sets the bits count per color channel. |
 | [setChannelsCount(short value)](#setChannelsCount-short-) | Gets or sets the color channels count. |
@@ -177,6 +179,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getBackgroundContents() {#getBackgroundContents--}
+```
+public final RawColor getBackgroundContents()
+```
+
+
+Gets or sets the color of background. It can be seen under transparent objects.
+
+**Returns:**
+[RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor)
 ### getBufferSizeHint() {#getBufferSizeHint--}
 ```
 public final int getBufferSizeHint()
@@ -466,6 +478,19 @@ public final native void notifyAll()
 
 
 
+
+### setBackgroundContents(RawColor value) {#setBackgroundContents-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
+```
+public final void setBackgroundContents(RawColor value)
+```
+
+
+Gets or sets the color of background. It can be seen under transparent objects.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) |  |
 
 ### setBufferSizeHint(int value) {#setBufferSizeHint-int-}
 ```

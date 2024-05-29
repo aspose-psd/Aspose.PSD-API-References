@@ -58,6 +58,7 @@ Specifies the available cap styles with which a  Pen  object can end a line.
 | [isDefined(System.Type arg0, Object arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.Object-) |  |
 | [isDefined(System.Type arg0, String arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.String-) |  |
 | [isDefined(System.Type arg0, long arg1)](#isDefined-com.aspose.ms.System.Type-long-) |  |
+| [isDefined(Class<?> arg0, String arg1)](#isDefined-java.lang.Class----java.lang.String-) |  |
 | [isDefined(Class<?> arg0, long arg1)](#isDefined-java.lang.Class----long-) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
@@ -69,6 +70,7 @@ Specifies the available cap styles with which a  Pen  object can end a line.
 | [toObject(System.Type arg0, Object arg1)](#toObject-com.aspose.ms.System.Type-java.lang.Object-) |  |
 | [toString()](#toString--) |  |
 | [toString(Class<?> arg0, long arg1)](#toString-java.lang.Class----long-) |  |
+| [toString(long arg0)](#toString-long-) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -497,6 +499,22 @@ public static boolean isDefined(System.Type arg0, long arg1)
 
 **Returns:**
 boolean
+### isDefined(Class<?> arg0, String arg1) {#isDefined-java.lang.Class----java.lang.String-}
+```
+public static boolean isDefined(Class<?> arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+boolean
 ### isDefined(Class<?> arg0, long arg1) {#isDefined-java.lang.Class----long-}
 ```
 public static boolean isDefined(Class<?> arg0, long arg1)
@@ -647,6 +665,21 @@ public static String toString(Class<?> arg0, long arg1)
 | --- | --- | --- |
 | arg0 | java.lang.Class<?> |  |
 | arg1 | long |  |
+
+**Returns:**
+java.lang.String
+### toString(long arg0) {#toString-long-}
+```
+public String toString(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| arg0 | long |  |
 
 **Returns:**
 java.lang.String
