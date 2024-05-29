@@ -26,6 +26,7 @@ The Ai format Layer Section
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBlue()](#getBlue--) | Gets or sets the blue color component. |
 | [getClass()](#getClass--) |  |
+| [getColorIndex()](#getColorIndex--) | Gets or sets the index of the color. |
 | [getColorNumber()](#getColorNumber--) | Gets or sets the color number. |
 | [getData()](#getData--) | Gets the string data. |
 | [getDimValue()](#getDimValue--) | Gets or sets the dim value as percentage. |
@@ -35,6 +36,7 @@ The Ai format Layer Section
 | [getRasterImages()](#getRasterImages--) | Gets the raster images. |
 | [getRed()](#getRed--) | Gets or sets the red color component. |
 | [getStream_internalized()](#getStream-internalized--) | Gets the inner stream |
+| [hasMultiLayerMasks()](#hasMultiLayerMasks--) | Gets or sets a value indicating whether this instance has multilayer masks. |
 | [hashCode()](#hashCode--) |  |
 | [isImagesDimmed()](#isImagesDimmed--) | Gets or sets a value indicating whether this layer is dimmed. |
 | [isLocked()](#isLocked--) | Gets or sets a value indicating whether this layer is locked. |
@@ -45,11 +47,13 @@ The Ai format Layer Section
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setBlue(int value)](#setBlue-int-) | Gets or sets the blue color component. |
+| [setColorIndex(int value)](#setColorIndex-int-) | Gets or sets the index of the color. |
 | [setColorNumber(int value)](#setColorNumber-int-) | Gets or sets the color number. |
 | [setDimValue(int value)](#setDimValue-int-) | Gets or sets the dim value as percentage. |
 | [setGreen(int value)](#setGreen-int-) | Gets or sets the green color component. |
 | [setImagesDimmed(boolean value)](#setImagesDimmed-boolean-) | Gets or sets a value indicating whether this layer is dimmed. |
 | [setLocked(boolean value)](#setLocked-boolean-) | Gets or sets a value indicating whether this layer is locked. |
+| [setMultiLayerMasks(boolean value)](#setMultiLayerMasks-boolean-) | Gets or sets a value indicating whether this instance has multilayer masks. |
 | [setName(String value)](#setName-java.lang.String-) | Gets or sets the layer name. |
 | [setPreview(boolean value)](#setPreview-boolean-) | Gets or sets a value indicating whether this layer is preview. |
 | [setPrinted(boolean value)](#setPrinted-boolean-) | Gets or sets a value indicating whether this layer is printed. |
@@ -158,6 +162,18 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getColorIndex() {#getColorIndex--}
+```
+public final int getColorIndex()
+```
+
+
+Gets or sets the index of the color. This argument can take on values between \\u20131 and 26. Each integer represents a color that can be assigned to the layer for user identification purposes.
+
+Value: The index of the color.
+
+**Returns:**
+int
 ### getColorNumber() {#getColorNumber--}
 ```
 public final int getColorNumber()
@@ -260,6 +276,18 @@ Gets the inner stream
 
 **Returns:**
 [StreamContainer](../../com.aspose.psd/streamcontainer) - The  StreamContainer  instance.
+### hasMultiLayerMasks() {#hasMultiLayerMasks--}
+```
+public final boolean hasMultiLayerMasks()
+```
+
+
+Gets or sets a value indicating whether this instance has multilayer masks.
+
+Value:  true  if this instance has multilayer masks; otherwise,  false .
+
+**Returns:**
+boolean
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -373,6 +401,21 @@ Value: The blue color component.
 | --- | --- | --- |
 | value | int |  |
 
+### setColorIndex(int value) {#setColorIndex-int-}
+```
+public final void setColorIndex(int value)
+```
+
+
+Gets or sets the index of the color. This argument can take on values between \\u20131 and 26. Each integer represents a color that can be assigned to the layer for user identification purposes.
+
+Value: The index of the color.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
 ### setColorNumber(int value) {#setColorNumber-int-}
 ```
 public final void setColorNumber(int value)
@@ -442,6 +485,21 @@ public final void setLocked(boolean value)
 Gets or sets a value indicating whether this layer is locked. Prevents changes to the item.
 
 Value:  true  if this layer is locked; otherwise,  false .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
+
+### setMultiLayerMasks(boolean value) {#setMultiLayerMasks-boolean-}
+```
+public final void setMultiLayerMasks(boolean value)
+```
+
+
+Gets or sets a value indicating whether this instance has multilayer masks.
+
+Value:  true  if this instance has multilayer masks; otherwise,  false .
 
 **Parameters:**
 | Parameter | Type | Description |
