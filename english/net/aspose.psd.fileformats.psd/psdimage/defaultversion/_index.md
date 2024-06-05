@@ -3,7 +3,7 @@ title: PsdImage.DefaultVersion
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage field. The default PSD version
 type: docs
-weight: 680
+weight: 690
 url: /net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 ---
 {{< psd/tize >}}

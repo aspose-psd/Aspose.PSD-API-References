@@ -3,7 +3,7 @@ title: Class DoubleStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DoubleStructure class. The double structure
 type: docs
-weight: 3370
+weight: 3380
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/
 ---
 {{< psd/tize >}}

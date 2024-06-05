@@ -3,7 +3,7 @@ title: Class RgbChannelMixerLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbChannelMixerLayer class. Rgb Channel Mixer Adjustment layer
 type: docs
-weight: 1860
+weight: 1870
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/
 ---
 {{< psd/tize >}}

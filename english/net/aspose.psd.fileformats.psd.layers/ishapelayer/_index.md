@@ -3,7 +3,7 @@ title: Interface IShapeLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.IShapeLayer interface. Describes the properties of Shape layer
 type: docs
-weight: 2200
+weight: 2210
 url: /net/aspose.psd.fileformats.psd.layers/ishapelayer/
 ---
 {{< psd/tize >}}

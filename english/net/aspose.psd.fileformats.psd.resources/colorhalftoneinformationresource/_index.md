@@ -3,7 +3,7 @@ title: Class ColorHalftoneInformationResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.ColorHalftoneInformationResource class. Halftoning resource
 type: docs
-weight: 3920
+weight: 3930
 url: /net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/
 ---
 {{< psd/tize >}}

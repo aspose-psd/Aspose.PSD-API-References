@@ -3,7 +3,7 @@ title: Class LinkResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkResource class. Defines the LinkResource class that contains information about linked or embedded files in the PSD format image. The link resource may contain several LinkDataSource instances which can be accessed by indexers in any derived class
 type: docs
-weight: 2870
+weight: 2880
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/
 ---
 {{< psd/tize >}}

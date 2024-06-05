@@ -3,7 +3,7 @@ title: Enum ResourceBlock.ResourceBlockState
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState enum. Represents resource block state
 type: docs
-weight: 3870
+weight: 3880
 url: /net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
 {{< psd/tize >}}

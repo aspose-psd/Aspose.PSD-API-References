@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/maximumc
 Maximum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit.
 
 ```csharp
-public RawColor MaximumColor { get; }
+public RawColor MaximumColor { get; set; }
 ```
 
 ### See Also

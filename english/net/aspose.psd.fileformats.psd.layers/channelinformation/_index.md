@@ -3,7 +3,7 @@ title: Class ChannelInformation
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation class. The channel information
 type: docs
-weight: 1980
+weight: 1990
 url: /net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
 {{< psd/tize >}}

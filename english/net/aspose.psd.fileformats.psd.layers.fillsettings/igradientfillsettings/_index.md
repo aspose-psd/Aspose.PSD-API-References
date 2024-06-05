@@ -1,15 +1,15 @@
 ---
 title: Interface IGradientFillSettings
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientFillSettings interface. Base interface for fill settings
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientFillSettings interface. Base interface for Gradient fill settings
 type: docs
-weight: 2100
+weight: 2110
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/
 ---
 {{< psd/tize >}}
 ## IGradientFillSettings interface
 
-Base interface for fill settings
+Base interface for Gradient fill settings.
 
 ```csharp
 public interface IGradientFillSettings : IFillSettings

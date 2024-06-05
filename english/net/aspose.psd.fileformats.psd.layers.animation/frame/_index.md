@@ -3,7 +3,7 @@ title: Class Frame
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame class. The options of time line frame item
 type: docs
-weight: 1920
+weight: 1930
 url: /net/aspose.psd.fileformats.psd.layers.animation/frame/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class PsdImage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.PsdImage class. Defines the PsdImage class that provides the ability to load edit save PSD files as well as update properties add watermarks perform graphics operations or convert one file format to another. Aspose.PSD supports import as a layer and export to the following formats Png Jpeg Jpeg2000 Gif Bmp Tiff Psd Psb along with export to Pdf with selectable text
 type: docs
-weight: 3840
+weight: 3850
 url: /net/aspose.psd.fileformats.psd/psdimage/
 ---
 {{< psd/tize >}}
@@ -96,6 +96,7 @@ public sealed class PsdImage : RasterCachedImage
 | [AddColorBalanceAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/)() | Adds the color balance adjustment layer. |
 | [AddCurvesAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/)() | Adds the Curves Adjustment layer. |
 | [AddExposureAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/)(float, float, float) | Adds the exposure adjustment layer. |
+| [AddGradientMapAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addgradientmapadjustmentlayer/)() | Adds GradientMap Adjustment layer. |
 | [AddHueSaturationAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addhuesaturationadjustmentlayer/)() | Adds the hue/saturation adjustment layer. |
 | [AddInvertAdjustmentLayer](../../aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/)() | Adds an invert adjustment layer. |
 | [AddLayer](../../aspose.psd.fileformats.psd/psdimage/addlayer/)(Layer) | Adds the layer. |

@@ -14,7 +14,7 @@ The namespace contains Fill Layers Settings
 | Class | Description |
 | --- | --- |
 | [BaseFillSettings](./basefillsettings/) | Base fill effect settings |
-| [BaseGradientFillSettings](./basegradientfillsettings/) | Base gradient definition class. It contains common properties for both tupes of gradient (Solid and Noise). |
+| [BaseGradientFillSettings](./basegradientfillsettings/) | Base gradient definition class. It contains common properties for both types of gradient (Solid and Noise). |
 | [ColorFillSettings](./colorfillsettings/) | Color fill effect settings |
 | [GradientColorPoint](./gradientcolorpoint/) | The Gradient Color Point. |
 | [GradientFillSettings](./gradientfillsettings/) | Gradient fill effect settings. |
@@ -27,7 +27,7 @@ The namespace contains Fill Layers Settings
 | --- | --- |
 | [IColorFillSettings](./icolorfillsettings/) | Base interface for fill settings |
 | [IFillSettings](./ifillsettings/) | Base interface for fill settings |
-| [IGradientFillSettings](./igradientfillsettings/) | Base interface for fill settings |
+| [IGradientFillSettings](./igradientfillsettings/) | Base interface for Gradient fill settings. |
 | [IGradientTransparencyPoint](./igradienttransparencypoint/) | Base interface for fill settings |
 | [IPatternFillSettings](./ipatternfillsettings/) | Interface for Pattern fill settings |
 ## Enumeration

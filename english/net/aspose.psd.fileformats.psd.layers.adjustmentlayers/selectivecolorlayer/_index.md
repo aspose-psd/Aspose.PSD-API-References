@@ -3,7 +3,7 @@ title: Class SelectiveColorLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.SelectiveColorLayer class. Selective Color Adjustment Layer
 type: docs
-weight: 1880
+weight: 1890
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/selectivecolorlayer/
 ---
 {{< psd/tize >}}

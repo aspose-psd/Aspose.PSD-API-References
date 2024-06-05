@@ -23,6 +23,7 @@ The namespace contains PSD adjustment layers.
 | [ColorBalanceAdjustmentLayer](./colorbalanceadjustmentlayer/) | The color balance adjustment layer class. |
 | [CurvesLayer](./curveslayer/) | Curves Adjustment Layer |
 | [ExposureLayer](./exposurelayer/) | Exposure Adjustment layer. |
+| [GradientMapLayer](./gradientmaplayer/) | Gradient map layer. Handles Gradient map rendering using data from GrdmResource. |
 | [HueSaturationLayer](./huesaturationlayer/) | HueSaturation adjustment layer. |
 | [InvertAdjustmentLayer](./invertadjustmentlayer/) | The invert adjustment layer class. |
 | [LevelsLayer](./levelslayer/) | Levels Adjustment Layer |

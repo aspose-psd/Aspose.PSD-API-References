@@ -19,6 +19,36 @@ public int ColorIndex { get; set; }
 
 The index of the color.
 
+## Examples
+
+The following code demonstrates support of HasMultiLayerMasks and ColorIndex properties in AiLayerSection.
+
+```csharp
+[C#]
+
+string sourceFile = "example.ai";
+string outputFilePath = "example.png";
+
+void AssertAreEqual(object expected, object actual)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new Exception("Objects are not equal.");
+    }
+}
+
+using (AiImage image = (AiImage)Image.Load(sourceFile))
+{
+    AssertAreEqual(image.Layers.Length, 2);
+    AssertAreEqual(image.Layers[0].HasMultiLayerMasks, false);
+    AssertAreEqual(image.Layers[0].ColorIndex, -1);
+    AssertAreEqual(image.Layers[1].HasMultiLayerMasks, false);
+    AssertAreEqual(image.Layers[1].ColorIndex, -1);
+
+    image.Save(outputFilePath, new PngOptions());
+}
+```
+
 ### See Also
 
 * class [AiLayerSection](../)

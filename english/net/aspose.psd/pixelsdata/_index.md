@@ -3,7 +3,7 @@ title: Class PixelsData
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.PixelsData class. The class to store image pixels data and its bounds
 type: docs
-weight: 5520
+weight: 5530
 url: /net/aspose.psd/pixelsdata/
 ---
 {{< psd/tize >}}

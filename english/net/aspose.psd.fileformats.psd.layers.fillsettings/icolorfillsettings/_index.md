@@ -3,7 +3,7 @@ title: Interface IColorFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings interface. Base interface for fill settings
 type: docs
-weight: 2080
+weight: 2090
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
 {{< psd/tize >}}

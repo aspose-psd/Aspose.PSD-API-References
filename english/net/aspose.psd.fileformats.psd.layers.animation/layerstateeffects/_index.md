@@ -3,7 +3,7 @@ title: Class LayerStateEffects
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerStateEffects class. The layer state effects
 type: docs
-weight: 1950
+weight: 1960
 url: /net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/
 ---
 {{< psd/tize >}}

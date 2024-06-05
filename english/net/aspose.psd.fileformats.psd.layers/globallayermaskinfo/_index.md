@@ -3,7 +3,7 @@ title: Class GlobalLayerMaskInfo
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.GlobalLayerMaskInfo class. The global layer mask section
 type: docs
-weight: 2150
+weight: 2160
 url: /net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/
 ---
 {{< psd/tize >}}

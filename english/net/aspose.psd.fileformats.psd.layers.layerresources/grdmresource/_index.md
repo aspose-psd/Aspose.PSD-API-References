@@ -3,7 +3,7 @@ title: Class GrdmResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GrdmResource class. Class GrdmResource. Contains information about GradientMap layer
 type: docs
-weight: 2640
+weight: 2650
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 ---
 {{< psd/tize >}}
@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 Class GrdmResource. Contains information about Gradient-Map layer.
 
 ```csharp
-public class GrdmResource : LayerResource
+public class GrdmResource : AdjustmentLayerResource
 ```
 
 ## Constructors
@@ -34,8 +34,8 @@ public class GrdmResource : LayerResource
 | [Interpolation](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/interpolation/) { get; set; } | Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid' (GradientMode = 0). |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/length/) { get; } | Gets the layer resource length in bytes. |
-| [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/maximumcolor/) { get; } | Maximum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit. |
-| [MinimumColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/minimumcolor/) { get; } | Minimum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit. |
+| [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/maximumcolor/) { get; set; } | Maximum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit. |
+| [MinimumColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/minimumcolor/) { get; set; } | Minimum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit. |
 | override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/reverse/) { get; set; } | Is gradient reversed. |
 | [RndNumberSeed](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/rndnumberseed/) { get; set; } | The random number seed used to generate colors for Noise gradient. |
@@ -111,7 +111,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### See Also
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
+* class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
 * assembly [Aspose.PSD](../../)
 

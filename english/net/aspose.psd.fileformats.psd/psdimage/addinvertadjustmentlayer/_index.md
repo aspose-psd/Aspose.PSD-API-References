@@ -3,7 +3,7 @@ title: PsdImage.AddInvertAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds an invert adjustment layer
 type: docs
-weight: 370
+weight: 380
 url: /net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
 {{< psd/tize >}}

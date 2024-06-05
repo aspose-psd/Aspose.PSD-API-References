@@ -3,7 +3,7 @@ title: Class ThumbnailResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.ThumbnailResource class. The thumbnail resource block
 type: docs
-weight: 4170
+weight: 4180
 url: /net/aspose.psd.fileformats.psd.resources/thumbnailresource/
 ---
 {{< psd/tize >}}

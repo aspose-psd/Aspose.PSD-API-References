@@ -3,7 +3,7 @@ title: Class FileStreamContainer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileStreamContainer class. Helper for file stream processing
 type: docs
-weight: 4510
+weight: 4520
 url: /net/aspose.psd/filestreamcontainer/
 ---
 {{< psd/tize >}}
