@@ -3,7 +3,7 @@ title: Class GaussianBlurSmartFilter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.GaussianBlurSmartFilter class. The GaussianBlur smart filter
 type: docs
-weight: 3670
+weight: 3680
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/
 ---
 {{< psd/tize >}}

@@ -12,6 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gr
 Gets or sets the name of the gradient.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to BaseGradientFillSettings class. Property will be removed in further release.")]
 public string GradientName { get; set; }
 ```
 

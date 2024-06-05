@@ -3,7 +3,7 @@ title: Interface IRasterImageArgb32PixelLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IRasterImageArgb32PixelLoader interface. The raster image 32bit ARGB pixel loader
 type: docs
-weight: 4820
+weight: 4830
 url: /net/aspose.psd/irasterimageargb32pixelloader/
 ---
 {{< psd/tize >}}

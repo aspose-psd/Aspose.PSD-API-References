@@ -3,7 +3,7 @@ title: PsdImage.AddLevelsAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the Levels adjustment layer
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.psd.fileformats.psd/psdimage/addlevelsadjustmentlayer/
 ---
 {{< psd/tize >}}

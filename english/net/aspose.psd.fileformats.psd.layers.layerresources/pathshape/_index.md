@@ -3,7 +3,7 @@ title: Class PathShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PathShape class. The figure from the knots of the Bezier curve
 type: docs
-weight: 3050
+weight: 3060
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pathshape/
 ---
 {{< psd/tize >}}

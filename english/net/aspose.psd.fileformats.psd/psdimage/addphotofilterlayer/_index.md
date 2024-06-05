@@ -3,7 +3,7 @@ title: PsdImage.AddPhotoFilterLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the PhotoFilter layer
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
 {{< psd/tize >}}

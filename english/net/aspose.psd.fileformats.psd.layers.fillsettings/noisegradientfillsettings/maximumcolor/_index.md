@@ -3,7 +3,7 @@ title: NoiseGradientFillSettings.MaximumColor
 second_title: Aspose.PSD for .NET API Reference
 description: NoiseGradientFillSettings property. Maximum color of PixelDataFormat
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/maximumcolor/
 ---
 {{< psd/tize >}}

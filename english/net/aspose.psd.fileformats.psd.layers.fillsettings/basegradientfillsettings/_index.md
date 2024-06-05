@@ -1,18 +1,18 @@
 ---
 title: Class BaseGradientFillSettings
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseGradientFillSettings class. Base gradient definition class. It contains common properties for both tupes of gradient Solid and Noise
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseGradientFillSettings class. Base gradient definition class. It contains common properties for both types of gradient Solid and Noise
 type: docs
-weight: 2010
+weight: 2020
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/
 ---
 {{< psd/tize >}}
 ## BaseGradientFillSettings class
 
-Base gradient definition class. It contains common properties for both tupes of gradient (Solid and Noise).
+Base gradient definition class. It contains common properties for both types of gradient (Solid and Noise).
 
 ```csharp
-public class BaseGradientFillSettings : BaseFillSettings, IGradientFillSettings
+public abstract class BaseGradientFillSettings : BaseFillSettings, IGradientFillSettings
 ```
 
 ## Constructors
@@ -31,7 +31,7 @@ public class BaseGradientFillSettings : BaseFillSettings, IGradientFillSettings
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/colorpoints/) { get; set; } | Gets or sets the color points. |
 | [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this `BaseGradientFillSettings` is dither. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/filltype/) { get; } | The fill type. |
-| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientmode/) { get; set; } | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientmode/) { get; set; } | Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientname/) { get; set; } | Gets or sets the name of the gradient. |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset in percentage. |

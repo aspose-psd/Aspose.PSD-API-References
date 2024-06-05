@@ -3,7 +3,7 @@ title: Class PatternFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings class. Pattern fill effect settings
 type: docs
-weight: 2140
+weight: 2150
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
 {{< psd/tize >}}

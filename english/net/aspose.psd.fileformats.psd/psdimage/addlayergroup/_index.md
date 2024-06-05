@@ -3,7 +3,7 @@ title: PsdImage.AddLayerGroup
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the layer group
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
 {{< psd/tize >}}

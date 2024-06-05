@@ -3,7 +3,7 @@ title: PsdImage.Filter
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Filters the specified rectangle
 type: docs
-weight: 580
+weight: 590
 url: /net/aspose.psd.fileformats.psd/psdimage/filter/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PsdImage.SetResolution
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Sets the resolution for this PsdImage
 type: docs
-weight: 670
+weight: 680
 url: /net/aspose.psd.fileformats.psd/psdimage/setresolution/
 ---
 {{< psd/tize >}}

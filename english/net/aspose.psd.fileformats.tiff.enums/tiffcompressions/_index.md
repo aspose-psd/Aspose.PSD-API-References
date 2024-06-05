@@ -3,7 +3,7 @@ title: Enum TiffCompressions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffCompressions enum. Holds compression types
 type: docs
-weight: 4310
+weight: 4320
 url: /net/aspose.psd.fileformats.tiff.enums/tiffcompressions/
 ---
 {{< psd/tize >}}

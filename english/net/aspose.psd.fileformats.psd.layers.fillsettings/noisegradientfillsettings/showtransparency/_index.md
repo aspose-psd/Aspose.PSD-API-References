@@ -3,7 +3,7 @@ title: NoiseGradientFillSettings.ShowTransparency
 second_title: Aspose.PSD for .NET API Reference
 description: NoiseGradientFillSettings property. Flag for showing transparency
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/showtransparency/
 ---
 {{< psd/tize >}}

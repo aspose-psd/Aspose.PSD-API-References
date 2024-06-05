@@ -3,7 +3,7 @@ title: Class LayerState
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState class. The options of time line layer state
 type: docs
-weight: 1940
+weight: 1950
 url: /net/aspose.psd.fileformats.psd.layers.animation/layerstate/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum SelectiveColorsTypes
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.SelectiveColorsTypes enum. Color types in selective color adjustment layer
 type: docs
-weight: 1890
+weight: 1900
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/selectivecolorstypes/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Interface IGradientTransparencyPoint
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint interface. Base interface for fill settings
 type: docs
-weight: 2110
+weight: 2120
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/
 ---
 {{< psd/tize >}}
