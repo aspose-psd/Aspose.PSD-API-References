@@ -3,7 +3,7 @@ title: Class LiFeDataSource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource class. Defines the LnkeDataSource class that contains information about external linked file. This is part of PSD File Format Manipulation API that helps to modify Adobe Photoshop files
 type: docs
-weight: 2840
+weight: 2850
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
 {{< psd/tize >}}

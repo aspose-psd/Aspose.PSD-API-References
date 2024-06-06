@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/minimumc
 Minimum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit.
 
 ```csharp
-public RawColor MinimumColor { get; }
+public RawColor MinimumColor { get; set; }
 ```
 
 ### See Also

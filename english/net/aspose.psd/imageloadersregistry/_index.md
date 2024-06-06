@@ -3,7 +3,7 @@ title: Class ImageLoadersRegistry
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageLoadersRegistry class. Represents the image loaders registry
 type: docs
-weight: 5050
+weight: 5060
 url: /net/aspose.psd/imageloadersregistry/
 ---
 {{< psd/tize >}}

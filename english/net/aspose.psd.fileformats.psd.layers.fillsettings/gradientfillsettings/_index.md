@@ -3,7 +3,7 @@ title: Class GradientFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings class. Gradient fill effect settings
 type: docs
-weight: 2050
+weight: 2060
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
 {{< psd/tize >}}
@@ -31,7 +31,7 @@ public class GradientFillSettings : BaseGradientFillSettings
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints/) { get; set; } | Gets or sets the color points. |
 | [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this [`BaseGradientFillSettings`](../basegradientfillsettings/) is dither. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | The fill type. |
-| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientmode/) { get; set; } | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientmode/) { get; set; } | Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname/) { get; set; } | Gets or sets the name of the gradient. |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset in percentage. |
@@ -212,7 +212,6 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### See Also
 
-* class [BaseFillSettings](../basefillsettings/)
 * class [BaseGradientFillSettings](../basegradientfillsettings/)
 * namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../)

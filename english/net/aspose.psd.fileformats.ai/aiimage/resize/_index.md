@@ -3,7 +3,7 @@ title: AiImage.Resize
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage method. Resizes the image
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
 {{< psd/tize >}}

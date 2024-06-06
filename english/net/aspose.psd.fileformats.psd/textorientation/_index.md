@@ -3,7 +3,7 @@ title: Enum TextOrientation
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.TextOrientation enum. Enumeration for text orientation mode
 type: docs
-weight: 4270
+weight: 4280
 url: /net/aspose.psd.fileformats.psd/textorientation/
 ---
 {{< psd/tize >}}

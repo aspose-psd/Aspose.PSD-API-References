@@ -3,7 +3,7 @@ title: Class TextShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Shapes.TextShape class. Represents a text shape
 type: docs
-weight: 5820
+weight: 5830
 url: /net/aspose.psd.shapes/textshape/
 ---
 {{< psd/tize >}}

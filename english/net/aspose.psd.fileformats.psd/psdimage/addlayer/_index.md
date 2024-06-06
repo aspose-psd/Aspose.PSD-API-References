@@ -3,7 +3,7 @@ title: PsdImage.AddLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds the layer
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
 {{< psd/tize >}}

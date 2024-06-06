@@ -3,7 +3,7 @@ title: NoiseGradientFillSettings.Roughness
 second_title: Aspose.PSD for .NET API Reference
 description: NoiseGradientFillSettings property. Roughness factor
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/roughness/
 ---
 {{< psd/tize >}}

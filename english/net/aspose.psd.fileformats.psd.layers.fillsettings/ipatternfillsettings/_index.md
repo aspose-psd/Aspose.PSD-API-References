@@ -3,7 +3,7 @@ title: Interface IPatternFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings interface. Interface for Pattern fill settings
 type: docs
-weight: 2120
+weight: 2130
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
 {{< psd/tize >}}

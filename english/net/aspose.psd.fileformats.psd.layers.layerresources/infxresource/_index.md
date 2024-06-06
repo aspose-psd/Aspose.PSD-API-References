@@ -3,7 +3,7 @@ title: Class InfxResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.InfxResource class. Class InfxResource. This resource contains information about blending of clipped element
 type: docs
-weight: 2710
+weight: 2720
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/
 ---
 {{< psd/tize >}}

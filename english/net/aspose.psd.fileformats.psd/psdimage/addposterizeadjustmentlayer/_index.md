@@ -3,7 +3,7 @@ title: PsdImage.AddPosterizeAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Adds Posterize Adjustment layer
 type: docs
-weight: 420
+weight: 430
 url: /net/aspose.psd.fileformats.psd/psdimage/addposterizeadjustmentlayer/
 ---
 {{< psd/tize >}}

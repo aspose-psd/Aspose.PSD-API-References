@@ -3,7 +3,7 @@ title: Class PhotoshopPackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.Photoshop.PhotoshopPackage class. Represents Adobe Photoshop namespace
 type: docs
-weight: 6100
+weight: 6110
 url: /net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/
 ---
 {{< psd/tize >}}

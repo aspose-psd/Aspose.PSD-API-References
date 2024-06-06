@@ -3,7 +3,7 @@ title: Class UnknownResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.UnknownResource class. The unknown resource
 type: docs
-weight: 3550
+weight: 3560
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
 {{< psd/tize >}}

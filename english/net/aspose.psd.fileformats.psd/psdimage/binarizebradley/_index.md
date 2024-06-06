@@ -3,7 +3,7 @@ title: PsdImage.BinarizeBradley
 second_title: Aspose.PSD for .NET API Reference
 description: PsdImage method. Binarization of an image using Bradleys adaptive thresholding algorithm using the integral image thresholding
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.psd.fileformats.psd/psdimage/binarizebradley/
 ---
 {{< psd/tize >}}

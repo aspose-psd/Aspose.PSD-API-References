@@ -3,7 +3,7 @@ title: Class TypeToolFontInfo
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolFontInfo class. Contains information about type tool font
 type: docs
-weight: 3300
+weight: 3310
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/
 ---
 {{< psd/tize >}}
