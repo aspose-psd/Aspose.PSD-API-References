@@ -3,7 +3,7 @@ title: RgbChannelMixerLayer
 second_title: Aspose.PSD for Java API Reference
 description: Rgb Channel Mixer Adjustment layer.
 type: docs
-weight: 25
+weight: 26
 url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/
 ---
 

@@ -3,7 +3,7 @@ title: VibranceLayer
 second_title: Aspose.PSD for Java API Reference
 description: Realization of Vibrance adjustment layer
 type: docs
-weight: 29
+weight: 30
 url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/
 ---
 

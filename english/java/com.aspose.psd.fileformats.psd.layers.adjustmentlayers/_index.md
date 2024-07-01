@@ -21,6 +21,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/
 | [ColorBalanceAdjustmentLayer](../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer) | The color balance adjustment layer class. |
 | [CurvesLayer](../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer) | Curves Adjustment Layer |
 | [ExposureLayer](../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer) | Exposure Adjustment layer. |
+| [GradientMapLayer](../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/gradientmaplayer) | Gradient map layer. |
 | [HueSaturationLayer](../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer) | HueSaturation adjustment layer. |
 | [InvertAdjustmentLayer](../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer) | The invert adjustment layer class. |
 | [LevelsLayer](../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer) | Levels Adjustment Layer |
