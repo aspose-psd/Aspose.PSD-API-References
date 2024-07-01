@@ -3,7 +3,7 @@ title: InvertAdjustmentLayer
 second_title: Aspose.PSD for Java API Reference
 description: The invert adjustment layer class.
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/
 ---
 

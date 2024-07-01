@@ -32,6 +32,7 @@ Gradient fill effect settings.
 | [addColorPoint()](#addColorPoint--) | Adds the color point. |
 | [addTransparencyPoint()](#addTransparencyPoint--) | Adds the color point. |
 | [create_internalized(GdFlResource resource)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GdFlResource-) |  |
+| [create_internalized(GrdmResource resource)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GrdmResource-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [generateLfx2ResourceNodes()](#generateLfx2ResourceNodes--) | Generates the LFX2 resource nodes. |
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
@@ -41,7 +42,7 @@ Gradient fill effect settings.
 | [getColorPoints()](#getColorPoints--) | Gets or sets the color points. |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
 | [getFillType()](#getFillType--) | The fill type. |
-| [getGradientMode()](#getGradientMode--) | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [getGradientMode()](#getGradientMode--) | Mode for this gradient. |
 | [getGradientName()](#getGradientName--) | Gets or sets the name of the gradient. |
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset in percentage. |
@@ -62,7 +63,7 @@ Gradient fill effect settings.
 | [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the color. |
 | [setColorPoints(IGradientColorPoint[] value)](#setColorPoints-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint---) | Gets or sets the color points. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
-| [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient. |
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
@@ -130,6 +131,21 @@ public static GradientFillSettings create_internalized(GdFlResource resource)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | resource | [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) |  |
+
+**Returns:**
+[GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings)
+### create_internalized(GrdmResource resource) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GrdmResource-}
+```
+public static GradientFillSettings create_internalized(GrdmResource resource)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resource | [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) |  |
 
 **Returns:**
 [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings)
@@ -242,7 +258,7 @@ public final int getGradientMode()
 ```
 
 
-Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
+Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Returns:**
 int
@@ -485,7 +501,7 @@ public final void setGradientMode(int value)
 ```
 
 
-Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
+Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Parameters:**
 | Parameter | Type | Description |

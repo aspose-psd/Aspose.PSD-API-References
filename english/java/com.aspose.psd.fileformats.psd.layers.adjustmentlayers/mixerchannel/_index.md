@@ -3,7 +3,7 @@ title: MixerChannel
 second_title: Aspose.PSD for Java API Reference
 description: MixerChannel.
 type: docs
-weight: 22
+weight: 23
 url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
 

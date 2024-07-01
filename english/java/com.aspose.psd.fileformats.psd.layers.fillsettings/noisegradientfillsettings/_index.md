@@ -29,14 +29,17 @@ Noise gradient definition class.
 | Method | Description |
 | --- | --- |
 | [create_internalized(GdFlResource gdFlResource)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GdFlResource-) |  |
+| [create_internalized(GrdmResource grdmResource)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GrdmResource-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
 | [getColorModel()](#getColorModel--) | Color Model - RGB/HSB/LAB (3/4/6). |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
+| [getExpansionCount()](#getExpansionCount--) | Expansion count ( = 2 for Photoshop 6.0). |
 | [getFillType()](#getFillType--) | The fill type. |
-| [getGradientMode()](#getGradientMode--) | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [getGradientMode()](#getGradientMode--) | Mode for this gradient. |
+| [getGradientName()](#getGradientName--) | Gets or sets the name of the gradient. |
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset in percentage. |
 | [getMaximumColor()](#getMaximumColor--) | Maximum color of PixelDataFormat. |
@@ -57,7 +60,9 @@ Noise gradient definition class.
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
 | [setColorModel(short value)](#setColorModel-short-) | Color Model - RGB/HSB/LAB (3/4/6). |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
-| [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [setExpansionCount(short value)](#setExpansionCount-short-) | Expansion count ( = 2 for Photoshop 6.0). |
+| [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient. |
+| [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
 | [setMaximumColor(RawColor value)](#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Maximum color of PixelDataFormat. |
@@ -101,6 +106,21 @@ public static NoiseGradientFillSettings create_internalized(GdFlResource gdFlRes
 | Parameter | Type | Description |
 | --- | --- | --- |
 | gdFlResource | [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) |  |
+
+**Returns:**
+[NoiseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings)
+### create_internalized(GrdmResource grdmResource) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GrdmResource-}
+```
+public static NoiseGradientFillSettings create_internalized(GrdmResource grdmResource)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| grdmResource | [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) |  |
 
 **Returns:**
 [NoiseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings)
@@ -173,6 +193,16 @@ Value:  true  if dither; otherwise,  false .
 
 **Returns:**
 boolean
+### getExpansionCount() {#getExpansionCount--}
+```
+public final short getExpansionCount()
+```
+
+
+Expansion count ( = 2 for Photoshop 6.0).
+
+**Returns:**
+short
 ### getFillType() {#getFillType--}
 ```
 public int getFillType()
@@ -189,10 +219,22 @@ public final int getGradientMode()
 ```
 
 
-Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
+Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Returns:**
 int
+### getGradientName() {#getGradientName--}
+```
+public final String getGradientName()
+```
+
+
+Gets or sets the name of the gradient.
+
+Value: The name of the gradient.
+
+**Returns:**
+java.lang.String
 ### getGradientType() {#getGradientType--}
 ```
 public final int getGradientType()
@@ -409,18 +451,46 @@ Value:  true  if dither; otherwise,  false .
 | --- | --- | --- |
 | value | boolean |  |
 
+### setExpansionCount(short value) {#setExpansionCount-short-}
+```
+public final void setExpansionCount(short value)
+```
+
+
+Expansion count ( = 2 for Photoshop 6.0).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | short |  |
+
 ### setGradientMode(int value) {#setGradientMode-int-}
 ```
 public final void setGradientMode(int value)
 ```
 
 
-Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
+Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
+
+### setGradientName(String value) {#setGradientName-java.lang.String-}
+```
+public final void setGradientName(String value)
+```
+
+
+Gets or sets the name of the gradient.
+
+Value: The name of the gradient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### setGradientType(int value) {#setGradientType-int-}
 ```
