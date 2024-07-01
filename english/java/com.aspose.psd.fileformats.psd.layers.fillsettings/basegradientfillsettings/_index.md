@@ -13,10 +13,10 @@ java.lang.Object, [com.aspose.psd.fileformats.psd.layers.fillsettings.BaseFillSe
 **All Implemented Interfaces:**
 [com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings)
 ```
-public class BaseGradientFillSettings extends BaseFillSettings implements IGradientFillSettings
+public abstract class BaseGradientFillSettings extends BaseFillSettings implements IGradientFillSettings
 ```
 
-Base gradient definition class. It contains common properties for both tupes of gradient (Solid and Noise).
+Base gradient definition class. It contains common properties for both types of gradient (Solid and Noise).
 ## Constructors
 
 | Constructor | Description |
@@ -38,7 +38,8 @@ Base gradient definition class. It contains common properties for both tupes of 
 | [getClass()](#getClass--) |  |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
 | [getFillType()](#getFillType--) | The fill type. |
-| [getGradientMode()](#getGradientMode--) | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [getGradientMode()](#getGradientMode--) | Mode for this gradient. |
+| [getGradientName()](#getGradientName--) | Gets or sets the name of the gradient. |
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset in percentage. |
 | [getReverse()](#getReverse--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is reverse. |
@@ -52,7 +53,8 @@ Base gradient definition class. It contains common properties for both tupes of 
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
-| [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient. |
+| [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is reverse. |
@@ -166,10 +168,22 @@ public final int getGradientMode()
 ```
 
 
-Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
+Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Returns:**
 int
+### getGradientName() {#getGradientName--}
+```
+public final String getGradientName()
+```
+
+
+Gets or sets the name of the gradient.
+
+Value: The name of the gradient.
+
+**Returns:**
+java.lang.String
 ### getGradientType() {#getGradientType--}
 ```
 public final int getGradientType()
@@ -319,12 +333,27 @@ public final void setGradientMode(int value)
 ```
 
 
-Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
+Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
+
+### setGradientName(String value) {#setGradientName-java.lang.String-}
+```
+public final void setGradientName(String value)
+```
+
+
+Gets or sets the name of the gradient.
+
+Value: The name of the gradient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### setGradientType(int value) {#setGradientType-int-}
 ```

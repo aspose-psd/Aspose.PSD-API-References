@@ -1,7 +1,7 @@
 ---
 title: IGradientFillSettings
 second_title: Aspose.PSD for Java API Reference
-description: Base interface for fill settings
+description: Base interface for Gradient fill settings.
 type: docs
 weight: 22
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/
@@ -13,7 +13,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsetti
 public interface IGradientFillSettings extends IFillSettings
 ```
 
-Base interface for fill settings
+Base interface for Gradient fill settings.
 ## Methods
 
 | Method | Description |

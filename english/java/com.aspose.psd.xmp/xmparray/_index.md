@@ -27,9 +27,11 @@ Represents Xmp Array in  XmpPackage . todo: Array may contain complex data.
 
 | Method | Description |
 | --- | --- |
+| [addElement_internalized(XmpPackage element)](#addElement-internalized-com.aspose.psd.xmp.XmpPackage-) | Adds new item. |
 | [addItem(String item)](#addItem-java.lang.String-) | Adds new item. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
+| [getElements_internalized()](#getElements-internalized--) | Gets array of values inside [XmpArray](../../com.aspose.psd.xmp/xmparray). |
 | [getValues()](#getValues--) | Gets array of values inside  XmpArray . |
 | [getXmlValue()](#getXmlValue--) | Converts XMP value to the XML representation. |
 | [hashCode()](#hashCode--) |  |
@@ -65,6 +67,19 @@ Initializes a new instance of the  XmpArray  class.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | type | int | The type of array. |
+
+### addElement_internalized(XmpPackage element) {#addElement-internalized-com.aspose.psd.xmp.XmpPackage-}
+```
+public final void addElement_internalized(XmpPackage element)
+```
+
+
+Adds new item.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| element | [XmpPackage](../../com.aspose.psd.xmp/xmppackage) | The element to be added to list of items. |
 
 ### addItem(String item) {#addItem-java.lang.String-}
 ```
@@ -104,6 +119,16 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getElements_internalized() {#getElements-internalized--}
+```
+public final XmpPackage[] getElements_internalized()
+```
+
+
+Gets array of values inside [XmpArray](../../com.aspose.psd.xmp/xmparray).
+
+**Returns:**
+com.aspose.psd.xmp.XmpPackage[]
 ### getValues() {#getValues--}
 ```
 public String[] getValues()

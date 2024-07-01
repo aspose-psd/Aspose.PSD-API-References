@@ -8,9 +8,9 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource)
+java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.AdjustmentLayerResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource)
 ```
-public class GrdmResource extends LayerResource
+public class GrdmResource extends AdjustmentLayerResource
 ```
 
 Class GrdmResource. Contains information about Gradient-Map layer.
@@ -23,6 +23,7 @@ Class GrdmResource. Contains information about Gradient-Map layer.
 
 | Field | Description |
 | --- | --- |
+| [DefaultScale_internalized](#DefaultScale-internalized) | The default scale. |
 | [PsbHeaderVersion_internalized](#PsbHeaderVersion-internalized) | The PSB header version |
 | [PsbResourceSignature](#PsbResourceSignature) | The PSB-specific resource signature. |
 | [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | The PSD header version |
@@ -38,6 +39,7 @@ Class GrdmResource. Contains information about Gradient-Map layer.
 | [getClass()](#getClass--) |  |
 | [getColorModel()](#getColorModel--) | Color Model. |
 | [getColorPoints()](#getColorPoints--) | Gets or sets the color points. |
+| [getData()](#getData--) | Gets or sets the data. |
 | [getDither()](#getDither--) | Is gradient dithered. |
 | [getExpansionCount()](#getExpansionCount--) | Expansion count ( = 2 for Photoshop 6.0). |
 | [getGradientLength_internalized()](#getGradientLength-internalized--) | Length(= 32 for Photoshop 6.0) No information what it is responsible for. |
@@ -75,6 +77,8 @@ Class GrdmResource. Contains information about Gradient-Map layer.
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Name of the gradient: Unicode string, padded. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setInterpolation(short value)](#setInterpolation-short-) | Interpolation. |
+| [setMaximumColor(RawColor value)](#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Maximum color of PixelDataFormat.Rgba64Bpp format. |
+| [setMinimumColor(RawColor value)](#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Minimum color of PixelDataFormat.Rgba64Bpp format. |
 | [setPsdVersion(int value)](#setPsdVersion-int-) | Sets the minimal psd version required for layer resource. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Is gradient reversed. |
 | [setRndNumberSeed(int value)](#setRndNumberSeed-int-) | The random number seed used to generate colors for Noise gradient. |
@@ -93,6 +97,14 @@ public GrdmResource()
 
 
 Initializes a new instance of the [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) class.
+
+### DefaultScale_internalized {#DefaultScale-internalized}
+```
+public static final int DefaultScale_internalized
+```
+
+
+The default scale.
 
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
@@ -202,6 +214,18 @@ Value: The color points.
 
 **Returns:**
 com.aspose.psd.fileformats.psd.layers.IGradientColorPoint[]
+### getData() {#getData--}
+```
+public final byte[] getData()
+```
+
+
+Gets or sets the data.
+
+Value: The data.
+
+**Returns:**
+byte[]
 ### getDither() {#getDither--}
 ```
 public final boolean getDither()
@@ -427,7 +451,7 @@ public final void initGradientLength_internalized(short value)
 ```
 
 
-Initializes the length of the gradient. GradientLength is readonly, so it can be asigned just once.
+Initializes the length of the gradient. GradientLength is readonly, so it can be assigned just once.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -627,6 +651,32 @@ Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid' (GradientMo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | short |  |
+
+### setMaximumColor(RawColor value) {#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
+```
+public final void setMaximumColor(RawColor value)
+```
+
+
+Maximum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) |  |
+
+### setMinimumColor(RawColor value) {#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
+```
+public final void setMinimumColor(RawColor value)
+```
+
+
+Minimum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) |  |
 
 ### setPsdVersion(int value) {#setPsdVersion-int-}
 ```

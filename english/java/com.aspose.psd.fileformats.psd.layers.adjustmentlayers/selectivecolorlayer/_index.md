@@ -3,7 +3,7 @@ title: SelectiveColorLayer
 second_title: Aspose.PSD for Java API Reference
 description: Selective Color Adjustment Layer.
 type: docs
-weight: 27
+weight: 28
 url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/selectivecolorlayer/
 ---
 

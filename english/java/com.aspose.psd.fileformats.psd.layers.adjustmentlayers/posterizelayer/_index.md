@@ -3,7 +3,7 @@ title: PosterizeLayer
 second_title: Aspose.PSD for Java API Reference
 description: Posterize layer.
 type: docs
-weight: 24
+weight: 25
 url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/posterizelayer/
 ---
 

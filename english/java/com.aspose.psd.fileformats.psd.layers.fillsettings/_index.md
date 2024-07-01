@@ -29,6 +29,6 @@ url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/
 | --- | --- |
 | [IColorFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings) | Base interface for fill settings |
 | [IFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings) | Base interface for fill settings |
-| [IGradientFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) | Base interface for fill settings |
+| [IGradientFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) | Base interface for Gradient fill settings. |
 | [IGradientTransparencyPoint](../com.aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint) | Base interface for fill settings |
 | [IPatternFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings) | Interface for Pattern fill settings |

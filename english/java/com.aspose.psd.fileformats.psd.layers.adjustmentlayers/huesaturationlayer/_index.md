@@ -3,7 +3,7 @@ title: HueSaturationLayer
 second_title: Aspose.PSD for Java API Reference
 description: HueSaturation adjustment layer.
 type: docs
-weight: 19
+weight: 20
 url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/
 ---
 

@@ -51,6 +51,7 @@ Defines the PsdImage class that provides the ability to load, edit, save PSD fil
 | [addExposureAdjustmentLayer(float exposure)](#addExposureAdjustmentLayer-float-) |  |
 | [addExposureAdjustmentLayer(float exposure, float offset)](#addExposureAdjustmentLayer-float-float-) |  |
 | [addExposureAdjustmentLayer(float exposure, float offset, float gammaCorrection)](#addExposureAdjustmentLayer-float-float-float-) | Adds the exposure adjustment layer. |
+| [addGradientMapAdjustmentLayer()](#addGradientMapAdjustmentLayer--) | Adds GradientMap Adjustment layer. |
 | [addHueSaturationAdjustmentLayer()](#addHueSaturationAdjustmentLayer--) | Adds the hue/saturation adjustment layer. |
 | [addInvertAdjustmentLayer()](#addInvertAdjustmentLayer--) | Adds an invert adjustment layer. |
 | [addLayer(Layer layer)](#addLayer-com.aspose.psd.fileformats.psd.layers.Layer-) | Adds the layer. |
@@ -628,6 +629,16 @@ Adds the exposure adjustment layer.
 
 **Returns:**
 [ExposureLayer](../../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer) - Created Exposure Adjustment Layer
+### addGradientMapAdjustmentLayer() {#addGradientMapAdjustmentLayer--}
+```
+public final GradientMapLayer addGradientMapAdjustmentLayer()
+```
+
+
+Adds GradientMap Adjustment layer.
+
+**Returns:**
+[GradientMapLayer](../../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/gradientmaplayer) - GradientMap instance.
 ### addHueSaturationAdjustmentLayer() {#addHueSaturationAdjustmentLayer--}
 ```
 public final HueSaturationLayer addHueSaturationAdjustmentLayer()

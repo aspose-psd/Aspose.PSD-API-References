@@ -92,6 +92,7 @@ The Adobe Illustrator (AI) Image
 | [getVentureLicense_internalized()](#getVentureLicense-internalized--) | Gets the venture license. |
 | [getVersion()](#getVersion--) | Gets the version of Adobe Illustrator format. |
 | [getWidth()](#getWidth--) | Gets the image width. |
+| [getXmpData()](#getXmpData--) | Gets or sets the XMP metadata. |
 | [hasBackgroundColor()](#hasBackgroundColor--) | Gets a value indicating whether image has background color. |
 | [hasImageChanged_internalized()](#hasImageChanged-internalized--) | Gets or sets a value indicating whether this instance of image has changed after loading. |
 | [hashCode()](#hashCode--) |  |
@@ -978,6 +979,18 @@ Value: The image width.
 
 **Returns:**
 int
+### getXmpData() {#getXmpData--}
+```
+public XmpPacketWrapper getXmpData()
+```
+
+
+Gets or sets the XMP metadata.
+
+Value: The XMP data.
+
+**Returns:**
+[XmpPacketWrapper](../../com.aspose.psd.xmp/xmppacketwrapper)
 ### hasBackgroundColor() {#hasBackgroundColor--}
 ```
 public boolean hasBackgroundColor()

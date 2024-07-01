@@ -3,7 +3,7 @@ title: LevelsLayer
 second_title: Aspose.PSD for Java API Reference
 description: Levels Adjustment Layer
 type: docs
-weight: 21
+weight: 22
 url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/
 ---
 

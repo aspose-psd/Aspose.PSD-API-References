@@ -1,19 +1,19 @@
 ---
-title: ThresholdLayer
+title: GradientMapLayer
 second_title: Aspose.PSD for Java API Reference
-description: Threshold Adjustment Layer.
+description: Gradient map layer.
 type: docs
-weight: 29
-url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/thresholdlayer/
+weight: 19
+url: /java/com.aspose.psd.fileformats.psd.layers.adjustmentlayers/gradientmaplayer/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.psd.DisposableObject](../../com.aspose.psd/disposableobject), [com.aspose.psd.DataStreamSupporter](../../com.aspose.psd/datastreamsupporter), [com.aspose.psd.Image](../../com.aspose.psd/image), [com.aspose.psd.RasterImage](../../com.aspose.psd/rasterimage), [com.aspose.psd.RasterCachedImage](../../com.aspose.psd/rastercachedimage), [com.aspose.psd.fileformats.psd.layers.Layer](../../com.aspose.psd.fileformats.psd.layers/layer), [com.aspose.psd.fileformats.psd.layers.adjustmentlayers.AdjustmentLayer](../../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/adjustmentlayer)
 ```
-public class ThresholdLayer extends AdjustmentLayer
+public class GradientMapLayer extends AdjustmentLayer
 ```
 
-Threshold Adjustment Layer.
+Gradient map layer. Handles Gradient map rendering using data from GrdmResource.
 ## Fields
 
 | Field | Description |
@@ -58,7 +58,7 @@ Threshold Adjustment Layer.
 | [createInstance_internalized(PsdHeader header, IColorPalette palette, LinkedLayersRegistry linkedLayersRegistry)](#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-com.aspose.internal.fileformats.psd.layers.LinkedLayersRegistry-) | Creates the new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class. |
 | [createLayerState_internalized()](#createLayerState-internalized--) | Creates the new [LayerState](../../com.aspose.psd.fileformats.psd.layers.animation/layerstate) instance based on current [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) values. |
 | [createPartialRotateSaver_internalized(PartialRotater resizer, IPixelsSaver pixelsSaver, int width, int height)](#createPartialRotateSaver-internalized-com.aspose.internal.rotaters.PartialRotater-com.aspose.internal.IPixelsSaver-int-int-) |  |
-| [create_internalized(PsdHeader psdHeader, LayerResource[] resources)](#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.fileformats.psd.layers.LayerResource---) |  |
+| [create_internalized(PsdHeader header, LayerResource[] resources)](#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.fileformats.psd.layers.LayerResource---) |  |
 | [create_internalized(System.IO.Stream stream)](#create-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [crop(Rectangle rectangle)](#crop-com.aspose.psd.Rectangle-) | Cropping the image. |
 | [crop(int leftShift, int rightShift, int topShift, int bottomShift)](#crop-int-int-int-int-) | Crop image with shifts. |
@@ -120,6 +120,7 @@ Threshold Adjustment Layer.
 | [getFoldersHierarchy_internalized()](#getFoldersHierarchy-internalized--) | Gets the list of [LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup) folders hierarchy of current layer. |
 | [getFormatSpecificPalette_internalized()](#getFormatSpecificPalette-internalized--) | Gets palette from format-specific places |
 | [getGUID_internalized()](#getGUID-internalized--) | Gets the unique identifier of this Layer instance. |
+| [getGradientSettings()](#getGradientSettings--) | Gradient settings instance passed from GrdmResource instance. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getHeight()](#getHeight--) | Gets the image height. |
 | [getHorizontalResolution()](#getHorizontalResolution--) | Gets or sets the horizontal resolution, in pixels per inch, of this  RasterImage . |
@@ -136,7 +137,6 @@ Threshold Adjustment Layer.
 | [getLayerType_internalized()](#getLayerType-internalized--) | Gets the type of the layer. |
 | [getLeft()](#getLeft--) | Gets or sets the left layer position. |
 | [getLength()](#getLength--) | Gets the overall layer length in bytes. |
-| [getLevel()](#getLevel--) | Gets and sets the threshold level. |
 | [getMaxAllowedAllocationForPartialRotateSave_internalized()](#getMaxAllowedAllocationForPartialRotateSave-internalized--) | Gets or sets the max allowed allocation for partial rotate save. |
 | [getMemoryMgr_internalized()](#getMemoryMgr-internalized--) | Gets the memory manager. |
 | [getModifyDate(boolean useDefault)](#getModifyDate-boolean-) | Gets the date and time the resource image was last modified. |
@@ -219,7 +219,7 @@ Threshold Adjustment Layer.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [onContainerSet_internalized()](#onContainerSet-internalized--) | Invoke when container of this  Image  was set. |
-| [processAdjustmentLayer_internalized(Rectangle pixelsRectangle, int[] pixels, Point start, Point end)](#processAdjustmentLayer-internalized-com.aspose.psd.Rectangle-int---com.aspose.psd.Point-com.aspose.psd.Point-) | Processes the Threshold layer. |
+| [processAdjustmentLayer_internalized(Rectangle pixelsRectangle, int[] pixels, Point start, Point end)](#processAdjustmentLayer-internalized-com.aspose.psd.Rectangle-int---com.aspose.psd.Point-com.aspose.psd.Point-) | Processes the Gradient map layer. |
 | [readArgb32ScanLine(int scanLineIndex)](#readArgb32ScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [readScanLine(int scanLineIndex)](#readScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [removeResource_internalized(LayerResource resource)](#removeResource-internalized-com.aspose.psd.fileformats.psd.layers.LayerResource-) | Removes the resource. |
@@ -280,6 +280,7 @@ Threshold Adjustment Layer.
 | [setFiller(byte value)](#setFiller-byte-) | Gets or sets the layer filler. |
 | [setFlags(byte value)](#setFlags-byte-) | Gets or sets the layer flags. |
 | [setFormatSpecificPalette_internalized(IColorPalette newPalette)](#setFormatSpecificPalette-internalized-com.aspose.psd.IColorPalette-) | Sets palette into format-specific places |
+| [setGradientSettings(BaseGradientFillSettings value)](#setGradientSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.BaseGradientFillSettings-) | Gradient settings instance passed from GrdmResource instance. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setHorizontalResolution(double value)](#setHorizontalResolution-double-) | Gets or sets the horizontal resolution, in pixels per inch, of this  RasterImage . |
 | [setIgnoreAfterSave_internalized(boolean value)](#setIgnoreAfterSave-internalized-boolean-) | Sets a value indicating whether [ignore after save]. |
@@ -293,7 +294,6 @@ Threshold Adjustment Layer.
 | [setLayerMaskData(LayerMaskData value)](#setLayerMaskData-com.aspose.psd.fileformats.psd.layers.LayerMaskData-) | Gets or sets the layer mask data. |
 | [setLayerPalette_internalized(IColorPalette value)](#setLayerPalette-internalized-com.aspose.psd.IColorPalette-) | Gets or sets the layer palette. |
 | [setLeft(int value)](#setLeft-int-) | Gets or sets the left layer position. |
-| [setLevel(short value)](#setLevel-short-) | Gets and sets the threshold level. |
 | [setMaxAllowedAllocationForPartialRotateSave_internalized(int value)](#setMaxAllowedAllocationForPartialRotateSave-internalized-int-) | Gets or sets the max allowed allocation for partial rotate save. |
 | [setMemoryManager_internalized(MemMgr memoryManager, boolean needDispose)](#setMemoryManager-internalized-com.aspose.internal.memorymanagement.MemMgr-boolean-) | Sets the memory manager. |
 | [setName(String name)](#setName-java.lang.String-) | Sets the layer name. |
@@ -795,9 +795,9 @@ public static IPartialProcessor createPartialRotateSaver_internalized(PartialRot
 
 **Returns:**
 com.aspose.internal.IPartialProcessor
-### create_internalized(PsdHeader psdHeader, LayerResource[] resources) {#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.fileformats.psd.layers.LayerResource---}
+### create_internalized(PsdHeader header, LayerResource[] resources) {#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.fileformats.psd.layers.LayerResource---}
 ```
-public static ThresholdLayer create_internalized(PsdHeader psdHeader, LayerResource[] resources)
+public static GradientMapLayer create_internalized(PsdHeader header, LayerResource[] resources)
 ```
 
 
@@ -806,11 +806,11 @@ public static ThresholdLayer create_internalized(PsdHeader psdHeader, LayerResou
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| psdHeader | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
+| header | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
 | resources | [LayerResource\[\]](../../com.aspose.psd.fileformats.psd.layers/layerresource) |  |
 
 **Returns:**
-[ThresholdLayer](../../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/thresholdlayer)
+[GradientMapLayer](../../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/gradientmaplayer)
 ### create_internalized(System.IO.Stream stream) {#create-internalized-com.aspose.ms.System.IO.Stream-}
 ```
 public static Layer create_internalized(System.IO.Stream stream)
@@ -1609,6 +1609,16 @@ Gets the unique identifier of this Layer instance.
 
 **Returns:**
 java.lang.String
+### getGradientSettings() {#getGradientSettings--}
+```
+public final BaseGradientFillSettings getGradientSettings()
+```
+
+
+Gradient settings instance passed from GrdmResource instance.
+
+**Returns:**
+[BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings)
 ### getHeader_internalized() {#getHeader-internalized--}
 ```
 public final PsdHeader getHeader_internalized()
@@ -1793,18 +1803,6 @@ Gets the overall layer length in bytes.
 
 **Returns:**
 int
-### getLevel() {#getLevel--}
-```
-public final short getLevel()
-```
-
-
-Gets and sets the threshold level.
-
-Value: The level.
-
-**Returns:**
-short
 ### getMaxAllowedAllocationForPartialRotateSave_internalized() {#getMaxAllowedAllocationForPartialRotateSave-internalized--}
 ```
 public static int getMaxAllowedAllocationForPartialRotateSave_internalized()
@@ -2813,7 +2811,7 @@ public Tuple<int[],Rectangle> processAdjustmentLayer_internalized(Rectangle pixe
 ```
 
 
-Processes the Threshold layer.
+Processes the Gradient map layer.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -3666,6 +3664,19 @@ Sets palette into format-specific places
 
 **Returns:**
 boolean
+### setGradientSettings(BaseGradientFillSettings value) {#setGradientSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.BaseGradientFillSettings-}
+```
+public final void setGradientSettings(BaseGradientFillSettings value)
+```
+
+
+Gradient settings instance passed from GrdmResource instance.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) |  |
+
 ### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
 ```
 public final void setHeader_internalized(PsdHeader value)
@@ -3852,21 +3863,6 @@ Value: The left layer position.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
-
-### setLevel(short value) {#setLevel-short-}
-```
-public final void setLevel(short value)
-```
-
-
-Gets and sets the threshold level.
-
-Value: The level.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | short |  |
 
 ### setMaxAllowedAllocationForPartialRotateSave_internalized(int value) {#setMaxAllowedAllocationForPartialRotateSave-internalized-int-}
 ```
