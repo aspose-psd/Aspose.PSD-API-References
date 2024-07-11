@@ -169,6 +169,52 @@ public class GradientMapLayer : AdjustmentLayer
 | [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | Writes the whole scan line to the specified scan line index. |
 | [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | Writes the whole scan line to the specified scan line index. |
 
+## Examples
+
+The following code demonstrates the support of Gradient map layer.
+
+```csharp
+[C#]
+
+string sourceFile = "gradient_map_src.psd";
+string outputFile = "gradient_map_src_output.psd";
+
+using (PsdImage im = (PsdImage)Image.Load(sourceFile))
+{
+    // Add Gradient map adjustment layer.
+    GradientMapLayer layer = im.AddGradientMapAdjustmentLayer();
+    layer.GradientSettings.Reverse = true;
+
+    im.Save(outputFile);
+}
+
+// Check saved changes
+using (PsdImage im = (PsdImage)Image.Load(outputFile))
+{
+    GradientMapLayer gradientMapLayer = im.Layers[1] as GradientMapLayer;
+    GradientFillSettings gradientSettings = (GradientFillSettings)gradientMapLayer.GradientSettings;
+
+    AssertAreEqual(0.0, gradientSettings.Angle);
+    AssertAreEqual((short)4096, gradientSettings.Interpolation);
+    AssertAreEqual(true, gradientSettings.Reverse);
+    AssertAreEqual(false, gradientSettings.AlignWithLayer);
+    AssertAreEqual(false, gradientSettings.Dither);
+    AssertAreEqual(GradientType.Linear, gradientSettings.GradientType);
+    AssertAreEqual(100, gradientSettings.Scale);
+    AssertAreEqual(0.0, gradientSettings.HorizontalOffset);
+    AssertAreEqual(0.0, gradientSettings.VerticalOffset);
+    AssertAreEqual("Custom", gradientSettings.GradientName);
+}
+
+void AssertAreEqual(object expected, object actual, string message = null)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new Exception(message ?? "Objects are not equal.");
+    }
+}
+```
+
 ### See Also
 
 * class [AdjustmentLayer](../adjustmentlayer/)

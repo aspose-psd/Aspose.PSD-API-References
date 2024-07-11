@@ -19,8 +19,8 @@ public enum JustificationMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Left | `0` | The left align text. |
-| Right | `1` | The right align text. |
+| Left | `0` | The left align text. In a left-to-right mode, the Left position is Left. In a right-to-left mode, the Left position is Right. |
+| Right | `1` | The right align text. In a left-to-right mode, the Right position is Right. In a right-to-left mode, the Right position is Left. |
 | Center | `2` | The center text. |
 
 ## Examples
