@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/pathshape/
 
 **Inheritance:** IPathShape
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -30,7 +30,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/pathshape/
 | **Name** | **Description** |
 | :- | :- |
 | [get_items()](#get_items__1) | Gets array of Bezier knots. |
-| [set_items(bezier_points)](#set_items_bezier_points_2) | Assignes array of Bexier knots. |
+| [set_items(bezier_points)](#set_items_bezier_points_2) | Assigns array of Bezier knots. |
 | [to_vector_path_records()](#to_vector_path_records__3) | Creates the [VectorPathRecord](/psd/python-net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/) records based on this instance. |
 
 
@@ -82,7 +82,7 @@ Gets array of Bezier knots.
  set_items(bezier_points) 
 ```
 
-Assignes array of Bexier knots.
+Assigns array of Bezier knots.
 
 **Parameters:**
 

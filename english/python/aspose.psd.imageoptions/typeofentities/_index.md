@@ -11,7 +11,7 @@ Represents types of entities to render
 
 **Full Name:** aspose.psd.imageoptions.TypeOfEntities
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

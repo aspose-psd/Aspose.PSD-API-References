@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectla
 
 **Inheritance:** IPlacedLayerResource
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -11,7 +11,7 @@ exif gain control enum.
 
 **Full Name:** aspose.psd.exif.enums.ExifGainControl
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

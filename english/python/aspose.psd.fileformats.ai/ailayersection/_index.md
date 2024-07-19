@@ -13,16 +13,18 @@ url: /python-net/aspose.psd.fileformats.ai/ailayersection/
 
 **Inheritance:** AiDataSection
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | blue | int | r/w | Gets or sets the blue color component. |
+| color_index | int | r/w | Gets or sets the index of the color.<br/>            This argument can take on values between –1 and 26. Each integer<br/>            represents a color that can be assigned to the layer for user<br/>            identification purposes. |
 | color_number | int | r/w | Gets or sets the color number. -1 is the custom color value from Red, Green, Blue properties.<br/>            Specifies the layer’s color setting. |
 | dim_value | int | r/w | Gets or sets the dim value as percentage.<br/>            Reduces the intensity of linked images and bitmap images contained in the layer to the specified percentage. |
 | disposed | bool | r | Gets a value indicating whether this instance is disposed. |
 | green | int | r/w | Gets or sets the green color component. |
+| has_multi_layer_masks | bool | r/w | Gets or sets a value indicating whether this instance has multilayer masks. |
 | is_images_dimmed | bool | r/w | Gets or sets a value indicating whether this layer is dimmed.<br/>            Reduces the intensity of linked images and bitmap images contained in the layer. |
 | is_locked | bool | r/w | Gets or sets a value indicating whether this layer is locked.<br/>            Prevents changes to the item. |
 | is_preview | bool | r/w | Gets or sets a value indicating whether this layer is preview.<br/>            Displays the artwork contained in the layer in color instead of as outlines. |

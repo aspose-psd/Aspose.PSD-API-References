@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.imageloadoptions/pngloadoptions/
 
 **Inheritance:** LoadOptions
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Constructors**
 | **Name** | **Description** |

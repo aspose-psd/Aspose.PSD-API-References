@@ -11,7 +11,7 @@ Color comparison method to adjust to nearest neighbor
 
 **Full Name:** aspose.psd.ColorCompareMethod
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

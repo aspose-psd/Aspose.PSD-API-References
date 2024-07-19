@@ -11,7 +11,7 @@ The [InterpolationMode](/psd/python-net/aspose.psd/interpolationmode/) enumerati
 
 **Full Name:** aspose.psd.InterpolationMode
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/ishapelayer/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.IShapeLayer
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

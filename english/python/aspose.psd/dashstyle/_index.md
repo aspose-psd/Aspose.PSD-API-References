@@ -11,7 +11,7 @@ Specifies the style of dashed lines drawn with a [Pen](/psd/python-net/aspose.ps
 
 **Full Name:** aspose.psd.DashStyle
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

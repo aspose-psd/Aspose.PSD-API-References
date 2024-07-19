@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/iimagedescriptor/
 
 **Full Name:** aspose.psd.IImageDescriptor
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

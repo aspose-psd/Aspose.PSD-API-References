@@ -11,7 +11,7 @@ One of supported PSD file formats.
 
 **Full Name:** aspose.psd.FileFormat
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,7 +11,7 @@ Provides the fields that represent reference points in [StreamContainer](/psd/py
 
 **Full Name:** aspose.psd.SeekOrigin
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |
