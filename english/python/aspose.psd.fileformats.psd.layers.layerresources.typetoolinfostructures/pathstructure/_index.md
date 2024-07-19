@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfost
 
 **Inheritance:** OSTypeStructure
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Constructors**
 | **Name** | **Description** |

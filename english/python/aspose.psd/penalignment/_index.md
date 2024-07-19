@@ -11,7 +11,7 @@ Specifies the alignment of a [Pen](/psd/python-net/aspose.psd/pen/) object in re
 
 **Full Name:** aspose.psd.PenAlignment
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

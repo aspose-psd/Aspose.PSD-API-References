@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/rectangle/
 
 **Full Name:** aspose.psd.Rectangle
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/intrange/
 
 **Full Name:** aspose.psd.IntRange
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Constructors**
 | **Name** | **Description** |

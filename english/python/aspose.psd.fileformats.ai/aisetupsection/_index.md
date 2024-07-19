@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.ai/aisetupsection/
 
 **Inheritance:** AiSection
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Methods**
 | **Name** | **Description** |

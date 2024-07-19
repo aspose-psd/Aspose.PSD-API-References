@@ -11,7 +11,7 @@ Represents multipage mode
 
 **Full Name:** aspose.psd.imageoptions.MultiPageMode
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

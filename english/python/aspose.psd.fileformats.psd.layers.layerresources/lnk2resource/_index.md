@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/
 
 **Inheritance:** LinkResource
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Constructors**
 | **Name** | **Description** |

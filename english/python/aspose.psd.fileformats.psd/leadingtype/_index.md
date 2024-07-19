@@ -11,7 +11,7 @@ Photoshop leading type (type of distance between lines).
 
 **Full Name:** aspose.psd.fileformats.psd.LeadingType
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

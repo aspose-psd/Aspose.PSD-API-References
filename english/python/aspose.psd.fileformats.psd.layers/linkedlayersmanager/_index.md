@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LinkedLayersManager
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Methods**
 | **Name** | **Description** |

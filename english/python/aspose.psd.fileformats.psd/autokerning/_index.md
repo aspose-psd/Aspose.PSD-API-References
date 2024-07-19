@@ -11,7 +11,7 @@ The Photoshop auto kerning mode (distance between symbols).
 
 **Full Name:** aspose.psd.fileformats.psd.AutoKerning
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

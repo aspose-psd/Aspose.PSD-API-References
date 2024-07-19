@@ -11,7 +11,7 @@ exif subject distance range enum.
 
 **Full Name:** aspose.psd.exif.enums.ExifSubjectDistanceRange
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

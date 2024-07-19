@@ -11,7 +11,7 @@ The unit types.
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.UnitTypes
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Members**
 | **Member name** | **Description** |

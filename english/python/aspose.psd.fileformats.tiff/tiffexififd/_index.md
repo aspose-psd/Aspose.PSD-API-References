@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.tiff/tiffexififd/
 
 **Full Name:** aspose.psd.fileformats.tiff.TiffExifIfd
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Constructors**
 | **Name** | **Description** |

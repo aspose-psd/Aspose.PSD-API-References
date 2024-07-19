@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/iimageexporter/
 
 **Full Name:** aspose.psd.IImageExporter
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.5.0
 
 ## **Methods**
 | **Name** | **Description** |
