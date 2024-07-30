@@ -1,7 +1,7 @@
 ---
 title: InvertAdjustmentLayer Class
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjust
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, AdjustmentLayer
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

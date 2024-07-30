@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.ai/aiimage/
 
 **Inheritance:** IObjectWithBounds, Image
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -46,6 +46,7 @@ url: /python-net/aspose.psd.fileformats.ai/aiimage/
 | use_palette | bool | r | Gets a value indicating whether the image palette is used. |
 | version | [AiFormatVersion](/psd/python-net/aspose.psd.fileformats.ai/aiformatversion) | r | Gets the version of Adobe Illustrator format. |
 | width | int | r | Gets the image width. |
+| xmp_data | [XmpPacketWrapper](/psd/python-net/aspose.psd.xmp/xmppacketwrapper/) | r | Gets or sets the XMP metadata. |
 ## **Methods**
 | **Name** | **Description** |
 | :- | :- |

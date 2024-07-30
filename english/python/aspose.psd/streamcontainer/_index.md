@@ -1,7 +1,7 @@
 ---
 title: StreamContainer Class
 type: docs
-weight: 4160
+weight: 4170
 url: /python-net/aspose.psd/streamcontainer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/streamcontainer/
 
 **Inheritance:** DisposableObject
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

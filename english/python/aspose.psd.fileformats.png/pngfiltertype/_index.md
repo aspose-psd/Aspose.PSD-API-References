@@ -11,7 +11,7 @@ The png filter type.
 
 **Full Name:** aspose.psd.fileformats.png.PngFilterType
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

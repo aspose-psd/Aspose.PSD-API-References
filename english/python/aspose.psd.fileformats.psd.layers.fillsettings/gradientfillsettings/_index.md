@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsett
 
 **Inheritance:** IFillSettings, IGradientFillSettings, BaseGradientFillSettings
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -28,7 +28,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsett
 | color_points | [IGradientColorPoint[]](/psd/python-net/aspose.psd.fileformats.psd.layers/igradientcolorpoint) | r/w | Gets or sets the color points. |
 | dither | bool | r/w | Gets or sets a value indicating whether this [BaseGradientFillSettings](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/) is dither. |
 | fill_type | [FillType](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/filltype) | r | The fill type. |
-| gradient_mode | [GradientKind](/psd/python-net/aspose.psd.fileformats.psd.layers.gradient/gradientkind/) | r/w | Mode for this gradient<br/>            Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| gradient_mode | [GradientKind](/psd/python-net/aspose.psd.fileformats.psd.layers.gradient/gradientkind/) | r/w | Mode for this gradient.<br/>            Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
 | gradient_name | string | r/w | Gets or sets the name of the gradient. |
 | gradient_type | [GradientType](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype) | r/w | Gets or sets the type of the gradient. |
 | horizontal_offset | double | r/w | Gets or sets the horizontal offset in percentage. |

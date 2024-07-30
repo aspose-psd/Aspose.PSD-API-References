@@ -1,7 +1,7 @@
 ---
 title: AutoKerning Enumeration
 type: docs
-weight: 2300
+weight: 2310
 url: /python-net/aspose.psd.fileformats.psd/autokerning/
 ---
 
@@ -11,7 +11,7 @@ The Photoshop auto kerning mode (distance between symbols).
 
 **Full Name:** aspose.psd.fileformats.psd.AutoKerning
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

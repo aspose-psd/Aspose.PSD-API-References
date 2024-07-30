@@ -1,7 +1,7 @@
 ---
 title: IGradientColorPoint Class
 type: docs
-weight: 620
+weight: 630
 url: /python-net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.IGradientColorPoint
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

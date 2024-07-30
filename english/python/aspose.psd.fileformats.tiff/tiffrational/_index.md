@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.tiff/tiffrational/
 
 **Full Name:** aspose.psd.fileformats.tiff.TiffRational
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

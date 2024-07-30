@@ -1,7 +1,7 @@
 ---
 title: License Class
 type: docs
-weight: 2700
+weight: 2710
 url: /python-net/aspose.psd/license/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/license/
 
 **Full Name:** aspose.psd.License
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

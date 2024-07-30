@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.extensions/rotateflipextensions/
 
 **Full Name:** aspose.psd.extensions.RotateFlipExtensions
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Methods**
 | **Name** | **Description** |

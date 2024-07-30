@@ -1,7 +1,7 @@
 ---
 title: LevelsLayer Class
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, AdjustmentLayer
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.animation/frame/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.animation.Frame
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

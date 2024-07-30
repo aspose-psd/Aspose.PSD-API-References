@@ -1,7 +1,7 @@
 ---
 title: Metered Class
 type: docs
-weight: 2960
+weight: 2970
 url: /python-net/aspose.psd/metered/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/metered/
 
 **Full Name:** aspose.psd.Metered
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

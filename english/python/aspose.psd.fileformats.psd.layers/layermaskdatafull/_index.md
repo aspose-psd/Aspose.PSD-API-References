@@ -1,7 +1,7 @@
 ---
 title: LayerMaskDataFull Class
 type: docs
-weight: 920
+weight: 930
 url: /python-net/aspose.psd.fileformats.psd.layers/layermaskdatafull/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layermaskdatafull/
 
 **Inheritance:** LayerMaskData
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

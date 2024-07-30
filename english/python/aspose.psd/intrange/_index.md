@@ -1,7 +1,7 @@
 ---
 title: IntRange Class
 type: docs
-weight: 2280
+weight: 2290
 url: /python-net/aspose.psd/intrange/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/intrange/
 
 **Full Name:** aspose.psd.IntRange
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

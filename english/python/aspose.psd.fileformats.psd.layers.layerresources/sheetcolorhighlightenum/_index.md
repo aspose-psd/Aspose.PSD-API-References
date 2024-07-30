@@ -11,7 +11,7 @@ Possible colors of Sheet color setting.<br/>            It's UI decorative color
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.SheetColorHighlightEnum
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

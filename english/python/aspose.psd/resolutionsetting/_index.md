@@ -1,7 +1,7 @@
 ---
 title: ResolutionSetting Class
 type: docs
-weight: 3850
+weight: 3860
 url: /python-net/aspose.psd/resolutionsetting/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/resolutionsetting/
 
 **Full Name:** aspose.psd.ResolutionSetting
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

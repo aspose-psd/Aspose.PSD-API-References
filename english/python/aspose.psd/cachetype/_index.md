@@ -1,7 +1,7 @@
 ---
 title: CacheType Enumeration
 type: docs
-weight: 5140
+weight: 5150
 url: /python-net/aspose.psd/cachetype/
 ---
 
@@ -11,7 +11,7 @@ Specifies the cache type to use.
 
 **Full Name:** aspose.psd.CacheType
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

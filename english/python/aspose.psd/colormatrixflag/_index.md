@@ -1,7 +1,7 @@
 ---
 title: ColorMatrixFlag Enumeration
 type: docs
-weight: 5190
+weight: 5200
 url: /python-net/aspose.psd/colormatrixflag/
 ---
 
@@ -11,7 +11,7 @@ Specifies the types of images and colors that will be affected by the color and 
 
 **Full Name:** aspose.psd.ColorMatrixFlag
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

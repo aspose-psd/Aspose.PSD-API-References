@@ -1,7 +1,7 @@
 ---
 title: LayerMaskDataShort Class
 type: docs
-weight: 930
+weight: 940
 url: /python-net/aspose.psd.fileformats.psd.layers/layermaskdatashort/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layermaskdatashort/
 
 **Inheritance:** LayerMaskData
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.imageloadoptions/jpeg2000loadoptions/
 
 **Inheritance:** LoadOptions
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

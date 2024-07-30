@@ -1,7 +1,7 @@
 ---
 title: PointF Class
 type: docs
-weight: 3480
+weight: 3490
 url: /python-net/aspose.psd/pointf/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/pointf/
 
 **Full Name:** aspose.psd.PointF
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

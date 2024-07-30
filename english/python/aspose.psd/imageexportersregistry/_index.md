@@ -1,7 +1,7 @@
 ---
 title: ImageExportersRegistry Class
 type: docs
-weight: 2170
+weight: 2180
 url: /python-net/aspose.psd/imageexportersregistry/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/imageexportersregistry/
 
 **Full Name:** aspose.psd.ImageExportersRegistry
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

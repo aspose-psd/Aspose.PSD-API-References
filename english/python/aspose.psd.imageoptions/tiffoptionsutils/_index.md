@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.imageoptions/tiffoptionsutils/
 
 **Full Name:** aspose.psd.imageoptions.TiffOptionsUtils
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

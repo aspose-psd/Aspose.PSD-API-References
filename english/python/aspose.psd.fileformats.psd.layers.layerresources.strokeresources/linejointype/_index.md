@@ -11,7 +11,7 @@ Line Join type.
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.strokeresources.LineJoinType
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

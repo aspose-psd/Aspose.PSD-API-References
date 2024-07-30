@@ -1,7 +1,7 @@
 ---
 title: FileFormat Enumeration
 type: docs
-weight: 5560
+weight: 5570
 url: /python-net/aspose.psd/fileformat/
 ---
 
@@ -11,7 +11,7 @@ One of supported PSD file formats.
 
 **Full Name:** aspose.psd.FileFormat
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

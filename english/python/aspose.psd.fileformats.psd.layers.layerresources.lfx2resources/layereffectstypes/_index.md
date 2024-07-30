@@ -11,7 +11,7 @@ Layer blending effects.
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.lfx2resources.LayerEffectsTypes
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

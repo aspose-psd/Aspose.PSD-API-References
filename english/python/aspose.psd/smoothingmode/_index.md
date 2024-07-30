@@ -1,7 +1,7 @@
 ---
 title: SmoothingMode Enumeration
 type: docs
-weight: 6190
+weight: 6200
 url: /python-net/aspose.psd/smoothingmode/
 ---
 
@@ -11,7 +11,7 @@ Specifies whether smoothing (antialiasing) is applied to lines and curves and th
 
 **Full Name:** aspose.psd.SmoothingMode
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

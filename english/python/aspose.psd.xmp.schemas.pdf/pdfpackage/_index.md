@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.xmp.schemas.pdf/pdfpackage/
 
 **Inheritance:** IXmlValue, XmpPackage
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |
