@@ -1,7 +1,7 @@
 ---
 title: LoadOptions Class
 type: docs
-weight: 2850
+weight: 2860
 url: /python-net/aspose.psd/loadoptions/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/loadoptions/
 
 **Full Name:** aspose.psd.LoadOptions
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

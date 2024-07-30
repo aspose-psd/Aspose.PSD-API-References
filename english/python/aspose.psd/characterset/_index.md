@@ -1,7 +1,7 @@
 ---
 title: CharacterSet Enumeration
 type: docs
-weight: 5150
+weight: 5160
 url: /python-net/aspose.psd/characterset/
 ---
 
@@ -11,7 +11,7 @@ Represents the character set used.
 
 **Full Name:** aspose.psd.CharacterSet
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

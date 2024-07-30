@@ -1,7 +1,7 @@
 ---
 title: PluginLicenseException Class
 type: docs
-weight: 3420
+weight: 3430
 url: /python-net/aspose.psd/pluginlicenseexception/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/pluginlicenseexception/
 
 **Full Name:** aspose.psd.PluginLicenseException
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

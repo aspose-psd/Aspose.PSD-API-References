@@ -1,7 +1,7 @@
 ---
 title: PhotoFilterLayer Class
 type: docs
-weight: 150
+weight: 160
 url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterl
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, AdjustmentLayer
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

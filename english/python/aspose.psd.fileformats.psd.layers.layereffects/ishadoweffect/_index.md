@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/
 
 **Inheritance:** ILayerEffect
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

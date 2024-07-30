@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.shapes/rectangleprojectedshape/
 
 **Inheritance:** Shape
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

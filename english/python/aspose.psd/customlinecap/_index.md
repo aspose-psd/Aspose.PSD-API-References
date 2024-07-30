@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/customlinecap/
 
 **Full Name:** aspose.psd.CustomLineCap
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ Line Cap type.
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.strokeresources.LineCapType
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

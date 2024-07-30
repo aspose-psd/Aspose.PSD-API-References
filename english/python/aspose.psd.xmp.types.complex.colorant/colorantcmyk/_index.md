@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/
 
 **Inheritance:** IXmpType, ColorantBase
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: Rectangle Class
 type: docs
-weight: 3740
+weight: 3750
 url: /python-net/aspose.psd/rectangle/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/rectangle/
 
 **Full Name:** aspose.psd.Rectangle
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

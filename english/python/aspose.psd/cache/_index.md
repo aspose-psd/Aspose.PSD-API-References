@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/cache/
 
 **Full Name:** aspose.psd.Cache
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

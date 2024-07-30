@@ -1,7 +1,7 @@
 ---
 title: IImageDescriptor Class
 type: docs
-weight: 1720
+weight: 1730
 url: /python-net/aspose.psd/iimagedescriptor/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/iimagedescriptor/
 
 **Full Name:** aspose.psd.IImageDescriptor
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

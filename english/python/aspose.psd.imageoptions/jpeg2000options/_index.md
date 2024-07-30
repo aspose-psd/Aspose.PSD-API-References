@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.imageoptions/jpeg2000options/
 
 **Inheritance:** ImageOptionsBase
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

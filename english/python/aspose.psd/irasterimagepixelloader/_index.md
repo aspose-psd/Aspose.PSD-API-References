@@ -1,7 +1,7 @@
 ---
 title: IRasterImagePixelLoader Class
 type: docs
-weight: 1950
+weight: 1960
 url: /python-net/aspose.psd/irasterimagepixelloader/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/irasterimagepixelloader/
 
 **Inheritance:** IRasterImageRawDataLoader
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

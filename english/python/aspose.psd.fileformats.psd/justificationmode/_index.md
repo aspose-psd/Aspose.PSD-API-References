@@ -1,7 +1,7 @@
 ---
 title: JustificationMode Enumeration
 type: docs
-weight: 2420
+weight: 2430
 url: /python-net/aspose.psd.fileformats.psd/justificationmode/
 ---
 
@@ -11,7 +11,7 @@ The text alignment mode.
 
 **Full Name:** aspose.psd.fileformats.psd.JustificationMode
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

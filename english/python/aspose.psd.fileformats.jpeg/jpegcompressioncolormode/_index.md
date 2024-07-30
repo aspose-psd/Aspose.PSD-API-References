@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 
 **Full Name:** aspose.psd.fileformats.jpeg.JpegCompressionColorMode
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

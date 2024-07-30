@@ -11,9 +11,9 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.GrdmResource
 
-**Inheritance:** LayerResource
+**Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -34,8 +34,8 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 | interpolation | short | r/w | Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid' (GradientMode = 0). |
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the layer resource length in bytes. |
-| maximum_color | [RawColor](/psd/python-net/aspose.psd.fileformats.psd.core.rawcolor/rawcolor/) | r | Maximum color of PixelDataFormat.Rgba64Bpp format.<br/>            Color has ARGB channels, Each channel is 16bit. |
-| minimum_color | [RawColor](/psd/python-net/aspose.psd.fileformats.psd.core.rawcolor/rawcolor/) | r | Minimum color of PixelDataFormat.Rgba64Bpp format.<br/>            Color has ARGB channels, Each channel is 16bit. |
+| maximum_color | [RawColor](/psd/python-net/aspose.psd.fileformats.psd.core.rawcolor/rawcolor/) | r/w | Maximum color of PixelDataFormat.Rgba64Bpp format.<br/>            Color has ARGB channels, Each channel is 16bit. |
+| minimum_color | [RawColor](/psd/python-net/aspose.psd.fileformats.psd.core.rawcolor/rawcolor/) | r/w | Minimum color of PixelDataFormat.Rgba64Bpp format.<br/>            Color has ARGB channels, Each channel is 16bit. |
 | psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | reverse | bool | r/w | Is gradient reversed. |
 | rnd_number_seed | int | r/w | The random number seed used to generate colors for Noise gradient. |

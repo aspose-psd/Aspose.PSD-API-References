@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.xmp.schemas.xmpdm/time/
 
 **Inheritance:** IXmpType, XmpTypeBase
 
-**Aspose.PSD Version:** 24.5.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |
