@@ -86,7 +86,7 @@ public static final int Left
 ```
 
 
-The left align text.
+The left align text. In a left-to-right mode, the Left position is Left. In a right-to-left mode, the Left position is Right.
 
 ### Right {#Right}
 ```
@@ -94,7 +94,7 @@ public static final int Right
 ```
 
 
-The right align text.
+The right align text. In a left-to-right mode, the Right position is Right. In a right-to-left mode, the Right position is Left.
 
 ### Clone() {#Clone--}
 ```

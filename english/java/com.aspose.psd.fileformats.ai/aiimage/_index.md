@@ -76,6 +76,7 @@ The Adobe Illustrator (AI) Image
 | [getInterruptMonitor()](#getInterruptMonitor--) | Gets the interrupt monitor. |
 | [getLayers()](#getLayers--) | Gets the layer sections. |
 | [getMemoryMgr_internalized()](#getMemoryMgr-internalized--) | Gets the memory manager. |
+| [getOperatorStack_internalized()](#getOperatorStack-internalized--) | Gets or sets the PostScript operator stack. |
 | [getOriginalOptions()](#getOriginalOptions--) | Gets the options based on the original file settings. |
 | [getPaintableImage_internalized(ImageOptionsBase paintableOptions)](#getPaintableImage-internalized-com.aspose.psd.ImageOptionsBase-) | Gets the paintable image. |
 | [getPalette()](#getPalette--) | Gets the color palette. |
@@ -154,6 +155,7 @@ The Adobe Illustrator (AI) Image
 | [setImageChanged_internalized(boolean value)](#setImageChanged-internalized-boolean-) | Gets or sets a value indicating whether this instance of image has changed after loading. |
 | [setInterruptMonitor(InterruptMonitor value)](#setInterruptMonitor-com.aspose.psd.multithreading.InterruptMonitor-) | Sets the interrupt monitor. |
 | [setMemoryManager_internalized(MemMgr memoryManager, boolean needDispose)](#setMemoryManager-internalized-com.aspose.internal.memorymanagement.MemMgr-boolean-) | Sets the memory manager. |
+| [setOperatorStack_internalized(OperatorStack value)](#setOperatorStack-internalized-com.aspose.internal.fileformats.ai.postscript.operators.OperatorStack-) | Gets or sets the PostScript operator stack. |
 | [setPalette(IColorPalette value)](#setPalette-com.aspose.psd.IColorPalette-) | Sets the color palette. |
 | [setPalette(IColorPalette palette, boolean updateColors)](#setPalette-com.aspose.psd.IColorPalette-boolean-) | Sets the image palette. |
 | [setPrologSection_internalized(AiSetupSection value)](#setPrologSection-internalized-com.aspose.psd.fileformats.ai.AiSetupSection-) | Gets or sets the prolog section. |
@@ -788,6 +790,18 @@ Value: The memory manager.
 
 **Returns:**
 com.aspose.internal.memorymanagement.MemMgr - the memory manager.
+### getOperatorStack_internalized() {#getOperatorStack-internalized--}
+```
+public final OperatorStack getOperatorStack_internalized()
+```
+
+
+Gets or sets the PostScript operator stack.
+
+Value: The operator stack.
+
+**Returns:**
+com.aspose.internal.fileformats.ai.postscript.operators.OperatorStack
 ### getOriginalOptions() {#getOriginalOptions--}
 ```
 public ImageOptionsBase getOriginalOptions()
@@ -1817,6 +1831,21 @@ Sets the memory manager.
 | --- | --- | --- |
 | memoryManager | com.aspose.internal.memorymanagement.MemMgr | The memory manager. |
 | needDispose | boolean | if set to  true  [need dispose]. |
+
+### setOperatorStack_internalized(OperatorStack value) {#setOperatorStack-internalized-com.aspose.internal.fileformats.ai.postscript.operators.OperatorStack-}
+```
+public final void setOperatorStack_internalized(OperatorStack value)
+```
+
+
+Gets or sets the PostScript operator stack.
+
+Value: The operator stack.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.internal.fileformats.ai.postscript.operators.OperatorStack |  |
 
 ### setPalette(IColorPalette value) {#setPalette-com.aspose.psd.IColorPalette-}
 ```
