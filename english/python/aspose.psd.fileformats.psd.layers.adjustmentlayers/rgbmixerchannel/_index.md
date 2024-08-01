@@ -1,7 +1,7 @@
 ---
 title: RgbMixerChannel Class
 type: docs
-weight: 180
+weight: 190
 url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchan
 
 **Inheritance:** MixerChannel
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

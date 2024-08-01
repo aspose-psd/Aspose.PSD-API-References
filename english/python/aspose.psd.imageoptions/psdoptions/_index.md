@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.imageoptions/psdoptions/
 
 **Inheritance:** ImageOptionsBase
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -24,6 +24,7 @@ url: /python-net/aspose.psd.imageoptions/psdoptions/
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
+| background_contents | [RawColor](/psd/python-net/aspose.psd.fileformats.psd.core.rawcolor/rawcolor/) | r/w | Gets or sets the color of background.<br/>            It can be seen under transparent objects. |
 | buffer_size_hint | int | r/w | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | channel_bits_count | short | r/w | Gets or sets the bits count per color channel. |
 | channels_count | short | r/w | Gets or sets the color channels count. |

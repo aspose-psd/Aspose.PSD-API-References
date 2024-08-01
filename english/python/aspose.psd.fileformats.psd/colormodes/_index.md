@@ -1,7 +1,7 @@
 ---
 title: ColorModes Enumeration
 type: docs
-weight: 2310
+weight: 2320
 url: /python-net/aspose.psd.fileformats.psd/colormodes/
 ---
 
@@ -11,7 +11,7 @@ Represents the psd file format color modes.
 
 **Full Name:** aspose.psd.fileformats.psd.ColorModes
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

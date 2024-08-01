@@ -1,7 +1,7 @@
 ---
 title: LayerGroup Class
 type: docs
-weight: 890
+weight: 900
 url: /python-net/aspose.psd.fileformats.psd.layers/layergroup/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layergroup/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, Layer
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

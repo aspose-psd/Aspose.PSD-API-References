@@ -1,7 +1,7 @@
 ---
 title: Layer Class
 type: docs
-weight: 870
+weight: 880
 url: /python-net/aspose.psd.fileformats.psd.layers/layer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layer/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, RasterCachedImage
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

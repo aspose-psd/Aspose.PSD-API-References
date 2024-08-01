@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontin
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.TypeToolFontInfo
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

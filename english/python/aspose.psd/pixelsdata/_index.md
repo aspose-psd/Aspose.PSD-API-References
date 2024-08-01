@@ -1,7 +1,7 @@
 ---
 title: PixelsData Class
 type: docs
-weight: 3390
+weight: 3400
 url: /python-net/aspose.psd/pixelsdata/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/pixelsdata/
 
 **Full Name:** aspose.psd.PixelsData
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

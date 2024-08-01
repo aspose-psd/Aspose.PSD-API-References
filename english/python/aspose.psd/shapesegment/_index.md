@@ -1,7 +1,7 @@
 ---
 title: ShapeSegment Class
 type: docs
-weight: 3970
+weight: 3980
 url: /python-net/aspose.psd/shapesegment/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/shapesegment/
 
 **Full Name:** aspose.psd.ShapeSegment
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

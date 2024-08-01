@@ -11,7 +11,7 @@ Prediction scheme for LZW
 
 **Full Name:** aspose.psd.fileformats.tiff.enums.TiffPredictor
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

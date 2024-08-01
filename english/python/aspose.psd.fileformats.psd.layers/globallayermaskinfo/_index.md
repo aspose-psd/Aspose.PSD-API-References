@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.GlobalLayerMaskInfo
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

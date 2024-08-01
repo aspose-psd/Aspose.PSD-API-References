@@ -1,7 +1,7 @@
 ---
 title: FontStyle Enumeration
 type: docs
-weight: 5610
+weight: 5620
 url: /python-net/aspose.psd/fontstyle/
 ---
 
@@ -11,7 +11,7 @@ Specifies style information applied to text.
 
 **Full Name:** aspose.psd.FontStyle
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,7 +11,7 @@ The color space types.
 
 **Full Name:** aspose.psd.fileformats.psd.resources.enums.ColorSpace
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

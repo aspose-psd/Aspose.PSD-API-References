@@ -1,7 +1,7 @@
 ---
 title: PenType Enumeration
 type: docs
-weight: 5990
+weight: 6000
 url: /python-net/aspose.psd/pentype/
 ---
 
@@ -11,7 +11,7 @@ Specifies the type of fill a [Pen](/psd/python-net/aspose.psd/pen/) object uses 
 
 **Full Name:** aspose.psd.PenType
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

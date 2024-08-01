@@ -11,7 +11,7 @@ The exif light source.
 
 **Full Name:** aspose.psd.exif.enums.ExifLightSource
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: LayerResourcesRegistry Class
 type: docs
-weight: 950
+weight: 960
 url: /python-net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerResourcesRegistry
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

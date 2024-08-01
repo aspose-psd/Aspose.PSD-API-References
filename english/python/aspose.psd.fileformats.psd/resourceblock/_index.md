@@ -1,7 +1,7 @@
 ---
 title: ResourceBlock Class
 type: docs
-weight: 1760
+weight: 1770
 url: /python-net/aspose.psd.fileformats.psd/resourceblock/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd/resourceblock/
 
 **Full Name:** aspose.psd.fileformats.psd.ResourceBlock
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

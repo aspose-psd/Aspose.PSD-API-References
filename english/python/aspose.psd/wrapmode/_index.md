@@ -1,7 +1,7 @@
 ---
 title: WrapMode Enumeration
 type: docs
-weight: 6490
+weight: 6500
 url: /python-net/aspose.psd/wrapmode/
 ---
 
@@ -11,7 +11,7 @@ Specifies how a texture or gradient is tiled when it is smaller than the area be
 
 **Full Name:** aspose.psd.WrapMode
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

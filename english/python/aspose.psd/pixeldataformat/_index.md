@@ -1,7 +1,7 @@
 ---
 title: PixelDataFormat Class
 type: docs
-weight: 3380
+weight: 3390
 url: /python-net/aspose.psd/pixeldataformat/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/pixeldataformat/
 
 **Full Name:** aspose.psd.PixelDataFormat
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -5,7 +5,7 @@ weight: 90
 url: /python-net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/
 ---
 
-**Summary:** Base interface for fill settings
+**Summary:** Base interface for Gradient fill settings.
 
 **Module:** [aspose.psd.fileformats.psd.layers.fillsettings](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/)
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillset
 
 **Inheritance:** IFillSettings
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

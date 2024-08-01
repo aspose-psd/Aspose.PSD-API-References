@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/
 
 **Full Name:** aspose.psd.fileformats.tiff.filemanagement.TiffStreamWriter
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

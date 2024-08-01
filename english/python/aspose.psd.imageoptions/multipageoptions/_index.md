@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.imageoptions/multipageoptions/
 
 **Full Name:** aspose.psd.imageoptions.MultiPageOptions
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

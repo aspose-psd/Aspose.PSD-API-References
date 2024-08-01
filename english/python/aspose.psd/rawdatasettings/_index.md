@@ -1,7 +1,7 @@
 ---
 title: RawDataSettings Class
 type: docs
-weight: 3700
+weight: 3710
 url: /python-net/aspose.psd/rawdatasettings/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/rawdatasettings/
 
 **Full Name:** aspose.psd.RawDataSettings
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

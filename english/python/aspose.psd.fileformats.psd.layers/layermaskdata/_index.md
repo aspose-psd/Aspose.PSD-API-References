@@ -1,7 +1,7 @@
 ---
 title: LayerMaskData Class
 type: docs
-weight: 910
+weight: 920
 url: /python-net/aspose.psd.fileformats.psd.layers/layermaskdata/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layermaskdata/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerMaskData
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

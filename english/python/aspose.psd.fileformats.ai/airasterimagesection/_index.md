@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.ai/airasterimagesection/
 
 **Full Name:** aspose.psd.fileformats.ai.AiRasterImageSection
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

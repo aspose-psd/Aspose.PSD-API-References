@@ -1,7 +1,7 @@
 ---
 title: GraphicsPath Class
 type: docs
-weight: 1510
+weight: 1520
 url: /python-net/aspose.psd/graphicspath/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/graphicspath/
 
 **Inheritance:** ObjectWithBounds
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

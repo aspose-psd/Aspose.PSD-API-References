@@ -1,7 +1,7 @@
 ---
 title: Graphics Class
 type: docs
-weight: 1490
+weight: 1500
 url: /python-net/aspose.psd/graphics/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/graphics/
 
 **Full Name:** aspose.psd.Graphics
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

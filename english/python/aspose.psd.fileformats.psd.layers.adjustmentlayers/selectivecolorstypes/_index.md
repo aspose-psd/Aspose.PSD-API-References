@@ -1,7 +1,7 @@
 ---
 title: SelectiveColorsTypes Enumeration
 type: docs
-weight: 230
+weight: 240
 url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/selectivecolorstypes/
 ---
 
@@ -11,7 +11,7 @@ Color types in selective color adjustment layer.
 
 **Full Name:** aspose.psd.fileformats.psd.layers.adjustmentlayers.SelectiveColorsTypes
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

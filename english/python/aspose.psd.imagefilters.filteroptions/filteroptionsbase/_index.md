@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 
 **Full Name:** aspose.psd.imagefilters.filteroptions.FilterOptionsBase
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: HotkeyPrefix Enumeration
 type: docs
-weight: 5690
+weight: 5700
 url: /python-net/aspose.psd/hotkeyprefix/
 ---
 
@@ -11,7 +11,7 @@ Specifies the type of display for hot-key prefixes that relate to text.
 
 **Full Name:** aspose.psd.HotkeyPrefix
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: Image Class
 type: docs
-weight: 2110
+weight: 2120
 url: /python-net/aspose.psd/image/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/image/
 
 **Inheritance:** IObjectWithBounds, DataStreamSupporter
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

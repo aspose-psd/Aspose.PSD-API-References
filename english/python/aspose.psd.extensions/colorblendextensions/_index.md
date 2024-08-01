@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.extensions/colorblendextensions/
 
 **Full Name:** aspose.psd.extensions.ColorBlendExtensions
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Methods**
 | **Name** | **Description** |

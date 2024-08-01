@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.text/itextportion/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.text.ITextPortion
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

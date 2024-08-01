@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 
 **Inheritance:** VectorPathRecord
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

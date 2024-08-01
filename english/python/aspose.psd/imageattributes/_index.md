@@ -1,7 +1,7 @@
 ---
 title: ImageAttributes Class
 type: docs
-weight: 2120
+weight: 2130
 url: /python-net/aspose.psd/imageattributes/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/imageattributes/
 
 **Full Name:** aspose.psd.ImageAttributes
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.extensions/matrixextensions/
 
 **Full Name:** aspose.psd.extensions.MatrixExtensions
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Methods**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: IAdvancedBufferProcessor Class
 type: docs
-weight: 1590
+weight: 1600
 url: /python-net/aspose.psd/iadvancedbufferprocessor/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/iadvancedbufferprocessor/
 
 **Inheritance:** IBufferProcessor
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Methods**
 | **Name** | **Description** |

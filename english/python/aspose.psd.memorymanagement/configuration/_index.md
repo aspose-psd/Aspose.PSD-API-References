@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.memorymanagement/configuration/
 
 **Full Name:** aspose.psd.memorymanagement.Configuration
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

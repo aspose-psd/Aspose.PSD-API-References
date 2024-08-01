@@ -11,7 +11,7 @@ Represents project type in [XmpDynamicMediaPackage](/psd/python-net/aspose.psd.x
 
 **Full Name:** aspose.psd.xmp.schemas.xmpdm.ProjectType
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

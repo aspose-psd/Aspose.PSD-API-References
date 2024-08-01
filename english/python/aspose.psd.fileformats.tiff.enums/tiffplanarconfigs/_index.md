@@ -11,7 +11,7 @@ Storage organization.<br /><br/>            Possible values for PLANARCONFIG tag
 
 **Full Name:** aspose.psd.fileformats.tiff.enums.TiffPlanarConfigs
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

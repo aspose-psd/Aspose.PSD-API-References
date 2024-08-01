@@ -1,7 +1,7 @@
 ---
 title: LayerBlendingRangesData Class
 type: docs
-weight: 880
+weight: 890
 url: /python-net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerBlendingRangesData
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

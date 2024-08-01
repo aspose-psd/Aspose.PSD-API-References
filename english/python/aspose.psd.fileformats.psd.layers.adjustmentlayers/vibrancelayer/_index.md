@@ -1,7 +1,7 @@
 ---
 title: VibranceLayer Class
 type: docs
-weight: 210
+weight: 220
 url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelaye
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, AdjustmentLayer
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

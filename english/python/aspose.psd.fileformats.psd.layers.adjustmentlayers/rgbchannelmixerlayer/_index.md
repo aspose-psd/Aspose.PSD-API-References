@@ -1,7 +1,7 @@
 ---
 title: RgbChannelMixerLayer Class
 type: docs
-weight: 170
+weight: 180
 url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmi
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, ChannelMixerLayer
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

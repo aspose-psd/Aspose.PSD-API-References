@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.brushes/lineargradientbrush/
 
 **Inheritance:** LinearGradientBrushBase
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

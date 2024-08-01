@@ -1,7 +1,7 @@
 ---
 title: RectangleF Class
 type: docs
-weight: 3760
+weight: 3770
 url: /python-net/aspose.psd/rectanglef/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/rectanglef/
 
 **Full Name:** aspose.psd.RectangleF
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/filestreamcontainer/
 
 **Inheritance:** StreamContainer
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

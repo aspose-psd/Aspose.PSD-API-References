@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.jpeg/jfifdata/
 
 **Full Name:** aspose.psd.fileformats.jpeg.JFIFData
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

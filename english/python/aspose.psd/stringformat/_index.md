@@ -1,7 +1,7 @@
 ---
 title: StringFormat Class
 type: docs
-weight: 4190
+weight: 4200
 url: /python-net/aspose.psd/stringformat/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/stringformat/
 
 **Inheritance:** DisposableObject
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

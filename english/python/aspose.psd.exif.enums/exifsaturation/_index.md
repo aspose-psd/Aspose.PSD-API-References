@@ -11,7 +11,7 @@ exif saturation enum.
 
 **Full Name:** aspose.psd.exif.enums.ExifSaturation
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

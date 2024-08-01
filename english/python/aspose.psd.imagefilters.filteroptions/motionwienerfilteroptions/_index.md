@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions
 
 **Inheritance:** DeconvolutionFilterOptions
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Constructors**
 | **Name** | **Description** |

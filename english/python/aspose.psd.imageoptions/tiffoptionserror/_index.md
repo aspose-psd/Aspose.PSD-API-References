@@ -11,7 +11,7 @@ The tiff options error codes.
 
 **Full Name:** aspose.psd.imageoptions.TiffOptionsError
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

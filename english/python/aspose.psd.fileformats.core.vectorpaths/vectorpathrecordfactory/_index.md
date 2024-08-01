@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory
 
 **Full Name:** aspose.psd.fileformats.core.vectorpaths.VectorPathRecordFactory
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Methods**
 | **Name** | **Description** |

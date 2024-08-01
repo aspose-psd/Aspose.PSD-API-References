@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.extensions/graphicspathextensions/
 
 **Full Name:** aspose.psd.extensions.GraphicsPathExtensions
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Methods**
 | **Name** | **Description** |

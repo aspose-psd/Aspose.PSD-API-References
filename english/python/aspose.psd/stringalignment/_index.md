@@ -1,7 +1,7 @@
 ---
 title: StringAlignment Enumeration
 type: docs
-weight: 6200
+weight: 6210
 url: /python-net/aspose.psd/stringalignment/
 ---
 
@@ -11,7 +11,7 @@ Specifies the alignment of a text string relative to its layout rectangle.
 
 **Full Name:** aspose.psd.StringAlignment
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |

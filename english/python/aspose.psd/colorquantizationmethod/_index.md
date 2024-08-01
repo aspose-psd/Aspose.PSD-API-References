@@ -1,7 +1,7 @@
 ---
 title: ColorQuantizationMethod Enumeration
 type: docs
-weight: 5230
+weight: 5240
 url: /python-net/aspose.psd/colorquantizationmethod/
 ---
 
@@ -11,7 +11,7 @@ Colors quantization  methods
 
 **Full Name:** aspose.psd.ColorQuantizationMethod
 
-**Aspose.PSD Version:** 24.4.0
+**Aspose.PSD Version:** 24.6.0
 
 ## **Members**
 | **Member name** | **Description** |
