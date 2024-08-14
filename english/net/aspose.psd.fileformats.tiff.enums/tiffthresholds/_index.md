@@ -3,7 +3,7 @@ title: Enum TiffThresholds
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds enum. Thresholding used on data
 type: docs
-weight: 4450
+weight: 4480
 url: /net/aspose.psd.fileformats.tiff.enums/tiffthresholds/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Interface IBufferProcessor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IBufferProcessor interface. The buffer processor
 type: docs
-weight: 4640
+weight: 4670
 url: /net/aspose.psd/ibufferprocessor/
 ---
 {{< psd/tize >}}

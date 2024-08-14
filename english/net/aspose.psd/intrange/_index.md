@@ -3,7 +3,7 @@ title: Class IntRange
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IntRange class. Class for representing sequence of elements
 type: docs
-weight: 5290
+weight: 5320
 url: /net/aspose.psd/intrange/
 ---
 {{< psd/tize >}}

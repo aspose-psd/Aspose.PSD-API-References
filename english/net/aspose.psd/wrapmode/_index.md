@@ -3,7 +3,7 @@ title: Enum WrapMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.WrapMode enum. Specifies how a texture or gradient is tiled when it is smaller than the area being filled
 type: docs
-weight: 6030
+weight: 6060
 url: /net/aspose.psd/wrapmode/
 ---
 {{< psd/tize >}}

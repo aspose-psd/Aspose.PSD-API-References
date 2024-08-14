@@ -3,7 +3,7 @@ title: Class BigRectangularFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions class. Big Rectangular Filter Options
 type: docs
-weight: 4920
+weight: 4950
 url: /net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
 {{< psd/tize >}}

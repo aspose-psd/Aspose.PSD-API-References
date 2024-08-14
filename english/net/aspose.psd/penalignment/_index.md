@@ -3,7 +3,7 @@ title: Enum PenAlignment
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.PenAlignment enum. Specifies the alignment of a Pen object in relation to the theoretical zerowidth line
 type: docs
-weight: 5490
+weight: 5520
 url: /net/aspose.psd/penalignment/
 ---
 {{< psd/tize >}}

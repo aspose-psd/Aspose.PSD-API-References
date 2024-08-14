@@ -3,7 +3,7 @@ title: Class Font
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Font class. Defines a particular format for text including font face size and style attributes. This class cannot be inherited
 type: docs
-weight: 4550
+weight: 4580
 url: /net/aspose.psd/font/
 ---
 {{< psd/tize >}}

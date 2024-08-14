@@ -3,7 +3,7 @@ title: TextLayer.UpdateText
 second_title: Aspose.PSD for .NET API Reference
 description: TextLayer method. Updates the text
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
 {{< psd/tize >}}

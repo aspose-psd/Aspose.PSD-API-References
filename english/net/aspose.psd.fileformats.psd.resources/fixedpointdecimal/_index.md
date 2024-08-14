@@ -3,7 +3,7 @@ title: Class FixedPointDecimal
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal class. Fixedpoint decimal with 16bit integer and 16bit fraction
 type: docs
-weight: 3970
+weight: 4000
 url: /net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
 {{< psd/tize >}}

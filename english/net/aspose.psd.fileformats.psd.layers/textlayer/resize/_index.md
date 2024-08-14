@@ -3,7 +3,7 @@ title: TextLayer.Resize
 second_title: Aspose.PSD for .NET API Reference
 description: TextLayer method. Resizes the image. The default LeftTopToLeftTop is used
 type: docs
-weight: 90
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
 {{< psd/tize >}}

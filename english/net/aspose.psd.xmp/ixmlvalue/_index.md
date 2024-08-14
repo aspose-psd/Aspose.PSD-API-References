@@ -3,7 +3,7 @@ title: Interface IXmlValue
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.IXmlValue interface. Converts xmp values to the XML string representation
 type: docs
-weight: 6040
+weight: 6070
 url: /net/aspose.psd.xmp/ixmlvalue/
 ---
 {{< psd/tize >}}

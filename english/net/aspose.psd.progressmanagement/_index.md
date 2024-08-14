@@ -3,7 +3,7 @@ title: Aspose.PSD.ProgressManagement
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains progress handler classes
 type: docs
-weight: 520
+weight: 530
 url: /net/aspose.psd.progressmanagement/
 ---
 {{< psd/tize >}}

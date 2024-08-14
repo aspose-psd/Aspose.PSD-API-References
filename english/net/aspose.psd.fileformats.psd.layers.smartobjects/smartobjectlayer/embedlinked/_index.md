@@ -3,7 +3,7 @@ title: SmartObjectLayer.EmbedLinked
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Embeds the linked smart object in this layer
 type: docs
-weight: 100
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/embedlinked/
 ---
 {{< psd/tize >}}
