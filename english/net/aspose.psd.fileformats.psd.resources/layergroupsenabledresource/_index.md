@@ -3,7 +3,7 @@ title: Class LayerGroupsEnabledResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.LayerGroupsEnabledResource class. Layer groups enabled resource
 type: docs
-weight: 4060
+weight: 4090
 url: /net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/
 ---
 {{< psd/tize >}}

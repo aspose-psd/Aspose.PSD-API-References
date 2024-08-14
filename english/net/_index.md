@@ -52,6 +52,7 @@ Please check the Aspose [PSD Tutorial](https://products.aspose.com/psd/tutorial/
 | [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](./aspose.psd.fileformats.psd.layers.smartfilters.rendering/) | The namespace contains PSD file format entities contained in layers. |
 | [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](./aspose.psd.fileformats.psd.layers.smartobjects/) | The namespace contains API to manipulate smart object layer data |
 | [Aspose.PSD.FileFormats.Psd.Layers.Text](./aspose.psd.fileformats.psd.layers.text/) | The namespace contains API to manipulate text layers' data |
+| [Aspose.PSD.FileFormats.Psd.Layers.Warp](./aspose.psd.fileformats.psd.layers.warp/) | The namespace contains API to manipulate text layers' data |
 | [Aspose.PSD.FileFormats.Psd.Resources](./aspose.psd.fileformats.psd.resources/) | The namespace contains PSD file format resource entities. |
 | [Aspose.PSD.FileFormats.Psd.Resources.Enums](./aspose.psd.fileformats.psd.resources.enums/) | The namespace handles Psd resources enumerations. |
 | [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](./aspose.psd.fileformats.psd.resources.resolutionenums/) | The namespace handles Psd resources resolution units |

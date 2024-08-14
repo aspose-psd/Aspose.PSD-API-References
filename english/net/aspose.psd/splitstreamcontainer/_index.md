@@ -3,7 +3,7 @@ title: Class SplitStreamContainer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.SplitStreamContainer class. Represents split stream container which contains the stream and provides stream processing routines
 type: docs
-weight: 5920
+weight: 5950
 url: /net/aspose.psd/splitstreamcontainer/
 ---
 {{< psd/tize >}}

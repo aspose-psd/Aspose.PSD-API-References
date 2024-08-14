@@ -3,7 +3,7 @@ title: Interface IPartialArgb64PixelLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IPartialArgb64PixelLoader interface. The 64bit ARGB pixels loader
 type: docs
-weight: 4790
+weight: 4820
 url: /net/aspose.psd/ipartialargb64pixelloader/
 ---
 {{< psd/tize >}}

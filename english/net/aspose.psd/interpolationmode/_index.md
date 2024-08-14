@@ -3,7 +3,7 @@ title: Enum InterpolationMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.InterpolationMode enum. The InterpolationMode enumeration specifies the algorithm that is used when images are scaled or rotated
 type: docs
-weight: 5310
+weight: 5340
 url: /net/aspose.psd/interpolationmode/
 ---
 {{< psd/tize >}}

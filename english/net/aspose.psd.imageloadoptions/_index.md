@@ -3,7 +3,7 @@ title: Aspose.PSD.ImageLoadOptions
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains different file format load options
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.psd.imageloadoptions/
 ---
 {{< psd/tize >}}

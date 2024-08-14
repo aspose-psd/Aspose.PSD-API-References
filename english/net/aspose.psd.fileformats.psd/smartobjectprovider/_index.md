@@ -3,7 +3,7 @@ title: Class SmartObjectProvider
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.SmartObjectProvider class. Defines the smart object provider that provides getting / setting data sources from global link resources of the PSD file and their contents
 type: docs
-weight: 4270
+weight: 4300
 url: /net/aspose.psd.fileformats.psd/smartobjectprovider/
 ---
 {{< psd/tize >}}

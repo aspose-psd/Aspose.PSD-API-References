@@ -3,7 +3,7 @@ title: SmartObjectLayer.ReplaceContents
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Replaces the smart object contents embedded in the smart object layer
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class MultiPageOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.MultiPageOptions class. Base class for multiple pages supported formats
 type: docs
-weight: 5140
+weight: 5170
 url: /net/aspose.psd.imageoptions/multipageoptions/
 ---
 {{< psd/tize >}}
