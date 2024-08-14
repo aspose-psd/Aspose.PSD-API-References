@@ -3,7 +3,7 @@ title: SmartObjectLayer.ConvertToLinked
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Converts this embedded smart object to a linked smart object
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/
 ---
 {{< psd/tize >}}

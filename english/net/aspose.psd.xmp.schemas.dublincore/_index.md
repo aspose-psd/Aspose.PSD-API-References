@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Schemas.DublinCore
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains Dublin Core metadata related helper classes constants and methods
 type: docs
-weight: 570
+weight: 580
 url: /net/aspose.psd.xmp.schemas.dublincore/
 ---
 {{< psd/tize >}}

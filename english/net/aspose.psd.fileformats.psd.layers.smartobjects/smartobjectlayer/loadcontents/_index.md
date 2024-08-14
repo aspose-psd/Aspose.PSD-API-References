@@ -3,7 +3,7 @@ title: SmartObjectLayer.LoadContents
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Gets the embedded or linked image contents of the smart object layer
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/
 ---
 {{< psd/tize >}}

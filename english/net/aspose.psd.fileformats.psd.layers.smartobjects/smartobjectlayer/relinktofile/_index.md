@@ -3,7 +3,7 @@ title: SmartObjectLayer.RelinkToFile
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Relinks the linked smart object to a new file. There is no need to call UpdateModifiedContent method afterwards
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/relinktofile/
 ---
 {{< psd/tize >}}

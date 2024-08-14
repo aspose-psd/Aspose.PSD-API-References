@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Types.Basic
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains classes that represent the basic type values of XMP properties
 type: docs
-weight: 650
+weight: 660
 url: /net/aspose.psd.xmp.types.basic/
 ---
 {{< psd/tize >}}

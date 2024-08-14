@@ -3,7 +3,7 @@ title: SmartObjectLayer.NewSmartObjectViaCopy
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectLayer method. Creates a new smart object layer by coping this one. Reproduces Layer  Smart Objects  New Smart Object via Copy functionality of Adobe Photoshop. Notice that it is enabled only for embedded smart objects because the embedded image is also copied. If you want to share the embedded image use DuplicateLayer method
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy/
 ---
 {{< psd/tize >}}

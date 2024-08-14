@@ -3,7 +3,7 @@ title: Aspose.PSD.Sources
 second_title: Aspose.PSD for .NET API Reference
 description: Namespace contains different stream sources which are suitable for input or output data flow
 type: docs
-weight: 550
+weight: 560
 url: /net/aspose.psd.sources/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Types.Complex.ResourceEvent
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains class that is a high level event that occured in the processing of this document
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.psd.xmp.types.complex.resourceevent/
 ---
 {{< psd/tize >}}

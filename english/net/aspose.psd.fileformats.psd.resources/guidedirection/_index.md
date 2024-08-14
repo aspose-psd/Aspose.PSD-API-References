@@ -3,7 +3,7 @@ title: Enum GuideDirection
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enum. The guide direction
 type: docs
-weight: 4010
+weight: 4040
 url: /net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
 {{< psd/tize >}}

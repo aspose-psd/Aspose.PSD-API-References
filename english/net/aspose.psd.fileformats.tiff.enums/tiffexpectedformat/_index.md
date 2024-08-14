@@ -3,7 +3,7 @@ title: Enum TiffExpectedFormat
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat enum. The expected tiff file format
 type: docs
-weight: 4340
+weight: 4370
 url: /net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 ---
 {{< psd/tize >}}

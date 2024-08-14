@@ -3,7 +3,7 @@ title: Class LoadOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.LoadOptions class. Represents the loading options
 type: docs
-weight: 5360
+weight: 5390
 url: /net/aspose.psd/loadoptions/
 ---
 {{< psd/tize >}}

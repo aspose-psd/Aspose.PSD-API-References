@@ -3,7 +3,7 @@ title: Class PngOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.PngOptions class. The png file format create options
 type: docs
-weight: 5160
+weight: 5190
 url: /net/aspose.psd.imageoptions/pngoptions/
 ---
 {{< psd/tize >}}

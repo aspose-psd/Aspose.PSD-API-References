@@ -3,7 +3,7 @@ title: Aspose.PSD.ImageFilters.FilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace handles Filter options
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.psd.imagefilters.filteroptions/
 ---
 {{< psd/tize >}}
