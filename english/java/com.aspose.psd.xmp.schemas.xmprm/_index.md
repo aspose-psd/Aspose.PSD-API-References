@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.schemas.xmprm
 second_title: Aspose.PSD for Java API Reference
 description: The package contains related to rights management helper classes constants and methods.
 type: docs
-weight: 82
+weight: 83
 url: /java/com.aspose.psd.xmp.schemas.xmprm/
 ---
 

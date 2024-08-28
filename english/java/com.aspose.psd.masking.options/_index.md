@@ -3,7 +3,7 @@ title: com.aspose.psd.masking.options
 second_title: Aspose.PSD for Java API Reference
 description: The namespace handles ImageMasking.Options processing.
 type: docs
-weight: 67
+weight: 68
 url: /java/com.aspose.psd.masking.options/
 ---
 

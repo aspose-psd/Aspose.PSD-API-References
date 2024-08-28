@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.tiff.enums
 second_title: Aspose.PSD for Java API Reference
 description: The package contains Tiff file format enumerations.
 type: docs
-weight: 57
+weight: 58
 url: /java/com.aspose.psd.fileformats.tiff.enums/
 ---
 

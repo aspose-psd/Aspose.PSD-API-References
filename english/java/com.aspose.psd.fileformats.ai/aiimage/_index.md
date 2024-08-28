@@ -63,7 +63,7 @@ The Adobe Illustrator (AI) Image
 | [getDeeplyAdjustPalette_internalized()](#getDeeplyAdjustPalette-internalized--) | Gets the deeply adjust palette. |
 | [getDefaultOptions(Object[] args)](#getDefaultOptions-java.lang.Object---) | Gets the default options. |
 | [getDisposed()](#getDisposed--) | Gets a value indicating whether this instance is disposed. |
-| [getDocument_internalized()](#getDocument-internalized--) | PdfDocument instance. |
+| [getDocument_internalized()](#getDocument-internalized--) | Gets or sets PdfDocument instance. |
 | [getFileFormat()](#getFileFormat--) | Gets a value of file format. |
 | [getFileFormat(System.IO.Stream stream)](#getFileFormat-com.aspose.ms.System.IO.Stream-) | Gets the file format. |
 | [getFileFormat(InputStream stream)](#getFileFormat-java.io.InputStream-) | Gets the file format. |
@@ -148,7 +148,7 @@ The Adobe Illustrator (AI) Image
 | [setContainer_internalized(Image container)](#setContainer-internalized-com.aspose.psd.Image-) | Sets the  Image  container. |
 | [setDataSection(AiDataSection value)](#setDataSection-com.aspose.psd.fileformats.ai.AiDataSection-) | Gets the data section. |
 | [setDataStreamContainer(StreamContainer value)](#setDataStreamContainer-com.aspose.psd.StreamContainer-) | Sets the object's data stream. |
-| [setDocument_internalized(PdfDocument value)](#setDocument-internalized-com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument-) | PdfDocument instance. |
+| [setDocument_internalized(PdfDocument value)](#setDocument-internalized-com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument-) | Gets or sets PdfDocument instance. |
 | [setFinalizeSection(AiFinalizeSection value)](#setFinalizeSection-com.aspose.psd.fileformats.ai.AiFinalizeSection-) | Gets the finalize section. |
 | [setHeader(AiHeader value)](#setHeader-com.aspose.psd.fileformats.ai.AiHeader-) | Gets the header. |
 | [setIgnoreAfterSave_internalized(boolean value)](#setIgnoreAfterSave-internalized-boolean-) | Sets a value indicating whether [ignore after save]. |
@@ -618,7 +618,7 @@ public final PdfDocument getDocument_internalized()
 ```
 
 
-PdfDocument instance. Provides Ai format functionality.
+Gets or sets PdfDocument instance. Provides Ai format functionality.
 
 **Returns:**
 com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument
@@ -995,7 +995,7 @@ Value: The image width.
 int
 ### getXmpData() {#getXmpData--}
 ```
-public XmpPacketWrapper getXmpData()
+public final XmpPacketWrapper getXmpData()
 ```
 
 
@@ -1742,7 +1742,7 @@ public final void setDocument_internalized(PdfDocument value)
 ```
 
 
-PdfDocument instance. Provides Ai format functionality.
+Gets or sets PdfDocument instance. Provides Ai format functionality.
 
 **Parameters:**
 | Parameter | Type | Description |
