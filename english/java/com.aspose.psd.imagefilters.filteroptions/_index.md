@@ -3,7 +3,7 @@ title: com.aspose.psd.imagefilters.filteroptions
 second_title: Aspose.PSD for Java API Reference
 description: The package handles filter options.
 type: docs
-weight: 62
+weight: 63
 url: /java/com.aspose.psd.imagefilters.filteroptions/
 ---
 

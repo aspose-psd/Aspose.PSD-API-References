@@ -52,6 +52,7 @@ is_root: true
 | [com.aspose.psd.fileformats.psd.layers.smartobjects](./com.aspose.psd.fileformats.psd.layers.smartobjects) |  |
 | [com.aspose.psd.fileformats.psd.layers.text](./com.aspose.psd.fileformats.psd.layers.text) |  |
 | [com.aspose.psd.fileformats.psd.layers.text.rendering](./com.aspose.psd.fileformats.psd.layers.text.rendering) |  |
+| [com.aspose.psd.fileformats.psd.layers.warp](./com.aspose.psd.fileformats.psd.layers.warp) |  |
 | [com.aspose.psd.fileformats.psd.rawcolor](./com.aspose.psd.fileformats.psd.rawcolor) |  |
 | [com.aspose.psd.fileformats.psd.resources](./com.aspose.psd.fileformats.psd.resources) |  |
 | [com.aspose.psd.fileformats.psd.resources.enums_](./com.aspose.psd.fileformats.psd.resources.enums_) |  |

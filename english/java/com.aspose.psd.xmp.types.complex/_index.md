@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.types.complex
 second_title: Aspose.PSD for Java API Reference
 description: The package contains classes that represent the complex type values of XMP properties.
 type: docs
-weight: 85
+weight: 86
 url: /java/com.aspose.psd.xmp.types.complex/
 ---
 
