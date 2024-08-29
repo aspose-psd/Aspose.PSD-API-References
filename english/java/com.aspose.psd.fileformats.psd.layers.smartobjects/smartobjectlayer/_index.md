@@ -112,7 +112,6 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [getClipping()](#getClipping--) | Gets or sets the layer clipping. |
 | [getContainer()](#getContainer--) | Gets the  Image  container. |
 | [getContentType()](#getContentType--) | Gets the type of the smart object layer content. |
-| [getContentWithoutEmptySpace_internalized()](#getContentWithoutEmptySpace-internalized--) | It is bounds of image without empty borders PS cuts empty space around image in SmartLayer |
 | [getContents()](#getContents--) | Gets or sets the smart object layer contents. |
 | [getContentsBounds()](#getContentsBounds--) | Gets or sets the smart object content's bounds. |
 | [getContentsSource()](#getContentsSource--) | Gets or sets the smart object content's source. |
@@ -167,8 +166,6 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [getPaintableImage_internalized(ImageOptionsBase paintableOptions)](#getPaintableImage-internalized-com.aspose.psd.ImageOptionsBase-) | Gets the paintable image. |
 | [getPalette()](#getPalette--) | Gets the color palette. |
 | [getPixel(int x, int y)](#getPixel-int-int-) | Gets an image pixel. |
-| [getPixelsFromContent_internalized(LinkDataSource contentsSource)](#getPixelsFromContent-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-) |  |
-| [getPixelsFromContent_internalized(LinkDataSource contentsSource, int stepSize)](#getPixelsFromContent-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-int-) | It returns rendered pixels from SmartLayer contents |
 | [getPlacedLayerResource_internalized(LayerResource[] resources, int[] placedResourceIndex, int[] smartResourceIndex)](#getPlacedLayerResource-internalized-com.aspose.psd.fileformats.psd.layers.LayerResource---int---int---) | Gets the placed and smart layer resource indices and the proper placed resource. |
 | [getPlacedResource_internalized()](#getPlacedResource-internalized--) | Gets the placed layer resource |
 | [getPremultiplyComponents()](#getPremultiplyComponents--) | Gets or sets a value indicating whether the image components must be premultiplied. |
@@ -202,6 +199,8 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [getUsedPalette_internalized()](#getUsedPalette-internalized--) | Gets the used palette. |
 | [getVentureLicense_internalized()](#getVentureLicense-internalized--) | Gets the venture license. |
 | [getVerticalResolution()](#getVerticalResolution--) | Gets or sets the vertical resolution, in pixels per inch, of this  RasterImage . |
+| [getWarpProvider_internalized()](#getWarpProvider-internalized--) | It gets functions helps with warp |
+| [getWarpSettings()](#getWarpSettings--) | It gets or sets Warp parameters that was set or get from resource (default) |
 | [getWidth()](#getWidth--) | Gets the image width. |
 | [getXmpData()](#getXmpData--) | Gets or sets the XMP metadata. |
 | [grayscale()](#grayscale--) | Transformation of an image to its grayscale representation |
@@ -357,6 +356,7 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [setVentureLicense_internalized(Object ventureLicense)](#setVentureLicense-internalized-java.lang.Object-) | All Aspose products should implement this method. |
 | [setVerticalResolution(double value)](#setVerticalResolution-double-) | Gets or sets the vertical resolution, in pixels per inch, of this  RasterImage . |
 | [setVisible(boolean value)](#setVisible-boolean-) | Gets or sets a value indicating whether the layer is visible |
+| [setWarpSettings(WarpSettings value)](#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.WarpSettings-) | It gets or sets Warp parameters that was set or get from resource (default) |
 | [setXmpData(XmpPacketWrapper value)](#setXmpData-com.aspose.psd.xmp.XmpPacketWrapper-) | Gets or sets the XMP metadata. |
 | [shallowCopy()](#shallowCopy--) | Creates a shallow copy of the current Layer. |
 | [toBitmap()](#toBitmap--) | Converts raster image to the bitmap. |
@@ -366,7 +366,7 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [updateDataSourceId_internalized(System.Guid sourceId)](#updateDataSourceId-internalized-com.aspose.ms.System.Guid-) | Updates the data source identifier. |
 | [updateModifiedContent()](#updateModifiedContent--) | Updates the smart object layer image cache with the modified content. |
 | [updatePlacedResources_internalized(boolean toEmbedded)](#updatePlacedResources-internalized-boolean-) | Updates the placed / smart resources when the placedResource is changed or when conversion is needed. |
-| [updateSmartLayerPreview_internalized(PixelsData targetWarpedPixels)](#updateSmartLayerPreview-internalized-com.aspose.psd.PixelsData-) | It update preview in SmartLayer |
+| [updatePreview_internalized(PixelsData targetWarpedPixels)](#updatePreview-internalized-com.aspose.psd.PixelsData-) | It is wrapper for "IWarpSupport" to update layer preview |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -1461,16 +1461,6 @@ Value: The type of the smart object layer content.
 
 **Returns:**
 int
-### getContentWithoutEmptySpace_internalized() {#getContentWithoutEmptySpace-internalized--}
-```
-public final Rectangle getContentWithoutEmptySpace_internalized()
-```
-
-
-It is bounds of image without empty borders PS cuts empty space around image in SmartLayer
-
-**Returns:**
-[Rectangle](../../com.aspose.psd/rectangle)
 ### getContents() {#getContents--}
 ```
 public final byte[] getContents()
@@ -2141,37 +2131,6 @@ Gets an image pixel.
 
 **Returns:**
 [Color](../../com.aspose.psd/color) - The pixel color for the specified location.
-### getPixelsFromContent_internalized(LinkDataSource contentsSource) {#getPixelsFromContent-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-}
-```
-public final PixelsData getPixelsFromContent_internalized(LinkDataSource contentsSource)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| contentsSource | [LinkDataSource](../../com.aspose.psd.fileformats.psd.layers.layerresources.linkresources/linkdatasource) |  |
-
-**Returns:**
-[PixelsData](../../com.aspose.psd/pixelsdata)
-### getPixelsFromContent_internalized(LinkDataSource contentsSource, int stepSize) {#getPixelsFromContent-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-int-}
-```
-public final PixelsData getPixelsFromContent_internalized(LinkDataSource contentsSource, int stepSize)
-```
-
-
-It returns rendered pixels from SmartLayer contents
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| contentsSource | [LinkDataSource](../../com.aspose.psd.fileformats.psd.layers.layerresources.linkresources/linkdatasource) | It is sourse storage of SmartLayer |
-| stepSize | int | The border size test step |
-
-**Returns:**
-[PixelsData](../../com.aspose.psd/pixelsdata) - The Rendered pixels
 ### getPlacedLayerResource_internalized(LayerResource[] resources, int[] placedResourceIndex, int[] smartResourceIndex) {#getPlacedLayerResource-internalized-com.aspose.psd.fileformats.psd.layers.LayerResource---int---int---}
 ```
 public static PlacedResource getPlacedLayerResource_internalized(LayerResource[] resources, int[] placedResourceIndex, int[] smartResourceIndex)
@@ -2543,6 +2502,26 @@ Gets or sets the vertical resolution, in pixels per inch, of this  RasterImage .
 double - The vertical resolution.
 
 Note by default this value is always 96 since different platforms cannot return the screen resolution. You may consider using the SetResolution method for updating both resolution values in single call.
+### getWarpProvider_internalized() {#getWarpProvider-internalized--}
+```
+public final SmartObjectWarpProvider getWarpProvider_internalized()
+```
+
+
+It gets functions helps with warp
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.warp.SmartObjectWarpProvider
+### getWarpSettings() {#getWarpSettings--}
+```
+public final WarpSettings getWarpSettings()
+```
+
+
+It gets or sets Warp parameters that was set or get from resource (default)
+
+**Returns:**
+[WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp/warpsettings)
 ### getWidth() {#getWidth--}
 ```
 public int getWidth()
@@ -4664,6 +4643,19 @@ Value:  true  if this instance is visible; otherwise,  false .
 | --- | --- | --- |
 | value | boolean |  |
 
+### setWarpSettings(WarpSettings value) {#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.WarpSettings-}
+```
+public final void setWarpSettings(WarpSettings value)
+```
+
+
+It gets or sets Warp parameters that was set or get from resource (default)
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp/warpsettings) |  |
+
 ### setXmpData(XmpPacketWrapper value) {#setXmpData-com.aspose.psd.xmp.XmpPacketWrapper-}
 ```
 public void setXmpData(XmpPacketWrapper value)
@@ -4764,18 +4756,18 @@ Updates the placed / smart resources when the placedResource is changed or when 
 | --- | --- | --- |
 | toEmbedded | boolean | if set to  true  covert to an embedded resource if needed, otherwise to a linked one. |
 
-### updateSmartLayerPreview_internalized(PixelsData targetWarpedPixels) {#updateSmartLayerPreview-internalized-com.aspose.psd.PixelsData-}
+### updatePreview_internalized(PixelsData targetWarpedPixels) {#updatePreview-internalized-com.aspose.psd.PixelsData-}
 ```
-public final void updateSmartLayerPreview_internalized(PixelsData targetWarpedPixels)
+public final void updatePreview_internalized(PixelsData targetWarpedPixels)
 ```
 
 
-It update preview in SmartLayer
+It is wrapper for "IWarpSupport" to update layer preview
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| targetWarpedPixels | [PixelsData](../../com.aspose.psd/pixelsdata) | Pixels and bounds |
+| targetWarpedPixels | [PixelsData](../../com.aspose.psd/pixelsdata) | Pixels and size of new preview image |
 
 ### wait() {#wait--}
 ```
