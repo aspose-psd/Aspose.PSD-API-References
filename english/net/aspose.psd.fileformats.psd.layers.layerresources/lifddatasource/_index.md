@@ -3,7 +3,7 @@ title: Class LiFdDataSource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFdDataSource class. Defines the liFD data source class in PSD File that contains information about an embedded file. This is part of PSD File Format Manipulation API that helps to modify Adobe Photoshop files
 type: docs
-weight: 2840
+weight: 2880
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/
 ---
 {{< psd/tize >}}

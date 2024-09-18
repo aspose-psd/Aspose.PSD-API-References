@@ -3,7 +3,7 @@ title: Class XmpAgentName
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Derived.XmpAgentName class. Represents Agent name Software organization etc
 type: docs
-weight: 6460
+weight: 6510
 url: /net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
 {{< psd/tize >}}

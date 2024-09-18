@@ -3,7 +3,7 @@ title: Interface IImageLoaderDescriptor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IImageLoaderDescriptor interface. The image loader descriptor specifying the loader properties. The loader descriptor is used to overcome the necessity to contain each image loader instance in memory and multithreading issues
 type: docs
-weight: 4760
+weight: 4810
 url: /net/aspose.psd/iimageloaderdescriptor/
 ---
 {{< psd/tize >}}

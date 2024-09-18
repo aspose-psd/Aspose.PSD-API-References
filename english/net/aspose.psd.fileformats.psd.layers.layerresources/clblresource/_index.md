@@ -3,7 +3,7 @@ title: Class ClblResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClblResource class. Class ClblResource. This resource contains information about blending of clipped element
 type: docs
-weight: 2510
+weight: 2550
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/
 ---
 {{< psd/tize >}}

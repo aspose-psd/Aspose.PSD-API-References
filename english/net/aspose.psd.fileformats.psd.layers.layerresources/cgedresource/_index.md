@@ -3,7 +3,7 @@ title: Class CgEdResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource class. Class CgEdResource. Content Generator Extra Data Photoshop CS5
 type: docs
-weight: 2490
+weight: 2530
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
 {{< psd/tize >}}

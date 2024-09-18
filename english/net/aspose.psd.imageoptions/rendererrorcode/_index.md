@@ -3,7 +3,7 @@ title: Enum RenderErrorCode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.RenderErrorCode enum. Represents possible missing sections in CAD file
 type: docs
-weight: 5230
+weight: 5280
 url: /net/aspose.psd.imageoptions/rendererrorcode/
 ---
 {{< psd/tize >}}

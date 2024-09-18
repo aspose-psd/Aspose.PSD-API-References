@@ -3,7 +3,7 @@ title: Interface IPlacedLayerResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource interface. Defines the IPlacedLayerResource interface that contains information about a placed layer in the PSD file. Is is a markup interface used to designate PlLd Sold and Sole resources in the Adobe Photoshop images. Is is used to support smart object layers in the Adobe Photoshop images
 type: docs
-weight: 2700
+weight: 2740
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
 {{< psd/tize >}}

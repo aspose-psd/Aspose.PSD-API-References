@@ -3,7 +3,7 @@ title: Enum TiffTags
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffTags enum. The tiff tag enum
 type: docs
-weight: 4470
+weight: 4520
 url: /net/aspose.psd.fileformats.tiff.enums/tifftags/
 ---
 {{< psd/tize >}}
