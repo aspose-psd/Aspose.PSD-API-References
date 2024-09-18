@@ -3,7 +3,7 @@ title: Class IntegerStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.IntegerStructure class. The integer structure
 type: docs
-weight: 3410
+weight: 3460
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/
 ---
 {{< psd/tize >}}

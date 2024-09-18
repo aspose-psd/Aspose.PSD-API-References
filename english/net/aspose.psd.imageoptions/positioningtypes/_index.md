@@ -3,7 +3,7 @@ title: Enum PositioningTypes
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.PositioningTypes enum. Positioning and size types for graphics scene
 type: docs
-weight: 5200
+weight: 5250
 url: /net/aspose.psd.imageoptions/positioningtypes/
 ---
 {{< psd/tize >}}

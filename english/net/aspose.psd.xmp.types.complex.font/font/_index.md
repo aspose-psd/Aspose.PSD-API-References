@@ -3,7 +3,7 @@ title: Class Font
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Font.Font class. Represents XMP Font
 type: docs
-weight: 6390
+weight: 6440
 url: /net/aspose.psd.xmp.types.complex.font/font/
 ---
 {{< psd/tize >}}

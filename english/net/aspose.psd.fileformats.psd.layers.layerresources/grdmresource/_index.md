@@ -3,7 +3,7 @@ title: Class GrdmResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GrdmResource class. Class GrdmResource. Contains information about GradientMap layer
 type: docs
-weight: 2650
+weight: 2690
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 ---
 {{< psd/tize >}}

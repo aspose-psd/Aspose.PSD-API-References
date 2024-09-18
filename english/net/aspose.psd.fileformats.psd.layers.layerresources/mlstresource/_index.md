@@ -3,7 +3,7 @@ title: Class MlstResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource class. The mlst resource. This class among other things contains information about the position of the layer on the timeline
 type: docs
-weight: 3020
+weight: 3070
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/
 ---
 {{< psd/tize >}}

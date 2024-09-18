@@ -13,8 +13,12 @@ The namespace contains PSD file format entities contained in layers.
 
 | Class | Description |
 | --- | --- |
+| [AbddResource](./abddresource/) | The Artboard info data. |
 | [AdjustmentLayerResource](./adjustmentlayerresource/) | Base Class for adjustments layer resources |
 | [AnimatedDataSectionStructure](./animateddatasectionstructure/) | The section with animated data. |
+| [ArtBResource](./artbresource/) | The Artboard info data for [`Resources`](../aspose.psd.fileformats.psd.layers/layer/resources/). |
+| [ArtDResource](./artdresource/) | The Artboard info data for [`GlobalLayerResources`](../aspose.psd.fileformats.psd/psdimage/globallayerresources/). |
+| [BaseArtboardInfoResource](./baseartboardinforesource/) | The Artboard info data resource. |
 | [BlncResource](./blncresource/) | BlncResource class is a resource of Color Adjustment Layer. |
 | [BlwhResource](./blwhresource/) | BlwhResource class is a resource of Black and White Adjustment Layer. |
 | [BooleanResource](./booleanresource/) | Class BooleanResource. It's pseudo resource. Photoshop haven't it |
@@ -60,6 +64,7 @@ The namespace contains PSD file format entities contained in layers.
 | [LspfResource](./lspfresource/) | Layer protected settings |
 | [LuniResource](./luniresource/) | Layer name resource |
 | [LyidResource](./lyidresource/) | Class LyidResource. |
+| [LyvrResource](./lyvrresource/) | The resource to represents photoshop version of Layer. |
 | [MixrResource](./mixrresource/) | Class MixrResource. Resource of Channel Mixer Adjustment Layer |
 | [MlstResource](./mlstresource/) | The mlst resource. This class, among other things, contains information about the position of the layer on the timeline. |
 | [NvrtResource](./nvrtresource/) | Class NvrtResource. Resource of Invert Adjustment Layer. |

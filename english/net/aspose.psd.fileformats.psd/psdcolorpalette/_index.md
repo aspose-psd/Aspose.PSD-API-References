@@ -3,7 +3,7 @@ title: Class PsdColorPalette
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.PsdColorPalette class. The PSD color palette
 type: docs
-weight: 3870
+weight: 3920
 url: /net/aspose.psd.fileformats.psd/psdcolorpalette/
 ---
 {{< psd/tize >}}
