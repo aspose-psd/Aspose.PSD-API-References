@@ -3,7 +3,7 @@ title: Class ColorantCmyk
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantCmyk class. Represents CMYK Colorant
 type: docs
-weight: 6340
+weight: 6390
 url: /net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/
 ---
 {{< psd/tize >}}

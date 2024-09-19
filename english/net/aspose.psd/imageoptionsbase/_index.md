@@ -3,7 +3,7 @@ title: Class ImageOptionsBase
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptionsBase class. The image base options
 type: docs
-weight: 5300
+weight: 5350
 url: /net/aspose.psd/imageoptionsbase/
 ---
 {{< psd/tize >}}

@@ -1,15 +1,15 @@
 ---
 title: Class LayerResourcesRegistry
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry class. Define the the layer resources registry for PSD files loading
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry class. Define the layer resources registry for PSD files loading
 type: docs
-weight: 3630
+weight: 3680
 url: /net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
 {{< psd/tize >}}
 ## LayerResourcesRegistry class
 
-Define the the layer resources registry for PSD files loading.
+Define the layer resources registry for PSD files loading.
 
 ```csharp
 public static class LayerResourcesRegistry

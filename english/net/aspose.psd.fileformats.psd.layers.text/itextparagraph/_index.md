@@ -3,7 +3,7 @@ title: Interface ITextParagraph
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph interface. The interface to work with paragraph
 type: docs
-weight: 3780
+weight: 3830
 url: /net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
 {{< psd/tize >}}

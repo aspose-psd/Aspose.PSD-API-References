@@ -3,7 +3,7 @@ title: Class NonGenericList
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.NonGenericList class. Non generic list of objects
 type: docs
-weight: 5460
+weight: 5510
 url: /net/aspose.psd/nongenericlist/
 ---
 {{< psd/tize >}}

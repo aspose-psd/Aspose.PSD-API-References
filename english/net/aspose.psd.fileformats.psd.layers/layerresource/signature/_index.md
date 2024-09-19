@@ -1,7 +1,7 @@
 ---
 title: LayerResource.Signature
 second_title: Aspose.PSD for .NET API Reference
-description: LayerResource property. Gets the layer resource signature
+description: LayerResource property. Gets the signature
 type: docs
 weight: 40
 url: /net/aspose.psd.fileformats.psd.layers/layerresource/signature/
@@ -9,10 +9,10 @@ url: /net/aspose.psd.fileformats.psd.layers/layerresource/signature/
 {{< psd/tize >}}
 ## LayerResource.Signature property
 
-Gets the layer resource signature.
+Gets the signature.
 
 ```csharp
-public abstract int Signature { get; }
+public virtual int Signature { get; }
 ```
 
 ### See Also

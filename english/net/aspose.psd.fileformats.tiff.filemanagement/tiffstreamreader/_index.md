@@ -3,7 +3,7 @@ title: Class TiffStreamReader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.FileManagement.TiffStreamReader class. The tiff stream for handling little endian tiff file format
 type: docs
-weight: 4490
+weight: 4540
 url: /net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/
 ---
 {{< psd/tize >}}

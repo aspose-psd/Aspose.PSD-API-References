@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/layerresource/key/
 Gets the layer resource key.
 
 ```csharp
-public abstract int Key { get; }
+public virtual int Key { get; }
 ```
 
 ### See Also

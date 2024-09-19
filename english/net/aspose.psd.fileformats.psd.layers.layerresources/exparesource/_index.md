@@ -3,7 +3,7 @@ title: Class ExpaResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ExpaResource class. Class ExpaResource. Resource of Exposure Adjustment Layer
 type: docs
-weight: 2590
+weight: 2630
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 ---
 {{< psd/tize >}}

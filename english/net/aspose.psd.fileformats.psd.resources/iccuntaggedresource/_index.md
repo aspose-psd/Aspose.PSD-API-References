@@ -3,7 +3,7 @@ title: Class IccUntaggedResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.IccUntaggedResource class. Icc untagged resource
 type: docs
-weight: 4070
+weight: 4120
 url: /net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/
 ---
 {{< psd/tize >}}
