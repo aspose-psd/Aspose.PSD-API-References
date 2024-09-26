@@ -3,7 +3,7 @@ title: SoCoResource
 second_title: Aspose.PSD for Java API Reference
 description: Class SoCoResource.
 type: docs
-weight: 69
+weight: 70
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
 

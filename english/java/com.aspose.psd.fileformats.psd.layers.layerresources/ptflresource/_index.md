@@ -3,7 +3,7 @@ title: PtFlResource
 second_title: Aspose.PSD for Java API Reference
 description: Class PtFlResource.
 type: docs
-weight: 66
+weight: 67
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 
@@ -59,6 +59,7 @@ Class PtFlResource. Contains Pattern Fill Layer Data.
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
+| [setClassNameAndId_internalized(String className, ClassID classID)](#setClassNameAndId-internalized-java.lang.String-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Sets the class name and identifier. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setLinkedWithLayer(boolean value)](#setLinkedWithLayer-boolean-) | Gets or sets a value indicating whether this instance is linked with layer. |
 | [setOffset(Point value)](#setOffset-com.aspose.psd.Point-) | Gets or sets the offset. |
@@ -445,6 +446,20 @@ Value: The angle.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double |  |
+
+### setClassNameAndId_internalized(String className, ClassID classID) {#setClassNameAndId-internalized-java.lang.String-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
+```
+public final void setClassNameAndId_internalized(String className, ClassID classID)
+```
+
+
+Sets the class name and identifier.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| className | java.lang.String | Name of the class. |
+| classID | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) | The class identifier. |
 
 ### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
 ```

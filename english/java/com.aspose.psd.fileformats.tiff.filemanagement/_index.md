@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.tiff.filemanagement
 second_title: Aspose.PSD for Java API Reference
 description: The package contains Tiff file format stream handling classes.
 type: docs
-weight: 59
+weight: 60
 url: /java/com.aspose.psd.fileformats.tiff.filemanagement/
 ---
 

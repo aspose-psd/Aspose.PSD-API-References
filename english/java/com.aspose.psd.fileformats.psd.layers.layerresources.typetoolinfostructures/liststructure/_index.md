@@ -33,13 +33,20 @@ The list structure.
 | [arrangeToDictionary_internalized(OSTypeStructure[] structures, System.Collections.Generic.Dictionary<String,OSTypeStructure> dictionary, String prefix)](#arrangeToDictionary-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.String-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Arranges structures to one dictionary by key name. |
 | [create_internalized(ClassID keyName, System.Collections.Generic.IGenericEnumerable<OSTypeStructure> items)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-com.aspose.ms.System.Collections.Generic.IGenericEnumerable-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBoolValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getBoolValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the boolean value from structures list by key name. |
 | [getClass()](#getClass--) |  |
+| [getColorValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getColorValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the color value from structures list by key name. |
 | [getHeaderLength()](#getHeaderLength--) | Gets the header length. |
+| [getInt32Value_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getInt32Value-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the int32 value from structures list by key name. |
 | [getItemList()](#getItemList--) |  |
 | [getItemsCount()](#getItemsCount--) | Gets the items count. |
 | [getKey()](#getKey--) | Gets the structure key. |
 | [getKeyName()](#getKeyName--) | Gets or sets the key name. |
 | [getLength()](#getLength--) | Gets the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
+| [getListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getListOfStructuresValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the list of structures value from other structures list by key name. |
+| [getPointDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getPointDoubleValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the PointF value from structures list by key name. |
+| [getRectDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getRectDoubleValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the RectangleF value from structures list by key name. |
+| [getStringValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getStringValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the string value from structures list by key name. |
 | [getTypes()](#getTypes--) | Gets or sets the types. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
@@ -47,7 +54,14 @@ The list structure.
 | [removeByKeyName_internalized(String keyName, System.Collections.Generic.List<OSTypeStructure> items)](#removeByKeyName-internalized-java.lang.String-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) | Find and removes structure from the input items list. |
 | [save(StreamContainer streamContainer)](#save-com.aspose.psd.StreamContainer-) | Saves the structure to the specified stream container. |
 | [saveWithoutKeyName(StreamContainer streamContainer)](#saveWithoutKeyName-com.aspose.psd.StreamContainer-) | Saves the structure to the specified stream container. |
+| [setBoolValue_internalized(boolean value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setBoolValue-internalized-boolean-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the boolean value to structures list by key name. |
+| [setColorValue_internalized(Color value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setColorValue-internalized-com.aspose.psd.Color-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the color value to structures list by key name. |
+| [setInt32Value_internalized(int value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setInt32Value-internalized-int-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the int32 value to structures list by key name. |
 | [setKeyName(ClassID value)](#setKeyName-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets the key name. |
+| [setListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setListOfStructuresValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the list of structures value to other structures list by key name. |
+| [setPointDoubleValue_internalized(PointF value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setPointDoubleValue-internalized-com.aspose.psd.PointF-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the PointF value to structures list by key name. |
+| [setRectDoubleValue_internalized(RectangleF value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setRectDoubleValue-internalized-com.aspose.psd.RectangleF-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the RectangleF value to structures list by key name. |
+| [setStringValue_internalized(String value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setStringValue-internalized-java.lang.String-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the string value to structures list by key name. |
 | [setToList_internalized(OSTypeStructure structure, System.Collections.Generic.List<OSTypeStructure> items)](#setToList-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) | Add or update the structure to input items list. |
 | [setTypes(OSTypeStructure[] value)](#setTypes-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---) | Gets or sets the types. |
 | [toString()](#toString--) |  |
@@ -159,6 +173,22 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getBoolValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#getBoolValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static boolean getBoolValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Gets the boolean value from structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list to search in. |
+| keyName | java.lang.String | The key name to search by. |
+
+**Returns:**
+boolean - The boolean value from the structures list if it exists, otherwise the default value.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -169,6 +199,22 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getColorValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#getColorValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static Color getColorValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Gets the color value from structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list to search in. |
+| keyName | java.lang.String | The key name to search by. |
+
+**Returns:**
+[Color](../../com.aspose.psd/color) - The color value from the structures list if it exists, otherwise the default value.
 ### getHeaderLength() {#getHeaderLength--}
 ```
 public int getHeaderLength()
@@ -179,6 +225,22 @@ Gets the header length.
 
 **Returns:**
 int - The header length
+### getInt32Value_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#getInt32Value-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static int getInt32Value_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Gets the int32 value from structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list to search in. |
+| keyName | java.lang.String | The key name to search by. |
+
+**Returns:**
+int - The int32 value from the structures list if it exists, otherwise the default value.
 ### getItemList() {#getItemList--}
 ```
 public final System.Collections.Generic.List<OSTypeStructure> getItemList()
@@ -231,6 +293,70 @@ Gets the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerreso
 
 **Returns:**
 int
+### getListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#getListOfStructuresValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static System.Collections.Generic.List<OSTypeStructure> getListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Gets the list of structures value from other structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list to search in. |
+| keyName | java.lang.String | The key name to search by. |
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> - The ist of structures value from the other structures list if it exists, otherwise the default value.
+### getPointDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#getPointDoubleValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static PointF getPointDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Gets the PointF value from structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list to search in. |
+| keyName | java.lang.String | The key name to search by. |
+
+**Returns:**
+[PointF](../../com.aspose.psd/pointf) - The PointF value from the structures list if it exists, otherwise the default value.
+### getRectDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#getRectDoubleValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static RectangleF getRectDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Gets the RectangleF value from structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list to search in. |
+| keyName | java.lang.String | The key name to search by. |
+
+**Returns:**
+[RectangleF](../../com.aspose.psd/rectanglef) - The RectangleF value from the structures list if it exists, otherwise the default value.
+### getStringValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#getStringValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static String getStringValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Gets the string value from structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list to search in. |
+| keyName | java.lang.String | The key name to search by. |
+
+**Returns:**
+java.lang.String - The string value from the structures list if it exists, otherwise the default value.
 ### getTypes() {#getTypes--}
 ```
 public final OSTypeStructure[] getTypes()
@@ -309,6 +435,51 @@ Saves the structure to the specified stream container.
 | --- | --- | --- |
 | streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream container. |
 
+### setBoolValue_internalized(boolean value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#setBoolValue-internalized-boolean-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static void setBoolValue_internalized(boolean value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Sets the boolean value to structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean | The value to be set. |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list. |
+| keyName | java.lang.String | The key name. |
+
+### setColorValue_internalized(Color value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#setColorValue-internalized-com.aspose.psd.Color-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static void setColorValue_internalized(Color value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Sets the color value to structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.psd/color) | The value to be set. |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list. |
+| keyName | java.lang.String | The key name. |
+
+### setInt32Value_internalized(int value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#setInt32Value-internalized-int-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static void setInt32Value_internalized(int value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Sets the int32 value to structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | The value to be set. |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list. |
+| keyName | java.lang.String | The key name. |
+
 ### setKeyName(ClassID value) {#setKeyName-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
 ```
 public final void setKeyName(ClassID value)
@@ -323,6 +494,66 @@ Value: The key name.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) |  |
+
+### setListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#setListOfStructuresValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static void setListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Sets the list of structures value to other structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The value to be set. |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list. |
+| keyName | java.lang.String | The key name. |
+
+### setPointDoubleValue_internalized(PointF value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#setPointDoubleValue-internalized-com.aspose.psd.PointF-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static void setPointDoubleValue_internalized(PointF value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Sets the PointF value to structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PointF](../../com.aspose.psd/pointf) | The value to be set. |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list. |
+| keyName | java.lang.String | The key name. |
+
+### setRectDoubleValue_internalized(RectangleF value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#setRectDoubleValue-internalized-com.aspose.psd.RectangleF-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static void setRectDoubleValue_internalized(RectangleF value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Sets the RectangleF value to structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RectangleF](../../com.aspose.psd/rectanglef) | The value to be set. |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list. |
+| keyName | java.lang.String | The key name. |
+
+### setStringValue_internalized(String value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#setStringValue-internalized-java.lang.String-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
+```
+public static void setStringValue_internalized(String value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
+```
+
+
+Sets the string value to structures list by key name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String | The value to be set. |
+| itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list. |
+| keyName | java.lang.String | The key name. |
 
 ### setToList_internalized(OSTypeStructure structure, System.Collections.Generic.List<OSTypeStructure> items) {#setToList-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--}
 ```

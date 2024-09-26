@@ -18,7 +18,7 @@ The Vector Origination Data resource.
 
 | Constructor | Description |
 | --- | --- |
-| [VogkResource()](#VogkResource--) |  |
+| [VogkResource()](#VogkResource--) | Initializes a new instance of the [VogkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths/vogkresource) class. |
 ## Fields
 
 | Field | Description |
@@ -68,6 +68,8 @@ The Vector Origination Data resource.
 public VogkResource()
 ```
 
+
+Initializes a new instance of the [VogkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.vectorpaths/vogkresource) class.
 
 ### DescriptorListKey_internalized {#DescriptorListKey-internalized}
 ```
