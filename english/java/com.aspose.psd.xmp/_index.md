@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp
 second_title: Aspose.PSD for Java API Reference
 description: The package contains XMP related helper classes and methods.
 type: docs
-weight: 76
+weight: 77
 url: /java/com.aspose.psd.xmp/
 ---
 

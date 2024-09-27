@@ -112,7 +112,6 @@ Fill layer. Color Fill, Gradient Fill or Pattern Fill Layer which differs by  Fi
 | [getFileFormat(System.IO.Stream stream)](#getFileFormat-com.aspose.ms.System.IO.Stream-) | Gets the file format. |
 | [getFileFormat(InputStream stream)](#getFileFormat-java.io.InputStream-) | Gets the file format. |
 | [getFileFormat(String filePath)](#getFileFormat-java.lang.String-) | Gets the file format. |
-| [getFillImageProcessor_internalized(IPixelsSaver imageToProcess, Rectangle bounds)](#getFillImageProcessor-internalized-com.aspose.internal.IPixelsSaver-com.aspose.psd.Rectangle-) | Gets the rendering processor for [FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer). |
 | [getFillOpacity()](#getFillOpacity--) | Gets or sets the fill opacity. |
 | [getFillSettings()](#getFillSettings--) | Gets the fill settings. |
 | [getFillType()](#getFillType--) | Gets the type of the fill. |
@@ -1516,22 +1515,6 @@ The file format determined does not mean that the specified image may be loaded.
 
 **Returns:**
 long - The determined file format.
-### getFillImageProcessor_internalized(IPixelsSaver imageToProcess, Rectangle bounds) {#getFillImageProcessor-internalized-com.aspose.internal.IPixelsSaver-com.aspose.psd.Rectangle-}
-```
-public final IPartialProcessor getFillImageProcessor_internalized(IPixelsSaver imageToProcess, Rectangle bounds)
-```
-
-
-Gets the rendering processor for [FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageToProcess | com.aspose.internal.IPixelsSaver | The image to rendering to. |
-| bounds | [Rectangle](../../com.aspose.psd/rectangle) | The bounds to process. |
-
-**Returns:**
-com.aspose.internal.IPartialProcessor - Return the rendering processor for [FillLayer](../../com.aspose.psd.fileformats.psd.layers/filllayer).
 ### getFillOpacity() {#getFillOpacity--}
 ```
 public final int getFillOpacity()

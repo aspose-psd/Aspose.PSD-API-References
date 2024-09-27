@@ -3,7 +3,7 @@ title: ShmdResource
 second_title: Aspose.PSD for Java API Reference
 description: Class ShmdResource.
 type: docs
-weight: 68
+weight: 69
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 ---
 

@@ -3,7 +3,7 @@ title: com.aspose.psd.sources
 second_title: Aspose.PSD for Java API Reference
 description: Package contains different stream sources which are suitable for input or output data flow.
 type: docs
-weight: 75
+weight: 76
 url: /java/com.aspose.psd.sources/
 ---
 

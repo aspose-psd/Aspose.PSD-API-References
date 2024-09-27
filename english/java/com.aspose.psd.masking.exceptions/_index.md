@@ -3,7 +3,7 @@ title: com.aspose.psd.masking.exceptions
 second_title: Aspose.PSD for Java API Reference
 description: The namespace handles ImageMasking.Exceptions processing.
 type: docs
-weight: 67
+weight: 68
 url: /java/com.aspose.psd.masking.exceptions/
 ---
 

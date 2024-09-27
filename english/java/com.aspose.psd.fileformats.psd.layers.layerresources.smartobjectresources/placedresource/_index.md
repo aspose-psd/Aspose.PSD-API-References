@@ -542,7 +542,7 @@ Value: The warp items.
 com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[]
 ### getKey() {#getKey--}
 ```
-public abstract int getKey()
+public int getKey()
 ```
 
 

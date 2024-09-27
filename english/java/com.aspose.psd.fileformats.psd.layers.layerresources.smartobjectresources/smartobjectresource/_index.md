@@ -1042,7 +1042,7 @@ Value: The descriptor items of placed layer information.
 com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[]
 ### getKey() {#getKey--}
 ```
-public abstract int getKey()
+public int getKey()
 ```
 
 

@@ -3,7 +3,7 @@ title: com.aspose.psd.imageoptions
 second_title: Aspose.PSD for Java API Reference
 description: The package contains classes suitable for export save or creation of different file formats.
 type: docs
-weight: 65
+weight: 66
 url: /java/com.aspose.psd.imageoptions/
 ---
 

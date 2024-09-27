@@ -152,7 +152,7 @@ Value: The header.
 com.aspose.internal.fileformats.psd.sections.PsdHeader
 ### getKey() {#getKey--}
 ```
-public abstract int getKey()
+public int getKey()
 ```
 
 

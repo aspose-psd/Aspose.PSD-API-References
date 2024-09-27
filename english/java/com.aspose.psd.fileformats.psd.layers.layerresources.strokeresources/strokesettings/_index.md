@@ -26,6 +26,7 @@ Stroke settings of Shapes.
 
 | Method | Description |
 | --- | --- |
+| [createInstance_internalized()](#createInstance-internalized--) | Create instance of StrokeSettings with properties assigned by default. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [getEnabled()](#getEnabled--) | Gets or sets Stroke is enabled. |
@@ -55,6 +56,16 @@ public StrokeSettings()
 ```
 
 
+### createInstance_internalized() {#createInstance-internalized--}
+```
+public static StrokeSettings createInstance_internalized()
+```
+
+
+Create instance of StrokeSettings with properties assigned by default.
+
+**Returns:**
+[StrokeSettings](../../com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources/strokesettings) - StrokeSettings instance.
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
