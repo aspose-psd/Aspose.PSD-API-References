@@ -141,7 +141,7 @@ Value: The header.
 com.aspose.internal.fileformats.psd.sections.PsdHeader
 ### getKey() {#getKey--}
 ```
-public abstract int getKey()
+public int getKey()
 ```
 
 
@@ -186,7 +186,7 @@ Gets the minimal psd version required for layer resource. 0 indicates no restric
 int
 ### getSignature() {#getSignature--}
 ```
-public abstract int getSignature()
+public int getSignature()
 ```
 
 

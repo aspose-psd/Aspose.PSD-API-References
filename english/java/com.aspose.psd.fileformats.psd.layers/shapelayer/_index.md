@@ -2419,7 +2419,7 @@ public boolean isLayerValid_internalized()
 Detects if layer is valid for saving to a file.
 
 **Returns:**
-boolean - 
+boolean - Boolean value indicating that layer is valid.
 ### isRawDataAvailable() {#isRawDataAvailable--}
 ```
 public boolean isRawDataAvailable()

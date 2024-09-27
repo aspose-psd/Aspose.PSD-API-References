@@ -3,7 +3,7 @@ title: com.aspose.psd.fileformats.psd.layers.smartfilters.filters
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 47
+weight: 48
 url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/
 ---
 

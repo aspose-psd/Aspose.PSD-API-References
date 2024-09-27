@@ -33,7 +33,7 @@ Resource class VstkResource. Contains information about Vector Stroke Data. Reso
 
 | Method | Description |
 | --- | --- |
-| [assignItems_internalized(System.Collections.Generic.List<OSTypeStructure> items)](#assignItems-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) | Assign items structures from Vstk resource. |
+| [assignItems_internalized(OSTypeStructure[] items)](#assignItems-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---) | Assign items structures from Vstk resource. |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
@@ -152,9 +152,9 @@ public Object ventureLicense_internalized
 
 The venture license.
 
-### assignItems_internalized(System.Collections.Generic.List<OSTypeStructure> items) {#assignItems-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--}
+### assignItems_internalized(OSTypeStructure[] items) {#assignItems-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---}
 ```
-public final void assignItems_internalized(System.Collections.Generic.List<OSTypeStructure> items)
+public final void assignItems_internalized(OSTypeStructure[] items)
 ```
 
 
@@ -163,7 +163,7 @@ Assign items structures from Vstk resource.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| items | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | List of OSTypeStructure instances. |
+| items | [OSTypeStructure\[\]](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) | List of OSTypeStructure instances. |
 
 ### checkAndSetIfResourceIsPsbSpecific_internalized(int key) {#checkAndSetIfResourceIsPsbSpecific-internalized-int-}
 ```

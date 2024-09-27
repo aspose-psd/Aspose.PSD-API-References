@@ -3,7 +3,7 @@ title: OSTypeStructuresRegistry
 second_title: Aspose.PSD for Java API Reference
 description: Represents the  resources registry.
 type: docs
-weight: 59
+weight: 60
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/
 ---
 
@@ -31,6 +31,8 @@ Represents the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.lay
 | [getRegisteredDescriptors()](#getRegisteredDescriptors--) | Gets the registered descriptors. |
 | [hashCode()](#hashCode--) |  |
 | [isOSTypeStructreExist_internalized(int structureKey)](#isOSTypeStructreExist-internalized-int-) | Detects if any OSTypeStructure's descendant present with provided structureKey. |
+| [loadDescriptorData_internalized(StreamContainer streamContainer)](#loadDescriptorData-internalized-com.aspose.psd.StreamContainer-) | Loads the descriptor data structures from stream container. |
+| [loadDescriptorData_internalized(StreamContainer streamContainer, String[] className, ClassID[] classId)](#loadDescriptorData-internalized-com.aspose.psd.StreamContainer-java.lang.String---com.aspose.psd.fileformats.psd.layers.layerresources.ClassID---) | Loads the descriptor data structures with class name and class id from stream container. |
 | [loadResourceByFirstSupportedDescriptor(InputStream stream)](#loadResourceByFirstSupportedDescriptor-java.io.InputStream-) | Loads [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) using first found opener suitable for the specified  stream . |
 | [loadResourceByFirstSupportedDescriptor_internalized(System.IO.Stream stream)](#loadResourceByFirstSupportedDescriptor-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [notify()](#notify--) |  |
@@ -162,6 +164,38 @@ Detects if any OSTypeStructure's descendant present with provided structureKey.
 
 **Returns:**
 boolean - 
+### loadDescriptorData_internalized(StreamContainer streamContainer) {#loadDescriptorData-internalized-com.aspose.psd.StreamContainer-}
+```
+public static OSTypeStructure[] loadDescriptorData_internalized(StreamContainer streamContainer)
+```
+
+
+Loads the descriptor data structures from stream container.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream to read of. |
+
+**Returns:**
+com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[] - The descriptor data structures.
+### loadDescriptorData_internalized(StreamContainer streamContainer, String[] className, ClassID[] classId) {#loadDescriptorData-internalized-com.aspose.psd.StreamContainer-java.lang.String---com.aspose.psd.fileformats.psd.layers.layerresources.ClassID---}
+```
+public static OSTypeStructure[] loadDescriptorData_internalized(StreamContainer streamContainer, String[] className, ClassID[] classId)
+```
+
+
+Loads the descriptor data structures with class name and class id from stream container.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream to read of. |
+| className | java.lang.String[] | The read class name. |
+| classId | [ClassID\[\]](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) | The read class id. |
+
+**Returns:**
+com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[] - The descriptor data structures with class name and class id.
 ### loadResourceByFirstSupportedDescriptor(InputStream stream) {#loadResourceByFirstSupportedDescriptor-java.io.InputStream-}
 ```
 public static OSTypeStructure loadResourceByFirstSupportedDescriptor(InputStream stream)

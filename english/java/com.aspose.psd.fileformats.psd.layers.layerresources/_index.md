@@ -57,6 +57,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 | [LspfResource](../com.aspose.psd.fileformats.psd.layers.layerresources/lspfresource) | Layer protected settings |
 | [LuniResource](../com.aspose.psd.fileformats.psd.layers.layerresources/luniresource) | Layer name resource |
 | [LyidResource](../com.aspose.psd.fileformats.psd.layers.layerresources/lyidresource) | Class LyidResource. |
+| [LyvrResource](../com.aspose.psd.fileformats.psd.layers.layerresources/lyvrresource) | The resource to represents photoshop version of Layer. |
 | [MixrResource](../com.aspose.psd.fileformats.psd.layers.layerresources/mixrresource) | Class MixrResource. |
 | [MlstResource](../com.aspose.psd.fileformats.psd.layers.layerresources/mlstresource) | The mlst resource. |
 | [NvrtResource](../com.aspose.psd.fileformats.psd.layers.layerresources/nvrtresource) | Class NvrtResource. |

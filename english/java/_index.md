@@ -41,6 +41,7 @@ is_root: true
 | [com.aspose.psd.fileformats.psd.layers.layereffects](./com.aspose.psd.fileformats.psd.layers.layereffects) |  |
 | [com.aspose.psd.fileformats.psd.layers.layereffects.outerglow](./com.aspose.psd.fileformats.psd.layers.layereffects.outerglow) |  |
 | [com.aspose.psd.fileformats.psd.layers.layerresources](./com.aspose.psd.fileformats.psd.layers.layerresources) |  |
+| [com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources](./com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources) |  |
 | [com.aspose.psd.fileformats.psd.layers.layerresources.linkresources](./com.aspose.psd.fileformats.psd.layers.layerresources.linkresources) |  |
 | [com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources](./com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources) |  |
 | [com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources](./com.aspose.psd.fileformats.psd.layers.layerresources.strokeresources) |  |

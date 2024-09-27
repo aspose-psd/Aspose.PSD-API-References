@@ -3,7 +3,7 @@ title: MlstResource
 second_title: Aspose.PSD for Java API Reference
 description: The mlst resource.
 type: docs
-weight: 56
+weight: 57
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/mlstresource/
 ---
 
@@ -36,6 +36,7 @@ The mlst resource. This class, among other things, contains information about th
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
+| [getClassName_internalized()](#getClassName-internalized--) | Gets or sets the class name. |
 | [getDescriptorVersion()](#getDescriptorVersion--) | Gets or sets the descriptor version. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getItems()](#getItems--) | Gets or sets the structures. |
@@ -53,11 +54,10 @@ The mlst resource. This class, among other things, contains information about th
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
 | [setClassID_internalized(ClassID value)](#setClassID-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets the ClassID. |
+| [setClassName_internalized(String value)](#setClassName-internalized-java.lang.String-) | Gets or sets the class name. |
 | [setDescriptorVersion_internalized(int value)](#setDescriptorVersion-internalized-int-) | Gets or sets the descriptor version. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setItems_internalized(OSTypeStructure[] value)](#setItems-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---) | Gets or sets the structures. |
-| [setUnknownBytes2_internalized(byte[] value)](#setUnknownBytes2-internalized-byte---) | Gets or sets the unknown bytes. |
-| [setUnknownValue1_internalized(int value)](#setUnknownValue1-internalized-int-) | Gets or sets the unknown value. |
 | [toString()](#toString--) | Returns a String that represents this instance. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -156,6 +156,16 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getClassName_internalized() {#getClassName-internalized--}
+```
+public final String getClassName_internalized()
+```
+
+
+Gets or sets the class name.
+
+**Returns:**
+java.lang.String
 ### getDescriptorVersion() {#getDescriptorVersion--}
 ```
 public final int getDescriptorVersion()
@@ -352,6 +362,19 @@ Gets or sets the ClassID.
 | --- | --- | --- |
 | value | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) |  |
 
+### setClassName_internalized(String value) {#setClassName-internalized-java.lang.String-}
+```
+public final void setClassName_internalized(String value)
+```
+
+
+Gets or sets the class name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
 ### setDescriptorVersion_internalized(int value) {#setDescriptorVersion-internalized-int-}
 ```
 public final void setDescriptorVersion_internalized(int value)
@@ -392,32 +415,6 @@ Gets or sets the structures.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [OSTypeStructure\[\]](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) |  |
-
-### setUnknownBytes2_internalized(byte[] value) {#setUnknownBytes2-internalized-byte---}
-```
-public final void setUnknownBytes2_internalized(byte[] value)
-```
-
-
-Gets or sets the unknown bytes.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | byte[] |  |
-
-### setUnknownValue1_internalized(int value) {#setUnknownValue1-internalized-int-}
-```
-public final void setUnknownValue1_internalized(int value)
-```
-
-
-Gets or sets the unknown value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int |  |
 
 ### toString() {#toString--}
 ```
