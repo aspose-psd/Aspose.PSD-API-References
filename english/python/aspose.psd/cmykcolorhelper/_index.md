@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/cmykcolorhelper/
 
 **Full Name:** aspose.psd.CmykColorHelper
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Methods**
 | **Name** | **Description** |

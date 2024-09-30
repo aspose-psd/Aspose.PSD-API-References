@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.fileformats.tiff
 type: docs
-weight: 440
+weight: 450
 url: /python-net/aspose.psd.fileformats.tiff/
 ---
 

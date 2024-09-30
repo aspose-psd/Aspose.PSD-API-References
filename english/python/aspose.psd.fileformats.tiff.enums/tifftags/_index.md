@@ -11,7 +11,7 @@ The tiff tag enum.
 
 **Full Name:** aspose.psd.fileformats.tiff.enums.TiffTags
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

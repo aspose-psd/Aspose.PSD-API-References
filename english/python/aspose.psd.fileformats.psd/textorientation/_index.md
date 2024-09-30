@@ -1,7 +1,7 @@
 ---
 title: TextOrientation Enumeration
 type: docs
-weight: 2660
+weight: 2670
 url: /python-net/aspose.psd.fileformats.psd/textorientation/
 ---
 
@@ -11,7 +11,7 @@ Enumeration for text orientation mode.
 
 **Full Name:** aspose.psd.fileformats.psd.TextOrientation
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

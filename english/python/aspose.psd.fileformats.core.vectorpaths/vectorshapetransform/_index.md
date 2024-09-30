@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/
 
 **Full Name:** aspose.psd.fileformats.core.vectorpaths.VectorShapeTransform
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Constructors**
 | **Name** | **Description** |

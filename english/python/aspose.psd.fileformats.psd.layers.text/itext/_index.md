@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.text/itext/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.text.IText
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.imagefilters.filteroptions
 type: docs
-weight: 500
+weight: 510
 url: /python-net/aspose.psd.imagefilters.filteroptions/
 ---
 

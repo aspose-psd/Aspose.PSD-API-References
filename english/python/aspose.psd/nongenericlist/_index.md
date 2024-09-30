@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/nongenericlist/
 
 **Full Name:** aspose.psd.NonGenericList
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Constructors**
 | **Name** | **Description** |

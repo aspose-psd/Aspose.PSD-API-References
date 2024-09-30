@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/irasterimageargb32pixelloader/
 
 **Inheritance:** IRasterImageRawDataLoader
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

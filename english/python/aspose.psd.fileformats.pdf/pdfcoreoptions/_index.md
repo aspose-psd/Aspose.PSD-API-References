@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.pdf/pdfcoreoptions/
 
 **Full Name:** aspose.psd.fileformats.pdf.PdfCoreOptions
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Constructors**
 | **Name** | **Description** |

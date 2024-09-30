@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.fileformats.psd.resources.resolutionenums
 type: docs
-weight: 430
+weight: 440
 url: /python-net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: GraphicsUnit Enumeration
 type: docs
-weight: 5660
+weight: 5670
 url: /python-net/aspose.psd/graphicsunit/
 ---
 
@@ -11,7 +11,7 @@ Specifies the unit of measure for the given data.
 
 **Full Name:** aspose.psd.GraphicsUnit
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

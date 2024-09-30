@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscrete
 
 **Inheritance:** CurvesManager
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

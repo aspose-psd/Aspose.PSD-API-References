@@ -1,7 +1,7 @@
 ---
 title: ColorCompareMethod Enumeration
 type: docs
-weight: 5190
+weight: 5200
 url: /python-net/aspose.psd/colorcomparemethod/
 ---
 
@@ -11,7 +11,7 @@ Color comparison method to adjust to nearest neighbor
 
 **Full Name:** aspose.psd.ColorCompareMethod
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

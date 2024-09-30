@@ -1,7 +1,7 @@
 ---
 title: ResizeType Enumeration
 type: docs
-weight: 6100
+weight: 6110
 url: /python-net/aspose.psd/resizetype/
 ---
 
@@ -11,7 +11,7 @@ Specifies the resize type.
 
 **Full Name:** aspose.psd.ResizeType
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

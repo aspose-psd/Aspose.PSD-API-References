@@ -11,7 +11,7 @@ The Fill Type
 
 **Full Name:** aspose.psd.fileformats.psd.layers.fillsettings.FillType
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

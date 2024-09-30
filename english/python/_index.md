@@ -45,6 +45,7 @@ url: /python-net/
 | [aspose.psd.fileformats.psd.layers.smartfilters.rendering](/psd/python-net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/) |  |
 | [aspose.psd.fileformats.psd.layers.smartobjects](/psd/python-net/aspose.psd.fileformats.psd.layers.smartobjects/) |  |
 | [aspose.psd.fileformats.psd.layers.text](/psd/python-net/aspose.psd.fileformats.psd.layers.text/) |  |
+| [aspose.psd.fileformats.psd.layers.warp](/psd/python-net/aspose.psd.fileformats.psd.layers.warp/) |  |
 | [aspose.psd.fileformats.psd.resources](/psd/python-net/aspose.psd.fileformats.psd.resources/) |  |
 | [aspose.psd.fileformats.psd.resources.enums](/psd/python-net/aspose.psd.fileformats.psd.resources.enums/) |  |
 | [aspose.psd.fileformats.psd.resources.resolutionenums](/psd/python-net/aspose.psd.fileformats.psd.resources.resolutionenums/) |  |

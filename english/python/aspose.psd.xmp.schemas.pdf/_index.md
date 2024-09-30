@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.xmp.schemas.pdf
 type: docs
-weight: 640
+weight: 650
 url: /python-net/aspose.psd.xmp.schemas.pdf/
 ---
 

@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.smartfilters.SmartFilter
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

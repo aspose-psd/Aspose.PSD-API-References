@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.interfaces/iobjectwithsizef/
 
 **Full Name:** aspose.psd.interfaces.IObjectWithSizeF
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

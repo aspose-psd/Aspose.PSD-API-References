@@ -11,7 +11,7 @@ Data order within a byte.<br /><br/>              Possible values for FILLORDER 
 
 **Full Name:** aspose.psd.fileformats.tiff.enums.TiffFillOrders
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

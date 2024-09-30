@@ -11,7 +11,7 @@ exif unit enum.
 
 **Full Name:** aspose.psd.exif.enums.ExifUnit
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

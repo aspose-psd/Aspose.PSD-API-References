@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.xmp.types.complex
 type: docs
-weight: 720
+weight: 730
 url: /python-net/aspose.psd.xmp.types.complex/
 ---
 

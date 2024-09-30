@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.xmp.types.complex.resourceevent
 type: docs
-weight: 760
+weight: 770
 url: /python-net/aspose.psd.xmp.types.complex.resourceevent/
 ---
 

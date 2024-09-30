@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.fileformats.psd.resources
 type: docs
-weight: 410
+weight: 420
 url: /python-net/aspose.psd.fileformats.psd.resources/
 ---
 
