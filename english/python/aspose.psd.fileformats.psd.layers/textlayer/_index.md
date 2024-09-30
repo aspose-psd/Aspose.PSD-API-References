@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/textlayer/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, Layer
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -87,6 +87,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/textlayer/
 | use_palette | bool | r |    |
 | use_raw_data | bool | r/w |    |
 | vertical_resolution | double | r/w |    |
+| warp_settings | [WarpSettings](/psd/python-net/aspose.psd.fileformats.psd.layers.warp/warpsettings/) | r/w | It gets or sets Warp parameters that was set or get from resource (default) |
 | width | int | r | Gets the object width. |
 | xmp_data | [XmpPacketWrapper](/psd/python-net/aspose.psd.xmp/xmppacketwrapper/) | r/w |    |
 ## **Methods**

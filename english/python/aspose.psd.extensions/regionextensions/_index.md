@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.extensions/regionextensions/
 
 **Full Name:** aspose.psd.extensions.RegionExtensions
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Methods**
 | **Name** | **Description** |

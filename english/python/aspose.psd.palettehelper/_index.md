@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.palettehelper
 type: docs
-weight: 560
+weight: 570
 url: /python-net/aspose.psd.palettehelper/
 ---
 

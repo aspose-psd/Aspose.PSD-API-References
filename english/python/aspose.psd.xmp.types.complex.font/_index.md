@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.xmp.types.complex.font
 type: docs
-weight: 750
+weight: 760
 url: /python-net/aspose.psd.xmp.types.complex.font/
 ---
 

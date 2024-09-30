@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/iindexedcolorconverter/
 
 **Full Name:** aspose.psd.IIndexedColorConverter
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Methods**
 | **Name** | **Description** |

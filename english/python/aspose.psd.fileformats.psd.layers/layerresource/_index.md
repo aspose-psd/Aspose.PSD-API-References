@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layerresource/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerResource
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

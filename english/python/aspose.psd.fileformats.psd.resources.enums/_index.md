@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.fileformats.psd.resources.enums
 type: docs
-weight: 420
+weight: 430
 url: /python-net/aspose.psd.fileformats.psd.resources.enums/
 ---
 

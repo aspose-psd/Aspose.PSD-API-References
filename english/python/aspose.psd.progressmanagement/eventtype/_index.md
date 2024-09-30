@@ -11,7 +11,7 @@ This enum describes possible progress event types that can occurred during image
 
 **Full Name:** aspose.psd.progressmanagement.EventType
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

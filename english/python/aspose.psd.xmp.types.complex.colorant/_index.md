@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.xmp.types.complex.colorant
 type: docs
-weight: 730
+weight: 740
 url: /python-net/aspose.psd.xmp.types.complex.colorant/
 ---
 

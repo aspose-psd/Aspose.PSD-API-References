@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.brushes/pathgradientbrush/
 
 **Inheritance:** PathGradientBrushBase
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ Exif tags list
 
 **Full Name:** aspose.psd.exif.ExifProperties
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

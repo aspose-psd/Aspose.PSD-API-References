@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.interfaces
 type: docs
-weight: 530
+weight: 540
 url: /python-net/aspose.psd.interfaces/
 ---
 

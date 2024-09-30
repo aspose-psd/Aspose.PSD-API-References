@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.xmp/namespaces/
 
 **Full Name:** aspose.psd.xmp.Namespaces
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

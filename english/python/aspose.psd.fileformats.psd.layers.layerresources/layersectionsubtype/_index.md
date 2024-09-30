@@ -11,7 +11,7 @@ The section subtype
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LayerSectionSubtype
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |
