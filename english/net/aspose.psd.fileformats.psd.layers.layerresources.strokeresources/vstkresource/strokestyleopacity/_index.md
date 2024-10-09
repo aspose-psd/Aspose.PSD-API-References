@@ -1,7 +1,7 @@
 ---
 title: VstkResource.StrokeStyleOpacity
 second_title: Aspose.PSD for .NET API Reference
-description: VstkResource property. Gets or sets Stroke stryle opacity 0100
+description: VstkResource property. Gets or sets Stroke style opacity 0100
 type: docs
 weight: 190
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkr
 {{< psd/tize >}}
 ## VstkResource.StrokeStyleOpacity property
 
-Gets or sets Stroke stryle opacity (0-100%).
+Gets or sets Stroke style opacity (0-100%).
 
 ```csharp
 public int StrokeStyleOpacity { get; set; }
