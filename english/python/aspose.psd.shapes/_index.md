@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.shapes
 type: docs
-weight: 580
+weight: 590
 url: /python-net/aspose.psd.shapes/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.xmp.types
 type: docs
-weight: 700
+weight: 710
 url: /python-net/aspose.psd.xmp.types/
 ---
 

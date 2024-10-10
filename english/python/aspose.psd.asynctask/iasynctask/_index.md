@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.asynctask/iasynctask/
 
 **Full Name:** aspose.psd.asynctask.IAsyncTask
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

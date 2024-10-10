@@ -1,7 +1,7 @@
 ---
 title: PenAlignment Enumeration
 type: docs
-weight: 5990
+weight: 6000
 url: /python-net/aspose.psd/penalignment/
 ---
 
@@ -11,7 +11,7 @@ Specifies the alignment of a [Pen](/psd/python-net/aspose.psd/pen/) object in re
 
 **Full Name:** aspose.psd.PenAlignment
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Members**
 | **Member name** | **Description** |

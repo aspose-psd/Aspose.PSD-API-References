@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.xmp
 type: docs
-weight: 610
+weight: 620
 url: /python-net/aspose.psd.xmp/
 ---
 

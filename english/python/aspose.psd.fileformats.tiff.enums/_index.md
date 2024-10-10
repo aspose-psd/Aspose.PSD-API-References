@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.fileformats.tiff.enums
 type: docs
-weight: 450
+weight: 460
 url: /python-net/aspose.psd.fileformats.tiff.enums/
 ---
 

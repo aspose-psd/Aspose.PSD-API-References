@@ -1,7 +1,7 @@
 ---
 title: Class VstkResource
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource class. Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssginItems method from ResourceLoader either by assigning values to properties of the class
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource class. Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssignItems method from ResourceLoader either by assigning values to properties of the class
 type: docs
 weight: 3340
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkr
 {{< psd/tize >}}
 ## VstkResource class
 
-Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssginItems method from ResourceLoader, either by assigning values to properties of the class.
+Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssignItems method from ResourceLoader, either by assigning values to properties of the class.
 
 ```csharp
 public class VstkResource : LayerResource
@@ -42,7 +42,7 @@ public class VstkResource : LayerResource
 | [StrokeStyleLineJoinType](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/) { get; set; } | Gets or sets Stroke style line join type. |
 | [StrokeStyleLineWidth](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/) { get; set; } | Gets or sets Stroke line width. |
 | [StrokeStyleMiterLimit](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/) { get; set; } | Gets or sets the stroke style miter limit. |
-| [StrokeStyleOpacity](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/) { get; set; } | Gets or sets Stroke stryle opacity (0-100%). |
+| [StrokeStyleOpacity](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/) { get; set; } | Gets or sets Stroke style opacity (0-100%). |
 | [StrokeStyleResolution](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleresolution/) { get; set; } | Gets or sets Stroke style resolution. |
 | [StrokeStyleScaleLock](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/) { get; set; } | Gets or sets Stroke style scale lock. |
 | [StrokeStyleStrokeAdjust](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/) { get; set; } | Gets or sets Stroke adjust. |

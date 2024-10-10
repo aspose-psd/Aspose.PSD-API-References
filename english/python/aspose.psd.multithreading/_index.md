@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.multithreading
 type: docs
-weight: 550
+weight: 560
 url: /python-net/aspose.psd.multithreading/
 ---
 

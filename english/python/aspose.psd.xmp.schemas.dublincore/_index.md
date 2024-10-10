@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.xmp.schemas.dublincore
 type: docs
-weight: 630
+weight: 640
 url: /python-net/aspose.psd.xmp.schemas.dublincore/
 ---
 

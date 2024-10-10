@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.resources/borderinformationresource/
 
 **Inheritance:** ResourceBlock
 
-**Aspose.PSD Version:** 24.6.0
+**Aspose.PSD Version:** 24.8.0
 
 ## **Constructors**
 | **Name** | **Description** |

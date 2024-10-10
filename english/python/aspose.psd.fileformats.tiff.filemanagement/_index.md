@@ -1,7 +1,7 @@
 ---
 title: aspose.psd.fileformats.tiff.filemanagement
 type: docs
-weight: 460
+weight: 470
 url: /python-net/aspose.psd.fileformats.tiff.filemanagement/
 ---
 

@@ -15,7 +15,7 @@ The namespace contains PSD file format type tool resource entities.
 | --- | --- |
 | [StrokeSettings](./strokesettings/) | Stroke settings of Shapes. |
 | [VscgResource](./vscgresource/) | Vector Stroke Content Data resource. |
-| [VstkResource](./vstkresource/) | Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssginItems method from ResourceLoader, either by assigning values to properties of the class. |
+| [VstkResource](./vstkresource/) | Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssignItems method from ResourceLoader, either by assigning values to properties of the class. |
 ## Interfaces
 
 | Interface | Description |
