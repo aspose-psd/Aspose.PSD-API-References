@@ -1,7 +1,7 @@
 ---
 title: LinkDataSource Class
 type: docs
-weight: 490
+weight: 530
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LinkDataSource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

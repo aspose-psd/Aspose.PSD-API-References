@@ -1,7 +1,7 @@
 ---
 title: LclrResource Class
 type: docs
-weight: 430
+weight: 470
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.warp/warpsettings/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.warp.WarpSettings
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

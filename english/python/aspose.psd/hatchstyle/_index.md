@@ -1,7 +1,7 @@
 ---
 title: HatchStyle Enumeration
 type: docs
-weight: 5700
+weight: 5750
 url: /python-net/aspose.psd/hatchstyle/
 ---
 
@@ -11,7 +11,7 @@ Specifies the different patterns available for [HatchBrush](/psd/python-net/aspo
 
 **Full Name:** aspose.psd.HatchStyle
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

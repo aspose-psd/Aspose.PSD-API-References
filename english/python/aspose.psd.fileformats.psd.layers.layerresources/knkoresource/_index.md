@@ -1,7 +1,7 @@
 ---
 title: KnkoResource Class
 type: docs
-weight: 410
+weight: 450
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 
 **Inheritance:** BooleanResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

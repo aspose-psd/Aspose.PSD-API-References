@@ -1,7 +1,7 @@
 ---
 title: LayerSectionType Enumeration
 type: docs
-weight: 1130
+weight: 1180
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
 
@@ -11,7 +11,7 @@ The layer section type
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LayerSectionType
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

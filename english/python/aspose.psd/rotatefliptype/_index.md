@@ -1,7 +1,7 @@
 ---
 title: RotateFlipType Enumeration
 type: docs
-weight: 6150
+weight: 6200
 url: /python-net/aspose.psd/rotatefliptype/
 ---
 
@@ -11,7 +11,7 @@ Specifies how much an image is rotated and the axis used to flip the image.
 
 **Full Name:** aspose.psd.RotateFlipType
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

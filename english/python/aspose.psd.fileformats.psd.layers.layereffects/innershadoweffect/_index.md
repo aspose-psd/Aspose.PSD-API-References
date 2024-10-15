@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffec
 
 **Inheritance:** IShadowEffect, ILayerEffect
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

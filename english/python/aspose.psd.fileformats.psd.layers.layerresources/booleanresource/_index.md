@@ -1,7 +1,7 @@
 ---
 title: BooleanResource Class
 type: docs
-weight: 60
+weight: 100
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/booleanresourc
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: ClassID Class
 type: docs
-weight: 100
+weight: 140
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/classid/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/classid/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.ClassID
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

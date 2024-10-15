@@ -1,7 +1,7 @@
 ---
 title: AnimatedDataSectionStructure Class
 type: docs
-weight: 30
+weight: 40
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/animateddatase
 
 **Inheritance:** OSTypeStructure
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

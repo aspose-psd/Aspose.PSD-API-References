@@ -1,7 +1,7 @@
 ---
 title: LinkResource Class
 type: docs
-weight: 500
+weight: 540
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

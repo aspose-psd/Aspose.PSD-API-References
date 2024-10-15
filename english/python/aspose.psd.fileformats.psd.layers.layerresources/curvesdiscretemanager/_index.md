@@ -1,7 +1,7 @@
 ---
 title: CurvesDiscreteManager Class
 type: docs
-weight: 170
+weight: 210
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscrete
 
 **Inheritance:** CurvesManager
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

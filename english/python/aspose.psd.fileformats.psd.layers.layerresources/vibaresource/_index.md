@@ -1,7 +1,7 @@
 ---
 title: VibAResource Class
 type: docs
-weight: 1040
+weight: 1090
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

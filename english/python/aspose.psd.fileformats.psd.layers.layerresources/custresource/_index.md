@@ -1,7 +1,7 @@
 ---
 title: CustResource Class
 type: docs
-weight: 190
+weight: 230
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

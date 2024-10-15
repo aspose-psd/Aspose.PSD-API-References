@@ -1,7 +1,7 @@
 ---
 title: IColorPalette Class
 type: docs
-weight: 1660
+weight: 1700
 url: /python-net/aspose.psd/icolorpalette/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/icolorpalette/
 
 **Full Name:** aspose.psd.IColorPalette
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

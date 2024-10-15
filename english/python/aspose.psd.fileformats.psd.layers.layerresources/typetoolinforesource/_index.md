@@ -1,7 +1,7 @@
 ---
 title: TypeToolInfoResource Class
 type: docs
-weight: 950
+weight: 1000
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfore
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

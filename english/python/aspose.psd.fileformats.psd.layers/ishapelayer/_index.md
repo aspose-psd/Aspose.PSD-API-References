@@ -1,7 +1,7 @@
 ---
 title: IShapeLayer Class
 type: docs
-weight: 740
+weight: 780
 url: /python-net/aspose.psd.fileformats.psd.layers/ishapelayer/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/ishapelayer/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.IShapeLayer
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

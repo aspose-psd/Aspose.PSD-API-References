@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.coreexceptions.imageformats/jpegloadexception/
 
 **Inheritance:** JpegException
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

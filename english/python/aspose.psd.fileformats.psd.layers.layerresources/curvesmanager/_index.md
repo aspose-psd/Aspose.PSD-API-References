@@ -1,7 +1,7 @@
 ---
 title: CurvesManager Class
 type: docs
-weight: 180
+weight: 220
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.CurvesManager
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

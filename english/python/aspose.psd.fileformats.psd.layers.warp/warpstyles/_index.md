@@ -11,7 +11,7 @@ Types of support warp styles supported
 
 **Full Name:** aspose.psd.fileformats.psd.layers.warp.WarpStyles
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: BlncResource Class
 type: docs
-weight: 40
+weight: 80
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

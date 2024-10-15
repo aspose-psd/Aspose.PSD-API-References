@@ -1,7 +1,7 @@
 ---
 title: SheetColorHighlightEnum Enumeration
 type: docs
-weight: 1190
+weight: 1240
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
 
@@ -11,7 +11,7 @@ Possible colors of Sheet color setting.<br/>            It's UI decorative color
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.SheetColorHighlightEnum
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

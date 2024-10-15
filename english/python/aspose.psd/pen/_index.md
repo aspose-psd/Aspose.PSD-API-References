@@ -1,7 +1,7 @@
 ---
 title: Pen Class
 type: docs
-weight: 3300
+weight: 3350
 url: /python-net/aspose.psd/pen/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/pen/
 
 **Inheritance:** TransparencySupporter
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

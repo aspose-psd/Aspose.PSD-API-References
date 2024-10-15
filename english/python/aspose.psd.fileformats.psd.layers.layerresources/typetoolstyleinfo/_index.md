@@ -1,7 +1,7 @@
 ---
 title: TypeToolStyleInfo Class
 type: docs
-weight: 970
+weight: 1020
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstylei
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.TypeToolStyleInfo
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

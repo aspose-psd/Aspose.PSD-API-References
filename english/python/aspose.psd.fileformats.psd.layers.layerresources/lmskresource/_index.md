@@ -1,7 +1,7 @@
 ---
 title: LmskResource Class
 type: docs
-weight: 520
+weight: 560
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lmskresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lmskresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

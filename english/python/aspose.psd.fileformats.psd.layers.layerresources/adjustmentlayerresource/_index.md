@@ -1,7 +1,7 @@
 ---
 title: AdjustmentLayerResource Class
 type: docs
-weight: 10
+weight: 20
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlaye
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

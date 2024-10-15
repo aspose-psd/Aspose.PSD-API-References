@@ -1,7 +1,7 @@
 ---
 title: DataRecoveryMode Enumeration
 type: docs
-weight: 5330
+weight: 5380
 url: /python-net/aspose.psd/datarecoverymode/
 ---
 
@@ -11,7 +11,7 @@ The data recovery mode.
 
 **Full Name:** aspose.psd.DataRecoveryMode
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: LayerResource Class
 type: docs
-weight: 950
+weight: 990
 url: /python-net/aspose.psd.fileformats.psd.layers/layerresource/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layerresource/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -21,7 +21,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layerresource/
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the layer resource length in bytes. |
 | psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| signature | int | r | Gets the layer resource signature. |
+| signature | int | r | Gets the signature. |
 ## **Methods**
 | **Name** | **Description** |
 | :- | :- |

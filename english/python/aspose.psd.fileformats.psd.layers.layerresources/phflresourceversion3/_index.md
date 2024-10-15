@@ -1,7 +1,7 @@
 ---
 title: PhflResourceVersion3 Class
 type: docs
-weight: 760
+weight: 810
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceve
 
 **Inheritance:** PhflResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

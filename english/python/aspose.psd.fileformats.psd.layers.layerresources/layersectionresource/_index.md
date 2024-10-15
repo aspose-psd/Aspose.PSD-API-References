@@ -1,7 +1,7 @@
 ---
 title: LayerSectionResource Class
 type: docs
-weight: 420
+weight: 460
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectionre
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

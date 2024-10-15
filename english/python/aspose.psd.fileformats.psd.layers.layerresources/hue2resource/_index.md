@@ -1,7 +1,7 @@
 ---
 title: Hue2Resource Class
 type: docs
-weight: 310
+weight: 350
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

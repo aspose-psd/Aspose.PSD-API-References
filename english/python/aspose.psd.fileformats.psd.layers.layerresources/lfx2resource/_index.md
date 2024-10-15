@@ -1,7 +1,7 @@
 ---
 title: Lfx2Resource Class
 type: docs
-weight: 460
+weight: 500
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

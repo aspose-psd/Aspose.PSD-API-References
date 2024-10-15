@@ -1,7 +1,7 @@
 ---
 title: IKeyedObject Class
 type: docs
-weight: 1790
+weight: 1830
 url: /python-net/aspose.psd/ikeyedobject/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/ikeyedobject/
 
 **Full Name:** aspose.psd.IKeyedObject
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

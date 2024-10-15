@@ -1,7 +1,7 @@
 ---
 title: BritResource Class
 type: docs
-weight: 80
+weight: 120
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: UnknownResource Class
 type: docs
-weight: 1000
+weight: 1050
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/unknownresourc
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: Layer Class
 type: docs
-weight: 880
+weight: 920
 url: /python-net/aspose.psd.fileformats.psd.layers/layer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layer/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, RasterCachedImage
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -126,7 +126,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layer/
 | [get_fitting_rectangle(rectangle, width, height)](#get_fitting_rectangle_rectangle_width_height_28) | Gets rectangle which fits the current image. |
 | [get_modify_date(use_default)](#get_modify_date_use_default_29) | Gets the date and time the resource image was last modified. |
 | [get_original_options()](#get_original_options__30) | Gets the options based on the original file settings.<br/>            This can be helpful to keep bit-depth and other parameters of the original image unchanged.<br/>            For example, if we load a black-white PNG image with 1 bit per pixel and then save it using the<br/>            [DataStreamSupporter.save(file_path)](/psd/python-net/aspose.psd/datastreamsupporter/) method, the output PNG image with 8-bit per pixel will be produced.<br/>            To avoid it and save PNG image with 1-bit per pixel, use this method to get corresponding saving options and pass them<br/>            to the [Image.save(file_path, options)](/psd/python-net/aspose.psd/image/) method as the second parameter. |
-| [get_pixel(x, y)](#get_pixel_x_y_31) | Gets an image pixel. |
+| [get_pixel(x, y)](#get_pixel_x_y_31) | Gets an image pixel.<br/>            Performance Warning: Avoid using this method to iterate over all image pixels as it can lead to significant performance issues.<br/>            For more efficient pixel manipulation, use the `LoadArgb32Pixels` method to retrieve the entire pixel array simultaneously. |
 | [get_proportional_height(width, height, new_width)](#get_proportional_height_width_height_new_width_32) | Gets a proportional height. |
 | [get_proportional_width(width, height, new_height)](#get_proportional_width_width_height_new_height_33) | Gets a proportional width. |
 | [get_skew_angle()](#get_skew_angle__34) |    |
@@ -831,7 +831,7 @@ Gets the options based on the original file settings.<br/>            This can b
  get_pixel(x, y) 
 ```
 
-Gets an image pixel.
+Gets an image pixel.<br/>            Performance Warning: Avoid using this method to iterate over all image pixels as it can lead to significant performance issues.<br/>            For more efficient pixel manipulation, use the `LoadArgb32Pixels` method to retrieve the entire pixel array simultaneously.
 
 **Parameters:**
 

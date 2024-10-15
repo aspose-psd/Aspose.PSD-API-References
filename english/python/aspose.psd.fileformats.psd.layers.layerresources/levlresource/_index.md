@@ -1,7 +1,7 @@
 ---
 title: LevlResource Class
 type: docs
-weight: 450
+weight: 490
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

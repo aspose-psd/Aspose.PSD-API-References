@@ -1,7 +1,7 @@
 ---
 title: LnsrResource Class
 type: docs
-weight: 560
+weight: 600
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

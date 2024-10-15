@@ -1,7 +1,7 @@
 ---
 title: Brush Class
 type: docs
-weight: 430
+weight: 470
 url: /python-net/aspose.psd/brush/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/brush/
 
 **Inheritance:** DisposableObject
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

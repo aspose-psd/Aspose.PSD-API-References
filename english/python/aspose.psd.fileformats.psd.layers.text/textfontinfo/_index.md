@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.text.TextFontInfo
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

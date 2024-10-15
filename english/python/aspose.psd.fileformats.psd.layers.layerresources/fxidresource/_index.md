@@ -1,7 +1,7 @@
 ---
 title: FXidResource Class
 type: docs
-weight: 250
+weight: 290
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

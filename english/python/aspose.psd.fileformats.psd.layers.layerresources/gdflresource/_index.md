@@ -1,7 +1,7 @@
 ---
 title: GdFlResource Class
 type: docs
-weight: 290
+weight: 330
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 
 **Inheritance:** FillLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

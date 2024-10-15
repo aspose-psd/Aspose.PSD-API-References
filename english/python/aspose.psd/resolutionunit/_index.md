@@ -1,7 +1,7 @@
 ---
 title: ResolutionUnit Enumeration
 type: docs
-weight: 6120
+weight: 6170
 url: /python-net/aspose.psd/resolutionunit/
 ---
 
@@ -11,7 +11,7 @@ Resolution unit enum.
 
 **Full Name:** aspose.psd.ResolutionUnit
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

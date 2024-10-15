@@ -1,7 +1,7 @@
 ---
 title: Lnk2Resource Class
 type: docs
-weight: 530
+weight: 570
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/
 
 **Inheritance:** LinkResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

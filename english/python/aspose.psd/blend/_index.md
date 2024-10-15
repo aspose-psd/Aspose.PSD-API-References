@@ -1,7 +1,7 @@
 ---
 title: Blend Class
 type: docs
-weight: 310
+weight: 350
 url: /python-net/aspose.psd/blend/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/blend/
 
 **Full Name:** aspose.psd.Blend
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |
