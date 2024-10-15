@@ -1,7 +1,7 @@
 ---
 title: VsmsResource Class
 type: docs
-weight: 1080
+weight: 1130
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 
 **Inheritance:** IVectorPathData, VectorPathDataResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

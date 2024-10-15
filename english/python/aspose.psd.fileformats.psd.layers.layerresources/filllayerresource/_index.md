@@ -1,7 +1,7 @@
 ---
 title: FillLayerResource Class
 type: docs
-weight: 260
+weight: 300
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresou
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: GrdmResource Class
 type: docs
-weight: 300
+weight: 340
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

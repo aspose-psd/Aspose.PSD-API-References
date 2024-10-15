@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.multithreading/interruptmonitor/
 
 **Full Name:** aspose.psd.multithreading.InterruptMonitor
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

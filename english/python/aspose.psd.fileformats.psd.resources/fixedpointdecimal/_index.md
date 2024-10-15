@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 
 **Full Name:** aspose.psd.fileformats.psd.resources.FixedPointDecimal
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: LevelChannel Class
 type: docs
-weight: 440
+weight: 480
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LevelChannel
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

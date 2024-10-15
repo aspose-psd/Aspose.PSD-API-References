@@ -1,7 +1,7 @@
 ---
 title: CustomLineCap Class
 type: docs
-weight: 960
+weight: 1000
 url: /python-net/aspose.psd/customlinecap/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/customlinecap/
 
 **Full Name:** aspose.psd.CustomLineCap
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

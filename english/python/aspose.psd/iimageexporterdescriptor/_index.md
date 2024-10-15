@@ -1,7 +1,7 @@
 ---
 title: IImageExporterDescriptor Class
 type: docs
-weight: 1750
+weight: 1790
 url: /python-net/aspose.psd/iimageexporterdescriptor/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/iimageexporterdescriptor/
 
 **Inheritance:** IImageDescriptor
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

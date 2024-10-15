@@ -1,7 +1,7 @@
 ---
 title: WarpMode Enumeration
 type: docs
-weight: 6500
+weight: 6550
 url: /python-net/aspose.psd/warpmode/
 ---
 
@@ -11,7 +11,7 @@ Specifies the type of warp transformation applied.
 
 **Full Name:** aspose.psd.WarpMode
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

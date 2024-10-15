@@ -1,7 +1,7 @@
 ---
 title: VectorPathDataResource Class
 type: docs
-weight: 1030
+weight: 1080
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdata
 
 **Inheritance:** IVectorPathData, LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

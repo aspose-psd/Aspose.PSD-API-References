@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.xmp/xmpelementbase/
 
 **Full Name:** aspose.psd.xmp.XmpElementBase
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Methods**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: LinkedLayersManager Class
 type: docs
-weight: 1090
+weight: 1130
 url: /python-net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LinkedLayersManager
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Methods**
 | **Name** | **Description** |

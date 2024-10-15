@@ -11,7 +11,7 @@ The position setting controls the alignment of your stroke to the layer it's app
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layereffects.StrokePosition
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

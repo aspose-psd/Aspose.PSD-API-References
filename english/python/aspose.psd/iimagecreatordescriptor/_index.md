@@ -1,7 +1,7 @@
 ---
 title: IImageCreatorDescriptor Class
 type: docs
-weight: 1720
+weight: 1760
 url: /python-net/aspose.psd/iimagecreatordescriptor/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/iimagecreatordescriptor/
 
 **Inheritance:** IImageDescriptor
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

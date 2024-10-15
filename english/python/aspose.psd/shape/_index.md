@@ -1,7 +1,7 @@
 ---
 title: Shape Class
 type: docs
-weight: 3960
+weight: 4010
 url: /python-net/aspose.psd/shape/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/shape/
 
 **Inheritance:** ObjectWithBounds
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

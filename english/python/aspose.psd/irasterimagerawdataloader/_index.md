@@ -1,7 +1,7 @@
 ---
 title: IRasterImageRawDataLoader Class
 type: docs
-weight: 1970
+weight: 2010
 url: /python-net/aspose.psd/irasterimagerawdataloader/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/irasterimagerawdataloader/
 
 **Full Name:** aspose.psd.IRasterImageRawDataLoader
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

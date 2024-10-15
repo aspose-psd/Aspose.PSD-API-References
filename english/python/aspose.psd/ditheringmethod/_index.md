@@ -1,7 +1,7 @@
 ---
 title: DitheringMethod Enumeration
 type: docs
-weight: 5340
+weight: 5390
 url: /python-net/aspose.psd/ditheringmethod/
 ---
 
@@ -11,7 +11,7 @@ Dithering method.
 
 **Full Name:** aspose.psd.DitheringMethod
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,7 +11,7 @@ The byte order for the tiff image
 
 **Full Name:** aspose.psd.fileformats.tiff.enums.TiffByteOrder
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.jpeg2000/jpeg2000customexception/
 
 **Full Name:** aspose.psd.fileformats.jpeg2000.Jpeg2000CustomException
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 
 

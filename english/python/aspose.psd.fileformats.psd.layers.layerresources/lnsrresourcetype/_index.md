@@ -1,7 +1,7 @@
 ---
 title: LnsrResourceType Enumeration
 type: docs
-weight: 1170
+weight: 1220
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
 
@@ -11,7 +11,7 @@ Discovered Possible Lnsr Resource Types
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LnsrResourceType
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

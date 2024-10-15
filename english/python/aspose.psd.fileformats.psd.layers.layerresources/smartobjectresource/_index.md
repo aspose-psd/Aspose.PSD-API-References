@@ -1,7 +1,7 @@
 ---
 title: SmartObjectResource Class
 type: docs
-weight: 850
+weight: 900
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectres
 
 **Inheritance:** IPlacedLayerResource, ISmartObjectLayerResource, PlacedResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

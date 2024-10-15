@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.flatarray.exceptions/flatarrayexception/
 
 **Full Name:** aspose.psd.flatarray.exceptions.FlatArrayException
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 
 

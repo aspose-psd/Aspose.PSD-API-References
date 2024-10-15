@@ -1,7 +1,7 @@
 ---
 title: ILayerResourceLoader Class
 type: docs
-weight: 670
+weight: 710
 url: /python-net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.ILayerResourceLoader
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Methods**
 | **Name** | **Description** |

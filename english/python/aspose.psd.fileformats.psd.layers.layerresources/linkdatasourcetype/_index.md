@@ -1,7 +1,7 @@
 ---
 title: LinkDataSourceType Enumeration
 type: docs
-weight: 1160
+weight: 1210
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
 
@@ -11,7 +11,7 @@ Defines the LinkDataSourceType enumeration for the data sources in the PSD link 
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LinkDataSourceType
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

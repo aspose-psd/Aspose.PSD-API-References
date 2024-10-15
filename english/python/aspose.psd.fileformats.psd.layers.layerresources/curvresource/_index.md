@@ -1,7 +1,7 @@
 ---
 title: CurvResource Class
 type: docs
-weight: 150
+weight: 190
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

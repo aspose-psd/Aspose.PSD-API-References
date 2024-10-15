@@ -1,7 +1,7 @@
 ---
 title: NonGenericDictionary Class
 type: docs
-weight: 3050
+weight: 3100
 url: /python-net/aspose.psd/nongenericdictionary/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/nongenericdictionary/
 
 **Full Name:** aspose.psd.NonGenericDictionary
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

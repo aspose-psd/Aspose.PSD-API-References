@@ -1,7 +1,7 @@
 ---
 title: LayerSectionSubtype Enumeration
 type: docs
-weight: 1120
+weight: 1170
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
 
@@ -11,7 +11,7 @@ The section subtype
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LayerSectionSubtype
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

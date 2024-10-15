@@ -1,7 +1,7 @@
 ---
 title: FilterEffectMaskData Class
 type: docs
-weight: 270
+weight: 310
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectma
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.FilterEffectMaskData
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

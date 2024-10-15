@@ -1,7 +1,7 @@
 ---
 title: LayerHashCalculator Class
 type: docs
-weight: 910
+weight: 950
 url: /python-net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerHashCalculator
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

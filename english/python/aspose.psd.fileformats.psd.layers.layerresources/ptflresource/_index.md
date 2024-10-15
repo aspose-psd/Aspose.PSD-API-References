@@ -1,7 +1,7 @@
 ---
 title: PtFlResource Class
 type: docs
-weight: 810
+weight: 860
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 
 **Inheritance:** FillLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

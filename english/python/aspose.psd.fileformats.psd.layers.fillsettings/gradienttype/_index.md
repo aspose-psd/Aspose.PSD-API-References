@@ -11,7 +11,7 @@ Gradient type
 
 **Full Name:** aspose.psd.fileformats.psd.layers.fillsettings.GradientType
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

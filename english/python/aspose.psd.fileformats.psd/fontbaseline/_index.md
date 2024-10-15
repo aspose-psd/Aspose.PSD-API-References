@@ -1,7 +1,7 @@
 ---
 title: FontBaseline Enumeration
 type: docs
-weight: 2380
+weight: 2430
 url: /python-net/aspose.psd.fileformats.psd/fontbaseline/
 ---
 
@@ -11,7 +11,7 @@ This is the font baseline.
 
 **Full Name:** aspose.psd.fileformats.psd.FontBaseline
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |
