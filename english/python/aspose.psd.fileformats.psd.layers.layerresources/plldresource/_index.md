@@ -1,7 +1,7 @@
 ---
 title: PlLdResource Class
 type: docs
-weight: 770
+weight: 820
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 
 **Inheritance:** IPlacedLayerResource, PlacedResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

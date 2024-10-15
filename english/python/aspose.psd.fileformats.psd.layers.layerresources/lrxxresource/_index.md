@@ -1,7 +1,7 @@
 ---
 title: LrXxResource Class
 type: docs
-weight: 590
+weight: 630
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

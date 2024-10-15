@@ -1,7 +1,7 @@
 ---
 title: TextLayer Class
 type: docs
-weight: 1690
+weight: 1740
 url: /python-net/aspose.psd.fileformats.psd.layers/textlayer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/textlayer/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, Layer
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

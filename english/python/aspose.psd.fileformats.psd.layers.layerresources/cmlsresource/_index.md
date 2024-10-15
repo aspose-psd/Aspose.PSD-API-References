@@ -1,7 +1,7 @@
 ---
 title: CmlsResource Class
 type: docs
-weight: 130
+weight: 170
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

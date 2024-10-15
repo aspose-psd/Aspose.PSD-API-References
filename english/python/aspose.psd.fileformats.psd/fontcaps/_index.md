@@ -1,7 +1,7 @@
 ---
 title: FontCaps Enumeration
 type: docs
-weight: 2390
+weight: 2440
 url: /python-net/aspose.psd.fileformats.psd/fontcaps/
 ---
 
@@ -11,7 +11,7 @@ This is the font baseline.
 
 **Full Name:** aspose.psd.fileformats.psd.FontCaps
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

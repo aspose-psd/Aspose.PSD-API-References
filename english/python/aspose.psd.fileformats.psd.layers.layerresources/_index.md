@@ -11,8 +11,12 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/
 ## **Classes**
 | **Class** | **Description** |
 | :- | :- |
+| [AbddResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/abddresource/) | The Artboard info data. |
 | [AdjustmentLayerResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/) | Base Class for adjustments layer resources |
 | [AnimatedDataSectionStructure](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/) | The section with animated data. |
+| [ArtBResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/artbresource/) | The Artboard info data for [Layer.resources](/psd/python-net/aspose.psd.fileformats.psd.layers/layer/). |
+| [ArtDResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/artdresource/) | The Artboard info data for [PsdImage.global_layer_resources](/psd/python-net/aspose.psd.fileformats.psd/psdimage/). |
+| [BaseArtboardInfoResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/baseartboardinforesource/) | The Artboard info data resource. |
 | [BlncResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/) | BlncResource class is a resource of Color Adjustment Layer. |
 | [BlwhResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/) | BlwhResource class is a resource of Black and White Adjustment Layer. |
 | [BooleanResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/) | Class BooleanResource. It's pseudo resource. Photoshop haven't it |
@@ -63,6 +67,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/
 | [LspfResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/) | Layer protected settings |
 | [LuniResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/) | Layer name resource |
 | [LyidResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/) | Class LyidResource. |
+| [LyvrResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lyvrresource/) | The resource to represents photoshop version of Layer. |
 | [MixrResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/) | Class MixrResource. Resource of Channel Mixer Adjustment Layer |
 | [MlstResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/) | The mlst resource.<br/>            This class, among other things, contains information about the position of the layer on the timeline. |
 | [NvrtResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/) | Class NvrtResource. Resource of Invert Adjustment Layer. |

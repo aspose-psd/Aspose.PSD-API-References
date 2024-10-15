@@ -1,7 +1,7 @@
 ---
 title: InfxResource Class
 type: docs
-weight: 380
+weight: 420
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/
 
 **Inheritance:** BooleanResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

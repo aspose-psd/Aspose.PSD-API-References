@@ -1,7 +1,7 @@
 ---
 title: OSTypeStructure Class
 type: docs
-weight: 660
+weight: 710
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructur
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

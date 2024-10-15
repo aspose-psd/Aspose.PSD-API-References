@@ -1,7 +1,7 @@
 ---
 title: KnownColor Enumeration
 type: docs
-weight: 5800
+weight: 5850
 url: /python-net/aspose.psd/knowncolor/
 ---
 
@@ -11,7 +11,7 @@ Specifies the known system colors.
 
 **Full Name:** aspose.psd.KnownColor
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

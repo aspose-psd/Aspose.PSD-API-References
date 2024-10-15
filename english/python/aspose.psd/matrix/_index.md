@@ -1,7 +1,7 @@
 ---
 title: Matrix Class
 type: docs
-weight: 2940
+weight: 2990
 url: /python-net/aspose.psd/matrix/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/matrix/
 
 **Full Name:** aspose.psd.Matrix
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

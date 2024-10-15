@@ -1,7 +1,7 @@
 ---
 title: LspfResource Class
 type: docs
-weight: 600
+weight: 640
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

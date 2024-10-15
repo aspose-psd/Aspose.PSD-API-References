@@ -1,7 +1,7 @@
 ---
 title: ExpaResource Class
 type: docs
-weight: 240
+weight: 280
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: LayerLockType Enumeration
 type: docs
-weight: 1110
+weight: 1160
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 ---
 
@@ -11,7 +11,7 @@ Layer lock options
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.LayerLockType
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

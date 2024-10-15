@@ -1,7 +1,7 @@
 ---
 title: TransparencySupporter Class
 type: docs
-weight: 4490
+weight: 4540
 url: /python-net/aspose.psd/transparencysupporter/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/transparencysupporter/
 
 **Full Name:** aspose.psd.TransparencySupporter
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

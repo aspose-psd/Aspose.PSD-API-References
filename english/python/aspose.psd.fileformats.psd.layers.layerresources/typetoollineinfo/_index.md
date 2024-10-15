@@ -1,7 +1,7 @@
 ---
 title: TypeToolLineInfo Class
 type: docs
-weight: 960
+weight: 1010
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoollinein
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.TypeToolLineInfo
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

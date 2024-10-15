@@ -1,7 +1,7 @@
 ---
 title: BlwhResource Class
 type: docs
-weight: 50
+weight: 90
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: ShapeLayer Class
 type: docs
-weight: 1540
+weight: 1590
 url: /python-net/aspose.psd.fileformats.psd.layers/shapelayer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/shapelayer/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, IShapeLayer, Layer
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

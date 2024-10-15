@@ -1,7 +1,7 @@
 ---
 title: SizeF Class
 type: docs
-weight: 4030
+weight: 4080
 url: /python-net/aspose.psd/sizef/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/sizef/
 
 **Full Name:** aspose.psd.SizeF
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

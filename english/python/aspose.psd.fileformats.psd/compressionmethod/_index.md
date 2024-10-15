@@ -1,7 +1,7 @@
 ---
 title: CompressionMethod Enumeration
 type: docs
-weight: 2350
+weight: 2400
 url: /python-net/aspose.psd.fileformats.psd/compressionmethod/
 ---
 
@@ -11,7 +11,7 @@ Defines the compression method used for image data.
 
 **Full Name:** aspose.psd.fileformats.psd.CompressionMethod
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: Cache Class
 type: docs
-weight: 460
+weight: 500
 url: /python-net/aspose.psd/cache/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/cache/
 
 **Full Name:** aspose.psd.Cache
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

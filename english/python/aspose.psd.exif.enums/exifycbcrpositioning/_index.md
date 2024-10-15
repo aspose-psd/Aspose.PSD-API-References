@@ -11,7 +11,7 @@ exif y cb cr positioning enum.
 
 **Full Name:** aspose.psd.exif.enums.ExifYCbCrPositioning
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

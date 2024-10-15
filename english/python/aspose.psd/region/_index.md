@@ -1,7 +1,7 @@
 ---
 title: Region Class
 type: docs
-weight: 3810
+weight: 3860
 url: /python-net/aspose.psd/region/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/region/
 
 **Full Name:** aspose.psd.Region
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

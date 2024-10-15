@@ -1,7 +1,7 @@
 ---
 title: LayerMaskFlags Enumeration
 type: docs
-weight: 2010
+weight: 2060
 url: /python-net/aspose.psd.fileformats.psd.layers/layermaskflags/
 ---
 
@@ -11,7 +11,7 @@ The layer mask flags
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerMaskFlags
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

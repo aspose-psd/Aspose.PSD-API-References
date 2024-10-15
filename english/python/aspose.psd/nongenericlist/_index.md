@@ -1,7 +1,7 @@
 ---
 title: NonGenericList Class
 type: docs
-weight: 3060
+weight: 3110
 url: /python-net/aspose.psd/nongenericlist/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/nongenericlist/
 
 **Full Name:** aspose.psd.NonGenericList
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

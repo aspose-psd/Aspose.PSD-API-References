@@ -1,7 +1,7 @@
 ---
 title: SoLeResource Class
 type: docs
-weight: 890
+weight: 940
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/
 
 **Inheritance:** IPlacedLayerResource, ISmartObjectLayerResource, SmartObjectResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

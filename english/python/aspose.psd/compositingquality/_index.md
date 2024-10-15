@@ -1,7 +1,7 @@
 ---
 title: CompositingQuality Enumeration
 type: docs
-weight: 5280
+weight: 5330
 url: /python-net/aspose.psd/compositingquality/
 ---
 
@@ -11,7 +11,7 @@ Specifies the quality level to use during compositing.
 
 **Full Name:** aspose.psd.CompositingQuality
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

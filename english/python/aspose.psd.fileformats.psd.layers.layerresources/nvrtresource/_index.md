@@ -1,7 +1,7 @@
 ---
 title: NvrtResource Class
 type: docs
-weight: 650
+weight: 700
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

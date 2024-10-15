@@ -1,7 +1,7 @@
 ---
 title: PattResource Class
 type: docs
-weight: 720
+weight: 770
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

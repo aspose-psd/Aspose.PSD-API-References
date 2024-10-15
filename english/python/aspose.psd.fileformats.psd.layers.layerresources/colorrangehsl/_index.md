@@ -1,7 +1,7 @@
 ---
 title: ColorRangeHsl Class
 type: docs
-weight: 140
+weight: 180
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.ColorRangeHsl
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

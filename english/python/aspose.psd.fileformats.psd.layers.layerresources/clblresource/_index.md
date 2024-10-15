@@ -1,7 +1,7 @@
 ---
 title: ClblResource Class
 type: docs
-weight: 120
+weight: 160
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/
 
 **Inheritance:** BooleanResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

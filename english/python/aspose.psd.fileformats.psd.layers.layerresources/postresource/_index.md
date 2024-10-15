@@ -1,7 +1,7 @@
 ---
 title: PostResource Class
 type: docs
-weight: 790
+weight: 840
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/postresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/postresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

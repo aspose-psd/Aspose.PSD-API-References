@@ -1,7 +1,7 @@
 ---
 title: PsdVersion Enumeration
 type: docs
-weight: 2600
+weight: 2650
 url: /python-net/aspose.psd.fileformats.psd/psdversion/
 ---
 
@@ -11,7 +11,7 @@ File format version
 
 **Full Name:** aspose.psd.fileformats.psd.PsdVersion
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

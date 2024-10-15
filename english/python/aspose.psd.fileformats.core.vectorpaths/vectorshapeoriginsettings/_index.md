@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettin
 
 **Full Name:** aspose.psd.fileformats.core.vectorpaths.VectorShapeOriginSettings
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

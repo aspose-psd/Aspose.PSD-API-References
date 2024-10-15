@@ -1,7 +1,7 @@
 ---
 title: Color Class
 type: docs
-weight: 620
+weight: 660
 url: /python-net/aspose.psd/color/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/color/
 
 **Full Name:** aspose.psd.Color
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

@@ -1,17 +1,17 @@
 ---
 title: LayerResourcesRegistry Class
 type: docs
-weight: 960
+weight: 1000
 url: /python-net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
 
-**Summary:** Define the the layer resources registry for PSD files loading.
+**Summary:** Define the layer resources registry for PSD files loading.
 
 **Module:** [aspose.psd.fileformats.psd.layers](/psd/python-net/aspose.psd.fileformats.psd.layers/)
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerResourcesRegistry
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

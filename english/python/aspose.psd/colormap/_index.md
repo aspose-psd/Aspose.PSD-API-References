@@ -1,7 +1,7 @@
 ---
 title: ColorMap Class
 type: docs
-weight: 700
+weight: 740
 url: /python-net/aspose.psd/colormap/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/colormap/
 
 **Full Name:** aspose.psd.ColorMap
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |

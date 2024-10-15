@@ -1,7 +1,7 @@
 ---
 title: PlacedLayerType Enumeration
 type: docs
-weight: 1180
+weight: 1230
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
 
@@ -11,7 +11,7 @@ Defines the PlacedLayerType enumeration for the placed layer PlLd resource.
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.PlacedLayerType
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

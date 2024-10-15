@@ -1,7 +1,7 @@
 ---
 title: LayerFlags Enumeration
 type: docs
-weight: 1990
+weight: 2040
 url: /python-net/aspose.psd.fileformats.psd.layers/layerflags/
 ---
 
@@ -11,7 +11,7 @@ The layer flags
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerFlags
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Members**
 | **Member name** | **Description** |

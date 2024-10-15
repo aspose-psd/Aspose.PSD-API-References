@@ -1,7 +1,7 @@
 ---
 title: SoCoResource Class
 type: docs
-weight: 870
+weight: 920
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 
 **Inheritance:** FillLayerResource
 
-**Aspose.PSD Version:** 24.8.0
+**Aspose.PSD Version:** 24.9.0
 
 ## **Constructors**
 | **Name** | **Description** |
