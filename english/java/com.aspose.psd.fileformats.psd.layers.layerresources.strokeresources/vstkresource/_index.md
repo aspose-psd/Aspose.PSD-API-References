@@ -13,7 +13,7 @@ java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../co
 public class VstkResource extends LayerResource
 ```
 
-Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssginItems method from resourcedata, either by assigning values to properties of the class.
+Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssignItems method from resourcedata, either by assigning values to properties of the class.
 ## Constructors
 
 | Constructor | Description |
@@ -58,7 +58,7 @@ Resource class VstkResource. Contains information about Vector Stroke Data. Reso
 | [getStrokeStyleLineJoinType()](#getStrokeStyleLineJoinType--) | Gets or sets Stroke style line join type. |
 | [getStrokeStyleLineWidth()](#getStrokeStyleLineWidth--) | Gets or sets Stroke line width. |
 | [getStrokeStyleMiterLimit()](#getStrokeStyleMiterLimit--) | Gets or sets the stroke style miter limit. |
-| [getStrokeStyleOpacity()](#getStrokeStyleOpacity--) | Gets or sets Stroke stryle opacity (0-100%). |
+| [getStrokeStyleOpacity()](#getStrokeStyleOpacity--) | Gets or sets Stroke style opacity (0-100%). |
 | [getStrokeStyleResolution()](#getStrokeStyleResolution--) | Gets or sets Stroke style resolution. |
 | [getStrokeStyleScaleLock()](#getStrokeStyleScaleLock--) | Gets or sets Stroke style scale lock. |
 | [getStrokeStyleStrokeAdjust()](#getStrokeStyleStrokeAdjust--) | Gets or sets Stroke adjust. |
@@ -432,7 +432,7 @@ public final int getStrokeStyleOpacity()
 ```
 
 
-Gets or sets Stroke stryle opacity (0-100%).
+Gets or sets Stroke style opacity (0-100%).
 
 **Returns:**
 int

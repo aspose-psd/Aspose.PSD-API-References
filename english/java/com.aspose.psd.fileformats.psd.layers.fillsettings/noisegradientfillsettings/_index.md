@@ -34,6 +34,7 @@ Noise gradient definition class.
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
+| [getColor()](#getColor--) | Gets or sets the color. |
 | [getColorModel()](#getColorModel--) | Color Model - RGB/HSB/LAB (3/4/6). |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
 | [getExpansionCount()](#getExpansionCount--) | Expansion count ( = 2 for Photoshop 6.0). |
@@ -58,6 +59,7 @@ Noise gradient definition class.
 | [raiseValueChanged_internalized()](#raiseValueChanged-internalized--) | Raises the value changed. |
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
+| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the color. |
 | [setColorModel(short value)](#setColorModel-short-) | Color Model - RGB/HSB/LAB (3/4/6). |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
 | [setExpansionCount(short value)](#setExpansionCount-short-) | Expansion count ( = 2 for Photoshop 6.0). |
@@ -171,6 +173,18 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getColor() {#getColor--}
+```
+public final Color getColor()
+```
+
+
+Gets or sets the color.
+
+Value: The color.
+
+**Returns:**
+[Color](../../com.aspose.psd/color)
 ### getColorModel() {#getColorModel--}
 ```
 public final short getColorModel()
@@ -422,6 +436,21 @@ Gets or sets the angle.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double |  |
+
+### setColor(Color value) {#setColor-com.aspose.psd.Color-}
+```
+public final void setColor(Color value)
+```
+
+
+Gets or sets the color.
+
+Value: The color.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.psd/color) |  |
 
 ### setColorModel(short value) {#setColorModel-short-}
 ```
