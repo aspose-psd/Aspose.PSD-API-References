@@ -36,6 +36,7 @@ Base gradient definition class. It contains common properties for both types of 
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
+| [getColor()](#getColor--) | Gets or sets the color. |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
 | [getFillType()](#getFillType--) | The fill type. |
 | [getGradientMode()](#getGradientMode--) | Mode for this gradient. |
@@ -52,6 +53,7 @@ Base gradient definition class. It contains common properties for both types of 
 | [raiseValueChanged_internalized()](#raiseValueChanged-internalized--) | Raises the value changed. |
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
+| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the color. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
 | [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient. |
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
@@ -140,6 +142,18 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getColor() {#getColor--}
+```
+public final Color getColor()
+```
+
+
+Gets or sets the color.
+
+Value: The color.
+
+**Returns:**
+[Color](../../com.aspose.psd/color)
 ### getDither() {#getDither--}
 ```
 public final boolean getDither()
@@ -311,6 +325,21 @@ Gets or sets the angle.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double |  |
+
+### setColor(Color value) {#setColor-com.aspose.psd.Color-}
+```
+public final void setColor(Color value)
+```
+
+
+Gets or sets the color.
+
+Value: The color.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.psd/color) |  |
 
 ### setDither(boolean value) {#setDither-boolean-}
 ```
