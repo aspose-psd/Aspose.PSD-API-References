@@ -3,7 +3,7 @@ title: Enum MatrixOrder
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.MatrixOrder enum. Specifies the order for matrix transform operations
 type: docs
-weight: 5460
+weight: 5470
 url: /net/aspose.psd/matrixorder/
 ---
 {{< psd/tize >}}

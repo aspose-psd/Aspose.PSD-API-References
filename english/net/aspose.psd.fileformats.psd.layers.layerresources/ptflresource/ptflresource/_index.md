@@ -7,7 +7,23 @@ weight: 10
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/ptflresource/
 ---
 {{< psd/tize >}}
-## PtFlResource constructor
+## PtFlResource() {#constructor}
+
+Initializes a new instance of the [`PtFlResource`](../) class.
+
+```csharp
+public PtFlResource()
+```
+
+### See Also
+
+* class [PtFlResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## PtFlResource(string, string) {#constructor_1}
 
 Initializes a new instance of the [`PtFlResource`](../) class.
 

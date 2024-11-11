@@ -3,7 +3,7 @@ title: Class AbddResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AbddResource class. The Artboard info data
 type: docs
-weight: 2430
+weight: 2440
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/abddresource/
 ---
 {{< psd/tize >}}

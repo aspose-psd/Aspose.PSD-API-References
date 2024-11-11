@@ -3,7 +3,7 @@ title: Class BlendRange
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange class. The blend range
 type: docs
-weight: 1980
+weight: 1990
 url: /net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
 {{< psd/tize >}}

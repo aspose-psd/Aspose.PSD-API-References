@@ -3,7 +3,7 @@ title: Interface IPathShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPathShape interface. The Shape from the knots of the Bezier curve
 type: docs
-weight: 2730
+weight: 2740
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ipathshape/
 ---
 {{< psd/tize >}}

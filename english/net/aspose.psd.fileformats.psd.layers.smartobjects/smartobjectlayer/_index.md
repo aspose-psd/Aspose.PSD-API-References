@@ -3,7 +3,7 @@ title: Class SmartObjectLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects.SmartObjectLayer class. Defines the SmartObjectLayer class that contains embedded in the PSD file or linked smart object in the external file. With Smart Objects you can Perform nondestructive transforms. You can scale rotate skew distort perspective transform or warp a layer without losing original image data or quality because the transforms dont affect the original data. Work with vector data such as vector artwork from Illustrator that otherwise would be rasterized. Perform nondestructive filtering. You can edit filters applied to Smart Objects at any time. Edit one Smart Object and automatically update all its linked instances. Apply a layer mask thats either linked or unlinked to the Smart Object layer. Try various designs with lowresolution placeholder images that you later replace with final versions. In Adobe Photoshop you can embed the contents of an image into a PSD document. More information is here https//helpx.adobe.com/photoshop/using/createsmartobjects.html A layer with an embedded smart object contains placed PlLd and SoLd resources with smart object properties. The PlLd resource can be alone for PSD versions older then 10. These resources contain UniqueId of the LiFdDataSource in the global Lnk2Resource with the embedded filename and other parameters including the embedded file contents in the original format as a byte array
 type: docs
-weight: 3800
+weight: 3810
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/
 ---
 {{< psd/tize >}}
@@ -32,7 +32,7 @@ public class SmartObjectLayer : Layer
 | [BlendingOptions](../../aspose.psd.fileformats.psd.layers/layer/blendingoptions/) { get; } | Gets the blending options. |
 | virtual [BlendModeKey](../../aspose.psd.fileformats.psd.layers/layer/blendmodekey/) { get; set; } | Gets or sets the blend mode key. |
 | [BlendModeSignature](../../aspose.psd.fileformats.psd.layers/layer/blendmodesignature/) { get; } | Gets the blend mode signature. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | Gets or sets the bottom layer position. |
+| virtual [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | Gets or sets the bottom layer position. |
 | [Bounds](../../aspose.psd/image/bounds/) { get; } | Gets the image bounds. |
 | [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [ChannelInformation](../../aspose.psd.fileformats.psd.layers/layer/channelinformation/) { get; set; } | Gets or sets the channel information. |
@@ -67,7 +67,7 @@ public class SmartObjectLayer : Layer
 | [LayerLock](../../aspose.psd.fileformats.psd.layers/layer/layerlock/) { get; set; } | Gets or sets the layer lock. Note that if flag LayerFlags.TransparencyProtected is set it will be overwritten by layer lock flag. To return LayerFlags.TransparencyProtected flag need to apply for layer option layer.Flags &#x7C;= LayerFlags.TransparencyProtected |
 | [LayerMaskData](../../aspose.psd.fileformats.psd.layers/layer/layermaskdata/) { get; set; } | Gets or sets the layer mask data. |
 | [LayerOptions](../../aspose.psd.fileformats.psd.layers/layer/layeroptions/) { get; } | Gets the layer options. |
-| [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | Gets or sets the left layer position. |
+| virtual [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | Gets or sets the left layer position. |
 | [Length](../../aspose.psd.fileformats.psd.layers/layer/length/) { get; } | Gets the overall layer length in bytes. |
 | [Name](../../aspose.psd.fileformats.psd.layers/layer/name/) { get; set; } | Gets or sets the layer name. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers/layer/opacity/) { get; set; } | Gets or sets the layer opacity. 0 = transparent, 255 = opaque. |
@@ -80,12 +80,12 @@ public class SmartObjectLayer : Layer
 | [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | Gets or sets the indexed color converter |
 | virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | Gets the raw line size in bytes. |
 | [Resources](../../aspose.psd.fileformats.psd.layers/layer/resources/) { get; set; } | Gets or sets the layer resources. |
-| [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | Gets or sets the right layer position. |
+| virtual [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | Gets or sets the right layer position. |
 | [SheetColorHighlight](../../aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/) { get; set; } | Gets or sets the decorative sheet color highlight in layers' list |
 | [Size](../../aspose.psd/image/size/) { get; } | Gets the image size. |
 | [SmartFilters](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/) { get; } | Gets the smart filters. |
 | [SmartObjectProvider](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartobjectprovider/) { get; } | Gets the smart object provider. |
-| [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | Gets or sets the top layer position. |
+| virtual [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | Gets or sets the top layer position. |
 | virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | Gets the image transparent color. |
 | virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | Gets or sets a value indicating whether to update the XMP metadata. |
 | virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | Gets a value indicating whether the image palette is used. |

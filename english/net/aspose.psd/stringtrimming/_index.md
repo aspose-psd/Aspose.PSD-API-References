@@ -3,7 +3,7 @@ title: Enum StringTrimming
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.StringTrimming enum. Specifies how to trim characters from a string that does not completely fit into a layout shape
 type: docs
-weight: 6060
+weight: 6070
 url: /net/aspose.psd/stringtrimming/
 ---
 {{< psd/tize >}}

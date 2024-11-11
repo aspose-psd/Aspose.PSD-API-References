@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/layer/left/
 Gets or sets the left layer position.
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
 ### Property Value

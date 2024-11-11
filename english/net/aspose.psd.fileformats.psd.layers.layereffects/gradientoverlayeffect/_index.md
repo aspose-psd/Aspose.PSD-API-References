@@ -3,7 +3,7 @@ title: Class GradientOverlayEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect class. Gradient Layer effect
 type: docs
-weight: 2270
+weight: 2280
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
 {{< psd/tize >}}

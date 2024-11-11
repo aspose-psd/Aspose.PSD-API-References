@@ -3,7 +3,7 @@ title: Class PlacedResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedResource class. Defines the PlacedResource class that contains common information about a placed layer or a smart object layer in the PSD file. Is is used to support smart object layers in the Adobe Photoshop images
 type: docs
-weight: 3190
+weight: 3200
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class MotionWienerFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.MotionWienerFilterOptions class. Deconvolution filter options deblur motion
 type: docs
-weight: 5080
+weight: 5090
 url: /net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/
 ---
 {{< psd/tize >}}

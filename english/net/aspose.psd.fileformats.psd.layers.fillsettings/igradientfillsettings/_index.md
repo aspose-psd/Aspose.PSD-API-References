@@ -3,7 +3,7 @@ title: Interface IGradientFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientFillSettings interface. Base interface for Gradient fill settings
 type: docs
-weight: 2110
+weight: 2120
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/
 ---
 {{< psd/tize >}}
@@ -24,7 +24,7 @@ public interface IGradientFillSettings : IFillSettings
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/color/) { get; set; } | Gets or sets the color. |
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/) { get; set; } | Gets the color points. |
 | [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this `IGradientFillSettings` is dither. |
-| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientmode/) { get; set; } | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientmode/) { get; } | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/) { get; set; } | Gets or sets the name of the gradient. |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset. |

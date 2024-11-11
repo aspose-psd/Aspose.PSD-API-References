@@ -3,7 +3,7 @@ title: Enum UnitTypes
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitTypes enum. The unit types
 type: docs
-weight: 3570
+weight: 3580
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/
 ---
 {{< psd/tize >}}
@@ -26,6 +26,7 @@ public enum UnitTypes
 | Percent | `592474723` | Percent unit. |
 | Pixels | `592476268` | Pixels unit. |
 | Points | `592473716` | Points unit. |
+| Millimeters | `592276589` | Millimeters unit. |
 
 ### See Also
 

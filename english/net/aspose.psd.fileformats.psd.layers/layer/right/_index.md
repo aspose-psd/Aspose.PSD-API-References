@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/layer/right/
 Gets or sets the right layer position.
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
 ### Property Value
