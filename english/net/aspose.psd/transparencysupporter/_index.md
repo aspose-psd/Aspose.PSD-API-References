@@ -3,7 +3,7 @@ title: Class TransparencySupporter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.TransparencySupporter class. The object supporting transparency
 type: docs
-weight: 6080
+weight: 6090
 url: /net/aspose.psd/transparencysupporter/
 ---
 {{< psd/tize >}}

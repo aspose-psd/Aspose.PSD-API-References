@@ -3,7 +3,7 @@ title: Class WarpSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Warp.WarpSettings class. Parameters of layer with warp
 type: docs
-weight: 3890
+weight: 3900
 url: /net/aspose.psd.fileformats.psd.layers.warp/warpsettings/
 ---
 {{< psd/tize >}}

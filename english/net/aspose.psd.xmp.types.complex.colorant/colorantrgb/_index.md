@@ -3,7 +3,7 @@ title: Class ColorantRgb
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantRgb class. Represents RGB Colorant
 type: docs
-weight: 6410
+weight: 6420
 url: /net/aspose.psd.xmp.types.complex.colorant/colorantrgb/
 ---
 {{< psd/tize >}}

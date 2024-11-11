@@ -3,7 +3,7 @@ title: Enum LineJoinType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. Line Join type
 type: docs
-weight: 3310
+weight: 3320
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
 {{< psd/tize >}}

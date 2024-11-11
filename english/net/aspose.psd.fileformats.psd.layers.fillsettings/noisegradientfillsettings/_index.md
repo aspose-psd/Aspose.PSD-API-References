@@ -3,7 +3,7 @@ title: Class NoiseGradientFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.NoiseGradientFillSettings class. Noise gradient definition class
 type: docs
-weight: 2140
+weight: 2150
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/
 ---
 {{< psd/tize >}}
@@ -33,7 +33,7 @@ public class NoiseGradientFillSettings : BaseGradientFillSettings
 | [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this [`BaseGradientFillSettings`](../basegradientfillsettings/) is dither. |
 | [ExpansionCount](../../aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/expansioncount/) { get; set; } | Expansion count ( = 2 for Photoshop 6.0). |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/filltype/) { get; } | The fill type. |
-| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientmode/) { get; set; } | Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientmode/) { get; } | Gets the mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientname/) { get; set; } | Gets or sets the name of the gradient. |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset in percentage. |

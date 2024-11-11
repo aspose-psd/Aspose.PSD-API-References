@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/layer/top/
 Gets or sets the top layer position.
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: Interface ISmartObjectLayerResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource interface. Defines the ISmartObjectLayerResource interface that contains information about a smart object layer resource in the PSD file. Is is also a markup interface used to designate both Sold and Sole resources in the Adobe Photoshop images
 type: docs
-weight: 2750
+weight: 2760
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class License
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.License class. Provides methods to license the component
 type: docs
-weight: 5410
+weight: 5420
 url: /net/aspose.psd/license/
 ---
 {{< psd/tize >}}

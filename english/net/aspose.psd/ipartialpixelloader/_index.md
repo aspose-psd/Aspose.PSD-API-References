@@ -3,7 +3,7 @@ title: Interface IPartialPixelLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IPartialPixelLoader interface. Conforms to the pixels loaded partially
 type: docs
-weight: 4880
+weight: 4890
 url: /net/aspose.psd/ipartialpixelloader/
 ---
 {{< psd/tize >}}

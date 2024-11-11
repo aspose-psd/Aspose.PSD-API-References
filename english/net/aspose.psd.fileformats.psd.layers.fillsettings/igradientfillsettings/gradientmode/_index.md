@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/g
 Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
 
 ```csharp
-public GradientKind GradientMode { get; set; }
+public GradientKind GradientMode { get; }
 ```
 
 ### See Also

@@ -1,7 +1,7 @@
 ---
 title: VscgResource.Items
 second_title: Aspose.PSD for .NET API Reference
-description: VscgResource property. Gets or sets the structure items
+description: VscgResource property. Gets or sets the array of structure items. Warning The Items array values must match with the KeyForData property which determines the type of fill settings stored in the structures within Items
 type: docs
 weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vscgresource/items/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vscgr
 {{< psd/tize >}}
 ## VscgResource.Items property
 
-Gets or sets the structure items.
+Gets or sets the array of structure items. **Warning:** The `Items` array values must match with the `KeyForData` property, which determines the type of fill settings stored in the structures within `Items`.
 
 ```csharp
 public OSTypeStructure[] Items { get; }
@@ -17,7 +17,7 @@ public OSTypeStructure[] Items { get; }
 
 ### Property Value
 
-The structure items.
+The array of [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) items.
 
 ## Examples
 

@@ -13,6 +13,7 @@ The namespace contains PSD file format layers.
 
 | Class | Description |
 | --- | --- |
+| [ArtboardLayer](./artboardlayer/) | The artboard layer class. |
 | [BlendRange](./blendrange/) | The blend range. |
 | [ChannelInformation](./channelinformation/) | The channel information. |
 | [GlobalLayerMaskInfo](./globallayermaskinfo/) | The global layer mask section. |

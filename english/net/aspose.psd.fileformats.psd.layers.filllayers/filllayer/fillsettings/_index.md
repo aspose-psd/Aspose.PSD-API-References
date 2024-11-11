@@ -1,7 +1,7 @@
 ---
 title: FillLayer.FillSettings
 second_title: Aspose.PSD for .NET API Reference
-description: FillLayer property. Gets the fill settings
+description: FillLayer property. Gets or sets the fill settings
 type: docs
 weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
@@ -9,10 +9,10 @@ url: /net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
 {{< psd/tize >}}
 ## FillLayer.FillSettings property
 
-Gets the fill settings.
+Gets or sets the fill settings.
 
 ```csharp
-public IFillSettings FillSettings { get; }
+public IFillSettings FillSettings { get; set; }
 ```
 
 ### Property Value
