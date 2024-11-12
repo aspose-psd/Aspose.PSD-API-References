@@ -3,7 +3,7 @@ title: Class ResourceRef
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.ResourceRef.ResourceRef class. Used to indicate prior versions originals of renditions originals for derived documents and so on
 type: docs
-weight: 6460
+weight: 6470
 url: /net/aspose.psd.xmp.types.complex.resourceref/resourceref/
 ---
 {{< psd/tize >}}

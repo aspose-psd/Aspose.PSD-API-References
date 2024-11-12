@@ -3,7 +3,7 @@ title: Enum ColorSpace
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.Enums.ColorSpace enum. The color space types
 type: docs
-weight: 4040
+weight: 4050
 url: /net/aspose.psd.fileformats.psd.resources.enums/colorspace/
 ---
 {{< psd/tize >}}

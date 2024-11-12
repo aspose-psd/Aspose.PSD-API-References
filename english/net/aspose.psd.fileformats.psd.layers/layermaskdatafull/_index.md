@@ -3,7 +3,7 @@ title: Class LayerMaskDataFull
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskDataFull class. Defines the LayerMaskDataFull class which contains information about the mask data in the PSD file layer when the layer has both layer and vector masks. Otherwise a LayerMaskDataShort is used. The ImageData contains the raster mask and the rasterized vector mask combined. The ImageData bytes length should be equal MaskRectangle.Width  MaskRectangle.Height properties
 type: docs
-weight: 2390
+weight: 2400
 url: /net/aspose.psd.fileformats.psd.layers/layermaskdatafull/
 ---
 {{< psd/tize >}}

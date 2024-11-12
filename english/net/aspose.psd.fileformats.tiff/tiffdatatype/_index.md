@@ -3,7 +3,7 @@ title: Class TiffDataType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.TiffDataType class. The tiff data type
 type: docs
-weight: 4560
+weight: 4570
 url: /net/aspose.psd.fileformats.tiff/tiffdatatype/
 ---
 {{< psd/tize >}}

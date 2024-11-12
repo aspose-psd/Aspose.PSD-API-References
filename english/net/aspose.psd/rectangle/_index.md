@@ -3,7 +3,7 @@ title: Struct Rectangle
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Rectangle struct. Stores a set of four integers that represent the location and size of a rectangle
 type: docs
-weight: 5710
+weight: 5720
 url: /net/aspose.psd/rectangle/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class ComplexTypeBase
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase class. Represents base abstraction for XMP Complex value type
 type: docs
-weight: 6420
+weight: 6430
 url: /net/aspose.psd.xmp.types.complex/complextypebase/
 ---
 {{< psd/tize >}}

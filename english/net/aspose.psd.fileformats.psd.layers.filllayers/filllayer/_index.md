@@ -3,7 +3,7 @@ title: Class FillLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillLayers.FillLayer class. Fill layer. Color Fill Gradient Fill or Pattern Fill Layer which differs by FillSettings
 type: docs
-weight: 2000
+weight: 2010
 url: /net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/
 ---
 {{< psd/tize >}}
@@ -26,7 +26,7 @@ public class FillLayer : Layer
 | [BlendingOptions](../../aspose.psd.fileformats.psd.layers/layer/blendingoptions/) { get; } | Gets the blending options. |
 | virtual [BlendModeKey](../../aspose.psd.fileformats.psd.layers/layer/blendmodekey/) { get; set; } | Gets or sets the blend mode key. |
 | [BlendModeSignature](../../aspose.psd.fileformats.psd.layers/layer/blendmodesignature/) { get; } | Gets the blend mode signature. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | Gets or sets the bottom layer position. |
+| virtual [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | Gets or sets the bottom layer position. |
 | [Bounds](../../aspose.psd/image/bounds/) { get; } | Gets the image bounds. |
 | [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [ChannelInformation](../../aspose.psd.fileformats.psd.layers/layer/channelinformation/) { get; set; } | Gets or sets the channel information. |
@@ -40,7 +40,7 @@ public class FillLayer : Layer
 | virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | Gets a value of file format |
 | [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | Gets or sets the layer filler. |
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | Gets or sets the fill opacity. |
-| [FillSettings](../../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) { get; } | Gets the fill settings. |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) { get; set; } | Gets or sets the fill settings. |
 | [FillType](../../aspose.psd.fileformats.psd.layers.filllayers/filllayer/filltype/) { get; } | Gets the type of the fill. |
 | [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | Gets or sets the layer flags. bit 0 = transparency protected; bit 1 = visible; bit 2 = obsolete; bit 3 = 1 for Photoshop 5.0 and later, tells if bit 4 has useful information; bit 4 = pixel data irrelevant to appearance of document. |
 | override [HasAlpha](../../aspose.psd.fileformats.psd.layers/layer/hasalpha/) { get; } | Gets a value indicating whether this instance has alpha. |
@@ -59,7 +59,7 @@ public class FillLayer : Layer
 | [LayerLock](../../aspose.psd.fileformats.psd.layers/layer/layerlock/) { get; set; } | Gets or sets the layer lock. Note that if flag LayerFlags.TransparencyProtected is set it will be overwritten by layer lock flag. To return LayerFlags.TransparencyProtected flag need to apply for layer option layer.Flags &#x7C;= LayerFlags.TransparencyProtected |
 | [LayerMaskData](../../aspose.psd.fileformats.psd.layers/layer/layermaskdata/) { get; set; } | Gets or sets the layer mask data. |
 | [LayerOptions](../../aspose.psd.fileformats.psd.layers/layer/layeroptions/) { get; } | Gets the layer options. |
-| [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | Gets or sets the left layer position. |
+| virtual [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | Gets or sets the left layer position. |
 | [Length](../../aspose.psd.fileformats.psd.layers/layer/length/) { get; } | Gets the overall layer length in bytes. |
 | [Name](../../aspose.psd.fileformats.psd.layers/layer/name/) { get; set; } | Gets or sets the layer name. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers/layer/opacity/) { get; set; } | Gets or sets the layer opacity. 0 = transparent, 255 = opaque. |
@@ -72,10 +72,10 @@ public class FillLayer : Layer
 | [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | Gets or sets the indexed color converter |
 | virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | Gets the raw line size in bytes. |
 | [Resources](../../aspose.psd.fileformats.psd.layers/layer/resources/) { get; set; } | Gets or sets the layer resources. |
-| [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | Gets or sets the right layer position. |
+| virtual [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | Gets or sets the right layer position. |
 | [SheetColorHighlight](../../aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/) { get; set; } | Gets or sets the decorative sheet color highlight in layers' list |
 | [Size](../../aspose.psd/image/size/) { get; } | Gets the image size. |
-| [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | Gets or sets the top layer position. |
+| virtual [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | Gets or sets the top layer position. |
 | virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | Gets the image transparent color. |
 | virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | Gets or sets a value indicating whether to update the XMP metadata. |
 | virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | Gets a value indicating whether the image palette is used. |
@@ -168,7 +168,7 @@ public class FillLayer : Layer
 | virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | Sets the resolution for this [`RasterImage`](../../aspose.psd/rasterimage/). |
 | [ShallowCopy](../../aspose.psd.fileformats.psd.layers/layer/shallowcopy/)() | Creates a shallow copy of the current Layer. Please [https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) for explanation. |
 | virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | Converts raster image to the bitmap. |
-| [Update](../../aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/)() | Updates Fill Layer Pixels Data according to actual [`IFillSettings`](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/). |
+| [Update](../../aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/)() | Updates the pixel data of the fill layer based on the current [`IFillSettings`](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/). |
 | [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | Writes the whole scan line to the specified scan line index. |
 | [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | Writes the whole scan line to the specified scan line index. |
 

@@ -1,7 +1,7 @@
 ---
 title: FillLayer.Update
 second_title: Aspose.PSD for .NET API Reference
-description: FillLayer method. Updates Fill Layer Pixels Data according to actual IFillSettings
+description: FillLayer method. Updates the pixel data of the fill layer based on the current IFillSettings
 type: docs
 weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 {{< psd/tize >}}
 ## FillLayer.Update method
 
-Updates Fill Layer Pixels Data according to actual [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/).
+Updates the pixel data of the fill layer based on the current [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/).
 
 ```csharp
 public void Update()
@@ -19,7 +19,7 @@ public void Update()
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | Unknown type of FillType |
+| ArgumentOutOfRangeException | Thrown when an unknown FillType is encountered. |
 
 ## Examples
 

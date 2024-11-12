@@ -3,7 +3,7 @@ title: Class ArcShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Shapes.ArcShape class. Represents an arc shape
 type: docs
-weight: 5830
+weight: 5840
 url: /net/aspose.psd.shapes/arcshape/
 ---
 {{< psd/tize >}}

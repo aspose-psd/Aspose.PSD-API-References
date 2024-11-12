@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/layer/bottom/
 Gets or sets the bottom layer position.
 
 ```csharp
-public int Bottom { get; set; }
+public virtual int Bottom { get; set; }
 ```
 
 ### Property Value

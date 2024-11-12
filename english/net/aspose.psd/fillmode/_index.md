@@ -3,7 +3,7 @@ title: Enum FillMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FillMode enum. Specifies how the interior of a closed path is filled
 type: docs
-weight: 4610
+weight: 4620
 url: /net/aspose.psd/fillmode/
 ---
 {{< psd/tize >}}

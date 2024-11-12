@@ -3,7 +3,7 @@ title: Class CurvesContinuousManager
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager class. Manager for Curves Adjustment Layer that manipulates curves
 type: docs
-weight: 2590
+weight: 2600
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
 {{< psd/tize >}}

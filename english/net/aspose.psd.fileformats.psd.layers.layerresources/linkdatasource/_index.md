@@ -3,7 +3,7 @@ title: Class LinkDataSource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSource class. Defines the LinkDataSource class that contains information about a linked file or an asset in the PSD file
 type: docs
-weight: 2900
+weight: 2910
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/
 ---
 {{< psd/tize >}}

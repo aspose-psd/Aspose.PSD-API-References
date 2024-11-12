@@ -3,7 +3,7 @@ title: Class ArtBResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ArtBResource class. The Artboard info data for Resources
 type: docs
-weight: 2460
+weight: 2470
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/artbresource/
 ---
 {{< psd/tize >}}
@@ -25,6 +25,8 @@ public sealed class ArtBResource : BaseArtboardInfoResource
 
 | Name | Description |
 | --- | --- |
+| [ArtboardBackgroundType](../../aspose.psd.fileformats.psd.layers.layerresources/artbresource/artboardbackgroundtype/) { get; set; } | Gets or sets the [`ArtboardBackgroundType`](./artboardbackgroundtype/) |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/artbresource/color/) { get; set; } | Gets or sets the [`Color`](./color/) |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/baseartboardinforesource/items/) { get; set; } | Gets or sets the [`OSTypeStructure`](../ostypestructure/) items. |
 | virtual [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/baseartboardinforesource/length/) { get; } |  |
