@@ -3,7 +3,7 @@ title: LayerHashCalculator
 second_title: Aspose.PSD for Java API Reference
 description: Hash Calculator for PSD Layers.
 type: docs
-weight: 19
+weight: 20
 url: /java/com.aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
 

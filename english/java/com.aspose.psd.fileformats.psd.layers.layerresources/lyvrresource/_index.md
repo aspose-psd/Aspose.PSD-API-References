@@ -40,7 +40,7 @@ The resource to represents photoshop version of Layer.
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLength()](#getLength--) |    |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
-| [getPsdVersion()](#getPsdVersion--) |    |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
 | [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [getVersion()](#getVersion--) | Gets ot sets the photoshop version of Layer. |
 | [hashCode()](#hashCode--) |  |
@@ -200,11 +200,11 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
-  
+Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 **Returns:**
 int

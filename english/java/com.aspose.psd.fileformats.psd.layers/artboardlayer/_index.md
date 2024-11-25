@@ -1,31 +1,19 @@
 ---
-title: Layer
+title: ArtboardLayer
 second_title: Aspose.PSD for Java API Reference
-description: The psd layer.
+description: The artboard layer class.
 type: docs
-weight: 16
-url: /java/com.aspose.psd.fileformats.psd.layers/layer/
+weight: 10
+url: /java/com.aspose.psd.fileformats.psd.layers/artboardlayer/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.psd.DisposableObject](../../com.aspose.psd/disposableobject), [com.aspose.psd.DataStreamSupporter](../../com.aspose.psd/datastreamsupporter), [com.aspose.psd.Image](../../com.aspose.psd/image), [com.aspose.psd.RasterImage](../../com.aspose.psd/rasterimage), [com.aspose.psd.RasterCachedImage](../../com.aspose.psd/rastercachedimage)
-
-**All Implemented Interfaces:**
-java.lang.Cloneable
+java.lang.Object, [com.aspose.psd.DisposableObject](../../com.aspose.psd/disposableobject), [com.aspose.psd.DataStreamSupporter](../../com.aspose.psd/datastreamsupporter), [com.aspose.psd.Image](../../com.aspose.psd/image), [com.aspose.psd.RasterImage](../../com.aspose.psd/rasterimage), [com.aspose.psd.RasterCachedImage](../../com.aspose.psd/rastercachedimage), [com.aspose.psd.fileformats.psd.layers.Layer](../../com.aspose.psd.fileformats.psd.layers/layer), [com.aspose.psd.fileformats.psd.layers.LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup)
 ```
-public class Layer extends RasterCachedImage implements Cloneable
+public final class ArtboardLayer extends LayerGroup
 ```
 
-The psd layer.
-## Constructors
-
-| Constructor | Description |
-| --- | --- |
-| [Layer()](#Layer--) | Initializes a new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class. |
-| [Layer(RasterImage image)](#Layer-com.aspose.psd.RasterImage-) |  |
-| [Layer(RasterImage image, boolean disposeImage)](#Layer-com.aspose.psd.RasterImage-boolean-) | Initializes a new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class. |
-| [Layer(InputStream stream)](#Layer-java.io.InputStream-) | Initializes a new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class. |
-| [Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, String name)](#Layer-com.aspose.psd.Rectangle-byte---byte---byte---java.lang.String-) | Initializes a new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class from byte arrays. |
+The artboard layer class.
 ## Fields
 
 | Field | Description |
@@ -42,6 +30,9 @@ The psd layer.
 | Method | Description |
 | --- | --- |
 | [<T>tryGetResource_internalized(Class<T> typeOfT, T[] resource)](#-T-tryGetResource-internalized-java.lang.Class-T--T---) | Gets the resource associated with the specified type. |
+| [addLayer(Layer layer)](#addLayer-com.aspose.psd.fileformats.psd.layers.Layer-) | Adds the layer to the layer group. |
+| [addLayer(Layer layer, int index)](#addLayer-com.aspose.psd.fileformats.psd.layers.Layer-int-) | Adds the layer to the layer group. |
+| [addLayerGroup(String groupName, int index)](#addLayerGroup-java.lang.String-int-) | Adds the layer group. |
 | [addLayerMask(LayerMaskData layerMask)](#addLayerMask-com.aspose.psd.fileformats.psd.layers.LayerMaskData-) | Adds the mask to current layer. |
 | [addResource_internalized(LayerResource resource)](#addResource-internalized-com.aspose.psd.fileformats.psd.layers.LayerResource-) | Adds the resource. |
 | [adjustBrightness(int brightness)](#adjustBrightness-int-) | Adjust of a brightness for image. |
@@ -54,6 +45,7 @@ The psd layer.
 | [binarizeBradley(double brightnessDifference, int windowSize)](#binarizeBradley-double-int-) | Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding |
 | [binarizeFixed(byte threshold)](#binarizeFixed-byte-) | Binarization of an image with predefined threshold |
 | [binarizeOtsu()](#binarizeOtsu--) | Binarization of an image with Otsu thresholding |
+| [buildGroupLayerMarkers_internalized(String groupName, PsdHeader psdHeader, IColorPalette colorPalette)](#buildGroupLayerMarkers-internalized-java.lang.String-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-) | Build the begin and end group markers. |
 | [cacheData()](#cacheData--) | Caches the data and ensures no additional data loading will be performed from the underlying  DataStreamSupporter.DataStreamContainer . |
 | [canLoad(InputStream stream)](#canLoad-java.io.InputStream-) | Determines whether image can be loaded from the specified stream. |
 | [canLoad(InputStream stream, LoadOptions loadOptions)](#canLoad-java.io.InputStream-com.aspose.psd.LoadOptions-) | Determines whether image can be loaded from the specified stream and optionally using the specified  loadOptions . |
@@ -70,6 +62,7 @@ The psd layer.
 | [createInstance_internalized(PsdHeader header, IColorPalette palette, LinkedLayersRegistry linkedLayersRegistry)](#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-com.aspose.internal.fileformats.psd.layers.LinkedLayersRegistry-) | Creates the new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class. |
 | [createLayerState_internalized()](#createLayerState-internalized--) | Creates the new [LayerState](../../com.aspose.psd.fileformats.psd.layers.animation/layerstate) instance based on current [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) values. |
 | [createPartialRotateSaver_internalized(PartialRotater resizer, IPixelsSaver pixelsSaver, int width, int height)](#createPartialRotateSaver-internalized-com.aspose.internal.rotaters.PartialRotater-com.aspose.internal.IPixelsSaver-int-int-) |  |
+| [create_internalized(PsdHeader header, IColorPalette palette)](#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-) |  |
 | [create_internalized(System.IO.Stream stream)](#create-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [crop(Rectangle rectangle)](#crop-com.aspose.psd.Rectangle-) | Cropping the image. |
 | [crop(int leftShift, int rightShift, int topShift, int bottomShift)](#crop-int-int-int-int-) | Crop image with shifts. |
@@ -91,13 +84,13 @@ The psd layer.
 | [getAbsoluteBounds_internalized()](#getAbsoluteBounds-internalized--) | Gets or sets the absolute bounds. |
 | [getArgb32Pixel(int x, int y)](#getArgb32Pixel-int-int-) | Gets an image 32-bit ARGB pixel. |
 | [getAutoAdjustPalette()](#getAutoAdjustPalette--) | Gets a value indicating whether automatic adjust palette. |
-| [getBackgroundColor()](#getBackgroundColor--) | Gets or sets a value for the background color. |
+| [getBackgroundColor()](#getBackgroundColor--) | Gets or sets the artboard background color. |
 | [getBitsPerPixel()](#getBitsPerPixel--) | Gets the image bits per pixel count. |
 | [getBlendClippedElements()](#getBlendClippedElements--) | Gets or sets the blending of clipped element. |
 | [getBlendModeKey()](#getBlendModeKey--) | Gets or sets the blend mode key. |
 | [getBlendModeSignature()](#getBlendModeSignature--) | Gets the blend mode signature. |
 | [getBlendingOptions()](#getBlendingOptions--) | Gets the blending options. |
-| [getBottom()](#getBottom--) | Gets or sets the bottom layer position. |
+| [getBottom()](#getBottom--) |    |
 | [getBounds()](#getBounds--) | Gets the image bounds. |
 | [getBufferSizeHint()](#getBufferSizeHint--) | Gets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [getBytesPerRowForFullMask_internalized(int bitDepth)](#getBytesPerRowForFullMask-internalized-int-) | Gets the bytes per row for full mask mode. |
@@ -131,7 +124,7 @@ The psd layer.
 | [getFormatSpecificPalette_internalized()](#getFormatSpecificPalette-internalized--) | Gets palette from format-specific places |
 | [getGUID_internalized()](#getGUID-internalized--) | Gets the unique identifier of this Layer instance. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
-| [getHeight()](#getHeight--) | Gets the image height. |
+| [getHeight()](#getHeight--) |    |
 | [getHorizontalResolution()](#getHorizontalResolution--) | Gets or sets the horizontal resolution, in pixels per inch, of this  RasterImage . |
 | [getImageOpacity()](#getImageOpacity--) | Gets opacity of this image. |
 | [getInnerDataTransformer_internalized()](#getInnerDataTransformer-internalized--) | Gets the inner data transformer. |
@@ -144,7 +137,9 @@ The psd layer.
 | [getLayerOptions()](#getLayerOptions--) | Gets the layer options. |
 | [getLayerPalette_internalized()](#getLayerPalette-internalized--) | Gets or sets the layer palette. |
 | [getLayerType_internalized()](#getLayerType-internalized--) | Gets the type of the layer. |
-| [getLeft()](#getLeft--) | Gets or sets the left layer position. |
+| [getLayers()](#getLayers--) | Gets the layers in layer group |
+| [getLayersBounds_internalized()](#getLayersBounds-internalized--) | Gets the ArtboardLayer true bounds. |
+| [getLeft()](#getLeft--) |    |
 | [getLength()](#getLength--) | Gets the overall layer length in bytes. |
 | [getMaxAllowedAllocationForPartialRotateSave_internalized()](#getMaxAllowedAllocationForPartialRotateSave-internalized--) | Gets or sets the max allowed allocation for partial rotate save. |
 | [getMemoryMgr_internalized()](#getMemoryMgr-internalized--) | Gets the memory manager. |
@@ -170,14 +165,15 @@ The psd layer.
 | [getRawIndexedColorConverter()](#getRawIndexedColorConverter--) | Gets or sets the indexed color converter |
 | [getRawLineSize()](#getRawLineSize--) | Gets the raw line size in bytes. |
 | [getResources()](#getResources--) | Gets or sets the layer resources. |
-| [getRight()](#getRight--) | Gets or sets the right layer position. |
+| [getRight()](#getRight--) |    |
 | [getRotateMode()](#getRotateMode--) | Gets or sets the rotate mode. |
+| [getSectionResource_internalized()](#getSectionResource-internalized--) | Gets the  LayerSectionResource  from resources. |
 | [getSheetColorHighlight()](#getSheetColorHighlight--) | Gets or sets the decorative sheet color highlight in layers' list |
 | [getSize()](#getSize--) | Gets the image size. |
 | [getSkewAngle()](#getSkewAngle--) | Gets the skew angle. |
 | [getSourceImagePath_internalized()](#getSourceImagePath-internalized--) | Gets the file path of source image if it's exist. |
 | [getSyncRoot_internalized()](#getSyncRoot-internalized--) | Gets the synchronize root. |
-| [getTop()](#getTop--) | Gets or sets the top layer position. |
+| [getTop()](#getTop--) |    |
 | [getTransparentColor()](#getTransparentColor--) | Gets the image transparent color. |
 | [getUpdateXmpData()](#getUpdateXmpData--) | Gets or sets a value indicating whether to update the XMP metadata. |
 | [getUseMemoryStrategy_internalized()](#getUseMemoryStrategy-internalized--) | Gets a value indicating whether object uses memory optimization strategy |
@@ -185,11 +181,11 @@ The psd layer.
 | [getUsedPalette_internalized()](#getUsedPalette-internalized--) | Gets the used palette. |
 | [getVentureLicense_internalized()](#getVentureLicense-internalized--) | Gets the venture license. |
 | [getVerticalResolution()](#getVerticalResolution--) | Gets or sets the vertical resolution, in pixels per inch, of this  RasterImage . |
-| [getWidth()](#getWidth--) | Gets the image width. |
+| [getWidth()](#getWidth--) |    |
 | [getXmpData()](#getXmpData--) | Gets or sets the XMP metadata. |
 | [grayscale()](#grayscale--) | Transformation of an image to its grayscale representation |
 | [hasAlpha()](#hasAlpha--) | Gets a value indicating whether this instance has alpha. |
-| [hasBackgroundColor()](#hasBackgroundColor--) | Gets a value indicating whether image has background color. |
+| [hasBackgroundColor()](#hasBackgroundColor--) | Gets or sets a value indicating whether [ArtboardLayer](../../com.aspose.psd.fileformats.psd.layers/artboardlayer) has the background color. |
 | [hasImageChanged_internalized()](#hasImageChanged-internalized--) | Gets or sets a value indicating whether this instance of image has changed after loading. |
 | [hasTransparentColor()](#hasTransparentColor--) | Gets a value indicating whether image has transparent color. |
 | [hashCode()](#hashCode--) | Returns a hash code for this instance. |
@@ -197,6 +193,7 @@ The psd layer.
 | [indicateProgress_internalized(EventType eventType)](#indicateProgress-internalized-com.aspose.psd.progressmanagement.EventType-) | Indicates the progress. |
 | [isCached()](#isCached--) | Gets a value indicating whether image data is cached currently. |
 | [isLayerValid_internalized()](#isLayerValid-internalized--) | Detects if layer is valid for saving to a file. |
+| [isOpen()](#isOpen--) | Gets or sets is folder opened if set to  true  than group will be in open state on start up, otherwise in minimized state. |
 | [isRawDataAvailable()](#isRawDataAvailable--) | Gets a value indicating whether raw data loading is available. |
 | [isUsePalette()](#isUsePalette--) | Gets a value indicating whether the image palette is used. |
 | [isVisible()](#isVisible--) | Gets or sets a value indicating whether the layer is visible |
@@ -226,7 +223,8 @@ The psd layer.
 | [normalizeAngle(boolean resizeProportionally, Color backgroundColor)](#normalizeAngle-boolean-com.aspose.psd.Color-) | Normalizes the angle. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [onContainerSet_internalized()](#onContainerSet-internalized--) | Invoke when container of this  Image  was set. |
+| [onContainerSet_internalized()](#onContainerSet-internalized--) |    |
+| [onResourcesChange_internalized()](#onResourcesChange-internalized--) |  |
 | [readArgb32ScanLine(int scanLineIndex)](#readArgb32ScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [readScanLine(int scanLineIndex)](#readScanLine-int-) | Reads the whole scan line by the specified scan line index. |
 | [removeResource_internalized(LayerResource resource)](#removeResource-internalized-com.aspose.psd.fileformats.psd.layers.LayerResource-) | Removes the resource. |
@@ -272,10 +270,10 @@ The psd layer.
 | [setArgb32Pixel(int x, int y, int argb32Color)](#setArgb32Pixel-int-int-int-) | Sets an image 32-bit ARGB pixel for the specified position. |
 | [setAutoAdjustPalette(boolean value)](#setAutoAdjustPalette-boolean-) | Sets a value indicating whether automatic adjust palette. |
 | [setBackgroundColor(boolean value)](#setBackgroundColor-boolean-) | Gets or sets a value indicating whether image has background color. |
-| [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.psd.Color-) | Gets or sets a value for the background color. |
+| [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.psd.Color-) | Gets or sets the artboard background color. |
 | [setBlendClippedElements(boolean value)](#setBlendClippedElements-boolean-) | Gets or sets the blending of clipped element. |
 | [setBlendModeKey(long value)](#setBlendModeKey-long-) | Gets or sets the blend mode key. |
-| [setBottom(int value)](#setBottom-int-) | Gets or sets the bottom layer position. |
+| [setBottom(int value)](#setBottom-int-) |    |
 | [setBufferSizeHint(int value)](#setBufferSizeHint-int-) | Sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [setChannelInformation(ChannelInformation[] value)](#setChannelInformation-com.aspose.psd.fileformats.psd.layers.ChannelInformation---) | Gets or sets the channel information. |
 | [setClipping(byte value)](#setClipping-byte-) | Gets or sets the layer clipping. |
@@ -299,12 +297,13 @@ The psd layer.
 | [setLayerLock(int value)](#setLayerLock-int-) | Gets or sets the layer lock (Note that if flag LayerFlags.TransparencyProtected is set it will be overritten by layer lock flag. |
 | [setLayerMaskData(LayerMaskData value)](#setLayerMaskData-com.aspose.psd.fileformats.psd.layers.LayerMaskData-) | Gets or sets the layer mask data. |
 | [setLayerPalette_internalized(IColorPalette value)](#setLayerPalette-internalized-com.aspose.psd.IColorPalette-) | Gets or sets the layer palette. |
-| [setLeft(int value)](#setLeft-int-) | Gets or sets the left layer position. |
+| [setLeft(int value)](#setLeft-int-) |    |
 | [setMaxAllowedAllocationForPartialRotateSave_internalized(int value)](#setMaxAllowedAllocationForPartialRotateSave-internalized-int-) | Gets or sets the max allowed allocation for partial rotate save. |
 | [setMemoryManager_internalized(MemMgr memoryManager, boolean needDispose)](#setMemoryManager-internalized-com.aspose.internal.memorymanagement.MemMgr-boolean-) | Sets the memory manager. |
 | [setName(String name)](#setName-java.lang.String-) | Sets the layer name. |
 | [setName_internalized(String value)](#setName-internalized-java.lang.String-) | Gets or sets the layer name. |
 | [setOpacity(byte value)](#setOpacity-byte-) | Gets or sets the layer opacity. |
+| [setOpen(boolean value)](#setOpen-boolean-) | Gets or sets is folder opened if set to  true  than group will be in open state on start up, otherwise in minimized state. |
 | [setPalette(IColorPalette value)](#setPalette-com.aspose.psd.IColorPalette-) | Sets the color palette. |
 | [setPalette(IColorPalette palette, boolean updateColors)](#setPalette-com.aspose.psd.IColorPalette-boolean-) | Sets the image palette. |
 | [setPixel(int x, int y, Color color)](#setPixel-int-int-com.aspose.psd.Color-) | Sets an image pixel for the specified position. |
@@ -314,10 +313,10 @@ The psd layer.
 | [setRawIndexedColorConverter(IIndexedColorConverter value)](#setRawIndexedColorConverter-com.aspose.psd.IIndexedColorConverter-) | Gets or sets the indexed color converter |
 | [setResolution(double dpiX, double dpiY)](#setResolution-double-double-) | Sets the resolution for this  RasterImage . |
 | [setResources(LayerResource[] value)](#setResources-com.aspose.psd.fileformats.psd.layers.LayerResource---) | Gets or sets the layer resources. |
-| [setRight(int value)](#setRight-int-) | Gets or sets the right layer position. |
+| [setRight(int value)](#setRight-int-) |    |
 | [setRotateMode_internalized(int value)](#setRotateMode-internalized-int-) | Gets or sets the rotate mode. |
 | [setSheetColorHighlight(short value)](#setSheetColorHighlight-short-) | Gets or sets the decorative sheet color highlight in layers' list |
-| [setTop(int value)](#setTop-int-) | Gets or sets the top layer position. |
+| [setTop(int value)](#setTop-int-) |    |
 | [setTransparentColor(boolean value)](#setTransparentColor-boolean-) | Gets a value indicating whether image has transparent color. |
 | [setTransparentColor(Color value)](#setTransparentColor-com.aspose.psd.Color-) | Gets the image transparent color. |
 | [setUpdateXmpData(boolean value)](#setUpdateXmpData-boolean-) | Gets or sets a value indicating whether to update the XMP metadata. |
@@ -336,69 +335,6 @@ The psd layer.
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
 | [writeArgb32ScanLine(int scanLineIndex, int[] argb32Pixels)](#writeArgb32ScanLine-int-int---) | Writes the whole scan line to the specified scan line index. |
 | [writeScanLine(int scanLineIndex, Color[] pixels)](#writeScanLine-int-com.aspose.psd.Color---) | Writes the whole scan line to the specified scan line index. |
-### Layer() {#Layer--}
-```
-public Layer()
-```
-
-
-Initializes a new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class. Constructor for lazy initialization.
-
-### Layer(RasterImage image) {#Layer-com.aspose.psd.RasterImage-}
-```
-public Layer(RasterImage image)
-```
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | [RasterImage](../../com.aspose.psd/rasterimage) |  |
-
-### Layer(RasterImage image, boolean disposeImage) {#Layer-com.aspose.psd.RasterImage-boolean-}
-```
-public Layer(RasterImage image, boolean disposeImage)
-```
-
-
-Initializes a new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | [RasterImage](../../com.aspose.psd/rasterimage) | The image. |
-| disposeImage | boolean | if set to  true  [dispose image]. |
-
-### Layer(InputStream stream) {#Layer-java.io.InputStream-}
-```
-public Layer(InputStream stream)
-```
-
-
-Initializes a new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | java.io.InputStream | The image stream |
-
-### Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, String name) {#Layer-com.aspose.psd.Rectangle-byte---byte---byte---java.lang.String-}
-```
-public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, String name)
-```
-
-
-Initializes a new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class from byte arrays.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bounds | [Rectangle](../../com.aspose.psd/rectangle) | The layer bounds. |
-| redBytes | byte[] | The red bytes. |
-| greenBytes | byte[] | The green bytes. |
-| blueBytes | byte[] | The blue bytes. |
-| name | java.lang.String | The layer name. |
-
 ### BlendSignature {#BlendSignature}
 ```
 public static final int BlendSignature
@@ -473,6 +409,49 @@ Gets the resource associated with the specified type.
 
 **Returns:**
 boolean -   if contains an resource with the specified type; otherwise,  .
+### addLayer(Layer layer) {#addLayer-com.aspose.psd.fileformats.psd.layers.Layer-}
+```
+public final void addLayer(Layer layer)
+```
+
+
+Adds the layer to the layer group.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| layer | [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) | The layer. |
+
+### addLayer(Layer layer, int index) {#addLayer-com.aspose.psd.fileformats.psd.layers.Layer-int-}
+```
+public final void addLayer(Layer layer, int index)
+```
+
+
+Adds the layer to the layer group.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| layer | [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) | The layer. |
+| index | int | The index at which the layer will be inserted. Invalid values mean the end of the layers list. |
+
+### addLayerGroup(String groupName, int index) {#addLayerGroup-java.lang.String-int-}
+```
+public final LayerGroup addLayerGroup(String groupName, int index)
+```
+
+
+Adds the layer group.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| groupName | java.lang.String | Name of the group. |
+| index | int | The index of the layer to insert after. |
+
+**Returns:**
+[LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup) - Opening group layer
 ### addLayerMask(LayerMaskData layerMask) {#addLayerMask-com.aspose.psd.fileformats.psd.layers.LayerMaskData-}
 ```
 public final void addLayerMask(LayerMaskData layerMask)
@@ -630,6 +609,23 @@ public void binarizeOtsu()
 
 Binarization of an image with Otsu thresholding
 
+### buildGroupLayerMarkers_internalized(String groupName, PsdHeader psdHeader, IColorPalette colorPalette) {#buildGroupLayerMarkers-internalized-java.lang.String-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-}
+```
+public static Layer[] buildGroupLayerMarkers_internalized(String groupName, PsdHeader psdHeader, IColorPalette colorPalette)
+```
+
+
+Build the begin and end group markers.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| groupName | java.lang.String | Name of the group. |
+| psdHeader | com.aspose.internal.fileformats.psd.sections.PsdHeader | The psd header. |
+| colorPalette | [IColorPalette](../../com.aspose.psd/icolorpalette) | The color palette. |
+
+**Returns:**
+com.aspose.psd.fileformats.psd.layers.Layer[] - Returns an array of two LayerGroup objects, where the first [0] is the begin group marker and the second [1] is the end group marker.
 ### cacheData() {#cacheData--}
 ```
 public void cacheData()
@@ -864,6 +860,22 @@ public static IPartialProcessor createPartialRotateSaver_internalized(PartialRot
 
 **Returns:**
 com.aspose.internal.IPartialProcessor
+### create_internalized(PsdHeader header, IColorPalette palette) {#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-}
+```
+public static ArtboardLayer create_internalized(PsdHeader header, IColorPalette palette)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| header | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
+| palette | [IColorPalette](../../com.aspose.psd/icolorpalette) |  |
+
+**Returns:**
+[ArtboardLayer](../../com.aspose.psd.fileformats.psd.layers/artboardlayer)
 ### create_internalized(System.IO.Stream stream) {#create-internalized-com.aspose.ms.System.IO.Stream-}
 ```
 public static Layer create_internalized(System.IO.Stream stream)
@@ -1156,7 +1168,7 @@ public Color getBackgroundColor()
 ```
 
 
-Gets or sets a value for the background color.
+Gets or sets the artboard background color.
 
 **Returns:**
 [Color](../../com.aspose.psd/color)
@@ -1226,9 +1238,7 @@ public int getBottom()
 ```
 
 
-Gets or sets the bottom layer position.
-
-Value: The bottom layer position.
+  
 
 **Returns:**
 int
@@ -1668,9 +1678,7 @@ public int getHeight()
 ```
 
 
-Gets the image height.
-
-Value: The image height.
+  
 
 **Returns:**
 int
@@ -1812,15 +1820,33 @@ Value: The type of the layer.
 
 **Returns:**
 byte
+### getLayers() {#getLayers--}
+```
+public final Layer[] getLayers()
+```
+
+
+Gets the layers in layer group
+
+**Returns:**
+com.aspose.psd.fileformats.psd.layers.Layer[]
+### getLayersBounds_internalized() {#getLayersBounds-internalized--}
+```
+public Rectangle getLayersBounds_internalized()
+```
+
+
+Gets the ArtboardLayer true bounds.
+
+**Returns:**
+[Rectangle](../../com.aspose.psd/rectangle) - The ArtboardLayer true bounds.
 ### getLeft() {#getLeft--}
 ```
 public int getLeft()
 ```
 
 
-Gets or sets the left layer position.
-
-Value: The left layer position.
+  
 
 **Returns:**
 int
@@ -2127,9 +2153,7 @@ public int getRight()
 ```
 
 
-Gets or sets the right layer position.
-
-Value: The right layer position.
+  
 
 **Returns:**
 int
@@ -2143,6 +2167,16 @@ Gets or sets the rotate mode.
 
 **Returns:**
 int - The rotate mode.
+### getSectionResource_internalized() {#getSectionResource-internalized--}
+```
+public LayerSectionResource getSectionResource_internalized()
+```
+
+
+Gets the  LayerSectionResource  from resources.
+
+**Returns:**
+[LayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/layersectionresource) - Returns the  LayerSectionResource  from resources.
 ### getSheetColorHighlight() {#getSheetColorHighlight--}
 ```
 public final short getSheetColorHighlight()
@@ -2203,9 +2237,7 @@ public int getTop()
 ```
 
 
-Gets or sets the top layer position.
-
-Value: The top layer position.
+  
 
 **Returns:**
 int
@@ -2289,9 +2321,7 @@ public int getWidth()
 ```
 
 
-Gets the image width.
-
-Value: The image width.
+  
 
 **Returns:**
 int
@@ -2331,7 +2361,7 @@ public boolean hasBackgroundColor()
 ```
 
 
-Gets a value indicating whether image has background color.
+Gets or sets a value indicating whether [ArtboardLayer](../../com.aspose.psd.fileformats.psd.layers/artboardlayer) has the background color.
 
 **Returns:**
 boolean
@@ -2413,6 +2443,16 @@ Detects if layer is valid for saving to a file.
 
 **Returns:**
 boolean - 
+### isOpen() {#isOpen--}
+```
+public final boolean isOpen()
+```
+
+
+Gets or sets is folder opened if set to  true  than group will be in open state on start up, otherwise in minimized state.
+
+**Returns:**
+boolean
 ### isRawDataAvailable() {#isRawDataAvailable--}
 ```
 public boolean isRawDataAvailable()
@@ -2822,7 +2862,15 @@ public void onContainerSet_internalized()
 ```
 
 
-Invoke when container of this  Image  was set.
+  
+
+### onResourcesChange_internalized() {#onResourcesChange-internalized--}
+```
+public void onResourcesChange_internalized()
+```
+
+
+
 
 ### readArgb32ScanLine(int scanLineIndex) {#readArgb32ScanLine-int-}
 ```
@@ -3456,7 +3504,7 @@ public void setBackgroundColor(Color value)
 ```
 
 
-Gets or sets a value for the background color.
+Gets or sets the artboard background color.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -3499,9 +3547,7 @@ public void setBottom(int value)
 ```
 
 
-Gets or sets the bottom layer position.
-
-Value: The bottom layer position.
+  
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -3843,9 +3889,7 @@ public void setLeft(int value)
 ```
 
 
-Gets or sets the left layer position.
-
-Value: The left layer position.
+  
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -3921,6 +3965,19 @@ Value: The layer opacity.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | byte |  |
+
+### setOpen(boolean value) {#setOpen-boolean-}
+```
+public final void setOpen(boolean value)
+```
+
+
+Gets or sets is folder opened if set to  true  than group will be in open state on start up, otherwise in minimized state.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setPalette(IColorPalette value) {#setPalette-com.aspose.psd.IColorPalette-}
 ```
@@ -4051,9 +4108,7 @@ public void setRight(int value)
 ```
 
 
-Gets or sets the right layer position.
-
-Value: The right layer position.
+  
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -4094,9 +4149,7 @@ public void setTop(int value)
 ```
 
 
-Gets or sets the top layer position.
-
-Value: The top layer position.
+  
 
 **Parameters:**
 | Parameter | Type | Description |

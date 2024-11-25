@@ -3,7 +3,7 @@ title: BlendMode
 second_title: Aspose.PSD for Java API Reference
 description: The layer blend mode.
 type: docs
-weight: 10
+weight: 11
 url: /java/com.aspose.psd.fileformats.psd.layers/blendmode/
 ---
 

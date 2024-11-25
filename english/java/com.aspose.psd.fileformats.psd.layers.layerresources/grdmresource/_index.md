@@ -18,7 +18,8 @@ Class GrdmResource. Contains information about Gradient-Map layer.
 
 | Constructor | Description |
 | --- | --- |
-| [GrdmResource()](#GrdmResource--) | Initializes a new instance of the [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) class. |
+| [GrdmResource()](#GrdmResource--) |  |
+| [GrdmResource(int psdVersion)](#GrdmResource-int-) | Initializes a new instance of the [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) class. |
 ## Fields
 
 | Field | Description |
@@ -79,7 +80,6 @@ Class GrdmResource. Contains information about Gradient-Map layer.
 | [setInterpolation(short value)](#setInterpolation-short-) | Interpolation. |
 | [setMaximumColor(RawColor value)](#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Maximum color of PixelDataFormat.Rgba64Bpp format. |
 | [setMinimumColor(RawColor value)](#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Minimum color of PixelDataFormat.Rgba64Bpp format. |
-| [setPsdVersion(int value)](#setPsdVersion-int-) | Sets the minimal psd version required for layer resource. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Is gradient reversed. |
 | [setRndNumberSeed(int value)](#setRndNumberSeed-int-) | The random number seed used to generate colors for Noise gradient. |
 | [setRoughness(int value)](#setRoughness-int-) | Roughness factor When 'Gradient type' = 'Noise', we can assign 'Roughness' (0 - 2048). |
@@ -96,7 +96,18 @@ public GrdmResource()
 ```
 
 
+### GrdmResource(int psdVersion) {#GrdmResource-int-}
+```
+public GrdmResource(int psdVersion)
+```
+
+
 Initializes a new instance of the [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| psdVersion | int | The psd version of resource. |
 
 ### DefaultScale_internalized {#DefaultScale-internalized}
 ```
@@ -355,7 +366,7 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
@@ -677,19 +688,6 @@ Minimum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) |  |
-
-### setPsdVersion(int value) {#setPsdVersion-int-}
-```
-public final void setPsdVersion(int value)
-```
-
-
-Sets the minimal psd version required for layer resource. 0 indicates no restrictions.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | Psdversion value |
 
 ### setReverse(boolean value) {#setReverse-boolean-}
 ```

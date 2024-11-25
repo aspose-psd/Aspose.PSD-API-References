@@ -3,7 +3,7 @@ title: BlendRange
 second_title: Aspose.PSD for Java API Reference
 description: The blend range.
 type: docs
-weight: 11
+weight: 12
 url: /java/com.aspose.psd.fileformats.psd.layers/blendrange/
 ---
 

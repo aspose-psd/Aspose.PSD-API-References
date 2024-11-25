@@ -3,7 +3,7 @@ title: LayerResourcesRegistry
 second_title: Aspose.PSD for Java API Reference
 description: Represents the layer resources registry.
 type: docs
-weight: 25
+weight: 26
 url: /java/com.aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
 

@@ -3,7 +3,7 @@ title: FillLayer
 second_title: Aspose.PSD for Java API Reference
 description: Fill layer.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.psd.fileformats.psd.layers/filllayer/
 ---
 
@@ -325,7 +325,7 @@ Fill layer. Color Fill, Gradient Fill or Pattern Fill Layer which differs by  Fi
 | [toBitmap()](#toBitmap--) | Converts raster image to the bitmap. |
 | [toBitmap_internalized()](#toBitmap-internalized--) |  |
 | [toString()](#toString--) |  |
-| [update()](#update--) | Updates Fill Layer Pixels Data according to actual [IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings). |
+| [update()](#update--) | Updates the pixel data of the fill layer based on the current [IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings). |
 | [updateBlendingOptions_internalized(PattResource pattResource)](#updateBlendingOptions-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-) | Updates the blending options after layer or global resources change. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -1186,7 +1186,7 @@ Value: The blending options.
 [BlendingOptions](../../com.aspose.psd.fileformats.psd.layers.layereffects/blendingoptions)
 ### getBottom() {#getBottom--}
 ```
-public final int getBottom()
+public int getBottom()
 ```
 
 
@@ -1802,7 +1802,7 @@ Value: The type of the layer.
 byte
 ### getLeft() {#getLeft--}
 ```
-public final int getLeft()
+public int getLeft()
 ```
 
 
@@ -2111,7 +2111,7 @@ Value: The layer resources.
 com.aspose.psd.fileformats.psd.layers.LayerResource[]
 ### getRight() {#getRight--}
 ```
-public final int getRight()
+public int getRight()
 ```
 
 
@@ -2187,7 +2187,7 @@ Value: The synchronize root.
 java.lang.Object
 ### getTop() {#getTop--}
 ```
-public final int getTop()
+public int getTop()
 ```
 
 
@@ -3505,7 +3505,7 @@ Value: The blend mode key.
 
 ### setBottom(int value) {#setBottom-int-}
 ```
-public final void setBottom(int value)
+public void setBottom(int value)
 ```
 
 
@@ -3864,7 +3864,7 @@ Value: The layer palette.
 
 ### setLeft(int value) {#setLeft-int-}
 ```
-public final void setLeft(int value)
+public void setLeft(int value)
 ```
 
 
@@ -4072,7 +4072,7 @@ Value: The layer resources.
 
 ### setRight(int value) {#setRight-int-}
 ```
-public final void setRight(int value)
+public void setRight(int value)
 ```
 
 
@@ -4115,7 +4115,7 @@ Value: The sheet color highlight.
 
 ### setTop(int value) {#setTop-int-}
 ```
-public final void setTop(int value)
+public void setTop(int value)
 ```
 
 
@@ -4282,7 +4282,7 @@ public final void update()
 ```
 
 
-Updates Fill Layer Pixels Data according to actual [IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings).
+Updates the pixel data of the fill layer based on the current [IFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings).
 
 ### updateBlendingOptions_internalized(PattResource pattResource) {#updateBlendingOptions-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-}
 ```

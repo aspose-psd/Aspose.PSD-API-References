@@ -74,7 +74,7 @@ Defines the PlLdResource class that contains information about a placed layer in
 | [getHorizontalMeshPointUnit()](#getHorizontalMeshPointUnit--) | Gets or sets the measure unit of the horizontal mesh points. |
 | [getHorizontalMeshPoints()](#getHorizontalMeshPoints--) | Gets or sets the horizontal mesh points of the placed layer in the PSD file. |
 | [getItems()](#getItems--) | Gets or sets the warp items. |
-| [getKey()](#getKey--) | Gets the PlLd resource key. |
+| [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLeft()](#getLeft--) | Gets or sets the left location of the placed layer in the PSD file. |
 | [getLength()](#getLength--) | Gets the PlLd resource length in bytes. |
 | [getPageNumber()](#getPageNumber--) | Gets or sets the page number of the placed layer in the PSD file. |
@@ -82,9 +82,9 @@ Defines the PlLdResource class that contains information about a placed layer in
 | [getPerspectiveOther()](#getPerspectiveOther--) | Gets or sets the perspective other value of the placed layer in the PSD file. |
 | [getPlacedLayerType()](#getPlacedLayerType--) | Gets or sets the type of the placed layer in the PSD file. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
-| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for the PlLd resource. |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
 | [getRight()](#getRight--) | Gets or sets the right location of the placed layer in the PSD file. |
-| [getSignature()](#getSignature--) | Gets the PlLd resource signature. |
+| [getSignature()](#getSignature--) | Gets the Placed resource signature. |
 | [getTop()](#getTop--) | Gets or sets the top location of the placed layer in the PSD image. |
 | [getTotalPages()](#getTotalPages--) | Gets or sets the total pages of the placed layer in the PSD file. |
 | [getTransformMatrix()](#getTransformMatrix--) | Gets or sets the transform matrix of the placed layer in the PSD file. |
@@ -608,7 +608,7 @@ public int getKey()
 ```
 
 
-Gets the PlLd resource key.
+Gets the layer resource key.
 
 **Returns:**
 int
@@ -699,11 +699,11 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
-Gets the minimal psd version required for the PlLd resource. 0 indicates no restrictions.
+Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 **Returns:**
 int
@@ -725,7 +725,7 @@ public int getSignature()
 ```
 
 
-Gets the PlLd resource signature.
+Gets the Placed resource signature.
 
 **Returns:**
 int

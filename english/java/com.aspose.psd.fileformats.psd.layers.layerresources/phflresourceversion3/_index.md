@@ -48,9 +48,9 @@ Class PhflResource. Resource of Exposure Adjustment Layer 2 Version ( = 3 ) or (
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
 | [getPreserveLuminosity()](#getPreserveLuminosity--) | Gets or sets a value indicating whether [preserve luminosity]. |
-| [getPsdVersion()](#getPsdVersion--) | Gets the psd version. |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
 | [getRgbColor()](#getRgbColor--) | Gets the color. |
-| [getSignature()](#getSignature--) | Gets the signature. |
+| [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [getVersion()](#getVersion--) | Gets the version. |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
@@ -313,11 +313,11 @@ Value:  true  if [preserve luminosity]; otherwise,  false .
 boolean
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
-Gets the psd version.
+Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 **Returns:**
 int
@@ -337,7 +337,7 @@ public int getSignature()
 ```
 
 
-Gets the signature.
+Gets the layer resource signature.
 
 **Returns:**
 int

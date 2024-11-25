@@ -18,6 +18,7 @@ Class PtFlResource. Contains Pattern Fill Layer Data.
 
 | Constructor | Description |
 | --- | --- |
+| [PtFlResource()](#PtFlResource--) | Initializes a new instance of the [PtFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/ptflresource) class. |
 | [PtFlResource(String patternName, String patternId)](#PtFlResource-java.lang.String-java.lang.String-) | Initializes a new instance of the [PtFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/ptflresource) class. |
 ## Fields
 
@@ -70,6 +71,14 @@ Class PtFlResource. Contains Pattern Fill Layer Data.
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### PtFlResource() {#PtFlResource--}
+```
+public PtFlResource()
+```
+
+
+Initializes a new instance of the [PtFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/ptflresource) class.
+
 ### PtFlResource(String patternName, String patternId) {#PtFlResource-java.lang.String-java.lang.String-}
 ```
 public PtFlResource(String patternName, String patternId)
@@ -279,7 +288,7 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 

@@ -3,7 +3,7 @@ title: ChannelInformation
 second_title: Aspose.PSD for Java API Reference
 description: The channel information.
 type: docs
-weight: 12
+weight: 13
 url: /java/com.aspose.psd.fileformats.psd.layers/channelinformation/
 ---
 
