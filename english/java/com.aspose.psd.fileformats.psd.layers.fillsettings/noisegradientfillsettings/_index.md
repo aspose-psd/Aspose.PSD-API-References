@@ -63,7 +63,7 @@ Noise gradient definition class.
 | [setColorModel(short value)](#setColorModel-short-) | Color Model - RGB/HSB/LAB (3/4/6). |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
 | [setExpansionCount(short value)](#setExpansionCount-short-) | Expansion count ( = 2 for Photoshop 6.0). |
-| [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient. |
+| [setGradientMode_internalized(int value)](#setGradientMode-internalized-int-) | Mode for this gradient. |
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
@@ -493,9 +493,9 @@ Expansion count ( = 2 for Photoshop 6.0).
 | --- | --- | --- |
 | value | short |  |
 
-### setGradientMode(int value) {#setGradientMode-int-}
+### setGradientMode_internalized(int value) {#setGradientMode-internalized-int-}
 ```
-public final void setGradientMode(int value)
+public final void setGradientMode_internalized(int value)
 ```
 
 

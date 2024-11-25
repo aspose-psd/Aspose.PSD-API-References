@@ -30,7 +30,6 @@ Base interface for Gradient fill settings.
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [IGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) is dither. |
-| [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [IGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) is reverse. |
@@ -186,19 +185,6 @@ Value:  true  if dither; otherwise,  false .
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
-
-### setGradientMode(int value) {#setGradientMode-int-}
-```
-public abstract void setGradientMode(int value)
-```
-
-
-Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int |  |
 
 ### setGradientType(int value) {#setGradientType-int-}
 ```

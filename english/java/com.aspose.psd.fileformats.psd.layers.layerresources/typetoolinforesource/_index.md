@@ -18,7 +18,7 @@ The type tool information. For PSD version lower than 6.0.
 
 | Constructor | Description |
 | --- | --- |
-| [TypeToolInfoResource()](#TypeToolInfoResource--) |  |
+| [TypeToolInfoResource()](#TypeToolInfoResource--) | Initializes a new instance of the [TypeToolInfoResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource) class. |
 ## Fields
 
 | Field | Description |
@@ -27,7 +27,7 @@ The type tool information. For PSD version lower than 6.0.
 | [PsbResourceSignature](#PsbResourceSignature) | The PSB-specific resource signature. |
 | [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | The PSD header version |
 | [ResourceSignature](#ResourceSignature) | The common resource signature. |
-| [TypeToolKey_internalized](#TypeToolKey-internalized) | The type tool info key. |
+| [TypeToolKey](#TypeToolKey) | The type tool info key. |
 | [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
@@ -101,6 +101,8 @@ public TypeToolInfoResource()
 ```
 
 
+Initializes a new instance of the [TypeToolInfoResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource) class.
+
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
 public static final int PsbHeaderVersion_internalized
@@ -133,9 +135,9 @@ public static final int ResourceSignature
 
 The common resource signature.
 
-### TypeToolKey_internalized {#TypeToolKey-internalized}
+### TypeToolKey {#TypeToolKey}
 ```
-public static final int TypeToolKey_internalized
+public static final int TypeToolKey
 ```
 
 
@@ -366,7 +368,7 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 

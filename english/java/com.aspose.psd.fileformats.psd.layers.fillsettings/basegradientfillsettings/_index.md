@@ -55,7 +55,7 @@ Base gradient definition class. It contains common properties for both types of 
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
 | [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the color. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
-| [setGradientMode(int value)](#setGradientMode-int-) | Mode for this gradient. |
+| [setGradientMode_internalized(int value)](#setGradientMode-internalized-int-) | Mode for this gradient. |
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
@@ -356,9 +356,9 @@ Value:  true  if dither; otherwise,  false .
 | --- | --- | --- |
 | value | boolean |  |
 
-### setGradientMode(int value) {#setGradientMode-int-}
+### setGradientMode_internalized(int value) {#setGradientMode-internalized-int-}
 ```
-public final void setGradientMode(int value)
+public final void setGradientMode_internalized(int value)
 ```
 
 

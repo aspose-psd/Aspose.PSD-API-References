@@ -46,11 +46,11 @@ Defines the LnkeResource class that contains information about external linked f
 | [getDataSourceCount()](#getDataSourceCount--) | Gets the count of link data sources which can be accessed by the indexer. |
 | [getDataSources_internalized()](#getDataSources-internalized--) | Gets the data sources LinkDataSource[] array. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
-| [getKey()](#getKey--) | Gets the Adobe® Photoshop® global resource key. |
+| [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLength()](#getLength--) | Gets the PSD global link resource length in bytes. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
-| [getPsdVersion()](#getPsdVersion--) | Gets the PSD format version. |
-| [getSignature()](#getSignature--) | Gets the PSD global link resource signature. |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
+| [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [getType_internalized()](#getType-internalized--) | Gets or sets the PSD global link resource type that can be one of the following or none: The embedded linked file liFD that corresponds to the Lnk2Resource and Lnk3Resource The external linked file liFE that corresponds to the LnkeResource The linked file alias liFA |
 | [get_Item(int index)](#get-Item-int-) | Gets the [LiFeDataSource](../../com.aspose.psd.fileformats.psd.layers.layerresources.linkresources/lifedatasource) at the specified index. |
 | [get_Item(UUID index)](#get-Item-java.util.UUID-) | Gets the [LinkDataSource](../../com.aspose.psd.fileformats.psd.layers.layerresources.linkresources/linkdatasource) at the specified index which is the link data source unique identifier.. |
@@ -276,7 +276,7 @@ public int getKey()
 ```
 
 
-Gets the Adobe® Photoshop® global resource key.
+Gets the layer resource key.
 
 **Returns:**
 int
@@ -307,11 +307,11 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
-Gets the PSD format version.
+Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 **Returns:**
 int
@@ -321,7 +321,7 @@ public int getSignature()
 ```
 
 
-Gets the PSD global link resource signature.
+Gets the layer resource signature.
 
 **Returns:**
 int

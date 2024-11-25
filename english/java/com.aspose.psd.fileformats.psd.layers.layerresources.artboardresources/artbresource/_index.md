@@ -35,20 +35,20 @@ The Artboard info data for  Layer.Resources ([Layer.getResources](../../com.aspo
 | --- | --- |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getArtboardBackgroundType_internalized()](#getArtboardBackgroundType-internalized--) | Gets or sets the  ArtboardBackgroundType ([.getArtboardBackgroundType\_internalized](../../null/\#getArtboardBackgroundType-internalized)/[.setArtboardBackgroundType\_internalized(int)](../../null/\#setArtboardBackgroundType-internalized-int-)) |
+| [getArtboardBackgroundType()](#getArtboardBackgroundType--) | Gets or sets the  ArtboardBackgroundType ([.getArtboardBackgroundType\_internalized](../../null/\#getArtboardBackgroundType-internalized)/[.setArtboardBackgroundType\_internalized(int)](../../null/\#setArtboardBackgroundType-internalized-int-)) |
 | [getArtboardPresetName_internalized()](#getArtboardPresetName-internalized--) | Gets or sets the  ArtboardPresetName ([.getArtboardPresetName\_internalized](../../null/\#getArtboardPresetName-internalized)/[.setArtboardPresetName\_internalized(String)](../../null/\#setArtboardPresetName-internalized-String-)) |
 | [getArtboardRect_internalized()](#getArtboardRect-internalized--) | Gets or sets the  ArtboardRect ([.getArtboardRect\_internalized](../../null/\#getArtboardRect-internalized)/[.setArtboardRect()](../../null/\#setArtboardRect--)) |
 | [getClass()](#getClass--) |  |
 | [getClassId_internalized()](#getClassId-internalized--) | Gets or sets the resource class id. |
 | [getClassName_internalized()](#getClassName-internalized--) | Gets or sets the resource class name. |
-| [getColor_internalized()](#getColor-internalized--) | Gets or sets the  Color ([.getColor\_internalized](../../null/\#getColor-internalized)/[.setColor()](../../null/\#setColor--)) |
+| [getColor()](#getColor--) | Gets or sets the  Color ([.getColor\_internalized](../../null/\#getColor-internalized)/[.setColor()](../../null/\#setColor--)) |
 | [getGuideIndeces_internalized()](#getGuideIndeces-internalized--) | Gets or sets the  GuideIndeces ([.getGuideIndeces\_internalized](../../null/\#getGuideIndeces-internalized)/[.setGuideIndeces\_internalized(List)](../../null/\#setGuideIndeces-internalized-List-OSTypeStructure--)) |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getItems()](#getItems--) | Gets or sets the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) items. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLength()](#getLength--) |    |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
-| [getPsdVersion()](#getPsdVersion--) |    |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
 | [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [getVersion_internalized()](#getVersion-internalized--) | Gets or sets the resource version. |
 | [hashCode()](#hashCode--) |  |
@@ -59,12 +59,12 @@ The Artboard info data for  Layer.Resources ([Layer.getResources](../../com.aspo
 | [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the resource to the specified stream container. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
-| [setArtboardBackgroundType_internalized(int value)](#setArtboardBackgroundType-internalized-int-) | Gets or sets the  ArtboardBackgroundType ([.getArtboardBackgroundType\_internalized](../../null/\#getArtboardBackgroundType-internalized)/[.setArtboardBackgroundType\_internalized(int)](../../null/\#setArtboardBackgroundType-internalized-int-)) |
+| [setArtboardBackgroundType(int value)](#setArtboardBackgroundType-int-) | Gets or sets the  ArtboardBackgroundType ([.getArtboardBackgroundType\_internalized](../../null/\#getArtboardBackgroundType-internalized)/[.setArtboardBackgroundType\_internalized(int)](../../null/\#setArtboardBackgroundType-internalized-int-)) |
 | [setArtboardPresetName_internalized(String value)](#setArtboardPresetName-internalized-java.lang.String-) | Gets or sets the  ArtboardPresetName ([.getArtboardPresetName\_internalized](../../null/\#getArtboardPresetName-internalized)/[.setArtboardPresetName\_internalized(String)](../../null/\#setArtboardPresetName-internalized-String-)) |
 | [setArtboardRect_internalized(RectangleF value)](#setArtboardRect-internalized-com.aspose.psd.RectangleF-) | Gets or sets the  ArtboardRect ([.getArtboardRect\_internalized](../../null/\#getArtboardRect-internalized)/[.setArtboardRect()](../../null/\#setArtboardRect--)) |
 | [setClassId_internalized(ClassID value)](#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets the resource class id. |
 | [setClassName_internalized(String value)](#setClassName-internalized-java.lang.String-) | Gets or sets the resource class name. |
-| [setColor_internalized(Color value)](#setColor-internalized-com.aspose.psd.Color-) | Gets or sets the  Color ([.getColor\_internalized](../../null/\#getColor-internalized)/[.setColor()](../../null/\#setColor--)) |
+| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the  Color ([.getColor\_internalized](../../null/\#getColor-internalized)/[.setColor()](../../null/\#setColor--)) |
 | [setGuideIndeces_internalized(System.Collections.Generic.List<OSTypeStructure> value)](#setGuideIndeces-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) | Gets or sets the  GuideIndeces ([.getGuideIndeces\_internalized](../../null/\#getGuideIndeces-internalized)/[.setGuideIndeces\_internalized(List)](../../null/\#setGuideIndeces-internalized-List-OSTypeStructure--)) |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setItems(OSTypeStructure[] value)](#setItems-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---) | Gets or sets the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) items. |
@@ -157,9 +157,9 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
-### getArtboardBackgroundType_internalized() {#getArtboardBackgroundType-internalized--}
+### getArtboardBackgroundType() {#getArtboardBackgroundType--}
 ```
-public final int getArtboardBackgroundType_internalized()
+public final int getArtboardBackgroundType()
 ```
 
 
@@ -217,9 +217,9 @@ Gets or sets the resource class name.
 
 **Returns:**
 java.lang.String
-### getColor_internalized() {#getColor-internalized--}
+### getColor() {#getColor--}
 ```
-public final Color getColor_internalized()
+public final Color getColor()
 ```
 
 
@@ -296,11 +296,11 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
-  
+Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 **Returns:**
 int
@@ -420,9 +420,9 @@ Saves the header signature, identifier and length.
 | signature | int | The signature. |
 | isLengthLong | boolean | if set to  true  length is long. |
 
-### setArtboardBackgroundType_internalized(int value) {#setArtboardBackgroundType-internalized-int-}
+### setArtboardBackgroundType(int value) {#setArtboardBackgroundType-int-}
 ```
-public final void setArtboardBackgroundType_internalized(int value)
+public final void setArtboardBackgroundType(int value)
 ```
 
 
@@ -485,9 +485,9 @@ Gets or sets the resource class name.
 | --- | --- | --- |
 | value | java.lang.String |  |
 
-### setColor_internalized(Color value) {#setColor-internalized-com.aspose.psd.Color-}
+### setColor(Color value) {#setColor-com.aspose.psd.Color-}
 ```
-public final void setColor_internalized(Color value)
+public final void setColor(Color value)
 ```
 
 

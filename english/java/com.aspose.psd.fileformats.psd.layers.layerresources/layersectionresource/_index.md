@@ -231,7 +231,7 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 

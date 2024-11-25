@@ -44,8 +44,8 @@ Class CustResource. This resource contains information about blending of clipped
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
 | [getPropertyValueByTypeStructure_internalized(String structureName)](#getPropertyValueByTypeStructure-internalized-java.lang.String-) | Gets the property value by type structure. |
-| [getPsdVersion()](#getPsdVersion--) | Gets the psd version. |
-| [getSignature()](#getSignature--) | Gets the signature. |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
+| [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
 | [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | Gets a value indicating whether this instance is resource PSB specific. |
@@ -256,11 +256,11 @@ Gets the property value by type structure. Used only for UnitTests.
 java.lang.Object - OSType structure for easy unit-testing
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
-Gets the psd version.
+Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 **Returns:**
 int
@@ -270,7 +270,7 @@ public int getSignature()
 ```
 
 
-Gets the signature.
+Gets the layer resource signature.
 
 **Returns:**
 int

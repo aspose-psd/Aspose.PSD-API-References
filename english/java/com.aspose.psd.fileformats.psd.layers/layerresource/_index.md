@@ -3,7 +3,7 @@ title: LayerResource
 second_title: Aspose.PSD for Java API Reference
 description: Represents layer info.
 type: docs
-weight: 24
+weight: 25
 url: /java/com.aspose.psd.fileformats.psd.layers/layerresource/
 ---
 
@@ -176,7 +176,7 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public abstract int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 

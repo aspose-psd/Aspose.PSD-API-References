@@ -3,7 +3,7 @@ title: LayerGroup
 second_title: Aspose.PSD for Java API Reference
 description: Group layer class
 type: docs
-weight: 18
+weight: 19
 url: /java/com.aspose.psd.fileformats.psd.layers/layergroup/
 ---
 
@@ -64,7 +64,6 @@ Group layer class
 | [createPartialRotateSaver_internalized(PartialRotater resizer, IPixelsSaver pixelsSaver, int width, int height)](#createPartialRotateSaver-internalized-com.aspose.internal.rotaters.PartialRotater-com.aspose.internal.IPixelsSaver-int-int-) |  |
 | [create_internalized(PsdHeader header, IColorPalette palette)](#create-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-) |  |
 | [create_internalized(System.IO.Stream stream)](#create-internalized-com.aspose.ms.System.IO.Stream-) |  |
-| [create_internalized(PsdImage image)](#create-internalized-com.aspose.psd.fileformats.psd.PsdImage-) |  |
 | [crop(Rectangle rectangle)](#crop-com.aspose.psd.Rectangle-) | Cropping the image. |
 | [crop(int leftShift, int rightShift, int topShift, int bottomShift)](#crop-int-int-int-int-) | Crop image with shifts. |
 | [dispose()](#dispose--) | Disposes the current instance. |
@@ -892,21 +891,6 @@ public static Layer create_internalized(System.IO.Stream stream)
 
 **Returns:**
 [Layer](../../com.aspose.psd.fileformats.psd.layers/layer)
-### create_internalized(PsdImage image) {#create-internalized-com.aspose.psd.fileformats.psd.PsdImage-}
-```
-public static LayerGroup create_internalized(PsdImage image)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | [PsdImage](../../com.aspose.psd.fileformats.psd/psdimage) |  |
-
-**Returns:**
-[LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup)
 ### crop(Rectangle rectangle) {#crop-com.aspose.psd.Rectangle-}
 ```
 public void crop(Rectangle rectangle)
@@ -1250,7 +1234,7 @@ Value: The blending options.
 [BlendingOptions](../../com.aspose.psd.fileformats.psd.layers.layereffects/blendingoptions)
 ### getBottom() {#getBottom--}
 ```
-public final int getBottom()
+public int getBottom()
 ```
 
 
@@ -1850,7 +1834,7 @@ Gets the layers in layer group
 com.aspose.psd.fileformats.psd.layers.Layer[]
 ### getLayersBounds_internalized() {#getLayersBounds-internalized--}
 ```
-public final Rectangle getLayersBounds_internalized()
+public Rectangle getLayersBounds_internalized()
 ```
 
 
@@ -1860,7 +1844,7 @@ Gets the union bounds of the all layers in LayerGroup.
 [Rectangle](../../com.aspose.psd/rectangle) - The union bounds of the all layers in LayerGroup
 ### getLeft() {#getLeft--}
 ```
-public final int getLeft()
+public int getLeft()
 ```
 
 
@@ -2169,7 +2153,7 @@ Value: The layer resources.
 com.aspose.psd.fileformats.psd.layers.LayerResource[]
 ### getRight() {#getRight--}
 ```
-public final int getRight()
+public int getRight()
 ```
 
 
@@ -2255,7 +2239,7 @@ Value: The synchronize root.
 java.lang.Object
 ### getTop() {#getTop--}
 ```
-public final int getTop()
+public int getTop()
 ```
 
 
@@ -3567,7 +3551,7 @@ Value: The blend mode key.
 
 ### setBottom(int value) {#setBottom-int-}
 ```
-public final void setBottom(int value)
+public void setBottom(int value)
 ```
 
 
@@ -3911,7 +3895,7 @@ Value: The layer palette.
 
 ### setLeft(int value) {#setLeft-int-}
 ```
-public final void setLeft(int value)
+public void setLeft(int value)
 ```
 
 
@@ -4132,7 +4116,7 @@ Value: The layer resources.
 
 ### setRight(int value) {#setRight-int-}
 ```
-public final void setRight(int value)
+public void setRight(int value)
 ```
 
 
@@ -4175,7 +4159,7 @@ Value: The sheet color highlight.
 
 ### setTop(int value) {#setTop-int-}
 ```
-public final void setTop(int value)
+public void setTop(int value)
 ```
 
 

@@ -22,6 +22,7 @@ The unit types.
 | [Density](#Density) | Density unit. |
 | [Distance](#Distance) | Distance unit. |
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
+| [Millimeters](#Millimeters) | Millimeters unit. |
 | [None](#None) | Undefined unit. |
 | [Percent](#Percent) | Percent unit. |
 | [Pixels](#Pixels) | Pixels unit. |
@@ -99,6 +100,14 @@ Distance unit.
 public static final char[] EnumSeparatorCharArray
 ```
 
+
+### Millimeters {#Millimeters}
+```
+public static final int Millimeters
+```
+
+
+Millimeters unit.
 
 ### None {#None}
 ```

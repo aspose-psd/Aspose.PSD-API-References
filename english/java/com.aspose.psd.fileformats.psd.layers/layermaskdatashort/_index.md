@@ -3,7 +3,7 @@ title: LayerMaskDataShort
 second_title: Aspose.PSD for Java API Reference
 description: Defines the LayerMaskDataShort class which contains information about the mask data in the PSD file layer when the layer has only raster or vector mask but not both.
 type: docs
-weight: 22
+weight: 23
 url: /java/com.aspose.psd.fileformats.psd.layers/layermaskdatashort/
 ---
 

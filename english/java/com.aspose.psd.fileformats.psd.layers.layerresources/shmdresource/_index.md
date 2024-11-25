@@ -44,8 +44,8 @@ Class ShmdResource. Metadata settings
 | [getLayerCreatedDateTime_internalized()](#getLayerCreatedDateTime-internalized--) |  |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
-| [getPsdVersion()](#getPsdVersion--) | Gets the psd version. |
-| [getSignature()](#getSignature--) | Gets the signature. |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
+| [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [getSubResources()](#getSubResources--) | The sub resources |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
@@ -249,11 +249,11 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
-Gets the psd version.
+Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 **Returns:**
 int
@@ -263,7 +263,7 @@ public int getSignature()
 ```
 
 
-Gets the signature.
+Gets the layer resource signature.
 
 **Returns:**
 int

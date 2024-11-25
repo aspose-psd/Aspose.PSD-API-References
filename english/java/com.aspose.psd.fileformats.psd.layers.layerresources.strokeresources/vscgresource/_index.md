@@ -36,16 +36,16 @@ Vector Stroke Content Data resource.
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
-| [getClassId_internalized()](#getClassId-internalized--) | The class name. |
-| [getClassName_internalized()](#getClassName-internalized--) | The class identifier. |
+| [getClassId_internalized()](#getClassId-internalized--) | Gets or sets the class name. |
+| [getClassName_internalized()](#getClassName-internalized--) | Gets or sets the class identifier. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getItems()](#getItems--) | Gets or sets the structure items. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getKeyForData()](#getKeyForData--) | Integer key that defines what kind of fill settings is tored in the resource: \* Color - 0x536f436f - SoCoResource.TypeToolKey \* Gradient - 0x4764466c - GdFlResource.TypeToolKey \* Pattern - 0x5074466c - PtFlResource.TypeToolKey |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
-| [getPsdVersion()](#getPsdVersion--) | Gets the psd version. |
-| [getSignature()](#getSignature--) | Gets the signature. |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
+| [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
 | [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | Gets a value indicating whether this instance is resource PSB specific. |
@@ -54,10 +54,11 @@ Vector Stroke Content Data resource.
 | [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the resource to the specified stream container. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
-| [setClassId_internalized(ClassID value)](#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | The class name. |
-| [setClassName_internalized(String value)](#setClassName-internalized-java.lang.String-) | The class identifier. |
+| [setClassId_internalized(ClassID value)](#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets the class name. |
+| [setClassName_internalized(String value)](#setClassName-internalized-java.lang.String-) | Gets or sets the class identifier. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setItems_internalized(OSTypeStructure[] value)](#setItems-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---) | Gets or sets the structure items. |
+| [setKeyForData_Rename_Namesake_internalized(int value)](#setKeyForData-Rename-Namesake-internalized-int-) | Gets integer key that defines what kind of fill settings is stored in the resource: \* Color - 0x536f436f - SoCoResource.TypeToolKey \* Gradient - 0x4764466c - GdFlResource.TypeToolKey \* Pattern - 0x5074466c - PtFlResource.TypeToolKey Warning! The value of property KeyForData should match the type of Fill settings stored in Items structures. |
 | [setKeyForData_internalized(int value)](#setKeyForData-internalized-int-) | Internal method that allows to assign readonly property KeyForData. |
 | [toString()](#toString--) | Returns a String that represents this instance. |
 | [wait()](#wait--) |  |
@@ -163,7 +164,7 @@ public final ClassID getClassId_internalized()
 ```
 
 
-The class name.
+Gets or sets the class name.
 
 **Returns:**
 [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid)
@@ -173,7 +174,7 @@ public final String getClassName_internalized()
 ```
 
 
-The class identifier.
+Gets or sets the class identifier.
 
 **Returns:**
 java.lang.String
@@ -248,11 +249,11 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
-Gets the psd version.
+Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 **Returns:**
 int
@@ -262,7 +263,7 @@ public int getSignature()
 ```
 
 
-Gets the signature.
+Gets the layer resource signature.
 
 **Returns:**
 int
@@ -368,7 +369,7 @@ public final void setClassId_internalized(ClassID value)
 ```
 
 
-The class name.
+Gets or sets the class name.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -381,7 +382,7 @@ public final void setClassName_internalized(String value)
 ```
 
 
-The class identifier.
+Gets or sets the class identifier.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -417,6 +418,19 @@ Value: The structure items.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [OSTypeStructure\[\]](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) |  |
+
+### setKeyForData_Rename_Namesake_internalized(int value) {#setKeyForData-Rename-Namesake-internalized-int-}
+```
+public final void setKeyForData_Rename_Namesake_internalized(int value)
+```
+
+
+Gets integer key that defines what kind of fill settings is stored in the resource: \* Color - 0x536f436f - SoCoResource.TypeToolKey \* Gradient - 0x4764466c - GdFlResource.TypeToolKey \* Pattern - 0x5074466c - PtFlResource.TypeToolKey Warning! The value of property KeyForData should match the type of Fill settings stored in Items structures.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### setKeyForData_internalized(int value) {#setKeyForData-internalized-int-}
 ```
