@@ -12,7 +12,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 
 | Class | Description |
 | --- | --- |
-| [AdjustmentLayerResource](../com.aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource) | Base Class for adjustments layer resources |
+| [AdjustmentLayerResource](../com.aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource) | Base Class for adjustment layer resources |
 | [AnimatedDataSectionStructure](../com.aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure) | The section with animated data. |
 | [BlncResource](../com.aspose.psd.fileformats.psd.layers.layerresources/blncresource) | BlncResource class is a resource of Color Adjustment Layer. |
 | [BlwhResource](../com.aspose.psd.fileformats.psd.layers.layerresources/blwhresource) | BlwhResource class is a resource of Black and White Adjustment Layer. |

@@ -12,6 +12,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers/
 
 | Class | Description |
 | --- | --- |
+| [ArtboardLayer](../com.aspose.psd.fileformats.psd.layers/artboardlayer) | The artboard layer class. |
 | [BlendMode](../com.aspose.psd.fileformats.psd.layers/blendmode) | The layer blend mode. |
 | [BlendRange](../com.aspose.psd.fileformats.psd.layers/blendrange) | The blend range. |
 | [ChannelInformation](../com.aspose.psd.fileformats.psd.layers/channelinformation) | The channel information. |

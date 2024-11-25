@@ -3,7 +3,7 @@ title: ILayerResourceLoader
 second_title: Aspose.PSD for Java API Reference
 description: The layer resource loader.
 type: docs
-weight: 31
+weight: 32
 url: /java/com.aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
 ```

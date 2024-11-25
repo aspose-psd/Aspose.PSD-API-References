@@ -1197,7 +1197,7 @@ Value: The blue channel.
 [RgbMixerChannel](../../com.aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel)
 ### getBottom() {#getBottom--}
 ```
-public final int getBottom()
+public int getBottom()
 ```
 
 
@@ -1816,7 +1816,7 @@ Value: The type of the layer.
 byte
 ### getLeft() {#getLeft--}
 ```
-public final int getLeft()
+public int getLeft()
 ```
 
 
@@ -2161,7 +2161,7 @@ Value: The layer resources.
 com.aspose.psd.fileformats.psd.layers.LayerResource[]
 ### getRight() {#getRight--}
 ```
-public final int getRight()
+public int getRight()
 ```
 
 
@@ -2237,7 +2237,7 @@ Value: The synchronize root.
 java.lang.Object
 ### getTop() {#getTop--}
 ```
-public final int getTop()
+public int getTop()
 ```
 
 
@@ -3551,7 +3551,7 @@ Value: The blend mode key.
 
 ### setBottom(int value) {#setBottom-int-}
 ```
-public final void setBottom(int value)
+public void setBottom(int value)
 ```
 
 
@@ -3895,7 +3895,7 @@ Value: The layer palette.
 
 ### setLeft(int value) {#setLeft-int-}
 ```
-public final void setLeft(int value)
+public void setLeft(int value)
 ```
 
 
@@ -4118,7 +4118,7 @@ Value: The layer resources.
 
 ### setRight(int value) {#setRight-int-}
 ```
-public final void setRight(int value)
+public void setRight(int value)
 ```
 
 
@@ -4161,7 +4161,7 @@ Value: The sheet color highlight.
 
 ### setTop(int value) {#setTop-int-}
 ```
-public final void setTop(int value)
+public void setTop(int value)
 ```
 
 

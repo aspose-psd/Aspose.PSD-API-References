@@ -17,11 +17,6 @@ public abstract class LrXxResource extends LayerResource implements ILayersSuppo
 ```
 
 The lrXX resource.
-## Constructors
-
-| Constructor | Description |
-| --- | --- |
-| [LrXxResource()](#LrXxResource--) | Initializes a new instance of the [LrXxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lrxxresource) class. |
 ## Fields
 
 | Field | Description |
@@ -44,9 +39,9 @@ The lrXX resource.
 | [getLength()](#getLength--) | Gets the resource length for the PSD header version of the image. |
 | [getLength(int psdHeaderVersion)](#getLength-int-) | Gets the resource length. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
-| [getPsdVersion()](#getPsdVersion--) | Gets the psd version. |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
 | [getRawData_internalized()](#getRawData-internalized--) | Gets or sets the raw data of the resource. |
-| [getSignature()](#getSignature--) | Gets the signature. |
+| [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
 | [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | Gets a value indicating whether this instance is resource PSB specific. |
@@ -62,14 +57,6 @@ The lrXX resource.
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### LrXxResource() {#LrXxResource--}
-```
-public LrXxResource()
-```
-
-
-Initializes a new instance of the [LrXxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lrxxresource) class.
-
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
 public static final int PsbHeaderVersion_internalized
@@ -224,11 +211,11 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public int getPsdVersion()
+public final int getPsdVersion()
 ```
 
 
-Gets the psd version.
+Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 **Returns:**
 int
@@ -248,7 +235,7 @@ public int getSignature()
 ```
 
 
-Gets the signature.
+Gets the layer resource signature.
 
 **Returns:**
 int
