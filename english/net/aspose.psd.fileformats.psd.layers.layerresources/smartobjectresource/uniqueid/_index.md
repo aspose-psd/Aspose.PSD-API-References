@@ -3,7 +3,7 @@ title: SmartObjectResource.UniqueId
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectResource property. Gets or sets the global unique identifier of the smart object layer data SmartObjectResource in the PSD image
 type: docs
-weight: 240
+weight: 220
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/
 ---
 {{< psd/tize >}}

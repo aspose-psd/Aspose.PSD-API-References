@@ -3,7 +3,7 @@ title: CgEdResource.Version
 second_title: Aspose.PSD for .NET API Reference
 description: CgEdResource property. Gets or sets the version
 type: docs
-weight: 110
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/
 ---
 {{< psd/tize >}}

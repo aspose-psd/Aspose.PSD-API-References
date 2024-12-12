@@ -3,7 +3,7 @@ title: LuniResource.Name
 second_title: Aspose.PSD for .NET API Reference
 description: LuniResource property. Gets or sets the name
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/
 ---
 {{< psd/tize >}}

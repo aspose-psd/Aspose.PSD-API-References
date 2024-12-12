@@ -29,11 +29,11 @@ public class ExpaResource : AdjustmentLayerResource
 | --- | --- |
 | [Exposure](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/) { get; set; } | Gets or sets the exposure. |
 | [GammaCorrection](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/) { get; set; } | Gets or sets the gamma. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/) { get; } | Gets the layer resource length in bytes. |
 | [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/) { get; set; } | Gets or sets the offset. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/psdversion/) { get; } | Gets the psd version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Gets the signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/) { get; } | Gets the version. Default is 1 |
 
 ## Methods

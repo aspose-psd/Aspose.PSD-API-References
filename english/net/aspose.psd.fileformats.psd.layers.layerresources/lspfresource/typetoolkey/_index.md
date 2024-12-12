@@ -3,7 +3,7 @@ title: LspfResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: LspfResource field. The type tool info key 1819504742
 type: docs
-weight: 110
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/
 ---
 {{< psd/tize >}}

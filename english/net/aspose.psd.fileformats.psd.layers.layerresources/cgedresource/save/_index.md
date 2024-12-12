@@ -3,7 +3,7 @@ title: CgEdResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: CgEdResource method. Saves the resource to the specified stream container
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/
 ---
 {{< psd/tize >}}

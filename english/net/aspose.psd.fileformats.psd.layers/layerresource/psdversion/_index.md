@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/layerresource/psdversion/
 Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
 
 ```csharp
-public abstract int PsdVersion { get; }
+public int PsdVersion { get; }
 ```
 
 ### See Also

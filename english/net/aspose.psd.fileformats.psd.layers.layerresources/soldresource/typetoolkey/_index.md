@@ -3,7 +3,7 @@ title: SoLdResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: SoLdResource field. The type tool info key SoLd
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/typetoolkey/
 ---
 {{< psd/tize >}}

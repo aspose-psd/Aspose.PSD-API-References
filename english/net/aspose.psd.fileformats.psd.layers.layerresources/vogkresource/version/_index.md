@@ -3,7 +3,7 @@ title: VogkResource.Version
 second_title: Aspose.PSD for .NET API Reference
 description: VogkResource property. Gets or sets the version
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/version/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: TypeToolInfo6Resource.Top
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfo6Resource property. Gets or sets the top location
 type: docs
-weight: 140
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top/
 ---
 {{< psd/tize >}}

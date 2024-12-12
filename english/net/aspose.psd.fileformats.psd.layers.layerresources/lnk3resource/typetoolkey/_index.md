@@ -3,7 +3,7 @@ title: Lnk3Resource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: Lnk3Resource field. The type tool info key
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/
 ---
 {{< psd/tize >}}

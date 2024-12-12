@@ -3,7 +3,7 @@ title: GrdmResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: GrdmResource field. The type tool info key
 type: docs
-weight: 230
+weight: 190
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/typetoolkey/
 ---
 {{< psd/tize >}}

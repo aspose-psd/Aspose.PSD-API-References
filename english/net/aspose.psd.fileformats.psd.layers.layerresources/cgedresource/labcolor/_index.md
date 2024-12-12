@@ -3,7 +3,7 @@ title: CgEdResource.LabColor
 second_title: Aspose.PSD for .NET API Reference
 description: CgEdResource property. Gets or sets a value indicating whether lab color is used
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/
 ---
 {{< psd/tize >}}

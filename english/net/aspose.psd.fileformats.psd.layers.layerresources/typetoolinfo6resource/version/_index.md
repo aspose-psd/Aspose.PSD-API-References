@@ -3,7 +3,7 @@ title: TypeToolInfo6Resource.Version
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfo6Resource property. Gets or sets the type tool version
 type: docs
-weight: 160
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/version/
 ---
 {{< psd/tize >}}

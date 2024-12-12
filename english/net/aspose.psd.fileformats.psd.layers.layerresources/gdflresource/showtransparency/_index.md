@@ -3,7 +3,7 @@ title: GdFlResource.ShowTransparency
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Flag for showing transparency
 type: docs
-weight: 220
+weight: 200
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/showtransparency/
 ---
 {{< psd/tize >}}

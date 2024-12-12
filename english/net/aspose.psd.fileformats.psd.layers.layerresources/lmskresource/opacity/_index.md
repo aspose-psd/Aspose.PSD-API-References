@@ -3,7 +3,7 @@ title: LmskResource.Opacity
 second_title: Aspose.PSD for .NET API Reference
 description: LmskResource property. Gets the opacity
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lmskresource/opacity/
 ---
 {{< psd/tize >}}

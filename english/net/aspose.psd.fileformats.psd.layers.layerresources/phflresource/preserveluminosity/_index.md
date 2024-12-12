@@ -3,7 +3,7 @@ title: PhflResource.PreserveLuminosity
 second_title: Aspose.PSD for .NET API Reference
 description: PhflResource property. Gets or sets a value indicating whether preserve luminosity
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/
 ---
 {{< psd/tize >}}

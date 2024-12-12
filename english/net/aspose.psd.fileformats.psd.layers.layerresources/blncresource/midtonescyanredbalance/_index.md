@@ -3,7 +3,7 @@ title: BlncResource.MidtonesCyanRedBalance
 second_title: Aspose.PSD for .NET API Reference
 description: BlncResource property. Gets or sets the Midtones Cyan Red Balance
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/
 ---
 {{< psd/tize >}}

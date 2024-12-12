@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleMiterLimit
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets the stroke style miter limit
 type: docs
-weight: 180
+weight: 150
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/
 ---
 {{< psd/tize >}}

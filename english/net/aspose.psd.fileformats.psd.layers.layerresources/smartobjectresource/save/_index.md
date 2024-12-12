@@ -3,7 +3,7 @@ title: SmartObjectResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectResource method. Saves the smart object resource to the specified stream container
 type: docs
-weight: 260
+weight: 240
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/
 ---
 {{< psd/tize >}}

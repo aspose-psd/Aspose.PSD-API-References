@@ -3,7 +3,7 @@ title: LevlResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: LevlResource field. The type tool info key
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/
 ---
 {{< psd/tize >}}

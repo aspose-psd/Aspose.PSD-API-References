@@ -3,7 +3,7 @@ title: BaseArtboardInfoResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: BaseArtboardInfoResource method. Saves the resource to the specified stream container
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/baseartboardinforesource/save/
 ---
 {{< psd/tize >}}

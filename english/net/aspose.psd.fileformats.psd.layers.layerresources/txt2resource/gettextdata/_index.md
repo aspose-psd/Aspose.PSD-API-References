@@ -3,7 +3,7 @@ title: Txt2Resource.GetTextData
 second_title: Aspose.PSD for .NET API Reference
 description: Txt2Resource method. Gets the text record from resource data
 type: docs
-weight: 80
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata/
 ---
 {{< psd/tize >}}

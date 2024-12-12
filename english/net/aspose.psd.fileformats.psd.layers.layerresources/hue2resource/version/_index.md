@@ -3,7 +3,7 @@ title: Hue2Resource.Version
 second_title: Aspose.PSD for .NET API Reference
 description: Hue2Resource property. Gets the version. Default is 2
 type: docs
-weight: 100
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version/
 ---
 {{< psd/tize >}}

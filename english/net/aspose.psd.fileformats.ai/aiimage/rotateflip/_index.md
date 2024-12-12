@@ -3,7 +3,7 @@ title: AiImage.RotateFlip
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage method. Rotates flips or rotates and flips the image
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 ---
 {{< psd/tize >}}

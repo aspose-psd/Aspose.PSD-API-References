@@ -3,7 +3,7 @@ title: PostResource.Levels
 second_title: Aspose.PSD for .NET API Reference
 description: PostResource property. Levels of Posterize layer
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/
 ---
 {{< psd/tize >}}

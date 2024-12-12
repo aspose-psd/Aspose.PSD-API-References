@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/
 {{< psd/tize >}}
 ## SoLeResource class
 
-Defines the SoLeResource class that contains information about a smart object layer in a PSD file. Is is used to support smart object layers with external file links in the Adobe® Photoshop® images.
+Defines the SoLeResource class that contains information about a smart object layer in a PSD file. Is is used to support smart object layers with external file links in the Adobe� Photoshop� images.
 
 ```csharp
 public class SoLeResource : SmartObjectResource
@@ -30,7 +30,7 @@ public class SoLeResource : SmartObjectResource
 | [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Gets or sets the bottom location of the placed layer in the PSD image. |
 | [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Gets or sets the bounds of the placed layer in the PSD file. |
 | [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Gets or sets the comp value of the smart object layer data in the PSD file. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Gets or sets the ID of the currently selected comp for the child document, which will be -1 if none are selected. Comps are compositions of a page layout which designers can create. Using layer comps, you can create, manage, and view multiple versions of a layout in a single Adobe® Photoshop® file. A layer comp is a snapshot of a state of the Layers panel. Layer comps save three types of layer options but this property gets the Layer Comp selection identifier for he smart object layer in the PSD file. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Gets or sets the ID of the currently selected comp for the child document, which will be -1 if none are selected. Comps are compositions of a page layout which designers can create. Using layer comps, you can create, manage, and view multiple versions of a layout in a single Adobe� Photoshop� file. A layer comp is a snapshot of a state of the Layers panel. Layer comps save three types of layer options but this property gets the Layer Comp selection identifier for he smart object layer in the PSD file. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
 | [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Gets or sets the crop of the smart object layer data in the PSD image. |
 | [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Gets or sets the duration denominator. |
 | [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Gets or sets the duration numerator. |
@@ -42,7 +42,7 @@ public class SoLeResource : SmartObjectResource
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Gets or sets the measure unit of the horizontal mesh points. |
 | [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Gets or sets a value indicating whether this instance warp style is custom. If true it contains mesh points. If set to false it erases mesh points. |
 | override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Gets or sets the descriptor items of the smart object layer data in the PSD file. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/key/) { get; } | Gets the Sole smart object layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Gets or sets the left location of the placed layer in the PSD file. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Gets the smart object resource length in bytes. |
 | [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Gets or sets the non affine transform matrix of the smart object layer data in the PSD file. |
@@ -52,11 +52,11 @@ public class SoLeResource : SmartObjectResource
 | [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Gets or sets the perspective other value of the placed layer in the PSD file. |
 | [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Gets or sets the unique identifier of this smart object layer data in the PSD image. |
 | override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Gets or sets the type of the smart object layer data in the PSD file. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | Gets the minimal psd version required for the smart object resource. 0 indicates no restrictions. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Gets or sets the resolution of the smart object layer data in the PSD file. |
 | [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Gets or sets the resolution measure unit of the smart object layer data in the PSD file. |
 | [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Gets or sets the right location of the placed layer in the PSD file. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | Gets the smart object resource signature. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Gets or sets the top location of the placed layer in the PSD image. |
 | override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Gets or sets the total pages number of the smart object layer data in the PSD file. |
 | override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Gets or sets the transform matrix of the smart object layer data in the PSD file. |

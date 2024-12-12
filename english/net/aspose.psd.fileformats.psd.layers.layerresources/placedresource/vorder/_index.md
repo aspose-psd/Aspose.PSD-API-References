@@ -3,7 +3,7 @@ title: PlacedResource.VOrder
 second_title: Aspose.PSD for .NET API Reference
 description: PlacedResource property. Gets or sets the V order value of the placed layer in the PSD file
 type: docs
-weight: 240
+weight: 230
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/
 ---
 {{< psd/tize >}}

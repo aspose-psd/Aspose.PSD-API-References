@@ -3,7 +3,7 @@ title: CurvResource.GetActiveManager
 second_title: Aspose.PSD for .NET API Reference
 description: CurvResource method. Gets the active manager
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getactivemanager/
 ---
 {{< psd/tize >}}

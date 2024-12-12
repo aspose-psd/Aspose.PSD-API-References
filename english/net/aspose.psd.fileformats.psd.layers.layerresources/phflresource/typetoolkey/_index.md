@@ -3,7 +3,7 @@ title: PhflResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: PhflResource field. The type tool info key
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey/
 ---
 {{< psd/tize >}}

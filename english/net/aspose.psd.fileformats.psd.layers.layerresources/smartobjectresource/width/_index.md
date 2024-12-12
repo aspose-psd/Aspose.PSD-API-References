@@ -3,7 +3,7 @@ title: SmartObjectResource.Width
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectResource property. Gets or sets the width
 type: docs
-weight: 250
+weight: 230
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/
 ---
 {{< psd/tize >}}

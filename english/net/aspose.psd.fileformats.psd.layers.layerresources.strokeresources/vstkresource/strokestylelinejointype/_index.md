@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleLineJoinType
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets Stroke style line join type
 type: docs
-weight: 160
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/
 ---
 {{< psd/tize >}}

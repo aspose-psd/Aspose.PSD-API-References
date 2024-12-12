@@ -3,7 +3,7 @@ title: BlwhResource.Reds
 second_title: Aspose.PSD for .NET API Reference
 description: BlwhResource property. Gets or sets the reds value
 type: docs
-weight: 110
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds/
 ---
 {{< psd/tize >}}

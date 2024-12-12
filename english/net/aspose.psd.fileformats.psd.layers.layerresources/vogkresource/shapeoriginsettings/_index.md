@@ -3,7 +3,7 @@ title: VogkResource.ShapeOriginSettings
 second_title: Aspose.PSD for .NET API Reference
 description: VogkResource property. Gets or sets the shape origin settings
 type: docs
-weight: 50
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: LuniResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: LuniResource method. Saves the specified stream container
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/save/
 ---
 {{< psd/tize >}}

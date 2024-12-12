@@ -3,7 +3,7 @@ title: BlwhResource.UseTint
 second_title: Aspose.PSD for .NET API Reference
 description: BlwhResource property. Gets or sets a value indicating whether tint color is used
 type: docs
-weight: 130
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/
 ---
 {{< psd/tize >}}

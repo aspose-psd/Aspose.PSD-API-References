@@ -3,7 +3,7 @@ title: ExpaResource.Version
 second_title: Aspose.PSD for .NET API Reference
 description: ExpaResource property. Gets the version. Default is 1
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/
 ---
 {{< psd/tize >}}

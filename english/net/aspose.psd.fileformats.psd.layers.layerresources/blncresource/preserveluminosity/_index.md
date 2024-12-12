@@ -3,7 +3,7 @@ title: BlncResource.PreserveLuminosity
 second_title: Aspose.PSD for .NET API Reference
 description: BlncResource property. Gets or sets a value indicating whether this BlncResource preserves luminosity
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
 {{< psd/tize >}}

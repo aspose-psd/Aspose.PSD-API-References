@@ -3,7 +3,7 @@ title: CgEdResource.MeanValueForBrightnessAndContrast
 second_title: Aspose.PSD for .NET API Reference
 description: CgEdResource property. Gets or sets the mean value for brightness and contrast
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/
 ---
 {{< psd/tize >}}

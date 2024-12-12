@@ -3,7 +3,7 @@ title: BritResource.Length
 second_title: Aspose.PSD for .NET API Reference
 description: BritResource property. Gets the layer resource length in bytes
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/britresource/length/
 ---
 {{< psd/tize >}}

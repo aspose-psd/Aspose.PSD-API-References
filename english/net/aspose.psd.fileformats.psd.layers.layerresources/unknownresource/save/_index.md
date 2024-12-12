@@ -3,7 +3,7 @@ title: UnknownResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: UnknownResource method. Saves the specified stream container
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save/
 ---
 {{< psd/tize >}}

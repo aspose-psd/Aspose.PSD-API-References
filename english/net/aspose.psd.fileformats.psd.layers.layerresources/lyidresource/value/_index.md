@@ -3,7 +3,7 @@ title: LyidResource.Value
 second_title: Aspose.PSD for .NET API Reference
 description: LyidResource property. Gets the value
 type: docs
-weight: 60
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/
 ---
 {{< psd/tize >}}

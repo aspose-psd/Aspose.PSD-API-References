@@ -28,9 +28,9 @@ public sealed class ArtBResource : BaseArtboardInfoResource
 | [ArtboardBackgroundType](../../aspose.psd.fileformats.psd.layers.layerresources/artbresource/artboardbackgroundtype/) { get; set; } | Gets or sets the [`ArtboardBackgroundType`](./artboardbackgroundtype/) |
 | [Color](../../aspose.psd.fileformats.psd.layers.layerresources/artbresource/color/) { get; set; } | Gets or sets the [`Color`](./color/) |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/baseartboardinforesource/items/) { get; set; } | Gets or sets the [`OSTypeStructure`](../ostypestructure/) items. |
-| virtual [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/baseartboardinforesource/length/) { get; } |  |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/baseartboardinforesource/psdversion/) { get; } |  |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods

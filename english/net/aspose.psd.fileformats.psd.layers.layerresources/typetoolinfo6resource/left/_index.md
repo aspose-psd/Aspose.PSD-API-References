@@ -3,7 +3,7 @@ title: TypeToolInfo6Resource.Left
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfo6Resource property. Gets or sets the left location
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: MixrResource.GetChannelInfo
 second_title: Aspose.PSD for .NET API Reference
 description: MixrResource method. Gets the channel information raw data
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/
 ---
 {{< psd/tize >}}

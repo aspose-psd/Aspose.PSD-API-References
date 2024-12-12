@@ -3,7 +3,7 @@ title: PlacedResource.UniqueId
 second_title: Aspose.PSD for .NET API Reference
 description: PlacedResource property. Gets or sets the global unique identifier of the placed layer in the PSD image
 type: docs
-weight: 180
+weight: 170
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/
 ---
 {{< psd/tize >}}

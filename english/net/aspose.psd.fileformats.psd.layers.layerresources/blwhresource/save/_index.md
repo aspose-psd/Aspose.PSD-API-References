@@ -3,7 +3,7 @@ title: BlwhResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: BlwhResource method. Saves the resource to the specified stream container
 type: docs
-weight: 150
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/save/
 ---
 {{< psd/tize >}}

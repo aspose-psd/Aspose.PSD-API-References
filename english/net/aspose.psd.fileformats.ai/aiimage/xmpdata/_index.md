@@ -3,7 +3,7 @@ title: AiImage.XmpData
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage property. Gets or sets the XMP metadata
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.psd.fileformats.ai/aiimage/xmpdata/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PlLdResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: PlLdResource method. Saves the PlLD resource to the specified stream container
 type: docs
-weight: 50
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
 {{< psd/tize >}}

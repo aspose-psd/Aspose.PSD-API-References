@@ -30,12 +30,12 @@ public class TypeToolInfo6Resource : LayerResource
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classname/) { get; set; } | Gets or sets the class name. |
 | [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/descriptorversion/) { get; set; } | Gets or sets the descriptor version. |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/items/) { get; set; } | Gets or sets the items. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | [Left](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/) { get; set; } | Gets or sets the left location. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length/) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [Right](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/right/) { get; set; } | Gets or sets the right location. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/signature/) { get; } | Gets the layer resource signature. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [TextVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion/) { get; set; } | Gets or sets the text version. |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top/) { get; set; } | Gets or sets the top location. |
 | [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/transformmatrix/) { get; set; } | Gets or sets the transform matrix. |

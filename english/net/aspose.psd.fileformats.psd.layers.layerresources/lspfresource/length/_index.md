@@ -3,7 +3,7 @@ title: LspfResource.Length
 second_title: Aspose.PSD for .NET API Reference
 description: LspfResource property. Gets the layer resource length in bytes
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/length/
 ---
 {{< psd/tize >}}
