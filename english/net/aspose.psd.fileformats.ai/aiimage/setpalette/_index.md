@@ -3,7 +3,7 @@ title: AiImage.SetPalette
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage method. Sets the image palette
 type: docs
-weight: 190
+weight: 200
 url: /net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
 {{< psd/tize >}}

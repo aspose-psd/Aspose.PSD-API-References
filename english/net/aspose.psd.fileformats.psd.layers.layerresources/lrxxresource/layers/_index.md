@@ -3,7 +3,7 @@ title: LrXxResource.Layers
 second_title: Aspose.PSD for .NET API Reference
 description: LrXxResource property. Gets or sets the layers
 type: docs
-weight: 30
+weight: 10
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/layers/
 ---
 {{< psd/tize >}}

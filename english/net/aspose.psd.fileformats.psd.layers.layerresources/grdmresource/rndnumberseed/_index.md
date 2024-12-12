@@ -3,7 +3,7 @@ title: GrdmResource.RndNumberSeed
 second_title: Aspose.PSD for .NET API Reference
 description: GrdmResource property. The random number seed used to generate colors for Noise gradient
 type: docs
-weight: 150
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/rndnumberseed/
 ---
 {{< psd/tize >}}

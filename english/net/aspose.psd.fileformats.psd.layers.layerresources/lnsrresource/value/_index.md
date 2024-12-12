@@ -3,7 +3,7 @@ title: LnsrResource.Value
 second_title: Aspose.PSD for .NET API Reference
 description: LnsrResource property. Gets the value as LnsrResourceType if corresponding enum is described. Otherwise return Unknown
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: SmartObjectResource.ResolutionUnit
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectResource property. Gets or sets the resolution measure unit of the smart object layer data in the PSD file
 type: docs
-weight: 200
+weight: 190
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/
 ---
 {{< psd/tize >}}

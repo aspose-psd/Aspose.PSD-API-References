@@ -3,7 +3,7 @@ title: GdFlResource.Length
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Gets the layer resource length in bytes
 type: docs
-weight: 140
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/
 ---
 {{< psd/tize >}}

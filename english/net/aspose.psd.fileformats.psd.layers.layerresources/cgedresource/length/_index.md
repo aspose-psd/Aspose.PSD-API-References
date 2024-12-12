@@ -3,7 +3,7 @@ title: CgEdResource.Length
 second_title: Aspose.PSD for .NET API Reference
 description: CgEdResource property. Gets the layer resource length in bytes
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/
 ---
 {{< psd/tize >}}

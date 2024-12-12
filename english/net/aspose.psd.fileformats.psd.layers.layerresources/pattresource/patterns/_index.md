@@ -3,7 +3,7 @@ title: PattResource.Patterns
 second_title: Aspose.PSD for .NET API Reference
 description: PattResource property. Gets or sets the patterns data
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/
 ---
 {{< psd/tize >}}

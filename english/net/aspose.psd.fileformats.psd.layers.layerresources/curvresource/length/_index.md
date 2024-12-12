@@ -3,7 +3,7 @@ title: CurvResource.Length
 second_title: Aspose.PSD for .NET API Reference
 description: CurvResource property. Gets the layer resource length in bytes
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/length/
 ---
 {{< psd/tize >}}

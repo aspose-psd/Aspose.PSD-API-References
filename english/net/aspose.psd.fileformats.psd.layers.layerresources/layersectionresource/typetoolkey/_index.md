@@ -3,7 +3,7 @@ title: LayerSectionResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: LayerSectionResource field. The type tool info key
 type: docs
-weight: 100
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/
 ---
 {{< psd/tize >}}

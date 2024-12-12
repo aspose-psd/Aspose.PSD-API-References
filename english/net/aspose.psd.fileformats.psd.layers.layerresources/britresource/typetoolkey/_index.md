@@ -3,7 +3,7 @@ title: BritResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: BritResource field. The type tool info key
 type: docs
-weight: 90
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey/
 ---
 {{< psd/tize >}}

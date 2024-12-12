@@ -43,6 +43,7 @@ public sealed class AiImage : Image
 | [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | Gets or sets the interrupt monitor. |
 | override [IsCached](../../aspose.psd.fileformats.ai/aiimage/iscached/) { get; } | Gets a value indicating whether object's data is cached currently and no data reading is required. |
 | [Layers](../../aspose.psd.fileformats.ai/aiimage/layers/) { get; } | Gets the layer sections. |
+| [PageCount](../../aspose.psd.fileformats.ai/aiimage/pagecount/) { get; } | The number of pages. For the old AI format images always equal 0. |
 | [Palette](../../aspose.psd/image/palette/) { get; set; } | Gets or sets the color palette. The color palette is not used when pixels are represented directly. |
 | [SetupSection](../../aspose.psd.fileformats.ai/aiimage/setupsection/) { get; } | Gets the setup section. |
 | [Size](../../aspose.psd/image/size/) { get; } | Gets the image size. |

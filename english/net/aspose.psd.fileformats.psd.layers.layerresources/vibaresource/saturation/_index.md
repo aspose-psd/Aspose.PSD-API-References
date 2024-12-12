@@ -3,7 +3,7 @@ title: VibAResource.Saturation
 second_title: Aspose.PSD for .NET API Reference
 description: VibAResource property. Gets or sets saturation value
 type: docs
-weight: 50
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation/
 ---
 {{< psd/tize >}}

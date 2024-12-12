@@ -3,7 +3,7 @@ title: VogkResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: VogkResource field. The type tool info key
 type: docs
-weight: 90
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/typetoolkey/
 ---
 {{< psd/tize >}}

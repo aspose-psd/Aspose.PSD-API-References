@@ -1,7 +1,7 @@
 ---
 title: Class AdjustmentLayerResource
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AdjustmentLayerResource class. Base Class for adjustments layer resources
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AdjustmentLayerResource class. Base Class for adjustment layer resources
 type: docs
 weight: 2450
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresour
 {{< psd/tize >}}
 ## AdjustmentLayerResource class
 
-Base Class for adjustments layer resources
+Base Class for adjustment layer resources
 
 ```csharp
 public abstract class AdjustmentLayerResource : LayerResource
@@ -19,10 +19,10 @@ public abstract class AdjustmentLayerResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| virtual [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Gets the layer resource length in bytes. |
-| abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Gets the signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods
 

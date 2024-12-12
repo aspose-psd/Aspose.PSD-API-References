@@ -31,11 +31,11 @@ public class PhflResourceVersion3 : PhflResource
 | [ColorY](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colory/) { get; set; } | Gets or sets the Y color. |
 | [ColorZ](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorz/) { get; set; } | Gets or sets the Z color. |
 | [Density](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/) { get; set; } | Gets or sets the density. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/length/) { get; } | Gets the layer resource length in bytes. |
 | [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/) { get; set; } | Gets or sets a value indicating whether [preserve luminosity]. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/psdversion/) { get; } | Gets the psd version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Gets the signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | override [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/version/) { get; } | Gets the version. Default is 2 or 3 |
 
 ## Methods

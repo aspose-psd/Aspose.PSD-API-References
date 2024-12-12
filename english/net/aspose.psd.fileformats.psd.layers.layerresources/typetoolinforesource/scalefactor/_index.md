@@ -3,7 +3,7 @@ title: TypeToolInfoResource.ScaleFactor
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfoResource property. Gets or sets the scale factor
 type: docs
-weight: 170
+weight: 150
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/
 ---
 {{< psd/tize >}}

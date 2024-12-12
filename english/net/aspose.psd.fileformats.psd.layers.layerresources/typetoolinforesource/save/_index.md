@@ -3,7 +3,7 @@ title: TypeToolInfoResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfoResource method. Saves the specified stream container
 type: docs
-weight: 270
+weight: 240
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/save/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: InfxResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: InfxResource field. The type tool info key
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PhflResource.SetRgbColor
 second_title: Aspose.PSD for .NET API Reference
 description: PhflResource method. Sets the RGB color
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrgbcolor/
 ---
 {{< psd/tize >}}

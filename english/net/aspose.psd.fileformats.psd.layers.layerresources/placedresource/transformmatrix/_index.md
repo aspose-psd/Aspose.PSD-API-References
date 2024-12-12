@@ -3,7 +3,7 @@ title: PlacedResource.TransformMatrix
 second_title: Aspose.PSD for .NET API Reference
 description: PlacedResource property. Gets or sets the transform matrix of the placed layer in the PSD file
 type: docs
-weight: 170
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/
 ---
 {{< psd/tize >}}

@@ -31,11 +31,11 @@ public class LmskResource : LayerResource
 | [ColorComponent4](../../aspose.psd.fileformats.psd.layers.layerresources/lmskresource/colorcomponent4/) { get; set; } | Gets the color component 4. |
 | [ColorSpace](../../aspose.psd.fileformats.psd.layers.layerresources/lmskresource/colorspace/) { get; set; } | Gets the color space. |
 | [Flag](../../aspose.psd.fileformats.psd.layers.layerresources/lmskresource/flag/) { get; } | Gets the flag. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lmskresource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lmskresource/length/) { get; } | Gets the layer resource length in bytes. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layerresources/lmskresource/opacity/) { get; set; } | Gets the opacity. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lmskresource/psdversion/) { get; } | Gets the psd version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lmskresource/signature/) { get; } | Gets the signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods
 

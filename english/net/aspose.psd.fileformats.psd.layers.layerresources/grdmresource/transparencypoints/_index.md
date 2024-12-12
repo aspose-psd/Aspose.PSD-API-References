@@ -3,7 +3,7 @@ title: GrdmResource.TransparencyPoints
 second_title: Aspose.PSD for .NET API Reference
 description: GrdmResource property. Gets or sets the transparency points
 type: docs
-weight: 190
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/transparencypoints/
 ---
 {{< psd/tize >}}

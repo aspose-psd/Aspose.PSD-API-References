@@ -3,7 +3,7 @@ title: PhflResourceVersion2.GetRgbColor
 second_title: Aspose.PSD for .NET API Reference
 description: PhflResourceVersion2 method. Gets the color
 type: docs
-weight: 100
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/getrgbcolor/
 ---
 {{< psd/tize >}}

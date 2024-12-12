@@ -3,7 +3,7 @@ title: TypeToolInfo6Resource.TransformMatrix
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfo6Resource property. Gets or sets the transform matrix
 type: docs
-weight: 150
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/transformmatrix/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PlacedResource.Version
 second_title: Aspose.PSD for .NET API Reference
 description: PlacedResource property. Gets the version of the placed layer in the PSD file usually 3
 type: docs
-weight: 210
+weight: 200
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
 {{< psd/tize >}}

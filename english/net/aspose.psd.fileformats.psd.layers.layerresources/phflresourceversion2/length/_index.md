@@ -3,7 +3,7 @@ title: PhflResourceVersion2.Length
 second_title: Aspose.PSD for .NET API Reference
 description: PhflResourceVersion2 property. Gets the layer resource length in bytes
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/length/
 ---
 {{< psd/tize >}}

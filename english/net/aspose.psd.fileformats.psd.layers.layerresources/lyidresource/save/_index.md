@@ -3,7 +3,7 @@ title: LyidResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: LyidResource method. Saves to the specified stream container
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Hue2Resource.Length
 second_title: Aspose.PSD for .NET API Reference
 description: Hue2Resource property. Gets the layer resource length in bytes
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length/
 ---
 {{< psd/tize >}}

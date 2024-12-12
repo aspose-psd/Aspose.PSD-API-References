@@ -34,16 +34,16 @@ public class TypeToolInfoResource : LayerResource
 | [FontVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion/) { get; set; } | Gets or sets the font version. |
 | [GComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent/) { get; set; } | Gets or sets the g component. |
 | [HorizontalPlacement](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/horizontalplacement/) { get; set; } | Gets or sets the horizontal placement. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length/) { get; } | Gets the layer resource length in bytes. |
 | [LineCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/) { get; } | Gets the line count. |
 | [Lines](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/) { get; set; } | Gets or sets the lines. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [RComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/) { get; set; } | Gets or sets the r component. |
 | [ScaleFactor](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/) { get; set; } | Gets or sets the scale factor. |
 | [SelectionEnd](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/) { get; set; } | Gets or sets the selection end. |
 | [SelectionStart](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/) { get; set; } | Gets or sets the selection start. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/signature/) { get; } | Gets the layer resource signature. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [Styles](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/) { get; set; } | Gets or sets the font styles. |
 | [StylesCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/stylescount/) { get; } | Gets the styles count. |
 | [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/) { get; set; } | Gets or sets the transform matrix. |

@@ -3,7 +3,7 @@ title: GrdmResource.Length
 second_title: Aspose.PSD for .NET API Reference
 description: GrdmResource property. Gets the layer resource length in bytes
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/length/
 ---
 {{< psd/tize >}}

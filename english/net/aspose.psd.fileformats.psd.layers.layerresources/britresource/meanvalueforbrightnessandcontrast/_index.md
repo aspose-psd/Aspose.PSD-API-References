@@ -3,7 +3,7 @@ title: BritResource.MeanValueForBrightnessAndContrast
 second_title: Aspose.PSD for .NET API Reference
 description: BritResource property. Gets or sets the mean value for brightness and contrast
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast/
 ---
 {{< psd/tize >}}

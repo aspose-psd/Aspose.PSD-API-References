@@ -3,7 +3,7 @@ title: PlacedResource.TotalPages
 second_title: Aspose.PSD for .NET API Reference
 description: PlacedResource property. Gets or sets the total pages of the placed layer in the PSD file
 type: docs
-weight: 160
+weight: 150
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/
 ---
 {{< psd/tize >}}

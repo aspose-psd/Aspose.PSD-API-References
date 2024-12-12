@@ -26,10 +26,10 @@ public class Txt2Resource : LayerResource
 | Name | Description |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data/) { get; set; } | Gets or sets the data. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length/) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/signature/) { get; } | Gets the layer resource signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods
 

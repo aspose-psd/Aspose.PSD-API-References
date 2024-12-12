@@ -3,7 +3,7 @@ title: TypeToolInfoResource.Styles
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfoResource property. Gets or sets the font styles
 type: docs
-weight: 210
+weight: 180
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/
 ---
 {{< psd/tize >}}

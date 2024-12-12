@@ -3,7 +3,7 @@ title: LevlResource.GetChannel
 second_title: Aspose.PSD for .NET API Reference
 description: LevlResource method. Gets the channel
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/
 ---
 {{< psd/tize >}}

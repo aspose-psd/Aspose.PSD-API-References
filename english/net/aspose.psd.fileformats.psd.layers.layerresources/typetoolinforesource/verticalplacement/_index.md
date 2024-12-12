@@ -3,7 +3,7 @@ title: TypeToolInfoResource.VerticalPlacement
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfoResource property. Gets or sets the vertical placement
 type: docs
-weight: 260
+weight: 230
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/verticalplacement/
 ---
 {{< psd/tize >}}

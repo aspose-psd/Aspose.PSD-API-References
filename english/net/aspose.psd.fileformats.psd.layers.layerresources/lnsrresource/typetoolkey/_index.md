@@ -3,7 +3,7 @@ title: LnsrResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: LnsrResource field. The type tool info key
 type: docs
-weight: 90
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: VectorPathDataResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: VectorPathDataResource method. Saves the resource to the specified stream container
 type: docs
-weight: 90
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/
 ---
 {{< psd/tize >}}

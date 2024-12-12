@@ -3,7 +3,7 @@ title: BlwhResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: BlwhResource field. The type tool info key
 type: docs
-weight: 160
+weight: 140
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/
 ---
 {{< psd/tize >}}

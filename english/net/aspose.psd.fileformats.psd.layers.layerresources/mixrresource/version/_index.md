@@ -3,7 +3,7 @@ title: MixrResource.Version
 second_title: Aspose.PSD for .NET API Reference
 description: MixrResource property. Gets or sets the version
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/
 ---
 {{< psd/tize >}}

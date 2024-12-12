@@ -3,7 +3,7 @@ title: Hue2Resource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: Hue2Resource method. Saves the resource to the specified stream container
 type: docs
-weight: 110
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/save/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: VstkResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource method. Saves the resource to the specified stream container
 type: docs
-weight: 240
+weight: 210
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/save/
 ---
 {{< psd/tize >}}

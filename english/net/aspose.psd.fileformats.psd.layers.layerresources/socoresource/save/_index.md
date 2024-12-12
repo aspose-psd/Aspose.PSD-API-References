@@ -3,7 +3,7 @@ title: SoCoResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: SoCoResource method. Saves the resource to the specified stream container
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/
 ---
 {{< psd/tize >}}

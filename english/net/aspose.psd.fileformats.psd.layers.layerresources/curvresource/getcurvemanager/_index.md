@@ -3,7 +3,7 @@ title: CurvResource.GetCurveManager
 second_title: Aspose.PSD for .NET API Reference
 description: CurvResource method. Gets the curve manager
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/
 ---
 {{< psd/tize >}}

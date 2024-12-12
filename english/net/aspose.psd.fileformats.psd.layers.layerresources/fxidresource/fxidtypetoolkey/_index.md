@@ -3,7 +3,7 @@ title: FXidResource.FXidTypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: FXidResource field. The type tool info key FXid
 type: docs
-weight: 100
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/
 ---
 {{< psd/tize >}}

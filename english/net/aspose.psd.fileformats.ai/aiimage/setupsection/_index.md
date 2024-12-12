@@ -3,7 +3,7 @@ title: AiImage.SetupSection
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage property. Gets the setup section
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.psd.fileformats.ai/aiimage/setupsection/
 ---
 {{< psd/tize >}}

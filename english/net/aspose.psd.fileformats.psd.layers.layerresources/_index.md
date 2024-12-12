@@ -14,7 +14,7 @@ The namespace contains PSD file format entities contained in layers.
 | Class | Description |
 | --- | --- |
 | [AbddResource](./abddresource/) | The Artboard info data. |
-| [AdjustmentLayerResource](./adjustmentlayerresource/) | Base Class for adjustments layer resources |
+| [AdjustmentLayerResource](./adjustmentlayerresource/) | Base Class for adjustment layer resources |
 | [AnimatedDataSectionStructure](./animateddatasectionstructure/) | The section with animated data. |
 | [ArtBResource](./artbresource/) | The Artboard info data for [`Resources`](../aspose.psd.fileformats.psd.layers/layer/resources/). |
 | [ArtDResource](./artdresource/) | The Artboard info data for [`GlobalLayerResources`](../aspose.psd.fileformats.psd/psdimage/globallayerresources/). |
@@ -34,7 +34,7 @@ The namespace contains PSD file format entities contained in layers.
 | [CurvResource](./curvresource/) | Class CurvResource. Resource of Curves Adjustment Layer 1 byte - 0 if use curves, 1 if used pixels on map if 0 then: 2 bytes - short. Default is 1 4 bytes - int. Used only last byte by bit. First bit is for 1 channel, the Fourth bit for 4 channel for example 2 bytes - short points count 4 bytes * count of point - points of curve 2 short: first position, second height 4 bytes - word "Crv " 2 bytes - short default is 4 for Curves 4 bytes - int. Default is 1 4 bytes - point count 4 bytes * point count - points of curve 2 short: first position, second height 0-4 bytes - Leading to be fold for four if 1 then: 2 bytes - short. Default is 1 4 bytes - int. Used only last byte. One channel is in one bit. First bit is for 1 channel, the Fourth bit for 4 channel for example 256 * count of changed channels - ordered values of channel in range 0 - 255 4 bytes - word "Crv " 2 bytes - short. Default is 3 for pixels on map 4 bytes - int Channel count (2 + 256) bytes - short 2 for channel index, 256 is ordered values of channel in range 0 - 255 |
 | [CustResource](./custresource/) | Class CustResource. This resource contains information about blending of clipped element. |
 | [ExpaResource](./exparesource/) | Class ExpaResource. Resource of Exposure Adjustment Layer |
-| [FillLayerResource](./filllayerresource/) | Base Class for fill layer resources |
+| [FillLayerResource](./filllayerresource/) | Base class for fill layer resources. |
 | [FilterEffectMaskData](./filtereffectmaskdata/) | The filter mask data class. |
 | [FXidResource](./fxidresource/) | The Filter Effects resource contains channels, a user mask, and a sheet mask for the smart filter. |
 | [FxrpResource](./fxrpresource/) | Class FxrpResource. The reference point of layer |
@@ -76,16 +76,16 @@ The namespace contains PSD file format entities contained in layers.
 | [PhflResource](./phflresource/) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version ( = 3 ) or ( = 2 ) 12 4 bytes each for XYZ color(Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(Only in Version 2) 4 Density 1 Preserve Luminosity |
 | [PhflResourceVersion2](./phflresourceversion2/) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version ( = 3 ) or ( = 2 ) 12 4 bytes each for XYZ color(Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(Only in Version 2) 4 Density 1 Preserve Luminosity |
 | [PhflResourceVersion3](./phflresourceversion3/) | Class PhflResource. Resource of Exposure Adjustment Layer 2 Version ( = 3 ) or ( = 2 ) 12 4 bytes each for XYZ color(Only in Version 3) 10 2 bytes color space followed by 4 * 2 bytes color component(Only in Version 2) 4 Density 1 Preserve Luminosity |
-| [PlacedResource](./placedresource/) | Defines the PlacedResource class that contains common information about a placed layer or a smart object layer in the PSD file. Is is used to support smart object layers in the Adobe® Photoshop® images. |
-| [PlLdResource](./plldresource/) | Defines the PlLdResource class that contains information about a placed layer in the PSD file. Is is used to support smart object layers in the Adobe® Photoshop® images. It was replaced by SoLdResource in the Adobe® Photoshop® CS3 |
+| [PlacedResource](./placedresource/) | Defines the PlacedResource class that contains common information about a placed layer or a smart object layer in the PSD file. Is is used to support smart object layers in the Adobe� Photoshop� images. |
+| [PlLdResource](./plldresource/) | Defines the PlLdResource class that contains information about a placed layer in the PSD file. Is is used to support smart object layers in the Adobe� Photoshop� images. It was replaced by SoLdResource in the Adobe� Photoshop� CS3 |
 | [PostResource](./postresource/) | Class PostResource. Posterize layer settings. |
 | [PtFlResource](./ptflresource/) | Class PtFlResource. Contains Pattern Fill Layer Data. |
 | [ShmdResource](./shmdresource/) | Class ShmdResource. Metadata settings |
-| [SmartObjectResource](./smartobjectresource/) | Defines the SmartObjectResource class that contains information about a smart object layer in a PSD file. Is is the base class for Sold and Sole resources that is used to support smart object layers in the Adobe® Photoshop® images. |
+| [SmartObjectResource](./smartobjectresource/) | Defines the SmartObjectResource class that contains information about a smart object layer in a PSD file. Is is the base class for Sold and Sole resources that is used to support smart object layers in the Adobe� Photoshop� images. |
 | [SmartResourceCreator](./smartresourcecreator/) | Defines the SmartResourceCreator class that can create PlLd, SoLd and SoLe resources. Is is used to support smart object layers in the Adobe® Photoshop® images. |
 | [SoCoResource](./socoresource/) | Class SoCoResource. This resource contains information about Color Fill Layers |
-| [SoLdResource](./soldresource/) | Defines the SoLdResource class that contains information about a smart object layer in a PSD file. Is is used to support smart object layers in the Adobe® Photoshop® images. |
-| [SoLeResource](./soleresource/) | Defines the SoLeResource class that contains information about a smart object layer in a PSD file. Is is used to support smart object layers with external file links in the Adobe® Photoshop® images. |
+| [SoLdResource](./soldresource/) | Defines the SoLdResource class that contains information about a smart object layer in a PSD file. Is used to support smart object layers in the Adobe� Photoshop� images. |
+| [SoLeResource](./soleresource/) | Defines the SoLeResource class that contains information about a smart object layer in a PSD file. Is is used to support smart object layers with external file links in the Adobe� Photoshop� images. |
 | [Txt2Resource](./txt2resource/) | Txt2 resource class |
 | [TypeToolFontInfo](./typetoolfontinfo/) | Contains information about type tool font. |
 | [TypeToolInfo6Resource](./typetoolinfo6resource/) | The type tool information. For PSD version higher or equal to the 6.0. |

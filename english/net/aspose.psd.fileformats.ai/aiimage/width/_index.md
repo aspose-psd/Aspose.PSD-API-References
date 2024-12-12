@@ -3,7 +3,7 @@ title: AiImage.Width
 second_title: Aspose.PSD for .NET API Reference
 description: AiImage property. Gets the image width
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd.fileformats.ai/aiimage/width/
 ---
 {{< psd/tize >}}

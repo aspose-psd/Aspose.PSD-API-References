@@ -3,7 +3,7 @@ title: Txt2Resource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: Txt2Resource field. The type tool info key
 type: docs
-weight: 100
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/typetoolkey/
 ---
 {{< psd/tize >}}

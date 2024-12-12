@@ -19,7 +19,7 @@ public class GrdmResource : AdjustmentLayerResource
 
 | Name | Description |
 | --- | --- |
-| [GrdmResource](grdmresource/)() | The default constructor. |
+| [GrdmResource](grdmresource/)(int) | Initializes a new instance of the `GrdmResource` class. |
 
 ## Properties
 
@@ -32,16 +32,16 @@ public class GrdmResource : AdjustmentLayerResource
 | [GradientMode](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/gradientmode/) { get; set; } | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/gradientname/) { get; set; } | Name of the gradient: Unicode string, padded. |
 | [Interpolation](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/interpolation/) { get; set; } | Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid' (GradientMode = 0). |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/length/) { get; } | Gets the layer resource length in bytes. |
 | [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/maximumcolor/) { get; set; } | Maximum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit. |
 | [MinimumColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/minimumcolor/) { get; set; } | Minimum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/reverse/) { get; set; } | Is gradient reversed. |
 | [RndNumberSeed](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/rndnumberseed/) { get; set; } | The random number seed used to generate colors for Noise gradient. |
 | [Roughness](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/roughness/) { get; set; } | Roughness factor When 'Gradient type' = 'Noise', we can assign 'Roughness' (0 - 2048). |
 | [ShowTransparency](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/showtransparency/) { get; set; } | Flag for showing transparency When 'Gradient type' = 'Noise', we can assign 'Add transparency' to true. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/signature/) { get; } | Gets the signature. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/transparencypoints/) { get; set; } | Gets or sets the transparency points. |
 | [UseVectorColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/usevectorcolor/) { get; set; } | Flag for using vector color. |
 
@@ -50,7 +50,6 @@ public class GrdmResource : AdjustmentLayerResource
 | Name | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/save/)(StreamContainer, int) | Saves resource data to the specified stream container. |
-| [SetPsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/setpsdversion/)(ushort) | Sets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returns a String that represents this instance. |
 
 ## Fields

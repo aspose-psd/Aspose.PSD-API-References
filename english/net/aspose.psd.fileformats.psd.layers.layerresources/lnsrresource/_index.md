@@ -27,10 +27,10 @@ public class LnsrResource : LayerResource
 | Name | Description |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/) { get; } | Gets the raw data. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion/) { get; } | Gets the psd version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature/) { get; } | Gets the signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | Gets the value as LnsrResourceType if corresponding enum is described. Otherwise return Unknown |
 
 ## Methods

@@ -3,7 +3,7 @@ title: NvrtResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: NvrtResource method. Saves the resource to the specified stream container
 type: docs
-weight: 50
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/
 ---
 {{< psd/tize >}}

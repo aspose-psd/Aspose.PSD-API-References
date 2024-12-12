@@ -3,7 +3,7 @@ title: KnkoResource.Knockout
 second_title: Aspose.PSD for .NET API Reference
 description: KnkoResource property. Gets or sets a value indicating whether blend interior elements
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
 {{< psd/tize >}}

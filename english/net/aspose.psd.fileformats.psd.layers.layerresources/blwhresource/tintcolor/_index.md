@@ -3,7 +3,7 @@ title: BlwhResource.TintColor
 second_title: Aspose.PSD for .NET API Reference
 description: BlwhResource property. Gets or sets the Tint Color ARGB value
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor/
 ---
 {{< psd/tize >}}
