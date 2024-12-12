@@ -3,7 +3,7 @@ title: SmartObjectResource.TransformMatrix
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectResource property. Gets or sets the transform matrix of the smart object layer data in the PSD file
 type: docs
-weight: 230
+weight: 210
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/
 ---
 {{< psd/tize >}}

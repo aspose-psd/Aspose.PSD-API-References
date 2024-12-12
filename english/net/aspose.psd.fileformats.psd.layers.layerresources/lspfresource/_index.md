@@ -30,11 +30,11 @@ public class LspfResource : LayerResource
 | [IsCompositeProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/) { get; set; } | Gets or sets a value indicating whether this instance is composite protected. |
 | [IsPositionProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected/) { get; set; } | Gets or sets a value indicating whether this instance is position protected. |
 | [IsTransparencyProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected/) { get; set; } | Gets or sets a value indicating whether this instance is transparency protected. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/length/) { get; } | Gets the layer resource length in bytes. |
 | [LockType](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/) { get; set; } | Gets or sets the type of the lock. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/signature/) { get; } | Gets the layer resource signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods
 

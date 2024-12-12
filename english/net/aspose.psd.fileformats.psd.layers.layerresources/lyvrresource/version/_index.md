@@ -3,7 +3,7 @@ title: LyvrResource.Version
 second_title: Aspose.PSD for .NET API Reference
 description: LyvrResource property. Gets ot sets the photoshop version of Layer
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lyvrresource/version/
 ---
 {{< psd/tize >}}

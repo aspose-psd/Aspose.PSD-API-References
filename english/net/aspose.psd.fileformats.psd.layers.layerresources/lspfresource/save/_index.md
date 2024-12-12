@@ -3,7 +3,7 @@ title: LspfResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: LspfResource method. Saves the resource to the specified stream container
 type: docs
-weight: 100
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/save/
 ---
 {{< psd/tize >}}

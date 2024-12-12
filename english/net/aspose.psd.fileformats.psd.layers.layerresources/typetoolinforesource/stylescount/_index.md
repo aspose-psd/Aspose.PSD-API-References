@@ -3,7 +3,7 @@ title: TypeToolInfoResource.StylesCount
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfoResource property. Gets the styles count
 type: docs
-weight: 220
+weight: 190
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/stylescount/
 ---
 {{< psd/tize >}}

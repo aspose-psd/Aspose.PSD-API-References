@@ -3,7 +3,7 @@ title: PtFlResource.Offset
 second_title: Aspose.PSD for .NET API Reference
 description: PtFlResource property. Gets or sets the offset
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/
 ---
 {{< psd/tize >}}

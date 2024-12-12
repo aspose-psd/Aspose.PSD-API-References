@@ -3,7 +3,7 @@ title: BritResource.LabColor
 second_title: Aspose.PSD for .NET API Reference
 description: BritResource property. Gets or sets a value indicating whether lab color
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/
 ---
 {{< psd/tize >}}

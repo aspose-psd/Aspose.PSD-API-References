@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleResolution
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets Stroke style resolution
 type: docs
-weight: 200
+weight: 170
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleresolution/
 ---
 {{< psd/tize >}}

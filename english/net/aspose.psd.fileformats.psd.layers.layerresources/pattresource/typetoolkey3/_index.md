@@ -3,7 +3,7 @@ title: PattResource.TypeToolKey3
 second_title: Aspose.PSD for .NET API Reference
 description: PattResource field. The Pat3 type tool info key for 32bits
 type: docs
-weight: 100
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/
 ---
 {{< psd/tize >}}

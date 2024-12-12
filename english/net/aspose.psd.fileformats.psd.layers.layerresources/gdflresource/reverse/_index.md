@@ -3,7 +3,7 @@ title: GdFlResource.Reverse
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Gets or sets a value indicating whether this GdFlResource is reverse
 type: docs
-weight: 180
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/
 ---
 {{< psd/tize >}}

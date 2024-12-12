@@ -3,7 +3,7 @@ title: TypeToolInfoResource.SelectionStart
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfoResource property. Gets or sets the selection start
 type: docs
-weight: 190
+weight: 170
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/
 ---
 {{< psd/tize >}}

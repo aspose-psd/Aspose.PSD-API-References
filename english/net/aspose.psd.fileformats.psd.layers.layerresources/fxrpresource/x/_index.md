@@ -3,7 +3,7 @@ title: FxrpResource.X
 second_title: Aspose.PSD for .NET API Reference
 description: FxrpResource property. Gets or sets the x of reference point
 type: docs
-weight: 60
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: BlwhResource.Yellows
 second_title: Aspose.PSD for .NET API Reference
 description: BlwhResource property. Gets or sets the yellows value
 type: docs
-weight: 140
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows/
 ---
 {{< psd/tize >}}

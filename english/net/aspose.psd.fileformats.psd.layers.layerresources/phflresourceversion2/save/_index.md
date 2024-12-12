@@ -3,7 +3,7 @@ title: PhflResourceVersion2.Save
 second_title: Aspose.PSD for .NET API Reference
 description: PhflResourceVersion2 method. Saves the resource to the specified stream container
 type: docs
-weight: 110
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/save/
 ---
 {{< psd/tize >}}

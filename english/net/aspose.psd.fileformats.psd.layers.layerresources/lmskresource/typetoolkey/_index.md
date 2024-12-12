@@ -3,7 +3,7 @@ title: LmskResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: LmskResource field. The type tool info key
 type: docs
-weight: 140
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lmskresource/typetoolkey/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: ShmdResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: ShmdResource method. Saves the specified stream container
 type: docs
-weight: 80
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/
 ---
 {{< psd/tize >}}

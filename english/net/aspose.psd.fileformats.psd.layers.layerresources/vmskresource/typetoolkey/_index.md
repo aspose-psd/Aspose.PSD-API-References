@@ -3,7 +3,7 @@ title: VmskResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: VmskResource field. The type tool info key
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/typetoolkey/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PlacedResource.Top
 second_title: Aspose.PSD for .NET API Reference
 description: PlacedResource property. Gets or sets the top location of the placed layer in the PSD image
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/
 ---
 {{< psd/tize >}}

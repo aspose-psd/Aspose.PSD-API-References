@@ -3,7 +3,7 @@ title: SmartObjectResource.TotalPages
 second_title: Aspose.PSD for .NET API Reference
 description: SmartObjectResource property. Gets or sets the total pages number of the smart object layer data in the PSD file
 type: docs
-weight: 220
+weight: 200
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/
 ---
 {{< psd/tize >}}

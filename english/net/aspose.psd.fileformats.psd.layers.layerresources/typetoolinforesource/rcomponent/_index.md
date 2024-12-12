@@ -3,7 +3,7 @@ title: TypeToolInfoResource.RComponent
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfoResource property. Gets or sets the r component
 type: docs
-weight: 160
+weight: 140
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/
 ---
 {{< psd/tize >}}

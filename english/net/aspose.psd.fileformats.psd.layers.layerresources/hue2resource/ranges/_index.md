@@ -3,7 +3,7 @@ title: Hue2Resource.Ranges
 second_title: Aspose.PSD for .NET API Reference
 description: Hue2Resource property. Gets the ranges of Hue/Saturation Adjustment Layer. Ranges in PS can change names if range is changed so we should work by index
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/
 ---
 {{< psd/tize >}}

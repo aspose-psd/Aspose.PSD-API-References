@@ -3,7 +3,7 @@ title: PlacedResource.VerticalMeshPointUnit
 second_title: Aspose.PSD for .NET API Reference
 description: PlacedResource property. Gets or sets the measure unit of the vertical mesh points
 type: docs
-weight: 230
+weight: 220
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/
 ---
 {{< psd/tize >}}

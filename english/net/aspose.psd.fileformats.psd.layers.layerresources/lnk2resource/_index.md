@@ -28,10 +28,10 @@ public class Lnk2Resource : LinkResource
 | [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Gets the count of link data sources which can be accessed by the indexer. |
 | [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Gets a value indicating whether this link resource instance is empty. |
 | [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Gets the [`LiFdDataSource`](../lifddatasource/) at the specified index. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Gets the PSD global link resource length in bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Gets the PSD format version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Gets the PSD global link resource signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods
 

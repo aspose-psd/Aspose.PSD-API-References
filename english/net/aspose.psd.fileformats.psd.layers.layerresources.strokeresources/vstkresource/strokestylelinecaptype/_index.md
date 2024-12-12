@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleLineCapType
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets the type of the stroke style line cap
 type: docs
-weight: 120
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/
 ---
 {{< psd/tize >}}

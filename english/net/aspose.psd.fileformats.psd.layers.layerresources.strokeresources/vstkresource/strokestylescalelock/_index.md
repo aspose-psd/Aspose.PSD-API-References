@@ -3,7 +3,7 @@ title: VstkResource.StrokeStyleScaleLock
 second_title: Aspose.PSD for .NET API Reference
 description: VstkResource property. Gets or sets Stroke style scale lock
 type: docs
-weight: 210
+weight: 180
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/
 ---
 {{< psd/tize >}}

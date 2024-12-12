@@ -3,7 +3,7 @@ title: BlncResource.ShadowsCyanRedBalance
 second_title: Aspose.PSD for .NET API Reference
 description: BlncResource property. Gets or sets the Shadows Cyan Red Balance
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/
 ---
 {{< psd/tize >}}

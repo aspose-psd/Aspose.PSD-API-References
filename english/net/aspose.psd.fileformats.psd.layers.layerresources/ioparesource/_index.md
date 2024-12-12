@@ -27,10 +27,10 @@ public class IopaResource : LayerResource
 | Name | Description |
 | --- | --- |
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/) { get; set; } | Gets or sets the fill opacity. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length/) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion/) { get; } | Gets the psd version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signature/) { get; } | Gets the signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods
 

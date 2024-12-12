@@ -3,7 +3,7 @@ title: VscgResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: VscgResource method. Saves the resource to the specified stream container
 type: docs
-weight: 80
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vscgresource/save/
 ---
 {{< psd/tize >}}

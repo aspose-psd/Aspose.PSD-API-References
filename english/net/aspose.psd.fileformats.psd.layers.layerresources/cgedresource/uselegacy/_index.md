@@ -3,7 +3,7 @@ title: CgEdResource.UseLegacy
 second_title: Aspose.PSD for .NET API Reference
 description: CgEdResource property. Gets or sets a value indicating whether use legacy
 type: docs
-weight: 100
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
 {{< psd/tize >}}

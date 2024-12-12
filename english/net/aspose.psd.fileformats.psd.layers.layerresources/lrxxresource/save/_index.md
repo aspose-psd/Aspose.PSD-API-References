@@ -3,7 +3,7 @@ title: LrXxResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: LrXxResource method. Saves the layer record
 type: docs
-weight: 70
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/save/
 ---
 {{< psd/tize >}}

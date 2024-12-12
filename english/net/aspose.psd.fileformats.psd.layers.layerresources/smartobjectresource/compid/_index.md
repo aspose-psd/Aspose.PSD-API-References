@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/c
 {{< psd/tize >}}
 ## SmartObjectResource.CompId property
 
-Gets or sets the ID of the currently selected comp for the child document, which will be -1 if none are selected. Comps are compositions of a page layout which designers can create. Using layer comps, you can create, manage, and view multiple versions of a layout in a single Adobe® Photoshop® file. A layer comp is a snapshot of a state of the Layers panel. Layer comps save three types of layer options but this property gets the Layer Comp selection identifier for he smart object layer in the PSD file. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Gets or sets the ID of the currently selected comp for the child document, which will be -1 if none are selected. Comps are compositions of a page layout which designers can create. Using layer comps, you can create, manage, and view multiple versions of a layout in a single Adobe� Photoshop� file. A layer comp is a snapshot of a state of the Layers panel. Layer comps save three types of layer options but this property gets the Layer Comp selection identifier for he smart object layer in the PSD file. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }

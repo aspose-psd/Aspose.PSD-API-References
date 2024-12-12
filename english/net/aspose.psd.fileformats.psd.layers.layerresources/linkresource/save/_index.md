@@ -3,7 +3,7 @@ title: LinkResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: LinkResource method. Saves the resource block data
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: BlncResource.ShadowsYellowBlueBalance
 second_title: Aspose.PSD for .NET API Reference
 description: BlncResource property. Gets or sets the Shadows Yellow Blue Balance
 type: docs
-weight: 140
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PattResource.TypeToolKey2
 second_title: Aspose.PSD for .NET API Reference
 description: PattResource field. The Pat2 type tool info key for 16bits
 type: docs
-weight: 90
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/
 ---
 {{< psd/tize >}}

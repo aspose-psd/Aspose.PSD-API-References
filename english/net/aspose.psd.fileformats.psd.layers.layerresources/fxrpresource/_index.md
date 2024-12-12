@@ -27,10 +27,10 @@ public class FxrpResource : LayerResource
 
 | Name | Description |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length/) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion/) { get; } | Gets the psd version. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature/) { get; } | Gets the signature. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/) { get; set; } | Gets or sets the x of reference point |
 | [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/) { get; set; } | Gets or sets the y of reference point |
 

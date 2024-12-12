@@ -3,7 +3,7 @@ title: BlwhResource.Length
 second_title: Aspose.PSD for .NET API Reference
 description: BlwhResource property. Gets the layer resource length in bytes
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/
 ---
 {{< psd/tize >}}

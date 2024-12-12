@@ -3,7 +3,7 @@ title: GdFlResource.UseVectorColor
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Flag for using vector color
 type: docs
-weight: 250
+weight: 220
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/usevectorcolor/
 ---
 {{< psd/tize >}}

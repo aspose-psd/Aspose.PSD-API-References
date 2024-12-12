@@ -3,7 +3,7 @@ title: TypeToolInfoResource.Lines
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfoResource property. Gets or sets the lines
 type: docs
-weight: 140
+weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
 {{< psd/tize >}}

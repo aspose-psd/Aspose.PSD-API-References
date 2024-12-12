@@ -3,7 +3,7 @@ title: LayerSectionResource.Subtype
 second_title: Aspose.PSD for .NET API Reference
 description: LayerSectionResource property. Gets or sets the subtype
 type: docs
-weight: 80
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/
 ---
 {{< psd/tize >}}

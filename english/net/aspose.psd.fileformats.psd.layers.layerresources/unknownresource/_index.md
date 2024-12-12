@@ -26,9 +26,9 @@ public class UnknownResource : LayerResource
 | Name | Description |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/) { get; set; } | Gets or sets the data. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key/) { get; } | Gets the layer resource key. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/) { get; } | Gets the layer resource length in bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/) { get; } | Gets the layer resource signature. |
 
 ## Methods

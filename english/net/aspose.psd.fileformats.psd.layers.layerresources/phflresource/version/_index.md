@@ -3,7 +3,7 @@ title: PhflResource.Version
 second_title: Aspose.PSD for .NET API Reference
 description: PhflResource property. Gets the version. Default is 2 or 3
 type: docs
-weight: 50
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/version/
 ---
 {{< psd/tize >}}

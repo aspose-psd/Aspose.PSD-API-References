@@ -3,7 +3,7 @@ title: ShmdResource.SubResources
 second_title: Aspose.PSD for .NET API Reference
 description: ShmdResource property. Gets the sub resources of shmd resource
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/
 ---
 {{< psd/tize >}}

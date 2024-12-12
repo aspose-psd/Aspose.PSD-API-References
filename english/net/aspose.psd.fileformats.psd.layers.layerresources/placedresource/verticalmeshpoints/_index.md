@@ -3,7 +3,7 @@ title: PlacedResource.VerticalMeshPoints
 second_title: Aspose.PSD for .NET API Reference
 description: PlacedResource property. Gets or sets the horizontal mesh points of the placed layer in the PSD file
 type: docs
-weight: 220
+weight: 210
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/
 ---
 {{< psd/tize >}}

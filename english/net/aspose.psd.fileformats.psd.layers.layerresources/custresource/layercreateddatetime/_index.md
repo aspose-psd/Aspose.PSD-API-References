@@ -3,7 +3,7 @@ title: CustResource.LayerCreatedDateTime
 second_title: Aspose.PSD for .NET API Reference
 description: CustResource property. Gets or sets the layer created date
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/
 ---
 {{< psd/tize >}}

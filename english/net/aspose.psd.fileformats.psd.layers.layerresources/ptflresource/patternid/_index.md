@@ -3,7 +3,7 @@ title: PtFlResource.PatternId
 second_title: Aspose.PSD for .NET API Reference
 description: PtFlResource property. Gets or sets the pattern identifier
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: LyvrResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: LyvrResource method. Saves the resource to the specified stream container
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lyvrresource/save/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Hue2Resource.Saturation
 second_title: Aspose.PSD for .NET API Reference
 description: Hue2Resource property. Gets or sets the master saturation
 type: docs
-weight: 90
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
 {{< psd/tize >}}

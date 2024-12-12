@@ -3,7 +3,7 @@ title: GdFlResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource method. Saves the resource to the specified stream container
 type: docs
-weight: 270
+weight: 240
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save/
 ---
 {{< psd/tize >}}

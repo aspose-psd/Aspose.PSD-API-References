@@ -3,7 +3,7 @@ title: TypeToolInfoResource.LineCount
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfoResource property. Gets the line count
 type: docs
-weight: 130
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/
 ---
 {{< psd/tize >}}

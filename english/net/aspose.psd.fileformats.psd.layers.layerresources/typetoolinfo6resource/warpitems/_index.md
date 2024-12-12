@@ -3,7 +3,7 @@ title: TypeToolInfo6Resource.WarpItems
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfo6Resource property. Gets or sets the warp items
 type: docs
-weight: 200
+weight: 170
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpitems/
 ---
 {{< psd/tize >}}

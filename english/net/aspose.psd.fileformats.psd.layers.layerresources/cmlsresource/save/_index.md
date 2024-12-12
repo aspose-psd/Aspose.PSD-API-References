@@ -3,7 +3,7 @@ title: CmlsResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: CmlsResource method. Saves the resource to the specified stream container
 type: docs
-weight: 60
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/save/
 ---
 {{< psd/tize >}}

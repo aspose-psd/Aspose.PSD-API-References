@@ -3,7 +3,7 @@ title: PattResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: PattResource method. Saves the resource block data
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: KnkoResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: KnkoResource field. The type tool info key
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/
 ---
 {{< psd/tize >}}

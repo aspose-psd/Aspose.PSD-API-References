@@ -3,7 +3,7 @@ title: LnsrResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: LnsrResource method. Saves the specified stream container
 type: docs
-weight: 80
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/
 ---
 {{< psd/tize >}}

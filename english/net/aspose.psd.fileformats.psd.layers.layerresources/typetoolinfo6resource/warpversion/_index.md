@@ -3,7 +3,7 @@ title: TypeToolInfo6Resource.WarpVersion
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfo6Resource property. Gets or sets the warp version
 type: docs
-weight: 210
+weight: 180
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpversion/
 ---
 {{< psd/tize >}}

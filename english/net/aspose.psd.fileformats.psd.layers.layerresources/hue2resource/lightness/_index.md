@@ -3,7 +3,7 @@ title: Hue2Resource.Lightness
 second_title: Aspose.PSD for .NET API Reference
 description: Hue2Resource property. Gets or sets the master lightness
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/
 ---
 {{< psd/tize >}}

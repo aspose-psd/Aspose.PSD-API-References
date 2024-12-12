@@ -3,7 +3,7 @@ title: TypeToolInfo6Resource.WarpClassID
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfo6Resource property. Gets or sets the class ID
 type: docs
-weight: 170
+weight: 140
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassid/
 ---
 {{< psd/tize >}}

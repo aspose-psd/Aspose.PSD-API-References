@@ -3,7 +3,7 @@ title: LayerSectionResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: LayerSectionResource method. Saves the resource to the specified stream container
 type: docs
-weight: 90
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/save/
 ---
 {{< psd/tize >}}

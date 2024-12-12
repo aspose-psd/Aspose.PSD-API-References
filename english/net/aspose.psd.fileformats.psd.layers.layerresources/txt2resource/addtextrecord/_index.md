@@ -3,7 +3,7 @@ title: Txt2Resource.AddTextRecord
 second_title: Aspose.PSD for .NET API Reference
 description: Txt2Resource method. Adds the text record to Resource and returns id of text record
 type: docs
-weight: 70
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
 {{< psd/tize >}}

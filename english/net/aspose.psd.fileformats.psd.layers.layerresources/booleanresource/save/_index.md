@@ -3,7 +3,7 @@ title: BooleanResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: BooleanResource method. Saves the specified stream container
 type: docs
-weight: 40
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: TypeToolInfo6Resource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: TypeToolInfo6Resource field. The type tool info key
 type: docs
-weight: 230
+weight: 200
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolkey/
 ---
 {{< psd/tize >}}

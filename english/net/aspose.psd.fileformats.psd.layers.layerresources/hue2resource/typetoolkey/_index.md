@@ -3,7 +3,7 @@ title: Hue2Resource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: Hue2Resource field. The type tool info key
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/typetoolkey/
 ---
 {{< psd/tize >}}

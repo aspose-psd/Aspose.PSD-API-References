@@ -3,7 +3,7 @@ title: GdFlResource.Roughness
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Roughness factor
 type: docs
-weight: 200
+weight: 180
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/roughness/
 ---
 {{< psd/tize >}}

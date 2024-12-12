@@ -3,7 +3,7 @@ title: ExpaResource.Offset
 second_title: Aspose.PSD for .NET API Reference
 description: ExpaResource property. Gets or sets the offset
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
 {{< psd/tize >}}

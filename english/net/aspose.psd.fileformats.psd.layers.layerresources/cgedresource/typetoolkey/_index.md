@@ -3,7 +3,7 @@ title: CgEdResource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: CgEdResource field. The type tool info key
 type: docs
-weight: 130
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/
 ---
 {{< psd/tize >}}
