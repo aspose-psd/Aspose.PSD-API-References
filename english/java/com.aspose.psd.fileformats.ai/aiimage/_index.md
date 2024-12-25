@@ -78,6 +78,7 @@ The Adobe Illustrator (AI) Image
 | [getMemoryMgr_internalized()](#getMemoryMgr-internalized--) | Gets the memory manager. |
 | [getOperatorStack_internalized()](#getOperatorStack-internalized--) | Gets or sets the PostScript operator stack. |
 | [getOriginalOptions()](#getOriginalOptions--) | Gets the options based on the original file settings. |
+| [getPageCount()](#getPageCount--) | The number of pages. |
 | [getPaintableImage_internalized(ImageOptionsBase paintableOptions)](#getPaintableImage-internalized-com.aspose.psd.ImageOptionsBase-) | Gets the paintable image. |
 | [getPalette()](#getPalette--) | Gets the color palette. |
 | [getPrivateFontCache_internalized()](#getPrivateFontCache-internalized--) | Creates the private font cache. |
@@ -812,6 +813,18 @@ Gets the options based on the original file settings. This can be helpful to kee
 
 **Returns:**
 [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) - The options based on the original file settings.
+### getPageCount() {#getPageCount--}
+```
+public final int getPageCount()
+```
+
+
+The number of pages. For the old AI format images always equal 0.
+
+Value: The number of pages.
+
+**Returns:**
+int
 ### getPaintableImage_internalized(ImageOptionsBase paintableOptions) {#getPaintableImage-internalized-com.aspose.psd.ImageOptionsBase-}
 ```
 public Image getPaintableImage_internalized(ImageOptionsBase paintableOptions)

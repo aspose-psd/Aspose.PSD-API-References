@@ -226,7 +226,7 @@ Value: The master hue.
 short
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 

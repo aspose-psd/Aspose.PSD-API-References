@@ -338,7 +338,7 @@ Value: The Highlights Yellow Blue Balance.
 short
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 
