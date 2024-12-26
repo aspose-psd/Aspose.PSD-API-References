@@ -137,7 +137,7 @@ Defines the SoLdResource class that contains information about a smart object la
 | [getResolution()](#getResolution--) | Gets or sets the resolution of the smart object layer data in the PSD file. |
 | [getResolutionUnit()](#getResolutionUnit--) | Gets or sets the resolution measure unit of the smart object layer data in the PSD file. |
 | [getRight()](#getRight--) | Gets or sets the right location of the placed layer in the PSD file. |
-| [getSignature()](#getSignature--) | Gets the Placed resource signature. |
+| [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [getTop()](#getTop--) | Gets or sets the top location of the placed layer in the PSD image. |
 | [getTotalPages()](#getTotalPages--) | Gets or sets the total pages number of the smart object layer data in the PSD file. |
 | [getTransformMatrix()](#getTransformMatrix--) | Gets or sets the transform matrix of the smart object layer data in the PSD file. |
@@ -1095,7 +1095,7 @@ Value: The descriptor items of placed layer information.
 com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[]
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 
@@ -1286,7 +1286,7 @@ public int getSignature()
 ```
 
 
-Gets the Placed resource signature.
+Gets the layer resource signature.
 
 **Returns:**
 int

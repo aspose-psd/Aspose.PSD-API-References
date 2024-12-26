@@ -58,7 +58,7 @@ Class GrdmResource. Contains information about Gradient-Map layer.
 | [getRndNumberSeed()](#getRndNumberSeed--) | The random number seed used to generate colors for Noise gradient. |
 | [getRoughness()](#getRoughness--) | Roughness factor When 'Gradient type' = 'Noise', we can assign 'Roughness' (0 - 2048). |
 | [getShowTransparency()](#getShowTransparency--) | Flag for showing transparency When 'Gradient type' = 'Noise', we can assign 'Add transparency' to true. |
-| [getSignature()](#getSignature--) | Gets the signature. |
+| [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [getTransparencyPoints()](#getTransparencyPoints--) | Gets or sets the transparency points. |
 | [getUseVectorColor()](#getUseVectorColor--) | Flag for using vector color. |
 | [hashCode()](#hashCode--) |  |
@@ -311,7 +311,7 @@ Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid' (GradientMo
 short
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 
@@ -420,7 +420,7 @@ public int getSignature()
 ```
 
 
-Gets the signature.
+Gets the layer resource signature.
 
 **Returns:**
 int

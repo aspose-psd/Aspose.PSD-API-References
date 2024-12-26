@@ -84,7 +84,7 @@ Defines the PlLdResource class that contains information about a placed layer in
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
 | [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
 | [getRight()](#getRight--) | Gets or sets the right location of the placed layer in the PSD file. |
-| [getSignature()](#getSignature--) | Gets the Placed resource signature. |
+| [getSignature()](#getSignature--) | Gets the layer resource signature. |
 | [getTop()](#getTop--) | Gets or sets the top location of the placed layer in the PSD image. |
 | [getTotalPages()](#getTotalPages--) | Gets or sets the total pages of the placed layer in the PSD file. |
 | [getTransformMatrix()](#getTransformMatrix--) | Gets or sets the transform matrix of the placed layer in the PSD file. |
@@ -604,7 +604,7 @@ Value: The warp items.
 com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[]
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 
@@ -725,7 +725,7 @@ public int getSignature()
 ```
 
 
-Gets the Placed resource signature.
+Gets the layer resource signature.
 
 **Returns:**
 int

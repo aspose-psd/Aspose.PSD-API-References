@@ -367,7 +367,7 @@ The image data.
 int[][]
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 

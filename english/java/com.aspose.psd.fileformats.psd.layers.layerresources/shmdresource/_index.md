@@ -192,7 +192,7 @@ Value: The header.
 com.aspose.internal.fileformats.psd.sections.PsdHeader
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 
