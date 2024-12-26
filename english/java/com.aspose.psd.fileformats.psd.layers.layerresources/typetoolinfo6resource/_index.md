@@ -265,7 +265,7 @@ Value: The items.
 com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[]
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 

@@ -309,7 +309,7 @@ Value: The horizontal placement.
 int
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 

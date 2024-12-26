@@ -376,7 +376,7 @@ The horizontal offset.
 double
 ### getKey() {#getKey--}
 ```
-public int getKey()
+public final int getKey()
 ```
 
 
