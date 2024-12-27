@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -29,7 +29,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 | data | byte | r | Gets the raw data. |
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the layer resource length in bytes. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 | value | [LnsrResourceType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype) | r | Gets the value as LnsrResourceType if corresponding enum is described.<br/>            Otherwise return Unknown |
 ## **Methods**

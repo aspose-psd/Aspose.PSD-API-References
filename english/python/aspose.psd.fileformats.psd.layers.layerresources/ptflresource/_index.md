@@ -13,12 +13,13 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 
 **Inheritance:** FillLayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
 | :- | :- |
-| [PtFlResource(pattern_name, pattern_id)](#PtFlResource_pattern_name_pattern_id_1) | Initializes a new instance of the [PtFlResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/) class. |
+| [PtFlResource()](#PtFlResource__1) | Initializes a new instance of the [PtFlResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/) class. |
+| [PtFlResource(pattern_name, pattern_id)](#PtFlResource_pattern_name_pattern_id_2) | Initializes a new instance of the [PtFlResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/) class. |
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
@@ -35,14 +36,23 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 | pattern_name | string | r/w | Gets or sets the name of the pattern. |
 | psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | scale | double | r/w | Gets or sets the scale. |
-| signature | int | r | Gets the layer resource signature. |
+| signature | int | r | Gets the signature. |
 ## **Methods**
 | **Name** | **Description** |
 | :- | :- |
 | [save(stream_container, psd_version)](#save_stream_container_psd_version_1) | Saves the resource to the specified stream container. |
 
 
-### Constructor: PtFlResource(pattern_name, pattern_id) {#PtFlResource_pattern_name_pattern_id_1}
+### Constructor: PtFlResource() {#PtFlResource__1}
+
+
+```
+ PtFlResource() 
+```
+
+Initializes a new instance of the [PtFlResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/) class.
+
+### Constructor: PtFlResource(pattern_name, pattern_id) {#PtFlResource_pattern_name_pattern_id_2}
 
 
 ```

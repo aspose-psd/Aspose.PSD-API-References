@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 
 **Full Name:** aspose.psd.fileformats.core.vectorpaths.VectorShapeBoundingBox
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

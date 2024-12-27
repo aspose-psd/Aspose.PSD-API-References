@@ -1,7 +1,7 @@
 ---
 title: InterpolationMode Enumeration
 type: docs
-weight: 5780
+weight: 5790
 url: /python-net/aspose.psd/interpolationmode/
 ---
 
@@ -11,7 +11,7 @@ The [InterpolationMode](/psd/python-net/aspose.psd/interpolationmode/) enumerati
 
 **Full Name:** aspose.psd.InterpolationMode
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: DitheringMethods Enumeration
 type: docs
-weight: 5400
+weight: 5410
 url: /python-net/aspose.psd/ditheringmethods/
 ---
 
@@ -11,7 +11,7 @@ The dithering methods used to control color conversion.
 
 **Full Name:** aspose.psd.DitheringMethods
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

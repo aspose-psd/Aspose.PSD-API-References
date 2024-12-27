@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -33,7 +33,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 | lab_color | bool | r/w | Gets or sets a value indicating whether [lab color]. |
 | length | int | r | Gets the layer resource length in bytes. |
 | mean_value_for_brightness_and_contrast | short | r/w | Gets or sets the mean value for brightness and contrast. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 ## **Methods**
 | **Name** | **Description** |

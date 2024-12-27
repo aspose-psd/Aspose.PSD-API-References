@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/artbresource/
 
 **Inheritance:** BaseArtboardInfoResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -25,10 +25,12 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/artbresource/
 | PSB_RESOURCE_SIGNATURE [static] | int | r | The PSB-specific resource signature. |
 | RESOURCE_SIGNATURE [static] | int | r | The common resource signature. |
 | TYPE_TOOL_KEY [static] | int | r | The type tool info key. |
+| artboard_background_type | int | r/w | Gets or sets the [ArtBResource.artboard_background_type](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/artbresource/) |
+| color | [Color](/psd/python-net/aspose.psd/color) | r/w | Gets or sets the [ArtBResource.color](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/artbresource/) |
 | items | [OSTypeStructure[]](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) | r/w | Gets or sets the [OSTypeStructure](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) items. |
 | key | int | r | Gets the layer resource key. |
 | length | int | r | <inheritdoc /> |
-| psd_version | int | r | <inheritdoc /> |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 ## **Methods**
 | **Name** | **Description** |

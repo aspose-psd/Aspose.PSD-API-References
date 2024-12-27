@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -32,7 +32,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the layer resource length in bytes. |
 | offset | float | r/w | Gets or sets the offset. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 | version | short | r | Gets the version. Default is 1 |
 ## **Methods**

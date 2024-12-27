@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.xmp/xmppackagebasecollection/
 
 **Full Name:** aspose.psd.xmp.XmpPackageBaseCollection
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

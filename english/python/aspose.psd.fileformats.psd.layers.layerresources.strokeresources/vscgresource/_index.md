@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources.strokeresource
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -25,11 +25,11 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources.strokeresource
 | PSB_RESOURCE_SIGNATURE [static] | int | r | The PSB-specific resource signature. |
 | RESOURCE_SIGNATURE [static] | int | r | The common resource signature. |
 | TYPE_TOOL_KEY [static] | int | r | The type tool info key. |
-| items | [OSTypeStructure[]](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) | r | Gets or sets the structure items. |
+| items | [OSTypeStructure[]](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) | r | Gets or sets the array of structure items.<br/>            **Warning:** The `Items` array values must match with the `KeyForData` property, which determines the type of fill settings stored in the structures within `Items`. |
 | key | int | r | Gets the layer resource key. |
-| key_for_data | int | r | Integer key that defines what kind of fill settings is tored in the resource:<br/>            * Color - 0x536f436f - SoCoResource.TypeToolKey<br/>            * Gradient - 0x4764466c - GdFlResource.TypeToolKey<br/>            * Pattern - 0x5074466c - PtFlResource.TypeToolKey |
+| key_for_data | int | r | Gets integer key that defines what kind of fill settings is stored in the resource:<br/>            * Color - 0x536f436f - SoCoResource.TypeToolKey<br/>            * Gradient - 0x4764466c - GdFlResource.TypeToolKey<br/>            * Pattern - 0x5074466c - PtFlResource.TypeToolKey<br/>            Warning! The value of property KeyForData should match the type of Fill settings stored in Items structures. |
 | length | int | r | Gets the layer resource length in bytes. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 ## **Methods**
 | **Name** | **Description** |

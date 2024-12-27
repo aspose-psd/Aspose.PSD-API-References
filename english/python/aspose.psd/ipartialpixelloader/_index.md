@@ -1,7 +1,7 @@
 ---
 title: IPartialPixelLoader Class
 type: docs
-weight: 1920
+weight: 1930
 url: /python-net/aspose.psd/ipartialpixelloader/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/ipartialpixelloader/
 
 **Full Name:** aspose.psd.IPartialPixelLoader
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

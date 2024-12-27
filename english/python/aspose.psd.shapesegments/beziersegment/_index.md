@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.shapesegments/beziersegment/
 
 **Inheritance:** LineSegment
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

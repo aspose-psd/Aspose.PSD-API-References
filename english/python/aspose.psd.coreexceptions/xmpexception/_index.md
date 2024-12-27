@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.coreexceptions/xmpexception/
 
 **Inheritance:** FrameworkException
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

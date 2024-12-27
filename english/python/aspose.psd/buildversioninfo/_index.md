@@ -1,7 +1,7 @@
 ---
 title: BuildVersionInfo Class
 type: docs
-weight: 490
+weight: 500
 url: /python-net/aspose.psd/buildversioninfo/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/buildversioninfo/
 
 **Full Name:** aspose.psd.BuildVersionInfo
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: BlendRange Class
 type: docs
-weight: 130
+weight: 140
 url: /python-net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/blendrange/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.BlendRange
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

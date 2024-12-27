@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.xmp.types/ixmptype/
 
 **Full Name:** aspose.psd.xmp.types.IXmpType
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

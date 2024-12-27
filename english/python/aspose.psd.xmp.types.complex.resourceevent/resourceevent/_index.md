@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/
 
 **Inheritance:** IXmpType, ComplexTypeBase
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

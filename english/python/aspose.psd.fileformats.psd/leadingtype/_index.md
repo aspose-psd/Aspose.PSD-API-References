@@ -1,7 +1,7 @@
 ---
 title: LeadingType Enumeration
 type: docs
-weight: 2560
+weight: 2570
 url: /python-net/aspose.psd.fileformats.psd/leadingtype/
 ---
 
@@ -11,7 +11,7 @@ Photoshop leading type (type of distance between lines).
 
 **Full Name:** aspose.psd.fileformats.psd.LeadingType
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfore
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -42,7 +42,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfore
 | scale_factor | int | r/w | Gets or sets the scale factor. |
 | selection_end | int | r/w | Gets or sets the selection end. |
 | selection_start | int | r/w | Gets or sets the selection start. |
-| signature | int | r | Gets the layer resource signature. |
+| signature | int | r | Gets the signature. |
 | styles | [TypeToolStyleInfo[]](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo) | r/w | Gets or sets the font styles. |
 | styles_count | short | r | Gets the styles count. |
 | transform_matrix | double | r/w | Gets or sets the transform matrix. |

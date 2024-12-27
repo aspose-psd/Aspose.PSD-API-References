@@ -11,7 +11,7 @@ The resolution info resolution unit
 
 **Full Name:** aspose.psd.fileformats.psd.resources.resolutionenums.ResolutionUnit
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

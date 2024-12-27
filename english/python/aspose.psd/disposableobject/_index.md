@@ -1,7 +1,7 @@
 ---
 title: DisposableObject Class
 type: docs
-weight: 1070
+weight: 1080
 url: /python-net/aspose.psd/disposableobject/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/disposableobject/
 
 **Full Name:** aspose.psd.DisposableObject
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

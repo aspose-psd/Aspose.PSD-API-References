@@ -1,7 +1,7 @@
 ---
 title: IIndexedColorConverter Class
 type: docs
-weight: 1820
+weight: 1830
 url: /python-net/aspose.psd/iindexedcolorconverter/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/iindexedcolorconverter/
 
 **Full Name:** aspose.psd.IIndexedColorConverter
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -30,7 +30,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 | key | int | r | Gets the layer resource key. |
 | layer_created_date_time | datetime | r/w | Gets or sets the layer created time. If Layer created time not specified then returns new DateTime(0) |
 | length | int | r | Gets the layer resource length in bytes. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 | sub_resources | [LayerResource[]](/psd/python-net/aspose.psd.fileformats.psd.layers/layerresource) | r | Gets the sub resources of shmd resource. |
 ## **Methods**

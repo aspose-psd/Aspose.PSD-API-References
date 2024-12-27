@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/
 
 **Inheritance:** LrXxResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -28,7 +28,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/
 | key | int | r | Gets the layer resource key. |
 | layers | [Layer[]](/psd/python-net/aspose.psd.xmp.schemas.photoshop/layer) | r/w | Gets or sets the layers. |
 | length | int | r | Gets the resource length for the PSD header version of the image. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 ## **Methods**
 | **Name** | **Description** |

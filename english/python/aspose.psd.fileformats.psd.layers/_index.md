@@ -11,6 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/
 ## **Classes**
 | **Class** | **Description** |
 | :- | :- |
+| [ArtboardLayer](/psd/python-net/aspose.psd.fileformats.psd.layers/artboardlayer/) | The artboard layer class. |
 | [BlendRange](/psd/python-net/aspose.psd.fileformats.psd.layers/blendrange/) | The blend range. |
 | [ChannelInformation](/psd/python-net/aspose.psd.fileformats.psd.layers/channelinformation/) | The channel information. |
 | [GlobalLayerMaskInfo](/psd/python-net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/) | The global layer mask section. |

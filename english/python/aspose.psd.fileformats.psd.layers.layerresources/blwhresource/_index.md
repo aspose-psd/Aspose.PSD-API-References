@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -33,7 +33,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the layer resource length in bytes. |
 | magentas | int | r/w | Gets or sets the magentas value. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | reds | int | r/w | Gets or sets the reds value. |
 | signature | int | r | Gets the signature. |
 | tint_color | int | r/w | Gets or sets the Tint Color ARGB value. |

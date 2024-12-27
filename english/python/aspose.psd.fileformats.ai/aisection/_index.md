@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.ai/aisection/
 
 **Full Name:** aspose.psd.fileformats.ai.AiSection
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

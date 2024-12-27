@@ -1,7 +1,7 @@
 ---
 title: Figure Class
 type: docs
-weight: 1210
+weight: 1220
 url: /python-net/aspose.psd/figure/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/figure/
 
 **Inheritance:** ObjectWithBounds
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

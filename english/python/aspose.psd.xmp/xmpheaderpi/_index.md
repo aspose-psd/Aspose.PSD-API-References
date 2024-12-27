@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.xmp/xmpheaderpi/
 
 **Inheritance:** IXmlValue
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

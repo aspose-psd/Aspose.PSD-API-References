@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/abddresource/
 
 **Inheritance:** BaseArtboardInfoResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -28,7 +28,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/abddresource/
 | items | [OSTypeStructure[]](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) | r/w | Gets or sets the [OSTypeStructure](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) items. |
 | key | int | r | Gets the layer resource key. |
 | length | int | r | <inheritdoc /> |
-| psd_version | int | r | <inheritdoc /> |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 ## **Methods**
 | **Name** | **Description** |

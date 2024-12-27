@@ -1,7 +1,7 @@
 ---
 title: PdfComplianceVersion Enumeration
 type: docs
-weight: 6040
+weight: 6050
 url: /python-net/aspose.psd/pdfcomplianceversion/
 ---
 
@@ -11,7 +11,7 @@ Specifies the PDF compliance level to output file.
 
 **Full Name:** aspose.psd.PdfComplianceVersion
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

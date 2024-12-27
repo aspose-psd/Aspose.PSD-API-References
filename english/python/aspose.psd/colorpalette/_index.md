@@ -1,7 +1,7 @@
 ---
 title: ColorPalette Class
 type: docs
-weight: 790
+weight: 800
 url: /python-net/aspose.psd/colorpalette/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/colorpalette/
 
 **Inheritance:** IColorPalette
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

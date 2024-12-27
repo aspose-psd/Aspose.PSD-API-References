@@ -1,7 +1,7 @@
 ---
 title: LayerResource Class
 type: docs
-weight: 990
+weight: 1000
 url: /python-net/aspose.psd.fileformats.psd.layers/layerresource/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layerresource/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -11,7 +11,7 @@ exif sensing method enum.
 
 **Full Name:** aspose.psd.exif.enums.ExifSensingMethod
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |
