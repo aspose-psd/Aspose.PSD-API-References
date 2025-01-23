@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdata
 
 **Inheritance:** IVectorPathData, LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -26,7 +26,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdata
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the layer resource length in bytes. |
 | paths | [VectorPathRecord[]](/psd/python-net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/) | r/w | Gets or sets the path records. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 | version | int | r/w | Gets or sets the version. |
 ## **Methods**

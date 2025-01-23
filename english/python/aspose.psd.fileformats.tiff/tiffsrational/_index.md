@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.tiff/tiffsrational/
 
 **Full Name:** aspose.psd.fileformats.tiff.TiffSRational
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

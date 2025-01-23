@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -24,8 +24,8 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/
 | is_empty | bool | r | Gets a value indicating whether this link resource instance is empty. |
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the PSD global link resource length in bytes. |
-| psd_version | int | r | Gets the PSD format version. |
-| signature | int | r | Gets the PSD global link resource signature. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| signature | int | r | Gets the signature. |
 ## **Methods**
 | **Name** | **Description** |
 | :- | :- |

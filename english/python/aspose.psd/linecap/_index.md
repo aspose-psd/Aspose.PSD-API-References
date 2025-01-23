@@ -1,7 +1,7 @@
 ---
 title: LineCap Enumeration
 type: docs
-weight: 5930
+weight: 5940
 url: /python-net/aspose.psd/linecap/
 ---
 
@@ -11,7 +11,7 @@ Specifies the available cap styles with which a [Pen](/psd/python-net/aspose.psd
 
 **Full Name:** aspose.psd.LineCap
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

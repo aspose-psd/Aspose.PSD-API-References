@@ -1,7 +1,7 @@
 ---
 title: ColorPaletteHelper Class
 type: docs
-weight: 800
+weight: 810
 url: /python-net/aspose.psd/colorpalettehelper/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/colorpalettehelper/
 
 **Full Name:** aspose.psd.ColorPaletteHelper
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

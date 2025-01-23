@@ -1,7 +1,7 @@
 ---
 title: GlobalLayerMaskInfo Class
 type: docs
-weight: 560
+weight: 570
 url: /python-net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/
 
 **Full Name:** aspose.psd.fileformats.psd.layers.GlobalLayerMaskInfo
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

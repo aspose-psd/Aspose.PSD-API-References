@@ -1,7 +1,7 @@
 ---
 title: RasterCachedImage Class
 type: docs
-weight: 3720
+weight: 3730
 url: /python-net/aspose.psd/rastercachedimage/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/rastercachedimage/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, RasterImage
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

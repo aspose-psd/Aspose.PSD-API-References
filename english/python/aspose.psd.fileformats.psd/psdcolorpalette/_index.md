@@ -1,7 +1,7 @@
 ---
 title: PsdColorPalette Class
 type: docs
-weight: 1740
+weight: 1750
 url: /python-net/aspose.psd.fileformats.psd/psdcolorpalette/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd/psdcolorpalette/
 
 **Inheritance:** IPsdColorPalette, IColorPalette
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

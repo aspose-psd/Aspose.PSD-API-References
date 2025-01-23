@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -34,7 +34,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 | midtones_magenta_green_balance | short | r/w | Gets or sets the Midtones Magenta Green Balance. |
 | midtones_yellow_blue_balance | short | r/w | Gets or sets the Midtones Yellow Blue Balance. |
 | preserve_luminosity | bool | r/w | Gets or sets a value indicating whether this [BlncResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/) preserves luminosity. |
-| psd_version | int | r | Gets the PSD version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | shadows_cyan_red_balance | short | r/w | Gets or sets the Shadows Cyan Red Balance. |
 | shadows_magenta_green_balance | short | r/w | Gets or sets the Shadows Magenta Green Balance. |
 | shadows_yellow_blue_balance | short | r/w | Gets or sets the Shadows Yellow Blue Balance. |

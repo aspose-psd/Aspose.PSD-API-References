@@ -11,7 +11,7 @@ The frame disposal method specifies whether to discard the current frame before 
 
 **Full Name:** aspose.psd.fileformats.psd.layers.animation.FrameDisposalMethod
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

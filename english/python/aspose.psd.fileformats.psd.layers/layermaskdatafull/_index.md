@@ -1,7 +1,7 @@
 ---
 title: LayerMaskDataFull Class
 type: docs
-weight: 970
+weight: 980
 url: /python-net/aspose.psd.fileformats.psd.layers/layermaskdatafull/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layermaskdatafull/
 
 **Inheritance:** LayerMaskData
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -37,7 +37,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers/layermaskdatafull/
 | real_flags | [LayerMaskFlags](/psd/python-net/aspose.psd.fileformats.psd.layers/layermaskflags) | r/w | Gets or sets the layer mask flags that is used for user / raster mask. For vector mask the Flags property is used. |
 | right | int | r/w | Gets or sets the right layer mask position. |
 | top | int | r/w | Gets or sets the top layer mask position. |
-| user_mask_data | byte | r/w | Gets or sets the user (raster) mask data of a layer in the PSD file. (There is a raterized vector mask in the MaskData property). |
+| user_mask_data | byte | r/w | Gets or sets the user (raster) mask data of a layer in the PSD file. (There is a rasterized vector mask in the MaskData property). |
 | user_mask_rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | r/w | Gets or sets the user mask (enclosing) rectangle in the PSD image layer.. |
 
 

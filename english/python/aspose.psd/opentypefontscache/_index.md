@@ -1,7 +1,7 @@
 ---
 title: OpenTypeFontsCache Class
 type: docs
-weight: 3180
+weight: 3190
 url: /python-net/aspose.psd/opentypefontscache/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/opentypefontscache/
 
 **Full Name:** aspose.psd.OpenTypeFontsCache
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

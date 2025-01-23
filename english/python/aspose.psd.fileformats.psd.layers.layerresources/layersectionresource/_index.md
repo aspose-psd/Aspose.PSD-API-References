@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectionre
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -30,7 +30,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectionre
 | length | int | r | Gets the layer resource length in bytes. |
 | psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | section_type | [LayerSectionType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype) | r/w | Gets or sets the section type. |
-| signature | int | r | Gets the layer resource signature. |
+| signature | int | r | Gets the signature. |
 | subtype | [LayerSectionSubtype](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype) | r/w | Gets or sets the subtype. |
 ## **Methods**
 | **Name** | **Description** |

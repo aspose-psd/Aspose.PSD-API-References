@@ -11,7 +11,7 @@ The unit types.
 
 **Full Name:** aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.UnitTypes
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |
@@ -19,6 +19,7 @@ The unit types.
 | ANGLE | Angle unit. |
 | DENSITY | Density unit. |
 | DISTANCE | Distance unit. |
+| MILLIMETERS | Millimeters unit. |
 | NONE | Undefined unit. |
 | PERCENT | Percent unit. |
 | PIXELS | Pixels unit. |

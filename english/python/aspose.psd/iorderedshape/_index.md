@@ -1,7 +1,7 @@
 ---
 title: IOrderedShape Class
 type: docs
-weight: 1890
+weight: 1900
 url: /python-net/aspose.psd/iorderedshape/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/iorderedshape/
 
 **Full Name:** aspose.psd.IOrderedShape
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.ai/aiimage/
 
 **Inheritance:** IObjectWithBounds, Image
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -40,6 +40,7 @@ url: /python-net/aspose.psd.fileformats.ai/aiimage/
 | interrupt_monitor | [InterruptMonitor](/psd/python-net/aspose.psd.multithreading/interruptmonitor/) | r/w | Gets or sets the interrupt monitor. |
 | is_cached | bool | r | Gets a value indicating whether object's data is cached currently and no data reading is required. |
 | layers | [AiLayerSection[]](/psd/python-net/aspose.psd.fileformats.ai/ailayersection) | r | Gets the layer sections. |
+| page_count | int | r | The number of pages.<br/>            For the old AI format images always equal 0. |
 | palette | [IColorPalette](/psd/python-net/aspose.psd/icolorpalette) | r/w | Gets or sets the color palette. The color palette is not used when pixels are represented directly. |
 | setup_section | [AiSetupSection](/psd/python-net/aspose.psd.fileformats.ai/aisetupsection) | r | Gets the setup section. |
 | size | [Size](/psd/python-net/aspose.psd/size) | r | Gets the image size. |

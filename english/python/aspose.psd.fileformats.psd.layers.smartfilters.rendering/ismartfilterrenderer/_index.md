@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismart
 
 **Full Name:** aspose.psd.fileformats.psd.layers.smartfilters.rendering.ISmartFilterRenderer
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

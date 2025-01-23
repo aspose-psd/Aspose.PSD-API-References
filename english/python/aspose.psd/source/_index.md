@@ -1,7 +1,7 @@
 ---
 title: Source Class
 type: docs
-weight: 4200
+weight: 4210
 url: /python-net/aspose.psd/source/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/source/
 
 **Full Name:** aspose.psd.Source
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

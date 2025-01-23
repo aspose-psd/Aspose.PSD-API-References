@@ -1,7 +1,7 @@
 ---
 title: IImageCreator Class
 type: docs
-weight: 1750
+weight: 1760
 url: /python-net/aspose.psd/iimagecreator/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/iimagecreator/
 
 **Full Name:** aspose.psd.IImageCreator
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

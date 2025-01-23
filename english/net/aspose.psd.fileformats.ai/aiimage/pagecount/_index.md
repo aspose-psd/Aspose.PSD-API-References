@@ -19,6 +19,41 @@ public int PageCount { get; }
 
 The number of pages.
 
+## Examples
+
+The following code demonstrates support of AiImage property for number of pages AiImage.PageCount.
+
+```csharp
+[C#]
+
+string sourceFile = "2241.ai";
+string[] outputFiles = new string[3]
+{
+    "2241_pageNumber_0.png",
+    "2241_pageNumber_1.png",
+    "2241_pageNumber_2.png",
+};
+
+void AssertAreEqual(object expected, object actual)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new Exception("Objects are not equal.");
+    }
+}
+
+using (AiImage image = (AiImage)Image.Load(sourceFile))
+{
+    AssertAreEqual(image.PageCount, 3);
+
+    for (int i = 0; i < image.PageCount; i++)
+    {
+        image.ActivePageIndex = i;
+        image.Save(outputFiles[i], new PngOptions());
+    }
+}
+```
+
 ### See Also
 
 * class [AiImage](../)

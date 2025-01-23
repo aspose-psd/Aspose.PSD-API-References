@@ -1,7 +1,7 @@
 ---
 title: MatrixOrder Enumeration
 type: docs
-weight: 5990
+weight: 6000
 url: /python-net/aspose.psd/matrixorder/
 ---
 
@@ -11,7 +11,7 @@ Specifies the order for matrix transform operations.
 
 **Full Name:** aspose.psd.MatrixOrder
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

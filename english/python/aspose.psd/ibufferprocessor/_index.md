@@ -1,7 +1,7 @@
 ---
 title: IBufferProcessor Class
 type: docs
-weight: 1670
+weight: 1680
 url: /python-net/aspose.psd/ibufferprocessor/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/ibufferprocessor/
 
 **Full Name:** aspose.psd.IBufferProcessor
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: CmykColor Class
 type: docs
-weight: 620
+weight: 630
 url: /python-net/aspose.psd/cmykcolor/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/cmykcolor/
 
 **Full Name:** aspose.psd.CmykColor
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

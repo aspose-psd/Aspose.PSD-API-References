@@ -1,7 +1,7 @@
 ---
 title: SplitStreamContainer Class
 type: docs
-weight: 4210
+weight: 4220
 url: /python-net/aspose.psd/splitstreamcontainer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/splitstreamcontainer/
 
 **Inheritance:** StreamContainer
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

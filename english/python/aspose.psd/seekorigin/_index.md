@@ -1,7 +1,7 @@
 ---
 title: SeekOrigin Enumeration
 type: docs
-weight: 6220
+weight: 6230
 url: /python-net/aspose.psd/seekorigin/
 ---
 
@@ -11,7 +11,7 @@ Provides the fields that represent reference points in [StreamContainer](/psd/py
 
 **Full Name:** aspose.psd.SeekOrigin
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

@@ -11,7 +11,7 @@ The expected tiff file format.
 
 **Full Name:** aspose.psd.fileformats.tiff.enums.TiffExpectedFormat
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

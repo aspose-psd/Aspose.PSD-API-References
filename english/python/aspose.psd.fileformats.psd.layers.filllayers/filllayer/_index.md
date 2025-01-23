@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/
 
 **Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, Layer
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -40,7 +40,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/
 | extra_length | int | r |    |
 | file_format | [FileFormat](/psd/python-net/aspose.psd/fileformat) | r |    |
 | fill_opacity | int | r/w |    |
-| fill_settings | [IFillSettings](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) | r | Gets the fill settings. |
+| fill_settings | [IFillSettings](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) | r/w | Gets or sets the fill settings. |
 | fill_type | [FillType](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/) | r | Gets the type of the fill. |
 | filler | byte | r/w |    |
 | flags | [LayerFlags](/psd/python-net/aspose.psd.fileformats.psd.layers/layerflags) | r/w |    |
@@ -180,7 +180,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/
 | set_resolution(dpi_x, dpi_y) |    |
 | [shallow_copy()](#shallow_copy__37) |    |
 | [to_bitmap()](#to_bitmap__38) |    |
-| update() | Updates Fill Layer Pixels Data according to actual [IFillSettings](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/). |
+| update() | Updates the pixel data of the fill layer based on the current [IFillSettings](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/). |
 | write_argb_32_scan_line(scan_line_index, argb_32_pixels) |    |
 | write_scan_line(scan_line_index, pixels) |    |
 

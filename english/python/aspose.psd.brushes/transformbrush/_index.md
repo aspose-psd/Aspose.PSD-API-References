@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.brushes/transformbrush/
 
 **Inheritance:** Brush
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

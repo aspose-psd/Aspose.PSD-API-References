@@ -1,7 +1,7 @@
 ---
 title: FileStreamContainer Class
 type: docs
-weight: 1260
+weight: 1270
 url: /python-net/aspose.psd/filestreamcontainer/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/filestreamcontainer/
 
 **Inheritance:** StreamContainer
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.exif/exifdata/
 
 **Inheritance:** TiffDataTypeController
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

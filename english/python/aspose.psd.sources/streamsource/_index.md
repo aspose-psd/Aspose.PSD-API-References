@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.sources/streamsource/
 
 **Inheritance:** Source
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

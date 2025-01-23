@@ -1,7 +1,7 @@
 ---
 title: ColorBlend Class
 type: docs
-weight: 680
+weight: 690
 url: /python-net/aspose.psd/colorblend/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/colorblend/
 
 **Full Name:** aspose.psd.ColorBlend
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

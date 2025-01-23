@@ -1,7 +1,7 @@
 ---
 title: Point Class
 type: docs
-weight: 3520
+weight: 3530
 url: /python-net/aspose.psd/point/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/point/
 
 **Full Name:** aspose.psd.Point
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

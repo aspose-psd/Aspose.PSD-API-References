@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -29,7 +29,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/
 | length | int | r | Gets the layer resource length in bytes. |
 | psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | shape_origin_settings | [VectorShapeOriginSettings[]](/psd/python-net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/) | r/w | Gets or sets the shape origin settings. |
-| signature | int | r | Gets the layer resource signature. |
+| signature | int | r | Gets the signature. |
 | version | int | r/w | Gets or sets the version. |
 ## **Methods**
 | **Name** | **Description** |

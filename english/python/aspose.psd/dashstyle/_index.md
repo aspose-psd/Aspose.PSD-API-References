@@ -1,7 +1,7 @@
 ---
 title: DashStyle Enumeration
 type: docs
-weight: 5370
+weight: 5380
 url: /python-net/aspose.psd/dashstyle/
 ---
 
@@ -11,7 +11,7 @@ Specifies the style of dashed lines drawn with a [Pen](/psd/python-net/aspose.ps
 
 **Full Name:** aspose.psd.DashStyle
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

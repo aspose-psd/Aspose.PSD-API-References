@@ -1,7 +1,7 @@
 ---
 title: IImageExporter Class
 type: docs
-weight: 1780
+weight: 1790
 url: /python-net/aspose.psd/iimageexporter/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/iimageexporter/
 
 **Full Name:** aspose.psd.IImageExporter
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

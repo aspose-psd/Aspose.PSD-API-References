@@ -5,7 +5,7 @@ weight: 830
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/
 ---
 
-**Summary:** Defines the PlacedResource class that contains common information about a placed layer or a smart object layer in the PSD file.<br/>            Is is used to support smart object layers in the Adobe® Photoshop® images.
+**Summary:** Defines the PlacedResource class that contains common information about a placed layer or a smart object layer in the PSD file.<br/>            Is is used to support smart object layers in the Adobe� Photoshop� images.
 
 **Module:** [aspose.psd.fileformats.psd.layers.layerresources](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/)
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/placedresource
 
 **Inheritance:** IPlacedLayerResource, LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -36,7 +36,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/placedresource
 | placed_layer_type | [PlacedLayerType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype) | r/w | Gets or sets the type of the placed layer in the PSD file. |
 | psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | right | double | r/w | Gets or sets the right location of the placed layer in the PSD file. |
-| signature | int | r | Gets the Placed resource signature. |
+| signature | int | r | Gets the signature. |
 | top | double | r/w | Gets or sets the top location of the placed layer in the PSD image. |
 | total_pages | int | r/w | Gets or sets the total pages of the placed layer in the PSD file. |
 | transform_matrix | double | r/w | Gets or sets the transform matrix of the placed layer in the PSD file. |

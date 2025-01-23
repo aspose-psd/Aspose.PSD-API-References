@@ -178,6 +178,29 @@ public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
 | linkedPath | String | The linked path. |
 | resolution | ResolutionSetting | The resolution settings. If null the image resolution will be used. |
 
+### See Also
+
+* class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, ResolutionSetting, bool) {#replacecontents_4}
+
+Replaces the contents with a file. There is no need to call UpdateModifiedContent method afterwards.
+
+```csharp
+public void ReplaceContents(string linkedPath, ResolutionSetting resolution, bool isReplaceOnlyThis)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| linkedPath | String | The linked path. |
+| resolution | ResolutionSetting | The resolution settings. If null the image resolution will be used. |
+| isReplaceOnlyThis | Boolean | The flag shows replace content from this Smart Layer or to all Smart Layers with this content |
+
 ## Examples
 
 This example demonstrates that the ReplaceContents method works correctly when the new content file has a different resolution.
@@ -229,6 +252,27 @@ public void ReplaceContents(string linkedPath)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | linkedPath | String | The linked path. |
+
+### See Also
+
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, bool) {#replacecontents_5}
+
+Replaces the contents with a file. There is no need to call UpdateModifiedContent method afterwards.
+
+```csharp
+public void ReplaceContents(string linkedPath, bool isReplaceOnlyThis)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| linkedPath | String | The linked path. |
+| isReplaceOnlyThis | Boolean | The flag shows replace content from this Smart Layer or to all Smart Layers with this content |
 
 ## Examples
 

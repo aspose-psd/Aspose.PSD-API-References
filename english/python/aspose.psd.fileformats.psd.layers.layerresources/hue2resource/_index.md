@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -31,7 +31,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the layer resource length in bytes. |
 | lightness | short | r/w | Gets or sets the master lightness. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | ranges | [ColorRangeHsl[]](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl) | r | Gets the ranges of Hue/Saturation Adjustment Layer.<br/>            Ranges in PS can change names if range is changed, so we should work by index |
 | saturation | short | r/w | Gets or sets the master saturation. |
 | signature | int | r | Gets the signature. |

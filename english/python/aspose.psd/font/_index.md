@@ -1,7 +1,7 @@
 ---
 title: Font Class
 type: docs
-weight: 1330
+weight: 1340
 url: /python-net/aspose.psd/font/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/font/
 
 **Full Name:** aspose.psd.Font
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

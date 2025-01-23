@@ -1,7 +1,7 @@
 ---
 title: ImageCreatorsRegistry Class
 type: docs
-weight: 2200
+weight: 2210
 url: /python-net/aspose.psd/imagecreatorsregistry/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/imagecreatorsregistry/
 
 **Full Name:** aspose.psd.ImageCreatorsRegistry
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: ColorTranslator Class
 type: docs
-weight: 830
+weight: 840
 url: /python-net/aspose.psd/colortranslator/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/colortranslator/
 
 **Full Name:** aspose.psd.ColorTranslator
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

@@ -1,7 +1,7 @@
 ---
 title: ColorAdjustType Enumeration
 type: docs
-weight: 5230
+weight: 5240
 url: /python-net/aspose.psd/coloradjusttype/
 ---
 
@@ -11,7 +11,7 @@ Specifies which objects use color adjustment information.
 
 **Full Name:** aspose.psd.ColorAdjustType
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

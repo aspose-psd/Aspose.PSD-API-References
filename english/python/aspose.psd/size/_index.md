@@ -1,7 +1,7 @@
 ---
 title: Size Class
 type: docs
-weight: 4070
+weight: 4080
 url: /python-net/aspose.psd/size/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/size/
 
 **Full Name:** aspose.psd.Size
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |

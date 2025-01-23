@@ -1,7 +1,7 @@
 ---
 title: ObjectWithBounds Class
 type: docs
-weight: 3160
+weight: 3170
 url: /python-net/aspose.psd/objectwithbounds/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd/objectwithbounds/
 
 **Full Name:** aspose.psd.ObjectWithBounds
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

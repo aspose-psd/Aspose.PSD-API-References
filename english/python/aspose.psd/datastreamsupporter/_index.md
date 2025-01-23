@@ -1,7 +1,7 @@
 ---
 title: DataStreamSupporter Class
 type: docs
-weight: 1020
+weight: 1030
 url: /python-net/aspose.psd/datastreamsupporter/
 ---
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd/datastreamsupporter/
 
 **Inheritance:** DisposableObject
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |

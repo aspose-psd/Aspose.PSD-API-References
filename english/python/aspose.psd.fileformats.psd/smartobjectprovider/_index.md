@@ -1,7 +1,7 @@
 ---
 title: SmartObjectProvider Class
 type: docs
-weight: 1930
+weight: 1940
 url: /python-net/aspose.psd.fileformats.psd/smartobjectprovider/
 ---
 
@@ -11,7 +11,7 @@ url: /python-net/aspose.psd.fileformats.psd/smartobjectprovider/
 
 **Full Name:** aspose.psd.fileformats.psd.SmartObjectProvider
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Methods**
 | **Name** | **Description** |

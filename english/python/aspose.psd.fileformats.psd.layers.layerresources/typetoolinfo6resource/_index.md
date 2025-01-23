@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6r
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -35,7 +35,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6r
 | length | int | r | Gets the layer resource length in bytes. |
 | psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | right | int | r/w | Gets or sets the right location. |
-| signature | int | r | Gets the layer resource signature. |
+| signature | int | r | Gets the signature. |
 | text_version | short | r/w | Gets or sets the text version. |
 | top | int | r/w | Gets or sets the top  location. |
 | transform_matrix | double | r/w | Gets or sets the transform matrix. |

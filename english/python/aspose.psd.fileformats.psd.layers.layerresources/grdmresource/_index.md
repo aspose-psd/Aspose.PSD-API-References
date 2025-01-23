@@ -13,12 +13,12 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 
 **Inheritance:** AdjustmentLayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
 | :- | :- |
-| [GrdmResource()](#GrdmResource__1) | Initializes a new instance of the GrdmResource class |
+| [GrdmResource(psd_version)](#GrdmResource_psd_version_1) | Initializes a new instance of the [GrdmResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/) class. |
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
@@ -48,17 +48,22 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 | **Name** | **Description** |
 | :- | :- |
 | [save(stream_container, psd_version)](#save_stream_container_psd_version_1) | Saves resource data to the specified stream container. |
-| [set_psd_version(value)](#set_psd_version_value_2) | Sets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 
 
-### Constructor: GrdmResource() {#GrdmResource__1}
+### Constructor: GrdmResource(psd_version) {#GrdmResource_psd_version_1}
 
 
 ```
- GrdmResource() 
+ GrdmResource(psd_version) 
 ```
 
-Initializes a new instance of the GrdmResource class
+Initializes a new instance of the [GrdmResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/) class.
+
+**Parameters:**
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| psd_version | int | The psd version of resource. |
 
 ### Method: save(stream_container, psd_version) {#save_stream_container_psd_version_1}
 
@@ -75,19 +80,4 @@ Saves resource data to the specified stream container.
 | :- | :- | :- |
 | stream_container | [StreamContainer](/psd/python-net/aspose.psd/streamcontainer) | The stream container. |
 | psd_version | int | The PSD version. |
-
-### Method: set_psd_version(value) {#set_psd_version_value_2}
-
-
-```
- set_psd_version(value) 
-```
-
-Sets the minimal psd version required for layer resource. 0 indicates no restrictions.
-
-**Parameters:**
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| value | ushort | Psdversion value |
 

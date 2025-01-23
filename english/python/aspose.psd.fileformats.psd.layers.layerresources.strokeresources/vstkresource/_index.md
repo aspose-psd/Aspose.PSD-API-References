@@ -5,7 +5,7 @@ weight: 40
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/
 ---
 
-**Summary:** Resource class VstkResource. Contains information about Vector Stroke Data.<br/>            Resource should be initialized either by AssginItems method from ResourceLoader,<br/>            either by assigning values to properties of the class.
+**Summary:** Resource class VstkResource. Contains information about Vector Stroke Data.<br/>            Resource should be initialized either by AssignItems method from ResourceLoader,<br/>            either by assigning values to properties of the class.
 
 **Module:** [aspose.psd.fileformats.psd.layers.layerresources.strokeresources](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources.strokeresource
 
 **Inheritance:** LayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -29,7 +29,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources.strokeresource
 | fill_settings | [IFillSettings](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) | r/w | Gets or sets Fill settings of the Stroke. |
 | key | int | r | Gets the layer resource key. |
 | length | int | r | Gets the layer resource length in bytes. |
-| psd_version | int | r | Gets the psd version. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | signature | int | r | Gets the signature. |
 | stroke_enabled | bool | r/w | Gets or sets a value indicating whether stroke effect enabled. |
 | stroke_style_blend_mode | [BlendMode](/psd/python-net/aspose.psd.fileformats.core.blending/blendmode/) | r/w | Gets or sets Stroke Blend mode. |
@@ -42,7 +42,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources.strokeresource
 | stroke_style_line_join_type | [LineJoinType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype) | r/w | Gets or sets Stroke style line join type. |
 | stroke_style_line_width | double | r/w | Gets or sets Stroke line width. |
 | stroke_style_miter_limit | double | r/w | Gets or sets the stroke style miter limit. |
-| stroke_style_opacity | int | r/w | Gets or sets Stroke stryle opacity (0-100%). |
+| stroke_style_opacity | int | r/w | Gets or sets Stroke style opacity (0-100%). |
 | stroke_style_resolution | double | r/w | Gets or sets Stroke style resolution. |
 | stroke_style_scale_lock | bool | r/w | Gets or sets Stroke style scale lock. |
 | stroke_style_stroke_adjust | bool | r/w | Gets or sets Stroke adjust. |

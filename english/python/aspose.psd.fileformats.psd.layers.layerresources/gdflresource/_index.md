@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 
 **Inheritance:** FillLayerResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Constructors**
 | **Name** | **Description** |
@@ -46,7 +46,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 | roughness | int | r/w | Roughness factor. |
 | scale | int | r/w | Gets or sets the scale. |
 | show_transparency | bool | r/w | Flag for showing transparency. |
-| signature | int | r | Gets the layer resource signature. |
+| signature | int | r | Gets the signature. |
 | transparency_points | [IGradientTransparencyPoint[]](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/) | r/w | Gets the transparency points. |
 | use_vector_color | bool | r/w | Flag for using vector color. |
 | vertical_offset | double | r/w | Gets or sets the vertical offset. |

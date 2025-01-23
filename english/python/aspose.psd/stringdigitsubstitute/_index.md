@@ -1,7 +1,7 @@
 ---
 title: StringDigitSubstitute Enumeration
 type: docs
-weight: 6280
+weight: 6290
 url: /python-net/aspose.psd/stringdigitsubstitute/
 ---
 
@@ -11,7 +11,7 @@ The enumeration specifies how to substitute digits in a string according to a us
 
 **Full Name:** aspose.psd.StringDigitSubstitute
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Members**
 | **Member name** | **Description** |

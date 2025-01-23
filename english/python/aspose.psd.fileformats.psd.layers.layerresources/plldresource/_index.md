@@ -5,7 +5,7 @@ weight: 820
 url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
 
-**Summary:** Defines the PlLdResource class that contains information about a placed layer in the PSD file.<br/>            Is is used to support smart object layers in the Adobe® Photoshop® images.<br/>            It was replaced by SoLdResource in the Adobe® Photoshop® CS3
+**Summary:** Defines the PlLdResource class that contains information about a placed layer in the PSD file.<br/>            Is is used to support smart object layers in the Adobe� Photoshop� images.<br/>            It was replaced by SoLdResource in the Adobe� Photoshop� CS3
 
 **Module:** [aspose.psd.fileformats.psd.layers.layerresources](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/)
 
@@ -13,7 +13,7 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 
 **Inheritance:** IPlacedLayerResource, PlacedResource
 
-**Aspose.PSD Version:** 24.9.0
+**Aspose.PSD Version:** 24.12.0
 
 ## **Properties**
 | **Name** | **Type** | **Access** | **Description** |
@@ -28,16 +28,16 @@ url: /python-net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 | horizontal_mesh_points | double | r/w | Gets or sets the horizontal mesh points of the placed layer in the PSD file. |
 | is_custom | bool | r/w | Gets or sets a value indicating whether this instance warp style is custom.<br/>            If true it contains mesh points. If set to false it erases mesh points. |
 | items | [OSTypeStructure[]](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) | r/w | Gets or sets the warp items. |
-| key | int | r | Gets the PlLd resource key. |
+| key | int | r | Gets the layer resource key. |
 | left | double | r/w | Gets or sets the left location of the placed layer in the PSD file. |
 | length | int | r | Gets the PlLd resource length in bytes. |
 | page_number | int | r/w | Gets or sets the page number of the placed layer in the PSD file. |
 | perspective | double | r/w | Gets or sets the perspective value of the placed layer in the PSD file. |
 | perspective_other | double | r/w | Gets or sets the perspective other value of the placed layer in the PSD file. |
 | placed_layer_type | [PlacedLayerType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype) | r/w | Gets or sets the type of the placed layer in the PSD file. |
-| psd_version | int | r | Gets the minimal psd version required for the PlLd resource. 0 indicates no restrictions. |
+| psd_version | int | r | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | right | double | r/w | Gets or sets the right location of the placed layer in the PSD file. |
-| signature | int | r | Gets the PlLd resource signature. |
+| signature | int | r | Gets the signature. |
 | top | double | r/w | Gets or sets the top location of the placed layer in the PSD image. |
 | total_pages | int | r/w | Gets or sets the total pages of the placed layer in the PSD file. |
 | transform_matrix | double | r/w | Gets or sets the transform matrix of the placed layer in the PSD file. |
