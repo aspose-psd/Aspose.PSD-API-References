@@ -254,7 +254,9 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [replaceContents(Image image)](#replaceContents-com.aspose.psd.Image-) | Replaces the smart object contents embedded in the smart object layer. |
 | [replaceContents(Image image, ResolutionSetting resolution)](#replaceContents-com.aspose.psd.Image-com.aspose.psd.ResolutionSetting-) | Replaces the smart object contents embedded in the smart object layer. |
 | [replaceContents(String linkedPath)](#replaceContents-java.lang.String-) | Replaces the contents with a file. |
+| [replaceContents(String linkedPath, boolean isReplaceOnlyThis)](#replaceContents-java.lang.String-boolean-) | Replaces the contents with a file. |
 | [replaceContents(String linkedPath, ResolutionSetting resolution)](#replaceContents-java.lang.String-com.aspose.psd.ResolutionSetting-) | Replaces the contents with a file. |
+| [replaceContents(String linkedPath, ResolutionSetting resolution, boolean isReplaceOnlyThis)](#replaceContents-java.lang.String-com.aspose.psd.ResolutionSetting-boolean-) | Replaces the contents with a file. |
 | [replaceNonTransparentColors(Color newColor)](#replaceNonTransparentColors-com.aspose.psd.Color-) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges. |
 | [replaceNonTransparentColors(int newColorArgb)](#replaceNonTransparentColors-int-) | Replaces all non-transparent colors with new color and preserves original alpha value to save smooth edges. |
 | [resize(int newWidth, int newHeight)](#resize-int-int-) | Resizes the image. |
@@ -3214,6 +3216,20 @@ Replaces the contents with a file. There is no need to call UpdateModifiedConten
 | --- | --- | --- |
 | linkedPath | java.lang.String | The linked path. |
 
+### replaceContents(String linkedPath, boolean isReplaceOnlyThis) {#replaceContents-java.lang.String-boolean-}
+```
+public final void replaceContents(String linkedPath, boolean isReplaceOnlyThis)
+```
+
+
+Replaces the contents with a file. There is no need to call UpdateModifiedContent method afterwards.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| linkedPath | java.lang.String | The linked path. |
+| isReplaceOnlyThis | boolean | The flag shows replace content from this Smart Layer or to all Smart Layers with this content |
+
 ### replaceContents(String linkedPath, ResolutionSetting resolution) {#replaceContents-java.lang.String-com.aspose.psd.ResolutionSetting-}
 ```
 public final void replaceContents(String linkedPath, ResolutionSetting resolution)
@@ -3227,6 +3243,21 @@ Replaces the contents with a file. There is no need to call UpdateModifiedConten
 | --- | --- | --- |
 | linkedPath | java.lang.String | The linked path. |
 | resolution | [ResolutionSetting](../../com.aspose.psd/resolutionsetting) | The resolution settings. If null the image resolution will be used. |
+
+### replaceContents(String linkedPath, ResolutionSetting resolution, boolean isReplaceOnlyThis) {#replaceContents-java.lang.String-com.aspose.psd.ResolutionSetting-boolean-}
+```
+public final void replaceContents(String linkedPath, ResolutionSetting resolution, boolean isReplaceOnlyThis)
+```
+
+
+Replaces the contents with a file. There is no need to call UpdateModifiedContent method afterwards.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| linkedPath | java.lang.String | The linked path. |
+| resolution | [ResolutionSetting](../../com.aspose.psd/resolutionsetting) | The resolution settings. If null the image resolution will be used. |
+| isReplaceOnlyThis | boolean | The flag shows replace content from this Smart Layer or to all Smart Layers with this content |
 
 ### replaceNonTransparentColors(Color newColor) {#replaceNonTransparentColors-com.aspose.psd.Color-}
 ```
