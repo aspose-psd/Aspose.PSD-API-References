@@ -1,7 +1,7 @@
 ---
 title: NoiseGradientFillSettings.NoiseGradientFillSettings
 second_title: Aspose.PSD for .NET API Reference
-description: NoiseGradientFillSettings constructor. Initializes a new instance of the NoiseGradientFillSettings class
+description: NoiseGradientFillSettings constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/noisegradientfillsettings/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettin
 {{< psd/tize >}}
 ## NoiseGradientFillSettings constructor
 
-Initializes a new instance of the [`NoiseGradientFillSettings`](../) class.
+The default constructor.
 
 ```csharp
 public NoiseGradientFillSettings()

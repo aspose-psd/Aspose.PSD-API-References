@@ -232,6 +232,42 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 }
 ```
 
+The following code demonstrates the support of replacing content in many smart objects that have the same source reference.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// This will replace the same context in all smart layers with the same link.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // This will replace the content in all SmartLayers that use the same content.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//This will replace the context of only the selected layer, leaving all others with the same context alone.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // It replaces the content in the selected SmartLayer only. 
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
+
 ### See Also
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
@@ -275,6 +311,42 @@ public void ReplaceContents(string linkedPath, bool isReplaceOnlyThis)
 | isReplaceOnlyThis | Boolean | The flag shows replace content from this Smart Layer or to all Smart Layers with this content |
 
 ## Examples
+
+The following code demonstrates the support of replacing content in many smart objects that have the same source reference.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// This will replace the same context in all smart layers with the same link.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // This will replace the content in all SmartLayers that use the same content.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//This will replace the context of only the selected layer, leaving all others with the same context alone.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // It replaces the content in the selected SmartLayer only. 
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
 
 The following code demonstrates the support of updating Linked Smart objects.
 

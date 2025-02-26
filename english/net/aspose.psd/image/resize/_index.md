@@ -1,35 +1,12 @@
 ---
 title: Image.Resize
 second_title: Aspose.PSD for .NET API Reference
-description: Image method. Resizes the image
+description: Image method. Resizes the image. The default NearestNeighbourResample is used
 type: docs
 weight: 200
 url: /net/aspose.psd/image/resize/
 ---
 {{< psd/tize >}}
-## Resize(int, int, ResizeType) {#resize_2}
-
-Resizes the image.
-
-```csharp
-public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newWidth | Int32 | The new width. |
-| newHeight | Int32 | The new height. |
-| resizeType | ResizeType | The resize type. |
-
-### See Also
-
-* enum [ResizeType](../../resizetype/)
-* class [Image](../)
-* namespace [Aspose.PSD](../../../aspose.psd/)
-* assembly [Aspose.PSD](../../../)
-
----
-
 ## Resize(int, int) {#resize}
 
 Resizes the image. The default NearestNeighbourResample is used.
@@ -54,7 +31,7 @@ string sourceFileName = "1.psd";
 string exportPathPsd = "ResizeTest.psd";
 string exportPathPng = "ResizeTest.png";
 
-using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
+using (RasterImage image = Image.Load(sourceFileName, new PsdLoadOptions() { LoadEffectsResource = true }) as RasterImage)
 {
     image.Resize(190, 143);
     image.Save(exportPathPsd, new PsdOptions());
@@ -64,6 +41,29 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 
 ### See Also
 
+* class [Image](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Resize(int, int, ResizeType) {#resize_2}
+
+Resizes the image.
+
+```csharp
+public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| newWidth | Int32 | The new width. |
+| newHeight | Int32 | The new height. |
+| resizeType | ResizeType | The resize type. |
+
+### See Also
+
+* enum [ResizeType](../../resizetype/)
 * class [Image](../)
 * namespace [Aspose.PSD](../../../aspose.psd/)
 * assembly [Aspose.PSD](../../../)

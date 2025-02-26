@@ -3,7 +3,7 @@ title: BaseGradientFillSettings.Reverse
 second_title: Aspose.PSD for .NET API Reference
 description: BaseGradientFillSettings property. Gets or sets a value indicating whether this BaseGradientFillSettings is reverse
 type: docs
-weight: 120
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/reverse/
 ---
 {{< psd/tize >}}

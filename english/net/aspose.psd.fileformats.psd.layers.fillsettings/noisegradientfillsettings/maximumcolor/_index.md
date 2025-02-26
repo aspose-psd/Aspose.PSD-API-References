@@ -1,7 +1,7 @@
 ---
 title: NoiseGradientFillSettings.MaximumColor
 second_title: Aspose.PSD for .NET API Reference
-description: NoiseGradientFillSettings property. Maximum color of PixelDataFormat
+description: NoiseGradientFillSettings property. Gets or sets the Maximum color of PixelDataFormat
 type: docs
 weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/maximumcolor/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettin
 {{< psd/tize >}}
 ## NoiseGradientFillSettings.MaximumColor property
 
-Maximum color of PixelDataFormat.
+Gets or sets the Maximum color of PixelDataFormat.
 
 ```csharp
 public RawColor MaximumColor { get; set; }

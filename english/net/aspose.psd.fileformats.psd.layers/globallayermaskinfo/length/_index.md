@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/
 Gets the global layer mask section length in bytes.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
 ### See Also

@@ -1,7 +1,7 @@
 ---
 title: NoiseGradientFillSettings.UseVectorColor
 second_title: Aspose.PSD for .NET API Reference
-description: NoiseGradientFillSettings property. Flag for using vector color
+description: NoiseGradientFillSettings property. Gets or sets the flag for using vector color
 type: docs
 weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/usevectorcolor/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettin
 {{< psd/tize >}}
 ## NoiseGradientFillSettings.UseVectorColor property
 
-Flag for using vector color.
+Gets or sets the flag for using vector color.
 
 ```csharp
 public bool UseVectorColor { get; set; }

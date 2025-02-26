@@ -3,7 +3,7 @@ title: BaseGradientFillSettings.Scale
 second_title: Aspose.PSD for .NET API Reference
 description: BaseGradientFillSettings property. Gets or sets the scale
 type: docs
-weight: 130
+weight: 110
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/scale/
 ---
 {{< psd/tize >}}

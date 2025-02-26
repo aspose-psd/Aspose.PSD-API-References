@@ -3,7 +3,7 @@ title: BaseGradientFillSettings.Dither
 second_title: Aspose.PSD for .NET API Reference
 description: BaseGradientFillSettings property. Gets or sets a value indicating whether this BaseGradientFillSettings is dither
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/dither/
 ---
 {{< psd/tize >}}

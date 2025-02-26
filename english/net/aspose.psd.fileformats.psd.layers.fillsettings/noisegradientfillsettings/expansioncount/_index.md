@@ -1,7 +1,7 @@
 ---
 title: NoiseGradientFillSettings.ExpansionCount
 second_title: Aspose.PSD for .NET API Reference
-description: NoiseGradientFillSettings property. Expansion count   2 for Photoshop 6.0
+description: NoiseGradientFillSettings property. Gets or sets the Expansion count   2 for Photoshop 6.0
 type: docs
 weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/expansioncount/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettin
 {{< psd/tize >}}
 ## NoiseGradientFillSettings.ExpansionCount property
 
-Expansion count ( = 2 for Photoshop 6.0).
+Gets or sets the Expansion count ( = 2 for Photoshop 6.0).
 
 ```csharp
 public short ExpansionCount { get; set; }
