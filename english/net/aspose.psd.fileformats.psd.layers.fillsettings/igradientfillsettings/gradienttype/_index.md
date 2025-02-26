@@ -3,7 +3,7 @@ title: IGradientFillSettings.GradientType
 second_title: Aspose.PSD for .NET API Reference
 description: IGradientFillSettings property. Gets or sets the type of the gradient
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/
 ---
 {{< psd/tize >}}

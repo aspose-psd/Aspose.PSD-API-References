@@ -3,7 +3,7 @@ title: GradientFillSettings.ColorPoints
 second_title: Aspose.PSD for .NET API Reference
 description: GradientFillSettings property. Gets or sets the color points
 type: docs
-weight: 50
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints/
 ---
 {{< psd/tize >}}

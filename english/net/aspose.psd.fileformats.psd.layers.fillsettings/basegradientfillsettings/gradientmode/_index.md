@@ -3,7 +3,7 @@ title: BaseGradientFillSettings.GradientMode
 second_title: Aspose.PSD for .NET API Reference
 description: BaseGradientFillSettings property. Gets the mode for this gradient. Determines Gradient Type  Solid/Noise 0/1
 type: docs
-weight: 80
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientmode/
 ---
 {{< psd/tize >}}

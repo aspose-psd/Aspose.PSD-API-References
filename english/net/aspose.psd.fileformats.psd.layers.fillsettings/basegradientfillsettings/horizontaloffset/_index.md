@@ -3,7 +3,7 @@ title: BaseGradientFillSettings.HorizontalOffset
 second_title: Aspose.PSD for .NET API Reference
 description: BaseGradientFillSettings property. Gets or sets the horizontal offset in percentage
 type: docs
-weight: 110
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/horizontaloffset/
 ---
 {{< psd/tize >}}

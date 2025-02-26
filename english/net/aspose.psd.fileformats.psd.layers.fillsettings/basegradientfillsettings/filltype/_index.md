@@ -3,7 +3,7 @@ title: BaseGradientFillSettings.FillType
 second_title: Aspose.PSD for .NET API Reference
 description: BaseGradientFillSettings property. The fill type
 type: docs
-weight: 70
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/filltype/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: BaseGradientFillSettings.VerticalOffset
 second_title: Aspose.PSD for .NET API Reference
 description: BaseGradientFillSettings property. Gets or sets the vertical offset in percentage
 type: docs
-weight: 150
+weight: 120
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/verticaloffset/
 ---
 {{< psd/tize >}}

@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/channelinformation/length/
 Gets the channel length in bytes.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: IGradientFillSettings.Reverse
 second_title: Aspose.PSD for .NET API Reference
 description: IGradientFillSettings property. Gets or sets a value indicating whether this IGradientFillSettings is reverse
 type: docs
-weight: 100
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse/
 ---
 {{< psd/tize >}}
