@@ -1,15 +1,15 @@
 ---
 title: IGradientFillSettings.GradientMode
 second_title: Aspose.PSD for .NET API Reference
-description: IGradientFillSettings property. Mode for this gradient Determines Gradient Type  Solid/Noise 0/1
+description: IGradientFillSettings property. Gets gradient mode. Determines Gradient Type  Solid/Noise 0/1
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientmode/
 ---
 {{< psd/tize >}}
 ## IGradientFillSettings.GradientMode property
 
-Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
+Gets gradient mode. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 ```csharp
 public GradientKind GradientMode { get; }

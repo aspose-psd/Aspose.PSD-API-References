@@ -12,7 +12,7 @@ url: /net/aspose.psd/pixelsdata/
 The class to store image pixels data and its bounds.
 
 ```csharp
-public sealed class PixelsData
+public sealed class PixelsData : ICloneable
 ```
 
 ## Constructors
@@ -28,6 +28,12 @@ public sealed class PixelsData
 | --- | --- |
 | [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | Gets or sets the bounds of pixels data. |
 | [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | Gets or sets the pixels data. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Clone](../../aspose.psd/pixelsdata/clone/)() | It creates full copy of instance |
 
 ## Examples
 

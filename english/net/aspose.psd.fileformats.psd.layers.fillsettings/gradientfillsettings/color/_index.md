@@ -3,7 +3,7 @@ title: GradientFillSettings.Color
 second_title: Aspose.PSD for .NET API Reference
 description: GradientFillSettings property. Gets or sets the color
 type: docs
-weight: 40
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/
 ---
 {{< psd/tize >}}

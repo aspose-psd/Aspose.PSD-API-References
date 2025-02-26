@@ -1,7 +1,7 @@
 ---
 title: NoiseGradientFillSettings.ColorModel
 second_title: Aspose.PSD for .NET API Reference
-description: NoiseGradientFillSettings property. Color Model  RGB/HSB/LAB 3/4/6
+description: NoiseGradientFillSettings property. Gets or sets the Color Model  RGB/HSB/LAB 3/4/6
 type: docs
 weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/colormodel/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettin
 {{< psd/tize >}}
 ## NoiseGradientFillSettings.ColorModel property
 
-Color Model - RGB/HSB/LAB (3/4/6).
+Gets or sets the Color Model - RGB/HSB/LAB (3/4/6).
 
 ```csharp
 public NoiseColorModel ColorModel { get; set; }

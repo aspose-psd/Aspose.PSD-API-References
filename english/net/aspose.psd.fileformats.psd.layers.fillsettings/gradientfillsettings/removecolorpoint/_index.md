@@ -3,7 +3,7 @@ title: GradientFillSettings.RemoveColorPoint
 second_title: Aspose.PSD for .NET API Reference
 description: GradientFillSettings method. Removes the color point
 type: docs
-weight: 180
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/
 ---
 {{< psd/tize >}}

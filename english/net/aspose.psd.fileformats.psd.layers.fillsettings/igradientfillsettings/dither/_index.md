@@ -3,7 +3,7 @@ title: IGradientFillSettings.Dither
 second_title: Aspose.PSD for .NET API Reference
 description: IGradientFillSettings property. Gets or sets a value indicating whether this IGradientFillSettings is dither
 type: docs
-weight: 50
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/
 ---
 {{< psd/tize >}}

@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers/layer/length/
 Gets the overall layer length in bytes.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: GradientFillSettings.RemoveTransparencyPoint
 second_title: Aspose.PSD for .NET API Reference
 description: GradientFillSettings method. Removes the transparency point
 type: docs
-weight: 190
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/
 ---
 {{< psd/tize >}}

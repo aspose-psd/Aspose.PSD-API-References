@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/
 Gets the filter mask data length in bytes.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
 ### See Also

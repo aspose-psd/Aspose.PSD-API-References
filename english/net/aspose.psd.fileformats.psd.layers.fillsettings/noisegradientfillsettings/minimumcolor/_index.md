@@ -1,7 +1,7 @@
 ---
 title: NoiseGradientFillSettings.MinimumColor
 second_title: Aspose.PSD for .NET API Reference
-description: NoiseGradientFillSettings property. Minimum color of PixelDataFormat
+description: NoiseGradientFillSettings property. Gets or sets the Minimum color of PixelDataFormat
 type: docs
 weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/minimumcolor/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettin
 {{< psd/tize >}}
 ## NoiseGradientFillSettings.MinimumColor property
 
-Minimum color of PixelDataFormat.
+Gets or sets the Minimum color of PixelDataFormat.
 
 ```csharp
 public RawColor MinimumColor { get; set; }

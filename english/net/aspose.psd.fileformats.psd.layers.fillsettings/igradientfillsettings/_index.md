@@ -21,16 +21,13 @@ public interface IGradientFillSettings : IFillSettings
 | --- | --- |
 | [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/alignwithlayer/) { get; set; } | Gets or sets a value indicating whether [align with layer]. |
 | [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/angle/) { get; set; } | Gets or sets the angle. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/color/) { get; set; } | Gets or sets the color. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/) { get; set; } | Gets the color points. |
 | [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this `IGradientFillSettings` is dither. |
-| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientmode/) { get; } | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientmode/) { get; } | Gets gradient mode. Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/) { get; set; } | Gets or sets the name of the gradient. |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset. |
 | [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse/) { get; set; } | Gets or sets a value indicating whether this `IGradientFillSettings` is reverse. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/) { get; set; } | Gets or sets the scale. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints/) { get; set; } | Gets the transparency points. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/verticaloffset/) { get; set; } | Gets or sets the vertical offset. |
 
 ## Examples
