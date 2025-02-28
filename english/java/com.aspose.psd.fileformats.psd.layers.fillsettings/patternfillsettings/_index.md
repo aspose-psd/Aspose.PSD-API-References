@@ -22,6 +22,11 @@ Pattern fill effect settings
 | Constructor | Description |
 | --- | --- |
 | [PatternFillSettings()](#PatternFillSettings--) | Initializes a new instance of the [PatternFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings) class. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ValueChanged_internalized](#ValueChanged-internalized) |  |
 ## Methods
 
 | Method | Description |
@@ -75,6 +80,12 @@ public PatternFillSettings()
 
 
 Initializes a new instance of the [PatternFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings) class.
+
+### ValueChanged_internalized {#ValueChanged-internalized}
+```
+public final Event<System.EventHandler> ValueChanged_internalized
+```
+
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```

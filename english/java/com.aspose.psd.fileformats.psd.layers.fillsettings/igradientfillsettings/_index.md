@@ -21,7 +21,8 @@ Base interface for Gradient fill settings.
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [IGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) is dither. |
-| [getGradientMode()](#getGradientMode--) | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1) |
+| [getGradientMode()](#getGradientMode--) | Gets gradient mode. |
+| [getGradientName()](#getGradientName--) | Gets or sets the name of the gradient. |
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset. |
 | [getReverse()](#getReverse--) | Gets or sets a value indicating whether this [IGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) is reverse. |
@@ -30,6 +31,7 @@ Base interface for Gradient fill settings.
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [IGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) is dither. |
+| [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [IGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) is reverse. |
@@ -77,10 +79,22 @@ public abstract int getGradientMode()
 ```
 
 
-Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1)
+Gets gradient mode. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Returns:**
 int
+### getGradientName() {#getGradientName--}
+```
+public abstract String getGradientName()
+```
+
+
+Gets or sets the name of the gradient.
+
+Value: The name of the gradient.
+
+**Returns:**
+java.lang.String
 ### getGradientType() {#getGradientType--}
 ```
 public abstract int getGradientType()
@@ -185,6 +199,21 @@ Value:  true  if dither; otherwise,  false .
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### setGradientName(String value) {#setGradientName-java.lang.String-}
+```
+public abstract void setGradientName(String value)
+```
+
+
+Gets or sets the name of the gradient.
+
+Value: The name of the gradient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### setGradientType(int value) {#setGradientType-int-}
 ```

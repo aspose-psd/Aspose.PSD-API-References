@@ -34,7 +34,7 @@ Gradient Layer effect
 | [notifyAll()](#notifyAll--) |  |
 | [setBlendMode(long value)](#setBlendMode-long-) | Gets or sets the blend mode. |
 | [setOpacity(byte value)](#setOpacity-byte-) | Gets or sets the opacity. |
-| [setSettings(GradientFillSettings value)](#setSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.GradientFillSettings-) | Gets or sets the settings. |
+| [setSettings(BaseGradientFillSettings value)](#setSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.BaseGradientFillSettings-) | Gets or sets the settings. |
 | [setVisible(boolean value)](#setVisible-boolean-) | Gets or sets a value indicating whether this instance is visible. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -116,7 +116,7 @@ Value: The opacity.
 byte
 ### getSettings() {#getSettings--}
 ```
-public final GradientFillSettings getSettings()
+public final BaseGradientFillSettings getSettings()
 ```
 
 
@@ -125,7 +125,7 @@ Gets or sets the settings.
 Value: The settings.
 
 **Returns:**
-[GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings)
+[BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings)
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -194,9 +194,9 @@ Value: The opacity.
 | --- | --- | --- |
 | value | byte |  |
 
-### setSettings(GradientFillSettings value) {#setSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.GradientFillSettings-}
+### setSettings(BaseGradientFillSettings value) {#setSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.BaseGradientFillSettings-}
 ```
-public final void setSettings(GradientFillSettings value)
+public final void setSettings(BaseGradientFillSettings value)
 ```
 
 
@@ -207,7 +207,7 @@ Value: The settings.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) |  |
+| value | [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) |  |
 
 ### setVisible(boolean value) {#setVisible-boolean-}
 ```

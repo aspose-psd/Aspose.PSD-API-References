@@ -129,14 +129,14 @@ Value: The kind.
 byte
 ### getLength() {#getLength--}
 ```
-public final int getLength()
+public final long getLength()
 ```
 
 
 Gets the global layer mask section length in bytes.
 
 **Returns:**
-int
+long
 ### getOpacity() {#getOpacity--}
 ```
 public final short getOpacity()
