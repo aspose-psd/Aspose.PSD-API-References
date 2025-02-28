@@ -23,58 +23,53 @@ Noise gradient definition class.
 
 | Field | Description |
 | --- | --- |
-| [editBehaviour_internalized](#editBehaviour-internalized) | The edit behaviour. |
+| [ValueChanged_internalized](#ValueChanged-internalized) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [create_internalized(GdFlResource gdFlResource)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GdFlResource-) |  |
-| [create_internalized(GrdmResource grdmResource)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GrdmResource-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
-| [getColor()](#getColor--) | Gets or sets the color. |
-| [getColorModel()](#getColorModel--) | Color Model - RGB/HSB/LAB (3/4/6). |
+| [getColorModel()](#getColorModel--) | Gets or sets the Color Model - RGB/HSB/LAB (3/4/6). |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
-| [getExpansionCount()](#getExpansionCount--) | Expansion count ( = 2 for Photoshop 6.0). |
+| [getExpansionCount()](#getExpansionCount--) | Gets or sets the Expansion count ( = 2 for Photoshop 6.0). |
 | [getFillType()](#getFillType--) | The fill type. |
-| [getGradientMode()](#getGradientMode--) | Mode for this gradient. |
+| [getGradientMode()](#getGradientMode--) | Gets the mode for this gradient. |
 | [getGradientName()](#getGradientName--) | Gets or sets the name of the gradient. |
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset in percentage. |
-| [getMaximumColor()](#getMaximumColor--) | Maximum color of PixelDataFormat. |
-| [getMinimumColor()](#getMinimumColor--) | Minimum color of PixelDataFormat. |
+| [getMaximumColor()](#getMaximumColor--) | Gets or sets the Maximum color of PixelDataFormat. |
+| [getMinimumColor()](#getMinimumColor--) | Gets or sets the Minimum color of PixelDataFormat. |
 | [getReverse()](#getReverse--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is reverse. |
-| [getRndNumberSeed()](#getRndNumberSeed--) | The random number seed used to generate colors for Noise gradient |
-| [getRoughness()](#getRoughness--) | Roughness factor. |
+| [getRndNumberSeed()](#getRndNumberSeed--) | Gets or sets the random number seed used to generate colors for Noise gradient |
+| [getRoughness()](#getRoughness--) | Gets or sets the Roughness factor. |
 | [getScale()](#getScale--) | Gets or sets the scale. |
-| [getShowTransparency()](#getShowTransparency--) | Flag for showing transparency. |
-| [getUseVectorColor()](#getUseVectorColor--) | Flag for using vector color. |
+| [getShowTransparency()](#getShowTransparency--) | Gets or sets the flag for showing transparency. |
+| [getUseVectorColor()](#getUseVectorColor--) | Gets or sets the flag for using vector color. |
 | [getVerticalOffset()](#getVerticalOffset--) | Gets or sets the vertical offset in percentage. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [raiseChanged_internalized()](#raiseChanged-internalized--) | Raises the changed. |
 | [raiseValueChanged_internalized()](#raiseValueChanged-internalized--) | Raises the value changed. |
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
-| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the color. |
-| [setColorModel(short value)](#setColorModel-short-) | Color Model - RGB/HSB/LAB (3/4/6). |
+| [setColorModel(short value)](#setColorModel-short-) | Gets or sets the Color Model - RGB/HSB/LAB (3/4/6). |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
-| [setExpansionCount(short value)](#setExpansionCount-short-) | Expansion count ( = 2 for Photoshop 6.0). |
-| [setGradientMode_internalized(int value)](#setGradientMode-internalized-int-) | Mode for this gradient. |
+| [setExpansionCount(short value)](#setExpansionCount-short-) | Gets or sets the Expansion count ( = 2 for Photoshop 6.0). |
+| [setGradientMode_internalized(int value)](#setGradientMode-internalized-int-) | Gets the mode for this gradient. |
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
-| [setMaximumColor(RawColor value)](#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Maximum color of PixelDataFormat. |
-| [setMinimumColor(RawColor value)](#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Minimum color of PixelDataFormat. |
+| [setMaximumColor(RawColor value)](#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Gets or sets the Maximum color of PixelDataFormat. |
+| [setMinimumColor(RawColor value)](#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Gets or sets the Minimum color of PixelDataFormat. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is reverse. |
-| [setRndNumberSeed(int value)](#setRndNumberSeed-int-) | The random number seed used to generate colors for Noise gradient |
-| [setRoughness(int value)](#setRoughness-int-) | Roughness factor. |
+| [setRndNumberSeed(int value)](#setRndNumberSeed-int-) | Gets or sets the random number seed used to generate colors for Noise gradient |
+| [setRoughness(int value)](#setRoughness-int-) | Gets or sets the Roughness factor. |
 | [setScale(int value)](#setScale-int-) | Gets or sets the scale. |
-| [setShowTransparency(boolean value)](#setShowTransparency-boolean-) | Flag for showing transparency. |
-| [setUseVectorColor(boolean value)](#setUseVectorColor-boolean-) | Flag for using vector color. |
+| [setShowTransparency(boolean value)](#setShowTransparency-boolean-) | Gets or sets the flag for showing transparency. |
+| [setUseVectorColor(boolean value)](#setUseVectorColor-boolean-) | Gets or sets the flag for using vector color. |
 | [setVerticalOffset(double value)](#setVerticalOffset-double-) | Gets or sets the vertical offset in percentage. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -88,44 +83,12 @@ public NoiseGradientFillSettings()
 
 Initializes a new instance of the [NoiseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings) class.
 
-### editBehaviour_internalized {#editBehaviour-internalized}
+### ValueChanged_internalized {#ValueChanged-internalized}
 ```
-public final GradientFillSettingsEditBehaviour editBehaviour_internalized
-```
-
-
-The edit behaviour.
-
-### create_internalized(GdFlResource gdFlResource) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GdFlResource-}
-```
-public static NoiseGradientFillSettings create_internalized(GdFlResource gdFlResource)
+public final Event<System.EventHandler> ValueChanged_internalized
 ```
 
 
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| gdFlResource | [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) |  |
-
-**Returns:**
-[NoiseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings)
-### create_internalized(GrdmResource grdmResource) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GrdmResource-}
-```
-public static NoiseGradientFillSettings create_internalized(GrdmResource grdmResource)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| grdmResource | [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) |  |
-
-**Returns:**
-[NoiseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings)
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -173,25 +136,13 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getColor() {#getColor--}
-```
-public final Color getColor()
-```
-
-
-Gets or sets the color.
-
-Value: The color.
-
-**Returns:**
-[Color](../../com.aspose.psd/color)
 ### getColorModel() {#getColorModel--}
 ```
 public final short getColorModel()
 ```
 
 
-Color Model - RGB/HSB/LAB (3/4/6).
+Gets or sets the Color Model - RGB/HSB/LAB (3/4/6).
 
 **Returns:**
 short
@@ -213,7 +164,7 @@ public final short getExpansionCount()
 ```
 
 
-Expansion count ( = 2 for Photoshop 6.0).
+Gets or sets the Expansion count ( = 2 for Photoshop 6.0).
 
 **Returns:**
 short
@@ -233,7 +184,7 @@ public final int getGradientMode()
 ```
 
 
-Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
+Gets the mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Returns:**
 int
@@ -279,7 +230,7 @@ public final RawColor getMaximumColor()
 ```
 
 
-Maximum color of PixelDataFormat.
+Gets or sets the Maximum color of PixelDataFormat.
 
 **Returns:**
 [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor)
@@ -289,7 +240,7 @@ public final RawColor getMinimumColor()
 ```
 
 
-Minimum color of PixelDataFormat.
+Gets or sets the Minimum color of PixelDataFormat.
 
 **Returns:**
 [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor)
@@ -311,7 +262,7 @@ public final int getRndNumberSeed()
 ```
 
 
-The random number seed used to generate colors for Noise gradient
+Gets or sets the random number seed used to generate colors for Noise gradient
 
 **Returns:**
 int
@@ -321,7 +272,7 @@ public final int getRoughness()
 ```
 
 
-Roughness factor.
+Gets or sets the Roughness factor.
 
 **Returns:**
 int
@@ -341,7 +292,7 @@ public final boolean getShowTransparency()
 ```
 
 
-Flag for showing transparency.
+Gets or sets the flag for showing transparency.
 
 **Returns:**
 boolean
@@ -351,7 +302,7 @@ public final boolean getUseVectorColor()
 ```
 
 
-Flag for using vector color.
+Gets or sets the flag for using vector color.
 
 **Returns:**
 boolean
@@ -393,14 +344,6 @@ public final native void notifyAll()
 
 
 
-### raiseChanged_internalized() {#raiseChanged-internalized--}
-```
-public void raiseChanged_internalized()
-```
-
-
-Raises the changed.
-
 ### raiseValueChanged_internalized() {#raiseValueChanged-internalized--}
 ```
 public final void raiseValueChanged_internalized()
@@ -437,28 +380,13 @@ Gets or sets the angle.
 | --- | --- | --- |
 | value | double |  |
 
-### setColor(Color value) {#setColor-com.aspose.psd.Color-}
-```
-public final void setColor(Color value)
-```
-
-
-Gets or sets the color.
-
-Value: The color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.psd/color) |  |
-
 ### setColorModel(short value) {#setColorModel-short-}
 ```
 public final void setColorModel(short value)
 ```
 
 
-Color Model - RGB/HSB/LAB (3/4/6).
+Gets or sets the Color Model - RGB/HSB/LAB (3/4/6).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -486,7 +414,7 @@ public final void setExpansionCount(short value)
 ```
 
 
-Expansion count ( = 2 for Photoshop 6.0).
+Gets or sets the Expansion count ( = 2 for Photoshop 6.0).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -499,7 +427,7 @@ public final void setGradientMode_internalized(int value)
 ```
 
 
-Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
+Gets the mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -557,7 +485,7 @@ public final void setMaximumColor(RawColor value)
 ```
 
 
-Maximum color of PixelDataFormat.
+Gets or sets the Maximum color of PixelDataFormat.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -570,7 +498,7 @@ public final void setMinimumColor(RawColor value)
 ```
 
 
-Minimum color of PixelDataFormat.
+Gets or sets the Minimum color of PixelDataFormat.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -598,7 +526,7 @@ public final void setRndNumberSeed(int value)
 ```
 
 
-The random number seed used to generate colors for Noise gradient
+Gets or sets the random number seed used to generate colors for Noise gradient
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -611,7 +539,7 @@ public final void setRoughness(int value)
 ```
 
 
-Roughness factor.
+Gets or sets the Roughness factor.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -637,7 +565,7 @@ public final void setShowTransparency(boolean value)
 ```
 
 
-Flag for showing transparency.
+Gets or sets the flag for showing transparency.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -650,7 +578,7 @@ public final void setUseVectorColor(boolean value)
 ```
 
 
-Flag for using vector color.
+Gets or sets the flag for using vector color.
 
 **Parameters:**
 | Parameter | Type | Description |

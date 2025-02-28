@@ -23,16 +23,13 @@ Gradient fill effect settings.
 
 | Field | Description |
 | --- | --- |
-| [PointsCountChanged_internalized](#PointsCountChanged-internalized) |  |
-| [editBehaviour_internalized](#editBehaviour-internalized) | The edit behaviour. |
+| [ValueChanged_internalized](#ValueChanged-internalized) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [addColorPoint()](#addColorPoint--) | Adds the color point. |
 | [addTransparencyPoint()](#addTransparencyPoint--) | Adds the color point. |
-| [create_internalized(GdFlResource resource)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GdFlResource-) |  |
-| [create_internalized(GrdmResource resource)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GrdmResource-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [generateLfx2ResourceNodes()](#generateLfx2ResourceNodes--) | Generates the LFX2 resource nodes. |
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
@@ -42,11 +39,11 @@ Gradient fill effect settings.
 | [getColorPoints()](#getColorPoints--) | Gets or sets the color points. |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
 | [getFillType()](#getFillType--) | The fill type. |
-| [getGradientMode()](#getGradientMode--) | Mode for this gradient. |
+| [getGradientMode()](#getGradientMode--) | Gets the mode for this gradient. |
 | [getGradientName()](#getGradientName--) | Gets or sets the name of the gradient. |
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset in percentage. |
-| [getInterpolation()](#getInterpolation--) | Interpolation. |
+| [getInterpolation()](#getInterpolation--) | Gets ot sets Interpolation. |
 | [getReverse()](#getReverse--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is reverse. |
 | [getScale()](#getScale--) | Gets or sets the scale. |
 | [getTransparencyPoints()](#getTransparencyPoints--) | Gets or sets the transparency points. |
@@ -54,7 +51,6 @@ Gradient fill effect settings.
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [raiseChanged_internalized()](#raiseChanged-internalized--) | Raises the changed. |
 | [raiseValueChanged_internalized()](#raiseValueChanged-internalized--) | Raises the value changed. |
 | [removeColorPoint(IGradientColorPoint point)](#removeColorPoint-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint-) | Removes the color point. |
 | [removeTransparencyPoint(IGradientTransparencyPoint point)](#removeTransparencyPoint-com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint-) | Removes the transparency point. |
@@ -63,17 +59,16 @@ Gradient fill effect settings.
 | [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the color. |
 | [setColorPoints(IGradientColorPoint[] value)](#setColorPoints-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint---) | Gets or sets the color points. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
-| [setGradientMode_internalized(int value)](#setGradientMode-internalized-int-) | Mode for this gradient. |
+| [setGradientMode_internalized(int value)](#setGradientMode-internalized-int-) | Gets the mode for this gradient. |
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
-| [setInterpolation(short value)](#setInterpolation-short-) | Interpolation. |
+| [setInterpolation(short value)](#setInterpolation-short-) | Gets ot sets Interpolation. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is reverse. |
 | [setScale(int value)](#setScale-int-) | Gets or sets the scale. |
 | [setTransparencyPoints(IGradientTransparencyPoint[] value)](#setTransparencyPoints-com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint---) | Gets or sets the transparency points. |
 | [setVerticalOffset(double value)](#setVerticalOffset-double-) | Gets or sets the vertical offset in percentage. |
 | [toString()](#toString--) |  |
-| [updateStructures_internalized(DescriptorStructure structure)](#updateStructures-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-) | Updates the structures. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -85,19 +80,11 @@ public GradientFillSettings()
 
 Initializes a new instance of the [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) class.
 
-### PointsCountChanged_internalized {#PointsCountChanged-internalized}
+### ValueChanged_internalized {#ValueChanged-internalized}
 ```
-public final Event<System.EventHandler> PointsCountChanged_internalized
-```
-
-
-### editBehaviour_internalized {#editBehaviour-internalized}
-```
-public final GradientFillSettingsEditBehaviour editBehaviour_internalized
+public final Event<System.EventHandler> ValueChanged_internalized
 ```
 
-
-The edit behaviour.
 
 ### addColorPoint() {#addColorPoint--}
 ```
@@ -119,36 +106,6 @@ Adds the color point.
 
 **Returns:**
 [GradientTransparencyPoint](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint) - Created transparency point
-### create_internalized(GdFlResource resource) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GdFlResource-}
-```
-public static GradientFillSettings create_internalized(GdFlResource resource)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resource | [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) |  |
-
-**Returns:**
-[GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings)
-### create_internalized(GrdmResource resource) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.GrdmResource-}
-```
-public static GradientFillSettings create_internalized(GrdmResource resource)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resource | [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) |  |
-
-**Returns:**
-[GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings)
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -258,7 +215,7 @@ public final int getGradientMode()
 ```
 
 
-Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
+Gets the mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Returns:**
 int
@@ -304,7 +261,7 @@ public final short getInterpolation()
 ```
 
 
-Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid'. Value range: 0-4096.
+Gets ot sets Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid'. Value range: 0-4096.
 
 **Returns:**
 short
@@ -379,14 +336,6 @@ public final native void notifyAll()
 
 
 
-
-### raiseChanged_internalized() {#raiseChanged-internalized--}
-```
-public void raiseChanged_internalized()
-```
-
-
-Raises the changed.
 
 ### raiseValueChanged_internalized() {#raiseValueChanged-internalized--}
 ```
@@ -501,7 +450,7 @@ public final void setGradientMode_internalized(int value)
 ```
 
 
-Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
+Gets the mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -559,7 +508,7 @@ public final void setInterpolation(short value)
 ```
 
 
-Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid'. Value range: 0-4096.
+Gets ot sets Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid'. Value range: 0-4096.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -634,19 +583,6 @@ public String toString()
 
 **Returns:**
 java.lang.String
-### updateStructures_internalized(DescriptorStructure structure) {#updateStructures-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-}
-```
-public final void updateStructures_internalized(DescriptorStructure structure)
-```
-
-
-Updates the structures.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| structure | [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) | The structure. |
-
 ### wait() {#wait--}
 ```
 public final void wait()

@@ -324,6 +324,7 @@ Gradient map layer. Handles Gradient map rendering using data from GrdmResource.
 | [toBitmap()](#toBitmap--) | Converts raster image to the bitmap. |
 | [toBitmap_internalized()](#toBitmap-internalized--) |  |
 | [toString()](#toString--) |  |
+| [update()](#update--) | Update layer data in related layer resource [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource). |
 | [updateBlendingOptions_internalized(PattResource pattResource)](#updateBlendingOptions-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-) | Updates the blending options after layer or global resources change. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -1795,14 +1796,14 @@ Value: The left layer position.
 int
 ### getLength() {#getLength--}
 ```
-public final int getLength()
+public final long getLength()
 ```
 
 
 Gets the overall layer length in bytes.
 
 **Returns:**
-int
+long
 ### getMaxAllowedAllocationForPartialRotateSave_internalized() {#getMaxAllowedAllocationForPartialRotateSave-internalized--}
 ```
 public static int getMaxAllowedAllocationForPartialRotateSave_internalized()
@@ -4263,6 +4264,14 @@ public String toString()
 
 **Returns:**
 java.lang.String
+### update() {#update--}
+```
+public final void update()
+```
+
+
+Update layer data in related layer resource [GrdmResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource).
+
 ### updateBlendingOptions_internalized(PattResource pattResource) {#updateBlendingOptions-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-}
 ```
 public final void updateBlendingOptions_internalized(PattResource pattResource)

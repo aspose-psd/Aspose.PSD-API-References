@@ -22,6 +22,11 @@ Color fill effect settings
 | Constructor | Description |
 | --- | --- |
 | [ColorFillSettings()](#ColorFillSettings--) | Initializes a new instance of the [ColorFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings) class. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ValueChanged_internalized](#ValueChanged-internalized) |  |
 ## Methods
 
 | Method | Description |
@@ -47,6 +52,12 @@ public ColorFillSettings()
 
 
 Initializes a new instance of the [ColorFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings) class.
+
+### ValueChanged_internalized {#ValueChanged-internalized}
+```
+public final Event<System.EventHandler> ValueChanged_internalized
+```
+
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```

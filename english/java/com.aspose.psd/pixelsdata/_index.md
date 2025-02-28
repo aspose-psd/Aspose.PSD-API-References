@@ -9,8 +9,11 @@ url: /java/com.aspose.psd/pixelsdata/
 
 **Inheritance:**
 java.lang.Object
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.ICloneable
 ```
-public final class PixelsData
+public final class PixelsData implements System.ICloneable
 ```
 
 The class to store image pixels data and its bounds.
@@ -24,6 +27,7 @@ The class to store image pixels data and its bounds.
 
 | Method | Description |
 | --- | --- |
+| [deepClone()](#deepClone--) | It creates full copy of instance |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBounds()](#getBounds--) | Gets or sets the bounds of pixels data. |
 | [getClass()](#getClass--) |  |
@@ -59,6 +63,16 @@ Initializes a new instance of the [PixelsData](../../com.aspose.psd/pixelsdata) 
 | pixels | int[] | The pixels data. |
 | bounds | [Rectangle](../../com.aspose.psd/rectangle) | The pixels bounds rectangle. |
 
+### deepClone() {#deepClone--}
+```
+public final Object deepClone()
+```
+
+
+It creates full copy of instance
+
+**Returns:**
+java.lang.Object - The copy of instance
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

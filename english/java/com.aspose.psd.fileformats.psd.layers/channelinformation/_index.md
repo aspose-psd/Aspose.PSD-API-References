@@ -235,7 +235,7 @@ Value: The channel data.
 byte[]
 ### getLength() {#getLength--}
 ```
-public final int getLength()
+public final long getLength()
 ```
 
 
@@ -244,7 +244,7 @@ Gets the channel length in bytes.
 Value: The length.
 
 **Returns:**
-int
+long
 ### getPsdHeaderVersion_internalized() {#getPsdHeaderVersion-internalized--}
 ```
 public final int getPsdHeaderVersion_internalized()
