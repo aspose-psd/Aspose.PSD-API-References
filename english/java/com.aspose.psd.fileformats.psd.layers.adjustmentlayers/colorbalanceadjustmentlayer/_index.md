@@ -1834,14 +1834,14 @@ Value: The left layer position.
 int
 ### getLength() {#getLength--}
 ```
-public final int getLength()
+public final long getLength()
 ```
 
 
 Gets the overall layer length in bytes.
 
 **Returns:**
-int
+long
 ### getMaxAllowedAllocationForPartialRotateSave_internalized() {#getMaxAllowedAllocationForPartialRotateSave-internalized--}
 ```
 public static int getMaxAllowedAllocationForPartialRotateSave_internalized()

@@ -22,6 +22,11 @@ Base fill effect settings
 | Constructor | Description |
 | --- | --- |
 | [BaseFillSettings()](#BaseFillSettings--) |  |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [ValueChanged_internalized](#ValueChanged-internalized) |  |
 ## Methods
 
 | Method | Description |
@@ -40,6 +45,12 @@ Base fill effect settings
 ### BaseFillSettings() {#BaseFillSettings--}
 ```
 public BaseFillSettings()
+```
+
+
+### ValueChanged_internalized {#ValueChanged-internalized}
+```
+public final Event<System.EventHandler> ValueChanged_internalized
 ```
 
 

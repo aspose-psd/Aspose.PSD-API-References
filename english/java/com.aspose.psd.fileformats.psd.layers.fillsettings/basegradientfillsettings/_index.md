@@ -22,12 +22,11 @@ Base gradient definition class. It contains common properties for both types of 
 | Constructor | Description |
 | --- | --- |
 | [BaseGradientFillSettings()](#BaseGradientFillSettings--) | Initializes a new instance of the [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) class. |
-| [BaseGradientFillSettings(GdFlResource resource)](#BaseGradientFillSettings-com.aspose.psd.fileformats.psd.layers.layerresources.GdFlResource-) | Initializes a new instance of the [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) class. |
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [editBehaviour_internalized](#editBehaviour-internalized) | The edit behaviour. |
+| [ValueChanged_internalized](#ValueChanged-internalized) |  |
 ## Methods
 
 | Method | Description |
@@ -36,10 +35,9 @@ Base gradient definition class. It contains common properties for both types of 
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
-| [getColor()](#getColor--) | Gets or sets the color. |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
 | [getFillType()](#getFillType--) | The fill type. |
-| [getGradientMode()](#getGradientMode--) | Mode for this gradient. |
+| [getGradientMode()](#getGradientMode--) | Gets the mode for this gradient. |
 | [getGradientName()](#getGradientName--) | Gets or sets the name of the gradient. |
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset in percentage. |
@@ -49,13 +47,11 @@ Base gradient definition class. It contains common properties for both types of 
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [raiseChanged_internalized()](#raiseChanged-internalized--) | Raises the changed. |
 | [raiseValueChanged_internalized()](#raiseValueChanged-internalized--) | Raises the value changed. |
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
-| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the color. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) is dither. |
-| [setGradientMode_internalized(int value)](#setGradientMode-internalized-int-) | Mode for this gradient. |
+| [setGradientMode_internalized(int value)](#setGradientMode-internalized-int-) | Gets the mode for this gradient. |
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
@@ -74,26 +70,11 @@ public BaseGradientFillSettings()
 
 Initializes a new instance of the [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) class.
 
-### BaseGradientFillSettings(GdFlResource resource) {#BaseGradientFillSettings-com.aspose.psd.fileformats.psd.layers.layerresources.GdFlResource-}
+### ValueChanged_internalized {#ValueChanged-internalized}
 ```
-public BaseGradientFillSettings(GdFlResource resource)
-```
-
-
-Initializes a new instance of the [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resource | [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) | The resource. |
-
-### editBehaviour_internalized {#editBehaviour-internalized}
-```
-public final GradientFillSettingsEditBehaviour editBehaviour_internalized
+public final Event<System.EventHandler> ValueChanged_internalized
 ```
 
-
-The edit behaviour.
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
@@ -142,18 +123,6 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getColor() {#getColor--}
-```
-public final Color getColor()
-```
-
-
-Gets or sets the color.
-
-Value: The color.
-
-**Returns:**
-[Color](../../com.aspose.psd/color)
 ### getDither() {#getDither--}
 ```
 public final boolean getDither()
@@ -182,7 +151,7 @@ public final int getGradientMode()
 ```
 
 
-Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
+Gets the mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Returns:**
 int
@@ -282,14 +251,6 @@ public final native void notifyAll()
 
 
 
-### raiseChanged_internalized() {#raiseChanged-internalized--}
-```
-public void raiseChanged_internalized()
-```
-
-
-Raises the changed.
-
 ### raiseValueChanged_internalized() {#raiseValueChanged-internalized--}
 ```
 public final void raiseValueChanged_internalized()
@@ -326,21 +287,6 @@ Gets or sets the angle.
 | --- | --- | --- |
 | value | double |  |
 
-### setColor(Color value) {#setColor-com.aspose.psd.Color-}
-```
-public final void setColor(Color value)
-```
-
-
-Gets or sets the color.
-
-Value: The color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.psd/color) |  |
-
 ### setDither(boolean value) {#setDither-boolean-}
 ```
 public final void setDither(boolean value)
@@ -362,7 +308,7 @@ public final void setGradientMode_internalized(int value)
 ```
 
 
-Mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
+Gets the mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1).
 
 **Parameters:**
 | Parameter | Type | Description |

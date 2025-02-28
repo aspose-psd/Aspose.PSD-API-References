@@ -109,14 +109,14 @@ Gets the GUID.
 java.lang.String
 ### getLength() {#getLength--}
 ```
-public final int getLength()
+public final long getLength()
 ```
 
 
 Gets the filter mask data length in bytes.
 
 **Returns:**
-int
+long
 ### getMaskRectangle() {#getMaskRectangle--}
 ```
 public final Rectangle getMaskRectangle()
