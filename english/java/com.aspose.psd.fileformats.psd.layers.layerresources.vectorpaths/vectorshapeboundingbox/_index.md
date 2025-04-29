@@ -24,7 +24,8 @@ Defines vector shape bounding box class.
 | Field | Description |
 | --- | --- |
 | [BottomKey_internalized](#BottomKey-internalized) | The bottom key |
-| [ClassIdName_internalized](#ClassIdName-internalized) | The class identifier name |
+| [ClassIdNameFloat_internalized](#ClassIdNameFloat-internalized) | The class 'classFloatRect' identifier name. |
+| [ClassIdNameUnit_internalized](#ClassIdNameUnit-internalized) | The class identifier name |
 | [LeftKey_internalized](#LeftKey-internalized) | The left key |
 | [QuadVersionKey_internalized](#QuadVersionKey-internalized) | The unit value quad version key |
 | [RightKey_internalized](#RightKey-internalized) | The right key |
@@ -74,9 +75,17 @@ public static final String BottomKey_internalized
 
 The bottom key
 
-### ClassIdName_internalized {#ClassIdName-internalized}
+### ClassIdNameFloat_internalized {#ClassIdNameFloat-internalized}
 ```
-public static final String ClassIdName_internalized
+public static final String ClassIdNameFloat_internalized
+```
+
+
+The class 'classFloatRect' identifier name.
+
+### ClassIdNameUnit_internalized {#ClassIdNameUnit-internalized}
+```
+public static final String ClassIdNameUnit_internalized
 ```
 
 

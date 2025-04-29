@@ -25,6 +25,7 @@ The Adobe Illustrator Version
 | [Pdf17](#Pdf17) | The PDF-1.7 Header |
 | [PsAdobe20](#PsAdobe20) | The PS-Adobe-2.0 Header |
 | [PsAdobe30](#PsAdobe30) | The PS-Adobe-3.0 Header |
+| [PsAdobeEpsf](#PsAdobeEpsf) | The PS-Adobe EPSF Header |
 ## Methods
 
 | Method | Description |
@@ -122,6 +123,14 @@ public static final int PsAdobe30
 
 
 The PS-Adobe-3.0 Header
+
+### PsAdobeEpsf {#PsAdobeEpsf}
+```
+public static final int PsAdobeEpsf
+```
+
+
+The PS-Adobe EPSF Header
 
 ### Clone() {#Clone--}
 ```
