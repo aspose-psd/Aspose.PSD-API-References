@@ -3,7 +3,7 @@ title: Class LspfResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LspfResource class. Layer protected settings
 type: docs
-weight: 3030
+weight: 3050
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/
 ---
 {{< psd/tize >}}

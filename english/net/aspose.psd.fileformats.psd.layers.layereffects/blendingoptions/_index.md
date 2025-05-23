@@ -1,7 +1,7 @@
 ---
 title: Class BlendingOptions
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions class. BlendingOptions. Its a wrapper for Lfx2Resource which provides api for layer effects
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions class. BlendingOptions. Its a wrapper for BaseFxResource which provides api for layer effects
 type: docs
 weight: 2250
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 {{< psd/tize >}}
 ## BlendingOptions class
 
-BlendingOptions. It's a wrapper for Lfx2Resource which provides api for layer effects
+BlendingOptions. It's a wrapper for BaseFxResource which provides api for layer effects
 
 ```csharp
 public class BlendingOptions
@@ -19,7 +19,7 @@ public class BlendingOptions
 
 | Name | Description |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | Gets the effects. |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | Gets the effects. |
 
 ## Methods
 

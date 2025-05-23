@@ -13,7 +13,7 @@ The namespace contains Layer Effects wrappers
 
 | Class | Description |
 | --- | --- |
-| [BlendingOptions](./blendingoptions/) | BlendingOptions. It's a wrapper for Lfx2Resource which provides api for layer effects |
+| [BlendingOptions](./blendingoptions/) | BlendingOptions. It's a wrapper for BaseFxResource which provides api for layer effects |
 | [ColorOverlayEffect](./coloroverlayeffect/) | Color Overlay Layer effect |
 | [DropShadowEffect](./dropshadoweffect/) | Drop Shadow Layer effect |
 | [GradientOverlayEffect](./gradientoverlayeffect/) | Gradient Layer effect |

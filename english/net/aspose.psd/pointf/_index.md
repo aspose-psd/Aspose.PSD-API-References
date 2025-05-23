@@ -3,7 +3,7 @@ title: Struct PointF
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.PointF struct. Represents an ordered pair of floatingpoint x and ycoordinates that defines a point in a twodimensional plane
 type: docs
-weight: 5650
+weight: 5670
 url: /net/aspose.psd/pointf/
 ---
 {{< psd/tize >}}

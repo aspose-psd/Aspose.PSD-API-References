@@ -3,7 +3,7 @@ title: Interface IIndexedColorConverter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IIndexedColorConverter interface. The color converter for indexed image formats
 type: docs
-weight: 4830
+weight: 4850
 url: /net/aspose.psd/iindexedcolorconverter/
 ---
 {{< psd/tize >}}

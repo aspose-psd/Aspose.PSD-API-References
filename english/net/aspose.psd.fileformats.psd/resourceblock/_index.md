@@ -3,7 +3,7 @@ title: Class ResourceBlock
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.ResourceBlock class. The resource block
 type: docs
-weight: 3960
+weight: 3980
 url: /net/aspose.psd.fileformats.psd/resourceblock/
 ---
 {{< psd/tize >}}

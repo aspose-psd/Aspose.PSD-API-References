@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects
 Gets the effects.
 
 ```csharp
-public ILayerEffect[] Effects { get; }
+public ILayerEffect[] Effects { get; set; }
 ```
 
 ### Property Value
