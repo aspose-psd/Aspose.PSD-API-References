@@ -19,6 +19,7 @@ The namespace contains PSD file format entities contained in layers.
 | [ArtBResource](./artbresource/) | The Artboard info data for [`Resources`](../aspose.psd.fileformats.psd.layers/layer/resources/). |
 | [ArtDResource](./artdresource/) | The Artboard info data for [`GlobalLayerResources`](../aspose.psd.fileformats.psd/psdimage/globallayerresources/). |
 | [BaseArtboardInfoResource](./baseartboardinforesource/) | The Artboard info data resource. |
+| [BaseFxResource](./basefxresource/) | Base effects resource |
 | [BlncResource](./blncresource/) | BlncResource class is a resource of Color Adjustment Layer. |
 | [BlwhResource](./blwhresource/) | BlwhResource class is a resource of Black and White Adjustment Layer. |
 | [BooleanResource](./booleanresource/) | Class BooleanResource. It's pseudo resource. Photoshop haven't it |
@@ -41,6 +42,7 @@ The namespace contains PSD file format entities contained in layers.
 | [GdFlResource](./gdflresource/) | Class GdFlResource. This resource contains information about blending of clipped element. |
 | [GrdmResource](./grdmresource/) | Class GrdmResource. Contains information about Gradient-Map layer. |
 | [Hue2Resource](./hue2resource/) | Class Hue2Resource. Resource of Exposure Adjustment Layer |
+| [ImfxResource](./imfxresource/) | Imfx resource (Multi-effects resource) |
 | [InfxResource](./infxresource/) | Class InfxResource. This resource contains information about blending of clipped element. |
 | [IopaResource](./ioparesource/) | Class IopaResource. This resource contains information about the fill opacity property from the layer style form |
 | [KnkoResource](./knkoresource/) | Class KnkoResource. This resource contains information about blending of clipped element. |
@@ -48,7 +50,7 @@ The namespace contains PSD file format entities contained in layers.
 | [LclrResource](./lclrresource/) | Class LclrResource. This resource contains information about color of layer in layers' list is PS. It's only |
 | [LevelChannel](./levelchannel/) | Class for working with channels in Levels Adjustment Layer |
 | [LevlResource](./levlresource/) | Class LevlResource. Resource of Exposure Adjustment Layer |
-| [Lfx2Resource](./lfx2resource/) | Lfx2 resource (effects resource) |
+| [Lfx2Resource](./lfx2resource/) | Lfx2 resource (regular effects resource) |
 | [LiFdDataSource](./lifddatasource/) | Defines the liFD data source class in PSD File that contains information about an embedded file. This is part of PSD File Format Manipulation API that helps to modify Adobe® Photoshop® files |
 | [LiFeDataSource](./lifedatasource/) | Defines the LnkeDataSource class that contains information about external linked file. This is part of PSD File Format Manipulation API that helps to modify Adobe® Photoshop® files |
 | [LinkDataSource](./linkdatasource/) | Defines the LinkDataSource class that contains information about a linked file or an asset in the PSD file. |

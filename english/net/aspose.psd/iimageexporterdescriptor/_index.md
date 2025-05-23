@@ -3,7 +3,7 @@ title: Interface IImageExporterDescriptor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IImageExporterDescriptor interface. Represents the image exporter descriptor. The exporter descriptor is used to overcome the necessity to contain each exporter instance in memory and multithreading issues
 type: docs
-weight: 4800
+weight: 4820
 url: /net/aspose.psd/iimageexporterdescriptor/
 ---
 {{< psd/tize >}}

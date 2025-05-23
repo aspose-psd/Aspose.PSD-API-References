@@ -3,7 +3,7 @@ title: Class SoLeResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLeResource class. Defines the SoLeResource class that contains information about a smart object layer in a PSD file. Is is used to support smart object layers with external file links in the Adobe Photoshop images
 type: docs
-weight: 3290
+weight: 3310
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/
 ---
 {{< psd/tize >}}

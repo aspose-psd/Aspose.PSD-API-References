@@ -3,7 +3,7 @@ title: Enum TiffPlanarConfigs
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. Storage organization. Possible values for PLANARCONFIG tag
 type: docs
-weight: 4490
+weight: 4510
 url: /net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
 {{< psd/tize >}}

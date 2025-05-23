@@ -3,7 +3,7 @@ title: Class TiffExifIfd
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.TiffExifIfd class. The TIFF Exif image file directory class
 type: docs
-weight: 4580
+weight: 4600
 url: /net/aspose.psd.fileformats.tiff/tiffexififd/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum TiffFileStandards
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards enum. Specifies the TIFF file format standards
 type: docs
-weight: 4440
+weight: 4460
 url: /net/aspose.psd.fileformats.tiff.enums/tifffilestandards/
 ---
 {{< psd/tize >}}

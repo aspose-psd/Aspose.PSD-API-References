@@ -3,7 +3,7 @@ title: Class WarpSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Warp.WarpSettings class. Parameters of layer with warp
 type: docs
-weight: 3900
+weight: 3920
 url: /net/aspose.psd.fileformats.psd.layers.warp/warpsettings/
 ---
 {{< psd/tize >}}
@@ -28,6 +28,7 @@ public class WarpSettings
 | --- | --- |
 | [Bounds](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/bounds/) { get; } | Gets or sets bounds of warp image |
 | [MeshPoints](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/meshpoints/) { get; set; } | Photoshop mesh points |
+| [ProcessingArea](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/processingarea/) { get; set; } | Gets or sets value of processing area size. Default value is 10. Range is [2;40] |
 | [Rotate](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/rotate/) { get; set; } | Gets or sets rotate value |
 | [Style](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/style/) { get; set; } | Gets or sets style of warp |
 | [Value](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/value/) { get; set; } | Gets or sets value of warp |

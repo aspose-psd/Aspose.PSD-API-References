@@ -3,7 +3,7 @@ title: Class AudioSampleType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType class. Represents Audio sample type in XmpDynamicMediaPackage
 type: docs
-weight: 6230
+weight: 6250
 url: /net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/
 ---
 {{< psd/tize >}}

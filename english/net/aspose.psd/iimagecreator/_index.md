@@ -3,7 +3,7 @@ title: Interface IImageCreator
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IImageCreator interface. The image creator
 type: docs
-weight: 4760
+weight: 4780
 url: /net/aspose.psd/iimagecreator/
 ---
 {{< psd/tize >}}

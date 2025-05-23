@@ -3,7 +3,7 @@ title: Class XmpArrayHelper
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpArrayHelper class. The helper class for processing RDF logic
 type: docs
-weight: 6600
+weight: 6620
 url: /net/aspose.psd.xmp/xmparrayhelper/
 ---
 {{< psd/tize >}}

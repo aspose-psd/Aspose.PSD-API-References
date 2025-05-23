@@ -3,7 +3,7 @@ title: Class LnsrResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource class. Class lnsrResource
 type: docs
-weight: 2980
+weight: 3000
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
 {{< psd/tize >}}

@@ -19,12 +19,13 @@ public enum AiFormatVersion
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PsAdobe20 | `0` | The PS-Adobe-2.0 Header |
-| PsAdobe30 | `1` | The PS-Adobe-3.0 Header |
-| Pdf14 | `2` | The PDF-1.4 Header |
-| Pdf15 | `3` | The PDF-1.5 Header |
-| Pdf16 | `4` | The PDF-1.6 Header |
-| Pdf17 | `5` | The PDF-1.7 Header |
+| PsAdobeEpsf | `0` | The PS-Adobe EPSF Header |
+| PsAdobe20 | `1` | The PS-Adobe-2.0 Header |
+| PsAdobe30 | `2` | The PS-Adobe-3.0 Header |
+| Pdf14 | `3` | The PDF-1.4 Header |
+| Pdf15 | `4` | The PDF-1.5 Header |
+| Pdf16 | `5` | The PDF-1.6 Header |
+| Pdf17 | `6` | The PDF-1.7 Header |
 
 ### See Also
 
