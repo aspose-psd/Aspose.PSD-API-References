@@ -76,7 +76,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
     gradientOverlayEffect.BlendMode = BlendMode.Hue;
 
     // Gets GradientFillSettings object to configure gradient overlay settings.
-    GradientFillSettings settings = gradientOverlayEffect.Settings;
+    GradientFillSettings settings = (GradientFillSettings)gradientOverlayEffect.Settings;
 
     // Setting a new gradient with two colors.
     settings.ColorPoints = new IGradientColorPoint[]

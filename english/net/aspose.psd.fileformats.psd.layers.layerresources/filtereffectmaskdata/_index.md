@@ -3,7 +3,7 @@ title: Class FilterEffectMaskData
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FilterEffectMaskData class. The filter mask data class
 type: docs
-weight: 2670
+weight: 2680
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/
 ---
 {{< psd/tize >}}
@@ -52,7 +52,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {

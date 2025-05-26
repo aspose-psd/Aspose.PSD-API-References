@@ -3,7 +3,7 @@ title: Class ShapeLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.ShapeLayer class. Shape layer. Encapsulates the logic of work with Shape layer and related resources
 type: docs
-weight: 3720
+weight: 3740
 url: /net/aspose.psd.fileformats.psd.layers/shapelayer/
 ---
 {{< psd/tize >}}

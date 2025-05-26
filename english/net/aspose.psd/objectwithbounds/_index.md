@@ -3,7 +3,7 @@ title: Class ObjectWithBounds
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ObjectWithBounds class. The object having bounds
 type: docs
-weight: 5530
+weight: 5550
 url: /net/aspose.psd/objectwithbounds/
 ---
 {{< psd/tize >}}

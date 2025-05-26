@@ -3,7 +3,7 @@ title: Class SmartFilters
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters class. The smart filters of SmartObjectLayer
 type: docs
-weight: 3790
+weight: 3810
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/
 ---
 {{< psd/tize >}}

@@ -63,7 +63,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual((byte)255, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var settings = gradientOverlay.Settings;
+    var settings = (GradientFillSettings)gradientOverlay.Settings;
     AssertAreEqual(Color.Empty, settings.Color);
     AssertAreEqual(FillType.Gradient, settings.FillType);
     AssertAreEqual(true, settings.AlignWithLayer);
@@ -145,7 +145,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual((byte)193, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var fillSettings = gradientOverlay.Settings;
+    var fillSettings = (GradientFillSettings)gradientOverlay.Settings;
     AssertAreEqual(Color.Empty, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 

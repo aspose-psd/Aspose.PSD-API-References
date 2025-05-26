@@ -3,7 +3,7 @@ title: Class BlwhResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlwhResource class. BlwhResource class is a resource of Black and White Adjustment Layer
 type: docs
-weight: 2510
+weight: 2520
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 ---
 {{< psd/tize >}}

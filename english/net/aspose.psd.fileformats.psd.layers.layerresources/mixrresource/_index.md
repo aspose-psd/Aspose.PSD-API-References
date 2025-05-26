@@ -3,7 +3,7 @@ title: Class MixrResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MixrResource class. Class MixrResource. Resource of Channel Mixer Adjustment Layer
 type: docs
-weight: 3070
+weight: 3090
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/
 ---
 {{< psd/tize >}}

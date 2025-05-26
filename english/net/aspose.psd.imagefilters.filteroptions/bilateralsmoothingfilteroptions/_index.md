@@ -3,7 +3,7 @@ title: Class BilateralSmoothingFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.BilateralSmoothingFilterOptions class. The Bilateral Smoothing Filter Options
 type: docs
-weight: 5020
+weight: 5040
 url: /net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/
 ---
 {{< psd/tize >}}

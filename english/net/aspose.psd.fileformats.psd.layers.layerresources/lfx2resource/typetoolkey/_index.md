@@ -3,7 +3,7 @@ title: Lfx2Resource.TypeToolKey
 second_title: Aspose.PSD for .NET API Reference
 description: Lfx2Resource field. The type tool info key
 type: docs
-weight: 50
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/typetoolkey/
 ---
 {{< psd/tize >}}
