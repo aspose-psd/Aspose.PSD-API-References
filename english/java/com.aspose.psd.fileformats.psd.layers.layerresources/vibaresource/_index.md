@@ -3,7 +3,7 @@ title: VibAResource
 second_title: Aspose.PSD for Java API Reference
 description: VibA Resource.
 type: docs
-weight: 78
+weight: 80
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 ---
 

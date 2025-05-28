@@ -3,7 +3,7 @@ title: LevlResource
 second_title: Aspose.PSD for Java API Reference
 description: Class LevlResource.
 type: docs
-weight: 44
+weight: 46
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 ---
 

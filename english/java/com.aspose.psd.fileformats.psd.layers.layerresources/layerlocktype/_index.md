@@ -3,7 +3,7 @@ title: LayerLockType
 second_title: Aspose.PSD for Java API Reference
 description: Layer lock options
 type: docs
-weight: 38
+weight: 40
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 ---
 

@@ -11,9 +11,9 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeff
 java.lang.Object
 
 **All Implemented Interfaces:**
-[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect)
+[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect), com.aspose.internal.fileformats.psd.layers.layereffects.IInternalLayerEffect
 ```
-public class GradientOverlayEffect implements ILayerEffect
+public class GradientOverlayEffect implements ILayerEffect, IInternalLayerEffect
 ```
 
 Gradient Layer effect
@@ -26,6 +26,7 @@ Gradient Layer effect
 | [getBlendMode()](#getBlendMode--) | Gets or sets the blend mode. |
 | [getClass()](#getClass--) |  |
 | [getEffectType()](#getEffectType--) | Gets a type of effect |
+| [getEffectsEntity_internalized()](#getEffectsEntity-internalized--) | Gets the entity |
 | [getOpacity()](#getOpacity--) | Gets or sets the opacity. |
 | [getSettings()](#getSettings--) | Gets or sets the settings. |
 | [hashCode()](#hashCode--) |  |
@@ -102,6 +103,16 @@ Gets a type of effect
 
 **Returns:**
 int
+### getEffectsEntity_internalized() {#getEffectsEntity-internalized--}
+```
+public final IEffectsResource getEffectsEntity_internalized()
+```
+
+
+Gets the entity
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource
 ### getOpacity() {#getOpacity--}
 ```
 public final byte getOpacity()

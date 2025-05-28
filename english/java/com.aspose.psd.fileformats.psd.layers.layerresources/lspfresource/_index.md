@@ -3,7 +3,7 @@ title: LspfResource
 second_title: Aspose.PSD for Java API Reference
 description: Layer protected settings
 type: docs
-weight: 52
+weight: 54
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lspfresource/
 ---
 

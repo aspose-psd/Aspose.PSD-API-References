@@ -3,7 +3,7 @@ title: GradientHelper
 second_title: Aspose.PSD for Java API Reference
 description: Helper class that implement conversion of data for gradient properties.
 type: docs
-weight: 32
+weight: 33
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/gradienthelper/
 ---
 

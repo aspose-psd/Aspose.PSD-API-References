@@ -11,9 +11,9 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect
 java.lang.Object
 
 **All Implemented Interfaces:**
-[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect)
+[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect), com.aspose.internal.fileformats.psd.layers.layereffects.IInternalLayerEffect
 ```
-public class ColorOverlayEffect implements ILayerEffect
+public class ColorOverlayEffect implements ILayerEffect, IInternalLayerEffect
 ```
 
 Color Overlay Layer effect
@@ -27,6 +27,7 @@ Color Overlay Layer effect
 | [getClass()](#getClass--) |  |
 | [getColor()](#getColor--) | Gets or sets the color. |
 | [getEffectType()](#getEffectType--) | Gets a type of effect |
+| [getEffectsEntity_internalized()](#getEffectsEntity-internalized--) | Gets the entity |
 | [getOpacity()](#getOpacity--) | Gets or sets the opacity. |
 | [hashCode()](#hashCode--) |  |
 | [isVisible()](#isVisible--) | Gets or sets a value indicating whether this instance is visible. |
@@ -114,6 +115,16 @@ Gets a type of effect
 
 **Returns:**
 int
+### getEffectsEntity_internalized() {#getEffectsEntity-internalized--}
+```
+public final IEffectsResource getEffectsEntity_internalized()
+```
+
+
+Gets the entity
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource
 ### getOpacity() {#getOpacity--}
 ```
 public final byte getOpacity()

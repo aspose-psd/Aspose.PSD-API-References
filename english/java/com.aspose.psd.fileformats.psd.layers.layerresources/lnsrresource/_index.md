@@ -3,7 +3,7 @@ title: LnsrResource
 second_title: Aspose.PSD for Java API Reference
 description: Class lnsrResource.
 type: docs
-weight: 47
+weight: 49
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
 

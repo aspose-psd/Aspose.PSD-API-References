@@ -1,24 +1,24 @@
 ---
-title: Lfx2Resource
+title: ImfxResource
 second_title: Aspose.PSD for Java API Reference
-description: Lfx2 resource effects resource
+description: Imfx resource Multi-effects resource
 type: docs
-weight: 47
-url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
+weight: 36
+url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/imfxresource/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.BaseFxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/basefxresource)
 ```
-public final class Lfx2Resource extends BaseFxResource
+public final class ImfxResource extends BaseFxResource
 ```
 
-Lfx2 resource (effects resource)
+Imfx resource (Multi-effects resource)
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Lfx2Resource()](#Lfx2Resource--) | Initializes a new instance of the [Lfx2Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lfx2resource) class. |
+| [ImfxResource()](#ImfxResource--) | Initializes a new instance of the [ImfxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/imfxresource) class. |
 ## Fields
 
 | Field | Description |
@@ -90,13 +90,13 @@ Lfx2 resource (effects resource)
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Lfx2Resource() {#Lfx2Resource--}
+### ImfxResource() {#ImfxResource--}
 ```
-public Lfx2Resource()
+public ImfxResource()
 ```
 
 
-Initializes a new instance of the [Lfx2Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lfx2resource) class.
+Initializes a new instance of the [ImfxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/imfxresource) class.
 
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
@@ -204,14 +204,14 @@ Finds the effect entity.
 com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource - Returns the effect entity.
 ### generateDefaultResource_internalized() {#generateDefaultResource-internalized--}
 ```
-public static Lfx2Resource generateDefaultResource_internalized()
+public static ImfxResource generateDefaultResource_internalized()
 ```
 
 
 Generates the default resource.
 
 **Returns:**
-[Lfx2Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lfx2resource) - Generated default [Lfx2Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lfx2resource)
+[ImfxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/imfxresource) - Generated default [ImfxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/imfxresource)
 ### getBlendingImageData_internalized() {#getBlendingImageData-internalized--}
 ```
 public final long[] getBlendingImageData_internalized()

@@ -3,7 +3,7 @@ title: LayerSectionResource
 second_title: Aspose.PSD for Java API Reference
 description: The layer section resource.
 type: docs
-weight: 39
+weight: 41
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
 

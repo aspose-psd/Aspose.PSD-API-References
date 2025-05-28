@@ -3,7 +3,7 @@ title: BlwhResource
 second_title: Aspose.PSD for Java API Reference
 description: BlwhResource class is a resource of Black and White Adjustment Layer.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/blwhresource/
 ---
 

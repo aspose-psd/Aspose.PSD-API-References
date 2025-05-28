@@ -13,7 +13,7 @@ java.lang.Object
 public class BlendingOptions
 ```
 
-BlendingOptions. It's a wrapper for Lfx2Resource which provides api for layer effects
+BlendingOptions. It's a wrapper for BaseFxResource which provides api for layer effects
 ## Fields
 
 | Field | Description |
@@ -37,6 +37,7 @@ BlendingOptions. It's a wrapper for Lfx2Resource which provides api for layer ef
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setEffects(ILayerEffect[] value)](#setEffects-com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect---) | Gets the effects. |
 | [setNewPatternToFillSettings_internalized(PatternFillSettings patternSettings)](#setNewPatternToFillSettings-internalized-com.aspose.psd.fileformats.psd.layers.fillsettings.PatternFillSettings-) | Creates the new pattern data and sets it into [PatternFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings) instance. |
 | [toString()](#toString--) |  |
 | [updateEffectsSources_internalized(LayerStyleFX layerStyle, PattResource pattResource)](#updateEffectsSources-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.LayerStyleFX-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-) | Updates the effects if it's newer. |
@@ -202,6 +203,21 @@ public final native void notifyAll()
 
 
 
+
+### setEffects(ILayerEffect[] value) {#setEffects-com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect---}
+```
+public void setEffects(ILayerEffect[] value)
+```
+
+
+Gets the effects.
+
+Value: The effects.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ILayerEffect\[\]](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect) |  |
 
 ### setNewPatternToFillSettings_internalized(PatternFillSettings patternSettings) {#setNewPatternToFillSettings-internalized-com.aspose.psd.fileformats.psd.layers.fillsettings.PatternFillSettings-}
 ```

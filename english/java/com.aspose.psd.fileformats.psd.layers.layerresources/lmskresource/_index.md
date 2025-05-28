@@ -3,7 +3,7 @@ title: LmskResource
 second_title: Aspose.PSD for Java API Reference
 description: The LMsk resource.
 type: docs
-weight: 46
+weight: 48
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lmskresource/
 ---
 
