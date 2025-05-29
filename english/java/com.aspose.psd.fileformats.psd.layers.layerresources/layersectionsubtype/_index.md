@@ -3,7 +3,7 @@ title: LayerSectionSubtype
 second_title: Aspose.PSD for Java API Reference
 description: The section subtype
 type: docs
-weight: 40
+weight: 42
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
 

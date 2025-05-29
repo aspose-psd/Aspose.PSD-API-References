@@ -3,7 +3,7 @@ title: ClblResource
 second_title: Aspose.PSD for Java API Reference
 description: Class ClblResource.
 type: docs
-weight: 18
+weight: 19
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/clblresource/
 ---
 

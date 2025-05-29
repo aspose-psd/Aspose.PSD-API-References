@@ -11,9 +11,9 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 java.lang.Object
 
 **All Implemented Interfaces:**
-[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect)
+[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect), com.aspose.internal.fileformats.psd.layers.layereffects.IInternalLayerEffect
 ```
-public class StrokeEffect implements ILayerEffect
+public class StrokeEffect implements ILayerEffect, IInternalLayerEffect
 ```
 
 The Adobe® Photoshop® stroke effect for the PSD layer.
@@ -26,6 +26,7 @@ The Adobe® Photoshop® stroke effect for the PSD layer.
 | [getBlendMode()](#getBlendMode--) | Gets or sets the blend mode. |
 | [getClass()](#getClass--) |  |
 | [getEffectType()](#getEffectType--) | Gets a type of effect |
+| [getEffectsEntity_internalized()](#getEffectsEntity-internalized--) | Gets the entity |
 | [getFillSettings()](#getFillSettings--) | Gets or sets the fill settings. |
 | [getOpacity()](#getOpacity--) | Gets or sets the opacity. |
 | [getOverprint()](#getOverprint--) | Gets or sets a value indicating whether this [StrokeEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/strokeeffect) will blend stroke against current layer contents. |
@@ -108,6 +109,16 @@ Gets a type of effect
 
 **Returns:**
 int
+### getEffectsEntity_internalized() {#getEffectsEntity-internalized--}
+```
+public final IEffectsResource getEffectsEntity_internalized()
+```
+
+
+Gets the entity
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource
 ### getFillSettings() {#getFillSettings--}
 ```
 public final BaseFillSettings getFillSettings()

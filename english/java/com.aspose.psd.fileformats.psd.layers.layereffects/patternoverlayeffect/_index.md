@@ -11,9 +11,9 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffe
 java.lang.Object
 
 **All Implemented Interfaces:**
-[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect)
+[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect), com.aspose.internal.fileformats.psd.layers.layereffects.IInternalLayerEffect
 ```
-public class PatternOverlayEffect implements ILayerEffect
+public class PatternOverlayEffect implements ILayerEffect, IInternalLayerEffect
 ```
 
 Pattern Layer effect
@@ -26,6 +26,7 @@ Pattern Layer effect
 | [getBlendMode()](#getBlendMode--) | Gets or sets the blend mode. |
 | [getClass()](#getClass--) |  |
 | [getEffectType()](#getEffectType--) | Gets a type of effect type |
+| [getEffectsEntity_internalized()](#getEffectsEntity-internalized--) | Gets the entity |
 | [getOpacity()](#getOpacity--) | Gets or sets the opacity. |
 | [getSettings()](#getSettings--) | Gets or sets the settings. |
 | [hashCode()](#hashCode--) |  |
@@ -102,6 +103,16 @@ Gets a type of effect type
 
 **Returns:**
 int
+### getEffectsEntity_internalized() {#getEffectsEntity-internalized--}
+```
+public final IEffectsResource getEffectsEntity_internalized()
+```
+
+
+Gets the entity
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource
 ### getOpacity() {#getOpacity--}
 ```
 public final byte getOpacity()

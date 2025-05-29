@@ -11,9 +11,9 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 java.lang.Object
 
 **All Implemented Interfaces:**
-[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect)
+[com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect), com.aspose.internal.fileformats.psd.layers.layereffects.IInternalLayerEffect
 ```
-public class OuterGlowEffect implements ILayerEffect
+public class OuterGlowEffect implements ILayerEffect, IInternalLayerEffect
 ```
 
 Outer Glow Layer effect
@@ -26,6 +26,7 @@ Outer Glow Layer effect
 | [getBlendMode()](#getBlendMode--) | Gets or sets the blend mode. |
 | [getClass()](#getClass--) |  |
 | [getEffectType()](#getEffectType--) | Gets a type of effect type |
+| [getEffectsEntity_internalized()](#getEffectsEntity-internalized--) | Gets the entity |
 | [getFillColor()](#getFillColor--) | Gets or sets the color. |
 | [getIntensity()](#getIntensity--) | Gets or sets the angle in degrees. |
 | [getJitter()](#getJitter--) | Gets or sets the noise. |
@@ -118,6 +119,16 @@ Gets a type of effect type
 
 **Returns:**
 int
+### getEffectsEntity_internalized() {#getEffectsEntity-internalized--}
+```
+public final IEffectsResource getEffectsEntity_internalized()
+```
+
+
+Gets the entity
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource
 ### getFillColor() {#getFillColor--}
 ```
 public final IFillSettings getFillColor()

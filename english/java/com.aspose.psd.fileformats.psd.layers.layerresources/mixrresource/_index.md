@@ -3,7 +3,7 @@ title: MixrResource
 second_title: Aspose.PSD for Java API Reference
 description: Class MixrResource.
 type: docs
-weight: 56
+weight: 58
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/mixrresource/
 ---
 

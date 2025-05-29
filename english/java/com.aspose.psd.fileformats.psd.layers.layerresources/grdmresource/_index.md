@@ -3,7 +3,7 @@ title: GrdmResource
 second_title: Aspose.PSD for Java API Reference
 description: Class GrdmResource.
 type: docs
-weight: 33
+weight: 34
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 ---
 

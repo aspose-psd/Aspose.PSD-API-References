@@ -38,6 +38,7 @@ The alias structure.
 | [getClass()](#getClass--) |  |
 | [getColorValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getColorValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the color value from structures list by key name. |
 | [getColorValue_internalized(List<OSTypeStructure> itemsList)](#getColorValue-internalized-java.util.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) |  |
+| [getCopy_internalized()](#getCopy-internalized--) | Creates the full copy of this structure. |
 | [getDataLength()](#getDataLength--) | Gets the exact data length in bytes. |
 | [getFullPath()](#getFullPath--) | Gets or sets the full path. |
 | [getHeaderLength()](#getHeaderLength--) | Gets the header length. |
@@ -247,6 +248,16 @@ public static Color getColorValue_internalized(List<OSTypeStructure> itemsList)
 
 **Returns:**
 [Color](../../com.aspose.psd/color)
+### getCopy_internalized() {#getCopy-internalized--}
+```
+public final OSTypeStructure getCopy_internalized()
+```
+
+
+Creates the full copy of this structure.
+
+**Returns:**
+[OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) - Returns the full copy of this structure.
 ### getDataLength() {#getDataLength--}
 ```
 public final int getDataLength()

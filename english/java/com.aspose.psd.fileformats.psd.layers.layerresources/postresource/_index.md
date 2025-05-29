@@ -3,7 +3,7 @@ title: PostResource
 second_title: Aspose.PSD for Java API Reference
 description: Class PostResource.
 type: docs
-weight: 66
+weight: 68
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/postresource/
 ---
 

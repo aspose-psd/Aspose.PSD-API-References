@@ -3,7 +3,7 @@ title: GdFlResource
 second_title: Aspose.PSD for Java API Reference
 description: Class GdFlResource.
 type: docs
-weight: 31
+weight: 32
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
 

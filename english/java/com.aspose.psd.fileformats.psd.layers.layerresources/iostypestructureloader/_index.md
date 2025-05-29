@@ -3,7 +3,7 @@ title: IOSTypeStructureLoader
 second_title: Aspose.PSD for Java API Reference
 description: The  resource loader.
 type: docs
-weight: 79
+weight: 81
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/
 ---
 ```

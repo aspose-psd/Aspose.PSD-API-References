@@ -14,6 +14,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 | --- | --- |
 | [AdjustmentLayerResource](../com.aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource) | Base Class for adjustment layer resources |
 | [AnimatedDataSectionStructure](../com.aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure) | The section with animated data. |
+| [BaseFxResource](../com.aspose.psd.fileformats.psd.layers.layerresources/basefxresource) | Base effects resource |
 | [BlncResource](../com.aspose.psd.fileformats.psd.layers.layerresources/blncresource) | BlncResource class is a resource of Color Adjustment Layer. |
 | [BlwhResource](../com.aspose.psd.fileformats.psd.layers.layerresources/blwhresource) | BlwhResource class is a resource of Black and White Adjustment Layer. |
 | [BooleanResource](../com.aspose.psd.fileformats.psd.layers.layerresources/booleanresource) | Class BooleanResource. |
@@ -37,6 +38,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 | [GradientHelper](../com.aspose.psd.fileformats.psd.layers.layerresources/gradienthelper) | Helper class that implement conversion of data for gradient properties. |
 | [GrdmResource](../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) | Class GrdmResource. |
 | [Hue2Resource](../com.aspose.psd.fileformats.psd.layers.layerresources/hue2resource) | Class Hue2Resource. |
+| [ImfxResource](../com.aspose.psd.fileformats.psd.layers.layerresources/imfxresource) | Imfx resource (Multi-effects resource) |
 | [InfxResource](../com.aspose.psd.fileformats.psd.layers.layerresources/infxresource) | Class InfxResource. |
 | [IopaResource](../com.aspose.psd.fileformats.psd.layers.layerresources/ioparesource) | Class IopaResource. |
 | [KnkoResource](../com.aspose.psd.fileformats.psd.layers.layerresources/knkoresource) | Class KnkoResource. |

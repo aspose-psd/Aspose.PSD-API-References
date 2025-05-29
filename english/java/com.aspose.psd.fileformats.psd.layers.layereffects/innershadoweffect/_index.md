@@ -11,9 +11,9 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 java.lang.Object
 
 **All Implemented Interfaces:**
-[com.aspose.psd.fileformats.psd.layers.layereffects.IShadowEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect)
+[com.aspose.psd.fileformats.psd.layers.layereffects.IShadowEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect), com.aspose.internal.fileformats.psd.layers.layereffects.IInternalLayerEffect
 ```
-public class InnerShadowEffect implements IShadowEffect
+public class InnerShadowEffect implements IShadowEffect, IInternalLayerEffect
 ```
 
 Inner Shadow Layer effect
@@ -29,6 +29,7 @@ Inner Shadow Layer effect
 | [getColor()](#getColor--) | Gets or sets the color. |
 | [getDistance()](#getDistance--) | Gets or sets the distance in pixels. |
 | [getEffectType()](#getEffectType--) | Gets a type of effect |
+| [getEffectsEntity_internalized()](#getEffectsEntity-internalized--) | Gets the entity |
 | [getNoise()](#getNoise--) | Gets or sets the noise. |
 | [getOpacity()](#getOpacity--) | Gets or sets the opacity. |
 | [getSize()](#getSize--) | Gets or sets the blur value in pixels. |
@@ -150,6 +151,16 @@ Gets a type of effect
 
 **Returns:**
 int
+### getEffectsEntity_internalized() {#getEffectsEntity-internalized--}
+```
+public final IEffectsResource getEffectsEntity_internalized()
+```
+
+
+Gets the entity
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource
 ### getNoise() {#getNoise--}
 ```
 public final int getNoise()

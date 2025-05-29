@@ -3,7 +3,7 @@ title: FXidResource
 second_title: Aspose.PSD for Java API Reference
 description: The Filter Effects resource contains channels a user mask and a sheet mask for the smart filter.
 type: docs
-weight: 27
+weight: 28
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
 
