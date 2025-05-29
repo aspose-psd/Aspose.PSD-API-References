@@ -3,7 +3,7 @@ title: IopaResource
 second_title: Aspose.PSD for Java API Reference
 description: Class IopaResource.
 type: docs
-weight: 36
+weight: 38
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/ioparesource/
 ---
 

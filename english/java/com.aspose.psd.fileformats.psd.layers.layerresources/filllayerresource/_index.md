@@ -3,7 +3,7 @@ title: FillLayerResource
 second_title: Aspose.PSD for Java API Reference
 description: Base Class for fill layer resources
 type: docs
-weight: 28
+weight: 29
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/
 ---
 

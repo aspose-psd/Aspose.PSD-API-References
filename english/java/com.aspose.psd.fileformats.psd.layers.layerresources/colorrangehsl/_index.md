@@ -3,7 +3,7 @@ title: ColorRangeHsl
 second_title: Aspose.PSD for Java API Reference
 description: has 6 color ranges where you can change HSV parameters.
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/
 ---
 

@@ -3,7 +3,7 @@ title: CmlsResource
 second_title: Aspose.PSD for Java API Reference
 description: Class CmlsResource.
 type: docs
-weight: 19
+weight: 20
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/
 ---
 

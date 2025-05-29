@@ -3,7 +3,7 @@ title: CurvesContinuousManager
 second_title: Aspose.PSD for Java API Reference
 description: Manager for Curves Adjustment Layer that manipulates curves
 type: docs
-weight: 22
+weight: 23
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
 

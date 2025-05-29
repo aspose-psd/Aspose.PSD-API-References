@@ -3,7 +3,7 @@ title: ExpaResource
 second_title: Aspose.PSD for Java API Reference
 description: Class ExpaResource.
 type: docs
-weight: 26
+weight: 27
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 ---
 

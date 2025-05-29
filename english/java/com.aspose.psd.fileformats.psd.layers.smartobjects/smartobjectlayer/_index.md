@@ -141,9 +141,9 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [getHeight()](#getHeight--) | Gets the image height. |
 | [getHorizontalResolution()](#getHorizontalResolution--) | Gets or sets the horizontal resolution, in pixels per inch, of this  RasterImage . |
 | [getImageOpacity()](#getImageOpacity--) | Gets opacity of this image. |
+| [getImageSizeBeforeChange_internalized()](#getImageSizeBeforeChange-internalized--) | It gets or sets last size of image to warp |
 | [getInnerDataTransformer_internalized()](#getInnerDataTransformer-internalized--) | Gets the inner data transformer. |
 | [getInterruptMonitor()](#getInterruptMonitor--) | Gets the interrupt monitor. |
-| [getLastWarpImageSize_internalized()](#getLastWarpImageSize-internalized--) | It gets or sets last size of image to warp |
 | [getLayerBlendingRangesData()](#getLayerBlendingRangesData--) | Gets or sets the layer blending ranges data. |
 | [getLayerCreationDateTime()](#getLayerCreationDateTime--) | Gets or sets the layer creation date time. |
 | [getLayerCreationDateTime_internalized()](#getLayerCreationDateTime-internalized--) |  |
@@ -320,9 +320,9 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [setHorizontalResolution(double value)](#setHorizontalResolution-double-) | Gets or sets the horizontal resolution, in pixels per inch, of this  RasterImage . |
 | [setIgnoreAfterSave_internalized(boolean value)](#setIgnoreAfterSave-internalized-boolean-) | Sets a value indicating whether [ignore after save]. |
 | [setImageChanged_internalized(boolean value)](#setImageChanged-internalized-boolean-) | Gets or sets a value indicating whether this instance of image has changed after loading. |
+| [setImageSizeBeforeChange_internalized(Size value)](#setImageSizeBeforeChange-internalized-com.aspose.psd.Size-) | It gets or sets last size of image to warp |
 | [setInnerDataTransformer_internalized(IInnerDataTransformer value)](#setInnerDataTransformer-internalized-com.aspose.internal.IInnerDataTransformer-) | Sets the inner data transformer. |
 | [setInterruptMonitor(InterruptMonitor value)](#setInterruptMonitor-com.aspose.psd.multithreading.InterruptMonitor-) | Sets the interrupt monitor. |
-| [setLastWarpImageSize_internalized(Size value)](#setLastWarpImageSize-internalized-com.aspose.psd.Size-) | It gets or sets last size of image to warp |
 | [setLayerBlendingRangesData(LayerBlendingRangesData value)](#setLayerBlendingRangesData-com.aspose.psd.fileformats.psd.layers.LayerBlendingRangesData-) | Gets or sets the layer blending ranges data. |
 | [setLayerCreationDateTime(Date value)](#setLayerCreationDateTime-java.util.Date-) | Gets or sets the layer creation date time. |
 | [setLayerCreationDateTime_internalized(System.DateTime value)](#setLayerCreationDateTime-internalized-com.aspose.ms.System.DateTime-) |  |
@@ -1834,6 +1834,16 @@ Gets opacity of this image.
 
 **Returns:**
 float - The opacity value between 0.0 (fully transparent) and 1.0 (fully opaque).
+### getImageSizeBeforeChange_internalized() {#getImageSizeBeforeChange-internalized--}
+```
+public final Size getImageSizeBeforeChange_internalized()
+```
+
+
+It gets or sets last size of image to warp
+
+**Returns:**
+[Size](../../com.aspose.psd/size)
 ### getInnerDataTransformer_internalized() {#getInnerDataTransformer-internalized--}
 ```
 public final IInnerDataTransformer getInnerDataTransformer_internalized()
@@ -1856,16 +1866,6 @@ Gets the interrupt monitor.
 
 **Returns:**
 [InterruptMonitor](../../com.aspose.psd.multithreading/interruptmonitor) - the interrupt monitor.
-### getLastWarpImageSize_internalized() {#getLastWarpImageSize-internalized--}
-```
-public final Size getLastWarpImageSize_internalized()
-```
-
-
-It gets or sets last size of image to warp
-
-**Returns:**
-[Size](../../com.aspose.psd/size)
 ### getLayerBlendingRangesData() {#getLayerBlendingRangesData--}
 ```
 public final LayerBlendingRangesData getLayerBlendingRangesData()
@@ -4139,6 +4139,19 @@ Gets or sets a value indicating whether this instance of image has changed after
 | --- | --- | --- |
 | value | boolean |  true  if this instance has image changed; otherwise,  false . |
 
+### setImageSizeBeforeChange_internalized(Size value) {#setImageSizeBeforeChange-internalized-com.aspose.psd.Size-}
+```
+public final void setImageSizeBeforeChange_internalized(Size value)
+```
+
+
+It gets or sets last size of image to warp
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Size](../../com.aspose.psd/size) |  |
+
 ### setInnerDataTransformer_internalized(IInnerDataTransformer value) {#setInnerDataTransformer-internalized-com.aspose.internal.IInnerDataTransformer-}
 ```
 public final void setInnerDataTransformer_internalized(IInnerDataTransformer value)
@@ -4166,19 +4179,6 @@ Sets the interrupt monitor.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [InterruptMonitor](../../com.aspose.psd.multithreading/interruptmonitor) | the interrupt monitor. |
-
-### setLastWarpImageSize_internalized(Size value) {#setLastWarpImageSize-internalized-com.aspose.psd.Size-}
-```
-public final void setLastWarpImageSize_internalized(Size value)
-```
-
-
-It gets or sets last size of image to warp
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Size](../../com.aspose.psd/size) |  |
 
 ### setLayerBlendingRangesData(LayerBlendingRangesData value) {#setLayerBlendingRangesData-com.aspose.psd.fileformats.psd.layers.LayerBlendingRangesData-}
 ```

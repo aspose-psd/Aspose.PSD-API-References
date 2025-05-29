@@ -3,7 +3,7 @@ title: LclrResource
 second_title: Aspose.PSD for Java API Reference
 description: Class LclrResource.
 type: docs
-weight: 42
+weight: 44
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
 

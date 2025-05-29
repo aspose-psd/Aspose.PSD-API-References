@@ -20,6 +20,11 @@ Parameters of layer with warp
 | --- | --- |
 | [WarpSettings(OSTypeStructure[] warpItems, Rectangle bounds)](#WarpSettings-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---com.aspose.psd.Rectangle-) | Initializes a new instance of the [WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp/warpsettings) class. |
 | [WarpSettings(PlacedResource placedResource)](#WarpSettings-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-) | Initializes a new instance of the [WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp/warpsettings) class. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [DefaultProcessingArea_internalized](#DefaultProcessingArea-internalized) | The default value of ProcessingArea |
 ## Methods
 
 | Method | Description |
@@ -28,15 +33,18 @@ Parameters of layer with warp
 | [getBounds()](#getBounds--) | Gets or sets bounds of warp image |
 | [getClass()](#getClass--) |  |
 | [getMeshPoints()](#getMeshPoints--) | Photoshop mesh points |
+| [getProcessingArea()](#getProcessingArea--) | Gets or sets value of processing area size. |
 | [getRotate()](#getRotate--) | Gets or sets rotate value |
 | [getStyle()](#getStyle--) | Gets or sets style of warp |
 | [getValue()](#getValue--) | Gets or sets value of warp |
 | [hashCode()](#hashCode--) |  |
+| [isDefaultMeshPoints_internalized()](#isDefaultMeshPoints-internalized--) | Gets or sets user change in MeshPoints |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setBounds(Rectangle value)](#setBounds-com.aspose.psd.Rectangle-) | Gets or sets bounds of warp image |
 | [setMeshPoints(Point[] value)](#setMeshPoints-com.aspose.psd.Point---) | Photoshop mesh points |
 | [setMeshPoints_internalized(PlacedResource placedResource)](#setMeshPoints-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-) | It returns mesh point from resource vectors |
+| [setProcessingArea(int value)](#setProcessingArea-int-) | Gets or sets value of processing area size. |
 | [setRotate(int value)](#setRotate-int-) | Gets or sets rotate value |
 | [setStyle(int value)](#setStyle-int-) | Gets or sets style of warp |
 | [setValue(double value)](#setValue-double-) | Gets or sets value of warp |
@@ -72,6 +80,14 @@ Initializes a new instance of the [WarpSettings](../../com.aspose.psd.fileformat
 | Parameter | Type | Description |
 | --- | --- | --- |
 | placedResource | [PlacedResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources/placedresource) | The resource with warp settings |
+
+### DefaultProcessingArea_internalized {#DefaultProcessingArea-internalized}
+```
+public static final int DefaultProcessingArea_internalized
+```
+
+
+The default value of ProcessingArea
 
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
@@ -118,6 +134,16 @@ Photoshop mesh points
 
 **Returns:**
 com.aspose.psd.Point[]
+### getProcessingArea() {#getProcessingArea--}
+```
+public final int getProcessingArea()
+```
+
+
+Gets or sets value of processing area size. Default value is 10. Range is [2;40]
+
+**Returns:**
+int
 ### getRotate() {#getRotate--}
 ```
 public final int getRotate()
@@ -158,6 +184,16 @@ public native int hashCode()
 
 **Returns:**
 int
+### isDefaultMeshPoints_internalized() {#isDefaultMeshPoints-internalized--}
+```
+public final boolean isDefaultMeshPoints_internalized()
+```
+
+
+Gets or sets user change in MeshPoints
+
+**Returns:**
+boolean
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -215,6 +251,19 @@ It returns mesh point from resource vectors
 
 **Returns:**
 [PlacedResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources/placedresource) - The PlacedResource with set mesh points
+### setProcessingArea(int value) {#setProcessingArea-int-}
+```
+public final void setProcessingArea(int value)
+```
+
+
+Gets or sets value of processing area size. Default value is 10. Range is [2;40]
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
 ### setRotate(int value) {#setRotate-int-}
 ```
 public final void setRotate(int value)

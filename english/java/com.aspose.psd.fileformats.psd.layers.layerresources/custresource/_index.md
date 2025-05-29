@@ -3,7 +3,7 @@ title: CustResource
 second_title: Aspose.PSD for Java API Reference
 description: Class CustResource.
 type: docs
-weight: 25
+weight: 26
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
 
