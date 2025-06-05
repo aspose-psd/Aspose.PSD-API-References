@@ -25,6 +25,7 @@ public class PsdLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
+| [AllowNonChangedLayerRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allownonchangedlayerrepaint/) { get; set; } | Gets or sets whether to preserve original layer pixels during rendering if the layer has not been modified. |
 | [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | Gets or sets whether to save with the rendered image, with or without a warp transform. |
 | [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Gets or sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Gets or sets the [`Image`](../../aspose.psd/image/) background [`Color`](../../aspose.psd/color/). |

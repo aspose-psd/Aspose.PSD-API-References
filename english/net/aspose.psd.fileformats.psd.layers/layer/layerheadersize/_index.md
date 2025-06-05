@@ -3,7 +3,7 @@ title: Layer.LayerHeaderSize
 second_title: Aspose.PSD for .NET API Reference
 description: Layer field. The layer header size
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.psd.fileformats.psd.layers/layer/layerheadersize/
 ---
 {{< psd/tize >}}
