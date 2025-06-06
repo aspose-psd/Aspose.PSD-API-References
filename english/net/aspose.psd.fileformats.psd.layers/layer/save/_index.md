@@ -3,7 +3,7 @@ title: Layer.Save
 second_title: Aspose.PSD for .NET API Reference
 description: Layer method. Saves the objects data to the specified stream
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.psd.fileformats.psd.layers/layer/save/
 ---
 {{< psd/tize >}}
