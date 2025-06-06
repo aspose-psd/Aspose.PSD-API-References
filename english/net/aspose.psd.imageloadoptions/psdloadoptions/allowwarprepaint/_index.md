@@ -3,7 +3,7 @@ title: PsdLoadOptions.AllowWarpRepaint
 second_title: Aspose.PSD for .NET API Reference
 description: PsdLoadOptions property. Gets or sets whether to save with the rendered image with or without a warp transform
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PsdLoadOptions.UseDiskForLoadEffectsResource
 second_title: Aspose.PSD for .NET API Reference
 description: PsdLoadOptions property. Gets or sets a value indicating whether use disk for load effects resource by default used disk to load effects resource but can be used memory if it is enought by setting this value to false
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PsdLoadOptions.IgnoreAlphaChannel
 second_title: Aspose.PSD for .NET API Reference
 description: PsdLoadOptions property. Gets or sets a value indicating whether ignore alpha channel
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: PsdLoadOptions.ReadOnlyMode
 second_title: Aspose.PSD for .NET API Reference
 description: PsdLoadOptions property. Gets or sets a value indicating whether use read only mode. This is readonly mode supported for identical compatibility with Adobe Photoshop. When this option is set all changes applied for layers will not be saved to final image. All data is used from ImageData section so it is identical to Photoshop. By default all loaded images are not identical to Adobe Photoshop compatible
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/
 ---
 {{< psd/tize >}}
