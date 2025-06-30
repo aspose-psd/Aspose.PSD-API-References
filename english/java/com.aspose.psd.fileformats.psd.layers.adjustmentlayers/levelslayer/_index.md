@@ -36,6 +36,7 @@ Levels Adjustment Layer
 | [adjustContrast(float contrast)](#adjustContrast-float-) | Image contrasting |
 | [adjustGamma(float gamma)](#adjustGamma-float-) | Gamma-correction of an image. |
 | [adjustGamma(float gammaRed, float gammaGreen, float gammaBlue)](#adjustGamma-float-float-float-) | Gamma-correction of an image. |
+| [applyLayerMask()](#applyLayerMask--) | Applies the layer mask to layer, then deletes the mask. |
 | [applyLayerState_internalized(LayerState layerState)](#applyLayerState-internalized-com.aspose.psd.fileformats.psd.layers.animation.LayerState-) | Applies the layer style setting from input [LayerState](../../com.aspose.psd.fileformats.psd.layers.animation/layerstate) to current [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) instance. |
 | [beginResize_internalized(int newWidth, int newHeight)](#beginResize-internalized-int-int-) | Begins the resize process. |
 | [binarizeBradley(double brightnessDifference)](#binarizeBradley-double-) | Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding |
@@ -483,6 +484,14 @@ Gamma-correction of an image.
 | gammaRed | float | Gamma for red channel coefficient |
 | gammaGreen | float | Gamma for green channel coefficient |
 | gammaBlue | float | Gamma for blue channel coefficient |
+
+### applyLayerMask() {#applyLayerMask--}
+```
+public final void applyLayerMask()
+```
+
+
+Applies the layer mask to layer, then deletes the mask.
 
 ### applyLayerState_internalized(LayerState layerState) {#applyLayerState-internalized-com.aspose.psd.fileformats.psd.layers.animation.LayerState-}
 ```
