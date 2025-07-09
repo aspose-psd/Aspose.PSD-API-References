@@ -3,7 +3,7 @@ title: Class LayerGroup
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerGroup class. Group layer class
 type: docs
-weight: 2370
+weight: 2400
 url: /net/aspose.psd.fileformats.psd.layers/layergroup/
 ---
 {{< psd/tize >}}

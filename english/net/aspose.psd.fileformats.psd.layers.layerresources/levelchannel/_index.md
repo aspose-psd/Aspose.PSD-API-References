@@ -3,7 +3,7 @@ title: Class LevelChannel
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel class. Class for working with channels in Levels Adjustment Layer
 type: docs
-weight: 2870
+weight: 2900
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
 {{< psd/tize >}}

@@ -12,7 +12,6 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/al
 Gets or sets a value indicating whether [align with layer].
 
 ```csharp
-[Obsolete("This property is obsolete. It is moved to BaseGradientFillSettings class. Property will be removed in 23.11 release.")]
 public bool AlignWithLayer { get; set; }
 ```
 

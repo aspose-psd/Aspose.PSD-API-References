@@ -3,7 +3,7 @@ title: BlendingOptions.AddInnerShadow
 second_title: Aspose.PSD for .NET API Reference
 description: BlendingOptions method. Adds the inner shadow effect
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/
 ---
 {{< psd/tize >}}

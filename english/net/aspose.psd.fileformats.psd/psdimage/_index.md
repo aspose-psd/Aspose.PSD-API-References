@@ -3,7 +3,7 @@ title: Class PsdImage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.PsdImage class. Defines the PsdImage class that provides the ability to load edit save PSD files as well as update properties add watermarks perform graphics operations or convert one file format to another. Aspose.PSD supports import as a layer and export to the following formats Png Jpeg Jpeg2000 Gif Bmp Tiff Psd Psb along with export to Pdf with selectable text
 type: docs
-weight: 3960
+weight: 3980
 url: /net/aspose.psd.fileformats.psd/psdimage/
 ---
 {{< psd/tize >}}

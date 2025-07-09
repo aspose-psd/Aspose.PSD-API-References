@@ -3,7 +3,7 @@ title: Class MedianFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions class. Median filter
 type: docs
-weight: 5100
+weight: 5120
 url: /net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
 {{< psd/tize >}}

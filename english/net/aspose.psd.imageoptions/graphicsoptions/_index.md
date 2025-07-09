@@ -3,7 +3,7 @@ title: Class GraphicsOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.GraphicsOptions class. Represents graphics options for embedded bitmap
 type: docs
-weight: 5210
+weight: 5230
 url: /net/aspose.psd.imageoptions/graphicsoptions/
 ---
 {{< psd/tize >}}

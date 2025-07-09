@@ -3,7 +3,7 @@ title: Class XmpPacketWrapper
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpPacketWrapper class. Contains serialized xmp package including header and trailer
 type: docs
-weight: 6690
+weight: 6710
 url: /net/aspose.psd.xmp/xmppacketwrapper/
 ---
 {{< psd/tize >}}

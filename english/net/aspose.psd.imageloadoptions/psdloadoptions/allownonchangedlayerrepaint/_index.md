@@ -19,6 +19,28 @@ public bool AllowNonChangedLayerRepaint { get; set; }
 
 `true` to keep the original pixels of unchanged layers; otherwise, `false`.
 
+## Examples
+
+The following code demonstrates the new behaviour that prevent auto repaint of layers before changes.
+
+```csharp
+[C#]
+
+string srcFile = "psdnet2400.psd";
+string output1 = "unchanged-2400.png";
+string output2 = "updated-2400.png";
+
+using (var psdImage = (PsdImage)Image.Load(srcFile,
+new PsdLoadOptions() { AllowNonChangedLayerRepaint = false /* The new default behaviour */ }))
+{
+    psdImage.Save(output1, new PngOptions());
+
+    ((TextLayer)psdImage.Layers[1]).TextData.UpdateLayerData();
+
+    psdImage.Save(output2, new PngOptions());
+}
+```
+
 ### See Also
 
 * class [PsdLoadOptions](../)

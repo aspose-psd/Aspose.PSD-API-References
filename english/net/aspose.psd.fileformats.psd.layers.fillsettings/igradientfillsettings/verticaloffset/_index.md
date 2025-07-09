@@ -3,7 +3,7 @@ title: IGradientFillSettings.VerticalOffset
 second_title: Aspose.PSD for .NET API Reference
 description: IGradientFillSettings property. Gets or sets the vertical offset
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/verticaloffset/
 ---
 {{< psd/tize >}}

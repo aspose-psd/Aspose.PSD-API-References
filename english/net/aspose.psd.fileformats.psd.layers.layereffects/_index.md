@@ -31,6 +31,7 @@ The namespace contains Layer Effects wrappers
 
 | Enumeration | Description |
 | --- | --- |
+| [LayerEffectsTypes](./layereffectstypes/) | Layer blending effects. |
 | [StrokePosition](./strokeposition/) | The position setting controls the alignment of your stroke to the layer it's applied to in the [`StrokeEffect`](../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/). |
 
 

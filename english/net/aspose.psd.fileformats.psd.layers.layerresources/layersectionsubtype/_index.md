@@ -3,7 +3,7 @@ title: Enum LayerSectionSubtype
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype enum. The section subtype
 type: docs
-weight: 2840
+weight: 2870
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
 {{< psd/tize >}}

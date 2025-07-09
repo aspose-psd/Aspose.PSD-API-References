@@ -3,7 +3,7 @@ title: Class StrokeEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect class. The Adobe Photoshop stroke effect for the PSD layer
 type: docs
-weight: 2340
+weight: 2370
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
 {{< psd/tize >}}
@@ -27,6 +27,12 @@ public class StrokeEffect : ILayerEffect
 | [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | Gets or sets a value indicating whether this `StrokeEffect` will blend stroke against current layer contents. |
 | [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | Gets or sets the position of the stroke effect to control the alignment of your stroke to the PSD layer content. The value can be Inside to draw stroke inside of the PSD layer content, or Outside to draw stroke around of PSD layer content, and Center to draw stroke both inside and outside. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | Gets or sets the width of stroke effect. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/geteffectbounds/)(Rectangle, int) | Calculate and gets the bounds of effect pixels based on input layer pixels bounds. |
 
 ## Examples
 

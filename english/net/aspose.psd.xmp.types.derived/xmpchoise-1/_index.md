@@ -3,7 +3,7 @@ title: Class XmpChoiseT
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Derived.XmpChoise1T class. Represents a value from vocabulary of values
 type: docs
-weight: 6550
+weight: 6570
 url: /net/aspose.psd.xmp.types.derived/xmpchoise-1/
 ---
 {{< psd/tize >}}

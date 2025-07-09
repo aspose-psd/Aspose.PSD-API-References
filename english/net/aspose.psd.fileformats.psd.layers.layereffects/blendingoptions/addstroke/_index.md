@@ -3,7 +3,7 @@ title: BlendingOptions.AddStroke
 second_title: Aspose.PSD for .NET API Reference
 description: BlendingOptions method. Adds the stroke effect
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/
 ---
 {{< psd/tize >}}

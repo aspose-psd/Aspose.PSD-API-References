@@ -41,7 +41,7 @@ public class GradientMapLayer : AdjustmentLayer
 | [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | Gets or sets the layer filler. |
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | Gets or sets the fill opacity. |
 | [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | Gets or sets the layer flags. bit 0 = transparency protected; bit 1 = visible; bit 2 = obsolete; bit 3 = 1 for Photoshop 5.0 and later, tells if bit 4 has useful information; bit 4 = pixel data irrelevant to appearance of document. |
-| [GradientSettings](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/gradientmaplayer/gradientsettings/) { get; set; } | Gradient settings instance passed from GrdmResource instance. |
+| [GradientSettings](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/gradientmaplayer/gradientsettings/) { get; set; } | Gets or sets Gradient settings instance passed from GrdmResource instance. |
 | override [HasAlpha](../../aspose.psd.fileformats.psd.layers/layer/hasalpha/) { get; } | Gets a value indicating whether this instance has alpha. |
 | virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | Gets or sets a value indicating whether image has background color. |
 | virtual [HasTransparentColor](../../aspose.psd/rasterimage/hastransparentcolor/) { get; set; } | Gets a value indicating whether image has transparent color. |

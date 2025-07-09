@@ -3,7 +3,7 @@ title: Class FillLayerResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FillLayerResource class. Base class for fill layer resources
 type: docs
-weight: 2670
+weight: 2700
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/
 ---
 {{< psd/tize >}}

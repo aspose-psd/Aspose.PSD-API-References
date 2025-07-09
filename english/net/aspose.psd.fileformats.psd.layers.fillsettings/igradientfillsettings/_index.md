@@ -22,8 +22,7 @@ public interface IGradientFillSettings : IFillSettings
 | [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/alignwithlayer/) { get; set; } | Gets or sets a value indicating whether [align with layer]. |
 | [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/angle/) { get; set; } | Gets or sets the angle. |
 | [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this `IGradientFillSettings` is dither. |
-| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientmode/) { get; } | Gets gradient mode. Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/) { get; set; } | Gets or sets the name of the gradient. |
+| [Gradient](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradient/) { get; set; } | Gets or sets specific gradient definition instance (Solid/Noise). |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset. |
 | [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse/) { get; set; } | Gets or sets a value indicating whether this `IGradientFillSettings` is reverse. |

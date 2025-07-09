@@ -3,7 +3,7 @@ title: BlendingOptions.AddPatternOverlay
 second_title: Aspose.PSD for .NET API Reference
 description: BlendingOptions method. Adds the Pattern overlay
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
 {{< psd/tize >}}

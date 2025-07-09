@@ -3,7 +3,7 @@ title: Class JpegOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.JpegOptions class. The jpeg file format create options
 type: docs
-weight: 5230
+weight: 5250
 url: /net/aspose.psd.imageoptions/jpegoptions/
 ---
 {{< psd/tize >}}
