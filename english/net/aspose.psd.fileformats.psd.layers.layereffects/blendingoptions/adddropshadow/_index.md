@@ -3,7 +3,7 @@ title: BlendingOptions.AddDropShadow
 second_title: Aspose.PSD for .NET API Reference
 description: BlendingOptions method. Adds the drop shadow effect
 type: docs
-weight: 30
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Interface ILayerEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ILayerEffect interface. Interface for Layer Effects
 type: docs
-weight: 2290
+weight: 2310
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/
 ---
 {{< psd/tize >}}
@@ -23,6 +23,12 @@ public interface ILayerEffect
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/effecttype/) { get; } | Gets a type of effect |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible/) { get; set; } | Gets or sets a value indicating whether this instance is visible. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/) { get; set; } | Gets or sets the opacity where 255 = 100% |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/geteffectbounds/)(Rectangle, int) | Calculate and gets the bounds of effect pixels based on input layer pixels bounds. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class OuterGlowEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect class. Outer Glow Layer effect
 type: docs
-weight: 2320
+weight: 2350
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 ---
 {{< psd/tize >}}
@@ -32,6 +32,12 @@ public class OuterGlowEffect : ILayerEffect
 | [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/) { get; set; } | Gets or sets the noise. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; set; } | Gets the blur value in pixels. |
 | [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/) { get; set; } | Gets or sets the intensity as a percent. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/geteffectbounds/)(Rectangle, int) | Calculate and gets the bounds of effect pixels based on input layer pixels bounds. |
 
 ## Examples
 

@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/s
 Gets or sets the settings.
 
 ```csharp
-public BaseGradientFillSettings Settings { get; set; }
+public GradientFillSettings Settings { get; set; }
 ```
 
 ### Property Value
@@ -21,7 +21,7 @@ The settings.
 
 ### See Also
 
-* class [BaseGradientFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/)
+* class [GradientFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/)
 * class [GradientOverlayEffect](../)
 * namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
 * assembly [Aspose.PSD](../../../)

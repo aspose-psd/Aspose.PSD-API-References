@@ -3,7 +3,7 @@ title: Enum TiffDataTypes
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffDataTypes enum. The tiff data type enum
 type: docs
-weight: 4440
+weight: 4460
 url: /net/aspose.psd.fileformats.tiff.enums/tiffdatatypes/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class Lr32Resource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource class. The lr32 resource
 type: docs
-weight: 3030
+weight: 3050
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/
 ---
 {{< psd/tize >}}

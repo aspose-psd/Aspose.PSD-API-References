@@ -3,7 +3,7 @@ title: Enum FillType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType enum. The Fill Type
 type: docs
-weight: 2050
+weight: 2040
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
 {{< psd/tize >}}

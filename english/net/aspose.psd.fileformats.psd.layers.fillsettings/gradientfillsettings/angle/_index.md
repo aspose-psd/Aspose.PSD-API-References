@@ -12,7 +12,6 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/an
 Gets or sets the angle.
 
 ```csharp
-[Obsolete("This property is obsolete. It is moved to BaseGradientFillSettings class. Property will be removed in 23.11 release.")]
 public double Angle { get; set; }
 ```
 

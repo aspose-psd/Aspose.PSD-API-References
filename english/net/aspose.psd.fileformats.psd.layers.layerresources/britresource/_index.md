@@ -3,7 +3,7 @@ title: Class BritResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BritResource class. Class BritResource. Resource of Brightness/Contrast Adjustment Layer
 type: docs
-weight: 2540
+weight: 2570
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 ---
 {{< psd/tize >}}

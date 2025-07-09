@@ -3,7 +3,7 @@ title: Class TextLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.TextLayer class. The text layer class
 type: docs
-weight: 3900
+weight: 3920
 url: /net/aspose.psd.fileformats.psd.layers/textlayer/
 ---
 {{< psd/tize >}}

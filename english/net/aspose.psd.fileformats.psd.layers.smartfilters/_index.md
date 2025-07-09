@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains PSD file format entities contained in layers
 type: docs
-weight: 340
+weight: 330
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/
 ---
 {{< psd/tize >}}

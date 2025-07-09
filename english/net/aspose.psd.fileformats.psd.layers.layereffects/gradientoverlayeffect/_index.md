@@ -3,7 +3,7 @@ title: Class GradientOverlayEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect class. Gradient Layer effect
 type: docs
-weight: 2280
+weight: 2300
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
 {{< psd/tize >}}
@@ -24,6 +24,12 @@ public class GradientOverlayEffect : ILayerEffect
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/) { get; set; } | Gets or sets a value indicating whether this instance is visible. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/) { get; set; } | Gets or sets the opacity. |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/) { get; set; } | Gets or sets the settings. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/geteffectbounds/)(Rectangle, int) | Calculate and gets the bounds of effect pixels based on input layer pixels bounds. |
 
 ## Examples
 

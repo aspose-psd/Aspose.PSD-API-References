@@ -3,7 +3,7 @@ title: Enum SmartObjectType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects.SmartObjectType enum. Defines the SmartObjectType enumeration for smart object content type
 type: docs
-weight: 3840
+weight: 3860
 url: /net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjecttype/
 ---
 {{< psd/tize >}}

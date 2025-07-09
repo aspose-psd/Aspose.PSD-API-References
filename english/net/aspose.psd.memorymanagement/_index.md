@@ -3,7 +3,7 @@ title: Aspose.PSD.MemoryManagement
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains memory management routines
 type: docs
-weight: 500
+weight: 490
 url: /net/aspose.psd.memorymanagement/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: BlendingOptions.AddOuterGlow
 second_title: Aspose.PSD for .NET API Reference
 description: BlendingOptions method. Adds the outer glow effect
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class DropShadowEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect class. Drop Shadow Layer effect
 type: docs
-weight: 2270
+weight: 2290
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
 {{< psd/tize >}}
@@ -31,6 +31,12 @@ public class DropShadowEffect : IShadowEffect
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | Gets or sets the blur value in pixels. |
 | [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | Gets or sets the intensity as a percent. |
 | [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Gets or sets a value indicating whether [use this angle in all of the layer effects]. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/geteffectbounds/)(Rectangle, int) | Calculate and gets the bounds of effect pixels based on input layer pixels bounds. |
 
 ## Examples
 

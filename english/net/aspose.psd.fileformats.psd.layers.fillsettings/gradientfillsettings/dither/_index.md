@@ -1,18 +1,17 @@
 ---
 title: GradientFillSettings.Dither
 second_title: Aspose.PSD for .NET API Reference
-description: GradientFillSettings property. Gets or sets a value indicating whether this BaseGradientFillSettings is dither
+description: GradientFillSettings property. Gets or sets a value indicating whether this GradientFillSettings is dither
 type: docs
-weight: 60
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
 {{< psd/tize >}}
 ## GradientFillSettings.Dither property
 
-Gets or sets a value indicating whether this [`BaseGradientFillSettings`](../../basegradientfillsettings/) is dither.
+Gets or sets a value indicating whether this [`GradientFillSettings`](../) is dither.
 
 ```csharp
-[Obsolete("This property is obsolete. It is moved to BaseGradientFillSettings class. Property will be removed in 23.11 release.")]
 public bool Dither { get; set; }
 ```
 

@@ -3,7 +3,7 @@ title: Class InnerShadowEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect class. Inner Shadow Layer effect
 type: docs
-weight: 2310
+weight: 2330
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
 {{< psd/tize >}}
@@ -30,6 +30,12 @@ public class InnerShadowEffect : IShadowEffect
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | Gets or sets the blur value in pixels. |
 | [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Gets or sets the spread (choke) as percentage. |
 | [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Gets or sets a value indicating whether [use this angle in all of the layer effects]. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | Calculate and gets the bounds of effect pixels based on input layer pixels bounds. |
 
 ## Examples
 

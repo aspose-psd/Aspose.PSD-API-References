@@ -3,7 +3,7 @@ title: BlendingOptions.AddGradientOverlay
 second_title: Aspose.PSD for .NET API Reference
 description: BlendingOptions method. Adds the Gradient overlay
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
 {{< psd/tize >}}

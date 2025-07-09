@@ -3,7 +3,7 @@ title: Interface IKeyedObject
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IKeyedObject interface. Represents interface for objects with keys
 type: docs
-weight: 4860
+weight: 4880
 url: /net/aspose.psd/ikeyedobject/
 ---
 {{< psd/tize >}}

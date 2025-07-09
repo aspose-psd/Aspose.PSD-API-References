@@ -3,7 +3,7 @@ title: Class SectionDividerLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SectionDividerLayer class. The section divider layer to mark the bounds of the folder layer group
 type: docs
-weight: 3730
+weight: 3750
 url: /net/aspose.psd.fileformats.psd.layers/sectiondividerlayer/
 ---
 {{< psd/tize >}}

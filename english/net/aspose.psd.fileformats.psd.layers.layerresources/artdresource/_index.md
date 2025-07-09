@@ -3,7 +3,7 @@ title: Class ArtDResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ArtDResource class. The Artboard info data for GlobalLayerResources
 type: docs
-weight: 2480
+weight: 2510
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/artdresource/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Interface IAdvancedBufferProcessor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IAdvancedBufferProcessor interface. The advanced buffer processor
 type: docs
-weight: 4740
+weight: 4760
 url: /net/aspose.psd/iadvancedbufferprocessor/
 ---
 {{< psd/tize >}}

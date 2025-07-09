@@ -3,7 +3,7 @@ title: Interface IGradientColorPoint
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint interface. Base interface for fill settings
 type: docs
-weight: 2200
+weight: 2220
 url: /net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
 {{< psd/tize >}}
