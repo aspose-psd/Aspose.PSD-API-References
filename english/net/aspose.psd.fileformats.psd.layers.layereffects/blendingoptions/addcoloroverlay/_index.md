@@ -3,7 +3,7 @@ title: BlendingOptions.AddColorOverlay
 second_title: Aspose.PSD for .NET API Reference
 description: BlendingOptions method. Adds the color overlay
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/
 ---
 {{< psd/tize >}}

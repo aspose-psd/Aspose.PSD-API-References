@@ -3,7 +3,7 @@ title: Class PhflResourceVersion3
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PhflResourceVersion3 class. Class PhflResource. Resource of Exposure Adjustment Layer 2 Version   3  or   2  12 4 bytes each for XYZ colorOnly in Version 3 10 2 bytes color space followed by 4  2 bytes color componentOnly in Version 2 4 Density 1 Preserve Luminosity
 type: docs
-weight: 3190
+weight: 3210
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/
 ---
 {{< psd/tize >}}

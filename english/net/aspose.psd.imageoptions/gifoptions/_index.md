@@ -3,7 +3,7 @@ title: Class GifOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.GifOptions class. The gif file format creation options
 type: docs
-weight: 5200
+weight: 5220
 url: /net/aspose.psd.imageoptions/gifoptions/
 ---
 {{< psd/tize >}}

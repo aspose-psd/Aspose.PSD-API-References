@@ -3,7 +3,7 @@ title: Class BooleanResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BooleanResource class. Class BooleanResource. Its pseudo resource. Photoshop havent it
 type: docs
-weight: 2530
+weight: 2560
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/
 ---
 {{< psd/tize >}}

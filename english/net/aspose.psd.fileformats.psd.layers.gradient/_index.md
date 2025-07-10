@@ -9,6 +9,13 @@ url: /net/aspose.psd.fileformats.psd.layers.gradient/
 {{< psd/tize >}}
 The namespace handles Psd file format processing.
 
+## Classes
+
+| Class | Description |
+| --- | --- |
+| [BaseGradient](./basegradient/) | Base gradient definition class. It contains common properties for both types of gradient (Solid and Noise). |
+| [NoiseGradient](./noisegradient/) | Noise gradient definition class. |
+| [SolidGradient](./solidgradient/) | Gradient fill effect settings. |
 ## Enumeration
 
 | Enumeration | Description |

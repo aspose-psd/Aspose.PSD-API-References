@@ -1,7 +1,7 @@
 ---
 title: GradientMapLayer.GradientSettings
 second_title: Aspose.PSD for .NET API Reference
-description: GradientMapLayer property. Gradient settings instance passed from GrdmResource instance
+description: GradientMapLayer property. Gets or sets Gradient settings instance passed from GrdmResource instance
 type: docs
 weight: 10
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/gradientmaplayer/gradientsettings/
@@ -9,10 +9,10 @@ url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/gradientmaplayer/gr
 {{< psd/tize >}}
 ## GradientMapLayer.GradientSettings property
 
-Gradient settings instance passed from GrdmResource instance.
+Gets or sets Gradient settings instance passed from GrdmResource instance.
 
 ```csharp
-public BaseGradientFillSettings GradientSettings { get; set; }
+public GradientMapSettings GradientSettings { get; set; }
 ```
 
 ## Examples
@@ -64,7 +64,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### See Also
 
-* class [BaseGradientFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/)
+* class [GradientMapSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings/)
 * class [GradientMapLayer](../)
 * namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
 * assembly [Aspose.PSD](../../../)

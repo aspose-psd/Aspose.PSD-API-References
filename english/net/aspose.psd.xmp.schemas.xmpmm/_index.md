@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp.Schemas.XmpMm
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains related helper classes constants and methods that is primarily used by digital asset management DAM systems
 type: docs
-weight: 630
+weight: 620
 url: /net/aspose.psd.xmp.schemas.xmpmm/
 ---
 {{< psd/tize >}}

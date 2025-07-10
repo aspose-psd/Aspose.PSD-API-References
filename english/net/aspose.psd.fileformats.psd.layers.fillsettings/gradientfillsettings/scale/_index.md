@@ -3,7 +3,7 @@ title: GradientFillSettings.Scale
 second_title: Aspose.PSD for .NET API Reference
 description: GradientFillSettings property. Gets or sets the scale
 type: docs
-weight: 130
+weight: 100
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
 {{< psd/tize >}}
@@ -12,7 +12,6 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/sc
 Gets or sets the scale.
 
 ```csharp
-[Obsolete("This property is obsolete. It is moved to BaseGradientFillSettings class. Property will be removed in 23.11 release.")]
 public int Scale { get; set; }
 ```
 

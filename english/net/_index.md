@@ -45,7 +45,6 @@ Please check the Aspose [PSD Tutorial](https://products.aspose.com/psd/tutorial/
 | [Aspose.PSD.FileFormats.Psd.Layers.Gradient](./aspose.psd.fileformats.psd.layers.gradient/) | The namespace handles Psd file format processing. |
 | [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](./aspose.psd.fileformats.psd.layers.layereffects/) | The namespace contains Layer Effects wrappers |
 | [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](./aspose.psd.fileformats.psd.layers.layerresources/) | The namespace contains PSD file format entities contained in layers. |
-| [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](./aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/) | The namespace contains [`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/) linked classes |
 | [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](./aspose.psd.fileformats.psd.layers.layerresources.strokeresources/) | The namespace contains PSD file format type tool resource entities. |
 | [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](./aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/) | The namespace contains PSD file format type tool resource entities. |
 | [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](./aspose.psd.fileformats.psd.layers.smartfilters/) | The namespace contains PSD file format entities contained in layers. |

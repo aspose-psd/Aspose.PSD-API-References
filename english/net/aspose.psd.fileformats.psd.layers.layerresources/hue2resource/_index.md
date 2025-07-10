@@ -3,7 +3,7 @@ title: Class Hue2Resource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Hue2Resource class. Class Hue2Resource. Resource of Exposure Adjustment Layer
 type: docs
-weight: 2720
+weight: 2750
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 ---
 {{< psd/tize >}}

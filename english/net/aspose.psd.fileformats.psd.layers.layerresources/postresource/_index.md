@@ -3,7 +3,7 @@ title: Class PostResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource class. Class PostResource. Posterize layer settings
 type: docs
-weight: 3230
+weight: 3250
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/postresource/
 ---
 {{< psd/tize >}}

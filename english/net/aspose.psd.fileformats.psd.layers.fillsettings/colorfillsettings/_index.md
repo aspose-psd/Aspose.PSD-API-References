@@ -3,7 +3,7 @@ title: Class ColorFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings class. Color fill effect settings
 type: docs
-weight: 2040
+weight: 2030
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains PSD file format type tool resource entities
 type: docs
-weight: 330
+weight: 320
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Aspose.PSD.Xmp
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains XMP related helper classes and methods
 type: docs
-weight: 570
+weight: 560
 url: /net/aspose.psd.xmp/
 ---
 {{< psd/tize >}}

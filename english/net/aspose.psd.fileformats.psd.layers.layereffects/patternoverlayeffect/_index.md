@@ -3,7 +3,7 @@ title: Class PatternOverlayEffect
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect class. Pattern Layer effect
 type: docs
-weight: 2330
+weight: 2360
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
 {{< psd/tize >}}
@@ -24,6 +24,12 @@ public class PatternOverlayEffect : ILayerEffect
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Gets or sets a value indicating whether this instance is visible. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Gets or sets the opacity. |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Gets or sets the settings. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | Calculate and gets the bounds of effect pixels based on input layer pixels bounds. |
 
 ## Examples
 

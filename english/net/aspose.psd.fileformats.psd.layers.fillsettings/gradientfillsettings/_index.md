@@ -1,18 +1,18 @@
 ---
 title: Class GradientFillSettings
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings class. Gradient fill effect settings
+description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings class. Base gradient definition class. It contains common properties for both types of gradient Solid and Noise
 type: docs
-weight: 2070
+weight: 2060
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
 {{< psd/tize >}}
 ## GradientFillSettings class
 
-Gradient fill effect settings.
+Base gradient definition class. It contains common properties for both types of gradient (Solid and Noise).
 
 ```csharp
-public class GradientFillSettings : BaseGradientFillSettings
+public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 ```
 
 ## Constructors
@@ -25,31 +25,16 @@ public class GradientFillSettings : BaseGradientFillSettings
 
 | Name | Description |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/alignwithlayer/) { get; set; } | Gets or sets a value indicating whether [align with layer]. |
-| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/angle/) { get; set; } | Gets or sets the angle. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/) { get; set; } | Gets or sets the color. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints/) { get; set; } | Gets or sets the color points. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this [`BaseGradientFillSettings`](../basegradientfillsettings/) is dither. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/filltype/) { get; } | The fill type. |
-| [GradientMode](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientmode/) { get; } | Gets the mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradientname/) { get; set; } | Gets or sets the name of the gradient. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset in percentage. |
-| [Interpolation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/interpolation/) { get; set; } | Gets ot sets Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid'. Value range: 0-4096. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/reverse/) { get; set; } | Gets or sets a value indicating whether this [`BaseGradientFillSettings`](../basegradientfillsettings/) is reverse. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/scale/) { get; set; } | Gets or sets the scale. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints/) { get; set; } | Gets or sets the transparency points. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings/verticaloffset/) { get; set; } | Gets or sets the vertical offset in percentage. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/)() | Adds the color point. |
-| [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/)() | Adds the color point. |
-| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/)(IGradientColorPoint) | Removes the color point. |
-| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/)(IGradientTransparencyPoint) | Removes the transparency point. |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/)() | Generates the LFX2 resource nodes. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/) { get; set; } | Gets or sets a value indicating whether [align with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/) { get; set; } | Gets or sets the angle. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | Gets or sets a value indicating whether this `GradientFillSettings` is dither. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | The fill type. |
+| [Gradient](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradient/) { get; set; } | Gets or sets specific gradient definition instance (Solid/Noise). |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset in percentage. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | Gets or sets a value indicating whether this `GradientFillSettings` is reverse. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | Gets or sets the scale. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | Gets or sets the vertical offset in percentage. |
 
 ## Examples
 
@@ -208,7 +193,8 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 ### See Also
 
-* class [BaseGradientFillSettings](../basegradientfillsettings/)
+* class [BaseFillSettings](../basefillsettings/)
+* interface [IGradientFillSettings](../igradientfillsettings/)
 * namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
 * assembly [Aspose.PSD](../../)
 

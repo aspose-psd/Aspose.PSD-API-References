@@ -3,7 +3,7 @@ title: Class RenderResult
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.RenderResult class. Represents information with results of rendering
 type: docs
-weight: 5320
+weight: 5340
 url: /net/aspose.psd.imageoptions/renderresult/
 ---
 {{< psd/tize >}}

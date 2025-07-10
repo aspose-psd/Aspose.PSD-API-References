@@ -3,7 +3,7 @@ title: Class Lfx2Resource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resource class. Lfx2 resource regular effects resource
 type: docs
-weight: 2890
+weight: 2920
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
 {{< psd/tize >}}
@@ -29,7 +29,7 @@ public sealed class Lfx2Resource : BaseFxResource
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/basefxresource/length/) { get; } | Gets the layer resource length in bytes. |
 | [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/basefxresource/signature/) { get; } | Gets the layer resource signature. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods
 

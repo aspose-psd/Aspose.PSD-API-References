@@ -3,7 +3,7 @@ title: BlendingOptions.Effects
 second_title: Aspose.PSD for .NET API Reference
 description: BlendingOptions property. Gets the effects
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/
 ---
 {{< psd/tize >}}

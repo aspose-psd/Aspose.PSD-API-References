@@ -3,7 +3,7 @@ title: Aspose.PSD.ShapeSegments
 second_title: Aspose.PSD for .NET API Reference
 description: The namespace contains different shape segments which combine shapes
 type: docs
-weight: 550
+weight: 540
 url: /net/aspose.psd.shapesegments/
 ---
 {{< psd/tize >}}
