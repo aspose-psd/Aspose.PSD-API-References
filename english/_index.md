@@ -23,7 +23,7 @@ Currently Aspose.PSD for .NET supports PSD and PSB file formats for loading and 
 
 These are links to some useful resources:
 - [Aspose.PSD for .NET API Reference](/psd/net/)
-
+- [Aspose.PSD for .NET API Tutorials](https://tutorials.aspose.com/psd/net/)
 
 ## Aspose.PSD for Java
 
@@ -40,7 +40,7 @@ Currently Aspose.PSD for Java supports PSD and PSB file formats for loading and 
 
 These are links to some useful resources:
 - [Aspose.PSD for Java API Reference](/psd/java/)
-
+- [Aspose.PSD for Java API Tutorials](https://tutorials.aspose.com/psd/java/)
 ## Aspose.PSD for Python via .NET
 
 {{% alert color="primary" %}} 
