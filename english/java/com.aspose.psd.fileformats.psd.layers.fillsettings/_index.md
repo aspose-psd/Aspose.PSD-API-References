@@ -13,14 +13,14 @@ url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/
 | Class | Description |
 | --- | --- |
 | [BaseFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings) | Base fill effect settings |
-| [BaseGradientFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) | Base gradient definition class. |
 | [ColorFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings) | Color fill effect settings |
 | [FillType](../com.aspose.psd.fileformats.psd.layers.fillsettings/filltype) | The Fill Type |
 | [GradientColorPoint](../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint) | The Gradient Color Point. |
 | [GradientFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) | Gradient fill effect settings. |
+| [GradientMapSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings) | Gradient settings class for gradient map layer. |
 | [GradientTransparencyPoint](../com.aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint) | Gradient Transparency Point |
 | [GradientType](../com.aspose.psd.fileformats.psd.layers.fillsettings/gradienttype) | Gradient type |
-| [NoiseGradientFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings) | Noise gradient definition class. |
+| [NoiseGradient](../com.aspose.psd.fileformats.psd.layers.fillsettings/noisegradient) | Noise gradient definition class. |
 | [PatternFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings) | Pattern fill effect settings |
 
 ## Interfaces

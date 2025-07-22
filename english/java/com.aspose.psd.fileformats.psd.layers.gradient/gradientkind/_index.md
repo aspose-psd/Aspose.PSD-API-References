@@ -3,7 +3,7 @@ title: GradientKind
 second_title: Aspose.PSD for Java API Reference
 description: Gradient type enum.
 type: docs
-weight: 10
+weight: 11
 url: /java/com.aspose.psd.fileformats.psd.layers.gradient/gradientkind/
 ---
 

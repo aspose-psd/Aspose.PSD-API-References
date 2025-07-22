@@ -21,7 +21,7 @@ Calculating tool for the Outer Glow effect
 
 | Method | Description |
 | --- | --- |
-| [create_internalized(OuterGlowEntity ogEntity)](#create-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OuterGlowEntity-) |  |
+| [create_internalized(OuterGlowEntity ogEntity)](#create-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.OuterGlowEntity-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
 | [getEffectPositionRect_internalized()](#getEffectPositionRect-internalized--) | Gets or sets position of effect |
@@ -38,7 +38,7 @@ Calculating tool for the Outer Glow effect
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### create_internalized(OuterGlowEntity ogEntity) {#create-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OuterGlowEntity-}
+### create_internalized(OuterGlowEntity ogEntity) {#create-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.OuterGlowEntity-}
 ```
 public static OuterGlowProcessor create_internalized(OuterGlowEntity ogEntity)
 ```
@@ -49,7 +49,7 @@ public static OuterGlowProcessor create_internalized(OuterGlowEntity ogEntity)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ogEntity | com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OuterGlowEntity |  |
+| ogEntity | com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.OuterGlowEntity |  |
 
 **Returns:**
 [OuterGlowProcessor](../../com.aspose.psd.fileformats.psd.layers.layereffects.outerglow/outerglowprocessor)

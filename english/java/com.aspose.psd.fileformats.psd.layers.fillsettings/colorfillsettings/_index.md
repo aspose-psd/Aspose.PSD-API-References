@@ -3,7 +3,7 @@ title: ColorFillSettings
 second_title: Aspose.PSD for Java API Reference
 description: Color fill effect settings
 type: docs
-weight: 12
+weight: 11
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
 

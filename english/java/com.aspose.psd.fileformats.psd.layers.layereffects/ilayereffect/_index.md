@@ -16,6 +16,7 @@ Interface for Layer Effects
 | Method | Description |
 | --- | --- |
 | [getBlendMode()](#getBlendMode--) | Gets or sets the blend mode. |
+| [getEffectBounds(Rectangle layerBounds, int globalAngle)](#getEffectBounds-com.aspose.psd.Rectangle-int-) | Calculate and gets the bounds of effect pixels based on input layer pixels bounds. |
 | [getEffectType()](#getEffectType--) | Gets a type of effect |
 | [getOpacity()](#getOpacity--) | Gets or sets the opacity where 255 = 100% |
 | [isVisible()](#isVisible--) | Gets or sets a value indicating whether this instance is visible. |
@@ -34,6 +35,22 @@ Value: The blend mode.
 
 **Returns:**
 long
+### getEffectBounds(Rectangle layerBounds, int globalAngle) {#getEffectBounds-com.aspose.psd.Rectangle-int-}
+```
+public abstract Rectangle getEffectBounds(Rectangle layerBounds, int globalAngle)
+```
+
+
+Calculate and gets the bounds of effect pixels based on input layer pixels bounds.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| layerBounds | [Rectangle](../../com.aspose.psd/rectangle) | The layer pixels bounds. |
+| globalAngle | int | The global angle to calculate global light angle. |
+
+**Returns:**
+[Rectangle](../../com.aspose.psd/rectangle) - The bounds of effect pixels based on input layer pixels bounds.
 ### getEffectType() {#getEffectType--}
 ```
 public abstract int getEffectType()
