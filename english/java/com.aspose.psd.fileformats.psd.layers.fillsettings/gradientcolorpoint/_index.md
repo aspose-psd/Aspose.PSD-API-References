@@ -3,7 +3,7 @@ title: GradientColorPoint
 second_title: Aspose.PSD for Java API Reference
 description: The Gradient Color Point.
 type: docs
-weight: 14
+weight: 13
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
 

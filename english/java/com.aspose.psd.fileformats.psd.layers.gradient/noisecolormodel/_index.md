@@ -3,7 +3,7 @@ title: NoiseColorModel
 second_title: Aspose.PSD for Java API Reference
 description: Color Model When Gradient type  Noise we can assign Color Model to RGB/SHB/LAB 3/4/6
 type: docs
-weight: 11
+weight: 12
 url: /java/com.aspose.psd.fileformats.psd.layers.gradient/noisecolormodel/
 ---
 

@@ -21,13 +21,14 @@ Color Overlay Layer effect
 
 | Method | Description |
 | --- | --- |
-| [create_internalized(IEffectsResource entity)](#create-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource-) |  |
+| [create_internalized(IEffectEntity entity)](#create-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.IEffectEntity-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBlendMode()](#getBlendMode--) | Gets or sets the blend mode. |
 | [getClass()](#getClass--) |  |
 | [getColor()](#getColor--) | Gets or sets the color. |
+| [getEffectBounds(Rectangle layerBounds, int globalAngle)](#getEffectBounds-com.aspose.psd.Rectangle-int-) | Calculate and gets the bounds of effect pixels based on input layer pixels bounds. |
+| [getEffectEntity_internalized()](#getEffectEntity-internalized--) | Gets the entity |
 | [getEffectType()](#getEffectType--) | Gets a type of effect |
-| [getEffectsEntity_internalized()](#getEffectsEntity-internalized--) | Gets the entity |
 | [getOpacity()](#getOpacity--) | Gets or sets the opacity. |
 | [hashCode()](#hashCode--) |  |
 | [isVisible()](#isVisible--) | Gets or sets a value indicating whether this instance is visible. |
@@ -41,9 +42,9 @@ Color Overlay Layer effect
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### create_internalized(IEffectsResource entity) {#create-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource-}
+### create_internalized(IEffectEntity entity) {#create-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.IEffectEntity-}
 ```
-public static ColorOverlayEffect create_internalized(IEffectsResource entity)
+public static ColorOverlayEffect create_internalized(IEffectEntity entity)
 ```
 
 
@@ -52,7 +53,7 @@ public static ColorOverlayEffect create_internalized(IEffectsResource entity)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| entity | com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource |  |
+| entity | com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.IEffectEntity |  |
 
 **Returns:**
 [ColorOverlayEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect)
@@ -105,6 +106,32 @@ Value: The color.
 
 **Returns:**
 [Color](../../com.aspose.psd/color)
+### getEffectBounds(Rectangle layerBounds, int globalAngle) {#getEffectBounds-com.aspose.psd.Rectangle-int-}
+```
+public final Rectangle getEffectBounds(Rectangle layerBounds, int globalAngle)
+```
+
+
+Calculate and gets the bounds of effect pixels based on input layer pixels bounds.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| layerBounds | [Rectangle](../../com.aspose.psd/rectangle) | The layer pixels bounds. |
+| globalAngle | int | The global angle to calculate global light angle. |
+
+**Returns:**
+[Rectangle](../../com.aspose.psd/rectangle) - The bounds of effect pixels based on input layer pixels bounds.
+### getEffectEntity_internalized() {#getEffectEntity-internalized--}
+```
+public final IEffectEntity getEffectEntity_internalized()
+```
+
+
+Gets the entity
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.IEffectEntity
 ### getEffectType() {#getEffectType--}
 ```
 public final int getEffectType()
@@ -115,16 +142,6 @@ Gets a type of effect
 
 **Returns:**
 int
-### getEffectsEntity_internalized() {#getEffectsEntity-internalized--}
-```
-public final IEffectsResource getEffectsEntity_internalized()
-```
-
-
-Gets the entity
-
-**Returns:**
-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.IEffectsResource
 ### getOpacity() {#getOpacity--}
 ```
 public final byte getOpacity()

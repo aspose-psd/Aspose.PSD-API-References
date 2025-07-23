@@ -121,7 +121,7 @@ Gradient map layer. Handles Gradient map rendering using data from GrdmResource.
 | [getFoldersHierarchy_internalized()](#getFoldersHierarchy-internalized--) | Gets the list of [LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup) folders hierarchy of current layer. |
 | [getFormatSpecificPalette_internalized()](#getFormatSpecificPalette-internalized--) | Gets palette from format-specific places |
 | [getGUID_internalized()](#getGUID-internalized--) | Gets the unique identifier of this Layer instance. |
-| [getGradientSettings()](#getGradientSettings--) | Gradient settings instance passed from GrdmResource instance. |
+| [getGradientSettings()](#getGradientSettings--) | Gets or sets Gradient settings instance passed from GrdmResource instance. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getHeight()](#getHeight--) | Gets the image height. |
 | [getHorizontalResolution()](#getHorizontalResolution--) | Gets or sets the horizontal resolution, in pixels per inch, of this  RasterImage . |
@@ -260,7 +260,7 @@ Gradient map layer. Handles Gradient map rendering using data from GrdmResource.
 | [savePixels(Rectangle rectangle, Color[] pixels)](#savePixels-com.aspose.psd.Rectangle-com.aspose.psd.Color---) | Saves the pixels. |
 | [saveRawData(byte[] data, int dataOffset, Rectangle rectangle, RawDataSettings rawDataSettings)](#saveRawData-byte---int-com.aspose.psd.Rectangle-com.aspose.psd.RawDataSettings-) | Saves the raw data. |
 | [save_internalized(System.IO.Stream stream)](#save-internalized-com.aspose.ms.System.IO.Stream-) |  |
-| [save_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)](#save-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-) |  |
+| [save_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)](#save-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | [save_internalized(StreamContainer streamContainer, int psdVersion, int bitDepth)](#save-internalized-com.aspose.psd.StreamContainer-int-int-) | Saves data to the specified stream container. |
 | [setAbsoluteBounds_internalized(Rectangle value)](#setAbsoluteBounds-internalized-com.aspose.psd.Rectangle-) | Gets or sets the absolute bounds. |
 | [setArgb32Pixel(int x, int y, int argb32Color)](#setArgb32Pixel-int-int-int-) | Sets an image 32-bit ARGB pixel for the specified position. |
@@ -281,7 +281,7 @@ Gradient map layer. Handles Gradient map rendering using data from GrdmResource.
 | [setFiller(byte value)](#setFiller-byte-) | Gets or sets the layer filler. |
 | [setFlags(byte value)](#setFlags-byte-) | Gets or sets the layer flags. |
 | [setFormatSpecificPalette_internalized(IColorPalette newPalette)](#setFormatSpecificPalette-internalized-com.aspose.psd.IColorPalette-) | Sets palette into format-specific places |
-| [setGradientSettings(BaseGradientFillSettings value)](#setGradientSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.BaseGradientFillSettings-) | Gradient settings instance passed from GrdmResource instance. |
+| [setGradientSettings(GradientMapSettings value)](#setGradientSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.GradientMapSettings-) | Gets or sets Gradient settings instance passed from GrdmResource instance. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setHorizontalResolution(double value)](#setHorizontalResolution-double-) | Gets or sets the horizontal resolution, in pixels per inch, of this  RasterImage . |
 | [setIgnoreAfterSave_internalized(boolean value)](#setIgnoreAfterSave-internalized-boolean-) | Sets a value indicating whether [ignore after save]. |
@@ -1621,14 +1621,14 @@ Gets the unique identifier of this Layer instance.
 java.lang.String
 ### getGradientSettings() {#getGradientSettings--}
 ```
-public final BaseGradientFillSettings getGradientSettings()
+public final GradientMapSettings getGradientSettings()
 ```
 
 
-Gradient settings instance passed from GrdmResource instance.
+Gets or sets Gradient settings instance passed from GrdmResource instance.
 
 **Returns:**
-[BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings)
+[GradientMapSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings)
 ### getHeader_internalized() {#getHeader-internalized--}
 ```
 public final PsdHeader getHeader_internalized()
@@ -3384,9 +3384,9 @@ Saves the image's data to the specified stream in the specified file format acco
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.ms.System.IO.Stream |  |
-| optionsBase | [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) |  |
-| boundsRectangle | [Rectangle](../../com.aspose.psd/rectangle) |  |
+| stream | com.aspose.ms.System.IO.Stream | The stream to save the image's data to. |
+| optionsBase | [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) | The save options. |
+| boundsRectangle | [Rectangle](../../com.aspose.psd/rectangle) | The destination image bounds rectangle. Set the empty rectangle for use source bounds. |
 
 ### save_internalized(StreamContainer streamContainer, int psdVersion, int bitDepth) {#save-internalized-com.aspose.psd.StreamContainer-int-int-}
 ```
@@ -3674,18 +3674,18 @@ Sets palette into format-specific places
 
 **Returns:**
 boolean
-### setGradientSettings(BaseGradientFillSettings value) {#setGradientSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.BaseGradientFillSettings-}
+### setGradientSettings(GradientMapSettings value) {#setGradientSettings-com.aspose.psd.fileformats.psd.layers.fillsettings.GradientMapSettings-}
 ```
-public final void setGradientSettings(BaseGradientFillSettings value)
+public final void setGradientSettings(GradientMapSettings value)
 ```
 
 
-Gradient settings instance passed from GrdmResource instance.
+Gets or sets Gradient settings instance passed from GrdmResource instance.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [BaseGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/basegradientfillsettings) |  |
+| value | [GradientMapSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings) |  |
 
 ### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
 ```

@@ -138,7 +138,6 @@ The text layer class
 | [getInnerText()](#getInnerText--) | Gets the text of the layer |
 | [getInterruptMonitor()](#getInterruptMonitor--) | Gets the interrupt monitor. |
 | [getLayerBlendingRangesData()](#getLayerBlendingRangesData--) | Gets or sets the layer blending ranges data. |
-| [getLayerCache_internalized()](#getLayerCache-internalized--) | Gets or sets the layer cache. |
 | [getLayerCreationDateTime()](#getLayerCreationDateTime--) | Gets or sets the layer creation date time. |
 | [getLayerCreationDateTime_internalized()](#getLayerCreationDateTime-internalized--) |  |
 | [getLayerLock()](#getLayerLock--) | Gets or sets the layer lock. |
@@ -282,7 +281,7 @@ The text layer class
 | [savePixels(Rectangle rectangle, Color[] pixels)](#savePixels-com.aspose.psd.Rectangle-com.aspose.psd.Color---) | Saves the pixels. |
 | [saveRawData(byte[] data, int dataOffset, Rectangle rectangle, RawDataSettings rawDataSettings)](#saveRawData-byte---int-com.aspose.psd.Rectangle-com.aspose.psd.RawDataSettings-) | Saves the raw data. |
 | [save_internalized(System.IO.Stream stream)](#save-internalized-com.aspose.ms.System.IO.Stream-) |  |
-| [save_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)](#save-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-) |  |
+| [save_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)](#save-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | [save_internalized(StreamContainer streamContainer, int psdVersion, int bitDepth)](#save-internalized-com.aspose.psd.StreamContainer-int-int-) | Saves data to the specified stream container. |
 | [setAbsoluteBounds_internalized(Rectangle value)](#setAbsoluteBounds-internalized-com.aspose.psd.Rectangle-) | Gets or sets the absolute bounds. |
 | [setAllowWarpRepaint_internalized(boolean value)](#setAllowWarpRepaint-internalized-boolean-) | It gets or sets render warp or use PS picture |
@@ -312,7 +311,6 @@ The text layer class
 | [setInnerText(String value)](#setInnerText-java.lang.String-) | Gets the text of the layer |
 | [setInterruptMonitor(InterruptMonitor value)](#setInterruptMonitor-com.aspose.psd.multithreading.InterruptMonitor-) | Sets the interrupt monitor. |
 | [setLayerBlendingRangesData(LayerBlendingRangesData value)](#setLayerBlendingRangesData-com.aspose.psd.fileformats.psd.layers.LayerBlendingRangesData-) | Gets or sets the layer blending ranges data. |
-| [setLayerCache_internalized(RasterImage value)](#setLayerCache-internalized-com.aspose.psd.RasterImage-) | Gets or sets the layer cache. |
 | [setLayerCreationDateTime(Date value)](#setLayerCreationDateTime-java.util.Date-) | Gets or sets the layer creation date time. |
 | [setLayerCreationDateTime_internalized(System.DateTime value)](#setLayerCreationDateTime-internalized-com.aspose.ms.System.DateTime-) |  |
 | [setLayerLock(int value)](#setLayerLock-int-) | Gets or sets the layer lock (Note that if flag LayerFlags.TransparencyProtected is set it will be overritten by layer lock flag. |
@@ -1823,18 +1821,6 @@ Value: The layer blending ranges data.
 
 **Returns:**
 [LayerBlendingRangesData](../../com.aspose.psd.fileformats.psd.layers/layerblendingrangesdata)
-### getLayerCache_internalized() {#getLayerCache-internalized--}
-```
-public final RasterImage getLayerCache_internalized()
-```
-
-
-Gets or sets the layer cache. Used for partial processing of export (since rendering of the whole layer was performed for each part all the time).
-
-Value: The cached layer.
-
-**Returns:**
-[RasterImage](../../com.aspose.psd/rasterimage)
 ### getLayerCreationDateTime() {#getLayerCreationDateTime--}
 ```
 public final Date getLayerCreationDateTime()
@@ -3651,9 +3637,9 @@ Saves the image's data to the specified stream in the specified file format acco
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | com.aspose.ms.System.IO.Stream |  |
-| optionsBase | [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) |  |
-| boundsRectangle | [Rectangle](../../com.aspose.psd/rectangle) |  |
+| stream | com.aspose.ms.System.IO.Stream | The stream to save the image's data to. |
+| optionsBase | [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) | The save options. |
+| boundsRectangle | [Rectangle](../../com.aspose.psd/rectangle) | The destination image bounds rectangle. Set the empty rectangle for use source bounds. |
 
 ### save_internalized(StreamContainer streamContainer, int psdVersion, int bitDepth) {#save-internalized-com.aspose.psd.StreamContainer-int-int-}
 ```
@@ -4067,21 +4053,6 @@ Value: The layer blending ranges data.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [LayerBlendingRangesData](../../com.aspose.psd.fileformats.psd.layers/layerblendingrangesdata) |  |
-
-### setLayerCache_internalized(RasterImage value) {#setLayerCache-internalized-com.aspose.psd.RasterImage-}
-```
-public final void setLayerCache_internalized(RasterImage value)
-```
-
-
-Gets or sets the layer cache. Used for partial processing of export (since rendering of the whole layer was performed for each part all the time).
-
-Value: The cached layer.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [RasterImage](../../com.aspose.psd/rasterimage) |  |
 
 ### setLayerCreationDateTime(Date value) {#setLayerCreationDateTime-java.util.Date-}
 ```

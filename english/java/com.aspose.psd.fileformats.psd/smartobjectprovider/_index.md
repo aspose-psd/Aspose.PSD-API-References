@@ -36,7 +36,7 @@ Defines the smart object provider that provides getting / setting data sources f
 | [replaceContents_internalized(System.Guid uniqueId, byte[] contents)](#replaceContents-internalized-com.aspose.ms.System.Guid-byte---) | Replaces the contents with the provided contents to embed. |
 | [replaceContents_internalized(PlacedResource placedResource, String linkedPath, System.Guid oldGuid)](#replaceContents-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-com.aspose.ms.System.Guid-) |  |
 | [replaceContents_internalized(PlacedResource placedResource, String linkedPath, System.Guid oldGuid, boolean isReplaceOnlyThis)](#replaceContents-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-com.aspose.ms.System.Guid-boolean-) | Replaces the contents with the provided external file. |
-| [setContents_internalized(System.Guid uniqueId, byte[] data)](#setContents-internalized-com.aspose.ms.System.Guid-byte---) | Sets the embedded or external file contents. |
+| [setContents_internalized(System.Guid uniqueId, byte[] data, String fileType)](#setContents-internalized-com.aspose.ms.System.Guid-byte---java.lang.String-) | Sets the embedded or external file contents. |
 | [setDataSource(LinkDataSource dataSource)](#setDataSource-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-) | Sets (replaces or adds) the link data source in the global link resource. |
 | [setLayersForUpdateContents_internalized(System.Collections.Generic.List<SmartObjectLayer> value)](#setLayersForUpdateContents-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.smartobjects.SmartObjectLayer--) | It gets or sets layer when contents must be changed |
 | [toString()](#toString--) |  |
@@ -287,9 +287,9 @@ Replaces the contents with the provided external file.
 
 **Returns:**
 com.aspose.ms.System.Guid - The unique identifier Guid of the created linked data source. [LiFeDataSource](../../com.aspose.psd.fileformats.psd.layers.layerresources.linkresources/lifedatasource).
-### setContents_internalized(System.Guid uniqueId, byte[] data) {#setContents-internalized-com.aspose.ms.System.Guid-byte---}
+### setContents_internalized(System.Guid uniqueId, byte[] data, String fileType) {#setContents-internalized-com.aspose.ms.System.Guid-byte---java.lang.String-}
 ```
-public final void setContents_internalized(System.Guid uniqueId, byte[] data)
+public final void setContents_internalized(System.Guid uniqueId, byte[] data, String fileType)
 ```
 
 
@@ -300,6 +300,7 @@ Sets the embedded or external file contents.
 | --- | --- | --- |
 | uniqueId | com.aspose.ms.System.Guid | The unique identifier of the link data source. |
 | data | byte[] | The data. |
+| fileType | java.lang.String | The data file type. |
 
 ### setDataSource(LinkDataSource dataSource) {#setDataSource-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-}
 ```
