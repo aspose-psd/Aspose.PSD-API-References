@@ -271,6 +271,7 @@ Defines the PsdImage class that provides the ability to load, edit, save PSD fil
 | [saveCmykPixels(Rectangle rectangle, CmykColor[] pixels)](#saveCmykPixels-com.aspose.psd.Rectangle-com.aspose.psd.CmykColor---) | Saves the pixels. |
 | [savePixels(Rectangle rectangle, Color[] pixels)](#savePixels-com.aspose.psd.Rectangle-com.aspose.psd.Color---) | Saves the pixels. |
 | [saveRawData(byte[] data, int dataOffset, Rectangle rectangle, RawDataSettings rawDataSettings)](#saveRawData-byte---int-com.aspose.psd.Rectangle-com.aspose.psd.RawDataSettings-) | Saves the raw data. |
+| [saveSpecificLayers_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle, Layer[] layersToExport)](#saveSpecificLayers-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-com.aspose.psd.fileformats.psd.layers.Layer---) | Saves the image data to the specified stream using the specified save options and bounds. |
 | [save_internalized(System.IO.Stream stream)](#save-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [save_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)](#save-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-) | Saves the image's data to the specified stream in the specified file format according to save options. |
 | [setActiveLayer(Layer value)](#setActiveLayer-com.aspose.psd.fileformats.psd.layers.Layer-) | Gets or sets the active layer. |
@@ -3465,6 +3466,22 @@ Saves the raw data.
 | dataOffset | int | The starting raw data offset. |
 | rectangle | [Rectangle](../../com.aspose.psd/rectangle) | The raw data rectangle. |
 | rawDataSettings | [RawDataSettings](../../com.aspose.psd/rawdatasettings) | The raw data settings the data is in. |
+
+### saveSpecificLayers_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle, Layer[] layersToExport) {#saveSpecificLayers-internalized-com.aspose.ms.System.IO.Stream-com.aspose.psd.ImageOptionsBase-com.aspose.psd.Rectangle-com.aspose.psd.fileformats.psd.layers.Layer---}
+```
+public final void saveSpecificLayers_internalized(System.IO.Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle, Layer[] layersToExport)
+```
+
+
+Saves the image data to the specified stream using the specified save options and bounds. Optionally exports only the specified layers for rendering preview.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | com.aspose.ms.System.IO.Stream | The stream to which the image data will be saved. |
+| optionsBase | [ImageOptionsBase](../../com.aspose.psd/imageoptionsbase) | The save options to use. |
+| boundsRectangle | [Rectangle](../../com.aspose.psd/rectangle) | The destination image bounds rectangle. Set to  Rectangle.Empty  to use source bounds. |
+| layersToExport | [Layer\[\]](../../com.aspose.psd.fileformats.psd.layers/layer) | The specific layers to export. A  null  value indicates default behavior with all layers. |
 
 ### save_internalized(System.IO.Stream stream) {#save-internalized-com.aspose.ms.System.IO.Stream-}
 ```

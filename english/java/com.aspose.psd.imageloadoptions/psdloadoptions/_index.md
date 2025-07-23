@@ -29,6 +29,7 @@ Psd load options
 | Method | Description |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAllowNonChangedLayerRepaint()](#getAllowNonChangedLayerRepaint--) | Gets or sets whether to preserve original layer pixels during rendering if the layer has not been modified. |
 | [getAllowWarpRepaint()](#getAllowWarpRepaint--) | Gets or sets whether to save with the rendered image, with or without a warp transform. |
 | [getBufferSizeHint()](#getBufferSizeHint--) | Gets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [getClass()](#getClass--) |  |
@@ -46,6 +47,7 @@ Psd load options
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setAllowNonChangedLayerRepaint(boolean value)](#setAllowNonChangedLayerRepaint-boolean-) | Gets or sets whether to preserve original layer pixels during rendering if the layer has not been modified. |
 | [setAllowWarpRepaint(boolean value)](#setAllowWarpRepaint-boolean-) | Gets or sets whether to save with the rendered image, with or without a warp transform. |
 | [setBufferSizeHint(int value)](#setBufferSizeHint-int-) | Sets the buffer size hint which is defined max allowed size for all internal buffers. |
 | [setDataBackgroundColor(Color value)](#setDataBackgroundColor-com.aspose.psd.Color-) | Sets the  Image  background  Color . |
@@ -92,6 +94,18 @@ public boolean equals(Object arg0)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getAllowNonChangedLayerRepaint() {#getAllowNonChangedLayerRepaint--}
+```
+public final boolean getAllowNonChangedLayerRepaint()
+```
+
+
+Gets or sets whether to preserve original layer pixels during rendering if the layer has not been modified.
+
+Value:  true  to keep the original pixels of unchanged layers; otherwise,  false .
 
 **Returns:**
 boolean
@@ -278,6 +292,21 @@ public final native void notifyAll()
 
 
 
+
+### setAllowNonChangedLayerRepaint(boolean value) {#setAllowNonChangedLayerRepaint-boolean-}
+```
+public final void setAllowNonChangedLayerRepaint(boolean value)
+```
+
+
+Gets or sets whether to preserve original layer pixels during rendering if the layer has not been modified.
+
+Value:  true  to keep the original pixels of unchanged layers; otherwise,  false .
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setAllowWarpRepaint(boolean value) {#setAllowWarpRepaint-boolean-}
 ```

@@ -30,13 +30,16 @@ BlendingOptions. It's a wrapper for BaseFxResource which provides api for layer 
 | [addOuterGlow()](#addOuterGlow--) | Adds the outer glow effect. |
 | [addPatternOverlay()](#addPatternOverlay--) | Adds the Pattern overlay. |
 | [addStroke(int fillType)](#addStroke-int-) | Adds the stroke effect. |
+| [calculateBoundsWithEffects_internalized(Rectangle layerBounds, int globalAngle)](#calculateBoundsWithEffects-internalized-com.aspose.psd.Rectangle-int-) | Calculates the bounds of the layer including visual effects. |
 | [create_internalized(LayerStyleFX layerStyle, PattResource pattResource)](#create-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.LayerStyleFX-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAreEffectsEnabled()](#getAreEffectsEnabled--) | Gets or sets the visibility of all layer effects. |
 | [getClass()](#getClass--) |  |
 | [getEffects()](#getEffects--) | Gets the effects. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setAreEffectsEnabled(boolean value)](#setAreEffectsEnabled-boolean-) | Gets or sets the visibility of all layer effects. |
 | [setEffects(ILayerEffect[] value)](#setEffects-com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect---) | Gets the effects. |
 | [setNewPatternToFillSettings_internalized(PatternFillSettings patternSettings)](#setNewPatternToFillSettings-internalized-com.aspose.psd.fileformats.psd.layers.fillsettings.PatternFillSettings-) | Creates the new pattern data and sets it into [PatternFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings) instance. |
 | [toString()](#toString--) |  |
@@ -125,6 +128,22 @@ Adds the stroke effect.
 
 **Returns:**
 [StrokeEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/strokeeffect) - Created [StrokeEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/strokeeffect) object.
+### calculateBoundsWithEffects_internalized(Rectangle layerBounds, int globalAngle) {#calculateBoundsWithEffects-internalized-com.aspose.psd.Rectangle-int-}
+```
+public final Rectangle calculateBoundsWithEffects_internalized(Rectangle layerBounds, int globalAngle)
+```
+
+
+Calculates the bounds of the layer including visual effects.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| layerBounds | [Rectangle](../../com.aspose.psd/rectangle) | The original bounds of the layer. |
+| globalAngle | int | The global light angle used for certain effects. |
+
+**Returns:**
+[Rectangle](../../com.aspose.psd/rectangle) - The calculated bounds including the visual effects.
 ### create_internalized(LayerStyleFX layerStyle, PattResource pattResource) {#create-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.LayerStyleFX-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-}
 ```
 public static BlendingOptions create_internalized(LayerStyleFX layerStyle, PattResource pattResource)
@@ -153,6 +172,16 @@ public boolean equals(Object arg0)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getAreEffectsEnabled() {#getAreEffectsEnabled--}
+```
+public final boolean getAreEffectsEnabled()
+```
+
+
+Gets or sets the visibility of all layer effects.
 
 **Returns:**
 boolean
@@ -203,6 +232,19 @@ public final native void notifyAll()
 
 
 
+
+### setAreEffectsEnabled(boolean value) {#setAreEffectsEnabled-boolean-}
+```
+public final void setAreEffectsEnabled(boolean value)
+```
+
+
+Gets or sets the visibility of all layer effects.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setEffects(ILayerEffect[] value) {#setEffects-com.aspose.psd.fileformats.psd.layers.layereffects.ILayerEffect---}
 ```
