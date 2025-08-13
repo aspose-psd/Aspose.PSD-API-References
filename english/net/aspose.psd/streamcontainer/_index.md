@@ -3,7 +3,7 @@ title: Class StreamContainer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.StreamContainer class. Represents stream container which contains the stream and provides stream processing routines
 type: docs
-weight: 6060
+weight: 6070
 url: /net/aspose.psd/streamcontainer/
 ---
 {{< psd/tize >}}

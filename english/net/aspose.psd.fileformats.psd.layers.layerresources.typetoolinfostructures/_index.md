@@ -22,6 +22,7 @@ The namespace contains PSD file format type tool resource entities.
 | [EnumeratedReferenceStructure](./enumeratedreferencestructure/) | Enumerated reference structure. |
 | [IntegerStructure](./integerstructure/) | The integer structure. |
 | [ListStructure](./liststructure/) | The list structure. |
+| [NameStructure](./namestructure/) | The Name structure (key: 0x6E616D65, which spells "name" in ASCII) is a simple structure used to store a Unicode or Pascal-style string representing the name of an element, such as a layer, path, or adjustment. |
 | [ObjectArrayStructure](./objectarraystructure/) | Defines the ObjectArrayStructure class that usually holds [`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/) array. It is used in the PSD file resources, such as PlLd Resource and SoLd Resource. |
 | [OffsetStructure](./offsetstructure/) | The offset structure. |
 | [PathStructure](./pathstructure/) | The path structure. |

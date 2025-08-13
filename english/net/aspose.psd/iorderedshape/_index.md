@@ -3,7 +3,7 @@ title: Interface IOrderedShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IOrderedShape interface. Represents an ordered shape. An ordered shape is a continuous set of points having a start point and end point. The continuous set of points connected using a specific rule
 type: docs
-weight: 4900
+weight: 4910
 url: /net/aspose.psd/iorderedshape/
 ---
 {{< psd/tize >}}

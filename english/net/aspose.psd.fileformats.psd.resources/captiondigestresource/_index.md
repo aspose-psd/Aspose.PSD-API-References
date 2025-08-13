@@ -3,7 +3,7 @@ title: Class CaptionDigestResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.CaptionDigestResource class. CaptionDigest resource
 type: docs
-weight: 4050
+weight: 4060
 url: /net/aspose.psd.fileformats.psd.resources/captiondigestresource/
 ---
 {{< psd/tize >}}

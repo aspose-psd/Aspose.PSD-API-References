@@ -3,7 +3,7 @@ title: Class AddNoiseSmartFilter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter class. The AddNoise smart filter
 type: docs
-weight: 3770
+weight: 3780
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 ---
 {{< psd/tize >}}

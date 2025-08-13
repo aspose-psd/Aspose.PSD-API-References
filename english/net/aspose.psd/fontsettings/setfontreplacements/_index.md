@@ -52,7 +52,7 @@ try
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
     using (PsdImage image = (PsdImage)Image.Load(srcFile,
-        new PsdLoadOptions() { AllowNonChangedLayerRepaint = false }))
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }

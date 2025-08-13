@@ -3,7 +3,7 @@ title: Class PrintFlagsResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.PrintFlagsResource class. Print flags resource
 type: docs
-weight: 4230
+weight: 4240
 url: /net/aspose.psd.fileformats.psd.resources/printflagsresource/
 ---
 {{< psd/tize >}}

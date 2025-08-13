@@ -3,7 +3,7 @@ title: Class Version
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Version.Version class. Describes one version of a document
 type: docs
-weight: 6530
+weight: 6540
 url: /net/aspose.psd.xmp.types.complex.version/version/
 ---
 {{< psd/tize >}}
