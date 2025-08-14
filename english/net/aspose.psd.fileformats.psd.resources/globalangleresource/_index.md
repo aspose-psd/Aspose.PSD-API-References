@@ -3,7 +3,7 @@ title: Class GlobalAngleResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.GlobalAngleResource class. Global angle resource
 type: docs
-weight: 4120
+weight: 4130
 url: /net/aspose.psd.fileformats.psd.resources/globalangleresource/
 ---
 {{< psd/tize >}}

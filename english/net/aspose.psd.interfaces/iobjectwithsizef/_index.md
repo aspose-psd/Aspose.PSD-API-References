@@ -3,7 +3,7 @@ title: Interface IObjectWithSizeF
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Interfaces.IObjectWithSizeF interface. Represents object with Size which are expressed in real numbers in inches
 type: docs
-weight: 5430
+weight: 5440
 url: /net/aspose.psd.interfaces/iobjectwithsizef/
 ---
 {{< psd/tize >}}

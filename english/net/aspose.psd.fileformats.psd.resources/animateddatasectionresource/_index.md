@@ -3,7 +3,7 @@ title: Class AnimatedDataSectionResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.AnimatedDataSectionResource class. The Animated Data Section PlugIn resource
 type: docs
-weight: 4020
+weight: 4030
 url: /net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/
 ---
 {{< psd/tize >}}

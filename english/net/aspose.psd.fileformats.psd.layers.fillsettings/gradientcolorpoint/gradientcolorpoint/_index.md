@@ -77,9 +77,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
     // Gets GradientFillSettings object to configure gradient overlay settings.
     GradientFillSettings settings = (GradientFillSettings)gradientOverlayEffect.Settings;
+    SolidGradient solidGradient = (SolidGradient)settings.Gradient;
 
     // Setting a new gradient with two colors.
-    settings.ColorPoints = new IGradientColorPoint[]
+    solidGradient.ColorPoints = new IGradientColorPoint[]
     {
         new GradientColorPoint(Color.GreenYellow, 0, 50),
         new GradientColorPoint(Color.BlueViolet, 4096, 50),
@@ -95,8 +96,8 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
     settings.GradientType = GradientType.Linear;
 
     // Make the gradient opaque by setting the opacity to 100% at each transparency point.
-    settings.TransparencyPoints[0].Opacity = 100;
-    settings.TransparencyPoints[1].Opacity = 100;
+    solidGradient.TransparencyPoints[0].Opacity = 100;
+    solidGradient.TransparencyPoints[1].Opacity = 100;
 
     psdImage.Save(outputFilePath);
 }

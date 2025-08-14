@@ -3,7 +3,7 @@ title: Class Rational
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Derived.Rational class. Represents XMP Rational
 type: docs
-weight: 6540
+weight: 6550
 url: /net/aspose.psd.xmp.types.derived/rational/
 ---
 {{< psd/tize >}}

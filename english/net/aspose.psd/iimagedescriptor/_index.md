@@ -3,7 +3,7 @@ title: Interface IImageDescriptor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IImageDescriptor interface. The image descriptor. Contains base properties and methods for all other image descriptor types
 type: docs
-weight: 4820
+weight: 4830
 url: /net/aspose.psd/iimagedescriptor/
 ---
 {{< psd/tize >}}
