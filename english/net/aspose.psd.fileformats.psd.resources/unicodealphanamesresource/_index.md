@@ -3,7 +3,7 @@ title: Class UnicodeAlphaNamesResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.UnicodeAlphaNamesResource class. Unicode alpha names resource
 type: docs
-weight: 4330
+weight: 4340
 url: /net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/
 ---
 {{< psd/tize >}}

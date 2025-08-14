@@ -3,7 +3,7 @@ title: Class Pen
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Pen class. Defines an object used to draw lines curves and figures
 type: docs
-weight: 5610
+weight: 5620
 url: /net/aspose.psd/pen/
 ---
 {{< psd/tize >}}

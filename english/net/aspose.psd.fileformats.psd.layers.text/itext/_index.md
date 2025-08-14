@@ -3,7 +3,7 @@ title: Interface IText
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Text.IText interface. Interface for Text Editing for Text Layers
 type: docs
-weight: 3870
+weight: 3880
 url: /net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
 {{< psd/tize >}}

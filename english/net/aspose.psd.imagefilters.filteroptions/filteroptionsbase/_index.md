@@ -3,7 +3,7 @@ title: Class FilterOptionsBase
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase class. Filter Options Base abstract class
 type: docs
-weight: 5090
+weight: 5100
 url: /net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 ---
 {{< psd/tize >}}

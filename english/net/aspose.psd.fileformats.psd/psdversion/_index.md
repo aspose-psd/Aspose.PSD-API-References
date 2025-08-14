@@ -3,7 +3,7 @@ title: Enum PsdVersion
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.PsdVersion enum. File format version
 type: docs
-weight: 3990
+weight: 4000
 url: /net/aspose.psd.fileformats.psd/psdversion/
 ---
 {{< psd/tize >}}

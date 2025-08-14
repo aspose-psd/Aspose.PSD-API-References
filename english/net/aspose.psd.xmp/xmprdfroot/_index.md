@@ -3,7 +3,7 @@ title: Class XmpRdfRoot
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpRdfRoot class. Represents rdfRDF element. A single XMP packet shall be serialized using a single rdfRDF XML element. The rdfRDF element content shall consist of only zero or more rdfDescription elements
 type: docs
-weight: 6720
+weight: 6730
 url: /net/aspose.psd.xmp/xmprdfroot/
 ---
 {{< psd/tize >}}

@@ -19,7 +19,7 @@ public sealed class AiImage : Image
 
 | Name | Description |
 | --- | --- |
-| [AiImage](aiimage/)() | The default constructor. |
+| [AiImage](aiimage/)() | Initializes a new instance of the `AiImage` class. |
 
 ## Properties
 
@@ -50,7 +50,7 @@ public sealed class AiImage : Image
 | virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | Gets a value indicating whether the image palette is used. |
 | [Version](../../aspose.psd.fileformats.ai/aiimage/version/) { get; } | Gets the version of Adobe Illustrator format. |
 | override [Width](../../aspose.psd.fileformats.ai/aiimage/width/) { get; } | Gets the image width. |
-| [XmpData](../../aspose.psd.fileformats.ai/aiimage/xmpdata/) { get; } | Gets or sets the XMP metadata. |
+| [XmpData](../../aspose.psd.fileformats.ai/aiimage/xmpdata/) { get; } | Gets the XMP metadata. |
 
 ## Methods
 
