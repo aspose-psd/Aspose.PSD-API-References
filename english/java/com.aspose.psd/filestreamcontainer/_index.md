@@ -47,6 +47,7 @@ Helper for file stream processing.
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [openFileStream(String fileLocation)](#openFileStream-java.lang.String-) | Opens an existing file stream. |
+| [openFileStream_internalized(String fileLocation, boolean disposeDuplicatedStreams)](#openFileStream-internalized-java.lang.String-boolean-) | Opens an existing file stream. |
 | [read(byte[] bytes)](#read-byte---) | Reads bytes to fill the specified bytes buffer. |
 | [read(byte[] buffer, int offset, int count)](#read-byte---int-int-) | Reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read. |
 | [readByte()](#readByte--) | Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream. |
@@ -362,6 +363,22 @@ Opens an existing file stream. If file stream does not exist the appropriate exc
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileLocation | java.lang.String | The file location. |
+
+**Returns:**
+[FileStreamContainer](../../com.aspose.psd/filestreamcontainer) - The file stream container.
+### openFileStream_internalized(String fileLocation, boolean disposeDuplicatedStreams) {#openFileStream-internalized-java.lang.String-boolean-}
+```
+public static FileStreamContainer openFileStream_internalized(String fileLocation, boolean disposeDuplicatedStreams)
+```
+
+
+Opens an existing file stream. If file stream does not exist the appropriate exception is thrown.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileLocation | java.lang.String | The file location. |
+| disposeDuplicatedStreams | boolean | if set to  true  disposes the duplicated streams. |
 
 **Returns:**
 [FileStreamContainer](../../com.aspose.psd/filestreamcontainer) - The file stream container.

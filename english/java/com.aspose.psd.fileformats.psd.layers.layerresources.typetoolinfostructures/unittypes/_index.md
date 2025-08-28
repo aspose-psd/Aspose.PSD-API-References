@@ -3,7 +3,7 @@ title: UnitTypes
 second_title: Aspose.PSD for Java API Reference
 description: The unit types.
 type: docs
-weight: 28
+weight: 29
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/
 ---
 

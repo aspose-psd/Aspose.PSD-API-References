@@ -3,7 +3,7 @@ title: OffsetStructure
 second_title: Aspose.PSD for Java API Reference
 description: The offset structure.
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/
 ---
 
