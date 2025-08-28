@@ -3,7 +3,7 @@ title: PathStructure
 second_title: Aspose.PSD for Java API Reference
 description: The path structure.
 type: docs
-weight: 21
+weight: 22
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/
 ---
 

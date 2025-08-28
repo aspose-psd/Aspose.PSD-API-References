@@ -3,7 +3,7 @@ title: UnknownStructure
 second_title: Aspose.PSD for Java API Reference
 description: The unknown structure.
 type: docs
-weight: 29
+weight: 30
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/
 ---
 

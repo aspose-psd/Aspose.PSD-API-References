@@ -3,7 +3,7 @@ title: ObjectArrayStructure
 second_title: Aspose.PSD for Java API Reference
 description: Defines the ObjectArrayStructure class that usually holds  array.
 type: docs
-weight: 19
+weight: 20
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/
 ---
 

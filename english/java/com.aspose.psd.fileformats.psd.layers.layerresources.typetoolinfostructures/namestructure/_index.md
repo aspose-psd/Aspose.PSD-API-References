@@ -1,29 +1,29 @@
 ---
-title: UnitStructure
+title: NameStructure
 second_title: Aspose.PSD for Java API Reference
-description: The unit structure.
+description: The Name structure key 0x6E616D65 which spells name in ASCII is a simple structure used to store a Unicode or Pascal-style string representing the name of an element such as a layer path or adjustment.
 type: docs
-weight: 28
-url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/
+weight: 19
+url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/namestructure/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure)
 ```
-public final class UnitStructure extends OSTypeStructure
+public final class NameStructure extends OSTypeStructure
 ```
 
-The unit structure.
+The Name structure (key: 0x6E616D65, which spells "name" in ASCII) is a simple structure used to store a Unicode or Pascal-style string representing the name of an element, such as a layer, path, or adjustment.
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [UnitStructure(ClassID keyName)](#UnitStructure-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Initializes a new instance of the [UnitStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure) class. |
+| [NameStructure(ClassID keyName)](#NameStructure-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Initializes a new instance of the [NameStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/namestructure) class. |
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [StructureKey](#StructureKey) | Identifies the structure key. |
+| [StructureKey](#StructureKey) | The Name structure key. |
 ## Methods
 
 | Method | Description |
@@ -33,8 +33,6 @@ The unit structure.
 | [arrangeToDictionary_internalized(OSTypeStructure[] structures, System.Collections.Generic.Dictionary<String,OSTypeStructure> dictionary, String prefix)](#arrangeToDictionary-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.String-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Arranges structures to one dictionary by key name. |
 | [createColorDescriptor_internalized(Color value)](#createColorDescriptor-internalized-com.aspose.psd.Color-) |  |
 | [createColorDescriptor_internalized(Color value, String keyName)](#createColorDescriptor-internalized-com.aspose.psd.Color-java.lang.String-) | Creates the [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) with color value with specified key name. |
-| [create_internalized(ClassID keyName, double value)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-double-) |  |
-| [create_internalized(ClassID keyName, double value, int unitType)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-double-int-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBoolValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getBoolValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the boolean value from structures list by key name. |
 | [getClass()](#getClass--) |  |
@@ -43,15 +41,14 @@ The unit structure.
 | [getCopy_internalized()](#getCopy-internalized--) | Creates the full copy of this structure. |
 | [getHeaderLength()](#getHeaderLength--) | Gets the header length. |
 | [getInt32Value_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getInt32Value-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the int32 value from structures list by key name. |
-| [getKey()](#getKey--) | Gets the structure key. |
+| [getKey()](#getKey--) | Gets the key. |
 | [getKeyName()](#getKeyName--) | Gets or sets the key name. |
 | [getLength()](#getLength--) | Gets the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
 | [getListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getListOfStructuresValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the list of structures value from other structures list by key name. |
 | [getPointDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getPointDoubleValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the PointF value from structures list by key name. |
 | [getRectDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getRectDoubleValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the RectangleF value from structures list by key name. |
 | [getStringValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getStringValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the string value from structures list by key name. |
-| [getUnitType()](#getUnitType--) | Gets or sets the unit type. |
-| [getValue()](#getValue--) | Gets or sets the value. |
+| [getValue()](#getValue--) | Gets or sets the value of a Name structure. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
@@ -61,6 +58,7 @@ The unit structure.
 | [setBoolValue_internalized(boolean value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setBoolValue-internalized-boolean-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the boolean value to structures list by key name. |
 | [setColorValue_internalized(Color value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setColorValue-internalized-com.aspose.psd.Color-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the color value to a structure list by key name. |
 | [setColorValue_internalized(Color value, List<OSTypeStructure> itemsList)](#setColorValue-internalized-com.aspose.psd.Color-java.util.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) |  |
+| [setFirstNameValue_internalized(String value)](#setFirstNameValue-internalized-java.lang.String-) | Gets or sets the first string value of Name structure. |
 | [setInt32Value_internalized(int value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setInt32Value-internalized-int-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the int32 value to structures list by key name. |
 | [setKeyName(ClassID value)](#setKeyName-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets the key name. |
 | [setListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setListOfStructuresValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the list of structures value to other structures list by key name. |
@@ -68,19 +66,18 @@ The unit structure.
 | [setRectDoubleValue_internalized(RectangleF value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setRectDoubleValue-internalized-com.aspose.psd.RectangleF-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the RectangleF value to structures list by key name. |
 | [setStringValue_internalized(String value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setStringValue-internalized-java.lang.String-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the string value to structures list by key name. |
 | [setToList_internalized(OSTypeStructure structure, System.Collections.Generic.List<OSTypeStructure> items)](#setToList-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) | Add or update the structure to input items list. |
-| [setUnitType(int value)](#setUnitType-int-) | Gets or sets the unit type. |
-| [setValue(double value)](#setValue-double-) | Gets or sets the value. |
+| [setValue(String value)](#setValue-java.lang.String-) | Gets or sets the value of a Name structure. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### UnitStructure(ClassID keyName) {#UnitStructure-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
+### NameStructure(ClassID keyName) {#NameStructure-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
 ```
-public UnitStructure(ClassID keyName)
+public NameStructure(ClassID keyName)
 ```
 
 
-Initializes a new instance of the [UnitStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure) class.
+Initializes a new instance of the [NameStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/namestructure) class.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -93,7 +90,7 @@ public static final int StructureKey
 ```
 
 
-Identifies the structure key.
+The Name structure key.
 
 ### <T>findByKeyName_from_placed_internalized(String keyName, PlacedResource container) {#-T-findByKeyName-from-placed-internalized-java.lang.String-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-}
 ```
@@ -179,39 +176,6 @@ Creates the [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.la
 
 **Returns:**
 [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure)
-### create_internalized(ClassID keyName, double value) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-double-}
-```
-public static UnitStructure create_internalized(ClassID keyName, double value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| keyName | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) |  |
-| value | double |  |
-
-**Returns:**
-[UnitStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure)
-### create_internalized(ClassID keyName, double value, int unitType) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-double-int-}
-```
-public static UnitStructure create_internalized(ClassID keyName, double value, int unitType)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| keyName | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) |  |
-| value | double |  |
-| unitType | int |  |
-
-**Returns:**
-[UnitStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure)
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -326,7 +290,7 @@ public int getKey()
 ```
 
 
-Gets the structure key.
+Gets the key.
 
 **Returns:**
 int
@@ -416,30 +380,16 @@ Gets the string value from structures list by key name.
 
 **Returns:**
 java.lang.String - The string value from the structures list if it exists, otherwise the default value.
-### getUnitType() {#getUnitType--}
-```
-public final int getUnitType()
-```
-
-
-Gets or sets the unit type.
-
-Value: The unit type.
-
-**Returns:**
-int
 ### getValue() {#getValue--}
 ```
-public final double getValue()
+public final String getValue()
 ```
 
 
-Gets or sets the value.
-
-Value: The value.
+Gets or sets the value of a Name structure.
 
 **Returns:**
-double
+java.lang.String
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -550,6 +500,19 @@ public static void setColorValue_internalized(Color value, List<OSTypeStructure>
 | value | [Color](../../com.aspose.psd/color) |  |
 | itemsList | java.util.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> |  |
 
+### setFirstNameValue_internalized(String value) {#setFirstNameValue-internalized-java.lang.String-}
+```
+public final void setFirstNameValue_internalized(String value)
+```
+
+
+Gets or sets the first string value of Name structure. It is usually contains end of line symbol.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
 ### setInt32Value_internalized(int value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName) {#setInt32Value-internalized-int-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-}
 ```
 public static void setInt32Value_internalized(int value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)
@@ -654,35 +617,18 @@ Add or update the structure to input items list.
 | structure | [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) | The structure to add update. |
 | items | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The items. |
 
-### setUnitType(int value) {#setUnitType-int-}
+### setValue(String value) {#setValue-java.lang.String-}
 ```
-public final void setUnitType(int value)
+public final void setValue(String value)
 ```
 
 
-Gets or sets the unit type.
-
-Value: The unit type.
+Gets or sets the value of a Name structure.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int |  |
-
-### setValue(double value) {#setValue-double-}
-```
-public final void setValue(double value)
-```
-
-
-Gets or sets the value.
-
-Value: The value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double |  |
+| value | java.lang.String |  |
 
 ### toString() {#toString--}
 ```
