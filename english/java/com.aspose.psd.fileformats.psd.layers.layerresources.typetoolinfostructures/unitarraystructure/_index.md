@@ -3,7 +3,7 @@ title: UnitArrayStructure
 second_title: Aspose.PSD for Java API Reference
 description: Defines the UnitArrayStructure class that holds double values array and their measure unit.
 type: docs
-weight: 26
+weight: 27
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
 

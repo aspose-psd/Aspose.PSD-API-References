@@ -21,6 +21,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostru
 | [EnumeratedReferenceStructure](../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure) | Enumerated reference structure. |
 | [IntegerStructure](../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure) | The integer structure. |
 | [ListStructure](../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) | The list structure. |
+| [NameStructure](../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/namestructure) | The Name structure (key: 0x6E616D65, which spells "name" in ASCII) is a simple structure used to store a Unicode or Pascal-style string representing the name of an element, such as a layer, path, or adjustment. |
 | [ObjectArrayStructure](../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure) | Defines the ObjectArrayStructure class that usually holds [UnitArrayStructure](../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure) array. |
 | [OffsetStructure](../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure) | The offset structure. |
 | [PathStructure](../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure) | The path structure. |

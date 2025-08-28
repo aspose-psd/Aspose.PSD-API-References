@@ -3,7 +3,7 @@ title: RawDataStructure
 second_title: Aspose.PSD for Java API Reference
 description: The raw data structure.
 type: docs
-weight: 23
+weight: 24
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/
 ---
 

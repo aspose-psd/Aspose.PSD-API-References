@@ -3,7 +3,7 @@ title: StringStructure
 second_title: Aspose.PSD for Java API Reference
 description: The string structure.
 type: docs
-weight: 25
+weight: 26
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/
 ---
 

@@ -18,7 +18,7 @@ The Adobe Illustrator (AI) Image
 
 | Constructor | Description |
 | --- | --- |
-| [AiImage()](#AiImage--) |  |
+| [AiImage()](#AiImage--) | Initializes a new instance of the [AiImage](../../com.aspose.psd.fileformats.ai/aiimage) class. |
 ## Fields
 
 | Field | Description |
@@ -45,6 +45,7 @@ The Adobe Illustrator (AI) Image
 | [create(ImageOptionsBase imageOptions, int width, int height)](#create-com.aspose.psd.ImageOptionsBase-int-int-) | Creates a new image using the specified create options. |
 | [create(Image[] images)](#create-com.aspose.psd.Image---) | Creates a new image using the specified images as pages |
 | [create(Image[] images, boolean disposeImages)](#create-com.aspose.psd.Image---boolean-) | Creates a new image the specified images as pages. |
+| [create_internalized(AiContentSource contentSource)](#create-internalized-com.aspose.internal.fileformats.ai.AiContentSource-) |  |
 | [dispose()](#dispose--) | Disposes the current instance. |
 | [doAfterSave_internalized(System.IO.Stream stream)](#doAfterSave-internalized-com.aspose.ms.System.IO.Stream-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
@@ -54,8 +55,6 @@ The Adobe Illustrator (AI) Image
 | [getBitsPerPixel()](#getBitsPerPixel--) | Gets the image bits per pixel count. |
 | [getBounds()](#getBounds--) | Gets the image bounds. |
 | [getBufferSizeHint()](#getBufferSizeHint--) | Gets the buffer size hint which is defined max allowed size for all internal buffers. |
-| [getCanvasSet_internalized()](#getCanvasSet-internalized--) | Gets or sets the canvas set. |
-| [getCanvas_internalized()](#getCanvas-internalized--) | Gets or sets the canvas. |
 | [getClass()](#getClass--) |  |
 | [getContainer()](#getContainer--) | Gets the  Image  container. |
 | [getDataSection()](#getDataSection--) | Gets the data section. |
@@ -63,7 +62,6 @@ The Adobe Illustrator (AI) Image
 | [getDeeplyAdjustPalette_internalized()](#getDeeplyAdjustPalette-internalized--) | Gets the deeply adjust palette. |
 | [getDefaultOptions(Object[] args)](#getDefaultOptions-java.lang.Object---) | Gets the default options. |
 | [getDisposed()](#getDisposed--) | Gets a value indicating whether this instance is disposed. |
-| [getDocument_internalized()](#getDocument-internalized--) | Gets or sets PdfDocument instance. |
 | [getFileFormat()](#getFileFormat--) | Gets a value of file format. |
 | [getFileFormat(System.IO.Stream stream)](#getFileFormat-com.aspose.ms.System.IO.Stream-) | Gets the file format. |
 | [getFileFormat(InputStream stream)](#getFileFormat-java.io.InputStream-) | Gets the file format. |
@@ -76,7 +74,6 @@ The Adobe Illustrator (AI) Image
 | [getInterruptMonitor()](#getInterruptMonitor--) | Gets the interrupt monitor. |
 | [getLayers()](#getLayers--) | Gets the layer sections. |
 | [getMemoryMgr_internalized()](#getMemoryMgr-internalized--) | Gets the memory manager. |
-| [getOperatorStack_internalized()](#getOperatorStack-internalized--) | Gets or sets the PostScript operator stack. |
 | [getOriginalOptions()](#getOriginalOptions--) | Gets the options based on the original file settings. |
 | [getPageCount()](#getPageCount--) | The number of pages. |
 | [getPaintableImage_internalized(ImageOptionsBase paintableOptions)](#getPaintableImage-internalized-com.aspose.psd.ImageOptionsBase-) | Gets the paintable image. |
@@ -84,7 +81,6 @@ The Adobe Illustrator (AI) Image
 | [getPrivateFontCache_internalized()](#getPrivateFontCache-internalized--) | Creates the private font cache. |
 | [getProgressEventHandler()](#getProgressEventHandler--) | Gets the progress event handler information. |
 | [getProgressEventHandlerInfo()](#getProgressEventHandlerInfo--) | Gets the progress event handler information. |
-| [getPrologSection_internalized()](#getPrologSection-internalized--) | Gets or sets the prolog section. |
 | [getProportionalHeight(int width, int height, int newWidth)](#getProportionalHeight-int-int-int-) | Gets a proportional height. |
 | [getProportionalWidth(int width, int height, int newHeight)](#getProportionalWidth-int-int-int-) | Gets a proportional width. |
 | [getSetupSection()](#getSetupSection--) | Gets the setup section. |
@@ -94,7 +90,7 @@ The Adobe Illustrator (AI) Image
 | [getVentureLicense_internalized()](#getVentureLicense-internalized--) | Gets the venture license. |
 | [getVersion()](#getVersion--) | Gets the version of Adobe Illustrator format. |
 | [getWidth()](#getWidth--) | Gets the image width. |
-| [getXmpData()](#getXmpData--) | Gets or sets the XMP metadata. |
+| [getXmpData()](#getXmpData--) | Gets the XMP metadata. |
 | [hasBackgroundColor()](#hasBackgroundColor--) | Gets a value indicating whether image has background color. |
 | [hasImageChanged_internalized()](#hasImageChanged-internalized--) | Gets or sets a value indicating whether this instance of image has changed after loading. |
 | [hashCode()](#hashCode--) |  |
@@ -144,26 +140,16 @@ The Adobe Illustrator (AI) Image
 | [setBackgroundColor(boolean value)](#setBackgroundColor-boolean-) | Gets or sets a value indicating whether image has background color. |
 | [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.psd.Color-) | Gets or sets a value for the background color. |
 | [setBufferSizeHint(int value)](#setBufferSizeHint-int-) | Sets the buffer size hint which is defined max allowed size for all internal buffers. |
-| [setCanvasSet_internalized(ICanvas[] value)](#setCanvasSet-internalized-com.aspose.internal.fileformats.core.vectordrawer.ICanvas---) | Gets or sets the canvas set. |
-| [setCanvas_internalized(ICanvas value)](#setCanvas-internalized-com.aspose.internal.fileformats.core.vectordrawer.ICanvas-) | Gets or sets the canvas. |
 | [setContainer_internalized(Image container)](#setContainer-internalized-com.aspose.psd.Image-) | Sets the  Image  container. |
-| [setDataSection(AiDataSection value)](#setDataSection-com.aspose.psd.fileformats.ai.AiDataSection-) | Gets the data section. |
 | [setDataStreamContainer(StreamContainer value)](#setDataStreamContainer-com.aspose.psd.StreamContainer-) | Sets the object's data stream. |
-| [setDocument_internalized(PdfDocument value)](#setDocument-internalized-com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument-) | Gets or sets PdfDocument instance. |
-| [setFinalizeSection(AiFinalizeSection value)](#setFinalizeSection-com.aspose.psd.fileformats.ai.AiFinalizeSection-) | Gets the finalize section. |
-| [setHeader(AiHeader value)](#setHeader-com.aspose.psd.fileformats.ai.AiHeader-) | Gets the header. |
 | [setIgnoreAfterSave_internalized(boolean value)](#setIgnoreAfterSave-internalized-boolean-) | Sets a value indicating whether [ignore after save]. |
 | [setImageChanged_internalized(boolean value)](#setImageChanged-internalized-boolean-) | Gets or sets a value indicating whether this instance of image has changed after loading. |
 | [setInterruptMonitor(InterruptMonitor value)](#setInterruptMonitor-com.aspose.psd.multithreading.InterruptMonitor-) | Sets the interrupt monitor. |
 | [setMemoryManager_internalized(MemMgr memoryManager, boolean needDispose)](#setMemoryManager-internalized-com.aspose.internal.memorymanagement.MemMgr-boolean-) | Sets the memory manager. |
-| [setOperatorStack_internalized(OperatorStack value)](#setOperatorStack-internalized-com.aspose.internal.fileformats.ai.postscript.operators.OperatorStack-) | Gets or sets the PostScript operator stack. |
 | [setPalette(IColorPalette value)](#setPalette-com.aspose.psd.IColorPalette-) | Sets the color palette. |
 | [setPalette(IColorPalette palette, boolean updateColors)](#setPalette-com.aspose.psd.IColorPalette-boolean-) | Sets the image palette. |
-| [setPrologSection_internalized(AiSetupSection value)](#setPrologSection-internalized-com.aspose.psd.fileformats.ai.AiSetupSection-) | Gets or sets the prolog section. |
-| [setRenderedImage_internalized(RasterImage value)](#setRenderedImage-internalized-com.aspose.psd.RasterImage-) | Gets or sets the rendered image. |
-| [setSetupSection(AiSetupSection value)](#setSetupSection-com.aspose.psd.fileformats.ai.AiSetupSection-) | Gets the setup section. |
+| [setRenderedImage_internalized(RasterImage value)](#setRenderedImage-internalized-com.aspose.psd.RasterImage-) | Gets the rendered image. |
 | [setVentureLicense_internalized(Object ventureLicense)](#setVentureLicense-internalized-java.lang.Object-) | All Aspose products should implement this method. |
-| [setVersion(int value)](#setVersion-int-) | Gets the version of Adobe Illustrator format. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -173,6 +159,8 @@ The Adobe Illustrator (AI) Image
 public AiImage()
 ```
 
+
+Initializes a new instance of the [AiImage](../../com.aspose.psd.fileformats.ai/aiimage) class.
 
 ### OnCreate_internalized {#OnCreate-internalized}
 ```
@@ -359,7 +347,7 @@ Converts to aps.
 | clippingRectangle | [Rectangle](../../com.aspose.psd/rectangle) | The clipping rectangle. |
 
 **Returns:**
-com.aspose.foundation.rendering.ApsPage - 
+com.aspose.foundation.rendering.ApsPage - ApsPage instance.
 ### create(ImageOptionsBase imageOptions, int width, int height) {#create-com.aspose.psd.ImageOptionsBase-int-int-}
 ```
 public static Image create(ImageOptionsBase imageOptions, int width, int height)
@@ -408,6 +396,21 @@ Creates a new image the specified images as pages.
 
 **Returns:**
 [Image](../../com.aspose.psd/image) - The Image as IMultipageImage
+### create_internalized(AiContentSource contentSource) {#create-internalized-com.aspose.internal.fileformats.ai.AiContentSource-}
+```
+public static AiImage create_internalized(AiContentSource contentSource)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| contentSource | com.aspose.internal.fileformats.ai.AiContentSource |  |
+
+**Returns:**
+[AiImage](../../com.aspose.psd.fileformats.ai/aiimage)
 ### dispose() {#dispose--}
 ```
 public final void dispose()
@@ -451,6 +454,8 @@ public final int getActivePageIndex()
 
 
 Gets or sets the index of the active page.
+
+Value: This property is only actual for PDF format AI image. If the image is not in PDF format or there are no pages, the property will be -1. This property shows which page of AI image will be the base for rendering.
 
 **Returns:**
 int
@@ -508,30 +513,6 @@ Value: The buffer size hint, in megabytes. Non-positive value means no memory li
 
 **Returns:**
 int - the buffer size hint which is defined max allowed size for all internal buffers.
-### getCanvasSet_internalized() {#getCanvasSet-internalized--}
-```
-public final ICanvas[] getCanvasSet_internalized()
-```
-
-
-Gets or sets the canvas set.
-
-Value: This property contains different canvases of different AI image pages.
-
-**Returns:**
-com.aspose.internal.fileformats.core.vectordrawer.ICanvas[]
-### getCanvas_internalized() {#getCanvas-internalized--}
-```
-public final ICanvas getCanvas_internalized()
-```
-
-
-Gets or sets the canvas.
-
-Value: The canvas.
-
-**Returns:**
-com.aspose.internal.fileformats.core.vectordrawer.ICanvas
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -613,16 +594,6 @@ Gets a value indicating whether this instance is disposed.
 
 **Returns:**
 boolean -  true  if disposed; otherwise,  false .
-### getDocument_internalized() {#getDocument-internalized--}
-```
-public final PdfDocument getDocument_internalized()
-```
-
-
-Gets or sets PdfDocument instance. Provides Ai format functionality.
-
-**Returns:**
-com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument
 ### getFileFormat() {#getFileFormat--}
 ```
 public long getFileFormat()
@@ -791,18 +762,6 @@ Value: The memory manager.
 
 **Returns:**
 com.aspose.internal.memorymanagement.MemMgr - the memory manager.
-### getOperatorStack_internalized() {#getOperatorStack-internalized--}
-```
-public final OperatorStack getOperatorStack_internalized()
-```
-
-
-Gets or sets the PostScript operator stack.
-
-Value: The operator stack.
-
-**Returns:**
-com.aspose.internal.fileformats.ai.postscript.operators.OperatorStack
 ### getOriginalOptions() {#getOriginalOptions--}
 ```
 public ImageOptionsBase getOriginalOptions()
@@ -882,18 +841,6 @@ Value: The progress event handler information.
 
 **Returns:**
 [ProgressEventHandlerInfo](../../com.aspose.psd.progressmanagement/progresseventhandlerinfo) - the progress event handler information.
-### getPrologSection_internalized() {#getPrologSection-internalized--}
-```
-public final AiSetupSection getPrologSection_internalized()
-```
-
-
-Gets or sets the prolog section.
-
-Value: The prolog section.
-
-**Returns:**
-[AiSetupSection](../../com.aspose.psd.fileformats.ai/aisetupsection)
 ### getProportionalHeight(int width, int height, int newWidth) {#getProportionalHeight-int-int-int-}
 ```
 public static int getProportionalHeight(int width, int height, int newWidth)
@@ -1012,7 +959,7 @@ public final XmpPacketWrapper getXmpData()
 ```
 
 
-Gets or sets the XMP metadata.
+Gets the XMP metadata.
 
 Value: The XMP data.
 
@@ -1619,6 +1566,8 @@ public final void setActivePageIndex(int value)
 
 Gets or sets the index of the active page.
 
+Value: This property is only actual for PDF format AI image. If the image is not in PDF format or there are no pages, the property will be -1. This property shows which page of AI image will be the base for rendering.
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -1678,36 +1627,6 @@ Value: The buffer size hint, in megabytes. Non-positive value means no memory li
 | --- | --- | --- |
 | value | int | the buffer size hint which is defined max allowed size for all internal buffers. |
 
-### setCanvasSet_internalized(ICanvas[] value) {#setCanvasSet-internalized-com.aspose.internal.fileformats.core.vectordrawer.ICanvas---}
-```
-public final void setCanvasSet_internalized(ICanvas[] value)
-```
-
-
-Gets or sets the canvas set.
-
-Value: This property contains different canvases of different AI image pages.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.internal.fileformats.core.vectordrawer.ICanvas[] |  |
-
-### setCanvas_internalized(ICanvas value) {#setCanvas-internalized-com.aspose.internal.fileformats.core.vectordrawer.ICanvas-}
-```
-public final void setCanvas_internalized(ICanvas value)
-```
-
-
-Gets or sets the canvas.
-
-Value: The canvas.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.internal.fileformats.core.vectordrawer.ICanvas |  |
-
 ### setContainer_internalized(Image container) {#setContainer-internalized-com.aspose.psd.Image-}
 ```
 public void setContainer_internalized(Image container)
@@ -1721,21 +1640,6 @@ Sets the  Image  container.
 | --- | --- | --- |
 | container | [Image](../../com.aspose.psd/image) | The  Image  container. |
 
-### setDataSection(AiDataSection value) {#setDataSection-com.aspose.psd.fileformats.ai.AiDataSection-}
-```
-public final void setDataSection(AiDataSection value)
-```
-
-
-Gets the data section.
-
-Value: The data section.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [AiDataSection](../../com.aspose.psd.fileformats.ai/aidatasection) |  |
-
 ### setDataStreamContainer(StreamContainer value) {#setDataStreamContainer-com.aspose.psd.StreamContainer-}
 ```
 public void setDataStreamContainer(StreamContainer value)
@@ -1748,49 +1652,6 @@ Sets the object's data stream.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [StreamContainer](../../com.aspose.psd/streamcontainer) | The object's data stream. |
-
-### setDocument_internalized(PdfDocument value) {#setDocument-internalized-com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument-}
-```
-public final void setDocument_internalized(PdfDocument value)
-```
-
-
-Gets or sets PdfDocument instance. Provides Ai format functionality.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.internal.fileformats.ai.pdfbasedai.document.PdfDocument |  |
-
-### setFinalizeSection(AiFinalizeSection value) {#setFinalizeSection-com.aspose.psd.fileformats.ai.AiFinalizeSection-}
-```
-public final void setFinalizeSection(AiFinalizeSection value)
-```
-
-
-Gets the finalize section.
-
-Value: The finalize section.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [AiFinalizeSection](../../com.aspose.psd.fileformats.ai/aifinalizesection) |  |
-
-### setHeader(AiHeader value) {#setHeader-com.aspose.psd.fileformats.ai.AiHeader-}
-```
-public final void setHeader(AiHeader value)
-```
-
-
-Gets the header.
-
-Value: The header.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [AiHeader](../../com.aspose.psd.fileformats.ai/aiheader) |  |
 
 ### setIgnoreAfterSave_internalized(boolean value) {#setIgnoreAfterSave-internalized-boolean-}
 ```
@@ -1845,21 +1706,6 @@ Sets the memory manager.
 | memoryManager | com.aspose.internal.memorymanagement.MemMgr | The memory manager. |
 | needDispose | boolean | if set to  true  [need dispose]. |
 
-### setOperatorStack_internalized(OperatorStack value) {#setOperatorStack-internalized-com.aspose.internal.fileformats.ai.postscript.operators.OperatorStack-}
-```
-public final void setOperatorStack_internalized(OperatorStack value)
-```
-
-
-Gets or sets the PostScript operator stack.
-
-Value: The operator stack.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.internal.fileformats.ai.postscript.operators.OperatorStack |  |
-
 ### setPalette(IColorPalette value) {#setPalette-com.aspose.psd.IColorPalette-}
 ```
 public void setPalette(IColorPalette value)
@@ -1887,28 +1733,13 @@ Sets the image palette.
 | palette | [IColorPalette](../../com.aspose.psd/icolorpalette) | The palette to set. |
 | updateColors | boolean | if set to  true  colors will be updated according to the new palette; otherwise color indexes remain unchanged. Note that unchanged indexes may crash the image on loading if some indexes have no corresponding palette entries. |
 
-### setPrologSection_internalized(AiSetupSection value) {#setPrologSection-internalized-com.aspose.psd.fileformats.ai.AiSetupSection-}
-```
-public final void setPrologSection_internalized(AiSetupSection value)
-```
-
-
-Gets or sets the prolog section.
-
-Value: The prolog section.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [AiSetupSection](../../com.aspose.psd.fileformats.ai/aisetupsection) |  |
-
 ### setRenderedImage_internalized(RasterImage value) {#setRenderedImage-internalized-com.aspose.psd.RasterImage-}
 ```
 public final void setRenderedImage_internalized(RasterImage value)
 ```
 
 
-Gets or sets the rendered image.
+Gets the rendered image.
 
 Value: The rendered image.
 
@@ -1916,21 +1747,6 @@ Value: The rendered image.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [RasterImage](../../com.aspose.psd/rasterimage) |  |
-
-### setSetupSection(AiSetupSection value) {#setSetupSection-com.aspose.psd.fileformats.ai.AiSetupSection-}
-```
-public final void setSetupSection(AiSetupSection value)
-```
-
-
-Gets the setup section.
-
-Value: The setup section.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [AiSetupSection](../../com.aspose.psd.fileformats.ai/aisetupsection) |  |
 
 ### setVentureLicense_internalized(Object ventureLicense) {#setVentureLicense-internalized-java.lang.Object-}
 ```
@@ -1943,22 +1759,7 @@ All Aspose products should implement this method. It is called by a GroupDocs pr
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ventureLicense | java.lang.Object |  |
-
-### setVersion(int value) {#setVersion-int-}
-```
-public final void setVersion(int value)
-```
-
-
-Gets the version of Adobe Illustrator format.
-
-Value: The version.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int |  |
+| ventureLicense | java.lang.Object | Venture license object. |
 
 ### toString() {#toString--}
 ```
