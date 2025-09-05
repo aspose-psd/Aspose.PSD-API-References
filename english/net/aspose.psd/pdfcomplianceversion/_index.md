@@ -3,7 +3,7 @@ title: Enum PdfComplianceVersion
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.PdfComplianceVersion enum. Specifies the PDF compliance level to output file
 type: docs
-weight: 5610
+weight: 5620
 url: /net/aspose.psd/pdfcomplianceversion/
 ---
 {{< psd/tize >}}

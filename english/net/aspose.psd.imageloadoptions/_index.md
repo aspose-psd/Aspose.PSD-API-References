@@ -16,5 +16,10 @@ The namespace contains different file format load options.
 | [Jpeg2000LoadOptions](./jpeg2000loadoptions/) | JPEG2000 load options |
 | [PngLoadOptions](./pngloadoptions/) | The png load options. |
 | [PsdLoadOptions](./psdloadoptions/) | Psd load options |
+## Enumeration
+
+| Enumeration | Description |
+| --- | --- |
+| [ReadOnlyMode](./readonlymode/) | Specifies the read-only modes available when loading a PSD image. |
 
 

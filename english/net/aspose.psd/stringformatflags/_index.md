@@ -3,7 +3,7 @@ title: Enum StringFormatFlags
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.StringFormatFlags enum. Specifies the display and layout information for text strings
 type: docs
-weight: 6110
+weight: 6120
 url: /net/aspose.psd/stringformatflags/
 ---
 {{< psd/tize >}}

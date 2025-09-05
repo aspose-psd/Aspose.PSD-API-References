@@ -3,7 +3,7 @@ title: Class Jpeg2000Options
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.Jpeg2000Options class. The Jpeg2000 file format options
 type: docs
-weight: 5250
+weight: 5260
 url: /net/aspose.psd.imageoptions/jpeg2000options/
 ---
 {{< psd/tize >}}

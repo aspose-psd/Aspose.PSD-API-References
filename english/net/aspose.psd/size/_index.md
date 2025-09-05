@@ -3,7 +3,7 @@ title: Struct Size
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Size struct. Represents size
 type: docs
-weight: 5980
+weight: 5990
 url: /net/aspose.psd/size/
 ---
 {{< psd/tize >}}
