@@ -3,7 +3,7 @@ title: Class XmpReal
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Basic.XmpReal class. Represents XMP Real
 type: docs
-weight: 6400
+weight: 6410
 url: /net/aspose.psd.xmp.types.basic/xmpreal/
 ---
 {{< psd/tize >}}

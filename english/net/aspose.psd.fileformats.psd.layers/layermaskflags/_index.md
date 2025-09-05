@@ -24,7 +24,8 @@ public enum LayerMaskFlags : byte
 | RelativeToLayer | `1` | Position is relative to layer. |
 | Disabled | `2` | Layer mask is disabled. |
 | InvertedWhenBlending | `4` | Invert layer mask when blending. |
-| UserMaskFromRenderingOtherData | `8` | Indicates that the user mask actually came from rendering other data |
+| UserMaskFromRenderingOtherData | `8` | Indicates that the user mask actually came from rendering other data. |
+| UserOrVectorMasksHaveParameters | `10` | Indicates that the user and/or vector masks have parameters applied to them. |
 
 ### See Also
 
