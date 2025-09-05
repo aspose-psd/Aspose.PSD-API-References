@@ -3,7 +3,7 @@ title: Class FileOpenSource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Sources.FileOpenSource class. Represents a file source for opening
 type: docs
-weight: 6030
+weight: 6040
 url: /net/aspose.psd.sources/fileopensource/
 ---
 {{< psd/tize >}}

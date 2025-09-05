@@ -3,7 +3,7 @@ title: Class OpenTypeFontsCache
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.OpenTypeFontsCache class. Cache for OpenType fonts that are installed in the system
 type: docs
-weight: 5590
+weight: 5600
 url: /net/aspose.psd/opentypefontscache/
 ---
 {{< psd/tize >}}

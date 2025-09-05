@@ -3,7 +3,7 @@ title: Enum MultiPageMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.MultiPageMode enum. Represents multipage mode
 type: docs
-weight: 5270
+weight: 5280
 url: /net/aspose.psd.imageoptions/multipagemode/
 ---
 {{< psd/tize >}}
