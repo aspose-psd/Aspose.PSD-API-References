@@ -207,6 +207,7 @@ The text layer class
 | [hashCode()](#hashCode--) | Returns a hash code for this instance. |
 | [incrementProgressMaxValue_internalized(int value)](#incrementProgressMaxValue-internalized-int-) | Gets or sets the progress max value |
 | [indicateProgress_internalized(EventType eventType)](#indicateProgress-internalized-com.aspose.psd.progressmanagement.EventType-) | Indicates the progress. |
+| [insertResource_internalized(int index, LayerResource resource)](#insertResource-internalized-int-com.aspose.psd.fileformats.psd.layers.LayerResource-) | Insert a resource to the Resources collection. |
 | [isCached()](#isCached--) | Gets a value indicating whether image data is cached currently. |
 | [isFontAvailable_internalized(Font font, GetPrivateFontCache getPrivateFontCache)](#isFontAvailable-internalized-com.aspose.psd.Font-com.aspose.internal.GetPrivateFontCache-) | Determines whether [is font available] [the specified font]. |
 | [isLayerValid_internalized()](#isLayerValid-internalized--) | Detects if layer is valid for saving to a file. |
@@ -2605,6 +2606,20 @@ Indicates the progress.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | eventType | [EventType](../../com.aspose.psd.progressmanagement/eventtype) |  |
+
+### insertResource_internalized(int index, LayerResource resource) {#insertResource-internalized-int-com.aspose.psd.fileformats.psd.layers.LayerResource-}
+```
+public final void insertResource_internalized(int index, LayerResource resource)
+```
+
+
+Insert a resource to the Resources collection.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int | Index of the resource that should be inserted. |
+| resource | [LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource) | The resource that should be inserted. |
 
 ### isCached() {#isCached--}
 ```
