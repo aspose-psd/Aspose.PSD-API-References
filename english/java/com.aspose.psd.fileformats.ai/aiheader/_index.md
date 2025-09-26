@@ -18,6 +18,7 @@ The Adobe illustrator File Header
 
 | Method | Description |
 | --- | --- |
+| [create_internalized()](#create-internalized--) |  |
 | [create_internalized(String headerData)](#create-internalized-java.lang.String-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBoundingBox()](#getBoundingBox--) | Gets or sets the bounding box. |
@@ -52,6 +53,16 @@ The Adobe illustrator File Header
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### create_internalized() {#create-internalized--}
+```
+public static AiHeader create_internalized()
+```
+
+
+
+
+**Returns:**
+[AiHeader](../../com.aspose.psd.fileformats.ai/aiheader)
 ### create_internalized(String headerData) {#create-internalized-java.lang.String-}
 ```
 public static AiHeader create_internalized(String headerData)

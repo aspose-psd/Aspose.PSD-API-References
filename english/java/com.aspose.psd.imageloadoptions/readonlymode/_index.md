@@ -1,30 +1,27 @@
 ---
-title: LayerMaskFlags
+title: ReadOnlyMode
 second_title: Aspose.PSD for Java API Reference
-description: The layer mask flags
+description: Specifies the read-only modes available when loading a PSD image.
 type: docs
-weight: 24
-url: /java/com.aspose.psd.fileformats.psd.layers/layermaskflags/
+weight: 13
+url: /java/com.aspose.psd.imageloadoptions/readonlymode/
 ---
 
 **Inheritance:**
 java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
 ```
-public final class LayerMaskFlags extends System.Enum
+public final class ReadOnlyMode extends System.Enum
 ```
 
-The layer mask flags
+Specifies the read-only modes available when loading a PSD image.
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Disabled](#Disabled) | Layer mask is disabled. |
+| [Default](#Default) | Default mode. |
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
-| [InvertedWhenBlending](#InvertedWhenBlending) | Invert layer mask when blending. |
-| [None](#None) | No flags defined. |
-| [RelativeToLayer](#RelativeToLayer) | Position is relative to layer. |
-| [UserMaskFromRenderingOtherData](#UserMaskFromRenderingOtherData) | Indicates that the user mask actually came from rendering other data. |
-| [UserOrVectorMasksHaveParameters](#UserOrVectorMasksHaveParameters) | Indicates that the user and/or vector masks have parameters applied to them. |
+| [MetadataEdit](#MetadataEdit) | Allows editing of image metadata while keeping image content read-only. |
+| [None](#None) | No read-only restrictions are applied. |
 ## Methods
 
 | Method | Description |
@@ -69,13 +66,13 @@ The layer mask flags
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Disabled {#Disabled}
+### Default {#Default}
 ```
-public static final byte Disabled
+public static final int Default
 ```
 
 
-Layer mask is disabled.
+Default mode. The image is fully read-only and cannot be modified.
 
 ### EnumSeparatorCharArray {#EnumSeparatorCharArray}
 ```
@@ -83,45 +80,21 @@ public static final char[] EnumSeparatorCharArray
 ```
 
 
-### InvertedWhenBlending {#InvertedWhenBlending}
+### MetadataEdit {#MetadataEdit}
 ```
-public static final byte InvertedWhenBlending
+public static final int MetadataEdit
 ```
 
 
-Invert layer mask when blending.
+Allows editing of image metadata while keeping image content read-only.
 
 ### None {#None}
 ```
-public static final byte None
+public static final int None
 ```
 
 
-No flags defined.
-
-### RelativeToLayer {#RelativeToLayer}
-```
-public static final byte RelativeToLayer
-```
-
-
-Position is relative to layer.
-
-### UserMaskFromRenderingOtherData {#UserMaskFromRenderingOtherData}
-```
-public static final byte UserMaskFromRenderingOtherData
-```
-
-
-Indicates that the user mask actually came from rendering other data.
-
-### UserOrVectorMasksHaveParameters {#UserOrVectorMasksHaveParameters}
-```
-public static final byte UserOrVectorMasksHaveParameters
-```
-
-
-Indicates that the user and/or vector masks have parameters applied to them.
+No read-only restrictions are applied. The image can be fully modified.
 
 ### Clone() {#Clone--}
 ```

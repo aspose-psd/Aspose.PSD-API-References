@@ -41,6 +41,7 @@ Psd load options
 | [getLoadEffectsResource()](#getLoadEffectsResource--) | Gets or sets a value indicating whether [load effects resource] (by default resource is not loaded). |
 | [getProgressEventHandler()](#getProgressEventHandler--) | Gets the progress event handler. |
 | [getReadOnlyMode()](#getReadOnlyMode--) | Gets or sets a value indicating whether [use read only mode]. |
+| [getReadOnlyType()](#getReadOnlyType--) | Gets or sets the read-only mode used when loading a PSD image. |
 | [getUseDiskForLoadEffectsResource()](#getUseDiskForLoadEffectsResource--) | Gets or sets a value indicating whether [use disk for load effects resource] (by default used disk to load effects resource, but can be used memory if it is enought by setting this value to false). |
 | [getUseIccProfileConversion()](#getUseIccProfileConversion--) | Gets a value indicating whether ICC profile conversion should be applied. |
 | [getVentureLicense_internalized()](#getVentureLicense-internalized--) | This is part of the venture licensing pattern. |
@@ -59,6 +60,7 @@ Psd load options
 | [setMemMgr_internalized(MemMgr value)](#setMemMgr-internalized-com.aspose.internal.memorymanagement.MemMgr-) | Gets or sets the memory MGR. |
 | [setProgressEventHandler(ProgressEventHandler value)](#setProgressEventHandler-com.aspose.psd.ProgressEventHandler-) | Sets the progress event handler. |
 | [setReadOnlyMode(boolean value)](#setReadOnlyMode-boolean-) | Gets or sets a value indicating whether [use read only mode]. |
+| [setReadOnlyType(int value)](#setReadOnlyType-int-) | Gets or sets the read-only mode used when loading a PSD image. |
 | [setUseDiskForLoadEffectsResource(boolean value)](#setUseDiskForLoadEffectsResource-boolean-) | Gets or sets a value indicating whether [use disk for load effects resource] (by default used disk to load effects resource, but can be used memory if it is enought by setting this value to false). |
 | [setUseIccProfileConversion(boolean value)](#setUseIccProfileConversion-boolean-) | Sets a value indicating whether ICC profile conversion should be applied. |
 | [setVentureLicense_internalized(Object value)](#setVentureLicense-internalized-java.lang.Object-) | This is part of the venture licensing pattern. |
@@ -235,6 +237,22 @@ Value:  true  if [use photoshop compatibility mode]; otherwise,  false .
 
 **Returns:**
 boolean
+### getReadOnlyType() {#getReadOnlyType--}
+```
+public final int getReadOnlyType()
+```
+
+
+Gets or sets the read-only mode used when loading a PSD image.
+
+Value: One of the  ReadOnlyMode ([.getReadOnlyMode](../../null/\#getReadOnlyMode)/[.setReadOnlyMode(boolean)](../../null/\#setReadOnlyMode-boolean-)) values:
+
+ *  
+ *  
+ *  
+
+**Returns:**
+int
 ### getUseDiskForLoadEffectsResource() {#getUseDiskForLoadEffectsResource--}
 ```
 public final boolean getUseDiskForLoadEffectsResource()
@@ -466,6 +484,25 @@ Value:  true  if [use photoshop compatibility mode]; otherwise,  false .
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### setReadOnlyType(int value) {#setReadOnlyType-int-}
+```
+public final void setReadOnlyType(int value)
+```
+
+
+Gets or sets the read-only mode used when loading a PSD image.
+
+Value: One of the  ReadOnlyMode ([.getReadOnlyMode](../../null/\#getReadOnlyMode)/[.setReadOnlyMode(boolean)](../../null/\#setReadOnlyMode-boolean-)) values:
+
+ *  
+ *  
+ *  
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### setUseDiskForLoadEffectsResource(boolean value) {#setUseDiskForLoadEffectsResource-boolean-}
 ```
