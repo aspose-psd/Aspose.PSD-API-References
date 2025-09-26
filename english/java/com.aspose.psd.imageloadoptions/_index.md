@@ -18,3 +18,4 @@ The package contains different file format load options.
 | [Jpeg2000LoadOptions](../com.aspose.psd.imageloadoptions/jpeg2000loadoptions) | JPEG2000 load options |
 | [PngLoadOptions](../com.aspose.psd.imageloadoptions/pngloadoptions) | The png load options. |
 | [PsdLoadOptions](../com.aspose.psd.imageloadoptions/psdloadoptions) | Psd load options |
+| [ReadOnlyMode](../com.aspose.psd.imageloadoptions/readonlymode) | Specifies the read-only modes available when loading a PSD image. |
