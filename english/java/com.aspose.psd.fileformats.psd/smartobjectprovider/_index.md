@@ -27,21 +27,20 @@ Defines the smart object provider that provides getting / setting data sources f
 | [getContentType_internalized(System.Guid uniqueId)](#getContentType-internalized-com.aspose.ms.System.Guid-) | Gets the type of the smart object layer content. |
 | [getContents_internalized(System.Guid uniqueId)](#getContents-internalized-com.aspose.ms.System.Guid-) | Gets the embedded or linked file contents. |
 | [getDataSource_internalized(System.Guid uniqueId)](#getDataSource-internalized-com.aspose.ms.System.Guid-) | Gets the link data source by unique id. |
-| [getLayersForUpdateContents_internalized()](#getLayersForUpdateContents-internalized--) | It gets or sets layer when contents must be changed |
 | [hashCode()](#hashCode--) |  |
 | [loadContents_internalized(System.Guid uniqueId, LoadOptions options)](#loadContents-internalized-com.aspose.ms.System.Guid-com.aspose.psd.LoadOptions-) | Loads the contents. |
 | [newSmartObjectViaCopy(SmartObjectLayer sourceLayer)](#newSmartObjectViaCopy-com.aspose.psd.fileformats.psd.layers.smartobjects.SmartObjectLayer-) | Creates a new smart object layer by coping the source one. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [removeOrphanedDataSources_internalized(System.Collections.Generic.List<System.Guid> actualDataSources)](#removeOrphanedDataSources-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.ms.System.Guid--) | Removes data sources from embedded and external resources that are not present in the provided list of valid GUIDs. |
-| [replaceContents_internalized(System.Guid oldUniqueId, byte[] contents)](#replaceContents-internalized-com.aspose.ms.System.Guid-byte---) | Replaces the contents with the provided contents to embed. |
-| [replaceContents_internalized(PlacedResource placedResource, String linkedPath)](#replaceContents-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-) |  |
-| [replaceContents_internalized(PlacedResource placedResource, String linkedPath, boolean isReplaceOnlyThis)](#replaceContents-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-boolean-) | Replaces the contents with the provided external file. |
+| [replaceDataSource_internalized(System.Guid oldUniqueId, byte[] contents)](#replaceDataSource-internalized-com.aspose.ms.System.Guid-byte---) | Replaces the data source in the global resources with the provided contents to embed. |
+| [replaceDataSource_internalized(PlacedResource placedResource, String linkedPath)](#replaceDataSource-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-) |  |
+| [replaceDataSource_internalized(PlacedResource placedResource, String linkedPath, boolean isReplaceOnlyThis)](#replaceDataSource-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-boolean-) | Replaces the data source in a global LinkResource resources with the newly created data source from external file. |
 | [setContents_internalized(System.Guid uniqueId, byte[] data, String fileType)](#setContents-internalized-com.aspose.ms.System.Guid-byte---java.lang.String-) | Sets the embedded or external file contents. |
 | [setDataSource(LinkDataSource dataSource)](#setDataSource-com.aspose.psd.fileformats.psd.layers.layerresources.linkresources.LinkDataSource-) | Sets (replaces or adds) the link data source in the global link resource. |
-| [setLayersForUpdateContents_internalized(System.Collections.Generic.List<SmartObjectLayer> value)](#setLayersForUpdateContents-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.smartobjects.SmartObjectLayer--) | It gets or sets layer when contents must be changed |
 | [toString()](#toString--) |  |
 | [updateAllModifiedContent()](#updateAllModifiedContent--) | Updates the content of all modified smart objects in the image. |
+| [updateDuplicateLayers_internalized(System.Guid oldGuid, System.Guid newGuid, ResolutionSetting resolution)](#updateDuplicateLayers-internalized-com.aspose.ms.System.Guid-com.aspose.ms.System.Guid-com.aspose.psd.ResolutionSetting-) | Updates all smart object layers within the container whose  UniqueId  matches  oldGuid . |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -170,16 +169,6 @@ Gets the link data source by unique id.
 
 **Returns:**
 [LinkDataSource](../../com.aspose.psd.fileformats.psd.layers.layerresources.linkresources/linkdatasource) - The [LinkDataSource](../../com.aspose.psd.fileformats.psd.layers.layerresources.linkresources/linkdatasource) instance.
-### getLayersForUpdateContents_internalized() {#getLayersForUpdateContents-internalized--}
-```
-public final System.Collections.Generic.List<SmartObjectLayer> getLayersForUpdateContents_internalized()
-```
-
-
-It gets or sets layer when contents must be changed
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.smartobjects.SmartObjectLayer>
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -250,25 +239,25 @@ Removes data sources from embedded and external resources that are not present i
 | --- | --- | --- |
 | actualDataSources | com.aspose.ms.System.Collections.Generic.List<com.aspose.ms.System.Guid> | The list of valid data source GUIDs to retain. Data sources not in this list will be removed. |
 
-### replaceContents_internalized(System.Guid oldUniqueId, byte[] contents) {#replaceContents-internalized-com.aspose.ms.System.Guid-byte---}
+### replaceDataSource_internalized(System.Guid oldUniqueId, byte[] contents) {#replaceDataSource-internalized-com.aspose.ms.System.Guid-byte---}
 ```
-public final System.Guid replaceContents_internalized(System.Guid oldUniqueId, byte[] contents)
+public final System.Guid replaceDataSource_internalized(System.Guid oldUniqueId, byte[] contents)
 ```
 
 
-Replaces the contents with the provided contents to embed.
+Replaces the data source in the global resources with the provided contents to embed.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | oldUniqueId | com.aspose.ms.System.Guid | The unique identifier of the existing data source. |
-| contents | byte[] | The contents. |
+| contents | byte[] | The data for a new data source. |
 
 **Returns:**
 com.aspose.ms.System.Guid - The unique identifier of the created embedded data source.  LiFdDataSource .
-### replaceContents_internalized(PlacedResource placedResource, String linkedPath) {#replaceContents-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-}
+### replaceDataSource_internalized(PlacedResource placedResource, String linkedPath) {#replaceDataSource-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-}
 ```
-public final System.Guid replaceContents_internalized(PlacedResource placedResource, String linkedPath)
+public final System.Guid replaceDataSource_internalized(PlacedResource placedResource, String linkedPath)
 ```
 
 
@@ -282,13 +271,13 @@ public final System.Guid replaceContents_internalized(PlacedResource placedResou
 
 **Returns:**
 com.aspose.ms.System.Guid
-### replaceContents_internalized(PlacedResource placedResource, String linkedPath, boolean isReplaceOnlyThis) {#replaceContents-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-boolean-}
+### replaceDataSource_internalized(PlacedResource placedResource, String linkedPath, boolean isReplaceOnlyThis) {#replaceDataSource-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-boolean-}
 ```
-public final System.Guid replaceContents_internalized(PlacedResource placedResource, String linkedPath, boolean isReplaceOnlyThis)
+public final System.Guid replaceDataSource_internalized(PlacedResource placedResource, String linkedPath, boolean isReplaceOnlyThis)
 ```
 
 
-Replaces the contents with the provided external file.
+Replaces the data source in a global LinkResource resources with the newly created data source from external file.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -327,19 +316,6 @@ Sets (replaces or adds) the link data source in the global link resource.
 | --- | --- | --- |
 | dataSource | [LinkDataSource](../../com.aspose.psd.fileformats.psd.layers.layerresources.linkresources/linkdatasource) | The link data source. |
 
-### setLayersForUpdateContents_internalized(System.Collections.Generic.List<SmartObjectLayer> value) {#setLayersForUpdateContents-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.smartobjects.SmartObjectLayer--}
-```
-public final void setLayersForUpdateContents_internalized(System.Collections.Generic.List<SmartObjectLayer> value)
-```
-
-
-It gets or sets layer when contents must be changed
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.smartobjects.SmartObjectLayer> |  |
-
 ### toString() {#toString--}
 ```
 public String toString()
@@ -357,6 +333,21 @@ public final void updateAllModifiedContent()
 
 
 Updates the content of all modified smart objects in the image.
+
+### updateDuplicateLayers_internalized(System.Guid oldGuid, System.Guid newGuid, ResolutionSetting resolution) {#updateDuplicateLayers-internalized-com.aspose.ms.System.Guid-com.aspose.ms.System.Guid-com.aspose.psd.ResolutionSetting-}
+```
+public final void updateDuplicateLayers_internalized(System.Guid oldGuid, System.Guid newGuid, ResolutionSetting resolution)
+```
+
+
+Updates all smart object layers within the container whose  UniqueId  matches  oldGuid . The matching layers UniqueId are reassigned to  newGuid  and their content is refreshed.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| oldGuid | com.aspose.ms.System.Guid | The unique identifier of the original smart object data source to be replaced. |
+| newGuid | com.aspose.ms.System.Guid | The unique identifier of the new smart object data source to assign. |
+| resolution | [ResolutionSetting](../../com.aspose.psd/resolutionsetting) | The resolution settings to apply when updating content. If  null , the image resolution is used. |
 
 ### wait() {#wait--}
 ```
