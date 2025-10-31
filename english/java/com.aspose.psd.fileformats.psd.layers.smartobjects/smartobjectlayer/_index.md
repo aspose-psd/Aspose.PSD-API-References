@@ -369,6 +369,7 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [updateBlendingOptions_internalized(PattResource pattResource)](#updateBlendingOptions-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-) | Updates the blending options after layer or global resources change. |
 | [updateDataSourceId_internalized(System.Guid sourceId)](#updateDataSourceId-internalized-com.aspose.ms.System.Guid-) | Updates the data source identifier. |
 | [updateModifiedContent()](#updateModifiedContent--) | Updates the smart object layer image cache with the modified content. |
+| [updateModifiedContentWithImage_internalized(Image image, ResolutionSetting resolution, boolean skipBoundsUpdate)](#updateModifiedContentWithImage-internalized-com.aspose.psd.Image-com.aspose.psd.ResolutionSetting-boolean-) | Updates the smart object layer image cache with modified content. |
 | [updatePlacedResources_internalized(boolean toEmbedded)](#updatePlacedResources-internalized-boolean-) | Updates the placed / smart resources when the placedResource is changed or when conversion is needed. |
 | [updatePreview_internalized(PixelsData targetWarpedPixels)](#updatePreview-internalized-com.aspose.psd.PixelsData-) | It is wrapper for "IWarpSupport" to update layer preview |
 | [wait()](#wait--) |  |
@@ -4797,6 +4798,21 @@ public final void updateModifiedContent()
 
 
 Updates the smart object layer image cache with the modified content.
+
+### updateModifiedContentWithImage_internalized(Image image, ResolutionSetting resolution, boolean skipBoundsUpdate) {#updateModifiedContentWithImage-internalized-com.aspose.psd.Image-com.aspose.psd.ResolutionSetting-boolean-}
+```
+public final void updateModifiedContentWithImage_internalized(Image image, ResolutionSetting resolution, boolean skipBoundsUpdate)
+```
+
+
+Updates the smart object layer image cache with modified content.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | [Image](../../com.aspose.psd/image) | The image. |
+| resolution | [ResolutionSetting](../../com.aspose.psd/resolutionsetting) | The resolution. |
+| skipBoundsUpdate | boolean | if set to  true  [skip bounds update]. |
 
 ### updatePlacedResources_internalized(boolean toEmbedded) {#updatePlacedResources-internalized-boolean-}
 ```
