@@ -3,7 +3,7 @@ title: Class RasterImage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.RasterImage class. Represents a raster image supporting raster graphics operations
 type: docs
-weight: 5760
+weight: 5770
 url: /net/aspose.psd/rasterimage/
 ---
 {{< psd/tize >}}

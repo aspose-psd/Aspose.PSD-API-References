@@ -3,7 +3,7 @@ title: Class Dimensions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions class. Containing dimensions for a drawn object
 type: docs
-weight: 6500
+weight: 6510
 url: /net/aspose.psd.xmp.types.complex.dimensions/dimensions/
 ---
 {{< psd/tize >}}

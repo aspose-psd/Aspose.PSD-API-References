@@ -3,7 +3,7 @@ title: Class ColorTransferFunctionsResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.ColorTransferFunctionsResource class. Color transfer resource
 type: docs
-weight: 4080
+weight: 4090
 url: /net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/
 ---
 {{< psd/tize >}}

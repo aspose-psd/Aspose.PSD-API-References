@@ -3,7 +3,7 @@ title: Class RawDataSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.RawDataSettings class. The raw data settings
 type: docs
-weight: 5770
+weight: 5780
 url: /net/aspose.psd/rawdatasettings/
 ---
 {{< psd/tize >}}

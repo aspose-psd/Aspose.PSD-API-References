@@ -3,7 +3,7 @@ title: Enum GraphicsUnit
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.GraphicsUnit enum. Specifies the unit of measure for the given data
 type: docs
-weight: 4740
+weight: 4750
 url: /net/aspose.psd/graphicsunit/
 ---
 {{< psd/tize >}}
