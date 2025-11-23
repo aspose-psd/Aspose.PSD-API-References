@@ -3,7 +3,7 @@ title: WarpSettings.Rotate
 second_title: Aspose.PSD for .NET API Reference
 description: WarpSettings property. Gets or sets rotate value
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.warp/warpsettings/rotate/
 ---
 {{< psd/tize >}}

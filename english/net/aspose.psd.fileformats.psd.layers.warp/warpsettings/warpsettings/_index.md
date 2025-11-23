@@ -7,6 +7,54 @@ weight: 10
 url: /net/aspose.psd.fileformats.psd.layers.warp/warpsettings/warpsettings/
 ---
 {{< psd/tize >}}
+## WarpSettings(PointF[], Rectangle) {#constructor_2}
+
+Initializes a new instance of the [`WarpSettings`](../) class.
+
+```csharp
+public WarpSettings(PointF[] meshPoints, Rectangle bounds)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| meshPoints | PointF[] | The mesh points of warp |
+| bounds | Rectangle | The bounds of warp image |
+
+### See Also
+
+* struct [PointF](../../../aspose.psd/pointf/)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* class [WarpSettings](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Warp](../../../aspose.psd.fileformats.psd.layers.warp/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## WarpSettings(PointF[], Rectangle, WarpStyles) {#constructor_3}
+
+Initializes a new instance of the [`WarpSettings`](../) class.
+
+```csharp
+public WarpSettings(PointF[] meshPoints, Rectangle bounds, WarpStyles style)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| meshPoints | PointF[] | The mesh points of warp |
+| bounds | Rectangle | The bounds of warp image |
+| style | WarpStyles | The style of warp |
+
+### See Also
+
+* struct [PointF](../../../aspose.psd/pointf/)
+* struct [Rectangle](../../../aspose.psd/rectangle/)
+* enum [WarpStyles](../../warpstyles/)
+* class [WarpSettings](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Warp](../../../aspose.psd.fileformats.psd.layers.warp/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
 ## WarpSettings(OSTypeStructure[], Rectangle) {#constructor}
 
 Initializes a new instance of the [`WarpSettings`](../) class.

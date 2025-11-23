@@ -19,7 +19,7 @@ public sealed class LayerMaskDataShort : LayerMaskData
 
 | Name | Description |
 | --- | --- |
-| [LayerMaskDataShort](layermaskdatashort/)() | The default constructor. |
+| [LayerMaskDataShort](layermaskdatashort/)() | Initializes a new instance of the `LayerMaskDataShort` class. |
 
 ## Properties
 

@@ -3,7 +3,7 @@ title: Class XmpArray
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpArray class. Represents Xmp Array in XmpPackage. TODO Array may contain complex data
 type: docs
-weight: 6650
+weight: 6660
 url: /net/aspose.psd.xmp/xmparray/
 ---
 {{< psd/tize >}}

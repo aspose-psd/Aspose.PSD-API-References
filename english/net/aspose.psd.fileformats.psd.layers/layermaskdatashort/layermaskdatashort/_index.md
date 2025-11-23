@@ -1,7 +1,7 @@
 ---
 title: LayerMaskDataShort.LayerMaskDataShort
 second_title: Aspose.PSD for .NET API Reference
-description: LayerMaskDataShort constructor. The default constructor
+description: LayerMaskDataShort constructor. Initializes a new instance of the LayerMaskDataShort class
 type: docs
 weight: 10
 url: /net/aspose.psd.fileformats.psd.layers/layermaskdatashort/layermaskdatashort/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers/layermaskdatashort/layermaskdatashor
 {{< psd/tize >}}
 ## LayerMaskDataShort constructor
 
-The default constructor.
+Initializes a new instance of the [`LayerMaskDataShort`](../) class.
 
 ```csharp
 public LayerMaskDataShort()

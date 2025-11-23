@@ -3,7 +3,7 @@ title: Class Region
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Region class. Describes the interior of a graphics shape composed of rectangles and paths. This class cannot be inherited
 type: docs
-weight: 5800
+weight: 5810
 url: /net/aspose.psd/region/
 ---
 {{< psd/tize >}}

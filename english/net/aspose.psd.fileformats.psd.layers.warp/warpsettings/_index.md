@@ -3,7 +3,7 @@ title: Class WarpSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Warp.WarpSettings class. Parameters of layer with warp
 type: docs
-weight: 3950
+weight: 3960
 url: /net/aspose.psd.fileformats.psd.layers.warp/warpsettings/
 ---
 {{< psd/tize >}}
@@ -21,14 +21,17 @@ public class WarpSettings
 | --- | --- |
 | [WarpSettings](warpsettings/#constructor_1)(PlacedResource) | Initializes a new instance of the `WarpSettings` class. |
 | [WarpSettings](warpsettings/#constructor)(OSTypeStructure[], Rectangle) | Initializes a new instance of the `WarpSettings` class. |
+| [WarpSettings](warpsettings/#constructor_2)(PointF[], Rectangle) | Initializes a new instance of the `WarpSettings` class. |
+| [WarpSettings](warpsettings/#constructor_3)(PointF[], Rectangle, WarpStyles) | Initializes a new instance of the `WarpSettings` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Bounds](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/bounds/) { get; } | Gets or sets bounds of warp image |
+| [GridSize](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/gridsize/) { get; set; } | Gets or sets the size of the warp grid. Default is 1. |
 | [MeshPoints](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/meshpoints/) { get; set; } | Photoshop mesh points |
-| [ProcessingArea](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/processingarea/) { get; set; } | Gets or sets value of processing area size. Default value is 10. Range is [2;40] |
+| [RenderQuality](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/renderquality/) { get; set; } | Gets or sets value of warp render quality - between speed and quality |
 | [Rotate](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/rotate/) { get; set; } | Gets or sets rotate value |
 | [Style](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/style/) { get; set; } | Gets or sets style of warp |
 | [Value](../../aspose.psd.fileformats.psd.layers.warp/warpsettings/value/) { get; set; } | Gets or sets value of warp |

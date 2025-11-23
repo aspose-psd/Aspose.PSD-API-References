@@ -18,6 +18,7 @@ The namespace contains API to manipulate text layers' data
 
 | Enumeration | Description |
 | --- | --- |
+| [RenderQuality](./renderquality/) | It describes the rendering quality of Warp. |
 | [WarpRotates](./warprotates/) | Types of warp rotation |
 | [WarpStyles](./warpstyles/) | Types of support warp styles supported |
 
