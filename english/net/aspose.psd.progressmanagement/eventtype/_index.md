@@ -3,7 +3,7 @@ title: Enum EventType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ProgressManagement.EventType enum. This enum describes possible progress event types that can occurred during image processing operations
 type: docs
-weight: 5730
+weight: 5740
 url: /net/aspose.psd.progressmanagement/eventtype/
 ---
 {{< psd/tize >}}

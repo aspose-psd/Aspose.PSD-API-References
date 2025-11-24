@@ -3,7 +3,7 @@ title: Class ResourceEvent
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent class. Containing dimensions for a drawn object
 type: docs
-weight: 6520
+weight: 6530
 url: /net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/
 ---
 {{< psd/tize >}}

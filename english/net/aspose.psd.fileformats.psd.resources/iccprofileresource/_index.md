@@ -3,7 +3,7 @@ title: Class IccProfileResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.IccProfileResource class. Represents the ICC profile resource
 type: docs
-weight: 4170
+weight: 4180
 url: /net/aspose.psd.fileformats.psd.resources/iccprofileresource/
 ---
 {{< psd/tize >}}
