@@ -3,7 +3,7 @@ title: ResolutionSetting
 second_title: Aspose.PSD for Java API Reference
 description: The resolution setting for image save options.
 type: docs
-weight: 93
+weight: 92
 url: /java/com.aspose.psd/resolutionsetting/
 ---
 

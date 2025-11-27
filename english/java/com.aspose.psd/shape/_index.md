@@ -3,7 +3,7 @@ title: Shape
 second_title: Aspose.PSD for Java API Reference
 description: The shape.
 type: docs
-weight: 97
+weight: 96
 url: /java/com.aspose.psd/shape/
 ---
 

@@ -23,6 +23,8 @@ Defines the LayerMaskDataShort class which contains information about the mask d
 
 | Method | Description |
 | --- | --- |
+| [create_internalized(PixelsData pixelsData)](#create-internalized-com.aspose.psd.pixelsdatamodels.PixelsData-) |  |
+| [deepClone_internalized()](#deepClone-internalized--) | Clones this instance. |
 | [deepClone_internalized(LayerMaskData mask)](#deepClone-internalized-com.aspose.psd.fileformats.psd.layers.LayerMaskData-) | Clones the layer mask. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBottom()](#getBottom--) | Gets or sets the bottom layer mask position. |
@@ -63,6 +65,31 @@ public LayerMaskDataShort()
 
 Initializes a new instance of the [LayerMaskDataShort](../../com.aspose.psd.fileformats.psd.layers/layermaskdatashort) class.
 
+### create_internalized(PixelsData pixelsData) {#create-internalized-com.aspose.psd.pixelsdatamodels.PixelsData-}
+```
+public static LayerMaskDataShort create_internalized(PixelsData pixelsData)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pixelsData | [PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata) |  |
+
+**Returns:**
+[LayerMaskDataShort](../../com.aspose.psd.fileformats.psd.layers/layermaskdatashort)
+### deepClone_internalized() {#deepClone-internalized--}
+```
+public LayerMaskData deepClone_internalized()
+```
+
+
+Clones this instance.
+
+**Returns:**
+[LayerMaskData](../../com.aspose.psd.fileformats.psd.layers/layermaskdata) - The cloned layer mask.
 ### deepClone_internalized(LayerMaskData mask) {#deepClone-internalized-com.aspose.psd.fileformats.psd.layers.LayerMaskData-}
 ```
 public static LayerMaskData deepClone_internalized(LayerMaskData mask)

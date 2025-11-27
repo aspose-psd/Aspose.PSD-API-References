@@ -3,7 +3,7 @@ title: StringAlignment
 second_title: Aspose.PSD for Java API Reference
 description: Specifies the alignment of a text string relative to its layout rectangle.
 type: docs
-weight: 105
+weight: 104
 url: /java/com.aspose.psd/stringalignment/
 ---
 

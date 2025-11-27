@@ -3,7 +3,7 @@ title: RasterCachedImage
 second_title: Aspose.PSD for Java API Reference
 description: Represents a raster image supporting raster graphics operations.
 type: docs
-weight: 86
+weight: 85
 url: /java/com.aspose.psd/rastercachedimage/
 ---
 

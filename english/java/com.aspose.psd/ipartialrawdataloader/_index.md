@@ -3,7 +3,7 @@ title: IPartialRawDataLoader
 second_title: Aspose.PSD for Java API Reference
 description: The partial data loader.
 type: docs
-weight: 134
+weight: 133
 url: /java/com.aspose.psd/ipartialrawdataloader/
 ---
 ```

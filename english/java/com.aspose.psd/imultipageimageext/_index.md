@@ -3,7 +3,7 @@ title: IMultipageImageExt
 second_title: Aspose.PSD for Java API Reference
 description: The extended multipage image interface
 type: docs
-weight: 128
+weight: 127
 url: /java/com.aspose.psd/imultipageimageext/
 ---
 

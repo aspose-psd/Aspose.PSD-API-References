@@ -346,7 +346,7 @@ The text layer class
 | [setVentureLicense_internalized(Object ventureLicense)](#setVentureLicense-internalized-java.lang.Object-) | All Aspose products should implement this method. |
 | [setVerticalResolution(double value)](#setVerticalResolution-double-) | Gets or sets the vertical resolution, in pixels per inch, of this  RasterImage . |
 | [setVisible(boolean value)](#setVisible-boolean-) | Gets or sets a value indicating whether the layer is visible |
-| [setWarpSettings(WarpSettings value)](#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.WarpSettings-) | It gets or sets Warp parameters that was set or get from resource (default) |
+| [setWarpSettings(WarpSettings value)](#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.structs.WarpSettings-) | It gets or sets Warp parameters that was set or get from resource (default) |
 | [setWasChanged_internalized(boolean value)](#setWasChanged-internalized-boolean-) | Gets or sets a value indicating whether [was changed]. |
 | [setXmpData(XmpPacketWrapper value)](#setXmpData-com.aspose.psd.xmp.XmpPacketWrapper-) | Gets or sets the XMP metadata. |
 | [shallowCopy()](#shallowCopy--) | Creates a shallow copy of the current Layer. |
@@ -2484,7 +2484,7 @@ public final WarpSettings getWarpSettings()
 It gets or sets Warp parameters that was set or get from resource (default)
 
 **Returns:**
-[WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp/warpsettings)
+[WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp.structs/warpsettings)
 ### getWasChanged_internalized() {#getWasChanged-internalized--}
 ```
 public final boolean getWasChanged_internalized()
@@ -4548,7 +4548,7 @@ Value:  true  if this instance is visible; otherwise,  false .
 | --- | --- | --- |
 | value | boolean |  |
 
-### setWarpSettings(WarpSettings value) {#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.WarpSettings-}
+### setWarpSettings(WarpSettings value) {#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.structs.WarpSettings-}
 ```
 public final void setWarpSettings(WarpSettings value)
 ```
@@ -4559,7 +4559,7 @@ It gets or sets Warp parameters that was set or get from resource (default)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp/warpsettings) |  |
+| value | [WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp.structs/warpsettings) |  |
 
 ### setWasChanged_internalized(boolean value) {#setWasChanged-internalized-boolean-}
 ```

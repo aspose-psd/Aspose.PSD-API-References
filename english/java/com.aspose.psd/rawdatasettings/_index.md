@@ -3,7 +3,7 @@ title: RawDataSettings
 second_title: Aspose.PSD for Java API Reference
 description: The raw data settings
 type: docs
-weight: 88
+weight: 87
 url: /java/com.aspose.psd/rawdatasettings/
 ---
 

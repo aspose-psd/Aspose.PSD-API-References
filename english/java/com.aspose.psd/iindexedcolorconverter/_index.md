@@ -3,7 +3,7 @@ title: IIndexedColorConverter
 second_title: Aspose.PSD for Java API Reference
 description: The color converter for indexed image formats.
 type: docs
-weight: 126
+weight: 125
 url: /java/com.aspose.psd/iindexedcolorconverter/
 ---
 ```

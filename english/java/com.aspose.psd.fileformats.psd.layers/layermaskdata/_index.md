@@ -21,6 +21,7 @@ Defines base LayerMaskData class which contains information about the layer mask
 
 | Method | Description |
 | --- | --- |
+| [deepClone_internalized()](#deepClone-internalized--) | Clones this instance. |
 | [deepClone_internalized(LayerMaskData mask)](#deepClone-internalized-com.aspose.psd.fileformats.psd.layers.LayerMaskData-) | Clones the layer mask. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBottom()](#getBottom--) | Gets or sets the bottom layer mask position. |
@@ -51,6 +52,16 @@ Defines base LayerMaskData class which contains information about the layer mask
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### deepClone_internalized() {#deepClone-internalized--}
+```
+public LayerMaskData deepClone_internalized()
+```
+
+
+Clones this instance.
+
+**Returns:**
+[LayerMaskData](../../com.aspose.psd.fileformats.psd.layers/layermaskdata) - The cloned layer mask.
 ### deepClone_internalized(LayerMaskData mask) {#deepClone-internalized-com.aspose.psd.fileformats.psd.layers.LayerMaskData-}
 ```
 public static LayerMaskData deepClone_internalized(LayerMaskData mask)

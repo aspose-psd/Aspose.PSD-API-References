@@ -3,7 +3,7 @@ title: ResolutionUnit
 second_title: Aspose.PSD for Java API Reference
 description: Resolution unit enum.
 type: docs
-weight: 94
+weight: 93
 url: /java/com.aspose.psd/resolutionunit/
 ---
 

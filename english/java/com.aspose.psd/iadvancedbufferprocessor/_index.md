@@ -3,7 +3,7 @@ title: IAdvancedBufferProcessor
 second_title: Aspose.PSD for Java API Reference
 description: The advanced buffer processor.
 type: docs
-weight: 115
+weight: 114
 url: /java/com.aspose.psd/iadvancedbufferprocessor/
 ---
 

@@ -3,7 +3,7 @@ title: RotateFlipType
 second_title: Aspose.PSD for Java API Reference
 description: 
 type: docs
-weight: 95
+weight: 94
 url: /java/com.aspose.psd/rotatefliptype/
 ---
 

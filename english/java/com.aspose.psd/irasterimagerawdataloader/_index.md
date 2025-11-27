@@ -3,7 +3,7 @@ title: IRasterImageRawDataLoader
 second_title: Aspose.PSD for Java API Reference
 description: The raster image raw data loader.
 type: docs
-weight: 138
+weight: 137
 url: /java/com.aspose.psd/irasterimagerawdataloader/
 ---
 ```

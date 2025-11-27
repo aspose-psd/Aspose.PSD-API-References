@@ -3,7 +3,7 @@ title: StringTrimming
 second_title: Aspose.PSD for Java API Reference
 description: Specifies how to trim characters from a string that does not completely fit into a layout shape.
 type: docs
-weight: 109
+weight: 108
 url: /java/com.aspose.psd/stringtrimming/
 ---
 

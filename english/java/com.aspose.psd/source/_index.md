@@ -3,7 +3,7 @@ title: Source
 second_title: Aspose.PSD for Java API Reference
 description: The source is used to contain all relevant information for an object pipe.
 type: docs
-weight: 102
+weight: 101
 url: /java/com.aspose.psd/source/
 ---
 

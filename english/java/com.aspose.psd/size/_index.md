@@ -3,7 +3,7 @@ title: Size
 second_title: Aspose.PSD for Java API Reference
 description: Represents size.
 type: docs
-weight: 99
+weight: 98
 url: /java/com.aspose.psd/size/
 ---
 
