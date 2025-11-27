@@ -3,7 +3,7 @@ title: SplitStreamContainer
 second_title: Aspose.PSD for Java API Reference
 description: Represents split stream container which contains the stream and provides stream processing routines.
 type: docs
-weight: 103
+weight: 102
 url: /java/com.aspose.psd/splitstreamcontainer/
 ---
 

@@ -104,7 +104,7 @@ public static PixelsData getDefaultPattern_internalized()
 Creates the default pattern data.
 
 **Returns:**
-[PixelsData](../../com.aspose.psd/pixelsdata) - The default pattern data.
+[PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata) - The default pattern data.
 ### getHeight() {#getHeight--}
 ```
 public final short getHeight()

@@ -35,6 +35,7 @@ Gradient fill effect settings.
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
+| [getContainerBounds_internalized()](#getContainerBounds-internalized--) | Gets or sets the bounds of the layer container to correctly calculate the position of the gradient. |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is dither. |
 | [getFillType()](#getFillType--) | The fill type. |
 | [getGradient()](#getGradient--) | Gets or sets specific gradient definition instance (Solid/Noise). |
@@ -49,6 +50,7 @@ Gradient fill effect settings.
 | [raiseValueChanged_internalized()](#raiseValueChanged-internalized--) | Raises the value changed. |
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
+| [setContainerBounds_internalized(Rectangle value)](#setContainerBounds-internalized-com.aspose.psd.Rectangle-) | Gets or sets the bounds of the layer container to correctly calculate the position of the gradient. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is dither. |
 | [setGradient(BaseGradient value)](#setGradient-com.aspose.psd.fileformats.psd.layers.gradient.BaseGradient-) | Gets or sets specific gradient definition instance (Solid/Noise). |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
@@ -121,6 +123,16 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getContainerBounds_internalized() {#getContainerBounds-internalized--}
+```
+public final Rectangle getContainerBounds_internalized()
+```
+
+
+Gets or sets the bounds of the layer container to correctly calculate the position of the gradient.
+
+**Returns:**
+[Rectangle](../../com.aspose.psd/rectangle)
 ### getDither() {#getDither--}
 ```
 public final boolean getDither()
@@ -272,6 +284,19 @@ Gets or sets the angle.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double |  |
+
+### setContainerBounds_internalized(Rectangle value) {#setContainerBounds-internalized-com.aspose.psd.Rectangle-}
+```
+public final void setContainerBounds_internalized(Rectangle value)
+```
+
+
+Gets or sets the bounds of the layer container to correctly calculate the position of the gradient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [Rectangle](../../com.aspose.psd/rectangle) |  |
 
 ### setDither(boolean value) {#setDither-boolean-}
 ```

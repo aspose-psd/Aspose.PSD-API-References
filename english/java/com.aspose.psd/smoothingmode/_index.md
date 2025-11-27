@@ -3,7 +3,7 @@ title: SmoothingMode
 second_title: Aspose.PSD for Java API Reference
 description: Specifies whether smoothing antialiasing is applied to lines and curves and the edges of filled areas.
 type: docs
-weight: 101
+weight: 100
 url: /java/com.aspose.psd/smoothingmode/
 ---
 

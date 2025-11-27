@@ -3,7 +3,7 @@ title: IPsdColorPalette
 second_title: Aspose.PSD for Java API Reference
 description: The pasd color palette
 type: docs
-weight: 135
+weight: 134
 url: /java/com.aspose.psd/ipsdcolorpalette/
 ---
 

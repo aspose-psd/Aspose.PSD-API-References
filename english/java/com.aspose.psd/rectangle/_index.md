@@ -3,7 +3,7 @@ title: Rectangle
 second_title: Aspose.PSD for Java API Reference
 description: Stores a set of four integers that represent the location and size of a rectangle.
 type: docs
-weight: 89
+weight: 88
 url: /java/com.aspose.psd/rectangle/
 ---
 

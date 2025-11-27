@@ -3,7 +3,7 @@ title: TransparencySupporter
 second_title: Aspose.PSD for Java API Reference
 description: The object supporting transparency.
 type: docs
-weight: 111
+weight: 110
 url: /java/com.aspose.psd/transparencysupporter/
 ---
 

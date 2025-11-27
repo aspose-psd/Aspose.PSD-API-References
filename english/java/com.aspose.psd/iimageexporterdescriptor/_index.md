@@ -3,7 +3,7 @@ title: IImageExporterDescriptor
 second_title: Aspose.PSD for Java API Reference
 description: Represents the image exporter descriptor.
 type: docs
-weight: 123
+weight: 122
 url: /java/com.aspose.psd/iimageexporterdescriptor/
 ---
 

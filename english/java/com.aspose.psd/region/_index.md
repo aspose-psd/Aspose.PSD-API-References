@@ -3,7 +3,7 @@ title: Region
 second_title: Aspose.PSD for Java API Reference
 description: Describes the interior of a graphics shape composed of rectangles and paths.
 type: docs
-weight: 91
+weight: 90
 url: /java/com.aspose.psd/region/
 ---
 

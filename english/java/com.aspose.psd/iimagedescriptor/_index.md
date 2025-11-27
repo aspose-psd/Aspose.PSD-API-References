@@ -3,7 +3,7 @@ title: IImageDescriptor
 second_title: Aspose.PSD for Java API Reference
 description: The image descriptor.
 type: docs
-weight: 121
+weight: 120
 url: /java/com.aspose.psd/iimagedescriptor/
 ---
 ```

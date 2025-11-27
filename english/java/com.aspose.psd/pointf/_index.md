@@ -3,7 +3,7 @@ title: PointF
 second_title: Aspose.PSD for Java API Reference
 description: Represents an ordered pair of floating-point x- and y-coordinates that defines a point in a two-dimensional plane.
 type: docs
-weight: 84
+weight: 83
 url: /java/com.aspose.psd/pointf/
 ---
 

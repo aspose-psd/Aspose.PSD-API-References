@@ -3,7 +3,7 @@ title: RasterImage
 second_title: Aspose.PSD for Java API Reference
 description: Represents a raster image supporting raster graphics operations.
 type: docs
-weight: 87
+weight: 86
 url: /java/com.aspose.psd/rasterimage/
 ---
 

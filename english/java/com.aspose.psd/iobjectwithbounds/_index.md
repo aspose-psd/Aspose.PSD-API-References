@@ -3,7 +3,7 @@ title: IObjectWithBounds
 second_title: Aspose.PSD for Java API Reference
 description: Represents an object with bounds.
 type: docs
-weight: 129
+weight: 128
 url: /java/com.aspose.psd/iobjectwithbounds/
 ---
 ```

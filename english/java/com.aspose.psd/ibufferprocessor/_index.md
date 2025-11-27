@@ -3,7 +3,7 @@ title: IBufferProcessor
 second_title: Aspose.PSD for Java API Reference
 description: The buffer processor.
 type: docs
-weight: 116
+weight: 115
 url: /java/com.aspose.psd/ibufferprocessor/
 ---
 ```

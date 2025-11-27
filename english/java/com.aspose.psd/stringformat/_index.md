@@ -3,7 +3,7 @@ title: StringFormat
 second_title: Aspose.PSD for Java API Reference
 description: Encapsulates text layout information such as alignment orientation and tab stops display manipulations such as ellipsis insertion and national digit substitution and OpenType features.
 type: docs
-weight: 107
+weight: 106
 url: /java/com.aspose.psd/stringformat/
 ---
 

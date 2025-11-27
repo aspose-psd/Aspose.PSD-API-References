@@ -3,7 +3,7 @@ title: ResizeType
 second_title: Aspose.PSD for Java API Reference
 description: Specifies the resize type.
 type: docs
-weight: 92
+weight: 91
 url: /java/com.aspose.psd/resizetype/
 ---
 

@@ -3,7 +3,7 @@ title: SizeF
 second_title: Aspose.PSD for Java API Reference
 description: Stores an ordered pair of floating-point numbers typically the width and height of a rectangle.
 type: docs
-weight: 100
+weight: 99
 url: /java/com.aspose.psd/sizef/
 ---
 

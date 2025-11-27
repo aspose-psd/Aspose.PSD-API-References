@@ -53,7 +53,7 @@ is_root: true
 | [com.aspose.psd.fileformats.psd.layers.smartobjects](./com.aspose.psd.fileformats.psd.layers.smartobjects) |  |
 | [com.aspose.psd.fileformats.psd.layers.text](./com.aspose.psd.fileformats.psd.layers.text) |  |
 | [com.aspose.psd.fileformats.psd.layers.text.rendering](./com.aspose.psd.fileformats.psd.layers.text.rendering) |  |
-| [com.aspose.psd.fileformats.psd.layers.warp](./com.aspose.psd.fileformats.psd.layers.warp) |  |
+| [com.aspose.psd.fileformats.psd.layers.warp.structs](./com.aspose.psd.fileformats.psd.layers.warp.structs) |  |
 | [com.aspose.psd.fileformats.psd.rawcolor](./com.aspose.psd.fileformats.psd.rawcolor) |  |
 | [com.aspose.psd.fileformats.psd.resources](./com.aspose.psd.fileformats.psd.resources) |  |
 | [com.aspose.psd.fileformats.psd.resources.enums_](./com.aspose.psd.fileformats.psd.resources.enums_) |  |
@@ -73,6 +73,7 @@ is_root: true
 | [com.aspose.psd.masking.result](./com.aspose.psd.masking.result) | The namespace handles ImageMasking.Result processing. |
 | [com.aspose.psd.memorymanagement](./com.aspose.psd.memorymanagement) | The namespace contains memory management routines. |
 | [com.aspose.psd.multithreading](./com.aspose.psd.multithreading) | The namespace contains Multithreading classes. |
+| [com.aspose.psd.pixelsdatamodels](./com.aspose.psd.pixelsdatamodels) |  |
 | [com.aspose.psd.progressmanagement](./com.aspose.psd.progressmanagement) | The namespace contains progress handler classes |
 | [com.aspose.psd.shapes](./com.aspose.psd.shapes) | The package contains different shapes combined from shape segments. |
 | [com.aspose.psd.shapesegments](./com.aspose.psd.shapesegments) | The package contains different shape segments which combine shapes. |

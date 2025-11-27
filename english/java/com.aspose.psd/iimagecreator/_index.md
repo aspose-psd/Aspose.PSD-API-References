@@ -3,7 +3,7 @@ title: IImageCreator
 second_title: Aspose.PSD for Java API Reference
 description: The image creator.
 type: docs
-weight: 119
+weight: 118
 url: /java/com.aspose.psd/iimagecreator/
 ---
 ```

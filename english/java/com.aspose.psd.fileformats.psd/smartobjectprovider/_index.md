@@ -32,7 +32,7 @@ Defines the smart object provider that provides getting / setting data sources f
 | [newSmartObjectViaCopy(SmartObjectLayer sourceLayer)](#newSmartObjectViaCopy-com.aspose.psd.fileformats.psd.layers.smartobjects.SmartObjectLayer-) | Creates a new smart object layer by coping the source one. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [removeOrphanedDataSources_internalized(System.Collections.Generic.List<System.Guid> actualDataSources)](#removeOrphanedDataSources-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.ms.System.Guid--) | Removes data sources from embedded and external resources that are not present in the provided list of valid GUIDs. |
+| [removeOrphanedDataSources_internalized(System.Collections.Generic.List<System.Guid> actualDataSources)](#removeOrphanedDataSources-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.ms.System.Guid--) | Removes data sources from embedded and external resources that do not present in the provided list of valid GUIDs. |
 | [replaceDataSource_internalized(System.Guid oldUniqueId, byte[] contents)](#replaceDataSource-internalized-com.aspose.ms.System.Guid-byte---) | Replaces the data source in the global resources with the provided contents to embed. |
 | [replaceDataSource_internalized(PlacedResource placedResource, String linkedPath)](#replaceDataSource-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-) |  |
 | [replaceDataSource_internalized(PlacedResource placedResource, String linkedPath, boolean isReplaceOnlyThis)](#replaceDataSource-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.smartobjectresources.PlacedResource-java.lang.String-boolean-) | Replaces the data source in a global LinkResource resources with the newly created data source from external file. |
@@ -232,7 +232,7 @@ public final void removeOrphanedDataSources_internalized(System.Collections.Gene
 ```
 
 
-Removes data sources from embedded and external resources that are not present in the provided list of valid GUIDs. This method cleans up orphaned data sources by comparing against the current valid data source identifiers.
+Removes data sources from embedded and external resources that do not present in the provided list of valid GUIDs. This method cleans up orphaned data sources by comparing against the current valid data source identifiers.
 
 **Parameters:**
 | Parameter | Type | Description |

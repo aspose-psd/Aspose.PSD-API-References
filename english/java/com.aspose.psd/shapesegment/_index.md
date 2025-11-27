@@ -3,7 +3,7 @@ title: ShapeSegment
 second_title: Aspose.PSD for Java API Reference
 description: Represents a shape segment.
 type: docs
-weight: 98
+weight: 97
 url: /java/com.aspose.psd/shapesegment/
 ---
 

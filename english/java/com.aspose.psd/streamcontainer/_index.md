@@ -3,7 +3,7 @@ title: StreamContainer
 second_title: Aspose.PSD for Java API Reference
 description: Represents stream container which contains the stream and provides stream processing routines.
 type: docs
-weight: 104
+weight: 103
 url: /java/com.aspose.psd/streamcontainer/
 ---
 

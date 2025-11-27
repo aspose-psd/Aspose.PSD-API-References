@@ -3,7 +3,7 @@ title: ProgressEventHandler
 second_title: Aspose.PSD for Java API Reference
 description: Progress event handler function reference
 type: docs
-weight: 85
+weight: 84
 url: /java/com.aspose.psd/progresseventhandler/
 ---
 
