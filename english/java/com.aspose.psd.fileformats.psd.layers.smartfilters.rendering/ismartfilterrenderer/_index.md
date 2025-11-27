@@ -15,8 +15,8 @@ The interface for a specific smart filter renderer.
 
 | Method | Description |
 | --- | --- |
-| [render(PixelsData pixelsData)](#render-com.aspose.psd.PixelsData-) | Renders the current smart filter on the pixels data. |
-### render(PixelsData pixelsData) {#render-com.aspose.psd.PixelsData-}
+| [render(PixelsData pixelsData)](#render-com.aspose.psd.pixelsdatamodels.PixelsData-) | Renders the current smart filter on the pixels data. |
+### render(PixelsData pixelsData) {#render-com.aspose.psd.pixelsdatamodels.PixelsData-}
 ```
 public abstract PixelsData render(PixelsData pixelsData)
 ```
@@ -27,7 +27,7 @@ Renders the current smart filter on the pixels data.
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pixelsData | [PixelsData](../../com.aspose.psd/pixelsdata) | The pixels data. |
+| pixelsData | [PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata) | The pixels data. |
 
 **Returns:**
-[PixelsData](../../com.aspose.psd/pixelsdata) - Returns processed pixels data.
+[PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata) - Returns processed pixels data.

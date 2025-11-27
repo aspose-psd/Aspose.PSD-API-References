@@ -23,6 +23,7 @@ Defines the LayerMaskDataFull class which contains information about the mask da
 
 | Method | Description |
 | --- | --- |
+| [deepClone_internalized()](#deepClone-internalized--) | Clones this instance. |
 | [deepClone_internalized(LayerMaskData mask)](#deepClone-internalized-com.aspose.psd.fileformats.psd.layers.LayerMaskData-) | Clones the layer mask. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBackgroundColor()](#getBackgroundColor--) | Gets or sets the background color. |
@@ -77,6 +78,16 @@ public LayerMaskDataFull()
 
 Initializes a new instance of the [LayerMaskDataFull](../../com.aspose.psd.fileformats.psd.layers/layermaskdatafull) class.
 
+### deepClone_internalized() {#deepClone-internalized--}
+```
+public LayerMaskData deepClone_internalized()
+```
+
+
+Clones this instance.
+
+**Returns:**
+[LayerMaskData](../../com.aspose.psd.fileformats.psd.layers/layermaskdata) - The cloned layer mask.
 ### deepClone_internalized(LayerMaskData mask) {#deepClone-internalized-com.aspose.psd.fileformats.psd.layers.LayerMaskData-}
 ```
 public static LayerMaskData deepClone_internalized(LayerMaskData mask)

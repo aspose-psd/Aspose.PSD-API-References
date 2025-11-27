@@ -3,7 +3,7 @@ title: SeekOrigin
 second_title: Aspose.PSD for Java API Reference
 description: Provides the fields that represent reference points in StreamContainer for seeking.
 type: docs
-weight: 96
+weight: 95
 url: /java/com.aspose.psd/seekorigin/
 ---
 

@@ -3,7 +3,7 @@ title: StringDigitSubstitute
 second_title: Aspose.PSD for Java API Reference
 description: The enumeration specifies how to substitute digits in a string according to a users locale or language.
 type: docs
-weight: 106
+weight: 105
 url: /java/com.aspose.psd/stringdigitsubstitute/
 ---
 

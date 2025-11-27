@@ -360,7 +360,7 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [setVentureLicense_internalized(Object ventureLicense)](#setVentureLicense-internalized-java.lang.Object-) | All Aspose products should implement this method. |
 | [setVerticalResolution(double value)](#setVerticalResolution-double-) | Gets or sets the vertical resolution, in pixels per inch, of this  RasterImage . |
 | [setVisible(boolean value)](#setVisible-boolean-) | Gets or sets a value indicating whether the layer is visible |
-| [setWarpSettings(WarpSettings value)](#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.WarpSettings-) | It gets or sets Warp parameters that was set or get from resource (default) |
+| [setWarpSettings(WarpSettings value)](#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.structs.WarpSettings-) | It gets or sets Warp parameters that was set or get from resource (default) |
 | [setXmpData(XmpPacketWrapper value)](#setXmpData-com.aspose.psd.xmp.XmpPacketWrapper-) | Gets or sets the XMP metadata. |
 | [shallowCopy()](#shallowCopy--) | Creates a shallow copy of the current Layer. |
 | [toBitmap()](#toBitmap--) | Converts raster image to the bitmap. |
@@ -371,7 +371,7 @@ Defines the SmartObjectLayer class that contains embedded in the PSD file or lin
 | [updateModifiedContent()](#updateModifiedContent--) | Updates the smart object layer image cache with the modified content. |
 | [updateModifiedContentWithImage_internalized(Image image, ResolutionSetting resolution, boolean skipBoundsUpdate)](#updateModifiedContentWithImage-internalized-com.aspose.psd.Image-com.aspose.psd.ResolutionSetting-boolean-) | Updates the smart object layer image cache with modified content. |
 | [updatePlacedResources_internalized(boolean toEmbedded)](#updatePlacedResources-internalized-boolean-) | Updates the placed / smart resources when the placedResource is changed or when conversion is needed. |
-| [updatePreview_internalized(PixelsData targetWarpedPixels)](#updatePreview-internalized-com.aspose.psd.PixelsData-) | It is wrapper for "IWarpSupport" to update layer preview |
+| [updatePreview_internalized(PixelsData targetWarpedPixels)](#updatePreview-internalized-com.aspose.psd.pixelsdatamodels.PixelsData-) | It is wrapper for "IWarpSupport" to update layer preview |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -2534,7 +2534,7 @@ public final WarpSettings getWarpSettings()
 It gets or sets Warp parameters that was set or get from resource (default)
 
 **Returns:**
-[WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp/warpsettings)
+[WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp.structs/warpsettings)
 ### getWidth() {#getWidth--}
 ```
 public int getWidth()
@@ -4699,7 +4699,7 @@ Value:  true  if this instance is visible; otherwise,  false .
 | --- | --- | --- |
 | value | boolean |  |
 
-### setWarpSettings(WarpSettings value) {#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.WarpSettings-}
+### setWarpSettings(WarpSettings value) {#setWarpSettings-com.aspose.psd.fileformats.psd.layers.warp.structs.WarpSettings-}
 ```
 public final void setWarpSettings(WarpSettings value)
 ```
@@ -4710,7 +4710,7 @@ It gets or sets Warp parameters that was set or get from resource (default)
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp/warpsettings) |  |
+| value | [WarpSettings](../../com.aspose.psd.fileformats.psd.layers.warp.structs/warpsettings) |  |
 
 ### setXmpData(XmpPacketWrapper value) {#setXmpData-com.aspose.psd.xmp.XmpPacketWrapper-}
 ```
@@ -4827,7 +4827,7 @@ Updates the placed / smart resources when the placedResource is changed or when 
 | --- | --- | --- |
 | toEmbedded | boolean | if set to  true  covert to an embedded resource if needed, otherwise to a linked one. |
 
-### updatePreview_internalized(PixelsData targetWarpedPixels) {#updatePreview-internalized-com.aspose.psd.PixelsData-}
+### updatePreview_internalized(PixelsData targetWarpedPixels) {#updatePreview-internalized-com.aspose.psd.pixelsdatamodels.PixelsData-}
 ```
 public final void updatePreview_internalized(PixelsData targetWarpedPixels)
 ```
@@ -4838,7 +4838,7 @@ It is wrapper for "IWarpSupport" to update layer preview
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| targetWarpedPixels | [PixelsData](../../com.aspose.psd/pixelsdata) | Pixels and size of new preview image |
+| targetWarpedPixels | [PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata) | Pixels and size of new preview image |
 
 ### wait() {#wait--}
 ```

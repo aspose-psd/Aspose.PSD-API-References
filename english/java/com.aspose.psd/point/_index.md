@@ -3,7 +3,7 @@ title: Point
 second_title: Aspose.PSD for Java API Reference
 description: Represents an ordered pair of integer x- and y-coordinates that defines a point in a two-dimensional plane.
 type: docs
-weight: 83
+weight: 82
 url: /java/com.aspose.psd/point/
 ---
 

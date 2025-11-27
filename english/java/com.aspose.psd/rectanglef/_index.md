@@ -3,7 +3,7 @@ title: RectangleF
 second_title: Aspose.PSD for Java API Reference
 description: Stores a set of four floating-point numbers that represent the location and size of a rectangle.
 type: docs
-weight: 90
+weight: 89
 url: /java/com.aspose.psd/rectanglef/
 ---
 

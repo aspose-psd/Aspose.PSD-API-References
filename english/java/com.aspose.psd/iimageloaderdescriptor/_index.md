@@ -3,7 +3,7 @@ title: IImageLoaderDescriptor
 second_title: Aspose.PSD for Java API Reference
 description: The image loader descriptor specifying the loader properties.
 type: docs
-weight: 125
+weight: 124
 url: /java/com.aspose.psd/iimageloaderdescriptor/
 ---
 

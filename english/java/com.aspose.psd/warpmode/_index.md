@@ -3,7 +3,7 @@ title: WarpMode
 second_title: Aspose.PSD for Java API Reference
 description: Specifies the type of warp transformation applied.
 type: docs
-weight: 113
+weight: 112
 url: /java/com.aspose.psd/warpmode/
 ---
 

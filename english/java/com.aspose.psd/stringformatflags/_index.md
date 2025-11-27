@@ -3,7 +3,7 @@ title: StringFormatFlags
 second_title: Aspose.PSD for Java API Reference
 description: Specifies the display and layout information for text strings.
 type: docs
-weight: 108
+weight: 107
 url: /java/com.aspose.psd/stringformatflags/
 ---
 

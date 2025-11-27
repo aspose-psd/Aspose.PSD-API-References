@@ -3,7 +3,7 @@ title: IColorPalette
 second_title: Aspose.PSD for Java API Reference
 description: The color palette interface.
 type: docs
-weight: 118
+weight: 117
 url: /java/com.aspose.psd/icolorpalette/
 ---
 ```

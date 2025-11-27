@@ -87,7 +87,6 @@ The package is the core for nested packages and the most basic objects used for 
 | [PenType](../com.aspose.psd/pentype) | Specifies the type of fill a  Pen  object uses to fill lines. |
 | [PixelDataFormat](../com.aspose.psd/pixeldataformat) | The pixel data format. |
 | [PixelFormat](../com.aspose.psd/pixelformat) | The pixel data format actual meaning. |
-| [PixelsData](../com.aspose.psd/pixelsdata) | The class to store image pixels data and its bounds. |
 | [Point](../com.aspose.psd/point) | Represents an ordered pair of integer x- and y-coordinates that defines a point in a two-dimensional plane. |
 | [PointF](../com.aspose.psd/pointf) | Represents an ordered pair of floating-point x- and y-coordinates that defines a point in a two-dimensional plane. |
 | [ProgressEventHandler](../com.aspose.psd/progresseventhandler) | Progress event handler function reference |

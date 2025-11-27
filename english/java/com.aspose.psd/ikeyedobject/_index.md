@@ -3,7 +3,7 @@ title: IKeyedObject
 second_title: Aspose.PSD for Java API Reference
 description: Represents interface for objects with keys.
 type: docs
-weight: 127
+weight: 126
 url: /java/com.aspose.psd/ikeyedobject/
 ---
 ```

@@ -3,7 +3,7 @@ title: IOrderedShape
 second_title: Aspose.PSD for Java API Reference
 description: Represents an ordered shape.
 type: docs
-weight: 130
+weight: 129
 url: /java/com.aspose.psd/iorderedshape/
 ---
 ```

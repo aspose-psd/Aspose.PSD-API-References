@@ -3,7 +3,7 @@ title: com.aspose.psd.xmp.types.complex.dimensions
 second_title: Aspose.PSD for Java API Reference
 description: The package contains classes that represent the structure containing dimensions for a drawn object.
 type: docs
-weight: 89
+weight: 90
 url: /java/com.aspose.psd.xmp.types.complex.dimensions/
 ---
 
