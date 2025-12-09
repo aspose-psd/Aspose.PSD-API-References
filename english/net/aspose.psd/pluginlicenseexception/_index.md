@@ -3,7 +3,7 @@ title: Class PluginLicenseException
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.PluginLicenseException class. Exception for Plugin License
 type: docs
-weight: 5700
+weight: 5710
 url: /net/aspose.psd/pluginlicenseexception/
 ---
 {{< psd/tize >}}

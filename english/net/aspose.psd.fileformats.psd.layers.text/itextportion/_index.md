@@ -3,7 +3,7 @@ title: Interface ITextPortion
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextPortion interface. Interface to manipulate text portions
 type: docs
-weight: 3900
+weight: 3910
 url: /net/aspose.psd.fileformats.psd.layers.text/itextportion/
 ---
 {{< psd/tize >}}
@@ -51,7 +51,7 @@ The following example demonstrates how you can render different styles in one te
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))

@@ -3,7 +3,7 @@ title: Enum HotkeyPrefix
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.HotkeyPrefix enum. Specifies the type of display for hotkey prefixes that relate to text
 type: docs
-weight: 4770
+weight: 4780
 url: /net/aspose.psd/hotkeyprefix/
 ---
 {{< psd/tize >}}

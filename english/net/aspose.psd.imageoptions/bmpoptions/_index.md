@@ -3,7 +3,7 @@ title: Class BmpOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.BmpOptions class. The bmp file format creation options
 type: docs
-weight: 5230
+weight: 5240
 url: /net/aspose.psd.imageoptions/bmpoptions/
 ---
 {{< psd/tize >}}

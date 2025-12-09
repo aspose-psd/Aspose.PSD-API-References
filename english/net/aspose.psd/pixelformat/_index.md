@@ -3,7 +3,7 @@ title: Enum PixelFormat
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.PixelFormat enum. The pixel data format actual meaning
 type: docs
-weight: 5680
+weight: 5690
 url: /net/aspose.psd/pixelformat/
 ---
 {{< psd/tize >}}
