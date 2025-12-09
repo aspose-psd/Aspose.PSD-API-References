@@ -3,7 +3,7 @@ title: Class DocumentSpecificIdsResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.DocumentSpecificIdsResource class. Document Specific Ids resource
 type: docs
-weight: 4100
+weight: 4110
 url: /net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/
 ---
 {{< psd/tize >}}

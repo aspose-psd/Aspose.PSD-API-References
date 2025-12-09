@@ -3,7 +3,7 @@ title: Class StringFormat
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.StringFormat class. Encapsulates text layout information such as alignment orientation and tab stops display manipulations such as ellipsis insertion and national digit substitution and OpenType features. This class cannot be inherited
 type: docs
-weight: 6120
+weight: 6130
 url: /net/aspose.psd/stringformat/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class OSTypeStructuresRegistry
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructuresRegistry class. Represents the OSTypeStructure resources registry
 type: docs
-weight: 3150
+weight: 3160
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/
 ---
 {{< psd/tize >}}

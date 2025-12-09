@@ -3,7 +3,7 @@ title: Class XmpDate
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Basic.XmpDate class. Represents Date in XMP packet
 type: docs
-weight: 6400
+weight: 6410
 url: /net/aspose.psd.xmp.types.basic/xmpdate/
 ---
 {{< psd/tize >}}

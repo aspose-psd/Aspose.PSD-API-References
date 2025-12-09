@@ -3,7 +3,7 @@ title: Class StrokeSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.StrokeSettings class. Stroke settings of Shapes
 type: docs
-weight: 3370
+weight: 3380
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/strokesettings/
 ---
 {{< psd/tize >}}

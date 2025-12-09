@@ -3,7 +3,7 @@ title: Class CmxRasterizationOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.CmxRasterizationOptions class. the CMX exporter options
 type: docs
-weight: 5240
+weight: 5250
 url: /net/aspose.psd.imageoptions/cmxrasterizationoptions/
 ---
 {{< psd/tize >}}

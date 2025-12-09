@@ -3,7 +3,7 @@ title: Class VmskResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VmskResource class. Class VmskResource. This resource contains information about vector layer mask
 type: docs
-weight: 3710
+weight: 3720
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum LineJoin
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.LineJoin enum. Specifies how to join consecutive line or curve segments in a figure subpath contained in a GraphicsPath object
 type: docs
-weight: 5510
+weight: 5520
 url: /net/aspose.psd/linejoin/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Enum ReadOnlyMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageLoadOptions.ReadOnlyMode enum. Specifies the readonly modes available when loading a PSD image
 type: docs
-weight: 5210
+weight: 5220
 url: /net/aspose.psd.imageloadoptions/readonlymode/
 ---
 {{< psd/tize >}}

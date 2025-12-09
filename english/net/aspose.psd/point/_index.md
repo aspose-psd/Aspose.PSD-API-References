@@ -3,7 +3,7 @@ title: Struct Point
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Point struct. Represents an ordered pair of integer x and ycoordinates that defines a point in a twodimensional plane
 type: docs
-weight: 5710
+weight: 5720
 url: /net/aspose.psd/point/
 ---
 {{< psd/tize >}}

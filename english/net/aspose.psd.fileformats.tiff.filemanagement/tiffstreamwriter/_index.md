@@ -3,7 +3,7 @@ title: Class TiffStreamWriter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.FileManagement.TiffStreamWriter class. Tiff stream writer
 type: docs
-weight: 4620
+weight: 4630
 url: /net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/
 ---
 {{< psd/tize >}}

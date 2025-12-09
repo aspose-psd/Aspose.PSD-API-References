@@ -63,6 +63,7 @@ The namespace contains PSD file format entities contained in layers.
 | [Lr16Resource](./lr16resource/) | The lr16 resource. |
 | [Lr32Resource](./lr32resource/) | The lr32 resource. |
 | [LrXxResource](./lrxxresource/) | The lrXX resource. |
+| [LsdkResource](./lsdkresource/) | The lsdk layer resource (nested layer section resource). |
 | [LspfResource](./lspfresource/) | Layer protected settings |
 | [LuniResource](./luniresource/) | Layer name resource |
 | [LyidResource](./lyidresource/) | Class LyidResource. |

@@ -3,7 +3,7 @@ title: Class XmpInteger
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Basic.XmpInteger class. Represents XMP Integer basic type
 type: docs
-weight: 6410
+weight: 6420
 url: /net/aspose.psd.xmp.types.basic/xmpinteger/
 ---
 {{< psd/tize >}}
