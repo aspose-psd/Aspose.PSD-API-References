@@ -3,7 +3,7 @@ title: Interface ITextStyle
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle interface. Interface to work with Text Style
 type: docs
-weight: 3910
+weight: 3920
 url: /net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
 {{< psd/tize >}}
@@ -62,7 +62,7 @@ The following example demonstrates how you can render different styles in one te
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))

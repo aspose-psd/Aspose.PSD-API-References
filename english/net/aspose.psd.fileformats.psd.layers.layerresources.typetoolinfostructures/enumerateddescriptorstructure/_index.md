@@ -3,7 +3,7 @@ title: Class EnumeratedDescriptorStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.EnumeratedDescriptorStructure class. The enumerated descriptor structure
 type: docs
-weight: 3490
+weight: 3500
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/
 ---
 {{< psd/tize >}}

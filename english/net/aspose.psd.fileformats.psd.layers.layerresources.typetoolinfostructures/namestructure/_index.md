@@ -3,7 +3,7 @@ title: Class NameStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.NameStructure class. The Name structure key 0x6E616D65 which spells name in ASCII is a simple structure used to store a Unicode or Pascalstyle string representing the name of an element such as a layer path or adjustment
 type: docs
-weight: 3530
+weight: 3540
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/namestructure/
 ---
 {{< psd/tize >}}

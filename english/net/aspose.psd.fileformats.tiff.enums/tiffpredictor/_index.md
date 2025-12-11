@@ -3,7 +3,7 @@ title: Enum TiffPredictor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor enum. Prediction scheme for LZW
 type: docs
-weight: 4560
+weight: 4570
 url: /net/aspose.psd.fileformats.tiff.enums/tiffpredictor/
 ---
 {{< psd/tize >}}

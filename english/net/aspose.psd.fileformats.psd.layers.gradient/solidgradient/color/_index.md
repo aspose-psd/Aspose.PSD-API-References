@@ -12,6 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/color/
 Gets or sets the color.
 
 ```csharp
+[Obsolete("Property is obsolete and will be removed in further release.")]
 public Color Color { get; set; }
 ```
 
