@@ -38,19 +38,24 @@ Defines the liFD data source class in PSD File that contains information about a
 | [getAssetModTime()](#getAssetModTime--) | Gets or sets the asset modified time, for Adobe® Photoshop® \\u0421\\u0421 Libraries assets. |
 | [getChildDocId()](#getChildDocId--) | Gets or sets the child document identifier in the liFE or liFD data source of the Lnk2 / LnkE Adobe® Photoshop® resource. |
 | [getClass()](#getClass--) |  |
+| [getClassId_internalized()](#getClassId-internalized--) | Gets or sets the resource class id. |
+| [getClassName_internalized()](#getClassName-internalized--) | Gets or sets the resource class name. |
 | [getCompId()](#getCompId--) | Gets or sets the ID of the currently selected comp for the child document, which will be -1 if none are selected. |
 | [getCompInfoKeyName()](#getCompInfoKeyName--) |  |
+| [getContentID_internalized()](#getContentID-internalized--) | Gets or sets ContentID property. |
 | [getData()](#getData--) | Gets or sets the embedded smart object data in PSD file. |
 | [getDataLength_Property_internalized()](#getDataLength-Property-internalized--) | Gets the length of the embedded data. |
 | [getDataLength_internalized()](#getDataLength-internalized--) | Gets the length of the link source data. |
 | [getFileCreator()](#getFileCreator--) | Gets or sets the file creator in the PSD format LnkE / Lnk2 resource. |
 | [getFileType()](#getFileType--) | Gets or sets the type of the embedded or external file which Adobe® Photoshop® Lnk2 / LnkE resource contains or links. |
+| [getItems_internalized()](#getItems-internalized--) | Gets or sets OSTypeStructure array that define resource properties. |
 | [getLength()](#getLength--) | Gets the link data source length in bytes. |
 | [getOriginalCompId()](#getOriginalCompId--) | Gets the original ID of the currently selected Comp for the child document, which will be -1 if none are selected. |
 | [getOriginalFileName()](#getOriginalFileName--) | Gets the original file name of the data source in the Adobe® Photoshop® global link resource. |
 | [getType()](#getType--) | Gets the Adobe® Photoshop® global link data source type that can be one of the following or none: The embedded linked file liFD that corresponds to the PSD Lnk2Resource The external linked file liFE that corresponds to the PSD LnkeResource The linked file alias liFA |
 | [getUniqueId()](#getUniqueId--) | Gets the global unique identifier of the data source in the PSD link resource. |
 | [getUniqueId_internalized()](#getUniqueId-internalized--) |  |
+| [getUnknownBytes_internalized()](#getUnknownBytes-internalized--) | Gets or sets the unknown data that goes before Items OSTypeStructures properties. |
 | [getVersion()](#getVersion--) | Gets the version of the data source in the PSD LnkE / Lnk2 resource. |
 | [hasFileOpenDescriptor()](#hasFileOpenDescriptor--) | Gets or sets a value indicating whether this link data source has the file open descriptor: CompId and OriginalCompId. |
 | [hashCode()](#hashCode--) |  |
@@ -61,17 +66,22 @@ Defines the liFD data source class in PSD File that contains information about a
 | [setAssetLockedState(boolean value)](#setAssetLockedState-boolean-) | Gets or sets a value indicating whether the PSD asset is locked. |
 | [setAssetModTime(double value)](#setAssetModTime-double-) | Gets or sets the asset modified time, for Adobe® Photoshop® \\u0421\\u0421 Libraries assets. |
 | [setChildDocId(String value)](#setChildDocId-java.lang.String-) | Gets or sets the child document identifier in the liFE or liFD data source of the Lnk2 / LnkE Adobe® Photoshop® resource. |
+| [setClassId_internalized(ClassID value)](#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets the resource class id. |
+| [setClassName_internalized(String value)](#setClassName-internalized-java.lang.String-) | Gets or sets the resource class name. |
 | [setCompId(int value)](#setCompId-int-) | Gets or sets the ID of the currently selected comp for the child document, which will be -1 if none are selected. |
+| [setContentID_internalized(String value)](#setContentID-internalized-java.lang.String-) | Gets or sets ContentID property. |
 | [setData(byte[] value)](#setData-byte---) | Gets or sets the embedded smart object data in PSD file. |
 | [setFileCreator(String value)](#setFileCreator-java.lang.String-) | Gets or sets the file creator in the PSD format LnkE / Lnk2 resource. |
 | [setFileOpenDescriptor(boolean value)](#setFileOpenDescriptor-boolean-) | Gets or sets a value indicating whether this link data source has the file open descriptor: CompId and OriginalCompId. |
 | [setFileType(String value)](#setFileType-java.lang.String-) | Gets or sets the type of the embedded or external file which Adobe® Photoshop® Lnk2 / LnkE resource contains or links. |
+| [setItems_internalized(OSTypeStructure[] value)](#setItems-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---) | Gets or sets OSTypeStructure array that define resource properties. |
 | [setLibraryLink(boolean value)](#setLibraryLink-boolean-) | Gets a value indicating whether this PSD link data source links to the Adobe® Photoshop® \\u0421\\u0421 Library item. |
 | [setOriginalCompId(int value)](#setOriginalCompId-int-) | Gets the original ID of the currently selected Comp for the child document, which will be -1 if none are selected. |
 | [setOriginalFileName(String value)](#setOriginalFileName-java.lang.String-) | Gets the original file name of the data source in the Adobe® Photoshop® global link resource. |
 | [setPropertyValueByTypeStructure_internalized(OSTypeStructure structure)](#setPropertyValueByTypeStructure-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure-) | Sets the property value by type structure. |
 | [setUniqueId(UUID uuid)](#setUniqueId-java.util.UUID-) | Gets the global unique identifier of the data source in the PSD link resource. |
 | [setUniqueId_internalized(System.Guid value)](#setUniqueId-internalized-com.aspose.ms.System.Guid-) |  |
+| [setUnknownBytes_internalized(byte[] value)](#setUnknownBytes-internalized-byte---) | Gets or sets the unknown data that goes before Items OSTypeStructures properties. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
@@ -207,6 +217,26 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getClassId_internalized() {#getClassId-internalized--}
+```
+public final ClassID getClassId_internalized()
+```
+
+
+Gets or sets the resource class id.
+
+**Returns:**
+[ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid)
+### getClassName_internalized() {#getClassName-internalized--}
+```
+public final String getClassName_internalized()
+```
+
+
+Gets or sets the resource class name.
+
+**Returns:**
+java.lang.String
 ### getCompId() {#getCompId--}
 ```
 public final int getCompId()
@@ -224,6 +254,16 @@ public static String getCompInfoKeyName()
 
 
 
+
+**Returns:**
+java.lang.String
+### getContentID_internalized() {#getContentID-internalized--}
+```
+public final String getContentID_internalized()
+```
+
+
+Gets or sets ContentID property. The value of this property is read and saved only when Version is >= 8.
 
 **Returns:**
 java.lang.String
@@ -281,6 +321,16 @@ Gets or sets the type of the embedded or external file which Adobe® Photoshop®
 
 **Returns:**
 java.lang.String
+### getItems_internalized() {#getItems-internalized--}
+```
+public final OSTypeStructure[] getItems_internalized()
+```
+
+
+Gets or sets OSTypeStructure array that define resource properties.
+
+**Returns:**
+com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[]
 ### getLength() {#getLength--}
 ```
 public final long getLength()
@@ -343,6 +393,16 @@ public final System.Guid getUniqueId_internalized()
 
 **Returns:**
 com.aspose.ms.System.Guid
+### getUnknownBytes_internalized() {#getUnknownBytes-internalized--}
+```
+public final byte[] getUnknownBytes_internalized()
+```
+
+
+Gets or sets the unknown data that goes before Items OSTypeStructures properties.
+
+**Returns:**
+byte[]
 ### getVersion() {#getVersion--}
 ```
 public final int getVersion()
@@ -453,6 +513,32 @@ Gets or sets the child document identifier in the liFE or liFD data source of th
 | --- | --- | --- |
 | value | java.lang.String |  |
 
+### setClassId_internalized(ClassID value) {#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
+```
+public final void setClassId_internalized(ClassID value)
+```
+
+
+Gets or sets the resource class id.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) |  |
+
+### setClassName_internalized(String value) {#setClassName-internalized-java.lang.String-}
+```
+public final void setClassName_internalized(String value)
+```
+
+
+Gets or sets the resource class name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
 ### setCompId(int value) {#setCompId-int-}
 ```
 public final void setCompId(int value)
@@ -465,6 +551,19 @@ Gets or sets the ID of the currently selected comp for the child document, which
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
+
+### setContentID_internalized(String value) {#setContentID-internalized-java.lang.String-}
+```
+public final void setContentID_internalized(String value)
+```
+
+
+Gets or sets ContentID property. The value of this property is read and saved only when Version is >= 8.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
 
 ### setData(byte[] value) {#setData-byte---}
 ```
@@ -521,6 +620,19 @@ Gets or sets the type of the embedded or external file which Adobe® Photoshop®
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String |  |
+
+### setItems_internalized(OSTypeStructure[] value) {#setItems-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---}
+```
+public final void setItems_internalized(OSTypeStructure[] value)
+```
+
+
+Gets or sets OSTypeStructure array that define resource properties.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [OSTypeStructure\[\]](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) |  |
 
 ### setLibraryLink(boolean value) {#setLibraryLink-boolean-}
 ```
@@ -599,6 +711,19 @@ public final void setUniqueId_internalized(System.Guid value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | com.aspose.ms.System.Guid |  |
+
+### setUnknownBytes_internalized(byte[] value) {#setUnknownBytes-internalized-byte---}
+```
+public final void setUnknownBytes_internalized(byte[] value)
+```
+
+
+Gets or sets the unknown data that goes before Items OSTypeStructures properties.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | byte[] |  |
 
 ### toString() {#toString--}
 ```

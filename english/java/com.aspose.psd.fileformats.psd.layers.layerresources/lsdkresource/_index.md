@@ -1,24 +1,25 @@
 ---
-title: MlstResource
+title: LsdkResource
 second_title: Aspose.PSD for Java API Reference
-description: The mlst resource.
+description: The lsdk layer resource nested layer section resource.
 type: docs
-weight: 60
-url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/mlstresource/
+weight: 54
+url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lsdkresource/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource)
 ```
-public class MlstResource extends LayerResource
+public class LsdkResource extends LayerResource
 ```
 
-The mlst resource. This class, among other things, contains information about the position of the layer on the timeline.
+The lsdk layer resource (nested layer section resource).
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [MlstResource()](#MlstResource--) | Initializes a new instance of the [MlstResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/mlstresource) class. |
+| [LsdkResource()](#LsdkResource--) | Initializes a new instance of the [LsdkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lsdkresource) class. |
+| [LsdkResource(int sectionType, int subType)](#LsdkResource-int-int-) | Initializes a new instance of the [LsdkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lsdkresource) class. |
 ## Fields
 
 | Field | Description |
@@ -35,40 +36,53 @@ The mlst resource. This class, among other things, contains information about th
 | --- | --- |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBlendModeKey()](#getBlendModeKey--) | Gets or sets the blend mode key. |
 | [getClass()](#getClass--) |  |
-| [getClassName_internalized()](#getClassName-internalized--) | Gets or sets the class name. |
-| [getDescriptorVersion()](#getDescriptorVersion--) | Gets or sets the descriptor version. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
-| [getItems()](#getItems--) | Gets or sets the structures. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
 | [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
+| [getSectionType()](#getSectionType--) | Gets or sets the section type. |
 | [getSignature()](#getSignature--) | Gets the layer resource signature. |
+| [getSubtype()](#getSubtype--) | Gets or sets the subtype. |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
 | [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | Gets a value indicating whether this instance is resource PSB specific. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the specified stream container. |
+| [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the resource to the specified stream container. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
-| [setClassID_internalized(ClassID value)](#setClassID-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets the ClassID. |
-| [setClassName_internalized(String value)](#setClassName-internalized-java.lang.String-) | Gets or sets the class name. |
-| [setDescriptorVersion_internalized(int value)](#setDescriptorVersion-internalized-int-) | Gets or sets the descriptor version. |
+| [setBlendModeKey(long value)](#setBlendModeKey-long-) | Gets or sets the blend mode key. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
-| [setItems_internalized(OSTypeStructure[] value)](#setItems-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---) | Gets or sets the structures. |
+| [setSectionType(int value)](#setSectionType-int-) | Gets or sets the section type. |
+| [setSubtype(int value)](#setSubtype-int-) | Gets or sets the subtype. |
 | [toString()](#toString--) | Returns a String that represents this instance. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### MlstResource() {#MlstResource--}
+### LsdkResource() {#LsdkResource--}
 ```
-public MlstResource()
+public LsdkResource()
 ```
 
 
-Initializes a new instance of the [MlstResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/mlstresource) class.
+Initializes a new instance of the [LsdkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lsdkresource) class.
+
+### LsdkResource(int sectionType, int subType) {#LsdkResource-int-int-}
+```
+public LsdkResource(int sectionType, int subType)
+```
+
+
+Initializes a new instance of the [LsdkResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lsdkresource) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sectionType | int | The section type. |
+| subType | int | The subtype. |
 
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
@@ -146,6 +160,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getBlendModeKey() {#getBlendModeKey--}
+```
+public final long getBlendModeKey()
+```
+
+
+Gets or sets the blend mode key.
+
+**Returns:**
+long
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -156,26 +180,6 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getClassName_internalized() {#getClassName-internalized--}
-```
-public final String getClassName_internalized()
-```
-
-
-Gets or sets the class name.
-
-**Returns:**
-java.lang.String
-### getDescriptorVersion() {#getDescriptorVersion--}
-```
-public final int getDescriptorVersion()
-```
-
-
-Gets or sets the descriptor version.
-
-**Returns:**
-int
 ### getHeader_internalized() {#getHeader-internalized--}
 ```
 public final PsdHeader getHeader_internalized()
@@ -188,16 +192,6 @@ Value: The header.
 
 **Returns:**
 com.aspose.internal.fileformats.psd.sections.PsdHeader
-### getItems() {#getItems--}
-```
-public final OSTypeStructure[] getItems()
-```
-
-
-Gets or sets the structures.
-
-**Returns:**
-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[]
 ### getKey() {#getKey--}
 ```
 public final int getKey()
@@ -243,6 +237,16 @@ Gets the minimal psd version required for layer resource. 0 indicates no restric
 
 **Returns:**
 int
+### getSectionType() {#getSectionType--}
+```
+public final int getSectionType()
+```
+
+
+Gets or sets the section type.
+
+**Returns:**
+int
 ### getSignature() {#getSignature--}
 ```
 public int getSignature()
@@ -250,6 +254,16 @@ public int getSignature()
 
 
 Gets the layer resource signature.
+
+**Returns:**
+int
+### getSubtype() {#getSubtype--}
+```
+public final int getSubtype()
+```
+
+
+Gets or sets the subtype.
 
 **Returns:**
 int
@@ -312,12 +326,12 @@ public void save(StreamContainer streamContainer, int psdVersion)
 ```
 
 
-Saves the specified stream container.
+Saves the resource to the specified stream container.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream container. |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream container to save to. |
 | psdVersion | int | The PSD version. |
 
 ### saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature) {#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-}
@@ -349,44 +363,18 @@ Saves the header signature, identifier and length.
 | signature | int | The signature. |
 | isLengthLong | boolean | if set to  true  length is long. |
 
-### setClassID_internalized(ClassID value) {#setClassID-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
+### setBlendModeKey(long value) {#setBlendModeKey-long-}
 ```
-public final void setClassID_internalized(ClassID value)
+public final void setBlendModeKey(long value)
 ```
 
 
-Gets or sets the ClassID.
+Gets or sets the blend mode key.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) |  |
-
-### setClassName_internalized(String value) {#setClassName-internalized-java.lang.String-}
-```
-public final void setClassName_internalized(String value)
-```
-
-
-Gets or sets the class name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
-### setDescriptorVersion_internalized(int value) {#setDescriptorVersion-internalized-int-}
-```
-public final void setDescriptorVersion_internalized(int value)
-```
-
-
-Gets or sets the descriptor version.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int |  |
+| value | long |  |
 
 ### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
 ```
@@ -403,18 +391,31 @@ Value: The header.
 | --- | --- | --- |
 | value | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
 
-### setItems_internalized(OSTypeStructure[] value) {#setItems-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---}
+### setSectionType(int value) {#setSectionType-int-}
 ```
-public final void setItems_internalized(OSTypeStructure[] value)
+public final void setSectionType(int value)
 ```
 
 
-Gets or sets the structures.
+Gets or sets the section type.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [OSTypeStructure\[\]](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) |  |
+| value | int |  |
+
+### setSubtype(int value) {#setSubtype-int-}
+```
+public final void setSubtype(int value)
+```
+
+
+Gets or sets the subtype.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### toString() {#toString--}
 ```

@@ -56,6 +56,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 | [Lr16Resource](../com.aspose.psd.fileformats.psd.layers.layerresources/lr16resource) | The lr32 resource. |
 | [Lr32Resource](../com.aspose.psd.fileformats.psd.layers.layerresources/lr32resource) | The lr32 resource. |
 | [LrXxResource](../com.aspose.psd.fileformats.psd.layers.layerresources/lrxxresource) | The lrXX resource. |
+| [LsdkResource](../com.aspose.psd.fileformats.psd.layers.layerresources/lsdkresource) | The lsdk layer resource (nested layer section resource). |
 | [LspfResource](../com.aspose.psd.fileformats.psd.layers.layerresources/lspfresource) | Layer protected settings |
 | [LuniResource](../com.aspose.psd.fileformats.psd.layers.layerresources/luniresource) | Layer name resource |
 | [LyidResource](../com.aspose.psd.fileformats.psd.layers.layerresources/lyidresource) | Class LyidResource. |
