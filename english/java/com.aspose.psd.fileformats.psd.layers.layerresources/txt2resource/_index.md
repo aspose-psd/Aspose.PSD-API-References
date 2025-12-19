@@ -3,7 +3,7 @@ title: Txt2Resource
 second_title: Aspose.PSD for Java API Reference
 description: Txt2 resource class
 type: docs
-weight: 73
+weight: 74
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/txt2resource/
 ---
 

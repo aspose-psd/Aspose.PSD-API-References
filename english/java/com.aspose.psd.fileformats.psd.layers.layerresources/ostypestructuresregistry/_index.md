@@ -3,7 +3,7 @@ title: OSTypeStructuresRegistry
 second_title: Aspose.PSD for Java API Reference
 description: Represents the  resources registry.
 type: docs
-weight: 62
+weight: 63
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/
 ---
 
