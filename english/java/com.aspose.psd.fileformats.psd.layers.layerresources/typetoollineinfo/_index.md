@@ -3,7 +3,7 @@ title: TypeToolLineInfo
 second_title: Aspose.PSD for Java API Reference
 description: Type tool line info.
 type: docs
-weight: 77
+weight: 78
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
 

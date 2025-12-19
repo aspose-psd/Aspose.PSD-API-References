@@ -3,7 +3,7 @@ title: LuniResource
 second_title: Aspose.PSD for Java API Reference
 description: Layer name resource
 type: docs
-weight: 55
+weight: 56
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/luniresource/
 ---
 

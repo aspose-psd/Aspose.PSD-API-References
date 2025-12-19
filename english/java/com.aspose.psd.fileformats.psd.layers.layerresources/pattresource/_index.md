@@ -3,7 +3,7 @@ title: PattResource
 second_title: Aspose.PSD for Java API Reference
 description: Class PattResource.
 type: docs
-weight: 63
+weight: 64
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
 
