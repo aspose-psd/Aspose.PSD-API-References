@@ -12,7 +12,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/
 Gets or sets the scale.
 
 ```csharp
-public int Scale { get; set; }
+public double Scale { get; set; }
 ```
 
 ### Property Value

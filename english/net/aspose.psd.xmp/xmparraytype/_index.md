@@ -3,7 +3,7 @@ title: Enum XmpArrayType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpArrayType enum. Represents array type in XmpArray
 type: docs
-weight: 6690
+weight: 6700
 url: /net/aspose.psd.xmp/xmparraytype/
 ---
 {{< psd/tize >}}

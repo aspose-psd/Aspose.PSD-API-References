@@ -3,7 +3,7 @@ title: Class ImageCreatorsRegistry
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageCreatorsRegistry class. Represents the image creators registry
 type: docs
-weight: 5050
+weight: 5060
 url: /net/aspose.psd/imagecreatorsregistry/
 ---
 {{< psd/tize >}}

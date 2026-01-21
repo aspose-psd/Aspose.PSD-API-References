@@ -3,7 +3,7 @@ title: Class XmpMimeType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Derived.XmpMimeType class. Represents MIME type
 type: docs
-weight: 6640
+weight: 6650
 url: /net/aspose.psd.xmp.types.derived/xmpmimetype/
 ---
 {{< psd/tize >}}

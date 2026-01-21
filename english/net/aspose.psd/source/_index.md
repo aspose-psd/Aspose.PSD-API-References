@@ -3,7 +3,7 @@ title: Class Source
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Source class. The source is used to contain all relevant information for an object pipe
 type: docs
-weight: 6040
+weight: 6050
 url: /net/aspose.psd/source/
 ---
 {{< psd/tize >}}

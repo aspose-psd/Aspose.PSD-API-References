@@ -3,7 +3,7 @@ title: Class ConvolutionFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions class. The convolution filter
 type: docs
-weight: 5100
+weight: 5110
 url: /net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
 {{< psd/tize >}}

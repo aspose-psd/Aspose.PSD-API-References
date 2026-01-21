@@ -3,7 +3,7 @@ title: Class InterruptMonitor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Multithreading.InterruptMonitor class. Represents information about interruption
 type: docs
-weight: 5580
+weight: 5590
 url: /net/aspose.psd.multithreading/interruptmonitor/
 ---
 {{< psd/tize >}}

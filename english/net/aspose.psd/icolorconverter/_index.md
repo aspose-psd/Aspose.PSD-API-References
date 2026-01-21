@@ -3,7 +3,7 @@ title: Interface IColorConverter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IColorConverter interface. The color converter
 type: docs
-weight: 4810
+weight: 4820
 url: /net/aspose.psd/icolorconverter/
 ---
 {{< psd/tize >}}

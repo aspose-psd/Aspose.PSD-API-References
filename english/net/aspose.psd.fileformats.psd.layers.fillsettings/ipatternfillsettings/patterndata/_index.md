@@ -1,7 +1,7 @@
 ---
 title: IPatternFillSettings.PatternData
 second_title: Aspose.PSD for .NET API Reference
-description: IPatternFillSettings property. Gets or sets the pattern data
+description: IPatternFillSettings property. Gets the pattern data
 type: docs
 weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pa
 {{< psd/tize >}}
 ## IPatternFillSettings.PatternData property
 
-Gets or sets the pattern data.
+Gets the pattern data.
 
 ```csharp
 public int[] PatternData { get; set; }

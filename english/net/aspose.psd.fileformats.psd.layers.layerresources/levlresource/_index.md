@@ -3,7 +3,7 @@ title: Class LevlResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource class. Class LevlResource. Resource of Exposure Adjustment Layer
 type: docs
-weight: 2910
+weight: 2920
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 ---
 {{< psd/tize >}}

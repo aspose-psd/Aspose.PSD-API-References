@@ -3,7 +3,7 @@ title: Class XmpMeta
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpMeta class. Represents xmpmeta. Optional. The purpose of this element is to identify XMP metadata within general XML text that might contain other nonXMP uses of RDF
 type: docs
-weight: 6720
+weight: 6730
 url: /net/aspose.psd.xmp/xmpmeta/
 ---
 {{< psd/tize >}}

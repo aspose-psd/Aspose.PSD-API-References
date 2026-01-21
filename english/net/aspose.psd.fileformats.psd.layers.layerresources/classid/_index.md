@@ -3,7 +3,7 @@ title: Class ClassID
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClassID class. The PSD Class ID object
 type: docs
-weight: 2590
+weight: 2600
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/classid/
 ---
 {{< psd/tize >}}

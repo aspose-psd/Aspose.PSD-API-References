@@ -3,7 +3,7 @@ title: Enum WarpStyles
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Warp.WarpStyles enum. Types of support warp styles supported
 type: docs
-weight: 3980
+weight: 3990
 url: /net/aspose.psd.fileformats.psd.layers.warp/warpstyles/
 ---
 {{< psd/tize >}}

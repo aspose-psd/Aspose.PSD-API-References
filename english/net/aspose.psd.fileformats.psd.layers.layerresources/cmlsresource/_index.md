@@ -3,7 +3,7 @@ title: Class CmlsResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CmlsResource class. Class CmlsResource
 type: docs
-weight: 2610
+weight: 2620
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/
 ---
 {{< psd/tize >}}

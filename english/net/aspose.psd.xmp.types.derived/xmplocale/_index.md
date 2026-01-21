@@ -3,7 +3,7 @@ title: Class XmpLocale
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Derived.XmpLocale class. Represents language code
 type: docs
-weight: 6630
+weight: 6640
 url: /net/aspose.psd.xmp.types.derived/xmplocale/
 ---
 {{< psd/tize >}}
