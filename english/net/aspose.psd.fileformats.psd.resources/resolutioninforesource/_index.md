@@ -3,7 +3,7 @@ title: Class ResolutionInfoResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionInfoResource class. The resolution info resource
 type: docs
-weight: 4310
+weight: 4320
 url: /net/aspose.psd.fileformats.psd.resources/resolutioninforesource/
 ---
 {{< psd/tize >}}

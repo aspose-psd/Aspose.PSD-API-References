@@ -3,7 +3,7 @@ title: Class PieShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Shapes.PieShape class. Represents a pie shape
 type: docs
-weight: 5960
+weight: 5970
 url: /net/aspose.psd.shapes/pieshape/
 ---
 {{< psd/tize >}}

@@ -20,6 +20,7 @@ The namespace contains PSD file format entities contained in layers.
 | [ArtDResource](./artdresource/) | The Artboard info data for [`GlobalLayerResources`](../aspose.psd.fileformats.psd/psdimage/globallayerresources/). |
 | [BaseArtboardInfoResource](./baseartboardinforesource/) | The Artboard info data resource. |
 | [BaseFxResource](./basefxresource/) | Base effects resource |
+| [BaseLayerSectionResource](./baselayersectionresource/) | Base class for layer section resources |
 | [BlncResource](./blncresource/) | BlncResource class is a resource of Color Adjustment Layer. |
 | [BlwhResource](./blwhresource/) | BlwhResource class is a resource of Black and White Adjustment Layer. |
 | [BooleanResource](./booleanresource/) | Class BooleanResource. It's pseudo resource. Photoshop haven't it |

@@ -3,7 +3,7 @@ title: Enum TypeOfEntities
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.TypeOfEntities enum. Represents types of entities to render
 type: docs
-weight: 5420
+weight: 5430
 url: /net/aspose.psd.imageoptions/typeofentities/
 ---
 {{< psd/tize >}}

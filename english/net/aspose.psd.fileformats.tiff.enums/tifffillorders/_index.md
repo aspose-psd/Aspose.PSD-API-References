@@ -3,7 +3,7 @@ title: Enum TiffFillOrders
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFillOrders enum. Data order within a byte. Possible values for FILLORDER tag
 type: docs
-weight: 4520
+weight: 4530
 url: /net/aspose.psd.fileformats.tiff.enums/tifffillorders/
 ---
 {{< psd/tize >}}

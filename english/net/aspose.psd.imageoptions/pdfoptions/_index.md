@@ -3,7 +3,7 @@ title: Class PdfOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageOptions.PdfOptions class. The PDF options
 type: docs
-weight: 5320
+weight: 5330
 url: /net/aspose.psd.imageoptions/pdfoptions/
 ---
 {{< psd/tize >}}

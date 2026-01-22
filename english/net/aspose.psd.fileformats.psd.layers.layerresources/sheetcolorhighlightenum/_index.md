@@ -3,7 +3,7 @@ title: Enum SheetColorHighlightEnum
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum enum. Possible colors of Sheet color setting. Its UI decorative color of layer in layers list in PS
 type: docs
-weight: 3280
+weight: 3290
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
 {{< psd/tize >}}
