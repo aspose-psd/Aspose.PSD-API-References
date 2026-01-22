@@ -3,7 +3,7 @@ title: Class PattResourceData
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData class. The class to store the pattern data for PattResource resource
 type: docs
-weight: 3190
+weight: 3200
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
 {{< psd/tize >}}
@@ -39,7 +39,7 @@ public sealed class PattResourceData
 | Name | Description |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/)(StreamContainer) | Saves the pattern data. |
-| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | Sets the pattern. |
+| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | Sets the pattern pixel buffer and target size, updates [`Width`](./width/) / [`Height`](./height/), and stores the data for saving using the default compression mode (0). |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: Class PattResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource class. Class PattResource. Resource with pattern data
 type: docs
-weight: 3180
+weight: 3190
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
 {{< psd/tize >}}

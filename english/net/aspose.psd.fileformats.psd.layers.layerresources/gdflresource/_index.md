@@ -3,7 +3,7 @@ title: Class GdFlResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource class. Class GdFlResource. This resource contains information about blending of clipped element
 type: docs
-weight: 2730
+weight: 2740
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
 {{< psd/tize >}}

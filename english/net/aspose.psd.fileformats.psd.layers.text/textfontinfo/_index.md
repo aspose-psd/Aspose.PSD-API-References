@@ -3,7 +3,7 @@ title: Class TextFontInfo
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Text.TextFontInfo class. Represents the information about font. This class cannot be inherited
 type: docs
-weight: 3930
+weight: 3940
 url: /net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 ---
 {{< psd/tize >}}

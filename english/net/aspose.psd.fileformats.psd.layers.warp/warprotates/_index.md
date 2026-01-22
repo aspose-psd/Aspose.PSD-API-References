@@ -3,7 +3,7 @@ title: Enum WarpRotates
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Warp.WarpRotates enum. Types of warp rotation
 type: docs
-weight: 3960
+weight: 3970
 url: /net/aspose.psd.fileformats.psd.layers.warp/warprotates/
 ---
 {{< psd/tize >}}

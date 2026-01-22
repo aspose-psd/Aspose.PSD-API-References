@@ -3,7 +3,7 @@ title: Class NvrtResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource class. Class NvrtResource. Resource of Invert Adjustment Layer
 type: docs
-weight: 3140
+weight: 3150
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Interface ITextStyle
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle interface. Interface to work with Text Style
 type: docs
-weight: 3920
+weight: 3930
 url: /net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
 {{< psd/tize >}}

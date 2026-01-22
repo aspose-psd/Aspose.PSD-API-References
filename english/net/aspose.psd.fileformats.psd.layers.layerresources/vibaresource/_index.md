@@ -3,7 +3,7 @@ title: Class VibAResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VibAResource class. VibA Resource
 type: docs
-weight: 3710
+weight: 3720
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 ---
 {{< psd/tize >}}

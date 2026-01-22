@@ -3,7 +3,7 @@ title: Class AudioChannelType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType class. Represents audio channel type
 type: docs
-weight: 6300
+weight: 6310
 url: /net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 ---
 {{< psd/tize >}}

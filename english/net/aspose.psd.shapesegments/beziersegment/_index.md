@@ -3,7 +3,7 @@ title: Class BezierSegment
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ShapeSegments.BezierSegment class. The bezier segment going from one point to the next point and using two control points
 type: docs
-weight: 5900
+weight: 5910
 url: /net/aspose.psd.shapesegments/beziersegment/
 ---
 {{< psd/tize >}}

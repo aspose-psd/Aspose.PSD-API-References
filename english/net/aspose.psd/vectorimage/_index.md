@@ -3,7 +3,7 @@ title: Class VectorImage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.VectorImage class. The vector image is the base class for all type of vector images
 type: docs
-weight: 6180
+weight: 6190
 url: /net/aspose.psd/vectorimage/
 ---
 {{< psd/tize >}}

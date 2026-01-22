@@ -3,7 +3,7 @@ title: Class AdjustPalette
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.PaletteHelper.AdjustPalette class. Color palette adjustment class
 type: docs
-weight: 5630
+weight: 5640
 url: /net/aspose.psd.palettehelper/adjustpalette/
 ---
 {{< psd/tize >}}

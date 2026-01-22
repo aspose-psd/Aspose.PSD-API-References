@@ -3,7 +3,7 @@ title: Class Matrix
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Matrix class. Replaces the GDI Matrix
 type: docs
-weight: 5540
+weight: 5550
 url: /net/aspose.psd/matrix/
 ---
 {{< psd/tize >}}

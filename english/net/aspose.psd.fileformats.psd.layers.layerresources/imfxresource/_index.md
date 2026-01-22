@@ -3,7 +3,7 @@ title: Class ImfxResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ImfxResource class. Imfx resource Multieffects resource
 type: docs
-weight: 2810
+weight: 2820
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/imfxresource/
 ---
 {{< psd/tize >}}

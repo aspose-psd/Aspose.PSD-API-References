@@ -3,7 +3,7 @@ title: Class TimeFormat
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpDm.TimeFormat class. Represents time format in Timecode
 type: docs
-weight: 6350
+weight: 6360
 url: /net/aspose.psd.xmp.schemas.xmpdm/timeformat/
 ---
 {{< psd/tize >}}

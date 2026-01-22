@@ -3,7 +3,7 @@ title: Class DescriptorStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DescriptorStructure class. The descriptor structure
 type: docs
-weight: 3480
+weight: 3490
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/
 ---
 {{< psd/tize >}}

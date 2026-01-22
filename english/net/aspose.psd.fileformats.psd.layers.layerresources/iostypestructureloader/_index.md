@@ -3,7 +3,7 @@ title: Interface IOSTypeStructureLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IOSTypeStructureLoader interface. The OSTypeStructure resource loader
 type: docs
-weight: 2760
+weight: 2770
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/
 ---
 {{< psd/tize >}}

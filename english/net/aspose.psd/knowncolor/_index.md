@@ -3,7 +3,7 @@ title: Enum KnownColor
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.KnownColor enum. Specifies the known system colors
 type: docs
-weight: 5490
+weight: 5500
 url: /net/aspose.psd/knowncolor/
 ---
 {{< psd/tize >}}

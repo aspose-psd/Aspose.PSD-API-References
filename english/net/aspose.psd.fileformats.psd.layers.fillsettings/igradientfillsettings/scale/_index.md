@@ -1,7 +1,7 @@
 ---
 title: IGradientFillSettings.Scale
 second_title: Aspose.PSD for .NET API Reference
-description: IGradientFillSettings property. Gets or sets the scale
+description: IGradientFillSettings property. Gets or sets the normalized gradient scale in percent
 type: docs
 weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/s
 {{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-Gets or sets the scale.
+Gets or sets the **normalized** gradient scale (in percent).
 
 ```csharp
 public int Scale { get; set; }
