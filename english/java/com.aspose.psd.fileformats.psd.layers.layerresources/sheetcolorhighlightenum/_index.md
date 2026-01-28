@@ -3,7 +3,7 @@ title: SheetColorHighlightEnum
 second_title: Aspose.PSD for Java API Reference
 description: Possible colors of Sheet color setting.
 type: docs
-weight: 71
+weight: 72
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
 

@@ -21,7 +21,7 @@ Interface for Pattern fill settings
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset. |
 | [getLinked()](#getLinked--) | Gets or sets a value indicating whether this [IPatternFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings) is linked. |
-| [getPatternData()](#getPatternData--) | Gets or sets the pattern data. |
+| [getPatternData()](#getPatternData--) | Gets the pattern data. |
 | [getPatternHeight()](#getPatternHeight--) | Gets or sets the height of the pattern. |
 | [getPatternId()](#getPatternId--) | Gets or sets the pattern identifier. |
 | [getPatternName()](#getPatternName--) | Gets or sets the name of the pattern. |
@@ -82,7 +82,7 @@ public abstract int[] getPatternData()
 ```
 
 
-Gets or sets the pattern data.
+Gets the pattern data.
 
 Value: The pattern data.
 

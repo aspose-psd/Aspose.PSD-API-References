@@ -1,24 +1,19 @@
 ---
-title: Txt2Resource
+title: BaseLayerSectionResource
 second_title: Aspose.PSD for Java API Reference
-description: Txt2 resource class
+description: Base class for layer section resources
 type: docs
-weight: 75
-url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/txt2resource/
+weight: 13
+url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource)
 ```
-public class Txt2Resource extends LayerResource
+public abstract class BaseLayerSectionResource extends LayerResource
 ```
 
-Txt2 resource class
-## Constructors
-
-| Constructor | Description |
-| --- | --- |
-| [Txt2Resource()](#Txt2Resource--) | Initializes a new instance of the [Txt2Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/txt2resource) class. |
+Base class for layer section resources
 ## Fields
 
 | Field | Description |
@@ -27,55 +22,39 @@ Txt2 resource class
 | [PsbResourceSignature](#PsbResourceSignature) | The PSB-specific resource signature. |
 | [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | The PSD header version |
 | [ResourceSignature](#ResourceSignature) | The common resource signature. |
-| [TypeToolKey](#TypeToolKey) | The type tool info key. |
 | [ventureLicense_internalized](#ventureLicense-internalized) | The venture license. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [addTextRecord(String text, RectangleF bounds)](#addTextRecord-java.lang.String-com.aspose.psd.RectangleF-) | Adds the text record to Resource and returns id of text record. |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getBlendModeKey()](#getBlendModeKey--) | Gets or sets the blend mode key. |
 | [getClass()](#getClass--) |  |
-| [getData()](#getData--) | Gets or sets the data. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
-| [getKeys_internalized(System.Collections.Generic.Dictionary<String,Object> tree)](#getKeys-internalized-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.String-java.lang.Object--) | Gets the is resource compressed. |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
-| [getParsedTxt2Model_internalized()](#getParsedTxt2Model-internalized--) | Parse the txt2 data to Txt2DataRoot class instance. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
 | [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
+| [getSectionType()](#getSectionType--) | Gets or sets the section type. |
 | [getSignature()](#getSignature--) | Gets the layer resource signature. |
-| [getTextData()](#getTextData--) | Gets the text record from resource data. |
-| [getText_internalized()](#getText-internalized--) | Gets or sets the name. |
-| [getTxt2FromParsedTree_internalized(System.Collections.Generic.Dictionary<String,Object> tree)](#getTxt2FromParsedTree-internalized-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.String-java.lang.Object--) | Gets the TXT2 from parsed tree. |
-| [getTxt2ParsedTree_internalized()](#getTxt2ParsedTree-internalized--) | Gets the TXT2 parsed tree. |
+| [getSubtype()](#getSubtype--) | Gets or sets the subtype. |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
 | [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | Gets a value indicating whether this instance is resource PSB specific. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [removeTextRecord_internalized(int textIndex)](#removeTextRecord-internalized-int-) | Remove the text record from Resource. |
-| [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the specified stream container. |
+| [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the resource to the specified stream container. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
-| [setData(byte[] value)](#setData-byte---) | Gets or sets the data. |
+| [setBlendModeKey(long value)](#setBlendModeKey-long-) | Gets or sets the blend mode key. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
-| [setText_internalized(String value)](#setText-internalized-java.lang.String-) | Gets or sets the name. |
+| [setSectionType(int value)](#setSectionType-int-) | Gets or sets the section type. |
+| [setSubtype(int value)](#setSubtype-int-) | Gets or sets the subtype. |
 | [toString()](#toString--) | Returns a String that represents this instance. |
-| [updateTextData_internalized(int textIndex, String newText, double fontSize, Color color)](#updateTextData-internalized-int-java.lang.String-double-com.aspose.psd.Color-) | Updates the text record by text Index with new default text data and new text, font size and color. |
-| [updateTxt2DataFromModel_internalized(Txt2DataRoot txt2DataRoot)](#updateTxt2DataFromModel-internalized-com.aspose.internal.fileformats.psd.layers.text.txt2data.Txt2DataRoot-) | Updates the txt2 data from Txt2DataRoot model. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Txt2Resource() {#Txt2Resource--}
-```
-public Txt2Resource()
-```
-
-
-Initializes a new instance of the [Txt2Resource](../../com.aspose.psd.fileformats.psd.layers.layerresources/txt2resource) class.
-
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
 public static final int PsbHeaderVersion_internalized
@@ -108,14 +87,6 @@ public static final int ResourceSignature
 
 The common resource signature.
 
-### TypeToolKey {#TypeToolKey}
-```
-public static final int TypeToolKey
-```
-
-
-The type tool info key.
-
 ### ventureLicense_internalized {#ventureLicense-internalized}
 ```
 public Object ventureLicense_internalized
@@ -124,22 +95,6 @@ public Object ventureLicense_internalized
 
 The venture license.
 
-### addTextRecord(String text, RectangleF bounds) {#addTextRecord-java.lang.String-com.aspose.psd.RectangleF-}
-```
-public final int addTextRecord(String text, RectangleF bounds)
-```
-
-
-Adds the text record to Resource and returns id of text record.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | The record text. |
-| bounds | [RectangleF](../../com.aspose.psd/rectanglef) | The bounds. |
-
-**Returns:**
-int - Returns Id of text record for resource
 ### checkAndSetIfResourceIsPsbSpecific_internalized(int key) {#checkAndSetIfResourceIsPsbSpecific-internalized-int-}
 ```
 public final void checkAndSetIfResourceIsPsbSpecific_internalized(int key)
@@ -168,6 +123,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getBlendModeKey() {#getBlendModeKey--}
+```
+public final long getBlendModeKey()
+```
+
+
+Gets or sets the blend mode key.
+
+**Returns:**
+long
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -178,18 +143,6 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getData() {#getData--}
-```
-public final byte[] getData()
-```
-
-
-Gets or sets the data.
-
-Value: The data.
-
-**Returns:**
-byte[]
 ### getHeader_internalized() {#getHeader-internalized--}
 ```
 public final PsdHeader getHeader_internalized()
@@ -212,21 +165,6 @@ Gets the layer resource key.
 
 **Returns:**
 int
-### getKeys_internalized(System.Collections.Generic.Dictionary<String,Object> tree) {#getKeys-internalized-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.String-java.lang.Object--}
-```
-public static ITextEngineKeys getKeys_internalized(System.Collections.Generic.Dictionary<String,Object> tree)
-```
-
-
-Gets the is resource compressed.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tree | com.aspose.ms.System.Collections.Generic.Dictionary<java.lang.String,java.lang.Object> | The tree. |
-
-**Returns:**
-com.aspose.internal.fileformats.psd.layers.layerresources.ITextEngineKeys - Returns object with keys.
 ### getLength() {#getLength--}
 ```
 public int getLength()
@@ -237,16 +175,6 @@ Gets the layer resource length in bytes.
 
 **Returns:**
 int
-### getParsedTxt2Model_internalized() {#getParsedTxt2Model-internalized--}
-```
-public final Txt2DataRoot getParsedTxt2Model_internalized()
-```
-
-
-Parse the txt2 data to Txt2DataRoot class instance.
-
-**Returns:**
-com.aspose.internal.fileformats.psd.layers.text.txt2data.Txt2DataRoot - The txt2 data as Txt2DataRoot class instance.
 ### getPrefixLength_internalized(int psdVersion) {#getPrefixLength-internalized-int-}
 ```
 public final int getPrefixLength_internalized(int psdVersion)
@@ -272,6 +200,16 @@ Gets the minimal psd version required for layer resource. 0 indicates no restric
 
 **Returns:**
 int
+### getSectionType() {#getSectionType--}
+```
+public final int getSectionType()
+```
+
+
+Gets or sets the section type.
+
+**Returns:**
+int
 ### getSignature() {#getSignature--}
 ```
 public int getSignature()
@@ -282,53 +220,16 @@ Gets the layer resource signature.
 
 **Returns:**
 int
-### getTextData() {#getTextData--}
+### getSubtype() {#getSubtype--}
 ```
-public final String[] getTextData()
+public final int getSubtype()
 ```
 
 
-Gets the text record from resource data.
+Gets or sets the subtype.
 
 **Returns:**
-java.lang.String[] - Array of text record
-### getText_internalized() {#getText-internalized--}
-```
-public final String getText_internalized()
-```
-
-
-Gets or sets the name.
-
-Value: The name.
-
-**Returns:**
-java.lang.String
-### getTxt2FromParsedTree_internalized(System.Collections.Generic.Dictionary<String,Object> tree) {#getTxt2FromParsedTree-internalized-com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.String-java.lang.Object--}
-```
-public final String getTxt2FromParsedTree_internalized(System.Collections.Generic.Dictionary<String,Object> tree)
-```
-
-
-Gets the TXT2 from parsed tree.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tree | com.aspose.ms.System.Collections.Generic.Dictionary<java.lang.String,java.lang.Object> | The data tree. |
-
-**Returns:**
-java.lang.String - The Txt2 data.
-### getTxt2ParsedTree_internalized() {#getTxt2ParsedTree-internalized--}
-```
-public final System.Collections.Generic.Dictionary<String,Object> getTxt2ParsedTree_internalized()
-```
-
-
-Gets the TXT2 parsed tree.
-
-**Returns:**
-com.aspose.ms.System.Collections.Generic.Dictionary<java.lang.String,java.lang.Object> - Parsed tree
+int
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -382,31 +283,18 @@ public final native void notifyAll()
 
 
 
-### removeTextRecord_internalized(int textIndex) {#removeTextRecord-internalized-int-}
-```
-public final void removeTextRecord_internalized(int textIndex)
-```
-
-
-Remove the text record from Resource.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textIndex | int | The index of text record to remove. |
-
 ### save(StreamContainer streamContainer, int psdVersion) {#save-com.aspose.psd.StreamContainer-int-}
 ```
 public void save(StreamContainer streamContainer, int psdVersion)
 ```
 
 
-Saves the specified stream container.
+Saves the resource to the specified stream container.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream container. |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream container to save to. |
 | psdVersion | int | The PSD version. |
 
 ### saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature) {#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-}
@@ -438,20 +326,18 @@ Saves the header signature, identifier and length.
 | signature | int | The signature. |
 | isLengthLong | boolean | if set to  true  length is long. |
 
-### setData(byte[] value) {#setData-byte---}
+### setBlendModeKey(long value) {#setBlendModeKey-long-}
 ```
-public final void setData(byte[] value)
+public final void setBlendModeKey(long value)
 ```
 
 
-Gets or sets the data.
-
-Value: The data.
+Gets or sets the blend mode key.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | byte[] |  |
+| value | long |  |
 
 ### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
 ```
@@ -468,20 +354,31 @@ Value: The header.
 | --- | --- | --- |
 | value | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
 
-### setText_internalized(String value) {#setText-internalized-java.lang.String-}
+### setSectionType(int value) {#setSectionType-int-}
 ```
-public final void setText_internalized(String value)
+public final void setSectionType(int value)
 ```
 
 
-Gets or sets the name.
-
-Value: The name.
+Gets or sets the section type.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.String |  |
+| value | int |  |
+
+### setSubtype(int value) {#setSubtype-int-}
+```
+public final void setSubtype(int value)
+```
+
+
+Gets or sets the subtype.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### toString() {#toString--}
 ```
@@ -493,35 +390,6 @@ Returns a String that represents this instance.
 
 **Returns:**
 java.lang.String - A String that represents this instance.
-### updateTextData_internalized(int textIndex, String newText, double fontSize, Color color) {#updateTextData-internalized-int-java.lang.String-double-com.aspose.psd.Color-}
-```
-public final void updateTextData_internalized(int textIndex, String newText, double fontSize, Color color)
-```
-
-
-Updates the text record by text Index with new default text data and new text, font size and color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textIndex | int | The index of text record in txt2 resource data. |
-| newText | java.lang.String | The new text. |
-| fontSize | double | the new font size. |
-| color | [Color](../../com.aspose.psd/color) | The new text color. |
-
-### updateTxt2DataFromModel_internalized(Txt2DataRoot txt2DataRoot) {#updateTxt2DataFromModel-internalized-com.aspose.internal.fileformats.psd.layers.text.txt2data.Txt2DataRoot-}
-```
-public final void updateTxt2DataFromModel_internalized(Txt2DataRoot txt2DataRoot)
-```
-
-
-Updates the txt2 data from Txt2DataRoot model.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| txt2DataRoot | com.aspose.internal.fileformats.psd.layers.text.txt2data.Txt2DataRoot | The txt2 data model. |
-
 ### wait() {#wait--}
 ```
 public final void wait()

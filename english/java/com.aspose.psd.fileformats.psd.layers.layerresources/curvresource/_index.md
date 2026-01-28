@@ -3,7 +3,7 @@ title: CurvResource
 second_title: Aspose.PSD for Java API Reference
 description: Class CurvResource.
 type: docs
-weight: 22
+weight: 23
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/curvresource/
 ---
 

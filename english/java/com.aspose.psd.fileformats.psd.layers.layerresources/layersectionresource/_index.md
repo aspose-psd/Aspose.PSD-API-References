@@ -3,14 +3,14 @@ title: LayerSectionResource
 second_title: Aspose.PSD for Java API Reference
 description: The layer section resource.
 type: docs
-weight: 41
+weight: 42
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource)
+java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.BaseLayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource)
 ```
-public class LayerSectionResource extends LayerResource
+public class LayerSectionResource extends BaseLayerSectionResource
 ```
 
 The layer section resource.
@@ -19,6 +19,7 @@ The layer section resource.
 | Constructor | Description |
 | --- | --- |
 | [LayerSectionResource()](#LayerSectionResource--) | Initializes a new instance of the [LayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/layersectionresource) class. |
+| [LayerSectionResource(int sectionType, int subType)](#LayerSectionResource-int-int-) | Initializes a new instance of the [LayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/layersectionresource) class. |
 ## Fields
 
 | Field | Description |
@@ -34,7 +35,6 @@ The layer section resource.
 | Method | Description |
 | --- | --- |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
-| [create_internalized(int sectionType, int subType)](#create-internalized-int-int-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBlendModeKey()](#getBlendModeKey--) | Gets or sets the blend mode key. |
 | [getClass()](#getClass--) |  |
@@ -69,6 +69,20 @@ public LayerSectionResource()
 
 
 Initializes a new instance of the [LayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/layersectionresource) class.
+
+### LayerSectionResource(int sectionType, int subType) {#LayerSectionResource-int-int-}
+```
+public LayerSectionResource(int sectionType, int subType)
+```
+
+
+Initializes a new instance of the [LayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/layersectionresource) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sectionType | int | The section type. |
+| subType | int | The subtype. |
 
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
@@ -131,22 +145,6 @@ Checks the and set if resource is PSB specific. Some resources are not recognize
 | --- | --- | --- |
 | key | int | The key. |
 
-### create_internalized(int sectionType, int subType) {#create-internalized-int-int-}
-```
-public static LayerSectionResource create_internalized(int sectionType, int subType)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sectionType | int |  |
-| subType | int |  |
-
-**Returns:**
-[LayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/layersectionresource)
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

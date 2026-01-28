@@ -37,6 +37,7 @@ Pattern fill effect settings
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
 | [getColor()](#getColor--) | Gets or sets the color. |
+| [getCompressionModeOnSave_internalized()](#getCompressionModeOnSave-internalized--) |  |
 | [getFillType()](#getFillType--) | The fill type |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset. |
 | [getLinked()](#getLinked--) | Gets or sets a value indicating whether this [PatternFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings) is linked. |
@@ -59,6 +60,7 @@ Pattern fill effect settings
 | [setHorizontalOffset(int value)](#setHorizontalOffset-int-) | Gets or sets the horizontal offset. |
 | [setLinked(boolean value)](#setLinked-boolean-) | Gets or sets a value indicating whether this [PatternFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings) is linked. |
 | [setPatternData(int[] value)](#setPatternData-int---) | Gets or sets the pattern data. |
+| [setPatternData_internalized(int[] patternData, byte compressionModeOnSave)](#setPatternData-internalized-int---byte-) | Sets the pattern\\u2019s pixel buffer and the compression mode to use when saving. |
 | [setPatternHeight(int value)](#setPatternHeight-int-) | Gets or sets the height of the pattern. |
 | [setPatternId(String value)](#setPatternId-java.lang.String-) | Gets or sets the pattern identifier. |
 | [setPatternName(String value)](#setPatternName-java.lang.String-) | Gets or sets the name of the pattern. |
@@ -169,6 +171,16 @@ Value: The color.
 
 **Returns:**
 [Color](../../com.aspose.psd/color)
+### getCompressionModeOnSave_internalized() {#getCompressionModeOnSave-internalized--}
+```
+public final byte getCompressionModeOnSave_internalized()
+```
+
+
+
+
+**Returns:**
+byte
 ### getFillType() {#getFillType--}
 ```
 public int getFillType()
@@ -434,6 +446,20 @@ Value: The pattern data.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int[] |  |
+
+### setPatternData_internalized(int[] patternData, byte compressionModeOnSave) {#setPatternData-internalized-int---byte-}
+```
+public final void setPatternData_internalized(int[] patternData, byte compressionModeOnSave)
+```
+
+
+Sets the pattern\\u2019s pixel buffer and the compression mode to use when saving.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| patternData | int[] | 32-bit pixels in  0xAARRGGBB . |
+| compressionModeOnSave | byte | The compression mode used to define the compression of pattern data on psd file save. |
 
 ### setPatternHeight(int value) {#setPatternHeight-int-}
 ```

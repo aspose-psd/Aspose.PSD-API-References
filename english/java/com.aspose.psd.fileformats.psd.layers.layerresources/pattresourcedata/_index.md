@@ -3,7 +3,7 @@ title: PattResourceData
 second_title: Aspose.PSD for Java API Reference
 description: The class to store the pattern data for  resource.
 type: docs
-weight: 65
+weight: 66
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
 
@@ -25,6 +25,7 @@ The class to store the pattern data for [PattResource](../../com.aspose.psd.file
 | --- | --- |
 | [createNewInstance_internalized()](#createNewInstance-internalized--) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getChannelsCompressionMode_internalized()](#getChannelsCompressionMode-internalized--) | Returns the compression method code obtained from the pattern\\u2019s channels. |
 | [getClass()](#getClass--) |  |
 | [getDefaultPattern_internalized()](#getDefaultPattern-internalized--) | Creates the default pattern data. |
 | [getHeight()](#getHeight--) | Gets the height. |
@@ -32,6 +33,7 @@ The class to store the pattern data for [PattResource](../../com.aspose.psd.file
 | [getLength()](#getLength--) | Gets the length of the pattern. |
 | [getName()](#getName--) | Gets or sets the name. |
 | [getPatternData()](#getPatternData--) | Gets the pattern data. |
+| [getPatternDataArrayList_internalized()](#getPatternDataArrayList-internalized--) | The memory array list. |
 | [getPatternId()](#getPatternId--) | Gets or sets the pattern identifier. |
 | [getVersion()](#getVersion--) | Gets the version. |
 | [getWidth()](#getWidth--) | Gets the width. |
@@ -43,9 +45,10 @@ The class to store the pattern data for [PattResource](../../com.aspose.psd.file
 | [setImageMode_internalized(short value)](#setImageMode-internalized-short-) | Gets the image mode. |
 | [setIndexColorTable_internalized(byte[] value)](#setIndexColorTable-internalized-byte---) | Gets or sets the index color table. |
 | [setName(String value)](#setName-java.lang.String-) | Gets or sets the name. |
-| [setPattern(int[] pixels, Rectangle bounds)](#setPattern-int---com.aspose.psd.Rectangle-) | Sets the pattern. |
+| [setPattern(int[] pixels, Rectangle bounds)](#setPattern-int---com.aspose.psd.Rectangle-) | Sets the pattern pixel buffer and target size, updates  Width ([.getWidth](../../null/\#getWidth)/[.setWidth(short)](../../null/\#setWidth-short-)) /  Height ([.getHeight](../../null/\#getHeight)/[.setHeight(short)](../../null/\#setHeight-short-)), and stores the data for saving using the default compression mode (0). |
 | [setPatternDataArrayList_internalized(VirtualMemoryArrayList value)](#setPatternDataArrayList-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.VirtualMemoryArrayList-) | The memory array list. |
 | [setPatternId(String value)](#setPatternId-java.lang.String-) | Gets or sets the pattern identifier. |
+| [setPattern_internalized(int[] pixels, Rectangle bounds, byte compressionMode)](#setPattern-internalized-int---com.aspose.psd.Rectangle-byte-) | Sets the pattern pixel buffer and target size, updates  Width ([.getWidth](../../null/\#getWidth)/[.setWidth(short)](../../null/\#setWidth-short-)) /  Height ([.getHeight](../../null/\#getHeight)/[.setHeight(short)](../../null/\#setHeight-short-)), and stores the data for saving using the specified compression mode. |
 | [setVersion_internalized(int value)](#setVersion-internalized-int-) | Gets the version. |
 | [setWidth_internalized(short value)](#setWidth-internalized-short-) | Gets the width. |
 | [toString()](#toString--) |  |
@@ -85,6 +88,16 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getChannelsCompressionMode_internalized() {#getChannelsCompressionMode-internalized--}
+```
+public final byte getChannelsCompressionMode_internalized()
+```
+
+
+Returns the compression method code obtained from the pattern\\u2019s channels.
+
+**Returns:**
+byte - Compression code: 0 \\u2014 raw/uncompressed; >= 1 \\u2014 zip.
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -165,6 +178,16 @@ Value: The pattern data.
 
 **Returns:**
 int[]
+### getPatternDataArrayList_internalized() {#getPatternDataArrayList-internalized--}
+```
+public final VirtualMemoryArrayList getPatternDataArrayList_internalized()
+```
+
+
+The memory array list.
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layerresources.VirtualMemoryArrayList
 ### getPatternId() {#getPatternId--}
 ```
 public final String getPatternId()
@@ -304,13 +327,13 @@ public final void setPattern(int[] pixels, Rectangle bounds)
 ```
 
 
-Sets the pattern.
+Sets the pattern pixel buffer and target size, updates  Width ([.getWidth](../../null/\#getWidth)/[.setWidth(short)](../../null/\#setWidth-short-)) /  Height ([.getHeight](../../null/\#getHeight)/[.setHeight(short)](../../null/\#setHeight-short-)), and stores the data for saving using the default compression mode (0).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pixels | int[] | The pixels. |
-| bounds | [Rectangle](../../com.aspose.psd/rectangle) | The bounds. |
+| pixels | int[] | 32-bit pixels in  0xAARRGGBB  format. |
+| bounds | [Rectangle](../../com.aspose.psd/rectangle) | Pixel bounds of the pattern. |
 
 ### setPatternDataArrayList_internalized(VirtualMemoryArrayList value) {#setPatternDataArrayList-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.VirtualMemoryArrayList-}
 ```
@@ -339,6 +362,21 @@ Value: The pattern identifier.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.String |  |
+
+### setPattern_internalized(int[] pixels, Rectangle bounds, byte compressionMode) {#setPattern-internalized-int---com.aspose.psd.Rectangle-byte-}
+```
+public final void setPattern_internalized(int[] pixels, Rectangle bounds, byte compressionMode)
+```
+
+
+Sets the pattern pixel buffer and target size, updates  Width ([.getWidth](../../null/\#getWidth)/[.setWidth(short)](../../null/\#setWidth-short-)) /  Height ([.getHeight](../../null/\#getHeight)/[.setHeight(short)](../../null/\#setHeight-short-)), and stores the data for saving using the specified compression mode.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pixels | int[] | 32-bit pixels in  0xAARRGGBB  format. |
+| bounds | [Rectangle](../../com.aspose.psd/rectangle) | Pixel bounds of the pattern. |
+| compressionMode | byte | The compression mode used to define the compression of pattern data on psd file save. |
 
 ### setVersion_internalized(int value) {#setVersion-internalized-int-}
 ```

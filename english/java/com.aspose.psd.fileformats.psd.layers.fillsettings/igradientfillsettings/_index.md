@@ -25,7 +25,7 @@ Base interface for Gradient fill settings.
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset. |
 | [getReverse()](#getReverse--) | Gets or sets a value indicating whether this [IGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) is reverse. |
-| [getScale()](#getScale--) | Gets or sets the scale. |
+| [getScale()](#getScale--) | Gets or sets the  **normalized**  gradient scale (in percent). |
 | [getVerticalOffset()](#getVerticalOffset--) | Gets or sets the vertical offset. |
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
@@ -34,7 +34,7 @@ Base interface for Gradient fill settings.
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [IGradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings) is reverse. |
-| [setScale(int value)](#setScale-int-) | Gets or sets the scale. |
+| [setScale(int value)](#setScale-int-) | Gets or sets the  **normalized**  gradient scale (in percent). |
 | [setVerticalOffset(double value)](#setVerticalOffset-double-) | Gets or sets the vertical offset. |
 ### getAlignWithLayer() {#getAlignWithLayer--}
 ```
@@ -124,7 +124,7 @@ public abstract int getScale()
 ```
 
 
-Gets or sets the scale.
+Gets or sets the  **normalized**  gradient scale (in percent).
 
 Value: The scale.
 
@@ -251,7 +251,7 @@ public abstract void setScale(int value)
 ```
 
 
-Gets or sets the scale.
+Gets or sets the  **normalized**  gradient scale (in percent).
 
 Value: The scale.
 

@@ -3,7 +3,7 @@ title: CgEdResource
 second_title: Aspose.PSD for Java API Reference
 description: Class CgEdResource.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
 

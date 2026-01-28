@@ -46,7 +46,7 @@ The artboard layer class.
 | [binarizeBradley(double brightnessDifference, int windowSize)](#binarizeBradley-double-int-) | Binarization of an image using Bradley's adaptive thresholding algorithm using the integral image thresholding |
 | [binarizeFixed(byte threshold)](#binarizeFixed-byte-) | Binarization of an image with predefined threshold |
 | [binarizeOtsu()](#binarizeOtsu--) | Binarization of an image with Otsu thresholding |
-| [buildGroupLayerMarkers_internalized(String groupName, PsdHeader psdHeader, IColorPalette colorPalette)](#buildGroupLayerMarkers-internalized-java.lang.String-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-) | Build the begin and end group markers. |
+| [buildGroupLayerMarkers_internalized(String groupName, PsdHeader psdHeader, IColorPalette colorPalette, int layerNestingLevel)](#buildGroupLayerMarkers-internalized-java.lang.String-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-int-) | Build the begin and end group markers. |
 | [cacheData()](#cacheData--) | Caches the data and ensures no additional data loading will be performed from the underlying  DataStreamSupporter.DataStreamContainer . |
 | [canLoad(InputStream stream)](#canLoad-java.io.InputStream-) | Determines whether image can be loaded from the specified stream. |
 | [canLoad(InputStream stream, LoadOptions loadOptions)](#canLoad-java.io.InputStream-com.aspose.psd.LoadOptions-) | Determines whether image can be loaded from the specified stream and optionally using the specified  loadOptions . |
@@ -619,9 +619,9 @@ public void binarizeOtsu()
 
 Binarization of an image with Otsu thresholding
 
-### buildGroupLayerMarkers_internalized(String groupName, PsdHeader psdHeader, IColorPalette colorPalette) {#buildGroupLayerMarkers-internalized-java.lang.String-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-}
+### buildGroupLayerMarkers_internalized(String groupName, PsdHeader psdHeader, IColorPalette colorPalette, int layerNestingLevel) {#buildGroupLayerMarkers-internalized-java.lang.String-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-int-}
 ```
-public static Layer[] buildGroupLayerMarkers_internalized(String groupName, PsdHeader psdHeader, IColorPalette colorPalette)
+public static Layer[] buildGroupLayerMarkers_internalized(String groupName, PsdHeader psdHeader, IColorPalette colorPalette, int layerNestingLevel)
 ```
 
 
@@ -633,6 +633,7 @@ Build the begin and end group markers.
 | groupName | java.lang.String | Name of the group. |
 | psdHeader | com.aspose.internal.fileformats.psd.sections.PsdHeader | The psd header. |
 | colorPalette | [IColorPalette](../../com.aspose.psd/icolorpalette) | The color palette. |
+| layerNestingLevel | int |  |
 
 **Returns:**
 com.aspose.psd.fileformats.psd.layers.Layer[] - Returns an array of two LayerGroup objects, where the first [0] is the begin group marker and the second [1] is the end group marker.
@@ -2179,14 +2180,14 @@ Gets or sets the rotate mode.
 int - The rotate mode.
 ### getSectionResource_internalized() {#getSectionResource-internalized--}
 ```
-public LayerSectionResource getSectionResource_internalized()
+public BaseLayerSectionResource getSectionResource_internalized()
 ```
 
 
 Gets the  LayerSectionResource  from resources.
 
 **Returns:**
-[LayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/layersectionresource) - Returns the  LayerSectionResource  from resources.
+[BaseLayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource) - Returns the  LayerSectionResource  from resources.
 ### getSheetColorHighlight() {#getSheetColorHighlight--}
 ```
 public final short getSheetColorHighlight()

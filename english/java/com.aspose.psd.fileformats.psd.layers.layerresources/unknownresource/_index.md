@@ -3,7 +3,7 @@ title: UnknownResource
 second_title: Aspose.PSD for Java API Reference
 description: The unknown resource.
 type: docs
-weight: 80
+weight: 81
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
 
