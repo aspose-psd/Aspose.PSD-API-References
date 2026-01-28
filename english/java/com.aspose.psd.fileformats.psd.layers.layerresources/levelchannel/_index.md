@@ -3,7 +3,7 @@ title: LevelChannel
 second_title: Aspose.PSD for Java API Reference
 description: Class for working with channels in Levels Adjustment Layer
 type: docs
-weight: 45
+weight: 46
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
 

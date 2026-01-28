@@ -3,7 +3,7 @@ title: BlncResource
 second_title: Aspose.PSD for Java API Reference
 description: BlncResource class is a resource of Color Adjustment Layer.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
 

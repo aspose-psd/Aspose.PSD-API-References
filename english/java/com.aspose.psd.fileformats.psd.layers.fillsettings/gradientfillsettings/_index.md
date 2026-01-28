@@ -36,13 +36,14 @@ Gradient fill effect settings.
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
 | [getContainerBounds_internalized()](#getContainerBounds-internalized--) | Gets or sets the bounds of the layer container to correctly calculate the position of the gradient. |
+| [getDenormalizedScale_internalized(Size fillArea)](#getDenormalizedScale-internalized-com.aspose.psd.Size-) | Calculates and returns the  **denormalized**  gradient scale (UI Scale) corresponding to the current  Scale ([.getScale](../../null/\#getScale)/[.setScale(int)](../../null/\#setScale-int-)) value. |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is dither. |
 | [getFillType()](#getFillType--) | The fill type. |
 | [getGradient()](#getGradient--) | Gets or sets specific gradient definition instance (Solid/Noise). |
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset in percentage. |
 | [getReverse()](#getReverse--) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is reverse. |
-| [getScale()](#getScale--) | Gets or sets the scale. |
+| [getScale()](#getScale--) | Gets or sets the  **normalized**  gradient scale (in percent) |
 | [getVerticalOffset()](#getVerticalOffset--) | Gets or sets the vertical offset in percentage. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
@@ -51,12 +52,13 @@ Gradient fill effect settings.
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) | Gets or sets the angle. |
 | [setContainerBounds_internalized(Rectangle value)](#setContainerBounds-internalized-com.aspose.psd.Rectangle-) | Gets or sets the bounds of the layer container to correctly calculate the position of the gradient. |
+| [setDenormalizedScale_internalized(int value, Size fillArea)](#setDenormalizedScale-internalized-int-com.aspose.psd.Size-) | Converts the specified denormalized scale (UI) scale value to its  **normalized**  equivalent and assigns it to  Scale ([.getScale](../../null/\#getScale)/[.setScale(int)](../../null/\#setScale-int-)). |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is dither. |
 | [setGradient(BaseGradient value)](#setGradient-com.aspose.psd.fileformats.psd.layers.gradient.BaseGradient-) | Gets or sets specific gradient definition instance (Solid/Noise). |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is reverse. |
-| [setScale(int value)](#setScale-int-) | Gets or sets the scale. |
+| [setScale(int value)](#setScale-int-) | Gets or sets the  **normalized**  gradient scale (in percent) |
 | [setVerticalOffset(double value)](#setVerticalOffset-double-) | Gets or sets the vertical offset in percentage. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -133,6 +135,21 @@ Gets or sets the bounds of the layer container to correctly calculate the positi
 
 **Returns:**
 [Rectangle](../../com.aspose.psd/rectangle)
+### getDenormalizedScale_internalized(Size fillArea) {#getDenormalizedScale-internalized-com.aspose.psd.Size-}
+```
+public final int getDenormalizedScale_internalized(Size fillArea)
+```
+
+
+Calculates and returns the  **denormalized**  gradient scale (UI Scale) corresponding to the current  Scale ([.getScale](../../null/\#getScale)/[.setScale(int)](../../null/\#setScale-int-)) value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fillArea | [Size](../../com.aspose.psd/size) | The bounds of the gradient. |
+
+**Returns:**
+int - The denormalized (UI) scale in percent as displayed in Photoshop.
 ### getDither() {#getDither--}
 ```
 public final boolean getDither()
@@ -207,7 +224,7 @@ public final int getScale()
 ```
 
 
-Gets or sets the scale.
+Gets or sets the  **normalized**  gradient scale (in percent)
 
 **Returns:**
 int
@@ -298,6 +315,20 @@ Gets or sets the bounds of the layer container to correctly calculate the positi
 | --- | --- | --- |
 | value | [Rectangle](../../com.aspose.psd/rectangle) |  |
 
+### setDenormalizedScale_internalized(int value, Size fillArea) {#setDenormalizedScale-internalized-int-com.aspose.psd.Size-}
+```
+public final void setDenormalizedScale_internalized(int value, Size fillArea)
+```
+
+
+Converts the specified denormalized scale (UI) scale value to its  **normalized**  equivalent and assigns it to  Scale ([.getScale](../../null/\#getScale)/[.setScale(int)](../../null/\#setScale-int-)). The conversion applies the gradient\\u2019s current  Angle ([.getAngle](../../null/\#getAngle)/[.setAngle(double)](../../null/\#setAngle-double-)) and the provided  fillArea  to compute the normalization factor.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int | The denormalized scale, UI Scale in percent as displayed by Photoshop; |
+| fillArea | [Size](../../com.aspose.psd/size) | The bounds of the gradient. |
+
 ### setDither(boolean value) {#setDither-boolean-}
 ```
 public final void setDither(boolean value)
@@ -377,7 +408,7 @@ public final void setScale(int value)
 ```
 
 
-Gets or sets the scale.
+Gets or sets the  **normalized**  gradient scale (in percent)
 
 **Parameters:**
 | Parameter | Type | Description |

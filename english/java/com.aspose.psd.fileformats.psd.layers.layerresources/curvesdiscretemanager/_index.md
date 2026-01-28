@@ -3,7 +3,7 @@ title: CurvesDiscreteManager
 second_title: Aspose.PSD for Java API Reference
 description: Manager for Curves Adjustment Layer that manipulates pixels map
 type: docs
-weight: 24
+weight: 25
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
 

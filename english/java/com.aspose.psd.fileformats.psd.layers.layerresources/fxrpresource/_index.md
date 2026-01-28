@@ -3,7 +3,7 @@ title: FxrpResource
 second_title: Aspose.PSD for Java API Reference
 description: Class FxrpResource.
 type: docs
-weight: 31
+weight: 32
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/
 ---
 

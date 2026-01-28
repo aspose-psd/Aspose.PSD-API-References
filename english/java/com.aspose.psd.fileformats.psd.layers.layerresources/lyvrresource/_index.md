@@ -3,7 +3,7 @@ title: LyvrResource
 second_title: Aspose.PSD for Java API Reference
 description: The resource to represents photoshop version of Layer.
 type: docs
-weight: 58
+weight: 59
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lyvrresource/
 ---
 

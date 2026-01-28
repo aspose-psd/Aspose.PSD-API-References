@@ -3,7 +3,7 @@ title: Lr16Resource
 second_title: Aspose.PSD for Java API Reference
 description: The lr32 resource.
 type: docs
-weight: 51
+weight: 52
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lr16resource/
 ---
 

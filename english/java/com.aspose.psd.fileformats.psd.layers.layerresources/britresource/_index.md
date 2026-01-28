@@ -3,7 +3,7 @@ title: BritResource
 second_title: Aspose.PSD for Java API Reference
 description: Class BritResource.
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/britresource/
 ---
 

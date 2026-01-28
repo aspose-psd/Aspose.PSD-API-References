@@ -3,7 +3,7 @@ title: PtFlResource
 second_title: Aspose.PSD for Java API Reference
 description: Class PtFlResource.
 type: docs
-weight: 70
+weight: 71
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 

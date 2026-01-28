@@ -3,7 +3,7 @@ title: CurvesContinuousManager
 second_title: Aspose.PSD for Java API Reference
 description: Manager for Curves Adjustment Layer that manipulates curves
 type: docs
-weight: 23
+weight: 24
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
 
@@ -29,7 +29,7 @@ Manager for Curves Adjustment Layer that manipulates curves
 | [getClass()](#getClass--) |  |
 | [getCurvePointByIndex(int channelIndex, int pointIndex)](#getCurvePointByIndex-int-int-) | Gets the curve point by index. |
 | [getCurvePointCount(int channelIndex)](#getCurvePointCount-int-) | Gets the curve point count. |
-| [getMap_internalized()](#getMap-internalized--) | Gets the map for processing filter |
+| [getMap_internalized()](#getMap-internalized--) | Gets the map for processing filter. |
 | [getMaxChannelCount()](#getMaxChannelCount--) | Gets the maximum channel count. |
 | [hashCode()](#hashCode--) |  |
 | [loadFromBytes_internalized(byte[] bytes)](#loadFromBytes-internalized-byte---) | Loads data from bytes. |
@@ -141,10 +141,10 @@ public byte[][] getMap_internalized()
 ```
 
 
-Gets the map for processing filter
+Gets the map for processing filter.
 
 **Returns:**
-byte[][] - Map for channel processing
+byte[][] - Map for channel processing.
 ### getMaxChannelCount() {#getMaxChannelCount--}
 ```
 public final int getMaxChannelCount()

@@ -3,7 +3,7 @@ title: CurvesManager
 second_title: Aspose.PSD for Java API Reference
 description: Base Class to manage CurvResource
 type: docs
-weight: 25
+weight: 26
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
 

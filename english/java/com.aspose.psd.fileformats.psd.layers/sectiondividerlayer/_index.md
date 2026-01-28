@@ -58,6 +58,7 @@ The section divider layer to mark the bounds of the folder (layer group).
 | [create(Image[] images, boolean disposeImages)](#create-com.aspose.psd.Image---boolean-) | Creates a new image the specified images as pages. |
 | [createInstance_internalized(PsdHeader psdHeader, IColorPalette colorPalette)](#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-) |  |
 | [createInstance_internalized(PsdHeader header, IColorPalette palette, LinkedLayersRegistry linkedLayersRegistry)](#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-com.aspose.internal.fileformats.psd.layers.LinkedLayersRegistry-) | Creates the new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class. |
+| [createInstance_internalized(PsdHeader psdHeader, IColorPalette colorPalette, int layerNestedLevel)](#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-int-) | Initializes a new instance of the [LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup) class with default resources. |
 | [createLayerState_internalized()](#createLayerState-internalized--) | Creates the new [LayerState](../../com.aspose.psd.fileformats.psd.layers.animation/layerstate) instance based on current [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) values. |
 | [createPartialRotateSaver_internalized(PartialRotater resizer, IPixelsSaver pixelsSaver, int width, int height)](#createPartialRotateSaver-internalized-com.aspose.internal.rotaters.PartialRotater-com.aspose.internal.IPixelsSaver-int-int-) |  |
 | [create_internalized(System.IO.Stream stream)](#create-internalized-com.aspose.ms.System.IO.Stream-) |  |
@@ -789,6 +790,23 @@ Creates the new instance of the [Layer](../../com.aspose.psd.fileformats.psd.lay
 
 **Returns:**
 [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) - Returns the new instance of the [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) class.
+### createInstance_internalized(PsdHeader psdHeader, IColorPalette colorPalette, int layerNestedLevel) {#createInstance-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-com.aspose.psd.IColorPalette-int-}
+```
+public static SectionDividerLayer createInstance_internalized(PsdHeader psdHeader, IColorPalette colorPalette, int layerNestedLevel)
+```
+
+
+Initializes a new instance of the [LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup) class with default resources.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| psdHeader | com.aspose.internal.fileformats.psd.sections.PsdHeader | The psd header. |
+| colorPalette | [IColorPalette](../../com.aspose.psd/icolorpalette) | The color palette. |
+| layerNestedLevel | int | Nested level of the layer. |
+
+**Returns:**
+[SectionDividerLayer](../../com.aspose.psd.fileformats.psd.layers/sectiondividerlayer) - The new instance of the [LayerGroup](../../com.aspose.psd.fileformats.psd.layers/layergroup) class with default resources.
 ### createLayerState_internalized() {#createLayerState-internalized--}
 ```
 public final LayerState createLayerState_internalized()

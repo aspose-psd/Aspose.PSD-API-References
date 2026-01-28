@@ -3,7 +3,7 @@ title: KnkoResource
 second_title: Aspose.PSD for Java API Reference
 description: Class KnkoResource.
 type: docs
-weight: 39
+weight: 40
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
 
