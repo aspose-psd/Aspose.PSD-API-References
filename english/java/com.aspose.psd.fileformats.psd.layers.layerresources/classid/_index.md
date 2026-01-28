@@ -3,7 +3,7 @@ title: ClassID
 second_title: Aspose.PSD for Java API Reference
 description: The PSD Class ID object.
 type: docs
-weight: 18
+weight: 19
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/classid/
 ---
 

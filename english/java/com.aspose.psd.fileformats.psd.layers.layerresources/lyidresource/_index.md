@@ -3,7 +3,7 @@ title: LyidResource
 second_title: Aspose.PSD for Java API Reference
 description: Class LyidResource.
 type: docs
-weight: 57
+weight: 58
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
 

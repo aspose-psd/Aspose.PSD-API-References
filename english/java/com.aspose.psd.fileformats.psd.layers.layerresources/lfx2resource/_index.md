@@ -3,7 +3,7 @@ title: Lfx2Resource
 second_title: Aspose.PSD for Java API Reference
 description: Lfx2 resource effects resource
 type: docs
-weight: 47
+weight: 48
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
 

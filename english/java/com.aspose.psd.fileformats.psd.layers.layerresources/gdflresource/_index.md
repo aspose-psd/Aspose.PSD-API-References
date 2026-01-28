@@ -3,7 +3,7 @@ title: GdFlResource
 second_title: Aspose.PSD for Java API Reference
 description: Class GdFlResource.
 type: docs
-weight: 32
+weight: 33
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
 
@@ -42,7 +42,7 @@ Class GdFlResource. This resource contains information about blending of clipped
 | [getAlignWithLayer()](#getAlignWithLayer--) | Gets or sets a value indicating whether [align with layer]. |
 | [getAngle()](#getAngle--) | Gets or sets the angle. |
 | [getClass()](#getClass--) |  |
-| [getColor()](#getColor--) |  |
+| [getColor()](#getColor--) | Gets the color of the RGB. |
 | [getColorModel()](#getColorModel--) | Color Model - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl"). |
 | [getColorPoints()](#getColorPoints--) | Gets the color points. |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is dither. |
@@ -78,25 +78,25 @@ Class GdFlResource. This resource contains information about blending of clipped
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
 | [setAlignWithLayer(boolean value)](#setAlignWithLayer-boolean-) | Gets or sets a value indicating whether [align with layer]. |
 | [setAngle(double value)](#setAngle-double-) |  |
-| [setColor(Color value)](#setColor-com.aspose.psd.Color-) |  |
+| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets the color of the RGB. |
 | [setColorModel(String value)](#setColorModel-java.lang.String-) | Color Model - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl"). |
-| [setColorPoints(IGradientColorPoint[] value)](#setColorPoints-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint---) |  |
+| [setColorPoints(IGradientColorPoint[] value)](#setColorPoints-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint---) | Gets the color points. |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is dither. |
-| [setGradientInterval(double value)](#setGradientInterval-double-) |  |
+| [setGradientInterval(double value)](#setGradientInterval-double-) | Gets or sets the gradient interval. |
 | [setGradientMode(String value)](#setGradientMode-java.lang.String-) | Mode for this gradient. |
-| [setGradientName(String value)](#setGradientName-java.lang.String-) |  |
+| [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setGradientType(int value)](#setGradientType-int-) |  |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) |  |
 | [setMaximumColor(RawColor value)](#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Maximum color of PixelDataFormat. |
 | [setMinimumColor(RawColor value)](#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Minimum color of PixelDataFormat. |
-| [setOffset_internalized(OffsetEntity value)](#setOffset-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OffsetEntity-) |  |
+| [setOffset_internalized(OffsetEntity value)](#setOffset-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OffsetEntity-) | Gets or sets the offset. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [GdFlResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/gdflresource) is reverse. |
 | [setRndNumberSeed(int value)](#setRndNumberSeed-int-) | The random number seed used to generate colors for Noise gradient. |
 | [setRoughness(int value)](#setRoughness-int-) | Roughness factor. |
-| [setScale(int value)](#setScale-int-) |  |
+| [setScale(double value)](#setScale-double-) | Gets or sets the scale. |
 | [setShowTransparency(boolean value)](#setShowTransparency-boolean-) | Flag for showing transparency. |
-| [setTransparencyPoints(IGradientTransparencyPoint[] value)](#setTransparencyPoints-com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint---) |  |
+| [setTransparencyPoints(IGradientTransparencyPoint[] value)](#setTransparencyPoints-com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint---) | Gets the transparency points. |
 | [setUseVectorColor(boolean value)](#setUseVectorColor-boolean-) | Flag for using vector color. |
 | [setVerticalOffset(double value)](#setVerticalOffset-double-) |  |
 | [toString()](#toString--) | Returns a String that represents this instance. |
@@ -264,14 +264,14 @@ public final native Class<?> getClass()
 java.lang.Class<?>
 ### getColor() {#getColor--}
 ```
-public Color getColor()
+public final Color getColor()
 ```
 
 
-
+Gets the color of the RGB.
 
 **Returns:**
-[Color](../../com.aspose.psd/color)
+[Color](../../com.aspose.psd/color) - The RGB Color
 ### getColorModel() {#getColorModel--}
 ```
 public final String getColorModel()
@@ -284,13 +284,13 @@ Color Model - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl").
 java.lang.String
 ### getColorPoints() {#getColorPoints--}
 ```
-public IGradientColorPoint[] getColorPoints()
+public final IGradientColorPoint[] getColorPoints()
 ```
 
 
 Gets the color points.
 
-The color points.
+Value: The color points.
 
 **Returns:**
 com.aspose.psd.fileformats.psd.layers.IGradientColorPoint[]
@@ -308,13 +308,13 @@ Value:  true  if dither; otherwise,  false .
 boolean
 ### getGradientInterval() {#getGradientInterval--}
 ```
-public double getGradientInterval()
+public final double getGradientInterval()
 ```
 
 
 Gets or sets the gradient interval.
 
-The gradient interval.
+Value: The gradient interval.
 
 **Returns:**
 double
@@ -336,7 +336,7 @@ public String getGradientName()
 
 Gets or sets the name of the gradient.
 
-The name of the gradient.
+Value: The name of the gradient.
 
 **Returns:**
 java.lang.String
@@ -416,13 +416,13 @@ Minimum color of PixelDataFormat.
 [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor)
 ### getOffset_internalized() {#getOffset-internalized--}
 ```
-public OffsetEntity getOffset_internalized()
+public final OffsetEntity getOffset_internalized()
 ```
 
 
 Gets or sets the offset.
 
-The offset.
+Value: The offset.
 
 **Returns:**
 com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OffsetEntity
@@ -485,16 +485,14 @@ Roughness factor.
 int
 ### getScale() {#getScale--}
 ```
-public int getScale()
+public final double getScale()
 ```
 
 
 Gets or sets the scale.
 
-The scale.
-
 **Returns:**
-int
+double
 ### getShowTransparency() {#getShowTransparency--}
 ```
 public final boolean getShowTransparency()
@@ -517,13 +515,13 @@ Gets the layer resource signature.
 int
 ### getTransparencyPoints() {#getTransparencyPoints--}
 ```
-public IGradientTransparencyPoint[] getTransparencyPoints()
+public final IGradientTransparencyPoint[] getTransparencyPoints()
 ```
 
 
 Gets the transparency points.
 
-The transparency points.
+Value: The transparency points.
 
 **Returns:**
 com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint[]
@@ -675,11 +673,11 @@ public void setAngle(double value)
 
 ### setColor(Color value) {#setColor-com.aspose.psd.Color-}
 ```
-public void setColor(Color value)
+public final void setColor(Color value)
 ```
 
 
-
+Gets the color of the RGB.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -701,11 +699,13 @@ Color Model - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl").
 
 ### setColorPoints(IGradientColorPoint[] value) {#setColorPoints-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint---}
 ```
-public void setColorPoints(IGradientColorPoint[] value)
+public final void setColorPoints(IGradientColorPoint[] value)
 ```
 
 
+Gets the color points.
 
+Value: The color points.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -729,11 +729,13 @@ Value:  true  if dither; otherwise,  false .
 
 ### setGradientInterval(double value) {#setGradientInterval-double-}
 ```
-public void setGradientInterval(double value)
+public final void setGradientInterval(double value)
 ```
 
 
+Gets or sets the gradient interval.
 
+Value: The gradient interval.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -759,7 +761,9 @@ public void setGradientName(String value)
 ```
 
 
+Gets or sets the name of the gradient.
 
+Value: The name of the gradient.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -835,11 +839,13 @@ Minimum color of PixelDataFormat.
 
 ### setOffset_internalized(OffsetEntity value) {#setOffset-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OffsetEntity-}
 ```
-public void setOffset_internalized(OffsetEntity value)
+public final void setOffset_internalized(OffsetEntity value)
 ```
 
 
+Gets or sets the offset.
 
+Value: The offset.
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -887,18 +893,18 @@ Roughness factor.
 | --- | --- | --- |
 | value | int |  |
 
-### setScale(int value) {#setScale-int-}
+### setScale(double value) {#setScale-double-}
 ```
-public void setScale(int value)
+public final void setScale(double value)
 ```
 
 
-
+Gets or sets the scale.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int |  |
+| value | double |  |
 
 ### setShowTransparency(boolean value) {#setShowTransparency-boolean-}
 ```
@@ -915,11 +921,13 @@ Flag for showing transparency.
 
 ### setTransparencyPoints(IGradientTransparencyPoint[] value) {#setTransparencyPoints-com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint---}
 ```
-public void setTransparencyPoints(IGradientTransparencyPoint[] value)
+public final void setTransparencyPoints(IGradientTransparencyPoint[] value)
 ```
 
 
+Gets the transparency points.
 
+Value: The transparency points.
 
 **Parameters:**
 | Parameter | Type | Description |

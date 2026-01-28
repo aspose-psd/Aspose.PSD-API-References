@@ -3,7 +3,7 @@ title: Hue2Resource
 second_title: Aspose.PSD for Java API Reference
 description: Class Hue2Resource.
 type: docs
-weight: 35
+weight: 36
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 ---
 

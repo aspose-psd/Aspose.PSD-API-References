@@ -3,7 +3,7 @@ title: TypeToolStyleInfo
 second_title: Aspose.PSD for Java API Reference
 description: Type tool style information.
 type: docs
-weight: 79
+weight: 80
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 ---
 

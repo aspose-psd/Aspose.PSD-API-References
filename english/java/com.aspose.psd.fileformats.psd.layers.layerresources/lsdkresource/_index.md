@@ -3,14 +3,14 @@ title: LsdkResource
 second_title: Aspose.PSD for Java API Reference
 description: The lsdk layer resource nested layer section resource.
 type: docs
-weight: 54
+weight: 55
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lsdkresource/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource)
+java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.BaseLayerSectionResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource)
 ```
-public class LsdkResource extends LayerResource
+public class LsdkResource extends BaseLayerSectionResource
 ```
 
 The lsdk layer resource (nested layer section resource).

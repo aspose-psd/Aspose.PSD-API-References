@@ -15,6 +15,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 | [AdjustmentLayerResource](../com.aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource) | Base Class for adjustment layer resources |
 | [AnimatedDataSectionStructure](../com.aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure) | The section with animated data. |
 | [BaseFxResource](../com.aspose.psd.fileformats.psd.layers.layerresources/basefxresource) | Base effects resource |
+| [BaseLayerSectionResource](../com.aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource) | Base class for layer section resources |
 | [BlncResource](../com.aspose.psd.fileformats.psd.layers.layerresources/blncresource) | BlncResource class is a resource of Color Adjustment Layer. |
 | [BlwhResource](../com.aspose.psd.fileformats.psd.layers.layerresources/blwhresource) | BlwhResource class is a resource of Black and White Adjustment Layer. |
 | [BooleanResource](../com.aspose.psd.fileformats.psd.layers.layerresources/booleanresource) | Class BooleanResource. |

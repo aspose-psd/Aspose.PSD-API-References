@@ -3,7 +3,7 @@ title: BooleanResource
 second_title: Aspose.PSD for Java API Reference
 description: Class BooleanResource.
 type: docs
-weight: 15
+weight: 16
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/booleanresource/
 ---
 

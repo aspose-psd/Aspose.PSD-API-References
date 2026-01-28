@@ -3,7 +3,7 @@ title: ImfxResource
 second_title: Aspose.PSD for Java API Reference
 description: Imfx resource Multi-effects resource
 type: docs
-weight: 36
+weight: 37
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/imfxresource/
 ---
 
