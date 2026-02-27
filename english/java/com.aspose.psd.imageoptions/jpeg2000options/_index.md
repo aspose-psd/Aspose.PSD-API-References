@@ -38,6 +38,7 @@ The Jpeg2000 file format options.
 | [getDefaultReplacementFont()](#getDefaultReplacementFont--) | Gets or sets the default replacement font (font that will be used to draw text when exporting to raster, if existing layer font in PSD file is not presented in system). |
 | [getDisposed()](#getDisposed--) | Gets a value indicating whether this instance is disposed. |
 | [getFullFrame()](#getFullFrame--) | Gets a value indicating whether [full frame]. |
+| [getIgnoreAfterCreate_internalized()](#getIgnoreAfterCreate-internalized--) | Gets or sets a value indicating whether ignore after create event. |
 | [getIrreversible()](#getIrreversible--) | Gets a value indicating whether use the irreversible DWT 9-7 (true) or use lossless DWT 5-3 compression (default). |
 | [getMultiPageOptions()](#getMultiPageOptions--) | The multipage options |
 | [getPalette()](#getPalette--) | Gets or sets the color palette. |
@@ -236,6 +237,18 @@ Value:  true  if [full frame]; otherwise,  false .
 
 **Returns:**
 boolean - a value indicating whether [full frame].
+### getIgnoreAfterCreate_internalized() {#getIgnoreAfterCreate-internalized--}
+```
+public final boolean getIgnoreAfterCreate_internalized()
+```
+
+
+Gets or sets a value indicating whether ignore after create event.
+
+Value:  true  if ignore after create event; otherwise,  false .
+
+**Returns:**
+boolean
 ### getIrreversible() {#getIrreversible--}
 ```
 public boolean getIrreversible()
@@ -263,8 +276,6 @@ public IColorPalette getPalette()
 
 
 Gets or sets the color palette.
-
-Value: The color palette.
 
 **Returns:**
 [IColorPalette](../../com.aspose.psd/icolorpalette)
@@ -309,8 +320,6 @@ public final VectorRasterizationOptions getVectorRasterizationOptions()
 
 
 Gets or sets the vector rasterization options.
-
-Value: The vector rasterization options.
 
 **Returns:**
 [VectorRasterizationOptions](../../com.aspose.psd.imageoptions/vectorrasterizationoptions)
@@ -483,8 +492,6 @@ public void setPalette(IColorPalette value)
 
 Gets or sets the color palette.
 
-Value: The color palette.
-
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -540,8 +547,6 @@ public final void setVectorRasterizationOptions(VectorRasterizationOptions value
 
 
 Gets or sets the vector rasterization options.
-
-Value: The vector rasterization options.
 
 **Parameters:**
 | Parameter | Type | Description |
