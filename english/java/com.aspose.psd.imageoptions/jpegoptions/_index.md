@@ -43,6 +43,7 @@ The jpeg file format create options.
 | [getExifData()](#getExifData--) | Get or set exif data container |
 | [getFullFrame()](#getFullFrame--) | Gets a value indicating whether [full frame]. |
 | [getHorizontalSampling()](#getHorizontalSampling--) | Gets the horizontal subsamplings for each component. |
+| [getIgnoreAfterCreate_internalized()](#getIgnoreAfterCreate-internalized--) | Gets or sets a value indicating whether ignore after create event. |
 | [getJfif()](#getJfif--) | Gets the jfif. |
 | [getJpegLsAllowedLossyError()](#getJpegLsAllowedLossyError--) | Gets the JPEG-LS difference bound for near-lossless coding (NEAR parameter from the JPEG-LS specification). |
 | [getJpegLsInterleaveMode()](#getJpegLsInterleaveMode--) | Gets the JPEG-LS interleave mode. |
@@ -317,6 +318,18 @@ Gets the horizontal subsamplings for each component.
 
 **Returns:**
 byte[]
+### getIgnoreAfterCreate_internalized() {#getIgnoreAfterCreate-internalized--}
+```
+public final boolean getIgnoreAfterCreate_internalized()
+```
+
+
+Gets or sets a value indicating whether ignore after create event.
+
+Value:  true  if ignore after create event; otherwise,  false .
+
+**Returns:**
+boolean
 ### getJfif() {#getJfif--}
 ```
 public JFIFData getJfif()
@@ -374,8 +387,6 @@ public IColorPalette getPalette()
 
 
 Gets or sets the color palette.
-
-Value: The color palette.
 
 **Returns:**
 [IColorPalette](../../com.aspose.psd/icolorpalette)
@@ -490,8 +501,6 @@ public final VectorRasterizationOptions getVectorRasterizationOptions()
 
 
 Gets or sets the vector rasterization options.
-
-Value: The vector rasterization options.
 
 **Returns:**
 [VectorRasterizationOptions](../../com.aspose.psd.imageoptions/vectorrasterizationoptions)
@@ -778,8 +787,6 @@ public void setPalette(IColorPalette value)
 
 Gets or sets the color palette.
 
-Value: The color palette.
-
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -913,8 +920,6 @@ public final void setVectorRasterizationOptions(VectorRasterizationOptions value
 
 
 Gets or sets the vector rasterization options.
-
-Value: The vector rasterization options.
 
 **Parameters:**
 | Parameter | Type | Description |
