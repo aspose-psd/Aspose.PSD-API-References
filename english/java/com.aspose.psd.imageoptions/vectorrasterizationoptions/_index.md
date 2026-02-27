@@ -41,6 +41,7 @@ The vector rasterization options.
 | [getDisposed()](#getDisposed--) | Gets a value indicating whether this instance is disposed. |
 | [getDrawColor()](#getDrawColor--) | Gets a foreground color. |
 | [getFullFrame()](#getFullFrame--) | Gets a value indicating whether [full frame]. |
+| [getIgnoreAfterCreate_internalized()](#getIgnoreAfterCreate-internalized--) | Gets or sets a value indicating whether ignore after create event. |
 | [getMultiPageOptions()](#getMultiPageOptions--) | The multipage options |
 | [getPageHeight()](#getPageHeight--) | Gets the page height. |
 | [getPageSize()](#getPageSize--) | Gets the page size. |
@@ -280,6 +281,18 @@ Value:  true  if [full frame]; otherwise,  false .
 
 **Returns:**
 boolean - a value indicating whether [full frame].
+### getIgnoreAfterCreate_internalized() {#getIgnoreAfterCreate-internalized--}
+```
+public final boolean getIgnoreAfterCreate_internalized()
+```
+
+
+Gets or sets a value indicating whether ignore after create event.
+
+Value:  true  if ignore after create event; otherwise,  false .
+
+**Returns:**
+boolean
 ### getMultiPageOptions() {#getMultiPageOptions--}
 ```
 public final MultiPageOptions getMultiPageOptions()
@@ -327,8 +340,6 @@ public IColorPalette getPalette()
 
 
 Gets or sets the color palette.
-
-Value: The color palette.
 
 **Returns:**
 [IColorPalette](../../com.aspose.psd/icolorpalette)
@@ -407,8 +418,6 @@ public final VectorRasterizationOptions getVectorRasterizationOptions()
 
 
 Gets or sets the vector rasterization options.
-
-Value: The vector rasterization options.
 
 **Returns:**
 [VectorRasterizationOptions](../../com.aspose.psd.imageoptions/vectorrasterizationoptions)
@@ -635,8 +644,6 @@ public void setPalette(IColorPalette value)
 
 Gets or sets the color palette.
 
-Value: The color palette.
-
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -735,8 +742,6 @@ public final void setVectorRasterizationOptions(VectorRasterizationOptions value
 
 
 Gets or sets the vector rasterization options.
-
-Value: The vector rasterization options.
 
 **Parameters:**
 | Parameter | Type | Description |

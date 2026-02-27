@@ -64,6 +64,7 @@ The tiff file format options. Note that width and height tags will get overwritt
 | [getHalfToneHints()](#getHalfToneHints--) | Gets or sets the halftone hints. |
 | [getIccProfile()](#getIccProfile--) | Gets the icc profile stream. |
 | [getIccProfile_internalized()](#getIccProfile-internalized--) |  |
+| [getIgnoreAfterCreate_internalized()](#getIgnoreAfterCreate-internalized--) | Gets or sets a value indicating whether ignore after create event. |
 | [getImageDescription()](#getImageDescription--) | Gets or sets the image description. |
 | [getImageLength()](#getImageLength--) | Gets or sets the image length. |
 | [getImageWidth()](#getImageWidth--) | Gets or sets the image width. |
@@ -639,6 +640,18 @@ public System.IO.MemoryStream getIccProfile_internalized()
 
 **Returns:**
 com.aspose.ms.System.IO.MemoryStream
+### getIgnoreAfterCreate_internalized() {#getIgnoreAfterCreate-internalized--}
+```
+public final boolean getIgnoreAfterCreate_internalized()
+```
+
+
+Gets or sets a value indicating whether ignore after create event.
+
+Value:  true  if ignore after create event; otherwise,  false .
+
+**Returns:**
+boolean
 ### getImageDescription() {#getImageDescription--}
 ```
 public String getImageDescription()
@@ -1070,8 +1083,6 @@ public final VectorRasterizationOptions getVectorRasterizationOptions()
 
 
 Gets or sets the vector rasterization options.
-
-Value: The vector rasterization options.
 
 **Returns:**
 [VectorRasterizationOptions](../../com.aspose.psd.imageoptions/vectorrasterizationoptions)
@@ -2066,8 +2077,6 @@ public final void setVectorRasterizationOptions(VectorRasterizationOptions value
 
 
 Gets or sets the vector rasterization options.
-
-Value: The vector rasterization options.
 
 **Parameters:**
 | Parameter | Type | Description |
