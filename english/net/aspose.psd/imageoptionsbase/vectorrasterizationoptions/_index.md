@@ -15,10 +15,6 @@ Gets or sets the vector rasterization options.
 public VectorRasterizationOptions VectorRasterizationOptions { get; set; }
 ```
 
-### Property Value
-
-The vector rasterization options.
-
 ### See Also
 
 * class [VectorRasterizationOptions](../../../aspose.psd.imageoptions/vectorrasterizationoptions/)
