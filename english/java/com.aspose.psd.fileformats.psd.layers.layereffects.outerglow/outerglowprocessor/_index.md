@@ -30,7 +30,7 @@ Calculating tool for the Outer Glow effect
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [process(Rectangle pixelsRectangle)](#process-com.aspose.psd.Rectangle-) | Method apply effect to source pixels |
+| [process(Rectangle pixelsRectangle)](#process-com.aspose.psd.Rectangle-) | Method apply effect to source pixels. |
 | [setEnd_internalized(Point value)](#setEnd-internalized-com.aspose.psd.Point-) | Gets or sets the end point of treatment |
 | [setSourcePixels_internalized(int[] value)](#setSourcePixels-internalized-int---) | Gets or sets the pixels of the layer to apply the effect |
 | [setStart_internalized(Point value)](#setStart-internalized-com.aspose.psd.Point-) | Gets or sets the start point of treatment |
@@ -140,7 +140,7 @@ public final void process(Rectangle pixelsRectangle)
 ```
 
 
-Method apply effect to source pixels
+Method apply effect to source pixels.
 
 **Parameters:**
 | Parameter | Type | Description |
