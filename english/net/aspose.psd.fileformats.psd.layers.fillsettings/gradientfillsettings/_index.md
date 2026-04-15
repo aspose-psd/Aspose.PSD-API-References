@@ -32,6 +32,7 @@ public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 | [Gradient](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradient/) { get; set; } | Gets or sets specific gradient definition instance (Solid/Noise). |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset in percentage. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/interpolationmethod/) { get; set; } | Gets or sets the interpolation method for the gradient. |
 | [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | Gets or sets a value indicating whether this `GradientFillSettings` is reverse. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | Gets or sets the **normalized** gradient scale (in percent) |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | Gets or sets the vertical offset in percentage. |

@@ -3,7 +3,7 @@ title: GrdmResource.Save
 second_title: Aspose.PSD for .NET API Reference
 description: GrdmResource method. Saves resource data to the specified stream container
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/save/
 ---
 {{< psd/tize >}}

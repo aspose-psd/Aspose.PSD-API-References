@@ -3,7 +3,7 @@ title: Class XmpElementBase
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.XmpElementBase class. Represents base xmp element contains attributes
 type: docs
-weight: 6710
+weight: 6730
 url: /net/aspose.psd.xmp/xmpelementbase/
 ---
 {{< psd/tize >}}

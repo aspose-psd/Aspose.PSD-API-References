@@ -3,7 +3,7 @@ title: GdFlResource.MaximumColor
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Maximum color of PixelDataFormat
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/maximumcolor/
 ---
 {{< psd/tize >}}

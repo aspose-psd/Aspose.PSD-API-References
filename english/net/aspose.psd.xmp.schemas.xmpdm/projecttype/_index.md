@@ -3,7 +3,7 @@ title: Enum ProjectType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType enum. Represents project type in XmpDynamicMediaPackage
 type: docs
-weight: 6340
+weight: 6360
 url: /net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class GrdmResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GrdmResource class. Class GrdmResource. Contains information about GradientMap layer
 type: docs
-weight: 2750
+weight: 2760
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 ---
 {{< psd/tize >}}
@@ -32,6 +32,7 @@ public class GrdmResource : AdjustmentLayerResource
 | [GradientMode](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/gradientmode/) { get; set; } | Mode for this gradient Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/gradientname/) { get; set; } | Name of the gradient: Unicode string, padded. |
 | [Interpolation](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/interpolation/) { get; set; } | Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid' (GradientMode = 0). |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/interpolationmethod/) { get; set; } | Gets or sets the interpolation method for the gradient. |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/length/) { get; } | Gets the layer resource length in bytes. |
 | [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/maximumcolor/) { get; set; } | Maximum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit. |

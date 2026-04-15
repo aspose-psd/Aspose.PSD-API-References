@@ -3,7 +3,7 @@ title: Class BaseLayerSectionResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BaseLayerSectionResource class. Base class for layer section resources
 type: docs
-weight: 2540
+weight: 2550
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/
 ---
 {{< psd/tize >}}

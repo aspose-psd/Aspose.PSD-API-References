@@ -43,6 +43,7 @@ The namespace contains PSD file format entities contained in layers.
 | [GdFlResource](./gdflresource/) | Class GdFlResource. This resource contains information about blending of clipped element. |
 | [GrdmResource](./grdmresource/) | Class GrdmResource. Contains information about Gradient-Map layer. |
 | [Hue2Resource](./hue2resource/) | Class Hue2Resource. Resource of Exposure Adjustment Layer |
+| [IfxsResource](./ifxsresource/) | Ifxs resource (group layer effects resource) |
 | [ImfxResource](./imfxresource/) | Imfx resource (Multi-effects resource) |
 | [InfxResource](./infxresource/) | Class InfxResource. This resource contains information about blending of clipped element. |
 | [IopaResource](./ioparesource/) | Class IopaResource. This resource contains information about the fill opacity property from the layer style form |
