@@ -3,7 +3,7 @@ title: Class XmpMediaManagementPackage
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Schemas.XmpMm.XmpMediaManagementPackage class. Represents XMP Media Management namespace
 type: docs
-weight: 6390
+weight: 6410
 url: /net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/
 ---
 {{< psd/tize >}}

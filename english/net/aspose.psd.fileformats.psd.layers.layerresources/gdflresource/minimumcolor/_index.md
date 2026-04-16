@@ -3,7 +3,7 @@ title: GdFlResource.MinimumColor
 second_title: Aspose.PSD for .NET API Reference
 description: GdFlResource property. Minimum color of PixelDataFormat
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/minimumcolor/
 ---
 {{< psd/tize >}}

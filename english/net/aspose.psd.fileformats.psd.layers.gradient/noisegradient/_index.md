@@ -3,7 +3,7 @@ title: Class NoiseGradient
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Gradient.NoiseGradient class. Noise gradient definition class
 type: docs
-weight: 2200
+weight: 2210
 url: /net/aspose.psd.fileformats.psd.layers.gradient/noisegradient/
 ---
 {{< psd/tize >}}

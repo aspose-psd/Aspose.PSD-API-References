@@ -3,7 +3,7 @@ title: Class LrXxResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LrXxResource class. The lrXX resource
 type: docs
-weight: 3070
+weight: 3090
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/
 ---
 {{< psd/tize >}}

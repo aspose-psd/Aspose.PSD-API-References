@@ -3,7 +3,7 @@ title: Class GaussWienerFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.GaussWienerFilterOptions class. Gauss Wiener Filter Options Deblur gauss
 type: docs
-weight: 5140
+weight: 5160
 url: /net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/
 ---
 {{< psd/tize >}}

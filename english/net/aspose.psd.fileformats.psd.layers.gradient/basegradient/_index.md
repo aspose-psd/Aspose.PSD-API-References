@@ -3,7 +3,7 @@ title: Class BaseGradient
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Gradient.BaseGradient class. Base gradient definition class. It contains common properties for both types of gradient Solid and Noise
 type: docs
-weight: 2170
+weight: 2180
 url: /net/aspose.psd.fileformats.psd.layers.gradient/basegradient/
 ---
 {{< psd/tize >}}

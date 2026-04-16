@@ -3,7 +3,7 @@ title: Class GaussianBlurFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions class. The Gaussian blur
 type: docs
-weight: 5150
+weight: 5170
 url: /net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
 {{< psd/tize >}}
