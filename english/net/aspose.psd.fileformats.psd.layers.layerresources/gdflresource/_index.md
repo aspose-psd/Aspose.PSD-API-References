@@ -3,7 +3,7 @@ title: Class GdFlResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource class. Class GdFlResource. This resource contains information about blending of clipped element
 type: docs
-weight: 2740
+weight: 2750
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
 {{< psd/tize >}}
@@ -36,6 +36,7 @@ public class GdFlResource : FillLayerResource
 | [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | Gets or sets the name of the gradient. |
 | [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | Gets or sets the type of the gradient. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/) { get; set; } | Gets or sets the horizontal offset. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/interpolationmethod/) { get; set; } | Gets or sets the interpolation method for the gradient. |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | Gets the layer resource length in bytes. |
 | [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/maximumcolor/) { get; set; } | Maximum color of PixelDataFormat. |

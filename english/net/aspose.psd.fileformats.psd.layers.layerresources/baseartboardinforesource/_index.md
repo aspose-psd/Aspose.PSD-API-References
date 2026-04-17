@@ -3,7 +3,7 @@ title: Class BaseArtboardInfoResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BaseArtboardInfoResource class. The Artboard info data resource
 type: docs
-weight: 2520
+weight: 2530
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/baseartboardinforesource/
 ---
 {{< psd/tize >}}

@@ -27,6 +27,7 @@ public class GradientMapSettings
 | --- | --- |
 | [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings/dither/) { get; set; } | Gets or sets a value indicating whether this [`GradientFillSettings`](../gradientfillsettings/) is dither. |
 | [Gradient](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings/gradient/) { get; set; } | Gets or sets specific gradient definition instance (Solid/Noise). |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings/interpolationmethod/) { get; set; } | Gets or sets the interpolation method for the gradient. |
 | [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings/reverse/) { get; set; } | Gets or sets a value indicating whether this [`GradientFillSettings`](../gradientfillsettings/) is reverse. |
 
 ## Examples

@@ -3,7 +3,7 @@ title: GrdmResource.ShowTransparency
 second_title: Aspose.PSD for .NET API Reference
 description: GrdmResource property. Flag for showing transparency When Gradient type  Noise we can assign Add transparency to true
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/showtransparency/
 ---
 {{< psd/tize >}}

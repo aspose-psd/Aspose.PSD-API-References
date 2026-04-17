@@ -3,7 +3,7 @@ title: Class LsdkResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LsdkResource class. The lsdk layer resource nested layer section resource
 type: docs
-weight: 3080
+weight: 3100
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lsdkresource/
 ---
 {{< psd/tize >}}

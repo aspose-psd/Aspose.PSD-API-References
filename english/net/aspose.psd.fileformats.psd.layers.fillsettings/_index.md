@@ -35,5 +35,6 @@ The namespace contains Fill Layers Settings
 | --- | --- |
 | [FillType](./filltype/) | The Fill Type |
 | [GradientType](./gradienttype/) | Gradient type |
+| [InterpolationMethod](./interpolationmethod/) | Packed fourCC values for Photoshop gradient interpolation method. Descriptor key: "gradientsInterpolationMethod" |
 
 
