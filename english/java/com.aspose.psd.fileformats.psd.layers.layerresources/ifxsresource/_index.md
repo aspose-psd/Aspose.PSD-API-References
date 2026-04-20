@@ -1,25 +1,24 @@
 ---
-title: LyidResource
+title: IfxsResource
 second_title: Aspose.PSD for Java API Reference
-description: Class LyidResource.
+description: Ifxs resource group layer effects resource
 type: docs
-weight: 59
-url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
+weight: 37
+url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/ifxsresource/
 ---
 
 **Inheritance:**
-java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource)
+java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.BaseFxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/basefxresource)
 ```
-public class LyidResource extends LayerResource
+public final class IfxsResource extends BaseFxResource
 ```
 
-Class LyidResource.
+Ifxs resource (group layer effects resource)
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [LyidResource(int id)](#LyidResource-int-) | Initializes a new instance of the [LyidResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lyidresource) class. |
-| [LyidResource(byte[] bytes)](#LyidResource-byte---) | Initializes a new instance of the [LyidResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lyidresource) class. |
+| [IfxsResource()](#IfxsResource--) | Initializes a new instance of the [IfxsResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/ifxsresource) class. |
 ## Fields
 
 | Field | Description |
@@ -36,53 +35,41 @@ Class LyidResource.
 | --- | --- |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [fillDefaultStructs_internalized(BaseFxResource fxResource, boolean isMultiStructure)](#fillDefaultStructs-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.BaseFxResource-boolean-) | Filling structure by default structures |
+| [findResourceForTest_internalized(int type)](#findResourceForTest-internalized-int-) | Finds the effect entity. |
+| [generateDefaultResource_internalized()](#generateDefaultResource-internalized--) | Generates the default resource. |
 | [getClass()](#getClass--) |  |
+| [getDefaultListStructure_internalized(int multiType, int type, boolean isMultiStructure)](#getDefaultListStructure-internalized-int-int-boolean-) | Creates the new instance of [ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) based on LayerMultiEffectsTypes with default effect structures. |
+| [getDescriptorVersion()](#getDescriptorVersion--) | Gets the descriptor version. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
+| [getLayerStyle_internalized()](#getLayerStyle-internalized--) | Gets or sets the layer style. |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
 | [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
 | [getSignature()](#getSignature--) | Gets the layer resource signature. |
-| [getValue()](#getValue--) | Gets the value. |
 | [hashCode()](#hashCode--) |  |
 | [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Determines whether the resource is PSB specific. |
 | [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | Gets a value indicating whether this instance is resource PSB specific. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves to the specified stream container. |
+| [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Saves the resource to the specified stream container. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
-| [setValue_internalized(int value)](#setValue-internalized-int-) | Gets the value. |
+| [setLayerStyle_internalized(LayerStyleFX value)](#setLayerStyle-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.LayerStyleFX-) | Gets or sets the layer style. |
 | [toString()](#toString--) | Returns a String that represents this instance. |
+| [update_internalized()](#update-internalized--) | Updates this instance. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### LyidResource(int id) {#LyidResource-int-}
+### IfxsResource() {#IfxsResource--}
 ```
-public LyidResource(int id)
-```
-
-
-Initializes a new instance of the [LyidResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lyidresource) class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| id | int | The identifier of layer. |
-
-### LyidResource(byte[] bytes) {#LyidResource-byte---}
-```
-public LyidResource(byte[] bytes)
+public IfxsResource()
 ```
 
 
-Initializes a new instance of the [LyidResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/lyidresource) class. With custom or unknown value
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bytes | byte[] | The bytes. |
+Initializes a new instance of the [IfxsResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/ifxsresource) class.
 
 ### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
 ```
@@ -160,6 +147,45 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### fillDefaultStructs_internalized(BaseFxResource fxResource, boolean isMultiStructure) {#fillDefaultStructs-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.BaseFxResource-boolean-}
+```
+public static void fillDefaultStructs_internalized(BaseFxResource fxResource, boolean isMultiStructure)
+```
+
+
+Filling structure by default structures
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fxResource | [BaseFxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/basefxresource) | Any effect resource |
+| isMultiStructure | boolean | Flag of use multi-structure class |
+
+### findResourceForTest_internalized(int type) {#findResourceForTest-internalized-int-}
+```
+public final IEffectEntity findResourceForTest_internalized(int type)
+```
+
+
+Finds the effect entity.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | int | The type. |
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.IEffectEntity - Returns the effect entity.
+### generateDefaultResource_internalized() {#generateDefaultResource-internalized--}
+```
+public static IfxsResource generateDefaultResource_internalized()
+```
+
+
+Generates the default resource.
+
+**Returns:**
+[IfxsResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/ifxsresource) - Generated default [IfxsResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/ifxsresource)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -170,6 +196,35 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getDefaultListStructure_internalized(int multiType, int type, boolean isMultiStructure) {#getDefaultListStructure-internalized-int-int-boolean-}
+```
+public static ListStructure getDefaultListStructure_internalized(int multiType, int type, boolean isMultiStructure)
+```
+
+
+Creates the new instance of [ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) based on LayerMultiEffectsTypes with default effect structures. If isMultiStructure is true structure will be Multi else Simple
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| multiType | int | The multi type of effect. |
+| type | int | The type of effect. |
+| isMultiStructure | boolean | Flag of use multi-structure class |
+
+**Returns:**
+[ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) - The new instance of [ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) based on LayerMultiEffectsTypes with default effect structures.
+### getDescriptorVersion() {#getDescriptorVersion--}
+```
+public final int getDescriptorVersion()
+```
+
+
+Gets the descriptor version.
+
+Value: The descriptor version.
+
+**Returns:**
+int
 ### getHeader_internalized() {#getHeader-internalized--}
 ```
 public final PsdHeader getHeader_internalized()
@@ -192,6 +247,16 @@ Gets the layer resource key.
 
 **Returns:**
 int
+### getLayerStyle_internalized() {#getLayerStyle-internalized--}
+```
+public final LayerStyleFX getLayerStyle_internalized()
+```
+
+
+Gets or sets the layer style.
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layereffects.LayerStyleFX
 ### getLength() {#getLength--}
 ```
 public int getLength()
@@ -234,18 +299,6 @@ public int getSignature()
 
 
 Gets the layer resource signature.
-
-**Returns:**
-int
-### getValue() {#getValue--}
-```
-public final int getValue()
-```
-
-
-Gets the value.
-
-Value: The value.
 
 **Returns:**
 int
@@ -308,12 +361,12 @@ public void save(StreamContainer streamContainer, int psdVersion)
 ```
 
 
-Saves to the specified stream container.
+Saves the resource to the specified stream container.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream container. |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream container to save to. |
 | psdVersion | int | The PSD version. |
 
 ### saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature) {#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-}
@@ -360,20 +413,18 @@ Value: The header.
 | --- | --- | --- |
 | value | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
 
-### setValue_internalized(int value) {#setValue-internalized-int-}
+### setLayerStyle_internalized(LayerStyleFX value) {#setLayerStyle-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.LayerStyleFX-}
 ```
-public final void setValue_internalized(int value)
+public final void setLayerStyle_internalized(LayerStyleFX value)
 ```
 
 
-Gets the value.
-
-Value: The value.
+Gets or sets the layer style.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int |  |
+| value | com.aspose.internal.fileformats.psd.layers.layereffects.LayerStyleFX |  |
 
 ### toString() {#toString--}
 ```
@@ -385,6 +436,14 @@ Returns a String that represents this instance.
 
 **Returns:**
 java.lang.String - A String that represents this instance.
+### update_internalized() {#update-internalized--}
+```
+public final void update_internalized()
+```
+
+
+Updates this instance. TODO: Remove this method. Update should be automatic
+
 ### wait() {#wait--}
 ```
 public final void wait()

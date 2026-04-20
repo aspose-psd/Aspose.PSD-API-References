@@ -39,6 +39,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/
 | [GradientHelper](../com.aspose.psd.fileformats.psd.layers.layerresources/gradienthelper) | Helper class that implement conversion of data for gradient properties. |
 | [GrdmResource](../com.aspose.psd.fileformats.psd.layers.layerresources/grdmresource) | Class GrdmResource. |
 | [Hue2Resource](../com.aspose.psd.fileformats.psd.layers.layerresources/hue2resource) | Class Hue2Resource. |
+| [IfxsResource](../com.aspose.psd.fileformats.psd.layers.layerresources/ifxsresource) | Ifxs resource (group layer effects resource) |
 | [ImfxResource](../com.aspose.psd.fileformats.psd.layers.layerresources/imfxresource) | Imfx resource (Multi-effects resource) |
 | [InfxResource](../com.aspose.psd.fileformats.psd.layers.layerresources/infxresource) | Class InfxResource. |
 | [IopaResource](../com.aspose.psd.fileformats.psd.layers.layerresources/ioparesource) | Class IopaResource. |
