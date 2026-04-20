@@ -3,7 +3,7 @@ title: NoiseGradient
 second_title: Aspose.PSD for Java API Reference
 description: Noise gradient definition class.
 type: docs
-weight: 18
+weight: 19
 url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/noisegradient/
 ---
 

@@ -3,7 +3,7 @@ title: Lfx2Resource
 second_title: Aspose.PSD for Java API Reference
 description: Lfx2 resource effects resource
 type: docs
-weight: 48
+weight: 49
 url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/
 ---
 
@@ -35,10 +35,11 @@ Lfx2 resource (effects resource)
 | --- | --- |
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [fillDefaultStructs_internalized(BaseFxResource fxResource, boolean isMultiStructure)](#fillDefaultStructs-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.BaseFxResource-boolean-) | Filling structure by default structures |
 | [findResourceForTest_internalized(int type)](#findResourceForTest-internalized-int-) | Finds the effect entity. |
 | [generateDefaultResource_internalized()](#generateDefaultResource-internalized--) | Generates the default resource. |
 | [getClass()](#getClass--) |  |
-| [getDefaultMultiListStructure_internalized(int type)](#getDefaultMultiListStructure-internalized-int-) | Creates the new instance of [ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) based on  type  with default effect structures. |
+| [getDefaultListStructure_internalized(int multiType, int type, boolean isMultiStructure)](#getDefaultListStructure-internalized-int-int-boolean-) | Creates the new instance of [ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) based on LayerMultiEffectsTypes with default effect structures. |
 | [getDescriptorVersion()](#getDescriptorVersion--) | Gets the descriptor version. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
@@ -146,6 +147,20 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### fillDefaultStructs_internalized(BaseFxResource fxResource, boolean isMultiStructure) {#fillDefaultStructs-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.BaseFxResource-boolean-}
+```
+public static void fillDefaultStructs_internalized(BaseFxResource fxResource, boolean isMultiStructure)
+```
+
+
+Filling structure by default structures
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fxResource | [BaseFxResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/basefxresource) | Any effect resource |
+| isMultiStructure | boolean | Flag of use multi-structure class |
+
 ### findResourceForTest_internalized(int type) {#findResourceForTest-internalized-int-}
 ```
 public final IEffectEntity findResourceForTest_internalized(int type)
@@ -181,21 +196,23 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getDefaultMultiListStructure_internalized(int type) {#getDefaultMultiListStructure-internalized-int-}
+### getDefaultListStructure_internalized(int multiType, int type, boolean isMultiStructure) {#getDefaultListStructure-internalized-int-int-boolean-}
 ```
-public static ListStructure getDefaultMultiListStructure_internalized(int type)
+public static ListStructure getDefaultListStructure_internalized(int multiType, int type, boolean isMultiStructure)
 ```
 
 
-Creates the new instance of [ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) based on  type  with default effect structures.
+Creates the new instance of [ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) based on LayerMultiEffectsTypes with default effect structures. If isMultiStructure is true structure will be Multi else Simple
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
+| multiType | int | The multi type of effect. |
 | type | int | The type of effect. |
+| isMultiStructure | boolean | Flag of use multi-structure class |
 
 **Returns:**
-[ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) - The new instance of [ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) based on  type  with default effect structures.
+[ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) - The new instance of [ListStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure) based on LayerMultiEffectsTypes with default effect structures.
 ### getDescriptorVersion() {#getDescriptorVersion--}
 ```
 public final int getDescriptorVersion()

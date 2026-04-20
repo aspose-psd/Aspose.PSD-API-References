@@ -27,12 +27,14 @@ Gradient settings class for gradient map layer. It contains common properties fo
 | [getClass()](#getClass--) |  |
 | [getDither()](#getDither--) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is dither. |
 | [getGradient()](#getGradient--) | Gets or sets specific gradient definition instance (Solid/Noise). |
+| [getInterpolationMethod()](#getInterpolationMethod--) | Gets or sets the interpolation method for the gradient. |
 | [getReverse()](#getReverse--) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is reverse. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setDither(boolean value)](#setDither-boolean-) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is dither. |
 | [setGradient(BaseGradient value)](#setGradient-com.aspose.psd.fileformats.psd.layers.gradient.BaseGradient-) | Gets or sets specific gradient definition instance (Solid/Noise). |
+| [setInterpolationMethod(long value)](#setInterpolationMethod-long-) | Gets or sets the interpolation method for the gradient. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is reverse. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -93,6 +95,16 @@ Gets or sets specific gradient definition instance (Solid/Noise).
 
 **Returns:**
 [BaseGradient](../../com.aspose.psd.fileformats.psd.layers.gradient/basegradient)
+### getInterpolationMethod() {#getInterpolationMethod--}
+```
+public final long getInterpolationMethod()
+```
+
+
+Gets or sets the interpolation method for the gradient.
+
+**Returns:**
+long
 ### getReverse() {#getReverse--}
 ```
 public final boolean getReverse()
@@ -158,6 +170,19 @@ Gets or sets specific gradient definition instance (Solid/Noise).
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [BaseGradient](../../com.aspose.psd.fileformats.psd.layers.gradient/basegradient) |  |
+
+### setInterpolationMethod(long value) {#setInterpolationMethod-long-}
+```
+public final void setInterpolationMethod(long value)
+```
+
+
+Gets or sets the interpolation method for the gradient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | long |  |
 
 ### setReverse(boolean value) {#setReverse-boolean-}
 ```
