@@ -33,7 +33,7 @@ The unit structure.
 | [arrangeToDictionary_internalized(OSTypeStructure[] structures, System.Collections.Generic.Dictionary<String,OSTypeStructure> dictionary, String prefix)](#arrangeToDictionary-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---com.aspose.ms.System.Collections.Generic.Dictionary-java.lang.String-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Arranges structures to one dictionary by key name. |
 | [createColorDescriptor_internalized(Color value)](#createColorDescriptor-internalized-com.aspose.psd.Color-) |  |
 | [createColorDescriptor_internalized(Color value, String keyName)](#createColorDescriptor-internalized-com.aspose.psd.Color-java.lang.String-) | Creates the [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) with color value with specified key name. |
-| [create_internalized(ClassID keyName, double value)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-double-) |  |
+| [create_internalized(ClassID keyName)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) |  |
 | [create_internalized(ClassID keyName, double value, int unitType)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-double-int-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBoolValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getBoolValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the boolean value from structures list by key name. |
@@ -179,9 +179,9 @@ Creates the [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.la
 
 **Returns:**
 [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure)
-### create_internalized(ClassID keyName, double value) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-double-}
+### create_internalized(ClassID keyName) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
 ```
-public static UnitStructure create_internalized(ClassID keyName, double value)
+public static UnitStructure create_internalized(ClassID keyName)
 ```
 
 
@@ -191,7 +191,6 @@ public static UnitStructure create_internalized(ClassID keyName, double value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | keyName | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) |  |
-| value | double |  |
 
 **Returns:**
 [UnitStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure)

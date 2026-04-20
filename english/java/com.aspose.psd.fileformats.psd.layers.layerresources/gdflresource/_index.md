@@ -52,6 +52,7 @@ Class GdFlResource. This resource contains information about blending of clipped
 | [getGradientType()](#getGradientType--) |  |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset. |
+| [getInterpolationMethod()](#getInterpolationMethod--) | Gets or sets the interpolation method for the gradient. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
 | [getMaximumColor()](#getMaximumColor--) | Maximum color of PixelDataFormat. |
@@ -88,6 +89,7 @@ Class GdFlResource. This resource contains information about blending of clipped
 | [setGradientType(int value)](#setGradientType-int-) |  |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) |  |
+| [setInterpolationMethod(long value)](#setInterpolationMethod-long-) | Gets or sets the interpolation method for the gradient. |
 | [setMaximumColor(RawColor value)](#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Maximum color of PixelDataFormat. |
 | [setMinimumColor(RawColor value)](#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Minimum color of PixelDataFormat. |
 | [setOffset_internalized(OffsetEntity value)](#setOffset-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.OffsetEntity-) | Gets or sets the offset. |
@@ -374,6 +376,16 @@ The horizontal offset.
 
 **Returns:**
 double
+### getInterpolationMethod() {#getInterpolationMethod--}
+```
+public final long getInterpolationMethod()
+```
+
+
+Gets or sets the interpolation method for the gradient.
+
+**Returns:**
+long
 ### getKey() {#getKey--}
 ```
 public final int getKey()
@@ -810,6 +822,19 @@ public void setHorizontalOffset(double value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double |  |
+
+### setInterpolationMethod(long value) {#setInterpolationMethod-long-}
+```
+public final void setInterpolationMethod(long value)
+```
+
+
+Gets or sets the interpolation method for the gradient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | long |  |
 
 ### setMaximumColor(RawColor value) {#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
 ```

@@ -42,6 +42,7 @@ Gradient fill effect settings.
 | [getGradient()](#getGradient--) | Gets or sets specific gradient definition instance (Solid/Noise). |
 | [getGradientType()](#getGradientType--) | Gets or sets the type of the gradient. |
 | [getHorizontalOffset()](#getHorizontalOffset--) | Gets or sets the horizontal offset in percentage. |
+| [getInterpolationMethod()](#getInterpolationMethod--) | Gets or sets the interpolation method for the gradient. |
 | [getReverse()](#getReverse--) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is reverse. |
 | [getScale()](#getScale--) | Gets or sets the  **normalized**  gradient scale (in percent) |
 | [getVerticalOffset()](#getVerticalOffset--) | Gets or sets the vertical offset in percentage. |
@@ -57,6 +58,7 @@ Gradient fill effect settings.
 | [setGradient(BaseGradient value)](#setGradient-com.aspose.psd.fileformats.psd.layers.gradient.BaseGradient-) | Gets or sets specific gradient definition instance (Solid/Noise). |
 | [setGradientType(int value)](#setGradientType-int-) | Gets or sets the type of the gradient. |
 | [setHorizontalOffset(double value)](#setHorizontalOffset-double-) | Gets or sets the horizontal offset in percentage. |
+| [setInterpolationMethod(long value)](#setInterpolationMethod-long-) | Gets or sets the interpolation method for the gradient. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Gets or sets a value indicating whether this [GradientFillSettings](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings) is reverse. |
 | [setScale(int value)](#setScale-int-) | Gets or sets the  **normalized**  gradient scale (in percent) |
 | [setVerticalOffset(double value)](#setVerticalOffset-double-) | Gets or sets the vertical offset in percentage. |
@@ -206,6 +208,16 @@ Value: The horizontal offset.
 
 **Returns:**
 double
+### getInterpolationMethod() {#getInterpolationMethod--}
+```
+public final long getInterpolationMethod()
+```
+
+
+Gets or sets the interpolation method for the gradient.
+
+**Returns:**
+long
 ### getReverse() {#getReverse--}
 ```
 public final boolean getReverse()
@@ -386,6 +398,19 @@ Value: The horizontal offset.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | double |  |
+
+### setInterpolationMethod(long value) {#setInterpolationMethod-long-}
+```
+public final void setInterpolationMethod(long value)
+```
+
+
+Gets or sets the interpolation method for the gradient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | long |  |
 
 ### setReverse(boolean value) {#setReverse-boolean-}
 ```

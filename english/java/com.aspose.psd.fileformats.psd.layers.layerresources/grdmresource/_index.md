@@ -48,6 +48,7 @@ Class GrdmResource. Contains information about Gradient-Map layer.
 | [getGradientName()](#getGradientName--) | Name of the gradient: Unicode string, padded. |
 | [getHeader_internalized()](#getHeader-internalized--) | Gets or sets the header. |
 | [getInterpolation()](#getInterpolation--) | Interpolation. |
+| [getInterpolationMethod()](#getInterpolationMethod--) | Gets or sets the interpolation method for the gradient. |
 | [getKey()](#getKey--) | Gets the layer resource key. |
 | [getLength()](#getLength--) | Gets the layer resource length in bytes. |
 | [getMaximumColor()](#getMaximumColor--) | Maximum color of PixelDataFormat.Rgba64Bpp format. |
@@ -78,6 +79,7 @@ Class GrdmResource. Contains information about Gradient-Map layer.
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Name of the gradient: Unicode string, padded. |
 | [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Gets or sets the header. |
 | [setInterpolation(short value)](#setInterpolation-short-) | Interpolation. |
+| [setInterpolationMethod(long value)](#setInterpolationMethod-long-) | Gets or sets the interpolation method for the gradient. |
 | [setMaximumColor(RawColor value)](#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Maximum color of PixelDataFormat.Rgba64Bpp format. |
 | [setMinimumColor(RawColor value)](#setMinimumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Minimum color of PixelDataFormat.Rgba64Bpp format. |
 | [setReverse(boolean value)](#setReverse-boolean-) | Is gradient reversed. |
@@ -309,6 +311,16 @@ Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid' (GradientMo
 
 **Returns:**
 short
+### getInterpolationMethod() {#getInterpolationMethod--}
+```
+public final long getInterpolationMethod()
+```
+
+
+Gets or sets the interpolation method for the gradient.
+
+**Returns:**
+long
 ### getKey() {#getKey--}
 ```
 public final int getKey()
@@ -662,6 +674,19 @@ Interpolation. Determines Smoothness, when 'Gradient Type' = 'Solid' (GradientMo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | short |  |
+
+### setInterpolationMethod(long value) {#setInterpolationMethod-long-}
+```
+public final void setInterpolationMethod(long value)
+```
+
+
+Gets or sets the interpolation method for the gradient.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | long |  |
 
 ### setMaximumColor(RawColor value) {#setMaximumColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
 ```

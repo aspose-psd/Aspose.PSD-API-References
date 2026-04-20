@@ -1,27 +1,29 @@
 ---
-title: LayerSectionSubtype
+title: InterpolationMethod
 second_title: Aspose.PSD for Java API Reference
-description: The section subtype
+description: Packed fourCC values for Photoshop gradient interpolation method.
 type: docs
-weight: 44
-url: /java/com.aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
+weight: 18
+url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/interpolationmethod/
 ---
 
 **Inheritance:**
 java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
 ```
-public final class LayerSectionSubtype extends System.Enum
+public final class InterpolationMethod extends System.Enum
 ```
 
-The section subtype
+Packed fourCC values for Photoshop gradient interpolation method. Descriptor key: "gradientsInterpolationMethod"
 ## Fields
 
 | Field | Description |
 | --- | --- |
+| [Classic](#Classic) | 'Gcls' \\u2014 Classic (legacy default when key is absent). |
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
-| [Normal](#Normal) | The normal |
-| [NotUsed](#NotUsed) | The not used |
-| [SceneGroup](#SceneGroup) | The scene group |
+| [Linear](#Linear) | 'Lnr ' \\u2014 Linear (note trailing space). |
+| [Perceptual](#Perceptual) | 'Perc' \\u2014 Perceptual. |
+| [Smooth](#Smooth) | 'Smoo' \\u2014 Smooth. |
+| [Stripes](#Stripes) | 'GIMs' \\u2014 Stripes. |
 ## Methods
 
 | Method | Description |
@@ -66,35 +68,51 @@ The section subtype
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### Classic {#Classic}
+```
+public static final long Classic
+```
+
+
+'Gcls' \\u2014 Classic (legacy default when key is absent).
+
 ### EnumSeparatorCharArray {#EnumSeparatorCharArray}
 ```
 public static final char[] EnumSeparatorCharArray
 ```
 
 
-### Normal {#Normal}
+### Linear {#Linear}
 ```
-public static final int Normal
-```
-
-
-The normal
-
-### NotUsed {#NotUsed}
-```
-public static final int NotUsed
+public static final long Linear
 ```
 
 
-The not used
+'Lnr ' \\u2014 Linear (note trailing space).
 
-### SceneGroup {#SceneGroup}
+### Perceptual {#Perceptual}
 ```
-public static final int SceneGroup
+public static final long Perceptual
 ```
 
 
-The scene group
+'Perc' \\u2014 Perceptual.
+
+### Smooth {#Smooth}
+```
+public static final long Smooth
+```
+
+
+'Smoo' \\u2014 Smooth.
+
+### Stripes {#Stripes}
+```
+public static final long Stripes
+```
+
+
+'GIMs' \\u2014 Stripes.
 
 ### Clone() {#Clone--}
 ```

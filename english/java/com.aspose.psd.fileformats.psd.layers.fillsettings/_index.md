@@ -20,6 +20,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.fillsettings/
 | [GradientMapSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings) | Gradient settings class for gradient map layer. |
 | [GradientTransparencyPoint](../com.aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint) | Gradient Transparency Point |
 | [GradientType](../com.aspose.psd.fileformats.psd.layers.fillsettings/gradienttype) | Gradient type |
+| [InterpolationMethod](../com.aspose.psd.fileformats.psd.layers.fillsettings/interpolationmethod) | Packed fourCC values for Photoshop gradient interpolation method. |
 | [NoiseGradient](../com.aspose.psd.fileformats.psd.layers.fillsettings/noisegradient) | Noise gradient definition class. |
 | [PatternFillSettings](../com.aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings) | Pattern fill effect settings |
 
