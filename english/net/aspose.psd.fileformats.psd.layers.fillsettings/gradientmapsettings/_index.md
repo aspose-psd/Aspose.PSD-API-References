@@ -89,7 +89,7 @@ using (PsdImage image = (PsdImage)Image.Load(inputFile, loadOptions))
 }
 
 // Check saved changes
-using (PsdImage image = (PsdImage)Image.Load(outputFile))
+using (PsdImage image = (PsdImage)Image.Load(outputFile, loadOptions))
 {
     var gradientStroke = (StrokeEffect)image.Layers[0].BlendingOptions.Effects[0];
     GradientFillSettings gradientFillSettings = gradientStroke.FillSettings as GradientFillSettings;
