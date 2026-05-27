@@ -354,6 +354,7 @@ The text layer class
 | [toBitmap_internalized()](#toBitmap-internalized--) |  |
 | [toString()](#toString--) |  |
 | [updateBlendingOptions_internalized(PattResource pattResource)](#updateBlendingOptions-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.PattResource-) | Updates the blending options after layer or global resources change. |
+| [updateBounds_internalized(RectangleF absoluteTextBounds, RectangleF inBoxTextBounds)](#updateBounds-internalized-com.aspose.psd.RectangleF-com.aspose.psd.RectangleF-) | Updates the bounds of the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer) in the resources. |
 | [updateText(String text)](#updateText-java.lang.String-) | Updates the text. |
 | [updateText(String text, Color color)](#updateText-java.lang.String-com.aspose.psd.Color-) | Updates the text. |
 | [updateText(String text, Point leftTopCoordinate)](#updateText-java.lang.String-com.aspose.psd.Point-) | Updates the text. |
@@ -4641,6 +4642,20 @@ Updates the blending options after layer or global resources change.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pattResource | [PattResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/pattresource) |  |
+
+### updateBounds_internalized(RectangleF absoluteTextBounds, RectangleF inBoxTextBounds) {#updateBounds-internalized-com.aspose.psd.RectangleF-com.aspose.psd.RectangleF-}
+```
+public final void updateBounds_internalized(RectangleF absoluteTextBounds, RectangleF inBoxTextBounds)
+```
+
+
+Updates the bounds of the [TextLayer](../../com.aspose.psd.fileformats.psd.layers/textlayer) in the resources.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| absoluteTextBounds | [RectangleF](../../com.aspose.psd/rectanglef) | The absolute position and size of the text. |
+| inBoxTextBounds | [RectangleF](../../com.aspose.psd/rectanglef) | The position and size of the text relative to the textBox. |
 
 ### updateText(String text) {#updateText-java.lang.String-}
 ```
