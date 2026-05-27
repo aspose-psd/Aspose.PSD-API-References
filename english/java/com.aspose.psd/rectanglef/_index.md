@@ -31,6 +31,8 @@ Stores a set of four floating-point numbers that represent the location and size
 | [contains(PointF point)](#contains-com.aspose.psd.PointF-) | Determines if the specified point is contained within this  com.aspose.psd.RectangleF  structure. |
 | [contains(RectangleF rect)](#contains-com.aspose.psd.RectangleF-) | Determines if the rectangular region represented by  rect  is entirely contained within this  com.aspose.psd.RectangleF  structure. |
 | [contains(float x, float y)](#contains-float-float-) | Determines if the specified point is contained within this  com.aspose.psd.RectangleF  structure. |
+| [create_internalized(float x, float y, SizeF size)](#create-internalized-float-float-com.aspose.psd.SizeF-) |  |
+| [divideToTransformMatrix_internalized(double[] transformMatrix)](#divideToTransformMatrix-internalized-double---) | Divides the current rectangle values to transform matrix vertical and horizontal scale values and returns a new [RectangleF](../../com.aspose.psd/rectanglef) instance with result values. |
 | [equals(Object obj)](#equals-java.lang.Object-) | Tests whether  obj  is a  com.aspose.psd.RectangleF  with the same location and size of this  com.aspose.psd.RectangleF . |
 | [fromLeftTopRightBottom(float left, float top, float right, float bottom)](#fromLeftTopRightBottom-float-float-float-float-) | Creates a  com.aspose.psd.RectangleF  structure with upper-left corner and lower-right corner at the specified locations. |
 | [fromPoints(PointF point1, PointF point2)](#fromPoints-com.aspose.psd.PointF-com.aspose.psd.PointF-) | Creates a new  Rectangle  from two points specified. |
@@ -55,6 +57,7 @@ Stores a set of four floating-point numbers that represent the location and size
 | [intersectsWith(RectangleF rect)](#intersectsWith-com.aspose.psd.RectangleF-) | Determines if this rectangle intersects with  rect . |
 | [isEmpty()](#isEmpty--) | Gets a value indicating whether the  com.aspose.psd.RectangleF.Width  or  com.aspose.psd.RectangleF.Height  property of this  com.aspose.psd.RectangleF  has a value of zero. |
 | [isEquals(RectangleF obj1, RectangleF obj2)](#isEquals-com.aspose.psd.RectangleF-com.aspose.psd.RectangleF-) |  |
+| [multiplyToTransformMatrix_internalized(double[] transformMatrix)](#multiplyToTransformMatrix-internalized-double---) | Multiplies the current rectangle values to transform matrix vertical and horizontal scale values and returns a new [RectangleF](../../com.aspose.psd/rectanglef) instance with result values. |
 | [normalize()](#normalize--) | Normalizes the rectangle by making it's width and height positive, left less than right and top less than bottom. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
@@ -74,6 +77,7 @@ Stores a set of four floating-point numbers that represent the location and size
 | [setWidth(float value)](#setWidth-float-) | Gets or sets the width of this  com.aspose.psd.RectangleF  structure. |
 | [setX(float value)](#setX-float-) | Gets or sets the x-coordinate of the upper-left corner of this  com.aspose.psd.RectangleF  structure. |
 | [setY(float value)](#setY-float-) | Gets or sets the y-coordinate of the upper-left corner of this  com.aspose.psd.RectangleF  structure. |
+| [toRectangle_internalized()](#toRectangle-internalized--) | Converts a [RectangleF](../../com.aspose.psd/rectanglef) to a [Rectangle](../../com.aspose.psd/rectangle) structure with truncated rectangle values. |
 | [toString()](#toString--) | Converts the attributes of this  com.aspose.psd.RectangleF  to a human-readable string. |
 | [to_RectangleF(Rectangle rect)](#to-RectangleF-com.aspose.psd.Rectangle-) | Converts the specified  com.aspose.psd.Rectangle  structure to a  com.aspose.psd.RectangleF  structure. |
 | [union(RectangleF a, RectangleF b)](#union-com.aspose.psd.RectangleF-com.aspose.psd.RectangleF-) | Creates the smallest possible third rectangle that can contain both of two rectangles that form a union. |
@@ -198,6 +202,38 @@ Determines if the specified point is contained within this  com.aspose.psd.Recta
 
 **Returns:**
 boolean - This method returns true if the point defined by  x  and  y  is contained within this  com.aspose.psd.RectangleF  structure; otherwise false.
+### create_internalized(float x, float y, SizeF size) {#create-internalized-float-float-com.aspose.psd.SizeF-}
+```
+public static RectangleF create_internalized(float x, float y, SizeF size)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | float |  |
+| y | float |  |
+| size | [SizeF](../../com.aspose.psd/sizef) |  |
+
+**Returns:**
+[RectangleF](../../com.aspose.psd/rectanglef)
+### divideToTransformMatrix_internalized(double[] transformMatrix) {#divideToTransformMatrix-internalized-double---}
+```
+public final RectangleF divideToTransformMatrix_internalized(double[] transformMatrix)
+```
+
+
+Divides the current rectangle values to transform matrix vertical and horizontal scale values and returns a new [RectangleF](../../com.aspose.psd/rectanglef) instance with result values.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| transformMatrix | double[] | The layer transform matrix. |
+
+**Returns:**
+[RectangleF](../../com.aspose.psd/rectanglef) - Returns a new [RectangleF](../../com.aspose.psd/rectanglef) instance with divided values.
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)
@@ -491,6 +527,21 @@ public static boolean isEquals(RectangleF obj1, RectangleF obj2)
 
 **Returns:**
 boolean
+### multiplyToTransformMatrix_internalized(double[] transformMatrix) {#multiplyToTransformMatrix-internalized-double---}
+```
+public final RectangleF multiplyToTransformMatrix_internalized(double[] transformMatrix)
+```
+
+
+Multiplies the current rectangle values to transform matrix vertical and horizontal scale values and returns a new [RectangleF](../../com.aspose.psd/rectanglef) instance with result values.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| transformMatrix | double[] | The layer transform matrix. |
+
+**Returns:**
+[RectangleF](../../com.aspose.psd/rectanglef) - Returns a new [RectangleF](../../com.aspose.psd/rectanglef) instance with multiplied values.
 ### normalize() {#normalize--}
 ```
 public void normalize()
@@ -736,6 +787,16 @@ Gets or sets the y-coordinate of the upper-left corner of this  com.aspose.psd.R
 | --- | --- | --- |
 | value | float |  |
 
+### toRectangle_internalized() {#toRectangle-internalized--}
+```
+public final Rectangle toRectangle_internalized()
+```
+
+
+Converts a [RectangleF](../../com.aspose.psd/rectanglef) to a [Rectangle](../../com.aspose.psd/rectangle) structure with truncated rectangle values.
+
+**Returns:**
+[Rectangle](../../com.aspose.psd/rectangle) - Returns a [Rectangle](../../com.aspose.psd/rectangle) structure.
 ### toString() {#toString--}
 ```
 public String toString()

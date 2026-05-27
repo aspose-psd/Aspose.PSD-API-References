@@ -36,6 +36,8 @@ The type tool information. For PSD version higher or equal to the 6.0.
 | [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Checks the and set if resource is PSB specific. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBottom()](#getBottom--) | Gets or sets the bottom location. |
+| [getBoundingBox_internalized()](#getBoundingBox-internalized--) | Gets or sets the text bounds in text box. |
+| [getBounds_internalized()](#getBounds-internalized--) | Gets or sets the text box bounds. |
 | [getClass()](#getClass--) |  |
 | [getClassID()](#getClassID--) | Gets or sets the class ID. |
 | [getClassName()](#getClassName--) | Gets or sets the class name. |
@@ -70,6 +72,7 @@ The type tool information. For PSD version higher or equal to the 6.0.
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Saves the custom resource header. |
 | [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Saves the header signature, identifier and length. |
 | [setBottom(int value)](#setBottom-int-) | Gets or sets the bottom location. |
+| [setBoundingBox_internalized(RectangleF value)](#setBoundingBox-internalized-com.aspose.psd.RectangleF-) | Gets or sets the text bounds in text box. |
 | [setClassID(ClassID value)](#setClassID-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets the class ID. |
 | [setClassName(String value)](#setClassName-java.lang.String-) | Gets or sets the class name. |
 | [setDescriptorVersion(int value)](#setDescriptorVersion-int-) | Gets or sets the descriptor version. |
@@ -193,6 +196,26 @@ Value: The bottom location.
 
 **Returns:**
 int
+### getBoundingBox_internalized() {#getBoundingBox-internalized--}
+```
+public final RectangleF getBoundingBox_internalized()
+```
+
+
+Gets or sets the text bounds in text box.
+
+**Returns:**
+[RectangleF](../../com.aspose.psd/rectanglef)
+### getBounds_internalized() {#getBounds-internalized--}
+```
+public final RectangleF getBounds_internalized()
+```
+
+
+Gets or sets the text box bounds.
+
+**Returns:**
+[RectangleF](../../com.aspose.psd/rectanglef)
 ### getClass() {#getClass--}
 ```
 public final native Class<?> getClass()
@@ -590,6 +613,19 @@ Value: The bottom location.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int |  |
+
+### setBoundingBox_internalized(RectangleF value) {#setBoundingBox-internalized-com.aspose.psd.RectangleF-}
+```
+public final void setBoundingBox_internalized(RectangleF value)
+```
+
+
+Gets or sets the text bounds in text box.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [RectangleF](../../com.aspose.psd/rectanglef) |  |
 
 ### setClassID(ClassID value) {#setClassID-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
 ```
