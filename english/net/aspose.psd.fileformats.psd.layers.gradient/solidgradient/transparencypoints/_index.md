@@ -3,7 +3,7 @@ title: SolidGradient.TransparencyPoints
 second_title: Aspose.PSD for .NET API Reference
 description: SolidGradient property. Gets or sets the transparency points
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/transparencypoints/
 ---
 {{< psd/tize >}}

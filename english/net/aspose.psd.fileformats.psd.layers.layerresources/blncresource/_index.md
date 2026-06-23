@@ -3,7 +3,7 @@ title: Class BlncResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource class. BlncResource class is a resource of Color Adjustment Layer
 type: docs
-weight: 2560
+weight: 2570
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
 {{< psd/tize >}}
@@ -34,7 +34,7 @@ public class BlncResource : AdjustmentLayerResource
 | [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | Gets or sets the Midtones Magenta Green Balance. |
 | [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | Gets or sets the Midtones Yellow Blue Balance. |
 | [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | Gets or sets a value indicating whether this `BlncResource` preserves luminosity. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | Gets or sets the Shadows Cyan Red Balance. |
 | [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | Gets or sets the Shadows Magenta Green Balance. |
 | [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Gets or sets the Shadows Yellow Blue Balance. |

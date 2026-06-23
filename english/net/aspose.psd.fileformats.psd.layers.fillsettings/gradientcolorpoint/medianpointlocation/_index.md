@@ -3,7 +3,7 @@ title: GradientColorPoint.MedianPointLocation
 second_title: Aspose.PSD for .NET API Reference
 description: GradientColorPoint property. Gets or sets the median gradient point location
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class ImageExportersRegistry
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageExportersRegistry class. Represents the image exporters registry
 type: docs
-weight: 5090
+weight: 5100
 url: /net/aspose.psd/imageexportersregistry/
 ---
 {{< psd/tize >}}

@@ -33,12 +33,16 @@ public sealed class RawColor
 
 | Name | Description |
 | --- | --- |
+| override [Equals](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/equals/)(object) | Determines whether the specified Object, is equal to this instance. |
 | [GetAsInt](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/getasint/)() | Gets the color as int in case it's possible to get it. |
 | [GetAsLong](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/getaslong/)() | Gets the color as long in case it's possible to get it. |
 | [GetBitDepth](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/getbitdepth/)() | Gets the bit depth of Raw Color. For example for ARGB color with 8 bits per channel/component is 32 Bit Depth of full ARGB color with 16 bits per channel/component is 64. Bit depth is accumulated from the sum of channels' bit depths. It's possible if different channels will have different bit depths. |
 | [GetColorModeName](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/getcolormodename/)() | Gets the name of the color mode. Color mode name accumulated from channels/components names |
+| override [GetHashCode](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/gethashcode/)() | Get hash code of the current object. |
 | [SetAsInt](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/setasint/)(int) | Sets data to all channels from int argument if it's possible |
 | [SetAsLong](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/setaslong/)(long) | Sets data to all channels from int argument if it's possible |
+| [operator ==](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/op_equality/) | Implements the operator ==. |
+| [operator !=](../../aspose.psd.fileformats.psd.core.rawcolor/rawcolor/op_inequality/) | Implements the operator !=. |
 
 ## Examples
 

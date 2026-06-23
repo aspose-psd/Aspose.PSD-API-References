@@ -3,7 +3,7 @@ title: Class ThresholdLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.ThresholdLayer class. Threshold Adjustment Layer
 type: docs
-weight: 1910
+weight: 1920
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/thresholdlayer/
 ---
 {{< psd/tize >}}

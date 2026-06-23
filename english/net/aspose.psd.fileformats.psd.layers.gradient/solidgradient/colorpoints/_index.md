@@ -3,7 +3,7 @@ title: SolidGradient.ColorPoints
 second_title: Aspose.PSD for .NET API Reference
 description: SolidGradient property. Gets or sets the color points
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/colorpoints/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: IGradientColorPoint.Location
 second_title: Aspose.PSD for .NET API Reference
 description: IGradientColorPoint property. Gets or sets the location. Value range 04096
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/
 ---
 {{< psd/tize >}}

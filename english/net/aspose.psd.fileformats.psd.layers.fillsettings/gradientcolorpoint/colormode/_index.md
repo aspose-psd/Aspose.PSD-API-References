@@ -3,7 +3,7 @@ title: GradientColorPoint.ColorMode
 second_title: Aspose.PSD for .NET API Reference
 description: GradientColorPoint property. Mode for the color to follow
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/
 ---
 {{< psd/tize >}}

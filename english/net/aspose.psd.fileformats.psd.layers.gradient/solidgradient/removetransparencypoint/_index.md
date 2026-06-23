@@ -3,7 +3,7 @@ title: SolidGradient.RemoveTransparencyPoint
 second_title: Aspose.PSD for .NET API Reference
 description: SolidGradient method. Removes the transparency point
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/removetransparencypoint/
 ---
 {{< psd/tize >}}

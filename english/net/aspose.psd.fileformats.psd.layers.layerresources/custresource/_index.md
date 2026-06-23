@@ -3,7 +3,7 @@ title: Class CustResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource class. Class CustResource. This resource contains information about blending of clipped element
 type: docs
-weight: 2690
+weight: 2700
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
 {{< psd/tize >}}
@@ -29,7 +29,7 @@ public class CustResource : LayerResource
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Gets or sets the layer created date. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Gets the layer resource length in bytes. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods

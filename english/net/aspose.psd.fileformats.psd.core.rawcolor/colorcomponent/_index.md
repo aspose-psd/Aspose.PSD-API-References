@@ -32,6 +32,12 @@ public sealed class ColorComponent
 | [Value](../../aspose.psd.fileformats.psd.core.rawcolor/colorcomponent/value/) { get; set; } | Gets or sets the value. Please note, if you try to set value that is more than possible stored in current bit depth, you'll get an exception |
 | static [PermittedFullNames](../../aspose.psd.fileformats.psd.core.rawcolor/colorcomponent/permittedfullnames/) { get; } | Gets the permitted full names. |
 
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [GetHashCode](../../aspose.psd.fileformats.psd.core.rawcolor/colorcomponent/gethashcode/)() | Get hash code of the current object. |
+
 ### See Also
 
 * namespace [Aspose.PSD.FileFormats.Psd.Core.RawColor](../../aspose.psd.fileformats.psd.core.rawcolor/)

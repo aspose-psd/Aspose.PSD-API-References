@@ -3,7 +3,7 @@ title: Class ChannelMixerLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.ChannelMixerLayer class. Channel Mixer Adjustment layer
 type: docs
-weight: 1720
+weight: 1730
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/
 ---
 {{< psd/tize >}}

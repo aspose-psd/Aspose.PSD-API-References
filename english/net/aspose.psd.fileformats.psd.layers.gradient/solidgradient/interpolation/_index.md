@@ -3,7 +3,7 @@ title: SolidGradient.Interpolation
 second_title: Aspose.PSD for .NET API Reference
 description: SolidGradient property. Gets ot sets Interpolation. Determines Smoothness when Gradient Type  Solid. Value range 04096
 type: docs
-weight: 50
+weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/interpolation/
 ---
 {{< psd/tize >}}

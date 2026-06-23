@@ -3,7 +3,7 @@ title: Class LyvrResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyvrResource class. The resource to represents photoshop version of Layer
 type: docs
-weight: 3140
+weight: 3150
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lyvrresource/
 ---
 {{< psd/tize >}}
@@ -27,7 +27,7 @@ public sealed class LyvrResource : LayerResource
 | --- | --- |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyvrresource/length/) { get; } |  |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/lyvrresource/version/) { get; set; } | Gets ot sets the photoshop version of Layer. |
 

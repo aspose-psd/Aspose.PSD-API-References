@@ -3,7 +3,7 @@ title: SolidGradient.AddTransparencyPoint
 second_title: Aspose.PSD for .NET API Reference
 description: SolidGradient method. Adds the color point
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/addtransparencypoint/
 ---
 {{< psd/tize >}}
