@@ -3,7 +3,7 @@ title: Class ExposureLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.ExposureLayer class. Exposure Adjustment layer
 type: docs
-weight: 1790
+weight: 1800
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/
 ---
 {{< psd/tize >}}

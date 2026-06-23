@@ -3,7 +3,7 @@ title: RawColor.SetAsLong
 second_title: Aspose.PSD for .NET API Reference
 description: RawColor method. Sets data to all channels from int argument if its possible
 type: docs
-weight: 90
+weight: 110
 url: /net/aspose.psd.fileformats.psd.core.rawcolor/rawcolor/setaslong/
 ---
 {{< psd/tize >}}

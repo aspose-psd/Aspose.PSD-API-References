@@ -3,7 +3,7 @@ title: Class LnkeResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource class. Defines the LnkeResource class that contains information about external linked files or assets in the PSD format image. The link resource may contain several LiFeDataSource instances which can be accessed by indexer. This is a part of PSD File Format Manipulation API that helps to modify Adobe Photoshop files programmatically
 type: docs
-weight: 3040
+weight: 3050
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
 {{< psd/tize >}}
@@ -31,7 +31,7 @@ public class LnkeResource : LinkResource
 | [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Gets the [`LiFeDataSource`](../lifedatasource/) at the specified index. (2 indexers) |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Gets the PSD global link resource length in bytes. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods

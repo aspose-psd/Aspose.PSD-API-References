@@ -3,7 +3,7 @@ title: Class GrdmResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GrdmResource class. Class GrdmResource. Contains information about GradientMap layer
 type: docs
-weight: 2760
+weight: 2770
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/
 ---
 {{< psd/tize >}}
@@ -37,7 +37,7 @@ public class GrdmResource : AdjustmentLayerResource
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/length/) { get; } | Gets the layer resource length in bytes. |
 | [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/maximumcolor/) { get; set; } | Maximum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit. |
 | [MinimumColor](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/minimumcolor/) { get; set; } | Minimum color of PixelDataFormat.Rgba64Bpp format. Color has ARGB channels, Each channel is 16bit. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/psdversion/) { get; } | Gets the minimal PSD version required for this resource. Version 3 is needed when interpolation method is stored explicitly. |
 | [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/reverse/) { get; set; } | Is gradient reversed. |
 | [RndNumberSeed](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/rndnumberseed/) { get; set; } | The random number seed used to generate colors for Noise gradient. |
 | [Roughness](../../aspose.psd.fileformats.psd.layers.layerresources/grdmresource/roughness/) { get; set; } | Roughness factor When 'Gradient type' = 'Noise', we can assign 'Roughness' (0 - 2048). |

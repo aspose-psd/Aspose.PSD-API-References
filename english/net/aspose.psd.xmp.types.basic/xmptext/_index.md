@@ -3,7 +3,7 @@ title: Class XmpText
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Basic.XmpText class. Represents XMP Text basic type
 type: docs
-weight: 6470
+weight: 6480
 url: /net/aspose.psd.xmp.types.basic/xmptext/
 ---
 {{< psd/tize >}}

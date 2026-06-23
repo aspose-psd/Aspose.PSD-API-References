@@ -3,7 +3,7 @@ title: Class ArtboardLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.ArtboardLayer class. The artboard layer class
 type: docs
-weight: 1980
+weight: 1990
 url: /net/aspose.psd.fileformats.psd.layers/artboardlayer/
 ---
 {{< psd/tize >}}

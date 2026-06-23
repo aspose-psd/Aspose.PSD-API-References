@@ -3,7 +3,7 @@ title: GradientColorPoint.RawColor
 second_title: Aspose.PSD for .NET API Reference
 description: GradientColorPoint property. Gets or sets the color of the raw
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/
 ---
 {{< psd/tize >}}

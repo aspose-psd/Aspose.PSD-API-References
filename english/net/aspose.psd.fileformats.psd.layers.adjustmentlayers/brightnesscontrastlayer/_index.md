@@ -3,7 +3,7 @@ title: Class BrightnessContrastLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.BrightnessContrastLayer class. Brightness/contrast layer
 type: docs
-weight: 1710
+weight: 1720
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/
 ---
 {{< psd/tize >}}

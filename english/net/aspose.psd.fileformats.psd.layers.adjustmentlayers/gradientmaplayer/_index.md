@@ -3,7 +3,7 @@ title: Class GradientMapLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.GradientMapLayer class. Gradient map layer. Handles Gradient map rendering using data from GrdmResource
 type: docs
-weight: 1800
+weight: 1810
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/gradientmaplayer/
 ---
 {{< psd/tize >}}

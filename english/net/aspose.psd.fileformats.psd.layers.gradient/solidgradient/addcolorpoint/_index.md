@@ -3,7 +3,7 @@ title: SolidGradient.AddColorPoint
 second_title: Aspose.PSD for .NET API Reference
 description: SolidGradient method. Adds the color point
 type: docs
-weight: 70
+weight: 60
 url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/addcolorpoint/
 ---
 {{< psd/tize >}}

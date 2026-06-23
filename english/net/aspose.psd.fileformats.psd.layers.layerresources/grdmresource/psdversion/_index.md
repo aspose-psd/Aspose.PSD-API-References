@@ -1,7 +1,7 @@
 ---
 title: GrdmResource.PsdVersion
 second_title: Aspose.PSD for .NET API Reference
-description: GrdmResource property. Gets the minimal psd version required for layer resource. 0 indicates no restrictions
+description: GrdmResource property. Gets the minimal PSD version required for this resource. Version 3 is needed when interpolation method is stored explicitly
 type: docs
 weight: 130
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/psdversion/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/psdversi
 {{< psd/tize >}}
 ## GrdmResource.PsdVersion property
 
-Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
+Gets the minimal PSD version required for this resource. Version 3 is needed when interpolation method is stored explicitly.
 
 ```csharp
 public override int PsdVersion { get; }

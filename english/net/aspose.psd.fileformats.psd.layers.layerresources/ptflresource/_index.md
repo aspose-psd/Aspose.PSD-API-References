@@ -3,7 +3,7 @@ title: Class PtFlResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource class. Class PtFlResource. Contains Pattern Fill Layer Data
 type: docs
-weight: 3300
+weight: 3310
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
 {{< psd/tize >}}
@@ -34,7 +34,7 @@ public class PtFlResource : FillLayerResource
 | [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | Gets or sets the offset. |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | Gets or sets the pattern identifier. |
 | [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | Gets or sets the name of the pattern. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | Gets or sets the scale. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 

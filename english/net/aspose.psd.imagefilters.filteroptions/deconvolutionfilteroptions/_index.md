@@ -3,7 +3,7 @@ title: Class DeconvolutionFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.DeconvolutionFilterOptions class. Deconvolution Filter Options abstract class
 type: docs
-weight: 5140
+weight: 5150
 url: /net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/
 ---
 {{< psd/tize >}}

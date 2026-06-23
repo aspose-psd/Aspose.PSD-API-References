@@ -3,7 +3,7 @@ title: Class VibAResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VibAResource class. VibA Resource
 type: docs
-weight: 3740
+weight: 3750
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 ---
 {{< psd/tize >}}
@@ -27,7 +27,7 @@ public class VibAResource : AdjustmentLayerResource
 | --- | --- |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length/) { get; } | Gets the layer resource length in bytes. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation/) { get; set; } | Gets or sets saturation value |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [Vibrance](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/) { get; set; } | Gets or sets vibrance value |

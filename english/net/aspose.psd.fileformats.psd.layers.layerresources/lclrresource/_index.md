@@ -3,7 +3,7 @@ title: Class LclrResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource class. Class LclrResource. This resource contains information about color of layer in layers list is PS. Its only
 type: docs
-weight: 2920
+weight: 2930
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
 {{< psd/tize >}}
@@ -30,7 +30,7 @@ public class LclrResource : LayerResource
 | [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | Gets or sets the color of layer. |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | Gets the layer resource length in bytes. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods

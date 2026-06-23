@@ -3,7 +3,7 @@ title: Class FXidResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FXidResource class. The Filter Effects resource contains channels a user mask and a sheet mask for the smart filter
 type: docs
-weight: 2710
+weight: 2720
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
 {{< psd/tize >}}
@@ -28,7 +28,7 @@ public sealed class FXidResource : LayerResource
 | [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/) { get; } | Gets the filter effect masks. |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/) { get; } | Gets the layer resource length in bytes. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/) { get; } | Gets the version. |
 

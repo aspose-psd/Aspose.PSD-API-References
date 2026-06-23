@@ -3,7 +3,7 @@ title: SolidGradient.RemoveColorPoint
 second_title: Aspose.PSD for .NET API Reference
 description: SolidGradient method. Removes the color point
 type: docs
-weight: 90
+weight: 80
 url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/removecolorpoint/
 ---
 {{< psd/tize >}}

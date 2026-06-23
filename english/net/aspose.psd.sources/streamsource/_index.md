@@ -3,7 +3,7 @@ title: Class StreamSource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Sources.StreamSource class. Represents a stream source
 type: docs
-weight: 6110
+weight: 6120
 url: /net/aspose.psd.sources/streamsource/
 ---
 {{< psd/tize >}}

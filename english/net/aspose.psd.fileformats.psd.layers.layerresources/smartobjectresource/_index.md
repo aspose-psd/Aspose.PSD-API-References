@@ -3,7 +3,7 @@ title: Class SmartObjectResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource class. Defines the SmartObjectResource class that contains information about a smart object layer in a PSD file. Is is the base class for Sold and Sole resources that is used to support smart object layers in the Adobe Photoshop images
 type: docs
-weight: 3330
+weight: 3340
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/
 ---
 {{< psd/tize >}}
@@ -45,7 +45,7 @@ public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerRes
 | [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Gets or sets the perspective other value of the placed layer in the PSD file. |
 | [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Gets or sets the unique identifier of this smart object layer data in the PSD image. |
 | override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Gets or sets the type of the smart object layer data in the PSD file. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Gets or sets the resolution of the smart object layer data in the PSD file. |
 | [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Gets or sets the resolution measure unit of the smart object layer data in the PSD file. |
 | [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Gets or sets the right location of the placed layer in the PSD file. |

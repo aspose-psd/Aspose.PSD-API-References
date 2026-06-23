@@ -3,7 +3,7 @@ title: Class CgEdResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource class. Class CgEdResource. Content Generator Extra Data Photoshop CS5
 type: docs
-weight: 2600
+weight: 2610
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
 {{< psd/tize >}}
@@ -32,7 +32,7 @@ public class CgEdResource : AdjustmentLayerResource
 | [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | Gets or sets a value indicating whether [lab color] is used. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | Gets the layer resource length in bytes. |
 | [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | Gets or sets the mean value for brightness and contrast. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | Gets or sets a value indicating whether [use legacy]. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/) { get; set; } | Gets or sets the version. |

@@ -3,7 +3,7 @@ title: Struct SizeF
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.SizeF struct. Stores an ordered pair of floatingpoint numbers typically the width and height of a rectangle
 type: docs
-weight: 6050
+weight: 6060
 url: /net/aspose.psd/sizef/
 ---
 {{< psd/tize >}}
