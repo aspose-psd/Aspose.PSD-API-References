@@ -3,7 +3,7 @@ title: Class GradientColorPoint
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint class. The Gradient Color Point
 type: docs
-weight: 2050
+weight: 2060
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
 {{< psd/tize >}}
@@ -26,7 +26,6 @@ public class GradientColorPoint : IGradientColorPoint
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/color/) { get; set; } | Gets or sets the color. |
 | [ColorMode](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/) { get; set; } | Mode for the color to follow |
 | [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | Gets or sets the point location on gradient. |
 | [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | Gets or sets the median gradient point location. |

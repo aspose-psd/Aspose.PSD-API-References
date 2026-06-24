@@ -3,7 +3,7 @@ title: RawColor.GetColorModeName
 second_title: Aspose.PSD for .NET API Reference
 description: RawColor method. Gets the name of the color mode. Color mode name accumulated from channels/components names
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.psd.fileformats.psd.core.rawcolor/rawcolor/getcolormodename/
 ---
 {{< psd/tize >}}

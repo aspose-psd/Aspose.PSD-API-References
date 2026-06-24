@@ -3,7 +3,7 @@ title: IGradientColorPoint.MedianPointLocation
 second_title: Aspose.PSD for .NET API Reference
 description: IGradientColorPoint property. Gets or sets the median point location. Value range 04096
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/
 ---
 {{< psd/tize >}}

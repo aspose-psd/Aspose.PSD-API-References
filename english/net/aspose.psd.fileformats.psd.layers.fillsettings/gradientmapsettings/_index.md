@@ -3,7 +3,7 @@ title: Class GradientMapSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientMapSettings class. Gradient settings class for gradient map layer. It contains common properties for both types of gradient Solid and Noise
 type: docs
-weight: 2070
+weight: 2080
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientmapsettings/
 ---
 {{< psd/tize >}}

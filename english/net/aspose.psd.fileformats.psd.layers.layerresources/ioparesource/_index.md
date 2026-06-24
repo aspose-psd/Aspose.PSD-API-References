@@ -3,7 +3,7 @@ title: Class IopaResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IopaResource class. Class IopaResource. This resource contains information about the fill opacity property from the layer style form
 type: docs
-weight: 2860
+weight: 2870
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/
 ---
 {{< psd/tize >}}
@@ -29,7 +29,7 @@ public class IopaResource : LayerResource
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/) { get; set; } | Gets or sets the fill opacity. |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length/) { get; } | Gets the layer resource length in bytes. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods

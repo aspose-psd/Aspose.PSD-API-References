@@ -3,7 +3,7 @@ title: Class SolidGradient
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.Gradient.SolidGradient class. Gradient fill effect settings
 type: docs
-weight: 2220
+weight: 2230
 url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/
 ---
 {{< psd/tize >}}
@@ -25,7 +25,6 @@ public class SolidGradient : BaseGradient
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.gradient/solidgradient/color/) { get; set; } | Gets or sets the color. |
 | [ColorPoints](../../aspose.psd.fileformats.psd.layers.gradient/solidgradient/colorpoints/) { get; set; } | Gets or sets the color points. |
 | override [GradientMode](../../aspose.psd.fileformats.psd.layers.gradient/solidgradient/gradientmode/) { get; } | Gets the mode for this gradient. Determines 'Gradient Type' = 'Solid/Noise' (0/1). |
 | [GradientName](../../aspose.psd.fileformats.psd.layers.gradient/basegradient/gradientname/) { get; set; } | Gets or sets the name of the gradient. |

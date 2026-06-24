@@ -3,7 +3,7 @@ title: GrdmResource.UseVectorColor
 second_title: Aspose.PSD for .NET API Reference
 description: GrdmResource property. Flag for using vector color
 type: docs
-weight: 180
+weight: 190
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/usevectorcolor/
 ---
 {{< psd/tize >}}

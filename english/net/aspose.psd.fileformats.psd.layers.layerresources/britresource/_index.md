@@ -3,7 +3,7 @@ title: Class BritResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BritResource class. Class BritResource. Resource of Brightness/Contrast Adjustment Layer
 type: docs
-weight: 2590
+weight: 2600
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/britresource/
 ---
 {{< psd/tize >}}
@@ -33,7 +33,7 @@ public class BritResource : AdjustmentLayerResource
 | [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/) { get; set; } | Gets or sets a value indicating whether [lab color]. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/length/) { get; } | Gets the layer resource length in bytes. |
 | [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast/) { get; set; } | Gets or sets the mean value for brightness and contrast. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods

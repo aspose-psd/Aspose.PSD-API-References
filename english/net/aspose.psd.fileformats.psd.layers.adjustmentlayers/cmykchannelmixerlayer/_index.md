@@ -3,7 +3,7 @@ title: Class CmykChannelMixerLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykChannelMixerLayer class. Cmyk Channel Mixer Adjustment layer
 type: docs
-weight: 1730
+weight: 1740
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class BlackWhiteAdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.BlackWhiteAdjustmentLayer class. The Black and White adjustment layer class
 type: docs
-weight: 1700
+weight: 1710
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/
 ---
 {{< psd/tize >}}

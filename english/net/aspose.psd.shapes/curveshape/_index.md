@@ -3,7 +3,7 @@ title: Class CurveShape
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Shapes.CurveShape class. Represents a curved spline shape
 type: docs
-weight: 5970
+weight: 5980
 url: /net/aspose.psd.shapes/curveshape/
 ---
 {{< psd/tize >}}

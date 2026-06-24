@@ -3,7 +3,7 @@ title: Class VstkResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource class. Resource class VstkResource. Contains information about Vector Stroke Data. Resource should be initialized either by AssignItems method from ResourceLoader either by assigning values to properties of the class
 type: docs
-weight: 3430
+weight: 3440
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/
 ---
 {{< psd/tize >}}
@@ -29,7 +29,7 @@ public class VstkResource : LayerResource
 | [FillSettings](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillsettings/) { get; set; } | Gets or sets Fill settings of the Stroke. |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/length/) { get; } | Gets the layer resource length in bytes. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [StrokeEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/) { get; set; } | Gets or sets a value indicating whether stroke effect enabled. |
 | [StrokeStyleBlendMode](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/) { get; set; } | Gets or sets Stroke Blend mode. |

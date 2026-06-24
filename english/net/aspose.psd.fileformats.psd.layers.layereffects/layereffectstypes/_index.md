@@ -3,7 +3,7 @@ title: Enum LayerEffectsTypes
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.LayerEffectsTypes enum. Layer blending effects
 type: docs
-weight: 2350
+weight: 2360
 url: /net/aspose.psd.fileformats.psd.layers.layereffects/layereffectstypes/
 ---
 {{< psd/tize >}}

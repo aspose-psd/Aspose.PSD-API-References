@@ -3,7 +3,7 @@ title: GrdmResource.Reverse
 second_title: Aspose.PSD for .NET API Reference
 description: GrdmResource property. Is gradient reversed
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/reverse/
 ---
 {{< psd/tize >}}

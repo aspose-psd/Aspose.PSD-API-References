@@ -3,7 +3,7 @@ title: Class TypeToolInfo6Resource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfo6Resource class. The type tool information. For PSD version higher or equal to the 6.0
 type: docs
-weight: 3460
+weight: 3470
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/
 ---
 {{< psd/tize >}}
@@ -33,7 +33,7 @@ public class TypeToolInfo6Resource : LayerResource
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | [Left](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/) { get; set; } | Gets or sets the left location. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length/) { get; } | Gets the layer resource length in bytes. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [Right](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/right/) { get; set; } | Gets or sets the right location. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 | [TextVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion/) { get; set; } | Gets or sets the text version. |

@@ -3,7 +3,7 @@ title: GradientColorPoint.Location
 second_title: Aspose.PSD for .NET API Reference
 description: GradientColorPoint property. Gets or sets the point location on gradient
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/
 ---
 {{< psd/tize >}}

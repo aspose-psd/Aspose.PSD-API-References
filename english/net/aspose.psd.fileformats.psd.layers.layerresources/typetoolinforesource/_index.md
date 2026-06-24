@@ -3,7 +3,7 @@ title: Class TypeToolInfoResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoResource class. The type tool information. For PSD version lower than 6.0
 type: docs
-weight: 3470
+weight: 3480
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/
 ---
 {{< psd/tize >}}
@@ -38,7 +38,7 @@ public class TypeToolInfoResource : LayerResource
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length/) { get; } | Gets the layer resource length in bytes. |
 | [LineCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/) { get; } | Gets the line count. |
 | [Lines](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/) { get; set; } | Gets or sets the lines. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | [RComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/) { get; set; } | Gets or sets the r component. |
 | [ScaleFactor](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/) { get; set; } | Gets or sets the scale factor. |
 | [SelectionEnd](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/) { get; set; } | Gets or sets the selection end. |

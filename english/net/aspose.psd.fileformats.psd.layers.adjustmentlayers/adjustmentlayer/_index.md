@@ -3,7 +3,7 @@ title: Class AdjustmentLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.AdjustmentLayer class. Adjustment layer. For example Brightness/contrast
 type: docs
-weight: 1690
+weight: 1700
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/adjustmentlayer/
 ---
 {{< psd/tize >}}

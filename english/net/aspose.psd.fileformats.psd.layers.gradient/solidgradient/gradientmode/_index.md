@@ -3,7 +3,7 @@ title: SolidGradient.GradientMode
 second_title: Aspose.PSD for .NET API Reference
 description: SolidGradient property. Gets the mode for this gradient. Determines Gradient Type  Solid/Noise 0/1
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.psd.fileformats.psd.layers.gradient/solidgradient/gradientmode/
 ---
 {{< psd/tize >}}

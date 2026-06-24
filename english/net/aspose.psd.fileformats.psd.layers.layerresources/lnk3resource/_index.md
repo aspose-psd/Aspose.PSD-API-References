@@ -3,7 +3,7 @@ title: Class Lnk3Resource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource class. Defines the class which contains information about an embedded file in the PSD format 32 bit per channel image. The link resource may contain several LiFdDataSource instances which can be accessed by indexer
 type: docs
-weight: 3030
+weight: 3040
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/
 ---
 {{< psd/tize >}}
@@ -30,7 +30,7 @@ public class Lnk3Resource : Lnk2Resource
 | [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Gets the [`LiFdDataSource`](../lifddatasource/) at the specified index. (2 indexers) |
 | [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Gets the layer resource key. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Gets the PSD global link resource length in bytes. |
-| [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Gets the minimal psd version required for layer resource. 0 indicates no restrictions. |
 | virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Gets the signature. |
 
 ## Methods

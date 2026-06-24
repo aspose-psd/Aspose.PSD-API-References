@@ -3,7 +3,7 @@ title: Class VibranceLayer
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.VibranceLayer class. Realization of Vibrance adjustment layer
 type: docs
-weight: 1920
+weight: 1930
 url: /net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/
 ---
 {{< psd/tize >}}

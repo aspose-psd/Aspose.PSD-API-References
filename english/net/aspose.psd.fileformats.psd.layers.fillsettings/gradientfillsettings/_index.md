@@ -3,7 +3,7 @@ title: Class GradientFillSettings
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings class. Base gradient definition class. It contains common properties for both types of gradient Solid and Noise
 type: docs
-weight: 2060
+weight: 2070
 url: /net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
 {{< psd/tize >}}

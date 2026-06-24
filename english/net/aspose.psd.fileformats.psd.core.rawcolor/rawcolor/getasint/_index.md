@@ -3,7 +3,7 @@ title: RawColor.GetAsInt
 second_title: Aspose.PSD for .NET API Reference
 description: RawColor method. Gets the color as int in case its possible to get it
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.psd.fileformats.psd.core.rawcolor/rawcolor/getasint/
 ---
 {{< psd/tize >}}
