@@ -302,7 +302,7 @@ Gets the property value by type structure. Used only for UnitTests.
 java.lang.Object - OSType structure for easy unit-testing
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public final int getPsdVersion()
+public int getPsdVersion()
 ```
 
 
