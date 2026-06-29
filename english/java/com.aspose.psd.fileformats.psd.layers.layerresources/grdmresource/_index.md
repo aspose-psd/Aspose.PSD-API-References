@@ -54,7 +54,7 @@ Class GrdmResource. Contains information about Gradient-Map layer.
 | [getMaximumColor()](#getMaximumColor--) | Maximum color of PixelDataFormat.Rgba64Bpp format. |
 | [getMinimumColor()](#getMinimumColor--) | Minimum color of PixelDataFormat.Rgba64Bpp format. |
 | [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Gets the prefix length. |
-| [getPsdVersion()](#getPsdVersion--) | Gets the minimal psd version required for layer resource. |
+| [getPsdVersion()](#getPsdVersion--) | Gets the minimal PSD version required for this resource. |
 | [getReverse()](#getReverse--) | Is gradient reversed. |
 | [getRndNumberSeed()](#getRndNumberSeed--) | The random number seed used to generate colors for Noise gradient. |
 | [getRoughness()](#getRoughness--) | Roughness factor When 'Gradient type' = 'Noise', we can assign 'Roughness' (0 - 2048). |
@@ -378,11 +378,11 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public final int getPsdVersion()
+public int getPsdVersion()
 ```
 
 
-Gets the minimal psd version required for layer resource. 0 indicates no restrictions.
+Gets the minimal PSD version required for this resource. Version 3 is needed when interpolation method is stored explicitly.
 
 **Returns:**
 int

@@ -307,7 +307,7 @@ Value:  true  if [preserve luminosity]; otherwise,  false .
 boolean
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public final int getPsdVersion()
+public int getPsdVersion()
 ```
 
 

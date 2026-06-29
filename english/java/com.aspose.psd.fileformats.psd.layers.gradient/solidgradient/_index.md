@@ -28,7 +28,6 @@ Gradient fill effect settings.
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [generateLfx2ResourceNodes()](#generateLfx2ResourceNodes--) | Generates the LFX2 resource nodes. |
 | [getClass()](#getClass--) |  |
-| [getColor()](#getColor--) | Gets or sets the color. |
 | [getColorPoints()](#getColorPoints--) | Gets or sets the color points. |
 | [getGradientMode()](#getGradientMode--) | Gets the mode for this gradient. |
 | [getGradientName()](#getGradientName--) | Gets or sets the name of the gradient. |
@@ -39,7 +38,6 @@ Gradient fill effect settings.
 | [notifyAll()](#notifyAll--) |  |
 | [removeColorPoint(IGradientColorPoint point)](#removeColorPoint-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint-) | Removes the color point. |
 | [removeTransparencyPoint(IGradientTransparencyPoint point)](#removeTransparencyPoint-com.aspose.psd.fileformats.psd.layers.fillsettings.IGradientTransparencyPoint-) | Removes the transparency point. |
-| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the color. |
 | [setColorPoints(IGradientColorPoint[] value)](#setColorPoints-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint---) | Gets or sets the color points. |
 | [setGradientName(String value)](#setGradientName-java.lang.String-) | Gets or sets the name of the gradient. |
 | [setInterpolation(short value)](#setInterpolation-short-) | Gets ot sets Interpolation. |
@@ -111,18 +109,6 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getColor() {#getColor--}
-```
-public final Color getColor()
-```
-
-
-Gets or sets the color.
-
-Value: The color.
-
-**Returns:**
-[Color](../../com.aspose.psd/color)
 ### getColorPoints() {#getColorPoints--}
 ```
 public final IGradientColorPoint[] getColorPoints()
@@ -230,21 +216,6 @@ Removes the transparency point.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | point | [IGradientTransparencyPoint](../../com.aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint) | The point. |
-
-### setColor(Color value) {#setColor-com.aspose.psd.Color-}
-```
-public final void setColor(Color value)
-```
-
-
-Gets or sets the color.
-
-Value: The color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.psd/color) |  |
 
 ### setColorPoints(IGradientColorPoint[] value) {#setColorPoints-com.aspose.psd.fileformats.psd.layers.IGradientColorPoint---}
 ```

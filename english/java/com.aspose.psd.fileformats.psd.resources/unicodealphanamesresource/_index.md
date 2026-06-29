@@ -18,7 +18,7 @@ Unicode alpha names resource
 
 | Constructor | Description |
 | --- | --- |
-| [UnicodeAlphaNamesResource()](#UnicodeAlphaNamesResource--) |  |
+| [UnicodeAlphaNamesResource()](#UnicodeAlphaNamesResource--) | Initializes a new instance of the [UnicodeAlphaNamesResource](../../com.aspose.psd.fileformats.psd.resources/unicodealphanamesresource) class. |
 ## Fields
 
 | Field | Description |
@@ -58,6 +58,8 @@ Unicode alpha names resource
 public UnicodeAlphaNamesResource()
 ```
 
+
+Initializes a new instance of the [UnicodeAlphaNamesResource](../../com.aspose.psd.fileformats.psd.resources/unicodealphanamesresource) class.
 
 ### ResouceBlockMeSaSignature {#ResouceBlockMeSaSignature}
 ```

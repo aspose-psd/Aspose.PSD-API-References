@@ -154,7 +154,7 @@ Defines the SoLeResource class that contains information about a smart object la
 | [getWarpItems_internalized()](#getWarpItems-internalized--) | The warp items. |
 | [getWarpVersion_internalized()](#getWarpVersion-internalized--) | Gets or sets the warp version. |
 | [getWidth()](#getWidth--) | Gets or sets the width. |
-| [get_Item(String index)](#get-Item-java.lang.String-) | Gets the \{@link \#\#Aspose\#PSD\#FileFormats\#Psd\#Layers\#LayerResources\} at the specified index. |
+| [get_Item(String index)](#get-Item-java.lang.String-) | Gets the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) at the specified index. |
 | [hasBoundsUnits_internalized()](#hasBoundsUnits-internalized--) | Gets a value indicating whether this instance has bounds units. |
 | [hashCode()](#hashCode--) |  |
 | [initProreties_internalized(PlaceResourceParams plLdResourceParams)](#initProreties-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.smartobjectresources.PlaceResourceParams-) |  |
@@ -1218,7 +1218,7 @@ Gets the prefix length. Default value is 12 for 8BIM resources. and 16 for 8B64
 int - The Prefix Length.
 ### getPsdVersion() {#getPsdVersion--}
 ```
-public final int getPsdVersion()
+public int getPsdVersion()
 ```
 
 
@@ -1478,15 +1478,15 @@ public final OSTypeStructure get_Item(String index)
 ```
 
 
-Gets the \{@link \#\#Aspose\#PSD\#FileFormats\#Psd\#Layers\#LayerResources\} at the specified index.
+Gets the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) at the specified index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | java.lang.String | The key name. Value: The \{@link \#\#Aspose\#PSD\#FileFormats\#Psd\#Layers\#LayerResources\}. |
+| index | java.lang.String | The key name. |
 
 **Returns:**
-[OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) - The found \{@link \#\#Aspose\#PSD\#FileFormats\#Psd\#Layers\#LayerResources\} instance or null.
+[OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) - The found [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) instance or null.
 ### hasBoundsUnits_internalized() {#hasBoundsUnits-internalized--}
 ```
 public final boolean hasBoundsUnits_internalized()

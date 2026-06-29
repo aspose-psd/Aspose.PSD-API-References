@@ -25,7 +25,7 @@ Raw Color Class helps to store colors with any channels count, any color mode an
 
 | Method | Description |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [equals(Object obj)](#equals-java.lang.Object-) | Determines whether the specified Object, is equal to this instance. |
 | [getAsInt()](#getAsInt--) | Gets the color as int in case it's possible to get it. |
 | [getAsLong()](#getAsLong--) | Gets the color as long in case it's possible to get it. |
 | [getBitDepth()](#getBitDepth--) | Gets the bit depth of Raw Color. |
@@ -33,9 +33,11 @@ Raw Color Class helps to store colors with any channels count, any color mode an
 | [getColorMode()](#getColorMode--) | Mode for the color to follow. |
 | [getColorModeName()](#getColorModeName--) | Gets the name of the color mode. |
 | [getComponents()](#getComponents--) | Gets the components of color. |
-| [hashCode()](#hashCode--) |  |
+| [hashCode()](#hashCode--) | Get hash code of the current object. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [op_Equality(RawColor left, RawColor right)](#op-Equality-com.aspose.psd.fileformats.psd.rawcolor.RawColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Implements the operator ==. |
+| [op_Inequality(RawColor left, RawColor right)](#op-Inequality-com.aspose.psd.fileformats.psd.rawcolor.RawColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-) | Implements the operator !=. |
 | [setAsInt(int value)](#setAsInt-int-) | Sets data to all channels from int argument if it's possible |
 | [setAsLong(long value)](#setAsLong-long-) | Sets data to all channels from int argument if it's possible |
 | [setColorMode(short value)](#setColorMode-short-) | Mode for the color to follow. |
@@ -81,21 +83,21 @@ Initializes a new instance of the [RawColor](../../com.aspose.psd.fileformats.ps
 | pixelDataFormat | [PixelDataFormat](../../com.aspose.psd/pixeldataformat) | The pixel data format. |
 | colorMode | short |  |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### equals(Object obj) {#equals-java.lang.Object-}
 ```
-public boolean equals(Object arg0)
+public boolean equals(Object obj)
 ```
 
 
-
+Determines whether the specified Object, is equal to this instance.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| obj | java.lang.Object | The Object to compare with this instance. |
 
 **Returns:**
-boolean
+boolean -  true  if the specified Object is equal to this instance; otherwise,  false .
 ### getAsInt() {#getAsInt--}
 ```
 public final int getAsInt()
@@ -170,14 +172,14 @@ Value: The components of color
 com.aspose.psd.fileformats.psd.rawcolor.ColorComponent[]
 ### hashCode() {#hashCode--}
 ```
-public native int hashCode()
+public int hashCode()
 ```
 
 
-
+Get hash code of the current object.
 
 **Returns:**
-int
+int - The hash code.
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -194,6 +196,38 @@ public final native void notifyAll()
 
 
 
+### op_Equality(RawColor left, RawColor right) {#op-Equality-com.aspose.psd.fileformats.psd.rawcolor.RawColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
+```
+public static boolean op_Equality(RawColor left, RawColor right)
+```
+
+
+Implements the operator ==.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| left | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) | The first RawColor. |
+| right | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) | The second RawColor. |
+
+**Returns:**
+boolean - The result of the operator.
+### op_Inequality(RawColor left, RawColor right) {#op-Inequality-com.aspose.psd.fileformats.psd.rawcolor.RawColor-com.aspose.psd.fileformats.psd.rawcolor.RawColor-}
+```
+public static boolean op_Inequality(RawColor left, RawColor right)
+```
+
+
+Implements the operator !=.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| left | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) | The first RawColor. |
+| right | [RawColor](../../com.aspose.psd.fileformats.psd.rawcolor/rawcolor) | The second RawColor. |
+
+**Returns:**
+boolean - The result of the operator.
 ### setAsInt(int value) {#setAsInt-int-}
 ```
 public final void setAsInt(int value)

@@ -30,7 +30,6 @@ The Gradient Color Point.
 | [create_internalized(GradientColorPointEntity entity)](#create-internalized-com.aspose.internal.fileformats.psd.layers.layerresources.lfx2resources.GradientColorPointEntity-) |  |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getClass()](#getClass--) |  |
-| [getColor()](#getColor--) | Gets or sets the color. |
 | [getColorMode()](#getColorMode--) | Mode for the color to follow |
 | [getLocation()](#getLocation--) | Gets or sets the point location on gradient. |
 | [getMedianPointLocation()](#getMedianPointLocation--) | Gets or sets the median gradient point location. |
@@ -38,7 +37,6 @@ The Gradient Color Point.
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
-| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Gets or sets the color. |
 | [setColorMode(short value)](#setColorMode-short-) | Mode for the color to follow |
 | [setLocation(int value)](#setLocation-int-) | Gets or sets the point location on gradient. |
 | [setMedianPointLocation(int value)](#setMedianPointLocation-int-) | Gets or sets the median gradient point location. |
@@ -110,18 +108,6 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
-### getColor() {#getColor--}
-```
-public final Color getColor()
-```
-
-
-Gets or sets the color.
-
-Value: The color.
-
-**Returns:**
-[Color](../../com.aspose.psd/color)
 ### getColorMode() {#getColorMode--}
 ```
 public final short getColorMode()
@@ -193,21 +179,6 @@ public final native void notifyAll()
 
 
 
-
-### setColor(Color value) {#setColor-com.aspose.psd.Color-}
-```
-public final void setColor(Color value)
-```
-
-
-Gets or sets the color.
-
-Value: The color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.psd/color) |  |
 
 ### setColorMode(short value) {#setColorMode-short-}
 ```
