@@ -1,0 +1,765 @@
+---
+title: "TiffExpectedFormat"
+second_title: "Riferimento API Aspose.PSD per Java"
+description: "Il formato di file tiff previsto."
+type: docs
+weight: 15
+url: /it/java/com.aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
+---
+
+**Inheritance:**
+java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+```
+public final class TiffExpectedFormat extends System.Enum
+```
+
+Il formato di file tiff previsto.
+## Campi
+
+| Campo | Descrizione |
+| --- | --- |
+| [Default](#Default) | Il formato tiff predefinito è senza compressione con formato solo B/W 1 bit per pixel. |
+| [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
+| [TiffCcitRle](#TiffCcitRle) | La codifica tiff CCITT RLE. |
+| [TiffCcittFax3](#TiffCcittFax3) | La codifica tiff CCITT FAX3. |
+| [TiffCcittFax4](#TiffCcittFax4) | La codifica tiff CCITT FAX4. |
+| [TiffDeflateBw](#TiffDeflateBw) | Il tiff con compressione deflate e formato solo B/W 1 bit per pixel. |
+| [TiffDeflateRgb](#TiffDeflateRgb) | Il tiff con compressione deflate e formato colore RGB. |
+| [TiffDeflateRgba](#TiffDeflateRgba) | Il tiff con compressione deflate e formato colore RGBA. |
+| [TiffJpegRgb](#TiffJpegRgb) | Il tiff con compressione Jpeg e formato colore RGB. |
+| [TiffJpegYCbCr](#TiffJpegYCbCr) | Il tiff con compressione Jpeg e formato colore YCBCR. |
+| [TiffLzwBw](#TiffLzwBw) | Il TIFF con compressione LZW e formato solo B/W a 1 bit per pixel. |
+| [TiffLzwCmyk](#TiffLzwCmyk) | Il TIFF LZW CMYK |
+| [TiffLzwRgb](#TiffLzwRgb) | Il TIFF con compressione LZW e formato colore RGB. |
+| [TiffLzwRgba](#TiffLzwRgba) | Il TIFF con compressione LZW e formato colore RGBA con trasparenza. |
+| [TiffNoCompressionBw](#TiffNoCompressionBw) | Il TIFF non compresso e formato solo B/W a 1 bit per pixel. |
+| [TiffNoCompressionRgb](#TiffNoCompressionRgb) | Il TIFF non compresso e formato colore RGB. |
+| [TiffNoCompressionRgba](#TiffNoCompressionRgba) | Il TIFF non compresso e formato colore RGBA con trasparenza. |
+## Metodi
+
+| Metodo | Descrizione |
+| --- | --- |
+| [Clone()](#Clone--) |  |
+| [CloneTo(T arg0)](#CloneTo-T-) |  |
+| [CloneTo(System.Enum arg0)](#CloneTo-com.aspose.ms.System.Enum-) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [format(System.Type arg0, Object arg1, String arg2)](#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-) |  |
+| [format(Class<?> arg0, long arg1, String arg2)](#format-java.lang.Class----long-java.lang.String-) |  |
+| [getClass()](#getClass--) |  |
+| [getName(System.Type arg0, Object arg1)](#getName-com.aspose.ms.System.Type-java.lang.Object-) |  |
+| [getName(Class<?> arg0, long arg1)](#getName-java.lang.Class----long-) |  |
+| [getNames()](#getNames--) |  |
+| [getNames(System.Type arg0)](#getNames-com.aspose.ms.System.Type-) |  |
+| [getNames(Class<?> arg0)](#getNames-java.lang.Class----) |  |
+| [getUnderlyingType(System.Type arg0)](#getUnderlyingType-com.aspose.ms.System.Type-) |  |
+| [getUnderlyingType(Class<?> arg0)](#getUnderlyingType-java.lang.Class----) |  |
+| [getValue(Class<?> arg0, String arg1)](#getValue-java.lang.Class----java.lang.String-) |  |
+| [getValues()](#getValues--) |  |
+| [getValues(System.Type arg0)](#getValues-com.aspose.ms.System.Type-) |  |
+| [getValues(Class<?> arg0)](#getValues-java.lang.Class----) |  |
+| [get_Caption()](#get-Caption--) |  |
+| [get_Value()](#get-Value--) |  |
+| [hashCode()](#hashCode--) |  |
+| [isDefined(System.Type arg0, Object arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.Object-) |  |
+| [isDefined(System.Type arg0, String arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.String-) |  |
+| [isDefined(System.Type arg0, long arg1)](#isDefined-com.aspose.ms.System.Type-long-) |  |
+| [isDefined(Class<?> arg0, String arg1)](#isDefined-java.lang.Class----java.lang.String-) |  |
+| [isDefined(Class<?> arg0, long arg1)](#isDefined-java.lang.Class----long-) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [parse(System.Type arg0, String arg1)](#parse-com.aspose.ms.System.Type-java.lang.String-) |  |
+| [parse(System.Type arg0, String arg1, Boolean arg2)](#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-) |  |
+| [parse(Class<?> arg0, String arg1)](#parse-java.lang.Class----java.lang.String-) |  |
+| [parse(Class<?> arg0, String arg1, Boolean arg2)](#parse-java.lang.Class----java.lang.String-java.lang.Boolean-) |  |
+| [register(System.Enum.AbstractEnum arg0)](#register-com.aspose.ms.System.Enum.AbstractEnum-) |  |
+| [toObject(System.Type arg0, Object arg1)](#toObject-com.aspose.ms.System.Type-java.lang.Object-) |  |
+| [toString()](#toString--) |  |
+| [toString(Class<?> arg0, long arg1)](#toString-java.lang.Class----long-) |  |
+| [toString(long arg0)](#toString-long-) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### Default {#Default}
+```
+public static final int Default
+```
+
+
+Il formato TIFF predefinito è senza compressione con formato solo B/W a 1 bit per pixel. Puoi anche usare questa impostazione per ottenere opzioni vuote e inizializzarle con i tuoi tag o altre impostazioni.
+
+### EnumSeparatorCharArray {#EnumSeparatorCharArray}
+```
+public static final char[] EnumSeparatorCharArray
+```
+
+
+### TiffCcitRle {#TiffCcitRle}
+```
+public static final int TiffCcitRle
+```
+
+
+La codifica TIFF CCITT RLE. Solo B/W a 1 bit per pixel è supportato per questo schema.
+
+### TiffCcittFax3 {#TiffCcittFax3}
+```
+public static final int TiffCcittFax3
+```
+
+
+La codifica TIFF CCITT FAX3. Solo B/W a 1 bit per pixel è supportato per questo schema.
+
+### TiffCcittFax4 {#TiffCcittFax4}
+```
+public static final int TiffCcittFax4
+```
+
+
+La codifica TIFF CCITT FAX4. Solo B/W a 1 bit per pixel è supportato per questo schema.
+
+### TiffDeflateBw {#TiffDeflateBw}
+```
+public static final int TiffDeflateBw
+```
+
+
+Il tiff con compressione deflate e formato solo B/W 1 bit per pixel.
+
+### TiffDeflateRgb {#TiffDeflateRgb}
+```
+public static final int TiffDeflateRgb
+```
+
+
+Il tiff con compressione deflate e formato colore RGB.
+
+### TiffDeflateRgba {#TiffDeflateRgba}
+```
+public static final int TiffDeflateRgba
+```
+
+
+Il tiff con compressione deflate e formato colore RGBA.
+
+### TiffJpegRgb {#TiffJpegRgb}
+```
+public static final int TiffJpegRgb
+```
+
+
+Il tiff con compressione Jpeg e formato colore RGB.
+
+### TiffJpegYCbCr {#TiffJpegYCbCr}
+```
+public static final int TiffJpegYCbCr
+```
+
+
+Il tiff con compressione Jpeg e formato colore YCBCR.
+
+### TiffLzwBw {#TiffLzwBw}
+```
+public static final int TiffLzwBw
+```
+
+
+Il TIFF con compressione LZW e formato solo B/W a 1 bit per pixel.
+
+### TiffLzwCmyk {#TiffLzwCmyk}
+```
+public static final int TiffLzwCmyk
+```
+
+
+Il TIFF LZW CMYK
+
+### TiffLzwRgb {#TiffLzwRgb}
+```
+public static final int TiffLzwRgb
+```
+
+
+Il TIFF con compressione LZW e formato colore RGB.
+
+### TiffLzwRgba {#TiffLzwRgba}
+```
+public static final int TiffLzwRgba
+```
+
+
+Il TIFF con compressione LZW e formato colore RGBA con trasparenza.
+
+### TiffNoCompressionBw {#TiffNoCompressionBw}
+```
+public static final int TiffNoCompressionBw
+```
+
+
+Il TIFF non compresso e formato solo B/W a 1 bit per pixel.
+
+### TiffNoCompressionRgb {#TiffNoCompressionRgb}
+```
+public static final int TiffNoCompressionRgb
+```
+
+
+Il TIFF non compresso e formato colore RGB.
+
+### TiffNoCompressionRgba {#TiffNoCompressionRgba}
+```
+public static final int TiffNoCompressionRgba
+```
+
+
+Il TIFF non compresso e formato colore RGBA con trasparenza.
+
+### Clone() {#Clone--}
+```
+public System.Enum Clone()
+```
+
+
+
+
+**Returns:**
+com.aspose.ms.System.Enum
+### CloneTo(T arg0) {#CloneTo-T-}
+```
+public abstract void CloneTo(T arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | T |  |
+
+### CloneTo(System.Enum arg0) {#CloneTo-com.aspose.ms.System.Enum-}
+```
+public void CloneTo(System.Enum arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Enum |  |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### format(System.Type arg0, Object arg1, String arg2) {#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-}
+```
+public static String format(System.Type arg0, Object arg1, String arg2)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.Object |  |
+| arg2 | java.lang.String |  |
+
+**Returns:**
+java.lang.String
+### format(Class<?> arg0, long arg1, String arg2) {#format-java.lang.Class----long-java.lang.String-}
+```
+public static String format(Class<?> arg0, long arg1, String arg2)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | long |  |
+| arg2 | java.lang.String |  |
+
+**Returns:**
+java.lang.String
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getName(System.Type arg0, Object arg1) {#getName-com.aspose.ms.System.Type-java.lang.Object-}
+```
+public static String getName(System.Type arg0, Object arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.Object |  |
+
+**Returns:**
+java.lang.String
+### getName(Class<?> arg0, long arg1) {#getName-java.lang.Class----long-}
+```
+public static String getName(Class<?> arg0, long arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | long |  |
+
+**Returns:**
+java.lang.String
+### getNames() {#getNames--}
+```
+public String[] getNames()
+```
+
+
+
+
+**Returns:**
+java.lang.String[]
+### getNames(System.Type arg0) {#getNames-com.aspose.ms.System.Type-}
+```
+public static String[] getNames(System.Type arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+
+**Returns:**
+java.lang.String[]
+### getNames(Class<?> arg0) {#getNames-java.lang.Class----}
+```
+public static Collection<String> getNames(Class<?> arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+
+**Returns:**
+java.util.Collection<java.lang.String>
+### getUnderlyingType(System.Type arg0) {#getUnderlyingType-com.aspose.ms.System.Type-}
+```
+public static System.Type getUnderlyingType(System.Type arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+
+**Returns:**
+com.aspose.ms.System.Type
+### getUnderlyingType(Class<?> arg0) {#getUnderlyingType-java.lang.Class----}
+```
+public static Class<? extends Number> getUnderlyingType(Class<?> arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+
+**Returns:**
+java.lang.Class<? extends java.lang.Number>
+### getValue(Class<?> arg0, String arg1) {#getValue-java.lang.Class----java.lang.String-}
+```
+public static long getValue(Class<?> arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+long
+### getValues() {#getValues--}
+```
+public Long[] getValues()
+```
+
+
+
+
+**Returns:**
+java.lang.Long[]
+### getValues(System.Type arg0) {#getValues-com.aspose.ms.System.Type-}
+```
+public static System.Array getValues(System.Type arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+
+**Returns:**
+com.aspose.ms.System.Array
+### getValues(Class<?> arg0) {#getValues-java.lang.Class----}
+```
+public static Long[] getValues(Class<?> arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+
+**Returns:**
+java.lang.Long[]
+### get_Caption() {#get-Caption--}
+```
+public String get_Caption()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### get_Value() {#get-Value--}
+```
+public long get_Value()
+```
+
+
+
+
+**Returns:**
+long
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isDefined(System.Type arg0, Object arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.Object-}
+```
+public static boolean isDefined(System.Type arg0, Object arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### isDefined(System.Type arg0, String arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.String-}
+```
+public static boolean isDefined(System.Type arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+boolean
+### isDefined(System.Type arg0, long arg1) {#isDefined-com.aspose.ms.System.Type-long-}
+```
+public static boolean isDefined(System.Type arg0, long arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | long |  |
+
+**Returns:**
+boolean
+### isDefined(Class<?> arg0, String arg1) {#isDefined-java.lang.Class----java.lang.String-}
+```
+public static boolean isDefined(Class<?> arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+boolean
+### isDefined(Class<?> arg0, long arg1) {#isDefined-java.lang.Class----long-}
+```
+public static boolean isDefined(Class<?> arg0, long arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | long |  |
+
+**Returns:**
+boolean
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### parse(System.Type arg0, String arg1) {#parse-com.aspose.ms.System.Type-java.lang.String-}
+```
+public static long parse(System.Type arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+long
+### parse(System.Type arg0, String arg1, Boolean arg2) {#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-}
+```
+public static long parse(System.Type arg0, String arg1, Boolean arg2)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.String |  |
+| arg2 | java.lang.Boolean |  |
+
+**Returns:**
+long
+### parse(Class<?> arg0, String arg1) {#parse-java.lang.Class----java.lang.String-}
+```
+public static long parse(Class<?> arg0, String arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | java.lang.String |  |
+
+**Returns:**
+long
+### parse(Class<?> arg0, String arg1, Boolean arg2) {#parse-java.lang.Class----java.lang.String-java.lang.Boolean-}
+```
+public static long parse(Class<?> arg0, String arg1, Boolean arg2)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | java.lang.String |  |
+| arg2 | java.lang.Boolean |  |
+
+**Returns:**
+long
+### register(System.Enum.AbstractEnum arg0) {#register-com.aspose.ms.System.Enum.AbstractEnum-}
+```
+public static void register(System.Enum.AbstractEnum arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Enum.AbstractEnum |  |
+
+### toObject(System.Type arg0, Object arg1) {#toObject-com.aspose.ms.System.Type-java.lang.Object-}
+```
+public static Object toObject(System.Type arg0, Object arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | com.aspose.ms.System.Type |  |
+| arg1 | java.lang.Object |  |
+
+**Returns:**
+java.lang.Object
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### toString(Class<?> arg0, long arg1) {#toString-java.lang.Class----long-}
+```
+public static String toString(Class<?> arg0, long arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | java.lang.Class<?> |  |
+| arg1 | long |  |
+
+**Returns:**
+java.lang.String
+### toString(long arg0) {#toString-long-}
+```
+public String toString(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | long |  |
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametro | Tipo | Descrizione |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
