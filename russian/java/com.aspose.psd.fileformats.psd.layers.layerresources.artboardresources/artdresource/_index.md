@@ -1,0 +1,699 @@
+---
+title: "ArtDResource"
+second_title: "Aspose.PSD for Java API Справочник"
+description: "Данные информации о артборде для PsdImage.GlobalLayerResources/."
+type: docs
+weight: 12
+url: /ru/java/com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources/artdresource/
+---
+
+**Inheritance:**
+java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources.BaseArtboardInfoResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources/baseartboardinforesource)
+```
+public final class ArtDResource extends BaseArtboardInfoResource
+```
+
+Данные информации о артборде для  PsdImage.GlobalLayerResources ([PsdImage.getGlobalLayerResources](../../com.aspose.psd.fileformats.psd/psdimage\#getGlobalLayerResources)/[PsdImage.setGlobalLayerResources(LayerResource[])](../../com.aspose.psd.fileformats.psd/psdimage\#setGlobalLayerResources-LayerResource---)).
+## Конструкторы
+
+| Конструктор | Описание |
+| --- | --- |
+| [ArtDResource()](#ArtDResource--) | Инициализирует новый экземпляр класса [ArtDResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources/artdresource) . |
+## Поля
+
+| Поле | Описание |
+| --- | --- |
+| [PsbHeaderVersion_internalized](#PsbHeaderVersion-internalized) | Версия заголовка PSB |
+| [PsbResourceSignature](#PsbResourceSignature) | Подпись ресурса, специфичная для PSB. |
+| [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | Версия заголовка PSD |
+| [ResourceSignature](#ResourceSignature) | Общая подпись ресурса. |
+| [TypeToolKey](#TypeToolKey) | Ключ информации о типе инструмента. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | Лицензия предприятия. |
+## Методы
+
+| Метод | Описание |
+| --- | --- |
+| [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Проверяет и устанавливает, является ли ресурс специфичным для PSB. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getArtboardCount_internalized()](#getArtboardCount-internalized--) | Получает или задает количество артбордов. |
+| [getAutoExpandOffset_internalized()](#getAutoExpandOffset-internalized--) | Получает или задает смещение автоматического расширения. |
+| [getClass()](#getClass--) |  |
+| [getClassId_internalized()](#getClassId-internalized--) | Получает или задает идентификатор класса ресурса. |
+| [getClassName_internalized()](#getClassName-internalized--) | Получает или задает имя класса ресурса. |
+| [getDocDefaultNewArtboardBackgroundColor_internalized()](#getDocDefaultNewArtboardBackgroundColor-internalized--) | Получает или задает  DocDefaultNewArtboardBackgroundColor ([.getDocDefaultNewArtboardBackgroundColor\_internalized](../../null/\#getDocDefaultNewArtboardBackgroundColor-internalized)/[.setDocDefaultNewArtboardBackgroundColor()](../../null/\#setDocDefaultNewArtboardBackgroundColor--)). |
+| [getDocDefaultNewArtboardBackgroundType_internalized()](#getDocDefaultNewArtboardBackgroundType-internalized--) | Получает или задает  DocDefaultNewArtboardBackgroundType ([.getDocDefaultNewArtboardBackgroundType\_internalized](../../null/\#getDocDefaultNewArtboardBackgroundType-internalized)/[.setDocDefaultNewArtboardBackgroundType\_internalized(int)](../../null/\#setDocDefaultNewArtboardBackgroundType\_internalized-int-)). |
+| [getHeader_internalized()](#getHeader-internalized--) | Получает или задает заголовок. |
+| [getItems()](#getItems--) | Получает или задает элементы [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure). |
+| [getKey()](#getKey--) | Получает ключ ресурса слоя. |
+| [getLength()](#getLength--) |    |
+| [getOriginPoint_internalized()](#getOriginPoint-internalized--) | Получает или задает точку происхождения. |
+| [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Получает длину префикса. |
+| [getPsdVersion()](#getPsdVersion--) | Получает минимальную версию PSD, требуемую для ресурса слоя. |
+| [getSignature()](#getSignature--) | Получает подпись ресурса слоя. |
+| [getVersion_internalized()](#getVersion-internalized--) | Получает или задает версию ресурса. |
+| [hashCode()](#hashCode--) |  |
+| [isAutoExpandEnabled_internalized()](#isAutoExpandEnabled-internalized--) | Получает или задает IsAutoExpandEnabled ([.isAutoExpandEnabled\_internalized](../../null/\#isAutoExpandEnabled-internalized)/[.setAutoExpandEnabled\_internalized(boolean)](../../null/\#setAutoExpandEnabled-internalized-boolean-)). |
+| [isAutoNestEnabled_internalized()](#isAutoNestEnabled-internalized--) | Получает или задает IsAutoNestEnabled ([.isAutoNestEnabled\_internalized](../../null/\#isAutoNestEnabled-internalized)/[.setAutoNestEnabled\_internalized(boolean)](../../null/\#setAutoNestEnabled-internalized-boolean-)). |
+| [isAutoPositionEnabled_internalized()](#isAutoPositionEnabled-internalized--) | Получает или задает IsAutoPositionEnabled ([.isAutoPositionEnabled\_internalized](../../null/\#isAutoPositionEnabled-internalized)/[.setAutoPositionEnabled\_internalized(boolean)](../../null/\#setAutoPositionEnabled-internalized-boolean-)). |
+| [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Определяет, является ли ресурс специфичным для PSB. |
+| [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | Получает значение, указывающее, является ли данный экземпляр ресурсом, специфичным для PSB. |
+| [isShrinkwrapOnSaveEnabled_internalized()](#isShrinkwrapOnSaveEnabled-internalized--) | Получает или задает IsShrinkwrapOnSaveEnabled ([.isShrinkwrapOnSaveEnabled\_internalized](../../null/\#isShrinkwrapOnSaveEnabled-internalized)/[.setShrinkwrapOnSaveEnabled\_internalized(boolean)](../../null/\#setShrinkwrapOnSaveEnabled-internalized-boolean-)). |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Сохраняет ресурс в указанный контейнер потока. |
+| [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Сохраняет пользовательский заголовок ресурса. |
+| [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Сохраняет подпись заголовка, идентификатор и длину. |
+| [setArtboardCount_internalized(int value)](#setArtboardCount-internalized-int-) | Получает или задает количество артбордов. |
+| [setAutoExpandEnabled_internalized(boolean value)](#setAutoExpandEnabled-internalized-boolean-) | Получает или задает IsAutoExpandEnabled ([.isAutoExpandEnabled\_internalized](../../null/\#isAutoExpandEnabled-internalized)/[.setAutoExpandEnabled\_internalized(boolean)](../../null/\#setAutoExpandEnabled-internalized-boolean-)). |
+| [setAutoExpandOffset_internalized(PointF value)](#setAutoExpandOffset-internalized-com.aspose.psd.PointF-) | Получает или задает смещение автоматического расширения. |
+| [setAutoNestEnabled_internalized(boolean value)](#setAutoNestEnabled-internalized-boolean-) | Получает или задает IsAutoNestEnabled ([.isAutoNestEnabled\_internalized](../../null/\#isAutoNestEnabled-internalized)/[.setAutoNestEnabled\_internalized(boolean)](../../null/\#setAutoNestEnabled-internalized-boolean-)). |
+| [setAutoPositionEnabled_internalized(boolean value)](#setAutoPositionEnabled-internalized-boolean-) | Получает или задает IsAutoPositionEnabled ([.isAutoPositionEnabled\_internalized](../../null/\#isAutoPositionEnabled-internalized)/[.setAutoPositionEnabled\_internalized(boolean)](../../null/\#setAutoPositionEnabled-internalized-boolean-)). |
+| [setClassId_internalized(ClassID value)](#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Получает или задает идентификатор класса ресурса. |
+| [setClassName_internalized(String value)](#setClassName-internalized-java.lang.String-) | Получает или задает имя класса ресурса. |
+| [setDocDefaultNewArtboardBackgroundColor_internalized(Color value)](#setDocDefaultNewArtboardBackgroundColor-internalized-com.aspose.psd.Color-) | Получает или задает  DocDefaultNewArtboardBackgroundColor ([.getDocDefaultNewArtboardBackgroundColor\_internalized](../../null/\#getDocDefaultNewArtboardBackgroundColor-internalized)/[.setDocDefaultNewArtboardBackgroundColor()](../../null/\#setDocDefaultNewArtboardBackgroundColor--)). |
+| [setDocDefaultNewArtboardBackgroundType_internalized(int value)](#setDocDefaultNewArtboardBackgroundType-internalized-int-) | Получает или задает  DocDefaultNewArtboardBackgroundType ([.getDocDefaultNewArtboardBackgroundType\_internalized](../../null/\#getDocDefaultNewArtboardBackgroundType-internalized)/[.setDocDefaultNewArtboardBackgroundType\_internalized(int)](../../null/\#setDocDefaultNewArtboardBackgroundType\_internalized-int-)). |
+| [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Получает или задает заголовок. |
+| [setItems(OSTypeStructure[] value)](#setItems-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---) | Получает или задает элементы [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure). |
+| [setOriginPoint_internalized(PointF value)](#setOriginPoint-internalized-com.aspose.psd.PointF-) | Получает или задает точку происхождения. |
+| [setShrinkwrapOnSaveEnabled_internalized(boolean value)](#setShrinkwrapOnSaveEnabled-internalized-boolean-) | Получает или задает IsShrinkwrapOnSaveEnabled ([.isShrinkwrapOnSaveEnabled\_internalized](../../null/\#isShrinkwrapOnSaveEnabled-internalized)/[.setShrinkwrapOnSaveEnabled\_internalized(boolean)](../../null/\#setShrinkwrapOnSaveEnabled-internalized-boolean-)). |
+| [setVersion_internalized(int value)](#setVersion-internalized-int-) | Получает или задает версию ресурса. |
+| [toString()](#toString--) | Возвращает объект String, представляющий этот экземпляр. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### ArtDResource() {#ArtDResource--}
+```
+public ArtDResource()
+```
+
+
+Инициализирует новый экземпляр класса [ArtDResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources/artdresource) .
+
+### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
+```
+public static final int PsbHeaderVersion_internalized
+```
+
+
+Версия заголовка PSB
+
+### PsbResourceSignature {#PsbResourceSignature}
+```
+public static final int PsbResourceSignature
+```
+
+
+Подпись ресурса, специфичная для PSB.
+
+### PsdHeaderVersion_internalized {#PsdHeaderVersion-internalized}
+```
+public static final int PsdHeaderVersion_internalized
+```
+
+
+Версия заголовка PSD
+
+### ResourceSignature {#ResourceSignature}
+```
+public static final int ResourceSignature
+```
+
+
+Общая подпись ресурса.
+
+### TypeToolKey {#TypeToolKey}
+```
+public static final int TypeToolKey
+```
+
+
+Ключ информации о типе инструмента.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+Лицензия предприятия.
+
+### checkAndSetIfResourceIsPsbSpecific_internalized(int key) {#checkAndSetIfResourceIsPsbSpecific-internalized-int-}
+```
+public final void checkAndSetIfResourceIsPsbSpecific_internalized(int key)
+```
+
+
+Проверяет и устанавливает, является ли ресурс специфичным для PSB. Некоторые ресурсы пока не распознаются, но у нас есть полный список ресурсов, специфичных для PSB, которые изменяют своё поведение при сохранении. Поэтому нам необходимо проверять это хотя бы в UnknownResource.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| key | int | Ключ. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getArtboardCount_internalized() {#getArtboardCount-internalized--}
+```
+public final int getArtboardCount_internalized()
+```
+
+
+Получает или задает количество артбордов.
+
+**Returns:**
+int
+### getAutoExpandOffset_internalized() {#getAutoExpandOffset-internalized--}
+```
+public final PointF getAutoExpandOffset_internalized()
+```
+
+
+Получает или задает смещение автоматического расширения.
+
+**Returns:**
+[PointF](../../com.aspose.psd/pointf)
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getClassId_internalized() {#getClassId-internalized--}
+```
+public final ClassID getClassId_internalized()
+```
+
+
+Получает или задает идентификатор класса ресурса.
+
+**Returns:**
+[ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid)
+### getClassName_internalized() {#getClassName-internalized--}
+```
+public final String getClassName_internalized()
+```
+
+
+Получает или задает имя класса ресурса.
+
+**Returns:**
+java.lang.String
+### getDocDefaultNewArtboardBackgroundColor_internalized() {#getDocDefaultNewArtboardBackgroundColor-internalized--}
+```
+public final Color getDocDefaultNewArtboardBackgroundColor_internalized()
+```
+
+
+Получает или задает  DocDefaultNewArtboardBackgroundColor ([.getDocDefaultNewArtboardBackgroundColor\_internalized](../../null/\#getDocDefaultNewArtboardBackgroundColor-internalized)/[.setDocDefaultNewArtboardBackgroundColor()](../../null/\#setDocDefaultNewArtboardBackgroundColor--)).
+
+**Returns:**
+[Color](../../com.aspose.psd/color)
+### getDocDefaultNewArtboardBackgroundType_internalized() {#getDocDefaultNewArtboardBackgroundType-internalized--}
+```
+public final int getDocDefaultNewArtboardBackgroundType_internalized()
+```
+
+
+Получает или задает  DocDefaultNewArtboardBackgroundType ([.getDocDefaultNewArtboardBackgroundType\_internalized](../../null/\#getDocDefaultNewArtboardBackgroundType-internalized)/[.setDocDefaultNewArtboardBackgroundType\_internalized(int)](../../null/\#setDocDefaultNewArtboardBackgroundType\_internalized-int-)).
+
+**Returns:**
+int
+### getHeader_internalized() {#getHeader-internalized--}
+```
+public final PsdHeader getHeader_internalized()
+```
+
+
+Получает или задает заголовок.
+
+Значение: Заголовок.
+
+**Returns:**
+com.aspose.internal.fileformats.psd.sections.PsdHeader
+### getItems() {#getItems--}
+```
+public final OSTypeStructure[] getItems()
+```
+
+
+Получает или задает элементы [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure).
+
+**Returns:**
+com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[]
+### getKey() {#getKey--}
+```
+public final int getKey()
+```
+
+
+Получает ключ ресурса слоя.
+
+**Returns:**
+int
+### getLength() {#getLength--}
+```
+public int getLength()
+```
+
+
+  
+
+**Returns:**
+int
+### getOriginPoint_internalized() {#getOriginPoint-internalized--}
+```
+public final PointF getOriginPoint_internalized()
+```
+
+
+Получает или задает точку происхождения.
+
+**Returns:**
+[PointF](../../com.aspose.psd/pointf)
+### getPrefixLength_internalized(int psdVersion) {#getPrefixLength-internalized-int-}
+```
+public final int getPrefixLength_internalized(int psdVersion)
+```
+
+
+Получает длину префикса. Значение по умолчанию — 12 для ресурсов 8BIM и 16 для 8B64.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| psdVersion | int | Версия PSD. |
+
+**Returns:**
+int — длина префикса.
+### getPsdVersion() {#getPsdVersion--}
+```
+public int getPsdVersion()
+```
+
+
+Получает минимальную версию PSD, требуемую для ресурса слоя. 0 означает отсутствие ограничений.
+
+**Returns:**
+int
+### getSignature() {#getSignature--}
+```
+public int getSignature()
+```
+
+
+Получает подпись ресурса слоя.
+
+**Returns:**
+int
+### getVersion_internalized() {#getVersion-internalized--}
+```
+public final int getVersion_internalized()
+```
+
+
+Получает или задает версию ресурса.
+
+**Returns:**
+int
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isAutoExpandEnabled_internalized() {#isAutoExpandEnabled-internalized--}
+```
+public final boolean isAutoExpandEnabled_internalized()
+```
+
+
+Получает или задает IsAutoExpandEnabled ([.isAutoExpandEnabled\_internalized](../../null/\#isAutoExpandEnabled-internalized)/[.setAutoExpandEnabled\_internalized(boolean)](../../null/\#setAutoExpandEnabled-internalized-boolean-)).
+
+**Returns:**
+boolean
+### isAutoNestEnabled_internalized() {#isAutoNestEnabled-internalized--}
+```
+public final boolean isAutoNestEnabled_internalized()
+```
+
+
+Получает или задает IsAutoNestEnabled ([.isAutoNestEnabled\_internalized](../../null/\#isAutoNestEnabled-internalized)/[.setAutoNestEnabled\_internalized(boolean)](../../null/\#setAutoNestEnabled-internalized-boolean-)).
+
+**Returns:**
+boolean
+### isAutoPositionEnabled_internalized() {#isAutoPositionEnabled-internalized--}
+```
+public final boolean isAutoPositionEnabled_internalized()
+```
+
+
+Получает или задает IsAutoPositionEnabled ([.isAutoPositionEnabled\_internalized](../../null/\#isAutoPositionEnabled-internalized)/[.setAutoPositionEnabled\_internalized(boolean)](../../null/\#setAutoPositionEnabled-internalized-boolean-)).
+
+**Returns:**
+boolean
+### isResourcePsbSpecificByKey_internalized(int key) {#isResourcePsbSpecificByKey-internalized-int-}
+```
+public static boolean isResourcePsbSpecificByKey_internalized(int key)
+```
+
+
+Определяет, является ли ресурс специфичным для PSB.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| key | int | Ключ ресурса. |
+
+**Returns:**
+boolean —  true  если ресурс специфичен для PSB; иначе,  false .
+### isResourcePsbSpecific_internalized() {#isResourcePsbSpecific-internalized--}
+```
+public final boolean isResourcePsbSpecific_internalized()
+```
+
+
+Получает значение, указывающее, является ли данный экземпляр ресурсом, специфичным для PSB.
+
+Значение:  true  если этот экземпляр является ресурсом, специфичным для PSB; иначе,  false .
+
+**Returns:**
+boolean
+### isShrinkwrapOnSaveEnabled_internalized() {#isShrinkwrapOnSaveEnabled-internalized--}
+```
+public final boolean isShrinkwrapOnSaveEnabled_internalized()
+```
+
+
+Получает или задает IsShrinkwrapOnSaveEnabled ([.isShrinkwrapOnSaveEnabled\_internalized](../../null/\#isShrinkwrapOnSaveEnabled-internalized)/[.setShrinkwrapOnSaveEnabled\_internalized(boolean)](../../null/\#setShrinkwrapOnSaveEnabled-internalized-boolean-)).
+
+**Returns:**
+boolean
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### save(StreamContainer streamContainer, int psdVersion) {#save-com.aspose.psd.StreamContainer-int-}
+```
+public void save(StreamContainer streamContainer, int psdVersion)
+```
+
+
+Сохраняет ресурс в указанный контейнер потока.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | Контейнер потока для сохранения. |
+| psdVersion | int | Версия PSD. |
+
+### saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature) {#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-}
+```
+public final void saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)
+```
+
+
+Сохраняет пользовательский заголовок ресурса.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | Контейнер потока. |
+| подпись | int | Подпись. |
+
+### saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong) {#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-}
+```
+public final void saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)
+```
+
+
+Сохраняет подпись заголовка, идентификатор и длину.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | Контейнер потока. |
+| подпись | int | Подпись. |
+| isLengthLong | boolean | если установлено значение  true , длина считается длинной. |
+
+### setArtboardCount_internalized(int value) {#setArtboardCount-internalized-int-}
+```
+public final void setArtboardCount_internalized(int value)
+```
+
+
+Получает или задает количество артбордов.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | int |  |
+
+### setAutoExpandEnabled_internalized(boolean value) {#setAutoExpandEnabled-internalized-boolean-}
+```
+public final void setAutoExpandEnabled_internalized(boolean value)
+```
+
+
+Получает или задает IsAutoExpandEnabled ([.isAutoExpandEnabled\_internalized](../../null/\#isAutoExpandEnabled-internalized)/[.setAutoExpandEnabled\_internalized(boolean)](../../null/\#setAutoExpandEnabled-internalized-boolean-)).
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | boolean |  |
+
+### setAutoExpandOffset_internalized(PointF value) {#setAutoExpandOffset-internalized-com.aspose.psd.PointF-}
+```
+public final void setAutoExpandOffset_internalized(PointF value)
+```
+
+
+Получает или задает смещение автоматического расширения.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| value | [PointF](../../com.aspose.psd/pointf) |  |
+
+### setAutoNestEnabled_internalized(boolean value) {#setAutoNestEnabled-internalized-boolean-}
+```
+public final void setAutoNestEnabled_internalized(boolean value)
+```
+
+
+Получает или задает IsAutoNestEnabled ([.isAutoNestEnabled\_internalized](../../null/\#isAutoNestEnabled-internalized)/[.setAutoNestEnabled\_internalized(boolean)](../../null/\#setAutoNestEnabled-internalized-boolean-)).
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | boolean |  |
+
+### setAutoPositionEnabled_internalized(boolean value) {#setAutoPositionEnabled-internalized-boolean-}
+```
+public final void setAutoPositionEnabled_internalized(boolean value)
+```
+
+
+Получает или задает IsAutoPositionEnabled ([.isAutoPositionEnabled\_internalized](../../null/\#isAutoPositionEnabled-internalized)/[.setAutoPositionEnabled\_internalized(boolean)](../../null/\#setAutoPositionEnabled-internalized-boolean-)).
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | boolean |  |
+
+### setClassId_internalized(ClassID value) {#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
+```
+public final void setClassId_internalized(ClassID value)
+```
+
+
+Получает или задает идентификатор класса ресурса.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| value | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) |  |
+
+### setClassName_internalized(String value) {#setClassName-internalized-java.lang.String-}
+```
+public final void setClassName_internalized(String value)
+```
+
+
+Получает или задает имя класса ресурса.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | java.lang.String |  |
+
+### setDocDefaultNewArtboardBackgroundColor_internalized(Color value) {#setDocDefaultNewArtboardBackgroundColor-internalized-com.aspose.psd.Color-}
+```
+public final void setDocDefaultNewArtboardBackgroundColor_internalized(Color value)
+```
+
+
+Получает или задает  DocDefaultNewArtboardBackgroundColor ([.getDocDefaultNewArtboardBackgroundColor\_internalized](../../null/\#getDocDefaultNewArtboardBackgroundColor-internalized)/[.setDocDefaultNewArtboardBackgroundColor()](../../null/\#setDocDefaultNewArtboardBackgroundColor--)).
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.psd/color) |  |
+
+### setDocDefaultNewArtboardBackgroundType_internalized(int value) {#setDocDefaultNewArtboardBackgroundType-internalized-int-}
+```
+public final void setDocDefaultNewArtboardBackgroundType_internalized(int value)
+```
+
+
+Получает или задает  DocDefaultNewArtboardBackgroundType ([.getDocDefaultNewArtboardBackgroundType\_internalized](../../null/\#getDocDefaultNewArtboardBackgroundType-internalized)/[.setDocDefaultNewArtboardBackgroundType\_internalized(int)](../../null/\#setDocDefaultNewArtboardBackgroundType\_internalized-int-)).
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | int |  |
+
+### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
+```
+public final void setHeader_internalized(PsdHeader value)
+```
+
+
+Получает или задает заголовок.
+
+Значение: Заголовок.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
+
+### setItems(OSTypeStructure[] value) {#setItems-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---}
+```
+public final void setItems(OSTypeStructure[] value)
+```
+
+
+Получает или задает элементы [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure).
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| value | [OSTypeStructure\[\]](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) |  |
+
+### setOriginPoint_internalized(PointF value) {#setOriginPoint-internalized-com.aspose.psd.PointF-}
+```
+public final void setOriginPoint_internalized(PointF value)
+```
+
+
+Получает или задает точку происхождения.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| value | [PointF](../../com.aspose.psd/pointf) |  |
+
+### setShrinkwrapOnSaveEnabled_internalized(boolean value) {#setShrinkwrapOnSaveEnabled-internalized-boolean-}
+```
+public final void setShrinkwrapOnSaveEnabled_internalized(boolean value)
+```
+
+
+Получает или задает IsShrinkwrapOnSaveEnabled ([.isShrinkwrapOnSaveEnabled\_internalized](../../null/\#isShrinkwrapOnSaveEnabled-internalized)/[.setShrinkwrapOnSaveEnabled\_internalized(boolean)](../../null/\#setShrinkwrapOnSaveEnabled-internalized-boolean-)).
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | boolean |  |
+
+### setVersion_internalized(int value) {#setVersion-internalized-int-}
+```
+public final void setVersion_internalized(int value)
+```
+
+
+Получает или задает версию ресурса.
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| значение | int |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Возвращает объект String, представляющий этот экземпляр.
+
+**Returns:**
+java.lang.String — объект String, представляющий этот экземпляр.
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
