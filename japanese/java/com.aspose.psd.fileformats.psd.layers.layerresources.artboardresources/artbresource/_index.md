@@ -1,0 +1,599 @@
+---
+title: "ArtBResource"
+second_title: "Java 用 Aspose.PSD API リファレンス"
+description: "Layer.Resources のアートボード情報データ。"
+type: docs
+weight: 11
+url: /ja/java/com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources/artbresource/
+---
+
+**Inheritance:**
+java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources.BaseArtboardInfoResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources/baseartboardinforesource)
+```
+public final class ArtBResource extends BaseArtboardInfoResource
+```
+
+Layer.Resources のアートボード情報データ ([Layer.getResources](../../com.aspose.psd.fileformats.psd.layers/layer\#getResources)/[Layer.setResources(LayerResource[])](../../com.aspose.psd.fileformats.psd.layers/layer\#setResources-LayerResource---))。
+## Constructors
+
+| Constructor | 説明 |
+| --- | --- |
+| [ArtBResource()](#ArtBResource--) | 新しいインスタンスを初期化します [ArtBResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources/artbresource) クラス。 |
+## フィールド
+
+| フィールド | 説明 |
+| --- | --- |
+| [PsbHeaderVersion_internalized](#PsbHeaderVersion-internalized) | PSB ヘッダー バージョン |
+| [PsbResourceSignature](#PsbResourceSignature) | PSB 固有のリソース署名。 |
+| [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | PSD ヘッダー バージョン |
+| [ResourceSignature](#ResourceSignature) | 共通リソース署名。 |
+| [TypeToolKey](#TypeToolKey) | タイプツール情報キー。 |
+| [ventureLicense_internalized](#ventureLicense-internalized) | ベンチャー ライセンス。 |
+## メソッド
+
+| メソッド | 説明 |
+| --- | --- |
+| [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | リソースが PSB 固有かどうかをチェックし、設定します。 |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getArtboardBackgroundType()](#getArtboardBackgroundType--) | ArtboardBackgroundType を取得または設定します ([.getArtboardBackgroundType\_internalized](../../null/\#getArtboardBackgroundType-internalized)/[.setArtboardBackgroundType\_internalized(int)](../../null/\#setArtboardBackgroundType-internalized-int-))。 |
+| [getArtboardPresetName_internalized()](#getArtboardPresetName-internalized--) | ArtboardPresetName を取得または設定します ([.getArtboardPresetName\_internalized](../../null/\#getArtboardPresetName-internalized)/[.setArtboardPresetName\_internalized(String)](../../null/\#setArtboardPresetName-internalized-String-))。 |
+| [getArtboardRect_internalized()](#getArtboardRect-internalized--) | ArtboardRect を取得または設定します ([.getArtboardRect\_internalized](../../null/\#getArtboardRect-internalized)/[.setArtboardRect()](../../null/\#setArtboardRect--))。 |
+| [getClass()](#getClass--) |  |
+| [getClassId_internalized()](#getClassId-internalized--) | リソース クラス ID を取得または設定します。 |
+| [getClassName_internalized()](#getClassName-internalized--) | リソース クラス名を取得または設定します。 |
+| [getColor()](#getColor--) | Color を取得または設定します ([.getColor\_internalized](../../null/\#getColor-internalized)/[.setColor()](../../null/\#setColor--))。 |
+| [getGuideIndeces_internalized()](#getGuideIndeces-internalized--) | GuideIndeces を取得または設定します ([.getGuideIndeces\_internalized](../../null/\#getGuideIndeces-internalized)/[.setGuideIndeces\_internalized(List)](../../null/\#setGuideIndeces-internalized-List-OSTypeStructure--))。 |
+| [getHeader_internalized()](#getHeader-internalized--) | ヘッダーを取得または設定します。 |
+| [getItems()](#getItems--) | [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) アイテムを取得または設定します。 |
+| [getKey()](#getKey--) | レイヤーリソースキーを取得します。 |
+| [getLength()](#getLength--) |    |
+| [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | プレフィックスの長さを取得します。 |
+| [getPsdVersion()](#getPsdVersion--) | レイヤーリソースに必要な最小の psd バージョンを取得します。 |
+| [getSignature()](#getSignature--) | レイヤーリソースのシグネチャを取得します。 |
+| [getVersion_internalized()](#getVersion-internalized--) | リソースバージョンを取得または設定します。 |
+| [hashCode()](#hashCode--) |  |
+| [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | リソースが PSB 固有かどうかを判定します。 |
+| [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | このインスタンスがリソース PSB 固有かどうかを示す値を取得します。 |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | リソースを指定されたストリームコンテナに保存します。 |
+| [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | カスタムリソースヘッダーを保存します。 |
+| [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | ヘッダーのシグネチャ、識別子、長さを保存します。 |
+| [setArtboardBackgroundType(int value)](#setArtboardBackgroundType-int-) | ArtboardBackgroundType を取得または設定します ([.getArtboardBackgroundType\_internalized](../../null/\#getArtboardBackgroundType-internalized)/[.setArtboardBackgroundType\_internalized(int)](../../null/\#setArtboardBackgroundType-internalized-int-))。 |
+| [setArtboardPresetName_internalized(String value)](#setArtboardPresetName-internalized-java.lang.String-) | ArtboardPresetName を取得または設定します ([.getArtboardPresetName\_internalized](../../null/\#getArtboardPresetName-internalized)/[.setArtboardPresetName\_internalized(String)](../../null/\#setArtboardPresetName-internalized-String-))。 |
+| [setArtboardRect_internalized(RectangleF value)](#setArtboardRect-internalized-com.aspose.psd.RectangleF-) | ArtboardRect を取得または設定します ([.getArtboardRect\_internalized](../../null/\#getArtboardRect-internalized)/[.setArtboardRect()](../../null/\#setArtboardRect--))。 |
+| [setClassId_internalized(ClassID value)](#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | リソース クラス ID を取得または設定します。 |
+| [setClassName_internalized(String value)](#setClassName-internalized-java.lang.String-) | リソース クラス名を取得または設定します。 |
+| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Color を取得または設定します ([.getColor\_internalized](../../null/\#getColor-internalized)/[.setColor()](../../null/\#setColor--))。 |
+| [setGuideIndeces_internalized(System.Collections.Generic.List<OSTypeStructure> value)](#setGuideIndeces-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) | GuideIndeces を取得または設定します ([.getGuideIndeces\_internalized](../../null/\#getGuideIndeces-internalized)/[.setGuideIndeces\_internalized(List)](../../null/\#setGuideIndeces-internalized-List-OSTypeStructure--))。 |
+| [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | ヘッダーを取得または設定します。 |
+| [setItems(OSTypeStructure[] value)](#setItems-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---) | [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) アイテムを取得または設定します。 |
+| [setVersion_internalized(int value)](#setVersion-internalized-int-) | リソースバージョンを取得または設定します。 |
+| [toString()](#toString--) | このインスタンスを表す String を返します。 |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### ArtBResource() {#ArtBResource--}
+```
+public ArtBResource()
+```
+
+
+新しいインスタンスを初期化します [ArtBResource](../../com.aspose.psd.fileformats.psd.layers.layerresources.artboardresources/artbresource) クラス。
+
+### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
+```
+public static final int PsbHeaderVersion_internalized
+```
+
+
+PSB ヘッダー バージョン
+
+### PsbResourceSignature {#PsbResourceSignature}
+```
+public static final int PsbResourceSignature
+```
+
+
+PSB 固有のリソース署名。
+
+### PsdHeaderVersion_internalized {#PsdHeaderVersion-internalized}
+```
+public static final int PsdHeaderVersion_internalized
+```
+
+
+PSD ヘッダー バージョン
+
+### ResourceSignature {#ResourceSignature}
+```
+public static final int ResourceSignature
+```
+
+
+共通リソース署名。
+
+### TypeToolKey {#TypeToolKey}
+```
+public static final int TypeToolKey
+```
+
+
+タイプツール情報キー。
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+ベンチャー ライセンス。
+
+### checkAndSetIfResourceIsPsbSpecific_internalized(int key) {#checkAndSetIfResourceIsPsbSpecific-internalized-int-}
+```
+public final void checkAndSetIfResourceIsPsbSpecific_internalized(int key)
+```
+
+
+リソースが PSB 固有かどうかをチェックし、設定します。現在、一部のリソースは認識されていませんが、保存時の動作を変更する PSB 固有リソースの完全なリストがあります。そのため、少なくとも UnknownResource でこれをチェックする必要があります。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| キー | int | キーです。 |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getArtboardBackgroundType() {#getArtboardBackgroundType--}
+```
+public final int getArtboardBackgroundType()
+```
+
+
+ArtboardBackgroundType を取得または設定します ([.getArtboardBackgroundType\_internalized](../../null/\#getArtboardBackgroundType-internalized)/[.setArtboardBackgroundType\_internalized(int)](../../null/\#setArtboardBackgroundType-internalized-int-))。
+
+**Returns:**
+int
+### getArtboardPresetName_internalized() {#getArtboardPresetName-internalized--}
+```
+public final String getArtboardPresetName_internalized()
+```
+
+
+ArtboardPresetName を取得または設定します ([.getArtboardPresetName\_internalized](../../null/\#getArtboardPresetName-internalized)/[.setArtboardPresetName\_internalized(String)](../../null/\#setArtboardPresetName-internalized-String-))。
+
+**Returns:**
+java.lang.String
+### getArtboardRect_internalized() {#getArtboardRect-internalized--}
+```
+public final RectangleF getArtboardRect_internalized()
+```
+
+
+ArtboardRect を取得または設定します ([.getArtboardRect\_internalized](../../null/\#getArtboardRect-internalized)/[.setArtboardRect()](../../null/\#setArtboardRect--))。
+
+**Returns:**
+[RectangleF](../../com.aspose.psd/rectanglef)
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getClassId_internalized() {#getClassId-internalized--}
+```
+public final ClassID getClassId_internalized()
+```
+
+
+リソース クラス ID を取得または設定します。
+
+**Returns:**
+[ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid)
+### getClassName_internalized() {#getClassName-internalized--}
+```
+public final String getClassName_internalized()
+```
+
+
+リソース クラス名を取得または設定します。
+
+**Returns:**
+java.lang.String
+### getColor() {#getColor--}
+```
+public final Color getColor()
+```
+
+
+Color を取得または設定します ([.getColor\_internalized](../../null/\#getColor-internalized)/[.setColor()](../../null/\#setColor--))。
+
+**Returns:**
+[Color](../../com.aspose.psd/color)
+### getGuideIndeces_internalized() {#getGuideIndeces-internalized--}
+```
+public final System.Collections.Generic.List<OSTypeStructure> getGuideIndeces_internalized()
+```
+
+
+GuideIndeces を取得または設定します ([.getGuideIndeces\_internalized](../../null/\#getGuideIndeces-internalized)/[.setGuideIndeces\_internalized(List)](../../null/\#setGuideIndeces-internalized-List-OSTypeStructure--))。
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure>
+### getHeader_internalized() {#getHeader-internalized--}
+```
+public final PsdHeader getHeader_internalized()
+```
+
+
+ヘッダーを取得または設定します。
+
+値: ヘッダー。
+
+**Returns:**
+com.aspose.internal.fileformats.psd.sections.PsdHeader
+### getItems() {#getItems--}
+```
+public final OSTypeStructure[] getItems()
+```
+
+
+[OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) アイテムを取得または設定します。
+
+**Returns:**
+com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure[]
+### getKey() {#getKey--}
+```
+public final int getKey()
+```
+
+
+レイヤーリソースキーを取得します。
+
+**Returns:**
+int
+### getLength() {#getLength--}
+```
+public int getLength()
+```
+
+
+  
+
+**Returns:**
+int
+### getPrefixLength_internalized(int psdVersion) {#getPrefixLength-internalized-int-}
+```
+public final int getPrefixLength_internalized(int psdVersion)
+```
+
+
+プレフィックスの長さを取得します。8BIM リソースの場合はデフォルト値が 12、8B64 の場合は 16 です。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| psdVersion | int | PSD バージョン。 |
+
+**Returns:**
+int - プレフィックスの長さ。
+### getPsdVersion() {#getPsdVersion--}
+```
+public int getPsdVersion()
+```
+
+
+レイヤーリソースに必要な最小の psd バージョンを取得します。0 は制限がないことを示します。
+
+**Returns:**
+int
+### getSignature() {#getSignature--}
+```
+public int getSignature()
+```
+
+
+レイヤーリソースのシグネチャを取得します。
+
+**Returns:**
+int
+### getVersion_internalized() {#getVersion-internalized--}
+```
+public final int getVersion_internalized()
+```
+
+
+リソースバージョンを取得または設定します。
+
+**Returns:**
+int
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isResourcePsbSpecificByKey_internalized(int key) {#isResourcePsbSpecificByKey-internalized-int-}
+```
+public static boolean isResourcePsbSpecificByKey_internalized(int key)
+```
+
+
+リソースが PSB 固有かどうかを判定します。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| キー | int | リソースキーです。 |
+
+**Returns:**
+boolean - リソースが PSB 固有の場合は true、そうでない場合は false。
+### isResourcePsbSpecific_internalized() {#isResourcePsbSpecific-internalized--}
+```
+public final boolean isResourcePsbSpecific_internalized()
+```
+
+
+このインスタンスがリソース PSB 固有かどうかを示す値を取得します。
+
+値: このインスタンスがリソース PSB 固有の場合は true、そうでない場合は false。
+
+**Returns:**
+boolean
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### save(StreamContainer streamContainer, int psdVersion) {#save-com.aspose.psd.StreamContainer-int-}
+```
+public void save(StreamContainer streamContainer, int psdVersion)
+```
+
+
+リソースを指定されたストリームコンテナに保存します。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | 保存先のストリームコンテナです。 |
+| psdVersion | int | PSD バージョン。 |
+
+### saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature) {#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-}
+```
+public final void saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)
+```
+
+
+カスタムリソースヘッダーを保存します。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | ストリームコンテナです。 |
+| 署名 | int | シグネチャです。 |
+
+### saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong) {#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-}
+```
+public final void saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)
+```
+
+
+ヘッダーのシグネチャ、識別子、長さを保存します。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | ストリームコンテナです。 |
+| 署名 | int | シグネチャです。 |
+| isLengthLong | boolean | true に設定すると、長さは長くなります。 |
+
+### setArtboardBackgroundType(int value) {#setArtboardBackgroundType-int-}
+```
+public final void setArtboardBackgroundType(int value)
+```
+
+
+ArtboardBackgroundType を取得または設定します ([.getArtboardBackgroundType\_internalized](../../null/\#getArtboardBackgroundType-internalized)/[.setArtboardBackgroundType\_internalized(int)](../../null/\#setArtboardBackgroundType-internalized-int-))。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| 値 | int |  |
+
+### setArtboardPresetName_internalized(String value) {#setArtboardPresetName-internalized-java.lang.String-}
+```
+public final void setArtboardPresetName_internalized(String value)
+```
+
+
+ArtboardPresetName を取得または設定します ([.getArtboardPresetName\_internalized](../../null/\#getArtboardPresetName-internalized)/[.setArtboardPresetName\_internalized(String)](../../null/\#setArtboardPresetName-internalized-String-))。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| 値 | java.lang.String |  |
+
+### setArtboardRect_internalized(RectangleF value) {#setArtboardRect-internalized-com.aspose.psd.RectangleF-}
+```
+public final void setArtboardRect_internalized(RectangleF value)
+```
+
+
+ArtboardRect を取得または設定します ([.getArtboardRect\_internalized](../../null/\#getArtboardRect-internalized)/[.setArtboardRect()](../../null/\#setArtboardRect--))。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| value | [RectangleF](../../com.aspose.psd/rectanglef) |  |
+
+### setClassId_internalized(ClassID value) {#setClassId-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-}
+```
+public final void setClassId_internalized(ClassID value)
+```
+
+
+リソース クラス ID を取得または設定します。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| value | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) |  |
+
+### setClassName_internalized(String value) {#setClassName-internalized-java.lang.String-}
+```
+public final void setClassName_internalized(String value)
+```
+
+
+リソース クラス名を取得または設定します。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| 値 | java.lang.String |  |
+
+### setColor(Color value) {#setColor-com.aspose.psd.Color-}
+```
+public final void setColor(Color value)
+```
+
+
+Color を取得または設定します ([.getColor\_internalized](../../null/\#getColor-internalized)/[.setColor()](../../null/\#setColor--))。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.psd/color) |  |
+
+### setGuideIndeces_internalized(System.Collections.Generic.List<OSTypeStructure> value) {#setGuideIndeces-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--}
+```
+public final void setGuideIndeces_internalized(System.Collections.Generic.List<OSTypeStructure> value)
+```
+
+
+GuideIndeces を取得または設定します ([.getGuideIndeces\_internalized](../../null/\#getGuideIndeces-internalized)/[.setGuideIndeces\_internalized(List)](../../null/\#setGuideIndeces-internalized-List-OSTypeStructure--))。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| 値 | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> |  |
+
+### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
+```
+public final void setHeader_internalized(PsdHeader value)
+```
+
+
+ヘッダーを取得または設定します。
+
+値: ヘッダー。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| 値 | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
+
+### setItems(OSTypeStructure[] value) {#setItems-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure---}
+```
+public final void setItems(OSTypeStructure[] value)
+```
+
+
+[OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) アイテムを取得または設定します。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| value | [OSTypeStructure\[\]](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) |  |
+
+### setVersion_internalized(int value) {#setVersion-internalized-int-}
+```
+public final void setVersion_internalized(int value)
+```
+
+
+リソースバージョンを取得または設定します。
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| 値 | int |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+このインスタンスを表す String を返します。
+
+**Returns:**
+java.lang.String - このインスタンスを表す文字列です。
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
