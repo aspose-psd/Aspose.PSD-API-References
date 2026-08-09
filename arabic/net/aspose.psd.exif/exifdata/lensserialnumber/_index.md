@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensSerialNumber
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد الرقم التسلسلي للعدسة .
+title: "ExifData.LensSerialNumber"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين الرقم التسلسلي للعدسة"
 type: docs
 weight: 750
 url: /ar/net/aspose.psd.exif/exifdata/lensserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSerialNumber property
 
-الحصول على أو تحديد الرقم التسلسلي للعدسة .
+يحصل أو يعيّن الرقم التسلسلي للعدسة.
 
 ```csharp
 public string LensSerialNumber { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الرقم التسلسلي للعدسة .
+الرقم التسلسلي للعدسة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

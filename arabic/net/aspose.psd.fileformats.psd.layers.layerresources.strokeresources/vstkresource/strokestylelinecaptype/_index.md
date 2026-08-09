@@ -1,28 +1,29 @@
 ---
-title: VstkResource.StrokeStyleLineCapType
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على أو تحديد نوع غطاء خط نمط الحد .
+title: "VstkResource.StrokeStyleLineCapType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعيين نوع قبضة خط نمط الحد"
 type: docs
-weight: 110
+weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapType property
 
-الحصول على أو تحديد نوع غطاء خط نمط الحد .
+يحصل أو يضبط نوع غطاء خط نمط الضربة.
 
 ```csharp
 public LineCapType StrokeStyleLineCapType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع غطاء خط نمط الحد .
+نوع قبضة خط نمط الحد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LineCapType](../../linecaptype/)
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

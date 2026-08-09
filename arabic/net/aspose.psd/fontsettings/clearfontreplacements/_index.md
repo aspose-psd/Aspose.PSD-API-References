@@ -1,11 +1,12 @@
 ---
-title: FontSettings.ClearFontReplacements
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings طريقة. يمسح جميع استبدالات الخطوط
+title: "FontSettings.ClearFontReplacements"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FontSettings. تمسح جميع استبدالات الخطوط"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.psd/fontsettings/clearfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.ClearFontReplacements method
 
 يمسح جميع استبدالات الخطوط
@@ -14,9 +15,9 @@ url: /ar/net/aspose.psd/fontsettings/clearfontreplacements/
 public static void ClearFontReplacements()
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي القدرة على تقييد الخطوط برمجيًا باستخدام.
+الكود التالي يوضح القدرة على تقييد الخطوط برمجياً باستخدام.
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -51,10 +53,10 @@ finally
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

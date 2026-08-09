@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات تصف إصدارًا واحدًا من المستند.
+title: "Aspose.PSD.Xmp.Types.Complex.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تحتوي على فئات تصف نسخة واحدة من المستند"
 type: docs
-weight: 690
+weight: 730
 url: /ar/net/aspose.psd.xmp.types.complex.version/
 ---
-تحتوي مساحة الاسم على فئات تصف إصدارًا واحدًا من المستند.
+{{< psd/tize >}}
+النطاق يحتوي على فئات تصف نسخة واحدة من مستند.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [Version](./version/) | يصف إصدارًا واحدًا من المستند. |
+| [Version](./version/) | يصف نسخة واحدة من المستند. |
 
 

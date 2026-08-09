@@ -1,14 +1,15 @@
 ---
-title: XmpHeaderPi.GetXmlValue
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpHeaderPi طريقة. تحويل قيمة XMP إلى تمثيل XML.
+title: "XmpHeaderPi.GetXmlValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpHeaderPi. تحويل قيمة XMP إلى تمثيل XML."
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp/xmpheaderpi/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.GetXmlValue method
 
-تحويل قيمة XMP إلى تمثيل XML.
+يحوّل قيمة XMP إلى تمثيل XML.
 
 ```csharp
 public string GetXmlValue()
@@ -16,12 +17,12 @@ public string GetXmlValue()
 
 ### قيمة الإرجاع
 
-إرجاع قيمة XMP المحولة إلى تمثيل XML.
+يرجع قيمة XMP المحوّلة إلى تمثيل XML.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpHeaderPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

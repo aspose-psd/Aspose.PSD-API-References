@@ -1,28 +1,29 @@
 ---
-title: ExifData.CustomRendered
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على العرض المخصص أو تعيينه.
+title: "ExifData.CustomRendered"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يسترجع أو يعيّن الإخراج المخصص"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.exif/exifdata/customrendered/
 ---
+{{< psd/tize >}}
 ## ExifData.CustomRendered property
 
-الحصول على العرض المخصص أو تعيينه.
+يحصل أو يضبط العرض المخصص.
 
 ```csharp
 public ExifCustomRendered CustomRendered { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العرض المخصص .
+الإخراج المخصص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifCustomRendered](../../../aspose.psd.exif.enums/exifcustomrendered/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

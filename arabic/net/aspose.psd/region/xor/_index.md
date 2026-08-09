@@ -1,102 +1,103 @@
 ---
-title: Region.Xor
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. يقوم بتحديث هذاRegion إلى الاتحاد مطروحًا منه تقاطع نفسه مع المحددRectangleFهيكل .
+title: "Region.Xor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تُحدّث هذا Region إلى الاتحاد مطروحًا منه تقاطع نفسه مع بنية RectangleF المحددة"
 type: docs
-weight: 150
+weight: 160
 url: /ar/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-يقوم بتحديث هذا[`Region`](../) إلى الاتحاد مطروحًا منه تقاطع نفسه مع المحدد[`RectangleF`](../../rectanglef/)هيكل .
+تُحدّث هذا [`Region`](../) إلى الاتحاد مطروحًا منه تقاطع نفسه مع بنية [`RectangleF`](../../rectanglef/) المحددة.
 
 ```csharp
 public void Xor(RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | ال[`RectangleF`](../../rectanglef/) هيكل xor مع هذا[`Region`](../). |
+| rect | RectangleF | البنية [`RectangleF`](../../rectanglef/) لاستخدام XOR مع هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-يقوم بتحديث هذا[`Region`](../) إلى الاتحاد مطروحًا منه تقاطع نفسه مع المحدد[`Rectangle`](../../rectangle/)هيكل .
+تُحدّث هذا [`Region`](../) إلى الاتحاد مطروحًا منه تقاطع نفسه مع بنية [`Rectangle`](../../rectangle/) المحددة.
 
 ```csharp
 public void Xor(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | ال[`Rectangle`](../../rectangle/) هيكل xor مع هذا[`Region`](../). |
+| rect | Rectangle | البنية [`Rectangle`](../../rectangle/) لاستخدام XOR مع هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-يقوم بتحديث هذا[`Region`](../) إلى الاتحاد مطروحًا منه تقاطع نفسه مع المحدد[`GraphicsPath`](../../graphicspath/) .
+تُحدّث هذا [`Region`](../) إلى الاتحاد مطروحًا منه تقاطع نفسه مع بنية [`GraphicsPath`](../../graphicspath/) المحددة.
 
 ```csharp
 public void Xor(GraphicsPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | GraphicsPath | ال[`GraphicsPath`](../../graphicspath/) مع هذا[`Region`](../). |
+| path | GraphicsPath | البنية [`GraphicsPath`](../../graphicspath/) لاستخدام XOR مع هذا [`Region`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *path* فارغ . |
+| ArgumentNullException | *path* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-يقوم بتحديث هذا[`Region`](../) إلى الاتحاد مطروحًا منه تقاطع نفسه مع المحدد[`Region`](../) .
+تُحدّث هذا [`Region`](../) إلى الاتحاد مطروحًا منه تقاطع نفسه مع بنية [`Region`](../) المحددة.
 
 ```csharp
 public void Xor(Region region)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| region | Region | ال[`Region`](../) مع هذا[`Region`](../). |
+| region | Region | البنية [`Region`](../) لاستخدام XOR مع هذا [`Region`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *region* فارغ . |
+| ArgumentNullException | *region* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

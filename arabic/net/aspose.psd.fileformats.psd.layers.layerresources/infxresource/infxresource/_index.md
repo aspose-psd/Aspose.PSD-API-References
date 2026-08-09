@@ -1,69 +1,70 @@
 ---
-title: InfxResource.InfxResource
-second_title: Aspose.PSD لمرجع .NET API
-description: InfxResource البناء. يقوم بتهيئة مثيل جديد لملفInfxResource فئة .
+title: "InfxResource.InfxResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ InfxResource. يهيئ مثيلاً جديداً من الفئة InfxResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource(bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`InfxResource`](../) فئة .
+يهيئ مثيلاً جديداً للفئة [`InfxResource`](../).
 
 ```csharp
 public InfxResource(bool blendInteriorElements)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| blendInteriorElements | Boolean | إذا تم التعيين على`حقيقي` [مزيج العناصر الداخلية]. |
+| blendInteriorElements | Boolean | إذا تم تعيينه إلى `true` [blend interior elements]. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InfxResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`InfxResource`](../) فئة .
+يهيئ مثيلاً جديداً للفئة [`InfxResource`](../).
 
 ```csharp
 public InfxResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InfxResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource(byte[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`InfxResource`](../) class. بقيمة مخصصة أو غير معروفة
+يهيئ مثيلاً جديداً للفئة [`InfxResource`](../). بقيمة مخصصة أو غير معروفة
 
 ```csharp
 public InfxResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات الموارد. |
+| البيانات | Byte[] | بيانات المورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | قيمة مورد infx غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InfxResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

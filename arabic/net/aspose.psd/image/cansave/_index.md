@@ -1,32 +1,33 @@
 ---
-title: Image.CanSave
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. يحدد ما إذا كان يمكن حفظ الصورة بتنسيق الملف المحدد الذي تم تمثيله بواسطة خيارات الحفظ التي تم تمريرها.
+title: "Image.CanSave"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تحدد ما إذا كان يمكن حفظ الصورة إلى تنسيق الملف المحدد الممثل بخيارات الحفظ الممررة"
 type: docs
-weight: 160
+weight: 170
 url: /ar/net/aspose.psd/image/cansave/
 ---
+{{< psd/tize >}}
 ## Image.CanSave method
 
-يحدد ما إذا كان يمكن حفظ الصورة بتنسيق الملف المحدد الذي تم تمثيله بواسطة خيارات الحفظ التي تم تمريرها.
+يحدد ما إذا كان يمكن حفظ الصورة بالتنسيق المحدد للملف الممثل بخيارات الحفظ الممررة.
 
 ```csharp
 public bool CanSave(ImageOptionsBase options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | ImageOptionsBase | خيارات الحفظ المراد استخدامها . |
+| خيارات | ImageOptionsBase | خيارات الحفظ المستخدمة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان من الممكن حفظ الصورة بتنسيق الملف المحدد الذي يمثله خيارات الحفظ التي تم تمريرها ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان يمكن حفظ الصورة إلى تنسيق الملف المحدد الممثل بخيارات الحفظ الممررة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

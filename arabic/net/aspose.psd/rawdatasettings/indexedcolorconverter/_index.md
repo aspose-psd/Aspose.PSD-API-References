@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.IndexedColorConverter
-second_title: Aspose.PSD لمرجع .NET API
-description: RawDataSettings ملكية. الحصول على أو تعيين محول الألوان المفهرس
+title: "RawDataSettings.IndexedColorConverter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RawDataSettings. تحصل أو تعيين محول اللون المفهرس"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/rawdatasettings/indexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.IndexedColorConverter property
 
-الحصول على أو تعيين محول الألوان المفهرس
+يحصل أو يضبط محول اللون المفهرس
 
 ```csharp
 public IIndexedColorConverter IndexedColorConverter { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 محول اللون المفهرس
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RawDataSettings](../)
-* مساحة الاسم [Aspose.PSD](../../rawdatasettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

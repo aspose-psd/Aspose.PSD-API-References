@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructuresRegistry.RegisteredDescriptors
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructuresRegistry ملكية. يحصل على الواصفات المسجلة .
+title: "OSTypeStructuresRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية OSTypeStructuresRegistry. تحصل على الموصّفات المسجلة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisteredDescriptors property
 
-يحصل على الواصفات المسجلة .
+يحصل على المُوَصِّفات المسجلة.
 
 ```csharp
 public static IOSTypeStructureLoader[] RegisteredDescriptors { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الواصفات المسجلة.
+الوصفات المسجلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

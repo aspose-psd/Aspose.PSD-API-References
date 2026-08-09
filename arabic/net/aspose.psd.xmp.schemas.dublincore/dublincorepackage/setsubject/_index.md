@@ -1,47 +1,48 @@
 ---
-title: DublinCorePackage.SetSubject
-second_title: Aspose.PSD لمرجع .NET API
-description: DublinCorePackage طريقة. يضيف الموضوع .
+title: "DublinCorePackage.SetSubject"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة DublinCorePackage. يضيف الموضوع"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/
 ---
+{{< psd/tize >}}
 ## SetSubject(string) {#setsubject}
 
-يضيف الموضوع .
+يضيف الموضوع.
 
 ```csharp
 public void SetSubject(string subject)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| subject | String | الموضوع. |
+| الموضوع | String | الموضوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DublinCorePackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSubject(string[]) {#setsubject_1}
 
-يضيف الموضوع .
+يضيف الموضوع.
 
 ```csharp
 public void SetSubject(string[] subject)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| subject | String[] | الموضوع. |
+| الموضوع | String[] | الموضوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DublinCorePackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

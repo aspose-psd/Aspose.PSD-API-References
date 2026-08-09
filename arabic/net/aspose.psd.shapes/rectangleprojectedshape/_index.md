@@ -1,53 +1,54 @@
 ---
-title: Class RectangleProjectedShape
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Shapes.RectangleProjectedShape فصل. يمثل الشكل الذي يتم إسقاطه فوق مستطيل تحول إلى اتجاه معين. محدد بأربع نقاط يمكن تدويرها في الفراغ مع الحفاظ على نفس طول الحواف و 90 درجة بين الحواف المتجاورة .
+title: "فئة RectangleProjectedShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Shapes.RectangleProjectedShape class. تمثل شكلاً يتم إسقاطه على مستطيل موجه إلى اتجاه معين. يتم تحديده بأربعة نقاط يمكن تدويرها في الفضاء مع الحفاظ على نفس طول الحواف و 90 درجة بين الحواف المتجاورة"
 type: docs
-weight: 5520
+weight: 6020
 url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape class
 
-يمثل الشكل الذي يتم إسقاطه فوق مستطيل تحول إلى اتجاه معين. محدد بأربع نقاط يمكن تدويرها في الفراغ مع الحفاظ على نفس طول الحواف و 90 درجة بين الحواف المتجاورة .
+يمثل شكلاً يُسقط على مستطيل مُدوَّر إلى اتجاه معين. يُحدد بأربع نقاط يمكن تدويرها في الفضاء مع الحفاظ على طول الحواف نفسه وزاوية 90 درجة بين الحواف المتجاورة.
 
 ```csharp
 public abstract class RectangleProjectedShape : Shape
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RectangleProjectedShape](rectangleprojectedshape/#constructor)() | يقوم بتهيئة مثيل جديد لملف`RectangleProjectedShape` فئة . |
-| [RectangleProjectedShape](rectangleprojectedshape/#constructor_1)(RectangleF) | يقوم بتهيئة مثيل جديد لملف`RectangleProjectedShape` فئة . |
+| [RectangleProjectedShape](rectangleprojectedshape/#constructor)() | يُنشئ مثيلاً جديداً من الفئة `RectangleProjectedShape`. |
+| [RectangleProjectedShape](rectangleprojectedshape/#constructor_1)(RectangleF) | يُنشئ مثيلاً جديداً من الفئة `RectangleProjectedShape`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | يحصل على حدود الكائن . |
+| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | يحصل على حدود الكائن. |
 | override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | يحصل على مركز الشكل. |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | الحصول على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | يحصل على نقطة المستطيل السفلي الأيسر . |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | يحصل على نقطة المستطيل العلوية اليسرى . |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | الحصول على ارتفاع المستطيل . |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | الحصول على عرض المستطيل . |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | يحصل على نقطة المستطيل السفلية اليمنى . |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | الحصول على نقطة المستطيل العلوية اليمنى . |
-| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | الحصول على شرائح الشكل . |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | يحصل على نقطة الزاوية اليسرى السفلية للمستطيل. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | يحصل على نقطة الزاوية اليسرى العليا للمستطيل. |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | يحصل على ارتفاع المستطيل. |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | يحصل على عرض المستطيل. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | يحصل على نقطة الزاوية اليمنى السفلية للمستطيل. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | يحصل على نقطة الزاوية اليمنى العليا للمستطيل. |
+| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | يحصل على مقاطع الشكل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/#getbounds)(Matrix) | يحصل على حدود الكائن . |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/#getbounds_1)(Matrix, Pen) | يحصل على حدود الكائن . |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/#getbounds)(Matrix) | يحصل على حدود الكائن. |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/#getbounds_1)(Matrix, Pen) | يحصل على حدود الكائن. |
 | override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | يطبق التحويل المحدد على الشكل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Shape](../../aspose.psd/shape/)
-* مساحة الاسم [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

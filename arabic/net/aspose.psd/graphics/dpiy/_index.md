@@ -1,27 +1,28 @@
 ---
-title: Graphics.DpiY
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics ملكية. يحصل على الدقة الرأسية لهذا Aspose.PSD.Graphics.
+title: "Graphics.DpiY"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Graphics. تحصل على الدقة العمودية لهذا Aspose.PSD.Graphics"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/graphics/dpiy/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiY property
 
-يحصل على الدقة الرأسية لهذا Aspose.PSD.Graphics.
+يحصل على الدقة العمودية لهذا Aspose.PSD.Graphics.
 
 ```csharp
 public float DpiY { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة ، بالنقاط في البوصة ، للدقة الرأسية التي يدعمها Aspose.PSD.Graphics.
+القيمة، بوحدة النقاط في البوصة، للدقة العمودية المدعومة من قبل هذا Aspose.PSD.Graphics.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

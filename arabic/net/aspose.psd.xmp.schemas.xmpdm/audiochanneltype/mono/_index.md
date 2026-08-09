@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.Mono
-second_title: Aspose.PSD لمرجع .NET API
-description: AudioChannelType ملكية. يحصل على قناة الصوت الأحادي .
+title: "AudioChannelType.Mono"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AudioChannelType. يحصل على قناة الصوت أحادية"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Mono property
 
-يحصل على قناة الصوت الأحادي .
+يحصل على قناة الصوت أحادية.
 
 ```csharp
 public static AudioChannelType Mono { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القناة الصوتية الأحادية .
+قناة الصوت أحادية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioChannelType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

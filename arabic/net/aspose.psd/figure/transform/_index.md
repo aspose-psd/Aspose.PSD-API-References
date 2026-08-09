@@ -1,11 +1,12 @@
 ---
-title: Figure.Transform
-second_title: Aspose.PSD لمرجع .NET API
-description: Figure طريقة. يطبق التحويل المحدد على الشكل.
+title: "Figure.Transform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Figure طريقة. يطبق التحويل المحدد على الشكل"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/figure/transform/
 ---
+{{< psd/tize >}}
 ## Figure.Transform method
 
 يطبق التحويل المحدد على الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd/figure/transform/
 public override void Transform(Matrix transform)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | التحول للتطبيق. |
+| transform | Matrix | التحويل الذي سيتم تطبيقه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../matrix/)
 * class [Figure](../)
-* مساحة الاسم [Aspose.PSD](../../figure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

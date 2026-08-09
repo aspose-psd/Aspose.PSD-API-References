@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAbsPeakAudioFilePath
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يضبط المسار المطلق لملف الصوت.
+title: "XmpDynamicMediaPackage.SetAbsPeakAudioFilePath"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. تعيين المسار المطلق لملف الصوت القمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setabspeakaudiofilepath/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAbsPeakAudioFilePath method
 
-يضبط المسار المطلق لملف الصوت.
+يضبط المسار المطلق لملف الصوت القمة.
 
 ```csharp
 public void SetAbsPeakAudioFilePath(string uri)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| uri | String | المسار المطلق لأقصى ملف صوتي للملف. |
+| uri | String | المسار المطلق إلى ملف الصوت القمة للملف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

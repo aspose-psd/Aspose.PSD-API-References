@@ -1,23 +1,24 @@
 ---
-title: XmpDynamicMediaPackage.XmpDynamicMediaPackage
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage البناء. Default_Constructor
+title: "XmpDynamicMediaPackage.XmpDynamicMediaPackage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpDynamicMediaPackage. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/xmpdynamicmediapackage/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public XmpDynamicMediaPackage()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillType
-second_title: Aspose.PSD لمرجع .NET API
-description: FillLayer ملكية. يحصل على نوع التعبئة .
+title: "FillLayer.FillType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FillLayer. يحصل على نوع التعبئة."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/filltype/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillType property
 
-يحصل على نوع التعبئة .
+يحصل على نوع التعبئة.
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع التعبئة .
+نوع التعبئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: TypeToolInfo6Resource.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource طريقة. يحفظ المورد في حاوية التدفق المحددة.
+title: "TypeToolInfo6Resource.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TypeToolInfo6Resource. تحفظ المورد إلى حاوية الدفق المحددة"
 type: docs
-weight: 220
+weight: 190
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/save/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Save method
 
-يحفظ المورد في حاوية التدفق المحددة.
+يحفظ المورد في حاوية الدفق المحددة.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق للحفظ فيها. |
+| streamContainer | StreamContainer | حاوية الدفق التي سيتم الحفظ فيها. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,39 @@
 ---
-title: TiffStreamReader.ReadUShortArray
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. يقرأ مصفوفة من قيم الأعداد الصحيحة بدون إشارة من الدفق.
+title: "TiffStreamReader.ReadUShortArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. تقرأ مصفوفة من القيم الصحيحة غير الموقّعة من الدفق"
 type: docs
 weight: 220
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadUShortArray method
 
-يقرأ مصفوفة من قيم الأعداد الصحيحة بدون إشارة من الدفق.
+يقرأ مصفوفة من القيم الصحيحة غير موقعة من الدفق.
 
 ```csharp
 public ushort[] ReadUShortArray(long position, long count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف للقراءة منه. |
-| count | Int64 | عدد العناصر. |
+| الموضع | Int64 | الموضع للقراءة منه. |
+| العدد | Int64 | عدد العناصر. |
 
 ### قيمة الإرجاع
 
-مصفوفة قيم الأعداد الصحيحة بدون إشارة.
+المصفوفة من القيم الصحيحة غير الموقّعة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | العد ؛ إجمالي عدد البايت سلبي. + العد + x2 = + totalBytes |
+| ArgumentOutOfRangeException | count;عدد البايتات الإجمالي سالب. + count + x2= + totalBytes |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

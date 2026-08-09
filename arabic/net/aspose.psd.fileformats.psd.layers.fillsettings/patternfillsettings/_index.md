@@ -1,11 +1,12 @@
 ---
-title: Class PatternFillSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings فصل. إعدادات تأثير تعبئة النمط
+title: "الفئة PatternFillSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings. إعدادات تأثير تعبئة النمط"
 type: docs
-weight: 2040
+weight: 2170
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings class
 
 إعدادات تأثير تعبئة النمط
@@ -14,33 +15,40 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 ```
 
+## المنشئات
+
+| الاسم | الوصف |
+| --- | --- |
+| [PatternFillSettings](patternfillsettings/)() | الباني الافتراضي. |
+
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [link with layer] . |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | الحصول على اللون أو تحديده . |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [link with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/angle/) { get; set; } | يحصل أو يعيّن الزاوية. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | يحصل أو يعيّن اللون. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | نوع التعبئة |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | الحصول على أو تعيين الإزاحة الأفقية. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`PatternFillSettings`مرتبط . |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | الحصول على بيانات النمط أو تعيينها . |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | الحصول على ارتفاع النمط أو تحديده . |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | الحصول على أو تحديد معرف النمط. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | الحصول على أو تحديد اسم النمط. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | الحصول على عرض النمط أو تحديده . |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | الحصول على نوع النقطة أو تحديده . |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | الحصول على المقياس أو تعيينه. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | الحصول على أو تعيين الإزاحة الرأسية . |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | يحصل أو يعيّن الإزاحة الأفقية. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا `PatternFillSettings` مرتبطًا. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | يحصل أو يعيّن بيانات النمط. |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | يحصل أو يعيّن ارتفاع النمط. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | يحصل أو يعيّن معرف النمط. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | يحصل أو يعيّن اسم النمط. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | يحصل أو يعيّن عرض النمط. |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | يحصل أو يعيّن نوع النقطة. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | يحصل أو يضبط المقياس. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | يحصل أو يعيّن الإزاحة العمودية. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | يولد عقد مورد LFX2 . |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | ينشئ عقد موارد LFX2. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تحرير نمط طبقة التعبئة.
+يوضح الشيفرة التالية دعم تحرير نمط طبقة التعبئة.
 
 ```csharp
 [C#]
@@ -72,7 +80,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // التحرير 
+            // تحرير 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -95,7 +103,7 @@ using (im)
 }
 ```
 
-يوضح الكود التالي دعم طبقة تأثير الحد بنوع التعبئة - نقش.
+يوضح الشيفرة التالية دعم طبقة تأثير الخط مع نوع التعبئة - نمط.
 
 ```csharp
 [C#]
@@ -174,7 +182,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// اختبار الملف بعد التحرير
+// ملف الاختبار بعد التعديل
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternStroke = (StrokeEffect)im.Layers[3].BlendingOptions.Effects[0];
@@ -208,11 +216,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IPatternFillSettings](../ipatternfillsettings/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.OriginResolution
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeOriginSettings ملكية. الحصول على الدقة الأصلية أو تعيينها .
+title: "VectorShapeOriginSettings.OriginResolution"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeOriginSettings. يحصل أو يضبط دقة الأصل"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginResolution property
 
-الحصول على الدقة الأصلية أو تعيينها .
+يحصل أو يضبط دقة الأصل.
 
 ```csharp
 public double OriginResolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-دقة الأصل .
+دقة الأصل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeOriginSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

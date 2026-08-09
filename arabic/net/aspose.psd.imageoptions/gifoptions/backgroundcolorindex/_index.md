@@ -1,27 +1,28 @@
 ---
-title: GifOptions.BackgroundColorIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: GifOptions ملكية. الحصول على فهرس لون خلفية GIF أو تعيينه.
+title: "GifOptions.BackgroundColorIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GifOptions. تحصل أو تعين فهرس لون خلفية GIF"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imageoptions/gifoptions/backgroundcolorindex/
 ---
+{{< psd/tize >}}
 ## GifOptions.BackgroundColorIndex property
 
-الحصول على فهرس لون خلفية GIF أو تعيينه.
+يحصل أو يضبط فهرس لون خلفية GIF.
 
 ```csharp
 public byte BackgroundColorIndex { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مؤشر لون خلفية GIF .
+فهرس لون الخلفية لملف GIF.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GifOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../gifoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

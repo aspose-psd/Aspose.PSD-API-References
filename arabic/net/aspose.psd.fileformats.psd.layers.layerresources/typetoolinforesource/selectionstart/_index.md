@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionStart
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على بداية التحديد أو تعيينها.
+title: "TypeToolInfoResource.SelectionStart"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط بداية التحديد"
 type: docs
-weight: 190
+weight: 170
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionStart property
 
-الحصول على بداية التحديد أو تعيينها.
+يحصل أو يضبط بداية التحديد.
 
 ```csharp
 public int SelectionStart { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-يبدأ التحديد .
+بداية التحديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

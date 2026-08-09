@@ -1,27 +1,28 @@
 ---
-title: Layer.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تحديد عتامة الطبقة. 0  شفاف  255  معتم .
+title: "Layer.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل أو يضبط شفافية الطبقة. 0 شفافة 255 غير شفافة"
 type: docs
-weight: 270
+weight: 280
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/opacity/
 ---
+{{< psd/tize >}}
 ## Layer.Opacity property
 
-الحصول على أو تحديد عتامة الطبقة. 0 = شفاف ، 255 = معتم .
+يحصل أو يضبط شفافية الطبقة. 0 = شفاف، 255 = غير شفاف.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تعتيم الطبقة .
+شفافية الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

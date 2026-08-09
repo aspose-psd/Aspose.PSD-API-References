@@ -1,27 +1,28 @@
 ---
-title: GradientTransparencyPoint.MedianPointLocation
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientTransparencyPoint ملكية. الحصول على أو تحديد موقع النقطة الوسيط.
+title: "GradientTransparencyPoint.MedianPointLocation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GradientTransparencyPoint. تحصل أو تضبط موقع النقطة المتوسطة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.MedianPointLocation property
 
-الحصول على أو تحديد موقع النقطة الوسيط.
+يحصل أو يعيّن موقع نقطة الوسط.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موقع النقطة الوسيط .
+موقع النقطة المتوسطة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientTransparencyPoint](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

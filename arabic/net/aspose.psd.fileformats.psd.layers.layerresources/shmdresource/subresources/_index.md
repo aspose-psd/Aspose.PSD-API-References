@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.SubResources
-second_title: Aspose.PSD لمرجع .NET API
-description: ShmdResource ملكية. يحصل على الموارد الفرعية لمورد shmd.
+title: "ShmdResource.SubResources"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ShmdResource. تحصل على الموارد الفرعية لمورد shmd"
 type: docs
-weight: 70
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResources property
 
 يحصل على الموارد الفرعية لمورد shmd.
@@ -14,9 +15,9 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subre
 public LayerResource[] SubResources { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-توضح التعليمة البرمجية التالية دعم مورد MlstResource الذي يوفر آلية منخفضة المستوى لمعالجة حالات الطبقة.
+الكود التالي يوضح دعم مورد MlstResource الذي يوفر آلية منخفضة المستوى للتعامل مع حالات الطبقة.
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [ShmdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

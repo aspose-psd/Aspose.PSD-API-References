@@ -1,27 +1,28 @@
 ---
-title: Thumbnail.ImageBase64
-second_title: Aspose.PSD لمرجع .NET API
-description: Thumbnail ملكية. الحصول على الصورة أو تعيينها بتنسيق base64 .
+title: "Thumbnail.ImageBase64"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Thumbnail. يحصل أو يعيّن الصورة بصيغة base64"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/
 ---
+{{< psd/tize >}}
 ## Thumbnail.ImageBase64 property
 
-الحصول على الصورة أو تعيينها بتنسيق base64 .
+يحصل أو يعيّن الصورة بصيغة base64.
 
 ```csharp
 public string ImageBase64 { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الصورة بتنسيق base64 .
+الصورة بصيغة base64.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Thumbnail](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

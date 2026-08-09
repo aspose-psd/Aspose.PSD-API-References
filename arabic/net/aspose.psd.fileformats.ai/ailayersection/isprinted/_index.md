@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة قد تمت طباعتها. يجعل العمل الفني الموجود في الطبقة قابلاً للطباعة إذا كان صحيحًا.
+title: "AiLayerSection.IsPrinted"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين قيمة تشير إلى ما إذا كانت هذه الطبقة مطبوعة. يجعل العمل الفني الموجود في الطبقة قابلًا للطباعة إذا كان صحيحًا"
 type: docs
-weight: 80
+weight: 100
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة قد تمت طباعتها. يجعل العمل الفني الموجود في الطبقة قابلاً للطباعة إذا كان صحيحًا.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة مطبوعة. يجعل الأعمال الفنية الموجودة في الطبقة قابلة للطباعة إذا كانت true.
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم طباعة هذه الطبقة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه الطبقة مطبوعة؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم الطبقات في ملفات تنسيق AI.
+المثال التالي يوضح دعم الطبقات في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

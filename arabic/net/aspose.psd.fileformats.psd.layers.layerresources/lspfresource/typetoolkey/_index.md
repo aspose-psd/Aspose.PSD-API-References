@@ -1,11 +1,12 @@
 ---
-title: LspfResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: LspfResource مجال. مفتاح معلومات أداة النوع 1819504742
+title: "LspfResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل LspfResource. مفتاح معلومات أداة النوع 1819504742"
 type: docs
-weight: 110
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LspfResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع 1819504742
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LspfResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

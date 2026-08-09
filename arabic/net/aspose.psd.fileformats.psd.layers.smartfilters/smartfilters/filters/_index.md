@@ -1,24 +1,25 @@
 ---
-title: SmartFilters.Filters
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartFilters ملكية. الحصول على عوامل التصفية الذكية أو تعيينها.
+title: "SmartFilters.Filters"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartFilters. يحصل أو يضبط المرشحات الذكية"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/
 ---
+{{< psd/tize >}}
 ## SmartFilters.Filters property
 
-الحصول على عوامل التصفية الذكية أو تعيينها.
+يحصل أو يضبط الفلاتر الذكية.
 
 ```csharp
 public SmartFilter[] Filters { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilter](../../smartfilter/)
 * class [SmartFilters](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

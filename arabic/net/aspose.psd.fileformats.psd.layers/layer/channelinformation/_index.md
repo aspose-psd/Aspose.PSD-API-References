@@ -1,28 +1,29 @@
 ---
-title: Layer.ChannelInformation
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على معلومات القناة أو تعيينها .
+title: "Layer.ChannelInformation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل أو يضبط معلومات القناة"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/channelinformation/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelInformation property
 
-الحصول على معلومات القناة أو تعيينها .
+يحصل أو يعيّن معلومات القناة.
 
 ```csharp
 public ChannelInformation[] ChannelInformation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معلومات القناة .
+معلومات القناة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ChannelInformation](../../channelinformation/)
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

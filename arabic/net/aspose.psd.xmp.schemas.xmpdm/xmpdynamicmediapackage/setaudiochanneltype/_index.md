@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioChannelType
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يضبط نوع قناة الصوت.
+title: "XmpDynamicMediaPackage.SetAudioChannelType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. تُعيّن نوع قناة الصوت"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochanneltype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioChannelType method
 
 يضبط نوع قناة الصوت.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochannel
 public void SetAudioChannelType(AudioChannelType audioChannelType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | audioChannelType | AudioChannelType | نوع قناة الصوت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioChannelType](../../audiochanneltype/)
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

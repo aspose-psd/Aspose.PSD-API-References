@@ -1,14 +1,15 @@
 ---
-title: Class BaseFillSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings فصل. إعدادات تأثير تعبئة القاعدة
+title: "الفئة BaseFillSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings. إعدادات تأثير التعبئة الأساسية"
 type: docs
-weight: 1920
+weight: 2030
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings class
 
-إعدادات تأثير تعبئة القاعدة
+إعدادات تأثير التعبئة الأساسية
 
 ```csharp
 public abstract class BaseFillSettings : IFillSettings
@@ -16,14 +17,14 @@ public abstract class BaseFillSettings : IFillSettings
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | يحصل على نوع التعبئة . |
+| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | يحصل على نوع التعبئة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IFillSettings](../ifillsettings/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

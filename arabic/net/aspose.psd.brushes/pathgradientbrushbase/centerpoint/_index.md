@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.CenterPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: PathGradientBrushBase ملكية. الحصول على أو تحديد النقطة المركزية لتدرج المسار.
+title: "PathGradientBrushBase.CenterPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PathGradientBrushBase. تحصل أو تعين نقطة المركز لتدرج المسار."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.brushes/pathgradientbrushbase/centerpoint/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.CenterPoint property
 
-الحصول على أو تحديد النقطة المركزية لتدرج المسار.
+يحصل أو يضبط نقطة المركز لتدرج المسار.
 
 ```csharp
 public PointF CenterPoint { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`PointF`](../../../aspose.psd/pointf/) التي تمثل النقطة المركزية لتدرج المسار.
+كائن [`PointF`](../../../aspose.psd/pointf/) يمثل نقطة المركز لتدرج المسار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

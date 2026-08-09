@@ -1,23 +1,24 @@
 ---
-title: Size.Empty
-second_title: Aspose.PSD لمرجع .NET API
-description: Size ملكية. يحصل على مثيل جديد لملفSize هيكل لديهWidth وHeight تم ضبط القيم على الصفر.
+title: "Size.Empty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Size. يحصل على نسخة جديدة من بنية Size التي تحتوي على قيم Width و Height مساوية للصفر"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/size/empty/
 ---
+{{< psd/tize >}}
 ## Size.Empty property
 
-يحصل على مثيل جديد لملف[`Size`](../) هيكل لديه[`Width`](../width/) و[`Height`](../height/) تم ضبط القيم على الصفر.
+يحصل على نسخة جديدة من بنية [`Size`](../) التي تحتوي على قيم [`Width`](../width/) و [`Height`](../height/) مساوية للصفر.
 
 ```csharp
 public static Size Empty { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../)
-* مساحة الاسم [Aspose.PSD](../../size/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

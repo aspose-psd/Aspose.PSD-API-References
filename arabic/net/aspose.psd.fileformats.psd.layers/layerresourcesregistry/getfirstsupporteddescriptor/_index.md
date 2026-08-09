@@ -1,37 +1,38 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerResourcesRegistry طريقة. يحصل على أول واصف افتتاحية مدعوم.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LayerResourcesRegistry. يحصل على أول وصف مفتاح مدعوم."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptor method
 
-يحصل على أول واصف افتتاحية مدعوم.
+يحصل على أول مُوَصِّف للفتح المدعوم.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| stream | Stream | التدفق. |
 | psdVersion | Int32 | إصدار PSD. |
 
 ### قيمة الإرجاع
 
-واصف محمل مورد الطبقة أو خالٍ إذا لم يتم دعم واصف محمل لهذا التدفق.
+وصف محمل مورد الطبقة أو null إذا لم يكن هناك وصف محمل مدعوم لهذا التدفق.
 
-### ملاحظات
+## ملاحظات
 
-سيكون المحمل الأول هو آخر محمل مسجل.
+المحمّل الأول سيكون في الواقع الأخير المسجل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

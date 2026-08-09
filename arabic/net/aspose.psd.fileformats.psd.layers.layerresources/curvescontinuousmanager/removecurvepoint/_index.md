@@ -1,28 +1,29 @@
 ---
-title: CurvesContinuousManager.RemoveCurvePoint
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvesContinuousManager طريقة. يزيل نقطة المنحنى .
+title: "CurvesContinuousManager.RemoveCurvePoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CurvesContinuousManager. تزيل نقطة المنحنى"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.RemoveCurvePoint method
 
-يزيل نقطة المنحنى .
+يزيل نقطة المنحنى.
 
 ```csharp
 public void RemoveCurvePoint(int channelIndex, int pointIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | channelIndex | Int32 | فهرس القناة. |
 | pointIndex | Int32 | فهرس النقطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesContinuousManager](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

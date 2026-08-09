@@ -1,52 +1,53 @@
 ---
-title: Class ColorPalette
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ColorPalette فصل. يحدد مصفوفة الألوان التي تشكل لوحة الألوان. الألوان 32 بت من ألوان ARGB. غير قابل للوراثة.
+title: "الفئة ColorPalette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ColorPalette. تُعرّف مصفوفة من الألوان التي تشكل لوحة ألوان. الألوان هي ألوان ARGB 32‑بت. غير قابلة للوراثة"
 type: docs
 weight: 370
 url: /ar/net/aspose.psd/colorpalette/
 ---
+{{< psd/tize >}}
 ## ColorPalette class
 
-يحدد مصفوفة الألوان التي تشكل لوحة الألوان. الألوان 32 بت من ألوان ARGB. غير قابل للوراثة.
+يحدد مصفوفة من الألوان التي تشكل لوحة ألوان. الألوان هي ألوان ARGB 32-بت. غير قابل للوراثة.
 
 ```csharp
 public sealed class ColorPalette : IColorPalette
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ColorPalette](colorpalette/#constructor)(Color[]) | يقوم بتهيئة مثيل جديد لملف`ColorPalette` class و IsCompactPalette خطأ . |
-| [ColorPalette](colorpalette/#constructor_2)(int[]) | يقوم بتهيئة مثيل جديد لملف`ColorPalette` class و IsCompactPalette خطأ . |
-| [ColorPalette](colorpalette/#constructor_1)(Color[], bool) | يقوم بتهيئة مثيل جديد لملف`ColorPalette` فئة . |
-| [ColorPalette](colorpalette/#constructor_3)(int[], bool) | يقوم بتهيئة مثيل جديد لملف`ColorPalette` فئة . |
+| [ColorPalette](colorpalette/#constructor)(Color[]) | يُنشئ مثيلاً جديداً من الفئة `ColorPalette` وتكون الخاصية IsCompactPalette غير صحيحة. |
+| [ColorPalette](colorpalette/#constructor_2)(int[]) | يُنشئ مثيلاً جديداً من الفئة `ColorPalette` وتكون الخاصية IsCompactPalette غير صحيحة. |
+| [ColorPalette](colorpalette/#constructor_1)(Color[], bool) | يُنشئ مثيلاً جديداً من الفئة `ColorPalette`. |
+| [ColorPalette](colorpalette/#constructor_3)(int[], bool) | يُنشئ مثيلاً جديداً من الفئة `ColorPalette`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Argb32Entries](../../aspose.psd/colorpalette/argb32entries/) { get; } | الحصول على مجموعة من هياكل ARGB 32 بت. |
-| [Entries](../../aspose.psd/colorpalette/entries/) { get; } | يحصل على مجموعة من[`Color`](../color/) الهياكل . |
-| [EntriesCount](../../aspose.psd/colorpalette/entriescount/) { get; } | الحصول على عدد الإدخالات . |
-| [IsCompactPalette](../../aspose.psd/colorpalette/iscompactpalette/) { get; } | الحصول على أو تعيين قيمة تشير إلى استخدام لوح الألوان المضغوط. |
+| [Argb32Entries](../../aspose.psd/colorpalette/argb32entries/) { get; } | يحصل على مصفوفة من هياكل ARGB 32‑بت. |
+| [Entries](../../aspose.psd/colorpalette/entries/) { get; } | يحصل على مصفوفة من هياكل [`Color`](../color/). |
+| [EntriesCount](../../aspose.psd/colorpalette/entriescount/) { get; } | يحصل على عدد الإدخالات. |
+| [IsCompactPalette](../../aspose.psd/colorpalette/iscompactpalette/) { get; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت لوحة الألوان المدمجة مستخدمة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [CopyPalette](../../aspose.psd/colorpalette/copypalette/#copypalette)(IColorPalette) | نسخ اللوحة . |
-| static [CopyPalette](../../aspose.psd/colorpalette/copypalette/#copypalette_1)(IColorPalette, bool) | نسخ اللوحة . |
-| [GetArgb32Color](../../aspose.psd/colorpalette/getargb32color/)(int) | الحصول على لوحة ألوان ARGB 32 بت حسب الفهرس. |
-| [GetColor](../../aspose.psd/colorpalette/getcolor/)(int) | الحصول على لون اللوحة حسب الفهرس . |
-| [GetNearestColorIndex](../../aspose.psd/colorpalette/getnearestcolorindex/#getnearestcolorindex)(Color) | الحصول على فهرس أقرب لون . |
-| [GetNearestColorIndex](../../aspose.psd/colorpalette/getnearestcolorindex/#getnearestcolorindex_1)(int) | الحصول على فهرس أقرب لون . |
+| static [CopyPalette](../../aspose.psd/colorpalette/copypalette/#copypalette)(IColorPalette) | ينسخ لوحة الألوان. |
+| static [CopyPalette](../../aspose.psd/colorpalette/copypalette/#copypalette_1)(IColorPalette, bool) | ينسخ لوحة الألوان. |
+| [GetArgb32Color](../../aspose.psd/colorpalette/getargb32color/)(int) | يحصل على لون لوحة ARGB 32‑بت حسب الفهرس. |
+| [GetColor](../../aspose.psd/colorpalette/getcolor/)(int) | يحصل على لون لوحة الألوان حسب الفهرس. |
+| [GetNearestColorIndex](../../aspose.psd/colorpalette/getnearestcolorindex/#getnearestcolorindex)(Color) | يحصل على فهرس أقرب لون. |
+| [GetNearestColorIndex](../../aspose.psd/colorpalette/getnearestcolorindex/#getnearestcolorindex_1)(int) | يحصل على فهرس أقرب لون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../icolorpalette/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

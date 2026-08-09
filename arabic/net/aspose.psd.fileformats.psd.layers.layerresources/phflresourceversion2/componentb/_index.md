@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion2.ComponentB
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResourceVersion2 ملكية. الحصول على أو تعيين المكون B
+title: "PhflResourceVersion2.ComponentB"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhflResourceVersion2 property. يحصل أو يضبط المكوّن B"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentb/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ComponentB property
 
-الحصول على أو تعيين المكون B
+يحصل على أو يضبط المكوّن B
 
 ```csharp
 public short ComponentB { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المكون B .
+مكوّن B.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يكون لون B في النطاق من -12800 إلى 12700 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يكون اللون B في النطاق من -12800 إلى 12700 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResourceVersion2](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

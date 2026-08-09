@@ -1,49 +1,50 @@
 ---
-title: NvrtResource.NvrtResource
-second_title: Aspose.PSD لمرجع .NET API
-description: NvrtResource البناء. يقوم بتهيئة مثيل جديد لملفNvrtResource فئة .
+title: "NvrtResource.NvrtResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ NvrtResource. يهيئ نسخة جديدة من فئة NvrtResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`NvrtResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NvrtResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`NvrtResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات المورد . |
+| البيانات | Byte[] | البيانات الخاصة بالمورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | بيانات NvrtResource غير صالحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NvrtResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: BilateralSmoothingFilterOptions ملكية. الحصول على حجم النواة أو تحديده.
+title: "BilateralSmoothingFilterOptions.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "BilateralSmoothingFilterOptions خاصية. يحصل أو يضبط حجم النواة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.Size property
 
-الحصول على حجم النواة أو تحديده.
+يحصل أو يضبط حجم النواة.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم النواة .
+حجم النواة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BilateralSmoothingFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

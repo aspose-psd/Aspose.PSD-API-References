@@ -1,27 +1,28 @@
 ---
-title: Delegate AsyncTaskAction
-second_title: Aspose.PSD لمرجع .NET API
-description: مفوض العملية الطويلة للمهمة غير المتزامنة بدون أي نتيجة.
+title: "المفوض AsyncTaskAction"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المفوض للعمليات الطويلة للمهمة غير المتزامنة دون أي نتيجة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.asynctask/asynctaskaction/
 ---
+{{< psd/tize >}}
 ## AsyncTaskAction delegate
 
-مفوض العملية الطويلة للمهمة غير المتزامنة بدون أي نتيجة.
+المندوب للعمليات الطويلة للمهمة غير المتزامنة دون أي نتيجة.
 
 ```csharp
 public delegate void AsyncTaskAction(IAsyncTaskState taskState);
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | taskState | IAsyncTaskState | حالة المهمة غير المتزامنة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

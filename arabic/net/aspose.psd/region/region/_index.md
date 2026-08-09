@@ -1,92 +1,93 @@
 ---
-title: Region.Region
-second_title: Aspose.PSD لمرجع .NET API
-description: Region البناء. يقوم بتهيئة ملفRegion .
+title: "Region.Region"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Region. يُهيئ Region جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/region/region/
 ---
+{{< psd/tize >}}
 ## Region() {#constructor}
 
-يقوم بتهيئة ملف[`Region`](../) .
+يُنشئ كائنًا جديدًا من نوع [`Region`](../).
 
 ```csharp
 public Region()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(RectangleF) {#constructor_3}
 
-يقوم بتهيئة ملف[`Region`](../) من المحدد[`RectangleF`](../../rectanglef/)هيكل .
+يُنشئ كائنًا جديدًا من نوع [`Region`](../) من البنية المحددة [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public Region(RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | أ[`RectangleF`](../../rectanglef/) الهيكل الذي يحدد الجزء الداخلي من الجديد[`Region`](../). |
+| rect | RectangleF | بنية [`RectangleF`](../../rectanglef/) التي تحدد داخل الكائن الجديد [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(Rectangle) {#constructor_2}
 
-يقوم بتهيئة ملف[`Region`](../) من المحدد[`Rectangle`](../../rectangle/)هيكل .
+يُنشئ كائنًا جديدًا من نوع [`Region`](../) من البنية المحددة [`Rectangle`](../../rectangle/).
 
 ```csharp
 public Region(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | أ[`Rectangle`](../../rectangle/) الهيكل الذي يحدد الجزء الداخلي من الجديد[`Region`](../). |
+| rect | Rectangle | بنية [`Rectangle`](../../rectangle/) التي تحدد داخل الكائن الجديد [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(GraphicsPath) {#constructor_1}
 
-يقوم بتهيئة ملف[`Region`](../) مع المحدد[`GraphicsPath`](../../graphicspath/) .
+يُنشئ كائنًا جديدًا من نوع [`Region`](../) باستخدام [`GraphicsPath`](../../graphicspath/) المحدد.
 
 ```csharp
 public Region(GraphicsPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | GraphicsPath | أ[`GraphicsPath`](../../graphicspath/)الذي يميز الجديد[`Region`](../). |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) الذي يحدد الكائن الجديد [`Region`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *path* باطل. |
+| ArgumentNullException | *path* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

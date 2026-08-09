@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeDimensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. نوع أبعاد XMP .
+title: "Namespaces.XmpTypeDimensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. نوع أبعاد XMP"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.xmp/namespaces/xmptypedimensions/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeDimensions field
 
-نوع أبعاد XMP .
+نوع XMP Dimensions.
 
 ```csharp
 public const string XmpTypeDimensions;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.AlphaMask
-second_title: Aspose.PSD لمرجع .NET API
-description: GlobalLayerMaskInfo ملكية. الحصول على قناع ألفا أو تعيينه .
+title: "GlobalLayerMaskInfo.AlphaMask"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GlobalLayerMaskInfo. تحصل أو تعيّن قناع ألفا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.AlphaMask property
 
-الحصول على قناع ألفا أو تعيينه .
+يحصل أو يعيّن قناع ألفا.
 
 ```csharp
 public short AlphaMask { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قناع ألفا .
+قناع ألفا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GlobalLayerMaskInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

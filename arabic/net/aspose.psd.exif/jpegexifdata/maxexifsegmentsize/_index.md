@@ -1,23 +1,24 @@
 ---
-title: JpegExifData.MaxExifSegmentSize
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData مجال. الحد الأقصى المسموح به لحجم مقطع EXIF بالبايت.
+title: "JpegExifData.MaxExifSegmentSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل JpegExifData. الحد الأقصى لحجم مقطع EXIF بالبايت المسموح به"
 type: docs
 weight: 280
 url: /ar/net/aspose.psd.exif/jpegexifdata/maxexifsegmentsize/
 ---
+{{< psd/tize >}}
 ## JpegExifData.MaxExifSegmentSize field
 
-الحد الأقصى المسموح به لحجم مقطع EXIF بالبايت.
+الحد الأقصى لحجم مقطع EXIF بالبايت المسموح به.
 
 ```csharp
 public const int MaxExifSegmentSize;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

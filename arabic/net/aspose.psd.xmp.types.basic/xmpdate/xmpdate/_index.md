@@ -1,53 +1,54 @@
 ---
-title: XmpDate.XmpDate
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDate البناء. يقوم بتهيئة مثيل جديد لملفXmpDate فئة .
+title: "XmpDate.XmpDate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpDate. يُنشئ مثيلاً جديدًا من الفئة XmpDate"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.basic/xmpdate/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate(DateTime) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpDate`](../) فئة .
+يُنشئ مثيلاً جديدًا من الفئة [`XmpDate`](../).
 
 ```csharp
 public XmpDate(DateTime dateTime)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dateTime | DateTime | قيمة تاريخ-وقت يتم تمثيلها باستخدام مجموعة فرعية من تنسيق ISO RFC 8601. |
+| dateTime | DateTime | قيمة تاريخ-وقت يتم تمثيلها باستخدام جزء من تنسيق ISO RFC 8601. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDate](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpDate(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpDate`](../) فئة .
+يُنشئ مثيلاً جديدًا من الفئة [`XmpDate`](../).
 
 ```csharp
 public XmpDate(string dateString)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dateString | String | تمثيل سلسلة التاريخ. |
+| dateString | String | التمثيل النصي للتاريخ. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | تنسيق التاريخ غير صالح ؛ التاريخ |
+| ArgumentException | تنسيق تاريخ غير صالح;date |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDate](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: LuniResource.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: LuniResource طريقة. يحفظ حاوية التدفق المحددة.
+title: "LuniResource.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LuniResource. يحفظ حاوية الدفق المحددة"
 type: docs
-weight: 70
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/save/
 ---
+{{< psd/tize >}}
 ## LuniResource.Save method
 
-يحفظ حاوية التدفق المحددة.
+يحفظ حاوية الدفق المحددة.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
+| streamContainer | StreamContainer | حاوية الدفق. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LuniResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetHistory
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يضبط السجل.
+title: "PhotoshopPackage.SetHistory"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PhotoshopPackage. تحدد السجل"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHistory method
 
 يضبط السجل.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory/
 public void SetHistory(string history)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| history | String | التاريخ. |
+| history | String | السجل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

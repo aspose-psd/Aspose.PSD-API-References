@@ -1,27 +1,28 @@
 ---
-title: IccUntaggedResource.Profile
-second_title: Aspose.PSD لمرجع .NET API
-description: IccUntaggedResource ملكية. الحصول على ملف التعريف أو تعيينه.
+title: "IccUntaggedResource.Profile"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IccUntaggedResource. يحصل أو يضبط الملف الشخصي"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/profile/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource.Profile property
 
-الحصول على ملف التعريف أو تعيينه.
+يحصل أو يضبط الملف الشخصي.
 
 ```csharp
 public byte Profile { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الملف الشخصي .
+الملف الشخصي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IccUntaggedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

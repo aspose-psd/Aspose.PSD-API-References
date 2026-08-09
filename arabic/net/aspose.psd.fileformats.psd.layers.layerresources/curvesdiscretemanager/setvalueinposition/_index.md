@@ -1,11 +1,12 @@
 ---
-title: CurvesDiscreteManager.SetValueInPosition
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvesDiscreteManager طريقة. يضبط القيمة في الموضع.
+title: "CurvesDiscreteManager.SetValueInPosition"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CurvesDiscreteManager. تعيّن القيمة في الموضع"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetValueInPosition method
 
 يضبط القيمة في الموضع.
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemana
 public void SetValueInPosition(int channelIndex, byte position, byte value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | channelIndex | Int32 | فهرس القناة. |
-| position | Byte | الموقع. |
-| value | Byte | القيمة. |
+| الموضع | بايت | الموضع. |
+| قيمة | بايت | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesDiscreteManager](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Yellows
-second_title: Aspose.PSD لمرجع .NET API
-description: BlwhResource ملكية. الحصول على أو تحديد قيمة اللون الأصفر.
+title: "BlwhResource.Yellows"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlwhResource. يحصل على أو يضبط قيمة الأصفر"
 type: docs
-weight: 140
+weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Yellows property
 
-الحصول على أو تحديد قيمة اللون الأصفر.
+يحصل أو يضبط قيمة الأصفر.
 
 ```csharp
 public int Yellows { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة الصفراء .
+قيمة الأصفر.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية تحرير BlwhResource.
+المثال التالي يوضح كيفية تحرير BlwhResource.
 
 ```csharp
 [C#]
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlwhResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

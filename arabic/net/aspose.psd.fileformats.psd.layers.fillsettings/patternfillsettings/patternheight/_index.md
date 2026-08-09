@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternHeight
-second_title: Aspose.PSD لمرجع .NET API
-description: PatternFillSettings ملكية. الحصول على ارتفاع النمط أو تحديده .
+title: "PatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PatternFillSettings property. يحصل أو يعين ارتفاع النمط"
 type: docs
-weight: 70
+weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternHeight property
 
-الحصول على ارتفاع النمط أو تحديده .
+يحصل أو يعيّن ارتفاع النمط.
 
 ```csharp
 public int PatternHeight { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ارتفاع النمط .
+ارتفاع النمط.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تحرير نمط طبقة التعبئة.
+يوضح الشيفرة التالية دعم تحرير نمط طبقة التعبئة.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // التحرير 
+            // تحرير 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

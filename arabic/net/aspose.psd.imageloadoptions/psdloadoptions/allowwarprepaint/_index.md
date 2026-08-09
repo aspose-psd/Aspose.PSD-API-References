@@ -1,27 +1,48 @@
 ---
-title: PsdLoadOptions.AllowWarpRepaint
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdLoadOptions ملكية. الحصول على أو تعيين ما إذا كان سيتم الحفظ مع الصورة المقدمة  مع أو بدون تحويل الالتواء.
+title: "PsdLoadOptions.AllowWarpRepaint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdLoadOptions. تحصل أو تعين ما إذا كان سيتم الحفظ مع الصورة المرسومة مع أو بدون تحويل التشويه"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.AllowWarpRepaint property
 
-الحصول على أو تعيين ما إذا كان سيتم الحفظ مع الصورة المقدمة ، مع أو بدون تحويل الالتواء.
+يحصل أو يعيّن ما إذا كان يجب الحفظ مع الصورة المرسومة، مع أو بدون تحويل التشويه.
 
 ```csharp
 public bool AllowWarpRepaint { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` تقديم الصورة مع تحول الاعوجاج`خطأ شنيع` .
+`true` رَسْم الصورة مع تحويل التشويه `false`.
 
-### أنظر أيضا
+## أمثلة
+
+الكود التالي يوضح عرض تأثير الالتواء.
+
+```csharp
+[C#]
+
+string sourceFile = "source.psd";
+string pngWarpedExport = "warped.png";
+string psdWarpedExport = "warpFile.psd";
+
+var warpLoadOptions = new PsdLoadOptions() { AllowWarpRepaint = true };
+
+using (var image = (PsdImage)Image.Load(sourceFile, warpLoadOptions))
+{
+    image.Save(pngWarpedExport, new PngOptions());
+    image.Save(psdWarpedExport, new PsdOptions());
+}
+```
+
+### انظر أيضًا
 
 * class [PsdLoadOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LnkeResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: LnkeResource مجال. مفتاح معلومات أداة النوع.
+title: "LnkeResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل LnkeResource. مفتاح معلومات أداة النوع"
 type: docs
-weight: 40
+weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LnkeResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LnkeResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

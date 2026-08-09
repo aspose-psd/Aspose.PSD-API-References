@@ -1,27 +1,28 @@
 ---
-title: PsdImage.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على عرض الصورة .
+title: "PsdImage.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. يحصل على عرض الصورة"
 type: docs
-weight: 270
+weight: 280
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/width/
 ---
+{{< psd/tize >}}
 ## PsdImage.Width property
 
-الحصول على عرض الصورة .
+يحصل على عرض الصورة.
 
 ```csharp
 public override int Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
 عرض الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

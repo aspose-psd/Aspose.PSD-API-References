@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.ScriptValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolFontInfo ملكية. الحصول على قيمة البرنامج النصي أو تعيينها.
+title: "TypeToolFontInfo.ScriptValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolFontInfo. يحصل أو يضبط قيمة النص"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.ScriptValue property
 
-الحصول على قيمة البرنامج النصي أو تعيينها.
+يحصل أو يضبط قيمة البرنامج النصي.
 
 ```csharp
 public short ScriptValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة البرنامج النصي .
+قيمة النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolFontInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

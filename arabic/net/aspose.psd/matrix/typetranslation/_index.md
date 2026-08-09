@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeTranslation
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix مجال. تنقل الترجمة الإحداثيات بمقدار ثابت في x و y دون تغيير طول أو زاوية المتجهات.
+title: "Matrix.TypeTranslation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Matrix. الترجمة تنقل الإحداثيات بمقدار ثابت في x و y دون تغيير طول أو زاوية المتجهات."
 type: docs
 weight: 280
 url: /ar/net/aspose.psd/matrix/typetranslation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeTranslation field
 
-تنقل الترجمة الإحداثيات بمقدار ثابت في x و y دون تغيير طول أو زاوية المتجهات.
+التحويل يحرّك الإحداثيات بمقدار ثابت في x و y دون تغيير طول أو زاوية المتجهات.
 
 ```csharp
 public const int TypeTranslation;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

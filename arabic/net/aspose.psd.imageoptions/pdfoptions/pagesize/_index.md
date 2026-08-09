@@ -1,28 +1,29 @@
 ---
-title: PdfOptions.PageSize
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfOptions ملكية. الحصول على حجم الصفحة أو تحديده.
+title: "PdfOptions.PageSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PdfOptions. تحصل أو تعين حجم الصفحة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imageoptions/pdfoptions/pagesize/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PageSize property
 
-الحصول على حجم الصفحة أو تحديده.
+يحصل أو يعيّن حجم الصفحة.
 
 ```csharp
 public SizeF PageSize { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم الصفحة .
+حجم الصفحة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * class [PdfOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

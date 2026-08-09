@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ActualReadCount
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamReadException ملكية. الحصول على عدد وحدات بايت القراءة الفعلية .
+title: "StreamReadException.ActualReadCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StreamReadException. يحصل على عدد البايتات المقروءة فعليًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.coreexceptions/streamreadexception/actualreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ActualReadCount property
 
-الحصول على عدد وحدات بايت القراءة الفعلية .
+يحصل على عدد البايتات المقروءة الفعلية.
 
 ```csharp
 public int ActualReadCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد وحدات بايت القراءة الفعلية .
+عدد البايتات المقروءة الفعلية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamReadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

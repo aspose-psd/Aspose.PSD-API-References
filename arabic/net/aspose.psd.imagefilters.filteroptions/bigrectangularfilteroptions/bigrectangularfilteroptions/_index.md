@@ -1,23 +1,24 @@
 ---
-title: BigRectangularFilterOptions.BigRectangularFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: BigRectangularFilterOptions البناء. Default_Constructor
+title: "BigRectangularFilterOptions.BigRectangularFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ BigRectangularFilterOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public BigRectangularFilterOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BigRectangularFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../bigrectangularfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

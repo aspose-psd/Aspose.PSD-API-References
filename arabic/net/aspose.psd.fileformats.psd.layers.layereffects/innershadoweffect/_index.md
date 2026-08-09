@@ -1,14 +1,15 @@
 ---
-title: Class InnerShadowEffect
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect فصل. تأثير طبقة الظل الداخلية
+title: "الفئة InnerShadowEffect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect فئة. تأثير طبقة الظل الداخلي"
 type: docs
-weight: 2160
+weight: 2350
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect class
 
-تأثير طبقة الظل الداخلية
+تأثير طبقة الظل الداخلي.
 
 ```csharp
 public class InnerShadowEffect : IShadowEffect
@@ -16,23 +17,29 @@ public class InnerShadowEffect : IShadowEffect
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | الحصول على الزاوية أو تحديدها بالدرجات . |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | الحصول على أو تحديد وضع المزج . |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | الحصول على اللون أو تحديده . |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | الحصول على أو تحديد المسافة بالبكسل . |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | يحصل أو يضبط الزاوية بالدرجات. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | يحصل أو يضبط وضع المزج. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | يحصل أو يعيّن اللون. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | يحصل أو يضبط المسافة بالبكسل. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | يحصل على نوع من التأثير |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرئيًا. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | الحصول على الضوضاء أو ضبطها . |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | الحصول على التعتيم أو تعيينه . |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | الحصول على أو تعيين قيمة التمويه بالبكسل. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | الحصول على أو تحديد الانتشار (الاختناق) كنسبة مئوية. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [استخدام هذه الزاوية في جميع تأثيرات الطبقة] . |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كانت هذه الحالة مرئية. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | يحصل أو يضبط الضوضاء. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | يحصل أو يعيّن الشفافية. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | يحصل أو يضبط قيمة الضبابية بالبكسل. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | يحصل أو يضبط الانتشار (الاختناق) كنسبة مئوية. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [use this angle in all of the layer effects]. |
 
-### أمثلة
+## الطرق
 
-يوضح الكود التالي كيفية تغيير إعدادات Inner Shadow Layer Effect.
+| الاسم | الوصف |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | احسب واحصل على حدود بكسلات التأثير بناءً على حدود بكسلات الطبقة المدخلة. |
+
+## أمثلة
+
+الكود التالي يوضح كيفية تغيير إعدادات تأثير طبقة الظل الداخلي.
 
 ```csharp
 [C#]
@@ -40,7 +47,7 @@ public class InnerShadowEffect : IShadowEffect
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -61,10 +68,10 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IShadowEffect](../ishadoweffect/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.Position
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter ملكية. الحصول على أو تحديد موضع الدفق.
+title: "TiffStreamWriter.Position"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffStreamWriter. يحصل أو يضبط موضع الدفق"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.Position property
 
-الحصول على أو تحديد موضع الدفق.
+يحصل أو يعيّن موضع التدفق.
 
 ```csharp
 public long Position { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موضع الدفق .
+موضع الدفق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.Register
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageExportersRegistry طريقة. يسجل واصف مصدر الصورة المحدد.
+title: "ImageExportersRegistry.Register"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageExportersRegistry. تُسجِّل مُوَصِّف مُصدِّر الصورة المحدد."
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/imageexportersregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.Register method
 
-يسجل واصف مصدر الصورة المحدد.
+يسجِّل وصف مُصدِّر الصورة المحدد.
 
 ```csharp
 public static void Register(IImageExporterDescriptor imageExporterDescriptor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| imageExporterDescriptor | IImageExporterDescriptor | واصف مصدر الصورة. |
+| imageExporterDescriptor | IImageExporterDescriptor | مُوَصِّف مُصدِّر الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageexportersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

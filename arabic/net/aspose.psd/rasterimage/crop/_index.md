@@ -1,31 +1,32 @@
 ---
-title: RasterImage.Crop
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يقطع المستطيل المحدد .
+title: "RasterImage.Crop"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تقص المستطيل المحدد"
 type: docs
 weight: 240
 url: /ar/net/aspose.psd/rasterimage/crop/
 ---
+{{< psd/tize >}}
 ## Crop(Rectangle) {#crop}
 
-يقطع المستطيل المحدد .
+يقص المستطيل المحدد.
 
 ```csharp
 public virtual void Crop(Rectangle rectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل. |
+| مستطيل | Rectangle | المستطيل. |
 
-### أمثلة
+## أمثلة
 
-يوضح مثال الكود التالي كيفية اقتصاص صورة وحفظها.
+يوضح مثال الشيفرة التالي كيفية قص صورة وحفظها.
 
 ```csharp
 [C#]
 
-// تنفيذ طريقة القص الصحيحة لملفات PSD.
+// نفّذ طريقة Crop الصحيحة لملفات PSD.
 string sourceFileName = "1.psd";
 string exportPathPsd = "CropTest.psd";
 string exportPathPng = "CropTest.png";
@@ -37,34 +38,34 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Crop(int, int, int, int) {#crop_1}
 
-اقتصاص الصورة مع التحولات .
+قص الصورة مع إزاحات.
 
 ```csharp
 public virtual void Crop(int leftShift, int rightShift, int topShift, int bottomShift)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| leftShift | Int32 | التحول الأيسر. |
-| rightShift | Int32 | التحول الصحيح. |
-| topShift | Int32 | التحول الأعلى. |
-| bottomShift | Int32 | التحول السفلي. |
+| leftShift | Int32 | الإزاحة اليسرى. |
+| rightShift | Int32 | الإزاحة اليمنى. |
+| topShift | Int32 | الإزاحة العلوية. |
+| bottomShift | Int32 | الإزاحة السفلية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

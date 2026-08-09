@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على قيمة أو تعيينها تشير إلى ما إذا كانت هذه الطبقة ستظهر أم لا.
+title: "AiLayerSection.IsShown"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين قيمة تشير إلى ما إذا كانت هذه الطبقة معروضة. تعرض جميع الأعمال الفنية الموجودة في الطبقة على لوحة الرسم إذا كانت true"
 type: docs
-weight: 90
+weight: 110
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-الحصول على قيمة أو تعيينها تشير إلى ما إذا كانت هذه الطبقة ستظهر أم لا.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة معروضة. يعرض جميع الأعمال الفنية الموجودة في الطبقة على لوحة الرسم إذا كانت true.
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم عرض هذه الطبقة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه الطبقة معروضة؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم الطبقات في ملفات تنسيق AI.
+المثال التالي يوضح دعم الطبقات في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

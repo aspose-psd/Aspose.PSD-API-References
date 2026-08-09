@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.YLocation
-second_title: Aspose.PSD لمرجع .NET API
-description: PrintScaleResource ملكية. الحصول على أو تحديد موقع y .
+title: "PrintScaleResource.YLocation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PrintScaleResource. تحصل أو تعيين موقع y"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.YLocation property
 
-الحصول على أو تحديد موقع y .
+يحصل أو يضبط موقع y.
 
 ```csharp
 public float YLocation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموقع y .
+موقع y.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrintScaleResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

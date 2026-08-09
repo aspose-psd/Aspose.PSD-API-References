@@ -1,27 +1,28 @@
 ---
-title: IAsyncTaskState.SetProgress
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTaskState طريقة. يعين تقدم المهمة غير المتزامنة.
+title: "IAsyncTaskState.SetProgress"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IAsyncTaskState. تحدد تقدم المهمة غير المتزامنة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.asynctask/iasynctaskstate/setprogress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.SetProgress method
 
-يعين تقدم المهمة غير المتزامنة.
+يضبط تقدم المهمة غير المتزامنة.
 
 ```csharp
 public void SetProgress(int progressPercentage)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | progressPercentage | Int32 | نسبة التقدم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTaskState](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

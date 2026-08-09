@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Magenta
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantCmyk ملكية. الحصول على أو تحديد قيمة المكون الأرجواني.
+title: "ColorantCmyk.Magenta"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorantCmyk. تحصل أو تعين قيمة المكوّن الماجنتا"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Magenta property
 
-الحصول على أو تحديد قيمة المكون الأرجواني.
+يحصل أو يعيّن قيمة المكوّن الأرجواني.
 
 ```csharp
 public float Magenta { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة المكون الأرجواني .
+قيمة المكوّن الأرجواني.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantCmyk](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

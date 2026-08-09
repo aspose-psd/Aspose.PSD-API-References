@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.BaseShiftValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolStyleInfo ملكية. الحصول على أو تعيين قيمة التحول الأساسي.
+title: "TypeToolStyleInfo.BaseShiftValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolStyleInfo. تحصل أو تعين قيمة إزاحة القاعدة."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.BaseShiftValue property
 
-الحصول على أو تعيين قيمة التحول الأساسي.
+يحصل أو يضبط قيمة إزاحة القاعدة.
 
 ```csharp
 public int BaseShiftValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة الإزاحة الأساسية .
+قيمة إزاحة القاعدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolStyleInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

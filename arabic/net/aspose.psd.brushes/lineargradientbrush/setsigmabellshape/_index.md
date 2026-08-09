@@ -1,48 +1,49 @@
 ---
-title: LinearGradientBrush.SetSigmaBellShape
-second_title: Aspose.PSD لمرجع .NET API
-description: LinearGradientBrush طريقة. إنشاء انخفاض في التدرج بناءً على منحنى على شكل جرس .
+title: "LinearGradientBrush.SetSigmaBellShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LinearGradientBrush. تنشئ انخفاضًا للتدرج بناءً على منحنى على شكل جرس."
 type: docs
-weight: 60
+weight: 80
 url: /ar/net/aspose.psd.brushes/lineargradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
-إنشاء انخفاض في التدرج بناءً على منحنى على شكل جرس .
+ينشئ تلاشيًا للتدرج يعتمد على منحنى على شكل جرس.
 
 ```csharp
 public void SetSigmaBellShape(float focus)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| focus | Single | قيمة من 0 إلى 1 تحدد مركز التدرج اللوني (النقطة التي يتم فيها مزج لون البداية ولون النهاية بالتساوي). |
+| التركيز | Single | قيمة تتراوح بين 0 و 1 تحدد مركز التدرج (النقطة التي يتم فيها خلط اللون الابتدائي واللون النهائي بالتساوي). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinearGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSigmaBellShape(float, float) {#setsigmabellshape_1}
 
-إنشاء انخفاض في التدرج بناءً على منحنى على شكل جرس .
+ينشئ تلاشيًا للتدرج يعتمد على منحنى على شكل جرس.
 
 ```csharp
 public void SetSigmaBellShape(float focus, float scale)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| focus | Single | قيمة من 0 إلى 1 تحدد مركز التدرج اللوني (النقطة التي يتكون فيها التدرج من لون النهاية فقط). |
-| scale | Single | قيمة من 0 إلى 1 تحدد مدى سرعة سقوط الألوان من*focus*. |
+| التركيز | Single | قيمة تتراوح بين 0 و 1 تحدد مركز التدرج (النقطة التي يتكون فيها التدرج من اللون النهائي فقط). |
+| scale | Single | قيمة تتراوح بين 0 و 1 تحدد مدى سرعة انخفاض الألوان من *التركيز*. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinearGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

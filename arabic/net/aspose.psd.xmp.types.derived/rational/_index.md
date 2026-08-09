@@ -1,43 +1,44 @@
 ---
-title: Class Rational
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Derived.Rational فصل. يمثل XMP المنطقي .
+title: "الفئة Rational"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Types.Derived.Rational الفئة. يمثل XMP Rational"
 type: docs
-weight: 6120
+weight: 6620
 url: /ar/net/aspose.psd.xmp.types.derived/rational/
 ---
+{{< psd/tize >}}
 ## Rational class
 
-يمثل XMP المنطقي .
+يمثل XMP Rational.
 
 ```csharp
 public class Rational : XmpTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Rational](rational/)(int, int) | يقوم بتهيئة مثيل جديد لملف`Rational` فئة . |
+| [Rational](rational/)(int, int) | يُنشئ مثيلة جديدة من الفئة `Rational`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Denominator](../../aspose.psd.xmp.types.derived/rational/denominator/) { get; set; } | الحصول على المقام أو تعيينه . |
-| [FloatValue](../../aspose.psd.xmp.types.derived/rational/floatvalue/) { get; } | الحصول على قيمة الطفو . |
-| [Numerator](../../aspose.psd.xmp.types.derived/rational/numerator/) { get; } | يحصل على البسط . |
+| [Denominator](../../aspose.psd.xmp.types.derived/rational/denominator/) { get; set; } | يحصل على أو يضبط المقام. |
+| [FloatValue](../../aspose.psd.xmp.types.derived/rational/floatvalue/) { get; } | يحصل على القيمة العائمة. |
+| [Numerator](../../aspose.psd.xmp.types.derived/rational/numerator/) { get; } | يحصل على البسط. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | الحصول على القيمة المضمنة للسلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | يحصل على القيمة المحتواة كسلسلة في تنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

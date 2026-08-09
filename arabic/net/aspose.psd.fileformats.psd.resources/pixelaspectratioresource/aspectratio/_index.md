@@ -1,27 +1,28 @@
 ---
-title: PixelAspectRatioResource.AspectRatio
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelAspectRatioResource ملكية. الحصول على أو تحديد نسبة العرض إلى الارتفاع.
+title: "PixelAspectRatioResource.AspectRatio"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelAspectRatioResource. تحصل أو تعين نسبة العرض إلى الارتفاع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspectratio/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.AspectRatio property
 
-الحصول على أو تحديد نسبة العرض إلى الارتفاع.
+يحصل أو يضبط نسبة الأبعاد.
 
 ```csharp
 public double AspectRatio { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نسبة العرض إلى الارتفاع .
+نسبة العرض إلى الارتفاع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelAspectRatioResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

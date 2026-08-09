@@ -1,23 +1,24 @@
 ---
-title: AnimatedDataSectionStructure.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: AnimatedDataSectionStructure ملكية. يحصل على مفتاح الهيكل .
+title: "AnimatedDataSectionStructure.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "AnimatedDataSectionStructure خاصية. يحصل على مفتاح البنية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Key property
 
-يحصل على مفتاح الهيكل .
+يحصل على مفتاح البنية.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AnimatedDataSectionStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

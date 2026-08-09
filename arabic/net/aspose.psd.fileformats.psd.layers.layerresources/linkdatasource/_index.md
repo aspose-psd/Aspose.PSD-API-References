@@ -1,14 +1,15 @@
 ---
-title: Class LinkDataSource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSource فصل. يحدد فئة LinkDataSource التي تحتوي على معلومات حول ملف مرتبط أو أصل موجود في ملف PSD.
+title: "الفئة LinkDataSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSource. يعرّف الفئة LinkDataSource التي تحتوي على معلومات حول ملف مرتبط أو أصل في ملف PSD."
 type: docs
-weight: 2690
+weight: 2990
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/
 ---
+{{< psd/tize >}}
 ## LinkDataSource class
 
-يحدد فئة LinkDataSource التي تحتوي على معلومات حول ملف مرتبط أو أصل موجود في ملف PSD.
+يعرّف فئة LinkDataSource التي تحتوي على معلومات حول ملف مرتبط أو أصل في ملف PSD.
 
 ```csharp
 public abstract class LinkDataSource
@@ -16,26 +17,26 @@ public abstract class LinkDataSource
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان أصل PSD مؤمنًا. حالة تأمين الأصل ، لأصول مكتبات Adobe® Photoshop® СС . |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | الحصول على وقت تعديل الأصل أو تعيينه ، لأصول مكتبات Adobe® Photoshop® СС . |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | الحصول على أو تعيين معرف المستند الفرعي في مصدر بيانات liFE أو liFD لمورد Lnk2 / LnkE Adobe® Photoshop®. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | الحصول على أو تعيين معرف التركيب المحدد حاليًا للمستند الفرعي ، والذي سيكون -1 إذا لم يتم تحديد أي منها . التركيبات هي تركيبات لتخطيط الصفحة والتي يمكن للمصممين إنشاؤها. باستخدام تركيبات الطبقة ، يمكنك إنشاء إصدارات متعددة من التخطيط وإدارتها وعرضها في ملف Adobe® Photoshop® واحد. تراكب الطبقة هو لقطة لحالة لوحة Layers. تقوم تركيبات الطبقة بحفظ ثلاثة أنواع من خيارات الطبقة ولكن تحصل هذه الخاصية على معرف تحديد تراكب الطبقة للكائنات الذكية.[تراكبات الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | الحصول على أو تعيين منشئ الملف بتنسيق PSD LnkE / Lnk2 Resource. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | الحصول على أو تحديد نوع الملف المضمن أو الخارجي الذي يحتوي أو يرتبط مورد Adobe® Photoshop® Lnk2 / LnkE. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | الحصول على قيمة أو تعيينها للإشارة إلى ما إذا كان مصدر بيانات الارتباط هذا يحتوي على واصف فتح الملف: CompId و OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | يحصل على قيمة تشير إلى ما إذا كان مصدر بيانات ارتباط PSD هذا يرتبط بعنصر مكتبة Adobe® Photoshop® СС. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | الحصول على طول مصدر بيانات الارتباط بالبايت. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | يحصل على المعرف الأصلي لـ Comp المحدد حاليًا للمستند الفرعي ، والذي سيكون -1 إذا لم يتم تحديد أي منها.[تراكبات الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | الحصول على اسم الملف الأصلي لمصدر البيانات في مورد الارتباط العالمي Adobe® Photoshop® . |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | الحصول على نوع مصدر بيانات الارتباط العالمي Adobe® Photoshop® الذي يمكن أن يكون أحد الأنواع التالية أو لا شيء: liFD الملف المرتبط المضمن الذي يتوافق مع PSD Lnk2Resource ملف PSD المرتبط الخارجي liFE الذي يتوافق مع LnkeResource الاسم المستعار للملف المرتبط liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | الحصول على المعرف الفريد العام لمصدر البيانات في مورد ارتباط PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | يحصل على نسخة مصدر البيانات في مصدر PSD LnkE / Lnk2. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان أصل PSD مقفولًا. حالة القفل للأصل، لأصول مكتبات Adobe® Photoshop® СС. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | يحصل أو يعيّن وقت تعديل الأصل، لأصول مكتبات Adobe® Photoshop® СС. |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | يحصل أو يعيّن معرف المستند الفرعي في مصدر البيانات liFE أو liFD الخاص بموارد Lnk2 / LnkE لـ Adobe® Photoshop®. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | يحصل أو يعيّن معرف الـ comp المحدد حاليًا للمستند الفرعي، والذي سيكون -1 إذا لم يتم اختيار أيٍّ. الـ comps هي تركيبات لتخطيط الصفحة يمكن للمصممين إنشاؤها. باستخدام الـ layer comps، يمكنك إنشاء وإدارة وعرض إصدارات متعددة من التخطيط في ملف Adobe® Photoshop® واحد. الـ layer comp هو لقطة لحالة لوحة Layers. الـ layer comps تحفظ ثلاثة أنواع من خيارات الطبقة لكن هذه الخاصية تحصل على معرف اختيار الـ Layer Comp للكائنات الذكية. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | يحصل أو يعيّن مُنشئ الملف في مورد PSD بصيغة LnkE / Lnk2. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | يحصل أو يعيّن نوع الملف المدمج أو الخارجي الذي يحتويه أو يربطه مورد Adobe® Photoshop® Lnk2 / LnkE. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان مصدر بيانات الارتباط هذا يحتوي على واصف فتح الملف: CompId و OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | يحصل على قيمة تشير إلى ما إذا كان مصدر بيانات ربط PSD هذا يربط إلى عنصر مكتبة Adobe® Photoshop® СС. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | يحصل على طول مصدر بيانات الارتباط بالبايت. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | يحصل على المعرف الأصلي للـ Comp المحدد حاليًا للمستند الفرعي، والذي سيكون -1 إذا لم يتم اختيار أيٍّ. هذه الخاصية تحصل على معرف اختيار الـ layer Comp الأصلي للكائنات الذكية. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | يحصل على اسم الملف الأصلي لمصدر البيانات في مورد ربط عالمي لـ Adobe® Photoshop®. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | يحصل على نوع مصدر بيانات الارتباط العالمي لـ Adobe® Photoshop® والذي يمكن أن يكون أحد التالي أو لا شيء: ملف الارتباط المدمج liFD الذي يت对应 مع مورد PSD Lnk2Resource، ملف الارتباط الخارجي liFE الذي يت对应 مع مورد PSD LnkeResource، اسم مستعار ملف الارتباط liFA. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | يحصل على المعرف العالمي الفريد لمصدر البيانات في مورد ربط PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | يحصل على إصدار مصدر البيانات في مورد PSD LnkE / Lnk2. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Image.GetProportionalHeight
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. الحصول على ارتفاع نسبي .
+title: "Image.GetProportionalHeight"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تحصل على ارتفاع متناسب"
 type: docs
-weight: 280
+weight: 290
 url: /ar/net/aspose.psd/image/getproportionalheight/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalHeight method
 
-الحصول على ارتفاع نسبي .
+يحصل على ارتفاع متناسب.
 
 ```csharp
 public static int GetProportionalHeight(int width, int height, int newWidth)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | العرض. |
-| height | Int32 | الإرتفاع. |
+| العرض | Int32 | العرض. |
+| الارتفاع | Int32 | الارتفاع. |
 | newWidth | Int32 | العرض الجديد. |
 
 ### قيمة الإرجاع
 
-الارتفاع النسبي.
+الارتفاع المتناسب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

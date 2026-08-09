@@ -1,23 +1,24 @@
 ---
-title: PhflResourceVersion2.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResourceVersion2 ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "PhflResourceVersion2.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhflResourceVersion2 property. يحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 70
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/length/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResourceVersion2](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

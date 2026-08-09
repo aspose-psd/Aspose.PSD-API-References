@@ -1,27 +1,28 @@
 ---
-title: ExifData.PhotographicSensitivity
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على حساسية التصوير الفوتوغرافي أو ضبطها.
+title: "ExifData.PhotographicSensitivity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط الحساسية الفوتوغرافية"
 type: docs
 weight: 830
 url: /ar/net/aspose.psd.exif/exifdata/photographicsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.PhotographicSensitivity property
 
-الحصول على حساسية التصوير الفوتوغرافي أو ضبطها.
+يحصل أو يعيّن الحساسية الفوتوغرافية.
 
 ```csharp
 public uint PhotographicSensitivity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حساسية التصوير الفوتوغرافي .
+الحساسية الفوتوغرافية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,95 +1,96 @@
 ---
-title: FileCreateSource.FileCreateSource
-second_title: Aspose.PSD لمرجع .NET API
-description: FileCreateSource البناء. يقوم بتهيئة مثيل جديد لملفFileCreateSource فئة .
+title: "FileCreateSource.FileCreateSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ FileCreateSource. يهيئ نسخة جديدة من الفئة FileCreateSource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.sources/filecreatesource/filecreatesource/
 ---
+{{< psd/tize >}}
 ## FileCreateSource(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`FileCreateSource`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`FileCreateSource`](../).
 
 ```csharp
 public FileCreateSource(string filePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف المراد إنشاؤه. |
+| filePath | String | مسار الملف لإنشائه. |
 
-### أمثلة
+## أمثلة
 
-يقوم هذا المثال بإنشاء ملف صورة جديد في موقع ما على القرص كما هو محدد بواسطة خاصية المصدر لمثيل BmpOptions. إذا لم يتم تمرير المعلمة الثانية إلى مُنشئ FileCreateSource ، فسيتم تعيين الخاصية IsTemporal بشكل افتراضي على True. مع ضبط IsTemporal على True ، لن يتم حفظ أي ملف على القرص في نهاية التنفيذ.
+هذا المثال ينشئ ملف Image جديد في موقع على القرص كما هو محدد بواسطة خاصية Source في كائن BmpOptions. إذا لم يتم تمرير المعامل الثاني إلى منشئ FileCreateSource، فسيكون الملف الذي سيتم إنشاؤه افتراضيًا لديه الخاصية IsTemporal مضبوطة على True. عندما تكون IsTemporal مضبوطة على True، لن يتم حفظ أي ملف على القرص في نهاية التنفيذ.
 
 ```csharp
 [C#]
 
 string path = "C:\\temp\\image.psd";
     
-// ينشئ مثيلاً من PsdOptions ويضبط خصائصه المختلفة
+//ينشئ مثيلاً من PsdOptions ويضبط خصائصه المتنوعة.
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-// قم بإنشاء مثيل لـ FileCreateSource وقم بتعيينه كمصدر لمثيل PsdOptions
-// إذا لم يتم تمرير المعلمة الثانية ، فسيتم تعيين الملف بشكل افتراضي على IsTemporal إلى True
+//إنشاء مثال من FileCreateSource وتعيينه كـ Source لكائن PsdOptions
+//إذا لم يتم تمرير المعامل الثاني، فسيكون الملف افتراضيًا لديه IsTemporal مضبوطة على True.
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\output.bmp");
 
-// ينشئ مثيلاً للصورة 
+//ينشئ نسخة من Image
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // القيام ببعض معالجة الصور
+    //قم ببعض معالجة الصورة.
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../filecreatesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FileCreateSource(string, bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`FileCreateSource`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`FileCreateSource`](../).
 
 ```csharp
 public FileCreateSource(string filePath, bool isTemporal)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف المراد إنشاؤه. |
-| isTemporal | Boolean | إذا تم التعيين على`حقيقي` سيكون الملف الذي تم إنشاؤه مؤقتًا. |
+| filePath | String | مسار الملف لإنشائه. |
+| isTemporal | Boolean | إذا تم ضبطه على `true` فإن الملف الذي تم إنشاؤه سيكون مؤقتًا. |
 
-### أمثلة
+## أمثلة
 
-يقوم هذا المثال بإنشاء ملف صورة جديد في بعض مواقع القرص كما هو محدد بواسطة خاصية المصدر لمثيل PsdOptions. يتم تعيين العديد من الخصائص لمثيل PsdOptions قبل إنشاء الصورة الفعلية. خاصة خاصية المصدر ، التي تشير إلى موقع القرص الفعلي في هذه الحالة.
+هذا المثال ينشئ ملف Image جديد في موقع على القرص كما هو محدد بخصية Source لكائن PsdOptions. يتم تعيين عدة خصائص لكائن PsdOptions قبل إنشاء الصورة الفعلية. خاصة خاصية Source التي تشير إلى موقع القرص الفعلي في هذه الحالة.
 
 ```csharp
 [C#]
 
-// أنشئ مثيلاً من PsdOptions وعيّن خصائصه المختلفة
+//إنشاء مثال من PsdOptions وتعيين خصائصه المتنوعة
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-// قم بإنشاء مثيل لـ FileCreateSource وقم بتعيينه كمصدر لمثيل PsdOptions
-// تحدد المعلمة المنطقية الثانية ما إذا كان الملف المراد إنشاؤه ثابتًا أم لا
+//إنشاء مثال من FileCreateSource وتعيينه كـ Source لكائن PsdOptions
+//المعامل البولياني الثاني يحدد ما إذا كان الملف الذي سيتم إنشاؤه مؤقتًا أم لا
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-// قم بإنشاء مثيل للصورة وقم بتهيئته باستخدام مثيل PsdOptions عن طريق استدعاء طريقة الإنشاء
+//إنشاء مثال من Image وتهيئته بمثال من PsdOptions عن طريق استدعاء طريقة Create
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // القيام ببعض معالجة الصور
+    //قم ببعض معالجة الصورة.
 
     // احفظ جميع التغييرات
     image.Save();
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../filecreatesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

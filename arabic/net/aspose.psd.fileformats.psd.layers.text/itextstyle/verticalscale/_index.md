@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.VerticalScale
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. المقياس العمودي .
+title: "ITextStyle.VerticalScale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. المقياس العمودي"
 type: docs
 weight: 270
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.VerticalScale property
 
-المقياس العمودي .
+المقياس العمودي.
 
 ```csharp
 public double VerticalScale { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم دعم خصائص ITextStyle الجديدة.
+الكود التالي يوضح دعم خصائص ITextStyle الجديدة.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

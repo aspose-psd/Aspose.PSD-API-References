@@ -1,39 +1,40 @@
 ---
-title: Class GaussianBlurFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions فصل. الضبابية الغاوسية
+title: "الفئة GaussianBlurFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions. تمويه غاوسي"
 type: docs
-weight: 4710
+weight: 5180
 url: /ar/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions class
 
-الضبابية الغاوسية
+الطمس الغاوسي
 
 ```csharp
 public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | يقوم بتهيئة مثيل جديد لملف`GaussianBlurFilterOptions` class. بالإعدادات الافتراضية . |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | يقوم بتهيئة مثيل جديد لملف`GaussianBlurFilterOptions` فئة . |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | ينشئ مثلاً جديداً من الفئة `GaussianBlurFilterOptions`. بإعدادات افتراضية. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | ينشئ مثلاً جديداً من الفئة `GaussianBlurFilterOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | الحصول على التحيز أو تعيينه . |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | الحصول على العامل أو تعيينه . |
-| [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | الحصول على نصف القطر أو تحديده. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | الحصول على أو تعيين سيجما . |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | يحصل أو يعيّن الانحياز. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | يحصل أو يعيّن العامل. |
+| [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | يحصل أو يعيّن نصف القطر. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | يحصل أو يعيّن سيغما. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

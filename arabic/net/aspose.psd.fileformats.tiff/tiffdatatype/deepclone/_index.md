@@ -1,14 +1,15 @@
 ---
-title: TiffDataType.DeepClone
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffDataType طريقة. يقوم بعمل نسخة عميقة من هذا المثيل.
+title: "TiffDataType.DeepClone"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffDataType طريقة. تنفّذ استنساخًا عميقًا لهذه الحالة"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.tiff/tiffdatatype/deepclone/
 ---
+{{< psd/tize >}}
 ## TiffDataType.DeepClone method
 
-يقوم بعمل نسخة عميقة من هذا المثيل.
+ينفذ استنساخًا عميقًا لهذا المثيل.
 
 ```csharp
 public virtual TiffDataType DeepClone()
@@ -16,12 +17,12 @@ public virtual TiffDataType DeepClone()
 
 ### قيمة الإرجاع
 
-استنساخ عميق للمثال الحالي.
+نسخة عميقة من الحالة الحالية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

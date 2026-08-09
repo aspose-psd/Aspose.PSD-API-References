@@ -1,30 +1,31 @@
 ---
-title: Enum FrameDisposalMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod تعداد. تحدد طريقة التخلص من الإطار ما إذا كان سيتم تجاهل الإطار الحالي قبل عرض الإطار التالي. يمكنك تحديد طريقة التخلص من الرسوم المتحركة التي تتضمن شفافية الخلفية لتحديد ما إذا كان الإطار الحالي سيكون مرئيًا من خلال المساحات الشفافة للإطار التالي .
+title: "التعداد FrameDisposalMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod. تحدد طريقة التخلص من الإطار ما إذا كان يجب التخلص من الإطار الحالي قبل عرض الإطار التالي. يمكنك اختيار طريقة التخلص للرسوم المتحركة التي تشمل شفافية الخلفية لتحديد ما إذا كان الإطار الحالي سيظهر من خلال المناطق الشفافة للإطار التالي."
 type: docs
-weight: 1850
+weight: 1950
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/framedisposalmethod/
 ---
+{{< psd/tize >}}
 ## FrameDisposalMethod enumeration
 
-تحدد طريقة التخلص من الإطار ما إذا كان سيتم تجاهل الإطار الحالي قبل عرض الإطار التالي. يمكنك تحديد طريقة التخلص من الرسوم المتحركة التي تتضمن شفافية الخلفية لتحديد ما إذا كان الإطار الحالي سيكون مرئيًا من خلال المساحات الشفافة للإطار التالي .
+طريقة التخلص من الإطار تحدد ما إذا كان يجب تجاهل الإطار الحالي قبل عرض الإطار التالي. يمكنك اختيار طريقة التخلص للرسوم المتحركة التي تتضمن شفافية الخلفية لتحديد ما إذا كان الإطار الحالي سيظهر من خلال المناطق الشفافة للإطار التالي.
 
 ```csharp
 public enum FrameDisposalMethod
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Automatic | `0` | يحدد طريقة التخلص من الإطار الحالي تلقائيًا ، مع تجاهل الإطار الحالي إذا كان الإطار التالي يحتوي على طبقة شفافة . بالنسبة لمعظم الرسوم المتحركة ، ينتج عن الخيار "تلقائي" (افتراضي) النتائج المرغوبة. |
-| DoNotDispose | `1` | يحتفظ بالإطار الحالي عند إضافة الإطار التالي إلى الشاشة . قد يظهر الإطار الحالي (والإطارات السابقة) من خلال مساحات شفافة للإطار التالي . |
-| Dispose | `2` | يتجاهل الإطار الحالي من الشاشة قبل عرض الإطار التالي . يتم عرض إطار واحد فقط في أي وقت (ولا يظهر الإطار الحالي من خلال المساحات الشفافة للإطار التالي) . |
+| Automatic | `0` | يحدد طريقة التخلص للإطار الحالي تلقائيًا، مع التخلص من الإطار الحالي إذا كان الإطار التالي يحتوي على شفافية طبقة. بالنسبة لمعظم الرسوم المتحركة، ينتج الخيار التلقائي (الافتراضي) النتائج المطلوبة. |
+| DoNotDispose | `1` | يحافظ على الإطار الحالي عند إضافة الإطار التالي إلى العرض. قد يظهر الإطار الحالي (والإطارات السابقة) من خلال المناطق الشفافة للإطار التالي. |
+| Dispose | `2` | يتخلص من الإطار الحالي من العرض قبل عرض الإطار التالي. يتم عرض إطار واحد فقط في أي وقت (ولا يظهر الإطار الحالي من خلال المناطق الشفافة للإطار التالي). |
 
-### أمثلة
+## أمثلة
 
-توفر فئة TimeLine قدرة عالية المستوى على معالجة الجدول الزمني لـ PsdImage ، مثل تغيير تأخير الإطار أو تحرير حالة الطبقة في إطار معين.
+تمنح الفئة Timeline قدرة عالية المستوى على تعديل المخطط الزمني لـ PsdImage، مثل تغيير تأخير الإطار أو تحرير حالة الطبقة في إطار محدد.
 
 ```csharp
 [C#]
@@ -34,40 +35,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
     // تغيير طريقة التخلص من الإطار 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
     // تغيير تأخير الإطار 2
-    timeLine.Frames[1].Delay = 15;
+    timeline.Frames[1].Delay = 15;
 
-    // تغيير عتامة "الطبقة 1" في الإطار 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // تغيير شفافية 'Layer 1' في الإطار 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // انقل "Layer 1" إلى الزاوية اليسرى السفلية في الإطار 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // نقل 'Layer 1' إلى الزاوية اليسرى السفلية في الإطار 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // يضيف إطارًا جديدًا
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // تغيير blendMode لـ 'Layer 1' في الإطار 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // تغيير blendMode للـ'Layer 1' في الإطار 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // تطبيق التغييرات مرة أخرى على مثيل PsdImage
-    timeLine.ApplyTo(psdImage);
+    // تطبيق التغييرات مرة أخرى على كائن PsdImage
     psdImage.Save(outputPsd);
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

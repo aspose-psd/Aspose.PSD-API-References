@@ -1,34 +1,35 @@
 ---
-title: AiImage.RotateFlip
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage طريقة. يقوم بتدوير الصورة أو قلبها أو تدويرها وقلبها.
+title: "AiImage.RotateFlip"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة AiImage. تدور أو تقلب أو تدور وتقلب الصورة"
 type: docs
-weight: 160
+weight: 190
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## AiImage.RotateFlip method
 
-يقوم بتدوير الصورة أو قلبها أو تدويرها وقلبها.
+يدور أو يقلب أو يدور ويقلب الصورة.
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | نوع تدوير الوجه. |
+| rotateFlipType | RotateFlipType | نوع دوران القلب. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotImplementedException | لم تنفذ |
+| NotImplementedException | غير مُطبق |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

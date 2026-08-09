@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileOffsets
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على تعويضات التجانب أو تعيينها.
+title: "TiffOptions.TileOffsets"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يحدد إزاحات البلاط"
 type: docs
-weight: 540
+weight: 550
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/tileoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileOffsets property
 
-الحصول على تعويضات التجانب أو تعيينها.
+يحصل أو يعيّن إزاحات البلاطة.
 
 ```csharp
 public uint[] TileOffsets { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

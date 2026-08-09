@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestDistanceRef
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين وحدة GPS المستخدمة للتعبير عن المسافة إلى نقطة الوجهة.
+title: "ExifData.GPSDestDistanceRef"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط وحدة GPS المستخدمة للتعبير عن المسافة إلى نقطة الوجهة"
 type: docs
 weight: 430
 url: /ar/net/aspose.psd.exif/exifdata/gpsdestdistanceref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistanceRef property
 
-الحصول على أو تعيين وحدة GPS المستخدمة للتعبير عن المسافة إلى نقطة الوجهة.
+الحصول أو تعيين وحدة GPS المستخدمة للتعبير عن المسافة إلى نقطة الوجهة.
 
 ```csharp
 public string GPSDestDistanceRef { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 وحدة GPS المستخدمة للتعبير عن المسافة إلى نقطة الوجهة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

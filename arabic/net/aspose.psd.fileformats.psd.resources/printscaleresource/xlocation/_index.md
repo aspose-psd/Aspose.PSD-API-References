@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.XLocation
-second_title: Aspose.PSD لمرجع .NET API
-description: PrintScaleResource ملكية. الحصول على أو تحديد موقع x .
+title: "PrintScaleResource.XLocation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PrintScaleResource. تحصل أو تعين الموقع السيني"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.resources/printscaleresource/xlocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.XLocation property
 
-الحصول على أو تحديد موقع x .
+يحصل أو يضبط موقع x.
 
 ```csharp
 public float XLocation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موقع x .
+الموقع السيني.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrintScaleResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

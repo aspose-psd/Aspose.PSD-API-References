@@ -1,32 +1,33 @@
 ---
-title: Rectangle.op_Inequality
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. اختبار ما إذا كان اثنانRectangle تختلف الهياكل في الموقع أو الحجم.
+title: "Rectangle.op_Inequality"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تختبر ما إذا كانت بنية Rectangle اثنتين تختلفان في الموقع أو الحجم."
 type: docs
 weight: 300
 url: /ar/net/aspose.psd/rectangle/op_inequality/
 ---
+{{< psd/tize >}}
 ## Rectangle Inequality operator
 
-اختبار ما إذا كان اثنان[`Rectangle`](../) تختلف الهياكل في الموقع أو الحجم.
+تختبر ما إذا كانت بنية [`Rectangle`](../) اثنتين تختلفان في الموقع أو الحجم.
 
 ```csharp
 public static bool operator !=(Rectangle left, Rectangle right)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| left | Rectangle | ال[`Rectangle`](../) الهيكل الموجود على يسار عامل عدم المساواة. |
-| right | Rectangle | ال[`Rectangle`](../) الهيكل الذي هو على يمين عامل عدم المساواة. |
+| left | Rectangle | بنية [`Rectangle`](../) التي تقع إلى يسار عامل عدم المساواة. |
+| right | Rectangle | الهيكل [`Rectangle`](../) الذي يقع إلى يمين عامل عدم المساواة. |
 
 ### قيمة الإرجاع
 
-هذا العامل يعود صحيحًا إذا كان أيًا من[`X`](../x/) و[`Y`](../y/) و[`Width`](../width/) أو[`Height`](../height/) خصائص الاثنين[`Rectangle`](../) الهياكل غير متساوية. خلاف ذلك خطأ.
+يعيد هذا العامل القيمة true إذا كان أي من خصائص [`X`](../x/)، [`Y`](../y/)، [`Width`](../width/) أو [`Height`](../height/) للهيكلين [`Rectangle`](../) غير متساوية؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

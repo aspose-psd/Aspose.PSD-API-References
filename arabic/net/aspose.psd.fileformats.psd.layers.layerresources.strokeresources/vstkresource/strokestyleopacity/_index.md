@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleOpacity
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على أو تعيين تعتيم Stroke stryle 0100 .
+title: "VstkResource.StrokeStyleOpacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعين شفافية نمط الخط 0100"
 type: docs
-weight: 180
+weight: 160
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleOpacity property
 
-الحصول على أو تعيين تعتيم Stroke stryle (0-100٪) .
+يحصل أو يضبط شفافية نمط الضربة (0-100%).
 
 ```csharp
 public int StrokeStyleOpacity { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

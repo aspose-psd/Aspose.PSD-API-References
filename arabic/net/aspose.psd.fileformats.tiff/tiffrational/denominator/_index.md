@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Denominator
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffRational ملكية. يحصل على المقام .
+title: "TiffRational.Denominator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffRational. تحصل على المقام"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.tiff/tiffrational/denominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Denominator property
 
-يحصل على المقام .
+يحصل على المقام.
 
 ```csharp
 public uint Denominator { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المقام .
+المقام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

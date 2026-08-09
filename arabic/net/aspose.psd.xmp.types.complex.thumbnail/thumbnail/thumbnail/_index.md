@@ -1,44 +1,45 @@
 ---
-title: Thumbnail.Thumbnail
-second_title: Aspose.PSD لمرجع .NET API
-description: Thumbnail البناء. يقوم بتهيئة مثيل جديد لملفThumbnail فئة .
+title: "Thumbnail.Thumbnail"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Thumbnail. يهيئ نسخة جديدة من الفئة Thumbnail"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Thumbnail`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`Thumbnail`](../).
 
 ```csharp
 public Thumbnail()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Thumbnail](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Thumbnail(int, int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Thumbnail`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`Thumbnail`](../).
 
 ```csharp
 public Thumbnail(int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | العرض. |
-| height | Int32 | الإرتفاع. |
+| العرض | Int32 | العرض. |
+| الارتفاع | Int32 | الارتفاع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Thumbnail](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

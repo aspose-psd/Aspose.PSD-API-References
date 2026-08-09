@@ -1,23 +1,24 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: Aspose.PSD لمرجع .NET API
-description: PngOptions مجال. مستوى الضغط الافتراضي .
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل PngOptions. مستوى الضغط الافتراضي"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
-مستوى الضغط الافتراضي .
+مستوى الضغط الافتراضي.
 
 ```csharp
 public const int DefaultCompressionLevel;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PngOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pngoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

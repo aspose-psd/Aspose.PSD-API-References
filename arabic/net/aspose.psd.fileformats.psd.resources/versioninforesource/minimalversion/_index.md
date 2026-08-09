@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.MinimalVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: VersionInfoResource ملكية. يحصل على الحد الأدنى من إصدار PSD المطلوب.
+title: "VersionInfoResource.MinimalVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VersionInfoResource. يحصل على الإصدار الأدنى المطلوب لـ PSD"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.resources/versioninforesource/minimalversion/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.MinimalVersion property
 
-يحصل على الحد الأدنى من إصدار PSD المطلوب.
+يحصل على الحد الأدنى لإصدار PSD المطلوب.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأدنى من إصدار PSD .
+إصدار PSD الأدنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VersionInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

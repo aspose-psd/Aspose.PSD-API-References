@@ -1,43 +1,44 @@
 ---
-title: Class XmpInteger
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpInteger فصل. يمثل النوع الأساسي لـ XMP Integer .
+title: "الفئة XmpInteger"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Types.Basic.XmpInteger. تمثل نوع XMP Integer الأساسي"
 type: docs
-weight: 5960
+weight: 6460
 url: /ar/net/aspose.psd.xmp.types.basic/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger class
 
-يمثل النوع الأساسي لـ XMP Integer .
+يمثل نوع XMP Integer الأساسي.
 
 ```csharp
 public sealed class XmpInteger : XmpTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpInteger](xmpinteger/#constructor)(int) | يقوم بتهيئة مثيل جديد لملف`XmpInteger` فئة . |
-| [XmpInteger](xmpinteger/#constructor_1)(long) | يقوم بتهيئة مثيل جديد لملف`XmpInteger` فئة . |
-| [XmpInteger](xmpinteger/#constructor_2)(string) | يقوم بتهيئة مثيل جديد لملف`XmpInteger` فئة . |
+| [XmpInteger](xmpinteger/#constructor)(int) | ينشئ مثلاً جديداً من الفئة `XmpInteger`. |
+| [XmpInteger](xmpinteger/#constructor_1)(long) | ينشئ مثلاً جديداً من الفئة `XmpInteger`. |
+| [XmpInteger](xmpinteger/#constructor_2)(string) | ينشئ مثلاً جديداً من الفئة `XmpInteger`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpinteger/value/) { get; set; } | الحصول على القيمة أو تعيينها. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpinteger/value/) { get; set; } | يحصل أو يعيّن القيمة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

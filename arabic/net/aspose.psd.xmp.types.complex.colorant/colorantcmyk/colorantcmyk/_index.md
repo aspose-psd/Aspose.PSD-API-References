@@ -1,46 +1,47 @@
 ---
-title: ColorantCmyk.ColorantCmyk
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantCmyk البناء. يقوم بتهيئة مثيل جديد لملفColorantCmyk فئة .
+title: "ColorantCmyk.ColorantCmyk"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ColorantCmyk. يهيئ مثلاً جديداً من الفئة ColorantCmyk"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorantCmyk`](../) فئة .
+يهيئ مثلاً جديداً من الفئة [`ColorantCmyk`](../).
 
 ```csharp
 public ColorantCmyk()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantCmyk](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantCmyk(float, float, float, float) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorantCmyk`](../) فئة .
+يهيئ مثلاً جديداً من الفئة [`ColorantCmyk`](../).
 
 ```csharp
 public ColorantCmyk(float black, float cyan, float magenta, float yellow)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| black | Single | قيمة المكون الأسود. |
-| cyan | Single | قيمة مكون اللون السماوي. |
-| magenta | Single | قيمة المكون الأرجواني. |
-| yellow | Single | قيمة المكون الأصفر. |
+| أسود | Single | قيمة المكوّن الأسود. |
+| سماوي | Single | قيمة مكوّن اللون السماوي. |
+| أرجواني | Single | قيمة المكوّن الأرجواني. |
+| أصفر | Single | قيمة المكوّن الأصفر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantCmyk](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

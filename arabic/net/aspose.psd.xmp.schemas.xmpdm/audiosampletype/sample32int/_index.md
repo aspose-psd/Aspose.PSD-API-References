@@ -1,23 +1,24 @@
 ---
-title: AudioSampleType.Sample32Int
-second_title: Aspose.PSD لمرجع .NET API
-description: AudioSampleType ملكية. يمثل عينة صوتية بحجم 32 بوصة .
+title: "AudioSampleType.Sample32Int"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AudioSampleType. يمثل عينة صوتية 32Int"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Sample32Int property
 
-يمثل عينة صوتية بحجم 32 بوصة .
+يمثل عينة صوتية 32Int.
 
 ```csharp
 public static AudioSampleType Sample32Int { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioSampleType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

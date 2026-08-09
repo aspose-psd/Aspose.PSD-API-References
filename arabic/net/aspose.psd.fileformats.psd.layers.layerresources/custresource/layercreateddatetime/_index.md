@@ -1,27 +1,28 @@
 ---
-title: CustResource.LayerCreatedDateTime
-second_title: Aspose.PSD لمرجع .NET API
-description: CustResource ملكية. الحصول على أو تعيين تاريخ إنشاء الطبقة.
+title: "CustResource.LayerCreatedDateTime"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CustResource. تحصل أو تعيّن تاريخ إنشاء الطبقة"
 type: docs
-weight: 30
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## CustResource.LayerCreatedDateTime property
 
-الحصول على أو تعيين تاريخ إنشاء الطبقة.
+يحصل أو يعيّن تاريخ إنشاء الطبقة.
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تاريخ إنشاء الطبقة .
+تاريخ إنشاء الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

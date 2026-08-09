@@ -1,20 +1,21 @@
 ---
-title: LinkedLayersManager.LinkLayers
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkedLayersManager طريقة. يربط طبقات الإدخال ويعيد LingGroupId.
+title: "LinkedLayersManager.LinkLayers"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LinkedLayersManager. يربط الطبقات المدخلة ويعيد LingGroupId"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager.LinkLayers method
 
-يربط طبقات الإدخال ويعيد LingGroupId.
+يربط الطبقات المدخلة ويعيد LingGroupId.
 
 ```csharp
 public short LinkLayers(Layer[] layers)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | layers | Layer[] | الطبقات. |
 
@@ -24,15 +25,15 @@ public short LinkLayers(Layer[] layers)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطبقات خالية. |
+| ArgumentNullException | الطبقات فارغة. |
 | ArgumentException | يجب أن يكون عدد الطبقات أكبر من 1. |
-| ArgumentException | يجب أن تكون حاوية كل طبقة مماثلة لـ PsdImage الحالي. |
+| ArgumentException | يجب أن يكون حاوية كل طبقة هي نفسها صورة PsdImage الحالية. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك التعامل مع الطبقات المرتبطة في Aspose.PSD
+المثال التالي يوضح كيف يمكنك تعديل الطبقات المرتبطة في Aspose.PSD
 
 ```csharp
 [C#]
@@ -40,31 +41,31 @@ public short LinkLayers(Layer[] layers)
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // ربط كل الطبقات في مجموعة مرتبطة واحدة
+    // ربط جميع الطبقات في مجموعة مرتبطة واحدة
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // يحصل على معرف لطبقة واحدة
+    // يحصل على المعرف لطبقة واحدة
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // يحصل على جميع الطبقات المرتبطة عن طريق معرف مجموعة الارتباط.
+    // يحصل على جميع الطبقات المرتبطة حسب معرف مجموعة الارتباط.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // إلغاء ربط كل طبقة بالمجموعة
+    // فك ربط كل طبقة من المجموعة
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // يسترد NULL لمعرّف مجموعة الارتباط الذي لا يحتوي على طبقات في المجموعة.
+    // يسترجع NULL لمعرف مجموعة الارتباط التي لا تحتوي على طبقات في المجموعة.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -74,11 +75,11 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

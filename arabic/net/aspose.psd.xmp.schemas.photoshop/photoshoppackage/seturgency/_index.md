@@ -1,37 +1,38 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يضبط الاستعجال.
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhotoshopPackage طريقة. يحدد الأولوية"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
-يضبط الاستعجال.
+يضبط الإلحاح.
 
 ```csharp
 public void SetUrgency(int urgency)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| urgency | Int32 | الإلحاح. |
+| الأولوية | Int32 | الأولوية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الاستعجال ؛ النطاق الصالح هو من 1 إلى 8 |
+| ArgumentOutOfRangeException | الأولوية;النطاق الصالح من 1 إلى 8 |
 
-### ملاحظات
+## ملاحظات
 
-يجب أن يكون الاستعجال في حالة غضب من 1 إلى 8.
+يجب أن تكون الأولوية في النطاق من 1 إلى 8.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

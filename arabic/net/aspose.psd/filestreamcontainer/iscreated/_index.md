@@ -1,27 +1,28 @@
 ---
-title: FileStreamContainer.IsCreated
-second_title: Aspose.PSD لمرجع .NET API
-description: FileStreamContainer ملكية. يحصل على قيمة تشير إلى ما إذا كان الدفق قد تم إنشاؤه بشكل صريح.
+title: "FileStreamContainer.IsCreated"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FileStreamContainer. يحصل على قيمة تشير إلى ما إذا كان التدفق قد تم إنشاؤه صراحةً"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/filestreamcontainer/iscreated/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsCreated property
 
-يحصل على قيمة تشير إلى ما إذا كان الدفق قد تم إنشاؤه بشكل صريح.
+يحصل على قيمة تشير إلى ما إذا تم إنشاء التدفق صراحةً.
 
 ```csharp
 public bool IsCreated { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم إنشاء الدفق بشكل صريح ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا تم إنشاء التدفق صراحةً؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../filestreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

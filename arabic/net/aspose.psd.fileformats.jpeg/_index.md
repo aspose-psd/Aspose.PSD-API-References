@@ -1,27 +1,28 @@
 ---
-title: Aspose.PSD.FileFormats.Jpeg
-second_title: Aspose.PSD لمرجع .NET API
-description: يعالج مساحة الاسم معالجة تنسيق ملف Jpeg .
+title: "Aspose.PSD.FileFormats.Jpeg"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المجال الاسمي يتعامل مع معالجة تنسيق ملف Jpeg"
 type: docs
-weight: 160
+weight: 170
 url: /ar/net/aspose.psd.fileformats.jpeg/
 ---
-يعالج مساحة الاسم معالجة تنسيق ملف Jpeg .
+{{< psd/tize >}}
+مساحة الاسم تتعامل مع معالجة تنسيق ملف Jpeg.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [JFIFData](./jfifdata/) | مقطع jfif . |
-| [JpegLsPresetCodingParameters](./jpeglspresetcodingparameters/) | يحدد معلمات تشفير JPEG-LS المحددة مسبقًا على النحو المحدد في ISO / IEC 14495-1 ، C.2.4.1.1. يحدد JPEG-LS مجموعة افتراضية من المعلمات ، ولكن يمكن استخدام المعلمات المخصصة. في تدفق البتات المشفر كما هو مطلوب لعملية فك التشفير. |
+| [JFIFData](./jfifdata/) | قسم jfif. |
+| [JpegLsPresetCodingParameters](./jpeglspresetcodingparameters/) | يحدد معلمات الترميز المسبقة لـ JPEG-LS كما هو معرف في ISO/IEC 14495-1, C.2.4.1.1. يحدد JPEG-LS مجموعة افتراضية من المعلمات، ولكن يمكن استخدام معلمات مخصصة. عند استخدامها تُكتب هذه المعلمات في تدفق البت المشفر كما هو مطلوب لعملية فك الترميز. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [JfifDensityUnits](./jfifdensityunits/) | وحدات كثافة jfif . |
-| [JpegCompressionColorMode](./jpegcompressioncolormode/) | وضع اللون لصور jpeg . |
-| [JpegCompressionMode](./jpegcompressionmode/) | وضع الضغط لصور jpeg . |
-| [JpegLsInterleaveMode](./jpeglsinterleavemode/) | يحدد وضع التداخل لبيانات البكسل (الملونة) متعددة المكونات. |
-| [SampleRoundingMode](./sampleroundingmode/) | يحدد طريقة يتم بها تحويل قيمة n بت إلى قيمة 8 بت. |
+| [JfifDensityUnits](./jfifdensityunits/) | وحدات كثافة jfif. |
+| [JpegCompressionColorMode](./jpegcompressioncolormode/) | وضع اللون لصور jpeg. |
+| [JpegCompressionMode](./jpegcompressionmode/) | وضع الضغط لصور jpeg. |
+| [JpegLsInterleaveMode](./jpeglsinterleavemode/) | يحدد وضع التداخل لبيانات بكسل متعددة المكونات (اللون). |
+| [SampleRoundingMode](./sampleroundingmode/) | يحدد طريقة يتم فيها تحويل قيمة n-بت إلى قيمة 8-بت. |
 
 

@@ -1,37 +1,38 @@
 ---
-title: LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerResourcesRegistry طريقة. الأحمالLayerResource باستخدام أول فتاحة تم العثور عليها مناسبة لملفstream .
+title: "LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LayerResourcesRegistry. تُحمّل LayerResource باستخدام أول مفتاح تم العثور عليه مناسب للتدفق المحدد."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor method
 
-الأحمال[`LayerResource`](../../layerresource/) باستخدام أول فتاحة تم العثور عليها مناسبة لملف*stream* .
+يحمّل [`LayerResource`](../../layerresource/) باستخدام أول مفتاح تم العثور عليه مناسب لـ *stream* المحدد.
 
 ```csharp
 public static LayerResource LoadResourceByFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| stream | Stream | التدفق. |
 | psdVersion | Int32 | إصدار PSD. |
 
 ### قيمة الإرجاع
 
-الملف المحمل[`LayerResource`](../../layerresource/) أو لاغية إذا لم يتم العثور على فتاحة.
+الـ[`LayerResource`](../../layerresource/) المحمّل أو null إذا لم يُعثر على أي مفتاح.
 
-### ملاحظات
+## ملاحظات
 
-ستكون أول افتتاحية في الواقع آخر تسجيلات.
+المفتاح الأول سيكون في الواقع الأخير المسجل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../layerresource/)
 * class [LayerResourcesRegistry](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: XmpPackage.Clear
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage طريقة. مسح هذا المثال.
+title: "XmpPackage.Clear"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPackage. تمسح هذا المثيل"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.xmp/xmppackage/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Clear method
 
-مسح هذا المثال.
+يمسح هذا الكائن.
 
 ```csharp
 public virtual void Clear()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

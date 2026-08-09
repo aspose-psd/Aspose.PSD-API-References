@@ -1,23 +1,24 @@
 ---
-title: PlacedResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على توقيع المورد الموضوع .
+title: "PlacedResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل على توقيع المورد الموضوع."
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Signature property
 
-الحصول على توقيع المورد الموضوع .
+يحصل على توقيع المورد الموضوع.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

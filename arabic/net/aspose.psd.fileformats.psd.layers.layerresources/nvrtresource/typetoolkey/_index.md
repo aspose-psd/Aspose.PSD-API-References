@@ -1,23 +1,24 @@
 ---
-title: NvrtResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: NvrtResource مجال. مفتاح معلومات أداة الكتابة.
+title: "NvrtResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل NvrtResource. مفتاح معلومات أداة النوع"
 type: docs
-weight: 60
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## NvrtResource.TypeToolKey field
 
-مفتاح معلومات أداة الكتابة.
+مفتاح معلومات أداة النوع.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NvrtResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ResourceBlock.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceBlock طريقة. يحفظ كتلة المورد في الدفق المحدد.
+title: "ResourceBlock.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ResourceBlock. تحفظ كتلة المورد إلى الدفق المحدد"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd/resourceblock/save/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Save method
 
-يحفظ كتلة المورد في الدفق المحدد.
+يحفظ كتلة المورد إلى الدفق المحدد.
 
 ```csharp
 public void Save(StreamContainer stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | StreamContainer | الدفق لحفظ كتلة المورد فيه. |
+| stream | StreamContainer | الدفق لحفظ كتلة المورد إليه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ResourceBlock](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

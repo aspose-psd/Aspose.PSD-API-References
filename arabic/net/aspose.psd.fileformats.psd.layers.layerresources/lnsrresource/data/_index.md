@@ -1,27 +1,28 @@
 ---
-title: LnsrResource.Data
-second_title: Aspose.PSD لمرجع .NET API
-description: LnsrResource ملكية. يحصل على البيانات الأولية .
+title: "LnsrResource.Data"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LnsrResource. يحصل على البيانات الخام"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Data property
 
-يحصل على البيانات الأولية .
+يحصل على البيانات الخام.
 
 ```csharp
 public byte[] Data { get; }
 ```
 
-### Property_Value
+### Property Value
 
 البيانات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LnsrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

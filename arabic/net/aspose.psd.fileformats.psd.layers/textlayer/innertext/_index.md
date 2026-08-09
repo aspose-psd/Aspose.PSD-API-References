@@ -1,27 +1,28 @@
 ---
-title: TextLayer.InnerText
-second_title: Aspose.PSD لمرجع .NET API
-description: TextLayer ملكية. يحصل على نص layer
+title: "TextLayer.InnerText"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextLayer. يحصل على نص الطبقة."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers/textlayer/innertext/
 ---
+{{< psd/tize >}}
 ## TextLayer.InnerText property
 
-يحصل على نص layer
+يسترجع نص الطبقة
 
 ```csharp
 public string InnerText { get; }
 ```
 
-### Property_Value
+### Property Value
 
 النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

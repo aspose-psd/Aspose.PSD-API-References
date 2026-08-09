@@ -1,51 +1,52 @@
 ---
-title: Pen.TranslateTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen طريقة. يترجم التحويل الهندسي المحلي بالأبعاد المحددة. تضيف هذه الطريقة الترجمة إلى التحويل.
+title: "Pen.TranslateTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Pen. تُترجم التحويل الهندسي المحلي بالأبعاد المحددة. هذه الطريقة تُضيف الترجمة إلى بداية التحويل."
 type: docs
 weight: 240
 url: /ar/net/aspose.psd/pen/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-يترجم التحويل الهندسي المحلي بالأبعاد المحددة. تضيف هذه الطريقة الترجمة إلى التحويل.
+ينقل التحويل الهندسي المحلي بالأبعاد المحددة. تُضيف هذه الطريقة الإزاحة إلى بداية التحويل.
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dx | Single | قيمة الترجمة في x. |
-| dy | Single | قيمة الترجمة في y. |
+| dx | Single | قيمة الترجمة في الاتجاه x. |
+| dy | Single | قيمة الإزاحة في y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-يترجم التحويل الهندسي المحلي بالأبعاد المحددة بالترتيب المحدد.
+ينقل التحويل الهندسي المحلي بالأبعاد المحددة بالترتيب المحدد.
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dx | Single | قيمة الترجمة في x. |
-| dy | Single | قيمة الترجمة في y. |
-| order | MatrixOrder | الترتيب (المسبق أو الملحق) الذي سيتم تطبيق الترجمة به. |
+| dx | Single | قيمة الترجمة في الاتجاه x. |
+| dy | Single | قيمة الإزاحة في y. |
+| الترتيب | MatrixOrder | الترتيب (إضافة مسبقة أو لاحقة) الذي يتم به تطبيق الإزاحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffExifIfd ملكية. الحصول على المؤشر أو تعيينه إلى EXIF IFD .
+title: "TiffExifIfd.Offset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffExifIfd. تحصّل أو تعيّن المؤشر إلى EXIF IFD"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-الحصول على المؤشر أو تعيينه إلى EXIF IFD .
+يحصل أو يضبط المؤشر إلى EXIF IFD.
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 المؤشر إلى EXIF IFD.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | لا يوجد مؤشر لـ EXIF IFD. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | لا يوجد مؤشر إلى EXIF IFD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffExifIfd](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

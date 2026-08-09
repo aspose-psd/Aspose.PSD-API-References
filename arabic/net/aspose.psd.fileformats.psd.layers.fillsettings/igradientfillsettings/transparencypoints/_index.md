@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.TransparencyPoints
-second_title: Aspose.PSD لمرجع .NET API
-description: IGradientFillSettings ملكية. يحصل على نقاط الشفافية .
+title: "IGradientFillSettings.TransparencyPoints"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IGradientFillSettings. يحصل على نقاط الشفافية"
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.TransparencyPoints property
 
-يحصل على نقاط الشفافية .
+يحصل على نقاط الشفافية.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نقاط الشفافية .
+نقاط الشفافية.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم Gradient FillLayer وخيارات تحرير IGradientFillSettings ..
+المثال التالي يوضح دعم طبقة تعبئة التدرج وخيارات تحرير IGradientFillSettings.
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -90,11 +92,11 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientTransparencyPoint](../../igradienttransparencypoint/)
 * interface [IGradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

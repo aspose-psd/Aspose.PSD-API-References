@@ -1,33 +1,34 @@
 ---
-title: RectangleF.FromPoints
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. ينشئ ملفًا جديدًاRectangle من نقطتين محددتين. رأسين من المخلوقاتRectangle سوف تكون مساوية لتمريرهاpoint1 وpoint2 . ستكون هذه عادةً الرؤوس المعاكسة.
+title: "RectangleF.FromPoints"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تنشئ مستطيل Rectangle جديد من نقطتين محددتين. سيكون رُؤس المستطيل المُنشأ مساوية للنقطة1 والنقطة2 الممرَّة. عادةً ما تكون هذه هي الرؤوس المتقابلة."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/rectanglef/frompoints/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromPoints method
 
-ينشئ ملفًا جديدًا[`Rectangle`](../../rectangle/) من نقطتين محددتين. رأسين من المخلوقات[`Rectangle`](../../rectangle/) سوف تكون مساوية لتمريرها*point1* و*point2* . ستكون هذه عادةً الرؤوس المعاكسة.
+ينشئ [`Rectangle`](../../rectangle/) جديدًا من نقطتين محددتين. سيكون رُؤس [`Rectangle`](../../rectangle/) المُنشأ مساوية للنقطة *point1* و *point2* الممرَّة. عادةً ما تكون هذه هي الرؤوس المتقابلة.
 
 ```csharp
 public static RectangleF FromPoints(PointF point1, PointF point2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point1 | PointF | الأول[`Point`](../../point/) للمستطيل الجديد. |
-| point2 | PointF | الثاني[`Point`](../../point/) للمستطيل الجديد. |
+| point1 | PointF | النقطة الأولى [`Point`](../../point/) للمستطيل الجديد. |
+| point2 | PointF | النقطة الثانية [`Point`](../../point/) للمستطيل الجديد. |
 
 ### قيمة الإرجاع
 
-تم إنشاؤه حديثًا[`Rectangle`](../../rectangle/).
+مستطيل تم إنشاؤه حديثًا [`Rectangle`](../../rectangle/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

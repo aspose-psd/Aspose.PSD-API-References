@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMin
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage مجال. الحد الأدنى لقيمة التصنيف .
+title: "XmpBasicPackage.RatingMin"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل XmpBasicPackage. القيمة الدنيا للتقييم"
 type: docs
-weight: 110
+weight: 140
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMin field
 
-الحد الأدنى لقيمة التصنيف .
+القيمة الدنيا للتقييم.
 
 ```csharp
 public const int RatingMin;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

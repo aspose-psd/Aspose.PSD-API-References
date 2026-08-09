@@ -1,65 +1,66 @@
 ---
-title: Graphics.DrawPolygon
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يرسم مضلعًا محددًا بمصفوفة منPointF الهياكل .
+title: "Graphics.DrawPolygon"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم مضلعًا معرفًا بمصفوفة من هياكل PointF"
 type: docs
-weight: 290
+weight: 300
 url: /ar/net/aspose.psd/graphics/drawpolygon/
 ---
+{{< psd/tize >}}
 ## DrawPolygon(Pen, PointF[]) {#drawpolygon}
 
-يرسم مضلعًا محددًا بمصفوفة من[`PointF`](../../pointf/) الهياكل .
+ترسم مضلعًا معرفًا بمصفوفة من هياكل [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawPolygon(Pen pen, PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض ونمط المضلع. |
-| points | PointF[] | مصفوفة من[`PointF`](../../pointf/) الهياكل التي تمثل رؤوس المضلع. |
+| pen | Pen | [`Pen`](../../pen/) التي تحدد اللون والعرض والنمط للمضلع. |
+| points | PointF[] | مصفوفة من هياكل [`PointF`](../../pointf/) التي تمثل رؤوس المضلع. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *pen* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPolygon(Pen, Point[]) {#drawpolygon_1}
 
-يرسم مضلعًا محددًا بمصفوفة من[`Point`](../../point/) الهياكل .
+ترسم مضلعًا معرفًا بمصفوفة من هياكل [`Point`](../../point/).
 
 ```csharp
 public void DrawPolygon(Pen pen, Point[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض ونمط المضلع. |
-| points | Point[] | مصفوفة من[`Point`](../../point/) الهياكل التي تمثل رؤوس المضلع. |
+| pen | Pen | [`Pen`](../../pen/) التي تحدد اللون والعرض والنمط للمضلع. |
+| points | Point[] | مصفوفة من هياكل [`Point`](../../point/) التي تمثل رؤوس المضلع. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* باطل. |
+| ArgumentNullException | *pen* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

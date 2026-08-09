@@ -1,11 +1,12 @@
 ---
-title: TextFontInfo.FontType
-second_title: Aspose.PSD لمرجع .NET API
-description: TextFontInfo ملكية. يحصل على نوع الخط.
+title: "TextFontInfo.FontType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TextFontInfo خاصية. يحصل على نوع الخط"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FontType property
 
 يحصل على نوع الخط.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 public int FontType { get; }
 ```
 
-### Property_Value
+### Property Value
 
 نوع الخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextFontInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

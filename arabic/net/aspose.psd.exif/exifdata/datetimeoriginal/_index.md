@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeOriginal
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد وقت التاريخ الأصلي.
+title: "ExifData.DateTimeOriginal"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين التاريخ والوقت الأصلي"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.exif/exifdata/datetimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeOriginal property
 
-الحصول على أو تحديد وقت التاريخ الأصلي.
+يحصل أو يضبط تاريخ ووقت الأصل.
 
 ```csharp
 public string DateTimeOriginal { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التاريخ والوقت الأصلي .
+التاريخ والوقت الأصلي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

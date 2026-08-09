@@ -1,47 +1,48 @@
 ---
-title: CurvResource.CurvResource
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvResource البناء. يقوم بتهيئة مثيل جديد لملفCurvResource فئة .
+title: "CurvResource.CurvResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ CurvResource. يهيئ مثيلاً جديداً من فئة CurvResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/curvresource/
 ---
+{{< psd/tize >}}
 ## CurvResource(int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`CurvResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`CurvResource`](../).
 
 ```csharp
 public CurvResource(int maxChannelCount)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| maxChannelCount | Int32 | الحد الأقصى لعدد القنوات. |
+| maxChannelCount | Int32 | العدد الأقصى للقنوات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurvResource(byte[]) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`CurvResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`CurvResource`](../).
 
 ```csharp
 public CurvResource(byte[] bytes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bytes | Byte[] | البايت. |
+| بايت | Byte[] | البايتات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

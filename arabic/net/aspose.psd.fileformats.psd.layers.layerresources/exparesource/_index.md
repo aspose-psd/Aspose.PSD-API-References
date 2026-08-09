@@ -1,58 +1,59 @@
 ---
-title: Class ExpaResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ExpaResource فصل. فئة ExpaResource. مورد طبقة تعديل التعرض
+title: "الفئة ExpaResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ExpaResource. الفئة ExpaResource. مورد طبقة تعديل التعرض"
 type: docs
-weight: 2450
+weight: 2710
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource class
 
-فئة ExpaResource. مورد طبقة تعديل التعرض
+الفئة ExpaResource. مورد طبقة تعديل التعرض
 
 ```csharp
 public class ExpaResource : AdjustmentLayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ExpaResource](exparesource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ExpaResource` فئة . |
-| [ExpaResource](exparesource/#constructor_1)(byte[]) | يقوم بتهيئة مثيل جديد لملف`ExpaResource` فئة . |
-| [ExpaResource](exparesource/#constructor_2)(float, float, float) | يقوم بتهيئة مثيل جديد لملف`ExpaResource` فئة . |
+| [ExpaResource](exparesource/#constructor)() | ينشئ مثيلاً جديداً من الفئة `ExpaResource`. |
+| [ExpaResource](exparesource/#constructor_1)(byte[]) | ينشئ مثيلاً جديداً من الفئة `ExpaResource`. |
+| [ExpaResource](exparesource/#constructor_2)(float, float, float) | ينشئ مثيلاً جديداً من الفئة `ExpaResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Exposure](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/) { get; set; } | الحصول على التعرض أو تعيينه . |
-| [GammaCorrection](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/) { get; set; } | الحصول على جاما أو تعيينها . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/) { get; set; } | الحصول على الإزاحة أو تعيينها . |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | يحصل على التوقيع. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/) { get; } | يحصل على الإصدار. الافتراضي هو 1 |
+| [Exposure](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/) { get; set; } | يحصل أو يضبط التعرض. |
+| [GammaCorrection](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/) { get; set; } | يحصل أو يضبط قيمة الجاما. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/) { get; set; } | يحصل أو يضبط الإزاحة. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/) { get; } | يحصل على الإصدار. القيمة الافتراضية هي 1 |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

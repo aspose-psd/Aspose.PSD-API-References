@@ -1,14 +1,15 @@
 ---
-title: RectangleF.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. يحصل على كود التجزئة لهذاRectangleFهيكل .
+title: "RectangleF.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تحصل على رمز التجزئة لهذا الهيكل RectangleF"
 type: docs
 weight: 210
 url: /ar/net/aspose.psd/rectanglef/gethashcode/
 ---
+{{< psd/tize >}}
 ## RectangleF.GetHashCode method
 
-يحصل على كود التجزئة لهذا[`RectangleF`](../)هيكل .
+يحصل على رمز التجزئة لهذا الهيكل [`RectangleF`](../).
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز التجزئة لهذا[`RectangleF`](../).
+رمز التجزئة لهذا [`RectangleF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PtFlResource.PatternName
-second_title: Aspose.PSD لمرجع .NET API
-description: PtFlResource ملكية. الحصول على أو تحديد اسم النمط.
+title: "PtFlResource.PatternName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PtFlResource. تحصل أو تعين اسم النمط"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/
 ---
+{{< psd/tize >}}
 ## PtFlResource.PatternName property
 
-الحصول على أو تحديد اسم النمط.
+يحصل أو يعيّن اسم النمط.
 
 ```csharp
 public string PatternName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم النمط .
+اسم النمط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PtFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

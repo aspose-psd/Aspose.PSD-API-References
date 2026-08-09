@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureTime
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على وقت التعرض أو ضبطه .
+title: "ExifData.ExposureTime"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يسترجع أو يعيّن مدة التعرض"
 type: docs
 weight: 230
 url: /ar/net/aspose.psd.exif/exifdata/exposuretime/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureTime property
 
-الحصول على وقت التعرض أو ضبطه .
+يحصل أو يضبط زمن التعرض.
 
 ```csharp
 public TiffRational ExposureTime { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وقت التعرض .
+مدة التعرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

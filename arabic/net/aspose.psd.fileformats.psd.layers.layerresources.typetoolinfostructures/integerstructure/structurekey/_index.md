@@ -1,23 +1,24 @@
 ---
-title: IntegerStructure.StructureKey
-second_title: Aspose.PSD لمرجع .NET API
-description: IntegerStructure مجال. مفتاح بنية العدد الصحيح .
+title: "IntegerStructure.StructureKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل IntegerStructure. مفتاح بنية العدد الصحيح"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.StructureKey field
 
-مفتاح بنية العدد الصحيح .
+مفتاح بنية العدد الصحيح.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IntegerStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

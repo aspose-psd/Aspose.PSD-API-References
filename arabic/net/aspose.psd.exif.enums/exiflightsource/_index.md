@@ -1,48 +1,49 @@
 ---
-title: Enum ExifLightSource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifLightSource تعداد. مصدر ضوء exif .
+title: "تعداد ExifLightSource."
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifLightSource تعداد. مصدر الضوء exif."
 type: docs
-weight: 890
+weight: 900
 url: /ar/net/aspose.psd.exif.enums/exiflightsource/
 ---
+{{< psd/tize >}}
 ## ExifLightSource enumeration
 
-مصدر ضوء exif .
+مصدر الضوء exif.
 
 ```csharp
 public enum ExifLightSource
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Unknown | `0` | المجهول . |
-| Daylight | `1` | ضوء النهار . |
-| Fluorescent | `2` | الفلورسنت . |
-| Tungsten | `3` | التنجستن . |
-| Flash | `4` | الفلاش . |
-| Fineweather | `9` | الطقس النهائي . |
-| Cloudyweather | `10` | الطقس الغائم . |
-| Shade | `11` | الظل . |
-| DaylightFluorescent | `12` | ضوء النهار الفلوري . |
-| DayWhiteFluorescent | `13` | الفلورسنت الأبيض اليوم . |
-| CoolWhiteFluorescent | `14` | الفلورسنت الأبيض البارد. |
-| WhiteFluorescent | `15` | الفلورسنت الأبيض. |
-| StandardlightA | `17` | الضوء القياسي a. |
-| StandardlightB | `18` | الضوء القياسي b. |
-| StandardlightC | `19` | المصباح القياسي c. |
-| D55 | `20` | قيمة d55 (5500K) . |
-| D65 | `21` | قيمة d65 (6500K) . |
-| D75 | `22` | قيمة d75 (7500K) . |
-| D50 | `23` | قيمة d50 (5000K) . |
-| ISOstudiotungsten | `24` | أضواء التنجستن استوديو ISO . |
-| Otherlightsource | `255` | مصدر الإضاءة الآخر. |
+| Unknown | `0` | المجهول. |
+| Daylight | `1` | ضوء النهار. |
+| Fluorescent | `2` | الفلوريسنت. |
+| Tungsten | `3` | التنغستن. |
+| Flash | `4` | الفلاش. |
+| Fineweather | `9` | الطقس الصافي. |
+| Cloudyweather | `10` | الطقس الغائم. |
+| Shade | `11` | الظل. |
+| DaylightFluorescent | `12` | فلوريسنت ضوء النهار. |
+| DayWhiteFluorescent | `13` | فلوريسنت أبيض نهاري. |
+| CoolWhiteFluorescent | `14` | فلوريسنت أبيض بارد. |
+| WhiteFluorescent | `15` | فلوريسنت أبيض. |
+| StandardlightA | `17` | الضوء القياسي أ. |
+| StandardlightB | `18` | الضوء القياسي ب. |
+| StandardlightC | `19` | الضوء القياسي ج. |
+| D55 | `20` | القيمة d55 (5500K). |
+| D65 | `21` | القيمة d65 (6500K). |
+| D75 | `22` | القيمة d75 (7500K). |
+| D50 | `23` | القيمة d50 (5000K). |
+| ISOstudiotungsten | `24` | مصدر ضوء تنغستن استوديو iso. |
+| Otherlightsource | `255` | مصدر الضوء الآخر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

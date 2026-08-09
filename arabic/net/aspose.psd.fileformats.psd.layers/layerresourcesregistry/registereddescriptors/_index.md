@@ -1,28 +1,29 @@
 ---
-title: LayerResourcesRegistry.RegisteredDescriptors
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerResourcesRegistry ملكية. يحصل على الواصفات المسجلة .
+title: "LayerResourcesRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerResourcesRegistry. يحصل على الوصفات المسجلة."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.RegisteredDescriptors property
 
-يحصل على الواصفات المسجلة .
+يحصل على المُوَصِّفات المسجلة.
 
 ```csharp
 public static ILayerResourceLoader[] RegisteredDescriptors { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الواصفات المسجلة.
+الوصفات المسجلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

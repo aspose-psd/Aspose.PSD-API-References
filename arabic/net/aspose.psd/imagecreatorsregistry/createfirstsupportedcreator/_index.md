@@ -1,37 +1,38 @@
 ---
-title: ImageCreatorsRegistry.CreateFirstSupportedCreator
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageCreatorsRegistry طريقة. ينشئ أول منشئ مناسب للمعيار.
+title: "ImageCreatorsRegistry.CreateFirstSupportedCreator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageCreatorsRegistry. تنشئ أول منشئ تم العثور عليه مناسب للمحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.CreateFirstSupportedCreator method
 
-ينشئ أول منشئ مناسب للمعيار.
+ينشئ أول منشئ تم العثور عليه مناسب للمحدد.
 
 ```csharp
 public static IImageCreator CreateFirstSupportedCreator(ImageOptionsBase imageOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | خيارات الصورة. |
 
 ### قيمة الإرجاع
 
-المنشئ الذي يدعم المحدد أو الفارغ إذا لم يتم العثور على المنشئ .
+المنشئ الذي يدعم المحدد أو null إذا لم يُعثر على مثل هذا المنشئ.
 
-### ملاحظات
+## ملاحظات
 
-سيكون المنشئ الأول هو آخر منشئ مسجل.
+سيكون أول منشئ هو في الواقع آخر ما تم تسجيله.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageCreator](../../iimagecreator/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imagecreatorsregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

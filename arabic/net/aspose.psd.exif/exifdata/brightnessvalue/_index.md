@@ -1,28 +1,29 @@
 ---
-title: ExifData.BrightnessValue
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على قيمة السطوع أو تعيينها .
+title: "ExifData.BrightnessValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ExifData خاصية. يحصل أو يضبط قيمة السطوع"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.exif/exifdata/brightnessvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.BrightnessValue property
 
-الحصول على قيمة السطوع أو تعيينها .
+يحصل أو يضبط قيمة السطوع.
 
 ```csharp
 public TiffSRational BrightnessValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة السطوع .
+قيمة السطوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

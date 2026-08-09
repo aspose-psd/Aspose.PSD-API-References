@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Left
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle ملكية. الحصول على أو تحديد إحداثيات x للحافة اليسرى لهذاRectangleهيكل .
+title: "Rectangle.Left"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rectangle. تحصل أو تعين إحداثي x للحد الأيسر من بنية Rectangle هذه"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/rectangle/left/
 ---
+{{< psd/tize >}}
 ## Rectangle.Left property
 
-الحصول على أو تحديد إحداثيات x للحافة اليسرى لهذا[`Rectangle`](../)هيكل .
+تحصل أو تعين إحداثي x للحد الأيسر من بنية [`Rectangle`](../) هذه.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإحداثي x للحافة اليسرى لهذا[`Rectangle`](../) بناء.
+إحداثي x للحد الأيسر من بنية [`Rectangle`](../) هذه.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

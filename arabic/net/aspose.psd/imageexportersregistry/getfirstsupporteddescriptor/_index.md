@@ -1,40 +1,41 @@
 ---
-title: ImageExportersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageExportersRegistry طريقة. الحصول على القبضة التي تم العثور عليها في الموصف المدعوم المناسب لخيارات الحفظ المحددة والصورة.
+title: "ImageExportersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageExportersRegistry. تحصل على أول مُوَصِّف مدعوم تم العثور عليه مناسب لخيارات الحفظ المحددة والصورة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.GetFirstSupportedDescriptor method
 
-الحصول على القبضة التي تم العثور عليها في الموصف المدعوم المناسب لخيارات الحفظ المحددة والصورة.
+يحصل على أول وصف مدعوم يتم العثور عليه مناسب لخيارات الحفظ المحددة والصورة.
 
 ```csharp
 public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image, 
     ImageOptionsBase options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد تصديرها. |
-| options | ImageOptionsBase | الخيارات. |
+| صورة | صورة | الصورة المراد تصديرها. |
+| خيارات | ImageOptionsBase | الخيارات. |
 
 ### قيمة الإرجاع
 
-واصف المُصدِّر الذي يدعم الصورة المحددة وخيارات الحفظ أو لاغٍ إذا لم يتم العثور على هذا الواصف .
+مُوَصِّف المُصدِّر الذي يدعم الصورة المحددة وخيارات الحفظ أو null إذا لم يتم العثور على مثل هذا المُوَصِّف.
 
-### ملاحظات
+## ملاحظات
 
-سيكون أول واصف للمصدر هو آخر موصف مسجل.
+المُوَصِّف الأول للمُصدِّر سيكون في الواقع الأخير المسجَّل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageexportersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

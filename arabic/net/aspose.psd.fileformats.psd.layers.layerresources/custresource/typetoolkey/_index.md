@@ -1,11 +1,12 @@
 ---
-title: CustResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: CustResource مجال. مفتاح معلومات أداة النوع.
+title: "CustResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل CustResource. مفتاح معلومات أداة النوع"
 type: docs
-weight: 80
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CustResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

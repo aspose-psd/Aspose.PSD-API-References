@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على الصور النقطية .
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل على الصور النقطية"
 type: docs
-weight: 120
+weight: 140
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
-الحصول على الصور النقطية .
+يحصل على الصور النقطية.
 
 ```csharp
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الصور النقطية.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي كيفية تحميل إعدادات الصور النقطية في ملفات تنسيق AI.
+الكود التالي يوضح كيفية تحميل إعدادات الصور النقطية في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -63,11 +64,11 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

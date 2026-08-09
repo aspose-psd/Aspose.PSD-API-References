@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleScaleLock
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على أو تعيين قفل مقياس نمط ضربة الفرشاة.
+title: "VstkResource.StrokeStyleScaleLock"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعيين قفل مقياس نمط الحد"
 type: docs
-weight: 200
+weight: 180
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleScaleLock property
 
-الحصول على أو تعيين قفل مقياس نمط ضربة الفرشاة.
+يحصل أو يضبط قفل مقياس نمط الضربة.
 
 ```csharp
 public bool StrokeStyleScaleLock { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

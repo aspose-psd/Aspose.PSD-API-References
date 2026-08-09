@@ -1,49 +1,50 @@
 ---
-title: TextShape.TextShape
-second_title: Aspose.PSD لمرجع .NET API
-description: TextShape البناء. يقوم بتهيئة مثيل جديد لملفTextShape فئة .
+title: "TextShape.TextShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TextShape. يهيئ نسخة جديدة من الفئة TextShape"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.shapes/textshape/textshape/
 ---
+{{< psd/tize >}}
 ## TextShape() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TextShape`](../) فئة .
+يُنشئ مثيلاً جديدًا للفئة [`TextShape`](../).
 
 ```csharp
 public TextShape()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../textshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextShape(string, RectangleF, Font, StringFormat) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TextShape`](../) فئة .
+يُنشئ مثيلاً جديدًا للفئة [`TextShape`](../).
 
 ```csharp
 public TextShape(string text, RectangleF rectangle, Font font, StringFormat stringFormat)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | النص المراد رسمه. |
-| rectangle | RectangleF | مستطيل النص. |
-| font | Font | الخط المراد استخدامه. |
-| stringFormat | StringFormat | تنسيق السلسلة. |
+| نص | String | النص المراد رسمه. |
+| مستطيل | RectangleF | مستطيل النص. |
+| الخط | الخط | الخط المراد استخدامه. |
+| تنسيق السلسلة | تنسيق السلسلة | تنسيق السلسلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Font](../../../aspose.psd/font/)
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../textshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

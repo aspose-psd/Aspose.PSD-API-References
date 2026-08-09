@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: OuterGlowEffect ملكية. الحصول على قيمة التمويه بالبكسل .
+title: "OuterGlowEffect.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية OuterGlowEffect. يحصل على قيمة الضبابية بالبكسل"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
-الحصول على قيمة التمويه بالبكسل .
+يحصل على قيمة الضبابية بالبكسل.
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحجم .
+الحجم.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم OuterGlowEffect.
+يوضح الشيفرة التالية دعم OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OuterGlowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SmartObjectLayer.ConvertToLinked
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectLayer طريقة. يحول هذا الكائن الذكي المضمن إلى كائن ذكي مرتبط.
+title: "SmartObjectLayer.ConvertToLinked"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartObjectLayer. تحول هذا الكائن الذكي المدمج إلى كائن ذكي مرتبط."
 type: docs
-weight: 70
+weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ConvertToLinked method
 
-يحول هذا الكائن الذكي المضمن إلى كائن ذكي مرتبط.
+يقوم بتحويل هذا الكائن الذكي المضمن إلى كائن ذكي مرتبط.
 
 ```csharp
 public void ConvertToLinked(string linkedPath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | linkedPath | String | المسار المرتبط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

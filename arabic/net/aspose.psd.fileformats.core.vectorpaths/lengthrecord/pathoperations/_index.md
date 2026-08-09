@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.PathOperations
-second_title: Aspose.PSD لمرجع .NET API
-description: LengthRecord ملكية. الحصول على أو تعيين عمليات المسار.
+title: "LengthRecord.PathOperations"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LengthRecord. يحصل على أو يضبط عمليات المسار"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/
 ---
+{{< psd/tize >}}
 ## LengthRecord.PathOperations property
 
-الحصول على أو تعيين عمليات المسار.
+يحصل أو يضبط عمليات المسار.
 
 ```csharp
 public PathOperations PathOperations { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي من التعليمات البرمجية دعم خصائص LengthRecord الجديدة و PathOperations (العمليات المنطقية) و ShapeIndex و BezierKnotRecordsCount.
+يوضح مثال الشيفرة التالي دعم الخصائص الجديدة LengthRecord، وPathOperations (العمليات البوليانية)، وShapeIndex وBezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // هنا نغير الطريق إلى الجمع بين الأشكال.
+    // هنا نغير الطريقة التي نجمع بها الأشكال.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -49,11 +50,11 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PathOperations](../../pathoperations/)
 * class [LengthRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorBalanceAdjustmentLayer ملكية. الحصول على أو تعيين توازن اللون الأحمر السماوي المميز .
+title: "ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorBalanceAdjustmentLayer. يحصل أو يضبط توازن السطوع السيان الأحمر"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightscyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance property
 
-الحصول على أو تعيين توازن اللون الأحمر السماوي المميز .
+يحصل أو يضبط توازن الإضاءات للسيان الأحمر.
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-يبرز التوازن الأحمر السماوي .
+توازن السطوع السيان الأحمر.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | تمييزات يجب أن يكون الرصيد الأحمر السماوي في نطاق من -100 إلى +100 . |
+| ArgumentOutOfRangeException | يجب أن يكون توازن السطوع السيان الأحمر في النطاق من -100 إلى +100. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم ColorBalanceAdjustmentLayer.
+الكود التالي يوضح دعم طبقة ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorBalanceAdjustmentLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

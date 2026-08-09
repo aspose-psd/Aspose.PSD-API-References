@@ -1,34 +1,35 @@
 ---
-title: Pen.StartCap
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على أو تحديد نمط الغطاء المستخدم في بداية الخطوط المرسومة بهذاPen .
+title: "Pen.StartCap"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيين نمط الغطاء المستخدم في بداية الخطوط المرسومة بهذا Pen."
 type: docs
 weight: 160
 url: /ar/net/aspose.psd/pen/startcap/
 ---
+{{< psd/tize >}}
 ## Pen.StartCap property
 
-الحصول على أو تحديد نمط الغطاء المستخدم في بداية الخطوط المرسومة بهذا[`Pen`](../) .
+تحصل أو تعيين نمط الغطاء المستخدم في بداية الخطوط المرسومة بهذا [`Pen`](../).
 
 ```csharp
 public LineCap StartCap { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-واحد من[`LineCap`](../../linecap/) القيم التي تمثل النمط الاستهلالي المستخدم في بداية السطور المرسومة بهذا[`Pen`](../).
+إحدى قيم [`LineCap`](../../linecap/) التي تمثل نمط الغطاء المستخدم في بداية الخطوط المرسومة بهذا [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`StartCap` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `StartCap` يتم تعيينها على [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

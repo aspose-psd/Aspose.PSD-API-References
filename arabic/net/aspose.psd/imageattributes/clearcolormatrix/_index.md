@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearColorMatrix
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يمسح مصفوفة ضبط اللون للفئة الافتراضية.
+title: "ImageAttributes.ClearColorMatrix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تمسح مصفوفة تعديل اللون للفئة الافتراضية"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/imageattributes/clearcolormatrix/
 ---
+{{< psd/tize >}}
 ## ClearColorMatrix() {#clearcolormatrix}
 
-يمسح مصفوفة ضبط اللون للفئة الافتراضية.
+يمسح مصفوفة تعديل اللون للفئة الافتراضية.
 
 ```csharp
 public void ClearColorMatrix()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearColorMatrix(ColorAdjustType) {#clearcolormatrix_1}
 
-يمسح مصفوفة ضبط اللون لفئة محددة.
+يمسح مصفوفة تعديل اللون لفئة محددة.
 
 ```csharp
 public void ClearColorMatrix(ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي تم مسح مصفوفة ضبط اللون لها. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يتم مسح مصفوفة تعديل اللون لها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

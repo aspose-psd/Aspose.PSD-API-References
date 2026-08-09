@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffDataType ملكية. الحصول على القيمة التي يحتوي عليها نوع البيانات هذا أو تعيينها.
+title: "TiffDataType.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffDataType. تحصّل أو تعيّن القيمة التي يحتويها هذا النوع من البيانات"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.tiff/tiffdatatype/value/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Value property
 
-الحصول على القيمة التي يحتوي عليها نوع البيانات هذا أو تعيينها.
+يحصل أو يضبط القيمة التي يحتويها نوع البيانات هذا.
 
 ```csharp
 public abstract object Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

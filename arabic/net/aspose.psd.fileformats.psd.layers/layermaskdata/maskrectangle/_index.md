@@ -1,24 +1,25 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerMaskData ملكية. الحصول على القناع أو تحديدهRectangleقناع الطبقة في ملف PSD. يأخذ خصائص وينشئ اليسار واليمين والعلوي والسفليRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerMaskData. يحصل على أو يضبط مستطيل القناع لقناع الطبقة في ملف PSD. يأخذ خصائص اليسار واليمين والأعلى والأسفل وينشئ Rectangle"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-الحصول على القناع أو تحديده[`Rectangle`](../../../aspose.psd/rectangle/)قناع الطبقة في ملف PSD. يأخذ خصائص وينشئ اليسار واليمين والعلوي والسفلي[`Rectangle`](../../../aspose.psd/rectangle/)
+يحصل على أو يضبط القناع [`Rectangle`](../../../aspose.psd/rectangle/) لقناع الطبقة في ملف PSD. يأخذ خصائص اليسار واليمين والأعلى والأسفل وينشئ [`Rectangle`](../../../aspose.psd/rectangle/)
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مستطيل القناع .
+مستطيل القناع.
 
-### أمثلة
+## أمثلة
 
 يوضح هذا المثال كيفية الحصول على أقنعة الطبقة النقطية وتحديثها وإزالتها وإضافتها في ملف Adobe® Photoshop® برمجيًا.
 
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// يحصل على تحويل القيمة int إلى ترتيب بايت كبير الحجم.
+// يحصل على قيمة int محوّلة إلى ترتيب البايتات big-endian.
 byte[] GetBigEndianBytesInt32(int value)
 {
     byte[] bytes = new byte[4];
@@ -45,7 +46,7 @@ byte[] GetBigEndianBytesInt32(int value)
     return bytes;
 }
 
-// يحصل على القيمة المحولة من endian الكبير إلى Int32.
+// يحصل على القيمة محوّلة من big-endian إلى Int32.
 int FromBigEndianToInt32(byte[] bytes, int index)
 {
     if (bytes == null)
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// يحصل على قناع نقطي من طبقة صورة PSD ويحفظه في ملف
+// يحصل على قناع نقطي من طبقة صورة PSD ويحفظه إلى ملف
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// يضيف قناع نقطي من الملف إلى الطبقة ويحفظه في صورة تنسيق PSD
+// يضيف قناعًا نقطيًا من الملف إلى الطبقة ويحفظه كصورة بتنسيق PSD
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,11 +101,11 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // لا يكفي مجرد إضافة LayerMaskData للحفظ الصحيح لأن القنوات لا يتم تحديثها ;
-    // layer.LayerMaskData = قناع ; // هذا لا يضيف قناة القناع
+    // مجرد إضافة LayerMaskData لا يكفي للحفظ الصحيح لأن القنوات لم يتم تحديثها؛
+    // layer.LayerMaskData = mask; // هذا لا يضيف قناة القناع
 
-    // أضف (أو حدّث) القناع
-    layer.AddLayerMask(maskData); // لكن هذا يضيف / يحدّث كلاً من القناع والقنوات!
+    // إضافة (أو تحديث) القناع
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
 // يوضح هذا المثال كيفية الحصول على أقنعة الطبقة النقطية وتحديثها وإزالتها وإضافتها في ملف Adobe® Photoshop® برمجيًا.
@@ -114,10 +115,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // احصل على قناع نقطي من الطبقة واحفظه في ملف
+    // احصل على قناع نقطي من الطبقة واحفظه إلى ملف
     SaveRasterMask("FourWithMasks2.msk", layer);
 
-    // تغيير قناع الطبقة (عكس) وحفظ الصورة
+    // غيّر قناع الطبقة (عكس) واحفظ الصورة
     var mask = layer.LayerMaskData;
     byte[] maskData = mask.ImageData;
     for (int i = 0; i < maskData.Length; i++)
@@ -125,33 +126,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // فقط تغيير LayerMaskData يكفي لإحداث تأثير
+    // مجرد تغيير LayerMaskData يكفي لتأثير العرض
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // لكن مجرد تغيير LayerMaskData لا يكفي للحفظ الصحيح لأن القنوات لا يتم تحديثها ;
-    layer.LayerMaskData = mask; // هذا لا يعمل أيضا
-    layer.AddLayerMask(mask); // لكن هذا يقوم بتحديث كل من القناع والقنوات!
+    // لكن مجرد تغيير LayerMaskData لا يكفي للحفظ الصحيح لأن القنوات لم يتم تحديثها؛
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
     // إزالة قناع نقطي من الطبقة وحفظ الصورة
-    layer.LayerMaskData = null; // فقط إزالة LayerMaskData كافية لإحداث تأثير ولكن ليس للحفظ بتنسيق PSD
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // لكن هذا يزيل القناع وقناة القناع!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
-    // أضف قناع نقطي من الملف إلى الطبقة واحفظ الصورة
+    // إضافة قناع نقطي من الملف إلى الطبقة وحفظ الصورة
     AddRasterMask(layer, "raster.msk");
     image.Save("FourWithMasksAdded2.png", pngOptions);
     image.Save("FourWithMasksAdded2.psd");
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,70 +1,71 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: Aspose.PSD لمرجع .NET API
-description: FxrpResource البناء. يقوم بتهيئة مثيل جديد لملفFxrpResource فئة .
+title: "FxrpResource.FxrpResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ FxrpResource. يهيئ نسخة جديدة من فئة FxrpResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`FxrpResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource(double x, double y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | إحداثي x للنقطة المرجعية |
-| y | Double | إحداثي ص للنقطة المرجعية |
+| x | Double | إحداثي x لنقطة الإسناد |
+| y | Double | إحداثي y لنقطة الإسناد |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FxrpResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`FxrpResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FxrpResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`FxrpResource`](../) class. بقيمة مخصصة أو غير معروفة
+يهيئ نسخة جديدة من الفئة [`FxrpResource`](../). بقيمة مخصصة أو غير معروفة
 
 ```csharp
 public FxrpResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات الموارد. |
+| البيانات | Byte[] | بيانات المورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | قيمة مورد Fxrp غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FxrpResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

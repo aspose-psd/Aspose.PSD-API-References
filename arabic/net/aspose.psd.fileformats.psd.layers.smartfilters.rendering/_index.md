@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على كيانات تنسيق ملف PSD المضمنة في الطبقات.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على كيانات تنسيق ملف PSD الموجودة في الطبقات"
 type: docs
-weight: 320
+weight: 340
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/
 ---
-تحتوي مساحة الاسم على كيانات تنسيق ملف PSD المضمنة في الطبقات.
+{{< psd/tize >}}
+تحتوي مساحة الاسم على كيانات تنسيق ملف PSD الموجودة في الطبقات.
 
-## واجهات
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| الواجهة | الوصف |
 | --- | --- |
-| [ISmartFilterRenderer](./ismartfilterrenderer/) | واجهة عارض مرشح ذكي محدد. |
+| [ISmartFilterRenderer](./ismartfilterrenderer/) | الواجهة الخاصة بمُعالج مرشح ذكي محدد. |
 
 

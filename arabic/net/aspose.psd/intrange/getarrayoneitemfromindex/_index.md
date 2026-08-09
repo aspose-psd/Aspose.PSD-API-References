@@ -1,37 +1,38 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: IntRange طريقة. إرجاع مصفوفة عنصر واحدة من index
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IntRange. تُرجع مصفوفة عنصر واحد من الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-إرجاع مصفوفة عنصر واحدة من index
+يرجع مصفوفة عنصر واحد من الفهرس المحدد
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | مؤشر النطاق. |
+| فهرس | Int32 | فهرس النطاق. |
 
 ### قيمة الإرجاع
 
-مجموعةInt32
+مصفوفة Int32
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | الفهرس خارج النطاق |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IntRange](../)
-* مساحة الاسم [Aspose.PSD](../../intrange/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

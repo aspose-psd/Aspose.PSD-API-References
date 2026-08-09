@@ -1,24 +1,25 @@
 ---
-title: VstkResource.StrokeStyleBlendMode
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على أو تعيين وضع Stroke Blend .
+title: "VstkResource.StrokeStyleBlendMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعين وضع دمج الخط"
 type: docs
-weight: 80
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleBlendMode property
 
-الحصول على أو تعيين وضع Stroke Blend .
+يحصل أو يضبط وضع دمج الضربة.
 
 ```csharp
 public BlendMode StrokeStyleBlendMode { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Bottom
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تحديد موضع الطبقة السفلية.
+title: "Layer.Bottom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل على أو تعيين موضع الطبقة السفلية"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/bottom/
 ---
+{{< psd/tize >}}
 ## Layer.Bottom property
 
-الحصول على أو تحديد موضع الطبقة السفلية.
+يحصل أو يعيّن موضع الطبقة السفلية.
 
 ```csharp
-public int Bottom { get; set; }
+public virtual int Bottom { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موضع الطبقة السفلية .
+موضع الطبقة السفلية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

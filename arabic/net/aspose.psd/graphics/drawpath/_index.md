@@ -1,64 +1,65 @@
 ---
-title: Graphics.DrawPath
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. رسم أGraphicsPath .
+title: "Graphics.DrawPath"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم GraphicsPath."
 type: docs
-weight: 270
+weight: 280
 url: /ar/net/aspose.psd/graphics/drawpath/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawPath method
 
-رسم أ[`GraphicsPath`](../../graphicspath/) .
+ترسم [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void DrawPath(Pen pen, GraphicsPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) يحدد لون المسار وعرضه ونمطه. |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) ليرسم. |
+| pen | Pen | [`Pen`](../../pen/) التي تحدد اللون والعرض والنمط للمسار. |
+| path | GraphicsPath | `[`GraphicsPath`](../../graphicspath/) للرسم.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *path* باطل. |
+| ArgumentNullException | `*pen* فارغ. -أو- *path* فارغ.` |
 
-### أمثلة
+## أمثلة
 
-تستخدم هذه الأمثلة فئة GraphicsPath و Graphics لإنشاء الأشكال ومعالجتها على سطح الصورة. مثال ينشئ صورة جديدة ويرسم المسارات بمساعدة فئة GraphicsPath. في النهاية ، يتم استدعاء طريقة DrawPath المعروضة بواسطة فئة الرسومات لعرض المسارات على السطح. أخيرًا يتم تصدير الصورة إلى تنسيق ملف Tiff.
+تستخدم هذه الأمثلة فئة GraphicsPath وفئة Graphics لإنشاء وتعديل الأشكال على سطح صورة. ينشئ المثال صورة جديدة ويرسم المسارات بمساعدة فئة GraphicsPath. في النهاية يتم استدعاء طريقة DrawPath التي توفرها فئة Graphics لرسم المسارات على السطح. أخيرًا يتم تصدير الصورة إلى تنسيق ملف Tiff.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل للصورة 
+//إنشاء نسخة من Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // إنشاء وتهيئة مثيل لفئة الرسومات
+    //إنشاء وتهيئة نسخة من فئة Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // مسح سطح الرسومات
+    //مسح سطح Graphics
     graphics.Clear(Color.Wheat);
 
-    // إنشاء مثيل لفئة GraphicsPath
+    //إنشاء نسخة من فئة GraphicsPath
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    // إنشاء مثيل لفئة الشكل
+    //إنشاء نسخة من فئة Figure
     Aspose.PSD.Figure figure = new Aspose.PSD.Figure();
 
-    // إضافة أشكال إلى كائن الشكل
+    //إضافة أشكال إلى كائن Figure
     figure.AddShape(new Aspose.PSD.Shapes.RectangleShape(new RectangleF(10, 10, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(250, 250), new Size(200, 200)), 0, 45));
 
-    // إضافة كائن الشكل إلى GraphicsPath
+    //إضافة كائن Figure إلى GraphicsPath
     graphicspath.AddFigure(figure);
 
-    // رسم المسار باستخدام كائن القلم من اللون الأسود
+    //رسم المسار باستخدام كائن Pen بلون أسود
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    // قم بإنشاء مثيل لـ TiffOptions وعيّن خصائصه المتنوعة
+    //إنشاء نسخة من TiffOptions وضبط خصائصه المتنوعة
     Aspose.PSD.ImageOptions.TiffOptions tiffOptions = new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 
     // احفظ جميع التغييرات.
@@ -66,12 +67,12 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

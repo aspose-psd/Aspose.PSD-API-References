@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.TextVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على الإصدار النصي أو تعيينه.
+title: "TypeToolInfo6Resource.TextVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TypeToolInfo6Resource خاصية. يسترجع أو يضبط نسخة النص"
 type: docs
-weight: 130
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TextVersion property
 
-الحصول على الإصدار النصي أو تعيينه.
+يحصل أو يضبط نسخة النص.
 
 ```csharp
 public short TextVersion { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-النسخة النصية .
+نسخة النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

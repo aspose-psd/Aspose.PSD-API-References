@@ -1,56 +1,57 @@
 ---
-title: RasterImage.Rotate
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تدوير الصورة حول المركز .
+title: "RasterImage.Rotate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تدوير الصورة حول المركز"
 type: docs
-weight: 480
+weight: 490
 url: /ar/net/aspose.psd/rasterimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, bool, Color) {#rotate_1}
 
-تدوير الصورة حول المركز .
+يدور الصورة حول المركز.
 
 ```csharp
 public virtual void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| angle | Single | زاوية الدوران بالدرجات. ستدور القيم الموجبة في اتجاه عقارب الساعة. |
-| resizeProportionally | Boolean | إذا تم التعيين على`حقيقي` سيتم تغيير حجم صورتك وفقًا لإسقاطات المستطيل المستدير (نقاط الزاوية) في حالة أخرى والتي تترك الأبعاد دون تغيير ويتم تدوير محتويات الصورة الداخلية فقط. |
-| backgroundColor | Color | لون الخلفية. |
+| الزاوية | Single | زاوية الدوران بالدرجات. القيم الموجبة ستدور باتجاه عقارب الساعة. |
+| resizeProportionally | Boolean | إذا تم تعيينه إلى `true` سيتغير حجم الصورة وفقًا لإسقاطات المستطيل المدور (نقاط الزوايا)، وفي الحالة الأخرى تُترك الأبعاد دون تغيير وتُدور محتويات الصورة الداخلية فقط. |
+| backgroundColor | لون | لون الخلفية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | NotImplementedException |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-تدوير الصورة حول المركز .
+يدور الصورة حول المركز.
 
 ```csharp
 public virtual void Rotate(float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| angle | Single | زاوية الدوران بالدرجات. ستدور القيم الموجبة في اتجاه عقارب الساعة. |
+| الزاوية | Single | زاوية الدوران بالدرجات. القيم الموجبة ستدور باتجاه عقارب الساعة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

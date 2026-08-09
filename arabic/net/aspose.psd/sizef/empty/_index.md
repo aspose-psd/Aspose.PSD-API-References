@@ -1,23 +1,24 @@
 ---
-title: SizeF.Empty
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF ملكية. يحصل على مثيل جديد لملفSizeF هيكل لديهWidth وHeight تم ضبط القيم على الصفر.
+title: "SizeF.Empty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SizeF. تحصل على نسخة جديدة من هيكل SizeF التي لها قيم العرض والارتفاع مضبوطة على الصفر."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/sizef/empty/
 ---
+{{< psd/tize >}}
 ## SizeF.Empty property
 
-يحصل على مثيل جديد لملف[`SizeF`](../) هيكل لديه[`Width`](../width/) و[`Height`](../height/) تم ضبط القيم على الصفر.
+تحصل على نسخة جديدة من الهيكل [`SizeF`](../) الذي له قيم [`Width`](../width/) و[`Height`](../height/) مضبوطة على الصفر.
 
 ```csharp
 public static SizeF Empty { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

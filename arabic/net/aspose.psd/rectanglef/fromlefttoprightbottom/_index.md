@@ -1,34 +1,35 @@
 ---
-title: RectangleF.FromLeftTopRightBottom
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. ينشئ ملفRectangleF هيكل مع الزاوية العلوية اليسرى والزاوية اليمنى السفلية في المواقع المحددة.
+title: "RectangleF.FromLeftTopRightBottom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تنشئ هيكل RectangleF بزاوية علوية يسرى وزاوية سفلية يمنى في المواقع المحددة."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/rectanglef/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromLeftTopRightBottom method
 
-ينشئ ملف[`RectangleF`](../) هيكل مع الزاوية العلوية اليسرى والزاوية اليمنى السفلية في المواقع المحددة.
+ينشئ هيكل [`RectangleF`](../) بزاوية علوية يسرى وزاوية سفلية يمنى في المواقع المحددة.
 
 ```csharp
 public static RectangleF FromLeftTopRightBottom(float left, float top, float right, float bottom)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| left | Single | الإحداثي x للركن الأيسر العلوي للمنطقة المستطيلة. |
-| top | Single | إحداثي ص للركن الأيسر العلوي للمنطقة المستطيلة. |
-| right | Single | إحداثي x للركن الأيمن السفلي من المنطقة المستطيلة. |
-| bottom | Single | إحداثي ص للركن الأيمن السفلي من المنطقة المستطيلة. |
+| يسار | Single | إحداثي x للزاوية العلوية اليسرى للمنطقة المستطيلة. |
+| أعلى | Single | إحداثي y للزاوية العلوية اليسرى للمنطقة المستطيلة. |
+| يمين | Single | إحداثي x للزاوية السفلية اليمنى للمنطقة المستطيلة. |
+| أسفل | Single | إحداثي y للزاوية السفلية اليمنى للمنطقة المستطيلة. |
 
 ### قيمة الإرجاع
 
-الجديد[`RectangleF`](../) التي تخلقها هذه الطريقة.
+الكائن الجديد [`RectangleF`](../) الذي تنشئه هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

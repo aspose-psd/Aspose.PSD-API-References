@@ -1,31 +1,32 @@
 ---
-title: CmykColor.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykColor طريقة. تحديد ما إذا كان الملف المحددObject  يساوي هذا المثال.
+title: "CmykColor.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CmykColor. تحدد ما إذا كان الكائن المحدد Object يساوي هذه الحالة."
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.psd/cmykcolor/equals/
 ---
+{{< psd/tize >}}
 ## CmykColor.Equals method
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذا المثيل.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | Object | ال Object للمقارنة مع هذه المثيلة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد يساوي هذه المثيلة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [CmykColor](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

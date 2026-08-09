@@ -1,43 +1,44 @@
 ---
-title: Class FixedPointDecimal
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal فصل. العلامة العشرية الثابتة  مع عدد صحيح 16 بت وكسر 16 بت .
+title: "الفئة FixedPointDecimal"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal. عدد عشري ثابت النقطة مع عدد صحيح 16 بت وكسر 16 بت"
 type: docs
-weight: 3700
+weight: 4170
 url: /ar/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal class
 
-العلامة العشرية الثابتة ، مع عدد صحيح 16 بت وكسر 16 بت .
+عدد عشري ثابت الفاصلة، مع عدد صحيح 16‑بت وكسر 16‑بت.
 
 ```csharp
 public class FixedPointDecimal
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | يقوم بتهيئة مثيل جديد لملف`FixedPointDecimal` فئة . |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | يقوم بتهيئة مثيل جديد لملف`FixedPointDecimal` فصل. قسّم الكلمات العالية والمنخفضة لعدد صحيح 32 بت إلى رقم ذي نقطة ثابتة. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | يقوم بتهيئة مثيل جديد لملف`FixedPointDecimal` فئة . |
+| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | يُنشئ مثيلًا جديدًا للفئة `FixedPointDecimal`. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | يُنشئ مثيلًا جديدًا للفئة `FixedPointDecimal`. يقسم الكلمات العليا والسفلى لعدد صحيح 32-بت إلى عدد ثابت الفاصلة. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | يُنشئ مثيلًا جديدًا للفئة `FixedPointDecimal`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | الحصول على الكسر أو تعيينه . |
-| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | الحصول على أو تحديد العدد الصحيح . |
+| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | يحصل أو يضبط الكسر. |
+| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | يحصل أو يضبط العدد الصحيح. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | تحويل العلامة العشرية الثابتة الحالية إلى ضعف. |
+| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | يحوّل العدد الثابت الحالي إلى double. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

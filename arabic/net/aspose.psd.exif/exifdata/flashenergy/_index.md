@@ -1,28 +1,29 @@
 ---
-title: ExifData.FlashEnergy
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو ضبط طاقة الفلاش .
+title: "ExifData.FlashEnergy"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط طاقة الفلاش"
 type: docs
 weight: 260
 url: /ar/net/aspose.psd.exif/exifdata/flashenergy/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashEnergy property
 
-الحصول على أو ضبط طاقة الفلاش .
+يحصل أو يضبط طاقة الفلاش.
 
 ```csharp
 public TiffRational FlashEnergy { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-طاقة الفلاش .
+طاقة الفلاش.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

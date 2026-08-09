@@ -1,46 +1,47 @@
 ---
-title: Class Dimensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions فصل. تحتوي على أبعاد لكائن مرسوم .
+title: "الفئة Dimensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions. تحتوي على أبعاد كائن مرسوم."
 type: docs
-weight: 6060
+weight: 6560
 url: /ar/net/aspose.psd.xmp.types.complex.dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions class
 
-تحتوي على أبعاد لكائن مرسوم .
+يحتوي على أبعاد لكائن مرسوم.
 
 ```csharp
 public sealed class Dimensions : ComplexTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dimensions](dimensions/#constructor)() | يقوم بتهيئة مثيل جديد لملف`Dimensions` فئة . |
-| [Dimensions](dimensions/#constructor_1)(float, float) | يقوم بتهيئة مثيل جديد لملف`Dimensions` فئة . |
+| [Dimensions](dimensions/#constructor)() | ينشئ مثيلًا جديدًا للفئة `Dimensions`. |
+| [Dimensions](dimensions/#constructor_1)(float, float) | ينشئ مثيلًا جديدًا للفئة `Dimensions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | الحصول على الارتفاع أو تحديده . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على مساحة الاسم الافتراضية URI. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة . |
-| [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units/) { get; set; } | الحصول على الوحدات أو تعيينها . |
-| [Width](../../aspose.psd.xmp.types.complex.dimensions/dimensions/width/) { get; set; } | الحصول على العرض أو تحديده . |
+| [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | يحصل أو يعيّن الارتفاع. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على URI مساحة الاسم الافتراضية. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة. |
+| [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units/) { get; set; } | يحصل أو يضبط الوحدات. |
+| [Width](../../aspose.psd.xmp.types.complex.dimensions/dimensions/width/) { get; set; } | يحصل أو يعيّن العرض. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../)
 
 

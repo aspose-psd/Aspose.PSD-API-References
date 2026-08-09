@@ -1,35 +1,36 @@
 ---
-title: Lr32Resource.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: Lr32Resource طريقة. يحفظ سجل الطبقة .
+title: "Lr32Resource.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Lr32Resource. يحفظ سجل الطبقة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/save/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Save method
 
-يحفظ سجل الطبقة .
+يحفظ سجل الطبقة.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
-| psdVersion | Int32 | نسخة مديرية الأمن العام. |
+| streamContainer | StreamContainer | حاوية الدفق. |
+| psdVersion | Int32 | إصدار PSD. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotImplementedException | لم يتم تنفيذ حفظ قنوات 32 بت |
+| NotImplementedException | حفظ القنوات ذات 32 بت غير مُنفّذ |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Lr32Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

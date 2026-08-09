@@ -1,33 +1,34 @@
 ---
-title: StreamContainer.Seek
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer طريقة. يضبط الموضع ضمن الدفق الحالي.
+title: "StreamContainer.Seek"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StreamContainer. تحدد الموضع داخل الدفق الحالي"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/streamcontainer/seek/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Seek method
 
-يضبط الموضع ضمن الدفق الحالي.
+يضبط الموقع داخل التدفق الحالي.
 
 ```csharp
 public virtual long Seek(long offset, SeekOrigin origin)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| offset | Int64 | إزاحة بايت بالنسبة إلى*origin* معامل. تمثل هذه القيمة الإزاحة من موضع دفق البداية الذي تم تمريره في مُنشئ StreamContainer. |
-| origin | SeekOrigin | قيمة من النوعSeekOrigin تشير إلى النقطة المرجعية المستخدمة للحصول على المنصب الجديد. |
+| offset | Int64 | إزاحة بايت نسبة إلى المعامل *origin*. تمثل هذه القيمة الإزاحة من موضع الدفق الابتدائي الممرر في مُنشئ StreamContainer. |
+| origin | SeekOrigin | قيمة من نوع SeekOrigin تشير إلى نقطة المرجع المستخدمة للحصول على الموضع الجديد. |
 
 ### قيمة الإرجاع
 
-الموقف الجديد ضمن التيار الحالي.
+الموضع الجديد داخل الدفق الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SeekOrigin](../../seekorigin/)
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

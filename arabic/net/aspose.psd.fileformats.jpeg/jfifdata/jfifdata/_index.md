@@ -1,23 +1,24 @@
 ---
-title: JFIFData.JFIFData
-second_title: Aspose.PSD لمرجع .NET API
-description: JFIFData البناء. يقوم بتهيئة مثيل جديد لملفJFIFData فئة .
+title: "JFIFData.JFIFData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ JFIFData. يهيئ مثيلًا جديدًا من فئة JFIFData"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData constructor
 
-يقوم بتهيئة مثيل جديد لملف[`JFIFData`](../) فئة .
+يهيئ مثيلًا جديدًا من فئة [`JFIFData`](../).
 
 ```csharp
 public JFIFData()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JFIFData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SmartObjectLayer.DuplicateLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectLayer طريقة. ينشئ طبقة كائن ذكية جديدة عن طريق نسخ هذه الطبقة. لاحظ أنه بالنسبة للكائنات الذكية المضمنة  تتم مشاركة الصورة المضمنة. إذا كنت تريد نسخ استخدام الصورة المضمنةNewSmartObjectViaCopy طريقة .
+title: "SmartObjectLayer.DuplicateLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartObjectLayer. تنشئ طبقة كائن ذكي جديدة بنسخ هذه الطبقة. لاحظ أنه بالنسبة للكائنات الذكية المدمجة تُشارك الصورة المدمجة. إذا كنت تريد نسخ الصورة المدمجة استخدم طريقة NewSmartObjectViaCopy."
 type: docs
-weight: 80
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.DuplicateLayer method
 
-ينشئ طبقة كائن ذكية جديدة عن طريق نسخ هذه الطبقة. لاحظ أنه بالنسبة للكائنات الذكية المضمنة ، تتم مشاركة الصورة المضمنة. إذا كنت تريد نسخ استخدام الصورة المضمنة[`NewSmartObjectViaCopy`](../newsmartobjectviacopy/) طريقة .
+ينشئ طبقة كائن ذكي جديدة عن طريق نسخ هذه الطبقة. لاحظ أنه بالنسبة للكائنات الذكية المضمنة، يتم مشاركة الصورة المضمنة. إذا كنت تريد نسخ الصورة المضمنة استخدم طريقة [`NewSmartObjectViaCopy`](../newsmartobjectviacopy/) .
 
 ```csharp
 public SmartObjectLayer DuplicateLayer()
@@ -16,9 +17,9 @@ public SmartObjectLayer DuplicateLayer()
 
 ### قيمة الإرجاع
 
-المستنسخة[`SmartObjectLayer`](../) المثال.
+الكائن المستنسخ [`SmartObjectLayer`](../).
 
-### أمثلة
+## أمثلة
 
 توضح هذه الأمثلة كيفية نسخ طبقات الكائنات الذكية في صورة PSD.
 
@@ -36,7 +37,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // رقم الطبقة المراد نسخها
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -57,17 +58,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // دعنا نعكس صورة الكائن الذكي المضمنة (بالنسبة لصورة PSD الداخلية ، فإننا نعكس الطبقة الأولى فقط)
+            // لنقلب صورة الكائن الذكي المدمج (بالنسبة لصورة PSD الداخلية نقلب طبقتها الأولى فقط).
             InvertImage(innerImage);
 
-            // لنستبدل صورة الكائن الذكي المضمنة في طبقة PSD
+            // لنستبدل صورة الكائن الذكي المدمج في طبقة PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // تشارك الطبقة المكررة صورتها المضمنة مع الكائن الذكي الأصلي
-        // ويجب تحديثه بشكل صريح وإلا ستظل ذاكرة التخزين المؤقت للعرض دون تغيير.
+        // الطبقة المستنسخة تشارك صورتها المدمجة مع الكائن الذكي الأصلي.
+        // ويجب تحديثها صراحةً وإلا سيبقى مخزن العرض الخاص بها دون تغيير.
         // نقوم بتحديث كل كائن ذكي للتأكد من أن الطبقة الجديدة التي تم إنشاؤها بواسطة NewSmartObjectViaCopy
-        // لا تشارك الصورة المضمنة مع الآخرين.
+        // لا تشارك الصورة المدمجة مع الآخرين.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -75,7 +76,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// يعكس الصورة النقطية بما في ذلك صورة PSD.
+// يقلب الصورة النقطية بما في ذلك صورة PSD.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -89,7 +90,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// يعكس الصورة النقطية.
+// يعكس صورة النقطية.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -112,10 +113,10 @@ void AssertIsTrue(bool condition)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterCachedImage طريقة. قص الصورة.
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterCachedImage. قص الصورة"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
 قص الصورة.
@@ -14,13 +15,13 @@ url: /ar/net/aspose.psd/rastercachedimage/crop/
 public override void Crop(Rectangle rectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل. |
+| مستطيل | Rectangle | المستطيل. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي القدرة على اقتصاص الصورة حسب مستطيل معين.
+الكود التالي يوضح القدرة على قص الصورة بواسطة مستطيل محدد.
 
 ```csharp
 [C#]
@@ -70,19 +71,19 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
         top += layers[i].Height;
     }
 
-    // حفظ مديرية الأمن العام
+    // احفظ psd
     image.Save(exportPath, new PsdOptions());
 
-    // حفظ png
+    // احفظ png
     image.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* مساحة الاسم [Aspose.PSD](../../rastercachedimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

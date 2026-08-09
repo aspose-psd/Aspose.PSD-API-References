@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorFactor
-second_title: Aspose.PSD لمرجع .NET API
-description: BilateralSmoothingFilterOptions ملكية. الحصول على عامل اللون أو تعيينه .
+title: "BilateralSmoothingFilterOptions.ColorFactor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "BilateralSmoothingFilterOptions خاصية. يحصل أو يضبط عامل اللون"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorFactor property
 
-الحصول على عامل اللون أو تعيينه .
+يحصل أو يضبط معامل اللون.
 
 ```csharp
 public double ColorFactor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عامل اللون .
+عامل اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BilateralSmoothingFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

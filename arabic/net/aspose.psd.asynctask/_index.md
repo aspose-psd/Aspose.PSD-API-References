@@ -1,29 +1,30 @@
 ---
-title: Aspose.PSD.AsyncTask
-second_title: Aspose.PSD لمرجع .NET API
-description: يعالج مساحة الاسم معالجة AsyncTask.
+title: "Aspose.PSD.AsyncTask"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المجال يتعامل مع معالجة AsyncTask"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.asynctask/
 ---
-يعالج مساحة الاسم معالجة AsyncTask.
+{{< psd/tize >}}
+مساحة الاسم تتعامل مع معالجة AsyncTask.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [AsyncTask](./asynctask/) | فئة المصنع الثابتة لإنشاء المهام غير المتزامنة |
-| [AsyncTaskAction](./asynctaskaction/) | مفوض العملية الطويلة للمهمة غير المتزامنة بدون أي نتيجة. |
-| [AsyncTaskException](./asynctaskexception/) | استثناء للمهمة غير المتزامنة. |
-| [AsyncTaskFunc](./asynctaskfunc/) | مفوض العملية الطويلة للمهمة غير المتزامنة ذات النوع العام. |
+| [AsyncTask](./asynctask/) | الفئة الثابتة للمصنع لإنشاء المهام غير المتزامنة |
+| [AsyncTaskAction](./asynctaskaction/) | المندوب للعمليات الطويلة للمهمة غير المتزامنة دون أي نتيجة. |
+| [AsyncTaskException](./asynctaskexception/) | الاستثناء للمهمة غير المتزامنة. |
+| [AsyncTaskFunc](./asynctaskfunc/) | المندوب الطويل للعمليات للمهمة غير المتزامنة مع نوع النتيجة العام. |
 | [AsyncTaskProgress](./asynctaskprogress/) | يوفر معلومات التقدم للمهمة غير المتزامنة. |
-| [CompleteCallback](./completecallback/) | وظيفة رد الاتصال لاستلام حدث إكمال المهمة. |
-| [ProgressCallback](./progresscallback/) | وظيفة رد الاتصال لاستلام حدث تغيير تقدم المهمة. |
-## واجهات
+| [CompleteCallback](./completecallback/) | دالة رد الاتصال لتلقي حدث إكمال المهمة. |
+| [ProgressCallback](./progresscallback/) | دالة رد الاتصال لتلقي حدث تغيير تقدم المهمة. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| الواجهة | الوصف |
 | --- | --- |
-| [IAsyncTask](./iasynctask/) | المهمة غير المتزامنة . |
+| [IAsyncTask](./iasynctask/) | المهمة غير المتزامنة. |
 | [IAsyncTaskState](./iasynctaskstate/) | يوفر الوصول إلى حالة المهمة غير المتزامنة. |
 
 

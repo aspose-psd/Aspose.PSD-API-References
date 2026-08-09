@@ -1,28 +1,29 @@
 ---
-title: GdFlResource.TransparencyPoints
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. يحصل على نقاط الشفافية .
+title: "GdFlResource.TransparencyPoints"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. تحصل على نقاط الشفافية"
 type: docs
-weight: 170
+weight: 220
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.TransparencyPoints property
 
-يحصل على نقاط الشفافية .
+يحصل على نقاط الشفافية.
 
 ```csharp
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نقاط الشفافية .
+نقاط الشفافية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientTransparencyPoint](../../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/)
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

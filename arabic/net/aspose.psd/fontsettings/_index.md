@@ -1,14 +1,15 @@
 ---
-title: Class FontSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FontSettings فصل. إعدادات خط العارض لتنسيقات PSD العامة.
+title: "فئة FontSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FontSettings. إعدادات الخط لمُعالج صيغ PSD المتجهة العامة"
 type: docs
-weight: 4290
+weight: 4760
 url: /ar/net/aspose.psd/fontsettings/
 ---
+{{< psd/tize >}}
 ## FontSettings class
 
-إعدادات خط العارض لتنسيقات PSD العامة.
+إعدادات خط عارض صيغ المتجهات العامة لـ PSD.
 
 ```csharp
 public static class FontSettings
@@ -16,31 +17,33 @@ public static class FontSettings
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [DefaultFontName](../../aspose.psd/fontsettings/defaultfontname/) { get; set; } | الحصول على الاسم الافتراضي للخط أو تعيينه. |
+| static [DefaultFontName](../../aspose.psd/fontsettings/defaultfontname/) { get; set; } | يحصل أو يعيّن الاسم الافتراضي للخط. |
+| static [GetSystemAlternativeFont](../../aspose.psd/fontsettings/getsystemalternativefont/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [get alternative font]. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | static [ClearFontReplacements](../../aspose.psd/fontsettings/clearfontreplacements/)() | يمسح جميع استبدالات الخطوط |
-| static [GetAdobeFontName](../../aspose.psd/fontsettings/getadobefontname/)(string) | يحصل على اسم خط adobe حسب اسم عائلة الخط. |
+| static [GetAdobeFontName](../../aspose.psd/fontsettings/getadobefontname/)(string) | يحصل على اسم خط أدوبي بناءً على اسم عائلة الخط. |
 | static [GetDefaultFontsFolders](../../aspose.psd/fontsettings/getdefaultfontsfolders/)() | يحصل على مجلدات الخطوط الافتراضية. |
-| static [GetFontReplacements](../../aspose.psd/fontsettings/getfontreplacements/)(string) | يحصل على صفيف بدائل الخط بواسطة اسم الخط |
-| static [GetFontsFolders](../../aspose.psd/fontsettings/getfontsfolders/)() | يحصل على نسخة من المصفوفة التي تحتوي على قائمة المجلدات حيث يبحث Aspose.Words عن خطوط TrueType . |
-| static [GetReplacementFont](../../aspose.psd/fontsettings/getreplacementfont/)(string) | الحصول على خط الاستبدال الأنسب . إذا لم يتم السماح بجميع البدائل ، فسيتم إرجاع الخط المسموح به والمتوفر أولاً. |
-| static [IsFontAllowed](../../aspose.psd/fontsettings/isfontallowed/)(string) | تحديد ما إذا كان [الخط مسموحًا به] [اسم الخط المحدد] . |
-| static [Reset](../../aspose.psd/fontsettings/reset/)() | يعيد تعيين مجلد الخطوط واسم الخط الافتراضي إلى النظام الافتراضي. |
-| static [SetAllowedFonts](../../aspose.psd/fontsettings/setallowedfonts/)(string[]) | يقيد الخط باستخدام قائمة الخطوط. يرجى التحقق من أسماء الخطوط الحقيقية قبل قيود قم بتعيين قائمة الخطوط المسموح بها على Null لإزالة القيود |
-| static [SetFontReplacements](../../aspose.psd/fontsettings/setfontreplacements/)(string, string[]) | يضبط قائمة استبدال الخطوط. إذا كان الخط غير مسموح به فسيتم العثور على بديل . سيتم استخدام أول خط في القائمة أولاً. إذا تم تقييده أيضًا ، فسيتم تحديد الخط التالي من القائمة . إذا لم يتم استبدال الخط أو لم يتم السماح لجميع البدائل ، فسيتم استخدام الخط المسموح به أولاً من قائمة الخطوط المسموح بها. حاول استخدام الخط الافتراضي للنظام حتى لو لم يكن مسموحًا به. |
-| static [SetFontsFolder](../../aspose.psd/fontsettings/setfontsfolder/)(string) | هذا اختصار لـ[`SetFontsFolders`](./setfontsfolders/) لتعيين دليل خطوط واحد فقط. لم يتم إجراء عمليات تدقيق على مجلد الخطوط. |
-| static [SetFontsFolders](../../aspose.psd/fontsettings/setfontsfolders/)(string[], bool) | يضبط المجلدات التي يتم تحميل خطوط TrueType منها ويمسح جميع الخطوط المحملة. |
-| static [UpdateFonts](../../aspose.psd/fontsettings/updatefonts/)() | يقوم بتحديث ذاكرة التخزين المؤقت للخطوط لملفات PSD التي تحتوي على طبقات نصية. تضمن هذه الطريقة أن الخطوط من مجلد الخطوط التي تستخدم طريقة FontSettings.SetFontsFolder (FontSettings) أو بعد إعادة تعيين الخطوط باستخدام FontSettings.Reset () ستؤخذ في الاعتبار عند معالجة ملفات PSD. يرجى استخدام هذه الطريقة في كل مرة عند استدعاء FontSettings.SetFontsFolder (FontSettings) أو FontSettings.Reset () لصور PSD. بدون استدعاء هذه الطريقة ، لا يوجد ضمان بأنه سيتم تحديث الخطوط. |
+| static [GetFontReplacements](../../aspose.psd/fontsettings/getfontreplacements/)(string) | يحصل على مصفوفة استبدالات الخط بناءً على اسم الخط |
+| static [GetFontsFolders](../../aspose.psd/fontsettings/getfontsfolders/)() | يحصل على نسخة من المصفوفة التي تحتوي على قائمة المجلدات التي يبحث فيها Aspose.Words عن خطوط TrueType. |
+| static [GetReplacementFont](../../aspose.psd/fontsettings/getreplacementfont/)(string) | يحصل على الخط البديل الأنسب. إذا لم يُسمح بجميع الاستبدالات فسيتم إرجاع أول خط مسموح ومتوفر. إذا لم تكن هناك خطوط متوفرة فسيتم إرجاع الخط من الوسيط. |
+| static [IsFontAllowed](../../aspose.psd/fontsettings/isfontallowed/)(string) | يحدد ما إذا كان [is font allowed] [اسم الخط المحدد]. |
+| static [RemoveFontCacheFile](../../aspose.psd/fontsettings/removefontcachefile/)() | يزيل ملف ذاكرة التخزين المؤقت للخط. |
+| static [Reset](../../aspose.psd/fontsettings/reset/)() | يعيد تعيين مجلد الخطوط واسم الخط الافتراضي إلى الإعداد الافتراضي للنظام. |
+| static [SetAllowedFonts](../../aspose.psd/fontsettings/setallowedfonts/)(string[]) | يقيد استخدام الخط بواسطة قائمة الخطوط. يرجى التحقق من أسماء الخطوط الفعلية قبل التقييد. اضبط قائمة الخطوط المسموح بها إلى Null لإزالة القيود. |
+| static [SetFontReplacements](../../aspose.psd/fontsettings/setfontreplacements/)(string, string[]) | يضبط قائمة استبدال الخطوط. إذا لم يُسمح بالخط فسيتم العثور على بديل. سيُستخدم أول خط في القائمة أولاً. إذا كان مقيدًا أيضًا، فسيتم اختيار الخط التالي من القائمة. إذا لم يكن للخط بدائل أو لم تُسمح جميع البدائل فسيُستخدم أول خط مسموح من قائمة الخطوط المسموح بها. إذا لم تكن هناك خطوط مسموح بها ومتوفرة فستحاول المكتبة استخدام الخط الافتراضي للنظام حتى وإن لم يُسمح به. |
+| static [SetFontsFolder](../../aspose.psd/fontsettings/setfontsfolder/)(string) | هذا اختصار إلى [`SetFontsFolders`](./setfontsfolders/) لتعيين دليل خط واحد فقط. لا يتم إجراء أي فحص على مجلد الخطوط. |
+| static [SetFontsFolders](../../aspose.psd/fontsettings/setfontsfolders/)(string[], bool) | يضبط المجلدات التي تُحمَّل منها خطوط TrueType ويمسح جميع الخطوط المحملة. لا يتم إجراء أي فحص على مجلدات الخطوط. |
+| static [UpdateFonts](../../aspose.psd/fontsettings/updatefonts/)() | يقوم بتحديث ذاكرة التخزين المؤقت للخطوط لملفات PSD التي تحتوي على طبقات نصية. يضمن هذه الطريقة أن الخطوط من المجلد fontsFolder باستخدام الطريقة FontSettings.SetFontsFolder(fontsFolder) أو بعد إعادة تعيين الخطوط باستخدام FontSettings.Reset() سيتم أخذها في الاعتبار عند معالجة ملفات PSD. يرجى استخدام هذه الطريقة في كل مرة يتم فيها استدعاء FontSettings.SetFontsFolder(fontsFolder) أو FontSettings.Reset() لصور PSD. بدون استدعاء هذه الطريقة لا يوجد ضمان بتحديث الخطوط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

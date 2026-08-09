@@ -1,32 +1,33 @@
 ---
-title: SmartObjectLayer.Contents
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectLayer ملكية. الحصول على أو تعيين محتويات طبقة الكائن الذكي. محتويات الكائن الذكي المضمنة هي ملف الصورة الخام المضمنData وخصائصه . محتويات الكائن الذكي المرتبط هي المحتوى الأولي لملف الصورة المرتبط إذا كان متاحًا وخصائصهLiFeDataSource . لا ندعم التحميل من Adobe Photoshop  مكتبة الرسومات عندماIsLibraryLink هو true . بالنسبة لملفات الارتباط العادية  نستخدم في البدايةRelativePath للبحث عن الملف نسبيًا في مسار الصورة المصدرSourceImagePath  إذا لم يكن متوفرًا ننظر إليهFullPath  إذا لم يكن كذلك  فنحن نبحث عن ملف الارتباط في نفس الدليل حيث توجد صورتناSourceImagePath .
+title: "SmartObjectLayer.Contents"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartObjectLayer. تحصل أو تعين محتويات طبقة الكائن الذكي. محتويات الكائن الذكي المضمن هي ملف الصورة الخام المضمن Data وخصائصه. محتويات الكائن الذكي المرتبط هي المحتوى الخام لملف الصورة المرتبطة إذا كان متاحًا وخصائصه LiFeDataSource. نحن لا ندعم التحميل من مكتبة رسومات Adobe Photoshop عندما تكون IsLibraryLink صحيحة. بالنسبة لملفات الروابط العادية، نستخدم أولاً RelativePath للبحث عن الملف بالنسبة إلى مسار صورة المصدر SourceImagePath؛ إذا لم يكن متاحًا نبحث في FullPath؛ إذا لم يكن كذلك نبحث عن ملف الرابط في نفس الدليل الذي توجد فيه صورتنا SourceImagePath"
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.Contents property
 
-الحصول على أو تعيين محتويات طبقة الكائن الذكي. محتويات الكائن الذكي المضمنة هي ملف الصورة الخام المضمن:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) وخصائصه . محتويات الكائن الذكي المرتبط هي المحتوى الأولي لملف الصورة المرتبط إذا كان متاحًا وخصائصه:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . لا ندعم التحميل من Adobe� Photoshop� �� مكتبة الرسومات عندما[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) هو true . بالنسبة لملفات الارتباط العادية ، نستخدم في البداية[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) للبحث عن الملف نسبيًا في مسار الصورة المصدرSourceImagePath ، إذا لم يكن متوفرًا ننظر إليه[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) ، إذا لم يكن كذلك ، فنحن نبحث عن ملف الارتباط في نفس الدليل حيث توجد صورتنا:SourceImagePath .
+يحصل أو يعين محتويات طبقة الكائن الذكي. محتويات الكائن الذكي المضمن هي ملف الصورة الخام المضمن: [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) وخصائصه. محتويات الكائن الذكي المرتبط هي المحتوى الخام لملف الصورة المرتبطة إذا كان متاحًا وخصائصه: [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). نحن لا ندعم التحميل من مكتبة رسومات Adobe Photoshop عندما يكون [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) صحيحًا. بالنسبة لملفات الروابط العادية، نستخدم أولاً [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) للبحث عن الملف بالنسبة إلى مسار صورة المصدر SourceImagePath، إذا لم يكن متاحًا نبحث في [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/)، إذا لم يكن كذلك نبحث عن ملف الرابط في نفس الدليل حيث توجد صورتنا: SourceImagePath.
 
 ```csharp
 public byte[] Contents { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ملفbyte[] محتويات طبقة الكائن الذكي.
+محتويات طبقة الكائن الذكي byte[]
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotSupportedException | لا يمكن الحصول على محتويات من مكتبة Adobe� Photoshop� ��. |
+| NotSupportedException | لا يمكن الحصول على المحتويات من مكتبة Adobe Photoshop. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم الكائنات الذكية المضمنة.
+الكود التالي يوضح دعم الكائنات الذكية المدمجة.
 
 ```csharp
 [C#]
@@ -39,7 +40,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// يوضح هذا المثال كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات المضمنة الأصلية للكائن الذكي.
+// هذا المثال يوضح كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات الأصلية المدمجة للكائن الذكي.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -68,10 +69,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // لنقوم بتصدير صورة الكائن الذكي المضمنة من طبقة الكائن الذكي PSD
+        // لنقوم بتصدير صورة الكائن الذكي المدمج من طبقة الكائن الذكي في PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة الأصلية بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة الأصلية محفوظة بشكل صحيح
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -79,7 +80,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // لنقلب صورة الكائن الذكية الأصلية
+            // لنقلب صورة الكائن الذكي الأصلية
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -90,21 +91,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // لنستبدل صورة الكائن الذكي المضمنة في طبقة PSD
+            // لنستبدل صورة الكائن الذكي المدمج في طبقة PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة المحدثة بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة المحدثة محفوظة بشكل صحيح
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

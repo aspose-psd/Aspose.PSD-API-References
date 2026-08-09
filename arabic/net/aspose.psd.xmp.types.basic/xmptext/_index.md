@@ -1,41 +1,42 @@
 ---
-title: Class XmpText
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpText فصل. يمثل النوع الأساسي لنص XMP .
+title: "الفئة XmpText"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Types.Basic.XmpText. تمثّل نوع النص الأساسي XMP"
 type: docs
-weight: 5980
+weight: 6480
 url: /ar/net/aspose.psd.xmp.types.basic/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText class
 
-يمثل النوع الأساسي لنص XMP .
+يمثل نوع XMP Text الأساسي.
 
 ```csharp
 public class XmpText : XmpTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpText](xmptext/)(string) | يقوم بتهيئة مثيل جديد لملف`XmpText` فئة . |
+| [XmpText](xmptext/)(string) | يُهيئ مثيلًا جديدًا من الفئة `XmpText`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | الحصول على القيمة النصية أو تعيينها. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | يحصل أو يعيّن قيمة النص. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

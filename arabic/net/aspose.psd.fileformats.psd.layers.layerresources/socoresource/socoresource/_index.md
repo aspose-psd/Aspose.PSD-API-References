@@ -1,23 +1,24 @@
 ---
-title: SoCoResource.SoCoResource
-second_title: Aspose.PSD لمرجع .NET API
-description: SoCoResource البناء. يقوم بتهيئة مثيل جديد لملفSoCoResource فئة .
+title: "SoCoResource.SoCoResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "SoCoResource منشئ. ينشئ مثلاً جديداً من فئة SoCoResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`SoCoResource`](../) فئة .
+ينشئ مثلاً جديداً من فئة [`SoCoResource`](../).
 
 ```csharp
 public SoCoResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SoCoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,127 +1,128 @@
 ---
-title: Graphics.FillPolygon
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يملأ الجزء الداخلي من المضلع المحدد بواسطة مصفوفة من النقاط المحددة بواسطةPointF الهياكل وAlternate .
+title: "Graphics.FillPolygon"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. تملأ داخل مضلع معرف بواسطة مصفوفة من النقاط المحددة بهياكل PointF و Alternate"
 type: docs
-weight: 380
+weight: 390
 url: /ar/net/aspose.psd/graphics/fillpolygon/
 ---
+{{< psd/tize >}}
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-يملأ الجزء الداخلي من المضلع المحدد بواسطة مصفوفة من النقاط المحددة بواسطة[`PointF`](../../pointf/) الهياكل وAlternate .
+تملأ داخل مضلع معرف بواسطة مصفوفة من النقاط المحددة بهياكل [`PointF`](../../pointf/) و Alternate.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)التي تحدد خصائص التعبئة. |
-| points | PointF[] | مصفوفة من[`PointF`](../../pointf/) الهياكل التي تمثل رؤوس المضلع المراد تعبئته. |
+| brush | Brush | [`Brush`](../../brush/) الذي يحدد خصائص التعبئة. |
+| points | PointF[] | مصفوفة من هياكل [`PointF`](../../pointf/) التي تمثل رؤوس المضلع المراد ملئه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *brush* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-يملأ الجزء الداخلي من المضلع المحدد بواسطة مصفوفة من النقاط المحددة بواسطة[`PointF`](../../pointf/) الهياكل باستخدام وضع التعبئة المحدد.
+تملأ داخل مضلع معرف بواسطة مصفوفة من النقاط المحددة بهياكل [`PointF`](../../pointf/) باستخدام وضع الملء المحدد.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)التي تحدد خصائص التعبئة. |
-| points | PointF[] | مصفوفة من[`PointF`](../../pointf/) الهياكل التي تمثل رؤوس المضلع المراد تعبئته. |
-| fillMode | FillMode | عضو في[`FillMode`](../../fillmode/) التعداد الذي يحدد نمط التعبئة. |
+| brush | Brush | [`Brush`](../../brush/) الذي يحدد خصائص التعبئة. |
+| points | PointF[] | مصفوفة من هياكل [`PointF`](../../pointf/) التي تمثل رؤوس المضلع المراد ملئه. |
+| fillMode | FillMode | عضو من تعداد [`FillMode`](../../fillmode/) الذي يحدد نمط الملء. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *brush* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-يملأ الجزء الداخلي من المضلع المحدد بواسطة مصفوفة من النقاط المحددة بواسطة[`Point`](../../point/) الهياكل وAlternate .
+تملأ داخل مضلع معرف بواسطة مصفوفة من النقاط المحددة بهياكل [`Point`](../../point/) و Alternate.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)التي تحدد خصائص التعبئة. |
-| points | Point[] | مصفوفة من[`Point`](../../point/) الهياكل التي تمثل رؤوس المضلع المراد تعبئته. |
+| brush | Brush | [`Brush`](../../brush/) الذي يحدد خصائص التعبئة. |
+| points | Point[] | مصفوفة من هياكل [`Point`](../../point/) التي تمثل رؤوس المضلع المراد ملئه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *brush* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-يملأ الجزء الداخلي من المضلع المحدد بواسطة مصفوفة من النقاط المحددة بواسطة[`Point`](../../point/) الهياكل باستخدام وضع التعبئة المحدد.
+تملأ داخل مضلع معرف بواسطة مصفوفة من النقاط المحددة بهياكل [`Point`](../../point/) باستخدام وضع الملء المحدد.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)التي تحدد خصائص التعبئة. |
-| points | Point[] | مصفوفة من[`Point`](../../point/) الهياكل التي تمثل رؤوس المضلع المراد تعبئته. |
-| fillMode | FillMode | عضو في[`FillMode`](../../fillmode/) التعداد الذي يحدد نمط التعبئة. |
+| brush | Brush | [`Brush`](../../brush/) الذي يحدد خصائص التعبئة. |
+| points | Point[] | مصفوفة من هياكل [`Point`](../../point/) التي تمثل رؤوس المضلع المراد ملئه. |
+| fillMode | FillMode | عضو من تعداد [`FillMode`](../../fillmode/) الذي يحدد نمط الملء. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *brush* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

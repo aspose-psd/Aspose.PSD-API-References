@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisteredFormats
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageLoadersRegistry ملكية. الحصول على تنسيقات تحميل الصور المسجلة.
+title: "ImageLoadersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageLoadersRegistry. تحصل على تنسيقات تحميل الصور المسجلة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/imageloadersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredFormats property
 
-الحصول على تنسيقات تحميل الصور المسجلة.
+يحصل على صيغ تحميل الصور المسجلة.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Property_Value
+### Property Value
 
 تنسيقات تحميل الصور المسجلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageloadersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

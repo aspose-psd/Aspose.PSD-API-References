@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetKey
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يضبط المفتاح الموسيقي للصوت.
+title: "XmpDynamicMediaPackage.SetKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. تُعيّن المفتاح الموسيقي للصوت"
 type: docs
 weight: 260
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setkey/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetKey method
 
 يضبط المفتاح الموسيقي للصوت.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setkey/
 public void SetKey(string key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح الموسيقي للصوت. واحد من: C و C # و D و D # و E و F و F # و G و G # و A و A # و B. |
+| المفتاح | String | المفتاح الموسيقي للصوت. أحد القيم: C، C#، D، D#، E، F، F#، G، G#، A، A#، و B. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

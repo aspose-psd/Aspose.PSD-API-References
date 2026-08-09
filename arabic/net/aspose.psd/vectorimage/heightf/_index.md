@@ -1,27 +1,28 @@
 ---
-title: VectorImage.HeightF
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorImage ملكية. الحصول على ارتفاع الكائن بالبوصة .
+title: "VectorImage.HeightF"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorImage. يحصل على ارتفاع الكائن بالبوصة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/vectorimage/heightf/
 ---
+{{< psd/tize >}}
 ## VectorImage.HeightF property
 
-الحصول على ارتفاع الكائن بالبوصة .
+يحصل على ارتفاع الكائن، بالبوصة.
 
 ```csharp
 public virtual float HeightF { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ارتفاع الجسم بالبوصة .
+ارتفاع الكائن، بالبوصة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorImage](../)
-* مساحة الاسم [Aspose.PSD](../../vectorimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

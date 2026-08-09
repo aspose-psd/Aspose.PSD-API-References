@@ -1,27 +1,28 @@
 ---
-title: IObjectWithSizeF.HeightF
-second_title: Aspose.PSD لمرجع .NET API
-description: IObjectWithSizeF ملكية. الحصول على ارتفاع الكائن بالبوصة .
+title: "IObjectWithSizeF.HeightF"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IObjectWithSizeF. تحصل على ارتفاع الكائن بالبوصة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.interfaces/iobjectwithsizef/heightf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.HeightF property
 
-الحصول على ارتفاع الكائن بالبوصة .
+يحصل على ارتفاع الكائن، بالبوصة.
 
 ```csharp
 public float HeightF { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ارتفاع الجسم بالبوصة .
+ارتفاع الكائن، بالبوصة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IObjectWithSizeF](../)
-* مساحة الاسم [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

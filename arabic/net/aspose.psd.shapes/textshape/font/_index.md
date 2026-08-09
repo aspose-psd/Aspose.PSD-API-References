@@ -1,28 +1,29 @@
 ---
-title: TextShape.Font
-second_title: Aspose.PSD لمرجع .NET API
-description: TextShape ملكية. الحصول على أو تحديد الخط المستخدم في رسم النص.
+title: "TextShape.Font"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextShape. تحصل أو تعين الخط المستخدم لرسم النص"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
-الحصول على أو تحديد الخط المستخدم في رسم النص.
+يحصل أو يضبط الخط المستخدم لرسم النص.
 
 ```csharp
 public Font Font { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الخط المستخدم في رسم النص.
+الخط المستخدم لرسم النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../textshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum Jpeg2000Codec
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000Codec تعداد. يمثل نوع الصورة JPEG2000
+title: "تعداد Jpeg2000Codec"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000Codec تعداد. يمثل نوع صورة JPEG2000"
 type: docs
-weight: 1540
+weight: 1550
 url: /ar/net/aspose.psd.fileformats.jpeg2000/jpeg2000codec/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Codec enumeration
 
-يمثل نوع الصورة JPEG2000
+يمثل نوع صورة JPEG2000
 
 ```csharp
 public enum Jpeg2000Codec
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| J2K | `0` | تنسيق برنامج الترميز j2k |
-| Jp2 | `1` | تنسيق برنامج الترميز JP2 |
-| Jpt | `2` | تنسيق برنامج الترميز JPT (غير مدعوم) |
+| J2K | `0` | تنسيق الترميز j2k |
+| Jp2 | `1` | تنسيق الترميز JP2 |
+| Jpt | `2` | تنسيق الترميز JPT (غير مدعوم) |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
+* assembly [Aspose.PSD](../../)
 
 

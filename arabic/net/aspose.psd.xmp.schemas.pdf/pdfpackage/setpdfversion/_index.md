@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetPdfVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfPackage طريقة. يحدد إصدار PDF .
+title: "PdfPackage.SetPdfVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PdfPackage. تحدد إصدار PDF"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setpdfversion/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetPdfVersion method
 
-يحدد إصدار PDF .
+يضبط إصدار PDF.
 
 ```csharp
 public void SetPdfVersion(string version)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| version | String | نسخة PDF ، على سبيل المثال: 1.0 ، 1.3 وما إلى ذلك. |
+| version | String | إصدار PDF، على سبيل المثال: 1.0، 1.3 إلخ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

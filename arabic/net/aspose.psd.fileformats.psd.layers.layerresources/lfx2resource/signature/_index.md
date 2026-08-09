@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: Lfx2Resource ملكية. يحصل على توقيع مورد الطبقة.
+title: "Lfx2Resource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Lfx2Resource. تحصل على توقيع مورد الطبقة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/signature/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.Signature property
 
 يحصل على توقيع مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/signa
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Lfx2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

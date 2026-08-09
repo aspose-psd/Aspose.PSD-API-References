@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: Aspose.PSD لمرجع .NET API
-description: UnitArrayStructure ملكية. يحصل على عدد القيمة .
+title: "UnitArrayStructure.ValueCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnitArrayStructure. تحصل على عدد القيم"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
-يحصل على عدد القيمة .
+يحصل على عدد القيم.
 
 ```csharp
 public int ValueCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
 عدد القيم في بنية مصفوفة الوحدة.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تواقيع ObAr و UnFl.
+الكود التالي يوضح دعم توقيعات ObAr و UnFl.
 
 ```csharp
 [C#]
@@ -72,10 +73,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitArrayStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

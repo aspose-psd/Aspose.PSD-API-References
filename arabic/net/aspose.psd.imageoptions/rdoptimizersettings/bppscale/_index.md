@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.BppScale
-second_title: Aspose.PSD لمرجع .NET API
-description: RdOptimizerSettings ملكية. الحصول على عامل مقياس BPP بت لكل بكسل أو تعيينه.
+title: "RdOptimizerSettings.BppScale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RdOptimizerSettings. يحصل على أو يضبط عامل مقياس BPP (البت لكل بكسل)"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.imageoptions/rdoptimizersettings/bppscale/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppScale property
 
-الحصول على عامل مقياس BPP (بت لكل بكسل) أو تعيينه.
+يحصل أو يعيّن معامل مقياس BPP (البت لكل بكسل).
 
 ```csharp
 public int BppScale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مقياس BPP .
+مقياس BPP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RdOptimizerSettings](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

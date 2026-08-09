@@ -1,43 +1,44 @@
 ---
-title: PngOptions.PngOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: PngOptions البناء. يقوم بتهيئة مثيل جديد لملفPngOptions فئة .
+title: "PngOptions.PngOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PngOptions. يهيئ نسخة جديدة من فئة PngOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/pngoptions/pngoptions/
 ---
+{{< psd/tize >}}
 ## PngOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PngOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PngOptions`](../).
 
 ```csharp
 public PngOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PngOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pngoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PngOptions(PngOptions) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PngOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PngOptions`](../).
 
 ```csharp
 public PngOptions(PngOptions pngOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | pngOptions | PngOptions | خيارات PNG. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PngOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pngoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

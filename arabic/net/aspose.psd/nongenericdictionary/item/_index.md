@@ -1,31 +1,32 @@
 ---
-title: NonGenericDictionary.Item
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary ملكية. الحصول على العنصر بالمفتاح المحدد أو تعيينه.
+title: "NonGenericDictionary.Item"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية NonGenericDictionary. تحصل على العنصر أو تعينه بالمفتاح المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/nongenericdictionary/item/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary indexer
 
-الحصول على العنصر بالمفتاح المحدد أو تعيينه.
+يحصل أو يضبط العنصر بالمفتاح المحدد.
 
 ```csharp
 public object this[object key] { get; set; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| key | مفتاح العنصر. |
+| المفتاح | مفتاح العنصر. |
 
 ### قيمة الإرجاع
 
 العنصر بالمفتاح المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

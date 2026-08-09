@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectArea
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد مجال الموضوع .
+title: "ExifData.SubjectArea"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط منطقة الموضوع"
 type: docs
 weight: 990
 url: /ar/net/aspose.psd.exif/exifdata/subjectarea/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectArea property
 
-الحصول على أو تحديد مجال الموضوع .
+الحصول أو تعيين منطقة الموضوع.
 
 ```csharp
 public ushort[] SubjectArea { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مجال الموضوع .
+منطقة الموضوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

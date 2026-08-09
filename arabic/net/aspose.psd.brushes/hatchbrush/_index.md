@@ -1,74 +1,75 @@
 ---
-title: Class HatchBrush
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Brushes.HatchBrush فصل. يحدد فرشاة مستطيلة بنمط فتحة ولون في المقدمة ولون للخلفية. لا يمكن توريث هذه الفئة.
+title: "الفئة HatchBrush"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Brushes.HatchBrush. تُعرّف فرشاة مستطيلة بنمط hatch style ولون أمامي ولون خلفي. لا يمكن وراثة هذه الفئة."
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.brushes/hatchbrush/
 ---
+{{< psd/tize >}}
 ## HatchBrush class
 
-يحدد فرشاة مستطيلة بنمط فتحة ولون في المقدمة ولون للخلفية. لا يمكن توريث هذه الفئة.
+يحدد فرشاة مستطيلة ذات نمط تظليل، ولون أمامي، ولون خلفية. لا يمكن وراثة هذه الفئة.
 
 ```csharp
 public sealed class HatchBrush : Brush
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HatchBrush](hatchbrush/)() | Default_Constructor |
+| [HatchBrush](hatchbrush/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.psd.brushes/hatchbrush/backgroundcolor/) { get; set; } | الحصول على أو تحديد لون المسافات بين خطوط التظليل . |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل قد تم التخلص منه. |
-| [ForegroundColor](../../aspose.psd.brushes/hatchbrush/foregroundcolor/) { get; set; } | الحصول على أو تحديد لون خطوط التظليل . |
-| [HatchStyle](../../aspose.psd.brushes/hatchbrush/hatchstyle/) { get; set; } | الحصول على أو تحديد نمط الفتحة لهذه الفرشاة. |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | الحصول على عتامة الفرشاة أو ضبطها. يجب أن تكون القيمة بين 0 و 1. تعني القيمة 0 أن الفرشاة مرئية بالكامل ، وتعني القيمة 1 أن الفرشاة غير شفافة تمامًا. |
+| [BackgroundColor](../../aspose.psd.brushes/hatchbrush/backgroundcolor/) { get; set; } | يحصل أو يعيّن لون الفراغات بين خطوط hatch. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن قد تم التخلص منه. |
+| [ForegroundColor](../../aspose.psd.brushes/hatchbrush/foregroundcolor/) { get; set; } | يحصل أو يعيّن لون خطوط hatch. |
+| [HatchStyle](../../aspose.psd.brushes/hatchbrush/hatchstyle/) { get; set; } | يحصل أو يعيّن نمط hatch لهذه الفرشاة. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | يحصل أو يضبط شفافية الفرشاة. يجب أن تكون القيمة بين 0 و 1. القيمة 0 تعني أن الفرشاة مرئية بالكامل، والقيمة 1 تعني أن الفرشاة معتمة بالكامل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | ينشئ استنساخًا عميقًا جديدًا للتيار[`Brush`](../../aspose.psd/brush/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | التخلص من المثيل الحالي. |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | ينشئ نسخة عميقة جديدة من الـ[`Brush`](../../aspose.psd/brush/) الحالي. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | يتخلص من المثيل الحالي. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال إنشاء كائنات القلم واستخدامها. ينشئ المثال صورة جديدة ويرسم مستطيلات على سطح الصورة.
+هذا المثال يوضح إنشاء واستخدام كائنات Pen. المثال ينشئ صورة جديدة ويرسم مستطيلات على سطح الصورة.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل للصورة
+//إنشاء مثال من Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // إنشاء مثيل للرسومات وتهيئته باستخدام كائن صورة
+    //إنشاء مثيل من Graphics وتهيئته باستخدام كائن Image
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // مسح واجهة الرسومات باللون الأبيض
+    //مسح سطح Graphics باللون الأبيض
     graphics.Clear(Aspose.PSD.Color.White);
 
-    // قم بإنشاء مثيل من القلم باللون الأحمر والعرض 5
+    //إنشاء مثيل من Pen باللون الأحمر وعرض 5
     Aspose.PSD.Pen pen = new Pen(Aspose.PSD.Color.Red, 5);
 
-    // قم بإنشاء مثيل لـ HatchBrush وعيّن خصائصه
+    //إنشاء مثيل من HatchBrush وتعيين خصائصه
     Aspose.PSD.Brushes.HatchBrush brush = new Aspose.PSD.Brushes.HatchBrush();
     brush.BackgroundColor = Color.Wheat;
     brush.ForegroundColor = Color.Red;
 
-    // إنشاء مثيل من Pen
-    // قم بتهيئته باستخدام كائن وعرض HatchBrush
+    //إنشاء مثيل من Pen
+    //تهيئته باستخدام كائن HatchBrush والعرض
     Aspose.PSD.Pen brusedpen = new Pen(brush, 5);
 
-    // رسم مستطيلات عن طريق تحديد كائن القلم
+    //رسم مستطيلات عن طريق تحديد كائن Pen
     graphics.DrawRectangles(pen, new[] { new Rectangle(new Point(210, 210), new Size(100, 100)), new Rectangle(new Point(110, 110), new Size(100, 100)), new Rectangle(new Point(310, 310), new Size(100, 100)) });
 
-    // رسم مستطيلات عن طريق تحديد كائن القلم
+    //رسم مستطيلات عن طريق تحديد كائن Pen
     graphics.DrawRectangles(brusedpen, new[] { new Rectangle(new Point(310, 110), new Size(100, 100)), new Rectangle(new Point(110, 310), new Size(100, 100)) });
 
     // إنشاء خيارات التصدير وتهيئتها.
@@ -79,10 +80,10 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../aspose.psd/brush/)
-* مساحة الاسم [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../)
 
 

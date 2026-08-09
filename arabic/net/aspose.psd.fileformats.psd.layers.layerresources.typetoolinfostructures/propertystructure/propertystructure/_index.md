@@ -1,30 +1,31 @@
 ---
-title: PropertyStructure.PropertyStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: PropertyStructure البناء. يقوم بتهيئة مثيل جديد لملفPropertyStructure فئة .
+title: "PropertyStructure.PropertyStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PropertyStructure. يهيئ مثيلاً جديداً من فئة PropertyStructure."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/propertystructure/
 ---
+{{< psd/tize >}}
 ## PropertyStructure constructor
 
-يقوم بتهيئة مثيل جديد لملف[`PropertyStructure`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`PropertyStructure`](../).
 
 ```csharp
 public PropertyStructure(ClassID keyName, ClassID classID, ClassID keyID)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | keyName | ClassID | اسم المفتاح. |
-| classID | ClassID | معرف الفصل. |
-| keyID | ClassID | معرف المفتاح. |
+| classID | ClassID | معرّف الفئة. |
+| keyID | ClassID | معرّف المفتاح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

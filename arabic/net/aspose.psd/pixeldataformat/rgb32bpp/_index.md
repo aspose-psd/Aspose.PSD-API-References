@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb32Bpp
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. يحصل على ملفPixelDataFormat محددة لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا  والأحمر  والأخضر  والأزرق.
+title: "PixelDataFormat.Rgb32Bpp"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. يحصل على PixelDataFormat المحدد لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا، الأحمر، الأخضر، والأزرق"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/pixeldataformat/rgb32bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb32Bpp property
 
-يحصل على ملف[`PixelDataFormat`](../) محددة لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا ، والأحمر ، والأخضر ، والأزرق.
+يحصل على [`PixelDataFormat`](../) المحدد لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا، الأحمر، الأخضر، والأزرق.
 
 ```csharp
 public static PixelDataFormat Rgb32Bpp { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`PixelDataFormat`](../) محددة لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا ، والأحمر ، والأخضر ، والأزرق.
+الـ [`PixelDataFormat`](../) المحدد لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا، الأحمر، الأخضر، والأزرق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

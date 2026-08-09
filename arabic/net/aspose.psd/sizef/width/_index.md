@@ -1,14 +1,15 @@
 ---
-title: SizeF.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF ملكية. الحصول على أو تحديد المكون الأفقي لهذاSizeF .
+title: "SizeF.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SizeF. تحصل أو تعيّن المكوّن الأفقي لهذا SizeF"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/sizef/width/
 ---
+{{< psd/tize >}}
 ## SizeF.Width property
 
-الحصول على أو تحديد المكون الأفقي لهذا[`SizeF`](../) .
+تحصل أو تعيّن المكوّن الأفقي لهذا [`SizeF`](../).
 
 ```csharp
 public float Width { get; set; }
@@ -16,12 +17,12 @@ public float Width { get; set; }
 
 ### قيمة الإرجاع
 
-المكون الأفقي لهذا[`SizeF`](../)، تقاس عادةً بالبكسل.
+المكوّن الأفقي لهذا [`SizeF`](../)، يُقاس عادةً بالبكسل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

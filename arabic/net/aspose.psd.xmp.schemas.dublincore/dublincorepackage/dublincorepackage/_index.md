@@ -1,23 +1,24 @@
 ---
-title: DublinCorePackage.DublinCorePackage
-second_title: Aspose.PSD لمرجع .NET API
-description: DublinCorePackage البناء. Default_Constructor
+title: "DublinCorePackage.DublinCorePackage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ DublinCorePackage. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/dublincorepackage/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public DublinCorePackage()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DublinCorePackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TransparencyIndexResource.MinimalVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: TransparencyIndexResource ملكية. يحصل على الحد الأدنى من إصدار psd المطلوب.
+title: "TransparencyIndexResource.MinimalVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TransparencyIndexResource. يحصل على الحد الأدنى لإصدار psd المطلوب"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.MinimalVersion property
 
-يحصل على الحد الأدنى من إصدار psd المطلوب.
+يحصل على الحد الأدنى لإصدار PSD المطلوب.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نسخة مديرية الأمن العام الحد الأدنى.
+الإصدار الأدنى لـ psd.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransparencyIndexResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

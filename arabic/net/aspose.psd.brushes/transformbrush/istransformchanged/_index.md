@@ -1,27 +1,28 @@
 ---
-title: TransformBrush.IsTransformChanged
-second_title: Aspose.PSD لمرجع .NET API
-description: TransformBrush ملكية. يحصل على قيمة تشير إلى ما إذا كانت التحولات قد تغيرت بطريقة ما. على سبيل المثال إعداد مصفوفة التحويل أو استدعاء أي من الطرق التي تغير مصفوفة التحويل. تم تقديم الخاصية للتوافق مع الإصدارات السابقة مع GDI  .
+title: "TransformBrush.IsTransformChanged"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TransformBrush. تحصل على قيمة تشير إلى ما إذا تم تغيير التحويلات بطريقة ما. على سبيل المثال ضبط مصفوفة التحويل أو استدعاء أي من الطرق التي تغير مصفوفة التحويل. تم تقديم الخاصية لضمان التوافق العكسي مع GDI"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.brushes/transformbrush/istransformchanged/
 ---
+{{< psd/tize >}}
 ## TransformBrush.IsTransformChanged property
 
-يحصل على قيمة تشير إلى ما إذا كانت التحولات قد تغيرت بطريقة ما. على سبيل المثال إعداد مصفوفة التحويل أو استدعاء أي من الطرق التي تغير مصفوفة التحويل. تم تقديم الخاصية للتوافق مع الإصدارات السابقة مع GDI + .
+يحصل على قيمة تشير إلى ما إذا تم تغيير التحويلات بطريقة ما. على سبيل المثال ضبط مصفوفة التحويل أو استدعاء أي من الطرق التي تغير مصفوفة التحويل. تم تقديم الخاصية لضمان التوافق العكسي مع GDI+.
 
 ```csharp
 public bool IsTransformChanged { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تغيير التحول ؛ خلاف ذلك،`خطأ شنيع` .
+`True` إذا تم تغيير التحويل؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransformBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../transformbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

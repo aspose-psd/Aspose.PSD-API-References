@@ -1,43 +1,44 @@
 ---
-title: BilateralSmoothingFilterOptions.BilateralSmoothingFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: BilateralSmoothingFilterOptions البناء. يقوم بتهيئة مثيل جديد لملفBilateralSmoothingFilterOptions فئة .
+title: "BilateralSmoothingFilterOptions.BilateralSmoothingFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "BilateralSmoothingFilterOptions مُنشئ. يهيئ نسخة جديدة من فئة BilateralSmoothingFilterOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/bilateralsmoothingfilteroptions/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions(int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`BilateralSmoothingFilterOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`BilateralSmoothingFilterOptions`](../).
 
 ```csharp
 public BilateralSmoothingFilterOptions(int size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | Int32 | حجم النواة. |
+| الحجم | Int32 | حجم الـ kernal. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BilateralSmoothingFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BilateralSmoothingFilterOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`BilateralSmoothingFilterOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`BilateralSmoothingFilterOptions`](../).
 
 ```csharp
 public BilateralSmoothingFilterOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BilateralSmoothingFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

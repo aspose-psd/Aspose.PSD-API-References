@@ -1,28 +1,29 @@
 ---
-title: Image.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: Image ملكية. يحصل على حجم الصورة .
+title: "Image.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Image. تحصل على حجم الصورة"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/image/size/
 ---
+{{< psd/tize >}}
 ## Image.Size property
 
-يحصل على حجم الصورة .
+يحصل على حجم الصورة.
 
 ```csharp
 public Size Size { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حجم الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

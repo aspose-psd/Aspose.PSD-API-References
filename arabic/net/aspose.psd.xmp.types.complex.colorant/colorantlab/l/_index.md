@@ -1,27 +1,28 @@
 ---
-title: ColorantLab.L
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantLab ملكية. الحصول على أو تعيين المكون L.
+title: "ColorantLab.L"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorantLab. تحصل أو تعيين مكوّن L"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantlab/l/
 ---
+{{< psd/tize >}}
 ## ColorantLab.L property
 
-الحصول على أو تعيين المكون L.
+يحصل أو يعيّن المكوّن L.
 
 ```csharp
 public float L { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المكون L .
+المكوّن L.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantLab](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

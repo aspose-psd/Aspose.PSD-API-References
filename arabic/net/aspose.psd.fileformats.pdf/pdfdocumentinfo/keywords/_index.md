@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfDocumentInfo ملكية. الحصول على أو تعيين الكلمات الأساسية للمستند.
+title: "PdfDocumentInfo.Keywords"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PdfDocumentInfo. يحصل أو يحدد كلمات مفتاحية للمستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Keywords property
 
-الحصول على أو تعيين الكلمات الأساسية للمستند.
+يحصل أو يضبط كلمات مفتاحية للمستند.
 
 ```csharp
 public string Keywords { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

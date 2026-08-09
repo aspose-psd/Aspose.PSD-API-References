@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelsCount
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdOptions ملكية. الحصول على أو تعيين عدد قنوات اللون .
+title: "PsdOptions.ChannelsCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdOptions. يحصل أو يضبط عدد قنوات اللون"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.psd.imageoptions/psdoptions/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelsCount property
 
-الحصول على أو تعيين عدد قنوات اللون .
+يحصل أو يضبط عدد قنوات اللون.
 
 ```csharp
 public short ChannelsCount { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قنوات الألوان تحسب.
+عدد قنوات اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../psdoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

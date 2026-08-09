@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Xresolution
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على دقة x أو تعيينها .
+title: "TiffOptions.Xresolution"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يضبط دقة x"
 type: docs
-weight: 650
+weight: 660
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/xresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xresolution property
 
-الحصول على دقة x أو تعيينها .
+يحصل أو يضبط دقة x.
 
 ```csharp
 public TiffRational Xresolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 دقة x.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

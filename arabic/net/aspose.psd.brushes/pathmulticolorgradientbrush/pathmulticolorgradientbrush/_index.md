@@ -1,116 +1,117 @@
 ---
-title: PathMulticolorGradientBrush.PathMulticolorGradientBrush
-second_title: Aspose.PSD لمرجع .NET API
-description: PathMulticolorGradientBrush البناء. يقوم بتهيئة مثيل جديد لملفPathMulticolorGradientBrush فئة بالنقاط المحددة.
+title: "PathMulticolorGradientBrush.PathMulticolorGradientBrush"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PathMulticolorGradientBrush. يهيئ نسخة جديدة من فئة PathMulticolorGradientBrush بالنقاط المحددة."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.brushes/pathmulticolorgradientbrush/pathmulticolorgradientbrush/
 ---
+{{< psd/tize >}}
 ## PathMulticolorGradientBrush(PointF[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PathMulticolorGradientBrush`](../) فئة بالنقاط المحددة.
+يهيئ نسخة جديدة من فئة [`PathMulticolorGradientBrush`](../) بالنقاط المحددة.
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة من[`PointF`](../../../aspose.psd/pointf/) الهياكل التي تمثل النقاط التي تشكل رؤوس المسار. |
+| points | PointF[] | مصفوفة من هياكل [`PointF`](../../../aspose.psd/pointf/) تمثل النقاط التي تشكل رؤوس المسار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`PathMulticolorGradientBrush`](../) فئة بالنقاط المحددة ووضع الالتفاف.
+يهيئ نسخة جديدة من فئة [`PathMulticolorGradientBrush`](../) بالنقاط المحددة ووضع الالتفاف.
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points, WrapMode wrapMode)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة من[`PointF`](../../../aspose.psd/pointf/) الهياكل التي تمثل النقاط التي تشكل رؤوس المسار. |
-| wrapMode | WrapMode | أ[`WrapMode`](../../../aspose.psd/wrapmode/) يحدد كيفية رسم التعبئة بهذا[`PathMulticolorGradientBrush`](../) مبلطة. |
+| points | PointF[] | مصفوفة من هياكل [`PointF`](../../../aspose.psd/pointf/) تمثل النقاط التي تشكل رؤوس المسار. |
+| wrapMode | WrapMode | كائن [`WrapMode`](../../../aspose.psd/wrapmode/) يحدد كيفية تجانب التعبئات المرسومة بهذا [`PathMulticolorGradientBrush`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[]) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`PathMulticolorGradientBrush`](../) فئة بالنقاط المحددة.
+يهيئ نسخة جديدة من فئة [`PathMulticolorGradientBrush`](../) بالنقاط المحددة.
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | Point[] | مجموعة من[`Point`](../../../aspose.psd/point/) الهياكل التي تمثل النقاط التي تشكل رؤوس المسار. |
+| points | Point[] | مصفوفة من هياكل [`Point`](../../../aspose.psd/point/) تمثل النقاط التي تشكل رؤوس المسار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PathMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[], WrapMode) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`PathMulticolorGradientBrush`](../) فئة بالنقاط المحددة ووضع الالتفاف.
+يهيئ نسخة جديدة من فئة [`PathMulticolorGradientBrush`](../) بالنقاط المحددة ووضع الالتفاف.
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points, WrapMode wrapMode)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | Point[] | مجموعة من[`Point`](../../../aspose.psd/point/) الهياكل التي تمثل النقاط التي تشكل رؤوس المسار. |
-| wrapMode | WrapMode | أ[`WrapMode`](../../../aspose.psd/wrapmode/) يحدد كيفية رسم التعبئة بهذا[`PathMulticolorGradientBrush`](../) مبلطة. |
+| points | Point[] | مصفوفة من هياكل [`Point`](../../../aspose.psd/point/) تمثل النقاط التي تشكل رؤوس المسار. |
+| wrapMode | WrapMode | كائن [`WrapMode`](../../../aspose.psd/wrapmode/) يحدد كيفية تجانب التعبئات المرسومة بهذا [`PathMulticolorGradientBrush`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(GraphicsPath) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PathMulticolorGradientBrush`](../) فئة بالمسار المحدد.
+يهيئ نسخة جديدة من فئة [`PathMulticolorGradientBrush`](../) بالمسار المحدد.
 
 ```csharp
 public PathMulticolorGradientBrush(GraphicsPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | GraphicsPath | ال[`GraphicsPath`](../../../aspose.psd/graphicspath/) التي تحدد المنطقة التي تم ملؤها بهذا[`PathMulticolorGradientBrush`](../). |
+| path | GraphicsPath | الـ [`GraphicsPath`](../../../aspose.psd/graphicspath/) الذي يحدد المنطقة المملوءة بهذا [`PathMulticolorGradientBrush`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

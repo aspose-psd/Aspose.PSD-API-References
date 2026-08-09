@@ -1,11 +1,12 @@
 ---
-title: BooleanResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: BooleanResource ملكية. يحصل على التوقيع.
+title: "BooleanResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BooleanResource. يحصل على التوقيع"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/
 ---
+{{< psd/tize >}}
 ## BooleanResource.Signature property
 
 يحصل على التوقيع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/si
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BooleanResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

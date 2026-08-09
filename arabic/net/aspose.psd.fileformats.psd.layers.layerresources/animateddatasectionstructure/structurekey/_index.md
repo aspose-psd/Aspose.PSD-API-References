@@ -1,23 +1,24 @@
 ---
-title: AnimatedDataSectionStructure.StructureKey
-second_title: Aspose.PSD لمرجع .NET API
-description: AnimatedDataSectionStructure مجال. يحدد مفتاح هيكل AnDs.
+title: "AnimatedDataSectionStructure.StructureKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "AnimatedDataSectionStructure حقل. يحدد مفتاح البنية لـ AnDs"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.StructureKey field
 
-يحدد مفتاح هيكل AnDs.
+يحدد مفتاح البنية الخاص بـ AnDs.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AnimatedDataSectionStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetComment
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يضبط التعليق.
+title: "XmpDynamicMediaPackage.SetComment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. تعيين التعليق"
 type: docs
 weight: 150
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComment method
 
 يضبط التعليق.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment/
 public void SetComment(string comment)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| comment | String | التعليق. |
+| تعليق | String | التعليق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

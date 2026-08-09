@@ -1,14 +1,15 @@
 ---
-title: SizeF.ToSize
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF طريقة. تحويل أSizeF إلى أSize هيكل بقيم حجم مقطوعة.
+title: "SizeF.ToSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SizeF. تُحوِّل SizeF إلى هيكل Size مع قيم حجم مقطَّعة."
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/sizef/tosize/
 ---
+{{< psd/tize >}}
 ## SizeF.ToSize method
 
-تحويل أ[`SizeF`](../) إلى أ[`Size`](../../size/) هيكل بقيم حجم مقطوعة.
+تُحوِّل [`SizeF`](../) إلى هيكل [`Size`](../../size/) مع قيم حجم مقطَّعة.
 
 ```csharp
 public Size ToSize()
@@ -16,13 +17,13 @@ public Size ToSize()
 
 ### قيمة الإرجاع
 
-يعود أ[`Size`](../../size/) بناء.
+تُرجع هيكل [`Size`](../../size/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

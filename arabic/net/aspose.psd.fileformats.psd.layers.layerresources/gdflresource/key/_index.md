@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "GdFlResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. تحصل على مفتاح مورد الطبقة"
 type: docs
-weight: 110
+weight: 130
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

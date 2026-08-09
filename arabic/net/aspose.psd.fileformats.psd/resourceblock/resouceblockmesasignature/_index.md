@@ -1,22 +1,23 @@
 ---
-title: ResourceBlock.ResouceBlockMeSaSignature
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceBlock مجال. توقيع المورد ImageReady.
+title: "ResourceBlock.ResouceBlockMeSaSignature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ResourceBlock. توقيع المورد لـ ImageReady"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockMeSaSignature field
 
-توقيع المورد ImageReady.
+توقيع المورد الخاص بـ ImageReady.
 
 ```csharp
 public const int ResouceBlockMeSaSignature;
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح مثال الكود التالي القدرة على تصحيح تحميل ملفات PSD وحفظها بموارد بتوقيع MeSa.
+مثال الشيفرة التالي يوضح القدرة على تحميل وحفظ ملفات PSD مع الموارد ذات توقيع MeSa بشكل صحيح.
 
 ```csharp
 [C#]
@@ -29,7 +30,7 @@ void AreEqual(object expected, object actual)
     }
 }
 
-string srcFile = "GST-CHALLAN(21..psd");
+string srcFile = "GST-CHALLAN(2)1..psd";
 string output = "output.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
@@ -40,10 +41,10 @@ using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

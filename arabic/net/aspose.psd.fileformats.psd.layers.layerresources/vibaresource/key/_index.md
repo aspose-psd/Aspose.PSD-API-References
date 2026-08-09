@@ -1,11 +1,12 @@
 ---
-title: VibAResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: VibAResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "VibAResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "VibAResource خاصية. يحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key/
 ---
+{{< psd/tize >}}
 ## VibAResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key/
 public override int Key { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي من التعليمات البرمجية دعم مورد VibAResource.
+يوضح مثال الشيفرة التالي دعم مورد VibAResource.
 
 ```csharp
 [C#]
 
-// مثال على دعم قراءة وكتابة مورد الاهتزاز في وقت التشغيل.
+// مثال على دعم قراءة وكتابة مورد الاهتزاز أثناء التشغيل.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VibAResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

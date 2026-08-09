@@ -1,35 +1,36 @@
 ---
-title: Enum BitmapCompression
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Bmp.BitmapCompression تعداد. تحديد طرق مختلفة لضغط الصور النقطية.
+title: "التعداد BitmapCompression"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Bmp.BitmapCompression. يحدد طرق ضغط bitmap المختلفة."
 type: docs
-weight: 1310
+weight: 1320
 url: /ar/net/aspose.psd.fileformats.bmp/bitmapcompression/
 ---
+{{< psd/tize >}}
 ## BitmapCompression enumeration
 
-تحديد طرق مختلفة لضغط الصور النقطية.
+يحدد طرق ضغط البت ماب المختلفة.
 
 ```csharp
 public enum BitmapCompression : uint
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Rgb | `0` | بدون ضغط . |
-| Rle8 | `1` | ضغط RLE بمعدل 8 بت / بكسل. يمكن استخدامها فقط مع الصور النقطية 8 بت / بكسل. |
-| Rle4 | `2` | ضغط RLE 4 بت / بكسل. يمكن استخدامها فقط مع الصور النقطية 4 بت / بكسل. |
-| Bitfields | `3` | حقول بت RGB. يمكن استخدامها فقط مع الصور النقطية 16 و 32 بت / بكسل. |
-| Jpeg | `4` | ضغط JPEG. تحتوي الصورة النقطية على صورة JPEG. |
-| Png | `5` | ضغط PNG. تحتوي الصورة النقطية على صورة PNG . |
-| AlphaBitfields | `6` | حقول بت RGBA. يمكن استخدامها فقط مع الصور النقطية 16 و 32 بت / بكسل. |
-| Dxt1 | `827611204` | ضغط DXT1. تحتوي الصورة النقطية على مادة . |
+| Rgb | `0` | بدون ضغط. |
+| Rle8 | `1` | ضغط RLE 8-بت/بكسل. يمكن استخدامه فقط مع صور bitmap ذات 8-بت/بكسل. |
+| Rle4 | `2` | ضغط RLE 4-بت/بكسل. يمكن استخدامه فقط مع صور bitmap ذات 4-بت/بكسل. |
+| Bitfields | `3` | حقول RGB. يمكن استخدامها فقط مع صور نقطية 16 و 32‑بت/بكسل. |
+| Jpeg | `4` | ضغط JPEG. الصورة النقطية تحتوي على صورة JPEG. |
+| Png | `5` | ضغط PNG. الصورة النقطية تحتوي على صورة PNG. |
+| AlphaBitfields | `6` | حقول RGBA. يمكن استخدامها فقط مع صور نقطية 16 و 32‑بت/بكسل. |
+| Dxt1 | `827611204` | ضغط DXT1. الصورة النقطية تحتوي على نسيج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Bmp](../../aspose.psd.fileformats.bmp/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Bmp](../../aspose.psd.fileformats.bmp/)
+* assembly [Aspose.PSD](../../)
 
 

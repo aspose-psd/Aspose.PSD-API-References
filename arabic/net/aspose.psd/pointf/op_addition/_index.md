@@ -1,59 +1,60 @@
 ---
-title: PointF.op_Addition
-second_title: Aspose.PSD لمرجع .NET API
-description: PointF طريقة. يترجم أPointF من خلال معينSize .
+title: "PointF.op_Addition"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PointF. تُترجم نقطة PointF بحجم محدد."
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/pointf/op_addition/
 ---
+{{< psd/tize >}}
 ## operator + {#op_addition}
 
-يترجم أ[`PointF`](../) من خلال معين[`Size`](../../size/) .
+تُترجم الـ [`PointF`](../) بحجم [`Size`](../../size/) محدد.
 
 ```csharp
 public static PointF operator +(PointF point, Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | PointF | ال[`PointF`](../) لترجمة. |
-| size | Size | أ[`Size`](../../size/) يحدد زوج الأرقام المراد إضافته إلى إحداثيات*point*. |
+| point | PointF | الـ [`PointF`](../) المراد ترجمته. |
+| size | Size | ال[`Size`](../../size/) الذي يحدد زوج الأرقام التي تُضاف إلى إحداثيات *point*. |
 
 ### قيمة الإرجاع
 
-يعود المترجم[`PointF`](../).
+تُعيد الـ [`PointF`](../) المترجم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator + {#op_addition_1}
 
-يترجم ملف[`PointF`](../) حسب المحدد[`SizeF`](../../sizef/) .
+تُترجم الـ [`PointF`](../) بالحجم المحدد [`SizeF`](../../sizef/).
 
 ```csharp
 public static PointF operator +(PointF point, SizeF size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | PointF | ال[`PointF`](../) لترجمة. |
-| size | SizeF | ال[`SizeF`](../../sizef/) التي تحدد الأرقام المراد إضافتها إلى إحداثيات x و y لملف*point*. |
+| point | PointF | الـ [`PointF`](../) المراد ترجمته. |
+| size | SizeF | ال[`SizeF`](../../sizef/) الذي يحدد الأرقام التي تُضاف إلى إحداثيات x و y للـ *point*. |
 
 ### قيمة الإرجاع
 
-المترجم[`PointF`](../).
+ال[`PointF`](../) المترجم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

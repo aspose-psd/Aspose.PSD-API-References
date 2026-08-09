@@ -1,49 +1,50 @@
 ---
-title: ImageAttributes.SetGamma
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يضبط قيمة جاما للفئة الافتراضية.
+title: "ImageAttributes.SetGamma"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. يضبط قيمة غاما للفئة الافتراضية"
 type: docs
 weight: 150
 url: /ar/net/aspose.psd/imageattributes/setgamma/
 ---
+{{< psd/tize >}}
 ## SetGamma(float) {#setgamma}
 
-يضبط قيمة جاما للفئة الافتراضية.
+يضبط قيمة غاما للفئة الافتراضية.
 
 ```csharp
 public void SetGamma(float gamma)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| gamma | Single | قيمة تصحيح جاما. |
+| جاما | Single | قيمة تصحيح غاما. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetGamma(float, ColorAdjustType) {#setgamma_1}
 
-يضبط قيمة جاما لفئة محددة .
+يضبط قيمة غاما لفئة محددة.
 
 ```csharp
 public void SetGamma(float gamma, ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| gamma | Single | قيمة تصحيح جاما. |
-| type | ColorAdjustType | عنصر من عناصر[`ColorAdjustType`](../../coloradjusttype/) التعداد الذي يحدد الفئة التي تم تعيين قيمة جاما لها. |
+| جاما | Single | قيمة تصحيح غاما. |
+| type | ColorAdjustType | عنصر من تعداد [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يتم تعيين قيمة غاما لها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

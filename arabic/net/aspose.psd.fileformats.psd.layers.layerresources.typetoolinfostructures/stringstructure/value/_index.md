@@ -1,27 +1,28 @@
 ---
-title: StringStructure.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: StringStructure ملكية. الحصول على القيمة أو تعيينها.
+title: "StringStructure.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringStructure. تحصل أو تعين القيمة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/value/
 ---
+{{< psd/tize >}}
 ## StringStructure.Value property
 
-الحصول على القيمة أو تعيينها.
+يحصل أو يعيّن القيمة.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

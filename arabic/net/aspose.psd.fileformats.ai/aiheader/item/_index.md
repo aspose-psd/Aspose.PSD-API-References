@@ -1,31 +1,32 @@
 ---
-title: AiHeader.Item
-second_title: Aspose.PSD لمرجع .NET API
-description: AiHeader ملكية. يحصل أو يحدد ملفString باسم الخاصية المحدد.
+title: "AiHeader.Item"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiHeader. تحصل أو تعين الـString بالاسم المحدد للخاصية."
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
+{{< psd/tize >}}
 ## AiHeader indexer
 
-يحصل أو يحدد ملفString باسم الخاصية المحدد.
+يحصل أو يضبط السلسلة ذات اسم الخاصية المحدد.
 
 ```csharp
 public string this[string propertyName] { get; set; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| propertyName | اسم العقار. |
+| propertyName | اسم الخاصية. |
 
-### Property_Value
+### Property Value
 
-ملفString .
+الـString.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiHeader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericTypographic
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. يحصل على طباعة عامةStringFormat الكائن .
+title: "StringFormat.GenericTypographic"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تُرجع كائن StringFormat نمطي عام للطباعة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/stringformat/generictypographic/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericTypographic property
 
-يحصل على طباعة عامة[`StringFormat`](../) الكائن .
+تُرجع كائن [`StringFormat`](../) نمطي عام للطباعة.
 
 ```csharp
 public static StringFormat GenericTypographic { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مطبعي عام[`StringFormat`](../) هدف.
+كائن [`StringFormat`](../) نمطي عام للطباعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Round
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. تحويل المحددRectangleF إلى أRectangle عن طريق تقريبRectangleF القيم لأقرب قيم عدد صحيح.
+title: "Rectangle.Round"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. يحول الـ RectangleF المحدد إلى Rectangle عن طريق تقريب قيم الـ RectangleF إلى أقرب قيم صحيحة."
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/rectangle/round/
 ---
+{{< psd/tize >}}
 ## Rectangle.Round method
 
-تحويل المحدد[`RectangleF`](../../rectanglef/) إلى أ[`Rectangle`](../) عن طريق تقريب[`RectangleF`](../../rectanglef/) القيم لأقرب قيم عدد صحيح.
+تحول الـ [`RectangleF`](../../rectanglef/) المحدد إلى [`Rectangle`](../) عن طريق تقريب قيم الـ [`RectangleF`](../../rectanglef/) إلى أقرب قيم صحيحة.
 
 ```csharp
 public static Rectangle Round(RectangleF value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | RectangleF | ال[`RectangleF`](../../rectanglef/) ليتم تحويلها. |
+| value | RectangleF | الـ [`RectangleF`](../../rectanglef/) الذي سيُحوَّل. |
 
 ### قيمة الإرجاع
 
-جديد[`Rectangle`](../).
+`[`Rectangle`](../)` جديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

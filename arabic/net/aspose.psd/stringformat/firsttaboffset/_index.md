@@ -1,31 +1,32 @@
 ---
-title: StringFormat.FirstTabOffset
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. الحصول على عدد المسافات بين بداية سطر من النص وعلامة الجدولة الأولى.
+title: "StringFormat.FirstTabOffset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تحصل على عدد المسافات بين بداية سطر النص وإيقاف التبويب الأول"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.psd/stringformat/firsttaboffset/
 ---
+{{< psd/tize >}}
 ## StringFormat.FirstTabOffset property
 
-الحصول على عدد المسافات بين بداية سطر من النص وعلامة الجدولة الأولى.
+يحصل على عدد المسافات بين بداية سطر النص وأول موضع تبويب.
 
 ```csharp
 public float FirstTabOffset { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إزاحة علامة التبويب الأولى.
+إزاحة التبويب الأول.
 
-### ملاحظات
+## ملاحظات
 
-يتم تقديم الخاصية لطريقة GetTabStops التي تمت إزالتها.
+تم تقديم الخاصية للطريقة المحذوفة GetTabStops.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

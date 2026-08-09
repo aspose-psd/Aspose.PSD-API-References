@@ -1,27 +1,28 @@
 ---
-title: LinkResource.IsEmpty
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkResource ملكية. يحصل على قيمة تشير إلى ما إذا كان مثيل مورد الارتباط فارغًا.
+title: "LinkResource.IsEmpty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinkResource. يحصل على قيمة تُظهر ما إذا كان كائن مورد الارتباط هذا فارغًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/
 ---
+{{< psd/tize >}}
 ## LinkResource.IsEmpty property
 
-يحصل على قيمة تشير إلى ما إذا كان مثيل مورد الارتباط فارغًا.
+يحصل على قيمة تشير إلى ما إذا كان هذا المثيل من مورد الرابط فارغًا.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان مورد الارتباط هذا فارغًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان مورد الارتباط هذا فارغًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

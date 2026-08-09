@@ -1,11 +1,12 @@
 ---
-title: Rectangle.Offset
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. يضبط موقع هذا المستطيل بالمقدار المحدد.
+title: "Rectangle.Offset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تعدل موقع هذا المستطيل بالمقدار المحدد."
 type: docs
 weight: 270
 url: /ar/net/aspose.psd/rectangle/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
 يضبط موقع هذا المستطيل بالمقدار المحدد.
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd/rectangle/offset/
 public void Offset(Point pos)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pos | Point | مبلغ لتعويض الموقع. |
+| pos | نقطة | المقدار لإزاحة الموقع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,15 +36,15 @@ public void Offset(Point pos)
 public void Offset(int x, int y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | x | Int32 | الإزاحة الأفقية. |
-| y | Int32 | الإزاحة الرأسية. |
+| y | Int32 | الإزاحة العمودية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

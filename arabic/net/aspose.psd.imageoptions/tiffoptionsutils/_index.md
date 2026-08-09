@@ -1,34 +1,35 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils فصل. فئة الأداة المساعدة لخيارات تنسيق ملف tiff .
+title: "الفئة TiffOptionsUtils"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.ImageOptions.TiffOptionsUtils. فئة أداة خيارات تنسيق ملف tiff"
 type: docs
-weight: 4960
+weight: 5450
 url: /ar/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-فئة الأداة المساعدة لخيارات تنسيق ملف tiff .
+فئة أداة خيارات تنسيق ملف tiff.
 
 ```csharp
 public class TiffOptionsUtils
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TiffOptionsUtils](tiffoptionsutils/)() | Default_Constructor |
+| [TiffOptionsUtils](tiffoptionsutils/)() | الباني الافتراضي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | الحصول على عدد العلامات الصالحة . |
+| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | يحصل على عدد العلامات الصالحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Rdf
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. مساحة اسم إطار تعريف المورد .
+title: "Namespaces.Rdf"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. مساحة اسم إطار تعريف الموارد"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp/namespaces/rdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Rdf field
 
-مساحة اسم إطار تعريف المورد .
+مساحة الاسم Resource definition framework.
 
 ```csharp
 public const string Rdf;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

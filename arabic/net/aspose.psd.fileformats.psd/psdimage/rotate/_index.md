@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Rotate
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. تدوير الصورة حول المركز .
+title: "PsdImage.Rotate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تدوير الصورة حول المركز"
 type: docs
-weight: 610
+weight: 670
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
-تدوير الصورة حول المركز .
+يدور الصورة حول المركز.
 
 ```csharp
 public override void Rotate(float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| angle | Single | زاوية الدوران بالدرجات. ستدور القيم الموجبة في اتجاه عقارب الساعة. |
+| الزاوية | Single | زاوية الدوران بالدرجات. القيم الموجبة ستدور باتجاه عقارب الساعة. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي القدرة على تدوير الصورة بقيمة زاوية محددة.
+الكود التالي يوضح القدرة على تدوير الصورة بزاوية محددة.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public override void Rotate(float angle)
 string sourceFileName = "TheHat.psd";
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 
-// الصورة الكاملة بالتناوب
+// تدوير الصورة بالكامل
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     }
 }
 
-// طبقة الدورية
+// تدوير الطبقة
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -57,33 +58,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float, bool, Color) {#rotate_1}
 
-تدوير الصورة حول المركز .
+يدور الصورة حول المركز.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| angle | Single | زاوية الدوران بالدرجات. ستدور القيم الموجبة في اتجاه عقارب الساعة. |
-| resizeProportionally | Boolean | إذا تم التعيين على`حقيقي` سيتم تغيير حجم صورتك وفقًا لإسقاطات المستطيل المستدير (نقاط الزاوية) في حالة أخرى والتي تترك الأبعاد دون تغيير ويتم تدوير محتويات الصورة الداخلية فقط. |
-| backgroundColor | Color | لون الخلفية. |
+| الزاوية | Single | زاوية الدوران بالدرجات. القيم الموجبة ستدور باتجاه عقارب الساعة. |
+| resizeProportionally | Boolean | إذا تم تعيينه إلى `true` سيتغير حجم الصورة وفقًا لإسقاطات المستطيل المدور (نقاط الزوايا)، وفي الحالة الأخرى تُترك الأبعاد دون تغيير وتُدور محتويات الصورة الداخلية فقط. |
+| backgroundColor | لون | لون الخلفية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

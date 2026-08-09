@@ -1,60 +1,61 @@
 ---
-title: RasterImage.GetDefaultRawData
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يحصل على مصفوفة البيانات الأولية الافتراضية باستخدام محمل البكسل الجزئي.
+title: "RasterImage.GetDefaultRawData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تحصل على مصفوفة البيانات الخام الافتراضية باستخدام محمل البكسلات الجزئي"
 type: docs
 weight: 300
 url: /ar/net/aspose.psd/rasterimage/getdefaultrawdata/
 ---
+{{< psd/tize >}}
 ## GetDefaultRawData(Rectangle, IPartialRawDataLoader, RawDataSettings) {#getdefaultrawdata_1}
 
-يحصل على مصفوفة البيانات الأولية الافتراضية باستخدام محمل البكسل الجزئي.
+يحصل على مصفوفة البيانات الخام الافتراضية باستخدام محمل بكسل جزئي.
 
 ```csharp
 public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partialRawDataLoader, 
     RawDataSettings rawDataSettings)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المطلوب الحصول على وحدات بكسل له. |
+| مستطيل | Rectangle | المستطيل للحصول على البكسلات منه. |
 | partialRawDataLoader | IPartialRawDataLoader | محمل البيانات الخام الجزئي. |
-| rawDataSettings | RawDataSettings | إعدادات البيانات الأولية. |
+| rawDataSettings | RawDataSettings | إعدادات البيانات الخام. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetDefaultRawData(Rectangle, RawDataSettings) {#getdefaultrawdata}
 
-يحصل على مصفوفة البيانات الأولية الافتراضية.
+يحصل على مصفوفة البيانات الخام الافتراضية.
 
 ```csharp
 public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSettings)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المطلوب الحصول على بيانات أولية له. |
-| rawDataSettings | RawDataSettings | إعدادات البيانات الأولية. |
+| مستطيل | Rectangle | المستطيل للحصول على البيانات الخام. |
+| rawDataSettings | RawDataSettings | إعدادات البيانات الخام. |
 
 ### قيمة الإرجاع
 
-مصفوفة البيانات الأولية الافتراضية .
+المصفوفة الافتراضية للبيانات الخام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

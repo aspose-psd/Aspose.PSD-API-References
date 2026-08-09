@@ -1,23 +1,24 @@
 ---
-title: PointF.Y
-second_title: Aspose.PSD لمرجع .NET API
-description: PointF ملكية. الحصول على أو تحديد إحداثيات y لهذاPointF .
+title: "PointF.Y"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PointF. تُعيد أو تُعيّن الإحداثي y لهذا الـ PointF."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/pointf/y/
 ---
+{{< psd/tize >}}
 ## PointF.Y property
 
-الحصول على أو تحديد إحداثيات y لهذا[`PointF`](../) .
+يحصل أو يعيّن الإحداثي ص لهذا [`PointF`](../).
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

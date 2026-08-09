@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.LanguageIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. يحصل على فهرس اللغة .
+title: "ITextStyle.LanguageIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. تحصل على فهرس اللغة"
 type: docs
 weight: 190
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.LanguageIndex property
 
-يحصل على فهرس اللغة .
+يحصل على فهرس اللغة.
 
 ```csharp
 public int LanguageIndex { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم دعم خصائص ITextStyle الجديدة.
+الكود التالي يوضح دعم خصائص ITextStyle الجديدة.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

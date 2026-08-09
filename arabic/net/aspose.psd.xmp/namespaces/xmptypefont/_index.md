@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeFont
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. نوع خط XMP .
+title: "Namespaces.XmpTypeFont"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. نوع خط XMP"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.xmp/namespaces/xmptypefont/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeFont field
 
-نوع خط XMP .
+نوع XMP Font.
 
 ```csharp
 public const string XmpTypeFont;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

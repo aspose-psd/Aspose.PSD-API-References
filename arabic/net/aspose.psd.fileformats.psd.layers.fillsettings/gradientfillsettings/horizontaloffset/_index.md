@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.HorizontalOffset
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientFillSettings ملكية. الحصول على أو تعيين الإزاحة الأفقية بالنسبة المئوية.
+title: "GradientFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GradientFillSettings. يحصل أو يعيّن الإزاحة الأفقية بالنسبة المئوية"
 type: docs
-weight: 100
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.HorizontalOffset property
 
-الحصول على أو تعيين الإزاحة الأفقية بالنسبة المئوية.
+يحصل أو يعيّن الإزاحة الأفقية بالنسبة المئوية.
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإزاحة الأفقية .
+الإزاحة الأفقية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

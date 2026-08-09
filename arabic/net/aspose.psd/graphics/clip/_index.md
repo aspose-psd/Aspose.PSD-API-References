@@ -1,28 +1,29 @@
 ---
-title: Graphics.Clip
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics ملكية. الحصول على منطقة المقطع أو تعيينها .
+title: "Graphics.Clip"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Graphics. يحصل على أو يضبط منطقة القص"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/graphics/clip/
 ---
+{{< psd/tize >}}
 ## Graphics.Clip property
 
-الحصول على منطقة المقطع أو تعيينها .
+يحصل أو يضبط منطقة القص.
 
 ```csharp
 public Region Clip { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-منطقة المقطع .
+منطقة القص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../../region/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

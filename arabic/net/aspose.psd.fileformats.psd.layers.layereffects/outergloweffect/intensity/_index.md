@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Intensity
-second_title: Aspose.PSD لمرجع .NET API
-description: OuterGlowEffect ملكية. الحصول على الزاوية أو تحديدها بالدرجات .
+title: "OuterGlowEffect.Intensity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية OuterGlowEffect. يحصل على أو يضبط الزاوية بالدرجات"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Intensity property
 
-الحصول على الزاوية أو تحديدها بالدرجات .
+يحصل أو يضبط الزاوية بالدرجات.
 
 ```csharp
 public int Intensity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الزاوية .
+الزاوية.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم OuterGlowEffect.
+يوضح الشيفرة التالية دعم OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OuterGlowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

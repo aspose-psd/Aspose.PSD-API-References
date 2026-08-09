@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على أو تحديد النمط المستخدم للخطوط المتقطعة المرسومة بهذاPen .
+title: "Pen.DashStyle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيين النمط المستخدم للخطوط المتقطعة المرسومة بهذا Pen."
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-الحصول على أو تحديد النمط المستخدم للخطوط المتقطعة المرسومة بهذا[`Pen`](../) .
+تحصل أو تعيين النمط المستخدم للخطوط المتقطعة المرسومة بهذا [`Pen`](../).
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ`DashStyle` التي تمثل النمط المستخدم للخطوط المتقطعة المرسومة بهذا[`Pen`](../).
+`DashStyle` الذي يمثل النمط المستخدم للخطوط المتقطعة المرسومة بهذا [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`DashStyle` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `DashStyle` تُحدد على كائن [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

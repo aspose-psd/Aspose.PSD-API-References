@@ -1,28 +1,29 @@
 ---
-title: XmpElementBase.AddAttribute
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpElementBase طريقة. إضافة السمة .
+title: "XmpElementBase.AddAttribute"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpElementBase. يضيف السمة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/xmpelementbase/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.AddAttribute method
 
-إضافة السمة .
+يضيف السمة.
 
 ```csharp
 public virtual void AddAttribute(string attribute, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| attribute | String | السمة. |
-| value | String | القيمة. |
+| السمة | String | السمة. |
+| قيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpElementBase](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpelementbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

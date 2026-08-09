@@ -1,31 +1,32 @@
 ---
-title: Cache.MaxDiskSpaceForCache
-second_title: Aspose.PSD لمرجع .NET API
-description: Cache ملكية. الحصول على أو تعيين الحد الأقصى لمساحة القرص المتوفرة لذاكرة التخزين المؤقت. القيمة المحددة هي عدد ميغا بايت.
+title: "Cache.MaxDiskSpaceForCache"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Cache خاصية. يحصل أو يضبط الحد الأقصى المتاح لمساحة القرص للتخزين المؤقت. القيمة المحددة هي عدد ميغابايت"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/cache/maxdiskspaceforcache/
 ---
+{{< psd/tize >}}
 ## Cache.MaxDiskSpaceForCache property
 
-الحصول على أو تعيين الحد الأقصى لمساحة القرص المتوفرة لذاكرة التخزين المؤقت. القيمة المحددة هي عدد ميغا بايت.
+يحصل أو يضبط الحد الأقصى للمساحة المتاحة على القرص للذاكرة المؤقتة. القيمة المحددة هي عدد الميغابايت.
 
 ```csharp
 public static int MaxDiskSpaceForCache { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأقصى لمساحة القرص المتوفرة لذاكرة التخزين المؤقت .
+الحد الأقصى المتاح لمساحة القرص للتخزين المؤقت.
 
-### ملاحظات
+## ملاحظات
 
-ستستهلك القيمة 0 كل الذاكرة المتوفرة ولن تكون بمثابة حد أعلى.
+القيمة 0 ستستهلك كل الذاكرة المتاحة وتعمل كعدم وجود حد أعلى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Cache](../)
-* مساحة الاسم [Aspose.PSD](../../cache/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

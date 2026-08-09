@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تحديد موضع الطبقة اليسرى.
+title: "Layer.Left"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل أو تعين موضع الطبقة اليسرى"
 type: docs
-weight: 240
+weight: 250
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
-الحصول على أو تحديد موضع الطبقة اليسرى.
+يحصل أو يضبط موضع الطبقة اليسرى.
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موضع الطبقة اليسرى .
+موضع الطبقة اليسرى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

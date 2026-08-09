@@ -1,35 +1,36 @@
 ---
-title: AiImage.SetPalette
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage طريقة. يضبط لوحة الصور .
+title: "AiImage.SetPalette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة AiImage. يضبط لوحة ألوان الصورة"
 type: docs
-weight: 170
+weight: 200
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
+{{< psd/tize >}}
 ## AiImage.SetPalette method
 
-يضبط لوحة الصور .
+يضبط لوحة ألوان الصورة.
 
 ```csharp
 public override void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| palette | IColorPalette | اللوحة المراد ضبطها. |
-| updateColors | Boolean | إذا تم التعيين على`حقيقي` سيتم تحديث الألوان وفقًا للوحة الجديدة ؛ وإلا تظل فهارس اللون دون تغيير. لاحظ أن الفهارس غير المتغيرة قد تتلف الصورة عند التحميل إذا لم يكن لبعض الفهارس مدخلات لوحة ألوان مقابلة. |
+| لوحة ألوان | IColorPalette | لوحة الألوان للتعيين. |
+| updateColors | Boolean | إذا تم تعيينه إلى `true` سيتم تحديث الألوان وفقًا للوحة الألوان الجديدة؛ وإلا ستظل فهارس الألوان دون تغيير. لاحظ أن الفهارس غير المتغيرة قد تتسبب في تعطل الصورة عند التحميل إذا لم يكن لبعض الفهارس إدخالات لوحة ألوان مقابلة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotImplementedException | لم تنفذ |
+| NotImplementedException | غير مُطبق |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: Image.InterruptMonitor
-second_title: Aspose.PSD لمرجع .NET API
-description: Image ملكية. الحصول على أو تعيين شاشة المقاطعة.
+title: "Image.InterruptMonitor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Image. تحصل على أو تعيين مراقب الانقطاع"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/image/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## Image.InterruptMonitor property
 
-الحصول على أو تعيين شاشة المقاطعة.
+يحصل أو يضبط مراقب المقاطعة.
 
 ```csharp
 public InterruptMonitor InterruptMonitor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InterruptMonitor](../../../aspose.psd.multithreading/interruptmonitor/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

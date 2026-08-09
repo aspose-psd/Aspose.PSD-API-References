@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpDescriptorVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على أو تعيين إصدار واصف الالتواء.
+title: "TypeToolInfo6Resource.WarpDescriptorVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfo6Resource. يحصل أو يحدد إصدار موصّف التشويه"
 type: docs
-weight: 190
+weight: 160
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpdescriptorversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpDescriptorVersion property
 
-الحصول على أو تعيين إصدار واصف الالتواء.
+يحصل أو يضبط نسخة موصّف التشويه.
 
 ```csharp
 public int WarpDescriptorVersion { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إصدار واصف الاعوجاج .
+إصدار موصّف التشويه.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

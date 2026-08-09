@@ -1,31 +1,32 @@
 ---
-title: Enum ExifSceneCaptureType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifSceneCaptureType تعداد. تعداد نوع التقاط مشهد exif .
+title: "عدد ExifSceneCaptureType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifSceneCaptureType عدد. exif نوع التقاط المشهد عدد"
 type: docs
-weight: 930
+weight: 940
 url: /ar/net/aspose.psd.exif.enums/exifscenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifSceneCaptureType enumeration
 
-تعداد نوع التقاط مشهد exif .
+exif تعداد نوع التقاط المشهد.
 
 ```csharp
 public enum ExifSceneCaptureType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Standard | `0` | مشهد قياسي . |
-| Landscape | `1` | مشهد أفقي. |
-| Portrait | `2` | مشهد عمودي . |
-| NightScene | `3` | مشهد ليلي . |
+| Standard | `0` | مشهد قياسي. |
+| Landscape | `1` | مشهد مناظر طبيعية. |
+| Portrait | `2` | مشهد بورتريه. |
+| NightScene | `3` | مشهد ليلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSMeasureMode
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين وضع قياس GPS .
+title: "ExifData.GPSMeasureMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط وضع قياس GPS"
 type: docs
 weight: 570
 url: /ar/net/aspose.psd.exif/exifdata/gpsmeasuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMeasureMode property
 
-الحصول على أو تعيين وضع قياس GPS .
+الحصول أو تعيين وضع قياس GPS.
 
 ```csharp
 public string GPSMeasureMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وضع قياس GPS .
+وضع قياس GPS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

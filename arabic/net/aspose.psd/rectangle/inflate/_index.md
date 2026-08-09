@@ -1,75 +1,76 @@
 ---
-title: Rectangle.Inflate
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. إنشاء وإرجاع نسخة مضخمة من المحددRectangleبناء. يتم تضخيم النسخة بالمبلغ المحدد. الأصليRectangle تظل البنية غير معدلة.
+title: "Rectangle.Inflate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تنشئ وتعيد نسخة موسعة من بنية Rectangle المحددة. يتم توسيع النسخة بالمقدار المحدد. تظل بنية Rectangle الأصلية غير معدلة."
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/rectangle/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(Rectangle, int, int)
 
-إنشاء وإرجاع نسخة مضخمة من المحدد[`Rectangle`](../)بناء. يتم تضخيم النسخة بالمبلغ المحدد. الأصلي[`Rectangle`](../) تظل البنية غير معدلة.
+تنشئ وتعيد نسخة موسعة من بنية [`Rectangle`](../) المحددة. يتم توسيع النسخة بالمقدار المحدد. تظل بنية [`Rectangle`](../) الأصلية غير معدلة.
 
 ```csharp
 public static Rectangle Inflate(Rectangle rect, int x, int y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | ال[`Rectangle`](../) التي تبدأ بها. لم يتم تعديل هذا المستطيل. |
-| x | Int32 | مقدار تضخيم هذا[`Rectangle`](../) أفقيا. |
-| y | Int32 | مقدار تضخيم هذا[`Rectangle`](../) عموديا. |
+| rect | Rectangle | الـ[`Rectangle`](../) للبدء. هذا المستطيل غير معدل. |
+| x | Int32 | المقدار لتوسيع هذا الـ[`Rectangle`](../) أفقياً. |
+| y | Int32 | المقدار لتوسيع هذا الـ[`Rectangle`](../) رأسياً. |
 
 ### قيمة الإرجاع
 
-تضخم[`Rectangle`](../).
+الـ[`Rectangle`](../) الموسع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(int, int) {#inflate_1}
 
-ينفخ هذا[`Rectangle`](../)بالمبلغ المحدد.
+يقوم بتوسيع هذا الـ[`Rectangle`](../) بالمقدار المحدد.
 
 ```csharp
 public void Inflate(int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | مقدار تضخيم هذا[`Rectangle`](../) أفقيا. |
-| height | Int32 | مقدار تضخيم هذا[`Rectangle`](../) عموديا. |
+| width | Int32 | المقدار لتوسيع هذا الـ[`Rectangle`](../) أفقياً. |
+| height | Int32 | المقدار لتوسيع هذا الـ[`Rectangle`](../) رأسياً. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(Size) {#inflate}
 
-ينفخ هذا[`Rectangle`](../)بالمبلغ المحدد.
+يقوم بتوسيع هذا الـ[`Rectangle`](../) بالمقدار المحدد.
 
 ```csharp
 public void Inflate(Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | Size | مقدار تضخيم هذا المستطيل. |
+| الحجم | الحجم | المقدار لتضخيم هذا المستطيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

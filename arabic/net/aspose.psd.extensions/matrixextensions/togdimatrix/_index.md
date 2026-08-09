@@ -1,32 +1,33 @@
 ---
-title: MatrixExtensions.ToGdiMatrix
-second_title: Aspose.PSD لمرجع .NET API
-description: MatrixExtensions طريقة. يحول ملفMatrix الىMatrix .
+title: "MatrixExtensions.ToGdiMatrix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة MatrixExtensions. يحول الـ Matrix إلى الـ Matrix"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.extensions/matrixextensions/togdimatrix/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions.ToGdiMatrix method
 
-يحول ملف[`Matrix`](../../../aspose.psd/matrix/) الىMatrix .
+يحول الـ [`Matrix`](../../../aspose.psd/matrix/) إلى الـ Matrix.
 
 ```csharp
 public static Matrix ToGdiMatrix(Matrix matrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | ال[`Matrix`](../../../aspose.psd/matrix/) لتحويل. |
+| matrix | Matrix | الـ [`Matrix`](../../../aspose.psd/matrix/) للتحويل. |
 
 ### قيمة الإرجاع
 
-المحولةMatrix.
+الـ Matrix المحوَّل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [MatrixExtensions](../)
-* مساحة الاسم [Aspose.PSD.Extensions](../../matrixextensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.Format
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على تنسيق بيانات الصورة المصغرة أو تعيينها.
+title: "ThumbnailResource.Format"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. تحصل أو تعين تنسيق بيانات الصورة المصغرة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/format/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Format property
 
-الحصول على تنسيق بيانات الصورة المصغرة أو تعيينها.
+يحصل أو يضبط تنسيق بيانات الصورة المصغرة.
 
 ```csharp
 public ThumbnailFormat Format { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيق البيانات المصغرة.
+تنسيق بيانات الصورة المصغرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ThumbnailFormat](../../thumbnailformat/)
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

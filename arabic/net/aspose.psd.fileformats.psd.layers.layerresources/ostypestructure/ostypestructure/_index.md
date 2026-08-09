@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.OSTypeStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructure البناء. يقوم بتهيئة مثيل جديد لملفOSTypeStructure فئة .
+title: "OSTypeStructure.OSTypeStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ OSTypeStructure. يهيئ نسخة جديدة من فئة OSTypeStructure"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure constructor
 
-يقوم بتهيئة مثيل جديد لملف[`OSTypeStructure`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`OSTypeStructure`](../).
 
 ```csharp
 public OSTypeStructure(ClassID keyName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | keyName | ClassID | اسم المفتاح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

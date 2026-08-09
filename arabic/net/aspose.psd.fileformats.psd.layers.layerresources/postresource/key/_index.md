@@ -1,11 +1,12 @@
 ---
-title: PostResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: PostResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "PostResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PostResource. تحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/key/
 ---
+{{< psd/tize >}}
 ## PostResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PostResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorantCmyk.GetXmpRepresentation
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantCmyk طريقة. الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+title: "ColorantCmyk.GetXmpRepresentation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorantCmyk. يحصل على القيمة النصية المحتواة بتنسيق XMP"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.GetXmpRepresentation method
 
-الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+يحصل على القيمة النصية المحتواة بتنسيق XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### قيمة الإرجاع
 
-إرجاع القيمة المضمنة في السلسلة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantCmyk](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

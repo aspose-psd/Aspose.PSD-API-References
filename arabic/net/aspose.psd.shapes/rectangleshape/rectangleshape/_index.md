@@ -1,44 +1,45 @@
 ---
-title: RectangleShape.RectangleShape
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleShape البناء. يقوم بتهيئة مثيل جديد لملفRectangleShape فئة .
+title: "RectangleShape.RectangleShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ RectangleShape. يهيئ نسخة جديدة من فئة RectangleShape"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.shapes/rectangleshape/rectangleshape/
 ---
+{{< psd/tize >}}
 ## RectangleShape() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`RectangleShape`](../) فئة .
+يهيئ نسخة جديدة من فئة [`RectangleShape`](../).
 
 ```csharp
 public RectangleShape()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RectangleShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleShape(RectangleF) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`RectangleShape`](../) فئة .
+يهيئ نسخة جديدة من فئة [`RectangleShape`](../).
 
 ```csharp
 public RectangleShape(RectangleF rectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | RectangleF | المستطيل. |
+| مستطيل | RectangleF | المستطيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

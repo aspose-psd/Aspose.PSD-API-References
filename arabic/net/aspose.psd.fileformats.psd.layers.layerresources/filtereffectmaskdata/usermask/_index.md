@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.UserMask
-second_title: Aspose.PSD لمرجع .NET API
-description: FilterEffectMaskData ملكية. يحصل على قناع المستخدم.
+title: "FilterEffectMaskData.UserMask"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FilterEffectMaskData. تحصل على القناع المستخدم"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.UserMask property
 
 يحصل على قناع المستخدم.
@@ -14,11 +15,11 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public ChannelInformation UserMask { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

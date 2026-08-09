@@ -1,43 +1,44 @@
 ---
-title: ShmdResource.ShmdResource
-second_title: Aspose.PSD لمرجع .NET API
-description: ShmdResource البناء. يقوم بتهيئة مثيل جديد لملفShmdResource فئة .
+title: "ShmdResource.ShmdResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ShmdResource. يهيئ نسخة جديدة من الفئة ShmdResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ShmdResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ShmdResource`](../).
 
 ```csharp
 public ShmdResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShmdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ShmdResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ShmdResource`](../).
 
 ```csharp
 public ShmdResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات المورد. |
+| البيانات | Byte[] | البيانات الخاصة بالمورد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShmdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

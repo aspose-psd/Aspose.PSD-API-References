@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestBearing
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين اتجاه GPS إلى نقطة الوجهة.
+title: "ExifData.GPSDestBearing"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين اتجاه GPS إلى نقطة الوجهة"
 type: docs
 weight: 400
 url: /ar/net/aspose.psd.exif/exifdata/gpsdestbearing/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearing property
 
-الحصول على أو تعيين اتجاه GPS إلى نقطة الوجهة.
+يحصل أو يضبط اتجاه GPS إلى نقطة الوجهة.
 
 ```csharp
 public TiffRational GPSDestBearing { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اتجاه GPS إلى نقطة الوجهة .
+اتجاه GPS إلى نقطة الوجهة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestDistance
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد مسافة GPS لنقطة الوجهة.
+title: "ExifData.GPSDestDistance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط مسافة GPS إلى نقطة الوجهة"
 type: docs
 weight: 420
 url: /ar/net/aspose.psd.exif/exifdata/gpsdestdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistance property
 
-الحصول على أو تحديد مسافة GPS لنقطة الوجهة.
+الحصول أو تعيين مسافة GPS إلى نقطة الوجهة.
 
 ```csharp
 public TiffRational GPSDestDistance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مسافة GPS لنقطة الوجهة .
+مسافة GPS إلى نقطة الوجهة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

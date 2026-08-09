@@ -1,14 +1,15 @@
 ---
-title: Color.ToArgb
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. يحصل على قيمة ARGB 32 بت لهذاColorهيكل .
+title: "Color.ToArgb"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Color method. تُرجع قيمة ARGB 32‑بت لهذه البنية Color"
 type: docs
 weight: 1590
 url: /ar/net/aspose.psd/color/toargb/
 ---
+{{< psd/tize >}}
 ## Color.ToArgb method
 
-يحصل على قيمة ARGB 32 بت لهذا[`Color`](../)هيكل .
+تُرجع قيمة ARGB 32‑بت لهذه البنية [`Color`](../).
 
 ```csharp
 public int ToArgb()
@@ -16,12 +17,12 @@ public int ToArgb()
 
 ### قيمة الإرجاع
 
-قيمة ARGB 32 بت لهذا[`Color`](../).
+قيمة ARGB 32‑بت لهذه [`Color`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

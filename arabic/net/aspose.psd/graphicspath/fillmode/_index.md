@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.FillMode
-second_title: Aspose.PSD لمرجع .NET API
-description: GraphicsPath ملكية. يحصل أو يحدد أFillMode التعداد الذي يحدد كيفية الأشكال الداخلية للأشكال في هذاGraphicsPath ممتلئة .
+title: "GraphicsPath.FillMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GraphicsPath. تحصل أو تعيّن تعداد FillMode الذي يحدد كيفية تعبئة داخل الأشكال في هذا GraphicsPath"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/graphicspath/fillmode/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.FillMode property
 
-يحصل أو يحدد أ[`FillMode`](../../fillmode/) التعداد الذي يحدد كيفية الأشكال الداخلية للأشكال في هذا[`GraphicsPath`](../) ممتلئة .
+تحصل أو تعيّن تعداد [`FillMode`](../../fillmode/) الذي يحدد كيفية تعبئة داخل الأشكال في هذا [`GraphicsPath`](../).
 
 ```csharp
 public FillMode FillMode { get; set; }
@@ -16,17 +17,17 @@ public FillMode FillMode { get; set; }
 
 ### قيمة الإرجاع
 
-أ[`FillMode`](../../fillmode/) التعداد الذي يحدد كيفية الأشكال الداخلية للأشكال في هذا[`GraphicsPath`](../) ممتلئة .
+تعداد [`FillMode`](../../fillmode/) يحدد كيفية تعبئة داخل الأشكال في هذا [`GraphicsPath`](../).
 
-### Property_Value
+### Property Value
 
-وضع الملء.
+وضع التعبئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* مساحة الاسم [Aspose.PSD](../../graphicspath/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

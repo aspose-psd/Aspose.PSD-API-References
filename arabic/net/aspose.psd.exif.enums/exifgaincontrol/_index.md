@@ -1,32 +1,33 @@
 ---
-title: Enum ExifGainControl
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifGainControl تعداد. تعداد التحكم في كسب exif .
+title: "تعداد ExifGainControl"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl تعداد. exif تحكم في الكسب تعداد"
 type: docs
-weight: 880
+weight: 890
 url: /ar/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-تعداد التحكم في كسب exif .
+exif تعداد التحكم في الكسب.
 
 ```csharp
 public enum ExifGainControl
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لا يوجد تحكم في الكسب . |
-| LowGainUp | `1` | مكاسب منخفضة لأعلى . |
-| HighGainUp | `2` | مكاسب عالية لأعلى . |
-| LowGainDown | `3` | انخفاض ربح منخفض . |
-| HighGainDown | `4` | انخفاض مكاسب عالية . |
+| None | `0` | لا تحكم في الكسب. |
+| LowGainUp | `1` | ارتفاع منخفض للربح. |
+| HighGainUp | `2` | ارتفاع عالي للربح. |
+| LowGainDown | `3` | انخفاض منخفض للربح. |
+| HighGainDown | `4` | انخفاض عالي للربح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

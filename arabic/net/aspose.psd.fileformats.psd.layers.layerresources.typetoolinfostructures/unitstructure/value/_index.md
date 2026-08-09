@@ -1,27 +1,28 @@
 ---
-title: UnitStructure.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: UnitStructure ملكية. الحصول على القيمة أو تعيينها.
+title: "UnitStructure.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnitStructure. يحصل على أو يضبط القيمة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Value property
 
-الحصول على القيمة أو تعيينها.
+يحصل أو يعيّن القيمة.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

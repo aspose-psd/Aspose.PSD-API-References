@@ -1,43 +1,44 @@
 ---
-title: Class ColorBlend
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ColorBlend فصل. يحدد مصفوفات الألوان والمواضع المستخدمة لإقحام مزج الألوان في تدرج متعدد الألوان. لا يمكن توريث هذه الفئة.
+title: "الفئة ColorBlend"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ColorBlend. تُعرّف مصفوفات الألوان والمواقع المستخدمة في استيفاء دمج الألوان في تدرج متعدد الألوان. لا يمكن توريث هذه الفئة."
 type: docs
 weight: 310
 url: /ar/net/aspose.psd/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend class
 
-يحدد مصفوفات الألوان والمواضع المستخدمة لإقحام مزج الألوان في تدرج متعدد الألوان. لا يمكن توريث هذه الفئة.
+يحدد مصفوفات من الألوان والمواقع المستخدمة في استيفاء مزج الألوان في تدرج متعدد الألوان. لا يمكن وراثة هذه الفئة.
 
 ```csharp
 public sealed class ColorBlend
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ColorBlend](colorblend/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ColorBlend` فئة . |
-| [ColorBlend](colorblend/#constructor_1)(int) | يقوم بتهيئة مثيل جديد لملف`ColorBlend` فئة مع العدد المحدد من الألوان والمواقف. |
+| [ColorBlend](colorblend/#constructor)() | ينشئ مثيلًا جديدًا للفئة `ColorBlend`. |
+| [ColorBlend](colorblend/#constructor_1)(int) | ينشئ مثيلًا جديدًا للفئة `ColorBlend` بعدد الألوان والمواقع المحددة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Colors](../../aspose.psd/colorblend/colors/) { get; set; } | الحصول على أو تعيين مجموعة من الألوان التي تمثل الألوان لاستخدامها في المواضع المقابلة على طول التدرج اللوني . |
-| [Positions](../../aspose.psd/colorblend/positions/) { get; set; } | الحصول على أو تعيين المواضع على طول خط التدرج . |
+| [Colors](../../aspose.psd/colorblend/colors/) { get; set; } | يحصل أو يضبط مصفوفة من الألوان التي تمثل الألوان المستخدمة في المواقع المقابلة على طول التدرج. |
+| [Positions](../../aspose.psd/colorblend/positions/) { get; set; } | يحصل أو يضبط المواقع على طول خط التدرج. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.psd/colorblend/equals/)(object) | تختبر ما إذا كان الكائن المحدد ملف`ColorBlend` فئة وما يعادل هذا`ColorBlend` فئة . |
-| override [GetHashCode](../../aspose.psd/colorblend/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
+| override [Equals](../../aspose.psd/colorblend/equals/)(object) | يفحص ما إذا كان الكائن المحدد من فئة `ColorBlend` ومكافئ لهذه الفئة `ColorBlend`. |
+| override [GetHashCode](../../aspose.psd/colorblend/gethashcode/)() | يرجع رمز تجزئة لهذه المثيلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

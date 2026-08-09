@@ -1,23 +1,24 @@
 ---
-title: ArcShape.Reverse
-second_title: Aspose.PSD لمرجع .NET API
-description: ArcShape طريقة. عكس ترتيب النقاط لهذا الشكل.
+title: "ArcShape.Reverse"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ArcShape. تعكس ترتيب النقاط لهذا الشكل"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.shapes/arcshape/reverse/
 ---
+{{< psd/tize >}}
 ## ArcShape.Reverse method
 
-عكس ترتيب النقاط لهذا الشكل.
+يعكس ترتيب النقاط لهذا الشكل.
 
 ```csharp
 public void Reverse()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ArcShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../arcshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: CmxRasterizationOptions.CmxRasterizationOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: CmxRasterizationOptions البناء. Default_Constructor
+title: "CmxRasterizationOptions.CmxRasterizationOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ CmxRasterizationOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/cmxrasterizationoptions/cmxrasterizationoptions/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public CmxRasterizationOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CmxRasterizationOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

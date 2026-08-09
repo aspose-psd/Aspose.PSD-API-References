@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. الحصول على أو تعيين فاصل التدرج .
+title: "GdFlResource.GradientInterval"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. يحصل أو يضبط فاصل التدرج"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
-الحصول على أو تعيين فاصل التدرج .
+يحصل أو يعيّن فاصل التدرج.
 
 ```csharp
 public double GradientInterval { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-فاصل التدرج .
+فاصل التدرج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Class IndexOutOFRangeException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.IndexOutOFRangeException فصل. استثناء الضاغط .
+title: "الفئة IndexOutOFRangeException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.CoreExceptions.IndexOutOFRangeException. استثناء الضاغط."
 type: docs
 weight: 640
 url: /ar/net/aspose.psd.coreexceptions/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException class
 
-استثناء الضاغط .
+استثناء الضاغط.
 
 ```csharp
 public class IndexOutOFRangeException : Exception
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف[`CompressorException`](../compressorexception/) فئة . |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف[`CompressorException`](../compressorexception/) فئة . |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | ينشئ مثالا جديدا من الفئة [`CompressorException`](../compressorexception/). |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | ينشئ مثالا جديدا من الفئة [`CompressorException`](../compressorexception/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

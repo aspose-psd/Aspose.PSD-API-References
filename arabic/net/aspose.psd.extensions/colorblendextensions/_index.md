@@ -1,28 +1,29 @@
 ---
-title: Class ColorBlendExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.ColorBlendExtensions فصل. يحتوي علىColorBlend طرق التمديد .
+title: "الفئة ColorBlendExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Extensions.ColorBlendExtensions. تحتوي على أساليب امتداد ColorBlend"
 type: docs
-weight: 1040
+weight: 1050
 url: /ar/net/aspose.psd.extensions/colorblendextensions/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions class
 
-يحتوي على[`ColorBlend`](../../aspose.psd/colorblend/) طرق التمديد .
+تحتوي على أساليب امتداد [`ColorBlend`](../../aspose.psd/colorblend/).
 
 ```csharp
 public static class ColorBlendExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | يحول ملف[`ColorBlend`](../../aspose.psd/colorblend/) لColorBlend . |
+| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | يحوّل [`ColorBlend`](../../aspose.psd/colorblend/) إلى ColorBlend. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

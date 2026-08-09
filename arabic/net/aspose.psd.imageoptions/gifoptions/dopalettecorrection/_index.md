@@ -1,31 +1,32 @@
 ---
-title: GifOptions.DoPaletteCorrection
-second_title: Aspose.PSD لمرجع .NET API
-description: GifOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان قد تم تطبيق تصحيح لوح الألوان .
+title: "GifOptions.DoPaletteCorrection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GifOptions. تحصل أو تعين قيمة تشير إلى ما إذا تم تطبيق تصحيح اللوحة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.imageoptions/gifoptions/dopalettecorrection/
 ---
+{{< psd/tize >}}
 ## GifOptions.DoPaletteCorrection property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان قد تم تطبيق تصحيح لوح الألوان .
+يحصل أو يضبط قيمة تُشير إلى ما إذا كان تصحيح اللوحة يُطبق.
 
 ```csharp
 public bool DoPaletteCorrection { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تطبيق تصحيح لوح الألوان ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا تم تطبيق تصحيح اللوحة؛ وإلا `false`.
 
-### ملاحظات
+## ملاحظات
 
-يعني تصحيح اللوحة أنه كلما تم تصدير الصورة إلى GIF ، سيتم تحليل ألوان الصورة المصدر من أجل إنشاء أفضل لوحة مطابقة (في حالة عدم وجود لوحة الصورة أو عدم تحديدها في الخيارات) . تستغرق عملية التحليل بعض الوقت ولكن سيكون لصورة الإخراج أفضل لوحة ألوان مطابقة والنتيجة أفضل بصريًا.
+يعني تصحيح اللوحة أنه كلما تم تصدير الصورة إلى GIF يتم تحليل ألوان الصورة المصدر لبناء أفضل لوحة ألوان مطابقة (في حال عدم وجود لوحة ألوان للصورة أو عدم تحديدها في الخيارات). تستغرق عملية التحليل بعض الوقت، إلا أن الصورة الناتجة ستحصل على أفضل لوحة ألوان مطابقة وستكون النتيجة أفضل بصريًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GifOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../gifoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

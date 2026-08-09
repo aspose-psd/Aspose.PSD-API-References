@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressCallback
-second_title: Aspose.PSD لمرجع .NET API
-description: وظيفة رد الاتصال لاستلام حدث تغيير تقدم المهمة.
+title: "المندوب ProgressCallback"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "دالة رد النداء لتلقي حدث تغيير تقدم المهمة"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.asynctask/progresscallback/
 ---
+{{< psd/tize >}}
 ## ProgressCallback delegate
 
-وظيفة رد الاتصال لاستلام حدث تغيير تقدم المهمة.
+دالة رد الاتصال لتلقي حدث تغيير تقدم المهمة.
 
 ```csharp
 public delegate void ProgressCallback(int progressPercentage);
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | progressPercentage | Int32 | نسبة التقدم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

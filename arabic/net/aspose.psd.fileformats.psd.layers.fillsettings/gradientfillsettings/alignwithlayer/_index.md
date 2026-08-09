@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.AlignWithLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientFillSettings ملكية. الحصول على أو تعيين قيمة تشير إلى محاذاة مع الطبقة .
+title: "GradientFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GradientFillSettings. يحصل أو يضبط قيمة تشير إلى ما إذا كان يتم المحاذاة مع الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AlignWithLayer property
 
-الحصول على أو تعيين قيمة تشير إلى [محاذاة مع الطبقة] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [محاذاة مع الطبقة] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [align with layer]; وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

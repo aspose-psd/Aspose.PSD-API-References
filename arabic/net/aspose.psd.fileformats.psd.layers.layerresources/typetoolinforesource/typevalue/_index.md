@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.TypeValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على قيمة النوع أو تعيينها.
+title: "TypeToolInfoResource.TypeValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط قيمة النوع"
 type: docs
-weight: 240
+weight: 210
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TypeValue property
 
-الحصول على قيمة النوع أو تعيينها.
+يحصل أو يضبط قيمة النوع.
 
 ```csharp
 public short TypeValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة النوع .
+قيمة النوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,111 +1,112 @@
 ---
-title: CurveShape.CurveShape
-second_title: Aspose.PSD لمرجع .NET API
-description: CurveShape البناء. يقوم بتهيئة مثيل جديد لملفCurveShape فئة .
+title: "CurveShape.CurveShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ CurveShape. يهيئ نسخة جديدة من الفئة CurveShape"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.shapes/curveshape/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`CurveShape`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`CurveShape`](../).
 
 ```csharp
 public CurveShape()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurveShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../curveshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`CurveShape`](../) فصل. يتم استخدام الشد الافتراضي 0.5.
+يهيئ نسخة جديدة من الفئة [`CurveShape`](../). يتم استخدام شدّ افتراضي قدره 0.5.
 
 ```csharp
 public CurveShape(PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة النقاط. |
+| نقاط | PointF[] | مصفوفة النقاط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../curveshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], bool) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`CurveShape`](../) فصل. يتم استخدام الشد الافتراضي 0.5.
+يهيئ نسخة جديدة من الفئة [`CurveShape`](../). يتم استخدام شدّ افتراضي قدره 0.5.
 
 ```csharp
 public CurveShape(PointF[] points, bool isClosed)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة النقاط. |
-| isClosed | Boolean | إذا تم التعيين على`حقيقي` المنحنى مغلق. |
+| نقاط | PointF[] | مصفوفة النقاط. |
+| isClosed | Boolean | إذا تم تعيينه إلى `true` فإن المنحنى مغلق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../curveshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`CurveShape`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`CurveShape`](../).
 
 ```csharp
 public CurveShape(PointF[] points, float tension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة النقاط. |
-| tension | Single | توتر المنحنى. |
+| نقاط | PointF[] | مصفوفة النقاط. |
+| الشد | Single | شد المنحنى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../curveshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float, bool) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`CurveShape`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`CurveShape`](../).
 
 ```csharp
 public CurveShape(PointF[] points, float tension, bool isClosed)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة النقاط. |
-| tension | Single | توتر المنحنى. |
-| isClosed | Boolean | إذا تم التعيين على`حقيقي` المنحنى مغلق. |
+| نقاط | PointF[] | مصفوفة النقاط. |
+| الشد | Single | شد المنحنى. |
+| isClosed | Boolean | إذا تم تعيينه إلى `true` فإن المنحنى مغلق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../curveshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: XmpMeta.XmpMeta
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpMeta البناء. يقوم بتهيئة مثيل جديد لملفXmpMeta فئة .
+title: "XmpMeta.XmpMeta"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpMeta. يهيئ نسخة جديدة من الفئة XmpMeta"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/xmpmeta/xmpmeta/
 ---
+{{< psd/tize >}}
 ## XmpMeta(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpMeta`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpMeta`](../).
 
 ```csharp
 public XmpMeta(string toolkitVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | toolkitVersion | String | إصدار مجموعة أدوات Adobe XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMeta](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpmeta/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpMeta() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpMeta`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpMeta`](../).
 
 ```csharp
 public XmpMeta()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMeta](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpmeta/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

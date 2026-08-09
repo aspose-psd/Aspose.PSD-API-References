@@ -1,14 +1,15 @@
 ---
-title: Class Configuration
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.MemoryManagement.Configuration فصل. التكوين العام لإدارة الذاكرة
+title: "الفئة Configuration"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.MemoryManagement.Configuration. التكوين العام لإدارة الذاكرة"
 type: docs
-weight: 5110
+weight: 5600
 url: /ar/net/aspose.psd.memorymanagement/configuration/
 ---
+{{< psd/tize >}}
 ## Configuration class
 
-التكوين العام لإدارة الذاكرة
+التكوين العالمي لإدارة الذاكرة
 
 ```csharp
 public static class Configuration
@@ -16,13 +17,13 @@ public static class Configuration
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | الحصول على أو تعيين تلميح حجم المخزن المؤقت الذي تم تحديده بالحجم الأقصى المسموح به لجميع المخازن المؤقتة الداخلية. |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | يحصل أو يعيّن تلميح حجم المخزن المؤقت الذي يُعرف كأقصى حجم مسموح به لجميع المخازن المؤقتة الداخلية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: LineSegment.LineSegment
-second_title: Aspose.PSD لمرجع .NET API
-description: LineSegment البناء. يقوم بتهيئة مثيل جديد لملفLineSegment فئة .
+title: "LineSegment.LineSegment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LineSegment. يهيئ مثيلاً جديداً من الفئة LineSegment"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.shapesegments/linesegment/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment constructor
 
-يقوم بتهيئة مثيل جديد لملف[`LineSegment`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`LineSegment`](../).
 
 ```csharp
 public LineSegment(PointF startPoint, PointF endPoint)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | startPoint | PointF | نقطة البداية. |
 | endPoint | PointF | نقطة النهاية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* مساحة الاسم [Aspose.PSD.ShapeSegments](../../linesegment/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

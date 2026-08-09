@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.WriteByte
-second_title: Aspose.PSD لمرجع .NET API
-description: SplitStreamContainer طريقة. يكتب بايت إلى الموضع الحالي في الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد.
+title: "SplitStreamContainer.WriteByte"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SplitStreamContainer. كتابة بايت إلى الموضع الحالي في الدفق وتقدم الموضع داخل الدفق بايتًا واحدًا."
 type: docs
 weight: 180
 url: /ar/net/aspose.psd/splitstreamcontainer/writebyte/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.WriteByte method
 
-يكتب بايت إلى الموضع الحالي في الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد.
+يكتب بايتًا إلى الموقع الحالي في التدفق ويتقدم بالموقع داخل التدفق بايتًا واحدًا.
 
 ```csharp
 public override void WriteByte(byte value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Byte | البايت المراد كتابته في الدفق. |
+| قيمة | بايت | البايت الذي سيتم كتابته إلى الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

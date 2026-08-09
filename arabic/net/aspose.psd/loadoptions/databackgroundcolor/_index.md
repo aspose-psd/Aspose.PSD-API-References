@@ -1,32 +1,33 @@
 ---
-title: LoadOptions.DataBackgroundColor
-second_title: Aspose.PSD لمرجع .NET API
-description: LoadOptions ملكية. يحصل أو يحدد ملفImage خلفيةColor .
+title: "LoadOptions.DataBackgroundColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LoadOptions. تحصل أو تعين لون خلفية الصورة."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/loadoptions/databackgroundcolor/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataBackgroundColor property
 
-يحصل أو يحدد ملف[`Image`](../../image/) خلفية[`Color`](../../color/) .
+تحصل أو تعين خلفية [`Image`](../../image/) [`Color`](../../color/).
 
 ```csharp
 public Color DataBackgroundColor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-لون الخلفية .
+لون الخلفية.
 
-### ملاحظات
+## ملاحظات
 
-عادةً ما يتم تعيين لون الخلفية عندما لا يمكن استرداد قيمة البكسل بسبب تلف البيانات.
+عادةً ما يتم تعيين لون الخلفية كلما تعذر استعادة قيمة البكسل بسبب فساد البيانات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* مساحة الاسم [Aspose.PSD](../../loadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

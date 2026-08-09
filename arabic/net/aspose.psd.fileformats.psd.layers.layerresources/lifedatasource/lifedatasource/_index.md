@@ -1,48 +1,49 @@
 ---
-title: LiFeDataSource.LiFeDataSource
-second_title: Aspose.PSD لمرجع .NET API
-description: LiFeDataSource البناء. يقوم بتهيئة مثيل جديد لملفLiFeDataSource فئة .
+title: "LiFeDataSource.LiFeDataSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LiFeDataSource. يهيئ مثيلًا جديدًا من فئة LiFeDataSource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LiFeDataSource`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`LiFeDataSource`](../).
 
 ```csharp
 public LiFeDataSource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LiFeDataSource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LiFeDataSource(int, Guid, string, string, string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LiFeDataSource`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`LiFeDataSource`](../).
 
 ```csharp
 public LiFeDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 
     string fileCreator)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| version | Int32 | النسخة. |
-| uniqueId | Guid | المعرف الفريد. |
+| version | Int32 | الإصدار. |
+| uniqueId | Guid | المعرّف الفريد. |
 | originalFileName | String | اسم الملف الأصلي. |
 | fileType | String | نوع الملف. |
 | fileCreator | String | منشئ الملف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LiFeDataSource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

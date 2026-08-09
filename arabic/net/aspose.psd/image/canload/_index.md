@@ -1,11 +1,12 @@
 ---
-title: Image.CanLoad
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. يحدد ما إذا كان يمكن تحميل الصورة من مسار الملف المحدد.
+title: "Image.CanLoad"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تحدد ما إذا كان يمكن تحميل الصورة من مسار الملف المحدد"
 type: docs
-weight: 250
+weight: 260
 url: /ar/net/aspose.psd/image/canload/
 ---
+{{< psd/tize >}}
 ## CanLoad(string) {#canload_2}
 
 يحدد ما إذا كان يمكن تحميل الصورة من مسار الملف المحدد.
@@ -14,94 +15,94 @@ url: /ar/net/aspose.psd/image/canload/
 public static bool CanLoad(string filePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | filePath | String | مسار الملف. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان من الممكن تحميل الصورة من الملف المحدد ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان يمكن تحميل الصورة من الملف المحدد؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(string, LoadOptions) {#canload_3}
 
-يحدد ما إذا كان يمكن تحميل الصورة من مسار الملف المحدد واختيارياً باستخدام خيارات الفتح المحددة.
+يحدد ما إذا كان يمكن تحميل الصورة من مسار الملف المحدد واستخدام خيارات الفتح المحددة اختياريًا.
 
 ```csharp
 public static bool CanLoad(string filePath, LoadOptions loadOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | filePath | String | مسار الملف. |
-| loadOptions | LoadOptions | خيارات التحميل . |
+| loadOptions | LoadOptions | خيارات التحميل. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان من الممكن تحميل الصورة من الملف المحدد ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان يمكن تحميل الصورة من الملف المحدد؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(Stream) {#canload}
 
-يحدد ما إذا كان يمكن تحميل الصورة من التدفق المحدد.
+يحدد ما إذا كان يمكن تحميل الصورة من الدفق المحدد.
 
 ```csharp
 public static bool CanLoad(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق للتحميل منه . |
+| stream | Stream | المسار stream للتحميل منه. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان يمكن تحميل الصورة من الدفق المحدد ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان يمكن تحميل الصورة من الـ stream المحدد؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(Stream, LoadOptions) {#canload_1}
 
-لتحديد ما إذا كان يمكن تحميل الصورة من التدفق المحدد واختيارياً باستخدام المحدد*loadOptions* .
+يحدد ما إذا كان يمكن تحميل الصورة من الدفق المحدد واستخدام *loadOptions* المحدد اختياريًا.
 
 ```csharp
 public static bool CanLoad(Stream stream, LoadOptions loadOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق للتحميل منه . |
-| loadOptions | LoadOptions | خيارات التحميل . |
+| stream | Stream | المسار stream للتحميل منه. |
+| loadOptions | LoadOptions | خيارات التحميل. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان يمكن تحميل الصورة من الدفق المحدد ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان يمكن تحميل الصورة من الـ stream المحدد؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

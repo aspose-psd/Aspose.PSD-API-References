@@ -1,27 +1,28 @@
 ---
-title: AiImage.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. الحصول على عرض الصورة .
+title: "AiImage.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. يحصل على عرض الصورة"
 type: docs
-weight: 120
+weight: 140
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/width/
 ---
+{{< psd/tize >}}
 ## AiImage.Width property
 
-الحصول على عرض الصورة .
+يحصل على عرض الصورة.
 
 ```csharp
 public override int Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عرض الصورة .
+عرض الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

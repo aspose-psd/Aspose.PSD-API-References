@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.IsValid
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffDataType ملكية. يحصل على قيمة تشير إلى ما إذا كانت بيانات العلامة صالحة. تحتوي العلامة الصالحة على بيانات يمكن الاحتفاظ بها. لا يمكن تخزين العلامة غير الصالحة.
+title: "TiffDataType.IsValid"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffDataType. تحصّل قيمة تشير إلى ما إذا كانت بيانات العلامة صالحة. العلامة الصالحة تحتوي على بيانات يمكن حفظها. العلامة غير الصالحة لا يمكن تخزينها"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.tiff/tiffdatatype/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.IsValid property
 
-يحصل على قيمة تشير إلى ما إذا كانت بيانات العلامة صالحة. تحتوي العلامة الصالحة على بيانات يمكن الاحتفاظ بها. لا يمكن تخزين العلامة غير الصالحة.
+يحصل على قيمة تشير إلى ما إذا كانت بيانات العلامة صالحة. العلامة الصالحة تحتوي على بيانات يمكن حفظها. العلامة غير الصالحة لا يمكن تخزينها.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت بيانات العلامة صالحة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت بيانات العلامة صالحة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

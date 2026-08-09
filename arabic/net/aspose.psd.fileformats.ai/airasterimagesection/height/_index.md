@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Height
-second_title: Aspose.PSD لمرجع .NET API
-description: AiRasterImageSection ملكية. يحصل على الارتفاع.
+title: "AiRasterImageSection.Height"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiRasterImageSection. تحصل على الارتفاع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Height property
 
 يحصل على الارتفاع.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 public double Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الإرتفاع.
+الارتفاع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiRasterImageSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

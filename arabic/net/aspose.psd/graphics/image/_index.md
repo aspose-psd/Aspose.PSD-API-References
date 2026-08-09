@@ -1,28 +1,29 @@
 ---
-title: Graphics.Image
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics ملكية. يحصل على الصورة .
+title: "Graphics.Image"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Graphics. تحصل على الصورة."
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/graphics/image/
 ---
+{{< psd/tize >}}
 ## Graphics.Image property
 
-يحصل على الصورة .
+يحصل على الصورة.
 
 ```csharp
 public Image Image { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الصورة الرسومية.
+صورة الرسوم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

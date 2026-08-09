@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.ReadByte
-second_title: Aspose.PSD لمرجع .NET API
-description: SplitStreamContainer طريقة. يقرأ بايت من الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد  أو يُرجع 1 إذا كان في نهاية الدفق .
+title: "SplitStreamContainer.ReadByte"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SplitStreamContainer. تقرأ بايتًا من الدفق وتقدم الموضع داخل الدفق بايتًا واحدًا أو تُعيد 1 إذا كان عند نهاية الدفق"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/splitstreamcontainer/readbyte/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.ReadByte method
 
-يقرأ بايت من الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد ، أو يُرجع -1 إذا كان في نهاية الدفق .
+يقرأ بايتًا واحدًا من التدفق ويتقدم بالموقع داخل التدفق بايتًا واحدًا، أو يُعيد -1 إذا كان عند نهاية التدفق.
 
 ```csharp
 public override int ReadByte()
@@ -16,12 +17,12 @@ public override int ReadByte()
 
 ### قيمة الإرجاع
 
-إرسال البايت غير الموقعة إلى Int32 ، أو -1 إذا كان في نهاية الدفق.
+البايت غير الموقّع محوّل إلى Int32، أو -1 إذا كان عند نهاية الدفق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

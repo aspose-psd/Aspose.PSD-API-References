@@ -1,14 +1,15 @@
 ---
-title: SizeF.IsEmpty
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF ملكية. يحصل على قيمة تشير إلى ما إذا كان هذاSizeF العرض والارتفاع صفر.
+title: "SizeF.IsEmpty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SizeF. تُعيد قيمة تُظهر ما إذا كان هذا SizeF له عرض وارتفاع صفر."
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا[`SizeF`](../) العرض والارتفاع صفر.
+تُعيد قيمة تُظهر ما إذا كان هذا [`SizeF`](../) له عرض وارتفاع صفر.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,12 +17,12 @@ public bool IsEmpty { get; }
 
 ### قيمة الإرجاع
 
-هذه الخاصية تعود صحيحًا عندما يكون هذا[`SizeF`](../) يبلغ عرضه وارتفاعه صفرًا ؛ خلاف ذلك ، خطأ.
+تُعيد هذه الخاصية true عندما يكون هذا [`SizeF`](../) له كل من العرض والارتفاع صفر؛ وإلا، false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

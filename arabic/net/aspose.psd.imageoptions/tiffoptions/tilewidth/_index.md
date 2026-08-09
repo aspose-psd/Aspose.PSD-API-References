@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileWidth
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. يحصل على تعيينات عرض البلاط .
+title: "TiffOptions.TileWidth"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. يحصل أو يضبط عرض البلاطة"
 type: docs
-weight: 550
+weight: 560
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/tilewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileWidth property
 
-يحصل على تعيينات عرض البلاط .
+يحصل أو يعيّن عرض البلاطة.
 
 ```csharp
 public uint TileWidth { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

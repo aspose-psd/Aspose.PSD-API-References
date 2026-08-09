@@ -1,11 +1,12 @@
 ---
-title: Class PixelDataFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.PixelDataFormat فصل. تنسيق بيانات البكسل. هذا كائن غير قابل للتغيير.
+title: "فئة PixelDataFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.PixelDataFormat. تنسيق بيانات البكسل. هذا كائن غير قابل للتغيير."
 type: docs
-weight: 5230
+weight: 5720
 url: /ar/net/aspose.psd/pixeldataformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat class
 
 تنسيق بيانات البكسل. هذا كائن غير قابل للتغيير.
@@ -16,61 +17,61 @@ public class PixelDataFormat
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Cmyk](../../aspose.psd/pixeldataformat/cmyk/) { get; } | يحصل على ملف`PixelDataFormat` محددة لـ 32 بت لكل بكسل مع 8 بت لكل من السماوي والأرجواني والأصفر والأسود. |
+| static [Cmyk](../../aspose.psd/pixeldataformat/cmyk/) { get; } | يحصل على `PixelDataFormat` المعرف لـ 32 بت لكل بكسل مع 8 بت لكل من السيان، الماجنتا، الأصفر والأسود. |
 | static [Cmyka](../../aspose.psd/pixeldataformat/cmyka/) { get; } | يحصل على acmyk. |
-| static [Grayscale](../../aspose.psd/pixeldataformat/grayscale/) { get; } | يحصل على ملف`PixelDataFormat`محددة لـ 8 بت لكل بكسل مع 8 بت تمثل كثافة التدرج الرمادي في الفاصل الزمني 0-255. |
-| static [GrayscaleAlpha](../../aspose.psd/pixeldataformat/grayscalealpha/) { get; } | يحصل على ملف`PixelDataFormat` محددة لـ 16 بت لكل بكسل مع 8 بت تمثل كثافة التدرج الرمادي في الفاصل الزمني 0-255 ومكون ألفا إضافي 8 بت. |
-| static [Rgb16Bpp555](../../aspose.psd/pixeldataformat/rgb16bpp555/) { get; } | يحصل على ملف`PixelDataFormat` معرّفة لـ 16 بت لكل بكسل مع 5 بت لكل من الأحمر والأخضر والأزرق ، لم يتم تعريف alpha. |
-| static [Rgb16Bpp565](../../aspose.psd/pixeldataformat/rgb16bpp565/) { get; } | يحصل على ملف`PixelDataFormat`معرف لـ 16 بت لكل بكسل مع 5 بت للأحمر و 6 بت للأخضر و 5 بت للأزرق ، لم يتم تعريف ألفا. |
-| static [Rgb24Bpp](../../aspose.psd/pixeldataformat/rgb24bpp/) { get; } | يحصل على ملف`PixelDataFormat` معرّفة لـ 24 بت لكل بكسل مع 8 بت لكل من alpha ، الأحمر ، الأخضر ، والأزرق ، لم يتم تعريف alpha. |
-| static [Rgb24BppPng](../../aspose.psd/pixeldataformat/rgb24bpppng/) { get; } | يحصل على ملف`PixelDataFormat` معرّفة لـ 24 بت لكل بكسل مع 8 بت لكل من alpha ، الأحمر ، الأخضر ، والأزرق ، لم يتم تعريف alpha. |
-| static [Rgb32Bpp](../../aspose.psd/pixeldataformat/rgb32bpp/) { get; } | يحصل على ملف`PixelDataFormat` محددة لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا ، والأحمر ، والأخضر ، والأزرق. |
-| static [Rgba32Bpp](../../aspose.psd/pixeldataformat/rgba32bpp/) { get; } | يحصل على ملف`PixelDataFormat` محددة لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا ، والأحمر ، والأخضر ، والأزرق. |
-| static [Rgba64Bpp](../../aspose.psd/pixeldataformat/rgba64bpp/) { get; } | يحصل على ملف`PixelDataFormat` معرف لـ 64 بت لكل بكسل مع 16 بت لكل من ألفا ، والأحمر ، والأخضر ، والأزرق. |
-| static [RgbIndexed1Bpp](../../aspose.psd/pixeldataformat/rgbindexed1bpp/) { get; } | يحصل على ملف`PixelDataFormat` تم تحديده من أجل 1 بت مفهرس لكل لون . الغرض من تخزين بيانات البكسل المفهرس هو السماح بتخزين البيانات واسترجاعها في كل مكان يتم استخدام لوحة الألوان. . |
-| static [RgbIndexed2Bpp](../../aspose.psd/pixeldataformat/rgbindexed2bpp/) { get; } | يحصل على ملف`PixelDataFormat`معرّفة لـ 2 بت لكل لون . الغرض من تخزين بيانات البكسل المفهرس هو السماح بتخزين البيانات واسترجاعها في كل مكان تُستخدم فيه لوحة الألوان. . |
-| static [RgbIndexed4Bpp](../../aspose.psd/pixeldataformat/rgbindexed4bpp/) { get; } | يحصل على ملف`PixelDataFormat` معرّفة لـ 4 بت لكل لون . الغرض من تخزين بيانات البكسل المفهرس هو السماح بتخزين البيانات واسترجاعها في كل مكان تُستخدم فيه لوحة الألوان. . |
-| static [RgbIndexed8Bpp](../../aspose.psd/pixeldataformat/rgbindexed8bpp/) { get; } | يحصل على ملف`PixelDataFormat` معرّفة لـ 8 بت لكل لون . تم تصميم تخزين بيانات البكسل المفهرس للسماح بتخزين البيانات واسترجاعها في كل مكان يتم استخدام لوحة الألوان. . |
-| static [YCbCr](../../aspose.psd/pixeldataformat/ycbcr/) { get; } | يحصل على ملف`PixelDataFormat` معرّف لـ 24 بت لكل بكسل مع 8 بت لكل من مكونات اللمعان والفرق الأزرق والصفاء ذو الفروق الحمراء. |
-| static [Ycck](../../aspose.psd/pixeldataformat/ycck/) { get; } | يحصل على ملف`PixelDataFormat` مُعرَّف لـ 32 بت لكل بكسل مع 8 بت لكل من مكونات الإضاءة ، والفرق الأزرق ، والفرق الأحمر ، والصفاء الأسود. |
-| [BitsPerPixel](../../aspose.psd/pixeldataformat/bitsperpixel/) { get; } | يحصل على وحدات البت لكل بكسل . |
-| [Caption](../../aspose.psd/pixeldataformat/caption/) { get; } | الحصول على تسمية توضيحية بتنسيق بيانات البكسل. |
-| [ChannelBits](../../aspose.psd/pixeldataformat/channelbits/) { get; } | الحصول على عدد البتات لكل قناة. |
-| [ChannelsCount](../../aspose.psd/pixeldataformat/channelscount/) { get; } | الحصول على عدد القنوات . |
-| [PixelFormat](../../aspose.psd/pixeldataformat/pixelformat/) { get; } | يحصل على تنسيق البكسل . |
+| static [Grayscale](../../aspose.psd/pixeldataformat/grayscale/) { get; } | يحصل على `PixelDataFormat` المعرف لـ 8 بت لكل بكسل مع 8 بت تمثل شدة التدرج الرمادي في الفاصل 0-255. |
+| static [GrayscaleAlpha](../../aspose.psd/pixeldataformat/grayscalealpha/) { get; } | يحصل على `PixelDataFormat` المعرف لـ 16 بت لكل بكسل مع 8 بت تمثل شدة التدرج الرمادي في الفاصل 0-255 ومكوّن ألفا إضافي 8 بت. |
+| static [Rgb16Bpp555](../../aspose.psd/pixeldataformat/rgb16bpp555/) { get; } | يحصل على `PixelDataFormat` المعرف لـ 16 بت لكل بكسل مع 5 بت لكل من الأحمر، الأخضر والأزرق، ولا يُعرف ألفا. |
+| static [Rgb16Bpp565](../../aspose.psd/pixeldataformat/rgb16bpp565/) { get; } | يحصل على `PixelDataFormat` المعرف لـ 16 بت لكل بكسل مع 5 بت للأحمر، 6 بت للأخضر و5 بت للأزرق، ولا يُعرف ألفا. |
+| static [Rgb24Bpp](../../aspose.psd/pixeldataformat/rgb24bpp/) { get; } | يحصل على `PixelDataFormat` المعرف لـ 24 بت لكل بكسل مع 8 بت لكل من ألفا، الأحمر، الأخضر والأزرق، ولا يُعرف ألفا. |
+| static [Rgb24BppPng](../../aspose.psd/pixeldataformat/rgb24bpppng/) { get; } | يحصل على `PixelDataFormat` المعرف لـ 24 بت لكل بكسل مع 8 بت لكل من ألفا، الأحمر، الأخضر والأزرق، ولا يُعرف ألفا. |
+| static [Rgb32Bpp](../../aspose.psd/pixeldataformat/rgb32bpp/) { get; } | يحصل على `PixelDataFormat` المحدد لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا، أحمر، أخضر وأزرق. |
+| static [Rgba32Bpp](../../aspose.psd/pixeldataformat/rgba32bpp/) { get; } | يحصل على `PixelDataFormat` المحدد لـ 32 بت لكل بكسل مع 8 بت لكل من ألفا، أحمر، أخضر وأزرق. |
+| static [Rgba64Bpp](../../aspose.psd/pixeldataformat/rgba64bpp/) { get; } | يحصل على `PixelDataFormat` المحدد لـ 64 بت لكل بكسل مع 16 بت لكل من ألفا، أحمر، أخضر وأزرق. |
+| static [RgbIndexed1Bpp](../../aspose.psd/pixeldataformat/rgbindexed1bpp/) { get; } | يحصل على `PixelDataFormat` المحدد للون المفهرس ببت واحد لكل لون. تخزين بيانات البكسل المفهرسة يهدف إلى السماح بتخزين البيانات واسترجاعها في كل مكان يتم فيه استخدام لوحة الألوان. استخدمه بحذر، لأنه قد يتطلب تحويلًا من لوحة ألوان إلى أخرى أو من RGBA إلى نموذج اللون المفهرس. |
+| static [RgbIndexed2Bpp](../../aspose.psd/pixeldataformat/rgbindexed2bpp/) { get; } | يحصل على `PixelDataFormat` المحدد للون المفهرس ببتين لكل لون. تخزين بيانات البكسل المفهرسة يهدف إلى السماح بتخزين البيانات واسترجاعها في كل مكان يتم فيه استخدام لوحة الألوان. استخدمه بحذر، لأنه قد يتطلب تحويلًا من لوحة ألوان إلى أخرى أو من RGBA إلى نموذج اللون المفهرس. |
+| static [RgbIndexed4Bpp](../../aspose.psd/pixeldataformat/rgbindexed4bpp/) { get; } | يحصل على `PixelDataFormat` المحدد للون المفهرس بأربعة بتات لكل لون. تخزين بيانات البكسل المفهرسة يهدف إلى السماح بتخزين البيانات واسترجاعها في كل مكان يتم فيه استخدام لوحة الألوان. استخدمه بحذر، لأنه قد يتطلب تحويلًا من لوحة ألوان إلى أخرى أو من RGBA إلى نموذج اللون المفهرس. |
+| static [RgbIndexed8Bpp](../../aspose.psd/pixeldataformat/rgbindexed8bpp/) { get; } | يحصل على `PixelDataFormat` المحدد للون المفهرس بثمانية بتات لكل لون. تخزين بيانات البكسل المفهرسة يهدف إلى السماح بتخزين البيانات واسترجاعها في كل مكان يتم فيه استخدام لوحة الألوان. استخدمه بحذر، لأنه قد يتطلب تحويلًا من لوحة ألوان إلى أخرى أو من RGBA إلى نموذج اللون المفهرس. |
+| static [YCbCr](../../aspose.psd/pixeldataformat/ycbcr/) { get; } | يحصل على `PixelDataFormat` المحدد لـ 24 بت لكل بكسل مع 8 بت لكل من مكوّنات اللمعان luma، الفرق الأزرق blue-difference والفرق الأحمر red-difference. |
+| static [Ycck](../../aspose.psd/pixeldataformat/ycck/) { get; } | يحصل على `PixelDataFormat` المحدد لـ 32 بت لكل بكسل مع 8 بت لكل من مكوّنات اللمعان luma، الفرق الأزرق blue-difference، الفرق الأحمر red-difference ومكوّن اللون الأسود black. |
+| [BitsPerPixel](../../aspose.psd/pixeldataformat/bitsperpixel/) { get; } | يحصل على عدد البتات لكل بكسل. |
+| [Caption](../../aspose.psd/pixeldataformat/caption/) { get; } | يحصل على تسمية تنسيق بيانات البكسل. |
+| [ChannelBits](../../aspose.psd/pixeldataformat/channelbits/) { get; } | يحصل على عدد البتات لكل قناة. |
+| [ChannelsCount](../../aspose.psd/pixeldataformat/channelscount/) { get; } | يحصل على عدد القنوات. |
+| [PixelFormat](../../aspose.psd/pixeldataformat/pixelformat/) { get; } | يحصل على تنسيق البكسل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [GetBgr](../../aspose.psd/pixeldataformat/getbgr/)(int) | الحصول على لون BGR بعدد محدد من وحدات البت لكل عينة. |
-| static [GetBgra](../../aspose.psd/pixeldataformat/getbgra/)(int) | الحصول على لون BGRA بعدد محدد من وحدات البت لكل عينة. |
-| static [GetCieLab](../../aspose.psd/pixeldataformat/getcielab/)(int, int, int) | الحصول على لون CIE Lab بعدد محدد من وحدات البت لكل عينة. |
-| static [GetCmyk](../../aspose.psd/pixeldataformat/getcmyk/#getcmyk)(int) | الحصول على لون CMYK بعدد محدد من وحدات البت لكل عينة. |
-| static [GetCmyk](../../aspose.psd/pixeldataformat/getcmyk/#getcmyk_1)(int, int, int, int) | الحصول على لون CMYK بعدد محدد من وحدات البت لكل عينة. |
-| static [GetCmyka](../../aspose.psd/pixeldataformat/getcmyka/)(int, int, int, int, int) | الحصول على لون CMYKA بعدد محدد من وحدات البت لكل عينة. |
-| static [GetGrayscale](../../aspose.psd/pixeldataformat/getgrayscale/)(int) | الحصول على لون بتدرج الرمادي مع عدد محدد من وحدات البت لكل عينة. |
-| static [GetGrayscaleAlpha](../../aspose.psd/pixeldataformat/getgrayscalealpha/#getgrayscalealpha)(int) | الحصول على لون ألفا بتدرج الرمادي مع عدد محدد من وحدات البت لكل عينة. |
-| static [GetGrayscaleAlpha](../../aspose.psd/pixeldataformat/getgrayscalealpha/#getgrayscalealpha_1)(int, int) | الحصول على لون ألفا بتدرج الرمادي مع عدد محدد من وحدات البت لكل عينة. |
-| static [GetRgb](../../aspose.psd/pixeldataformat/getrgb/#getrgb)(int) | الحصول على لون RGB بعدد محدد من وحدات البت لكل عينة. |
-| static [GetRgb](../../aspose.psd/pixeldataformat/getrgb/#getrgb_1)(int, int, int) | الحصول على لون RGB بعدد محدد من وحدات البت لكل عينة. |
-| static [GetRgba](../../aspose.psd/pixeldataformat/getrgba/#getrgba)(int) | الحصول على لون RGBA بعدد محدد من وحدات البت لكل عينة. |
-| static [GetRgba](../../aspose.psd/pixeldataformat/getrgba/#getrgba_1)(int, int, int, int) | الحصول على لون RGBA بعدد محدد من وحدات البت لكل عينة. |
-| static [GetRgbIndexed](../../aspose.psd/pixeldataformat/getrgbindexed/)(int) | الحصول على لون مفهرس BGRA مع عدد محدد من وحدات البت لكل عينة. |
-| static [GetYCbCr](../../aspose.psd/pixeldataformat/getycbcr/#getycbcr)(int) | الحصول على لون YCbCr بعدد محدد من وحدات البت لكل عينة. |
-| static [GetYCbCr](../../aspose.psd/pixeldataformat/getycbcr/#getycbcr_1)(int, int, int) | الحصول على لون YCbCr بعدد محدد من وحدات البت لكل عينة. |
-| static [GetYcck](../../aspose.psd/pixeldataformat/getycck/)(int) | الحصول على لون YCCK بعدد محدد من وحدات البت لكل عينة. |
-| override [Equals](../../aspose.psd/pixeldataformat/equals/)(object) | تحديد ما إذا كان الملف المحددObject يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.psd/pixeldataformat/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
-| override [ToString](../../aspose.psd/pixeldataformat/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
-| [operator ==](../../aspose.psd/pixeldataformat/op_equality/) | إرجاع نتيجة المساواة لشخصين`PixelDataFormat` الطبقات . |
-| [operator !=](../../aspose.psd/pixeldataformat/op_inequality/) | إرجاع نتيجة عدم المساواة لشخصين`PixelDataFormat` الطبقات . |
+| static [GetBgr](../../aspose.psd/pixeldataformat/getbgr/)(int) | يحصل على لون BGR بعدد محدد من البتات لكل عينة. |
+| static [GetBgra](../../aspose.psd/pixeldataformat/getbgra/)(int) | يحصل على لون BGRA بعدد محدد من البتات لكل عينة. |
+| static [GetCieLab](../../aspose.psd/pixeldataformat/getcielab/)(int, int, int) | يحصل على لون CIE Lab بعدد محدد من البتات لكل عينة. |
+| static [GetCmyk](../../aspose.psd/pixeldataformat/getcmyk/#getcmyk)(int) | يحصل على لون CMYK بعدد محدد من البتات لكل عينة. |
+| static [GetCmyk](../../aspose.psd/pixeldataformat/getcmyk/#getcmyk_1)(int, int, int, int) | يحصل على لون CMYK بعدد محدد من البتات لكل عينة. |
+| static [GetCmyka](../../aspose.psd/pixeldataformat/getcmyka/)(int, int, int, int, int) | يحصل على لون CMYKA بعدد محدد من البتات لكل عينة. |
+| static [GetGrayscale](../../aspose.psd/pixeldataformat/getgrayscale/)(int) | يحصل على لون Grayscale بعدد محدد من البتات لكل عينة. |
+| static [GetGrayscaleAlpha](../../aspose.psd/pixeldataformat/getgrayscalealpha/#getgrayscalealpha)(int) | يحصل على لون GrayscaleAlpha بعدد محدد من البتات لكل عينة. |
+| static [GetGrayscaleAlpha](../../aspose.psd/pixeldataformat/getgrayscalealpha/#getgrayscalealpha_1)(int, int) | يحصل على لون GrayscaleAlpha بعدد محدد من البتات لكل عينة. |
+| static [GetRgb](../../aspose.psd/pixeldataformat/getrgb/#getrgb)(int) | يحصل على لون RGB بعدد محدد من البتات لكل عينة. |
+| static [GetRgb](../../aspose.psd/pixeldataformat/getrgb/#getrgb_1)(int, int, int) | يحصل على لون RGB بعدد محدد من البتات لكل عينة. |
+| static [GetRgba](../../aspose.psd/pixeldataformat/getrgba/#getrgba)(int) | يحصل على لون RGBA بعدد محدد من البتات لكل عينة. |
+| static [GetRgba](../../aspose.psd/pixeldataformat/getrgba/#getrgba_1)(int, int, int, int) | يحصل على لون RGBA بعدد محدد من البتات لكل عينة. |
+| static [GetRgbIndexed](../../aspose.psd/pixeldataformat/getrgbindexed/)(int) | يحصل على لون BGRA المفهرس بعدد محدد من البتات لكل عينة. |
+| static [GetYCbCr](../../aspose.psd/pixeldataformat/getycbcr/#getycbcr)(int) | يحصل على لون YCbCr بعدد محدد من البتات لكل عينة. |
+| static [GetYCbCr](../../aspose.psd/pixeldataformat/getycbcr/#getycbcr_1)(int, int, int) | يحصل على لون YCbCr بعدد محدد من البتات لكل عينة. |
+| static [GetYcck](../../aspose.psd/pixeldataformat/getycck/)(int) | يحصل على لون YCCK بعدد محدد من البتات لكل عينة. |
+| override [Equals](../../aspose.psd/pixeldataformat/equals/)(object) | يحدد ما إذا كان الكائن المحدد يساوي هذه المثيلة. |
+| override [GetHashCode](../../aspose.psd/pixeldataformat/gethashcode/)() | يرجع رمز تجزئة لهذه المثيلة. |
+| override [ToString](../../aspose.psd/pixeldataformat/tostring/)() | إرجاع String تمثل هذا المثيل. |
+| [operator ==](../../aspose.psd/pixeldataformat/op_equality/) | يعيد نتيجة المساواة بين فئتين `PixelDataFormat`. |
+| [operator !=](../../aspose.psd/pixeldataformat/op_inequality/) | يعيد نتيجة عدم المساواة لصفين `PixelDataFormat`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

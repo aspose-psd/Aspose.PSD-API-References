@@ -1,23 +1,24 @@
 ---
-title: WatermarkResource.WatermarkResource
-second_title: Aspose.PSD لمرجع .NET API
-description: WatermarkResource البناء. Default_Constructor
+title: "WatermarkResource.WatermarkResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ WatermarkResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/watermarkresource/watermarkresource/
 ---
+{{< psd/tize >}}
 ## WatermarkResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public WatermarkResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WatermarkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

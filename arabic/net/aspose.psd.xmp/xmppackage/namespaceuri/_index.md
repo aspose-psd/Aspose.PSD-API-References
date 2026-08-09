@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage ملكية. يحصل على مساحة الاسم URI.
+title: "XmpPackage.NamespaceUri"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPackage. تحصل على URI مساحة الاسم"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
-يحصل على مساحة الاسم URI.
+يحصل على URI مساحة الاسم.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف مساحة الاسم URI.
+معرف URI مساحة الاسم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

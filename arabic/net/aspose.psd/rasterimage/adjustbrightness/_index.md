@@ -1,27 +1,28 @@
 ---
-title: RasterImage.AdjustBrightness
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. ضبط سطوع الصورة .
+title: "RasterImage.AdjustBrightness"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تعديل السطوع للصورة"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd/rasterimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustBrightness method
 
-ضبط سطوع الصورة .
+ضبط السطوع للصورة.
 
 ```csharp
 public virtual void AdjustBrightness(int brightness)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brightness | Int32 | قيمة السطوع. |
+| السطوع | Int32 | قيمة السطوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

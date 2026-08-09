@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsCompositeProtected
-second_title: Aspose.PSD لمرجع .NET API
-description: LspfResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل محميًا بشكل مركب.
+title: "LspfResource.IsCompositeProtected"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LspfResource. تحصل أو تعين قيمة تشير إلى ما إذا كان هذا الكائن محميًا مركبًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsCompositeProtected property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل محميًا بشكل مركب.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا المثيل محمياً مركباً.
 
 ```csharp
 public bool IsCompositeProtected { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثيل محميًا مركبًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن محميًا مركبًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LspfResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

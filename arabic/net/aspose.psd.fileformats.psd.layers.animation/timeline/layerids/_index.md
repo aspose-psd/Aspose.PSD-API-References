@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LayerIds
-second_title: Aspose.PSD لمرجع .NET API
-description: TimeLine ملكية. الحصول على أو تعيين مصفوفة معرف الطبقات.
+title: "TimeLine.LayerIds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TimeLine. يحصل أو يحدد مصفوفة معرفات الطبقات"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/timeline/layerids/
 ---
+{{< psd/tize >}}
 ## TimeLine.LayerIds property
 
-الحصول على أو تعيين مصفوفة معرف الطبقات.
+يحصل أو يحدد مصفوفة معرفات الطبقات.
 
 ```csharp
 public int[] LayerIds { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeLine](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

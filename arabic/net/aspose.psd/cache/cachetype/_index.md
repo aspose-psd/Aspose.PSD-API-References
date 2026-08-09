@@ -1,28 +1,29 @@
 ---
-title: Cache.CacheType
-second_title: Aspose.PSD لمرجع .NET API
-description: Cache ملكية. الحصول على أو تعيين مخطط التخزين المؤقت المستخدم.
+title: "Cache.CacheType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Cache خاصية. يحصل أو يضبط مخطط التخزين المؤقت المستخدم"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/cache/cachetype/
 ---
+{{< psd/tize >}}
 ## Cache.CacheType property
 
-الحصول على أو تعيين مخطط التخزين المؤقت المستخدم.
+يحصل أو يضبط مخطط الذاكرة المؤقتة المستخدم.
 
 ```csharp
 public static CacheType CacheType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مخطط التخزين المؤقت المستخدم .
+مخطط التخزين المؤقت المستخدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [CacheType](../../cachetype/)
 * class [Cache](../)
-* مساحة الاسم [Aspose.PSD](../../cache/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

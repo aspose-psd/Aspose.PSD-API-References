@@ -1,23 +1,24 @@
 ---
-title: CgEdResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: CgEdResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "CgEdResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CgEdResource. يحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 70
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CgEdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

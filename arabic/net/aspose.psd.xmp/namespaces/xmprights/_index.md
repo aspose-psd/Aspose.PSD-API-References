@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpRights
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. مساحة اسم إدارة حقوق XMP.
+title: "Namespaces.XmpRights"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. مساحة اسم إدارة حقوق XMP"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.xmp/namespaces/xmprights/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpRights field
 
-مساحة اسم إدارة حقوق XMP.
+مساحة الاسم XMP Rights Management.
 
 ```csharp
 public const string XmpRights;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

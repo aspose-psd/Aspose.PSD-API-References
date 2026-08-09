@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Union
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. يحصل على أRectangle هيكل يحتوي على اتحاد اثنينRectangle الهياكل .
+title: "Rectangle.Union"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تحصل على هيكل Rectangle يحتوي على اتحاد هيكلين من نوع Rectangle."
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/rectangle/union/
 ---
+{{< psd/tize >}}
 ## Rectangle.Union method
 
-يحصل على أ[`Rectangle`](../) هيكل يحتوي على اتحاد اثنين[`Rectangle`](../) الهياكل .
+تحصل على هيكل [`Rectangle`](../) يحتوي على اتحاد هيكليين من نوع [`Rectangle`](../).
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Rectangle | أول مستطيل للاتحاد. |
-| b | Rectangle | مستطيل ثانٍ للاتحاد. |
+| a | Rectangle | المستطيل الأول للاتحاد. |
+| b | Rectangle | المستطيل الثاني للاتحاد. |
 
 ### قيمة الإرجاع
 
-أ[`Rectangle`](../) الهيكل الذي يحد اتحاد الاثنين[`Rectangle`](../) الهياكل.
+هيكل [`Rectangle`](../) يحدّ اتحاد الهيكلين [`Rectangle`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

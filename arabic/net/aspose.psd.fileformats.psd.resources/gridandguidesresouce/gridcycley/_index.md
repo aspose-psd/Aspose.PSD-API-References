@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GridCycleY
-second_title: Aspose.PSD لمرجع .NET API
-description: GridAndGuidesResouce ملكية. الحصول على أو تعيين دورة الشبكة العمودية. الافتراضي هو 576.
+title: "GridAndGuidesResouce.GridCycleY"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GridAndGuidesResouce. يحصل أو يضبط دورة الشبكة العمودية. القيمة الافتراضية هي 576"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcycley/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GridCycleY property
 
-الحصول على أو تعيين دورة الشبكة العمودية. الافتراضي هو 576.
+يحصل أو يضبط دورة الشبكة العمودية. القيمة الافتراضية هي 576.
 
 ```csharp
 public int GridCycleY { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 دورة الشبكة العمودية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GridAndGuidesResouce](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

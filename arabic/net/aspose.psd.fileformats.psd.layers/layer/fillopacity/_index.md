@@ -1,33 +1,34 @@
 ---
-title: Layer.FillOpacity
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تعيين تعتيم التعبئة.
+title: "Layer.FillOpacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل أو تعين شفافية التعبئة."
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/fillopacity/
 ---
+{{< psd/tize >}}
 ## Layer.FillOpacity property
 
-الحصول على أو تعيين تعتيم التعبئة.
+يحصل أو يعيّن شفافية التعبئة.
 
 ```csharp
 public int FillOpacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تعتيم التعبئة في النطاق من 0 إلى 100
+شفافية التعبئة في النطاق من 0 إلى 100.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يمكن أن تكون عتامة التعبئة في النطاق من 0 إلى 100 فقط |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يمكن أن تكون شفافية التعبئة فقط في النطاق من 0 إلى 100. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

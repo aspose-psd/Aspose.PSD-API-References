@@ -1,30 +1,31 @@
 ---
-title: RasterImage.GetDefaultPixels
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. الحصول على مصفوفة البكسل الافتراضية باستخدام محمل البكسل الجزئي.
+title: "RasterImage.GetDefaultPixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. يحصل على مصفوفة البكسلات الافتراضية باستخدام محمل البكسلات الجزئي"
 type: docs
 weight: 290
 url: /ar/net/aspose.psd/rasterimage/getdefaultpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetDefaultPixels method
 
-الحصول على مصفوفة البكسل الافتراضية باستخدام محمل البكسل الجزئي.
+يحصل على مصفوفة البكسلات الافتراضية باستخدام محمل بكسل جزئي.
 
 ```csharp
 public void GetDefaultPixels(Rectangle rectangle, IPartialArgb32PixelLoader partialPixelLoader)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المطلوب الحصول على وحدات بكسل له. |
-| partialPixelLoader | IPartialArgb32PixelLoader | محمل البكسل الجزئي. |
+| مستطيل | Rectangle | المستطيل للحصول على البكسلات منه. |
+| partialPixelLoader | IPartialArgb32PixelLoader | محمل البكسلات الجزئي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

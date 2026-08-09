@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingRejected
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage مجال. قيمة رفض التصنيف .
+title: "XmpBasicPackage.RatingRejected"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل XmpBasicPackage. قيمة التقييم المرفوض"
 type: docs
-weight: 120
+weight: 150
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingRejected field
 
-قيمة رفض التصنيف .
+القيمة المرفوضة للتقييم.
 
 ```csharp
 public const int RatingRejected;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

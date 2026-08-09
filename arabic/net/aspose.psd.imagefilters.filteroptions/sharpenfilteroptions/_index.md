@@ -1,39 +1,40 @@
 ---
-title: Class SharpenFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions فصل. خيارات مرشح Sharpen
+title: "الفئة SharpenFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions. خيارات مرشح الشحذ"
 type: docs
-weight: 4740
+weight: 5210
 url: /ar/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions class
 
-خيارات مرشح Sharpen
+خيارات فلتر الشحذ
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | يقوم بتهيئة مثيل جديد لملف`SharpenFilterOptions` class. بالإعدادات الافتراضية . |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | يقوم بتهيئة مثيل جديد لملف`SharpenFilterOptions` فئة . |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | يُنشئ نسخة جديدة من الفئة `SharpenFilterOptions`. بإعدادات افتراضية. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | يُنشئ نسخة جديدة من الفئة `SharpenFilterOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | الحصول على التحيز أو تعيينه . |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | الحصول على العامل أو تعيينه . |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | الحصول على أو تعيين سيجما . |
-| [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | الحصول على الحجم أو تحديده. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | يحصل أو يعيّن الانحياز. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | يحصل أو يعيّن العامل. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | يحصل أو يعيّن سيغما. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | يحصل أو يضبط الحجم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

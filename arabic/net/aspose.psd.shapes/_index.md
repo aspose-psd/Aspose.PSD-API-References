@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.Shapes
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على أشكال مختلفة مجمعة من مقاطع الشكل.
+title: "Aspose.PSD.Shapes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على أشكال مختلفة مُدمجة من مقاطع الشكل"
 type: docs
-weight: 490
+weight: 530
 url: /ar/net/aspose.psd.shapes/
 ---
-تحتوي مساحة الاسم على أشكال مختلفة مجمعة من مقاطع الشكل.
+{{< psd/tize >}}
+النطاق يحتوي على أشكال مختلفة مدمجة من مقاطع الشكل.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [ArcShape](./arcshape/) | يمثل شكل قوس . |
-| [BezierShape](./beziershape/) | يمثل شريحة بيزير . |
-| [CurveShape](./curveshape/) | يمثل شكل شريحة منحني . |
-| [EllipseShape](./ellipseshape/) | يمثل شكل القطع الناقص. |
-| [PieShape](./pieshape/) | يمثل شكل دائري. |
-| [PolygonShape](./polygonshape/) | يمثل شكل مضلع. |
-| [RectangleProjectedShape](./rectangleprojectedshape/) | يمثل الشكل الذي يتم إسقاطه فوق مستطيل تحول إلى اتجاه معين. محدد بأربع نقاط يمكن تدويرها في الفراغ مع الحفاظ على نفس طول الحواف و 90 درجة بين الحواف المتجاورة . |
-| [RectangleShape](./rectangleshape/) | يمثل شكل مستطيل. |
-| [TextShape](./textshape/) | يمثل شكل نص . |
+| [ArcShape](./arcshape/) | يمثل شكل قوس. |
+| [BezierShape](./beziershape/) | يمثل منحنى بيزيير. |
+| [CurveShape](./curveshape/) | يمثل شكل منحنى منحنٍ. |
+| [EllipseShape](./ellipseshape/) | يمثل شكل إهليلجي. |
+| [PieShape](./pieshape/) | يمثل شكل فطيرة. |
+| [PolygonShape](./polygonshape/) | يمثل شكل متعدد أضلاع. |
+| [RectangleProjectedShape](./rectangleprojectedshape/) | يمثل شكلاً يُسقط على مستطيل مُدوَّر إلى اتجاه معين. يُحدد بأربع نقاط يمكن تدويرها في الفضاء مع الحفاظ على طول الحواف نفسه وزاوية 90 درجة بين الحواف المتجاورة. |
+| [RectangleShape](./rectangleshape/) | يمثل شكلًا مستطيلًا. |
+| [TextShape](./textshape/) | يمثل شكل نص. |
 
 

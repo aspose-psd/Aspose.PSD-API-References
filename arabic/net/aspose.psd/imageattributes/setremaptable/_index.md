@@ -1,51 +1,52 @@
 ---
-title: ImageAttributes.SetRemapTable
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يضبط جدول إعادة رسم خريطة الألوان للفئة الافتراضية.
+title: "ImageAttributes.SetRemapTable"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تُحدد جدول إعادة تعيين اللون للفئة الافتراضية."
 type: docs
 weight: 190
 url: /ar/net/aspose.psd/imageattributes/setremaptable/
 ---
+{{< psd/tize >}}
 ## SetRemapTable(ColorMap[]) {#setremaptable}
 
-يضبط جدول إعادة رسم خريطة الألوان للفئة الافتراضية.
+يضبط جدول إعادة تعيين الألوان للفئة الافتراضية.
 
 ```csharp
 public void SetRemapTable(ColorMap[] map)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| map | ColorMap[] | مجموعة من أزواج الألوان من النوع[`ColorMap`](../../colormap/). يحتوي كل زوج من الألوان على لون موجود (القيمة الأولى) واللون الذي سيتم تعيينه له (القيمة الثانية). |
+| map | ColorMap[] | مصفوفة من أزواج الألوان من النوع [`ColorMap`](../../colormap/). كل زوج لون يحتوي على لون موجود (القيمة الأولى) واللون الذي سيتم تعيينه إليه (القيمة الثانية). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetRemapTable(ColorMap[], ColorAdjustType) {#setremaptable_1}
 
-يضبط جدول إعادة رسم خريطة اللون لفئة محددة.
+يضبط جدول إعادة تعيين الألوان لفئة محددة.
 
 ```csharp
 public void SetRemapTable(ColorMap[] map, ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| map | ColorMap[] | مجموعة من أزواج الألوان من النوع[`ColorMap`](../../colormap/). يحتوي كل زوج من الألوان على لون موجود (القيمة الأولى) واللون الذي سيتم تعيينه له (القيمة الثانية). |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) التي تحدد الفئة التي تم تعيين جدول إعادة رسم خريطة الألوان لها. |
+| map | ColorMap[] | مصفوفة من أزواج الألوان من النوع [`ColorMap`](../../colormap/). كل زوج لون يحتوي على لون موجود (القيمة الأولى) واللون الذي سيتم تعيينه إليه (القيمة الثانية). |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يُحدد لها جدول إعادة تعيين اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMap](../../colormap/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,111 +1,112 @@
 ---
-title: CmykColorHelper.ToCmykIcc
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykColorHelper طريقة. التحويل من ألوان ARGB إلى ألوان CMYK باستخدام تحويل Icc مع ملفات التعريف المخصصة.
+title: "CmykColorHelper.ToCmykIcc"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CmykColorHelper. التحويل من ألوان ARGB إلى ألوان CMYK باستخدام تحويل Icc مع ملفات تعريف مخصصة"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/cmykcolorhelper/tocmykicc/
 ---
+{{< psd/tize >}}
 ## ToCmykIcc(Color[], Stream, Stream) {#tocmykicc_3}
 
-التحويل من ألوان ARGB إلى ألوان CMYK باستخدام تحويل Icc مع ملفات التعريف المخصصة.
+التحويل من ألوان ARGB إلى ألوان CMYK باستخدام تحويل Icc مع ملفات تعريف مخصصة.
 
 ```csharp
 public static int[] ToCmykIcc(Color[] pixels, Stream rgbIccStream, Stream cmykIccStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixels | Color[] | ألوان ARGB. |
+| بكسلات | Color[] | ألوان ARGB. |
 | rgbIccStream | Stream | الدفق الذي يحتوي على ملف تعريف RGB Icc. |
 | cmykIccStream | Stream | الدفق الذي يحتوي على ملف تعريف CMYK Icc. |
 
 ### قيمة الإرجاع
 
-يتم تقديم ألوان CMYK كقيم عدد صحيح 32 بت.
+ألوان CMYK معروضة كقيم صحيحة 32-بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmykIcc(Color[]) {#tocmykicc_2}
 
-التحويل من ألوان ARGB إلى ألوان CMYK باستخدام تحويل Icc مع ملفات التعريف الافتراضية.
+التحويل من ألوان ARGB إلى ألوان CMYK باستخدام تحويل Icc مع ملفات تعريف افتراضية.
 
 ```csharp
 public static int[] ToCmykIcc(Color[] pixels)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixels | Color[] | ألوان ARGB. |
+| بكسلات | Color[] | ألوان ARGB. |
 
 ### قيمة الإرجاع
 
-يتم تقديم ألوان CMYK كقيم عدد صحيح 32 بت.
+ألوان CMYK معروضة كقيم صحيحة 32-بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmykIcc(Color) {#tocmykicc}
 
-التحويل من لون ARGB إلى لون CMYK باستخدام تحويل Icc مع ملفات التعريف الافتراضية.
+التحويل من لون ARGB إلى لون CMYK باستخدام تحويل Icc مع ملفات تعريف افتراضية.
 
 ```csharp
 public static int ToCmykIcc(Color pixel)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixel | Color | لون ARGB. |
+| pixel | لون | لون ARGB. |
 
 ### قيمة الإرجاع
 
-يتم تقديم لون CMYK كقيمة عدد صحيح 32 بت.
+لون CMYK معروض كقيمة صحيحة 32-بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmykIcc(Color, Stream, Stream) {#tocmykicc_1}
 
-التحويل من لون ARGB إلى لون CMYK باستخدام تحويل Icc مع ملفات التعريف المخصصة.
+التحويل من لون ARGB إلى لون CMYK باستخدام تحويل Icc مع ملفات تعريف مخصصة.
 
 ```csharp
 public static int ToCmykIcc(Color pixel, Stream rgbIccStream, Stream cmykIccStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixel | Color | لون ARGB. |
+| pixel | لون | لون ARGB. |
 | rgbIccStream | Stream | الدفق الذي يحتوي على ملف تعريف RGB Icc. |
 | cmykIccStream | Stream | الدفق الذي يحتوي على ملف تعريف CMYK Icc. |
 
 ### قيمة الإرجاع
 
-يتم تقديم لون CMYK كقيمة عدد صحيح 32 بت.
+لون CMYK معروض كقيمة صحيحة 32-بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

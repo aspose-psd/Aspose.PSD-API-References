@@ -1,30 +1,31 @@
 ---
-title: Enum ResolutionUnit
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ResolutionUnit تعداد. تعداد وحدة الدقة .
+title: "تعداد ResolutionUnit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.ResolutionUnit enum. وحدة الدقة enum"
 type: docs
-weight: 5390
+weight: 5890
 url: /ar/net/aspose.psd/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-تعداد وحدة الدقة .
+تعداد وحدة الدقة.
 
 ```csharp
 public enum ResolutionUnit : byte
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | وحدات غير محددة |
+| None | `0` | وحدات غير معرفة |
 | Inch | `1` | وحدات بوصة |
 | Cm | `2` | وحدات السنتيمتر المتري |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

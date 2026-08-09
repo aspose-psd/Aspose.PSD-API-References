@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetState
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يعين الحالة.
+title: "PhotoshopPackage.SetState"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PhotoshopPackage. يضبط الحالة"
 type: docs
 weight: 170
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setstate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetState method
 
-يعين الحالة.
+يضبط الحالة.
 
 ```csharp
 public void SetState(string state)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| state | String | الولاية. |
+| state | String | الحالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

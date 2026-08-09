@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.Fractions
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. يمكن استبدال رموز الكسور بمحرف خاص.
+title: "ITextStyle.Fractions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. يمكن استبدال رموز الكسور برموز خاصة"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Fractions property
 
-يمكن استبدال رموز الكسور بمحرف خاص.
+يمكن استبدال رموز الكسور برمز خاص.
 
 ```csharp
 public bool Fractions { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم دعم خصائص ITextStyle الجديدة.
+الكود التالي يوضح دعم خصائص ITextStyle الجديدة.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

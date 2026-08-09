@@ -1,11 +1,12 @@
 ---
-title: IopaResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: IopaResource ملكية. يحصل على التوقيع.
+title: "IopaResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IopaResource. تحصل على التوقيع"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signature/
 ---
+{{< psd/tize >}}
 ## IopaResource.Signature property
 
 يحصل على التوقيع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signa
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IopaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

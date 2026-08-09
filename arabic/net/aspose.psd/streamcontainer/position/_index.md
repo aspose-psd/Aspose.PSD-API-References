@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Position
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer ملكية. الحصول على أو تحديد الموضع الحالي ضمن الدفق. تمثل هذه القيمة الإزاحة من موضع دفق البداية الذي تم تمريره في مُنشئ StreamContainer.
+title: "StreamContainer.Position"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StreamContainer. تحصل أو تعين الموضع الحالي داخل الدفق. هذه القيمة تمثل الإزاحة من موضع بدء الدفق الممرر في مُنشئ StreamContainer."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/streamcontainer/position/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Position property
 
-الحصول على أو تحديد الموضع الحالي ضمن الدفق. تمثل هذه القيمة الإزاحة من موضع دفق البداية الذي تم تمريره في مُنشئ StreamContainer.
+يحصل أو يضبط الموضع الحالي داخل التدفق. هذه القيمة تمثل الإزاحة من موضع بدء التدفق الممرّر في مُنشئ StreamContainer.
 
 ```csharp
 public virtual long Position { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موقف التيار الحالي.
+الموضع الحالي للدفق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

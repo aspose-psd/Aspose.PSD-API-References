@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.ID
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceBlock ملكية. الحصول على أو تحديد المعرف الفريد للمورد.
+title: "ResourceBlock.ID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResourceBlock. تحصل أو تعين المعرف الفريد للمورد"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd/resourceblock/id/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ID property
 
-الحصول على أو تحديد المعرف الفريد للمورد.
+يحصل أو يضبط المعرف الفريد للمورد.
 
 ```csharp
 public short ID { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 المعرف الفريد للمورد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

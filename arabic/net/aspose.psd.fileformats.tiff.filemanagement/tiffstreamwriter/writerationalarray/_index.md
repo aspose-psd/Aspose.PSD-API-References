@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.WriteRationalArray
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب مصفوفة من القيم المنطقية غير الموقعة إلى الدفق.
+title: "TiffStreamWriter.WriteRationalArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. تكتب مصفوفة من القيم النسبية غير الموقعة إلى التدفق"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRationalArray method
 
-يكتب مصفوفة من القيم المنطقية غير الموقعة إلى الدفق.
+يكتب مصفوفة من القيم النسبية غير الموقعة إلى التدفق.
 
 ```csharp
 public void WriteRationalArray(TiffRational[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | TiffRational[] | المصفوفة للكتابة. |
+| البيانات | TiffRational[] | المصفوفة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

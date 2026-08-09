@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.PreblendAlphaIfPresent
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان يجب خلط المكونات الحمراء والخضراء والزرقاء بلون الخلفية  في حالة وجود قناة ألفا .
+title: "JpegOptions.PreblendAlphaIfPresent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegOptions. تحصل أو تعين قيمة تشير إلى ما إذا كان يجب خلط مكونات الأحمر والأخضر والأزرق مع لون الخلفية إذا كان قناة ألفا موجودة"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/
 ---
+{{< psd/tize >}}
 ## JpegOptions.PreblendAlphaIfPresent property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان يجب خلط المكونات الحمراء والخضراء والزرقاء بلون الخلفية ، في حالة وجود قناة ألفا .
+يحصل أو يضبط قيمة تشير إلى ما إذا كان يجب خلط مكونات الأحمر والأخضر والأزرق مع لون الخلفية، إذا كان قناة ألفا موجودة.
 
 ```csharp
 public bool PreblendAlphaIfPresent { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

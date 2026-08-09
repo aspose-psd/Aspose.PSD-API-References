@@ -1,33 +1,34 @@
 ---
-title: HueSaturationLayer.Hue
-second_title: Aspose.PSD لمرجع .NET API
-description: HueSaturationLayer ملكية. الحصول على الصبغة أو تعيينها .
+title: "HueSaturationLayer.Hue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية HueSaturationLayer. يحصل أو يضبط الدرجة."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/hue/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Hue property
 
-الحصول على الصبغة أو تعيينها .
+يحصل أو يعيّن درجة اللون.
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الصبغة .
+الدرجة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن تتراوح درجة اللون من -180 إلى +180 |
+| ArgumentOutOfRangeException | يجب أن تكون الدرجة في النطاق من -180 إلى +180. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HueSaturationLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

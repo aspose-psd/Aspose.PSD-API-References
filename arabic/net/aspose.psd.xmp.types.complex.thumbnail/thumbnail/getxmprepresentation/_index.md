@@ -1,14 +1,15 @@
 ---
-title: Thumbnail.GetXmpRepresentation
-second_title: Aspose.PSD لمرجع .NET API
-description: Thumbnail طريقة. الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+title: "Thumbnail.GetXmpRepresentation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Thumbnail. يحصل على القيمة النصية المحتواة بصيغة XMP"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Thumbnail.GetXmpRepresentation method
 
-الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+يحصل على القيمة النصية المحتواة بتنسيق XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### قيمة الإرجاع
 
-تُرجع قيمة السلسلة المضمنة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Thumbnail](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

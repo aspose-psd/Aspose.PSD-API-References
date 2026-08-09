@@ -1,14 +1,15 @@
 ---
-title: AudioSampleType.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: AudioSampleType طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "AudioSampleType.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة AudioSampleType. تُرجع سلسلة تمثل هذه الحالة"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+إرجاع String تمثل هذا المثيل.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذا الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioSampleType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

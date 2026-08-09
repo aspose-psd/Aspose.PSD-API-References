@@ -1,27 +1,28 @@
 ---
-title: Color.IsEmpty
-second_title: Aspose.PSD لمرجع .NET API
-description: Color ملكية. يحصل على قيمة تشير إلى ما إذا كان هذاColor الهيكل غير مهيأ.
+title: "Color.IsEmpty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Color. تحصل على قيمة تشير إلى ما إذا كان هذا الهيكل Color غير مهيأ"
 type: docs
 weight: 1490
 url: /ar/net/aspose.psd/color/isempty/
 ---
+{{< psd/tize >}}
 ## Color.IsEmpty property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا[`Color`](../) الهيكل غير مهيأ.
+يحصل على قيمة تشير إلى ما إذا كان هذا الهيكل [`Color`](../) غير مهيأ.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Property_Value
+### Property Value
 
-هذه الخاصية ترجع صحيحًا إذا كان هذا اللون غير مهيأ ؛ خلاف ذلك ، خطأ.
+ترجع هذه الخاصية true إذا كان هذا اللون غير مهيأ؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

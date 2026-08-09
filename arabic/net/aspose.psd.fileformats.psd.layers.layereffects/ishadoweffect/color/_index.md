@@ -1,28 +1,29 @@
 ---
-title: IShadowEffect.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: IShadowEffect ملكية. الحصول على اللون أو تحديده .
+title: "IShadowEffect.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IShadowEffect. تُرجع أو تُعيّن اللون"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Color property
 
-الحصول على اللون أو تحديده .
+يحصل أو يعيّن اللون.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اللون .
+اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

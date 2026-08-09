@@ -1,32 +1,33 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. اختبار ما إذا كان اثنان محددًاColorالهياكل متكافئة.
+title: "Color.op_Equality"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. تختبر ما إذا كان هيكلا Color المحددين متساويين"
 type: docs
-weight: 1620
+weight: 1640
 url: /ar/net/aspose.psd/color/op_equality/
 ---
+{{< psd/tize >}}
 ## Color Equality operator
 
-اختبار ما إذا كان اثنان محددًا[`Color`](../)الهياكل متكافئة.
+تختبر ما إذا كان هيكلا [`Color`](../) المحددين متساويين.
 
 ```csharp
 public static bool operator ==(Color left, Color right)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| left | Color | ال[`Color`](../) هذا على يسار عامل المساواة. |
-| right | Color | ال[`Color`](../) هذا هو حق مشغل المساواة. |
+| left | Color | الـ[`Color`](../) التي تقع إلى يسار عامل المساواة. |
+| right | Color | الـ[`Color`](../) التي تقع إلى يمين عامل المساواة. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان الاثنان[`Color`](../) الهياكل متساوية خلاف ذلك ، خطأ.
+صحيح إذا كان هيكلا [`Color`](../) متساويين؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

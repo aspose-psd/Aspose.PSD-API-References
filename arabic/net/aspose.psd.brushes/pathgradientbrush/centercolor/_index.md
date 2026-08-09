@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.CenterColor
-second_title: Aspose.PSD لمرجع .NET API
-description: PathGradientBrush ملكية. الحصول على أو تعيين اللون في وسط تدرج المسار.
+title: "PathGradientBrush.CenterColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PathGradientBrush. يحصل أو يعيّن اللون في مركز تدرج المسار."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.brushes/pathgradientbrush/centercolor/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.CenterColor property
 
-الحصول على أو تعيين اللون في وسط تدرج المسار.
+يحصل أو يعيّن اللون في مركز تدرج المسار.
 
 ```csharp
 public Color CenterColor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`Color`](../../../aspose.psd/color/) الذي يمثل اللون في وسط تدرج المسار.
+[`Color`](../../../aspose.psd/color/) التي تمثل اللون في مركز تدرج المسار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

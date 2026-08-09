@@ -1,31 +1,32 @@
 ---
-title: IIndexedColorConverter.FillIndexedtoIndexedMap
-second_title: Aspose.PSD لمرجع .NET API
-description: IIndexedColorConverter طريقة. يملأ خريطة تحويل الصور المفهرسة.
+title: "IIndexedColorConverter.FillIndexedtoIndexedMap"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IIndexedColorConverter. تملأ خريطة تحويل الصورة من فهرس إلى فهرس"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter.FillIndexedtoIndexedMap method
 
-يملأ خريطة تحويل الصور المفهرسة.
+يملأ خريطة تحويل الصورة المفهرسة إلى مفهرسة.
 
 ```csharp
 public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat, 
     PixelDataFormat destFormat)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| map | Byte[] | خريطة التحويل. |
+| خريطة | Byte[] | خريطة التحويل. |
 | sourceFormat | PixelDataFormat | تنسيق المصدر. |
 | destFormat | PixelDataFormat | تنسيق الوجهة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IIndexedColorConverter](../)
-* مساحة الاسم [Aspose.PSD](../../iindexedcolorconverter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

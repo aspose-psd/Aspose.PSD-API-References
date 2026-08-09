@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.OutputShadowLevel
-second_title: Aspose.PSD لمرجع .NET API
-description: LevelChannel ملكية. الحصول على أو تحديد مستوى ظل الإخراج.
+title: "LevelChannel.OutputShadowLevel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LevelChannel. تحصل أو تعيّن مستوى الظل الناتج"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputShadowLevel property
 
-الحصول على أو تحديد مستوى ظل الإخراج.
+يحصل أو يضبط مستوى الظل للمخرج.
 
 ```csharp
 public short OutputShadowLevel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مستوى ظل الإخراج .
+مستوى الظل الناتج.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يمكن ضبط مستوى ظل الإخراج فقط في النطاق من 0 إلى "+ (this.OutputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | يمكن تعيين مستوى الظل الناتج فقط في النطاق من 0 إلى " + (this.OutputHighlightLevel - 2) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LevelChannel](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

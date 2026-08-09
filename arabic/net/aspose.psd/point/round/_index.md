@@ -1,32 +1,33 @@
 ---
-title: Point.Round
-second_title: Aspose.PSD لمرجع .NET API
-description: Point طريقة. تحويل المحددPointF إلى أPoint كائن عن طريق تقريبPoint القيم لأقرب عدد صحيح.
+title: "Point.Round"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Point. تحول الـ PointF المحدد إلى كائن Point عن طريق تقريب قيم Point إلى أقرب عدد صحيح"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/point/round/
 ---
+{{< psd/tize >}}
 ## Point.Round method
 
-تحويل المحدد[`PointF`](../../pointf/) إلى أ[`Point`](../) كائن عن طريق تقريب[`Point`](../) القيم لأقرب عدد صحيح.
+تحول الـ [`PointF`](../../pointf/) المحدد إلى كائن [`Point`](../) عن طريق تقريب قيم [`Point`](../) إلى أقرب عدد صحيح.
 
 ```csharp
 public static Point Round(PointF point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | PointF | ال[`PointF`](../../pointf/) لتحويل. |
+| point | PointF | الـ[`PointF`](../../pointf/) للتحويل. |
 
 ### قيمة الإرجاع
 
-ال[`Point`](../) هذه الطريقة تتحول إلى.
+الـ [`Point`](../) التي يتحول إليها هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

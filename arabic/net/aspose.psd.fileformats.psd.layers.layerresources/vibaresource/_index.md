@@ -1,57 +1,58 @@
 ---
-title: Class VibAResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VibAResource فصل. مورد VibA .
+title: "الفئة VibAResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VibAResource. مورد VibA"
 type: docs
-weight: 3350
+weight: 3750
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 ---
+{{< psd/tize >}}
 ## VibAResource class
 
-مورد VibA .
+المورد VibA.
 
 ```csharp
 public class VibAResource : AdjustmentLayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [VibAResource](vibaresource/)() | يقوم بتهيئة مثيل جديد لملف`VibAResource` فئة . |
+| [VibAResource](vibaresource/)() | يُنشئ مثيلًا جديدًا من الفئة `VibAResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation/) { get; set; } | الحصول على أو تعيين قيمة التشبع |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | يحصل على التوقيع. |
-| [Vibrance](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/) { get; set; } | الحصول على أو تحديد قيمة الحيوية |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation/) { get; set; } | يحصل أو يعيّن قيمة التشبع |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
+| [Vibrance](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/) { get; set; } | يحصل أو يعيّن قيمة الحيوية |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي من التعليمات البرمجية دعم مورد VibAResource.
+يوضح مثال الشيفرة التالي دعم مورد VibAResource.
 
 ```csharp
 [C#]
 
-// مثال على دعم قراءة وكتابة مورد الاهتزاز في وقت التشغيل.
+// مثال على دعم قراءة وكتابة مورد الاهتزاز أثناء التشغيل.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -80,10 +81,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

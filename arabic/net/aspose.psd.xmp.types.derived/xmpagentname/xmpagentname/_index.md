@@ -1,27 +1,28 @@
 ---
-title: XmpAgentName.XmpAgentName
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpAgentName البناء. يقوم بتهيئة مثيل جديد لملفXmpAgentName فئة .
+title: "XmpAgentName.XmpAgentName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpAgentName. يهيئ نسخة جديدة من الفئة XmpAgentName"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.derived/xmpagentname/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName constructor
 
-يقوم بتهيئة مثيل جديد لملف[`XmpAgentName`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpAgentName`](../).
 
 ```csharp
 public XmpAgentName(string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| قيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpAgentName](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

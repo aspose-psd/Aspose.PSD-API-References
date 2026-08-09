@@ -1,30 +1,31 @@
 ---
-title: FillLayer.CreateInstance
-second_title: Aspose.PSD لمرجع .NET API
-description: FillLayer طريقة. إنشاء مثيل جديد لملفFillLayer فئة حسب نوع التعبئة.
+title: "FillLayer.CreateInstance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FillLayer. بناء نسخة جديدة من فئة FillLayer حسب نوع التعبئة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
+{{< psd/tize >}}
 ## FillLayer.CreateInstance method
 
-إنشاء مثيل جديد لملف[`FillLayer`](../) فئة حسب نوع التعبئة.
+بناء نسخة جديدة من الفئة [`FillLayer`](../) حسب نوع التعبئة.
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fillType | FillType | نوع طبقة التعبئة. |
 
 ### قيمة الإرجاع
 
-إرجاع مثيل جديد من[`FillLayer`](../) فئة حسب نوع التعبئة.
+يعيد نسخة جديدة من الفئة [`FillLayer`](../) حسب نوع التعبئة.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية إضافة طبقة نوع FillLayer في وقت التشغيل.
+المثال التالي يوضح كيفية إضافة طبقة من نوع FillLayer أثناء التشغيل.
 
 ```csharp
 [C#]
@@ -50,11 +51,11 @@ using (var image = new PsdImage(100, 100))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

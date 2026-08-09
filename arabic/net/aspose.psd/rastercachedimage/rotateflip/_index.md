@@ -1,26 +1,27 @@
 ---
-title: RasterCachedImage.RotateFlip
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterCachedImage طريقة. يقوم بتدوير الصورة أو قلبها أو تدويرها وقلبها.
+title: "RasterCachedImage.RotateFlip"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterCachedImage. تدور أو تقلب أو تدور وتقلب الصورة"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/rastercachedimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.RotateFlip method
 
-يقوم بتدوير الصورة أو قلبها أو تدويرها وقلبها.
+يدور أو يقلب أو يدور ويقلب الصورة.
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | نوع تدوير الوجه. |
+| rotateFlipType | RotateFlipType | نوع تدوير القليب. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي كيفية تدوير الصورة.
+الكود التالي يوضح كيفية تدوير الصورة.
 
 ```csharp
 [C#]
@@ -40,11 +41,11 @@ using (var im = (PsdImage)(Image.Load(sourceFile)))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [RasterCachedImage](../)
-* مساحة الاسم [Aspose.PSD](../../rastercachedimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

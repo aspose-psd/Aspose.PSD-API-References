@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.Stereo
-second_title: Aspose.PSD لمرجع .NET API
-description: AudioChannelType ملكية. يحصل على قناة صوت الاستريو .
+title: "AudioChannelType.Stereo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AudioChannelType. يحصل على قناة الصوت ستيريو"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Stereo property
 
-يحصل على قناة صوت الاستريو .
+يحصل على قناة الصوت ستيريو.
 
 ```csharp
 public static AudioChannelType Stereo { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قناة صوت الاستريو .
+قناة الصوت ستيريو.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioChannelType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

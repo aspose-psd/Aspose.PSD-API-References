@@ -1,28 +1,29 @@
 ---
-title: ChannelInformation.CompressionMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: ChannelInformation ملكية. الحصول على أو تحديد طريقة الضغط .
+title: "ChannelInformation.CompressionMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ChannelInformation. تحصّل أو تضبط طريقة الضغط."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.CompressionMethod property
 
-الحصول على أو تحديد طريقة الضغط .
+يحصل أو يضبط طريقة الضغط.
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-طريقة الضغط .
+طريقة الضغط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [ChannelInformation](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

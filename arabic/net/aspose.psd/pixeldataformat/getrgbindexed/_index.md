@@ -1,20 +1,21 @@
 ---
-title: PixelDataFormat.GetRgbIndexed
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. الحصول على لون مفهرس BGRA مع عدد محدد من وحدات البت لكل عينة.
+title: "PixelDataFormat.GetRgbIndexed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PixelDataFormat. يحصل على لون BGRA المفهرس بعدد محدد من البتات لكل عينة"
 type: docs
 weight: 270
 url: /ar/net/aspose.psd/pixeldataformat/getrgbindexed/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetRgbIndexed method
 
-الحصول على لون مفهرس BGRA مع عدد محدد من وحدات البت لكل عينة.
+يحصل على لون BGRA المفهرس بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetRgbIndexed(int bitsPerSample)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bitsPerSample | Int32 | عدد البتات لكل عينة. |
 
@@ -22,10 +23,10 @@ public static PixelDataFormat GetRgbIndexed(int bitsPerSample)
 
 لون BGRA.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

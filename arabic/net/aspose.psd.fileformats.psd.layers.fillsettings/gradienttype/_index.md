@@ -1,33 +1,34 @@
 ---
-title: Enum GradientType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType تعداد. نوع التدرج اللوني
+title: "التعداد GradientType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType. نوع التدرج"
 type: docs
-weight: 1980
+weight: 2100
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
+{{< psd/tize >}}
 ## GradientType enumeration
 
-نوع التدرج اللوني
+نوع التدرج
 
 ```csharp
 public enum GradientType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Linear | `0` | نوع التدرج الخطي |
 | Radial | `1` | نوع التدرج الشعاعي |
-| Angle | `2` | نوع التدرج الزاوية |
+| Angle | `2` | نوع التدرج الزاوي |
 | Reflected | `3` | نوع التدرج المنعكس |
 | Diamond | `4` | نوع التدرج الماسي |
-| ShapeBurst | `5` | نوع التدرج اللوني للانفجار الشكل |
+| ShapeBurst | `5` | نوع التدرج المتفجر الشكل |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

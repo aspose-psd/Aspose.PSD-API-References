@@ -1,11 +1,12 @@
 ---
-title: FXidResource.FXidTypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: FXidResource مجال. مفتاح معلومات أداة النوع FXid.
+title: "FXidResource.FXidTypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل FXidResource. مفتاح معلومات أداة النوع FXid"
 type: docs
-weight: 100
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/
 ---
+{{< psd/tize >}}
 ## FXidResource.FXidTypeToolKey field
 
 مفتاح معلومات أداة النوع FXid.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidt
 public const int FXidTypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FXidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

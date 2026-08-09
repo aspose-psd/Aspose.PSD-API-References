@@ -1,28 +1,29 @@
 ---
-title: PattResourceData.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResourceData طريقة. يحفظ بيانات النمط .
+title: "PattResourceData.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PattResourceData. تحفظ بيانات النمط."
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Save method
 
-يحفظ بيانات النمط .
+يحفظ بيانات النمط.
 
 ```csharp
 public void Save(StreamContainer streamContainer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق للحفظ فيها. |
+| streamContainer | StreamContainer | حاوية الدفق التي سيتم الحفظ فيها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResourceData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

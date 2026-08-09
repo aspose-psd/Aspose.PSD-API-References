@@ -1,23 +1,24 @@
 ---
-title: DataStreamSupporter.CacheData
-second_title: Aspose.PSD لمرجع .NET API
-description: DataStreamSupporter طريقة. يخزن البيانات ويضمن عدم إجراء أي تحميل إضافي للبيانات من الأساسDataStreamContainer .
+title: "DataStreamSupporter.CacheData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة DataStreamSupporter. تُخزن البيانات مؤقتًا وتضمن عدم تحميل بيانات إضافية من الـ DataStreamContainer الأساسي."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/datastreamsupporter/cachedata/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.CacheData method
 
-يخزن البيانات ويضمن عدم إجراء أي تحميل إضافي للبيانات من الأساس[`DataStreamContainer`](../datastreamcontainer/) .
+تخزن البيانات مؤقتًا وتضمن عدم تحميل بيانات إضافية من الـ [`DataStreamContainer`](../datastreamcontainer/) الأساسي.
 
 ```csharp
 public abstract void CacheData()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DataStreamSupporter](../)
-* مساحة الاسم [Aspose.PSD](../../datastreamsupporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

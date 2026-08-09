@@ -1,127 +1,128 @@
 ---
-title: Graphics.FillEllipse
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يملأ الجزء الداخلي من القطع الناقص المحدد بواسطة مستطيل محيط محدد بواسطةRectangleFهيكل .
+title: "Graphics.FillEllipse"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. تملأ داخل القطع الناقص المحدد بواسطة مستطيل محيط محدد بهيكل RectangleF."
 type: docs
-weight: 350
+weight: 360
 url: /ar/net/aspose.psd/graphics/fillellipse/
 ---
+{{< psd/tize >}}
 ## FillEllipse(Brush, RectangleF) {#fillellipse_1}
 
-يملأ الجزء الداخلي من القطع الناقص المحدد بواسطة مستطيل محيط محدد بواسطة[`RectangleF`](../../rectanglef/)هيكل .
+يملأ داخل الإهليلج المحدد بواسطة مستطيل محيط مُحدَّد بواسطة بنية [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void FillEllipse(Brush brush, RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)التي تحدد خصائص التعبئة. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/)الهيكل الذي يمثل المستطيل المحيط الذي يحدد القطع الناقص. |
+| brush | Brush | [`Brush`](../../brush/) الذي يحدد خصائص التعبئة. |
+| rect | RectangleF | بنية [`RectangleF`](../../rectanglef/) التي تمثل المستطيل المحيط الذي يحدد الإهليلج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* باطل. |
+| ArgumentNullException | *brush* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, float, float, float, float) {#fillellipse_3}
 
-يملأ الجزء الداخلي من القطع الناقص المحدد بواسطة مستطيل محيط محدد بواسطة زوج من الإحداثيات والعرض والارتفاع.
+يملأ داخل إهليلج محدد بواسطة مستطيل حدودي محدد بواسطة زوج من الإحداثيات، عرض، وارتفاع.
 
 ```csharp
 public void FillEllipse(Brush brush, float x, float y, float width, float height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)التي تحدد خصائص التعبئة. |
-| x | Single | إحداثي x للركن الأيسر العلوي للمستطيل المحيط الذي يحدد القطع الناقص. |
-| y | Single | إحداثي y للركن الأيسر العلوي للمستطيل المحيط الذي يحدد القطع الناقص. |
-| width | Single | عرض المستطيل المحيط الذي يحدد القطع الناقص. |
-| height | Single | ارتفاع المستطيل المحيط الذي يحدد القطع الناقص. |
+| brush | Brush | [`Brush`](../../brush/) الذي يحدد خصائص التعبئة. |
+| x | Single | الإحداثي السيني للزاوية العليا اليسرى للمستطيل المحيط الذي يحدد الإهليلج. |
+| y | Single | الإحداثي الصادي للزاوية العليا اليسرى للمستطيل المحيط الذي يحدد الإهليلج. |
+| العرض | Single | عرض المستطيل المحيط الذي يحدد الإهليلج. |
+| الارتفاع | Single | ارتفاع المستطيل المحيط الذي يحدد الإهليلج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* باطل. |
+| ArgumentNullException | *brush* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, Rectangle) {#fillellipse}
 
-يملأ الجزء الداخلي من القطع الناقص المحدد بواسطة مستطيل محيط محدد بواسطة[`Rectangle`](../../rectangle/)هيكل .
+يملأ داخل الإهليلج المحدد بواسطة مستطيل محيط مُحدَّد بواسطة بنية [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void FillEllipse(Brush brush, Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)التي تحدد خصائص التعبئة. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/)الهيكل الذي يمثل المستطيل المحيط الذي يحدد القطع الناقص. |
+| brush | Brush | [`Brush`](../../brush/) الذي يحدد خصائص التعبئة. |
+| rect | Rectangle | بنية [`Rectangle`](../../rectangle/) التي تمثل المستطيل المحيط الذي يحدد الإهليلج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* باطل. |
+| ArgumentNullException | *brush* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, int, int, int, int) {#fillellipse_2}
 
-يملأ الجزء الداخلي من القطع الناقص المحدد بواسطة مستطيل محيط محدد بواسطة زوج من الإحداثيات والعرض والارتفاع.
+يملأ داخل إهليلج محدد بواسطة مستطيل حدودي محدد بواسطة زوج من الإحداثيات، عرض، وارتفاع.
 
 ```csharp
 public void FillEllipse(Brush brush, int x, int y, int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)التي تحدد خصائص التعبئة. |
-| x | Int32 | إحداثي x للركن الأيسر العلوي للمستطيل المحيط الذي يحدد القطع الناقص. |
-| y | Int32 | إحداثي y للركن الأيسر العلوي للمستطيل المحيط الذي يحدد القطع الناقص. |
-| width | Int32 | عرض المستطيل المحيط الذي يحدد القطع الناقص. |
-| height | Int32 | ارتفاع المستطيل المحيط الذي يحدد القطع الناقص. |
+| brush | Brush | [`Brush`](../../brush/) الذي يحدد خصائص التعبئة. |
+| x | Int32 | الإحداثي السيني للزاوية العليا اليسرى للمستطيل المحيط الذي يحدد الإهليلج. |
+| y | Int32 | الإحداثي الصادي للزاوية العليا اليسرى للمستطيل المحيط الذي يحدد الإهليلج. |
+| العرض | Int32 | عرض المستطيل المحيط الذي يحدد الإهليلج. |
+| الارتفاع | Int32 | ارتفاع المستطيل المحيط الذي يحدد الإهليلج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* باطل. |
+| ArgumentNullException | *brush* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

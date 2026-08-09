@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Name
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResourceData ملكية. الحصول على الاسم أو تعيينه .
+title: "PattResourceData.Name"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PattResourceData. تحصل أو تعين الاسم."
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Name property
 
-الحصول على الاسم أو تعيينه .
+يحصل أو يضبط الاسم.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 الاسم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResourceData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

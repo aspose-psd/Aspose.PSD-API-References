@@ -1,14 +1,15 @@
 ---
-title: JpegExifData.SerializeExifData
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData طريقة. تسلسل بيانات EXIF. يكتب قيم ومحتويات العلامات. علامة الحجم الأكثر تأثيرًا هي محتويات علامة الصورة المصغرة.
+title: "JpegExifData.SerializeExifData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة JpegExifData. تسلسل بيانات EXIF. يكتب قيم العلامات ومحتوياتها. أكثر علامة حجمًا تأثيرًا هي محتويات علامة الصورة المصغرة."
 type: docs
 weight: 270
 url: /ar/net/aspose.psd.exif/jpegexifdata/serializeexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SerializeExifData method
 
-تسلسل بيانات EXIF. يكتب قيم ومحتويات العلامات. علامة الحجم الأكثر تأثيرًا هي محتويات علامة الصورة المصغرة.
+يسلسل بيانات EXIF. يكتب قيم العلامات ومحتوياتها. أكثر علامة حجمية تأثيرًا هي محتويات علامة المصغرة.
 
 ```csharp
 public byte[] SerializeExifData()
@@ -18,14 +19,14 @@ public byte[] SerializeExifData()
 
 بيانات EXIF المتسلسلة.
 
-### ملاحظات
+## ملاحظات
 
-يجب أن يكون حجم المقطع الإجمالي أقل من أو يساوي MaxExifSegmentSize بايت من أجل إنتاج صورة jpeg صحيحة. تلميح: حاول تقليل حجم الصورة المصغرة أو تغيير ضغطها في حالة وجود حجم قسم EXIF كبير جدًا .
+يجب أن يكون حجم الجزء الكلي أقل من أو يساوي MaxExifSegmentSize بايت لإنتاج صورة jpeg صحيحة. تلميح: حاول تقليل حجم الصورة المصغرة أو تغيير ضغطها في حال كان حجم قسم EXIF كبيرًا جدًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

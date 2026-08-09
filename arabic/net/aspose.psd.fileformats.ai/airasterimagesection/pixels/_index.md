@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: Aspose.PSD لمرجع .NET API
-description: AiRasterImageSection ملكية. يحصل على مجموعة وحدات البكسل الملونة.
+title: "AiRasterImageSection.Pixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiRasterImageSection. تحصل على مصفوفة من بكسلات اللون من نوع int"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
-يحصل على مجموعة وحدات البكسل الملونة.
+يحصل على مصفوفة بكسلات اللون من نوع int.
 
 ```csharp
 public int[] Pixels { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مصفوفة وحدات البكسل الملونة.
+مصفوفة من بكسلات اللون من نوع int.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiRasterImageSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

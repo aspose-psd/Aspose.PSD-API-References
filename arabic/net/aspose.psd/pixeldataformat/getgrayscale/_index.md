@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.GetGrayscale
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. الحصول على لون بتدرج الرمادي مع عدد محدد من وحدات البت لكل عينة.
+title: "PixelDataFormat.GetGrayscale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PixelDataFormat. تسترجع لون رمادي مع عدد محدد من البتات لكل عينة."
 type: docs
 weight: 230
 url: /ar/net/aspose.psd/pixeldataformat/getgrayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetGrayscale method
 
-الحصول على لون بتدرج الرمادي مع عدد محدد من وحدات البت لكل عينة.
+يحصل على لون Grayscale بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetGrayscale(int bitsPerSample)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bitsPerSample | Int32 | عدد البتات لكل عينة. |
 
 ### قيمة الإرجاع
 
-لون تدرج الرمادي.
+لون الرمادي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

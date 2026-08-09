@@ -1,27 +1,28 @@
 ---
-title: BmpOptions.BitsPerPixel
-second_title: Aspose.PSD لمرجع .NET API
-description: BmpOptions ملكية. الحصول على أو تعيين عدد بتات الصورة لكل بكسل.
+title: "BmpOptions.BitsPerPixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BmpOptions. تحصل أو تعين عدد البتات لكل بكسل في الصورة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imageoptions/bmpoptions/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## BmpOptions.BitsPerPixel property
 
-الحصول على أو تعيين عدد بتات الصورة لكل بكسل.
+يحصل أو يضبط عدد بتات الصورة لكل بكسل.
 
 ```csharp
 public int BitsPerPixel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد بتات الصورة لكل بكسل.
+عدد البتات لكل بكسل في الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BmpOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Color.B
-second_title: Aspose.PSD لمرجع .NET API
-description: Color ملكية. يحصل على قيمة المكون الأزرق لهذاColorهيكل .
+title: "Color.B"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Color property. تُرجع قيمة المكوّن الأزرق لهذه البنية Color"
 type: docs
 weight: 1470
 url: /ar/net/aspose.psd/color/b/
 ---
+{{< psd/tize >}}
 ## Color.B property
 
-يحصل على قيمة المكون الأزرق لهذا[`Color`](../)هيكل .
+تُرجع قيمة المكوّن الأزرق لهذه البنية [`Color`](../).
 
 ```csharp
 public byte B { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة المكون الأزرق لهذا[`Color`](../).
+قيمة المكوّن الأزرق لهذه [`Color`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

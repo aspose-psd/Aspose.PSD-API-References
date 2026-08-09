@@ -1,11 +1,12 @@
 ---
-title: Enum LayerLockType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerLockType تعداد. خيارات قفل الطبقة
+title: "التعداد LayerLockType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerLockType. خيارات قفل الطبقة."
 type: docs
-weight: 2580
+weight: 2890
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 ---
+{{< psd/tize >}}
 ## LayerLockType enumeration
 
 خيارات قفل الطبقة
@@ -15,19 +16,19 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 public enum LayerLockType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | بدون قفل طبقة |
-| LockTransparentPixels | `1` | تأمين طبقة جزئيًا - يقصر التحرير على الأجزاء المعتمة من الطبقة. هذا الخيار يكافئ خيار الحفاظ على الشفافية في الإصدارات السابقة من Photoshop. |
-| LockImagePixels | `2` | قفل طبقة جزئيًا - يمنع تعديل وحدات البكسل الموجودة في الطبقة باستخدام أدوات الطلاء. |
-| LockPosition | `4` | قفل طبقة جزئيًا - يمنع نقل وحدات البكسل الموجودة في الطبقة. |
-| LockAll | `7` | قفل كافة خصائص layer |
+| None | `0` | بدون قفل للطبقة |
+| LockTransparentPixels | `1` | قفل جزئي للطبقة - يقتصر التحرير على الأجزاء غير الشفافة من الطبقة. هذا الخيار يعادل خيار الحفاظ على الشفافية في إصدارات Photoshop السابقة. |
+| LockImagePixels | `2` | قفل جزئي للطبقة - يمنع تعديل بكسلات الطبقة باستخدام أدوات الرسم. |
+| LockPosition | `4` | قفل جزئي للطبقة - يمنع نقل بكسلات الطبقة. |
+| LockAll | `7` | قفل جميع خصائص الطبقة |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

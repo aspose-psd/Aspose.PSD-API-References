@@ -1,11 +1,12 @@
 ---
-title: LnsrResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: LnsrResource ملكية. يحصل على التوقيع.
+title: "LnsrResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LnsrResource. يحصل على التوقيع"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Signature property
 
 يحصل على التوقيع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signa
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LnsrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class ResourceBlock
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.ResourceBlock فصل. كتلة المورد .
+title: "الفئة ResourceBlock"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.ResourceBlock. كتلة الموارد"
 type: docs
-weight: 3610
+weight: 4070
 url: /ar/net/aspose.psd.fileformats.psd/resourceblock/
 ---
+{{< psd/tize >}}
 ## ResourceBlock class
 
-كتلة المورد .
+كتلة المورد.
 
 ```csharp
 public abstract class ResourceBlock
@@ -16,38 +17,38 @@ public abstract class ResourceBlock
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [DataSize](../../aspose.psd.fileformats.psd/resourceblock/datasize/) { get; } | الحصول على حجم بيانات المورد بالبايت. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | الحصول على أو تحديد المعرف الفريد للمورد. |
-| abstract [MinimalVersion](../../aspose.psd.fileformats.psd/resourceblock/minimalversion/) { get; } | يحصل على الحد الأدنى من إصدار PSD المطلوب. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | الحصول على اسم المورد أو تعيينه. سلسلة باسكال ، مبطن لجعل الحجم زوجياً (يتكون الاسم الفارغ من وحدتي بايت من 0) . |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | يحصل على توقيع المورد. يجب أن يكون دائمًا "8BIM" . |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | الحصول على حجم كتلة المورد بالبايت بما في ذلك البيانات الخاصة به. |
+| abstract [DataSize](../../aspose.psd.fileformats.psd/resourceblock/datasize/) { get; } | يحصل على حجم بيانات المورد بالبايت. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | يحصل أو يضبط المعرف الفريد للمورد. |
+| abstract [MinimalVersion](../../aspose.psd.fileformats.psd/resourceblock/minimalversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | يحصل أو يضبط اسم المورد. سلسلة باسكال، مملوءة لتصبح الحجم زوجيًا (اسم فارغ يتكون من بايتين من الصفر). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | يحصل على توقيع المورد. يجب أن يكون دائمًا '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | يحصل على حجم كتلة المورد بالبايت بما في ذلك بياناتها. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | يحفظ كتلة المورد في الدفق المحدد. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | يتحقق من صحة قيم المورد . |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | يحفظ كتلة المورد إلى الدفق المحدد. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | يتحقق من صحة قيم المورد. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [ResouceBlockMeSaSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/) | توقيع المورد ImageReady. |
-| const [ResouceBlockSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblocksignature/) | توقيع مورد Photoshop العادي . |
+| const [ResouceBlockMeSaSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/) | توقيع المورد الخاص بـ ImageReady. |
+| const [ResouceBlockSignature](../../aspose.psd.fileformats.psd/resourceblock/resouceblocksignature/) | توقيع المورد العادي في Photoshop. |
 
-## أعضاء آخرون
+## الأعضاء الآخرين
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| enum [ResourceBlockState](resourceblock.resourceblockstate/) | يمثل حالة كتلة المورد. |
+| enum [ResourceBlockState](../../aspose.psd.fileformats.psd/resourceblock.resourceblockstate) | يمثل حالة كتلة الموارد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

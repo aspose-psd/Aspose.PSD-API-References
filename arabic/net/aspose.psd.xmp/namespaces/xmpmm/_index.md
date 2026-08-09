@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpMm
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. مساحة اسم إدارة الأصول الرقمية XMP.
+title: "Namespaces.XmpMm"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. مساحة اسم إدارة الأصول الرقمية XMP"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.xmp/namespaces/xmpmm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpMm field
 
-مساحة اسم إدارة الأصول الرقمية XMP.
+مساحة الاسم XMP digital asset management.
 
 ```csharp
 public const string XmpMm;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

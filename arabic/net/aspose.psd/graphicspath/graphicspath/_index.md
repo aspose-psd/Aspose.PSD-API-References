@@ -1,88 +1,89 @@
 ---
-title: GraphicsPath.GraphicsPath
-second_title: Aspose.PSD لمرجع .NET API
-description: GraphicsPath البناء. يقوم بتهيئة مثيل جديد لملفGraphicsPath فئة .
+title: "GraphicsPath.GraphicsPath"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GraphicsPath. يهيئ مثيلاً جديداً من فئة GraphicsPath"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/graphicspath/graphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPath() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`GraphicsPath`](../) فئة .
+يهيئ مثيلاً جديداً من فئة [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../)
-* مساحة الاسم [Aspose.PSD](../../graphicspath/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`GraphicsPath`](../) فئة .
+يهيئ مثيلاً جديداً من فئة [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath(Figure[] figures)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| figures | Figure[] | الأرقام المطلوب التهيئة منها. |
+| الأشكال | Figure[] | الأشكال التي يتم التهيئة منها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* مساحة الاسم [Aspose.PSD](../../graphicspath/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`GraphicsPath`](../) فئة .
+يهيئ مثيلاً جديداً من فئة [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| figures | Figure[] | الأرقام المطلوب التهيئة منها. |
-| fillMode | FillMode | وضع الملء. |
+| الأشكال | Figure[] | الأشكال التي يتم التهيئة منها. |
+| fillMode | FillMode | وضع التعبئة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Figure](../../figure/)
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* مساحة الاسم [Aspose.PSD](../../graphicspath/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`GraphicsPath`](../) فئة .
+يهيئ مثيلاً جديداً من فئة [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath(FillMode fillMode)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| fillMode | FillMode | وضع الملء. |
+| fillMode | FillMode | وضع التعبئة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* مساحة الاسم [Aspose.PSD](../../graphicspath/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

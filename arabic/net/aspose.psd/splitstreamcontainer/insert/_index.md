@@ -1,36 +1,37 @@
 ---
-title: SplitStreamContainer.Insert
-second_title: Aspose.PSD لمرجع .NET API
-description: SplitStreamContainer طريقة. إدراج حاوية التدفق في الموضع المحدد.
+title: "SplitStreamContainer.Insert"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SplitStreamContainer. تُدرج حاوية الدفق في الموضع المحدد"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/splitstreamcontainer/insert/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Insert method
 
-إدراج حاوية التدفق في الموضع المحدد.
+يدرج حاوية التدفق في الموضع المحدد.
 
 ```csharp
 public void Insert(int position, StreamContainer stream, bool disposeStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int32 | الموقف المراد إدراجها. |
-| stream | StreamContainer | حاوية تيار لإدراجها. |
-| disposeStream | Boolean | إذا تم التعيين على`حقيقي` يتصرف تيار. |
+| الموضع | Int32 | الموضع الذي تُدرج إليه. |
+| stream | StreamContainer | حاوية الدفق التي تُدرج. |
+| disposeStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق الدفق. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

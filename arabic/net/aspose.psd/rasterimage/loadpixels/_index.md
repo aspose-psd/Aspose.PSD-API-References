@@ -1,80 +1,81 @@
 ---
-title: RasterImage.LoadPixels
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تحميل بكسل .
+title: "RasterImage.LoadPixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تقوم بتحميل البكسلات."
 type: docs
-weight: 400
+weight: 410
 url: /ar/net/aspose.psd/rasterimage/loadpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPixels method
 
-تحميل بكسل .
+يقوم بتحميل البكسلات.
 
 ```csharp
 public Color[] LoadPixels(Rectangle rectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المراد تحميل البكسل منه. |
+| مستطيل | Rectangle | المستطيل الذي يتم تحميل البكسلات منه. |
 
 ### قيمة الإرجاع
 
-مصفوفة البكسل المحملة .
+مصفوفة البكسلات المحملة.
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال كيفية تحميل معلومات البكسل في مصفوفة من نوع اللون ، ومعالجة المصفوفة وإعادة تعيينها إلى الصورة. لإجراء هذه العمليات ، يقوم هذا المثال بإنشاء ملف صورة جديد (بتنسيق PSD) باستخدام كائن MemoryStream.
+هذا المثال يوضح كيفية تحميل معلومات البكسل في مصفوفة من نوع Color، تعديل المصفوفة وإعادتها إلى الصورة. لتنفيذ هذه العمليات، ينشئ هذا المثال ملف Image جديد (بتنسيق PSD) باستخدام كائن MemoryStream.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل لـ MemoryStream
+//إنشاء مثال من MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    // أنشئ مثيلاً من PsdOptions وعيّن خصائصه المتنوعة بما في ذلك خاصية المصدر
+    //إنشاء مثال من PsdOptions وتعيين خصائصه المتنوعة بما في ذلك خاصية Source
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    // إنشاء مثيل للصورة
+    //إنشاء مثال من Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        // احصل على وحدات البكسل في الصورة عن طريق تحديد المنطقة كحدود للصورة
+        //احصل على بكسلات الصورة عن طريق تحديد المنطقة كحدود الصورة
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        // حلقة فوق المصفوفة وتعيين لون البكسل المفهرس
+        //تكرار عبر المصفوفة وتعيين لون البكسل المفهرس البديل
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                // اضبط لون البكسل المفهرس على اللون الأصفر
+                //تعيين لون البكسل المفهرس إلى الأصفر
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                // اضبط لون البكسل المفهرس على اللون الأزرق
+                //تعيين لون البكسل المفهرس إلى الأزرق
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        // قم بتطبيق تغييرات البكسل على الصورة
+        //تطبيق تغييرات البكسل على الصورة
         image.SavePixels(image.Bounds, pixels);
 
         // احفظ جميع التغييرات.
         image.Save();
     }
 
-    // اكتب MemoryStream إلى ملف
+    //اكتب MemoryStream إلى ملف
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

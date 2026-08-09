@@ -1,24 +1,25 @@
 ---
-title: AiImage.FileFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. يحصل على قيمة تنسيق الملف
+title: "AiImage.FileFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. يحصل على قيمة تنسيق الملف"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/fileformat/
 ---
+{{< psd/tize >}}
 ## AiImage.FileFormat property
 
-يحصل على قيمة تنسيق الملف
+يحصل على قيمة تنسيق الملف.
 
 ```csharp
 public override FileFormat FileFormat { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

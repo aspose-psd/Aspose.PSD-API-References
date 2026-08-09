@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.ExifData
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegOptions ملكية. الحصول على أو تعيين حاوية بيانات exif
+title: "JpegOptions.ExifData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegOptions. تحصل أو تعين حاوية بيانات exif"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ExifData property
 
-الحصول على أو تعيين حاوية بيانات exif
+احصل أو اضبط حاوية بيانات exif
 
 ```csharp
 public JpegExifData ExifData { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../../../aspose.psd.exif/jpegexifdata/)
 * class [JpegOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

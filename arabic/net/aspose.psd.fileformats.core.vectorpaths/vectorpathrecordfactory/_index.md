@@ -1,34 +1,29 @@
 ---
-title: Class VectorPathRecordFactory
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory فصل. Vector Path Record Factory Class
+title: "الفئة VectorPathRecordFactory"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory. فئة مصنع سجل مسار المتجه"
 type: docs
-weight: 1410
+weight: 1420
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-Vector Path Record Factory Class
+فئة مصنع سجل المسار المتجه.
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
 
-## المنشئون
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | Default_Constructor |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | ينتج سجل المسار. |
 
-## طُرق
+### انظر أيضًا
 
-| اسم | وصف |
-| --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | ينتج عنه سجل المسار . |
-
-### أنظر أيضا
-
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

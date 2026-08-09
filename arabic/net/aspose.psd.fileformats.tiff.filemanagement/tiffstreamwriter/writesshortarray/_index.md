@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSShortArray
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب مصفوفة من القيم القصيرة للتيار.
+title: "TiffStreamWriter.WriteSShortArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. تكتب مصفوفة من القيم القصيرة إلى الدفق"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSShortArray method
 
-يكتب مصفوفة من القيم القصيرة للتيار.
+يكتب مصفوفة من القيم القصيرة إلى الدفق.
 
 ```csharp
 public void WriteSShortArray(short[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Int16[] | المصفوفة للكتابة. |
+| البيانات | Int16[] | المصفوفة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

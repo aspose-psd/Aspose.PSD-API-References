@@ -1,14 +1,15 @@
 ---
-title: Class VectorPathRecord
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord فصل. فئة سجل مسار المتجه
+title: "الفئة VectorPathRecord"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord. فئة سجل مسار المتجه."
 type: docs
-weight: 1400
+weight: 1410
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord class
 
-فئة سجل مسار المتجه
+فئة سجل المسار المتجه
 
 ```csharp
 public abstract class VectorPathRecord
@@ -16,13 +17,13 @@ public abstract class VectorPathRecord
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/) { get; } | يحصل على النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

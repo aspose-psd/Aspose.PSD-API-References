@@ -1,29 +1,30 @@
 ---
-title: RasterImage.WriteScanLine
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يكتب خط المسح بالكامل إلى فهرس خط المسح المحدد.
+title: "RasterImage.WriteScanLine"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تكتب سطر المسح الكامل إلى فهرس سطر المسح المحدد"
 type: docs
-weight: 600
+weight: 620
 url: /ar/net/aspose.psd/rasterimage/writescanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.WriteScanLine method
 
-يكتب خط المسح بالكامل إلى فهرس خط المسح المحدد.
+يكتب السطر الكامل للمسح إلى الفهرس المحدد لسطر المسح.
 
 ```csharp
 public void WriteScanLine(int scanLineIndex, Color[] pixels)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| scanLineIndex | Int32 | فهرس خط المسح على أساس الصفر. |
-| pixels | Color[] | مصفوفة ألوان البكسل المراد كتابتها. |
+| scanLineIndex | Int32 | فهرس يبدأ من الصفر لخط المسح. |
+| بكسلات | Color[] | مصفوفة ألوان البكسل للكتابة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

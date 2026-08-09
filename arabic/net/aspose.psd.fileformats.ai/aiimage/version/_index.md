@@ -1,28 +1,29 @@
 ---
-title: AiImage.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. الحصول على إصدار تنسيق Adobe Illustrator
+title: "AiImage.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. تحصل على إصدار تنسيق Adobe Illustrator"
 type: docs
-weight: 110
+weight: 130
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/version/
 ---
+{{< psd/tize >}}
 ## AiImage.Version property
 
-الحصول على إصدار تنسيق Adobe Illustrator
+يحصل على إصدار تنسيق Adobe Illustrator.
 
 ```csharp
 public AiFormatVersion Version { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الإصدار .
+الإصدار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

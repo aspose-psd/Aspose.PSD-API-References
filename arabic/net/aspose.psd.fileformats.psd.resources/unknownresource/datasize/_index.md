@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.DataSize
-second_title: Aspose.PSD لمرجع .NET API
-description: UnknownResource ملكية. الحصول على حجم بيانات المورد بالبايت.
+title: "UnknownResource.DataSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnknownResource. يحصل على حجم بيانات المورد بالبايت"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/unknownresource/datasize/
 ---
+{{< psd/tize >}}
 ## UnknownResource.DataSize property
 
-الحصول على حجم بيانات المورد بالبايت.
+يحصل على حجم بيانات المورد بالبايت.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حجم بيانات المورد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnknownResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

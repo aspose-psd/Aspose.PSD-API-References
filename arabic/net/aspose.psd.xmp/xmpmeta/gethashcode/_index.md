@@ -1,14 +1,15 @@
 ---
-title: XmpMeta.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpMeta طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "XmpMeta.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpMeta. تُرجع قيمة تجزئة لهذا المثيل"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp/xmpmeta/gethashcode/
 ---
+{{< psd/tize >}}
 ## XmpMeta.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة لهذه المثيلة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذه المثيلة، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMeta](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpmeta/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

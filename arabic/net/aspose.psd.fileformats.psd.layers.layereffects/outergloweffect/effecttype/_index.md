@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.EffectType
-second_title: Aspose.PSD لمرجع .NET API
-description: OuterGlowEffect ملكية. يحصل على نوع من نوع التأثير
+title: "OuterGlowEffect.EffectType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "OuterGlowEffect property. يحصل على نوع من نوع التأثير"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.EffectType property
 
 يحصل على نوع من نوع التأثير
@@ -14,11 +15,11 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effe
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [OuterGlowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

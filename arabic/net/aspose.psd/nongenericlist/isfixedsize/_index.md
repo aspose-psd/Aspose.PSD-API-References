@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsFixedSize
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericList ملكية. يحصل على قيمة تشير إلى ما إذا كان ملفIList له حجم ثابت.
+title: "NonGenericList.IsFixedSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية NonGenericList. يحصل على قيمة تشير إلى ما إذا كان IList ذو حجم ثابت"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/nongenericlist/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsFixedSize property
 
-يحصل على قيمة تشير إلى ما إذا كان ملفIList له حجم ثابت.
+يحصل على قيمة تُشير إلى ما إذا كانت IList ذات حجم ثابت.
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericList](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericlist/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

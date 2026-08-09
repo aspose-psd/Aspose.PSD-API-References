@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Ycck
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. يحصل على ملفPixelDataFormat مُعرَّف لـ 32 بت لكل بكسل مع 8 بت لكل من مكونات الإضاءة  والفرق الأزرق  والفرق الأحمر  والصفاء الأسود.
+title: "PixelDataFormat.Ycck"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. يحصل على PixelDataFormat المحدد لـ 32 بت لكل بكسل مع 8 بت لكل من مكوّنات اللمعان، فرق اللون الأزرق، فرق اللون الأحمر، ومكوّنات الكرومة السوداء"
 type: docs
 weight: 170
 url: /ar/net/aspose.psd/pixeldataformat/ycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Ycck property
 
-يحصل على ملف[`PixelDataFormat`](../) مُعرَّف لـ 32 بت لكل بكسل مع 8 بت لكل من مكونات الإضاءة ، والفرق الأزرق ، والفرق الأحمر ، والصفاء الأسود.
+يحصل على [`PixelDataFormat`](../) المحدد لـ 32 بت لكل بكسل مع 8 بت لكل من مكوّنات اللمعان، فرق اللون الأزرق، فرق اللون الأحمر، ومكوّنات الكرومة السوداء.
 
 ```csharp
 public static PixelDataFormat Ycck { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`PixelDataFormat`](../) مُعرَّف لـ 32 بت لكل بكسل مع 8 بت لكل من مكونات الإضاءة ، والفرق الأزرق ، والفرق الأحمر ، والصفاء الأسود.
+الـ [`PixelDataFormat`](../) المحدد لـ 32 بت لكل بكسل مع 8 بت لكل من مكوّنات اللمعان، فرق اللون الأزرق، فرق اللون الأحمر، ومكوّنات الكرومة السوداء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

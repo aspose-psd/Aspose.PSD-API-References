@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetGenre
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يضبط النوع.
+title: "XmpDynamicMediaPackage.SetGenre"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. تعيين النوع"
 type: docs
 weight: 220
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgenre/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGenre method
 
 يضبط النوع.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgenre/
 public void SetGenre(string genre)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| genre | String | النوع. |
+| النوع | String | النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

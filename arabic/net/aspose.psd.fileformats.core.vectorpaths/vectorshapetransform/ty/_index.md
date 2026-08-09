@@ -1,26 +1,27 @@
 ---
-title: VectorShapeTransform.Ty
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeTransform ملكية. الحصول على أو تحديد قيمة TY .
+title: "VectorShapeTransform.Ty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeTransform. تحصل أو تعيّن قيمة TY"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/ty/
 ---
+{{< psd/tize >}}
 ## VectorShapeTransform.Ty property
 
-الحصول على أو تحديد قيمة TY .
+يحصل أو يضبط قيمة TY.
 
 ```csharp
 public double Ty { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة TY .
+قيمة TY.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي القدرة على تغيير حجم طبقات الشكل التي تحتوي على مسارات متجهة.
+الكود التالي يوضح القدرة على تغيير حجم طبقات الشكل التي تحتوي على مسارات متجهة.
 
 ```csharp
 [C#]
@@ -42,12 +43,12 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-يوضح هذا المثال كيفية الحصول على خصائص Transform و OriginBoxCorners الجديدة الخاصة بـ ShapeOriginSettings وتعيينها في مورد Vogk الخاص بـ FillLayer في ملف PSD.
+يوضح هذا المثال كيفية الحصول على وتعيين خصائص Transform و OriginBoxCorners الجديدة لـ ShapeOriginSettings في مورد Vogt الخاص بـ FillLayer في ملف PSD.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال كيفية الحصول على خصائص Transform و OriginBoxCorners الجديدة وتعيينها
+// يوضح هذا المثال كيفية الحصول على وتعيين خصائص Transform و OriginBoxCorners الجديدة
 // من ShapeOriginSettings في مورد Vogk الخاص بـ FillLayer في ملف PSD
 string sourceFileName = "vectorShape_25_50.psd";
 string outputPath = "result.psd";
@@ -55,16 +56,16 @@ string outputPath = "result.psd";
 VectorShapeOriginSettings originalSetting;
 const int layerIndex = 0;
 
-// قم بتحميل الصورة الأصلية
+// تحميل الصورة الأصلية
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     AssertIsTrue(layerIndex < image.Layers.Length);
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // تأكيد بعد القراءة
+    // التحقق بعد القراءة
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
     AssertAreEqual(false, setting.IsOriginRadiiRectanglePresent);
@@ -77,7 +78,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(true, setting.IsOriginResolutionPresent);
     AssertAreEqual(300d, setting.OriginResolution);
 
-    // تأكيد الخصائص الجديدة
+    // التحقق من الخصائص الجديدة
     AssertAreEqual(true, setting.IsTransformPresent);
     AssertAreEqual(0d, setting.Transform.Tx);
     AssertAreEqual(0d, setting.Transform.Ty);
@@ -95,7 +96,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(2.9000000000000004d, setting.OriginBoxCorners[6]);
     AssertAreEqual(22.400000000000002d, setting.OriginBoxCorners[7]);
 
-    // تعيين خصائص جديدة
+    // تعيين الخصائص الجديدة
     originalSetting = resource.ShapeOriginSettings[0];
     originalSetting.Transform.Tx = 0.2d;
     originalSetting.Transform.Ty = 0.3d;
@@ -105,19 +106,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     originalSetting.Transform.Yy = 0.7d;
     originalSetting.OriginBoxCorners = new double[8] { 9, 8, 7, 6, 5, 4, 3, 2 };
 
-    // احفظ صورة PSD هذه مع الخصائص المتغيرة.
+    // حفظ هذه الصورة بصيغة PSD مع الخصائص المعدلة.
     image.Save(outputPath, new PsdOptions(image));
 }
 
-// تحميل صورة PSD المحفوظة مع الخصائص المتغيرة.
+// تحميل الصورة المحفوظة بصيغة PSD مع الخصائص المعدلة.
 using (PsdImage image = (PsdImage)Image.Load(outputPath))
 {
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // تأكد من حفظ الخصائص وتحميلها بشكل صحيح 
+    // التحقق من أن الخصائص تم حفظها وتحميلها بشكل صحيح
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(true, setting.IsOriginIndexPresent);
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
@@ -144,7 +145,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputPath))
     AssertAreEqual(originalSetting.OriginBoxCorners[7], setting.OriginBoxCorners[7]);
 }
 
-VogkResource GetVogkResource(FillLayer layer)
+VogkResource GetVogkResource(Layer layer)
 {
     if (layer == null)
     {
@@ -187,10 +188,10 @@ void AssertAreEqual(object actual, object expected)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeTransform](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapetransform/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

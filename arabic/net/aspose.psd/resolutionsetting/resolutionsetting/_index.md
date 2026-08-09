@@ -1,44 +1,45 @@
 ---
-title: ResolutionSetting.ResolutionSetting
-second_title: Aspose.PSD لمرجع .NET API
-description: ResolutionSetting البناء. يقوم بتهيئة مثيل جديد لملفResolutionSetting فئة .
+title: "ResolutionSetting.ResolutionSetting"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ResolutionSetting. يهيئ مثالًا جديدًا من الفئة ResolutionSetting"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/resolutionsetting/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ResolutionSetting`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`ResolutionSetting`](../).
 
 ```csharp
 public ResolutionSetting()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResolutionSetting](../)
-* مساحة الاسم [Aspose.PSD](../../resolutionsetting/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResolutionSetting(double, double) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ResolutionSetting`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`ResolutionSetting`](../).
 
 ```csharp
 public ResolutionSetting(double horizontalResolution, double verticalResolution)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| horizontalResolution | Double | الدقة الأفقية . |
-| verticalResolution | Double | الدقة الرأسية . |
+| horizontalResolution | Double | الدقة الأفقية. |
+| verticalResolution | Double | الدقة العمودية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResolutionSetting](../)
-* مساحة الاسم [Aspose.PSD](../../resolutionsetting/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

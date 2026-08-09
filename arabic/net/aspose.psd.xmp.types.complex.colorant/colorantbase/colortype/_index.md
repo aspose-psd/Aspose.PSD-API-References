@@ -1,28 +1,29 @@
 ---
-title: ColorantBase.ColorType
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantBase ملكية. الحصول على أو تحديد نوع اللون.
+title: "ColorantBase.ColorType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorantBase. تحصل أو تعين نوع اللون"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/
 ---
+{{< psd/tize >}}
 ## ColorantBase.ColorType property
 
-الحصول على أو تحديد نوع اللون.
+يحصل أو يعيّن نوع اللون.
 
 ```csharp
 public ColorType ColorType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع اللون .
+نوع اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorType](../../colortype/)
 * class [ColorantBase](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

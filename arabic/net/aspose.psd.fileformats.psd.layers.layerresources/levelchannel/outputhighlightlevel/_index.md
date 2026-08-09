@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.OutputHighlightLevel
-second_title: Aspose.PSD لمرجع .NET API
-description: LevelChannel ملكية. الحصول على أو تحديد مستوى تمييز الإخراج.
+title: "LevelChannel.OutputHighlightLevel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LevelChannel. تحصل أو تعيّن مستوى تمييز الإخراج"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputHighlightLevel property
 
-الحصول على أو تحديد مستوى تمييز الإخراج.
+يحصل أو يضبط مستوى الإضاءة للمخرج.
 
 ```csharp
 public short OutputHighlightLevel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مستوى تمييز الإخراج .
+مستوى تمييز الإخراج.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يمكن تعيين مستوى تمييز الإخراج فقط في النطاق من "+ (this.OutputShadowLevel + 2) +" إلى 255 |
+| ArgumentOutOfRangeException | يمكن تعيين Output Highlight Level فقط في النطاق من " + (this.OutputShadowLevel + 2) + " إلى 255 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LevelChannel](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

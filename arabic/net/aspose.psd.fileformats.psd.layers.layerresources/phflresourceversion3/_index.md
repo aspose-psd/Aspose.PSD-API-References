@@ -1,57 +1,58 @@
 ---
-title: Class PhflResourceVersion3
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PhflResourceVersion3 فصل. فئة PhflResource. مورد طبقة ضبط التعريض الضوئي إصدار Layer 2  3 أو  2 12 4 بايت لكل لون XYZ فقط في الإصدار 3 مساحة لون 10 2 بايت متبوعة بمكون لون 4  2 بايت فقط في الإصدار 2 4 Density 1 الحفاظ على اللمعان
+title: "الفئة PhflResourceVersion3"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PhflResourceVersion3. الفئة PhflResource. مورد طبقة تعديل التعرض 2 الإصدار 3 أو 2 12 4 بايت لكل لون XYZ فقط في الإصدار 3 10 2 بايت مساحة اللون تليها 4 2 بايت مكوّن اللون فقط في الإصدار 2 4 الكثافة 1 الحفاظ على الإضاءة"
 type: docs
-weight: 2910
+weight: 3260
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3 class
 
-فئة PhflResource. مورد طبقة ضبط التعريض الضوئي إصدار Layer 2 (= 3) أو (= 2) 12 4 بايت لكل لون XYZ (فقط في الإصدار 3) مساحة لون 10 2 بايت متبوعة بمكون لون 4 * 2 بايت (فقط في الإصدار 2) 4 Density 1 الحفاظ على اللمعان
+الفئة PhflResource. مورد طبقة تعديل التعرض الإصدار 2 ( = 3 ) أو ( = 2 ) 12 4 بايت لكل لون XYZ (فقط في الإصدار 3) 10 2 بايت مساحة اللون تليها 4 * 2 بايت مكوّن اللون (فقط في الإصدار 2) 4 الكثافة 1 الحفاظ على الإضاءة
 
 ```csharp
 public class PhflResourceVersion3 : PhflResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PhflResourceVersion3](phflresourceversion3/#constructor)() | يقوم بتهيئة مثيل جديد لملف`PhflResourceVersion3` فئة . |
-| [PhflResourceVersion3](phflresourceversion3/#constructor_1)(byte[]) | يقوم بتهيئة مثيل جديد لملف`PhflResourceVersion3` فئة . |
+| [PhflResourceVersion3](phflresourceversion3/#constructor)() | ينشئ مثيلاً جديدًا للفئة `PhflResourceVersion3`. |
+| [PhflResourceVersion3](phflresourceversion3/#constructor_1)(byte[]) | ينشئ مثيلاً جديدًا للفئة `PhflResourceVersion3`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [ColorSpace](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorspace/) { get; } | يحصل على مساحة اللون. |
-| [ColorX](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorx/) { get; set; } | الحصول على اللون X أو تعيينه. |
-| [ColorY](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colory/) { get; set; } | الحصول على أو تعيين اللون Y. |
-| [ColorZ](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorz/) { get; set; } | الحصول على أو تعيين اللون Z. |
-| [Density](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/) { get; set; } | الحصول على الكثافة أو تحديدها . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [الحفاظ على اللمعان] . |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | يحصل على التوقيع. |
-| override [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/version/) { get; } | يحصل على الإصدار. الافتراضي هو 2 أو 3 |
+| [ColorX](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorx/) { get; set; } | يحصل أو يضبط اللون X. |
+| [ColorY](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colory/) { get; set; } | يحصل أو يضبط اللون Y. |
+| [ColorZ](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorz/) { get; set; } | يحصل أو يضبط اللون Z. |
+| [Density](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/) { get; set; } | يحصل أو يضبط الكثافة. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/) { get; set; } | الحصول أو تعيين قيمة تشير إلى ما إذا كان [preserve luminosity]. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
+| override [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/version/) { get; } | يحصل على الإصدار. الافتراضي هو 2 أو 3. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/getrgbcolor/)() | يحصل على اللون . |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
+| override [GetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/getrgbcolor/)() | يحصل على اللون. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
 | override [SetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/setrgbcolor/)(Color) | يضبط لون RGB. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [PhflResource](../phflresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

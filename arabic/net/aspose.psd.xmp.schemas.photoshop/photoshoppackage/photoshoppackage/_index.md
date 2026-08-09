@@ -1,23 +1,24 @@
 ---
-title: PhotoshopPackage.PhotoshopPackage
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage البناء. Default_Constructor
+title: "PhotoshopPackage.PhotoshopPackage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhotoshopPackage منشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/photoshoppackage/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public PhotoshopPackage()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GradientFillSettings.AddTransparencyPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientFillSettings طريقة. يضيف نقطة اللون .
+title: "GradientFillSettings.AddTransparencyPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة GradientFillSettings. يضيف نقطة اللون"
 type: docs
-weight: 160
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddTransparencyPoint method
 
-يضيف نقطة اللون .
+يضيف نقطة اللون.
 
 ```csharp
 public GradientTransparencyPoint AddTransparencyPoint()
@@ -18,11 +19,11 @@ public GradientTransparencyPoint AddTransparencyPoint()
 
 تم إنشاء نقطة الشفافية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientTransparencyPoint](../../gradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

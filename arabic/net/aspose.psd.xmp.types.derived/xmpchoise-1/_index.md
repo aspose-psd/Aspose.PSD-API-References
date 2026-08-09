@@ -1,11 +1,12 @@
 ---
-title: Class XmpChoiseT
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Derived.XmpChoise1T فصل. يمثل قيمة من مفردات القيم.
+title: "الفئة XmpChoiseT"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Types.Derived.XmpChoise1T. تمثّل قيمة من مفردات القيم"
 type: docs
-weight: 6150
+weight: 6650
 url: /ar/net/aspose.psd.xmp.types.derived/xmpchoise-1/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; class
 
 يمثل قيمة من مفردات القيم.
@@ -14,32 +15,32 @@ url: /ar/net/aspose.psd.xmp.types.derived/xmpchoise-1/
 public class XmpChoise<T> : XmpTypeBase
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | T | نوع العناصر. |
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpChoise](xmpchoise/)() | Default_Constructor |
+| [XmpChoise](xmpchoise/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise-1/isopen/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى إمكانية تمديد القيم المفضلة. |
+| [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise-1/isopen/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان يمكن توسيع القيم المفضلة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

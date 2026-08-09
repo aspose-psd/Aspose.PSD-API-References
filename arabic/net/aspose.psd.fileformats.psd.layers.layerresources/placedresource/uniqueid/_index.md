@@ -1,26 +1,27 @@
 ---
-title: PlacedResource.UniqueId
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تعيين المعرف الفريد العام للطبقة الموضوعة في صورة PSD.
+title: "PlacedResource.UniqueId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. تحصل أو تعين المعرف الفريد العالمي للطبقة الموضوعة في صورة PSD"
 type: docs
-weight: 180
+weight: 170
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## PlacedResource.UniqueId property
 
-الحصول على أو تعيين المعرف الفريد العام للطبقة الموضوعة في صورة PSD.
+يحصل أو يضبط المعرف الفريد العالمي للطبقة الموضوعة في صورة PSD.
 
 ```csharp
 public virtual Guid UniqueId { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرف الفريد للطبقة الموضوعة .
+المعرف الفريد للطبقة الموضوعة.
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد PlLdResource.
+الكود التالي يوضح دعم مورد PlLdResource.
 
 ```csharp
 [C#]
@@ -202,16 +203,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // كن حذرًا مع بعض المعلمات: قد تصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
-                ////resource.UOrder = 6 ;
-                ////resource.VOrder = 9 ;
+                // احذر من بعض المعلمات: قد يصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // لا تقم بتغيير هذا وإلا فلن تتمكن من استخدام التحويل المجاني
-                // أو قم بتغيير الكائن الذكي الذي تحته خط إلى نوع المتجه
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // لا تقم بتغيير هذا وإلا 
+ لن تتمكن من استخدام التحويل الحر.
+                // أو 
+ غيّر الكائن الذكي الأساسي إلى النوع المتجه.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // يجب أن يكون هناك PlLdResource صالحًا بهذا المعرف الفريد
-                ////resource.UniqueId = دليل جديد ("98765432-10fe-cba0-1234-56789abcdef0") ;
+                // يجب أن يكون هناك PlLdResource صالح بهذا المعرف الفريد.
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -223,12 +226,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-يوضح التعليمة البرمجية التالية دعم مورد SoLdResource.
+الكود التالي يوضح دعم مورد SoLdResource.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال كيفية الحصول على أو تعيين خصائص بيانات طبقة الكائن الذكية لملف PSD.
+// يوضح هذا المثال كيفية الحصول على خصائص بيانات طبقة الكائن الذكي أو تعيينها في ملف PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -462,8 +465,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضًا
-                // ويجب أن يكون بعضها متوافقًا مع الكائن الذكي الذي تحته خط في LinkDataSource
+                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضاً.
+                // ويجب أن تكون بعضها متوافقة مع الكائن الذكي الأساسي في LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,19 +511,21 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // يجب تغيير هذا المعرف الفريد في المراجع إن وجدت
+                // يجب تغيير هذا المعرف الفريد في المراجع إذا وجدت.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // كن حذرًا مع بعض المعلمات: قد تصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
-                ////resource.UOrder = 6 ;
-                ////resource.VOrder = 9 ;
+                // احذر من بعض المعلمات: قد يصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // لا تقم بتغيير هذا وإلا فلن تتمكن من استخدام التحويل المجاني
-                // أو قم بتغيير الكائن الذكي الذي تحته خط إلى نوع المتجه
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // لا تقم بتغيير هذا وإلا 
+ لن تتمكن من استخدام التحويل الحر.
+                // أو 
+ غيّر الكائن الذكي الأساسي إلى النوع المتجه.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // يجب أن يكون هناك PlLdResource صالحًا بهذا المعرف الفريد
-                ////resource.UniqueId = دليل جديد ("98765432-10fe-cba0-1234-56789abcdef0") ;
+                // يجب أن يكون هناك PlLdResource صالح بهذا المعرف الفريد.
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -532,10 +537,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

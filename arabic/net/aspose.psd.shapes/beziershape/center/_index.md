@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Center
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierShape ملكية. يحصل على مركز الشكل.
+title: "BezierShape.Center"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BezierShape. يحصل على مركز الشكل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.shapes/beziershape/center/
 ---
+{{< psd/tize >}}
 ## BezierShape.Center property
 
 يحصل على مركز الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.shapes/beziershape/center/
 public override PointF Center { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مركز الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../beziershape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

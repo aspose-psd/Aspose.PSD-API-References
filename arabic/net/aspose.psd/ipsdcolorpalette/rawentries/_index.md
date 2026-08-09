@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.RawEntries
-second_title: Aspose.PSD لمرجع .NET API
-description: IPsdColorPalette ملكية. الحصول على بيانات إدخالات لوحة الألوان الأولية.
+title: "IPsdColorPalette.RawEntries"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPsdColorPalette. تُحصل على بيانات مدخلات لوحة الألوان الخام"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/ipsdcolorpalette/rawentries/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.RawEntries property
 
-الحصول على بيانات إدخالات لوحة الألوان الأولية.
+يحصل على بيانات إدخالات لوحة الألوان الخام.
 
 ```csharp
 public byte[] RawEntries { get; }
 ```
 
-### Property_Value
+### Property Value
 
-لوحة الألوان الخام إدخالات البيانات.
+بيانات مدخلات لوحة الألوان الخام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../ipsdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

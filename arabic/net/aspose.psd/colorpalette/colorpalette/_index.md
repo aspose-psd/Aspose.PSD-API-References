@@ -1,91 +1,92 @@
 ---
-title: ColorPalette.ColorPalette
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorPalette البناء. يقوم بتهيئة مثيل جديد لملفColorPalette فئة .
+title: "ColorPalette.ColorPalette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ColorPalette. يهيئ نسخة جديدة من فئة ColorPalette"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/colorpalette/colorpalette/
 ---
+{{< psd/tize >}}
 ## ColorPalette(int[], bool) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorPalette`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ColorPalette`](../).
 
 ```csharp
 public ColorPalette(int[] argb32Entries, bool isCompactPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| argb32Entries | Int32[] | إدخالات لوحة ألوان ARGB 32 بت. |
-| isCompactPalette | Boolean | مبينا ما إذا كانت لوحة مضغوطة. |
+| argb32Entries | Int32[] | إدخالات لوحة ألوان ARGB 32-بت. |
+| isCompactPalette | Boolean | تشير إلى ما إذا كانت اللوحة مضغوطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(int[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorPalette`](../) class و IsCompactPalette خطأ .
+يهيئ نسخة جديدة من الفئة [`ColorPalette`](../) وتكون IsCompactPalette false.
 
 ```csharp
 public ColorPalette(int[] argb32Entries)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| argb32Entries | Int32[] | إدخالات لوحة ألوان ARGB 32 بت. |
+| argb32Entries | Int32[] | إدخالات لوحة ألوان ARGB 32-بت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(Color[], bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorPalette`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ColorPalette`](../).
 
 ```csharp
 public ColorPalette(Color[] entries, bool isCompactPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | entries | Color[] | إدخالات لوحة الألوان. |
-| isCompactPalette | Boolean | مبينا ما إذا كانت لوحة مضغوطة. |
+| isCompactPalette | Boolean | تشير إلى ما إذا كانت اللوحة مضغوطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(Color[]) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorPalette`](../) class و IsCompactPalette خطأ .
+يهيئ نسخة جديدة من الفئة [`ColorPalette`](../) وتكون IsCompactPalette false.
 
 ```csharp
 public ColorPalette(Color[] entries)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | entries | Color[] | إدخالات لوحة الألوان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

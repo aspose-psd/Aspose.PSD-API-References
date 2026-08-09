@@ -1,34 +1,35 @@
 ---
-title: XmpRightsManagementPackage.AddValue
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpRightsManagementPackage طريقة. يضيف خاصية السلسلة .
+title: "XmpRightsManagementPackage.AddValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpRightsManagementPackage. تضيف خاصية نصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.AddValue method
 
-يضيف خاصية السلسلة .
+يضيف خاصية نصية.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | تمثيل السلسلة للمفتاح الذي تم تحديده بالقيمة المضافة. |
-| value | String | قيمة السلسلة. |
+| المفتاح | String | التمثيل النصي للمفتاح الذي يتم التعرف عليه مع القيمة المضافة. |
+| قيمة | String | القيمة النصية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | key ؛ يجب توفير المفتاح لمساحة اسم إدارة حقوق XMP |
+| ArgumentNullException | key; يجب توفير المفتاح لمساحة اسم إدارة حقوق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpRightsManagementPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

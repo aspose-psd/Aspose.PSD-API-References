@@ -1,63 +1,73 @@
 ---
-title: Class GdFlResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource فصل. Class GdFlResource. يحتوي هذا المورد على معلومات حول مزج العنصر المقطوع.
+title: "الفئة GdFlResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource. الفئة GdFlResource. يحتوي هذا المورد على معلومات حول دمج العنصر المقصوص"
 type: docs
-weight: 2500
+weight: 2760
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
+{{< psd/tize >}}
 ## GdFlResource class
 
-Class GdFlResource. يحتوي هذا المورد على معلومات حول مزج العنصر المقطوع.
+الفئة GdFlResource. هذا المورد يحتوي على معلومات حول دمج العنصر المقصوص.
 
 ```csharp
 public class GdFlResource : FillLayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GdFlResource](gdflresource/)() | Default_Constructor |
+| [GdFlResource](gdflresource/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [محاذاة مع الطبقة] . |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/) { get; set; } | الحصول على الزاوية أو تحديدها . |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | يحصل على لون RGB . |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/) { get; set; } | يحصل على نقاط اللون . |
-| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`GdFlResource` هو ثبات . |
-| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | الحصول على أو تعيين فاصل التدرج . |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | الحصول على أو تحديد اسم التدرج اللوني . |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | الحصول على نوع التدرج اللوني أو تحديده. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/) { get; set; } | الحصول على أو تعيين الإزاحة الأفقية. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion/) { get; } | يحصل على الحد الأدنى من إصدار psd المطلوب لمورد الطبقة. 0 يشير إلى عدم وجود قيود. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`GdFlResource` عكس . |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | الحصول على المقياس أو تعيينه. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature/) { get; } | يحصل على توقيع مورد الطبقة. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/) { get; set; } | يحصل على نقاط الشفافية . |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/) { get; set; } | الحصول على أو تعيين الإزاحة الرأسية . |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [align with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/) { get; set; } | يحصل أو يعيّن الزاوية. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | يحصل على لون RGB. |
+| [ColorModel](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colormodel/) { get; set; } | نموذج اللون - RGB/HSB/LAB (\"RGBC\"/\"HSBl\"/\"LbCl\"). |
+| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/) { get; set; } | يحصل على نقاط اللون. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا `GdFlResource` متدرج نقطيًا. |
+| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | يحصل أو يعيّن فاصل التدرج. |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientmode/) { get; set; } | الوضع لهذا التدرج. يحدد 'نوع التدرج' = 'متصل/ضوضاء' = "CstS"/"ClNs". |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | يحصل أو يعيّن اسم التدرج. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | يحصل أو يعيّن نوع التدرج. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/) { get; set; } | يحصل أو يعيّن الإزاحة الأفقية. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/interpolationmethod/) { get; set; } | يحصل أو يضبط طريقة الاستيفاء للتدرج. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/maximumcolor/) { get; set; } | اللون الأقصى لتنسيق PixelDataFormat. |
+| [MinimumColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/minimumcolor/) { get; set; } | اللون الأدنى لتنسيق PixelDataFormat. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا `GdFlResource` عكسيًا. |
+| [RndNumberSeed](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/rndnumberseed/) { get; set; } | البذرة العشوائية المستخدمة لتوليد الألوان لتدرج الضوضاء. |
+| [Roughness](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/roughness/) { get; set; } | عامل الخشونة. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | يحصل أو يضبط المقياس. |
+| [ShowTransparency](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/showtransparency/) { get; set; } | علامة لإظهار الشفافية. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
+| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/) { get; set; } | يحصل على نقاط الشفافية. |
+| [UseVectorColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/usevectorcolor/) { get; set; } | علامة لاستخدام اللون المتجه. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/) { get; set; } | يحصل أو يعيّن الإزاحة العمودية. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم تحميل مورد GdFlResource.
+المثال التالي يوضح دعم تحميل موارد GdFlResource.
 
 ```csharp
 [C#]
@@ -114,7 +124,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // التحرير
+                    // تحرير
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -151,11 +161,11 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

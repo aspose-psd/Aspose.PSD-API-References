@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Name
-second_title: Aspose.PSD لمرجع .NET API
-description: AiRasterImageSection ملكية. يحصل على اسم الصورة النقطية.
+title: "AiRasterImageSection.Name"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiRasterImageSection. تحصل على اسم الصورة النقطية"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Name property
 
 يحصل على اسم الصورة النقطية.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 public string Name { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الصورة النقطية .
+اسم الصورة النقطية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiRasterImageSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

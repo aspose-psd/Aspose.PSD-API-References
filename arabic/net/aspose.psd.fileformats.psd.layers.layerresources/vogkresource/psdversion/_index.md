@@ -1,20 +1,21 @@
 ---
-title: VogkResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: VogkResource ملكية. يحصل على الحد الأدنى من إصدار psd المطلوب لمورد الطبقة. 0 يشير إلى عدم وجود قيود.
+title: "VogkResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VogkResource. يحصل على الحد الأدنى لإصدار psd المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VogkResource.PsdVersion property
 
-يحصل على الحد الأدنى من إصدار psd المطلوب لمورد الطبقة. 0 يشير إلى عدم وجود قيود.
+يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أمثلة
+## أمثلة
 
 يوضح المثال التالي دعم مورد VogkResource.
 
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // التحرير
+    // تحرير
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VogkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

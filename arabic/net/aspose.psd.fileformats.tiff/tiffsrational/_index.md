@@ -1,57 +1,58 @@
 ---
-title: Class TiffSRational
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Tiff.TiffSRational فصل. النوع العقلاني tiff .
+title: "الفئة TiffSRational"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Tiff.TiffSRational. نوع tiff rational"
 type: docs
-weight: 4240
+weight: 4710
 url: /ar/net/aspose.psd.fileformats.tiff/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational class
 
-النوع العقلاني tiff .
+نوع tiff النسبي.
 
 ```csharp
 public class TiffSRational
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TiffSRational](tiffsrational/#constructor)() | يقوم بتهيئة مثيل جديد لملف`TiffSRational` فئة . |
-| [TiffSRational](tiffsrational/#constructor_1)(int) | يقوم بتهيئة مثيل جديد لملف[`TiffRational`](../tiffrational/) فئة . |
-| [TiffSRational](tiffsrational/#constructor_2)(int, int) | يقوم بتهيئة مثيل جديد لملف`TiffSRational` فئة . |
+| [TiffSRational](tiffsrational/#constructor)() | يُنشئ مثيلاً جديدًا من الفئة `TiffSRational`. |
+| [TiffSRational](tiffsrational/#constructor_1)(int) | يُنشئ مثيلاً جديدًا من الفئة [`TiffRational`](../tiffrational/). |
+| [TiffSRational](tiffsrational/#constructor_2)(int, int) | يُنشئ مثيلاً جديدًا من الفئة `TiffSRational`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Denominator](../../aspose.psd.fileformats.tiff/tiffsrational/denominator/) { get; } | يحصل على المقام . |
-| [Nominator](../../aspose.psd.fileformats.tiff/tiffsrational/nominator/) { get; } | يحصل على المرشح . |
-| [Value](../../aspose.psd.fileformats.tiff/tiffsrational/value/) { get; } | الحصول على قيمة الطفو . |
-| [ValueD](../../aspose.psd.fileformats.tiff/tiffsrational/valued/) { get; } | يحصل على القيمة المزدوجة . |
+| [Denominator](../../aspose.psd.fileformats.tiff/tiffsrational/denominator/) { get; } | يحصل على المقام. |
+| [Nominator](../../aspose.psd.fileformats.tiff/tiffsrational/nominator/) { get; } | يحصل على البسط. |
+| [Value](../../aspose.psd.fileformats.tiff/tiffsrational/value/) { get; } | يحصل على القيمة العائمة. |
+| [ValueD](../../aspose.psd.fileformats.tiff/tiffsrational/valued/) { get; } | يحصل على القيمة المزدوجة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction)(double) | تقريب القيمة المقدمة إلى كسر . |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_2)(float) | تقريب القيمة المقدمة إلى كسر . |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_1)(double, double) | تقريب القيمة المقدمة إلى كسر . |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_3)(float, double) | تقريب القيمة المقدمة إلى كسر . |
-| override [Equals](../../aspose.psd.fileformats.tiff/tiffsrational/equals/)(object) | تحديد ما إذا كان الملف المحددObject يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffsrational/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
-| override [ToString](../../aspose.psd.fileformats.tiff/tiffsrational/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction)(double) | يقرب القيمة المقدمة إلى كسر. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_2)(float) | يقرب القيمة المقدمة إلى كسر. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_1)(double, double) | يقرب القيمة المقدمة إلى كسر. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_3)(float, double) | يقرب القيمة المقدمة إلى كسر. |
+| override [Equals](../../aspose.psd.fileformats.tiff/tiffsrational/equals/)(object) | يحدد ما إذا كان الكائن المحدد يساوي هذه المثيلة. |
+| override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffsrational/gethashcode/)() | يرجع رمز تجزئة لهذه المثيلة. |
+| override [ToString](../../aspose.psd.fileformats.tiff/tiffsrational/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon/) | الإبسيلون لحساب الكسر |
+| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon/) | الإبسيلون لحساب الكسر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

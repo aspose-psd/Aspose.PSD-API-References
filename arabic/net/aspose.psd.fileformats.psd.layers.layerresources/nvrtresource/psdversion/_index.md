@@ -1,23 +1,24 @@
 ---
-title: NvrtResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: NvrtResource ملكية. الحصول على إصدار PSD .
+title: "NvrtResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية NvrtResource. تحصل على نسخة PSD"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/
 ---
+{{< psd/tize >}}
 ## NvrtResource.PsdVersion property
 
-الحصول على إصدار PSD .
+يحصل على إصدار PSD.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NvrtResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

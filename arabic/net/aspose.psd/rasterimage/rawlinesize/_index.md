@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawLineSize
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage ملكية. الحصول على حجم الخط الخام بالبايت.
+title: "RasterImage.RawLineSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RasterImage. تحصل على حجم السطر الخام بالبايت"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/rasterimage/rawlinesize/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawLineSize property
 
-الحصول على حجم الخط الخام بالبايت.
+يحصل على حجم السطر الخام بالبايت.
 
 ```csharp
 public virtual int RawLineSize { get; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم الخط الخام بالبايت .
+حجم السطر الخام بالبايت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

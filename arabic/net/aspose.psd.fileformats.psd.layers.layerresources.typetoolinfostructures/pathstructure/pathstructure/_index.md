@@ -1,26 +1,27 @@
 ---
-title: PathStructure.PathStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: PathStructure البناء. يقوم بتهيئة مثيل جديد لملفPathStructure فئة .
+title: "PathStructure.PathStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PathStructure. يهيئ نسخة جديدة من الفئة PathStructure"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/pathstructure/
 ---
+{{< psd/tize >}}
 ## PathStructure constructor
 
-يقوم بتهيئة مثيل جديد لملف[`PathStructure`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PathStructure`](../).
 
 ```csharp
 public PathStructure(ClassID keyName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | keyName | ClassID | اسم المفتاح. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي القدرة على تحميل الملف ببنية PathStructure.
+الكود التالي يوضح القدرة على تحميل ملف باستخدام بنية PathStructure.
 
 ```csharp
 [C#]
@@ -34,11 +35,11 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PathStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

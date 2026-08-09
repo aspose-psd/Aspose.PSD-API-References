@@ -1,28 +1,29 @@
 ---
-title: StringFormat.SetTabStops
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat طريقة. تعيين علامات الجدولة لهذا الغرضStringFormat الكائن .
+title: "StringFormat.SetTabStops"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StringFormat. تعيين نقاط التبويب لهذا الكائن StringFormat."
 type: docs
-weight: 140
+weight: 170
 url: /ar/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-تعيين علامات الجدولة لهذا الغرض[`StringFormat`](../) الكائن .
+يعين نقاط التبويب لهذا الكائن [`StringFormat`](../).
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| firstTabOffset | Single | عدد المسافات بين بداية سطر النص وعلامة الجدولة الأولى. |
-| tabStops | Single[] | مصفوفة من المسافات بين علامات الجدولة في الوحدات المحددة بواسطة[`PageUnit`](../../graphics/pageunit/) ملكية. |
+| firstTabOffset | Single | عدد المسافات بين بداية سطر النص وأول نقطة تبويب. |
+| tabStops | Single[] | مصفوفة من المسافات بين نقاط التبويب بالوحدات المحددة بواسطة خاصية [`PageUnit`](../../graphics/pageunit/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

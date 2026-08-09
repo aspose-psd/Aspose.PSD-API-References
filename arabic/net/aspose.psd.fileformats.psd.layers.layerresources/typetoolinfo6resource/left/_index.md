@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Left
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على أو تحديد الموقع الأيسر .
+title: "TypeToolInfo6Resource.Left"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfo6Resource. تحصل أو تعيين الموقع الأيسر"
 type: docs
-weight: 80
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Left property
 
-الحصول على أو تحديد الموقع الأيسر .
+يحصل أو يضبط موقع اليسار.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموقع الأيسر .
+الموقع الأيسر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PhotoshopPackage.UrgencyMin
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage مجال. الحد الأدنى للقيمة الملحة .
+title: "PhotoshopPackage.UrgencyMin"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل PhotoshopPackage. قيمة الحد الأدنى للضرورة"
 type: docs
 weight: 220
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMin field
 
-الحد الأدنى للقيمة الملحة .
+القيمة الدنيا للإلحاح.
 
 ```csharp
 public const int UrgencyMin;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

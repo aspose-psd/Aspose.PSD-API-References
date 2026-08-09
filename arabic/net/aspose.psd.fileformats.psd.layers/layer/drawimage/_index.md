@@ -1,36 +1,37 @@
 ---
-title: Layer.DrawImage
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer طريقة. يرسم الصورة على الطبقة .
+title: "Layer.DrawImage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Layer. ترسم الصورة على الطبقة."
 type: docs
-weight: 340
+weight: 360
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/drawimage/
 ---
+{{< psd/tize >}}
 ## Layer.DrawImage method
 
-يرسم الصورة على الطبقة .
+يرسم الصورة على الطبقة.
 
 ```csharp
 public void DrawImage(Point location, RasterImage image)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| location | Point | الموقع. |
-| image | RasterImage | الصورة. |
+| الموقع | نقطة | الموقع. |
+| صورة | RasterImage | الصورة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | يجب أن يكون الموقع غير سالب |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | الموقع يجب أن يكون غير سالب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

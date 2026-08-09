@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.Points
-second_title: Aspose.PSD لمرجع .NET API
-description: PolygonShape ملكية. الحصول على نقاط المنحنى أو تعيينها .
+title: "PolygonShape.Points"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PolygonShape. يحصل أو يحدد نقاط المنحنى"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.shapes/polygonshape/points/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Points property
 
-الحصول على نقاط المنحنى أو تعيينها .
+يحصل أو يعيّن نقاط المنحنى.
 
 ```csharp
 public PointF[] Points { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 نقاط المنحنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../polygonshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

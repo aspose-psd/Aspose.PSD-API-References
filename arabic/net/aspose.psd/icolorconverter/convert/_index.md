@@ -1,14 +1,15 @@
 ---
-title: IColorConverter.Convert
-second_title: Aspose.PSD لمرجع .NET API
-description: IColorConverter طريقة. تحويل البيانات التي تم تمريرها إلى تنسيق الإخراج.
+title: "IColorConverter.Convert"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IColorConverter. تحول البيانات الممررة إلى صيغة الإخراج"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
-تحويل البيانات التي تم تمريرها إلى تنسيق الإخراج.
+يحوِّل البيانات الممرَّرة إلى صيغة الإخراج.
 
 ```csharp
 public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
@@ -16,27 +17,27 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
     int outputOffset)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | sourceFormat | PixelDataFormat | تنسيق المصدر. |
-| data | Byte[] | بيانات المصدر. |
-| offset | Int32 | الإزاحة بالبايت حيث يجب أن يبدأ نسخ البيانات. |
-| bitStart | Int32 | البداية. لاحظ أن هذه القيمة ليست قيمة محاذاة للبايت بدلاً من ذلك ، فهذه هي القيمة الفعلية حيث يجب أن يبدأ النسخ. |
+| البيانات | Byte[] | بيانات المصدر. |
+| offset | Int32 | الإزاحة بالبايتات حيث يجب أن يبدأ نسخ البيانات. |
+| bitStart | Int32 | بداية البت. ملاحظة أن هذه القيمة ليست قيمة محاذاة بالبايت بل هي البت الفعلي حيث يجب أن يبدأ النسخ. |
 | samplesCount | Int32 | عدد العينات. |
-| linesCount | Int32 | عدد الخطوط. |
+| linesCount | Int32 | عدد الأسطر. |
 | destFormat | PixelDataFormat | تنسيق الوجهة. |
 | outputData | Byte[] | بيانات الإخراج. |
 | outputOffset | Int32 | إزاحة الإخراج حيث يجب أن يبدأ نسخ البيانات. |
 
 ### قيمة الإرجاع
 
-عدد البايت المحول .
+عدد البايتات المحوّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* مساحة الاسم [Aspose.PSD](../../icolorconverter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

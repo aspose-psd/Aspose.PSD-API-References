@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSVersionID
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين معرف إصدار GPS.
+title: "ExifData.GPSVersionID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ExifData خاصية. يحصل أو يضبط معرف نسخة GPS"
 type: docs
 weight: 670
 url: /ar/net/aspose.psd.exif/exifdata/gpsversionid/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSVersionID property
 
-الحصول على أو تعيين معرف إصدار GPS.
+يحصل أو يعيّن معرف إصدار GPS.
 
 ```csharp
 public byte[] GPSVersionID { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف إصدار GPS .
+معرف نسخة GPS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

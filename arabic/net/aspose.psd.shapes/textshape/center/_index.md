@@ -1,11 +1,12 @@
 ---
-title: TextShape.Center
-second_title: Aspose.PSD لمرجع .NET API
-description: TextShape ملكية. يحصل على مركز الشكل.
+title: "TextShape.Center"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextShape. يحصل على مركز الشكل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.shapes/textshape/center/
 ---
+{{< psd/tize >}}
 ## TextShape.Center property
 
 يحصل على مركز الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.shapes/textshape/center/
 public override PointF Center { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مركز الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [TextShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../textshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

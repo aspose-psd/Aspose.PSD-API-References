@@ -1,27 +1,28 @@
 ---
-title: Blend.Factors
-second_title: Aspose.PSD لمرجع .NET API
-description: Blend ملكية. الحصول على مجموعة عوامل المزج للتدرج اللوني أو تعيينها.
+title: "Blend.Factors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Blend خاصية. يحصل أو يحدد مصفوفة عوامل الدمج للتدرج"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/blend/factors/
 ---
+{{< psd/tize >}}
 ## Blend.Factors property
 
-الحصول على مجموعة عوامل المزج للتدرج اللوني أو تعيينها.
+يحصل أو يعيّن مصفوفة عوامل المزج للتدرج.
 
 ```csharp
 public float[] Factors { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مصفوفة عوامل المزج التي تحدد النسب المئوية للون البداية ولون النهاية المراد استخدامه في الموضع المقابل.
+مصفوفة عوامل الدمج التي تحدد نسب اللون الابتدائي واللون النهائي لاستخدامها في الموضع المقابل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Blend](../)
-* مساحة الاسم [Aspose.PSD](../../blend/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

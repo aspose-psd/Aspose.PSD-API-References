@@ -1,14 +1,15 @@
 ---
-title: GradientFillSettings.GenerateLfx2ResourceNodes
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientFillSettings طريقة. يولد عقد مورد LFX2 .
+title: "GradientFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة GradientFillSettings. يولد عقد موارد LFX2"
 type: docs
-weight: 190
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.GenerateLfx2ResourceNodes method
 
-يولد عقد مورد LFX2 .
+ينشئ عقد موارد LFX2.
 
 ```csharp
 public static List<OSTypeStructure> GenerateLfx2ResourceNodes()
@@ -16,13 +17,13 @@ public static List<OSTypeStructure> GenerateLfx2ResourceNodes()
 
 ### قيمة الإرجاع
 
-تم إنشاء قائمة من[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+قائمة مُولَّدة من [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [GradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

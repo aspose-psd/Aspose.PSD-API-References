@@ -1,91 +1,92 @@
 ---
-title: Graphics.DrawRectangles
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يرسم سلسلة من المستطيلات المحددة بواسطةRectangleF الهياكل .
+title: "Graphics.DrawRectangles"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم سلسلة من المستطيلات المحددة بواسطة هياكل RectangleF"
 type: docs
-weight: 310
+weight: 320
 url: /ar/net/aspose.psd/graphics/drawrectangles/
 ---
+{{< psd/tize >}}
 ## DrawRectangles(Pen, RectangleF[]) {#drawrectangles}
 
-يرسم سلسلة من المستطيلات المحددة بواسطة[`RectangleF`](../../rectanglef/) الهياكل .
+يرسم سلسلة من المستطيلات المحددة بواسطة هياكل [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void DrawRectangles(Pen pen, RectangleF[] rects)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض ونمط حدود المستطيلات. |
-| rects | RectangleF[] | مصفوفة من[`RectangleF`](../../rectanglef/) الهياكل التي تمثل المستطيلات المراد رسمها. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط لحدود المستطيلات. |
+| rects | RectangleF[] | مصفوفة من هياكل [`RectangleF`](../../rectanglef/) التي تمثل المستطيلات المراد رسمها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *rects* باطل. |
+| ArgumentNullException | *pen* فارغ. -أو- *rects* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangles(Pen, Rectangle[]) {#drawrectangles_1}
 
-يرسم سلسلة من المستطيلات المحددة بواسطة[`Rectangle`](../../rectangle/) الهياكل .
+يرسم سلسلة من المستطيلات المحددة بواسطة هياكل [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void DrawRectangles(Pen pen, Rectangle[] rects)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض ونمط حدود المستطيلات. |
-| rects | Rectangle[] | مصفوفة من[`Rectangle`](../../rectangle/) الهياكل التي تمثل المستطيلات المراد رسمها. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط لحدود المستطيلات. |
+| rects | Rectangle[] | مصفوفة من هياكل [`Rectangle`](../../rectangle/) التي تمثل المستطيلات المراد رسمها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *rects* باطل. |
+| ArgumentNullException | *pen* فارغ. -أو- *rects* فارغ. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال إنشاء كائنات القلم واستخدامها. ينشئ المثال صورة جديدة ويرسم مستطيلات على سطح الصورة.
+هذا المثال يوضح إنشاء واستخدام كائنات Pen. المثال ينشئ صورة جديدة ويرسم مستطيلات على سطح الصورة.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل للصورة
+//إنشاء مثال من Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // إنشاء مثيل للرسومات وتهيئته باستخدام كائن صورة
+    //إنشاء مثيل من Graphics وتهيئته باستخدام كائن Image
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // مسح واجهة الرسومات باللون الأبيض
+    //مسح سطح Graphics باللون الأبيض
     graphics.Clear(Aspose.PSD.Color.White);
 
-    // قم بإنشاء مثيل من القلم باللون الأحمر والعرض 5
+    //إنشاء مثيل من Pen باللون الأحمر وعرض 5
     Aspose.PSD.Pen pen = new Pen(Aspose.PSD.Color.Red, 5);
 
-    // قم بإنشاء مثيل لـ HatchBrush وعيّن خصائصه
+    //إنشاء مثيل من HatchBrush وتعيين خصائصه
     Aspose.PSD.Brushes.HatchBrush brush = new Aspose.PSD.Brushes.HatchBrush();
     brush.BackgroundColor = Color.Wheat;
     brush.ForegroundColor = Color.Red;
 
-    // إنشاء مثيل من Pen
-    // قم بتهيئته باستخدام كائن وعرض HatchBrush
+    //إنشاء مثيل من Pen
+    //تهيئته باستخدام كائن HatchBrush والعرض
     Aspose.PSD.Pen brusedpen = new Pen(brush, 5);
 
-    // رسم مستطيلات عن طريق تحديد كائن القلم
+    //رسم مستطيلات عن طريق تحديد كائن Pen
     graphics.DrawRectangles(pen, new[] { new Rectangle(new Point(210, 210), new Size(100, 100)), new Rectangle(new Point(110, 110), new Size(100, 100)), new Rectangle(new Point(310, 310), new Size(100, 100)) });
 
-    // رسم مستطيلات عن طريق تحديد كائن القلم
+    //رسم مستطيلات عن طريق تحديد كائن Pen
     graphics.DrawRectangles(brusedpen, new[] { new Rectangle(new Point(310, 110), new Size(100, 100)), new Rectangle(new Point(110, 310), new Size(100, 100)) });
 
     // إنشاء خيارات التصدير وتهيئتها.
@@ -96,12 +97,12 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

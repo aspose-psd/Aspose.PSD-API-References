@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.Audio71
-second_title: Aspose.PSD لمرجع .NET API
-description: AudioChannelType ملكية. يحصل على القناة الصوتية 7.1 .
+title: "AudioChannelType.Audio71"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AudioChannelType. تسترجع قناة الصوت 7.1"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio71 property
 
-يحصل على القناة الصوتية 7.1 .
+يحصل على قناة الصوت 7.1.
 
 ```csharp
 public static AudioChannelType Audio71 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القناة الصوتية 7.1 .
+قناة الصوت 7.1.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioChannelType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

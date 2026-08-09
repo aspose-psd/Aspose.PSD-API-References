@@ -1,22 +1,23 @@
 ---
-title: Class FilterOptionsBase
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase فصل. قاعدة خيارات التصفية  فئة مجردة
+title: "الفئة FilterOptionsBase"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase. الفئة الأساسية المجردة لخيارات الفلتر"
 type: docs
-weight: 4690
+weight: 5160
 url: /ar/net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 ---
+{{< psd/tize >}}
 ## FilterOptionsBase class
 
-قاعدة خيارات التصفية ، فئة مجردة
+قاعدة خيارات الفلتر، فئة مجردة
 
 ```csharp
 public abstract class FilterOptionsBase
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

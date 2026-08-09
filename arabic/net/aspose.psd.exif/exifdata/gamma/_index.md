@@ -1,28 +1,29 @@
 ---
-title: ExifData.Gamma
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على جاما أو تعيينها .
+title: "ExifData.Gamma"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط قيمة الجاما"
 type: docs
 weight: 350
 url: /ar/net/aspose.psd.exif/exifdata/gamma/
 ---
+{{< psd/tize >}}
 ## ExifData.Gamma property
 
-الحصول على جاما أو تعيينها .
+يحصل أو يضبط قيمة الجاما.
 
 ```csharp
 public TiffRational Gamma { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة جاما .
+قيمة الجاما.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

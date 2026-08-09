@@ -1,27 +1,28 @@
 ---
-title: ChannelMixerLayer.Monochrome
-second_title: Aspose.PSD لمرجع .NET API
-description: ChannelMixerLayer ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذاChannelMixerLayer أحادي اللون.
+title: "ChannelMixerLayer.Monochrome"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ChannelMixerLayer. يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا ChannelMixerLayer أحادي اللون"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/monochrome/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.Monochrome property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا[`ChannelMixerLayer`](../) أحادي اللون.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا [`ChannelMixerLayer`](../) أحادي اللون.
 
 ```csharp
 public bool Monochrome { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان أحادي اللون خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان أحادي اللون؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ChannelMixerLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.ReadFloatArray
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. يقرأ مصفوفة من القيم العائمة من الدفق.
+title: "TiffStreamReader.ReadFloatArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. تقرأ مصفوفة من القيم العائمة من الدفق"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloatarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloatArray method
 
 يقرأ مصفوفة من القيم العائمة من الدفق.
@@ -14,25 +15,25 @@ url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readflo
 public float[] ReadFloatArray(long position, long count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف للقراءة منه. |
-| count | Int64 | عدد العناصر. |
+| الموضع | Int64 | الموضع للقراءة منه. |
+| العدد | Int64 | عدد العناصر. |
 
 ### قيمة الإرجاع
 
-مصفوفة القيم العائمة .
+المصفوفة من القيم العائمة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | العد ؛ توقع رقم موجب. |
+| ArgumentOutOfRangeException | count;متوقع رقم موجب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerBlendingRangesData.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerBlendingRangesData ملكية. الحصول على طول بيانات نطاقات مزج الطبقة بالبايت.
+title: "LayerBlendingRangesData.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerBlendingRangesData. يحصل على طول بيانات نطاقات دمج الطبقة بالبايت."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.Length property
 
-الحصول على طول بيانات نطاقات مزج الطبقة بالبايت.
+يحصل على طول بيانات نطاقات دمج الطبقة بالبايت.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Property_Value
+### Property Value
 
-طول بيانات نطاقات مزج الطبقة .
+طول بيانات نطاقات دمج الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerBlendingRangesData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: VibranceLayer.Vibrance
-second_title: Aspose.PSD لمرجع .NET API
-description: VibranceLayer ملكية. الحصول على الحيوية أو تحديدها .
+title: "VibranceLayer.Vibrance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VibranceLayer. تحصل أو تعيين قيمة الحيوية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/vibrance/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Vibrance property
 
-الحصول على الحيوية أو تحديدها .
+الحصول أو تعيين الإشراق.
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 الحيوية.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن تتراوح الحيوية بين -180 و +180 |
+| ArgumentOutOfRangeException | يجب أن تكون الحيوية في النطاق من -180 إلى +180 |
 
-### أمثلة
+## أمثلة
 
-يوضح مثال الكود التالي دعم طبقة VibranceLayer والقدرة على تحرير هذا الضبط.
+مثال الشيفرة التالي يوضح دعم طبقة VibranceLayer والقدرة على تعديل هذا الضبط.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // إنشاء طبقة Vibrance جديدة
+    // إنشاء VibranceLayer جديد
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -47,10 +48,10 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VibranceLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

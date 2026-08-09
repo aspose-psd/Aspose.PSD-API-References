@@ -1,28 +1,29 @@
 ---
-title: RawDataStructure.RawDataStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: RawDataStructure البناء. يقوم بتهيئة مثيل جديد لملفRawDataStructure فئة .
+title: "RawDataStructure.RawDataStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ RawDataStructure. يهيئ نسخة جديدة من الفئة RawDataStructure"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/rawdatastructure/
 ---
+{{< psd/tize >}}
 ## RawDataStructure constructor
 
-يقوم بتهيئة مثيل جديد لملف[`RawDataStructure`](../) فئة .
+يُنشئ نسخة جديدة من الفئة [`RawDataStructure`](../).
 
 ```csharp
 public RawDataStructure(ClassID keyName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | keyName | ClassID | اسم المفتاح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [RawDataStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

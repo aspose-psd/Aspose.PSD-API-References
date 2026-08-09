@@ -1,14 +1,15 @@
 ---
-title: Class Brush
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Brush فصل. فئة الفرشاة الأساسية .
+title: "فئة Brush"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.Brush. الفئة الأساسية للفرشاة"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/brush/
 ---
+{{< psd/tize >}}
 ## Brush class
 
-فئة الفرشاة الأساسية .
+فئة الفرشاة الأساسية.
 
 ```csharp
 public abstract class Brush : DisposableObject
@@ -16,22 +17,22 @@ public abstract class Brush : DisposableObject
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل قد تم التخلص منه. |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | الحصول على عتامة الفرشاة أو ضبطها. يجب أن تكون القيمة بين 0 و 1. تعني القيمة 0 أن الفرشاة مرئية بالكامل ، وتعني القيمة 1 أن الفرشاة غير شفافة تمامًا. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن قد تم التخلص منه. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | يحصل أو يضبط شفافية الفرشاة. يجب أن تكون القيمة بين 0 و 1. القيمة 0 تعني أن الفرشاة مرئية بالكامل، والقيمة 1 تعني أن الفرشاة معتمة بالكامل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | ينشئ استنساخًا عميقًا جديدًا للتيار`Brush` . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | التخلص من المثيل الحالي. |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | ينشئ نسخة عميقة جديدة من `Brush` الحالي. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | يتخلص من المثيل الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DisposableObject](../disposableobject/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

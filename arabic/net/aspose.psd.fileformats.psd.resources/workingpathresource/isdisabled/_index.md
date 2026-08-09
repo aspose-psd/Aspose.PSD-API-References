@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.IsDisabled
-second_title: Aspose.PSD لمرجع .NET API
-description: WorkingPathResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
+title: "WorkingPathResource.IsDisabled"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية WorkingPathResource. يحصل أو يحدد قيمة تشير إلى ما إذا كان هذا الكائن معطلاً"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsDisabled property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
 
 ```csharp
 public bool IsDisabled { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تعطيل هذه الحالة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن معطلاً؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WorkingPathResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

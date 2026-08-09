@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.MinimalVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceBlock ملكية. يحصل على الحد الأدنى من إصدار PSD المطلوب.
+title: "ResourceBlock.MinimalVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResourceBlock. تحصل على الحد الأدنى لإصدار PSD المطلوب"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd/resourceblock/minimalversion/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.MinimalVersion property
 
-يحصل على الحد الأدنى من إصدار PSD المطلوب.
+يحصل على الحد الأدنى لإصدار PSD المطلوب.
 
 ```csharp
 public abstract int MinimalVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأدنى من إصدار PSD.
+إصدار PSD الأدنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum AutoKerning
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.AutoKerning تعداد. وضع قرن الحروف التلقائي في Photoshop المسافة بين الرموز .
+title: "تعداد AutoKerning"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FileFormats.Psd.AutoKerning enum. وضع التباعد التلقائي للخط في Photoshop بين الرموز"
 type: docs
-weight: 1600
+weight: 1610
 url: /ar/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
-وضع قرن الحروف التلقائي في Photoshop (المسافة بين الرموز) .
+وضع التتبع التلقائي في فوتوشوب (المسافة بين الرموز).
 
 ```csharp
 public enum AutoKerning
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Manual | `0` | قيمة تقنين الأحرف اليدوية . |
-| Metric | `1` | تجانب الأحرف المتري يستخدم أزواج تقنين الأحرف ، والتي يتم تضمينها في معظم الخطوط (من مصمميها). |
-| Optical | `2` | تقنين الأحرف البصري يضبط التباعد بين الأحرف المتجاورة بناءً على أشكالها. |
+| Manual | `0` | قيمة التباعد اليدوي. |
+| Metric | `1` | تستخدم مسافات الحروف المتريّة أزواج الكيرن، والتي تُضمّن مع معظم الخطوط (من مصمميها). |
+| Optical | `2` | تقوم المسافات البصرية بضبط التباعد بين الأحرف المتجاورة بناءً على أشكالها. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم دعم خصائص ITextStyle الجديدة.
+الكود التالي يوضح دعم خصائص ITextStyle الجديدة.
 
 ```csharp
 [C#]
@@ -76,9 +77,9 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

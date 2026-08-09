@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Crop
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. قص الصورة.
+title: "PsdImage.Crop"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. قص الصورة"
 type: docs
-weight: 510
+weight: 570
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
+{{< psd/tize >}}
 ## PsdImage.Crop method
 
 قص الصورة.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.fileformats.psd/psdimage/crop/
 public override void Crop(Rectangle rectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل. |
+| مستطيل | Rectangle | المستطيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

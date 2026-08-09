@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Predictor
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين المتنبئ لضغط LZW .
+title: "TiffOptions.Predictor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين المتنبئ لضغط LZW"
 type: docs
-weight: 340
+weight: 350
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/predictor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Predictor property
 
-الحصول على أو تعيين المتنبئ لضغط LZW .
+يحصل أو يعيّن المتنبئ لضغط LZW.
 
 ```csharp
 public TiffPredictor Predictor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع المتنبئ .
+نوع المتنبئ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffPredictor](../../../aspose.psd.fileformats.tiff.enums/tiffpredictor/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

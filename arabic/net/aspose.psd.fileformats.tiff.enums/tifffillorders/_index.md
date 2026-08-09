@@ -1,29 +1,30 @@
 ---
-title: Enum TiffFillOrders
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFillOrders تعداد. ترتيب البيانات داخل بايت. القيم المحتملة لعلامة FILLORDER .
+title: "تعداد TiffFillOrders"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFillOrders enum. ترتيب البيانات داخل بايت. القيم المحتملة لعلامة FILLORDER"
 type: docs
-weight: 4090
+weight: 4560
 url: /ar/net/aspose.psd.fileformats.tiff.enums/tifffillorders/
 ---
+{{< psd/tize >}}
 ## TiffFillOrders enumeration
 
-ترتيب البيانات داخل بايت. القيم المحتملة لعلامة FILLORDER .
+ترتيب البيانات داخل البايت. القيم المحتملة للوسم FILLORDER.
 
 ```csharp
 public enum TiffFillOrders : ushort
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Msb2Lsb | `1` | الأكثر أهمية -&gt; الأقل . |
-| Lsb2Msb | `2` | الأقل أهمية -&gt; الأكثر . |
+| Msb2Lsb | `1` | الأكثر أهمية -&gt; الأقل. |
+| Lsb2Msb | `2` | الأقل أهمية -&gt; الأكثر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

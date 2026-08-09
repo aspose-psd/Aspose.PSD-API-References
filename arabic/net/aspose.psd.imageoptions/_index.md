@@ -1,40 +1,41 @@
 ---
-title: Aspose.PSD.ImageOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات مناسبة لتصدير أو حفظ أو إنشاء تنسيقات ملفات مختلفة.
+title: "Aspose.PSD.ImageOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على فئات مناسبة للتصدير أو الحفظ أو إنشاء صيغ ملفات مختلفة"
 type: docs
-weight: 430
+weight: 470
 url: /ar/net/aspose.psd.imageoptions/
 ---
-تحتوي مساحة الاسم على فئات مناسبة لتصدير أو حفظ أو إنشاء تنسيقات ملفات مختلفة.
+{{< psd/tize >}}
+تحتوي مساحة الاسم على فئات مناسبة للتصدير أو الحفظ أو إنشاء تنسيقات ملفات مختلفة.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [BmpOptions](./bmpoptions/) | خيارات إنشاء تنسيق ملف bmp . |
-| [CmxRasterizationOptions](./cmxrasterizationoptions/) | خيارات مصدر CMX . |
-| [GifOptions](./gifoptions/) | خيارات إنشاء تنسيق ملف gif . |
-| [GraphicsOptions](./graphicsoptions/) | يمثل خيارات الرسومات للصورة النقطية المضمنة. |
-| [Jpeg2000Options](./jpeg2000options/) | خيارات تنسيق ملف Jpeg2000 |
-| [JpegOptions](./jpegoptions/) | خيارات إنشاء تنسيق ملف jpeg . |
-| [MultiPageOptions](./multipageoptions/) | الصنف الأساسي للعديد من الصفحات المدعومة بالصيغ |
-| [PdfOptions](./pdfoptions/) | خيارات PDF . |
-| [PngOptions](./pngoptions/) | خيارات إنشاء تنسيق ملف png . |
-| [PsdOptions](./psdoptions/) | خيارات إنشاء تنسيق ملف psd . |
-| [RdOptimizerSettings](./rdoptimizersettings/) | فئة إعدادات محسن RD |
-| [RenderResult](./renderresult/) | يمثل المعلومات بنتائج التقديم |
-| [TiffOptions](./tiffoptions/) | خيارات تنسيق ملف tiff . لاحظ أنه سيتم الكتابة فوق علامات العرض والارتفاع عند إنشاء الصورة بواسطة معلمات العرض والارتفاع ، لذلك ليست هناك حاجة لتحديدها مباشرة. لاحظ أن العديد من الخيارات ترجع قيمة افتراضية ولكن هذا لا يعني ذلك يتم تعيين هذا الخيار بشكل صريح كقيمة علامة. للتحقق من وجود العلامة ، استخدم خاصية العلامات أو طريقة IsTagPresent المقابلة. |
-| [TiffOptionsUtils](./tiffoptionsutils/) | فئة الأداة المساعدة لخيارات تنسيق ملف tiff . |
-| [VectorRasterizationOptions](./vectorrasterizationoptions/) | خيارات التحويل النقطي للمتجه . |
+| [BmpOptions](./bmpoptions/) | خيارات إنشاء صيغة ملف BMP. |
+| [CmxRasterizationOptions](./cmxrasterizationoptions/) | خيارات مُصدّر CMX. |
+| [GifOptions](./gifoptions/) | خيارات إنشاء صيغة ملف GIF. |
+| [GraphicsOptions](./graphicsoptions/) | يمثل خيارات الرسومات للبت ماب المدمج. |
+| [Jpeg2000Options](./jpeg2000options/) | خيارات تنسيق ملف Jpeg2000. |
+| [JpegOptions](./jpegoptions/) | خيارات إنشاء تنسيق ملف jpeg. |
+| [MultiPageOptions](./multipageoptions/) | الفئة الأساسية للتنسيقات التي تدعم صفحات متعددة |
+| [PdfOptions](./pdfoptions/) | خيارات PDF. |
+| [PngOptions](./pngoptions/) | خيارات إنشاء تنسيق ملف png. |
+| [PsdOptions](./psdoptions/) | خيارات إنشاء تنسيق ملف psd. |
+| [RdOptimizerSettings](./rdoptimizersettings/) | فئة إعدادات مُحسّن RD |
+| [RenderResult](./renderresult/) | يمثل معلومات مع نتائج التصيير |
+| [TiffOptions](./tiffoptions/) | خيارات تنسيق ملف tiff. لاحظ أن وسوم العرض والارتفاع سيتم استبدالها عند إنشاء الصورة بواسطة معلمات العرض والارتفاع لذا لا حاجة لتحديدها مباشرة. لاحظ أن العديد من الخيارات تُعيد قيمة افتراضية لكن هذا لا يعني أن هذا الخيار تم تعيينه صراحةً كقيمة للوسم. للتحقق من وجود الوسم استخدم خاصية Tags أو الطريقة المقابلة IsTagPresent. |
+| [TiffOptionsUtils](./tiffoptionsutils/) | فئة أداة خيارات تنسيق ملف tiff. |
+| [VectorRasterizationOptions](./vectorrasterizationoptions/) | خيارات تمثيل المتجهات النقطية. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
 | [MultiPageMode](./multipagemode/) | يمثل وضع متعدد الصفحات |
-| [PositioningTypes](./positioningtypes/) | أنواع المواضع والحجم لمشهد الرسومات. |
-| [RenderErrorCode](./rendererrorcode/) | يمثل الأقسام المفقودة المحتملة في ملف CAD |
-| [TiffOptionsError](./tiffoptionserror/) | رموز خطأ خيارات tiff . |
-| [TypeOfEntities](./typeofentities/) | يمثل أنواع الكيانات المطلوب تصييرها |
+| [PositioningTypes](./positioningtypes/) | أنواع التموضع والحجم لمشهد الرسومات. |
+| [RenderErrorCode](./rendererrorcode/) | يمثل الأقسام المحتملة المفقودة في ملف CAD. |
+| [TiffOptionsError](./tiffoptionserror/) | رموز خطأ خيارات tiff. |
+| [TypeOfEntities](./typeofentities/) | يمثل أنواع الكيانات للتصيير. |
 
 

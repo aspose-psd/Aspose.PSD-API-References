@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.Artist
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على الفنان أو تعيينه .
+title: "TiffOptions.Artist"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين الفنان"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/artist/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Artist property
 
-الحصول على الفنان أو تعيينه .
+يحصل أو يضبط الفنان.
 
 ```csharp
 public string Artist { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الفنان .
+الفنان.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

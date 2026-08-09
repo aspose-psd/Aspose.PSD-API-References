@@ -1,28 +1,29 @@
 ---
-title: GradientOverlayEffect.BlendMode
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientOverlayEffect ملكية. الحصول على أو تحديد وضع المزج .
+title: "GradientOverlayEffect.BlendMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GradientOverlayEffect. يحصل على أو يضبط وضع الدمج"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.BlendMode property
 
-الحصول على أو تحديد وضع المزج .
+يحصل أو يضبط وضع المزج.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وضع المزج .
+وضع الدمج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [GradientOverlayEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

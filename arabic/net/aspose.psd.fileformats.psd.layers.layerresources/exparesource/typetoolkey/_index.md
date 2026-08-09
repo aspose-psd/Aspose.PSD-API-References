@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: ExpaResource مجال. مفتاح معلومات أداة النوع.
+title: "ExpaResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ExpaResource حقل. مفتاح معلومات أداة النوع"
 type: docs
-weight: 90
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ExpaResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExpaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

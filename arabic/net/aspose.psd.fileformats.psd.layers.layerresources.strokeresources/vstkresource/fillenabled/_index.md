@@ -1,23 +1,24 @@
 ---
-title: VstkResource.FillEnabled
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على أو تعيين قيمة تشير إلى تمكين تعبئة الحد .
+title: "VstkResource.FillEnabled"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعيين قيمة تشير إلى ما إذا كان تعبئة الحد مفعلة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.FillEnabled property
 
-الحصول على أو تعيين قيمة تشير إلى تمكين تعبئة الحد .
+يحصل أو يضبط قيمة تشير إلى ما إذا كان تعبئة الضربة مفعلة.
 
 ```csharp
 public bool FillEnabled { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

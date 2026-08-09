@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Text
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على API لمعالجة بيانات طبقات النص data
+title: "Aspose.PSD.FileFormats.Psd.Layers.Text"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على واجهة برمجة تطبيقات للتعامل مع بيانات طبقات النص."
 type: docs
-weight: 340
+weight: 360
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/
 ---
-تحتوي مساحة الاسم على API لمعالجة بيانات طبقات النص 'data
+{{< psd/tize >}}
+تحتوي مساحة الاسم على واجهة برمجة تطبيقات للتعامل مع بيانات طبقات النص
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [TextFontInfo](./textfontinfo/) | يمثل المعلومات المتعلقة بالخط. لا يمكن توريث هذه الفئة. |
-## واجهات
+| [TextFontInfo](./textfontinfo/) | يمثل المعلومات حول الخط. لا يمكن وراثة هذه الفئة. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| الواجهة | الوصف |
 | --- | --- |
 | [IText](./itext/) | واجهة لتحرير النص لطبقات النص |
-| [ITextParagraph](./itextparagraph/) | واجهة العمل مع الفقرة |
-| [ITextPortion](./itextportion/) | واجهة لمعالجة أجزاء النص |
+| [ITextParagraph](./itextparagraph/) | الواجهة للعمل مع الفقرة |
+| [ITextPortion](./itextportion/) | واجهة للتعامل مع أجزاء النص |
 | [ITextStyle](./itextstyle/) | واجهة للعمل مع نمط النص |
 
 

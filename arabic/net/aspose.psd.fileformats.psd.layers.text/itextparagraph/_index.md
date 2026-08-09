@@ -1,14 +1,15 @@
 ---
-title: Interface ITextParagraph
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph واجهه المستخدم. واجهة العمل مع الفقرة
+title: "الواجهة ITextParagraph"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph. الواجهة للعمل مع الفقرة"
 type: docs
-weight: 3520
+weight: 3940
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
+{{< psd/tize >}}
 ## ITextParagraph interface
 
-واجهة العمل مع الفقرة
+الواجهة للعمل مع الفقرة
 
 ```csharp
 public interface ITextParagraph
@@ -16,40 +17,40 @@ public interface ITextParagraph
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كانت [واصلة تلقائية] . |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | الحصول على المسافة البادئة التلقائية أو تعيينها. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`ITextParagraph`هو بوراساجيري. |
-| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | الحصول على أو تعيين واصلات متتالية. |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | الحصول على المسافة البادئة للنهاية أو تعيينها . |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [كل سطر مؤلف] . |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | الحصول على المسافة البادئة للسطر الأول أو تعيينها . |
-| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | الحصول على تباعد الصورة الرمزية أو تعيينه. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`ITextParagraph` معلق . |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | الحصول على حجم الكلمة الموصولة أو تعيينها. |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | الحصول على التبرير أو تعيينه . |
-| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | الحصول على أو تعيين ترتيب kinsoku . |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | الحصول على أو تحديد نوع المسافة البادئة . |
-| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | الحصول على تباعد الأحرف أو تعيينه. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | الحصول على واصلة المنشور أو تعيينها. |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | الحصول على الواصلة المسبقة أو تعيينها . |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | الحصول على المسافة أو تحديدها بعد . |
-| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | الحصول على المسافة أو تحديدها من قبل . |
-| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | الحصول على المسافة البادئة للبداية أو تعيينها . |
-| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | الحصول على تباعد الكلمات أو تحديده . |
-| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | الحصول على المنطقة أو تحديدها. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [automatic hyphenate]. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | يحصل أو يضبط التباعد التلقائي. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا `ITextParagraph` هو burasagiri. |
+| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | يحصل أو يضبط الشرطات المتتالية. |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | يحصل أو يضبط المسافة البادئة النهائية. |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [every line composer]. |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | يحصل أو يضبط مسافة البادئة للسطر الأول. |
+| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | يحصل أو يضبط تباعد الرموز. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا `ITextParagraph` معلقًا. |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | يحصل أو يضبط حجم الكلمة المقطوعة بشرطة. |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | يحصل أو يضبط المحاذاة. |
+| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | يحصل أو يضبط ترتيب kinsoku. |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | يحصل أو يضبط نوع الخط الرأسي. |
+| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | يحصل أو يضبط تباعد الحروف. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | يحصل أو يضبط الفاصل بعد الواصلة. |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | يحصل أو يضبط الفاصل قبل الواصلة. |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | يحصل أو يضبط المسافة بعد. |
+| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | يحصل أو يضبط المسافة قبل. |
+| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | يحصل أو يضبط المسافة البادئة في البداية. |
+| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | يحصل أو يضبط تباعد الكلمات. |
+| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | يحصل أو يضبط المنطقة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | تنطبق الفقرة المحددة . |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | لتحديد ما إذا كانت الفقرة المحددة متساوية. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | يطبق الفقرة المحددة. |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | يحدد ما إذا كانت الفقرة المحددة متساوية. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي أن محاذاة النص من خلال ITextPortion للغات التي تُكتب من اليمين إلى اليسار تعمل بشكل صحيح.
+المثال التالي يوضح أن محاذاة النص عبر ITextPortion للغات من اليمين إلى اليسار تعمل بشكل صحيح.
 
 ```csharp
 [C#]
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-يوضح مثال الكود التالي تحرير أجزاء النص ونمط نصها.
+يوضح المثال البرمجي التالي تحرير أجزاء النص وأساليبها.
 
 ```csharp
 [C#]
@@ -92,7 +93,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // فحص النص من كل جزء
+            // التحقق من نص كل جزء
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -102,7 +103,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات الفقرات
-            // الفقرات لها مبررات مختلفة
+            // الفقرات لها محاذاة مختلفة
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -136,7 +137,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -152,7 +153,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات النمط
-            // الأنماط لها ألوان مختلفة وحجم الخط
+            // الأنماط لها ألوان مختلفة وحجم خط مختلف
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -192,7 +193,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // مثال على إضافة جزء نصي جديد
+            // مثال على إضافة جزء نص جديد
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -200,17 +201,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // مثال على تحرير الفقرة والنمط للأجزاء
-            // ضبط التبرير الصحيح
+            // ضبط المحاذاة إلى اليمين
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // ألوان مختلفة لكل نمط. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // ألوان مختلفة لكل نمط. سيتم تغييرها، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // خط مختلف. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // خط مختلف. سيتم تغييره، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -225,9 +226,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

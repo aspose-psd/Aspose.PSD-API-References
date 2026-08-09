@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.ThumbnailArgb32Data
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على أو تعيين بيانات ARGB المصغرة 32 بت.
+title: "ThumbnailResource.ThumbnailArgb32Data"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. يحصل أو يضبط بيانات الصورة المصغرة ARGB 32 بت"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailArgb32Data property
 
-الحصول على أو تعيين بيانات ARGB المصغرة 32 بت.
+يحصل أو يضبط بيانات الصورة المصغرة ARGB 32-بت.
 
 ```csharp
 public int[] ThumbnailArgb32Data { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات الصورة المصغرة 32 بت ARGB.
+بيانات الصورة المصغرة ARGB 32 بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

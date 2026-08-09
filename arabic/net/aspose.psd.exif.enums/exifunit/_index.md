@@ -1,30 +1,31 @@
 ---
-title: Enum ExifUnit
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifUnit تعداد. تعداد وحدة exif .
+title: "عدد ExifUnit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifUnit عدد. exif وحدة عدد"
 type: docs
-weight: 960
+weight: 970
 url: /ar/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
-تعداد وحدة exif .
+exif تعداد الوحدة.
 
 ```csharp
 public enum ExifUnit
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `1` | وحدات غير محددة |
+| None | `1` | وحدات غير معرفة |
 | Inch | `2` | وحدات بوصة |
 | Cm | `3` | وحدات السنتيمتر المتري |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

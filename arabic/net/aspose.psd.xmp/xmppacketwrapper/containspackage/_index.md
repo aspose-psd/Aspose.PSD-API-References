@@ -1,31 +1,32 @@
 ---
-title: XmpPacketWrapper.ContainsPackage
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPacketWrapper طريقة. تحديد ما إذا كانت الحزمة موجودة في مغلّف xmp.
+title: "XmpPacketWrapper.ContainsPackage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPacketWrapper. تحدد ما إذا كانت الحزمة موجودة في مغلف XMP."
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.xmp/xmppacketwrapper/containspackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ContainsPackage method
 
-تحديد ما إذا كانت الحزمة موجودة في مغلّف xmp.
+يحدد ما إذا كانت الحزمة موجودة في xmp wrapper.
 
 ```csharp
 public bool ContainsPackage(string namespaceUri)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| namespaceUri | String | مخطط الحزمة uri. |
+| namespaceUri | String | مسار مخطط الحزمة uri. |
 
 ### قيمة الإرجاع
 
-يعود صحيحًا إذا كانت الحزمة ذات مساحة الاسم المحددة Uri موجودة في مجمّع XMP.
+يرجع true إذا كانت الحزمة ذات مساحة الاسم المحددة Uri موجودة في غلاف XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPacketWrapper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

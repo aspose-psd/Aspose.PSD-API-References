@@ -1,27 +1,28 @@
 ---
-title: Font.Strikeout
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. يحصل على قيمة تشير إلى ما إذا كان هذاFont يحدد خطًا أفقيًا من خلال الخط.
+title: "Font.Strikeout"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. يحصل على قيمة تشير إلى ما إذا كان هذا الخط يحتوي على خط أفقي عبره."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/font/strikeout/
 ---
+{{< psd/tize >}}
 ## Font.Strikeout property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا[`Font`](../) يحدد خطًا أفقيًا من خلال الخط.
+يحصل على قيمة تشير إلى ما إذا كان هذا [`Font`](../) يحتوي على خط أفقي عبره.
 
 ```csharp
 public bool Strikeout { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إذا كان هذا صحيحًا[`Font`](../) لديه خط أفقي من خلاله ؛ خلاف ذلك ، خطأ.
+صحيح إذا كان هذا [`Font`](../) يحتوي على خط أفقي عبره؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

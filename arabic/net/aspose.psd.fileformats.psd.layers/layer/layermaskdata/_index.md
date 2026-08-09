@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerMaskData
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تعيين بيانات قناع الطبقة.
+title: "Layer.LayerMaskData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل أو يضبط بيانات قناع الطبقة"
 type: docs
-weight: 220
+weight: 230
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerMaskData property
 
-الحصول على أو تعيين بيانات قناع الطبقة.
+يحصل أو يضبط بيانات قناع الطبقة.
 
 ```csharp
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات قناع الطبقة .
+بيانات قناع الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

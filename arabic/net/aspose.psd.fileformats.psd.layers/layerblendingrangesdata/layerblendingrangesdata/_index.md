@@ -1,23 +1,24 @@
 ---
-title: LayerBlendingRangesData.LayerBlendingRangesData
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerBlendingRangesData البناء. Default_Constructor
+title: "LayerBlendingRangesData.LayerBlendingRangesData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LayerBlendingRangesData. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public LayerBlendingRangesData()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerBlendingRangesData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

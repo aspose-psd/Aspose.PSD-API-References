@@ -1,11 +1,12 @@
 ---
-title: AsyncTaskProgress.Duration
-second_title: Aspose.PSD لمرجع .NET API
-description: AsyncTaskProgress مجال. مدة المهمة غير المتزامنة.
+title: "AsyncTaskProgress.Duration"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل AsyncTaskProgress. مدة المهمة غير المتزامنة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.asynctask/asynctaskprogress/duration/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.Duration field
 
 مدة المهمة غير المتزامنة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.asynctask/asynctaskprogress/duration/
 public readonly TimeSpan Duration;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AsyncTaskProgress](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

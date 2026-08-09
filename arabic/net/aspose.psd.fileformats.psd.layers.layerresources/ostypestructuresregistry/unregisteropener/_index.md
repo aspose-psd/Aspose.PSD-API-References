@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructuresRegistry.UnregisterOpener
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructuresRegistry طريقة. إلغاء تسجيل الفتاحة.
+title: "OSTypeStructuresRegistry.UnregisterOpener"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة OSTypeStructuresRegistry. تُلغي تسجيل الفاتح"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.UnregisterOpener method
 
-إلغاء تسجيل الفتاحة.
+يلغي تسجيل المفتاح.
 
 ```csharp
 public static void UnregisterOpener(IOSTypeStructureLoader openerDescriptor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | واصف الافتتاح لإلغاء التسجيل. |
+| openerDescriptor | IOSTypeStructureLoader | وصف المفتاح لإلغاء التسجيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

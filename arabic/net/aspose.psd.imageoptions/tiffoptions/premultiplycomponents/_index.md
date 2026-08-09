@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.PremultiplyComponents
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان يجب مضاعفة المكونات مسبقًا.
+title: "TiffOptions.PremultiplyComponents"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. يحصل أو يضبط قيمة تشير إلى ما إذا يجب ضرب المكونات مسبقًا"
 type: docs
-weight: 350
+weight: 360
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PremultiplyComponents property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان يجب مضاعفة المكونات مسبقًا.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب ضرب المكوّنات مسبقًا.
 
 ```csharp
 public bool PremultiplyComponents { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان لابد من مضاعفة المكونات مسبقًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا يجب ضرب المكونات مسبقًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

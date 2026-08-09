@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.FillType
-second_title: Aspose.PSD لمرجع .NET API
-description: PatternFillSettings ملكية. نوع التعبئة
+title: "PatternFillSettings.FillType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PatternFillSettings property. نوع التعبئة"
 type: docs
-weight: 30
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.FillType property
 
 نوع التعبئة
@@ -14,11 +15,11 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public override FillType FillType { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FillType](../../filltype/)
 * class [PatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

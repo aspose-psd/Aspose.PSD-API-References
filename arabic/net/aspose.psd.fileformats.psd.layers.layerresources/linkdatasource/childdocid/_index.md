@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.ChildDocId
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkDataSource ملكية. الحصول على أو تعيين معرف المستند الفرعي في مصدر بيانات liFE أو liFD لمورد Lnk2 / LnkE Adobe Photoshop.
+title: "LinkDataSource.ChildDocId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinkDataSource. تُعيد أو تُعيّن معرف المستند الفرعي في مصدر البيانات liFE أو liFD لمورد Adobe Photoshop Lnk2 / LnkE"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.ChildDocId property
 
-الحصول على أو تعيين معرف المستند الفرعي في مصدر بيانات liFE أو liFD لمورد Lnk2 / LnkE Adobe® Photoshop®.
+يحصل أو يعيّن معرف المستند الفرعي في مصدر البيانات liFE أو liFD الخاص بموارد Lnk2 / LnkE لـ Adobe® Photoshop®.
 
 ```csharp
 public string ChildDocId { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف المستند الفرعي في مصدر بيانات liFE أو liFD لمورد PSD Lnk2 / LnkE.
+معرف المستند الفرعي في مصدر البيانات liFE أو liFD لمورد PSD Lnk2 / LnkE.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لا يمكنك الوصول إلى خاصية ChildDocId ، فهي متاحة فقط لمصدر بيانات liFE أو liFD بالإصدار 5 أو أعلى. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لا يمكنك الوصول إلى خاصية ChildDocId، فهي متاحة فقط لمصدر البيانات liFE أو liFD بالإصدار 5 أو أعلى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkDataSource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

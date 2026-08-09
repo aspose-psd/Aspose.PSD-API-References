@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.UseTint
-second_title: Aspose.PSD لمرجع .NET API
-description: BlackWhiteAdjustmentLayer ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان لون الصبغة مستخدمًا .
+title: "BlackWhiteAdjustmentLayer.UseTint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlackWhiteAdjustmentLayer. يحصل أو يضبط قيمة تشير إلى ما إذا كان tint color مستخدمًا"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/usetint/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.UseTint property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [لون الصبغة] مستخدمًا .
+يحصل أو يضبط قيمة تشير إلى ما إذا كان [tint color] مستخدمًا.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم استخدامه [لون خفيف] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا تم استخدام [tint color]؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك التعامل مع خصائص طبقة ضبط أسود أبيض في Aspose.PSD
+المثال التالي يوضح كيف يمكنك تعديل خصائص طبقة تعديل الأبيض والأسود في Aspose.PSD
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlackWhiteAdjustmentLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

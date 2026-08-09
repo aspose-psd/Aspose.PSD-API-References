@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على أو تحديد إصدار أداة الكتابة.
+title: "TypeToolInfo6Resource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfo6Resource. تحصل أو تعيين إصدار أداة النوع"
 type: docs
-weight: 160
+weight: 130
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/version/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Version property
 
-الحصول على أو تحديد إصدار أداة الكتابة.
+يحصل أو يضبط نسخة أداة النوع.
 
 ```csharp
 public short Version { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إصدار أداة الكتابة.
+إصدار أداة النوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

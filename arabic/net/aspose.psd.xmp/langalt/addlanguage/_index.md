@@ -1,28 +1,29 @@
 ---
-title: LangAlt.AddLanguage
-second_title: Aspose.PSD لمرجع .NET API
-description: LangAlt طريقة. يضيف اللغة .
+title: "LangAlt.AddLanguage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LangAlt. تُضيف اللغة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp/langalt/addlanguage/
 ---
+{{< psd/tize >}}
 ## LangAlt.AddLanguage method
 
-يضيف اللغة .
+يضيف اللغة.
 
 ```csharp
 public virtual void AddLanguage(string language, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| language | String | اللغة. |
-| value | String | قيمة اللغة. |
+| اللغة | String | اللغة. |
+| قيمة | String | قيمة اللغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LangAlt](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../langalt/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

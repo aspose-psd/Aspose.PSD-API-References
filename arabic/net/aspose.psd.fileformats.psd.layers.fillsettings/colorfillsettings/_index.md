@@ -1,11 +1,12 @@
 ---
-title: Class ColorFillSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings فصل. إعدادات تأثير تعبئة اللون
+title: "الفئة ColorFillSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings. إعدادات تأثير تعبئة اللون"
 type: docs
-weight: 1930
+weight: 2040
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
 إعدادات تأثير تعبئة اللون
@@ -14,16 +15,22 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
+## المنشئات
+
+| الاسم | الوصف |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | الباني الافتراضي. |
+
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | الحصول على اللون أو تحديده . |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | يحصل أو يعيّن اللون. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | نوع التعبئة |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم طبقة تأثير الحد بنوع التعبئة - اللون.
+الكود التالي يوضح دعم طبقة تأثير الخط مع نوع التعبئة - اللون.
 
 ```csharp
 [C#]
@@ -63,7 +70,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// اختبار الملف بعد التحرير
+// ملف الاختبار بعد التعديل
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -78,11 +85,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

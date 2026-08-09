@@ -1,22 +1,23 @@
 ---
-title: License.License
-second_title: Aspose.PSD لمرجع .NET API
-description: License البناء. تهيئة مثيل جديد لهذه الفئة.
+title: "License.License"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ License. يهيئ مثيلًا جديدًا لهذه الفئة."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/license/license/
 ---
+{{< psd/tize >}}
 ## License constructor
 
-تهيئة مثيل جديد لهذه الفئة.
+يُهيئ نسخة جديدة من هذه الفئة.
 
 ```csharp
 public License()
 ```
 
-### أمثلة
+## أمثلة
 
-في هذا المثال ، سيتم إجراء محاولة للعثور على ملف ترخيص يسمى MyLicense.lic في المجلد الذي يحتوي على المكون ، في المجلد الذي يحتوي على التجميع الاستدعاء ، في مجلد تجميع الإدخال ثم في الموارد المضمنة للتجميع المتصل.
+في هذا المثال، سيتم محاولة العثور على ملف ترخيص باسم MyLicense.lic في المجلد الذي يحتوي على المكوّن، وفي المجلد الذي يحتوي على التجميع المستدعي، وفي مجلد تجميع الدخول، ثم في الموارد المدمجة للتجميع المستدعي.
 
 ```csharp
 [C#]
@@ -31,10 +32,10 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [License](../)
-* مساحة الاسم [Aspose.PSD](../../license/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

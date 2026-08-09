@@ -1,34 +1,35 @@
 ---
-title: Pen.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على اللون أو تحديدهPen .
+title: "Pen.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Pen خاصية. يحصل أو يضبط لون هذا Pen"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/pen/color/
 ---
+{{< psd/tize >}}
 ## Pen.Color property
 
-الحصول على اللون أو تحديده[`Pen`](../) .
+يحصل أو يضبط لون هذا [`Pen`](../).
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ`Color` الهيكل الذي يمثل لون هذا[`Pen`](../).
+`Color` بنية تمثل لون هذا [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`Color` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `Color` يتم تعيينها على [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Right
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تحديد الموقع الصحيح للطبقة الموضوعة في ملف PSD.
+title: "PlacedResource.Right"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط الموقع الأيمن للطبقة الموضوعة في ملف PSD."
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Right property
 
-الحصول على أو تحديد الموقع الصحيح للطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط موقع اليمين للطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموقع الصحيح للطبقة الموضوعة .
+الموقع الأيمن للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

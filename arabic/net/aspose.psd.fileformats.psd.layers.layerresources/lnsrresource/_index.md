@@ -1,54 +1,55 @@
 ---
-title: Class LnsrResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource فصل. فئة lnsrResource.
+title: "الفئة LnsrResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource. الفئة lnsrResource"
 type: docs
-weight: 2750
+weight: 3060
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource class
 
-فئة lnsrResource.
+الفئة lnsrResource.
 
 ```csharp
 public class LnsrResource : LayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | يقوم بتهيئة مثيل جديد لملف`LnsrResource` class. بقيمة مخصصة أو غير معروفة |
-| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | يقوم بتهيئة مثيل جديد لملف`LnsrResource` فئة . |
+| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | ينشئ مثيلًا جديدًا من الفئة `LnsrResource`. بقيمة مخصصة أو غير معروفة |
+| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | ينشئ مثيلًا جديدًا من الفئة `LnsrResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/) { get; } | يحصل على البيانات الأولية . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature/) { get; } | يحصل على التوقيع. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | يحصل على القيمة كـ LnsrResourceType إذا تم وصف التعداد المقابل. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/) { get; } | يحصل على البيانات الخام. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | يحصل على القيمة كـ LnsrResourceType إذا تم وصف التعداد المقابل. وإلا يرجع Unknown |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/)(StreamContainer, int) | يحفظ حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/)(StreamContainer, int) | يحفظ حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.InkNames
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أسماء الحبر أو تعيينها.
+title: "TiffOptions.InkNames"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يضبط أسماء الحبر"
 type: docs
-weight: 220
+weight: 230
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/inknames/
 ---
+{{< psd/tize >}}
 ## TiffOptions.InkNames property
 
-الحصول على أسماء الحبر أو تعيينها.
+يحصل أو يعيّن أسماء الحبر.
 
 ```csharp
 public string InkNames { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أسماء الحبر .
+أسماء الحبر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

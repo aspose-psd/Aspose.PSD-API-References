@@ -1,27 +1,28 @@
 ---
-title: KnkoResource.Knockout
-second_title: Aspose.PSD لمرجع .NET API
-description: KnkoResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان مزيج العناصر الداخلية .
+title: "KnkoResource.Knockout"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية KnkoResource. يحصل أو يعيّن قيمة تشير إلى ما إذا كان يتم دمج العناصر الداخلية"
 type: docs
-weight: 30
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Knockout property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [مزيج العناصر الداخلية] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [blend interior elements].
 
 ```csharp
 public bool Knockout { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [دمج العناصر الداخلية] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [blend interior elements]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KnkoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

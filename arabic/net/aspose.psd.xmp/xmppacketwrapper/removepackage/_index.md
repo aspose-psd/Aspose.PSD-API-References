@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.RemovePackage
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPacketWrapper طريقة. يزيل حزمة XMP .
+title: "XmpPacketWrapper.RemovePackage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPacketWrapper. تُزيل حزمة XMP."
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.xmp/xmppacketwrapper/removepackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.RemovePackage method
 
-يزيل حزمة XMP .
+يزيل حزمة XMP.
 
 ```csharp
 public void RemovePackage(XmpPackage package)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| package | XmpPackage | حزمة. |
+| حزمة | XmpPackage | الحزمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

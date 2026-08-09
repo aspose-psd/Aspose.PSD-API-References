@@ -1,43 +1,44 @@
 ---
-title: BmpOptions.BmpOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: BmpOptions البناء. يقوم بتهيئة مثيل جديد لملفBmpOptions فئة .
+title: "BmpOptions.BmpOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ BmpOptions. يهيء مثيلًا جديدًا من الفئة BmpOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/bmpoptions/bmpoptions/
 ---
+{{< psd/tize >}}
 ## BmpOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpOptions`](../) فئة .
+يهيء مثيلًا جديدًا من الفئة [`BmpOptions`](../).
 
 ```csharp
 public BmpOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BmpOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BmpOptions(BmpOptions) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpOptions`](../) فئة .
+يهيء مثيلًا جديدًا من الفئة [`BmpOptions`](../).
 
 ```csharp
 public BmpOptions(BmpOptions bmpOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bmpOptions | BmpOptions | خيارات BMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BmpOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

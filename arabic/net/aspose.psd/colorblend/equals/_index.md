@@ -1,31 +1,32 @@
 ---
-title: ColorBlend.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorBlend طريقة. تختبر ما إذا كان الكائن المحدد ملفColorBlend فئة وما يعادل هذاColorBlend فئة .
+title: "ColorBlend.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorBlend. تختبر ما إذا كان الكائن المحدد من فئة ColorBlend ومكافئ لهذه الفئة ColorBlend"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/colorblend/equals/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Equals method
 
-تختبر ما إذا كان الكائن المحدد ملف[`ColorBlend`](../) فئة وما يعادل هذا[`ColorBlend`](../) فئة .
+يفحص ما إذا كان الكائن المحدد من فئة [`ColorBlend`](../) ومكافئ لهذه الفئة [`ColorBlend`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الهدف المراد اختباره. |
+| obj | Object | الكائن المراد اختباره. |
 
 ### قيمة الإرجاع
 
-صحيح إذا*obj* هو[`ColorBlend`](../) فئة تعادل هذا[`ColorBlend`](../) فصل؛ خلاف ذلك ، خطأ.
+صحيح إذا كان *obj* من فئة [`ColorBlend`](../) مكافئ لهذه الفئة [`ColorBlend`](../)؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorBlend](../)
-* مساحة الاسم [Aspose.PSD](../../colorblend/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

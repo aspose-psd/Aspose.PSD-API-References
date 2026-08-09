@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Implicit
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. تحويل المحددRectangle هيكل لRectangleFهيكل .
+title: "RectangleF.op_Implicit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تحول بنية Rectangle المحددة إلى بنية RectangleF"
 type: docs
 weight: 280
 url: /ar/net/aspose.psd/rectanglef/op_implicit/
 ---
+{{< psd/tize >}}
 ## RectangleF Implicit operator
 
-تحويل المحدد[`Rectangle`](../../rectangle/) هيكل ل[`RectangleF`](../)هيكل .
+تحول البنية المحددة [`Rectangle`](../../rectangle/) إلى بنية [`RectangleF`](../).
 
 ```csharp
 public static implicit operator RectangleF(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | ال[`Rectangle`](../../rectangle/) هيكل للتحويل. |
+| rect | Rectangle | البنية [`Rectangle`](../../rectangle/) للتحويل. |
 
 ### قيمة الإرجاع
 
-ال[`RectangleF`](../) هيكل تم تحويله من المحدد[`Rectangle`](../../rectangle/) بناء.
+البنية [`RectangleF`](../) التي تم تحويلها من البنية المحددة [`Rectangle`](../../rectangle/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

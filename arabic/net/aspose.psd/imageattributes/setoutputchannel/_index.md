@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetOutputChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يضبط قناة الإخراج CMYK سماويأرجوانيأصفرأسود للفئة الافتراضية.
+title: "ImageAttributes.SetOutputChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تُعيّن قناة الإخراج CMYK (سماوي، أرجواني، أصفر، أسود) للفئة الافتراضية."
 type: docs
 weight: 170
 url: /ar/net/aspose.psd/imageattributes/setoutputchannel/
 ---
+{{< psd/tize >}}
 ## SetOutputChannel(ColorChannelFlag) {#setoutputchannel}
 
 يضبط قناة الإخراج CMYK (سماوي-أرجواني-أصفر-أسود) للفئة الافتراضية.
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd/imageattributes/setoutputchannel/
 public void SetOutputChannel(ColorChannelFlag flags)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| flags | ColorChannelFlag | عنصر[`ColorChannelFlag`](../../colorchannelflag/)التي تحدد قناة الإخراج. |
+| flags | ColorChannelFlag | عنصر من [`ColorChannelFlag`](../../colorchannelflag/) يحدد قناة الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,17 +36,17 @@ public void SetOutputChannel(ColorChannelFlag flags)
 public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| flags | ColorChannelFlag | عنصر[`ColorChannelFlag`](../../colorchannelflag/)التي تحدد قناة الإخراج. |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي تم تعيين قناة الإخراج لها. |
+| flags | ColorChannelFlag | عنصر من [`ColorChannelFlag`](../../colorchannelflag/) يحدد قناة الإخراج. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يتم تعيين قناة الإخراج لها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

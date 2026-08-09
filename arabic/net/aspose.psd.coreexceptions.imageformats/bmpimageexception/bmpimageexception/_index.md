@@ -1,48 +1,49 @@
 ---
-title: BmpImageException.BmpImageException
-second_title: Aspose.PSD لمرجع .NET API
-description: BmpImageException البناء. يقوم بتهيئة مثيل جديد لملفBmpImageException فئة .
+title: "BmpImageException.BmpImageException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ BmpImageException. يهيئ نسخة جديدة من الفئة BmpImageException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.imageformats/bmpimageexception/bmpimageexception/
 ---
+{{< psd/tize >}}
 ## BmpImageException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpImageException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`BmpImageException`](../).
 
 ```csharp
 public BmpImageException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BmpImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BmpImageException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`BmpImageException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`BmpImageException`](../).
 
 ```csharp
 public BmpImageException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BmpImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

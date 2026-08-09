@@ -1,51 +1,52 @@
 ---
-title: Pen.MultiplyTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen طريقة. تضرب مصفوفة التحويل لهذا الغرضPen حسب المحددMatrix .
+title: "Pen.MultiplyTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Pen. تضرب مصفوفة التحويل لهذا Pen بالمصفوفة المحددة Matrix"
 type: docs
 weight: 190
 url: /ar/net/aspose.psd/pen/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-تضرب مصفوفة التحويل لهذا الغرض[`Pen`](../) حسب المحدد[`Matrix`](../../matrix/) .
+تضرب مصفوفة التحويل لهذا [`Pen`](../) بالمصفوفة المحددة [`Matrix`](../../matrix/).
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | ال[`Matrix`](../../matrix/) كائن لمضاعفة مصفوفة التحويل. |
+| matrix | Matrix | كائن [`Matrix`](../../matrix/) الذي يُستخدم لضرب مصفوفة التحويل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-تضرب مصفوفة التحويل لهذا الغرض[`Pen`](../) حسب المحدد[`Matrix`](../../matrix/) بالترتيب المحدد.
+تضرب مصفوفة التحويل لهذا [`Pen`](../) بالمصفوفة المحددة [`Matrix`](../../matrix/) بالترتيب المحدد.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | ال[`Matrix`](../../matrix/) من خلالها يتم ضرب مصفوفة التحويل. |
-| order | MatrixOrder | الترتيب الذي يتم تنفيذ عملية الضرب به. |
+| matrix | Matrix | الـ[`Matrix`](../../matrix/) الذي يُستخدم لضرب مصفوفة التحويل. |
+| الترتيب | MatrixOrder | الترتيب الذي يتم فيه تنفيذ عملية الضرب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

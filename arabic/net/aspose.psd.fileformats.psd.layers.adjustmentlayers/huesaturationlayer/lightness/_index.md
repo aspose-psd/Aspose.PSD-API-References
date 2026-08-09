@@ -1,33 +1,34 @@
 ---
-title: HueSaturationLayer.Lightness
-second_title: Aspose.PSD لمرجع .NET API
-description: HueSaturationLayer ملكية. الحصول على الإضاءة أو ضبطها .
+title: "HueSaturationLayer.Lightness"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية HueSaturationLayer. يحصل أو يضبط السطوع."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/lightness/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Lightness property
 
-الحصول على الإضاءة أو ضبطها .
+يحصل أو يعيّن الإضاءة.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الخفة .
+السطوع.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن تتراوح الإضاءة من -100 إلى +100 |
+| ArgumentOutOfRangeException | يجب أن يكون السطوع في النطاق من -100 إلى +100. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HueSaturationLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

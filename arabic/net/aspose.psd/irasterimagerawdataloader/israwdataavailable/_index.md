@@ -1,27 +1,28 @@
 ---
-title: IRasterImageRawDataLoader.IsRawDataAvailable
-second_title: Aspose.PSD لمرجع .NET API
-description: IRasterImageRawDataLoader ملكية. يحصل على قيمة تشير إلى ما إذا كان تحميل البيانات الأولية مدعومًا.
+title: "IRasterImageRawDataLoader.IsRawDataAvailable"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IRasterImageRawDataLoader. تحصل على قيمة تشير إلى ما إذا كان تحميل البيانات الخام مدعومًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/irasterimagerawdataloader/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.IsRawDataAvailable property
 
-يحصل على قيمة تشير إلى ما إذا كان تحميل البيانات الأولية مدعومًا.
+يحصل على قيمة تُشير إلى ما إذا كان تحميل البيانات الخام مدعومًا.
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم دعم تحميل البيانات الخام ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان تحميل البيانات الخام مدعومًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterImageRawDataLoader](../)
-* مساحة الاسم [Aspose.PSD](../../irasterimagerawdataloader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

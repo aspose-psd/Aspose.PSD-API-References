@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsValid
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. يحصل على قيمة تشير إلى ما إذا كان ملفTiffOptions تم تكوينه بشكل صحيح. استخدم طريقة التحقق من الصحة للعثور على سبب الفشل.
+title: "TiffOptions.IsValid"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. يحصل على قيمة تشير إلى ما إذا تم تكوين TiffOptions بشكل صحيح. استخدم طريقة Validate للعثور على سبب الفشل"
 type: docs
-weight: 250
+weight: 260
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsValid property
 
-يحصل على قيمة تشير إلى ما إذا كان ملف[`TiffOptions`](../) تم تكوينه بشكل صحيح. استخدم طريقة التحقق من الصحة للعثور على سبب الفشل.
+يحصل على قيمة تشير إلى ما إذا كان [`TiffOptions`](../) قد تم تكوينه بشكل صحيح. استخدم طريقة Validate للعثور على سبب الفشل.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تكوين TiffOptions بشكل صحيح ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا تم تكوين TiffOptions بشكل صحيح؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

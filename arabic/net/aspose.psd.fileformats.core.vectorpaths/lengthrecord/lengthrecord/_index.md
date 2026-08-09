@@ -1,48 +1,43 @@
 ---
-title: LengthRecord.LengthRecord
-second_title: Aspose.PSD لمرجع .NET API
-description: LengthRecord البناء. يقوم بتهيئة مثيل جديد لملفLengthRecord فئة .
+title: "LengthRecord.LengthRecord"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LengthRecord. يهيئ مثيلًا جديدًا من الفئة LengthRecord"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LengthRecord`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`LengthRecord`](../).
 
 ```csharp
 public LengthRecord(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات السجل. |
+| البيانات | Byte[] | بيانات السجل. |
 
-### استثناءات
-
-| استثناء | حالة |
-| --- | --- |
-| !:PsdImageArgumentException | بيانات غير صحيحة لإنشاء LengthRecord |
-
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LengthRecord() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LengthRecord`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`LengthRecord`](../).
 
 ```csharp
 public LengthRecord()
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي من التعليمات البرمجية دعم خصائص LengthRecord الجديدة و PathOperations (العمليات المنطقية) و ShapeIndex و BezierKnotRecordsCount.
+يوضح مثال الشيفرة التالي دعم الخصائص الجديدة LengthRecord، وPathOperations (العمليات البوليانية)، وShapeIndex وBezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -66,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // هنا نغير الطريق إلى الجمع بين الأشكال.
+    // هنا نغير الطريقة التي نجمع بها الأشكال.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -75,10 +70,10 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

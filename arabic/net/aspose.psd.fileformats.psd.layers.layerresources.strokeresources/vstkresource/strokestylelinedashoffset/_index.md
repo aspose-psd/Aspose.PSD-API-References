@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleLineDashOffset
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على أو تعيين إزاحة شرطة خط نمط ضربة الفرشاة.
+title: "VstkResource.StrokeStyleLineDashOffset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعيين إزاحة خط نمط الحد المتقطع"
 type: docs
-weight: 130
+weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashOffset property
 
-الحصول على أو تعيين إزاحة شرطة خط نمط ضربة الفرشاة.
+يحصل أو يضبط إزاحة الخط المتقطع لنمط الضربة.
 
 ```csharp
 public int StrokeStyleLineDashOffset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إزاحة شرطة خط نمط ضربة الفرشاة .
+إزاحة خط نمط الحد المتقطع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

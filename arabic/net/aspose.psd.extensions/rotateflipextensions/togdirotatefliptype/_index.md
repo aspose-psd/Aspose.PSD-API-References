@@ -1,32 +1,33 @@
 ---
-title: RotateFlipExtensions.ToGdiRotateFlipType
-second_title: Aspose.PSD لمرجع .NET API
-description: RotateFlipExtensions طريقة. تحويل Aspose.PSD.RotateFlipType إلى System.Drawing.RotateFlipType.
+title: "RotateFlipExtensions.ToGdiRotateFlipType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RotateFlipExtensions. يحول Aspose.PSD.RotateFlipType إلى System.Drawing.RotateFlipType"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions.ToGdiRotateFlipType method
 
-تحويل Aspose.PSD.RotateFlipType إلى System.Drawing.RotateFlipType.
+يحوّل Aspose.PSD.RotateFlipType إلى System.Drawing.RotateFlipType.
 
 ```csharp
 public static RotateFlipType ToGdiRotateFlipType(RotateFlipType rotateFlipType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | نوع تدوير الوجه. |
+| rotateFlipType | RotateFlipType | نوع دوران القلب. |
 
 ### قيمة الإرجاع
 
-أداة gdi RotateFlipType
+نوع gdi RotateFlipType
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [RotateFlipExtensions](../)
-* مساحة الاسم [Aspose.PSD.Extensions](../../rotateflipextensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

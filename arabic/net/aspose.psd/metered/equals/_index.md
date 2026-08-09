@@ -1,31 +1,32 @@
 ---
-title: Metered.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: Metered طريقة. تحديد ما إذا كان الملف المحددObject  يساوي هذا المثال.
+title: "Metered.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Metered. تحدد ما إذا كان Object المحدد يساوي هذه الحالة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/metered/equals/
 ---
+{{< psd/tize >}}
 ## Metered.Equals method
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذا المثيل.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | Object | ال Object للمقارنة مع هذه المثيلة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد يساوي هذه المثيلة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.PSD](../../metered/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

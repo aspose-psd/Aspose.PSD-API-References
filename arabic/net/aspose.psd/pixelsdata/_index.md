@@ -1,46 +1,53 @@
 ---
-title: Class PixelsData
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.PixelsData فصل. فئة تخزين بيانات بكسل الصورة وحدودها.
+title: "الفئة PixelsData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.PixelsData فئة. الفئة لتخزين بيانات بكسلات الصورة وحدودها"
 type: docs
-weight: 5250
+weight: 5740
 url: /ar/net/aspose.psd/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData class
 
-فئة تخزين بيانات بكسل الصورة وحدودها.
+الفئة لتخزين بيانات بكسلات الصورة وحدودها.
 
 ```csharp
-public sealed class PixelsData
+public sealed class PixelsData : ICloneable
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PixelsData](pixelsdata/#constructor)() | يقوم بتهيئة مثيل جديد لملف`PixelsData` فئة . |
-| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | يقوم بتهيئة مثيل جديد لملف`PixelsData` فئة . |
+| [PixelsData](pixelsdata/#constructor)() | ينشئ مثيلاً جديداً من الفئة `PixelsData`. |
+| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | ينشئ مثيلاً جديداً من الفئة `PixelsData`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | الحصول على أو تعيين حدود بيانات البكسل . |
-| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | الحصول على أو تعيين بيانات البكسل . |
+| [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | يحصل أو يعيّن حدود بيانات البكسلات. |
+| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | يحصل أو يعيّن بيانات البكسلات. |
 
-### أمثلة
+## الطرق
 
-يوضح لك الكود التالي كيفية إنشاء عامل تصفية ذكي مخصص به عارض مخصص.
+| الاسم | الوصف |
+| --- | --- |
+| [Clone](../../aspose.psd/pixelsdata/clone/)() | إنه ينشئ نسخة كاملة من المثيل |
+
+## أمثلة
+
+الكود التالي يوضح لك كيفية إنشاء مرشح ذكي مخصص يمتلك مصيّرًا مخصصًا.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // يدخل المرشح الذكي "التبلور" غير المدعوم في صفيف الإدخال
+    // يُهيئ المرشح الذكي غير المدعوم 'Crystallize' في مصفوفة الإدخال
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // معرّف الفلتر الذكي "Crystallize".
+        // معرّف المرشح الذكي 'Crystallize'.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -66,14 +73,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // تطبيق عامل التصفية على SmartObject
+        // تطبيق المرشح على SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // تطبيق مرشح على قناع الطبقة
+        // تطبيق المرشح على قناع الطبقة
         smartFilter.ApplyToMask(maskLayer);
 
-        // تطبيق مرشح على طبقة
+        //تطبيق المرشح على الطبقة
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -90,15 +97,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // معرّف الفلتر الذكي "Crystallize".
+        // معرّف المرشح الذكي 'Crystallize'.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // الحصول على هيكل المرشح
+        // احصل على بنية المرشح
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // الحصول على قيمة حجم التبلور
+        // احصل على قيمة حجم Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -114,9 +121,9 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

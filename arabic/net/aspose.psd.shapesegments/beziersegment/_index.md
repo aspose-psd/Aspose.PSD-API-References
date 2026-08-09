@@ -1,38 +1,39 @@
 ---
-title: Class BezierSegment
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ShapeSegments.BezierSegment فصل. ينتقل مقطع بيزير من نقطة واحدة إلى النقطة التالية ويستخدم نقطتي تحكم.
+title: "الفئة BezierSegment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ShapeSegments.BezierSegment. مقطع بيزيير ينتقل من نقطة إلى النقطة التالية باستخدام نقطتي تحكم."
 type: docs
-weight: 5440
+weight: 5940
 url: /ar/net/aspose.psd.shapesegments/beziersegment/
 ---
+{{< psd/tize >}}
 ## BezierSegment class
 
-ينتقل مقطع بيزير من نقطة واحدة إلى النقطة التالية ويستخدم نقطتي تحكم.
+مقطع بيزيير ينتقل من نقطة إلى النقطة التالية باستخدام نقطتي تحكم.
 
 ```csharp
 public sealed class BezierSegment : LineSegment
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | يقوم بتهيئة مثيل جديد لملف`BezierSegment` فئة . |
+| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | يُنشئ مثيلاً جديدًا للفئة `BezierSegment`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | يحصل على نقطة النهاية . |
-| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | يحصل على أول نقطة تحكم في شريحة بيزير. |
-| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | يحصل على نقطة التحكم الثانية في شريحة بيزير. |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | يحصل على نقطة البداية . |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | يحصل على نقطة النهاية. |
+| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | يحصل على نقطة التحكم الأولى لمنحنى بيزيير. |
+| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | يحصل على نقطة التحكم الثانية لمنحنى بيزيير. |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | يحصل على نقطة البداية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineSegment](../linesegment/)
-* مساحة الاسم [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

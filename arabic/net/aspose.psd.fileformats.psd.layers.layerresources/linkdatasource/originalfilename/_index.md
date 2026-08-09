@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.OriginalFileName
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkDataSource ملكية. الحصول على اسم الملف الأصلي لمصدر البيانات في مورد الارتباط العالمي Adobe Photoshop .
+title: "LinkDataSource.OriginalFileName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinkDataSource. تُعيد اسم الملف الأصلي لمصدر البيانات في مورد الارتباط العالمي لـ Adobe Photoshop"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalFileName property
 
-الحصول على اسم الملف الأصلي لمصدر البيانات في مورد الارتباط العالمي Adobe® Photoshop® .
+يحصل على اسم الملف الأصلي لمصدر البيانات في مورد ربط عالمي لـ Adobe® Photoshop®.
 
 ```csharp
 public string OriginalFileName { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الملف الأصلي بتنسيق PSD مورد LnkE / Lnk2 .
+اسم الملف الأصلي في مورد PSD بصيغة LnkE / Lnk2.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لا يمكنك الوصول إلى الخاصية OriginalFileName. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لا يمكنك الوصول إلى خاصية OriginalFileName. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkDataSource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

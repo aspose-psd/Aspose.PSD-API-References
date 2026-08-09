@@ -1,33 +1,34 @@
 ---
-title: ColorPaletteHelper.GetDownscalePalette
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorPaletteHelper طريقة. احصل على 256 لوحة ألوان  مكونة من بتات علوية لقيم ألوان الصورة الأولية.
+title: "ColorPaletteHelper.GetDownscalePalette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorPaletteHelper. احصل على لوحة ألوان مكونة من 256 لون مشتقة من البتات العليا لقيم ألوان الصورة الأولية."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/colorpalettehelper/getdownscalepalette/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.GetDownscalePalette method
 
-احصل على 256 لوحة ألوان ، مكونة من بتات علوية لقيم ألوان الصورة الأولية.
+احصل على لوحة ألوان مكوّنة من 256 لون، مشتقة من البتات العليا لقيم ألوان الصورة الأصلية.
 
 ```csharp
 public static ColorPalette GetDownscalePalette(RasterImage image)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | RasterImage | الصورة . |
+| صورة | RasterImage | الصورة. |
 
 ### قيمة الإرجاع
 
-ملف[`ColorPalette`](../../colorpalette/) .
+الـ [`ColorPalette`](../../colorpalette/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorPalette](../../colorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalettehelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

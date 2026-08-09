@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.SyncRoot
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer ملكية. الحصول على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
+title: "StreamContainer.SyncRoot"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StreamContainer. يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/streamcontainer/syncroot/
 ---
+{{< psd/tize >}}
 ## StreamContainer.SyncRoot property
 
-الحصول على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
+يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الكائن الذي يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorBalanceAdjustmentLayer ملكية. الحصول على توازن الدرجات اللونية النصفية الزرقاء أو تعيينه.
+title: "ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorBalanceAdjustmentLayer. يحصل أو يضبط توازن المتوسطات الأصفر الأزرق"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance property
 
-الحصول على توازن الدرجات اللونية النصفية الزرقاء أو تعيينه.
+يحصل أو يضبط توازن النغمات المتوسطة للأصفر الأزرق.
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التوازن الأصفر والأزرق ذو الدرجات اللونية النصفية .
+توازن المتوسطات الأصفر الأزرق.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن يكون الرصيد الأزرق الأصفر في النطاق من -100 إلى +100 . |
+| ArgumentOutOfRangeException | يجب أن يكون توازن المتوسطات الأصفر الأزرق في النطاق من -100 إلى +100. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم ColorBalanceAdjustmentLayer.
+الكود التالي يوضح دعم طبقة ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorBalanceAdjustmentLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

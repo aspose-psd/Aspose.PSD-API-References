@@ -1,157 +1,158 @@
 ---
-title: LinearMulticolorGradientBrush.LinearMulticolorGradientBrush
-second_title: Aspose.PSD لمرجع .NET API
-description: LinearMulticolorGradientBrush البناء. يقوم بتهيئة مثيل جديد لملفLinearMulticolorGradientBrush فئة مع المعلمات الافتراضية. لون البداية أسود ولون النهاية أبيض والزاوية 45 درجة والمستطيل يقع في 00 بحجم 11 .
+title: "LinearMulticolorGradientBrush.LinearMulticolorGradientBrush"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LinearMulticolorGradientBrush. يهيئ مثيلاً جديدًا من الفئة LinearMulticolorGradientBrush مع المعلمات الافتراضية. اللون الابتدائي هو الأسود، اللون النهائي هو الأبيض، الزاوية 45 درجة، والمستطيل يقع في 00 بالحجم 11."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.brushes/linearmulticolorgradientbrush/linearmulticolorgradientbrush/
 ---
+{{< psd/tize >}}
 ## LinearMulticolorGradientBrush() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearMulticolorGradientBrush`](../) فئة مع المعلمات الافتراضية. لون البداية أسود ولون النهاية أبيض والزاوية 45 درجة والمستطيل يقع في (0،0) بحجم (1،1) .
+يهيئ مثيلاً جديدًا من الفئة [`LinearMulticolorGradientBrush`](../) مع المعلمات الافتراضية. اللون الابتدائي هو الأسود، اللون النهائي هو الأبيض، الزاوية 45 درجة، والمستطيل يقع في (0,0) بالحجم (1,1).
 
 ```csharp
 public LinearMulticolorGradientBrush()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinearMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Point, Point) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearMulticolorGradientBrush`](../) فئة بالنقاط المحددة.
+يهيئ مثيلاً جديدًا من الفئة [`LinearMulticolorGradientBrush`](../) مع النقاط المحددة.
 
 ```csharp
 public LinearMulticolorGradientBrush(Point point1, Point point2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point1 | Point | أ[`Point`](../../../aspose.psd/point/) الهيكل الذي يمثل نقطة البداية للتدرج الخطي. |
-| point2 | Point | أ[`Point`](../../../aspose.psd/point/) الهيكل الذي يمثل نقطة نهاية التدرج الخطي. |
+| point1 | Point | هيكل [`Point`](../../../aspose.psd/point/) يمثل النقطة الابتدائية للتدرج الخطي. |
+| point2 | Point | هيكل [`Point`](../../../aspose.psd/point/) يمثل نقطة النهاية للتدرج الخطي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * class [LinearMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(PointF, PointF) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearMulticolorGradientBrush`](../) فئة بالنقاط المحددة.
+يهيئ مثيلاً جديدًا من الفئة [`LinearMulticolorGradientBrush`](../) مع النقاط المحددة.
 
 ```csharp
 public LinearMulticolorGradientBrush(PointF point1, PointF point2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point1 | PointF | أ[`PointF`](../../../aspose.psd/pointf/) الهيكل الذي يمثل نقطة البداية للتدرج الخطي. |
-| point2 | PointF | أ[`PointF`](../../../aspose.psd/pointf/) الهيكل الذي يمثل نقطة نهاية التدرج الخطي. |
+| point1 | PointF | هيكل [`PointF`](../../../aspose.psd/pointf/) يمثل النقطة الابتدائية للتدرج الخطي. |
+| point2 | PointF | هيكل [`PointF`](../../../aspose.psd/pointf/) يمثل نقطة النهاية للتدرج الخطي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LinearMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearMulticolorGradientBrush`](../) فئة تعتمد على مستطيل وزاوية اتجاه.
+يهيئ مثيلاً جديدًا من الفئة [`LinearMulticolorGradientBrush`](../) بناءً على مستطيل وزاوية توجيه.
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | أ[`RectangleF`](../../../aspose.psd/rectanglef/) الهيكل الذي يحدد حدود التدرج الخطي. |
-| angle | Single | الزاوية المقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني لخط اتجاه التدرج. |
+| rect | Rectangle | هيكل [`RectangleF`](../../../aspose.psd/rectanglef/) يحدد حدود التدرج الخطي. |
+| الزاوية | Single | الزاوية، مقاسة بالدرجات في اتجاه عقارب الساعة من محور x، لخط توجيه التدرج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearMulticolorGradientBrush`](../) فئة تعتمد على مستطيل وزاوية اتجاه.
+يهيئ مثيلاً جديدًا من الفئة [`LinearMulticolorGradientBrush`](../) بناءً على مستطيل وزاوية توجيه.
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | أ[`RectangleF`](../../../aspose.psd/rectanglef/) الهيكل الذي يحدد حدود التدرج الخطي. |
-| angle | Single | الزاوية المقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني لخط اتجاه التدرج. |
+| rect | RectangleF | هيكل [`RectangleF`](../../../aspose.psd/rectanglef/) يحدد حدود التدرج الخطي. |
+| الزاوية | Single | الزاوية، مقاسة بالدرجات في اتجاه عقارب الساعة من محور x، لخط توجيه التدرج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float, bool) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearMulticolorGradientBrush`](../) فئة تعتمد على مستطيل وزاوية اتجاه.
+يهيئ مثيلاً جديدًا من الفئة [`LinearMulticolorGradientBrush`](../) بناءً على مستطيل وزاوية توجيه.
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle, bool isAngleScalable)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | أ[`RectangleF`](../../../aspose.psd/rectanglef/) الهيكل الذي يحدد حدود التدرج الخطي. |
-| angle | Single | الزاوية المقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني لخط اتجاه التدرج. |
-| isAngleScalable | Boolean | إذا تم التعيين على`حقيقي` يتم تغيير الزاوية أثناء التحولات بهذا[`LinearMulticolorGradientBrush`](../). |
+| rect | Rectangle | هيكل [`RectangleF`](../../../aspose.psd/rectanglef/) يحدد حدود التدرج الخطي. |
+| الزاوية | Single | الزاوية، مقاسة بالدرجات في اتجاه عقارب الساعة من محور x، لخط توجيه التدرج. |
+| isAngleScalable | Boolean | إذا تم تعيينه إلى `true` فإن الزاوية تتغير أثناء التحويلات باستخدام هذا [`LinearMulticolorGradientBrush`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float, bool) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearMulticolorGradientBrush`](../) فئة تعتمد على مستطيل وزاوية اتجاه.
+يهيئ مثيلاً جديدًا من الفئة [`LinearMulticolorGradientBrush`](../) بناءً على مستطيل وزاوية توجيه.
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle, bool isAngleScalable)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | أ[`RectangleF`](../../../aspose.psd/rectanglef/) الهيكل الذي يحدد حدود التدرج الخطي. |
-| angle | Single | الزاوية المقاسة بالدرجات في اتجاه عقارب الساعة من المحور السيني لخط اتجاه التدرج. |
-| isAngleScalable | Boolean | إذا تم التعيين على`حقيقي` يتم تغيير الزاوية أثناء التحولات بهذا[`LinearMulticolorGradientBrush`](../). |
+| rect | RectangleF | هيكل [`RectangleF`](../../../aspose.psd/rectanglef/) يحدد حدود التدرج الخطي. |
+| الزاوية | Single | الزاوية، مقاسة بالدرجات في اتجاه عقارب الساعة من محور x، لخط توجيه التدرج. |
+| isAngleScalable | Boolean | إذا تم تعيينه إلى `true` فإن الزاوية تتغير أثناء التحويلات باستخدام هذا [`LinearMulticolorGradientBrush`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

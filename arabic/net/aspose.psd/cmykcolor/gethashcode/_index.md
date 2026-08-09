@@ -1,14 +1,15 @@
 ---
-title: CmykColor.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykColor طريقة. الحصول على كود التجزئة .
+title: "CmykColor.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CmykColor. الحصول على رمز التجزئة"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.psd/cmykcolor/gethashcode/
 ---
+{{< psd/tize >}}
 ## CmykColor.GetHashCode method
 
-الحصول على كود التجزئة .
+الحصول على رمز التجزئة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-ملفInt32 .
+الـ Int32.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [CmykColor](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

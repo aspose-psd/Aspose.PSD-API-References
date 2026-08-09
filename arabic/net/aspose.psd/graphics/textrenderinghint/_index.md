@@ -1,28 +1,29 @@
 ---
-title: Graphics.TextRenderingHint
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics ملكية. الحصول على تلميح عرض النص أو تعيينه.
+title: "Graphics.TextRenderingHint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Graphics. يحصل أو يضبط تلميح عرض النص."
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.psd/graphics/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## Graphics.TextRenderingHint property
 
-الحصول على تلميح عرض النص أو تعيينه.
+يحصل أو يعيّن تلميح عرض النص.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تلميح تقديم النص.
+تلميح عرض النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TextRenderingHint](../../textrenderinghint/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

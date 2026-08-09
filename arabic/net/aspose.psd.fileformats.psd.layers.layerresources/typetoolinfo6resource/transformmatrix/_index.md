@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.TransformMatrix
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على مصفوفة التحويل أو تعيينها.
+title: "TypeToolInfo6Resource.TransformMatrix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfo6Resource. يحصل أو يحدد مصفوفة التحويل"
 type: docs
-weight: 150
+weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TransformMatrix property
 
-الحصول على مصفوفة التحويل أو تعيينها.
+يحصل أو يضبط مصفوفة التحويل.
 
 ```csharp
 public double[] TransformMatrix { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مصفوفة التحويل .
+مصفوفة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

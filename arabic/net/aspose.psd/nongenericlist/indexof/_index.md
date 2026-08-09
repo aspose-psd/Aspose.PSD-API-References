@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.IndexOf
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericList طريقة. يحدد فهرس عنصر معين في ملفIList .
+title: "NonGenericList.IndexOf"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة NonGenericList. تحدد فهرس العنصر المحدد في IList"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/nongenericlist/indexof/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IndexOf method
 
-يحدد فهرس عنصر معين في ملفIList .
+يحدد فهرس عنصر معين في IList.
 
 ```csharp
 public int IndexOf(object value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Object | الObjectلتحديد موقع فيIList. |
+| قيمة | Object | الكائن لتحديد موقعه في IList. |
 
 ### قيمة الإرجاع
 
-فهرس*value* إذا وجدت في القائمة ؛ وإلا ، -1 .
+فهرس *value* إذا وجد في القائمة؛ وإلا، -1.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericList](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericlist/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

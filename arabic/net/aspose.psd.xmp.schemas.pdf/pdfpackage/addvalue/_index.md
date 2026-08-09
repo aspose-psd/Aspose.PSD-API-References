@@ -1,34 +1,35 @@
 ---
-title: PdfPackage.AddValue
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfPackage طريقة. يضيف خاصية السلسلة .
+title: "PdfPackage.AddValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PdfPackage. تضيف خاصية سلسلة."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.schemas.pdf/pdfpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PdfPackage.AddValue method
 
-يضيف خاصية السلسلة .
+يضيف خاصية نصية.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | تمثيل السلسلة للمفتاح الذي تم تحديده بالقيمة المضافة. |
-| value | String | قيمة السلسلة. |
+| المفتاح | String | التمثيل النصي للمفتاح الذي يتم التعرف عليه مع القيمة المضافة. |
+| قيمة | String | القيمة النصية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | مفتاح ؛ لا يمكن أن تكون خاصية Pdf خالية |
+| ArgumentNullException | key; خاصية Pdf لا يمكن أن تكون فارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

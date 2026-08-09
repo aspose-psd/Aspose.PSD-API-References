@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Fonts
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على الخطوط أو تعيينها.
+title: "TypeToolInfoResource.Fonts"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط الخطوط"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Fonts property
 
-الحصول على الخطوط أو تعيينها.
+يحصل أو يضبط الخطوط.
 
 ```csharp
 public TypeToolFontInfo[] Fonts { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 الخطوط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolFontInfo](../../typetoolfontinfo/)
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

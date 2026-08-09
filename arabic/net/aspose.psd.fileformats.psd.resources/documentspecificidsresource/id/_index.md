@@ -1,27 +1,28 @@
 ---
-title: DocumentSpecificIdsResource.Id
-second_title: Aspose.PSD لمرجع .NET API
-description: DocumentSpecificIdsResource ملكية. الحصول على المعرف أو تعيينه.
+title: "DocumentSpecificIdsResource.Id"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DocumentSpecificIdsResource. يحصل أو يعيّن المعرف"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.Id property
 
-الحصول على المعرف أو تعيينه.
+يحصل أو يعيّن المعرف.
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرف .
+المعرف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DocumentSpecificIdsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

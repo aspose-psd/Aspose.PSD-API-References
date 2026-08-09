@@ -1,23 +1,24 @@
 ---
-title: LyidResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: LyidResource ملكية. يحصل على نسخة مديرية الأمن العام .
+title: "LyidResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LyidResource. تحصل على إصدار psd"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LyidResource.PsdVersion property
 
-يحصل على نسخة مديرية الأمن العام .
+يحصل على إصدار psd.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LyidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

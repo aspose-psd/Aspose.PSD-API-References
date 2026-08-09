@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpBasic
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. مساحة الاسم الأساسية XMP .
+title: "Namespaces.XmpBasic"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. مساحة اسم XMP Basic"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp/namespaces/xmpbasic/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpBasic field
 
-مساحة الاسم الأساسية XMP .
+مساحة الاسم XMP Basic.
 
 ```csharp
 public const string XmpBasic;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

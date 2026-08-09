@@ -1,36 +1,37 @@
 ---
-title: Class LayerBlendingRangesData
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData فصل. نطاقات مزج الطبقة .
+title: "الفئة LayerBlendingRangesData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData. بيانات نطاقات دمج الطبقة"
 type: docs
-weight: 2090
+weight: 2280
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData class
 
-نطاقات مزج الطبقة .
+بيانات نطاقات دمج الطبقة.
 
 ```csharp
 public sealed class LayerBlendingRangesData
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LayerBlendingRangesData](layerblendingrangesdata/)() | Default_Constructor |
+| [LayerBlendingRangesData](layerblendingrangesdata/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | الحصول على أو تعيين نطاقات مزيج القنوات. |
-| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | الحصول على أو تعيين نطاقات المزج المركب. |
-| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | الحصول على طول بيانات نطاقات مزج الطبقة بالبايت. |
+| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | يحصل على أو يضبط نطاقات دمج القناة. |
+| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | يحصل على أو يضبط نطاقات الدمج المركبة. |
+| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | يحصل على طول بيانات نطاقات دمج الطبقة بالبايت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

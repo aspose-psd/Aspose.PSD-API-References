@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. الأحرف المزدوجة السياقية القياسية المستخدمة لربط الأحرف معًا.
+title: "ITextStyle.StandardLigatures"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. الروابط السياقية القياسية المستخدمة لربط الأحرف معًا"
 type: docs
 weight: 220
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
-الأحرف المزدوجة السياقية القياسية المستخدمة لربط الأحرف معًا.
+الروابط السياقية القياسية المستخدمة لربط الأحرف معًا.
 
 ```csharp
 public bool StandardLigatures { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم دعم خصائص ITextStyle الجديدة.
+الكود التالي يوضح دعم خصائص ITextStyle الجديدة.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

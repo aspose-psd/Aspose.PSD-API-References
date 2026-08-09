@@ -1,32 +1,33 @@
 ---
-title: HueSaturationLayer.GetRange
-second_title: Aspose.PSD لمرجع .NET API
-description: HueSaturationLayer طريقة. يحصل على النطاق .
+title: "HueSaturationLayer.GetRange"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة HueSaturationLayer. يحصل على النطاق"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/getrange/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.GetRange method
 
-يحصل على النطاق .
+يحصل على النطاق.
 
 ```csharp
 public ColorRangeHsl GetRange(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | مؤشر. |
+| فهرس | Int32 | الفهرس. |
 
 ### قيمة الإرجاع
 
 نطاق اللون Hsl
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/)
 * class [HueSaturationLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

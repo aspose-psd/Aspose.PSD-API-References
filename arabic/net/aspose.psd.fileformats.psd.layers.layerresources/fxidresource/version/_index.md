@@ -1,23 +1,24 @@
 ---
-title: FXidResource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: FXidResource ملكية. يحصل على الإصدار .
+title: "FXidResource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FXidResource. تحصل على الإصدار"
 type: docs
-weight: 70
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/
 ---
+{{< psd/tize >}}
 ## FXidResource.Version property
 
-يحصل على الإصدار .
+يحصل على الإصدار.
 
 ```csharp
 public int Version { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FXidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

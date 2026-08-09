@@ -1,40 +1,41 @@
 ---
-title: Class RawDataSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.RawDataSettings فصل. إعدادات البيانات الأولية
+title: "الفئة RawDataSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.RawDataSettings. إعدادات البيانات الخام"
 type: docs
-weight: 5330
+weight: 5830
 url: /ar/net/aspose.psd/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RawDataSettings class
 
-إعدادات البيانات الأولية
+إعدادات البيانات الخام
 
 ```csharp
 public class RawDataSettings
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RawDataSettings](rawdatasettings/)() | Default_Constructor |
+| [RawDataSettings](rawdatasettings/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette/) { get; set; } | الحصول على لوحة الألوان أو تعيينها |
-| [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter/) { get; set; } | الحصول على أو تعيين محول الألوان المخصص |
-| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod/) { get; set; } | الحصول على أو تعيين طريقة التدرج لاستخدامها في تحويل البيانات الأولية |
-| [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex/) { get; set; } | الحصول على الفهرس الاحتياطي أو تعيينه لاستخدامه عندما يكون فهرس اللوحة خارج الحدود |
-| [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter/) { get; set; } | الحصول على أو تعيين محول الألوان المفهرس |
-| [LineSize](../../aspose.psd/rawdatasettings/linesize/) { get; set; } | الحصول على أو تعيين حجم خط البكسل بالبايت لمعالجة البيانات الأولية |
-| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat/) { get; set; } | الحصول على أو تعيين تنسيق بيانات البكسل |
+| [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette/) { get; set; } | يحصل أو يعيّن لوحة الألوان |
+| [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter/) { get; set; } | يحصل أو يضبط محول اللون المخصص |
+| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod/) { get; set; } | يحصل أو يعيّن طريقة التمويه المستخدمة لتحويل البيانات الخام |
+| [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex/) { get; set; } | يحصل أو يضبط فهرس الاحتياطي للاستخدام عندما يكون فهرس لوحة الألوان خارج النطاق |
+| [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter/) { get; set; } | يحصل أو يضبط محول اللون المفهرس |
+| [LineSize](../../aspose.psd/rawdatasettings/linesize/) { get; set; } | يحصل أو يعيّن حجم سطر البكسلات بالبايتات لمعالجة البيانات الخام |
+| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat/) { get; set; } | يحصل أو يعيّن تنسيق بيانات البكسل |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

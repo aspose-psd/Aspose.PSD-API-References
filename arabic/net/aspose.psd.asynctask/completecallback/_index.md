@@ -1,29 +1,30 @@
 ---
-title: Delegate CompleteCallback
-second_title: Aspose.PSD لمرجع .NET API
-description: وظيفة رد الاتصال لاستلام حدث إكمال المهمة.
+title: "المندوب CompleteCallback"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "دالة رد النداء لتلقي حدث إكمال المهمة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.asynctask/completecallback/
 ---
+{{< psd/tize >}}
 ## CompleteCallback delegate
 
-وظيفة رد الاتصال لاستلام حدث إكمال المهمة.
+دالة رد الاتصال لتلقي حدث إكمال المهمة.
 
 ```csharp
 public delegate void CompleteCallback(IAsyncTask task, bool wasCancelled, Exception error);
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | task | IAsyncTask | المهمة غير المتزامنة. |
-| wasCancelled | Boolean | إذا تم التعيين على`حقيقي` [كان ملغي]. |
-| error | Exception | الخطأ. |
+| wasCancelled | Boolean | إذا تم تعيينه إلى `true` [تم الإلغاء]. |
+| خطأ | استثناء | الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../iasynctask/)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

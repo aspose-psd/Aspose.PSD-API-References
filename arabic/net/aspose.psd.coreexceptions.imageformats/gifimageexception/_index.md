@@ -1,30 +1,31 @@
 ---
-title: Class GifImageException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.GifImageException فصل. استثناء صورة Gif .
+title: "الفئة GifImageException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.CoreExceptions.ImageFormats.GifImageException. استثناء صورة Gif"
 type: docs
 weight: 520
 url: /ar/net/aspose.psd.coreexceptions.imageformats/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException class
 
-استثناء صورة Gif .
+استثناء صورة Gif.
 
 ```csharp
 public class GifImageException : ImageException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GifImageException](gifimageexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`GifImageException` فئة . |
-| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`GifImageException` فئة . |
+| [GifImageException](gifimageexception/#constructor)(string) | يُهيئ مثيلًا جديدًا من الفئة `GifImageException`. |
+| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | يُهيئ مثيلًا جديدًا من الفئة `GifImageException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

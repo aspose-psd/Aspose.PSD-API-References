@@ -1,27 +1,28 @@
 ---
-title: Rational.FloatValue
-second_title: Aspose.PSD لمرجع .NET API
-description: Rational ملكية. الحصول على قيمة الطفو .
+title: "Rational.FloatValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rational. تحصل على القيمة العائمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
-الحصول على قيمة الطفو .
+يحصل على القيمة العائمة.
 
 ```csharp
 public float FloatValue { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة العائمة .
+القيمة العائمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rational](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

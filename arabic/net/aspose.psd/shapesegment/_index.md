@@ -1,14 +1,15 @@
 ---
-title: Class ShapeSegment
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ShapeSegment فصل. يمثل مقطع شكل. المقطع عبارة عن خط أو منحنى يربط بين نقطتين.
+title: "الفئة ShapeSegment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ShapeSegment. تمثل جزءًا من الشكل. الجزء هو خط أو منحنى يربط نقطتين."
 type: docs
-weight: 5430
+weight: 5930
 url: /ar/net/aspose.psd/shapesegment/
 ---
+{{< psd/tize >}}
 ## ShapeSegment class
 
-يمثل مقطع شكل. المقطع عبارة عن خط أو منحنى يربط بين نقطتين.
+يمثل مقطع الشكل. المقطع هو خط أو منحنى يربط نقطتين.
 
 ```csharp
 public abstract class ShapeSegment
@@ -16,14 +17,14 @@ public abstract class ShapeSegment
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | يحصل على نقطة النهاية . |
-| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | يحصل على نقطة البداية . |
+| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | يحصل على نقطة النهاية. |
+| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | يحصل على نقطة البداية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

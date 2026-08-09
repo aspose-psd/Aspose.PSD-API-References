@@ -1,11 +1,12 @@
 ---
-title: LayerResource.ResourceSignature
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerResource مجال. توقيع المورد المشترك.
+title: "LayerResource.ResourceSignature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل LayerResource. توقيع المورد المشترك"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.ResourceSignature field
 
 توقيع المورد المشترك.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 public const int ResourceSignature;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

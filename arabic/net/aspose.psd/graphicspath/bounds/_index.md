@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Bounds
-second_title: Aspose.PSD لمرجع .NET API
-description: GraphicsPath ملكية. الحصول على أو تعيين حدود الكائن.
+title: "GraphicsPath.Bounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GraphicsPath. تحصل أو تعيّن حدود الكائن."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/graphicspath/bounds/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Bounds property
 
-الحصول على أو تعيين حدود الكائن.
+يحصل أو يعيّن حدود الكائن.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حدود الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* مساحة الاسم [Aspose.PSD](../../graphicspath/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

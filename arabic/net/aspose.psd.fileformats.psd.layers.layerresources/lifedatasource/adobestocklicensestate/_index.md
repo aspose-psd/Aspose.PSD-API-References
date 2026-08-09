@@ -1,26 +1,27 @@
 ---
-title: LiFeDataSource.AdobeStockLicenseState
-second_title: Aspose.PSD لمرجع .NET API
-description: LiFeDataSource ملكية. يحصل على حالة ترخيص مخزون Adobe  إذا كان متاحًا  لمكتبات Adobe Photoshop CC .
+title: "LiFeDataSource.AdobeStockLicenseState"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "LiFeDataSource property. تحصل على حالة ترخيص Adobe Stock إذا كان متاحًا لمكتبات Adobe Photoshop CC"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.AdobeStockLicenseState property
 
-يحصل على حالة ترخيص مخزون Adobe ، إذا كان متاحًا ، لمكتبات Adobe® Photoshop® CC .
+يحصل على حالة ترخيص Adobe Stock إذا كان متاحاً، لمكتبات Adobe® Photoshop® CC.
 
 ```csharp
 public string AdobeStockLicenseState { get; }
 ```
 
-### Property_Value
+### Property Value
 
-حالة ترخيص مخزون Adobe أو السلسلة الفارغة إذا لم تكن متوفرة.
+حالة ترخيص Adobe Stock أو سلسلة فارغة إذا لم يكن متاحًا.
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد LnkeResource.
+يوضح الكود التالي دعم مورد LnkeResource.
 
 ```csharp
 [C#]
@@ -215,7 +216,7 @@ void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length
                         liFeSource.CompId = int.MaxValue;
                     }
 
-                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png ";
+                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                     liFeSource.FileName = "rgb8_2x23.png";
                     liFeSource.ChildDocId = Guid.NewGuid().ToString();
                     liFeSource.Date = DateTime.Now;
@@ -242,10 +243,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LiFeDataSource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على عرض الصورة .
+title: "Layer.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل على عرض الصورة"
 type: docs
-weight: 320
+weight: 330
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/width/
 ---
+{{< psd/tize >}}
 ## Layer.Width property
 
-الحصول على عرض الصورة .
+يحصل على عرض الصورة.
 
 ```csharp
 public override int Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عرض الصورة .
+عرض الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

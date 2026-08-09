@@ -1,94 +1,95 @@
 ---
-title: Class SoLdResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLdResource فصل. يحدد فئة SoLdResource التي تحتوي على معلومات حول طبقة كائن ذكية في ملف PSD. يستخدم لدعم طبقات الكائنات الذكية في صور Adobe Photoshop .
+title: "الفئة SoLdResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLdResource. تُعرّف فئة SoLdResource التي تحتوي على معلومات حول طبقة كائن ذكي في ملف PSD. تُستخدم لدعم طبقات الكائنات الذكية في صور Adobe Photoshop."
 type: docs
-weight: 3020
+weight: 3370
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource class
 
-يحدد فئة SoLdResource التي تحتوي على معلومات حول طبقة كائن ذكية في ملف PSD. يستخدم لدعم طبقات الكائنات الذكية في صور Adobe® Photoshop® .
+يعرّف فئة SoLdResource التي تحتوي على معلومات حول طبقة كائن ذكي في ملف PSD. يُستخدم لدعم طبقات الكائنات الذكية في صور Adobe® Photoshop®.
 
 ```csharp
 public class SoLdResource : SmartObjectResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SoLdResource](soldresource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`SoLdResource` class. تم تصميم المُنشئ الافتراضي هذا للاستخدام بواسطةSoLdResourceLoader . استخدم[`SmartResourceCreator`](../smartresourcecreator/) لإنشاء فئات SoLdResource. |
-| [SoLdResource](soldresource/#constructor_1)(Guid, bool, bool) | يقوم بتهيئة مثيل جديد لملف`SoLdResource` class. من الضروري تعيين خاصية العناصر أو استدعاء InitializeItems () للحصول على مثيل جاهز . تم تصميم هذا المُنشئ للاستخدام بواسطة[`SmartResourceCreator`](../smartresourcecreator/) وفي اختبارات الوحدة . استخدم[`SmartResourceCreator`](../smartresourcecreator/) لإنشاء فئات SoLdResource. |
+| [SoLdResource](soldresource/#constructor)() | يُنشئ مثيلًا جديدًا من الفئة `SoLdResource`. تم تصميم هذا المُنشئ الافتراضي للاستخدام بواسطة SoLdResourceLoader. استخدم [`SmartResourceCreator`](../smartresourcecreator/) لإنشاء فئات SoLdResource. |
+| [SoLdResource](soldresource/#constructor_1)(Guid, bool, bool) | يُنشئ مثيلًا جديدًا من الفئة `SoLdResource`. من الضروري تعيين خاصية Items أو استدعاء InitializeItems() للحصول على مثيل جاهز. تم تصميم هذا المُنشئ للاستخدام بواسطة [`SmartResourceCreator`](../smartresourcecreator/) وفي اختبارات الوحدة. استخدم [`SmartResourceCreator`](../smartresourcecreator/) لإنشاء فئات SoLdResource. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | الحصول على أو تعيين سياسة مكافحة الاسم المستعار لبيانات طبقة الكائن الذكي في صورة PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | الحصول على أو تحديد الموقع السفلي للطبقة الموضوعة في صورة PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | الحصول على أو تعيين حدود الطبقة الموضوعة في ملف PSD. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | الحصول على أو تعيين قيمة comp لبيانات طبقة الكائن الذكي في ملف PSD.[تراكبات الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | الحصول على أو تعيين معرف التركيب المحدد حاليًا للمستند الفرعي ، والذي سيكون -1 إذا لم يتم تحديد أي منها . التركيبات هي تركيبات لتخطيط الصفحة والتي يمكن للمصممين إنشاؤها. باستخدام تركيبات الطبقة ، يمكنك إنشاء إصدارات متعددة من التخطيط وإدارتها وعرضها في ملف Adobe® Photoshop® واحد. تراكب الطبقة هو لقطة لحالة لوحة Layers. تقوم تركيبات الطبقة بحفظ ثلاثة أنواع من خيارات الطبقة ولكن تحصل هذه الخاصية على معرف تحديد تراكب الطبقة لطبقة الكائن الذكي في ملف PSD.[تراكبات الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | الحصول على أو تعيين اقتصاص بيانات طبقة الكائن الذكي في صورة PSD. |
-| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | الحصول على أو تحديد مقام المدة. |
-| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | الحصول على بسط المدة أو تعيينه. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | الحصول على أو تعيين عدد الإطارات لبيانات طبقة الكائن الذكية في ملف PSD. |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | الحصول على أو تعيين مقام خطوة الإطار. |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | الحصول على أو تعيين بسط خطوة الإطار. |
-| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | الحصول على الارتفاع أو تحديده . |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | الحصول على أو تعيين نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | الحصول على أو تعيين وحدة قياس نقاط الشبكة الأفقية . |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | الحصول على قيمة أو تعيينها للإشارة إلى ما إذا كان نمط التواء في المثيل مخصصًا أم لا. إذا تم الضبط على خطأ ، فإنه يمحو نقاط الشبكة. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | الحصول على أو تعيين عناصر واصف بيانات طبقة الكائن الذكي في ملف PSD. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/key/) { get; } | يحصل على مفتاح مورد طبقة الكائن الذكي SoLd. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | الحصول على أو تحديد الموقع الأيسر للطبقة الموضوعة في ملف PSD. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | الحصول على طول مورد الكائن الذكي بالبايت. |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | الحصول على أو تعيين مصفوفة التحويل غير الأفيني لبيانات طبقة الكائن الذكي في ملف PSD. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | يحصل على المعرف الأصلي لـ Comp المحدد حاليًا للمستند الفرعي ، والذي سيكون -1 إذا لم يتم تحديد أي منها . تحصل هذه الخاصية على معرف تحديد Comp للطبقة الأصلية لطبقة الكائن الذكي في ملف PSD.[تراكبات الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | الحصول على أو تعيين رقم صفحة بيانات طبقة الكائن الذكي في ملف PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | الحصول على أو تعيين قيمة المنظور للطبقة الموضوعة في ملف PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | الحصول على أو تحديد قيمة المنظور الأخرى للطبقة الموضوعة في ملف PSD. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | الحصول على أو تعيين المعرف الفريد لبيانات طبقة الكائن الذكي هذه في صورة PSD. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | الحصول على أو تعيين نوع بيانات طبقة الكائن الذكي في ملف PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | يحصل على الحد الأدنى من إصدار psd المطلوب لمورد الكائن الذكي. 0 يشير إلى عدم وجود قيود. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | الحصول على أو تعيين دقة بيانات طبقة الكائن الذكي في ملف PSD. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | الحصول على أو تعيين وحدة قياس الدقة لبيانات طبقة الكائن الذكي في ملف PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | الحصول على أو تحديد الموقع الصحيح للطبقة الموضوعة في ملف PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | الحصول على توقيع مورد الكائن الذكي. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | الحصول على أو تحديد الموقع العلوي للطبقة الموضوعة في صورة PSD. |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | الحصول على أو تعيين إجمالي عدد صفحات بيانات طبقة الكائن الذكي في ملف PSD. |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | الحصول على أو تعيين مصفوفة التحويل لبيانات طبقة الكائن الذكي في ملف PSD. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | الحصول على أو تعيين المعرف الفريد العام لبيانات طبقة الكائن الذكي[`SmartObjectResource`](../smartobjectresource/) في صورة PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | الحصول على أو تعيين قيمة طلب U للطبقة الموضوعة في ملف PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | الحصول على أو تعيين قيمة التواء للطبقة الموضوعة في صورة PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | يحصل على نسخة الطبقة الموضوعة في ملف PSD ، عادة 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | الحصول على أو تعيين نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | الحصول على أو تحديد وحدة قياس نقاط الشبكة العمودية. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | الحصول على أو تعيين قيمة ترتيب V للطبقة الموضوعة في ملف PSD. |
-| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | الحصول على العرض أو تحديده . |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | يحصل أو يضبط سياسة إلغاء التعرّج لبيانات طبقة الكائن الذكي في صورة PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | يحصل أو يضبط موقع الأسفل للطبقة الموضوعة في صورة PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | يحصل أو يضبط حدود الطبقة الموضوعة في ملف PSD. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | يحصل أو يضبط قيمة الـ comp لبيانات طبقة الكائن الذكي في ملف PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | يحصل أو يضبط معرف الـ comp المحدد حالياً للمستند الفرعي، والذي سيكون -1 إذا لم يتم اختيار أي منهما. الـ comps هي تركيبات لتصميم الصفحة يمكن للمصممين إنشاؤها. باستخدام تركيبات الطبقة، يمكنك إنشاء وإدارة وعرض إصدارات متعددة لتصميم في ملف Adobe Photoshop واحد. تركيبة الطبقة هي لقطة لحالة لوحة الطبقات. تحفظ تركيبات الطبقة ثلاثة أنواع من خيارات الطبقة لكن هذه الخاصية تحصل على معرف اختيار تركيبة الطبقة للطبقة الكائن الذكي في ملف PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | يحصل أو يضبط قص بيانات طبقة الكائن الذكي في صورة PSD. |
+| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | يحصل أو يضبط مقام المدة. |
+| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | يحصل أو يعيّن البسط للمدة. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | يحصل أو يعيّن عدد الإطارات لبيانات طبقة الكائن الذكي في ملف PSD. |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | يحصل أو يعيّن مقام خطوة الإطار. |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | يحصل أو يعيّن بسط خطوة الإطار. |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | يحصل أو يعيّن الارتفاع. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | يحصل أو يضبط نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | يحصل أو يضبط وحدة القياس لنقاط الشبكة الأفقية. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان نمط الالتواء لهذا المثيل مخصصًا. إذا كان صحيحًا فإنه يحتوي على نقاط الشبكة. إذا تم ضبطه على false فإنه يمسح نقاط الشبكة. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | يحصل أو يعيّن عناصر الوصف لبيانات طبقة الكائن الذكي في ملف PSD. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | يحصل أو يضبط موقع اليسار للطبقة الموضوعة في ملف PSD. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | يحصل على طول مورد الكائن الذكي بالبايت. |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | يحصل أو يعيّن مصفوفة التحويل غير المتجانسة لبيانات طبقة الكائن الذكي في ملف PSD. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | يحصل على المعرف الأصلي للمكوّن المحدد حاليًا للمستند الفرعي، والذي سيكون -1 إذا لم يتم اختيار أي شيء. هذه الخاصية تحصل على معرف اختيار المكوّن الأصلي للطبقة للكائن الذكي في ملف PSD. [مقاطع الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | يحصل أو يعيّن رقم الصفحة لبيانات طبقة الكائن الذكي في ملف PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | يحصل أو يضبط قيمة المنظور للطبقة الموضوعة في ملف PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | يحصل أو يضبط قيمة المنظور الأخرى للطبقة الموضوعة في ملف PSD. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | يحصل أو يعيّن المعرف الفريد لهذه البيانات طبقة الكائن الذكي في صورة PSD. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | يحصل أو يعيّن نوع بيانات طبقة الكائن الذكي في ملف PSD. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | يحصل أو يعيّن دقة بيانات طبقة الكائن الذكي في ملف PSD. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | يحصل أو يعيّن وحدة قياس الدقة لبيانات طبقة الكائن الذكي في ملف PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | يحصل أو يضبط موقع اليمين للطبقة الموضوعة في ملف PSD. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | يحصل أو يضبط الموقع العلوي للطبقة الموضوعة في صورة PSD. |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | يحصل أو يعيّن العدد الإجمالي للصفحات لبيانات طبقة الكائن الذكي في ملف PSD. |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | يحصل أو يعيّن مصفوفة التحويل لبيانات طبقة الكائن الذكي في ملف PSD. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | يحصل أو يعيّن المعرف الفريد العالمي لبيانات طبقة الكائن الذكي [`SmartObjectResource`](../smartobjectresource/) في صورة PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | يحصل أو يضبط قيمة ترتيب U للطبقة الموضوعة في ملف PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | يحصل أو يضبط قيمة الالتواء للطبقة الموضوعة في صورة PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | يحصل على إصدار الطبقة الموضوعة في ملف PSD، عادةً 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | يحصل أو يضبط نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | يحصل أو يضبط وحدة القياس لنقاط الشبكة العمودية. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | يحصل أو يضبط قيمة ترتيب V للطبقة الموضوعة في ملف PSD. |
+| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | يحصل أو يعيّن العرض. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | يحفظ مورد الكائن الذكي في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | يحفظ مورد الكائن الذكي إلى حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/typetoolkey/) | مفتاح معلومات أداة النوع: "SoLd" . |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/typetoolkey/) | مفتاح معلومات أداة النوع: 'SoLd'. |
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد SoLdResource.
+الكود التالي يوضح دعم مورد SoLdResource.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال كيفية الحصول على أو تعيين خصائص بيانات طبقة الكائن الذكية لملف PSD.
+// يوضح هذا المثال كيفية الحصول على خصائص بيانات طبقة الكائن الذكي أو تعيينها في ملف PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -322,8 +323,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضًا
-                // ويجب أن يكون بعضها متوافقًا مع الكائن الذكي الذي تحته خط في LinkDataSource
+                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضاً.
+                // ويجب أن تكون بعضها متوافقة مع الكائن الذكي الأساسي في LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -368,19 +369,21 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // يجب تغيير هذا المعرف الفريد في المراجع إن وجدت
+                // يجب تغيير هذا المعرف الفريد في المراجع إذا وجدت.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // كن حذرًا مع بعض المعلمات: قد تصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
-                ////resource.UOrder = 6 ;
-                ////resource.VOrder = 9 ;
+                // احذر من بعض المعلمات: قد يصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // لا تقم بتغيير هذا وإلا فلن تتمكن من استخدام التحويل المجاني
-                // أو قم بتغيير الكائن الذكي الذي تحته خط إلى نوع المتجه
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // لا تقم بتغيير هذا وإلا 
+ لن تتمكن من استخدام التحويل الحر.
+                // أو 
+ غيّر الكائن الذكي الأساسي إلى النوع المتجه.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // يجب أن يكون هناك PlLdResource صالحًا بهذا المعرف الفريد
-                ////resource.UniqueId = دليل جديد ("98765432-10fe-cba0-1234-56789abcdef0") ;
+                // يجب أن يكون هناك PlLdResource صالح بهذا المعرف الفريد.
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -392,10 +395,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectResource](../smartobjectresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

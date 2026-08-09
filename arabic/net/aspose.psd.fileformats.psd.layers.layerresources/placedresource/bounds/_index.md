@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.Bounds
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تعيين حدود الطبقة الموضوعة في ملف PSD.
+title: "PlacedResource.Bounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط حدود الطبقة الموضوعة في ملف PSD"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bounds property
 
-الحصول على أو تعيين حدود الطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط حدود الطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حدود الطبقة الموضوعة .
+حدود الطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

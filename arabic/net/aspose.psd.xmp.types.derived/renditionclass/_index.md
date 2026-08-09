@@ -1,44 +1,45 @@
 ---
-title: Class RenditionClass
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Derived.RenditionClass فصل. يمثل إصدار XMP .
+title: "الفئة RenditionClass"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Types.Derived.RenditionClass الفئة. يمثل XMP Rendition"
 type: docs
-weight: 6130
+weight: 6630
 url: /ar/net/aspose.psd.xmp.types.derived/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass class
 
-يمثل إصدار XMP .
+يمثل XMP Rendition.
 
 ```csharp
 public sealed class RenditionClass : XmpTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RenditionClass](renditionclass/#constructor)() | يقوم بتهيئة مثيل جديد لملف`RenditionClass` فئة . |
-| [RenditionClass](renditionclass/#constructor_1)(string, string) | يقوم بتهيئة مثيل جديد لملف`RenditionClass` فئة . |
+| [RenditionClass](renditionclass/#constructor)() | يُنشئ مثيلة جديدة من الفئة `RenditionClass`. |
+| [RenditionClass](renditionclass/#constructor_1)(string, string) | يُنشئ مثيلة جديدة من الفئة `RenditionClass`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Token](../../aspose.psd.xmp.types.derived/renditionclass/token/) { get; set; } | الحصول على الرمز المميز أو تعيينه. |
-| [Value](../../aspose.psd.xmp.types.derived/renditionclass/value/) { get; set; } | الحصول على القيمة أو تعيينها. |
-| static [DefinedValues](../../aspose.psd.xmp.types.derived/renditionclass/definedvalues/) { get; } | القيم المحددة |
+| [Token](../../aspose.psd.xmp.types.derived/renditionclass/token/) { get; set; } | يحصل على أو يضبط الرمز. |
+| [Value](../../aspose.psd.xmp.types.derived/renditionclass/value/) { get; set; } | يحصل أو يعيّن القيمة. |
+| static [DefinedValues](../../aspose.psd.xmp.types.derived/renditionclass/definedvalues/) { get; } | القيم المعرفة |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,36 +1,37 @@
 ---
-title: Class PsdImageResourceException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException فصل. استثناء مورد صورة psd .
+title: "الفئة PsdImageResourceException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException. استثناء مورد صورة psd"
 type: docs
 weight: 600
 url: /ar/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException class
 
-استثناء مورد صورة psd .
+استثناء مورد صورة psd.
 
 ```csharp
 public class PsdImageResourceException : PsdImageException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | يقوم بتهيئة مثيل جديد لملف`PsdImageResourceException` فئة . |
-| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | يقوم بتهيئة مثيل جديد لملف`PsdImageResourceException` فئة . |
+| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | يُهيئ مثيلًا جديدًا من الفئة `PsdImageResourceException`. |
+| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | يُهيئ مثيلًا جديدًا من الفئة `PsdImageResourceException`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | يحصل على مورد psd الذي تسبب في هذا الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImageException](../psdimageexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

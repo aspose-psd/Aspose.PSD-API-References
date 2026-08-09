@@ -1,23 +1,24 @@
 ---
-title: Rectangle.Normalize
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. تسوية المستطيل بجعل عرضه وارتفاعه موجبين  اليسار أقل من اليمين والجزء العلوي أقل من الأسفل .
+title: "Rectangle.Normalize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تقوم بتطبيع المستطيل بجعل عرضه وارتفاعه إيجابيين، بحيث يكون اليسار أصغر من اليمين والعلو أصغر من الأسفل"
 type: docs
 weight: 260
 url: /ar/net/aspose.psd/rectangle/normalize/
 ---
+{{< psd/tize >}}
 ## Rectangle.Normalize method
 
-تسوية المستطيل بجعل عرضه وارتفاعه موجبين ، اليسار أقل من اليمين والجزء العلوي أقل من الأسفل .
+يُعَدِّل المستطيل بجعل عرضه وارتفاعه إيجابيين، واليسار أصغر من اليمين، والعلو أصغر من الأسفل.
 
 ```csharp
 public void Normalize()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

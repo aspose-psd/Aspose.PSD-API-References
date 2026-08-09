@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Photoshop
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. مساحة أسماء Adobe Photoshop .
+title: "Namespaces.Photoshop"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. مساحة اسم Adobe Photoshop"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp/namespaces/photoshop/
 ---
+{{< psd/tize >}}
 ## Namespaces.Photoshop field
 
-مساحة أسماء Adobe Photoshop .
+مساحة الاسم Adobe Photoshop.
 
 ```csharp
 public const string Photoshop;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

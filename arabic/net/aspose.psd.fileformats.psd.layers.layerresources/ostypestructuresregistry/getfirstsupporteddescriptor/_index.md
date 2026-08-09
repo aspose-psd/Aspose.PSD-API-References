@@ -1,36 +1,37 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructuresRegistry طريقة. يحصل على أول واصف افتتاحية مدعوم.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة OSTypeStructuresRegistry. يحصل على أول موصّف للفتح مدعوم"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptor method
 
-يحصل على أول واصف افتتاحية مدعوم.
+يحصل على أول مُوَصِّف للفتح المدعوم.
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptor(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| stream | Stream | التدفق. |
 
 ### قيمة الإرجاع
 
-واصف محمل مورد الطبقة أو خالٍ إذا لم يتم دعم واصف محمل لهذا التدفق.
+وصف محمل مورد الطبقة أو null إذا لم يكن هناك وصف محمل مدعوم لهذا التدفق.
 
-### ملاحظات
+## ملاحظات
 
-سيكون المحمل الأول هو آخر محمل مسجل.
+المحمّل الأول سيكون في الواقع الأخير المسجل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: RasterImage.SaveArgb32Pixels
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يحفظ 32 بت ARGB بكسل .
+title: "RasterImage.SaveArgb32Pixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تحفظ بكسلات ARGB 32 بت"
 type: docs
-weight: 500
+weight: 510
 url: /ar/net/aspose.psd/rasterimage/saveargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveArgb32Pixels method
 
-يحفظ 32 بت ARGB بكسل .
+يحفظ بكسلات ARGB 32-بت.
 
 ```csharp
 public void SaveArgb32Pixels(Rectangle rectangle, int[] pixels)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل الذي سيتم حفظ البكسل فيه. |
-| pixels | Int32[] | صفيف ARGB بكسل 32 بت. |
+| مستطيل | Rectangle | المستطيل لحفظ البكسلات إليه. |
+| بكسلات | Int32[] | مصفوفة بكسلات ARGB 32‑بت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

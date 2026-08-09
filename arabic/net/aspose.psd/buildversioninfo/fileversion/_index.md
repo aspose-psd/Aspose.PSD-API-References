@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: BuildVersionInfo مجال. إصدار الملف .
+title: "BuildVersionInfo.FileVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل BuildVersionInfo. إصدار الملف"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/buildversioninfo/fileversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.FileVersion field
 
-إصدار الملف .
+إصدار الملف.
 
 ```csharp
 public static readonly string FileVersion;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BuildVersionInfo](../)
-* مساحة الاسم [Aspose.PSD](../../buildversioninfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

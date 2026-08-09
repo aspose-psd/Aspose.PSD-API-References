@@ -1,27 +1,28 @@
 ---
-title: MixerChannel.Constant
-second_title: Aspose.PSD لمرجع .NET API
-description: MixerChannel ملكية. الحصول على أو تعيين ثابت القناة.
+title: "MixerChannel.Constant"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MixerChannel. يحصل أو يحدد الثابت للقناة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/
 ---
+{{< psd/tize >}}
 ## MixerChannel.Constant property
 
-الحصول على أو تعيين ثابت القناة.
+يحصل أو يضبط الثابت الخاص بالقناة.
 
 ```csharp
 public short Constant { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الثابت .
+الثابت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MixerChannel](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

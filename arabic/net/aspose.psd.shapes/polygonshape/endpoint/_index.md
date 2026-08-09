@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.EndPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: PolygonShape ملكية. الحصول على نقطة شكل النهاية .
+title: "PolygonShape.EndPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PolygonShape. يحصل على نقطة النهاية للشكل"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.shapes/polygonshape/endpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.EndPoint property
 
-الحصول على نقطة شكل النهاية .
+يحصل على نقطة النهاية للشكل.
 
 ```csharp
 public virtual PointF EndPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة شكل النهاية.
+نقطة النهاية للشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../polygonshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

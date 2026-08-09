@@ -1,27 +1,28 @@
 ---
-title: AsyncTaskException.AsyncTaskException
-second_title: Aspose.PSD لمرجع .NET API
-description: AsyncTaskException البناء. يقوم بتهيئة مثيل جديد لملفAsyncTaskException فئة .
+title: "AsyncTaskException.AsyncTaskException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ AsyncTaskException. يهيئ مثيلاً جديداً لفئة AsyncTaskException."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException constructor
 
-يقوم بتهيئة مثيل جديد لملف[`AsyncTaskException`](../) فئة .
+يهيئ مثيلاً جديداً للفئة [`AsyncTaskException`](../).
 
 ```csharp
 public AsyncTaskException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة التي تصف الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AsyncTaskException](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../asynctaskexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

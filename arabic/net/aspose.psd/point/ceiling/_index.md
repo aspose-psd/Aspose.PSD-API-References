@@ -1,32 +1,33 @@
 ---
-title: Point.Ceiling
-second_title: Aspose.PSD لمرجع .NET API
-description: Point طريقة. تحويل المحددPointF إلى أPoint عن طريق تقريب قيمPointF إلى قيم الأعداد الصحيحة الأعلى التالية.
+title: "Point.Ceiling"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Point. تُحوّل الـPointF المحدد إلى Point عن طريق تقريب قيم الـPointF إلى القيم الصحيحة الأعلى التالية."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/point/ceiling/
 ---
+{{< psd/tize >}}
 ## Point.Ceiling method
 
-تحويل المحدد[`PointF`](../../pointf/) إلى أ[`Point`](../) عن طريق تقريب قيم[`PointF`](../../pointf/) إلى قيم الأعداد الصحيحة الأعلى التالية.
+تُحوّل الـ[`PointF`](../../pointf/) المحدد إلى الـ[`Point`](../) عن طريق تقريب قيم الـ[`PointF`](../../pointf/) إلى القيم الصحيحة الأعلى التالية.
 
 ```csharp
 public static Point Ceiling(PointF point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | PointF | ال[`PointF`](../../pointf/) لتحويل. |
+| point | PointF | الـ[`PointF`](../../pointf/) للتحويل. |
 
 ### قيمة الإرجاع
 
-ال[`Point`](../) هذه الطريقة تتحول إلى.
+الـ [`Point`](../) التي يتحول إليها هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

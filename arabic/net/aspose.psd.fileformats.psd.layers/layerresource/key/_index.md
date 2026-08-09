@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "LayerResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerResource. يحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerresource/key/
 ---
+{{< psd/tize >}}
 ## LayerResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
 
 ```csharp
-public abstract int Key { get; }
+public int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: Class ClblResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClblResource فصل. Class ClblResource. يحتوي هذا المورد على معلومات حول مزج العنصر المقطوع.
+title: "الفئة ClblResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClblResource فئة. فئة ClblResource. يحتوي هذا المورد على معلومات حول دمج العنصر المقصوص"
 type: docs
-weight: 2370
+weight: 2630
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/
 ---
+{{< psd/tize >}}
 ## ClblResource class
 
-Class ClblResource. يحتوي هذا المورد على معلومات حول مزج العنصر المقطوع.
+الفئة ClblResource. هذا المورد يحتوي على معلومات حول دمج العنصر المقصوص.
 
 ```csharp
 public class ClblResource : BooleanResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ClblResource](clblresource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ClblResource` فئة . |
-| [ClblResource](clblresource/#constructor_1)(bool) | يقوم بتهيئة مثيل جديد لملف`ClblResource` فئة . |
-| [ClblResource](clblresource/#constructor_2)(byte[]) | يقوم بتهيئة مثيل جديد لملف`ClblResource` class. بقيمة مخصصة أو غير معروفة |
+| [ClblResource](clblresource/#constructor)() | يُنشئ مثلاً جديداً من فئة `ClblResource`. |
+| [ClblResource](clblresource/#constructor_1)(bool) | يُنشئ مثلاً جديداً من فئة `ClblResource`. |
+| [ClblResource](clblresource/#constructor_2)(byte[]) | يُنشئ مثلاً جديداً من فئة `ClblResource`. بقيمة مخصصة أو غير معروفة |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [مزيج العناصر المقصوصة] . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | يحصل على التوقيع. |
+| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [blend clipped elements]. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | يحفظ حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | يحفظ حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BooleanResource](../booleanresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

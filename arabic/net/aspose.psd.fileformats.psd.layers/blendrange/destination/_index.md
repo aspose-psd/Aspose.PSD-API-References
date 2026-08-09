@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Destination
-second_title: Aspose.PSD لمرجع .NET API
-description: BlendRange ملكية. الحصول على أو تحديد نطاق المزج الوجهة.
+title: "BlendRange.Destination"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlendRange. تحصّل أو تضبط نطاق الدمج الوجهة."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 ---
+{{< psd/tize >}}
 ## BlendRange.Destination property
 
-الحصول على أو تحديد نطاق المزج الوجهة.
+يحصل أو يضبط نطاق الدمج الوجهة.
 
 ```csharp
 public int Destination { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نطاق المزج الوجهة .
+نطاق الدمج الوجهة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlendRange](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSImgDirectionRef
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على مرجع GPS أو تعيينه لإعطاء اتجاه الصورة عند التقاطها.
+title: "ExifData.GPSImgDirectionRef"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين المرجع GPS لتحديد اتجاه الصورة عند التقاطها"
 type: docs
 weight: 510
 url: /ar/net/aspose.psd.exif/exifdata/gpsimgdirectionref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSImgDirectionRef property
 
-الحصول على مرجع GPS أو تعيينه لإعطاء اتجاه الصورة عند التقاطها.
+الحصول أو تعيين مرجع GPS لتحديد اتجاه الصورة عند التقاطها.
 
 ```csharp
 public string GPSImgDirectionRef { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مرجع GPS لإعطاء اتجاه الصورة عند التقاطها.
+المرجع GPS لتحديد اتجاه الصورة عند التقاطها.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

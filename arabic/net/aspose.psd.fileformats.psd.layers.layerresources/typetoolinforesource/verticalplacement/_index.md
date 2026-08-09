@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.VerticalPlacement
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على أو تحديد الموضع الرأسي .
+title: "TypeToolInfoResource.VerticalPlacement"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط الموضع العمودي"
 type: docs
-weight: 260
+weight: 230
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/verticalplacement/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.VerticalPlacement property
 
-الحصول على أو تحديد الموضع الرأسي .
+يحصل أو يضبط الموضع الرأسي.
 
 ```csharp
 public int VerticalPlacement { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الوضع الرأسي .
+الموضع العمودي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

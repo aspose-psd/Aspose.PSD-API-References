@@ -1,11 +1,12 @@
 ---
-title: Class XmpDate
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpDate فصل. يمثل التاريخ في حزمة XMP.
+title: "الفئة XmpDate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Types.Basic.XmpDate. تمثّل التاريخ في حزمة XMP"
 type: docs
-weight: 5950
+weight: 6450
 url: /ar/net/aspose.psd.xmp.types.basic/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate class
 
 يمثل التاريخ في حزمة XMP.
@@ -14,40 +15,40 @@ url: /ar/net/aspose.psd.xmp.types.basic/xmpdate/
 public sealed class XmpDate : XmpTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpDate](xmpdate/#constructor)(DateTime) | يقوم بتهيئة مثيل جديد لملف`XmpDate` فئة . |
-| [XmpDate](xmpdate/#constructor_1)(string) | يقوم بتهيئة مثيل جديد لملف`XmpDate` فئة . |
+| [XmpDate](xmpdate/#constructor)(DateTime) | يُهيئ مثيلًا جديدًا من الفئة `XmpDate`. |
+| [XmpDate](xmpdate/#constructor_1)(string) | يُهيئ مثيلًا جديدًا من الفئة `XmpDate`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Format](../../aspose.psd.xmp.types.basic/xmpdate/format/) { get; } | يحصل على سلسلة التنسيق للقيمة الحالية. |
-| [Value](../../aspose.psd.xmp.types.basic/xmpdate/value/) { get; set; } | الحصول على قيمة التاريخ أو تعيينها. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpdate/value/) { get; set; } | يحصل أو يضبط قيمة التاريخ. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | سلسلة إرجاع القيمة المضمنة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | يعيد القيمة النصية المحتواة بتنسيق XMP. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | سلسلة تنسيق ISO 8601 (ذهاب وإياب). |
+| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | سلسلة تنسيق ISO 8601 (دورة كاملة). |
 
-### ملاحظات
+## ملاحظات
 
-يتم تمثيل قيمة التاريخ والوقت باستخدام مجموعة فرعية من التنسيقات على النحو المحدد في تنسيقات التاريخ والوقت: YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh: mmTZD YYYY-MM-DDT MM-DDThh: mm: ss.sTZD
+يتم تمثيل قيمة التاريخ والوقت باستخدام مجموعة فرعية من الصيغ كما هو معرف في صيغ التاريخ والوقت: YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD YYYY-MM-DDThh:mm:ss.sTZD
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

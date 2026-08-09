@@ -1,27 +1,28 @@
 ---
-title: IOrderedShape.IsClosed
-second_title: Aspose.PSD لمرجع .NET API
-description: IOrderedShape ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة الشكل المرتب المغلق  لا معنى لنقطتي البداية والنهاية.
+title: "IOrderedShape.IsClosed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IOrderedShape. تُحصل على أو تُعيّن قيمة تُشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة شكل مرتب مغلق لا يكون للنقطة البداية والنقطة النهاية أي معنى"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/iorderedshape/isclosed/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.IsClosed property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة الشكل المرتب المغلق ، لا معنى لنقطتي البداية والنهاية.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة شكل مرتب مغلق لا يكون للنقطة البداية والنهاية أي معنى.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا الشكل المرتب مغلقًا ؛ خلاف ذلك،`خطأ شنيع`.
+`True` إذا كان هذا الشكل المرتب مغلقًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IOrderedShape](../)
-* مساحة الاسم [Aspose.PSD](../../iorderedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

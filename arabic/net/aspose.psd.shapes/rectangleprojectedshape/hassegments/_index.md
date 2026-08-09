@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.HasSegments
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleProjectedShape ملكية. الحصول على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع.
+title: "RectangleProjectedShape.HasSegments"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleProjectedShape. تُرجع قيمة تُشير إلى ما إذا كان الشكل يحتوي على مقاطع"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/hassegments/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.HasSegments property
 
-الحصول على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع.
+يحصل على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان الشكل يحتوي على شرائح ؛ خلاف ذلك،`خطأ شنيع`.
+`True` إذا كان الشكل يحتوي على مقاطع؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RectangleProjectedShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: OuterGlowEffect.Noise
-second_title: Aspose.PSD لمرجع .NET API
-description: OuterGlowEffect ملكية. الحصول على الضوضاء أو ضبطها .
+title: "OuterGlowEffect.Noise"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "OuterGlowEffect property. يحصل أو يضبط الضوضاء"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Noise property
 
-الحصول على الضوضاء أو ضبطها .
+يحصل أو يضبط الضوضاء.
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الضوضاء .
+الضوضاء.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب تحديد الضوضاء كنسبة مئوية في النطاق من 0 إلى 100 |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم OuterGlowEffect.
+يوضح الشيفرة التالية دعم OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -47,10 +48,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OuterGlowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

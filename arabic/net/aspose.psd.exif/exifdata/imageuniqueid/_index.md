@@ -1,27 +1,28 @@
 ---
-title: ExifData.ImageUniqueID
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد المعرف الفريد للصورة.
+title: "ExifData.ImageUniqueID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط المعرف الفريد للصورة"
 type: docs
 weight: 680
 url: /ar/net/aspose.psd.exif/exifdata/imageuniqueid/
 ---
+{{< psd/tize >}}
 ## ExifData.ImageUniqueID property
 
-الحصول على أو تحديد المعرف الفريد للصورة.
+يحصل أو يعيّن المعرف الفريد للصورة.
 
 ```csharp
 public string ImageUniqueID { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرف الفريد للصورة .
+المعرف الفريد للصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: LuniResource.LuniResource
-second_title: Aspose.PSD لمرجع .NET API
-description: LuniResource البناء. يقوم بتهيئة مثيل جديد لملفLuniResource فئة .
+title: "LuniResource.LuniResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LuniResource. يُنشئ مثيلاً جديدًا من فئة LuniResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/luniresource/
 ---
+{{< psd/tize >}}
 ## LuniResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`LuniResource`](../) فئة .
+يُنشئ مثيلاً جديدًا من الفئة [`LuniResource`](../).
 
 ```csharp
 public LuniResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LuniResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

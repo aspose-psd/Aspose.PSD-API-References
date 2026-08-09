@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureBiasValue
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد قيمة انحياز التعريض .
+title: "ExifData.ExposureBiasValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ExifData خاصية. يحصل أو يضبط قيمة انحياز التعرض"
 type: docs
 weight: 190
 url: /ar/net/aspose.psd.exif/exifdata/exposurebiasvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureBiasValue property
 
-الحصول على أو تحديد قيمة انحياز التعريض .
+يحصل أو يضبط قيمة انحياز التعرض.
 
 ```csharp
 public TiffSRational ExposureBiasValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة انحياز التعريض .
+قيمة إزاحة التعرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

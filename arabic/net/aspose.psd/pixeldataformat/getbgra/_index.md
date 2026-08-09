@@ -1,20 +1,21 @@
 ---
-title: PixelDataFormat.GetBgra
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. الحصول على لون BGRA بعدد محدد من وحدات البت لكل عينة.
+title: "PixelDataFormat.GetBgra"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PixelDataFormat. يحصل على لون BGRA بعدد محدد من البتات لكل عينة."
 type: docs
 weight: 190
 url: /ar/net/aspose.psd/pixeldataformat/getbgra/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetBgra method
 
-الحصول على لون BGRA بعدد محدد من وحدات البت لكل عينة.
+يحصل على لون BGRA بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetBgra(int bitsPerSample)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bitsPerSample | Int32 | عدد البتات لكل عينة. |
 
@@ -22,10 +23,10 @@ public static PixelDataFormat GetBgra(int bitsPerSample)
 
 لون BGRA.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

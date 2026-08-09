@@ -1,38 +1,39 @@
 ---
-title: RectangleF.op_Division
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. ينفذ المشغل /.
+title: "RectangleF.op_Division"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تنفذ العامل /"
 type: docs
 weight: 260
 url: /ar/net/aspose.psd/rectanglef/op_division/
 ---
+{{< psd/tize >}}
 ## RectangleF Division operator
 
-ينفذ المشغل /.
+ينفّذ العملية /.
 
 ```csharp
 public static RectangleF operator /(RectangleF rectangle, float divider)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | RectangleF | المستطيل. |
-| divider | Single | الفاصل. |
+| مستطيل | RectangleF | المستطيل. |
+| فاصل | Single | الفاصل. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الفاصل - غير مسموح بالقسمة على الصفر. |
+| ArgumentOutOfRangeException | فاصل - القسمة على الصفر غير مسموح بها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

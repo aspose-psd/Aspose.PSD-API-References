@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.BitsPerPixel
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. يحصل على وحدات البت لكل بكسل .
+title: "PixelDataFormat.BitsPerPixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. تسترجع عدد البتات لكل بكسل."
 type: docs
 weight: 300
 url: /ar/net/aspose.psd/pixeldataformat/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.BitsPerPixel property
 
-يحصل على وحدات البت لكل بكسل .
+يحصل على عدد البتات لكل بكسل.
 
 ```csharp
 public int BitsPerPixel { get; }
 ```
 
-### Property_Value
+### Property Value
 
-وحدات البت لكل بكسل .
+عدد البتات لكل بكسل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

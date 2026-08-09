@@ -1,72 +1,73 @@
 ---
-title: LspfResource.LspfResource
-second_title: Aspose.PSD لمرجع .NET API
-description: LspfResource البناء. يقوم بتهيئة مثيل جديد لملفLspfResource class. بقيمة مخصصة أو غير معروفة
+title: "LspfResource.LspfResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LspfResource. يهيئ مثيلاً جديداً من الفئة LspfResource. مع قيمة مخصصة أو غير معروفة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
+{{< psd/tize >}}
 ## LspfResource(byte[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`LspfResource`](../) class. بقيمة مخصصة أو غير معروفة
+يهيئ مثيلاً جديداً من الفئة [`LspfResource`](../). مع قيمة مخصصة أو غير معروفة
 
 ```csharp
 public LspfResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات الموارد. |
+| البيانات | Byte[] | بيانات المورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | طول بيانات مورد Lspf غير صالح |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LspfResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LspfResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`LspfResource`](../).
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
     bool isPositionProtected)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | إذا تم التعيين على`حقيقي` [هي الشفافية محمية]. |
-| isCompositeProtected | Boolean | إذا تم التعيين على`حقيقي` [مركب محمي]. |
-| isPositionProtected | Boolean | إذا تم التعيين على`حقيقي` [موقف محمي]. |
+| isTransparencyProtected | Boolean | إذا تم تعيينه إلى `true` [محمي من الشفافية]. |
+| isCompositeProtected | Boolean | إذا تم تعيينه إلى `true` [محمي مركبياً]. |
+| isPositionProtected | Boolean | إذا تم تعيينه إلى `true` [محمي الموقع]. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LspfResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LspfResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`LspfResource`](../).
 
 ```csharp
 public LspfResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LspfResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

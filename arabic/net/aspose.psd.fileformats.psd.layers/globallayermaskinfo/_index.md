@@ -1,41 +1,42 @@
 ---
-title: Class GlobalLayerMaskInfo
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.GlobalLayerMaskInfo فصل. قسم قناع الطبقة العمومي .
+title: "الفئة GlobalLayerMaskInfo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.GlobalLayerMaskInfo. قسم قناع الطبقة العالمي"
 type: docs
-weight: 2050
+weight: 2180
 url: /ar/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo class
 
-قسم قناع الطبقة العمومي .
+قسم قناع الطبقة العالمي.
 
 ```csharp
 public sealed class GlobalLayerMaskInfo
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GlobalLayerMaskInfo](globallayermaskinfo/)() | Default_Constructor |
+| [GlobalLayerMaskInfo](globallayermaskinfo/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AlphaMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/) { get; set; } | الحصول على قناع ألفا أو تعيينه . |
-| [BlueMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/) { get; set; } | الحصول على القناع الأزرق أو تعيينه. |
-| [GreenMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/greenmask/) { get; set; } | الحصول على أو تعيين القناع الأخضر . |
-| [Kind](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/kind/) { get; set; } | الحصول على النوع أو تحديده. 0 = تحديد اللون - أي معكوس ؛ 1 = حماية اللون ؛ 128 = قيمة الاستخدام المخزنة لكل طبقة. هذه القيمة مفضلة. يتم استخدام القيم الأخرى للتوافق مع الإصدارات السابقة مع إصدارات بيتا. |
-| [Length](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/) { get; } | الحصول على طول قسم قناع الطبقة العام بالبايت. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/opacity/) { get; set; } | الحصول على عتامة الطبقات العامة أو تعيينها. 0 = شفاف ، 100 = معتم . |
-| [OverlayColorSpace](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/) { get; set; } | الحصول على مساحة لون التراكب أو تعيينها (قيمة غير موثقة). |
-| [RedMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/) { get; set; } | الحصول على أو تعيين القناع الأحمر . |
+| [AlphaMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/) { get; set; } | يحصل أو يعيّن قناع ألفا. |
+| [BlueMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/) { get; set; } | يسترجع أو يعيّن القناع الأزرق. |
+| [GreenMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/greenmask/) { get; set; } | يسترجع أو يعيّن القناع الأخضر. |
+| [Kind](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/kind/) { get; set; } | يسترجع أو يعيّن النوع. 0 = اللون المحدد--أي معكوس؛ 1 = اللون محمي؛ 128 = استخدم القيمة المخزنة لكل طبقة. هذه القيمة مفضلة. القيم الأخرى للتوافق العكسي مع إصدارات بيتا. |
+| [Length](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/) { get; } | يسترجع طول قسم قناع الطبقة العامة بالبايت. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/opacity/) { get; set; } | يسترجع أو يعيّن شفافية الطبقات العامة. 0 = شفاف، 100 = معتم. |
+| [OverlayColorSpace](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/) { get; set; } | يسترجع أو يعيّن مساحة لون التراكب (قيمة غير موثقة). |
+| [RedMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/) { get; set; } | يسترجع أو يعيّن القناع الأحمر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

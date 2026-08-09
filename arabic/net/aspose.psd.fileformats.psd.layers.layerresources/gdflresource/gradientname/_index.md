@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientName
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. الحصول على أو تحديد اسم التدرج اللوني .
+title: "GdFlResource.GradientName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. تحصل أو تعين اسم التدرج"
 type: docs
-weight: 80
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientName property
 
-الحصول على أو تحديد اسم التدرج اللوني .
+يحصل أو يعيّن اسم التدرج.
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم التدرج اللوني .
+اسم التدرج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,56 +1,57 @@
 ---
-title: Class MultiPageOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.MultiPageOptions فصل. الصنف الأساسي للعديد من الصفحات المدعومة بالصيغ
+title: "الفئة MultiPageOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageOptions.MultiPageOptions. الفئة الأساسية للأنساق التي تدعم صفحات متعددة"
 type: docs
-weight: 4860
+weight: 5350
 url: /ar/net/aspose.psd.imageoptions/multipageoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions class
 
-الصنف الأساسي للعديد من الصفحات المدعومة بالصيغ
+الفئة الأساسية للتنسيقات التي تدعم صفحات متعددة
 
 ```csharp
 public class MultiPageOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MultiPageOptions](multipageoptions/#constructor)() | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_5)(int) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_1)(IntRange) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_3)(IntRange[]) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_7)(int[]) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_9)(string[]) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_6)(int, Rectangle) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_2)(IntRange, Rectangle) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_4)(IntRange[], Rectangle) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_8)(int[], Rectangle) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
-| [MultiPageOptions](multipageoptions/#constructor_10)(string[], Rectangle) | يقوم بتهيئة مثيل جديد لملف`MultiPageOptions` فئة . |
+| [MultiPageOptions](multipageoptions/#constructor)() | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_5)(int) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_1)(IntRange) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_3)(IntRange[]) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_7)(int[]) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_9)(string[]) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_6)(int, Rectangle) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_2)(IntRange, Rectangle) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_4)(IntRange[], Rectangle) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_8)(int[], Rectangle) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
+| [MultiPageOptions](multipageoptions/#constructor_10)(string[], Rectangle) | ينشئ مثيلاً جديدًا من الفئة `MultiPageOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ExportArea](../../aspose.psd.imageoptions/multipageoptions/exportarea/) { get; set; } | الحصول على منطقة التصدير أو تعيينها. |
-| [MergeLayers](../../aspose.psd.imageoptions/multipageoptions/mergelayers/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [دمج الطبقات] . |
-| [Mode](../../aspose.psd.imageoptions/multipageoptions/mode/) { get; set; } | الحصول على الوضع أو تحديده . |
-| [OutputLayersNames](../../aspose.psd.imageoptions/multipageoptions/outputlayersnames/) { get; set; } | الحصول على أسماء طبقات الإخراج أو تعيينها (يعمل إذا كان تنسيق التصدير يدعم تسمية الطبقات ، على سبيل المثال لـ Psd) |
-| [PageRasterizationOptions](../../aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/) { get; set; } | الحصول على خيارات تنقيط الصفحة أو تعيينها. |
-| [Pages](../../aspose.psd.imageoptions/multipageoptions/pages/) { get; set; } | الحصول على الصفحات أو تعيينها . |
-| [PageTitles](../../aspose.psd.imageoptions/multipageoptions/pagetitles/) { get; set; } | الحصول على عناوين الصفحة أو تعيينها. |
+| [ExportArea](../../aspose.psd.imageoptions/multipageoptions/exportarea/) { get; set; } | يحصل أو يعيّن منطقة التصدير. |
+| [MergeLayers](../../aspose.psd.imageoptions/multipageoptions/mergelayers/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [merege layers]. |
+| [Mode](../../aspose.psd.imageoptions/multipageoptions/mode/) { get; set; } | يحصل أو يعيّن الوضع. |
+| [OutputLayersNames](../../aspose.psd.imageoptions/multipageoptions/outputlayersnames/) { get; set; } | يحصل أو يعيّن أسماء طبقات الإخراج(يعمل إذا كان تنسيق التصدير يدعم تسمية الطبقات، على سبيل المثال لـ Psd) |
+| [PageRasterizationOptions](../../aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/) { get; set; } | يحصل أو يعيّن خيارات تمثيل الصفحة. |
+| [Pages](../../aspose.psd.imageoptions/multipageoptions/pages/) { get; set; } | يحصل أو يعيّن الصفحات. |
+| [PageTitles](../../aspose.psd.imageoptions/multipageoptions/pagetitles/) { get; set; } | يحصل أو يعيّن عناوين الصفحات. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [InitPages](../../aspose.psd.imageoptions/multipageoptions/initpages/)(IntRange[]) | تهيئة الصفحات من مصفوفة النطاقات |
+| [InitPages](../../aspose.psd.imageoptions/multipageoptions/initpages/)(IntRange[]) | يُهيئ الصفحات من مصفوفة النطاقات |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Figure.Bounds
-second_title: Aspose.PSD لمرجع .NET API
-description: Figure ملكية. الحصول على أو تعيين حدود الكائن.
+title: "Figure.Bounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Figure. تحصل أو تعين حدود الكائنات"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/figure/bounds/
 ---
+{{< psd/tize >}}
 ## Figure.Bounds property
 
-الحصول على أو تعيين حدود الكائن.
+يحصل أو يعيّن حدود الكائن.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حدود الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [Figure](../)
-* مساحة الاسم [Aspose.PSD](../../figure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

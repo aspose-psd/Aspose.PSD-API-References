@@ -1,23 +1,24 @@
 ---
-title: RenditionClass.DefinedValues
-second_title: Aspose.PSD لمرجع .NET API
-description: RenditionClass ملكية. القيم المحددة
+title: "RenditionClass.DefinedValues"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RenditionClass. القيم المعرفة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.types.derived/renditionclass/definedvalues/
 ---
+{{< psd/tize >}}
 ## RenditionClass.DefinedValues property
 
-القيم المحددة
+القيم المعرفة
 
 ```csharp
 public static string[] DefinedValues { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RenditionClass](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

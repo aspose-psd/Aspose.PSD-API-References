@@ -1,55 +1,56 @@
 ---
-title: Class EnumeratedReferenceStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.EnumeratedReferenceStructure فصل. بنية مرجعية تم تعدادها .
+title: "فئة EnumeratedReferenceStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.EnumeratedReferenceStructure فئة. بنية مرجعية معدودة"
 type: docs
-weight: 3170
+weight: 3550
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure class
 
-بنية مرجعية تم تعدادها .
+هيكل المرجع المُعدّد.
 
 ```csharp
 public sealed class EnumeratedReferenceStructure : EnumeratedDescriptorStructure
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [EnumeratedReferenceStructure](enumeratedreferencestructure/)(ClassID, ClassID, ClassID, ClassID) | يقوم بتهيئة مثيل جديد لملف`EnumeratedReferenceStructure` فئة . |
+| [EnumeratedReferenceStructure](enumeratedreferencestructure/)(ClassID, ClassID, ClassID, ClassID) | ينشئ مثيلاً جديداً من الفئة `EnumeratedReferenceStructure`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classid/) { get; set; } | الحصول على معرف الفئة أو تعيينه . |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classname/) { get; set; } | الحصول على أو تحديد اسم الفئة . |
-| [EnumName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumname/) { get; set; } | الحصول على أو تحديد اسم التعداد . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/key/) { get; } | يحصل على المفتاح . |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | الحصول على أو تحديد اسم المفتاح . |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/length/) { get; } | يحصل على ملف[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) الطول بالبايت. |
-| [TypeID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/) { get; set; } | الحصول على أو تحديد نوع معرف . |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classid/) { get; set; } | يحصل أو يضبط معرف الفئة. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classname/) { get; set; } | يحصل أو يضبط اسم الفئة. |
+| [EnumName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumname/) { get; set; } | الحصول أو تعيين اسم التعداد. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/key/) { get; } | يحصل على المفتاح. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | يحصل أو يضبط اسم المفتاح. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/length/) { get; } | يحصل على طول [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) بالبايت. |
+| [TypeID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/) { get; set; } | الحصول أو تعيين معرف النوع. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | الحصول على طول الرأس . |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | يحفظ الهيكل في حاوية التدفق المحددة. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | يحفظ الهيكل في حاوية التدفق المحددة. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | يحصل على طول الرأس. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | يحفظ البنية إلى حاوية الدفق المحددة. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | يحفظ البنية إلى حاوية الدفق المحددة. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [EnumeratedStructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedstructurekey/) | يحدد مفتاح الهيكل . |
+| const [EnumeratedStructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedstructurekey/) | يحدد مفتاح البنية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EnumeratedDescriptorStructure](../enumerateddescriptorstructure/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

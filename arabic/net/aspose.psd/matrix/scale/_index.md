@@ -1,51 +1,52 @@
 ---
-title: Matrix.Scale
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix طريقة. يطبق متجه المقياس المحدد scaleX و scaleY على هذاMatrix باستخدام الأمر المحدد.
+title: "Matrix.Scale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Matrix. تطبق متجه القياس المحدد scaleX و scaleY على هذا Matrix باستخدام الترتيب المحدد"
 type: docs
 weight: 160
 url: /ar/net/aspose.psd/matrix/scale/
 ---
+{{< psd/tize >}}
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-يطبق متجه المقياس المحدد (scaleX و scaleY) على هذا[`Matrix`](../) باستخدام الأمر المحدد.
+تطبق متجه القياس المحدد (scaleX و scaleY) على هذا [`Matrix`](../) باستخدام الترتيب المحدد.
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| scaleX | Single | المقياس X. |
-| scaleY | Single | المقياس Y. |
-| order | MatrixOrder | الأمر - الطلب. |
+| scaleX | Single | مقياس X. |
+| scaleY | Single | مقياس Y. |
+| الترتيب | MatrixOrder | الترتيب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Scale(float, float) {#scale}
 
-يطبق متجه المقياس المحدد (scaleX و scaleY) على هذه المصفوفة باستخدام (افتراضي) ترتيب مسبق .
+يطبق متجه التحجيم المحدد (scaleX و scaleY) على هذه Matrix باستخدام ترتيب (Prepend) الافتراضي.
 
 ```csharp
 public void Scale(float sx, float sy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | sx | Single | ال sx. ال sx. ال sx. |
-| sy | Single | سي. سي. سي. |
+| sy | Single | ال sy. ال sy. ال sy. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.BaseInset
-second_title: Aspose.PSD لمرجع .NET API
-description: CustomLineCap ملكية. الحصول على أو تحديد المسافة بين الغطاء والخط .
+title: "CustomLineCap.BaseInset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CustomLineCap. يحصل أو يضبط المسافة بين القمة والخط"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/customlinecap/baseinset/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseInset property
 
-الحصول على أو تحديد المسافة بين الغطاء والخط .
+يحصل أو يعيّن المسافة بين الرأس والخط.
 
 ```csharp
 public float BaseInset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المسافة بين بداية الغطاء ونهاية الخط.
+المسافة بين بداية القمة ونهاية الخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustomLineCap](../)
-* مساحة الاسم [Aspose.PSD](../../customlinecap/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

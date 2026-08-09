@@ -1,14 +1,15 @@
 ---
-title: PsdColorPalette.Argb32Entries
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdColorPalette ملكية. الحصول على مصفوفة من ألوان ARGB 32 بت.
+title: "PsdColorPalette.Argb32Entries"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdColorPalette. تحصل على مصفوفة من ألوان ARGB 32 بت"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd/psdcolorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Argb32Entries property
 
-الحصول على مصفوفة من ألوان ARGB 32 بت.
+يحصل على مصفوفة من ألوان ARGB 32‑بت.
 
 ```csharp
 public int[] Argb32Entries { get; }
@@ -16,16 +17,16 @@ public int[] Argb32Entries { get; }
 
 ### قيمة الإرجاع
 
-مصفوفة بنية ARGB 32 بت التي تتكون منها[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+المصفوفة من بنية ARGB 32‑بت التي تشكل هذه [`ColorPalette`](../../../aspose.psd/colorpalette/).
 
-### Property_Value
+### Property Value
 
 الإدخالات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

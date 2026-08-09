@@ -1,30 +1,31 @@
 ---
-title: Class OperationInterruptedException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.OperationInterruptedException فصل. يحدث عند مقاطعة إحدى العمليات .
+title: "فئة OperationInterruptedException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.CoreExceptions.OperationInterruptedException فئة. يحدث عندما يتم مقاطعة عملية"
 type: docs
 weight: 660
 url: /ar/net/aspose.psd.coreexceptions/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException class
 
-يحدث عند مقاطعة إحدى العمليات .
+يحدث عندما يتم مقاطعة عملية.
 
 ```csharp
 public class OperationInterruptedException : FrameworkException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`OperationInterruptedException` فئة . |
-| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`OperationInterruptedException` فئة . |
+| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | ينشئ مثيلاً جديدًا من فئة `OperationInterruptedException`. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | ينشئ مثيلاً جديدًا من فئة `OperationInterruptedException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FrameworkException](../frameworkexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

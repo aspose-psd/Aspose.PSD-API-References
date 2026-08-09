@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.GetPackages
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackageBaseCollection طريقة. احصل على مجموعة منXmpPackage .
+title: "XmpPackageBaseCollection.GetPackages"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPackageBaseCollection. الحصول على مصفوفة من XmpPackage"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackages method
 
-احصل على مجموعة من[`XmpPackage`](../../xmppackage/) .
+الحصول على مصفوفة من [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public XmpPackage[] GetPackages()
@@ -16,13 +17,13 @@ public XmpPackage[] GetPackages()
 
 ### قيمة الإرجاع
 
-ترجع مصفوفة من حزم XMP.
+إرجاع مصفوفة من حزم XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

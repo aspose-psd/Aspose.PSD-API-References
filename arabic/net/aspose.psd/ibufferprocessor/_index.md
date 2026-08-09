@@ -1,28 +1,29 @@
 ---
-title: Interface IBufferProcessor
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IBufferProcessor واجهه المستخدم. معالج المخزن المؤقت .
+title: "الواجهة IBufferProcessor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IBufferProcessor. معالج الذاكرة المؤقتة"
 type: docs
-weight: 4370
+weight: 4840
 url: /ar/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
-معالج المخزن المؤقت .
+معالج المخزن المؤقت.
 
 ```csharp
 public interface IBufferProcessor
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | يعالج المخزن المؤقت . |
+| [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | يعالج الذاكرة المؤقتة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

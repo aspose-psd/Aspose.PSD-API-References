@@ -1,23 +1,24 @@
 ---
-title: ThumbnailResource.ValidateValues
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource طريقة. يتحقق من صحة قيم المورد .
+title: "ThumbnailResource.ValidateValues"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ThumbnailResource. يتحقق من صحة قيم المورد"
 type: docs
 weight: 150
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ValidateValues method
 
-يتحقق من صحة قيم المورد .
+يتحقق من صحة قيم المورد.
 
 ```csharp
 public override void ValidateValues()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

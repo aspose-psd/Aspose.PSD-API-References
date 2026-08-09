@@ -1,23 +1,24 @@
 ---
-title: InterruptMonitor.IsInterrupted
-second_title: Aspose.PSD لمرجع .NET API
-description: InterruptMonitor ملكية. الحصول على القيمة التي تشير إلى ما إذا كان يجب مقاطعة العمليات.
+title: "InterruptMonitor.IsInterrupted"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية InterruptMonitor. يحصل على القيمة التي تشير إلى ما إذا كان يجب مقاطعة العمليات"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.multithreading/interruptmonitor/isinterrupted/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.IsInterrupted property
 
-الحصول على القيمة التي تشير إلى ما إذا كان يجب مقاطعة العمليات.
+يحصل على القيمة التي تشير إلى ما إذا كان يجب مقاطعة العمليات.
 
 ```csharp
 public bool IsInterrupted { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InterruptMonitor](../)
-* مساحة الاسم [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

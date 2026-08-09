@@ -1,23 +1,24 @@
 ---
-title: NonGenericDictionary.Clear
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary طريقة. يزيل كافة العناصر من IDictionary الكائن .
+title: "NonGenericDictionary.Clear"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة NonGenericDictionary. تزيل جميع العناصر من كائن IDictionary"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/nongenericdictionary/clear/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Clear method
 
-يزيل كافة العناصر من IDictionary الكائن .
+يزيل جميع العناصر من كائن IDictionary.
 
 ```csharp
 public void Clear()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Region.MakeInfinite
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. يقوم بتهيئة هذاRegion كائن داخلي لانهائي .
+title: "Region.MakeInfinite"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تُهيئ كائن Region هذا إلى داخل لا نهائي"
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.psd/region/makeinfinite/
 ---
+{{< psd/tize >}}
 ## Region.MakeInfinite method
 
-يقوم بتهيئة هذا[`Region`](../) كائن داخلي لانهائي .
+يُهيئ كائن [`Region`](../) هذا إلى داخل لا نهائي.
 
 ```csharp
 public void MakeInfinite()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

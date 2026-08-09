@@ -1,58 +1,59 @@
 ---
-title: PsdColorPalette.CopyPalette
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdColorPalette طريقة. نسخ اللوحة .
+title: "PsdColorPalette.CopyPalette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdColorPalette. ينسخ اللوحة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
-نسخ اللوحة .
+ينسخ لوحة الألوان.
 
 ```csharp
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCompactPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | colorPalette | IColorPalette | لوحة الألوان. |
-| useCompactPalette | Boolean | مبينا ما إذا كانت لوحة مضغوطة. |
+| useCompactPalette | Boolean | يشير إلى ما إذا كانت اللوحة مضغوطة. |
 
 ### قيمة الإرجاع
 
-اللوح الذي تم إنشاؤه حديثًا ومنسوخًا أو فارغًا إذا مرت اللوحة الفارغة.
+اللوحة التي تم إنشاؤها حديثًا ونسخها أو null إذا تم تمرير لوحة null.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CopyPalette(IColorPalette) {#copypalette}
 
-نسخ اللوحة .
+ينسخ لوحة الألوان.
 
 ```csharp
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | colorPalette | IColorPalette | لوحة الألوان. |
 
 ### قيمة الإرجاع
 
-اللوح الذي تم إنشاؤه حديثًا ومنسوخًا أو فارغًا إذا مرت اللوحة الفارغة.
+اللوحة التي تم إنشاؤها حديثًا ونسخها أو null إذا تم تمرير لوحة null.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

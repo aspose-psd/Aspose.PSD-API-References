@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Black
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykMixerChannel ملكية. الحصول على اللون الأسود أو تعيينه.
+title: "CmykMixerChannel.Black"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "CmykMixerChannel الخاصية. يحصل أو يضبط السواد"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Black property
 
-الحصول على اللون الأسود أو تعيينه.
+يحصل أو يضبط اللون الأسود.
 
 ```csharp
 public short Black { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الأسود .
+السواد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CmykMixerChannel](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

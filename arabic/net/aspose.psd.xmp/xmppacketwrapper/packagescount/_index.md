@@ -1,27 +1,28 @@
 ---
-title: XmpPacketWrapper.PackagesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPacketWrapper ملكية. الحصول على كمية الحزم داخل بنية XMP .
+title: "XmpPacketWrapper.PackagesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPacketWrapper. تحصل على عدد الحزم داخل بنية XMP"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp/xmppacketwrapper/packagescount/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.PackagesCount property
 
-الحصول على كمية الحزم داخل بنية XMP .
+يحصل على عدد الحزم داخل بنية XMP.
 
 ```csharp
 public int PackagesCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-كمية الحزم داخل هيكل XMP .
+عدد الحزم داخل بنية XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPacketWrapper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: BezierSegment.BezierSegment
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierSegment البناء. يقوم بتهيئة مثيل جديد لملفBezierSegment فئة .
+title: "BezierSegment.BezierSegment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ BezierSegment. يهيئ مثيلاً جديداً من الفئة BezierSegment"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.shapesegments/beziersegment/beziersegment/
 ---
+{{< psd/tize >}}
 ## BezierSegment constructor
 
-يقوم بتهيئة مثيل جديد لملف[`BezierSegment`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`BezierSegment`](../).
 
 ```csharp
 public BezierSegment(PointF startPoint, PointF firstControlPoint, PointF secondControlPoint, 
     PointF endPoint)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | startPoint | PointF | نقطة البداية. |
-| firstControlPoint | PointF | أول نقطة تحكم. |
+| firstControlPoint | PointF | نقطة التحكم الأولى. |
 | secondControlPoint | PointF | نقطة التحكم الثانية. |
 | endPoint | PointF | نقطة النهاية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* مساحة الاسم [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

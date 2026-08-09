@@ -1,30 +1,31 @@
 ---
-title: Enum ResourceBlock.ResourceBlockState
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState تعداد. يمثل حالة كتلة المورد.
+title: "التعداد ResourceBlock.ResourceBlockState"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState. يمثل حالة كتلة الموارد"
 type: docs
-weight: 3620
+weight: 4080
 url: /ar/net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResourceBlockState enumeration
 
-يمثل حالة كتلة المورد.
+يمثل حالة كتلة الموارد.
 
 ```csharp
 public enum ResourceBlockState
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Normal | `0` | الحالة النموذجية . |
-| Cached | `1` | حالة ذاكرة التخزين المؤقت . |
+| Normal | `0` | الحالة النموذجية. |
+| Cached | `1` | الحالة المخزنة مؤقتًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../resourceblock/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

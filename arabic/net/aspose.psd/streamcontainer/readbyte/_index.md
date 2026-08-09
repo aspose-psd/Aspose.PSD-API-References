@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.ReadByte
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer طريقة. يقرأ بايت من الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد  أو يُرجع 1 إذا كان في نهاية الدفق .
+title: "StreamContainer.ReadByte"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StreamContainer. تقرأ بايتاً من الدفق وتقدم الموضع داخل الدفق بايت واحد أو تُعيد 1 إذا كان عند نهاية الدفق"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/streamcontainer/readbyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.ReadByte method
 
-يقرأ بايت من الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد ، أو يُرجع -1 إذا كان في نهاية الدفق .
+يقرأ بايتًا واحدًا من التدفق ويتقدم بالموقع داخل التدفق بايتًا واحدًا، أو يُعيد -1 إذا كان عند نهاية التدفق.
 
 ```csharp
 public virtual int ReadByte()
@@ -16,12 +17,12 @@ public virtual int ReadByte()
 
 ### قيمة الإرجاع
 
-إرسال البايت غير الموقعة إلى Int32 ، أو -1 إذا كان في نهاية الدفق.
+البايت غير الموقّع محوّل إلى Int32، أو -1 إذا كان عند نهاية الدفق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

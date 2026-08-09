@@ -1,34 +1,35 @@
 ---
-title: Rectangle.FromLeftTopRightBottom
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. ينشئ ملفRectangle هيكل مع مواقع الحافة المحددة.
+title: "Rectangle.FromLeftTopRightBottom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تُنشئ بنية Rectangle بالمواقع المحددة للحواف."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/rectangle/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromLeftTopRightBottom method
 
-ينشئ ملف[`Rectangle`](../) هيكل مع مواقع الحافة المحددة.
+تنشئ بنية [`Rectangle`](../) بالمواقع المحددة للحواف.
 
 ```csharp
 public static Rectangle FromLeftTopRightBottom(int left, int top, int right, int bottom)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| left | Int32 | الإحداثي x للركن الأيسر العلوي لهذا[`Rectangle`](../) بناء. |
-| top | Int32 | إحداثي ص للركن الأيسر العلوي لهذا[`Rectangle`](../) بناء. |
-| right | Int32 | إحداثي x للركن الأيمن السفلي من هذا[`Rectangle`](../) بناء. |
-| bottom | Int32 | إحداثي y للركن الأيمن السفلي من هذا[`Rectangle`](../) بناء. |
+| left | Int32 | إحداثي x للزاوية العلوية اليسرى لهذا هيكل [`Rectangle`](../). |
+| top | Int32 | إحداثي y للزاوية العلوية اليسرى لهذا هيكل [`Rectangle`](../). |
+| right | Int32 | إحداثي x للزاوية السفلية اليمنى من بنية [`Rectangle`](../) هذه. |
+| bottom | Int32 | إحداثي y للزاوية السفلية اليمنى من بنية [`Rectangle`](../) هذه. |
 
 ### قيمة الإرجاع
 
-الجديد[`Rectangle`](../) التي تخلقها هذه الطريقة.
+[`Rectangle`](../) الجديد الذي تُنشئه هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

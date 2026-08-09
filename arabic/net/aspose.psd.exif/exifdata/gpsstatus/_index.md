@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSStatus
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين حالة مستقبل GPS عند تسجيل الصورة.
+title: "ExifData.GPSStatus"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط حالة مستقبل GPS عندما يتم تسجيل الصورة"
 type: docs
 weight: 620
 url: /ar/net/aspose.psd.exif/exifdata/gpsstatus/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSStatus property
 
-الحصول على أو تعيين حالة مستقبل GPS عند تسجيل الصورة.
+الحصول أو تعيين حالة مستقبل GPS عند تسجيل الصورة.
 
 ```csharp
 public string GPSStatus { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حالة مستقبل GPS عند تسجيل الصورة.
+حالة مستقبل GPS عندما يتم تسجيل الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

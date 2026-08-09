@@ -1,27 +1,28 @@
 ---
-title: FileCreateSource.IsTemporal
-second_title: Aspose.PSD لمرجع .NET API
-description: FileCreateSource ملكية. يحصل على قيمة تشير إلى ما إذا كان الملف سيكون مؤقتًا.
+title: "FileCreateSource.IsTemporal"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FileCreateSource. يحصل على قيمة تشير إلى ما إذا كان الملف مؤقتًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.sources/filecreatesource/istemporal/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.IsTemporal property
 
-يحصل على قيمة تشير إلى ما إذا كان الملف سيكون مؤقتًا.
+يحصل على قيمة تشير إلى ما إذا كان الملف سيكون مؤقتاً.
 
 ```csharp
 public override bool IsTemporal { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان الملف سيكون مؤقتًا ؛ خلاف ذلك،`خطأ شنيع`.
+`true` إذا كان الملف سيكون مؤقتًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../filecreatesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

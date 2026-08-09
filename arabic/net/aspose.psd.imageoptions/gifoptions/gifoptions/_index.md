@@ -1,43 +1,44 @@
 ---
-title: GifOptions.GifOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: GifOptions البناء. يقوم بتهيئة مثيل جديد لملفGifOptions فئة .
+title: "GifOptions.GifOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GifOptions. يهيئ مثالًا جديدًا من فئة GifOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/gifoptions/gifoptions/
 ---
+{{< psd/tize >}}
 ## GifOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`GifOptions`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`GifOptions`](../).
 
 ```csharp
 public GifOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GifOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../gifoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifOptions(GifOptions) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`GifOptions`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`GifOptions`](../).
 
 ```csharp
 public GifOptions(GifOptions gifOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| gifOptions | GifOptions | خيارات GIF . |
+| gifOptions | GifOptions | خيارات GIF. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GifOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../gifoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

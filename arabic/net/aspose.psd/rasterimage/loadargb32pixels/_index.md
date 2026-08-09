@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadArgb32Pixels
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تحميل 32 بت ARGB بكسل .
+title: "RasterImage.LoadArgb32Pixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تحمل بكسلات ARGB 32 بت."
 type: docs
 weight: 350
 url: /ar/net/aspose.psd/rasterimage/loadargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb32Pixels method
 
-تحميل 32 بت ARGB بكسل .
+يقوم بتحميل بكسلات ARGB 32‑بت.
 
 ```csharp
 public int[] LoadArgb32Pixels(Rectangle rectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المراد تحميل البكسل منه. |
+| مستطيل | Rectangle | المستطيل الذي يتم تحميل البكسلات منه. |
 
 ### قيمة الإرجاع
 
-مصفوفة وحدات البكسل ARGB 32 بت التي تم تحميلها .
+مصفوفة بكسلات ARGB 32‑بت المحملة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

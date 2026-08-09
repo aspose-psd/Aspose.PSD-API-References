@@ -1,14 +1,15 @@
 ---
-title: Class StrokeEffect
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect فصل. تأثير الحد Adobe Photoshop لطبقة PSD .
+title: "الفئة StrokeEffect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect. تأثير الحد في Adobe Photoshop لطبقة PSD."
 type: docs
-weight: 2190
+weight: 2390
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
+{{< psd/tize >}}
 ## StrokeEffect class
 
-تأثير الحد Adobe® Photoshop® لطبقة PSD .
+تأثير الخط في Adobe® Photoshop® لطبقة PSD.
 
 ```csharp
 public class StrokeEffect : ILayerEffect
@@ -16,25 +17,31 @@ public class StrokeEffect : ILayerEffect
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | الحصول على أو تحديد وضع المزج . |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | يحصل أو يضبط وضع المزج. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | يحصل على نوع من التأثير |
-| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | الحصول على أو تعيين إعدادات التعبئة. |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرئيًا. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | الحصول على التعتيم أو تعيينه . |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`StrokeEffect` سوف يمزج السكتة الدماغية مع محتويات الطبقة الحالية. |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | الحصول على أو تعيين موضع تأثير الحد للتحكم في محاذاة ضربة الفرشاة لمحتوى طبقة PSD . يمكن أن تكون القيمةInside لرسم حدود داخل محتوى طبقة PSD ، أوOutside لرسم حدود حول محتوى طبقة PSD ، وCenter لرسم السكتة الدماغية من الداخل والخارج. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | الحصول على أو تحديد عرض تأثير ضربة الفرشاة . |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | يحصل أو يضبط إعدادات التعبئة. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كانت هذه الحالة مرئية. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | يحصل أو يعيّن الشفافية. |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا `StrokeEffect` سيخلط الخط مع محتويات الطبقة الحالية. |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | يحصل أو يعيّن موضع تأثير الخط للتحكم في محاذاة الخط الخاص بك إلى محتوى طبقة PSD. يمكن أن تكون القيمة Inside لرسم الخط داخل محتوى طبقة PSD، أو Outside لرسم الخط حول محتوى طبقة PSD، وCenter لرسم الخط داخل وخارج. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | يحصل أو يعيّن عرض تأثير الخط. |
 
-### أمثلة
+## الطرق
 
-يوضح مثال الكود التالي تجسيد تأثير Stroke مع Color Fill.
+| الاسم | الوصف |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/geteffectbounds/)(Rectangle, int) | احسب واحصل على حدود بكسلات التأثير بناءً على حدود بكسلات الطبقة المدخلة. |
+
+## أمثلة
+
+يوضح المثال البرمجي التالي عرض تأثير Stroke مع تعبئة اللون.
 
 ```csharp
 [C#]
 
-// تنفيذ عرض تأثير Stroke باستخدام Color Fill للتصدير
+// تنفيذ عرض تأثير Stroke مع تعبئة اللون للتصدير
 string sourceFileName = "StrokeComplex.psd";
 string exportPath = "StrokeComplexRendering.psd";
 string exportPathPng = "StrokeComplexRendering.png";
@@ -51,9 +58,9 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
         settings.Color = Color.DeepPink;
     }
 
-    // حفظ مديرية الأمن العام
+    // احفظ psd
     im.Save(exportPath, new PsdOptions());
-    // حفظ png
+    // احفظ png
     im.Save(exportPathPng, new PngOptions()
     {
         ColorType = PngColorType.TruecolorWithAlpha
@@ -61,7 +68,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-يوضح الكود التالي دعم طبقة تأثير الحد بنوع التعبئة - اللون.
+الكود التالي يوضح دعم طبقة تأثير الخط مع نوع التعبئة - اللون.
 
 ```csharp
 [C#]
@@ -101,7 +108,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// اختبار الملف بعد التحرير
+// ملف الاختبار بعد التعديل
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -116,7 +123,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-يوضح الكود التالي دعم طبقة تأثير الحد بنوع التعبئة - نقش.
+يوضح الشيفرة التالية دعم طبقة تأثير الخط مع نوع التعبئة - نمط.
 
 ```csharp
 [C#]
@@ -195,7 +202,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// اختبار الملف بعد التحرير
+// ملف الاختبار بعد التعديل
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternStroke = (StrokeEffect)im.Layers[3].BlendingOptions.Effects[0];
@@ -229,7 +236,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-يوضح الكود التالي دعم طبقة تأثير الحد بنوع التعبئة - التدرج.
+الكود التالي يوضح دعم طبقة تأثير الخط مع نوع التعبئة - تدرج.
 
 ```csharp
 [C#]
@@ -266,7 +273,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Black, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
     AssertAreEqual(true, fillSettings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, fillSettings.GradientType);
@@ -277,7 +283,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(false, fillSettings.Reverse);
 
     // نقاط اللون
-    var colorPoints = fillSettings.ColorPoints;
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
     AssertAreEqual(Color.Black, colorPoints[0].Color);
@@ -289,7 +296,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
     // نقاط الشفافية
-    var transparencyPoints = fillSettings.TransparencyPoints;
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -301,8 +308,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
     // اختبار التحرير
-    fillSettings.Color = Color.Green;
-
     gradientStroke.Opacity = 127;
     gradientStroke.BlendMode = BlendMode.Color;
 
@@ -314,28 +319,28 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.VerticalOffset = 11;
     fillSettings.Reverse = true;
 
-    // أضف نقطة لون جديدة
-    var colorPoint = fillSettings.AddColorPoint();
+    // إضافة نقطة لون جديدة
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
     // تغيير موقع النقطة السابقة
-    fillSettings.ColorPoints[1].Location = 1899;
+    solidGradient.ColorPoints[1].Location = 1899;
 
-    // أضف نقطة شفافية جديدة
-    var transparencyPoint = fillSettings.AddTransparencyPoint();
+    // إضافة نقطة شفافية جديدة
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
     // تغيير موقع نقطة الشفافية السابقة
-    fillSettings.TransparencyPoints[1].Location = 2411;
+    solidGradient.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
 }
 
-// اختبار الملف بعد التحرير
+// ملف الاختبار بعد التعديل
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var gradientStroke = (StrokeEffect)im.Layers[2].BlendingOptions.Effects[0];
@@ -345,51 +350,51 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Green, fillSettings.Color);
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // تحقق من نقاط اللون
-    AssertAreEqual(3, fillSettings.ColorPoints.Length);
+    AssertAreEqual(3, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Black, point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.White, point.Color);
     AssertAreEqual(1899, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
-    // تحقق من النقاط الشفافة
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // تحقق من نقاط الشفافية
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(2411, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.00, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILayerEffect](../ilayereffect/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

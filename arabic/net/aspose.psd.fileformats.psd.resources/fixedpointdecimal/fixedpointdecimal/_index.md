@@ -1,74 +1,75 @@
 ---
-title: FixedPointDecimal.FixedPointDecimal
-second_title: Aspose.PSD لمرجع .NET API
-description: FixedPointDecimal البناء. يقوم بتهيئة مثيل جديد لملفFixedPointDecimal فئة .
+title: "FixedPointDecimal.FixedPointDecimal"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ FixedPointDecimal. يهيئ مثيلاً جديداً من الفئة FixedPointDecimal"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal(int, int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`FixedPointDecimal`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`FixedPointDecimal`](../).
 
 ```csharp
 public FixedPointDecimal(int integer, int fraction)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| integer | Int32 | العدد الصحيح. |
-| fraction | Int32 | الكسر. |
+| عدد صحيح | Int32 | العدد الصحيح. |
+| كسر | Int32 | الكسر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FixedPointDecimal](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(long) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`FixedPointDecimal`](../) فصل. قسّم الكلمات العالية والمنخفضة لعدد صحيح 32 بت إلى رقم ذي نقطة ثابتة.
+يهيئ مثيلاً جديداً من الفئة [`FixedPointDecimal`](../). يقسم الكلمات العليا والسفلى لعدد صحيح 32‑بت إلى عدد ثابت.
 
 ```csharp
 public FixedPointDecimal(long value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Int64 | القيمة. |
+| قيمة | Int64 | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FixedPointDecimal](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(double) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`FixedPointDecimal`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`FixedPointDecimal`](../).
 
 ```csharp
 public FixedPointDecimal(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة. |
+| قيمة | Double | القيمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | OverflowException |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FixedPointDecimal](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

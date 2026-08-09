@@ -1,27 +1,28 @@
 ---
-title: Font.FontFace
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. الحصول على أو تحديد واجهة الخط .
+title: "Font.FontFace"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. تحصل أو تعين واجهة الخط"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.complex.font/font/fontface/
 ---
+{{< psd/tize >}}
 ## Font.FontFace property
 
-الحصول على أو تحديد واجهة الخط .
+يحصل أو يضبط وجه الخط.
 
 ```csharp
 public string FontFace { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وجه الخط .
+واجهة الخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

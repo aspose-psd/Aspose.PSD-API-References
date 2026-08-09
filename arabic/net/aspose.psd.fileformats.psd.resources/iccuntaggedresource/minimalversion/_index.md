@@ -1,27 +1,28 @@
 ---
-title: IccUntaggedResource.MinimalVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: IccUntaggedResource ملكية. يحصل على الحد الأدنى من إصدار PSD المطلوب.
+title: "IccUntaggedResource.MinimalVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IccUntaggedResource. يحصل على الحد الأدنى المطلوب لإصدار PSD"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource.MinimalVersion property
 
-يحصل على الحد الأدنى من إصدار PSD المطلوب.
+يحصل على الحد الأدنى لإصدار PSD المطلوب.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأدنى من إصدار PSD .
+إصدار PSD الأدنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IccUntaggedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

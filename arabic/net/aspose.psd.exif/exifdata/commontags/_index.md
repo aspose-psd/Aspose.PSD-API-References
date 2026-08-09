@@ -1,28 +1,29 @@
 ---
-title: ExifData.CommonTags
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين العلامات التي تنتمي إلى القسم المشترك. هذا ينطبق فقط على صور jpeg  في تنسيق tiff يتم استخدام الخيارات بدلاً من ذلك
+title: "ExifData.CommonTags"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يسترجع أو يعيّن العلامات التي تنتمي إلى القسم المشترك. هذا ينطبق فقط على صور jpeg في تنسيق tiff حيث يتم استخدام tiffOptions بدلاً من ذلك"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.exif/exifdata/commontags/
 ---
+{{< psd/tize >}}
 ## ExifData.CommonTags property
 
-الحصول على أو تعيين العلامات التي تنتمي إلى القسم المشترك. هذا ينطبق فقط على صور jpeg ، في تنسيق tiff يتم استخدام الخيارات بدلاً من ذلك
+يحصل أو يضبط العلامات التي تنتمي إلى القسم المشترك. ينطبق هذا فقط على صور JPEG، وفي تنسيق TIFF يتم استخدام tiffOptions بدلاً من ذلك.
 
 ```csharp
 public TiffDataType[] CommonTags { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-علامات القسم المشترك .
+علامات القسم المشترك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

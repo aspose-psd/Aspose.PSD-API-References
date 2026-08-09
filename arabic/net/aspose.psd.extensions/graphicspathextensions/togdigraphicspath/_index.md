@@ -1,32 +1,33 @@
 ---
-title: GraphicsPathExtensions.ToGdiGraphicsPath
-second_title: Aspose.PSD لمرجع .NET API
-description: GraphicsPathExtensions طريقة. يحول ملفGraphicsPath الىGraphicsPath .
+title: "GraphicsPathExtensions.ToGdiGraphicsPath"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة GraphicsPathExtensions. يحول GraphicsPath إلى GraphicsPath"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.extensions/graphicspathextensions/togdigraphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions.ToGdiGraphicsPath method
 
-يحول ملف[`GraphicsPath`](../../../aspose.psd/graphicspath/) الىGraphicsPath .
+يحول [`GraphicsPath`](../../../aspose.psd/graphicspath/) إلى GraphicsPath.
 
 ```csharp
 public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| graphicsPath | GraphicsPath | مسار الرسوم للتحويل. |
+| graphicsPath | GraphicsPath | مسار الرسومات للتحويل. |
 
 ### قيمة الإرجاع
 
-المحولةGraphicsPath.
+GraphicsPath المحول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [GraphicsPathExtensions](../)
-* مساحة الاسم [Aspose.PSD.Extensions](../../graphicspathextensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: StringFormat.DeepClone
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat طريقة. لإنشاء نسخة عميقة من هذاStringFormat الكائن .
+title: "StringFormat.DeepClone"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StringFormat. تُنشئ نسخة عميقة من كائن StringFormat هذا"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.psd/stringformat/deepclone/
 ---
+{{< psd/tize >}}
 ## StringFormat.DeepClone method
 
-لإنشاء نسخة عميقة من هذا[`StringFormat`](../) الكائن .
+إنشاء نسخة عميقة من هذا الكائن [`StringFormat`](../).
 
 ```csharp
 public StringFormat DeepClone()
@@ -16,12 +17,12 @@ public StringFormat DeepClone()
 
 ### قيمة الإرجاع
 
-استنساخ عميق للتيار[`StringFormat`](../) .
+النسخة العميقة من الكائن الحالي [`StringFormat`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

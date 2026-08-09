@@ -1,36 +1,37 @@
 ---
-title: CmykColorHelper.ToCmykIccBytes
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykColorHelper طريقة. يحول RGB إلى CMYK باستخدام ملفات تعريف ICC المخصصة.
+title: "CmykColorHelper.ToCmykIccBytes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CmykColorHelper. تقوم بتحويل RGB إلى CMYK باستخدام ملفات تعريف ICC مخصصة"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/cmykcolorhelper/tocmykiccbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykIccBytes method
 
-يحول RGB إلى CMYK باستخدام ملفات تعريف ICC المخصصة.
+يقوم بتحويل RGB إلى CMYK باستخدام ملفات تعريف ICC مخصصة.
 
 ```csharp
 public static byte[] ToCmykIccBytes(int[] pixels, int startIndex, int length, Stream rgbIccStream, 
     Stream cmykIccStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixels | Int32[] | يتم تقديم ألوان RGB كقيم عدد صحيح 32 بت. |
-| startIndex | Int32 | مؤشر البداية للون RGB. |
-| length | Int32 | عدد وحدات بكسل RGB المراد تحويلها. |
+| بكسلات | Int32[] | ألوان RGB المقدمة كقيم صحيحة 32‑بت. |
+| startIndex | Int32 | فهرس البدء للون RGB. |
+| الطول | Int32 | عدد بكسلات RGB التي سيتم تحويلها. |
 | rgbIccStream | Stream | دفق ملف تعريف RGB. |
 | cmykIccStream | Stream | دفق ملف تعريف CMYK. |
 
 ### قيمة الإرجاع
 
-يتم تقديم ألوان CMYK كمصفوفة بايت.
+ألوان CMYK المقدمة كمصفوفة بايت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: LayerState.Id
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerState ملكية. الحصول على المعرف أو تعيينه.
+title: "LayerState.Id"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerState. يحصل أو يضبط معرف الطبقة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/layerstate/id/
 ---
+{{< psd/tize >}}
 ## LayerState.Id property
 
-الحصول على المعرف أو تعيينه.
+يحصل أو يضبط معرف الطبقة.
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerState](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

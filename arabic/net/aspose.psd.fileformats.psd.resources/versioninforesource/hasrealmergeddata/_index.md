@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.HasRealMergedData
-second_title: Aspose.PSD لمرجع .NET API
-description: VersionInfoResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على بيانات مدمجة حقيقية.
+title: "VersionInfoResource.HasRealMergedData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VersionInfoResource. يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على بيانات مدمجة حقيقية"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.HasRealMergedData property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على بيانات مدمجة حقيقية.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على بيانات مدمجة حقيقية.
 
 ```csharp
 public bool HasRealMergedData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثيل يحتوي على بيانات مدمجة حقيقية ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن يحتوي على بيانات مدمجة حقيقية؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VersionInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

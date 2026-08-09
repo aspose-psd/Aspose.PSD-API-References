@@ -1,68 +1,69 @@
 ---
-title: TiffSRational.TiffSRational
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffSRational البناء. يقوم بتهيئة مثيل جديد لملفTiffSRational فئة .
+title: "TiffSRational.TiffSRational"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TiffSRational. يهيئ مثيلة جديدة من الفئة TiffSRational"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.tiff/tiffsrational/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSRational`](../) فئة .
+يهيئ مثيلة جديدة من الفئة [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffRational`](../../tiffrational/) فئة .
+يهيئ مثيلة جديدة من الفئة [`TiffRational`](../../tiffrational/).
 
 ```csharp
 public TiffSRational(int value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Int32 | قيمة المرشح. |
+| قيمة | Int32 | قيمة البسط. |
 
-### ملاحظات
+## ملاحظات
 
-سيتم استخدام المرشح كقيمة محددة وسيكون المقام مساويًا 1.
+سيتم استخدام البسط كالقيمة المحددة وسيكون المقام مساويًا لـ 1.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int, int) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffSRational`](../) فئة .
+يهيئ مثيلة جديدة من الفئة [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational(int nominator, int denominator)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| nominator | Int32 | المرشح. |
-| denominator | Int32 | المقام. |
+| البسط | Int32 | البسط. |
+| المقام | Int32 | المقام. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

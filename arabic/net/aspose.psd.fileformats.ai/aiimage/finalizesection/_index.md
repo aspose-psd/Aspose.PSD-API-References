@@ -1,28 +1,29 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. يحصل على قسم الإنهاء .
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. تحصل على قسم الإنهاء"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
-يحصل على قسم الإنهاء .
+يحصل على قسم الإنهاء.
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قسم الإنهاء .
+قسم الإنهاء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Top
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تحديد موضع الطبقة العليا.
+title: "Layer.Top"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل أو يضبط موضع الطبقة العليا"
 type: docs
-weight: 310
+weight: 320
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
+{{< psd/tize >}}
 ## Layer.Top property
 
-الحصول على أو تحديد موضع الطبقة العليا.
+يحصل أو يضبط موضع الطبقة العليا.
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موضع الطبقة العليا .
+موضع الطبقة العليا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

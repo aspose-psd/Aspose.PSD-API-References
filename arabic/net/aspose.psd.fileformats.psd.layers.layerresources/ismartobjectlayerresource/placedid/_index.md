@@ -1,26 +1,27 @@
 ---
-title: ISmartObjectLayerResource.PlacedId
-second_title: Aspose.PSD لمرجع .NET API
-description: ISmartObjectLayerResource ملكية. الحصول على أو تعيين المعرف الفريد لبيانات طبقة الكائن الذكي هذه في صورة PSD.
+title: "ISmartObjectLayerResource.PlacedId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ISmartObjectLayerResource. تحصل أو تعيّن المعرف الفريد لبيانات طبقة الكائن الذكي هذه في صورة PSD"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource.PlacedId property
 
-الحصول على أو تعيين المعرف الفريد لبيانات طبقة الكائن الذكي هذه في صورة PSD.
+يحصل أو يعيّن المعرف الفريد لهذه البيانات طبقة الكائن الذكي في صورة PSD.
 
 ```csharp
 public Guid PlacedId { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرف الفريد لمورد طبقة الكائن الذكي هذا.
+المعرف الفريد لهذا مورد طبقة الكائن الذكي.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم الكائنات الذكية المضمنة.
+الكود التالي يوضح دعم الكائنات الذكية المدمجة.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// يوضح هذا المثال كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات المضمنة الأصلية للكائن الذكي.
+// هذا المثال يوضح كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات الأصلية المدمجة للكائن الذكي.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // لنقوم بتصدير صورة الكائن الذكي المضمنة من طبقة الكائن الذكي PSD
+        // لنقوم بتصدير صورة الكائن الذكي المدمج من طبقة الكائن الذكي في PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة الأصلية بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة الأصلية محفوظة بشكل صحيح
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // لنقلب صورة الكائن الذكية الأصلية
+            // لنقلب صورة الكائن الذكي الأصلية
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,21 +85,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // لنستبدل صورة الكائن الذكي المضمنة في طبقة PSD
+            // لنستبدل صورة الكائن الذكي المدمج في طبقة PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة المحدثة بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة المحدثة محفوظة بشكل صحيح
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ISmartObjectLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ismartobjectlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

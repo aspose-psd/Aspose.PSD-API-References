@@ -1,28 +1,29 @@
 ---
-title: ExifData.LightSource
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو ضبط مصدر الضوء.
+title: "ExifData.LightSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين مصدر الضوء"
 type: docs
 weight: 770
 url: /ar/net/aspose.psd.exif/exifdata/lightsource/
 ---
+{{< psd/tize >}}
 ## ExifData.LightSource property
 
-الحصول على أو ضبط مصدر الضوء.
+يحصل أو يعيّن مصدر الضوء.
 
 ```csharp
 public ExifLightSource LightSource { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مصدر الضوء .
+مصدر الضوء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifLightSource](../../../aspose.psd.exif.enums/exiflightsource/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,45 +1,46 @@
 ---
-title: PattResource.PattResource
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResource البناء. يقوم بتهيئة مثيل جديد لملفPattResource فئة .
+title: "PattResource.PattResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PattResource. يهيء مثيلاً جديداً من الفئة PattResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PattResource`](../) فئة .
+يهيء مثيلاً جديداً من الفئة [`PattResource`](../).
 
 ```csharp
 public PattResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PattResource`](../) فئة .
+يهيء مثيلاً جديداً من الفئة [`PattResource`](../).
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | Int32 | مفتاح نوع المورد. |
-| patterns | PattResourceData[] | بيانات الأنماط. |
+| المفتاح | Int32 | مفتاح نوع المورد. |
+| الأنماط | PattResourceData[] | بيانات الأنماط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

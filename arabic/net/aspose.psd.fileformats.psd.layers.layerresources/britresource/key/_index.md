@@ -1,11 +1,12 @@
 ---
-title: BritResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: BritResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "BritResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BritResource. يحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/key/
 ---
+{{< psd/tize >}}
 ## BritResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BritResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

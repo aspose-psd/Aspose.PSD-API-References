@@ -1,43 +1,44 @@
 ---
-title: ColorBlend.ColorBlend
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorBlend البناء. يقوم بتهيئة مثيل جديد لملفColorBlend فئة .
+title: "ColorBlend.ColorBlend"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ColorBlend. يهيئ مثيلاً جديداً من فئة ColorBlend"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/colorblend/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorBlend`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`ColorBlend`](../).
 
 ```csharp
 public ColorBlend()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorBlend](../)
-* مساحة الاسم [Aspose.PSD](../../colorblend/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorBlend(int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorBlend`](../) فئة مع العدد المحدد من الألوان والمواقف.
+يهيئ مثيلاً جديداً من الفئة [`ColorBlend`](../) بعدد الألوان والمواضع المحددة.
 
 ```csharp
 public ColorBlend(int count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| count | Int32 | عدد الألوان والمواقف في هذا[`ColorBlend`](../). |
+| count | Int32 | عدد الألوان والمواضع في هذا [`ColorBlend`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorBlend](../)
-* مساحة الاسم [Aspose.PSD](../../colorblend/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

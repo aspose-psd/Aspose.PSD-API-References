@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على أو تعيين عرض خط الحد .
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعيين عرض خط الحد"
 type: docs
-weight: 160
+weight: 140
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-الحصول على أو تعيين عرض خط الحد .
+يحصل أو يضبط عرض خط الضربة.
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد VstkResource.
+الكود التالي يوضح دعم مورد VstkResource.
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

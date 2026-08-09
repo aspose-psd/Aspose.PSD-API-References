@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Top
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تحديد الموقع العلوي للطبقة الموضوعة في صورة PSD.
+title: "PlacedResource.Top"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط الموقع العلوي للطبقة الموضوعة في صورة PSD"
 type: docs
-weight: 150
+weight: 140
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Top property
 
-الحصول على أو تحديد الموقع العلوي للطبقة الموضوعة في صورة PSD.
+يحصل أو يضبط الموقع العلوي للطبقة الموضوعة في صورة PSD.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموقع العلوي للطبقة الموضوعة .
+الموقع العلوي للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

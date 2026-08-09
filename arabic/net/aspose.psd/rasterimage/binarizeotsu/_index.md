@@ -1,23 +1,24 @@
 ---
-title: RasterImage.BinarizeOtsu
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. ثنائية الصورة مع عتبة Otsu
+title: "RasterImage.BinarizeOtsu"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تحويل الصورة إلى ثنائية باستخدام عتبة أوتو"
 type: docs
 weight: 230
 url: /ar/net/aspose.psd/rasterimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## RasterImage.BinarizeOtsu method
 
-ثنائية الصورة مع عتبة Otsu
+تحويل الصورة إلى ثنائية باستخدام تحديد العتبة بطريقة أوتسو
 
 ```csharp
 public virtual void BinarizeOtsu()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

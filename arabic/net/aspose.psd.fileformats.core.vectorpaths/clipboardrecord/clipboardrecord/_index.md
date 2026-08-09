@@ -1,43 +1,44 @@
 ---
-title: ClipboardRecord.ClipboardRecord
-second_title: Aspose.PSD لمرجع .NET API
-description: ClipboardRecord البناء. يقوم بتهيئة مثيل جديد لملفClipboardRecord فئة .
+title: "ClipboardRecord.ClipboardRecord"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ClipboardRecord. يهيئ مثالًا جديدًا من الفئة ClipboardRecord"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ClipboardRecord`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`ClipboardRecord`](../).
 
 ```csharp
 public ClipboardRecord()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClipboardRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClipboardRecord(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ClipboardRecord`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`ClipboardRecord`](../).
 
 ```csharp
 public ClipboardRecord(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات السجل. |
+| البيانات | Byte[] | بيانات السجل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClipboardRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

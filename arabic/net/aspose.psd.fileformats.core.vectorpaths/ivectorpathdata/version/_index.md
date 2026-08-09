@@ -1,31 +1,32 @@
 ---
-title: IVectorPathData.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: IVectorPathData ملكية. الحصول على الإصدار أو تحديده.
+title: "IVectorPathData.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IVectorPathData. يحصل على أو يضبط الإصدار"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Version property
 
-الحصول على الإصدار أو تحديده.
+يحصل أو يضبط الإصدار.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإصدار .
+الإصدار.
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال دعم مورد "WorkingPathResource" في PsdImage.ImageResources للعمل الصحيح لعملية Crop.
+يوضح هذا المثال دعم مورد 'WorkingPathResource' في PsdImage.ImageResources للعمل الصحيح لعملية القص.
 
 ```csharp
 [C#]
 
-// صورة المحاصيل وحفظها.
+// قص الصورة واحفظها.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // ابحث عن مورد WorkingPathResource.
@@ -46,12 +47,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // اقتصاص وحفظ.
+    // قص واحفظ.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// قم بتحميل الصورة المحفوظة وتحقق من التغييرات.
+// حمّل الصورة المحفوظة وتحقق من التغييرات.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // ابحث عن مورد WorkingPathResource.
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IVectorPathData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.BlendModeSignature
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على توقيع وضع المزج.
+title: "Layer.BlendModeSignature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل على توقيع وضع المزج"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/blendmodesignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeSignature property
 
-الحصول على توقيع وضع المزج.
+يحصل على توقيع وضع الدمج.
 
 ```csharp
 public int BlendModeSignature { get; }
 ```
 
-### Property_Value
+### Property Value
 
 توقيع وضع المزج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

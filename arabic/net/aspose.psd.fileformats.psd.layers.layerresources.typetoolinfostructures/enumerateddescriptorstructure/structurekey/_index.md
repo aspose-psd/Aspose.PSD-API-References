@@ -1,23 +1,24 @@
 ---
-title: EnumeratedDescriptorStructure.StructureKey
-second_title: Aspose.PSD لمرجع .NET API
-description: EnumeratedDescriptorStructure مجال. مفتاح التوصيف الذي تم تعداده .
+title: "EnumeratedDescriptorStructure.StructureKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل EnumeratedDescriptorStructure. مفتاح الوصف المرقم."
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.StructureKey field
 
-مفتاح التوصيف الذي تم تعداده .
+مفتاح الوصف المُعدَّد.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EnumeratedDescriptorStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

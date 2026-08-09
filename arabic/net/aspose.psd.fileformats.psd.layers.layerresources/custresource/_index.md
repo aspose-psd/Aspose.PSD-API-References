@@ -1,53 +1,54 @@
 ---
-title: Class CustResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource فصل. Class CustResource. يحتوي هذا المورد على معلومات حول مزج العنصر المقطوع.
+title: "الفئة CustResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource. الفئة CustResource. يحتوي هذا المورد على معلومات حول دمج العنصر المقصوص"
 type: docs
-weight: 2440
+weight: 2700
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource class
 
-Class CustResource. يحتوي هذا المورد على معلومات حول مزج العنصر المقطوع.
+الفئة CustResource. هذا المورد يحتوي على معلومات حول دمج العنصر المقصوص.
 
 ```csharp
 public class CustResource : LayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CustResource](custresource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`CustResource` فئة . |
-| [CustResource](custresource/#constructor_1)(byte[]) | يقوم بتهيئة مثيل جديد لملف`CustResource` فئة . |
+| [CustResource](custresource/#constructor)() | ينشئ مثيلاً جديداً للفئة `CustResource`. |
+| [CustResource](custresource/#constructor_1)(byte[]) | ينشئ مثيلاً جديداً للفئة `CustResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | الحصول على أو تعيين تاريخ إنشاء الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/) { get; } | يحصل على التوقيع. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | يحصل أو يعيّن تاريخ إنشاء الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

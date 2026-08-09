@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.IsHueInBigRange
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorRangeHsl طريقة. يحدد ما إذا كان هوى في نطاق كبير.
+title: "ColorRangeHsl.IsHueInBigRange"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorRangeHsl. تحدد ما إذا كانت درجة اللون في النطاق الكبير"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInBigRange method
 
-يحدد ما إذا كان هوى في نطاق كبير.
+يحدد ما إذا كان اللون (Hue) في النطاق الكبير.
 
 ```csharp
 public bool IsHueInBigRange(double hue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| hue | Double | قيمة هوى. |
+| درجة اللون | Double | قيمة درجة اللون. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان هوى في نطاق كبير ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت درجة اللون في النطاق الكبير؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

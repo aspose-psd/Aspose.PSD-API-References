@@ -1,30 +1,31 @@
 ---
-title: Enum JpegLsInterleaveMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode تعداد. يحدد وضع التداخل لبيانات البكسل الملونة متعددة المكونات.
+title: "عدد JpegLsInterleaveMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode enum. يحدد وضع التداخل لبيانات بكسل اللون متعدد المكوّنات"
 type: docs
-weight: 1510
+weight: 1520
 url: /ar/net/aspose.psd.fileformats.jpeg/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegLsInterleaveMode enumeration
 
-يحدد وضع التداخل لبيانات البكسل (الملونة) متعددة المكونات.
+يحدد وضع التداخل لبيانات بكسل متعددة المكونات (اللون).
 
 ```csharp
 public enum JpegLsInterleaveMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | يتم تشفير البيانات وتخزينها كمكون للمكون: RRRGGGBBB. |
-| Line | `1` | يتم وضع التداخل حسب الخط. يتم ترميز سطر كامل لكل مكون قبل الانتقال إلى السطر التالي. |
-| Sample | `2` | يتم تشفير البيانات وتخزينها حسب العينة. بالنسبة للصور الملونة ، هذا هو التنسيق مثل RGBRGBRGB . |
+| None | `0` | يتم ترميز البيانات وتخزينها كمكوّن لكل مكوّن: RRRGGGBBB. |
+| Line | `1` | وضع التداخل يكون حسب السطر. يتم ترميز سطر كامل من كل مكوّن قبل الانتقال إلى السطر التالي. |
+| Sample | `2` | يتم ترميز البيانات وتخزينها حسب العينة. بالنسبة للصور الملونة يكون هذا الشكل مثل RGBRGBRGB. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

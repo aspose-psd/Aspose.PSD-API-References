@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Blue
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على أو تعيين مكون اللون الأزرق.
+title: "AiLayerSection.Blue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين مكوّن اللون الأزرق"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
-الحصول على أو تعيين مكون اللون الأزرق.
+يحصل أو يعيّن مكوّن اللون الأزرق.
 
 ```csharp
 public int Blue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مكون اللون الأزرق .
+مكوّن اللون الأزرق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

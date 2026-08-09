@@ -1,14 +1,15 @@
 ---
-title: Class CurvesDiscreteManager
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager فصل. مدير طبقة ضبط المنحنيات التي تعالج خريطة البكسل
+title: "الفئة CurvesDiscreteManager"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager الفئة. مدير طبقة تعديل المنحنيات الذي يتعامل مع خريطة البكسلات"
 type: docs
-weight: 2420
+weight: 2680
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager class
 
-مدير طبقة ضبط المنحنيات التي تعالج خريطة البكسل
+مدير طبقة تعديل المنحنيات الذي يتحكم في خريطة البكسلات
 
 ```csharp
 public sealed class CurvesDiscreteManager : CurvesManager
@@ -16,23 +17,23 @@ public sealed class CurvesDiscreteManager : CurvesManager
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | يحصل على الحد الأقصى لعدد القنوات . |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | يحصل على الحد الأقصى لعدد القنوات. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | يحصل على القيمة في الموضع . |
-| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | تعيين القيمة الافتراضية في الموضع. |
+| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | يحصل على القيمة في الموضع. |
+| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | يضبط إلى القيمة الافتراضية في الموضع. |
 | [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | يضبط القيمة في الموضع. |
-| [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | يحدد قيمة القناة بأكملها. |
+| [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | يضبط قيمة القناة بالكامل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesManager](../curvesmanager/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

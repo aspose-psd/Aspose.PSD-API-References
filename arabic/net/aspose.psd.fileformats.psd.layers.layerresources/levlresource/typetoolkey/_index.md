@@ -1,11 +1,12 @@
 ---
-title: LevlResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: LevlResource مجال. مفتاح معلومات أداة النوع.
+title: "LevlResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل LevlResource. مفتاح معلومات أداة النوع"
 type: docs
-weight: 70
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LevlResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LevlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

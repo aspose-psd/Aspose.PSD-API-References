@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.ColorCompareMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageResizeSettings ملكية. الحصول على طريقة مقارنة الألوان أو تعيينها.
+title: "ImageResizeSettings.ColorCompareMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageResizeSettings. تحصل أو تعين طريقة مقارنة اللون"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/imageresizesettings/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.ColorCompareMethod property
 
-الحصول على طريقة مقارنة الألوان أو تعيينها.
+يحصل أو يضبط طريقة مقارنة اللون.
 
 ```csharp
 public ColorCompareMethod ColorCompareMethod { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-طريقة مقارنة الألوان .
+طريقة مقارنة اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorCompareMethod](../../colorcomparemethod/)
 * class [ImageResizeSettings](../)
-* مساحة الاسم [Aspose.PSD](../../imageresizesettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

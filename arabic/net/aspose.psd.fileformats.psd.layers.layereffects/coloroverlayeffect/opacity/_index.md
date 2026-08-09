@@ -1,27 +1,28 @@
 ---
-title: ColorOverlayEffect.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorOverlayEffect ملكية. الحصول على التعتيم أو تعيينه .
+title: "ColorOverlayEffect.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorOverlayEffect. يحصل أو يضبط الشفافية"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Opacity property
 
-الحصول على التعتيم أو تعيينه .
+يحصل أو يعيّن الشفافية.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التعتيم .
+الشفافية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorOverlayEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

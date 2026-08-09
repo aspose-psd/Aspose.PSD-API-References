@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSLatitude
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على خط عرض GPS أو تعيينه.
+title: "ExifData.GPSLatitude"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط خط عرض GPS"
 type: docs
 weight: 520
 url: /ar/net/aspose.psd.exif/exifdata/gpslatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitude property
 
-الحصول على خط عرض GPS أو تعيينه.
+الحصول أو تعيين خط عرض GPS.
 
 ```csharp
 public TiffRational[] GPSLatitude { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-خط عرض GPS .
+خط عرض GPS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

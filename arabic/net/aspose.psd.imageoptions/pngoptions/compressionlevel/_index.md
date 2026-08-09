@@ -1,23 +1,24 @@
 ---
-title: PngOptions.CompressionLevel
-second_title: Aspose.PSD لمرجع .NET API
-description: PngOptions ملكية. مستوى ضغط الصورة png في النطاق من 0 إلى 9  حيث يمثل 9 أقصى ضغط ويكون 0 هو وضع التخزين.
+title: "PngOptions.CompressionLevel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PngOptions. مستوى ضغط صورة png في النطاق من 0 إلى 9 حيث 9 هو أقصى ضغط و0 هو وضع التخزين"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.imageoptions/pngoptions/compressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.CompressionLevel property
 
-مستوى ضغط الصورة png في النطاق من 0 إلى 9 ، حيث يمثل 9 أقصى ضغط ويكون 0 هو وضع التخزين.
+مستوى ضغط صورة png في النطاق من 0 إلى 9، حيث 9 هو أقصى ضغط و0 هو وضع التخزين.
 
 ```csharp
 public int CompressionLevel { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PngOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pngoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

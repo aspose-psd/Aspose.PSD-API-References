@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTaskProgress
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.AsyncTask.AsyncTaskProgress فصل. يوفر معلومات التقدم للمهمة غير المتزامنة.
+title: "الفئة AsyncTaskProgress"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.AsyncTask.AsyncTaskProgress. تُوفر معلومات التقدم للمهمة غير المتزامنة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.asynctask/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress class
 
 يوفر معلومات التقدم للمهمة غير المتزامنة.
@@ -14,22 +15,22 @@ url: /ar/net/aspose.psd.asynctask/asynctaskprogress/
 public class AsyncTaskProgress
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | يقوم بتهيئة مثيل جديد لملف`AsyncTaskProgress` فئة . |
+| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | يُنشئ مثيلًا جديدًا من الفئة `AsyncTaskProgress`. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | مدة المهمة غير المتزامنة. |
-| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | تقدم المهمة غير المتزامنة ، بالنسبة المئوية. |
+| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | تقدم المهمة غير المتزامنة، بالنسبة المئوية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

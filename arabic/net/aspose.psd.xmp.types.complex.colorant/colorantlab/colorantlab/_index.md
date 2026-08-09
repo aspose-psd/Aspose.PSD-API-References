@@ -1,45 +1,46 @@
 ---
-title: ColorantLab.ColorantLab
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantLab البناء. يقوم بتهيئة مثيل جديد لملفColorantLab فئة .
+title: "ColorantLab.ColorantLab"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ColorantLab. يهيئ مثيلًا جديدًا من فئة ColorantLab"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantlab/colorantlab/
 ---
+{{< psd/tize >}}
 ## ColorantLab() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorantLab`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`ColorantLab`](../).
 
 ```csharp
 public ColorantLab()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantLab](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantLab(int, int, float) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorantLab`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`ColorantLab`](../).
 
 ```csharp
 public ColorantLab(int a, int b, float l)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Int32 | عنصر. |
-| b | Int32 | مكون ب. |
-| l | Single | مكون L. |
+| a | Int32 | المكوّن A. |
+| b | Int32 | المكوّن B. |
+| l | Single | المكوّن L. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantLab](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

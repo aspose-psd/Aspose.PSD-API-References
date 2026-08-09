@@ -1,31 +1,32 @@
 ---
-title: Enum PathOperations
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations تعداد. عمليات دمج أشكال المسار العمليات المنطقية .
+title: "التعداد PathOperations"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations enum. العمليات الخاصة بأشكال المسار التي تجمع عمليات بوليانية"
 type: docs
-weight: 1390
+weight: 1400
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
+{{< psd/tize >}}
 ## PathOperations enumeration
 
-عمليات دمج أشكال المسار (العمليات المنطقية) .
+العمليات لتجميع أشكال المسار (عمليات بوليانية).
 
 ```csharp
 public enum PathOperations
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| ExcludeOverlappingShapes | `0` | استبعاد الأشكال المتداخلة (عملية XOR) . |
-| CombineShapes | `1` | دمج الأشكال (عملية أو). هذه هي القيمة الافتراضية في Photoshop. |
-| SubtractFrontShape | `2` | اطرح الشكل الأمامي (ليس عملية) . |
-| IntersectShapeAreas | `3` | مناطق الشكل المتقاطعة (والتشغيل) . |
+| ExcludeOverlappingShapes | `0` | استبعاد الأشكال المتداخلة (عملية XOR). |
+| CombineShapes | `1` | دمج الأشكال (عملية OR). هذه هي القيمة الافتراضية في Photoshop. |
+| SubtractFrontShape | `2` | طرح الشكل الأمامي (عملية NOT). |
+| IntersectShapeAreas | `3` | تقاطع مناطق الشكل (عملية AND). |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي من التعليمات البرمجية دعم خصائص LengthRecord الجديدة و PathOperations (العمليات المنطقية) و ShapeIndex و BezierKnotRecordsCount.
+يوضح مثال الشيفرة التالي دعم الخصائص الجديدة LengthRecord، وPathOperations (العمليات البوليانية)، وShapeIndex وBezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // هنا نغير الطريق إلى الجمع بين الأشكال.
+    // هنا نغير الطريقة التي نجمع بها الأشكال.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -58,9 +59,9 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetWebStatement
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpRightsManagementPackage طريقة. يعين بيان الويب .
+title: "XmpRightsManagementPackage.SetWebStatement"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpRightsManagementPackage. تعيين بيان الويب."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetWebStatement method
 
-يعين بيان الويب .
+يضبط بيان الويب.
 
 ```csharp
 public void SetWebStatement(string webStatementUrl)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| webStatementUrl | String | عنوان URL لبيان الويب. |
+| webStatementUrl | String | عنوان URL للبيان الويب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpRightsManagementPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

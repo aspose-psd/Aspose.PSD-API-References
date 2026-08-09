@@ -1,14 +1,15 @@
 ---
-title: Interface IKeyedObject
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IKeyedObject واجهه المستخدم. يمثل واجهة للكائنات ذات المفاتيح.
+title: "الواجهة IKeyedObject"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IKeyedObject. تمثل واجهة للكائنات ذات المفاتيح"
 type: docs
-weight: 4480
+weight: 4950
 url: /ar/net/aspose.psd/ikeyedobject/
 ---
+{{< psd/tize >}}
 ## IKeyedObject interface
 
-يمثل واجهة للكائنات ذات المفاتيح.
+يمثل interface للكائنات ذات المفاتيح.
 
 ```csharp
 public interface IKeyedObject
@@ -16,13 +17,13 @@ public interface IKeyedObject
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | يحصل على مفتاح الكائن . |
+| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | يحصل على مفتاح الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

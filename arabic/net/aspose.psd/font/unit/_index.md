@@ -1,28 +1,29 @@
 ---
-title: Font.Unit
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. الحصول على وحدة القياس لهذاFont .
+title: "Font.Unit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. يحصل على وحدة القياس لهذا الخط."
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/font/unit/
 ---
+{{< psd/tize >}}
 ## Font.Unit property
 
-الحصول على وحدة القياس لهذا[`Font`](../) .
+يحصل على وحدة القياس لهذا [`Font`](../).
 
 ```csharp
 public GraphicsUnit Unit { get; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`GraphicsUnit`](../../graphicsunit/) التي تمثل وحدة القياس لهذا[`Font`](../).
+وحدة [`GraphicsUnit`](../../graphicsunit/) التي تمثل وحدة القياس لهذا [`Font`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetIccProfile
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يضبط ملف تعريف icc .
+title: "PhotoshopPackage.SetIccProfile"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PhotoshopPackage. تحدد ملف تعريف icc"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seticcprofile/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetIccProfile method
 
-يضبط ملف تعريف icc .
+يضبط ملف تعريف icc.
 
 ```csharp
 public void SetIccProfile(string iccProfile)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| iccProfile | String | ملف تعريف ICC. |
+| iccProfile | String | ملف تعريف icc. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

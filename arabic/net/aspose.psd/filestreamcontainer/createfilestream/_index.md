@@ -1,32 +1,33 @@
 ---
-title: FileStreamContainer.CreateFileStream
-second_title: Aspose.PSD لمرجع .NET API
-description: FileStreamContainer طريقة. إنشاء دفق ملف جديد.
+title: "FileStreamContainer.CreateFileStream"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FileStreamContainer. تنشئ تدفق ملف جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/filestreamcontainer/createfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.CreateFileStream method
 
-إنشاء دفق ملف جديد.
+ينشئ تدفق ملفات جديد.
 
 ```csharp
 public static FileStreamContainer CreateFileStream(string fileLocation, bool isTemporal)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fileLocation | String | موقع الملف. |
-| isTemporal | Boolean | إذا تم التعيين على`حقيقي` حاوية دفق الملف مؤقتة. |
+| isTemporal | Boolean | إذا تم تعيينه إلى `true` فإن حاوية تدفق الملف مؤقتة. |
 
 ### قيمة الإرجاع
 
-حاوية دفق الملف.
+حاوية تدفق الملف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../filestreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

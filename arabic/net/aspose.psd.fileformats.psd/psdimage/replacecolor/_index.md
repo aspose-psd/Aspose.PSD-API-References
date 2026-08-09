@@ -1,29 +1,30 @@
 ---
-title: PsdImage.ReplaceColor
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يستبدل لونًا بآخر بالاختلاف المسموح به ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف المتجانسة.
+title: "PsdImage.ReplaceColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. يستبدل لونًا بآخر مع فرق مسموح ويحافظ على قيمة ألفا الأصلية للحفاظ على حواف ناعمة"
 type: docs
-weight: 570
+weight: 630
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## PsdImage.ReplaceColor method
 
-يستبدل لونًا بآخر بالاختلاف المسموح به ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف المتجانسة.
+يستبدل لونًا بآخر مع فرق مسموح ويحافظ على قيمة ألفا الأصلية للحفاظ على حواف ناعمة.
 
 ```csharp
 public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| oldColorArgb | Int32 | استبدال قيمة اللون القديم ARGB. |
-| oldColorDiff | Byte | يسمح الاختلاف في اللون القديم لتتمكن من توسيع درجة اللون المستبدلة. |
-| newColorArgb | Int32 | قيمة جديدة للون ARGB لتحل محل اللون القديم. |
+| oldColorArgb | Int32 | قيمة ARGB للون القديم التي سيتم استبدالها. |
+| oldColorDiff | بايت | الفرق المسموح به في اللون القديم لتمكين توسيع نغمة اللون المستبدل. |
+| newColorArgb | Int32 | قيمة ARGB للون الجديد لاستبدال اللون القديم به. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

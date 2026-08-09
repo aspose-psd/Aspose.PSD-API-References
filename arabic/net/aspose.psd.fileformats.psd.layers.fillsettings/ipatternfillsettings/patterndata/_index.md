@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternData
-second_title: Aspose.PSD لمرجع .NET API
-description: IPatternFillSettings ملكية. الحصول على بيانات النمط أو تعيينها .
+title: "IPatternFillSettings.PatternData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPatternFillSettings. يحصل على بيانات النمط"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternData property
 
-الحصول على بيانات النمط أو تعيينها .
+يحصل على بيانات النمط.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات النمط .
+بيانات النمط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

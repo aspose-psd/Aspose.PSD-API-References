@@ -1,28 +1,29 @@
 ---
-title: VectorShapeBoundingBox.Bounds
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeBoundingBox ملكية. الحصول على أو تعيين حدود المربع المحيط بالشكل.
+title: "VectorShapeBoundingBox.Bounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeBoundingBox. يحصل أو يضبط حدود صندوق حدود الشكل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bounds property
 
-الحصول على أو تعيين حدود المربع المحيط بالشكل.
+يحصل أو يعيّن حدود صندوق حدود الشكل.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المربع المحيط بالشكل مرتبط .
+حدود صندوق حدود الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [VectorShapeBoundingBox](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

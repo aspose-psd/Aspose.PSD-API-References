@@ -1,28 +1,29 @@
 ---
-title: ExifData.Properties
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على جميع علامات EXIF أو تعيينها بما في ذلك العلامات الشائعة وعلامات GPS .
+title: "ExifData.Properties"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط جميع وسوم EXIF بما في ذلك الوسوم العامة ووسوم GPS"
 type: docs
 weight: 860
 url: /ar/net/aspose.psd.exif/exifdata/properties/
 ---
+{{< psd/tize >}}
 ## ExifData.Properties property
 
-الحصول على جميع علامات EXIF أو تعيينها (بما في ذلك العلامات الشائعة وعلامات GPS) .
+يحصل أو يعيّن جميع وسوم EXIF (بما في ذلك الوسوم العامة ووسوم GPS).
 
 ```csharp
 public TiffDataType[] Properties { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-علامات EXIF (بما في ذلك العلامات الشائعة وعلامات GPS) .
+وسوم EXIF (بما في ذلك الوسوم العامة ووسوم GPS).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

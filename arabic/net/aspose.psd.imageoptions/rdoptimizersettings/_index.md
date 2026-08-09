@@ -1,46 +1,47 @@
 ---
-title: Class RdOptimizerSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.RdOptimizerSettings فصل. فئة إعدادات محسن RD
+title: "الفئة RdOptimizerSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageOptions.RdOptimizerSettings. فئة إعدادات مُحسّن RD"
 type: docs
-weight: 4910
+weight: 5400
 url: /ar/net/aspose.psd.imageoptions/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings class
 
-فئة إعدادات محسن RD
+فئة إعدادات مُحسّن RD
 
 ```csharp
 public class RdOptimizerSettings
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RdOptimizerSettings](rdoptimizersettings/)() | Default_Constructor |
+| [RdOptimizerSettings](rdoptimizersettings/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax/) { get; set; } | الحصول على أو تعيين الحد الأقصى لقيمة R للنظر في وحدات البت لكل بكسل |
-| [BppScale](../../aspose.psd.imageoptions/rdoptimizersettings/bppscale/) { get; set; } | الحصول على عامل مقياس BPP (بت لكل بكسل) أو تعيينه. |
-| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/) { get; } | الحصول على الحد الأقصى لقيمة R للنظر فيها . |
-| [MaxPixelValue](../../aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/) { get; } | يحصل على أقصى قيمة للبكسل . |
-| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | الحصول على أو تحديد أقصى قيمة تكمية. |
-| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | يحصل على أدنى قيمة تكمية مسموح بها. |
-| [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax/) { get; } | الحصول على القيمة القصوى المتوقعة لـ PSNR . |
+| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax/) { get; set; } | يحصل أو يعيّن القيمة القصوى R للنظر فيها بوحدة البت لكل بكسل |
+| [BppScale](../../aspose.psd.imageoptions/rdoptimizersettings/bppscale/) { get; set; } | يحصل أو يعيّن معامل مقياس BPP (البت لكل بكسل). |
+| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/) { get; } | يحصل على القيمة القصوى R للنظر فيها. |
+| [MaxPixelValue](../../aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/) { get; } | يحصل على القيمة القصوى للبكسل. |
+| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | يحصل أو يعيّن القيمة القصوى للتكميم. |
+| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | يحصل على الحد الأدنى المسموح به للتكميم. |
+| [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax/) { get; } | يحصل على القيمة المتوقعة القصوى لـ PSNR. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Create](../../aspose.psd.imageoptions/rdoptimizersettings/create/)() | لإنشاء هذا المثيل . |
+| static [Create](../../aspose.psd.imageoptions/rdoptimizersettings/create/)() | ينشئ هذا الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

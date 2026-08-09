@@ -1,30 +1,31 @@
 ---
-title: IRasterImagePixelLoader.LoadPartialPixels
-second_title: Aspose.PSD لمرجع .NET API
-description: IRasterImagePixelLoader طريقة. تحميل وحدات البكسل جزئيًا بالكتل .
+title: "IRasterImagePixelLoader.LoadPartialPixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IRasterImagePixelLoader. تقوم بتحميل البكسلات جزئياً على شكل كتل"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/irasterimagepixelloader/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader.LoadPartialPixels method
 
-تحميل وحدات البكسل جزئيًا (بالكتل) .
+يحمّل البكسلات جزئيًا (حسب الكتل).
 
 ```csharp
 public void LoadPartialPixels(Rectangle rectangle, IPartialPixelLoader partialPixelLoader)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المراد تحميل البكسل منه. |
-| partialPixelLoader | IPartialPixelLoader | محمل البكسل الجزئي. |
+| مستطيل | Rectangle | المستطيل الذي يتم تحميل البكسلات منه. |
+| partialPixelLoader | IPartialPixelLoader | محمل البكسلات الجزئي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * interface [IRasterImagePixelLoader](../)
-* مساحة الاسم [Aspose.PSD](../../irasterimagepixelloader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

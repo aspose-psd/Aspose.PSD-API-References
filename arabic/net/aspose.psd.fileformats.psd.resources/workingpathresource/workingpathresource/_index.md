@@ -1,31 +1,32 @@
 ---
-title: WorkingPathResource.WorkingPathResource
-second_title: Aspose.PSD لمرجع .NET API
-description: WorkingPathResource البناء. يقوم بتهيئة مثيل جديد لملفWorkingPathResource فئة .
+title: "WorkingPathResource.WorkingPathResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ WorkingPathResource. يهيئ نسخة جديدة من الفئة WorkingPathResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`WorkingPathResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`WorkingPathResource`](../).
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | dataBytes | Byte[] | بيانات مسار المتجه. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال دعم مورد "WorkingPathResource" في PsdImage.ImageResources للعمل الصحيح لعملية Crop.
+يوضح هذا المثال دعم مورد 'WorkingPathResource' في PsdImage.ImageResources للعمل الصحيح لعملية القص.
 
 ```csharp
 [C#]
 
-// صورة المحاصيل وحفظها.
+// قص الصورة واحفظها.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // ابحث عن مورد WorkingPathResource.
@@ -46,12 +47,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // اقتصاص وحفظ.
+    // قص واحفظ.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// قم بتحميل الصورة المحفوظة وتحقق من التغييرات.
+// حمّل الصورة المحفوظة وتحقق من التغييرات.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // ابحث عن مورد WorkingPathResource.
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WorkingPathResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

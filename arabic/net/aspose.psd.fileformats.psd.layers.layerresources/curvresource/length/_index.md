@@ -1,23 +1,24 @@
 ---
-title: CurvResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "CurvResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CurvResource. يحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 40
+weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/length/
 ---
+{{< psd/tize >}}
 ## CurvResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

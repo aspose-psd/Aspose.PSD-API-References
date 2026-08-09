@@ -1,27 +1,28 @@
 ---
-title: XmpBasicPackage.SetCreatorTool
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage طريقة. يضبط أداة المنشئ.
+title: "XmpBasicPackage.SetCreatorTool"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpBasicPackage. تضبط أداة الإنشاء"
 type: docs
-weight: 40
+weight: 60
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetCreatorTool method
 
-يضبط أداة المنشئ.
+يضبط أداة الإنشاء.
 
 ```csharp
 public void SetCreatorTool(string creatorTool)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | creatorTool | String | اسم الأداة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

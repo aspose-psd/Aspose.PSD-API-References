@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.Underline
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان تسطير .
+title: "ITextStyle.Underline"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. يحصل أو يضبط قيمة تشير إلى ما إذا كان هناك تسطير"
 type: docs
 weight: 260
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/underline/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Underline property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [تسطير] .
+يحصل أو يضبط قيمة تشير إلى ما إذا كان [underline].
 
 ```csharp
 public bool Underline { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

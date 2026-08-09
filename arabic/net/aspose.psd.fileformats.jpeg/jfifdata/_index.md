@@ -1,38 +1,39 @@
 ---
-title: Class JFIFData
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Jpeg.JFIFData فصل. مقطع jfif .
+title: "فئة JFIFData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Jpeg.JFIFData. مقطع jfif"
 type: docs
-weight: 1470
+weight: 1480
 url: /ar/net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData class
 
-مقطع jfif .
+قسم jfif.
 
 ```csharp
 public sealed class JFIFData
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [JFIFData](jfifdata/)() | يقوم بتهيئة مثيل جديد لملف`JFIFData` فئة . |
+| [JFIFData](jfifdata/)() | ينشئ مثلاً جديداً من الفئة `JFIFData`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | الحصول على وحدات الكثافة أو تعيينها. |
-| [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | الحصول على الصورة المصغرة أو تعيينها. |
-| [Version](../../aspose.psd.fileformats.jpeg/jfifdata/version/) { get; set; } | الحصول على الإصدار أو تحديده. |
-| [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | الحصول على أو تحديد كثافة x. |
-| [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | الحصول على أو تحديد كثافة y . |
+| [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | يحصل أو يضبط وحدات الكثافة. |
+| [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | يحصل أو يضبط الصورة المصغرة. |
+| [Version](../../aspose.psd.fileformats.jpeg/jfifdata/version/) { get; set; } | يحصل أو يضبط الإصدار. |
+| [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | يحصل أو يضبط كثافة x. |
+| [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | يحصل أو يضبط كثافة y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

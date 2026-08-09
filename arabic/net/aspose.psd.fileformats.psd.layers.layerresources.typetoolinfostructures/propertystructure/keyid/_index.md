@@ -1,28 +1,29 @@
 ---
-title: PropertyStructure.KeyID
-second_title: Aspose.PSD لمرجع .NET API
-description: PropertyStructure ملكية. الحصول على أو تعيين معرف المفتاح .
+title: "PropertyStructure.KeyID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PropertyStructure. تحصل أو تعين معرف المفتاح"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.KeyID property
 
-الحصول على أو تعيين معرف المفتاح .
+يحصل أو يضبط معرف المفتاح.
 
 ```csharp
 public ClassID KeyID { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف المفتاح .
+معرّف المفتاح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

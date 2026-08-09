@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorPathDataResource ملكية. الحصول على الإصدار أو تحديده.
+title: "VectorPathDataResource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorPathDataResource. تحصل أو تعيين الإصدار"
 type: docs
-weight: 80
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Version property
 
-الحصول على الإصدار أو تحديده.
+يحصل أو يضبط الإصدار.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإصدار .
+الإصدار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorPathDataResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

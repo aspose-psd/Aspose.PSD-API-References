@@ -1,27 +1,28 @@
 ---
-title: Layer.Clipping
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تعيين قص الطبقة. 0  قاعدة  1  غير أساسية .
+title: "Layer.Clipping"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل أو تعين قص الطبقة. 0 قاعدة 1 غير قاعدة"
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/clipping/
 ---
+{{< psd/tize >}}
 ## Layer.Clipping property
 
-الحصول على أو تعيين قص الطبقة. 0 = قاعدة ، 1 = غير أساسية .
+يحصل أو يعيّن قص الطبقة. 0 = أساسي، 1 = غير أساسي.
 
 ```csharp
 public byte Clipping { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اقتصاص الطبقة .
+قص الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

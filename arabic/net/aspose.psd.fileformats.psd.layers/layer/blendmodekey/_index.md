@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تعيين مفتاح وضع المزج.
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل أو يضبط مفتاح BlendModeKey"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-الحصول على أو تعيين مفتاح وضع المزج.
+يحصل أو يعيّن مفتاح وضع الدمج.
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مفتاح وضع المزج .
+مفتاح وضع المزج.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك استخدام وضع مزج طبقة PassThrough في Aspose.PSD
+المثال التالي يوضح كيف يمكنك استخدام وضع دمج الطبقة PassThrough في Aspose.PSD
 
 ```csharp
 [C#]
@@ -61,11 +62,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

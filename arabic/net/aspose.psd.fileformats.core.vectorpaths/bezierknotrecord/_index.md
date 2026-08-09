@@ -1,40 +1,41 @@
 ---
-title: Class BezierKnotRecord
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord فصل. Bezier Knot Record Class
+title: "فئة BezierKnotRecord"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord فئة. فئة سجل عقدة بيزيير تُستخدم لقراءة/كتابة بيانات عقد بيزيير من المورد"
 type: docs
-weight: 1330
+weight: 1340
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-Bezier Knot Record Class
+فئة سجل عقدة Bezier، تُستخدم لقراءة/كتابة بيانات عقد Bezier من المورد.
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | يقوم بتهيئة مثيل جديد لملف`BezierKnotRecord` فئة . |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | يقوم بتهيئة مثيل جديد لملف`BezierKnotRecord` فئة . |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | يُنشئ مثيلاً جديداً من فئة `BezierKnotRecord`. |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | يُنشئ مثيلاً جديداً من فئة `BezierKnotRecord`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مغلقًا. |
-| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرتبطًا أم لا. |
-| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مفتوحًا. |
-| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | الحصول على نقاط المسار أو تعيينها . |
-| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | الحصول على النقاط أو تحديدها . |
+| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا المثيل مغلقاً. |
+| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا المثيل مرتبطًا. |
+| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا المثيل مفتوحًا. |
+| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | يحصل أو يعيّن نقاط المسار. |
+| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | يحصل أو يعيّن النقاط. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | يحصل على النوع. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم تحميل موارد VmskResource. كيف يعمل تحرير المسارات.
+المثال التالي يوضح دعم تحميل مورد VmskResource. كيف يعمل تحرير المسارات.
 
 ```csharp
 [C#]
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // لا تحتوي قاعدة تعبئة المسار على أي معلومات إضافية
+        // قاعدة تعبئة المسار لا تحتوي على أي معلومات إضافية
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -76,7 +77,7 @@ public void TestPsdNet106()
         {
             throw new Exception("VmskResource paths were read wrong");
         }
-        // التحرير
+        // تحرير
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // لا تحتوي قاعدة تعبئة المسار على أي معلومات إضافية
+        // قاعدة تعبئة المسار لا تحتوي على أي معلومات إضافية
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -157,7 +158,7 @@ public void TestPsdNet140()
             throw new Exception("VsmsResource paths were read wrong");
         }
 
-        // التحرير
+        // تحرير
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -192,10 +193,10 @@ private VsmsResource GetVsmsResource(PsdImage image)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

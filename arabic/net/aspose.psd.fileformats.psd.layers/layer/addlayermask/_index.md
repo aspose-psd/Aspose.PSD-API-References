@@ -1,11 +1,12 @@
 ---
-title: Layer.AddLayerMask
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer طريقة. يضيف القناع إلى الطبقة الحالية.
+title: "Layer.AddLayerMask"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Layer. يضيف القناع إلى الطبقة الحالية"
 type: docs
-weight: 330
+weight: 340
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 ---
+{{< psd/tize >}}
 ## Layer.AddLayerMask method
 
 يضيف القناع إلى الطبقة الحالية.
@@ -14,21 +15,21 @@ url: /ar/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 public void AddLayerMask(LayerMaskData layerMask)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | layerMask | LayerMaskData | قناع الطبقة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | قناع الطبقة الكاملة غير مدعوم للإعداد حتى الآن ، يرجى استخدام LayerMaskDataShort |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | قناع الطبقة الكامل غير مدعوم للإعداد بعد، يرجى استخدام LayerMaskDataShort |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

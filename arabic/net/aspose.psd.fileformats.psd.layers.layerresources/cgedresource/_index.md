@@ -1,59 +1,60 @@
 ---
-title: Class CgEdResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource فصل. فئة CgEdResource. بيانات إضافية لمولِّد المحتوى Photoshop CS5
+title: "الفئة CgEdResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource الفئة. الفئة CgEdResource. بيانات إضافية لمولد المحتوى Photoshop CS5"
 type: docs
-weight: 2350
+weight: 2610
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource class
 
-فئة CgEdResource. بيانات إضافية لمولِّد المحتوى (Photoshop CS5)
+الفئة CgEdResource. بيانات إضافية لمولد المحتوى (Photoshop CS5)
 
 ```csharp
 public class CgEdResource : AdjustmentLayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CgEdResource](cgedresource/)() | Default_Constructor |
+| [CgEdResource](cgedresource/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`CgEdResource` تلقائي. |
-| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/) { get; set; } | الحصول على أو ضبط السطوع . |
-| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/) { get; set; } | الحصول على التباين أو تعيينه . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [لون معمل] مستخدمًا. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | الحصول على القيمة المتوسطة للسطوع والتباين أو تعيينها. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | يحصل على التوقيع. |
-| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [استخدام قديم] . |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/) { get; set; } | الحصول على الإصدار أو تحديده. |
+| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا `CgEdResource` تلقائيًا. |
+| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/) { get; set; } | يحصل أو يضبط السطوع. |
+| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/) { get; set; } | يحصل أو يضبط التباين. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [lab color] مستخدمًا. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | يحصل أو يضبط القيمة المتوسطة للسطوع والتباين. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
+| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [use legacy] مستخدمًا. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/) { get; set; } | يحصل أو يضبط الإصدار. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

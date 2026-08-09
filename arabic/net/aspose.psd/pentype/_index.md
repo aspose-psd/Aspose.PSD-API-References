@@ -1,32 +1,33 @@
 ---
-title: Enum PenType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.PenType تعداد. يحدد نوع التعبئة أPen يستخدم الكائن لتعبئة الأسطر.
+title: "التعداد PenType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.PenType. يحدد نوع التعبئة التي يستخدمها كائن Pen لتعبئة الخطوط"
 type: docs
-weight: 5220
+weight: 5710
 url: /ar/net/aspose.psd/pentype/
 ---
+{{< psd/tize >}}
 ## PenType enumeration
 
-يحدد نوع التعبئة أ[`Pen`](../pen/) يستخدم الكائن لتعبئة الأسطر.
+يحدد نوع التعبئة التي يستخدمها كائن [`Pen`](../pen/) لتعبئة الخطوط.
 
 ```csharp
 public enum PenType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SolidColor | `0` | تحديد تعبئة خالصة . |
-| HatchFill | `1` | يحدد فتحة تعبئة . |
-| TextureFill | `2` | تحديد تعبئة مادة نقطية . |
-| PathGradient | `3` | تحديد تعبئة متدرجة للمسار . |
-| LinearGradient | `4` | تحديد تعبئة متدرجة خطية . |
+| SolidColor | `0` | يحدد تعبئة صلبة. |
+| HatchFill | `1` | يحدد تعبئة مخططة. |
+| TextureFill | `2` | يحدد تعبئة بنقش صورة نقطية. |
+| PathGradient | `3` | يحدد تعبئة تدرج مسار. |
+| LinearGradient | `4` | يحدد تعبئة تدرج خطي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

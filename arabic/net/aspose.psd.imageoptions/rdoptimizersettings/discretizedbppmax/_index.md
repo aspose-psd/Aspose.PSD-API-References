@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.DiscretizedBppMax
-second_title: Aspose.PSD لمرجع .NET API
-description: RdOptimizerSettings ملكية. الحصول على الحد الأقصى لقيمة R للنظر فيها .
+title: "RdOptimizerSettings.DiscretizedBppMax"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RdOptimizerSettings. يحصل على القيمة القصوى R للنظر فيها"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.DiscretizedBppMax property
 
-الحصول على الحد الأقصى لقيمة R للنظر فيها .
+يحصل على القيمة القصوى R للنظر فيها.
 
 ```csharp
 public int DiscretizedBppMax { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأقصى لقيمة R للنظر فيها .
+القيمة القصوى R للنظر فيها.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RdOptimizerSettings](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum CacheType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CacheType تعداد. يحدد نوع ذاكرة التخزين المؤقت المراد استخدامه.
+title: "التعداد CacheType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.CacheType تعداد. يحدد نوع الذاكرة المؤقتة للاستخدام"
 type: docs
 weight: 250
 url: /ar/net/aspose.psd/cachetype/
 ---
+{{< psd/tize >}}
 ## CacheType enumeration
 
-يحدد نوع ذاكرة التخزين المؤقت المراد استخدامه.
+يحدد نوع الذاكرة المؤقتة للاستخدام.
 
 ```csharp
 public enum CacheType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Auto | `0` | يحدد نوع ذاكرة التخزين المؤقت التلقائي. سيحاول نظام التخزين المؤقت التلقائي التخزين المؤقت في الذاكرة أولاً ثم على القرص. |
-| CacheOnDiskOnly | `1` | ذاكرة التخزين المؤقت على القرص فقط. |
-| CacheInMemoryOnly | `2` | ذاكرة التخزين المؤقت في الذاكرة فقط . |
+| Auto | `0` | يحدد نوع الذاكرة المؤقتة التلقائي. سيحاول مخطط الذاكرة المؤقتة التلقائي التخزين في الذاكرة أولاً ثم على القرص. |
+| CacheOnDiskOnly | `1` | الذاكرة المؤقتة على القرص فقط. |
+| CacheInMemoryOnly | `2` | ذاكرة التخزين المؤقتة في الذاكرة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.RgbIndexed2Bpp
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. يحصل على ملفPixelDataFormatمعرّفة لـ 2 بت لكل لون . الغرض من تخزين بيانات البكسل المفهرس هو السماح بتخزين البيانات واسترجاعها في كل مكان تُستخدم فيه لوحة الألوان. .
+title: "PixelDataFormat.RgbIndexed2Bpp"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. يحصل على PixelDataFormat المعرفة بـ 2 بت لكل لون مفهرس. تم تصميم تخزين بيانات البكسل المفهرسة للسماح بتخزين البيانات واسترجاعها في كل مكان يُستخدم فيه لوحة الألوان. استخدمها بحذر لأن ذلك قد يتطلب تحويلًا من لوحة ألوان إلى أخرى أو من RGBA إلى نموذج ألوان مفهرس."
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/pixeldataformat/rgbindexed2bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.RgbIndexed2Bpp property
 
-يحصل على ملف[`PixelDataFormat`](../)معرّفة لـ 2 بت لكل لون . الغرض من تخزين بيانات البكسل المفهرس هو السماح بتخزين البيانات واسترجاعها في كل مكان تُستخدم فيه لوحة الألوان. .
+يحصل على [`PixelDataFormat`](../) المعرفة بـ 2 بت لكل لون مفهرس. تم تصميم تخزين بيانات البكسل المفهرسة للسماح بتخزين البيانات واسترجاعها في كل مكان تُستخدم فيه لوحة الألوان. استخدمها بحذر، لأن ذلك قد يتطلب تحويلًا من لوحة ألوان إلى أخرى أو من RGBA إلى نموذج ألوان مفهرس.
 
 ```csharp
 public static PixelDataFormat RgbIndexed2Bpp { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`PixelDataFormat`](../) معرّفة من أجل 2 بت مفهرسة لكل لون.
+الـ [`PixelDataFormat`](../) المعرفة بـ 2 بت لكل لون مفهرس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

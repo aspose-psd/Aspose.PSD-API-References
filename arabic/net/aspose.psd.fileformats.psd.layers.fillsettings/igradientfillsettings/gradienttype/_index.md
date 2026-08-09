@@ -1,28 +1,59 @@
 ---
-title: IGradientFillSettings.GradientType
-second_title: Aspose.PSD لمرجع .NET API
-description: IGradientFillSettings ملكية. الحصول على نوع التدرج اللوني أو تحديده.
+title: "IGradientFillSettings.GradientType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IGradientFillSettings. يحصل أو يعيّن نوع التدرج"
 type: docs
-weight: 70
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.GradientType property
 
-الحصول على نوع التدرج اللوني أو تحديده.
+يحصل أو يعيّن نوع التدرج.
 
 ```csharp
 public GradientType GradientType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع التدرج اللوني .
+نوع التدرج.
 
-### أنظر أيضا
+## أمثلة
+
+الكود التالي يحفظ صورًا بأنواع مختلفة من التدرج ويظهر كيف يقوم Aspose.PSD برسم التدرج.
+
+```csharp
+[C#]
+
+string fileName = "FillLayerGradient.psd";
+string sourceFile = fileName;
+GradientType[] gradientTypes = new[]
+{
+    GradientType.Linear, GradientType.Radial, GradientType.Angle, GradientType.Reflected, GradientType.Diamond
+};
+using (var image = Image.Load(sourceFile))
+{
+    PsdImage psdImage = (PsdImage)image;
+    FillLayer fillLayer = (FillLayer)psdImage.Layers[0];
+    GradientFillSettings fillSettings = (GradientFillSettings)fillLayer.FillSettings;
+    foreach (var gradientType in gradientTypes)
+    {
+        fillSettings.GradientType = gradientType;
+        fillLayer.Update();
+
+        string resultFile = fileName + "_" + gradientType.ToString() + ".png";
+        resultFile = resultFile;
+        psdImage.Save(resultFile, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+    }
+}
+```
+
+### انظر أيضًا
 
 * enum [GradientType](../../gradienttype/)
 * interface [IGradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

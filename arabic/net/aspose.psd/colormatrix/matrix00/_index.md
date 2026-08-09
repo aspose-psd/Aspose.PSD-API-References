@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix00
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMatrix ملكية. الحصول على العنصر أو تحديده عند الصف 0 صفر والعمود 0 من هذاColorMatrix .
+title: "ColorMatrix.Matrix00"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorMatrix. يحصل أو يعيّن العنصر في الصف 0 (صفر) والعمود 0 من هذا ColorMatrix"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/colormatrix/matrix00/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix00 property
 
-الحصول على العنصر أو تحديده عند الصف 0 (صفر) والعمود 0 من هذا[`ColorMatrix`](../) .
+يحصل أو يعيّن العنصر في الصف 0 (صفر) والعمود 0 من هذا [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix00 { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العنصر الموجود في الصف 0 والعمود 0 من هذا[`ColorMatrix`](../).
+العنصر في الصف 0 والعمود 0 من هذا [`ColorMatrix`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../)
-* مساحة الاسم [Aspose.PSD](../../colormatrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

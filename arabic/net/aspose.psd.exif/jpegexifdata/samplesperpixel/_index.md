@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.SamplesPerPixel
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على أو تعيين العينات لكل بكسل.
+title: "JpegExifData.SamplesPerPixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين العينات لكل بكسل"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd.exif/jpegexifdata/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SamplesPerPixel property
 
-الحصول على أو تعيين العينات لكل بكسل.
+يحصل أو يضبط عدد العينات لكل بكسل.
 
 ```csharp
 public ushort SamplesPerPixel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 العينات لكل بكسل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

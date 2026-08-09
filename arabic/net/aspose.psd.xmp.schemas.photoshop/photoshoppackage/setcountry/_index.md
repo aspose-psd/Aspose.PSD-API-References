@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetCountry
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يحدد البلد.
+title: "PhotoshopPackage.SetCountry"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PhotoshopPackage. تعيين الدولة"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCountry method
 
-يحدد البلد.
+يضبط الدولة.
 
 ```csharp
 public void SetCountry(string country)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| country | String | البلد. |
+| الدولة | String | الدولة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

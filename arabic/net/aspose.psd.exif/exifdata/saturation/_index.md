@@ -1,28 +1,29 @@
 ---
-title: ExifData.Saturation
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين التشبع.
+title: "ExifData.Saturation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين التشبع"
 type: docs
 weight: 890
 url: /ar/net/aspose.psd.exif/exifdata/saturation/
 ---
+{{< psd/tize >}}
 ## ExifData.Saturation property
 
-الحصول على أو تعيين التشبع.
+الحصول أو تعيين التشبع.
 
 ```csharp
 public ExifSaturation Saturation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 التشبع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifSaturation](../../../aspose.psd.exif.enums/exifsaturation/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

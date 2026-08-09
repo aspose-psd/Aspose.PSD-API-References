@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.ScaleTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: TransformBrush طريقة. مقياس التحويل الهندسي المحلي بالمقادير المحددة. تضيف هذه الطريقة مصفوفة القياس إلى التحويل.
+title: "TransformBrush.ScaleTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TransformBrush. تقوم بتوسيع التحويل الهندسي المحلي بالمقادير المحددة. تقوم هذه الطريقة بإلحاق مصفوفة التحجيم إلى التحويل."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.brushes/transformbrush/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-مقياس التحويل الهندسي المحلي بالمقادير المحددة. تضيف هذه الطريقة مصفوفة القياس إلى التحويل.
+يقوم بتكبير التحويل الهندسي المحلي بالقيم المحددة. هذه الطريقة تلحق مصفوفة التكبير إلى التحويل.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sx | Single | المقدار الذي يتم من خلاله قياس التحويل في اتجاه المحور السيني. |
-| sy | Single | المقدار الذي يتم من خلاله قياس التحويل في اتجاه المحور ص. |
+| sx | Single | القيمة التي يتم بها تحجيم التحويل في اتجاه المحور x. |
+| sy | Single | القيمة التي يتم بها تحجيم التحويل في اتجاه المحور y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransformBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../transformbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-قياس التحويل الهندسي المحلي بالمقادير المحددة بالترتيب المحدد.
+يقوم بتكبير التحويل الهندسي المحلي بالقيم المحددة بالترتيب المحدد.
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sx | Single | المقدار الذي يتم من خلاله قياس التحويل في اتجاه المحور السيني. |
-| sy | Single | المقدار الذي يتم من خلاله قياس التحويل في اتجاه المحور ص. |
-| order | MatrixOrder | أ[`MatrixOrder`](../../../aspose.psd/matrixorder/) التي تحدد ما إذا كان سيتم إلحاق أو اعتماد مصفوفة القياس. |
+| sx | Single | القيمة التي يتم بها تحجيم التحويل في اتجاه المحور x. |
+| sy | Single | القيمة التي يتم بها تحجيم التحويل في اتجاه المحور y. |
+| order | MatrixOrder | ـ [`MatrixOrder`](../../../aspose.psd/matrixorder/) يحدد ما إذا كان سيتم إضافة أو إلحاق مسبقًا مصفوفة التحجيم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../transformbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

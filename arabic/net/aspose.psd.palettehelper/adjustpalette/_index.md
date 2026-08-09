@@ -1,11 +1,12 @@
 ---
-title: Class AdjustPalette
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.PaletteHelper.AdjustPalette فصل. فئة ضبط لوحة الألوان
+title: "الفئة AdjustPalette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.PaletteHelper.AdjustPalette. فئة تعديل لوحة الألوان"
 type: docs
-weight: 5180
+weight: 5670
 url: /ar/net/aspose.psd.palettehelper/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette class
 
 فئة ضبط لوحة الألوان
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.palettehelper/adjustpalette/
 public class AdjustPalette
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AdjustPalette](adjustpalette/)() | Default_Constructor |
+| [AdjustPalette](adjustpalette/)() | الباني الافتراضي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../)
 
 

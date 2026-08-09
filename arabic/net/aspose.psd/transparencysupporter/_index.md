@@ -1,34 +1,35 @@
 ---
-title: Class TransparencySupporter
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.TransparencySupporter فصل. الكائن الذي يدعم الشفافية .
+title: "الصنف TransparencySupporter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الصنف Aspose.PSD.TransparencySupporter. الكائن الذي يدعم الشفافية."
 type: docs
-weight: 5710
+weight: 6210
 url: /ar/net/aspose.psd/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter class
 
-الكائن الذي يدعم الشفافية .
+الكائن الداعم للشفافية.
 
 ```csharp
 public class TransparencySupporter
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TransparencySupporter](transparencysupporter/)() | Default_Constructor |
+| [TransparencySupporter](transparencysupporter/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | الحصول على عتامة الكائن أو تعيينها. يجب أن تكون القيمة بين 0 و 1. تعني القيمة 0 أن الكائن مرئي بالكامل ، بينما تعني القيمة 1 أن الكائن معتم بالكامل. |
+| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | يحصل أو يضبط شفافية الكائن. يجب أن تكون القيمة بين 0 و 1. القيمة 0 تعني أن الكائن مرئي بالكامل، والقيمة 1 تعني أن الكائن غير شفاف تماماً. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

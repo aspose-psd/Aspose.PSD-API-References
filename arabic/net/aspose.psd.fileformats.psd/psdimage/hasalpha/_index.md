@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasAlpha
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على أو تحديد الدقة الرأسية  بالبكسل في البوصة  لهذاRasterImage .
+title: "PsdImage.HasAlpha"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. الحصول على أو تعيين الدقة العمودية بالبكسل لكل بوصة لهذا RasterImage"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasAlpha property
 
-الحصول على أو تحديد الدقة الرأسية ، بالبكسل في البوصة ، لهذا[`RasterImage`](../../../aspose.psd/rasterimage/) .
+الحصول على أو تعيين الدقة العمودية، بالبكسل لكل بوصة، لهذا [`RasterImage`](../../../aspose.psd/rasterimage/).
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال يحتوي على alpha ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن يحتوي على ألفا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

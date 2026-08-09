@@ -1,29 +1,30 @@
 ---
-title: Class SmallRectangularFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions فصل. خيارات مرشح مستطيل صغير
+title: "الفئة SmallRectangularFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions. خيارات مرشح مستطيل صغير"
 type: docs
-weight: 4750
+weight: 5220
 url: /ar/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions class
 
-خيارات مرشح مستطيل صغير
+خيارات الفلتر المستطيلة الصغيرة
 
 ```csharp
 public class SmallRectangularFilterOptions : FilterOptionsBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | Default_Constructor |
+| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | الباني الافتراضي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

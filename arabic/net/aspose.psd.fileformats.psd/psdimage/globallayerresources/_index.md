@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GlobalLayerResources
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على موارد الطبقة العالمية أو تعيينها.
+title: "PsdImage.GlobalLayerResources"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل أو تعيّن موارد الطبقة العامة."
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/globallayerresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerResources property
 
-الحصول على موارد الطبقة العالمية أو تعيينها.
+يحصل أو يعيّن موارد الطبقة العامة.
 
 ```csharp
 public LayerResource[] GlobalLayerResources { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موارد الطبقة العالمية .
+موارد الطبقة العامة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

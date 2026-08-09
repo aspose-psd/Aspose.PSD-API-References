@@ -1,23 +1,24 @@
 ---
-title: ClassStructure.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: ClassStructure ملكية. يحصل على ملفOSTypeStructure الطول بالبايت.
+title: "ClassStructure.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ClassStructure. تحصل على طول OSTypeStructure بالبايت"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length/
 ---
+{{< psd/tize >}}
 ## ClassStructure.Length property
 
-يحصل على ملف[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) الطول بالبايت.
+تحصل على طول [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

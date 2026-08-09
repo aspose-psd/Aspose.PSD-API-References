@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAltTapeName
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يعين اسم الشريط البديل.
+title: "XmpDynamicMediaPackage.SetAltTapeName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. يضبط اسم الشريط البديل"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttapename/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAltTapeName method
 
-يعين اسم الشريط البديل.
+يضبط اسم الشريط البديل.
 
 ```csharp
 public void SetAltTapeName(string altTapeName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | altTapeName | String | اسم الشريط البديل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

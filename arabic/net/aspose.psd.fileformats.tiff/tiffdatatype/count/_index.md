@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.Count
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffDataType ملكية. يحصل على عدد العناصر .
+title: "TiffDataType.Count"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffDataType. تحصل على عدد العناصر"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.tiff/tiffdatatype/count/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Count property
 
-يحصل على عدد العناصر .
+يحصل على عدد العناصر.
 
 ```csharp
 public abstract uint Count { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد العناصر .
+عدد العناصر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

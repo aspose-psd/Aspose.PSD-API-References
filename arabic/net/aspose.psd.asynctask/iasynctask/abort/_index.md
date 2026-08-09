@@ -1,23 +1,24 @@
 ---
-title: IAsyncTask.Abort
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTask طريقة. إحباط هذه المهمة. تكتمل المهمة على الفور  مع المخاطرة بعدم تحرير الموارد الداخلية غير المُدارة .
+title: "IAsyncTask.Abort"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IAsyncTask. تُلغي هذه المهمة. تُكتمل المهمة فورًا مع خطر عدم تحرير الموارد غير المُدارة الداخلية"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.asynctask/iasynctask/abort/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Abort method
 
-إحباط هذه المهمة. تكتمل المهمة على الفور ، مع المخاطرة بعدم تحرير الموارد الداخلية غير المُدارة .
+يُوقف هذه المهمة. تُكتمل المهمة فورًا، مع خطر عدم تحرير الموارد غير المُدارة الداخلية.
 
 ```csharp
 public void Abort()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

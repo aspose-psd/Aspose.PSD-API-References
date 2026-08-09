@@ -1,22 +1,23 @@
 ---
-title: BackgroundColorResource.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: BackgroundColorResource ملكية. الحصول على لون الخلفية أو تعيينه.
+title: "BackgroundColorResource.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BackgroundColorResource. يحصل على أو يضبط لون الخلفية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
-الحصول على لون الخلفية أو تعيينه.
+يحصل أو يضبط لون الخلفية.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم مورد BackgroundColorResource.
+المثال التالي يوضح دعم المورد BackgroundColorResource.
 
 ```csharp
 [C#]
@@ -44,11 +45,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

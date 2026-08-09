@@ -1,27 +1,28 @@
 ---
-title: Layer.Right
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تحديد موضع الطبقة الصحيح.
+title: "Layer.Right"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل على أو تعيين موضع الطبقة اليمنى"
 type: docs
-weight: 290
+weight: 300
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
+{{< psd/tize >}}
 ## Layer.Right property
 
-الحصول على أو تحديد موضع الطبقة الصحيح.
+يحصل أو يضبط موضع الطبقة اليمنى.
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موضع الطبقة الصحيح .
+موضع الطبقة اليمنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

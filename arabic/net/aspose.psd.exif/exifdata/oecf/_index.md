@@ -1,27 +1,28 @@
 ---
-title: ExifData.OECF
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين وظيفة التحويل البصري الكهربائي OECF المحددة في ISO 14524.
+title: "ExifData.OECF"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين دالة التحويل الضوئي الكهربائي OECF المحددة في ISO 14524"
 type: docs
 weight: 820
 url: /ar/net/aspose.psd.exif/exifdata/oecf/
 ---
+{{< psd/tize >}}
 ## ExifData.OECF property
 
-الحصول على أو تعيين وظيفة التحويل البصري الكهربائي (OECF) المحددة في ISO 14524.
+يحصل أو يعيّن وظيفة التحويل الضوئي-الكهربائي (OECF) المحددة في ISO 14524.
 
 ```csharp
 public byte[] OECF { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وظيفة التحويل البصري الكهربائي (OECF) المحددة في ISO 14524.
+دالة التحويل الضوئي الكهربائي (OECF) المحددة في ISO 14524.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

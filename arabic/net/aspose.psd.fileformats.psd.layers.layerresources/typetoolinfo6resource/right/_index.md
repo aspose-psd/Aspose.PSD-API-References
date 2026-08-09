@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Right
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على الموقع الصحيح أو تحديده.
+title: "TypeToolInfo6Resource.Right"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfo6Resource. تحصل أو تعيين الموقع الأيمن"
 type: docs
-weight: 110
+weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/right/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Right property
 
-الحصول على الموقع الصحيح أو تحديده.
+يحصل أو يضبط موقع اليمين.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموقع الصحيح .
+الموقع الأيمن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

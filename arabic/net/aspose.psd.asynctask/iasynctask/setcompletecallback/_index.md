@@ -1,28 +1,29 @@
 ---
-title: IAsyncTask.SetCompleteCallback
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTask طريقة. يعين مفوض رد الاتصال الكامل.
+title: "IAsyncTask.SetCompleteCallback"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IAsyncTask. تعيين مُندوب الاستدعاء الكامل"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.asynctask/iasynctask/setcompletecallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetCompleteCallback method
 
-يعين مفوض رد الاتصال الكامل.
+يضبط مفوض الاستدعاء عند الاكتمال.
 
 ```csharp
 public void SetCompleteCallback(CompleteCallback completeCallback)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| completeCallback | CompleteCallback | رد الاتصال الكامل. |
+| completeCallback | CompleteCallback | استدعاء الإكمال. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [CompleteCallback](../../completecallback/)
 * interface [IAsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

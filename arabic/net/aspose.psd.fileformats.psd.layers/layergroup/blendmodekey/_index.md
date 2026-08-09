@@ -1,28 +1,29 @@
 ---
-title: LayerGroup.BlendModeKey
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerGroup ملكية. الحصول على أو تعيين مفتاح وضع المزج.
+title: "LayerGroup.BlendModeKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerGroup. تحصل أو تعيّن مفتاح وضع المزج"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers/layergroup/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerGroup.BlendModeKey property
 
-الحصول على أو تعيين مفتاح وضع المزج.
+يحصل أو يعيّن مفتاح وضع الدمج.
 
 ```csharp
 public override BlendMode BlendModeKey { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مفتاح وضع المزج .
+مفتاح وضع المزج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerGroup](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

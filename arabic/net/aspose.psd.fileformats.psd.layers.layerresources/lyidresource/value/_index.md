@@ -1,27 +1,28 @@
 ---
-title: LyidResource.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: LyidResource ملكية. يحصل على القيمة .
+title: "LyidResource.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LyidResource. تحصل على القيمة"
 type: docs
-weight: 60
+weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/
 ---
+{{< psd/tize >}}
 ## LyidResource.Value property
 
-يحصل على القيمة .
+يحصل على القيمة.
 
 ```csharp
 public int Value { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LyidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

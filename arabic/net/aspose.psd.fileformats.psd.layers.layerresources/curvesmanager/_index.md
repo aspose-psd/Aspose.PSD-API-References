@@ -1,11 +1,12 @@
 ---
-title: Class CurvesManager
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager فصل. الفئة الأساسية لإدارة CurvResource
+title: "الفئة CurvesManager"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager فئة. الفئة الأساسية لإدارة CurvResource"
 type: docs
-weight: 2430
+weight: 2690
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager class
 
 الفئة الأساسية لإدارة CurvResource
@@ -14,21 +15,21 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 public abstract class CurvesManager
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CurvesManager](curvesmanager/)(int) | يقوم بتهيئة مثيل جديد لملف`CurvesManager` فئة . |
+| [CurvesManager](curvesmanager/)(int) | ينشئ مثيلاً جديداً للفئة `CurvesManager`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | يحصل على الحد الأقصى لعدد القنوات . |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | يحصل على الحد الأقصى لعدد القنوات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

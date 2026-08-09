@@ -1,14 +1,15 @@
 ---
-title: IImageExporterDescriptor.CreateInstance
-second_title: Aspose.PSD لمرجع .NET API
-description: IImageExporterDescriptor طريقة. إنشاء مثيل مصدر جديد .
+title: "IImageExporterDescriptor.CreateInstance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IImageExporterDescriptor. ينشئ مثيلًا جديدًا للمُصدّر"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/iimageexporterdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CreateInstance method
 
-إنشاء مثيل مصدر جديد .
+ينشئ نسخة مُصدّر جديدة.
 
 ```csharp
 public IImageExporter CreateInstance()
@@ -16,13 +17,13 @@ public IImageExporter CreateInstance()
 
 ### قيمة الإرجاع
 
-مثيل مصدر جديد.
+مثيل جديد للمُصدّر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* مساحة الاسم [Aspose.PSD](../../iimageexporterdescriptor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

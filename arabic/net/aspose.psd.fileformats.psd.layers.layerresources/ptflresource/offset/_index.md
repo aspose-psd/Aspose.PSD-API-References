@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.Offset
-second_title: Aspose.PSD لمرجع .NET API
-description: PtFlResource ملكية. الحصول على الإزاحة أو تعيينها .
+title: "PtFlResource.Offset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PtFlResource. الحصول أو تعيين الإزاحة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Offset property
 
-الحصول على الإزاحة أو تعيينها .
+يحصل أو يضبط الإزاحة.
 
 ```csharp
 public Point Offset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإزاحة .
+الإزاحة.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم تحميل وتحرير مورد PtFlResource.
+المثال التالي يوضح دعم تحميل وتحرير مورد PtFlResource.
 
 ```csharp
 [C#]
@@ -55,13 +56,13 @@ using (im)
                         throw new Exception("PtFl Resource was read incorrect");
                     }
 
-                    // التحرير
+                    // تحرير
                     resource.Offset = new Point(-11, 13);
                     resource.Scale = 200;
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // ليس لدينا بيانات الأنماط في PattResource ، لذا يمكننا إضافتها.
+                    // ليس لدينا بيانات نمط في PattResource، لذا يمكننا إضافتها.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,11 +87,11 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PtFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

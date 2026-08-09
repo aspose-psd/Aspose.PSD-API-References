@@ -1,23 +1,24 @@
 ---
-title: IccProfileResource.IccProfileResource
-second_title: Aspose.PSD لمرجع .NET API
-description: IccProfileResource البناء. Default_Constructor
+title: "IccProfileResource.IccProfileResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ IccProfileResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofileresource/
 ---
+{{< psd/tize >}}
 ## IccProfileResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public IccProfileResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IccProfileResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

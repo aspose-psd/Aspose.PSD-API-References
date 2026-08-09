@@ -1,33 +1,34 @@
 ---
-title: DropShadowEffect.Noise
-second_title: Aspose.PSD لمرجع .NET API
-description: DropShadowEffect ملكية. الحصول على الضوضاء أو ضبطها .
+title: "DropShadowEffect.Noise"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DropShadowEffect. يحصل أو يضبط الضوضاء"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Noise property
 
-الحصول على الضوضاء أو ضبطها .
+يحصل أو يضبط الضوضاء.
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الضوضاء .
+الضوضاء.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب تحديد الضوضاء كنسبة مئوية في النطاق من 0 إلى 100 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DropShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

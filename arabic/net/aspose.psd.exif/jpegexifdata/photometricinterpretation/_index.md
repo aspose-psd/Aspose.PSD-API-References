@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.PhotometricInterpretation
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على التفسير الضوئي أو تعيينه.
+title: "JpegExifData.PhotometricInterpretation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين التفسير الضوئي"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.exif/jpegexifdata/photometricinterpretation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PhotometricInterpretation property
 
-الحصول على التفسير الضوئي أو تعيينه.
+يحصل أو يضبط التفسير الضوئي.
 
 ```csharp
 public ushort PhotometricInterpretation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التفسير الضوئي .
+التفسير الضوئي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

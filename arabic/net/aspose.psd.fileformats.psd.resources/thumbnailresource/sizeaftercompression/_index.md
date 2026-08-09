@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.SizeAfterCompression
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على الحجم أو تحديده بعد الضغط. تستخدم للتحقق من التناسق.
+title: "ThumbnailResource.SizeAfterCompression"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. تحصل أو تعين الحجم بعد الضغط. يُستخدم للتحقق من التناسق"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercompression/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.SizeAfterCompression property
 
-الحصول على الحجم أو تحديده بعد الضغط. تستخدم للتحقق من التناسق.
+يحصل أو يضبط الحجم بعد الضغط. يُستخدم للتحقق من التناسق.
 
 ```csharp
 public int SizeAfterCompression { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الحجم بعد الضغط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

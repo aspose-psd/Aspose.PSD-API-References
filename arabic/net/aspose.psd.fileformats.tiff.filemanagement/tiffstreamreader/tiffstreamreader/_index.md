@@ -1,91 +1,92 @@
 ---
-title: TiffStreamReader.TiffStreamReader
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader البناء. يقوم بتهيئة مثيل جديد لملفTiffStreamReader فئة .
+title: "TiffStreamReader.TiffStreamReader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TiffStreamReader. يهيئ نسخة جديدة من فئة TiffStreamReader"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tiffstreamreader/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffStreamReader`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات صفيف البايت. |
+| البيانات | Byte[] | بيانات مصفوفة البايت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffStreamReader`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات صفيف البايت. |
-| startIndex | Int32 | فهرس البداية إلى*data*. |
+| البيانات | Byte[] | بيانات مصفوفة البايت. |
+| startIndex | Int32 | فهرس البداية في *data*. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int, int) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffStreamReader`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex, int dataLength)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات صفيف البايت. |
-| startIndex | Int32 | فهرس البداية إلى*data*. |
+| البيانات | Byte[] | بيانات مصفوفة البايت. |
+| startIndex | Int32 | فهرس البداية في *data*. |
 | dataLength | Int32 | طول البيانات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(StreamContainer) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffStreamReader`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(StreamContainer streamContainer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
+| streamContainer | StreamContainer | حاوية الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

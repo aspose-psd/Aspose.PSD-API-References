@@ -1,57 +1,61 @@
 ---
-title: Class StringFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.StringFormat فصل. يحتوي على معلومات تخطيط النص مثل المحاذاة والاتجاه وعلامات الجدولة معالجات العرض مثل إدراج القطع واستبدال الأرقام الوطنية وميزات OpenType. لا يمكن توريث هذه الفئة.
+title: "فئة StringFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.StringFormat. تُغلف معلومات تخطيط النص مثل اتجاه المحاذاة وإيقافات الجدولة وتعديلات العرض مثل إدراج الثلاث نقاط واستبدال الأرقام الوطنية وميزات OpenType. لا يمكن وراثة هذه الفئة."
 type: docs
-weight: 5670
+weight: 6170
 url: /ar/net/aspose.psd/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat class
 
-يحتوي على معلومات تخطيط النص (مثل المحاذاة والاتجاه وعلامات الجدولة) معالجات العرض (مثل إدراج القطع واستبدال الأرقام الوطنية) وميزات OpenType. لا يمكن توريث هذه الفئة.
+يحتوي على معلومات تخطيط النص (مثل المحاذاة، الاتجاه وإيقافات الجدولة) وتعديلات العرض (مثل إدراج الحذف والاستبدال الرقمي الوطني) وميزات OpenType. لا يمكن وراثة هذه الفئة.
 
 ```csharp
 public sealed class StringFormat : DisposableObject
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [StringFormat](stringformat/#constructor)() | يقوم بتهيئة ملف`StringFormat` الكائن . |
-| [StringFormat](stringformat/#constructor_1)(StringFormat) | يقوم بتهيئة ملف`StringFormat` كائن من المحدد الموجود`StringFormat` الكائن . |
-| [StringFormat](stringformat/#constructor_2)(StringFormatFlags) | يقوم بتهيئة ملف`StringFormat` كائن مع المحدد[`StringFormatFlags`](../stringformatflags/) التعداد واللغة. |
+| [StringFormat](stringformat/#constructor)() | ينشئ كائن `StringFormat` جديد. |
+| [StringFormat](stringformat/#constructor_1)(StringFormat) | ينشئ كائن `StringFormat` جديد من كائن `StringFormat` الموجود المحدد. |
+| [StringFormat](stringformat/#constructor_2)(StringFormatFlags) | ينشئ كائن `StringFormat` جديد باستخدام تعداد [`StringFormatFlags`](../stringformatflags/) المحدد واللغة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [GenericDefault](../../aspose.psd/stringformat/genericdefault/) { get; } | يحصل على افتراضي عام`StringFormat` الكائن . |
-| static [GenericTypographic](../../aspose.psd/stringformat/generictypographic/) { get; } | يحصل على طباعة عامة`StringFormat` الكائن . |
-| [Alignment](../../aspose.psd/stringformat/alignment/) { get; set; } | الحصول على معلومات محاذاة النص على المستوى العمودي أو تعيينها. |
-| [DigitSubstitutionLanguage](../../aspose.psd/stringformat/digitsubstitutionlanguage/) { get; set; } | الحصول على أو تعيين اللغة المستخدمة عند استبدال الأرقام المحلية بالأرقام الغربية. |
-| [DigitSubstitutionMethod](../../aspose.psd/stringformat/digitsubstitutionmethod/) { get; set; } | الحصول على أو تعيين الطريقة التي سيتم استخدامها لاستبدال الأرقام. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل قد تم التخلص منه. |
-| [FirstTabOffset](../../aspose.psd/stringformat/firsttaboffset/) { get; } | الحصول على عدد المسافات بين بداية سطر من النص وعلامة الجدولة الأولى. |
-| [FormatFlags](../../aspose.psd/stringformat/formatflags/) { get; set; } | يحصل أو يحدد أ[`StringFormatFlags`](../stringformatflags/) التعداد الذي يحتوي على معلومات التنسيق. |
-| [HotkeyPrefix](../../aspose.psd/stringformat/hotkeyprefix/) { get; set; } | يحصل أو يحدد ملف[`HotkeyPrefix`](../hotkeyprefix/) كائن لهذا`StringFormat` الكائن . |
-| [LineAlignment](../../aspose.psd/stringformat/linealignment/) { get; set; } | الحصول على محاذاة الخط على المستوى الأفقي أو تعيينها. |
-| [TabStops](../../aspose.psd/stringformat/tabstops/) { get; } | الحصول على صفيف من المسافات بين علامات الجدولة في الوحدات المحددة بواسطة[`PageUnit`](../graphics/pageunit/) الملكية . |
-| [Trimming](../../aspose.psd/stringformat/trimming/) { get; set; } | يحصل أو يحدد ملف[`StringTrimming`](../stringtrimming/) تعداد لهذا`StringFormat` الكائن . |
+| static [GenericDefault](../../aspose.psd/stringformat/genericdefault/) { get; } | يحصل على كائن `StringFormat` افتراضي عام. |
+| static [GenericTypographic](../../aspose.psd/stringformat/generictypographic/) { get; } | يحصل على كائن `StringFormat` طباعي عام. |
+| [Alignment](../../aspose.psd/stringformat/alignment/) { get; set; } | يحصل أو يضبط معلومات محاذاة النص على المستوى العمودي. |
+| [CustomCharIdent](../../aspose.psd/stringformat/customcharident/) { get; set; } | يحصل أو يضبط معرف الحرف المخصص. |
+| [DigitSubstitutionLanguage](../../aspose.psd/stringformat/digitsubstitutionlanguage/) { get; set; } | يحصل أو يضبط اللغة المستخدمة عندما يتم استبدال الأرقام المحلية بالأرقام الغربية. |
+| [DigitSubstitutionMethod](../../aspose.psd/stringformat/digitsubstitutionmethod/) { get; set; } | يحصل أو يضبط الطريقة المستخدمة لاستبدال الأرقام. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن قد تم التخلص منه. |
+| [FirstTabOffset](../../aspose.psd/stringformat/firsttaboffset/) { get; } | يحصل على عدد المسافات بين بداية سطر النص وأول موضع تبويب. |
+| [FormatFlags](../../aspose.psd/stringformat/formatflags/) { get; set; } | يحصل أو يضبط تعداد [`StringFormatFlags`](../stringformatflags/) الذي يحتوي على معلومات التنسيق. |
+| [HotkeyPrefix](../../aspose.psd/stringformat/hotkeyprefix/) { get; set; } | يحصل أو يضبط كائن [`HotkeyPrefix`](../hotkeyprefix/) لهذا الكائن `StringFormat`. |
+| [LineAlignment](../../aspose.psd/stringformat/linealignment/) { get; set; } | يحصل أو يضبط محاذاة السطر على المستوى الأفقي. |
+| [TabStops](../../aspose.psd/stringformat/tabstops/) { get; } | يحصل على مصفوفة من المسافات بين مواضع التبويب بالوحدات المحددة بواسطة الخاصية [`PageUnit`](../graphics/pageunit/). |
+| [Trimming](../../aspose.psd/stringformat/trimming/) { get; set; } | يحصل أو يضبط تعداد [`StringTrimming`](../stringtrimming/) لهذا الكائن `StringFormat`. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DeepClone](../../aspose.psd/stringformat/deepclone/)() | لإنشاء نسخة عميقة من هذا`StringFormat` الكائن . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | التخلص من المثيل الحالي. |
-| [SetTabStops](../../aspose.psd/stringformat/settabstops/)(float, float[]) | تعيين علامات الجدولة لهذا الغرض`StringFormat` الكائن . |
-| override [ToString](../../aspose.psd/stringformat/tostring/)() | يحول هذا`StringFormat` كائن لسلسلة يمكن للبشر قراءتها . |
+| [DeepClone](../../aspose.psd/stringformat/deepclone/)() | ينشئ نسخة عميقة من هذا الكائن `StringFormat`. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | يتخلص من المثيل الحالي. |
+| override [Equals](../../aspose.psd/stringformat/equals/)(object) | تحقق مما إذا كانت الكائنات متساوية. |
+| override [GetHashCode](../../aspose.psd/stringformat/gethashcode/)() | احصل على قيمة التجزئة للكائن الحالي. |
+| [SetTabStops](../../aspose.psd/stringformat/settabstops/)(float, float[]) | يضبط مواضع التبويب لهذا الكائن `StringFormat`. |
+| override [ToString](../../aspose.psd/stringformat/tostring/)() | يحول هذا الكائن `StringFormat` إلى سلسلة قابلة للقراءة البشرية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DisposableObject](../disposableobject/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

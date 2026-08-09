@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.MeanValueForBrightnessAndContrast
-second_title: Aspose.PSD لمرجع .NET API
-description: CgEdResource ملكية. الحصول على القيمة المتوسطة للسطوع والتباين أو تعيينها.
+title: "CgEdResource.MeanValueForBrightnessAndContrast"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CgEdResource. يحصل أو يضبط القيمة المتوسطة للسطوع والتباين"
 type: docs
-weight: 80
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.MeanValueForBrightnessAndContrast property
 
-الحصول على القيمة المتوسطة للسطوع والتباين أو تعيينها.
+يحصل أو يضبط القيمة المتوسطة للسطوع والتباين.
 
 ```csharp
 public int MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-متوسط قيمة السطوع والتباين .
+القيمة المتوسطة للسطوع والتباين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CgEdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

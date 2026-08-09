@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Green
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على أو تعيين مكون اللون الأخضر.
+title: "AiLayerSection.Green"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين مكوّن اللون الأخضر"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
-الحصول على أو تعيين مكون اللون الأخضر.
+يحصل أو يعيّن مكوّن اللون الأخضر.
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مكون اللون الأخضر .
+مكوّن اللون الأخضر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StreamSource.DisposeStream
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamSource ملكية. يحصل على قيمة تشير إلى ما إذا كان يجب التخلص من التدفق عند التخلص من الحاوية.
+title: "StreamSource.DisposeStream"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StreamSource. تحصّل على قيمة تشير إلى ما إذا كان يجب التخلص من الدفق كلما تم التخلص من الحاوية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.sources/streamsource/disposestream/
 ---
+{{< psd/tize >}}
 ## StreamSource.DisposeStream property
 
-يحصل على قيمة تشير إلى ما إذا كان يجب التخلص من التدفق عند التخلص من الحاوية.
+يحصل على قيمة تشير إلى ما إذا كان يجب التخلص من التدفق كلما تم التخلص من الحاوية.
 
 ```csharp
 public bool DisposeStream { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان يجب التخلص من الدفق ؛ خلاف ذلك،`خطأ شنيع`.
+`true` إذا كان يجب التخلص من الدفق؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../streamsource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

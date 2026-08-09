@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Grayscale
-second_title: Aspose.PSD لمرجع .NET API
-description: DeconvolutionFilterOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذاDeconvolutionFilterOptions هو تدرج الرمادي. إرجاع وضع التدرج الرمادي أو وضع RGB.
+title: "DeconvolutionFilterOptions.Grayscale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DeconvolutionFilterOptions. يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا DeconvolutionFilterOptions بتدرج الرمادي. إرجاع وضع تدرج الرمادي أو وضع RGB"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Grayscale property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا[`DeconvolutionFilterOptions`](../) هو تدرج الرمادي. إرجاع وضع التدرج الرمادي أو وضع RGB.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا [`DeconvolutionFilterOptions`](../) بتدرج الرمادي. إرجاع وضع تدرج الرمادي أو وضع RGB.
 
 ```csharp
 public bool Grayscale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان التدرج الرمادي خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان بتدرج الرمادي؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DeconvolutionFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

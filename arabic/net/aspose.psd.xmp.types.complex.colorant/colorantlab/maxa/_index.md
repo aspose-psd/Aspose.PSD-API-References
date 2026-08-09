@@ -1,23 +1,24 @@
 ---
-title: ColorantLab.MaxA
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantLab مجال. القيمة القصوى للمكون A
+title: "ColorantLab.MaxA"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ColorantLab. أقصى قيمة لمكوّن A"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantlab/maxa/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MaxA field
 
-القيمة القصوى للمكون A
+القيمة القصوى للمكوّن A
 
 ```csharp
 public const int MaxA;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantLab](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

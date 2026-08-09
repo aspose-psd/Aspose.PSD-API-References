@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreAlphaChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdLoadOptions ملكية. الحصول على أو تعيين قيمة تشير إلى تجاهل قناة ألفا .
+title: "PsdLoadOptions.IgnoreAlphaChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdLoadOptions. تحصل أو تعين قيمة تشير إلى ما إذا كان يتم تجاهل قناة ألفا"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreAlphaChannel property
 
-الحصول على أو تعيين قيمة تشير إلى [تجاهل قناة ألفا] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [تجاهل قناة ألفا].
 
 ```csharp
 public bool IgnoreAlphaChannel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [تجاهل قناة ألفا] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [تجاهل قناة ألفا]; وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdLoadOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

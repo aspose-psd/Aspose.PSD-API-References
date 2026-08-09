@@ -1,71 +1,72 @@
 ---
-title: Class SplitStreamContainer
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.SplitStreamContainer فصل. يمثل حاوية الدفق المنقسمة التي تحتوي على الدفق وتوفر إجراءات معالجة الدفق.
+title: "الفئة SplitStreamContainer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.SplitStreamContainer. تمثل حاوية تدفق مقسمة تحتوي على التدفق وتوفر روتينات معالجة التدفق"
 type: docs
-weight: 5630
+weight: 6130
 url: /ar/net/aspose.psd/splitstreamcontainer/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer class
 
-يمثل حاوية الدفق المنقسمة التي تحتوي على الدفق وتوفر إجراءات معالجة الدفق.
+يمثل حاوية تدفق مقسمة تحتوي على التدفق وتوفر روتينات معالجة التدفق.
 
 ```csharp
 public class SplitStreamContainer : StreamContainer
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SplitStreamContainer](splitstreamcontainer/#constructor_1)(Stream) | يقوم بتهيئة مثيل جديد لملف`SplitStreamContainer` فئة . |
-| [SplitStreamContainer](splitstreamcontainer/#constructor_2)(Stream, bool) | يقوم بتهيئة مثيل جديد لملف`SplitStreamContainer` فئة . |
-| [SplitStreamContainer](splitstreamcontainer/#constructor)(StreamContainer, bool) | يقوم بتهيئة مثيل جديد لملف`SplitStreamContainer` فئة . |
+| [SplitStreamContainer](splitstreamcontainer/#constructor_1)(Stream) | يُهيئ مثلاً جديداً من الفئة `SplitStreamContainer`. |
+| [SplitStreamContainer](splitstreamcontainer/#constructor_2)(Stream, bool) | يُهيئ مثلاً جديداً من الفئة `SplitStreamContainer`. |
+| [SplitStreamContainer](splitstreamcontainer/#constructor)(StreamContainer, bool) | يُهيئ مثلاً جديداً من الفئة `SplitStreamContainer`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [CanRead](../../aspose.psd/splitstreamcontainer/canread/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الدفق يدعم القراءة. |
-| override [CanSeek](../../aspose.psd/splitstreamcontainer/canseek/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الدفق يدعم البحث. |
-| override [CanWrite](../../aspose.psd/splitstreamcontainer/canwrite/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الدفق يدعم الكتابة. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل قد تم التخلص منه. |
-| virtual [IsStreamDisposedOnClose](../../aspose.psd/streamcontainer/isstreamdisposedonclose/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الدفق سيتم التخلص منه عند الإغلاق. |
-| override [Length](../../aspose.psd/splitstreamcontainer/length/) { get; set; } | الحصول على طول الدفق بالبايت أو تحديده. هذه القيمة أقل منLengthمن خلال موضع دفق البداية الذي تم تمريره في مُنشئ StreamContainer. |
-| override [Position](../../aspose.psd/splitstreamcontainer/position/) { get; set; } | الحصول على أو تحديد الموضع الحالي ضمن الدفق. تمثل هذه القيمة الإزاحة من موضع دفق البداية الذي تم تمريره في مُنشئ StreamContainer. |
-| override [Stream](../../aspose.psd/splitstreamcontainer/stream/) { get; } | يحصل على دفق البيانات. |
-| [SyncRoot](../../aspose.psd/splitstreamcontainer/syncroot/) { get; } | الحصول على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن. |
+| override [CanRead](../../aspose.psd/splitstreamcontainer/canread/) { get; } | يحصل على قيمة تشير إلى ما إذا كان التدفق يدعم القراءة. |
+| override [CanSeek](../../aspose.psd/splitstreamcontainer/canseek/) { get; } | يحصل على قيمة تشير إلى ما إذا كان التدفق يدعم السعي. |
+| override [CanWrite](../../aspose.psd/splitstreamcontainer/canwrite/) { get; } | يحصل على قيمة تشير إلى ما إذا كان التدفق يدعم الكتابة. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن قد تم التخلص منه. |
+| virtual [IsStreamDisposedOnClose](../../aspose.psd/streamcontainer/isstreamdisposedonclose/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا التدفق يتم التخلص منه عند الإغلاق. |
+| override [Length](../../aspose.psd/splitstreamcontainer/length/) { get; set; } | يحصل أو يضبط طول التدفق بالبايت. هذه القيمة أقل من الطول بمقدار موضع بدء التدفق الممرّر في مُنشئ StreamContainer. |
+| override [Position](../../aspose.psd/splitstreamcontainer/position/) { get; set; } | يحصل أو يضبط الموضع الحالي داخل التدفق. هذه القيمة تمثل الإزاحة من موضع بدء التدفق الممرّر في مُنشئ StreamContainer. |
+| override [Stream](../../aspose.psd/splitstreamcontainer/stream/) { get; } | يحصل على تدفق البيانات. |
+| [SyncRoot](../../aspose.psd/splitstreamcontainer/syncroot/) { get; } | يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | التخلص من المثيل الحالي. |
-| override [Flush](../../aspose.psd/splitstreamcontainer/flush/)() | يمسح كافة المخازن المؤقتة لهذا الدفق ويسبب كتابة أي بيانات مخزنة إلى الجهاز الأساسي. |
-| [Insert](../../aspose.psd/splitstreamcontainer/insert/)(int, StreamContainer, bool) | إدراج حاوية التدفق في الموضع المحدد. |
-| override [Read](../../aspose.psd/splitstreamcontainer/read/#read)(byte[]) | يقرأ البايت لملء المخزن المؤقت للبايتات المحدد. |
-| override [Read](../../aspose.psd/splitstreamcontainer/read/#read_1)(byte[], int, int) | يقرأ تسلسل البايت من الدفق الحالي ويقدم الموضع داخل الدفق بعدد البايت المقروء. |
-| override [ReadByte](../../aspose.psd/splitstreamcontainer/readbyte/)() | يقرأ بايت من الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد ، أو يُرجع -1 إذا كان في نهاية الدفق . |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(Stream) | يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد. يستخدم حجم المخزن المؤقت الافتراضي[`ReadWriteBytesCount`](../streamcontainer/readwritebytescount/) والدفق[`Length`](../streamcontainer/length/) القيمة . |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(string) | يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد. يستخدم حجم المخزن المؤقت الافتراضي[`ReadWriteBytesCount`](../streamcontainer/readwritebytescount/) والدفق[`Length`](../streamcontainer/length/) القيمة . |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(Stream, int) | يحفظ (ينسخ) جميع بيانات الدفق إلى الدفق المحدد. يستخدم تيار[`Length`](../streamcontainer/length/) القيمة . |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(string, int) | يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد. يستخدم تيار[`Length`](../streamcontainer/length/) القيمة . |
-| override [Save](../../aspose.psd/splitstreamcontainer/save/#save_2)(Stream, int, long) | يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(string, int, long) | يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد. |
-| override [Seek](../../aspose.psd/splitstreamcontainer/seek/)(long, SeekOrigin) | يضبط الموضع ضمن الدفق الحالي. |
-| override [SeekBegin](../../aspose.psd/splitstreamcontainer/seekbegin/)() | يضبط موضع الدفق على بداية الدفق. تمثل هذه القيمة الإزاحة من موضع دفق البداية الذي تم تمريره في مُنشئ StreamContainer. |
-| override [ToBytes](../../aspose.psd/splitstreamcontainer/tobytes/#tobytes)() | يحول بيانات الدفق إلى ملفByte مجموعة . |
-| override [ToBytes](../../aspose.psd/splitstreamcontainer/tobytes/#tobytes_1)(long, long) | يحول بيانات الدفق إلى ملفByte مجموعة . |
-| override [Write](../../aspose.psd/splitstreamcontainer/write/#write)(byte[]) | يكتب كل وحدات البايت المحددة في الدفق. |
-| override [Write](../../aspose.psd/splitstreamcontainer/write/#write_1)(byte[], int, int) | يكتب تسلسلًا من البايتات إلى الدفق الحالي ويقدم الموضع الحالي ضمن هذا الدفق بعدد البايتات المكتوبة. |
-| override [WriteByte](../../aspose.psd/splitstreamcontainer/writebyte/)(byte) | يكتب بايت إلى الموضع الحالي في الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد. |
-| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/)(StreamContainer) | نسخ البيانات المضمنة إلى آخر[`StreamContainer`](../streamcontainer/) . |
-| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/)(StreamContainer, long) | نسخ البيانات المضمنة إلى آخر[`StreamContainer`](../streamcontainer/) . |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | يتخلص من المثيل الحالي. |
+| override [Flush](../../aspose.psd/splitstreamcontainer/flush/)() | يمسح جميع المخازن المؤقتة لهذا التدفق ويتسبب في كتابة أي بيانات مخزنة مؤقتًا إلى الجهاز الأساسي. |
+| [Insert](../../aspose.psd/splitstreamcontainer/insert/)(int, StreamContainer, bool) | يدرج حاوية التدفق في الموضع المحدد. |
+| override [Read](../../aspose.psd/splitstreamcontainer/read/#read)(byte[]) | يقرأ بايتات لملء المخزن المؤقت للبايتات المحدد. |
+| override [Read](../../aspose.psd/splitstreamcontainer/read/#read_1)(byte[], int, int) | يقرأ تسلسلًا من البايتات من التدفق الحالي ويتقدم بالموقع داخل التدفق بعدد البايتات المقروءة. |
+| override [ReadByte](../../aspose.psd/splitstreamcontainer/readbyte/)() | يقرأ بايتًا واحدًا من التدفق ويتقدم بالموقع داخل التدفق بايتًا واحدًا، أو يُعيد -1 إذا كان عند نهاية التدفق. |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(Stream) | يحفظ (ينسخ) بيانات التدفق إلى التدفق المحدد. يستخدم حجم المخزن المؤقت الافتراضي [`ReadWriteBytesCount`](../streamcontainer/readwritebytescount/) وقيمة طول التدفق [`Length`](../streamcontainer/length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(string) | يحفظ (ينسخ) بيانات التدفق إلى التدفق المحدد. يستخدم حجم المخزن المؤقت الافتراضي [`ReadWriteBytesCount`](../streamcontainer/readwritebytescount/) وقيمة طول التدفق [`Length`](../streamcontainer/length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(Stream, int) | يحفظ (ينسخ) جميع بيانات التدفق إلى التدفق المحدد. يستخدم قيمة طول التدفق [`Length`](../streamcontainer/length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(string, int) | يحفظ (ينسخ) بيانات التدفق إلى التدفق المحدد. يستخدم قيمة طول التدفق [`Length`](../streamcontainer/length/). |
+| override [Save](../../aspose.psd/splitstreamcontainer/save/#save_2)(Stream, int, long) | يحفظ (ينسخ) بيانات التدفق إلى التدفق المحدد. |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(string, int, long) | يحفظ (ينسخ) بيانات التدفق إلى التدفق المحدد. |
+| override [Seek](../../aspose.psd/splitstreamcontainer/seek/)(long, SeekOrigin) | يضبط الموقع داخل التدفق الحالي. |
+| override [SeekBegin](../../aspose.psd/splitstreamcontainer/seekbegin/)() | يضبط موقع التدفق إلى بداية التدفق. تمثل هذه القيمة الإزاحة من موقع بدء التدفق الممرر في مُنشئ StreamContainer. |
+| override [ToBytes](../../aspose.psd/splitstreamcontainer/tobytes/#tobytes)() | يحوّل بيانات التدفق إلى مصفوفة Byte. |
+| override [ToBytes](../../aspose.psd/splitstreamcontainer/tobytes/#tobytes_1)(long, long) | يحوّل بيانات التدفق إلى مصفوفة Byte. |
+| override [Write](../../aspose.psd/splitstreamcontainer/write/#write)(byte[]) | يكتب جميع البايتات المحددة إلى التدفق. |
+| override [Write](../../aspose.psd/splitstreamcontainer/write/#write_1)(byte[], int, int) | يكتب تسلسلًا من البايتات إلى التدفق الحالي ويتقدم بالموقع الحالي داخل هذا التدفق بعدد البايتات المكتوبة. |
+| override [WriteByte](../../aspose.psd/splitstreamcontainer/writebyte/)(byte) | يكتب بايتًا إلى الموقع الحالي في التدفق ويتقدم بالموقع داخل التدفق بايتًا واحدًا. |
+| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/)(StreamContainer) | ينسخ البيانات المحتواة إلى [`StreamContainer`](../streamcontainer/) آخر. |
+| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/)(StreamContainer, long) | ينسخ البيانات المحتواة إلى [`StreamContainer`](../streamcontainer/) آخر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../streamcontainer/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

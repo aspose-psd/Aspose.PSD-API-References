@@ -1,14 +1,15 @@
 ---
-title: Interface ITextPortion
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextPortion واجهه المستخدم. واجهة لمعالجة أجزاء النص
+title: "واجهة ITextPortion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.FileFormats.Psd.Layers.Text.ITextPortion. واجهة للتعامل مع أجزاء النص"
 type: docs
-weight: 3530
+weight: 3950
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextportion/
 ---
+{{< psd/tize >}}
 ## ITextPortion interface
 
-واجهة لمعالجة أجزاء النص
+واجهة للتعامل مع أجزاء النص
 
 ```csharp
 public interface ITextPortion
@@ -16,15 +17,15 @@ public interface ITextPortion
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Paragraph](../../aspose.psd.fileformats.psd.layers.text/itextportion/paragraph/) { get; } | يحدد النمط . |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/itextportion/style/) { get; } | يحصل على النمط . |
-| [Text](../../aspose.psd.fileformats.psd.layers.text/itextportion/text/) { get; set; } | الحصول على النص أو تعيينه. |
+| [Paragraph](../../aspose.psd.fileformats.psd.layers.text/itextportion/paragraph/) { get; } | يضبط النمط. |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/itextportion/style/) { get; } | يحصل على النمط. |
+| [Text](../../aspose.psd.fileformats.psd.layers.text/itextportion/text/) { get; set; } | يحصل أو يضبط النص. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي أن محاذاة النص من خلال ITextPortion للغات التي تُكتب من اليمين إلى اليسار تعمل بشكل صحيح.
+المثال التالي يوضح أن محاذاة النص عبر ITextPortion للغات من اليمين إلى اليسار تعمل بشكل صحيح.
 
 ```csharp
 [C#]
@@ -44,13 +45,13 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-يوضح المثال التالي كيف يمكنك عرض أنماط مختلفة في طبقة نص واحدة في Aspose.PSD
+المثال التالي يوضح كيف يمكنك عرض أنماط مختلفة في طبقة نص واحدة في Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -73,12 +74,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // تحرير نمط النص "E = mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // تحرير نمط النص "2 \ r"
-    newPortions[2].Style.FauxBold = true; // تحرير نمط النص "غامق"
-    newPortions[3].Style.FauxItalic = true; // تحرير نمط النص "مائل \ r"
-    newPortions[3].Style.BaselineShift = -25; // تحرير نمط النص "مائل \ r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // تحرير نمط النص "النص السفلي"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -90,12 +91,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-يوضح الكود التالي كيفية الحصول على حجم الخط لأي جزء نص في طبقة النص.
+الكود التالي يوضح كيفية الحصول على حجم الخط لأي جزء نص في طبقة النص.
 
 ```csharp
 [C#]
 
-// استخرج حجم خط خاطئ 
+// تم استخراج حجم خط غير صحيح 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -103,7 +104,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // واجهة برمجة التطبيقات القديمة (باستخدام خط الفقرة الأولى)
+    // API القديم (باستخدام خط الفقرة الأولى)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -121,18 +122,18 @@ using (var image = Image.Load(filePath))
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // واجهة برمجة تطبيقات جديدة (قد تحتوي طبقة نصية واحدة على أي كمية من أحجام الخطوط)
+    // واجهة برمجة تطبيقات جديدة (قد يحتوي طبقة نص واحدة على أي كمية من أحجام الخط)
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // التحقق من حجم خط الجزء الأساسي
+    // التحقق من حجم الخط للجزء الأساسي
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // التحقق من حجم خط الجزء الحقيقي
+    // التحقق من حجم الخط للجزء الحقيقي
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -140,7 +141,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-يوضح مثال الكود التالي تحرير أجزاء النص ونمط نصها.
+يوضح المثال البرمجي التالي تحرير أجزاء النص وأساليبها.
 
 ```csharp
 [C#]
@@ -163,7 +164,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // فحص النص من كل جزء
+            // التحقق من نص كل جزء
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -173,7 +174,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات الفقرات
-            // الفقرات لها مبررات مختلفة
+            // الفقرات لها محاذاة مختلفة
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -207,7 +208,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -223,7 +224,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات النمط
-            // الأنماط لها ألوان مختلفة وحجم الخط
+            // الأنماط لها ألوان مختلفة وحجم خط مختلف
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -263,7 +264,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // مثال على إضافة جزء نصي جديد
+            // مثال على إضافة جزء نص جديد
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -271,17 +272,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // مثال على تحرير الفقرة والنمط للأجزاء
-            // ضبط التبرير الصحيح
+            // ضبط المحاذاة إلى اليمين
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // ألوان مختلفة لكل نمط. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // ألوان مختلفة لكل نمط. سيتم تغييرها، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // خط مختلف. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // خط مختلف. سيتم تغييره، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -296,9 +297,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: Blend.Blend
-second_title: Aspose.PSD لمرجع .NET API
-description: Blend البناء. يقوم بتهيئة مثيل جديد لملفBlend فصل. سيكون عدد العناصر في مصفوفتي العامل والمزج مساويًا لـ 1.
+title: "Blend.Blend"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Blend مُنشئ. يهيئ نسخة جديدة من فئة Blend. سيكون عدد العناصر في مصفوفات العامل والدمج مساويًا لـ 1"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/blend/blend/
 ---
+{{< psd/tize >}}
 ## Blend() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Blend`](../) فصل. سيكون عدد العناصر في مصفوفتي العامل والمزج مساويًا لـ 1.
+يقوم بتهيئة نسخة جديدة من الفئة [`Blend`](../). سيكون عدد العناصر في مصفوفات العامل والخلط مساويًا لـ 1.
 
 ```csharp
 public Blend()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Blend](../)
-* مساحة الاسم [Aspose.PSD](../../blend/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Blend(int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Blend`](../) فئة مع العدد المحدد من العوامل والمواقف .
+يقوم بتهيئة نسخة جديدة من الفئة [`Blend`](../) مع عدد المحدد من العوامل والمواضع.
 
 ```csharp
 public Blend(int count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| count | Int32 | عدد العناصر في مصفوفات العامل والموضع. |
+| العدد | Int32 | عدد العناصر في مصفوفات العامل والموضع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Blend](../)
-* مساحة الاسم [Aspose.PSD](../../blend/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

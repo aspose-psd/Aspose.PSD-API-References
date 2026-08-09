@@ -1,14 +1,15 @@
 ---
-title: GdFlResource.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. يحصل على لون RGB .
+title: "GdFlResource.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. تحصل على لون RGB"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Color property
 
-يحصل على لون RGB .
+يحصل على لون RGB.
 
 ```csharp
 public Color Color { get; set; }
@@ -18,11 +19,11 @@ public Color Color { get; set; }
 
 لون RGB
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

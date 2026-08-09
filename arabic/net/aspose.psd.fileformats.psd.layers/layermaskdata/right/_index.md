@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Right
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerMaskData ملكية. الحصول على أو تحديد موضع قناع الطبقة الصحيح.
+title: "LayerMaskData.Right"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerMaskData. يحصل أو يضبط موضع القناع الأيمن للطبقة."
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdata/right/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Right property
 
-الحصول على أو تحديد موضع قناع الطبقة الصحيح.
+يحصل أو يضبط موضع قناع الطبقة الأيمن.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موضع قناع الطبقة الأيمن .
+موضع القناع الأيمن للطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

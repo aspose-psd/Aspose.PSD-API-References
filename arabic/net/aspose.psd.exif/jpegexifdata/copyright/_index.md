@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Copyright
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على حقوق النشر أو تعيينها.
+title: "JpegExifData.Copyright"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين حقوق النشر"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.exif/jpegexifdata/copyright/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Copyright property
 
-الحصول على حقوق النشر أو تعيينها.
+يحصل أو يعيّن حقوق النشر.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 حقوق النشر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

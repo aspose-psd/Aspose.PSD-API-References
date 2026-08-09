@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.BlendMode
-second_title: Aspose.PSD لمرجع .NET API
-description: OuterGlowEffect ملكية. الحصول على أو تحديد وضع المزج .
+title: "OuterGlowEffect.BlendMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "OuterGlowEffect property. يحصل أو يضبط وضع المزج"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.BlendMode property
 
-الحصول على أو تحديد وضع المزج .
+يحصل أو يضبط وضع المزج.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وضع المزج .
+وضع الدمج.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم OuterGlowEffect.
+يوضح الشيفرة التالية دعم OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [OuterGlowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

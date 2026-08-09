@@ -1,32 +1,33 @@
 ---
-title: Point.Truncate
-second_title: Aspose.PSD لمرجع .NET API
-description: Point طريقة. تحويل المحددPointF إلى أPoint عن طريق اقتطاع قيمPoint .
+title: "Point.Truncate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Point. تُحوِّل PointF المحدد إلى Point عن طريق تقصير قيم Point."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/point/truncate/
 ---
+{{< psd/tize >}}
 ## Point.Truncate method
 
-تحويل المحدد[`PointF`](../../pointf/) إلى أ[`Point`](../) عن طريق اقتطاع قيم[`Point`](../) .
+تحوِّل [`PointF`](../../pointf/) المحدد إلى [`Point`](../) عن طريق تقصير قيم [`Point`](../).
 
 ```csharp
 public static Point Truncate(PointF point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | PointF | ال[`PointF`](../../pointf/) لتحويل. |
+| point | PointF | الـ[`PointF`](../../pointf/) للتحويل. |
 
 ### قيمة الإرجاع
 
-ال[`Point`](../) هذه الطريقة تتحول إلى.
+الـ [`Point`](../) التي يتحول إليها هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

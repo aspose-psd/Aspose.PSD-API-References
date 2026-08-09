@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Compression
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على الضغط أو تعيينه .
+title: "TiffOptions.Compression"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يحدد الضغط"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/compression/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Compression property
 
-الحصول على الضغط أو تعيينه .
+يحصل أو يضبط الضغط.
 
 ```csharp
 public TiffCompressions Compression { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الضغط .
+الضغط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffCompressions](../../../aspose.psd.fileformats.tiff.enums/tiffcompressions/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

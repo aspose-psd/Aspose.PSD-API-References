@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.NonDropTimecode2997
-second_title: Aspose.PSD لمرجع .NET API
-description: TimeFormat ملكية. الحصول على الرمز الزمني غير الإسقاط 2997.
+title: "TimeFormat.NonDropTimecode2997"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TimeFormat. تحصل على non drop timecode2997"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/timeformat/nondroptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.NonDropTimecode2997 property
 
-الحصول على الرمز الزمني غير الإسقاط 2997.
+يحصل على non drop timecode2997.
 
 ```csharp
 public static TimeFormat NonDropTimecode2997 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الرمز الزمني غير الإسقاط 2997.
+الـ non drop timecode2997.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeFormat](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: MixerChannel.GetRawData
-second_title: Aspose.PSD لمرجع .NET API
-description: MixerChannel طريقة. يحصل على البيانات الأولية .
+title: "MixerChannel.GetRawData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "MixerChannel الطريقة. يحصل على البيانات الخام"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/
 ---
+{{< psd/tize >}}
 ## MixerChannel.GetRawData method
 
-يحصل على البيانات الأولية .
+يحصل على البيانات الخام.
 
 ```csharp
 public byte[] GetRawData()
@@ -16,12 +17,12 @@ public byte[] GetRawData()
 
 ### قيمة الإرجاع
 
-بيانات البايت الخام
+بيانات بايت خام
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MixerChannel](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: Class PattResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource فصل. فئة PattResource. مورد بنمط data
+title: "الفئة PattResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource الفئة. الفئة PattResource. مورد يحتوي على بيانات النمط"
 type: docs
-weight: 2870
+weight: 3220
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource class
 
-فئة PattResource. مورد بنمط data
+الفئة PattResource. مورد يحتوي على بيانات النمط
 
 ```csharp
 public class PattResource : LayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PattResource](pattresource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`PattResource` فئة . |
-| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | يقوم بتهيئة مثيل جديد لملف`PattResource` فئة . |
+| [PattResource](pattresource/#constructor)() | يُنشئ مثلاً جديداً من الفئة `PattResource`. |
+| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | يُنشئ مثلاً جديداً من الفئة `PattResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | الحصول على بيانات الأنماط أو تعيينها ؛ |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature/) { get; } | يحصل على توقيع مورد الطبقة. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | يحصل أو يضبط بيانات الأنماط؛ |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/)(StreamContainer, int) | يحفظ بيانات كتلة المورد. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | مفتاح معلومات أداة النوع "Patt" لـ 8 بت. |
-| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | مفتاح معلومات أداة النوع "Pat2" لـ 16 بت. |
-| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | مفتاح معلومات أداة النوع "Pat3" لـ 32 بت. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | المفتاح المعلوماتي لأداة النوع 'Patt' للبتات 8. |
+| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | المفتاح المعلوماتي لأداة النوع 'Pat2' للبتات 16. |
+| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | المفتاح المعلوماتي لأداة النوع 'Pat3' للبتات 32. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

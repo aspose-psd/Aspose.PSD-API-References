@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpGuid ملكية. الحصول على القيمة أو تعيينها.
+title: "XmpGuid.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpGuid. تحصل أو تعين القيمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.derived/xmpguid/value/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Value property
 
-الحصول على القيمة أو تعيينها.
+يحصل أو يعيّن القيمة.
 
 ```csharp
 public Guid Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpGuid](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

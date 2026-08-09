@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffSRational ملكية. الحصول على قيمة الطفو .
+title: "TiffSRational.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffSRational. يحصل على القيمة العائمة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.tiff/tiffsrational/value/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Value property
 
-الحصول على قيمة الطفو .
+يحصل على القيمة العائمة.
 
 ```csharp
 public float Value { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة العائمة .
+القيمة العائمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

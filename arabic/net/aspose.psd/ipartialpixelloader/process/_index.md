@@ -1,33 +1,34 @@
 ---
-title: IPartialPixelLoader.Process
-second_title: Aspose.PSD لمرجع .NET API
-description: IPartialPixelLoader طريقة. يعالج وحدات البكسل المحملة .
+title: "IPartialPixelLoader.Process"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IPartialPixelLoader. تعالج البكسلات المحملة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/ipartialpixelloader/process/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader.Process method
 
-يعالج وحدات البكسل المحملة .
+يعالج البكسلات المحمّلة.
 
 ```csharp
 public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Point end)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixelsRectangle | Rectangle | مستطيل البكسل. |
-| pixels | Color[] | البكسل. |
-| start | Point | نقطة البداية بكسل. إذا لم يكن يساوي (يسار ، أعلى) مما يعني أنه ليس مستطيلًا كاملاً لدينا. |
-| end | Point | نقطة بكسل النهاية. إذا لم يكن يساوي (يمينًا ، أسفل) مما يعني أنه ليس مستطيلًا كاملاً لدينا. |
+| pixelsRectangle | Rectangle | مستطيل البكسلات. |
+| بكسلات | Color[] | البكسلات. |
+| البداية | نقطة | نقطة بداية البكسلات. إذا لم تكن مساوية لـ (left,top) فهذا يعني أنها ليست المستطيل الكامل المتاح. |
+| النهاية | نقطة | نقطة نهاية البكسلات. إذا لم تكن مساوية لـ (right,bottom) فهذا يعني أنها ليست المستطيل الكامل المتاح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * struct [Color](../../color/)
 * struct [Point](../../point/)
 * interface [IPartialPixelLoader](../)
-* مساحة الاسم [Aspose.PSD](../../ipartialpixelloader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

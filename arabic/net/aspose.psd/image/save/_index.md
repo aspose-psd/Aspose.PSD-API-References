@@ -1,43 +1,44 @@
 ---
-title: Image.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. يحفظ بيانات الصورة في التدفق الأساسي.
+title: "Image.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تحفظ بيانات الصورة إلى الدفق الأساسي"
 type: docs
-weight: 230
+weight: 240
 url: /ar/net/aspose.psd/image/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-يحفظ بيانات الصورة في التدفق الأساسي.
+يحفظ بيانات الصورة إلى الدفق الأساسي.
 
 ```csharp
 public void Save()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase) {#save_5}
 
-يحفظ بيانات الكائن في موقع الملف المحدد بتنسيق الملف المحدد وفقًا لخيارات الحفظ.
+يحفظ بيانات الكائن إلى موقع الملف المحدد بالتنسيق الملف المحدد وفقًا لخيارات الحفظ.
 
 ```csharp
 public virtual void Save(string filePath, ImageOptionsBase options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | filePath | String | مسار الملف. |
-| options | ImageOptionsBase | الخيارات . |
+| خيارات | ImageOptionsBase | الخيارات. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك تصدير ملفات Adobe Illustrator إلى تنسيق PDF بتنسيق Aspose.PSD
+المثال التالي يوضح كيف يمكنك تصدير ملفات Adobe Illustrator إلى تنسيق PDF في Aspose.PSD
 
 ```csharp
 [C#]
@@ -50,12 +51,12 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-يوضح المثال التالي أن AsposePSD يدعم تصدير ملفات PSB إلى تنسيق PSD.
+المثال التالي يوضح أن AsposePSD يدعم تصدير ملفات PSB إلى تنسيق PSD.
 
 ```csharp
 [C#]
 
-// دعم حفظ PSB كملف PDF
+// دعم حفظ PSB كـ PDF
 string sourceFileName = "sample.psb";
 string outFileName = "sample.pdf";
 
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ```csharp
 [C#]
 
-// لا يوفر حفظ PSD في PDF نصًا قابلاً للتحديد
+// حفظ PSD إلى PDF لا يوفر نصًا قابلًا للتحديد.
 string sourceFileName = "text.psd";
 string outFileName = "text.pdf";
 
@@ -80,7 +81,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-يوضح المثال التالي كيف يمكنك تصدير ملف AI إلى تنسيق PSD و PNG في Aspose.PSD
+المثال التالي يوضح كيف يمكنك تصدير ملف AI إلى صيغة PSD و PNG في Aspose.PSD
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-يوضح المثال التالي أن محاذاة النص من خلال ITextPortion للغات التي تُكتب من اليمين إلى اليسار تعمل بشكل صحيح.
+المثال التالي يوضح أن محاذاة النص عبر ITextPortion للغات من اليمين إلى اليسار تعمل بشكل صحيح.
 
 ```csharp
 [C#]
@@ -114,23 +115,23 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-يوضح هذا المثال الخطوات البسيطة لحفظ صورة. لإثبات هذه العملية ، نقوم بتحميل ملف موجود من بعض مواقع القرص ، ونقوم بإجراء عملية التدوير على الصورة وحفظ الصورة بتنسيق ملف Jpeg باستخدام مسار الملف
+هذا المثال يوضح الخطوات البسيطة لـ Save صورة. لتوضيح هذه العملية، نقوم بتحميل ملف موجود من موقع على القرص، نجري عملية Rotate على الصورة ثم Save الصورة بتنسيق Jpeg باستخدام File Path.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل لفئة الصورة وتهيئته بملف موجود من خلال مسار الملف
+//أنشئ مثيلاً من الفئة image وابدأه بملف موجود عبر File path
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    // قم بتدوير الصورة 180 درجة حول المحور X.
+    //دوّر الصورة بزاوية 180 درجة حول المحور X
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-    // احفظ الصورة بتنسيق Jpeg إلى مسار الملف باستخدام إعدادات JpegOptions الافتراضية
+    //Save الصورة كـ Jpeg إلى File Path باستخدام إعدادات JpegOptions الافتراضية
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 }
 ```
 
-يوضح المثال التالي كيف يمكنك تغيير رؤية LayerGroup في Aspose.PSD
+المثال التالي يوضح كيفية تغيير رؤية LayerGroup في Aspose.PSD.
 
 ```csharp
 [C#]
@@ -138,14 +139,14 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 string sourceFilePath = "input.psd";
 string outputFilePath = "output.psd";
 
-// إجراء تغييرات في أسماء الطبقات وحفظها
+// قم بإجراء تغييرات على أسماء الطبقات واحفظها.
 using (var image = (PsdImage)Image.Load(sourceFilePath))
 {
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
 
-        // قم بإيقاف تشغيل كل شيء داخل المجموعة
+        // إيقاف تشغيل كل شيء داخل مجموعة.
         if (layer is LayerGroup)
         {
             layer.IsVisible = false;
@@ -156,7 +157,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-يوضح المثال التالي كيف يمكنك الرسم على طبقة تم إنشاؤها حديثًا إذا تم استخدام إصدار المُنشئ البسيط في Aspose.PSD
+المثال التالي يوضح كيف يمكنك الرسم على طبقة تم إنشاؤها حديثًا إذا تم استخدام نسخة المنشئ البسيطة في Aspose.PSD.
 
 ```csharp
 [C#]
@@ -175,17 +176,17 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // رسم مستطيل باستخدام أداة القلم
+    // ارسم مستطيلًا بأداة القلم
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // ارسم مستطيلاً آخر باستخدام فرشاة صلبة باللون الأزرق
+    // ارسم مستطيلًا آخر بفرشاة صلبة باللون الأزرق
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-يوضح المثال التالي أن قراءة ملفات PSD ذات 16 بت بتدرج الرمادي وحفظها إلى 16 بت لكل قناة RGB تعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن قراءة وحفظ ملفات PSD ذات 16 بت رمادية إلى 16 بت لكل قناة RGB يعمل بشكل صحيح دون أي استثناء.
 
 ```csharp
 [C#]
@@ -213,12 +214,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // هنا يجب ألا يكون هناك استثناء.
+    // هنا لا ينبغي أن يكون هناك أي استثناء.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-يوضح المثال التالي أن قراءة ملفات PSD ذات 16 بت بتدرج الرمادي وحفظها إلى 8 بت لكل قناة تعمل بتدرج الرمادي بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن قراءة وحفظ ملفات PSD ذات 16 بت رمادية إلى 8 بت لكل قناة رمادية يعمل بشكل صحيح دون أي استثناء.
 
 ```csharp
 [C#]
@@ -246,12 +247,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // هنا يجب ألا يكون هناك استثناء.
+    // هنا لا ينبغي أن يكون هناك أي استثناء.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-يوضح المثال التالي كيف يمكنك استخدام وضع مزج طبقة PassThrough في Aspose.PSD
+المثال التالي يوضح كيف يمكنك استخدام وضع دمج الطبقة PassThrough في Aspose.PSD
 
 ```csharp
 [C#]
@@ -292,7 +293,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-يوضح المثال التالي أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
 
 ```csharp
 [C#]
@@ -336,7 +337,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-يوضح المثال التالي أن قراءة ملفات PSD ذات 16 بت بتدرج الرمادي وحفظها تعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن قراءة وحفظ ملفات PSD ذات 16 بت بالدرجات الرمادية يعمل بشكل صحيح وبدون استثناء.
 
 ```csharp
 [C#]
@@ -382,7 +383,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // هنا يجب ألا يكون هناك استثناء.
+        // هنا لا ينبغي أن يكون هناك أي استثناء.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -398,126 +399,126 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase, Rectangle) {#save_6}
 
-يحفظ بيانات الكائن في موقع الملف المحدد بتنسيق الملف المحدد وفقًا لخيارات الحفظ.
+يحفظ بيانات الكائن إلى موقع الملف المحدد بالتنسيق الملف المحدد وفقًا لخيارات الحفظ.
 
 ```csharp
 public virtual void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | filePath | String | مسار الملف. |
-| options | ImageOptionsBase | الخيارات. |
-| boundsRectangle | Rectangle | مستطيل حدود الصورة الوجهة. اضبط المستطيل الفارغ لاستخدام حدود المسار. |
+| خيارات | ImageOptionsBase | الخيارات. |
+| boundsRectangle | Rectangle | مستطيل حدود الصورة الهدف. اضبط المستطيل الفارغ لاستخدام حدود المصدر. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | خيارات |
 | [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | فشل حفظ الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase) {#save_2}
 
-يحفظ بيانات الصورة إلى التدفق المحدد بتنسيق الملف المحدد وفقًا لخيارات الحفظ.
+يحفظ بيانات الصورة إلى الدفق المحدد بالتنسيق الملف المحدد وفقًا لخيارات الحفظ.
 
 ```csharp
 public void Save(Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | التدفق الذي سيتم حفظ بيانات الصورة فيه. |
+| stream | Stream | الدفق لحفظ بيانات الصورة إليه. |
 | optionsBase | ImageOptionsBase | خيارات الحفظ. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الخيارات |
-| ArgumentException | لا يمكن الحفظ بالتنسيق المحدد لأنه غير مدعوم في الوقت الحالي.؛ optionsBase |
+| ArgumentNullException | optionsBase |
+| ArgumentException | لا يمكن الحفظ بالتنسيق المحدد لأنه غير مدعوم في الوقت الحالي.;optionsBase |
 | [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | فشل تصدير الصورة. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال عملية حفظ صورة في MemoryStream. لتوضيح هذه العملية ، يقوم المثال بتحميل ملف موجود من بعض مواقع القرص ، وتنفيذ عملية التدوير على الصورة وحفظ الصورة بتنسيق Gif
+يوضح هذا المثال عملية حفظ صورة إلى MemoryStream. لتوضيح هذه العملية، يقوم المثال بتحميل ملف موجود من موقع على القرص، وينفذ عملية Rotate على الصورة ويحفظ الصورة بتنسيق Gif.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل لـ MemoryStream
+//إنشاء مثال من MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    // إنشاء مثيل لفئة الصورة وتهيئته بملف موجود من خلال مسار الملف
+    //أنشئ مثيلاً من الفئة image وابدأه بملف موجود عبر File path
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
     {
-        // قم بتدوير الصورة 180 درجة حول المحور X.
+        //دوّر الصورة بزاوية 180 درجة حول المحور X
         image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-        // احفظ الصورة بصيغة PSD في MemoryStream باستخدام إعدادات GifOptions الافتراضية
+        //احفظ الصورة كـ PSD إلى MemoryStream باستخدام إعدادات GifOptions الافتراضية.
         image.Save(stream, new Aspose.PSD.ImageOptions.GifOptions());
     }
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
 
-يحفظ بيانات الصورة إلى التدفق المحدد بتنسيق الملف المحدد وفقًا لخيارات الحفظ.
+يحفظ بيانات الصورة إلى الدفق المحدد بالتنسيق الملف المحدد وفقًا لخيارات الحفظ.
 
 ```csharp
 public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | التدفق الذي سيتم حفظ بيانات الصورة فيه. |
+| stream | Stream | الدفق لحفظ بيانات الصورة إليه. |
 | optionsBase | ImageOptionsBase | خيارات الحفظ. |
 | boundsRectangle | Rectangle | مستطيل حدود الصورة الوجهة. اضبط المستطيل الفارغ لاستخدام حدود المصدر. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الخيارات |
-| ArgumentException | لا يمكن الحفظ بالتنسيق المحدد لأنه غير مدعوم في الوقت الحالي.؛ optionsBase |
+| ArgumentNullException | optionsBase |
+| ArgumentException | لا يمكن الحفظ بالتنسيق المحدد لأنه غير مدعوم في الوقت الحالي.;optionsBase |
 | [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | فشل تصدير الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

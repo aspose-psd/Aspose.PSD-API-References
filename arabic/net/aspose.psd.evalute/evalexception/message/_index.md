@@ -1,11 +1,12 @@
 ---
-title: EvalException.Message
-second_title: Aspose.PSD لمرجع .NET API
-description: EvalException ملكية. يحصل على الرسالة المرتبطة بهذا الاستثناء
+title: "EvalException.Message"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية EvalException. تحصل على الرسالة المرتبطة بهذا الاستثناء"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.evalute/evalexception/message/
 ---
+{{< psd/tize >}}
 ## EvalException.Message property
 
 يحصل على الرسالة المرتبطة بهذا الاستثناء
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.evalute/evalexception/message/
 public override string Message { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EvalException](../)
-* مساحة الاسم [Aspose.PSD.Evalute](../../evalexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Evalute](../../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../../)
 
 

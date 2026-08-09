@@ -1,27 +1,28 @@
 ---
-title: ExifData.StandardOutputSensitivity
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على حساسية الإخراج القياسية أو تعيينها
+title: "ExifData.StandardOutputSensitivity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين حساسية الإخراج القياسية"
 type: docs
 weight: 980
 url: /ar/net/aspose.psd.exif/exifdata/standardoutputsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.StandardOutputSensitivity property
 
-الحصول على حساسية الإخراج القياسية أو تعيينها
+الحصول أو تعيين حساسية الإخراج القياسية
 
 ```csharp
 public uint StandardOutputSensitivity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حساسية الإخراج القياسية .
+حساسية الإخراج القياسية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

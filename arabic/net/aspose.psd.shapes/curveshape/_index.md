@@ -1,56 +1,57 @@
 ---
-title: Class CurveShape
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Shapes.CurveShape فصل. يمثل شكل شريحة منحني .
+title: "الفئة CurveShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.Shapes.CurveShape. تمثل شكلاً منحنيًا من نوع spline"
 type: docs
-weight: 5480
+weight: 5980
 url: /ar/net/aspose.psd.shapes/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape class
 
-يمثل شكل شريحة منحني .
+يمثل شكل منحنى منحنٍ.
 
 ```csharp
 public sealed class CurveShape : PolygonShape
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CurveShape](curveshape/#constructor)() | يقوم بتهيئة مثيل جديد لملف`CurveShape` فئة . |
-| [CurveShape](curveshape/#constructor_1)(PointF[]) | يقوم بتهيئة مثيل جديد لملف`CurveShape` فصل. يتم استخدام الشد الافتراضي 0.5. |
-| [CurveShape](curveshape/#constructor_2)(PointF[], bool) | يقوم بتهيئة مثيل جديد لملف`CurveShape` فصل. يتم استخدام الشد الافتراضي 0.5. |
-| [CurveShape](curveshape/#constructor_3)(PointF[], float) | يقوم بتهيئة مثيل جديد لملف`CurveShape` فئة . |
-| [CurveShape](curveshape/#constructor_4)(PointF[], float, bool) | يقوم بتهيئة مثيل جديد لملف`CurveShape` فئة . |
+| [CurveShape](curveshape/#constructor)() | ينشئ مثيلاً جديداً من الفئة `CurveShape`. |
+| [CurveShape](curveshape/#constructor_1)(PointF[]) | ينشئ مثيلاً جديداً من الفئة `CurveShape`. يتم استخدام الشد الافتراضي بقيمة 0.5. |
+| [CurveShape](curveshape/#constructor_2)(PointF[], bool) | ينشئ مثيلاً جديداً من الفئة `CurveShape`. يتم استخدام الشد الافتراضي بقيمة 0.5. |
+| [CurveShape](curveshape/#constructor_3)(PointF[], float) | ينشئ مثيلاً جديداً من الفئة `CurveShape`. |
+| [CurveShape](curveshape/#constructor_4)(PointF[], float, bool) | ينشئ مثيلاً جديداً من الفئة `CurveShape`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/curveshape/bounds/) { get; } | يحصل على حدود الكائن . |
+| override [Bounds](../../aspose.psd.shapes/curveshape/bounds/) { get; } | يحصل على حدود الكائن. |
 | override [Center](../../aspose.psd.shapes/curveshape/center/) { get; } | يحصل على مركز الشكل. |
-| virtual [EndPoint](../../aspose.psd.shapes/polygonshape/endpoint/) { get; } | الحصول على نقطة شكل النهاية . |
-| override [HasSegments](../../aspose.psd.shapes/polygonshape/hassegments/) { get; } | الحصول على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع. |
-| [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل مغلقًا. |
-| [Points](../../aspose.psd.shapes/polygonshape/points/) { get; set; } | الحصول على نقاط المنحنى أو تعيينها . |
-| override [Segments](../../aspose.psd.shapes/curveshape/segments/) { get; } | الحصول على شرائح الشكل . |
-| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | يحصل على نقطة شكل البداية . |
-| [Tension](../../aspose.psd.shapes/curveshape/tension/) { get; set; } | الحصول على توتر المنحنى أو ضبطه. |
+| virtual [EndPoint](../../aspose.psd.shapes/polygonshape/endpoint/) { get; } | يحصل على نقطة النهاية للشكل. |
+| override [HasSegments](../../aspose.psd.shapes/polygonshape/hassegments/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع. |
+| [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان الشكل مغلقاً. |
+| [Points](../../aspose.psd.shapes/polygonshape/points/) { get; set; } | يحصل أو يعيّن نقاط المنحنى. |
+| override [Segments](../../aspose.psd.shapes/curveshape/segments/) { get; } | يحصل على مقاطع الشكل. |
+| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | يحصل على نقطة بداية الشكل. |
+| [Tension](../../aspose.psd.shapes/curveshape/tension/) { get; set; } | يحصل أو يعيّن شد المنحنى. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/curveshape/getbounds/#getbounds)(Matrix) | يحصل على حدود الكائن . |
-| override [GetBounds](../../aspose.psd.shapes/curveshape/getbounds/#getbounds_1)(Matrix, Pen) | يحصل على حدود الكائن . |
-| [Reverse](../../aspose.psd.shapes/polygonshape/reverse/)() | عكس ترتيب النقاط لهذا الشكل. |
+| override [GetBounds](../../aspose.psd.shapes/curveshape/getbounds/#getbounds)(Matrix) | يحصل على حدود الكائن. |
+| override [GetBounds](../../aspose.psd.shapes/curveshape/getbounds/#getbounds_1)(Matrix, Pen) | يحصل على حدود الكائن. |
+| [Reverse](../../aspose.psd.shapes/polygonshape/reverse/)() | يعكس ترتيب النقاط لهذا الشكل. |
 | override [Transform](../../aspose.psd.shapes/polygonshape/transform/)(Matrix) | يطبق التحويل المحدد على الشكل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PolygonShape](../polygonshape/)
-* مساحة الاسم [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

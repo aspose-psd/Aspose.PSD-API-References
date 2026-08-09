@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة هي معاينة . يعرض العمل الفني الموجود في الطبقة بالألوان بدلاً من الخطوط العريضة .
+title: "AiLayerSection.IsPreview"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. يحصل أو يضبط قيمة تشير إلى ما إذا كانت هذه الطبقة معاينة. يعرض الأعمال الفنية الموجودة في الطبقة بالألوان بدلاً من الخطوط الخارجية"
 type: docs
-weight: 70
+weight: 90
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة هي معاينة . يعرض العمل الفني الموجود في الطبقة بالألوان بدلاً من الخطوط العريضة .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة في وضع المعاينة. يعرض الأعمال الفنية الموجودة في الطبقة بالألوان بدلاً من الخطوط الخارجية.
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت هذه الطبقة معاينة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه الطبقة معاينة؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم الطبقات في ملفات تنسيق AI.
+المثال التالي يوضح دعم الطبقات في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

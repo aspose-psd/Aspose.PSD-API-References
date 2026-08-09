@@ -1,24 +1,25 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف مجموعة الطبقات .
+title: "PsdImage.AddLayerGroup"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. يضيف مجموعة الطبقات"
 type: docs
-weight: 380
+weight: 400
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
-يضيف مجموعة الطبقات .
+يضيف مجموعة الطبقة.
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | groupName | String | اسم المجموعة. |
-| index | Int32 | فهرس الطبقة المراد إدراجها بعد ذلك. |
-| startBehaviour | Boolean | إذا تم التعيين على`حقيقي` [بدء السلوك] من المجموعة ستكون في حالة مفتوحة عند البدء ، وإلا في حالة مصغرة. |
+| فهرس | Int32 | فهرس الطبقة التي سيتم الإدراج بعدّها. |
+| startBehaviour | Boolean | إذا تم تعيينه إلى `true` [start behaviour] فإن المجموعة ستكون في حالة مفتوحة عند بدء التشغيل، وإلا ستكون في حالة مصغرة. |
 
 ### قيمة الإرجاع
 
@@ -26,15 +27,15 @@ public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | يجب أن يكون الفهرس في حدود عدد الطبقات |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | يجب أن يكون الفهرس ضمن حدود عدد الطبقات |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

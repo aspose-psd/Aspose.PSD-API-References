@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb16Bpp565
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. يحصل على ملفPixelDataFormatمعرف لـ 16 بت لكل بكسل مع 5 بت للأحمر و 6 بت للأخضر و 5 بت للأزرق  لم يتم تعريف ألفا.
+title: "PixelDataFormat.Rgb16Bpp565"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. يحصل على PixelDataFormat المعرفة بـ 16 بت لكل بكسل مع 5 بت للأحمر 6 بت للأخضر و5 بت للأزرق، لا يتم تعريف قناة ألفا."
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/pixeldataformat/rgb16bpp565/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb16Bpp565 property
 
-يحصل على ملف[`PixelDataFormat`](../)معرف لـ 16 بت لكل بكسل مع 5 بت للأحمر و 6 بت للأخضر و 5 بت للأزرق ، لم يتم تعريف ألفا.
+يحصل على [`PixelDataFormat`](../) المعرفة بـ 16 بت لكل بكسل مع 5 بت للأحمر، 6 بت للأخضر و5 بت للأزرق، ولا يتم تعريف قناة ألفا.
 
 ```csharp
 public static PixelDataFormat Rgb16Bpp565 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`PixelDataFormat`](../)معرف لـ 16 بت لكل بكسل مع 5 بت للأحمر و 6 بت للأخضر و 5 بت للأزرق ، لم يتم تعريف ألفا.
+الـ [`PixelDataFormat`](../) المعرفة بـ 16 بت لكل بكسل مع 5 بت للأحمر، 6 بت للأخضر و5 بت للأزرق، ولا يتم تعريف قناة ألفا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

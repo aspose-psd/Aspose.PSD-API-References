@@ -1,56 +1,45 @@
 ---
-title: Class GradientFillSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings فصل. إعدادات تأثير التعبئة المتدرجة .
+title: "الفئة GradientFillSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientFillSettings. فئة تعريف التدرج الأساسي. يحتوي على خصائص مشتركة لكلا نوعي التدرج الصلب والضوضاء"
 type: docs
-weight: 1960
+weight: 2070
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings class
 
-إعدادات تأثير التعبئة المتدرجة .
+فئة تعريف التدرج الأساسية. تحتوي على خصائص مشتركة لكلا نوعي التدرج (الصلب والضوضائي).
 
 ```csharp
 public class GradientFillSettings : BaseFillSettings, IGradientFillSettings
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GradientFillSettings](gradientfillsettings/)() | يقوم بتهيئة مثيل جديد لملف`GradientFillSettings` فئة . |
+| [GradientFillSettings](gradientfillsettings/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [محاذاة مع الطبقة] . |
-| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/) { get; set; } | الحصول على الزاوية أو تحديدها . |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/) { get; set; } | الحصول على اللون أو تحديده . |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/colorpoints/) { get; set; } | الحصول على نقاط اللون أو تعيينها . |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`GradientFillSettings` هو ثبات . |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | نوع التعبئة |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname/) { get; set; } | الحصول على أو تحديد اسم التدرج اللوني . |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | الحصول على نوع التدرج اللوني أو تحديده. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | الحصول على أو تعيين الإزاحة الأفقية بالنسبة المئوية. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`GradientFillSettings` عكس . |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | الحصول على المقياس أو تعيينه. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/transparencypoints/) { get; set; } | الحصول على نقاط الشفافية أو تعيينها . |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | الحصول على أو تعيين الإزاحة الرأسية بالنسبة المئوية. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [align with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/) { get; set; } | يحصل أو يعيّن الزاوية. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا `GradientFillSettings` يستخدم التخفيف. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/) { get; } | نوع التعبئة. |
+| [Gradient](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradient/) { get; set; } | يحصل أو يضبط مثيل تعريف التدرج المحدد (Solid/Noise). |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradienttype/) { get; set; } | يحصل أو يعيّن نوع التدرج. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/) { get; set; } | يحصل أو يعيّن الإزاحة الأفقية بالنسبة المئوية. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/interpolationmethod/) { get; set; } | يحصل أو يضبط طريقة الاستيفاء للتدرج. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا `GradientFillSettings` مقلوبًا. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/) { get; set; } | يحصل أو يعيّن مقياس التدرج **المُعَدَّل** (بالنسبة المئوية) |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/) { get; set; } | يحصل أو يعيّن الإزاحة العمودية بالنسبة المئوية. |
 
-## طُرق
+## أمثلة
 
-| اسم | وصف |
-| --- | --- |
-| [AddColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/)() | يضيف نقطة اللون . |
-| [AddTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/)() | يضيف نقطة اللون . |
-| [RemoveColorPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/)(IGradientColorPoint) | يزيل نقطة اللون . |
-| [RemoveTransparencyPoint](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/)(IGradientTransparencyPoint) | يزيل نقطة الشفافية . |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/)() | يولد عقد مورد LFX2 . |
-
-### أمثلة
-
-يوضح الكود التالي دعم طبقة تأثير الحد بنوع التعبئة - التدرج.
+الكود التالي يوضح دعم طبقة تأثير الخط مع نوع التعبئة - تدرج.
 
 ```csharp
 [C#]
@@ -87,7 +76,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Black, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
     AssertAreEqual(true, fillSettings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, fillSettings.GradientType);
@@ -98,7 +86,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(false, fillSettings.Reverse);
 
     // نقاط اللون
-    var colorPoints = fillSettings.ColorPoints;
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
     AssertAreEqual(Color.Black, colorPoints[0].Color);
@@ -110,7 +99,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
     // نقاط الشفافية
-    var transparencyPoints = fillSettings.TransparencyPoints;
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -122,8 +111,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
     // اختبار التحرير
-    fillSettings.Color = Color.Green;
-
     gradientStroke.Opacity = 127;
     gradientStroke.BlendMode = BlendMode.Color;
 
@@ -135,28 +122,28 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.VerticalOffset = 11;
     fillSettings.Reverse = true;
 
-    // أضف نقطة لون جديدة
-    var colorPoint = fillSettings.AddColorPoint();
+    // إضافة نقطة لون جديدة
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
     // تغيير موقع النقطة السابقة
-    fillSettings.ColorPoints[1].Location = 1899;
+    solidGradient.ColorPoints[1].Location = 1899;
 
-    // أضف نقطة شفافية جديدة
-    var transparencyPoint = fillSettings.AddTransparencyPoint();
+    // إضافة نقطة شفافية جديدة
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
     // تغيير موقع نقطة الشفافية السابقة
-    fillSettings.TransparencyPoints[1].Location = 2411;
+    solidGradient.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
 }
 
-// اختبار الملف بعد التحرير
+// ملف الاختبار بعد التعديل
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var gradientStroke = (StrokeEffect)im.Layers[2].BlendingOptions.Effects[0];
@@ -166,52 +153,52 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Green, fillSettings.Color);
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // تحقق من نقاط اللون
-    AssertAreEqual(3, fillSettings.ColorPoints.Length);
+    AssertAreEqual(3, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Black, point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.White, point.Color);
     AssertAreEqual(1899, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
-    // تحقق من النقاط الشفافة
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // تحقق من نقاط الشفافية
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(2411, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.00, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IGradientFillSettings](../igradientfillsettings/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

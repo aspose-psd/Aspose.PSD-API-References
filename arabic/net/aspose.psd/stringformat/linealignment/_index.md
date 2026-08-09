@@ -1,28 +1,29 @@
 ---
-title: StringFormat.LineAlignment
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. الحصول على محاذاة الخط على المستوى الأفقي أو تعيينها.
+title: "StringFormat.LineAlignment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تحصل أو تعين محاذاة السطر على المستوى الأفقي."
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.psd/stringformat/linealignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.LineAlignment property
 
-الحصول على محاذاة الخط على المستوى الأفقي أو تعيينها.
+يحصل أو يضبط محاذاة السطر على المستوى الأفقي.
 
 ```csharp
 public StringAlignment LineAlignment { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`StringAlignment`](../../stringalignment/) التعداد الذي يمثل محاذاة الخط.
+تعداد [`StringAlignment`](../../stringalignment/) يمثل محاذاة السطر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

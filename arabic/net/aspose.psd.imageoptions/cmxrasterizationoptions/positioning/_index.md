@@ -1,28 +1,29 @@
 ---
-title: CmxRasterizationOptions.Positioning
-second_title: Aspose.PSD لمرجع .NET API
-description: CmxRasterizationOptions ملكية. الحصول على تحديد المواقع أو تحديده.
+title: "CmxRasterizationOptions.Positioning"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CmxRasterizationOptions. يحصل على أو يضبط الموضع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imageoptions/cmxrasterizationoptions/positioning/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions.Positioning property
 
-الحصول على تحديد المواقع أو تحديده.
+يحصل أو يعيّن الوضعية.
 
 ```csharp
 public PositioningTypes Positioning { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تحديد المواقع .
+الموضع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PositioningTypes](../../positioningtypes/)
 * class [CmxRasterizationOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

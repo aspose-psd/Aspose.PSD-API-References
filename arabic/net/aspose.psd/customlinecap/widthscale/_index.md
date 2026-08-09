@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.WidthScale
-second_title: Aspose.PSD لمرجع .NET API
-description: CustomLineCap ملكية. الحصول على أو تحديد المقدار الذي يتم من خلاله قياس هذاCustomLineCap كائن فئة فيما يتعلق بعرضPen الكائن .
+title: "CustomLineCap.WidthScale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CustomLineCap. تحصل أو تعين المقدار الذي يتم به تحجيم كائن CustomLineCap Class بالنسبة إلى عرض كائن Pen"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/customlinecap/widthscale/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.WidthScale property
 
-الحصول على أو تحديد المقدار الذي يتم من خلاله قياس هذا[`CustomLineCap`](../) كائن فئة فيما يتعلق بعرضPen الكائن .
+تحصل أو تعين المقدار الذي يتم به تحجيم كائن [`CustomLineCap`](../) Class بالنسبة إلى عرض كائن Pen.
 
 ```csharp
 public float WidthScale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المقدار الذي يتم من خلاله قياس الحد الأقصى.
+المقدار الذي يتم به تحجيم الغطاء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustomLineCap](../)
-* مساحة الاسم [Aspose.PSD](../../customlinecap/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

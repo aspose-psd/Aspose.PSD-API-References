@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.Strikethrough
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان يتوسطه خط .
+title: "ITextStyle.Strikethrough"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. يحصل أو يضبط قيمة تشير إلى ما إذا كان هناك شطب"
 type: docs
 weight: 230
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Strikethrough property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [يتوسطه خط] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [شطب].
 
 ```csharp
 public bool Strikethrough { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

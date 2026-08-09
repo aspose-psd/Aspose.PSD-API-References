@@ -1,49 +1,50 @@
 ---
-title: Hue2Resource.Hue2Resource
-second_title: Aspose.PSD لمرجع .NET API
-description: Hue2Resource البناء. يقوم بتهيئة مثيل جديد لملفHue2Resource فئة .
+title: "Hue2Resource.Hue2Resource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Hue2Resource. يهيئ مثيلاً جديدًا من الفئة Hue2Resource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue2resource/
 ---
+{{< psd/tize >}}
 ## Hue2Resource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Hue2Resource`](../) فئة .
+يهيئ مثيلاً جديدًا من الفئة [`Hue2Resource`](../).
 
 ```csharp
 public Hue2Resource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Hue2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Hue2Resource(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Hue2Resource`](../) فئة .
+يهيئ مثيلاً جديدًا من الفئة [`Hue2Resource`](../).
 
 ```csharp
 public Hue2Resource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات المورد. |
+| البيانات | Byte[] | البيانات الخاصة بالمورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | بيانات مورد Hue2 غير صالحة |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | بيانات Hue2 Resource غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Hue2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

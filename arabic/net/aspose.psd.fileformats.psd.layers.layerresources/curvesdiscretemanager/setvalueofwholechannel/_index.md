@@ -1,34 +1,35 @@
 ---
-title: CurvesDiscreteManager.SetValueOfWholeChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvesDiscreteManager طريقة. يحدد قيمة القناة بأكملها.
+title: "CurvesDiscreteManager.SetValueOfWholeChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CurvesDiscreteManager. تعيّن قيمة القناة بالكامل"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetValueOfWholeChannel method
 
-يحدد قيمة القناة بأكملها.
+يضبط قيمة القناة بالكامل.
 
 ```csharp
 public void SetValueOfWholeChannel(int channelIndex, byte[] channelValue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | channelIndex | Int32 | فهرس القناة. |
 | channelValue | Byte[] | قيمة القناة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | لتعيين قيمة القناة الكاملة ، يجب استخدام مصفوفة بايت بطول = 256 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | لتعيين قيمة القناة بالكامل يجب عليك استخدام مصفوفة بايت بطول = 256 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesDiscreteManager](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

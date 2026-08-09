@@ -1,28 +1,29 @@
 ---
-title: Class MatrixExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.MatrixExtensions فصل. يحتوي على ملفMatrix امتدادات الفئة .
+title: "الفئة MatrixExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.Extensions.MatrixExtensions. تحتوي على امتدادات فئة Matrix"
 type: docs
-weight: 1130
+weight: 1140
 url: /ar/net/aspose.psd.extensions/matrixextensions/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions class
 
-يحتوي على ملف[`Matrix`](../../aspose.psd/matrix/) امتدادات الفئة .
+تحتوي على امتدادات فئة [`Matrix`](../../aspose.psd/matrix/).
 
 ```csharp
 public static class MatrixExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | يحول ملف[`Matrix`](../../aspose.psd/matrix/) الىMatrix . |
+| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | يحوّل [`Matrix`](../../aspose.psd/matrix/) إلى Matrix. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

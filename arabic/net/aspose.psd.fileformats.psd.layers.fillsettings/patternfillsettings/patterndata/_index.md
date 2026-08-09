@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternData
-second_title: Aspose.PSD لمرجع .NET API
-description: PatternFillSettings ملكية. الحصول على بيانات النمط أو تعيينها .
+title: "PatternFillSettings.PatternData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PatternFillSettings. يحصل أو يضبط بيانات النمط"
 type: docs
-weight: 60
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternData property
 
-الحصول على بيانات النمط أو تعيينها .
+يحصل أو يعيّن بيانات النمط.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات النمط .
+بيانات النمط.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تحرير نمط طبقة التعبئة.
+يوضح الشيفرة التالية دعم تحرير نمط طبقة التعبئة.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // التحرير 
+            // تحرير 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

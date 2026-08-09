@@ -1,27 +1,28 @@
 ---
-title: Layer.ExtraLength
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على طول معلومات الطبقة الإضافي بالبايت.
+title: "Layer.ExtraLength"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل على طول معلومات الطبقة الإضافية بالبايت"
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 ---
+{{< psd/tize >}}
 ## Layer.ExtraLength property
 
-الحصول على طول معلومات الطبقة الإضافي بالبايت.
+يحصل على طول معلومات الطبقة الإضافية بالبايت.
 
 ```csharp
 public int ExtraLength { get; }
 ```
 
-### Property_Value
+### Property Value
 
-طول الطبقة الإضافية .
+طول الطبقة الإضافي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

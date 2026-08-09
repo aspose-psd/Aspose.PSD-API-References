@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddColorBalanceAdjustmentLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة ضبط توازن اللون.
+title: "PsdImage.AddColorBalanceAdjustmentLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تُضيف طبقة تعديل توازن اللون."
 type: docs
-weight: 320
+weight: 330
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddColorBalanceAdjustmentLayer method
 
-يضيف طبقة ضبط توازن اللون.
+يضيف طبقة تعديل توازن الألوان.
 
 ```csharp
 public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
@@ -16,13 +17,13 @@ public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
 
 ### قيمة الإرجاع
 
-طبقة توازن لون تم إنشاؤها حديثًا.
+طبقة توازن اللون تم إنشاؤها حديثًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorBalanceAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

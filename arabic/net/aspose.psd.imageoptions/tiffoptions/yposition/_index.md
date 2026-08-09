@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Yposition
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تحديد الموضع y .
+title: "TiffOptions.Yposition"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يضبط موضع y"
 type: docs
-weight: 680
+weight: 690
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/yposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yposition property
 
-الحصول على أو تحديد الموضع y .
+يحصل أو يضبط موضع y.
 
 ```csharp
 public TiffRational Yposition { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الوضع y .
+موضع y.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

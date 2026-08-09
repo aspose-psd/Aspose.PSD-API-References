@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Thumbnail
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئة تمثل صورة مصغرة لملف.
+title: "Aspose.PSD.Xmp.Types.Complex.Thumbnail"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تحتوي على فئة تمثل صورة مصغرة لملف"
 type: docs
-weight: 680
+weight: 720
 url: /ar/net/aspose.psd.xmp.types.complex.thumbnail/
 ---
-تحتوي مساحة الاسم على فئة تمثل صورة مصغرة لملف.
+{{< psd/tize >}}
+النطاق يحتوي على فئة تمثل صورة مصغرة لملف.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
 | [Thumbnail](./thumbnail/) | يمثل صورة مصغرة لملف. |
 

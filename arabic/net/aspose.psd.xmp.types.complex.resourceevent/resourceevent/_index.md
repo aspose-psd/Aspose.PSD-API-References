@@ -1,48 +1,49 @@
 ---
-title: Class ResourceEvent
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent فصل. تحتوي على أبعاد لكائن مرسوم .
+title: "الفئة ResourceEvent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent فئة. تحتوي على أبعاد لكائن مرسوم"
 type: docs
-weight: 6080
+weight: 6580
 url: /ar/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent class
 
-تحتوي على أبعاد لكائن مرسوم .
+يحتوي على أبعاد لكائن مرسوم.
 
 ```csharp
 public sealed class ResourceEvent : ComplexTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ResourceEvent](resourceevent/)() | Default_Constructor |
+| [ResourceEvent](resourceevent/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/) { get; set; } | يحصل أو يحدد الإجراء . |
-| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/) { get; set; } | الحصول على تاريخ الإجراء أو تحديده . |
-| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | الحصول على أو تعيين قائمة بأجزاء المورد التي تم تغييرها منذ تاريخ الحدث السابق أو تعيينها. |
-| [InstanceId](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/) { get; set; } | الحصول على أو تعيين قيمة xmpMM: InstanceId. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على مساحة الاسم الافتراضية URI. |
-| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/) { get; set; } | الحصول على أو تعيين الوصف الإضافي للإجراء. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة . |
-| [SofwareAgentName](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/) { get; set; } | الحصول على اسم وكيل البرنامج أو تعيينه. |
+| [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/) { get; set; } | يحصل أو يضبط الإجراء. |
+| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/) { get; set; } | يحصل أو يضبط تاريخ الإجراء. |
+| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | يحصل أو يضبط القائمة المفصولة بفواصل منقوطة لأجزاء المورد التي تم تغييرها منذ سجل الأحداث السابق. |
+| [InstanceId](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/) { get; set; } | يحصل أو يضبط قيمة xmpMM:InstanceId. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على URI مساحة الاسم الافتراضية. |
+| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/) { get; set; } | يحصل أو يضبط الوصف الإضافي للإجراء. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة. |
+| [SofwareAgentName](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/) { get; set; } | يحصل أو يضبط اسم وكيل البرنامج. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../)
 
 

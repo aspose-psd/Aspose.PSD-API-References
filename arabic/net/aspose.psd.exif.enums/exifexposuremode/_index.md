@@ -1,30 +1,31 @@
 ---
-title: Enum ExifExposureMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifExposureMode تعداد. تعداد وضع التعريض الضوئي exif .
+title: "تعداد ExifExposureMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.Exif.Enums.ExifExposureMode. تعداد وضع التعرض exif"
 type: docs
-weight: 830
+weight: 840
 url: /ar/net/aspose.psd.exif.enums/exifexposuremode/
 ---
+{{< psd/tize >}}
 ## ExifExposureMode enumeration
 
-تعداد وضع التعريض الضوئي exif .
+exif تعداد وضع التعرض.
 
 ```csharp
 public enum ExifExposureMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Auto | `0` | التعريض التلقائي . |
-| Manual | `1` | التعرض اليدوي . |
-| AutoBracket | `2` | قوس تلقائي . |
+| Auto | `0` | تعرض تلقائي. |
+| Manual | `1` | التعريض اليدوي. |
+| AutoBracket | `2` | القوس التلقائي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

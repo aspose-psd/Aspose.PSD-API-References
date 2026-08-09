@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Blues
-second_title: Aspose.PSD لمرجع .NET API
-description: BlackWhiteAdjustmentLayer ملكية. الحصول على أو تحديد قيمة البلوز.
+title: "BlackWhiteAdjustmentLayer.Blues"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlackWhiteAdjustmentLayer. يحصل أو يحدد قيمة الأزرق"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blues/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Blues property
 
-الحصول على أو تحديد قيمة البلوز.
+يحصل أو يضبط قيمة اللون الأزرق.
 
 ```csharp
 public int Blues { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة البلوز .
+قيمة اللون الأزرق.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك إضافة طبقة ضبط أسود أبيض في وقت التشغيل في Aspose.PSD
+المثال التالي يوضح كيفية إضافة طبقة تعديل الأسود والأبيض أثناء التشغيل في Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-يوضح المثال التالي كيف يمكنك التعامل مع خصائص طبقة ضبط أسود أبيض في Aspose.PSD
+المثال التالي يوضح كيف يمكنك تعديل خصائص طبقة تعديل الأبيض والأسود في Aspose.PSD
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlackWhiteAdjustmentLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

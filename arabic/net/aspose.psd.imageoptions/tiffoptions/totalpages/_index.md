@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TotalPages
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على إجمالي الصفحات .
+title: "TiffOptions.TotalPages"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل على إجمالي الصفحات"
 type: docs
-weight: 560
+weight: 570
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TotalPages property
 
-الحصول على إجمالي الصفحات .
+يحصل على إجمالي الصفحات.
 
 ```csharp
 public ushort TotalPages { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إجمالي الصفحات .
+إجمالي الصفحات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

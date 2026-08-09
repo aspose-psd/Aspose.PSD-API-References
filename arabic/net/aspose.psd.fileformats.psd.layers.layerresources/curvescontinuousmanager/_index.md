@@ -1,45 +1,46 @@
 ---
-title: Class CurvesContinuousManager
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager فصل. مدير طبقة ضبط المنحنيات التي تعالج المنحنيات
+title: "الفئة CurvesContinuousManager"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager class. مدير لطبقة تعديل المنحنيات التي تتعامل مع المنحنيات"
 type: docs
-weight: 2410
+weight: 2670
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager class
 
-مدير طبقة ضبط المنحنيات التي تعالج المنحنيات
+مدير طبقة تعديل المنحنيات الذي يتحكم في المنحنيات
 
 ```csharp
 public sealed class CurvesContinuousManager : CurvesManager
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager/)(int) | يقوم بتهيئة مثيل جديد لملف`CurvesContinuousManager` فئة . |
+| [CurvesContinuousManager](curvescontinuousmanager/)(int) | يُنشئ مثيلاً جديداً من الفئة `CurvesContinuousManager`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | يحصل على الحد الأقصى لعدد القنوات . |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | يحصل على الحد الأقصى لعدد القنوات. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | يضيف نقطة المنحنى . |
-| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | يحصل على نقطة المنحنى بالفهرس . |
-| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | الحصول على عدد نقاط المنحنى . |
-| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | يزيل نقطة المنحنى . |
-| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | يحدّث نقطة المنحنى . |
+| [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | يضيف نقطة المنحنى. |
+| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | يحصل على نقطة المنحنى حسب الفهرس. |
+| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | يحصل على عدد نقاط المنحنى. |
+| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | يزيل نقطة المنحنى. |
+| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | يحدّث نقطة المنحنى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesManager](../curvesmanager/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

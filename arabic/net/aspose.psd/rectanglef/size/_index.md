@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF ملكية. الحصول على أو تحديد حجم هذاRectangleF .
+title: "RectangleF.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleF. تحصل أو تعيّن حجم هذا RectangleF."
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/rectanglef/size/
 ---
+{{< psd/tize >}}
 ## RectangleF.Size property
 
-الحصول على أو تحديد حجم هذا[`RectangleF`](../) .
+تحصل أو تعيّن حجم هذا [`RectangleF`](../).
 
 ```csharp
 public SizeF Size { get; set; }
@@ -16,13 +17,13 @@ public SizeF Size { get; set; }
 
 ### قيمة الإرجاع
 
-أ[`SizeF`](../../sizef/) التي تمثل عرض وارتفاع هذا[`RectangleF`](../) بناء.
+كائن [`SizeF`](../../sizef/) يمثل العرض والارتفاع لهذا الهيكل [`RectangleF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

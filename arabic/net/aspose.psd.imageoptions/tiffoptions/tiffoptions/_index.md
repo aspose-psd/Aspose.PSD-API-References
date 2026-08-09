@@ -1,92 +1,93 @@
 ---
-title: TiffOptions.TiffOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions البناء. يقوم بتهيئة مثيل جديد لملفTiffOptions فئة .
+title: "TiffOptions.TiffOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TiffOptions. يهيئ نسخة جديدة من فئة TiffOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/tiffoptions/
 ---
+{{< psd/tize >}}
 ## TiffOptions(TiffExpectedFormat, TiffByteOrder) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | expectedFormat | TiffExpectedFormat | تنسيق ملف tiff المتوقع. |
-| byteOrder | TiffByteOrder | ترتيب بايت تنسيق ملف tiff للاستخدام. |
+| byteOrder | TiffByteOrder | ترتيب بايتات تنسيق ملف TIFF المستخدم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffExpectedFormat) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffOptions`](../) فصل. بشكل افتراضي ، يتم استخدام اصطلاح Endian الصغير.
+يهيئ نسخة جديدة من الفئة [`TiffOptions`](../). بشكل افتراضي يتم استخدام اتفاقية little endian.
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | expectedFormat | TiffExpectedFormat | تنسيق ملف tiff المتوقع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffOptions) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | TiffOptions | خيارات النسخ من. |
+| خيارات | TiffOptions | الخيارات للنسخ منها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffDataType[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffDataType[] tags)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tags | TiffDataType[] | العلامات المراد تهيئة الخيارات بها. |
+| العلامات | TiffDataType[] | الوسوم لتهيئة الخيارات بها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TextLayer.Font
-second_title: Aspose.PSD لمرجع .NET API
-description: TextLayer ملكية. يحصل على الخط .
+title: "TextLayer.Font"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextLayer. يحصل على الخط"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 ---
+{{< psd/tize >}}
 ## TextLayer.Font property
 
-يحصل على الخط .
+يسترجع الخط.
 
 ```csharp
 public Font Font { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

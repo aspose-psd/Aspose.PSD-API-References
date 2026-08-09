@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.LineSize
-second_title: Aspose.PSD لمرجع .NET API
-description: RawDataSettings ملكية. الحصول على أو تعيين حجم خط البكسل بالبايت لمعالجة البيانات الأولية
+title: "RawDataSettings.LineSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RawDataSettings. تحصل أو تعيين حجم سطر البكسلات بالبايت لمعالجة البيانات الخام"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/rawdatasettings/linesize/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.LineSize property
 
-الحصول على أو تعيين حجم خط البكسل بالبايت لمعالجة البيانات الأولية
+يحصل أو يعيّن حجم سطر البكسلات بالبايتات لمعالجة البيانات الخام
 
 ```csharp
 public int LineSize { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم خط البكسل بالبايت لمعالجة البيانات الأولية
+حجم سطر البكسلات بالبايت لمعالجة البيانات الخام
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RawDataSettings](../)
-* مساحة الاسم [Aspose.PSD](../../rawdatasettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,102 +1,103 @@
 ---
-title: Region.Complement
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. يقوم بتحديث هذاRegion لاحتواء الجزء المحددRectangleF هيكل لا يتقاطع مع هذاRegion .
+title: "Region.Complement"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تُحدّث هذا Region لتحتوي على الجزء من بنية RectangleF المحددة الذي لا يتقاطع مع هذا Region"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-يقوم بتحديث هذا[`Region`](../) لاحتواء الجزء المحدد[`RectangleF`](../../rectanglef/) هيكل لا يتقاطع مع هذا[`Region`](../) .
+يحدّث هذا [`Region`](../) لتحتوي على الجزء من البنية [`RectangleF`](../../rectanglef/) المحددة الذي لا يتقاطع مع هذا [`Region`](../).
 
 ```csharp
 public void Complement(RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | ال[`RectangleF`](../../rectanglef/) هيكل لاستكمال هذا[`Region`](../). |
+| rect | RectangleF | البنية [`RectangleF`](../../rectanglef/) لتكملة هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-يقوم بتحديث هذا[`Region`](../) لاحتواء الجزء المحدد[`Rectangle`](../../rectangle/) هيكل لا يتقاطع مع هذا[`Region`](../) .
+يحدّث هذا [`Region`](../) لتحتوي على الجزء من البنية [`Rectangle`](../../rectangle/) المحددة الذي لا يتقاطع مع هذا [`Region`](../).
 
 ```csharp
 public void Complement(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | ال[`Rectangle`](../../rectangle/) هيكل لاستكمال هذا[`Region`](../). |
+| rect | Rectangle | البنية [`Rectangle`](../../rectangle/) لتكملة هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-يقوم بتحديث هذا[`Region`](../) لاحتواء الجزء المحدد[`GraphicsPath`](../../graphicspath/) هذا لا يتقاطع مع هذا[`Region`](../) .
+يحدّث هذا [`Region`](../) لتحتوي على الجزء من البنية [`GraphicsPath`](../../graphicspath/) المحددة الذي لا يتقاطع مع هذا [`Region`](../).
 
 ```csharp
 public void Complement(GraphicsPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | GraphicsPath | ال[`GraphicsPath`](../../graphicspath/) لاستكمال هذا[`Region`](../). |
+| path | GraphicsPath | البنية [`GraphicsPath`](../../graphicspath/) لتكملة هذا [`Region`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *path*isnull . |
+| ArgumentNullException | *path* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-يقوم بتحديث هذا[`Region`](../) لاحتواء الجزء المحدد[`Region`](../) هذا لا يتقاطع مع هذا[`Region`](../) .
+يحدّث هذا [`Region`](../) لتحتوي على الجزء من الـ[`Region`](../) المحدد الذي لا يتقاطع مع هذا [`Region`](../).
 
 ```csharp
 public void Complement(Region region)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| region | Region | ال[`Region`](../) وجوه لاستكمال هذا[`Region`](../) هدف. |
+| region | Region | كائن [`Region`](../) لتكملة هذا كائن [`Region`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *region*isnull . |
+| ArgumentNullException | *region* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

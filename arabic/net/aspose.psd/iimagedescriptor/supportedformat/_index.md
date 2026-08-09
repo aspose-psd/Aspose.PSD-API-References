@@ -1,28 +1,29 @@
 ---
-title: IImageDescriptor.SupportedFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: IImageDescriptor ملكية. يحصل على التنسيق المدعوم .
+title: "IImageDescriptor.SupportedFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IImageDescriptor. تحصل على الصيغة المدعومة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/iimagedescriptor/supportedformat/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor.SupportedFormat property
 
-يحصل على التنسيق المدعوم .
+يحصل على الصيغة المدعومة.
 
 ```csharp
 public FileFormat SupportedFormat { get; }
 ```
 
-### Property_Value
+### Property Value
 
-التنسيق المدعوم.
+الصيغة المدعومة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FileFormat](../../fileformat/)
 * interface [IImageDescriptor](../)
-* مساحة الاسم [Aspose.PSD](../../iimagedescriptor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

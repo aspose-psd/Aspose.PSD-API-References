@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.Bounds
-second_title: Aspose.PSD لمرجع .NET API
-description: PolygonShape ملكية. يحصل على حدود الكائن .
+title: "PolygonShape.Bounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PolygonShape. يحصل على حدود الكائن"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.shapes/polygonshape/bounds/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Bounds property
 
-يحصل على حدود الكائن .
+يحصل على حدود الكائن.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حدود الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PolygonShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../polygonshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

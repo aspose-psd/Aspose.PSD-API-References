@@ -1,61 +1,62 @@
 ---
-title: GraphicsPath.AddFigures
-second_title: Aspose.PSD لمرجع .NET API
-description: GraphicsPath طريقة. إضافة أرقام جديدة .
+title: "GraphicsPath.AddFigures"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة GraphicsPath. تضيف أشكالًا جديدة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/graphicspath/addfigures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.AddFigures method
 
-إضافة أرقام جديدة .
+يضيف أشكالًا جديدة.
 
 ```csharp
 public void AddFigures(Figure[] figures)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| figures | Figure[] | الأرقام المراد إضافتها. |
+| الأشكال | Figure[] | الأشكال المراد إضافتها. |
 
-### أمثلة
+## أمثلة
 
-ينشئ هذا المثال صورة جديدة ويرسم مجموعة متنوعة من الأشكال باستخدام Figures and GraphicsPath على سطح الصورة
+هذا المثال ينشئ صورة جديدة ويرسم مجموعة متنوعة من الأشكال باستخدام Figures و GraphicsPath على سطح الصورة
 
 ```csharp
 [C#]
 
-// إنشاء مثيل للصورة
+//إنشاء مثال من Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // إنشاء وتهيئة مثيل لفئة الرسومات
+    //إنشاء وتهيئة نسخة من فئة Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // مسح سطح الرسومات
+    //مسح سطح Graphics
     graphics.Clear(Color.Wheat);
 
-    // إنشاء مثيل لفئة GraphicsPath
+    //إنشاء نسخة من فئة GraphicsPath
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    // إنشاء مثيل لفئة الشكل
+    //إنشاء نسخة من فئة Figure
     Aspose.PSD.Figure figure1 = new Aspose.PSD.Figure();
 
-    // إضافة شكل إلى كائن الشكل
+    //إضافة Shape إلى كائن Figure
     figure1.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure1.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(110, 110), new Size(200, 200)), 0, 90));
 
-    // إنشاء مثيل لفئة الشكل
+    //إنشاء نسخة من فئة Figure
     Aspose.PSD.Figure figure2 = new Aspose.PSD.Figure();
 
-    // إضافة شكل إلى كائن الشكل
+    //إضافة Shape إلى كائن Figure
     figure2.AddShape(new Aspose.PSD.Shapes.ArcShape(new RectangleF(10, 10, 300, 300), 0, 45));
     figure2.AddShape(new Aspose.PSD.Shapes.PolygonShape(new[] { new PointF(150, 10), new PointF(150, 200), new PointF(250, 300), new PointF(350, 400) }, true));
     figure2.AddShape(new Aspose.PSD.Shapes.RectangleShape(new Rectangle(new Point(250, 250), new Size(200, 200))));
 
-    // إضافة كائن الشكل إلى GraphicsPath
+    //إضافة كائن Figure إلى GraphicsPath
     graphicspath.AddFigures(new[] { figure1, figure2 });
 
-    // رسم المسار باستخدام كائن القلم من اللون الأسود
+    //رسم المسار باستخدام كائن Pen بلون أسود
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
     // إنشاء خيارات التصدير وتهيئتها.
@@ -66,11 +67,11 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* مساحة الاسم [Aspose.PSD](../../graphicspath/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

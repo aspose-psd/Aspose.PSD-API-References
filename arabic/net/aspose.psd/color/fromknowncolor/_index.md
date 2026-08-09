@@ -1,32 +1,33 @@
 ---
-title: Color.FromKnownColor
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. ينشئ ملفColor هيكل من اللون المحدد مسبقا المحدد.
+title: "Color.FromKnownColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. ينشئ هيكل Color من اللون المحدد مسبقًا"
 type: docs
 weight: 1440
 url: /ar/net/aspose.psd/color/fromknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.FromKnownColor method
 
-ينشئ ملف[`Color`](../) هيكل من اللون المحدد مسبقا المحدد.
+ينشئ هيكل [`Color`](../) من اللون المحدد مسبقًا.
 
 ```csharp
 public static Color FromKnownColor(KnownColor color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | KnownColor | عنصر من عناصر[`KnownColor`](../../knowncolor/) تعداد. |
+| color | KnownColor | عنصر من تعداد [`KnownColor`](../../knowncolor/). |
 
 ### قيمة الإرجاع
 
-ال[`Color`](../) التي تخلقها هذه الطريقة.
+الـ [`Color`](../) الذي تنشئه هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

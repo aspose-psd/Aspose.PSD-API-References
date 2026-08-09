@@ -1,28 +1,29 @@
 ---
-title: Font.CharacterSet
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. يحصل على قيمة البايت التي تحدد مجموعة الأحرف لهذاFont يستخدم .
+title: "Font.CharacterSet"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. يحصل على قيمة بايت تحدد مجموعة الأحرف التي يستخدمها هذا الخط."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/font/characterset/
 ---
+{{< psd/tize >}}
 ## Font.CharacterSet property
 
-يحصل على قيمة البايت التي تحدد مجموعة الأحرف لهذا[`Font`](../) يستخدم .
+يحصل على قيمة بايت تحدد مجموعة الأحرف التي يستخدمها هذا [`Font`](../).
 
 ```csharp
 public CharacterSet CharacterSet { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مجموعة شخصية أن هذا[`Font`](../) الاستخدامات.
+مجموعة أحرف يستخدمها هذا [`Font`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum HotkeyPrefix
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.HotkeyPrefix تعداد. يحدد نوع العرض لبادئات المفاتيح السريعة التي تتعلق بالنص.
+title: "تعداد HotkeyPrefix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.HotkeyPrefix. يحدد نوع العرض لبادئات المفاتيح السريعة المتعلقة بالنص."
 type: docs
-weight: 4350
+weight: 4820
 url: /ar/net/aspose.psd/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## HotkeyPrefix enumeration
 
-يحدد نوع العرض لبادئات المفاتيح السريعة التي تتعلق بالنص.
+يحدد نوع العرض لبادئات مفاتيح الاختصار المتعلقة بالنص.
 
 ```csharp
 public enum HotkeyPrefix
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لا توجد بادئة مفتاح التشغيل السريع. |
-| Show | `1` | عرض بادئة مفتاح التشغيل السريع . |
-| Hide | `2` | لا تعرض بادئة مفتاح التشغيل السريع. |
+| None | `0` | بدون بادئة مفتاح سريع. |
+| Show | `1` | اعرض بادئة المفتاح السريع. |
+| Hide | `2` | لا تعرض بادئة المفتاح السريع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

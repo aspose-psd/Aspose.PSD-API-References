@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة ضبط أسود أبيض.
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تُضيف طبقة تعديل الأسود والأبيض."
 type: docs
-weight: 290
+weight: 300
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
-يضيف طبقة ضبط أسود أبيض.
+يضيف طبقة تعديل الأبيض والأسود.
 
 ```csharp
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
@@ -16,11 +17,11 @@ public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 
 ### قيمة الإرجاع
 
-طبقة ضبط أسود أبيض تم إنشاؤها.
+طبقة تعديل الأسود والأبيض التي تم إنشاؤها.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك إضافة طبقة ضبط أسود أبيض في وقت التشغيل في Aspose.PSD
+المثال التالي يوضح كيفية إضافة طبقة تعديل الأسود والأبيض أثناء التشغيل في Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

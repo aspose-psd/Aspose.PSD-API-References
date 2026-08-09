@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsReadOnly
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary ملكية. يحصل على قيمة تشير إلى ما إذا كان IDictionary الكائن للقراءة فقط.
+title: "NonGenericDictionary.IsReadOnly"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية NonGenericDictionary. تحصل على قيمة تشير إلى ما إذا كان كائن IDictionary للقراءة فقط"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/nongenericdictionary/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsReadOnly property
 
-يحصل على قيمة تشير إلى ما إذا كان IDictionary الكائن للقراءة فقط.
+يحصل على قيمة تشير إلى ما إذا كان كائن IDictionary للقراءة فقط.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,12 +17,12 @@ public bool IsReadOnly { get; }
 
 ### قيمة الإرجاع
 
-صحيح إذا كانIDictionary الكائن للقراءة فقط ؛ خلاف ذلك ، خطأ.
+صحيح إذا كان كائن IDictionary للقراءة فقط؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

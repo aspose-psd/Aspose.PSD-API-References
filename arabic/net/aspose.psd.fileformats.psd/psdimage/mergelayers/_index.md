@@ -1,33 +1,34 @@
 ---
-title: PsdImage.MergeLayers
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يدمج الطبقات .
+title: "PsdImage.MergeLayers"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تدمج الطبقات"
 type: docs
-weight: 560
+weight: 620
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/mergelayers/
 ---
+{{< psd/tize >}}
 ## PsdImage.MergeLayers method
 
-يدمج الطبقات .
+يدمج الطبقات.
 
 ```csharp
 public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bottomLayer | Layer | الطبقة السفلية. |
-| topLayer | Layer | الطبقة العليا. |
+| bottomLayer | طبقة | الطبقة السفلية. |
+| topLayer | طبقة | الطبقة العلوية. |
 
 ### قيمة الإرجاع
 
 الطبقة السفلية بعد الدمج
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

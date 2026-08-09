@@ -1,44 +1,46 @@
 ---
-title: Class VectorShapeBoundingBox
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox فصل. يحدد فئة المربع المحيط بالشكل المتجه.
+title: "فئة VectorShapeBoundingBox"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox فئة. يعرّف فئة صندوق حدود الشكل المتجه"
 type: docs
-weight: 1430
+weight: 1440
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox class
 
-يحدد فئة المربع المحيط بالشكل المتجه.
+يعرّف فئة صندوق الحدود للشكل المتجه.
 
 ```csharp
 public sealed class VectorShapeBoundingBox
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | Default_Constructor |
+| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | يحصل على القاع أو يحدده. |
-| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | الحصول على أو تعيين حدود المربع المحيط بالشكل. |
-| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | الحصول على اليسار أو تعيينه. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | الحصول على أو تحديد إصدار رباعي لقيمة الوحدة. |
-| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | الحصول على الحق أو تعيينه . |
-| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | الحصول على القمة أو تحديدها . |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | يحصل أو يعيّن الخاصية السفلية. |
+| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | يحصل أو يعيّن حدود صندوق حدود الشكل. |
+| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | يحصل أو يعيّن الخاصية اليسرى. |
+| [PointsUnitType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/pointsunittype/) { get; set; } | يحصل أو يعيّن نوع الوحدة للنقاط التي تحدد زوايا الصندوق. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | يحصل أو يعيّن نسخة رباعية لقيمة الوحدة. |
+| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | يحصل أو يعيّن الخاصية اليمنى. |
+| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | يحصل أو يعيّن الخاصية العلوية. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال أن تحميل وحفظ صورة PSD بطبقات الشكل ومسارات المتجهات يعمل بشكل صحيح.
+يوضح هذا المثال أن تحميل وحفظ صورة PSD مع طبقات الشكل والمسارات المتجهة يعمل بشكل صحيح.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال أن تحميل وحفظ صورة PSD بطبقات الشكل ومسارات المتجهات يعمل بشكل صحيح.
+// يوضح هذا المثال أن تحميل وحفظ صورة PSD مع طبقات الشكل والمسارات المتجهة يعمل بشكل صحيح.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -163,9 +165,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

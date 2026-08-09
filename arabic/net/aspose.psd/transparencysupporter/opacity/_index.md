@@ -1,27 +1,28 @@
 ---
-title: TransparencySupporter.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: TransparencySupporter ملكية. الحصول على عتامة الكائن أو تعيينها. يجب أن تكون القيمة بين 0 و 1. تعني القيمة 0 أن الكائن مرئي بالكامل  بينما تعني القيمة 1 أن الكائن معتم بالكامل.
+title: "TransparencySupporter.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TransparencySupporter. تحصل أو تعين شفافية الكائن. يجب أن تكون القيمة بين 0 و 1. القيمة 0 تعني أن الكائن مرئي بالكامل والقيمة 1 تعني أن الكائن غير شفاف تمامًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/transparencysupporter/opacity/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter.Opacity property
 
-الحصول على عتامة الكائن أو تعيينها. يجب أن تكون القيمة بين 0 و 1. تعني القيمة 0 أن الكائن مرئي بالكامل ، بينما تعني القيمة 1 أن الكائن معتم بالكامل.
+يحصل أو يضبط شفافية الكائن. يجب أن تكون القيمة بين 0 و 1. القيمة 0 تعني أن الكائن مرئي بالكامل، والقيمة 1 تعني أن الكائن غير شفاف تماماً.
 
 ```csharp
 public float Opacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة العتامة.
+قيمة الشفافية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransparencySupporter](../)
-* مساحة الاسم [Aspose.PSD](../../transparencysupporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

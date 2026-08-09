@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelBitsCount
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdOptions ملكية. الحصول على أو تعيين عدد البتات لكل قناة لون.
+title: "PsdOptions.ChannelBitsCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdOptions. تحصل أو تعين عدد البتات لكل قناة لون"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.psd.imageoptions/psdoptions/channelbitscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelBitsCount property
 
-الحصول على أو تعيين عدد البتات لكل قناة لون.
+يحصل أو يضبط عدد البتات لكل قناة لونية.
 
 ```csharp
 public short ChannelBitsCount { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 عدد البتات لكل قناة لون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../psdoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

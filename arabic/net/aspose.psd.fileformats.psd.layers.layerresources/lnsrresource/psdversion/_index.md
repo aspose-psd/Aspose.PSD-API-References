@@ -1,23 +1,24 @@
 ---
-title: LnsrResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: LnsrResource ملكية. يحصل على نسخة مديرية الأمن العام .
+title: "LnsrResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LnsrResource. يحصل على نسخة psd"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LnsrResource.PsdVersion property
 
-يحصل على نسخة مديرية الأمن العام .
+يحصل على إصدار psd.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LnsrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

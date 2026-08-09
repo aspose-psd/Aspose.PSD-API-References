@@ -1,21 +1,22 @@
 ---
-title: OpenTypeFontsCache.UpdateCache
-second_title: Aspose.PSD لمرجع .NET API
-description: OpenTypeFontsCache طريقة. 
+title: "OpenTypeFontsCache.UpdateCache"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "OpenTypeFontsCache method. طريقة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/opentypefontscache/updatecache/
 ---
+{{< psd/tize >}}
 ## OpenTypeFontsCache.UpdateCache method
 
 ```csharp
 public static void UpdateCache()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OpenTypeFontsCache](../)
-* مساحة الاسم [Aspose.PSD](../../opentypefontscache/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

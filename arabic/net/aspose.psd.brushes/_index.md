@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Brushes
-second_title: Aspose.PSD لمرجع .NET API
-description: توفر مساحة الاسم فئات وطرق مساعدة للعمل مع أنواع الفرشاة المختلفة.
+title: "Aspose.PSD.Brushes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "توفر مساحة الاسم فئات مساعدة وطرق للعمل مع أنواع الفرش المختلفة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.brushes/
 ---
-توفر مساحة الاسم فئات وطرق مساعدة للعمل مع أنواع الفرشاة المختلفة.
+{{< psd/tize >}}
+مساحة الاسم توفر فئات مساعدة وطرق للعمل مع أنواع الفرش المختلفة.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [HatchBrush](./hatchbrush/) | يحدد فرشاة مستطيلة بنمط فتحة ولون في المقدمة ولون للخلفية. لا يمكن توريث هذه الفئة. |
-| [LinearGradientBrush](./lineargradientbrush/) | يغلف أ[`Brush`](../aspose.psd/brush/) مع تدرج خطي. لا يمكن توريث هذه الفئة. |
-| [LinearGradientBrushBase](./lineargradientbrushbase/) | يمثل أ[`Brush`](../aspose.psd/brush/) مع إمكانيات التدرج والخصائص المناسبة. |
-| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | يمثل أ[`Brush`](../aspose.psd/brush/) مع التدرج الخطي المحدد بألوان متعددة والمواضع المناسبة. لا يمكن توريث هذه الفئة. |
-| [PathGradientBrush](./pathgradientbrush/) | يغلف أ[`Brush`](../aspose.psd/brush/) كائن مع التدرج. لا يمكن توريث هذه الفئة. |
-| [PathGradientBrushBase](./pathgradientbrushbase/) | يمثل أ[`Brush`](../aspose.psd/brush/) مع وظيفة تدرج المسار الأساسي. |
-| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | يغلف أ[`Brush`](../aspose.psd/brush/) كائن مع التدرج. لا يمكن توريث هذه الفئة. |
-| [SolidBrush](./solidbrush/) | الفرشاة المصمتة مخصصة للرسم المستمر بلون معين. لا يمكن توريث هذه الفئة. |
-| [TextureBrush](./texturebrush/) | كل خاصية من ممتلكات[`TextureBrush`](../aspose.psd.brushes/texturebrush/) الطبقة هي[`Brush`](../aspose.psd/brush/) كائن يستخدم صورة لملء الجزء الداخلي للشكل. لا يمكن توريث هذه الفئة. |
-| [TransformBrush](./transformbrush/) | أ[`Brush`](../aspose.psd/brush/) مع قدرات التحويل. |
+| [HatchBrush](./hatchbrush/) | يحدد فرشاة مستطيلة ذات نمط تظليل، ولون أمامي، ولون خلفية. لا يمكن وراثة هذه الفئة. |
+| [LinearGradientBrush](./lineargradientbrush/) | يغلف [`Brush`](../aspose.psd/brush/) بتدرج خطي. لا يمكن وراثة هذه الفئة. |
+| [LinearGradientBrushBase](./lineargradientbrushbase/) | يمثل [`Brush`](../aspose.psd/brush/) بقدرات التدرج والخصائص المناسبة. |
+| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | يمثل [`Brush`](../aspose.psd/brush/) بتدرج خطي محدد بألوان متعددة ومواقع مناسبة. لا يمكن وراثة هذه الفئة. |
+| [PathGradientBrush](./pathgradientbrush/) | يغلف كائن [`Brush`](../aspose.psd/brush/) بتدرج. لا يمكن وراثة هذه الفئة. |
+| [PathGradientBrushBase](./pathgradientbrushbase/) | يمثل [`Brush`](../aspose.psd/brush/) بوظيفة تدرج المسار الأساسي. |
+| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | يغلف كائن [`Brush`](../aspose.psd/brush/) بتدرج. لا يمكن وراثة هذه الفئة. |
+| [SolidBrush](./solidbrush/) | الفرشاة الصلبة مخصصة للرسم باستمرار بلون محدد. لا يمكن وراثة هذه الفئة. |
+| [TextureBrush](./texturebrush/) | كل خاصية في فئة [`TextureBrush`](../aspose.psd.brushes/texturebrush/) هي كائن [`Brush`](../aspose.psd/brush/) يستخدم صورة لملء داخل الشكل. لا يمكن وراثة هذه الفئة. |
+| [TransformBrush](./transformbrush/) | فرشاة [`Brush`](../aspose.psd/brush/) بقدرات التحويل. |
 
 

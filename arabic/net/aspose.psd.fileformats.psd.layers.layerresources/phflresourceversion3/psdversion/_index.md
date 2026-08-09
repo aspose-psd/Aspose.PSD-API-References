@@ -1,23 +1,24 @@
 ---
-title: PhflResourceVersion3.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResourceVersion3 ملكية. يحصل على نسخة مديرية الأمن العام .
+title: "PhflResourceVersion3.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhflResourceVersion3 خاصية. يسترجع نسخة psd"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/psdversion/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.PsdVersion property
 
-يحصل على نسخة مديرية الأمن العام .
+يحصل على إصدار psd.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResourceVersion3](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

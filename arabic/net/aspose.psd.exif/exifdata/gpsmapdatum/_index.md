@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSMapDatum
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين بيانات المسح الجيوديسي لنظام تحديد المواقع العالمي GPS التي يستخدمها مستقبل GPS.
+title: "ExifData.GPSMapDatum"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين بيانات المسح الجيوديسي GPS المستخدمة من قبل جهاز الاستقبال"
 type: docs
 weight: 560
 url: /ar/net/aspose.psd.exif/exifdata/gpsmapdatum/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMapDatum property
 
-الحصول على أو تعيين بيانات المسح الجيوديسي لنظام تحديد المواقع العالمي (GPS) التي يستخدمها مستقبل GPS.
+الحصول أو تعيين بيانات المسح الجيوديسي GPS المستخدمة بواسطة مستقبل GPS.
 
 ```csharp
 public string GPSMapDatum { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات المسح الجيوديسي لنظام تحديد المواقع العالمي (GPS) التي يستخدمها مستقبل GPS.
+بيانات المسح الجيوديسي GPS المستخدمة من قبل جهاز الاستقبال.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

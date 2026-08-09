@@ -1,20 +1,21 @@
 ---
-title: FXidResource.FilterEffectMasks
-second_title: Aspose.PSD لمرجع .NET API
-description: FXidResource ملكية. يحصل على أقنعة تأثير المرشح .
+title: "FXidResource.FilterEffectMasks"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FXidResource. تحصل على أقنعة تأثير الفلتر"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/
 ---
+{{< psd/tize >}}
 ## FXidResource.FilterEffectMasks property
 
-يحصل على أقنعة تأثير المرشح .
+يحصل على أقنعة تأثير الفلتر.
 
 ```csharp
 public FilterEffectMaskData[] FilterEffectMasks { get; }
 ```
 
-### أمثلة
+## أمثلة
 
 يوضح هذا المثال كيفية الحصول على خصائص مورد FXidResource وتعيينها.
 
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,11 +62,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

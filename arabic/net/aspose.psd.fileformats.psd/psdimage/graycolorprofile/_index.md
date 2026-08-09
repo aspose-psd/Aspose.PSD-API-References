@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GrayColorProfile
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على ملف تعريف اللون الرمادي أحادي اللون أو تعيينه لصور PSD ذات التدرج الرمادي.
+title: "PsdImage.GrayColorProfile"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل أو تعين ملف تعريف اللون الأحادي GRAY للصور PSD ذات التدرج الرمادي"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/graycolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.GrayColorProfile property
 
-الحصول على ملف تعريف اللون الرمادي (أحادي اللون) أو تعيينه لصور PSD ذات التدرج الرمادي.
+يحصل أو يعيّن ملف تعريف اللون GRAY (أحادي اللون) لصور PSD بتدرج الرمادي.
 
 ```csharp
 public StreamSource GrayColorProfile { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف تعريف اللون الرمادي (أحادي اللون).
+ملف تعريف اللون GRAY (أحادي).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

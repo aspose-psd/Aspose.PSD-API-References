@@ -1,33 +1,34 @@
 ---
-title: PointExtensions.ToPointsArray
-second_title: Aspose.PSD لمرجع .NET API
-description: PointExtensions طريقة. يحول ملفPoint مجموعة لPointF مجموعة .
+title: "PointExtensions.ToPointsArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PointExtensions. يحول مصفوفة الـ Point إلى مصفوفة الـ PointF"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToPointsArray method
 
-يحول ملف[`Point`](../../../aspose.psd/point/) مجموعة ل[`PointF`](../../../aspose.psd/pointf/) مجموعة .
+يقوم بتحويل مصفوفة [`Point`](../../../aspose.psd/point/) إلى مصفوفة [`PointF`](../../../aspose.psd/pointf/).
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | Point[] | ال[`Point`](../../../aspose.psd/point/) مجموعة للتحويل. |
+| points | Point[] | مصفوفة [`Point`](../../../aspose.psd/point/) للتحويل. |
 
 ### قيمة الإرجاع
 
-المحولة[`PointF`](../../../aspose.psd/pointf/) مجموعة مصفوفة.
+مصفوفة [`PointF`](../../../aspose.psd/pointf/) المحوَّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Point](../../../aspose.psd/point/)
 * class [PointExtensions](../)
-* مساحة الاسم [Aspose.PSD.Extensions](../../pointextensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

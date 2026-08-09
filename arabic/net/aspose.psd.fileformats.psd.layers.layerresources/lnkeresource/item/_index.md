@@ -1,36 +1,37 @@
 ---
-title: LnkeResource.Item
-second_title: Aspose.PSD لمرجع .NET API
-description: LnkeResource ملكية. يحصل على ملفLiFeDataSource في الفهرس المحدد.
+title: "LnkeResource.Item"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LnkeResource. تحصل على LiFeDataSource في الفهرس المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/
 ---
+{{< psd/tize >}}
 ## LnkeResource indexer
 
-يحصل على ملف[`LiFeDataSource`](../../lifedatasource/) في الفهرس المحدد.
+يحصل على [`LiFeDataSource`](../../lifedatasource/) في الفهرس المحدد.
 
 ```csharp
 public LiFeDataSource this[int index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | مؤشر. |
+| فهرس | الفهرس. |
 
 ### قيمة الإرجاع
 
-ملف[`LiFeDataSource`](../../lifedatasource/) المثال.
+مثيل [`LiFeDataSource`](../../lifedatasource/).
 
-### Property_Value
+### Property Value
 
-ملف[`LiFeDataSource`](../../lifedatasource/) .
+الـ [`LiFeDataSource`](../../lifedatasource/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LiFeDataSource](../../lifedatasource/)
 * class [LnkeResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

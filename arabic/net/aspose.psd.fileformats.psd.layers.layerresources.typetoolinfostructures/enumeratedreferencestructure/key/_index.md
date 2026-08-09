@@ -1,23 +1,24 @@
 ---
-title: EnumeratedReferenceStructure.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: EnumeratedReferenceStructure ملكية. يحصل على المفتاح .
+title: "EnumeratedReferenceStructure.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية EnumeratedReferenceStructure. تحصل على المفتاح"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/key/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.Key property
 
-يحصل على المفتاح .
+يحصل على المفتاح.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EnumeratedReferenceStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

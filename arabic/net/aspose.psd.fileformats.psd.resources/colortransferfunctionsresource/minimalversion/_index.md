@@ -1,27 +1,28 @@
 ---
-title: ColorTransferFunctionsResource.MinimalVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorTransferFunctionsResource ملكية. يحصل على الحد الأدنى من إصدار PSD المطلوب.
+title: "ColorTransferFunctionsResource.MinimalVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorTransferFunctionsResource. يحصل على الحد الأدنى المطلوب لإصدار PSD"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.MinimalVersion property
 
-يحصل على الحد الأدنى من إصدار PSD المطلوب.
+يحصل على الحد الأدنى لإصدار PSD المطلوب.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأدنى من إصدار PSD .
+إصدار PSD الأدنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorTransferFunctionsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

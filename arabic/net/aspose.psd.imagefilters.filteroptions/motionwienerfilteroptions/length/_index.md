@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: MotionWienerFilterOptions ملكية. الحصول على الطول أو تحديده .
+title: "MotionWienerFilterOptions.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MotionWienerFilterOptions. تحصل أو تعين الطول"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/length/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Length property
 
-الحصول على الطول أو تحديده .
+يحصل أو يضبط الطول.
 
 ```csharp
 public int Length { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الطول .
+الطول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MotionWienerFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

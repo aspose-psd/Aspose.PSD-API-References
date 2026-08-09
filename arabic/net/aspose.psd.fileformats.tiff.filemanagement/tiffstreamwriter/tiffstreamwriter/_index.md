@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.TiffStreamWriter
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter البناء. يقوم بتهيئة مثيل جديد لملفTiffStreamWriter فئة .
+title: "TiffStreamWriter.TiffStreamWriter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TiffStreamWriter. يهيئ نسخة جديدة من فئة TiffStreamWriter"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/tiffstreamwriter/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter constructor
 
-يقوم بتهيئة مثيل جديد لملف[`TiffStreamWriter`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`TiffStreamWriter`](../).
 
 ```csharp
 public TiffStreamWriter(StreamContainer writer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| writer | StreamContainer | كاتب التيار. |
+| كاتب | StreamContainer | كاتب الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

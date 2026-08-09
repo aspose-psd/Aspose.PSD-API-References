@@ -1,27 +1,28 @@
 ---
-title: Font.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. يحصل على حجم em لهذاFont تقاس بالوحدات المحددة بواسطةUnit الملكية .
+title: "Font.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. تحصل على حجم الـ em لهذا Font مقاسًا بالوحدات المحددة بواسطة خاصية Unit"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/font/size/
 ---
+{{< psd/tize >}}
 ## Font.Size property
 
-يحصل على حجم em لهذا[`Font`](../) تقاس بالوحدات المحددة بواسطة[`Unit`](../unit/) الملكية .
+تحصل على حجم الـ em لهذا [`Font`](../) مقاسًا بالوحدات المحددة بواسطة خاصية [`Unit`](../unit/).
 
 ```csharp
 public float Size { get; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم م من هذا[`Font`](../).
+حجم الـ em لهذا [`Font`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

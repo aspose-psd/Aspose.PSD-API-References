@@ -1,11 +1,12 @@
 ---
-title: Interface IPatternFillSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings واجهه المستخدم. واجهة إعدادات تعبئة النمط
+title: "الواجهة IPatternFillSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings. واجهة لإعدادات تعبئة النمط"
 type: docs
-weight: 2030
+weight: 2150
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings interface
 
 واجهة إعدادات تعبئة النمط
@@ -16,22 +17,23 @@ public interface IPatternFillSettings : IFillSettings
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | الحصول على أو تعيين الإزاحة الأفقية. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`IPatternFillSettings`مرتبط . |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | الحصول على بيانات النمط أو تعيينها . |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | الحصول على ارتفاع النمط أو تحديده . |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | الحصول على أو تحديد معرف النمط. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | الحصول على أو تحديد اسم النمط. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | الحصول على عرض النمط أو تحديده . |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | الحصول على نوع النقطة أو تحديده . |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | الحصول على المقياس أو تعيينه. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | الحصول على أو تعيين الإزاحة الرأسية . |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/angle/) { get; set; } | يحصل أو يعيّن الزاوية. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | يحصل أو يعيّن الإزاحة الأفقية. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا `IPatternFillSettings` مرتبطًا. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | يحصل على بيانات النمط. |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | يحصل أو يعيّن ارتفاع النمط. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | يحصل أو يعيّن معرف النمط. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | يحصل أو يعيّن اسم النمط. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | يحصل أو يعيّن عرض النمط. |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | يحصل أو يعيّن نوع النقطة. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | يحصل أو يضبط المقياس. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | يحصل أو يعيّن الإزاحة العمودية. |
 
-### أمثلة
+## أمثلة
 
-يحفظ الكود التالي الصور بنمط Fill Layer ويوضح كيف يعرض Aspose.PSD النمط.
+الكود التالي يحفظ الصور مع طبقة تعبئة النمط ويظهر كيف يقوم Aspose.PSD بتصيير النمط.
 
 ```csharp
 [C#]
@@ -40,7 +42,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -81,10 +83,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IFillSettings](../ifillsettings/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

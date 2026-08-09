@@ -1,23 +1,24 @@
 ---
-title: TimeLine.TimeLine
-second_title: Aspose.PSD لمرجع .NET API
-description: TimeLine البناء. Default_Constructor
+title: "Timeline.Timeline"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Timeline. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/timeline/timeline/
 ---
-## TimeLine constructor
+{{< psd/tize >}}
+## Timeline constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
-public TimeLine()
+public Timeline()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TimeLine](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* المجسم [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

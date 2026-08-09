@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeResourceEvent
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. XMP ResourceEvent URI.
+title: "Namespaces.XmpTypeResourceEvent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. URI حدث مورد XMP"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.xmp/namespaces/xmptyperesourceevent/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeResourceEvent field
 
-XMP ResourceEvent URI.
+URI XMP ResourceEvent.
 
 ```csharp
 public const string XmpTypeResourceEvent;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

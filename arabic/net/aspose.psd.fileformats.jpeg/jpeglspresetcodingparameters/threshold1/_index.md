@@ -1,23 +1,24 @@
 ---
-title: JpegLsPresetCodingParameters.Threshold1
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegLsPresetCodingParameters ملكية. الحصول على أو تحديد قيمة عتبة التكميم الأولى للتدرجات المحلية.
+title: "JpegLsPresetCodingParameters.Threshold1"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegLsPresetCodingParameters. يحصل أو يضبط قيمة عتبة الكمّية الأولى للتدرجات المحلية"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.Threshold1 property
 
-الحصول على أو تحديد قيمة عتبة التكميم الأولى للتدرجات المحلية.
+يحصل أو يضبط قيمة عتبة التكميم الأولى للتدرجات المحلية.
 
 ```csharp
 public int Threshold1 { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegLsPresetCodingParameters](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

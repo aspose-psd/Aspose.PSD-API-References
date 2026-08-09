@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كانت بيانات EXIF الدفق التي تم إنشاؤها منها كبيرة.
+title: "ExifData.IsBigEndian"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط قيمة تشير إلى ما إذا كان تدفق بيانات EXIF المُنشأ من big endian"
 type: docs
 weight: 690
 url: /ar/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت بيانات EXIF الدفق التي تم إنشاؤها منها كبيرة.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت بيانات EXIF المتدفقة التي تم إنشاؤها من هي big endian.
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت بيانات EXIF التي تم إنشاؤها من مصدر كبير ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان تدفق بيانات EXIF المُنشأ من big endian؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

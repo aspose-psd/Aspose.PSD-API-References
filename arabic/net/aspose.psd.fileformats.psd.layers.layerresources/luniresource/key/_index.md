@@ -1,11 +1,12 @@
 ---
-title: LuniResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: LuniResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "LuniResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LuniResource. يحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/key/
 ---
+{{< psd/tize >}}
 ## LuniResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LuniResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

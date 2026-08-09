@@ -1,27 +1,28 @@
 ---
-title: XmpReal.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpReal ملكية. الحصول على القيمة أو تعيينها.
+title: "XmpReal.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpReal. يحصل أو يضبط قيمة float"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.basic/xmpreal/value/
 ---
+{{< psd/tize >}}
 ## XmpReal.Value property
 
-الحصول على القيمة أو تعيينها.
+يحصل أو يعيّن قيمة الفاصلة العائمة.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة العائمة .
+القيمة العائمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpReal](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

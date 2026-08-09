@@ -1,20 +1,21 @@
 ---
-title: PixelDataFormat.GetRgb
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. الحصول على لون RGB بعدد محدد من وحدات البت لكل عينة.
+title: "PixelDataFormat.GetRgb"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PixelDataFormat. تسترجع لون RGB مع عدد محدد من البتات لكل عينة."
 type: docs
 weight: 250
 url: /ar/net/aspose.psd/pixeldataformat/getrgb/
 ---
+{{< psd/tize >}}
 ## GetRgb(int) {#getrgb}
 
-الحصول على لون RGB بعدد محدد من وحدات البت لكل عينة.
+يحصل على لون RGB بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerSample)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bitsPerSample | Int32 | عدد البتات لكل عينة. |
 
@@ -22,37 +23,37 @@ public static PixelDataFormat GetRgb(int bitsPerSample)
 
 لون RGB.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetRgb(int, int, int) {#getrgb_1}
 
-الحصول على لون RGB بعدد محدد من وحدات البت لكل عينة.
+يحصل على لون RGB بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerRedChannel, int bitsPerGreenChannel, 
     int bitsPerBlueChannel)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bitsPerRedChannel | Int32 | عدد البتات لكل قناة حمراء. |
-| bitsPerGreenChannel | Int32 | عدد البتات لكل قناة خضراء. |
+| bitsPerRedChannel | Int32 | عدد البتات لكل قناة الأحمر. |
+| bitsPerGreenChannel | Int32 | عدد البتات لكل قناة الأخضر. |
 | bitsPerBlueChannel | Int32 | عدد البتات لكل قناة زرقاء. |
 
 ### قيمة الإرجاع
 
 لون RGB.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

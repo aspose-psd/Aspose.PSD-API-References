@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Offset
-second_title: Aspose.PSD لمرجع .NET API
-description: ExpaResource ملكية. الحصول على الإزاحة أو تعيينها .
+title: "ExpaResource.Offset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExpaResource. يحصل أو يضبط الإزاحة"
 type: docs
-weight: 60
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
-الحصول على الإزاحة أو تعيينها .
+يحصل أو يضبط الإزاحة.
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإزاحة .
+الإزاحة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExpaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Size.op_Addition
-second_title: Aspose.PSD لمرجع .NET API
-description: Size طريقة. إضافة عرض وارتفاع واحدSize هيكل لعرض وارتفاع آخرSizeهيكل .
+title: "Size.op_Addition"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Size. تضيف العرض والارتفاع لهكيل Size واحد إلى العرض والارتفاع لهكيل Size آخر"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/size/op_addition/
 ---
+{{< psd/tize >}}
 ## Size Addition operator
 
-إضافة عرض وارتفاع واحد[`Size`](../) هيكل لعرض وارتفاع آخر[`Size`](../)هيكل .
+تضيف العرض والارتفاع لهكيل [`Size`](../) واحد إلى العرض والارتفاع لهكيل [`Size`](../) آخر.
 
 ```csharp
 public static Size operator +(Size size1, Size size2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size1 | Size | الأول[`Size`](../) لتضيف. |
-| size2 | Size | الثاني[`Size`](../) لتضيف. |
+| size1 | Size | الأول [`Size`](../) للإضافة. |
+| size2 | Size | الثاني [`Size`](../) للإضافة. |
 
 ### قيمة الإرجاع
 
-أ[`Size`](../) الهيكل الناتج عن عملية الإضافة.
+هيكل [`Size`](../) هو نتيجة عملية الجمع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../)
-* مساحة الاسم [Aspose.PSD](../../size/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

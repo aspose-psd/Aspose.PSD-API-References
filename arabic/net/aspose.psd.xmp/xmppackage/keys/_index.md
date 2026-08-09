@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.Keys
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage ملكية. الحصول على المفاتيح في حزمة XMP .
+title: "XmpPackage.Keys"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPackage. يحصل على المفاتيح في حزمة XMP"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp/xmppackage/keys/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Keys property
 
-الحصول على المفاتيح في حزمة XMP .
+يحصل على المفاتيح في حزمة XMP.
 
 ```csharp
 public virtual KeyCollection<string, object> Keys { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المفاتيح في حزمة XMP .
+المفاتيح في حزمة XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

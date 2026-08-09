@@ -1,44 +1,45 @@
 ---
-title: GaussWienerFilterOptions.GaussWienerFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: GaussWienerFilterOptions البناء. يقوم بتهيئة مثيل جديد لملفGaussWienerFilterOptions فئة .
+title: "GaussWienerFilterOptions.GaussWienerFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GaussWienerFilterOptions. يهيئ مثلاً جديدًا من فئة GaussWienerFilterOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/gausswienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions(int, double) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`GaussWienerFilterOptions`](../) فئة .
+يهيئ مثلاً جديدًا من فئة [`GaussWienerFilterOptions`](../).
 
 ```csharp
 public GaussWienerFilterOptions(int radius, double smooth)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| radius | Int32 | نصف القطر. |
-| smooth | Double | النعومة. |
+| نصف القطر | Int32 | نصف القطر. |
+| التنعيم | Double | التنعيم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GaussWienerFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GaussWienerFilterOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`GaussWienerFilterOptions`](../) class. بالإعدادات الافتراضية .
+يهيئ مثلاً جديدًا من فئة [`GaussWienerFilterOptions`](../). بإعدادات افتراضية.
 
 ```csharp
 public GaussWienerFilterOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GaussWienerFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

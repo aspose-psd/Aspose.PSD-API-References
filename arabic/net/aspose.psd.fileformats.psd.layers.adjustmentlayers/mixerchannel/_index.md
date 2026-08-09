@@ -1,14 +1,15 @@
 ---
-title: Class MixerChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel فصل. MixerChannel. إنه غلاف لقناة البيانات الخام. تستخدم في MixrResource
+title: "الفئة MixerChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel. MixerChannel. غلافه للبيانات الأولية للقناة. يُستخدم في MixrResource"
 type: docs
-weight: 1780
+weight: 1850
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
+{{< psd/tize >}}
 ## MixerChannel class
 
-MixerChannel. إنه غلاف لقناة البيانات الخام. تستخدم في MixrResource
+MixerChannel. إنها غلاف لبيانات القناة الخام. تُستخدم في MixrResource
 
 ```csharp
 public abstract class MixerChannel
@@ -16,19 +17,19 @@ public abstract class MixerChannel
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | الحصول على أو تعيين ثابت القناة. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | يحصل أو يضبط الثابت الخاص بالقناة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | يحصل على البيانات الأولية . |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | يحصل على البيانات الخام. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

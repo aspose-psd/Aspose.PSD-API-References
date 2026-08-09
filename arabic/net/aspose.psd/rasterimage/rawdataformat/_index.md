@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage ملكية. يحصل على تنسيق البيانات الأولية .
+title: "RasterImage.RawDataFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RasterImage. تحصل على تنسيق البيانات الخام"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
-يحصل على تنسيق البيانات الأولية .
+يحصل على تنسيق البيانات الخام.
 
 ```csharp
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيق البيانات الأولية .
+تنسيق البيانات الخام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: Class ObjectArrayStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure فصل. يحدد فئة ObjectArrayStructure التي عادةً ما تحتوي علىUnitArrayStructure array. يتم استخدامه في موارد ملف PSD  مثل PlLd Resource و SoLd Resource.
+title: "الفئة ObjectArrayStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure class. يعرّف فئة ObjectArrayStructure التي عادةً ما تحتوي على مصفوفة UnitArrayStructure. تُستخدم في موارد ملف PSD مثل مورد PlLd ومورد SoLd"
 type: docs
-weight: 3200
+weight: 3590
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure class
 
-يحدد فئة ObjectArrayStructure التي عادةً ما تحتوي على[`UnitArrayStructure`](../unitarraystructure/) array. يتم استخدامه في موارد ملف PSD ، مثل PlLd Resource و SoLd Resource.
+يعرّف فئة ObjectArrayStructure التي عادةً ما تحتوي على مصفوفة [`UnitArrayStructure`](../unitarraystructure/) . تُستخدم في موارد ملف PSD، مثل مورد PlLd ومورد SoLd.
 
 ```csharp
 public sealed class ObjectArrayStructure : OSTypeStructure
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | يقوم بتهيئة مثيل جديد لملف`ObjectArrayStructure` فئة . |
-| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | يقوم بتهيئة مثيل جديد لملف`ObjectArrayStructure` فئة . |
+| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | يُنشئ مثيلاً جديدًا من الفئة `ObjectArrayStructure`. |
+| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | يُنشئ مثيلاً جديدًا من الفئة `ObjectArrayStructure`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | الحصول على أو تحديد معرف فئة مصفوفة الكائن. |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | الحصول على أو تحديد اسم فئة مصفوفة الكائن. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | يحصل أو يعيّن معرف فئة مصفوفة الكائن. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | يحصل أو يعيّن اسم فئة مصفوفة الكائن. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/) { get; } | يحصل على مفتاح بنية مصفوفة الكائن. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | الحصول على أو تحديد اسم المفتاح . |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | يحصل على ملف[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) الطول بالبايت. |
-| [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/) { get; } | الحصول على عدد البنية الفرعية لصفيف الكائن. |
-| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/) { get; set; } | الحصول على نسخة من مصفوفة الهياكل أو تعيينها. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | يحصل أو يضبط اسم المفتاح. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | يحصل على طول [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) بالبايت. |
+| [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/) { get; } | يحصل على عدد البنى الفرعية لمصفوفة الكائن. |
+| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/) { get; set; } | يحصل أو يعيّن نسخة من مصفوفة البُنى. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | الحصول على طول الرأس . |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | يحفظ الهيكل في حاوية التدفق المحددة. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | يحفظ الهيكل في حاوية التدفق المحددة. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | يحصل على طول الرأس. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | يحفظ البنية إلى حاوية الدفق المحددة. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | يحفظ البنية إلى حاوية الدفق المحددة. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/) | يحدد مفتاح بنية "ObAr" . |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/) | يحدد مفتاح بنية 'ObAr'. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تواقيع ObAr و UnFl.
+الكود التالي يوضح دعم توقيعات ObAr و UnFl.
 
 ```csharp
 [C#]
@@ -101,10 +102,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

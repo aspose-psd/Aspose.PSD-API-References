@@ -1,40 +1,41 @@
 ---
-title: Class TiffExifIfd
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Tiff.TiffExifIfd فصل. فئة دليل ملف صور TIFF Exif .
+title: "الفئة TiffExifIfd"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Tiff.TiffExifIfd. فئة دليل ملف صورة TIFF Exif"
 type: docs
-weight: 4220
+weight: 4690
 url: /ar/net/aspose.psd.fileformats.tiff/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd class
 
-فئة دليل ملف صور TIFF Exif .
+فئة دليل ملف صورة TIFF Exif.
 
 ```csharp
 public class TiffExifIfd
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TiffExifIfd](tiffexififd/#constructor)() | يقوم بتهيئة مثيل جديد لملف`TiffExifIfd` فئة . |
-| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | يقوم بتهيئة مثيل جديد لملف`TiffExifIfd` فئة . |
+| [TiffExifIfd](tiffexififd/#constructor)() | يُنشئ مثيلاً جديدًا من الفئة `TiffExifIfd`. |
+| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | يُنشئ مثيلاً جديدًا من الفئة `TiffExifIfd`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل له قيمة. |
-| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | الحصول على المؤشر أو تعيينه إلى EXIF IFD . |
+| [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان لهذا المثيل قيمة. |
+| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | يحصل أو يضبط المؤشر إلى EXIF IFD. |
 
-### ملاحظات
+## ملاحظات
 
-يحتوي على مؤشر لـ Exif IFD. قابلية التشغيل البيني ، يحتوي Exif IFD على نفس بنية IFD المحدد في TIFF. ومع ذلك ، لا تحتوي عادةً على بيانات الصورة كما في حالة TIFF. راجع http://www.exiv2.org/tags.html و http://www.awaresystems.be/imaging/tiff/tifftags/exififd html لمزيد من التفاصيل.
+يحتوي على مؤشر إلى Exif IFD. التوافقية، يحتوي Exif IFD على نفس بنية IFD المحددة في TIFF. عادةً، لا يحتوي على بيانات صورة كما في حالة TIFF. راجع http://www.exiv2.org/tags.html و http://www.awaresystems.be/imaging/tiff/tifftags/exififd.html لمزيد من التفاصيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

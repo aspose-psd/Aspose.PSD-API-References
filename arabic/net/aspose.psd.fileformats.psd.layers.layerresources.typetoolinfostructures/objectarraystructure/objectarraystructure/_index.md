@@ -1,28 +1,29 @@
 ---
-title: ObjectArrayStructure.ObjectArrayStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: ObjectArrayStructure البناء. يقوم بتهيئة مثيل جديد لملفObjectArrayStructure فئة .
+title: "ObjectArrayStructure.ObjectArrayStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ObjectArrayStructure. يهيئ مثلاً جديدًا من الفئة ObjectArrayStructure"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ObjectArrayStructure`](../) فئة .
+يهيئ مثلاً جديدًا من الفئة [`ObjectArrayStructure`](../).
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | keyName | String | اسم المفتاح. |
 | classIdName | String | اسم معرف الفئة. |
-| structures | OSTypeStructure[] | الهياكل. |
+| بنى | OSTypeStructure[] | الهياكل. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تواقيع ObAr و UnFl.
+الكود التالي يوضح دعم توقيعات ObAr و UnFl.
 
 ```csharp
 [C#]
@@ -74,41 +75,41 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ObjectArrayStructure`](../) فئة .
+يهيئ مثلاً جديدًا من الفئة [`ObjectArrayStructure`](../).
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
     OSTypeStructure[] structures)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | Int32 | مفتاح العدد الصحيح. |
+| المفتاح | Int32 | المفتاح عدد صحيح. |
 | keyName | ClassID | اسم المفتاح. |
 | classID | ClassID | معرف الفئة. |
-| className | String | اسم الفصل. |
-| structures | OSTypeStructure[] | الهياكل. |
+| className | String | اسم الفئة. |
+| بنى | OSTypeStructure[] | الهياكل. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | classID خالية |
+| ArgumentNullException | classID فارغ |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تواقيع ObAr و UnFl.
+الكود التالي يوضح دعم توقيعات ObAr و UnFl.
 
 ```csharp
 [C#]
@@ -160,12 +161,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

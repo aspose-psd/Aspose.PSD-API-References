@@ -1,14 +1,15 @@
 ---
-title: Class SmartFilters
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters فصل. المرشحات الذكية لـSmartObjectLayer .
+title: "الفئة SmartFilters"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters. الفلاتر الذكية لـ SmartObjectLayer"
 type: docs
-weight: 3470
+weight: 3890
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartFilters class
 
-المرشحات الذكية لـ[`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) .
+الفلاتر الذكية لـ [`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/).
 
 ```csharp
 public class SmartFilters
@@ -16,24 +17,24 @@ public class SmartFilters
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/) { get; set; } | الحصول على عوامل التصفية الذكية أو تعيينها. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | الحصول على حالة تمكين قناع المرشح الذكي. |
-| [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/) { get; } | يحصل على حالة تمكين القناع للمرشح الذكي. |
-| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | الحصول على القناع الموسع بالحالة البيضاء للمرشح الذكي. |
-| [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/) { get; } | يحصل على حالة ارتباط القناع للمرشح الذكي. |
-| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | الحصول على صالح في حالة موضع المرشح الذكي. |
+| [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/) { get; set; } | يحصل أو يضبط الفلاتر الذكية. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | يحصل على حالة التمكين لقناع الفلتر الذكي. |
+| [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/) { get; } | يحصل على حالة تمكين القناع للفلتر الذكي. |
+| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | يحصل على حالة توسيع القناع باللون الأبيض للفلتر الذكي. |
+| [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/) { get; } | يحصل على حالة ربط القناع للفلتر الذكي. |
+| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | يحصل على حالة الصلاحية في الموضع للفلتر الذكي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | يقوم بتحديث بيانات التصفية الذكية إلى ملف[`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) . |
+| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | يقوم بتحديث بيانات الفلتر الذكي إلى [`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

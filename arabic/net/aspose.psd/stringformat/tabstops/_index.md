@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. الحصول على صفيف من المسافات بين علامات الجدولة في الوحدات المحددة بواسطةPageUnit الملكية .
+title: "StringFormat.TabStops"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تُرجع مصفوفة من المسافات بين نقاط التبويب بالوحدات المحددة بواسطة خاصية PageUnit."
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-الحصول على صفيف من المسافات بين علامات الجدولة في الوحدات المحددة بواسطة[`PageUnit`](../../graphics/pageunit/) الملكية .
+تُرجع مصفوفة من المسافات بين نقاط التبويب بالوحدات المحددة بواسطة خاصية [`PageUnit`](../../graphics/pageunit/).
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### Property_Value
+### Property Value
 
-توقف علامة التبويب.
+نقاط التبويب.
 
-### ملاحظات
+## ملاحظات
 
-يتم تقديم الخاصية لطريقة GetTabStops التي تمت إزالتها.
+تم تقديم الخاصية للطريقة المحذوفة GetTabStops.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

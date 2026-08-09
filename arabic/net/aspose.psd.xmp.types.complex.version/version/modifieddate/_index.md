@@ -1,27 +1,28 @@
 ---
-title: Version.ModifiedDate
-second_title: Aspose.PSD لمرجع .NET API
-description: Version ملكية. الحصول على التاريخ المعدل أو تعيينه.
+title: "Version.ModifiedDate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Version. يحصل أو يعيّن تاريخ التعديل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.complex.version/version/modifieddate/
 ---
+{{< psd/tize >}}
 ## Version.ModifiedDate property
 
-الحصول على التاريخ المعدل أو تعيينه.
+يحصل أو يعيّن تاريخ التعديل.
 
 ```csharp
 public DateTime ModifiedDate { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التاريخ المعدل .
+تاريخ التعديل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Version](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

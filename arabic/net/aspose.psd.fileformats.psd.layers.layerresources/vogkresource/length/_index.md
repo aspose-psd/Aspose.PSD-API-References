@@ -1,20 +1,21 @@
 ---
-title: VogkResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: VogkResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "VogkResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VogkResource. تحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 30
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length/
 ---
+{{< psd/tize >}}
 ## VogkResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أمثلة
+## أمثلة
 
 يوضح المثال التالي دعم مورد VogkResource.
 
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // التحرير
+    // تحرير
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VogkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

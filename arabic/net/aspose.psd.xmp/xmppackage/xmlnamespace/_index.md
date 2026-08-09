@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.XmlNamespace
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage ملكية. الحصول على مساحة اسم XML .
+title: "XmpPackage.XmlNamespace"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPackage. تحصل على مساحة الاسم XML"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 ---
+{{< psd/tize >}}
 ## XmpPackage.XmlNamespace property
 
-الحصول على مساحة اسم XML .
+يحصل على مساحة اسم XML.
 
 ```csharp
 public string XmlNamespace { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مساحة اسم XML .
+مساحة الاسم XML.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

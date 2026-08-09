@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "LayerResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerResource. يحصل على طول مورد الطبقة بالبايت"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerresource/length/
 ---
+{{< psd/tize >}}
 ## LayerResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public abstract int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

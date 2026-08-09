@@ -1,30 +1,31 @@
 ---
-title: ITextStyle.IsEqual
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle طريقة. لتحديد ما إذا كان النمط المحدد متساويًا.
+title: "ITextStyle.IsEqual"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ITextStyle. تحدد ما إذا كان النمط المحدد متساوٍ"
 type: docs
 weight: 290
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsEqual method
 
-لتحديد ما إذا كان النمط المحدد متساويًا.
+يحدد ما إذا كان النمط المحدد متساوٍ.
 
 ```csharp
 public bool IsEqual(ITextStyle style)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | style | ITextStyle | النمط. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان النمط المحدد متساويًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان النمط المحدد متساوٍ؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح مثال الكود التالي تحرير أجزاء النص ونمط نصها.
+يوضح المثال البرمجي التالي تحرير أجزاء النص وأساليبها.
 
 ```csharp
 [C#]
@@ -47,7 +48,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // فحص النص من كل جزء
+            // التحقق من نص كل جزء
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -57,7 +58,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات الفقرات
-            // الفقرات لها مبررات مختلفة
+            // الفقرات لها محاذاة مختلفة
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -91,7 +92,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -107,7 +108,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات النمط
-            // الأنماط لها ألوان مختلفة وحجم الخط
+            // الأنماط لها ألوان مختلفة وحجم خط مختلف
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -147,7 +148,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // مثال على إضافة جزء نصي جديد
+            // مثال على إضافة جزء نص جديد
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -155,17 +156,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // مثال على تحرير الفقرة والنمط للأجزاء
-            // ضبط التبرير الصحيح
+            // ضبط المحاذاة إلى اليمين
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // ألوان مختلفة لكل نمط. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // ألوان مختلفة لكل نمط. سيتم تغييرها، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // خط مختلف. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // خط مختلف. سيتم تغييره، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -180,10 +181,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

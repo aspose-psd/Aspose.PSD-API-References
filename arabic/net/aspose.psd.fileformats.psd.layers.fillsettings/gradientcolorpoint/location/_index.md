@@ -1,27 +1,28 @@
 ---
-title: GradientColorPoint.Location
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientColorPoint ملكية. الحصول على أو تحديد موقع النقطة على التدرج .
+title: "GradientColorPoint.Location"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GradientColorPoint. تحصل أو تضبط موقع النقطة على التدرج"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint.Location property
 
-الحصول على أو تحديد موقع النقطة على التدرج .
+يحصل أو يضبط موقع النقطة على التدرج.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 الموقع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientColorPoint](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

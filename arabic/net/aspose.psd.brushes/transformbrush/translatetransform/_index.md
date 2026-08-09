@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.TranslateTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: TransformBrush طريقة. يترجم التحويل الهندسي المحلي بالأبعاد المحددة. هذه الطريقة تسبق الترجمة إلى التحويل.
+title: "TransformBrush.TranslateTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TransformBrush. تنقل التحويل الهندسي المحلي بالأبعاد المحددة. هذه الطريقة تسبق الترجمة إلى التحويل."
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.brushes/transformbrush/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-يترجم التحويل الهندسي المحلي بالأبعاد المحددة. هذه الطريقة تسبق الترجمة إلى التحويل.
+ينقل التحويل الهندسي المحلي بالأبعاد المحددة. هذه الطريقة تلحق الترجمة إلى التحويل.
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dx | Single | قيمة الترجمة في x. |
-| dy | Single | قيمة الترجمة في y. |
+| dx | Single | قيمة الترجمة في الاتجاه x. |
+| dy | Single | قيمة الإزاحة في y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransformBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../transformbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-يترجم التحويل الهندسي المحلي بالأبعاد المحددة بالترتيب المحدد.
+ينقل التحويل الهندسي المحلي بالأبعاد المحددة بالترتيب المحدد.
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dx | Single | قيمة الترجمة في x. |
-| dy | Single | قيمة الترجمة في y. |
-| order | MatrixOrder | الترتيب (المسبق أو الملحق) الذي سيتم تطبيق الترجمة به. |
+| dx | Single | قيمة الترجمة في الاتجاه x. |
+| dy | Single | قيمة الإزاحة في y. |
+| الترتيب | MatrixOrder | الترتيب (إضافة مسبقة أو لاحقة) الذي يتم به تطبيق الإزاحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../transformbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

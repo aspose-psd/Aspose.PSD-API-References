@@ -1,119 +1,120 @@
 ---
-title: StreamSource.StreamSource
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamSource البناء. يقوم بتهيئة مثيل جديد لملفStreamSource فئة .
+title: "StreamSource.StreamSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ StreamSource. يهيئ مثيلًا جديدًا من الفئة StreamSource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.sources/streamsource/streamsource/
 ---
+{{< psd/tize >}}
 ## StreamSource(Stream) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`StreamSource`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`StreamSource`](../) .
 
 ```csharp
 public StreamSource(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق لفتح. |
+| stream | Stream | الدفق للفتح. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال كيفية تحميل معلومات البكسل في مصفوفة من نوع اللون ، ومعالجة المصفوفة وإعادة تعيينها إلى الصورة. لإجراء هذه العمليات ، يقوم هذا المثال بإنشاء ملف صورة جديد (بتنسيق PSD) باستخدام كائن MemoryStream.
+هذا المثال يوضح كيفية تحميل معلومات البكسل في مصفوفة من نوع Color، تعديل المصفوفة وإعادتها إلى الصورة. لتنفيذ هذه العمليات، ينشئ هذا المثال ملف Image جديد (بتنسيق PSD) باستخدام كائن MemoryStream.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل لـ MemoryStream
+//إنشاء مثال من MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    // أنشئ مثيلاً من PsdOptions وعيّن خصائصه المتنوعة بما في ذلك خاصية المصدر
+    //إنشاء مثال من PsdOptions وتعيين خصائصه المتنوعة بما في ذلك خاصية Source
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    // إنشاء مثيل للصورة
+    //إنشاء مثال من Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        // احصل على وحدات البكسل في الصورة عن طريق تحديد المنطقة كحدود للصورة
+        //احصل على بكسلات الصورة عن طريق تحديد المنطقة كحدود الصورة
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        // حلقة فوق المصفوفة وتعيين لون البكسل المفهرس
+        //تكرار عبر المصفوفة وتعيين لون البكسل المفهرس البديل
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                // اضبط لون البكسل المفهرس على اللون الأصفر
+                //تعيين لون البكسل المفهرس إلى الأصفر
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                // اضبط لون البكسل المفهرس على اللون الأزرق
+                //تعيين لون البكسل المفهرس إلى الأزرق
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        // قم بتطبيق تغييرات البكسل على الصورة
+        //تطبيق تغييرات البكسل على الصورة
         image.SavePixels(image.Bounds, pixels);
 
         // احفظ جميع التغييرات.
         image.Save();
     }
 
-    // اكتب MemoryStream إلى ملف
+    //اكتب MemoryStream إلى ملف
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../streamsource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamSource(Stream, bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`StreamSource`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`StreamSource`](../) .
 
 ```csharp
 public StreamSource(Stream stream, bool disposeStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق لفتح. |
-| disposeStream | Boolean | إذا تم التعيين على`حقيقي` سيتم التخلص من الدفق. |
+| stream | Stream | الدفق للفتح. |
+| disposeStream | Boolean | إذا تم تعيينه إلى `true` سيتم التخلص من الدفق. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال استخدام System.IO.Stream لإنشاء ملف صورة جديد
+يوضح هذا المثال استخدام System.IO.Stream لإنشاء ملف صورة جديد.
 
 ```csharp
 [C#]
 
-// ينشئ مثيلاً من PsdOptions ويضبط خصائصه المختلفة
+//ينشئ مثيلاً من PsdOptions ويضبط خصائصه المتنوعة.
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-// إنشاء مثيل System.IO.Stream
+//إنشاء مثيل من System.IO.Stream.
 System.IO.Stream stream = new System.IO.FileStream(@"C:\temp\sample.psd", System.IO.FileMode.Create);
 
-// حدد خاصية المصدر لمثيل PsdOptions
-// تحدد المعلمة المنطقية الثانية ما إذا كان سيتم التخلص من الدفق بمجرد الخروج من النطاق
+//تحديد خاصية المصدر للمثيل من PsdOptions.
+//المعامل البولياني الثاني يحدد ما إذا كان سيتم التخلص من الـ Stream بمجرد الخروج من النطاق.
 psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream, true);
 
-// ينشئ مثيلًا للصورة واستدعاء طريقة الإنشاء مع PsdOptions كمعامل لتهيئة كائن الصورة   
+//ينشئ مثيلاً من Image ويستدعي طريقة Create مع PsdOptions كمعامل لتهيئة كائن Image.
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // القيام ببعض معالجة الصور
+    //قم ببعض معالجة الصورة.
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../streamsource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

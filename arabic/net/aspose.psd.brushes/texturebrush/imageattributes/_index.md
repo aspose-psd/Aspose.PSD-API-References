@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageAttributes
-second_title: Aspose.PSD لمرجع .NET API
-description: TextureBrush ملكية. يحصل على ملفImageAttributes المرتبطة بهذاTextureBrush .
+title: "TextureBrush.ImageAttributes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextureBrush. تحصل على ImageAttributes المرتبطة بهذا TextureBrush."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.brushes/texturebrush/imageattributes/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageAttributes property
 
-يحصل على ملف`ImageAttributes` المرتبطة بهذا[`TextureBrush`](../) .
+تحصل على `ImageAttributes` المرتبطة بهذا [`TextureBrush`](../).
 
 ```csharp
 public ImageAttributes ImageAttributes { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ال`ImageAttributes`.
+الـ `ImageAttributes`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../texturebrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

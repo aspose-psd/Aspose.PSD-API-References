@@ -1,68 +1,69 @@
 ---
-title: TiffRational.TiffRational
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffRational البناء. يقوم بتهيئة مثيل جديد لملفTiffRational فئة .
+title: "TiffRational.TiffRational"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TiffRational. يهيئ مثالًا جديدًا من الفئة TiffRational"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.tiff/tiffrational/tiffrational/
 ---
+{{< psd/tize >}}
 ## TiffRational() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffRational`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`TiffRational`](../).
 
 ```csharp
 public TiffRational()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffRational`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`TiffRational`](../).
 
 ```csharp
 public TiffRational(uint value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | UInt32 | قيمة المرشح. |
+| قيمة | UInt32 | قيمة البسط. |
 
-### ملاحظات
+## ملاحظات
 
-سيتم استخدام المرشح كقيمة محددة وسيكون المقام مساويًا 1.
+سيتم استخدام البسط كالقيمة المحددة وسيكون المقام مساويًا لـ 1.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint, uint) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffRational`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`TiffRational`](../).
 
 ```csharp
 public TiffRational(uint nominator, uint denominator)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| nominator | UInt32 | المرشح. |
-| denominator | UInt32 | المقام. |
+| البسط | UInt32 | البسط. |
+| المقام | UInt32 | المقام. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

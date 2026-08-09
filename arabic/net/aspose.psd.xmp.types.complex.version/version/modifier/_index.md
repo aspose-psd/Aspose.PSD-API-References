@@ -1,27 +1,28 @@
 ---
-title: Version.Modifier
-second_title: Aspose.PSD لمرجع .NET API
-description: Version ملكية. الحصول على المعدل أو تعيينه .
+title: "Version.Modifier"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Version. تحصل أو تعين المعدل"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.types.complex.version/version/modifier/
 ---
+{{< psd/tize >}}
 ## Version.Modifier property
 
-الحصول على المعدل أو تعيينه .
+يحصل أو يعيّن المعدل.
 
 ```csharp
 public string Modifier { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المعدل .
+المعدل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Version](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

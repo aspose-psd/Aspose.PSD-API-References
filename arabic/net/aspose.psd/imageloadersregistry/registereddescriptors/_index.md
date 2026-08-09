@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisteredDescriptors
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageLoadersRegistry ملكية. يحصل على الواصفات المسجلة .
+title: "ImageLoadersRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ImageLoadersRegistry property. تُرجع الوصفيات المسجلة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/imageloadersregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredDescriptors property
 
-يحصل على الواصفات المسجلة .
+يحصل على المُوَصِّفات المسجلة.
 
 ```csharp
 public static IImageLoaderDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الواصفات المسجلة.
+الوصفات المسجلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageloadersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

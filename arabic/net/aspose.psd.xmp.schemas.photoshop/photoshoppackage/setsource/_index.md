@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetSource
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يحدد المصدر .
+title: "PhotoshopPackage.SetSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PhotoshopPackage. تحدد المصدر"
 type: docs
 weight: 160
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSource method
 
-يحدد المصدر .
+يضبط المصدر.
 
 ```csharp
 public void SetSource(string source)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| source | String | المصدر. |
+| المصدر | String | المصدر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class Thumbnail
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail فصل. يمثل صورة مصغرة لملف.
+title: "الفئة Thumbnail"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail. تمثل صورة مصغرة لملف"
 type: docs
-weight: 6100
+weight: 6600
 url: /ar/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail class
 
 يمثل صورة مصغرة لملف.
@@ -14,33 +15,33 @@ url: /ar/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/
 public sealed class Thumbnail : ComplexTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Thumbnail](thumbnail/#constructor)() | يقوم بتهيئة مثيل جديد لملف`Thumbnail` فئة . |
-| [Thumbnail](thumbnail/#constructor_1)(int, int) | يقوم بتهيئة مثيل جديد لملف`Thumbnail` فئة . |
+| [Thumbnail](thumbnail/#constructor)() | ينشئ مثيلاً جديداً للفئة `Thumbnail`. |
+| [Thumbnail](thumbnail/#constructor_1)(int, int) | ينشئ مثيلاً جديداً للفئة `Thumbnail`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | الحصول على الارتفاع أو تحديده . |
-| [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | الحصول على الصورة أو تعيينها بتنسيق base64 . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على مساحة الاسم الافتراضية URI. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة . |
-| [Width](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/) { get; set; } | الحصول على العرض أو تحديده . |
+| [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | يحصل أو يعيّن الارتفاع. |
+| [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | يحصل أو يعيّن الصورة بصيغة base64. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على URI مساحة الاسم الافتراضية. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة. |
+| [Width](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/) { get; set; } | يحصل أو يعيّن العرض. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../)
 
 

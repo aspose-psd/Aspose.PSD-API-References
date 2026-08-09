@@ -1,28 +1,29 @@
 ---
-title: PsdImage.CmykColorProfile
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على أو تعيين ملف تعريف الألوان CMYK لصور CMYK PSD. يجب أن يكون مقترنًا بـ RgbColorProfile لتحويل اللون الصحيح.
+title: "PsdImage.CmykColorProfile"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. الحصول على أو تعيين ملف تعريف اللون CMYK لصور PSD بنظام CMYK. يجب أن تكون مقترنة بـ RgbColorProfile للتحويل اللوني الصحيح"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/cmykcolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.CmykColorProfile property
 
-الحصول على أو تعيين ملف تعريف الألوان CMYK لصور CMYK PSD. يجب أن يكون مقترنًا بـ RgbColorProfile لتحويل اللون الصحيح.
+يحصل أو يعيّن ملف تعريف اللون CMYK لصور PSD بنظام CMYK. يجب أن يكون مقترنًا بـ RgbColorProfile للتحويل اللوني الصحيح.
 
 ```csharp
 public StreamSource CmykColorProfile { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف تعريف الألوان CMYK .
+ملف تعريف اللون CMYK.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

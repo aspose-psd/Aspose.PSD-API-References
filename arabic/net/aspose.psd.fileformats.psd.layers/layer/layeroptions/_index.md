@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. يحصل على خيارات الطبقة .
+title: "Layer.LayerOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل على خيارات الطبقة"
 type: docs
-weight: 230
+weight: 240
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
-يحصل على خيارات الطبقة .
+يحصل على خيارات الطبقة.
 
 ```csharp
 public PsdOptions LayerOptions { get; }
 ```
 
-### Property_Value
+### Property Value
 
-خيارات الطبقة .
+خيارات الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

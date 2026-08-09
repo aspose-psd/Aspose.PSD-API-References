@@ -1,27 +1,28 @@
 ---
-title: ConvolutionFilterOptions.Factor
-second_title: Aspose.PSD لمرجع .NET API
-description: ConvolutionFilterOptions ملكية. الحصول على العامل أو تعيينه .
+title: "ConvolutionFilterOptions.Factor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ConvolutionFilterOptions. تحصل أو تعيين العامل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Factor property
 
-الحصول على العامل أو تعيينه .
+يحصل أو يعيّن العامل.
 
 ```csharp
 public double Factor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العامل .
+العامل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ConvolutionFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RenditionClass.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: RenditionClass ملكية. الحصول على القيمة أو تعيينها.
+title: "RenditionClass.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RenditionClass. يحصل أو يعيّن القيمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.derived/renditionclass/value/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Value property
 
-الحصول على القيمة أو تعيينها.
+يحصل أو يعيّن القيمة.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RenditionClass](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

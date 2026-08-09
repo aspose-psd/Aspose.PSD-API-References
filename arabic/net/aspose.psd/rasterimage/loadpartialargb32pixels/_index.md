@@ -1,31 +1,32 @@
 ---
-title: RasterImage.LoadPartialArgb32Pixels
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تحميل 32 بت ARGB بكسل جزئيًا بواسطة الحزم.
+title: "RasterImage.LoadPartialArgb32Pixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تقوم بتحميل بكسلات ARGB 32‑بت جزئيًا على شكل حزم"
 type: docs
-weight: 380
+weight: 390
 url: /ar/net/aspose.psd/rasterimage/loadpartialargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialArgb32Pixels method
 
-تحميل 32 بت ARGB بكسل جزئيًا بواسطة الحزم.
+يقوم بتحميل بكسلات ARGB 32‑بت جزئياً عن طريق الحزم.
 
 ```csharp
 public void LoadPartialArgb32Pixels(Rectangle rectangle, 
     IPartialArgb32PixelLoader partialPixelLoader)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المطلوب. |
-| partialPixelLoader | IPartialArgb32PixelLoader | محمل البكسل ARGB 32 بت. |
+| مستطيل | Rectangle | المستطيل المطلوب. |
+| partialPixelLoader | IPartialArgb32PixelLoader | محمل بكسلات ARGB 32‑بت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

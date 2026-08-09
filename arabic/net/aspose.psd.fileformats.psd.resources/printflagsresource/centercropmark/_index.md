@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.CenterCropMark
-second_title: Aspose.PSD لمرجع .NET API
-description: PrintFlagsResource ملكية. الحصول على علامة القطع المركزية أو تعيينها .
+title: "PrintFlagsResource.CenterCropMark"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PrintFlagsResource. تحصل أو تعيين علامة القص المركزية"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/printflagsresource/centercropmark/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.CenterCropMark property
 
-الحصول على علامة القطع المركزية أو تعيينها .
+يحصل أو يضبط علامة القص المركزية.
 
 ```csharp
 public byte CenterCropMark { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-علامة الاقتصاص المركزية .
+علامة القص المركزية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrintFlagsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

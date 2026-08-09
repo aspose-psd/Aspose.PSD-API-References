@@ -1,14 +1,15 @@
 ---
-title: Class DropShadowEffect
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect فصل. تأثير طبقة الظل المسقطة
+title: "الفئة DropShadowEffect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect. تأثير طبقة الظل المنسدل"
 type: docs
-weight: 2120
+weight: 2310
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect class
 
-تأثير طبقة الظل المسقطة
+تأثير طبقة الظل المنسدل.
 
 ```csharp
 public class DropShadowEffect : IShadowEffect
@@ -16,29 +17,35 @@ public class DropShadowEffect : IShadowEffect
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/) { get; set; } | الحصول على الزاوية أو تحديدها بالدرجات . |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | الحصول على أو تحديد وضع المزج . |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | الحصول على اللون أو تحديده . |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | الحصول على أو تحديد المسافة بالبكسل . |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/) { get; set; } | يحصل أو يضبط الزاوية بالدرجات. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | يحصل أو يضبط وضع المزج. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | يحصل أو يعيّن اللون. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | يحصل أو يضبط المسافة بالبكسل. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | يحصل على نوع من التأثير |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرئيًا. |
-| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [يقرع] . |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | الحصول على الضوضاء أو ضبطها . |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | الحصول على التعتيم أو تعيينه . |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | الحصول على أو تعيين قيمة التمويه بالبكسل. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | الحصول على الكثافة أو تحديدها كنسبة مئوية . |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [استخدام هذه الزاوية في جميع تأثيرات الطبقة] . |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كانت هذه الحالة مرئية. |
+| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [knocks out]. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | يحصل أو يضبط الضوضاء. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | يحصل أو يعيّن الشفافية. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | يحصل أو يضبط قيمة الضبابية بالبكسل. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | يحصل أو يضبط الشدة كنسبة مئوية. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [use this angle in all of the layer effects]. |
 
-### أمثلة
+## الطرق
 
-توضح التعليمة البرمجية التالية دعم الخاصية PsdImage.GlobalAngle لتغيير قيمة الزاوية العامة.
+| الاسم | الوصف |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/geteffectbounds/)(Rectangle, int) | احسب واحصل على حدود بكسلات التأثير بناءً على حدود بكسلات الطبقة المدخلة. |
+
+## أمثلة
+
+يوضح الشيفرة التالية دعم الخاصية PsdImage.GlobalAngle لتغيير قيمة الزاوية العامة.
 
 ```csharp
 [C#]
 
-// عندما تكون خاصية DropShadowEffect.UseGlobalLight هي "true" ، فإن كائن DropShadowEffect يستخدم قيمة الزاوية من خاصية PsdImage.GlobalAngle.
+// عند كون الخاصية DropShadowEffect.UseGlobalLight مساوية لـ 'true'، يستخدم كائن DropShadowEffect قيمة الزاوية من الخاصية PsdImage.GlobalAngle.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -47,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 }
 ```
 
-توضح التعليمة البرمجية التالية استخدام خاصية Opacity لـ DropShadowEffect.
+يوضح الشيفرة التالية استخدام الخاصية Opacity في DropShadowEffect.
 
 ```csharp
 [C#]
@@ -64,20 +71,20 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // مثال مع التعتيم = 20
+    // مثال مع Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // مثال مع التعتيم = 200
+    // مثال مع Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IShadowEffect](../ishadoweffect/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: IColorFillSettings.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: IColorFillSettings ملكية. الحصول على اللون أو تحديده .
+title: "IColorFillSettings.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "IColorFillSettings property. يحصل أو يعين اللون"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings.Color property
 
-الحصول على اللون أو تحديده .
+يحصل أو يعيّن اللون.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اللون .
+اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IColorFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../icolorfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

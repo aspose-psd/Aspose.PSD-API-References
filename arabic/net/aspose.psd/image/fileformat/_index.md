@@ -1,11 +1,12 @@
 ---
-title: Image.FileFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: Image ملكية. يحصل على قيمة تنسيق الملف
+title: "Image.FileFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Image. تحصل على قيمة تنسيق الملف"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/image/fileformat/
 ---
+{{< psd/tize >}}
 ## Image.FileFormat property
 
 يحصل على قيمة تنسيق الملف
@@ -14,11 +15,11 @@ url: /ar/net/aspose.psd/image/fileformat/
 public virtual FileFormat FileFormat { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

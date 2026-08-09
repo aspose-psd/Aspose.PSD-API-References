@@ -1,36 +1,37 @@
 ---
-title: Class ConvolutionFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions فصل. مرشح الالتفاف .
+title: "الفئة ConvolutionFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions. مرشح الالتفاف"
 type: docs
-weight: 4670
+weight: 5140
 url: /ar/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions class
 
-مرشح الالتفاف .
+فلتر الالتفاف.
 
 ```csharp
 public abstract class ConvolutionFilterOptions : FilterOptionsBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ConvolutionFilterOptions](convolutionfilteroptions/)() | يقوم بتهيئة مثيل جديد لملف`ConvolutionFilterOptions` فئة . |
+| [ConvolutionFilterOptions](convolutionfilteroptions/)() | ينشئ مثلاً جديداً من الفئة `ConvolutionFilterOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | الحصول على التحيز أو تعيينه . |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | الحصول على العامل أو تعيينه . |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | يحصل أو يعيّن الانحياز. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | يحصل أو يعيّن العامل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

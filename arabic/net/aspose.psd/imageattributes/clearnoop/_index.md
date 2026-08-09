@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearNoOp
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يمسح إعداد NoOp للفئة الافتراضية.
+title: "ImageAttributes.ClearNoOp"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تُزيل إعداد NoOp للفئة الافتراضية."
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/imageattributes/clearnoop/
 ---
+{{< psd/tize >}}
 ## ClearNoOp() {#clearnoop}
 
 يمسح إعداد NoOp للفئة الافتراضية.
@@ -14,11 +15,11 @@ url: /ar/net/aspose.psd/imageattributes/clearnoop/
 public void ClearNoOp()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ public void ClearNoOp()
 public void ClearNoOp(ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) تحدد الفئة التي تم مسح إعداد NoOp لها. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يُزال منها إعداد NoOp. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.Type
-second_title: Aspose.PSD لمرجع .NET API
-description: LengthRecord ملكية. يحصل على النوع.
+title: "LengthRecord.Type"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LengthRecord. يحصل على النوع"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/type/
 ---
+{{< psd/tize >}}
 ## LengthRecord.Type property
 
 يحصل على النوع.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/type/
 public override VectorPathType Type { get; }
 ```
 
-### Property_Value
+### Property Value
 
-النوع .
+النوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [LengthRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

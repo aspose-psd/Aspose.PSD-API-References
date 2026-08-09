@@ -1,23 +1,24 @@
 ---
-title: Frame.Id
-second_title: Aspose.PSD لمرجع .NET API
-description: Frame ملكية. الحصول على معرف الإطار أو تعيينه .
+title: "Frame.Id"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Frame. يحصل أو يضبط معرف الإطار"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/frame/id/
 ---
+{{< psd/tize >}}
 ## Frame.Id property
 
-الحصول على معرف الإطار أو تعيينه .
+يحصل أو يضبط معرف الإطار.
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Frame](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

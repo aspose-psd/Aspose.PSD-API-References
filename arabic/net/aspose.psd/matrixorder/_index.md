@@ -1,11 +1,12 @@
 ---
-title: Enum MatrixOrder
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.MatrixOrder تعداد. يحدد ترتيب عمليات تحويل المصفوفة.
+title: "تعداد MatrixOrder"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.MatrixOrder. يحدد الترتيب لعمليات تحويل المصفوفة"
 type: docs
-weight: 5100
+weight: 5590
 url: /ar/net/aspose.psd/matrixorder/
 ---
+{{< psd/tize >}}
 ## MatrixOrder enumeration
 
 يحدد ترتيب عمليات تحويل المصفوفة.
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd/matrixorder/
 public enum MatrixOrder
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Prepend | `0` | يتم تطبيق العملية الجديدة قبل العملية القديمة. |
 | Append | `1` | يتم تطبيق العملية الجديدة بعد العملية القديمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

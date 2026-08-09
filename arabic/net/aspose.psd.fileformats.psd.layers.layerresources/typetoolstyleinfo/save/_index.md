@@ -1,29 +1,30 @@
 ---
-title: TypeToolStyleInfo.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolStyleInfo طريقة. يحفظ ملفTypeToolFontInfo المعلومات إلى حاوية التدفق المحددة.
+title: "TypeToolStyleInfo.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TypeToolStyleInfo. تحفظ معلومات TypeToolFontInfo إلى حاوية الدفق المحددة."
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.Save method
 
-يحفظ ملف[`TypeToolFontInfo`](../../typetoolfontinfo/) المعلومات إلى حاوية التدفق المحددة.
+تحفظ المعلومات الخاصة بـ[`TypeToolFontInfo`](../../typetoolfontinfo/) إلى حاوية الدفق المحددة.
 
 ```csharp
 public void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق للحفظ فيها. |
+| streamContainer | StreamContainer | حاوية الدفق التي سيتم الحفظ فيها. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolStyleInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

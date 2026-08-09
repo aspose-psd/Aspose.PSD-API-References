@@ -1,38 +1,39 @@
 ---
-title: Aspose.PSD.FileFormats.Core.VectorPaths
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على مسارات Vector PSD.
+title: "Aspose.PSD.FileFormats.Core.VectorPaths"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تحتوي على مسارات PSD المتجهة"
 type: docs
-weight: 150
+weight: 160
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/
 ---
-تحتوي مساحة الاسم على مسارات Vector PSD.
+{{< psd/tize >}}
+مساحة الاسم تحتوي على مسارات المتجهات في PSD.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [BezierKnotRecord](./bezierknotrecord/) | Bezier Knot Record Class |
+| [BezierKnotRecord](./bezierknotrecord/) | فئة سجل عقدة Bezier، تُستخدم لقراءة/كتابة بيانات عقد Bezier من المورد. |
 | [ClipboardRecord](./clipboardrecord/) | فئة سجل الحافظة |
 | [InitialFillRuleRecord](./initialfillrulerecord/) | فئة سجل قاعدة التعبئة الأولية |
-| [LengthRecord](./lengthrecord/) | فئة سجل طول المسار الفرعي |
-| [PathFillRuleRecord](./pathfillrulerecord/) | فئة تسجيل قاعدة ملء المسار |
-| [VectorPathRecord](./vectorpathrecord/) | فئة سجل مسار المتجه |
-| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Vector Path Record Factory Class |
-| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | يحدد فئة المربع المحيط بالشكل المتجه. |
-| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | إعدادات إنشاء شكل المتجه. |
-| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | يحدد فئة مستطيل نصف قطر الشكل المتجه |
-| [VectorShapeTransform](./vectorshapetransform/) | يحدد فئة مصفوفة تحويل شكل المتجه |
-## واجهات
+| [LengthRecord](./lengthrecord/) | فئة سجل طول المسار الفرعي. |
+| [PathFillRuleRecord](./pathfillrulerecord/) | فئة سجل قاعدة تعبئة المسار |
+| [VectorPathRecord](./vectorpathrecord/) | فئة سجل المسار المتجه |
+| [VectorPathRecordFactory](./vectorpathrecordfactory/) | فئة مصنع سجل المسار المتجه. |
+| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | يعرّف فئة صندوق الحدود للشكل المتجه. |
+| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | إعدادات أصل الشكل المتجه. |
+| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | يعرّف فئة مستطيل نصف قطر الشكل المتجه |
+| [VectorShapeTransform](./vectorshapetransform/) | يعرّف فئة مصفوفة تحويل الشكل المتجه |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| الواجهة | الوصف |
 | --- | --- |
-| [IVectorPathData](./ivectorpathdata/) | واجهة الوصول إلى بيانات مسار المتجه. |
+| [IVectorPathData](./ivectorpathdata/) | الواجهة للوصول إلى بيانات المسار المتجه. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [PathOperations](./pathoperations/) | عمليات دمج أشكال المسار (العمليات المنطقية) . |
-| [VectorPathType](./vectorpathtype/) | نوع مسار المتجه وفقًا لمواصفات تنسيق PSD |
+| [PathOperations](./pathoperations/) | العمليات لتجميع أشكال المسار (عمليات بوليانية). |
+| [VectorPathType](./vectorpathtype/) | نوع المسار المتجه وفقًا لمواصفات تنسيق PSD |
 
 

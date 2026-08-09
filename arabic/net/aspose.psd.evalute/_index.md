@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: Aspose.PSD لمرجع .NET API
-description: معالجة رأس مساحة الاسم DIB .
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "مساحة الاسم لمعالجة رؤوس DIB"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.psd.evalute/
 ---
-معالجة رأس مساحة الاسم DIB .
+{{< psd/tize >}}
+مساحة الاسم معالجة رأس DIB.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
 | [EvalException](./evalexception/) | استثناء مخصص لأخطاء التقييم |
 

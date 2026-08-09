@@ -1,27 +1,28 @@
 ---
-title: Graphics.BeginUpdate
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يبدأ التخزين المؤقت لعمليات الرسومات التالية. لن يتم تطبيق تأثيرات الرسومات المطبقة بعد ذلك على الفور بدلاً من أن يتسبب EndUpdate في تطبيق جميع التأثيرات مرة واحدة.
+title: "Graphics.BeginUpdate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. تبدأ تخزين مؤقت للعمليات الرسومية التالية. لن تُطبق التأثيرات الرسومية المطبقة لاحقًا فورًا؛ بدلاً من ذلك سيؤدي EndUpdate إلى تطبيق جميع التأثيرات مرة واحدة"
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.psd/graphics/beginupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.BeginUpdate method
 
-يبدأ التخزين المؤقت لعمليات الرسومات التالية. لن يتم تطبيق تأثيرات الرسومات المطبقة بعد ذلك على الفور بدلاً من أن يتسبب EndUpdate في تطبيق جميع التأثيرات مرة واحدة.
+يبدأ تخزين عمليات الرسومات التالية مؤقتًا. لن تُطبق تأثيرات الرسومات التي تُطبق لاحقًا فورًا، بل سيؤدي End Update إلى تطبيق جميع التأثيرات مرة واحدة.
 
 ```csharp
 public void BeginUpdate()
 ```
 
-### ملاحظات
+## ملاحظات
 
-لاحظ أن التأثيرات بعد استدعاء BeginUpdate لن يتم تطبيقها في حالة عدم استدعاء EndUpdate.
+ملاحظة: لن تُطبق التأثيرات بعد استدعاء BeginUpdate إذا لم يتم استدعاء EndUpdate.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PixelDataFormat.Caption
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. الحصول على تسمية توضيحية بتنسيق بيانات البكسل.
+title: "PixelDataFormat.Caption"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. تسترجع تسمية تنسيق بيانات البكسل"
 type: docs
 weight: 310
 url: /ar/net/aspose.psd/pixeldataformat/caption/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Caption property
 
-الحصول على تسمية توضيحية بتنسيق بيانات البكسل.
+يحصل على تسمية تنسيق بيانات البكسل.
 
 ```csharp
 public string Caption { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

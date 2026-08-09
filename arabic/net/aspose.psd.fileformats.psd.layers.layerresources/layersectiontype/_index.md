@@ -1,11 +1,12 @@
 ---
-title: Enum LayerSectionType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType تعداد. نوع قسم الطبقة
+title: "تعداد LayerSectionType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType تعداد. نوع قسم الطبقة"
 type: docs
-weight: 2610
+weight: 2920
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionType enumeration
 
 نوع قسم الطبقة
@@ -14,18 +15,18 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 public enum LayerSectionType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Layer | `0` | الطبقة . |
-| OpenFolder | `1` | المجلد المفتوح . |
+| Layer | `0` | الطبقة. |
+| OpenFolder | `1` | المجلد المفتوح. |
 | ClosedFolder | `2` | المجلد المغلق. |
-| SectionDivider | `3` | مقسم القسم. |
+| SectionDivider | `3` | فاصل القسم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

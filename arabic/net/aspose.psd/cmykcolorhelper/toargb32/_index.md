@@ -1,31 +1,32 @@
 ---
-title: CmykColorHelper.ToArgb32
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykColorHelper طريقة. التحويل من ألوان CMYK إلى ألوان ARGB .
+title: "CmykColorHelper.ToArgb32"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CmykColorHelper. التحويل من ألوان CMYK إلى ألوان ARGB"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/cmykcolorhelper/toargb32/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToArgb32 method
 
-التحويل من ألوان CMYK إلى ألوان ARGB .
+التحويل من ألوان CMYK إلى ألوان ARGB.
 
 ```csharp
 public static int[] ToArgb32(int[] cmykPixels)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| cmykPixels | Int32[] | يتم تقديم ألوان CMYK كقيم عدد صحيح 32 بت. |
+| cmykPixels | Int32[] | ألوان CMYK معروضة كقيم صحيحة 32-بت. |
 
 ### قيمة الإرجاع
 
-يتم تقديم ألوان ARGB كقيم عدد صحيح 32 بت .
+ألوان ARGB المقدمة كقيم صحيحة 32‑بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

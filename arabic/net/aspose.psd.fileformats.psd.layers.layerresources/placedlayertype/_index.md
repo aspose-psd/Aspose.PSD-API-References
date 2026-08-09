@@ -1,31 +1,32 @@
 ---
-title: Enum PlacedLayerType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType تعداد. يحدد تعداد PlacedLayerType لمورد PLLd للطبقة الموضوعة.
+title: "تعداد PlacedLayerType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType تعداد. يعرّف تعداد PlacedLayerType للطبقة الموضوعة مورد PlLd"
 type: docs
-weight: 2930
+weight: 3280
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-يحدد تعداد PlacedLayerType لمورد PLLd للطبقة الموضوعة.
+يحدد تعداد PlacedLayerType لمورد الطبقة الموضوعة PlLd.
 
 ```csharp
 public enum PlacedLayerType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Unknown | `0` | نوع الطبقة الموضوعة غير المعروفة |
-| Vector | `1` | نوع الطبقة المتجهية |
-| Raster | `2` | نوع الطبقة الموضوعة للخطوط النقطية |
-| ImageStack | `3` | وضع مكدس الصور نوع الطبقة |
+| Unknown | `0` | نوع الطبقة الموضوعة غير المعروف |
+| Vector | `1` | نوع الطبقة الموضوعة المتجهة |
+| Raster | `2` | نوع الطبقة الموضوعة النقطية |
+| ImageStack | `3` | نوع الطبقة الموضوعة مكدس الصورة |
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد PlLdResource.
+الكود التالي يوضح دعم مورد PlLdResource.
 
 ```csharp
 [C#]
@@ -207,16 +208,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // كن حذرًا مع بعض المعلمات: قد تصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
-                ////resource.UOrder = 6 ;
-                ////resource.VOrder = 9 ;
+                // احذر من بعض المعلمات: قد يصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // لا تقم بتغيير هذا وإلا فلن تتمكن من استخدام التحويل المجاني
-                // أو قم بتغيير الكائن الذكي الذي تحته خط إلى نوع المتجه
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // لا تقم بتغيير هذا وإلا 
+ لن تتمكن من استخدام التحويل الحر.
+                // أو 
+ غيّر الكائن الذكي الأساسي إلى النوع المتجه.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // يجب أن يكون هناك PlLdResource صالحًا بهذا المعرف الفريد
-                ////resource.UniqueId = دليل جديد ("98765432-10fe-cba0-1234-56789abcdef0") ;
+                // يجب أن يكون هناك PlLdResource صالح بهذا المعرف الفريد.
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -228,9 +231,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

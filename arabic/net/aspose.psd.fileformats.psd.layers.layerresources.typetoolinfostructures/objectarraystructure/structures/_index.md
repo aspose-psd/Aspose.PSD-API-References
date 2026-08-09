@@ -1,26 +1,27 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Aspose.PSD لمرجع .NET API
-description: ObjectArrayStructure ملكية. الحصول على نسخة من مصفوفة الهياكل أو تعيينها.
+title: "ObjectArrayStructure.Structures"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ObjectArrayStructure. تحصل أو تعيّن نسخة من مصفوفة البنى"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
-الحصول على نسخة من مصفوفة الهياكل أو تعيينها.
+يحصل أو يعيّن نسخة من مصفوفة البُنى.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الهياكل الفرعية في بنية مصفوفة الكائن.
+البنى الفرعية في بنية مصفوفة الكائن.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تواقيع ObAr و UnFl.
+الكود التالي يوضح دعم توقيعات ObAr و UnFl.
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

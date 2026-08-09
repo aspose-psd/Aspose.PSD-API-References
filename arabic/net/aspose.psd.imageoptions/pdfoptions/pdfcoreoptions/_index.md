@@ -1,24 +1,25 @@
 ---
-title: PdfOptions.PdfCoreOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfOptions ملكية. الخيارات الأساسية لملف PDF
+title: "PdfOptions.PdfCoreOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PdfOptions. خيارات النواة لملف PDF"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfCoreOptions property
 
-الخيارات الأساسية لملف PDF
+خيارات النواة لملف PDF
 
 ```csharp
 public PdfCoreOptions PdfCoreOptions { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfCoreOptions](../../../aspose.psd.fileformats.pdf/pdfcoreoptions/)
 * class [PdfOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

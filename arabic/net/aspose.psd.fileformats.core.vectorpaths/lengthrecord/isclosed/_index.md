@@ -1,27 +1,28 @@
 ---
-title: LengthRecord.IsClosed
-second_title: Aspose.PSD لمرجع .NET API
-description: LengthRecord ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مغلقًا.
+title: "LengthRecord.IsClosed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LengthRecord. يحصل على أو يضبط قيمة تشير إلى ما إذا كان هذا الكائن مغلقًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/
 ---
+{{< psd/tize >}}
 ## LengthRecord.IsClosed property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مغلقًا.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا المثيل مغلقاً.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم إغلاق هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن مغلقًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

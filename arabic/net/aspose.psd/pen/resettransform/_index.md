@@ -1,23 +1,24 @@
 ---
-title: Pen.ResetTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen طريقة. يعيد تعيين مصفوفة التحويل الهندسي لهذا الغرضPen للهوية .
+title: "Pen.ResetTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Pen. تعيد تعيين مصفوفة التحويل الهندسي لهذا Pen إلى الهوية."
 type: docs
 weight: 200
 url: /ar/net/aspose.psd/pen/resettransform/
 ---
+{{< psd/tize >}}
 ## Pen.ResetTransform method
 
-يعيد تعيين مصفوفة التحويل الهندسي لهذا الغرض[`Pen`](../) للهوية .
+يعيد تعيين مصفوفة التحويل الهندسي لهذا [`Pen`](../) إلى الهوية.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

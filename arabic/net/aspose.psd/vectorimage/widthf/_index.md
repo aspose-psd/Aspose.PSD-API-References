@@ -1,27 +1,28 @@
 ---
-title: VectorImage.WidthF
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorImage ملكية. الحصول على عرض الكائن بالبوصة .
+title: "VectorImage.WidthF"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorImage. يحصل على عرض الكائن بالبوصة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/vectorimage/widthf/
 ---
+{{< psd/tize >}}
 ## VectorImage.WidthF property
 
-الحصول على عرض الكائن بالبوصة .
+يحصل على عرض الكائن، بالبوصة.
 
 ```csharp
 public virtual float WidthF { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عرض الكائن بالبوصة .
+عرض الكائن، بالبوصة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorImage](../)
-* مساحة الاسم [Aspose.PSD](../../vectorimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Brush.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: Brush ملكية. الحصول على عتامة الفرشاة أو ضبطها. يجب أن تكون القيمة بين 0 و 1. تعني القيمة 0 أن الفرشاة مرئية بالكامل  وتعني القيمة 1 أن الفرشاة غير شفافة تمامًا.
+title: "Brush.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Brush. تحصل أو تعين شفافية الفرشاة. يجب أن تكون القيمة بين 0 و 1. القيمة 0 تعني أن الفرشاة مرئية بالكامل والقيمة 1 تعني أن الفرشاة غير شفافة تمامًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/brush/opacity/
 ---
+{{< psd/tize >}}
 ## Brush.Opacity property
 
-الحصول على عتامة الفرشاة أو ضبطها. يجب أن تكون القيمة بين 0 و 1. تعني القيمة 0 أن الفرشاة مرئية بالكامل ، وتعني القيمة 1 أن الفرشاة غير شفافة تمامًا.
+يحصل أو يضبط شفافية الفرشاة. يجب أن تكون القيمة بين 0 و 1. القيمة 0 تعني أن الفرشاة مرئية بالكامل، والقيمة 1 تعني أن الفرشاة معتمة بالكامل.
 
 ```csharp
 public float Opacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة عتامة الفرشاة.
+قيمة شفافية الفرشاة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../)
-* مساحة الاسم [Aspose.PSD](../../brush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

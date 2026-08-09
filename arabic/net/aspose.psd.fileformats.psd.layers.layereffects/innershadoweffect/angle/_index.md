@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Angle
-second_title: Aspose.PSD لمرجع .NET API
-description: InnerShadowEffect ملكية. الحصول على الزاوية أو تحديدها بالدرجات .
+title: "InnerShadowEffect.Angle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية InnerShadowEffect. يحصل أو يضبط الزاوية بالدرجات"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Angle property
 
-الحصول على الزاوية أو تحديدها بالدرجات .
+يحصل أو يضبط الزاوية بالدرجات.
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الزاوية .
+الزاوية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InnerShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode تعداد. يمثل وضع الألوان بتنسيقPhotoshopPackage .
+title: "تعداد ColorMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode enum. يمثل وضع اللون في PhotoshopPackage"
 type: docs
-weight: 5800
+weight: 6300
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-يمثل وضع الألوان بتنسيق[`PhotoshopPackage`](../photoshoppackage/) .
+يمثل وضع اللون في [`PhotoshopPackage`](../photoshoppackage/).
 
 ```csharp
 public enum ColorMode : byte
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Bitmap | `0` | وضع ألوان الصورة النقطية . |
-| GrayScale | `1` | وضع لون المقياس الرمادي . |
-| IndexedColor | `2` | اللون المفهرس . |
-| Rgb | `3` | RGB لون. |
-| Cmyk | `4` | وضع ألوان CMYK . |
-| MultiChannel | `7` | متعدد القنوات الملونة. |
-| Duotone | `8` | لون ثنائي الدرجة . |
-| LabColor | `9` | LAB color . |
+| Bitmap | `0` | وضع اللون للصور النقطية. |
+| GrayScale | `1` | وضع اللون للدرجات الرمادية. |
+| IndexedColor | `2` | اللون المفهرس. |
+| Rgb | `3` | لون RGB. |
+| Cmyk | `4` | وضع اللون CMYK. |
+| MultiChannel | `7` | لون متعدد القنوات. |
+| Duotone | `8` | لون مزدوج النغمة. |
+| LabColor | `9` | لون LAB. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: Layer.IsVisible
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كانت الطبقة مرئية
+title: "Layer.IsVisible"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل أو تعين قيمة تشير إلى ما إذا كانت الطبقة مرئية."
 type: docs
-weight: 170
+weight: 180
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/isvisible/
 ---
+{{< psd/tize >}}
 ## Layer.IsVisible property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت الطبقة مرئية
+يحصل أو يضبط قيمة تشير إلى ما إذا كانت الطبقة مرئية
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال مرئيًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا المثيل مرئياً؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك تغيير رؤية LayerGroup في Aspose.PSD
+المثال التالي يوضح كيفية تغيير رؤية LayerGroup في Aspose.PSD.
 
 ```csharp
 [C#]
@@ -28,14 +29,14 @@ public bool IsVisible { get; set; }
 string sourceFilePath = "input.psd";
 string outputFilePath = "output.psd";
 
-// إجراء تغييرات في أسماء الطبقات وحفظها
+// قم بإجراء تغييرات على أسماء الطبقات واحفظها.
 using (var image = (PsdImage)Image.Load(sourceFilePath))
 {
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
 
-        // قم بإيقاف تشغيل كل شيء داخل المجموعة
+        // إيقاف تشغيل كل شيء داخل مجموعة.
         if (layer is LayerGroup)
         {
             layer.IsVisible = false;
@@ -46,10 +47,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

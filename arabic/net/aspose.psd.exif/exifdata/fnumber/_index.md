@@ -1,28 +1,29 @@
 ---
-title: ExifData.FNumber
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد الرقم F .
+title: "ExifData.FNumber"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين العدد F"
 type: docs
 weight: 280
 url: /ar/net/aspose.psd.exif/exifdata/fnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.FNumber property
 
-الحصول على أو تحديد الرقم F .
+يحصل أو يضبط رقم F.
 
 ```csharp
 public TiffRational FNumber { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الرقم البؤري .
+العدد F.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

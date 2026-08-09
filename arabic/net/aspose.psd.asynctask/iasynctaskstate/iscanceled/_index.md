@@ -1,27 +1,28 @@
 ---
-title: IAsyncTaskState.IsCanceled
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTaskState ملكية. يحصل على قيمة تشير إلى ما إذا كان قد تم إلغاء المهمة غير المتزامنة.
+title: "IAsyncTaskState.IsCanceled"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IAsyncTaskState. تسترجع قيمة تشير إلى ما إذا كانت المهمة غير المتزامنة ملغاة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.asynctask/iasynctaskstate/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.IsCanceled property
 
-يحصل على قيمة تشير إلى ما إذا كان قد تم إلغاء المهمة غير المتزامنة.
+يحصل على قيمة تشير إلى ما إذا كانت المهمة غير المتزامنة ملغاة.
 
 ```csharp
 public bool IsCanceled { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم إلغاء المهمة غير المتزامنة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت المهمة غير المتزامنة ملغاة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTaskState](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

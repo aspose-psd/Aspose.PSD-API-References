@@ -1,31 +1,32 @@
 ---
-title: XmpPackage.Remove
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage طريقة. قم بإزالة القيمة بالمفتاح المحدد.
+title: "XmpPackage.Remove"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPackage. إزالة القيمة بالمفتاح المحدد"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.xmp/xmppackage/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Remove method
 
-قم بإزالة القيمة بالمفتاح المحدد.
+إزالة القيمة بالمفتاح المحدد.
 
 ```csharp
 public virtual bool Remove(string key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | تمثيل السلسلة للمفتاح الذي تم تحديده بقيمة تمت إزالته. |
+| المفتاح | String | تمثيل النص للمفتاح الذي تم التعرف عليه مع القيمة التي أزيلت. |
 
 ### قيمة الإرجاع
 
-إرجاع صحيح إذا تمت إزالة القيمة بالمفتاح المحدد.
+يرجع true إذا تمت إزالة القيمة بالمفتاح المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsYellowBlueBalance
-second_title: Aspose.PSD لمرجع .NET API
-description: BlncResource ملكية. الحصول على أو تعيين توازن اللون الأزرق الأصفر المميز .
+title: "BlncResource.HighlightsYellowBlueBalance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "BlncResource خاصية. يحصل أو يضبط توازن الإبرازات أصفر أزرق"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsYellowBlueBalance property
 
-الحصول على أو تعيين توازن اللون الأزرق الأصفر المميز .
+يحصل أو يضبط توازن الإضاءات للأصفر الأزرق.
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-يبرز التوازن الأصفر والأزرق.
+توازن الإبرازات الأصفر الأزرق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlncResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

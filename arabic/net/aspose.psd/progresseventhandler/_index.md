@@ -1,11 +1,12 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: Aspose.PSD لمرجع .NET API
-description: مرجع دالة معالج حدث التقدم
+title: "المندوب ProgressEventHandler"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "مرجع دالة معالج حدث التقدم"
 type: docs
-weight: 5280
+weight: 5780
 url: /ar/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
 مرجع دالة معالج حدث التقدم
@@ -14,13 +15,13 @@ url: /ar/net/aspose.psd/progresseventhandler/
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | بيانات معالج حدث التقدم. |
+| معلومات | ProgressEventHandlerInfo | بيانات معالج حدث التقدم. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
 
 ```csharp
 [C#]
@@ -64,10 +65,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

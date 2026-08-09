@@ -1,27 +1,28 @@
 ---
-title: ExifData.RelatedSoundFile
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين ملف الصوت ذي الصلة.
+title: "ExifData.RelatedSoundFile"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعين ملف الصوت المرتبط"
 type: docs
 weight: 880
 url: /ar/net/aspose.psd.exif/exifdata/relatedsoundfile/
 ---
+{{< psd/tize >}}
 ## ExifData.RelatedSoundFile property
 
-الحصول على أو تعيين ملف الصوت ذي الصلة.
+يحصل أو يعيّن ملف الصوت المرتبط.
 
 ```csharp
 public string RelatedSoundFile { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف الصوت ذي الصلة.
+ملف الصوت المرتبط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

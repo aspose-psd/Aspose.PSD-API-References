@@ -1,11 +1,12 @@
 ---
-title: Class Thumbnail4Resource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.Thumbnail4Resource فصل. يمثل مورد الصورة المصغرة لـ psd 4.0.
+title: "فئة Thumbnail4Resource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Psd.Resources.Thumbnail4Resource. تمثّل مورد الصورة المصغرة لـ psd 4.0."
 type: docs
-weight: 3890
+weight: 4360
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnail4resource/
 ---
+{{< psd/tize >}}
 ## Thumbnail4Resource class
 
 يمثل مورد الصورة المصغرة لـ psd 4.0.
@@ -14,45 +15,45 @@ url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnail4resource/
 public sealed class Thumbnail4Resource : ThumbnailResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Thumbnail4Resource](thumbnail4resource/)() | Default_Constructor |
+| [Thumbnail4Resource](thumbnail4resource/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BitsPixel](../../aspose.psd.fileformats.psd.resources/thumbnailresource/bitspixel/) { get; set; } | الحصول على أو تعيين وحدات البكسل . |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/thumbnailresource/datasize/) { get; } | الحصول على حجم بيانات المورد بالبايت. |
-| [Format](../../aspose.psd.fileformats.psd.resources/thumbnailresource/format/) { get; set; } | الحصول على تنسيق بيانات الصورة المصغرة أو تعيينها. |
-| [Height](../../aspose.psd.fileformats.psd.resources/thumbnailresource/height/) { get; set; } | الحصول على أو تحديد ارتفاع الصورة المصغرة بالبكسل. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | الحصول على أو تحديد المعرف الفريد للمورد. |
-| [JpegOptions](../../aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions/) { get; set; } | الحصول على أو تعيين خيارات JPEG. مناسب عندما يتم حفظ المورد المصغر في تنسيق ملف JPEG فقط. هذا الخيار ليس له أي تأثير عند تحديد تنسيق RAW. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/thumbnail4resource/minimalversion/) { get; } | يحصل على الحد الأدنى من إصدار psd المطلوب. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | الحصول على اسم المورد أو تعيينه. سلسلة باسكال ، مبطن لجعل الحجم زوجياً (يتكون الاسم الفارغ من وحدتي بايت من 0) . |
-| [PlanesCount](../../aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/) { get; set; } | الحصول على أو تعيين عدد الطائرات . |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | يحصل على توقيع المورد. يجب أن يكون دائمًا "8BIM" . |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | الحصول على حجم كتلة المورد بالبايت بما في ذلك البيانات الخاصة به. |
-| [SizeAfterCompression](../../aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercompression/) { get; } | الحصول على الحجم أو تحديده بعد الضغط. تستخدم للتحقق من التناسق. |
-| [ThumbnailArgb32Data](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data/) { get; set; } | الحصول على أو تعيين بيانات ARGB المصغرة 32 بت. |
-| [ThumbnailData](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata/) { get; set; } | الحصول على بيانات الصورة المصغرة أو تعيينها. |
-| [TotalSize](../../aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize/) { get; } | الحصول على الحجم الإجمالي للبيانات. |
-| [Width](../../aspose.psd.fileformats.psd.resources/thumbnailresource/width/) { get; set; } | الحصول على أو تحديد عرض الصورة المصغرة بالبكسل. |
-| [WidthBytes](../../aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/) { get; } | الحصول على عرض الصف بالبايت. |
+| [BitsPixel](../../aspose.psd.fileformats.psd.resources/thumbnailresource/bitspixel/) { get; set; } | يحصل أو يضبط بتات البكسل. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/thumbnailresource/datasize/) { get; } | يحصل على حجم بيانات المورد بالبايت. |
+| [Format](../../aspose.psd.fileformats.psd.resources/thumbnailresource/format/) { get; set; } | يحصل أو يضبط تنسيق بيانات الصورة المصغرة. |
+| [Height](../../aspose.psd.fileformats.psd.resources/thumbnailresource/height/) { get; set; } | يحصل أو يضبط ارتفاع الصورة المصغرة بالبكسل. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | يحصل أو يضبط المعرف الفريد للمورد. |
+| [JpegOptions](../../aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions/) { get; set; } | يحصل أو يضبط خيارات JPEG. مناسب عندما يتم حفظ مورد الصورة المصغرة بصيغة ملف JPEG فقط. هذا الخيار لا يؤثر عندما يتم تعريف صيغة RAW. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/thumbnail4resource/minimalversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | يحصل أو يضبط اسم المورد. سلسلة باسكال، مملوءة لتصبح الحجم زوجيًا (اسم فارغ يتكون من بايتين من الصفر). |
+| [PlanesCount](../../aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/) { get; set; } | يحصل أو يضبط عدد المستويات. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | يحصل على توقيع المورد. يجب أن يكون دائمًا '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | يحصل على حجم كتلة المورد بالبايت بما في ذلك بياناتها. |
+| [SizeAfterCompression](../../aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercompression/) { get; } | يحصل أو يضبط الحجم بعد الضغط. يُستخدم للتحقق من التناسق. |
+| [ThumbnailArgb32Data](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data/) { get; set; } | يحصل أو يضبط بيانات الصورة المصغرة ARGB 32-بت. |
+| [ThumbnailData](../../aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata/) { get; set; } | يحصل أو يضبط بيانات الصورة المصغرة. |
+| [TotalSize](../../aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize/) { get; } | يحصل على الحجم الكلي للبيانات. |
+| [Width](../../aspose.psd.fileformats.psd.resources/thumbnailresource/width/) { get; set; } | يحصل أو يضبط عرض الصورة المصغرة بالبكسل. |
+| [WidthBytes](../../aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/) { get; } | يحصل على عرض الصف بالبايت. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | يحفظ كتلة المورد في الدفق المحدد. |
-| override [ValidateValues](../../aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues/)() | يتحقق من صحة قيم المورد . |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | يحفظ كتلة المورد إلى الدفق المحدد. |
+| override [ValidateValues](../../aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues/)() | يتحقق من صحة قيم المورد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ThumbnailResource](../thumbnailresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

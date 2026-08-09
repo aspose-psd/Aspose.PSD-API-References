@@ -1,53 +1,54 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Aspose.PSD لمرجع .NET API
-description: DublinCorePackage طريقة. إضافة الناشر.
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة DublinCorePackage. يضيف الناشر"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
-إضافة الناشر.
+يضيف الناشر.
 
 ```csharp
 public void SetPublisher(string publisher)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| publisher | String | الناشر. |
+| الناشر | String | الناشر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DublinCorePackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetPublisher(string[]) {#setpublisher_1}
 
-إضافة الناشر.
+يضيف الناشر.
 
 ```csharp
 public void SetPublisher(string[] publisher)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| publisher | String[] | الناشر. |
+| الناشر | String[] | الناشر. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الناشر |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DublinCorePackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

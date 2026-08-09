@@ -1,30 +1,31 @@
 ---
-title: Enum TiffThresholds
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds تعداد. العتبة المستخدمة في البيانات .
+title: "تعداد TiffThresholds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds enum. استخدام العتبة على البيانات"
 type: docs
-weight: 4180
+weight: 4650
 url: /ar/net/aspose.psd.fileformats.tiff.enums/tiffthresholds/
 ---
+{{< psd/tize >}}
 ## TiffThresholds enumeration
 
-العتبة المستخدمة في البيانات .
+تطبيق العتبة على البيانات.
 
 ```csharp
 public enum TiffThresholds : ushort
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| NoDithering | `1` | لم يتم تنفيذ التردد . |
-| HalfTone | `2` | مسح متذبذب . |
-| ErrorDiffuse | `3` | عادة فلويد شتاينبرغ . |
+| NoDithering | `1` | لم يتم تنفيذ أي تنقيط. |
+| HalfTone | `2` | مسح مُنقّط. |
+| ErrorDiffuse | `3` | عادةً Floyd-Steinberg. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

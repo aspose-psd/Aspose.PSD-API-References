@@ -1,53 +1,54 @@
 ---
-title: Class UnitStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitStructure فصل. هيكل الوحدة .
+title: "الفئة UnitStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitStructure class. بنية الوحدة"
 type: docs
-weight: 3280
+weight: 3670
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/
 ---
+{{< psd/tize >}}
 ## UnitStructure class
 
-هيكل الوحدة .
+بنية الوحدة.
 
 ```csharp
 public sealed class UnitStructure : OSTypeStructure
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [UnitStructure](unitstructure/)(ClassID) | يقوم بتهيئة مثيل جديد لملف`UnitStructure` فئة . |
+| [UnitStructure](unitstructure/)(ClassID) | ينشئ مثيلاً جديداً من الفئة `UnitStructure`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/key/) { get; } | يحصل على مفتاح الهيكل . |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | الحصول على أو تحديد اسم المفتاح . |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/length/) { get; } | يحصل على ملف[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) الطول بالبايت. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype/) { get; set; } | الحصول على نوع الوحدة أو تحديده. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value/) { get; set; } | الحصول على القيمة أو تعيينها. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/key/) { get; } | يحصل على مفتاح البنية. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | يحصل أو يضبط اسم المفتاح. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/length/) { get; } | يحصل على طول [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) بالبايت. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype/) { get; set; } | يحصل أو يعيّن نوع الوحدة. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value/) { get; set; } | يحصل أو يعيّن القيمة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | الحصول على طول الرأس . |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | يحفظ الهيكل في حاوية التدفق المحددة. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | يحفظ الهيكل في حاوية التدفق المحددة. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | يحصل على طول الرأس. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | يحفظ البنية إلى حاوية الدفق المحددة. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | يحفظ البنية إلى حاوية الدفق المحددة. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/structurekey/) | يحدد مفتاح الهيكل . |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/structurekey/) | يحدد مفتاح البنية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

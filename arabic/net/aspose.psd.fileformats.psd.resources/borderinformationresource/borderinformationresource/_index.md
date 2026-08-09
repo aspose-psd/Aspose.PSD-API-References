@@ -1,23 +1,24 @@
 ---
-title: BorderInformationResource.BorderInformationResource
-second_title: Aspose.PSD لمرجع .NET API
-description: BorderInformationResource البناء. Default_Constructor
+title: "BorderInformationResource.BorderInformationResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ BorderInformationResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/borderinformationresource/borderinformationresource/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public BorderInformationResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BorderInformationResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

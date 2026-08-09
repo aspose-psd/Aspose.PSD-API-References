@@ -1,51 +1,52 @@
 ---
-title: Class NvrtResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource فصل. فئة NvrtResource. مورد طبقة التعديل المقلوبة.
+title: "الفئة NvrtResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource فئة. الفئة NvrtResource. مورد طبقة تعديل الانعكاس"
 type: docs
-weight: 2840
+weight: 3180
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource class
 
-فئة NvrtResource. مورد طبقة التعديل المقلوبة.
+الفئة NvrtResource. مورد طبقة تعديل العكس.
 
 ```csharp
 public class NvrtResource : AdjustmentLayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [NvrtResource](nvrtresource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`NvrtResource` فئة . |
-| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | يقوم بتهيئة مثيل جديد لملف`NvrtResource` فئة . |
+| [NvrtResource](nvrtresource/#constructor)() | ينشئ مثيلاً جديداً للفئة `NvrtResource`. |
+| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | ينشئ مثيلاً جديداً للفئة `NvrtResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/) { get; } | الحصول على إصدار PSD . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | يحصل على التوقيع. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | مفتاح معلومات أداة الكتابة. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية الحصول على NvrtResource.
+المثال التالي يوضح كيفية الحصول على NvrtResource.
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

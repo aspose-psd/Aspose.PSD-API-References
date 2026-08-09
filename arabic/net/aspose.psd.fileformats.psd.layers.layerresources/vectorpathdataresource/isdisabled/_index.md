@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsDisabled
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorPathDataResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
+title: "VectorPathDataResource.IsDisabled"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorPathDataResource. تحصل أو تعيين قيمة تشير إلى ما إذا كان هذا الكائن معطل"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsDisabled property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
 
 ```csharp
 public bool IsDisabled { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تعطيل هذه الحالة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن معطلاً؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorPathDataResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

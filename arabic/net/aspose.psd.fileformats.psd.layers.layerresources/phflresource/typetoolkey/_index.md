@@ -1,11 +1,12 @@
 ---
-title: PhflResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResource مجال. مفتاح معلومات أداة النوع.
+title: "PhflResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل PhflResource. مفتاح معلومات أداة النوع"
 type: docs
-weight: 80
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PhflResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

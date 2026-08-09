@@ -1,23 +1,24 @@
 ---
-title: Matrix.M32
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix ملكية. يحصل على عنصر المصفوفة في العمود الأول للصف الثالث. يمثل الترجمة على طول المحور ص .
+title: "Matrix.M32"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Matrix. تحصل على عنصر المصفوفة في الصف الثالث العمود الأول. تمثل إزاحة على المحور Y"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/matrix/m32/
 ---
+{{< psd/tize >}}
 ## Matrix.M32 property
 
-يحصل على عنصر المصفوفة في العمود الأول للصف الثالث. يمثل الترجمة على طول المحور ص .
+يحصل على عنصر المصفوفة في الصف الثالث والعمود الأول. يمثل الإزاحة على المحور Y.
 
 ```csharp
 public float M32 { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

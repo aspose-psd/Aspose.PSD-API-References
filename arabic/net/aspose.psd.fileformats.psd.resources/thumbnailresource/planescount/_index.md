@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.PlanesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على أو تعيين عدد الطائرات .
+title: "ThumbnailResource.PlanesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. يحصل على أو يضبط عدد المستويات"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.PlanesCount property
 
-الحصول على أو تعيين عدد الطائرات .
+يحصل أو يضبط عدد المستويات.
 
 ```csharp
 public short PlanesCount { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد الطائرات المصغرة.
+عدد مستويات الصورة المصغرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

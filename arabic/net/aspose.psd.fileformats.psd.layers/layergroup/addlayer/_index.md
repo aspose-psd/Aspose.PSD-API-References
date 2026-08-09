@@ -1,26 +1,27 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerGroup طريقة. يضيف الطبقة إلى مجموعة الطبقات.
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LayerGroup. يضيف الطبقة إلى مجموعة الطبقة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
-يضيف الطبقة إلى مجموعة الطبقات.
+يضيف الطبقة إلى مجموعة الطبقة.
 
 ```csharp
 public void AddLayer(Layer layer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| layer | Layer | طبقة. |
+| طبقة | طبقة | الطبقة. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك إضافة صور Bmp و Jpeg و Jpeg2000 و Png و Psd و Tiff و Gif كطبقات إلى PsdImage
+المثال التالي يوضح كيف يمكنك إضافة صور Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif كطبقات إلى PsdImage
 
 ```csharp
 [C#]
@@ -67,11 +68,11 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.StructureCount
-second_title: Aspose.PSD لمرجع .NET API
-description: ObjectArrayStructure ملكية. الحصول على عدد البنية الفرعية لصفيف الكائن.
+title: "ObjectArrayStructure.StructureCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ObjectArrayStructure. تحصل على عدد البنى الفرعية لمصفوفة الكائن"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureCount property
 
-الحصول على عدد البنية الفرعية لصفيف الكائن.
+يحصل على عدد البنى الفرعية لمصفوفة الكائن.
 
 ```csharp
 public int StructureCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد البنية الفرعية في بنية مصفوفة الكائن.
+عدد البنى الفرعية في بنية مصفوفة الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ObjectArrayStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

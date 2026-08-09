@@ -1,11 +1,12 @@
 ---
-title: ColorTranslator.ToHtml
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorTranslator طريقة. ينشئ لون HTML من اللون.
+title: "ColorTranslator.ToHtml"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorTranslator. تُنشئ لون HTML من اللون"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/colortranslator/tohtml/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToHtml method
 
 ينشئ لون HTML من اللون.
@@ -14,19 +15,19 @@ url: /ar/net/aspose.psd/colortranslator/tohtml/
 public static string ToHtml(Color c)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| c | Color | فئة اللون. |
+| c | لون | فئة اللون. |
 
 ### قيمة الإرجاع
 
 لون سلسلة html.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* مساحة الاسم [Aspose.PSD](../../colortranslator/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

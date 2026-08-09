@@ -1,27 +1,28 @@
 ---
-title: ExifData.FlashpixVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على نسخة فلاش بيكسل أو تحديدها.
+title: "ExifData.FlashpixVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين إصدار الفلاش بيكس"
 type: docs
 weight: 270
 url: /ar/net/aspose.psd.exif/exifdata/flashpixversion/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashpixVersion property
 
-الحصول على نسخة فلاش بيكسل أو تحديدها.
+يحصل أو يضبط نسخة فلاش pix.
 
 ```csharp
 public byte[] FlashpixVersion { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نسخة فلاش بيكسل.
+إصدار الفلاش بيكس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

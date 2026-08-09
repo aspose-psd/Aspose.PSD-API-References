@@ -1,27 +1,28 @@
 ---
-title: ExifData.Sharpness
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين الحدة .
+title: "ExifData.Sharpness"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط الحدة"
 type: docs
 weight: 940
 url: /ar/net/aspose.psd.exif/exifdata/sharpness/
 ---
+{{< psd/tize >}}
 ## ExifData.Sharpness property
 
-الحصول على أو تعيين الحدة .
+الحصول أو تعيين الحدة.
 
 ```csharp
 public ushort Sharpness { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحدة .
+الحدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

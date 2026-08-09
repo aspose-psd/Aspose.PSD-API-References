@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.AntiAliasPolicy
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectResource ملكية. الحصول على أو تعيين سياسة مكافحة الاسم المستعار لبيانات طبقة الكائن الذكي في صورة PSD.
+title: "SmartObjectResource.AntiAliasPolicy"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartObjectResource. يحصل أو يضبط سياسة مضاد التمويه لبيانات طبقة الكائن الذكي في صورة PSD"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.AntiAliasPolicy property
 
-الحصول على أو تعيين سياسة مكافحة الاسم المستعار لبيانات طبقة الكائن الذكي في صورة PSD.
+يحصل أو يضبط سياسة إلغاء التعرّج لبيانات طبقة الكائن الذكي في صورة PSD.
 
 ```csharp
 public override int AntiAliasPolicy { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-سياسة مكافحة الاسم المستعار لبيانات طبقة الكائن الذكي.
+سياسة مضاد التمويه لبيانات طبقة الكائن الذكي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

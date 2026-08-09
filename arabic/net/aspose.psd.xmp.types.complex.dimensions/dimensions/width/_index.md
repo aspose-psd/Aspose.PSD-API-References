@@ -1,33 +1,34 @@
 ---
-title: Dimensions.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: Dimensions ملكية. الحصول على العرض أو تحديده .
+title: "Dimensions.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Dimensions. يحصل أو يضبط العرض"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 ---
+{{< psd/tize >}}
 ## Dimensions.Width property
 
-الحصول على العرض أو تحديده .
+يحصل أو يعيّن العرض.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العرض .
+العرض.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | القيمة ؛ لا يمكن أن يكون العرض أقل من الصفر |
+| ArgumentOutOfRangeException | القيمة؛ Width لا يمكن أن يكون أقل من الصفر |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dimensions](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

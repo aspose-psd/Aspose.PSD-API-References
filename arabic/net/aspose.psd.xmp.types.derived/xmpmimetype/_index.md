@@ -1,45 +1,46 @@
 ---
-title: Class XmpMimeType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Derived.XmpMimeType فصل. يمثل نوع MIME .
+title: "الفئة XmpMimeType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Types.Derived.XmpMimeType. تمثّل نوع MIME"
 type: docs
-weight: 6180
+weight: 6680
 url: /ar/net/aspose.psd.xmp.types.derived/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType class
 
-يمثل نوع MIME .
+يمثل نوع MIME.
 
 ```csharp
 public sealed class XmpMimeType : XmpText
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpMimeType](xmpmimetype/)(string) | يقوم بتهيئة مثيل جديد لملف`XmpMimeType` فئة . |
+| [XmpMimeType](xmpmimetype/)(string) | ينشئ مثلاً جديداً من الفئة `XmpMimeType`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | الحصول على القيمة النصية أو تعيينها. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | يحصل أو يعيّن قيمة النص. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### ملاحظات
+## ملاحظات
 
-نوع MIME المحدد في IETF RFC 2046.
+نوع MIME معرف في IETF RFC 2046.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

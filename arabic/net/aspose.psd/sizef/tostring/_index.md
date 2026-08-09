@@ -1,14 +1,15 @@
 ---
-title: SizeF.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF طريقة. لإنشاء سلسلة يمكن للبشر قراءتها تمثل هذاSizeF .
+title: "SizeF.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SizeF. تُنشئ سلسلة قابلة للقراءة من قبل الإنسان تمثل هذا SizeF."
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/sizef/tostring/
 ---
+{{< psd/tize >}}
 ## SizeF.ToString method
 
-لإنشاء سلسلة يمكن للبشر قراءتها تمثل هذا[`SizeF`](../) .
+ينشئ سلسلة قابلة للقراءة من قبل الإنسان تمثل هذا [`SizeF`](../).
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة تمثل هذا[`SizeF`](../).
+سلسلة تمثل هذا [`SizeF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

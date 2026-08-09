@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetDocumentAncestors
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يحدد أسلاف المستند .
+title: "PhotoshopPackage.SetDocumentAncestors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhotoshopPackage طريقة. يحدد أسلاف المستند"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetDocumentAncestors method
 
-يحدد أسلاف المستند .
+يضبط أسلاف المستند.
 
 ```csharp
 public void SetDocumentAncestors(string[] ancestors)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| ancestors | String[] | الأجداد. |
+| الأسلاف | String[] | الأسلاف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

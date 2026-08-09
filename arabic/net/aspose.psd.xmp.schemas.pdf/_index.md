@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Pdf
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات المساعدة والثوابت والأساليب المستخدمة مع مستندات Adobe PDF.
+title: "Aspose.PSD.Xmp.Schemas.Pdf"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تحتوي على الفئات المساعدة المرتبطة والثوابت والطرق المستخدمة مع مستندات Adobe PDF"
 type: docs
-weight: 540
+weight: 580
 url: /ar/net/aspose.psd.xmp.schemas.pdf/
 ---
-تحتوي مساحة الاسم على فئات المساعدة والثوابت والأساليب المستخدمة مع مستندات Adobe PDF.
+{{< psd/tize >}}
+النطاق يحتوي على فئات وثوابت ومناهج مساعدة متعلقة تُستخدم مع مستندات Adobe PDF.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [PdfPackage](./pdfpackage/) | يمثل مساحة أسماء Adobe Pdf . |
+| [PdfPackage](./pdfpackage/) | يمثل مساحة اسم Adobe Pdf. |
 
 

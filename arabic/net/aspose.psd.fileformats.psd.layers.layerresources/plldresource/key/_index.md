@@ -1,23 +1,24 @@
 ---
-title: PlLdResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: PlLdResource ملكية. يحصل على مفتاح المورد PlLd .
+title: "PlLdResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlLdResource. يحصل على مفتاح مورد PlLd"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Key property
 
-يحصل على مفتاح المورد PlLd .
+يحصل على مفتاح مورد PlLd.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlLdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

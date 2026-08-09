@@ -1,23 +1,24 @@
 ---
-title: Region.MakeEmpty
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. يقوم بتهيئة هذاRegion إلى مساحة داخلية فارغة.
+title: "Region.MakeEmpty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تُهيئ هذا Region إلى داخلية فارغة"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.psd/region/makeempty/
 ---
+{{< psd/tize >}}
 ## Region.MakeEmpty method
 
-يقوم بتهيئة هذا[`Region`](../) إلى مساحة داخلية فارغة.
+تُهيئ هذا [`Region`](../) إلى داخلية فارغة.
 
 ```csharp
 public void MakeEmpty()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

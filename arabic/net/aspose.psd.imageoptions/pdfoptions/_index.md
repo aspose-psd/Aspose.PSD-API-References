@@ -1,54 +1,55 @@
 ---
-title: Class PdfOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.PdfOptions فصل. خيارات PDF .
+title: "فئة PdfOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.ImageOptions.PdfOptions. خيارات PDF"
 type: docs
-weight: 4870
+weight: 5360
 url: /ar/net/aspose.psd.imageoptions/pdfoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions class
 
-خيارات PDF .
+خيارات PDF.
 
 ```csharp
 public class PdfOptions : ImageOptionsBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PdfOptions](pdfoptions/)() | Default_Constructor |
+| [PdfOptions](pdfoptions/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | الحصول على أو تعيين تلميح حجم المخزن المؤقت الذي تم تحديده بالحجم الأقصى المسموح به لجميع المخازن المؤقتة الداخلية. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | الحصول على الخط البديل الافتراضي أو تعيينه (الخط الذي سيتم استخدامه لرسم النص عند التصدير إلى خطوط المسح ، إذا لم يتم تقديم خط الطبقة الموجود في ملف PSD في النظام). : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection ()؛ System.Drawing.FontFamily [] Families = col.Families؛ string افتراضي PsdLoadOptions psdLoadOptions = new PsdLoadOptions () {DefaultReplacementFont = defaultFontName})؛ |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل قد تم التخلص منه. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [إطار كامل] . |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | خيارات متعدد الصفحات |
-| [PageSize](../../aspose.psd.imageoptions/pdfoptions/pagesize/) { get; set; } | الحصول على حجم الصفحة أو تحديده. |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | الحصول على لوحة الألوان أو تعيينها . |
-| [PdfCoreOptions](../../aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/) { get; set; } | الخيارات الأساسية لملف PDF |
-| [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/) { get; set; } | الحصول على البيانات الوصفية للوثيقة أو تعيينها. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | الحصول على معالج حدث التقدم أو تعيينه. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | الحصول على إعدادات الدقة أو تعيينها . |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | الحصول على أو تعيين المصدر لإنشاء الصورة فيه. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | الحصول على أو تعيين خيارات التحويل النقطي للمتجه. |
-| virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata/) { get; set; } | الحصول على أو تعيين حاوية بيانات تعريف XMP. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | يحصل أو يعيّن تلميح حجم المخزن المؤقت الذي يُعرف كأقصى حجم مسموح به لجميع المخازن المؤقتة الداخلية. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | يحصل أو يعيّن الخط البديل الافتراضي (الخط الذي سيُستخدم لرسم النص عند التصدير إلى نقطية، إذا لم يكن خط الطبقة الموجود في ملف PSD موجودًا في النظام). للحصول على اسم الخط الافتراضي الصحيح يمكن استخدام المقتطف البرمجي التالي: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن قد تم التخلص منه. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [الإطار الكامل]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | خيارات الصفحات المتعددة |
+| [PageSize](../../aspose.psd.imageoptions/pdfoptions/pagesize/) { get; set; } | يحصل أو يعيّن حجم الصفحة. |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | يحصل أو يعيّن لوحة الألوان. |
+| [PdfCoreOptions](../../aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/) { get; set; } | خيارات النواة لملف PDF |
+| [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/) { get; set; } | يحصل أو يعيّن البيانات الوصفية للمستند. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | يحصل أو يعيّن معالج حدث التقدم. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | يحصل أو يعيّن إعدادات الدقة. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | يحصل أو يعيّن المصدر لإنشاء الصورة فيه. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | يحصل أو يعيّن خيارات تحويل المتجه إلى نقطية. |
+| virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata/) { get; set; } | يحصل أو يضبط حاوية بيانات التعريف XMP. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | استنساخ هذا المثال . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | التخلص من المثيل الحالي. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | ينسخ هذه المثيل. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | يتخلص من المثيل الحالي. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك تصدير ملفات Adobe Illustrator إلى تنسيق PDF بتنسيق Aspose.PSD
+المثال التالي يوضح كيف يمكنك تصدير ملفات Adobe Illustrator إلى تنسيق PDF في Aspose.PSD
 
 ```csharp
 [C#]
@@ -61,12 +62,12 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-يوضح المثال التالي أن AsposePSD يدعم تصدير ملفات PSB إلى تنسيق PSD.
+المثال التالي يوضح أن AsposePSD يدعم تصدير ملفات PSB إلى تنسيق PSD.
 
 ```csharp
 [C#]
 
-// دعم حفظ PSB كملف PDF
+// دعم حفظ PSB كـ PDF
 string sourceFileName = "sample.psb";
 string outFileName = "sample.pdf";
 
@@ -81,7 +82,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ```csharp
 [C#]
 
-// لا يوفر حفظ PSD في PDF نصًا قابلاً للتحديد
+// حفظ PSD إلى PDF لا يوفر نصًا قابلًا للتحديد.
 string sourceFileName = "text.psd";
 string outFileName = "text.pdf";
 
@@ -91,7 +92,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-يوضح المثال التالي دعم تصدير PsdImage إلى تنسيق Pdf.
+المثال التالي يوضح دعم تصدير PsdImage إلى تنسيق Pdf.
 
 ```csharp
 [C#]
@@ -117,10 +118,10 @@ for (int i = 0; i < sourcesFiles.Length; i++)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

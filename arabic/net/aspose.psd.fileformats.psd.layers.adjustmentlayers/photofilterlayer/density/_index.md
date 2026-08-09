@@ -1,33 +1,34 @@
 ---
-title: PhotoFilterLayer.Density
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoFilterLayer ملكية. الحصول على كثافة المرشح أو تعيينها
+title: "PhotoFilterLayer.Density"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PhotoFilterLayer. يحصل أو يضبط كثافة الفلتر"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/density/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Density property
 
-الحصول على كثافة المرشح أو تعيينها
+الحصول أو تعيين كثافة المرشح.
 
 ```csharp
 public int Density { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الكثافة .
+الكثافة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن تتراوح الكثافة من 0 إلى 100 |
+| ArgumentOutOfRangeException | يجب أن تكون الكثافة في النطاق من 0 إلى 100 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoFilterLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

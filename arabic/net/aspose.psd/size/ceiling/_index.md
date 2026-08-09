@@ -1,32 +1,33 @@
 ---
-title: Size.Ceiling
-second_title: Aspose.PSD لمرجع .NET API
-description: Size طريقة. تحويل المحددSizeF هيكل لSize عن طريق تقريب قيمSize بنية لقيم الأعداد الصحيحة الأعلى التالية.
+title: "Size.Ceiling"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Size. تحول هيكل SizeF المحدد إلى هيكل Size عن طريق تقريب قيم هيكل Size إلى القيم الصحيحة الأعلى."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/size/ceiling/
 ---
+{{< psd/tize >}}
 ## Size.Ceiling method
 
-تحويل المحدد[`SizeF`](../../sizef/) هيكل ل[`Size`](../) عن طريق تقريب قيم[`Size`](../) بنية لقيم الأعداد الصحيحة الأعلى التالية.
+تحول الهيكل [`SizeF`](../../sizef/) المحدد إلى هيكل [`Size`](../) عن طريق تقريب قيم الهيكل [`Size`](../) إلى القيم الصحيحة الأعلى.
 
 ```csharp
 public static Size Ceiling(SizeF size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | SizeF | ال[`SizeF`](../../sizef/) هيكل للتحويل. |
+| size | SizeF | الهيكل [`SizeF`](../../sizef/) للتحويل. |
 
 ### قيمة الإرجاع
 
-ال[`Size`](../) هيكل تتحول هذه الطريقة إلى.
+الهيكل [`Size`](../) الذي تحول إليه هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* مساحة الاسم [Aspose.PSD](../../size/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

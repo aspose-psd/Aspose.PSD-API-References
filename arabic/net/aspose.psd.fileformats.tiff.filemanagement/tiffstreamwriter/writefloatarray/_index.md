@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteFloatArray
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب مصفوفة من القيم العائمة للتيار.
+title: "TiffStreamWriter.WriteFloatArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. تكتب مصفوفة من قيم الفاصلة العائمة إلى التدفق"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloatarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloatArray method
 
-يكتب مصفوفة من القيم العائمة للتيار.
+يكتب مصفوفة من القيم العائمة إلى التدفق.
 
 ```csharp
 public void WriteFloatArray(float[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Single[] | المصفوفة للكتابة. |
+| البيانات | Single[] | المصفوفة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Enum DashStyle
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.DashStyle تعداد. يحدد نمط الخطوط المتقطعة المرسومة بامتدادPen الكائن .
+title: "تعداد DashStyle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.DashStyle. يحدد نمط الخطوط المتقطعة المرسومة باستخدام كائن Pen"
 type: docs
-weight: 720
+weight: 730
 url: /ar/net/aspose.psd/dashstyle/
 ---
+{{< psd/tize >}}
 ## DashStyle enumeration
 
-يحدد نمط الخطوط المتقطعة المرسومة بامتداد[`Pen`](../pen/) الكائن .
+يحدد نمط الخطوط المتقطعة المرسومة باستخدام كائن [`Pen`](../pen/).
 
 ```csharp
 public enum DashStyle
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Solid | `0` | تحديد خط متصل . |
-| Dash | `1` | تحديد سطر يتكون من شرطات . |
-| Dot | `2` | يحدد خطًا يتكون من نقاط . |
-| DashDot | `3` | يحدد خطًا يتكون من نمط متكرر للشرطة . |
-| DashDotDot | `4` | يحدد خطًا يتكون من نمط متكرر من شرطة-نقطة-نقطة . |
-| Custom | `5` | تحديد نمط شرطة مخصص معرف من قبل المستخدم. |
+| Solid | `0` | يحدد خطًا صلبًا. |
+| Dash | `1` | يحدد خطًا مكوّنًا من شرطات. |
+| Dot | `2` | يحدد خطًا مكوّنًا من نقاط. |
+| DashDot | `3` | يحدد خطًا مكوّنًا من نمط متكرر من شرطة-نقطة. |
+| DashDotDot | `4` | يحدد خطًا مكوّنًا من نمط متكرر من شرطة-نقطة-نقطة. |
+| Custom | `5` | يحدد نمطًا مخصصًا للخط المتقطع يحدده المستخدم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

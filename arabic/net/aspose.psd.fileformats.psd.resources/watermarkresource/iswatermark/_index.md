@@ -1,27 +1,28 @@
 ---
-title: WatermarkResource.IsWatermark
-second_title: Aspose.PSD لمرجع .NET API
-description: WatermarkResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل علامة مائية.
+title: "WatermarkResource.IsWatermark"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية WatermarkResource. تحصل أو تعين قيمة تشير إلى ما إذا كانت هذه الحالة علامة مائية"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/watermarkresource/iswatermark/
 ---
+{{< psd/tize >}}
 ## WatermarkResource.IsWatermark property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل علامة مائية.
+يحصل أو يضبط قيمة تشير إلى ما إذا كانت هذه النسخة علامة مائية.
 
 ```csharp
 public bool IsWatermark { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال علامة مائية ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه الحالة علامة مائية؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WatermarkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

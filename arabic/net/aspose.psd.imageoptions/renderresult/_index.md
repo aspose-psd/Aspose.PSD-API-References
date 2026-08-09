@@ -1,35 +1,36 @@
 ---
-title: Class RenderResult
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.RenderResult فصل. يمثل المعلومات بنتائج التقديم
+title: "الفئة RenderResult"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.ImageOptions.RenderResult. يمثل معلومات مع نتائج التصيير"
 type: docs
-weight: 4930
+weight: 5420
 url: /ar/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
-يمثل المعلومات بنتائج التقديم
+يمثل معلومات مع نتائج التصيير
 
 ```csharp
 public class RenderResult
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RenderResult](renderresult/)() | Default_Constructor |
+| [RenderResult](renderresult/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | يحصل أو يحدد سلسلة message |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | الحصول على أو تعيين رمز الخطأ |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | يحصل أو يضبط رسالة النص |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | يحصل أو يضبط رمز الخطأ |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

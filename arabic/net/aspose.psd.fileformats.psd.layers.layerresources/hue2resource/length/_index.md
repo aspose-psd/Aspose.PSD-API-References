@@ -1,23 +1,24 @@
 ---
-title: Hue2Resource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: Hue2Resource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "Hue2Resource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Hue2Resource. تحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 50
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Hue2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

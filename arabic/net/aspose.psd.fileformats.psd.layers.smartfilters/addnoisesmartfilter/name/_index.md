@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.Name
-second_title: Aspose.PSD لمرجع .NET API
-description: AddNoiseSmartFilter ملكية. الحصول على اسم المرشح الذكي .
+title: "AddNoiseSmartFilter.Name"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AddNoiseSmartFilter. تحصل على اسم المرشح الذكي"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.Name property
 
-الحصول على اسم المرشح الذكي .
+يحصل على اسم الفلتر الذكي.
 
 ```csharp
 public override string Name { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AddNoiseSmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

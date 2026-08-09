@@ -1,14 +1,15 @@
 ---
-title: Source.GetStreamContainer
-second_title: Aspose.PSD لمرجع .NET API
-description: Source طريقة. يحصل على حاوية التدفق .
+title: "Source.GetStreamContainer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Source. تحصل على حاوية التدفق."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/source/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## Source.GetStreamContainer method
 
-يحصل على حاوية التدفق .
+يحصل على حاوية الدفق.
 
 ```csharp
 public abstract StreamContainer GetStreamContainer()
@@ -16,17 +17,17 @@ public abstract StreamContainer GetStreamContainer()
 
 ### قيمة الإرجاع
 
-حاوية التدفق.
+حاوية الدفق.
 
-### ملاحظات
+## ملاحظات
 
-استخدم بحذر. سوف تحتاج إلى التخلص من حاوية التدفق بعد استرجاعها.
+استخدم بحذر. ستحتاج إلى التخلص من حاوية الدفق بعد الاسترجاع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../streamcontainer/)
 * class [Source](../)
-* مساحة الاسم [Aspose.PSD](../../source/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

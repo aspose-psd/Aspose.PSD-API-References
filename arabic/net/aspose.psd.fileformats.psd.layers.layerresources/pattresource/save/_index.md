@@ -1,11 +1,12 @@
 ---
-title: PattResource.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResource طريقة. يحفظ بيانات كتلة المورد.
+title: "PattResource.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PattResource. تحفظ بيانات كتلة المورد"
 type: docs
-weight: 70
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/
 ---
+{{< psd/tize >}}
 ## PattResource.Save method
 
 يحفظ بيانات كتلة المورد.
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق للحفظ فيها. |
+| streamContainer | StreamContainer | حاوية الدفق التي سيتم الحفظ فيها. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

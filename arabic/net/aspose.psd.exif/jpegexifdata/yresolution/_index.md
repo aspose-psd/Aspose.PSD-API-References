@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.YResolution
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على دقة y أو تعيينها .
+title: "JpegExifData.YResolution"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين دقة y"
 type: docs
 weight: 260
 url: /ar/net/aspose.psd.exif/jpegexifdata/yresolution/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YResolution property
 
-الحصول على دقة y أو تعيينها .
+يحصل أو يضبط دقة y.
 
 ```csharp
 public TiffRational YResolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 دقة y.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

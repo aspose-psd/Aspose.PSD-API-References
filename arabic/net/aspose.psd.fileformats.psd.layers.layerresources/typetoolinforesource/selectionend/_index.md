@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionEnd
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على نهاية التحديد أو تحديدها.
+title: "TypeToolInfoResource.SelectionEnd"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل على أو يضبط نهاية التحديد"
 type: docs
-weight: 180
+weight: 160
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionEnd property
 
-الحصول على نهاية التحديد أو تحديدها.
+يحصل أو يضبط نهاية التحديد.
 
 ```csharp
 public int SelectionEnd { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نهاية التحديد .
+نهاية التحديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

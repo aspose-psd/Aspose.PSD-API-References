@@ -1,27 +1,28 @@
 ---
-title: FileCreateSource.FilePath
-second_title: Aspose.PSD لمرجع .NET API
-description: FileCreateSource ملكية. يحصل على مسار الملف المراد إنشاؤه .
+title: "FileCreateSource.FilePath"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FileCreateSource. يحصل على مسار الملف لإنشائه"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.sources/filecreatesource/filepath/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.FilePath property
 
-يحصل على مسار الملف المراد إنشاؤه .
+يحصل على مسار الملف للإنشاء.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مسار الملف المراد إنشاؤه.
+مسار الملف لإنشائه.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileCreateSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../filecreatesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

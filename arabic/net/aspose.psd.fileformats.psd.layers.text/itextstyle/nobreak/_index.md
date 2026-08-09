@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.NoBreak
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. Gets ot يعين قيمة no break.
+title: "ITextStyle.NoBreak"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. يحصل أو يضبط قيمة عدم الانقطاع"
 type: docs
 weight: 210
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/
 ---
+{{< psd/tize >}}
 ## ITextStyle.NoBreak property
 
-Gets ot يعين قيمة no break.
+يحصل أو يعيّن قيمة عدم الانقطاع.
 
 ```csharp
 public bool NoBreak { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

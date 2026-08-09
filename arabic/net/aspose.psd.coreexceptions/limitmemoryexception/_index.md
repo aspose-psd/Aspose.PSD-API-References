@@ -1,37 +1,38 @@
 ---
-title: Class LimitMemoryException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.LimitMemoryException فصل. استثناء ذاكرة الحد. يحدث عندما يجب تقليل استخدام الذاكرة.
+title: "فئة LimitMemoryException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.CoreExceptions.LimitMemoryException فئة. استثناء حد الذاكرة. يحدث عندما يجب تقليل استخدام الذاكرة"
 type: docs
 weight: 650
 url: /ar/net/aspose.psd.coreexceptions/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException class
 
-استثناء ذاكرة الحد. يحدث عندما يجب تقليل استخدام الذاكرة.
+استثناء حد الذاكرة. يحدث عندما يجب تقليل استخدام الذاكرة.
 
 ```csharp
 public class LimitMemoryException : OutOfMemoryException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LimitMemoryException](limitmemoryexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`LimitMemoryException` فئة . |
-| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`LimitMemoryException` فئة . |
-| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | يقوم بتهيئة مثيل جديد لملف`LimitMemoryException` فئة . |
-| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | يقوم بتهيئة مثيل جديد لملف`LimitMemoryException` فئة . |
+| [LimitMemoryException](limitmemoryexception/#constructor)(string) | ينشئ مثيلاً جديدًا من فئة `LimitMemoryException`. |
+| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | ينشئ مثيلاً جديدًا من فئة `LimitMemoryException`. |
+| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | ينشئ مثيلاً جديدًا من فئة `LimitMemoryException`. |
+| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | ينشئ مثيلاً جديدًا من فئة `LimitMemoryException`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/) { get; set; } | الحصول على أو تعيين عامل تقليل الذاكرة . |
+| [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/) { get; set; } | يحصل أو يضبط معامل تقليل الذاكرة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

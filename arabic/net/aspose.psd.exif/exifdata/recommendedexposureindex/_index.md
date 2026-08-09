@@ -1,27 +1,28 @@
 ---
-title: ExifData.RecommendedExposureIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد فهرس التعريض الموصى به.
+title: "ExifData.RecommendedExposureIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين مؤشر التعرض الموصى به"
 type: docs
 weight: 870
 url: /ar/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.RecommendedExposureIndex property
 
-الحصول على أو تحديد فهرس التعريض الموصى به.
+يحصل أو يعيّن مؤشر التعرض الموصى به.
 
 ```csharp
 public uint RecommendedExposureIndex { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مؤشر التعريض الموصى به .
+مؤشر التعرض الموصى به.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

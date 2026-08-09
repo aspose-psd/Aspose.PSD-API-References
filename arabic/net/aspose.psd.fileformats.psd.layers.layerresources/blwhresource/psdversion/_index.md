@@ -1,23 +1,24 @@
 ---
-title: BlwhResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: BlwhResource ملكية. يحصل على نسخة مديرية الأمن العام .
+title: "BlwhResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlwhResource. يحصل على نسخة PSD"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion/
 ---
+{{< psd/tize >}}
 ## BlwhResource.PsdVersion property
 
-يحصل على نسخة مديرية الأمن العام .
+يحصل على إصدار psd.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlwhResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

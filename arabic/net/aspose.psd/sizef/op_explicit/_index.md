@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Explicit
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF طريقة. تحويل المحددSizeF إلى أPointF .
+title: "SizeF.op_Explicit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SizeF. تحول الـ SizeF المحدد إلى PointF."
 type: docs
 weight: 150
 url: /ar/net/aspose.psd/sizef/op_explicit/
 ---
+{{< psd/tize >}}
 ## SizeF Explicit operator
 
-تحويل المحدد[`SizeF`](../) إلى أ[`PointF`](../../pointf/) .
+تحول الـ [`SizeF`](../) المحدد إلى [`PointF`](../../pointf/).
 
 ```csharp
 public static explicit operator PointF(SizeF size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | SizeF | ال[`SizeF`](../) الهيكل المراد تحويله |
+| size | SizeF | الهيكل [`SizeF`](../) الذي سيُحوَّل. |
 
 ### قيمة الإرجاع
 
-ال[`PointF`](../../pointf/) الهيكل الذي يتحول إليه هذا المشغل.
+الهيكل [`PointF`](../../pointf/) الذي يحوله هذا العامل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

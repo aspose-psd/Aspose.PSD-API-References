@@ -1,14 +1,15 @@
 ---
-title: Brush.DeepClone
-second_title: Aspose.PSD لمرجع .NET API
-description: Brush طريقة. ينشئ استنساخًا عميقًا جديدًا للتيارBrush .
+title: "Brush.DeepClone"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Brush. تنشئ نسخة عميقة جديدة من Brush الحالية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/brush/deepclone/
 ---
+{{< psd/tize >}}
 ## Brush.DeepClone method
 
-ينشئ استنساخًا عميقًا جديدًا للتيار[`Brush`](../) .
+تنشئ نسخة عميقة جديدة من [`Brush`](../) الحالية.
 
 ```csharp
 public virtual Brush DeepClone()
@@ -16,12 +17,12 @@ public virtual Brush DeepClone()
 
 ### قيمة الإرجاع
 
-جديد[`Brush`](../) وهو استنساخ عميق لهذا[`Brush`](../) مثال.
+جديد [`Brush`](../) وهو نسخة عميقة من هذه المثيلة [`Brush`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../)
-* مساحة الاسم [Aspose.PSD](../../brush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

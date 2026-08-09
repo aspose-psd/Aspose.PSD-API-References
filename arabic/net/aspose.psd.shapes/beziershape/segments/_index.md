@@ -1,28 +1,29 @@
 ---
-title: BezierShape.Segments
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierShape ملكية. الحصول على شرائح الشكل .
+title: "BezierShape.Segments"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BezierShape. يحصل على مقاطع الشكل"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.shapes/beziershape/segments/
 ---
+{{< psd/tize >}}
 ## BezierShape.Segments property
 
-الحصول على شرائح الشكل .
+يحصل على مقاطع الشكل.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مقاطع الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [BezierShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../beziershape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

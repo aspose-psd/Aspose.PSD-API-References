@@ -1,27 +1,28 @@
 ---
-title: LevlResource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: LevlResource ملكية. يحصل على الإصدار. الافتراضي هو 2
+title: "LevlResource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LevlResource. يحصل على الإصدار. الافتراضي هو 2"
 type: docs
-weight: 50
+weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/
 ---
+{{< psd/tize >}}
 ## LevlResource.Version property
 
-يحصل على الإصدار. الافتراضي هو 2
+يحصل على الإصدار. القيمة الافتراضية هي 2
 
 ```csharp
 public short Version { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الإصدار .
+الإصدار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LevlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

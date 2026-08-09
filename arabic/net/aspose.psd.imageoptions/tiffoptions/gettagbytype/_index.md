@@ -1,33 +1,34 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions طريقة. الحصول على مثيل العلامة حسب النوع.
+title: "TiffOptions.GetTagByType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffOptions. تحصل على نسخة الوسم حسب النوع"
 type: docs
-weight: 720
+weight: 730
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/gettagbytype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetTagByType method
 
-الحصول على مثيل العلامة حسب النوع.
+يحصل على نسخة العلامة حسب النوع.
 
 ```csharp
 public TiffDataType GetTagByType(TiffTags tagKey)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tagKey | TiffTags | مفتاح العلامة. |
+| tagKey | TiffTags | مفتاح الوسم. |
 
 ### قيمة الإرجاع
 
-مثيل العلامة إذا كان موجودًا أو فارغًا بخلاف ذلك.
+نسخة من الوسم إذا كان موجودًا أو null otherwise.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

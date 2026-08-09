@@ -1,70 +1,71 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBoolean البناء. يقوم بتهيئة مثيل جديد لملفXmpBoolean فئة على أساس القيمة المنطقية.
+title: "XmpBoolean.XmpBoolean"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpBoolean. يهيئ نسخة جديدة من فئة XmpBoolean بناءً على قيمة منطقية"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpBoolean`](../) فئة على أساس القيمة المنطقية.
+يُنشئ مثيلاً جديدًا من الفئة [`XmpBoolean`](../) بناءً على قيمة منطقية.
 
 ```csharp
 public XmpBoolean(bool value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Boolean | القيمة المنطقية. القيم المسموح بها هي True أو False. |
+| قيمة | Boolean | قيمة Boolean. القيم المسموح بها هي True أو False. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBoolean](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpBoolean`](../) فئة ذات قيمة افتراضية.
+يُنشئ مثيلاً جديدًا من الفئة [`XmpBoolean`](../) بالقيمة الافتراضية.
 
 ```csharp
 public XmpBoolean()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBoolean](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpBoolean`](../) فئة .
+يُنشئ مثيلاً جديدًا من الفئة [`XmpBoolean`](../).
 
 ```csharp
 public XmpBoolean(string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| قيمة | String | القيمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | قيمة |
-| ArgumentException | قيمة سلسلة غير صالحة ؛ قيمة |
+| ArgumentException | قيمة سلسلة غير صالحة;value |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBoolean](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

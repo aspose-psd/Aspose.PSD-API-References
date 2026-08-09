@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternId
-second_title: Aspose.PSD لمرجع .NET API
-description: IPatternFillSettings ملكية. الحصول على أو تحديد معرف النمط.
+title: "IPatternFillSettings.PatternId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPatternFillSettings. يحصل أو يضبط معرف النمط"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternId property
 
-الحصول على أو تحديد معرف النمط.
+يحصل أو يعيّن معرف النمط.
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف النمط .
+معرف النمط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

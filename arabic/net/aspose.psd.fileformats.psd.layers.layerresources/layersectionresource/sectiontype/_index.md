@@ -1,24 +1,25 @@
 ---
-title: LayerSectionResource.SectionType
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerSectionResource ملكية. الحصول على نوع القسم أو تحديده.
+title: "LayerSectionResource.SectionType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerSectionResource. تحصل أو تعيين نوع القسم"
 type: docs
-weight: 60
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.SectionType property
 
-الحصول على نوع القسم أو تحديده.
+يحصل أو يعيّن نوع القسم.
 
 ```csharp
 public LayerSectionType SectionType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LayerSectionType](../../layersectiontype/)
 * class [LayerSectionResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

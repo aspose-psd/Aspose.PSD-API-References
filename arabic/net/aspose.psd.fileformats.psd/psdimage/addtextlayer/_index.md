@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddTextLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة نص جديدة.
+title: "PsdImage.AddTextLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. إضافة طبقة Text جديدة"
 type: docs
-weight: 420
+weight: 470
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addtextlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddTextLayer method
 
 يضيف طبقة نص جديدة.
@@ -14,21 +15,21 @@ url: /ar/net/aspose.psd.fileformats.psd/psdimage/addtextlayer/
 public TextLayer AddTextLayer(string text, Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | نص الطبقة. |
+| نص | String | نص الطبقة. |
 | rect | Rectangle | مستطيل الطبقة. |
 
 ### قيمة الإرجاع
 
-طبقة نص تم إنشاؤها .
+تم إنشاء طبقة النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextLayer](../../../aspose.psd.fileformats.psd.layers/textlayer/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RasterImage.UseRawData
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان سيتم استخدام تحميل البيانات الأولية عند توفر تحميل البيانات الأولية.
+title: "RasterImage.UseRawData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RasterImage. تحصل أو تعين قيمة تشير إلى ما إذا كان يجب استخدام تحميل البيانات الخام عندما يكون تحميل البيانات الخام متاحًا"
 type: docs
 weight: 150
 url: /ar/net/aspose.psd/rasterimage/userawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UseRawData property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان سيتم استخدام تحميل البيانات الأولية عند توفر تحميل البيانات الأولية.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان يجب استخدام تحميل البيانات الخام عندما يكون تحميل البيانات الخام متاحًا.
 
 ```csharp
 public virtual bool UseRawData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` في حالة استخدام تحميل البيانات الأولية عند توفر تحميل البيانات الأولية ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا تم استخدام تحميل البيانات الخام عندما يكون تحميل البيانات الخام متاحًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

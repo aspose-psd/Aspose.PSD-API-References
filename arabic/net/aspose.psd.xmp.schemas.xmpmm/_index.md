@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpMm
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات المساعدة والثوابت والأساليب المستخدمة بشكل أساسي بواسطة أنظمة إدارة الأصول الرقمية DAM.
+title: "Aspose.PSD.Xmp.Schemas.XmpMm"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على الفئات المساعدة ذات الصلة والثوابت والطرق التي تُستخدم أساسًا بواسطة أنظمة إدارة الأصول الرقمية DAM"
 type: docs
-weight: 580
+weight: 620
 url: /ar/net/aspose.psd.xmp.schemas.xmpmm/
 ---
-تحتوي مساحة الاسم على فئات المساعدة والثوابت والأساليب المستخدمة بشكل أساسي بواسطة أنظمة إدارة الأصول الرقمية (DAM).
+{{< psd/tize >}}
+النطاق يحتوي على فئات وثوابت ومناهج مساعدة متعلقة تُستخدم أساسًا من قبل أنظمة إدارة الأصول الرقمية (DAM).
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
 | [XmpMediaManagementPackage](./xmpmediamanagementpackage/) | يمثل مساحة اسم إدارة وسائط XMP. |
 

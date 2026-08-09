@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: Aspose.PSD لمرجع .NET API
-description: BlendingOptions طريقة. يضيف تأثير الظل المسقط .
+title: "BlendingOptions.AddDropShadow"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة BlendingOptions. تضيف تأثير الظل الساقط"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
-يضيف تأثير الظل المسقط .
+يضيف تأثير الظل المنسدل.
 
 ```csharp
 public DropShadowEffect AddDropShadow()
@@ -16,13 +17,13 @@ public DropShadowEffect AddDropShadow()
 
 ### قيمة الإرجاع
 
-تم إنشاؤه[`DropShadowEffect`](../../dropshadoweffect/) كائن
+تم إنشاء كائن [`DropShadowEffect`](../../dropshadoweffect/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialPower
-second_title: Aspose.PSD لمرجع .NET API
-description: BilateralSmoothingFilterOptions ملكية. الحصول على القوة المكانية أو تعيينها.
+title: "BilateralSmoothingFilterOptions.SpatialPower"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "BilateralSmoothingFilterOptions خاصية. يحصل أو يضبط القوة المكانية"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialPower property
 
-الحصول على القوة المكانية أو تعيينها.
+يحصل أو يضبط قوة الفضاء.
 
 ```csharp
 public double SpatialPower { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القوة المكانية .
+القوة المكانية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BilateralSmoothingFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

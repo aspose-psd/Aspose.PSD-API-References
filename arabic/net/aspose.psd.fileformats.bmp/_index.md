@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Bmp
-second_title: Aspose.PSD لمرجع .NET API
-description: يعالج مساحة الاسم معالجة تنسيق ملف Bmp.
+title: "Aspose.PSD.FileFormats.Bmp"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تتعامل مع معالجة تنسيق ملف Bmp"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.psd.fileformats.bmp/
 ---
-يعالج مساحة الاسم معالجة تنسيق ملف Bmp.
+{{< psd/tize >}}
+مساحة الاسم تتعامل مع معالجة تنسيق ملف Bmp.
 
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [BitmapCompression](./bitmapcompression/) | تحديد طرق مختلفة لضغط الصور النقطية. |
+| [BitmapCompression](./bitmapcompression/) | يحدد طرق ضغط البت ماب المختلفة. |
 
 

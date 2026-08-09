@@ -1,44 +1,45 @@
 ---
-title: SolidBrush.SolidBrush
-second_title: Aspose.PSD لمرجع .NET API
-description: SolidBrush البناء. يقوم بتهيئة مثيل جديد لملفSolidBrush فئة .
+title: "SolidBrush.SolidBrush"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ SolidBrush. يهيئ نسخة جديدة من الفئة SolidBrush"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.brushes/solidbrush/solidbrush/
 ---
+{{< psd/tize >}}
 ## SolidBrush() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SolidBrush`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SolidBrush`](../).
 
 ```csharp
 public SolidBrush()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SolidBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../solidbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SolidBrush(Color) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SolidBrush`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SolidBrush`](../).
 
 ```csharp
 public SolidBrush(Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | Color | لون الفرشاة الصلب. |
+| لون | لون | لون الفرشاة الصلبة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../solidbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VogkResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: VogkResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "VogkResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VogkResource. تحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key/
 ---
+{{< psd/tize >}}
 ## VogkResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,7 +15,7 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key/
 public override int Key { get; }
 ```
 
-### أمثلة
+## أمثلة
 
 يوضح المثال التالي دعم مورد VogkResource.
 
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // التحرير
+    // تحرير
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VogkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

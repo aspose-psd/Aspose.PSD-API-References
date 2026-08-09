@@ -1,27 +1,28 @@
 ---
-title: LinkResource.DataSourceCount
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkResource ملكية. الحصول على عدد مصادر بيانات الارتباط التي يمكن للمفهرس الوصول إليها.
+title: "LinkResource.DataSourceCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinkResource. يحصل على عدد مصادر بيانات الارتباط التي يمكن الوصول إليها عبر الفهرس"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/
 ---
+{{< psd/tize >}}
 ## LinkResource.DataSourceCount property
 
-الحصول على عدد مصادر بيانات الارتباط التي يمكن للمفهرس الوصول إليها.
+يحصل على عدد مصادر بيانات الرابط التي يمكن الوصول إليها عبر الفهرس.
 
 ```csharp
 public int DataSourceCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد مصادر البيانات .
+عدد مصدر البيانات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

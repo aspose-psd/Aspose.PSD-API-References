@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.HorizontalMeshPoints
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تعيين نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD.
+title: "PlacedResource.HorizontalMeshPoints"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/
 ---
+{{< psd/tize >}}
 ## PlacedResource.HorizontalMeshPoints property
 
-الحصول على أو تعيين نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public double[] HorizontalMeshPoints { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 نقاط الشبكة الأفقية للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

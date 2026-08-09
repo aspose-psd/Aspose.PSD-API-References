@@ -1,105 +1,106 @@
 ---
-title: TiffRational.ApproximateFraction
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffRational طريقة. تقريب القيمة المقدمة إلى كسر .
+title: "TiffRational.ApproximateFraction"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffRational. تقرب القيمة المقدمة إلى كسر"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.tiff/tiffrational/approximatefraction/
 ---
+{{< psd/tize >}}
 ## ApproximateFraction(double, double) {#approximatefraction_1}
 
-تقريب القيمة المقدمة إلى كسر .
+يقرب القيمة المقدمة إلى كسر.
 
 ```csharp
 public static TiffRational ApproximateFraction(double value, double epsilon)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة. |
-| epsilon | Double | سمح الخطأ. |
+| قيمة | Double | القيمة. |
+| epsilon | Double | الخطأ المسموح به. |
 
 ### قيمة الإرجاع
 
-رقم منطقي به خطأ أقل من*epsilon*.
+عدد نسبي له خطأ أقل من *epsilon*.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(double) {#approximatefraction}
 
-تقريب القيمة المقدمة إلى كسر .
+يقرب القيمة المقدمة إلى كسر.
 
 ```csharp
 public static TiffRational ApproximateFraction(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة. |
+| قيمة | Double | القيمة. |
 
 ### قيمة الإرجاع
 
-رقم منطقي به خطأ أقل من[`Epsilon`](../epsilon/) .
+عدد نسبي له خطأ أقل من [`Epsilon`](../epsilon/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float, double) {#approximatefraction_3}
 
-تقريب القيمة المقدمة إلى كسر .
+يقرب القيمة المقدمة إلى كسر.
 
 ```csharp
 public static TiffRational ApproximateFraction(float value, double epsilon)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Single | القيمة. |
-| epsilon | Double | سمح الخطأ. |
+| قيمة | Single | القيمة. |
+| epsilon | Double | الخطأ المسموح به. |
 
 ### قيمة الإرجاع
 
-رقم منطقي به خطأ أقل من*epsilon*.
+عدد نسبي له خطأ أقل من *epsilon*.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float) {#approximatefraction_2}
 
-تقريب القيمة المقدمة إلى كسر .
+يقرب القيمة المقدمة إلى كسر.
 
 ```csharp
 public static TiffRational ApproximateFraction(float value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Single | القيمة. |
+| قيمة | Single | القيمة. |
 
 ### قيمة الإرجاع
 
-رقم منطقي به خطأ أقل من[`Epsilon`](../epsilon/) .
+عدد نسبي له خطأ أقل من [`Epsilon`](../epsilon/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

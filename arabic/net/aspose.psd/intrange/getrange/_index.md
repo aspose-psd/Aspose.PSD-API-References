@@ -1,39 +1,40 @@
 ---
-title: IntRange.GetRange
-second_title: Aspose.PSD لمرجع .NET API
-description: IntRange طريقة. الحصول على نطاق العد لعناصر int بدءًا من start
+title: "IntRange.GetRange"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IntRange. تحصل على نطاق العدد لعناصر int بدءًا من البداية"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/intrange/getrange/
 ---
+{{< psd/tize >}}
 ## IntRange.GetRange method
 
-الحصول على نطاق العد لعناصر int بدءًا من start
+يحصل على نطاق العد لعناصر int بدءًا من start
 
 ```csharp
 public static IEnumerable<int> GetRange(int start, int count, int delta)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| start | Int32 | البداية. |
-| count | Int32 | العد. |
-| delta | Int32 | دلتا. |
+| البداية | Int32 | البداية. |
+| العدد | Int32 | العدد. |
+| دلتا | Int32 | دلتا. |
 
 ### قيمة الإرجاع
 
-صفيف من العناصر
+مصفوفة من العناصر
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | لا يمكن أن يكون العدد محبًا أكثر من 1 أو {D255958A-8513-4226-94B9-080D98F904A1} لا يمكن أن تكون صفحة البداية عاشقًا لـ 0 |
+| ArgumentException | لا يمكن أن يكون العدد أقل من 1 أو {D255958A-8513-4226-94B9-080D98F904A1} صفحة البداية لا يمكن أن تكون أقل من 0 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IntRange](../)
-* مساحة الاسم [Aspose.PSD](../../intrange/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

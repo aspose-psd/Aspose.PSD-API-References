@@ -1,52 +1,53 @@
 ---
-title: RasterImage.ReplaceColor
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يستبدل لونًا بآخر بالاختلاف المسموح به ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف المتجانسة.
+title: "RasterImage.ReplaceColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تستبدل لونًا بآخر مع فرق مسموح به وتحافظ على قيمة ألفا الأصلية للحفاظ على حواف ناعمة"
 type: docs
-weight: 450
+weight: 460
 url: /ar/net/aspose.psd/rasterimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## ReplaceColor(Color, byte, Color) {#replacecolor}
 
-يستبدل لونًا بآخر بالاختلاف المسموح به ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف المتجانسة.
+يستبدل لونًا بآخر مع فرق مسموح ويحافظ على قيمة ألفا الأصلية للحفاظ على حواف ناعمة.
 
 ```csharp
 public void ReplaceColor(Color oldColor, byte oldColorDiff, Color newColor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| oldColor | Color | استبدال اللون القديم. |
-| oldColorDiff | Byte | يسمح الاختلاف في اللون القديم لتتمكن من توسيع درجة اللون المستبدلة. |
-| newColor | Color | لون جديد ليحل محل اللون القديم به. |
+| oldColor | لون | اللون القديم الذي سيتم استبداله. |
+| oldColorDiff | بايت | الفرق المسموح به في اللون القديم لتمكين توسيع نغمة اللون المستبدل. |
+| newColor | لون | اللون الجديد لاستبدال اللون القديم به. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceColor(int, byte, int) {#replacecolor_1}
 
-يستبدل لونًا بآخر بالاختلاف المسموح به ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف المتجانسة.
+يستبدل لونًا بآخر مع فرق مسموح ويحافظ على قيمة ألفا الأصلية للحفاظ على حواف ناعمة.
 
 ```csharp
 public virtual void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| oldColorArgb | Int32 | استبدال قيمة اللون القديم ARGB. |
-| oldColorDiff | Byte | يسمح الاختلاف في اللون القديم لتتمكن من توسيع درجة اللون المستبدلة. |
-| newColorArgb | Int32 | قيمة جديدة للون ARGB لتحل محل اللون القديم. |
+| oldColorArgb | Int32 | قيمة ARGB للون القديم التي سيتم استبدالها. |
+| oldColorDiff | بايت | الفرق المسموح به في اللون القديم لتمكين توسيع نغمة اللون المستبدل. |
+| newColorArgb | Int32 | قيمة ARGB للون الجديد لاستبدال اللون القديم به. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ImageDescription
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تحديد وصف الصورة.
+title: "TiffOptions.ImageDescription"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يضبط وصف الصورة"
 type: docs
-weight: 190
+weight: 200
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/imagedescription/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageDescription property
 
-الحصول على أو تحديد وصف الصورة.
+يحصل أو يعيّن وصف الصورة.
 
 ```csharp
 public string ImageDescription { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وصف الصورة .
+وصف الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

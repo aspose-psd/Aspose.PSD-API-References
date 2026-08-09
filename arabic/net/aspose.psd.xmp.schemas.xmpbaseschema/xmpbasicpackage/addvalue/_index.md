@@ -1,34 +1,35 @@
 ---
-title: XmpBasicPackage.AddValue
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage طريقة. يضيف خاصية السلسلة .
+title: "XmpBasicPackage.AddValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpBasicPackage. يضيف خاصية نصية"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.AddValue method
 
-يضيف خاصية السلسلة .
+يضيف خاصية نصية.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | تمثيل السلسلة للمفتاح الذي تم تحديده بالقيمة المضافة. |
-| value | String | قيمة السلسلة. |
+| المفتاح | String | التمثيل النصي للمفتاح الذي يتم التعرف عليه مع القيمة المضافة. |
+| قيمة | String | القيمة النصية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | مفتاح ؛ لم يتم توفير مفتاح البيانات الوصفية |
+| ArgumentNullException | key;لم يتم توفير مفتاح البيانات الوصفية |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

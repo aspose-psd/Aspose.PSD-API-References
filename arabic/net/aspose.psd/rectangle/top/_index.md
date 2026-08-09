@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Top
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle ملكية. الحصول على أو تحديد إحداثيات y للحافة العلوية لهذاRectangleهيكل .
+title: "Rectangle.Top"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rectangle. تُعيد أو تُعيّن إحداثي y للحد العلوي لهذه بنية Rectangle."
 type: docs
 weight: 180
 url: /ar/net/aspose.psd/rectangle/top/
 ---
+{{< psd/tize >}}
 ## Rectangle.Top property
 
-الحصول على أو تحديد إحداثيات y للحافة العلوية لهذا[`Rectangle`](../)هيكل .
+تُعيد أو تُعيّن إحداثي y للحد العلوي لهذه بنية [`Rectangle`](../).
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إحداثي ص للحافة العلوية لهذا[`Rectangle`](../)هيكل .
+إحداثي y للحد العلوي لهذه بنية [`Rectangle`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

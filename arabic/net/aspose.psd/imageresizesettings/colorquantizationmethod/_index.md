@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.ColorQuantizationMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageResizeSettings ملكية. الحصول على أو تحديد طريقة تكميم اللون.
+title: "ImageResizeSettings.ColorQuantizationMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageResizeSettings. تحصل أو تعين طريقة تمثيل اللون"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/imageresizesettings/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.ColorQuantizationMethod property
 
-الحصول على أو تحديد طريقة تكميم اللون.
+يحصل أو يضبط طريقة تكميم اللون.
 
 ```csharp
 public ColorQuantizationMethod ColorQuantizationMethod { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-طريقة تكميم اللون .
+طريقة تمثيل اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorQuantizationMethod](../../colorquantizationmethod/)
 * class [ImageResizeSettings](../)
-* مساحة الاسم [Aspose.PSD](../../imageresizesettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

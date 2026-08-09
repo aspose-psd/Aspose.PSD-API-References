@@ -1,27 +1,28 @@
 ---
-title: PhotoFilterLayer.PreserveLuminosity
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoFilterLayer ملكية. الحصول على أو تعيين قيمة تشير إلى الحفاظ على اللمعان .
+title: "PhotoFilterLayer.PreserveLuminosity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PhotoFilterLayer. تحصل أو تعيين قيمة تحدد ما إذا كان يجب الحفاظ على الإضاءة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.PreserveLuminosity property
 
-الحصول على أو تعيين قيمة تشير إلى [الحفاظ على اللمعان] .
+الحصول أو تعيين قيمة تشير إلى ما إذا كان [preserve luminosity].
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [الحفاظ على اللمعان] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [الحفاظ على الإضاءة]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoFilterLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

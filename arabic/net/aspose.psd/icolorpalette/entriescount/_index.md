@@ -1,27 +1,28 @@
 ---
-title: IColorPalette.EntriesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: IColorPalette ملكية. الحصول على عدد الإدخالات .
+title: "IColorPalette.EntriesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IColorPalette. يحصل على عدد الإدخالات"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/icolorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## IColorPalette.EntriesCount property
 
-الحصول على عدد الإدخالات .
+يحصل على عدد الإدخالات.
 
 ```csharp
 public int EntriesCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
 عدد الإدخالات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../icolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

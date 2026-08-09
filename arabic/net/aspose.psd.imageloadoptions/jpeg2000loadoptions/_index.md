@@ -1,11 +1,12 @@
 ---
-title: Class Jpeg2000LoadOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageLoadOptions.Jpeg2000LoadOptions فصل. خيارات تحميل JPEG2000
+title: "فئة Jpeg2000LoadOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.ImageLoadOptions.Jpeg2000LoadOptions. خيارات تحميل JPEG2000"
 type: docs
-weight: 4760
+weight: 5230
 url: /ar/net/aspose.psd.imageloadoptions/jpeg2000loadoptions/
 ---
+{{< psd/tize >}}
 ## Jpeg2000LoadOptions class
 
 خيارات تحميل JPEG2000
@@ -14,27 +15,27 @@ url: /ar/net/aspose.psd.imageloadoptions/jpeg2000loadoptions/
 public class Jpeg2000LoadOptions : LoadOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Jpeg2000LoadOptions](jpeg2000loadoptions/)() | يقوم بتهيئة مثيل جديد لملف`Jpeg2000LoadOptions` فئة . |
+| [Jpeg2000LoadOptions](jpeg2000loadoptions/)() | ينشئ مثلاً جديداً من الفئة `Jpeg2000LoadOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | الحصول على أو تعيين تلميح حجم المخزن المؤقت الذي تم تحديده بالحجم الأقصى المسموح به لجميع المخازن المؤقتة الداخلية. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | يحصل أو يحدد ملف[`Image`](../../aspose.psd/image/) خلفية[`Color`](../../aspose.psd/color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | الحصول على أو تعيين وضع استعادة البيانات. |
-| [MaximumDecodingTime](../../aspose.psd.imageloadoptions/jpeg2000loadoptions/maximumdecodingtime/) { get; set; } | الحصول على أو تعيين الحد الأقصى لوقت فك التشفير بالثواني (يمكن استخدام هذا الخيار على أجهزة الذاكرة البطيئة جدًا لمنع تعليق العملية على الصور الكبيرة جدًا - دقة أكثر من 5500 × 6500 بكسل) . |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | الحصول على معالج حدث التقدم أو تعيينه. |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان يجب تطبيق تحويل ملف تعريف ICC . |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | يحصل أو يعيّن تلميح حجم المخزن المؤقت الذي يُعرف كأقصى حجم مسموح به لجميع المخازن المؤقتة الداخلية. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | يحصل أو يعيّن خلفية [`Image`](../../aspose.psd/image/) [`Color`](../../aspose.psd/color/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | يحصل أو يعيّن وضع استعادة البيانات. |
+| [MaximumDecodingTime](../../aspose.psd.imageloadoptions/jpeg2000loadoptions/maximumdecodingtime/) { get; set; } | يحصل أو يعيّن الحد الأقصى لوقت فك الترميز بالثواني (يمكن استخدام هذا الخيار على الأجهزة البطيئة جداً أو ذات الذاكرة المحدودة لمنع التوقف أثناء معالجة الصور الكبيرة - الدقة أكثر من 5500x6500 بكسل). |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | يحصل أو يعيّن معالج حدث التقدم. |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب تطبيق تحويل ملف تعريف ICC. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LoadOptions](../../aspose.psd/loadoptions/)
-* مساحة الاسم [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../)
 
 

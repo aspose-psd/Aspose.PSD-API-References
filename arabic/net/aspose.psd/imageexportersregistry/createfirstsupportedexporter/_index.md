@@ -1,39 +1,40 @@
 ---
-title: ImageExportersRegistry.CreateFirstSupportedExporter
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageExportersRegistry طريقة. إنشاء أول مصدر تم العثور عليه مناسبًا لخيارات الحفظ والصورة المحددة.
+title: "ImageExportersRegistry.CreateFirstSupportedExporter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageExportersRegistry. تُنشئ أول مُصدِّر تم العثور عليه مناسب لخيارات الحفظ المحددة والصورة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/imageexportersregistry/createfirstsupportedexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.CreateFirstSupportedExporter method
 
-إنشاء أول مصدر تم العثور عليه مناسبًا لخيارات الحفظ والصورة المحددة.
+ينشئ أول مُصدِّر يتم العثور عليه مناسب لخيارات الحفظ المحددة والصورة.
 
 ```csharp
 public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOptionsBase options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد تصديرها. |
-| options | ImageOptionsBase | خيارات الحفظ لاستخدامها في التصدير. |
+| صورة | صورة | الصورة المراد تصديرها. |
+| خيارات | ImageOptionsBase | خيارات الحفظ المستخدمة للتصدير. |
 
 ### قيمة الإرجاع
 
-المصدر الذي يدعم الصورة المحددة وخيارات الحفظ أو لاغٍ إذا لم يتم العثور على مثل هذا المصدر.
+المُصدِّر الذي يدعم الصورة المحددة وخيارات الحفظ أو null إذا لم يتم العثور على مثل هذا المُصدِّر.
 
-### ملاحظات
+## ملاحظات
 
-سيكون المصدر الأول هو آخر مصدر مسجل.
+المُصدِّر الأول سيكون في الواقع الأخير المسجَّل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageExporter](../../iimageexporter/)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageexportersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

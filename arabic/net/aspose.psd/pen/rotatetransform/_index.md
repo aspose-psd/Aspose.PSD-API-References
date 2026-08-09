@@ -1,49 +1,50 @@
 ---
-title: Pen.RotateTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen طريقة. يدير التحويل الهندسي المحلي بالزاوية المحددة. تعمل هذه الطريقة على تمهيد الدوران للتحويل.
+title: "Pen.RotateTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Pen. تدور التحويل الهندسي المحلي بالزاوية المحددة. هذه الطريقة تُضيف الدوران إلى بداية التحويل."
 type: docs
 weight: 210
 url: /ar/net/aspose.psd/pen/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-يدير التحويل الهندسي المحلي بالزاوية المحددة. تعمل هذه الطريقة على تمهيد الدوران للتحويل.
+يدور التحويل الهندسي المحلي بالزاوية المحددة. تُضيف هذه الطريقة الدوران إلى بداية التحويل.
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| angle | Single | زاوية الدوران. |
+| الزاوية | Single | زاوية الدوران. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-يقوم بتدوير التحويل الهندسي المحلي بالزاوية المحددة بالترتيب المحدد.
+يدور التحويل الهندسي المحلي بالزاوية المحددة بالترتيب المحدد.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| angle | Single | زاوية الدوران. |
-| order | MatrixOrder | أ[`MatrixOrder`](../../matrixorder/) التي تحدد ما إذا كان سيتم إلحاق مصفوفة التدوير أو إضافتها مسبقًا. |
+| الزاوية | Single | زاوية الدوران. |
+| order | MatrixOrder | محدد [`MatrixOrder`](../../matrixorder/) يحدد ما إذا كان سيتم إلحاق أو إلحاق مسبق لمصفوفة الدوران. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

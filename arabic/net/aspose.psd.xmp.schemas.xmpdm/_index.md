@@ -1,28 +1,29 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpDm
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات المساعدة والثوابت والأساليب التي تستخدمها مجموعة الوسائط الديناميكية Adobe ذات الصلة بـ XMP.
+title: "Aspose.PSD.Xmp.Schemas.XmpDm"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تحتوي على فئات المساعدة المتعلقة بـ XMP والثوابت والطرق المستخدمة من قبل مجموعة الوسائط الديناميكية من Adobe"
 type: docs
-weight: 570
+weight: 610
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/
 ---
-تحتوي مساحة الاسم على فئات المساعدة والثوابت والأساليب التي تستخدمها مجموعة الوسائط الديناميكية Adobe ذات الصلة بـ XMP.
+{{< psd/tize >}}
+النطاق يحتوي على فئات وثوابت ومناهج مساعدة متعلقة بـ XMP تُستخدم من قبل مجموعة Adobe Dynamic Media.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [AudioChannelType](./audiochanneltype/) | يمثل نوع القناة الصوتية. |
-| [AudioSampleType](./audiosampletype/) | يمثل نوع عينة الصوت بتنسيق[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
-| [ProjectLink](./projectlink/) | يمثل مسار المشروع . |
-| [Time](./time/) | تمثيل قيمة الوقت بالثواني . |
-| [Timecode](./timecode/) | يمثل قيمة الرمز الزمني في الفيديو . |
-| [TimeFormat](./timeformat/) | يمثل تنسيق الوقت بتنسيق[`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/) . |
-| [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | يمثل مساحة أسماء الوسائط الديناميكية XMP. |
+| [AudioChannelType](./audiochanneltype/) | يمثل نوع قناة الصوت. |
+| [AudioSampleType](./audiosampletype/) | يمثل نوع عينة الصوت في [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/). |
+| [ProjectLink](./projectlink/) | يمثل مسار المشروع. |
+| [Time](./time/) | تمثيل قيمة الوقت بالثواني. |
+| [Timecode](./timecode/) | يمثل قيمة رمز الوقت في الفيديو. |
+| [TimeFormat](./timeformat/) | يمثل تنسيق الوقت في [`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/). |
+| [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | يمثل مساحة اسم XMP Dynamic Media. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [ProjectType](./projecttype/) | يمثل نوع المشروع بتنسيق[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [ProjectType](./projecttype/) | يمثل نوع المشروع في [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/). |
 
 

@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Jpeg2000
-second_title: Aspose.PSD لمرجع .NET API
-description: يعالج مساحة الاسم معالجة تنسيق ملف Jpeg2000 .
+title: "Aspose.PSD.FileFormats.Jpeg2000"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تتعامل مع معالجة تنسيق ملف Jpeg2000"
 type: docs
-weight: 170
+weight: 180
 url: /ar/net/aspose.psd.fileformats.jpeg2000/
 ---
-يعالج مساحة الاسم معالجة تنسيق ملف Jpeg2000 .
+{{< psd/tize >}}
+مساحة الاسم تتعامل مع معالجة تنسيق ملف Jpeg2000
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [Jpeg2000CustomException](./jpeg2000customexception/) | إنشاء كود Jpeg2000 OpenJpeg استثناء |
+| [Jpeg2000CustomException](./jpeg2000customexception/) | استثناء تم إنشاؤه بواسطة كود OpenJpeg لتنسيق Jpeg2000 |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [Jpeg2000Codec](./jpeg2000codec/) | يمثل نوع الصورة JPEG2000 |
+| [Jpeg2000Codec](./jpeg2000codec/) | يمثل نوع صورة JPEG2000 |
 
 

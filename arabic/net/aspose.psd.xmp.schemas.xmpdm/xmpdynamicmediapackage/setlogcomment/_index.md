@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetLogComment
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يحدد تعليق سجل المستخدم .
+title: "XmpDynamicMediaPackage.SetLogComment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. تُعيّن تعليق سجل المستخدم"
 type: docs
 weight: 270
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetLogComment method
 
-يحدد تعليق سجل المستخدم .
+يضبط تعليق سجل المستخدم.
 
 ```csharp
 public void SetLogComment(string comment)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| comment | String | التعليق. |
+| تعليق | String | التعليق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

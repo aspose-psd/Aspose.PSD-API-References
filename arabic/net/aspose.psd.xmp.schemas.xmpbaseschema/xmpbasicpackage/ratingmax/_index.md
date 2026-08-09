@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMax
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage مجال. الحد الأقصى لقيمة التقييم .
+title: "XmpBasicPackage.RatingMax"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل XmpBasicPackage. القيمة القصوى للتقييم"
 type: docs
-weight: 100
+weight: 130
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMax field
 
-الحد الأقصى لقيمة التقييم .
+القيمة القصوى للتقييم.
 
 ```csharp
 public const int RatingMax;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

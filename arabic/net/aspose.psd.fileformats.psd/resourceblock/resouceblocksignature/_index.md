@@ -1,23 +1,24 @@
 ---
-title: ResourceBlock.ResouceBlockSignature
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceBlock مجال. توقيع مورد Photoshop العادي .
+title: "ResourceBlock.ResouceBlockSignature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ResourceBlock. توقيع مورد Photoshop العادي"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd/resourceblock/resouceblocksignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockSignature field
 
-توقيع مورد Photoshop العادي .
+توقيع المورد العادي في Photoshop.
 
 ```csharp
 public const int ResouceBlockSignature;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

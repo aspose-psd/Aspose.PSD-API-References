@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.CompositeBlendRange
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerBlendingRangesData ملكية. الحصول على أو تعيين نطاقات المزج المركب.
+title: "LayerBlendingRangesData.CompositeBlendRange"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerBlendingRangesData. يحصل أو يضبط نطاقات الدمج المركبة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.CompositeBlendRange property
 
-الحصول على أو تعيين نطاقات المزج المركب.
+يحصل على أو يضبط نطاقات الدمج المركبة.
 
 ```csharp
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نطاقات المزج المركب .
+نطاقات الدمج المركبة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

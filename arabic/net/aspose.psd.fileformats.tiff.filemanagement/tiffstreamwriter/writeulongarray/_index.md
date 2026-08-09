@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteULongArray
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب مصفوفة من قيم الأعداد الصحيحة بدون إشارة إلى الدفق.
+title: "TiffStreamWriter.WriteULongArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. تكتب مصفوفة من القيم الصحيحة غير الموقعة إلى التدفق"
 type: docs
 weight: 210
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteULongArray method
 
-يكتب مصفوفة من قيم الأعداد الصحيحة بدون إشارة إلى الدفق.
+يكتب مصفوفة من القيم الصحيحة غير الموقعة إلى الدفق.
 
 ```csharp
 public void WriteULongArray(uint[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | UInt32[] | المصفوفة للكتابة. |
+| البيانات | UInt32[] | المصفوفة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

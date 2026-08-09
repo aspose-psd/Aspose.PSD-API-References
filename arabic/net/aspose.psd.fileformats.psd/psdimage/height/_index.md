@@ -1,27 +1,28 @@
 ---
-title: PsdImage.Height
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على ارتفاع الصورة .
+title: "PsdImage.Height"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. يحصل على ارتفاع الصورة"
 type: docs
 weight: 160
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/height/
 ---
+{{< psd/tize >}}
 ## PsdImage.Height property
 
-الحصول على ارتفاع الصورة .
+يحصل على ارتفاع الصورة.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
 ارتفاع الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

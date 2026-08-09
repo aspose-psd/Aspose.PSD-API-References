@@ -1,37 +1,38 @@
 ---
-title: MixrResource.GetChannelInfo
-second_title: Aspose.PSD لمرجع .NET API
-description: MixrResource طريقة. يحصل على بيانات أولية لمعلومات القناة
+title: "MixrResource.GetChannelInfo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة MixrResource. تحصل على البيانات الخام لمعلومات القناة"
 type: docs
-weight: 70
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.GetChannelInfo method
 
-يحصل على بيانات أولية لمعلومات القناة
+يحصل على البيانات الخام لمعلومات القناة.
 
 ```csharp
 public byte[] GetChannelInfo(int channelIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | channelIndex | Int32 | فهرس القناة. |
 
 ### قيمة الإرجاع
 
-مجموعة البايت الخام لمعلومات القناة.
+مصفوفة بايتات خام لمعلومات القناة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | لا يحتوي مورد Mixr على أكثر من 4 قنوات. مؤشر القناة الأولى هو 0 |
+| ArgumentException | مورد Mixr لا يحتوي على أكثر من 4 قنوات. فهرس القناة الأولى هو 0 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MixrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpDate.GetXmpRepresentation
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDate طريقة. سلسلة إرجاع القيمة المضمنة بتنسيق XMP.
+title: "XmpDate.GetXmpRepresentation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDate. تُعيد القيمة المتضمنة كسلسلة بتنسيق XMP"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpDate.GetXmpRepresentation method
 
-سلسلة إرجاع القيمة المضمنة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### قيمة الإرجاع
 
-ترجع السلسلة القيمة المحتواة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDate](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

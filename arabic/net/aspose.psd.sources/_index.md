@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.Sources
-second_title: Aspose.PSD لمرجع .NET API
-description: يحتوي Namespace على مصادر دفق مختلفة مناسبة لتدفق بيانات الإدخال أو الإخراج.
+title: "Aspose.PSD.Sources"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Namespace يحتوي على مصادر تدفق مختلفة مناسبة لتدفق البيانات الإدخال أو الإخراج."
 type: docs
-weight: 510
+weight: 550
 url: /ar/net/aspose.psd.sources/
 ---
-يحتوي Namespace على مصادر دفق مختلفة مناسبة لتدفق بيانات الإدخال أو الإخراج.
+{{< psd/tize >}}
+النطاق يحتوي على مصادر تدفق مختلفة مناسبة لتدفق البيانات الإدخال أو الإخراج.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [FileCreateSource](./filecreatesource/) | يمثل مصدر ملف للإنشاء . |
-| [FileOpenSource](./fileopensource/) | يمثل مصدر ملف للفتح. |
-| [FileSource](./filesource/) | يمثل مصدر ملف قادر على معالجة الملفات. |
-| [StreamSource](./streamsource/) | يمثل مصدر دفق . |
+| [FileCreateSource](./filecreatesource/) | يمثّل مصدر ملف للإنشاء. |
+| [FileOpenSource](./fileopensource/) | يمثّل مصدر ملف للفتح. |
+| [FileSource](./filesource/) | يمثّل مصدر ملف قادر على معالجة الملفات. |
+| [StreamSource](./streamsource/) | يمثّل مصدر تدفق. |
 
 

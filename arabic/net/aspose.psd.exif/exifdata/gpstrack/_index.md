@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSTrack
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد اتجاه حركة مستقبل GPS.
+title: "ExifData.GPSTrack"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يسترجع أو يعيّن اتجاه حركة مستقبل GPS"
 type: docs
 weight: 650
 url: /ar/net/aspose.psd.exif/exifdata/gpstrack/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrack property
 
-الحصول على أو تحديد اتجاه حركة مستقبل GPS.
+الحصول أو تعيين اتجاه حركة مستقبل GPS.
 
 ```csharp
 public string GPSTrack { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اتجاه حركة مستقبل GPS .
+اتجاه حركة مستقبل GPS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

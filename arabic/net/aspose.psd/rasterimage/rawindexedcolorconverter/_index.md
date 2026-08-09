@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawIndexedColorConverter
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage ملكية. الحصول على أو تعيين محول الألوان المفهرس
+title: "RasterImage.RawIndexedColorConverter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RasterImage. تحصل أو تعيين محول اللون المفهرس"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/rasterimage/rawindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawIndexedColorConverter property
 
-الحصول على أو تعيين محول الألوان المفهرس
+يحصل أو يضبط محول اللون المفهرس
 
 ```csharp
 public IIndexedColorConverter RawIndexedColorConverter { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 محول اللون المفهرس
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

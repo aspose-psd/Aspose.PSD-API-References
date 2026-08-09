@@ -1,69 +1,70 @@
 ---
-title: KnkoResource.KnkoResource
-second_title: Aspose.PSD لمرجع .NET API
-description: KnkoResource البناء. يقوم بتهيئة مثيل جديد لملفKnkoResource فئة .
+title: "KnkoResource.KnkoResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ KnkoResource. يهيئ مثيلاً جديداً من فئة KnkoResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource(bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`KnkoResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource(bool knockout)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| knockout | Boolean | إذا تم التعيين على`حقيقي` [مزيج العناصر الداخلية]. |
+| knockout | Boolean | إذا تم تعيينه إلى `true` [blend interior elements]. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KnkoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`KnkoResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KnkoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`KnkoResource`](../) class. بقيمة مخصصة أو غير معروفة
+يهيئ مثيلاً جديداً من الفئة [`KnkoResource`](../). بقيمة مخصصة أو غير معروفة
 
 ```csharp
 public KnkoResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات الموارد. |
+| البيانات | Byte[] | بيانات المورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | قيمة مورد Knko غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KnkoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

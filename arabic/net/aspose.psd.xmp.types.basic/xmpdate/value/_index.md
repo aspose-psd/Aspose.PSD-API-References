@@ -1,27 +1,28 @@
 ---
-title: XmpDate.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDate ملكية. الحصول على قيمة التاريخ أو تعيينها.
+title: "XmpDate.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpDate. تحصل أو تعيّن قيمة التاريخ"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.basic/xmpdate/value/
 ---
+{{< psd/tize >}}
 ## XmpDate.Value property
 
-الحصول على قيمة التاريخ أو تعيينها.
+يحصل أو يضبط قيمة التاريخ.
 
 ```csharp
 public DateTime Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة التاريخ .
+قيمة التاريخ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDate](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

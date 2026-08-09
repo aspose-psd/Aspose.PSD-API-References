@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSByteArray
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب صفيفًا من قيم البايت الموقعة إلى الدفق.
+title: "TiffStreamWriter.WriteSByteArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. تكتب مصفوفة من القيم البايتية الموقعة إلى الدفق"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSByteArray method
 
-يكتب صفيفًا من قيم البايت الموقعة إلى الدفق.
+يكتب مصفوفة من قيم البايت الموقعة إلى التدفق.
 
 ```csharp
 public void WriteSByteArray(sbyte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | SByte[] | المصفوفة للكتابة. |
+| البيانات | SByte[] | المصفوفة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

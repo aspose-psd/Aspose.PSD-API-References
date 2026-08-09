@@ -1,56 +1,57 @@
 ---
-title: PsdColorPalette.GetNearestColorIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdColorPalette طريقة. الحصول على فهرس أقرب لون .
+title: "PsdColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdColorPalette. تحصل على فهرس أقرب لون"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.fileformats.psd/psdcolorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
-الحصول على فهرس أقرب لون .
+يحصل على فهرس أقرب لون.
 
 ```csharp
 public int GetNearestColorIndex(int argb32Color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| argb32Color | Int32 | لون ARGB 32 بت. |
+| argb32Color | Int32 | لون ARGB 32-بت. |
 
 ### قيمة الإرجاع
 
 فهرس أقرب لون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetNearestColorIndex(Color) {#getnearestcolorindex}
 
-الحصول على فهرس أقرب لون .
+يحصل على فهرس أقرب لون.
 
 ```csharp
 public int GetNearestColorIndex(Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | Color | اللون. |
+| لون | لون | اللون. |
 
 ### قيمة الإرجاع
 
 فهرس أقرب لون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

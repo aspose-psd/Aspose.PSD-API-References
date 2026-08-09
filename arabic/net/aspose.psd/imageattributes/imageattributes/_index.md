@@ -1,23 +1,24 @@
 ---
-title: ImageAttributes.ImageAttributes
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes البناء. Default_Constructor
+title: "ImageAttributes.ImageAttributes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ImageAttributes. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/imageattributes/imageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributes constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public ImageAttributes()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

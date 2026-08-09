@@ -1,31 +1,32 @@
 ---
-title: Rectangle.IntersectsWith
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. لتحديد ما إذا كان هذا المستطيل يتقاطع معrect .
+title: "Rectangle.IntersectsWith"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تحدد ما إذا كان هذا المستطيل يتقاطع مع rect"
 type: docs
 weight: 250
 url: /ar/net/aspose.psd/rectangle/intersectswith/
 ---
+{{< psd/tize >}}
 ## Rectangle.IntersectsWith method
 
-لتحديد ما إذا كان هذا المستطيل يتقاطع مع*rect* .
+يحدد ما إذا كان هذا المستطيل يتقاطع مع *rect*.
 
 ```csharp
 public bool IntersectsWith(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | المستطيل المراد اختباره. |
+| rect | Rectangle | المستطيل للاختبار. |
 
 ### قيمة الإرجاع
 
-هذه الطريقة ترجع صوابًا إذا كان هناك أي تقاطع ، وإلا فهي خاطئة.
+تُعيد هذه الطريقة true إذا كان هناك أي تقاطع، وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: PixelDataFormat.GetYCbCr
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. الحصول على لون YCbCr بعدد محدد من وحدات البت لكل عينة.
+title: "PixelDataFormat.GetYCbCr"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PixelDataFormat. يحصل على لون YCbCr بعدد محدد من البتات لكل عينة"
 type: docs
 weight: 280
 url: /ar/net/aspose.psd/pixeldataformat/getycbcr/
 ---
+{{< psd/tize >}}
 ## GetYCbCr(int) {#getycbcr}
 
-الحصول على لون YCbCr بعدد محدد من وحدات البت لكل عينة.
+يحصل على لون YCbCr بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetYCbCr(int bitsPerSample)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bitsPerSample | Int32 | عدد البتات لكل عينة. |
 
@@ -22,23 +23,23 @@ public static PixelDataFormat GetYCbCr(int bitsPerSample)
 
 لون YCbCr.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetYCbCr(int, int, int) {#getycbcr_1}
 
-الحصول على لون YCbCr بعدد محدد من وحدات البت لكل عينة.
+يحصل على لون YCbCr بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetYCbCr(int bitsPerY, int bitsPerCb, int bitsPerCr)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bitsPerY | Int32 | عدد البتات لكل قناة Y. |
 | bitsPerCb | Int32 | عدد البتات لكل قناة Cb. |
@@ -48,10 +49,10 @@ public static PixelDataFormat GetYCbCr(int bitsPerY, int bitsPerCb, int bitsPerC
 
 لون YCbCr.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LinkDataSource.Type
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkDataSource ملكية. الحصول على نوع مصدر بيانات الارتباط العالمي Adobe Photoshop الذي يمكن أن يكون أحد الأنواع التالية أو لا شيء liFD الملف المرتبط المضمن الذي يتوافق مع PSD Lnk2Resource ملف PSD المرتبط الخارجي liFE الذي يتوافق مع LnkeResource الاسم المستعار للملف المرتبط liFA
+title: "LinkDataSource.Type"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinkDataSource. تُعيد نوع مصدر بيانات الارتباط العالمي لـ Adobe Photoshop والذي يمكن أن يكون أحد التالي أو لا شيء: ملف الارتباط المضمّن liFD الذي يتCorrespond إلى مورد PSD Lnk2Resource؛ ملف الارتباط الخارجي liFE الذي يتCorrespond إلى مورد PSD LnkeResource؛ اسم مستعار ملف الارتباط liFA"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Type property
 
-الحصول على نوع مصدر بيانات الارتباط العالمي Adobe® Photoshop® الذي يمكن أن يكون أحد الأنواع التالية أو لا شيء: liFD الملف المرتبط المضمن الذي يتوافق مع PSD Lnk2Resource ملف PSD المرتبط الخارجي liFE الذي يتوافق مع LnkeResource الاسم المستعار للملف المرتبط liFA
+يحصل على نوع مصدر بيانات الارتباط العالمي لـ Adobe® Photoshop® والذي يمكن أن يكون أحد التالي أو لا شيء: ملف الارتباط المدمج liFD الذي يت对应 مع مورد PSD Lnk2Resource، ملف الارتباط الخارجي liFE الذي يت对应 مع مورد PSD LnkeResource، اسم مستعار ملف الارتباط liFA.
 
 ```csharp
 public LinkDataSourceType Type { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع مصدر بيانات ارتباط PSD .
+نوع مصدر بيانات ارتباط PSD.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LinkDataSourceType](../../linkdatasourcetype/)
 * class [LinkDataSource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

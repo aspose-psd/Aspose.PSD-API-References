@@ -1,11 +1,12 @@
 ---
-title: PsdImage.IsFlatten
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. يحصل على قيمة تشير إلى ما إذا كانت صورة psd مسطحة.
+title: "PsdImage.IsFlatten"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل على قيمة تشير إلى ما إذا كانت صورة PSD مسطحة"
 type: docs
 weight: 190
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/isflatten/
 ---
+{{< psd/tize >}}
 ## PsdImage.IsFlatten property
 
 يحصل على قيمة تشير إلى ما إذا كانت صورة psd مسطحة.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.psd/psdimage/isflatten/
 public bool IsFlatten { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تسطيح هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا المثيل مسطحًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

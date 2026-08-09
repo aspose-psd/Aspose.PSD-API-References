@@ -1,27 +1,28 @@
 ---
-title: RenditionClass.Token
-second_title: Aspose.PSD لمرجع .NET API
-description: RenditionClass ملكية. الحصول على الرمز المميز أو تعيينه.
+title: "RenditionClass.Token"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RenditionClass. يحصل أو يعيّن الرمز"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.derived/renditionclass/token/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Token property
 
-الحصول على الرمز المميز أو تعيينه.
+يحصل على أو يضبط الرمز.
 
 ```csharp
 public string Token { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الرمز المميز .
+الرمز.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RenditionClass](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

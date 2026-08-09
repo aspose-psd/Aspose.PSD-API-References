@@ -1,27 +1,28 @@
 ---
-title: Configuration.BufferSizeHint
-second_title: Aspose.PSD لمرجع .NET API
-description: Configuration ملكية. الحصول على أو تعيين تلميح حجم المخزن المؤقت الذي تم تحديده بالحجم الأقصى المسموح به لجميع المخازن المؤقتة الداخلية.
+title: "Configuration.BufferSizeHint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Configuration. يحصل على أو يضبط تلميح حجم المخزن المؤقت الذي يُعرف كأقصى حجم مسموح به لجميع المخازن الداخلية"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.memorymanagement/configuration/buffersizehint/
 ---
+{{< psd/tize >}}
 ## Configuration.BufferSizeHint property
 
-الحصول على أو تعيين تلميح حجم المخزن المؤقت الذي تم تحديده بالحجم الأقصى المسموح به لجميع المخازن المؤقتة الداخلية.
+يحصل أو يعيّن تلميح حجم المخزن المؤقت الذي يُعرف كأقصى حجم مسموح به لجميع المخازن المؤقتة الداخلية.
 
 ```csharp
 public static int BufferSizeHint { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تلميح حجم المخزن المؤقت بالميغابايت . القيمة غير الموجبة تعني عدم وجود قيود على الذاكرة للمخازن المؤقتة الداخلية
+تلميح حجم المخزن المؤقت، بالميغابايت. القيمة غير الموجبة تعني عدم وجود حد للذاكرة للمخازن الداخلية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Configuration](../)
-* مساحة الاسم [Aspose.PSD.MemoryManagement](../../configuration/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.MemoryManagement](../../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,39 @@
 ---
-title: ImageLoadersRegistry.CreateFirstSupportedLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageLoadersRegistry طريقة. إنشاء أول محمل يتم العثور عليه مناسبًا لما هو محددstream واختيارياloadOptions .
+title: "ImageLoadersRegistry.CreateFirstSupportedLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ImageLoadersRegistry method. تُنشئ أول محمل تم العثور عليه مناسب للمسار المحدد و اختياريًا loadOptions"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/imageloadersregistry/createfirstsupportedloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.CreateFirstSupportedLoader method
 
-إنشاء أول محمل يتم العثور عليه مناسبًا لما هو محدد*stream* واختياريا*loadOptions* .
+ينشئ أول محمل يتم العثور عليه المناسب لـ *stream* المحدد وبشكل اختياري *loadOptions*.
 
 ```csharp
 public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions loadOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| stream | Stream | التدفق. |
 | loadOptions | LoadOptions | خيارات التحميل. |
 
 ### قيمة الإرجاع
 
-المُحمل الذي يدعم ملفات*stream* و*loadOptions* أو لاغية إذا لم يتم العثور على هذا المحمل.
+المحمل الذي يدعم *stream* و *loadOptions* المحددين أو null إذا لم يُعثر على محمل من هذا النوع.
 
-### ملاحظات
+## ملاحظات
 
-سيكون المحمل الأول هو آخر محمل مسجل.
+المحمّل الأول سيكون في الواقع الأخير المسجل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageLoader](../../iimageloader/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageloadersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

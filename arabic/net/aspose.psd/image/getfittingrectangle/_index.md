@@ -1,63 +1,64 @@
 ---
-title: Image.GetFittingRectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. يحصل على مستطيل يناسب الصورة الحالية.
+title: "Image.GetFittingRectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تحصل على المستطيل الذي يناسب الصورة الحالية"
 type: docs
-weight: 270
+weight: 280
 url: /ar/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
-يحصل على مستطيل يناسب الصورة الحالية.
+يحصل على المستطيل الذي يناسب الصورة الحالية.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المطلوب الحصول على مستطيل مناسب لـ. |
-| width | Int32 | عرض الكائن . |
-| height | Int32 | ارتفاع الكائن . |
+| مستطيل | Rectangle | المستطيل للحصول على المستطيل المناسب. |
+| العرض | Int32 | عرض الكائن. |
+| الارتفاع | Int32 | ارتفاع الكائن. |
 
 ### قيمة الإرجاع
 
-المستطيل الملائم أو الاستثناء في حالة عدم العثور على مستطيل مناسب.
+المستطيل المناسب أو استثناء إذا لم يتم العثور على مستطيل مناسب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFittingRectangle(Rectangle, int[], int, int) {#getfittingrectangle_1}
 
-يحصل على مستطيل يناسب الصورة الحالية.
+يحصل على المستطيل الذي يناسب الصورة الحالية.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, int width, 
     int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المطلوب الحصول على مستطيل مناسب لـ. |
-| pixels | Int32[] | وحدات البكسل ARGB 32 بت . |
-| width | Int32 | عرض الكائن . |
-| height | Int32 | ارتفاع الكائن . |
+| مستطيل | Rectangle | المستطيل للحصول على المستطيل المناسب. |
+| بكسلات | Int32[] | بكسلات ARGB 32-بت. |
+| العرض | Int32 | عرض الكائن. |
+| الارتفاع | Int32 | ارتفاع الكائن. |
 
 ### قيمة الإرجاع
 
-المستطيل الملائم أو الاستثناء في حالة عدم العثور على مستطيل مناسب.
+المستطيل المناسب أو استثناء إذا لم يتم العثور على مستطيل مناسب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

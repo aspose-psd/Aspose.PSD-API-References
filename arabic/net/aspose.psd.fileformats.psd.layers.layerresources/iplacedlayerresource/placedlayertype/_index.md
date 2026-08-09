@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.PlacedLayerType
-second_title: Aspose.PSD لمرجع .NET API
-description: IPlacedLayerResource ملكية. الحصول على أو تحديد نوع الطبقة الموضوعة في ملف PSD.
+title: "IPlacedLayerResource.PlacedLayerType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPlacedLayerResource. يحصل أو يضبط نوع الطبقة الموضوعة في ملف PSD"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PlacedLayerType property
 
-الحصول على أو تحديد نوع الطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط نوع الطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الطبقة الموضوعة .
+نوع الطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * interface [IPlacedLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

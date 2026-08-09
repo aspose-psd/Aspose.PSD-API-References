@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HDpi
-second_title: Aspose.PSD لمرجع .NET API
-description: ResolutionInfoResource ملكية. أفقي DPI.
+title: "ResolutionInfoResource.HDpi"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResolutionInfoResource. DPI أفقي"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HDpi property
 
-أفقي DPI.
+دقة DPI الأفقية.
 
 ```csharp
 public FixedPointDecimal HDpi { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة في البوصة الأفقية .
+دقة DPI الأفقية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

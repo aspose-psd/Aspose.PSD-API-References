@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.RectangleWidth
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleProjectedShape ملكية. الحصول على عرض المستطيل .
+title: "RectangleProjectedShape.RectangleWidth"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleProjectedShape. تُرجع عرض المستطيل"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleWidth property
 
-الحصول على عرض المستطيل .
+يحصل على عرض المستطيل.
 
 ```csharp
 public double RectangleWidth { get; }
 ```
 
-### Property_Value
+### Property Value
 
 عرض المستطيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RectangleProjectedShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

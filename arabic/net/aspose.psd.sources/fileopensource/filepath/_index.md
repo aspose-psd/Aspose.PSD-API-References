@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FilePath
-second_title: Aspose.PSD لمرجع .NET API
-description: FileOpenSource ملكية. يحصل على مسار الملف للفتح .
+title: "FileOpenSource.FilePath"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FileOpenSource. تحصّل على مسار الملف للفتح"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.sources/fileopensource/filepath/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.FilePath property
 
-يحصل على مسار الملف للفتح .
+يحصل على مسار الملف للفتح.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مسار الملف المراد فتحه.
+مسار الملف للفتح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileOpenSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../fileopensource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

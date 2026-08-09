@@ -1,53 +1,54 @@
 ---
-title: Class LyidResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource فصل. فئة LyidResource.
+title: "الفئة LyidResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource الفئة. الفئة LyidResource"
 type: docs
-weight: 2810
+weight: 3140
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource class
 
-فئة LyidResource.
+الفئة LyidResource.
 
 ```csharp
 public class LyidResource : LayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LyidResource](lyidresource/#constructor)(byte[]) | يقوم بتهيئة مثيل جديد لملف`LyidResource` class. بقيمة مخصصة أو غير معروفة |
-| [LyidResource](lyidresource/#constructor_1)(int) | يقوم بتهيئة مثيل جديد لملف`LyidResource` فئة . |
+| [LyidResource](lyidresource/#constructor)(byte[]) | يُهيئ مثيلاً جديداً من الفئة `LyidResource`. بقيمة مخصصة أو غير معروفة |
+| [LyidResource](lyidresource/#constructor_1)(int) | يُهيئ مثيلاً جديداً من الفئة `LyidResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/) { get; } | يحصل على التوقيع. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | يحصل على القيمة . |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | يحصل على القيمة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | يحفظ في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | يحفظ إلى حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

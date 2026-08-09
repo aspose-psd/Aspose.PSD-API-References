@@ -1,40 +1,41 @@
 ---
-title: Class BilateralSmoothingFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.BilateralSmoothingFilterOptions فصل. خيارات مرشح التنعيم الثنائي .
+title: "الفئة BilateralSmoothingFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageFilters.FilterOptions.BilateralSmoothingFilterOptions. خيارات مرشح التنعيم الثنائي الاتجاه"
 type: docs
-weight: 4660
+weight: 5130
 url: /ar/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions class
 
-خيارات مرشح التنعيم الثنائي .
+خيارات فلتر التنعيم الثنائي.
 
 ```csharp
 public class BilateralSmoothingFilterOptions : FilterOptionsBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor)() | يقوم بتهيئة مثيل جديد لملف`BilateralSmoothingFilterOptions` فئة . |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor_1)(int) | يقوم بتهيئة مثيل جديد لملف`BilateralSmoothingFilterOptions` فئة . |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor)() | يُنشئ نسخة جديدة من الفئة `BilateralSmoothingFilterOptions`. |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor_1)(int) | يُنشئ نسخة جديدة من الفئة `BilateralSmoothingFilterOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ColorFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/) { get; set; } | الحصول على عامل اللون أو تعيينه . |
-| [ColorPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/) { get; set; } | الحصول على قوة اللون أو تعيينها . |
-| [Size](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/) { get; set; } | الحصول على حجم النواة أو تحديده. |
-| [SpatialFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/) { get; set; } | الحصول على أو تعيين العامل المكاني . |
-| [SpatialPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/) { get; set; } | الحصول على القوة المكانية أو تعيينها. |
+| [ColorFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/) { get; set; } | يحصل أو يضبط معامل اللون. |
+| [ColorPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/) { get; set; } | يحصل أو يضبط قوة اللون. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/) { get; set; } | يحصل أو يضبط حجم النواة. |
+| [SpatialFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/) { get; set; } | يحصل أو يضبط معامل الفضاء. |
+| [SpatialPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/) { get; set; } | يحصل أو يضبط قوة الفضاء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

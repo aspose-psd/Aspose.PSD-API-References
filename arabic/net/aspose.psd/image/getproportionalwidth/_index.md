@@ -1,33 +1,34 @@
 ---
-title: Image.GetProportionalWidth
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. الحصول على عرض نسبي .
+title: "Image.GetProportionalWidth"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تحصل على عرض متناسب"
 type: docs
-weight: 290
+weight: 300
 url: /ar/net/aspose.psd/image/getproportionalwidth/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalWidth method
 
-الحصول على عرض نسبي .
+يحصل على عرض متناسب.
 
 ```csharp
 public static int GetProportionalWidth(int width, int height, int newHeight)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | العرض. |
-| height | Int32 | الإرتفاع. |
+| العرض | Int32 | العرض. |
+| الارتفاع | Int32 | الارتفاع. |
 | newHeight | Int32 | الارتفاع الجديد. |
 
 ### قيمة الإرجاع
 
-العرض النسبي.
+العرض المتناسب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

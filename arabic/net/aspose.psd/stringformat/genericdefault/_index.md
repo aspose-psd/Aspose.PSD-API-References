@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericDefault
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. يحصل على افتراضي عامStringFormat الكائن .
+title: "StringFormat.GenericDefault"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تحصل على كائن StringFormat افتراضي عام."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/stringformat/genericdefault/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericDefault property
 
-يحصل على افتراضي عام[`StringFormat`](../) الكائن .
+يحصل على كائن [`StringFormat`](../) افتراضي عام.
 
 ```csharp
 public static StringFormat GenericDefault { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الافتراضي العام[`StringFormat`](../) هدف.
+الكائن [`StringFormat`](../) الافتراضي العام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,56 +1,57 @@
 ---
-title: Class AddNoiseSmartFilter
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter فصل. عامل التصفية الذكي AddNoise .
+title: "الفئة AddNoiseSmartFilter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter class. الفلتر الذكي AddNoise"
 type: docs
-weight: 3420
+weight: 3830
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter class
 
-عامل التصفية الذكي AddNoise .
+مرشح AddNoise الذكي.
 
 ```csharp
 public sealed class AddNoiseSmartFilter : SmartFilter
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AddNoiseSmartFilter](addnoisesmartfilter/)() | يقوم بتهيئة مثيل جديد لملف`AddNoiseSmartFilter` فئة . |
+| [AddNoiseSmartFilter](addnoisesmartfilter/)() | يُنشئ نسخة جديدة من الفئة `AddNoiseSmartFilter`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/) { get; set; } | الحصول على أو تعيين مقدار قيمة الضوضاء. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | الحصول على أو تحديد وضع المزج . |
-| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/) { get; set; } | الحصول على أو تحديد توزيع مرشح الضوضاء. |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/) { get; } | يحصل على معرف نوع المرشح الذكي. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | الحصول على أو تعيين حالة تمكين عامل التصفية الذكي. |
-| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/) { get; set; } | الحصول على أو تحديد قيمة أحادية اللون. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/) { get; } | الحصول على اسم المرشح الذكي . |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | الحصول على أو تعيين قيمة عتامة المرشح الذكي. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | هيكل واصف المصدر ببيانات التصفية الذكية. |
+| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/) { get; set; } | يحصل أو يضبط مقدار قيمة الضوضاء. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | يحصل أو يضبط وضع المزج. |
+| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/) { get; set; } | يحصل أو يضبط توزيع فلتر الضوضاء. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/) { get; } | يحصل على معرف نوع الفلتر الذكي. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | يحصل أو يضبط حالة التمكين للفلتر الذكي. |
+| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/) { get; set; } | يحصل أو يضبط قيمة أحادية اللون. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/) { get; } | يحصل على اسم الفلتر الذكي. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | يحصل أو يضبط قيمة الشفافية للفلتر الذكي. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | هيكل الوصف المصدر مع بيانات الفلتر الذكي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | يطبق عامل التصفية الحالي على الإدخال[`RasterImage`](../../aspose.psd/rasterimage/) الصورة . |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | يطبق عامل التصفية الحالي على الإدخال[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) قناع البيانات. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | يجعل استنساخ العضو للمثيل الحالي من النوع. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | يطبق الفلتر الحالي على صورة الإدخال [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | يطبق الفلتر الحالي على بيانات قناع الإدخال [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/). |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | ينشئ نسخة مستنسخة عضوًا بعضًا من النسخة الحالية لهذا النوع. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | معرّف المرشح الذكي الحالي. |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | معرف الفلتر الذكي الحالي. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال دعم واجهة المرشحات الذكية.
+يوضح هذا المثال دعم واجهة الفلاتر الذكية.
 
 ```csharp
 [C#]
@@ -70,16 +71,16 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // تحرير المرشحات الذكية
+    // تحرير الفلاتر الذكية
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // تحقق من قيم التصفية
+    // تحقق من قيم الفلتر
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // تحديث قيم عامل التصفية
+    // تحديث قيم الفلتر
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -87,7 +88,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     AddNoiseSmartFilter addNoise = (AddNoiseSmartFilter)smartObj.SmartFilters.Filters[1];
     addNoise.Distribution = NoiseDistribution.Uniform;
 
-    // إضافة عناصر تصفية جديدة
+    // إضافة عناصر فلتر جديدة
     var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
     filters.Add(new GaussianBlurSmartFilter());
     filters.Add(new AddNoiseSmartFilter());
@@ -96,7 +97,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // تطبيق التغييرات
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // تطبيق المرشحات
+    // تطبيق الفلاتر
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -109,7 +110,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // تحقق من قيم التصفية
+    // تحقق من قيم الفلتر
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -120,10 +121,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilter](../smartfilter/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

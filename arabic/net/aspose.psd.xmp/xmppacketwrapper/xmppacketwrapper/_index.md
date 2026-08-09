@@ -1,48 +1,49 @@
 ---
-title: XmpPacketWrapper.XmpPacketWrapper
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPacketWrapper البناء. يقوم بتهيئة مثيل جديد لملفXmpPacketWrapper فئة .
+title: "XmpPacketWrapper.XmpPacketWrapper"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpPacketWrapper. يهيئ مثالًا جديدًا من الفئة XmpPacketWrapper"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/xmppacketwrapper/xmppacketwrapper/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper(XmpHeaderPi, XmpTrailerPi, XmpMeta) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpPacketWrapper`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`XmpPacketWrapper`](../).
 
 ```csharp
 public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMeta)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| header | XmpHeaderPi | رأس XMP لتعليمات المعالجة. |
-| trailer | XmpTrailerPi | مقطورة XMP لتعليمات المعالجة. |
-| xmpMeta | XmpMeta | بيانات تعريف XMP. |
+| رأس | XmpHeaderPi | رأس XMP لتعليمات المعالجة. |
+| ملحق | XmpTrailerPi | ملحق XMP لتعليمات المعالجة. |
+| xmpMeta | XmpMeta | بيانات XMP الوصفية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpPacketWrapper() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpPacketWrapper`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`XmpPacketWrapper`](../).
 
 ```csharp
 public XmpPacketWrapper()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPacketWrapper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

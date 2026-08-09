@@ -1,14 +1,15 @@
 ---
-title: Class ColorOverlayEffect
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ColorOverlayEffect فصل. تأثير طبقة تراكب اللون
+title: "الفئة ColorOverlayEffect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ColorOverlayEffect فئة. تأثير طبقة تغطية اللون."
 type: docs
-weight: 2110
+weight: 2300
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect class
 
-تأثير طبقة تراكب اللون
+تأثير طبقة تغطية اللون.
 
 ```csharp
 public class ColorOverlayEffect : ILayerEffect
@@ -16,18 +17,24 @@ public class ColorOverlayEffect : ILayerEffect
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/blendmode/) { get; set; } | الحصول على أو تحديد وضع المزج . |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/) { get; set; } | الحصول على اللون أو تحديده . |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/blendmode/) { get; set; } | يحصل أو يضبط وضع المزج. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/) { get; set; } | يحصل أو يعيّن اللون. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/effecttype/) { get; } | يحصل على نوع من التأثير |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرئيًا. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/) { get; set; } | الحصول على التعتيم أو تعيينه . |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كانت هذه الحالة مرئية. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/) { get; set; } | يحصل أو يعيّن الشفافية. |
 
-### أنظر أيضا
+## الطرق
+
+| الاسم | الوصف |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/geteffectbounds/)(Rectangle, int) | احسب واحصل على حدود بكسلات التأثير بناءً على حدود بكسلات الطبقة المدخلة. |
+
+### انظر أيضًا
 
 * interface [ILayerEffect](../ilayereffect/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

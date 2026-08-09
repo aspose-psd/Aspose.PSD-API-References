@@ -1,51 +1,52 @@
 ---
-title: Pen.ScaleTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen طريقة. مقياس التحويل الهندسي المحلي بالعوامل المحددة. تضيف هذه الطريقة مصفوفة القياس إلى التحويل.
+title: "Pen.ScaleTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Pen. تُقِيس التحويل الهندسي المحلي بالعوامل المحددة. تُسبق مصفوفة القياس التحويل"
 type: docs
 weight: 220
 url: /ar/net/aspose.psd/pen/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-مقياس التحويل الهندسي المحلي بالعوامل المحددة. تضيف هذه الطريقة مصفوفة القياس إلى التحويل.
+يقوم بتكبير التحويل الهندسي المحلي بالعوامل المحددة. تُضيف هذه الطريقة مصفوفة التكبير إلى بداية التحويل.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sx | Single | العامل الذي يتم من خلاله قياس التحول في اتجاه المحور السيني. |
-| sy | Single | العامل الذي يتم من خلاله قياس التحول في اتجاه المحور الصادي. |
+| sx | Single | العامل الذي يُستخدم لتقيس التحويل في اتجاه المحور x. |
+| sy | Single | العامل الذي يُستخدم لتقيس التحويل في اتجاه المحور y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-مقياس التحويل الهندسي المحلي بواسطة العوامل المحددة بالترتيب المحدد.
+يقوم بتكبير التحويل الهندسي المحلي بالعوامل المحددة بالترتيب المحدد.
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sx | Single | العامل الذي يتم من خلاله قياس التحول في اتجاه المحور السيني. |
-| sy | Single | العامل الذي يتم من خلاله قياس التحول في اتجاه المحور الصادي. |
-| order | MatrixOrder | أ[`MatrixOrder`](../../matrixorder/) التي تحدد ما إذا كان سيتم إلحاق أو اعتماد مصفوفة القياس. |
+| sx | Single | العامل الذي يُستخدم لتقيس التحويل في اتجاه المحور x. |
+| sy | Single | العامل الذي يُستخدم لتقيس التحويل في اتجاه المحور y. |
+| order | MatrixOrder | [`MatrixOrder`](../../matrixorder/) الذي يحدد ما إذا كان سيتم إلحاق أو إلحاق مسبق لمصفوفة التكبير. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.Stream
-second_title: Aspose.PSD لمرجع .NET API
-description: SplitStreamContainer ملكية. يحصل على دفق البيانات.
+title: "SplitStreamContainer.Stream"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SplitStreamContainer. تحصل على دفق البيانات"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/splitstreamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Stream property
 
-يحصل على دفق البيانات.
+يحصل على تدفق البيانات.
 
 ```csharp
 public override Stream Stream { get; }
 ```
 
-### Property_Value
+### Property Value
 
 دفق البيانات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

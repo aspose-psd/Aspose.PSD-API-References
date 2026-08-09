@@ -1,28 +1,29 @@
 ---
-title: GradientFillSettings.RemoveColorPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientFillSettings طريقة. يزيل نقطة اللون .
+title: "GradientFillSettings.RemoveColorPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة GradientFillSettings. يزيل نقطة اللون"
 type: docs
-weight: 170
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.RemoveColorPoint method
 
-يزيل نقطة اللون .
+يزيل نقطة اللون.
 
 ```csharp
 public void RemoveColorPoint(IGradientColorPoint point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | IGradientColorPoint | النقطة. |
+| نقطة | IGradientColorPoint | النقطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

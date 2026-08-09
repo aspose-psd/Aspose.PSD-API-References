@@ -1,55 +1,56 @@
 ---
-title: XmpMeta.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpMeta طريقة. يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+title: "XmpMeta.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpMeta. تشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp/xmpmeta/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpMeta) {#equals_1}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(XmpMeta other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | other | XmpMeta | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي*other* معامل؛ وإلا ، خطأ .
+صحيح إذا كان الكائن الحالي مساويًا للمعامل *other*؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMeta](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpmeta/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_2}
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذا المثيل.
 
 ```csharp
 public override bool Equals(object other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | Object | الObject للمقارنة مع هذه الحالة. |
+| other | Object | ال Object للمقارنة مع هذه المثيلة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد يساوي هذه المثيلة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMeta](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpmeta/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

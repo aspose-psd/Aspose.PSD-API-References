@@ -1,38 +1,39 @@
 ---
-title: Region.IsInfinite
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. اختبارات ما إذا كان هذاRegion له مساحة داخلية لا نهائية على سطح الرسم المحدد.
+title: "Region.IsInfinite"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تختبر ما إذا كان لهذا Region داخل لا نهائي على سطح الرسم المحدد"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.psd/region/isinfinite/
 ---
+{{< psd/tize >}}
 ## Region.IsInfinite method
 
-اختبارات ما إذا كان هذا[`Region`](../) له مساحة داخلية لا نهائية على سطح الرسم المحدد.
+تختبر ما إذا كان هذا [`Region`](../) له داخل لا نهائي على سطح الرسم المحدد.
 
 ```csharp
 public bool IsInfinite(Graphics g)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| g | Graphics | أ[`Graphics`](../../graphics/) التي تمثل سطح الرسم. |
+| g | Graphics | الـ [`Graphics`](../../graphics/) التي تمثل سطح رسم. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان هذا الجزء الداخلي[`Region`](../) لا حصر له عندما يرتبط التحول*g* يتم تطبيقه وإلا ، خطأ .
+صحيح إذا كان داخل هذا [`Region`](../) لا نهائي عندما يتم تطبيق التحويل المرتبط بـ *g*؛ وإلا، خطأ.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *g* فارغ . |
+| ArgumentNullException | *g* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

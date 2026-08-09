@@ -1,27 +1,28 @@
 ---
-title: Version.Comments
-second_title: Aspose.PSD لمرجع .NET API
-description: Version ملكية. الحصول على التعليقات أو تعيينها.
+title: "Version.Comments"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Version. يحصل أو يعيّن التعليقات"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.complex.version/version/comments/
 ---
+{{< psd/tize >}}
 ## Version.Comments property
 
-الحصول على التعليقات أو تعيينها.
+يحصل أو يعيّن التعليقات.
 
 ```csharp
 public string Comments { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التعليقات .
+التعليقات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Version](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

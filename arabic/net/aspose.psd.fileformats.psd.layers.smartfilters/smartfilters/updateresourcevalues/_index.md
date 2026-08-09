@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.UpdateResourceValues
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartFilters طريقة. يقوم بتحديث بيانات التصفية الذكية إلى ملفSmartObjectResource .
+title: "SmartFilters.UpdateResourceValues"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartFilters. تُحدّث بيانات المرشح الذكي في SmartObjectResource"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/
 ---
+{{< psd/tize >}}
 ## SmartFilters.UpdateResourceValues method
 
-يقوم بتحديث بيانات التصفية الذكية إلى ملف[`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) .
+يُحدّث بيانات المرشح الذكي في [`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/).
 
 ```csharp
 public void UpdateResourceValues()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilters](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

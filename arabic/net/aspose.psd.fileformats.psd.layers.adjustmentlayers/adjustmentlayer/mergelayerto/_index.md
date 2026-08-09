@@ -1,28 +1,29 @@
 ---
-title: AdjustmentLayer.MergeLayerTo
-second_title: Aspose.PSD لمرجع .NET API
-description: AdjustmentLayer طريقة. يدمج الطبقة في layer
+title: "AdjustmentLayer.MergeLayerTo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة AdjustmentLayer. يدمج الطبقة إلى الطبقة المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/adjustmentlayer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayer.MergeLayerTo method
 
-يدمج الطبقة في layer
+يدمج الطبقة إلى الطبقة المحددة
 
 ```csharp
 public override void MergeLayerTo(Layer layerToMergeInto)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| layerToMergeInto | Layer | الطبقة المراد الدمج فيها. |
+| layerToMergeInto | طبقة | الطبقة التي سيتم الدمج فيها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [AdjustmentLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../adjustmentlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

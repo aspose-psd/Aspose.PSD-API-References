@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+title: "PixelDataFormat.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PixelDataFormat طريقة. يحدد ما إذا كان الكائن المحدد يساوي هذه الحالة"
 type: docs
 weight: 350
 url: /ar/net/aspose.psd/pixeldataformat/equals/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Equals method
 
-تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذه المثيلة.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | Object | ال Object للمقارنة مع هذه المثيلة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد يساوي هذه المثيلة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

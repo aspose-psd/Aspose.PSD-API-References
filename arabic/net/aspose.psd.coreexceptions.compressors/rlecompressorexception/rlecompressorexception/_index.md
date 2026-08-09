@@ -1,48 +1,49 @@
 ---
-title: RleCompressorException.RleCompressorException
-second_title: Aspose.PSD لمرجع .NET API
-description: RleCompressorException البناء. يقوم بتهيئة مثيل جديد لملفRleCompressorException فئة .
+title: "RleCompressorException.RleCompressorException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ RleCompressorException. يهيئ مثيلاً جديدًا من الفئة RleCompressorException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.compressors/rlecompressorexception/rlecompressorexception/
 ---
+{{< psd/tize >}}
 ## RleCompressorException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`RleCompressorException`](../) فئة .
+يهيئ مثيلاً جديدًا من الفئة [`RleCompressorException`](../).
 
 ```csharp
 public RleCompressorException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RleCompressorException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RleCompressorException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`RleCompressorException`](../) فئة .
+يهيئ مثيلاً جديدًا من الفئة [`RleCompressorException`](../).
 
 ```csharp
 public RleCompressorException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RleCompressorException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

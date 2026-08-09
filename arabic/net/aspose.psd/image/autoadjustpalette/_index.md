@@ -1,27 +1,28 @@
 ---
-title: Image.AutoAdjustPalette
-second_title: Aspose.PSD لمرجع .NET API
-description: Image ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كانت لوحة الضبط التلقائي.
+title: "Image.AutoAdjustPalette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Image. تحصل أو تعين قيمة تشير إلى ما إذا كان يتم تعديل اللوحة تلقائيًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/image/autoadjustpalette/
 ---
+{{< psd/tize >}}
 ## Image.AutoAdjustPalette property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت لوحة الضبط التلقائي.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان يتم تعديل اللوحة تلقائيًا.
 
 ```csharp
 public bool AutoAdjustPalette { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تمكين لوحة الضبط التلقائي ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا تم تمكين تعديل اللوحة تلقائيًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

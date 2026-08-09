@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.SubResourceHeaderLength
-second_title: Aspose.PSD لمرجع .NET API
-description: ShmdResource مجال. طول رأس المورد الفرعي
+title: "ShmdResource.SubResourceHeaderLength"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ShmdResource. طول رأس المورد الفرعي"
 type: docs
-weight: 90
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResourceHeaderLength field
 
 طول رأس المورد الفرعي
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subre
 public const int SubResourceHeaderLength;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShmdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

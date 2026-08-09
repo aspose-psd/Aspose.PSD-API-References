@@ -1,11 +1,12 @@
 ---
-title: CurvResource.GetCurveManager
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvResource طريقة. يحصل على مدير المنحنى.
+title: "CurvResource.GetCurveManager"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CurvResource. يحصل على مدير المنحنى"
 type: docs
-weight: 80
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetCurveManager method
 
 يحصل على مدير المنحنى.
@@ -16,13 +17,13 @@ public CurvesManager GetCurveManager()
 
 ### قيمة الإرجاع
 
-[`CurvesDiscreteManager`](../../curvesdiscretemanager/) أو[`CurvesContinuousManager`](../../curvescontinuousmanager/)
+[`CurvesDiscreteManager`](../../curvesdiscretemanager/) or [`CurvesContinuousManager`](../../curvescontinuousmanager/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

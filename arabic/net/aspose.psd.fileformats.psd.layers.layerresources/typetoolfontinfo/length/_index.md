@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolFontInfo ملكية. يحصل على الطول.
+title: "TypeToolFontInfo.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolFontInfo. يحصل على الطول"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.Length property
 
 يحصل على الطول.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/l
 public int Length { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الطول .
+الطول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolFontInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

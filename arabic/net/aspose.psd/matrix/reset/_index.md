@@ -1,23 +1,24 @@
 ---
-title: Matrix.Reset
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix طريقة. يعيد تعيين هذه المصفوفة بحيث تحتوي على عناصر مصفوفة الهوية.
+title: "Matrix.Reset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Matrix. تعيد ضبط هذه المصفوفة لتحتوي على عناصر مصفوفة الهوية"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/matrix/reset/
 ---
+{{< psd/tize >}}
 ## Matrix.Reset method
 
-يعيد تعيين هذه المصفوفة بحيث تحتوي على عناصر مصفوفة الهوية.
+يعيد تعيين هذه Matrix لتحتوي على عناصر مصفوفة الهوية.
 
 ```csharp
 public void Reset()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

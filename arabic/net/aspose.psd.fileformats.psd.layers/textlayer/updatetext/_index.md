@@ -1,187 +1,188 @@
 ---
-title: TextLayer.UpdateText
-second_title: Aspose.PSD لمرجع .NET API
-description: TextLayer طريقة. يقوم بتحديث النص.
+title: "TextLayer.UpdateText"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TextLayer. تقوم بتحديث النص"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
-يقوم بتحديث النص.
+يحدّث النص.
 
 ```csharp
 public void UpdateText(string text)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
+| نص | String | قيمة النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## UpdateText(string, float) {#updatetext_6}
 
-يقوم بتحديث النص.
+يحدّث النص.
 
 ```csharp
 public void UpdateText(string text, float fontSize)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
+| نص | String | قيمة النص. |
 | fontSize | Single | حجم الخط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## UpdateText(string, Color) {#updatetext_1}
 
-يقوم بتحديث النص.
+يحدّث النص.
 
 ```csharp
 public void UpdateText(string text, Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
-| color | Color | قيمة اللون. |
+| نص | String | قيمة النص. |
+| لون | لون | قيمة اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## UpdateText(string, float, Color) {#updatetext_7}
 
-يقوم بتحديث النص.
+يحدّث النص.
 
 ```csharp
 public void UpdateText(string text, float fontSize, Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
+| نص | String | قيمة النص. |
 | fontSize | Single | حجم الخط. |
-| color | Color | قيمة اللون. |
+| لون | لون | قيمة اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## UpdateText(string, Point, float) {#updatetext_4}
 
-يقوم بتحديث النص.
+يحدّث النص.
 
 ```csharp
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
-| leftTopCoordinate | Point | الإحداثيات العلوية اليسرى. |
+| نص | String | قيمة النص. |
+| leftTopCoordinate | نقطة | الإحداثي العلوي الأيسر. |
 | fontSize | Single | حجم الخط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## UpdateText(string, Point, Color) {#updatetext_3}
 
-يقوم بتحديث النص.
+يحدّث النص.
 
 ```csharp
 public void UpdateText(string text, Point leftTopCoordinate, Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
-| leftTopCoordinate | Point | الإحداثيات العلوية اليسرى. |
-| color | Color | قيمة اللون. |
+| نص | String | قيمة النص. |
+| leftTopCoordinate | نقطة | الإحداثي العلوي الأيسر. |
+| لون | لون | قيمة اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## UpdateText(string, Point) {#updatetext_2}
 
-يقوم بتحديث النص.
+يحدّث النص.
 
 ```csharp
 public void UpdateText(string text, Point leftTopCoordinate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
-| leftTopCoordinate | Point | الإحداثيات العلوية اليسرى. |
+| نص | String | قيمة النص. |
+| leftTopCoordinate | نقطة | الإحداثي العلوي الأيسر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## UpdateText(string, Point, float, Color) {#updatetext_5}
 
-يقوم بتحديث النص.
+يحدّث النص.
 
 ```csharp
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
-| leftTopCoordinate | Point | الإحداثيات العلوية اليسرى. |
+| نص | String | قيمة النص. |
+| leftTopCoordinate | نقطة | الإحداثي العلوي الأيسر. |
 | fontSize | Single | حجم الخط. |
-| color | Color | قيمة اللون. |
+| لون | لون | قيمة اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

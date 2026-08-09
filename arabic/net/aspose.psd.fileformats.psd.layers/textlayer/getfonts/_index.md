@@ -1,14 +1,15 @@
 ---
-title: TextLayer.GetFonts
-second_title: Aspose.PSD لمرجع .NET API
-description: TextLayer طريقة. يحصل على مجموعة الخطوط لطبقة النص.
+title: "TextLayer.GetFonts"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TextLayer. يحصل على مجموعة الخطوط لطبقة النص"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
+{{< psd/tize >}}
 ## TextLayer.GetFonts method
 
-يحصل على مجموعة الخطوط لطبقة النص.
+يسترجع مجموعة الخطوط لطبقة النص.
 
 ```csharp
 public TextFontInfo[] GetFonts()
@@ -18,9 +19,9 @@ public TextFontInfo[] GetFonts()
 
 مجموعة الخطوط لطبقة النص.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي كيف يحصل Aspose.PSD على خصائص التنسيق المضمن لطبقة النص.
+الكود التالي يوضح كيف يحصل Aspose.PSD على خصائص التنسيق المضمن لطبقة النص.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // يحصل على الخطوط التي تحتوي على طبقة النص
+        // يحصل على الخطوط الموجودة في طبقة النص
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextFontInfo](../../../aspose.psd.fileformats.psd.layers.text/textfontinfo/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

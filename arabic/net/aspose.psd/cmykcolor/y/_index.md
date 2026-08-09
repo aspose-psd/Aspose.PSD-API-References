@@ -1,27 +1,28 @@
 ---
-title: CmykColor.Y
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykColor ملكية. يحصل على قيمة المكون الأصفر لهذاColorهيكل .
+title: "CmykColor.Y"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CmykColor. تحصل على قيمة المكوّن الأصفر في هيكل Color هذا"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd/cmykcolor/y/
 ---
+{{< psd/tize >}}
 ## CmykColor.Y property
 
-يحصل على قيمة المكون الأصفر لهذا[`Color`](../../color/)هيكل .
+يحصل على قيمة المكوّن الأصفر لهذا الهيكل [`Color`](../../color/).
 
 ```csharp
 public byte Y { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة المكون الأصفر لهذا[`Color`](../../color/) .
+قيمة المكوّن الأصفر لهذا [`Color`](../../color/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [CmykColor](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

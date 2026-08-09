@@ -1,14 +1,15 @@
 ---
-title: Color.GetHue
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. الحصول على قيمة صبغة huesaturationbrightness HSB بالدرجات لهذا الغرضColorهيكل .
+title: "Color.GetHue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. يحصل على قيمة درجة اللون HSB (huesaturationbrightness) بالدرجات لهذا الهيكل Color"
 type: docs
 weight: 1570
 url: /ar/net/aspose.psd/color/gethue/
 ---
+{{< psd/tize >}}
 ## Color.GetHue method
 
-الحصول على قيمة صبغة hue-saturation-brightness (HSB) بالدرجات لهذا الغرض[`Color`](../)هيكل .
+يحصل على قيمة درجة اللون (HSB) بالدرجات لهذا الهيكل [`Color`](../).
 
 ```csharp
 public float GetHue()
@@ -16,12 +17,12 @@ public float GetHue()
 
 ### قيمة الإرجاع
 
-درجة اللون ، بالدرجات ، من هذا[`Color`](../). يتم قياس تدرج الألوان بالدرجات ، بدءًا من 0.0 إلى 360.0 ، في مساحة ألوان HSB.
+درجة اللون، بالدرجات، لهذا [`Color`](../). يتم قياس درجة اللون بالدرجات، من 0.0 إلى 360.0، في مساحة اللون HSB.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

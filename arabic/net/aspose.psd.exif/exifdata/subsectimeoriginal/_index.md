@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTimeOriginal
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين كسور الثواني للعلامة DateTimeOriginal .
+title: "ExifData.SubsecTimeOriginal"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ExifData خاصية. يحصل أو يضبط كسور الثواني للعلامة DateTimeOriginal"
 type: docs
 weight: 1050
 url: /ar/net/aspose.psd.exif/exifdata/subsectimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeOriginal property
 
-الحصول على أو تعيين كسور الثواني للعلامة DateTimeOriginal .
+الحصول أو تعيين كسر الثواني للعلامة DateTimeOriginal.
 
 ```csharp
 public string SubsecTimeOriginal { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-كسور الثواني للعلامة DateTimeOriginal .
+كسور الثواني للعلامة DateTimeOriginal.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

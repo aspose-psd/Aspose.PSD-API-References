@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.Prefix
-second_title: Aspose.PSD لمرجع .NET API
-description: ComplexTypeBase ملكية. يحصل على البادئة .
+title: "ComplexTypeBase.Prefix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ComplexTypeBase. يحصل على البادئة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.Prefix property
 
-يحصل على البادئة .
+يحصل على البادئة.
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Property_Value
+### Property Value
 
-البادئة .
+البادئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ComplexTypeBase](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

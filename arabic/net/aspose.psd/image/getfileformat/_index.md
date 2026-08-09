@@ -1,11 +1,12 @@
 ---
-title: Image.GetFileFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. يحصل على تنسيق الملف.
+title: "Image.GetFileFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تحصل على تنسيق الملف"
 type: docs
-weight: 260
+weight: 270
 url: /ar/net/aspose.psd/image/getfileformat/
 ---
+{{< psd/tize >}}
 ## GetFileFormat(string) {#getfileformat_1}
 
 يحصل على تنسيق الملف.
@@ -14,24 +15,24 @@ url: /ar/net/aspose.psd/image/getfileformat/
 public static FileFormat GetFileFormat(string filePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | filePath | String | مسار الملف. |
 
 ### قيمة الإرجاع
 
-تنسيق الملف المحدد .
+تنسيق الملف المحدد.
 
-### ملاحظات
+## ملاحظات
 
-تنسيق الملف المحدد لا يعني أنه يمكن تحميل الصورة المحددة. استخدم إحدى طرق التحميل الزائد الخاصة بأسلوب CanLoad لتحديد ما إذا كان يمكن تحميل الملف أم لا.
+تنسيق الملف المحدد لا يعني أن الصورة المحددة يمكن تحميلها. استخدم أحد التحميلات الزائدة لطريقة CanLoad لتحديد ما إذا كان يمكن تحميل الملف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,23 +44,23 @@ public static FileFormat GetFileFormat(string filePath)
 public static FileFormat GetFileFormat(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق . |
+| stream | Stream | التدفق. |
 
 ### قيمة الإرجاع
 
-تنسيق الملف المحدد .
+تنسيق الملف المحدد.
 
-### ملاحظات
+## ملاحظات
 
-تنسيق الملف المحدد لا يعني أنه يمكن تحميل الصورة المحددة. استخدم إحدى طرق التحميل الزائدة في طريقة CanLoad لتحديد ما إذا كان الدفق يمكن تحميله أم لا.
+تنسيق الملف المحدد لا يعني أن الصورة المحددة يمكن تحميلها. استخدم أحد التحميلات الزائدة لطريقة CanLoad لتحديد ما إذا كان يمكن تحميل الدفق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

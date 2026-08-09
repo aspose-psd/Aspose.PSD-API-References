@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على اسم الطبقة أو تعيينه . يحدد اسم العنصر كما يظهر في لوحة الطبقات.
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين اسم الطبقة. تحدد اسم العنصر كما يظهر في لوحة الطبقات"
 type: docs
-weight: 110
+weight: 130
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-الحصول على اسم الطبقة أو تعيينه . يحدد اسم العنصر كما يظهر في لوحة الطبقات.
+يحصل أو يعيّن اسم الطبقة. يحدد اسم العنصر كما يظهر في لوحة الطبقات.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الطبقة .
+اسم الطبقة.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم الطبقات في ملفات تنسيق AI.
+المثال التالي يوضح دعم الطبقات في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

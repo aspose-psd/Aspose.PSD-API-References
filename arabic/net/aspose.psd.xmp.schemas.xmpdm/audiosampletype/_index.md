@@ -1,14 +1,15 @@
 ---
-title: Class AudioSampleType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType فصل. يمثل نوع عينة الصوت بتنسيقXmpDynamicMediaPackage .
+title: "الفئة AudioSampleType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType. تمثل نوع عينة الصوت في XmpDynamicMediaPackage"
 type: docs
-weight: 5850
+weight: 6350
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/
 ---
+{{< psd/tize >}}
 ## AudioSampleType class
 
-يمثل نوع عينة الصوت بتنسيق[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+تمثل نوع عينة الصوت في [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/).
 
 ```csharp
 public sealed class AudioSampleType
@@ -16,25 +17,25 @@ public sealed class AudioSampleType
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | يمثل عينة صوتية مضغوطة . |
-| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | يمثل عينة صوتية مجمعة. |
-| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | يمثل نموذج صوتي 16 بوصة . |
-| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | يمثل عينة صوتية 24 بوصة . |
-| static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | يمثل 32 عينة صوت عائم . |
-| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | يمثل عينة صوتية بحجم 32 بوصة . |
-| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | يمثل عينة صوتية بحجم 8 بوصة . |
+| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | يمثل عينة صوتية مضغوطة. |
+| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | يمثل عينة صوتية محزمة. |
+| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | يمثل عينة صوتية 16Int. |
+| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | يمثل عينة صوتية 24Int. |
+| static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | يمثل عينة صوتية 32Float. |
+| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | يمثل عينة صوتية 32Int. |
+| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | يمثل عينة صوتية 8Int. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

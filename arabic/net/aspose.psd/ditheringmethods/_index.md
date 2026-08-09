@@ -1,11 +1,12 @@
 ---
-title: Enum DitheringMethods
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.DitheringMethods تعداد. طرق التدرج المستخدمة للتحكم في تحويل اللون.
+title: "التعداد DitheringMethods"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.DitheringMethods. طرق التمويه المستخدمة للتحكم في تحويل اللون"
 type: docs
-weight: 780
+weight: 790
 url: /ar/net/aspose.psd/ditheringmethods/
 ---
+{{< psd/tize >}}
 ## DitheringMethods enumeration
 
 طرق التدرج المستخدمة للتحكم في تحويل اللون.
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd/ditheringmethods/
 public enum DitheringMethods
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| PaletteIgnore | `0` | تم تجاهل اللوحة |
-| PaletteConversion | `1` | لا يتم تجاهل اللوحة ويجب تطبيق تحويل الألوان الحكيم. |
-| CustomConverter | `2` | المحول المخصص . |
+| PaletteIgnore | `0` | يتم تجاهل اللوحة |
+| PaletteConversion | `1` | اللوحة غير متجاهلة ويجب تطبيق تحويل اللون المناسب. |
+| CustomConverter | `2` | المحول المخصص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SmartResourceCreator.GenerateSmartExternalResource
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartResourceCreator طريقة. يُنشئ مورد الكائن الذكي الخارجي.
+title: "SmartResourceCreator.GenerateSmartExternalResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartResourceCreator. تُنشئ المورد الخارجي للكائن الذكي"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GenerateSmartExternalResource method
 
-يُنشئ مورد الكائن الذكي الخارجي.
+ينشئ مورد الكائن الذكي الخارجي.
 
 ```csharp
 public SoLeResource GenerateSmartExternalResource()
@@ -16,13 +17,13 @@ public SoLeResource GenerateSmartExternalResource()
 
 ### قيمة الإرجاع
 
-ولدت[`SoLeResource`](../../soleresource/) مثال.
+المثيل المُنشأ [`SoLeResource`](../../soleresource/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SoLeResource](../../soleresource/)
 * class [SmartResourceCreator](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

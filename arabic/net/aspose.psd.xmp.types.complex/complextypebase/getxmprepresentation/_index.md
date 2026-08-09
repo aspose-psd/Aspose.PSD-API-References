@@ -1,14 +1,15 @@
 ---
-title: ComplexTypeBase.GetXmpRepresentation
-second_title: Aspose.PSD لمرجع .NET API
-description: ComplexTypeBase طريقة. الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+title: "ComplexTypeBase.GetXmpRepresentation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ComplexTypeBase. يحصل على القيمة النصية المحتواة بتنسيق XMP"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.GetXmpRepresentation method
 
-الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+يحصل على القيمة النصية المحتواة بتنسيق XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### قيمة الإرجاع
 
-تُرجع قيمة السلسلة المضمنة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ComplexTypeBase](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

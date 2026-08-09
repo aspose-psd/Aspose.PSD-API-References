@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.BComponent
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على أو تعيين المكون b .
+title: "TypeToolInfoResource.BComponent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط المكوّن b"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/bcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.BComponent property
 
-الحصول على أو تعيين المكون b .
+يحصل أو يضبط مكوّن b.
 
 ```csharp
 public short BComponent { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المكون b .
+المكوّن b.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

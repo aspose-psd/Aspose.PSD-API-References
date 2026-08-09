@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.DocumentUri
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceRef ملكية. الحصول على أو تعيين عنوان URI للمستند .
+title: "ResourceRef.DocumentUri"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResourceRef. تحصل أو تعين عنوان URI للوثيقة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/
 ---
+{{< psd/tize >}}
 ## ResourceRef.DocumentUri property
 
-الحصول على أو تعيين عنوان URI للمستند .
+يحصل أو يضبط URI المستند.
 
 ```csharp
 public string DocumentUri { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف المستند URI.
+عنوان URI للوثيقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceRef](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Cyan
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantCmyk ملكية. الحصول على أو تعيين قيمة المكون السماوي.
+title: "ColorantCmyk.Cyan"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorantCmyk. تحصل أو تعين قيمة المكوّن السيان"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Cyan property
 
-الحصول على أو تعيين قيمة المكون السماوي.
+يحصل أو يعيّن قيمة المكوّن السماوي.
 
 ```csharp
 public float Cyan { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة المكون السماوي .
+قيمة مكوّن السيان.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantCmyk](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

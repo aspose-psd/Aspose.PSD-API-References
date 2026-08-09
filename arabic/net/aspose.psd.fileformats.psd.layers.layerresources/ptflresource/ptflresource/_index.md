@@ -1,28 +1,45 @@
 ---
-title: PtFlResource.PtFlResource
-second_title: Aspose.PSD لمرجع .NET API
-description: PtFlResource البناء. يقوم بتهيئة مثيل جديد لملفPtFlResource فئة .
+title: "PtFlResource.PtFlResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PtFlResource. يهيئ عينة جديدة من فئة PtFlResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/ptflresource/
 ---
-## PtFlResource constructor
+{{< psd/tize >}}
+## PtFlResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PtFlResource`](../) فئة .
+يهيئ عينة جديدة من الفئة [`PtFlResource`](../).
+
+```csharp
+public PtFlResource()
+```
+
+### انظر أيضًا
+
+* class [PtFlResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## PtFlResource(string, string) {#constructor_1}
+
+يهيئ عينة جديدة من الفئة [`PtFlResource`](../).
 
 ```csharp
 public PtFlResource(string patternName, string patternId)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | patternName | String | اسم النمط. |
 | patternId | String | معرف النمط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PtFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

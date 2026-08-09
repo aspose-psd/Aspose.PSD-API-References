@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsFixedSize
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary ملكية. يحصل على قيمة تشير إلى ما إذا كان IDictionary الكائن له حجم ثابت.
+title: "NonGenericDictionary.IsFixedSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية NonGenericDictionary. تحصل على قيمة تشير إلى ما إذا كان كائن IDictionary ذو حجم ثابت"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/nongenericdictionary/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsFixedSize property
 
-يحصل على قيمة تشير إلى ما إذا كان IDictionary الكائن له حجم ثابت.
+يحصل على قيمة تشير إلى ما إذا كان كائن IDictionary له حجم ثابت.
 
 ```csharp
 public bool IsFixedSize { get; }
@@ -16,12 +17,12 @@ public bool IsFixedSize { get; }
 
 ### قيمة الإرجاع
 
-صحيح إذا كانIDictionary الكائن له حجم ثابت ؛ خلاف ذلك ، خطأ.
+صحيح إذا كان كائن IDictionary ذو حجم ثابت؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

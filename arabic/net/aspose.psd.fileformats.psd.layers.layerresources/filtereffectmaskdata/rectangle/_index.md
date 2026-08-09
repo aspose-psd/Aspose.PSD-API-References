@@ -1,20 +1,21 @@
 ---
-title: FilterEffectMaskData.Rectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: FilterEffectMaskData ملكية. يحصل على مستطيل القنوات .
+title: "FilterEffectMaskData.Rectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FilterEffectMaskData. يحصل على مستطيل القنوات"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/rectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Rectangle property
 
-يحصل على مستطيل القنوات .
+يحصل على مستطيل القنوات.
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### أمثلة
+## أمثلة
 
 يوضح هذا المثال كيفية الحصول على خصائص مورد FXidResource وتعيينها.
 
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,11 +62,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

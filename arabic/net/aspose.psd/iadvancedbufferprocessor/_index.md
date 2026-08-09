@@ -1,11 +1,12 @@
 ---
-title: Interface IAdvancedBufferProcessor
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IAdvancedBufferProcessor واجهه المستخدم. معالج المخزن المؤقت المتقدم.
+title: "الواجهة IAdvancedBufferProcessor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.IAdvancedBufferProcessor. معالج المخزن المؤقت المتقدم"
 type: docs
-weight: 4360
+weight: 4830
 url: /ar/net/aspose.psd/iadvancedbufferprocessor/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor interface
 
 معالج المخزن المؤقت المتقدم.
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd/iadvancedbufferprocessor/
 public interface IAdvancedBufferProcessor : IBufferProcessor
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FinishRow](../../aspose.psd/iadvancedbufferprocessor/finishrow/)() | ينهي الصف . |
-| [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows/)(int) | إنهاء الصفوف . |
+| [FinishRow](../../aspose.psd/iadvancedbufferprocessor/finishrow/)() | يُنهي الصف. |
+| [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows/)(int) | يُنهي الصفوف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IBufferProcessor](../ibufferprocessor/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

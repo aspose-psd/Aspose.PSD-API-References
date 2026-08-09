@@ -1,32 +1,33 @@
 ---
-title: LiFeDataSource.ElementRef
-second_title: Aspose.PSD لمرجع .NET API
-description: LiFeDataSource ملكية. الحصول على مرجع عنصر مكتبة الرسومات أو تعيينه  لمكتبات Adobe Photoshop CC .
+title: "LiFeDataSource.ElementRef"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "LiFeDataSource property. تحصل أو تعين مرجع عنصر مكتبة الرسوميات لـ Adobe Photoshop CC Libraries"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.ElementRef property
 
-الحصول على مرجع عنصر مكتبة الرسومات أو تعيينه ، لمكتبات Adobe® Photoshop® CC .
+يحصل أو يعيّن مرجع عنصر مكتبة الرسومات، لأدوب® Photoshop® CC Libraries.
 
 ```csharp
 public string ElementRef { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مرجع عنصر مكتبة الرسومات .
+مرجع عنصر مكتبة الرسوميات.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لا يمكنك الوصول إلى خاصية ElementRef ، فهي متاحة فقط لمصدر بيانات liFE عندما تكون IsLibrary هي true |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لا يمكنك الوصول إلى خاصية ElementRef، فهي متاحة فقط لمصدر البيانات liFE عندما تكون IsLibrary صحيحة |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال كيفية الحصول على خصائص مصدر Psd LnkE وتعيينها.
+يوضح هذا المثال كيفية الحصول على وتعيين خصائص مورد Psd LnkE.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// يوضح هذا المثال كيفية الحصول على خصائص مصدر Psd LnkE الذي يحتوي على معلومات حول ملف مرتبط خارجي وتعيينها.
+// يوضح هذا المثال كيفية الحصول على وتعيين خصائص مورد Psd LnkE الذي يحتوي على معلومات حول ملف مرتبط خارجي.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -95,7 +96,7 @@ void ExampleOfLnkEResourceSupport(
                 }
 
                 lifeSource.FullPath =
-                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png ";
+                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                 AssertAreEqual(lnkeResource.Length, length2);
                 lifeSource.FileName = "rgb8_2x23.png";
                 AssertAreEqual(lnkeResource.Length, length3);
@@ -117,14 +118,14 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// يوضح هذا المثال كيفية الحصول على خصائص Psd LnkeResource التي تحتوي على معلومات حول ملف JPEG المرتبط الخارجي وتعيينها.
+// يوضح هذا المثال كيفية الحصول على وتعيين خصائص مورد Psd LnkeResource الذي يحتوي على معلومات حول ملف JPEG مرتبط خارجي.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
     0x26c,
     0x274,
     0x27c,
-    @"file:///C:/Users/cvallejo/Desktop/photo.jpg "،
+    @"file:///C:/Users/cvallejo/Desktop/photo.jpg",
     "05/09/2017 22:24:51",
     0,
     "F062B9DB73E8D124167A4186E54664B0",
@@ -136,14 +137,14 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// يوضح هذا المثال كيفية الحصول على خصائص PSD LnkeResource التي تحتوي على معلومات حول ملف PNG مرتبط خارجي وتعيينها.
+// يوضح هذا المثال كيفية الحصول على وتعيين خصائص مورد PSD LnkeResource الذي يحتوي على معلومات حول ملف PNG مرتبط خارجي.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
     0x290,
     0x294,
     0x2dc,
-    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Issues/PSDNET-491/rgb8_2x2.png "،
+    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Issues/PSDNET-491/rgb8_2x2.png",
     "04/14/2020 14:23:44",
     0,
     string.Empty,
@@ -155,14 +156,14 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// يوضح هذا المثال كيفية الحصول على خصائص PSD LnkeResource وتعيينها التي تحتوي على معلومات حول ملفي PNG و PSD مرتبطين خارجيين.
+// يوضح هذا المثال كيفية الحصول على الخصائص وتعيينها لمورد PSD LnkeResource الذي يحتوي على معلومات حول ملفين مرتبطين خارجيًا بصيغة PNG و PSD.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
     0x580,
     0x554,
     0x528,
-    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/AddColorBalanceAdjustmentLayer.psd "،
+    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/AddColorBalanceAdjustmentLayer.psd",
     "01/15/2020 13:02:00",
     0,
     "adobe:docid:photoshop:9312f484-3403-a644-8973-e725abc95fb7",
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// يوضح هذا المثال كيفية الحصول على خصائص Photoshop Psd LnkeResource وتعيينها والتي تحتوي على معلومات حول أصل مكتبات CC مرتبط خارجي.
+// يوضح هذا المثال كيفية الحصول على الخصائص وتعيينها لمورد Photoshop Psd LnkeResource الذي يحتوي على معلومات حول أصل مكتبة CC مرتبط خارجيًا.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -194,7 +195,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-يوضح التعليمة البرمجية التالية دعم مورد LnkeResource.
+يوضح الكود التالي دعم مورد LnkeResource.
 
 ```csharp
 [C#]
@@ -389,7 +390,7 @@ void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length
                         liFeSource.CompId = int.MaxValue;
                     }
 
-                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png ";
+                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                     liFeSource.FileName = "rgb8_2x23.png";
                     liFeSource.ChildDocId = Guid.NewGuid().ToString();
                     liFeSource.Date = DateTime.Now;
@@ -416,10 +417,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LiFeDataSource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

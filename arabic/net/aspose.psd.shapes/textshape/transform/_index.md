@@ -1,11 +1,12 @@
 ---
-title: TextShape.Transform
-second_title: Aspose.PSD لمرجع .NET API
-description: TextShape طريقة. يطبق التحويل المحدد على الشكل.
+title: "TextShape.Transform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TextShape. تطبق التحويل المحدد على الشكل"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.shapes/textshape/transform/
 ---
+{{< psd/tize >}}
 ## TextShape.Transform method
 
 يطبق التحويل المحدد على الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.shapes/textshape/transform/
 public override void Transform(Matrix transform)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | التحول للتطبيق. |
+| transform | Matrix | التحويل الذي سيتم تطبيقه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TextShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../textshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

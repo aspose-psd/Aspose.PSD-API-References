@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: Aspose.PSD لمرجع .NET API
-description: Color ملكية. يحصل على قيمة مكون ألفا لهذاColorهيكل .
+title: "Color.A"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Color. تحصل على قيمة المكوّن ألفا لهذا الهيكل Color"
 type: docs
 weight: 1460
 url: /ar/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-يحصل على قيمة مكون ألفا لهذا[`Color`](../)هيكل .
+يحصل على قيمة المكوّن ألفا لهذا الهيكل [`Color`](../).
 
 ```csharp
 public byte A { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة مكون ألفا لهذا[`Color`](../).
+قيمة المكوّن ألفا لهذا [`Color`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

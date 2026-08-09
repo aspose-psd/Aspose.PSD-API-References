@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Fraction
-second_title: Aspose.PSD لمرجع .NET API
-description: FixedPointDecimal ملكية. الحصول على الكسر أو تعيينه .
+title: "FixedPointDecimal.Fraction"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FixedPointDecimal. تحصل أو تعيين الكسر"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Fraction property
 
-الحصول على الكسر أو تعيينه .
+يحصل أو يضبط الكسر.
 
 ```csharp
 public int Fraction { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الكسر .
+الكسر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FixedPointDecimal](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

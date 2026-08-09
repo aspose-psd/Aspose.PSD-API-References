@@ -1,32 +1,33 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. اختبار ما إذا كان اثنان محددًاColor الهياكل مختلفة.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. تختبر ما إذا كان هيكلان Color محددان مختلفان"
 type: docs
-weight: 1630
+weight: 1650
 url: /ar/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-اختبار ما إذا كان اثنان محددًا[`Color`](../) الهياكل مختلفة.
+تختبر ما إذا كان هيكلان [`Color`](../) محددان مختلفان.
 
 ```csharp
 public static bool operator !=(Color left, Color right)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| left | Color | ال[`Color`](../) هذا على يسار عامل عدم المساواة. |
-| right | Color | ال[`Color`](../) هذا هو حق عامل عدم المساواة. |
+| left | Color | الـ[`Color`](../) الذي يكون إلى يسار عامل عدم المساواة. |
+| right | Color | الـ[`Color`](../) الذي يكون إلى يمين عامل عدم المساواة. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان الاثنان[`Color`](../) الهياكل مختلفة. خلاف ذلك ، خطأ.
+صحيح إذا كان هيكلا [`Color`](../) مختلفين؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

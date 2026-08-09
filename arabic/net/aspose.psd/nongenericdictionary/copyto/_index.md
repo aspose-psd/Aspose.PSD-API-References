@@ -1,28 +1,29 @@
 ---
-title: NonGenericDictionary.CopyTo
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary طريقة. ينسخ عناصر ICollection إلى Array  بدءًا من معينًاArray الفهرس .
+title: "NonGenericDictionary.CopyTo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة NonGenericDictionary. تنسخ عناصر ICollection إلى Array بدءًا من فهرس Array معين"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/nongenericdictionary/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.CopyTo method
 
-ينسخ عناصر ICollection إلى Array ، بدءًا من معينًاArray الفهرس .
+ينسخ عناصر ICollection إلى مصفوفة Array، بدءًا من فهرس Array معين.
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| array | Array | أحادي البعد Array هذه هي وجهة العناصر المنسوخة من ICollection . Array يجب أن يكون الفهرسة الصفرية. |
-| index | Int32 | المؤشر الصفري في *array* عنده يبدأ النسخ. |
+| المصفوفة | Array | المصفوفة أحادية البعد التي هي وجهة العناصر المنسوخة من ICollection. يجب أن تكون الـ Array ذات فهرسة تبدأ من الصفر. |
+| فهرس | Int32 | الفهرس الذي يبدأ من الصفر في *array* حيث يبدأ النسخ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

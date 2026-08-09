@@ -1,31 +1,32 @@
 ---
-title: Class XmpException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.XmpException فصل. الاستثناء الذي يتم طرحه عندما يحتوي XMP على بنية غير صالحة.
+title: "فئة XmpException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.CoreExceptions.XmpException فئة. الاستثناء الذي يُرمى عندما يكون لدى XMP بنية غير صالحة"
 type: docs
 weight: 690
 url: /ar/net/aspose.psd.coreexceptions/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException class
 
-الاستثناء الذي يتم طرحه عندما يحتوي XMP على بنية غير صالحة.
+الاستثناء الذي يُرمى عندما يكون هيكل XMP غير صالح.
 
 ```csharp
 public class XmpException : FrameworkException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpException](xmpexception/#constructor)() | يقوم بتهيئة مثيل جديد لملف`XmpException` فئة . |
-| [XmpException](xmpexception/#constructor_1)(string) | يقوم بتهيئة مثيل جديد لملف`XmpException` فئة . |
-| [XmpException](xmpexception/#constructor_2)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`XmpException` فئة . |
+| [XmpException](xmpexception/#constructor)() | ينشئ مثيلاً جديدًا من فئة `XmpException`. |
+| [XmpException](xmpexception/#constructor_1)(string) | ينشئ مثيلاً جديدًا من فئة `XmpException`. |
+| [XmpException](xmpexception/#constructor_2)(string, Exception) | ينشئ مثيلاً جديدًا من فئة `XmpException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FrameworkException](../frameworkexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

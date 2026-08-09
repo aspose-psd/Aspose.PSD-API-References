@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleStrokeAdjust
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. يحصل أو يحدد ضبط السكتة الدماغية.
+title: "VstkResource.StrokeStyleStrokeAdjust"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعين تعديل الخط"
 type: docs
-weight: 210
+weight: 190
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleStrokeAdjust property
 
-يحصل أو يحدد ضبط السكتة الدماغية.
+يحصل أو يضبط تعديل الضربة.
 
 ```csharp
 public bool StrokeStyleStrokeAdjust { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

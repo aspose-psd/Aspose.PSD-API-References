@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedScale
-second_title: Aspose.PSD لمرجع .NET API
-description: PrintFlagsResource ملكية. الحصول على مقياس التسييل أو تعيينه.
+title: "PrintFlagsResource.BleedScale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PrintFlagsResource. تحصل أو تعين مقياس الحافة الزائدة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedscale/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedScale property
 
-الحصول على مقياس التسييل أو تعيينه.
+يحصل أو يضبط مقياس النزف.
 
 ```csharp
 public short BleedScale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مقياس التسييل .
+مقياس الحافة الزائدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrintFlagsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

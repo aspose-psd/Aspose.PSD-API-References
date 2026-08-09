@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetTrapped
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfPackage طريقة. يضبط المحاصرين .
+title: "PdfPackage.SetTrapped"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PdfPackage. تحدد الحجز"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetTrapped method
 
-يضبط المحاصرين .
+يضبط trapped.
 
 ```csharp
 public void SetTrapped(bool isTrapped)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| isTrapped | Boolean | إذا تم التعيين على`حقيقي` تم حجز المستند. |
+| isTrapped | Boolean | إذا تم تعيينه إلى `true` فإن المستند قد تم حجزه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleRate
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يضبط معدل عينة الصوت .
+title: "XmpDynamicMediaPackage.SetAudioSampleRate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. تُعيّن معدل عينة الصوت"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosamplerate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleRate method
 
-يضبط معدل عينة الصوت .
+يضبط معدل عينة الصوت.
 
 ```csharp
 public void SetAudioSampleRate(int rate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rate | Int32 | معدل عينة الصوت. |
+| معدل | Int32 | معدل عينة الصوت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

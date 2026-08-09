@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.CharacterCount
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على عدد الأحرف أو تعيينه .
+title: "TypeToolInfoResource.CharacterCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل على أو يضبط عدد الأحرف"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.CharacterCount property
 
-الحصول على عدد الأحرف أو تعيينه .
+يحصل أو يضبط عدد الأحرف.
 
 ```csharp
 public int CharacterCount { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد الأحرف .
+عدد الأحرف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

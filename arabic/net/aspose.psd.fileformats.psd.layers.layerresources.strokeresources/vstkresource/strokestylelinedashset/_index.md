@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleLineDashSet
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على أو تعيين مصفوفة من خطوط الخطوط .
+title: "VstkResource.StrokeStyleLineDashSet"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعين مصفوفة من الفواصل الخطية"
 type: docs
-weight: 140
+weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashSet property
 
-الحصول على أو تعيين مصفوفة من خطوط الخطوط .
+يحصل أو يضبط مصفوفة من الشرطات.
 
 ```csharp
 public double[] StrokeStyleLineDashSet { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

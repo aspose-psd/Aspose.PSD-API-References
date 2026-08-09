@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: ExpaResource ملكية. يحصل على الإصدار. الافتراضي هو 1
+title: "ExpaResource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ExpaResource خاصية. يحصل على الإصدار. الافتراضي هو 1"
 type: docs
-weight: 80
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Version property
 
-يحصل على الإصدار. الافتراضي هو 1
+يحصل على الإصدار. القيمة الافتراضية هي 1
 
 ```csharp
 public short Version { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الإصدار .
+الإصدار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExpaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

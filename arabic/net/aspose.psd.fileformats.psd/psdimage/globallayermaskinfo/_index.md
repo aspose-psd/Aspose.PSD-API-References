@@ -1,24 +1,25 @@
 ---
-title: PsdImage.GlobalLayerMaskInfo
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على معلومات قناع الطبقة العالمية .
+title: "PsdImage.GlobalLayerMaskInfo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. يحصل على معلومات قناع الطبقة العامة"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerMaskInfo property
 
-الحصول على معلومات قناع الطبقة العالمية .
+يحصل على معلومات قناع الطبقة العامة.
 
 ```csharp
 public GlobalLayerMaskInfo GlobalLayerMaskInfo { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GlobalLayerMaskInfo](../../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

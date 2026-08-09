@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Lightness
-second_title: Aspose.PSD لمرجع .NET API
-description: Hue2Resource ملكية. الحصول على الإضاءة الرئيسية أو تعيينها.
+title: "Hue2Resource.Lightness"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Hue2Resource. يحصل أو يضبط الإضاءة الرئيسية"
 type: docs
-weight: 60
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Lightness property
 
-الحصول على الإضاءة الرئيسية أو تعيينها.
+يحصل أو يعيّن الإضاءة الأساسية.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الخفة الرئيسية .
+الإضاءة الرئيسية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Hue2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

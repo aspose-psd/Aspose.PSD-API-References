@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Auto
-second_title: Aspose.PSD لمرجع .NET API
-description: CgEdResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذاCgEdResource تلقائي.
+title: "CgEdResource.Auto"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CgEdResource. يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا CgEdResource تلقائيًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Auto property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا[`CgEdResource`](../) تلقائي.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا [`CgEdResource`](../) تلقائيًا.
 
 ```csharp
 public bool Auto { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان تلقائي خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان تلقائيًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CgEdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

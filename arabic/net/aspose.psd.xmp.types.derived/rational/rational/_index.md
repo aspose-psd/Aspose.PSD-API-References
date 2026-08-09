@@ -1,34 +1,35 @@
 ---
-title: Rational.Rational
-second_title: Aspose.PSD لمرجع .NET API
-description: Rational البناء. يقوم بتهيئة مثيل جديد لملفRational فئة .
+title: "Rational.Rational"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Rational. يهيئ نسخة جديدة من الفئة Rational"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.derived/rational/rational/
 ---
+{{< psd/tize >}}
 ## Rational constructor
 
-يقوم بتهيئة مثيل جديد لملف[`Rational`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Rational`](../).
 
 ```csharp
 public Rational(int numerator, int denominator)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | numerator | Int32 | البسط. |
-| denominator | Int32 | المقام. |
+| المقام | Int32 | المقام. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | البسط ؛ يجب أن يكون رقم الرقم صفرًا . أو المقام ؛ يجب أن يكون المقام صفرًا. |
+| ArgumentOutOfRangeException | numerator;Numberator يجب أن يكون أكبر من الصفر. أو denominator;Denominator يجب أن يكون أكبر من الصفر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rational](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

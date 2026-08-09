@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode30
-second_title: Aspose.PSD لمرجع .NET API
-description: TimeFormat ملكية. يحصل على الرمز الزمني
+title: "TimeFormat.Timecode30"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TimeFormat خاصية. يحصل على timecode30"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode30/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode30 property
 
-يحصل على الرمز الزمني
+يحصل على timecode30.
 
 ```csharp
 public static TimeFormat Timecode30 { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الرمز الزمني 30.
+الـ timecode30.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeFormat](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

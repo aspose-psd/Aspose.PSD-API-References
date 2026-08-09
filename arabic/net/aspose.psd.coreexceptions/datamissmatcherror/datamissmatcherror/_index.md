@@ -1,27 +1,28 @@
 ---
-title: DataMissmatchError.DataMissmatchError
-second_title: Aspose.PSD لمرجع .NET API
-description: DataMissmatchError البناء. يقوم بتهيئة مثيل جديد لملفDataMissmatchError فئة .
+title: "DataMissmatchError.DataMissmatchError"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ DataMissmatchError. يهيئ نسخة جديدة من فئة DataMissmatchError"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions/datamissmatcherror/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError constructor
 
-يقوم بتهيئة مثيل جديد لملف[`DataMissmatchError`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`DataMissmatchError`](../).
 
 ```csharp
 public DataMissmatchError(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة التي تصف الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DataMissmatchError](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../datamissmatcherror/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

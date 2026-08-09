@@ -1,27 +1,28 @@
 ---
-title: CmykColor.M
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykColor ملكية. يحصل على قيمة المكون الأرجواني لهذاColorهيكل .
+title: "CmykColor.M"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CmykColor. يحصل على قيمة المكوّن الماجنتا لهذا هيكل Color"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.psd/cmykcolor/m/
 ---
+{{< psd/tize >}}
 ## CmykColor.M property
 
-يحصل على قيمة المكون الأرجواني لهذا[`Color`](../../color/)هيكل .
+يحصل على قيمة المكوّن الماجنتا لهذا الهيكل [`Color`](../../color/).
 
 ```csharp
 public byte M { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة المكون الأرجواني لهذا[`Color`](../../color/) .
+قيمة المكوّن الماجنتا لهذا [`Color`](../../color/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [CmykColor](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

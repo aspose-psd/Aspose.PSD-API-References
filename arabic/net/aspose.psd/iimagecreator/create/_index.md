@@ -1,38 +1,39 @@
 ---
-title: IImageCreator.Create
-second_title: Aspose.PSD لمرجع .NET API
-description: IImageCreator طريقة. لإنشاء مثيل صورة جديد بامتدادimageOptions .
+title: "IImageCreator.Create"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IImageCreator. تنشئ مثيل صورة جديد باستخدام *imageOptions*"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/iimagecreator/create/
 ---
+{{< psd/tize >}}
 ## IImageCreator.Create method
 
-لإنشاء مثيل صورة جديد بامتداد*imageOptions* .
+ينشئ مثيلًا جديدًا للصورة باستخدام *imageOptions*.
 
 ```csharp
 public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptions, int width, 
     int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق لإنشاء بيانات الصورة بتنسيق. |
+| streamContainer | StreamContainer | حاوية الدفق لإنشاء بيانات الصورة فيها. |
 | imageOptions | ImageOptionsBase | خيارات الصورة. |
-| width | Int32 | عرض الصورة الجديدة |
-| height | Int32 | ارتفاع الصورة الجديدة |
+| العرض | Int32 | عرض الصورة الجديدة |
+| الارتفاع | Int32 | ارتفاع الصورة الجديدة |
 
 ### قيمة الإرجاع
 
-مثيل صورة جديد .
+مثيل صورة جديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreator](../)
-* مساحة الاسم [Aspose.PSD](../../iimagecreator/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

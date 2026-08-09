@@ -1,27 +1,28 @@
 ---
-title: ExifData.SpectralSensitivity
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد الحساسية الطيفية .
+title: "ExifData.SpectralSensitivity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط الحساسية الطيفية"
 type: docs
 weight: 970
 url: /ar/net/aspose.psd.exif/exifdata/spectralsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.SpectralSensitivity property
 
-الحصول على أو تحديد الحساسية الطيفية .
+الحصول أو تعيين الحساسية الطيفية.
 
 ```csharp
 public string SpectralSensitivity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحساسية الطيفية .
+الحساسية الطيفية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

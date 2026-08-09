@@ -1,24 +1,25 @@
 ---
-title: ImageOptionsBase.ResolutionSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageOptionsBase ملكية. الحصول على إعدادات الدقة أو تعيينها .
+title: "ImageOptionsBase.ResolutionSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageOptionsBase. تحصل أو تعيين إعدادات الدقة."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/imageoptionsbase/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ResolutionSettings property
 
-الحصول على إعدادات الدقة أو تعيينها .
+يحصل أو يعيّن إعدادات الدقة.
 
 ```csharp
 public virtual ResolutionSetting ResolutionSettings { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResolutionSetting](../../resolutionsetting/)
 * class [ImageOptionsBase](../)
-* مساحة الاسم [Aspose.PSD](../../imageoptionsbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.ImageLength
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على أو تحديد طول الصورة .
+title: "JpegExifData.ImageLength"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين طول الصورة"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.exif/jpegexifdata/imagelength/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageLength property
 
-الحصول على أو تحديد طول الصورة .
+يحصل أو يعيّن طول الصورة.
 
 ```csharp
 public uint ImageLength { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-طول الصورة .
+طول الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

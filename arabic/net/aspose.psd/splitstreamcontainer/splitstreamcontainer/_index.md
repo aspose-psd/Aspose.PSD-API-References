@@ -1,70 +1,71 @@
 ---
-title: SplitStreamContainer.SplitStreamContainer
-second_title: Aspose.PSD لمرجع .NET API
-description: SplitStreamContainer البناء. يقوم بتهيئة مثيل جديد لملفSplitStreamContainer فئة .
+title: "SplitStreamContainer.SplitStreamContainer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ SplitStreamContainer. يهيئ مثلاً جديداً من فئة SplitStreamContainer."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/splitstreamcontainer/splitstreamcontainer/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer(Stream) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SplitStreamContainer`](../) فئة .
+يُنشئ مثلاً جديداً من الفئة [`SplitStreamContainer`](../) class.
 
 ```csharp
 public SplitStreamContainer(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| stream | Stream | التدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(Stream, bool) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`SplitStreamContainer`](../) فئة .
+يُنشئ مثلاً جديداً من الفئة [`SplitStreamContainer`](../) class.
 
 ```csharp
 public SplitStreamContainer(Stream stream, bool disposeStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | stream | Stream | دفق البيانات. |
-| disposeStream | Boolean | إذا تم التعيين على`حقيقي` سيتم التخلص من التيار عند التخلص من الحاوية. |
+| disposeStream | Boolean | إذا تم تعيينه إلى `true` فسيتم التخلص من التدفق عندما يتم التخلص من الحاوية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(StreamContainer, bool) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SplitStreamContainer`](../) فئة .
+يُنشئ مثلاً جديداً من الفئة [`SplitStreamContainer`](../) class.
 
 ```csharp
 public SplitStreamContainer(StreamContainer stream, bool disposeStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | StreamContainer | حاوية التدفق. |
-| disposeStream | Boolean | إذا تم التعيين على`حقيقي` يتصرف تيار. |
+| stream | StreamContainer | حاوية الدفق. |
+| disposeStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

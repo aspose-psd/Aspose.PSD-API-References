@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorBlue
-second_title: Aspose.PSD لمرجع .NET API
-description: BlackWhiteAdjustmentLayer ملكية. الحصول على القيمة المزدوجة لـ Blue Tint Color أو تعيينها.
+title: "BlackWhiteAdjustmentLayer.TintColorBlue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlackWhiteAdjustmentLayer. يحصل أو يضبط قيمة Blue Tint Color double"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorblue/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorBlue property
 
-الحصول على القيمة المزدوجة لـ Blue Tint Color أو تعيينها.
+يحصل أو يضبط القيمة المزدوجة للون الصبغة الأزرق.
 
 ```csharp
 public double TintColorBlue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة المزدوجة للون الأزرق الخفيف .
+قيمة Blue Tint Color double.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية تحرير BlwhResource.
+المثال التالي يوضح كيفية تحرير BlwhResource.
 
 ```csharp
 [C#]
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlackWhiteAdjustmentLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

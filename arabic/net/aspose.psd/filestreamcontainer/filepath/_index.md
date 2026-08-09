@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.FilePath
-second_title: Aspose.PSD لمرجع .NET API
-description: FileStreamContainer ملكية. يحصل على مسار الملف.
+title: "FileStreamContainer.FilePath"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FileStreamContainer. يحصل على مسار الملف"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/filestreamcontainer/filepath/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.FilePath property
 
 يحصل على مسار الملف.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd/filestreamcontainer/filepath/
 public string FilePath { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مسار الملف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../filestreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

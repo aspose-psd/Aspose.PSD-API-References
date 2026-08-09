@@ -1,33 +1,34 @@
 ---
-title: Enum SmoothingMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.SmoothingMode تعداد. يحدد ما إذا كان التنعيم منع الحواف مطبقًا على الخطوط والمنحنيات وحواف المساحات المعبأة.
+title: "تعداد SmoothingMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.SmoothingMode. يحدد ما إذا كان يتم تطبيق تنعيم مضاد للتعرج على الخطوط والمنحنيات وحواف المناطق المملوءة"
 type: docs
-weight: 5570
+weight: 6070
 url: /ar/net/aspose.psd/smoothingmode/
 ---
+{{< psd/tize >}}
 ## SmoothingMode enumeration
 
-يحدد ما إذا كان التنعيم (منع الحواف) مطبقًا على الخطوط والمنحنيات وحواف المساحات المعبأة.
+يحدد ما إذا كان يتم تطبيق التنعيم (مضاد التعرج) على الخطوط والمنحنيات وحواف المناطق المملوءة.
 
 ```csharp
 public enum SmoothingMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Invalid | `-1` | يحدد وضعًا غير صالح . |
-| Default | `0` | يحدد عدم وجود أي تحولات . |
-| HighSpeed | `1` | يحدد عدم وجود أي تحولات . |
-| HighQuality | `2` | تحديد العرض المضاد للتحيز . |
-| None | `3` | يحدد عدم وجود أي تحولات . |
-| AntiAlias | `4` | تحديد العرض المضاد للتحيز . |
+| Invalid | `-1` | يحدد وضعًا غير صالح. |
+| Default | `0` | يحدد عدم وجود مضاد للتعرج. |
+| HighSpeed | `1` | يحدد عدم وجود مضاد للتعرج. |
+| HighQuality | `2` | يحدد عرضًا مضادًا للتعرج. |
+| None | `3` | يحدد عدم وجود مضاد للتعرج. |
+| AntiAlias | `4` | يحدد عرضًا مضادًا للتعرج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToCmyk
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykColorHelper طريقة. التحويل من ألوان ARGB إلى ألوان CMYK.
+title: "CmykColorHelper.ToCmyk"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CmykColorHelper. التحويل من ألوان ARGB إلى ألوان CMYK"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/cmykcolorhelper/tocmyk/
 ---
+{{< psd/tize >}}
 ## ToCmyk(int[]) {#tocmyk_3}
 
 التحويل من ألوان ARGB إلى ألوان CMYK.
@@ -14,19 +15,19 @@ url: /ar/net/aspose.psd/cmykcolorhelper/tocmyk/
 public static int[] ToCmyk(int[] argbPixels)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| argbPixels | Int32[] | يتم تقديم ألوان ARGB كقيم عدد صحيح 32 بت. |
+| argbPixels | Int32[] | ألوان ARGB المقدمة كقيم صحيحة 32‑بت. |
 
 ### قيمة الإرجاع
 
-يتم تقديم ألوان CMYK كقيم عدد صحيح 32 بت.
+ألوان CMYK معروضة كقيم صحيحة 32-بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,19 +39,19 @@ public static int[] ToCmyk(int[] argbPixels)
 public static int ToCmyk(int argbPixel)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| argbPixel | Int32 | يتم تقديم لون ARGB كقيمة عدد صحيح 32 بت. |
+| argbPixel | Int32 | لون ARGB المقدم كقيمة عدد صحيح 32‑بت. |
 
 ### قيمة الإرجاع
 
-يتم تقديم لون CMYK كقيمة عدد صحيح 32 بت.
+لون CMYK معروض كقيمة صحيحة 32-بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -62,20 +63,20 @@ public static int ToCmyk(int argbPixel)
 public static int ToCmyk(Color pixel)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixel | Color | لون ARGB. |
+| pixel | لون | لون ARGB. |
 
 ### قيمة الإرجاع
 
-يتم تقديم لون CMYK كقيمة عدد صحيح 32 بت.
+لون CMYK معروض كقيمة صحيحة 32-بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -87,19 +88,19 @@ public static int ToCmyk(Color pixel)
 public static int[] ToCmyk(Color[] pixels)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixels | Color[] | ألوان ARGB. |
+| بكسلات | Color[] | ألوان ARGB. |
 
 ### قيمة الإرجاع
 
-يتم تقديم ألوان CMYK كقيم عدد صحيح 32 بت.
+ألوان CMYK معروضة كقيم صحيحة 32-بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolorhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ColorantCmyk.ColorValueMin
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantCmyk مجال. قيمة الحد الأدنى للون في تلوين CMYK.
+title: "ColorantCmyk.ColorValueMin"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ColorantCmyk. الحد الأدنى للون في صبغة CMYK."
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.ColorValueMin field
 
-قيمة الحد الأدنى للون في تلوين CMYK.
+القيمة الدنيا للون في صبغة CMYK
 
 ```csharp
 public const float ColorValueMin;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantCmyk](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

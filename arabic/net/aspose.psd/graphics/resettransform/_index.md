@@ -1,23 +1,24 @@
 ---
-title: Graphics.ResetTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يعيد تعيين ملفTransform الخاصية للهوية .
+title: "Graphics.ResetTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. تعيد خاصية Transform إلى الهوية."
 type: docs
-weight: 430
+weight: 440
 url: /ar/net/aspose.psd/graphics/resettransform/
 ---
+{{< psd/tize >}}
 ## Graphics.ResetTransform method
 
-يعيد تعيين ملف[`Transform`](../transform/) الخاصية للهوية .
+يعيد ضبط خاصية [`Transform`](../transform/) إلى الهوية.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

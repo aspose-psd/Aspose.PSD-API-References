@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.Prefix
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage ملكية. يحصل على البادئة .
+title: "XmpPackage.Prefix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPackage. يحصل على البادئة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp/xmppackage/prefix/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Prefix property
 
-يحصل على البادئة .
+يحصل على البادئة.
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Property_Value
+### Property Value
 
-البادئة .
+البادئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

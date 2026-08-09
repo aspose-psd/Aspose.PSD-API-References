@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.UseTint
-second_title: Aspose.PSD لمرجع .NET API
-description: BlwhResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان لون الصبغة مستخدمًا .
+title: "BlwhResource.UseTint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlwhResource. يحصل على أو يضبط قيمة تشير إلى ما إذا كان لون الصبغ مستخدمًا"
 type: docs
-weight: 130
+weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/
 ---
+{{< psd/tize >}}
 ## BlwhResource.UseTint property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [لون الصبغة] مستخدمًا .
+يحصل أو يضبط قيمة تشير إلى ما إذا كان [tint color] مستخدمًا.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم استخدامه [لون خفيف] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا تم استخدام [tint color]؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية تحرير BlwhResource.
+المثال التالي يوضح كيفية تحرير BlwhResource.
 
 ```csharp
 [C#]
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlwhResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

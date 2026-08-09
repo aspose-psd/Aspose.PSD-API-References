@@ -1,102 +1,103 @@
 ---
-title: Region.Union
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. يقوم بتحديث هذاRegion لاتحاد نفسه والمحددةRectangleFهيكل .
+title: "Region.Union"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تُحدّث هذا Region إلى الاتحاد بين نفسه وبنية RectangleF المحددة"
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-يقوم بتحديث هذا[`Region`](../) لاتحاد نفسه والمحددة[`RectangleF`](../../rectanglef/)هيكل .
+يقوم بتحديث هذا [`Region`](../) إلى الاتحاد بين نفسه والبنية [`RectangleF`](../../rectanglef/) المحددة.
 
 ```csharp
 public void Union(RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | ال[`RectangleF`](../../rectanglef/) هيكل لتتحد مع هذا[`Region`](../). |
+| rect | RectangleF | البنية [`RectangleF`](../../rectanglef/) للاتحاد مع هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-يقوم بتحديث هذا[`Region`](../) لاتحاد نفسه والمحددة[`Rectangle`](../../rectangle/)هيكل .
+يحدّث هذا [`Region`](../) إلى الاتحاد بين نفسه والبنية [`Rectangle`](../../rectangle/) المحددة.
 
 ```csharp
 public void Union(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | ال[`Rectangle`](../../rectangle/) هيكل لتتحد مع هذا[`Region`](../). |
+| rect | Rectangle | البنية [`Rectangle`](../../rectangle/) للاتحاد مع هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-يقوم بتحديث هذا[`Region`](../) لاتحاد نفسه والمحددة[`GraphicsPath`](../../graphicspath/) .
+يحدّث هذا [`Region`](../) إلى الاتحاد بين نفسه والبنية [`GraphicsPath`](../../graphicspath/) المحددة.
 
 ```csharp
 public void Union(GraphicsPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | GraphicsPath | ال[`GraphicsPath`](../../graphicspath/) لتتحد مع هذا[`Region`](../). |
+| path | GraphicsPath | البنية [`GraphicsPath`](../../graphicspath/) للاتحاد مع هذا [`Region`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *path* باطل. |
+| ArgumentNullException | *path* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-يقوم بتحديث هذا[`Region`](../) لاتحاد نفسه والمحددة[`Region`](../) .
+يحدّث هذا [`Region`](../) إلى الاتحاد بين نفسه والبنية [`Region`](../) المحددة.
 
 ```csharp
 public void Union(Region region)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| region | Region | ال[`Region`](../) لتتحد مع هذا[`Region`](../). |
+| region | Region | البنية [`Region`](../) للاتحاد مع هذا [`Region`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *region* باطل. |
+| ArgumentNullException | *region* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.FileSource
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على نوع مصدر الملف أو تعيينه.
+title: "ExifData.FileSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يسترجع أو يعيّن نوع مصدر الملف"
 type: docs
 weight: 240
 url: /ar/net/aspose.psd.exif/exifdata/filesource/
 ---
+{{< psd/tize >}}
 ## ExifData.FileSource property
 
-الحصول على نوع مصدر الملف أو تعيينه.
+يحصل أو يضبط نوع مصدر الملف.
 
 ```csharp
 public ExifFileSource FileSource { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 نوع مصدر الملف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifFileSource](../../../aspose.psd.exif.enums/exiffilesource/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

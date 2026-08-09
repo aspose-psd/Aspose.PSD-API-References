@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisteredExporterDescriptors
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageExportersRegistry ملكية. يحصل على واصفات المُصدِّر المُسجَّلة .
+title: "ImageExportersRegistry.RegisteredExporterDescriptors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageExportersRegistry. تحصل على أوصاف المصدر المسجلة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/imageexportersregistry/registeredexporterdescriptors/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredExporterDescriptors property
 
-يحصل على واصفات المُصدِّر المُسجَّلة .
+يحصل على أوصاف المُصدِّرين المسجلين.
 
 ```csharp
 public static IImageExporterDescriptor[] RegisteredExporterDescriptors { get; }
 ```
 
-### Property_Value
+### Property Value
 
-واصفات المصدر المسجل.
+أوصاف المصدر المسجلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageexportersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

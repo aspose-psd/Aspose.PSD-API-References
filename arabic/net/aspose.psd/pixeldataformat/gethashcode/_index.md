@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "PixelDataFormat.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PixelDataFormat. تُرجع قيمة تجزئة لهذا الكائن"
 type: docs
 weight: 360
 url: /ar/net/aspose.psd/pixeldataformat/gethashcode/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة لهذه المثيلة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذه المثيلة، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

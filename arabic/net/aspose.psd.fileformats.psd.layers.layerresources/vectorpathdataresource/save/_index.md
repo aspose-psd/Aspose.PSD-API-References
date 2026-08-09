@@ -1,29 +1,30 @@
 ---
-title: VectorPathDataResource.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorPathDataResource طريقة. يحفظ المورد في حاوية التدفق المحددة.
+title: "VectorPathDataResource.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة VectorPathDataResource. يحفظ المورد إلى حاوية الدفق المحددة"
 type: docs
-weight: 90
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Save method
 
-يحفظ المورد في حاوية التدفق المحددة.
+يحفظ المورد في حاوية الدفق المحددة.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق للحفظ فيها. |
+| streamContainer | StreamContainer | حاوية الدفق التي سيتم الحفظ فيها. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VectorPathDataResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

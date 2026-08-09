@@ -1,19 +1,20 @@
 ---
-title: Aspose.PSD.CoreExceptions.Compressors
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على استثناءات تم طرحها بواسطة إحدى خوارزميات الضغط المدعومة.
+title: "Aspose.PSD.CoreExceptions.Compressors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على الاستثناءات التي تُرمى من أحد خوارزميات الضغط المدعومة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.coreexceptions.compressors/
 ---
-تحتوي مساحة الاسم على استثناءات تم طرحها بواسطة إحدى خوارزميات الضغط المدعومة.
+{{< psd/tize >}}
+مساحة الاسم تحتوي على الاستثناءات التي تُرمى من أحد خوارزميات الضغط المدعومة.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [DeflateCompressorException](./deflatecompressorexception/) | استثناء ضاغط "انكماش" . |
-| [LzwCompressorException](./lzwcompressorexception/) | استثناء ضاغط lzw . |
-| [RleCompressorException](./rlecompressorexception/) | استثناء ضاغط rle . |
+| [DeflateCompressorException](./deflatecompressorexception/) | استثناء ضاغط Deflate. |
+| [LzwCompressorException](./lzwcompressorexception/) | استثناء ضاغط lzw. |
+| [RleCompressorException](./rlecompressorexception/) | استثناء ضاغط rle. |
 
 

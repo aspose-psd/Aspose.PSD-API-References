@@ -1,36 +1,37 @@
 ---
-title: Class LineSegment
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ShapeSegments.LineSegment فصل. يمثل مقطعًا يؤدي إلى انحراف المسافة من نقطة معينة إلى النقطة التالية.
+title: "الفئة LineSegment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ShapeSegments.LineSegment. تمثل مقطعًا ينتقل مباشرةً من نقطة محددة إلى النقطة التالية"
 type: docs
-weight: 5450
+weight: 5950
 url: /ar/net/aspose.psd.shapesegments/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment class
 
-يمثل مقطعًا يؤدي إلى انحراف المسافة من نقطة معينة إلى النقطة التالية.
+يمثل مقطعًا يؤدي مباشرةً من نقطة محددة إلى النقطة التالية.
 
 ```csharp
 public class LineSegment : ShapeSegment
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LineSegment](linesegment/)(PointF, PointF) | يقوم بتهيئة مثيل جديد لملف`LineSegment` فئة . |
+| [LineSegment](linesegment/)(PointF, PointF) | يُنشئ مثيلاً جديدًا للفئة `LineSegment`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | يحصل على نقطة النهاية . |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | يحصل على نقطة البداية . |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | يحصل على نقطة النهاية. |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | يحصل على نقطة البداية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShapeSegment](../../aspose.psd/shapesegment/)
-* مساحة الاسم [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

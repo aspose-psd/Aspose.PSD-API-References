@@ -1,23 +1,24 @@
 ---
-title: UnknownSmartFilter.FilterId
-second_title: Aspose.PSD لمرجع .NET API
-description: UnknownSmartFilter ملكية. يحصل على معرف نوع المرشح الذكي.
+title: "UnknownSmartFilter.FilterId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnknownSmartFilter. يحصل على معرف نوع الفلتر الذكي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid/
 ---
+{{< psd/tize >}}
 ## UnknownSmartFilter.FilterId property
 
-يحصل على معرف نوع المرشح الذكي.
+يحصل على معرف نوع الفلتر الذكي.
 
 ```csharp
 public override int FilterId { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnknownSmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../unknownsmartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

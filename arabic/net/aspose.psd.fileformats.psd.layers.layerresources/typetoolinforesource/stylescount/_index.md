@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfoResource.StylesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على عدد الأنماط .
+title: "TypeToolInfoResource.StylesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل على عدد الأنماط"
 type: docs
-weight: 220
+weight: 190
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/stylescount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.StylesCount property
 
-الحصول على عدد الأنماط .
+يحصل على عدد الأنماط.
 
 ```csharp
 public short StylesCount { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

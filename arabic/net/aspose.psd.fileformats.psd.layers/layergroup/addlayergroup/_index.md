@@ -1,44 +1,45 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerGroup طريقة. يضيف مجموعة الطبقات .
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LayerGroup. يضيف مجموعة الطبقة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
-يضيف مجموعة الطبقات .
+يضيف مجموعة الطبقة.
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | groupName | String | اسم المجموعة. |
-| index | Int32 | فهرس الطبقة المراد إدراجها بعد ذلك. |
+| فهرس | Int32 | فهرس الطبقة التي سيتم الإدراج بعدّها. |
 
 ### قيمة الإرجاع
 
 فتح طبقة المجموعة
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي إضافة LayerGroup إلى LayerGroup أخرى.
+المثال التالي يوضح إضافة LayerGroup إلى LayerGroup آخر.
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// عمل طبقات هرمية مثل هذا:
-// -مجموعة 1
-// - الطبقة 1
+// إنشاء تسلسل طبقات كهذا:
+// -المجموعة 1
+// --الطبقة 1
 // --المجموعة 2
-// --- طبقة 2
-// --- الطبقة 3
-// - طبقة 4
+// ---الطبقة 2
+// ---الطبقة 3
+// --الطبقة 4
 
 var createOptions = new PsdOptions();
 createOptions.Source = new FileCreateSource(sourceFileName, false);
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerGroup](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

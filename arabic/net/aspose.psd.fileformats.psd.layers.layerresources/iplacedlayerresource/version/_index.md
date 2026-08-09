@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: IPlacedLayerResource ملكية. يحصل على نسخة الطبقة الموضوعة في ملف PSD  عادة 35.
+title: "IPlacedLayerResource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPlacedLayerResource. يحصل على إصدار الطبقة الموضوعة في ملف PSD عادةً 35"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Version property
 
-يحصل على نسخة الطبقة الموضوعة في ملف PSD ، عادة 3-5.
+يحصل على إصدار الطبقة الموضعية في ملف PSD، عادةً 3-5.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إصدار طبقة الكائن الموضوعة أو الذكية.
+إصدار الطبقة الموضوعة أو كائن ذكي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPlacedLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

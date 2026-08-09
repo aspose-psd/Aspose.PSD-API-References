@@ -1,11 +1,12 @@
 ---
-title: Lnk2Resource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: Lnk2Resource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "Lnk2Resource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Lnk2Resource. تحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk2Resource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Lnk2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

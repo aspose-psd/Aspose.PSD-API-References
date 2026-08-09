@@ -1,33 +1,34 @@
 ---
-title: CurvesContinuousManager.GetCurvePointByIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvesContinuousManager طريقة. يحصل على نقطة المنحنى بالفهرس .
+title: "CurvesContinuousManager.GetCurvePointByIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CurvesContinuousManager. يحصل على نقطة المنحنى حسب الفهرس"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointByIndex method
 
-يحصل على نقطة المنحنى بالفهرس .
+يحصل على نقطة المنحنى حسب الفهرس.
 
 ```csharp
 public Point GetCurvePointByIndex(int channelIndex, int pointIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | channelIndex | Int32 | فهرس القناة. |
 | pointIndex | Int32 | فهرس النقطة. |
 
 ### قيمة الإرجاع
 
-منحنى نقطة بفهرس القناة
+نقطة المنحنى حسب فهرس القناة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../../aspose.psd/point/)
 * class [CurvesContinuousManager](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

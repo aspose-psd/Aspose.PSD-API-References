@@ -1,23 +1,24 @@
 ---
-title: JpegLsPresetCodingParameters.ResetValue
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegLsPresetCodingParameters ملكية. الحصول على أو تعيين القيمة التي يتم عندها تقسيم العدادات A و B و N إلى النصف.
+title: "JpegLsPresetCodingParameters.ResetValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegLsPresetCodingParameters. تحصل أو تعين القيمة التي يتم عندها تقليل عدادات A B و N إلى النصف"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.ResetValue property
 
-الحصول على أو تعيين القيمة التي يتم عندها تقسيم العدادات A و B و N إلى النصف.
+يحصل أو يضبط القيمة التي يتم عندها تقليل العدادات A و B و N إلى النصف.
 
 ```csharp
 public int ResetValue { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegLsPresetCodingParameters](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

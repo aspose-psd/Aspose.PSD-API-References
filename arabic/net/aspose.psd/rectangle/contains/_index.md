@@ -1,81 +1,82 @@
 ---
-title: Rectangle.Contains
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. لتحديد ما إذا كانت النقطة المحددة متضمنة في هذاRectangleهيكل .
+title: "Rectangle.Contains"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تحدد ما إذا كانت النقطة المحددة موجودة داخل هذا الهيكل Rectangle."
 type: docs
 weight: 220
 url: /ar/net/aspose.psd/rectangle/contains/
 ---
+{{< psd/tize >}}
 ## Contains(int, int) {#contains_2}
 
-لتحديد ما إذا كانت النقطة المحددة متضمنة في هذا[`Rectangle`](../)هيكل .
+تحدد ما إذا كانت النقطة المحددة موجودة داخل هذا الهيكل [`Rectangle`](../).
 
 ```csharp
 public bool Contains(int x, int y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Int32 | إحداثي x للنقطة المراد اختبارها. |
-| y | Int32 | إحداثي ص للنقطة المراد اختبارها. |
+| x | Int32 | إحداثي x للنقطة التي سيتم اختبارها. |
+| y | Int32 | إحداثي y للنقطة التي سيتم اختبارها. |
 
 ### قيمة الإرجاع
 
-هذه الطريقة ترجع صحيحًا إذا كانت النقطة المحددة بواسطة*x* و*y* وارد في هذا[`Rectangle`](../) بناء؛ خلاف ذلك خطأ.
+تعيد هذه الطريقة القيمة true إذا كانت النقطة المعرفة بـ *x* و *y* موجودة داخل هذا الهيكل [`Rectangle`](../)؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(Point) {#contains}
 
-لتحديد ما إذا كانت النقطة المحددة متضمنة في هذا[`Rectangle`](../)هيكل .
+تحدد ما إذا كانت النقطة المحددة موجودة داخل هذا الهيكل [`Rectangle`](../).
 
 ```csharp
 public bool Contains(Point point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | Point | ال[`Point`](../../point/) لاختبار. |
+| point | Point | الـ[`Point`](../../point/) للاختبار. |
 
 ### قيمة الإرجاع
 
-هذه الطريقة ترجع صحيحًا إذا كانت النقطة ممثلة بـ*point* وارد في هذا[`Rectangle`](../) بناء؛ خلاف ذلك خطأ.
+تعيد هذه الطريقة القيمة true إذا كانت النقطة الممثلة بـ *point* موجودة داخل هذا الهيكل [`Rectangle`](../)؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(Rectangle) {#contains_1}
 
-لتحديد ما إذا كانت المنطقة المستطيلة ممثلة بـ*rect* موجود بالكامل في هذا[`Rectangle`](../)هيكل .
+تحدد ما إذا كانت المنطقة المستطيلة الممثلة بـ *rect* موجودة بالكامل داخل هذا الهيكل [`Rectangle`](../).
 
 ```csharp
 public bool Contains(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | ال[`Rectangle`](../) لاختبار. |
+| rect | Rectangle | الـ[`Rectangle`](../) للاختبار. |
 
 ### قيمة الإرجاع
 
-هذه الطريقة تعود صحيحًا إذا كانت المنطقة المستطيلة ممثلة بـ*rect* موجود بالكامل في هذا[`Rectangle`](../) بناء؛ خلاف ذلك خطأ.
+تعيد هذه الطريقة القيمة true إذا كانت المنطقة المستطيلة الممثلة بـ *rect* موجودة بالكامل داخل هذا الهيكل [`Rectangle`](../)؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: LyidResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "LyidResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LyidResource. تحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/
 ---
+{{< psd/tize >}}
 ## LyidResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LyidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

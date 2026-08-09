@@ -1,44 +1,45 @@
 ---
-title: XmpBasicPackage.XmpBasicPackage
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage البناء. يقوم بتهيئة مثيل جديد لملفXmpBasicPackage فئة .
+title: "XmpBasicPackage.XmpBasicPackage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpBasicPackage. يهيئ مثيلاً جديداً من الفئة XmpBasicPackage"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/xmpbasicpackage/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpBasicPackage`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`XmpBasicPackage`](../).
 
 ```csharp
 public XmpBasicPackage()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBasicPackage(string, string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpBasicPackage`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`XmpBasicPackage`](../).
 
 ```csharp
 public XmpBasicPackage(string prefix, string namespaceUri)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| prefix | String | البادئة. |
-| namespaceUri | String | مساحة الاسم URI. |
+| بادئة | String | البادئة. |
+| namespaceUri | String | معرف URI مساحة الاسم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

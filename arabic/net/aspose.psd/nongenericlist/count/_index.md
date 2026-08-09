@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.Count
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericList ملكية. الحصول على عدد العناصر الموجودة في ملفICollection .
+title: "NonGenericList.Count"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية NonGenericList. يحصل على عدد العناصر الموجودة في ICollection."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/nongenericlist/count/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Count property
 
-الحصول على عدد العناصر الموجودة في ملفICollection .
+يحصل على عدد العناصر الموجودة في ICollection.
 
 ```csharp
 public int Count { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericList](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericlist/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

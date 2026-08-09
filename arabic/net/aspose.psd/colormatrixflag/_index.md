@@ -1,30 +1,31 @@
 ---
-title: Enum ColorMatrixFlag
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ColorMatrixFlag تعداد. يحدد أنواع الصور والألوان التي ستتأثر بإعدادات ضبط اللون والدرجات الرماديةImageAttributes .
+title: "تعداد ColorMatrixFlag"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.ColorMatrixFlag. يحدد أنواع الصور والألوان التي سيتأثر بها إعدادات تعديل اللون والرمادي في ImageAttributes."
 type: docs
 weight: 360
 url: /ar/net/aspose.psd/colormatrixflag/
 ---
+{{< psd/tize >}}
 ## ColorMatrixFlag enumeration
 
-يحدد أنواع الصور والألوان التي ستتأثر بإعدادات ضبط اللون والدرجات الرمادية[`ImageAttributes`](../imageattributes/) .
+يحدد أنواع الصور والألوان التي سيتأثر بها إعدادات تعديل اللون وتدرج الرمادي لكائن [`ImageAttributes`](../imageattributes/).
 
 ```csharp
 public enum ColorMatrixFlag
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Default | `0` | يتم ضبط جميع قيم الألوان ، بما في ذلك الظلال الرمادية ، بواسطة نفس مصفوفة ضبط اللون. |
-| SkipGrays | `1` | يتم تعديل جميع الألوان ، لكن لم يتم ضبط الظلال الرمادية. الظل الرمادي هو أي لون له نفس القيمة لمكوناته الأحمر والأخضر والأزرق. |
-| AltGrays | `2` | يتم تعديل الظلال الرمادية فقط . |
+| Default | `0` | يتم تعديل جميع قيم الألوان، بما في ذلك درجات الرمادي، بواسطة نفس مصفوفة تعديل اللون. |
+| SkipGrays | `1` | يتم تعديل جميع الألوان، لكن درجات الرمادي لا تُعدل. درجة الرمادي هي أي لون يمتلك نفس القيمة لمكوّناته الحمراء والخضراء والزرقاء. |
+| AltGrays | `2` | يتم تعديل درجات الرمادي فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

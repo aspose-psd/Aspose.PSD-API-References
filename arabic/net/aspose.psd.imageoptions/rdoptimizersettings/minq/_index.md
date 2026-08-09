@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: Aspose.PSD لمرجع .NET API
-description: RdOptimizerSettings ملكية. يحصل على أدنى قيمة تكمية مسموح بها.
+title: "RdOptimizerSettings.MinQ"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RdOptimizerSettings. يحصل على القيمة الدنيا المسموح بها للتكميم"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.imageoptions/rdoptimizersettings/minq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MinQ property
 
-يحصل على أدنى قيمة تكمية مسموح بها.
+يحصل على الحد الأدنى المسموح به للتكميم.
 
 ```csharp
 public int MinQ { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأدنى لقيمة التكمية المسموح بها .
+القيمة الدنيا المسموح بها للتكميم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RdOptimizerSettings](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

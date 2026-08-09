@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: InnerShadowEffect ملكية. الحصول على أو تعيين قيمة التمويه بالبكسل.
+title: "InnerShadowEffect.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية InnerShadowEffect. يحصل أو يضبط قيمة الضبابية بالبكسل"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Size property
 
-الحصول على أو تعيين قيمة التمويه بالبكسل.
+يحصل أو يضبط قيمة الضبابية بالبكسل.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحجم .
+الحجم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InnerShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

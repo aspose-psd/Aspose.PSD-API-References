@@ -1,28 +1,29 @@
 ---
-title: AiImage.Header
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. يحصل على العنوان .
+title: "AiImage.Header"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. يحصل على الترويسة"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
-يحصل على العنوان .
+يحصل على الرأس.
 
 ```csharp
 public AiHeader Header { get; }
 ```
 
-### Property_Value
+### Property Value
 
-العنوان .
+الترويسة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

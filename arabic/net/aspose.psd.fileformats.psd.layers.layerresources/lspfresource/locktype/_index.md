@@ -1,28 +1,29 @@
 ---
-title: LspfResource.LockType
-second_title: Aspose.PSD لمرجع .NET API
-description: LspfResource ملكية. الحصول على نوع القفل أو تحديده.
+title: "LspfResource.LockType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LspfResource. تحصل أو تعيين نوع القفل"
 type: docs
-weight: 70
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/
 ---
+{{< psd/tize >}}
 ## LspfResource.LockType property
 
-الحصول على نوع القفل أو تحديده.
+يحصل أو يعيّن نوع القفل.
 
 ```csharp
 public LayerLockType LockType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع القفل .
+نوع القفل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LayerLockType](../../layerlocktype/)
 * class [LspfResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

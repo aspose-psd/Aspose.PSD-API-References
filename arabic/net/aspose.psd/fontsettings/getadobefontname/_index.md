@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings طريقة. يحصل على اسم خط adobe حسب اسم عائلة الخط.
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FontSettings. يحصل على اسم خط Adobe بناءً على اسم عائلة الخط"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-يحصل على اسم خط adobe حسب اسم عائلة الخط.
+يحصل على اسم خط أدوبي بناءً على اسم عائلة الخط.
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontFamilyName | String | اسم عائلة الخط. |
 
 ### قيمة الإرجاع
 
-اسم خط adobe حسب اسم عائلة الخط.
+اسم خط Adobe بناءً على اسم عائلة الخط.
 
-### أمثلة
+## أمثلة
 
-توضح التعليمات البرمجية التالية القدرة على تغيير اسم الخط في نمط الجزء.
+الكود التالي يوضح القدرة على تغيير اسم الخط في نمط الجزء.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -77,10 +78,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

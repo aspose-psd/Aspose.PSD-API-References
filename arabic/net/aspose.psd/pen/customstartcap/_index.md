@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomStartCap
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على غطاء مخصص أو تعيينه لاستخدامه في بداية السطور المرسومة بهذاPen .
+title: "Pen.CustomStartCap"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيين غطاء مخصص لاستخدامه في بداية الخطوط المرسومة بهذا Pen."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/pen/customstartcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomStartCap property
 
-الحصول على غطاء مخصص أو تعيينه لاستخدامه في بداية السطور المرسومة بهذا[`Pen`](../) .
+تحصل أو تعيين غطاء مخصص لاستخدامه في بداية الخطوط المرسومة بهذا [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomStartCap { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`CustomLineCap`](../../customlinecap/) التي تمثل الغطاء المستخدم في بداية السطور المرسومة بهذا[`Pen`](../).
+[`CustomLineCap`](../../customlinecap/) الذي يمثل الغطاء المستخدم في بداية الخطوط المرسومة بهذا [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`CustomStartCap` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `CustomStartCap` تُحدد على كائن [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

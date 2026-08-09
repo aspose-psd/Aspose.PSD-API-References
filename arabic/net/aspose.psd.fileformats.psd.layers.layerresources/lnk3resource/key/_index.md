@@ -1,11 +1,12 @@
 ---
-title: Lnk3Resource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: Lnk3Resource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "Lnk3Resource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Lnk3Resource. تحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,9 +15,9 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 public override int Key { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال كيفية الحصول على خصائص Lnk2Resource و Lnk3Resource وتعيينها.
+يوضح هذا المثال كيفية الحصول على خصائص وتعيينها للـ Lnk2Resource و Lnk3Resource.
 
 ```csharp
 [C#]
@@ -125,7 +126,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// يقوم بتحميل البيانات الجديدة لكائن ذكي في ملف PSD.
+// يحمّل البيانات الجديدة لكائن ذكي في ملف PSD.
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// الحصول على وتعيين خصائص مصدر PSD Lnk2 / Lnk3 ومصادر بيانات liFD في صورة PSD
+// يحصل ويعيّن خصائص مورد PSD Lnk2 / Lnk3 ومصادر بيانات liFD الخاصة به في صورة PSD.
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // 32 بت لكل قناة حفظ غير مدعوم حتى الآن
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// يوضح هذا المثال كيفية الحصول على خصائص PSD Lnk2 Resource وتعيينها ومصادر بيانات liFD الخاصة به بمعدل 8 بت لكل قناة.
+// يوضح هذا المثال كيفية الحصول على خصائص وتعيينها لمورد PSD Lnk2 ومصادر بيانات liFD الخاصة به لصور 8 بت لكل قناة.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// يوضح هذا المثال كيفية الحصول على خصائص PSD Lnk3 Resource وتعيينها ومصادر بيانات liFD الخاصة به بمعدل 32 بت لكل قناة.
+// يوضح هذا المثال كيفية الحصول على خصائص وتعيينها لمورد PSD Lnk3 ومصادر بيانات liFD الخاصة به لصور 32 بت لكل قناة.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// يوضح هذا المثال كيفية الحصول على خصائص PSD Lnk2 Resource وتعيينها ومصادر بيانات liFD الخاصة به بمعدل 16 بت لكل قناة.
+// يوضح هذا المثال كيفية الحصول على خصائص وتعيينها لمورد PSD Lnk2 ومصادر بيانات liFD الخاصة به لصور 16 بت لكل قناة.
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Lnk3Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

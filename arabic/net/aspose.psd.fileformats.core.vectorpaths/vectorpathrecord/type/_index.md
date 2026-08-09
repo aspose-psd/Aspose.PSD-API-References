@@ -1,11 +1,12 @@
 ---
-title: VectorPathRecord.Type
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorPathRecord ملكية. يحصل على النوع.
+title: "VectorPathRecord.Type"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorPathRecord. يحصل على النوع"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord.Type property
 
 يحصل على النوع.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 public abstract VectorPathType Type { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع مسار المتجه .
+نوع مسار المتجه.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [VectorPathRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

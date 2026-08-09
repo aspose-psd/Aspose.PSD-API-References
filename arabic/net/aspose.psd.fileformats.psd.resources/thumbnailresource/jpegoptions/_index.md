@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.JpegOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على أو تعيين خيارات JPEG. مناسب عندما يتم حفظ المورد المصغر في تنسيق ملف JPEG فقط. هذا الخيار ليس له أي تأثير عند تحديد تنسيق RAW.
+title: "ThumbnailResource.JpegOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. تحصل أو تعين خيارات JPEG. مناسبة عندما يتم حفظ مورد الصورة المصغرة بتنسيق ملف JPEG فقط. هذا الخيار لا يؤثر عندما يتم تعريف تنسيق RAW"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.JpegOptions property
 
-الحصول على أو تعيين خيارات JPEG. مناسب عندما يتم حفظ المورد المصغر في تنسيق ملف JPEG فقط. هذا الخيار ليس له أي تأثير عند تحديد تنسيق RAW.
+يحصل أو يضبط خيارات JPEG. مناسب عندما يتم حفظ مورد الصورة المصغرة بصيغة ملف JPEG فقط. هذا الخيار لا يؤثر عندما يتم تعريف صيغة RAW.
 
 ```csharp
 public JpegOptions JpegOptions { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-خيارات JPEG .
+خيارات JPEG.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegOptions](../../../aspose.psd.imageoptions/jpegoptions/)
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

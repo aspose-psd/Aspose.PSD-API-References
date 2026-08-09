@@ -1,51 +1,52 @@
 ---
-title: Class SoCoResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource فصل. Class SoCoResource. يحتوي هذا المورد على معلومات حول Color Fill Layers
+title: "الفئة SoCoResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource. الفئة SoCoResource. يحتوي هذا المورد على معلومات حول طبقات تعبئة اللون"
 type: docs
-weight: 3010
+weight: 3360
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource class
 
-Class SoCoResource. يحتوي هذا المورد على معلومات حول Color Fill Layers
+الفئة SoCoResource. يحتوي هذا المورد على معلومات حول طبقات تعبئة اللون.
 
 ```csharp
 public class SoCoResource : FillLayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SoCoResource](socoresource/)() | يقوم بتهيئة مثيل جديد لملف`SoCoResource` فئة . |
+| [SoCoResource](socoresource/)() | ينشئ مثيلًا جديدًا للفئة `SoCoResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | يحصل على لون RGB . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/) { get; } | يحصل على الحد الأدنى من إصدار psd المطلوب لمورد الطبقة. 0 يشير إلى عدم وجود قيود. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/) { get; } | يحصل على توقيع مورد الطبقة. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | يحصل على لون RGB. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية تحرير SoCoResource (Layer Resource for Color Fill Layer)
+المثال التالي يوضح كيفية تحرير SoCoResource (مورد الطبقة لطبقة تعبئة اللون)
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ public class SoCoResource : FillLayerResource
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
@@ -80,7 +81,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // تعيين خاصية SoCoResource Color
+                    // تعيين خاصية اللون في SoCoResource
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -92,11 +93,11 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

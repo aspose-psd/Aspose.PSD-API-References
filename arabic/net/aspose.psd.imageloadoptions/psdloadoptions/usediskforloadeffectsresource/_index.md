@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.UseDiskForLoadEffectsResource
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdLoadOptions ملكية. الحصول على أو تعيين قيمة تشير إلى استخدام القرص لمورد تأثيرات التحميل القرص المستخدم افتراضيًا لتحميل مورد التأثيرات  ولكن يمكن استخدام الذاكرة إذا كانت كافية عن طريق تعيين هذه القيمة على خطأ .
+title: "PsdLoadOptions.UseDiskForLoadEffectsResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdLoadOptions. تحصل أو تعين قيمة تشير إلى ما إذا كان يتم استخدام القرص لتحميل موارد التأثيرات. بشكل افتراضي يُستخدم القرص لتحميل موارد التأثيرات ولكن يمكن استخدام الذاكرة إذا كان ذلك كافيًا عن طريق تعيين هذه القيمة إلى false"
 type: docs
-weight: 70
+weight: 90
 url: /ar/net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.UseDiskForLoadEffectsResource property
 
-الحصول على أو تعيين قيمة تشير إلى [استخدام القرص لمورد تأثيرات التحميل] (القرص المستخدم افتراضيًا لتحميل مورد التأثيرات ، ولكن يمكن استخدام الذاكرة إذا كانت كافية عن طريق تعيين هذه القيمة على خطأ) .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [استخدام القرص لتحميل موارد التأثيرات] (بشكل افتراضي يُستخدم القرص لتحميل موارد التأثيرات، ولكن يمكن استخدام الذاكرة إذا كان ذلك كافياً بتعيين هذه القيمة إلى false).
 
 ```csharp
 public bool UseDiskForLoadEffectsResource { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [استخدم القرص لمورد تأثيرات التحميل] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [استخدام القرص لتحميل موارد التأثيرات]; وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdLoadOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

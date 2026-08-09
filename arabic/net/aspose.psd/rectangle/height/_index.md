@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle ملكية. الحصول على أو تحديد ارتفاع هذاRectangleهيكل .
+title: "Rectangle.Height"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rectangle. تحصل أو تعين ارتفاع هذا الهيكل Rectangle."
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/rectangle/height/
 ---
+{{< psd/tize >}}
 ## Rectangle.Height property
 
-الحصول على أو تحديد ارتفاع هذا[`Rectangle`](../)هيكل .
+تحصل أو تعين ارتفاع هذا الهيكل [`Rectangle`](../).
 
 ```csharp
 public int Height { get; set; }
@@ -16,12 +17,12 @@ public int Height { get; set; }
 
 ### قيمة الإرجاع
 
-ارتفاع هذا[`Rectangle`](../) بناء.
+ارتفاع هذا الهيكل [`Rectangle`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

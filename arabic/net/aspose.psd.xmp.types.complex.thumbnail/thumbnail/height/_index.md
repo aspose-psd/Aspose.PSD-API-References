@@ -1,33 +1,34 @@
 ---
-title: Thumbnail.Height
-second_title: Aspose.PSD لمرجع .NET API
-description: Thumbnail ملكية. الحصول على الارتفاع أو تحديده .
+title: "Thumbnail.Height"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Thumbnail. يحصل أو يعيّن الارتفاع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Height property
 
-الحصول على الارتفاع أو تحديده .
+يحصل أو يعيّن الارتفاع.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الارتفاع .
+الارتفاع.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | القيمة ؛ لا يمكن أن يكون الارتفاع أقل من صفر |
+| ArgumentOutOfRangeException | القيمة؛ Height لا يمكن أن يكون أقل من الصفر |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Thumbnail](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

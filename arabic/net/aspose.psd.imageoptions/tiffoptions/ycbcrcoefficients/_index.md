@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.YCbCrCoefficients
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين YCbCrCoefficients .
+title: "TiffOptions.YCbCrCoefficients"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. يحصل أو يضبط YCbCrCoefficients"
 type: docs
-weight: 660
+weight: 670
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrCoefficients property
 
-الحصول على أو تعيين YCbCrCoefficients .
+يحصل أو يضبط YCbCrCoefficients.
 
 ```csharp
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معاملات YCbCrCoefficients .
+ال YCbCrCoefficients.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | عدد غير صالح لقيم المعامل المنطقية. يجب أن تكون مساوية لـ 3. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | عدد غير صالح من قيم المعاملات النسبية. يجب أن يكون مساويًا لـ 3. |
 | ArgumentNullException | قيمة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

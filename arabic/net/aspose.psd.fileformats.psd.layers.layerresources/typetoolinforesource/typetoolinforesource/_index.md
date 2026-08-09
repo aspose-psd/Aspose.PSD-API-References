@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfoResource.TypeToolInfoResource
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource البناء. Default_Constructor
+title: "TypeToolInfoResource.TypeToolInfoResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TypeToolInfoResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typetoolinforesource/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public TypeToolInfoResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

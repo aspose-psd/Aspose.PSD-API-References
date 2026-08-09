@@ -1,28 +1,24 @@
 ---
-title: Frame.Frame
-second_title: Aspose.PSD لمرجع .NET API
-description: Frame البناء. يقوم بتهيئة مثيل جديد لملفFrame فئة .
+title: "Frame.Frame"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Frame. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/frame/frame/
 ---
+{{< psd/tize >}}
 ## Frame constructor
 
-يقوم بتهيئة مثيل جديد لملف[`Frame`](../) فئة .
+الباني الافتراضي.
 
 ```csharp
-public Frame(TimeLine timeLine)
+public Frame()
 ```
 
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| timeLine | TimeLine | كائن المخطط الزمني. |
+### انظر أيضًا
 
-### أنظر أيضا
-
-* class [TimeLine](../../timeline/)
 * class [Frame](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

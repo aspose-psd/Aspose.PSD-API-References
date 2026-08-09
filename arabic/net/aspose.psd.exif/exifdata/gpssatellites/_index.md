@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSSatellites
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين الأقمار الصناعية لنظام تحديد المواقع العالمي GPS المستخدمة للقياسات.
+title: "ExifData.GPSSatellites"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط أقمار GPS المستخدمة للقياسات"
 type: docs
 weight: 590
 url: /ar/net/aspose.psd.exif/exifdata/gpssatellites/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSatellites property
 
-الحصول على أو تعيين الأقمار الصناعية لنظام تحديد المواقع العالمي (GPS) المستخدمة للقياسات.
+الحصول أو تعيين أقمار GPS المستخدمة للقياسات.
 
 ```csharp
 public string GPSSatellites { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أقمار GPS الصناعية المستخدمة للقياسات .
+أقمار GPS المستخدمة للقياسات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

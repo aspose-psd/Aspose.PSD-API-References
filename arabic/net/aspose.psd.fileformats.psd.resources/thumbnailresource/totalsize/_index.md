@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.TotalSize
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على الحجم الإجمالي للبيانات.
+title: "ThumbnailResource.TotalSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. تحصل على حجم البيانات الكلي"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.TotalSize property
 
-الحصول على الحجم الإجمالي للبيانات.
+يحصل على الحجم الكلي للبيانات.
 
 ```csharp
 public int TotalSize { get; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم البيانات الإجمالي.
+حجم البيانات الكلي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.JpegLsPreset
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegOptions ملكية. الحصول على أو تعيين معلمات الإعداد المسبق لـ JPEGLS.
+title: "JpegOptions.JpegLsPreset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegOptions. تحصل أو تعين معلمات الإعداد المسبق لـ JPEGLS"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.psd.imageoptions/jpegoptions/jpeglspreset/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsPreset property
 
-الحصول على أو تعيين معلمات الإعداد المسبق لـ JPEG-LS.
+يحصل أو يضبط معلمات الإعداد المسبق لـ JPEG-LS.
 
 ```csharp
 public JpegLsPresetCodingParameters JpegLsPreset { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegLsPresetCodingParameters](../../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/)
 * class [JpegOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

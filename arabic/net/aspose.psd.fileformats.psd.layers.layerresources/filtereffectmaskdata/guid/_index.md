@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.GUID
-second_title: Aspose.PSD لمرجع .NET API
-description: FilterEffectMaskData ملكية. يحصل على GUID.
+title: "FilterEffectMaskData.GUID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FilterEffectMaskData. يحصل على GUID"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/guid/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.GUID property
 
 يحصل على GUID.
@@ -14,7 +15,7 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public string GUID { get; }
 ```
 
-### أمثلة
+## أمثلة
 
 يوضح هذا المثال كيفية الحصول على خصائص مورد FXidResource وتعيينها.
 
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,10 +62,10 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FilterEffectMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

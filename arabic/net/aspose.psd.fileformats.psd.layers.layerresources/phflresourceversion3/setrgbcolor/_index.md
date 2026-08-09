@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.SetRgbColor
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResourceVersion3 طريقة. يضبط لون RGB.
+title: "PhflResourceVersion3.SetRgbColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhflResourceVersion3 طريقة. يضبط لون RGB"
 type: docs
-weight: 120
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.SetRgbColor method
 
 يضبط لون RGB.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversio
 public override void SetRgbColor(Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | Color | اللون. |
+| لون | لون | اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion3](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

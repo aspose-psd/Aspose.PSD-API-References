@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetComposer
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يحدد الملحن.
+title: "XmpDynamicMediaPackage.SetComposer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. تعيين الملحن"
 type: docs
 weight: 160
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomposer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComposer method
 
-يحدد الملحن.
+يضبط المؤلف.
 
 ```csharp
 public void SetComposer(string composer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| composer | String | الملحن. |
+| الملحن | String | الملحن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

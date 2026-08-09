@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetTransmissionReference
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يضبط مرجع الإرسال.
+title: "PhotoshopPackage.SetTransmissionReference"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhotoshopPackage طريقة. يحدد مرجع الإرسال"
 type: docs
 weight: 190
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetTransmissionReference method
 
 يضبط مرجع الإرسال.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionre
 public void SetTransmissionReference(string transmissionReference)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | transmissionReference | String | مرجع الإرسال. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

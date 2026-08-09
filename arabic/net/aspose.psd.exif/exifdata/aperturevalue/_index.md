@@ -1,28 +1,29 @@
 ---
-title: ExifData.ApertureValue
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على قيمة الفتحة أو تعيينها.
+title: "ExifData.ApertureValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط قيمة الفتحة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.exif/exifdata/aperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ApertureValue property
 
-الحصول على قيمة الفتحة أو تعيينها.
+يحصل أو يضبط قيمة الفتحة.
 
 ```csharp
 public TiffRational ApertureValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة الفتحة .
+قيمة الفتحة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,45 +1,46 @@
 ---
-title: RasterImage.NormalizeAngle
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تطبيع الزاوية. هذه الطريقة قابلة للتطبيق على المستندات النصية الممسوحة ضوئيًا للتخلص من المسح المنحرف . تستخدم هذه الطريقةGetSkewAngle وRotate الأساليب .
+title: "RasterImage.NormalizeAngle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. يضبط الزاوية. هذه الطريقة قابلة للتطبيق على مستندات النص الممسوحة ضوئيًا للتخلص من الانحراف. هذه الطريقة تستخدم طريقتي GetSkewAngle و Rotate."
 type: docs
-weight: 420
+weight: 430
 url: /ar/net/aspose.psd/rasterimage/normalizeangle/
 ---
+{{< psd/tize >}}
 ## NormalizeAngle() {#normalizeangle}
 
-تطبيع الزاوية. هذه الطريقة قابلة للتطبيق على المستندات النصية الممسوحة ضوئيًا للتخلص من المسح المنحرف . تستخدم هذه الطريقة[`GetSkewAngle`](../getskewangle/) و[`Rotate`](../rotate/) الأساليب .
+يضبط الزاوية. هذه الطريقة قابلة للتطبيق على مستندات النص الممسوحة ضوئيًا للتخلص من الانحراف. هذه الطريقة تستخدم [`GetSkewAngle`](../getskewangle/) و [`Rotate`](../rotate/) .
 
 ```csharp
 public void NormalizeAngle()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NormalizeAngle(bool, Color) {#normalizeangle_1}
 
-تطبيع الزاوية. هذه الطريقة قابلة للتطبيق على المستندات النصية الممسوحة ضوئيًا للتخلص من المسح المنحرف . تستخدم هذه الطريقة[`GetSkewAngle`](../getskewangle/) و[`Rotate`](../rotate/) الأساليب .
+يضبط الزاوية. هذه الطريقة قابلة للتطبيق على مستندات النص الممسوحة ضوئيًا للتخلص من الانحراف. هذه الطريقة تستخدم [`GetSkewAngle`](../getskewangle/) و [`Rotate`](../rotate/) .
 
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| resizeProportionally | Boolean | إذا تم التعيين على`حقيقي` سيتم تغيير حجم صورتك وفقًا لإسقاطات المستطيل المستدير (نقاط الزاوية) في حالة أخرى والتي تترك الأبعاد دون تغيير ويتم تدوير محتويات الصورة الداخلية فقط. |
-| backgroundColor | Color | لون الخلفية. |
+| resizeProportionally | Boolean | إذا تم تعيينه إلى `true` سيتغير حجم الصورة وفقًا لإسقاطات المستطيل المدور (نقاط الزوايا)، وفي الحالة الأخرى تُترك الأبعاد دون تغيير وتُدور محتويات الصورة الداخلية فقط. |
+| backgroundColor | لون | لون الخلفية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

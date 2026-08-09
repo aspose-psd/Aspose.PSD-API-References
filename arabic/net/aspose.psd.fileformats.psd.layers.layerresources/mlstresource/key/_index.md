@@ -1,11 +1,12 @@
 ---
-title: MlstResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: MlstResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "MlstResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MlstResource. يحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/
 ---
+{{< psd/tize >}}
 ## MlstResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MlstResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

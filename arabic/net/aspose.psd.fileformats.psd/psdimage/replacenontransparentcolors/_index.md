@@ -1,27 +1,28 @@
 ---
-title: PsdImage.ReplaceNonTransparentColors
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يستبدل كل الألوان غير الشفافة بلون جديد ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف الناعمة . ملاحظة إذا كنت تستخدمها على صور بدون شفافية  فسيتم استبدال كل الألوان بأخرى.
+title: "PsdImage.ReplaceNonTransparentColors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تستبدل جميع الألوان غير الشفافة بلون جديد وتحافظ على قيمة ألفا الأصلية للحفاظ على حواف ناعمة. ملاحظة: إذا استخدمتها على صور بدون شفافية، سيتم استبدال جميع الألوان بلون واحد."
 type: docs
-weight: 580
+weight: 640
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/replacenontransparentcolors/
 ---
+{{< psd/tize >}}
 ## PsdImage.ReplaceNonTransparentColors method
 
-يستبدل كل الألوان غير الشفافة بلون جديد ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف الناعمة . ملاحظة: إذا كنت تستخدمها على صور بدون شفافية ، فسيتم استبدال كل الألوان بأخرى.
+يستبدل جميع الألوان غير الشفافة بلون جديد ويحافظ على قيمة ألفا الأصلية للحفاظ على حواف ناعمة. ملاحظة: إذا استخدمتها على صور بدون شفافية، سيتم استبدال جميع الألوان بلون واحد.
 
 ```csharp
 public override void ReplaceNonTransparentColors(int newColorArgb)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newColorArgb | Int32 | قيمة ARGB الجديدة للون لاستبدال الألوان غير الشفافة بـ. |
+| newColorArgb | Int32 | قيمة ARGB للون الجديد لاستبدال الألوان غير الشفافة بها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpClassName
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على اسم فئة الالتواء أو تعيينه.
+title: "TypeToolInfo6Resource.WarpClassName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfo6Resource. يحصل أو يحدد اسم فئة التشويه"
 type: docs
-weight: 180
+weight: 150
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassname/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpClassName property
 
-الحصول على اسم فئة الالتواء أو تعيينه.
+يحصل أو يضبط اسم فئة التشويه.
 
 ```csharp
 public string WarpClassName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم فئة الالتواء .
+اسم فئة التشويه.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

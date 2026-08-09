@@ -1,49 +1,50 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix طريقة. تضرب هذه المصفوفة بالمصفوفة المحددة في معلمة المصفوفة  وبالترتيب المحدد في معامل الطلب.
+title: "Matrix.Multiply"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Matrix. تضرب هذه المصفوفة بالمصفوفة المحددة في معامل matrix وبالترتيب المحدد في معامل order"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/matrix/multiply/
 ---
+{{< psd/tize >}}
 ## Multiply(Matrix, MatrixOrder) {#multiply_1}
 
-تضرب هذه المصفوفة بالمصفوفة المحددة في معلمة المصفوفة ، وبالترتيب المحدد في معامل الطلب.
+يضرب هذه Matrix بالمصفوفة المحددة في معامل matrix، وبالترتيب المحدد في معامل order.
 
 ```csharp
 public void Multiply(Matrix Tx, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| Tx | Matrix | ملف tx. ملف tx. ملف tx. |
-| order | MatrixOrder | الأمر - الطلب. الأمر - الطلب. الأمر - الطلب. |
+| Tx | Matrix | الـ tx. الـ tx. الـ tx. |
+| الترتيب | MatrixOrder | الترتيب. الترتيب. الترتيب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Multiply(Matrix) {#multiply}
 
-ضرب هذه المصفوفة بالمصفوفة المحددة في معامل المصفوفة باستخدام (افتراضي) ترتيب الإيداع المسبق .
+يضرب هذه Matrix بالمصفوفة المحددة في معامل matrix باستخدام ترتيب (Prepend) الافتراضي.
 
 ```csharp
 public void Multiply(Matrix Tx)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| Tx | Matrix | المصفوفة المراد ضربها. |
+| Tx | Matrix | المصفوفة التي سيتم الضرب معها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

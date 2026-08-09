@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsMagentaGreenBalance
-second_title: Aspose.PSD لمرجع .NET API
-description: BlncResource ملكية. الحصول على أو تعيين توازن الأخضر الأرجواني المميز .
+title: "BlncResource.HighlightsMagentaGreenBalance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlncResource. يحصل على أو يضبط توازن المغنتا الأخضر للإبرازات"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsMagentaGreenBalance property
 
-الحصول على أو تعيين توازن الأخضر الأرجواني المميز .
+يحصل أو يضبط توازن الإضاءات للماجنتا الأخضر.
 
 ```csharp
 public short HighlightsMagentaGreenBalance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-يبرز التوازن الأخضر الأرجواني .
+توازن السطوع الماجنتا الأخضر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlncResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

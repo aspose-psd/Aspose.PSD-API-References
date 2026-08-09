@@ -1,29 +1,30 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType تعداد. نوع اللون .
+title: "التعداد ColorType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType. نوع اللون"
 type: docs
-weight: 6000
+weight: 6500
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
+{{< psd/tize >}}
 ## ColorType enumeration
 
-نوع اللون .
+نوع اللون.
 
 ```csharp
 public enum ColorType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Process | `1` | نوع لون المعالجة . |
-| Spot | `2` | نوع لون التركيز . |
+| Process | `1` | نوع لون المعالجة. |
+| Spot | `2` | نوع لون البقعة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: RasterImage.ReplaceNonTransparentColors
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يستبدل كل الألوان غير الشفافة بلون جديد ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف الناعمة . ملاحظة إذا كنت تستخدمها على صور بدون شفافية  فسيتم استبدال كل الألوان بأخرى.
+title: "RasterImage.ReplaceNonTransparentColors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تستبدل جميع الألوان غير الشفافة بلون جديد وتحافظ على قيمة ألفا الأصلية للحفاظ على الحواف السلسة. ملاحظة: إذا استخدمتها على صور بدون شفافية فستُستبدل جميع الألوان بلون واحد"
 type: docs
-weight: 460
+weight: 470
 url: /ar/net/aspose.psd/rasterimage/replacenontransparentcolors/
 ---
+{{< psd/tize >}}
 ## ReplaceNonTransparentColors(Color) {#replacenontransparentcolors}
 
-يستبدل كل الألوان غير الشفافة بلون جديد ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف الناعمة . ملاحظة: إذا كنت تستخدمها على صور بدون شفافية ، فسيتم استبدال كل الألوان بأخرى.
+يستبدل جميع الألوان غير الشفافة بلون جديد ويحافظ على قيمة ألفا الأصلية للحفاظ على حواف ناعمة. ملاحظة: إذا استخدمتها على صور بدون شفافية، سيتم استبدال جميع الألوان بلون واحد.
 
 ```csharp
 public void ReplaceNonTransparentColors(Color newColor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newColor | Color | لون جديد ليحل محل الألوان غير الشفافة. |
+| newColor | لون | اللون الجديد لاستبدال الألوان غير الشفافة به. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceNonTransparentColors(int) {#replacenontransparentcolors_1}
 
-يستبدل كل الألوان غير الشفافة بلون جديد ويحتفظ بقيمة ألفا الأصلية لحفظ الحواف الناعمة . ملاحظة: إذا كنت تستخدمها على صور بدون شفافية ، فسيتم استبدال كل الألوان بأخرى.
+يستبدل جميع الألوان غير الشفافة بلون جديد ويحافظ على قيمة ألفا الأصلية للحفاظ على حواف ناعمة. ملاحظة: إذا استخدمتها على صور بدون شفافية، سيتم استبدال جميع الألوان بلون واحد.
 
 ```csharp
 public virtual void ReplaceNonTransparentColors(int newColorArgb)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newColorArgb | Int32 | قيمة ARGB الجديدة للون لاستبدال الألوان غير الشفافة بـ. |
+| newColorArgb | Int32 | قيمة ARGB للون الجديد لاستبدال الألوان غير الشفافة بها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

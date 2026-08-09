@@ -1,14 +1,15 @@
 ---
-title: Interface IShadowEffect
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.IShadowEffect واجهه المستخدم. واجهة تأثيرات طبقة الظل
+title: "الواجهة IShadowEffect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.IShadowEffect. واجهة لتأثيرات طبقة الظل"
 type: docs
-weight: 2150
+weight: 2340
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/
 ---
+{{< psd/tize >}}
 ## IShadowEffect interface
 
-واجهة تأثيرات طبقة الظل
+واجهة لتأثيرات ظل الطبقة.
 
 ```csharp
 public interface IShadowEffect : ILayerEffect
@@ -16,20 +17,20 @@ public interface IShadowEffect : ILayerEffect
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle/) { get; set; } | الحصول على الزاوية أو تحديدها بالدرجات . |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/) { get; set; } | الحصول على اللون أو تحديده . |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance/) { get; set; } | الحصول على أو تحديد المسافة بالبكسل . |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/) { get; set; } | الحصول على الضوضاء أو ضبطها . |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/size/) { get; set; } | الحصول على أو تعيين قيمة التمويه بالبكسل. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/) { get; set; } | الحصول على الكثافة أو تحديدها كنسبة مئوية . |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [استخدام هذه الزاوية في جميع تأثيرات الطبقة] . |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle/) { get; set; } | يحصل أو يضبط الزاوية بالدرجات. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/) { get; set; } | يحصل أو يعيّن اللون. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance/) { get; set; } | يحصل أو يضبط المسافة بالبكسل. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/) { get; set; } | يحصل أو يضبط الضوضاء. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/size/) { get; set; } | يحصل أو يضبط قيمة الضبابية بالبكسل. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/) { get; set; } | يحصل أو يضبط الشدة كنسبة مئوية. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [use this angle in all of the layer effects]. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILayerEffect](../ilayereffect/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

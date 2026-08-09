@@ -1,33 +1,34 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يحدد الفئة.
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhotoshopPackage طريقة. يحدد الفئة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
-يحدد الفئة.
+يضبط الفئة.
 
 ```csharp
 public void SetCategory(string category)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| category | String | الفئة. |
+| الفئة | String | الفئة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الفئة ؛ الفئة محددة بـ 3 أحرف |
+| ArgumentOutOfRangeException | الفئة;الفئة محدودة بـ 3 أحرف |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

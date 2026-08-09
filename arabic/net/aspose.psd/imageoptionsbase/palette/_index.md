@@ -1,28 +1,25 @@
 ---
-title: ImageOptionsBase.Palette
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageOptionsBase ملكية. الحصول على لوحة الألوان أو تعيينها .
+title: "ImageOptionsBase.Palette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageOptionsBase. تحصل أو تعيين لوحة الألوان"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/imageoptionsbase/palette/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Palette property
 
-الحصول على لوحة الألوان أو تعيينها .
+يحصل أو يعيّن لوحة الألوان.
 
 ```csharp
 public virtual IColorPalette Palette { get; set; }
 ```
 
-### Property_Value
-
-لوحة الألوان.
-
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ImageOptionsBase](../)
-* مساحة الاسم [Aspose.PSD](../../imageoptionsbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PsdOptions.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdOptions ملكية. الحصول على إصدار تنسيق الملف أو تحديده. يمكن أن يكون PSD أو PSB.
+title: "PsdOptions.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdOptions. تحصل أو تعين نسخة تنسيق الملف. يمكن أن تكون PSD أو PSB"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdOptions.PsdVersion property
 
-الحصول على إصدار تنسيق الملف أو تحديده. يمكن أن يكون PSD أو PSB.
+يحصل أو يضبط إصدار تنسيق الملف. يمكن أن يكون PSD أو PSB.
 
 ```csharp
 public PsdVersion PsdVersion { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إصدار تنسيق الملف .
+نسخة تنسيق الملف.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي القدرة على تحويل ملف PSD إلى PSB والعكس صحيح.
+المثال التالي يوضح القدرة على تحويل ملف PSD إلى PSB والعكس.
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PsdVersion](../../../aspose.psd.fileformats.psd/psdversion/)
 * class [PsdOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../psdoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

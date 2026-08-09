@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.ReadSByteArray
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. يقرأ مصفوفة من قيم البايت الموقعة من الدفق.
+title: "TiffStreamReader.ReadSByteArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. تقرأ مصفوفة من القيم البايتية الموقعة من الدفق"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSByteArray method
 
 يقرأ مصفوفة من قيم البايت الموقعة من الدفق.
@@ -14,19 +15,19 @@ url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsby
 public sbyte[] ReadSByteArray(long position, long count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف للقراءة منه. |
-| count | Int64 | عدد العناصر. |
+| الموضع | Int64 | الموضع للقراءة منه. |
+| العدد | Int64 | عدد العناصر. |
 
 ### قيمة الإرجاع
 
-صفيف قيم البايت الموقعة .
+مصفوفة القيم البايتية الموقعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

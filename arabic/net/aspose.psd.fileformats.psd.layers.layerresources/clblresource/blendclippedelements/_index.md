@@ -1,27 +1,28 @@
 ---
-title: ClblResource.BlendClippedElements
-second_title: Aspose.PSD لمرجع .NET API
-description: ClblResource ملكية. الحصول على أو تعيين قيمة تشير إلى مزيج العناصر المقصوصة .
+title: "ClblResource.BlendClippedElements"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ClblResource. تحصل أو تعيّن قيمة تشير إلى ما إذا كان يتم دمج العناصر المقصوصة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/
 ---
+{{< psd/tize >}}
 ## ClblResource.BlendClippedElements property
 
-الحصول على أو تعيين قيمة تشير إلى [مزيج العناصر المقصوصة] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [blend clipped elements].
 
 ```csharp
 public bool BlendClippedElements { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [مزيج العناصر المقصوصة] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [blend clipped elements]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClblResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

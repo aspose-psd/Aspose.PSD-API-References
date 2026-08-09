@@ -1,14 +1,15 @@
 ---
-title: Interface IVectorPathData
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData واجهه المستخدم. واجهة الوصول إلى بيانات مسار المتجه.
+title: "الواجهة IVectorPathData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData. الواجهة للوصول إلى بيانات مسار المتجه."
 type: docs
-weight: 1350
+weight: 1360
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/
 ---
+{{< psd/tize >}}
 ## IVectorPathData interface
 
-واجهة الوصول إلى بيانات مسار المتجه.
+الواجهة للوصول إلى بيانات المسار المتجه.
 
 ```csharp
 public interface IVectorPathData
@@ -16,22 +17,22 @@ public interface IVectorPathData
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معطلاً. |
-| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معكوسًا. |
-| [IsNotLinked](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل غير مرتبط. |
-| [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/) { get; set; } | الحصول على أو تعيين سجلات المسار . |
-| [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/) { get; set; } | الحصول على الإصدار أو تحديده. |
+| [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا المثيل معطلاً. |
+| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا المثيل مقلوبًا. |
+| [IsNotLinked](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا المثيل غير مرتبط. |
+| [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/) { get; set; } | يحصل أو يضبط سجلات المسار. |
+| [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/) { get; set; } | يحصل أو يضبط الإصدار. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال دعم مورد "WorkingPathResource" في PsdImage.ImageResources للعمل الصحيح لعملية Crop.
+يوضح هذا المثال دعم مورد 'WorkingPathResource' في PsdImage.ImageResources للعمل الصحيح لعملية القص.
 
 ```csharp
 [C#]
 
-// صورة المحاصيل وحفظها.
+// قص الصورة واحفظها.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // ابحث عن مورد WorkingPathResource.
@@ -52,12 +53,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // اقتصاص وحفظ.
+    // قص واحفظ.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// قم بتحميل الصورة المحفوظة وتحقق من التغييرات.
+// حمّل الصورة المحفوظة وتحقق من التغييرات.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // ابحث عن مورد WorkingPathResource.
@@ -80,9 +81,9 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

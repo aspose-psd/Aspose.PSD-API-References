@@ -1,28 +1,29 @@
 ---
-title: IOrderedShape.EndPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: IOrderedShape ملكية. الحصول على نقطة شكل النهاية .
+title: "IOrderedShape.EndPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IOrderedShape. تُحصل على نقطة النهاية للشكل"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/iorderedshape/endpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.EndPoint property
 
-الحصول على نقطة شكل النهاية .
+يحصل على نقطة النهاية للشكل.
 
 ```csharp
 public PointF EndPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة شكل النهاية.
+نقطة النهاية للشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* مساحة الاسم [Aspose.PSD](../../iorderedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

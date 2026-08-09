@@ -1,27 +1,28 @@
 ---
-title: GlobalAltitudeResource.Altitude
-second_title: Aspose.PSD لمرجع .NET API
-description: GlobalAltitudeResource ملكية. الحصول على الارتفاع أو تحديده.
+title: "GlobalAltitudeResource.Altitude"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GlobalAltitudeResource. يحصل أو يضبط الارتفاع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource.Altitude property
 
-الحصول على الارتفاع أو تحديده.
+يحصل أو يضبط الارتفاع.
 
 ```csharp
 public int Altitude { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الارتفاع .
+الارتفاع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GlobalAltitudeResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.XmpData
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين حاوية بيانات تعريف XMP.
+title: "TiffOptions.XmpData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعين حاوية بيانات التعريف XMP"
 type: docs
-weight: 580
+weight: 590
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XmpData property
 
-الحصول على أو تعيين حاوية بيانات تعريف XMP.
+يحصل أو يضبط حاوية بيانات التعريف XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حاوية بيانات XMP .
+حاوية بيانات XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

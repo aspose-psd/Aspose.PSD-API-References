@@ -1,24 +1,25 @@
 ---
-title: FilterEffectMaskData.MaskRectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: FilterEffectMaskData ملكية. الحصول على مستطيل قناع الورقة .
+title: "FilterEffectMaskData.MaskRectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FilterEffectMaskData. يحصل على مستطيل قناع الورقة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaskRectangle property
 
-الحصول على مستطيل قناع الورقة .
+يحصل على مستطيل قناع الورقة.
 
 ```csharp
 public Rectangle MaskRectangle { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

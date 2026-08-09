@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfDocumentInfo ملكية. الحصول على أو تعيين موضوع المستند.
+title: "PdfDocumentInfo.Subject"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PdfDocumentInfo. يحصل أو يحدد موضوع المستند"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Subject property
 
-الحصول على أو تعيين موضوع المستند.
+يحصل أو يضبط موضوع المستند.
 
 ```csharp
 public string Subject { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

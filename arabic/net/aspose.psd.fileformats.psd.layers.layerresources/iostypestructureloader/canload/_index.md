@@ -1,32 +1,33 @@
 ---
-title: IOSTypeStructureLoader.CanLoad
-second_title: Aspose.PSD لمرجع .NET API
-description: IOSTypeStructureLoader طريقة. تحديد ما إذا كانOSTypeStructure يمكن تحميل المورد من المحددStreamContainer .
+title: "IOSTypeStructureLoader.CanLoad"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IOSTypeStructureLoader. تحدد ما إذا كان يمكن تحميل مورد OSTypeStructure من StreamContainer المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.CanLoad method
 
-تحديد ما إذا كان[`OSTypeStructure`](../../ostypestructure/) يمكن تحميل المورد من المحدد[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+تحدد ما إذا كان مورد [`OSTypeStructure`](../../ostypestructure/) يمكن تحميله من [`StreamContainer`](../../../aspose.psd/streamcontainer/) المحدد.
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
+| streamContainer | StreamContainer | حاوية الدفق. |
 
 ### قيمة الإرجاع
 
-`حقيقي` لو[`OSTypeStructure`](../../ostypestructure/) يمكن تحميل المورد من المحدد[`StreamContainer`](../../../aspose.psd/streamcontainer/) ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان مورد [`OSTypeStructure`](../../ostypestructure/) يمكن تحميله من [`StreamContainer`](../../../aspose.psd/streamcontainer/) المحدد؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

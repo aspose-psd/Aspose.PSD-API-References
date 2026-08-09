@@ -1,27 +1,28 @@
 ---
-title: ExifData.SpatialFrequencyResponse
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين استجابة التردد المكاني.
+title: "ExifData.SpatialFrequencyResponse"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط استجابة التردد المكاني"
 type: docs
 weight: 960
 url: /ar/net/aspose.psd.exif/exifdata/spatialfrequencyresponse/
 ---
+{{< psd/tize >}}
 ## ExifData.SpatialFrequencyResponse property
 
-الحصول على أو تعيين استجابة التردد المكاني.
+الحصول أو تعيين استجابة التردد المكاني.
 
 ```csharp
 public byte[] SpatialFrequencyResponse { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-استجابة التردد المكاني .
+استجابة التردد المكاني.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

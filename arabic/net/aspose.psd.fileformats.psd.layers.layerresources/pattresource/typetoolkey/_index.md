@@ -1,23 +1,24 @@
 ---
-title: PattResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResource مجال. مفتاح معلومات أداة النوع Patt لـ 8 بت.
+title: "PattResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل PattResource. المفتاح معلومات أداة النوع Patt للـ 8 بت"
 type: docs
-weight: 80
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey field
 
-مفتاح معلومات أداة النوع "Patt" لـ 8 بت.
+المفتاح المعلوماتي لأداة النوع 'Patt' للبتات 8.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

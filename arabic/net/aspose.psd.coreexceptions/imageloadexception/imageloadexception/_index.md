@@ -1,48 +1,49 @@
 ---
-title: ImageLoadException.ImageLoadException
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageLoadException البناء. يقوم بتهيئة مثيل جديد لملفImageLoadException فئة .
+title: "ImageLoadException.ImageLoadException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ImageLoadException. يهيئ نسخة جديدة من فئة ImageLoadException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions/imageloadexception/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageLoadException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ImageLoadException`](../).
 
 ```csharp
 public ImageLoadException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageLoadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../imageloadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageLoadException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageLoadException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ImageLoadException`](../).
 
 ```csharp
 public ImageLoadException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageLoadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../imageloadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,54 +1,55 @@
 ---
-title: StreamContainer.WriteTo
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer طريقة. نسخ البيانات المضمنة إلى آخرStreamContainer .
+title: "StreamContainer.WriteTo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StreamContainer. تنسخ البيانات المحتواة إلى StreamContainer آخر"
 type: docs
 weight: 190
 url: /ar/net/aspose.psd/streamcontainer/writeto/
 ---
+{{< psd/tize >}}
 ## WriteTo(StreamContainer) {#writeto}
 
-نسخ البيانات المضمنة إلى آخر[`StreamContainer`](../) .
+ينسخ البيانات المحتواة إلى [`StreamContainer`](../) آخر.
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق المراد النسخ إليها. |
+| streamContainer | StreamContainer | حاوية التدفق للنسخ إليها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## WriteTo(StreamContainer, long) {#writeto_1}
 
-نسخ البيانات المضمنة إلى آخر[`StreamContainer`](../) .
+ينسخ البيانات المحتواة إلى [`StreamContainer`](../) آخر.
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer, long length)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق المراد النسخ إليها. |
-| length | Int64 | عدد البايتات للكتابة. |
+| streamContainer | StreamContainer | حاوية التدفق للنسخ إليها. |
+| الطول | Int64 | عدد البايتات المراد كتابتها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | لا يمكن أن تكتمل عملية النسخ. لا يمكن قراءة + عدد + بايت. |
+| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | لا يمكن إكمال عملية النسخ. لا يمكن القراءة + العدد + البايتات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

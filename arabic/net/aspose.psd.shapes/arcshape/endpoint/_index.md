@@ -1,28 +1,29 @@
 ---
-title: ArcShape.EndPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: ArcShape ملكية. الحصول على نقطة شكل النهاية .
+title: "ArcShape.EndPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ArcShape. يحصل على نقطة النهاية للشكل"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.shapes/arcshape/endpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.EndPoint property
 
-الحصول على نقطة شكل النهاية .
+يحصل على نقطة النهاية للشكل.
 
 ```csharp
 public PointF EndPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة شكل النهاية.
+نقطة النهاية للشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../arcshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

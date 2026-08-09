@@ -1,29 +1,30 @@
 ---
-title: LyidResource.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: LyidResource طريقة. يحفظ في حاوية التدفق المحددة.
+title: "LyidResource.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LyidResource. يحفظ إلى حاوية الدفق المحددة"
 type: docs
-weight: 70
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/
 ---
+{{< psd/tize >}}
 ## LyidResource.Save method
 
-يحفظ في حاوية التدفق المحددة.
+يحفظ إلى حاوية الدفق المحددة.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
+| streamContainer | StreamContainer | حاوية الدفق. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LyidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

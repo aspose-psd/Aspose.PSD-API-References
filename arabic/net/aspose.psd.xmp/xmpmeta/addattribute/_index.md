@@ -1,28 +1,29 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpMeta طريقة. إضافة السمة .
+title: "XmpMeta.AddAttribute"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpMeta. تضيف السمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
-إضافة السمة .
+يضيف السمة.
 
 ```csharp
 public override void AddAttribute(string attribute, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| attribute | String | السمة. |
-| value | String | القيمة. |
+| السمة | String | السمة. |
+| قيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMeta](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpmeta/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

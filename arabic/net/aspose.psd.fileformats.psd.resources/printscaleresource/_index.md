@@ -1,11 +1,12 @@
 ---
-title: Class PrintScaleResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.PrintScaleResource فصل. مورد مقياس الطباعة
+title: "فئة PrintScaleResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Psd.Resources.PrintScaleResource. مورد مقياس الطباعة."
 type: docs
-weight: 3840
+weight: 4310
 url: /ar/net/aspose.psd.fileformats.psd.resources/printscaleresource/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource class
 
 مورد مقياس الطباعة
@@ -14,38 +15,38 @@ url: /ar/net/aspose.psd.fileformats.psd.resources/printscaleresource/
 public sealed class PrintScaleResource : ResourceBlock
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PrintScaleResource](printscaleresource/)() | Default_Constructor |
+| [PrintScaleResource](printscaleresource/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/printscaleresource/datasize/) { get; } | الحصول على حجم بيانات المورد بالبايت. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | الحصول على أو تحديد المعرف الفريد للمورد. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/printscaleresource/minimalversion/) { get; } | يحصل على الحد الأدنى من إصدار PSD المطلوب. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | الحصول على اسم المورد أو تعيينه. سلسلة باسكال ، مبطن لجعل الحجم زوجياً (يتكون الاسم الفارغ من وحدتي بايت من 0) . |
-| [Scale](../../aspose.psd.fileformats.psd.resources/printscaleresource/scale/) { get; set; } | الحصول على المقياس أو تعيينه. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | يحصل على توقيع المورد. يجب أن يكون دائمًا "8BIM" . |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | الحصول على حجم كتلة المورد بالبايت بما في ذلك البيانات الخاصة به. |
-| [Style](../../aspose.psd.fileformats.psd.resources/printscaleresource/style/) { get; set; } | الحصول على النمط أو تحديده . |
-| [XLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/xlocation/) { get; set; } | الحصول على أو تحديد موقع x . |
-| [YLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/) { get; set; } | الحصول على أو تحديد موقع y . |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/printscaleresource/datasize/) { get; } | يحصل على حجم بيانات المورد بالبايت. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | يحصل أو يضبط المعرف الفريد للمورد. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/printscaleresource/minimalversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | يحصل أو يضبط اسم المورد. سلسلة باسكال، مملوءة لتصبح الحجم زوجيًا (اسم فارغ يتكون من بايتين من الصفر). |
+| [Scale](../../aspose.psd.fileformats.psd.resources/printscaleresource/scale/) { get; set; } | يحصل أو يضبط المقياس. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | يحصل على توقيع المورد. يجب أن يكون دائمًا '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | يحصل على حجم كتلة المورد بالبايت بما في ذلك بياناتها. |
+| [Style](../../aspose.psd.fileformats.psd.resources/printscaleresource/style/) { get; set; } | يحصل أو يضبط النمط. |
+| [XLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/xlocation/) { get; set; } | يحصل أو يضبط موقع x. |
+| [YLocation](../../aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/) { get; set; } | يحصل أو يضبط موقع y. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | يحفظ كتلة المورد في الدفق المحدد. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | يتحقق من صحة قيم المورد . |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | يحفظ كتلة المورد إلى الدفق المحدد. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | يتحقق من صحة قيم المورد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

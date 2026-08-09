@@ -1,28 +1,29 @@
 ---
-title: TextShape.Bounds
-second_title: Aspose.PSD لمرجع .NET API
-description: TextShape ملكية. يحصل على حدود الكائن .
+title: "TextShape.Bounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextShape. يحصل على حدود الكائن"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.shapes/textshape/bounds/
 ---
+{{< psd/tize >}}
 ## TextShape.Bounds property
 
-يحصل على حدود الكائن .
+يحصل على حدود الكائن.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حدود الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../textshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

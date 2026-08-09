@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.IsHueInSmallRange
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorRangeHsl طريقة. لتحديد ما إذا كان اللون في نطاق صغير.
+title: "ColorRangeHsl.IsHueInSmallRange"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorRangeHsl. تحدد ما إذا كانت درجة اللون في النطاق الصغير"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInSmallRange method
 
-لتحديد ما إذا كان اللون في نطاق صغير.
+يحدد ما إذا كان اللون (Hue) في النطاق الصغير.
 
 ```csharp
 public bool IsHueInSmallRange(double hue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| hue | Double | قيمة هوى. |
+| درجة اللون | Double | قيمة درجة اللون. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان هوى في نطاق صغير ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت درجة اللون في النطاق الصغير؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

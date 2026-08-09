@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.HorizontalPlacement
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على أو تحديد الوضع الأفقي .
+title: "TypeToolInfoResource.HorizontalPlacement"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط الموضع الأفقي"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/horizontalplacement/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.HorizontalPlacement property
 
-الحصول على أو تحديد الوضع الأفقي .
+يحصل أو يضبط الموضع الأفقي.
 
 ```csharp
 public int HorizontalPlacement { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الوضع الأفقي .
+الموضع الأفقي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

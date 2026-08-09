@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Error
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTask ملكية. يحصل على خطأ المهمة المتاح بعد اكتمال المهمة.
+title: "IAsyncTask.Error"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "IAsyncTask property. تحصل على خطأ المهمة المتاح بعد إكمال المهمة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.asynctask/iasynctask/error/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Error property
 
-يحصل على خطأ المهمة المتاح بعد اكتمال المهمة.
+يحصل على خطأ المهمة المتاح بعد إكمال المهمة.
 
 ```csharp
 public Exception Error { get; }
 ```
 
-### Property_Value
+### Property Value
 
-خطأ المهمة .
+خطأ المهمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

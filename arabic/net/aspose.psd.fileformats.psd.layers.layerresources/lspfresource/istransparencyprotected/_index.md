@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsTransparencyProtected
-second_title: Aspose.PSD لمرجع .NET API
-description: LspfResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل محميًا بالشفافية.
+title: "LspfResource.IsTransparencyProtected"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LspfResource. تحصل أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل محميًا من الشفافية"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsTransparencyProtected property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل محميًا بالشفافية.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا المثيل محمياً للشفافية.
 
 ```csharp
 public bool IsTransparencyProtected { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال محميًا بالشفافية ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا المثيل محميًا من الشفافية؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LspfResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: ImageException.ImageException
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageException البناء. يقوم بتهيئة مثيل جديد لملفImageException فئة .
+title: "ImageException.ImageException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ImageException. يهيئ نسخة جديدة من فئة ImageException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions/imageexception/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ImageException`](../).
 
 ```csharp
 public ImageException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../imageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ImageException`](../).
 
 ```csharp
 public ImageException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../imageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

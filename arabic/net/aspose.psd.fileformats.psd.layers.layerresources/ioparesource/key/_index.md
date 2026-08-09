@@ -1,11 +1,12 @@
 ---
-title: IopaResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: IopaResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "IopaResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IopaResource. يحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key/
 ---
+{{< psd/tize >}}
 ## IopaResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IopaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

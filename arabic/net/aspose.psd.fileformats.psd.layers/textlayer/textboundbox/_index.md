@@ -1,28 +1,29 @@
 ---
-title: TextLayer.TextBoundBox
-second_title: Aspose.PSD لمرجع .NET API
-description: TextLayer ملكية. الحصول على أو تحديد المربع المرتبط بالنص.
+title: "TextLayer.TextBoundBox"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextLayer. تحصل أو تعيين مربع حدود النص"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers/textlayer/textboundbox/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextBoundBox property
 
-الحصول على أو تحديد المربع المرتبط بالنص.
+يسترجع أو يعيّن صندوق حدود النص.
 
 ```csharp
 public RectangleF TextBoundBox { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المربع المرتبط بالنص .
+مربع حدود النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

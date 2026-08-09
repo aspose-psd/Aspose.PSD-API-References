@@ -1,29 +1,30 @@
 ---
-title: Class AiFinalizeSection
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection فصل. إنهاء تنسيق Ai للقسم
+title: "الفئة AiFinalizeSection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Ai.AiFinalizeSection. قسم الإنهاء لتنسيق Ai"
 type: docs
-weight: 1230
+weight: 1240
 url: /ar/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-إنهاء تنسيق Ai للقسم
+قسم إنهاء تنسيق Ai
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | يحصل على بيانات السلسلة . |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | يحصل على بيانات السلسلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiSection](../aisection/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

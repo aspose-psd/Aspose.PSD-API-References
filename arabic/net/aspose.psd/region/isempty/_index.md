@@ -1,38 +1,39 @@
 ---
-title: Region.IsEmpty
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. اختبارات ما إذا كان هذاRegion يحتوي على مساحة داخلية فارغة على سطح الرسم المحدد.
+title: "Region.IsEmpty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تختبر ما إذا كان هذا Region يحتوي على داخلية فارغة على سطح الرسم المحدد"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.psd/region/isempty/
 ---
+{{< psd/tize >}}
 ## Region.IsEmpty method
 
-اختبارات ما إذا كان هذا[`Region`](../) يحتوي على مساحة داخلية فارغة على سطح الرسم المحدد.
+تختبر ما إذا كان هذا [`Region`](../) يحتوي على داخلية فارغة على سطح الرسم المحدد.
 
 ```csharp
 public bool IsEmpty(Graphics g)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| g | Graphics | أ[`Graphics`](../../graphics/) التي تمثل سطح الرسم. |
+| g | Graphics | الـ [`Graphics`](../../graphics/) التي تمثل سطح رسم. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان هذا الجزء الداخلي[`Region`](../) فارغًا عندما يكون التحويل المرتبط بـ*g* يتم تطبيقه وإلا ، خطأ .
+صحيح إذا كانت داخلية هذا [`Region`](../) فارغة عندما يتم تطبيق التحويل المرتبط بـ *g*؛ وإلا، خطأ.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *g* فارغ . |
+| ArgumentNullException | *g* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

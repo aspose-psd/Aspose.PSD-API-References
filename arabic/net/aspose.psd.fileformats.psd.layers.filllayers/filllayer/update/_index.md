@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: Aspose.PSD لمرجع .NET API
-description: FillLayer طريقة. التحديثات قم بتعبئة بيانات طبقة البكسل وفقًا للواقعIFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FillLayer. يحدث بيانات البكسل لطبقة التعبئة بناءً على IFillSettings الحالية"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-التحديثات قم بتعبئة بيانات طبقة البكسل وفقًا للواقع[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+يحدث بيانات البكسل لطبقة التعبئة بناءً على [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/).
 
 ```csharp
 public void Update()
@@ -16,18 +17,18 @@ public void Update()
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | نوع غير معروف من نوع FillType |
+| ArgumentOutOfRangeException | يُرمى عندما يتم مواجهة FillType غير معروف. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم طبقات التعبئة: تعبئة اللون.
+الكود التالي يوضح دعم طبقات Fill: تعبئة اللون.
 
 ```csharp
 [C#]
 
-// إضافة دعم طبقات التعبئة: تعبئة اللون
+// أضف دعم طبقات Fill: تعبئة اللون
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-الكود التالي يحفظ الصور بنوع مختلف من التدرج ويوضح كيفية Aspose.PSD يرسم التدرج.
+الكود التالي يحفظ صورًا بأنواع مختلفة من التدرج ويظهر كيف يقوم Aspose.PSD برسم التدرج.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-يحفظ الكود التالي الصور بنمط Fill Layer ويوضح كيف يعرض Aspose.PSD النمط.
+الكود التالي يحفظ الصور مع طبقة تعبئة النمط ويظهر كيف يقوم Aspose.PSD بتصيير النمط.
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -131,10 +132,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FillLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

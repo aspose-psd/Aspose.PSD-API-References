@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Red
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على أو تعيين مكون اللون الأحمر.
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين مكوّن اللون الأحمر"
 type: docs
-weight: 130
+weight: 150
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
-الحصول على أو تعيين مكون اللون الأحمر.
+يحصل أو يضبط مكوّن اللون الأحمر.
 
 ```csharp
 public int Red { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مكون اللون الأحمر .
+مكوّن اللون الأحمر.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم الطبقات في ملفات تنسيق AI.
+المثال التالي يوضح دعم الطبقات في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

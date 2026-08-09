@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.OtherChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: AudioChannelType ملكية. يحصل على القناة الأخرى .
+title: "AudioChannelType.OtherChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AudioChannelType. تسترجع القناة الأخرى"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.OtherChannel property
 
-يحصل على القناة الأخرى .
+يحصل على القناة الأخرى.
 
 ```csharp
 public static AudioChannelType OtherChannel { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القناة الأخرى .
+القناة الأخرى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioChannelType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

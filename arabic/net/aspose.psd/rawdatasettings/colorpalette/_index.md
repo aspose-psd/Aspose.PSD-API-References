@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.ColorPalette
-second_title: Aspose.PSD لمرجع .NET API
-description: RawDataSettings ملكية. الحصول على لوحة الألوان أو تعيينها
+title: "RawDataSettings.ColorPalette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RawDataSettings. تحصل أو تعيين لوحة الألوان"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/rawdatasettings/colorpalette/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.ColorPalette property
 
-الحصول على لوحة الألوان أو تعيينها
+يحصل أو يعيّن لوحة الألوان
 
 ```csharp
 public IColorPalette ColorPalette { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 لوحة الألوان
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RawDataSettings](../)
-* مساحة الاسم [Aspose.PSD](../../rawdatasettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

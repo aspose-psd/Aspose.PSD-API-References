@@ -1,11 +1,12 @@
 ---
-title: Interface ITextStyle
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle واجهه المستخدم. واجهة للعمل مع نمط النص
+title: "واجهة ITextStyle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle. واجهة للعمل مع نمط النص"
 type: docs
-weight: 3540
+weight: 3960
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
 واجهة للعمل مع نمط النص
@@ -16,52 +17,52 @@ public interface ITextStyle
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | الحصول على تقنين الأحرف التلقائي أو تعيينه . |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [المسافة البادئة تلقائيًا] . |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | التحول الأساسي . |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | يحصل أو يعيّن التباعد التلقائي. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [التباعد التلقائي]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | إزاحة الخط الأساسي. |
 | [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | البدائل السياقية المستخدمة لربط الأحرف معًا. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | الحروف المركبة التقديرية المستخدمة لربط الحروف ، خاصة في خطوط البرنامج النصي. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | الحصول على أو تعيين الخط الغامق زائف ممكّن . |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | الحصول على أو تعيين الخط الغامق زائف ممكّن . |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | الحصول على لون التعبئة أو تعيينه. |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | خط الأساس . |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | غطاء الخط. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | الروابط الاختيارية المستخدمة لربط الأحرف، خاصةً في الخطوط المكتوبة. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | يحصل أو يعيّن تمكين الخط الوهمي السميك. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | يحصل أو يعيّن تمكين الخط الوهمي السميك. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | يحصل أو يعيّن لون التعبئة. |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | الخط الأساسي للخط. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | حروف الخط الكبيرة. |
 | [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | يحصل على فهرس الخط. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | الحصول على اسم الخط أو تحديده. |
-| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | الحصول على حجم الخط أو تحديده. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | يمكن استبدال رموز الكسور بمحرف خاص. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [الأرقام الهندية] . |
-| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | المقياس الأفقي . |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | الحصول على المحاذاة الرومانية الرأسية القياسية أو تعيينها.Vertical . |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | الحصول على تقنين الأحرف أو تعيينه . |
-| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | يحصل على فهرس اللغة . |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | الحصول على بادئة أو تعيينها . |
-| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Gets ot يعين قيمة no break. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | الأحرف المزدوجة السياقية القياسية المستخدمة لربط الأحرف معًا. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [يتوسطه خط] . |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | الحصول على لون الحد أو تعيينه . |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | الحصول على التتبع أو تعيينه. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [تسطير] . |
-| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | المقياس العمودي . |
+| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | يحصل أو يضبط اسم الخط. |
+| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | يحصل أو يعيّن حجم الخط. |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | يمكن استبدال رموز الكسور برمز خاص. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [الأرقام الهندية]. |
+| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | المقياس الأفقي. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | يحصل أو يعيّن المحاذاة الرومانية العمودية القياسية. هذا يعتمد على قيمة مورد BaselineDirection ويطبق فقط عندما يكون اتجاه النص عموديًا. |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | يحصل أو يعيّن التباعد بين الحروف. |
+| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | يحصل على فهرس اللغة. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | يحصل أو يعيّن التباعد الرأسي. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | يحصل أو يعيّن قيمة عدم الانقطاع. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | الروابط السياقية القياسية المستخدمة لربط الأحرف معًا. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [شطب]. |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | يحصل أو يعيّن لون الحد. |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | يحصل أو يعيّن التتبع. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [underline]. |
+| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | المقياس العمودي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | يطبق النمط المحدد . |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | لتحديد ما إذا كان النمط المحدد متساويًا. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | يطبق النمط المحدد. |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | يحدد ما إذا كان النمط المحدد متساوٍ. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك عرض أنماط مختلفة في طبقة نص واحدة في Aspose.PSD
+المثال التالي يوضح كيف يمكنك عرض أنماط مختلفة في طبقة نص واحدة في Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // تحرير نمط النص "E = mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // تحرير نمط النص "2 \ r"
-    newPortions[2].Style.FauxBold = true; // تحرير نمط النص "غامق"
-    newPortions[3].Style.FauxItalic = true; // تحرير نمط النص "مائل \ r"
-    newPortions[3].Style.BaselineShift = -25; // تحرير نمط النص "مائل \ r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // تحرير نمط النص "النص السفلي"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,12 +102,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-يوضح الكود التالي كيفية الحصول على حجم الخط لأي جزء نص في طبقة النص.
+الكود التالي يوضح كيفية الحصول على حجم الخط لأي جزء نص في طبقة النص.
 
 ```csharp
 [C#]
 
-// استخرج حجم خط خاطئ 
+// تم استخراج حجم خط غير صحيح 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -114,7 +115,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // واجهة برمجة التطبيقات القديمة (باستخدام خط الفقرة الأولى)
+    // API القديم (باستخدام خط الفقرة الأولى)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -132,18 +133,18 @@ using (var image = Image.Load(filePath))
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // واجهة برمجة تطبيقات جديدة (قد تحتوي طبقة نصية واحدة على أي كمية من أحجام الخطوط)
+    // واجهة برمجة تطبيقات جديدة (قد يحتوي طبقة نص واحدة على أي كمية من أحجام الخط)
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // التحقق من حجم خط الجزء الأساسي
+    // التحقق من حجم الخط للجزء الأساسي
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // التحقق من حجم خط الجزء الحقيقي
+    // التحقق من حجم الخط للجزء الحقيقي
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-يوضح مثال الكود التالي تحرير أجزاء النص ونمط نصها.
+يوضح المثال البرمجي التالي تحرير أجزاء النص وأساليبها.
 
 ```csharp
 [C#]
@@ -174,7 +175,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // فحص النص من كل جزء
+            // التحقق من نص كل جزء
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -184,7 +185,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات الفقرات
-            // الفقرات لها مبررات مختلفة
+            // الفقرات لها محاذاة مختلفة
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -234,7 +235,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات النمط
-            // الأنماط لها ألوان مختلفة وحجم الخط
+            // الأنماط لها ألوان مختلفة وحجم خط مختلف
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -274,7 +275,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // مثال على إضافة جزء نصي جديد
+            // مثال على إضافة جزء نص جديد
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -282,17 +283,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // مثال على تحرير الفقرة والنمط للأجزاء
-            // ضبط التبرير الصحيح
+            // ضبط المحاذاة إلى اليمين
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // ألوان مختلفة لكل نمط. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // ألوان مختلفة لكل نمط. سيتم تغييرها، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // خط مختلف. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // خط مختلف. سيتم تغييره، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -307,9 +308,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

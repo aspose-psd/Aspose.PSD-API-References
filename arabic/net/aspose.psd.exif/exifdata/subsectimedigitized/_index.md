@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTimeDigitized
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين كسور الثواني للعلامة DateTimeDigitized .
+title: "ExifData.SubsecTimeDigitized"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين أجزاء الثواني لعلامة DateTimeDigitized"
 type: docs
 weight: 1040
 url: /ar/net/aspose.psd.exif/exifdata/subsectimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeDigitized property
 
-الحصول على أو تعيين كسور الثواني للعلامة DateTimeDigitized .
+الحصول أو تعيين كسر الثواني للعلامة DateTimeDigitized.
 
 ```csharp
 public string SubsecTimeDigitized { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-كسور الثواني للعلامة DateTimeDigitized .
+أجزاء الثواني لعلامة DateTimeDigitized.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

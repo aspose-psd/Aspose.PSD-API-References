@@ -1,27 +1,28 @@
 ---
-title: GaussWienerFilterOptions.Smooth
-second_title: Aspose.PSD لمرجع .NET API
-description: GaussWienerFilterOptions ملكية. الحصول على سلس أو تعيينه.
+title: "GaussWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GaussWienerFilterOptions. يحصل أو يضبط النعومة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Smooth property
 
-الحصول على سلس أو تعيينه.
+يحصل أو يعيّن السمة smooth.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-السلس .
+التنعيم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GaussWienerFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

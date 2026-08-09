@@ -1,30 +1,31 @@
 ---
-title: Enum PositioningTypes
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.PositioningTypes تعداد. أنواع المواضع والحجم لمشهد الرسومات.
+title: "تعداد PositioningTypes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.ImageOptions.PositioningTypes. أنواع التموضع والحجم لمشهد الرسومات."
 type: docs
-weight: 4890
+weight: 5380
 url: /ar/net/aspose.psd.imageoptions/positioningtypes/
 ---
+{{< psd/tize >}}
 ## PositioningTypes enumeration
 
-أنواع المواضع والحجم لمشهد الرسومات.
+أنواع التموضع والحجم لمشهد الرسومات.
 
 ```csharp
 public enum PositioningTypes
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| DefinedByDocument | `0` | الوضع المطلق على الصفحة المحدد بواسطة إعدادات صفحة المستند. |
-| DefinedByOptions | `1` | الوضع المطلق على الصفحة المحدد بواسطة إعدادات صفحة الخيارات. |
-| Relative | `2` | الموضع والحجم النسبي. يتم تحديدها بواسطة حدود جميع الكائنات الرسومية. |
+| DefinedByDocument | `0` | التموضع المطلق على الصفحة الذي يتم تعريفه بواسطة إعدادات صفحة المستند. |
+| DefinedByOptions | `1` | الموضع المطلق على الصفحة الذي يتم تعريفه بواسطة إعدادات صفحة الخيارات. |
+| Relative | `2` | الموضع النسبي والحجم. يتم تحديدهما بواسطة حدود جميع كائنات الرسوميات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

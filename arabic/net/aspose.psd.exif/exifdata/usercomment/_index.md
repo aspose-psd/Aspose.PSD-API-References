@@ -1,27 +1,28 @@
 ---
-title: ExifData.UserComment
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على تعليق المستخدم أو تعيينه.
+title: "ExifData.UserComment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط تعليق المستخدم"
 type: docs
 weight: 1060
 url: /ar/net/aspose.psd.exif/exifdata/usercomment/
 ---
+{{< psd/tize >}}
 ## ExifData.UserComment property
 
-الحصول على تعليق المستخدم أو تعيينه.
+الحصول أو تعيين تعليق المستخدم.
 
 ```csharp
 public string UserComment { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تعليق المستخدم .
+تعليق المستخدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

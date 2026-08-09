@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Colorant
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات تمثل الهياكل التي تحتوي على خصائص الملون حامل المستخدم في المستند.
+title: "Aspose.PSD.Xmp.Types.Complex.Colorant"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على فئات تمثل الهياكل التي تحتوي على خصائص عينة اللون المستخدمة في مستند"
 type: docs
-weight: 630
+weight: 670
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/
 ---
-تحتوي مساحة الاسم على فئات تمثل الهياكل التي تحتوي على خصائص الملون (حامل) المستخدم في المستند.
+{{< psd/tize >}}
+النطاق يحتوي على فئات تمثل الهياكل التي تحتوي على خصائص صبغة (عينة لون) تُستخدم في مستند.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [ColorantBase](./colorantbase/) | يمثل نوع XMP Colorant . |
-| [ColorantCmyk](./colorantcmyk/) | يمثل CMYK Colorant . |
-| [ColorantLab](./colorantlab/) | يمثل LAB Colorant . |
-| [ColorantRgb](./colorantrgb/) | يمثل RGB Colorant . |
+| [ColorantBase](./colorantbase/) | يمثل نوع XMP Colorant. |
+| [ColorantCmyk](./colorantcmyk/) | يمثل CMYK Colorant. |
+| [ColorantLab](./colorantlab/) | يمثل LAB Colorant. |
+| [ColorantRgb](./colorantrgb/) | يمثل RGB Colorant. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [ColorMode](./colormode/) | يمثل وضع اللون . |
-| [ColorType](./colortype/) | نوع اللون . |
+| [ColorMode](./colormode/) | يمثل وضع اللون. |
+| [ColorType](./colortype/) | نوع اللون. |
 
 

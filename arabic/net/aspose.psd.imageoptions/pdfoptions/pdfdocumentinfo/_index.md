@@ -1,24 +1,25 @@
 ---
-title: PdfOptions.PdfDocumentInfo
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfOptions ملكية. الحصول على البيانات الوصفية للوثيقة أو تعيينها.
+title: "PdfOptions.PdfDocumentInfo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PdfOptions. تحصل أو تعين البيانات الوصفية للمستند"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfDocumentInfo property
 
-الحصول على البيانات الوصفية للوثيقة أو تعيينها.
+يحصل أو يعيّن البيانات الوصفية للمستند.
 
 ```csharp
 public PdfDocumentInfo PdfDocumentInfo { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../../../aspose.psd.fileformats.pdf/pdfdocumentinfo/)
 * class [PdfOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

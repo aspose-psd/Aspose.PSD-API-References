@@ -1,28 +1,29 @@
 ---
-title: Graphics.CompositingQuality
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics ملكية. الحصول على جودة التركيب أو تعيينها.
+title: "Graphics.CompositingQuality"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Graphics. تحصل على أو تعيين جودة التجميع."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/graphics/compositingquality/
 ---
+{{< psd/tize >}}
 ## Graphics.CompositingQuality property
 
-الحصول على جودة التركيب أو تعيينها.
+يحصل أو يضبط جودة التركيب.
 
 ```csharp
 public CompositingQuality CompositingQuality { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-جودة التركيب.
+جودة التجميع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [CompositingQuality](../../compositingquality/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

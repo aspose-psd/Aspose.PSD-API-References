@@ -1,14 +1,15 @@
 ---
-title: XmpInteger.GetXmpRepresentation
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpInteger طريقة. الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+title: "XmpInteger.GetXmpRepresentation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpInteger. يحصل على القيمة النصية المحتواة بتنسيق XMP"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpInteger.GetXmpRepresentation method
 
-الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+يحصل على القيمة النصية المحتواة بتنسيق XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### قيمة الإرجاع
 
-إرجاع القيمة المضمنة في السلسلة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpInteger](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum MultiPageMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.MultiPageMode تعداد. يمثل وضع متعدد الصفحات
+title: "عدد MultiPageMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "عدد Aspose.PSD.ImageOptions.MultiPageMode. يمثل وضع متعدد الصفحات"
 type: docs
-weight: 4850
+weight: 5340
 url: /ar/net/aspose.psd.imageoptions/multipagemode/
 ---
+{{< psd/tize >}}
 ## MultiPageMode enumeration
 
 يمثل وضع متعدد الصفحات
@@ -14,18 +15,18 @@ url: /ar/net/aspose.psd.imageoptions/multipagemode/
 public enum MultiPageMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Pages | `0` | مؤشرات الصفحة المستخدمة |
+| Pages | `0` | مؤشرات الصفحات المستخدمة |
 | Titles | `1` | عناوين الصفحات المستخدمة |
-| Range | `2` | نطاق الصفحات المستخدمة |
-| AllPages | `3` | تم استخدام كافة الصفحات |
+| Range | `2` | نطاق الصفحات المستخدم |
+| AllPages | `3` | استخدام جميع الصفحات |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

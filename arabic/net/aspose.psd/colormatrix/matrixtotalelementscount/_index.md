@@ -1,23 +1,24 @@
 ---
-title: ColorMatrix.MatrixTotalElementsCount
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMatrix مجال. العدد الإجمالي للعناصر في المصفوفة .
+title: "ColorMatrix.MatrixTotalElementsCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ColorMatrix. إجمالي عدد العناصر في المصفوفة"
 type: docs
 weight: 310
 url: /ar/net/aspose.psd/colormatrix/matrixtotalelementscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixTotalElementsCount field
 
-العدد الإجمالي للعناصر في المصفوفة .
+العدد الإجمالي للعناصر في المصفوفة.
 
 ```csharp
 public const int MatrixTotalElementsCount;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../)
-* مساحة الاسم [Aspose.PSD](../../colormatrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

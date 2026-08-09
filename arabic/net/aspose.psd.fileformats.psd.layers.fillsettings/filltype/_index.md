@@ -1,11 +1,12 @@
 ---
-title: Enum FillType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType تعداد. نوع التعبئة
+title: "تعداد FillType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType. نوع التعبئة"
 type: docs
-weight: 1940
+weight: 2050
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## FillType enumeration
 
 نوع التعبئة
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 public enum FillType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Color | `0` | نوع تعبئة اللون |
-| Gradient | `1` | نوع التعبئة المتدرجة |
+| Gradient | `1` | نوع تعبئة التدرج |
 | Pattern | `2` | نوع تعبئة النمط |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

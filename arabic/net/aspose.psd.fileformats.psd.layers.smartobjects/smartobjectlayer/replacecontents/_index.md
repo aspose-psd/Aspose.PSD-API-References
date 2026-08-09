@@ -1,11 +1,12 @@
 ---
-title: SmartObjectLayer.ReplaceContents
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectLayer طريقة. يستبدل محتويات الكائن الذكي المضمنة في طبقة الكائن الذكي.
+title: "SmartObjectLayer.ReplaceContents"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartObjectLayer. تستبدل محتويات الكائن الذكي المدمجة في طبقة الكائن الذكي"
 type: docs
-weight: 140
+weight: 160
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
 ---
+{{< psd/tize >}}
 ## ReplaceContents(Image) {#replacecontents}
 
 يستبدل محتويات الكائن الذكي المضمنة في طبقة الكائن الذكي.
@@ -14,13 +15,13 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/rep
 public void ReplaceContents(Image image)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة. |
+| صورة | صورة | الصورة. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم الكائنات الذكية المضمنة.
+الكود التالي يوضح دعم الكائنات الذكية المدمجة.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// يوضح هذا المثال كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات المضمنة الأصلية للكائن الذكي.
+// هذا المثال يوضح كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات الأصلية المدمجة للكائن الذكي.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // لنقوم بتصدير صورة الكائن الذكي المضمنة من طبقة الكائن الذكي PSD
+        // لنقوم بتصدير صورة الكائن الذكي المدمج من طبقة الكائن الذكي في PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة الأصلية بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة الأصلية محفوظة بشكل صحيح
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // لنقلب صورة الكائن الذكية الأصلية
+            // لنقلب صورة الكائن الذكي الأصلية
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,23 +85,23 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // لنستبدل صورة الكائن الذكي المضمنة في طبقة PSD
+            // لنستبدل صورة الكائن الذكي المدمج في طبقة PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة المحدثة بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة المحدثة محفوظة بشكل صحيح
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../../aspose.psd/image/)
 * class [SmartObjectLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -112,31 +113,31 @@ foreach (FileFormat format in formats)
 public void ReplaceContents(Image image, ResolutionSetting resolution)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة. |
-| resolution | ResolutionSetting | إعدادات الدقة. إذا كانت فارغة ، فسيتم استخدام دقة الصورة. |
+| صورة | صورة | الصورة. |
+| الدقة | ResolutionSetting | إعدادات الدقة. إذا كانت فارغة سيتم استخدام دقة الصورة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | يمكن فقط استبدال الكائن الذكي المضمن. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | يمكن استبدال الكائن الذكي المدمج فقط. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال أن طريقة ReplaceContents تعمل بشكل صحيح عندما يكون لملف المحتوى الجديد دقة مختلفة.
+يوضح هذا المثال أن طريقة ReplaceContents تعمل بشكل صحيح عندما يكون ملف المحتوى الجديد بدقة مختلفة.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال أن طريقة ReplaceContents تعمل بشكل صحيح عندما يكون لملف المحتوى الجديد دقة مختلفة.
+// يوضح هذا المثال أن طريقة ReplaceContents تعمل بشكل صحيح عندما يكون ملف المحتوى الجديد بدقة مختلفة.
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; // صورة PSD الأصلية
-string newContentPath = baseFolder + "image.jpg"; // ملف المحتوى الجديد للكائن الذكي
+string filePath = baseFolder + fileName; // original PSD image
+string newContentPath = baseFolder + "image.jpg"; // the new content file for the smart object
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; // ملف PNG الناتج
-string psdOutputPath = outputFilePath + ".psd"; // ملف PSD الناتج
+string pngOutputPath = outputFilePath + ".png"; // the output PNG file
+string psdOutputPath = outputFilePath + ".psd"; // the output PSD file
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
     for (int i = 0; i < psd.Layers.Length; i++)
@@ -154,43 +155,66 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../../aspose.psd/image/)
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string, ResolutionSetting) {#replacecontents_3}
 
-يستبدل المحتويات بملف . ليست هناك حاجة لاستدعاء طريقة UpdateModifiedContent بعد ذلك.
+يستبدل المحتويات بملف. لا حاجة لاستدعاء طريقة UpdateModifiedContent لاحقاً.
 
 ```csharp
 public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | linkedPath | String | المسار المرتبط. |
-| resolution | ResolutionSetting | إعدادات الدقة. إذا كانت فارغة ، فسيتم استخدام دقة الصورة. |
+| الدقة | ResolutionSetting | إعدادات الدقة. إذا كانت فارغة سيتم استخدام دقة الصورة. |
 
-### أمثلة
+### انظر أيضًا
 
-يوضح هذا المثال أن طريقة ReplaceContents تعمل بشكل صحيح عندما يكون لملف المحتوى الجديد دقة مختلفة.
+* class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, ResolutionSetting, bool) {#replacecontents_4}
+
+يستبدل المحتويات بملف. لا حاجة لاستدعاء طريقة UpdateModifiedContent لاحقاً.
+
+```csharp
+public void ReplaceContents(string linkedPath, ResolutionSetting resolution, bool isReplaceOnlyThis)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| linkedPath | String | المسار المرتبط. |
+| الدقة | ResolutionSetting | إعدادات الدقة. إذا كانت فارغة سيتم استخدام دقة الصورة. |
+| isReplaceOnlyThis | Boolean | العلم يوضح استبدال المحتوى من هذه الطبقة الذكية أو لجميع الطبقات الذكية التي تحتوي على هذا المحتوى |
+
+## أمثلة
+
+يوضح هذا المثال أن طريقة ReplaceContents تعمل بشكل صحيح عندما يكون ملف المحتوى الجديد بدقة مختلفة.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال أن طريقة ReplaceContents تعمل بشكل صحيح عندما يكون لملف المحتوى الجديد دقة مختلفة.
+// يوضح هذا المثال أن طريقة ReplaceContents تعمل بشكل صحيح عندما يكون ملف المحتوى الجديد بدقة مختلفة.
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; // صورة PSD الأصلية
-string newContentPath = baseFolder + "image.jpg"; // ملف المحتوى الجديد للكائن الذكي
+string filePath = baseFolder + fileName; // original PSD image
+string newContentPath = baseFolder + "image.jpg"; // the new content file for the smart object
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; // ملف PNG الناتج
-string psdOutputPath = outputFilePath + ".psd"; // ملف PSD الناتج
+string pngOutputPath = outputFilePath + ".png"; // the output PNG file
+string psdOutputPath = outputFilePath + ".psd"; // the output PSD file
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
     for (int i = 0; i < psd.Layers.Length; i++)
@@ -208,30 +232,123 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+الكود التالي يوضح دعم استبدال المحتوى في العديد من الكائنات الذكية التي لها نفس مرجع المصدر.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// سيستبدل هذا السياق نفسه في جميع الطبقات الذكية التي لها نفس الرابط.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // سيستبدل هذا المحتوى في جميع SmartLayers التي تستخدم نفس المحتوى.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//سيستبدل هذا سياق الطبقة المحددة فقط، مع ترك باقي الطبقات بسياقها نفسه.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // إنه يستبدل المحتوى في SmartLayer المحددة فقط.
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
+
+### انظر أيضًا
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string) {#replacecontents_2}
 
-يستبدل المحتويات بملف . ليست هناك حاجة لاستدعاء طريقة UpdateModifiedContent بعد ذلك.
+يستبدل المحتويات بملف. لا حاجة لاستدعاء طريقة UpdateModifiedContent لاحقاً.
 
 ```csharp
 public void ReplaceContents(string linkedPath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | linkedPath | String | المسار المرتبط. |
 
-### أمثلة
+### انظر أيضًا
 
-يوضح الكود التالي دعم تحديث الكائنات الذكية المرتبطة.
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, bool) {#replacecontents_5}
+
+يستبدل المحتويات بملف. لا حاجة لاستدعاء طريقة UpdateModifiedContent لاحقاً.
+
+```csharp
+public void ReplaceContents(string linkedPath, bool isReplaceOnlyThis)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| linkedPath | String | المسار المرتبط. |
+| isReplaceOnlyThis | Boolean | العلم يوضح استبدال المحتوى من هذه الطبقة الذكية أو لجميع الطبقات الذكية التي تحتوي على هذا المحتوى |
+
+## أمثلة
+
+الكود التالي يوضح دعم استبدال المحتوى في العديد من الكائنات الذكية التي لها نفس مرجع المصدر.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// سيستبدل هذا السياق نفسه في جميع الطبقات الذكية التي لها نفس الرابط.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // سيستبدل هذا المحتوى في جميع SmartLayers التي تستخدم نفس المحتوى.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//سيستبدل هذا سياق الطبقة المحددة فقط، مع ترك باقي الطبقات بسياقها نفسه.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // إنه يستبدل المحتوى في SmartLayer المحددة فقط.
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
+
+الكود التالي يوضح دعم تحديث الكائنات الذكية المرتبطة.
 
 ```csharp
 [C#]
@@ -264,8 +381,8 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// يوضح هذا المثال كيفية تحديث طبقة الكائن الذكي الخارجية أو المضمنة باستخدام الطرق التالية:
-// RelinkToFile ، UpdateModifiedContent ، ExportContents
+// هذا المثال يوضح كيفية تحديث طبقة الكائن الذكي الخارجي أو المضمّن باستخدام هذه الطرق:
+// RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 
@@ -278,7 +395,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // يوضح هذا المثال كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث محتوياتها.
+    // هذا المثال يوضح كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث محتوياته.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -299,13 +416,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // لنقوم بتصدير صورة الكائن الذكي الخارجي من طبقة الكائن الذكي PSD إلى موقع جديد
-            // لأننا سنقوم بتعديله.
+            // لنقم بتصدير صورة الكائن الذكي الخارجي من طبقة الكائن الذكي في PSD إلى موقع جديد
+            // لأننا سنقوم بتعديلها.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // دعنا نقلب محتوى الكائن الذكي: الصورة الداخلية (غير المخبأة)
+        // لنقلب محتوى الكائن الذكي: الصورة الداخلية (غير مخزنة مؤقتًا)
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -316,18 +433,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // دعنا نتحقق مما إذا كان المحتوى المعدل لا يؤثر على العرض حتى الآن.
+        // لنتحقق مما إذا كان المحتوى المعدل لا يؤثر بعد على العرض.
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // دعنا نتحقق مما إذا كان المحتوى المحدث يؤثر على العرض ويتم حفظ صورة psd بشكل صحيح
+        // لنتحقق مما إذا كان المحتوى المحدث يؤثر على العرض وأن صورة PSD تم حفظها بشكل صحيح
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// يوضح هذا المثال كيفية تحويل الكائن الذكي المضمن إلى محتويات مرتبطة خارجية باستخدام طريقة ConvertToLinked.
+// هذا المثال يوضح كيفية تحويل الكائن الذكي المضمّن إلى محتويات مرتبطة خارجية باستخدام طريقة ConvertToLinked.
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -347,7 +464,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // يوضح هذا كيفية تحويل طبقة كائن ذكية مضمنة في ملف PSD إلى طبقة خارجية.
+    // هذا يوضح كيفية تحويل طبقة كائن ذكي مضمّنة في ملف PSD إلى طبقة خارجية.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -368,7 +485,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة المحولة بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة المحوّلة تم حفظها بشكل صحيح
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -385,7 +502,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// يوضح هذا المثال كيفية تضمين طبقة كائن ذكي خارجية واحدة أو كل الطبقات المرتبطة في ملف PSD باستخدام طريقة EmbedLinked.
+// هذا المثال يوضح كيفية تضمين طبقة كائن ذكي خارجية واحدة أو جميع الطبقات المرتبطة في ملف PSD باستخدام طريقة EmbedLinked.
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -429,7 +546,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // دعنا نتحقق مما إذا تم حفظ الصورة المحولة بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة المحوّلة تم حفظها بشكل صحيح
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -446,8 +563,8 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// يوضح هذا المثال كيفية تغيير طبقة الكائن الذكي الخارجية Adobe® Photoshop® وتصدير / تحديث محتوياتها
-// باستخدام طرق ExportContents و ReplaceContents.
+// هذا المثال يوضح كيفية تغيير طبقة الكائن الذكي الخارجي في Adobe® Photoshop® وتصدير / تحديث محتوياته
+// باستخدام طريقتي ExportContents و ReplaceContents.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
 void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLength, int left, int top, int right, int bottom, FileFormat format)
@@ -473,10 +590,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // لنقوم بتصدير صورة الكائن الذكي المرتبط من طبقة الكائن الذكي PSD
+        // لنقم بتصدير صورة الكائن الذكي المرتبط من طبقة الكائن الذكي في PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // دعنا نتحقق مما إذا كانت الصورة الأصلية محفوظة بشكل صحيح
+        // لنتحقق مما إذا تم حفظ الصورة الأصلية بشكل صحيح
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -484,21 +601,21 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // لنقلب صورة الكائن الذكي المرتبطة
+            // لنقلب صورة الكائن الذكي المرتبط
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // لنستبدل صورة الكائن الذكي المرتبطة في طبقة PSD
+            // لنستبدل صورة الكائن الذكي المرتبط في طبقة PSD
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة المحدثة بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة المحدثة محفوظة بشكل صحيح
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// يعكس الصورة.
+// يقلب الصورة.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -512,7 +629,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// يعكس الصورة النقطية.
+// يعكس صورة النقطية.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -526,7 +643,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// يحصل على امتداد التنسيق.
+// يحصل على امتداد الصيغة.
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -534,10 +651,10 @@ string GetFormatExt(FileFormat format)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

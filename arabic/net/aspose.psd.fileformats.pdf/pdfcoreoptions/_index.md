@@ -1,38 +1,39 @@
 ---
-title: Class PdfCoreOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Pdf.PdfCoreOptions فصل. الخيارات الشائعة للتحويل إلى PDF
+title: "فئة PdfCoreOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Pdf.PdfCoreOptions. الخيارات العامة للتحويل إلى PDF"
 type: docs
-weight: 1560
+weight: 1570
 url: /ar/net/aspose.psd.fileformats.pdf/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions class
 
-الخيارات الشائعة للتحويل إلى PDF
+الخيارات العامة للتحويل إلى PDF.
 
 ```csharp
 public class PdfCoreOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PdfCoreOptions](pdfcoreoptions/)() | Default_Constructor |
+| [PdfCoreOptions](pdfcoreoptions/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BookmarksOutlineLevel](../../aspose.psd.fileformats.pdf/pdfcoreoptions/bookmarksoutlinelevel/) { get; set; } | يحدد أي مستوى في مخطط المستند لعرض كائنات الإشارة المرجعية. 0 - غير معروض. 1 في المستوى الأول وهكذا. الافتراضي هو 0. |
-| [ExpandedOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/expandedoutlinelevels/) { get; set; } | يحدد عدد المستويات في مخطط المستند لإظهاره موسعًا عند عرض ملف PDF . 0 - لم يتم توسيع مخطط المستند . 1 - يتم توسيع عناصر المستوى الأول في المستند وهكذا. الافتراضي هو 0. |
-| [HeadingsOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/headingsoutlinelevels/) { get; set; } | يحدد عدد مستويات عناصر المخطط التفصيلي المراد تضمينها في مخطط المستند. 0 - بدون مخطط تفصيلي ، 1 - مستوى مخطط تفصيلي واحد وما إلى ذلك. الافتراضي هو 0. |
-| [JpegQuality](../../aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality/) { get; set; } | يحدد جودة ضغط JPEG للصور (إذا تم استخدام ضغط JPEG) . الافتراضي هو 95. |
-| [PdfCompliance](../../aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcompliance/) { get; set; } | الحصول على أو تعيين التوافق مع PDF . |
+| [BookmarksOutlineLevel](../../aspose.psd.fileformats.pdf/pdfcoreoptions/bookmarksoutlinelevel/) { get; set; } | يحدد المستوى الذي يتم فيه عرض كائنات الإشارة المرجعية في مخطط المستند. 0 - غير معروض. 1 في المستوى الأول وهكذا. القيمة الافتراضية هي 0. |
+| [ExpandedOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/expandedoutlinelevels/) { get; set; } | يحدد عدد المستويات في مخطط المستند التي يتم توسيعها عند عرض ملف PDF. 0 - مخطط المستند غير موسع. 1 - عناصر المستوى الأول في المستند موسعة وهكذا. القيمة الافتراضية هي 0. |
+| [HeadingsOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/headingsoutlinelevels/) { get; set; } | يحدد عدد مستويات عناصر المخطط التي يتم تضمينها في مخطط المستند. 0 - لا مخطط، 1 - مستوى مخطط واحد وهكذا. القيمة الافتراضية هي 0. |
+| [JpegQuality](../../aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality/) { get; set; } | يحدد جودة ضغط JPEG للصور (إذا تم استخدام ضغط JPEG). القيمة الافتراضية هي 95. |
+| [PdfCompliance](../../aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcompliance/) { get; set; } | يحصل أو يضبط توافق PDF. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../)
 
 

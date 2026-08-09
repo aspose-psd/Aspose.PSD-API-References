@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSShort
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. قراءة القيمة القصيرة الموقعة من الدفق.
+title: "TiffStreamReader.ReadSShort"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. قراءة قيمة قصيرة موقعة من الدفق"
 type: docs
 weight: 170
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShort method
 
-قراءة القيمة القصيرة الموقعة من الدفق.
+اقرأ قيمة قصير موقعة من الدفق.
 
 ```csharp
 public short ReadSShort(long position)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف للقراءة منه. |
+| الموضع | Int64 | الموضع للقراءة منه. |
 
 ### قيمة الإرجاع
 
-قيمة قصيرة موقعة .
+قيمة قصيرة موقعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.WhiteBalance
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو ضبط توازن اللون الأبيض.
+title: "ExifData.WhiteBalance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط توازن اللون الأبيض"
 type: docs
 weight: 1070
 url: /ar/net/aspose.psd.exif/exifdata/whitebalance/
 ---
+{{< psd/tize >}}
 ## ExifData.WhiteBalance property
 
-الحصول على أو ضبط توازن اللون الأبيض.
+الحصول أو تعيين توازن اللون الأبيض.
 
 ```csharp
 public ExifWhiteBalance WhiteBalance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-توازن اللون الأبيض .
+توازن اللون الأبيض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifWhiteBalance](../../../aspose.psd.exif.enums/exifwhitebalance/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

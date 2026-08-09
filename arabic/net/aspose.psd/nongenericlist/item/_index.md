@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.Item
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericList ملكية. الحصول على العنصر أو تحديده في الفهرس المحدد.
+title: "NonGenericList.Item"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية NonGenericList. يحصل على العنصر أو يعيّن العنصر في الفهرس المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/nongenericlist/item/
 ---
+{{< psd/tize >}}
 ## NonGenericList indexer
 
-الحصول على العنصر أو تحديده في الفهرس المحدد.
+يحصل أو يعيّن العنصر في الفهرس المحدد.
 
 ```csharp
 public object this[int index] { get; set; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | مؤشر. |
+| فهرس | الفهرس. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericList](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericlist/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

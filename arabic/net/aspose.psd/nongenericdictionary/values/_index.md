@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Values
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary ملكية. يحصل على ICollection كائن يحتوي على القيم في IDictionary الكائن .
+title: "NonGenericDictionary.Values"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية NonGenericDictionary. تحصل على كائن ICollection يحتوي على القيم في كائن IDictionary"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/nongenericdictionary/values/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Values property
 
-يحصل على ICollection كائن يحتوي على القيم في IDictionary الكائن .
+يحصل على كائن ICollection يحتوي على القيم في كائن IDictionary.
 
 ```csharp
 public ICollection Values { get; }
@@ -16,12 +17,12 @@ public ICollection Values { get; }
 
 ### قيمة الإرجاع
 
-انICollection كائن يحتوي على القيم فيIDictionary هدف.
+كائن ICollection يحتوي على القيم في كائن IDictionary.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

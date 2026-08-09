@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GuideCount
-second_title: Aspose.PSD لمرجع .NET API
-description: GridAndGuidesResouce ملكية. الحصول على عدد كتل موارد الدليل .
+title: "GridAndGuidesResouce.GuideCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GridAndGuidesResouce. يحصل على عدد كتل موارد الدليل"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GuideCount property
 
-الحصول على عدد كتل موارد الدليل .
+يحصل على عدد كتل مورد الإرشاد.
 
 ```csharp
 public int GuideCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تحسب مجموعات موارد الدليل.
+عدد كتل موارد الدليل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GridAndGuidesResouce](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

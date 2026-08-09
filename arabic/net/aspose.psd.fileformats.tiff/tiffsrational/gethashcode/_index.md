@@ -1,14 +1,15 @@
 ---
-title: TiffSRational.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffSRational طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "TiffSRational.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffSRational. تُرجع رمز تجزئة لهذه المثيلة"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.tiff/tiffsrational/gethashcode/
 ---
+{{< psd/tize >}}
 ## TiffSRational.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة لهذه المثيلة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذه المثيلة، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

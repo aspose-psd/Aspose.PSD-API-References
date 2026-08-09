@@ -1,29 +1,30 @@
 ---
-title: Enum GuideDirection
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection تعداد. اتجاه الدليل .
+title: "تعداد GuideDirection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FileFormats.Psd.Resources.GuideDirection. اتجاه الدليل"
 type: docs
-weight: 3740
+weight: 4210
 url: /ar/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
+{{< psd/tize >}}
 ## GuideDirection enumeration
 
-اتجاه الدليل .
+اتجاه الدليل.
 
 ```csharp
 public enum GuideDirection : byte
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Vertical | `0` | اتجاه الدليل العمودي . |
-| Horizontal | `1` | اتجاه التوجيه الأفقي. |
+| Vertical | `0` | اتجاه الدليل العمودي. |
+| Horizontal | `1` | اتجاه الدليل الأفقي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

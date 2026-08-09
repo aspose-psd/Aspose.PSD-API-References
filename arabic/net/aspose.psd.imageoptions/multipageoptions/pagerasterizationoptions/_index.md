@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.PageRasterizationOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: MultiPageOptions ملكية. الحصول على خيارات تنقيط الصفحة أو تعيينها.
+title: "MultiPageOptions.PageRasterizationOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MultiPageOptions. تحصل أو تعين خيارات تمثيل الصفحة بالنقط"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageRasterizationOptions property
 
-الحصول على خيارات تنقيط الصفحة أو تعيينها.
+يحصل أو يعيّن خيارات تمثيل الصفحة.
 
 ```csharp
 public VectorRasterizationOptions[] PageRasterizationOptions { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-خيارات تحويل الصفحة إلى نقطية .
+خيارات تمثيل الصفحة بالنقط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
 * class [MultiPageOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

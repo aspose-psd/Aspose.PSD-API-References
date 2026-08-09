@@ -1,71 +1,72 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. يغير حجم العرض بشكل متناسب .
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تُعيد تحجيم العرض بنسبة متناسبة. يتم استخدام NearestNeighbourResample الافتراضي."
 type: docs
-weight: 210
+weight: 220
 url: /ar/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-يغير حجم العرض بشكل متناسب .
+يعيد تحجيم العرض بنسبية. يتم استخدام NearestNeighbourResample الافتراضي.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-يغير حجم العرض بشكل متناسب .
+يعيد تحجيم العرض بنسبية.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
-| resizeType | ResizeType | نوع تغيير الحجم. |
+| resizeType | ResizeType | نوع التحجيم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-يغير حجم العرض بشكل متناسب .
+يعيد تحجيم العرض بنسبية.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
-| settings | ImageResizeSettings | إعدادات تغيير حجم الصورة. |
+| الإعدادات | ImageResizeSettings | إعدادات تحجيم الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

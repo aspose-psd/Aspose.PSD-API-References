@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Transform
-second_title: Aspose.PSD لمرجع .NET API
-description: ObjectWithBounds طريقة. يطبق التحويل المحدد على الشكل.
+title: "ObjectWithBounds.Transform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ObjectWithBounds طريقة. تُطبق التحويل المحدد على الشكل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/objectwithbounds/transform/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Transform method
 
 يطبق التحويل المحدد على الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd/objectwithbounds/transform/
 public abstract void Transform(Matrix transform)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | التحول للتطبيق. |
+| transform | Matrix | التحويل الذي سيتم تطبيقه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* مساحة الاسم [Aspose.PSD](../../objectwithbounds/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

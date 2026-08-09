@@ -1,36 +1,37 @@
 ---
-title: Class GraphicsOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.GraphicsOptions فصل. يمثل خيارات الرسومات للصورة النقطية المضمنة.
+title: "الفئة GraphicsOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageOptions.GraphicsOptions. تمثل خيارات الرسومات للصور النقطية المضمنة."
 type: docs
-weight: 4820
+weight: 5310
 url: /ar/net/aspose.psd.imageoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions class
 
-يمثل خيارات الرسومات للصورة النقطية المضمنة.
+يمثل خيارات الرسومات للبت ماب المدمج.
 
 ```csharp
 public class GraphicsOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GraphicsOptions](graphicsoptions/)() | Default_Constructor |
+| [GraphicsOptions](graphicsoptions/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | الحصول على وضع الاستيفاء أو تعيينه. |
-| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | الحصول على أو تحديد وضع التجانس . |
-| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | الحصول على تلميح عرض النص أو تعيينه. |
+| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | يحصل أو يضبط وضع الاستيفاء. |
+| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | يحصل أو يضبط وضع التنعيم. |
+| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | يحصل أو يضبط تلميح عرض النص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

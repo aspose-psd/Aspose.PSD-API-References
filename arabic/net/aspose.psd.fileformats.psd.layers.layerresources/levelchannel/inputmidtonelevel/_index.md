@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputMidtoneLevel
-second_title: Aspose.PSD لمرجع .NET API
-description: LevelChannel ملكية. الحصول على أو تعيين تعويم مستوى الدرجة اللونية للإدخال.
+title: "LevelChannel.InputMidtoneLevel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LevelChannel. تحصل أو تعيّن قيمة عائمة لمستوى النغمة المتوسطة للإدخال"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputMidtoneLevel property
 
-الحصول على أو تعيين تعويم مستوى الدرجة اللونية للإدخال.
+يحصل أو يضبط قيمة عائمة لمستوى النغمة المتوسطة للمدخل.
 
 ```csharp
 public float InputMidtoneLevel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تعويم مستوى الدرجة اللونية للإدخال .
+قيمة عائمة لمستوى النغمة المتوسطة للإدخال.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يمكن ضبط مستوى نغمة الإدخال في النطاق من 0.01 إلى 9.99 فقط |
+| ArgumentOutOfRangeException | يمكن تعيين Input Midtone Level فقط في النطاق من 0.01 إلى 9.99 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LevelChannel](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

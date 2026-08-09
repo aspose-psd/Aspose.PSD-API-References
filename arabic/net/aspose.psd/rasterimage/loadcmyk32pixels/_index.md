@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadCmyk32Pixels
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تحميل وحدات البكسل بتنسيق CMYK .
+title: "RasterImage.LoadCmyk32Pixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تحميل البكسلات بصيغة CMYK"
 type: docs
 weight: 370
 url: /ar/net/aspose.psd/rasterimage/loadcmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadCmyk32Pixels method
 
-تحميل وحدات البكسل بتنسيق CMYK .
+يقوم بتحميل البكسلات بتنسيق CMYK.
 
 ```csharp
 public int[] LoadCmyk32Pixels(Rectangle rectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المراد تحميل البكسل منه. |
+| مستطيل | Rectangle | المستطيل الذي يتم تحميل البكسلات منه. |
 
 ### قيمة الإرجاع
 
-يتم تقديم وحدات البكسل CMYK المحملة كقيم Inateger 32 بت.
+البكسلات CMYK المحملة مقدمة كقيم صحيحة 32-بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

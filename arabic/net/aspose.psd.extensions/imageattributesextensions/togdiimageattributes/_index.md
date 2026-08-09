@@ -1,32 +1,33 @@
 ---
-title: ImageAttributesExtensions.ToGdiImageAttributes
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributesExtensions طريقة. يحول ملفImageAttributes الىImageAttributes .
+title: "ImageAttributesExtensions.ToGdiImageAttributes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributesExtensions. يحول ImageAttributes إلى ImageAttributes"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-يحول ملف[`ImageAttributes`](../../../aspose.psd/imageattributes/) الىImageAttributes .
+يقوم بتحويل [`ImageAttributes`](../../../aspose.psd/imageattributes/) إلى ImageAttributes.
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | ال[`ImageAttributes`](../../../aspose.psd/imageattributes/) لتحويل. |
+| imageAttributes | ImageAttributes | الـ[`ImageAttributes`](../../../aspose.psd/imageattributes/) للتحويل. |
 
 ### قيمة الإرجاع
 
-المحولةImageAttributes.
+ImageAttributes المحوَّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* مساحة الاسم [Aspose.PSD.Extensions](../../imageattributesextensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

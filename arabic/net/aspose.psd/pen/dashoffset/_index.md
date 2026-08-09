@@ -1,27 +1,28 @@
 ---
-title: Pen.DashOffset
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على المسافة من بداية السطر إلى بداية نمط الشرطة أو تحديدها .
+title: "Pen.DashOffset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعين المسافة من بداية الخط إلى بداية نمط الشرط."
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/pen/dashoffset/
 ---
+{{< psd/tize >}}
 ## Pen.DashOffset property
 
-الحصول على المسافة من بداية السطر إلى بداية نمط الشرطة أو تحديدها .
+يحصل أو يضبط المسافة من بداية الخط إلى بداية نمط الشرط.
 
 ```csharp
 public float DashOffset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المسافة من بداية السطر إلى بداية نمط الشرطة.
+المسافة من بداية الخط إلى بداية نمط الشرط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

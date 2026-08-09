@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MaxSampleValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على الحد الأقصى لقيمة العينة أو تعيينها.
+title: "TiffOptions.MaxSampleValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين قيمة العينة القصوى"
 type: docs
-weight: 260
+weight: 270
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/maxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MaxSampleValue property
 
-الحصول على الحد الأقصى لقيمة العينة أو تعيينها.
+يحصل أو يعيّن قيمة العينة القصوى.
 
 ```csharp
 public ushort[] MaxSampleValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة القصوى للعينة .
+قيمة العينة القصوى.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | قيمة |
-| ArgumentOutOfRangeException | القيمة ؛ يجب أن يتوافق طول الصفيف مع العينات لكل عدد بكسل. |
+| ArgumentOutOfRangeException | value;يجب أن يتطابق طول المصفوفة مع عدد العينات لكل بكسل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

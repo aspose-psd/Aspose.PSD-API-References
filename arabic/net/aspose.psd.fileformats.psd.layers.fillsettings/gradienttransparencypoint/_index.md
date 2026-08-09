@@ -1,11 +1,12 @@
 ---
-title: Class GradientTransparencyPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint فصل. نقطة شفافية التدرج
+title: "الفئة GradientTransparencyPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint. نقطة شفافية التدرج"
 type: docs
-weight: 1970
+weight: 2090
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint class
 
 نقطة شفافية التدرج
@@ -14,24 +15,24 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparency
 public class GradientTransparencyPoint : IGradientTransparencyPoint
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GradientTransparencyPoint](gradienttransparencypoint/)() | يقوم بتهيئة مثيل جديد لملف`GradientTransparencyPoint` فئة . |
+| [GradientTransparencyPoint](gradienttransparencypoint/)() | ينشئ مثلاً جديداً من الفئة `GradientTransparencyPoint`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/) { get; set; } | الحصول على الموقع أو تحديده . |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/) { get; set; } | الحصول على أو تحديد موقع النقطة الوسيط. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/) { get; set; } | الحصول على اللون أو تحديده . |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/) { get; set; } | يحصل أو يعيّن الموقع. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/) { get; set; } | يحصل أو يعيّن موقع نقطة الوسط. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/) { get; set; } | يحصل أو يعيّن اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientTransparencyPoint](../igradienttransparencypoint/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

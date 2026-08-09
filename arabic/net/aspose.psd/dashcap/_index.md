@@ -1,30 +1,31 @@
 ---
-title: Enum DashCap
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.DashCap تعداد. يحدد نوع الشكل الرسومي المراد استخدامه على طرفي كل شرطة في خط متقطع.
+title: "التعداد DashCap"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.DashCap تعداد. يحدد نوع الشكل الرسومي لاستخدامه على كلا طرفي كل شرطة في خط متقطع"
 type: docs
-weight: 710
+weight: 720
 url: /ar/net/aspose.psd/dashcap/
 ---
+{{< psd/tize >}}
 ## DashCap enumeration
 
-يحدد نوع الشكل الرسومي المراد استخدامه على طرفي كل شرطة في خط متقطع.
+يحدد نوع الشكل الرسومي لاستخدامه على طرفي كل شرطة في خط متقطع.
 
 ```csharp
 public enum DashCap
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Flat | `0` | تحديد غطاء مربع يقطع طرفي كل شرطة. |
-| Round | `2` | يحدد غطاءًا دائريًا يدور حول طرفي كل شرطة . |
-| Triangle | `3` | يحدد غطاءً مثلثًا يشير إلى طرفي كل شرطة . |
+| Flat | `0` | يحدد غطاءً مربعاً يساوي كلا طرفي كل شرطة. |
+| Round | `2` | يحدد غطاءً دائرياً يدوّر كلا طرفي كل شرطة. |
+| Triangle | `3` | يحدد غطاءً مثلثياً يوجه كلا طرفي كل شرطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: MlstResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: MlstResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "MlstResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MlstResource. يحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 50
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/
 ---
+{{< psd/tize >}}
 ## MlstResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MlstResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

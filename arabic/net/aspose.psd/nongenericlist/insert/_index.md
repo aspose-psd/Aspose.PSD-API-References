@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.Insert
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericList طريقة. يقوم بإدراج عنصر في ملفIList في الفهرس المحدد.
+title: "NonGenericList.Insert"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة NonGenericList. تُدرج عنصرًا في IList عند الفهرس المحدد"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/nongenericlist/insert/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Insert method
 
-يقوم بإدراج عنصر في ملفIList في الفهرس المحدد.
+يدرج عنصرًا في IList عند الفهرس المحدد.
 
 ```csharp
 public void Insert(int index, object value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | المؤشر الصفري الذي عنده*value* يجب إدخالها. |
-| value | Object | الObject لإدراجها فيIList. |
+| فهرس | Int32 | الفهرس الصفري الذي يجب إدراج *value* عنده. |
+| قيمة | Object | الكائن الذي سيُدرج في IList. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericList](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericlist/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

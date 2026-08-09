@@ -1,11 +1,12 @@
 ---
-title: Enum TiffByteOrder
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder تعداد. ترتيب البايت لصورة tiff
+title: "تعداد TiffByteOrder"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder. ترتيب البايتات لصورة TIFF."
 type: docs
-weight: 4040
+weight: 4510
 url: /ar/net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 ---
+{{< psd/tize >}}
 ## TiffByteOrder enumeration
 
 ترتيب البايت لصورة tiff
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 public enum TiffByteOrder
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| BigEndian | `19789` | ترتيب البايت الداخلي الكبير (Motorola) . |
-| LittleEndian | `18761` | ترتيب البايت الصغير (Intel) . |
+| BigEndian | `19789` | ترتيب البايتات كبير النهاية (Motorola). |
+| LittleEndian | `18761` | ترتيب البايتات صغير النهاية (Intel). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class GradientColorPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint فصل. نقطة لون التدرج.
+title: "الفئة GradientColorPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint. نقطة لون التدرج"
 type: docs
-weight: 1950
+weight: 2060
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint class
 
 نقطة لون التدرج.
@@ -14,25 +15,26 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 public class GradientColorPoint : IGradientColorPoint
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint/#constructor)() | يقوم بتهيئة مثيل جديد لملف`GradientColorPoint` فئة . |
-| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | يقوم بتهيئة مثيل جديد لملف`GradientColorPoint` فئة . |
+| [GradientColorPoint](gradientcolorpoint/#constructor)() | ينشئ مثيلاً جديداً للفئة `GradientColorPoint`. |
+| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | ينشئ مثيلاً جديداً للفئة `GradientColorPoint`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | الحصول على أو تحديد موقع النقطة على التدرج . |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | الحصول على أو تعيين موقع نقطة التدرج المتوسط. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | الحصول على لون الخام أو تحديده. |
+| [ColorMode](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/) { get; set; } | الوضع لتتبع اللون |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | يحصل أو يضبط موقع النقطة على التدرج. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | يحصل أو يضبط موقع نقطة التدرج المتوسطة. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | يحصل أو يضبط لون الخام. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientColorPoint](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

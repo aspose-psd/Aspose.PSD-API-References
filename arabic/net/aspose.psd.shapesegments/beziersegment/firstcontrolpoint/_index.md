@@ -1,28 +1,29 @@
 ---
-title: BezierSegment.FirstControlPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierSegment ملكية. يحصل على أول نقطة تحكم في شريحة بيزير.
+title: "BezierSegment.FirstControlPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BezierSegment. يحصل على نقطة التحكم الأولى لمنحنى بيزير"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.shapesegments/beziersegment/firstcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.FirstControlPoint property
 
-يحصل على أول نقطة تحكم في شريحة بيزير.
+يحصل على نقطة التحكم الأولى لمنحنى بيزيير.
 
 ```csharp
 public PointF FirstControlPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
-أول نقطة تحكم.
+نقطة التحكم الأولى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* مساحة الاسم [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

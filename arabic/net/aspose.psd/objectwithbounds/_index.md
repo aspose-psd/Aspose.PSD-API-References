@@ -1,14 +1,15 @@
 ---
-title: Class ObjectWithBounds
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ObjectWithBounds فصل. الكائن مرتبط .
+title: "فئة ObjectWithBounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.ObjectWithBounds. الكائن الذي له حدود."
 type: docs
-weight: 5160
+weight: 5650
 url: /ar/net/aspose.psd/objectwithbounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds class
 
-الكائن مرتبط .
+الكائن الذي له حدود.
 
 ```csharp
 public abstract class ObjectWithBounds
@@ -16,21 +17,21 @@ public abstract class ObjectWithBounds
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | يحصل على حدود الكائن . |
+| abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | يحصل على حدود الكائن. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds)(Matrix) | يحصل على حدود الكائن . |
-| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds_1)(Matrix, Pen) | يحصل على حدود الكائن . |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds)(Matrix) | يحصل على حدود الكائن. |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds_1)(Matrix, Pen) | يحصل على حدود الكائن. |
 | abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | يطبق التحويل المحدد على الشكل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

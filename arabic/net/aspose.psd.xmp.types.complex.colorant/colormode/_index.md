@@ -1,30 +1,31 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode تعداد. يمثل وضع اللون .
+title: "تعداد ColorMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode. يمثل وضع اللون"
 type: docs
-weight: 5990
+weight: 6490
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-يمثل وضع اللون .
+يمثل وضع اللون.
 
 ```csharp
 public enum ColorMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Cmyk | `1` | وضع ألوان CMYK . |
-| Rgb | `2` | وضع ألوان RGB . |
-| Lab | `3` | وضع لون LAB . |
+| Cmyk | `1` | وضع اللون CMYK. |
+| Rgb | `2` | وضع اللون RGB. |
+| Lab | `3` | وضع اللون LAB. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

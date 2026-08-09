@@ -1,11 +1,12 @@
 ---
-title: Class IntRange
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IntRange فصل. فئة لتمثيل تسلسل العناصر
+title: "الفئة IntRange"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.IntRange. فئة لتمثيل تسلسل العناصر"
 type: docs
-weight: 5010
+weight: 5500
 url: /ar/net/aspose.psd/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange class
 
 فئة لتمثيل تسلسل العناصر
@@ -14,30 +15,30 @@ url: /ar/net/aspose.psd/intrange/
 public class IntRange
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IntRange](intrange/#constructor_2)(int[]) | يقوم بتهيئة مثيل جديد لملف`IntRange` فئة . |
-| [IntRange](intrange/#constructor)(int, int) | يقوم بتهيئة مثيل جديد لملف`IntRange` فئة . |
-| [IntRange](intrange/#constructor_1)(int, int, int) | يقوم بتهيئة مثيل جديد لملف`IntRange` فئة . |
+| [IntRange](intrange/#constructor_2)(int[]) | ينشئ مثيلًا جديدًا للفئة `IntRange`. |
+| [IntRange](intrange/#constructor)(int, int) | ينشئ مثيلًا جديدًا للفئة `IntRange`. |
+| [IntRange](intrange/#constructor_1)(int, int, int) | ينشئ مثيلًا جديدًا للفئة `IntRange`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Range](../../aspose.psd/intrange/range/) { get; set; } | الحصول على النطاق أو تحديده. |
+| [Range](../../aspose.psd/intrange/range/) { get; set; } | يحصل أو يعيّن النطاق. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | إرجاع مصفوفة عنصر واحدة من index |
-| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | الحصول على نطاق العد لعناصر int بدءًا من start |
+| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | يرجع مصفوفة عنصر واحد من الفهرس المحدد |
+| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | يحصل على نطاق العد لعناصر int بدءًا من start |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

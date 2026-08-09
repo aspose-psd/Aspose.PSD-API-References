@@ -1,14 +1,15 @@
 ---
-title: Rational.GetXmpRepresentation
-second_title: Aspose.PSD لمرجع .NET API
-description: Rational طريقة. الحصول على القيمة المضمنة للسلسلة بتنسيق XMP.
+title: "Rational.GetXmpRepresentation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rational. تحصل على القيمة المحتواة كسلسلة في تنسيق XMP"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.types.derived/rational/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Rational.GetXmpRepresentation method
 
-الحصول على القيمة المضمنة للسلسلة بتنسيق XMP.
+يحصل على القيمة المحتواة كسلسلة في تنسيق XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### قيمة الإرجاع
 
-تُرجع قيمة السلسلة المضمنة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rational](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

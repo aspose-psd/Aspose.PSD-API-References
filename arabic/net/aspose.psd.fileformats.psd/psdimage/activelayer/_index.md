@@ -1,35 +1,36 @@
 ---
-title: PsdImage.ActiveLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على الطبقة النشطة أو تعيينها.
+title: "PsdImage.ActiveLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل أو تعين الطبقة النشطة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.ActiveLayer property
 
-الحصول على الطبقة النشطة أو تعيينها.
+يحصل أو يعيّن الطبقة النشطة.
 
 ```csharp
 public Layer ActiveLayer { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الطبقة النشطة .
+الطبقة النشطة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | لا توجد طبقة نشطة ولا طبقات في الصورة. |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لا يمكن تعيين الطبقة النشطة لأنها تنتمي إلى صورة أخرى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

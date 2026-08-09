@@ -1,22 +1,23 @@
 ---
-title: AnimatedDataSectionResource.AnimatedDataSection
-second_title: Aspose.PSD لمرجع .NET API
-description: AnimatedDataSectionResource ملكية. الحصول على أو تعيين هيكل قسم البيانات المتحركة.
+title: "AnimatedDataSectionResource.AnimatedDataSection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AnimatedDataSectionResource. يحصل أو يضبط بنية قسم البيانات المتحركة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/animateddatasection/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource.AnimatedDataSection property
 
-الحصول على أو تعيين هيكل قسم البيانات المتحركة.
+يحصل أو يضبط بنية قسم البيانات المتحركة.
 
 ```csharp
 public AnimatedDataSectionStructure AnimatedDataSection { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي كيفية تعيين / تحديث وقت التأخير في إطار المخطط الزمني للبيانات المتحركة.
+الكود التالي يوضح كيفية تعيين/تحديث وقت التأخير في إطار المخطط الزمني للبيانات المتحركة.
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // ينشئ سجل تأخير الإطار بقيمة 100 سنتي ثانية تساوي 1 ثانية.
+            // ينشئ سجل تأخير الإطار بقيمة 100 سنتي-ثانية وهو ما يعادل 1 ثانية.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // ضبط الوقت في سنتي ثانية.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -82,11 +83,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AnimatedDataSectionStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/)
 * class [AnimatedDataSectionResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../animateddatasectionresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

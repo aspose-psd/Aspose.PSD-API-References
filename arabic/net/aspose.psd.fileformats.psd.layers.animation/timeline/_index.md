@@ -1,46 +1,47 @@
 ---
-title: Class TimeLine
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine فصل. نموذج خيارات الخط الزمني .
+title: "الفئة Timeline"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.Animation.Timeline. نموذج خيارات الخط الزمني"
 type: docs
-weight: 1880
+weight: 1980
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/timeline/
 ---
-## TimeLine class
+{{< psd/tize >}}
+## Timeline class
 
-نموذج خيارات الخط الزمني .
+نموذج خيارات الخط الزمني.
 
 ```csharp
-public sealed class TimeLine
+public sealed class Timeline
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TimeLine](timeline/)() | Default_Constructor |
+| [Timeline](timeline/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/) { get; set; } | الحصول على أو تحديد فهرس الإطار النشط. |
-| [AFSt](../../aspose.psd.fileformats.psd.layers.animation/timeline/afst/) { get; set; } | الحصول على قيمة AFSt أو تعيينها. |
-| [Frames](../../aspose.psd.fileformats.psd.layers.animation/timeline/frames/) { get; set; } | يحصل على قائمة الإطارات . |
-| [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | الحصول على أو تعيين قيمة FsID . |
-| [LayerIds](../../aspose.psd.fileformats.psd.layers.animation/timeline/layerids/) { get; set; } | الحصول على أو تعيين مصفوفة معرف الطبقات. |
-| [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | الحصول على أو تحديد عدد الحلقات . |
+| [ActiveFrameIndex](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframeindex/) { get; } | يسترجع فهرس الإطار النشط. |
+| [AFSt](../../aspose.psd.fileformats.psd.layers.animation/timeline/afst/) { get; set; } | يحصل على أو يضبط قيمة AFSt. |
+| [Frames](../../aspose.psd.fileformats.psd.layers.animation/timeline/frames/) { get; set; } | يحصل على قائمة الإطارات. |
+| [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | يحصل على أو يضبط قيمة FsID. |
+| [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | يحصل على أو يضبط عدد الحلقات. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [InitializeFrom](../../aspose.psd.fileformats.psd.layers.animation/timeline/initializefrom/)(PsdImage) | إنشاء مثيل جديد لـ`TimeLine` ، مهيأ من الإدخال[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
-| [ApplyTo](../../aspose.psd.fileformats.psd.layers.animation/timeline/applyto/)(PsdImage) | تطبيق قيم الخط الزمني الحالية على الإدخال[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save)(Stream, ImageOptionsBase) | يحفظ بيانات PsdImage و Timeline إلى الدفق المحدد بالتنسيق المحدد وفقًا لخيارات الحفظ. |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save_1)(string, ImageOptionsBase) | يحفظ بيانات PsdImage و Timeline إلى موقع الملف المحدد بالتنسيق المحدد وفقًا لخيارات الحفظ. |
+| [SwitchActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/switchactiveframe/)(int) | يبدل الإطار النشط إلى المستهدف. |
 
-### أمثلة
+## أمثلة
 
-توفر فئة TimeLine قدرة عالية المستوى على معالجة الجدول الزمني لـ PsdImage ، مثل تغيير تأخير الإطار أو تحرير حالة الطبقة في إطار معين.
+تمنح الفئة Timeline قدرة عالية المستوى على تعديل المخطط الزمني لـ PsdImage، مثل تغيير تأخير الإطار أو تحرير حالة الطبقة في إطار محدد.
 
 ```csharp
 [C#]
@@ -50,40 +51,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
     // تغيير طريقة التخلص من الإطار 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
     // تغيير تأخير الإطار 2
-    timeLine.Frames[1].Delay = 15;
+    timeline.Frames[1].Delay = 15;
 
-    // تغيير عتامة "الطبقة 1" في الإطار 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // تغيير شفافية 'Layer 1' في الإطار 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // انقل "Layer 1" إلى الزاوية اليسرى السفلية في الإطار 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // نقل 'Layer 1' إلى الزاوية اليسرى السفلية في الإطار 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // يضيف إطارًا جديدًا
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // تغيير blendMode لـ 'Layer 1' في الإطار 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // تغيير blendMode للـ'Layer 1' في الإطار 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // تطبيق التغييرات مرة أخرى على مثيل PsdImage
-    timeLine.ApplyTo(psdImage);
+    // تطبيق التغييرات مرة أخرى على كائن PsdImage
     psdImage.Save(outputPsd);
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

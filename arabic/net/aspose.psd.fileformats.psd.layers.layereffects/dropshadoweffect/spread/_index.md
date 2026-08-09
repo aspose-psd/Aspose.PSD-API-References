@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.Spread
-second_title: Aspose.PSD لمرجع .NET API
-description: DropShadowEffect ملكية. الحصول على الكثافة أو تحديدها كنسبة مئوية .
+title: "DropShadowEffect.Spread"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DropShadowEffect. يحصل أو يضبط الشدة كنسبة مئوية"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Spread property
 
-الحصول على الكثافة أو تحديدها كنسبة مئوية .
+يحصل أو يضبط الشدة كنسبة مئوية.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-السبريد .
+الانتشار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DropShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

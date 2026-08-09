@@ -1,47 +1,49 @@
 ---
-title: Class VectorShapeOriginSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings فصل. إعدادات إنشاء شكل المتجه.
+title: "فئة VectorShapeOriginSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings فئة. إعدادات أصل الشكل المتجه"
 type: docs
-weight: 1440
+weight: 1450
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings class
 
-إعدادات إنشاء شكل المتجه.
+إعدادات أصل الشكل المتجه.
 
 ```csharp
 public sealed class VectorShapeOriginSettings
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | يقوم بتهيئة مثيل جديد لملف`VectorShapeOriginSettings` فئة . |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | يُنشئ مثيلاً جديداً من فئة `VectorShapeOriginSettings`. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor_1)(bool, int) | يُنشئ مثيلاً جديداً من فئة `VectorShapeOriginSettings`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على خاصية أركان مربع الأصل. |
-| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | الحصول على قيمة تشير إلى ما إذا كان هذا المثيل له خاصية فهرس الأصل. |
-| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل له خاصية مستطيل أصل نصف القطر. |
-| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل له خاصية دقة الأصل. |
-| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل له خاصية المستطيل. |
-| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | الحصول على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على خاصية نوع الأصل. |
-| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل غير صالح. |
-| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | الحصول على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على مجموعة خصائص غير صالحة للشكل. |
-| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على خاصية التحويل. |
-| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | الحصول على أو تعيين زوايا مربع الأصل. |
-| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | الحصول على فهرس شكل الأصل أو تعيينه. |
-| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | الحصول على أو تعيين مستطيل نصف قطر الأصل. |
-| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | الحصول على الدقة الأصلية أو تعيينها . |
-| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | الحصول على المربع المحيط بالشكل الأصلي أو تعيينه. |
-| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | الحصول على نوع الأصل أو تحديده. |
-| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | الحصول على مصفوفة التحويل أو تعيينها. |
+| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان لهذا المثيل خاصية زوايا صندوق الأصل. |
+| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمتلك خاصية فهرس الأصل. |
+| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمتلك خاصية مستطيل أقطار الأصل. |
+| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمتلك خاصية دقة الأصل. |
+| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمتلك خاصية المستطيل. |
+| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمتلك خاصية نوع الأصل. |
+| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان الشكل غير صالح. |
+| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن مجموعة خاصية إبطال الشكل. |
+| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمتلك خاصية التحويل. |
+| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | يحصل أو يضبط زوايا صندوق الأصل. |
+| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | يحصل أو يضبط فهرس شكل الأصل. |
+| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | يحصل أو يضبط مستطيل أقطار الأصل. |
+| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | يحصل أو يضبط دقة الأصل. |
+| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | يحصل أو يضبط صندوق حدود شكل الأصل. |
+| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | يحصل أو يضبط نوع الأصل. |
+| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | يحصل أو يضبط مصفوفة التحويل. |
 
-### أمثلة
+## أمثلة
 
 يوضح المثال التالي دعم مورد VogkResource.
 
@@ -86,7 +88,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // التحرير
+    // تحرير
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -97,9 +99,9 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

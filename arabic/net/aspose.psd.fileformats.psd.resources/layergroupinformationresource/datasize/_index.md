@@ -1,27 +1,28 @@
 ---
-title: LayerGroupInformationResource.DataSize
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerGroupInformationResource ملكية. الحصول على حجم بيانات المورد بالبايت.
+title: "LayerGroupInformationResource.DataSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerGroupInformationResource. تحصل على حجم بيانات المورد بالبايت"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource.DataSize property
 
-الحصول على حجم بيانات المورد بالبايت.
+يحصل على حجم بيانات المورد بالبايت.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم بيانات المورد .
+حجم بيانات المورد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerGroupInformationResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

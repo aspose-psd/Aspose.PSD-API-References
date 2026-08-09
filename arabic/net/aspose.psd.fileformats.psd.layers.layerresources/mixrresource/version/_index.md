@@ -1,27 +1,28 @@
 ---
-title: MixrResource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: MixrResource ملكية. الحصول على الإصدار أو تحديده.
+title: "MixrResource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MixrResource. تحصل أو تعيّن الإصدار"
 type: docs
-weight: 60
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/
 ---
+{{< psd/tize >}}
 ## MixrResource.Version property
 
-الحصول على الإصدار أو تحديده.
+يحصل أو يضبط الإصدار.
 
 ```csharp
 public short Version { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 الإصدار. القيمة الافتراضية هي 1
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MixrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

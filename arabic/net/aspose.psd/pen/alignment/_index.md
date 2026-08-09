@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على أو تعيين المحاذاة لهذا الغرضPen .
+title: "Pen.Alignment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيين المحاذاة لهذا Pen."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-الحصول على أو تعيين المحاذاة لهذا الغرض[`Pen`](../) .
+تحصل أو تعيين المحاذاة لهذا [`Pen`](../).
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`PenAlignment`](../../penalignment/) الذي يمثل التوافق لهذا[`Pen`](../).
+قيمة من [`PenAlignment`](../../penalignment/) التي تمثل المحاذاة لهذا [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`Alignment` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `Alignment` يتم تعيينها على [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

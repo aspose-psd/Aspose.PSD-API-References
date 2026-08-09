@@ -1,22 +1,23 @@
 ---
-title: AnimatedDataSectionStructure.Items
-second_title: Aspose.PSD لمرجع .NET API
-description: AnimatedDataSectionStructure ملكية. الحصول على أو تعيين هياكل قسم البيانات المتحركة.
+title: "AnimatedDataSectionStructure.Items"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "AnimatedDataSectionStructure خاصية. يحصل أو يضبط هياكل قسم البيانات المتحركة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Items property
 
-الحصول على أو تعيين هياكل قسم البيانات المتحركة.
+يحصل أو يضبط هياكل أقسام البيانات المتحركة.
 
 ```csharp
 public OSTypeStructure[] Items { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي كيفية تعيين / تحديث وقت التأخير في إطار المخطط الزمني للبيانات المتحركة.
+الكود التالي يوضح كيفية تعيين/تحديث وقت التأخير في إطار المخطط الزمني للبيانات المتحركة.
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // ينشئ سجل تأخير الإطار بقيمة 100 سنتي ثانية تساوي 1 ثانية.
+            // ينشئ سجل تأخير الإطار بقيمة 100 سنتي-ثانية وهو ما يعادل 1 ثانية.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // ضبط الوقت في سنتي ثانية.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -82,11 +83,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [AnimatedDataSectionStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IKeyedObject.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: IKeyedObject ملكية. يحصل على مفتاح الكائن .
+title: "IKeyedObject.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IKeyedObject. تحصل على مفتاح الكائن"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/ikeyedobject/key/
 ---
+{{< psd/tize >}}
 ## IKeyedObject.Key property
 
-يحصل على مفتاح الكائن .
+يحصل على مفتاح الكائن.
 
 ```csharp
 public string Key { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مفتاح الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IKeyedObject](../)
-* مساحة الاسم [Aspose.PSD](../../ikeyedobject/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

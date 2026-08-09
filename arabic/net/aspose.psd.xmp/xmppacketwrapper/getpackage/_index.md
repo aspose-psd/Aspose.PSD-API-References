@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPacketWrapper طريقة. يحصل على الحزمة حسب مساحة الاسم URI.
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPacketWrapper. تحصل على الحزمة حسب مساحة الاسم URI"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
 يحصل على الحزمة حسب مساحة الاسم URI.
@@ -14,25 +15,25 @@ url: /ar/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| namespaceUri | String | URI لمخطط الحزمة. |
+| namespaceUri | String | مسار URI لمخطط الحزمة. |
 
 ### قيمة الإرجاع
 
-إرجاع حزمة XMP لمساحة الاسم URI المحددة.
+يرجع حزمة XMP لمسار URI مساحة الاسم المحدد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | مساحة الاسم |
+| ArgumentNullException | namespaceUri |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

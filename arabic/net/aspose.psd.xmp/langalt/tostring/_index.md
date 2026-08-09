@@ -1,14 +1,15 @@
 ---
-title: LangAlt.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: LangAlt طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "LangAlt.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LangAlt. تُرجع سلسلة تمثل هذه الحالة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp/langalt/tostring/
 ---
+{{< psd/tize >}}
 ## LangAlt.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+إرجاع String تمثل هذا المثيل.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذا الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LangAlt](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../langalt/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

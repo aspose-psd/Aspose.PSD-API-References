@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSProcessingMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين سلسلة أحرف GPS لتسجيل اسم الطريقة المستخدمة في البحث عن الموقع.
+title: "ExifData.GPSProcessingMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط سلسلة الأحرف GPS التي تسجل اسم الطريقة المستخدمة لتحديد الموقع"
 type: docs
 weight: 580
 url: /ar/net/aspose.psd.exif/exifdata/gpsprocessingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSProcessingMethod property
 
-الحصول على أو تعيين سلسلة أحرف GPS لتسجيل اسم الطريقة المستخدمة في البحث عن الموقع.
+الحصول أو تعيين سلسلة الأحرف GPS التي تسجل اسم الطريقة المستخدمة لتحديد الموقع.
 
 ```csharp
 public byte[] GPSProcessingMethod { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-سلسلة أحرف GPS تسجل اسم الطريقة المستخدمة في البحث عن الموقع.
+سلسلة الأحرف GPS التي تسجل اسم الطريقة المستخدمة لتحديد الموقع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

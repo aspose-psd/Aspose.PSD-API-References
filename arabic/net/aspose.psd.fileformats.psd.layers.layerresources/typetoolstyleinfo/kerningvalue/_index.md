@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.KerningValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolStyleInfo ملكية. الحصول على قيمة تقنين الأحرف أو تعيينها .
+title: "TypeToolStyleInfo.KerningValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolStyleInfo. يحصل أو يضبط قيمة التباعد"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.KerningValue property
 
-الحصول على قيمة تقنين الأحرف أو تعيينها .
+يحصل أو يضبط قيمة الضبط بين الحروف.
 
 ```csharp
 public int KerningValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة تقنين الأحرف .
+قيمة التباعد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolStyleInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

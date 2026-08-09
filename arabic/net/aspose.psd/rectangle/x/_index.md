@@ -1,27 +1,28 @@
 ---
-title: Rectangle.X
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle ملكية. الحصول على أو تحديد إحداثيات x للركن الأيسر العلوي لهذاRectangleهيكل .
+title: "Rectangle.X"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rectangle. تحصل أو تعين إحداثي x للزاوية العلوية اليسرى لهذا هيكل Rectangle."
 type: docs
 weight: 200
 url: /ar/net/aspose.psd/rectangle/x/
 ---
+{{< psd/tize >}}
 ## Rectangle.X property
 
-الحصول على أو تحديد إحداثيات x للركن الأيسر العلوي لهذا[`Rectangle`](../)هيكل .
+تحصل أو تعين إحداثي x للزاوية العلوية اليسرى لهذا هيكل [`Rectangle`](../).
 
 ```csharp
 public int X { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإحداثي x للركن الأيسر العلوي لهذا[`Rectangle`](../) بناء.
+إحداثي x للزاوية العلوية اليسرى لهذا هيكل [`Rectangle`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

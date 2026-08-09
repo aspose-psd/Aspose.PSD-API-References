@@ -1,51 +1,52 @@
 ---
-title: Graphics.ScaleTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. مقياس التحويل الهندسي المحلي بالمقادير المحددة. تضيف هذه الطريقة مصفوفة القياس إلى التحويل.
+title: "Graphics.ScaleTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. تقوم بتكبير التحويل الهندسي المحلي بالمقادير المحددة. هذه الطريقة تضيف مصفوفة التكبير إلى التحويل في البداية."
 type: docs
-weight: 450
+weight: 460
 url: /ar/net/aspose.psd/graphics/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-مقياس التحويل الهندسي المحلي بالمقادير المحددة. تضيف هذه الطريقة مصفوفة القياس إلى التحويل.
+يقوم بتكبير التحويل الهندسي المحلي بالقيم المحددة. هذه الطريقة تلحق مصفوفة التكبير إلى التحويل.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sx | Single | المقدار الذي يتم من خلاله قياس التحويل في اتجاه المحور السيني. |
-| sy | Single | المقدار الذي يتم من خلاله قياس التحويل في اتجاه المحور ص. |
+| sx | Single | القيمة التي يتم بها تحجيم التحويل في اتجاه المحور x. |
+| sy | Single | القيمة التي يتم بها تحجيم التحويل في اتجاه المحور y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-قياس التحويل الهندسي المحلي بالمقادير المحددة بالترتيب المحدد.
+يقوم بتكبير التحويل الهندسي المحلي بالقيم المحددة بالترتيب المحدد.
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sx | Single | المقدار الذي يتم من خلاله قياس التحويل في اتجاه المحور السيني. |
-| sy | Single | المقدار الذي يتم من خلاله قياس التحويل في اتجاه المحور ص. |
-| order | MatrixOrder | أ[`MatrixOrder`](../../matrixorder/) التي تحدد ما إذا كان سيتم إلحاق أو اعتماد مصفوفة القياس. |
+| sx | Single | القيمة التي يتم بها تحجيم التحويل في اتجاه المحور x. |
+| sy | Single | القيمة التي يتم بها تحجيم التحويل في اتجاه المحور y. |
+| order | MatrixOrder | [`MatrixOrder`](../../matrixorder/) الذي يحدد ما إذا كان سيتم إلحاق أو إلحاق مسبق لمصفوفة التكبير. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

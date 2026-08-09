@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructure.GetHeaderLength
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructure طريقة. الحصول على طول الرأس .
+title: "OSTypeStructure.GetHeaderLength"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة OSTypeStructure. تحصل على طول الرأس"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.GetHeaderLength method
 
-الحصول على طول الرأس .
+يحصل على طول الرأس.
 
 ```csharp
 public virtual int GetHeaderLength()
@@ -18,10 +19,10 @@ public virtual int GetHeaderLength()
 
 طول الرأس
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

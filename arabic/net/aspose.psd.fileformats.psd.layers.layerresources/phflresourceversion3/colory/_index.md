@@ -1,27 +1,28 @@
 ---
-title: PhflResourceVersion3.ColorY
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResourceVersion3 ملكية. الحصول على أو تعيين اللون Y.
+title: "PhflResourceVersion3.ColorY"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhflResourceVersion3 خاصية. يسترجع أو يضبط لون Y"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colory/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorY property
 
-الحصول على أو تعيين اللون Y.
+يحصل أو يضبط اللون Y.
 
 ```csharp
 public float ColorY { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اللون Y.
+لون Y.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResourceVersion3](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

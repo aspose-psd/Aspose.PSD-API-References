@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensMake
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو ضبط صانع العدسة.
+title: "ExifData.LensMake"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط صانع العدسة"
 type: docs
 weight: 730
 url: /ar/net/aspose.psd.exif/exifdata/lensmake/
 ---
+{{< psd/tize >}}
 ## ExifData.LensMake property
 
-الحصول على أو ضبط صانع العدسة.
+يحصل أو يعيّن صانع العدسة.
 
 ```csharp
 public string LensMake { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-صانع العدسة .
+صانع العدسة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

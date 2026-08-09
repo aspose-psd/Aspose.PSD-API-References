@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: DropShadowEffect ملكية. الحصول على التعتيم أو تعيينه .
+title: "DropShadowEffect.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DropShadowEffect. تحصل أو تعين الشفافية"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Opacity property
 
-الحصول على التعتيم أو تعيينه .
+يحصل أو يعيّن الشفافية.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التعتيم .
+الشفافية.
 
-### أمثلة
+## أمثلة
 
-توضح التعليمة البرمجية التالية استخدام خاصية Opacity لـ DropShadowEffect.
+يوضح الشيفرة التالية استخدام الخاصية Opacity في DropShadowEffect.
 
 ```csharp
 [C#]
@@ -37,20 +38,20 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // مثال مع التعتيم = 20
+    // مثال مع Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // مثال مع التعتيم = 200
+    // مثال مع Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DropShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GaussianBlurFilterOptions.Sigma
-second_title: Aspose.PSD لمرجع .NET API
-description: GaussianBlurFilterOptions ملكية. الحصول على أو تعيين سيجما .
+title: "GaussianBlurFilterOptions.Sigma"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GaussianBlurFilterOptions. تحصل أو تعيين سيغما"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Sigma property
 
-الحصول على أو تعيين سيجما .
+يحصل أو يعيّن سيغما.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-سيجما .
+سيغما.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GaussianBlurFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

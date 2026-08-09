@@ -1,30 +1,31 @@
 ---
-title: Class ImageCreateException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.ImageCreateException فصل. إنشاء استثناء للصورة. يحدث أثناء إنشاء الصورة.
+title: "الفئة ImageCreateException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.CoreExceptions.ImageCreateException. استثناء إنشاء الصورة. يحدث أثناء إنشاء الصورة."
 type: docs
 weight: 490
 url: /ar/net/aspose.psd.coreexceptions/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException class
 
-إنشاء استثناء للصورة. يحدث أثناء إنشاء الصورة.
+استثناء إنشاء الصورة. يحدث أثناء إنشاء الصورة.
 
 ```csharp
 public class ImageCreateException : ImageException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageCreateException](imagecreateexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`ImageCreateException` فئة . |
-| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`ImageCreateException` فئة . |
+| [ImageCreateException](imagecreateexception/#constructor)(string) | ينشئ مثالا جديدا من الفئة `ImageCreateException`. |
+| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | ينشئ مثالا جديدا من الفئة `ImageCreateException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageException](../imageexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

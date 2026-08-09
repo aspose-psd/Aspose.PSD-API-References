@@ -1,28 +1,29 @@
 ---
-title: SolidBrush.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: SolidBrush ملكية. الحصول على لون الفرشاة أو تعيينه .
+title: "SolidBrush.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SolidBrush. يحصل أو يعيّن لون الفرشاة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.brushes/solidbrush/color/
 ---
+{{< psd/tize >}}
 ## SolidBrush.Color property
 
-الحصول على لون الفرشاة أو تعيينه .
+يحصل أو يضبط لون الفرشاة.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 لون الفرشاة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../solidbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

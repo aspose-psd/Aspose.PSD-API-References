@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Font
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات تمثل البنية التي تحتوي على خصائص الخط المستخدم في المستند.
+title: "Aspose.PSD.Xmp.Types.Complex.Font"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على فئات تمثل البنية التي تحتوي على خصائص الخط المستخدم في مستند"
 type: docs
-weight: 650
+weight: 690
 url: /ar/net/aspose.psd.xmp.types.complex.font/
 ---
-تحتوي مساحة الاسم على فئات تمثل البنية التي تحتوي على خصائص الخط المستخدم في المستند.
+{{< psd/tize >}}
+النطاق يحتوي على فئات تمثل الهيكل الذي يحتوي على خصائص خط يُستخدم في مستند.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [Font](./font/) | يمثل خط XMP . |
+| [Font](./font/) | يمثل خط XMP. |
 
 

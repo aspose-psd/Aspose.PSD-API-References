@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.Angle
-second_title: Aspose.PSD لمرجع .NET API
-description: LinearGradientBrushBase ملكية. الحصول على زاوية التدرج أو تعيينها .
+title: "LinearGradientBrushBase.Angle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinearGradientBrushBase. يحصل أو يضبط زاوية التدرج"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.brushes/lineargradientbrushbase/angle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Angle property
 
-الحصول على زاوية التدرج أو تعيينها .
+يحصل أو يعيّن زاوية التدرج.
 
 ```csharp
 public float Angle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-زاوية الانحدار.
+زاوية التدرج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinearGradientBrushBase](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

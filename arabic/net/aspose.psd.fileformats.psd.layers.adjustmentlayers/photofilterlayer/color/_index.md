@@ -1,28 +1,29 @@
 ---
-title: PhotoFilterLayer.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoFilterLayer ملكية. الحصول على أو تحديد لون RGB للمرشح.
+title: "PhotoFilterLayer.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PhotoFilterLayer. يحصل أو يضبط اللون RGB للفلتر"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/color/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Color property
 
-الحصول على أو تحديد لون RGB للمرشح.
+الحصول أو تعيين لون RGB للمرشح.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اللون .
+اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhotoFilterLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

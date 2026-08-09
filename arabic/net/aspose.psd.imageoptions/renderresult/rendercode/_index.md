@@ -1,24 +1,25 @@
 ---
-title: RenderResult.RenderCode
-second_title: Aspose.PSD لمرجع .NET API
-description: RenderResult ملكية. الحصول على أو تعيين رمز الخطأ
+title: "RenderResult.RenderCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RenderResult. يحصل أو يضبط رمز الخطأ"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imageoptions/renderresult/rendercode/
 ---
+{{< psd/tize >}}
 ## RenderResult.RenderCode property
 
-الحصول على أو تعيين رمز الخطأ
+يحصل أو يضبط رمز الخطأ
 
 ```csharp
 public RenderErrorCode RenderCode { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [RenderErrorCode](../../rendererrorcode/)
 * class [RenderResult](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../renderresult/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

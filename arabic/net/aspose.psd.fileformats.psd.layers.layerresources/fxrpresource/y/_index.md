@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.Y
-second_title: Aspose.PSD لمرجع .NET API
-description: FxrpResource ملكية. الحصول على أو تحديد y للنقطة المرجعية
+title: "FxrpResource.Y"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FxrpResource. تحصل أو تعين y لنقطة الإسناد"
 type: docs
-weight: 70
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Y property
 
-الحصول على أو تحديد y للنقطة المرجعية
+يحصل أو يضبط قيمة y لنقطة المرجع
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-y للنقطة المرجعية
+قيمة y لنقطة الإسناد
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FxrpResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

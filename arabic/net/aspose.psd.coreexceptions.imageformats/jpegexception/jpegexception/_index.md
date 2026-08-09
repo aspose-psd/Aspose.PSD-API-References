@@ -1,48 +1,49 @@
 ---
-title: JpegException.JpegException
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegException البناء. يقوم بتهيئة مثيل جديد لملفJpegException فئة .
+title: "JpegException.JpegException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ JpegException. يهيئ نسخة جديدة من الفئة JpegException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.imageformats/jpegexception/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`JpegException`](../).
 
 ```csharp
 public JpegException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`JpegException`](../).
 
 ```csharp
 public JpegException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

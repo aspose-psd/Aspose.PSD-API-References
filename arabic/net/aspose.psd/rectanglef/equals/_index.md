@@ -1,31 +1,32 @@
 ---
-title: RectangleF.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. اختبارات سواءobj هوRectangleF بنفس موقع وحجم هذاRectangleF .
+title: "RectangleF.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تختبر ما إذا كان obj هو RectangleF بنفس الموقع والحجم لهذا RectangleF"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd/rectanglef/equals/
 ---
+{{< psd/tize >}}
 ## RectangleF.Equals method
 
-اختبارات سواء*obj* هو[`RectangleF`](../) بنفس موقع وحجم هذا[`RectangleF`](../) .
+تختبر ما إذا كان *obj* هو [`RectangleF`](../) بنفس الموقع والحجم لهذا [`RectangleF`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject لاختبار. |
+| obj | Object | الكائن للاختبار. |
 
 ### قيمة الإرجاع
 
-هذا الأسلوب يعود صحيحا إذا*obj* هو[`RectangleF`](../) وخصائصه X و Y و Width و Height تساوي الخصائص المقابلة لهذا[`RectangleF`](../)؛ خلاف ذلك ، خطأ.
+ترجع هذه الطريقة true إذا كان *obj* هو [`RectangleF`](../) وكانت خصائصه X و Y و Width و Height مساوية للخصائص المقابلة لهذا [`RectangleF`](../)؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

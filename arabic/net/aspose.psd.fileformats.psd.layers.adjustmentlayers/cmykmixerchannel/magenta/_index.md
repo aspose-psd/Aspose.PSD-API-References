@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Magenta
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykMixerChannel ملكية. الحصول على اللون الأرجواني أو تعيينه .
+title: "CmykMixerChannel.Magenta"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CmykMixerChannel. يحصل أو يضبط الماجنتا"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Magenta property
 
-الحصول على اللون الأرجواني أو تعيينه .
+يحصل أو يضبط اللون الأرجواني.
 
 ```csharp
 public short Magenta { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-البنفسجي .
+الماجنتا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CmykMixerChannel](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

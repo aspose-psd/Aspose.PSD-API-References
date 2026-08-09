@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.ReaderName
-second_title: Aspose.PSD لمرجع .NET API
-description: VersionInfoResource ملكية. الحصول على أو تحديد اسم القارئ .
+title: "VersionInfoResource.ReaderName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VersionInfoResource. يحصل أو يضبط اسم القارئ"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.resources/versioninforesource/readername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.ReaderName property
 
-الحصول على أو تحديد اسم القارئ .
+يحصل أو يعيّن اسم القارئ.
 
 ```csharp
 public string ReaderName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم القارئ .
+اسم القارئ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VersionInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

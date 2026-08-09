@@ -1,27 +1,28 @@
 ---
-title: IopaResource.FillOpacity
-second_title: Aspose.PSD لمرجع .NET API
-description: IopaResource ملكية. الحصول على أو تعيين تعتيم التعبئة.
+title: "IopaResource.FillOpacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IopaResource. تحصل أو تعيين شفافية التعبئة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
-الحصول على أو تعيين تعتيم التعبئة.
+يحصل أو يعيّن شفافية التعبئة.
 
 ```csharp
 public byte FillOpacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تعتيم التعبئة .
+شفافية التعبئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IopaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

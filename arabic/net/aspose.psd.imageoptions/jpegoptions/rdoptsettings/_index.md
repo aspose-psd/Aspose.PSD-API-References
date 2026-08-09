@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegOptions ملكية. الحصول على أو تعيين إعدادات مُحسِّن RD.
+title: "JpegOptions.RdOptSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegOptions. يحصل أو يضبط إعدادات محسن RD"
 type: docs
-weight: 150
+weight: 160
 url: /ar/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
-الحصول على أو تعيين إعدادات مُحسِّن RD.
+يحصل أو يضبط إعدادات مُحسّن RD.
 
 ```csharp
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إعدادات محسن RD .
+إعدادات محسن RD.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

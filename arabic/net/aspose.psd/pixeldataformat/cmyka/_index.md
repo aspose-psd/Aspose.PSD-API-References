@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.Cmyka
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. يحصل على acmyk.
+title: "PixelDataFormat.Cmyka"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. تحصل على acmyk"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/pixeldataformat/cmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyka property
 
 يحصل على acmyk.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd/pixeldataformat/cmyka/
 public static PixelDataFormat Cmyka { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`PixelDataFormat`](../) محددة لـ 40 بت لكل بكسل مع 8 بت لكل من ألفا وسماوي وأرجواني وأصفر وأسود.
+الـ[`PixelDataFormat`](../) المعرفة لـ40 بت لكل بكسل مع 8 بت لكل من ألفا، السماوي، الأرجواني، الأصفر، والأسود.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

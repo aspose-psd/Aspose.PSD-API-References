@@ -1,28 +1,29 @@
 ---
-title: Graphics.Graphics
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics البناء. يقوم بتهيئة مثيل جديد لملفGraphics فئة .
+title: "Graphics.Graphics"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Graphics. يهيئ مثالًا جديدًا من فئة Graphics"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/graphics/graphics/
 ---
+{{< psd/tize >}}
 ## Graphics constructor
 
-يقوم بتهيئة مثيل جديد لملف[`Graphics`](../) فئة .
+يهيئ مثالًا جديدًا من فئة [`Graphics`](../).
 
 ```csharp
 public Graphics(Image sourceImage)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | مصدر الصورة. |
+| sourceImage | صورة | صورة المصدر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

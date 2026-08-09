@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.PlanarConfiguration
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على التكوين المستوي أو تعيينه.
+title: "JpegExifData.PlanarConfiguration"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين التكوين المستوي"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.exif/jpegexifdata/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PlanarConfiguration property
 
-الحصول على التكوين المستوي أو تعيينه.
+يحصل أو يعيّن تكوين المستوى.
 
 ```csharp
 public ushort PlanarConfiguration { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التكوين المستوي .
+التكوين المستوي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

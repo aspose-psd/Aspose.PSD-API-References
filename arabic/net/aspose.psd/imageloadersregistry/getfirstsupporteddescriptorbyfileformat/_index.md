@@ -1,37 +1,38 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageLoadersRegistry طريقة. يحصل على أول تنسيق ملف مدعوم حسب نوعه.
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageLoadersRegistry. يحصل على أول تنسيق ملف مدعوم حسب اسم النوع الخاص به"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat method
 
-يحصل على أول تنسيق ملف مدعوم حسب نوعه.
+يحصل على أول صيغة ملف مدعومة حسب اسم النوع.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByFileFormat(FileFormat fileFormat)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| fileFormat | FileFormat | تنسيق ملف الواصف المدعوم. |
+| fileFormat | FileFormat | تنسيق ملف الوصف المدعوم. |
 
 ### قيمة الإرجاع
 
-تم العثور على أول واصف محمل أو لاغٍ إذا لم يتم العثور على هذا الواصف.
+الوصف الأول للتحميل الموجود أو null إذا لم يتم العثور على مثل هذا الوصف.
 
-### ملاحظات
+## ملاحظات
 
-سيكون واصف المحمل الأول هو آخر واصف تم تسجيله.
+وصف التحميل الأول سيكون في الواقع الأخير المسجل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageloadersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

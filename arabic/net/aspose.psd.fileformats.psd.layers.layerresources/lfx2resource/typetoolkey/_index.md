@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: Lfx2Resource مجال. مفتاح معلومات أداة النوع.
+title: "Lfx2Resource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Lfx2Resource. مفتاح معلومات أداة النوع"
 type: docs
-weight: 80
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Lfx2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

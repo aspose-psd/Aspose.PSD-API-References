@@ -1,11 +1,12 @@
 ---
-title: AdjustmentLayerResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: AdjustmentLayerResource ملكية. يحصل على التوقيع.
+title: "AdjustmentLayerResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AdjustmentLayerResource. يحصل على التوقيع"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayerResource.Signature property
 
 يحصل على التوقيع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerres
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AdjustmentLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../adjustmentlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

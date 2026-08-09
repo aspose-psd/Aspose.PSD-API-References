@@ -1,27 +1,28 @@
 ---
-title: LayerStateEffects.RemoveEffectAt
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerStateEffects طريقة. يزيل تأثير الطبقة في الفهرس المحدد.
+title: "LayerStateEffects.RemoveEffectAt"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LayerStateEffects. تزيل تأثير الطبقة عند الفهرس المحدد"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/removeeffectat/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.RemoveEffectAt method
 
-يزيل تأثير الطبقة في الفهرس المحدد.
+يزيل تأثير الطبقة عند الفهرس المحدد.
 
 ```csharp
 public void RemoveEffectAt(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | مؤشر تأثير الطبقة. |
+| فهرس | Int32 | فهرس تأثير الطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerStateEffects](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

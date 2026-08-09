@@ -1,32 +1,33 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions طريقة. يزيل العلامة .
+title: "TiffOptions.RemoveTag"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions طريقة. يزيل العلامة"
 type: docs
-weight: 740
+weight: 750
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
-يزيل العلامة .
+يزيل العلامة.
 
 ```csharp
 public bool RemoveTag(TiffTags tag)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tag | TiffTags | العلامة المطلوب إزالتها . |
+| علامة | TiffTags | العلامة لإزالتها. |
 
 ### قيمة الإرجاع
 
-صحيح إذا تمت إزالته بنجاح
+صحيح إذا تم الإزالة بنجاح
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

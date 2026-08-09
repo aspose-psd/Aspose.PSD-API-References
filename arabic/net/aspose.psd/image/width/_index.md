@@ -1,27 +1,28 @@
 ---
-title: Image.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: Image ملكية. الحصول على عرض الصورة .
+title: "Image.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Image. تحصل على عرض الصورة"
 type: docs
-weight: 150
+weight: 160
 url: /ar/net/aspose.psd/image/width/
 ---
+{{< psd/tize >}}
 ## Image.Width property
 
-الحصول على عرض الصورة .
+يحصل على عرض الصورة.
 
 ```csharp
 public abstract int Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
 عرض الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

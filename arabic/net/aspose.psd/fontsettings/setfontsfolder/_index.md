@@ -1,27 +1,28 @@
 ---
-title: FontSettings.SetFontsFolder
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings طريقة. هذا اختصار لـSetFontsFolders لتعيين دليل خطوط واحد فقط. لم يتم إجراء عمليات تدقيق على مجلد الخطوط.
+title: "FontSettings.SetFontsFolder"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FontSettings. هذا اختصار إلى SetFontsFolders لتعيين دليل خط واحد فقط. لا يتم إجراء أي فحص على مجلد الخطوط"
 type: docs
-weight: 120
+weight: 140
 url: /ar/net/aspose.psd/fontsettings/setfontsfolder/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolder method
 
-هذا اختصار لـ[`SetFontsFolders`](../setfontsfolders/) لتعيين دليل خطوط واحد فقط. لم يتم إجراء عمليات تدقيق على مجلد الخطوط.
+هذا اختصار إلى [`SetFontsFolders`](../setfontsfolders/) لتعيين دليل خط واحد فقط. لا يتم إجراء أي فحص على مجلد الخطوط.
 
 ```csharp
 public static void SetFontsFolder(string fontFolder)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| fontFolder | String | مجلد الخط. |
+| fontFolder | String | مجلد الخطوط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

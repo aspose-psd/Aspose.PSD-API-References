@@ -1,29 +1,30 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IPartialRawDataLoader واجهه المستخدم. أداة تحميل البيانات الجزئية .
+title: "الواجهة IPartialRawDataLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IPartialRawDataLoader. محمل البيانات الجزئي"
 type: docs
-weight: 4540
+weight: 5010
 url: /ar/net/aspose.psd/ipartialrawdataloader/
 ---
+{{< psd/tize >}}
 ## IPartialRawDataLoader interface
 
-أداة تحميل البيانات الجزئية .
+محمل البيانات الجزئية.
 
 ```csharp
 public interface IPartialRawDataLoader
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | يعالج البيانات المحملة . |
-| [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | يعالج البيانات المحملة . |
+| [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | يعالج البيانات المحمّلة. |
+| [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | يعالج البيانات المحمّلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

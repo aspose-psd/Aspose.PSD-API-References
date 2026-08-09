@@ -1,48 +1,49 @@
 ---
-title: Jpeg2000Exception.Jpeg2000Exception
-second_title: Aspose.PSD لمرجع .NET API
-description: Jpeg2000Exception البناء. يقوم بتهيئة مثيل جديد لملفJpeg2000Exception فئة .
+title: "Jpeg2000Exception.Jpeg2000Exception"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Jpeg2000Exception. يهيئ نسخة جديدة من الفئة Jpeg2000Exception"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.imageformats/jpeg2000exception/jpeg2000exception/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Exception(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Jpeg2000Exception`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Jpeg2000Exception`](../).
 
 ```csharp
 public Jpeg2000Exception(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Jpeg2000Exception](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../jpeg2000exception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Jpeg2000Exception(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Jpeg2000Exception`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Jpeg2000Exception`](../).
 
 ```csharp
 public Jpeg2000Exception(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Jpeg2000Exception](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../jpeg2000exception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

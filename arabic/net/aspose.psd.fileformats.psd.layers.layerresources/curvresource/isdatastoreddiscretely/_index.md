@@ -1,27 +1,28 @@
 ---
-title: CurvResource.IsDataStoredDiscretely
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل عبارة عن بيانات مخزنة بشكل منفصل.
+title: "CurvResource.IsDataStoredDiscretely"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CurvResource. يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا الكائن يخزن البيانات بشكل منفصل"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
+{{< psd/tize >}}
 ## CurvResource.IsDataStoredDiscretely property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل عبارة عن بيانات مخزنة بشكل منفصل.
+يحصل على أو يضبط قيمة تشير إلى ما إذا كانت هذه المثيلة تخزن البيانات بشكل منفصل.
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثيل عبارة عن بيانات مخزنة منفصلة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن يخزن البيانات بشكل منفصل؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

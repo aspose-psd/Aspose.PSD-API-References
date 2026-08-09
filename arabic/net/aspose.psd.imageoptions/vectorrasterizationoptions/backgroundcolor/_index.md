@@ -1,24 +1,25 @@
 ---
-title: VectorRasterizationOptions.BackgroundColor
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorRasterizationOptions ملكية. الحصول على لون الخلفية أو تعيينه .
+title: "VectorRasterizationOptions.BackgroundColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorRasterizationOptions. يحصل أو يضبط لون الخلفية"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/vectorrasterizationoptions/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BackgroundColor property
 
-الحصول على لون الخلفية أو تعيينه .
+يحصل أو يعيّن لون الخلفية.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

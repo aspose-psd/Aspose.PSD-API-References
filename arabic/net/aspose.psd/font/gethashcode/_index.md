@@ -1,14 +1,15 @@
 ---
-title: Font.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: Font طريقة. يحصل على كود التجزئة لهذاFont .
+title: "Font.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Font. يحصل على رمز التجزئة لهذا Font"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/font/gethashcode/
 ---
+{{< psd/tize >}}
 ## Font.GetHashCode method
 
-يحصل على كود التجزئة لهذا[`Font`](../) .
+يحصل على رمز التجزئة لهذا [`Font`](../).
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز التجزئة لهذا[`Font`](../).
+رمز التجزئة لهذا [`Font`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

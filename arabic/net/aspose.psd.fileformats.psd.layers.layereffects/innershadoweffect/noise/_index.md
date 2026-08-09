@@ -1,33 +1,34 @@
 ---
-title: InnerShadowEffect.Noise
-second_title: Aspose.PSD لمرجع .NET API
-description: InnerShadowEffect ملكية. الحصول على الضوضاء أو ضبطها .
+title: "InnerShadowEffect.Noise"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية InnerShadowEffect. يحصل أو يضبط الضوضاء"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Noise property
 
-الحصول على الضوضاء أو ضبطها .
+يحصل أو يضبط الضوضاء.
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الضوضاء .
+الضوضاء.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب تحديد الضوضاء كنسبة مئوية في النطاق من 0 إلى 100 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InnerShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: GraphicsPath.Reset
-second_title: Aspose.PSD لمرجع .NET API
-description: GraphicsPath طريقة. يفرغ مسار الرسومات ويعين ملفFillMode لAlternate .
+title: "GraphicsPath.Reset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة GraphicsPath. تُفرغ مسار الرسومات وتضبط FillMode إلى Alternate."
 type: docs
 weight: 150
 url: /ar/net/aspose.psd/graphicspath/reset/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reset method
 
-يفرغ مسار الرسومات ويعين ملف[`FillMode`](../../fillmode/) لAlternate .
+تُفرغ مسار الرسومات وتضبط [`FillMode`](../../fillmode/) إلى Alternate.
 
 ```csharp
 public void Reset()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../)
-* مساحة الاسم [Aspose.PSD](../../graphicspath/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: XmpElementBase.GetAttribute
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpElementBase طريقة. يحصل على السمة .
+title: "XmpElementBase.GetAttribute"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpElementBase. يحصل على السمة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp/xmpelementbase/getattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.GetAttribute method
 
-يحصل على السمة .
+يحصل على السمة.
 
 ```csharp
 public virtual string GetAttribute(string attribute)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| attribute | String | السمة. |
+| السمة | String | السمة. |
 
 ### قيمة الإرجاع
 
-ترجع السمة لاسم السمة المحدد.
+يرجع السمة للاسم المحدد للخاصية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpElementBase](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpelementbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

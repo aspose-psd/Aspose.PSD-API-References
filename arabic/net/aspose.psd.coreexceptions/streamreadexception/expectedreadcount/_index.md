@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ExpectedReadCount
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamReadException ملكية. الحصول على عدد وحدات بايت القراءة المتوقعة .
+title: "StreamReadException.ExpectedReadCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StreamReadException. تحصل على عدد البايتات المقروءة المتوقع"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.coreexceptions/streamreadexception/expectedreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ExpectedReadCount property
 
-الحصول على عدد وحدات بايت القراءة المتوقعة .
+يحصل على عدد البايتات المقروءة المتوقعة.
 
 ```csharp
 public int ExpectedReadCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد وحدات بايت القراءة المتوقعة .
+عدد البايتات المقروءة المتوقع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamReadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

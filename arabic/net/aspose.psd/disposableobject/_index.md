@@ -1,40 +1,41 @@
 ---
-title: Class DisposableObject
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.DisposableObject فصل. يمثل كائنًا يمكن التخلص منه .
+title: "الفئة DisposableObject"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.DisposableObject. تمثل كائنًا قابلًا للتصرف."
 type: docs
-weight: 750
+weight: 760
 url: /ar/net/aspose.psd/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject class
 
-يمثل كائنًا يمكن التخلص منه .
+يمثل كائنًا قابلًا للتصرف.
 
 ```csharp
 public class DisposableObject : IDisposable
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DisposableObject](disposableobject/)() | Default_Constructor |
+| [DisposableObject](disposableobject/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل قد تم التخلص منه. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن قد تم التخلص منه. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | التخلص من المثيل الحالي. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | يتخلص من المثيل الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

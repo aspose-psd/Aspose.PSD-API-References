@@ -1,28 +1,29 @@
 ---
-title: IObjectWithBounds.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: IObjectWithBounds ملكية. الحصول على حجم الكائن .
+title: "IObjectWithBounds.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IObjectWithBounds. يحصل على حجم الكائن"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/iobjectwithbounds/size/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Size property
 
-الحصول على حجم الكائن .
+يحصل على حجم الكائن.
 
 ```csharp
 public Size Size { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حجم الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* مساحة الاسم [Aspose.PSD](../../iobjectwithbounds/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.SceneCaptureType
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على نوع التقاط المشهد أو تعيينه.
+title: "ExifData.SceneCaptureType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط نوع التقاط المشهد"
 type: docs
 weight: 900
 url: /ar/net/aspose.psd.exif/exifdata/scenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneCaptureType property
 
-الحصول على نوع التقاط المشهد أو تعيينه.
+يحصل أو يعيّن نوع التقاط المشهد.
 
 ```csharp
 public ExifSceneCaptureType SceneCaptureType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع التقاط المشهد .
+نوع التقاط المشهد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifSceneCaptureType](../../../aspose.psd.exif.enums/exifscenecapturetype/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

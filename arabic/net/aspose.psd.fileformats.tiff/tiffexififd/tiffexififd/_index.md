@@ -1,47 +1,48 @@
 ---
-title: TiffExifIfd.TiffExifIfd
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffExifIfd البناء. يقوم بتهيئة مثيل جديد لملفTiffExifIfd فئة .
+title: "TiffExifIfd.TiffExifIfd"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TiffExifIfd. يهيئ مثيلة جديدة من الفئة TiffExifIfd"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.tiff/tiffexififd/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffExifIfd`](../) فئة .
+يهيئ مثيلة جديدة من الفئة [`TiffExifIfd`](../).
 
 ```csharp
 public TiffExifIfd()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffExifIfd](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffExifIfd(uint) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffExifIfd`](../) فئة .
+يهيئ مثيلة جديدة من الفئة [`TiffExifIfd`](../).
 
 ```csharp
 public TiffExifIfd(uint ifdOffset)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | ifdOffset | UInt32 | مؤشر إلى Exif IFD. |
 
-### ملاحظات
+## ملاحظات
 
-قابلية التشغيل البيني ، يحتوي Exif IFD على نفس هيكل IFD المحدد في TIFF. عادة ، ومع ذلك ، فإنه لا يحتوي على بيانات الصورة كما في حالة TIFF.
+التشغيل البيني، يحتوي Exif IFD على نفس بنية IFD المحددة في TIFF. عادةً، لا يحتوي على بيانات صورة كما هو الحال في TIFF.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffExifIfd](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

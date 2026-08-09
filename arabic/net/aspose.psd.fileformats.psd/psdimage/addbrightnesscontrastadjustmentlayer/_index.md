@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddBrightnessContrastAdjustmentLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة ضبط السطوع / التباين.
+title: "PsdImage.AddBrightnessContrastAdjustmentLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. يضيف طبقة تعديل السطوع/التباين"
 type: docs
-weight: 300
+weight: 310
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
-يضيف طبقة ضبط السطوع / التباين.
+يضيف طبقة تعديل السطوع/التباين.
 
 ```csharp
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brightness | Int32 | السطوع. |
-| contrast | Int32 | الإختلاف. |
+| السطوع | Int32 | السطوع. |
+| التباين | Int32 | التباين. |
 
 ### قيمة الإرجاع
 
-تم إنشاء طبقة سطوع / تباين
+تم إنشاء طبقة السطوع/التباين
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BrightnessContrastLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

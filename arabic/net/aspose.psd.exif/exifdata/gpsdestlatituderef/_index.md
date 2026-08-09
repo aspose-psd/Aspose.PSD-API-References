@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestLatitudeRef
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين قيمة GPS التي تشير إلى ما إذا كان خط عرض نقطة الوجهة هو خط العرض الشمالي أو الجنوبي.
+title: "ExifData.GPSDestLatitudeRef"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين قيمة GPS التي تشير إلى ما إذا كان خط عرض نقطة الوجهة شمالًا أم جنوبًا"
 type: docs
 weight: 450
 url: /ar/net/aspose.psd.exif/exifdata/gpsdestlatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitudeRef property
 
-الحصول على أو تعيين قيمة GPS التي تشير إلى ما إذا كان خط عرض نقطة الوجهة هو خط العرض الشمالي أو الجنوبي.
+الحصول أو تعيين قيمة GPS التي تشير ما إذا كان خط عرض نقطة الوجهة شماليًا أم جنوبيًا.
 
 ```csharp
 public string GPSDestLatitudeRef { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة GPS التي تشير إلى ما إذا كان خط العرض لنقطة الوجهة هو خط العرض الشمالي أو الجنوبي.
+قيمة GPS التي تشير إلى ما إذا كان خط عرض نقطة الوجهة شمالًا أم جنوبًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

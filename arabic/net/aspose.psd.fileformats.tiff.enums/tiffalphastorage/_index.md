@@ -1,30 +1,31 @@
 ---
-title: Enum TiffAlphaStorage
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffAlphaStorage تعداد. يحدد تخزين ألفا لمستندات tiff .
+title: "Enum TiffAlphaStorage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffAlphaStorage enum. يحدد تخزين ألفا لمستندات TIFF"
 type: docs
-weight: 4030
+weight: 4500
 url: /ar/net/aspose.psd.fileformats.tiff.enums/tiffalphastorage/
 ---
+{{< psd/tize >}}
 ## TiffAlphaStorage enumeration
 
-يحدد تخزين ألفا لمستندات tiff .
+يحدد تخزين ألفا لمستندات tiff.
 
 ```csharp
 public enum TiffAlphaStorage : ushort
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Unspecified | `0` | لم يتم تحديد ألفا وتخزينه في ملف tiff. |
-| Associated | `1` | يتم تخزين قيمة ألفا في شكل مضاعف. عند استعادة alpha قد تكون هناك بعض تأثيرات التقريب وقد تختلف القيمة المستعادة عن الأصل. |
-| Unassociated | `2` | يتم تخزين قيمة ألفا في شكل غير مرتبط. هذا يعني أن alpha المستعادة هي نفسها تمامًا كما تم تخزينها في tiff. |
+| Unspecified | `0` | ألفا غير محدد ومخزن في ملف TIFF. |
+| Associated | `1` | قيمة ألفا مخزنة بصيغة مسبقة الضرب. عند استعادة ألفا قد تحدث بعض تأثيرات التقريب وقد تكون القيمة المستعادة مختلفة عن الأصلية. |
+| Unassociated | `2` | قيمة ألفا مخزنة بصيغة غير مرتبطة. هذا يعني أن ألفا المستعادة هي نفسها تمامًا كما تم تخزينها في ملف TIFF. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

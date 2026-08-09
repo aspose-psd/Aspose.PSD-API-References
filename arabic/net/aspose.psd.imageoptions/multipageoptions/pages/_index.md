@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.Pages
-second_title: Aspose.PSD لمرجع .NET API
-description: MultiPageOptions ملكية. الحصول على الصفحات أو تعيينها .
+title: "MultiPageOptions.Pages"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MultiPageOptions. تحصل أو تعين الصفحات"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.imageoptions/multipageoptions/pages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Pages property
 
-الحصول على الصفحات أو تعيينها .
+يحصل أو يعيّن الصفحات.
 
 ```csharp
 public int[] Pages { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 الصفحات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiPageOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

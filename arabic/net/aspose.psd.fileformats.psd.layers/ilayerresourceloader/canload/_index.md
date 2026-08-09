@@ -1,33 +1,34 @@
 ---
-title: ILayerResourceLoader.CanLoad
-second_title: Aspose.PSD لمرجع .NET API
-description: ILayerResourceLoader طريقة. لتحديد ما إذا كان يمكن تحميل مورد الطبقة من المحددStreamContainer .
+title: "ILayerResourceLoader.CanLoad"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ILayerResourceLoader. تحدد ما إذا كان يمكن تحميل مورد الطبقة من StreamContainer المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.CanLoad method
 
-لتحديد ما إذا كان يمكن تحميل مورد الطبقة من المحدد[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+تحدد ما إذا كان يمكن تحميل مورد الطبقة من [`StreamContainer`](../../../aspose.psd/streamcontainer/).
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
+| streamContainer | StreamContainer | حاوية الدفق. |
 | psdVersion | Int32 | إصدار PSD. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان يمكن تحميل مورد الطبقة من المحدد[`StreamContainer`](../../../aspose.psd/streamcontainer/) ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان يمكن تحميل مورد الطبقة من [`StreamContainer`](../../../aspose.psd/streamcontainer/); وإلا, `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

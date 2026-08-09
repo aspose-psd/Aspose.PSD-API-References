@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImageRawDataLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IRasterImageRawDataLoader واجهه المستخدم. أداة تحميل البيانات الأولية للصورة النقطية.
+title: "الواجهة IRasterImageRawDataLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IRasterImageRawDataLoader. محمّل البيانات الخام للصورة النقطية."
 type: docs
-weight: 4580
+weight: 5050
 url: /ar/net/aspose.psd/irasterimagerawdataloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader interface
 
-أداة تحميل البيانات الأولية للصورة النقطية.
+محمل بيانات الصورة النقطية الخام.
 
 ```csharp
 public interface IRasterImageRawDataLoader
@@ -16,20 +17,20 @@ public interface IRasterImageRawDataLoader
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | يحصل على قيمة تشير إلى ما إذا كان تحميل البيانات الأولية مدعومًا. |
-| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | يحصل على إعدادات البيانات الأولية الحالية. ملاحظة عند استخدام هذه الإعدادات ، يتم تحميل البيانات بدون تحويل. |
+| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | يحصل على قيمة تُشير إلى ما إذا كان تحميل البيانات الخام مدعومًا. |
+| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | يحصل على إعدادات البيانات الخام الحالية. ملاحظة عند استخدام هذه الإعدادات يتم تحميل البيانات دون تحويل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | تحميل البيانات الأولية . |
+| [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | يقوم بتحميل البيانات الخام. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

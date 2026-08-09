@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.MatrixDimensionElementsCount
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMatrix مجال. عدد العناصر في بُعد المصفوفة.
+title: "ColorMatrix.MatrixDimensionElementsCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ColorMatrix. عدد العناصر في أبعاد المصفوفة"
 type: docs
 weight: 290
 url: /ar/net/aspose.psd/colormatrix/matrixdimensionelementscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixDimensionElementsCount field
 
 عدد العناصر في بُعد المصفوفة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd/colormatrix/matrixdimensionelementscount/
 public const int MatrixDimensionElementsCount;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../)
-* مساحة الاسم [Aspose.PSD](../../colormatrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

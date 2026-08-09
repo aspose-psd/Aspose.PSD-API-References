@@ -1,59 +1,60 @@
 ---
-title: PointF.Add
-second_title: Aspose.PSD لمرجع .NET API
-description: PointF طريقة. يترجم ملفًا معينًاPointF حسب المحددSize .
+title: "PointF.Add"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PointF. تُترجم نقطة PointF معينة بالحجم المحدد."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/pointf/add/
 ---
+{{< psd/tize >}}
 ## Add(PointF, Size) {#add}
 
-يترجم ملفًا معينًا[`PointF`](../) حسب المحدد[`Size`](../../size/) .
+تُترجم الـ [`PointF`](../) المعطى بالحجم المحدد [`Size`](../../size/).
 
 ```csharp
 public static PointF Add(PointF point, Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | PointF | ال[`PointF`](../) لترجمة. |
-| size | Size | ال[`Size`](../../size/) يحدد الأرقام المراد إضافتها إلى إحداثيات*point*. |
+| point | PointF | الـ [`PointF`](../) المراد ترجمته. |
+| size | Size | ال[`Size`](../../size/) الذي يحدد الأرقام التي تُضاف إلى إحداثيات *point*. |
 
 ### قيمة الإرجاع
 
-المترجم[`PointF`](../).
+ال[`PointF`](../) المترجم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Add(PointF, SizeF) {#add_1}
 
-يترجم ملفًا معينًا[`PointF`](../) بواسطة محدد[`SizeF`](../../sizef/) .
+تُترجم الـ [`PointF`](../) المعطى بحجم [`SizeF`](../../sizef/) محدد.
 
 ```csharp
 public static PointF Add(PointF point, SizeF size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | PointF | ال[`PointF`](../) لترجمة. |
-| size | SizeF | ال[`SizeF`](../../sizef/) يحدد الأرقام المراد إضافتها إلى إحداثيات*point*. |
+| point | PointF | الـ [`PointF`](../) المراد ترجمته. |
+| size | SizeF | ال[`SizeF`](../../sizef/) الذي يحدد الأرقام التي تُضاف إلى إحداثيات *point*. |
 
 ### قيمة الإرجاع
 
-المترجم[`PointF`](../).
+ال[`PointF`](../) المترجم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

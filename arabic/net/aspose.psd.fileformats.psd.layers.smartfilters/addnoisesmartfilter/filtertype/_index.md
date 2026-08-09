@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.FilterType
-second_title: Aspose.PSD لمرجع .NET API
-description: AddNoiseSmartFilter مجال. معرّف المرشح الذكي الحالي.
+title: "AddNoiseSmartFilter.FilterType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل AddNoiseSmartFilter. معرف المرشح الذكي الحالي"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.FilterType field
 
-معرّف المرشح الذكي الحالي.
+معرف الفلتر الذكي الحالي.
 
 ```csharp
 public const int FilterType;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AddNoiseSmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 
